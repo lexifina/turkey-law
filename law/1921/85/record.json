@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "85",
+  "year": 1921,
+  "title": "Teşkilâtı Esasiye Kanunu",
+  "adopted": "1921-01-20",
+  "adopted_as_published": "20/01/1337",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.02.1337 No: 1",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc001/kanuntbmmc001/kanuntbmmc00100085.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 1",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 1,
+      "kayit_no": 1532,
+      "title": "Teşkilâtı Esasiye Kanunu",
+      "adopted_as_published": "20/01/1337",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc001/kanuntbmmc001/kanuntbmmc00100085.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 66,
+          "sitting_date": "1920-09-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004066.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/ehttbmm01004066.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004fih.pdf",
+          "pages": [
+            "179:186",
+            "191",
+            "363:373",
+            "386:391",
+            "410:418"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 105,
+          "sitting_date": "1920-11-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c006/tbmm01006105.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c006/ehttbmm01006105.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c006/tbmm01006fih.pdf",
+          "pages": [
+            "120:137",
+            "148:166",
+            "258:265",
+            "337:351",
+            "358:376",
+            "449:452",
+            "481:500"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 132,
+          "sitting_date": "1921-01-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c007/tbmm01007132.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c007/ehttbmm01007132.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c007/tbmm01007fih.pdf",
+          "pages": [
+            "249:265",
+            "292:312",
+            "321:339"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "3e033a92c7a8943f4335981533b631f49a8313684ba5b857662ded3c81594e37"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "3e033a92c7a8943f4335981533b631f49a8313684ba5b857662ded3c81594e37",
+  "issuer": "TBMM",
+  "in_force": "1921-01-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 20/01/1337 (Rumi year, +584); record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
