@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 — Bu Yönetmelik, borsalarda yapılacak alivre ve vadeli alım satımların şekli, alım satım yapan gerçek ve tüzel kişilerin faaliyet ve denetim esasları ile yükümlülükleri, işlemlerin tescil, takip ve kontrolü, verilen hizmetlere karşılık alınacak ücretler ile teminatlara ilişkin usul ve esasları, ihtilafların halli ve oluşan zararların tazmini, borsanın yetki ve sorumluluklarını kapsamaktadır.
