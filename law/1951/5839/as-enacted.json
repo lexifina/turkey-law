@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5839",
+  "year": 1951,
+  "title": "Devlet Memurları Aylıklarının Tevhit ve Teadülüne Dair Olan 3656 Sayılı Kanuna Bağlı (1) Sayılı Cetvelin Emniyet Genel Müdürlüğü Kısmında Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-08-15",
+  "gazette_issue": "7885",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7885.pdf",
+  "source_sha256": "baf8cd657984f5e154bd274a7e6c5874596ea2c893499b7ea1d2e2dce605c1df",
+  "text_sha256": "f2225f3ffe0378029674ab320232dd6c0ac0fb918abe3b76cac3eb7e19d228d1",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      540,
+      567
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305839.pdf",
+    "source_sha256": "b47545dee82da7b5e31d11c7541d39a41ce06b561c99d3e75d7e162871b6c0db",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.908,
+    "bag": 0.8424,
+    "kd_coverage": 0.9793,
+    "kd_body_compared": 0.9625,
+    "rg_words": 157,
+    "kd_words": 160,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
