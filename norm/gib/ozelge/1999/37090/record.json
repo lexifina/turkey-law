@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6654-256/13209",
+  "source_id": 37090,
+  "date": "1999-04-07",
+  "title": "Vakıftan ve babasından dolayı aldığı yetim aylığı dışında başka geliri olmayan kişi,sahip olduğu tek meskeni için indirimli bina vergisi oranından faydalandırılması gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37090",
+  "source_sha256": "ab474fb46fb2d39a17c2ce51add443ee0763a1b209655ef1531e5dfcbf139b18",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
