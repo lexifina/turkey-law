@@ -1,0 +1,61 @@
+{
+  "id": "0c66a1d0-3016-d406-db95-e3e9ecf16879",
+  "decision_number": "1977/148",
+  "case_number": "1977/100",
+  "decision_date": "1977-12-22",
+  "published_date": "1978-04-29",
+  "source_publication_date": "1977-12-25",
+  "gazette_number": 16273,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1977/148",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "2f00afbd254d7b286d2b975228908ef3056b94af24c02ad4b359e90ae472db60",
+  "version_label": "as-enacted",
+  "in_force": "1977-12-22",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": false,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1972-04-18",
+      "normNumaraAdParamId": "e1e64ba2-b72b-87ba-21e1-2e43bcef96bb",
+      "incelemeturuKarsonucuParamId": "23fcca64-d9a4-419a-cc11-20a5c62b4a95",
+      "sonucGerekcesiParamId": "e8c14485-6a16-63b3-53b1-9ddd4bec95ad",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "Geçici 3",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/8"
+        },
+        {
+          "hukum": "1961/12"
+        },
+        {
+          "hukum": "1961/31"
+        },
+        {
+          "hukum": "1961/40"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 2907
+}
