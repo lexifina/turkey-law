@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8606",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (2004/26)",
+  "number": "8606",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2004/8606",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8606&MevzuatTertip=5",
+  "source_sha256": "3d8eeade27b80374bc41d736104e0f44087e6fcae0ed86622be0a75968316fb5",
+  "source_bytes": 24376,
+  "published": "2004-11-20",
+  "gazette": "25646",
+  "in_force": "2004-11-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.11.2004); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 668,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
