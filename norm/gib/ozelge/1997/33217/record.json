@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5328-698/18589",
+  "source_id": 33217,
+  "date": "1997-05-06",
+  "title": "Finansal Kiralama Kanunu çerçevesinde yurt içinden ve yurtdışından yapılan kiralamalar ile kiralama sözleşmesinin bitiminde kesin ithalin yapılması sırasında uygulanacak K.D.V. oranları %1'dir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33217",
+  "source_sha256": "5dc67c1dd9260b9c1373c970742d0f673b4b852ed93caeb2347573bab3991ba0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
