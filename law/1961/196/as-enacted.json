@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "196",
+  "year": 1961,
+  "title": "Ekici tütünleri satış piyasalarının desteklenmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1961-01-07",
+  "gazette_issue": "10701",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10701.pdf",
+  "source_sha256": "9d7c2f77e523ffeed8d4f533348b6fb54c8b8206455fe48c5ed922619b1c0f21",
+  "text_sha256": "1f7ff2cd7effba58d54ba948f01aabe3703989fe63bea01294265cdd437af109",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      25,
+      51
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300196.pdf",
+    "source_sha256": "b5baf3fbf34937c1de30db742ea9a259d15f07ca06e8f81c58596a7a0d9be43a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9654,
+    "bag": 0.9191,
+    "kd_coverage": 0.9805,
+    "kd_body_compared": 0.9441,
+    "rg_words": 157,
+    "kd_words": 161,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
