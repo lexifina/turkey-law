@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 26- Bu Yönetmelik Hükümleri yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1990-03-30",
+      "30.03.1990",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2002-05-13",
+      "RG-13/05/2002-24754",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-05-13",
+      "RG-13/05/2002-24754",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-05-13",
+      "RG-13/05/2002-24754",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-05-13",
+      "RG-13/05/2002-24754",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-13/05/2002-24754",
+  "first_law": null,
+  "gazette": "20477",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2002-05-13",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/1990/7159",
+  "published": "1990-03-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7159&MevzuatTertip=5",
+  "source_bytes": 47253,
+  "source_id": "8.5.7159",
+  "source_sha256": "8bba6e1adfc48132cd7f3483cf7e34cc3642d65586d5e90bcbaea5016e5a8274",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ\r\nARŞİV YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 2010
+}
