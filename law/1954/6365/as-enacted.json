@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6365",
+  "year": 1954,
+  "title": "24 Eylül 1949 tarihînde Roma'da Tanzim Edilmiş olan Akdeniz Balıkçılık Genel Konseyi Anlaşmasına Türkiye'nin İltihakı Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-19",
+  "gazette_issue": "8662",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8662.pdf",
+  "source_sha256": "b2f19da34bc2a07b1f7a90e3fec9a05a7b9e2d64fc26ab725bc95a6f38d61c5a",
+  "text_sha256": "98c867b805045b61abbd3a18670b2caf88cea811bf16c5bb1c581bd3f41046ce",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      11,
+      196
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606365.pdf",
+    "source_sha256": "af04cffdc69c8d7363c6f9dcef46b9edf1e20a6a64b99abc0d521d164a6df07a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9515,
+    "bag": 0.8989,
+    "kd_coverage": 0.9833,
+    "kd_body_compared": 0.9974,
+    "rg_words": 1118,
+    "kd_words": 1141,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
