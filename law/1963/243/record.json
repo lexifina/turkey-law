@@ -1,0 +1,158 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "243",
+  "year": 1963,
+  "title": "Sağlık Hizmetlerinin Sosyalleştirilmesi hakkındaki 224 sayılı Kanunun 29. maddesinin değiştirilmesine dair Kanun",
+  "adopted": "1963-05-30",
+  "adopted_as_published": "30/05/1963",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "08.06.1963 No: 11423",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600243.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 46",
+  "committee_reports": [
+    {
+      "label": "MM 143 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016079ss0143.pdf"
+    },
+    {
+      "label": "CS 133no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011070ss0133.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 340772,
+      "title": "Sağlık Hizmetlerinin Sosyalleştirilmesi hakkındaki 224 sayılı Kanunun 29. maddesinin değiştirilmesine dair Kanun",
+      "adopted_as_published": "30/05/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600243.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 143 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016079ss0143.pdf"
+        },
+        {
+          "label": "CS 133no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011070ss0133.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 15,
+          "sitting": 62,
+          "sitting_date": "1962-03-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015062.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 64,
+          "sitting_date": "1962-03-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015064.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015fih.pdf",
+          "pages": [
+            "73"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 72,
+          "sitting_date": "1963-04-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016fih.pdf",
+          "pages": [
+            "307"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 79,
+          "sitting_date": "1963-04-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016079.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016fih.pdf",
+          "pages": [
+            "591:592"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1801&v_kullanici_id=27483225",
+      "page_sha256": "33cf0b4851d47949e2eebb18398e9f799f6d84f9701f66640a4cbe2215be964f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 173530,
+      "title": "Sağlık hizmetlerinin sosyalleştirilmesi hakkındaki 224 sayılı Kanunun 29 ncu maddesinin değiştirilmesine dair Kanun",
+      "adopted_as_published": "30/05/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600243.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 143 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016079ss0143.pdf"
+        },
+        {
+          "label": "CS 133no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011070ss0133.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 63,
+          "sitting_date": "1963-05-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011063.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011fih.pdf",
+          "pages": [
+            "173:174"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 68,
+          "sitting_date": "1963-05-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011fih.pdf",
+          "pages": [
+            "305"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 70,
+          "sitting_date": "1963-05-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011fih.pdf",
+          "pages": [
+            "364",
+            "367:369"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=201&v_kullanici_id=27483235",
+      "page_sha256": "556899a76dfbaf68914e5dd95f82a8639a02df8d2ff256048f22c24a0c15d660"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "33cf0b4851d47949e2eebb18398e9f799f6d84f9701f66640a4cbe2215be964f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1963-05-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 30/05/1963; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
