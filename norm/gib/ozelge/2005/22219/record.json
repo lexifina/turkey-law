@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006 -845/5905",
+  "source_id": 22219,
+  "date": "2005-02-08",
+  "title": "Arsa karşılığı inşaat işinin vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22219",
+  "source_sha256": "b647ce16f70e1ef522e91123161ee8f62e6ace7649c43cf8ec157b219d140d4b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
