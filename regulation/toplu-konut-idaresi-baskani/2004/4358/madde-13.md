@@ -1,0 +1,3 @@
+Tahsis Teminatı
+Madde 13 — Altyapılı Arsa tahsisi için yapılan başvurularda, tahsis bedelinin %5’i oranında; nakit veya banka teminat mektubu veya Devlet tahvili veya Hazine bonosu tahsis teminatı olarak alınır. Peşinatın yatırılıp sözleşmenin imzalanmasını takiben tahsis teminatları iade edilir. Tahsis Yoluyla Altyapılı Arsa Satınalma Talep ve Yüklenim Belgesinde belirtilen süre içinde peşinatın yatırılarak sözleşmenin imzalanmaması durumunda ise tahsis teminatı İdareye irad kaydedilir.
+Tahsis yoluyla satışa sunulan Altyapılı Arsaların tamamı için yeterli talebin oluşmaması halinde İdare tahsis yoluyla satıştan vazgeçebilir. Bu durumda tahsis teminatının tamamı, başvuru süresinin bitiş tarihinden itibaren en geç 30 gün içinde, İdare tarafından iade edilir.

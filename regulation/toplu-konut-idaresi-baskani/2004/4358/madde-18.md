@@ -1,0 +1,3 @@
+Devir
+Madde 18 — Hak Sahipleri, tahsis yoluyla satın aldıkları Altyapılı Arsaları, Tahsis Yoluyla Altyapılı Arsa Satış Sözleşmesinin imza tarihinden itibaren 3 yıl içinde, 3 üncü şahıs ve kuruluşlara devir ve temlik edemezler. Hak Sahibi, devir yasağını kapsayan bu süre içerisinde taşınmazı İdareye iade edebilir. Bu takdirde İdare, Hak Sahibinin o tarihe kadar yapmış olduğu ödemeleri faizsiz olarak iade eder.
+Üç yılın sonunda Altyapılı Arsanın devredilmesi halinde, devir alan 3 üncü şahıs ya da kuruluş, devredenin sahip olduğu Tahsis Yoluyla Altyapılı Arsa Satış Sözleşmesinde yer alan hak ve yükümlülükleri de devralır. Devir alan şahıs ya da kuruluşun bu Yönetmeliğin 11 inci maddesinde hüküm altına alınan tahsis şartlarını taşıması gerekmektedir.
