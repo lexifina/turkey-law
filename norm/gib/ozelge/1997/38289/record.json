@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-274/36173",
+  "source_id": 38289,
+  "date": "1997-08-25",
+  "title": "Ö.K.C. kullanma mecburiyetinin başlama tarihi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38289",
+  "source_sha256": "29b04c18e125cfbc01cdf0cff6bb85de898d64183cd3be8218e5c0090e370855",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
