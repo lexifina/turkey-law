@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/853",
+  "list_number": "853",
+  "decision_date": "1999-04-28",
+  "title": "YSK ilke kararı 1999/853",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4656/1999-853-karar.htm",
+  "source_sha256": "5cb45ab372740b25f9efb888018b8366dd17b9a18ad457e77fb9f00f935e37c9",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-04-28",
+  "law_text_complete": false
+}
