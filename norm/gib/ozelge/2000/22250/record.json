@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4042 &#8211;47/15927",
+  "source_id": 22250,
+  "date": "2000-04-07",
+  "title": "Laboratuvar işletmeciliği (Tanı merkezi) faaliyetinden elde ettiği gelirin ticari kazanç olarak vergilendirilmesi gerekmekte olup ödeme kaydedici cihaz alması ve kullanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22250",
+  "source_sha256": "c849dffd9d02984d39f4137e3d3e9b50570c88f6b926668c10ec4aa6b9e14963",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
