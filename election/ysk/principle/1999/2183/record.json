@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/2183",
+  "list_number": "2183",
+  "decision_date": "1999-09-11",
+  "title": "YSK ilke kararı 1999/2183",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4494/1999-2183-karar.htm",
+  "source_sha256": "6b9dddd0f5856d50dff839be8f2c5a4ddaf1ffbc4d22021bdbb64e7e184ff7d6",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-09-11",
+  "law_text_complete": false
+}
