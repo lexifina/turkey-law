@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5511-1960/35619",
+  "source_id": 38074,
+  "date": "1998-10-06",
+  "title": "Türkiye Şeker Fabrikalarından temin edilecek şeker teslimlerinde hesaplanan Katma Değer Vergisi ile Damga ve Harç istisnasından yararlanmaları mümkün bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38074",
+  "source_sha256": "1899403a2781965f2f995c5e85ef4f15c95979a42cf711e891f5e4f3941a0d05",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
