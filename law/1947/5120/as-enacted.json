@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5120",
+  "year": 1947,
+  "title": "Avrupa Kömür Kurulu Anlaşmasının bir yıl uzatılmasına dair olan Protokolün onanması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-09-01",
+  "gazette_issue": "6695",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6695.pdf",
+  "source_sha256": "50515984506b9e4c9de40d1f3484169b253d690bbf5400604c579b51adc9c6d6",
+  "text_sha256": "4d39a1b7eaec24fce914b8ac28b873c263368d4b8fc3bb0582518f20d95bf896",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      8,
+      28
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905120.pdf",
+    "source_sha256": "6eff830ce150c920b8b0ce5286efca0049aeb73be58d2accec8d4d81b3c6d331",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9556,
+    "bag": 0.8944,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.2423,
+    "rg_words": 82,
+    "kd_words": 326,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
