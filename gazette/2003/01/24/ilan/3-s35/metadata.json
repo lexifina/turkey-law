@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-01-24",
+  "issue": "25003",
+  "edition": "regular",
+  "item": 35,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Gaziantep Şehitkamil Belediye Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030124-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (37 = 37)",
+  "ilan_codes": [
+    "646/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030124-3.htm",
+  "category_page_sha256": "775adfb98d6a7d1c112312a5885f5abc451af1d4c2462d497661105ac1ded5e6",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030124.htm",
+  "index_sha256": "20b2666e30098ca41aa2869df17cad622ae11b6f6f15e51525fedeac32d8d173",
+  "index_header": "24 Ocak 2003 ... Sayı : 25003",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
