@@ -1,0 +1,90 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5185",
+  "year": 2004,
+  "title": "Yalova Termal Kaplıcalarının İşletilmesi ve Kaplıcaların İnkişafı İşlerinin Sıhhat ve İçtimai Muavenet Vekaletine Bağlı Hükmi Şahsiyeti Haiz Bir Teşekküle Devri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2004-06-03",
+  "adopted_as_published": "03/06/2004",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.06.2004 No: 25487",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08805185.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 88",
+  "committee_reports": [
+    {
+      "label": "TBMM 448 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051096ss0448.pdf"
+    },
+    {
+      "label": "TBMM 448no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051097ss0448.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 207727,
+      "title": "Yalova Termal Kaplıcalarının İşletilmesi ve Kaplıcaların İnkişafı İşlerinin Sıhhat ve İçtimai Muavenet Vekaletine Bağlı Hükmi Şahsiyeti Haiz Bir Teşekküle Devri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "03/06/2004",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08805185.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 448 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051096ss0448.pdf"
+        },
+        {
+          "label": "TBMM 448no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051097ss0448.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 45,
+          "sitting": 71,
+          "sitting_date": "2004-04-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c045/tbmm22045071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c045/tbmm22045fih.pdf",
+          "pages": [
+            "225"
+          ]
+        },
+        {
+          "cilt": 48,
+          "sitting": 87,
+          "sitting_date": "2004-05-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c048/tbmm22048087.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c048/tbmm22048fih.pdf",
+          "pages": [
+            "309"
+          ]
+        },
+        {
+          "cilt": 51,
+          "sitting": 97,
+          "sitting_date": "2004-06-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051097.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051fih.pdf",
+          "pages": [
+            "283:294"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=401&v_kullanici_id=27483198",
+      "page_sha256": "48bd612a80b7f74f51d30c16bc0ba7cd7e6341df596568c61d8c08c42b65c32c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "48bd612a80b7f74f51d30c16bc0ba7cd7e6341df596568c61d8c08c42b65c32c",
+  "issuer": "TBMM",
+  "in_force": "2004-06-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/06/2004; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
