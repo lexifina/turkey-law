@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5581",
+  "year": 1950,
+  "title": "Atatürk Anıt-Kabri inşasına dair olan 4677 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-03-04",
+  "gazette_issue": "7448",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7448.pdf",
+  "source_sha256": "646583d018d2ae9fd10c49732dad5622116f95aa32046d791eaa448cc8e40512",
+  "text_sha256": "5a96ee2a13cf5ea88c5b8fe3336d67d46233869d686603b732d5d858e5889cfb",
+  "text_status": "ocr",
+  "pages": [
+    11
+  ],
+  "line_span": [
+    [
+      2461,
+      2475
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205581.pdf",
+    "source_sha256": "823db5425aa0158e6e59299233b02dfc7d79f3f3fcbf357be08958e361b1e029",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9033,
+    "bag": 0.7771,
+    "kd_coverage": 0.9744,
+    "kd_body_compared": 0.939,
+    "rg_words": 80,
+    "kd_words": 82,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
