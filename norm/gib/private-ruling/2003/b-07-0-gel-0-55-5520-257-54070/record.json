@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2003-12-18T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2003-12-18",
+  "official_number": "B.07.0.GEL.0.55- 5520 - 257 / 54070",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29980",
+  "source_id": "ozelge:29980",
+  "source_row_sha256": "40930b09d6096c9217f59232dadb365fcb3e1c943b2c10e78d18695c4ceeb380",
+  "title": "Bandrol ücretine tabi cihazların katma değer vergisi matrahı bu cihazların teslimi karşılığında imalatçı veya ithalatçı firmalarca alınan ÖTV dahil toplam bedeldir.",
+  "version_label": "as-enacted",
+  "word_count": 221
+}
