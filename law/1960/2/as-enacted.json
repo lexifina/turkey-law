@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2",
+  "year": 1960,
+  "title": "Ticaret ve Sanayi Odaları, Ticaret Odaları, Sanayi Odaları ve Ticaret Borsalarının uzuvlarının feshi ile yeniden seçimlerinin yapılması hakkında geçici Kanun. (BASILI GENEL KURUL TUTANAGI BULUNMAMAKTADIR)",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-06-15",
+  "gazette_issue": "10526",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10526.pdf",
+  "source_sha256": "3bb7f4f4197fdbbfaaf783d5f20a180a31de94de326ea8a30fba29ae59ee35ff",
+  "text_sha256": "4a8b8eb0562fb396545953a58387a34a91af98505c66719b858eb6e8c256403a",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      42
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300002.pdf",
+    "source_sha256": "c5a6c24eeb46674f66ac921bbcc86f48f1d92fb9f1e08a320f4b6fef59e9685d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9837,
+    "bag": 0.9632,
+    "kd_coverage": 0.9778,
+    "kd_body_compared": 0.9412,
+    "rg_words": 177,
+    "kd_words": 187,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
