@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 2777,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Tarik Bedeli Nakdîsi Kanununun beşinci maddesinin tadiline dair",
+  "title": "Tarik Bedeli Nakdîsi Kanununun beşinci maddesinin tadiline dair",
+  "first_sitting_date": "1921-06-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 39,
+      "sitting_date": "1921-06-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c010/tbmm01010039.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c010/ehttbmm01010039.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c010/tbmm01010fih.pdf",
+      "pages": [
+        "385"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 140,
+      "sitting_date": "1922-01-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c015/tbmm01015140.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c015/ehttbmm01015140.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c015/tbmm01015fih.pdf",
+      "pages": [
+        "313"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 43,
+      "sitting_date": "1922-05-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c020/tbmm01020043.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c020/ehttbmm01020043.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c020/tbmm01020fih.pdf",
+      "pages": [
+        "40"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 61,
+      "sitting_date": "1922-06-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c021/tbmm01021061.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c021/ehttbmm01021061.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c021/tbmm01021fih.pdf",
+      "pages": [
+        "4:22"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=703&v_gelecek_sayfa=301&v_kullanici_id=27483709",
+  "source_sha256": "a5c50ef59e3876833422c39bd2c0932e78a52ad925e6ab77631336af92a6a288",
+  "in_force": "1921-06-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
