@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5009-33/2348",
+  "source_id": 37664,
+  "date": "1997-01-22",
+  "title": "Vakıflar tarafından kurulan üniversitelerin kurumlar vergisine tabi olup olmadıkları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37664",
+  "source_sha256": "448d67066c724a583590519295ac5b090599f65541b610d4846612f32e3f7325",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
