@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6033-32/18528",
+  "source_id": 36375,
+  "date": "1997-05-06",
+  "title": "Belirli bir hizmet süresini doldurarak emekli olmadan ölen memur ve hizmetliye verilmesi gereken, ancak vefat ettiği için dul ve yetimlerine verilen emekli ikramiyesi ile mevsimlik işçi statüsünde bulunan şahısların varislerine ödenen kıdem tazminatları v",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36375",
+  "source_sha256": "f8053be9fb7ee3d7af350e891c88987e8dc314d8c3e0c58548ab0fcb496eccab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
