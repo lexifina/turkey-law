@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-30937/35747",
+  "source_id": 21730,
+  "date": "2000-07-26",
+  "title": "Eksik yapılan yatırım harcaması dolayısıyla,zamanında tahakkuk ettirilmemiş vergiler, eksik yapılan harcamanın öngörülen tutarın yüzde onuna göre karşılaştırılarak hesaplanacak tecil faizi ve faiziyle tahsil edilir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21730",
+  "source_sha256": "5224c301b91edb5418da46eff091fe3c693ddab17bdd27dec31f7fd19990f4b4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
