@@ -1,0 +1,123 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3235",
+  "year": 1985,
+  "title": "1479 Sayılı Esnaf ve Sanatkarlar ve Diğer bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanununa Bazı Maddeler Eklenmesine Dair Kanun",
+  "adopted": "1985-11-05",
+  "adopted_as_published": "05/11/1985",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.11.1985 No: 18923",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903235.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 69",
+  "committee_reports": [
+    {
+      "label": "TBMM 332 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c017/tbmm17017109ss0332.pdf"
+    },
+    {
+      "label": "TBMM 332ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020024ss0332ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 471554,
+      "title": "1479 Sayılı Esnaf ve Sanatkarlar ve Diğer bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanununa Bazı Maddeler Eklenmesine Dair Kanun",
+      "adopted_as_published": "05/11/1985",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903235.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 332 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c017/tbmm17017109ss0332.pdf"
+        },
+        {
+          "label": "TBMM 332ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020024ss0332ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 80,
+          "sitting_date": "1985-04-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c014/tbmm17014080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c014/tbmm17014fih.pdf",
+          "pages": [
+            "377"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 106,
+          "sitting_date": "1985-06-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c017/tbmm17017106.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c017/tbmm17017fih.pdf",
+          "pages": [
+            "192"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 109,
+          "sitting_date": "1985-06-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c017/tbmm17017109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c017/tbmm17017fih.pdf",
+          "pages": [
+            "466:477"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 110,
+          "sitting_date": "1985-06-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c018/tbmm17018110.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c018/tbmm17018fih.pdf",
+          "pages": [
+            "113"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 20,
+          "sitting_date": "1985-10-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c019/tbmm17019020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c019/tbmm17019fih.pdf",
+          "pages": [
+            "659"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 24,
+          "sitting_date": "1985-11-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020fih.pdf",
+          "pages": [
+            "156:160"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=401&v_kullanici_id=27483190",
+      "page_sha256": "5877ff681863294c88d5df56a47f8723b0b0802ad981cd39436186cc42c2f649"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5877ff681863294c88d5df56a47f8723b0b0802ad981cd39436186cc42c2f649",
+  "issuer": "TBMM",
+  "in_force": "1985-11-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 05/11/1985; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
