@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-453/41588",
+  "source_id": 38274,
+  "date": "1999-10-01",
+  "title": "İşyerinin kapatılması halinde, Ö.K.C.'nın mali hafızasının yetkili servis tarafından sökülüp saklanması gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38274",
+  "source_sha256": "75c70d75610344a091aa69a06f1d5d6d6698260588d1f232390ee4973c508a1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
