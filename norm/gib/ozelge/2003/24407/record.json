@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4078- 92/47545",
+  "source_id": 24407,
+  "date": "2003-11-04",
+  "title": "Çocuk yuvası inşaatının yapımı için yapılan harcamaların tamamının yıllık beyanname ile bildirilecek gelirden indirilip indirilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24407",
+  "source_sha256": "6bb7594cb17e8e73a24457cfcd2da358ab5a3016a57df6cee72a26f974b49cf4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
