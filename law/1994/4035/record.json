@@ -1,0 +1,97 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4035",
+  "year": 1994,
+  "title": "Gümrük Rejimlerinin Basitleştirilmesi ve Ahenkleştirilmesine İlişkin Uluslararası Sözleşme (Kyoto Sözleşmesi) ve Altı Ekine Katılmamızın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "1994-09-27",
+  "adopted_as_published": "27/09/1994",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.10.1994 No: 22068",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc078/kanuntbmmc078/kanuntbmmc07804035.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 78",
+  "committee_reports": [
+    {
+      "label": "TBMM 381 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c067/tbmm19067010ss0381.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 275942,
+      "title": "Gümrük Rejimlerinin Basitleştirilmesi ve Ahenkleştirilmesine İlişkin Uluslararası Sözleşme (Kyoto Sözleşmesi) ve Altı Ekine Katılmamızın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "27/09/1994",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc078/kanuntbmmc078/kanuntbmmc07804035.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 381 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c067/tbmm19067010ss0381.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 8,
+          "sitting": 61,
+          "sitting_date": "1992-03-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c008/tbmm19008061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c008/tbmm19008fih.pdf",
+          "pages": [
+            "536"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 35,
+          "sitting_date": "1993-12-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c045/tbmm19045035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c045/tbmm19045fih.pdf",
+          "pages": [
+            "9"
+          ]
+        },
+        {
+          "cilt": 67,
+          "sitting": 10,
+          "sitting_date": "1994-09-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c067/tbmm19067010.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c067/tbmm19067fih.pdf",
+          "pages": [
+            "33:35",
+            "46",
+            "62:67"
+          ]
+        },
+        {
+          "cilt": 67,
+          "sitting": 11,
+          "sitting_date": "1994-09-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c067/tbmm19067011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c067/tbmm19067fih.pdf",
+          "pages": [
+            "138",
+            "184",
+            "227:231"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=201&v_kullanici_id=27483194",
+      "page_sha256": "2ed704f93574c719c805e61fefaefa27aa942ed14954cfb0a63361110561de0c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2ed704f93574c719c805e61fefaefa27aa942ed14954cfb0a63361110561de0c",
+  "issuer": "TBMM",
+  "in_force": "1994-09-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/09/1994; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
