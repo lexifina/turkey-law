@@ -1,0 +1,62 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7115",
+  "year": 1958,
+  "title": "Türkiye Cumhuriyeti ile Federal Almanya Cumhuriyeti arasında imzalanan Kültür Anlaşmasının tasdiki hakkında Kanun",
+  "adopted": "1958-05-07",
+  "adopted_as_published": "07/05/1958",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.05.1958 No: 9906",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007115.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 40",
+  "committee_reports": [
+    {
+      "label": "TBMM 93 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c004/tbmm11004065ss0093.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 11,
+      "kayit_no": 42239,
+      "title": "Türkiye Cumhuriyeti ile Federal Almanya Cumhuriyeti arasında imzalanan Kültür Anlaşmasının tasdiki hakkında Kanun",
+      "adopted_as_published": "07/05/1958",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007115.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 93 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c004/tbmm11004065ss0093.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 50,
+          "sitting_date": "1958-03-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c003/tbmm11003050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c003/tbmm11003fih.pdf",
+          "pages": [
+            "19",
+            "50:52",
+            "61:65"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "32cd446c14d82cbaa7fa5f87794d12d3c5d689251c1f5af93e447be97a7767d9"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "32cd446c14d82cbaa7fa5f87794d12d3c5d689251c1f5af93e447be97a7767d9",
+  "issuer": "TBMM",
+  "in_force": "1958-05-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 07/05/1958; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
