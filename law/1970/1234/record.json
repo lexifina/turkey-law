@@ -1,0 +1,180 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1234",
+  "year": 1970,
+  "title": "22 Nisan 1962 tarihli ve 45 sayılı Yüksek Hâkimler Kurulu Kanunun bazı maddelerinin yeniden düzenlenmesine ve bazı maddelerinin değiştirilmesine dair Kanun",
+  "adopted": "1970-02-10",
+  "adopted_as_published": "10/02/1970",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301234.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 53",
+  "committee_reports": [
+    {
+      "label": "MM 1 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001017ss0001.pdf"
+    },
+    {
+      "label": "MM 1ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006096ss0001ek01.pdf"
+    },
+    {
+      "label": "CS 1364no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057042ss1364.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 377171,
+      "title": "22 Nisan 1962 tarihli ve 45 sayılı Yüksek Hâkimler Kurulu Kanunun bazı maddelerinin yeniden düzenlenmesine ve bazı maddelerinin değiştirilmesine dair Kanun",
+      "adopted_as_published": "10/02/1970",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301234.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 1 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001017ss0001.pdf"
+        },
+        {
+          "label": "MM 1ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006096ss0001ek01.pdf"
+        },
+        {
+          "label": "CS 1364no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057042ss1364.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 14,
+          "sitting_date": "1969-12-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001fih.pdf",
+          "pages": [
+            "404"
+          ]
+        },
+        {
+          "cilt": 1,
+          "sitting": 15,
+          "sitting_date": "1969-12-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001015.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001fih.pdf",
+          "pages": [
+            "463"
+          ]
+        },
+        {
+          "cilt": 1,
+          "sitting": 17,
+          "sitting_date": "1969-12-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001fih.pdf",
+          "pages": [
+            "519:543"
+          ]
+        },
+        {
+          "cilt": 1,
+          "sitting": 19,
+          "sitting_date": "1969-12-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001fih.pdf",
+          "pages": [
+            "605:632"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 23,
+          "sitting_date": "1970-01-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c002/mm__03002023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c002/mm__03002fih.pdf",
+          "pages": [
+            "67:84"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 24,
+          "sitting_date": "1970-01-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c002/mm__03002024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c002/mm__03002fih.pdf",
+          "pages": [
+            "94:99",
+            "115:118"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=501&v_kullanici_id=27483225",
+      "page_sha256": "0258843447909eb78d2e7ce9ef5c85b41c15a35cb2a8d3561ced4550e61b6ae4"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 313704,
+      "title": "22 Nisan 1962 tarihli ve 45 sayılı Yüksek Hâkimler Kurulu Kanununun bâzı maddelerinin yeniden düzenlenmesine ve bâzı maddelerinin değiştirilmesine dair kanun",
+      "adopted_as_published": "10/02/1970",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301234.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 1 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001017ss0001.pdf"
+        },
+        {
+          "label": "MM 1ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006096ss0001ek01.pdf"
+        },
+        {
+          "label": "CS 1364no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057042ss1364.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 55,
+          "sitting": 26,
+          "sitting_date": "1970-01-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c055/cs__09055026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c055/cs__09055fih.pdf",
+          "pages": [
+            "268"
+          ]
+        },
+        {
+          "cilt": 57,
+          "sitting": 42,
+          "sitting_date": "1970-02-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057fih.pdf",
+          "pages": [
+            "12:60"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1201&v_kullanici_id=27483235",
+      "page_sha256": "96b91fa18a90b3a56fc00f348d3e0c985a091d6aaed647d757bd25ab8db894ee"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0258843447909eb78d2e7ce9ef5c85b41c15a35cb2a8d3561ced4550e61b6ae4",
+  "issuer": "Millet Meclisi",
+  "in_force": "1970-02-10",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 10/02/1970; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
