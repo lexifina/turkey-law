@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5114-38/27375",
+  "source_id": 24416,
+  "date": "1997-07-01",
+  "title": "Gelir ve Kurumlar Vergisi mükellefleri tarafından fakülteye yapılan bilgisayar ve labaratuvar malzeme bağışında, bedelleriningelir ve kurumlar vergisi matrahlarının tespitinde",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/24416",
+  "source_sha256": "7c2ee2d8bc49b309a6ec8fa05aad64c0c05d8c77e39143037877e7c06857c507",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
