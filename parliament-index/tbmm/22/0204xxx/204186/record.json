@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 204186,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MUSTAFA ÇAKIR (SAMSUN)",
+  "summary": "Devlet Memurları ve Türk Silahlı Kuvvetleri Personel Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi, Şanlıurfa Milletvekili Yahya Akman'ın; Devlet Memurları Kanunu, Türk Silahlı Kuvvetleri Personel Kanunu ile 399 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun Teklifi ve Iğdır Milletvekili Dursun Akdemir ile Denizli Milletvekili Ümmet Kandoğan'ın, 657 Sayılı Devlet Memurları Kanununa Bir Ek Geçici Madde Eklenmesine Dair (2/252, 2/21, 2/318)",
+  "title": "Devlet Memurları ve Türk Silahlı Kuvvetleri Personel Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi, Şanlıurfa Milletvekili Yahya Akman'ın; Devlet Memurları Kanunu, Türk Silahlı Kuvvetleri Personel Kanunu ile 399 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun Teklifi ve Iğdır Milletvekili Dursun Akdemir ile Denizli Milletvekili Ümmet Kandoğan'ın, 657 Sayılı Devlet Memurları Kanununa Bir Ek Geçici Madde Eklenmesine Dair (2/252, 2/21, 2/318)",
+  "first_sitting_date": "2005-02-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 73,
+      "sitting": 53,
+      "sitting_date": "2005-02-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c073/tbmm22073053.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c073/tbmm22073fih.pdf",
+      "pages": [
+        "285:314"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66ff55d5a0d0d1e0906be9fad02382007df85b0722cee305a515ce66f9372765",
+  "in_force": "2005-02-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
