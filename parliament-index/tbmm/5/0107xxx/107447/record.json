@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 107447,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Askerî ve mülkî tekaüd Kanununun 25. maddesi mucibince tekaüd edilen veya tekaüd edilmek hakkını haiz bulunanların yetimlerine ayni Kanunun 49. maddesinin 1 ve 2. fıkraları hükmüne göre yetim maaşı tahsis edilib edilemeyeceği hakkında (5/10)",
+  "title": "Askerî ve mülkî tekaüd Kanununun 25. maddesi mucibince tekaüd edilen veya tekaüd edilmek hakkını haiz bulunanların yetimlerine ayni Kanunun 49. maddesinin 1 ve 2. fıkraları hükmüne göre yetim maaşı tahsis edilib edilemeyeceği hakkında (5/10)",
+  "first_sitting_date": "1935-05-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 25,
+      "sitting_date": "1935-05-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003025.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003fih.pdf",
+      "pages": [
+        "115"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 24,
+      "sitting_date": "1936-01-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c008/tbmm05008024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c008/tbmm05008fih.pdf",
+      "pages": [
+        "14",
+        "19:24"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1bc1787e538184e4b85c3e3e778f2f0f4fb14569b85c17613f762583aa13fba7",
+  "in_force": "1935-05-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
