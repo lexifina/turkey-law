@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.O7.0.GEL.0.0/5038-1/18140",
+  "source_id": 24099,
+  "date": "1997-05-02",
+  "title": "Kurumlar vergisi mükellefiyeti bulunmayan dernek ve vakıflara ödenecek menkul kıymet gelirleri üzerinden vergi tevkifatı yapılıp yapılmayacağı hakkında. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/24099",
+  "source_sha256": "6a0bedb847af83da1457eb3d61be203863a01826ea758ea7b9c29094df4e2e28",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
