@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5309",
+  "year": 2005,
+  "title": "Noterlik Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-03-08",
+  "gazette_issue": "25749",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050308-1.htm",
+  "source_sha256": "13bd10f32a05a09f4ebb0c40dcce6953552071b03e894a43bc54fb85948bd5ad",
+  "text_sha256": "336e782babfc780366f328172f4a365b531b7c7b9ab4b40a18162437d7f83d39",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/03/08/25749-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050308-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
