@@ -1,0 +1,145 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1708",
+  "year": 1973,
+  "title": "Türkiye ile Polonya arasında Ticari Belgelerin Tasdikinden Harç alınmasına mütedair Andlaşmanın onaylanmasına dair kanun",
+  "adopted": "1973-04-19",
+  "adopted_as_published": "19/04/1973",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "3.5.1973 No: 14524",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601708.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 56",
+  "committee_reports": [
+    {
+      "label": "MM 789 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072ss0789.pdf"
+    },
+    {
+      "label": "CS 237no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010055ss0237.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 393209,
+      "title": "Türkiye ile Polonya arasında Ticari Belgelerin Tasdikinden Harç alınmasına mütedair Andlaşmanın onaylanmasına dair kanun",
+      "adopted_as_published": "19/04/1973",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601708.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 789 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072ss0789.pdf"
+        },
+        {
+          "label": "CS 237no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010055ss0237.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 40,
+          "sitting_date": "1971-01-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010fih.pdf",
+          "pages": [
+            "195"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 47,
+          "sitting_date": "1973-01-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032fih.pdf",
+          "pages": [
+            "593"
+          ]
+        },
+        {
+          "cilt": 35,
+          "sitting": 72,
+          "sitting_date": "1973-03-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035fih.pdf",
+          "pages": [
+            "621:622",
+            "658",
+            "671:672"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 75,
+          "sitting_date": "1973-03-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036fih.pdf",
+          "pages": [
+            "129",
+            "168",
+            "190:193"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1001&v_kullanici_id=27483225",
+      "page_sha256": "527fe61057172c75db7e994b7bc2d86caa3d426114acd67ad09f586a4f03c72e"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 321816,
+      "title": "Türkiye İle Polonya arasında ticarî belgelerin tasdikinden harç alınmamasına mütedair Andlaşmanın onaylanmasına dair Kanun",
+      "adopted_as_published": "19/04/1973",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601708.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 789 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072ss0789.pdf"
+        },
+        {
+          "label": "CS 237no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010055ss0237.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 45,
+          "sitting_date": "1973-03-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010fih.pdf",
+          "pages": [
+            "335",
+            "672",
+            "698:699",
+            "711:712",
+            "726",
+            "752",
+            "764:765"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1701&v_kullanici_id=27483235",
+      "page_sha256": "b72c34be4a1905335c6e8be089c858335765608ea5d4dfd7757ae144141b09fa"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "527fe61057172c75db7e994b7bc2d86caa3d426114acd67ad09f586a4f03c72e",
+  "issuer": "Millet Meclisi",
+  "in_force": "1973-04-19",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 19/04/1973; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
