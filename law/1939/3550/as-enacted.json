@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3550",
+  "year": 1939,
+  "title": "Kaçakçılıktan başka bazı inhisar suçlarından doğan para cezalarından vaz geçilebileceğine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-01-07",
+  "gazette_issue": "4105",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4105.pdf",
+  "source_sha256": "9ae7cedfd843ceb35a703848b0fbb78e6070acdcf8771d71f66c7335cd37f753",
+  "text_sha256": "253e96ae14629c22d03c25476135d75ed1ee6aa17b2e1c7fd40ae75916bdd74c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      132,
+      150
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc019/kanuntbmmc019/kanuntbmmc01903550.pdf",
+    "source_sha256": "796f2d50bcac98d9f5949518d5974cc5a7c2a1611173336214b3ee1dec2e5bbf",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9661,
+    "bag": 0.8908,
+    "kd_coverage": 0.9912,
+    "kd_body_compared": 0.9741,
+    "rg_words": 116,
+    "kd_words": 116,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
