@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 68122,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "KAZIM ARAR (ÇANKIRI)",
+  "summary": "Çankırı, Kastamonu ve Bolu havalisinde 1951 yılında vukua gelen yer depreminde evleri yıkılan veya oturulmıyacak hale gelen vatandaşlara yardım yapılması hakkında (2/333)",
+  "title": "Çankırı, Kastamonu ve Bolu havalisinde 1951 yılında vukua gelen yer depreminde evleri yıkılan veya oturulmıyacak hale gelen vatandaşlara yardım yapılması hakkında (2/333)",
+  "first_sitting_date": "1952-01-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 28,
+      "sitting_date": "1952-01-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012fih.pdf",
+      "pages": [
+        "188"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 39,
+      "sitting_date": "1953-02-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c020/tbmm09020039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c020/tbmm09020fih.pdf",
+      "pages": [
+        "135:136"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 108,
+      "sitting_date": "1953-07-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024108.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024fih.pdf",
+      "pages": [
+        "631:638"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 57,
+      "sitting_date": "1954-03-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c029/tbmm09029057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c029/tbmm09029fih.pdf",
+      "pages": [
+        "187:188"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=676&v_gelecek_sayfa=501&v_kullanici_id=27484220",
+  "source_sha256": "e5f1a9a88c2ae136a10ad394c2949fc810a7e4983576aecfa1ad85f2284f89ba",
+  "in_force": "1952-01-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
