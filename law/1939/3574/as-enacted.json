@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3574",
+  "year": 1939,
+  "title": "Askerî memurlar hakkındaki 3128 sayılı Kanunu değiştiren 3428 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-02-07",
+  "gazette_issue": "4126",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4126.pdf",
+  "source_sha256": "8125f93f4988ec4a2096147d2a37833cfecfcdb88131b2671ab73a5f4384bc39",
+  "text_sha256": "5148b59f2c61285ab43ed26a7bafcba96043c8d7039586ed274f605307279bc5",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      182,
+      199
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc019/kanuntbmmc019/kanuntbmmc01903574.pdf",
+    "source_sha256": "19d5c0577b5f9fa43b92572246b93dc99093c19caf2da3627fc553c369f33422",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9747,
+    "bag": 0.9325,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9762,
+    "rg_words": 81,
+    "kd_words": 84,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
