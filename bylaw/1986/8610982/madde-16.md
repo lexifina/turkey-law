@@ -1,0 +1,4 @@
+Bilim ve Uygulama Kollarının Çalışma Esasları
+Madde 16 - Bilim ve uygulama kolları, bağlı kuruluş veya başkan yardımcısına bağlı olarak çalışırlar. Kolların ilişkilerini başkanları düzenler, çalışmalarından başkanları sorumludur.
+Bilim ve uygulama kollarının çalışma konuları ve çalışma düzenleri, bağlı kuruluş bilim kurulları kararlarında gösterilir. Kollar, çalışmalarını belirleyecekleri programa göre sürdürürler, çalışmaları ile ilgili olarak üç ayda bir düzenleyecekleri raporları bağlı kuruluş başkanlarına sunarlar.
+Üniversitelerde kurulacak bilim ve uygulama kolları, çalışmalarını, bilim ve uygulama kollarına ilişkin yönetmelik hükümlerine ve Yükseköğretim Kurulu Başkanlığıyla Yüksek Kurumun ortaklaşa belirleyeceği esaslara göre yürütürler. Çalışmaları üniversite rektörlüklerince desteklenir.

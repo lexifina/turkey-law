@@ -1,0 +1,2 @@
+Destekleme Esasları
+Madde 24 – Yüksek Kurum ve bağlı kuruluşlar, amaç ve görevleri doğrultusunda yapılacak araştırma, proje, yüksek lisans ve doktora çalışmalarını, Yurt içinde ve dışında düzenlenecek konferans, sempozyum, kollokyum, seminer, kurs, kongre ve benzeri bilimsel toplantıları, Yüksek Kurum Başkanının veya yürütme kurullarının önerisi ve Yönetim Kurulunun onayıyla destekleyebilirler, kamu, kurum ve kuruluşlarının çalışmalarına katılabilir, yardım isteklerini aynı şekilde karşılayabilirler.

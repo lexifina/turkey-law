@@ -1,0 +1,2 @@
+İdari ve Mali İşler Dairesi Başkanlığının Görevleri
+Madde 11 – İdari ve Mali İşler Dairesi Başkanlığı, Yüksek Kurum için gerekli araç, gereç ve malzemenin sağlanması, taşınmaz mal kiralanması ve satın alınması, temizleme, aydınlatma, ısıtma, bakım, onarım, taşıma ve evrak işlerini, Yüksek Kurum personelinin ve ailelerinin sağlık hizmetlerini, sosyal tesislerin kurulması ve yönetimiyle ilgili iş ve hizmetleri düzenler ve yürütür.
