@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1908",
+  "year": 1931,
+  "title": "Gazi Hazretlerinin, Samsuna rekzedilmek üzere vürut eden heykellerinin gümrük resmile muamele vergisinden muafiyeti hakkında kanun",
+  "adopted": "1931-12-28",
+  "adopted_as_published": "28/12/1931",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "31.12.1931 No: 1990",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101908.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 11",
+  "committee_reports": [
+    {
+      "label": "TBMM 34 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005015ss0034.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112030,
+      "title": "Gazi Hazretlerinin, Samsuna rekzedilmek üzere vürut eden heykellerinin gümrük resmile muamele vergisinden muafiyeti hakkında kanun",
+      "adopted_as_published": "28/12/1931",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101908.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 34 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005015ss0034.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 14,
+          "sitting_date": "1931-12-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005fih.pdf",
+          "pages": [
+            "48"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 15,
+          "sitting_date": "1931-12-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005015.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005fih.pdf",
+          "pages": [
+            "70:71"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 18,
+          "sitting_date": "1931-12-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005fih.pdf",
+          "pages": [
+            "119",
+            "128",
+            "131:133"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "7b4d6db0fc5f88c11900340c120d4f418fcbcc9748c0123056e17bec7f9b3811"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7b4d6db0fc5f88c11900340c120d4f418fcbcc9748c0123056e17bec7f9b3811",
+  "issuer": "TBMM",
+  "in_force": "1931-12-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 28/12/1931; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
