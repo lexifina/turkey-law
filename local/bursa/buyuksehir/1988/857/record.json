@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "857",
+  "decision_date": "1988-08-12",
+  "title": "council decision (subject withheld: may concern individual persons)",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/698_MEC1988-15_857.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1988",
+  "listing_sha256": "eb16b86a17c6ff49c440f738c5a9aa25eff6d55ccdc468498aa949fca8ef6350",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": true
+}
