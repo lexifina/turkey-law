@@ -1,0 +1,51 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7481",
+  "year": 1960,
+  "title": "6115 sayılı Kanunun 7348 sayılı Kanunla tadil edilmiş olan 5. maddesi ile aynı Kanunun 6 ve 8. maddelerinin tadili hakkında Kanun İlân edilmek üzere Başvekâlete gönderildiğine dair Riyaseti Cumhur tezkeresi gelmemiş ve bu kanun Resmî Gazetede neşredilmemiştir",
+  "adopted": "1960-05-11",
+  "date_basis": "last-sitting",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 11,
+      "kayit_no": 42605,
+      "title": "6115 sayılı Kanunun 7348 sayılı Kanunla tadil edilmiş olan 5. maddesi ile aynı Kanunun 6 ve 8. maddelerinin tadili hakkında Kanun İlân edilmek üzere Başvekâlete gönderildiğine dair Riyaseti Cumhur tezkeresi gelmemiş ve bu kanun Resmî Gazetede neşredilmemiştir",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 13,
+          "sitting": 67,
+          "sitting_date": "1960-05-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013067.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013fih.pdf",
+          "pages": [
+            "465",
+            "494:495",
+            "497:500",
+            "575",
+            "678:579",
+            "581:585"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=429&v_gelecek_sayfa=401&v_kullanici_id=27483188",
+      "page_sha256": "e72153aba8198b11336760b80976c387304fb076f2edce9d4ec9d9852faecb1f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e72153aba8198b11336760b80976c387304fb076f2edce9d4ec9d9852faecb1f",
+  "issuer": "TBMM",
+  "in_force": "1960-05-11",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (1960-05-11); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
