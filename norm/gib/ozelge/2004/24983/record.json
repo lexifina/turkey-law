@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2803-5/933/32709",
+  "source_id": 24983,
+  "date": "2004-07-12",
+  "title": "Vergi mahremiyeti gereği mükellefle ilgili bilgiler sadece mükellefe verilmelidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24983",
+  "source_sha256": "474724b8f5671f3ead2a0c507d6b097286eab992d5be6e6b97c7dbecfcab57ae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
