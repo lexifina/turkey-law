@@ -1,0 +1,3 @@
+Yurtdışında Staj
+Madde 16 — Meslek yüksekokulu öğrencileri yapmak zorunda oldukları staj, eğitim ve uygulama çalışmalarını, normal öğretim programını aksatmayacak şekilde yurt dışında da yapabilirler. Öğrenci yurt dışı kabul belgesini ilgili meslek yüksekokulunun Staj ve Eğitim Uygulama Kuruluna verir. Bu taleple ilgili yüksekokulun Staj ve Eğitim Uygulama Kurulunca değerlendirilir ve yurtdışında staj yapılıp yapılmamasına karar verilir.
+Yurt dışında stajını tamamlayan öğrenciler staj ile ilgili belgeleri ilgili meslek yüksekokulunun Staj ve Eğitim Uygulama Kuruluna verirler, uygun görülenler kurul tarafından onaylanır.

@@ -1,0 +1,3 @@
+Madde 13 — Meslek Yüksekokulları; Üniversite Staj ve Eğitim Uygulama Kurulu tarafından belirlenen kontenjanların üstünde stajyer gönderemezler.
+İşyerleri, olanaklarının ve genel ekonomik koşulların değişmemesi durumunda, bir önceki yıl belirledikleri kontenjanı azaltmamaya ve mümkün olan hallerde artırmaya özen gösterirler.
+Kontenjan yetersizliği nedeniyle staj yeri bulunamayan öğrenciler kendi bulacakları staj yerlerinde Meslek Yüksekokulu Staj ve Eğitim Uygulama Kurulunun onayından sonra staja başlayabilirler. Kontenjan yetersizliği nedeniyle kendisine staj ve uygulama yeri bulunamayan öğrenci sayıları ve alanları Üniversite Staj ve Eğitim Uygulama Kuruluna bildirilir.

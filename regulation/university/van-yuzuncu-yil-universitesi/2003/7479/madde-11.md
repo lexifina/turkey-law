@@ -1,0 +1,1 @@
+Madde 11 — Meslek Yüksekokulu Müdürlükleri, hangi dallarda kaç öğrencinin staj yapacağını belirleyerek, ekli (2) No.lu formu doldurup her yıl en geç mart ayının son gününe kadar Üniversite Staj ve Eğitim Uygulama Kurulu’na bildirirler.
