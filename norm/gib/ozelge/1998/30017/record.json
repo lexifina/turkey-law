@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5501-2650/9472",
+  "source_id": 30017,
+  "date": "1998-03-12",
+  "title": "İktisadi işletmelere dahil gayrimenkullerin kamulaştırılması işlemlerinin katma değer vergisine tabidir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30017",
+  "source_sha256": "36fa8f1bb9f6d69347e9dd06ad050fd973a4bb27a1726ef845862ff36c70fca2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
