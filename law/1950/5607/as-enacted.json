@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5607",
+  "year": 1950,
+  "title": "Muhasebei Umumiye Kanununa ek Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-03-23",
+  "gazette_issue": "7464",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7464.pdf",
+  "source_sha256": "d8afe3526af081279769942058b69c19bbd9685613b0cde3dfd7b271b9ecab4f",
+  "text_sha256": "9da61f9bb1ff230b39440e513e5d1254402c47e655778d4089153df31a56871d",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      208,
+      223
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2] (no text layer)",
+    "tesseract_pages": [
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205607.pdf",
+    "source_sha256": "1d2aad05e10d6c4f5513b1a73a52cdc4074f0643a704add1c922c1d12b76ccb1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9017,
+    "bag": 0.7442,
+    "kd_coverage": 0.9524,
+    "kd_body_compared": 0.7547,
+    "rg_words": 92,
+    "kd_words": 106,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
