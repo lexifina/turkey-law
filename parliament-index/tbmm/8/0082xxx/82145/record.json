@@ -1,0 +1,96 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82145,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Maaş Kanununa ek 4379 sayılı Kanunun ikinci maddesinin değiştirilmesi ve bu kanuna geçici maddeler eklenmesi hakkında (1/460)",
+  "title": "Maaş Kanununa ek 4379 sayılı Kanunun ikinci maddesinin değiştirilmesi ve bu kanuna geçici maddeler eklenmesi hakkında (1/460)",
+  "first_sitting_date": "1948-12-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 22,
+      "sitting_date": "1948-12-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c014/tbmm08014022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c014/tbmm08014fih.pdf",
+      "pages": [
+        "214",
+        "216:217"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 35,
+      "sitting_date": "1949-01-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c015/tbmm08015035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c015/tbmm08015fih.pdf",
+      "pages": [
+        "156",
+        "233"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 41,
+      "sitting_date": "1949-02-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c016/tbmm08016041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c016/tbmm08016fih.pdf",
+      "pages": [
+        "24",
+        "110:117",
+        "172:178",
+        "230:249"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 33,
+      "sitting_date": "1950-01-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c023/tbmm08023033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c023/tbmm08023fih.pdf",
+      "pages": [
+        "272:393"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 37,
+      "sitting_date": "1950-02-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024fih.pdf",
+      "pages": [
+        "15",
+        "52:59"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 60,
+      "sitting_date": "1950-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025fih.pdf",
+      "pages": [
+        "201:202"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=941&v_gelecek_sayfa=601&v_kullanici_id=27484132",
+  "source_sha256": "cb688a10cb038d9be4ece930cc992f3e39e3079e070be63d8c7c90191a8091ab",
+  "in_force": "1948-12-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
