@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5274/26908",
+  "source_id": 33492,
+  "date": "1999-06-29",
+  "title": "Mahsubu istenilen vergi borcu için ilgili belgelerin ibraz edildiği veya Yeminli Mali Müşavir raporu verildiği tarihe kadar gecikme zammı uygulanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33492",
+  "source_sha256": "13491754110aba46f4f4a420550b9e6fcadd0c6b85e8adfaca42dc3d0b570581",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
