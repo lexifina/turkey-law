@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4236-1/44712",
+  "source_id": 37855,
+  "date": "2004-09-22",
+  "title": "Kömür, çimento ve hazır beton üretimi faaliyetinin sürdürüldüğü, 01.10.2003 tarihinden önce...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37855",
+  "source_sha256": "131f1c8e314b18c06e2dc5692fd024b2a51bc1940981c62867e532a62d85fe9f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
