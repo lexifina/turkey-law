@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4951",
+  "year": 2003,
+  "title": "15.5.2002 Tarihli ve 4756 Sayılı Kanunun Geçici 1. Maddesinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-07-29",
+  "gazette_issue": "25183",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030729.htm",
+  "source_sha256": "32e959b8c6d3acfe02382cdd94a2d5363acc088de1e9d7bfcbae27a14b1a94cf",
+  "text_sha256": "3f06b2f30ddb429dd5c9e46e674d0fad6acba8083e9bbc2a3149be55aebade13",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/07/29/25183-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030729.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
