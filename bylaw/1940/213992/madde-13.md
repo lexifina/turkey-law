@@ -1,0 +1,1 @@
+Madde 13 – 3763 sayılı kanunun 6 ncı maddesi hükmüne dayanarak hazırlanmış ve Devlet Şürasınca tetkik edilmiş olan bu Nizamname hükümleri, Resmi Gazete'de basıldığı günün ertesinden itibaren yürümeğe başlar.
