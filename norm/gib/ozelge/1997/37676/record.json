@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5024-35482",
+  "source_id": 37676,
+  "date": "1997-08-21",
+  "title": "Kurumlar Vergisi Kanununa göre yapılacak devirlerde, bu hususun Türkiye Ticaret Sicili Gazetesinde ilan edilmesi halinde, ilan tarihinden itibaren 15 gün içinde devir beyannamesinin verilmesi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37676",
+  "source_sha256": "c413e7a0c3165b4a4e27cdf060d308dc7d82ccd3afdcf98f3cf106e647f2f8f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
