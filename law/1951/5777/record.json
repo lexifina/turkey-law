@@ -1,0 +1,95 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5777",
+  "year": 1951,
+  "title": "Edebiyat ve Sanat Eserlerini Koruma İçin Kurulan Berne Birliğine Katılma Hususunda Hükümete Yetki Verilmesine Dair Kanun",
+  "adopted": "1951-05-28",
+  "adopted_as_published": "28/05/1951",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.06.1951 No: 7824",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305777.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 33",
+  "committee_reports": [
+    {
+      "label": "TBMM 160 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007080ss0160.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 61941,
+      "title": "Edebiyat ve Sanat Eserlerini Koruma İçin Kurulan Berne Birliğine Katılma Hususunda Hükümete Yetki Verilmesine Dair Kanun",
+      "adopted_as_published": "28/05/1951",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305777.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 160 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007080ss0160.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 73,
+          "sitting_date": "1951-05-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007fih.pdf",
+          "pages": [
+            "78"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 78,
+          "sitting_date": "1951-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007078.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007fih.pdf",
+          "pages": [
+            "338"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 80,
+          "sitting_date": "1951-05-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007fih.pdf",
+          "pages": [
+            "416:429"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 82,
+          "sitting_date": "1951-05-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007fih.pdf",
+          "pages": [
+            "482:483",
+            "485:486. 489",
+            "495:499"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "992a40d50c217d8dbf3c1a08f613f18fa1d8722f20245ddfa2352d4d2907b4c7"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "992a40d50c217d8dbf3c1a08f613f18fa1d8722f20245ddfa2352d4d2907b4c7",
+  "issuer": "TBMM",
+  "in_force": "1951-05-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 28/05/1951; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
