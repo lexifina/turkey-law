@@ -1,0 +1,5 @@
+Madde 14 — a) Tezi kabul edilen adaya jüri tarafından bir saatten az olmamak kaydıyla, sözlü olarak, teorik ve pratik sorular yöneltilir ve uygulama yaptırılır. Sonunda jüri, oy çokluğu ile sınavın başarılı ya da başarısız geçtiğini karara bağlar.
+b) Aday; sözlü, teorik, pratik ve uygulama sınavında başarılı olursa, 100 puan üzerinden değerlendirilmek üzere yazılı bir sınava daha tabi tutulur. Bu sınavda aday en az 70 (yetmiş) puan almak zorundadır. Sonuçlar bir tutanakla Dekanlığa bildirilir.
+c) Aday yazılı sınavda başarısız olursa, en erken l (bir) ay, en geç 3 (üç) ay içerisinde tekrar yazılı sınava alınır. Bunda da başarısız olursa aynı süreler içerisinde bir yazılı sınav
+hakkı daha verilir. Bu kez de basan göstermezse uzmanlık eğitimi ile ilişiği kesilir.
+d) Aday, sözlü teorik ve pratik sınav ile uygulamada başarısız olmuşsa, sınavın yapıldığı tarihten sonra, en erken 3 (üç), en geç 6 (altı) ay içinde yeniden sınava alınır. Bu sınavda da başarısız olan adayın uzmanlık eğitimi sona erer ve öğrencilikle ilişiği kesilir.

@@ -1,0 +1,1 @@
+Madde 4 — Bu Yönetmelikte, eş anlamlı olarak kullanılan araştırma görevlisi, tıpta uzmanlık öğrencisi yada asistan; tıp bilimi dallarından birisinde uzman olabilmek, bilgi ve becerisini geliştirmek için, ilgili dalda eğitim, öğrenim ve uygulama yapmak ve bilimsel esaslara göre yetiştirilmek üzere atanan kişi anlamına gelir.
