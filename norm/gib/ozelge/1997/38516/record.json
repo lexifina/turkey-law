@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5109-50/1146",
+  "source_id": 38516,
+  "date": "1997-01-13",
+  "title": "Vergi muafiyeti bulunan vakfın, % 51 veya daha fazla hissesine sahip olduğu şirketlerde kar dağıtımı konusunda farklı bir statüye sahip olup olmadığı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38516",
+  "source_sha256": "03ee06a0d6fc5983630bd76f6bbc455c5122ffabaca43f24aaa9766ce2d8a315",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
