@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 287942,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "CUMHURBAŞKANINCA GERİ GÖNDERİLEN KANUNLAR",
+  "heading_as_published": "Cumhurbaşkanınca Geri Gönderilen Kanunlar",
+  "summary": "CUMHURBAŞKANINCA GERİ GÖNDERİLEN KANUNLAR·23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair 8.12.2000 Tarihli ve 4610 Sayılı Kanun",
+  "title": "CUMHURBAŞKANINCA GERİ GÖNDERİLEN KANUNLAR·23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şartla Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair 8.12.2000 Tarihli ve 4610 Sayılı Kanun",
+  "first_sitting_date": "2000-12-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 51,
+      "sitting": 37,
+      "sitting_date": "2000-12-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c051/tbmm21051037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c051/tbmm21051fih.pdf",
+      "pages": [
+        "155:224",
+        "359:382",
+        "383:406"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ff0e307a1eae6ec1ecffe1e3a239564bdc3c52175c04cc8f75f29dc09901fe4e",
+  "in_force": "2000-12-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
