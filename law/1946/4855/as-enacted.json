@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4855",
+  "year": 1946,
+  "title": "Şeker ve glikozdan alman munzam istihlâk vergilerinde yapılan indirmelerin onanması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-02-11",
+  "gazette_issue": "6229",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6229.pdf",
+  "source_sha256": "159be408721eaf6e5c7598c7a879e44e03540bedc17f24a041c4e7b2f82d3b51",
+  "text_sha256": "ad8966903653676780a10a00d13ac36dc7c08a5f1855b169894ad3a6370d2a3f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      23,
+      83
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804855.pdf",
+    "source_sha256": "60eacbca6baf79e2066d182d5da20b13a98013a0632d7f6afb297fb8cb9e7ea4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9368,
+    "bag": 0.8096,
+    "kd_coverage": 0.9954,
+    "kd_body_compared": 0.9954,
+    "rg_words": 437,
+    "kd_words": 437,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
