@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-26873/7669",
+  "source_id": 37878,
+  "date": "2002-02-15",
+  "title": "Yatırım İndirimi dolayısıyla zamanında tahakkuk ettirilmiş vergilerin mükelleften geri alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37878",
+  "source_sha256": "b12db9dac156601f1eb9732e0017442b97ce55108612cd9d6f1d6c1cdf32f3e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
