@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "811",
+  "year": 2004,
+  "title": "Bakanlıkları sırasında ilgili kuruluşların raporlarının gereğinin yapılmasını geciktirerek ve gerekli tedbirleri zamanında almayarak görevlerini yerine getirmemek suretiyle Türkiye Halk Bankasının zarara uğramasına sebep oldukları, usulsüz işlemlerin yapılmasına imkân sağladıkları iddiasıyla Devlet eski Bakanı ve Başbakan Yardımcısı Hüsamettin Özkan ile Devlet eski Bakanı Recep Önal haklarında Meclis soruşturması açılmasına ilişkin",
+  "adopted": "2004-06-15",
+  "adopted_as_published": "15/06/2004",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "19.06.2004 No: 25497",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/karartbmmc088/karartbmmc08800811.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 88",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 207812,
+      "title": "Bakanlıkları sırasında ilgili kuruluşların raporlarının gereğinin yapılmasını geciktirerek ve gerekli tedbirleri zamanında almayarak görevlerini yerine getirmemek suretiyle Türkiye Halk Bankasının zarara uğramasına sebep oldukları, usulsüz işlemlerin yapılmasına imkân sağladıkları iddiasıyla Devlet eski Bakanı ve Başbakan Yardımcısı Hüsamettin Özkan ile Devlet eski Bakanı Recep Önal haklarında Meclis soruşturması açılmasına ilişkin",
+      "adopted_as_published": "15/06/2004",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/karartbmmc088/karartbmmc08800811.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 53,
+          "sitting": 101,
+          "sitting_date": "2004-06-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c053/tbmm22053101.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c053/tbmm22053fih.pdf",
+          "pages": [
+            "20:36"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "272f3f1a690f6bff55d66866ad8161f6540333dbd8774ddca7e8bdf66a6ed00e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "272f3f1a690f6bff55d66866ad8161f6540333dbd8774ddca7e8bdf66a6ed00e",
+  "issuer": "TBMM",
+  "in_force": "2004-06-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 15/06/2004; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
