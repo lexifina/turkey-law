@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5211-41/883",
+  "source_id": 38068,
+  "date": "1999-01-11",
+  "title": "Türkiye'de ikamet etmeyen yolculara yapılan satışlarla ilgili olarak düzenlenen faturalar üzerinden yapılacak KDV iadesinde ilgili vergi dairelerince gümrük idarelerinden teyit alınmak suretiyle işlem yapılmasının uygun olacağı belirtilmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38068",
+  "source_sha256": "91979ac7802dfe0708ad43045111e6ab84e2dc7f8337fac74e5c8808aad06e77",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
