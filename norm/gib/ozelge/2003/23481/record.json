@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-1892/37219",
+  "source_id": 23481,
+  "date": "2003-09-10",
+  "title": "Primlerin süresinden sonra ödenmesi nedeniyle alınan gecikme faizi ve kar payları, ücretlerin vergi matrahının tespitinde indirim olarak dikkate alınması hususunda, Gelir Vergisi Kanununda bir hüküm yer almaması nedeniyle, söz konusu  faiz ve kar payların",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23481",
+  "source_sha256": "50ad8fc3d1f8993ce381682128232d8697c59d852df8219c850c1c1f97168d07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
