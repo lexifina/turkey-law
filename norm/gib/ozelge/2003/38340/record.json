@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-821 / 50197",
+  "source_id": 38340,
+  "date": "2003-11-20",
+  "title": "Yatırım Teşvik Belgesine istinaden kullandırılan krediler nedeniyle bankaların lehlerine aldıkları paralara, banka ve sigorta muameleleri vergisi istisnası uygulanması mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38340",
+  "source_sha256": "98a31589ff4b8152dec198c8caa4de912fbeaa8a62d6f65b0d0f3024be9277fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
