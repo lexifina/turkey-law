@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Belediye Meclisi",
+  "number": "239",
+  "decision_date": "1936-11-10",
+  "title": "council decision (subject withheld: may concern individual persons)",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1936-239.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1936",
+  "listing_sha256": "500b8c978d8d7d667180d6ceb68aa6ebaed43c7ae04bd7f234aa9368c00bc396",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": true
+}
