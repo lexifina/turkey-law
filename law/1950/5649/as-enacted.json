@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5649",
+  "year": 1950,
+  "title": "İktisadi Buhran Vergisi Kanununun Birinci maddesine bir fıkra eklenmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-03-31",
+  "gazette_issue": "7471",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7471.pdf",
+  "source_sha256": "b1d6a5b4a59d659c05a22388c74673a9d66bf000f3615613184949302d5decfa",
+  "text_sha256": "d138fe6de1ecd1e49eed74644a1cf12251272ff0d33ce2be9abc2b2690d5ff45",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      18,
+      34
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205649.pdf",
+    "source_sha256": "93613dee8876926c05e7c67e95696bbbf7ba8fb5345ae82fa4a32dd0329b9596",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9579,
+    "bag": 0.8774,
+    "kd_coverage": 0.9747,
+    "kd_body_compared": 0.939,
+    "rg_words": 78,
+    "kd_words": 82,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
