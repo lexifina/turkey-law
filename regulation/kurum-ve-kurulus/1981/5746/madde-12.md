@@ -1,0 +1,3 @@
+Madde 12 – Bilgi İşlem Merkezi Müdürünün Yetkileri:
+12.1. Bilgi İşlem Müdürü çeşitli kanun, tüzük ve yönetmeliklerle doğrudan doğruya kendisine verilmiş olan ve bir daire yöneticisi olmasının doğal sonucu, sahip olduğu yetkileri kullanır.
+12.2. Bilgi işlem Merkezi Müdürü sahip olduğu yetkileri tamamen veya kısmen kendisine yetki veren kanun, tüzük, yönetmelik, yönerge ve talimatlarda bir esas belirtilmişse o esaslara göre, herhangi bir kural bulunmadığı takdirde, sevk ve idare amiri olarak mevcut şartlara en uygun bir biçimde müdür başyardımcısı ve yardımcılarına, servis şeflerine, unvanı ne olursa olsun; maiyetindeki diğer memurlara yazılı olarak derece derece devredilebilir.

@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.5746",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MALİYE BAKANLIĞI GELİRLER GENEL MÜDÜRLÜĞÜ ELEKTRONİK BİLGİ İŞLEM MERKEZLERİ KURULUŞ VE GÖREVLERİ YÖNETMELİĞİ",
+  "number": "5746",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1981/5746",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5746&MevzuatTertip=5",
+  "source_sha256": "207c48a0fbd816816222aa95e9f33c3548c58d03989caa65ee65806ed59a8b68",
+  "source_bytes": 71936,
+  "published": "1981-01-18",
+  "gazette": "17224",
+  "in_force": "1981-01-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.01.1981); own commencement article: \"Bu Yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1433,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+MALİYE BAKANLIĞI GELİRLER GENEL MÜDÜRLÜĞÜ ELEKTRONİK BİLGİ İŞLEM MERKEZLERİ KURULUŞ VE GÖREVLERİ YÖNETMELİĞİ
+(18 Ocak 1981 Tarih ve 17224 Sayılı Resmi Gazete’de Yayımlanmıştır.)
