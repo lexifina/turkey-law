@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "122",
+  "year": 1960,
+  "title": "6830 sayılı İstimlak Kanununun 9 ncu maddesinin kaldırılması ve 10, 11, 14, 15, 17, 19 ve 30 ncu maddelerinin değiştirilmesi ve bu kanuna iki geçici madde eklenmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-11-10",
+  "gazette_issue": "10651",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10651.pdf",
+  "source_sha256": "d1220b8a0136e8df72de204293519d7368c6dd671c086e37284b5a84da9ac548",
+  "text_sha256": "61319527c943c875d2b9e3a23c7b38719075b7538e15c8c51c89f9050d3d9826",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      132,
+      437
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300122.pdf",
+    "source_sha256": "9e122ad38541ddba81c6e9c71020e49fd0ee5a8c9beb4c3a0543cf521a110c5a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.927,
+    "bag": 0.7514,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9965,
+    "rg_words": 1920,
+    "kd_words": 1730,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
