@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4429-1-28335",
+  "source_id": 23009,
+  "date": "1999-07-07",
+  "title": "Taksi işletmeciliği faaliyetinde bulunan mükellefin ticari taksi alımı sırasında ödemiş olduğu katma değer vergisini, basit usulde ticari kazancın tespiti sırasında gider olarak dikkate alması mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23009",
+  "source_sha256": "8dfec1058286d8c84a6322c69d0fc342863daa6526214b6fcccdf990bc8ccba2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
