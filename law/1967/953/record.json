@@ -1,0 +1,176 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "953",
+  "year": 1967,
+  "title": "Devlet Hava Meydanları İşletmesi Genel Müdürlüğü 1963 bütçe yılı Kesinhesap Kanunu",
+  "adopted": "1967-12-12",
+  "adopted_as_published": "12/12/1967",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.12.1967 No: 12785",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05100953.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 51",
+  "committee_reports": [
+    {
+      "label": "MM 153 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018113ss0153.pdf"
+    },
+    {
+      "label": "CS 1011no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044010ss1011.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 367905,
+      "title": "Devlet Hava Meydanları İşletmesi Genel Müdürlüğü 1963 bütçe yılı Kesinhesap Kanunu",
+      "adopted_as_published": "12/12/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05100953.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 153 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018113ss0153.pdf"
+        },
+        {
+          "label": "CS 1011no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044010ss1011.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 19,
+          "sitting_date": "1965-12-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001fih.pdf",
+          "pages": [
+            "459"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 123,
+          "sitting_date": "1966-08-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008123.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008fih.pdf",
+          "pages": [
+            "849"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 113,
+          "sitting_date": "1967-06-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018113.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018fih.pdf",
+          "pages": [
+            "13:14",
+            "57",
+            "79:82"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 115,
+          "sitting_date": "1967-06-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018115.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018fih.pdf",
+          "pages": [
+            "171",
+            "172",
+            "214",
+            "254:257"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1301&v_kullanici_id=27483225",
+      "page_sha256": "a0c56a410c6b9bd2d01af94b425ff2bc60047b4006abf95695e054a0443e1b05"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 307859,
+      "title": "Devlet Hava Meydanları İşletmesi Genel Müdürlüğü 1963 bütçeyılı Kesinhesap Kanunu",
+      "adopted_as_published": "12/12/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05100953.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 153 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018113ss0153.pdf"
+        },
+        {
+          "label": "CS 1011no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044010ss1011.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 40,
+          "sitting": 68,
+          "sitting_date": "1967-06-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c040/cs__07040068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c040/cs__07040fih.pdf",
+          "pages": [
+            "445"
+          ]
+        },
+        {
+          "cilt": 44,
+          "sitting": 9,
+          "sitting_date": "1967-12-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044009.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044fih.pdf",
+          "pages": [
+            "195"
+          ]
+        },
+        {
+          "cilt": 44,
+          "sitting": 10,
+          "sitting_date": "1967-12-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044010.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044fih.pdf",
+          "pages": [
+            "265",
+            "270:271",
+            "321:322"
+          ]
+        },
+        {
+          "cilt": 44,
+          "sitting": 11,
+          "sitting_date": "1967-12-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044fih.pdf",
+          "pages": [
+            "341:342",
+            "387:388"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=901&v_kullanici_id=27483235",
+      "page_sha256": "aee0a9dfc4179784061aa1d3efe77b3cab6f9c80a2c368824856f74134eaad87"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a0c56a410c6b9bd2d01af94b425ff2bc60047b4006abf95695e054a0443e1b05",
+  "issuer": "Millet Meclisi",
+  "in_force": "1967-12-12",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 12/12/1967; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
