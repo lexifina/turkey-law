@@ -1,0 +1,73 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4433",
+  "year": 1999,
+  "title": "Çocukların Velayetine İlişkin Kararların Tanınması ve Tenfizi ile Çocukların Velayetinin Yeniden Tesisine İlişkin Avrupa Sözleşmesinin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "adopted": "1999-08-04",
+  "adopted_as_published": "04/08/1999",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "08.08.1999 No: 23780",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc083/kanuntbmmc083/kanuntbmmc08304433.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 83",
+  "committee_reports": [
+    {
+      "label": "TBMM 124 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c008/tbmm21008044ss0124.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 426086,
+      "title": "Çocukların Velayetine İlişkin Kararların Tanınması ve Tenfizi ile Çocukların Velayetinin Yeniden Tesisine İlişkin Avrupa Sözleşmesinin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+      "adopted_as_published": "04/08/1999",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc083/kanuntbmmc083/kanuntbmmc08304433.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 124 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c008/tbmm21008044ss0124.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 17,
+          "sitting_date": "1999-06-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c002/tbmm21002017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c002/tbmm21002fih.pdf",
+          "pages": [
+            "28"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 44,
+          "sitting_date": "1999-08-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c008/tbmm21008044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c008/tbmm21008fih.pdf",
+          "pages": [
+            "375",
+            "411:414",
+            "420:443"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "54720ffdd2ec500138bad83b0778f9de490b7a834e1c043027979aa301267ba5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "54720ffdd2ec500138bad83b0778f9de490b7a834e1c043027979aa301267ba5",
+  "issuer": "TBMM",
+  "in_force": "1999-08-04",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 04/08/1999; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
