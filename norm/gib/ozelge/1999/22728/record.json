@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4019-20/11977",
+  "source_id": 22728,
+  "date": "1999-03-24",
+  "title": "Emekli Sandığına ödemiş olduğu primlerinin safi ticari kazancın tespitinde gider yazılması mümkün olmadığı gibi, ticari kazanç dolayısıyla verilecek yıllık beyannamede bildirilen gelirden indirilmesi de mümkün bulunmamaktadır. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22728",
+  "source_sha256": "72595664db7d37439142f84bcdda7a1ca8bca382307d41e85033072d25eb0f86",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
