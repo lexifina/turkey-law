@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 129831,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Urfa Mebusu Refet Beyin, Maarif Teşkilatına mütedair Kanunun onaltıncı maddesinin tadili hakkında kanun teklifine dair.",
+  "title": "Urfa Mebusu Refet Beyin, Maarif Teşkilatına mütedair Kanunun onaltıncı maddesinin tadili hakkında kanun teklifine dair.",
+  "first_sitting_date": "1927-02-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 29,
+      "sitting": 33,
+      "sitting_date": "1927-02-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c029/tbmm02029033.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c029/ehttbmm02029033.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c029/tbmm02029fih.pdf",
+      "pages": [
+        "17"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2766&v_gelecek_sayfa=2201&v_kullanici_id=27483743",
+  "source_sha256": "9787f3f2088bf6426493c1633fb58b7d20f5a8168dcd92daab63f74ac814b7d1",
+  "in_force": "1927-02-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
