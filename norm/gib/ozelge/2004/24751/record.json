@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4016-192/40095",
+  "source_id": 24751,
+  "date": "2004-08-31",
+  "title": "Münhasıran yıllara sari inşaat ve onarma işi yapıldığının tespiti halinde söz konusu mükellef adına geçici vergi mükellefiyetinin tesis edilmemesi gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24751",
+  "source_sha256": "bd152ef2cc98507b278ec96aef21bac8f4e72a53f9c9f20f9b5914055e3dc3be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
