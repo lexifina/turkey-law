@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "166",
+  "label": "TBMM 166 no'lu Komisyon Raporu",
+  "title": "Seyrisefain idaresinin 1929 malî senesi bütçe kanunu",
+  "document_date": "1929-05-13",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 11, birleşim 64)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c011/tbmm03011064ss0166.pdf",
+  "pdf_sha256": "d8b126f470c44d5d6a2f803fe9b95127d7d6c58bee788ca5c012e3b150252545",
+  "pdf_bytes": 1330662,
+  "pdf_pages": 26,
+  "index_entries": [
+    120248
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=2&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1929-05-13",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
