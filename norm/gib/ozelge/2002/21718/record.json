@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-31757/21899",
+  "source_id": 21718,
+  "date": "2002-05-14",
+  "title": "Yatırımdan beklenilen amacın gerçekleşmediği anlaşılırsa, yatırım teşvik belgesinin mevcut haliyle tamamlanmış sayılarak kapatılması, yatırım indiriminden yararlandırılması için yeterli görülmemektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21718",
+  "source_sha256": "2c178ac66e6407109965c95c3786966147d8d297d2baadc481bc06b004c558ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
