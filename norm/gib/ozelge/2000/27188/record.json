@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.30/3018-347-7/47949",
+  "source_id": 27188,
+  "date": "2000-10-20",
+  "title": "Mükellefiyet kaydı olmayan ve tefecilik faaliyetinde bulunan kişilere yapılacak işlemler hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27188",
+  "source_sha256": "1de707ea6e8469f2b7bc3245158abceb44b7715b7a0ed47478d9031b527c5162",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
