@@ -1,0 +1,102 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 178457,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "İSMAİL HAKKI TEKİNEL (İSTANBUL)",
+  "summary": "Ve 166 Arkadaşı Hâkimler Kanununa ek 5017 sayılı Kanuna bağlı ve 7168 ve 45 sayılı kanunlarla değiştirilmiş bulunan ödenek cetvelinin değiştirilmesine dair (Millet Meclisi:2/676; Cumhuriyet Senatosu:2/163)",
+  "title": "Ve 166 Arkadaşı Hâkimler Kanununa ek 5017 sayılı Kanuna bağlı ve 7168 ve 45 sayılı kanunlarla değiştirilmiş bulunan ödenek cetvelinin değiştirilmesine dair (Millet Meclisi:2/676; Cumhuriyet Senatosu:2/163)",
+  "first_sitting_date": "1965-06-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 29,
+      "sitting": 100,
+      "sitting_date": "1965-06-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029100.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 101,
+      "sitting_date": "1965-06-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029101.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029fih.pdf",
+      "pages": [
+        "67:70"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 104,
+      "sitting_date": "1965-06-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029104.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029fih.pdf",
+      "pages": [
+        "293"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 105,
+      "sitting_date": "1965-06-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029105.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029fih.pdf",
+      "pages": [
+        "361:364"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 116,
+      "sitting_date": "1965-07-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030116.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030fih.pdf",
+      "pages": [
+        "432:436"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 117,
+      "sitting_date": "1965-07-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030117.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030fih.pdf",
+      "pages": [
+        "470:471"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 118,
+      "sitting_date": "1965-07-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030118.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030fih.pdf",
+      "pages": [
+        "511",
+        "519:526"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=201&v_kullanici_id=27484924",
+  "source_sha256": "70fa10efc5d233309cf916363221883cb6156d8b9b5fcecfd7ba53a3ad36b6d2",
+  "in_force": "1965-06-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
