@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 344078,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MEHMET ALİ ARIKAN (MARDİN)",
+  "summary": "İnhisar beyiyelerinin üçte birlerinin harb malûllerine ve şehit, dul ve yetimlerine tahsis ve tevziine dair olan 1485 sayılı Kanunun 5755 sayılı Kanunla değiştirilen 4. maddesinin tadili hakkında (2/79)",
+  "title": "İnhisar beyiyelerinin üçte birlerinin harb malûllerine ve şehit, dul ve yetimlerine tahsis ve tevziine dair olan 1485 sayılı Kanunun 5755 sayılı Kanunla değiştirilen 4. maddesinin tadili hakkında (2/79)",
+  "first_sitting_date": "1962-11-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 4,
+      "sitting_date": "1962-11-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c009/mm__01009004.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c009/mm__01009fih.pdf",
+      "pages": [
+        "84"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 35,
+      "sitting_date": "1963-01-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011fih.pdf",
+      "pages": [
+        "278"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 59,
+      "sitting_date": "1963-03-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014fih.pdf",
+      "pages": [
+        "307:308"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=5201&v_kullanici_id=27484893",
+  "source_sha256": "e1f300bc36d495f8a136d64e4db45985f0908f8f3a5a0742763e43ba7dafc079",
+  "in_force": "1962-11-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
