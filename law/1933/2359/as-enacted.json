@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2359",
+  "year": 1933,
+  "title": "Ecnebi memleketlerde sigara ve tütün satmak için bir limitet şirketi teşkili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-01-01",
+  "gazette_issue": "2593",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2593.pdf",
+  "source_sha256": "02debdf3fd351c12678989381cb05d12a000ea08b4417c9d7857341bcbf54d8d",
+  "text_sha256": "725f0a23187d261cd2e173db49642ad5ba1ae5e7ce47106dc69091b4e175f2bd",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      70
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302359.pdf",
+    "source_sha256": "6d9da1baa353cf6004dffa776478e15302aafb02f9518fb6207c3e56ba7c2644",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9884,
+    "bag": 0.9651,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9894,
+    "rg_words": 187,
+    "kd_words": 188,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
