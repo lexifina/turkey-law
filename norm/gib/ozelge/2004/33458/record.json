@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.55/5529- 714/51938",
+  "source_id": 33458,
+  "date": "2004-11-02",
+  "title": "Teknoloji bölgesinde faaliyette bulunan şirketlerin kazançlarının gelir veya kurumlar vergisinden istisna bulunduğu süre içinde, münhasıran bu bölgede üretilen ve sistem yönetimi, veri yönetimi, iş uygulamaları, sektörel, internet, mobil ve askeri komuta ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33458",
+  "source_sha256": "6a97608a9222cb137948bcdb20bdf8153ce776e9786f00575c21fa14b7050856",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
