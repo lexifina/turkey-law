@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 97812,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Millî Müdafaa Vekâleti Kara kısmı 1939 malî yılı bütçesinde değişiklik yapılmasına dair (1/388)",
+  "title": "Millî Müdafaa Vekâleti Kara kısmı 1939 malî yılı bütçesinde değişiklik yapılmasına dair (1/388)",
+  "first_sitting_date": "1940-04-29",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 45,
+      "sitting_date": "1940-04-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c010/tbmm06010045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c010/tbmm06010fih.pdf",
+      "pages": [
+        "170"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 48,
+      "sitting_date": "1940-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c011/tbmm06011048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c011/tbmm06011fih.pdf",
+      "pages": [
+        "30",
+        "51:53",
+        "60:61",
+        "64"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1070&v_gelecek_sayfa=101&v_kullanici_id=27483993",
+  "source_sha256": "ceecba245e81d5923086d4e6aa5b9de52351a970a26bf195dfc246fd7486d3a7",
+  "in_force": "1940-04-29",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
