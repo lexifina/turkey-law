@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-11-09",
+  "issue": "25284",
+  "edition": "regular",
+  "item": 22,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Çalışma Ve Sosyal Güvenlik Bakanlığı Sosyal Sigortalar Kurumu Başkanlığı Sağlık İşleri Genel Müdürlüğü İstanbul Eğitim Hastanesi Baştabipliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031109-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (45 = 45)",
+  "ilan_codes": [
+    "42887/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031109-3.htm",
+  "category_page_sha256": "43450ec1216db81a4bdd97f705db43efad28ba2132a7d444df3e703d85fe24e0",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031109.htm",
+  "index_sha256": "17f0d7872898f2ce18dd4910d97a226f9b87cf43fb099b7885160db3ae8aeb54",
+  "index_header": "9 Kasım 2003 ... Sayı : 25284",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
