@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4055-49/12607",
+  "source_id": 24797,
+  "date": "1999-03-25",
+  "title": "Öteden beri mükellef olup, daha sonra gerçek usulde gelir vergisi mükellefi olan kişilere uygulanacak  hayat standartı esasının uygulanacağı tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24797",
+  "source_sha256": "141e9cb64c5540813bd2208cf6976b178ccbec2c41fb185ec55190820fbe4138",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
