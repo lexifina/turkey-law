@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 132907,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEFSİRLER",
+  "heading_as_published": "Tefsirler",
+  "title": "TBMM fihrist kaydı 132907 (Tefsirler)",
+  "first_sitting_date": "1926-05-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 25,
+      "sitting": 94,
+      "sitting_date": "1926-05-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025094.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/ehttbmm02025094.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025fih.pdf",
+      "pages": [
+        "15"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 17,
+      "sitting_date": "1926-12-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c028/tbmm02028017.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c028/ehttbmm02028017.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c028/tbmm02028fih.pdf",
+      "pages": [
+        "95"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=383&v_gelecek_sayfa=301&v_kullanici_id=27483770",
+  "source_sha256": "828cbce041263c5a5f236d68c0330dea91a78c745b808d04270da46ac4eb6ea9",
+  "in_force": "1926-05-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
