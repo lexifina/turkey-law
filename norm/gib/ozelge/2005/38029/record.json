@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5328-1926-2803",
+  "source_id": 38029,
+  "date": "2005-01-18",
+  "title": "Tıbbi Cihaz Yönetmeliğine tabi olan numaralı lensler ile göz kusurlarının giderilmesine mahsus gözlükler (numaralı gözlük camları ve çerçeveleri) %8 oranında. kozmetik lensler ise %18 oranında katma değer vergisine tabi olacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38029",
+  "source_sha256": "05c407db9419ab0b05412bd348e97a05013ba11553ff23091049d754b2a9e635",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
