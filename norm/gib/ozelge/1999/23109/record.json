@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-204/051046",
+  "source_id": 23109,
+  "date": "1999-11-23",
+  "title": "Bir biçerdövere sahip çiftçilerin bu biçerdöveri kendi zirai işletmelerinde de kullanmaları şartıyla gerçek usulde zirai kazanç mükellefiyetlerine tabi tutulmaları gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23109",
+  "source_sha256": "4a5272858164d87b1894a216a3691cca933c0791e67f98ff9e516b8239adfde1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
