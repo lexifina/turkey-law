@@ -1,0 +1,2 @@
+Dayanak
+Madde 3 — Bu Yönetmelik, 657 sayılı Devlet Memurları Kanunu, Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair 399 sayılı Kanun Hükmünde Kararname ve 17/09/1982 tarihli ve 8/5336 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Disiplin Kurulları ve Disiplin Amirleri Hakkında Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
