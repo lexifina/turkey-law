@@ -1,0 +1,63 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2827",
+  "year": 1935,
+  "title": "Büyük Millet Meclisi 1935 malî yılı ücretli kadrosu ile bütçesinde değişiklik yapılmasına dair kanun",
+  "adopted": "1935-10-14",
+  "adopted_as_published": "14/10/1935",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "19.10.1035 No: 3136",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502827.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 15",
+  "committee_reports": [
+    {
+      "label": "TBMM 237 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005044ss0237.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104041,
+      "title": "Büyük Millet Meclisi 1935 malî yılı ücretli kadrosu ile bütçesinde değişiklik yapılmasına dair kanun",
+      "adopted_as_published": "14/10/1935",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502827.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 237 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005044ss0237.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 44,
+          "sitting_date": "1935-10-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005fih.pdf",
+          "pages": [
+            "75",
+            "76",
+            "78",
+            "82:85"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=920&v_gelecek_sayfa=901&v_kullanici_id=27483162",
+      "page_sha256": "9406c3f10f655387d457685f06b72fb4454ec7383b260a0a5e9732061c4398d2"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9406c3f10f655387d457685f06b72fb4454ec7383b260a0a5e9732061c4398d2",
+  "issuer": "TBMM",
+  "in_force": "1935-10-14",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 14/10/1935; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
