@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK- 28  /2004- 20/ Basit Usulde Vergilendirme-3",
+  "source_id": 629,
+  "date": "2004-12-13",
+  "title": "Kar hadleri emsallerine göre düşük olarak tespit edilmiş bulunan emtia için belirlenen maktu had ve tutarlar ile basit usule tabi mükelleflerin belge düzenine ilişkin yapılan açıklamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/629",
+  "source_sha256": "0d73742232f638a21688145ce27072636e35f09b45771aa989f4c877c59cec6e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
