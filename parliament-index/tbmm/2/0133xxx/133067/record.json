@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 133067,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEFSİRLER",
+  "heading_as_published": "Tefsirler",
+  "summary": "Tütün idarei muvakkatesi ve sigara kâğıdı inhisarı hakkındaki 26 Şubat 1341 tarihli Kanunun 16 ve 17. maddelerinin tefsiri.",
+  "title": "Tütün idarei muvakkatesi ve sigara kâğıdı inhisarı hakkındaki 26 Şubat 1341 tarihli Kanunun 16 ve 17. maddelerinin tefsiri.",
+  "first_sitting_date": "1925-03-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 15,
+      "sitting": 75,
+      "sitting_date": "1925-03-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c015/tbmm02015075.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c015/ehttbmm02015075.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c015/tbmm02015fih.pdf",
+      "pages": [
+        "347",
+        "349"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 98,
+      "sitting_date": "1925-04-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c017/tbmm02017098.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c017/ehttbmm02017098.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c017/tbmm02017fih.pdf",
+      "pages": [
+        "189",
+        "192",
+        "193:195"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=383&v_gelecek_sayfa=101&v_kullanici_id=27483770",
+  "source_sha256": "c1d548b49ce07e2a4d9716f4f126bb2c34af8388a581500824eeb2da8f09a2ff",
+  "in_force": "1925-03-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
