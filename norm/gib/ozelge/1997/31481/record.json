@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5514-367/21321",
+  "source_id": 31481,
+  "date": "1997-05-23",
+  "title": "Uluslararası kara taşımacılığında karamanifestosu, karamanifestosu düzenlenmeyen hallerde TIR karnesinin ilgili sayfa ve koçanlarının gümrük işlemlerinin yapıldığı esnada Gümrük İdarelerince \"aslı gibidir\" ibaresi kullanılarak tasdik işlemini yapan yetkil",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31481",
+  "source_sha256": "aa79e31bb53be4244669aefebd93e7c79fad95f6f6b5df01d29a42b9fc6e7d69",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
