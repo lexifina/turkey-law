@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5424-10/25962",
+  "source_id": 30025,
+  "date": "1997-06-20",
+  "title": "Üniversiteyi güçlendirme vakfı tarafından üniversiteden kiralanan arazilerin 3.şahıslara kiralanması ve üzerine yaptırdığı tesislerin bir süre sonra üniversiteye devredilmesi durumunda K.D.V.'den istisna olacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30025",
+  "source_sha256": "7cdd44384e9ad8d627bb5f61f0d739e2da6ad6ec9b25204ef2416645a60aeef9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
