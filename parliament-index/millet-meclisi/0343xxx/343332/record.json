@@ -1,0 +1,88 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 343332,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Değerli Kâğıtlar Kanunu hakkında (1/360)",
+  "title": "Değerli Kâğıtlar Kanunu hakkında (1/360)",
+  "first_sitting_date": "1962-12-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 22,
+      "sitting_date": "1962-12-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010fih.pdf",
+      "pages": [
+        "447"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 38,
+      "sitting_date": "1963-02-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011fih.pdf",
+      "pages": [
+        "388",
+        "429",
+        "430",
+        "603",
+        "609"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 45,
+      "sitting_date": "1963-02-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+      "pages": [
+        "125",
+        "128",
+        "210",
+        "213"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 54,
+      "sitting_date": "1963-02-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c013/mm__01013054.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c013/mm__01013fih.pdf",
+      "pages": [
+        "415"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 56,
+      "sitting_date": "1963-02-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014056.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014fih.pdf",
+      "pages": [
+        "2",
+        "5",
+        "6",
+        ""
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=4501&v_kullanici_id=27484850",
+  "source_sha256": "2c30cc4c3fbe31b2a0584775b536dd028cf3a05adc7af31ca41e72d7112787b5",
+  "in_force": "1962-12-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
