@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-06",
+  "issue": "25778",
+  "edition": "regular",
+  "item": 2,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "Kanunlar",
+  "title": "5329 Askerî Ceza Kanunu ile Disiplin Mahkemeleri Kuruluşu, Yargılama Usulü ve Disiplin Suç ve Cezaları Hakkındaki Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050406-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050406.htm",
+  "index_sha256": "4b7955fe4b962a38ecca17da2ff14ebed13a9c3d620fcaa0ed2a7ed1292cf49a",
+  "index_header": "6 Nisan 2005 ... Sayı : 25778",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
