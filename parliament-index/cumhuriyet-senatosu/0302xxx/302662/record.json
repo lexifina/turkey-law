@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 302662,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Umumi hayata müessir âfetler dolayısiyle alınacak tedbirlerle yapılacak yardımlara dair 15.5.1959 gün ve 7269 sayılı Kanunun bâzı maddelerinin değiştirilmesi ve bu kanuna bâzı maddeler eklenmesi hakkında kanun tasarısına dair (Millet Meclisi 1/706, Cumhuriyet Senatosu 1/608) (S. Sayısı: 780)",
+  "title": "Umumi hayata müessir âfetler dolayısiyle alınacak tedbirlerle yapılacak yardımlara dair 15.5.1959 gün ve 7269 sayılı Kanunun bâzı maddelerinin değiştirilmesi ve bu kanuna bâzı maddeler eklenmesi hakkında kanun tasarısına dair (Millet Meclisi 1/706, Cumhuriyet Senatosu 1/608) (S. Sayısı: 780)",
+  "first_sitting_date": "1966-03-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 35,
+      "sitting": 62,
+      "sitting_date": "1966-03-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c035/cs__05035062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c035/cs__05035fih.pdf",
+      "pages": [
+        "499",
+        "502:515",
+        "545:546"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=1701&v_kullanici_id=27484903",
+  "source_sha256": "55ec468ed51f6ab28b6aff70115a8be03a692a3efbad9014d12b482ec6053294",
+  "in_force": "1966-03-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
