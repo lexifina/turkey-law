@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5011-125/25383",
+  "source_id": 37683,
+  "date": "1997-06-18",
+  "title": "Bir tesisin satışı halinde, bu satıştan doğan kazancın kurumlar vergisinden müstesna tutulabilmesi için iki yıl süreyle aktifte bulundurulma şartının gerçekleştiğinin tespitinde hangi tarihin esas alınacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37683",
+  "source_sha256": "a26f2078c234b3117f88d4374cb64aeee2c99454f5133fa83ae2c7cda3b538e3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
