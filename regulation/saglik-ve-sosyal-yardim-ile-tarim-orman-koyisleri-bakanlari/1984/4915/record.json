@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4915",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İTHAL EDİLECEK İLAÇ HAM, BAŞLANGIÇ MADDELERİ İSPENÇİYARİ VE TIBBİ MÜSTAHZARLAR YÖNETMELİĞİ",
+  "number": "4915",
+  "issuer": "Sağlık ve Sosyal Yardım ile Tarım Orman Köyişleri Bakanları",
+  "issuer_slug": "saglik-ve-sosyal-yardim-ile-tarim-orman-koyisleri-bakanlari",
+  "path": "regulation/saglik-ve-sosyal-yardim-ile-tarim-orman-koyisleri-bakanlari/1984/4915",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4915&MevzuatTertip=5",
+  "source_sha256": "48f1d66dabca19149212ade1f2cb2584792f458460141e589d58ab7091d0e0ed",
+  "source_bytes": 23048,
+  "published": "1984-11-01",
+  "gazette": "18562",
+  "in_force": "1984-11-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.11.1984); own commencement article: \"Bu yönetmelik yayım tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik yayım tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 875,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
