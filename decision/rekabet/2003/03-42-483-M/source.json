@@ -1,0 +1,13 @@
+{
+  "number": "03-42/483-M",
+  "type": "Rekabet İhlali",
+  "decision_date": "2003-06-12",
+  "publication_date": "2004-09-22",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=b7b62cd9-79ec-47f8-a57f-996342d0ec9b",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=953",
+  "pdf_sha256": "36cfb3a5c8b8a913f07c3fc2fae517043d16f652371a455c8fe5985e55906ec0",
+  "pdf_bytes": "227544",
+  "pages": "5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
