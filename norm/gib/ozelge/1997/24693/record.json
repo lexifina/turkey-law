@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3018-347-4 -25410",
+  "source_id": 24693,
+  "date": "1997-06-18",
+  "title": "Gelir Vergisi Kanunu'nun 94/6-b maddesi uyarınca yapılacak gelir vergisi tevkifatının noksan beyan edilmesi ve bu noksan beyanın muhtasar beyanname ile kurumlar vergisi beyannamesinin karşılaştırılması sonucu tespiti halinde kesilecek ceza hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24693",
+  "source_sha256": "9d0a4c1952c54a2af21d653bdc1c07297c2d2d95cd1bc1cb4f9434b6baed51fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
