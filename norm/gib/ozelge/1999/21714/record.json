@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-30051/14710",
+  "source_id": 21714,
+  "date": "1999-04-16",
+  "title": "01.01.1999-30.04.1999 ta-rihleri arasında düzenlenen Yatırım Teşvik Belgesi kapsamında 1999 yılında yapılması öngörülen yatırım harcamalarına, 1998 yılı kurum kazancı üzerinden yatırım indirimi uygulanması mümkün bulunmaktadır. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21714",
+  "source_sha256": "1632bdc59001de484ea465f2c83afa31a284950dd98695508d73f62752007f64",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
