@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-04-07",
+  "issue": "25072",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Altındağ Belediye Başkanlığı İmar Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030407-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (4 = 4)",
+  "ilan_codes": [
+    "7190/1-1",
+    "7191/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030407-4.htm",
+  "category_page_sha256": "7ccbe1cd77fd9729c728afc58ec9aa32af08ddaa67a0d1963bb37ecbd093a859",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030407.htm",
+  "index_sha256": "ce7ebfb4fbfcfdb9eca841598f52b2f56078ddebfa227a6ded823d961c7e3e9e",
+  "index_header": "7 Nisan 2003 ... Sayı : 25072",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
