@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5029-96-24593",
+  "source_id": 22904,
+  "date": "1998-07-02",
+  "title": "Sulama tesisi inşası için ödenecek istihkak bedelleri üzerinden göre gerekli vergisi ve fon payı kesintisinin yapılması gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22904",
+  "source_sha256": "b8fb59af964e80fffed1cb65e147ed03e9a05953676f4402e0c46097e71992c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
