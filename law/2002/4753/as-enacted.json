@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4753",
+  "year": 2002,
+  "title": "Olağanüstü Hal Bölge Valiliği İhdası Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2002-05-03",
+  "gazette_issue": "24744",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2002/05/20020503.htm",
+  "source_sha256": "a2828dbd23fe339750ea003c0a6d6da8e4ab481f0ba77b2197789ffd6897dd6c",
+  "text_sha256": "b4725650a17602cce5c03bbd7da6bd1e642a97b43c86e9eb780c10227119b439",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2002/05/03/24744-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2002/05/20020503.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
