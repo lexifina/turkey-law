@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4677",
+  "year": 1944,
+  "title": "Atatürk Anıt-Kabri inşasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-12-04",
+  "gazette_issue": "5870",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5870.pdf",
+  "source_sha256": "390ad61410953bcda6c2d5a27ea9ad9a9e954796f7096b7ac81f45db3b13cf10",
+  "text_sha256": "e878b01234bc3779884937dc1dcd05c9cfdfa33d7d6562130bb8f56ef2edb227",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      27
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704677.pdf",
+    "source_sha256": "c4b5faaf2faab851d8a30278be93066dd82fbb0f2c5887244314c1d1f5009b95",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9514,
+    "bag": 0.9379,
+    "kd_coverage": 0.9726,
+    "kd_body_compared": 0.9474,
+    "rg_words": 73,
+    "kd_words": 76,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
