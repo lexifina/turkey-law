@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 335863,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türkiye Cumhuriyeti Hükümeti ile Macaristan Halk Cumhuriyeti Hükümeti arasında imza edilen «Türkiye Cumhuriyeti Hükümeti ile Macar Halk Cumhuriyeti Hükümeti arasında 12 Mayıs 1949 tarihinde akdolunan Ticaret ve Tediye Anlaşmasına ek Protokol» ile eklerinin onaylanmasının uygun bulunduğu hakkında kanun tasarısına dair (1/170)",
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Macaristan Halk Cumhuriyeti Hükümeti arasında imza edilen «Türkiye Cumhuriyeti Hükümeti ile Macar Halk Cumhuriyeti Hükümeti arasında 12 Mayıs 1949 tarihinde akdolunan Ticaret ve Tediye Anlaşmasına ek Protokol» ile eklerinin onaylanmasının uygun bulunduğu hakkında kanun tasarısına dair (1/170)",
+  "first_sitting_date": "1962-03-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 67,
+      "sitting_date": "1962-03-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+      "pages": [
+        "191"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 77,
+      "sitting_date": "1962-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+      "pages": [
+        "563"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=5201&v_kullanici_id=27484836",
+  "source_sha256": "ccb328fdf928b08a956d1841a55e4e2c77ce98d78b4e6f16e64cc66022e77c98",
+  "in_force": "1962-03-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
