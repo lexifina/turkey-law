@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 466972,
+  "assembly": "TBMM Birleşik Toplantı",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Millet Meclisi İdareci üyeleri Gümüşhane Milletvekili Mustafa Karaman, Kastamonu Milletvekili Hasan Tosyalı, Rize Milletvekili Sami Kumbasar ve Cumhuriyet Senatosu idare amirleri Cumhuriyet Senatosu Tabiî Üyesi Suphi Gürsoytrak ile Cumhuriyet Senatosu Zonguldak Üyesi Tarık Remzi Baltan'ın, TBMM Birleşik Toplantısı İçtüzüğünün 14. maddesinin değiştirilmesine ilişkin İçtüzük teklifi (2/1",
+  "title": "Millet Meclisi İdareci üyeleri Gümüşhane Milletvekili Mustafa Karaman, Kastamonu Milletvekili Hasan Tosyalı, Rize Milletvekili Sami Kumbasar ve Cumhuriyet Senatosu idare amirleri Cumhuriyet Senatosu Tabiî Üyesi Suphi Gürsoytrak ile Cumhuriyet Senatosu Zonguldak Üyesi Tarık Remzi Baltan'ın, TBMM Birleşik Toplantısı İçtüzüğünün 14. maddesinin değiştirilmesine ilişkin İçtüzük teklifi (2/1",
+  "first_sitting_date": "1975-07-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 11,
+      "sitting_date": "1975-07-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t14/c014/tbmm14014011.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t14/c014/tbmm14014fih.pdf",
+      "pages": [
+        "241",
+        "243"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=8&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=8&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "066b07aea07b8ba09a03df4eeedd778aa95282d9ea4f03fc3d37c87b356d8882",
+  "in_force": "1975-07-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
