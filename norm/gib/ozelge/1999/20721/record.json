@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4422-26/13430",
+  "source_id": 20721,
+  "date": "1999-04-09",
+  "title": "Basit Usule tabi mükellefin aracının satışından elde edilen hasılatın ticari kazancın tespitinde vergilendirileceği tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20721",
+  "source_sha256": "1813ea55b61806cd0cba52a8db11335dd9e4a2d44175739438d57c7fd0097d44",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
