@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3053-413-393/32643",
+  "source_id": 37941,
+  "date": "1998-09-17",
+  "title": "Vergi daireleri başkanlıklarının yetki alanlarının neler olduğu hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37941",
+  "source_sha256": "959445fb75dcd72cf0ec072ba507d170ddb2fd52eb17d83d98cd150f876f1f94",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
