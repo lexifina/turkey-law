@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1687",
+  "year": 1950,
+  "title": "1687 sayılı Karar",
+  "adopted": "1950-02-06",
+  "adopted_as_published": "06/02/1950",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.02.1950 No: 7429",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/karartbmmc032/karartbmmc03201687.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 32",
+  "committee_reports": [
+    {
+      "label": "TBMM 158 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024039ss0158.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 8,
+      "kayit_no": 78571,
+      "title": "1687 sayılı Karar",
+      "adopted_as_published": "06/02/1950",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/karartbmmc032/karartbmmc03201687.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 158 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024039ss0158.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 24,
+          "sitting": 39,
+          "sitting_date": "1950-02-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024fih.pdf",
+          "pages": [
+            "107:121"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=192&v_gelecek_sayfa=101&v_kullanici_id=27483271",
+      "page_sha256": "9e37554730adfba307b9ae66ee309c80f92a2012e67e4b54ed57d695e7a944a0"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9e37554730adfba307b9ae66ee309c80f92a2012e67e4b54ed57d695e7a944a0",
+  "issuer": "TBMM",
+  "in_force": "1950-02-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 06/02/1950; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
