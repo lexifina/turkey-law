@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4344",
+  "year": 1942,
+  "title": "Jandarma subaylığından mütekait yüzbaşı ve üsteğmenlerin kaza jandarma komutanlıklarında mütekaiden istihdam edilecekleri hakkındaki 3922 sayılı kanun hükmünün uzatılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-12-31",
+  "gazette_issue": "5294",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5294.pdf",
+  "source_sha256": "53e926b7077b67e0d8bcf8b8153bb6515d1d80441fe846629b7bc9b06d69fe1f",
+  "text_sha256": "1dd1fd80c9679e7155e229b6a92ac570eb3b21c9990e3923604cd241a016828c",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      276,
+      292
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc024/kanuntbmmc024/kanuntbmmc02404344.pdf",
+    "source_sha256": "e3112ee69fddc39fed0da31d4c09ee32173028cccfab9964bba383d667c3eea5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9261,
+    "bag": 0.8769,
+    "kd_coverage": 0.9688,
+    "kd_body_compared": 0.9403,
+    "rg_words": 67,
+    "kd_words": 67,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
