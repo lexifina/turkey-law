@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5317-1923-3341",
+  "source_id": 23944,
+  "date": "2004-01-23",
+  "title": "Kurumlara ait konutların kendi personeline lojman olarak tahsisi, karşılığında bedel alınmamak kaydıyla katma değer vergisine tabi tutulmayacak, bir bedel alınması durumunda ise bu bedel üzerinden katma değer vergisi hesaplanacaktır. Konutların kendi pers",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/23944",
+  "source_sha256": "27af977c6b70dfe3e29661ccaa186ede6359ce2b8bbe98d27c2bf359b0f6af25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
