@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3570",
+  "year": 1989,
+  "title": "28.2.1982 Tarihli ve 2629 Sayılı Kanun ile 28.2.1985 Tarihli ve 3160 Sayılı Kanunda Değişiklik Yapılması ve Diğer Kamu Kurum ve Kuruluşlarında Çalışan Uçucu Personele Tazminat Verilmesi Hakkında 338 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun",
+  "adopted": "1989-06-08",
+  "adopted_as_published": "08/06/1989",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "13.06.1989 No: 20194",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc072/kanuntbmmc072/kanuntbmmc07203570.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 72",
+  "committee_reports": [
+    {
+      "label": "TBMM 247 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c029/tbmm18029099ss0247.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 228048,
+      "title": "28.2.1982 Tarihli ve 2629 Sayılı Kanun ile 28.2.1985 Tarihli ve 3160 Sayılı Kanunda Değişiklik Yapılması ve Diğer Kamu Kurum ve Kuruluşlarında Çalışan Uçucu Personele Tazminat Verilmesi Hakkında 338 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun",
+      "adopted_as_published": "08/06/1989",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc072/kanuntbmmc072/kanuntbmmc07203570.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 247 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c029/tbmm18029099ss0247.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 16,
+          "sitting": 18,
+          "sitting_date": "1988-10-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c016/tbmm18016018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c016/tbmm18016fih.pdf",
+          "pages": [
+            "90"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 95,
+          "sitting_date": "1989-05-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c028/tbmm18028095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c028/tbmm18028fih.pdf",
+          "pages": [
+            "93"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 99,
+          "sitting_date": "1989-06-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c029/tbmm18029099.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c029/tbmm18029fih.pdf",
+          "pages": [
+            "12:20",
+            "22:23",
+            "25:29"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=363&v_gelecek_sayfa=101&v_kullanici_id=27483192",
+      "page_sha256": "361a4fae696438e8cdcec3e14c7a6b3da7efee401becf429a81634f0a6406b9b"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "361a4fae696438e8cdcec3e14c7a6b3da7efee401becf429a81634f0a6406b9b",
+  "issuer": "TBMM",
+  "in_force": "1989-06-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 08/06/1989; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
