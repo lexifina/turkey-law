@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3406",
+  "year": 1938,
+  "title": "Dahiliye Vekâleti merkez teşkilât ve vazifeleri hakkındaki Kanunun bazı hükümlerini değiştiren 3046 ve 3184 sayılı kanunlarda değişiklik yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-06-11",
+  "gazette_issue": "3931",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3931.pdf",
+  "source_sha256": "ad0866eb422f692c158074a08feda0cddd95936147cb4f7ad51bc967458a381e",
+  "text_sha256": "badef0d0d5383e98dd654d9f3fd0bc0ba419bce28bc8d58571327616909085b3",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      4,
+      157
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803406.pdf",
+    "source_sha256": "672bd51840e6bb26883fc78cadeae46c259b5fb2702babd81fc53e474a8f6305",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9678,
+    "bag": 0.9328,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9949,
+    "rg_words": 368,
+    "kd_words": 393,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
