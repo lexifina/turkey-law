@@ -1,0 +1,3 @@
+Lisanslı depo işleticisi olması yasaklananlar
+MADDE 7. — Affa uğramış olsalar dahi, ağır hapis veya beş yıldan fazla hapis yahut zimmet, irtikâp, ihtilas, rüşvet, hırsızlık, sahtecilik, dolandırıcılık, inancı kötüye kullanma, hileli iflas, kaçakçılık gibi yüz kızartıcı suçlar ile resmî ihale ve alım satımlara fesat karıştırma suçlarından dolayı hüküm giyenler ve bu Kanuna aykırı davranışlardan dolayı ağır hapis veya hapis cezası alanlar lisanslı depo işletemezler, bunlara ortak olamazlar, yönetici ve denetçi görevlerinde bulunamazlar.
+Yukarıdaki fıkra kapsamında hüküm giymemekle birlikte kendi isteği ve iradesi dışında depoculuk lisansı iptal edilenler de üç yıl süreyle lisanslı depo işletemezler, bunlara ortak olamazlar, yönetici ve denetçi görevlerinde bulunamazlar.

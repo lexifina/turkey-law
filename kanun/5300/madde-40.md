@@ -1,0 +1,2 @@
+Yürürlük
+MADDE 40. — Bu Kanunun 34 üncü maddesinin üçüncü fıkrası 1 Nisan 2005 tarihinde, diğer hükümleri yayımı tarihinde yürürlüğe girer.
