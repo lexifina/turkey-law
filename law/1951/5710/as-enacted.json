@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5710",
+  "year": 1951,
+  "title": "Damga Resmi Kanununun 32nci Maddesine 3478 sayılı Kanunla Eklenen 62nci Numaranın Kaldırılmasına ve 3765 Sayılı Kanunla Eklenen 79ncu Numaranın Değiştirilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-01-31",
+  "gazette_issue": "7722",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7722.pdf",
+  "source_sha256": "c18815a626ffc58612c34c4dea3c355ff1e0050df746aa04f8a62c83d018a6d2",
+  "text_sha256": "a8cbdb84ca3257cf1e70d901a96b60966d9ffc08fdf8f2320b43443230c564cd",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      859,
+      873
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305710.pdf",
+    "source_sha256": "a9e9c26f25d85a9812b02ff2a9a264a5e6fe76bf09823bfdc261a3d79eb19759",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9745,
+    "bag": 0.871,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9787,
+    "rg_words": 94,
+    "kd_words": 94,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
