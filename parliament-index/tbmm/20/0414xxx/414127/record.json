@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 414127,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "14.7.1965 tarihli ve 657 Sayılı, 8.6.1949 tarihli ve 5434 sayılı, 5.3.1964 tarihli ve 439 sayılı, 304.1992 tarihli ve 3792 sayılı. 11.10.1983 tarihli ve 2914 sayılı Kanunların Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun Tasarısı ile 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin Eki Cetvellerde Değişiklik Yapılmasına Dair Kanun Tasarısı ve Burdur Milletvekili Yusuf Ekinci ve Bolu Milletvekili Avni Akyol'un, Bursa Milletvekili Turhan Tayan'ın, Kahramanmaraş Milletvekili Hasarı Dikici ve 45 arkadaşının, Rize Milletvekili Ahmet Kabil'in, Trabzon Milletvekili İsmail İlhan Sungur ye 8 arkadaşının. Burdur Milletvekili Yusuf Ekinci'nin, Hatay Milletvekili Ali Uyar'ın, Konya Milletvekili Ali Günaydın'ın, Kocaeli Milletvekili Halil Çalık ve 2 arkadaşının, Siirt Milletvekili Mehmet Emin Aydın ve 14 arkadaşının ve Muş Milletvekili Nedim İlci'nin benzer mahiyetteki kanun tekliflerine ilişkin",
+  "title": "14.7.1965 tarihli ve 657 Sayılı, 8.6.1949 tarihli ve 5434 sayılı, 5.3.1964 tarihli ve 439 sayılı, 304.1992 tarihli ve 3792 sayılı. 11.10.1983 tarihli ve 2914 sayılı Kanunların Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun Tasarısı ile 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin Eki Cetvellerde Değişiklik Yapılmasına Dair Kanun Tasarısı ve Burdur Milletvekili Yusuf Ekinci ve Bolu Milletvekili Avni Akyol'un, Bursa Milletvekili Turhan Tayan'ın, Kahramanmaraş Milletvekili Hasarı Dikici ve 45 arkadaşının, Rize Milletvekili Ahmet Kabil'in, Trabzon Milletvekili İsmail İlhan Sungur ye 8 arkadaşının. Burdur Milletvekili Yusuf Ekinci'nin, Hatay Milletvekili Ali Uyar'ın, Konya Milletvekili Ali Günaydın'ın, Kocaeli Milletvekili Halil Çalık ve 2 arkadaşının, Siirt Milletvekili Mehmet Emin Aydın ve 14 arkadaşının ve Muş Milletvekili Nedim İlci'nin benzer mahiyetteki kanun tekliflerine ilişkin",
+  "first_sitting_date": "1998-04-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 50,
+      "sitting": 75,
+      "sitting_date": "1998-04-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c050/tbmm20050075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c050/tbmm20050fih.pdf",
+      "pages": [
+        "36:172",
+        "186:191"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=481&v_gelecek_sayfa=401&v_kullanici_id=27484473",
+  "source_sha256": "b3d12fabc877d00f17260dafcbab0adf4db0ebe5c75f727d6f6453643c6093d8",
+  "in_force": "1998-04-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
