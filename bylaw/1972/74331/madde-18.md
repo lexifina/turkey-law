@@ -1,0 +1,1 @@
+Madde 18 – Kapalı depoların tabanlarının pamuklara yabancı madde karışmasını ve kirlenmeyi önleyecek ve rutubeti geçirmeyecek ve duvarları ile çatısının pamuğu her türlü hava etkisinden koruyacak şekil ve nitelikte yapılmış olması şarttır.

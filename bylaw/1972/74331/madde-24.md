@@ -1,0 +1,1 @@
+Madde 24 – Denetim sonucunda eksperler tarafından bir rapor düzenlenir ve bir örneği denetlenen fabrikayı işletenlere gönderilir. Bu raporlar, istendiğinde gösterilmek üzere, düzenli bir şekilde saklanır.

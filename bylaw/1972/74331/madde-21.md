@@ -1,0 +1,1 @@
+Madde 21 – Çiğitli pamukların depolanmasında; çeşitli grup, sınıf ve tiplerdeki pamukların karışmasını, niteliklerinin bozulmasını, fazla basınç altında bulunmasını önleyecek ve bunların yeterince havalanmasını sağlayacak tedbirlerin alınması zorunludur.

@@ -1,0 +1,2 @@
+Madde 4 – Pamuk çırçır - prese fabrikası işletenler, çırçırlamanın devamı süresince; pamuk tasnifinden anlayan, ortaokulu bitirmiş en az bir pamuk ustası ile çırçır makinalarının pamuğun vasıflarını bozmayacak şekilde çalışmasını sağlayacak yeterlikte, ilkokulu bitirmiş, en az bir çırçır ustası çalıştırmak zorundadırlar.
+Yeterlik belgeleri; pamuk ustalarına Ticaret Bakanlığınca, çırçır ustalarına Tarım Bakanlığınca verilir.

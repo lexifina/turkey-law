@@ -1,0 +1,1 @@
+Geçici Madde 3 – Tüzüğün yürürlüğe girdiği tarihi kovalayan 5 yıl içinde, halen mevcut pamuk çırçır-prese fabrikalarında, pamukların çırçırlandığı yerlerin tabanları, 10 uncu madde hükümlerine uygun hale getirilir.
