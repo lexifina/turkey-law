@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-03-05",
+  "issue": "25039",
+  "edition": "regular",
+  "item": 22,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Samsun Hıfzıssıhha Enstitüsü Bölge Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030305-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (39 = 39)",
+  "ilan_codes": [
+    "4095/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030305-3.htm",
+  "category_page_sha256": "920c57809068d90380dbf88db5ff42d606bbafeb6e94ce14beaa91137cbf8360",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030305.htm",
+  "index_sha256": "92d4c4d9f15434d24876b7b9de4dfcad93e86a2b013615b79f43ef5914116267",
+  "index_header": "5 Mart 2003 ... Sayı : 25039",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
