@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2262",
+  "year": 1933,
+  "title": "Sümerbank Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-11",
+  "gazette_issue": "2424",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2424.pdf",
+  "source_sha256": "9aa204f144a3ff21ea20cdbc1bd296b3c52a9ea03f0a47468632d80b360229e8",
+  "text_sha256": "afc965003b4cb340188c05a61ab246403fed408c8139a4429c4967849a6a418e",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      269,
+      581
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202262.pdf",
+    "source_sha256": "16587d8bbc6db74f183c25c9016bac3ef9ca2a95988f1772cd82414323290963",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9668,
+    "bag": 0.9006,
+    "kd_coverage": 0.9984,
+    "kd_body_compared": 0.9968,
+    "rg_words": 1242,
+    "kd_words": 1236,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
