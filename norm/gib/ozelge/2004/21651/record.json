@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.46/4600-74731/015691",
+  "source_id": 21651,
+  "date": "2004-04-09",
+  "title": "Öteden beri varolan sakatlığı ile   ilgili çalışma gücü kayıp oranı eski yönetmelikte (% 37) yüzde otuz yedi olarak belirlenmiş; yeni yönetmelik ile bu oran (% 45) yüzde kırk beş 'e çıkarılmıştır. Dolayısı ile ödevlinin yeni yönetmelik hükümlerine göre ra",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21651",
+  "source_sha256": "f8427834455cae858ce28e8b093d1f0b41154b59d36eb9defddb01ceb353c888",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
