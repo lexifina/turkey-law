@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4882",
+  "year": 2003,
+  "title": "1990 Tarihli Petrol Kirliliğine Karşı Hazırlıklı Olma, Müdahale ve İşbirliği ile İlgili Uluslararası Sözleşme ve Eklerine Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-06-17",
+  "gazette_issue": "25141",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030617.htm",
+  "source_sha256": "f3f820b251a2d432b90febbd5c3de2de16d17da155b6022113612e28a948558d",
+  "text_sha256": "7952a15df8e1772823714fa441906e85e5dfe0e07843edc3d40a452a63e2ecbc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/06/17/25141-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030617.htm#7",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
