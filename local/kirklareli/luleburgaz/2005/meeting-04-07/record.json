@@ -1,0 +1,24 @@
+{
+  "number": "meeting-04-07",
+  "number_as_published": "meeting-04-07",
+  "year": 2005,
+  "title": "7--ni̇san-mec.-karar-özetleri-07.04.2005.pdf",
+  "decision_date": "2005-04-07",
+  "source": "https://www.luleburgaz.bel.tr/sayfa/2005-yili-meclis-karar-ozetleri",
+  "official_document": "https://www.luleburgaz.bel.tr/upload/icerikdosyalar/3ZBvV8DAJ93s8eg.pdf",
+  "source_sha256": "71a7371d807fea31fdfab121a931e80d2c38bc4ea8f93b6bf53577dd82243f84",
+  "issuer": "Lüleburgaz Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2005-04-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.04.2005; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2005 YILI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.luleburgaz.bel.tr/sayfa/2005-yili-meclis-karar-ozetleri"
+}
