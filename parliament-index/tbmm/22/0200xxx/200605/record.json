@@ -1,0 +1,72 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 200605,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Esnaf ve Sanatkarlar Meslek Kuruluşları Kanunu Tasarısına ilişkin",
+  "title": "Esnaf ve Sanatkarlar Meslek Kuruluşları Kanunu Tasarısına ilişkin",
+  "first_sitting_date": "2005-04-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 80,
+      "sitting": 81,
+      "sitting_date": "2005-04-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c080/tbmm22080081.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c080/tbmm22080fih.pdf",
+      "pages": [
+        "351:374",
+        "376:383"
+      ]
+    },
+    {
+      "cilt": 80,
+      "sitting": 82,
+      "sitting_date": "2005-04-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c080/tbmm22080082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c080/tbmm22080fih.pdf",
+      "pages": [
+        "427:472"
+      ]
+    },
+    {
+      "cilt": 84,
+      "sitting": 99,
+      "sitting_date": "2005-05-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c084/tbmm22084099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c084/tbmm22084fih.pdf",
+      "pages": [
+        "492:541",
+        "544:587"
+      ]
+    },
+    {
+      "cilt": 86,
+      "sitting": 108,
+      "sitting_date": "2005-06-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c086/tbmm22086108.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c086/tbmm22086fih.pdf",
+      "pages": [
+        "492:541",
+        "544:587",
+        "758:767"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1248&v_gelecek_sayfa=701&v_kullanici_id=27484562",
+  "source_sha256": "4eabb532a7644e096fdd9efd16d15b10e90a59f9913f594b973d3f32aeda259c",
+  "in_force": "2005-04-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
