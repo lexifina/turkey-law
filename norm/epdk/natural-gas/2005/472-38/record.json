@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "472/38",
+  "decision_date": "2005-04-08",
+  "title": "EPDK Kurul Kararı 472/38",
+  "resmi_gazete_date": "2005-04-26",
+  "resmi_gazete_number": "25797",
+  "categories": [
+    "Doğal Gaz Piyasası Denetim Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=D7TPRXqvrwA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=D7TPRXqvrwA="
+  ],
+  "source_sha256": "f78db9e505c24cbe3c0fab94f95db960fb2e14e0b56ed0e94e9ca865dee581af",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7220,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-04-08",
+  "law_text_complete": false
+}
