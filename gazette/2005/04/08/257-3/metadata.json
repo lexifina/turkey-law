@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-08",
+  "issue": "257",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "Tekerlekli Tarım veya Orman Traktörleri Tip Onayı Yönetmeliğinde Değişiklik Yapıl-masına Dair Yönetmelik (2001/3/AT ile Değişik 74/150/AT)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050408-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050408.htm",
+  "index_sha256": "7cc2de79fbe053b2176764501c972ae1ca2088dda1d5134ef625d82b4cf9d48d",
+  "index_header": "8 Nisan 2005 ... Sayı : 257",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
