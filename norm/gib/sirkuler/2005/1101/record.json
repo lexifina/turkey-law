@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-17/2005-5/Kurumlar Vergisi Beyannamesi-1",
+  "source_id": 1101,
+  "date": "2005-04-11",
+  "title": "2004 vergilendirme dönemine ilişkin verilecek kurumlar vergisi beyannamesinin düzenlenmesi ile ilgili açıklamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1101",
+  "source_sha256": "4b91326ff846eafca2da682d415843ea28657400b039362a6c91a0f0681d2da8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
