@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-537",
+  "source_id": 38015,
+  "date": "2005-04-11",
+  "title": "Döviz karşılığı yapılan ve ihracat istisnası uygulanan satışları ile ilgili bilgilerin bulunduğu özel faturaların doğruluğu ile söz konusu malların yurt dışına çıkıp çıkmadığının teyidinin 2001/1 Sıra No.lu Katma Değer Vergisi İç Genelgesi ve 2001/4 Sıra ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38015",
+  "source_sha256": "f262c2a1816033d3597bcfd385a264abd5064ef3e0335f5d7afc71e146f856bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
