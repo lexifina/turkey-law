@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6624-107/16131",
+  "source_id": 37242,
+  "date": "2005-04-11",
+  "title": "İnternet kafe, atari, oyun makinaları  ve bilgisayar oynanan oyun salonlarının eğlence vergisine tabi olup olmadığı konusu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37242",
+  "source_sha256": "0bdb7f6cf0138541e745ad61c898442c4e1643b0f552262e862bd78e8fd698de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
