@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-33/2005-5/ Yatırım İndirimi 5",
+  "source_id": 624,
+  "date": "2005-04-11",
+  "title": "2005 yılı birinci geçici vergi döneminde uygulanacak yeniden değerleme oranı %.3,3 (yüzde üç virgül üç) olarak tespit edilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/624",
+  "source_sha256": "51b4a2d10b9033fe36ea57beb797f11f924b6c215ddb374e22ce42e1bbb72399",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
