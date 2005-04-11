@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-11",
+  "issue": "25783",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğ",
+  "title": "2005 Yılı Sosyal Sigortalar Kurumu Başkanlığı İlaç Listesi ve Uygulama Talimatı (Seri No: 2005/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050411-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050411.htm",
+  "index_sha256": "eed0d7a7dfe7a82a602eaacf7e5eb573e8501b430ce622356349dee60fc59874",
+  "index_header": "11 Nisan 2005 ... Sayı : 25783",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
