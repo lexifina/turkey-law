@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-18/2005-6/Kurumlar Vergisi Beyannamesi-2",
+  "source_id": 1100,
+  "date": "2005-04-11",
+  "title": "2004 Vergilendirme Dönemi Yıllık Kurumlar Vergisi Beyannamesinin Süre Uzatımı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1100",
+  "source_sha256": "53b276eab4ab7d2c5826f82421691e995bdd6094a4882099e056f4d81c4344b2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
