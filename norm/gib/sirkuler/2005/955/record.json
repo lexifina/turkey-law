@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-29/2005-8",
+  "source_id": 955,
+  "date": "2005-04-11",
+  "title": "İndirimli Orana Tabi İşlemler Nedeniyle Yapılacak İadeler Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/955",
+  "source_sha256": "33c727251af6cea54107dad4c4595d7100a26f04f8b55948f326ecfe5c9668e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
