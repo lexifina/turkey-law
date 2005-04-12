@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5330",
+  "year": 2005,
+  "title": "Tarım Kredi Kooperatifleri ve Birlikleri Kanununda Değişiklik Yapılmasına ve Tarım Kredi Kooperatifleri ve Birlikleri Kanununda Değişiklik Yapılması Hakkında 553 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-04-12",
+  "gazette_issue": "25784",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050412-1.htm",
+  "source_sha256": "c30bfc17b80ca92e4e797849bc84d0a7a67cdd2d905eb4ed446c66667194333c",
+  "text_sha256": "5cd8a51871e96761bdea352a199955970729c3526f78ffbdb6e10813cf8ad0c0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/04/12/25784-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050412-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
