@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5317- 2022-16204",
+  "source_id": 29937,
+  "date": "2005-04-12",
+  "title": "29.07.1998 tarihinden önce inşaat ruhsatı almış olan kooperatiflere yapılacak inşaat tahhüt işleri KDV müstesnadır. Konut yapı kooperatiflerinin üyelerine konut teslimleri kdvden istisnadır.Üyeler dışındakilere yapılan konut teslimleri kdv ye tabidir.Koop",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29937",
+  "source_sha256": "79854cb520d70b4d5dfa6464b184ec25a90f99ebec00e3a220303cbb1c3d01c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
