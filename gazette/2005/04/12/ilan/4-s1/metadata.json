@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-12",
+  "issue": "25784",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Türkiye Serbest Muhasebeciler Mali Müşavirler ve Yeminli Mali Müşavirler ve Odalar Birliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/04/20050412-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (5 = 5)",
+  "ilan_codes": [
+    "4057/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/04/20050412-4.htm",
+  "category_page_sha256": "043a79dd99855b917fed5a9faff6c02115797ef0151b1b9e1209d2a02a54397c",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/04/20050412.htm",
+  "index_sha256": "a1d670f0a5fd8ea47228f7679962d9ab6c9324143da5034be53b7f5418017b55",
+  "index_header": "12 Nisan 2005 ... Sayı : 25784",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
