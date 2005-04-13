@@ -1,0 +1,3 @@
+Etik komisyonu
+Madde 29 — Kurum ve kuruluşlarda, etik kültürünü yerleştirmek ve geliştirmek, personelin etik davranış ilkeleri konusunda karşılaştıkları sorunlarla ilgili olarak tavsiyelerde ve yönlendirmede bulunmak ve etik uygulamaları değerlendirmek üzere kurum veya kuruluşun üst yöneticisi tarafından kurum içinden en az üç kişilik bir etik komisyonu oluşturulur.
+Etik komisyonu üyelerinin ne kadar süreyle görev yapacağı ve diğer hususlar, kurum ve kuruluşun üst yöneticisince belirlenir. Etik komisyonu üyelerinin özgeçmiş ve iletişim bilgileri, üç ay içinde Kurul’a bildirilir. Etik komisyonu, Kurul ile işbirliği içinde çalışır.

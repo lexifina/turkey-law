@@ -1,0 +1,3 @@
+Etik kültürün yerleştirilmesi ve eğitimi
+Madde 25 — Kurul, etik kültürün yerleştirilmesi ve geliştirilmesi konusunda her türlü çalışmayı yapar, yaptırır, araştırma, yayın, anket, kamuoyu yoklaması, bilimsel toplantılar ve benzeri etkinlikler düzenler, kamu görevlileri için eğitim programları hazırlar, koordine eder, yürütür veya bu konularda bakanlıklar, diğer kamu kurum ve kuruluşları, üniversiteler, mahalli idareler ve konusunda uzman sivil toplum kuruluşlarıyla işbirliği yapabilir.
+Etik davranış ilkelerinin, kamu görevlilerine uygulanan temel, hazırlayıcı ve hizmet içi eğitim programlarında yer alması, kurum ve kuruluş yöneticilerince sağlanır.

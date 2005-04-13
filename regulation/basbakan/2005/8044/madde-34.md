@@ -1,0 +1,2 @@
+Elektronik ortamda yapılacak başvurular
+Madde 34 — Başvurunun; gerçek kişiler tarafından elektronik posta yoluyla yapılması halinde, başvuru sahibinin adı ve soyadı, oturma yeri veya iş adresi belirtilir. Türkiye’de oturan yabancıların bu yolla yaptıkları başvurularda, pasaport numarası ve uyruğu gösterilir. Elektronik posta yolu ile yapılacak başvurularda, başvurunun Kurulun elektronik posta adresine ulaştığı tarih başvuru tarihidir.

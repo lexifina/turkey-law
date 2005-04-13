@@ -1,0 +1,4 @@
+Saygınlık ve güven
+Madde 10 — Kamu görevlileri, kamu yönetimine güveni sağlayacak şekilde davranırlar ve görevin gerektirdiği itibar ve güvene layık olduklarını davranışlarıyla gösterirler. Halkın kamu hizmetine güven duygusunu zedeleyen, şüphe yaratan ve adalet ilkesine zarar veren davranışlarda bulunmaktan kaçınırlar.
+Kamu görevlileri, halka hizmetin kişisel veya özel her türlü menfaatin üzerinde bir görev olduğu bilinciyle hizmet gereklerine uygun hareket eder, hizmetten yararlananlara kötü davranamaz, işi savsaklayamaz, çifte standart uygulayamaz ve taraf tutamazlar.
+Yönetici veya denetleyici konumunda bulunan kamu görevlileri, keyfi davranışlarda, baskı, hakaret ve tehdit edici uygulamalarda bulunamaz, açık ve kesin kanıtlara dayanmayan rapor düzenleyemez, mevzuata aykırı olarak kendileri için hizmet, imkan veya benzeri çıkarlar talep edemez ve talep olmasa dahi sunulanı kabul edemezler.

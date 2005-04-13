@@ -1,0 +1,3 @@
+Disiplin kurullarında inceleme ve karar verme usulü
+Madde 38 — 5176 sayılı Kanun ile bu Yönetmelik kapsamında bulunan ve Kurulun görev alanı dışındaki kamu görevlilerinin etik ilkelere aykırı davrandığı yolunda disiplin kurullarına yapılan başvurular, yetkili disiplin kurullarınca bu Yönetmelikte düzenlenen etik davranış ilkeleri ile başvuru usul ve esasları çerçevesinde incelenir.
+Bu kurulların verdiği etik ilkeye aykırı davranışın varlığı veya yokluğu konusundaki kararlar ilgili kurum veya kuruluş yetkilisine, hakkında başvuru yapılan kamu görevlisine ve başvuru sahibine bildirilir. Disiplin kurullarının kararları kamu oyuna duyurulmaz.

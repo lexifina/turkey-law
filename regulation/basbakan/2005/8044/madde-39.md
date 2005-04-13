@@ -1,0 +1,4 @@
+Kararlar üzerine yapılacak işlem
+Madde 39 — Kararlar Başkan ve Üyeler tarafından imzalanmakla kesinleşir. Kesinleşen karar Başbakanlık Makamına sunulur. Kararlara karşı idari yargı yolu açıktır.
+Kurul, başvuruya konu işlem veya eylemi gerçekleştiren kamu görevlisinin etik davranış ilkelerine aykırı işlem ve eylemi olduğunu tespit etmesi halinde bu durumu Başbakanlık, Kurul kararı olarak Resmî Gazete aracılığıyla kamu oyuna duyurur, ancak, Kurul kararlarının yargı tarafından iptali halinde Kurul, yargı kararını yerine getirir ve Resmî Gazete’de yayımlatır.
+Etik ilkeye aykırı davranışın saptanamadığına ilişkin kararlar da Başbakanlık Makamına ve ilgililere yazılı olarak bildirilir. Bu kararlar kamu oyuna duyurulmaz. Kabul edilebilirliliği bulunmayan başvurular hakkında verilen kararlar yalnızca başvuru sahibine iletilir.

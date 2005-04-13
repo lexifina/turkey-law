@@ -1,0 +1,3 @@
+Kapsam
+Madde 2 — Bu Yönetmelik; genel bütçeye dahil daireler, katma bütçeli idareler, kamu iktisadi teşebbüsleri, döner sermayeli kuruluşlar, mahalli idareler ve bunların birlikleri, kamu tüzel kişiliğini haiz olarak kurul, üst kurul, kurum, enstitü, teşebbüs, teşekkül, fon ve sair adlarla kurulmuş olan bütün kamu kurum ve kuruluşlarında çalışan; yönetim ve denetim kurulu ile kurul, üst kurul başkan ve üyeleri dahil tüm personeli kapsar.
+Cumhurbaşkanı, Türkiye Büyük Millet Meclisi üyeleri, Bakanlar Kurulu üyeleri, Türk Silahlı Kuvvetleri, yargı mensupları ve üniversiteler hakkında bu Yönetmelik hükümleri uygulanmaz.

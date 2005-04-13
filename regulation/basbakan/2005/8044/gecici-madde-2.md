@@ -1,0 +1,1 @@
+Geçici Madde 2 — Bu Yönetmeliğin yayımı tarihinden itibaren üç ay içinde kapsam içindeki kamu görevlileri, 23 üncü maddede düzenlenen "etik sözleşme" belgesini imzalarlar ve bu belgeler personelin özlük dosyasına konulur.

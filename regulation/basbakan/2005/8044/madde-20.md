@@ -1,0 +1,5 @@
+Yöneticilerin hesap verme sorumluluğu
+Madde 20 — Kamu görevlileri, kamu hizmetlerinin yerine getirilmesi sırasında sorumlulukları ve yükümlülükleri konusunda hesap verebilir ve kamusal değerlendirme ve denetime her zaman açık ve hazır olurlar.
+Yönetici kamu görevlileri, kurumlarının amaç ve politikalarına uygun olmayan işlem veya eylemleri engellemek için görev ve yetkilerinin gerektirdiği önlemleri zamanında alırlar.
+Yönetici kamu görevlileri, yetkisi içindeki personelin yolsuzluk yapmasını önlemek için gerekli tedbirleri alırlar. Bu tedbirler; yasal ve idari düzenlemeleri uygulamayı, eğitim ve bilgilendirme konusunda uygun çalışmalar yapmayı, personelinin karşı karşıya kaldığı mali ve diğer zorluklar konusunda dikkatli davranmayı ve kişisel davranışlarıyla personeline örnek olmayı kapsar.
+Yönetici kamu görevlileri, personeline etik davranış ilkeleri konusunda uygun eğitimi sağlamak, bu ilkelere uyulup uyulmadığını gözetlemek, geliriyle bağdaşmayan yaşantısını izlemek ve etik davranış konusunda rehberlik etmekle yükümlüdür.

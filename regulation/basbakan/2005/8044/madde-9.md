@@ -1,0 +1,4 @@
+Dürüstlük ve tarafsızlık
+Madde 9 — Kamu görevlileri; tüm eylem ve işlemlerinde yasallık, adalet, eşitlik ve dürüstlük ilkeleri doğrultusunda hareket ederler, görevlerini yerine getirirken ve hizmetlerden yararlandırmada dil, din, felsefi inanç, siyasi düşünce, ırk, cinsiyet ve benzeri sebeplerle ayrım yapamazlar, insan hak ve özgürlüklerine aykırı veya kısıtlayıcı muamelede ve fırsat eşitliğini engelleyici davranış ve uygulamalarda bulunamazlar.
+Kamu görevlileri, takdir yetkilerini, kamu yararı ve hizmet gerekleri doğrultusunda, her türlü keyfilikten uzak, tarafsızlık ve eşitlik ilkelerine uygun olarak kullanırlar.
+Kamu görevlileri, gerçek veya tüzel kişilere öncelikli, ayrıcalıklı, taraflı ve eşitlik ilkesine aykırı muamele ve uygulama yapamazlar, herhangi bir siyasi parti, kişi veya zümrenin yararını veya zararını hedef alan bir davranışta bulunamazlar, kamu makamlarının mevzuata uygun politikalarını, kararlarını ve eylemlerini engelleyemezler.

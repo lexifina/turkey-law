@@ -1,0 +1,4 @@
+Bilgi verme, saydamlık ve katılımcılık
+Madde 19 — Kamu görevlileri, halkın bilgi edinme hakkını kullanmasına yardımcı olurlar. Gerçek ve tüzel kişilerin talep etmesi halinde istenen bilgi veya belgeleri, 4982 sayılı Bilgi Edinme Hakkı Kanununda belirlenen istisnalar dışında, usulüne uygun olarak verirler.
+Üst yöneticiler, ilgili kanunların izin verdiği çerçevede, kurumlarının ihale süreçlerini, faaliyet ve denetim raporlarını uygun araçlarla kamuoyunun bilgisine sunarlar.
+Kamu görevlileri, kamu hizmetleri ile ilgili temel kararların hazırlanması, olgunlaştırılması, alınması ve bu kararların uygulanması aşamalarından birine, bir kaçına veya tamamına, aksine yasal bir hüküm olmadıkça, o karardan doğrudan ya da dolaylı olarak etkilenecek olanların katkıda bulunmasını sağlamaya dikkat ederler.

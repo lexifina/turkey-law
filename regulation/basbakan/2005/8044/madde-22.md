@@ -1,0 +1,3 @@
+Mal bildiriminde bulunma
+Madde 22 — Kamu görevlileri, kendileriyle eşlerine ve velayeti altındaki çocuklarına ait taşınır ve taşınmazları, alacak ve borçları hakkında, 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu hükümleri uyarınca, yetkili makama mal bildiriminde bulunurlar.
+Kurul, gerek gördüğü takdirde mal bildirimlerini inceleme yetkisine sahiptir. Mal bildirimlerindeki bilgilerin doğruluğunun kontrolü amacıyla ilgili kişi ve kuruluşlar (bankalar ve özel finans kurumları dahil) talep edilen bilgileri, en geç otuz gün içinde Kurula vermekle yükümlüdürler.
