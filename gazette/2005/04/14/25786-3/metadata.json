@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-14",
+  "issue": "25786",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/8647 Uyuşturucu Madde Yakalamalarında Ödenecek İkramiyelere Esas Teşkil Etmek Üzere,Her Türlü Uyuşturucu Maddenin Birim Miktarı İçin Uygulanacak Sabit Rakamların Tespit Edilmesine İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050414-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050414.htm",
+  "index_sha256": "e60bddb7ee9c5c5212c30e7c7c39f79fbf9599ab029dcd2dbf4ee8acd24b3188",
+  "index_header": "14 Nisan 2005 ... Sayı : 25786",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
