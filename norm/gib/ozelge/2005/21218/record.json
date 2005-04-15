@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45-4535-5",
+  "source_id": 21218,
+  "date": "2005-04-15",
+  "title": "Bilgisayar programlarının yatırım indirimi istisnasından yararlanabilmesinin, programların yatırım indirimine konu olan iktisadi kıymetlerin kullanılabilmesi için gerekli olması şartıyla mümkün olması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21218",
+  "source_sha256": "d9570ae6310201068c5f117c0366a6e686bbbcffdb1e3f9ca41ef326edaba14f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
