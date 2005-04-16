@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6231-1",
+  "source_id": 38148,
+  "date": "2005-04-16",
+  "title": "Bir tarafı ilköğretim idaresi teşkil etmek kaydıyla anaokul genel onarom inşaat sözleşmesi Damga Vergisinden muaf tutulabilmesi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38148",
+  "source_sha256": "ea2b2c77826bc7645863190d2b7a121211c2e99a838e4383977a4804bef277f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
