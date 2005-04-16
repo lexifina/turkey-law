@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-16",
+  "issue": "25788",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Damga Vergisi Kanunu Genel Tebliği (Seri No: 44)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050416-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050416.htm",
+  "index_sha256": "0db1b1ed18aabf91a0c247dd4c9bd2c78f4e35260a0b4a8574ee21bccaf05b22",
+  "index_header": "16 Nisan 2005 ... Sayı : 25788",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
