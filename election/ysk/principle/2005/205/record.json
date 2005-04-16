@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2005/205",
+  "list_number": "205",
+  "decision_date": "2005-04-16",
+  "title": "YSK ilke kararı 2005/205",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3676/2005-205-karar.htm",
+  "source_sha256": "5fd959ab8646f09e63827c0af6751557c11cb81671eb9283703937a6f1d08419",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2005-04-16",
+  "law_text_complete": false
+}
