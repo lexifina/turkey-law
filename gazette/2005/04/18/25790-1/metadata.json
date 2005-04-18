@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-18",
+  "issue": "25790",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "Fikir ve Sanat Eserlerinin Tespit Edildiği Materyallerin Dolum, Çoğaltım ve Satışını Yapan veya Yayan İşletmelerin Sertifikalandırılmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050418-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050418.htm",
+  "index_sha256": "7907c80d0bf0425120a5f84c7b6b86aac13bb3c2cb12d8f0fb08973c19a1ccda",
+  "index_header": "18 Nisan 2005 ... Sayı : 25790",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
