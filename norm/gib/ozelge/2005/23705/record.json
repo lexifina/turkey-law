@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4224-41/17076",
+  "source_id": 23705,
+  "date": "2005-04-18",
+  "title": "Ödenen  primlerin serbest meslek kazancının tespitinde gider olarak kabul edilip edilmeyeceği hakkında.... ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23705",
+  "source_sha256": "ed867baca4157dd1a8b82689eab92cd3d7d70037bc50507f00a193ee72430cb9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
