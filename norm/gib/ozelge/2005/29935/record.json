@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5301-3089-16973",
+  "source_id": 29935,
+  "date": "2005-04-18",
+  "title": "Nitelikli eleman açığını gidermek amacıyla geri dönüşümsüz olarak kamu kurumu tarafından verilen destekler kapsamındaki ödemeler bir teslim ve hizmetin karşılığı olarak ortaya çıkmadığından kdv konusuna girmemektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29935",
+  "source_sha256": "f1cf12f506bd43e511498635bff871f1d6af978f01a889249512b1406d5c1530",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
