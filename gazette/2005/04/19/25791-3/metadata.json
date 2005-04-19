@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-19",
+  "issue": "25791",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğü Hatlarında Diğer Şahıslara Ait Trenlerin İşletilmesine Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050419-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050419.htm",
+  "index_sha256": "701a12f1325b5b47c4a6db8d4546c3c86894f68f7bbd00271f07bf65addd8dc2",
+  "index_header": "19 Nisan 2005 ... Sayı : 25791",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
