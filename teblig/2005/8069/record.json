@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8069",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TİFTİK ÜRETİCİLERİNİN DESTEKLENMESİNE VE DOĞRUDAN DESTEK ÖDEMELERİ İÇİN GEREKLİ FİNANSMANIN DESTEKLEME VE FİYAT İSTİKRAR FONU’NDAN KARŞILANMASINA İLİŞKİN BAKANLAR KURULU KARARI UYGULAMA TEBLİĞİ (TEBLİĞ NO: 2005/2)",
+  "number": "8069",
+  "issuer": "Hazine Müsteşarlığı’nın bağlı olduğu Devlet Bakanı ve Tarım ve Köyişleri Bakanı ile Sanayi ve Ticaret Bakanı",
+  "path": "teblig/2005/8069",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8069&MevzuatTertip=5",
+  "source_sha256": "184da7789735b01d4a95a020b30e468b37eaba048f79231dd5f9fa079fd15e29",
+  "source_bytes": 27694,
+  "published": "2005-04-19",
+  "gazette": "25791",
+  "in_force": "2005-04-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.04.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 993,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
