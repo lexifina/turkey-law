@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-18/2005-5/Enflasyon Düzeltmesi Uygulaması-12",
+  "source_id": 823,
+  "date": "2005-04-19",
+  "title": "2005 yılının ilk geçici vergi döneminin sonu itibarıyla enflasyon düzeltmesi yapmak için gerekli şartların oluşup oluşmadığı; 31/12/2003 ve 31/12/2004 tarihli bilançoların Vergi Usul Kanununun geçici 25 ve mükerrer 298 inci maddeleri uyarınca düzeltilip d",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/823",
+  "source_sha256": "5aec5c730ce631fee76064227378e981bc579eca18cf068bfa16ce34739ae543",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
