@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDV-30 /2005-9",
+  "source_id": 954,
+  "date": "2005-04-19",
+  "title": "Mart 2005 dönemine ait katma değer vergisi beyannamesinin 26 Nisan 2005 Salı günü mesai bitimine kadar ilgili vergi dairesine verilmesi mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/954",
+  "source_sha256": "3b851d26023218bbc146a26eddc1b62deee0af7ada5d2252e635ad1f8106dfa4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
