@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.8060",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYETİ DEVLET DEMİRYOLLARI İŞLETMESİ GENEL MÜDÜRLÜĞÜ HATLARINDA DİĞER ŞAHISLARA AİT TRENLERİN İŞLETİLMESİNE DAİR YÖNETMELİK",
+  "number": "8060",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2005/8060",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8060&MevzuatTertip=5",
+  "source_sha256": "c2d39b1e9390b0d8ed373795698cc1a4209540e67460d4a538e4b351d872a691",
+  "source_bytes": 5829,
+  "published": "2005-04-19",
+  "gazette": "25791",
+  "in_force": "2005-04-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.04.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 40,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
