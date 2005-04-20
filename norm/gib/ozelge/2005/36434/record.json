@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.61/6159-239/17511",
+  "source_id": 36434,
+  "date": "2005-04-20",
+  "title": "Araçlarda ticari hususi ayırımı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36434",
+  "source_sha256": "b3222032a759770bbc510b84d9a71570feff5985b8da609a45eff679b141e756",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
