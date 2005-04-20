@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-121/017665",
+  "source_id": 37923,
+  "date": "2005-04-20",
+  "title": "Özel inşaat üretiminin muhasebeleştirilmesi ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37923",
+  "source_sha256": "0050f0be00d01cf5df1203710c2417ec12b70fbc78f38b6246cedca7429e4d8c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
