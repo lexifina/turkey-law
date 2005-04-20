@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4001-115/17574",
+  "source_id": 25124,
+  "date": "2005-04-20",
+  "title": "Vergi hatalarının düzeltilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/25124",
+  "source_sha256": "b5e671313526369e262c58c237f068fb8aa752a216d4414a9927db81e1708c4c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
