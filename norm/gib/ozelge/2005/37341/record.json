@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6609-452/17935",
+  "source_id": 37341,
+  "date": "2005-04-21",
+  "title": "İnşaatın mimari projesinde  herhangi bir değişiklik yapılmadığı, yapıda yaklaşma mesafesi nedeniyle inşaat ruhsatının yenilenmesi gerektiği durumda, bina inşaat harcı ödenip ödenemeyeceği hususu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37341",
+  "source_sha256": "432e4fd9cf3605eeb1b3350636cd30a1ba95a38e1f3b5e68e7a334a65cf50097",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
