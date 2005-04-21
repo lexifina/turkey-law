@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "477",
+  "decision_date": "2005-04-21",
+  "title": "Depolama lisansı sahibi BOTAŞ’ın Tekirdağ İli, Marmara Ereğlisi ilçesinde kurulu bulunan sıvılaştırılmış doğal gaz depolama tesisinde LNG çıkış noktası kapasitesi tahsisatına ilişkin",
+  "resmi_gazete_date": "2005-05-05",
+  "resmi_gazete_number": "25808",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xaic7ENAqKQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xaic7ENAqKQ="
+  ],
+  "source_sha256": "d9111593f770842d824b5ebc649e09c9305d11e890d59436a144cee6f921a0ec",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-04-21",
+  "law_text_complete": false
+}
