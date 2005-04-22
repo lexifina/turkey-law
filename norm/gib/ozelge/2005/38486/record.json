@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.32/3223-2359",
+  "source_id": 38486,
+  "date": "2005-04-22",
+  "title": "İade talep eden mükellefin ilgili dönem, indirilecek KDV'sinin %80'ine tekabül eden mal ve hizmet alımlarına ilişkin karşıt incelemeler imalatçının bir alt kademesine kadar yapılacak olup, karşıt incelemelerin her safhasında nezninde karşıt inceleme yapıl",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38486",
+  "source_sha256": "e240e2efeada2eb105d7e80b67941638a10deef4eee69129f9747a4b627960ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
