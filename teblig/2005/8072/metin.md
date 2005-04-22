@@ -1,0 +1,6 @@
+Bakanlık Adı | : | Sanayi ve Ticaret Bakanlığından:
+Tebliğin Adı | : | Otomatik Olmayan Tartı Aletleriyle İlgili Uyumlaştırılmış Ulusal Standardlara Dair Tebliğ (Tebliğ No:ÖSGM-2005/07)
+Tebliğ No | : | ÖSGM-2005/07
+R. Gazete Tarihi | : | 22/04/2005
+R. Gazete Sayısı | : | 25794
+OTOMATİK OLMAYAN TARTI ALETLERİYLE İLGİLİ UYUMLAŞTIRILMIŞ ULUSAL STANDARDLARA DAİR TEBLİĞ (TEBLİĞ NO:ÖSGM-2005/07) Amaç Madde 1 — Bu Tebliğin amacı, 17/01/2002 tarihinde Resmî Gazete’de yayımlanan “Ürünlerin Piyasa Gözetimi ve Denetimine Dair Yönetmelik”in 5 inci maddesi ile 17/04/2002 tarihinde Resmî Gazete’de yayımlanan “Otomatik Olmayan Tartı Aletleri Yönetmeliği (90/384/AT)”nin 6'ncı maddesine göre uyumlaştırılmış ulusal Standardların listesinin belirlenmesidir. Uyumlaştırılmış Ulusal Standardlar Madde 2 —Uyumlaştırılmış Avrupa Standardlarını uyumlaştıran ve Türk Standardları Enstitüsü tarafından Türk Standardı olarak kabul edilip yayımlanan ve Otomatik Olmayan Tartı Aletleriyle ilgili olan Uyumlaştırılmış Ulusal Standardların adları ve referans numaralarının listesi aşağıda gösterildiği gibidir. SIRA NO: TS EN NO / ADI 1 TS EN 45501 Tartı Aletleri-Otomatik Olmayan-Metrolojik Özellikler Yürürlük Madde 3 —Bu Tebliğ, yayımı tarihinde yürürlüğe girer. Yürütme Madde 4 —Bu Tebliğ hükümlerini Sanayi ve Ticaret Bakanı yürütür.
