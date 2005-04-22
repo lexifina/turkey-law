@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4060-33/18001",
+  "source_id": 36533,
+  "date": "2005-04-22",
+  "title": "Aracın çalınması halinde vergi mükellefiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/36533",
+  "source_sha256": "feb2587115388f368281d721cc155d419299de7d3dee5118e1e528f6c81c42da",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
