@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.8075",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK PATENT ENSTİTÜSÜ DANIŞMA KURULUNUN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "8075",
+  "issuer": "Türk Patent Enstitüsü Başkanı",
+  "issuer_slug": "turk-patent-enstitusu-baskani",
+  "path": "regulation/turk-patent-enstitusu-baskani/2005/8075",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8075&MevzuatTertip=5",
+  "source_sha256": "3b154098f3ed259345bbf152c8cc8c6e54ee4029f0c6df0b4552845f71d58cec",
+  "source_bytes": 21201,
+  "published": "2005-04-25",
+  "gazette": "25796",
+  "in_force": "2005-04-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.04.2005); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 406,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
