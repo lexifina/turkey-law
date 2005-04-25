@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "479/5",
+  "decision_date": "2005-04-25",
+  "title": "Doğal gaz toptan satış lisansı sahibi Thrace Basin Natural Gas Corporation Türkiye Şubesi’nin denetimine İlişkin",
+  "resmi_gazete_date": "2005-05-05",
+  "resmi_gazete_number": "25808",
+  "categories": [
+    "Doğal Gaz Piyasası Denetim Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F/nA6SVZ4+Q=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F/nA6SVZ4+Q="
+  ],
+  "source_sha256": "5085764eb4947bc7a79e3a527be2e4014dcff73f4d6231ce969fa3500ea304ae",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7220,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-04-25",
+  "law_text_complete": false
+}
