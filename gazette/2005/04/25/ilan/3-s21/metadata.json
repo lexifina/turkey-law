@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-25",
+  "issue": "25796",
+  "edition": "regular",
+  "item": 21,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Zonguldak Merkez (Karaelmas) Küçük Sanayi Sitesi Yapı Kooperatifi Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/04/20050425-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (25 = 25)",
+  "ilan_codes": [
+    "4747/2-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/04/20050425-3.htm",
+  "category_page_sha256": "a5b401b1a83a81821ab3790b6c33c2416f4a99d95cfb5427a707d116f9802e06",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/04/20050425.htm",
+  "index_sha256": "0f34f47951cb435e8d3a2c554932ef034c27cea8afa9a5c5dc25a524d4b6f36a",
+  "index_header": "25 Nisan 2005 ... Sayı : 25796",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
