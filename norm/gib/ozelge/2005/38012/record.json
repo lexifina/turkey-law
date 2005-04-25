@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5309-156",
+  "source_id": 38012,
+  "date": "2005-04-25",
+  "title": "Doğalgaz Şebeke işinin yüklenicisi durumunda olan Ortaklığınız tarafından...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38012",
+  "source_sha256": "4776d2a39a06f9f9e9a4050993e919189a19810f237f5f285adc09f3bebcee16",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
