@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GIB.0.54/5423-27887",
+  "source_id": 38014,
+  "date": "2005-04-25",
+  "title": "Cep telefonu sesli mesaj kartlarına gerekli şartların gerçekleşmesi halinde hizmet ihracı kapsamında katma değer vergisi istisnası uygulanabilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38014",
+  "source_sha256": "6cab12b3eb5365127bdf59e3fb1d9b4615444156fc69fe28debcebfd409d8c6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
