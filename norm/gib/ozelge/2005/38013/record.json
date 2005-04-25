@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/530ç-156-18089",
+  "source_id": 38013,
+  "date": "2005-04-25",
+  "title": "Yüklenici tarafından tamamen veya kısmen alt yüklenicilere (taşerona) veya daha alt yüklenicilere devredilmiş yapım işlerinde, işi devreden her yüklenicinin kendisine ifa edilen hizmete ait kdv üzerinden tevkifat yapması gerekmektedir. Ancak, yapım işleri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38013",
+  "source_sha256": "effa7ddb61fc9b1fb2c12e86045be5a95dc7732a5d9cfc879c23fc096ec3b63e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
