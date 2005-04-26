@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-26",
+  "issue": "25797",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/8687 Celal Bayar Üniversitesi Rektörlüğüne Bağlı Akhisar Uygulamalı Bilimler Yüksekokulunun Adının, Uygulamalı Bilimler Yüksekokulu Olarak Değiştirilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050426-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050426.htm",
+  "index_sha256": "b951361f61ab02974cea0fb6c643a9717a8fcb04736bfa826b919dab3ef3f5f1",
+  "index_header": "26 Nisan 2005 ... Sayı : 25797",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
