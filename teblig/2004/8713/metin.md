@@ -1,0 +1,18 @@
+Bakanlık Adı | : | Enerji Piyasası Düzenleme Kurumundan:
+Tebliğin Adı | : | Doğal Gaz Piyasası Kanununun 9 uncu Maddesi Uyarınca 1/1/2005 Tarihinden İtibaren Uygulanacak Para Cezaları Hakkında Tebliğ
+Tebliğ No | : | -
+R. Gazete Tarihi | : | 31/12/2004 (3. Mükerrer)
+R. Gazete Sayısı | : | 25687
+DOĞAL GAZ PİYASASI KANUNUNUN 9 UNCU MADDESİ UYARINCA 1/1/2005 TARİHİNDEN İTİBAREN UYGULANACAK PARA CEZALARI HAKKINDA TEBLİĞ 4646 sayılı Doğal Gaz Piyasası Kanununun 9 uncu maddesinin birinci fıkrasının a, b, c, d, e, f ve g bentlerinde muhtelif miktarlarda para cezaları öngörülmüş, aynı maddenin son fıkrasında da "…Bu maddedeki para cezası miktarları her yıl 765 sayılı Türk Ceza Kanununun ek 2 nci maddesi hükümleri uyarınca artırılır" hükmüne yer verilmiştir. Türk Ceza Kanununun ek 2 nci maddesinde ise "…Kanunlardaki para cezaları, her takvim yılı başından geçerli olmak üzere o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranında arttırılarak uygulanır" hükmü yer almaktadır. Maliye Bakanlığı 20/11/2004 tarihli ve 25646 sayılı Resmi Gazete’de yayımlanan 341 sıra nolu Vergi Usul Kanunu Genel Tebliği ile 2004 yılı yeniden değerleme oranını %11,2 olarak tespit ve ilan etmiştir. Diğer taraftan, 12/10/2004 tarihli ve 25611 sayılı Resmi Gazete’de yayımlanan ve 1/4/2005 tarihinde yürürlüğe girecek olan 5237 sayılı Türk Ceza Kanunu ile 765 sayılı Türk Ceza Kanunu 1/4/2005 tarihinden itibaren yürürlükten kaldırılmaktadır. 13/11/2004 tarihli ve 25642 sayılı Resmi Gazete’de yayımlanan ve 1/4/2005 tarihinde yürürlüğe girecek olan 5252 sayılı Türk Ceza Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanunun "Diğer kanunlardaki para cezalarının artırılması ve usulü" başlıklı 4 üncü maddesinin birinci fıkrasının (b) bendinin (12) nolu alt bendinde ise, 5237 sayılı Türk Ceza Kanununun dışındaki kanunlardan 1/1/2001 tarihinden 31/12/2001 tarihine kadar yürürlüğe girmiş bulunanlardaki para cezalarının üç katına çıkarılması hükme bağlanmıştır. Bu nedenle, 4646 sayılı Kanunun 9 uncu maddesinde yer alan para cezalarının artırılmasına ilişkin olarak; 5252 sayılı Kanunun yürürlük tarihi olan 1/4/2005 tarihine kadar mülga 765 sayılı Kanunun ek 2 nci maddesi hükmünün, bu tarihten sonra ise 5252 sayılı Kanunun 4 üncü maddesi hükmünün uygulanması gerekmektedir. Öte yandan, 31/01/2004 tarihli ve 25363 sayılı Resmi Gazete’de yayımlanan 5083 sayılı Türkiye Cumhuriyeti Devletinin Para Birimi Hakkında Kanun ile Türkiye Cumhuriyeti Devletinin para birimi Yeni Türk Lirası (YTL), bunun alt birimi de Yeni Kuruş (YKr) olarak belirlenerek, 01.01.2005 tarihinden geçerli olmak üzere yürürlüğe girmiş bulunmaktadır. Buna göre, 4646 sayılı Doğal Gaz Piyasası Kanununun 9 uncu maddesinin birinci fıkrasında yer alan para cezası miktarları, 1/1/2005 tarihinden itibaren aşağıdaki tabloda gösterildiği gibi uygulanacaktır. Tebliğ olunur. (Değişik Tablo:RG- 26/04/2005-25797)
+ |  | 1/1/2005-31/5/2005 | 1/6/2005 TARİHİNDEN
+ | KANUNDA | TARİHLERİ ARASINDA | İTİBAREN
+İLGİLİ KANUN | ÖNGÖRÜLEN PARA | UYGULANACAK | UYGULANACAK
+MADDESİ | CEZALARI | PARA CEZALARI | PARA CEZALARI
+ | (TL) | (YTL) | (YTL)
+9. Madde (a) Bendi | 200.000.000.000 | 696.135,53 | 600.000
+9. Madde (b) Bendi | 250.000.000.000 | 870.169,41 | 750.000
+9. Madde (c) Bendi | 300.000.000.000 | 1.044.203,29 | 900.000
+9. Madde (d) Bendi | 400.000.000.000 | 1.392.271,06 | 1.200.000
+9. Madde (e) Bendi | 400.000.000.000 | 1,392.271,06 | 1.200.000
+9. Madde (f) Bendi | 500.000.000.000 | 1.740.338,82 | 1.500.000
+9. Madde (g) Bendi | 500.000.000.000 | 1.740.338,82 | 1.500.000
