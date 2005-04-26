@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6609-455/18493",
+  "source_id": 37351,
+  "date": "2005-04-26",
+  "title": "bina inşaat harcının  matrahının tespitinde her bir bağımsız bölümün ayrı ayrı olarak mı,  yoksa binanın toplam yüzölçümü üzerinden mi hesaplanacağı hususu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37351",
+  "source_sha256": "11c728ead9f1a4622c336f130117b1d0131c2f854e3d1c50a174ceb133764c22",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
