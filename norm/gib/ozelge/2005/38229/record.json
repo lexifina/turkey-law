@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6516-972/18371",
+  "source_id": 38229,
+  "date": "2005-04-26",
+  "title": "Perakende mal satan veya hizmet ifa eden birinci ve ikinci sınıf tacirlere Vergi Usul Kanununa...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38229",
+  "source_sha256": "140e5499080385448f05376f087ba7cb3606817a5c825119f843ba1ef7720e87",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
