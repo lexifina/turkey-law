@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.55/5517- 1925 / 18519",
+  "source_id": 23934,
+  "date": "2005-04-27",
+  "title": "Şirketin en az iki tam yıl süreyle aktifinde yer alan gayrimenkulü satış suretiyle devri katma değer vergisinden istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/23934",
+  "source_sha256": "b4e9befd4fc96efd7f7e9e4502309459a543f6ec34bc8a2c55171238c9def3d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
