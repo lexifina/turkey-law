@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6603-24/18740",
+  "source_id": 37312,
+  "date": "2005-04-27",
+  "title": "bazı illerde kahvehanelerden ve internet cafelerden hafta tatili ruhsat harcı talep edildiği belirtilmekte olup, konu ile  ilgili olarak görüş isteme hususu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37312",
+  "source_sha256": "ce742b43df30c2e822405609f75a2656f304238ea29059af45a3a1c11545c888",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
