@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685-5000/18742",
+  "source_id": 37106,
+  "date": "2005-04-27",
+  "title": "1999 depreminden dolayı önceki dönemlere ait emlak (arazi) vergisinin alınıp alınmayacağı hususu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37106",
+  "source_sha256": "aec5fb4900d743fd587c64d9f7c6025f49fe7388ef3c7472c25ce74a99d3aa0c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
