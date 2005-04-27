@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6026-315/18633",
+  "source_id": 36394,
+  "date": "2005-04-27",
+  "title": "Mükellefler vergilendirilecek bir servete dahil olan ticari sermayeyi, ölüm tarihine takaddüm eden takvim yılı bilançosuna göre bulunacak öz sermaye olarak beyan etseler dahi, idarece ölüm tarihi itibariyle düzenlenecek bilançoya ait öz sermayenin vergile",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36394",
+  "source_sha256": "bbfb3908201f750e7eba5d6f4475ba39c1006e0c869a78c6dcef9a9aef982e66",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
