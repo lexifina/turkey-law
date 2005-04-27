@@ -1,0 +1,7 @@
+MADDE 4 — 10.2.1954 tarihli ve 6245 sayılı Kanunun;
+a) 10 uncu maddesinin (1) numaralı bendindeki "Kendi yazılı talepleri üzerine gönderilenler hariç olmak üzere;" ibaresi, "Zorunlu yer değiştirme, sınav, sağlık sebepleri ve eş durumu (bu madde uyarınca sürekli görev yolluğu almaya hak kazananların eşlerinin atamaları) dışında kendi yazılı talepleri üzerine gönderilenler hariç olmak üzere;" şeklinde değiştirilmiştir.
+b) 13 üncü maddesinde yer alan "11 ve 45 inci maddeler esaslarına" ibaresi, "45 inci madde esasına" şeklinde değiştirilmiştir.
+c) 33 üncü maddesinin; (b) fıkrasına "Kontrolör ve Stajyer Kontrolörler, " ibaresinden sonra gelmek üzere "Hazine Müsteşarlığı Sigorta Denetleme Uzman ve Uzman Yardımcıları ile Aktüer ve Aktüer Yardımcıları," ibaresi eklenmiş ve (c) fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+d) Bu Kanun hükümlerine göre gündelik ödenenlerden ( (b) fıkrasına göre gündelik ödenenler hariç) yurt içinde yatacak yer temini için ödedikleri ücretleri belgelendirenlere, belge bedelini aşmamak ve her defasında on gün ile sınırlı olmak üzere gündeliklerinin tamamına kadar olan kısmı ayrıca ödenir.
+d) 24 üncü maddesinde yer alan "bu vazifelere ilk defa tâyin edilenlere veya" ibaresi ile 45 inci maddesinin ikinci fıkrasında yer alan "11," ibaresi madde metinlerinden çıkarılmıştır.
+e) Geçici 3 üncü maddesinden sonra gelmek üzere aşağıdaki geçici 4 üncü madde eklenmiştir.

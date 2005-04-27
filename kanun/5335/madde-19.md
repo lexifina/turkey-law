@@ -1,0 +1,17 @@
+MADDE 19 — 28.3.2002 tarihli ve 4749 sayılı Kanunun;
+a) 6 ncı maddesinin; ikinci fıkrasının sonuna, "1.6.2000 tarihli ve 4572 sayılı Kanunun geçici 2 nci maddesinin (c) bendinde belirtilen usûl ve esaslar dahilinde, Hazine tarafından üstlenilmesi uygun görülen borçlar karşılığında ihraç edilecek özel tertip Devlet iç borçlanma senetleri için bu fıkra hükümleri uygulanmaz." cümlesi, üçüncü fıkrasının sonuna "Hazine Müsteşarlığının Tasarruf Mevduatı Sigorta Fonundan olan alacakları için bu fıkra hükmü uygulanmaz." cümlesi eklenmiştir.
+b) 9 uncu maddesinin üçüncü fıkrasının ikinci cümlesinde yer alan "Maliye Bakanlığı" ibaresi "Millî Savunma Bakanlığı" olarak değiştirilmiştir.
+c) 11 inci maddesinin dördüncü fıkrasının sonuna aşağıdaki cümle eklenmiştir.
+Bu Kanun uyarınca imzalanan ikraz, kredi ve hibe anlaşmalarında atıfta bulunulan bağımsız denetim görevini Hazine Kontrolörleri Kurulu da uluslararası genel kabul görmüş denetim standartlarına uygun olarak yerine getirir.
+d) 12 nci maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
+Hazinenin Devlet dış borcu kapsamında ortaya çıkan yükümlülüklerinin uluslararası sermaye piyasalarında mevcut muhtelif finansal araçlar vasıtasıyla yönetimi amacıyla, takas dahil her türlü türev ürünü kullanmaya, daha önce uluslararası sermaye piyasalarında ihraç olunan tahvilleri geri almaya, başka tahvillerle değiştirmeye ve benzeri işlemlere ilişkin anlaşma yapmaya Bakan yetkilidir. Söz konusu anlaşmalar, anlaşmada aksine hüküm yoksa imzalandıkları tarih itibarıyla yürürlüğe girer. Bu anlaşmalara ilişkin temas ve müzakereler Müsteşarlık tarafından yürütülür ve sonuçlandırılır.
+e) 14 üncü maddesinin onuncu fıkrası aşağıdaki şekilde değiştirilmiştir.
+Müsteşarlıkça bu Kanun kapsamında borçlu veya garantör sıfatıyla herhangi bir dış finansman veya türev ürüne ilişkin olarak başlatılan işlemler kapsamında ilgili anlaşmaların imzalanmasından önce veya imzalanan anlaşmaların yürürlüğe girmesini sağlayacak kanunî düzenlemeler tamamlanıncaya kadar peşin ödenmesi gereken komisyon, taahhüt ücreti, garanti ücreti, gecikme faizi ve benzeri yükümlülükleri ödemeye Bakan yetkilidir. Söz konusu yükümlülükler Müsteşarlık bütçesine bu amaçla konulacak ödenekten karşılanır.
+f) 17 nci maddesinin Anayasa Mahkemesince iptal edilen (C) fıkrası aşağıdaki şekilde düzenlenmiştir.
+C) Bu Kanun hükümlerine göre;
+1) Savunma ve güvenlik amaçlı kredi ve hibe anlaşmaları ile bu Kanunun 9 uncu maddesi uyarınca imzalanan hibe anlaşmaları ve 10 uncu maddesi uyarınca imzalanan borç verme ve yeniden yapılandırmaya ilişkin anlaşmalar,
+2) Türkiye Cumhuriyeti adına yabancı ülkeler, yabancı ülkelerce oluşturulan birlikler, resmi finansman fonları, uluslararası ve bölgesel kuruluşlar haricindeki herhangi bir dış finansman kaynağından sağlanan kredilere ilişkin olarak imzalanan anlaşmalar,
+3) Türkiye Cumhuriyeti adına yabancı ülkeler, yabancı ülkelerce oluşturulan birlikler, resmi finansman fonları, uluslararası ve bölgesel kuruluşlarla imzalanan ekonomik ve ticari mahiyetteki anlaşmalar çerçevesinde program veya proje kredisi amacıyla sağlanan ve münhasıran anapara, faiz ve diğer finansman giderlerinin geri ödenmesini düzenleyen kredi anlaşmaları,
+Resmî Gazetede yayımlanmaz.
+Yukarıda belirtilen anlaşmaların dışında bu Kanun hükümlerine göre yapılan diğer anlaşmalar Resmî Gazetede yayımlanır.
+g) Geçici 7 nci maddesinden sonra gelmek üzere aşağıdaki geçici maddeler eklenmiştir.

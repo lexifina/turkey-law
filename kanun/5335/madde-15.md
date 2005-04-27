@@ -1,0 +1,1 @@
+MADDE 15 — 7.11.1985 tarihli ve 3238 sayılı Kanunun 8 inci maddesinin üçüncü fıkrasındaki "veya Sosyal Sigortalar Kurumu" ibaresi madde metninden çıkarılmış ve aynı Kanuna aşağıdaki geçici maddeler eklenmiştir.

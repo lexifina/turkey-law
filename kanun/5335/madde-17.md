@@ -1,0 +1,2 @@
+MADDE 17 — 28.5.1988 tarihli ve 3465 sayılı Kanunun 5 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Bu Kanunun 4 üncü maddesinin (a) ve (b) bentlerine göre verilecek görev, tespit edilen görev yerinde bütün tesisleri ile birlikte otoyolun veya yolculukla ilgili hizmet tesislerinin projelendirilerek veya projesine göre yapımı, bakımı ve işletilmesini kapsayabileceği gibi mevcut otoyolların, işletme ve bakım tesislerinin veya yolculukla ilgili hizmet tesislerinin bakımı, iyileştirilmesi, genişletilmesi veya işletme haklarının devri şeklinde de olabilir.

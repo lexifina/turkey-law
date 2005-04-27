@@ -1,0 +1,1 @@
+Madde 7.- Bu Kanundan yararlananların tedavi giderleri, 18.6.1992 tarihli ve 3816 sayılı Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Yeşil Kart Verilerek Devlet Tarafından Karşılanması Hakkında Kanun hükümlerine göre yeşil kart verilerek karşılanır.
