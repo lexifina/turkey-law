@@ -4,8 +4,7 @@ MADDE 11 - Ekli listede yer alan G.T.İ.P. numaraları ile isimleri yazılı ür
 2- 16/7/2004 tarihli ve 5228 sayılı Kanunun 24, 24 ve 26 ncı maddeleri:
 MADDE 24 - 4760 sayılı Kanuna ekli (I) sayılı listenin (A) cetvelinde yer alan 2710.19.25.00.00 G.T.İ.P. numaralı mal G.T.İ.P. numarası ile (A) cetvelinden çıkarılmış ve parantez içindeki ibaresi kaldırılarak ekli (1) sayılı cetvelde gösterilen şekilde 4760 sayılı Kanuna ekli (I) sayılı listenin (B) cetveline eklenmiştir. (2)
 MADDE 25 - 4760 sayılı Kanuna ekli (II) sayılı listenin 87.03 G.T.İ.P. numarasında “27, 46, 50” olarak yer alan vergi oranları sırasıyla “30, 52, 75” olarak, 87.04 G.T.İ.P. numarasında yer alan mal ve vergi oranı ise ekli (2) sayılı cetvelde gösterilen şekilde değiştirilmiştir. (2)
-MADDE 26. -
-4760 sayılı Kanuna ekli (III) sayılı liste ekli (3) sayılı cetvelde gösterilen şekilde değiştirilmiştir. (2)
+MADDE 26 - 4760 sayılı Kanuna ekli (III) sayılı liste ekli (3) sayılı cetvelde gösterilen şekilde değiştirilmiştir. (2)
 3- 30/12/2004 tarihli ve 5281 sayılı Kanunun 38 inci maddesi:
 MADDE 38 -4760 sayılı Kanuna ekli (I) ve (III) sayılı listeler, bu Kanuna ekli (2) ve (3) sayılı cetvellerde gösterilen şekilde değiştirilmiştir. (3)
 ––––––––––––––––––
