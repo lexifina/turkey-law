@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-28",
+  "issue": "25799",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Milletlerarası Andlaşmalar",
+  "title": "2005/8688 Türkiye Cumhuriyeti Hükümeti ile İsrail Devleti Hükümeti Arasında Bitki Koru-ma ve Karantina Alanında Anlaşma’nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050428-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050428.htm",
+  "index_sha256": "a3192eea2ce89e16b6730c5d388c0e9695e4186ee19f138b13ca0f8d05c2e6c0",
+  "index_header": "28 Nisan 2005 ... Sayı : 25799",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
