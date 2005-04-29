@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5343",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti ile Lübnan Cumhuriyeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2005-04-29",
+  "adopted_as_published": "29/04/2005",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "05.05.2005 No: 25806",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905343.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 89",
+  "committee_reports": [
+    {
+      "label": "TBMM 854 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c082/tbmm22082092ss0854.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 199604,
+      "title": "Türkiye Cumhuriyeti ile Lübnan Cumhuriyeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "29/04/2005",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905343.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 854 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c082/tbmm22082092ss0854.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 76,
+          "sitting": 63,
+          "sitting_date": "2005-02-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c076/tbmm22076063.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c076/tbmm22076fih.pdf",
+          "pages": [
+            "5"
+          ]
+        },
+        {
+          "cilt": 80,
+          "sitting": 82,
+          "sitting_date": "2005-04-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c080/tbmm22080082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c080/tbmm22080fih.pdf",
+          "pages": [
+            "403"
+          ]
+        },
+        {
+          "cilt": 82,
+          "sitting": 92,
+          "sitting_date": "2005-04-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c082/tbmm22082092.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c082/tbmm22082fih.pdf",
+          "pages": [
+            "647:648",
+            "701:710"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=501&v_kullanici_id=27483198",
+      "page_sha256": "7ca6fd34cec2c04b442d482dc9b5cfc0c6b038434ea86f61b3ce28aa500942e4"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7ca6fd34cec2c04b442d482dc9b5cfc0c6b038434ea86f61b3ce28aa500942e4",
+  "issuer": "TBMM",
+  "in_force": "2005-04-29",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 29/04/2005; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
