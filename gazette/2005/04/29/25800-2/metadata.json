@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-29",
+  "issue": "25800",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yer Adının Değiştirilmesine Dair Karar",
+  "title": "Ordu İli Akkuş İlçesine Bağlı “Yenikonak” Beldesinin İsminin, “KIZILELMA” Olarak Değiştirilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050429-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050429.htm",
+  "index_sha256": "be310fc65b2ad5a44bb347f3b433c5e5706730096d78f89a998e38d67929af27",
+  "index_header": "29 Nisan 2005 ... Sayı : 25 800",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
