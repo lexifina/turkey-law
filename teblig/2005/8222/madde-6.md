@@ -1,0 +1,3 @@
+DGD ödeme miktarı ve ödemeye esas arazi büyüklüğü
+Madde 6 — Çiftçilere, yılı içerisinde işledikleri ÇKS’de kayıtlı tarım arazisi büyüklüğü dikkate alınarak, en fazla 500 dekara kadar (500 dahil) DGD ödemesi yapılır. Müracaat ettikleri toplam arazi miktarı 1 dekarın altında olan çiftçilere DGD ödemesi yapılmaz.
+Bu Tebliğin 5 inci maddesinde belirtilen çiftçilere dekar başına temel DGD ödemesi, bununla birlikte tavsiye edilen üretim tekniklerini kullandıkları arazileri dikkate alınarak ilave DGD ödemesi de yapılır. Dekar başına yapılacak temel ve ilave DGD miktarları Bakanlık tarafından açıklanır.

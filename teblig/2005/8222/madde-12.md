@@ -1,0 +1,9 @@
+İstenecek bilgi ve belgeler
+Madde 12 — DGD ödemesinden faydalanmak isteyen çiftçilerin aşağıda belirtilen belgeleri, başvuru sırasında il/ilçe müdürlüklerine vermeleri gerekmektedir.
+a) Başvuru dilekçesi (EK-1).
+b) Güncelleştirilmiş çiftçi kayıt formu
+c) Faydalanmak istediği ilave DGD ödemesi ile ilgili talep formu ve/veya dilekçeleri (Form ve dilekçeler tavsiye edilen üretim tekniklerini kullanan çiftçiler tarafından her bir üretim tekniği için ayrı ayrı verilecektir).
+d) Çiftçi belgesinin örneği,
+(Maliye Bakanlığının 2/12/2000 tarihli ve 24248 sayılı Resmî Gazete’de yayımlanan 237 Seri Numaralı Gelir Vergisi Genel Tebliği uyarınca, Ziraat Odası bulunan yerlerde bu odalar tarafından verilen, Ziraat Odası bulunmayan yerlerde ise il/ilçe müdürlükleri tarafından düzenlenen belge.
+Çiftçi belgesinin örneği üzerine "aslına uygundur" ibaresi yazılarak alınır. Asıl nüsha, üzerine görünür şekilde "2005 yılı doğrudan gelir desteği ödemesinde esas alınmıştır" ibaresi konularak çiftçiye iade edilir. Yürütülen diğer uygulamalarda kullanılmak üzere 2005 yılında alınan çiftçi belgeleri, 2005 yılı DGD uygulaması için de geçerlidir. Çiftçi belgesinin aslının çiftçi tarafından 5 yıl süreyle saklanması zorunludur. Çiftçi belgesindeki tarım arazisi bilgileri ile çiftçinin ibraz etmiş olduğu tarımsal arazi bilgilerinin birbirleriyle uyumlu olması gerekmektedir. 6964 sayılı Ziraat Odaları ve Ziraat Odaları Birliği Kanununun 19 uncu maddesine göre ziraat odaları çiftçilere verecekleri çiftçi belgelerinden ücret almayacaklardır.),
+e) Tohumluk, gübre, ilaç girdilerinden en az birine ait fatura örneği (Faturaların aslı görüldükten sonra, fotokopisi il/ilçe müdürlüğünce onaylanarak alınacaktır. Tarımsal faaliyette bulunduğu arazi büyüklüğü 100 dekar ve üzerinde olan çiftçilerden toplamı en az 200 YTL olan girdi faturası DGD başvuruları sırasında istenecektir. Organik tarım bilgi sisteminde kayıtlı olan araziler için bu belgeler istenmeyecektir).

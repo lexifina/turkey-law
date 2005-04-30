@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8222",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BİTKİSEL ÜRETİMLE İLİŞKİLİ OLARAK, DOĞRUDAN GELİR DESTEĞİ ÖDEMESİ YAPILMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2005/21)",
+  "number": "8222",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2005/8222",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8222&MevzuatTertip=5",
+  "source_sha256": "22cf5746c014d64548e101441f7df9aa3e478032b9ea97a7a19fd22ff64a7ea4",
+  "source_bytes": 425746,
+  "published": "2005-04-30",
+  "gazette": "25801",
+  "in_force": "2005-04-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.04.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3369,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

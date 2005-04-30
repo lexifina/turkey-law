@@ -1,0 +1,20 @@
+Tanımlar
+Madde 4 — Bu Tebliğde geçen;
+Bakanlık: Tarım ve Köyişleri Bakanlığını,
+TÜGEM: Tarımsal Üretim ve Geliştirme Genel Müdürlüğünü,
+Banka: T.C. Ziraat Bankası A.Ş.’yi,
+Teftiş Kurulu Başkanlığı: Tarım ve Köyişleri Bakanlığı Teftiş Kurulu Başkanlığını,
+Bilgi işlem merkezi: Tarım ve Köyişleri Bakanlığı Araştırma Planlama ve Koordinasyon Kurulu Başkanlığı (APK) Bilgi ve İşlem Daire Başkanlığını,
+İl/ilçe müdürlüğü : Tarım ve Köyişleri Bakanlığı İl/İlçe Müdürlüğünü,
+Yönetmelik: 16/04/2005 tarihli ve 25788 sayılı Resmî Gazete’de yayımlanan Çiftçi Kayıt Sistemi Yönetmeliğini,
+Tarım arazisi: Tarımsal üretim kaynakları kullanılarak üzerinde tarımsal faaliyet yürütülen, ÇKS’de kayıtlı olan taşınmazı (Kadastro geçmiş birimlerde tapu kayıtlarında, kadastro geçmemiş birimlerde ise tespit komisyonu keşif raporlarında tarım arazisi vasfı bulunan taşınmazı),
+Tarımsal faaliyet: Tarım arazisi üzerinde fiilen tarımsal üretim kaynaklarını kullanarak yapılan bitkisel üretimi,
+Çiftçi: ÇKS’de kayıtlı olan ve tarımsal desteklemelerden yararlanılması amacıyla belirlenen usul ve esasları yerine getiren tüzel kişiler ile başvuru tarihi itibarıyla 18 yaşını doldurmuş ve/veya reşit gerçek kişileri,
+İl/ilçe tahkim komisyonu: Yönetmeliğin 4 üncü maddesine istinaden oluşturulan il/ilçe tahkim komisyonunu,
+İl/ilçe tespit komisyonu: Yönetmeliğin 4 üncü maddesine istinaden oluşturulan il/ilçe tespit komisyonunu,
+Çiftçi Kayıt Sistemi (ÇKS): Yönetmelikle oluşturulan ve çiftçilerin kimlik, arazi ve ürün bilgileri ile tarımsal desteklemelere ilişkin bilgilerin de kayıt altına alındığı veri tabanını,
+Organik tarım bilgi sistemi: Organik tarım yapan çiftçi/işletme, arazi, ürün, sertifika ve kontrol bilgilerinin bulunduğu Bakanlıkça oluşturulan veri tabanını,
+DGD icmal-1: İlçe müdürlüğü tarafından ÇKS’ye aktarılan bilgilere göre her köy/mahalle için çiftçi detayında DGD hakedişlerini gösteren ve bir örneği EK 4’de yer alan belgeyi,
+DGD icmal-2: İlçe müdürlüğü tarafından İcmal 1’deki bilgilere göre her ilçe için köy/mahalle detayında DGD hakedişlerini gösteren ve bir örneği EK 5’de yer alan belgeyi,
+DGD icmal-3: İl müdürlüğü tarafından İcmal 2’deki bilgilere göre her il için ilçe detayında DGD hakedişlerini gösteren ve bir örneği EK 6’da yer alan belgeyi,
+ifade eder.
