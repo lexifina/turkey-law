@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-30",
+  "issue": "25801",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Gümrük Genel Tebliği (Tarife-Sınıflandırma Kararları) (Seri No: 6)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050430-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050430.htm",
+  "index_sha256": "f75b26eed84151b9fed182ffd4ae12528caba0dead7cb145139c9e2bbcbb620e",
+  "index_header": "30 Nisan 2005 ... Sayı : 25801",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
