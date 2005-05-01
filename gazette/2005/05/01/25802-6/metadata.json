@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-05-01",
+  "issue": "25802",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "Motorlu Bir Araçla Çarpışma Öncesinde ve Çarpışma Halinde Yayaların ve Diğer Korumasız Karayolu Kullanıcılarının Korunması ile İlgili Tip Onayı Yönetmeliği (2003/102/AT)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050501-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050501.htm",
+  "index_sha256": "dd0794ec090ab3028c44c7e83faccef02bd0150da900f1160644936b0ab0e425",
+  "index_header": "1 Mayıs 2005 ... Sayı : 25802",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
