@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034 -",
+  "source_id": 24058,
+  "date": "2005-05-02",
+  "title": "Mahkemelerce hükmolunan ' icra inkar tazminatının' menkul sermaye iradı olarak vergilendirilmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24058",
+  "source_sha256": "a190c921a4408c4ab990f56704a0bfb3333aa2a44a3dc9a063e221bae261bba0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
