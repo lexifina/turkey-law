@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5337",
+  "year": 2005,
+  "title": "Emniyet Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-05-03",
+  "gazette_issue": "25804",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050503-2.htm",
+  "source_sha256": "fd799425838c8403a3b5a549054c7671f3eddf29a3fcde95274ab4676e641985",
+  "text_sha256": "dd8e4f08890be05bce67ed4f00bacfb2cd5a65985cea0c42b78533c1e61f0059",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/05/03/25804-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050503-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
