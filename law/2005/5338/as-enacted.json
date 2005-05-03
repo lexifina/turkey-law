@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5338",
+  "year": 2005,
+  "title": "Diyanet İşleri Başkanlığının Kuruluş ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-05-03",
+  "gazette_issue": "25804",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050503-3.htm",
+  "source_sha256": "8e6a5f1936a6472b2f7cb8c991e2de3bc23185543484c410d51d7171ab270b4e",
+  "text_sha256": "02393034664230961a2ad1ecb334dd0734b546b62074f3d97bd25b861ef40a55",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/05/03/25804-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050503-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
