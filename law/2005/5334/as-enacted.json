@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5334",
+  "year": 2005,
+  "title": "Mera Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-05-03",
+  "gazette_issue": "25804",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050503-1.htm",
+  "source_sha256": "9fffb8f29182f3fb041f32e6b19604aeba2f2a3a9cdf102119b2fbafe1b12121",
+  "text_sha256": "e199091182bc15508a788b2b475472ac26674632c6f784da41decd387f688417",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/05/03/25804-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050503-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
