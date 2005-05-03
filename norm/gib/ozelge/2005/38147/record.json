@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6202-",
+  "source_id": 38147,
+  "date": "2005-05-03",
+  "title": "Maden Kanunu gereğince verilen devir zaptı örneklerinin damga vergisine tabi olmaması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38147",
+  "source_sha256": "42f6378f881267bab4c2b17c0f4353e60daa78b69ceccc63e9ada9ba53f51c45",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
