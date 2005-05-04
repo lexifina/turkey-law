@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8231",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TARIMSAL SULAMADA KULLANILAN ELEKTRİK ENERJİSİ DESTEĞİ HAKKINDA TEBLİĞ (TEBLİĞ NO: 2005/22)",
+  "number": "8231",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2005/8231",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8231&MevzuatTertip=5",
+  "source_sha256": "2f85c6d5c5988e20ae13312ebe6a5bd22a99cf4f89705bcb59e4b0a2baa7c05f",
+  "source_bytes": 21777,
+  "published": "2005-05-04",
+  "gazette": "25805",
+  "in_force": "2005-05-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.05.2005); own commencement article: \"Bu Tebliğ hükümleri yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 592,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
