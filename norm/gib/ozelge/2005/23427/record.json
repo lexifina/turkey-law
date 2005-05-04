@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4225-46/20010",
+  "source_id": 23427,
+  "date": "2005-05-04",
+  "title": "Sporculara ödenen prim, ikramiye, avans ve benzeri ödemelerin Gelir Vergisi Kanununun geçici 64 üncü maddesi kapsamında vergilendirilip vergilendirilmeyeceği hakkında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23427",
+  "source_sha256": "b765ae2ce133b5abeb20fba239cf18f9bfa1cc13ca0bf498b9c1c1155a4a59d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
