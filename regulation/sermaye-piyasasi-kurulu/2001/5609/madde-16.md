@@ -1,0 +1,5 @@
+Satış Esasları
+Madde 16 — Aracı kurumun malvarlığına dahil sermaye piyasası araçlarından, bu Yönetmeliğin 14 üncü maddesi saklı kalmak üzere, borsalar ve teşkilatlanmış diğer piyasalarda işlem görenler ilgili borsa ya da teşkilatlanmış piyasada, borsalar ve teşkilatlanmış diğer piyasalarda işlem görmeyenler ise rayiç bedel üzerinden satılır.
+Sermaye piyasası aracı dışında kalan menkul ve gayrimenkuller, işin niteliği göz önüne alınarak yapılacak değerlendirmeye göre kapalı zarf, açık artırma veya pazarlık yöntemleri ile Fon tarafından satılır. Söz konusu satış esaslarına ilişkin olarak Fon tarafından hazırlanacak yönetmelik Kurul onayı ile yürürlüğe girer.
+Fon, satışında fayda görülmeyen her türlü kıymetin satışından sarfınazar edebilir.
+Kurul, Fon, MKK İMKB ve Takasbankfın personeli ile bunların eşleri, üçüncü derece dahil kan ve sıhri hısımları ve bunlarla doğrudan veya dolaylı ilişkide bulunan kişiler, ilgili mevzuat hükümleri saklı kalmak kaydıyla, borsalar ve teşkilatlanmış diğer piyasalarda yapılan satışlar hariç, diğer satışlardan alım yapamazlar.

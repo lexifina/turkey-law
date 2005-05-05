@@ -1,0 +1,2 @@
+Tedrici Tasfiye Kararının İlgili Kuruluşlara Bildirilmesi
+Madde 6 — Tedrici tasfiye kararı, Fon tarafından aracı kurumun malvarlığına dahil menkul ve gayrimenkul malların öğrenilmesini takiben derhal, bu malların kayıtlı bulunduğu tapu dairelerine, trafik şube müdürlüklerine, aracı kurumun hesabının bulunduğu bankalar ve diğer mali kuruluşlara, aracı kurum hakkında icra takibi varsa ilgili icra dairelerine ve ilgili diğer kuruluşlara yazılı olarak bildirilir.

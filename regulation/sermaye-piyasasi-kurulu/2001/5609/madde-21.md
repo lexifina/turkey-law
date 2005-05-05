@@ -1,0 +1,4 @@
+Tedrici Tasfiyenin Kapanması
+Madde 21 — Tedrici tasfiyeye ilişkin yapılacak bir işlem kalmadığı tespit edilince, Fonun bildirimi üzerine Kurul tarafından tedrici tasfiyenin kapanmasına karar verilir. Keyfiyet bu Yönetmeliğin 23 üncü maddesi çerçevesinde ilan edilir ve bu Yönetmeliğin 6 ncı maddesinde sayılan kuruluşlara bildirilir.
+Kurul tarafından Kanunun 46 ncı maddesinin birinci fıkrasının (k) bendi uyarınca aracı kurumun %10 dan fazla paya sahip ortaklarının, görevden ayrılmış olan veya halen görevde bulunan yönetim kurulu başkan ve üyelerinin ve imzaya yetkili yöneticilerinin şahsi iflaslarının istenmesi durumunda tedrici tasfiye, iflas davası sonuçlanana kadar kapanmaz.
+Alacaklılar cetvelinde görünen hak sahiplerine, talep etmeleri halinde Fon tarafından tasfiyenin kendileri ile ilgili sonuçlarını gösterir bir belge verilir.

@@ -1,0 +1,2 @@
+Ödeme Cetveli
+Madde 19 — Aracı kurumun malvarlığının 16 ve 17 nci maddeler çerçevesinde nakde çevrilmesi ve alacaklılar cetvelinin kesinleşmesi üzerine Fon tarafından, ödenecek alacak miktarını gösteren bir ödeme cetveli hazırlanır. Ödeme cetvelinin temin edilebileceği yerler, yapılacak ödemelerin esasları ile ödemelerin yapılacağı tarih ve yerler bu Yönetmeliğin 23 üncü maddesi çerçevesinde ilan edilir.

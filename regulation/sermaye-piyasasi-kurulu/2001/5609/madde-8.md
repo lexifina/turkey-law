@@ -1,0 +1,3 @@
+Yasal Organların Durumu
+Madde 8 — (Değişik: RG-27/06/2003-25151)
+Tedrici tasfiye kararı verildikten sonra, aracı kurumun genel kurul, yönetim kurulu ve denetim kurulu gibi yasal organlarının görev ve yetkileri, tasfiye sonuçlanıncaya kadar Fon tarafından temsilen yerine getirilir. Fon tarafından aracı kurumun yönetim ve denetim kurullarına üye ataması yapılmaz ve tedrici tasfiye süresince genel kurul toplanmaz. Tedrici tasfiyenin sonuçlandığının ilan edildiği tarihte başkaca bir merasime gerek kalmadan, aracı kurumun tedrici tasfiye kararı tarihinden önceki yasal organları görev ve yetkilerini yeniden üstlenirler.

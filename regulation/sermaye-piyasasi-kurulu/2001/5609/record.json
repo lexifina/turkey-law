@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.5609",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ARACI KURUMLARIN TEDRİCİ TASFİYE USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "5609",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "issuer_slug": "sermaye-piyasasi-kurulu",
+  "path": "regulation/sermaye-piyasasi-kurulu/2001/5609",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5609&MevzuatTertip=5",
+  "source_sha256": "ffecfab494cc4f24371a16db571b47cce2813a06624b1a3b8defbd9bc54b2684",
+  "source_bytes": 140754,
+  "published": "2001-06-21",
+  "gazette": "24439",
+  "in_force": "2005-05-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-05/05/2005\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2005-05-05",
+      "RG-05/05/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2003-06-27",
+      "RG-27/06/2003",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, 2499 sayılı Sermaye Piyasası Kanununun 10/A maddesinin birinci fıkrası uyarınca Merkezi Kayıt Kuruluşunun kurulduğu tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3166,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

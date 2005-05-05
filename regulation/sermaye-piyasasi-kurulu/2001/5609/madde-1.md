@@ -1,0 +1,3 @@
+ARACI KURUMLARIN TEDRİCİ TASFİYE USUL VE ESASLARI HAKKINDA YÖNETMELİK
+Amaç ve Kapsam
+Madde 1 — Bu Yönetmeliğin amacı, 15/12/1999 tarihli ve 4487 sayılı Kanunla değişik 28/7/1981 tarihli ve 2499 sayılı Sermaye Piyasası Kanununun 46 ncı maddesinin birinci fıkrasının (h) bendi uyarınca haklarında tedrici tasfiye kararı verilen aracı kurumların malvarlığını işin niteliğine göre aynen veya nakde çevirmek suretiyle elde edilen bedeli tahsis ederek, Kanun çerçevesinde yaptıkları sermaye piyasası faaliyetleri nedeniyle müşterilerine karşı olan nakit ödeme ve sermaye piyasası araçları teslim yükümlülüklerinin Yatırımcıları Koruma Fonu tarafından tasfiye edilmesi usul ve esaslarını belirlemektir.

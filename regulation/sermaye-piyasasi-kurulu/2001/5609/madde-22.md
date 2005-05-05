@@ -1,0 +1,2 @@
+İflası İstenmeyen Aracı Kurumlar
+Madde 22 — İflası istenmeyen aracı kurumlar, tedrici tasfiyenin kapanmasına ilişkin ilanın yapıldığı tarihten itibaren üç ay içinde esas sözleşmelerinin bütün hükümlerini sermaye piyasası faaliyetlerini kapsamayacak şekilde değiştirmek zorundadırlar. Bu değişiklikler yapılmadığı takdirde, Türk Ticaret Kanunun 434 üncü maddesinin birinci fıkrasının (2) ve (6) numaralı bentleri hükümleri gereğince münfesih addolunurlar.

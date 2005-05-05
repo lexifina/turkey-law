@@ -1,0 +1,2 @@
+Bilgi Verme Yükümlülüğü
+Madde 9 — Tedrici tasfiye kararının alındığı tarihte görevde bulunan yönetim kurulu, tedrici tasfiye kararının ilanı tarihinden itibaren 7 gün içinde, aracı kurumun mevcut aktif ve pasifini, taahhütlerini, taraf olduğu sözleşmeleri ve hukuki uyuşmazlıklarını ve mevcut her türlü bilgiyi içerecek şekilde kayıtlarında yer alsın almasın son durumunu gösterir bir raporu eksiksiz olarak düzenleyip Fona vermekle yükümlüdür. Fon, gerekli görülen hallerde Kurul onayıyla rapor verme süresini uzatabilir.

@@ -1,0 +1,3 @@
+Tedrici Tasfiye Kararı ve İlanı
+Madde 4 — Aracı kurumlar hakkında verilen tedrici tasfiye kararları, bu kararların alındığı gün Kurul tarafından aracı kuruma, MKKfya, İMKBfye, Takasbanka, Birliğe, Türkiye Bankalar Birliğine ve tasfiye işlemlerini yürütmek üzere Fona bildirilir.
+Tedrici tasfiye kararı Fon tarafından, aracı kurumun alacaklılarının haklarını gösterir belgelerle Fona başvurmaları için bu Yönetmeliğin 23 üncü maddesi çerçevesinde ilan edilir. Alacaklıların Fona başvuru süresi ve esasları ile aracı kuruma yapılacak olan bütün ödemelerin sadece Fona yapılması gerektiği ilanda belirtilir.
