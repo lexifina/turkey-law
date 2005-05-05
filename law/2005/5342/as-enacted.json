@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5342",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti ile Fas Krallığı Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-05-05",
+  "gazette_issue": "25806",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050505-2.htm",
+  "source_sha256": "e050ae0224b7c94ec2c6938bcff6445f236bfc2784e8efb45636f7e6acac8b8d",
+  "text_sha256": "cc3da6cf522b6997ad6a3af91b6f91c79377c1157136694f71ccadec7f2091da",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/05/05/25806-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050505-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
