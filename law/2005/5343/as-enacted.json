@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5343",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti ile Lübnan Cumhuriyeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-05-05",
+  "gazette_issue": "25806",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050505-3.htm",
+  "source_sha256": "6bea17204f0b1843ab6c13650f717924ccd4593dd874cd17ebe82a2365e0c468",
+  "text_sha256": "43524b23c49e839cee5f9eb78feb4db6030147d1be83ba4e08c1e7a0658edf83",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/05/05/25806-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050505-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
