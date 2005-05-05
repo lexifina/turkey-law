@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-05-05",
+  "issue": "25806",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/8748 4736 Sayılı Kanunun 1 inci Maddesinin Birinci Fıkrası Hükmünden Muaf Tutulacakların Tespitine Dair 28/1/2002 Tarihli ve 2002/3654 Sayılı Kararnamenin Eki Kararda Değişiklik Yapılmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050505-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050505.htm",
+  "index_sha256": "c32d7d06717d509418314b67165f1ceff3f70c0f551bcc15290940b36bc860a8",
+  "index_header": "5 Mayıs 2005 ... Sayı : 25806",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
