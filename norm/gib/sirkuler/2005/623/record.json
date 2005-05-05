@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-34/2005-6/Geçici Vergi Beyannamesi-4",
+  "source_id": 623,
+  "date": "2005-05-05",
+  "title": "İlk Üç Aylık Döneme İlişkin Geçici Vergi Beyannamesinin Verilme Süresinin Uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/623",
+  "source_sha256": "de7c5c01f09086862d818a45d1894c01d4ff37462a8c9be5f0a5f33fc4e68e2f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
