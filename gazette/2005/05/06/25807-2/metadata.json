@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-05-06",
+  "issue": "25807",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararı",
+  "title": "2005/8742 Adalet Bakanlığı Ana Hizmet Birimleri ile Yardımcı Hizmet Birimleri Bünyesinde Bulunan (24) Adet Daire Başkanlığının Birimler İtibarıyla Dağılımlarının Yeniden Düzenlenmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050506-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050506.htm",
+  "index_sha256": "0f22fc8f573b9280a79c53b81bafc00bacb6b82bbcc4325f6627529f27153178",
+  "index_header": "6 Mayıs 2005 ... Sayı : 25807",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
