@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5521- 64/20202",
+  "source_id": 32024,
+  "date": "2005-05-06",
+  "title": "Bilgisayarlarda kullanılmak üzere, ithal edilen veri ya da komutların maliyetinin taşıyıcı ortamın maliyet veya kıymetinden ayırt edilebildiği ve ithal edilen söz konusu verilerin kıymetinin katma değer vergisi matrahına dahil edilip edilmeyeceği hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32024",
+  "source_sha256": "699dc0489986503a4367a866609ebe2bb2da4f25151157591073563eabc31048",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
