@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8234",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2005 MALİ YILI BÜTÇE UYGULAMA TALİMATI (SIRA NO:9)",
+  "number": "8234",
+  "path": "teblig/2005/8234",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8234&MevzuatTertip=5",
+  "source_sha256": "3b8f1852c3e4bd6f68f13b11cdd409ef56713426f80d5cd5bcc8a30525abfff0",
+  "source_bytes": 38482,
+  "published": "2005-05-06",
+  "gazette": "25807",
+  "in_force": "2005-05-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.05.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 837,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/mailto:butcepol@bumko.gov.tr",
+    "9.5.8234-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
