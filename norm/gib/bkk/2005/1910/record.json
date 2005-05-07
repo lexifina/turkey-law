@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2005/8730",
+  "source_id": 1910,
+  "date": "2005-05-07",
+  "title": "BELEDİYE GELİRLERİ KANUNUNUN 65, 74, 77, 84 ve Ek 6 ncı MADDELERİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/bkk/1910",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "ab9b8fbf40b3695afa6b6583d0b27db0918d021a6a5d660085e1bd3a62618b8d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
