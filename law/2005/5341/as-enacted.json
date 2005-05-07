@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5341",
+  "year": 2005,
+  "title": "Siyasi Partiler Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-05-07",
+  "gazette_issue": "25808",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050507-1.htm",
+  "source_sha256": "29212124815f3b6768593c7142fb518976f21903d3e31c439f5991eec1a625a8",
+  "text_sha256": "ed5bab981e57acf2bc85892fbaf49e4830b66e3b76358f44145ffc966eff3dfb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/05/07/25808-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050507-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
