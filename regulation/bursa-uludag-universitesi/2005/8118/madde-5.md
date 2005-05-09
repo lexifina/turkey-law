@@ -1,0 +1,10 @@
+İKİNCİ BÖLÜM
+Organların Oluşumu, Görev ve Yetkileri
+Organlar
+Madde 5 — Bu Yönetmelik uyarınca öğrenci etkinlikleri aşağıda belirtilen organlar aracılığı ile gerçekleştirilir:
+a) Öğrenci Etkinlikleri Komisyonu (ÖEK): Rektör tarafından görevlendirilen bir rektör yardımcısı veya danışmanının başkanlığında, Senato tarafından seçilen sekiz öğretim elemanı, Birlikleri oluşturan topluluk başkanlarınca seçilen üç öğrenci temsilcisinden oluşur. Sağlık, Kültür ve Spor İşleri Dairesi Başkanı ile öğrenci konsey başkanı komisyonun doğal üyesidir. Başkan, komisyon üyelerinden birini yardımcısı olarak seçer. ÖEK üyelerinin görev süreleri eğitim yılının başında başlar ve bir yıldır. Komisyonunun sekreterya görevini SKSD başkanı yürütür.
+b) Öğrenci Kültür Sanat, Spor ve Bilim Toplulukları (ÖKSBT) : Kuruluşları ve çalışma esasları bir yönerge ile belirlenen öğrenci kuruluşlarıdır.
+c) Kültür Sanat Toplulukları Birliği : ÖEK tarafından kendi üyeleri arasından bir yıllığına seçilen bir başkan ve kültür-sanatla ilgili öğrenci toplulukları başkanlarının kendi aralarından seçtikleri dört asil dört yedek üyeden oluşur. Başkan, üyelerden birini kendine yardımcı olarak seçer.
+d) Spor Toplulukları Birliği : ÖEK tarafından kendi üyeleri arasından bir yıllığına seçilen bir başkan ve spor ile ilgili öğrenci toplulukları başkanlarının kendi aralarından seçtikleri dört asil dört yedek üyeden oluşur. Başkan, üyelerden birini kendine yardımcı olarak seçer.
+e) Bilim Dalı Toplulukları Birliği : ÖEK tarafından kendi üyeleri arasından bir yıllığına seçilen bir başkan ve bilim dalı ile ilgili öğrenci toplulukları başkanlarının kendi aralarından seçtikleri dört asil dört yedek üyeden oluşur. Başkan, üyelerden birini kendine yardımcı olarak seçer.
+Birlikler biri eğitim yılı başında, diğeri sonunda olmak üzere yılda en az iki defa toplanmak zorundadır. Başkan gerekli gördüğü zaman birlikleri toplantıya çağırabilir. Birlik başkanları kendilerine bağlı öğrenci topluluklarının kuruluş, çalışma ve denetimlerinden sorumludur.

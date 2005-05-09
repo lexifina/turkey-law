@@ -1,0 +1,2 @@
+Üniversite şenlikleri yürütme kurulu
+Madde 8 — Üniversitede her yıl geleneksel olarak yapılan şenlikler, Üniversite Şenlikleri Yürütme Kurulu tarafından düzenlenir. Bu Kurul; ÖEK başkanı ve yardımcısı, birlik başkanları, birlikler tarafından seçilen üç öğrenci temsilcisi, öğrenci konsey başkanı ve SKSD başkanından oluşur. Rektör gerekli gördüğü öğretim elemanlarını da Kurulun üyesi olarak görevlendirebilir.
