@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6624-137/20529",
+  "source_id": 37241,
+  "date": "2005-05-09",
+  "title": "Turizm İşletme Belgeli Otellerde yer alan bar ve diskoteklerde yapılan eğlence faaliyetlerinin eğlence vergisine tabi olup olmadığı hususu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37241",
+  "source_sha256": "2ee4da9dd3e0a6827e146a6a352b2dc03f977dadf48b8a5065eab15ee00eb85d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
