@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2924-232-",
+  "source_id": 37921,
+  "date": "2005-05-09",
+  "title": "Kredi kartları için alınan yıllık kullanım ücretlerinin fatura yerine geçen hesap bildirim cetveli ile belgelendirilmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37921",
+  "source_sha256": "7971c3724633a57b7137ecdf60b48d7edd9e47326bcb601d2ff7798c2f5d811f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
