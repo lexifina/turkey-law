@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6508-106/20320",
+  "source_id": 38228,
+  "date": "2005-05-09",
+  "title": "Hasılat fişlerindeki toplamları kaydetmeye ve saklamaya tahsis edilmiş mali hafızalarına...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38228",
+  "source_sha256": "587c76ea67cd8200d99f289727b60554448d92c1b753cd46bcfa98731851bbc9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
