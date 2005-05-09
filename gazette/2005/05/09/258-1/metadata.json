@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-05-09",
+  "issue": "258",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Milletlerarası Sözleşme",
+  "title": "2005/8740 Uluslararası Yasal Metroloji Örgütü Kuruluş Sözleşmesi’ne Katılmamız Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050509-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050509.htm",
+  "index_sha256": "0376cc331bd80b42dcaa4064481ae28e945385eec4a142acc73dd2113d58d7d3",
+  "index_header": "9 Mayıs 2005 ... Sayı : 258",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
