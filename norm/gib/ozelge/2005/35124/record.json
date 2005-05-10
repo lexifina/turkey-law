@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6202-2019/020612",
+  "source_id": 35124,
+  "date": "2005-05-10",
+  "title": "Sözleşmenin binde 7,5 nispetinde damga vergisine tabi tutulması, ayrıca söz konusu sözleşmenin  1' den fazla düzenlenmesi halinde her nüshanın  ayrı ayrı damga vergisine tabi tutulması gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35124",
+  "source_sha256": "dcc58d3f861daf0b13e2b93f4acf1d1d392568ffa6a240c6c9a5a9f3d6280295",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
