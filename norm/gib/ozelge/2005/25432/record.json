@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.29/2930-240-232-26649",
+  "source_id": 25432,
+  "date": "2005-05-10",
+  "title": "Bedelsiz olarak yapılan nakliye işinde mal akışı gerçekleşiyorsa sevk irsaliyesinin düzenlenmelidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25432",
+  "source_sha256": "76a90b365c96fad8a369cb92edc63ca3afdaed21f1cbbbc9778b7440651ae3df",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
