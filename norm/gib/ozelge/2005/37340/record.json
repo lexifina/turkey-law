@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6609-457/20694",
+  "source_id": 37340,
+  "date": "2005-05-10",
+  "title": "Yüksek Öğretim Kurumlarının yapacakları yapılar için bina inşaat harcı ödeyip  ödemeyecekleri hususu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37340",
+  "source_sha256": "7a1842ac8db63c16e2a961da92d4ef89c557537a984645673eba5d85de4f1c3c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
