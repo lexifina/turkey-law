@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4019-48/20608",
+  "source_id": 37840,
+  "date": "2005-05-10",
+  "title": "Nakliyecilik faaliyetinde kullanılan araçların çalınması, kaza yapması, hurdaya ayrılması ve benzer nedenlerle kullanılamaz duruma gelmesi nedeniyle yapılacak işlemler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37840",
+  "source_sha256": "c3d7730c1a6f1b5ef1e862aa347c2820fa9dd8ec0010176ee7124b3e56476a8e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
