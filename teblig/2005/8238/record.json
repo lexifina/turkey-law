@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8238",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÖZÜRLÜLERE VERİLECEK SAĞLIK KURULU RAPORLARI HAKKINDA YÖNETMELİK EKİNDE YER ALAN ÖZÜRLÜ SAĞLIK KURULU RAPORU VERMEYE YETKİLİ SAĞLIK KURULUŞLARI LİSTESİNİN YENİDEN DÜZENLENMESİNE İLİŞKİN TEBLİĞ",
+  "number": "8238",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2005/8238",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8238&MevzuatTertip=5",
+  "source_sha256": "4d03a0d8d5edad1b9e87bf5e2f3550ae5a157444391c5f68945f78705b33dbcc",
+  "source_bytes": 329618,
+  "published": "2005-05-10",
+  "gazette": "25811",
+  "in_force": "2005-05-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.05.2005); own commencement article: \"Bu tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2091,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
