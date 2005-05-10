@@ -1,0 +1,6 @@
+Merkez yönetim kurulu
+Madde 12 — Merkez Yönetim Kurulu; Merkez Müdürünün başkanlığında, görevlendirilmişse merkez müdür yardımcısı ve Merkez Müdürünün teklifi üzerine Üniversitenin tam zamanlı öğretim elemanları arasından Rektörce önerilecek altı aday arasından Akademik Kurul tarafından üç yıllık süreyle görevlendirilecek üç üye olmak üzere toplam beş üyeden oluşur. Üyelik süresi sona erenler, aynı usulle yeniden görevlendirilebilirler.
+Akademik Kurul tarafından görevlendirilen üyelerden, görev süresi dolmadan önce üyelikten ayrılanların yerine, Merkez Müdürünün teklifi üzerine Üniversitenin tam zamanlı öğretim elemanları arasından Rektörce önerilecek iki aday arasından Akademik Kurul tarafından yeniden görevlendirme yapılır. Bu üyeler, yerine görevlendirildikleri üyenin görev süresi sonuna kadar görev yaparlar.
+Merkez Yönetim Kurulu, ayda en az bir kez olmak üzere, Merkez Müdürünün daveti üzerine ve Merkez Müdürü tarafından belirlenen gündemle toplanır. Merkez Müdürünün uygun görmesi halinde, toplantı öncesi ve sırasında üyelerden gelen öneriler üzerine, gündeme başkaca hususlar eklenebilir.
+Merkez Yönetim Kurulu, üye tam sayısının salt çoğunluğuyla toplanır ve kararlar oy çokluğu ile alınır.
+Merkez Yönetim Kurulu raportörlüğü; Merkez Müdürü, merkez müdür yardımcısı veya Merkez Müdürünün görevlendireceği Genel Kurul üyesi tarafından yapılır.
