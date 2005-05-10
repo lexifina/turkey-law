@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4007-158/20610",
+  "source_id": 24397,
+  "date": "2005-05-10",
+  "title": "Okul inşaatı için yapılmış harcamaların ilgili yıl matrahını aşan kısmının izleyen senelerin gelir vergisi matrahından indirilmesinin mümkün olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24397",
+  "source_sha256": "a9198eb8d145fc143f2ca56d95a3564e8d63f38367d59193b16c8d74915abe92",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
