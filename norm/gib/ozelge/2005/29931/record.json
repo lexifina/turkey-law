@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5509- 234/20726",
+  "source_id": 29931,
+  "date": "2005-05-10",
+  "title": "Herhangi bir yapım işinden bağımsız olarak alınan proje çizim hizmeti, danışmanlık ve denetim hizmetleri kapsamında değerlendirilecek ve tevkifat oranı hizmet bedeli üzerinde hesaplanan katma değer vergisinin % 50'si olacaktır. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29931",
+  "source_sha256": "3f071bf4dadc24d9f7a8375e6fc2c16fedf4275cabf3521539cf642686e601fb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
