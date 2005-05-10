@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4035-377/20609",
+  "source_id": 24057,
+  "date": "2005-05-10",
+  "title": "Dar mükellefiyete tabi olanların beyanname vermeyecekleri haller hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24057",
+  "source_sha256": "df4352113dd077894b16f31fd021a55aaeac84caeefb44b9014e37b93a8d5aa8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
