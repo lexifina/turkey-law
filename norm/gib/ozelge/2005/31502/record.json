@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5517-1905/20750",
+  "source_id": 31502,
+  "date": "2005-05-11",
+  "title": "29.07.1998 tarihinden önce bina inşaat ruhsatı alınmış olan inşaatlara ilişkin olarak konut yapı kooperatiflerine yapılan inşaat taahhüt işleri katma değer vergisinden istisna edilmiştir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31502",
+  "source_sha256": "6da3471705894818974ba9cf99e6c42a0022c76179d3259dac20d6931d7c62f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
