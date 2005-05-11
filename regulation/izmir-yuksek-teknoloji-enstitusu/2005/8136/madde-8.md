@@ -1,0 +1,3 @@
+Müdür ve müdür yardımcısı
+Madde 8 — Müdür; Yönetim Kuruluna seçilmiş öğretim üyeleri arasından üç yıllığına, Enstitü Yönetim Kurulunun görüşü de alınarak, Rektör tarafından görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir.
+Müdür; Merkezin tüm faaliyetlerinden Rektöre karşı sorumlu olup, Yönetim Kuruluna başkanlık eder, çalışmaların düzenli ve etkin bir biçimde yürütülmesi ve denetimi ile ilgili gerekli önlemleri alır. Müdür kendisine yardımcı olmak üzere Yönetim Kurulu üyeleri arasından seçeceği bir kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdürün geçici sürelerle görevinden ayrılması halinde yerine müdür yardımcısı vekalet eder. Vekalet altı aydan fazla sürerse yeni Müdür görevlendirilir.
