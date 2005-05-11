@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5517-1915 /20737",
+  "source_id": 31933,
+  "date": "2005-05-11",
+  "title": "Vergi muafiyeti tanınmış olan Vakıfların merkez ve şubelerinde zihinsel bakımdan yetersiz çocuk veya erişkinlere sunduğu hizmetler katma değer vergisine tabi değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31933",
+  "source_sha256": "ffc21c5863dd087a9efcb7b594236f71d1cb60fd61d21dd44102654825aecc71",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
