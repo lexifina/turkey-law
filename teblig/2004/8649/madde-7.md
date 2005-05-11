@@ -1,0 +1,1 @@
+Madde 7- İthal lisansı kapsamında gerçekleştirilecek ithalat, sadece ekteki başvuru formunda ithalatçı tarafından beyan edilen ve ithal lisansında belirtilen Gümrük ve Muhafaza Başmüdürlüğü’ne bağlı gümrük kapılarından yapılabilir.
