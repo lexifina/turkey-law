@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5417-2151",
+  "source_id": 29930,
+  "date": "2005-05-11",
+  "title": "Tali acentelerin sigorta muamelelerine ilişkin yaptıkları işlemler banka ve sigorta muameleleri vergisi kapsamına girdiğinden söz konusu işlemler katma değer vergisinden istisna bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29930",
+  "source_sha256": "526c77c3b2d255f255704a6550464b42e5a010e7e31b17c769eb22abfd201922",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
