@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6001-709/20929",
+  "source_id": 36347,
+  "date": "2005-05-12",
+  "title": "Türkiye Kızılay Derneği, Veraset ve İntikal Vergisi Kanununu gereğince vergiden muaf bulunduğundan, kendisine veraset yoluyla veya ivazsız suretle intikal edecek mallar dolayısıyla veraset ve intikal vergisinin aranılmaması gerektiği ve bu intikaller için",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36347",
+  "source_sha256": "9f4d4c56fb391550ea6474fde8fa216c1260e0c7d7286f9d20234855edb958ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
