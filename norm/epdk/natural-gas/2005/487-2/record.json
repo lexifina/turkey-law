@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "487/2",
+  "decision_date": "2005-05-12",
+  "title": "Doğal Gaz Dağıtım Şirketleri Denetimi Usul Esaslarına İlişkin Karar",
+  "resmi_gazete_date": "2005-05-26",
+  "resmi_gazete_number": "25826",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FxK4QZWfGFg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FxK4QZWfGFg="
+  ],
+  "source_sha256": "f5f8f8885298190bf1bbf366dd1aab3e91874eb0a1c8bb54ab3c2354fc275e34",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-05-12",
+  "law_text_complete": false
+}
