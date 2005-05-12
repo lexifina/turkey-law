@@ -1,0 +1,94 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5350",
+  "year": 2005,
+  "title": "Yatırımların ve İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2005-05-12",
+  "adopted_as_published": "12/05/2005",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.05.2005 No: 25819",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905350.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 89",
+  "committee_reports": [
+    {
+      "label": "TBMM 880 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c084/tbmm22084097ss0880.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 199611,
+      "title": "Yatırımların ve İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "12/05/2005",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905350.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 880 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c084/tbmm22084097ss0880.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 73,
+          "sitting": 55,
+          "sitting_date": "2005-02-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c073/tbmm22073055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c073/tbmm22073fih.pdf",
+          "pages": [
+            "404"
+          ]
+        },
+        {
+          "cilt": 82,
+          "sitting": 89,
+          "sitting_date": "2005-04-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c082/tbmm22082089.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c082/tbmm22082fih.pdf",
+          "pages": [
+            "161"
+          ]
+        },
+        {
+          "cilt": 84,
+          "sitting": 97,
+          "sitting_date": "2005-05-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c084/tbmm22084097.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c084/tbmm22084fih.pdf",
+          "pages": [
+            "49:93"
+          ]
+        },
+        {
+          "cilt": 84,
+          "sitting": 98,
+          "sitting_date": "2005-05-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c084/tbmm22084098.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c084/tbmm22084fih.pdf",
+          "pages": [
+            "171:257",
+            "279:288"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=501&v_kullanici_id=27483198",
+      "page_sha256": "7ca6fd34cec2c04b442d482dc9b5cfc0c6b038434ea86f61b3ce28aa500942e4"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7ca6fd34cec2c04b442d482dc9b5cfc0c6b038434ea86f61b3ce28aa500942e4",
+  "issuer": "TBMM",
+  "in_force": "2005-05-12",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 12/05/2005; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
