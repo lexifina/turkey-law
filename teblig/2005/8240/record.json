@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.8240",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2005 MALİ YILI BÜTÇE UYGULAMA TALİMATI (SIRA NO: 10)",
+  "number": "8240",
+  "path": "teblig/2005/8240",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8240&MevzuatTertip=5",
+  "source_sha256": "8f76187349776ec0161f414fadd5bf7b7a596a22e13e3ccd577e9365753fd5d2",
+  "source_bytes": 82086,
+  "published": "2005-05-12",
+  "gazette": "25813",
+  "in_force": "2005-05-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.05.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1996,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
