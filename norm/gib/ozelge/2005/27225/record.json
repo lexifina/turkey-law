@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3025-353-261/19855",
+  "source_id": 27225,
+  "date": "2005-05-13",
+  "title": "Yeminli mali müşavir tasdik raporu vergi dairesi kayıtlarına girene kadar, mükellef pişmanlık talebiyle yada düzeltme beyannamesi vermek suretiyle eksik beyanını tamamlayabilecektir. Mükellef yerine yeminli mali müşavirin pişmanlık ve ıslah hükümlerinden ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27225",
+  "source_sha256": "18bee84c5ddd80f7e3ced39d0f2865ab5280182a06c433f3ab7b86fd30c7a1b2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
