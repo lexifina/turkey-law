@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5311-2660-21120",
+  "source_id": 31075,
+  "date": "2005-05-13",
+  "title": "Yurt dışından Türkiyeye yapılan arama hizmetleri ile ilgili, yurt dışı operatörlere verilern ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31075",
+  "source_sha256": "749b0d119ce050da119a6adc104030878981aabc5209953e69cfe22b185b6662",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
