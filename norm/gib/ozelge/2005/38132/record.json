@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.59/5920-34",
+  "source_id": 38132,
+  "date": "2005-05-14",
+  "title": "Ticari veya zirai faaliyetlerinin herhangi birinden dolayı gerçek usulde vergilendirilen gelir ve kurumlar vergisi mükelleflerinin, ticari veya zirai faaliyetleri ile ilgili olarak yeminli mali müşavir tarafından düzenlenen faaliyet raporunu ilgili vergi ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38132",
+  "source_sha256": "000ab51f25c05a7bd91a5a2e210487b829dd2172383425ac0938566cc11406a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
