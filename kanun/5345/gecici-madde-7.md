@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 7- Bu Kanunun yürürlüğe girmesini takip eden otuz gün içinde Bakan 2005 yılı ile ilgili performans hedeflerini Başkanlığa ve vergi incelemesine yetkili bakanlık denetim birimlerine bildirir. Bu hedefler doğrultusunda ilgili birimler bu Kanunun 30 uncu maddesinin hükümlerini uygularlar.
