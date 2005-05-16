@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5513-479/21205",
+  "source_id": 31394,
+  "date": "2005-05-16",
+  "title": "Yatırım teşvik belgesi eki makine teçhizat listesi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31394",
+  "source_sha256": "98484f628045e831aea616aae9e27165a3a0ae6a4dc7d338b7519ef0dd6529fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
