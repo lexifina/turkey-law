@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5301-3091",
+  "source_id": 29928,
+  "date": "2005-05-16",
+  "title": "Yurtdışındaki müşteri konumundaki Türk Şirketine (yurt dışındaki şubenin şantiyesinde) yapılan hizmetler nedeniyle Türk Şirketinin yurt içindeki merkezine kesilecek faturalarda katma değer vergisi hesaplanıp gösterilmeyecektir. Ayrıca bir daha geri getiri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29928",
+  "source_sha256": "9a7d7253457febbbc741572293a24d4508d402c0507d636a50c3a0d716459476",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
