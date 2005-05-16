@@ -57,7 +57,8 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 53-Basın-Yayın ve Enformasyon Genel Müdürlüğü
 54-Darphane ve Damga Matbaası Genel Müdürlüğü
 55- (Ek: 1/12/2004-5263/18 md.) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü
-–––––––––––––––––––––
+56- (Ek: 5/5/2005-5345/34 md.) Gelir İdaresi Başkanlığı
+––––––––––––––-–––––––
 (1) 13/1/2005 tarihli ve 5286 sayılı Kanunun 7 nci maddesiyle, bu cetvelde yer alan "43-Köy Hizmetleri Genel Müdürlüğü" ibaresi cetvelden çıkarılmıştır.
 (II) SAYILI CETVEL (1)
 ÖZEL BÜTÇE KAPSAMINDAKİ İDARELER
