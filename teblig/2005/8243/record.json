@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.8243",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 31)",
+  "number": "8243",
+  "path": "teblig/2005/8243",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8243&MevzuatTertip=5",
+  "source_sha256": "41a4f3a715b277280fd772e94d0ee086a6e05df922a9b9d0e6097a5449a0cf29",
+  "source_bytes": 27103,
+  "published": "2005-05-16",
+  "gazette": "25817",
+  "in_force": "2005-05-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.05.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 700,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
