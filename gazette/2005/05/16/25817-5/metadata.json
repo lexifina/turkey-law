@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-05-16",
+  "issue": "25817",
+  "edition": "regular",
+  "item": 5,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "Kanun",
+  "title": "5345 Gelir İdaresi Başkanlığının Teşkilat ve Görevleri Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050516-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050516.htm",
+  "index_sha256": "1978d92f1cdc3d6310984b2b87c99fb8f11d053231b5c209374b522d12cce1b7",
+  "index_header": "16 Mayıs 2005 ... Sayı : 25817",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
