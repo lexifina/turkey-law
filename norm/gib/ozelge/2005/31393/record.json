@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5513-453/21214",
+  "source_id": 31393,
+  "date": "2005-05-16",
+  "title": "İşletme faaliyetinde kullanılmak üzere ithal edilecek balon için istisna uygulanıp uygulanmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31393",
+  "source_sha256": "4dc13eab0be2d3991f228a94447daae3dda04050072ea8f52c190cd0567dc123",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
