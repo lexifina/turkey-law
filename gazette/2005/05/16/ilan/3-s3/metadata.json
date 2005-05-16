@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-05-16",
+  "issue": "25817",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Ankara Üniversitesi Rektörlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/05/20050516-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (20 = 20)",
+  "ilan_codes": [
+    "5714/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/05/20050516-3.htm",
+  "category_page_sha256": "6bcacc35e6a21716bc3180c4eac0af64aa1859245529e84f8b6af4320263aab4",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/05/20050516.htm",
+  "index_sha256": "8643098b6856f3cea12e9438a9ecc8f389ba2a3804c79a5a7b3bccffaf4fe2f7",
+  "index_header": "16 Mayıs 2005 ... Sayı : 25817",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
