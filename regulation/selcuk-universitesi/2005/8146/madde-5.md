@@ -1,0 +1,2 @@
+Merkezin amacı
+Madde 5 — Merkezin amacı; Mevlâna Celâleddin-i Rumi’nin hayatını, eserlerini, ilmi ve edebi kişiliğini, düşüncelerini, çevresindeki şahsiyetleri, Mevlevilik tarih ve kültürünü, Türk ve dünya edebiyat ve kültürlerindeki etkilerini ve konumunu incelemek, araştırmak; bu amaç doğrultusunda çalışmalarda bulunmak, bilimsel, sosyal ve kültürel etkinlikler gerçekleştirmek, yayınlar yapmaktır.
