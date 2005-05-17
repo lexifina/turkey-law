@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2005/238",
+  "list_number": "238",
+  "decision_date": "2005-05-17",
+  "title": "YSK ilke kararı 2005/238",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3662/2005-238-karar.htm",
+  "source_sha256": "42654ce86c1cd6ea7c9fa8b035da030c50635c7fb562b2be934fa1c48efcf988",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2005-05-17",
+  "law_text_complete": false
+}
