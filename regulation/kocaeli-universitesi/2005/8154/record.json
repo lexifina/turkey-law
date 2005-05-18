@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 14 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2005-05-18",
+      "18.05.2005",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 14 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25819",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2005-05-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/2005/8154",
+  "published": "2005-05-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=8154&MevzuatTertip=5",
+  "source_bytes": 36732,
+  "source_id": "8.5.8154",
+  "source_sha256": "2fabf57a9e64334833eb867d14591096061fbb67a056c530cd40ba7749a948e6",
+  "text_status": "as-enacted",
+  "title": "KOCAELİ ÜNİVERSİTESİ UZAKTAN EĞİTİM ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 209,
+  "word_count": 1112
+}

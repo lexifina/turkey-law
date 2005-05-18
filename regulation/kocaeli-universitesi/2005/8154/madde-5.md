@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+Madde 5 — KOÜ-UZEM’in amacı, iletişim ve bilgi teknolojilerine dayalı olarak Kocaeli Üniversitesi önlisans, lisans, yüksek lisans ve sürekli eğitim dahil tüm eğitim programları kapsamında uzaktan yapılan eğitim için plan, program, eşgüdüm ve uygulama faaliyetleri yürüterek; yükseköğretimin yeni öğrenci kitlelerine yayılmasını sağlamak suretiyle verimliliği artırmak, bilgiyi tüm kitlelere ulaştırmak, teknolojinin sağladığı çoklu ve etkileşimli ortam olanakları ve bilgiye sınırsız olarak ulaşabilme özelliklerine dayanarak eğitimin etkinliğini artırmak, eğitim-öğretim olanaklarının paylaşılmasını sağlayarak Üniversite içinde, üniversiteler arasında, ulusal ve uluslararası kurum ve kuruluşlarla işbirliğinde akademik etkileşimi ve yardımlaşmayı kolaylaştırmaktır.

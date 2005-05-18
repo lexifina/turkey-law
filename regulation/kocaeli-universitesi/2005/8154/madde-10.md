@@ -1,0 +1,4 @@
+Merkez yönetim kurulu
+Madde 10 — Merkez Yönetim Kurulu; Merkez Müdürü ve yardımcıları ile Üniversite öğretim elemanları arasından Rektör tarafından görevlendirilen dört üyeden oluşur.
+Merkez Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyelerin yerine, aynı usulle yenileri görevlendirilir. Merkez Yönetim Kurulu; Merkez Müdürünün daveti üzerine her ay ve işin gerektirdiği zamanlarda Merkez Müdürünün çağrısı üzerine ve onun başkanlığında toplanarak, Merkezin çalışmaları ve yönetimi ile ilgili konularda kararlar alır. Merkez Yönetim Kurulu üye tam sayısının salt çoğunluğu ile toplanır ve toplantıya katılanların oy çokluğu ile karar alır.
+Merkez Yönetim Kurulu toplantılarına, gerekli hallerde; Üniversite Bilgi İşlem Daire Başkanı ve Kocaeli Üniversitesi Sürekli Eğitim Araştırma ve Uygulama Merkezi (KOÜSEM) Müdürü de oy kullanmaksızın Merkez Müdürünün daveti üzerine katılabilir.
