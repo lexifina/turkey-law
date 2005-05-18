@@ -1,5 +1,5 @@
-Yürürlükten kaldırılan kanunlar
-MADDE 18-(1) 1 Nisan 2005 tarihi itibarıyla;
+Yürürlükten kaldırılan kanunlar (1)
+MADDE 18-(1) 1 Haziran 2005 tarihi itibarıyla;
 a) 4.4.1929 tarihli ve 1412 sayılı Ceza Muhakemeleri Usulü Kanunu,
 b) 8.6.1936 tarihli ve 3005 sayılı Meşhud Suçların Muhakeme Usulü Kanunu,
 c) 7.5.1964 tarihli ve 466 sayılı Kanun Dışı Yakalanan veya Tutuklanan Kimselere Tazminat Verilmesi Hakkında Kanun,
