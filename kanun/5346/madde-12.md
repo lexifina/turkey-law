@@ -1,0 +1,1 @@
+MADDE 12 — 18.12.1953 tarihli ve 6200 sayılı Devlet Su İşleri Umum Müdürlüğü Teşkilat ve Vazifeleri Hakkında Kanuna 20.2.2001 tarihli ve 4628 sayılı Kanunun 18 inci maddesi ile eklenen ek l inci maddesi aşağıdaki şekilde değiştirilmiştir.
