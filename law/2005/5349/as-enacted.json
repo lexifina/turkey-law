@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5349",
+  "year": 2005,
+  "title": "Türk Ceza Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-05-18",
+  "gazette_issue": "25819",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050518-4.htm",
+  "source_sha256": "dc565704c25b0c50ec7d01ccd593bf681f0a80f67b0073a773960dc3e93b3c7b",
+  "text_sha256": "f53ca904480d626b0188fdeb4d103de874176c496442bace4018150baa29b23f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/05/18/25819-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050518-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
