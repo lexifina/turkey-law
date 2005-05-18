@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.8244",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 293)",
+  "number": "8244",
+  "path": "teblig/2005/8244",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8244&MevzuatTertip=5",
+  "source_sha256": "d7a43c4664eabacf7c4e5c5c04ac016f0ba809c3bb1c5ec6a9e0e60d363947fb",
+  "source_bytes": 12714,
+  "published": "2005-05-18",
+  "gazette": "25819",
+  "in_force": "2005-05-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.05.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 187,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
