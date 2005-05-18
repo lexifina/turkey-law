@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.45/4535-5",
+  "source_id": 21217,
+  "date": "2005-05-18",
+  "title": "Yatırım indirimi istisnası ancak amortismana tabi iktisadi kıymetler için söz konusu olup, iktisadi kıymetle ilgili yapılan maliyet bedeline eklenebilecek harcamalar yatırım indirimi istisnasıyla ilgili şartları taşıması kaydıyla istisna indiriminden fayd",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21217",
+  "source_sha256": "e33bef3a06b4846ab28286af94c70758b1bf81400aefce6394145cd5bf9405f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
