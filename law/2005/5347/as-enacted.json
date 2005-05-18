@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5347",
+  "year": 2005,
+  "title": "Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-05-18",
+  "gazette_issue": "25819",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050518-2.htm",
+  "source_sha256": "da6d05f619593b8e49108cde03c4908a69c2d1d5740fb6cdf857cf6046366867",
+  "text_sha256": "66059d3049bfb5f702ac197f0fcc3659509e34acaf2f41fe5000cd66dcf8ed39",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/05/18/25819-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050518-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
