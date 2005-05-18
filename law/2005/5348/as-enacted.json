@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5348",
+  "year": 2005,
+  "title": "Çeşitli Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-05-18",
+  "gazette_issue": "25819",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050518-3.htm",
+  "source_sha256": "fc752eb0a0327aa653af06fe6d52650fb0ad0944a8ccc53f29cfa872204dd4e5",
+  "text_sha256": "c00db27691590b21918199f9601f7977456cce9016cf554e2e2c5ba829a4d68a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/05/18/25819-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050518-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
