@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-05-20",
+  "issue": "25820",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "İstanbul Menkul Kıymetler Borsası Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/05/20050520-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (12 = 12)",
+  "ilan_codes": [
+    "5892/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/05/20050520-4.htm",
+  "category_page_sha256": "310633499305d1816a6beab8f3d2fdf8286605ace4b556fe1ac96860797c9a6b",
+  "issue_on_category_page": "25341",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/05/20050520.htm",
+  "index_sha256": "b6185e366879f01c4b64be13813005087dc6c57f0e4e9f470294812067fe80bc",
+  "index_header": "20 Mayıs 2005 ... Sayı : 25820",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
