@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3226-1456",
+  "source_id": 25004,
+  "date": "2005-05-21",
+  "title": "Yaptıkları tasdik sonucu mükellefler adına tarh edilen vergiler ve kesilen cezalar için YMM'ler hakkında yapılacak takibata, mükellefler adına yapılan bu tarhiyat sonucu kesinleşen vergi ve ceza tutarı üzerinden tanzim edilecek ödeme emrinin tebliği ile b",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/25004",
+  "source_sha256": "ccf7abb72c849a4ff065491eb31f048cab529fcc9b61c5c318ac2ca308a7aa38",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
