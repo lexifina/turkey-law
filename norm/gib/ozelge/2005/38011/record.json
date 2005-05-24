@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.54/5428-2G0D",
+  "source_id": 38011,
+  "date": "2005-05-24",
+  "title": "Pul biber, isot, kekik, nane ve hindistan cevizi teslimlerinde uygulanacak katma değer vergisi ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38011",
+  "source_sha256": "1d7d05217f0bd36fe2bcd358b345227aa06c80d861de53b93b0a5786977c26d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
