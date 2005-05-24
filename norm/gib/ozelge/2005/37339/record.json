@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6609-452",
+  "source_id": 37339,
+  "date": "2005-05-24",
+  "title": "Ruhsat yenilenmesi ve plan tadili sırasında ayrıca harç alınmaz. Ödenen harç tutarı tenzil edilir.Ancak inşaat sahasında artış, bağımsız birimlerin brüt alanında veya niteliğinde değişme olması halinde yeniden hesaplanacak harçtan evvelce",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37339",
+  "source_sha256": "3f6315d300ea5efc71401fd733c26ad32b0598e9113df619a31e09132c2d7b25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
