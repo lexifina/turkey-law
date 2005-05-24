@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6202-",
+  "source_id": 38146,
+  "date": "2005-05-24",
+  "title": "Kişilerden resmi dairelere verilen kağıtlar damga vergisinden istisna olması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38146",
+  "source_sha256": "bd2868173349d2d6dc6bf2b27034c1e1f57189de077fa980ca76b81a4b360888",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
