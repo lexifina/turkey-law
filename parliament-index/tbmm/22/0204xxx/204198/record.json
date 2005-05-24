@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 204198,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "SALİH KAPUSUZ (ANKARA)",
+  "summary": "Bursa Milletvekili Faruk Çelik, Hatay Milletvekili Sadullah Ergin, İstanbul Milletvekili İrfan Gündüz ve Ordu Milletvekili Eyüp Fatsa ile 193 Milletvekilinin; Türkiye Cumhuriyeti Anayasasının Bir Maddesinin Değiştirilmesi Hakkında (2/435)",
+  "title": "Bursa Milletvekili Faruk Çelik, Hatay Milletvekili Sadullah Ergin, İstanbul Milletvekili İrfan Gündüz ve Ordu Milletvekili Eyüp Fatsa ile 193 Milletvekilinin; Türkiye Cumhuriyeti Anayasasının Bir Maddesinin Değiştirilmesi Hakkında (2/435)",
+  "first_sitting_date": "2005-05-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 85,
+      "sitting": 101,
+      "sitting_date": "2005-05-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c085/tbmm22085101.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c085/tbmm22085fih.pdf",
+      "pages": [
+        "228:249"
+      ]
+    },
+    {
+      "cilt": 85,
+      "sitting": 104,
+      "sitting_date": "2005-05-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c085/tbmm22085104.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c085/tbmm22085fih.pdf",
+      "pages": [
+        "755:759"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66ff55d5a0d0d1e0906be9fad02382007df85b0722cee305a515ce66f9372765",
+  "in_force": "2005-05-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
