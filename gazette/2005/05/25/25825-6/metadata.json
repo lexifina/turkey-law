@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-05-25",
+  "issue": "25825",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Araştırma - Geliştirme Projelerini Destekleme Tebliği (No: 2005/27)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050525-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050525.htm",
+  "index_sha256": "ca7f5e01585bbf7dd039d602e528b64de36506c9be527d8f18d69a999f6933b9",
+  "index_header": "25 Mayıs 2005 ... Sayı : 25825",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
