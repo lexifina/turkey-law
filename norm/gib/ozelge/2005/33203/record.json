@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5428-1917-52950",
+  "source_id": 33203,
+  "date": "2005-05-25",
+  "title": "Çavdar unu, mısır unu, yulaf unu ve soya unu teslimleri ile hazır ekmek mikslerinin %8 oranında katma değer vergisi uygulanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33203",
+  "source_sha256": "3e7b75fb652c631c404d4134bc7e02ceea9a07f14fa123b5b6d0c344bd959619",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
