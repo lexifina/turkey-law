@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-05-26",
+  "issue": "25826",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Millî Emlâk Genel Tebliği (Sıra No: 294)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050526-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050526.htm",
+  "index_sha256": "9c702506f71fdd3bad37e46025a7de17d4deea9f7be26f513845722e3d4edd18",
+  "index_header": "26 Mayıs 2005 ... Sayı : 25826",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
