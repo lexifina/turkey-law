@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-05-28",
+  "issue": "25828",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Türkiye Taşkömürü Kurumu Genel Müdürlüğü Satın Alma Dairesi Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/05/20050528-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (2 = 2)",
+  "ilan_codes": [
+    "6068/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/05/20050528-3.htm",
+  "category_page_sha256": "7045590b6b85e4b5505fb1658b7ccbca574b654c0b0a78e60733021bc9550865",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/05/20050528.htm",
+  "index_sha256": "f351dfcdfb0138bf7c259d35261242d2075ca276cc3ad16cc7fdb4f142a4fedc",
+  "index_header": "28 Mayıs 2005 ... Sayı : 25828",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
