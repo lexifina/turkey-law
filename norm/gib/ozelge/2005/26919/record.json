@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2968-298-",
+  "source_id": 26919,
+  "date": "2005-05-29",
+  "title": "Kurumların bazı kazançları kurumlar vergisinden muaf olsa dahi, kurumlar vergisi mükellefi olması ve bilanço hesabı esasında defter tutmaları durumunda enflasyon düzeltmesi yapmaları zorunludur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26919",
+  "source_sha256": "e4a473ecb8fa54081df61304b2501560178c7e9fef2909a12c84855c7e9db258",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
