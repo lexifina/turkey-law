@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-05-29",
+  "issue": "258",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "Pamukkale Üniversitesi Önlisans, Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılması Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050529-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050529.htm",
+  "index_sha256": "fdcff6eccca37b33e203cbd4c3a500a04c703bad3a46e3a1a24eb895451e6a3c",
+  "index_header": "29 Mayıs 2005 ... Sayı : 258",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
