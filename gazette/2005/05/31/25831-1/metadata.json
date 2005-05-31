@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-05-31",
+  "issue": "25831",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/8799 Kuzey Kıbrıs Türk Cumhuriyeti’ne Yapılacak Yolculuklarda Verilecek Gündeliklere Dair Karar ile Yurtdışı Gündeliklerine Dair Karar’a Ekli Cetvellerde Değişiklik Yapılmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050531-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/05/20050531.htm",
+  "index_sha256": "ef0ee763f810a2c495b22a5cb1dbaaf5d2512b47981023091f8fe094bff0f91b",
+  "index_header": "31 Mayıs 2005 ... Sayı : 25831",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
