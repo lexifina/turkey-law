@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2553",
+  "source_id": 25697,
+  "date": "2005-05-31",
+  "title": "Belli miktarı aşan yatırım harcamaları nedeniyle yatırım indirimi işlemleri için de yeminli mali müşavir tasdik raporu ibraz zorunluluğu; 233 sayılı Kanun Hükmünde Kararname hükümlerine tabi olan Kamu İktisadi Teşebbüsleri ile bunlara ait müesseseler hakk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/25697",
+  "source_sha256": "4179688f88c7c03da6692886dff78e2a0bdcc45969e7f7919fe31114ddeff2b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
