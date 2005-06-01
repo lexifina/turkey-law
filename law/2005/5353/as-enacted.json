@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5353",
+  "year": 2005,
+  "title": "Ceza Muhakemesi Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-06-01",
+  "gazette_issue": "25832",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050601-3.htm",
+  "source_sha256": "e9c6f17df996b38d64f85807c388342dbc7b809660ef070f4e360e0bc2b80ba3",
+  "text_sha256": "6b129d821f8ec7734ba198db31b134c31d64252035aa02548d8de9ff0eea7535",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/06/01/25832-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050601-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
