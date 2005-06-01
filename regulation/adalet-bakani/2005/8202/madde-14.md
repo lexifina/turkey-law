@@ -1,0 +1,5 @@
+Moleküler genetik inceleme sonuçlarının gizliliği
+Madde 14 - Bu Yönetmelik hükümlerine göre alınan örnekler üzerinde yapılan inceleme sonuçları, kişisel veri niteliğinde olup, başka bir amaçla kullanılamaz; dosya içeriğini öğrenme yetkisine sahip bulunan kişiler tarafından bir başkasına verilemez.
+Bu bilgiler, kovuşturmaya yer olmadığı kararına itiraz süresinin dolması, itirazın reddi, beraat veya ceza verilmesine yer olmadığı kararı verilip kesinleşmesi hâllerinde Cumhuriyet savcısının huzurunda ve uygun göreceği usullerle yok edilir ve bu husus dosyasında muhafaza edilmek üzere tutanağa geçirilir. Olay yerinden elde edilen diğer delillere ilişkin hükümler saklıdır.
+Bilirkişi tarafından yapılan analizler sonucu elde edilen bulgular ilgili makama gönderilir; bulgular üzerinden moleküler genetik analizler için izole edilen DNA örnekleri bilirkişi tarafından rapor hazırlandıktan sonra imha edilir ve bu husus raporda açıkça belirtilir.
+Moleküler genetik incelemelerin özel kalıtsal karakterler hakkındaki açıklamayı içermediği bilinen kromozom bölgesi ile sınırlı kalmasına özen gösterilir.

@@ -1,0 +1,4 @@
+Diğer kişilerin vücudundan örnek alınması
+Madde 8 - Bir suça ilişkin delil elde etmek amacıyla, mağdurun ve diğer kişilerin vücudundan kan, veya benzeri biyolojik örneklerle saç, tükürük, tırnak gibi örnekler alınabilmesine, sağlığını açıkça ve öngörülebilir şekilde tehlikeye düşürmemek ve cerrahî bir müdahalede bulunmamak koşuluyla; Cumhuriyet savcısının istemiyle ya da refsen hâkim veya mahkeme, gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısı tarafından karar verilebilir. Cumhuriyet savcısının kararı yirmidört saat içinde hâkim veya mahkemenin onayına sunulur. Hâkim veya mahkeme yirmidört saat içinde kararını verir. Onaylanmayan kararlar hükümsüz kalır ve elde edilen deliller kullanılamaz.
+Bu müdahaleler ancak tabip tarafından veya tabip gözetiminde sağlık mesleği mensubu diğer bir kişi tarafından yapılabilir.
+Tıbbî müdahaleler, hekimlik sanatının ve tıp biliminin kabul ettiği yöntem ve araçlarla yapılır.

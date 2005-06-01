@@ -1,0 +1,3 @@
+Diğer kişilerin beden muayenesi
+Madde 7 - Bir suça ilişkin delil elde etmek amacıyla, mağdurun ve diğer kişilerin vücudu üzerinde dış veya iç beden muayenesi yapılabilmesine sağlığını açıkça ve öngörülebilir şekilde tehlikeye düşürmemek ve cerrahî bir müdahalede bulunmamak koşuluyla; Cumhuriyet savcısının istemiyle ya da refsen hâkim veya mahkemece, gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısı tarafından karar verilebilir. Cumhuriyet savcısının kararı, yirmidört saat içinde hâkim veya mahkemenin onayına sunulur. Hâkim veya mahkeme, yirmidört saat içinde kararını verir. Onaylanmayan kararlar hükümsüz kalır ve elde edilen deliller kullanılamaz.
+Mağdurun ve diğer kişilerin beden muayenesi ancak tabip tarafından yapılır.
