@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-01",
+  "issue": "25832",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/8870 Köy Muhtarları ile Şehir ve Kasaba Mahalle Muhtarlarının Ödeneklerinin Artırılmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050601-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050601.htm",
+  "index_sha256": "d1d525cffed55895b8a8f9c318276faa7fdd7a3933e0eb1b31f146e589c1e672",
+  "index_header": "1 Haziran 2005 ... Sayı : 25832",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
