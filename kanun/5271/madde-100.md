@@ -24,4 +24,4 @@ c) 18.6.1999 tarihli ve 4389 sayılı Bankalar Kanununun 22 nci maddesinin (3) v
 d) 10.7.2003 tarihli ve 4926 sayılı Kaçakçılıkla Mücadele Kanununda tanımlanan ve hapis cezasını gerektiren suçlar.
 e) 21.7.1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununun 68 ve 74 üncü maddelerinde tanımlanan suçlar.
 f) 31.8.1956 tarihli ve 6831 sayılı Orman Kanununun 110 uncu maddesinin dört ve beşinci fıkralarında tanımlanan kasten orman yakma suçları.
-(4) Sadece adlî para cezasını gerektiren veya hapis cezasının üst sınırı iki yıldan fazla olmayan suçlarda tutuklama kararı verilemez.
+(4) (Değişik:25/5/2005-5353/11 md.) Sadece adlî para cezasını gerektiren veya hapis cezasının üst sınırı bir yıldan fazla olmayan suçlarda tutuklama kararı verilemez.

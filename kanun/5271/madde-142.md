@@ -5,5 +5,5 @@ MADDE 142.- (1) Karar veya hükümlerin kesinleştiğinin ilgilisine tebliğinde
 (4) Dilekçesindeki bilgi ve belgelerin yetersizliği durumunda mahkeme, eksikliğin bir ay içinde giderilmesini, aksi hâlde istemin reddedileceğini ilgiliye duyurur. Süresinde eksiği tamamlanmayan dilekçe, mahkemece, itiraz yolu açık olmak üzere reddolunur.
 (5) Mahkeme, dosyayı inceledikten sonra yeterliliğini belirlediği dilekçe ve eki belgelerin bir örneğini Devlet Hazinesinin kendi yargı çevresindeki temsilcisine tebliğ ederek, varsa beyan ve itirazlarını onbeş gün içinde yazılı olarak bildirmesini ister.
 (6) İstemin ve ispat belgelerinin değerlendirilmesinde ve tazminat hukukunun genel prensiplerine göre verilecek tazminat miktarının saptanmasında mahkeme gerekli gördüğü her türlü araştırmayı yapmaya veya hâkimlerinden birine yaptırmaya yetkilidir.
-(7) Mahkeme, istemde bulunanı, Cumhuriyet savcısını ve Hazine temsilcisini dinledikten sonra kararını verir.
+(7) (Değişik: 25/5/2005 – 5353/20 md.) Mahkeme, kararını duruşmalı olarak verir. İstemde bulunan ile Hazine temsilcisi, açıklamalı çağrı kâğıdı tebliğine rağmen gelmezlerse, yokluklarında karar verilebilir.
 (8) Karara karşı, istemde bulunan, Cumhuriyet savcısı veya Hazine temsilcisi, istinaf yoluna başvurabilir; inceleme öncelikle ve ivedilikle yapılır.

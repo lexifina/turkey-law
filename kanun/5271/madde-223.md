@@ -13,7 +13,7 @@ e) Yüklenen suçun sanık tarafından işlendiğinin sabit olmaması,
 Hallerinde verilir.
 (3) Sanık hakkında;
 a) Yüklenen suçla bağlantılı olarak yaş küçüklüğü, akıl hastalığı veya sağır ve dilsizlik hali ya da geçici nedenlerin bulunması,
-b) Yüklenen suçun zorunluluk hali ya da cebir veya tehdit etkisiyle işlenmesi,
+b) (Değişik: 25/5/2055-5353/30 md.) Yüklenen suçun hukuka aykırı fakat bağlayıcı emrin yerine getirilmesi suretiyle veya zorunluluk hali ya da cebir veya tehdit etkisiyle işlenmesi,
 c) Meşru savunmada sınırın heyecan, korku ve telaş nedeniyle aşılması,
 d) Kusurluluğu ortadan kaldıran hataya düşülmesi,
 Hallerinde, kusurunun bulunmaması dolayısıyla ceza verilmesine yer olmadığı kararı verilir.
