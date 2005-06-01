@@ -6,3 +6,5 @@ b) Aşağıda gösterilen sıraya göre ödemelerin yapılması:
 2. Kamusal giderler.
 3. Para cezaları.
 (2) Şüpheli veya sanığı güvence göstermeye zorunlu kılan kararda, güvencenin karşıladığı kısımlar ayrı ayrı gösterilir.
+___________________
+(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 14 üncü maddesi ile bu maddeye dördüncü fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.

@@ -21,6 +21,8 @@ a) Türk Ceza Kanununda tanımlanan;
 17. Silahlı örgüt (madde 314) veya bu örgütlere silah sağlama (madde 315),
 18. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 328, 329, 330, 331, 333, 334, 335, 336, 337),
 Suçları,
+_______________________
+(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 31 inci maddesiyle bu maddeye ikinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 b) Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda tanımlanan silah kaçakçılığı (madde 12) suçları,
 c) Bankalar Kanununun 22 nci maddesinin (3) ve (4) numaralı fıkralarında tanımlanan zimmet suçu,
 d) Kaçakçılıkla Mücadele Kanununda tanımlanan ve hapis cezasını gerektiren suçlar,

@@ -9,6 +9,8 @@ f) Ortağı bulunduğu şirketteki ortaklık paylarına,
 g) Kiralık kasa mevcutlarına,
 h) Diğer malvarlığı değerlerine,
 Elkonulabilir. Bu taşınmaz, hak, alacak ve diğer malvarlığı değerlerinin şüpheli veya sanıktan başka bir kişinin zilyetliğinde bulunması halinde dahi, elkoyma işlemi yapılabilir.
+_________________
+(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 16 ncı maddesiyle bu fıkrada yer alan "hâkim veya" ibaresi madde metninden çıkarılmıştır.
 (2) Birinci fıkra hükmü;
 a) Türk Ceza Kanununda tanımlanan;
 1. Soykırım ve insanlığa karşı suçlar (madde 76, 77, 78),
