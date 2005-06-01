@@ -1,5 +1,5 @@
 Disiplin soruşturması
-MADDE 47.- (1) Kınama ve bazı etkinliklerden alıkoyma cezaları kurumun en üst amiri tarafından verilir ve uygulanır.
+MADDE 47.- (1) (Değişik: 25/5/2005-5351/ 4 md.) Uyarma, kınama ve bazı etkinliklere katılmaktan alıkoyma cezaları kurumun en üst amiri tarafından verilir ve uygulanır.
 (2) Hükümlülerin diğer disiplin cezalarını gerektiren eylemlerinin öğrenilmesinden itibaren derhâl ve en geç iki gün içinde kurum en üst amirince atanan bir görevli tarafından soruşturmaya başlanır.
 (3) Soruşturma en geç yedi gün içerisinde tamamlanır ve düzenlenen rapor ve ekleri disiplin kuruluna sunulur. Soruşturma süresi eylemin ve soruşturmanın niteliğine göre infaz hâkiminin yazılı onayı ile yedi güne kadar uzatılabilir.
 (4) Savunma alınmadan disiplin cezası verilemez. Haklarında disiplin soruşturması yapılanlara, yüklenen eylemin niteliği ve sonuçları ile üç gün içinde savunmalarını vermeleri, aksi hâlde bu haklarından vazgeçmiş sayılacakları yazılı olarak bildirilir. Savunma yazılı olarak sunulabileceği gibi sözlü olarak da yapılabilir. Sözlü savunma tutanakla saptanır. Türkçe bilmeyenlerle, sağır ve dilsizlerin savunmaları tercüman aracılığıyla alınır.

@@ -2,7 +2,7 @@ Adlî para cezasının infazı
 MADDE 106.- (1) Adlî para cezası, Türk Ceza Kanununun 52 nci maddesinin birinci fıkrasında belirtilen usule göre tayin olunacak bir miktar paranın Devlet Hazinesine ödenmesinden ibarettir.
 (2) Adlî para cezasını içeren ilâm Cumhuriyet Başsavcılığına verilir. Cumhuriyet savcısı otuz gün içinde adlî para cezasının ödenmesi için hükümlüye 20 nci maddenin üçüncü fıkrası uyarınca bir ödeme emri tebliğ eder.
 (3) Hükümlü, tebliğ olunan ödeme emri üzerine belli süre içinde adlî para cezasını ödemezse, Cumhuriyet savcısının kararı ile ödenmeyen kısma karşılık gelen gün miktarınca hapsedilir.
-(4) Çocuklar hakkında verilen adlî para cezası ile kısa süreli hapis cezasından çevrilen adlî para cezasının ödenmemesi hâlinde, bu cezalar hapse çevrilemez. Bu takdirde onbirinci fıkra hükmü uygulanır.
+(4) (Değişik: 25/5/2005-5351/ 7 md.) Çocuklar hakkında hükmedilen; adlî para cezası ile hapis cezasından çevrilen adlî para cezasının ödenmemesi hâlinde, bu cezalar hapse çevrilemez. Bu takdirde onbirinci fıkra hükmü uygulanır.
 (5) Adlî para cezasının hapse çevrileceği mahkeme ilâmında yazılı olmasa bile üçüncü fıkra hükmü Cumhuriyet Başsavcılığınca uygulanır.
 (6) Hükümde, adlî para cezası takside bağlanmamış ise, bir aylık süre içinde adlî para cezasının üçte birini ödeyen hükümlünün isteği üzerine geri kalan kısmının birer ay ara ile iki eşit taksitte ödenmesine izin verilir. İlk taksidin süresinde ödenmemesi hâlinde, verilen ikinci takside ilişkin izin hükümsüz kalır.
 (7) Adlî para cezası yerine çektirilen hapis süresi üç yılı geçemez. Birden fazla hükümle adlî para cezalarına mahkûmiyet hâlinde bu süre beş yılı geçemez.

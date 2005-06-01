@@ -27,7 +27,7 @@ Yıldır.
 (12) Koşullu salıverilen hükümlünün, denetim süresinde hapis cezasını gerektiren kasıtlı bir suç işlemesi veya kendisine yüklenen yükümlülüklere, hâkimin uyarısına rağmen, uymamakta ısrar etmesi hâlinde koşullu salıverilme kararı geri alınır.
 (13) Koşullu salıverilme kararının geri alınması hâlinde hükümlünün;
 a) Sonraki suçu işlediği tarihten itibaren kalan cezasının aynen,
-b) Yükümlülüklerine aykırı davranması hâlinde, koşullu salıverilme kararının geri alınması kararının kesinleştiği tarih ile hakederek salıverilme tarihi arasındaki süreyi geçmemek koşuluyla takdir edilecek bir sürenin,
+b) (Değişik: 25/5/2005-5351/ 8 md.) Yükümlülüklerine aykırı davranması hâlinde, bu yükümlülüklere uymama tarihi ile hak ederek salıverilme tarihi arasındaki süreyi geçmemek koşuluyla takdir edilecek bir sürenin,
 Ceza infaz kurumunda çektirilmesine karar verilir. Koşullu salıverilme kararının geri alınmasından sonra aynı hükmün infazı ile ilgili bir daha koşullu salıverilme kararı verilmez.
 (14) Denetim süresi yükümlülüklere uygun ve iyi hâlli olarak geçirildiği takdirde, ceza infaz edilmiş sayılır.
 (15) Koşullu salıverilme kararının geri alınmasına;
