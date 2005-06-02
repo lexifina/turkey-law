@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "491/13",
+  "decision_date": "2005-06-02",
+  "title": "Dağıtım sistemi sistem kullanım fiyatları",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p0HjbkJSszQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p0HjbkJSszQ="
+  ],
+  "source_sha256": "1e9820e0208ab0353439ef525dea72cd67e188fa066ee1e6680aa8c539749aaf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-06-02",
+  "law_text_complete": false
+}
