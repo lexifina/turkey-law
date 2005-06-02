@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-02",
+  "issue": "25833",
+  "edition": "regular",
+  "item": 12,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Karayolları Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050602-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (16 = 16)",
+  "ilan_codes": [
+    "6688/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050602-4.htm",
+  "category_page_sha256": "6957b74cabeb4845ac2de1b14e86845a129c3dff38978a16cf4e0f1e9fe58213",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050602.htm",
+  "index_sha256": "63e5b43e32cc8ce4495988a345c2f3d5ca4fa66f7755835099c602ddbbeb6ef5",
+  "index_header": "2 Haziran 2005 ... Sayı : 25833",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
