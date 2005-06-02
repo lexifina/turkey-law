@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "494",
+  "decision_date": "2005-06-02",
+  "title": "Doğal Gaz Piyasası, 3218 sayılı Serbest Bölgeler Kanunu çerçevesinde oluşturulmuş olan serbest bölgelerin doğal gaz temini ve kullanımıyla ilgili Karar",
+  "resmi_gazete_date": "2005-06-11",
+  "resmi_gazete_number": "25842",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EfMlhe1bGxw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EfMlhe1bGxw="
+  ],
+  "source_sha256": "75b66b4e19c9369dce8b191a4536d7926bd2e76fab7d0e66e86d4fdafbdbb963",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-06-02",
+  "law_text_complete": false
+}
