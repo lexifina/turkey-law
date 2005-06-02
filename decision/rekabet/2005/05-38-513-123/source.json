@@ -1,0 +1,13 @@
+{
+  "number": "05-38/513-123",
+  "type": "Rekabet İhlali",
+  "decision_date": "2005-06-02",
+  "publication_date": "2005-07-11",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=480a4867-5f28-4959-882d-5a42edb41039",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=927",
+  "pdf_sha256": "70496a19339e0a36cb42d7eca18b653a62bba49bf2d32aebc17c7bdaf6cd8ae6",
+  "pdf_bytes": "100636",
+  "pages": "5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "complainant/applicant/party entry without a company or institution marker"
+}
