@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5360",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Kültür ve Turizm Bakanlığı ile Kosova Geçici Özerk Yönetim Kurumlarını (Kosova Kültür, Gençlik ve Spor Bakanlığı) Temsil Eden Kosova'daki Birleşmiş Milletler Geçici Yönetimi (Unmık) Arasında Yapılan Kültürel İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-06-04",
+  "gazette_issue": "25835",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050604-1.htm",
+  "source_sha256": "8c0a750780f7bfd9f05a14ed56c3212269b3abb73702bda4e25ac31292bb6061",
+  "text_sha256": "a26d7a53b78613941f3382380dee114b2631abd71c0c3bcfed0e21362ef1815e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/06/04/25835-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050604-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
