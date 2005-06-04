@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6202-",
+  "source_id": 38145,
+  "date": "2005-06-04",
+  "title": "Çiftçiler tarafından zirai faaliyetlerle ilgili olarak resmi dairelere verilen taahhütnameler damga vergisinden istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38145",
+  "source_sha256": "36437fc98c6ae761db8d6916b29fecbcdaef833eaf9f7f8923fb2e4f55a31da8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
