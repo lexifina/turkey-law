@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 14 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2005-06-05",
+      "05.06.2005",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 14 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25836",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2005-06-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kırıkkale Üniversitesi",
+  "issuer_slug": "kirikkale-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kirikkale-universitesi/2005/8284",
+  "published": "2005-06-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=8284&MevzuatTertip=5",
+  "source_bytes": 29312,
+  "source_id": "8.5.8284",
+  "source_sha256": "793800fa257a1fd05aa1773a25d109c595f777a061f5b374e5a47347e8d2c9c2",
+  "text_status": "as-enacted",
+  "title": "KIRIKKALE ÜNİVERSİTESİ TÜKETİCİ SORUNLARI ARAŞTIRMA VE\r\nUYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 208,
+  "word_count": 660
+}
