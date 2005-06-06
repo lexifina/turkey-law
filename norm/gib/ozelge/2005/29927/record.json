@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5424-221",
+  "source_id": 29927,
+  "date": "2005-06-06",
+  "title": "Gayrimenkulun satış bedelinin alıcı tarafından zamanında ödenmemesi sonucunda sözleşme gereğince tahsil edilen gecikme faizine katma değer vergisi uygulanaca hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29927",
+  "source_sha256": "2aaf8fe33598d364b60f98304325fb73afc2f037809dd73263249740532886bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
