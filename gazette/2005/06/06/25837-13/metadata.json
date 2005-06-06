@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-06",
+  "issue": "25837",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Devlet İhale Kanunu Uyarınca Yayınlanacak İlânlar Hakkında Genel Kurul Kararı (No: 170)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050606-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050606.htm",
+  "index_sha256": "4632333723acbaebb6571e8c651104de2ec44fb534a0b736da757ec54c921e8d",
+  "index_header": "6 Haziran 2005 ... Sayı : 25837",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
