@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.45/4535-5-",
+  "source_id": 21216,
+  "date": "2005-06-08",
+  "title": "Yatırım indirimine konu olan iktisadi kıymatlerin, iktisadi ve teknik bakımdan bütünlük arz etmesi durumunda, yatırım indirimi hesaplama haddini aşıp aşmadıklarına bakılmadan, bir bütün olarak dikkate alınması, ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21216",
+  "source_sha256": "6ff9e3e68b47b87074a50fdb250adece481827e5fdbf9598580d0ec522c1f227",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
