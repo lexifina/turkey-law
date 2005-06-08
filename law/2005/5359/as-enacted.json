@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5359",
+  "year": 2005,
+  "title": "Askeri Hakimler Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-06-08",
+  "gazette_issue": "25839",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050608-1.htm",
+  "source_sha256": "e26ac6cd15e25b39d11b2bbf57075c8066c9d0ade794f2610f8d7bee978649d8",
+  "text_sha256": "b0303a2483b1ded1b2052d67a264856b1dd9b858867a1b8a57490bcad13b205b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/06/08/25839-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050608-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
