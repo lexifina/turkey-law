@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "ÖTV-1/2005-1",
+  "source_id": 1006,
+  "date": "2005-06-08",
+  "title": "Alkollü içecek teslimlerine ilişkin ÖTV'nin (3A) numaralı, tütün mamulleri teslimlerine ilişkin ÖTV'nin (3B) numaralı, kolalı gazoz teslimlerine ilişkin ÖTV'nin ise (3C) numaralı ÖTV Beyannameleri ile beyan edilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/sirkuler/1006",
+  "source_sha256": "ac87a90dc5f94147c36bd7d6b61229ffacfaa3508bc416ff593cde550a968de8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
