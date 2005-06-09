@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.52/5200-15-30-22870",
+  "source_id": 33870,
+  "date": "2005-06-09",
+  "title": "İlk iktisabından sonra tadilat yapılan araçlar için ek ÖTV tarhiyatı yapılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33870",
+  "source_sha256": "4a1aa8a76eb4cdddf482a25b5a52200b15f1ef04273fa5239fee467d99a40a57",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
