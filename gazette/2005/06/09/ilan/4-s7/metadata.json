@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-09",
+  "issue": "25840",
+  "edition": "regular",
+  "item": 7,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Yenimahalle Belediye Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050609-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (11 = 11)",
+  "ilan_codes": [
+    "6975/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050609-4.htm",
+  "category_page_sha256": "5be7aa636bf1c85a5449c1f80558ad7fdbeb62472157f1f742f328caba0467af",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050609.htm",
+  "index_sha256": "329ecef47f49d37d5559cfc0b744e8f9c44539f1fc25766b3217db74c3ee7145",
+  "index_header": "9 Haziran 2005 ... Sayı : 25840",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
