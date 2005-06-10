@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-10",
+  "issue": "25841",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Emekli ve Malullük Aylığı Bağlanmış Olanlarla, Bunların Kanunen Bakmakla Yükümlü Bulundukları Aile Fertleri, Dul ve Yetim Aylığı Alanların Muayene ile Tedavileri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050610-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050610.htm",
+  "index_sha256": "e02ab0d2e014a34348c19f37a42fd46e6d20a1c424b92ac77fa2e8e363990b0e",
+  "index_header": "10 Haziran 2005 ... Sayı : 25841",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
