@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2947-272-",
+  "source_id": 37920,
+  "date": "2005-06-11",
+  "title": "İthal edilen gayrimenkullerin, ithal edilip aktifleştirildiği tarihle, gayrimenkullerin bedellerinin ödendiği tarih arasındaki kur farklarının, gayrimenkulün kur bedeline eklenmesinin zorunludur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37920",
+  "source_sha256": "c3070ef4f714eda038665ca135fb58a02f7f1173bb4d922d5e785a61a95c32bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
