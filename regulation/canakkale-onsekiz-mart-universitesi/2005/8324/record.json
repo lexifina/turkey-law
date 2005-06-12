@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 18 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2005-06-12",
+      "12.06.2005",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 18 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25843",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2005-06-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Çanakkale Onsekiz Mart Üniversitesi",
+  "issuer_slug": "canakkale-onsekiz-mart-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/canakkale-onsekiz-mart-universitesi/2005/8324",
+  "published": "2005-06-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=8324&MevzuatTertip=5",
+  "source_bytes": 23000,
+  "source_id": "8.5.8324",
+  "source_sha256": "0df65740b5bafccd7697db3e0fad33d826b5c587973d1b85b16ecf5e0ba38710",
+  "text_status": "as-enacted",
+  "title": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ UZAKTAN ALGILAMA\r\nARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 186,
+  "word_count": 781
+}
