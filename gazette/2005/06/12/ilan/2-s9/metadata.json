@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-12",
+  "issue": "25843",
+  "edition": "regular",
+  "item": 9,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Yargı İlânları Artırma, Eksiltme ve İhale İlânları",
+  "category": "yargi",
+  "category_page": "2",
+  "title": "Manavgat 1. Asliye Ceza Hakimliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050612-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (13 = 13)",
+  "ilan_codes": [
+    "6982/1-1",
+    "6983/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050612-2.htm",
+  "category_page_sha256": "823bbe9f81f7b9e4b9ad376b2a9e7d42d14c3cbe712c4d2cd6b0b5af1f9a3edd",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050612.htm",
+  "index_sha256": "eef452078450dde00e9b5155ff969229bdef9e884e8bfeb4fbff8b0928e05873",
+  "index_header": "12 Haziran 2005 ... Sayı : 25843",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed (court notice)"
+}
