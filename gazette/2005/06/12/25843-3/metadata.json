@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-12",
+  "issue": "25843",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "İlke Kararı",
+  "title": "Kentsel Arkeolojik Sit Alanları Koruma ve Kullanma Koşulları ile İlgili İlke Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050612-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050612.htm",
+  "index_sha256": "eedaeb10a62ad52b8248f21ec7313c4364e9097280accadee914ec4f9bc6ea67",
+  "index_header": "12 Haziran 2005 ... Sayı : 25843",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
