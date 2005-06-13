@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.0.07.0.GEL.0.32/3226-2858",
+  "source_id": 26465,
+  "date": "2005-06-13",
+  "title": "V.U.K'nun 256. maddesi uyarınca Yeminli Mali Müşavirlerin karşıt inceleme yapma yetkileri bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/26465",
+  "source_sha256": "302ba59156a31a035ecb3f864cd0b87d7a25d2bbe0fbada3a049faf765d1562c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
