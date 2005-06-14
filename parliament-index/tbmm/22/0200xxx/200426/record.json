@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 200426,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Şanlıurfa İli Halfeti İlçesinin Karaotlak Köyü Tapulama Alanı Dışına Nakledilen Bölümü ile Argaç, Seldek, Yeşilözen ve Karaotlak Köylerinin Halfeti İlçe Belediyesine Mahalle Olarak Bağlanması Hakkında Kanun Teklifi; Şanlıurfa Milletvekili M. Vedat Melik ile 23 milletvekilinin, Şanlıurfa İli Halfeti İlçesinin Karaotlak Köyü Tapulama Alanı Dışına Nakledilen Bölümü ile Argaç ve Karaotlak Köylerinin Halfeti İlçe Belediyesine Mahalle Olarak Bağlanması Hakkında Kanun Teklifi ve Şanlıurfa Milletvekili Mahmut Kaplan ile 6 milletvekilinin, Şanlıurfa İli Halfeti İlçesinin Karaotlak Köyü Tapulama Alanı Dışına Nakledilen Bölümü ile Argaç, Karaotlak ve Yeşilözen Köylerinin Halfeti İlçe Belediyesine Mahalle Olarak Bağlanması Hakkında Kanun Teklifine ilişkin",
+  "title": "Şanlıurfa İli Halfeti İlçesinin Karaotlak Köyü Tapulama Alanı Dışına Nakledilen Bölümü ile Argaç, Seldek, Yeşilözen ve Karaotlak Köylerinin Halfeti İlçe Belediyesine Mahalle Olarak Bağlanması Hakkında Kanun Teklifi; Şanlıurfa Milletvekili M. Vedat Melik ile 23 milletvekilinin, Şanlıurfa İli Halfeti İlçesinin Karaotlak Köyü Tapulama Alanı Dışına Nakledilen Bölümü ile Argaç ve Karaotlak Köylerinin Halfeti İlçe Belediyesine Mahalle Olarak Bağlanması Hakkında Kanun Teklifi ve Şanlıurfa Milletvekili Mahmut Kaplan ile 6 milletvekilinin, Şanlıurfa İli Halfeti İlçesinin Karaotlak Köyü Tapulama Alanı Dışına Nakledilen Bölümü ile Argaç, Karaotlak ve Yeşilözen Köylerinin Halfeti İlçe Belediyesine Mahalle Olarak Bağlanması Hakkında Kanun Teklifine ilişkin",
+  "first_sitting_date": "2005-06-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 87,
+      "sitting": 111,
+      "sitting_date": "2005-06-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c087/tbmm22087111.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c087/tbmm22087fih.pdf",
+      "pages": [
+        "280:284"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1248&v_gelecek_sayfa=801&v_kullanici_id=27484562",
+  "source_sha256": "4e7e7490e06d4fbe112c0cb263a5b9bc31ee49bb6a9a412bb713c5a9ee6668cf",
+  "in_force": "2005-06-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
