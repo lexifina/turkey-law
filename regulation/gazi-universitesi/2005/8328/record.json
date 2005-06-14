@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 13 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2005-06-14",
+      "14.06.2005",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 13 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25845",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2005-06-14",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gazi Üniversitesi",
+  "issuer_slug": "gazi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gazi-universitesi/2005/8328",
+  "published": "2005-06-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=8328&MevzuatTertip=5",
+  "source_bytes": 23816,
+  "source_id": "8.5.8328",
+  "source_sha256": "81bbad28746b8783a58fef05f78f21cada9c95b6e14ae9550af500cd0c91f5fa",
+  "text_status": "as-enacted",
+  "title": "GAZİ ÜNİVERSİTESİ BİYOMEDİKAL KALİBRASYON VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 195,
+  "word_count": 866
+}
