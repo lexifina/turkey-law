@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5364",
+  "year": 2005,
+  "title": "Şanlıurfa İli Halfeti İlçesi Karaotlak Köyü Tapulama Alanı Dışına Nakledilen Bölümü ile Argaç, Seldek, Yeşilözen ve Karaotlak Köylerinin Halfeti İlçe Belediyesine Mahalle Olarak Bağlanması Hakkında Kanun",
+  "adopted": "2005-06-14",
+  "adopted_as_published": "14/06/2005",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "17.06.2005 No: 25848",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905364.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 89",
+  "committee_reports": [
+    {
+      "label": "TBMM 837 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c087/tbmm22087111ss0837.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 199625,
+      "title": "Şanlıurfa İli Halfeti İlçesi Karaotlak Köyü Tapulama Alanı Dışına Nakledilen Bölümü ile Argaç, Seldek, Yeşilözen ve Karaotlak Köylerinin Halfeti İlçe Belediyesine Mahalle Olarak Bağlanması Hakkında Kanun",
+      "adopted_as_published": "14/06/2005",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905364.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 837 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c087/tbmm22087111ss0837.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 77,
+          "sitting": 67,
+          "sitting_date": "2005-03-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c077/tbmm22077067.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c077/tbmm22077fih.pdf",
+          "pages": [
+            "13"
+          ]
+        },
+        {
+          "cilt": 78,
+          "sitting": 72,
+          "sitting_date": "2005-03-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c078/tbmm22078072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c078/tbmm22078fih.pdf",
+          "pages": [
+            "104"
+          ]
+        },
+        {
+          "cilt": 87,
+          "sitting": 111,
+          "sitting_date": "2005-06-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c087/tbmm22087111.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c087/tbmm22087fih.pdf",
+          "pages": [
+            "280:284"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=501&v_kullanici_id=27483198",
+      "page_sha256": "7ca6fd34cec2c04b442d482dc9b5cfc0c6b038434ea86f61b3ce28aa500942e4"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7ca6fd34cec2c04b442d482dc9b5cfc0c6b038434ea86f61b3ce28aa500942e4",
+  "issuer": "TBMM",
+  "in_force": "2005-06-14",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 14/06/2005; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
