@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.9503",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2005 MALİ YILI BÜTÇE UYGULAMA TALİMATI (SIRA NO: 13) (TEDAVİ YARDIMI)",
+  "number": "9503",
+  "path": "teblig/2005/9503",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9503&MevzuatTertip=5",
+  "source_sha256": "ec3ccb10e19a7b52767643aba4dae140e89b26f56d3729e95651b950197f9561",
+  "source_bytes": 8817,
+  "published": "2005-06-15",
+  "gazette": "25846",
+  "in_force": "2005-06-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.06.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 192,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://rega.basbakanlik.gov.tr/Eskiler/2005/06/20050615-1.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
