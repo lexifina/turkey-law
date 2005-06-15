@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-15",
+  "issue": "25846",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "DÜZELTME (Mustafa Kemal Üniversitesi Önlisans ve Lisans Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik ile İlgili)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050615-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050615.htm",
+  "index_sha256": "c53517fe348e2d947ef940beda28c0d6f672ee3fe50b3153018fe188d133b6d6",
+  "index_header": "15 Haziran 2005 ... Sayı : 25846",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
