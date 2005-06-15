@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4205-336/27651",
+  "source_id": 24221,
+  "date": "2005-06-15",
+  "title": "Daha önce verilen 16.04.2004 tarih ve B.07.4.DEF.4.35.35.30/18/13789 sayılı özelge hakkında....",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24221",
+  "source_sha256": "51451feee4fabe020b7e29c6c0ebbd458cc4ae4e31bfd92225a9d137a18184e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
