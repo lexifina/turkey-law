@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4305-353/25205",
+  "source_id": 24808,
+  "date": "2005-06-16",
+  "title": "Kendi arsası üzerine inşa etmiş olduğu konutu aynı yıl içinde satması dolayısıyla elde etmiş olduğu kazancın, değer artışı kazancı olarak nitelendirilerek vergilendirilmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24808",
+  "source_sha256": "2683b00ebfb258dfd307e76cb2eaee0440ddaf33f96157d8e4f07dd3c9d6980c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
