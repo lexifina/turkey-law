@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-17",
+  "issue": "25848",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Hükümlü ve Tutukluların Ziyaret Edilmeleri Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050617-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050617.htm",
+  "index_sha256": "d064cd63c809c8fd4525b38e6e2dd79299ef3d3b80a62cacc6e7d151227759a0",
+  "index_header": "17 Haziran 2005 ... Sayı : 25848",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
