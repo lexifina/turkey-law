@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5364",
+  "year": 2005,
+  "title": "Şanlıurfa İli Halfeti İlçesi Karaotlak Köyü Tapulama Alanı Dışına Nakledilen Bölümü ile Argaç, Seldek, Yeşilözen ve Karaotlak Köylerinin Halfeti İlçe Belediyesine Mahalle Olarak Bağlanması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-06-17",
+  "gazette_issue": "25848",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050617-1.htm",
+  "source_sha256": "6b7788ad29018a02553b0aa1efdcbc50cac82054ef184b06f91b7fff6560193a",
+  "text_sha256": "697e3933b3f3d3349300387419d3eb2da57c27fc0aa4627b04eed82d1f1cdb4b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/06/17/25848-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050617-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
