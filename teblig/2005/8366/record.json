@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.8366",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 295)",
+  "number": "8366",
+  "path": "teblig/2005/8366",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8366&MevzuatTertip=5",
+  "source_sha256": "55eba75fe682c51c3662097b5a20dfc7791f56c45164c9fc7a6aed5759472c64",
+  "source_bytes": 17090,
+  "published": "2005-06-17",
+  "gazette": "25848",
+  "in_force": "2005-06-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.06.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 486,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
