@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-17",
+  "issue": "25848",
+  "edition": "regular",
+  "item": 10,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Yargı İlânları",
+  "category": "yargi",
+  "category_page": "2",
+  "title": "Samsun 3. Asliye Ceza Hakimliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050617-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (14 = 14)",
+  "ilan_codes": [
+    "7156/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050617-2.htm",
+  "category_page_sha256": "359d0065579fea2e5bc99cd12564b78b4bd8565561ac80fcd60d49f71f6b02d3",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050617.htm",
+  "index_sha256": "cbbe6463057e8ac1cc33d6f3594282f579aaf59fc86b39fe7697d68cfcdba9e7",
+  "index_header": "17 Haziran 2005 ... Sayı : 25848",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed (court notice)"
+}
