@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-18",
+  "issue": "25849",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/8971 Bazı Alanların Mersin Teknoloji Geliştirme Bölgesi Olarak Tespit Edilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050618-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050618.htm",
+  "index_sha256": "87275ea2515bc5fe2ce8786227d661e6ff5b5cc1ad70f96df6ecc64422cdf3a3",
+  "index_header": "18 Haziran 2005 ... Sayı : 25849",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
