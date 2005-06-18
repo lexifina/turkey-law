@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.46/4600-89995/25714",
+  "source_id": 21643,
+  "date": "2005-06-18",
+  "title": "Sakatlık dereceleri itibariyle belirlenen aylık tutarlar, hizmet erbabının ücretinden indirilir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21643",
+  "source_sha256": "146cb9bbd894b0c762090d37707cded813fd9accd5fa691b67b2e2207cb854cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
