@@ -1,0 +1,19 @@
+T.C.
+YÜKSEK SEÇİM KURULU
+Karar No : 286
+İtiraz No :
+- K A R A R -
+Safranbolu İlçe Seçim Kurulu Başkanlığınca Kurulumuz Başkanlığına gönderilen 14.06.2005 günlü, 57 sayılı yazıda; İlçelerine bağlı Cabbar Köyünün Ovacuma Beldesine katılmak üzere yapılan başvuru neticesinde 13.03.2005 tarihinde halkoylaması yapıldığı, bu halkoylamasının halkın bilgisi dışında yapıldığından köy halkının tepki olarak “HAYIR” oyu verdiği için katılımın gerçekleşmediği, ancak köy halkının bu durumdan pişmanlık duyarak kendi aralarında 191 kişilik imza toplayarak, 07.06.2005 tarihinde toplu imza dilekçesi ile Kaymakamlığa başvurarak Ovacuma Beldesine katılmak istediklerini belirttikleri ve bu talebin Valilik Makamının yazıları ilgilendirilerek Kaymakamlıkça 13.06.2005 tarihinde Başkanlıklarına gönderildiği belirtilerek, aynı köyde yeniden halkoylaması yapılıp yapılamayacağına dair Başkanlıklarına bilgi verilmesi istenilmiş olmakla, konu incelenerek;
+GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ:
+5272 sayılı Belediye Kanununun 4. maddesinin 4. fıkrasında; bir veya birden fazla köyün köy ihtiyar meclisinin kararı veya seçmenlerinin en az yarısından bir fazlasının mahallin en büyük mülki amirine yazılı başvurusu ya da valinin kendiliğinden buna gerek görmesi durumunda, valinin bildirimi üzerine, mahalli seçim kurullarının, onbeş gün içinde köyde veya köy kısımlarında kayıtlı seçmenlerin oylarını alacağı ve sonucu bir tutanakla valiliğe bildireceği öngörülmüştür.
+Halkoylaması, oylama yapılacak yerde oturan halkın serbest karar ve isteğinin etki altında kalmaksızın saptanmasını amaçlar. Bu nedenle halkoylamasının yapılması ilçe seçim kurullarına bırakılmıştır.
+Kural olarak, yapılan halkoylaması sonuçları koşullar değişmedikçe geçerliliğini korur ve kendisinden sonraki işlemlerin tamamlanmasına hukuki temel oluşturur.
+Yasa gereği seçim kurullarının üzerine düşen görev, halkoylaması sonucunu alarak ilgili Valiliğe bildirilmesinden ibarettir.
+Karabük İli Safranbolu İlçesine bağlı Cabbar Köyünün Ovacuma Belediyesi sınırları içerisine dahil edilmesi hususunda idari makamca yapılması istenen halkoylaması, (Plebisitte) Seçmenlerin Oylarına Başvurma Usul ve Şartlarına Dair Örnek: 108 sayılı Genelge hükümleri çerçevesinde ve 5272 sayılı Belediye Kanununun 4. ve 8. maddeleri uyarınca İlçe Seçim Kurulu Başkanlığınca 13.03.2005 tarihinde yerine getirilmiş ve nihayete ererek sonuç alınarak ilgili makama iletilmiştir.
+Halkoylaması 13.03.2005 tarihinde yapıldığı halde Valilikçe yeniden halkoylaması istediğinde bulunulmuştur. Yeni istek, koşullar değişmeden ve aradan seçmen sayısı değişimini etkileyecek bir zaman geçmeden çok kısa bir süre sonra yapılmış bulunmaktadır.
+Bu nedenle, halkoylamasının aynı koşulları ve aynı yerleşim birimini ihtiva etmesi, yeni isteğin koşullar değişmeden ve aradan seçmen sayısı değişimini etkileyecek bir zaman geçmeden çok kısa bir süre sonra yapılmış bulunması nedeniyle, köy halkından 191 kişinin talebi üzerine Valilikçe yeniden halkoylaması yapılması isteğinin uygun olmadığına ve 13.03.2005 tarihinde yapılarak sonuç tutanağı Valiliğe verilen halkoylamasının geçerli olduğundan yeniden halkoylaması yapılması talebinin reddine karar verilmelidir.
+S O N U Ç:
+Yukarıda açıklanan nedenlerle;
+1- Halkoylamasının aynı koşulları ve aynı yerleşim birimini ihtiva etmesi, yeni isteğin koşullar değişmeden ve aradan seçmen sayısı değişimini etkileyecek bir zaman geçmeden çok kısa bir süre sonra yapılmış bulunması nedeniyle, köy halkından 191 kişinin talebi üzerine Valilikçe yeniden halkoylaması yapılması isteğinin uygun olmadığına ve 13.03.2005 tarihinde yapılarak sonuç tutanağı Valiliğe verilen halkoylamasının geçerli olduğundan yeniden halkoylaması yapılması talebinin reddine,
+2- Kararın bir örneğinin Safranbolu İlçe Seçim Kurulu Başkanlığına gönderilmesine,
+18.06.2005 tarihinde oybirliği ile karar verildi.
