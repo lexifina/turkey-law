@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.LGİB.07.0.3223-2827",
+  "source_id": 33214,
+  "date": "2005-06-20",
+  "title": "Hangi döneme ait olursa olsun süresinde Tam Tasdik sözleşmesine dayalı olarak talep edilen katma değer vergisi iadesi tutarında herhangi bir sınır belirlenmeksizin işlem yapılması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/33214",
+  "source_sha256": "ab9b0d92f9922e3bb6c5dd5c62652df1bc0ddc61a42d9da34f1bfd25f3a822a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
