@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.40/4010-184/28008",
+  "source_id": 37839,
+  "date": "2005-06-20",
+  "title": "Bağ-Kur primlerinin indirim konusu yapılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37839",
+  "source_sha256": "cf86e1e1404d601f1efba0cd8c0c544a61d99b4f117eef355a63cfdc36a4f9b2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
