@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5",
+  "source_id": 37838,
+  "date": "2005-06-20",
+  "title": "İnşasına başladığınız hizmet üretim yeri niteliğindeki hava limanı inşaatı ile ilgili olarak...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37838",
+  "source_sha256": "512f7ff7cd2907fce726372e0ab458246628f2832c975d5ed54ba2b06b066aa5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
