@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.45/4535-5",
+  "source_id": 21215,
+  "date": "2005-06-20",
+  "title": "Yurtdışındaki yatırımlarda kullaınılmak üzere satın alınan iktisadi kıymetlerin yatırım istisnasından faydalanmasının mümkün olmaması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21215",
+  "source_sha256": "c3d4c2f3473c5f361b725ffc5df3cd437d2395672fb9e8447cc94633a45af369",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
