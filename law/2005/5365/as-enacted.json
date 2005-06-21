@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5365",
+  "year": 2005,
+  "title": "Türk Silahlı Kuvvetleri İç Hizmet Kanunu, Türk Silahlı Kuvvetleri Personel Kanunu, Gülhane Askeri Tıp Akademisi Kanunu ve Milli Savunma Bakanlığı ile Kara, Deniz ve Hava Kuvvetleri Komutanlıklarına Bağlı Kurumlarda Döner Sermaye Teşkili ve İşletilmesine İlişkin Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-06-21",
+  "gazette_issue": "25852",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050621-3.htm",
+  "source_sha256": "7c0d19d2ac00f1ba812dcf552ab7771f3e2af5a5acc262da2f8013f9f2afc569",
+  "text_sha256": "c0b90367a95300a8f96633bc235464dd15a0d4ddd83f73f961d4e44907dbdb91",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/06/21/25852-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050621-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
