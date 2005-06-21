@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-21",
+  "issue": "25852",
+  "edition": "regular",
+  "item": 3,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "Kanunlar",
+  "title": "5365 Türk Silâhlı Kuvvetleri İç Hizmet Kanunu, Türk Silâhlı Kuvvetleri Personel Kanunu, Gülhane Askerî Tıp Akademisi Kanunu ve Millî Savunma Bakanlığı ile Kara, Deniz ve Hava Kuvvetleri Komutanlıklarına Bağlı Kurumlarda Döner Sermaye Teşkili ve İşletilmesine İlişkin Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050621-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050621.htm",
+  "index_sha256": "51ce5cd81e91e3634411af99ec79dc9b4e6f9e894767168368ce2360166fb5c4",
+  "index_header": "21 Haziran 2005 ... Sayı : 25852",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
