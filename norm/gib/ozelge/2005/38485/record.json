@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.0.07.0.GEL.0.32/3223-2858",
+  "source_id": 38485,
+  "date": "2005-06-22",
+  "title": "Katma değer vergisi iadesi talebinde bulunan mükellef ya da mükellefe mal ve hizmet tesliminde bulunan alt mükelleflerin kayıtlarının ve teslimlerinin gerçeği yansıtmadığı, adreslerinde bulunamadığı, sahte veya muhteviyatı itibariyle yanıltıcı belge düzen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38485",
+  "source_sha256": "a7137f69aa6d93a4e5f19ae91765512d40e77fe2c3f57c087e14c47658d09290",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
