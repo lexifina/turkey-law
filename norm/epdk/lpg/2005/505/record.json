@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "505",
+  "decision_date": "2005-06-23",
+  "title": "Gümrük Labaratuvarlarında Sıvılaştırılmış Petrol Gazları (LPG)’ nın Niteliğinin Belirlenmesi İçin Yapılacak İşlem ve Analizler Tablosu (Mülga) Ek : Gümrük Labaratuvarlarında Sıvılaştırılmış Petrol Gazları (Lpg) Nın Niteliğinin Belirlenmesi İçin Yapılacak İşlem Ve Analizler Tablosu",
+  "resmi_gazete_date": "2005-07-11",
+  "resmi_gazete_number": "25872",
+  "categories": [
+    "LPG Piyasası Mülga Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VjptAnpWoyo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VjptAnpWoyo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FCB8VtW0d2Q="
+  ],
+  "source_sha256": "25103d2026c197e5781050c449ae091a8c4f0d3be65254e784e5274a965eb8eb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5102,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-06-23",
+  "law_text_complete": false
+}
