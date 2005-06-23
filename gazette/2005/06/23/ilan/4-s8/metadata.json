@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-23",
+  "issue": "25854",
+  "edition": "regular",
+  "item": 8,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Maliye Bakanlığı Milli Emlak Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050623-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (18 = 18)",
+  "ilan_codes": [
+    "7565/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050623-4.htm",
+  "category_page_sha256": "20b5c4158bbf93b6e00080c3abd60f0789dec645c87f8615df4ed6088169c4ce",
+  "issue_on_category_page": "25847",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/06/20050623.htm",
+  "index_sha256": "a706403db1947980a7a74dd20ec95328ca2b18a8949b7ab2480ad13eaabd1890",
+  "index_header": "23 Haziran 2005 ... Sayı : 25854",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
