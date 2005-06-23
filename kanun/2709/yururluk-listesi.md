@@ -12,3 +12,4 @@ Değiştiren Kanunun Numarası | 2709 sayılı Kanunun değişen maddeleri | Yü
 4720 | 86 | 1/12/2001
 4777 | 76, 78, İşlenemeyen Hükümler | 31/12/2002
 5170 | 10, 15, 17, 30, 38, 87, 87, 90, 131, 143, 160, İşlenemeyen Hüküm | 22/5/2004
+5370 | 133, İşlenemeyen Hüküm | 23/6/2005
