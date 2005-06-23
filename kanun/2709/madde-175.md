@@ -59,3 +59,5 @@ Geçici Madde 1- Türkiye Cumhuriyeti Anayasasının 67 nci maddesinin son fıkr
 Madde 3- Bu Kanun yayımı tarihinde yürürlüğe girer ve halk oylamasına sunulması halinde tümüyle oylanır.
 6- 7/5/2004 tarihli ve 5170 sayılı Kanunun 11 inci Maddesi:
 Madde 11 — Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması halinde tümüyle oylanır.
+7- 21/6/2005 tarihli ve 5370 sayılı Kanunun 2 nci Maddesi:
+Madde 2 — Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması halinde oylanır.
