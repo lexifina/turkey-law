@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-24",
+  "issue": "25855",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "İthalatta Gözetim Uygulanmasına İlişkin 2004/4 Sayılı Tebliğ’in Yürürlükten Kaldırılmasına İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050624-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050624.htm",
+  "index_sha256": "cde14848d52328551f873f096a264db409b06f1d7e3e4a9e97c15a90ba9cc317",
+  "index_header": "24 Haziran 2005 ... Sayı : 25855",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
