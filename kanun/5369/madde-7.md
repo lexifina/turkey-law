@@ -1,0 +1,2 @@
+Evrensel hizmetin net maliyeti
+MADDE 7 — Evrensel hizmetin net maliyeti; yükümlü işletmecinin, hizmetleri evrensel hizmet kapsamında karşılamadığı zaman ile evrensel hizmet yükümlüsü olarak karşıladığı zamanki net maliyetleri arasındaki fark esas alınarak hesaplanır. Ancak, evrensel hizmetin net maliyetinin hesaplanmasında, işletmecilerin evrensel hizmet yükümlüsü olması dolayısıyla elde edeceği faydalar da göz önüne alınarak değerlendirme yapılır. Evrensel hizmet yükümlülüğünün getirdiği ilave maliyet yükünü ortaya çıkaracak bu hesaplama net maliyetler üzerinden yapılır.
