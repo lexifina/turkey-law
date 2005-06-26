@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 10 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2005-06-26",
+      "26.06.2005",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 10 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25857",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2005-06-26",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Anadolu Üniversitesi",
+  "issuer_slug": "anadolu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/anadolu-universitesi/2005/8408",
+  "published": "2005-06-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=8408&MevzuatTertip=5",
+  "source_bytes": 21790,
+  "source_id": "8.5.8408",
+  "source_sha256": "2b4a8e1fdd96c387b3fc79600311a37361a3cb108ae82c9403eb05ed40035495",
+  "text_status": "as-enacted",
+  "title": "ANADOLU ÜNİVERSİTESİ ARKEOLOJİ-SANAT TARİHİ ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 179,
+  "word_count": 557
+}
