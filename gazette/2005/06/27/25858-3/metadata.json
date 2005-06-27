@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-06-27",
+  "issue": "25858",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Muhasebe Uygulama Yönetmeliğine İlişkin 17 Sayılı Tebliğ-Kamuya Açıklanacak Mali Tablolar ile Bunlara İlişkin Açıklama ve Dipnotlar Standardında Değişiklik Yapılmasına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050627-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/06/20050627.htm",
+  "index_sha256": "d42eb1374897fac17c374c88b7d2cd683aaae768f3582b266ff38f026688e9b5",
+  "index_header": "27 Haziran 2005 ... Sayı : 25858",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
