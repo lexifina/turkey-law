@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.54/5401-2350-27293",
+  "source_id": 31073,
+  "date": "2005-06-27",
+  "title": "Yurt dışındaki müşterilere yönelik olarak yabancı internet servis sağlayıcısı firmalarına verilen telekomünikasyon hizmeti , ihracat istisnası kapsamında değerlendirildiğinden katma değer vergisinden istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31073",
+  "source_sha256": "20c98c787602e13f1e7ca93e169d6ab630d41c71db9135cbc777b113fac42283",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
