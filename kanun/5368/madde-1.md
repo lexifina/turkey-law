@@ -1,0 +1,3 @@
+Amaç ve kapsam
+MADDE 1 —Bu Kanunun amacı, kadastro teknik hizmetlerinin yerine getirilmesini sağlayacak lisanslı harita ve kadastro mühendislerinin faaliyet, denetim ve sorumluluklarına ve kuracakları harita ve kadastro bürolarına dair esas ve usûlleri belirlemektir.
+Kadastro teknik hizmetlerinden tescile tâbi olmayan işlemlerin yapım ve kontrolü, tescile tâbi olan işlemlerin yapım sorumluluğu lisanslı harita kadastro mühendislik bürolarınca yerine getirilir. Ancak, kamu kurum ve kuruluşları ile lisans sahibi harita ve kadastro mühendislerinin diğer kanunlar ve ilgili mevzuata göre hak, görev ve yetkileri devam eder.
