@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 204218,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MEHMET NURİ SAYGUN (TEKİRDAĞ)",
+  "summary": "Özürlüler İdaresi Başkanlığı Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun Teklifi; İstanbul Milletvekili Lokman Ayva'nın Özürlüler ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Teklifi ile Cumhuriyet Halk Partisi Grup Başkanvekilleri İstanbul Milletvekili Ali Topuz, İzmir Milletvekili Kemal Anadol, Samsun Milletvekili Haluk Koç ile 46 Milletvekilinin Özürlüler Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında (2/215, 2/424, 2/437)",
+  "title": "Özürlüler İdaresi Başkanlığı Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun Teklifi; İstanbul Milletvekili Lokman Ayva'nın Özürlüler ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Teklifi ile Cumhuriyet Halk Partisi Grup Başkanvekilleri İstanbul Milletvekili Ali Topuz, İzmir Milletvekili Kemal Anadol, Samsun Milletvekili Haluk Koç ile 46 Milletvekilinin Özürlüler Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında (2/215, 2/424, 2/437)",
+  "first_sitting_date": "2005-06-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 90,
+      "sitting": 122,
+      "sitting_date": "2005-06-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c090/tbmm22090122.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c090/tbmm22090fih.pdf",
+      "pages": [
+        "262:303"
+      ]
+    },
+    {
+      "cilt": 90,
+      "sitting": 123,
+      "sitting_date": "2005-07-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c090/tbmm22090123.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c090/tbmm22090fih.pdf",
+      "pages": [
+        "400:418",
+        "589:598"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66ff55d5a0d0d1e0906be9fad02382007df85b0722cee305a515ce66f9372765",
+  "in_force": "2005-06-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
