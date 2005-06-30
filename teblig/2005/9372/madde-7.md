@@ -1,0 +1,2 @@
+Kapsam maddesindeki kuruluşların daha önce yapılandırılan borçları
+Madde 7 — Daha önce başka kanunlara göre yapılmış uzlaşma, vergi barışı gibi uygulamalardan yararlanmış olan kapsam maddesindeki kuruluşlar, bu Tebliğin 2 nci maddesinde belirtilen Kanunlar kapsamına giren borçları için önceki uygulamalardan vazgeçmeleri halinde ilgili alacaklı kamu kurum ve kuruluşlarınca tahakkuk ettirilmiş borçlarını takas, mahsup ve kesinti kapsamında getirebilir.

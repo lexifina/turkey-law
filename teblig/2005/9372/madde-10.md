@@ -1,0 +1,2 @@
+Anaparası ödenmiş borçlar
+Madde 10 — Takas, mahsup ve kesinti konusu borç ve alacaklara ilişkin tutarlardan, yapılan tahsilatlar neticesinde anapara tutarı tamamen ödenmiş ancak bunlara ilişkin gecikme zammı/faizi ve/veya diğer fer’ilerinden henüz tahsil edilmemiş tutarlar Tebliğ ekinde yer alan TEFE katsayısı ile değerlemeye tabi tutulmadan tablolarda "Düşük Olan Değerleme Tutarı" sütununa yazılır.
