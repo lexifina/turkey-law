@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5511-2250/31010",
+  "source_id": 31140,
+  "date": "2005-07-01",
+  "title": "Yurtdışına kargo şirketi aracılığıyla ihracat yapılması halinde kargo şirketi tarafından malın yrtdışına ihracını belgeleyen Sözle Beyan Edilen Esya Listesinin tasdikli suretinin ihracatı tevsik edici belge olarak kabul edilip edilemeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31140",
+  "source_sha256": "db877a07719baee9b553f847ad41d8354385f3d442c04c09e41a1f267fd786ac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
