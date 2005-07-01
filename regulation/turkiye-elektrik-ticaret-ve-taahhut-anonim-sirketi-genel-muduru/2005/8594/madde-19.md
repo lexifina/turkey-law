@@ -1,0 +1,2 @@
+Resmi Daireler ve Kamu İktisadi Teşekküllerine Satış
+Madde 19 — Bu Yönetmelik kapsamına giren malzemelerin; resmi daireler, kamu iktisadi teşekkülleri ve bağlı ortaklıklarına yapılacak satışlarında Genel Müdür Yardımcısının satınalma yetki limitinin %10’unu aşmayan miktarı için bu Yönetmelik hükümleri uygulanmaz. Karşılıklı olarak mutabık kalınan fiyat ve şartlar üzerinden satış gerçekleştirilir. Belirlenen limiti aşan satışlarda bu Yönetmelik hükümleri uygulanır.
