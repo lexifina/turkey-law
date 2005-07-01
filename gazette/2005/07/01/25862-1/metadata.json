@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-01",
+  "issue": "25862",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM Kararı",
+  "title": "855 Türkiye Büyük Millet Meclisi İçtüzüğünde Değişiklik Yapılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050701-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050701.htm",
+  "index_sha256": "5ea759d4f423b92492d593c4c67f970d89bcbae6c826e06536917e1274a0cf57",
+  "index_header": "1 Temmuz 2005 ... Sayı : 25862",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
