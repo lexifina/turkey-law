@@ -1,0 +1,37 @@
+{
+  "number": "2",
+  "date": "2005-07-01",
+  "source_id": 1593,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1593/2005-2.pdf",
+  "source_sha256": "0a815e79c7fe3b74f4f98ca36e283fdd5bfcf78ad9c4e9a6f48a7861e5e7deae",
+  "history": "as-enacted",
+  "words": 885,
+  "in_force_basis": "Official attached YSK decision 2005/320, PDF p. 4, operative conclusion: değişikliğin 01.07.2005 tarihinden itibaren geçerli olmasına",
+  "catalogue_date": "2005-07-15",
+  "source_images": 1,
+  "decorative_images": 1,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "circular_issue_date": "2005-07-15",
+  "attached_decision_numbers": [
+    "320"
+  ],
+  "adoption_dates": [
+    {
+      "page": 4,
+      "date": "2005-07-09",
+      "quote": "09.07.2005 tarihinde oybirliği ile karar verildi"
+    }
+  ],
+  "approval_dates": [],
+  "explicit_effective_dates": [
+    {
+      "page": 4,
+      "date": "2005-07-01",
+      "quote": "değişikliğin 01.07.2005 tarihinden itibaren geçerli olmasına"
+    }
+  ],
+  "date_kind": "explicit-commencement",
+  "in_force_date": "2005-07-01"
+}
