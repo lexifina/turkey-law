@@ -1,0 +1,39 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2005/3",
+  "source_id": 596,
+  "date": "2005-07-02",
+  "title": "TAHSİLAT İÇ GENELGESİ SERİ NO: 2005/3",
+  "source": "https://gib.gov.tr/mevzuat/kanun/442/icgenelge/596",
+  "source_sha256": "0da541c2b1d45851f9813775282281d63e3375c51d9179aff48f862be5193aba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/442/icgenelge/580",
+        "quote": "02/07/2005 tarihli ve B.07.1.GİB.0.38/3802-77/29308 sayılı, 2005/3 Seri No.lu Tahsilat İç Genelgesi. b) "
+      }
+    ]
+  },
+  "unincorporated_annexes": [
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/ammealicgen2005_3ek1.html",
+      "title": "Tablo 2ab",
+      "status": "official-link-only; annex text not included"
+    },
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/ammealicgen2005_3ek2.html",
+      "title": "Tefe Katsayıları Tablosu",
+      "status": "official-link-only; annex text not included"
+    }
+  ]
+}
