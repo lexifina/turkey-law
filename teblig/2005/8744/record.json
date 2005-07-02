@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.8744",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 349)",
+  "number": "8744",
+  "path": "teblig/2005/8744",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8744&MevzuatTertip=5",
+  "source_sha256": "5fca5d582a05ccc148cc0c751b57219a3fb345519f382a60649d29530e3f10d5",
+  "source_bytes": 27003,
+  "published": "2005-07-02",
+  "gazette": "25863",
+  "in_force": "2005-07-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.07.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 391,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
