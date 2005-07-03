@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5394",
+  "year": 2005,
+  "title": "Türkiye İstatistik Kanunu",
+  "adopted": "2005-07-03",
+  "adopted_as_published": "03/07/2005",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "geri gönderme No:",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905394.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 89",
+  "committee_reports": [
+    {
+      "label": "TBMM 890 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c091/tbmm22091125ss0890.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 199655,
+      "title": "Türkiye İstatistik Kanunu",
+      "adopted_as_published": "03/07/2005",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905394.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 890 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c091/tbmm22091125ss0890.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 51,
+          "sitting": 95,
+          "sitting_date": "2004-06-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051fih.pdf",
+          "pages": [
+            "7"
+          ]
+        },
+        {
+          "cilt": 83,
+          "sitting": 96,
+          "sitting_date": "2005-05-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c083/tbmm22083096.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c083/tbmm22083fih.pdf",
+          "pages": [
+            "488"
+          ]
+        },
+        {
+          "cilt": 91,
+          "sitting": 125,
+          "sitting_date": "2005-07-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c091/tbmm22091125.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c091/tbmm22091fih.pdf",
+          "pages": [
+            "164:170"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=601&v_kullanici_id=27483198",
+      "page_sha256": "9b9ebd469310fdd4a7f2f179aedf8244b7a97b8283ad36d307313f753349b324"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9b9ebd469310fdd4a7f2f179aedf8244b7a97b8283ad36d307313f753349b324",
+  "issuer": "TBMM",
+  "in_force": "2005-07-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/07/2005; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
