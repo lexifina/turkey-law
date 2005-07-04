@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4305-393/29575",
+  "source_id": 24807,
+  "date": "2005-07-04",
+  "title": "Gayrimenkulun satışından değer artış kazancının hesaplanmasında evin ve üzerinde oturduğu arsanın edinim tarihinin belirlenmesinde, takas yapılmadan önceki tarihin esas alınması ve iktisap bedelinin bu tarih itibariyle belirlenmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24807",
+  "source_sha256": "b0ad721744d416f5fb37ff2b8560c82193b9953667ac2556a2188dc03ffced78",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
