@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.63/6337-98",
+  "source_id": 38200,
+  "date": "2005-07-04",
+  "title": "Araçların Karayolları Trafik Kanunu ve    Yönetmeliğine göre yapılacak tescil işlemlerinden ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38200",
+  "source_sha256": "f97f7dc2cb53a7d4fad2ae87ba000e829d775cb29302f30e9e8f31aff1ffabac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
