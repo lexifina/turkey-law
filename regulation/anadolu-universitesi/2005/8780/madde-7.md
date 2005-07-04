@@ -1,0 +1,2 @@
+Denetim
+Madde 7 — Bölgede sürekli görev almak isteyen öğretim elemanları görevlendirme ya da izin uzatma başvurularına ayrıntılı bir çalışma planı eklerler. Bu öğretim elemanları izin süresinin sonunda Bölgede yürüttükleri çalışmaya ilişkin bir raporu Rektörlüğe sunarlar. Bu rapora; bölge yönetici şirketinin, yapılan çalışmanın 4691 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (c) bendine uygunluğunu belirten değerlendirmesi de eklenir.

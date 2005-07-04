@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 8 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2005-07-04",
+      "04.07.2005",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 8 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25865",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2005-07-04",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Anadolu Üniversitesi",
+  "issuer_slug": "anadolu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/anadolu-universitesi/2005/8780",
+  "published": "2005-07-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=8780&MevzuatTertip=5",
+  "source_bytes": 21090,
+  "source_id": "8.5.8780",
+  "source_sha256": "f00f1b18166a18c2419a9910cb1166aa6a4149fc270f95889bf9ab3aed7891be",
+  "text_status": "as-enacted",
+  "title": "ANADOLU ÜNİVERSİTESİ ÖĞRETİM ELEMANLARININ TEKNOLOJİ GELİŞTİRME BÖLGELERİNDE GÖREVLENDİRİLME, ŞİRKET KURABİLME, KURULU BİR  ŞİRKETE ORTAK OLABİLME VE/VEYA BU ŞİRKETLERİN YÖNETİMLERİNDE GÖREV ALABİLMELERİNE İLİŞKİN YÖNETMELİK",
+  "university_id": 179,
+  "word_count": 809
+}
