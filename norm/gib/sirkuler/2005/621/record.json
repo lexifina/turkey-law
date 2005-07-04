@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-36/2005-8/ Yatırım İndirimi 6",
+  "source_id": 621,
+  "date": "2005-07-04",
+  "title": "2005 yılı ikinci geçici vergi döneminde uygulanacak yeniden değerleme oranı % 4,97 (yüzde dört virgül doksan yedi) olarak tespit edilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/621",
+  "source_sha256": "b26ccf534b327974a1a76ed19dbdeb5140b0599087a46f95a3669a599b0ae99c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
