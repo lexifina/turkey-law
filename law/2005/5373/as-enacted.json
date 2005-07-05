@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5373",
+  "year": 2005,
+  "title": "Radyo ve Televizyonların Kuruluş ve Yayınları Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-05",
+  "gazette_issue": "25866",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050705-3.htm",
+  "source_sha256": "92da940b59f6e9d375ef9abc6cadc64e7fa71d6bb61b5469bb6d208f8f41a001",
+  "text_sha256": "d954b3e48b3b1a86b00122cd5e38c12c739b2a778941d054c5f5f69a10dedc82",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/05/25866-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050705-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
