@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5371",
+  "year": 2005,
+  "title": "Sağlık Hizmetleri Temel Kanunu, Sağlık Personelinin Tazminat ve Çalışma Esaslarına Dair Kanun, Devlet Memurları Kanunu ve Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanun ile Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-05",
+  "gazette_issue": "25866",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050705-2.htm",
+  "source_sha256": "314afad8aa9ecb74c93b7892f7f28683a755fab1cd64c94535535b9455a2dbdf",
+  "text_sha256": "c3e4eeada2879feba1831d016f40d318201b2657da7ed715db4300ed333c4c81",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/05/25866-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050705-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
