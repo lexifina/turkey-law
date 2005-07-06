@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5374",
+  "year": 2005,
+  "title": "Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu ve Elektrik Piyasası Kanununda Değişiklik Yapılmasına Dair Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-06",
+  "gazette_issue": "25867",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050706-1.htm",
+  "source_sha256": "b19e9ac0ec7d4508bfec0ff5c0d952e9f1e6f0836f4d9ac182abe15137326638",
+  "text_sha256": "c13f47441ed614054f14f373d6740f5c58ce70baf35146330aa48f077ed338c4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/06/25867-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050706-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
