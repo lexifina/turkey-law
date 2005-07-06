@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5380",
+  "year": 2005,
+  "title": "Askerlik Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-06",
+  "gazette_issue": "25867",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050706-3.htm",
+  "source_sha256": "13ee43b8200af566eb3cfb52609ce8b897e5f0e0db83dadc31a7d26838b7f51f",
+  "text_sha256": "ceeec140194236f8de55b1378315fa73787fd50f809535d5206d22bf9c8ebe5a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/06/25867-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050706-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
