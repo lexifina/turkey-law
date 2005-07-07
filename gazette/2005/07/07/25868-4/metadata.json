@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-07",
+  "issue": "25868",
+  "edition": "regular",
+  "item": 4,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "Kanunlar",
+  "title": "5383 Türkiye Cumhuriyeti Hükümeti ile Moğolistan Hükümeti Arasında Türk İşbirliği ve Kalkınma İdaresi Başkanlığı Program Koordinasyon Ofisinin Faaliyetine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050707-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050707.htm",
+  "index_sha256": "a0887e50162d9181a9cb08a294c7cbbb792ae20257ccd726318bbe0980c37d1e",
+  "index_header": "7 Temmuz 2005 ... Sayı : 25868",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
