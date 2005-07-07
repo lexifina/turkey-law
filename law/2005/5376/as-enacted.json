@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5376",
+  "year": 2005,
+  "title": "Türkiye Bilimsel ve Teknik Araştırma Kurumu Kurulması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-07",
+  "gazette_issue": "25868",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050707-1.htm",
+  "source_sha256": "f9805eea76266e4dcc916117feeba4ecf5d6653a0bdbbd09f49cd236c911012c",
+  "text_sha256": "66320121acb1a5e4a57888fd1b5dc1a446f93ab1a93a24a16f0aae1758c0e20a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/07/25868-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050707-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
