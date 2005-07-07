@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5384",
+  "year": 2005,
+  "title": "Avrupa İmar ve Kalkınma Bankasının Kuruluş Anlaşmasında Yapılan Değişikliğin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-07",
+  "gazette_issue": "25868",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050707-5.htm",
+  "source_sha256": "4bf4abb35d9883f551776b1e4c60daac81f6ef780fc74c8d3bb4832342df94bf",
+  "text_sha256": "5c08a6eb18e1b6cee223592e1e4294da44cda185ee686b5d3d6eb5765a9ebb25",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/07/25868-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050707-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
