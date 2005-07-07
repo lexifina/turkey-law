@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-07",
+  "issue": "25868",
+  "edition": "regular",
+  "item": 15,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Türkiye İş Kurumu Kocaeli İl Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/07/20050707-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (17 = 17)",
+  "ilan_codes": [
+    "8102/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/07/20050707-4.htm",
+  "category_page_sha256": "f77b792ce7c141f292fa6b7f5846f62d2ce0a1de2cb188c7537f9478e3e161b8",
+  "issue_on_category_page": "25865",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/07/20050707.htm",
+  "index_sha256": "4945450b2e7bb939f901f48b9b3fa3e298136e641df95c34f96a590d95eca1bf",
+  "index_header": "7 Temmuz 2005 ... Sayı : 25868",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
