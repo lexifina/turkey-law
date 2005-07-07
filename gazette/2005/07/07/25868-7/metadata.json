@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-07",
+  "issue": "25868",
+  "edition": "regular",
+  "item": 7,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM Kararı",
+  "title": "852 Ondokuz Mayıs Üniversitesi’nde Keyfi Yönetim, Kamu Kaynaklarının Amaç Dışı Kullanımı ve Kadrolaşma İddialarının Araştırılarak Alınması Gereken Önlemlerin Belirlenmesi Amacıyla Kurulan Meclis Araştırması Komisyonuna Üye Seçimine İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050707-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050707.htm",
+  "index_sha256": "a0887e50162d9181a9cb08a294c7cbbb792ae20257ccd726318bbe0980c37d1e",
+  "index_header": "7 Temmuz 2005 ... Sayı : 25868",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
