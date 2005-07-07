@@ -5,3 +5,4 @@ _____________________________
 Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Değiştiren Kanun Resmi Gazete Tarihi | Anayasa Mahkemesi Karar Tarih/No. | 5271 sayılı Kanunun değiştirilen maddeleri
 5281 | 23/7/2004 tarihinden itibaren geçerli olmak üzere 31/12/2004 tarihinde | 31/12/2004 |  | 31
 5335 | 27/4/2005 | 27/4/2005 |  | 6, 7, 23, 27, Geçici Madde 3
+5378 | 7/7/2005 | 7/7/2055 |  | Ek Madde 1

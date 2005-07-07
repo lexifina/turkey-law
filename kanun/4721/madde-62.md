@@ -1,4 +1,5 @@
-MADDE 62.- Dernekler, tüzüklerinin gazetede yayımlandığı günü izleyen altı ay içinde ilk genel kurul toplantılarını yapmak ve zorunlu organlarını oluşturmakla yükümlüdürler.
+MADDE 62.- (Değişik: 4/11/2004-5253/38-A md.)
+Dernekler, 60 ıncı maddenin son fıkrası gereğince yapılan yazılı bildirimi izleyen altı ay içinde ilk genel kurul toplantılarını yapmak ve zorunlu organlarını oluşturmakla yükümlüdürler.
 B. Üyelik
 I. Kazanılması
 1. Kural

@@ -1,3 +1,4 @@
+1/7/2005 tarihli ve 5378 sayılı Kanunla değişik
 TÜRK MEDENÎ KANUNU
 Kanun Numarası | : 4721
 Kabul Tarihi | : 22/11/2001

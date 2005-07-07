@@ -1,3 +1,2 @@
-MADDE 61.- Dernek tüzüğü, derneğe yapılan yazılı bildirimden başlayarak onbeş gün içinde yerel bir gazete ile ilân edilir.
-Tüzük ve yerleşim yeri değişikliklerinde de aynı usul uygulanır.
+MADDE 61.- (Mülga: 4/11/2004-5253/38-C md.)
 4. İlk genel kurul toplantısı
