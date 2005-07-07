@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5385",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Başbakanlık Türk İşbirliği ve Kalkınma İdaresi Başbakanlığı (TİKA) ile Moğolistan Maliye ve Ekonomi Bakanlığı Arasında İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-07",
+  "gazette_issue": "25868",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050707-6.htm",
+  "source_sha256": "78bd8d8085491995c50540ceeb9861ff7205e9f35c713547751996b673dc969d",
+  "text_sha256": "6edd1b83ee7d2611cf79fce45393f71b04f18abfecc6358b905d0f65ae27dcfa",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/07/25868-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050707-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
