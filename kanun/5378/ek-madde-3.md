@@ -1,0 +1,1 @@
+EK MADDE 3. — Görme, ortopedik, işitme, dil-konuşma, ses bozukluğu, zihinsel ve ruhsal özürlü çocuklardan özel eğitim değerlendirme kurulları tarafından, özel eğitim ve rehabilitasyon merkezlerine devam etmeleri uygun görülenlerin eğitim giderlerinin, her yıl bütçe uygulama talimatında belirlenen miktarı Milli Eğitim Bakanlığı bütçesine konulacak ödenekten karşılanır.

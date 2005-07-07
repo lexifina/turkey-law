@@ -1,0 +1,2 @@
+MADDE 24 — 1512 sayılı Kanunun 75 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Bir noterlik işleminde imza atılmış veya imza yerine geçen el işareti yapılmış olmasına rağmen, ilgilisi ister veya adına işlem yapılan ve imza atabilen görme özürlüler hariç olmak üzere noter, işlemin niteliği, imzayı atan veya el işaretini yapan şahsın durumu ve kimliği bakımından gerekli görürse, yukarıdaki fıkradaki usûl dairesinde ilgili, tanık, tercüman veya bilirkişinin parmağı da bastırılır. Mühür kullanılması hâlinde parmağın da bastırılması zorunludur.

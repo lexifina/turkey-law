@@ -1,0 +1,1 @@
+MADDE 41 — 26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 122 inci maddesinin birinci fıkrasında geçen "dil, ırk, renk, cinsiyet," ibaresinden sonra gelmek üzere "özürlülük," ibaresi eklenmiştir.

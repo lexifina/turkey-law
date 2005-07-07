@@ -1,0 +1,2 @@
+MADDE 39 — 22.5.2003 tarihli ve 4857 sayılı İş Kanununun 108 inci maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş ve ikinci fıkrasının birinci cümlesi yürürlükten kaldırılmıştır.
+Bu Kanunda öngörülen idari para cezaları, 101 inci maddedeki idari para cezaları hariç, gerekçesi belirtilmek suretiyle Çalışma ve Sosyal Güvenlik Bakanlığı Bölge Müdürünce verilir. 101 inci madde kapsamındaki idari para cezaları ise, doğrudan Türkiye İş Kurumu İl Müdürü tarafından verilir.
