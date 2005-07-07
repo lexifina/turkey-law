@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.4589",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "T.C. EMEKLİ SANDIĞI YOKLAMA YÖNETMELİĞİ",
+  "number": "4589",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1990/4589",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4589&MevzuatTertip=5",
+  "source_sha256": "89502e538df0633079304dc6b5f7cfd0e273b87db749e89b56cf778892227140",
+  "source_bytes": 76079,
+  "published": "1990-09-11",
+  "gazette": "20632",
+  "in_force": "2005-07-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG- 07/07/2005\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2005-07-07",
+      "RG- 07/07/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmî Gazete'de yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1269,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
