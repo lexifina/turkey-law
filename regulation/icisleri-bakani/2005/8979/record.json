@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.8979",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİVİL SAVUNMA HİZMETLERİ İÇİN YAPILAN BAĞIŞ VE YARDIMLARIN ALINMASI VE ÖDENEKLERİN HARCANMASINA İLİŞKİN USUL VE ESASLARA DAİR YÖNETMELİK",
+  "number": "8979",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2005/8979",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8979&MevzuatTertip=5",
+  "source_sha256": "dc70268f83a91b71bd7c48acadad30df6484e3a13d9b91a79a6c4b7bfe19f370",
+  "source_bytes": 16110,
+  "published": "2005-07-07",
+  "gazette": "25868",
+  "in_force": "2005-07-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.07.2005); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 536,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
