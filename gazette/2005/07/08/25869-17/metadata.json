@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-08",
+  "issue": "25869",
+  "edition": "regular",
+  "item": 17,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Endüstriyel Radyografide Radyasyondan Korunma ve Lisanslama Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050708-17.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050708.htm",
+  "index_sha256": "d4e01f27224b43d3f154a804b918a76514e53c4fc9997892d5ff71892891d498",
+  "index_header": "8 Temmuz 2005 ... Sayı : 25869",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
