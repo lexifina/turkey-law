@@ -15,4 +15,6 @@ Göz önünde bulundurarak, işlenen suçun kanunî tanımında öngörülen cez
 (4) Bir suçun temel şekline nazaran daha ağır veya daha az cezayı gerektiren birden fazla nitelikli hâllerin gerçekleşmesi durumunda; temel cezada önce artırma sonra indirme yapılır.
 (5) Yukarıdaki fıkralara göre belirlenen ceza üzerinden sırasıyla teşebbüs, iştirak, zincirleme suç, haksız tahrik, yaş küçüklüğü, akıl hastalığı ve cezada indirim yapılmasını gerektiren şahsî sebeplere ilişkin hükümler ile takdiri indirim nedenleri uygulanarak sonuç ceza belirlenir.
 (6) Hapis cezasının süresi gün, ay ve yıl hesabıyla belirlenir. Bir gün, yirmidört saat; bir ay, otuz gündür. Yıl, resmî takvime göre hesap edilir. Hapis cezası için bir günün, adlî para cezası için bir Türk Lirasının artakalanı hesaba katılmaz ve bu cezalar infaz edilmez.
-(7) Kanunda açıkça yazılmış olmadıkça cezalar ne artırılabilir, ne eksiltilebilir, ne de değiştirilebilir.
+(7) (Ek: 29/6/2005 – 5377/7 md.)Süreli hapis cezasını gerektiren bir suçtan dolayı bu madde hükümlerine göre belirlenen sonuç ceza, otuz yıldan fazla olamaz.
+(8) (Ek: 29/6/2005 – 5377/7 md.) Adlî para cezası hesaplanırken, bu madde hükmüne göre cezanın belirlenmesi ve bireyselleştirilmesine yönelik artırma ve indirimler, gün üzerinden yapılır. Adlî para cezası, belirlenen sonuç gün ile kişinin bir gün karşılığı ödeyebileceği miktarın çarpılması suretiyle bulunur.
+(9) Kanunda açıkça yazılmış olmadıkça cezalar ne artırılabilir, ne eksiltilebilir, ne de değiştirilebilir.(1)
