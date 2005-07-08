@@ -10,4 +10,4 @@ c) Hükmolunan cezanın infazına başlanması hâlinde, verilecek cezanın üç
 a) İdarî yaptırıma karar verilmeden önce etkin pişmanlıkta bulunulması hâlinde, verilecek cezanın yarısı,
 b) İdarî yaptırım uygulandıktan sonra etkin pişmanlıkta bulunulması hâlinde, verilecek cezanın üçte biri,
 İndirilebilir.
-(5) (Değişik: 29/6/2005 – 5377/31 md.) Basın ve yayın yoluyla yapılan iftiradan dolayı etkin pişmanlık hükümlerinden yararlanılabilmesi için, bunun aynı yöntemle yayınlanması gerekir.
+(5) İftira suçunun basın ve yayın yoluyla işlenmesi hâlinde, bu madde hükümleri uygulanmaz.

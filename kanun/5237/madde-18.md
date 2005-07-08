@@ -2,8 +2,6 @@ Geri verme
 MADDE 18. - (1) Yabancı bir ülkede işlenen veya işlendiği iddia edilen bir suç nedeniyle hakkında ceza kovuşturması başlatılan veya mahkûmiyet kararı verilmiş olan bir yabancı, talep üzerine, kovuşturmanın yapılabilmesi veya hükmedilen cezanın infazı amacıyla geri verilebilir. Ancak, geri verme talebine esas teşkil eden fiil;
 a) Türk kanunlarına göre suç değilse,
 b) Düşünce suçu veya siyasî ya da askerî suç niteliğinde ise,
-_______________
-(1) Bu fıkranın numarası (2) iken, maddeye 29/6/2005 tarihli ve 5377 sayılı Kanunun 3 üncü maddesiyle, birinci fıkradan sonra gelmek üzere ikinci fıkra eklendiği için, (3) olarak teselsül ettirilmiştir.
 c) Türkiye Devletinin güvenliğine karşı, Türkiye Devletinin veya bir Türk vatandaşının ya da Türk kanunlarına göre kurulmuş bir tüzel kişinin zararına işlenmişse,
 d) Türkiye'nin yargılama yetkisine giren bir suç ise,
 e) Zamanaşımına veya affa uğramış ise,

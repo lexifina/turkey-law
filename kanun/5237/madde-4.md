@@ -1,3 +1,3 @@
 Kanunun bağlayıcılığı
 MADDE 4. - (1) Ceza kanunlarını bilmemek mazeret sayılmaz.
-(2) (Mülga: 29/6/2005 – 5377/1 md.)
+(2) Ancak sakınamayacağı bir hata nedeniyle kanunu bilmediği için meşru sanarak bir suç işleyen kimse cezaen sorumlu olmaz.

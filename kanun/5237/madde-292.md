@@ -4,4 +4,4 @@ MADDE 292. - (1) Tutukevinden, ceza infaz kurumundan veya gözetimi altında bul
 (3) Bu suçun, silâhlı olarak ya da birden çok tutuklu veya hükümlü tarafından birlikte işlenmesi hâlinde, yukarıdaki fıkralara göre verilecek ceza bir katına kadar artırılır.
 (4) Bu suçun işlenmesi sırasında kasten yaralama suçunun neticesi sebebiyle ağırlaşmış hâllerinin veya kasten öldürme suçunun gerçekleşmesi ya da eşyaya zarar verilmesi durumunda, ayrıca bu suçlara ilişkin hükümlere göre cezaya hükmolunur.
 (5) Bu maddede yazılı hükümler, ceza infaz kurumu dışında çalıştırılan hükümlüler ile hapis cezası adlî para cezasından çevrilmiş olanlar hakkında da uygulanır.
-(6) (Mülga: 29/6/2005 – 5377/33 md.)
+(6) Kısa süreli hapis cezasının özel infaz şekillerinin gereklerine uymayan hükümlü hakkında bir aydan iki aya kadar hapis cezasına hükmolunur; geriye kalan ceza da ayrıca çektirilir.
