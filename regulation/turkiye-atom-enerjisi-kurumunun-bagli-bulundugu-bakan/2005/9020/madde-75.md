@@ -1,0 +1,2 @@
+Paketlenmemiş LSA-I, SCO-I ve veya paketlenmiş ve tek Birleşmiş Milletler numarası taşıyan özel koşullu sevkıyat için plakalama
+Madde 75- Paketlenmemiş LSA-I madde veya SCO-I veya paketlenmiş ve tek Birleşmiş Milletler numarası taşıyan özel koşullu sevkıyatın Birleşmiş Milletler numarası, boyutu 65 mm'den küçük olmamak üzere siyah renkte; Ek-2, Şekil-6’da görülen plakanın alt yarısındaki beyaz kısma veya Ek-2, Şekil-7’de görülen plaka üzerine işaretlenir.

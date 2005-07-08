@@ -1,0 +1,2 @@
+Karayolu ve demir yolu araçlarında plakalama
+Madde 98- Araçta taşınan paketlenmemiş LSA-I madde veya SCO-I veya paketlenmiş ve tek Birleşmiş Milletler numarası taşıyan özel koşullu sevkıyatın Birleşmiş Milletler numaraları, boyutu 65 mm'den küçük olmamak üzere ve siyah renkli olarak karayolu araçlarının dış iki yan yüzü ile arka yüzüne, demiryolu araçlarında ise dış iki yan yüzüne tespit edilmiş olan, Ek-2, Şekil-6’da verilen plakanın alt yarısındaki beyaz kısma veya Ek-2, Şekil-7’de verilen plaka üzerine işaretlenir.

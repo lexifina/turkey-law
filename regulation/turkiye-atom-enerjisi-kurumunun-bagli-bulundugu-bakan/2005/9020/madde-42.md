@@ -1,0 +1,2 @@
+Hasarlı veya sızdıran paketler
+Madde 42- Bir paketin hasar gördüğü ya da sızdırdığı fark edilir veya bundan şüphe edilir ise, paketin yakın çevresine erişim engellenerek, gerekirse göndericiye en kısa sürede bilgi verilir. Söz konusu paket, bu paketin dahil olduğu koli, taşıma kabı ya da taşıma aracı ve temas durumunda olan diğer malzemeler ile yükleme ve indirme alanları bulaşmaya karşı kontrol edilir.

@@ -1,0 +1,2 @@
+B(U) tipi paketin tasarımında termal etki
+Madde 157- Tasarımda güneşin termal etkisi için, B(U) tipi paketin günde 12 saat güneş ışınlarına maruz kaldığı düşünülerek, yatay olarak taşınan ve tüm yüzeyleri düz olan paketin taban yüzeyi hariç 800 W/m2, yatay olarak taşınmayan ve tüm yüzeyleri düz olan paketin taban yüzeyi dahil 200 W/m2 ve yüzeyleri düz olmayan paketin tüm yüzeyleri için 400 W/m2 değerleri kabul edilir.

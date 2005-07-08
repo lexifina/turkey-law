@@ -1,0 +1,2 @@
+Özel uygulamalarda Yönetmelik hükümlerinin yerine getirilemediği durumlar
+Madde 241– Onay başvurusunda diğer bilgilerin yanında, özel uygulamada bu Yönetmelik hükümlerinin yerine getirilmediği durumlar da Kuruma bildirilir. Ayrıca, söz konusu taşımada bu Yönetmelik hükümlerinin tam olarak yerine getirilememesinin sebepleri ayrıntılı şekilde açıklanır. Taşıma sırasında alınacak özel önlemler ve kontrollar belirtilir.

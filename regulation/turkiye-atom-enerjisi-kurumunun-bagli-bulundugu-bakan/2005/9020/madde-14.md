@@ -1,0 +1,2 @@
+Kalite temini
+Madde 14– Kurum tarafından, ulusal, uluslararası veya kabul edilmiş diğer standartlar çerçevesinde düşük oranda dağılabilir radyoaktif madde, özel hazırlanmış radyoaktif madde ve tüm paket sınıfları için tasarım, imalat, test, kontrol belgeleme, kullanma, bakım, ile ilgili kalite temini aranır. Paketlerin onaylanmış tasarım özelliklerine sahip olup olmadıkları Kurum tarafından kontrol edilir. Olabilecek tamir ve bakımlardan sonra da tasarım özeliklerinin sağlanıp sağlanmadığı kontrol edilir.

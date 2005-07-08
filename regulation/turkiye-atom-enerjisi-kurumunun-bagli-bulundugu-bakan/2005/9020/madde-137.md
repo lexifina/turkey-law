@@ -1,0 +1,2 @@
+Uranyum hekzaflorür taşıyan paketlerin tasarımı
+Madde 137– 0.1 kg ve daha fazla uranyum hekzaflorür içeren paketler, 202 nci maddede belirtilen ve ISO 7195 standardına ait yapısal test koşulları uygulandığında sızdırma yapmayacak ve kabul edilemez şekilde zorlanmayacak ve 206 ncı maddede belirtilen test koşulları uygulandığında içeriğinde azalma veya dağılma olmayacak ve 212 nci maddede belirtilen test koşulları uygulandığında mahfaza sisteminde yırtılma meydana gelmeyecek şekilde tasarlanır.

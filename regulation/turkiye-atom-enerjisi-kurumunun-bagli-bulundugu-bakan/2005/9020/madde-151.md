@@ -1,0 +1,2 @@
+Sıvı radyoaktif madde taşıyan A tipi paket tasarımı
+Madde 151– Paket, 203 ila 208 inci maddelerde belirtilen test koşulları uygulandığında içeriğinde azalma veya dağılma olmayacak ve zırhlama bütünlüğünde meydana gelebilecek bozulma paketin herhangi bir dış yüzeyindeki radyasyon seviyesini %20’den fazla arttırmayacak şekilde tasarlanır. Sıvı radyoaktif madde taşıyan A tipi paket tasarımında sıcaklık değişimleri ve diğer etkileyici faktörlere karşı taşma payı göz önüne alınır.

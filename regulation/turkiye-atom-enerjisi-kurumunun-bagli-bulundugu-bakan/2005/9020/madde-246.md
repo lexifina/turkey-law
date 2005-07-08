@@ -1,0 +1,21 @@
+Özel uygulama onay sertifikaları
+Madde 246- Kurum tarafından verilecek her sertifikada aşağıdaki bilgiler yer alır:
+a) Sertifika cinsi,
+b) Kurum onay kodu,
+c) Bu yönetmelik dahil olmak üzere uygulanabilir diğer ulusal ve uluslararası mevzuatın listesi,
+d) Taşıma yolları,
+e) Olabilecek taşıma kısıtlamaları ile yerleştirme, araç, taşıma kabı ve güzergah bilgileri,
+f) “Bu sertifika göndericiyi radyoaktif maddeyi transit geçirdiği veya götürdüğü ülkenin uygulanabilir yasalarına karşı sorumsuz kılmaz.” ibaresi,
+g) Kurumun uygun gördüğü diğer yetkili kurumların ilgili sertifikalarına yapılmış referanslar ve tamamlayıcı teknik veri veya bilgi,
+h) Tasarıma ait teknik çizimlere referans, gerek görülürse 21 x 30 cm ebadında çizim, paket imalat malzemesi ile paketin dış boyutları ile ilgili kısa bilgi,
+i) Aktivite ve fiziksel ve kimyasal özellikler ile ilgili bilgi, bölünebilir madde için g cinsinden kütlesi,
+j) Bölünebilir madde için ek olarak bölünebilir madde ile ilgili detaylı bilgi, CSI, kritiklik güvenliğini gösterir belgelere referans, boşluklara su sızıntısını önleyen tasarım özellikleri, ışınlanmış yakıt çubukları için nötron çoğalımında meydana gelebilecek değişiklikler için izin, taşıma süresinde beklenen ortam sıcaklıklarına uygunluğu,
+k) Taşıma sırasında tamamlayıcı olarak kargo koşulları ve güvenli ısı yayılması ile ilgili kontrollar,
+l) Özel uygulama ile ilgili ve zorunlu ölçümler,
+m) Sevkıyattan önce yapılması gerekenleri açıklayan bilgiye referans,
+n) Tasarım ile ilgili uygulanabilir koşullardan hangilerinin yerine getirilmediğini belirtir açıklama,
+o) Kurum tarafından alınması öngörülen önlemleri içeren acil durum planı,
+p) Uygulanan kalite temini programı,
+q) Gerektiğinde taşıyıcı ile ilgili bilgiler,
+r) Geçerlilik başlangıç ve bitiş tarihleri,
+s) Sertifikayı veren uzmanın kimliği ve imzası.

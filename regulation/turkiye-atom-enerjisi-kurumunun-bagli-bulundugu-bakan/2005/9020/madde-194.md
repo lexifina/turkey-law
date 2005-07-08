@@ -1,0 +1,2 @@
+Kapsül içinde bulunan kapalı radyoaktif madde veya bunu temsil eden örnek için alternatif test
+Madde 194– Kapsül içinde bulunan kapalı radyoaktif madde veya bunu temsil eden örnek, alternatif olarak ISO 2919 “Sealed Radioactive Sources-Classification” standardında belirtilen çarpma testi ve yine aynı standartda belirtilen sıcaklık testi uygulanan ve kütlesi 200 g’dan küçük özel hazırlanmış radyoaktif madde olmak üzere 190 ile 191 inci maddede belirtilen testler uygulanmaz.

@@ -1,0 +1,2 @@
+Uluslararası Atom Enerjisi Ajansının TS-R-1 rumuzlu 1996 basımı Yönetmelik koşullarına uygunluk
+Madde 243- Uluslararası Atom Enerjisi Ajansı’nın TS-R-1 rumuzlu 1996 basımı Yönetmelik koşullarını yerine getirerek tasarlanan paketlerde tip kodu kısmında “96” sayısı yer alır. Buna göre TR/132/B(M) F-96 onay kodunu taşıyan bir paketin, Türkiye Atom Enerjisi Kurumundan bölünebilir madde taşımak için Uluslararası Atom Enerjisi Ajansının TS-R-1 rumuzlu 1996 basımı Yönetmelik koşullarını yerine getirerek B(M) tipi paket tasarım onayı aldığı anlaşılır.

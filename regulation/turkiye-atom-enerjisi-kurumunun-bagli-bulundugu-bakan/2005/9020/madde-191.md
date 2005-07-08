@@ -1,0 +1,2 @@
+Özel hazırlanmış radyoaktif madde için vurma testi
+Madde 191–Örnek, düzgün yüzeyli kurşun plaka üzerine yerleştirilir ve 1.4 kg ağırlığında ve alt ucu 25 mm çapında ve kenarları (3,0±0,3) mm yarıçapında yuvarlatılmış çubukla 1 m yüksekten serbest düşmeye eşdeğer olacak şekilde örneğe vurulur. Kurşun plaka, Vickers ölçeğine göre 3,5-4,5 sertliğinde, 2,5 mm’den fazla kalınlıkta olmayan, örneğin kapladığı alandan daha fazlasını kaplayacak büyüklüktedir.Her testte yeni bir kurşun uç kullanılır. Çubuk örneğe en fazla zarar verecek şekilde vurulur.

@@ -1,0 +1,2 @@
+Deniz yolu ile özel uygulamalı taşıma
+Madde 102- Taşıma, sadece radyoaktif maddenin taşınmasına tahsis edilmiş bir gemi ile yapılıyorsa ve geminin bandırasını taşıdığı ülkenin yetkili kurumu tarafından onaylanmış bir radyasyondan korunma programı mevcut ve ayrıca, birden fazla limanda yükleme, yerleştirme, indirme işlemini yürüten uzman personeli varsa, Ek-1, Tablo-8’deki TI değerleri ile normal koşullarda uygulanan ve bir taşıma aracının üzerindeki 2 mSv/h ve araca 2 m mesafedeki 0.1 mSv/h radyasyon seviyesi sınırları dikkate alınmaz.

@@ -1,0 +1,2 @@
+Havayolu ile taşınacak bölünebilir madde taşıyan pakette kritikaltı durumu
+Madde 183- Havayolu ile taşınacak paket içine sızıntı olmadığı kabul edilerek 20 cm’lik yansıtıcı su tabakasının bulunduğu durum için 218 inci maddede belirtilen koşullarda kritikaltı durum sürer. Ayrıca, sırasıyla 217 ile 218 inci maddelerde belirtilen testlerde su sızıntısının olmadığı gösterilmedikçe 180 inci maddede bahsedilen tasarım özelliklerine izin verilmez.

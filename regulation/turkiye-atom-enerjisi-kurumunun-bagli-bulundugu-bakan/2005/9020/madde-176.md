@@ -1,0 +1,2 @@
+Bölünebilir madde taşıyan paketin içerik özellikleri
+Madde 176– Fiziksel ve kimyasal durum, izotop dağılımı, kütle veya yoğunluk, yavaşlatma oranı veya geometrik düzen açısından bilinmeyen durumlarda, 180 ila 185 inci maddelerde belirtilen değerlendirmeler, bilinmeyen her parametrenin maksimum nötron çoğalımını meydana getirdiği değerinin bu değerlendirmelerde bilinen durum ve parametrelerle uyumluluk gösterdiği kabul edilerek yapılır.

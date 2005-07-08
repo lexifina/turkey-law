@@ -1,0 +1,2 @@
+Radyoaktif maddenin tehlikeli madde özelliği taşıması
+Madde 39- Taşınacak radyoaktif ya da bölünebilir madde patlayıcı, yanıcı, kimyasal zehirleyici veya aşındırıcı gibi özelliklere de sahip ise, bu gibi maddelerin paketlenmesi, etiketlenmesi, işaretlenmesi, plakalanması ve bekletilmesinde, bu Yönetmelik hükümleri ile birlikte geçiş yaptığı ve gönderildiği ülkelerin ve hava, deniz, kara ve diğer taşıma yolları ile ilgili düzenleyici uluslararası kuruluşların tehlikeli madde ile ilgili taşıma mevzuatına da uyulur.

@@ -1,0 +1,2 @@
+Uranyum hekzaflorür taşımak için tasarlanmış tüm paketler için test
+Madde 202– 0.1 kg veya daha fazla uranyum hekzaflorür taşımak için tasarlanmış paket veya bunu temsil eden örnek, en az 1.38 MPa iç basınçta hidrolik teste tabi tutulur. Ancak, test basıncı 2.76 MPa seviyesinden düşük ise veya paket yeniden eşdeğer bir tahribatsız teste tabi tutulacak ise paket tasarımı çok taraflı onay gerektirir.

@@ -1,0 +1,2 @@
+Sıvı radyoaktif madde taşıyan A tipi paket için koşullar
+Madde 152– Sıvı radyoaktif madde taşıyan A tipi paketler ayrıca, 209 uncu maddede belirtilen test koşulları uygulandığında sızıntıya karşı paket içeriğinin hacminin yaklaşık iki katı soğurma yapabilecek ve sızıntı olması halinde sıvı ile temas edecek şekilde yerleştirilmiş soğurucu malzeme veya sıvının toplanmasına olanak verecek dış haznesi olan bir mahfaza sistemine sahip olur.

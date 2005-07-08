@@ -1,0 +1,2 @@
+B(U) tipi paketin dış yüzeyinde bulunan bileşenlerin tasarımı
+Madde 158– 212 nci maddede belirtilen ısı testi koşullarını yerine getiren B(U) tipi paketin ısıl koruma özelliğinin 203 ila 208 inci maddelere ve uygulanabilirlik durumuna göre, 211 inci maddenin (a) ve (b) bentleri ya da (b) ve (c) bentlerinde belirtilen test koşullarında da devam etmesi beklenir ve bu tür koruma sağlayan ve paketin dış yüzeyinde bulunan bileşenler, taşıma sırasında meydana gelebilecek sürtünme, kayma, kopma ve diğer olumsuz etkilere karşı dayanıklı olacak şekilde tasarlanır.

@@ -1,0 +1,5 @@
+A tipi paket için ısı testi
+Madde 212–Örnek, 157 inci maddede belirtildiği şekilde termal güneş etkisi ile tasarımın elverdiği ve paket içeriğinden yayılan en yüksek dahili ısı etkisi göz önüne alınarak 38ºC’deki ortam sıcaklığı ile ısıl dengede olacak şekilde ısı testine tabi tutulur. Test aşağıdaki şekilde uygulanır:
+a) Örnek, en az 800ºC’de ve 30 dakika boyunca en küçük ortalama alev yayılma katsayısı 0.9 ve yüzey soğurma katsayısı 0.8 olacak şekilde ve ısı akısı sıvı petrol gaza veya sıvı doğal gaza eşdeğer yangın koşullarına maruz bırakılır.
+b) Örnek, 38ºC’deki ortam sıcaklığında 157 nci maddede belirtildiği şekilde termal güneş etkisi ve tasarımın elverdiği ve paket içeriğinden yayılan en yüksek dahili ısı etkisine maruz bırakılarak, örnekteki tüm bölgelerde sıcaklık dağılımının başlangıçtaki kararlı duruma ulaşması için geçecek süre beklenir.
+Test sırasında ve testten sonra örnekteki tutuşabilir kısımlara ve soğutmak amacıyla örneğe müdahale edilmez. Testten önce veya test sırasında göz önüne alınan değerlerde olabilecek farklılıklar test sonuçlarına göre değerlendirilerek uygun şekilde düzeltilir.

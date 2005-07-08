@@ -1,0 +1,3 @@
+Kara ve demiryolu ile taşımada ek koşullar
+Madde 97- Ek-2, Şekil-2, Şekil-3, Şekil-4 veya Şekil-5’de verilen etiketlerden herhangi biri ile etiketlenmiş olan paket, koli veya taşıma kaplarını taşıyan demiryolu ve karayolu taşıtları veya koşullu taşıma altındaki taşıma araçları Şekil-6’de verilen plaka ile demiryolu araçlarında dış iki yan yüzüne, karayolu araçlarının dış iki yan yüzü ile arka yüzüne yerleştirilerek işaretlenir.
+Araç kapalı değil ise, plakalar kargo taşınan bölüm üzerine görünür biçimde takılır. Açık araçta büyük taşıma kabı ya da tank taşınıyor ise bunların dış yüzeylerindeki plakalar yeterlidir. Plakanın takılacağı yeri yeterli olmayan araca Ek-2, Şekil-6’da tanımlanan plaka boyutları 100 mm’ye kadar küçültülerek takılır.

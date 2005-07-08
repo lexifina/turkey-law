@@ -1,0 +1,2 @@
+B (M) tipi paket için koşullar
+Madde 167– B(M) tipi paketler B(U) tipi paketler için koşullara uygun olarak tasarlanır. Bu tip paketler sadece belirli bir ülke içinde veya belirli ülkeler arasında taşınacak ise ilgili ülkelerin yetkili kurumlarının onaylarında 143 üncü madde, 155 inci maddenin (a) bendi, 157 nci madde ve 160 ila 166 ncı maddelerde belirtilenlerden farklı koşulların sağlandığı gösterilebilir. Ancak, 160 ila 166 ncı maddelerde belirtilen koşullar uygulanabildiği kadar yerine getirilir.

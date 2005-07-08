@@ -1,0 +1,4 @@
+C tipi paket için delme testi
+Madde 219– Örneğe yumuşak çelikten mamul sivri cisim ile hasar verilir. Hasarın maksimum olması için önce 211 inci maddenin (a) ve (c) bendleri ile 219 ile 220 nci maddelerde belirtilen testler uygulanır.
+a) Paketi temsil eden ve kütlesi 250 kg’dan az olan örnek, 201 inci maddede belirtilen zemin üzerine yerleştirilir ve üzerine 20 cm çapında, çarpma ucu 30 cm uzunluğunda ve tepesi 2.5 cm çapında kesik koni şeklinde hazırlanmış 250 kg ağırlığındaki silindir kütle 3 m yükseklikten düşürülür.
+b) Kütlesi 250 kg’dan büyük olan paketler için ise, silindir kütle 201 inci maddede belirtilen zemin üzerine yerleştirilir ve örnek 3 m yükseklikten bunun üzerine düşürülür. Bu testte kullanılan silindir kütlenin özellikleri önceki testte kullanılan ile aynı olmakla beraber, boyu ve kütlesi pakette maksimum hasarı meydana getirmek için farklılık gösterebilir.

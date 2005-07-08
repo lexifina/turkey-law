@@ -1,0 +1,20 @@
+Paket tasarım onay sertifikası
+Madde 248- Kurum tarafından verilen paket tasarım onay sertifikasında aşağıdaki bilgiler yer alır:
+a) Sertifika cinsi,
+b) Kurum onay kodu,
+c) Varsa taşıma yollarında kısıtlama,
+d) Bu Yönetmelik dahil olmak üzere uygulanabilir diğer ulusal ve uluslararası mevzuatın listesi,
+e) “Bu sertifika göndericiyi radyoaktif maddeyi transit geçirdiği veya götürdüğü ülkenin uygulanabilir yasalarına karşı sorumsuz kılmaz.” ibaresi,
+f) Kurumun uygun gördüğü diğer yetkili kurumların ilgili sertifikalarına yapılmış referanslar ve tamamlayıcı teknik veri veya bilgi,
+g) Taşıma onayı gerektiren durumlarda 236 ncı maddeye uygun hareket edildiğini gösteren açıklama,
+h) Tasarıma ait teknik çizimlere referans, gerek görülürse 21 x 30 cm ebadında çizim, paket imalat malzemesi ile paketin dış boyutları,
+i) Paket içeriğinin fiziksel ve kimyasal durumu, toplam aktivitesi, varsa içerdiği farklı izotoplar, g cinsinden bölünebilir madde kütlesi,
+j) Bölünebilir madde için ayrıca ayrıntılı içerik bilgisi, CSI, kritiklik güvenliğini belirten belgelere referans, boşluklara su sızıntısını önleyen tasarım özellikleri, ışınlanmış yakıt çubukları için nötron çoğalımında meydana gelebilecek değişiklikler için izin, taşıma süresinde beklenen ortam sıcaklıklarına uygunluğu,
+k) B(M) tipi paketler için yönetmeliğin uygulanabilir koşullarından yerine getirilmeyenlerin listesi ve bu bilginin ilgili yetkili kurumlara da ulaşmasını sağlamak için kopyaları,
+l) Taşıma sırasında tamamlayıcı olarak kargo koşulları ve güvenli ısı yayılması ile ilgili kontroller,
+m) Sevkıyattan önce yapılması gerekenleri açıklayan bilgiye referans,
+n) Tasarımda ortam koşulları ile ilgili hükümlerden yerine getirilmeyen varsa bunların listesi,
+o) Uygulanan kalite temini programı,
+p) Kurum gerek görürse başvuru sahibi ile ilgili kimlik bilgileri,
+q) Sertifikayı veren uzmanın kimliği ve imzası,
+r) Geçerlilik başlangıç ve bitiş tarihleri.

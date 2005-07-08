@@ -1,0 +1,2 @@
+Özel hazırlanmış radyoaktif madde için koşullar
+Madde 112– Özel hazırlanmış radyoaktif madde, 189 ila 196 ncı maddelerde belirtilen koşullarda 190, 191, 192 ile 194 üncü maddelerde belirtilen testler sonucunda çatlama veya kırılma, 193 ve 194 üncü maddelerde belirtilen testler sonucunda erime veya dağılma ya da 195 ve 196 ncı maddelerde belirtilen testlerde çözünme dolayısı ile suda 2 kBq’den daha yüksek aktivite değeri tespit edilmeyen veya ISO 9978 sızıntı testi yöntemleri standardında belirtilen sızıntı değerlerini geçmeyecek şekilde imal edilir.

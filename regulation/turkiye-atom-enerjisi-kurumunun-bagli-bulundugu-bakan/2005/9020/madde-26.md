@@ -1,0 +1,2 @@
+Endüstriyel paketler Tip 1, Tip 2 ve Tip 3
+Madde 26- Endüstriyel paket: LSA madde veya SCO taşıyan pakettir. Endüstriyel paket; Endüstriyel tip 1 (IP-1), endüstriyel tip 2 (IP-2), endüstriyel tip 3 (IP-3) olmak üzere üçe ayrılır. LSA madde ve SCO taşınmasında radyoaktivite sınırları ve bu maddeler için endüstriyel paket tipleri Ek-1, Tablo-4 ve Tablo-5'de verilmiştir. Yanıcı olmayan katı LSA-II ve LSA-III taşıyan paket havayolu ile gönderildiğinde, radyoaktivite değeri 3000 A2 değerini aşamaz.

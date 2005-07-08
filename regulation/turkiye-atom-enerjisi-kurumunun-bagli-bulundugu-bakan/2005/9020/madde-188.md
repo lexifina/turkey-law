@@ -1,0 +1,2 @@
+LSA-III için test
+Madde 188– Tüm paket içeriğini temsil eden katı haldeki örnek normal sıcaklıkta 7 gün süresince su içinde bekletilir. Testte kullanılacak suyun hacmi, test sonunda soğurulmamış ve reaksiyona girmemiş olarak örnek hacminin en az %10’u kalacak yeterlilikte olmalıdır. Suyun başlangıç pH değeri 6-8 arasında, iletkenliği 20ºC’de 1 mS/m olacak şekilde hazırlanır. Test sona erdikten sonra serbest kalan suyun radyoaktivitesi ölçülür.

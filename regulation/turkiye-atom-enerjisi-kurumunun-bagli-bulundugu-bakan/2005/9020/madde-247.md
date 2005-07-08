@@ -1,0 +1,15 @@
+Taşıma onay sertifikası
+Madde 247- Kurum tarafından verilen her taşıma onay sertifikasında aşağıdaki bilgiler yer alır:
+a) Sertifika cinsi,
+b) Kurum onay kodu,
+c) Bu Yönetmelik dahil olmak üzere uygulanabilir diğer ulusal ve uluslararası mevzuatın listesi,
+d) Olabilecek taşıma kısıtlamaları ile yerleştirme, araç, taşıma kabı ve güzergah bilgileri,
+e) “Bu sertifika göndericiyi radyoaktif maddeyi transit geçirdiği veya götürdüğü ülkenin uygulanabilir yasalarına karşı sorumsuz kılmaz.” ibaresi,
+f) Taşıma sırasında tamamlayıcı olarak kargo koşulları ve güvenli ısı yayılması ile ilgili kontroller,
+g) Sevkıyattan önce yapılması gerekenleri açıklayan bilgiye referans,
+h) Uygulanabilir tasarım onay sertifikalarına referans,
+i) Paket içeriğinin fiziksel ve kimyasal durumu toplam aktivitesi varsa içerdiği farklı izotoplar, g cinsinden bölünebilir madde kütlesi,
+j) Kurum tarafından alınması öngörülen önlemleri içeren acil durum planı,
+k) Uygulanan kalite temini programı,
+l) Sertifikayı veren uzmanın kimliği ve imzası,
+m) Geçerlilik başlangıç ve bitiş tarihleri,

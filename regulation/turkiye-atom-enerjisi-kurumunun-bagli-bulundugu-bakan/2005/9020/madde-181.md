@@ -1,0 +1,2 @@
+Bölünebilir madde taşıyan pakette yansıtıcı su tabakası
+Madde 181– Bölünebilir madde mahfazasının en az 20 cm kalınlığında yoğun su tabakası ile yansıtıldığı veya aynı oranda yansımayı ek olarak sağlayacak malzemenin paketi çevreleyecek şekilde kullanıldığı kabul edilir. Ancak, 185 inci maddenin (b) bendinde belirtilen test sonunda mahfaza paket içindeki konumunu devam ettiriyorsa yansıtıcı olarak 20 cm su tabakası koşulu yeterli kabul edilir.
