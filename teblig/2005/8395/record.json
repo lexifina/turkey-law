@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8395",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2005/3)",
+  "number": "8395",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2005/8395",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8395&MevzuatTertip=5",
+  "source_sha256": "56aad83993bf07883520fcc5fa33ffc64d1c50a38c0004a39d64efd07e7403ee",
+  "source_bytes": 114802,
+  "published": "2005-06-24",
+  "gazette": "25855",
+  "in_force": "2005-07-08",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 8/7/2005 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 8/7/2005 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1099,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
