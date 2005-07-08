@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-08",
+  "issue": "25869",
+  "edition": "regular",
+  "item": 10,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Ulaştırma Bakanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/07/20050708-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (36 = 36)",
+  "ilan_codes": [
+    "7918/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/07/20050708-4.htm",
+  "category_page_sha256": "f839beeb1f0299eaed81be63b27f334be3cb62b1abca5b25e17f97a6d91dd462",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/07/20050708.htm",
+  "index_sha256": "a78f759616c95cb704aeb6875955a18ec30eb81171619c4f99f8046599ca9164",
+  "index_header": "8 Temmuz 2005 ... Sayı : 25869",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
