@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5386",
+  "year": 2005,
+  "title": "Sosyal Sigortalar Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-09",
+  "gazette_issue": "25870",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050709-1.htm",
+  "source_sha256": "04073dc98d211745962ac46c14d4312ea26de1fd4c71796426df91bbe7618e67",
+  "text_sha256": "0bd79e8bdd50b365d33333bd620069a879a92ab6669a44a88da0fa94954988d7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/09/25870-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050709-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
