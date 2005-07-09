@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2005/322",
+  "list_number": "322",
+  "decision_date": "2005-07-09",
+  "title": "YSK ilke kararı 2005/322",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3636/2005-322-karar.htm",
+  "source_sha256": "3bef942c1067aaddefbc44fec409b998da04bce69176a0ba4f9cd3b822a4277c",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2005-07-09",
+  "law_text_complete": false
+}
