@@ -1,0 +1,965 @@
+Yönetmelik
+İçişleri
+Bakanlığından:
+Kimlik Paylaşımı Sistemi Uygulama Yönetmeliği
+BİRİNCİ
+BÖLÜM
+Amaç, Kapsam, Dayanak ve
+Tanımlar
+Amaç
+Madde 1 —
+Bu Yönetmeliğin amacı, Kimlik Paylaşımı Sistemi veri tabanındaki bilgilerin kamu
+kurum ve kuruluşları ile kamu hizmeti veren kurumlarca elektronik ortamda
+paylaşılmasını düzenlemektir.
+Kapsam
+Madde 2 —
+Bu Yönetmelik, MERNİS veri tabanında yer alan bilgilerin oluşturulacak Kimlik
+Paylaşımı Sistemi veri tabanı üzerinden kamu kurum ve kuruluşları ile kamu
+hizmeti veren kurumların paylaşımına
+açılması ve bu sistem üzerinden verilebilecek hizmetlere ilişkin usul
+ve esasları kapsar.
+Dayanak
+Madde 3 —
+Bu Yönetmelik 5/5/1972 tarihli ve 1587 sayılı Nüfus Kanununun 14, 61 ve Ek 6
+ncı maddelerine dayanılarak
+hazırlanmıştır.
+Tanımlar
+Madde 4 — Bu
+Yönetmelikte geçen;
+Bakanlık:
+İçişleri Bakanlığını,
+Genel
+Müdürlük: Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünü,
+MERNİS:
+Merkezi Nüfus İdaresi Sistemini,
+MERNİS
+Veri Tabanı: Merkezi Nüfus İdaresi Sisteminde tutulan bilgilerin bulunduğu veri tabanını,
+Sistem:
+Kimlik Paylaşımı Sistemini,
+Sistem
+Veri Tabanı: Kimlik Paylaşımı Sisteminde paylaşıma açılan bilgilerin
+tutulduğu veri tabanını,
+Kimlik
+Numarası: Türkiye Cumhuriyeti kimlik numarasını,
+Döner
+Sermaye İşletmesi: Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü Döner Sermaye
+İşletmesini,
+Alıcı
+Kurum: Kimlik Paylaşımı Sisteminde paylaşıma açılacak bilgilerden yararlanan
+kamu kurum ve kuruluşları ile kamu hizmeti veren kurumları,
+ifade
+eder.
+İKİNCİ BÖLÜM
+Sistemin Çalışma Esasları
+Sistem veri tabanı
+Madde 5 —
+Sistem veri tabanındaki veriler; Türk vatandaşlığının ispatında ve
+belgelendirilmesinde esas olduğu kadar kişinin kimliği, medenî hali ve aile
+bağlarının belirlenmesinde de temel resmî bilgilerdir. Bu veriler aksi sabit
+oluncaya kadar geçerlidir.
+Kamu kurum ve kuruluşları ile kamu hizmeti veren
+kurumlar, kişi ile ilgili olarak tuttukları bütün kayıtlarda ve yaptıkları
+işlemlerde kişinin kimliğine ilişkin bilgileri sistem veri tabanına uygun
+olarak tesis ederler.
+Özel hayatın gizliliği
+Madde 6 — Sistemin
+işletilmesinde kanunlarda ve uluslararası sözleşmelerde yer alan özel hayatın
+gizliliğine ilişkin hükümler esas alınır.
+Sistemin kullanılması
+Madde 7 — Bakanlık,
+sistem veri tabanında tutulan bilgileri bu Yönetmelikte belirlenen usul ve
+esaslara göre Genel Müdürlük ile kurumlar arasında yapılacak anlaşmalar
+çerçevesinde paylaşıma açabilir. Anlaşmalarda aşağıda belirtilen hususlara
+yer verilir:
+a)
+Alıcı kurumların yetkileri,
+b)
+Kayıtlara erişim şekli,
+c)
+Kayıtlara erişim süresi,
+d)
+Alıcı kurumların sistem veri tabanını kullanma amacı,
+e)
+Sorumluluk,
+f)
+Eğitim.
+Bu
+bilgilerin alıcı kurumlarca ikili anlaşmalarda belirtilen esaslar
+doğrultusunda kullanılması zorunludur.
+Alıcı
+kurumlar aldıkları bilgilerin gizliliğini korumakla yükümlüdürler.
+Sistem
+içerisinde elde edilecek bilgilerin kullanılmasının hukukî sonuçları bilgiyi
+alan kurumun sorumluluğundadır. Kimlik Paylaşımı Sistemi kapsamında nüfus
+kayıtlarından faydalanan diğer görevliler bu hükmün kapsamındadır. Sistemin
+bütün aşamalarında görev yapan yetkililer de anlaşmalarda belirtilen esaslara
+uymakla yükümlüdürler. Bu yükümlülük, kamu görevlilerinin görevlerinden
+ayrılmalarından sonra da devam eder.
+Sistem veri tabanında yer alacak bilgiler
+Madde 8 —
+Sistem veri tabanında aşağıdaki bilgiler bulunur:
+a)
+Kişi bilgileri;
+1)
+Kimlik numarası, adı, soyadı, kızlık soyadı, cinsiyeti, baba adı, anne adı,
+doğum yeri, doğum ve kütüğe kayıt tarihleri gibi kişisel bilgiler,
+2)
+Medeni hali, dini ve ölüm tarihi gibi durum bilgileri,
+3)
+İl, ilçe, cilt, mahalle veya köy, aile sıra numarası ve birey sıra numarası
+gibi nüfusa kayıtlı olduğu yer bilgileri.
+b)
+Nüfus Cüzdanı Bilgileri;
+Nüfus
+cüzdanı üzerinde yer alan bilgiler, 1/6/2000 tarihinden sonra düzenlenen
+cüzdanlarda seri ve no’su ile verildiği yer ve tarihi, 1/6/2000 tarihinden
+önce düzenlenmiş cüzdanlarda cüzdan seri, no ve verildiği maliye saymanlığının
+adı.
+c)
+Nüfus Olay Bilgileri;
+Evlenme,
+boşanma, soybağının düzeltilmesi veya reddi, ölüm, vatandaşlığın kazanılması
+veya kaybedilmesi gibi kişilere ait nüfus olay bilgilerinin tarihi ve
+açıklamaları.
+d)
+İstatistik Bilgileri;
+Doğum,
+ölüm, evlenme, boşanma sayıları gibi bilgiler.
+Sistem veri tabanındaki bilgilerin
+verilmesi
+Madde 9 — Alıcı
+kurumların sistem veri tabanında hangi sorgulamaları yapabilecekleri ve hangi
+bilgileri alabilecekleri yürürlükteki ilgili mevzuat uyarınca yapılacak
+anlaşmalar çerçevesinde Bakanlıkça belirlenir.
+Alıcı
+kurumlar için her bir sorgulama, sorgu sonucu gönderilecek internet
+servisleri ve internet sayfaları için yetkilendirme yapılır. Kurumun, günlük
+en fazla kaç kez sorgulama yapabileceği, yaptığı işlemler için ne düzeyde
+izleme bilgisi tutulacağı gibi bilgi ve kısıtlamalar Bakanlıkça belirlenir.
+Genel
+Müdürlük, sistem veri tabanından faydalanmak isteyen alıcı kurumları sistem
+içinde tanımlar. Tanımlanan her bir kurumun sisteme kendini tanıtabilmesi ve
+sisteme giriş yapabilmesi için Genel Müdürlük tarafından güvenlik kodları,
+kullanıcı adı ve şifreleri tahsis edilir. Güvenlik kodları, kullanıcı adı ve
+şifreleri bulunmayan kurumların sisteme bağlanmaları, işlem veya sorgulama
+yapmaları engellenir.
+Sistemden verilecek hizmet türleri
+Madde 10 —
+Sistem hizmetleri, alıcı kurumların internet sayfaları ile ulaşabilecekleri
+etkileşimli sorgulamalar ve alıcı kurumların kendi yazılım uygulamaları
+içerisine ekleyecekleri bölümler ile sorgulama yapmalarına olanak verecek
+internet servislerinden oluşur. Tüm sorgulamalarda verilen bilgilerden alıcı
+kurumunun almaya yetkili olduğu bilgiler sorgu sonucu gönderilir. Alıcı
+kuruma, yetkisi dahilinde olmayan bilgilerin gönderilmesi engellenir.
+Sorgulama hizmetleri
+Madde 11 —
+Aşağıda tanımları yer alan hizmetlere internet tarayıcıları veya internet
+servisleri üzerinden erişilir:
+a)
+Kimlik numarası ile kimlik bilgileri;
+Sistemden
+kimlik numarası girilerek kimlik bilgileri sorgulanır.
+Kimlik
+numarası ile kimlik bilgilerinin sorgulanmasında, sorgulanan kimlik numarasına
+karşılık gelen kişinin açık kaydı bulunarak, sorgulama yapan kullanıcının
+almaya yetkili olduğu bilgiler gönderilir.
+Kimlik
+numarasına karşılık kimlik bilgileri gönderme sorgusunda aynı anda birden
+fazla kimlik numarası ile sorgulama yapılabilir. Aynı anda yapılabilecek
+sorgulama sayısı Genel Müdürlükçe belirlenir.
+b)
+Kimlik bilgileri ile kimlik numarası;
+Kimlik
+bilgileri ile kimlik numarasının sorgulanmasında, sorgulama yapmak için
+girilecek bilgilerden adı, soyadı, baba adı, doğum yılı, cinsiyeti gibi bazı
+bilgilerin belirtilmesi zorunludur. Sorgulama sonucunda belirtilen kriterlere
+uyan sadece bir kayıt bulunduysa, ilgili kişinin kimlik numarası sorgu sonucu
+olarak gönderilir. Kriterlere uyan birden çok kayıt bulunması ve bu yolda
+uyarı mesajı verilmesi halinde ilgili kişinin daha fazla kriterle sorgulanması
+alıcı kurumca yapılır. İkili anlaşmalarda yetki verilmesi halinde alıcı
+kurumlara kriterlere uyan kişilerin kimlik numarası ile kimlik bilgileri
+listesi gönderilir.
+c)
+Nüfusa kayıtlı olduğu yer bilgileri ile kimlik bilgileri;
+Sistemden
+kişinin nüfusa kayıtlı olduğu ilçe, cilt, aile sıra no, birey sıra no
+bilgilerine karşılık kimlik bilgileri ve kimlik numarası sorgulanır.
+Nüfusa
+kayıtlı olduğu yer bilgileri ile kimlik bilgileri sorgusunda, nüfusa kayıtlı
+olduğu yer bilgisi ile aynı anda birden fazla sorgulama yapılabilir. Aynı
+anda yapılabilecek sorgulama sayısı Genel Müdürlükçe belirlenir.
+d)
+Nüfus kayıt örneği;
+Sistemden
+kimlik numarasına veya nüfusa kayıtlı olduğu yer bilgilerine karşılık nüfus
+kayıt örneği sorgulanır. Kimlik numarası ile nüfus kayıt örneği
+sorgulanmasında, sorgulanan kimlik numarasına karşılık gelen kişinin açık
+kaydına ait nüfus kayıt örneği sorgu sonucu olarak gönderilir.
+İstenen
+nüfus kayıt örneğinin özellikleri belirtilerek, kişi kayıt örneği, aile kayıt
+örneği ve nüfus aile kayıt örneği nüfus olayları açısından sorgulanabilir.
+Olaylı nüfus kayıt örneği sorgulanmasında, ilgili kişilere ait nüfus olay
+bilgileri tespit edilerek kişilere ait bilgilerle birlikte gönderilir. Alıcı
+kurumlar sadece kendilerine yetki verilen kişi kayıt örneklerini, aile kayıt
+örneklerini ve nüfus aile kayıt örneklerini ve yetki verilen olay bilgilerini
+alabilirler. Almaya yetkili olmadıkları olay bilgileri nüfus kayıt örneği
+içerisinde gönderilmez.
+e)
+Nüfus cüzdanı;
+Kimlik
+numarası ile nüfus cüzdanı üzerinde yer alan bilgiler, 1/6/2000 tarihinden
+sonra düzenlenen cüzdanlarda seri ve no’su ile verildiği yer ve tarihi, 1/6/2000
+tarihinden önce düzenlenmiş cüzdanlarda cüzdan seri, no ve verildiği maliye
+saymanlığının adı sorgulanır.
+f)
+Kişi listesi;
+Doğum
+tarihi ve cinsiyet bilgileri ile kişi listesi sorgulanır. Bu sorgulamada
+verilen doğum tarihi aralığı ve cinsiyet kriterlerine uygun kişilerin
+bilgilerinden oluşan liste sorgu sonucu olarak gönderilir.
+g)
+Nüfus olay listesi;
+Kişi
+kayıtlarına işlenen bütün nüfus olayları ikili anlaşmalar çerçevesinde sorgulanır.
+h) İl
+listesi;
+İl
+listesi sorgusu ile illerin trafik plaka kodları ve adlarının listesi
+sorgulanır.
+i)
+İlçe listesi;
+İlçe
+listesi sorgulama ile ilçe kodları, adları ve bağlı oldukları illerin trafik
+plaka kodları sorgulanır.
+j)
+Cilt kodu;
+Mahalle
+veya köyün adı ile bağlı bulunduğu ilçenin koduna karşılık mahalle veya köyün
+cilt kodu sorgulanır.
+k)
+Cilt adı;
+Cilt
+kodu ve cildin bağlı olduğu ilçenin kodlarına karşılık gelen mahalle veya
+köyün adı ile tipi (mahalle / köy) sorgulanır.
+l)
+İstatistikî veriler,
+İl,
+ilçe kodu ve yıla ait doğum, ölüm, evlenme, boşanma sayıları gibi
+istatistikler sorgulanır. İl ve ilçe kodunun belirtilip belirtilmemesine göre
+ilçe, il, Türkiye bazında belirtilen yıla ait istatistik bilgileri sorgu
+sonucu olarak gönderilir. Genel Müdürlük, hizmet gereği duyulacak ihtiyaçlar
+ve mevzuatta yapılan düzenlemeler çerçevesinde parametrelerde değişiklik
+yapmaya yetkilidir.
+Alıcı
+kurumların uygulamalarına hizmet veren servislerin parametreleri ve sorgu
+sonucu olarak gönderdiği bilgilerin detayları Ek-1’de verilmiştir.
+Kimlik
+Paylaşımı Sistemi veri tabanından alınan bilgilere ait çıktılar bilgiyi alan
+kurum yetkilisi tarafından onaylanır.
+Sistem veri tabanının güncellenmesi
+Madde 12 —
+MERNİS veri tabanındaki değişiklikler düzenli olarak sistem veri tabanına
+aktarılır.
+Hizmet süresi
+Madde 13 — Sistem
+veri tabanından 7 gün 24 saat hizmet verilir.
+Sistemde tanımlama ve yetkilendirme
+Madde 14 —
+Sistemden hizmet alanların yapabileceği sorgulamalar, sorgulama sonucu olarak
+gönderilen bilgiler ve erişilebilecek internet sayfaları kurum veya kullanıcı
+bazında Bakanlıkça belirlenir. Hizmet alanların kendilerine verilen yetkiler
+dışında işlem yapması ve bilgi alması engellenir.
+Genel Müdürlük kullanıcıları
+Madde 15 — Genel
+Müdürlük kullanıcılarının tanımlanması ve yetkilendirilmeleri Genel
+Müdürlükçe yapılır.
+Bu
+yetkilendirme ile Genel Müdürlük kullanıcılarının sadece kendilerine yetki
+verilen işlemleri yapabilmeleri sağlanır. Genel Müdürlük kullanıcılarının
+yaptığı her türlü işlemin izleme bilgileri tutulur.
+Alıcı kurum kullanıcıları
+Madde 16 — Genel
+Müdürlük sisteme bağlanan alıcı kurum kullanıcılarının kontrol edilmesi,
+verilen yetki çerçevesinde bilgi alınması ve tanımlanan kullanıcılara ait tüm
+bilgilerin sistem veri tabanında tutulması için her türlü tedbiri alır.
+Bağlantı kontrol sistemi
+Madde 17 —
+Güvenli ağ bağlantısı; sisteme bağlanmak isteyen alıcı kuruma ait güvenlik
+kodları kontrol edildikten sonra, kurum ve sistem güvenlik duvarları arasında
+kurulur ve sadece kurum ve sistem arasında hizmet verir. Bu bağlantı özel
+şifrelenmiş bir bağlantıdır. Bu özel ve güvenli bağlantı kurulduktan sonra,
+kullanıcının adı ve şifresinin doğruluğu kontrol edilerek sisteme giriş
+yapmasına izin verilir.
+İzleme bilgilerinin oluşturulması
+Madde 18 —
+Sistemden yapılan her türlü işlemin tarihi, saati, işlemi yapan kullanıcı,
+yapılan sorgulama bilgileri izleme bilgisi olarak tutulur. Tutulan izleme
+bilgisi sorgu sonucunu içerir. Genel Müdürlük kullanıcıları tarafından izleme
+bilgileri sorgulanılarak sistemden yapılan işlemler takip edilir.
+İzleme
+bilgileri Türk Ceza Kanununda öngörülen zaman aşımı süreleri bitinceye kadar
+saklanır.
+ÜÇÜNCÜ BÖLÜM
+Ortak Hükümler
+Takip ve değerlendirme
+Madde 19 — Genel
+Müdürlükçe ihtiyaç duyulan kullanıcı bilgileri takip edilip değerlendirilir.
+Bu raporlar; bir kuruma ait genel bilgiler, kullanıcı listesi, belirlenen
+saat aralığında kullanıcıların yaptıkları işlemlerin izlenmesi gibi bilgileri
+kapsar.
+Yedekleme
+Madde 20 —
+Sistemde oluşabilecek veri kayıplarının önlenmesine yönelik, sistem veri
+tabanının Genel Müdürlüğün belirleyeceği aralıklarla yedeklenmesi sağlanır.
+Donanım güvenliği
+Madde 21 —
+Sistem veri tabanının bulunacağı yerdeki donanımın sahip olması gereken
+güvenlik ihtiyaçlarının tespit edilmesi, sistem odasına veya sistem
+konsollarına erişimde biometrik kontrol usullerinin kullanımı ile yetkisiz
+erişimin engellenmesi ve iş sürekliliğinin sağlanması hususunda Genel
+Müdürlükçe gerekli tedbirler alınır.
+Eğitim
+Madde 22 —
+Genel Müdürlük ve alıcı kurumların personeli belirli aralıklarla sistemle
+ilgili uygulamalar hakkında eğitilir.
+DÖRDÜNCÜ
+BÖLÜM
+Son Hükümler
+Yürürlük
+Madde 23 — Bu
+Yönetmelik yayımı tarihinde yürürlüğe girer.
+Yürütme
+Madde 24 — Bu
+Yönetmelik hükümlerini İçişleri Bakanı yürütür.
+EK- 1
+Kimlik
+Paylaşımı Sistemi Parametreleri
+1.
+Kimlik Bilgileri Servisi
+Tanımı:
+Girdi parametresi olarak girilen TC Kimlik Numarasına sahip kişinin açık
+kaydındaki bilgilerini gönderecektir.
+Girdi
+Parametreleri :
+• TC Kimlik No
+Çıktı
+Parametreleri:
+• TC Kimlik No
+• Adı
+• Soyadı
+• Cinsiyeti
+• Baba Adı
+• Baba Soyadı
+• Anne Adı
+• Anne Soyadı
+• Doğum Günü
+• Doğum Ayı
+• Doğum Yılı
+• Doğum Yeri
+• Durumu
+• Medeni Hali
+• Dini
+• Ölüm Günü
+• Ölüm Ayı
+• Ölüm Yılı
+• İl Trafik Kodu
+• İl Adı
+• İlçe Kodu
+• İlçe Adı
+• Cilt Kodu
+• Cilt Adı (Mahalle / Köy)
+• Aile Sıra No
+• Birey Sıra No
+2.
+TC Kimlik Numarasına Göre Nüfus Kayıt Örneği Servisi
+Tanımı:
+Girdi parametresi olarak girilen TC Kimlik Numarası bilgisine göre Nüfus
+Kayıt Örneği düzenlenecektir.
+Girdi
+Parametreleri :
+• TC Kimlik No
+• Nüfus Olay Bilgileri
+• Türü
+• Eski Eşi
+Çıktı
+Parametreleri:
+Genel
+Bilgiler:
+• İl Trafik Kodu
+• İl Adı
+• İlçe Kodu
+• İlçe Adı
+• Cilt Kodu
+• Cilt Adı (Mahalle / Köy)
+• Aile Sıra No
+Kişi
+Bilgileri:
+• TC Kimlik No
+• Yakınlık
+• İl Trafik Kodu
+• İl Adı
+• İlçe Kodu
+• İlçe Adı
+• Cilt Kodu
+• Cilt Adı (Mahalle / Köy)
+• Aile Sıra No
+• Birey Sıra No
+• Adı
+• Soyadı
+• Cinsiyeti
+• Baba Adı
+• Baba Soyadı
+• Anne Adı
+• Anne Soyadı
+• Doğum Günü
+• Doğum Ayı
+• Doğum Yılı
+• Doğum Yeri
+• Durumu
+• Medeni Hali
+• Dini
+• Ölüm Günü
+• Ölüm Ayı
+• Ölüm Yılı
+• Tescil Günü
+• Tescil Ayı
+• Tescil Yılı
+• Evlenme Günü
+• Evlenme Ayı
+• Evlenme Yılı
+• Boşanma Günü
+• Boşanma Ayı
+• Boşanma Yılı
+Olay
+Bilgileri:
+• İlçe Kodu
+• Cilt Kodu
+• Aile Sıra Numarası
+• Birey Sıra Numarası
+• Olay Günü
+• Olay Ayı
+• Olay Yılı
+• Adı
+• Soyadı
+• Olay Tipi
+• Olay Düşüncesi
+2.
+a. Nüfus Kayıt Örneği Türleri
+Kişi
+Nüfus Kayıt Örneği: Sadece kişinin kendisine ait bilgileri içeren
+kayıtlardan oluşacaktır.
+Aile
+Kayıt Örneği: Kişinin kendisi, eşi ve çocuklarına ait bilgileri
+içeren kayıtlardan oluşacaktır.
+Nüfus
+Aile Kayıt Örneği: Kişinin kendisi, eşi, çocukları, annesi, babası ve
+kardeşlerine ait bilgileri içeren kayıtlardan oluşacaktır.
+2.
+b. Nüfus Kayıt Örneği ile Görülebilen Nüfus Olayları
+• Boşanma •
+Kayıt Taşıma
+• Boşanma İptali •
+Mükerrer Kayıt Silme
+• Diğer •
+Yer Değiştirme (Nakil)
+• Diğer Olaylar •
+Ölüm
+• Doğum •
+Sosyal Güvenlik
+• Evlat Edinme •
+Soybağı Düzeltme
+• Evlatlığın Reddi •
+Soybağının Reddi
+• Evlenme •
+Tanıma
+• Evliliğin Feshi/İptali • Vasiyet
+• Gaiplik •
+Vatandaşlık
+• İdarece Kayıt Düzeltme • Velayet
+• Kayıt Düzeltme •
+Yeşilkart
+• Kayıt Silme
+3.
+Nüfusa Kayıtlı Olduğu Yer Bilgisine Göre Nüfus Kayıt Örneği Servisi
+Tanımı:
+Girdi parametresi olarak girilen nüfusa kayıtlı olduğu
+yer bilgisine göre Nüfus Kayıt Örneği düzenlenecektir.
+Girdi
+Parametreleri:
+• İlçe Kodu
+• Cilt Kodu
+• Aile Sıra No
+• Birey Sıra No
+• Nüfus Olay Bilgileri
+• Türü
+• Eski Eşi
+Çıktı
+Parametreleri:
+Genel
+Bilgiler:
+• İl Trafik Kodu
+• İl Adı
+• İlçe Kodu
+• İlçe Adı
+• Cilt Kodu
+• Cilt Adı (Mahalle / Köy)
+• Aile Sıra No
+Kişi
+Bilgileri:
+• TC Kimlik No
+• Yakınlık
+• İl Trafik Kodu
+• İl Adı
+• İlçe Kodu
+• İlçe Adı
+• Cilt Kodu
+• Cilt Adı (Mahalle / Köy)
+• Aile Sıra No
+• Birey Sıra No
+• Adı
+• Soyadı
+• Cinsiyeti
+• Baba Adı
+• Baba Soyadı
+• Anne Adı
+• Anne Soyadı
+• Doğum Günü
+• Doğum Ayı
+• Doğum Yılı
+• Doğum Yeri
+• Durumu
+• Medeni Hali
+• Dini
+• Ölüm Günü
+• Ölüm Ayı
+• Ölüm Yılı
+• Tescil Günü
+• Tescil Ayı
+• Tescil Yılı
+• Evlenme Günü
+• Evlenme Ayı
+• Evlenme Yılı
+• Boşanma Günü
+• Boşanma Ayı
+• Boşanma Yılı
+Olay
+Bilgileri:
+• İlçe Kodu
+• Cilt Kodu
+• Aile Sıra Numarası
+• Birey Sıra Numarası
+• Olay Günü
+• Olay Ayı
+• Olay Yılı
+• Adı
+• Soyadı
+• Olay Tipi
+• Olay Düşüncesi
+3.
+a. Nüfus Kayıt Örneği Türleri
+Kişi
+Nüfus Kayıt Örneği: Sadece kişinin kendisine ait bilgileri içeren
+kayıtlardan oluşacaktır.
+Aile
+Kayıt Örneği: Kişinin kendisi, eşi ve çocuklarına ait bilgileri
+içeren kayıtlardan oluşacaktır.
+Nüfus
+Aile Kayıt Örneği: Kişinin kendisi, eşi, çocukları, annesi, babası ve
+kardeşlerine ait bilgileri içeren kayıtlardan oluşacaktır.
+3.
+b. Nüfus Kayıt Örneği ile Görülebilen Nüfus Olayları
+• Boşanma
+• Boşanma İptali
+• Diğer
+• Diğer Olaylar
+• Doğum
+• Evlat Edinme
+• Evlatlığın Reddi
+• Evlenme
+• Evliliğin Feshi / İptali
+• Gaiplik
+• İdarece Kayıt Düzeltme
+• Kayıt Düzeltme
+• Kayıt Silme
+• Kayıt Taşıma
+• Mükerrer Kayıt Silme
+• Yer Değiştirme (Nakil)
+• Ölüm
+• Sosyal Güvenlik
+• Soybağı Düzeltme
+• Soybağının Reddi
+• Tanıma
+• Vasiyet
+• Vatandaşlık
+• Velayet
+• Yeşilkart
+4.
+Kişi Bilgilerine Göre TC Kimlik Numarası Servisi
+Tanımı:
+Girdi parametrelerindeki kimlik bilgilerine uyan kişiyi tespit ederek TC
+Kimlik Numarasını gönderecektir.
+Girdi
+Parametreleri:
+• Adı
+• Soyadı
+• Cinsiyeti
+• Baba Adı
+• Anne Adı
+• Doğum Günü
+• Doğum Ayı
+• Doğum Yılı
+• Doğum Yeri
+• Sorgu Türü
+Çıktı
+Parametreleri:
+• TC Kimlik No
+• Adı
+• Soyadı
+• Cinsiyeti
+• Baba Adı
+• Baba Soyadı
+• Anne Adı
+• Anne Soyadı
+• Doğum Günü
+• Doğum Ayı
+• Doğum Yılı
+• Doğum Yeri
+• Durumu
+• Medeni Hali
+• Dini
+• Ölüm Günü
+• Ölüm Ayı
+• Ölüm Yılı
+• İl Trafik Kodu
+• İl Adı
+• İlçe Kodu
+• İlçe Adı
+• Cilt Kodu
+• Cilt Adı (Mahalle / Köy)
+• Aile Sıra No
+• Birey Sıra No
+5.
+Nüfusa Kayıtlı Olduğu Yer Bilgisine Göre TC Kimlik Numarası Servisi
+Tanımı:
+Girdi parametrelerindeki nüfusa kayıtlı olduğu yer bilgilerine uyan kişiyi
+tespit ederek TC Kimlik Numarasını gönderecektir.
+Girdi
+Parametreleri:
+• İlçe Kodu
+• Cilt Kodu
+• Aile Sıra No
+• Birey Sıra No
+Çıktı
+Parametreleri:
+• TC Kimlik No
+• Adı
+• Soyadı
+• Cinsiyeti
+• Baba Adı
+• Baba Soyadı
+• Anne Adı
+• Anne Soyadı
+• Doğum Günü
+• Doğum Ayı
+• Doğum Yılı
+• Doğum Yeri
+• Durumu
+• Medeni Hali
+• Dini
+• Ölüm Günü
+• Ölüm Ayı
+• Ölüm Yılı
+• İl Trafik Kodu
+• İl Adı
+• İlçe Kodu
+• İlçe Adı
+• Cilt Kodu
+• Cilt Adı (Mahalle / Köy)
+• Aile Sıra No
+• Birey Sıra No
+6.
+Nüfus Cüzdanı Doğrulama Servisi - 1
+Tanımı:
+01.06.2000 tarihinden önce verilen Nüfus Cüzdanları için girdi parametresi
+olarak girilen Nüfus Cüzdanı Seri ve Numarasına karşılık nüfus cüzdanının
+satıldığı mal saymanlığı ve tür bilgilerini gönderecektir.
+Girdi
+Parametreleri:
+• Seri
+• No
+Çıktı
+Parametreleri:
+• Satıldığı Mal Saymanlığı
+• Türü (Erkek / Kadın)
+7.
+Nüfus Cüzdanı Doğrulama Servisi - 2
+Tanımı:
+01.06.2000 tarihinden sonra verilen Nüfus Cüzdanları için girdi parametresi
+olarak girilen TC Kimlik Numarasının ait olduğu kişiye verilen en son nüfus
+cüzdanı bilgilerini gönderecektir.
+Girdi
+Parametreleri:
+• TC Kimlik No
+Çıktı
+Parametreleri:
+• Seri
+• No
+• Adı
+• Soyadı
+• Baba Adı
+• Anne Adı
+• Doğum Yeri
+• Doğum Günü
+• Doğum Ayı
+• Doğum Yılı
+• Verildiği İlçe Kodu
+• Verildiği İlçe Adı
+• Verildiği Gün
+• Verildiği Ay
+• Verildiği Yıl
+• Veriliş Nedeni
+• Kayıt No
+8.
+İl Listesi
+Tanımı:
+İl Trafik Kodu ve İl adından oluşan İl listesini gönderecektir.
+Girdi
+Parametreleri:
+Yok.
+Çıktı
+Parametreleri:
+• İl Trafik Kodu
+• İl Adı
+9.
+İlçe Listesi
+Tanımı: İl
+Trafik Kodu, İlçe Kodu ve İlçe adından oluşan İlçe listesini gönderecektir.
+Girdi
+Parametreleri:
+Yok.
+Çıktı
+Parametreleri:
+• İl Trafik Kodu
+• İlçe Kodu
+• İlçe Adı
+10.
+Cilt Kodu Servisi
+Tanımı:
+Girdi parametresi olarak girilen İlçe Kodu ve Cilt Adı bilgisine sahip Cilt
+Kodu bilgisini gönderecektir.
+Girdi
+Parametreleri:
+• İlçe Kodu
+• Cilt Adı
+Çıktı
+Parametreleri:
+• Cilt Kodu
+11.
+Cilt Adı Servisi
+Tanımı:
+Girdi parametresi olarak girilen İlçe ve Cilt Kodu bilgisine sahip Cilt Adı
+ve Cilt Türü bilgisini gönderecektir.
+Girdi
+Parametreleri:
+• İlçe Kodu
+• Cilt Kodu
+Çıktı
+Parametreleri:
+• Cilt Adı
+• Cilt Tipi (Mahalle/Köy)
+12.
+Kişi Listesi
+Tanımı:
+Girdi Parametre olarak verilen ilçe kodu, doğum tarihi
+aralığı ve cinsiyete uyan kişilerin listesi gönderilecektir.
+Girdi
+Parametreleri:
+• İlçe Kodu
+• Cinsiyet
+• Doğum Başlangıç Tarihi
+• Doğum Bitiş Tarihi
+Çıktı
+Parametreleri:
+• TC Kimlik No
+• Adı
+• Soyadı
+• Cinsiyeti
+• Baba Adı
+• Baba Soyadı
+• Anne Adı
+• Anne Soyadı
+• Doğum Günü
+• Doğum Ayı
+• Doğum Yılı
+• Doğum Yeri
+• Durumu
+• Medeni Hali
+• Dini
+• Ölüm Günü
+• Ölüm Ayı
+• Ölüm Yılı
+• İl Trafik Kodu
+• İl Adı
+• İlçe Kodu
+• İlçe Adı
+• Cilt Kodu
+• Cilt Adı (Mahalle / Köy)
+• Aile Sıra No
+• Birey Sıra No
+13.
+Kimlik Bilgileri Değişenler Listesi
+Tanımı:
+Girdi parametresi olarak girilen bilgilere göre kimlik
+bilgilerinde değişiklik olan kişilere ait bilgileri gönderecektir.
+Girdi
+Parametreleri:
+• İlçe Kodu
+• Başlangıç Tarihi
+• Bitiş Tarihi
+Çıktı
+Parametreleri:
+• TC Kimlik No
+• Adı
+• Soyadı
+• Cinsiyeti
+• Baba Adı
+• Baba Soyadı
+• Anne Adı
+• Anne Soyadı
+• Doğum Günü
+• Doğum Ayı
+• Doğum Yılı
+• Doğum Yeri
+14.
+Nüfus Olay Listesi
+Tanımı:
+Girdi parametresi olarak verilen ilçe kodu ve tarih
+aralığında, girilen olay koduna ait nüfus olayı işlenmiş kişilerin listesini
+gönderecektir.
+Girdi
+Parametreleri:
+• İlçe Kodu
+• Başlangıç Tarihi
+• Bitiş Tarihi
+• Olay Kodu
+Çıktı Parametreleri:
+• TC Kimlik No
+• Olay İşlenme Günü
+• Olay İşlenme Ayı
+• Olay İşlenme Yılı
+14.
+a. Listesi Alınabilen Nüfus Olayları
+• Boşanma
+• Boşanma İptali
+• Çok Uyrukluluk
+• Doğum
+• Evlat Edinme
+• Evlatlığın Reddi
+• Evlenme
+• Evlenmenin Feshi / İptali
+• Gaipliğin Feshi
+• Gaiplik
+• İdarece Kayıt Düzeltme
+• Kayıt Düzeltme
+• Kayıt Silme
+• Kayıt Taşıma
+• Mirastan Feragat
+• Mirastan İskat
+• Mükerrer Kayıt Silme
+• Nakil
+• Ölüm
+• Ölümün Feshi
+• Ölünceye Kadar Bakım Sözleşmesi
+• Sosyal Güvenlik
+• Sosyal Güvenlik İptali
+• Soybağı Düzeltme
+• Soybağının Reddi
+• Tanıma
+• Tanımanın İptali
+• Vasiyet
+• Vasiyet İptali
+• Vatandaşlığa Alma
+• Vatandaşlık İptali
+• Vatandaşlıktan Çıkma
+• Velayet
+• Yeniden Kayıt
+• Yeşilkart
+15.
+Doğum İstatistiği
+Tanımı:
+Girdi parametresi olarak girilen bilgilere göre doğum istatistiğinin dökümünü
+alacaktır.
+Girdi
+Parametreleri:
+• İl Trafik Kodu
+• İlçe Kodu
+• Yıl
+Çıktı
+Parametreleri:
+• İl Trafik Kodu
+• İl Adı
+• İlçe Kodu
+• İlçe Adı
+• Yıl
+• Ay
+• Cinsiyet
+• Doğum Sayısı
+16.
+Ölüm İstatistiği
+Tanımı:
+Girdi parametresi olarak girilen bilgilere göre ölüm
+istatistiğinin dökümünü alacaktır.
+Girdi
+Parametreleri:
+• İl Trafik Kodu
+• İlçe Kodu
+• Yıl
+Çıktı
+Parametreleri:
+• İl Trafik Kodu
+• İl Adı
+• İlçe Kodu
+• İlçe Adı
+• Yıl
+• Ay
+• Cinsiyet
+• Ölüm Sayısı
+17.
+Evlenme İstatistiği
+Tanımı:
+Girdi parametresi olarak girilen bilgilere göre evlenme
+istatistiğinin dökümünü alacaktır.
+Girdi
+Parametreleri:
+• İl Trafik Kodu
+• İlçe Kodu
+• Yıl
+Çıktı
+Parametreleri:
+• İl Trafik Kodu
+• İl Adı
+• İlçe Kodu
+• İlçe Adı
+• Yıl
+• Ay
+• Evlenme Sayısı
+18.
+Boşanma İstatistiği
+Tanımı:
+Girdi parametresi olarak girilen bilgilere göre boşanma
+istatistiğinin dökümünü alacaktır.
+Girdi
+Parametreleri:
+• İl Trafik Kodu
+• İlçe Kodu
+• Yıl
+Çıktı
+Parametreleri:
+• İl Trafik Kodu
+• İl Adı
+• İlçe Kodu
+• İlçe Adı
+• Yıl
+• Ay
+• Boşanma Sayısı
+Eki için Tıklayınız
