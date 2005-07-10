@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.29/2968-298-439",
+  "source_id": 26847,
+  "date": "2005-07-10",
+  "title": "Özel hesap dönemine geçen ve daha önceki bilançoları enflasyon düzeltmesine tabi olan mükellefler, iki dönem arasında kalan kıst hesap dönemi için enflasyon düzeltmesi yapmak zorundadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26847",
+  "source_sha256": "494f3f91ec78f0d59090e8425bd81858fd7b1a156db3221620f504b929f94d46",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
