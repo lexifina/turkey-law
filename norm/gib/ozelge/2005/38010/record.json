@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GIB.0.54/5413-5t63",
+  "source_id": 38010,
+  "date": "2005-07-11",
+  "title": "Deniz,hava ve demiryolu taşıma araçlarının, yüzer tesis ve araçlarının teslimleri, bu araçların...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38010",
+  "source_sha256": "41eee3946cceb26b2023d05e9b2559705a75837316a67a7c08c6388a4f2b7b85",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
