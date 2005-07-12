@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-12",
+  "issue": "25873",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Türkiye ve Orta Doğu Amme İdaresi Enstitüsü Genel Müdürlüğü Arşiv Hizmetleri Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050712-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050712.htm",
+  "index_sha256": "f140cca8c35a4ea61856b60bc43c8f04eeb68bcff7bcc53a13f93e476c35bff6",
+  "index_header": "12 Temmuz 2005 ... Sayı : 25873",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
