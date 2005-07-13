@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5391",
+  "year": 2005,
+  "title": "İl Özel İdaresi Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-13",
+  "gazette_issue": "25874",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050713-4.htm",
+  "source_sha256": "575ce932d0c1112988d6febc5a5da16be1fc6f012bf071cdf66a10e40f20a780",
+  "text_sha256": "9ae79b75a3801006d0d520f8ad8ef03ff22f7698813613fe44e4874ab2ccaf2e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/13/25874-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050713-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
