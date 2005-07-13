@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.9068",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜTÜN ÜRETİMİNDEN VAZGEÇİP ALTERNATİF ÜRÜN YETİŞTİREN ÜRETİCİLERİN DESTEKLENMESİNE DAİR KARARIN GULANMASINA İLİŞKİN TEBLİĞ (Tebliğ No: 2005/25)",
+  "number": "9068",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2005/9068",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9068&MevzuatTertip=5",
+  "source_sha256": "9a464bd12c0704313244e65944e22629f9b50dc63692dd6ec57a82f28ba07e19",
+  "source_bytes": 53172,
+  "published": "2005-07-13",
+  "gazette": "25874",
+  "in_force": "2005-07-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.07.2005); own commencement article: \"Bu Tebliğ yayımı tarihinden geçerli olmak üzere yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden geçerli olmak üzere yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2457,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.9068-EKLER.mht"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
