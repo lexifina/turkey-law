@@ -1,0 +1,12 @@
+ÜÇÜNCÜ BÖLÜM
+Borçlanma ve İktisadî Girişimler
+Borçlanma
+MADDE 68. — Belediye, görev ve hizmetlerinin gerektirdiği giderleri karşılamak amacıyla aşağıda belirtilen usûl ve esaslara göre borçlanma yapabilir ve tahvil ihraç edebilir:
+a) Dış borçlanma, 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun hükümleri çerçevesinde sadece belediyenin yatırım programında yer alan projelerinin finansmanı amacıyla yapılabilir.
+b) İller Bankasından yatırım kredisi ve nakit kredi kullanan belediye, ödeme plânını bu bankaya sunmak zorundadır. İller Bankası hazırlanan geri ödeme plânını yeterli görmediği belediyenin kredi isteklerini reddeder.
+c) Tahvil ihracı, yatırım programında yer alan projelerin finansmanı için ilgili mevzuat hükümleri uyarınca yapılır.
+d) Belediye ve bağlı kuruluşları ile bunların sermayesinin yüzde ellisinden fazlasına sahip oldukları şirketlerin, faiz dâhil iç ve dış borç stok tutarı, en son kesinleşmiş bütçe gelirleri toplamının 213 sayılı Vergi Usul Kanununa göre belirlenecek yeniden değerleme oranıyla artırılan miktarını aşamaz. Bu miktar büyükşehir belediyeleri için bir buçuk kat olarak uygulanır.
+e) Belediye ve bağlı kuruluşları ile bunların sermayesinin yüzde ellisinden fazlasına sahip oldukları şirketler, en son kesinleşmiş bütçe gelirlerinin, 213 sayılı Vergi Usul Kanununa göre belirlenecek yeniden değerleme oranıyla artırılan miktarının yılı içinde toplam yüzde onunu geçmeyen iç borçlanmayı belediye meclisinin kararı; yüzde onunu geçen iç borçlanma için ise meclis üye tam sayısının salt çoğunluğunun kararı ve İçişleri Bakanlığının onayı ile yapabilir.
+f) Belediyelerin ileri teknoloji ve büyük tutarda maddî kaynak gerektiren alt yapı yatırımlarında Devlet Plânlama Teşkilatı Müsteşarlığının teklifi üzerine Bakanlar Kurulunca kabul edilen projeleri için yapılacak borçlanmalar (d) bendindeki miktarın hesaplanmasında dikkate alınmaz. Dış kaynak gerektiren projelerde Hazine Müsteşarlığının görüşü alınır.
+Yukarıda belirtilen usûl ve esaslara aykırı olarak borçlanan belediye yetkilileri hakkında, fiilleri daha ağır bir cezayı gerektirmeyen durumlarda 5237 sayılı Türk Ceza Kanununun görevi kötüye kullanmaya ilişkin hükümleri uygulanır.
+Belediye, varlık ve yükümlülüklerinin ayrıntılı bir şekilde yer aldığı malî tablolarını üçer aylık dönemler hâlinde İçişleri Bakanlığına, Maliye Bakanlığına, Devlet Plânlama Teşkilatı Müsteşarlığına ve Hazine Müsteşarlığına gönderir.

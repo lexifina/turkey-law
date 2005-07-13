@@ -1,0 +1,4 @@
+Kararlarının uygulanması ve nüfus
+MADDE 12. — 4, 6, 7, 8 ve 9 uncu maddelerde belirtilen kararlar kesinleşme tarihini takip eden yılın ocak ayının birinci gününden itibaren yürürlüğe girer. 4 üncü maddeye göre belediye kurulan yerlerde 2972 sayılı Mahallî İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında Kanunun 29 uncu maddesine göre seçim yapılır.
+8 inci maddede geçen birleşme ve katılmalara, 9 uncu maddede geçen mahalle kaldırılmasına, 11 inci maddede geçen belediye ve köy tüzel kişiliğinin kaldırılmasına veya bir beldenin köye dönüştürülmesine dair kararlar ilk mahallî idareler seçimlerinde uygulanır ve seçimler bu yerlerin yeni durumlarına göre yapılır.
+Bu Kanunda öngörülen nüfus büyüklüğü için Devlet İstatistik Enstitüsü Başkanlığınca bildirilen nüfus esas alınır.

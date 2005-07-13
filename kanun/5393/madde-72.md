@@ -1,0 +1,3 @@
+Borç ve alacakların takas ve mahsubu
+MADDE 72. — 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun kapsamındaki Hazine alacakları hariç olmak üzere belediyenin genel bütçeli kuruluşlardan, sosyal güvenlik kuruluşlarından, mahallî idarelerden ve diğer kamu kurum ve kuruluşlarından olan özel hukuk ve kamu hukukuna tâbi alacak ve borçları takas ve mahsup edilir. Bu amaçla kurum ve kuruluşların bütçelerine yeterli ve gerekli ödenek konur.
+Bu madde gereğince yapılacak takas ve mahsup işlemlerine ilişkin esas ve usûller, İçişleri Bakanlığının olumlu görüşü alınarak, Maliye Bakanlığı tarafından çıkarılacak bir yönetmelikle düzenlenir.
