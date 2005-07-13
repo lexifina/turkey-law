@@ -17,5 +17,7 @@ l) Büyükşehir belediyesinin taşınır ve taşınmaz mal gelirleri.
 m) Yapılacak hizmetler karşılığı alınacak ücretler.
 n) Şartlı ve şartsız bağışlar.
 o) Diğer gelirler.
+________________________
+(1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu fıkrada yer alan “Büyükşehir belediyesi” ibaresinden sonra gelmek üzere “1.hukuk müşaviri ve” ibaresi eklenmiştir.
 Bakanlar Kurulu, birinci fıkranın (b) bendindeki % 5 pay oranını iki katına kadar artırmaya veya kanunî haddine indirmeye yetkilidir. Bu payın %75'i bu tutardan düşülerek doğrudan ilgili belediye hesabına, kalan %25'i ise büyükşehir belediyelerine nüfuslarına göre dağıtılır. Hesaplama ve dağıtım işlemleri Maliye Bakanlığınca yapılır.
 Büyükşehir belediyeleri ve bağlı kuruluşları ile ilçe ve ilk kademe belediyeleri; tahsil ettikleri vergiler ve benzeri malî yükümlülüklerden birbirlerine ödemeleri gereken paylar ile su, atık su ve doğalgaz bedellerini zamanında yatırmadıkları takdirde, ilgili belediye veya bağlı kuruluşun talebi üzerine söz konusu tutar, İller Bankası tarafından, yükümlü belediyenin genel bütçe vergi gelirleri payından kesilerek alacaklı belediyenin hesabına aktarılır. (Değişik ikinci cümle: 21/4/2005-5335/ 28 md.) Gecikmeden kaynaklanacak faiz ve benzeri her türlü zararın tazmininden, ilgili ilçe veya ilk kademe belediye başkanı ve sayman şahsen sorumludur. Bu fıkra hükmü, ilçe ve ilk kademe belediyeleri hesabına yapılacak her türlü aktarmaları zamanında yapmayan büyükşehir belediye başkanı, bağlı kuruluş genel müdürleri ve saymanları hakkında da uygulanır.
