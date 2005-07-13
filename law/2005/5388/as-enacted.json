@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5388",
+  "year": 2005,
+  "title": "Rekabetin Korunması Hakkında Kanunun Bazı Maddelerinin Değiştirilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-13",
+  "gazette_issue": "25874",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050713-1.htm",
+  "source_sha256": "ee80feca50025956c496561efeebe6d417723601ae69b351af39009830b0d581",
+  "text_sha256": "34ff73fddc341b8d7d7b223dc6b27e9767109c644e0df6e0b902caeff95ce2a1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/13/25874-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050713-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
