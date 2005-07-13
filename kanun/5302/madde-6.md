@@ -1,12 +1,14 @@
 ÜÇÜNCÜ BÖLÜM
 İl Özel İdaresinin Görev, Yetki ve Sorumlulukları
-İl özel idaresinin görev ve sorumlulukları
+İl özel idaresinin görev ve sorumlulukları(2)
 MADDE 6. — İl özel idaresi mahallî müşterek nitelikte olmak şartıyla;
-a) Gençlik ve spor Sağlık, tarım, sanayi ve ticaret; ilin çevre düzeni plânı, bayındırlık ve iskân, toprağın korunması, erozyonun önlenmesi, sosyal hizmet ve yardımlar, yoksullara mikro kredi verilmesi, çocuk yuvaları ve yetiştirme yurtları; ilk ve orta öğretim kurumlarının arsa temini, binalarının yapım, bakım ve onarımı ile diğer ihtiyaçlarının karşılanmasına ilişkin hizmetleri il sınırları içinde,(1)
-b) İmar, yol, su, kanalizasyon, katı atık, çevre, acil yardım ve kurtarma, kültür, turizm, gençlik ve spor; orman köylerinin desteklenmesi, ağaçlandırma, park ve bahçe tesisine ilişkin hizmetleri belediye sınırları dışında,
-Yapmakla görevli ve yetkilidir.
+a) Gençlik ve spor Sağlık, tarım, sanayi ve ticaret; ilin çevre düzeni plânı, bayındırlık ve iskân, toprağın korunması, erozyonun önlenmesi, kültür, sanat, turizm, sosyal hizmet ve yardımlar, yoksullara mikro kredi verilmesi, çocuk yuvaları ve yetiştirme yurtları; ilk ve orta öğretim kurumlarının arsa temini, binalarının yapım, bakım ve onarımı ile diğer ihtiyaçlarının karşılanmasına ilişkin hizmetleri il sınırları içinde,(1)(2)
+b) İmar, yol, su, kanalizasyon, katı atık, çevre, acil yardım ve kurtarma, (…) (2); orman köylerinin desteklenmesi, ağaçlandırma, park ve bahçe tesisine ilişkin hizmetleri belediye sınırları dışında,
+Yapmakla görevli ve yetkilidir.(2)
 ______________________
 (1) 28/4/2005 tarihli ve 5340 sayılı Kanunun 24 üncü maddesi ile bu bende "Sağlık" ibaresinden önce gelmek üzere "Gençlik ve spor" ibaresi eklenmiştir.
+(2) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu maddenin birinci fıkrasının (a) bendinde yer alan , "erozyonun önlenmesi," ibaresinden sonra gelmek üzere "kültür, sanat, turizm," ibaresi eklenmiş ve aynı fıkranın (b) bendinde yer alan "kültür, turizm, gençlik ve spor" ibaresi madde metninden çıkarılmıştır.
+(Ek: 3/7/2005-5393/ 85 md.) Merkezi idare tarafından yürütülen görev ve hizmetlere ait yatırımlardan ilgili bakanlıkça uygun görülenler, il özel idareleri eliyle de gerçekleştirilebilir. Bu yatırımlara ait ödenekler, ilgili kuruluş tarafından o il özel idaresi bütçesine aktarılır. İl özel idaresi bu yatırımların yüzde yirmibeşine kadar olan kısmı için kendi bütçesinden harcama yapabilir. Merkezi idare, ayrıca, desteklemek ve geliştirmek istediği hizmetleri proje bazında gerekli kaynaklarını ilgili il özel idaresine aktarmak suretiyle onlarla işbirliği içinde yürütebilir. Bu kaynak ve ödenekler özel idare bütçesi ile ilişkilendirilmez ve başka amaçla kullanılamaz.
 İl çevre düzeni plânı; valinin koordinasyonunda, büyükşehirlerde büyükşehir belediyeleri, diğer illerde il belediyesi ve il özel idaresi ile birlikte yapılır. İl çevre düzeni plânı belediye meclisi ile il genel meclisi tarafından onaylanır.
 Hizmetlerin yerine getirilmesinde öncelik sırası, il özel idaresinin malî durumu, hizmetin ivediliği ve verildiği yerin gelişmişlik düzeyi dikkate alınarak belirlenir.
 İl özel idaresi hizmetleri, vatandaşlara en yakın yerlerde ve en uygun yöntemlerle sunulur. Hizmet sunumunda özürlü, yaşlı, düşkün ve dar gelirlilerin durumuna uygun yöntemler uygulanır.
