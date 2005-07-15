@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5400",
+  "year": 2005,
+  "title": "Milli Parklar Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-15",
+  "gazette_issue": "25876",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050715-4.htm",
+  "source_sha256": "8aec8be02166877d3d998528bc0e77ca92cdf556436c5a07824c5dd734a57e7a",
+  "text_sha256": "b5ba6010f0d02e3ce4aac8ac4db4475efb906cd8d5befc2145ad28d2d0b909bc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/15/25876-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050715-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
