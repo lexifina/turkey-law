@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5396",
+  "year": 2005,
+  "title": "Sağlık Hizmetleri Temel Kanununa Bir Ek Madde Eklenmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-15",
+  "gazette_issue": "25876",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050715-2.htm",
+  "source_sha256": "23ee96e5785dbf025401b53481e11ad89b1784cdae6b2dc6bfcb21fe43d7ef91",
+  "text_sha256": "183c04f08d450397ffc6543c8cf99934ecca504d6d7329f34b582b070ec2c871",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/15/25876-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050715-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
