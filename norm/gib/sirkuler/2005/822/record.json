@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-19/2005-6/Enflasyon Düzeltmesi Uygulaması-13",
+  "source_id": 822,
+  "date": "2005-07-15",
+  "title": "2005 yılı ikinci geçici vergi döneminin sonu itibarıyla enflasyon düzeltmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/822",
+  "source_sha256": "04c855abd937f62f021fee7a93491f123fb11f98a79851c5629c4b6409cd2894",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
