@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "510",
+  "decision_date": "2005-07-16",
+  "title": "Doğal Gaz Piyasası 510 Sayılı Kurul Kararı",
+  "resmi_gazete_date": "2005-07-16",
+  "resmi_gazete_number": "25877",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PTdmhTl2lC8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PTdmhTl2lC8="
+  ],
+  "source_sha256": "40e179d7c8a3b205548b472469b89b8e26d32d2935695b79ace5f694248a0ac6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-07-16",
+  "law_text_complete": false
+}
