@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.45/4535-5",
+  "source_id": 21214,
+  "date": "2005-07-16",
+  "title": "Kurumlar vergisi mükelleflerinin yatırım indirimi uygulanacak kazançlarının tespitinde kazancın türü bakımından herhangi bir ayrım söz konusu olmayıp, serbest bölgede faaliyet gösteren şubede yapılan harcamaların yatırım indirimi tutarı şirketin toplam ku",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21214",
+  "source_sha256": "b3c9c92906cb689bf8a319632efc1639c2f8c1eefa4a6f4f5285c4eba1d346ed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
