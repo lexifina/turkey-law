@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.45/4535-5-",
+  "source_id": 37837,
+  "date": "2005-07-17",
+  "title": "Dar mükellefiyete tabi olanlar dahil, ticari veya zirai kazançları bilanço esasına göre...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37837",
+  "source_sha256": "5a697fe5e6771cfee1e44362adda77b50ec9d08b02aab08bef8f2edcf46c465f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
