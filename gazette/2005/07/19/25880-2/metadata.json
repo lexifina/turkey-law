@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-19",
+  "issue": "25880",
+  "edition": "regular",
+  "item": 2,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "Kanunlar",
+  "title": "5403 Toprak Koruma ve Arazi Kullanımı Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050719-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050719.htm",
+  "index_sha256": "ec084226b9b8815515e49740c21b306f07f6341e35c9cfc95fd53de3d7600663",
+  "index_header": "19 Temmuz 2005 ... Sayı : 25880",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
