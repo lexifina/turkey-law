@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Şikâyet ve İtiraz
+Şikâyet ve itiraz
+MADDE 18 — (1) Şube müdürlükleri ile koruma kurullarının idarî nitelikteki eylem ve işlemlerine karşı infaz hâkimliğine şikâyette bulunulabilir.
+(2) Bu Kanunun uygulanması kapsamında verilmiş olan hâkim kararları ile kanunun gösterdiği hâllerde mahkeme kararlarına karşı itiraz yolu açıktır. Diğer kanunlarda belirtilen kanun yolları saklıdır.
