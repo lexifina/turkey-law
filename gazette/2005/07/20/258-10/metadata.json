@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-20",
+  "issue": "258",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Devlet Malzeme Ofisi Basım Müessesesi Müdürlüğü Satınalma Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050720-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050720.htm",
+  "index_sha256": "ad87a067780bd805820e65556af5de5a98aa6aaf51e50df964aa86aade168711",
+  "index_header": "20 Temmuz 2005 ... Sayı : 258",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
