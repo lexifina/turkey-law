@@ -3,14 +3,14 @@ MADDE 3 - Bu Kanun kapsamında Kurum tarafından verilecek lisansların tabi ola
 a) Lisansların tabi olacağı usul ve esaslar:
 1. Piyasa faaliyetleri ile iştigal edecek tüzel kişiler, faaliyetlerine başlamadan önce, her faaliyet için ve söz konusu faaliyetlerin birden fazla tesiste yürütülecek olması halinde, her tesis için ayrı ayrı lisans almak zorundadır.
 2. Birden fazla lisansa sahip olan aynı tüzel kişi veya aynı faaliyeti birden fazla tesiste yürüten tüzel kişiler, lisansa tabi her faaliyet veya tesis için ayrı ayrı hesap ve kayıt tutmak zorundadır.
+––––––––––––––––––
+(1) 27/6/2001 tarihli ve 4694 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “30 Haziran 2001” ibaresi “31 Ekim 2001” şeklinde değiştirilmiş olup daha sonra bu ibarenin yürürlüğü 15/2/2002 tarihli ve 24672 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 13/2/2002 tarihli ve E.: 2001/389, K.: 2002/6 (Yürürlüğü Durdurma) Kararı ile durdurulmuş, söz konusu ibare 18/4/2002 tarihli ve 24730 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 13/2/2002 tarihli ve E.: 2001/389, K.: 2002/29 sayılı Kararı ile 4694 sayılı Kanunun yaptığı değişiklik iptal edildiğinden madde metninden çıkarılmıştır.
 3. Lisans başvuru usul ve esasları, lisans sahibi tüzel kişilerin hak ve yükümlülükleri, lisans sahibinin haklarının temliki, lisansların tadili, süreleri, süre uzatımı ve sahibi tarafından lisanstan vazgeçilmesi halleri ile faaliyetin türü ve üretimi, iletimi ve dağıtımı yapılan elektrik enerjisi miktarına göre belirlenecek lisans bedelleri yönetmelikle düzenlenir.
 4. Lisanslar, bir defada en çok kırk dokuz yıl için verilir. Üretim, iletim ve dağıtım lisansları için geçerli olan asgari süre on yıldır.
 5. Bu Kanun hükümleri uyarınca piyasada; verimli, istikrarlı ve ekonomik bir sistem oluşturmak ve bunu korumak, elektrik enerjisi üretimi, toptan satışı ve perakende satışında rekabet ortamına uygun alt yapıyı sağlamak, dağıtım lisansı sahibi şirketlerin ve Türkiye Elektrik İletim Anonim Şirketinin görevidir.
 6. Tüzel kişiler, Kurul tarafından belirlenen lisans alma, lisans yenileme, lisans tadili, lisans sureti çıkartma ve yıllık lisans bedellerini Kuruma ödemek zorundadır.
 7. Lisans sahibi tüzel kişiler; tesislerini, yasal defter ve kayıtlarını Kurul denetimine hazır bulundurmak, Kurul tarafından talep edildiğinde denetime açmak ve Kurumun faaliyetlerini yerine getirebilmesi için ihtiyaç duyacağı her türlü bilgi ve belgeyi zamanında Kurula vermek zorundadır.
 8. Tüzel kişiler lisans almanın yanı sıra, faaliyet alanlarına göre yürürlükteki mevzuatın gereklerini yerine getirmekle yükümlüdür.
-––––––––––––––––––
-(1) 27/6/2001 tarihli ve 4694 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “30 Haziran 2001” ibaresi “31 Ekim 2001” şeklinde değiştirilmiş olup daha sonra bu ibarenin yürürlüğü 15/2/2002 tarihli ve 24672 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 13/2/2002 tarihli ve E.: 2001/389, K.: 2002/6 (Yürürlüğü Durdurma) Kararı ile durdurulmuş, söz konusu ibare 18/4/2002 tarihli ve 24730 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 13/2/2002 tarihli ve E.: 2001/389, K.: 2002/29 sayılı Kararı ile 4694 sayılı Kanunun yaptığı değişiklik iptal edildiğinden madde metninden çıkarılmıştır.
 b) Lisanslarda asgari olarak yer alacak hükümler:
 1. Lisans kapsamında hizmet verilecek gerçek ve tüzel kişilere dair gruplar veya kategoriler ile yürütülecek faaliyet türlerini belirleyen hükümler.
 2. Bir dağıtım ya da iletim lisansı sahibinin, gerçek ve tüzel kişilere, eşitler arasında
@@ -39,9 +39,7 @@ Türkiye Elektrik İletim Anonim Şirketi, şebeke yönetmeliği hükümleri uya
 Türkiye Elektrik İletim Anonim Şirketi, piyasada iletim faaliyeti dışında herhangi bir faaliyet ile iştigal edemez.
 3. Dağıtım lisansı:
 Belirli bir bölgede dağıtım faaliyetinde bulunulabilmek için tüzel kişilerin Kurumdan almak zorunda oldukları lisansı ifade eder.
-Özel sektör dağıtım şirketleri, dağıtım ve perakende satış faaliyeti dışında, lisanslarında belirtilen bölgelerde üretim lisansı almak kaydıyla ve yıllık elektrik enerjisi üretimi bir önceki yılda bölgelerinde tüketime sunulan yıllık toplam elektrik
-enerjisi miktarının yüzde yirmisinden fazla olmamak üzere üretim tesisi kurabilir.
-Dağıtım şirketleri sahibi olduğu veya iştirak ilişkisinde bulunduğu üretim şirketi veya şirketlerinden, bölgelerinde bir önceki yılda dağıtımını yaptıkları yıllık toplam miktarın yüzde yirmisinden fazla elektrik enerjisi satın alamaz.
+(Değişik ikinci ve üçüncü paragraf: 3/7/2005-5398/22 md.) Özel sektörde dağıtım şirketleri, dağıtım veya perakende satış faaliyeti dışında, üretim lisansı almak ve hesapları ayrı tutulmak kaydıyla üretim tesisi kurabilir ve sahibi olduğu veya iştirak ilişkisinde bulunduğu üretim şirketi veya şirketlerinden ülke ortalama elektrik toptan satış fiyatını geçmeyecek fiyattan elektrik enerjisi satın alabilir. (1)
 Bölgelerinde, mevcut sözleşmeleri kapsamında işletme hakkı devri yoluyla dağıtım hizmeti yapma hakkı elde etmiş özel sektör dağıtım şirketleri bu Kanunda belirlenmiş ve dağıtım şirketlerinin tabi olduğu serbest rekabet koşullarım sağlayacak şekilde sözleşmelerini tadil edip, yeni düzenlemelere geçmedikleri sürece, üretim lisansı alarak üretim tesisi kurma hakkından yararlanamaz ve üretim faaliyetiyle iştigal eden tüzel kişilerle kontrol oluşturup oluşturmadığına bakılmaksızın iştirak ilişkisine giremez.
 Diğer taraftan, mevcut sözleşmeleri kapsamında bölgelerinde dağıtım hizmeti yapma hakkı elde etmiş özel sektör dağıtım şirketleri, mevcut sözleşmelerini Kurulca belirlenecek bir süre dahilinde serbest rekabet koşullarını sağlayacak şekilde tadil etmekle yükümlüdürler. Sözleşmelerin niteliği bu hükümlerin uygulanmasına engel teşkil etmez.
 Dağıtım şirketleri, tanımlanan bu faaliyetler dışında piyasada başka bir faaliyette bulunamaz.
@@ -58,3 +56,5 @@ Perakende satış lisansına sahip dağıtım şirketleri ise ancak perakende sa
 6. Otoprodüktör ve otoprodüktör grubu lisansı:
 Kendi ihtiyaçlarını karşılamak üzere elektrik enerjisi üretimi yapan ve iletim ve/veya dağıtım sistemi ile paralel çalışan otoprodüktörlerin ve ortaklarına elektrik enerjisi temin eden otoprodüktör gruplarının Kurumdan almak zorunda oldukları lisansı ifade eder.
 d) Lisansların sona ermesi: Lisanslar, Kurul tarafından lisansta belirtilen yöntem uyarınca süreleri uzatılmadığı takdirde sürelerinin bitiminde veya lisans sahibi tüzel kişinin iflası halinde kendiliğinden, lisans sahibi tüzel kişinin lisanstan vazgeçmeyi istemesi halinde ise ancak Kurul onayıyla sona erer.
+–––––––––––––––––––
+(1) 3/7/2005 tarihli ve 5398 sayılı Kanunun 22 nci maddesine istinaden, ikinci ve üçüncü paragraf tek paragraf olarak düzenlenmiştir.
