@@ -7,10 +7,13 @@ MADDE 25 - 4760 sayılı Kanuna ekli (II) sayılı listenin 87.03 G.T.İ.P. numa
 MADDE 26 - 4760 sayılı Kanuna ekli (III) sayılı liste ekli (3) sayılı cetvelde gösterilen şekilde değiştirilmiştir. (2)
 3- 30/12/2004 tarihli ve 5281 sayılı Kanunun 38 inci maddesi:
 MADDE 38 -4760 sayılı Kanuna ekli (I) ve (III) sayılı listeler, bu Kanuna ekli (2) ve (3) sayılı cetvellerde gösterilen şekilde değiştirilmiştir. (3)
+4- 3/7/2005 tarihli ve 5398 sayılı Kanunun 28 inci maddesi:
+MADDE 28 — 6.6.2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (II) sayılı listedeki 87.03 ve 87.04 G.T.İ.P. numaralarında yer alan mallar ve vergi oranları ekli (1) sayılı cetvelde gösterilen şekilde değiştirilmiştir. (4)
 ––––––––––––––––––
 (1) Bu maddede yer alan listelerle ilgili olarak 7/8/2003 tarihli ve 25192 sayılı Resmi Gazete’de yayımlanan 4962 sayılı Kanunun ekine bakınız.
 (2) Bu maddede yer alan listelerle ilgili olarak 31/7/2004 tarihli ve 25539 sayılı Resmi Gazete’de yayımlanan 5228 sayılı Kanunun ekine bakınız.
 (3) Bu maddede yer alan listelerle ilgili olarak 31/12/2004 tarihli ve 25687 (3. Mükerrer) sayılı Resmi Gazete’de yayımlanan 5281 sayılı Kanunun ekine bakınız.
+(4) Bu maddede yer alan listelerle ilgili olarak 21/7/2005 tarihli ve 25882 sayılı Resmi Gazete’de yayımlanan 5398 sayılı Kanunun ekine bakınız.
 Mevzuatın | Yayımlandığı Resmi Gazete’nin
 Türü | Numarası | Tarihi | Numarası
 B.K.K | 2002/4481 | 30/7/2002 | 24831

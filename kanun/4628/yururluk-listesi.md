@@ -13,3 +13,4 @@ TEBLİĞ 20/12/2003 tarihli ve 25322 sayılı R.G | 11 | 2004 yılı için
 TEBLİĞ 31/12/2004 tarihli ve 25687 (Mükerrer) sayılı R.G | 11 | 2005 yılı için
 5307 | 5/C, 6, 10 | 13/3/2005
 TEBLİĞ 26/4/2005 tarihli ve 25797 sayılı R.G | 11 | 2005 yılı için
+5398 | 2, 3, İşlenemeyen Hüküm | 21/7/2005

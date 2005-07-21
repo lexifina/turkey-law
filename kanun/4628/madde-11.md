@@ -11,14 +11,14 @@ f) Piyasada lisans kapsamı dışında faaliyet gösterildiğinin saptanması ha
 g) Lisans verilmesine esas olan şartların lisansın yürürlüğü sırasında ortadan kalktığının veya bu şartların baştan mevcut olmadığının saptanması halinde lisans iptal edilir.
 Yukarıdaki para cezalarını gerektiren fiillerin ihtara rağmen düzeltilmemesi veya tekrarlanması hallerinde para cezaları her defasında bir önceki cezanın iki katı oranında artırılarak uygulanır. Bu cezaların verildiği tarihten itibaren iki yıl içinde idari para cezası verilmesini gerektiren aynı fiil işlenmediği takdirde önceki cezalar tekrarda esas alınmaz. Ancak aynı fiil iki yıl içinde işlendiği takdirde artırılarak uygulanacak para cezasının tutarı cezaya muhatap tüzel kişinin bir önceki mali yılına ilişkin bilançosundaki gayri safi gelirinin yüzde onunu aşamaz. Cezaların bu düzeye ulaşması halinde, Kurul lisansı iptal edebilir.
 Bu maddenin birinci fıkrasının (c) veya (d) bendinde sayılan ihlallerde Kurul, fiilin ağırlığına göre idari para cezası uygulamaksızın lisansı doğrudan iptal eder.
+___________________
+(1) Bu maddede yer alan para cezaları ile ilgili uygulama için, Kanunun sonunda yer alan "ÇİZELGE" ye bakınız.
 Dağıtım bölgeleri için lisansın iptal edilmesinin zorunlu hale gelmesi durumunda Kurul hizmetin aksamaması için gerekli tedbirleri önceden almak suretiyle lisansı iptal eder. Tesislerin mülkiyetini elinde bulunduran lisans sahibinin nam ve hesabına yüzyirmi gün içerisinde ilgili tesisin satışı için ihaleye çıkılır. Uygulamaya ilişkin usul ve esaslar yönetmeliklerde belirlenir.
 Bu maddede düzenlenen tüm idari para cezaları hiçbir şekilde ilgili cezayı ödeyen tüzel kişi tarafından hazırlanacak tarifelerde maliyet unsuru olarak yer almaz.
 Para cezası, bu Kanuna aykırı hareket eden tarafların her birine ayrı ayrı uygulanır. Bu Kanun gereğince para cezasını gerektiren fiillerin Türk Ceza Kanunu veya ceza hükmünü içeren diğer kanunlarda suç sayılması, söz konusu para cezalarının
 verilmesine engel olmayacağı gibi, lisans iptaline de mani değildir.
 Bu Kanundaki cezalan gerektiren fiillerin birden fazla olması halinde ve aralarında irtibat olması durumunda en yüksek cezayı gerektirecek fiilin cezası; irtibat bulunmaması halinde ise her birinin cezası ayrı ayrı uygulanır.
 Para cezası kararı verilmesi halinde ilgili tüzel kişi tebliğden itibaren onbeş gün içinde Kurula müracaat ederek kararın yeniden gözden geçirilmesini talep edebilir. Bu talebin yapılmaması veya talebin reddi hallerinde para cezası kararı kesinleşir.
-___________________
-(1) Bu maddede yer alan para cezaları ile ilgili uygulama için, Kanunun sonunda yer alan "ÇİZELGE" ye bakınız.
 Para cezası uygulama hakkı, aykırılığın vuku bulduğu tarihi izleyen yılın başından itibaren beş yıllık zamanaşımına tabidir.
 Kurulun inceleme ve araştırma amacıyla yapacağı herhangi bir işlem, bu işlemin ilgili tarafa tebliği, karar aleyhine yargı yoluna başvurulmuş olması, zamanaşımını keser.
 Verilen para cezası 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre Maliye Bakanlığınca, Kurum adına tahsil olunur.
