@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5398",
+  "year": 2005,
+  "title": "Özelleştirme Uygulamalarının Düzenlenmesine ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunda ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-07-21",
+  "gazette_issue": "25882",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050721-1.htm",
+  "source_sha256": "0d1106c33ef097d97cd4285ba1b6caf2799cac99fb072860b2214a6534d51936",
+  "text_sha256": "73361744e0b6d90f50ec47fcdeba288197b5b61e3b8616ace2f87a3a69a03997",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/07/21/25882-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050721-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
