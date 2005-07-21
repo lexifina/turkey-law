@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.9116",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 350)",
+  "number": "9116",
+  "path": "teblig/2005/9116",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9116&MevzuatTertip=5",
+  "source_sha256": "ef0ef8ef86ac8931f9422064082b94ca8d19da96606adf3901578551111835f4",
+  "source_bytes": 48358,
+  "published": "2005-07-21",
+  "gazette": "25882",
+  "in_force": "2005-07-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.07.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1616,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.9116.Ek1b.doc",
+    "9.5.9116.Ek2b.doc",
+    "9.5.9116.Ek3.xls",
+    "9.5.9116.Ek1B.xls",
+    "9.5.9116.Ek2B.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
