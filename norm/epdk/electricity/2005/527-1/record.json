@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "527/1",
+  "decision_date": "2005-07-22",
+  "title": "“RES’ler için üretim lisansı başvurusu kabul edilmemesine ilişkin sürenin 31/12/2005 tarihine kadar uzatılması”na ilişkin Kurul Kararı",
+  "categories": [
+    "Başvuru"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FEHdCl7/ECQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FEHdCl7/ECQ="
+  ],
+  "source_sha256": "ce42c7e3ff8ce255c3ffd95ea3be96d3a08a9aa2d38c5a907e8c6f50ab0a9f65",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33883,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-07-22",
+  "law_text_complete": false
+}
