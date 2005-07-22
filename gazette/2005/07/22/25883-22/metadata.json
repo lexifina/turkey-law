@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-22",
+  "issue": "25883",
+  "edition": "regular",
+  "item": 22,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "İşkolu Tespit Kararı (No: 2005/34)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050722-22.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050722.htm",
+  "index_sha256": "9844d001450fc1760c7d9ebc5d1fc01f23c6156f5cc8b712b93562ce6a63ebf9",
+  "index_header": "22 Temmuz 2005 ... Sayı : 25883",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
