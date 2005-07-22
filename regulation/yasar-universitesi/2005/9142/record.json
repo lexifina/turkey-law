@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.9142",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "YAŞAR ÜNİVERSİTESİ AVRUPA BİRLİĞİ ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "number": "9142",
+  "issuer": "YAŞAR ÜNİVERSİTESİ",
+  "issuer_slug": "yasar-universitesi",
+  "path": "regulation/yasar-universitesi/2005/9142",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=9142&MevzuatTertip=5",
+  "source_sha256": "abfdb556accb1ff8cd8d0106cd31ae824181ec3a42c961bc78f563deb66d62d6",
+  "source_bytes": 20930,
+  "published": "2005-07-22",
+  "gazette": "25883",
+  "in_force": "2005-07-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.07.2005); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 929,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
