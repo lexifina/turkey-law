@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-23",
+  "issue": "25884",
+  "edition": "regular",
+  "item": 5,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Bursa Valiliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/07/20050723-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (15 = 15)",
+  "ilan_codes": [
+    "8921/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/07/20050723-4.htm",
+  "category_page_sha256": "83af507bad71c9dbc12993e85eff3b7a1cca612e64db9d084f166b2a9736a7da",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/07/20050723.htm",
+  "index_sha256": "b48814c32f5cc2f1e92c8078a6f9225acca004dea4768c322b1de5f60ec03bde",
+  "index_header": "23 Temmuz 2005 ... Sayı : 25884",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
