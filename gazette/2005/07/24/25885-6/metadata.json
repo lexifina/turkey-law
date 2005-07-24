@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-24",
+  "issue": "25885",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "DÜZELTME (5399 sayılı “Türk Medenî Kanununda Değişiklik Yapılmasına İlişkin Kanunun” Birinci Maddesinin Düzeltilmesi ile İlgili)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050724-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050724.htm",
+  "index_sha256": "b2977cef856981e1e032a10d801a555c2d961cfa86f35a4cf275854317ba71a9",
+  "index_header": "24 Temmuz 2005 ... Sayı : 25885",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
