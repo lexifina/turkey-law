@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-25",
+  "issue": "25886",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Mimar Sinan Güzel Sanatlar Üniversitesi Devlet Konservatuvarı Hazırlık ve Lisans Öğretim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050725-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050725.htm",
+  "index_sha256": "7f1c3235cc38cbb05b169b8123ce3db613d86f946977c74db39179ee3c9e89df",
+  "index_header": "25 Temmuz 2005 ... Sayı : 25886",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
