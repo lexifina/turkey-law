@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-07-26",
+  "issue": "25887",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Koruma Amaçlı İmar Planları ve Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması, Denetimi ve Müelliflerine İlişkin Usul ve Esaslara Ait Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050726-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/07/20050726.htm",
+  "index_sha256": "703af3a641f5b592e68452d4c86d6336f2131fdaee0f96ab31eff8e3407db101",
+  "index_header": "26 Temmuz 2005 ... Sayı : 25887",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
