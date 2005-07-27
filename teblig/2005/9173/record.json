@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9173",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 8)",
+  "number": "9173",
+  "issuer": "Gümrük Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2005/9173",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9173&MevzuatTertip=5",
+  "source_sha256": "819f169020b5b49049784468e4fe815eea0e48223ddeabfa0f35a1d2abcb969d",
+  "source_bytes": 22039,
+  "published": "2005-07-27",
+  "gazette": "25888",
+  "in_force": "2005-07-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.07.2005); own commencement article: \"Bu Tebliğ, 21/7/2005 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 21/7/2005 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 496,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
