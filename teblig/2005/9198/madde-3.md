@@ -1,0 +1,6 @@
+Bilgilerin toplanması ve değerlendirilmesi
+Madde 3- Soruşturma açılmasını müteakip, söz konusu ürünün bilinen yerli üreticilerine, Müsteşarlıkça tespit edilen ithalatçılarına, ÇHC’de yerleşik bilinen ihracatçılarına ve anılan ülkede yerleşik diğer ihracatçılara erişilebilmesini teminen soruşturmaya taraf ülkenin Ankara Büyükelçiliği’ne soru formları gönderilmiştir.
+Tarafların soru formunu yanıtlamaları için posta süresi dahil 37 gün süre tanınmıştır. İlgili tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+ÇHC’de yerleşik üretici-ihracatçı firmalar TCL King Electrical Appliances (HuiZhou) Co. Ltd. firması (TCL) ve Skyworth Multimedia International (Shenzhen) Co. Ltd. (Skyworth) temel bazı eksikliklerle beraber soru formuna cevap vermiştir.
+Başvuru sahibi yerli üreticiler soru formuna usulüne uygun şekilde yanıt vermiştir. Ayrıca, soruşturma süresi boyunca Müsteşarlığımız ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgi ve belgeleri temin etmiştir.
+Soruşturma konusu maddenin ithalatını anılan ülkeden yaptığı belirlenen 28 firmaya ithalatçı soru formu gönderilmiş olup, soru formlarına cevap veren 12 firmanın görüşleri değerlendirilmiştir. Bu görüşler çerçevesinde, ithalatçılar için yerli ürün ile ithal edilen ürün arasındaki en önemli tercih sebebinin fiyat farklılığı olduğu görülmüştür.

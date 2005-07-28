@@ -1,0 +1,2 @@
+Dampingli ithalatın yerli üretici fiyatları üzerindeki etkisi
+Madde 17- ÇHC menşeli ithalatın gümrük vergisi ve diğer gümrükleme masrafları dahil Türkiye piyasasına giriş fiyatları, yerli üretim dalının fabrika çıkış aşamasındaki satış fiyatları ile mukayese edilmiş ve dampingli ithalatın fiyatının yerli üretim dalının fiyatının önemli ölçüde altında kaldığı tespit edilmiştir. Bu çerçevede yapılan hesaplamalarda, SD’de fiyat kırılması TCL firması için %37, Skyworth firması için %77 oranında bulunmuştur.

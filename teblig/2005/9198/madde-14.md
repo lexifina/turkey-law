@@ -1,0 +1,2 @@
+Maddenin soruşturma konusu ülkeden ithalatı
+Madde 14- Maddenin ÇHC’den ithalatı, 2000 yılında 54.206 adet iken 2001 yılında 21.087 adet düzeyine gerilemiş, 2002 yılı ve SD’de büyük oranda artarak sırasıyla 116.240 ve 294.447 adet olarak gerçekleşmiştir. Soruşturma konusu ülkeden ithalatın 2000 yılı ile SD arasında miktar bazında %443, değer bazında ise %494 oranında artış kaydettiği görülmektedir. Maddenin ÇHC’den ithalatının toplam ithalat içindeki payı 2000 yılında %11 iken, 2001 yılında %12,5’e, 2002 yılında %37’ye ve SD’de %70’e yükselmiştir.

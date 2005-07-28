@@ -1,0 +1,4 @@
+İlgili tarafların bilgilendirilmesi ve dinlenmesi
+Madde 5- Soruşturma açılmasını müteakip, soruşturma konusu ülkenin Ankara’daki Büyükelçiliği’ne ve bilinen üretici/ihracatçı firmalara şikayetin gizli olmayan metni ve soruşturma açılış Tebliği gönderilmiştir.
+Nihai bildirim yapılmasını müteakip ÇHC’deki üretici/ihracatçılar ve ithalatçılar ile yerli üreticilere bildirime ilişkin görüşlerini yazılı olarak sunma imkanı verilmiş; ayrıca 24/06/2005 tarihinde ÇHC hükümet temsilcileri ile bu ülkedeki üretici/ihracatçıların temsilcilerinin yer aldığı bir dinleme toplantısı gerçekleştirilmiştir.
+Tüm taraflara soruşturma boyunca, soruşturma ile ilgili görüşlerini ve bu görüşlerle ilgili belgeleri sunma imkanı verilmiş ve tarafların soruşturma boyunca ortaya koyduğu tüm bilgi, belge ve görüşler incelenerek, mezkur görüşlerden mevzuat kapsamında değerlendirilebilecek iddialara raporun ilgili bölümlerinde yer verilmiştir.
