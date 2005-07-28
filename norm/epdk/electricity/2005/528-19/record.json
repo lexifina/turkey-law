@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "528/19",
+  "decision_date": "2005-07-28",
+  "title": "Perakende Satış Lisansına Sahip Dağıtım Şirketlerinin 248/4 Sayılı Kurul Kararı Kapsamındaki Tüketicilerine Uygulayacağı Tarife",
+  "resmi_gazete_date": "2005-08-11",
+  "resmi_gazete_number": "25903",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2IcZpDAJ9rg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2IcZpDAJ9rg="
+  ],
+  "source_sha256": "4f5ce2b66a066c5ac63d0e92c9c3950513b216389af59c49c8161ea84968557a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-07-28",
+  "law_text_complete": false
+}
