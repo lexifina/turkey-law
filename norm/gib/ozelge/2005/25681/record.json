@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.29/2921-229-575-30421",
+  "source_id": 25681,
+  "date": "2005-07-30",
+  "title": "Alınan sağlık hizmetleri karşılığında, özel sağlık kurum ve kuruluşlarının, kamu kurum ve kuruluşlarına düzenlediği fatura bedelleri üzerinden yapılan ödemelerin zaman zaman bu bedelden daha düşük olamsı durumunda, kamu kurum ve kuruluşlarının, sağlık kur",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25681",
+  "source_sha256": "ec6a8db2609230a4640e72aafbfa8ef79ac3c055577c74b207736ce878e0e74b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
