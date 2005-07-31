@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.9212",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIMDA KENDİ ADINA VE HESABINA ÇALIŞAN SİGORTALILARIN TESCİLİ İLE İLGİLİ İŞLEMLER, BAŞVURMA VE UYMAK ZORUNDA OLDUKLARI USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "9212",
+  "issuer": "Bağ-Kur Genel Müdürü",
+  "issuer_slug": "bag-kur-genel-muduru",
+  "path": "regulation/bag-kur-genel-muduru/2005/9212",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9212&MevzuatTertip=5",
+  "source_sha256": "3e03bf8cc8370565baa65626e23c9434810dc3b66857637e6e6ba53045fe1513",
+  "source_bytes": 28345,
+  "published": "2005-07-31",
+  "gazette": "25892",
+  "in_force": "2005-07-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.07.2005); own commencement article: \"Bu Yönetmelik yayımı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1211,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
