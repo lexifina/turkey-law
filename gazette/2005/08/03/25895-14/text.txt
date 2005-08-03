@@ -1,0 +1,349 @@
+Tebliğ
+Dış Ticaret Müsteşarlığından
+Dahilde İşleme Rejimine İlişkin İşlemlerin Bilgisayar
+Veri İşleme
+Tekniği
+Yoluyla Yapılmasına Dair Tebliğ
+(İhracat:
+2005/9)
+BİRİNCİ BÖLÜM
+AMAÇ, KAPSAM, HUKUKİ DAYANAK VE TANIMLAR
+Amaç
+Madde 1- Bu Tebliğin amacı, Dahilde İşleme Rejimine ilişkin işlemlerin
+bilgisayar veri işleme tekniği yoluyla yapılmasına yönelik uygulama
+usul ve esaslarını belirlemektir.
+Kapsam
+Madde 2- Bu
+Tebliğ, Dahilde İşleme Rejimine ilişkin işlemlerin
+bilgisayar veri işleme tekniği yoluyla yapılması durumunda uygulanacak
+Dahilde İşleme Tedbirlerini kapsar.
+Hukuki Dayanak
+Madde 3- Bu
+Tebliğ; 17/1/2005 tarihli ve 2005/8391 sayılı Bakanlar Kurulu Kararı eki “Dahilde İşleme Rejimi Kararı”nın 26 ncı
+maddesine istinaden hazırlanmıştır.
+Tanımlar
+Madde 4- Bu
+Tebliğde geçen;
+Müsteşarlık: Dış Ticaret Müsteşarlığını,
+Elektronik İmza: 5070 sayılı Elektronik İmza
+Kanunu’na istinaden ıslak imza ile eşdeğer olarak kabul edilecek ve belgeleri
+elektronik ortamda imzalamak için kullanılacak elektronik veriyi,
+Elektronik İmza Sertifikası: Elektronik imza için
+kullanılacak ve Telekomünikasyon Kurumu tarafından yetkilendirilmiş sertifika
+hizmet sağlayıcılarından alınacak elektronik veriyi,
+Kullanıcı: Dahilde işleme izin belgesi sahibi firma tarafından
+yetkilendirilmiş ve elektronik imza sertifikasına sahip gerçek kişiyi,
+Web Sayfası: Müsteşarlığın “www.dtm.gov.tr” internet adresinden girilen web sayfasını,
+Bilgi Sistemi: Müsteşarlıkça bilgilerin
+tutulduğu ve bilgisayar uygulamalarının çalıştırıldığı bilgisayar sistemini,
+Satır Kodu: Dahilde
+işleme izin belgesi üzerinde yer alan, ithal ve ihraç eşyasını tarif eden ve
+Müsteşarlığımız ile Gümrük Müsteşarlığı arasındaki Dahilde İşleme Rejimine
+ilişkin bilgi iletişiminde dikkate alınacak belge numarasını da içeren kod
+bilgisini,
+Dahilde İşleme İzin
+Belgesi: İhracat ile ihracat sayılan satış ve teslimlerde gümrük
+muafiyetli ithalat ve/veya yurt içi alımlara imkan sağlayan Müsteşarlıkça
+düzenlenen ve aynı zamanda elektronik ortamda kayıtları bulunan belgeyi,
+Vergi Resim Harç İstisnası: İhracat,
+İhracat Sayılan Satış ve Teslimler ile Döviz Kazandırıcı Hizmet ve
+Faaliyetlerde Vergi, Resim ve Harç İstisnası Hakkında Karar ve Tebliğ
+hükümleri uyarınca dahilde işleme izin belgesine
+uygulanacak tüm istisnaları,
+Belge: Dahilde işleme izin belgesini,
+Belge Süresi: Dahilde işleme izin
+belgesi kapsamında ithalat ve/veya yurt içi alım ile ihracat ve ihracat
+sayılan satış ve teslim işlemlerinin gerçekleştirileceği ve tüm istisnaların
+uygulanacağı dönemi,
+İhracat Süresi: Dahilde işleme izin
+belgesi üzerinde kayıtlı bulunan ve belge kapsamında sadece ihracat ile
+ihracat sayılan satış ve teslim işlemlerinin gerçekleştirileceği ve tüm
+istisnaların uygulanacağı dönemi,
+İthalat Süresi: Dahilde işleme izin
+belgesi üzerinde kayıtlı bulunan ve belge kapsamında sadece ithalat ve/veya
+yurt içi alım işlemlerinin gerçekleştirileceği ve tüm istisnaların
+uygulanacağı dönemi,
+Belge Süresi Sonu: Belge süresi bitiminin rastladığı ayın son
+gününü,
+Döviz Kullanım Oranı: Dahilde işleme izin belgesi kapsamındaki CIF
+ithal tutarının FOB ihraç tutarına olan yüzde oranını,
+Belge Sahibi Firma :
+Dahilde
+İşleme Rejimine ilişkin işlemleri, elektronik imza yetkisi olan kullanıcı aracılığıyla
+ve bilgisayar veri işleme tekniği yoluyla gerçekleştiren imalatçı-ihracatçı
+veya ihracatçı firmayı,
+İmalatçı-İhracatçı: İşlem görmüş ürünün tamamını veya bir kısmını üreten ve bu ürünün
+ihracatını kendisi ve/veya aracı ihracatçı vasıtasıyla gerçekleştiren dahilde işleme izin belgesi sahibi firmayı,
+İhracatçı: Yan sanayici firmaya ithal
+eşyasından işlem görmüş ürün ürettiren ve bu ürünün ihracatını kendisi
+ve/veya aracı ihracatçı vasıtasıyla gerçekleştiren, imalatçı olmayan dahilde işleme izin belgesi sahibi firmayı,
+Yan Sanayici: Dahilde işleme izin belgesinde taahhüt edilen
+ihraç ürününün tamamını ya da bir kısmını üreten, belgede kayıtlı ancak belge
+sahibi olmayan firmayı,
+Aracı İhracatçı: Dahilde işleme izin belgesinde taahhüt edilen ihracatı, belge
+sahibi firmadan tedarik ettiği şekliyle gerçekleştiren, belge sahibi firma
+tarafından yetkilendirilmiş belge sahibi olmayan firmayı,
+Temsilci Aracılığı ile İthalat: Dahilde işleme izin belgesi
+kapsamındaki eşyanın ithalatının, Borçlar Kanunu’nun doğrudan ya da dolaylı
+temsil hükümlerine göre tayin edilmek kaydıyla, belge sahibi firma tarafından
+yetkilendirilmiş temsilci aracılığıyla yapılmasını,
+ifade eder.
+İKİNCİ BÖLÜM
+GENEL HÜKÜMLER
+Dahilde İşleme Rejiminden Yararlanmak
+İçin Elektronik Ortamda Müracaat
+Madde 5- Elektronik imza sertifikası sahibi kullanıcılar, Türkiye Gümrük Bölgesinde (serbest bölgeler hariç) yerleşik imalatçı-ihracatçı veya ihracatçılar adına,
+Dahilde İşleme Rejimine ilişkin işlemleri bilgisayar
+veri işleme tekniği yoluyla gerçekleştirebilmek için web sayfası vasıtasıyla
+elektronik ortamda Müsteşarlığa müracaat ederler.
+Firma Tanımlaması
+Madde 6- Bu Tebliğ’in 5 inci maddesi uyarınca web sayfası vasıtasıyla
+elektronik ortamda Müsteşarlığa müracaat eden elektronik imza sertifikası
+sahibi kullanıcıların, ek-1’de belirtilen bilgi ve
+belgeleri ilgili ihracatçı birlikleri genel sekreterliğine göndermeleri
+gerekir. İlgili ihracatçı birlikleri genel sekreterliği, yapılacak
+değerlendirme neticesinde ek-1’de belirtilen bilgi ve belgeleri bilgi
+sistemine aktarır ve bu bilgi ve belgeleri firma tanımlamasının yapılmasını teminen Müsteşarlığa gönderir.
+Ayrıca,
+belge üzerinde yan sanayici olarak yer alması talep edilen firmaların,
+ek-1’de belirtilen bilgi ve belgeler yanında Dahilde
+İşleme Rejiminden yararlanmak isteyen firma ile yapılan protokole istinaden firma tanımlamasının yapılması
+gerekir.
+Birinci ve ikinci
+fıkra hükümleri çerçevesinde ibraz edilen bilgi ve belgeler, aksi sabit
+oluncaya kadar doğru kabul edilir.
+Belge
+Müracaatlarının Değerlendirilmesi
+Madde 7- Firma tanımlaması yapılmış
+elektronik imza sertifikası sahibi
+kullanıcılar, Türkiye
+Gümrük Bölgesinde (serbest bölgeler hariç) yerleşik imalatçı-ihracatçı veya ihracatçılar adına, belge almak için web
+sayfası vasıtasıyla elektronik ortamda Müsteşarlığa müracaat ederler. Bu
+müracaat esnasında firmalar tarafından, her bir ithal eşyası ve işlem
+görmüş ürün (asıl ve ikincil işlem görmüş ürünler) için, ayrı ayrı asgari 8 (sekiz)’li bazda gümrük tarife istatistik pozisyonu belirtilir.
+Müsteşarlıkça
+yapılacak değerlendirme neticesinde, belge düzenlenip düzenlenmeyeceğine
+karar verilir.
+Belge Düzenlenmesi
+Madde 8- Müsteşarlıkça belge
+müracaatlarının değerlendirilmesi neticesinde, belge düzenlenmesine karar
+verilmesi durumunda;
+a) İthal eşyası ve
+işlem görmüş ürünün (asıl ve ikincil işlem görmüş ürünler) satır kodu, asgari
+8 (sekiz)’li bazda gümrük
+tarife istatistik pozisyonu (her bir ithal eşyası ve işlem görmüş ürün için
+ayrı ayrı belirtilmek suretiyle), adı, verimlilik
+oranına göre belirlenen miktarı ve değeri,
+b) Belge
+süresi,
+c) Döviz kullanım
+oranı,
+d) Varsa yan
+sanayici ile belge müracaatında bulunan firma tarafından tek vergi numarası
+ve firma unvanı bildirilmiş temsilci yoluyla ithalat yapan firma ve/veya
+aracı ihracatçı,
+belirlenerek dahilde işleme izin belgesi
+verilir ve belgenin düzenlendiği tarih itibarıyla elektronik ortamda bulunan
+belge kaydı dikkate alınarak belge kapsamındaki işlemler yapılabilir.
+Belgenin
+Kullanılması
+Madde 9- BİLGE
+(Bilgisayarlı Gümrük Etkinlikleri) Sistemine dahil
+olan gümrük idarelerince belge kapsamında gerçekleştirilen ithalat ve ihracat
+işlemleri, belgenin orijinal nüshası aranılmaksızın belgenin elektronik
+ortamdaki kayıtları dikkate alınarak yürütülür. Belge kapsamında
+gerçekleştirilen ithalat ve ihracata ilişkin gümrük beyannamesi üzerinde,
+diğer bilgiler yanında belge numarasını içeren satır kodunun da yer alması
+zorunludur.
+Ancak;
+a) Belge kapsamındaki yurt içi
+alımlarda, belge orijinal nüshasının ithalat bölümüne gerekli düşümü yapılan
+alıma ilişkin fatura kayıtlarının en geç yurt içi alımın yapıldığı günü takip
+eden 3 (üç) gün içerisinde belge sahibi firma tarafından Müsteşarlık web
+sayfasından elektronik ortama aktarılması gerekmektedir.
+b) Özel fatura kapsamındaki
+ihracat, ihracat sayılan satış ve teslimler ile belgeden belgeye teslimlerde,
+teslime ilişkin fatura kayıtlarının en geç işlemin yapıldığı günü takip eden 3
+(üç) gün içerisinde belge sahibi firma tarafından Müsteşarlık web sayfasından
+elektronik ortama aktarılması gerekmektedir.
+c) BİLGE Sistemine dahil olmayan
+gümrük idarelerinden gerçekleştirilen ithalat ve ihracat işlemlerinde belge
+kapsamındaki ithalat ve ihracata ilişkin gümrük beyannamesine ilişkin
+kayıtların en geç işlemin tamamlandığı günü takip eden 3 (üç) gün içerisinde
+belge sahibi firma tarafından Müsteşarlık web sayfasından elektronik ortama
+aktarılması gerekmektedir .
+BİLGE
+Sistemine dahil olmayan gümrük idarelerinden belge
+kapsamında gerçekleştirilecek ithalat işlemlerinde, ilgili gümrük idaresince
+belgenin orijinal nüshası aranmak ve belgenin son sayfasında yer alan ithal
+edilen maddelerle ilgili bilgiler bölümüne gerekli meşruhat düşülmek suretiyle
+ithalat işlemleri gerçekleştirilir. BİLGE Sistemine dahil
+olmayan gümrük idarelerinden yapılacak ithalatta, indirimli teminat
+uygulanmaz. BİLGE Sistemine dahil olmayan gümrük
+idarelerinden yapılacak ihracat işlemlerinde ise belgenin orijinal nüshası
+üzerinden işlemler tekemmül ettirilir. Ayrıca, bu kapsamdaki işlemlerde,
+belgenin bir fotokopisi ilgili ithalata veya ihracata ilişkin gümrük
+beyannamesine eklenir.
+BİLGE
+Sistemine dahil olan gümrük idarelerinden belge
+kapsamında gerçekleştirilen ithalat ve ihracat işlemleri sırasında,
+Müsteşarlık ve Gümrük Müsteşarlığı arasında bağlantı kurulamaması ve bu
+arızanın 2 (iki) saat içerisinde giderilememesi durumunda gümrük
+beyannamesinin tesciline izin verilir. Bu durumda, ilgili gümrük idaresince
+belgenin orijinal nüshası aranmak ve belgenin son sayfasında yer alan ithal
+edilen maddelerle ilgili bilgiler bölümüne gerekli meşruhat düşülmek
+suretiyle ithalat işlemleri gerçekleştirilir. İhracat işlemlerinde ise
+belgenin orijinal nüshası üzerinden işlemler tekemmül ettirilir. Ayrıca,
+belgenin bir fotokopisi ilgili ithalata veya ihracata ilişkin gümrük
+beyannamesine eklenir. Müsteşarlıkça ilgili gümrük beyannamelerine ilişkin
+bilgiler, daha sonra elektronik ortamda alınır.
+Gümrük
+mevzuatı çerçevesinde eşyanın tesliminden sonra düzeltme yapılması durumunda
+buna ilişkin bilgiler, gümrük idaresince ilgili ihracatçı birlikleri genel
+sekreterliğine gönderilir ve bu bilgiler, ilgili ihracatçı birlikleri genel
+sekreterliği tarafından bilgi sistemine aktarılır.
+Eşyanın
+mahrecine iade edilmesi veya geri gelmesi halinde gümrük idaresince buna
+ilişkin bilgiler, ilgili ihracatçı birlikleri genel sekreterliğine bildirilir
+ve bu bilgiler, ilgili ihracatçı birlikleri genel sekreterliği tarafından
+bilgi sistemine aktarılır.
+Firmanın Sorumluluğu
+Madde 10- Bu
+Tebliğin 9 uncu maddesinin ikinci fıkrasında belirtilen kayıtların en geç işlemin yapıldığı günü
+takip eden 3 (üç) gün içerisinde belge sahibi firma tarafından Müsteşarlık web sayfasından
+elektronik ortama aktarılamaması durumunda belge ihracat taahhüt kapatma
+işlemi, bu kayıtlar dikkate alınmaksızın tekemmül ettirilir. İlgili belge
+sahibi firma tarafından mezkur kayıtların belge taahhüt kapatma müracaatına kadar Müsteşarlık web
+sayfasından elektronik ortama aktarılması durumunda ise belge ihracat taahhüt
+kapatma işlemi, bu kayıtlar dikkate alınarak tekemmül ettirilir, ancak bu durumdaki firmaların dahilde işleme izin belgelerine (bu firmaların bir başka
+firmanın belgesinde yan sanayici olması da dahil) 1 (bir) yıl süreyle indirimli
+teminat uygulanmaz.
+Bu Tebliğin 9 uncu maddesinin
+ikinci fıkrasında belirtilen kayıtlar, bu fıkrada öngörülen süreler
+içerisinde Müsteşarlık web
+sayfasından elektronik ortama aktarılsa dahi, belge kapsamında ithali
+öngörülen eşyanın miktar ve/veya değerinde bir aşım olması halinde, bu
+aşımdan belge sahibi firma sorumludur. Bu kapsamda bir miktar aşımı olması
+halinde, bu aşım revize işlemine konu edilemez ve bu durumdaki firmaların dahilde işleme izin belgelerine (bu firmaların bir başka
+firmanın belgesinde yan sanayici olması da dahil) 1 (bir) yıl süreyle
+indirimli teminat uygulanmaz.
+Bu
+Tebliğin 9 uncu maddesinin beşinci fıkrası çerçevesinde eşyanın tesliminden
+sonra yapılacak bir düzeltmede belge kapsamında ithali öngörülen eşyanın
+miktar ve/veya değerinde bir aşım olması halinde bu aşımdan belge sahibi
+firma sorumludur. Bu kapsamda bir miktar aşımı olması halinde, bu aşım revize
+işlemine konu edilemez. Bu durum, Gümrük Müsteşarlığı’na da bildirilir.
+Ayrıca, BİLGE Sistemine dahil olan gümrük idarelerinden, Müsteşarlık bilgi
+sistemine erişim sağlanmaksızın belge kapsamındaki ithalat ve ihracat
+işlemlerinin gerçekleştirildiği hallerde, ilgili ithalat ve ihracata ilişkin
+gümrük beyannamelerinde yer alan bilgilerin (satır kodu, gümrük tarife
+istatistik pozisyonu vb.) ilgili dahilde işleme izin belgesinde belirtilen
+bilgilerden farklı olmaması gerekir. Aksine bir durumun tespiti halinde, bu
+durumdan belge sahibi firma sorumludur.
+Bu kapsamda bir miktar aşımı olması halinde, bu aşım revize işlemine
+konu edilemez ve bu durumdaki firmaların dahilde
+işleme izin belgelerine (bu firmaların bir başka firmanın belgesinde yan
+sanayici olması da dahil) 1 (bir) yıl süreyle indirimli teminat uygulanmaz.
+Aracı İhracatçı İle İhracat
+Madde 11- Bu Tebliğin 8 inci maddesi hükmü saklı kalmak kaydıyla, dahilde
+işleme izin belgesi kapsamında işlem görmüş ürünün ihracatı, belge sahibi
+firma tarafından yapılabileceği gibi, ilgili ihracatçı birlikleri genel sekreterliğinden izin alınmak
+kaydıyla başka bir ihracatçı aracılığı ile de yapılabilir. Bu durumda, aracı ihracatçı unvanı yanında bu firmaya
+ait tek vergi numarası da belge sahibi firma tarafından ilgili ihracatçı birlikleri genel
+sekreterliğine bildirilir. Ancak, Müsteşarlıkça (İhracat Genel
+Müdürlüğü) aracı ihracatçı kullanımına kısıtlama getirilebilir.
+Temsilci Aracılığı İle İthalat
+Madde 12- Bu Tebliğin 8 inci maddesi hükmü saklı kalmak kaydıyla, dahilde
+işleme izin belgesi kapsamındaki eşyanın ithalatı, ilgili ihracatçı birlikleri genel sekreterliğinden izin alınmak
+ve Borçlar Kanununun doğrudan ya da dolaylı temsil hükümlerine göre tayin
+edilmek kaydıyla, temsilci aracılığıyla da yapılabilir. Bu durumda, temsilci firma unvanı yanında bu firmaya ait tek
+vergi numarası da belge sahibi firma tarafından ilgili ihracatçı birlikleri genel
+sekreterliğine bildirilir.
+Belgenin Revizesi
+Madde 13- Dahilde işleme izin belgesi, kapatma
+müracaatından sonra veya belge süresi içerisinde revize edilebilir. Belge
+sahibi firmalar, belgenin orijinal nüshası aranılmaksızın belgenin elektronik
+ortamdaki kayıtlarının revize işlemlerinin yapılabilmesini teminen web
+sayfası vasıtasıyla elektronik ortamda Müsteşarlığa müracaat edebilirler.
+Müsteşarlıkça yapılacak değerlendirme
+neticesinde, uygun görülen talepler belgenin elektronik ortamdaki kayıtlarına
+işlenir.
+Ancak,
+belge kapsamındaki
+yurt içi alımlara ve vergi resim harç istisnasına yönelik işlemler için belge orijinal
+nüshası üzerinde revize işlemlerinin yapılması gerekir. Bu durumda, revize
+müracaatı ilgili firma tarafından belge aslı ile gerekli bilgi ve belgelerle
+birlikte Müsteşarlığa (İhracat Genel Müdürlüğü) yapılır. Müsteşarlıkça
+(İhracat Genel Müdürlüğü) revize müracaatı sonuçlandırılır ve belge üzerinde
+yapılan revize işlemleri bilgi sistemine işlenir.
+Dahilde işleme izin belgelerinin revize
+edilmesi ile ilgili görev ve yetkiler Müsteşarlıkça kullanılabileceği gibi,
+gerek görülmesi halinde ihracatçı birlikleri genel sekreterliklerine kısmen
+devredilebilir.
+İhracat Taahhüdünün Kapatılması
+Madde 14-
+Bu Tebliğ çerçevesinde düzenlenen dahilde işleme
+izin belgelerine ilişkin ihracat taahhütlerinin kapatılması için belge sahibi
+firmaların, en geç belge süresi sonundan itibaren 3 (üç) ay içerisinde
+elektronik ortamda ve aynı süre içerisinde gerekli bilgi ve belgelerle
+birlikte ilgili ihracatçı birlikleri genel sekreterliğine müracaat etmeleri
+gerekmektedir.
+Süresi içerisinde kapatma
+müracaatında bulunmayan firmalara, bu sürenin bitimini müteakip elektronik
+ortamda, 1 (bir) ay içerisinde ihracat taahhüdünü kapatma müracaatında bulunulması
+bildirilir. Belirtilen süre içerisinde kapatma müracaatında bulunmayan
+firmalar adına düzenlenen dahilde işleme izin
+belgeleri, ilgili ihracatçı birlikleri genel sekreterliklerince mevcut bilgi
+ve belgelerle resen kapatılır.
+BİLGE
+Sistemine dahil olan gümrük idarelerinden belge
+kapsamında gerçekleştirilen ithalat ve ihracat işlemlerinin teyitleri
+aranmaksızın taahhüt kapatma işlemleri, ilgili ihracatçı birlikleri genel
+sekreterliklerince tekemmül ettirilir ve belge kapsamında alınan teminatlar veya
+vergiler, ilgili gümrük idareleri ve T.C. Şeker Kurumunca tespit edilen şeker
+fabrikaları ile Toprak Mahsulleri Ofisi tarafından firmalara iade edilir.
+ÜÇÜNCÜ BÖLÜM
+ÇEŞİTLİ HÜKÜMLER
+Uygulama
+Madde 15-
+Bu Tebliğde yer almayan hususlarda, 27/1/2005
+tarih ve 25709 sayılı Resmi Gazete’de yayımlanan İhracat 2005/1 sayılı
+Dahilde İşleme Rejimi Tebliği ile aynı tarihli ve
+sayılı Resmi Gazete’de yayımlanan İhracat 2005/2 sayılı İhracat Sayılan Satış
+ve Teslimler Hakkında Tebliğ hükümleri uygulanır.
+Yetki
+Madde 16-
+Müsteşarlık bu Tebliğ hükümlerine istinaden; genelgeler çıkarmaya, izin ve
+talimat vermeye, özel ve zorunlu durumları inceleyip sonuçlandırmaya,
+uygulamada ortaya çıkacak ihtilafları idari yoldan çözümlemeye ve bilgi sisteminde
+yaşanacak teknik düzeydeki aksaklıklar nedeniyle uygulamada yaşanabilecek
+sorunları gidermeye yönelik uygulama usul ve esaslarını belirlemeye
+yetkilidir.
+Ayrıca, bu Tebliğ eki ek-1’de belirtilen bilgi ve belgelere
+ilave bilgi ve belge istenmesi veya ek-1’de belirtilen bilgi ve belgelerden
+birinin veya birkaçının istenmemesi hususlarında Müsteşarlık (İhracat Genel
+Müdürlüğü) yetkilidir.
+Bu Tebliğde belirtilen görev ve
+yetkiler Müsteşarlıkça (İhracat Genel Müdürlüğü) kullanılabileceği gibi, gerek görülmesi
+halinde ihracatçı birlikleri genel sekreterliklerine kısmen ve tamamen
+devredilebilir.
+Uygulamadan Kaldırılacak İşlemler
+Madde 17- Dahilde işleme izin belgesi almak
+isteyen firmalar; 1/1/2006 tarihine kadar, İhracat 2005/1 sayılı Dahilde
+İşleme Rejimi Tebliği ile İhracat 2005/2 sayılı İhracat Sayılan Satış ve
+Teslimler Hakkında Tebliğ veya bu Tebliğ hükümleri çerçevesinde müracaat
+edebilirler.
+Ancak,
+1/1/2006 tarihinden itibaren dahilde işleme izin
+belgesi almak isteyen firmaların bu Tebliğ çerçevesinde müracaat etmeleri
+gerekir ve bu tarihten itibaren, İhracat 2005/1 sayılı Dahilde İşleme Rejimi
+Tebliği ile İhracat 2005/2 sayılı İhracat Sayılan Satış ve Teslimler Hakkında
+Tebliğ hükümleri çerçevesinde dahilde işleme izin belgesi almak için yapılacak
+müracaatlar, Müsteşarlıkça değerlendirmeye alınmaz.
+Yürürlük
+Madde 18- Bu
+Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+Madde 19- Bu
+Tebliğ hükümlerini Dış Ticaret Müsteşarlığının bağlı olduğu Bakan yürütür.
+Ekleri görmek için tıklayınız
