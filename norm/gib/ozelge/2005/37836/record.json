@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.47/4704-777",
+  "source_id": 37836,
+  "date": "2005-08-03",
+  "title": "Ücretlerde vergi indirimi ile ilgili olarak, 24.12.2004 tarih ve 25680 sayılı Resmi Gazete'de...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37836",
+  "source_sha256": "9b68c348efa3bbb17b9abfd462f0fb9302873913fbe830002c16f24f90b2f6a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
