@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9237",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 297)",
+  "number": "9237",
+  "path": "teblig/2005/9237",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9237&MevzuatTertip=5",
+  "source_sha256": "ac59f518c0cd6236eb33e973e47865c8db8e635b341f2c0f8071dd4a8b3dd670",
+  "source_bytes": 31262,
+  "published": "2005-08-03",
+  "gazette": "25895",
+  "in_force": "2005-08-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.08.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1111,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
