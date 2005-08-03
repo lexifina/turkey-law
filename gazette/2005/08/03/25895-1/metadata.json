@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-08-03",
+  "issue": "25895",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararı",
+  "title": "2005/9158 Kamu Sektörüne Dahil İdarelerin İhalesi Yapılmış ve Yapılacak İşlerinde İhale Usul ve Şekillerine Göre Fiyat Farkı Hesabında Uygulayacakları Esaslarda Değişiklik Yapılmasına İlişkin Esaslar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/08/20050803-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/08/20050803.htm",
+  "index_sha256": "16fd4b601a1022898358e1cd6ccf8da6525f84aceae7dc0a66f0f6ac6616e562",
+  "index_header": "3 Ağustos 2005 ... Sayı : 25895",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
