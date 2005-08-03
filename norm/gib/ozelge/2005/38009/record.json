@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GiB.0.54/5401-",
+  "source_id": 38009,
+  "date": "2005-08-03",
+  "title": "Yurt dışındaki müşterilere yönelik olarak yabancı İnternet servis sağlayıcısı firmalarına verilen...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38009",
+  "source_sha256": "0a91e1407c96eb2b9e8d76a03ed39b54fb1d8118e8396dee5acd2788d6778efb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
