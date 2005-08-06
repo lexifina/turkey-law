@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-08-06",
+  "issue": "25898",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Milletlerarası Andlaşmalar",
+  "title": "2005/9187 Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Ekonomik ve Mali İşbirliği Protokolü’ne Ek Protokol’ün Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/08/20050806-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/08/20050806.htm",
+  "index_sha256": "a285048dda692edb914b6a0843b1f3082d7889f94ceedd5c10c1aaa2a3f85c98",
+  "index_header": "6 Ağustos 2005 ... Sayı : 25898",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
