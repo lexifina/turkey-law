@@ -1,0 +1,7 @@
+Bakanlık Adı | : | Dış Ticaret Müsteşarlığından;
+Tebliğin Adı | : | Dış Ticarette Standardizasyon Tebliği (Tebliğ No: 2005/31)
+Tebliğ No | : | 2005/31
+R. Gazete Tarihi | : | 07/08/2005
+R. Gazete Sayısı | : | 25899
+DIŞ TİCARETTE STANDARDİZASYON TEBLİĞİ (TEBLİĞ NO: 2005/31)
+Madde 1 — 2002/4 sayılı Dış Ticarette Standardizasyon Tebliği hükümlerine aykırı davranan Mikro-gen Kimya ve Gıda Ürünleri San. ve Tic. Ltd. Şti. (Vergi Numarası: 6210240072), bu Tebliğin yürürlüğe girdiği tarihten önce açılmış akreditifleri, peşin olarak dövizi satılmış işlemleri, çıkış ülkesinden ihraç edilmiş veya bedeli transfer edilmiş vesaik mukabili işlemleri, çıkış ülkesinden ihraç edilmiş veya fiili ithali yapılmış mal mukabili işlemleri ve bankalarca poliçeleri kabul edilmiş veya aval verilmiş kabul kredili işlemleri dışında kalan işlemlerini kapsamak üzere, 96/7794 sayılı Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Rejimi Kararı’nın 5 inci maddesinin birinci fıkrasının (d) bendi uyarınca ithalattan bir (1) yıl süreyle men edilmiştir. Madde 2 —Bu Tebliğ yayımı tarihinde yürürlüğe girer. Madde 3 —Bu Tebliğ hükümlerini Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan yürütür.
