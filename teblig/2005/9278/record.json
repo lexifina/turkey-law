@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9278",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 256)",
+  "number": "9278",
+  "path": "teblig/2005/9278",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9278&MevzuatTertip=5",
+  "source_sha256": "b17df8c82afb0fea8c5e775a09ee7d5da8dc8eda1a575fb64d905738f76454d2",
+  "source_bytes": 28672,
+  "published": "2005-08-09",
+  "gazette": "25901",
+  "in_force": "2005-08-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.08.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1365,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
