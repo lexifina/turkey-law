@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.29/2925-233-880-29926",
+  "source_id": 26339,
+  "date": "2005-08-09",
+  "title": "Konser organizasyonu faaliyetleri kapsamında tektek kişilere yapılan bilet satışlarında fatura düzenleme zorunluluğuyoktur fakat toplu satışlarda fatura düzenlemek zorunludur. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26339",
+  "source_sha256": "2064ab2bdda0da274fa40c54faeacf0c7ab46ddd15ceca5155c9276d603454c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
