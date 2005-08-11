@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.9286",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BAĞ-KUR SİGORTALILARININ ÖDEMEK ZORUNDA BULUNDUKLARI PRİMLERİN HESAPLANMASI, ÖDENMESİ VE TAHSİLİ USULLERİ HAKKINDA YÖNETMELİK",
+  "number": "9286",
+  "issuer": "Bağ-Kur Genel Müdürü",
+  "issuer_slug": "bag-kur-genel-muduru",
+  "path": "regulation/bag-kur-genel-muduru/2005/9286",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9286&MevzuatTertip=5",
+  "source_sha256": "ca595f1c507edbb1586d9d50589dd2d6bd0681bd7900b605c0dd08f31f8df17d",
+  "source_bytes": 20744,
+  "published": "2005-08-11",
+  "gazette": "25903",
+  "in_force": "2005-08-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.08.2005); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 913,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
