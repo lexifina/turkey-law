@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.9287",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ZİRAAT MÜHENDİSLERİ ODASI TARIM ALET VE MAKİNELERİ PROJELENDİRME YETKİ BELGESİ YÖNETMELİĞİ",
+  "number": "9287",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Ziraat Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-ziraat-muhendisleri-odasi-yonetim-kurulu",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-ziraat-muhendisleri-odasi-yonetim-kurulu/2005/9287",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9287&MevzuatTertip=5",
+  "source_sha256": "807bfe66f13168e5f12ad78c5835df029e81d7342c5231d0fc2a582b43773fc5",
+  "source_bytes": 18218,
+  "published": "2005-08-11",
+  "gazette": "25903",
+  "in_force": "2005-08-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.08.2005); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 713,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
