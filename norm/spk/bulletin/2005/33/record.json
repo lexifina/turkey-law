@@ -1,0 +1,67 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2005/33",
+  "date": "2005-08-12",
+  "title": "SPK Haftalık Bülteni 2005/33",
+  "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_33.pdf",
+  "source_sha256": "f2f21e8e9557b9a5475df211301bc0f7756c2276a42261479056b6736c55b1a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ",
+    "F. DUYURULAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2005 – 12.08.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_33.pdf"
+    },
+    {
+      "heading": "B. 08.08.2005 –12.08.2005 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_33.pdf"
+    },
+    {
+      "heading": "C. 08.08.2005 – 12.08.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_33.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Geçmiş Yıl Karları",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_33.pdf"
+    },
+    {
+      "heading": "K.2005/223 ilamı ile iflas kararı verildiği dikkate alınarak; Aracı Kurumun sahip olduğu Alım Satıma Aracılık yetki belgesi ile",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_33.pdf"
+    },
+    {
+      "heading": "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_33.pdf"
+    },
+    {
+      "heading": "F. DUYURULAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_33.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
