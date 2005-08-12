@@ -1,0 +1,2 @@
+Kapsam
+Madde 2- Tarım Reformu Genel Müdürlüğü Teftiş Kurulu Tüzüğünün uygulanmasına dair hususlarla, sınav kurullarının çalışma usul ve esasları, yarışma sınavı, müfettiş yardımcılarının yetiştirilmesi ve yeterlik sınavı, özlük hakları, teftiş raporlarının düzenlenmesi, cevaplandırılması, izlenmesi ve soruşturma usul ile esaslarına ilişkin hususlar ve teftiş edilenlerin sorumlulukları bu Yönetmelikte gösterilmiştir.

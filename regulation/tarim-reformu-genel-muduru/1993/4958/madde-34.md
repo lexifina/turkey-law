@@ -1,0 +1,2 @@
+Madde 34- Yazılı sınav, sınav kurulunca değerlendirilir. Her konu grubu için tam not 100’dür. Okunup değerlendirilen cevap kağıtlarının boş tarafına verilen not yazılır. Bütün kağıtlar değerlendirildikten sonra kapalı ad yerleri açılır, en yüksek nottan başlamak üzere sıraya konularak yazılı sınav sonuçları listesi düzenlenir, sınav kurulunca imzalanır.
+Yazılı sınavı başarmış sayılmak için her konuda 100 tam puan üzerinden 60’dan az olmamak üzere ortalama 70 puan almak gerekir.

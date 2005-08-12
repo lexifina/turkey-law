@@ -1,0 +1,5 @@
+Teftiş Defteri ve Dosyası
+Madde 68- Genel Müdürlük Merkez Teşkilatı kuruluşları ile taşra teşkilatı kuruluşları birimlerinde birer teftiş defteri ve dosyası bulunur. Her teftişe ait yazılar bu dosyada saklanır. Müfettişler her sayfası birim amirince mühürlenen ve kaç sayfa olduğu belirtilen Teftiş Defterine teftişe hangi tarihte başladıklarını, bitirdiklerini, hangi tarihler arasındaki işlemler ile hangi birimleri teftiş ettiklerini ve birim amirlerinin isim ve unvanlarını yazarak mühür ve imza altına alırlar.
+Teftiş Defteri ve dosyasının korunmasından birim amiri sorumludur. Birim amiri, teftiş defteriyle birlikte en az 10 yıllık teftiş raporlarını ve bunlara ilişkin emirleri saklamak, yerine atanan amir de Teftiş Defteri ve Dosyasını teslim almak, bu gerçekleşmediği taktirde durumu Başkanlığa bildirmekle yükümlüdür.
+Müfettişler, teftiş sırasında Teftiş Defteri ve dosyasını da inceleyerek önceden eleştirilen hususların ne dereceye kadar düzeltildiğine, verilen emirlerin yerine getirilip getirilmediğine bakarlar ve raporlarında bu hususa yer verirler.
+Müfettişler teftiş dışında görevli gittikleri yerlerde Teftiş Defteri ve Dosyasını inceleyebilirler.

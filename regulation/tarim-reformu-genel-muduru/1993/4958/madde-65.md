@@ -1,0 +1,3 @@
+Çalışma Programına Ara Verilmesi veya Programın İptal Edilmesi
+Madde 65- Çalışma Programının ara verilmeden tamamlanması asıl olmakla birlikte, merkezde işlerin yoğun olması ve aciliyeti gerektiren başka konuların ortaya çıkması durumunda çalışma programına ara verilebilir veya programın tamamlanması için başka bir grup görevlendirilebilir ya da ekipteki diğer müfettişten işi tamamlaması istenebilir.
+Çalışma Programının tamamlanmasının iş durumu itibariyle mümkün olmaması halinde, Başkan programın iptali için durumu Genel Müdüre intikal ettirir ve alacağı talimata göre gereğini yerine getirir.

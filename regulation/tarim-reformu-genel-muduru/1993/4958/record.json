@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.4958",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIM REFORMU GENEL MÜDÜRLÜĞÜ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "4958",
+  "issuer": "Tarım Reformu Genel Müdürü",
+  "issuer_slug": "tarim-reformu-genel-muduru",
+  "path": "regulation/tarim-reformu-genel-muduru/1993/4958",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4958&MevzuatTertip=5",
+  "source_sha256": "b4203466e23b915f90e95658238e09a6b1cf2d679768191f7f645842823531b4",
+  "source_bytes": 138706,
+  "published": "1993-11-21",
+  "gazette": "21765",
+  "in_force": "2005-08-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/08/2005\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2005-08-12",
+      "RG-12/08/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-08-11",
+      "RG-11/08/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6438,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
