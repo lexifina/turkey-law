@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.29/2968-298-433",
+  "source_id": 26918,
+  "date": "2005-08-16",
+  "title": "Mali tabloların enflasyon düzeltmesine tabi tutulması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26918",
+  "source_sha256": "b934ee9ac066bb89302242cca7fb4d5705ea6eb15d849b627f24378941d8fc78",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
