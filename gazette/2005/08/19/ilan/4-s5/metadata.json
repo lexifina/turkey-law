@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-08-19",
+  "issue": "25911",
+  "edition": "regular",
+  "item": 5,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Petrol İşleri Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/08/20050819-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (9 = 9)",
+  "ilan_codes": [
+    "9931/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/08/20050819-4.htm",
+  "category_page_sha256": "a0e97bc3c866a9cbe9ae5d8daa66344768e480280175eecc407abcf3616c0595",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/08/20050819.htm",
+  "index_sha256": "faef5e1cfc692a0586d92702561c64632a9eb165adfac5e1a66c14bef8cf423d",
+  "index_header": "19 Ağustos 2005 ... Sayı : 25911",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
