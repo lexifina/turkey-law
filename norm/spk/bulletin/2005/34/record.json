@@ -1,0 +1,60 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2005/34",
+  "date": "2005-08-19",
+  "title": "SPK Haftalık Bülteni 2005/34",
+  "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_34.pdf",
+  "source_sha256": "3fa4e5cd64518c51df2e2e2a1dff746ae1c33433718068d09065b1055ec6c886",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "E. DUYURU"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2005 – 19.08.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_34.pdf"
+    },
+    {
+      "heading": "B. 15.08.2005 –19.08.2005 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_34.pdf"
+    },
+    {
+      "heading": "C. 15.08.2005 – 19.08.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_34.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_34.pdf"
+    },
+    {
+      "heading": "E. DUYURU",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_34.pdf"
+    },
+    {
+      "heading": "E.2005/6594 sayılı dosya üzerinden açılan davada, Mahkemece davacının yürütmenin durdurulması talebinin reddine karar",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_34.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
