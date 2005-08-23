@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.9345",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE DENİZCİLİK İŞLETMELERİ A.Ş. GENEL MÜDÜRLÜĞÜ MAL ALIMI İHALELERİ UYGULAMA YÖNETMELİĞİ",
+  "number": "9345",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2004/9345",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9345&MevzuatTertip=5",
+  "source_sha256": "b1c539c8572375d2a1694f2e72b573039befa921a1c6c57b2b28b08fff9fb5d2",
+  "source_bytes": 188944,
+  "published": "2004-05-30",
+  "gazette": "25477",
+  "in_force": "2005-08-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/08/2005\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2005-08-23",
+      "RG-23/08/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10843,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
