@@ -1,0 +1,3 @@
+Aynı Fiyatın Teklif Edilmesi
+Madde 72- En düşük fiyatın ekonomik açıdan en avantajlı teklif olarak değerlendirildiği ihalelerde, birden fazla istekli tarafından aynı fiyatın teklif edildiği ve bunların da ekonomik açıdan en avantajlı teklif olduğu anlaşıldığı takdirde, fiyat dışındaki unsurlar dikkate alınmak suretiyle ekonomik açıdan en avantajlı teklif belirlenerek ihale sonuçlandırılır.
+Birden fazla istekli tarafından en düşük fiyatın teklif edildiği durumda uygulanacak fiyat dışı unsurlar, idari şartnamede belirtilir ve bu durumda uygulanmak üzere isteklilerden fiyat dışı unsurları dikkate alarak teklif vermeleri istenir.

@@ -1,0 +1,2 @@
+Yaklaşık Maliyetin Hesaplanması
+Madde 12- Hizmetin gerçekleştirilmesi için gerekli iş kalemlerinin bu Yönetmelik hükümlerine göre tespit edilen fiyatlarla çarpımı sonucu bulunan her iş grubuna ait tutarların toplanması ile bulunan genel toplam tutar, katma değer vergisi hariç olarak hesaplanır ve bulunan bu tutara işin niteliği dikkate alınarak % 25 oranını geçmemek üzere kar ve genel gider karşılığı eklenmek suretiyle, yaklaşık maliyet tespit edilir. Buna ilişkin hesap cetveli hazırlayanlarca imzalanmak suretiyle onay belgesi ekine konulmak üzere ihale yetkilisine sunulur.

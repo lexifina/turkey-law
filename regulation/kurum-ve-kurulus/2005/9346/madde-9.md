@@ -1,0 +1,5 @@
+Personel İstihdam Edilerek Yapılacak Hizmet Alımlarına İlişkin İhalelerde Yaklaşık Maliyet
+Madde 9- a) Vasıfsız personel istihdam edilecek işlerde; çalıştırılacak personel sayısı ve saatleri dikkate alınarak, tarım dışında ve 16 yaşından büyük işçiler için belirlenmiş olan asgari ücretin brüt tutarı (işveren payına ilişkin ödemeler de dahil olmak üzere) esas alınarak hesaplama yapılır.
+b) Vasıflı personel istihdam edilecek işlerde; yaptırılacak işte görev alacak personel için, işin niteliğine göre belirlenen ücretlerin brüt tutarı (işveren payına ilişkin ödemeler de dahil olmak üzere) esas alınarak hesaplama yapılır.
+İstekli tarafından personele yemek, yol ve giyecek gibi giderlerin ödenmesi öngörülür ise yukarıda yapılan hesaplamalara; yol, yemek ve giyecek gibi giderlere ilişkin bedeller de eklenir ve bu giderlerin bedeli idari şartnamede açıkça gösterilir.
+Vasıflı personel çalıştırılacak işlerde bu personele, isteklinin asgari ücretin üzerinde bir ödeme yapması öngörülür ise bunun asgari oranı idari şartnamede açıkça gösterilir.

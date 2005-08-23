@@ -1,0 +1,7 @@
+Komisyonların İnceleme Yetkisi
+Madde 63- İhale komisyonları isteklilerce sunulan iş deneyimine ilişkin belgelerdeki bilgilerin incelenmesi amacıyla;
+İş bitirme belgesi ile ilgili olarak; sözleşme, hakediş raporları, geçici kabul tutanağı, kesin hakediş raporu ve işin niteliğine göre varsa tasfiye tutanağı, keşif artış olurları, ek sözleşme ve devir sözleşmesi, iş ortaklığı sözleşmesi, çalışanların vergi ve sosyal sigorta prim ödemelerini gösterir belgeler, alt yüklenici ile yüklenici arasında düzenlenmiş sözleşme, alt yüklenicinin iş için yükleniciye düzenlediği fatura suretleri, alt yüklenicilerde çalışanların vergi ve sosyal sigorta prim ödemelerini gösterir belgeler ile varsa idarenin onay yazısı,
+İş durum belgesi ile ilgili olarak; sözleşme, hakediş raporları, varsa tasfiye tutanağı, devir sözleşmesi, iş ortaklığı sözleşmesi, çalışanların vergi ve sosyal sigorta prim ödemelerini gösterir belgeler,
+İş denetleme belgesi ile ilgili olarak; mezuniyet belgesi, meslek odası belgesi, görevlendirme yazısı, geçici kabul tutanağı, hakediş raporları, varsa kesin hakediş raporu, özel sektörde görev yapanlar için işin başında idareye vermiş olduğu taahhütname, müteahhidin teknik personel bildirimi, sosyal sigorta prim ödemelerini gösteren belgeler,
+İş yönetme belgesi ile ilgili olarak; mezuniyet belgesi, meslek odası belgesi, görevlendirme yazısı, geçici kabul tutanağı, hakediş raporları, varsa kesin hakediş raporu,
+Gibi belgelerden gerekli gördüklerini, yurt dışında iş veya görev yapanlardan da yukarıda sayılanların muadili belgeler isteyebilir.

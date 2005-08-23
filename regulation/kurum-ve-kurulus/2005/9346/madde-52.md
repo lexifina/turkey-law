@@ -1,0 +1,4 @@
+Konsorsiyumlar
+Madde 52- İşin farklı uzmanlıklar gerektirmesi durumunda, ihaleye konsorsiyumların teklif verip veremeyeceği ihale dokümanında belirtilir. Birden fazla gerçek veya tüzel kişinin konsorsiyum oluşturmak suretiyle ihaleye teklif verebilmelerinin ihale dokümanında öngörülmesi halinde konsorsiyum oluşturmak suretiyle ihaleye teklif verecek istekliler, konsorsiyum oluşturduklarına dair koordinatör ortağın da belirtildiği konsorsiyum anlaşmasını teklifleriyle beraber sunarlar.
+İhalenin konsorsiyum üzerinde kalması halinde, konsorsiyumdan sözleşme imzalanmadan önce noter tasdikli konsorsiyum sözleşmesini vermesi istenir.
+Konsorsiyum anlaşmasında ve sözleşmesinde konsorsiyumu oluşturan gerçek ve tüzel kişilerin işin hangi kısmını taahhüt ettikleri ve taahhüdün yerine getirilmesinde koordinatör ortak aracılığıyla aralarında koordinasyonu sağlayacakları belirtilmelidir.

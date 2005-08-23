@@ -1,0 +1,10 @@
+Düzenleme Koşulları
+Madde 56- İş deneyim belgesi; yazılı bir sözleşmeye bağlı olarak kamu kurum ve kuruluşlarına taahhüt edilen işlerde, tek sözleşme esas alınarak;
+a) Gerçekleştirilmiş işlerin yüklenicilerine iş bitirme belgesi,
+b) Sözleşme bedelinin asgari % 70’i gerçekleştirilmiş işlerin yüklenicilerine iş durum belgesi,
+Şeklinde, ilgilinin mesleki tecrübesini tevsik amacıyla düzenlenir.
+Sözleşme bedelinin, asgari % 50 veya % 70 oranında gerçekleşmiş olmasının tespiti; keşfindeki birim fiyatlar üzerinden sözleşmeye bağlanmış işlerde, her türlü fiyat farkları hariç, sözleşme birim fiyatlarıyla ödenen tutarın ilk keşif bedeline oranlanması suretiyle; götürü bedel veya teklif birim fiyat sözleşmeli işlerde ise, her türlü fiyat farkları hariç, sözleşme fiyatlarıyla ödenen tutarın sözleşme bedeline oranlanması suretiyle yapılır.
+Sözleşme bedelinin asgari % 70’i gerçekleştirilmiş işlerde iş durum belgesi, % 50’si gerçekleştirilmiş işlerde iş denetleme veya yönetme belgesi düzenlenebilmesi için; yapılan işlerin bedelinin ödenmiş ya da tahakkuka bağlanmış olması, işlerin gerçekleşen kısımlarının miktar, nitelik ve tutarlarıyla ilgili bir ihtilaf ve nizanın bulunmaması, belgeye esas teşkil edecek kontrollük tespitinde sözleşmeye, projeye, teknik ve sanat kurallarına aykırılık teşkil eden açık kusur ve eksikliklerin bulunmadığının belirlenmesi koşulları aranır ve bu belgelere, belgenin kabulü içermediğine dair şerh düşülür.
+Sözleşmenin idarenin izniyle devredilmesi halinde, devir öncesindeki veya sonrasındaki dönemde, işin en az % 70’ini gerçekleştiren yükleniciye ve işin en az % 50’sini fiilen denetleyen veya yönetenlere iş deneyim belgesi düzenlenir.
+İş ortaklıklarında gerçekleştirilen iş miktarı, isteklinin o iş ortaklığındaki hissesi oranında dikkate alınır.
+Yabancı yükleniciler ile yerli yüklenicilerin yurt dışında gerçekleştirdikleri işlerle ilgili olarak, iş sahibi kurum veya kuruluşun o ülke mevzuatına uygun biçimde düzenlemiş olduğu iş deneyim belgeleri kabul edilir.

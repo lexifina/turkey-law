@@ -1,0 +1,6 @@
+İş Deneyim Belgesi İçin Başvuru
+Madde 57- Kamu kurum ve kuruluşlarına taahhüt edilen hizmetlerin yüklenicileri, iş deneyim belgesi için; sözleşme, hakediş raporları, biten işlerde varsa; geçici kabul tutanağı, kesin hakediş raporu, tasfiye tutanağı, keşif artış olurları ve devir sözleşmesini ekleyerek, hizmeti sundukları kurum veya kuruluşa başvurur.
+Kamuya taahhütte bulunulan işlerde iş denetleme ve iş yönetme belgesi talebinde bulunanlar, yaptıkları işi tevsik amacıyla, dilekçelerine aşağıda sayılan belgeleri de ekleyerek belge vermeye yetkili kurum veya kuruluşa başvururlar:
+a) Kamuya taahhütte bulunan yüklenicileri denetleyen ve yöneten kamu görevlileri; mezuniyet belgesi, hizmet cetveli, görevlendirme yazısı,
+b) Kamuya taahhütte bulunan özel sektör ortakları, yöneticileri ve çalışanları; mezuniyet belgesi, meslek odası belgesi, hakediş raporları, yüklenicinin teknik personel bildirimi, biten işlerde kabul tutanağı, varsa kesin hakediş raporu ve sosyal sigorta prim ödemelerini gösteren belgeler.
+İbraz edilen belgeler ile bu belgelere dayanılarak düzenlenen iş deneyim belgesinde yer alan bilgilerin doğruluğundan, belge vermeye yetkili kurum ve kuruluşlar ile adına belge düzenlenen kişiler sorumludur.

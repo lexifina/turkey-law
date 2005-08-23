@@ -1,0 +1,3 @@
+İlanın Uygun Olmaması
+Madde 33- Bu Yönetmeliğin 31 inci ve 32 nci maddelerinde belirtilen hükümlere uygun olmayan ilanlar geçersizdir. Bu durumda, ilân bu maddelere uygun bir şekilde yenilenmedikçe ihale veya ön yeterlik yapılamaz.
+Ancak, bu Yönetmeliğin 31 inci maddesinde belirtilen ilânın yapılmaması veya ilân sürelerine uyulmaması halleri hariç, yapılan ilânların 31 inci madde hükümlerine uygun olmadığının anlaşılması durumunda, ilânların yayımlanmasını takip eden üç (3) gün içinde hatalı hususlar için düzeltme ilânı yapılmak suretiyle ihale veya ön yeterlik gerçekleştirilebilir. Bu durumda düzeltme ilanının, düzeltmeye konu ilanın yayımlandığı yayım organında aynı formatta yayımlanması sağlanır.

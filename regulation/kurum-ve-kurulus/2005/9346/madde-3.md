@@ -1,0 +1,32 @@
+Tanımlar
+Madde 3- Bu Yönetmeliğin uygulanmasında;
+Hizmet: TDİ’nin ana faaliyetlerinin sağlanmasına yönelik Kamu İhale Kurumunca belirlenen istisna kapsamındaki hizmetleri,
+Hizmet sunucusu: Hizmet alımı ihalesine teklif veren gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri
+Danışman: Danışmanlık yapan, bilgi ve deneyimini idarenin yararı için kullanan, danışmanlığını yaptığı işin yüklenicileri ile hiçbir organik bağ içinde bulunmayan, idareden danışmanlık hizmeti karşılığı dışında hiçbir kazanç sağlamayan ve danışmanlık hizmetlerini veren hizmet sunucularını,
+Aday: Ön yeterlik için başvuran gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
+Ortak girişim: İhaleye katılmak üzere birden fazla gerçek veya tüzel kişinin aralarında yaptıkları anlaşma ile oluşturulan iş ortaklığı veya konsorsiyumları,
+İstekli: Hizmet alımı ihalesine teklif veren, hizmet sunucusunu,
+Yerli istekli: Türkiye Cumhuriyeti vatandaşı gerçek kişiler ile Türkiye Cumhuriyeti kanunlarına göre kurulmuş tüzel kişilikleri,
+Yüklenici: Üzerine ihale yapılan ve sözleşme imzalanan istekliyi,
+İhale yetkilisi: İdarenin, ihale ve harcama yapma yetki ve sorumluluğuna sahip kişi veya kurulları ile usulüne uygun olarak yetki devri yapılmış görevlilerini,
+Başvuru belgesi: Belli istekliler arasında ihale usulünde ön yeterliğe katılan aday tarafından yeterliğinin tespitinde kullanılmak üzere sunulan belgeleri,
+İhale dokümanı: İhale konusu hizmet alımlarında; isteklilere talimatları da içeren idari şartnameler ile yaptırılacak işin projesini de kapsayan teknik şartnameler, sözleşme tasarısı ve gerekli diğer belge ve bilgileri,
+İhale: Bu Yönetmelikte yazılı usul ve şartlarla hizmet alımlarının istekliler arasından seçilecek birisi üzerine bırakıldığını gösteren ve ihale yetkilisinin onayını müteakip sözleşmenin imzalanması ile tamamlanan işlemleri,
+Teklif: Bu Yönetmeliğe göre yapılacak ihalelerde isteklinin idareye sunduğu fiyat teklifi ile değerlendirmeye esas belge ve/veya bilgileri,
+Açık ihale usulü: Bütün isteklilerin teklif verebildiği usulü,
+Belli istekliler arasında ihale usulü: Ön yeterlik değerlendirmesi sonucunda idare tarafından davet edilen isteklilerin teklif verebildiği usulü,
+Pazarlık usulü: Bu Yönetmelikte belirtilen hallerde kullanılabilen ve idarenin ihale konusu işin teknik detayları ile gerçekleştirme yöntemlerini ve belli hallerde fiyatı isteklilerle görüştüğü usulü,
+Doğrudan temin: Bu Yönetmelikte belirtilen hallerde ihtiyaçların, İhale Yetkilisi tarafından görevlendirilen kişi veya kişilerce piyasa araştırması yapılmak suretiyle doğrudan temin edilebildiği usulü,
+Sözleşme: Hizmet alımlarında idare ile yüklenici arasında yapılan yazılı anlaşmayı,
+Kurum(KİK): Kamu İhale Kurumunu,
+İdare: Türkiye Denizcilik İşletmeleri A.Ş., Genel Müdürlük Üniteleri ve bağlı İşletmeleri ,
+İşletme: Türkiye Denizcilik İşletmeleri A.Ş. Genel Müdürlüğüne bağlı olarak faaliyetlerini yürüten İşletme Müdürlüklerini ve Tersane Müdürlüğünü,
+Hizmet alım ünitesi: Hizmet alımı işini gerçekleştirecek olan İşletme veya ünite Müdürlüğünü,
+Gemi: Gemi,yüzer iskele,maçuna,duba,şat v.b. makineli ve makinesiz yüzer araçları,
+Gemi Bakım Onarım İhale Komisyonu: Gemilerin her türlü bakım, onarım işlerinin yaptırılması için bu Yönetmeliğin 29uncu maddesine göre oluşturulan komisyonu,
+Alım memuru: Bu Yönetmeliğin 20 nci maddesinin (e) bendine göre hizmet alımı işi için ünite üst amirince görevlendirilen kişiyi,
+Acente: Türk limanlarında İdare personeli tarafından veya bir sözleşme ile gerçek veya tüzel kişiler tarafından,yabancı limanlarda ise,bağlı bulundukları ülkenin yerel mevzuatına göre veya yurt dışında mukim gerçek veya tüzel kişiler tarafından bir acentelik hizmet sözleşmesi ile, idare gemilerinin biletlerini satan ve/veya idare gemilerine liman hizmetleri vererek ihtiyaçlarını karşılayan kişiler veya kuruluşlardır.
+Benzer iş: İhale konusu hizmet veya hizmetin bölümleriyle nitelik ve büyüklük bakımından benzerlik gösteren, aynı veya benzer usullerle gerçekleştirilen, teçhizat, ekipman, mali güç ve uzmanlık ile personel ve organizasyon gerekleri bakımından benzer özellik taşıyan hizmetleri,
+İş deneyim belgesi: İsteklinin ihale konusu hizmet veya benzer hizmetlerdeki mesleki deneyimini ortaya koyan ve bu Yönetmelikte yazılı esas ve usullere göre düzenlenen, verilen ve değerlendirilen; iş bitirme belgesi, iş durum belgesi, iş denetleme belgesi ve iş yönetme belgesini,
+Yaklaşık maliyet: İhale yapılmadan önce her türlü fiyat araştırması yapılarak katma değer vergisi hariç olmak üzere hesaplanan ve dayanakları ile birlikte bir hesap cetvelinde gösterilen, ihale ve ön yeterlik ilanlarında yer verilmeyen, isteklilere veya ihale süreci ile resmi ilişkisi olmayan diğer kişilere açıklanmayan, ihale konusu hizmetin öngörülen bedelini,
+İfade eder.

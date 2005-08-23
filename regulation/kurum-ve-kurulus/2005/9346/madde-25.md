@@ -1,0 +1,3 @@
+Ön Yeterlik Şartnameleri
+Madde 25- Hizmet alım ünitesi, belli istekliler arasında ihale usulü ile yapacağı hizmet alımı ihalelerinde, ön yeterlik şartnamelerini, “Belli İstekliler Arasında İhale Usulü İle İhale Edilen Hizmet Alımlarında Uygulanacak Tip Ön Yeterlik Şartnamesi”ni esas alarak hazırlar. Söz konusu Şartname’de doldurulmak üzere boş bırakılan ve dipnota alınan hususlar, işin özelliğine göre emredici hukuk kurallarına aykırı olmamak koşuluyla düzenlenir.
+Ayrıca, "Tip Ön Yeterlik Şartnamesi"nde düzenlenmeyen ve işin özelliğine göre düzenlenmesine gerek duyulan hususlar da, ihale konusu hizmet alımının gereklerini de dikkate alarak emredici hukuk kurallarına aykırı olmamak koşuluyla maddeler halinde düzenleme yapılarak "Diğer Hususlar" bölümüne eklenebilir.

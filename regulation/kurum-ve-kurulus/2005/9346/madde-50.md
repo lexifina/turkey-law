@@ -1,0 +1,7 @@
+Belli İstekliler Arasında İhale Usulünde Yeterlik
+Madde 50- -İşin özelliğinin uzmanlık ve/veya yüksek teknoloji gerektirmesi sebebiyle belli istekliler arasında yapılacak olan ihalelerde, adayların uzmanlık ve/veya yüksek teknoloji bakımından asgari yeterlik koşullarını sağlayıp sağlamadıklarının belirlenmesi için ön yeterlik dokümanı ile ön yeterlik ilanında belirtilen değerlendirme kriterlerine göre ön yeterlik değerlendirmesi yapılır.
+Ön yeterlik aşamasında istenen bilgi ve belgelerin, bu Yönetmelikte düzenlenen esas ve usullere uygun biçimde belirlenmesi ve değerlendirilmesi zorunludur.
+Ancak, bankalardan temin edilecek belgeler, isteklinin iş hacmini gösteren belgeler ve iş deneyim belgelerinin taşıması gereken kriterlerin işin niteliğine uygun ve yaklaşık maliyetle uyumlu biçimde yeterlik kriterleri olarak tespit edilmesi gerekir.
+Yapılan ön yeterlik değerlendirmesi sonucunda, belirtilen asgari yeterlik koşullarını sağlayamayanlar yeterli kabul edilmez ve bu kişilere yeterli bulunmama gerekçeleri yazılı olarak bildirilir.
+Yeterli olduğu tespit edilen bütün adaylara tekliflerini hazırlayabilmeleri için en az yirmi gün süre verilerek ihaleye davet mektubu gönderilir.
+Hizmet Alım Ünitesi, tekliflerin alınması aşamasında isteklilerin yeterliğinin devam edip etmediğini tetkik amacıyla ön yeterlikte sunulan bilgi ve belgelerden güncellemeye konu olabileceklerin de güncellenerek verilmesini isteyebilir.

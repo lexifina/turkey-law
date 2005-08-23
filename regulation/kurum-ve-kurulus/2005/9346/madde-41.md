@@ -1,0 +1,13 @@
+İsteklinin Bilançosu veya Eşdeğer Belgeleri
+Madde 41- Bu Yönetmeliğin 38 inci maddesinin (b) bendi kapsamındaki hizmetlerin ihalelerinde; isteklinin, ihalenin yapıldığı yıldan önceki yıla ait yıl sonu bilançosunun veya bilançonun gerekli görülen bölümlerinin, yoksa bunlara eşdeğer belgelerinin istenilmesi zorunludur.
+Yaklaşık maliyeti Genel Müdür hizmet alım yetkisinin beş katının altında kalan ihalelerde de, isteklinin, ihalenin yapıldığı yıldan önceki yıla ait yıl sonu bilançoları veya gerekli görülen bölümleri, yoksa bunlara eşdeğer belgeler istenebilir.
+Bu belgelerin istenildiği durumlarda;
+a) Belli sürelerde nakil akışını saylayabilmesi için gerekli likiditeye ve kısa dönem (bir yıl) içinde borç ödeme gücüne sahip olup olmadığını gösteren cari oranın (dönem varlıklar/kısa vadeli borçlar) en az 0,50 olması (hesaplama yapılırken yıllara yaygın inşaat maliyetleri, dönen varlıklardan ve hakediş gelirleri kısa vadeli borçlardan düşülecektir),
+b) Aktif varlıkların ne kadarının öz kaynaklardan oluştuğunu gösteren öz kaynak oranının (öz kaynaklar/toplam aktif) en az 0,10 olması (hesaplama yapılırken yıllara yaygın inşaat maliyetleri toplam aktiflerden düşülecektir),
+c) Kısa vadeli banka borçlarının öz kaynaklara oranının 0,75’den küçük olması,
+Yeterlik kriterleri olarak öngörülür ve sayılan üç kriter birlikte aranır.
+Bu şartları bir önceki yılda sağlayamayan istekliler, son iki yıla ait belgelerini sunabilirler, bu takdirde belgeleri sunulan son iki yılın ortalaması üzerinden asgari değerlerin sağlanıp sağlanmadığına bakılır.
+Bilançoların veya bilançoların gerekli görülen bölümlerinin ilgili mevzuatına göre düzenlenmiş ve yeminli mali müşavir veya serbest muhasebeci mali müşavir ya da vergi dairesince onaylanmış olması gereklidir.
+Yayınlanması zorunlu olmayan bilançolarını veya bunların bölümlerini ibraz etmeyen istekliler yukarıda belirtilen kriterleri sağladıklarını yeminli mali müşavir veya serbest muhasebeci mali müşavirce onaylı belgelerle tevsik edebilirler.
+Serbest meslek erbabının vereceği ilgili mevzuatına göre düzenlenmiş ve onaylanmış serbest meslek kazanç defteri özetinde gösterilen değerlere göre, toplam gelir/toplam gider oranının; son yılının veya son iki yıllık ortalamasının en az (1,25) olması şartı aranır. Bu durumda yukarıda bilançolar veya gerekli görülen bölümler üzerinden hesaplanacak oranlar aranmaz.
+İsteklinin iş ortaklığı olması halinde, ortakların her birinin istenen belgeleri ayrı ayrı vermesi ve ortaklardan her birinin (a), (b) ve (c) bentlerinde belirtilen şartları veya serbest meslek kazanç defteri özetinde gösterilen değeri sağlaması zorunludur. Ancak pilot ortağın hissesinin % 50’ den fazla olduğu durumlarda pilot ortağın tek başına aranılan şartları sağlaması yeterli sayılır.

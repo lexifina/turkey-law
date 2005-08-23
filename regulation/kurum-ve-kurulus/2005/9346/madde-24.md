@@ -1,0 +1,3 @@
+İdari Şartnameler
+Madde 24- Hizmet alım ünitesi, hizmet alımında hangi ihale usulünü uygulayacak ise, o usule uygun Tip İdari Şartname’yi esas alarak idari şartnamesini hazırlar. Tip İdari Şartnamelerde doldurulmak üzere boş bırakılan ve dipnota alınan hususlar, işin özelliği ve ihale usulüne göre emredici hukuk kurallarına aykırı olmamak koşuluyla düzenlenir.
+Ayrıca, Tip İdari Şartnamelerde düzenlenmeyen ve işin özelliğine göre düzenlenmesine gerek duyulan hususlar da, ihale konusu hizmet alımının gerekleri dikkate alınarak, emredici hukuk kurallarına aykırı olmamak koşuluyla, maddeler halinde düzenleme yapılarak Tip İdari Şartnamelerde yer alan “Diğer Hususlar” bölümüne eklenebilir.

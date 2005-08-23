@@ -1,0 +1,3 @@
+İhale İşlem Dosyası
+Madde 30- Hizmet alım ünitesi, ihalesi yapılacak her iş için bir işlem dosyası düzenler. Bu dosyada; onay belgesi ve eki yaklaşık maliyet hesap cetveli, ihale dokümanı, yapılmışsa ilan metinleri, adaylar veya istekliler tarafından sunulan başvurular veya teklifler ile aday ve isteklilere yapılan bildirimlere ilişkin tebligat ve alındı belgeleri ile ihale komisyonu tutanak ve kararları gibi ihale süreci ile ilgili bütün belgeler bulunur.
+Gerekli incelemeyi yapmalarını sağlamak amacıyla ihale işlem dosyasının birer örneği, ilân veya daveti izleyen üç gün içinde hizmet alım ünitesi tarafından ihale komisyonu üyelerine verilir.

@@ -1,0 +1,3 @@
+Yaklaşık Maliyetin Bütçenin Programlanmasında Kullanılması ve Güncellenmesi
+Madde 14- Ödeneği bulunmayan işler için ihaleye çıkılamayacağından idare bütçesini programlarken ihale konusu her iş için yaklaşık maliyet tespit eder. Ödenek miktarının belirlenmesinde yaklaşık maliyet tutarına ilgili mevzuatına göre katma değer vergisi de dahil edilir.
+Tespit edilen yaklaşık maliyetin, belirlendiği tarihten itibaren ihalenin ilk ilan tarihine kadar geçerliliğini koruyamayabileceği dikkate alınarak bu maliyetler, hizmeti oluşturan unsurlara ilişkin olarak, gerek duyulduğunda, Devlet İstatistik Enstitüsü tarafından yayımlanan aylık TEFE oranları üzerinden güncellenir.
