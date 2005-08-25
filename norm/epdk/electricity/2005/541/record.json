@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "541",
+  "decision_date": "2005-08-25",
+  "title": "Elektrik Piyasasında 2006 yılında uygulanacak olan lisans alma, yıllık lisans, lisans yenileme, lisans tadili ve lisans sureti çıkartma bedellerine ilişkin",
+  "resmi_gazete_date": "2005-09-07",
+  "resmi_gazete_number": "25929",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GWotvtJ66uU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GWotvtJ66uU="
+  ],
+  "source_sha256": "314ff3a7832b376b18b54ad9ca5283ab86a5b94f37dc68d65945315f000002fd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-08-25",
+  "law_text_complete": false
+}
