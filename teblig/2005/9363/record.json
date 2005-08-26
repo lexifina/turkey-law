@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9363",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ",
+  "number": "9363",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2005/9363",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9363&MevzuatTertip=5",
+  "source_sha256": "ea88024788a5e4e72ad80a52b92d7428c38a91fca7265864b74699583edd43fb",
+  "source_bytes": 35362,
+  "published": "2005-08-26",
+  "gazette": "25918",
+  "in_force": "2005-08-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.08.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1004,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
