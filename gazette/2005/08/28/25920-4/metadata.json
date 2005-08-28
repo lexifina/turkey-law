@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-08-28",
+  "issue": "25920",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğ",
+  "title": "Gümrük Genel Tebliği (Yurt Dışına Çıkış Tahdidi) (Seri No: 1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/08/20050828-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/08/20050828.htm",
+  "index_sha256": "192619f27487c1fa769d0efd469838ea3ccae3d1d35ceae525501347b38b52e8",
+  "index_header": "28 Ağustos 2005 ... Sayı : 25920",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
