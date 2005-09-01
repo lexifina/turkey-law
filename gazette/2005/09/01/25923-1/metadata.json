@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-09-01",
+  "issue": "25923",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararı",
+  "title": "2005/9280 Bazı Alanların Turizm Merkezi ve Kültür ve Turizm Koruma ve Gelişim Bölgesi Olarak İlanı Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/09/20050901-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/09/20050901.htm",
+  "index_sha256": "b185ddd733a5ddfc2f18ea9ac8458f403cc2a0341325b151441afe715ee22447",
+  "index_header": "1 Eylül 2005 ... Sayı : 25923",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
