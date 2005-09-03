@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-09-03",
+  "issue": "25925",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/9247 Yükseköğretim Üst Kuruluşları ile Yükseköğretim Kurumlarında Her Derecedeki Kurs, Seminer ve Benzeri Hizmetiçi Eğitim Etkinliklerinde Ücretle Okutulacak Ders Saatlerinin Sayısı ve Ders Görevi Alacakların Niteliklerine İlişkin Esaslar Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/09/20050903-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/09/20050903.htm",
+  "index_sha256": "d4e762fd50490a405da6f4a24791c390f11c3d979430a4ab9763a173c32a0792",
+  "index_header": "3 Eylül 2005 ... Sayı : 25925",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
