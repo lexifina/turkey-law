@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9388",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (Seri No: 46)",
+  "number": "9388",
+  "path": "teblig/2005/9388",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9388&MevzuatTertip=5",
+  "source_sha256": "aa8799f5e68f3d8b887a93b5379bfcc7d1465c6c22f964fdbbb9d26ccf6b4bf6",
+  "source_bytes": 1757365,
+  "published": "2005-09-03",
+  "gazette": "25925",
+  "in_force": "2005-09-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.09.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3611,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
