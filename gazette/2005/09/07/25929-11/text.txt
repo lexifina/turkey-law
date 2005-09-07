@@ -1,0 +1,650 @@
+Yönetmelik
+Enerji Piyasası Düzenleme Kurumundan:
+Elektrik
+Piyasası İthalat ve İhracat Yönetmeliği
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+Amaç
+Madde 1 — Bu Yönetmeliğin amacı, elektrik piyasasında;
+elektrik enerjisi ithalatı ve/veya ihracatı faaliyetine ilişkin usul ve
+esaslar ile enterkonneksiyon hatlarında sınır ötesi
+ticarete yönelik kapasite tahsisi ve kullanımına ilişkin esasların
+belirlenmesidir.
+Kapsam
+Madde 2 — Bu Yönetmelik, Türkiye Elektrik Ticaret ve Taahhüt
+Anonim Şirketi, toptan satış lisansı sahibi tüzel kişiler ve perakende satış
+lisansı sahibi tüzel kişiler tarafından yapılan elektrik enerjisi ithalatı
+ve/veya ihracatına ilişkin usul ve esasları, ithalat ve/veya ihracat
+faaliyeti yapacak tüzel kişilerin hak ve yükümlülüklerini ve uluslararası enterkonneksiyon hatlarının tahsisi ile kullanımına
+ilişkin esasları kapsar.
+Dayanak
+Madde 3 — Bu Yönetmelik; 4628 sayılı Elektrik Piyasası
+Kanununun 2 nci maddesi, 5307 sayılı
+Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu ve Elektrik Piyasası
+Kanununda Değişiklik Yapılmasına Dair Kanunun geçici 6 ncı
+maddesine dayanılarak hazırlanmıştır.
+Tanımlar ve kısaltmalar
+Madde 4 — Bu Yönetmelikte geçen;
+Kanun:
+20/2/2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanununu,
+Bakanlık:
+Enerji ve Tabii Kaynaklar Bakanlığını,
+Kurum:
+Enerji Piyasası Düzenleme Kurumunu,
+Kurul:
+Enerji Piyasası Düzenleme Kurulunu,
+Başkan:
+Enerji Piyasası Düzenleme Kurulu Başkanını,
+TEİAŞ:
+Türkiye Elektrik İletim Anonim Şirketini,
+TETAŞ:
+Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketini,
+Dağıtım
+sistemi: Bir dağıtım bölgesinde yer alan elektrik dağıtım tesisleri ve
+şebekesini,
+Dağıtım
+şirketi: Belirlenen bir bölgede elektrik dağıtımı ile iştigal eden tüzel
+kişiyi,
+Dağıtım:
+Elektrik enerjisinin gerilim seviyesi 36 kV ve
+altındaki hatlar üzerinden naklini,
+Enterkonneksiyon anlaşması: TEİAŞ ve enterkonneksiyon
+oluşturan diğer taraf ve/veya bu enterkonneksiyondan
+hizmet alan lisans sahibi tüzel kişiler arasında yapılan anlaşmayı,
+Enterkonneksiyon hattı: İletim ve dağıtım sistemlerinin
+toplamından oluşan ulusal elektrik sisteminin başka bir ülkenin elektrik
+sistemine bağlantısını sağlayan enerji nakil hattını,
+Enterkonneksiyon: İletim ve dağıtım sistemlerinin
+toplamından oluşan ulusal elektrik sisteminin diğer bir ülkeye ait elektrik
+sistemine bağlanmasını,
+İhracat
+kaydıyla ithalat: Elektriğin ihracat amacı ile aynı uzlaştırma döneminde
+ithal edilmesini,
+İletim
+tesisi: 36 kV üstü gerilim seviyesinden bağlı olan
+üretim tesislerinin bittiği noktalardan itibaren, iletim şalt
+sahalarının orta gerilim fiderleri de dahil olmak
+üzere dağıtım tesislerinin bağlantı noktalarına kadar olan tesisleri,
+İletim:
+Elektrik enerjisinin gerilim seviyesi 36 kV
+üzerindeki hatlar üzerinden naklini,
+İlgili
+mevzuat: Elektrik piyasasına ilişkin kanun, yönetmelik, lisans, tebliğ,
+genelge ve Kurul kararlarını,
+Kısıt
+yönetimi bedeli: Toptan veya perakende satış lisansı sahibi tüzel kişilerin;
+ithalat ve/veya ihracat faaliyeti çerçevesinde yapılan elektrik enerjisi
+nakli için, TEİAŞ ve/veya ilgili dağıtım şirketine, bu Yönetmelik hükümleri
+uyarınca ödedikleri bedeli,
+Kısıt
+yönetimi: Kısıt olması durumunda enterkonneksiyon
+hat ya da hatlarındaki Kullanıma Açık Kapasitelerin
+(KAK) talep sahipleri ya da talep sahiplerinin bir
+kısmının kullanımına tahsis edilmesine ilişkin yöntemleri,
+Kısıt:
+Ulusal elektrik sistemi ile komşu ülke elektrik sistemlerini birbirine
+bağlayan enterkonneksiyon hattı kapasitelerinin
+tahsisinde, piyasa katılımcılarının sınır ötesi elektrik enerjisi ticaretine
+yönelik talep toplamlarının Kullanıma
+Açık Kapasite’den (KAK) büyük olması halini,
+Kullanım
+dönemi: Enterkonneksiyon hatları kapasitelerinin
+kullanıcılara tahsis edildiği dönemi,
+Kullanım
+faktörü: Enterkonneksiyon hatlarının belli bir
+zaman diliminde fiili kullanımı sonucu hattan çekilen ve/veya hatta verilen
+toplam enerjinin, aynı zaman dilimi içerisinde hatta tahsis edilmiş bulunan
+tüm kapasitenin kullanılması durumunda hattan çekilmesi ve/veya hatta
+verilmesi gereken toplam enerji miktarına yüzde (%) cinsinden oranı,
+Kullanıma
+Açık Kapasite (KAK): Belirli bir enterkonneksiyon
+hattı için hesaplanmış bulunan Net Transfer Kapasitesinden, Tahsis Edilmiş
+Kapasite ve Kullanıma Kapalı Kapasite’nin çıkarılması sonucu bulunan ve
+piyasa katılımcılarının kullanımına sunulan megavat cinsinden (MW) elektrik
+enerjisi güç miktarını,
+Kullanıma
+Kapalı Kapasite (KKK): Enterkonneksiyon hatlarının
+teknik, güvenlik gibi belirli nedenlerle kullanıma kapatılmış olan megavat
+cinsinden (MW) kapasite miktarını,
+Müşteri:
+Toptan satış şirketleri, perakende satış şirketleri, perakende satış lisansı
+sahibi dağıtım şirketleri ve serbest tüketicileri,
+Net
+Transfer Kapasitesi (NTK): Bir enterkonneksiyon
+hattı için ulusal elektrik sistemi ile komşu ülke elektrik sistemi arasında;
+her iki elektrik sisteminde uygulanan bütün güvenlik kriterleri ve her iki
+iletim sisteminde gelecekte oluşabilecek belirsizlikler de dikkate alınarak
+hesaplanan gönderilebilen/alınabilen megavat cinsinden (MW) azami elektrik
+enerjisi güç miktarını,
+Perakende
+satış şirketi: Elektrik enerjisinin ve/veya kapasitenin ithalatı ve iletim
+sistemine doğrudan bağlı olanlar dışındaki tüketicilere perakende satışı
+ve/veya tüketicilere perakende satış hizmeti verilmesi ile iştigal edebilen
+tüzel kişiyi,
+Perakende
+satış: Elektrik enerjisinin tüketicilere satışını,
+Piyasa:
+Üretim, iletim, dağıtım, toptan satış, perakende satış, perakende satış
+hizmeti, ithalat ve ihracat dahil olmak üzere elektrik enerjisi ve kapasite
+alım satımı veya ticareti faaliyetleri ile bu faaliyetlere ilişkin
+işlemlerden oluşan elektrik enerjisi piyasasını,
+Serbest
+bölge: 6/6/1985 tarihli ve 3218 sayılı Serbest Bölgeler Kanununa göre
+Bakanlar Kurulu kararıyla kurulan bölgeleri,
+Serbest
+olmayan tüketici: Elektrik enerjisi ve/veya kapasite alımlarını sadece,
+bölgesinde bulunduğu perakende satış lisansı sahibi dağıtım şirketi veya
+perakende satış şirketlerinden yapabilen gerçek veya tüzel kişiyi,
+Serbest
+tüketici: Kurul tarafından belirlenen elektrik enerjisi miktarından daha
+fazla tüketimde bulunması veya iletim sistemine doğrudan bağlı olması
+nedeniyle tedarikçisini seçme serbestisine sahip gerçek veya tüzel kişiyi,
+Tahsis
+Edilmiş Kapasite (TEK): Mülga TEAŞ
+tarafından imzalanmış olan anlaşmalar kapsamında tahsis edilmiş veya
+uluslararası anlaşmalar ile tahsis edilen veya bu Yönetmeliğin yürürlüğe
+girmesinden önce lisans kapsamında tahsis edilmiş veya bu Yönetmelik
+kapsamında, kullanıcıların hat inşa etmesi nedeni ile uzun süreli olarak
+tahsis edilen megavat (MW) cinsinden kapasite miktarını,
+Tarife:
+Elektrik enerjisinin ve/veya kapasitenin iletimi, dağıtımı ve satışı ile
+bunlara dair hizmetlere ilişkin fiyatları, hükümleri ve şartları içeren
+düzenlemeleri,
+Tedarikçi:
+Müşterilerine elektrik enerjisi ve/veya kapasite sağlayan üretim şirketleri, otoprodüktörler, otoprodüktör
+grupları, toptan satış şirketleri, perakende satış şirketleri, perakende
+satış lisansı sahibi dağıtım şirketlerini,
+Tesis:
+Elektrik enerjisi üretimi, iletimi veya dağıtımı işlevlerini yerine getirmek
+üzere kurulan tesis ve teçhizatı,
+Toptan
+satış şirketi: Elektrik enerjisinin ve/veya kapasitenin, toptan satılması, ithalatı,
+ihracatı, serbest tüketicilere satışı ve ticareti faaliyetleri ile iştigal
+edebilen tüzel kişiyi,
+Toptan
+satış: Elektrik enerjisinin tekrar satış için satışını,
+Tüketici:
+Elektriği kendi ihtiyacı için alan serbest ve serbest olmayan tüketicileri,
+Uluslararası
+enterkonneksiyon şartı: Ulusal elektrik sisteminin
+diğer ülkelere ait elektrik sistemi ile senkron paralel şekilde
+işletilebilmesini ve/veya söz konusu ülke elektrik sistemindeki bir üretim
+tesisi ya da üretim tesisinin bir ünitesinin Elektrik
+Piyasası Şebeke Yönetmeliği ve/veya Elektrik Piyasası Dağıtım Yönetmeliği
+hükümlerine uygun olarak ulusal elektrik sistemine paralel
+çalıştırılabilmesini ve/veya enterkonneksiyon
+hatları ile komşu ülkede oluşturulacak izole bölgenin beslenmesi ve/veya asenkron paralel bağlantıyı,
+Uzlaştırma
+dönemi: İlgili mevzuatta belirtilen mali uzlaştırmaya ilişkin dönemleri,
+Üretim:
+Enerji kaynaklarının, üretim tesislerinde elektrik enerjisine
+dönüştürülmesini,
+ifade
+eder.
+İKİNCİ BÖLÜM
+İthalat ve/veya İhracat Faaliyetinin Kapsamı ve
+Uygulamaya İlişkin Esaslar
+İthalat ve/veya ihracat faaliyetinde
+bulunabilecek tüzel kişiler
+Madde 5 — Uluslararası enterkonneksiyon
+şartı oluşmuş ülkelerden ya da ülkelere elektrik
+enerjisi ithalatı ve/veya ihracatı, Kurul onayı ile yapılabilir.
+Lisanslarında yer alması kaydıyla;
+a)
+TETAŞ ve özel sektör toptan satış şirketleri; elektrik enerjisi ithalat
+ve/veya ihracatı faaliyetlerini,
+b)
+Perakende satış şirketleri ve perakende satış lisansı sahibi dağıtım
+şirketleri ise 36 kV ve altındaki gerilim
+seviyesinden elektrik enerjisi ithalatı faaliyetini,
+yürütebilir.
+Bu
+tüzel kişilerin ithalat ve/veya ihracat faaliyeti, toptan satış veya
+perakende satış lisansları kapsamında düzenlenir ve ayrıca lisans alınmasını
+gerektirmez.
+Elektrik enerjisinin ithalat ve/veya
+ihracatı faaliyetinde uygulanacak yöntemler
+Madde 6 — Elektrik enerjisinin ithalatı;
+a)
+Ulusal elektrik sisteminin elektrik enerjisinin ithal edileceği ülkenin
+elektrik sistemi ile senkron paralel şekilde işletilebilmesi,
+b)
+Elektrik enerjisinin ithal edileceği ülke elektrik sistemindeki bir üretim
+tesisi ya da üretim tesisinin bir ünitesinin
+Elektrik Piyasası Şebeke Yönetmeliği ve/veya Elektrik Piyasası Dağıtım
+Yönetmeliği hükümlerine uygun olarak ulusal elektrik sistemine paralel
+çalıştırılabilmesi,
+c) Asenkron paralel (DC) bağlantı yapılması,
+hallerinde
+mümkündür.
+Elektrik
+enerjisinin ihracatı;
+a)
+Ulusal elektrik sisteminin elektrik enerjisinin ihraç edileceği ülkelerin
+elektrik sistemi ile senkron paralel şekilde işletilebilmesi,
+b)
+Ülke sınırları içerisindeki bir üretim tesisi ya da
+üretim tesisinin bir ünitesinin elektrik enerjisinin ihraç edileceği ülkenin
+elektrik sistemi ile paralel çalıştırılabilmesi,
+c)
+Elektrik enerjisi ihraç edilecek ülkede oluşturulacak izole bir bölgenin, enterkonneksiyon hatları ile beslenmesi,
+d) Asenkron paralel (DC) bağlantı yapılması,
+hallerinde
+mümkündür.
+Ulusal
+elektrik sisteminin elektrik enerjisinin ithal ya
+da ihraç edileceği ülkenin elektrik sistemi ile senkron paralel şekilde
+işletilebilmesinin mümkün olmaması durumunda bir enterkonneksiyon
+hattında bir kullanım dönemi içinde ithalat veya ihracat faaliyetlerinden
+sadece birisi yapılabilir.
+İthalat ve
+ihracat faaliyetinde bulunabilmek için Kuruma sunulacak bilgi ve belgeler
+Madde 7 — İthalat faaliyetinde bulunmak için yapılan
+başvurularda, başvurunun inceleme ve değerlendirmeye alınabilmesi için
+aşağıdaki bilgi ve belgelerin Kuruma sunulması zorunludur;
+a)
+İthalat yapılacak ülke,
+b) İthal
+edilmesi öngörülen elektrik enerjisinin üretiminde kullanılan yakıt türü veya
+türleri,
+c)
+İthal edilmesi öngörülen elektrik enerjisinin megavat cinsinden (MW) azami
+gücü ve kilovatsaat
+cinsinden (kWh) yıllık miktarı,
+d)
+İthalat faaliyeti için öngörülen başlama tarihi ve faaliyet süresi,
+e)
+İthal edilmesi öngörülen elektrik enerjisinin ülke sınırındaki teslim
+noktaları,
+f)
+İthalatta kullanılacak yöntem,
+g)
+Bulunması halinde, ithalat yapılacak ülkedeki tüzel kişiyle yapılan anlaşma
+veya bu anlaşmayla ilgili söz konusu tüzel kişiden alınan belge.
+İhracat
+faaliyetinde bulunmak için yapılan başvurularda, başvurunun inceleme ve
+değerlendirmeye alınabilmesi için aşağıdaki bilgi ve belgelerin Kuruma
+sunulması zorunludur;
+a)
+İhracat yapılacak ülke,
+b)
+İhraç edilmesi öngörülen elektrik enerjisinin megavat cinsinden (MW) azami
+gücü ve kilovatsaat
+cinsinden (kWh) yıllık miktarı,
+c)
+İhracat faaliyeti için öngörülen başlama tarihi ve faaliyet süresi,
+d)
+İhraç edilmesi öngörülen elektrik enerjisinin ülke sınırındaki teslim
+noktaları,
+e)
+İhracatta kullanılacak yöntem,
+f)
+Bulunması halinde, ihracat yapılacak ülkedeki tüzel kişiyle yapılan anlaşma
+veya bu anlaşmayla ilgili söz konusu tüzel kişiden alınan belge.
+İthalat ve/veya ihracat faaliyeti için
+yapılacak başvurular
+Madde 8 — Toptan satış lisansı veya perakende satış lisansına
+sahip tüzel kişiler tarafından; mevcut ya da
+yapılacak hatlar vasıtasıyla uluslararası enterkonneksiyon
+şartı oluşmuş ülkelerden ya da ülkelere, ithalat
+ve/veya ihracat faaliyetlerinde bulunmak üzere 7 nci
+maddede belirtilen çerçevede başvuruda bulunulması halinde, Kurum tarafından,
+3154 sayılı Enerji ve Tabii Kaynaklar Bakanlığının Teşkilat ve Görevleri
+Hakkında Kanuna göre oluşturulan Bakanlık görüşü ile teknik konulara ilişkin
+olarak TEİAŞ ve/veya dağıtım lisansı sahibi tüzel kişilerin görüşü alınır.
+Görüşlerin
+olumlu olması halinde, başvuru Kurum ilan panosu ile Kurum internet sayfasında duyurulur. Duyuruyu izleyen on iş
+günü içerisinde, aynı hattı kullanmak suretiyle ithalat ve/veya ihracat
+faaliyetinde bulunmak isteyen toptan satış lisansı veya perakende satış
+lisansına sahip tüzel kişiler de Kuruma başvurabilir. Süresinde yapılan
+başvurular sonuçlandırılıncaya kadar aynı hat için yeni başvuru kabul
+edilmez.
+Aynı
+hat için birden fazla başvuru olması halinde, başvurular bu Yönetmelik
+hükümleri doğrultusunda sonuçlandırılmak üzere TEİAŞ’a
+ve/veya ilgili dağıtım lisansı sahibi tüzel kişiye bildirilir. TEİAŞ ve/veya
+dağıtım lisansı sahibi tüzel kişiler, kapasite tahsisine ilişkin işlemleri bu
+Yönetmelik hükümleri çerçevesinde kırkbeş gün
+içerisinde sonuçlandırarak, Kurul kararı alınmasını teminen
+sonucu Kuruma bildirir.
+Ulusal
+elektrik sisteminin elektrik enerjisinin ithal ya
+da ihraç edileceği ülkenin elektrik sistemi ile senkron paralel şekilde
+işletilebilmesinin mümkün olmaması durumunda ithalat veya ihracat
+faaliyetlerinden hangisinin yapılacağına ilişkin olarak Bakanlık görüşü esas
+alınır.
+Toptan
+satış lisansı sahibi bir özel sektör toptan satış şirketinin ithal edeceği elektrik
+enerjisi miktarı da dahil olmak üzere iştirakleriyle birlikte piyasada sahip
+olacağı toplam pay, piyasada bir önceki yılda tüketilen toplam elektrik
+enerjisi miktarının yüzde onunu geçemez.
+Başvuruların incelenmesi,
+değerlendirilmesi ve sonuçlandırılması
+Madde 9 — İthalat ve/veya ihracat faaliyetinde bulunması Kurul
+kararıyla uygun bulunan lisans sahibi tüzel kişiye; öngörülen ithalat ve/veya
+ihracat faaliyetine ilişkin olarak başvuru sırasında sunulan belgelere uygun
+anlaşmaların aslı veya noter onaylı bir örneğinin, enterkonneksiyon
+anlaşmasının ve lisans tadil bedelinin Kuruma ibraz edilmesi durumunda
+faaliyet izni verileceği ve bu yükümlülüğün altmış gün içerisinde yerine
+getirilmesi yazılı olarak bildirilir.
+Yükümlülüklerin
+yerine getirilmesi halinde, ithalat ve/veya ihracat faaliyetine izin
+verilmesine ilişkin hükümler Kurul onayı ile ilgili tüzel kişinin lisansına
+derç edilir ve Kurum internet sayfasında
+yayımlanmak suretiyle duyurulur.
+ÜÇÜNCÜ BÖLÜM
+İthalat ve/veya İhracat Faaliyetine İlişkin Lisans
+Hükümleri ve Serbest Bölgeler
+İthalat ve/veya ihracat faaliyetinin
+süresinden önce sona erdirilmesi
+Madde 10 — Toptan veya perakende satış lisansı sahibi bir tüzel
+kişinin, lisansı kapsamında sürdürmekte olduğu ithalat ve/veya ihracat
+faaliyetine süresinden önce son vermek istemesi durumunda, faaliyetin sona
+erdirilmek istendiği tarihten en az dört ay önce Kuruma ve TEİAŞ veya ilgili
+dağıtım lisansı sahibi tüzel kişiye başvuruda bulunulması zorunludur. Bu
+durumda 18 inci madde hükümleri uyarınca işlem tesis edilir.
+İthalat ve/veya ihracat faaliyetinin
+süresi
+Madde 11 — Toptan veya perakende satış lisanslarında, ithal
+ve/veya ihraç edilecek elektrik enerjisi miktarı ile sürelerini kapsayan
+program ayrı bir bölüm olarak yer alır.
+İthalat
+ve/veya ihracat faaliyetine ilişkin izin süresi ilgili lisansın geçerlilik
+süresini aşmamak kaydıyla bu süreden farklı olabilir.
+Elektrik
+enerjisinin ithalatı ve/veya ihracatına ilişkin hükümlerde yapılacak her
+türlü değişiklik ya da süre uzatımı talebi lisans
+tadili gerektirir ve ilgili lisansın diğer tüm hükümlerine ilişkin değişiklik
+ya da süre uzatımından ayrı olarak ele alınır.
+Lisans
+sahibi tüzel kişinin ithalat ve/veya ihracat faaliyetine ilişkin
+yükümlülükleri
+Madde 12 — Lisans sahibi tüzel kişiler, ithalat ve/veya ihracat
+faaliyeti çerçevesinde yapılan elektrik enerjisi nakli için TEİAŞ ve/veya
+ilgili dağıtım lisansı sahibi tüzel kişilere, ilgili mevzuatta yer alan usul
+ve esaslara göre belirlenen ödemeleri yapmakla yükümlüdür.
+Perakende
+satış lisansı sahibi tüzel kişiler, ithal ettikleri elektrik enerjisinin
+serbest olmayan tüketicilere satışını, Elektrik Piyasası Tarifeler
+Yönetmeliği hükümlerine uygun olarak yapmak zorundadır.
+Lisans
+sahibi tüzel kişilerin bu Yönetmelik kapsamında yapmış oldukları anlaşmaların
+hükümleri ancak Kuruma yazılı bildirimde bulunulması ve Kurulun onayının
+alınması şartıyla değiştirilebilir.
+Lisans
+sahibi tüzel kişiler, ithalat ve/veya ihracat faaliyetine ilişkin olarak
+Kurumca gerekli görülmesi halinde her türlü ek bilgi ve belgeyi sunmakla
+yükümlüdür.
+Elektrik
+enerjisinin ithalatı ve/veya ihracatı faaliyetinin Kurul tarafından hangi
+durumlarda sınırlandırılabileceğine ilişkin hükümlere ilgili lisanslarda yer
+verilir.
+Serbest bölgeler
+Madde 13 — Yurt içinden serbest bölgelere elektrik enerjisi
+satışı, elektrik piyasası açısından tüketicilere yapılan satış olarak
+değerlendirilir ve bu Yönetmelik hükümleri uygulanmaz.
+DÖRDÜNCÜ BÖLÜM
+Enterkonneksiyon Hatlarında Kapasite Tahsisine İlişkin Genel Esaslar
+Enterkonneksiyon hat kapasitelerinin tahsisi
+Madde 14 — Enterkonneksiyon hat
+kapasitelerinin tahsisi, enterkonneksiyon hat
+kullanımının denetimi ve bu hatlardaki kısıt yönetimi, enterkonneksiyon
+hatlarının gerilim seviyesine göre;
+a) 36
+kV üzeri gerilim seviyelerindeki hatlar için TEİAŞ,
+b)
+36 kV ve altındaki gerilim seviyelerindeki hatlar
+için dağıtım lisansı sahibi tüzel kişiler,
+tarafından
+yürütülür.
+Enterkonneksiyon hat kapasitelerinin duyurulması
+Madde 15 — TEİAŞ veya dağıtım lisansı sahibi tüzel kişiler;
+a)
+Bir enterkonneksiyon hattının işletmeye alınması,
+b) Bir enterkonneksiyon
+hattındaki kapasite kullanımının, belirli bir nedenle son bulması,
+c) İşletmede olan bir enterkonneksiyon
+hattında herhangi bir nedenle oluşacak kapasite artışı,
+hallerinde ortaya çıkacak kapasiteler hakkındaki
+bilgileri, söz konusu kapasitenin kullanıma açılacağı tarihten en az dört ay
+önce Kuruma bildirir ve Kurul kararı alınmasını takiben internet
+sayfasında duyurur.
+Mevcut
+enterkonneksiyon hatları ile ilgili olarak, TEİAŞ
+veya dağıtım lisansı sahibi tüzel kişiler tarafından yapılan duyurularda
+asgari olarak;
+a)
+Hatların güvenlik, işletme ve planlama ile ilgili standartları, NTK hesabına
+ilişkin olarak kullanılan yöntemler hakkındaki bilgilere,
+b)
+Şebeke ve çevre şartları da göz önüne alınarak hesaplanmış NTK değerlerine,
+c)
+TEK değerlerine ve bu kapasitelerin nasıl kullanılmakta olduğuna,
+d) Enterkonneksiyon hatlarının KKK ve KAK değerlerine ve
+kullanım şartlarına,
+yer verilir.
+Enterkonneksiyon hat kapasite tahsisine ilişkin usul ve
+esasların belirlenmesi
+Madde 16 — Kullanıma açık enterkonneksiyon
+hatlarının güç ve/veya enerji kapasite tahsisi ile ilgili usul ve esaslar,
+piyasa şartları dikkate alınarak TEİAŞ veya dağıtım lisansı sahibi tüzel
+kişiler tarafından, lisansları kapsamında işletmekte oldukları enterkonneksiyon hatları için genel olarak veya gerekli
+görülen durumlarda hat bazında belirlenerek Kuruma teklif edilir. Usul ve
+esasların, hat ya da hatlardaki kapasitelerin
+kullanımına ilişkin yeni uygulama dönemlerinin başlaması öngörülen tarihten
+en az dört ay öncesinden Kuruma teklif edilmesi esastır. Usul ve esaslar
+Kurul kararı ile yürürlüğe girer.
+TEİAŞ
+veya dağıtım lisansı sahibi tüzel kişiler, enterkonneksiyon
+hattı kapasite tahsis yönteminin belirlenmesi ve uygulanmasında;
+a)
+Eşit taraflar arasında ayrım gözetilmemesi,
+b)
+Rekabetin geliştirilmesi,
+c)
+Yöntemin serbest piyasa şartlarına uygun olması,
+ilkeleri doğrultusunda hareket eder.
+Bir
+enterkonneksiyon hattının tamamı ya da bir kısmının bir kullanıcıya tahsis süresi bir
+defada bir yılı geçemez.
+Kapasite
+tahsisi için aday tüzel kişilerin diğer ülke temsilcileri ya
+da diğer ülkelerdeki tüzel kişiler ile yaptıkları anlaşmalar enterkonneksiyon hattı kapasite tahsisinde dikkate
+alınmaz.
+Kapasite
+tahsis sürecinde TEİAŞ veya ilgili dağıtım lisansı sahibi tüzel kişi
+tarafından, hattın kullanımı için başvuruda bulunan tüzel kişilere söz konusu
+enterkonneksiyon hattı ile ilgili teknik bilgiler,
+ölçüm yerleri ve gerekli olabilecek diğer bilgiler verilir ve internet sayfasından duyurulur.
+Kurul,
+gerekli gördüğü durumlarda enterkonneksiyon
+hatlarına ilişkin kapasite tahsisi ile ilgili olarak, yukarıda sıralanmış
+ilkeler doğrultusunda TEİAŞ veya ilgili dağıtım lisansı sahibi tüzel kişiden
+görüş isteyerek uygulanan yöntemi değiştirebilir.
+Kısıt yönetim bedelleri ile ilgili
+kurallar
+Madde 17 — Enterkonneksiyon
+hatlarının kapasite tahsisi hususunda enterkonneksiyon
+hattının tam kapasitesi ya da kapasitenin bir
+bölümü belirli bir nedenle kullanıma kapatılmamış ise, hattın tüm
+kapasitesinin kullanıcılara tahsisi öngörülür.
+Hatlarda,
+kullanıma kapalı olma nedeni dışında, talep bulunmaması nedeniyle atıl kalmış
+kapasite mevcut ise, ya da tek bir tüzel kişi
+talebi nedeni ile rekabet şartları ortadan kalkmış ise, bu durumun
+başlangıcından itibaren, söz konusu enterkonneksiyon
+hattı için kısıt yönetim bedeli tahakkuk ettirilmez. Ancak, kullanım dönemi
+içerisinde herhangi bir nedenle kapasite tahsisi iptali nedeniyle atıl bir kapasite
+ortaya çıktığı takdirde, bu durum mevcut enterkonneksiyon
+hattı kapasitesini kullanan diğer kullanıcıların haklarını ve kısıt yönetimi
+bedellerini etkilemez. Böyle bir durumda atıl kapasitenin 18 inci madde
+hükümleri uyarınca piyasaya yeniden tahsisi öngörülür.
+Enterkonneksiyon hattı kapasite kullanımında uyulacak
+kurallar
+Madde 18 — Enterkonneksiyon hattı kapasite tahsisine hak kazanmış lisans sahibi
+tüzel kişilerin enterkonneksiyon hatlarını tam
+kapasite ile kullanması esastır. Enterkonneksiyon
+hattı kapasite tahsisinde ya da tahsis sonrası
+kısıt olması durumunda, hattın kapasite kullanım süresi başladıktan sonra
+kapasite kullanımı izlenir ve kullanım dönemi içerisinde kısa ve uzun dönemli
+değerlendirmeler yapılır. Bu kapsamda, tahsis edilen kapasite dikkate
+alındığında hesaplanacak kullanım faktörü itibarıyla verimli kullanılmayan
+kapasiteler olması durumunda ilgili kullanıcının enterkonneksiyon
+hattı kapasite tahsisi iptal edilebilir. Kapasite tahsisinin iptal
+edilmesinin öngörüldüğü tarih Kuruma bildirilir. Enterkonneksiyon
+hattı kapasite kullanım hakkının iptalinin Kurul kararıyla uygun bulunması
+durumunda, ilgili kullanıcının enterkonneksiyon
+hattı kapasite tahsisinin iptal edileceği ve kalan kullanım dönemi ve/veya
+yeni kullanım dönemi için tahsisat yapılacağı TEİAŞ veya dağıtım lisansı
+sahibi tüzel kişi tarafından duyurulur. İlgili kullanıcının hakları, kullanım
+hakkı Kurul kararıyla iptal edilene kadar devam eder, ancak bu süre
+içerisinde ilgili kullanıcının iptale konu kullanım şartlarını yerine
+getirmesi kendisine yeni haklar sağlamaz ve yeni kullanıcının haklarını
+etkilemez. Yeni kullanıcının ödeyeceği kısıt yönetimi bedeli ile eski
+kullanıcının önermiş olduğu fiyatlar arasında TEİAŞ veya dağıtım lisansı
+sahibi tüzel kişi için gelir kaybına neden olacak fiyat farkı var ise bu
+farkın neden olacağı bedel eski kullanıcının teminatından tahsil edilir.
+TEİAŞ veya dağıtım lisansı sahibi tüzel kişi kullanıcılardan, kapasite
+kullanım bedellerinin ödenmemesi hallerini gözeterek teminat alabilir.
+Kısıt yönetim bedellerinden
+kaynaklanan gelirlerin kullanılması
+Madde 19 — TEİAŞ veya dağıtım lisansı sahibi tüzel kişiler
+kısıt yönetim bedellerinden kaynaklanan gelirlerini, öncelikle;
+a)
+Yeni enterkonneksiyon hatlarının tesisinde,
+b)
+Mevcut enterkonneksiyon hatlarının NTK miktarının
+artırılması için gereken iletim ve dağıtım sistemleri güçlendirmelerinin
+tesisinde,
+c) Mali ihtiyaçları ile ilgili ve Kurul tarafından
+onaylanan diğer amaçlara yönelik olarak,
+kullanabilir.
+Elektrik enerjisinin ithalat ve/veya
+ihracatına ilişkin yöntemlerin hat kapasitelerinin tahsisinde uygulanma
+durumları
+Madde 20 — Enterkonneksiyon şartının,
+ulusal elektrik sisteminin diğer ülkeler ile senkron paralel çalışması
+şeklinde oluşması halinde TEİAŞ;
+a) Enterkonneksiyon hatlarının aynı kullanım döneminde
+ithalat ve ihracata açık olması durumunda her iki faaliyetin aynı anda
+yapılabilmesi hususundaki kuralları,
+b) Enterkonneksiyon hatları ile ilgili kapasite
+hesaplanması, enterkonneksiyon hattı kapasite
+tahsisi, kısıt yönetimi ve hatların denetimi hususlarında, uluslararası
+anlaşmaların hükümleri doğrultusunda gerekli düzenlemeleri,
+c)
+Bu ülkeler ile ortak bir bölgesel pazar içinde bulunulması durumunda;
+kapasite hesaplanması, enterkonneksiyon hattı
+kapasite tahsisi, kısıt yönetimi ve hatların denetimi hususlarında, daha önce
+imzalanmış bulunan uluslararası anlaşmaların hükümleri doğrultusunda gerekli
+düzenlemeleri,
+Kuruma
+teklif eder ve uygulamalar Kurul kararı ile yürürlüğe girer.
+Ulusal
+elektrik sisteminin birden fazla ülke ile senkron paralel olarak bağlantılı
+olması durumunda, ulusal elektrik sistemi bu ülkeler arasındaki transit
+ticarete açık ise, ticarete taraf ülkelerden alınacak tazminat hesabına
+ilişkin yöntem uluslararası anlaşmaların ilgili hükümlerine uygun olarak
+TEİAŞ tarafından Kuruma teklif edilir, Kurul onayı ile kabul edilir. Kurul,
+uluslararası anlaşmalar çerçevesinde tazminat hesabına ilişkin yöntemi
+değiştirme veya uygun gördüğü durumlarda yeniden belirleme hakkına sahiptir.
+Ulusal
+elektrik sisteminin diğer ülkeler ile senkron paralel çalışmadığı durumlarda;
+TEİAŞ veya dağıtım lisansı sahibi tüzel kişiler, söz konusu hatlar için
+kapasite hesaplanması, hat tahsisi, kısıt yönetimi ve hatların denetimi
+hususlarında, daha önce imzalanmış bulunan uluslararası anlaşmaların
+hükümleri doğrultusunda hareket eder.
+Yeni enterkonneksiyon
+hatlarının toptan satış lisansı sahibi tüzel kişiler tarafından yapılması
+Madde 21 — TEİAŞ veya dağıtım lisansı sahibi tüzel kişiler,
+elektrik piyasasında ticaretin ve rekabetin arttırılması amacına yönelik
+olarak toptan satış lisansı sahibi tüzel kişilere, mülkiyeti ve işletmesine
+ilişkin tüm hak ve yetkiler TEİAŞ veya dağıtım lisansı sahibi tüzel kişi nam
+ve hesabına olması kaydıyla enterkonneksiyon
+hatları inşa ettirebilir ve/veya mevcut NTK’yi
+arttıracak iletim tesisleri yaptırabilir. Bu hatların bedeli, Elektrik
+Piyasası Lisans Yönetmeliğinin 38 inci maddesi hükümleri doğrultusunda;
+sistem kullanım, sistem işletim ve kısıt yönetim ücretlerinden mahsup etme
+yolu ile ilgili tüzel kişiye ödenir.
+TEİAŞ
+veya dağıtım lisansı sahibi tüzel kişi ile anlaşarak hattı inşa eden ya da ettiren tüzel kişi, kısıt olması durumunda,
+mahsuplaşma tamamlanana kadar yapılan hattın TEİAŞ veya dağıtım lisansı
+sahibi tüzel kişi tarafından belirlenecek NTK değerinin en fazla %50’sini
+kullanır. Bu hakka sahip tüzel kişinin kısıt yönetim fiyatı kapasitenin
+geriye kalan kısmını en uzun süre ile kullanan tüzel kişiler arasındaki en
+düşük kısıt yönetimi bedelini ödeyen tüzel kişinin kısıt yönetim fiyatı
+üzerinden hesaplanır. Hak sahibine, mücbir bir sebep olmaksızın, kendisine
+ait kapasiteyi en az %70 kapasitede kullanmadığı her ay için mahsuplaşmaya
+esas tüm fiyatlar %100 zamlı olarak yansıtılır. Mahsuplaşma tamamlanıncaya
+kadar TEİAŞ’ın veya dağıtım lisansı sahibi tüzel
+kişinin kontrolündeki %50 KAK’ın kullanılması için
+başka talep olmaması durumunda, hattı inşa eden toptan satış lisansı sahibi
+tüzel kişinin hat kapasite kullanım yüzdesi Kurul kararı ile söz konusu enterkonneksiyon hattının kullanımı için başka bir talep
+gelene kadar artırılabilir. Aynı enterkonneksiyon
+hattını yapmak ve/veya mevcut NTK’yi artıracak
+iletim tesisleri yapmak için birden fazla talep olması halinde söz konusu
+iletim tesisini onaylı projeye göre en ucuz fiyatla yapmayı teklif eden
+toptan satış lisansı sahibi tüzel kişinin teklifi kabul edilir. Hattı yapan
+toptan satış lisansı sahibi tüzel kişinin lisansı, hattın kullanılmaya
+başlamasının öncesinde ve mahsuplaşma işleminin son durumu değerlendirilerek
+her yıl Ocak ayı içerisinde tadil edilir.
+BEŞİNCİ BÖLÜM
+Geçici ve Son Hükümler
+Yürürlülükten kaldırılan yönetmelik
+Madde 22 — 4/9/2002 tarihli ve 24866 sayılı Resmî Gazete’de
+yayımlanan Elektrik Piyasası İthalat ve İhracat Yönetmeliği yürürlükten
+kaldırılmıştır.
+Geçici Madde 1 — TETAŞ, Kanunun
+yayımından önce yapılmış olan ve Kanunun 2 nci
+maddesinin dördüncü fıkrasının (d) bendinin (1) numaralı alt bendi
+hükümlerine göre devraldığı sözleşmelerden elektrik enerjisi ithalatı ve/veya
+ihracatına ilişkin olanları, ilgili sözleşmelerde belirtilen usul ve esaslar
+ile lisansına derç edilen hükümler çerçevesinde yürütür ve sona erdirir.
+Geçici Madde 2 — Uluslararası enterkonneksiyon şartı oluşana kadar ihraç kaydı ile
+elektrik enerjisi ithalatına Bakanlık ve TEİAŞ’ın
+görüşleri çerçevesinde Kurum tarafından izin verilir. Bu durumda; elektrik
+enerjisinin ihracatı faaliyeti; ihracatın yapılacağı ülkede oluşturulacak
+izole bölge, üretim yapması zorunlu olan bir üretim tesisinin veya bir
+ünitenin yönlendirilmesi, veya asenkron paralel
+(DC) bağlantıyla; elektrik enerjisinin ithalatı faaliyeti ise ünite
+yönlendirme veya asenkron paralel (DC) bağlantı
+yöntemiyle yapılabilir. Bu kapsamdaki ithalat ve ihracat faaliyetleri,
+uzlaştırma dönemleri bazında mali uzlaştırma işlemlerine tabi tutulur.
+Geçici Madde 3 — Uluslararası enterkonneksiyon şartı oluşmuş ülkelerden ya da bu ülkelere elektrik enerjisinin ithalatı ve/veya
+ihracatı faaliyetlerinde bulunulmasına ilişkin olarak bu Yönetmelik
+çerçevesinde usulüne uygun olarak Kuruma yapılan ve TEİAŞ’a
+gönderilen başvurular ile ilgili enterkonneksiyon
+hattı kapasite tahsisi için, bu Yönetmeliğin yayımı tarihinden itibaren bir
+yıl süre ile doğrudan kapalı zarf usulü ile teklif alma yöntemi uygulanır.
+Hat kapasite tahsisleri bir yıl süre için yapılır.
+Birinci
+fıkra çerçevesinde tahsis edilen kapasitenin kullanımı enterkonneksiyon
+anlaşmasının yürürlüğe girmesini takip eden ayın ilk gününden başlar ve bir
+sonraki kullanım dönemi başlangıcına kadar devam eder.
+Geçici Madde 4 — Bu Yönetmeliğin
+yayımı tarihinden itibaren bir yıl süre içinde tahsis edilen kapasiteler
+için, enterkonneksiyon hattı kapasite tahsisinde ya da tahsis sonrası kısıt olması durumunda, hattın
+kapasite kullanım süresi başladıktan sonraki ilk bir ay ve son üç ay hariç
+tutulmak üzere her ay sonunda değerlendirme yapılır. Tahsis edilen kapasite
+dikkate alındığında hesaplanacak kullanım faktörü itibarıyla, kullanılan
+kapasitenin son ay için % 60’dan ya da son üç ay
+ortalamasının %70’den az olması durumunda, kullanılmayan kapasiteler için ilgili
+kullanıcının enterkonneksiyon hattı kapasite
+tahsisi, yeni tahsisat yapılarak iptal edilir. Yeni tahsisat sürecinde
+kullanıcıların hakları ve TEİAŞ’ın gelir kaybına
+ilişkin olarak 18 inci madde hükümleri uygulanır. Kullanım faktörü
+hesaplamasında Milli Yük Tevzi Merkezinin talimatları veya söz konusu hattaki
+kullanıcının kusurunun bulunmadığı arızalar nedeni ile oluşabilecek, hat
+kullanımını engelleyici durumlarda hattın kullanılamadığı süreler dikkate
+alınmaz.
+Geçici Madde 5 — Uluslararası enterkonneksiyon şartı oluşana kadar ihracat kaydıyla
+elektrik enerjisi ithalat faaliyeti,
+ilgili tüzel kişinin bu faaliyeti gerçekleştireceği tüm enterkonneksiyon
+hatlarında birbirinden bağımsız olarak tahsis hakkı kazanması sonucunda
+mümkün olabilir.
+Geçici Madde 6 — 36 kV ve altındaki gerilim seviyelerinden ithalat ve/veya
+ihracat faaliyeti için başvurular 1/1/2007 tarihi itibarıyla başlar.
+Yürürlük
+Madde 23 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+Yürütme
+Madde 24 — Bu Yönetmelik hükümlerini Başkan yürütür.
