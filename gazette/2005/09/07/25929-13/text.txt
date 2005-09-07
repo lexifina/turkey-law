@@ -1,0 +1,108 @@
+Yönetmelik
+Telekomünikasyon Kurumundan:
+Telekomünikasyon
+Hizmet ve Altyapılarına İlişkin Yetkilendirme
+Yönetmeliğinde
+Değişiklik Yapılmasına Dair Yönetmelik
+MADDE 1 — 26/8/2004 tarihli ve 25565 sayılı Resmî Gazete'de
+yayımlanan Telekomünikasyon Hizmet ve Altyapılarına İlişkin Yetkilendirme
+Yönetmeliğine EK-All'den sonra gelmek üzere
+aşağıdaki EK-A12 eklenmiştir.
+"EK-A12
+ALTYAPI
+İŞLETMECİLİĞİ
+HİZMETİ
+1. Hizmetin Tanımı ve Kapsamı:
+Altyapı
+işletmeciliği hizmeti, işletmecilere ve kullanıcılara telekomünikasyon
+hizmetleri sunulmasına imkan sağlayan transmisyon altyapısı kurulması ve
+işletilmesidir.
+2. Yetkilendirme Türü
+Altyapı
+işletmeciliği hizmetini yürütmek isteyen sermaye şirketleri, Kurum tarafından
+verilecek 2. Tip TR ile yetkilendirilir.
+3. Hizmete Özel Tanımlar ve
+Kısaltmalar
+AİH
+: Altyapı İşletmeciliği Hizmeti.
+Hizmet
+Bölgesi : AİH sunacak işletmecilerin hizmetlerini sunmak üzere
+yetkilendirildikleri coğrafi bölge (ler) dahilinde
+kalan alan.
+Varlık
+Noktası : PoP (Point of
+Presence) : Modem, transmisyon hattı, router
+(yönlendirici) vb. telekomünikasyon ekipmanları üzerindeki çift yönlü
+trafiğin şebeke katmanları arasında yönlendirilmesini sağlayan merkez.
+R/L
+: Radyo Link.
+Transmisyon
+Altyapısı : İşaret, sembol, ses ve görüntünün ve elektrik sinyallerine
+dönüşebilen her türlü verinin iletildiği kablo, R/L, optik veya Kurumun uygun
+göreceği diğer fiziksel iletim ortamları üzerinden iletilmesini sağlayan
+telekomünikasyon altyapısı.
+4. İşletmecinin Hakları
+İşletmecinin
+bu Yönetmeliğin ana metninde yer alan haklarına ilaveten bu hizmet kapsamındaki
+hakları aşağıda belirtilmiştir:
+4.1. İşletmeci, yetkilendirilmiş
+olduğu hizmet bölgesinde transmisyon altyapısı kurma, kurdurma, kiralama
+ve/veya herhangi bir surette temin etme ve bu altyapıyı diğer işletmecilerin
+veya talep eden diğer gerçek ve tüzel kişilerin kullanımına sunma hakkına
+sahiptir.
+4.2. İşletmeci, birden fazla coğrafi bölge için
+yetkilendirilebilir.
+4.3. Belli bir hizmet bölgesinde yetkilendirilmiş olan
+işletmeci, kendi Varlık Noktası ile farklı bir hizmet bölgesinde yetkilendirilmiş
+veya farklı bir yetkilendirme almış olan işletmecilerin Varlık Noktaları
+arasında bağlantı sağlama hakkına sahiptir. Ancak işletmeci,
+yetkilendirilmediği coğrafi bölgede, hiçbir şekilde iki nokta arasında
+transmisyonu sağlamak amacıyla altyapı kuramaz ve kullanıcılara ulaşamaz.
+4.4. İşletmeci, yetkilendirildiği hizmet bölgesindeki bir
+nokta ile ülke sınırlan dışında bir nokta arasında transmisyonu sağlamak
+amacıyla, transmisyon altyapısı kurma ve işletme hakkına sahiptir.
+4.5. Ülke sınırları içinde bir nokta ile ülke sınırları
+dışında bir nokta arasında transmisyon altyapısı kurmak ve işletmek isteyen
+işletmeci, yetkilendirildiği hizmet bölgesinde, denizaltı transmisyon
+altyapısı için karaya çıkış noktası ile diğer işletmecilerin Varlık Noktası
+arasında ve karasal transmisyon altyapısı için yurtdışı çıkış noktası ile
+diğer işletmecilerin Varlık Noktası arasında bağlantı sağlama hakkına
+sahiptir.
+4.6. İşletmeci, yetkilendirme kapsamında telefon hizmeti
+sunamaz.
+5. İşletmecinin Yükümlülükleri
+İşletmecinin
+bu Yönetmeliğin ana metninde yer alan yükümlülüklerine ilaveten yerine
+getirmek zorunda olduğu yükümlülükleri aşağıda belirtilmiştir:
+5.1. İşletmeci, ilgili hizmet kalitesi standartlarına
+uymakla ve hizmetin kesintisiz olarak sunulması için gerekli tedbirleri
+almakla yükümlüdür.
+5.2. Frekansın kıt kaynak olması, enterferans
+problemleri ile karşılaşılması ihtimali ve güvenlik gibi sebeplerle
+transmisyon altyapısının öncelikli olarak fiber optik, koaksiyel,
+bakır gibi her türlü telli iletim ortamları üzerinden sağlanması esastır.
+Ancak, ihtiyaç duyulması ve bu ihtiyacın Kurum tarafından uygun bulunması
+halinde, Kurumun ilgili düzenlemelerine uymak kaydıyla R/L transmisyon
+altyapısı da kurulabilir.
+5.3. İşletmeci, 2813 sayılı Telsiz
+Kanunu ve 406 sayılı Telgraf ve Telefon Kanunu uyarınca, R/L kullanımına
+ilişkin sistem kurma ve kullanma izinlerini, Kurumdan ayrıca talep eder.
+Kurum tarafından söz konusu taleplerin uygun bulunması halinde, frekans
+tahsisi yapılarak R/L sistem kurma ve kullanma izinleri verilebilir.
+5.4. İşletmeci, yetkilendirme süresi
+boyunca mevcut transmisyon altyapısının kapasitesi ve etkinliği üzerinde
+yaptığı önemli ve ölçülebilir (ekipman sayısı, kurulan ve kiralanan hat
+uzunlukları, veri iletim hızı vb.) teknik değişikliklere ilişkin bir önceki
+yıla ait bilgileri, her yıl Ocak ayı içerisinde Kuruma göndermekle
+yükümlüdür.
+5.5. İşletmecinin, mevcut transmisyon
+altyapısını desteklemek üzere uydu yer istasyonu kurmak istemesi halinde
+ilgili yetkilendirme kapsamında yetkilendirilmiş olması zorunludur.
+6. Diğer Hükümler
+6.1. AİH sunacak işletmeciler 25
+(yirmi beş) yıl süre için yetkilendirilir."
+Yürürlük
+MADDE 2 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 3 — Bu Yönetmelik hükümleri Telekomünikasyon Kurulu Başkanı
+yürütür.
