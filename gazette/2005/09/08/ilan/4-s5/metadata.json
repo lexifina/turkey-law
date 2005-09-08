@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-09-08",
+  "issue": "25930",
+  "edition": "regular",
+  "item": 5,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Başbakanlık Gümrük Müsteşarlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/09/20050908-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (7 = 7)",
+  "ilan_codes": [
+    "11044/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/09/20050908-4.htm",
+  "category_page_sha256": "ba3ba34fae9b7c1dd08516dc9335ba876060e09ceae7c64448ee8d2406daa670",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/09/20050908.htm",
+  "index_sha256": "bccb9c56cd8f83ed28250312029917075815e88835d0b85f6dc55261f5c859fb",
+  "index_header": "8 Eylül 2005 ... Sayı : 25930",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
