@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.9412",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ GENEL SEKRETER YÖNETMELİĞİ",
+  "number": "9412",
+  "issuer": "Türkiye Odalar ve Borsalar Birliği Başkanı",
+  "issuer_slug": "turkiye-odalar-ve-borsalar-birligi-baskani",
+  "path": "regulation/turkiye-odalar-ve-borsalar-birligi-baskani/2005/9412",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9412&MevzuatTertip=5",
+  "source_sha256": "8c9c70fde1fe19149d703e6fce571e0933c38dd1e802846028cccd46592192ed",
+  "source_bytes": 25891,
+  "published": "2005-09-12",
+  "gazette": "25934",
+  "in_force": "2005-09-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.09.2005); own commencement article: \"Bu Yönetmelik, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1072,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
