@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.9409",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DIŞ TİCARETTE STANDARDİZASYON TEBLİĞİ (Tebliğ No: 2005/32)",
+  "number": "9409",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2005/9409",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9409&MevzuatTertip=5",
+  "source_sha256": "0c5f3682e882697d48fc428585613637b3c717d61c631db68bc8d04de51123ea",
+  "source_bytes": 37046,
+  "published": "2005-09-12",
+  "gazette": "25934",
+  "in_force": "2005-09-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.09.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 655,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://rega.basbakanlik.gov.tr/GUNLU/20050912-22.htm#_Ek_1_1#_Ek_1_1",
+    "http://www.dtm.gov.tr/dts/mevzu/teblig/teb05-4/teblig4EkVIII.doc",
+    "http://www.dtm.gov.tr/dts/ABTeknik/kanun2.htm",
+    "http://www.dtm.gov.tr",
+    "http://www.dtm.gov.tr/dts/dts.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
