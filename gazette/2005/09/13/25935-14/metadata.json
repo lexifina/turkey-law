@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-09-13",
+  "issue": "25935",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Kurul Kararı",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 1695 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/09/20050913-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/09/20050913.htm",
+  "index_sha256": "4bda61c6ba1d845cd7c0882a61e01c81497af9f5612ee524af891a124751f313",
+  "index_header": "13 Eylül 2005 ... Sayı : 25935",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
