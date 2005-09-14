@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.03.51/5114",
+  "source_id": 24420,
+  "date": "2005-09-14",
+  "title": "Makbuz karşılığı olmaksızın ayni veya nakdi olarak okul inşası için yapılan bağış veya yardımların  gider veya indirim olarak dikkate alınıp alınamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24420",
+  "source_sha256": "117ae127ed2f260b195ec4675a98cd70ce96b078b71d5f135f67b4a3a521c634",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
