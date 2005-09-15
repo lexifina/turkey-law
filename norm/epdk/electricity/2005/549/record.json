@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "549",
+  "decision_date": "2005-09-15",
+  "title": "Türkiye Elektrik Ticaret Taahhüt Anonim Şirketi (TETAŞ) tarafından uygulanacak toptan satış tarifeleri hakkında",
+  "resmi_gazete_date": "2005-09-23",
+  "resmi_gazete_number": "25945",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VX/Cy2Jc3zg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VX/Cy2Jc3zg="
+  ],
+  "source_sha256": "787d61f5264b99b8fdebf8a16d6734dcb612f1bc48e0784589af72697fb4a96c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-09-15",
+  "law_text_complete": false
+}
