@@ -1,0 +1,13 @@
+{
+  "number": "05-58/859-234",
+  "type": "Rekabet İhlali",
+  "decision_date": "2005-09-15",
+  "publication_date": "2005-10-24",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=a468456b-e70f-44e0-87c8-bbf25575156f",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=916",
+  "pdf_sha256": "44444443bdfad647c5a72f46953cade963447e5b89000cd054c85610951c32d9",
+  "pdf_bytes": "233619",
+  "pages": "15",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
