@@ -1,0 +1,5 @@
+Komite
+Madde 6 — Gazetesinin çıkarılmasına ilişkin esasları tespit, yayım işlerini sevk ve idare etmek ve Bakanlık ile Konfederasyon arasındaki çalışmaları koordine etmek üzere Sicil Gazetesi komitesi kurulmuştur.
+Komite, Bakanlık Müsteşarının başkanlığında, ilgili müsteşar yardımcısı, Esnaf ve Sanatkârlar Genel Müdürü ve genel müdür yardımcıları ile Konfederasyon genel sekreteri, genel sekreter yardımcısı ve Sicil Gazetesi müdüründen oluşur. Komite ayda en az bir defa veya başkanın çağrısı üzerine her zaman toplanabilir.
+Kararlar, toplantıya katılanların oy çokluğu ile alınır. Oylarda eşitlik halinde başkanın bulunduğu taraf çoğunluğu sağlamış sayılır. Toplantılarda çekimser oy kullanılamaz. Müsteşarın bulunmadığı toplantılarda, müsteşar yardımcısı, onun da bulunmaması halinde genel müdür toplantıya başkanlık eder.
+Komite üyelerine, gazete gelirlerinden karşılanmak üzere huzur hakkı verilir. Huzur haklarının net aylık miktarı, onaltı yaşından büyükler için uygulanan aylık asgari ücretin brüt tutarıdır.
