@@ -1,0 +1,65 @@
+{
+  "source_id": "9.5.6093",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2005 MALİ YILI BÜTÇE UYGULAMA TALİMATI (SIRA NO: 4) (TEDAVİ YARDIMI)",
+  "number": "6093",
+  "path": "teblig/2005/6093",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6093&MevzuatTertip=5",
+  "source_sha256": "a92691196a3956417b65aa357bffb0339ab7c3448c228b9d459edcd7c3d62207",
+  "source_bytes": 259638,
+  "published": "2005-02-09",
+  "gazette": "25722 (Mükerrer)",
+  "in_force": "2005-09-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/09/2005\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2005-09-16",
+      "RG-16/09/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-03-15",
+      "RG-15/03/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 16286,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/www.bumko.gov.tr/",
+    "9.5.6093-Ek1.htm",
+    "9.5.6093-Ek2.htm",
+    "9.5.6093-Ek3.htm",
+    "9.5.6093-Ek4.htm",
+    "9.5.6093-Ek5.htm",
+    "9.5.6093-Ek6.htm",
+    "9.5.6093-Ek7.htm",
+    "9.5.6093-Ek8.htm",
+    "9.5.6093-Ek9.htm",
+    "9.5.6093-Ek10.htm",
+    "9.5.6093-Ek11.htm",
+    "9.5.6093-Ek12.htm",
+    "9.5.6093-Ek13.htm",
+    "9.5.6093-Ek14.htm",
+    "9.5.6093-Ek15.htm",
+    "9.5.6093-Ek16.htm",
+    "9.5.6093-Ek17.htm",
+    "9.5.6093-Ek18.htm",
+    "9.5.6093-Ek19.htm",
+    "9.5.6093-Ek20.htm",
+    "9.5.6093-Ek21.htm",
+    "9.5.6093-Ek22.htm",
+    "9.5.6093-Ek23.htm",
+    "9.5.6093-Ek24.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
