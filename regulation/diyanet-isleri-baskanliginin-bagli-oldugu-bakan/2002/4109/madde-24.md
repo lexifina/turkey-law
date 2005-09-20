@@ -1,0 +1,6 @@
+Kurban kesim yerleri
+Madde 24 — Kurbanlık hayvanların kesimi Kurulca belirlenen özelliklere sahip kurban kesim yerlerinde yapılır. Mevcut mezbaha ve kombinalar dışında komisyonlarca şehrin nüfus yoğunluğu dikkate alınarak kurban kesim yerleri ve bunların kapasiteleri belirlenir.
+Kurban kesim yerlerinde, su, tuvalet, kapalı oturma yeri ve benzeri sosyal ihtiyaçların karşılanacağı yerler ile hayvanların taşındıkları araçlardan indirilmesine uygun rampalar yapılır.
+Kesim yerlerinin zemini kolay yıkanabilir, dezenfekte edilebilir ve su birikmesine imkan vermeyecek bir yapıda inşa edilir. Yeterli miktarda aydınlatılma ve havalandırma sağlanır.
+Kullanılacak tüm makine ve ekipman ile çalışanların temizlik ve dezenfeksiyonu yaptırılır. Yeterli miktar ve basınçta ve içilebilir nitelikte kullanma suyu bulundurulur.
+Biriken gübre, çöp ve sakatat ile diğer atık ve artıklar, çevreye zarar vermeyecek şekilde üstü kapalı bir mahalde toplanır ve daha sonra hijyenik şartlara uygun olarak izale, bertaraf ve tahliyesi sağlanır. Kesim sonrası ortaya çıkan kan, tank veya benzeri sızdırmaz bir yerde toplanır ve uygun bir şekilde bertaraf edilir. Gübre birikimi için özel bir yer ayrılır. Hastalıklı organlar ile karkaslar en az iki metre derinliğinde çukurlara gömülüp üzeri kireçle kaplanır veya uygun bir yerde yakılarak imha edilir.

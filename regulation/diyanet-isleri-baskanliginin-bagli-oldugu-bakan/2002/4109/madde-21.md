@@ -1,0 +1,3 @@
+Kurban Kesim Yerleri ve Hayvan Hakları
+Hayvanların kesimi
+Madde 21 — Hayvanların kesimi, kurban kesim yerlerinde kurbanını kendisi kesmek isteyen ehil kişilerce veya kasaplığı meslek edinmiş ya da Kurban Kesim Elemanı Yetiştirme ve Geliştirme Kursu Bitirme Belgesine sahip kişiler tarafından, dini kuralların gerektirdiği özel koşullar dikkate alınarak, korkutmadan, ürkütmeden, en az acı verecek şekilde, temizlik kurallarına uyularak ve usulüne uygun olarak bir anda yapılır. Kesim elemanları, kesim sırasında çizme ve önlük giyer ve her yıl kurban bayramından önce (üç ay içinde) portör muayenesine tabi tutulurlar.

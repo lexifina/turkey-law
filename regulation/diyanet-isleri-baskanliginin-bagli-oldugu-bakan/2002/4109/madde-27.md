@@ -1,0 +1,2 @@
+Personel ve Vasıta Görevlendirilmesi
+Madde 27- Kurban kesim hizmetlerinin düzenli bir şekilde yürütülebilmesi için Komisyon kararı ile Komisyonda görevli kuruluşlardan, diğer kamu kurum ve kuruluşlarından veya dışarıdan ihtiyaç duyulan nitelikte ve sayıda personel ve vasıta görevlendirilir. Görevlendirilen personelin yolluk, yevmiye ve fazla mesai ücreti gibi giderleri ile vasıtaların masrafları Komisyon Kararı ile Kurban Komisyonu Hesabından karşılanır.
