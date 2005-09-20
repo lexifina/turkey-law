@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "Veraset ve İntikal Vergisi Kanunu-2/2005-1",
+  "source_id": 1048,
+  "date": "2005-09-20",
+  "title": "5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununa göre Veraset ve İntikal Vergisi ile Harçlar Kanunu Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/sirkuler/1048",
+  "source_sha256": "ee0b335a9a590ffa1d445f4d1361cf36279f8c0ee2bb49acef1c234696133044",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
