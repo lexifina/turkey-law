@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-09-21",
+  "issue": "25943",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "İşkolu Tespit Kararı (No: 2005/45)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/09/20050921-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/09/20050921.htm",
+  "index_sha256": "70f80069c60d0b600859b82d8d18eb53c0979af387bf264fa6ab0540e4f26d58",
+  "index_header": "21 Eylül 2005 ... Sayı : 25943",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
