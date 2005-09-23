@@ -1,0 +1,2 @@
+Genel Kurul tutanağı
+Madde 19 — Genel Kurul görüşmeleri ve kararları, bir tutanağa bağlanarak, Başkan, Başkan Yardımcıları ve Yazmanlarca imzalanıp, tutulan tüm notlar ve ekleriyle birlikte dosyasında saklanmak ve bir örneği TMMOB ne iletilmek üzere Oda Yönetim Kuruluna verilir. Tutanaklar veya özetleri, Genel Kurul toplantı tarihinden başlayarak üç (3) ay içinde, üyelere gönderilir veya Oda süreli yayınlarında yayımlanır.

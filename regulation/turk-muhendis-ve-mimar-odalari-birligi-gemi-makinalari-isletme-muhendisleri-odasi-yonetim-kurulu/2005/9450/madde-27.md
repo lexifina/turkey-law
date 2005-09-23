@@ -1,0 +1,4 @@
+Toplantıların yönetimi ve karar şekli
+Madde 27 — Oda Yönetim Kurulu, ayda en az iki kez toplanır. Toplantıları Oda Başkanı, Başkanın bulunmaması halinde İkinci Başkan onun da bulunmaması halinde, Sekreter üye yönetir. Oda Yönetim Kurulu kararlarını üye tam sayısının çoğunluğu ile alır. Oylarda eşitlik olması halinde, toplantı başkanının kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+Oda Yönetim Kurulu gerekli gördüğü hallerde, Oda organlarını ve Şubeleri temsilen gerekli sayıda kişinin Yönetim Kurulu toplantılarına katılmasını isteyebilir. Bu görevliler yazılı olarak toplantıya davet edilir, karar tutanaklarına isimleri yazılır, davet edildikleri görüşmelere katılabilir, ancak oy kullanamazlar.
+Oda Yönetim Kurulundan istifa etmek mümkündür.. Bu durumda Oda Yönetim Kurulunun ilk toplantısında sıradaki yedek üye göreve çağrılır.

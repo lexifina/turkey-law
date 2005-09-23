@@ -1,0 +1,2 @@
+Bütçe uygulaması
+Madde 61 — Bütçe, kabul edildikten sonra uygulanır. Oda Yönetim Kurulu, Olağan Genel Kurulunun yapılacağı takvim yılı başından bütçenin kabul edileceği Genel Kurul toplantısına kadar geçecek süre içinde, her ay için bir önceki yılın on ikide biri (1/12) oranında harcama yapabilir. Ancak, niteliği bakımından bir defada yapılacak giderlerin bu dönemde yapılması gerekirse bu gibi harcamalar on ikide biri (1/12) oranı aranmadan Oda Yönetim Kurulunca yapılabilir.

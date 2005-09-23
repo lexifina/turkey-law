@@ -1,0 +1,13 @@
+Odanın amaçları
+Madde 7 — Odanın amaçları şunlardır:
+a) Denizcilik sektöründe ülke ve toplum yararı doğrultusunda üretimin ve kalitenin artırılması yönünde çalışmalar yapmak ve öneride bulunmak,
+b) Üyelerin mesleki alanlardaki hak ve yetkilerini tanımlamak, bu hak ve yetkilerin meslek ve üye onurunun korunması yönünde uygulanmasını sağlamak,
+c) Ulusal ve uluslararası bilimsel, teknik ve mesleki alanlarla ilgili her türlü araştırma, inceleme yapmak ve izlemek,
+ç) İlgili yabancı bilimsel mesleki kuruluşlara üye olmak, bunlarla gerekli ilişkiler kurarak, kongrelerine katılmak,
+d) Meslek alanları ile ilgili öğretim yapan kuruluşlarla işbirliği yaparak, yeterli nitelikte Gemi Makinaları İşletme Mühendisinin yetişmesine yardımcı olmak, diğer çağdaş ülkelerde uygulanan öğretim modellerinden yararlanılarak önerilerde bulunmak, öğrencileri mesleğe hazırlayacak, staj, eğitim çalışmalarında bulunmak, bu konularda üniversite öğretim üyeleri ve öğrencilerle ortak etkinlikler düzenlemek, öğrencilere meslek odaları etkinliklerine katılımlarını sağlamak amacıyla organlar oluşturmak,
+e) Meslek alanları ile ilgili konularda denizcilik sektörünün ihtiyacı olan her kademedeki teknik personel için uluslararası kurallar gereği zorunlu olan eğitimlerin ve belgelendirmenin yapılabilmesi için gerekirse ilgili kuruluşlarla işbirliği yaparak eğitimler düzenleyerek belgelendirilmelerini sağlamak,
+f) Üyelerin mesleki alanlardaki ulusal ve uluslararası yeni gelişmeleri tartışmaları izleyebilmesi ve aktarabilmesi için mesleki sorunların dile getirilebilmesi, kamuoyunun bilgilendirilmesi, ilgili alanlarda politikaların oluşturulması amacıyla ulusal ve uluslararası ölçekte kongre, kurultay, sempozyum, fuar, sergi düzenlemek, üyelerin sosyal kültürel gelişimine katkıda bulunmak için kurs seminer, söylev gibi etkinlikler düzenlemek,
+g) Mesleki alanlar ile ilgili teknik kitap, gazete, dergi ve benzeri yayınlar çıkarmak, bu alanda çıkan yayınları izlemek, bu yayınları üyelerin ve toplumun hizmetine sunmak, yayın konusunda gerektiğinde yerli yabancı diğer kurum ve kuruluşlar ile ortak çalışma yapmak,
+h) Meslek alanları ile ilgili her türlü standartları, teknik şartnameler, tip sözleşmeleri gibi teknik bilgileri hazırlamak, diğer kuruluşlarca hazırlananları incelemek, geliştirmek, gerekli değişiklikleri yapmak ve uygulanmasını denetlemek,
+ı) Kamu kurumu ve kuruluşlar yerel yönetim, özel şirket ve benzeri kuruluşlar tarafından talep edilmesi halinde özel sözleşmeler yaparak onlar adına bilirkişilik, dispecilik, eksperlik, hakemlik ve teknik danışmanlık hizmetini üyeler aracılığı ile yaptırmak,
+i) Meslek disiplinini kapsayan alanlarda üyelerinin faaliyetlerini kontrol etmek ve denetlemek.
