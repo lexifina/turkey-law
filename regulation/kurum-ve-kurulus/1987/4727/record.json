@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.4727",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İTİRAZLARI İNCELEYECEK KADASTRO KOMİSYONUNUN KURULUŞU VE GÖREVLERİ HAKKINDA YÖNETMELİK",
+  "number": "4727",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1987/4727",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4727&MevzuatTertip=5",
+  "source_sha256": "0455a68dffc77662208cd021fb73f6aa2b469a7bdc8a92fca0b7e3b1e78e1a9c",
+  "source_bytes": 27077,
+  "published": "1987-10-28",
+  "gazette": "19618",
+  "in_force": "2005-09-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/09/2005\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2005-09-26",
+      "RG-26/09/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1147,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

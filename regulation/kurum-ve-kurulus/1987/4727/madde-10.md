@@ -1,0 +1,2 @@
+İtirazın geri alınması
+Madde 10 - Kadastro tutanağına karşı teknisyenlere veya kadastro müdürlüğüne yapılan itirazın herhangi bir nedenle geri alınmasının istenilmesi halinde, komisyonca kimlik tespiti yapılmadıktan sonra itirazın geri alınma nedeni açıklanıp bir tutanak düzenlenerek, itiraz edenin imzası alındıktan sonra itiraz kaldırılır. Bu konuda düzenlenen tutanak kadastro tutanağına eklenir. Ayrıca, tutanağın ve itiraz kayıt defterinin ilgili sütununa itirazın kaldırıldığı işaret edilir.
