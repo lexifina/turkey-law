@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-09-27",
+  "issue": "25949",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Milletlerarası Andlaşma",
+  "title": "2005/9371 Türkiye-Yunanistan Kara Ulaştırma Karma Komisyon Toplantısı Protokolü’nün Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/09/20050927-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/09/20050927.htm",
+  "index_sha256": "665bffb153ca248bacf61634ee2188e7e9d78ac3e391010d514ca9891bffa013",
+  "index_header": "27 Eylül 2005 ... Sayı : 25949",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
