@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.68./6802-7",
+  "source_id": 37919,
+  "date": "2005-09-29",
+  "title": "Bankalar ve Finansman şirketlerince kullandırılan diğer kredilerde kaynak kullanımını destekleme ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37919",
+  "source_sha256": "44914e19bc97db235662cda9245f8c9f58434600d57a623dd1ff0d26bf9d1893",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
