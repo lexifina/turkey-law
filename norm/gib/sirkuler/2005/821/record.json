@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-20 / 2005-7 / Form Ba ve Form Bs - 1",
+  "source_id": 821,
+  "date": "2005-09-30",
+  "title": "Bilanço esasına göre defter tutan mükellefler için Form Ba (Mal ve Hizmet Alımlarına İlişkin Bildirim Formu) ve Form Bs (Mal ve Hizmet Satışlarına İlişkin Bildirim Formu) Düzenlemesi Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/821",
+  "source_sha256": "1f19ea4ee9d63fe8e6cbf081cb4c13f285c9fec49d36cac8c53b2060711e65ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
