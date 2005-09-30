@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK- 37/2005-9/ Yatırım İndirimi 7",
+  "source_id": 620,
+  "date": "2005-09-30",
+  "title": "2005 yılı üçüncü geçici vergi döneminde uygulanacak yeniden değerleme oranı %.6, 60 (yüzde altı virgül altmış) olarak tespit edilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/620",
+  "source_sha256": "85b9d5fd3fde1d13b576b2fc75bb59c19aeb6f258ab8c476768a2297a87c4f99",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
