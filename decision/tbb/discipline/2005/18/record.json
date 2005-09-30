@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "18",
+  "date": "2005-09-30",
+  "title": "T. 30.09.2005 E. 2005/228 K. 2005/314",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/18",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=5&yil=2005",
+  "listing_sha256": "678611c1be1cf10996543e6d6193c6575a9c5c3d8e9b14bd9a3c0cc217cce7d7",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
