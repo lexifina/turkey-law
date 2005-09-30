@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-09-30",
+  "issue": "25952",
+  "edition": "regular",
+  "item": 20,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Sosyal Sigortalar Kurumu Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/09/20050930-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (25 = 25)",
+  "ilan_codes": [
+    "12026/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/09/20050930-4.htm",
+  "category_page_sha256": "9b58cd32ff27bb9dc0dd29276ae5db1f66566e7b080b5cf8af5ffabacefbbac6",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/09/20050930.htm",
+  "index_sha256": "f2822f4889c50818074a5a80c3020ed5987602fd7fe0a379c85bd4e751424766",
+  "index_header": "30 Eylül 2005 ... Sayı : 25952",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
