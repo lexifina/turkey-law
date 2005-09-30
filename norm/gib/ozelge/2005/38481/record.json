@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.68/6802-2/",
+  "source_id": 38481,
+  "date": "2005-09-30",
+  "title": "Kabul kredili, vadeli akreditif ve mal mukabili ödeme şekillerine göre yapılan ithalat işlemlerine yönelik uzun vadeli kredilerde KKDF kesintisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38481",
+  "source_sha256": "d4ff040f0cef9512b9abe0977a8e1192585d87768786ea0020b98f9bc3a1d1f8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
