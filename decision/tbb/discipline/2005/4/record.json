@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "4",
+  "date": "2005-09-30",
+  "title": "T. 30.09.2005 E. 2005/206 K. 2005/297",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/4",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=7&yil=2005",
+  "listing_sha256": "b00843b1e57fdd36423290347bd1b9db056f582937ca52f301b7cf179c141add",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
