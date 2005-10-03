@@ -1,0 +1,2 @@
+İşlenmiş tarım ürünlerindeki tarım unsurlarının beyanı
+Madde 8 — İşlenmiş tarım ürünlerinin serbest dolaşıma girişinde, serbest dolaşıma giriş beyannamesinin tescili sırasında ürünün bünyesinde yer alan tarım unsurlarını, oranlarıyla veya kod numarasıyla ya da bileşim tablosundaki ana ürünler olarak gösteren ve hukuken beyan kabul edilecek olan Ek-1'deki örneğine uygun form doldurularak beyannameye eklenmesi zorunludur.

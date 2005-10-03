@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9475",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (SERBEST DOLAŞIMA GİRİŞ REJİMİ) SERİ NO: 2",
+  "number": "9475",
+  "issuer": "Gümrük Müsteşarlığının bağlı bulunduğu Bakan",
+  "path": "teblig/2005/9475",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9475&MevzuatTertip=5",
+  "source_sha256": "7212848a439abd0284e5801c2a09f7e1ee4ce58a51d485273f332359e781f4f1",
+  "source_bytes": 40400,
+  "published": "2005-10-03",
+  "gazette": "25955",
+  "in_force": "2005-10-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.10.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1400,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
