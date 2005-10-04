@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-10-04",
+  "issue": "25956",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Yenilenebilir Enerji Kaynak Belgesi Verilmesine İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051004-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051004.htm",
+  "index_sha256": "47cc12ea099197f4fcb76e15297d56c76c4ea8143aab0c347d0884dba6c862e9",
+  "index_header": "4 EKİM 2005 ... Sayı : 25956",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
