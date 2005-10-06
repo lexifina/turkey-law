@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Kredinin Kullandırılması, Koşulları ve Geri Ödenmesi
+Kredi Başvurularının Değerlendirilmesi ve Kredinin Kullandırılması
+Madde 7- Banka, Kredi başvurularını inceler, projesini ve mali durumunu uygun gördüklerini İdarenin onayına sunar. İdare, onayladığı projelere Kredi açılması için Bankaya talimat verir. İdareden onay alınmadan Kredi açılmaz. İdarenin onayı Uygunluk Belgesi yerine geçer.
+Kredi açıldıktan sonra, 5 ncı maddenin (b) bendindeki Tabloda belirtilen miktarda ilk ödeme yapılır. Kalan kredi miktarı kalan inşaat seviyesine bölünerek her bir inşaat puanına düşen birim kredi bulunur. Sonraki ödemeler, inşaat seviyesindeki ilerleme puanları ile birim Kredi miktarları çarpılmak suretiyle bulunacak miktara göre yapılır. Ancak; İdare tarafından gerektiğinde inşaat mahallinde, projenin genel durumu ile inşaat seviyeleri kontrol edilir.
+Kredinin azami kullanma süresi, aylık ortalama 3.5 puanlık inşaat ilerlemesi, proje özellikleri ve genel ekonomik durum dikkate alınarak, Bayındırlık ve İskan Bakanlığı’nca belirlenen çalışılmayan günler ile inşaat yasağı getirilen günler de hariç tutularak, Banka tarafından tesbit edilir ve İdare’nin onayına sunulur. İnşaatların tesbit edilen süre içinde bitirilmemesi ve süre uzatımı verilmemesi halinde, kalan kredi ödemeleri yapılmaz ve geri ödeme işlemleri başlatılır.
