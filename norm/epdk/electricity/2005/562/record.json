@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "562",
+  "decision_date": "2005-10-06",
+  "title": "2006 yılında uygulanacak iletim ek ücretine ilişkin",
+  "resmi_gazete_date": "2005-10-17",
+  "resmi_gazete_number": "25969",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+CwY/fQFB+E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+CwY/fQFB+E="
+  ],
+  "source_sha256": "a82f795e41330e21069712b766221486e69b0f647eeb7f6ced3b38240ee76ed3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-10-06",
+  "law_text_complete": false
+}
