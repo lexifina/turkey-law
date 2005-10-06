@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5404",
+  "year": 2005,
+  "title": "Karadeniz Ekonomik İşbirliği Ülkeleri Hükümetleri Arasında Doğal ve İnsanlardan Kaynaklanan Afetlerde Acil Yardım ve Acil Müdahale Anlaşmasına Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2005-10-06",
+  "adopted_as_published": "06/10/2005",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.10.2005 No: 25964",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005404.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 90",
+  "committee_reports": [
+    {
+      "label": "TBMM 740 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c094/tbmm22094004ss0740.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 214200,
+      "title": "Karadeniz Ekonomik İşbirliği Ülkeleri Hükümetleri Arasında Doğal ve İnsanlardan Kaynaklanan Afetlerde Acil Yardım ve Acil Müdahale Anlaşmasına Katılmamızın Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "06/10/2005",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005404.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 740 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c094/tbmm22094004ss0740.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 64,
+          "sitting": 17,
+          "sitting_date": "2004-11-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c064/tbmm22064017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c064/tbmm22064fih.pdf",
+          "pages": [
+            "213"
+          ]
+        },
+        {
+          "cilt": 73,
+          "sitting": 52,
+          "sitting_date": "2005-02-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c073/tbmm22073052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c073/tbmm22073fih.pdf",
+          "pages": [
+            "18"
+          ]
+        },
+        {
+          "cilt": 94,
+          "sitting": 4,
+          "sitting_date": "2005-10-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c094/tbmm22094004.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c094/tbmm22094fih.pdf",
+          "pages": [
+            "503:504",
+            "518:532"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=601&v_kullanici_id=27483198",
+      "page_sha256": "9b9ebd469310fdd4a7f2f179aedf8244b7a97b8283ad36d307313f753349b324"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9b9ebd469310fdd4a7f2f179aedf8244b7a97b8283ad36d307313f753349b324",
+  "issuer": "TBMM",
+  "in_force": "2005-10-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 06/10/2005; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
