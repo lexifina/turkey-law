@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.61/6159-180",
+  "source_id": 36517,
+  "date": "2005-10-08",
+  "title": "Motor Silindir Hacminin Tespiti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36517",
+  "source_sha256": "91a7bdbede85bf62be99ca46cc914583ee1d7ec3e87669b7b25bbf414e9c5276",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
