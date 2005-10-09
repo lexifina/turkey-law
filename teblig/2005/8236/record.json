@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8236",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2005/11)",
+  "number": "8236",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2005/8236",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8236&MevzuatTertip=5",
+  "source_sha256": "236aad3abe734cb80e25bda1db7078ad2f6b72291db85ed793dc8c955dc49fee",
+  "source_bytes": 53334,
+  "published": "2005-10-09",
+  "gazette": "25810",
+  "in_force": "2005-10-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.10.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2231,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
