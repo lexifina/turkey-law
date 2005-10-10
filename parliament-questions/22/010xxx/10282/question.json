@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 22,
+  "legislative_year": 4,
+  "esas_no": "7/10282",
+  "submitted": "2005-10-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mesut DEĞER",
+  "province": "Diyarbakır",
+  "summary": "Diyarbakır'ın bazı köylerinin elektrik ve su ihtiyacına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bd-e241-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "7ec8aa7c5ab97842de14eca48f885938462d4d3c11fae618207d73c051210cfd",
+  "in_force": "2005-10-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
