@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-10-10",
+  "issue": "25962",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Türkiye Kömür İşletmeleri Kurumu Genel Müdürlüğü Memurları Sicil Amirleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051010-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051010.htm",
+  "index_sha256": "f2fcd1fe1d6e23ff6e5c55be3be3282408d7d190b935260a5648b136ba374317",
+  "index_header": "10 EKİM 2005 ... Sayı : 25962",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
