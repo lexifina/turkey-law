@@ -1,0 +1,2 @@
+Şerhin istisnaları
+Madde 6 — İmar uygulaması sonucu, tarımsal niteliği veya doğal karakteri korunacak, ağaçlandırılacak, yapı yasağı getirilen, sit alanlarında kalan, imar mevzuatına göre yapılaşmanın mümkün olmadığı yerler, kamu kurum ve kuruluşlarına devredilen yerler ile arsa edindirme sertifikası karşılığı satış yapılmak suretiyle, İdare mülkiyetinden çıkartılan taşınmazların tapu kayıtlarına şerh konulmaz.
