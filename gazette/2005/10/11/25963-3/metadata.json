@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-10-11",
+  "issue": "25963",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/9438 Emniyet Genel Müdürlüğünün Taşra Teşkilatı İçin 35 Adet Şube Müdürlüğünün Kurulması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051011-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051011.htm",
+  "index_sha256": "0cc47025d7b40768f9b48706e07044511f254c974f148e6033d2301b61cda698",
+  "index_header": "11 EKİM 2005 ... Sayı : 25963",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
