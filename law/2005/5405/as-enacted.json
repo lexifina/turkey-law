@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5405",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve İran İslam Cumhuriyeti Hükümeti Arasında Turizm Alanında İşbirliği Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-10-12",
+  "gazette_issue": "25964",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051012-2.htm",
+  "source_sha256": "2d8abe0192e3586724b31102f35bdfb47e9d8f39c4fb5e092c9638b69f64d554",
+  "text_sha256": "499b94a2023c133f70109f7500f8472a34185135c3a6f10cfb9e6c62382178ac",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/10/12/25964-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051012-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
