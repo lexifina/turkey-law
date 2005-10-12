@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5404",
+  "year": 2005,
+  "title": "Karadeniz Ekonomik İşbirliği Ülkeleri Hükümetleri Arasında Doğal ve İnsanlardan Kaynaklanan Afetlerde Acil Yardım ve Acil Müdahale Anlaşmasına Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-10-12",
+  "gazette_issue": "25964",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051012-1.htm",
+  "source_sha256": "d1f2b28eeb97d4e3a54d3201a26622e72bf4a516821d6d1c18745d0a5e04fba1",
+  "text_sha256": "5029dc9b0eca47df0f4cf52b0a230a9e1c5b5b03bdb53a3abf031ea1f1d103f8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/10/12/25964-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051012-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
