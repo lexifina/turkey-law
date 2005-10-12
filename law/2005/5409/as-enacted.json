@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5409",
+  "year": 2005,
+  "title": "İnsan Haklarını ve Temel Özgürlükleri Koruma Sözleşmesine Ek Ölüm Cezasının Her Koşulda Kaldırılmasına Dair 13 Nolu Protokolün Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-10-12",
+  "gazette_issue": "25964",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051012-6.htm",
+  "source_sha256": "adc9d55f9a11b0cd3254c97e6d9561c6673bcc736da1e5721f0d4c4226c08fa5",
+  "text_sha256": "1ad753dcd42108d3311a1617952aa74a342e88c3e32a50ce4548f5c99914c03e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/10/12/25964-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051012-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
