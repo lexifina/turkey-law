@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-10-12",
+  "issue": "25964",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/9474 Ülkemizin, 15/8/1991 Tarihli ve 91/2150 Sayılı Bakanlar Kurulu Kararı ile Üyesi Olduğu Merkezi Fransa’da Bulunan Uluslararası İpekböcekçiliği Komisyonu Üyeliğinden Ayrılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051012-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051012.htm",
+  "index_sha256": "cf3b84f49fc3ffbc3346360b76615488d1cdf79f6691aa34c2edb605f0573926",
+  "index_header": "12 EKİM 2005 ... Sayı : 25964",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
