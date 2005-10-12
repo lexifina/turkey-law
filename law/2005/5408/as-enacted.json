@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5408",
+  "year": 2005,
+  "title": "9 Mayıs 1980 Tarihli Uluslararası Demiryolu Taşımalarına İlişkin Sözleşme (COTIF)'Ye Değişiklik Getiren 3 Haziran 1999 Tarihli Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-10-12",
+  "gazette_issue": "25964",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051012-5.htm",
+  "source_sha256": "51bc34acc1ee32200cfc0d463881d6927030476585d3cd183880bb0b97daad2a",
+  "text_sha256": "2524276fb07be98bc3831021579bc8408e927b1c69491a022b9d6279d589a3a1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/10/12/25964-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051012-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
