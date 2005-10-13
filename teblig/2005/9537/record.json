@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9537",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2005 MALİ YILI BÜTÇE UYGULAMA TALİMATI (Sıra No: 17) (Tedavi Yardımı)",
+  "number": "9537",
+  "path": "teblig/2005/9537",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9537&MevzuatTertip=5",
+  "source_sha256": "60b59f8485a4eb68decf8459cf5af75e63f51370b476252d2a029bdc1762dbdf",
+  "source_bytes": 26104,
+  "published": "2005-10-13",
+  "gazette": "25965",
+  "in_force": "2005-10-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.10.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 639,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
