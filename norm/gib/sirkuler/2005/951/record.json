@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": " KDVK-33 / 2005 - 12",
+  "source_id": 951,
+  "date": "2005-10-14",
+  "title": "95 Seri No.lu Katma Değer Vergisi Genel Tebliği ile İhraç Kayıtlı Teslimlerle İlgili İade Uygulamasında Yapılan Değişiklik Hakkında bilgi verilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/951",
+  "source_sha256": "6870855482d595b62b22c55b1bc007a795e03a41169aa67bc88d7621cd833104",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
