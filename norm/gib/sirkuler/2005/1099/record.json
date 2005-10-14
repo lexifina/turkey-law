@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-19/2005-7 ÖİV nin Gider Kaydedilemeyeceği 1",
+  "source_id": 1099,
+  "date": "2005-10-14",
+  "title": "Özel İletişim Vergisinin Mükellefleri Tarafından Gider Yazılıp Yazılmayacağı, Özel İletişim Vergisinin Mükellefi Olmayan Gelir Veya Kurumlar Vergisi Mükellefleri Tarafından Gider Yazılıp Yazılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1099",
+  "source_sha256": "97bf74988e76e7b70027738b5557dbd515a7ea5bb21c93d9c9ef04932e3ddfb4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
