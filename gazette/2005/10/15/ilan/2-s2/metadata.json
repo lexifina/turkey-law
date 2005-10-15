@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-10-15",
+  "issue": "25967",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Yargı İlânları Artırma, Eksiltme ve İhale İlânları",
+  "category": "yargi",
+  "category_page": "2",
+  "title": "Eskişehir Ağır Ceza Mahkemesi Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/10/20051015-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (11 = 11)",
+  "ilan_codes": [
+    "12753/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/10/20051015-2.htm",
+  "category_page_sha256": "93b30593b5260fc7607b0bf960cdabde577c055189d45a72043454a39310e974",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/10/20051015.htm",
+  "index_sha256": "f96b77ef87e85c4e4bda13820fd938031248f92df58c07063384eb5bc4e2180a",
+  "index_header": "15 Ekim 2005 ... Sayı : 25967",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed (court notice)"
+}
