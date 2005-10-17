@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-21/2005-8/Enflasyon Düzeltmesi Uygulaması-14",
+  "source_id": 820,
+  "date": "2005-10-17",
+  "title": "2005 yılı üçüncü geçici vergi döneminin sonu itibarıyla enflasyon düzeltmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/820",
+  "source_sha256": "3983fc92ab8381187310332add77f16ab778215c1b70d82211b5f57c3f9a13e4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
