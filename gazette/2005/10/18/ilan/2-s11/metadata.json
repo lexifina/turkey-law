@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-10-18",
+  "issue": "25970",
+  "edition": "regular",
+  "item": 11,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Yargı İlânları Artırma, Eksiltme ve İhale İlânları",
+  "category": "yargi",
+  "category_page": "2",
+  "title": "Reyhanlı Sulh Ceza Hakimliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/10/20051018-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (13 = 13)",
+  "ilan_codes": [
+    "12995/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/10/20051018-2.htm",
+  "category_page_sha256": "afeb53014dd8a938756f6bd3760546bd9b3c214a9fb41bab90427f90574131bf",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/10/20051018.htm",
+  "index_sha256": "0c45ec729e1e486aa32300cb59f2593033e9bdd037972296eed4ddd7ce10a8b1",
+  "index_header": "18 Ekim 2005 ... Sayı : 25970",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed (court notice)"
+}
