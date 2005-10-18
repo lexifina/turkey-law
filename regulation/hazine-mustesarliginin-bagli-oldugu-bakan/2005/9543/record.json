@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.9543",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAZİNE ALACAKLARININ YÖNETİMİ, TAKİP VE TAHSİLİNE DAİR YÖNETMELİK",
+  "number": "9543",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-oldugu-bakan/2005/9543",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9543&MevzuatTertip=5",
+  "source_sha256": "fd0b8a2b1a94cd0dcb17d79cb5f59236c28f9437507af40c3fab2c551f605e43",
+  "source_bytes": 42524,
+  "published": "2005-10-18",
+  "gazette": "25970",
+  "in_force": "2005-10-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.10.2005); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1574,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
