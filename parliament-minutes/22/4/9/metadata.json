@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 22,
+  "legislative_year": 4,
+  "sitting": 9,
+  "sitting_date": "2005-10-19",
+  "listed_date": "19 Ekim 2005 Çarşamba",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/22/4/9/Tam/05bd9aa3-cd25-4c85-898b-18893eef1a3e.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=99c960cc-7980-4a91-9447-0185ceac7735",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=22&YasamaYili=4",
+  "source_sha256": "4b2808ed54cd731946cb22b66f21842bf6c407a5504c06371dcf66c0f95a4861",
+  "source_bytes": 382149,
+  "source_encoding": "windows-1254",
+  "text_status": "as-published"
+}
