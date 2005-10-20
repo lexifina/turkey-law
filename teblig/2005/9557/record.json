@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9557",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İSTANBUL DEMİR ÇELİK İHRACATÇILARI BİRLİĞİ KURULMASINA İLİŞKİN TEBLİĞ (Tebliğ No: İhracat 2005/12)",
+  "number": "9557",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı bulunduğu Bakan",
+  "path": "teblig/2005/9557",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9557&MevzuatTertip=5",
+  "source_sha256": "5f9730aed3a63f1cabf176b7ae9d0cb5d083b3249a9efbccb25b725ce38efea1",
+  "source_bytes": 13653,
+  "published": "2005-10-20",
+  "gazette": "25972",
+  "in_force": "2005-10-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.10.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 116,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
