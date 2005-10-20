@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.8254",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DERNEKLER TARAFINDAN BASTIRILACAK ALINDI, AYNİ YARDIM TESLİM VE AYNİ BAĞIŞ ALINDI BELGELERİ İLE GİDER MAKBUZLARI HAKKINDA TEBLİĞ (TEBLİĞ NO: 2005/1)",
+  "number": "8254",
+  "issuer": "İçişleri Bakanı",
+  "path": "teblig/2005/8254",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8254&MevzuatTertip=5",
+  "source_sha256": "c8a48983f39d5087e5ede0f1f052c0d704afa5c94a3e62e3ef426e99c74ec99e",
+  "source_bytes": 26366,
+  "published": "2005-05-28",
+  "gazette": "25828",
+  "in_force": "2005-10-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/10/2005\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2005-10-20",
+      "RG-20/10/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 592,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
