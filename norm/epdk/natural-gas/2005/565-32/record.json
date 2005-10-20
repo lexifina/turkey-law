@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "565/32",
+  "decision_date": "2005-10-20",
+  "title": "Doğal Gaz Piyasasında faaliyet yapan Dağıtım Şirketlerinin lisans sahibi olabilecekleri şehir sayısı",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cr2b9P/xjsw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cr2b9P/xjsw="
+  ],
+  "source_sha256": "19e427bcaa8fb0556d62a9e437727a36d6ebe2d125753072120bddf8af3beab8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-10-20",
+  "law_text_complete": false
+}
