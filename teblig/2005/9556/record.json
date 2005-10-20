@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.9556",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELİRLİ TEKSTİL VE KONFEKSİYON ÜRÜNLERİNİN İTHALATINDA GÖZETİM VE KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (2005/8)",
+  "number": "9556",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2005/9556",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9556&MevzuatTertip=5",
+  "source_sha256": "0be1340c88d1a01d93847649b0e8774e6c7843a8aa3d16010e457ac19e385d40",
+  "source_bytes": 67588,
+  "published": "2005-10-20",
+  "gazette": "25972",
+  "in_force": "2005-10-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.10.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1388,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.9556EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
