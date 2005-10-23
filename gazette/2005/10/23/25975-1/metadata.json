@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-10-23",
+  "issue": "25975",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "Gemi Teçhizatı Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051023-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051023.htm",
+  "index_sha256": "2b15ef1d8ac4d42c5a1be323ffb96226e5f1699f971cc6d5745147b4a9c4ce49",
+  "index_header": "23 EKİM 2005 ... Sayı : 25975",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
