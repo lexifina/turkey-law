@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-10-24",
+  "issue": "25976",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "Av ve Yaban Hayvanlarının ve Yaşam Alanlarının Korunması,Zararlılarıyla Mücadele Usul ve Esaslar Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051024-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051024.htm",
+  "index_sha256": "e07aea9ea6d4b308d6c9056e5053a60ac458048cdc55215d13da3e34ac079d1c",
+  "index_header": "24 EKİM 2005 ... Sayı : 25976",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
