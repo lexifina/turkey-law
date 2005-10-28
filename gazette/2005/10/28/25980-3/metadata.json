@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-10-28",
+  "issue": "25980",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/9508 Telekomünikasyon Ruhsatı ve Genel İzinlerin Asgari Değerlerinin Belirlenmesine İlişkin 30/10/2001 Tarihli ve 2001/3359 Sayılı Kararnamede Değişiklik Yapılmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051028-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051028.htm",
+  "index_sha256": "863392e72ea3f1bd78287d5f7c98bd4dedb3713ed090be6aa893aea78f22fe7c",
+  "index_header": "28 EKİM 2005 ... Sayı : 25980",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
