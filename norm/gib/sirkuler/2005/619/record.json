@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-38/2005-10/Geçici Vergi Beyannamesi-5",
+  "source_id": 619,
+  "date": "2005-10-28",
+  "title": "Üçüncü Üç Aylık Döneme İlişkin Geçici Vergi Beyannamesinin Verilme Süresinin Uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/619",
+  "source_sha256": "30dcfe3b4acf27c74cb6993c8843782b452e8e475c5cbf892759c2a80889d867",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
