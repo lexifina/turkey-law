@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-10-30",
+  "issue": "25981",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Tarım ve Köyişleri Bakanlığı Memurlarının Yetiştirilmek Amacıyla Yurt Dışına Gönderilmeleri Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051030-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/10/20051030.htm",
+  "index_sha256": "ae0c30c7ede70781f949222b362b2670198931abfb878c5aaa78e37b39831f62",
+  "index_header": "30 EKİM 2005 ... Sayı : 25981",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
