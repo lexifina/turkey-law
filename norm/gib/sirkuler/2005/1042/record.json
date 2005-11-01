@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "Harç/2005-1",
+  "source_id": 1042,
+  "date": "2005-11-01",
+  "title": "Özel finans kurumları, yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerle ilgili olarak düzenlenecek kağıtlara uygulanacak harç istisnasına ilişkin açıklamalar ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/sirkuler/1042",
+  "source_sha256": "ef818b223ca68b22051406227e767c5c6259c3bac3df983e3a29903942ed0848",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
