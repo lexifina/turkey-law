@@ -1,0 +1,7 @@
+Mevduatın ve katılım fonunun sigortalanması
+MADDE 63 — Kredi kuruluşları nezdlerindeki tasarruf mevduatı ve gerçek kişilere ait katılım fonları, Tasarruf Mevduatı Sigorta Fonu tarafından sigorta edilir.
+Kredi kuruluşları, nezdlerindeki tasarruf mevduatı ve gerçek kişilere ait katılım fonlarını, sigortaya tâbi kısım üzerinden sigorta ettirmek ve bunun üzerinden prim ödemek zorundadır.
+Sigortaya tâbi olacak tasarruf mevduatı ve gerçek kişilere ait katılım fonlarının kapsamı ve tutarı, Merkez Bankası, Kurul ve Hazine Müsteşarlığının olumlu görüşü alınmak suretiyle Fon Kurulu tarafından belirlenir. Risk esaslı sigorta priminin oranı, yıllık bazda sigortaya tâbi tasarruf mevduat ve katılım fonunun binde yirmisini aşamaz. Risk esaslı sigorta priminin tarifesi, tahsil zamanı, şekli ve diğer hususlar Kurulun görüşü alınmak suretiyle Fon Kurulu tarafından belirlenir.
+Kredi kuruluşlarının iflası hâlinde mevduat ve katılım fonu sahipleri, Fonun imtiyazlı alacaklarından ve Devlet ile sosyal güvenlik kuruluşlarının 6183 sayılı Kanun kapsamındaki alacaklarından sonra gelmek üzere sigortaya tâbi olmayan kısım için 2004 sayılı İcra ve İflas Kanununun 206 ncı maddesindeki üçüncü sıra anlamında imtiyazlı alacaklıdırlar.
+Kredi kuruluşlarınca Fona ödenen sigorta primleri kurumlar vergisi matrahının tespitinde gider olarak kabul edilir.
+Faaliyet izni kaldırılan kredi kuruluşları nezdinde bulunan ve doğruluğu hiçbir şüpheye yer vermeyecek şekilde kanıtlanan mevduat ve katılım fonunun sigorta kapsamındaki kısmı, Fon kaynaklarından ödenir.

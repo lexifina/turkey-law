@@ -1,0 +1,2 @@
+Bağımsız denetim, değerleme, derecelendirme ve destek hizmeti kuruluşlarının yetkilendirme izni
+MADDE 15 — Bankaların bağımsız denetim, değerleme, derecelendirme ve destek hizmeti faaliyetlerini gerçekleştirecek olan kuruluşların yetkilendirilmesine, yetkilerinin geçici veya sürekli olarak kaldırılmasına Kurulca karar verilir. Buna ilişkin usûl ve esaslar ilgili meslek birliklerinin görüşü alınarak Kurulca belirlenir.

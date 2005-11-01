@@ -1,0 +1,7 @@
+Madde 44.— Banka, Türkiye'de faaliyette bulunan mevduat bankaları, katılım bankaları, kalkınma ve yatırım bankaları, finansal holding şirketleri, finansal kiralama şirketleri, faktoring şirketleri, finansman şirketleri ile Banka ve Bankacılık Düzenleme ve Denetleme Kurulunca belirlenecek diğer malî kuruluşların müşterilerinin risk durumlarına ilişkin bilgileri nezdinde toplamak, Bankacılık Düzenleme ve Denetleme Kurumu ve ilgili kuruluşlar ile paylaşmak üzere Risk Merkezi kurar.
+Yukarıda belirtilen kuruluşlar, bankalar bakımından keşide ettikleri protestolar da dâhil olmak üzere, müşterilerinin risk durumları hakkında istenecek her türlü bilgiyi belirlenecek biçim ve içerikte vermekle yükümlüdür. Risk Merkezinin bütün işlem ve kayıtları gizlidir.
+Risk Merkezince sağlanacak bilgilerin biçim ve içeriğine, derlenmesine, paylaşılmasına ve diğer hususlara ilişkin usûl ve esaslar Bankacılık Düzenleme ve Denetleme Kurulunun uygun görüşü alınmak suretiyle Bankaca belirlenir.
+G) 15.7.1950 tarihli ve 5682 sayılı Pasaport Kanununun 14 üncü maddesinin (A) fıkrasının birinci paragrafına aşağıdaki cümle eklenmiştir.
+Bankacılık Düzenleme ve Denetleme Kurulu ve Tasarruf Mevduatı Sigorta Fonu Kurulu üyeleri için, T.C. Emekli Sandığı ile ilgilendirilme ve emekli keseneklerinin bu derecelerden kesilmesi şartı aranmaz.
+H) 30.1.2002 tarihli ve 4743 sayılı Kanunun 3 üncü maddesinin yedinci fıkrası yürürlükten kaldırılmıştır.
+I) 13.6.1945 tarihli ve 4759 sayılı İller Bankası Kanununun mülga 24 üncü maddesi aşağıdaki şekilde yeniden düzenlenmiştir.

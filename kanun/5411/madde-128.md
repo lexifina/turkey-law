@@ -1,0 +1,3 @@
+Fon Kurulu kararlarına karşı yargı yolu
+MADDE 128 — Beşyüzbin Yeni Türk Lirasını aşan miktarlara ilişkin Fon Kurulu kararlarına karşı açılacak davalar ilk derece mahkemesi olarak Danıştayda görülür. Fon Kurulu kararlarına karşı yapılan başvurular acele işlerden sayılır.
+Fon Kurulu kararlarına karşı açılacak idarî davalarda yürütmenin durdurulması talepleri için ayrıca duruşma yapılır. Bu halde 2577 sayılı İdari Yargılama Usulü Kanununun 17 nci maddesinin (5) numaralı fıkrasındaki otuz günlük süre uygulanmaz. Yürütmenin durdurulması talepleri, Fonun savunması alınmadan karara bağlanamaz. İlgili taraflar yürütmenin durdurulması talebinin kendisine tebliğ tarihinden itibaren yedi gün içinde savunmasını vermek zorundadır. Aksi halde savunma beklenmeksizin karar verilir.

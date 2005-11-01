@@ -1,0 +1,4 @@
+Kurul kararlarına karşı yargı yolu
+MADDE 105 — Kurul kararlarına karşı açılacak idarî davalar ilk derece mahkemesi olarak Danıştayda görülür. Danıştay, Kurul kararlarına karşı yapılan başvuruları acele işlerden sayar.
+İlişkili Bakanlık, Kurulun düzenleyici nitelikteki kararlarına karşı iptal davası açabilir.
+Kurul kararlarına karşı açılacak idarî davalarda yürütmenin durdurulması talepleri için ayrıca duruşma yapılır. Bu halde 2577 sayılı İdarî Yargılama Usulü Kanununun 17 nci maddesinin (5) numaralı fıkrasındaki otuz günlük süre uygulanmaz. Yürütmenin durdurulması talepleri, Kurumun savunması alınmadan karara bağlanamaz. İlgili taraflar yürütmenin durdurulması talebinin kendisine tebliğ tarihinden itibaren yedi gün içinde savunmasını vermek zorundadır. Aksi halde savunma beklenmeksizin karar verilir.
