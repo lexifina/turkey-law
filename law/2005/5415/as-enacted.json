@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5415",
+  "year": 2005,
+  "title": "Ölüm Cezasının Kaldırılmasını Amaçlayan, Medeni ve Siyasi Haklara İlişkin Uluslararası Sözleşmeye Ek İkinci İhtiyari Protokolün Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-02",
+  "gazette_issue": "25984",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051102-2.htm",
+  "source_sha256": "893e09b8950e4ec142e63400cf71a1c158bc0efd2a33a214fe455a1c102cac50",
+  "text_sha256": "6c7448836c87e456c7fdca6e4476836eea89b4e0096be509bf3fddce0c7a6f65",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/02/25984-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051102-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
