@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5417",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Oman Sultanlığı Hükümeti Arasında Çevre Koruma Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-06",
+  "gazette_issue": "25985",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-2.htm",
+  "source_sha256": "b5facb7c8b27d356941fdd1fd0f01ef180ff4d13cf8626b04b731bd931cb40cb",
+  "text_sha256": "cc37658623b1051e5e4ac46df4358cb192863d8e15b3cd0ddacaa214d34e5cac",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/06/25985-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
