@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5421",
+  "year": 2005,
+  "title": "A400M Uçağının Geliştirilmesi, Üretimi ve Başlangıç Desteğine İlişkin Tek Aşamalı Bir Programda İşbirliği Konusunda Mutabakat Muhtırası ile A400M Uçağının İşbirliği İçerisinde Geliştirilmesi, Üretimi Evresi ve Başlangıç Desteğine İlişkin A400M Program Üst Kurulu Kararının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-06",
+  "gazette_issue": "25985",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-6.htm",
+  "source_sha256": "5bdb71b296b5c6e42a199fc9055e9df76214568a48537881904470c5bb30f6bc",
+  "text_sha256": "d6afbf2681b092c5464f6f5b4d3efe19099c7c84ce2fed57f8340ef7593de86a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/06/25985-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
