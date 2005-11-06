@@ -1,0 +1,2 @@
+Toplantı usulü
+Madde 7 — Yüksek Kurul, gündemindeki konuları görüşmek üzere her yılın birinci ve ikinci yarısında olmak üzere toplam iki kez toplanır. Başkan gerekli gördüğü hallerde Kurulu her zaman toplantıya çağırabilir. Kurul, üyelerin salt çoğunluğunun katılması ile toplanır. Kararlar toplantıya katılanların oy çokluğu ile alınır; oyların eşit olması halinde Başkanın bulunduğu taraf üstün sayılır.
