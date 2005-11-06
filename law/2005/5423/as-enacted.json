@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5423",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Çevre Koruma Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-06",
+  "gazette_issue": "25985",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-8.htm",
+  "source_sha256": "392b055a7cc183cde5068a5a26a71eaa21477fb5032f43a7e12335656cb97fe1",
+  "text_sha256": "64fd2417fef86086e39bfedac8cccccc85b89a4c02fbc9b414c7c0330189e8a2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/06/25985-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
