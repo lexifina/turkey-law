@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5422",
+  "year": 2005,
+  "title": "Viyana ve Paris Sözleşmelerinin Uygulanmasına İlişkin Ortak Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-06",
+  "gazette_issue": "25985",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-7.htm",
+  "source_sha256": "b87ce75b00b88a43b33c1a309851e83ca3d435d58736ddfcb51be0500f951b1a",
+  "text_sha256": "599cc323fdd7bc37a61f7e22945e43226df652266ffc6fbdbfbfef6884507d5f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/06/25985-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
