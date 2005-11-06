@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5419",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Bulgaristan Cumhuriyeti Hükümeti Arasında Çevre Koruma Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-06",
+  "gazette_issue": "25985",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-4.htm",
+  "source_sha256": "9f292f6e0ddf46edceca2da048e21bfe10a6aba5641e531266d0a1643dcb895f",
+  "text_sha256": "1d6590878a904c667f033a2e85de293b640c3479bf02ee847bba68833d39524a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/06/25985-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
