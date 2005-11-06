@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5427",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti ve Avrupa Serbest Ticaret Birliği (EFTA) Devletleri Arasında Anlaşma Çerçevesinde Oluşturulan Türkiye-Efta Ortak Komitesinin 1/2004 ve 2/2004 Sayılı Kararlarının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-06",
+  "gazette_issue": "25985",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-12.htm",
+  "source_sha256": "684a960f4181c5b87890da00fac1f9e0d8339b0ae8329bc4b0d82ca78e2e926f",
+  "text_sha256": "364e40bd75bf5219241c286e1e52fb5c0ddd668ed4c4fe80229792bdcafcc151",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/06/25985-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
