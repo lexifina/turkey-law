@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5416",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Ukrayna Bakanlar Kurulu Arasında Çevre Koruma Alanında İkili İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-06",
+  "gazette_issue": "25985",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-1.htm",
+  "source_sha256": "84f406c7cf67dd124ec55ad48a22b83dcb5b2b41cc194f964b3f42e731783264",
+  "text_sha256": "e2e62fa62d8e0fc3c9965731cdab6e483423b7ef530b705f2f8cbdea380a4493",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/06/25985-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
