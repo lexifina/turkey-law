@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5420",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Çevre Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-06",
+  "gazette_issue": "25985",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-5.htm",
+  "source_sha256": "55f03ffe81db73e4ba7b05806cb4d577efea0f9f983ddf4f2a4590661cce25bb",
+  "text_sha256": "b94d3f51c989c271d8d0efadf8ad4e3b6bafec128424f365fea355ce582845c4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/06/25985-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
