@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5425",
+  "year": 2005,
+  "title": "Müşterek Taarruz Uçağı Sistem Geliştirme ve Gösterimi İçin İşbirliği Çerçevesi ve İlgili Mutabakat Muhtırası ve Buna İlişkin Tamamlayıcı Anlaşma, Malî Yönetim Usulleri Dokümanı ve Ek Mektupların Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-06",
+  "gazette_issue": "25985",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-10.htm",
+  "source_sha256": "4c5b60c85788a01f6f30a7bdd7d8bcd0bf2770904887a1913584dc338a419ce4",
+  "text_sha256": "a12dde1e8c52a0011998ad1dea6bf49b27096c601b0d86aadae9d9d5b79998af",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/06/25985-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
