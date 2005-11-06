@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5426",
+  "year": 2005,
+  "title": "Gümrük Rejimlerinin Basitleştirilmesi ve Uyumlaştırılmasına İlişkin Uluslararası Sözleşme Hakkında Değişiklik Protokolüne Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-06",
+  "gazette_issue": "25985",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-11.htm",
+  "source_sha256": "4a47ed108a5416fdb8eaaf67dba81418c534aa59af34dbf6e19d30393826fde2",
+  "text_sha256": "1dafe32b494efd9f693ffd16b1488311551ec8dddeb34e3b4234a8f6e4cef400",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/06/25985-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
