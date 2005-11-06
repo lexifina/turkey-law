@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5424",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Hükümeti Çevre ve Orman Bakanlığı ile Kosova Geçici Özyönetim Kurumları (Çevre ve Mekansal Planlama Bakanlığı) Adına Görev Yapan Birleşmiş Milletler Kosova Geçici Yönetimi Arasında Çevre Alanında İşbirliği Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-06",
+  "gazette_issue": "25985",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-9.htm",
+  "source_sha256": "3d3e84c6e7fdb08e285739b1ad1bcd492bf7b5a3f403e041ed81b678e6dfc140",
+  "text_sha256": "cfa3e988a5e6d115df346722a3f2823dc2da814e254072d12afa398015ac351d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/06/25985-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051106-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
