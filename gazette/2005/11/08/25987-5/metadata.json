@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-11-08",
+  "issue": "25987",
+  "edition": "regular",
+  "item": 5,
+  "section": null,
+  "heading": "Yönetmelikler",
+  "title": "Türk Mühendis ve Mimar Odaları Birliği Ziraat Mühendisleri Odası Meslek İçi Eğitim, Uzmanlık ve Belgelendirme Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051108-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051108.htm",
+  "index_sha256": "6d993e5aa355fa8bc34b5cdf17da70578d15cc0061ab6677ffcb679a69c6606b",
+  "index_header": "8 Kasım 2005 ... Sayı : 25987",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
