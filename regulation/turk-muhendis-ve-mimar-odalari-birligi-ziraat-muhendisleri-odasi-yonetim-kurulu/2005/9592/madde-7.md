@@ -1,0 +1,2 @@
+Belgelendirme
+Madde 7 — Oda tarafından, belirlenen bu uzmanlık alanlarına göre lisans öğrenimi dikkate alınarak hazırlanan eğitim programları sonucunda gerçekleştirilecek sınavlarda başarılı olan üyelerle OYK tarafından mesleki birikim ve deneyime göre yeterliliği saptanan üyelere yetki belgesi verilir. Yetki belgesi, ziraat mühendisliği uzmanlık alanlarında hizmet alacak kişi ve girişimciler için referans niteliğini taşır.

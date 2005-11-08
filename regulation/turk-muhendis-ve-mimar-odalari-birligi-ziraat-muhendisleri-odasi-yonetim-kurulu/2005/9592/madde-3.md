@@ -1,0 +1,2 @@
+Dayanak
+Madde 3 — Bu Yönetmelik, 17/6/1938 tarihli ve 3458 sayılı Mühendislik ve Mimarlık Hakkında Kanun, 27/1/1954 tarihli ve 6235 sayılı Türk Mühendis ve Mimar Odaları Birliği Kanunu, 6/5/1960 tarihli ve 7472 sayılı Ziraat Yüksek Mühendisliği Hakkında Kanun ve 18/12/1991 tarihli ve 91/2526 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Ziraat Mühendislerinin Görev ve Yetkilerine İlişkin Tüzük hükümlerine dayanılarak hazırlanmıştır.

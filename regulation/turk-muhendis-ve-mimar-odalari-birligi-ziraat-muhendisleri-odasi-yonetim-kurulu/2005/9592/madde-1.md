@@ -1,0 +1,3 @@
+TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ZİRAAT MÜHENDİSLERİ ODASI MESLEK İÇİ EĞİTİM, UZMANLIK VE BELGELENDİRME YÖNETMELİĞİ
+Amaç
+Madde 1 — Bu Yönetmeliğin amacı, kamu yararı, meslek uygulama etiği ve meslek alanının geliştirilmesi doğrultusunda, mesleki disiplinler gözetilerek meslek alanları ile ilgili uygulama ve denetimin yapılabilmesi için; uzmanlık alanı ve tanımı, yetkili üyeliğin tanımlanması, yetkili üyelerin mesleki ve bilimsel çalışmaları, yaptıkları işler ile tamamlayıcı eğitimlerine dayanan uzmanlıklarının belirlenmesi, belgelendirilmesi ve gerektiğinde kamuoyuna önerilmesiyle ilgili usul ve esasları düzenlemektir.
