@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5428",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-09",
+  "gazette_issue": "25988",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051109-1.htm",
+  "source_sha256": "725bc95815163afab6d18c5294786fe3572a6fd1e26a7d95f03f86a1054da5a1",
+  "text_sha256": "fa679c3abe1f40629848de6f6605689c9a5814d3a9ddea8ade9191eb24aa462f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/09/25988-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051109-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
