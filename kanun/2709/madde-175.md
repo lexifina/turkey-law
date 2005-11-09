@@ -61,3 +61,5 @@ Madde 3- Bu Kanun yayımı tarihinde yürürlüğe girer ve halk oylamasına sun
 Madde 11 — Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması halinde tümüyle oylanır.
 7- 21/6/2005 tarihli ve 5370 sayılı Kanunun 2 nci Maddesi:
 Madde 2 — Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması halinde oylanır.
+8- 29/10/2005 tarihli ve 5428 sayılı Kanunun 6 ncı Maddesi:
+Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması halinde tümüyle oylanır.
