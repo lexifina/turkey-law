@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-22 /2005-9/ Anayasa Mahkemesinin İptal Kararı",
+  "source_id": 819,
+  "date": "2005-11-10",
+  "title": "Anayasa Mahkemesinin İptal Kararı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/819",
+  "source_sha256": "06d7e8c1d1d1cd810946ac38c02b886b2f905fe9c0130868dafdb5aa0026783d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
