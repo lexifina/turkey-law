@@ -1,0 +1,2 @@
+MADDE 13- DEVİR KOŞUL VE ESASLARINA UYULMADIĞI TAKDİRDE, TAŞINMAZI MUHDESATIYLA BİRLİKTE İLGİLİ İDARE ADINA KAYDETTİRME YÜKÜMLÜLÜĞÜ
+Yatırımcı; devirle ilgili Kanun, Yönetmelik ve bu Taahhütname hükümlerine uymadığı takdirde, verilen taşınmaz, üzerindeki muhdesat ile birlikte geri alınarak başkaca bir hüküm ve karar aranmaksızın ilgili idare adına kaydedilir. Devre konu taşınmaz üzerindeki kamuya ait bina ve müştemilatına ilişkin tahsil edilen bedel, devir tarihindeki mevcut durumunu koruması koşuluyla faizsiz olarak aynen iade edilir.

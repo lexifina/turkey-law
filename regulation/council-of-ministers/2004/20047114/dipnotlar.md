@@ -1,0 +1,2 @@
+[1] Bu maddede bulunan "on kişinin" ibaresi, 3/10/2005 tarihli ve 2005/9543 sayılı Bakanlar Kurulu Kararınıın Eki Yönetmeliğin 5 inci maddesiyle "otuz kişinin" olarak değiştirilmiş ve metne işlenmiştir.
+[2] Bu maddede bulunan "üçüncü fıkrasında" ibaresi, 3/10/2005 tarihli ve 2005/9543 sayılı Bakanlar Kurulu Kararınıın Eki Yönetmeliğin 7 nci maddesiyle "dördüncü fıkrasında" olarak değiştirilmiş ve metne işlenmiştir.

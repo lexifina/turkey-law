@@ -1,0 +1,22 @@
+Devredilemeyecek arazi veya arsalar
+Madde 6- Aşağıdaki yerler devredilemez.
+a) Üzerinde kamuya ait bina ve müştemilatı bulunan yerler hariç, kullanıma uygun bina veya tesis bulunan arazi veya arsalar,
+b) Kamu hizmetine tahsisli yerler,
+c) İmar planlarında konut veya kamu hizmetleri için ayrılmış olan yerler,
+d) 6831 sayılı Orman Kanunu kapsamında kalan yerler,
+e) 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu uyarınca korunması gerekli kültür ve tabiat varlıkları ile bunlara ait koruma alanları dahilindeki yerlerden Kültür ve Turizm Bakanlığınca uygun görülmeyenler,
+f) 2565 sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanununa göre, askeri yasak bölgeleri ile güvenlik bölgelerinde kalan taşınmazlar,
+g) Teferruğ yoluyla edinilip de edinme tarihinden itibaren bir yıl geçmemiş olan taşınmazlar,
+h) Kamulaştırma yoluyla edinilip de amacına uygun kullanılmadığı için boş kalan yerlerden 2942 sayılı Kamulaştırma Kanununun 23 üncü maddesinde yazılı süresi dolmamış olan yerler,
+i) Üzerinde irtifak hakkı kurulmuş ve hak süresi dolmamış bulunan yerler,
+j) 7269 sayılı Umumi Hayata Müessir Afetler Dolayısıyla Alınacak Tedbirler ile Yapılacak Yardımlara Dair Kanun gereğince, Bayındırlık ve İskan Bakanlığı emrine verilmesi veya tahsis edilmesi gereken taşınmazlar,
+k) 6831 sayılı Orman Kanununun 2 nci maddesine göre, orman sınırları dışına çıkarılan taşınmazlar,
+l) 2873 sayılı Milli Parklar Kanunu kapsamında kalan yerler,
+m) 3621 sayılı Kıyı Kanunu kapsamında kalan yerler,
+n) 3083 sayılı Sulama Alanlarında Arazi Düzenlemesine Dair Tarım Reformu Kanununa göre, uygulayıcı kuruluş tasarrufuna geçen yerlerden uygulayıcı kuruluş tarafından tahsisi uygun görülmeyenler ile tarım dışına çıkarılması mümkün olmayan tarım arazileri,
+o) Mülkiyeti ihtilaflı olan taşınmazlar,
+p) 2872 sayılı Çevre Kanunu uyarınca içme ve kullanma sularının koruma alanları,
+r) Özel çevre koruma alanlarında kalan taşınmazlardan uygun görülmeyenler,
+s) 2634 sayılı Turizmi Teşvik Kanunu kapsamında kalan taşınmazlardan uygun görülmeyenler,
+t) Tabi olduğu diğer mevzuat hükümlerine göre devri mümkün olmayan veya uygun görülmeyen taşınmazlar,
+u) Maliye Bakanlığınca, katma bütçeli kuruluşlarca, belediyelerce veya il özel idarelerince korunmasında kamu yararı görülen diğer yerler.

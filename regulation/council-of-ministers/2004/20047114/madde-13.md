@@ -1,0 +1,2 @@
+İstihdam koşulları
+Madde 13- İstihdamın fiili, sürekli ve üretime katkı sağlayıcı olması gerekir. Yatırımın faaliyete geçmesinden itibaren beş yıl süresince bu şekilde sağlanan istihdam otuz kişinin altına düşemez. İstihdam edilecek kişi sayısı fazla gösterilerek bedelsiz devredilen arazinin büyütülmüş veya daha fazla istihdam gösterilerek öncelik hakkının kazanılmış olması halinde, istihdam edilecek kişi sayısında yıl içinde geçici olarak meydana gelebilecek % 10’a kadar olan (% 10 dahil) azalmalar dikkate alınmaz.[1]
