@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-11-10",
+  "issue": "25989",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "İçişleri Bakanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/11/20051110-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (4 = 4)",
+  "ilan_codes": [
+    "13976/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/11/20051110-4.htm",
+  "category_page_sha256": "d3392f7fecc475c2714b7be1b7d5a2fd35d17f546cfa05fb3cd1dcda10ae60af",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/11/20051110.htm",
+  "index_sha256": "645af48e704e3d5319bcb4b9cbcdff625d20d44f0ab44191f595155544256e48",
+  "index_header": "10 Kasım 2005 ... Sayı : 25989",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
