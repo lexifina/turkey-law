@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "44",
+  "date": "2005-11-11",
+  "title": "T. 11.11.2005 E. 2005/312 K. 2005/377",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/44",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=2&yil=2005",
+  "listing_sha256": "714e1ce8fbe44a37d51a714b2535bec5313704e9c6a54a9c68cdab8576399fc3",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
