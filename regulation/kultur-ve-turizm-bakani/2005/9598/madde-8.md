@@ -1,0 +1,3 @@
+İşletme müdürü ve görevleri
+Madde 8 — İşletme müdürü, üniversitelerin dört yıllık eğitim veren kamu yönetimi, hukuk, işletme, iktisat ve maliye gibi bölümlerinden mezun olan ve en az iki yılı Bakanlıkta olmak üzere toplam sekiz yıl Devlet memurluğu yapmış olanlar arasından Bakanlıkça atanır.
+İşletme müdürü, başkanlığın işletmecilik faaliyetlerini yürütmek, Kanun ve bu Yönetmelikte verilen görevler ile başkanlıkça verilen diğer görevleri mevzuata ve talimatlara uygun olarak yapmak, işletme müdürlüğüne bağlı servis ile personelinin eşgüdüm ve denetimini sağlamakla görevli ve başkana karşı sorumludur.

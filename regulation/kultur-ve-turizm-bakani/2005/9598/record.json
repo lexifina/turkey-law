@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.9598",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULUSAL MÜZE BAŞKANLIKLARININ KURULUŞ VE GÖREVLERİ HAKKINDA YÖNETMELİK",
+  "number": "9598",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2005/9598",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9598&MevzuatTertip=5",
+  "source_sha256": "a5a5901dbae9e86ff51b914429cac76b189b4c83ea77d7fd84d8faf1d2765a43",
+  "source_bytes": 53355,
+  "published": "2005-11-11",
+  "gazette": "25990",
+  "in_force": "2005-11-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.11.2005); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3042,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,3 @@
+Müze müdürü ve görevleri
+Madde 7 — Müze müdürü, üniversitelerin dört yıllık eğitim veren arkeoloji, prehistorya, sanat tarihi, etnoloji, antropoloji, sümeroloji, hititoloji, klasik filoloji, klasik şark dilleri, tarih bölümlerinden mezun olan ve en az iki yılı Bakanlıkta olmak üzere toplam sekiz yıl Devlet memurluğu yapanlar arasından Bakanlıkça atanır.
+Müze müdürü, başkanlığın müzecilik faaliyetlerini yürütmek, Kanun ve bu Yönetmelikte verilen görevler ile başkanlıkça verilen diğer görevleri mevzuata ve talimatlara uygun olarak yapmak, müdürlüğe bağlı servis ile personelinin eşgüdüm ve denetimini sağlamakla görevli ve başkana karşı sorumludur.
