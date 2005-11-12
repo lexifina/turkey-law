@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5430",
+  "year": 2005,
+  "title": "Kısıtlayıcı Ticari Uygulamaların Kontrolü İçin Çok Taraflı Olarak Kararlaştırılan Adil İlkeler ve Kurallar Bütününün Tüm Yönlerini Gözden Geçirme Konusundaki 5. Birleşmiş Milletler Konferansıyla İlgili Düzenlemeler Hakkında Birleşmiş Milletler ve Türk Hükümeti Arasındaki Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-12",
+  "gazette_issue": "25991",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051112-1.htm",
+  "source_sha256": "3f25e65988d0519e81e5aeda15561838db20e4490e4fae6809ae0032a8011093",
+  "text_sha256": "16a576fa82955401d525de507bc22dac84769948a836b660a55c209a2e7b8bba",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/12/25991-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051112-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
