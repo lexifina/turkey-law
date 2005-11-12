@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-11-12",
+  "issue": "25991",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Türk Medeni Kanunu Hükümlerine Göre Kurulan Vakıfların İş ve İşlemlerinde Uyulacak Usul ve Esaslar Hakkında Tebliğin Yürürlükten Kaldırılmasına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051112-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051112.htm",
+  "index_sha256": "68250f0df083c9e52b5ea5f6ed4eca55b629c8d449a91e543f6447e789a30b41",
+  "index_header": "12 Kasım 2005 ... Sayı : 25991",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
