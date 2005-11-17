@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "579/113",
+  "decision_date": "2005-11-17",
+  "title": "Akaryakıt ve LPG istasyonları arasında asgari mesafe kısıtlaması uygulamasına ilişkin (Mülga)",
+  "categories": [
+    "Lisans İşlemleri Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yYWNjkfX3ko=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yYWNjkfX3ko="
+  ],
+  "source_sha256": "6e18dd14beefa686b4e9d5b85f2560ea61e6cc59df8db70a4de7c9c801bfbefc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4913,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-11-17",
+  "law_text_complete": false
+}
