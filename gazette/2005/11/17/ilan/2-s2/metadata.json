@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-11-17",
+  "issue": "25996",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Yargı İlânları Artırma, Eksiltme ve İhale İlânları",
+  "category": "yargi",
+  "category_page": "2",
+  "title": "Ankara 3. Ağır Ceza Mahkemesi Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/11/20051117-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (5 = 5)",
+  "ilan_codes": [
+    "14238/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/11/20051117-2.htm",
+  "category_page_sha256": "8d6935d2153666a264105e346b9b87e25f6cbf589450f2e4eae6c4105e22b2f6",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/11/20051117.htm",
+  "index_sha256": "2e4a8bf5d4a9b35488d020b9751805582c3bc38b3d211aee6e1c4ef02dd25cf4",
+  "index_header": "17 Kasım 2005 ... Sayı : 25996",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed (court notice)"
+}
