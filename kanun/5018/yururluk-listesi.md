@@ -7,3 +7,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5286 | I Sayılı Cetvel | 28/1/2005
 5335 | 78 | 27/4/2005
 5345 | I Sayılı Cetvel | 16/5/2005
+5429 | I Sayılı Cetvel | 18/11/2005
