@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9616",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 353)",
+  "number": "9616",
+  "path": "teblig/2005/9616",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9616&MevzuatTertip=5",
+  "source_sha256": "958076b5d71cf49e4e67e0996e350ff0886fa2452907afb6bd30fb0b65cbbf6e",
+  "source_bytes": 14452,
+  "published": "2005-11-18",
+  "gazette": "25997",
+  "in_force": "2005-11-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.11.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 133,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

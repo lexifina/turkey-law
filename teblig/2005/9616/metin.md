@@ -1,0 +1,6 @@
+Kurum | Maliye Bakanlığı
+Tebliğin Adı | Vergi Usul Kanunu Genel Tebliği
+Tebliğ No | Seri No: 353
+Resmî Gazete Tarihi | 18/11/2005
+Resmî Gazete Sayısı | 25997
+VERGİ USUL KANUNU GENEL TEBLİĞİ (Sıra No: 353) Bilindiği üzere, 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesinin (B) fıkrasında "Yeniden değerleme oranı, yeniden değerleme yapılacak yılın Ekim ayında (Ekim ayı dahil) bir önceki yılın aynı dönemine göre Devlet İstatistik Enstitüsünün Toptan Eşya Fiyatları Genel Endeksinde meydana gelen ortalama fiyat artış oranıdır. Bu oran Maliye Bakanlığınca Resmî Gazete ile ilan edilir." hükmü yer almaktadır. Bu hüküm uyarınca yeniden değerleme oranı 2005 yılı için % 9,8 (dokuz virgül sekiz) olarak tespit edilmiştir. Bu oran, aynı zamanda 2005 yılına ait son geçici vergi dönemi için de uygulanacaktır. Öte yandan, bu konuda daha önce yayımlanmış olan tebliğler de yürürlükte bulunmaktadır. Tebliğ olunur.
