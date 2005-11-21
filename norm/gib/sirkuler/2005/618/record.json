@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-39/2005-11/ Aylık Muhtasar Beyanname ",
+  "source_id": 618,
+  "date": "2005-11-21",
+  "title": "Ekim 2005 dönemine ait aylık muhtasar beyannamenin verilme süresinin uzatımı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/618",
+  "source_sha256": "cb6952aa04ff22eca62128bed202c14ce3adb65fb3585fc7d32d5341ff218036",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
