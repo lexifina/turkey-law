@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": " KDV-34 /2005-13",
+  "source_id": 950,
+  "date": "2005-11-21",
+  "title": "Ekim 2005 dönemine ait katma değer vergisi beyannamelerinin 24 Kasım 2005 Perşembe günü mesai bitimine kadar ilgili vergi dairesine verilmesi mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/950",
+  "source_sha256": "ba08dfdfc1d46793c682970d80c48ff13c7a7e61ef11de1ca6c472d2996cda26",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
