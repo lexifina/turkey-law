@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5432",
+  "year": 2005,
+  "title": "Bilgi Edinme Hakkı Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-11-22",
+  "gazette_issue": "26001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051122-1.htm",
+  "source_sha256": "07cb86c75942de54c5e85f4d4378de8e53f7e409479ceff4833bd0536e9a2c68",
+  "text_sha256": "db3095ac9c1e40b18b09838cdeec2c9d86d0e3e3685d1f40ed7ef1c387522e40",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/11/22/26001-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051122-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
