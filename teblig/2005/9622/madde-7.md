@@ -1,0 +1,2 @@
+İlgili tarafların bilgi sunması
+Madde 7 — Madde 6 çerçevesinde kendisini ilgili taraf olarak tanıtanlardan yalnız yerli üreticiler, ithalatçılar, ilgili ülkede yerleşik ihracatçılar/üreticiler Müsteşarlığın internet sitesinde (http://www.dtm.gov.tr/ITHALAT/gozkor/ithalat.htm) yer alacak olan soru formunu doldurmak suretiyle Madde 6’da belirtilen süre içerisinde yetkili mercie bilgi sunar. Diğer ilgili taraflar da soruşturmaya ilişkin bilgi, belge ve görüşlerini Madde 6’da belirtilen süre içerisinde yetkili mercie yazılı olarak sunar.

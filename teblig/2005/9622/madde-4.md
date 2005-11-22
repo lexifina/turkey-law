@@ -1,0 +1,2 @@
+Karar
+Madde 4 — İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 5402.31 GTP’li naylon veya diğer poliamidlerden tek katının her biri 50 teksi geçmeyen tekstürize ipliklerin İran menşeli olanlarının ithalatına yönelik olarak 8/6/2004 tarihli ve 25486 sayılı Resmi Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği (Yönetmelik) hükümleri çerçevesinde korunma önlemi soruşturması açılmasına karar vermiştir.
