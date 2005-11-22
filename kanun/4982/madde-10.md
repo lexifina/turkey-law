@@ -1,5 +1,5 @@
 Bilgi veya belgeye erişim
-MADDE 10. — Kurum ve kuruluşlar, başvuru sahibine istenen belgenin onaylı bir kopyasını verirler.
+Madde 10- Kurum ve kuruluşlar, başvuru sahibine istenen belgenin onaylı bir kopyasını verirler.
 Bilgi veya belgenin niteliği gereği kopyasının verilmesinin mümkün olmadığı veya kopya çıkarılmasının aslına zarar vereceği hâllerde, kurum ve kuruluşlar ilgilinin;
 a) Yazılı veya basılı belgeler için, söz konusu belgenin aslını incelemesi ve not alabilmesini,
 b) Ses kaydı şeklindeki bilgi veya belgelerde bunları dinleyebilmesini,
