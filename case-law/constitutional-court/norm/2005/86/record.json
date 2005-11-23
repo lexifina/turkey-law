@@ -1,0 +1,16 @@
+{
+  "case_number": "2002/123",
+  "decision_date": "2005-11-23",
+  "in_force": "2005-11-23",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-norm-review",
+  "number": "2005/86",
+  "omitted_images": 0,
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2005/86",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "c6359b062420b20fa160f68e313cd000082d934ead980661a1c914aab6574d1b",
+  "version_label": "as-enacted"
+}
