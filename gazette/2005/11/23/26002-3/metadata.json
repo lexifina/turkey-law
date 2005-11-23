@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-11-23",
+  "issue": "26002",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/9619 Kamu İktisadi Teşebbüsleri ve Bağlı Ortaklıklarının, 2006 Yılına Ait Genel Yatırım ve Finansman Programının Tespiti Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051123-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051123.htm",
+  "index_sha256": "f41c2078316569e07f70f58aa9a2e2f44030f95d7bcd35ed18cf0e9a6eb08a97",
+  "index_header": "23 Kasım 2005 ... Sayı : 26002",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
