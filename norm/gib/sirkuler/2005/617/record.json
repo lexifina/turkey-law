@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK- 40/2005- 12/ Zirai Kazançlar 1",
+  "source_id": 617,
+  "date": "2005-11-24",
+  "title": "Pirina teslimi esnasında tevkifat yapılmaması hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/617",
+  "source_sha256": "072493fd47c8979e5a08fc047daaf8a62dab26e7dee3fe1af1ceef9740c5cd80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
