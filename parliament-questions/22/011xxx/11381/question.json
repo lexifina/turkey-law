@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 22,
+  "legislative_year": 4,
+  "esas_no": "7/11381",
+  "submitted": "2005-11-25",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Kemal DEMİREL",
+  "province": "Bursa",
+  "summary": "Bursa'nın bir ilçesinin son beş yıllık taleplerine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bd-d121-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "92128b62b2cb32440a827d92b26cd3180bfa533a2e9d711dc9b3c693e5dac82c",
+  "in_force": "2005-11-25",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
