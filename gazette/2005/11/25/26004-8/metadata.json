@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-11-25",
+  "issue": "26004",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Türk Standardları Enstitüsünün Muayene ve/veya Laboratuvar Hizmet Kuruluşu Olarak Görevlendirilmesine Dair Tebliğ’de Değişiklik Yapılmasına Dair Tebliğ (No: ÖSG/2005/21)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051125-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051125.htm",
+  "index_sha256": "c8e74f659fae7eb6ed018ba8e47ee1d9fc492ef624129bf156f07b71785a7947",
+  "index_header": "25 Kasım 2005 ... Sayı : 26004",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
