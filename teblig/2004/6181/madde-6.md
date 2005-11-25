@@ -1,0 +1,1 @@
+Madde 6- Yukarıdaki Madde 2' de yer alan Yönetmeliklerin uygulanması esnasında, bu Yönetmeliklerde yer almayan işlemler olması halinde, 3516 sayılı Ölçüler ve Ayar Kanununda ve bu Kanuna istinaden yayımlanan veya yayımlanacak olan Yönetmeliklerde yer alan hükümler uygulanır.
