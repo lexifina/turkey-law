@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-11-26",
+  "issue": "26005",
+  "edition": "regular",
+  "item": 5,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Gümrük Müsteşarlığı Eskişehir Gümrük Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/11/20051126-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (10 = 10)",
+  "ilan_codes": [
+    "14713/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/11/20051126-4.htm",
+  "category_page_sha256": "0b43c7e9794ef8d830e19bdf89c4d3cdb949592f2231d0b633fc840c1108d782",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/11/20051126.htm",
+  "index_sha256": "a4453cca21cc7512b16217724c27ea846ee51d4e3dfb9b0deff385e753ea92c1",
+  "index_header": "26 Kasım 2005 ... Sayı : 26005",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
