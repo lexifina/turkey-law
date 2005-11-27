@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-11-27",
+  "issue": "26006",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Dış Ekonomik İlişkiler Kurulu ve İş Konseyleri Çalışma Usul ve Esasları Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051127-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051127.htm",
+  "index_sha256": "16eadea4613adc718a20a0528beb44f9af06f9990e45f8b1f419a2750405873b",
+  "index_header": "27 Kasım 2005 ... Sayı : 26006",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
