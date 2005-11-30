@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-11-30",
+  "issue": "26009",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğ",
+  "title": "DÜZELTME (Anayasa Mahkemesinin, 18/11/2005 Tarihli ve 25997 Sayılı Resmî Gazete’nin 71 inci Sayfasında Yayımlanan E: 2004/100, K: 2005/16 Sayılı Kararı ile İlgili)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051130-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/11/20051130.htm",
+  "index_sha256": "acebcd6d142112cf26eef2374bb50f98348c151e61707d69db32cb6c22e573a2",
+  "index_header": "30 Kasım 2005 ... Sayı : 26009",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
