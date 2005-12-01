@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9643",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK VERGİSİ ASKIYA ALINMASI VE AVRUPA BİRLİĞİ TARAFINDAN TARİFE KONTENJANI AÇILMASI PLANLANAN ÜRÜNLERE İLİŞKİN TEBLİĞ İthalat Tebliğ No: (2005/26)",
+  "number": "9643",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2005/9643",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9643&MevzuatTertip=5",
+  "source_sha256": "d466d8db5b4574dcfdadde7ccfe0e4d4c22cc10d7800b2da1c56be08a8a2dd6e",
+  "source_bytes": 92054,
+  "published": "2005-12-01",
+  "gazette": "26010",
+  "in_force": "2005-12-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.12.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1119,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
