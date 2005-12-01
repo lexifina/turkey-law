@@ -1,0 +1,13 @@
+{
+  "number": "05-80/1106-317",
+  "type": "Rekabet İhlali",
+  "decision_date": "2005-12-01",
+  "publication_date": "2006-03-13",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=d09c2c33-90e1-4ec9-ae83-9794856330ed",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=901",
+  "pdf_sha256": "101ccc1212b192c23c58db7e0a3b7d426484f7efb23a8f51e7f2a9e01ef3d64e",
+  "pdf_bytes": "443737",
+  "pages": "65",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
