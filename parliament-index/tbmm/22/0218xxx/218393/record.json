@@ -1,0 +1,125 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 218393,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Kamu Kurum ve Kuruluşlarına Bağlı Okulların Millî Eğitim Bakanlığına Devredilmesi ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "title": "Kamu Kurum ve Kuruluşlarına Bağlı Okulların Millî Eğitim Bakanlığına Devredilmesi ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "first_sitting_date": "2005-12-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 101,
+      "sitting": 26,
+      "sitting_date": "2005-12-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c101/tbmm22101026.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c101/tbmm22101fih.pdf",
+      "pages": [
+        "17:64"
+      ]
+    },
+    {
+      "cilt": 101,
+      "sitting": 26,
+      "sitting_date": "2005-12-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c101/tbmm22101026.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c101/tbmm22101fih.pdf",
+      "pages": [
+        "55:76"
+      ]
+    },
+    {
+      "cilt": 101,
+      "sitting": 27,
+      "sitting_date": "2005-12-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c101/tbmm22101027.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c101/tbmm22101fih.pdf",
+      "pages": [
+        "158:180"
+      ]
+    },
+    {
+      "cilt": 101,
+      "sitting": 28,
+      "sitting_date": "2005-12-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c101/tbmm22101028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c101/tbmm22101fih.pdf",
+      "pages": [
+        "640:668",
+        "670:674"
+      ]
+    },
+    {
+      "cilt": 102,
+      "sitting": 30,
+      "sitting_date": "2005-12-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c102/tbmm22102030.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c102/tbmm22102fih.pdf",
+      "pages": [
+        "203:236"
+      ]
+    },
+    {
+      "cilt": 108,
+      "sitting": 51,
+      "sitting_date": "2006-01-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c108/tbmm22108051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c108/tbmm22108fih.pdf",
+      "pages": [
+        "729:749"
+      ]
+    },
+    {
+      "cilt": 109,
+      "sitting": 52,
+      "sitting_date": "2006-01-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c109/tbmm22109052.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c109/tbmm22109fih.pdf",
+      "pages": [
+        "33:47"
+      ]
+    },
+    {
+      "cilt": 109,
+      "sitting": 54,
+      "sitting_date": "2006-01-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c109/tbmm22109054.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c109/tbmm22109fih.pdf",
+      "pages": [
+        "300:325"
+      ]
+    },
+    {
+      "cilt": 109,
+      "sitting": 55,
+      "sitting_date": "2006-01-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c109/tbmm22109055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c109/tbmm22109fih.pdf",
+      "pages": [
+        "493:513",
+        "543:552"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1277&v_gelecek_sayfa=801&v_kullanici_id=27484575",
+  "source_sha256": "d91343ffb7db24c728fa3757c35e4792f67260c44a71b89c2cdd5cf515e3652a",
+  "in_force": "2005-12-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
