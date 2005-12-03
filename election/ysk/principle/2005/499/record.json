@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2005/499",
+  "list_number": "499",
+  "decision_date": "2005-12-03",
+  "title": "YSK ilke kararı 2005/499",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3569/2005-499-karar.htm",
+  "source_sha256": "aad07841b03fd1b3fb53b49d4c7fee634743ec4358bbc30cce32a05ca472c67c",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2005-12-03",
+  "law_text_complete": false
+}
