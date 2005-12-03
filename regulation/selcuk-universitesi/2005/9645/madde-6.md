@@ -1,0 +1,12 @@
+Merkezin faaliyet alanları
+Madde 6 — Merkez; bu Yönetmeliğin 5 inci maddesinde belirtilen amaçlara ulaşılmasını sağlamak üzere, ulusal ve uluslar arası düzeyde ilgili kamu ve özel kuruluşlar ile işbirliği ve koordinasyon çerçevesinde aşağıdaki konularda faaliyet gösterir:
+a) Yurt içi ve yurt dışı kaynaklı bilimsel yayınlardan elde edilen bilgilerin analiz ve değerlendirilmesini yapmak, üretilen bilgileri, ulusal ve uluslar arası bilimsel toplantı ve yayınları ilgililere ve kamuoyuna aktarmak, ders materyallerini güncelleştirmek ve benzeri amaçlar için kullanıma açmak, stratejik araştırmalar arşivinin geliştirilmesini sağlamak,
+b) Devletlerin ve günümüzde önemi gittikçe artan uluslar arası örgütlerin, gerek siyasal, ekonomik ve sosyal bakımdan, gerekse güvenlik ve savunma açısından uluslar arası ilişkilerde oynadıkları rolleri araştırmak,
+c) Avrupa, Kuzey Amerika ve Asya-Pasifik coğrafyalarındaki bütünleşme hareketlerini yakından izlemek, bu çerçevede Amerika Birleşik Devletleri, Avrupa Birliği, birlik üyesi ve birliğe üye olmaya aday devletler ile Çin ve Japonya gibi ülkelerin içinde bulundukları sosyo-ekonomik ve siyasal gelişmeleri incelemek,
+d) Türkiye’nin komşusu olan Yunanistan, Ermenistan, Rusya gibi ülkeler ve Türkiye ile derin tarihi ve kültürel bağları bulunan Orta Asya Türk Cumhuriyetlerinin siyasal, ekonomik ve sosyal durumlarını ve Türkiye’nin etkileşim içinde bulunduğu Balkanlar, Kafkaslar ve Orta Doğu bölgelerinin içinde bulundukları sorunları araştırmak,
+e) Söz konusu çalışmalarda ele alınacak ülkelerin küresel ve bölgesel alanda oynadıkları rolleri değerlendirmek, gelecekteki durumlarıyla ilgili önerilerde bulunmak, Türkiye ile ilişkilerini ve bu ilişkilerin gelecekte nasıl bir seyir izleyeceğini incelemek,
+f) İlgili ülkelerdeki üniversiteler ve stratejik araştırma merkezleri, diğer ulusal ve uluslar arası kuruluşlarla işbirliği olanaklarını araştırmak ve ortak çalışmalar yapılmasını sağlamak, araştırma sonuçlarını kamu kurum ve kuruluşları ile sivil toplum örgütlerinin ve araştırmacıların yararlarına sunmak,
+g) Merkezin çalışma konuları ile ilgilenen Türkiye’deki ve diğer ülkelerdeki bilim adamlarıyla işbirliğini sağlamak,
+h) Projeler hazırlayarak, bu projelerin uygulanması sırasında gerekli olduğu hallerde diğer kurumlar ve araştırma merkezleriyle işbirliği yapmak,
+ı) Çalışma alanıyla ilgili süreli ve süresiz yayınlar çıkarmak, konferans, seminer ve benzeri bilimsel toplantılar düzenlemek,
+i) Rektörün belirleyeceği diğer konularda çalışmalar yapmak.
