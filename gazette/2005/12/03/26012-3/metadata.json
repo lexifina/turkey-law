@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-12-03",
+  "issue": "26012",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "İstanbul Üniversitesi Yaz Öğretimi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051203-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051203.htm",
+  "index_sha256": "b4245daf05ee1528b47d6b81fd825301850a296ef8df85c7d96056e564f9d474",
+  "index_header": "3 Aralık 2005 ... Sayı : 26012",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
