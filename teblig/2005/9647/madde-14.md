@@ -1,0 +1,4 @@
+Danıştayda, Askeri Yüksek İdare Mahkemesinde, bölge idare, idare ve vergi mahkemelerinde görülen dava ve işlerde ücret
+Madde 14 — Danıştay’da ilk derecede veya duruşmalı olarak temyiz yoluyla görülen dava ve işlerde, idari ve vergi dava daireleri genel kurulları ile dava dairelerinde, bölge idare, idare ve vergi mahkemelerinde davaya cevap verme sürelerinin bitimine kadar anlaşmazlığın feragat ya da kabul nedenleriyle ortadan kalkması veya bu nedenlerle davanın reddine karar verilmesi durumunda tarifede yazılı ücretin yarısına, diğer durumlarda tamamına hükmedilir.
+Şu kadar ki, dilekçelerin görevli mercie gönderilmesine veya dilekçenin reddine karar verilmesi durumunda avukatlık ücretine hükmolunmaz.
+Askeri Yüksek İdare Mahkemesinde görülen dava ve işlerde de yukarıdaki fıkralarda belirtilen hükümler uygulanır.

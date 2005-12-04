@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9647",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AVUKATLIK ASGARİ ÜCRET TARİFESİ",
+  "number": "9647",
+  "path": "teblig/2005/9647",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9647&MevzuatTertip=5",
+  "source_sha256": "c7f3d421c8938e9e808e55a84f3b561438638d3dc76ba241245af4d622c19507",
+  "source_bytes": 84872,
+  "published": "2005-12-04",
+  "gazette": "26013",
+  "in_force": "2005-12-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.12.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2156,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

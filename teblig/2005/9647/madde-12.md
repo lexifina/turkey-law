@@ -1,0 +1,2 @@
+Tarifelerin üçüncü kısmına göre ücret
+Madde 12 — Tarifenin ikinci kısmının ikinci bölümünde gösterilen hukuki yardımların konusu para veya para ile değerlendirilebiliyor ise avukatlık ücreti, Tarifenin üçüncü kısmına göre belirlenir. Belirlenen bu ücret, yedinci maddenin ikinci fıkrası, dokuzuncu maddenin birinci fıkrasının son cümlesi ile onuncu maddenin son fıkrası hükümleri saklı kalmak kaydıyla, bu Tarifenin ikinci kısmının ikinci bölümüne göre tespit edilen ücretten az olamaz.

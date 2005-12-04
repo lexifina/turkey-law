@@ -1,0 +1,5 @@
+Görevsizlik, yetkisizlik, dava ön şartlarının yokluğu veya husumet nedeniyle davanın reddinde, davanın nakli ve açılmamış sayılmasında ücret
+Madde 7 — Görevsizlik, yetkisizlik nedeniyle dava dilekçesinin reddine, davanın nakline veya davanın açılmamış sayılmasına; delillerin toplanmasına ilişkin ara kararı gereğinin yerine getirilmesinden önce karar verilmesi durumunda, Tarifede yazılı ücretin yarısına, karar gereğinin yerine getirilmesinden sonraki aşamada ise tamamına hükmolunur.
+Şu kadar ki, davanın görüldüğü mahkemeye göre hükmolunacak avukatlık ücreti ikinci kısmın ikinci bölümünde yazılı miktarları geçemez.
+Davanın dinlenebilmesi için kanunlarda öngörülen şartının yerine getirilmemiş olması ve husumet nedeniyle davanın reddine karar verilmesinde, davanın görüldüğü mahkemeye göre Tarifenin ikinci kısmının ikinci bölümünde yazılı miktarları geçmemek üzere üçüncü kısımda yazılı avukatlık ücretine hükmolunur.
+Kanunlar gereği gönderme, yeni mahkemeler kurulması nedeniyle görevsizlik veya yetkisizlik kararı verilmesi durumunda avukatlık ücretine hükmedilmez.
