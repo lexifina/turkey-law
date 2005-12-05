@@ -1,0 +1,2 @@
+Madde 38- (Değişik:RG-05/12/2005-26014)
+Teftiş Kurulu Başkanlığınca 37 nci maddeye göre Genel Müdürlük Disiplin Kurulu Başkanlığına tevdi edilen uyarma ve kınama cezalarına ilişkin olan soruşturma dosya ve raporlarında ilgili personelin bankaya verdiği herhangi bir zararın ve dolayısıyla mali sorumluluğunun da yer almış olması halinde, personel hakkında bu yönden verilecek karar için bu soruşturma dosya ve raporları Genel Müdür tarafından daha sonra Disiplin Kurulu Başkanlığına intikal ettirilir.

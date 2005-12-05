@@ -1,0 +1,3 @@
+Personel Hakkında Ceza Kovuşturması Yapılmasının Da Gerekmesi Veya Yapılması Durumu
+Madde 50- Soruşturma dosya ve raporlarında, personelin disiplin cezasını gerektiren fiil veya halinin kanuni yönden de suç teşkil ettiği ve hakkında ceza kovuşturması da gerektirdiğinden söz edilmiş olması halinde, adli mercilere suç duyurusunda bulunulması, Banka Teftiş Kurulu Yönetmeliği hükümlerine göre Banka Müfettişlerince ilgili mercilere, suç duyurusu yapılmış olması dışında, Banka Yönetim Kurulu'nun konuyu ve Disiplin ve/veya Yüksek Disiplin Kurulu görüşlerini, gerekli yönlerden değerlendirmesi ve bu yolda kararı ile olur.
+(Değişik son fıkra:RG-05/12/2005-26014)Suç duyurusunda bulunulması yolundaki kararın gereği Baş Hukuk Müşavirliğince yerine getirilir.

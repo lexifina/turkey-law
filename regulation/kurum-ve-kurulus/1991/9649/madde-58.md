@@ -1,0 +1,1 @@
+Madde 58- Görevden uzaklaştırma tedbiri personelin göreve başlamasında sakınca veya engel kalmaması veya görülmemesi halinde, atamaya yetkili amir veya merci tarafından 57. maddede sözü edilen hallerin tahakkukundan önce de ve her zaman kaldırılabilir.

@@ -1,0 +1,2 @@
+Madde 51- Personelin disiplin cezasını gerektiren fiil veya halinin kanunen de suç teşkil etmesi ve hakkında ceza kovuşturmasının da gerekli olması veya ceza kovuşturmasına da başlanmış bulunması, disiplin soruşturmasını engellemez veya geciktirmez.
+Ceza kovuşturması sonucunda personelin mahkum olması veya kovuşturma konusu fiilin mevcut olmadığı ya da fiilin kovuşturma yapılan personel tarafından işlenmediğinin anlaşılması durumuna dayalı bulunması dışında, personel hakkında takipsizlik veya beraat kararı verilmesi disiplin cezası uygulanmasını önlemez.

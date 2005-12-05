@@ -1,0 +1,2 @@
+Disiplin Amirlerinin Sorumluluğu
+Madde 19- Disiplin amirleri, bu Yönetmelikte belirtilen görev ve yetkileri bakımından genel sorumlulukları yanında, disiplin işlerinde görevlerini yerine getirmede ve yetkilerini kullanmada banka personeline Kanun ve Yönetmeliklerle tanınan hakları gözönünde tutan, hakkaniyet ve eşitliği esas alan bir tutum ve davranış içinde bulunmakla yükümlü, aksine tutum ve davranışlarından sorumludurlar.

@@ -1,0 +1,2 @@
+Disiplin Cezası Uygulanmasını Gerektiren Diğer Fiil Ve Haller
+Madde 10- Personelin, 4. üncü maddenin birinci fıkrası çerçevesinde disiplin cezası uygulanmasını gerektiren, ancak bu Yönetmelikte yer almamış fiil ve halleri için, görevden çıkarma cezası ayrık olmak üzere ve 5-8 inci maddelerde yer alan düzenlemeye göre nitelik ve ağırlıkları itibariyle benzeri fiil ve hallere ait disiplin cezaları verilir.

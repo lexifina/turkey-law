@@ -1,0 +1,3 @@
+Banka Müfettişlerinin Soruşturma Görev Ve Yetkileri
+Madde 35-A) Disiplin amirlerinin personelin uyarma veya kınama cezasını gerektiren fiil ve halleri için disiplin soruşturması yapmak görev ve yetkisi, Banka Müfettişlerinin Teftiş Kurulu Yönetmeliği'nde yer alan ve personelin disiplin cezasını gerektiren her türlü fiil ve halleri için soruşturma yapmak konusundaki görev ve yetkilerini etkilemez, Banka Müfettişlerinin bu görev ve yetkilerinin sınırlandırılmış olması anlamını taşımaz.
+B) Disiplin amirlerinin 15. maddenin (B-b) bendine göre başladıkları veya 16 ncı maddeye göre durdurdukları disiplin soruşturmaları, Banka Müfettişlerince tamamlanır.

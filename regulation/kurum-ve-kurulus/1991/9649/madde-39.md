@@ -1,0 +1,2 @@
+Madde 39- (Değişik:RG-05/12/2005-26014)
+Bir soruşturma dosyası veya raporunun birden fazla personel veya aynı personelin birden fazla fiili ile ilgili olup, ceza verme konusunda karar yetkisinin personel veya fiillerin bir kısmı için disiplin amirine, diğer bir kısmı için Disiplin Kuruluna ait bulunması halinde, soruşturma dosya ve raporu disiplin amiri olarak Genel Müdür tarafından sonuca bağlanacak cezalar için Disiplin Kurulu Başkanlığınca bu Yönetmelik hükümlerinin gerektirdiği şekilde ayrı ayrı işleme tabi tutulur.

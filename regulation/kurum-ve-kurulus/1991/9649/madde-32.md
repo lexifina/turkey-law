@@ -1,0 +1,4 @@
+Madde 32- Disiplin ve Yüksek Disiplin Kurullarında konu hakkındaki görüşmelerin sonunda karar oylama suretiyle verilir, oylama açık oyla yapılır ve karar için oy çokluğu yeterlidir.
+Oylamada çekimser kalınamaz. Başkan, oyunu en son kullanır. Oyların eşitliği halinde Başkanın bulunduğu tarafın oyu üstün sayılır. Karar, Başkan tarafından üyelere açıklanır. Başkan ve üyeler tarafından imzalanan ve karar özeti şeklinde bir tutanakla tespit edilir.
+Disiplin Kurulu ve Yüksek Disiplin Kurulu'nun kendilerine intikal eden konularda ayrı bir ceza tayinine yetkileri olmayıp, cezayı kabul veya reddederler. Red halinde atamaya yetkili amir veya merci 15 gün içinde başka bir disiplin cezası vermekte serbesttir.
+(Değişik son fıkra:RG-05/12/2005-26014) Disiplin Kurulu karar ve görüşlerinin Yüksek Disiplin Kuruluna/Yönetim Kuruluna intikali Disiplin Kurulu Başkanlığınca sağlanır.
