@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.03.43/4314-",
+  "source_id": 37835,
+  "date": "2005-12-06",
+  "title": "Muhtasar beyanname veren kamu kurum ve kuruluşları ile diğer işverenler...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37835",
+  "source_sha256": "addd99c5a41217dd25b4a8edafffa6c292857646be64cb942e92f0f39402fd84",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
