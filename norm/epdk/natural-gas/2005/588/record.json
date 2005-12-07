@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "588",
+  "decision_date": "2005-12-07",
+  "title": "“Boru Hatları ile Petrol Taşıma Anonim Şirketi (BOTAŞ) İletim Şebekesi İşleyiş Düzenlemelerine İlişkin Esaslar (ŞİD)” kapsamında, 01/01/2006 tarihinden itibaren uygulanmak üzere, doğal gaz piyasası İletim ve Sevkiyat Kontrolüne ait tarifeler hakkında",
+  "resmi_gazete_date": "2005-12-15",
+  "resmi_gazete_number": "26024",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=B0FO491pAYI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=B0FO491pAYI="
+  ],
+  "source_sha256": "be924bd6e28e8ce7b06fa6891e8d69d23f4b51b4a18d2bbf55e08e8b5d79bd5e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-12-07",
+  "law_text_complete": false
+}
