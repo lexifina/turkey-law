@@ -1,0 +1,4 @@
+Genel kurul ve görevleri
+Madde 10 — Genel Kurul; Müdür, müdür yardımcıları ve Müdürün önereceği Üniversiteye bağlı Matematik, Fizik, Kimya, İstatistik, Fen Bilimleri Eğitimi, Elektrik-Elektronik, Bilgisayar, Makine, Endüstri Mühendisliği bölüm başkanları ve Merkezin amaçları ile ilgili konularda çalışan öğretim elemanları arasından Rektör tarafından seçilen ve üç yıl süreyle görevlendirilen üç kişiden oluşur.
+Genel Kurul; her öğretim yılı başında Müdürün çağrısı üzerine en az bir defa toplanır. Bu toplantıda önceki işler hakkında bilgi verilir, ertesi yılın planı görüşülür. Süreleri dolan Yönetim Kurulu üyeliklerinin seçimini yapar ve çalışmalara yön verir.
+Genel Kurul üye tam sayısının salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır. Genel Kurula Rektör, Rektör bulunmaz ise Müdür başkanlık eder.
