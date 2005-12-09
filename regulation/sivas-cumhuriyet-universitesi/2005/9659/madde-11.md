@@ -1,0 +1,2 @@
+Merkez danışma kurulu
+Madde 11 — Merkez Danışma Kurulu; Merkez Yönetim Kurulunun belirleyeceği, Merkezin amaç ve görevleriyle ilgili gördüğü özel sektör ile kamu kurum ve kuruluşlarının temsilcilerinden oluşur. Merkez Danışma Kurulu başkanı, Merkez Müdürüdür. Merkez Danışma Kurulu olağan olarak yılda iki defa salt çoğunlukla toplanır. Merkez Yönetim Kurulu, Merkez Danışma Kurulunu gerektiğinde toplantıya çağırabilir. Kurulun sekreterlik işleri Merkez tarafından yürütülür.
