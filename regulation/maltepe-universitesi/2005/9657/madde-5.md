@@ -1,0 +1,3 @@
+Merkezin amacı ve görevleri
+Madde 5 — Merkezin amacı; İnsan hakları kavramlarında görülen belirsizliklerin giderilmesi ve içeriklerinin bilgisel olarak temellendirilebilmesi için araştırmalar yapmak, araştırma sonuçlarının uygulanma koşullarını hazırlamak ve insan haklarının felsefi temellere dayanan disiplinlerarası örgün ve yaygın eğitimini-öğretimini geliştirerek yaygınlaştırmaktır.
+Merkezin görevleri; İnceleme ve araştırma yapmak, konferans, seminer, sempozyum, panel ve benzeri düzenlemeler yapmak, bu çalışmalarda elde edilen sonuçları yayımlamak, yurt içinde ve dışında yapılan çalışmaları ve yayınları izlemek, insan hakları eğitimi yapan kamu ve özel kuruluş ve kişilerle işbirliği yapmak, amaçlar doğrultusunda kitaplık ve arşiv oluşturmaktır.
