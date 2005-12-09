@@ -1,0 +1,2 @@
+Danışma kurulunun görevleri
+Madde 15 — Danışma Kurulu; Merkezin faaliyetlerine yönelik, özellikle faaliyet programlarına, koleksiyon oluşturulmasına ve kullanılmasına, yurt içi ve yurt dışı sanat ve kültür etkinliklerine, bu konulardaki projelere, ulusal ve yabancı kuruluşlarla işbirliğine ve Merkez faaliyetlerine destek sağlanmasına ilişkin konularda tavsiye niteliğinde görüş ve önerilerde bulunur.
