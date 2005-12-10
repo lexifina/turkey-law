@@ -1,0 +1,2 @@
+Merkez yönetim kurulu
+Madde 9 — Merkez Yönetim Kurulu; Merkez müdürü, müdür yardımcıları ve Üniversitede Hukuk Tarihi, İdare Tarihi, Balkan ve Ortadoğu Tarihi, Rusya Tarihi ve Osmanlı Tarihi alanında öğrenim veren öğretim üye ve yardımcıları arasından, Rektör tarafından seçilerek görevlendirilen beş üyeden oluşur. Üyeler üç yıl süreyle görev yaparlar. Merkez Yönetim Kurulu, Merkez Müdürünün çağrısı üzerine ayda en az bir kez toplanır.

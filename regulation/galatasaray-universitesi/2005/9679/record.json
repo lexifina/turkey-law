@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 12 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2005-12-10",
+      "10.12.2005",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 12 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "26019",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2005-12-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Galatasaray Üniversitesi",
+  "issuer_slug": "galatasaray-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/galatasaray-universitesi/2005/9679",
+  "published": "2005-12-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=9679&MevzuatTertip=5",
+  "source_bytes": 19191,
+  "source_id": "8.5.9679",
+  "source_sha256": "3caf0bf7a5513005c117b32bc70b52b2c0a68da9e91f04fb02bd05bc660680fa",
+  "text_status": "as-enacted",
+  "title": "GALATASARAY ÜNİVERSİTESİ TARİH BİLİMLERİ VE BÖLGESEL TARİH ÖĞRETİM, ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 194,
+  "word_count": 784
+}
