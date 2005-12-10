@@ -1,0 +1,1 @@
+Madde 7 — 2006 yılı hac mevsiminde ülkemizden bu esaslar dahilinde Suudi Arabistan’a gidecek olanlardan, havaalanları veya karayolu hudut kapılarından çıkışta; Türkiye İş Kurumu’nca hazırlanıp imzalanarak, mühürlenen "Geçici İşçi Kimlik Kartı" aranacaktır.
