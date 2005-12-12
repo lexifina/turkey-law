@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-12-12",
+  "issue": "26021",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Milletlerarası Andlaşma",
+  "title": "2005/9655 Türkiye Cumhuriyeti Genelkurmay Başkanlığı ile İtalya Cumhuriyeti Milli Savunma Bakanlığı Arasında İtalya Cumhuriyeti Hava Kuvvetlerine Mensup Personele Türk Hava Kuvvetleri Tarafından F-16 Uçaklarında Verilecek Uçuş Eğitimlerine İlişkin Protokol’ün Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051212-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051212.htm",
+  "index_sha256": "2c66f49b6bbcd4717654e5965d73b6ee253f73d27ffdd98ac100dda6d5578a06",
+  "index_header": "1 2 Aralık 2005 ... Sayı : 26021",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
