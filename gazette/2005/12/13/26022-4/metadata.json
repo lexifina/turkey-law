@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-12-13",
+  "issue": "26022",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "Millî Savunma Bakanlığı, Genelkurmay Başkanlığı ve Kuvvet Komutanlıklarında Görevli Devlet Memurlarının Görevde Yükselme ve Unvan Değişikliği Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051213-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051213.htm",
+  "index_sha256": "4c587923995754ca13e97667863dc02e7b4cb5185219a0726ec19ebf09fa6069",
+  "index_header": "1 3 Aralık 2005 ... Sayı : 26022",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
