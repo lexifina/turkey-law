@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-41/2005-13/Basit Usulde Vergilendirme-6",
+  "source_id": 616,
+  "date": "2005-12-13",
+  "title": "Basit Usulde Vergilendirme Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/616",
+  "source_sha256": "0416c7fee56f28c90d47a225ce47043171b2b771e7e892c171f563a3fd7417ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
