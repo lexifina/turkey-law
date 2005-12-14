@@ -1,0 +1,9 @@
+SMM bürolarının görev, yetki ve sorumlulukları
+Madde 12 — SMM bürolarının görev, yetki ve sorumlulukları aşağıda belirtilmiştir:
+a) Bu Yönetmelikte tanımlanan SMMH ni yapmaya, yalnızca BTB verilen SMM büroları ve SZM yetkilidir. Bu yetki, teknik uygulama sorumluluğu dahil tüm SMMH için ülke çapında geçerlidir.
+b) SMM bürolarının bu yetkileri, Oda dışında başka bir kuruluş tarafından sınırlanamaz ve kısıtlanamaz.
+c) Tescilin yapılmış olması bir SMM bürosunu, ilgili mevzuatın zorunlu kıldığı kurallara uyulmamasından doğacak sorumluluklardan kurtarmaz.
+ç) SMM büroları, bu Yönetmelik kapsamına giren tüm SMMH ni; işveren, ilgili idare veya onay makamınca istensin veya istenmesin mesleki denetimden geçirecek ve onaylatacaktır.
+d) Mesleki denetim, inceleme ve onay yerini belirlemede, Oda Yönetim Kurulu yetkilidir. SMM büroları, bu Yönetmelik kapsamına giren tüm SMMH ni ilgili Oda birimine sunarken, işveren ve SMM bürosu arasında imzalanmış sözleşmeyi, yapılan SMMH nin türünü, belge ve bilgilerini, SMMH için Oda tarafından belirlenmiş asgari ücretler üzerinden kesilmiş serbest meslek makbuzu veya faturayı ve Odaca istenecek diğer belgeleri Oda birimlerine vermekle yükümlüdür. Ancak yapılan SMMH de, SMM bürosu aynı zamanda işveren konumunda ise, bu durum belgelenerek, serbest meslek makbuzu veya fatura kendi adına kesilmiş olacaktır. Bu belgelerde SMM bürosunun bağlı olduğu vergi dairesinin adı, vergi numarası, adresi ile işverenin adı ve adresi yer alacaktır.
+e) Mesleki denetim ve onay işlemleri için, SMMH nin türüne göre her yıl başında Oda Yönetim Kurulunca belirlenen ücret, SMM büroları tarafından Odaya ödenir. Bu ücret, işverenden istenemez.
+f) Oda, SMM ve tescilli bürolarla işveren arasında doğabilecek anlaşmazlıklarda durumu inceler, hakemlik görevini yerine getirir ve kararını yargı yolu açık olmak üzere taraflara bildirir. SMM ve tescilli büro, bu durumda Odanın vereceği karara uymakla yükümlüdür.

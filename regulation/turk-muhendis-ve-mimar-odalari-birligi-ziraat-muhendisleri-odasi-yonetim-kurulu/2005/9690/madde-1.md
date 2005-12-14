@@ -1,0 +1,3 @@
+TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ZİRAAT MÜHENDİSLERİ ODASI SERBEST MÜŞAVİRLİK, MÜHENDİSLİK HİZMETLERİ VE BELGELENDİRME YÖNETMELİĞİ
+Amaç
+Madde 1 — Bu Yönetmeliğin amacı, serbest çalışan ziraat mühendisleri ile Ziraat Mühendisleri Odasına üye diğer meslek mensuplarının, kamu yararı, meslek etiği ve meslek alanının geliştirilmesi doğrultusunda Ziraat Mühendisleri Odası tarafından düzenlenmesi, ziraat mühendisliği hizmetlerinin mesleki esaslarının gelişmesinin sağlanması, haksız rekabetin önlenmesi, serbest hizmet veren kişi ve kuruluşların mesleki denetim, kapasite ve yeterlilik açısından değerlendirilerek, belgelendirilmesi ve kayıtlarının tutulması ile ilgili usul ve esasları belirlemektir.

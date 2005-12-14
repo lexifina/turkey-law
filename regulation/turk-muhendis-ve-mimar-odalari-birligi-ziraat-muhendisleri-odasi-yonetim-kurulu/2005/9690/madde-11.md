@@ -1,0 +1,9 @@
+Tescil Belgesi alan SMM lerin görev, yetki ve sorumlulukları
+Madde 11 — Serbest müşavir ve mühendislik hizmeti yapan mühendislerin görev, yetki ve sorumlulukları şunlardır:
+a) SMM ler, bu Yönetmelik kapsamına giren tüm serbest mühendislik hizmetlerini Odanın mesleki denetimine sunmakla yükümlüdür. İşverenin veya ilgili idarenin, Odanın mesleki denetimini istememesi durumunda mühendisin bu yükümlülüğü ortadan kalkmaz.
+b) SMM in kendisine bu Yönetmelikle verilmiş görev, yetki ve sorumlulukları Oda dışında başka bir kuruluş tarafından sınırlanamaz ve kısıtlanamaz.
+c) SMM ler, bu Yönetmelik kapsamında olan serbest mühendislik hizmetleri ile ilgili olarak, hizmetin başlamasından önce işveren ile sözleşme imzalamak zorundadır. Bu sözleşme; işin kapsamı, süresi, aşamaları, bedeli ve karşılıklı haklar konularında Oda tarafından hazırlanmış tip sözleşmedeki asgari koşulları kapsar. Mühendislik hizmetleri şartnamesi ve ücret tarifesi serbest mühendislik hizmetleri sözleşmesinin ayrılmaz eki sayılır.
+ç) SMM ler, bu Yönetmelik kapsamına giren tüm işlerinde ve yapacağı hizmet sözleşmesinde; mesleki esaslar, ülke ve meslektaş yararları, ilgili konularda Oda tarafından yürürlüğe konmuş şartnameler ve Oda tarafından belirlenmiş asgari ücret tarifelerine uymak zorundadır.
+d) SMM ler, Odanın mesleki denetimine tabi hizmetlerini, vize ve denetim için gerekli belgeleri ve hizmetin türü göz önüne alınarak Oda Yönetim Kurulunca istenilmesi kararlaştırılan diğer belgeleri Odaya vermekle yükümlüdür.
+e) SMM belgesi veya BTB bulunmayan, belgesini yenilemeyen, belgesi Oda tarafından süreli veya süresiz olarak iptal edilen kişi ve kuruluşlar, bu belgelere dayanarak serbest müşavirlik mühendislik yapamazlar.
+f) SMM ce hazırlanan proje, rapor ve benzeri belgelerin üzerine Odanın mühürü basılır ve SMM in imzası bulunur. Belge içeriğinden ve doğuracağı sonuçlardan SMM sorumludur.

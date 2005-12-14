@@ -1,0 +1,2 @@
+SMMH lerinin denetim uygulamaları
+Madde 6 — SMMH lerinin yürütülmesinde; dürüstlük ve güvenin sağlanması, meslek etiğinin korunması, mevzuata ve odaca belirlenen asgari ücretlere uyulması zorunludur. Bu konudaki denetimlerde, oda Genel Merkezi, Şubeler, İl Temsilcilikleri ve Genel Merkezce görevlendirilen denetçiler tarafından, 24/7/2002 tarihli ve 24825 sayılı Resmî Gazete’de yayımlanan Ziraat Mühendislerinin Hizmet Alanlarındaki Çalışmalarıyla İlgili Mesleki Denetim Uygulamaları ve Disiplin Hükümleri Hakkında Yönetmelik hükümleri uygulanır.
