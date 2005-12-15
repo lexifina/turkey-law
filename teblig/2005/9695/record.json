@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9695",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2005 MALİ YILI BÜTÇE UYGULAMA TALİMATI (SIRA NO: 18 ) (TEDAVİ YARDIMI)",
+  "number": "9695",
+  "path": "teblig/2005/9695",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9695&MevzuatTertip=5",
+  "source_sha256": "5962708d0ee1d3eaa3cb6dd38ffca4cb7d8b5a21e41f6154699616944469a134",
+  "source_bytes": 534582,
+  "published": "2005-12-15",
+  "gazette": "26024",
+  "in_force": "2005-12-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.12.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11695,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
