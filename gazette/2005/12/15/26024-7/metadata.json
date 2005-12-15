@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-12-15",
+  "issue": "26024",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "2005 Mali Yılı Bütçe Uygulama Talimatı (Sıra No: 18) (Tedavi Yardımı)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051215-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051215.htm",
+  "index_sha256": "d7681c3d84fcb59fe68eb8f9fd572f75201b230869978f5f0caac532b7124cd6",
+  "index_header": "1 5 Aralık 2005 ... Sayı : 26024",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
