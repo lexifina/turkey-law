@@ -1,0 +1,295 @@
+Tebliğ
+Telekomünikasyon
+Kurumundan:
+GSM Mobil Telefon İşletmecilerinin
+Hizmet Kalitesi
+Yükümlülükleri ile İlgili Ölçütlerin
+Belirlenmesi
+ve Ölçümüne İlişkin Tebliğ
+BİRİNCİ
+BÖLÜM
+Amaç,
+Kapsam ve Dayanak
+Amaç
+Madde
+1 — Bu Tebliğin amacı, hücresel mobil telefon (GSM)
+hizmeti sunan işletmecilerin Hizmet Kalitesi yükümlülükleri ile ilgili teknik
+ölçütler ile bunların belirlenmesi ve ölçülmesine ilişkin usul ve esasları
+tanımlamaktır.
+Kapsam
+Madde
+2 — Bu Tebliğ, mobil telefon hizmeti sunan işletmecilerin,
+faaliyetlerini uluslararası hizmet kalitesi standartları ve ulusal
+düzenlemelere uygun yürütmesindeki ölçütlerin tanımlanması ile belirleme ve
+saha ölçümlerine ilişkin usul ve esasları kapsar.
+Hukuki
+dayanak
+Madde
+3 — Bu Tebliğ, 3/3/2005 tarih ve 25744 sayılı Resmî
+Gazete’de yayımlanarak yürürlüğe giren Telekomünikasyon Sektöründe Hizmet
+Kalitesi Yönetmeliğinin 20, 23 ve 24 üncü maddelerine dayanılarak
+hazırlanmıştır.
+Tanımlar
+Madde
+4 — Bu Tebliğde yer almayan tanımlar için 406 sayılı
+Telgraf ve Telefon Kanunu, 2813 sayılı Telsiz Kanunu ve ilgili mevzuattaki
+tanımlar esas alınır.
+Kurum: Telekomünikasyon Kurumu.
+Yönetmelik: 3/3/2005 tarih ve 25744 sayılı Resmî
+Gazete’de yayımlanarak yürürlüğe giren Telekomünikasyon Sektöründe Hizmet
+Kalitesi Yönetmeliği.
+Hücre: Bir GSM baz verici istasyonu (BTS)
+tarafından kapsama alanı içine alınan ve servis verilen en küçük coğrafik
+alan.
+Belirleme: Operatörlerin kendi GSM şebekesi
+üzerinden hizmet kalitesi ölçütlerine ilişkin bilgileri bilgisayar ve yazılım
+imkanlarıyla derlemesi, analiz etmesi suretiyle hizmet kalitesi
+yükümlülüklerinin belirlenmesine esas veri ve sonuçların elde edilmesi.
+Ölçüm: Herhangi bir bölge, saha veya hücreye
+ilişkin yerel şebeke bilgilerinin mahallinde mobil ölçüm ve analiz sistemleri
+kullanılarak; ilgili işletmecinin havadan alınan sinyali üzerinden hizmet
+kalitesi yükümlülüklerine ilişkin sonuçların elde edilmesi.
+Ölçüt :
+Bu Tebliğ kapsamında GSM şebekesi üzerindeki verilerin elde edilmesinde ve
+değerlendirilmesinde kullanılan ve Tebliğ ekinde yer alan tabloda belirtilen
+Hizmet Kalitesi parametreleri.
+Arama Başarısızlık: Aramanın başarılı olarak
+kurulmasından sonra konuşmanın abonenin isteği dışında herhangi bir nedenle
+sonlandırılması.
+Arama Başarısızlık Oranı: Arama Başarısızlık
+sayısının toplam arama girişimi sayısına oranı.
+En Yoğun Saat: 24 saat boyunca yapılan ölçümler
+sonucunda trafik yoğunluğunun en fazla olduğu saat.
+Örnekleme Zaman Aralığı: Geçerli girişim ve
+başarısızlıklarının sayılmasında kullanılacak zaman aralığı olup saat başı ve
+saat sonu arasındaki süre olarak uygulanır.
+İKİNCİ
+BÖLÜM
+Genel
+tanım ve kurallar
+Ölçütler
+ve Uyulacak Kurallar
+Madde
+5 — GSM işletmecileri ve Kurumdan yetki almak şartıyla
+üçüncü şahıslar tarafından yapılan hizmet kalitesine ilişkin teknik ölçütler
+ile bu ölçütler için yapılan belirleme ve ölçümler; Türkiye İstatistik
+Kurumunun en son resmi nüfus sayımı sonuçlarına göre nüfusu 10 000 (onbin) ve üzeri yerleşim yerleri üzerinden belirlenerek
+Kuruma bildirilir. Birden çok merkez ilçeden oluşan ve büyük şehir statüsüne
+sahip olan yerleşimler tek yerleşim olarak değerlendirilir. Tebliğ içinde
+geçen "yerleşim" terimi bu Madde ile tarif edilen şekilde
+anlaşılır.
+Madde
+6 — Kurumun, hizmet kalitesine ilişkin verileri 10 000 (onbin) ve üzeri yerleşimler itibariyle talep etmesi,
+işletmecinin 10 000 (onbin)’in altı nüfusa sahip
+yerleşimler ile yerleşim yerleri dışındaki kapsama alanlarında verdiği
+telekomünikasyon hizmeti yükümlülükleri açısından herhangi bir istisna getirmez.
+Madde
+7 — İşletmeci yetkilendirmesini takiben onsekizinci aydan itibaren hizmet kalitesi ölçütlerine
+ilişkin bildirimlerini Yönetmelikte belirtilen sürelerde düzenli yapar.
+Madde
+8 — Ölçütlere ilişkin belirlemeler ve saha ölçümleri
+işletmeci tarafından münhasıran kendi GSM şebekesi ve üzerindeki trafikten
+elde edilir. Ulusal ve/veya uluslararası dolaşım veya diğer işletmecinin
+sağladığı acil arama sinyali ve erişimi üzerinden belirleme ve ölçüm
+yapılamaz.
+Madde
+9 — Bütün ölçütler şebeke sonlandırma noktasından ve
+gerçek haberleşme trafiği üzerinden elde edilir. Ölçümler hariç deneysel
+arama ve bağlantı kurmak suretiyle belirleme yapılamaz.
+Madde
+10 — Belirlemelere ilişkin sonuçların elde edilmesini
+sağlayan alt detaylar hücre bazına kadar, ilgili olduğu periodu
+takip eden üç yıl boyunca işletmeci tarafından uygun şekilde muhafaza edilir
+ve istendiğinde Kuruma verilir.
+Madde
+11 — İşletmecilerin hizmet kalitesi ölçütleri, belirleme ve
+ölçümleri için burada verilmeyen hususlarda; genel uluslararası standart ve
+usullere, ITU-T E. 800 serisi tavsiye dokümanlarına ve ETSI TS 102 250-2
+V.1.1.1 (2003-10) standardına uyulur.
+Madde
+12 — Kurum, gerek gördüğü takdirde, doğrudan veya bağımsız
+uzman kuruluşlar marifetiyle, işletmecinin vermiş olduğu belirleme ve ölçüm
+sonuçları için doğrulama yapabilir.
+Madde
+13 — GSM işletmecileri ve Kurumdan yetki almak şartıyla
+üçüncü şahışlar tarafından saha ölçümleri bu
+tebliğe uygun olarak yapılarak, elde edilen saha ölçüm sonuçları Kuruma
+sunulur. Bu Rapor içerisinde asgari olarak yer alacak veriler bu Tebliğin
+Ek-1’inde verilmektedir. Ayrıca elektronik ortamda olmak üzere diğer işlem ve
+veri detayları beraberinde verilir.
+ÜÇÜNCÜ
+BÖLÜM
+Belirleme
+ve Ölçüm
+Belirleme
+Madde
+14 — Hizmet Kalitesi Yönetmeliğinin 20 nci
+maddesinde yer alan verilerin elde edilmesinde ITU-T E. 800 Serisi ve ETSI TS
+102 250-2 V.1.1.1 (2003-10) standartlarında tanımlanan ve ölçüm yöntemleri
+belirlenen ölçütler kullanılacaktır.
+Madde
+15 — Belirlemelerde, bir yerleşimde toplam trafiği içerecek
+şekilde haftada 7 gün ve günde 24 saat boyunca bütün geçerli girişimler ve
+bunlardaki başarısızlıkların "Örnekleme Zaman Aralığı" içindeki
+adetleri ve elde edilecek olasılık değerleri kullanılacaktır.
+Madde
+16 — Örnekleme Zaman Aralığı 1 saat olarak uygulanacaktır.
+Madde
+17 — Her bir gün için 0-24 saatleri arasındaki en yüksek
+olumsuzluğun gerçekleştiği Örnekleme Zaman Aralığı değeri; ilgili ölçüt için
+o yerleşimin "Günlük Olasılık Değeri" olarak alınacaktır.
+Madde
+18 — Bir yerleşimde belli bir bildirim dönemi boyunca
+herhangi bir gösterime ilişkin Günlük Olasılık Değerlerinde kullanılan toplam
+başarısız girişim sayısının toplam geçerli girişim sayısına oranlanmasıyla
+bulunan olasılık değeri, yerleşimin "Dönemsel Ortalama Olasılık
+Değeri" olarak alınacaktır.
+Madde
+19 — Ülke genelindeki bütün yerleşimlerin Dönemsel Ortalama
+Olasılık Değeri hesabında kullanılan toplam başarısız girişim sayısının
+toplam geçerli girişim sayısına oranından bulunan olasılık değeri ilgili
+ölçüt için "Ülke Geneli Ortalama Olasılık Değeri" olarak
+alınacaktır.
+Madde
+20 — Ülke geneli için Yönetmelik Ek-2 ile verilen Hizmet
+Kalitesi Bilgi Formu buradaki tanım ve usullere uygun olarak doldurulacak ve
+sonuçların geçerliğini teyid edecek ilave veri ve
+açıklamalar beraberinde verilecektir.
+Madde
+21 — Yerleşim yeri bazında belirlemelere ilişkin veriler bu
+Tebliğin Ek-2’sinde verilen tablonun aylık dönemler için doldurulması
+suretiyle 3 (üç) aylık periotlarla Kuruma
+bildirilecektir.
+Saha
+ölçümleri
+Madde
+22 — Kurumun talebi veya şikayet durumunda herhangi bir
+yerleşimde, yerleşimin bir bölgesinde veya birden çok yerleşimden oluşan bir
+bölgede ya da yerleşim alanları dışında durağan
+veya hareket halinde uygun test düzenekleri kullanılmak suretiyle işletmecilerin
+ortamdaki elektromanyetik sinyallerinin alınması, ölçümü ve ölçüm
+sonuçlarının analiz edilmesi çalışmaları burada tanımlanan usule uygun olarak
+yapılacaktır.
+Madde
+23 — ITU-T ve ETSI standart ve usullerine uygun ölçüm
+yapabilecek, ölçüm verileri ile birlikte ölçüm noktasının coğrafi konumu ve
+zamanı kaydedilebilecek cihaz ve/veya cihaz setleri kullanılacaktır.
+Madde
+24 — Cihaz ve antenlerin araca monteli olduğu durumda
+yapılan ölçümlerde, ölçümün araç içi veya dışı değerlerden hangisine karşılık
+geldiği belirtilecektir.
+Madde
+25 — Hareket halindeki ölçümlerde, trafik kuralları ve yol
+koşulları nedeniyle aksine bir zorunluluk olmadıkça araç hızı 50 km/saat
+olacaktır.
+Madde
+26 — İşletmecilerin bildirdiği sonuçlar ile Kurumun yaptığı
+ölçümler arasında farklılık gözlenmesi halinde Kurum tarafından yapılan ölçüm
+sonuçları esas alınacaktır.
+Madde
+27 — Hareketli ölçümlerde çağrı dizini oluşturulurken,
+hatta bağlandıktan sonra kanalda bekleme süresi 60 sn, iki çağrı girişimi
+arasındaki süre ise 15 sn olarak düzenlenecektir.
+Belirlemelere
+ilişkin teyid ölçümleri
+Madde
+28 — Ölçüm yapılan alanın özelliklerinin sonuçlara doğru
+olarak yansıtılmasını teminen; yerleşim yerindeki
+hizmete ilişkin trafik dağılımı, en düşük ve en yüksek trafik yoğunluğu olan
+alanlar da dahil yerleşim alanının en az %90 nüfusunun yaşadığı alanın
+taranması hususu ile hizmete ilişkin Günlük Olasılık Değerinin en yüksek
+olduğu Örnekleme Zaman Aralıkları gözetilecektir.
+Kapsamaya
+ilişkin teyid ölçümleri
+Madde
+29 — İşletmecilere İmtiyaz Sözleşmesi Madde 6 ile getirilen
+kapsama yükümlülüğü; kendi şebekesi üzerinden sağladığı sinyalin bina ve araç
+dışında -104 dBm (3 dBµV)
+ve daha yüksek olduğu tespit edilen alanlarda yerine getirilmiş sayılacaktır.
+Madde
+30 — Kapsama yükümlülüğü için bilgisayar ortamında yapılan
+kapsama analizlerine ilişkin bildirimlerde veya bunların teyidi için yapılan
+saha ölçümlerinde burada verilen değerler esas alınacaktır.
+Yürürlük
+Madde
+31 — Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+Madde
+32 — Bu Tebliğ hükümlerini Telekomünikasyon Kurulu Başkanı
+yürütür.
+Ek-1
+Tablo1 : Saha Ölçümünde
+Doldurulacak Tablo Örneği
+Ölçüm
+Yapılan Yer Ve Hücre Adı
+Başlangıç
+Zamanı
+(Saat
+...)
+Bitiş
+Zamanı
+(Saat
+...)
+Toplam
+Arama Sayısı
+(...
+Adet)
+Başarısız
+Arama Sayısı
+(...
+Adet)
+Arama
+Başarısızlık Oranı
+(%
+...)
+Arama
+Blokaj Oranı
+(%
+...)
+Arama
+Kurulma Süresi
+(...
+Saniye)
+Ölçüm Tarihi :
+Ölçümü Yapanın :
+Adı :
+Soyadı :
+Ünvanı :
+Onaylayanın :
+Adı :
+Soyadı :
+Ünvanı :
+Şirket/Kuruluş Adı :
+Ek-2
+Tablo 2 : Belirlemelerde Yerleşim Yeri Bazında Doldurulacak Tablo
+Belirlemenin Yapıldığı
+Yerleşim Yeri
+Belirlemenin Ait Olduğu Dönem
+Belirlemelerde Kullanılan Baz
+İstasyonu Sayısı
+Toplam
+Arama Sayısı
+(....adet)
+Başarısız
+Arama Sayısı
+(...adet)
+Arama
+Başarısızlık Oranı
+(%...)
+Bloke
+Olan Arama Sayısı
+(.... adet)
+Arama
+Blokaj Oranı
+(%...)
+Tablonun
+Hazırlandığı Tarih :
+Belirlemeyi Yapanın :
+Adı :
+Soyadı :
+Ünvanı :
+Onaylayanın :
+Adı :
+Soyadı :
+Ünvanı :
+Şirket/Kuruluş Adı :
