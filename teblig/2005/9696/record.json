@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.9696",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MOTORLU TAŞITLAR VERGİSİ GENEL TEBLİĞİ ( SERİ NO:25 )",
+  "number": "9696",
+  "path": "teblig/2005/9696",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9696&MevzuatTertip=5",
+  "source_sha256": "16b4a4290d29bea8d463d328a5c61ec2555825ba213fd7051ce5f2a773fe61a1",
+  "source_bytes": 118741,
+  "published": "2005-12-16",
+  "gazette": "26025",
+  "in_force": "2005-12-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.12.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 936,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051216-6.htm#_ftn1",
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051216-6.htm#_ftn2",
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051216-6.htm#_ftn3",
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051216-6.htm#_ftn4",
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051216-6.htm#_ftn5",
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051216-6.htm#_ftn6",
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051216-6.htm#_ftnref1",
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051216-6.htm#_ftnref2",
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051216-6.htm#_ftnref3",
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051216-6.htm#_ftnref4",
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051216-6.htm#_ftnref5",
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051216-6.htm#_ftnref6"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
