@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9708",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 354)",
+  "number": "9708",
+  "path": "teblig/2005/9708",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9708&MevzuatTertip=5",
+  "source_sha256": "aad736eeab6a90a1f22a704528c49bcee8096a7ae08cee65b87a9e02ae4a10c1",
+  "source_bytes": 48192,
+  "published": "2005-12-17",
+  "gazette": "26026",
+  "in_force": "2005-12-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.12.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 729,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
