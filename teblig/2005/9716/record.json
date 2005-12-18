@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9716",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (Seri No: 49)",
+  "number": "9716",
+  "path": "teblig/2005/9716",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9716&MevzuatTertip=5",
+  "source_sha256": "d27efb989ac40811b9d201f989d4e79cc2b5312028cb39a11493cb6fbc870189",
+  "source_bytes": 275182,
+  "published": "2005-12-18",
+  "gazette": "26027",
+  "in_force": "2005-12-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.12.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7594,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
