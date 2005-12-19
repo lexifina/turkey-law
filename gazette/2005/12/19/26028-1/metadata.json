@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-12-19",
+  "issue": "26028",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Elektrik İşleri Etüt İdaresi Genel Müdürlüğü Personelinin Görevde Yükselme ve Unvan Değişikliği Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051219-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051219.htm",
+  "index_sha256": "e9feeaa4a897761d88243c442bc8fc87137972eed57a756326051ced49d5090c",
+  "index_header": "1 9 Aralık 2005 ... Sayı : 26028",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
