@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-42/2005-14/2005 yılı indirim oranı",
+  "source_id": 615,
+  "date": "2005-12-20",
+  "title": "2005 yılında elde edilen menkul sermaye iratlarında indirim oranı uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/615",
+  "source_sha256": "5cd1079ed13247060693f7e99a7de7b0da39fb2a6998b45a93f6af0ed3ad9aa0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
