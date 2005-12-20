@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0. 65/6530-343",
+  "source_id": 26664,
+  "date": "2005-12-20",
+  "title": "Pompalardan gerçekleştirilen her türlü akaryakıt (LPG dahil) satışının belgelendirilmesi ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26664",
+  "source_sha256": "6afc6b520cca64302271a2505aaa3e262fdb6911373704b6f73031cd2d63a83a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
