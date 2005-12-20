@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.9719",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "Türkiye Cumhuriyet Merkez Bankasınca, Reeskoont ve Avans İşlemlerinde Uygulanacak Yıllık Faiz Oranları Hakkında Tebliğ",
+  "number": "9719",
+  "path": "teblig/2005/9719",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9719&MevzuatTertip=5",
+  "source_sha256": "44faf9fac5ed31f61a6cf21906fd1db167c161ece0b784ca4e5b7d907f5f8e35",
+  "source_bytes": 12902,
+  "published": "2005-12-20",
+  "gazette": "26029",
+  "in_force": "2005-12-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.12.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 69,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://rega.basbakanlik.gov.tr/GUNLU/20051220-6.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
