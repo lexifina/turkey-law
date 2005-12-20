@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-12-20",
+  "issue": "26029",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğ",
+  "title": "Türkiye Cumhuriyet Merkez Bankasınca, Reeskoont ve Avans İşlemlerinde Uygulanacak Yıllık Faiz Oranları Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051220-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051220.htm",
+  "index_sha256": "1670a35706c1fa87e2757abf2ea386ebd5f2e212753d4ae53c9642c259a467d0",
+  "index_header": "20 Aralık 2005 ... Sayı : 26029",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
