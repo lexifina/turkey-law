@@ -1,0 +1,1 @@
+Madde 11 — 1 inci madde gereğince ihracatçı adına açılacak mahsup hesabına esas teşkil edecek ihracat 1/12/2005-31/5/2006 tarihleri arasında gerçekleştirilecek fiili ihracattır. Bu dönemde gerçekleştirilecek fiili ihracat neticesinde ihracatçı adına açılacak hesaptan 2 nci madde kapsamında belirtilen giderlerin mahsubuna 31/5/2006 tarihinden sonra da devam olunur.

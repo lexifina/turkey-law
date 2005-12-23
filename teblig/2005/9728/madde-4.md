@@ -1,0 +1,2 @@
+Madde 4 — Adına hesap açılacak ihracatçılardan, ihracatçı birliklerine başvuruları sırasında, Maliye Bakanlığı’na hitaben bir örneği ekte yer alan taahhütname alınacaktır.
+İhracatçı birlikleri tarafından ABD Doları olarak belirlenerek Türkiye Cumhuriyet Merkez Bankası’na bildirilen her hakediş tutarı, hakediş belgesinin düzenlendiği tarihteki Türkiye Cumhuriyet Merkez Bankası alış kuru üzerinden Türk Lirası’na çevrilerek sabitleştirilir.
