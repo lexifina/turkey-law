@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-12-23",
+  "issue": "26032",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Asgari Ücret Tespit Komisyonu Kararı (No: 2005/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051223-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051223.htm",
+  "index_sha256": "91bee8c1418e542c4395d8e03b309477f6f58c91e1ea050764627626ba3dbb36",
+  "index_header": "23 Aralık 2005 ... Sayı : 26032",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
