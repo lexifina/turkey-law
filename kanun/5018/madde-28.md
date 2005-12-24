@@ -1,4 +1,5 @@
-Gelecek yıllara yaygın yüklenmeler
-MADDE 28 - Merkezî yönetim kapsamındaki kamu idareleri, bir malî yıl içinde tamamlanması mümkün olmayan yatırım projeleri için Maliye Bakanlığı ve Devlet Planlama Teşkilatı Müsteşarlığının görüşü üzerine, gelecek yıllara yaygın yüklenmeye girişebilir.
+Gelecek yıllara yaygın yüklenmeler (2)
+MADDE 28 - Merkezî yönetim kapsamındaki kamu idareleri, bir malî yıl içinde tamamlanması mümkün olmayan yatırım projeleri için (…)(2) , gelecek yıllara yaygın yüklenmeye girişebilir. (2)
 Türk Silahlı Kuvvetleri Stratejik Hedef Planında yer alan projeler için 2.7.1992 tarihli ve 3833 sayılı Kanun çerçevesinde gelecek yıllara yaygın yüklenmelere girişmeye, ilgisine göre Milli Savunma Bakanlığı veya İçişleri Bakanlığı yetkilidir.
 Dışişleri Bakanlığı, Maliye Bakanlığının uygun görüşünü almak kaydıyla, yabancı ülkelerde dış temsilcilik binası veya arsa satın alınması, bina yaptırılması veya kiralanması için gelecek yıllara yaygın yüklenmelere girişebilir.
+(Ek fıkra: 22/12/2005-5436/10 md.) Yılı bütçesinde ödeneği bulunması ve Maliye Bakanlığının uygun görüşünün alınması kaydıyla, satın alma suretiyle edinilmesi ekonomik olmayan her türlü makine-teçhizat, cihazlar ve taşıtlar ile yangınla mücadele amacıyla hava ve deniz araçlarının kiralanması, aşı ve anti serum alımı, orman ağaçlandırma ve amenajman işleri için süresi üç yılı geçmemek üzere üst yöneticinin onayıyla gelecek yıllara yaygın yüklenmeye girişilebilir.

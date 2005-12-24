@@ -1,4 +1,4 @@
 Kontrolün yapısı ve işleyişi
-MADDE 57 - Kamu idarelerinin malî yönetim ve kontrol sistemleri; malî hizmetler, harcama öncesi kontrol ve muhasebe hizmetlerinden oluşur.
+MADDE 57 - (Değişik birinci fıkra: 22/12/2005-5436/10 md.) Kamu idarelerinin malî yönetim ve kontrol sistemleri; harcama birimleri, muhasebe ve malî hizmetler ile ön malî kontrol ve iç denetimden oluşur.
 Yeterli ve etkili bir kontrol sisteminin oluşturulabilmesi için; mesleki değerlere ve dürüst yönetim anlayışına sahip olunması, malî yetki ve sorumlulukların bilgili ve yeterli yöneticilerle personele verilmesi, belirlenmiş standartlara uyulmasının sağlanması, mevzuata aykırı faaliyetlerin önlenmesi ve kapsamlı bir yönetim anlayışı ile uygun bir çalışma ortamının ve saydamlığın sağlanması bakımından ilgili idarelerin üst yöneticileri ile diğer yöneticileri tarafından görev, yetki ve sorumluluklar göz önünde bulundurulmak suretiyle gerekli önlemler alınır.
-Kamu idarelerinin malî hizmetler birimi yöneticisi ile malî kontrol yetkilisi ve muhasebe yetkilisi olacak görevliler, Maliye Bakanlığınca görevin niteliği dikkate alınarak mesleki konularda eğitime tâbi tutulur ve bu eğitimi başarıyla tamamlayanlara sertifika verilir. Sertifika alamayanlar kamu idarelerinde bu kadrolara atanamazlar.
+(Mülga son fıkra: 22/12/2005-5436/10 md.)

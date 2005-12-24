@@ -1,8 +1,12 @@
 İç denetçinin nitelikleri ve atanması
 MADDE 65 - İç denetçi olarak atanacakların, 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilenler ile aşağıdaki şartları taşıması gerekir:
-a)İlgili kamu idaresinin özelliği de dikkate alınarak İç Denetim Koordinasyon Kurulu tarafından belirlenen alanlarda en az dört yıllık yüksek öğrenim görmüş olmak.
+a) İlgili kamu idaresinin özelliği de dikkate alınarak İç Denetim Koordinasyon Kurulu tarafından belirlenen alanlarda en az dört yıllık yüksek öğrenim görmüş olmak.
 b) Kamu idarelerinde denetim elemanı olarak en az beş yıl veya İç Denetim Koordinasyon Kurulunca belirlenen alanlarda en az sekiz yıl çalışmış olmak.
 c) Mesleğin gerektirdiği bilgi, ehliyet ve temsil yeteneğine sahip olmak.
-d)İç Denetim Koordinasyon Kurulunca gerekli görülen diğer şartları taşımak.
+d) İç Denetim Koordinasyon Kurulunca gerekli görülen diğer şartları taşımak.
 Kamu idarelerine iç denetçi olarak atanacaklar, İç Denetim Koordinasyon Kurulu koordinatörlüğünde, Maliye Bakanlığınca iç denetim eğitimine tâbi tutulur. Eğitim programı, iç denetçi adaylarına denetim, bütçe, malî kontrol, kamu ihale mevzuatı, muhasebe, personel mevzuatı, Avrupa Birliği mevzuatı ve mesleki diğer konularda yeterli bilgi verilecek şekilde hazırlanır. Bu eğitimi başarıyla tamamlayanlara sertifika verilir. İç denetçi adayları için uygulanacak eğitim programının süresi, konuları ve eğitim sonucunda yapılacak işlemler ile diğer hususlar İç Denetim Koordinasyon Kurulu tarafından hazırlanarak Maliye Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
-İç denetçiler, üst yöneticiler tarafından, sertifikalı adaylar arasından atanır. İç denetçilerin kamu idareleri itibarıyla sayıları, çalışma usul ve esasları ile diğer hususlar İç Denetim Koordinasyon Kurulunca hazırlanarak, Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca çıkarılacak yönetmelikle belirlenir.
+(Değişik birinci cümle: 22/12/2005-5436/10 md.) İç denetçiler, bakanlıklar ve bağlı idarelerde, üst yöneticilerin teklifi üzerine Bakan, diğer idarelerde üst yöneticiler tarafından sertifikalı adaylar arasından atanır ve aynı usûlle görevden alınır. İç denetçilerin kamu idareleri itibarıyla sayıları, çalışma usul ve esasları ile diğer hususlar İç Denetim Koordinasyon Kurulunca hazırlanarak, Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca çıkarılacak yönetmelikle belirlenir.
+–––––––––––––––––––––
+(1) 22/12/2005 tarihli ve 5436 sayılı Kanunun 10 uncu maddesiyle, bu maddenin birinci cümlesinde yer alan "ve nesnel güvence sağlayan danışmanlık faaliyetidir." ibaresi ",nesnel güvence sağlama ve danışmanlık faaliyetidir." şeklinde değiştirilmiş ve metne işlenmiştir.
+(2) 22/12/2005 tarihli ve 5436 sayılı Kanunun 10 uncu maddesiyle, bu maddenin son cümlesi ikinci fıkra olarak düzenlenerek, bu cümleden sonra gelmek üzere fıkranın sonuna metne işlendiği şekilde cümle eklenmiştir.
+(3) 22/12/2005 tarihli ve 5436 sayılı Kanunun 10 uncu maddesiyle, bu maddenin (d) bendinde yer alan "izlemek" ibaresi "denetlemek" şeklinde değiştirilmiş ve metne işlenmiştir.

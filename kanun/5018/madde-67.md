@@ -8,6 +8,7 @@ e) Risk içeren alanlarda iç denetçilere program dışı özel denetim yaptır
 f)İç denetçilerin eğitim programlarını düzenlemek.
 g)İç denetçiler ile üst yöneticiler arasında görüş ayrılığı bulunması halinde anlaşmazlığın giderilmesine yardımcı olmak.
 h)İdarelerin iç denetim raporlarını değerlendirerek sonuçlarını konsolide etmek suretiyle yıllık rapor halinde Maliye Bakanına sunmak ve kamuoyuna açıklamak.
-i)İşlem hacimleri dikkate alınmak suretiyle ilçe ve belde belediyeleri için iç denetçi atanıp atanmayacağına karar vermek.
+i) (Değişik: 22/12/2005-5436/10 md.) İşlem hacimleri ve personel sayıları dikkate alınmak suretiyle idareler ile ilçe ve belde belediyeleri için iç denetçi atanıp atanmayacağına karar vermek.
 j)İç denetçilerin atanmasına ilişkin diğer usulleri belirlemek.
 k)İç denetçilerin uyacakları etik kuralları belirlemek.
+l) (Ek: 22/12/2005-5436/10 md.) Kalite güvence ve geliştirme programını düzenlemek ve iç denetim birimlerini bu kapsamda değerlendirmek.

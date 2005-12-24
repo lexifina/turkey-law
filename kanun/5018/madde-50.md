@@ -1,4 +1,4 @@
-Kayıt zamanı ve kullanılacak belgeler
+Kayıt zamanı (…) (1)
 MADDE 50 - Bir ekonomik değer yaratıldığında, başka bir şekle dönüştürüldüğünde, mübadeleye konu edildiğinde, el değiştirdiğinde veya yok olduğunda muhasebeleştirilir. Bütün malî işlemlerin muhasebeleştirilmesi ve her muhasebe kaydının belgeye dayanması şarttır.
-Kamu borç yönetimine ilişkin olanlarda Hazine Müsteşarlığının uygun görüşünün alınması kaydıyla, merkezî yönetim kapsamındaki kamu idarelerinde malî işlemlerin gerçekleştirilmesi ve muhasebeleştirilmesinde kullanılacak belgelerle şekil ve türleri Maliye Bakanlığınca çıkarılacak yönetmelikle belirlenir.
-Kullanılacak belgelerle ilgili yönetmelikler mahallî idareler için İçişleri Bakanlığı,sosyal güvenlik kurumları için bağlı veya ilgili oldukları bakanlıklar tarafından, Maliye Bakanlığının uygun görüşü alınmak suretiyle hazırlanır ve uygulanır.
+(Mülga ikinci fıkra: 22/12/2005-5436/10 md.)
+(Mülga üçüncü fıkra: 22/12/2005-5436/10 md.)
