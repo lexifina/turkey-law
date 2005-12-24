@@ -1,10 +1,10 @@
-Bütçe ilkeleri
+Bütçe ilkeleri (1)
 MADDE 13 - Bütçelerin hazırlanması, uygulanması ve kontrolünde aşağıdaki ilkelere uyulur:
 a) Bütçelerin hazırlanması ve uygulanmasında, makroekonomik istikrarla birlikte sürdürülebilir kalkınmayı sağlamak esastır.
 b) Kamu idarelerine bütçeyle verilen harcama yetkisi, kanunlarla düzenlenen görev ve hizmetlerin yerine getirilmesi amacıyla kullanılır.
 c) Bütçeler kalkınma planı ve programlarda yer alan politika, hedef ve önceliklere uygun şekilde, idarelerin stratejik planları ile performans ölçütlerine ve fayda-maliyet analizine göre hazırlanır, uygulanır ve kontrol edilir.
 d) Bütçeler, stratejik planlar dikkate alınarak izleyen iki yılın bütçe tahminleriyle birlikte görüşülür ve değerlendirilir.
-e) Bütçe, hükümetin malî işlemlerinin kapsamlı ve saydam bir şekilde görünmesini sağlar.
+e) Bütçe, kamu malî işlemlerinin kapsamlı ve saydam bir şekilde görünmesini sağlar. (1)
 f) Tüm gelir ve giderler gayri safi olarak bütçelerde gösterilir.
 g) Belirli gelirlerin belirli giderlere tahsis edilmemesi esastır.
 h) Bütçelerde gelir ve gider denkliğinin sağlanması esastır.

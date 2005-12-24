@@ -1,7 +1,7 @@
 İKİNCİ BÖLÜM
 Görevleri ve Organları
 Görevleri
-MADDE 3. - Enstitü, ülkenin teknolojik ve endüstriyel gelişmesine katkıda bulunmak amacıyla;
+Madde 3- Enstitü, ülkenin teknolojik ve endüstriyel gelişmesine katkıda bulunmak amacıyla;
 a) Patent, markalar ve endüstriyel tasarımlar ile diğer kanunlarla koruma altına alınmış olan sınaî mülkiyet haklarının ilgili mevzuat hükümleri uyarınca tescilini ve bu hakların korunması ile ilgili işlemleri yapar,
 b) Zorunlu lisans işlemlerinde arabuluculuk faaliyetlerinde bulunur ve mahkemelerde bilirkişilik yapar,
 c) Lisans ve devir anlaşmalarını tescil ve kayıt eder,

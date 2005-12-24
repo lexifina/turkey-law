@@ -1,5 +1,5 @@
 Gelirler, giderler ve bütçe
-MADDE 25. - Enstitünün gelirleri şunlardır:
+Madde 25- Enstitünün gelirleri şunlardır:
 a) Enstitünün yapacağı hizmetler karşılığında alınacak ücretler.
 b) Genel Bütçeden yapılacak yardımlar.
 c) Her türlü yardım ve bağışlar.

@@ -1,5 +1,5 @@
 Organ ve birimler
-MADDE 4. - Enstitü aşağıdaki organ ve birimlerden oluşur:
+Madde 4- Enstitü aşağıdaki organ ve birimlerden oluşur:
 a) Yönetim Kurulu.
 b) Danışma Kurulu.
 c) Başkanlık.

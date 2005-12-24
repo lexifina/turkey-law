@@ -1,4 +1,4 @@
-İKİNCİBÖLÜM
+İKİNCİ BÖLÜM
 Denetim, Gelirler, Giderler ve Bütçe
 Denetim
-MADDE 24. - Enstitü, Başbakanlık Yüksek Denetleme Kurulunun denetimine tâbidir.
+Madde 24- Enstitü, Başbakanlık Yüksek Denetleme Kurulunun denetimine tâbidir.

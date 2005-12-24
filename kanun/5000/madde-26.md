@@ -1,7 +1,7 @@
 ÜÇÜNCÜ BÖLÜM
 Personel
 Personel
-MADDE 26. - Enstitüde Başkan, Başkan Yardımcısı, Daire Başkanı, Hukuk Müşaviri, Müşavir, Şube Müdürü, Patent Uzmanı, Marka Uzmanı, Uzman, Patent Uzman Yardımcısı, Marka Uzman Yardımcısı, Mütercim, Çözümleyici, Programcı, Bilgisayar İşletmeni kadroları karşılık gösterilmek kaydıyla, 657 sayılı Devlet Memurları Kanunu ve diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı kalınmaksızın sözleşmeli personel istihdam edilebilir. Yabancı uzmanlar da sözleşmeli olarak istihdam edilebilir. Yabancı uzmanların istihdamı Enstitünün hazırlayıp Bakanlığın onaylayacağı yönetmeliğe göre yapılır.
+Madde 26- Enstitüde Başkan, Başkan Yardımcısı, Daire Başkanı, Hukuk Müşaviri, Müşavir, Şube Müdürü, Patent Uzmanı, Marka Uzmanı, Uzman, Patent Uzman Yardımcısı, Marka Uzman Yardımcısı, Mütercim, Çözümleyici, Programcı, Bilgisayar İşletmeni kadroları karşılık gösterilmek kaydıyla, 657 sayılı Devlet Memurları Kanunu ve diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı kalınmaksızın sözleşmeli personel istihdam edilebilir. Yabancı uzmanlar da sözleşmeli olarak istihdam edilebilir. Yabancı uzmanların istihdamı Enstitünün hazırlayıp Bakanlığın onaylayacağı yönetmeliğe göre yapılır.
 Belli bir uzmanlık gerektiren nitelikteki iş ve hizmetler için Yönetim Kurulu kararı ile istisna akdi çerçevesinde işlem yapılır.
 Enstitüde sağlık ve eğitim gibi işlerde çalıştırılmak üzere, ihtiyaca göre Yönetim Kurulunun onayı ile yurt içinden ve yurt dışından özel anlaşmalarla sözleşmeli olarak yerli ve yabancı kişiler çalıştırılabilir.
 Bu suretle çalıştırılacakların sözleşme usul ve esasları ile ücret miktarı ve her çeşit ödemeler Bakanlar Kurulunca tespit edilir.

@@ -1,9 +1,9 @@
 İKİNCİ KISIM
 Hizmet Birimleri
-BİRİNCİBÖLÜM
+BİRİNCİ BÖLÜM
 Ana Hizmet Birimleri
 Ana Hizmet Birimleri
-MADDE 11. - Enstitünün ana hizmet birimleri şunlardır:
+Madde 11- Enstitünün ana hizmet birimleri şunlardır:
 a) Patent Dairesi Başkanlığı.
 b) Markalar Dairesi Başkanlığı.
 c) Endüstriyel Tasarımlar Dairesi Başkanlığı.

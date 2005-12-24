@@ -1,14 +1,17 @@
-Tanımlar
+Tanımlar (2)
 MADDE 3- Münhasıran bu Kanunun uygulanmasında;
 a) Genel yönetim kapsamındaki kamu idareleri: Uluslararası sınıflandırmalara göre belirlenmiş olan, merkezî yönetim kapsamındaki kamu idareleri, sosyal güvenlik kurumları ve mahallî idareleri,
 b) Merkezî yönetim kapsamındaki kamu idareleri: Bu Kanuna ekli (I), (II) ve (III) sayılı cetvellerde yer alan kamu idarelerini,
 c) Düzenleyici ve denetleyici kurumlar: Bu Kanuna ekli (III) sayılı cetvelde yer alan kurumları,
 d) Sosyal güvenlik kurumları: Bu Kanuna ekli (IV) sayılı cetvelde yer alan kamu kurumlarını,
-e) Mahallî idare: Yetkileri belirli bir coğrafi alan ve hizmetlerle sınırlı olarak kamusal faaliyet gösteren belediye, il özel idaresi ve bunların kurdukları birlik ve idareyi,
+e) Mahallî idare: Yetkileri belirli bir coğrafi alan ve hizmetlerle sınırlı olarak kamusal faaliyet gösteren belediye, il özel idaresi ile bunlara bağlı veya bunların kurdukları veya üye oldukları birlik ve idareleri,
 f) Bütçe: Belirli bir dönemdeki gelir ve gider tahminleri ile bunların uygulanmasına ilişkin hususları gösteren ve usulüne uygun olarak yürürlüğe konulan belgeyi,
 g) Kamu kaynakları: Borçlanma suretiyle elde edilen imkânlar dahil kamuya ait gelirler, taşınır ve taşınmazlar, hesaplarda bulunan para, alacak ve haklar ile her türlü değerleri,
 h) Kamu gideri: Kanunlarına dayanılarak yaptırılan iş, alınan mal ve hizmet bedelleri, sosyal güvenlik katkı payları, iç ve dış borç faizleri, borçlanma genel giderleri, borçlanma araçlarının iskontolu satışından doğan farklar, ekonomik, malî ve sosyal transferler, verilen bağış ve yardımlar ile diğer giderleri,
 i) Kamu geliri: Kanunlarına dayanılarak toplanan vergi, resim, harç, fon kesintisi, pay veya benzeri gelirler, faiz, zam ve ceza gelirleri, taşınır ve taşınmazlardan elde edilen her türlü gelirler ile hizmet karşılığı elde edilen gelirler, borçlanma araçlarının primli satışı suretiyle elde edilen gelirler, sosyal güvenlik primi kesintileri, alınan bağış ve yardımlar ile diğer gelirleri,
+––––––––––––––––––
+(1) 22/12/2005 tarihli ve 5436 sayılı Kanunun 10 uncu maddesiyle, bu maddenin son fıkrasında yer alan "25" ibaresinden sonra gelmek üzere "42" ibaresi, "43" ibaresinden sonra gelmek üzere "44" ibaresi ve "76" ibaresinden sonra gelmek üzere "78" ibaresi eklenmiş ve metne işlenmiştir.
+(2) 22/12/2005 tarihli ve 5436 sayılı Kanunun 10 uncu maddesiyle, bu maddenin "ve bunların kurdukları birlik ve idareyi" ibaresi "ile bunlara bağlı veya bunların kurdukları veya üye oldukları birlik ve idareleri" şeklinde değiştirilmiş ve metne işlenmiştir.
 j) Özel gelir: Genel bütçe kapsamındaki idarelerin kamu görevi ve hizmeti dışında ilgili kanunlarında belirtilen faaliyetlerinden ve fiyatlandırılabilir nitelikteki mal ve hizmet teslimlerinden sağlanan ve genel bütçede gösterilen gelirleri,
 k) Harcama birimi: Kamu idaresi bütçesinde ödenek tahsis edilen ve harcama yetkisi bulunan birimi,
 l) Kamu malî yönetimi: Kamu kaynaklarının tanımlanmış standartlara uygun olarak etkili, ekonomik ve verimli kullanılmasını sağlayacak yasal ve yönetsel sistem ve süreçleri,

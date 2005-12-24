@@ -1,5 +1,5 @@
 Hukuk Müşavirliği
-MADDE 22. - Hukuk Müşavirliği;
+Madde 22- Hukuk Müşavirliği;
 a) Sınaî mülkiyet hakları ile ilgili mevzuatın günün koşullarına uygun hale getirilmesi için çalışmalar yapar,
 b) Hukuki konularda Yönetim Kuruluna ve Başkanlığa danışmanlık yapar,
 c) Sınaî mülkiyet haklarına ait ulusal ve uluslararası hukukla ilgili anlaşmalar, kanunlar, yönetmelikler, diğer mevzuat, rapor, makale ve benzeri düzenlemeleri hizmete hazır tutar,

@@ -1,2 +1,2 @@
 Yürütme
-MADDE 35. - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Madde 35- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
