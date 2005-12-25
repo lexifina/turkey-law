@@ -1,0 +1,3 @@
+Müdürün görevleri
+Madde 9 — Müdür, Merkezin amaçları doğrultusunda çalışmaların düzenli bir şekilde yürütülmesinden, gözetim ve denetiminden ve gerekli önlemlerin alınmasından Rektöre karşı birinci derecede sorumludur. Merkezi temsil eden Müdür, Yönetim Kuruluna başkanlık eder. Merkez çalışmalarının gerektirdiği görevlendirmeleri yapar. Yönetim Kurulu kararlarını uygular. Her öğretim yılı sonunda ve istendiğinde Merkezin genel durumu ve işleyişi hakkındaki raporunu Yönetim Kurulunun görüşünü aldıktan sonra Rektöre sunar.
+Müdür, görevinden ayrılacağı hallerde yardımcılarından birini vekil bırakır. Vekalet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
