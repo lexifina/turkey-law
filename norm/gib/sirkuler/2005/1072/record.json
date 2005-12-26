@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "ÖİV 2005/1",
+  "source_id": 1072,
+  "date": "2005-12-26",
+  "title": "2006 Yılında Uygulanacak Maktu Özel İletişim Vergisi Tutarı Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/sirkuler/1072",
+  "source_sha256": "6360fd60df30610f9bcd06f11140573409797ab8d9955a39acbff3c1fe5123d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
