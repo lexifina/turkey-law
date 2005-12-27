@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9739",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALİNDE TEK TARAFLI KONTROL SİSTEMİ KAPSAMINDA KOTA UYGULANAN TEKSTİL ÜRÜNLERİNE AİT KOTALARIN BİRİNCİ BÖLÜMÜNÜN DAĞITIMI VE YÖNETİMİNE İLİŞKİN TEBLİĞ (2006/4)",
+  "number": "9739",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2005/9739",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9739&MevzuatTertip=5",
+  "source_sha256": "1e4ed166880ea9e63e105cd35ec9dd94e7376789c791a8a2e07dc5540a6fa896",
+  "source_bytes": 53851,
+  "published": "2005-12-27",
+  "gazette": "26036",
+  "in_force": "2005-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 797,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
