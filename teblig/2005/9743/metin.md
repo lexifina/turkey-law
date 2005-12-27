@@ -1,0 +1,89 @@
+Kurum | Dış Ticaret Müsteşarlığı
+Tebliğin Adı | Çift Taraflı Kontrol Sistemi Kapsamında Kota Uygulanan Tekstil Ürünlerinin İthaline İlişkin Tebliğ
+Tebliğ No | (2006/1)
+Resmî Gazete Tarihi | 27/12/2005
+Resmî Gazete Sayısı | 26036
+ÇİFT TARAFLI KONTROL SİSTEMİ KAPSAMINDA KOTA UYGULANAN TEKSTİL ÜRÜNLERİNİN İTHALİNE İLİŞKİN TEBLİĞ (2006/1) Madde 1- 31/12/2004 tarihli ve 25687 3. mükerrer sayılı Resmi Gazete’de yayımlanan “Belirli Tekstil Ürünleri İthalatında Gözetim ve Korunma Önlemleri Hakkında Yönetmelik” uyarınca, belirli ülkeler menşeli tekstil ürünleri için tespit edilen 2006 yılına ait kota seviyeleri (miktar kısıtlamaları) EK - I’de gösterilmiştir. Madde 2- EK - I’de gösterilen tekstil ürünleri için ithal lisansı talebinde bulunacak ithalatçıların başvurularının değerlendirmeye alınabilmesi için, EK - II’de örneği bulunan başvuru formunu eksiksiz doldurarak, ilgili menşe ülke yetkili makamlarınca düzenlenen ihraç lisansının veya ev sanayii ve folklorik ürünlere ait belgenin aslı ile birlikte, Dış Ticaret Müsteşarlığına (İthalat Genel Müdürlüğü) müracaat etmeleri gerekmektedir. Başvuruya ayrıca, beyan sahibine ait imza sirkülerinin örneği, EK - III’de yer alan taahhütname ve şayet mevcut ise proforma fatura ile taşıma belgesinin (konşimento veya yük senedi) birer sureti eklenir. Madde 3- Dış Ticaret Müsteşarlığınca (İthalat Genel Müdürlüğü) düzenlenecek ithal lisanslarının geçerlilik süresi, düzenlendiği tarihten itibaren 6 (altı) aydır. Madde 4- İthalatçılar, ithal lisansında belirtilen miktarı tek sevkiyatta ithal etmeleri durumunda gümrük yükümlülüğünün doğduğu tarihi müteakip, birden fazla sevkiyatta ithal etmeleri durumunda ise her sevkiyatın gümrük yükümlülüğünün doğduğu tarihi müteakip en geç 15 (onbeş) iş günü içinde, ithal lisansı üzerinde belirtilen bilgiler bazında gerçekleşen ithalata ilişkin istatistiki bilgileri Dış Ticaret Müsteşarlığına (İthalat Genel Müdürlüğü) iletir. İthal lisansları, mücbir sebepler hariç, geçerlilik süresinin bitim tarihinden itibaren en geç 15 (onbeş) iş günü içinde Dış Ticaret Müsteşarlığına (İthalat Genel Müdürlüğü) iade edilir. İthalatçıların ikinci fıkrada yer alan hükmü yerine getirmediklerinin tespiti halinde, mücbir sebepler hariç, müteakip ithal lisansı talepleri, söz konusu ithal lisansı iade edilene kadar değerlendirmeye alınmaz. Madde 5- Bu Tebliğ yayımı tarihinde yürürlüğe girer. Madde 6- Bu Tebliğ hükümlerini Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan yürütür.
+EK - I
+2006 yılında uygulanacak miktar kısıtlamaları
+(Kategori Tanımları İlgili Yönetmeliğin IA ve IB No.lu
+Eklerinde Gösterilmiştir)
+ |  |  | Kota seviyesi
+Ülke adı | Kategori | Birim | 2006
+Belarus (Beyaz Rusya) | GRUP IA |  | 
+ | 1 | ton | 41
+ | 2 | ton | 90
+ | 3 | ton | 29
+ | GRUP IB |  | 
+ | 4 | 1000 adet | 182
+ | 5 | 1000 adet | 74
+ | 6 | 1000 adet | 83
+ | 7 | 1000 adet | 59
+ | 8 | 1000 adet | 77
+ | GRUP IIA |  | 
+ | 9 | ton | 35
+ | 20 | ton | 48
+ | 22 | ton | 572
+ | 23 | ton | 39
+ | 39 | ton | 25
+ | GRUP IIB |  | 
+ | 12 | 1000 çift | 552
+ | 13 | 1000 adet | 443
+ | 15 | 1000 adet | 43
+ | 16 | 1000 adet | 19
+ | 21 | 1000 adet | 77
+ | 24 | 1000 adet | 115
+ | 26/27 | 1000 adet | 125
+ | 29 | 1000 adet | 20
+ | 73 | 1000 adet | 28
+ | 83 | ton | 12
+ | GRUP IIIA |  | 
+ | 33 | ton | 125
+ | 36 | ton | 56
+ | 37 | ton | 132
+ | 50 | ton | 21
+ | GRUP IIIB |  | 
+ | 67 | ton | 74
+ | 74 | 1 000 adet | 50
+ | 90 | ton | 43
+Belarus (Beyaz Rusya) | GRUP IV |  | 
+(devam) | 115 | ton | 22
+ | 117 | ton | 353
+ | 118 | ton | 15
+Vietnam | GRUP IB |  | 
+ | 4 | 1000 adet | 175
+ | 5 | 1000 adet | 123
+ | 6 | 1000 adet | 39
+ | 7 | 1000 adet | 116
+ | 8 | 1000 adet | 93
+ | GRUP IIA |  | 
+ | 9 | ton | 20
+ | 20 | ton | 34
+ | 39 | ton | 44
+ | GRUP IIB |  | 
+ | 12 | 1 000 çift | 327
+ | 13 | 1 000 adet | 291
+ | 14 | 1 000 adet | 14
+ | 15 | 1 000 adet | 175
+ | 18 | ton | 15
+ | 21 | 1 000 adet | 150
+ | 26 | 1 000 adet | 51
+ | 28 | 1 000 adet | 148
+ | 29 | 1 000 adet | 17
+ | 31 | 1 000 adet | 240
+ | 68 | ton | 60
+ | 73 | 1 000 adet | 23
+ | 76 | ton | 18
+ | 78 | ton | 75
+ | 83 | ton | 13
+Vietnam | GRUP IIIA |  | 
+(devam) | 35 | ton | 118
+ | 41 | ton | 238
+ | GRUP IIIB |  | 
+ | 10 | 1 000 çift | 422
+ | 97 | ton | 12
+ | GRUP IV |  | 
+ | 118 | ton | 13
+ | GRUP V |  | 
+ | 161 | ton | 22
+EK - II Çift Taraflı Kontrol Sistemi Kapsamında Kota Uygulanan Tekstil Ürünleri İçin İthal Lisansı Başvuru Formu Örneği ..../.../2006 BAŞBAKANLIK DIŞ TİCARET MÜSTEŞARLIĞINA (İthalat Genel Müdürlüğü) 2006/1 sayılı Tebliğ çerçevesinde ithali çift taraflı kontrol sistemi kapsamında kotaya (miktar kısıtlaması) tabi aşağıda belirtilen ürünler için firmamız adına ithal lisansı düzenlenmesi hususunda gereği müsaadelerine arz olunur. Müsteşarlığınızca talep edilen bilgiler aşağıda beyan edilmiştir. (imza-kaşe) I- İthalatçının: 1) Adı/Ünvanı: 2) Açık adresi: 3) Telefon: Faks No: 4) Vergi numarası: II- Beyan sahibinin: a) Adı/Ünvanı: b) Açık adresi: III- İlgili tedarikçi ülkedeki ihracatçının: a) Adı: b) Açık adresi: IV- İthal edilecek ürünlerin: a) Menşe ülkesi: b) Türkiye’ye ihracı amacıyla sevkiyatının (yüklemenin) yapılacağı ülke: V- İthal edilecek ürünlerin : 1) Ticari tanımı: 2) G.T.İ.P.’na göre ürün tanımı : 3) 12’li bazda G.T.İ.Pozisyonu : Not: 12’li bazda G.T.İ.P.’ları ve G.T.İ.P.’larına göre ürün tanımı İstatistik Pozisyonlarına Bölünmüş Gümrük Giriş Tarife Cetvelinden tespit edilecektir. VI- İthal edilecek ürünlerin yer aldığı kategori : VII- 2006/1 sayılı Tebliğin I No.lu EK’inde gösterilen ölçü birimi cinsinden ithali talep edilen miktar: 1) Rakam ile: 2) Yazı ile: VIII- İhraç lisansının 12 nci hanesinde belirtilen ürün değeri (ev sanayii ve folklorik ürünler söz konusu olduğunda, bunlar için düzenlenen belgenin 10 uncu hanesinde belirtilen ürün değeri): IX- Şayet mevcut ise, ödeme ve teslim tarihi: X- İhraç lisansının veya ev sanayii ve folklorik ürünler için düzenlenen belgenin tarih ve numarası: Ekler: 1- İhraç lisansının veya ev sanayii ve folklorik ürünler için düzenlenen belgenin aslı, 2- Beyan sahibine ait imza sirkülerinin örneği, 3- Taahhütname, 4- Şayet mevcut ise, taşıma belgesinin (konşimento veya yük senedi) ve proforma faturanın birer sureti. EK - III Taahhütname örneği Dış Ticaret Müsteşarlığına İthal lisansı almak için yaptığımız başvuruda yer alan bilgilerin doğru olduğunu, firmamız adına düzenlenen ithal lisansını üçüncü kişilere devretmeyeceğimizi ayrıca, ithal lisansı kapsamı ürünlerin ithalatı ile ilgili istatistiki verileri gümrük yükümlülüğünün doğduğu tarihi müteakip en geç 15 (onbeş) iş günü içinde Müsteşarlığa (İthalat Genel Müdürlüğü) bildireceğimizi ve ithal lisansını geçerlilik süresinin bitiminden itibaren en geç 15 (onbeş) iş günü içinde Müsteşarlığa (İthalat Genel Müdürlüğü) iade edeceğimizi kabul ve taahhüt ederiz. Firma Ünvanı Yetkili İmzalar
