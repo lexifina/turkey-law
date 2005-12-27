@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "610",
+  "decision_date": "2005-12-27",
+  "title": "2006 yılı Elektrik Piyasası Güvence Bedelleri",
+  "resmi_gazete_date": "2005-12-30",
+  "resmi_gazete_number": "26039",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IcMxES6sf9g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IcMxES6sf9g="
+  ],
+  "source_sha256": "9b6dce6ac2b800283c54e67f37a4cbc21b30833256298d657817a4fcd5763b8f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-12-27",
+  "law_text_complete": false
+}
