@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9737",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DİŞ HEKİMLERİNİN YAPACAKLARI MUAYENE VE TEDAVİLERE UYGULANACAK ÜCRETLERİN ASGARİ HADLERİ HAKKINDA TEBLİĞ",
+  "number": "9737",
+  "issuer": "Türk Diş Hekimleri Birliği Genel Başkanı",
+  "path": "teblig/2005/9737",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9737&MevzuatTertip=5",
+  "source_sha256": "51420fe08226da6a0c46a7f0e6343eac6a03b6de5bfeed4dafa36ac0a14e8414",
+  "source_bytes": 343888,
+  "published": "2005-12-27",
+  "gazette": "26036",
+  "in_force": "2005-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2005); own commencement article: \"Bu Tebliğ hükümleri 1/1/2006 tarihinden geçerli olmak üzere, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ hükümleri 1/1/2006 tarihinden geçerli olmak üzere, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2058,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
