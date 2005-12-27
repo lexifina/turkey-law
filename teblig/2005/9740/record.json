@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.9740",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MOTORLU TAŞITLAR VERGİSİ GENEL TEBLİĞİ (Seri No:26)",
+  "number": "9740",
+  "path": "teblig/2005/9740",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9740&MevzuatTertip=5",
+  "source_sha256": "09126b05506344d3f073f0f1b0b8c3844262dad83956c52182930937d1fc45fa",
+  "source_bytes": 52933,
+  "published": "2005-12-27",
+  "gazette": "26036",
+  "in_force": "2005-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1296,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.gelirler.gov.tr/"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
