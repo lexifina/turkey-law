@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9741",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ (Seri No:45)",
+  "number": "9741",
+  "path": "teblig/2005/9741",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9741&MevzuatTertip=5",
+  "source_sha256": "74713b27bd2e44a0a8de64ac86000a0b19e8909d039db9f1cf5aafce295da92b",
+  "source_bytes": 46625,
+  "published": "2005-12-27",
+  "gazette": "26036",
+  "in_force": "2005-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 901,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
