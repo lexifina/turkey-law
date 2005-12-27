@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "608",
+  "decision_date": "2005-12-27",
+  "title": "Başkent Elektrik Dağıtım Anonim Şirketi Dağıtım Bağlantı Tarifesi",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ppdJsU2LBrA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ppdJsU2LBrA="
+  ],
+  "source_sha256": "437392d4f1ee1270e0f4920de1429814ccdfa5acfc23af1ce8046d50d011e5c1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-12-27",
+  "law_text_complete": false
+}
