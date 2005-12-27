@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9745",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TEK TARAFLI KONTROL SİSTEMİ KAPSAMINDA KOTAYA TABİ TEKSTİL ÜRÜNLERİNE AİT KOTALARIN DAĞITIMI VE YÖNETİMİNE İLİŞKİN TEBLİĞ (2006/2)",
+  "number": "9745",
+  "issuer": "Dış Ticaret Müsteşarlığı'nın bağlı olduğu Bakan",
+  "path": "teblig/2005/9745",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9745&MevzuatTertip=5",
+  "source_sha256": "2911132b2b0bcf3b956dadca6294645066a943d7ebdc2c4497d4c67b8b785b57",
+  "source_bytes": 126549,
+  "published": "2005-12-27",
+  "gazette": "26036",
+  "in_force": "2005-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 931,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

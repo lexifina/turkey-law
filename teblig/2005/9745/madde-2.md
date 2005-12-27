@@ -1,0 +1,2 @@
+Madde 2- Söz konusu kotaların dağıtımından yararlanmak isteyen ithalatçılar, EK-II’de yer alan başvuru formunu eksiksiz doldurarak 01/01/2006 tarihinden itibaren Dış Ticaret Müsteşarlığına (İthalat Genel Müdürlüğü) ithal lisansı başvurusunda bulunurlar. Başvuruların değerlendirilmesinde genel evrak kayıt tarihi ve kayıt numarası esas alınır.
+Başvuruya, beyan sahibine ait imza sirkülerinin örneği ve EK-III’de yer alan taahhütname eklenir.
