@@ -1,0 +1,3 @@
+Önergeler
+Madde 19 — Kurul kararına mesnet teşkil edecek önergeler, ilgili Başkan Yardımcısı veya doğrudan Fon Başkanına bağlı birim yöneticileri tarafından Başkanlığa hitaben hazırlanır. Önergelerde konuya ilişkin görüş bildirilmesi ve kararın alınmasına yardımcı olacak her türlü bilgi ve dokümandan bahsedilmesi esastır. Önergede geçen dokümanların önerge eki olarak Başkanlığa iletilmesi zorunludur. Fon Başkanı tarafından uygun görülen önergeler gündeme alınır.
+Önergeler, 18/10/2004 tarihli ve 2004/8125 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Resmi Yazışmalarda Uygulanacak Esas ve Usuller Hakkında Yönetmelik hükümlerine uygun olarak hazırlanır.
