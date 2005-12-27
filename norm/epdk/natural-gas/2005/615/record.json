@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "615",
+  "decision_date": "2005-12-27",
+  "title": "01/01/2006 tarihinden bu konuda yeni bir düzenleme yapılıncaya kadar uygulanmak üzere, sıvılaştırılmış doğal gaz (LNG) toptan satış tarifesi hakkında",
+  "resmi_gazete_date": "2005-12-30",
+  "resmi_gazete_number": "26039",
+  "categories": [
+    "Depolama"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vXhoFaRdZ0o=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vXhoFaRdZ0o="
+  ],
+  "source_sha256": "86f663f45c03c974ac1ba77aab0ea425df827ca6f584fa0f40c8241839486baf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7229,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-12-27",
+  "law_text_complete": false
+}
