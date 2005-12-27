@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "611",
+  "decision_date": "2005-12-27",
+  "title": "Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketi (TETAŞ)",
+  "resmi_gazete_date": "2005-12-30",
+  "resmi_gazete_number": "26039",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bmXoNF9z+A4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bmXoNF9z+A4="
+  ],
+  "source_sha256": "4dbda2f9e94f6fbfc2204513ba0fd6df2110b960e43a72fff9b86689fa0eb489",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-12-27",
+  "law_text_complete": false
+}
