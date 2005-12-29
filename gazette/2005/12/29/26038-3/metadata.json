@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-12-29",
+  "issue": "26038",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/9826 193 Sayılı Gelir Vergisi Kanunu’nun 21, 23/8, 31, 47, 48, 82, 86/1-d ve Mükerrer 121 inci Maddelerinde Yer Alan Tutarlarla İlgili Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051229-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/12/20051229.htm",
+  "index_sha256": "f4e568718013d67b5b73b453a8337b96364f39789d5836fb26f67aeb2291449b",
+  "index_header": "29 Aralık 2005 ... Sayı : 26038",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
