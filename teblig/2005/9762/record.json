@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9762",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2006 YILI SERBEST MUHASEBECİLİK, SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK ASGARİ ÜCRET TARİFESİ",
+  "number": "9762",
+  "path": "teblig/2005/9762",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9762&MevzuatTertip=5",
+  "source_sha256": "ed62f637206090e9cb96c891c5bf57f36473ddea20ba2d0204ad364e610214c0",
+  "source_bytes": 1014438,
+  "published": "2005-12-30",
+  "gazette": "26039",
+  "in_force": "2005-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5416,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
