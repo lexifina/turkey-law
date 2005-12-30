@@ -1,0 +1,5 @@
+Bilanço ilkeleri
+Madde 7 — Bilanço ilkelerinin amacı, sosyal tesisin tasarrufundaki kaynaklar ile bunlarla elde edilen varlıkların muhasebe kayıtlarının yapılması, mali tablolarının hazırlanması ve raporlanması yoluyla, sosyal tesisin belirli bir tarihteki mali durumunun ilgililer için saydam ve gerçeğe uygun olarak yansıtılmasıdır.
+Kapsama dahil sosyal tesisler bilançolarını bu Esas ve Usullerde belirtilen ilkelere ve şekle göre hazırlayıp sunar. Bilançolar hesap tipinde hazırlanır. Hesap tipi bilançonun sol tarafında varlıklar, sağ tarafında ise yabancı kaynaklar ve öz kaynaklar yer alır.
+Bütün varlıklar, yabancı kaynaklar ve öz kaynaklar bilançoda gayrisafi değerleri ile gösterilirler. Bu ilke, bilançonun net değer esasına göre düzenlenmesine bir engel oluşturmaz. Bu doğrultuda net değer bilanço düzenlenmesinin gereği olarak, indirim kalemlerinin ilgili hesapların altında açıkça gösterilmesi esastır.
+Bu amaç doğrultusunda benimsenen bilanço ilkeleri; varlıklar, yabancı kaynaklar ve öz kaynaklar itibarıyla aşağıda belirtilmiştir.

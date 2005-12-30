@@ -1,0 +1,26 @@
+10 - Hazır değerler
+Madde 27 — Bu hesap grubu, nakit olarak elde veya bankada tutulan değerler ile istenildiği zaman değer kaybına uğramadan paraya çevrilme imkanı bulunan varlıkları kapsar. Hazır değerler, niteliklerine göre bu grup içinde açılacak aşağıdaki hesaplardan oluşur.
+100 Kasa Hesabı
+101 Alınan Çekler Hesabı
+102 Banka Hesabı
+103 Verilen Çekler ve Gönderme Emirleri Hesabı (-)
+108 Diğer Hazır Değerler Hesabı
+109 Banka Kredi Kartlarından Alacaklar Hesabı
+100 Kasa hesabı : Bu hesap, kanuni dolaşım niteliğine sahip ulusal paralarla, sosyal tesise intikal eden dövizlerin alınması, verilmesi ve saklanmasına ilişkin işlemlerin izlenmesi için kullanılır. Her ne şekilde olursa olsun döviz olarak intikal eden tutarlar yardımcı hesaplarda izlenir.
+Alındı Belgesi: Sosyal tesis tarafından yapılan her türlü tahsilat karşılığında (çay ocağı, kantin gibi yerlerden elde edilen tahsilatlar dahil) iki nüsha alındı belgesi düzenlenir. Teminat olarak alınan değerler için de bu alındı kullanılır. Alındının birinci nüshası para, çek veya benzeri değerleri teslim edene verilir, ikinci nüshası sosyal tesiste muhafaza edilir. Sosyal tesislerin her bir tahsilat için alındı düzenlemesi mümkün bulunmayan çay ocağı, kantin gibi işletmelerinde, bir günlük tahsilatın tamamı için ödeme kaydedici cihazlardan alınacak gün sonu Z raporlarının toplamı tutarında veya bu cihazın kullanılmadığı yerlerde satılan her bir mal veya hizmet karşılığı düzenlenmesi gereken ve şekli ilgili kamu idaresince belirlenmiş fiş, bilet gibi belgelerin günlük toplam tutarları için bir alındı belgesi düzenlenir. Müteselsil seri ve sıra numarası taşıyan alındı belgesi, ilgili kamu idaresince merkezde veya sosyal tesis tarafından yeteri kadar bastırılır ve alındı kayıt defterine (Örnek: 4) kaydedilerek muhasebe görevlilerine zimmetle verilir. Alındıların merkezde basılması halinde her bir sosyal tesise zimmetle dağıtılır.
+Alındı belgesi asgari olarak aşağıdaki bilgileri ihtiva eder;
+a) Sosyal tesise ilişkin bilgiler. (Kurumun ve sosyal tesisin adı ve adresi)
+b) Para, çek veya benzeri değerleri teslim edenin adı, soyadı veya unvanı ile varsa T.C. kimlik numarası/vergi kimlik numarası,
+c) Seri ve sıra numarası ile düzenlenme tarihi,
+d) Hesap kodu, tutarı ve açıklama ile rakam ve yazıyla yazılmak suretiyle toplam tutarı,
+e) Alındıyı düzenleyenin adı, soyadı ve unvanı ile imzası.
+101 Alınan Çekler Hesabı: Bu hesap, sosyal tesislerin yapacakları tahsilat karşılığı kendileri adına düzenlenmiş banka veya özel finans kurumlarının çeklerinin izlenmesi için kullanılır.
+102 Banka Hesabı: Bu hesap, sosyal tesisler adına bankaya yatırılan paralar ve bankaya takas için verilen çeklerden takas işlemi tamamlananlar ile sosyal tesislerce düzenlenen çek, gönderme emri ve talimatlardan ödendiği veya gönderildiği bildirilen tutarların izlenmesi için kullanılır.
+103 Verilen Çekler ve Gönderme Emirleri Hesabı: Bu hesap, sosyal tesislerin, hesaplarının bulunduğu bankalardan çek, gönderme emri veya talimat ile yaptıracakları ödeme ve göndermelerin izlenmesi için kullanılır.
+Sosyal tesislerin hesaplarının bulunduğu bankalardan yaptırılacak ödemeler için bu bankaların kendi çekleri düzenlenir. Çek, doldurulduktan sonra dipkoçanı, çeki alana imza ettirilerek ikinci parçası ilgiliye verilir.
+Çeklerin rakam ve yazı ile okunaklı bir şekilde doldurulması gerekir. Düzenlenen çekin numarası muhasebeleştirme belgelerinin ilgili sütununa yazılır. Hatalı düzenlenen çekler sol alt köşeden sağ üst köşeye çizilen iki paralel çizgi arasına "iptal" ifadesi ile çekin arkasına iptal edilme nedeni yazılmak ve muhasebe görevlisi tarafından imzalanmak suretiyle iptal edilir. İptal edilen çekler dipkoçanına iliştirilerek saklanır.
+Sosyal tesislerce tahakkuk ettirilerek banka hesabından ilgililerin banka hesaplarına gönderilecek olan tutarlar için üç nüsha gönderme emri veya talimat düzenlenir. Gönderme emri veya talimatın birinci nüshası bankada kalır. Sosyal tesise ait ikinci nüsha ise gönderme işleminin gerçekleşmesi üzerine bankaca onaylanarak tesis görevlisine teslim edilir. Üçüncü nüsha olan dipkoçan sabittir ve ayrıca bir dosyada saklanır.
+Düzenlenen gönderme emri veya talimatta asgari; kurumun ve sosyal tesisin adı, düzenlendiği tarih, gönderilen tutar (rakam ve yazıyla), gönderecek bankanın adı, hesap numarası, nereye gönderildiği veya aktarıldığı, gönderme işleminde gönderme emri kullanılmışsa seri ve sıra numarası, talimat kullanılmışsa seri ve sıra numarası yerine sosyal tesis evrak sıra numarası ve gönderme emri veya talimatı imzalayanın adı soyadı bilgilerine yer verilmelidir.
+108 Diğer Hazır Değerler Hesabı: Bu hesap, hazır değerler hesap grubunda sayılan hesaplar içerisinde tanımlanmayan ve niteliği itibarıyla bu grupta izlenmesi gereken diğer değerler ile kasa ihtiyacı için vezne görevlisi adına düzenlenen çek tutarları ile bunlardan tahsil edilip kasa varlığına dahil edilen tutarlar ve kasa fazlası paraların bankaya gönderilmesi için kullanılır.
+109 Banka Kredi Kartlarından Alacaklar Hesabı: Bu hesap, banka kredi kartlarıyla yapılan tahsilat ve bunlara ilişkin olarak yapılan mahsup ve iade işlemlerinin izlenmesi için kullanılır.
+Bakanlığın döner sermayeli işletmelerin banka kredi kartlarıyla yapacakları tahsilata ilişkin düzenlemesi, sosyal tesislerin banka kredi kartlarıyla yapacakları tahsilatlarda da uygulanır.

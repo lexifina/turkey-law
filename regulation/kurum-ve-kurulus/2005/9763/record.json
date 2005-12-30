@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.9763",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAMU KURUM VE KURULUŞLARINCA İŞLETİLEN SOSYAL TESİSLERİN MUHASEBE UYGULAMALARINA DAİR ESAS VE USULLER",
+  "number": "9763",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2005/9763",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9763&MevzuatTertip=5",
+  "source_sha256": "d7fcc1ff9595aff8bc2c925e776e41909dc46cba58289db05fd1d52c3ab3fd8f",
+  "source_bytes": 100968,
+  "published": "2005-12-30",
+  "gazette": "26039",
+  "in_force": "2005-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6273,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.9763-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
