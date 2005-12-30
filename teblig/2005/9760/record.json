@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.9760",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 257)",
+  "number": "9760",
+  "path": "teblig/2005/9760",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9760&MevzuatTertip=5",
+  "source_sha256": "4fcd9ee69ceed7c2b776f31cbcba0b06090335bea32858f583356b1cd455e411",
+  "source_bytes": 329348,
+  "published": "2005-12-30",
+  "gazette": "26039",
+  "in_force": "2005-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 13654,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.gelirler.gov.tr/",
+    "9.5.9760-Ek-1.xls",
+    "9.5.9760-Ek-2.xls",
+    "9.5.9760-Ek-3.xls",
+    "9.5.9760-Ek-4.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
