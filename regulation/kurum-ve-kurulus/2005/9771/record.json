@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.9771",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DÖKME YÜK GEMİLERİNİN GÜVENLİ BİR ŞEKİLDE YÜKLENMESİ VE BOŞALTILMASI HAKKINDA YÖNETMELİK",
+  "number": "9771",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2005/9771",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9771&MevzuatTertip=5",
+  "source_sha256": "d059214c8288bedb9f8bc9956c246f2adc938d691e06e9854c1c88cd41fd5510",
+  "source_bytes": 62251,
+  "published": "2005-12-31",
+  "gazette": "26040",
+  "in_force": "2005-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2005); own commencement article: \"Bu Yönetmelik, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3414,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

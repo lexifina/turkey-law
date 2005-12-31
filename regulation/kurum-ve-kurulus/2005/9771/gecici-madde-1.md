@@ -1,0 +1,1 @@
+Geçici Madde 1 — Bu Yönetmeliğin 6 ncı maddesi (d) bendinde belirtilen kalite yönetim sistemi, bu Yönetmeliğin yürürlüğe giriş tarihinden itibaren üç yıl içinde kurulur. Sistem belgesinin alınması için ilave olarak bir yıl ek süre verilir.

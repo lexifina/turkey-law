@@ -1,0 +1,3 @@
+Kapsam
+Madde 2 — Bu Yönetmelik; Türkiye’de bulunan bütün terminaller ile bayrakları ne olursa olsun katı dökme yük almak veya boşaltmak için Türkiye’de bulunan bir terminale uğrayan bütün dökme yük gemilerini kapsar.
+Ancak, Denizde Can Emniyeti Uluslararası Sözleşmesinin 1974 (SOLAS) Dökme Yük Gemilerinin Güvenli Yüklenmesi ve Boşaltılmasıyla ilgili Bölüm VI, Kural 7 hükümleri saklı kalmak kaydıyla, dökme yük gemilerine yükleme veya bu gemilerden boşaltma yapmak amacıyla istisnaî durumlarda kullanılan tesislere ve yükleme veya boşaltma işleminin sadece ilgili dökme yük gemisinin teçhizatıyla yapıldığı hallerde uygulanmaz.
