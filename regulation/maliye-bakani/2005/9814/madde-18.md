@@ -1,0 +1,9 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Muhasebe yetkilisi mutemetlerinin hesaplarını başka mutemede devri
+Madde 18- Muhasebe yetkilisi mutemetlerinin görevlerinden geçici veya kesin olarak ayrılmalarında, ayrılan mutemet ile yeni mutemet arasında aşağıda açıklandığı şekilde devir işlemi yapılır.
+a) İzin, hastalık gibi nedenlerle iki aydan daha kısa süreli ayrılmalarda, kasa defterinin günlük toplamı alınarak veznede bulunması gereken para, eski muhasebe yetkilisi mutemedi tarafından yeni muhasebe yetkilisi mutemedine devredilir ve deftere açıklama yapılarak, muhasebe yetkilisi ve muhasebe yetkilisi mutemedi tarafından imzalanır. Bu işlem veznede bulunan diğer değerler için de yapılır.
+b) İki aydan daha uzun süreli geçici ayrılmalar veya kesin ayrılmalarda, kasa defteri ile vezne ve ambarlarda muhafaza edilen diğer değerlere ilişkin yardımcı defterlerin toplamı alınarak vezne ve ambarlarda bulunması gereken para ve değerler, yardımcı defterlerle birlikte eski muhasebe yetkilisi mutemedi tarafından yeni muhasebe yetkilisi mutemedine devredilir. Yapılan bütün devir işlemleri, kasa defteri ve diğer yardımcı defterlerin ilgili sayfasına gerekli açıklamalar yazılarak gösterilir ve ilgili yeni ve eski muhasebe yetkilisi mutemetleri ile muhasebe yetkilisi tarafından imzalanır. Ayrıca, yapılan devirler ayrıntılı olarak tutanağa kaydedilir ve ayrılan muhasebe yetkilisi mutemedine bu devir tutanağının onaylı bir örneği verilir.
+Vezne ve ambarlarda muhafaza edilen kullanılmış alındı nüshaları ile kullanılmamış alındı ve çek ciltleri de yeni muhasebe yetkilisi mutemedine devredilir.
+Devir işlemi, özel mevzuatında aksine bir hüküm belirtilmediği sürece iki gün içinde tamamlanır.
+Görevinden kesin olarak ayrılacak olan muhasebe yetkilisi mutemedi, yukarıda belirtildiği şekilde muhasebe yetkilisine hesabını vererek ibra edilmedikçe görevinden ayrılamaz.

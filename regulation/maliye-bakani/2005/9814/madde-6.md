@@ -1,0 +1,4 @@
+Kefalet aidatı kesilmesi ve teminat alınması
+Madde 6– 6/6/1934 tarihli ve 2720 sayılı Resmi Gazetede yayımlanan 2489 sayılı Kefalet Kanunu kapsamındaki kamu idarelerinin muhasebe yetkilisi mutemetleri, aylıklarını tam olarak almaya başladıkları tarihten itibaren kefalete tabi tutulur. Kefalet Kanunu kapsamı dışında kalan kamu idarelerinin muhasebe yetkilisi mutemetleri özel mevzuatlarındaki hükümlere tabidir.
+Muhasebe yetkilisi mutemetlerinin görevlerinden geçici ayrılmalarında yerlerine, birinci fıkra hükmüne göre aylığından kefalet aidatı kesilen kişilerden görevlendirme yapılması esastır. Ancak, zorunluluk hallerinde Kefalet Kanununun ilgili hükümleri uygulanmak suretiyle diğer personelin de muhasebe yetkilisi mutemedi olarak görevlendirilmesi mümkündür.
+Kefalete tabi tutulan muhasebe yetkilisi mutemetlerinin aylığından kesilen aidatlar mevzuatında öngörülen sürede ilgili kefalet sandığı hesabına ödenir.

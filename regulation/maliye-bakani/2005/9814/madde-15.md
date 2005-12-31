@@ -1,0 +1,6 @@
+Tutulacak defterler
+Madde 15- Muhasebe biriminin veznesinde yapılan tahsilat için veznedar tarafından kasa defteri tutulur. Muhasebe birimi dışında yapılan tahsilat, iade ve göndermeler için ise muhasebe yetkilisi mutemetliklerince, muhasebe yetkilisi mutemetleri kasa defteri ve ilgili diğer defterler tutulur.
+Kasa defterlerinde; tahsilat veya ödemeye esas belgenin yevmiye tarih ve numarası ile tahsilatın tarihi, tahsilat karşılığında verilen alındının sıra numarası, kimden tahsil edildiği veya kime ödendiği, tahsilat veya ödemenin mahiyeti ve tutarı mutlaka gösterilir.
+Muhasebe yetkilisi mutemetleri, yaptıkları tahsilat, iade ve ödemeler ile aldıkları emanet, teminat, menkul değerler ve bunlardan yapılan iadeler ile değerli kağıt işlemlerini ilgili yardımcı defter ve belgelere usulüne uygun olarak kaydetmek ve muhasebe yetkilisinin denetimine her an hazır bulundurmak zorundadır.
+Defterlerin basılı olması durumunda, kullanılmadan önce muhasebe yetkilerince sayfaları sayılır ve kaç sayfadan oluştuğu defterin iç kapak sayfasına yazılarak imza ve mühürle onaylanır.
+Tahsildar ve icra memurlarınca yapılan tahsilatlar için, muhasebe yetkilisi mutemetleri kasa defteri yerine tahsildar ve icra memurları tahsilat bordrosu düzenlenir.
