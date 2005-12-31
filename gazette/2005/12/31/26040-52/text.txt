@@ -1,0 +1,611 @@
+Tebliğ
+Türkiye Muhasebe Standartları Kurulundan:
+Kur Değişiminin Etkilerine İlişkin
+Türkiye Muhasebe Standardı (TMS 21)
+Hakkında Tebliğ
+Sıra No: 13
+Amaç
+Madde 1- Bu Tebliğin amacı; kur değişiminin etkilerine ilişkin 21 nolu Türkiye
+Muhasebe Standardının yürürlüğe konulmasıdır.
+Adı geçen Türkiye
+Muhasebe Standardı bu Tebliğ ekinde yer almıştır.
+Kapsam
+Madde 2- Kur
+değişiminin etkilerine ilişkin Türkiye Muhasebe Standardının kapsamı
+ekli TMS 21 metninde yer almaktadır.
+Hukuki
+Dayanak
+Madde 3- Bu Tebliğ, 28/07/1981 tarih ve 2499 sayılı
+Sermaye Piyasası Kanununun Ek-1 inci maddesi ile 24/02/2004 tarihli ve
+2004/6924 sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren Türkiye Muhasebe
+Standartları Kurulunun Çalışmalarına İlişkin Usul ve Esaslar Hakkında
+Yönetmeliğin 9 uncu maddesinin (b) bendine dayanılarak hazırlanmıştır.
+Tanımlar
+Madde
+4- Bu Tebliğde geçen;
+TMSK ve Kurul: Türkiye Muhasebe
+Standartları Kurulunu,
+TMS: Türkiye Muhasebe Standartlarını,
+TFRS:
+Türkiye Finansal Raporlama Standartlarını,
+ifade eder.
+Yürürlük
+Madde
+5- Bu Tebliğ 31/12/2005 tarihinden sonra başlayan hesap
+dönemleri için geçerli olmak üzere
+yayımlandığı tarihte yürürlüğe girer.
+Yürütme
+Madde
+6- Bu Tebliğ hükümlerini Türkiye Muhasebe Standartları Kurulu
+yürütür.
+EK
+Türkiye
+Muhasebe Standardı
+(TMS 21)
+Kur
+Değişiminin Etkileri
+Amaç
+1. Bir
+işletme; yabancı para birimlerinde işlemler yapmak ya da yurtdışında
+işletmeye sahip olmak suretiyle yabancı faaliyetlerde bulunabilir. Ayrıca,
+bir işletme finansal tablolarını bir yabancı para biriminde sunabilir. Bu
+Standardın amacı, yabancı para işlemlerin ve yurtdışındaki işletmelerin
+finansal tablolara nasıl dahil edileceğini ve finansal tablolarda kullanılan
+para birimine nasıl çevrileceğini düzenlemektir.
+2.
+Hangi
+döviz kuru/kurlarının kullanılacağı ve döviz kurlarındaki değişimin finansal
+tablolar üzerindeki etkilerinin nasıl raporlanacağı bu standardın temel
+konularıdır.
+Kapsam
+3. Bu Standart aşağıdaki durumlarda uygulanır:
+(a) “TMS
+39, Finansal Araçlar: Muhasebeleştirme ve Ölçme” Standardının kapsamında olan türev işlemler
+ve bakiyeler hariç; yabancı para işlemlerin ve yabancı para cinsinden
+bakiyelerin muhasebeleştirilmesinde;
+(b) İşletmenin
+finansal tablolarına konsolidasyon, oransal konsolidasyon ya da özkaynak
+yöntemi uygulanarak dahil edilen yurtdışındaki işletmelerin faaliyet
+sonuçlarının ve finansal durumunun raporlama para birimine çevrilmesinde; ve
+(c) İşletmenin
+faaliyet sonuçlarının ve finansal durumunun
+finansal tablolarda kullanılan para birimine çevrilmesinde.
+4. TMS
+39 bir çok yabancı para türev araçlarına uygulandığından, bu türev araçlar bu
+Standart kapsamı dışındadır. Bununla birlikte; TMS 39’un kapsamında olmayan
+yabancı para türev araçlar (örneğin diğer sözleşmelerde saklı yabancı para
+türev araçlar) bu Standart kapsamındadır. Ayrıca bu Standart, bir işletmenin
+türev araçlarına ilişkin tutarları geçerli para biriminden finansal
+tablolarda kullanılan para birimine çevirirken de uygulanır.
+5. Bu
+Standart, yurtdışındaki işletmedeki net yatırım da dahil olmak üzere, yabancı
+para kalemler için yapılan finansal riskden korunma muhasebesinde uygulanmaz.
+Finansal riskden korunma muhasebesinde TMS 39 hükümleri uygulanır.
+6. Bu
+Standart, bir işletmenin finansal tablolarının bir yabancı para biriminde
+sunulmasında uygulanır ve sonucunda ortaya çıkan finansal tabloların Türkiye
+Finansal Raporlama Standartları’na uygunluğuna yönelik gerekli koşulları
+belirler. Finansal bilgilerin yabancı paraya çevrimlerinde bu koşulların
+sağlanmadığı durumlara ilişkin olarak açıklanacak hususlar bu Standartda
+düzenlenmiştir.
+7. Bu
+Standart, yabancı para işlemlerden kaynaklanan nakit akışlarının Nakit Akış
+Tablosundaki sunumunda ya da yurtdışındaki işletmenin nakit akışlarının
+çevriminde uygulanmaz (bakınız: TMS 7 “Nakit Akış Tabloları”).
+Tanımlar
+8. Bu
+Standart’ta geçen terimlerin anlamı aşağıdaki gibidir:
+Kapanış kuru: Bilanço tarihinde geçerli kurdur.
+Kur farkı: Bir para birimindeki belirli bir tutarın
+diğer bir para birimine farklı kurlardan çevrilmesinden kaynaklanan farktır.
+Döviz kuru: İki para biriminin değişim oranıdır.
+Gerçeğe uygun değer: Karşılıklı pazarlık ortamında, bilgili ve
+istekli taraflar arasında bir varlığın el değiştirmesi ya da bir borcun
+ödenmesi durumunda ortaya çıkması gereken tutardır.
+Yabancı para:İşletmenin geçerli para biriminden farklı para birimidir.
+Yurtdışındaki işletme: Raporlayan işletmenin, kendisininkinden farklı
+bir ülke ya da para biriminde faaliyette bulunan, bir bağlı ortaklığı,
+iştiraki, iş ortaklığı ya da şubesidir.
+Geçerli para birimi: İşletmenin faaliyet gösterdiği temel ekonomik
+çevrenin para birimidir.
+Grup:Bir ana ortaklık ve onun tüm bağlı ortaklıklarıdır.
+Parasal kalemler: Elde tutulan para ile sabit veya belirlenebilir bir
+tutarda para olarak alınacak veya ödenecek varlık ve borçlardır.
+Yurtdışındaki işletmede bulunan net yatırım: Yurtdışındaki işletmenin
+net aktiflerinde raporlayan işletmenin payıdır.
+Finansal tablolarda
+kullanılan para birimi:
+Finansal tabloların sunulduğu para birimidir.
+Geçerli (spot) kur: Hemen teslim halindeki geçerli olan döviz
+kurudur.
+Tanımlarla ilgili ayrıntılar
+Geçerli para birimi
+9. Bir işletmenin faaliyette
+bulunduğu temel ekonomik çevre, genel olarak nakit yarattığı ve harcadığı çevredir.
+Bir işletme, geçerli para biriminin tesbitinde aşağıdaki faktörleri dikkate
+alır:
+(a) Geçerli para birimi:
+(i) Mal ve hizmetlerin satış
+fiyatlarını en çok etkileyen para birimidir (mal ve hizmetlerin satış
+fiyatlarının çoğunlukla bağlı olduğu ve gerçekleştiği para birimidir); ve
+(ii) Rekabet unsurları ve yasal
+düzenlemeleriyle mal ve hizmetlerin satış fiyatlarını en çok etkileyen
+ülkenin para birimidir.
+(b) Mal ve hizmetlere ilişkin işçilik,
+ham madde ve diğer maliyetleri en çok etkileyen para birimidir (sıklıkla, bu
+tür maliyetlerin oluştuğu ve ödendiği para birimidir).
+10. Aşağıdaki faktörler de bir
+işletmenin geçerli para birimine ilişkin kanıt sağlar:
+(a) Finansman faaliyetlerinden
+(borçlanma aracı ya da özkaynağa dayalı finansal araçlar gibi) yaratılan
+fonların para birimi.
+(b) İşletme faaliyetlerine ilişkin
+tahsilatların tutulduğu para birimi,
+11. Yurtdışındaki işletmenin geçerli
+para biriminin ve bu geçerli para biriminin raporlayan işletmeninki ile aynı
+olup olmadığının belirlenmesinde, aşağıdaki ek faktörler dikkate alınır: (Bu
+kapsamda raporlayan işletme, yurtdışındaki işletmeye; bağlı ortaklık,
+iştirak, şube ya da iş ortaklığı olarak sahip olan işletmedir.)
+(a) Yurtdışındaki işletmenin
+faaliyetlerinin önemli derecede özerk olarak veya raporlayan işletmenin bir
+uzantısı şeklinde yürütülüp yürütülmediği. Faaliyetlerin raporlayan
+işletmenin uzantısı olarak yürütülmesine; yurtdışındaki işletmenin sadece
+raporlayan işletmeden ithal edilen malları satması ve hasılatları ona göndermesi
+örnek olarak gösterilebilir. Önemli derecede özerklik durumunda ise;
+yurtdışındaki işletme önemli ölçüde yerel para biriminde nakit ve diğer
+parasal kalemleri biriktirir, giderlerini karşılar, gelir yaratır ve
+borçlanır.
+(b) Raporlayan işletme ile yapılan
+işlemlerin, yurtdışındaki işletmenin toplam faaliyetlerinin yüksek ya da
+düşük bir oranını oluşturması .
+(c) Yurtdışındaki işletmenin
+faaliyetlerinden elde edilen nakit akışlarının raporlayan işletmenin nakit
+akışlarını doğrudan etkileyip etkilemediği ve istenildiği an kendisine
+aktarılmasının mümkün olup olmadığı.
+(d) Raporlayan işletmeden fon desteği
+gerektirmeden, yurtdışındaki işletmenin
+kendi faaliyetlerinden sağladığı nakit akışlarının mevcut ve normal
+koşullarda beklenen borç yükümlülüklerini karşılamaya yeterli olup olmaması.
+12. Yukarıdaki göstergelerin karışık ve
+geçerli para biriminin açık olmadığı durumlarda yönetim; temel işlemlerin,
+olayların ve koşulların ekonomik etkilerini en iyi yansıtan para biriminin
+belirlenmesinde kendi takdirini kullanır. Bu yaklaşımın bir parçası olarak
+yönetim, işletmenin geçerli para biriminin tesbitinde destekleyici bilgileri
+içeren 10 uncu ve 11 inci paragraflardaki göstergeleri dikkate almadan önce,
+9 uncu paragraftaki göstergelere öncelik verir.
+13. Bir işletmenin geçerli para birimi
+işletme ile ilgili temel işlemleri, olayları ve koşulları yansıtır.
+Dolayısıyla, bir kere belirlendikten sonra, işletmeyi etkileyen temel
+işlemler, olaylar ve koşullar değişmediği sürece geçerli para birimi
+değişmez.
+14. Eğer geçerli para birimi yüksek
+enflasyonlu bir ekonominin para birimi ise, işletmenin finansal tabloları
+“TMS 29 Yüksek Enflasyonlu
+Ekonomilerde Finansal Raporlama” Standardına göre yeniden
+düzenlenir. Bir işletme, bu Standarda göre belirlenen geçerli para biriminden
+farklı bir para birimini (ana şirketin geçerli para birimi gibi) geçerli para
+birimi olarak benimseyerek TMS 29’a göre finansal tablolarını yeniden
+düzenlemekten kaçınma yoluna gidemez.
+Yurtdışındaki
+işletmeye yapılan net yatırım
+15. Bir işletme, yurtdışındaki işletmeden alacak ya da borç niteliğinde parasal bir kaleme sahip
+olabilir. Öngörülebilir bir gelecekte gerçekleşmesi planlanmayan ya da
+beklenmeyen bir kalem, özünde, işletmenin yurtdışındaki işletmedeki net yatırımının bir parçasıdır ve bu Standardın 32 nci
+ve 33 üncü paragraflarına göre muhasebeleştirilir. Bu tür parasal kalemler
+uzun vadeli alacakları ya da kredileri içerebilir. Ticari alacak ya da
+borçları içermez.
+Parasal
+kalemler
+16. Parasal bir kalemin temel niteliği, sabit ya da
+belirlenebilir tutarda para biriminin alınması hakkıdır ya da ödenmesi
+yükümlülüğüdür. Örnek olarak; nakit ödenecek emeklilik tazminatları ve
+çalışanlara sağlanan diğer haklar; nakit olarak ödenecek karşılıklar;
+yükümlülük olarak muhasebeleştirilen temettüler gösterilebilir. Benzer
+şekilde, işletmenin değişen sayıdaki kendi özkaynak araçlarının alınması (ya
+da verilmesi) ya da gerçeğe uygun değerine eşdeğer olarak sabit ya da
+belirlenebilir tutardaki para biriminin alınmasıyla (ya da verilmesiyle) sonuçlanacak
+değişken tutarda varlıkların alınması ya da verilmesi parasal bir kalemdir.
+Tersine, parasal olmayan bir kalemin temel niteliği, sabit ya da
+belirlenebilir tutarda para biriminin alınması hakkının (ya da ödenmesi
+yükümlülüğünün) mevcut olmamasıdır. Örnek olarak; mal ve hizmetler için
+önceden ödenen tutarlar (örneğin peşin ödenmiş kira); şerefiye; maddi olmayan
+duran varlıklar; stoklar; maddi duran varlıklar ve parasal olmayan bir
+varlığın teslimatıyla sonuçlanacak karşılıklar verilebilir.
+Standardın gerektirdiği
+yaklaşımın özeti
+17. Finansal tabloların hazırlanmasında,
+her işletme - ister bireysel raporlayan bir işletme olsun, ister yurtdışında
+işletmeleri olan bir işletme olsun (ana ortaklık gibi), isterse de
+yurtdışındaki işletme olsun (bağlı ortaklık ya da şube gibi) – geçerli para
+birimini 9-14 nolu paragraflara göre belirler. İşletme, yabancı para
+kalemleri kendi geçerli para birimine çevirir ve böyle bir çevrimin
+etkilerini 20-37 ve 50 nolu paragraflara uygun olarak raporlar.
+18. Raporlayan işletmelerin çoğu,
+birden çok bireysel şirketlerden oluşur. (Örneğin bir grup, bir ana ortaklık
+ve onun bir ya da daha fazla bağlı ortaklıklarından oluşur.) Bir grubun üyesi
+olsun ya da olmasın, çeşitli türdeki işletmelerin iştirak ya da iş
+ortaklıklarında yatırımı olabilir. Ayrıca, şubelere sahip olabilirler.
+Raporlayan işletmeye dahil edilen her bir bireysel işletmenin, faaliyet
+sonuçlarının ve finansal durumunun raporlayan işletmenin finansal tablolarını
+sunduğu para birimine çevrilmesi gerekir. Bu Standart, raporlayan işletmenin
+finansal tablolarında kullanılan para biriminin herhangi bir para birimi (ya
+da para birimleri) olmasına izin verir.
+Geçerli para birimi finansal tablolarda kullanılan para biriminden
+farklı olan raporlayan işletmeye dahil herhangi bir bireysel işletmenin
+faaliyet sonuçları ve finansal durumu 38-50 nolu paragraflara uygun olarak
+çevrilir.
+19. Bu Standart ayrıca, finansal
+tablolarını hazırlayan bireysel raporlama yapan bir işletmenin ya da “TMS 27 Konsolide ve Bireysel Finansal Tablolar”
+Standardına göre bireysel finansal tablolar hazırlayan bir işletmenin
+finansal tablolarını herhangi bir para biriminde (ya da para birimlerinde)
+sunmasına izin verir. Eğer işletmenin finansal tablolarda kullanılan para
+birimi geçerli para biriminden farklı ise, faaliyet sonuçlarını ve finansal
+durumunu da 38-50 nolu paragraflara uygun olarak çevirir.
+Yabancı para işlemlerin geçerli para biriminde
+raporlanması
+İlk
+muhasebeleştirme
+20. Yabancı para bir işlem, yabancı para
+biriminde gerçekleştirilmiş ya da ödemenin yabancı para biriminde
+gerçekleştirilmesini gerektiren bir işlem olup, aşağıdakileri de kapsar:
+(a) İşletmenin, fiyatları yabancı bir
+para biriminde belirlenen mal ve hizmetleri alıp satması;
+(b) İşletmenin, borç ya da alacak
+tutarları yabancı bir para biriminde belirlenen kredi alması ya da borç
+vermesi; veya
+(c) İşletmenin, yabancı bir para birimi
+cinsinden varlık iktisap etmesi ya da elden çıkarması ile bu tür
+yükümlülüklerin doğması veya ifa edilmesi.
+21. Bir
+yabancı para işlemi ilk muhasebeleştirme sırasında; yabancı para birimindeki
+tutara, geçerli para birimi ile işlem tarihindeki yabancı para birimi
+arasındaki geçerli kur uygulanarak, geçerli para biriminden kaydedilir.
+22. İşlem tarihi, işlemin Türkiye Finansal
+Raporlama Standartları’na göre ilk defa kaydedilmesi gerektiği tarihtir.
+Uygulama kolaylığı nedeniyle, işlem tarihindeki gerçek kura yaklaşan bir
+kurun, örneğin, haftanın ya da ayın ortalama kurunun, o dönem içinde her bir
+yabancı para biriminde gerçekleşen işlemlerin tümü için kullanılması
+mümkündür. Bununla birlikte, döviz kurunun önemli ölçüde dalgalanması
+durumunda dönem için ortalama kur kullanılmaz.
+İzleyen
+bilanço tarihlerinde raporlama
+23. Her bilanço tarihinde aşağıdaki
+çevrim işlemleri gerçekleştirilir:
+(a) Yabancı
+para parasal kalemler kapanış kurundan çevrilir;
+(b) Tarihi
+maliyet cinsinden ölçülen yabancı para birimindeki parasal
+olmayan kalemler işlem tarihindeki döviz kuru kullanılarak çevrilir; ve
+(c) Gerçeğe uygun değerden ölçülen
+yabancı para birimindeki parasal olmayan kalemler gerçeğe uygun değerin
+belirlendiği tarihteki döviz kurları kullanılarak çevrilir.
+24. Bir kalemin defter değeri, ilgili
+diğer Standartlar ile birlikte belirlenir. Örneğin, maddi duran varlıklar
+“TMS 16, Maddi Duran Varlıklar”
+Standardı uyarınca gerçeğe uygun değer ya da tarihi maliyete göre
+değerlenebilir. Defter değerinin tarihi maliyet veya gerçeğe uygun değer
+esasına göre belirlenmesine bakılmaksızın; tutarının bir yabancı para
+biriminde belirlenmesi durumunda, ilgili tutar bu Standart uyarınca geçerli
+para birimine çevrilir.
+25. Bazı kalemlerin defter değeri iki
+ya da daha fazla tutar karşılaştırılarak belirlenir. Örneğin, stokların
+defter değeri “TMS 2, Stoklar”
+Standardına göre maliyet ya da net gerçekleşebilir değerden düşük olanıdır.
+Benzer şekilde, “TMS 36, Varlıklarda
+Değer Düşüklüğü” Standardına göre, değer düşüklüğü göstergesi olan bir
+varlığın defter değeri, muhtemel değer düşüklüğü dikkate alınmadan önceki
+defter değeri ile geri kazanılabilir tutarından düşük olanıdır. Böyle bir
+aktif, parasal değilse ve bir yabancı para biriminden ölçülüyorsa, defter
+değeri aşağıdakiler karşılaştırarak belirlenir:
+(a) Tutarın belirlendiği tarihteki
+döviz kurundan çevrilen maliyet ya da defter değerinden uygun olanı (tarihi
+maliyet cinsinden ölçülen bir kalem için işlem tarihindeki kur); ve
+(b) Değerin belirlendiği tarihteki
+döviz kurundan çevrilen net gerçekleşebilir değer ya da geri kazanılabilir
+tutardan, uygun olanı (bilanço tarihindeki kapanış kuru).
+Bu karşılaştırmanın; geçerli para biriminde bir değer düşüklüğü
+ortaya çıkması, yabancı para biriminde ise değer düşüklüğünün söz konusu
+olmaması ya da bu durumun tam tersi bir etkisi olabilir.
+26. Muhtelif döviz kurları mevcutsa, kullanılan kur; ilgili nakit
+akışlarının ölçüm tarihinde gerçekleşmiş olması durumunda işlemden
+kaynaklanan gelecekteki nakit akışları veya bakiyenin ifa edileceği kurdur.
+Kur
+farklarının muhasebeleştirilmesi
+27. 3 üncü paragrafta açıklandığı
+üzere, yabancı para kalemler için finansal riskten korunma muhasebesi TMS 39
+ile düzenlenmiştir. Finansal riskten korunma muhasebesi bazı kur farklarının,
+bir işletmenin kur farkları için bu Standardın gerektirdiği yaklaşımdan
+farklı bir muhasebeleştirme uygulamasını gerektirir. Örneğin, TMS 39 nakit
+akışına ilişkin finansal risken korunma aracı olarak nitelendirilen parasal
+kalemler üzerindeki kur farklarının, korunmanın etkinliği ölçüsünde
+başlangıçta özkaynaklarda gösterilmesini öngörmektedir.
+28. Parasal
+kalemlerin ödenmesinden ya da dönem içinde veya önceki finansal tablolarda
+ilk muhasebeleştirme sırasında çevrildiklerinden farklı kurlardan
+çevrilmelerinden kaynaklanan kur farkları, 32 nci paragrafta belirtilenler
+hariç olmak üzere, oluştukları dönemde kar veya zararda muhasebeleştirilir.
+29. Yabancı para bir işlemden parasal
+kalemler oluştuğunda ve işlem tarihi ile ödeme tarihi arasında döviz kurunda
+değişim olduğunda, kur farkı oluşur. İşlem, gerçekleştiği muhasebe döneminde
+kapanıyorsa, tüm kur farkı aynı dönemde finansal tablolara yansıtılır. Ancak,
+işlem izleyen bir muhasebe döneminde kapanıyorsa, kapanma tarihine kadar her
+bir dönemde muhasebeleştirilecek kur farkları her dönemde döviz kurlarında
+meydana gelen değişime göre belirlenir.
+30. Parasal
+olmayan bir kalemden kaynaklanan kazanç ya da zarar doğrudan özkaynaklarda
+muhasebeleştirilirse, bu kazanç ya da zararın kurdan kaynaklanan kısmı da
+özkaynaklarda muhasebeleştirilir. Buna karşın, parasal olmayan bir kalemden
+kaynaklanan kazanç ya da zarar, kar ya da zararda muhasebeleştirilirse, bu
+kazanç ya da zararın kurdan kaynaklanan kısmı da kar ya da zararda
+muhasebeleştirilir.
+31. Diğer Standartlar bazı kazanç ve
+zararların doğrudan özkaynaklarda muhsebeleştirilmesini gerektirmektedir.
+Örneğin TMS 16, maddi duran varlıkların yeniden değerlenmesinden kaynaklanan
+bazı kazanç ve zararların doğrudan özkaynaklarda muhasebeleştirilmesini
+gerektirir. Böyle bir aktifin yabancı para cinsinden olması durumunda, bu
+Standardın 23(c) nolu paragrafı uyarınca, yeniden değerlenmiş tutar değerlemenin
+yapıldığı tarihteki kurdan çevrilir ve oluşan kur farkı özkaynaklarda
+muhasebeleştirilir.
+32. Raporlayan işletmenin yurtdışındaki
+işletmesindeki net yatırımının bir parçasını oluşturan (bakınız:15 inci
+paragraf) parasal bir kalemden kaynaklanan kur farkları, raporlayan
+işletmenin bireysel finansal tablolarında ve yurtdışındaki işletmenin kendi
+finansal tablolarında kar ya da zarar olarak muhasebeleştirilir.
+Yurtdışındaki işletmeyi ve raporlayan işletmeyi içeren finansal tablolarda
+(örneğin yurtdışındaki işletme bir
+bağlı ortaklık ise konsolide finansal tablolar), bu tür kur farkları
+başlangıçta özkaynakların ayrı bir unsuru olarak muhasebeleştirilir ve net
+yatırımın elden çıkarılması durumunda 48 inci paragraf uyarınca kar ya da
+zarar olarak muhasebeleştirilir.
+33. Parasal bir kalem raporlayan
+işletmenin yurtdışındaki işletmesine yaptığı net yatırımın bir parçasını
+oluşturuyorsa ve raporlayan işletmenin geçerli para birimindeyse, 28 inci
+paragraf uyarınca yurtdışındaki işletmenin kendi finansal tablolarında kur
+farkı ortaya çıkar. Benzer şekilde, eğer bu kalem yurtdışındaki işletmesinin
+geçerli para birimindeyse 28 inci paragraf uyarınca raporlayan işletmenin
+bireysel finansal tablolarında kur farkı ortaya çıkar. Bu tür kur farkları
+yurtdışındaki işletmeyi ve raporlayan işletmeyi içeren finansal tablolarda
+(yani yurtdışındaki işletmenin konsolidasyon, oransal konsolidasyon ya da
+özkaynak yöntemi ile dahil edildiği finansal tabloda) ayrı bir özkaynak
+unsuru olarak tekrar sınıflandırılır. Ancak, raporlayan işletmenin
+yurtdışındaki işletmeye yaptığı net yatırımın bir parçasını oluşturan parasal
+bir kalem raporlayan işletmenin ya da yurtdışındaki işletmenim geçerli para
+biriminden farklı bir para birimde olabilir. Bu durumda parasal kalemi
+raporlayan işletmenin ya da yurtdışındaki işletmenin geçerli para birimine
+çevirirken oluşan kur farkları, yurtdışındaki işletmeyi ve raporlayan
+işletmeyi içeren finansal tablolarda ayrı bir özkaynak unsuru olarak tekrar
+sınıflandırılmaz (yani kar veya zararda kalır).
+34. Bir işletmenin kayıtlarını geçerli
+para biriminden farklı bir para biriminde tutması durumunda, finansal
+tablolarını hazırlarken tüm tutarlar 20-26 nolu paragraflar uyarınca geçerli
+para birimine çevrilir. Bu uygulama, ilgili kalemlerin başlangıçta geçerli para
+biriminde kaydedilmiş olmasıyla oluşacak tutarlarla aynı sonucu verir.
+Örneğin, parasal kalemler geçerli para birimine kapanış kurundan çevrilir,
+tarihi maliyet esasına göre ölçülen parasal olmayan kalemlein
+muhasebeleştirilmesine dayanak olan işlem tarihindeki döviz kurundan
+çevrilir.
+Geçerli
+para biriminde değişiklik
+35. İşletmenin
+geçerli para biriminde değişiklik olması durumunda işletme, değişim
+tarihinden itibaren ileriye dönük olarak yeni geçerli para birimi için
+geçerli çevrim işlemlerini uygular.
+36. 13 üncü paragrafta belirtildiği
+üzere, bir işletmenin geçerli para birimi, işletme için temel oluşturan
+işlemleri, olayları ve koşulları yansıtır. Dolayısıyla, geçerli para birimi belirlendikten
+sonra sadece bu işlemler, olaylar ve koşullarda değişiklik olması durumunda
+değiştirilebilir. Örneğin, mal ve hizmetlerin satış fiyatını en çok etkileyen
+para birimindeki bir değişiklik işletmenin geçerli para birimini değiştirmeye
+sebep olabilir.
+37. Geçerli para birimindeki
+değişikliğin etkisi ileriye dönük olarak muhasebeleştirilir. Diğer bir
+deyişle, işletme tüm kalemleri yeni geçerli para birimine değişim tarihindeki
+döviz kurunu kullanarak çevirir. Çevrim sonrası oluşan tutarlar parasal
+olmayan kalemler için tarihi maliyet olarak dikkate alınır. Yurtdışındaki
+işletmenin çevriminden doğan ve daha önce 32 ve 39(c) nolu paragraflar
+uyarınca özkaynaklarda sınıflandırılan kur farkları, faaliyetin elden
+çıkarıldığı tarihe kadar kar ya da zarar olarak muhasebeleştirilmez.
+Finansal
+tablolarda geçerli para biriminden farklı bir para biriminin kullanılması
+Finansal
+tablolarda kullanılan para birimine çevrim
+38. İşletme, finansal tablolarını
+herhangi bir para biriminde (ya da para birimlerinde) sunabilir. Finansal
+tablolarda kullanılan para biriminin işletmenin geçerli para biriminden
+farklı olması durumunda işletme, faaliyet sonuçlarını ve finansal durumunu
+finansal tablolarda kullanılan para birimine çevirir. Örneğin bir grup,
+farklı geçerli para birimleri olan işletmelerden oluşuyorsa, konsolide
+finansal tabloların sunulabilmesi için her bir işletmenin faaliyet sonuçları
+ve finansal durumu ortak bir para biriminden ifade edilir.
+39. Geçerli
+para birimi yüksek enflasyonlu bir ekonominin para birimi olmayan bir
+işletmenin faaliyet sonuçları ve finansal durumu, finansal tablolarda
+kullanılan farklı para birimine aşağıdaki işlemler uygulanarak çevrilir:
+(a) Sunulan
+her bilançonun aktif ve yabancı kaynakları (karşılaştırmalı olanlar dahil
+olmak üzere) bilanço tarihindeki kapanış kurundan çevrilir;
+(b) Her
+gelir tablosunun gelir ve giderleri (karşılaştırmalı olanlar dahil olmak
+üzere) işlem tarihlerindeki döviz kurlarından çevrilir; ve
+(c) Ortaya
+çıkan tüm kur farkları, özkaynakların ayrı bir unsuru olarak
+muhasebeleştirilir.
+40. Uygulama
+kolaylığı nedeniyle, gelir ve gider kalemleri için işlemlerin yapıldığı
+tarihlerdeki döviz kurlarına yaklaşık bir kurun, örneğin dönemin ortalama
+kurunun kullanılması mümkündür. Ancak, döviz kurlarının önemli ölçüde
+dalgalanması durumunda dönem için ortalama kur kullanılmaz.
+41. 39(c) nolu paragrafta düzenlenen
+kur farkları aşağıdakilerden kaynaklanır:
+(a) Gelir ve giderlerin işlem
+tarihindeki döviz kurlarından ve aktif ve yabancı kaynakların kapanış
+kurundan çevrilmesi.
+Gelir ve gider kalemlerine ilişkin bu tür kur farkları,
+kar veya zararda ya da doğrudan özkaynaklarda muhasebeleştirilen gelir ve
+gider kalemlerinden kaynaklanır.
+(b) Dönembaşı net aktiflerin öncekinden
+farklı bir kapanış kurundan çevrilmesi.
+Bu kur farkları kar veya zararda muhasebeleştirilmez,
+çünkü döviz kurlarındaki değişim faaliyetin şimdiki ve gelecekteki nakit
+akışlarını ya hiç etkilemez ya da çok az etkiler. Kur farkları, konsolide
+edilen ancak tamamen sahip olunmayan yurtdışındaki bir işletme ile ilgili
+ise, çevrimden kaynaklanan ve azınlık paylarına isabet eden kümülatif kur
+farkları, konsolide bilançoda azınlık paylarının bir parçası olarak
+muhasebeleştirilir.
+42. Geçerli
+para birimi yüksek enflasyonlu bir ekonominin para birimi olan bir işletmenin
+faaliyet sonuçları ve finansal durumu, finansal tablolarda kullanılan farklı
+para birimine aşağıdaki işlemlere göre çevrilir:
+(a) (b)
+fıkrasında belirtilen husus hariç olmak üzere tüm tutarlar, en son bilanço tarihindeki
+kapanış kurundan çevrilir (karşılaştırmalı olanlar dahil olmak üzere
+aktifler, pasifler, özkaynak kalemleri, gelir ve giderler),
+(b) Tutarların
+yüksek enflasyonlu olmayan bir ekonominin para birimine çevrilmesi durumunda,
+karşılaştırmalı tutarlar önceki yılın finansal tablolarında cari yıl
+tutarları olarak sunulan tutarlar olacaktır (fiyat seviyelerinde ya da döviz
+kurlarındaki müteakip değişimler nedeniyle düzeltme yapılmaz).
+43. Yüksek
+enflasyonlu olmayan bir ekonominin para birimine çevrilen karşılaştırmalı
+tutarlar hariç (bakınız: 42/b nolu paragraf), işletmenin geçerli para birimi
+yüksek enflasyonlu bir ekonominin para birimi ise, işletme 42 nci paragrafta
+belirtilen çevirme yöntemini kullanmadan önce, finansal tablolarını TMS 29
+Standardına göre düzeltir. Ekonomi yüksek enflasyonlu olma özelliğini
+yitirdiğinde ve işletme finansal tablolarını TMS 29’a göre düzeltme
+uygulamasına son verdiğinde; finansal tablolarını düzeltmeyi bıraktığı
+tarihteki fiyat seviyelerine göre düzeltilmiş tutarları tarihi maliyet olarak
+kabul ederek finansal tablolarda kullanılan para birimine çevirir.
+Yurtdışındaki
+işletmenin çevrimi
+44. 38-43 nolu paragraflara ek olarak,
+45-47 nolu paragraflar; yurtdışındaki işletmenin faaliyet sonuçlarının ve
+finansal durumunun, raporlayan işletmenin finansal tablolarına konsolidasyon,
+oransal konsolidasyon ya da özkaynak yöntemi ile dahil olabilmesi için,
+finansal tablolarda kullanılan para birimine çevrilmesinde uygulanır.
+45. Yurtdışındaki işletmenin faaliyet
+sonuçlarının ve finansal durumunun raporlayan işletmeninkiler ile
+birleştirilmesinde, grup içi bakiyelerin ve işlemlerin eliminasyonu gibi
+normal konsolidasyon işlemleri (bakınız: “TMS 27 Konsolide ve Bireysel ve
+Finansal Tablolar” ve “TMS 31 İş Ortaklıklarındaki Paylar”) uygulanır. Ancak,
+grup içi parasal bir aktif (ya da pasif), kısa veya uzun vadeli olmasına
+bakılmaksızın, yabancı para dalgalanmalarının sonuçlarını konsolide finansal
+tablolarda göstermeden, ilgili grup içi borçla (ya da aktif kalemle) elimine
+edilemez. Çünkü parasal kalem, bir para birimini diğerine çevirme yükümlülüğü
+taşır ve raporlayan işletmeyi yabancı para dalgalanmalarında kazanç ya da
+kayba açık hale getirir. Dolayısıyla, raporlayan işletmenin konsolide
+finansal tablolarında bu tür kur farklarının kar ya da zarar olarak
+muhasebeleştirilmesine devam edilir veya 32 nci paragrafta belirtilen
+durumlardan kaynaklanması durumunda yurtdışındaki işletmenin elden
+çıkarılmasına kadar özkaynak olarak sınıflandırılır.
+46. Yurtdışındaki
+işletmenin finansal tablolarının raporlayan işletmeninkinden farklı bir tarih
+itibarıyla olması durumunda, yurtdışındaki işletme raporlayan işletmenin
+finansal tablolarının tarihiyle aynı tarihli ilave tablolar hazırlar. Bu
+yapılmadığında, TMS 27 farkın üç ayı geçmemesi ve farklı tarihler arasında
+gerçekleşen önemli işlem ya da olayların etkilerini yansıtacak şekilde
+düzeltmeler yapılması koşuluyla, farklı bir raporlama tarihi kullanılmasına
+izin verir. Böyle bir durumda, yurtdışındaki işletmenin aktifleri ve
+pasifleri kendi bilanço tarihindeki döviz kurundan çevrilir. Raporlayan
+işletmenin bilanço tarihine kadar olan önemli döviz kuru değişimleri için TMS
+27’ye uygun olarak düzeltmeler yapılır. Aynı yaklaşım, “TMS 28, İştiraklerdeki Yatırımlar”
+ve TMS 31 Standartlarına göre iştirak ve iş ortaklıklarına özkaynak
+yönteminin uygulanması ile iş ortaklıklarına oransal konsolidasyon
+uygulanmasında da kullanılır.
+47. Yurtdışındaki
+işletmenin iktisabında
+ortaya çıkan şerefiye ve yine bu iktisap sırasında aktif ve pasiflerin defter
+değerlerine yapılan gerçeğe uygun değer düzeltmeleri, yurtdışındaki
+işletmenin aktif ve pasifleri olarak dikkate alınır. Bundan dolayı, yurtdışındaki
+işletmenin geçerli para birimi cinsinden ifade edilirler ve 39 uncu ve 42 nci
+paragraflara göre kapanış kurundan çevrilirler.
+Yurtdışındaki
+işletmenin elden çıkarılması
+48. Yurtdışındaki
+işletmenin elden çıkarılmasında, özkaynakların ayrı bir unsuru olarak
+kaydedilmiş olan bu işletmeye ait birikmiş kur farkları, elden çıkarılma
+kazancı ya da kaybı muhasebeleştirildiğinde kar ya da zararı olarak finansal
+tablolara yansıtılır.
+49. Bir işletme, yurtdışındaki
+işletmesini satış, tasfiye, sermaye payının geri ödenmesi ya da işletmenin
+bir kısmından ya da tamamından vazgeçme şeklinde elden çıkarabilir. Temettü
+ödemesi, iktisap öncesi karlardan ödenmesi durumunda olduğu gibi, sadece
+yatırımın geri dönüşünün bir parçası ise elden çıkarmanın bir unsuru olarak
+değerlendirilir. Kısmi elden çıkarma durumunda, kümülatif kur farklarının
+sadece ilgili kısma isabet eden bölümü kazanç ya da zarara dahil edilir.
+Yurtdışındaki işletmenin defter değerindeki düşüşler kısmi elden çıkarma
+olarak değerlendirilmez. Dolayısıyla, ertelenen kur farkı kazanç ya da
+kaybının herhangi bir kısmı değer düşüklüğünün yansıtılması sırasında kar ya
+da zarar olarak muhasebeleştirilmez.
+Tüm kur
+farklarının vergi etkileri
+50. Yabancı para işlemlerden doğan kazanç ve kayıpları ile
+işletmenin (yurtdışındaki
+işletme dahil) faaliyet sonuçlarının ve finansal
+durumunun farklı bir para birimine çevrilmesinden doğan kur farklarından
+kaynaklanabilecek vergi etkilerinin muhasebeleştirilmesinde TMS 12 Standardı
+hükümleri uygulanır.
+Açıklamalar
+51. 53
+ve 55-57 nolu paragraflarda düzenlenen ‘geçerli para birimi’ grup sözkonusu
+olduğunda ana şirketin geçerli para birimine uygulanır.
+52. İşletme aşağıdakileri kamuya
+açıklar:
+(a) TMS
+39’a göre finansal araçların gerçeğe uygun değere göre ölçülmesinden
+kaynaklanan ve kar veya zararda muhasebeleştirilen kur farkları hariç olmak
+üzere, kar veya zararda muhasebeleştirilen kur farkları tutarı; ve
+(b) Özkaynakların
+bir unsuru olarak ayrıca sınıflandırılan net kur farkları ile dönem başındaki
+ve dönem sonundaki bu tür kur farkları tutarlarının mutabakatı.
+53. Finansal
+tablolarda kullanılan para biriminin geçerli para biriminden farklı olması
+durumunda, geçerli para biriminin ne olduğu ve neden farklı bir para birimi
+kullanıldığı gerekçesiyle birlikte açıklanır.
+54. Raporlayan
+işletmenin ya da yurtdışındaki önemli bir işletmenin geçerli para birimi
+değiştiğinde, bu durum ve değişimin nedeni açıklanmalıdır.
+55. İşletmenin
+finansal tablolarını geçerli para biriminden farklı bir para biriminde
+sunması durumunda, finansal tablolarının Türkiye Finansal Raporlama Standartları
+ile uyumlu kabul edilebilmesi için ilgili her Standardın gerekleriyle ve 39
+uncu ve 42 nci paragraflarda açıklanan çevirme yöntemi dahil olmak üzere bu
+Standartların ilgili tüm yorumlarıyla uyumlu olması gerekir.
+56. Bazı durumlarda işletme, finansal
+tablolarını ve diğer finansal bilgilerini 55 inci paragraftaki gerekleri
+yerine getirmeden, geçerli para birimi olmayan bir para biriminde sunar.
+Örneğin, bir işletme sadece finansal tablolarından seçilmiş bazı kalemleri
+başka bir para birimine çevirir. Ya da, geçerli para birimi yüksek
+enflasyonlu bir ekonominin para birimi olmayan bir işletme, finansal
+tablolarını tüm kalemleri kapanış kurundan başka bir para birimine çevirir.
+Bu tür çevrimler Türkiye Finansal Raporlama Standartları’na uygun olmayıp, 57
+nci paragrafta belirtilen açıklamaların yapılması gerekir.
+57. Bir işletme finansal tablolarını ve
+diğer finansal bilgilerini geçerli para biriminden ya da finansal tablolarda
+kullanılan para biriminden farklı bir para biriminde gösterirse ve 55 inci paragraftaki
+gerekler yerine getirilmezse:
+(a) Bu bilgileri, Türkiye Finansal
+Raporlama Standartlarıyla uyumlu bilgilerden açık bir şekilde ayırtetmek için
+ek bilgiler olarak tanımlar;
+(b) Ek bilgilerin hazırlandığı para
+birimini açıklar; ve
+(c) İşletmenin geçerli para birimini
+ve ek bilgilerin çevrim yöntemini açıklar.
+Geçiş hükümleri
+58. “-“
+59. İşletme bu Standart’ın ilk defa
+uygulandığı finansal raporlama döneminin başından itibaren gerçekleşen tüm
+iktisaplar için 47 nci paragraf hükümlerini ileriye dönük olarak uygular.
+Ayrıca önceki iktisaplara 47 nci paragrafın geriye dönük olarak uygulanması
+da mümkündür. İleriye dönük olarak değerlendirilen ancak bu Standardın ilk
+defa uygulanma tarihinden önce gerçekleşen
+bir yurtdışındaki işletmenin iktisabında, işletme önceki yılları yeniden
+düzeltmeyecek ve dolayısıyla da, uygun olduğunda, iktisaptan kaynaklanan
+şerefiye ve gerçeğe uygun değer düzeltmelerini yurtdışındaki işletmesinin
+aktif ve pasiflerinden ziyade, işletmenin aktifleri ve pasifleriymiş gibi dikkate
+alacaktır. Bu nedenle, bu şerefiye ve gerçeğe uygun değer düzeltmeleri ya
+halihazırda işletmenin geçerli para biriminden ifade edilmişlerdir ya da
+iktisap tarihindeki döviz kuru kullanılarak raporlanan parasal olmayan
+yabancı para kalemlerdir.
+60. Bu Standardın uygulanmasından
+kaynaklanan diğer tüm değişiklikler “TMS 8, Muhasebe Politikaları, Muhasebe
+Tahminlerinde Değişiklikler ve Hatalar” Standardına göre muhasebeleştirilir.
