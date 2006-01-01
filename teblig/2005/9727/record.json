@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9727",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4077 SAYILI TÜKETİCİNİN KORUNMASI HAKKINDA KANUN’UN 4822 SAYILI KANUN İLE DEĞİŞİK 25 İNCİ MADDESİNE, 5326 SAYILI KABAHATLER KANUNU’NUN 3 ÜNCÜ VE 17/7 NCİ MADDELERİNE GÖRE 2006 YILINDA UYGULANACAK OLAN İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ (TEBLİĞ NO : 2005/03)",
+  "number": "9727",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "path": "teblig/2005/9727",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9727&MevzuatTertip=5",
+  "source_sha256": "56a5a3ab2a4fc46d194c6cd92a3485edd2d8e742463d45aa557755028e782bdf",
+  "source_bytes": 24928,
+  "published": "2005-12-23",
+  "gazette": "26032",
+  "in_force": "2006-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2006 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2006 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 294,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
