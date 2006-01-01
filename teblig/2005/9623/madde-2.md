@@ -1,0 +1,1 @@
+Madde 2 — Bu Tebliğ, 21/2/1959 tarihli ve 7397 sayılı Sigorta Murakabe Kanununun 16/6/1994 tarihli ve 539 sayılı Kanun hükmünde kararname ile değişik 7 nci maddesinin ikinci fıkrasına dayanılarak hazırlanmıştır.

@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9623",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BAZI SİGORTA BRANŞLARININ ADLARININ DEĞİŞTİRİLMESİ HAKKINDA TEBLİĞ",
+  "number": "9623",
+  "issuer": "Hazine Müsteşarlığının bağlı bulunduğu Devlet Bakanı",
+  "path": "teblig/2005/9623",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9623&MevzuatTertip=5",
+  "source_sha256": "3a16605aa4554b1b934b192eedc4191d4fe489ad0d7149930ee288956e70256e",
+  "source_bytes": 9950,
+  "published": "2005-11-22",
+  "gazette": "26001",
+  "in_force": "2006-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2006 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2006 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 122,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
