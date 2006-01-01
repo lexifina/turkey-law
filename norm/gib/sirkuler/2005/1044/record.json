@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "TMH-1/2005-1",
+  "source_id": 1044,
+  "date": "2005-12-29",
+  "title": "01/01/2006 tarihinden itibaren muayene istasyonlarınca alınacak muayene ücretleri hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/sirkuler/1044",
+  "source_sha256": "62903bdf78dd924f40e375e4649de9f97dc6613ba8fa2d3750b1885c1db51172",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
