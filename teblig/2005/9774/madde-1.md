@@ -1,0 +1,3 @@
+BAZI MADENİ PARALARIN TEDAVÜLDEN KALDIRILMASI HAKKINDA TEBLİĞ
+Madde 1 — 1264 sayılı Madeni Ufaklık ve Hatıra Para Bastırılması Hakkında Kanunun 5 inci maddesi uyarınca; tedavülde bulunan madeni paralardan 5083 sayılı "Türkiye Cumhuriyeti Devletinin Para Birimi Hakkında Kanunun geçici 1 inci maddesi gereğince Yeni Türk Lirası ve Yeni Kuruşlar ile birlikte 1 Ocak 2005 ile 31 Aralık 2005 tarihleri arasında tedavül eden 50.000, 100.000 ve 250.000 Türk Lirası 31 Aralık 2005 tarihinden itibaren tedavülden kaldırılmıştır.
+Aşağıda özellikleri belirtilen 50.000 TL, 100.000 TL ve 250.000 TL’ lik madeni paralar 1/1/2006 tarihinden 31/12/2006 tarihine kadar bir yıl boyunca Türkiye Cumhuriyet Merkez Bankası ve T.C. Ziraat Bankası şubelerinde kabul edilecek ve değiştirilecektir.
