@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9693",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 45)",
+  "number": "9693",
+  "issuer": "Gümrük Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2005/9693",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9693&MevzuatTertip=5",
+  "source_sha256": "69b2844e2fdc8bbcd931d630fa88a08d1c5b6d12311f02bc40c4ed4104ecc531",
+  "source_bytes": 14406,
+  "published": "2005-12-15",
+  "gazette": "26024",
+  "in_force": "2006-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2006 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2006 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 241,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
