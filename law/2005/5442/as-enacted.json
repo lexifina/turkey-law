@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5442",
+  "year": 2005,
+  "title": "Terör ve Terörle Mücadeleden Doğan Zararların Karşılanması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-01-03",
+  "gazette_issue": "26042",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060103-2.htm",
+  "source_sha256": "622088d54231c677c7e310b7bcc3d8c1a455822edd4d82b8834ed78ef49363ed",
+  "text_sha256": "530eaf78cda16b7a6d266b828252318745532973a6e0c45f2f321f701c6d5532",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/01/03/26042-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060103-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
