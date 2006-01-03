@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-01-03",
+  "issue": "26042",
+  "edition": "regular",
+  "item": 5,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Altındağ Belediye Başkanlığı İmar ve İstimlak Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/01/20060103-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (49 = 49)",
+  "ilan_codes": [
+    "16391/1-1",
+    "16533/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/01/20060103-4.htm",
+  "category_page_sha256": "44e956b60073dadc76215f06b8c996dee9c6ac4b7e3b6cb1ae99b992db22f1f9",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/01/20060103.htm",
+  "index_sha256": "74e44c59e6ecb4f14682b07cbda85396655a674d635ffc8e3792763410d0b95e",
+  "index_header": "3 Ocak 2006 ... Sayı : 26042",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
