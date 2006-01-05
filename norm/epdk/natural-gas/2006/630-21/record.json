@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "630/21",
+  "decision_date": "2006-01-05",
+  "title": "Doğal Gaz Piyasası Dağıtım ve Müşteri Hizmetleri Yönetmeliğinde Değişiklik Yapılmasına",
+  "resmi_gazete_date": "2006-01-27",
+  "resmi_gazete_number": "26062",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=C62jOOGmLxA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=C62jOOGmLxA="
+  ],
+  "source_sha256": "d85058c5c6170b1960e8b642989cc8afc4c405dce0a85bf49f6da3142c8598b4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-01-05",
+  "law_text_complete": false
+}
