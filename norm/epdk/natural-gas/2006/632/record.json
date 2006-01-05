@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "632",
+  "decision_date": "2006-01-05",
+  "title": "2006 Yılı Ulusal Doğal Gaz Tüketim tahminine İlişkin Kurul Kararı",
+  "resmi_gazete_date": "2006-01-26",
+  "resmi_gazete_number": "26061",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5CUebeEuFvI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5CUebeEuFvI="
+  ],
+  "source_sha256": "8b9f6e5d2acf02790c9692837446a7bef663ba915629969484b4f389ef114459",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-01-05",
+  "law_text_complete": false
+}
