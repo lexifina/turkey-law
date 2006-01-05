@@ -1,0 +1,2 @@
+Karar
+Madde 4 — İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 8509.10.10.00.00 GTİP’li "Gerilimi 110 volt veya daha fazla olanlar" başlığı altında yer alan elektrikli süpürgelerin ithalatına yönelik olarak 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği (Yönetmelik) hükümleri çerçevesinde korunma önlemi soruşturması açılmasına karar vermiştir.
