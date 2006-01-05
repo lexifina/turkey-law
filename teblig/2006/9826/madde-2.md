@@ -1,0 +1,4 @@
+İthalat
+Madde 2 — Söz konusu maddelerin toplam ithalatı 2001 yılında 7.234.989 çift iken, 2002-2004 yılları için sırasıyla 11.989.318 çift, 22.245.279 çift ve 23.543.989 çift olmuştur. 2004 yılı Ocak-Ekim döneminde 21.857.004 çift olan ithalat 2005 yılının aynı döneminde 26.956.421 çift seviyesinde gerçekleşmiştir.
+Başvuru konusu maddelerin genel ithalatı için hesaplanan ağırlıklı ortalama CIF birim fiyatları 2001-2004 yılları için sırasıyla 10; 8; 7 ve 12 ABD Doları/çift olarak gerçekleşmiştir. 2004 yılı Ocak-Ekim döneminde genel ithalat için hesaplanan ağırlıklı ortalama CIF birim fiyatı 11 ABD Doları/çift iken, 2005 yılının aynı döneminde 13 ABD Doları/çift olarak gerçekleşmiştir.
+İthalat miktarına ilişkin değerlendirmelerde Dahilde İşleme Rejimi kapsamında yapılan ithalat hariç tutulmuştur.
