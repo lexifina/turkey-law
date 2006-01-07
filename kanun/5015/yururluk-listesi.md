@@ -5,3 +5,4 @@ Değiştiren Kanunun/ Tebliğin/İptal Eden Anayasa Mahkemesinin Kararının Num
 6/2/2004 tarihli ve 25365 sayılı R:G’de yayımlanan Tebliğ | 19 | 1/1/2004
 31/12/2004 tarihli ve 25687 (3. Mükerrer) sayılı R.G.’de yayımlanan Tebliğ | 19 | 1/1/2005
 5398 | Geçici Madde 2 | 21/7/2005
+7/1/2006 tarihli ve 26046 sayılı R.G.’de yayımlanan Tebliğ | 19 | 1/1/2006
