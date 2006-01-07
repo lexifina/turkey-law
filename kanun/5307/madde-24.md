@@ -2,3 +2,11 @@ Yürütme
 MADDE 24 —Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 –––––––––––––––
 (1) 24/6/2005 tarihli ve 5374 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan "1.1.2005 ilâ 31.12.2005 tarihleri" ibaresi "1.6.2003 ilâ 31.12.2005 tarihleri" olarak değiştirilmiştir.
+5307 sayılı Kanunun 16 ncı Maddesindeki Para Cezası Miktarlarıyla İlgili Tablo
+(Enerji Piyasası Düzenleme Kurumunun 6/1/2006 tarihli ve 26046 sayılı Resmi Gazete’de yayımlanan Tebliği ile 5307 sayılı Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu ve Elektrik Piyasası Kanununda Değişiklik Yapılmasına Dair Kanunun 16 ncı maddesinde yer alan para cezası miktarları, 2006 yılında aşağıdaki tabloda hesaplandığı gibi uygulanacaktır.)
+İLGİLİ KANUN MADDESİ | KANUNDA ÖNGÖRÜLEN PARA CEZALARI (TL) | 2006 YILINDA UYGULANACAK PARA CEZALARI (YTL)
+16 ncı Maddenin İkinci Fıkrasının (a) Bendi | 500.000.000.000 | 549.000
+16 ncı Maddenin İkinci Fıkrasının (b) Bendi | 200.000.000.000 | 219.600
+16 ncı Maddenin İkinci Fıkrasının (c) Bendi | 50.000.000.000 | 54.900
+16 ncı Maddenin İkinci Fıkrasının (ç) Bendi | 100.000.000 | 109
+16 ncı Maddenin Dördüncü Fıkrası | 1.000.000.000 | 1.098

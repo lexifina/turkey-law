@@ -1,6 +1,6 @@
 İKİNCİ BÖLÜM
 İdarî Para Cezaları, Yaptırımlar, Ön Araştırma, Soruşturma, Dava Hakkı ve Yönetmelik
-İdarî para cezaları
+İdarî para cezaları (1)
 MADDE 16 —Bu Kanuna göre idarî para cezalarının veya idarî yaptırımların uygulanması, bu Kanunun diğer hükümlerinin uygulanmasına engel oluşturmaz. Bu Kanuna göre verilen ceza ve tedbirler diğer kanunlar gereği yapılacak işlemleri engellemez.
 Bu Kanuna göre;
 a) Aşağıdaki haller ağır kusur sayılarak sorumluları hakkında beşyüzmilyar Türk Lirası idarî para cezası verilir:
@@ -24,3 +24,5 @@ Ay içinde tahsil edilen idarî para cezaları müteakip ayın yirminci işgün�
 İdarî para cezalarında tüzel kişilerin sorumluluğu 6762 sayılı Türk Ticaret Kanununun 65 inci maddesine göre tayin olunur.
 İdarî para cezaları, tebliğ tarihini takip eden otuzgün içinde Kurul tarafından belirlenen hesaplara ödenir. Süresinde ödenmeyen cezalar, 21.7.1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre takip ve tahsil edilmek üzere Kurum tarafından cezaya muhatap olanların bağlı bulundukları vergi dairelerine bildirilir.
 İdarî para cezalarının miktarları her yıl bir önceki yıla ilişkin olarak 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi uyarınca belirlenen yeniden değerleme oranında artırılmak suretiyle uygulanır. Bu şekilde yapılacak hesaplamalarda milyon kesirleri dikkate alınmaz.
+–––––––––––––––
+(1) Bu maddede yer alan para cezalarının 2006 yılında uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
