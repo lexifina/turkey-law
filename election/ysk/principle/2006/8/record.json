@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2006/8",
+  "list_number": "8",
+  "decision_date": "2006-01-07",
+  "title": "YSK ilke kararı 2006/8",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3545/2006-8-karar.htm",
+  "source_sha256": "eae727f48cd8e17130ef6eaa8fe2bba90ca21c4fa044869896d29c2c77082e2c",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2006-01-07",
+  "law_text_complete": false
+}
