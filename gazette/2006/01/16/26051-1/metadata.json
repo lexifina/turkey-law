@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-01-16",
+  "issue": "26051",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararı",
+  "title": "2005/9871 73 Kişinin Türk Vatandaşlığına Alınması ve Bazı Kararnameler ile Türk Vatandaşlığına Alınan 6 Kişiye İlişkin Hükümlerin İptali Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060116-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060116.htm",
+  "index_sha256": "517c2637584a5b5e2eac44da40011ee93c09454c8ca06d0be2c629284078d683",
+  "index_header": "1 6 Ocak 2006 ... Sayı : 26051",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
