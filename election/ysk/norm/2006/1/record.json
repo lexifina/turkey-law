@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2006/1",
+  "list_number": "537, 13, 15, 14",
+  "genelge_number": "1",
+  "decision_date": "2006-01-17",
+  "title": "Yüksek Seçim Kurulu Arşiv Genelgesi'nin Yürürlükten Kaldırılması, İl ve İlçe Seçim Kurullarının Bir Hafta İçinde ve İki Yıl Süre İçin Yeniden Oluşturulması, Gündelik Miktarının Yeniden Belirlenmesi, Siyasi Partilerce İstenen Seçmen Kütüklerinin Verilmesinde Uygulanacak Ana Kurallarda Yeniden Yapılan Düzenleme",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1595/2006-1.pdf",
+  "source_sha256": "c858be6ff9bef2a697bc32bfb217d4b0e2ae505b7d44746cc8c97a81254ea3c5",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 18,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2006-01-17",
+  "law_text_complete": false
+}
