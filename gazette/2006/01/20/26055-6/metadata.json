@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-01-20",
+  "issue": "26055",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Genelgeler",
+  "title": "\"Emekli Sandığı İştirakçilerinin İşlemleri\" ile İlgili 2006/4 Sayılı Başbakanlık Genelgesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060120-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060120.htm",
+  "index_sha256": "b16de284431430775ce24240473388f509c2fa5213cfefd530afc162a41f5261",
+  "index_header": "2 0 Ocak 2006 ... Sayı : 26055",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
