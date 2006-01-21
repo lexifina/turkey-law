@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-01-21",
+  "issue": "26056",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Elektronik İmza ile İlgili Süreçlere ve Teknik Kriterlere İlişkin Tebliğ’de Değişiklik Yapılmasına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060121-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060121.htm",
+  "index_sha256": "838b7c3ba3f04db4e1479b0876bc4c8cb5143fc7f708c43705c1b4f6a78f0128",
+  "index_header": "2 1 Ocak 2006 ... Sayı : 26056",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
