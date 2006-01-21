@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5448",
+  "year": 2006,
+  "title": "Somut Olmayan Kültürel Mirasın Korunması Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-01-21",
+  "gazette_issue": "26056",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060121-1.htm",
+  "source_sha256": "b4289c529270b76eb0c63e00ddcd3bcddfc9dc7195520f9b865d92f95bdc05f1",
+  "text_sha256": "d41e5f35fff92c9d386632054bdd0b78bb0ac5c6e7e30cff01d9e0cca33ba487",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/01/21/26056-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060121-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
