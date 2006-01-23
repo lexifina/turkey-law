@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-01-23",
+  "issue": "26058",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "Atatürk Üniversitesi Eczacılık Fakültesi Lisans Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060123-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060123.htm",
+  "index_sha256": "558ef6dc74dedbb3d705eaaead36cb2b70bcd86bd9cf14fac14adae183c4ab54",
+  "index_header": "2 3 Ocak 2006 ... Sayı : 26058",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
