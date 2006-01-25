@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "641",
+  "decision_date": "2006-01-25",
+  "title": "2006 yılı için uygulanacak serbest tüketici limiti",
+  "resmi_gazete_date": "2006-01-28",
+  "resmi_gazete_number": "26063",
+  "categories": [
+    "Serbest Tüketici"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=r5W7Wvlq98E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=r5W7Wvlq98E="
+  ],
+  "source_sha256": "88470b893dea19842af4fed8fd54906e68faa067cfed5607b42fb706110522d7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-01-25",
+  "law_text_complete": false
+}
