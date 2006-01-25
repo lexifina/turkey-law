@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "640/19",
+  "decision_date": "2006-01-25",
+  "title": "İnegöl Doğalgaz Dağıtım Sanayi ve Ticaret A.Ş.’nin (İNGAZ) dağıtım bölgesinin Yenişehir şehrini de kapsayacak şekilde genişletilmesine İlişkin Kurul Kararı",
+  "resmi_gazete_date": "2006-02-01",
+  "resmi_gazete_number": "26067",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hCwvzc0rseM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hCwvzc0rseM="
+  ],
+  "source_sha256": "841da3a41dd10fbce846f1ed9d7cbff29190968974b8d1a8ef0ec973ebf90ae8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-01-25",
+  "law_text_complete": false
+}
