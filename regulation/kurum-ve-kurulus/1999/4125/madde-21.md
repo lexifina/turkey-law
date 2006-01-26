@@ -1,0 +1,4 @@
+Bilgilerin toplanması ve doğrulanması
+Madde 21- Soruşturma açılmasını takiben, soruşturma konusu malın bilinen ithalatçılarına ve ihracatçılarına soru formları gönderilir. Sübvansiyon soruşturmalarında, ihracatçı ülkeye de soru formu gönderilir. Bu formların gönderildikleri tarihten itibaren bir hafta içinde alındığı kabul edilir ve cevaplandırılmaları için 30 günlük süre tanınır. Süresi içinde nedenleri belirtilerek müracaat edilmesi halinde, bu süre, soruşturmadaki süre kısıtları göz önüne alınmak kaydıyla, uzatılabilir.
+Gerekli durumlarda, Genel Müdürlük, soruşturmanın herhangi bir aşamasında, ilgili taraflardan soruşturmaya ilişkin ek bilgi ve belgeler de isteyebilir.
+Eldeki bilgilerin doğrulanması veya ek bilgi sağlanması amacıyla, ilgili taraflar nezdinde incelemeler yapılabilir. Yerinde doğrulama soruşturması, soruşturmaya konu ihracatçı firmanın kabul etmesi, ilgili ülkeye bildirimde bulunulması ve bu ülkenin itiraz etmemesi durumunda gerçekleştirilir.

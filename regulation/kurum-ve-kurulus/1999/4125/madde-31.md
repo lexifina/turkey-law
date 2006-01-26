@@ -1,0 +1,2 @@
+Soruşturmaya ilişkin ilanlar
+Madde 31- Bir damping veya sübvansiyon soruşturması açılması kararı ile soruşturma sırasında alınan geçici önlem, kesin önlem, taahhüt, durdurma ve kapatma kararları, Resmi Gazete'de yayımlanacak bir tebliğle ilan edilir. Bu ilanlarda; soruşturma konusu mal, ihracatçı firma, ihracatçı ülke veya menşe ülke ve gizlilik ilkesi gözetilmek kaydıyla, soruşturma ile ilgili bilgi, bulgu ve belirlemeler yer alır. Söz konusu ilanlar, ilgili ülkelere ve soruşturma konusu malın bilinen üretici ve ihracatçılarına gönderilir.

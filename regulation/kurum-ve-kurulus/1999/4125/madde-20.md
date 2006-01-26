@@ -1,0 +1,10 @@
+İKİNCİ BÖLÜM
+Soruşturma
+Soruşturmanın açılması
+Madde 20- Genel Müdürlük, şikayet üzerine veya re'sen yapacağı incelemeyi azami 45 gün içinde tamamlayarak, soruşturma açılıp açılmaması hususunda Kurula teklifte bulunur.
+Soruşturma açılabilmesi için; şikayetin üretim dalı tarafından veya üretim dalı adına yapıldığının tespit edilmesi ve damping veya sübvansiyona konu olan ithalatın ve bu ithalattan kaynaklanan zararın varlığı konusunda yeterli delillerin bulunması gerekir. Re’sen soruşturma açılabilmesi için de, 19 uncu maddede tarif edildiği şekilde, damping veya sübvansiyona konu olan ithalatın ve bu ithalattan kaynaklanan zararın varlığı konusunda yeterli delillerin bulunması gerekir.
+Bir şikayetin üretim dalı tarafından veya üretim dalı adına yapılmış sayılabilmesi için; şikayeti destekleyen üreticilerin toplam benzer mal üretiminin, şikayeti destekleyen üreticiler ile şikayete karşı çıkan üreticilerin toplam benzer mal üretiminin % 50'sinden fazla olması ve toplam Türkiye benzer mal üretiminin %25'inden az olmaması gerekir. Üretici sayısının çok fazla olduğu küçük parçalara bölünmüş sanayiler söz konusu olduğunda, destek veya muhalefet derecesi istatistiki açıdan geçerli örnekleme yöntemleri kullanılmak suretiyle belirlenebilir.
+Damping marjı, sübvansiyon miktarı ya da ithalat miktarının ihmal edilebilir düzeylerin altında olması halinde, soruşturma açılmaz.
+Kurulca soruşturma açılmasına karar verilmesi halinde, konuya ilişkin olarak ilgili ülkeye bildirimde bulunulur ve Resmi Gazete'de yayımlanacak bir tebliğ ile soruşturma başlatılır. Söz konusu tebliğde; soruşturmanın başlangıç tarihi, soruşturma konusu mal, ihracatçı veya menşe ülke, dampingli veya sübvansiyonlu ithalata ve bu ithalatın zarara neden olduğu iddialarına ilişkin açıklamalar ile ilgili tarafların Genel Müdürlüğe kendilerini bildirmeleri için tanınan süreye ilişkin bilgi yer alır.
+Kurulun kararı soruşturma açılmaması yönünde ise, durum şikayeti yapan tarafa bildirilir.
+Soruşturma başlatılıncaya kadar başvuru hakkında herhangi bir bilgi ifşa edilemez.

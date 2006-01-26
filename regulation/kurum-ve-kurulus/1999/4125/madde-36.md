@@ -1,0 +1,4 @@
+Yeni ihracatçı için gözden geçirme soruşturması
+Madde 36- Soruşturma döneminde önleme konu malı Türkiye’ye ihraç etmemiş olan ihracatçılar veya üreticiler, kendileri için bir damping marjı veya sübvansiyon miktarı belirlenmesi talebiyle yazılı olarak Genel Müdürlüğe başvuruda bulunabilirler.
+Başvuruda bulunan ihracatçının; dampinge karşı vergi veya telafi edici vergiye konu olan malın ihraç ülkesinde bulunan ihracatçı veya üreticileriyle bağlantılı olmadığını ve soruşturma dönemini müteakip önleme konu malı Türkiye’ye ihraç ettiğini veya önemli miktarda ihraç etmek hususunda gayri kabili rücu bir akdi yükümlülük altına girdiğini kanıtlaması gereklidir.
+Yeni ihracatçı için gözden geçirme soruşturması yerli üreticilerin başvuru konusundaki görüşlerinin alınmasını müteakip, hızlandırılmış şekilde başlatılır ve yürütülür.

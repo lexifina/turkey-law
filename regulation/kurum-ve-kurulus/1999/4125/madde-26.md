@@ -1,0 +1,3 @@
+İşbirliğine gelinmemesi
+Madde 26- İlgili taraflardan birinin, verilen süreler içinde gerekli bilgiyi sağlamaması ya da bu bilgiye ulaşılmasını reddetmesi veya soruşturmayı engellediğinin anlaşılması veya yanlış ya da yanıltıcı bilgi vermesi hallerinde söz konusu taraf işbirliğine gelmemiş addedilir. Bu durumda geçici veya nihai belirlemeler, olumlu ya da olumsuz, mevcut verilere göre yapılabilir.
+İlgili taraflardan birinin, soruşturma açısından gerekli olan bir bilgiye ulaşılamaması sonucunu doğuracak şekilde işbirliğine gelmemesi veya kısmen işbirliğine gelmesi halinde, söz konusu taraf açısından soruşturmanın sonucu işbirliğine gelinmesi haline nazaran daha az avantajlı olabilir.

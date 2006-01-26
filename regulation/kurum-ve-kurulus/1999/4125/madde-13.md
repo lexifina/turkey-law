@@ -1,0 +1,2 @@
+Önlem uygulanabilir sübvansiyon miktarının hesaplanması
+Madde 13- Önlem uygulanabilir sübvansiyon miktarı, alıcıya soruşturma döneminde sağlandığı tespit edilen fayda esasında hesaplanır. Normal olarak bu dönem sübvansiyondan yararlanan tarafın en son muhasebe dönemidir. Ancak, güvenilir mali ve diğer bilgilerin bulunması halinde, soruşturmanın başlatılmasından önceki döneme ait en az 6 aylık bir dönem de olabilir.

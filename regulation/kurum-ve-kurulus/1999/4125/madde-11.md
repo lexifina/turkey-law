@@ -1,0 +1,2 @@
+Damping marjı
+Madde 11- Damping marjı, normal değer ve ihraç fiyatının, ağırlıklı ortalama veya işlem bazında karşılaştırılması suretiyle hesaplanır. Ancak, ihraç fiyatlarının farklı alıcı, bölge veya dönemler arasında önemli ölçüde değişkenlik göstermesi ve ağırlıklı ortalama ya da işlem bazında karşılaştırma ile dampingin büyüklüğünün tam olarak belirlenememesi halinde, ağırlıklı ortalama normal değer işlem bazında ihraç fiyatı ile karşılaştırılabilir.

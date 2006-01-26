@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.4125",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİ HAKKINDA YÖNETMELİK",
+  "number": "4125",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1999/4125",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4125&MevzuatTertip=5",
+  "source_sha256": "747046069c72d21bac8698ec0c6450b602612ed3bb4b9eb26d0dbe61e910baa1",
+  "source_bytes": 112349,
+  "published": "1999-10-30",
+  "gazette": "23861",
+  "in_force": "2006-01-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/01/2006\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2006-01-26",
+      "RG-26/01/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 25/10/1999 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6548,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
