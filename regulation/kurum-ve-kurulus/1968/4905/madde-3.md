@@ -1,0 +1,1 @@
+Madde 3- Bu Yönetmelikte yer alan “Hak sahibi” deyimi, afetzedelerin, yıkılan veya ağır hasar gören binalarla olan mülkiyet ilişkilerini ve yeniden yapılacak binalardan veya verilecek inşaat kredisinden yararlanabilme durumlarını ifade eder.

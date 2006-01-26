@@ -1,0 +1,1 @@
+Madde 2- Afet sebebiyle, kendilerine bina yapılacak veya inşaat kredisi verilecek malik ve hissedarlarla, ebeveyni ile birlikte oturan evli kişilerin hak sahipliği yönünden tayin ve tespitleri bu Yönetmelik esaslarına göre yapılır.

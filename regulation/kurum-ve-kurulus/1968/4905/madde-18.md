@@ -1,0 +1,3 @@
+Talep ve taahhütname kapsamı:
+Madde 18- Talep ve taahhütname metninde: Afet yerinin il, ilçe, bucak, mahalle ve köy itibariyle adı, hak sahibinin kimliği ve adresi, olmuş veya muhtemel afetin türü, talebin mahiyeti ve konusu, kanundan ve ilgili yönetmelikten doğan yükümlülük ve şartlarla İmar ve İskan Bakanlığınca uygulama metodu, yapı tipleri, yapı kısımları ve boyutları, yerleşme yeri, inşaat süresi, borçlandırma şekil ve süresi ve diğer konularda tespit edilecek şartlara ve esaslara uyulacağı belirtilir.
+Talep ve taahhütname bir tek metin halinde düzenlendikten sonra hak sahibi tarafından imza edilir ve ilgili mahalle ve köy muhtarlığınca tasdik olunur.

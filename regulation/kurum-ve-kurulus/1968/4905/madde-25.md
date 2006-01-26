@@ -1,0 +1,1 @@
+Madde 25- Bu Yönetmelik esaslarının uygulanabilmesi için, olmuş veya muhtemel afetin, kanunda ve ilgili Yönetmeliğinde belirtilen esaslara göre genel hayata etkili bulunduğunun tespit edilmiş olması şarttır.
