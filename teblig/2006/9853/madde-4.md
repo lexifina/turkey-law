@@ -1,0 +1,3 @@
+Kuralların Bildirimi
+Madde 4 — Türk Akreditasyon Kurumu (TÜRKAK), 4457 sayılı Kuruluş Kanununda belirtilen görevleri arasında yer alan deney ve kalibrasyon laboratuvarları, muayene kuruluşları, sistem belgelendirme kuruluşları, ürün/hizmet belgelendirme kuruluşları ve personel belgelendirme kuruluşlarının akreditasyonu için gereken politikaları, prensipleri, usulleri ve kuralları, oluşturduğu kurumsal kalite yönetim sistemi içerisinde tanımlı hale getirir ve güncelliğini sağlar.
+Bu prensipler, politikalar, kurallar ve yöntemler akredite olmak isteyen veya akredite olmuş uygunluk değerlendirme kuruluşlarına elektronik ortamda veya basılı materyal halinde TÜRKAK tarafından erişime açık dokümante bilgi şeklinde dağıtılır.
