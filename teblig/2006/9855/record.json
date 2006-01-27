@@ -1,0 +1,27 @@
+{
+  "source_id": "9.5.9855",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU İHALE TEBLİĞİ (Tebliğ No: 2006/1)",
+  "number": "9855",
+  "issuer": "Kamu İhale Kurumu Başkanı",
+  "path": "teblig/2006/9855",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9855&MevzuatTertip=5",
+  "source_sha256": "0ffe5b7968e89a3b10381fa3778d6c43e1c5e3aa150f74b9f4f19fd46588d14d",
+  "source_bytes": 46995,
+  "published": "2006-01-27",
+  "gazette": "26062",
+  "in_force": "2006-01-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.01.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 737,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
