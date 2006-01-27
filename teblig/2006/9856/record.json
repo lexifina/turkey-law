@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9856",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO:2006/1)",
+  "number": "9856",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2006/9856",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9856&MevzuatTertip=5",
+  "source_sha256": "4040105bb5df4a6492e47365167a431ecb21fc98d156e122cab39f1845b006d5",
+  "source_bytes": 131226,
+  "published": "2006-01-27",
+  "gazette": "26062",
+  "in_force": "2006-01-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.01.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8217,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

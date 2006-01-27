@@ -1,0 +1,2 @@
+Maddenin Üçüncü Ülkelerden İthalatı
+Madde 29 - Maddenin üçüncü ülkelerden ithalatı, 2001 yılı ile SD arasında miktar bazında %80,94 oranında, değer bazında ise %63,98 oranında artmıştır. Aynı dönemde üçüncü ülkelerin genel ithalat içindeki payı %11,05’den %12,13’e çıkmıştır. Öte yandan, soruşturma konusu madde ithalatı SD’de, 2003 yılına göre miktar olarak %27,66 ve değer olarak da %28,24 oranlarında düşmüştür.

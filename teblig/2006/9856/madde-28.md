@@ -1,0 +1,2 @@
+Dampingli İthalat
+Madde 28 - Soruşturma konusu maddenin dampingli ithalatı 2001 yılında 18.916 ton iken 2002, 2003 yılları ve dokuz aylık SD’de sırasıyla 23.706 tona, 29.757 tona ve 30.799 tona yükselmiştir. Diğer bir ifade ile dampingli ithalat 2001 yılı ile SD arasında miktar bazında %62,82 oranında artarken, değer bazında da %65,16 oranında artmıştır. Aynı dönemde dampingli ithalatın genel ithalat içindeki payı %88,95’den %87,87’ye düşmüştür. Ancak SD’de, 2003 yılına göre miktar olarak %3,5 ve değer olarak %8,5 oranlarında dampingli ithalatta artış gözlenmiştir.

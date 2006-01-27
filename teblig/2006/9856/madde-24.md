@@ -1,0 +1,2 @@
+Güney Kore için damping marjı
+Madde 24 - Güney Kore’den işbirliğine gelen üretici-ihracatçı firma olmamıştır. Güney Kore için normal değer tespitinde, soruşturma açılış aşamasında yer alan bilgiler kullanılmıştır. İhraç fiyatı belirlenmesinde ise, soru formuna cevap veren ithalatçı verilerinden yararlanılmıştır. Bu şekilde hesaplanan damping marjı CIF ihraç fiyatının % 25,84’ü olarak belirlenmiştir.

@@ -1,0 +1,2 @@
+Temsil testi
+Madde 10 - Yönetmelik’in 5 inci maddesi hükmü gereğince, menşe ülkenin iç piyasasında yapılan benzer mal satışlarının miktar bazında Türkiye’ye satışların %5’ini veya daha fazlasını oluşturduğu hallerde, yurt içi satışlar normal değerin tespit edilmesi için yeterli miktarda sayılmıştır. Bu testin olumlu sonuçlanması halinde normal değer, ihracatçı ülke iç piyasasında normal ticari işlemler çerçevesinde gerçekleşen satışlar esas alınarak belirlenmiştir. Aksi durumda normal değer, oluşturulmuş değer esasında belirlenmiştir.
