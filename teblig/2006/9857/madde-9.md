@@ -1,0 +1,2 @@
+Normal değer
+Madde 9 - Yönetmelik Ek Madde 1 deki ölçütler çerçevesinde piyasa ekonomisi koşullarının geçerli olduğu ihracatçılarca ispat edilemediğinden normal değer, Yönetmelik’in 7 nci maddesi çerçevesinde Türkiye’de benzer mal için fabrika çıkış aşamasında fiilen ödenmiş fiyat esas alınarak belirlenmiştir. Mezkur yöntem, Türkiye’nin genel ekonomik düzeyi ve üretim hacmi nedeniyle elverişli konumda bulunması nedeniyle tercih edilmiştir.

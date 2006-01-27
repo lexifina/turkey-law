@@ -1,0 +1,2 @@
+Geçici önlemlerin kesin olarak tahsili
+Madde 26 - Bu Tebliğ’in yürürlüğe girdiği tarihe kadar 2005/15 sayılı Tebliğ hükümlerine istinaden alınmış olan teminat şeklindeki geçici önlem kesin önleme dönüştürülmüş olup, kesinleşen dampinge karşı vergi Kanun’un 14 ve 15 inci maddeleri çerçevesinde tahsil edilir. Kesinleşen dampinge karşı verginin daha önce alınan geçici önlemden yüksek olduğu haller için fark tahsil edilmez, düşük olduğu haller için ise fark geri ödenir.

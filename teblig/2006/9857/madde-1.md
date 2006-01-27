@@ -1,0 +1,5 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Soruşturma
+Madde 1 - Bossa Ticaret ve Sanayi İşletmeleri T.A.Ş., Güney-Polgat Tekstil Sanayi ve Ticaret A.Ş., Mensa Mensucat Sanayi ve Ticaret İsletmeleri A.Ş., Lüks Kadife Ticaret ve Sanayi A.Ş. ve Narin Tekstil Endüstrisi A.Ş. (Şencan Tekstil) tarafından yapılan ve İSKO Dokuma İşletmeleri Sanayi ve Ticaret A.Ş., Birlik Mensucat A.Ş., Aydın Tekstil (İplik - Dokuma ve Konfeksiyon) İşletmeleri A.Ş., Marmara Mensucat Sanayi ve Ticaret A.Ş., Epengle Tekstil Endüstri ve Ticaret A.Ş. ile Kadifeteks Mensucat Sanayi A.Ş. tarafından desteklenen başvuru üzerine, Çin Halk Cumhuriyeti (ÇHC) menşeli “dokunmuş kadife, pelüş ve tırtıl mensucat” için 10/12/2004 tarih ve 25666 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2004/27 sayılı Tebliğ ile başlatılan damping soruşturması, Dış Ticaret Müsteşarlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanmıştır.
+28/7/2005 tarih ve 25889 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2005/15 sayılı Tebliğ ile alınmış geçici önlem yürürlükte bulunmaktadır.

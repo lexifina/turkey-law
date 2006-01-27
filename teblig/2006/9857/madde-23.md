@@ -1,0 +1,3 @@
+Üçüncü ülkelerden ithalat
+Madde 23 - Genel ithalatın %353 oranında arttığı 2001-SD arasındaki dönemde, üçüncü ülkelerden yapılan ithalatta nispî artışın %26’da kaldığı, ayrıca üçüncü ülkeler ithalatının genel ithalat ve tüketim içindeki payının önemli ölçüde gerilediği görülmüştür. Diğer bir ifadeyle, dampingli ithalatın mutlak ve nispî artışının büyüyen pazar içerisinde diğer ülkelerden yapılan ithalata kıyasla oldukça yüksek olduğu görülmektedir.
+Sonuç olarak, diğer ülkeler kaynaklı soruşturma konusu ithalat, gerek miktarı ve piyasa payındaki eğilim, gerekse fiyatları itibariyle bu aşamada yerli üretime zarar verebilecek boyutta görülmemektedir.
