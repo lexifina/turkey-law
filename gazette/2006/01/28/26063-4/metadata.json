@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-01-28",
+  "issue": "26063",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Türkiye Sualtı Sporları Federasyonu Cankurtarma Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060128-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060128.htm",
+  "index_sha256": "9c94684a59f2417f3b429a71227faf4e0cccc2822b78e1f22eec46d7d8dee38a",
+  "index_header": "2 8 Ocak 2006 ... Sayı : 26063",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
