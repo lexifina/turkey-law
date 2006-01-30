@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-01-30",
+  "issue": "26065",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Başbakanlık Gümrük Müsteşarlığı İzmir Gümrük ve Muhafaza Başmüdürlüğü İzmir Tır Gümrük Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/01/20060130-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (4 = 4)",
+  "ilan_codes": [
+    "693/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/01/20060130-4.htm",
+  "category_page_sha256": "4a9b6dfb7e2df5fabc22bd8284cdb4fe8932a563e2f70cf47dd3ad13858b5a31",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/01/20060130.htm",
+  "index_sha256": "70a076fe516a000a55525ad4ae8329aee18b2786e1c1b6b18bdb3ad71ff8837c",
+  "index_header": "30 Ocak 2006 ... Sayı : 26065",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
