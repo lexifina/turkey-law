@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-01-30",
+  "issue": "26065",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Milletlerarası Andlaşma",
+  "title": "2005/9920 Otobüs ve Otokarlarla Uluslararası Arızi Yolcu Taşımacılığı Anlaşması’nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060130-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/01/20060130.htm",
+  "index_sha256": "6b314caa2d6f707a2b3d4beb96314abcac13cb0c1bd942ed256fe4365626876c",
+  "index_header": "30 Ocak 2006 ... Sayı : 26065",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
