@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5451",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti Devlet Planlama Teşkilâtı ve Suriye Arap Cumhuriyeti Devlet Planlama Komisyonu Arasında Anlayış Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-02-01",
+  "gazette_issue": "26067",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060201-1.htm",
+  "source_sha256": "97c4c0981f92563b8a79cc0b2cd04748e898e2e089fa5ee18659d9c138d64851",
+  "text_sha256": "74c70e610fdcdd4c15db215516ddca0cc82d388c0ba8d1d713ddd618551d24fa",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/02/01/26067-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060201-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
