@@ -1,0 +1,4 @@
+İthalat ve İhracat Koşulları
+Madde 16 — Orman yetiştirme materyallerinin ithalatı için gerekli koşullar aşağıdaki gibidir.
+a)Yetkili Birim, orman yetiştirme materyalinin ithal edilmesi durumunda; ana materyal onayı ve üretimiyle ilişkili olarak orman yetiştirme materyalinin, bu Yönetmelik hükümlerinde öngörülen tedbirlere uygun olup olmadığına, aynı güvenceleri sağlayıp sağlamadığına, aranan şartları taşıyıp taşımadığına karar verir. Bunun için bu Yönetmelik hükümleri doğrultusunda ülke içinde yetiştirilen materyalde aranan şartları taşıdığının teminatını, ithalatçı firma ya da kurumdan ister.
+b) Üretilen orman yetiştirme materyalinin, ülke içinde yetiştirilen materyalde aranan bütün şartları taşıdığına ilişkin teminat verilmediği sürece, Yetkili Birimce orman yetiştirme materyalinin ithaline izin verilmez.

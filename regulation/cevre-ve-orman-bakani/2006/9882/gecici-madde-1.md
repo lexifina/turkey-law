@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Geçici ve Son Hükümler
+Geçici Madde 1 — Yetkili Birim, bu Yönetmeliğin EK-5’inde belirtilen şartları sağlamayan mukayese (karşılaştırma) denemelerinin sonuçlarını ana materyalin onayı için en fazla 10 yıllık süre ile kullanabilir. Ancak bu halde mukayese testleri, 1/1/2012’den önce başlatılmış olmalı ve sonuçları, ana materyalin üstün niteliklere sahip olduğunu göstermelidir.
+Yetkili Birim, 1/1/2007’den itibaren bu Yönetmeliğin EK-5’inde belirtilen şartları sağlamayan genetik test sonuçlarını ana materyalin onayı için en fazla 10 yıllık süre ile kullanabilir. Ancak bu genetik testler, 1/1/2007’den önce başlatılmış olmalı ve sonuçları, ana materyalin üstün niteliklere sahip olduğunu göstermelidir.
+Yetkili Birim, 1/1/2009 tarihine kadar bu Yönetmeliğin öngördüğü şartların tamamını taşımayan orman yetiştirme materyalinin ticareti kapsamındaki resmî veya özel sektör işletmelerinde birikmiş olan orman yetiştirme materyallerinin satış yoluyla eritilmesi için ticaretine izin verir.
