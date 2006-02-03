@@ -1,0 +1,61 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2006/4",
+  "date": "2006-02-03",
+  "title": "SPK Haftalık Bülteni 2006/4",
+  "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_4.pdf",
+  "source_sha256": "3dbb4b74a309685c47606796f23a510b1e35dccba8a314e9873ce6b5c2932c6a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. ÖZEL DURUMLAR",
+    "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 02.01.2006 – 03.02.2006 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_4.pdf"
+    },
+    {
+      "heading": "B. 30.01.2006 –03.02.2006 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_4.pdf"
+    },
+    {
+      "heading": "C. 30.01.2006 – 03.02.2006 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_4.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_4.pdf"
+    },
+    {
+      "heading": "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_4.pdf"
+    },
+    {
+      "heading": "F. DUYURULAR",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Özel Sektör",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_4.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
