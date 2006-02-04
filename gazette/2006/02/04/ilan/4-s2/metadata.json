@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-02-04",
+  "issue": "26070",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "İstanbul Menkul Kıymetler Borsası Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/02/20060204-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (8 = 8)",
+  "ilan_codes": [
+    "778/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/02/20060204-4.htm",
+  "category_page_sha256": "0c9b33beaf431cb21f7d26140f23caa218ce2d0d326ff9327d820cc990fa5ab7",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/02/20060204.htm",
+  "index_sha256": "62c84f77d55d7409a425cb30f2c751d86c91e7b8f1d0fd9a4077f7e7e8145b0e",
+  "index_header": "4 Şubat 2006 ... Sayı : 26070",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
