@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9887",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 355)",
+  "number": "9887",
+  "path": "teblig/2006/9887",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9887&MevzuatTertip=5",
+  "source_sha256": "530856a56036900e230cc19cdd014343307e10ad0412a6b76521f21b1f72bb67",
+  "source_bytes": 89191,
+  "published": "2006-02-04",
+  "gazette": "26070",
+  "in_force": "2006-02-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.02.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 822,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
