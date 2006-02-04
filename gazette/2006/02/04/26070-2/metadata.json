@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-02-04",
+  "issue": "26070",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Hâkimler ve Savcılar Yüksek Kurulu Kararı",
+  "title": "Hâkimler ve Savcılar Yüksek Kurulunun 4 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060204-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060204.htm",
+  "index_sha256": "f6565e4b5e80e4a1dd317712ac0305501be4996c603d62875f7335e6c87d958c",
+  "index_header": "4 Şubat 2006 ... Sayı : 26070",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
