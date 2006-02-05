@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-02-05",
+  "issue": "26071",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "Çanakkale Onsekiz Mart Üniversitesi Bilim ve Teknoloji Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060205-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060205.htm",
+  "index_sha256": "9a7a93b65dac8a12757d088cd7eb778819e26c73611e73fc3a9d2f66b5807639",
+  "index_header": "5 Şubat 2006 ... Sayı : 26071",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
