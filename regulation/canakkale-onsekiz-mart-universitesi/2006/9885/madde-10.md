@@ -1,0 +1,4 @@
+Merkez danışma kurulu ve görevleri
+Madde 10 — Merkez Danışma Kurulu, Merkezin çalışmalarına önerileriyle katkıda bulunan bir organdır. Başkanı Merkez Müdürüdür.
+Merkez Danışma Kurulu üyeleri; Merkez Müdürünün önerisi üzerine Merkez Yönetim Kurulunca üç yıllık süre için seçilen, Üniversite öğretim elemanları arasından görevlendirilecek beş üye ile iş hayatından özellikle girişimcilik konusunda çalışmalarıyla tanınmış uygulayıcı kişiler arasından seçilen onbeş üyeden oluşur. Süresi dolan Merkez Danışma Kurulu üyeleri yeniden görevlendirilebilir. Merkez Danışma Kurulu yılda en az bir kere toplanır. Toplantılarda çoğunluk şartı aranmaz.
+Merkez Danışma Kurulu üyelerinin sayısının değiştirilmesi, Merkez Müdürünün önerisi üzerine Merkez Yönetim Kurulu tarafından karara bağlanır. Merkez Müdürünün önerisi üzerine Merkez Danışma Kurulunun içerisinden belirlenecek üç üye, Merkez Yönetim Kurulunda temsilci olarak görevlendirilir.

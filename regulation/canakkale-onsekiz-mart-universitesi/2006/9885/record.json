@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 13 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "date_evidence": [
+    [
+      "2006-02-06",
+      "06.02.2006",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 13 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "26072",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2006-02-06",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Çanakkale Onsekiz Mart Üniversitesi",
+  "issuer_slug": "canakkale-onsekiz-mart-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/canakkale-onsekiz-mart-universitesi/2006/9885",
+  "published": "2006-02-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=9885&MevzuatTertip=5",
+  "source_bytes": 24336,
+  "source_id": "8.5.9885",
+  "source_sha256": "112ba81473fa8221ded962a567da9aed859a83a9d27e8de9add2da5ed76e8de1",
+  "text_status": "as-enacted",
+  "title": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ İBRAHİM BODUR GİRİŞİMCİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 186,
+  "word_count": 952
+}
