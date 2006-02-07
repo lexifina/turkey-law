@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5453",
+  "year": 2006,
+  "title": "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-02-07",
+  "gazette_issue": "26073",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060207-2.htm",
+  "source_sha256": "46ea7f391d9c984b57b2cd1ebed3da31a6666fa5c7424c397cbc87cb639b2114",
+  "text_sha256": "fd7520420b19b9bab8ac29aadc78b56bc0f2a4150b853918eab4184bc19a120c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/02/07/26073-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060207-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
