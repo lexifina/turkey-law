@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5452",
+  "year": 2006,
+  "title": "Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-02-07",
+  "gazette_issue": "26073",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060207-1.htm",
+  "source_sha256": "b0a5238b58cff7cb8d21c50d9c4237d91d0058b09d8ecdbac77e2f933512d249",
+  "text_sha256": "31c1d62337641bc8b797d77c26e8c64c4b3b8e0681c6c22c312cc728c98a4ed6",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/02/07/26073-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060207-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
