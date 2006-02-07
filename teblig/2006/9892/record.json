@@ -1,0 +1,31 @@
+{
+  "source_id": "9.5.9892",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2006 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TALİMATI (Sıra No: 2)",
+  "number": "9892",
+  "path": "teblig/2006/9892",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9892&MevzuatTertip=5",
+  "source_sha256": "12a624e44117c52db912e01c168964064d3b06187ec45582cd64eb23304a19ba",
+  "source_bytes": 35483,
+  "published": "2006-02-07",
+  "gazette": "26073",
+  "in_force": "2006-02-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.02.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1098,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.9892-Ek1.xls",
+    "9.5.9892-Ek2.xls",
+    "9.5.9892-Ek3.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
