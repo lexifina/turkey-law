@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-02-09",
+  "issue": "26075",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Devlet Muhasebesi Standartları Kurulunun Yapısı ve Çalışma Usul ve Esasları Hakkındaki Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060209-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060209.htm",
+  "index_sha256": "46e07208794005af2e761c16a9db7e83a13ec3df3875d7d64dde1eac49bee640",
+  "index_header": "9 Şubat 2006 ... Sayı : 26075",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
