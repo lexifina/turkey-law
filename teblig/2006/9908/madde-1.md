@@ -1,0 +1,2 @@
+ÖZEL FİNANS KURUMLARINCA UYGULANACAK TEKDÜZEN HESAP PLANI VE İZAHNAMESİ HAKKINDA TEBLİĞDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+MADDE 1 — 29/11/2004 tarihli ve 25655 sayılı Resmî Gazete’de yayımlanan "Özel Finans Kurumlarınca Uygulanacak Tekdüzen Hesap Planı ve İzahnamesi Hakkında Tebliğ"in adı, "Katılım Bankalarınca Uygulanacak Tekdüzen Hesap Planı ve İzahnamesi Hakkında Tebliğ" olarak değiştirilmiştir.

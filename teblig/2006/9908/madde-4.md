@@ -1,0 +1,62 @@
+98011 KREDİ KARTLARI VE BANKACILIK HİZMETLERİNE
+İLİŞKİN PROMOSYON UYGULAMALARI TAAHHÜTLERİ
+98111 KREDİ KARTLARI VE BANKACILIK HİZMETLERİNE
+İLİŞKİN PROMOSYON UYGULAMALARI TAAHHÜTLERİ
+MADDE 4 — 1.a) Tebliğin 11 inci maddesinde "1 Krediler" grubunda "TASFİYE OLUNACAK ALACAKLAR, TAHSİLİ ŞÜPHELİ ÜCRET, KOMİSYON VE DİĞER ALACAKLAR İLE ZARAR NİTELİĞİNDEKİ KREDİLER VE DİĞER ALACAKLAR" başlıklı açıklamanın dördüncü paragrafı aşağıdaki şekilde değiştirilmiştir.
+"170, 171, 172, 173 Tasfiye Olunacak Alacaklar, 174, 175 Tahsili Şüpheli Ücret, Komisyon ve Diğer Alacaklar – T.P.,Y.P. ile 176, 177 Zarar Niteliğindeki Krediler ve Diğer Alacaklar – T.P.,Y.P. hesaplarında izlenen katılma hesaplarından kullandırılan kredilerin riski katılım bankasına ait olan kısmı ile özkaynaklar ve özel cari hesaplardan kullandırılan yabancı para krediler ve alacaklar katılım bankalarının tercihine göre, bu hesaplara intikal tarihindeki kurlar üzerinden Yeni Türk Lirasına çevrilerek Türk parası hesaplarda, ya da sabit fiyat üzerinden yabancı para hesaplarda izlenebilir. Katılma hesaplarından kullandırılan kredilerin riski katılım bankasına ait olan kısmı ile özkaynaklar ve özel cari hesaplardan kullandırılan ve yabancı para hesaplarda izlenen sözkonusu donuk krediler ve alacaklar bu hesaplara intikal tarihindeki kurlarla değerlenir. Bu krediler ve alacaklar cari kurlarla değerlenemez. Sözkonusu yabancı para kredilere ve alacaklara ilişkin olarak haricen hesaplanacak kur farkı istatistiki amaçlarla kullanılan diğer nazım hesaplarda izlenebilir. Yabancı para katılma hesaplarından kullandırılan kredilerin riski katılma hesaplarına ait olan kısmı ise cari kurlarla değerlenir."
+b) Aynı grupta ÖZEL KARŞILIKLAR başlıklı açıklamanın üçüncü paragrafı aşağıdaki şekilde değiştirilmiştir.
+"Katılma hesaplarından kullandırılan kredilerin riski katılım bankasına ait olan kısmı ile özkaynaklar ve özel cari hesaplardan kullandırılan yabancı para krediler ve alacaklar için ayrılan özel karşılıklar tarihi kurlarla, yabancı para katılma hesaplarından kullandırılan kredilerin katılma hesapları payına isabet eden kısmı ise cari kurlarla değerlenir."
+2. "2 Yatırım Amaçlı Değerler ve Diğer Aktifler" grubunda 220 KREDİ KÂR PAYI GELİR TAHAKKUK VE REESKONTLARI - TÜRK PARASI defteri kebir hesabına aşağıdaki açıklamalar eklenmiştir.
+"22004 DÖVİZE ENDEKSLİ KREDİLER ANAPARA KUR ARTIŞ
+TAHAKKUKLARI
+Dövize endeksli kredilerde, değerleme kurlarının başlangıç kurlarının üzerinde olması neticesinde kredinin anapara tutarında meydana gelen artışlar tahakkuk yöntemiyle ilgili gelir hesaplarına alacak verilmek üzere bu hesaba borç kaydedilir."
+"22005 DÖVİZE ENDEKSLİ KREDİLER ANAPARA KUR ARTIŞ
+REESKONTLARI
+Dönem sonları itibarıyla tahakkuk dönemi gelmemiş dövize endeksli kredilerde değerleme kurlarının başlangıç kurlarının üzerinde olması neticesinde kredinin anapara tutarında meydana gelen artışlar bu hesaba borç, ilgili gelir hesaplarına alacak verilir."
+3.a) "3 Toplanan Fonlar ve Diğer Yabancı Kaynaklar" grubunda yer alan açıklamalara son paragraf olarak aşağıdaki açıklama eklenmiştir.
+"Katılma hesaplarına kâr dağıtılması ilgili katılma hesaplarına alacak, zarar dağıtılması ise borç kaydı yapılmak suretiyle muhasebeleştirilir."
+b) Aynı grupta yer alan 348, 349 YURTDIŞINDAN KULLANILAN KREDİLER- TÜRK PARASI, YABANCI PARA defteri kebir hesaplarının açıklamalarına son paragraf olarak aşağıdaki açıklama eklenmiştir.
+"İlgili ülkelerin ihracat kredi kuruluşları tarafından kullandırılan ve Türkiye’deki katılım bankalarınca ithalatın finansmanına yönelik olarak muhtelif biçimlerde aracılık edilmek üzere sağlanan GSM (ABD), Hermes (Almanya), SACE (İtalya) ve benzeri krediler, düzenlenen kredi sözleşmesinde katılım bankasının garantör konumunda bulunması veya kredinin kullandırılması aşamasında katılım bankası nezdinde herhangi bir nakit hareketi olmaması, nakit hareketi olması halinde ise nakdin kullanımının katılım bankasının yetkisinde olmaması halinde bilanço dışında ilgili hesaplarda, aksi durumda bu hesapta muhasebeleştirilir."
+c) Aynı grupta yer alan 350 KARŞILIKLAR- TÜRK PARASI defteri kebir hesabına aşağıdaki açıklamalar eklenmiş, 35005 DÖVİZE ENDEKSLİ KREDİLER KUR FARKI KARŞILIKLARI alt hesabı ve açıklamasının birinci paragrafı ile 350990 MUHTEMEL RİSKLER İÇİN AYRILAN SERBEST KARŞILIKLAR alt hesabına ilişkin açıklama aşağıdaki şekilde değiştirilmiştir.
+"35003 KISA VADELİ ÇALIŞAN HAKLARI YÜKÜMLÜLÜKLERİ
+KARŞILIĞI
+Katılım bankasının, çalışanları için Banka Çalışanlarının Haklarının Muhasebeleştirilmesi Standardı hükümlerine göre hesaplayacağı kısa vadeli çalışan haklarından doğan yükümlülükleri için ayırması gereken karşılıklar bu hesabın alacağına 820033 Kısa Vadeli Çalışan Hakları Yükümlülükleri Karşılığı Giderleri hesabının borcuna kaydedilmek suretiyle muhasebeleştirilir."
+"35030 KREDİ KARTLARI VE BANKACILIK HİZMETLERİNE İLİŞKİN
+PROMOSYON UYGULAMALARI KARŞILIĞI
+Kredi kartı hamillerinin yapmış oldukları harcama tutarları karşılığında ya da verilen bankacılık hizmetleri nedeniyle katılım bankasının ödül veya benzeri adlar altında yeni mal ve hizmet alımının finanse edilmesine yönelik ödemeyi taahhüt ettiği tutarların, dönem sonları itibarıyla son on iki aylık süre içerisinde kullanılan tutarın toplam taahhüt tutarına oranı nispetinde hesaplanan kısmı bu hesabın alacağına 88019 Kredi Kartları ve Bankacılık Hizmetlerine İlişkin Promosyon Uygulamaları Giderleri hesabının borcuna kaydedilmek suretiyle muhasebeleştirilir. Söz konusu tutarın geri kalan kısmı ise 98011 Kredi Kartları ve Bankacılık Hizmetlerine İlişkin Promosyon Uygulamaları Taahhütleri hesabında izlenmeye devam edilir.
+Kredi kartı hamillerinin kullandığı tutarlar ilgili ay içerisinde ayrılan karşılıklardan düşülür, kullanılan tutarların ayrılan karşılık tutarını aşması durumunda, aşım miktarı ortaya çıktığı ay içerisinde ilgili hesaplar kullanılarak 88019 Kredi Kartları ve Bankacılık Hizmetlerine İlişkin Promosyon Uygulamaları Giderleri hesabına aktarılır."
+"35005 DÖVİZE ENDEKSLİ KREDİLER ANAPARA KUR AZALIŞ
+KARŞILIKLARI
+Dövize endeksli kredilerde kurlarda meydana gelen düşüşler dolayısıyla anapara tutarında ortaya çıkan azalışların kaydedilmesine mahsus aktif düzenleyici pasif nitelikli bir hesaptır. Kur düşüşü dolayısıyla ortaya çıkan değer azalışı bu hesabın alacağına, 88210 Dövize Endeksli Krediler Anapara Kur Azalışları hesabının borcuna kaydedilmek suretiyle muhasebeleştirilir."
+"Genel karşılıklar haricinde, ileride muhtemel riskler için genel olarak ve herhangi bir işlemle doğrudan ilgili olmaksızın ayrılan serbest karşılıklar bu hesapta izlenir."
+d) 360 KÂR PAYI VE GİDER REESKONTLARI – TÜRK PARASI defteri kebir hesabına ilişkin açıklama aşağıdaki şekilde değiştirilmiştir.
+"Dönem sonları itibarıyla, Türk parası cinsinden katılma hesaplarında toplanan fonlara, alınan krediler ve diğer kâr payı ve gider doğurucu pasif hesaplar ile bilanço dışı hesaplarda kayıtlı diğer yükümlülüklere ilişkin kâr payı ve gider reeskontları bu hesaba alacak ve ilgili gider hesaplarına borç kaydolunur."
+4.a) "4 Özkaynaklar" grubunda yer alan "414 SERMAYE YEDEKLERİ" defteri kebir hesabı "414 SERMAYE YEDEKLERİ – TÜRK PARASI" olarak değiştirilmiştir.
+b) Aynı defteri kebir hesabının 41405 YENİDEN DEĞERLEME DEĞER ARTIŞI hesabına ait açıklama aşağıdaki şekilde değiştirilmiştir.
+"Türk parası iştirak ve kuruluşların yaptıkları yeniden değerleme sonucu bedelsiz hisse senedi vermeleri nedeniyle, aktifte meydana gelen artışların karşılığının kaydedildiği pasif nitelikli bir hesaptır.
+İştirakler, bağlı ortaklıklar ve birlikte kontrol edilen ortaklıklardaki dönem kârı dışındaki içsel kaynaklardan yapılan sermaye artırımları dolayısıyla bedelsiz edinilen hisse senetlerine isabet eden tutarlar da bu hesapta izlenir."
+c) 415 SERMAYE YEDEKLERİ – YABANCI PARA defteri kebir hesabının 41505 YENİDEN DEĞERLEME DEĞER ARTIŞI hesabına ait açıklamalar aşağıdaki şekilde değiştirilmiştir.
+"Katılım bankasının yabancı para cinsinden ortak olduğu iştirak ve kuruluşların dönem kârı dışındaki içsel kaynaklardan yaptıkları sermaye artırımları dolayısıyla sahip olunan bedelsiz hisse senetlerine isabet eden tutarlar sonucu aktifte meydana gelen artışların izlendiği pasif nitelikli bir hesaptır. Bu hesap sabit fiyat üzerinden hareket görür ve dönem sonları itibarıyla değerlemeye tabi tutulur."
+5. "6 Kâr Payı Giderleri" grubunda yer alan 628, 629 KATILMA HESAPLARINA AİT DİĞER KÂR PAYI GİDERLERİ – TÜRK PARASI, YABANCI PARA defteri kebir hesaplarına ait açıklamalar metinden çıkarılmıştır.
+6. "7 Kâr Payı Dışı Gelirler" grubunda yer alan 780, 781 İŞTİRAKLER VE BAĞLI ORTAKLIKLARDAN ALINAN KÂR PAYLARI - TÜRK PARASI, YABANCI PARA defteri kebir hesaplarına ilişkin açıklamalar aşağıdaki şekilde değiştirilmiştir.
+"780 İŞTİRAKLER VE BAĞLI ORTAKLIKLARDAN ALINAN
+TEMETTÜ – TÜRK PARASI
+Katılım bankasının Türk parası iştiraklerinin, bağlı ortaklıklarının ve birlikte kontrol ettiği ortaklıklarının faaliyetleri sonucu elde ettikleri kârdan sermaye payı olarak dağıtılan Türk parası temettülerin katılım bankası payına düşen miktarı ile alım satım amaçlı menkul değerler ile satılmaya hazır menkul değerlerden elde edilen temettülerin kaydedildiği bir hesaptır.
+İştirakler, bağlı ortaklıklar ve birlikte kontrol edilen ortaklıklarca dönem kârının sermayeye ilavesi dolayısıyla bedelsiz edinilen hisse senetleri bu hesaba kaydedilerek gelir yazılır. Ancak, sermaye artırımına esas olan kârın her türlü muvazaadan arî olması ve/veya ana ortaklık, iştirak, bağlı ortaklık ve birlikte kontrol edilen ortaklıklar arasında veya bunlarla diğer kuruluş ve ortaklıklar arasında birden fazla işleme konu edilmemiş gerçek ticari muameleler kaynaklı olması gerekmektedir."
+"781 İŞTİRAKLER VE BAĞLI ORTAKLIKLARDAN ALINAN
+TEMETTÜ – YABANCI PARA
+Katılım bankasının yabancı para iştiraklerinin, bağlı ortaklıklarının ve birlikte kontrol ettiği ortaklıklarının faaliyetleri sonucunda elde ettikleri kârdan, sermaye payı olarak dağıtılan yabancı para temettülerin katılım bankası payına düşen miktarı ile yabancı para alım satım amaçlı menkul değerler ile satılmaya hazır menkul değerlerden elde edilen temettülerin Türk parası karşılığının kaydedildiği bir hesaptır.
+İştirakler, bağlı ortaklıklar ve birlikte kontrol edilen ortaklıklarca dönem kârının sermayeye ilavesi dolayısıyla bedelsiz edinilen hisse senetleri bu hesaba kaydedilerek gelir yazılır. Ancak, sermaye artırımına esas olan kârın her türlü muvazaadan arî olması ve/veya ana ortaklık, iştirak, bağlı ortaklık ve birlikte kontrol edilen ortaklıklar arasında veya bunlarla diğer kuruluş ve ortaklıklar arasında birden fazla işleme konu edilmemiş gerçek ticari muameleler kaynaklı olması gerekmektedir."
+7.a) "8 Kâr Payı Dışı Giderler" grubunda yer alan 820 KARŞILIK VE DEĞER DÜŞME GİDERLERİ - T.P. defteri kebir hesabının altında yer alan 82000 ÖZEL KARŞILIK GİDERLERİ hesabına ait açıklamaya ikinci paragraf olarak aşağıdaki açıklama eklenmiştir.
+"Özel karşılıkların katılma hesaplarına ait olan kısmı katılma hesaplarına yansıtılarak kapatılır."
+b) Aynı defteri kebir hesabının altına aşağıdaki açıklama eklenmiştir.
+"820033 KISA VADELİ ÇALIŞAN HAKLARI YÜKÜMLÜLÜKLERİ
+KARŞILIĞI GİDERLERİ
+Hesap, katılım bankalarının çalışanları için Banka Çalışanlarının Haklarının Muhasebeleştirilmesi Standardı hükümlerine göre hesaplayacağı kısa vadeli çalışan haklarından doğan yükümlülükleri için ayırması gereken karşılıkların kaydedilmesine mahsustur. Bu hesap, 35003 Kısa Vadeli Çalışan Hakları Yükümlülükleri Karşılığı yardımcı hesabı ile karşılıklı olarak çalışır."
+c) 877 YENİDEN YAPILANMA GİDERLERİ – TÜRK PARASI hesabının ismi ile açıklaması aşağıdaki şekilde değiştirilmiştir.
+"877 YENİDEN YAPILANMA GİDERLERİ – YABANCI PARA
+876 Yeniden Yapılanma Giderleri – T.P. hesabı açıklaması yabancı para olmak kaydıyla bu hesap için de geçerlidir. Bu hesap 35120 Yeniden Yapılanma Karşılığı pasif hesabı ile karşılıklı çalışır."
+8. "9 Nazım Hesaplar" grubunda 980 TAAHHÜTLERDEN BORÇLAR - TÜRK PARASI defteri kebir hesabının altına aşağıdaki açıklama eklenmiştir.
+"98011 KREDİ KARTLARI VE BANKACILIK HİZMETLERİNE
+İLİŞKİN PROMOSYON UYGULAMALARI TAAHHÜTLERİ
+Kredi kartı hamillerinin yapmış oldukları harcama tutarları karşılığında ya da verilen bankacılık hizmetleri nedeniyle katılım bankasının ödül veya benzeri adlar altında yeni mal ve hizmet alımının finanse edilmesine yönelik ödemeyi taahhüt ettiği tutarların sonuç hesaplarına aktarılmayan kısmı bu hesapta izlenir. Takip hesaplarına aktarılan kredi kartı alacaklarına ilişkin taahhütler ters kayıt yapılmak suretiyle kapatılır."
