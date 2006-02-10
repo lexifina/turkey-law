@@ -1,0 +1,2 @@
+Gerekçe
+Madde 4- Yapılan incelemede, ÇHC menşeli önleme konu maddenin dampingli ihracatının devam ettiği, mevcut önlemin yürürlükten kaldırılması halinde bu ülkeden önemli miktarlarda dampingli fiyatlı sentetik veya suni devamsız liflerden dokunmuş mensucatın Türkiye’ye ihraç edilebileceği ve dolayısıyla yerli üretim dalında zararın devam edebileceği konusunda yeterli delillerin bulunduğu sonucuna varılmıştır.
