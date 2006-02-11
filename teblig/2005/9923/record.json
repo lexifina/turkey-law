@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.9923",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÖZEL GÜVENLİK ZORUNLU MALİ SORUMLULUK SİGORTASI GENEL ŞARTLARI",
+  "number": "9923",
+  "path": "teblig/2005/9923",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9923&MevzuatTertip=5",
+  "source_sha256": "a43dc99fcaa9c829793c9effd642c0fac6fc4d97498207319b3f485f31785cf5",
+  "source_bytes": 49149,
+  "published": "2005-02-26",
+  "gazette": "25739",
+  "in_force": "2006-02-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG11/02/2006\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2006-02-11",
+      "RG11/02/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2243,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
