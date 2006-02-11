@@ -1,0 +1,149 @@
+Kurum | Hazine Müsteşarlığı
+Tebliğin Adı | Zorunlu Karayolu Taşımacılık Mali Sorumluluk Sigortası Genel Şartları
+Tebliğ No | 
+Resmî Gazete Tarihi | 18/01/2004
+Resmî Gazete Sayısı | 25350
+ZORUNLU KARAYOLU TAŞIMACILIK MALİ SORUMLULUK SİGORTASI GENEL ŞARTLARI
+A. SİGORTANIN KAPSAMI
+A.1. Sigortanın Konusu
+Bu sigorta ile sigortacı, poliçede belirtilen motorlu taşıtta seyahat eden yolcuların, duraklamalar da dahil olmak üzere, kalkış noktasından varış noktasına kadar geçecek süre içinde meydana gelecek bir kaza sonucu bedeni zarara uğraması halinde, sigortalının 10/07/2003 tarih ve 4925 sayılı Karayolu Taşıma Kanunundan doğan sorumluluğunu, poliçede yazılı sigorta tutarlarına kadar temin eder.
+Sigortalının taşımayı zaruri haller hariç, 10/07/2003 tarih ve 4925 sayılı Karayolu Taşıma Kanunu ve ilgili yönetmelik hükümleri çerçevesinde yapması gerekir.
+Bu sigorta, sigortalının haksız taleplere karşı savunmasını da temin eder.
+A.2. Tanımlar
+Bu Genel Şartlarda geçen:
+Kanun: 10/07/2003 tarih ve 4925 sayılı Karayolu Taşıma Kanununu,
+Sigorta: Zorunlu karayolu taşımacılık mali sorumluluk sigortasını,
+Sigortalı: 4925 sayılı Kanuna göre zorunlu karayolu taşımacılık mali sorumluluk sigortasını yaptırmakla yükümlü olan sigorta ettiren, şehirlerarası ve/veya uluslararası taşımacıyı,
+Sigortacı: Türkiye’de karayolu motorlu araçlar mali sorumluluk sigortası branşında ruhsatı bulunan ve bu sigorta ile sigortalının sorumluluğunu teminat altına alan sigorta şirketini,
+Kaza: Karayolu üzerinde hareket halinde olan bir veya birden fazla aracın karıştığı, ölüm, yaralanma ve maddi zararla sonuçlanmış olayı veya duraklamalar da dahil olmak üzere 4925 sayılı Kanuna göre taşımacının sorumluluğunu doğuran ve zarara neden olan olayı,
+Zarar: Kaza sonucu yolcunun yaralanmasına, sakatlanmasına veya ölmesine neden olan bedeni zararları,
+Hak Sahibi-Zarar Gören: Kaza sonucu, yaralanan veya sakatlanan yolcular ile ölen yolcunun desteğinden yoksun kalanları,
+Taşıma: Yolcunun kalkış noktasından varış noktasına götürülmesini,
+Taşımacı: 4925 sayılı Kanunun 5 inci maddesine istinaden yetki belgesi alan ve kendi nam ve hesabına taşımayı bir ücret karşılığında üstlenen gerçek veya tüzel kişiyi,
+Kalkış Noktası: Yolcunun taşıta bindiği yeri,
+Varış Noktası: Yolcu biletinde gösterilen ve yolcunun götürülmek istendiği yeri,
+Yolcu: Taşıtı kullanan sürücü ile hizmetliler dışında, taşıtta bulunan yolcu biletli kişileri,
+Yolcu bileti:Taşımacı ile yolcu arasında akdedilen, 4925 sayılı Kanuna ilişkin yönetmelikte belirtilen şartları ihtiva eden ve yolcuya verilmesi zorunlu olan belgeyi,
+Şehirlerarası Taşıma: Herhangi bir ilin herhangi bir noktasından veya yerleşim biriminden başlayıp diğer bir ilin herhangi bir noktasında veya yerleşim biriminde biten taşımayı,
+Uluslararası Taşıma: Türkiye’den veya Türkiye’ye karayoluyla; Türkiye üzerinden karayoluyla transit, Türkiye’ye denizyolu, demiryolu ve havayolu ile gelip karayolundan üçüncü ülkelere yapılan taşımaları,
+Poliçe: 4925 sayılı Kanuna istinaden akdedilmiş olan sigorta sözleşmesi belgesini,
+ifade eder.
+A.3. Kapsama Giren Teminat Türleri ve Üst Sınırları
+Sigortalının A.1. maddesinden doğan sorumluluğunu karşılayan teminatlar aşağıda gösterilmiştir.
+Ödenecek tazminatların üst sınırı, sigorta tarifesinin serbest bırakılmış olması hali hariç, Hazine Müsteşarlığının bağlı olduğu Bakanlık tarafından saptanır ve Resmi Gazete’de yayımlanan tarife ve talimatta belirlenir.
+A.3.1. Ölüm teminatı
+Ölüm teminatı, kazanın yolcunun kaza tarihinden itibaren iki sene içinde ölümüne sebebiyet vermesi halinde, ölenin yardımından mahrum kalanların destekten yoksun kalma tazminatını karşılar.
+A.3.2. Sakatlık teminatı
+Sakatlık teminatı, kazanın yolcunun derhal veya kaza tarihinden itibaren iki sene zarfında geçici veya daimi surette sakatlanmasına sebebiyet vermesi halinde, tıbbi tedavinin sona ermesi ve sakatlığın kesin olarak tespiti sonucunda saptanan sakatlanma tazminatını karşılar.
+A.3.3. Tedavi giderleri teminatı
+Tedavi giderleri teminatı, kaza nedeniyle yaralanan yolcuların ilk yardım, muayene, kontrol veya bu yaralanmadan ötürü hastanede veya diğer yerlerdeki ayakta veya yatakta tedavi giderleri ile tedavinin gerektirdiği diğer giderleri karşılar.
+A.4. Sorumluluğu Kaldıran veya Azaltan Haller
+Sigortalı, kendisinin veya eylemlerinden sorumlu tutulduğu kişilerin kusuru bulunmaksızın ve poliçede kayıtlı taşıttaki bir bozukluk kazayı etkilemiş olmaksızın, kazanın bir mücbir sebepten veya zarar görenin veya bir üçüncü kişinin ağır kusurundan ileri geldiğini ispat ederse sorumluluktan kurtulur.
+Sigortalı, yolcuların sağlıklı, rahat ve güvenli yolculuk yapmasını sağlayacak tedbirleri almakla yükümlüdür. Yolcular, taşımacı tarafından taşıma hizmetlerini tanzim için konulmuş usul ve esaslara uymak zorundadır.
+Kazanın oluşumunda zarar görenin kusuru var ise, bu kusur oranında ödenecek tazminattan indirim yapılabilir.
+A.5. Kapsam Dışında Kalan Haller
+Aşağıdaki haller ve bu hallerden doğan zararlar sigorta kapsamı dışındadır.
+a. Sigortalı tarafından ileri sürülecek tazminat talepleri,
+b. Sürücü, hizmetliler ve sigortalının eylemlerinden sorumlu tutulduğu diğer kişiler ile yolcu bileti olmayan kişilerin talepleri,
+c. Yolcuların, beraberinde veya taşıtta veya römorkunda bulunan bagaj ile benzeri eşya ve taşınan diğer eşyanın uğrayacağı zararlara ilişkin talepleri dahil olmak üzere, her türlü maddi zararlara ilişkin talepleri ile manevi tazminat talepleri,
+d. Çalınma veya gaspedilme olayında taşıtın çalındığını veya gaspedildiğini bilerek taşıta binen kişilerin zarara uğramaları nedeniyle ileri sürecekleri talepler, çalan veya gaspeden kişilerin talepleri,
+e. Savaş, her türlü savaş olayları, istila, yabancı düşman hareketleri, çarpışma, (savaş ilan edilmiş olsun, olmasın) iç savaş, ihtilal, isyan, ayaklanma ve bunların gerektirdiği inzibati ve askeri hareketler,
+f. Nükleer, biyolojik ve kimyasal rizikoların ve bunların gerektirdiği askeri ve inzibati tedbirler,
+g. Grevlere, lokavt edilmiş işçi hareketlerine, halk hareketlerine, kavgalara katılma,
+h. (Değişik:RG-11/02/2006-26077) 3713 sayılı Terörle Mücadele Kanununda belirtilen terör eylemleri ve bu eylemlerden doğan sabotaj ile bunları önlemek ve etkilerini azaltmak amacıyla yetkili organlar tarafından yapılan müdahaleler sonucunda meydana gelen zararlar, terör ve buna bağlı sabotaj eylemlerinde bulunanların talepleri, aracın terörist eylemlerde kullanıldığını veya kullanılacağını bilerek araca binen kişilerin zarara uğramaları nedeniyle ileri sürecekleri talepler,
+i. Cürüm ve cinayet işlemek veya bunlara teşebbüs,
+j. Tehlikede bulunan şahıs ve malları kurtarmak hali hariç, yolcunun kendisini bile bile ağır tehlikeye maruz bırakacak hareketlerde bulunması,
+k. Deprem, yanardağ püskürmesi, kar ağırlığı, sel ve su baskını, yer kayması, fırtına gibi doğal afetler,
+l. (Ek:RG-11/02/2006-26077) Dolaylı zararlar nedeniyle yöneltilecek tazminat talepleri.
+A.6. Sigorta Kapsamına Girmeyen Taşıtlar
+Otomobille şehirlerarası ve/veya uluslararası taşımacılık yetki belgesi kapsamında yapılan taşımalar hariç olmak üzere, özel otomobillerle ve bunların römorklarıyla yapılan taşımalar, genel ve katma bütçeli dairelerle, il özel idareleri, belediyeler, üniversiteler ve kamu iktisadi teşebbüslerine ait otomobillerle yapılan taşımalar, Türk Silahlı Kuvvetlerine ait motorlu taşıt ve bunların römorkları ile yapılan taşımalar, lastik tekerlekli traktörlerle çekilen römorklarla yapılan taşımalar bu sigorta kapsamı dışındadır.
+A.7. Sigortanın Coğrafi Sınırı
+Bu sigorta Türkiye sınırları dışında da geçerlidir. Ancak, Hazine Müsteşarlığının bağlı olduğu Bakanlık gerekli gördüğü takdirde, tespit edeceği yabancı ülkelerde ortaya çıkabilecek zararları teminat kapsamı dışında tutabilir.
+A.8. Sigortanın Başlangıcı ve Sonu
+Sigorta, poliçede başlama ve sona erme tarihleri olarak yazılan günlerde, aksi kararlaştırılmadıkça, Türkiye saati ile öğleyin 12:00'da başlar ve öğleyin 12:00'da sona erer.
+B. ZARAR ve TAZMİNAT
+B.1. Hak Sahibinin Başvuru Hakkı ve Başvuru Süresi
+Hak sahipleri poliçede öngörülen teminat sınırları içinde doğrudan doğruya sigortacıya karşı talepte bulunabilirler.
+Sigortacı, poliçede belirtilen teminat limitleriyle sınırlı olmak kaydıyla hak sahipleri ile temasa geçerek anlaşma hakkına sahiptir. Ancak, sigortacının yazılı izni olmadıkça sigortalı, tazminat talebini kısmen veya tamamen kabule yetkili olmadığı gibi hak sahiplerine herhangi bir tazminat ödemesinde bulunamaz.
+Tazminata yol açan olay, sigortalı veya hak sahibi tarafından öğrenildiği tarihten itibaren otuz iş günü içinde; olay yurt dışında meydana gelmişse altmış iş günü içinde sigortacıya ihbar edilir.
+B.2. Rizikonun Gerçekleşmesi Halinde Sigortalının Yükümlükleri
+Sigortalı, rizikonun gerçekleşmesi halinde aşağıdaki hususları yerine getirmekle yükümlüdür:
+a) Bu genel şartlara göre, sorumluğunu gerektirecek bir olayı, haberdar olduğu andan itibaren B.1. maddesinde belirtilen süre içinde sigortacıya ihbar etmek,
+b) Sigortalı değilmişcesine gerekli kurtarma ve koruma önlemlerini almak ve bu amaçla sigortacı tarafından verilecek talimatlara uymak,
+c) Sigortacının talebi üzerine, olayın ve zararın nedeni ile hangi hal ve şartlar altında gerçekleştiğini ve sonuçlarını tesbite, tazminat yükümlülülüğü ve miktarı ile rücu hakkının kullanılmasına yararlı, elde edilmesi mümkün bilgi ve belgeleri gecikmeksizin vermek,
+d) Zarardan dolayı dava yolu ile veya başka yollarla bir tazminat talebi karşısında kaldığı veya aleyhine cezai kovuşturmaya geçildiği hallerde, durumdan sigortacıyı derhal haberdar etmek ve zarar ziyan talebine ve cezai kovuşturmaya ilişkin olarak almış olduğu ihbarname, davetiye ve benzeri tüm belgeleri derhal sigortacıya vermek,
+e) Sigorta konusu ile ilgili başka sigorta sözleşmeleri varsa, bunları sigortacıya bildirmek.
+B.3. Kazaya İlişkin Belgeler
+Sigortacı tazminatı ödemek için, kazayla ilgili olarak, hak sahibinden aşağıdaki belgeleri isteyebilir.
+a) Alkol raporu ile yetkili kamu otoriteleri tarafından düzenlenen kaza tespit tutanağı veya bilirkişi raporunu,
+b) Olaya karışan başka araçlar varsa, trafik tescil belgelerinin, sürücü belgelerinin fotokopilerini, alkol raporunu,
+c) Başvuru ölüm nedeniyle yapılmışsa, ölüm raporu ve veraset ilamı ile ölenin mesleği ve gelir durumunu ve desteklik ilişkisini gösteren belgeleri,
+d) Olayın mahkemeye intikal etmiş olması halinde mahkeme kararını,
+e) Başvuru, yaralanma nedeniyle yapılmışsa (a) ve (b) bentlerindeki belgelere ek olarak tedavi giderlerini gösteren belgeleri; başvuru, geçici veya daimi sakatlanma nedeniyle yapılıyorsa, tam teşekküllü hastaneden alınacak raporu.
+Sigortacı (b) bendindeki belgelerin olmaması nedeniyle tazminat talebinde bulunan hak sahibine ödemede bulunmaktan kaçınamaz.
+B.4. Tazminatın ve Giderlerin Ödenmesi
+Sigortacı, tazminatı B.3 bölümündeki belgelerin eksiksiz olarak, şirketin merkez veya kuruluşlarına iletildiği tarihten itibaren sekiz iş günü içinde, poliçedeki teminat tutarları dahilinde öder. Tazminatın bu süre içinde haklı neden olmaksızın ödenmemesi halinde, sigortacı temerrüde düşmüş olur ve ödenmemiş tazminat tutarına yasal temerrüt faizi uygulanır. Temerrüt faizi teminat limiti içinde yapılmış ödeme sayılmaz.
+Bu sigorta ile ilgili olarak dava açılması halinde, sigorta poliçesinde yazılı limitlere kadar davanın takip ve idaresi sigortacıya ait olup, sigortalı sigortacının göstereceği avukata gereken vekaletnameyi vermek zorundadır. Sigortacı dava masrafları ile avukatlık ücretlerini öder. Şu kadar ki, hükmolunan tazminatın sigorta bedelinden fazla olması halinde, sigortacı bu masrafları sigorta bedelinin tazminata olan oranı dahilinde öder.
+Sigortalı veya eylemlerinden sorumlu tutulduğu kimseler aleyhine cezai kovuşturmaya geçilmesi halinde, sanığın izni ile sigortacı da savunmaya iştirak eder. Bu takdirde, sigortacı yalnız seçtiği avukatın giderlerini öder.
+Cezai kovuşturmadan doğan tüm giderler ile muhtemel para cezaları sigorta teminatı dışındadır.
+B.5. Zarar Görenlerin Çokluğu
+Hak sahiplerinin tazminat alacakları, sigorta sözleşmesinde belirtilen teminat tutarından fazla ise, hak sahiplerinden her birine ödenecek tazminat tutarı, teminat tutarının tazminat alacakları toplamına olan oranına göre indirime tabi tutulur. Birden çok kişinin zarar gördüğü kazalarda, başka tazminat taleplerinin bulunduğunu bilmeksizin, hak sahiplerinden birine veya bir kaçına, kendilerine düşecek olandan fazla ödemede bulunan iyiniyetli sigortacı, yaptığı ödeme çerçevesinde diğer hak sahiplerine karşı da borcundan kurtulmuş olur.
+B.6. Sigortacının Halefiyeti
+Sigortacı, ödediği tazminat tutarınca, hukuken sigortalının yerine geçer.
+B.7. Zarar Görenlerin Haklarının Saklı Tutulması ve Sigortacının Sigortalıya Rücu Hakkı
+Sigorta sözleşmesinden veya sigorta sözleşmesine ilişkin kanun hükümlerinden doğan ve tazminat yükümlüğünün kaldırılması veya miktarının azaltılması sonucunu doğuran haller zarar görene karşı ileri sürülemez.
+Ödemede bulunan sigortacı, sigorta sözleşmesine ve bu sözleşmeye ilişkin kanun hükümlerine göre, tazminatın kaldırılmasını veya azaltılmasını sağlayabileceği oranda sigortalıya rücu edebilir.
+Sigortalıya başlıca şu nedenlerle rücu edilir:
+Tazminatı gerektiren olay;
+a) sigorta ettirenin veya eylemlerinden sorumlu olduğu kişilerin kasti bir hareketi veya ağır kusuru sonucunda meydana gelmişse,
+b) 4925 sayılı Karayolu Taşıma Kanununda yasaklanan hallerden, sigorta ettirenin bu kanun ve ilgili yönetmelikteki yükümlülüklerini yerine getirmemesinden doğmuşsa,
+c) taşımacının yetki belgesinde kayıtlı olmayan taşıtlarla yapılan veya yetki belgesi olmadan yapılan taşımalar sonucu meydana gelmişse,
+d) taşıtın, mevzuatın gerektirdiği teknik şartlara uygun olmamasından, nitelikli şoför ve hizmetli personeli olmadan sefere çıkarılmasından; güzergah mesafesini dikkate alarak yeteri kadar sürücü bulundurulmamasından meydana gelmişse,
+e) ikram edilen yiyecek ve içecekler ile diğer maddelerin sağlık şartlarına uygunluğunun sağlanmaması, yolcuların sağlığının olumsuz etkilenmemesi hususunda taşımacının yükümlülüklerini yerine getirmemesinden doğmuşsa,
+f) gerekli ilk tıbbi yardım malzeme ve ilaçların taşıtta bulundurulmaması veya bunlardan derhal istifade edilmesi imkanının sağlanmamış olmasından meydana gelmişse,
+g) 2918 sayılı Karayolları Trafik Kanunu ve ilgili diğer mevzuata göre, taşıtın, gerekli sürücü belgesine sahip kişiler tarafından sevkedilmemesi sonucunda olmuşsa,
+h) sürücülerin uyuşturucu veya keyif verici maddeler almış olmasından veya alkollü içki almış olarak aracı güvenli sürme yeteneklerini kaybetmiş bulunmalarından meydan gelmişse;
+i) yetkili makamlarca saptanan istiap haddinden fazla yolcu veya yük taşınmasından veya taşıtın işletilmesine ilişkin diğer yasaklanan hallerden doğmuşsa,
+j) sigortalının veya eylemlerinden sorumlu olduğu kişilerin kusuru neticesinde aracın çalınması veya gasbedilmesi sonucunda meydana gelmişse
+ve sigorta ettirenin rizikonunun gerçekleşmesi halinde B.2. maddesinde belirtilen yükümlülükleri yerine getirmemesi nedeniyle, artan zarar miktarı ile sınırlı olmak kaydıyla, zarar miktarında bir artış olmuşsa sigorta ettirene rücu edilir.
+B.8. Tazminat Ödemesinde Öncelikli Sigorta
+(Değişik:RG-11/02/2006-26077) Meydana gelen zarar öncelikle bu sigortadan karşılanır. Sigorta sözleşmesinin hiç yapılmamış olması, yapılmış fakat geçersiz hale gelmiş olması, süresinin bitmiş olması veya meydana gelen zararın bu sigorta teminatlarının üzerinde bulunması halinde teminatların üzerinde kalan kısım için; sırasıyla 13/10/1983 tarih ve 2918 sayılı Karayolları Trafik Kanununa göre yapılması zorunlu olan mali sorumluluk sigortasına ve varsa ihtiyari mali sorumluluk sigortasına başvurulur.
+C. ÇEŞİTLİ HÜKÜMLER
+C.1. Sigorta Ücretinin Ödenmesi ve Sorumluluğun Başlaması
+Sigorta ücreti; prim ile sigorta sözleşmesine, bedeline veya primine ilişkin olarak mevcut ve ileride konulacak vergi, resim, harç ve diğer yükümlülüklerden oluşur ve sigortalı tarafından ödenir.
+Sigorta ücretinin tamamı, sözleşme yapılır yapılmaz poliçenin teslimi karşılığında peşin olarak ödenir. Ücret poliçenin teslimine rağmen ödenmemişse sigortacının sorumluluğu başlamaz. Bu şart poliçenin ön yüzüne yazılır.
+C.2. Sigortalının Sözleşme Yapılırken Beyan Yükümlülüğü
+Sigortacı, bu sigortayı, sigortalının rizikonun gerçek durumunu bildirmek üzere teklifnamede, teklifname yoksa poliçe ve eklerinde yazılı beyanına dayanarak kabul etmiştir.
+Sigortalı, sigortacının sözleşme yapılırken gerçek durumu bildiği takdirde, sözleşmeyi yapmamasını veya daha ağır şartlarla yapmasını gerektirecek bütün hususları sigortacıya bildirmeye mecburdur.
+Sigortalının beyanının gerçeğe aykırı veya eksik olması halinde, sigortacının sözleşmeyi daha ağır şartlarla yapmasını gerektirecek durumlarda, sigortacı durumu öğrendiği andan itibaren sekiz gün içinde prim farkının ödenmesi hususunu sigortalıya ihtar eder. Sigortalı, ihtarın tebliğ tarihini izleyen sekiz gün içinde talep olunan prim farkını ödemez veya ödemeyeceğini bildirirse, sözleşme feshedilmiş olur. Bu durumda, feshin hüküm ifade edeceği tarihe kadar geçen sürenin primi gün esası üzerinden hesap edilir ve fazlası sigortalıya geri verilir.
+Sigortalı, sözleşme yapılırken sorulduğu halde kasten susmuş veya bilerek noksan ya da gerçeğe aykırı beyanlarda bulunmuşsa, gerçeği tam olarak bilmeyen sigortacı sözleşmeyi feshedebilir. Fesih halinde sigortacı primin tamamına hak kazanır. Sigortacı gerçeği öğrendiği tarihten itibaren bir ay içinde fesih hakkını kullanmadığı takdirde, bu hak düşer. Bu süre içinde riziko gerçekleşmişse, sigortacı tazminatı hak sahibine öder. Sigortacı, bu durumda ödediği miktar kadar sigortalıya rücu eder.
+Gerçeğe aykırı beyan hali, zararı doğuran olayın meydana gelmesinden sonra öğrenilmişse, sigortacı, bu zarardan dolayı ödenmiş ve ödenecek tazminatın:
+a) Gerçeğe aykırı beyanın kasten yapılmış olması halinde tamamı için,
+b) Kasıt olmaması halinde ise, ödenecek tazminat miktarı ile, bu tazminatın alınan primin alınması gereken prime oranı ile çarpılması sonucu ortaya çıkan miktar arasındaki fark için
+sigortalıya rücu edebilir.
+C.3. Sigortalının Sigorta Süresi İçinde Beyan Yükümlülüğü
+Sigortalı sözleşmeden sonra rizikoyu ağırlaştırıcı mahiyette meydana gelecek değişiklikleri, durumu öğrenir öğrenmez en geç sekiz gün içinde sigortacıya ihbarla yükümlüdür. Sigortacı durumu öğrendiği andan itibaren sekiz gün içinde prim farkının ödenmesi hususunu sigortalıya ihtar eder. Sigortalı ihtarın tebliğ tarihini takip eden sekiz gün içinde talep olunan prim farkını ödemez veya ödemeyeceğini bildirirse sözleşme feshedilmiş olur.
+Sözleşmenin feshi halinde, feshin hüküm ifade edeceği tarihe kadar geçen sürenin primi gün esası üzerinden hesap edilir ve fazlası sigortalıya geri verilir. Prim farkının süresinde istenilmemesi halinde fesih hakkı düşer.
+Söz konusu değişikliklere ilişkin ihbar yükümlüğünün yerine getirilmesinden önce meydana gelen olaylardan dolayı ödenmiş veya ödenecek tazminatlar için, değişikliğin bildirilmesinin kasıtlı olup olmamasına göre, C.2. maddesinin son fıkrası hükümleri uygulanır.
+Sigorta süresi içinde meydana gelen değişikliklerin rizikoyu hafifletici nitelikte olduğu ve bunun daha az prim alınmasını gerektirdiği anlaşılırsa, değişikliğin yapıldığı tarihten sözleşmenin sona ermesine kadar geçecek süre için gün esasına göre hesaplanacak prim farkı sigortalıya geri verilir.
+(Değişik:RG-11/02/2006-26077) Herhangi bir nedenle sigortanın feshedilmesi halinde, sigortacı durumu Ulaştırma Bakanlığına bildirir.
+C.4. Sigortalının Değişmesi, Faaliyetinin Sona Ermesi
+Sigortalının değişmesi halinde, poliçeden doğan bütün hak ve borçlar yeni sigortalıya geçer.
+Taşımacı yetki belgesinin iptali ya da taşıyıcının taşıma faaliyetini sona erdirmesi halinde, sigorta sözleşmesi kendiliğinden feshedilmiş sayılır. Bu durumda, yetki belgesinin iptal edildiği veya faaliyetin sona erdiği tarihten sigorta süresinin sonuna kadarki süreye karşılık gelen prim tutarı gün esası üzerinden hesaplanarak sigortalıya iade edilir.
+C.5. Tebliğ ve İhbarlar
+Sigortalının ihbar ve tebliğleri, sigorta şirketinin merkezine veya sigorta sözleşmesine aracılık yapan acenteye noter aracılığıyla veya taahhütlü mektupla yapılır.
+Sigortacının ihbar ve tebliğleri de sigortalının poliçede gösterilen adresine; bu adresin değişmiş olması halinde, sigorta şirketinin merkezine veya sigorta sözleşmesine aracılık yapan acenteye bildirilen son adresine, aynı surette yapılır.
+Taraflara imza karşılığı olarak elden verilen mektup veya telgraf ile yapılan ihbar ve tebliğler de taahhütlü mektup hükmündedir.
+Sigortacı veya sigortalı tarafından yapılan ihbar ve tebliğler, alındığı tarihi izleyen gün hüküm ifade eder.
+C.6. Ticari ve Mesleki Sırların Saklı Tutulması
+Sigortacı ve sigortacı adına hareket edenler bu sözleşmenin yapılması nedeniyle sigortalıya ait öğrenecekleri ticari ve mesleki sırların saklı tutulmamasından doğacak zararlardan sorumludurlar.
+C.7. Zamanaşımı
+Sigorta sözleşmesinden doğan her türlü tazminat davası, hak sahibinin zararı ve tazminat yükümlülerini öğrendiği tarihten itibaren iki yıl ve herhalde zarara neden olay tarihinden itibaren on yıl sonra zamanaşımına girer.
+Dava, cezayı gerektiren bir fiilden oluşmuşsa ve 765 sayılı Türk Ceza Kanununda bu fiil için daha uzun bir zamanaşımı süresi öngörülmekte ise tazminat davasında bu zamanaşımı dikkate alınır.
+Sorumlu kişi hakkındaki zamanaşımını kesen sebepler, sigortacı hakkında, sigortacı hakkında zamanaşımını kesen sebepler de sorumlu kişi hakkında uygulanır.
+Bu sigortada, tazminat yükümlülerinin birbirlerine karşı rücu hakları kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri günden başlayarak iki yılda zamanaşımına uğrar.
+Diğer hususlar hakkında genel hükümler uygulanır.
+C.8. Yetkili Mahkeme
+Sigorta sözleşmesinden doğan anlaşmazlıklar nedeniyle sigortacı aleyhine açılacak davalarda yetkili mahkeme, sigorta şirketinin merkezinin veya sigorta sözleşmesine aracılık yapan acentenin ikametgahının bulunduğu yerdeki veya zarara yol açan olayın meydana geldiği yerdeki; sigortalı aleyhine açılacak davalarda ise davalının ikametgahının bulunduğu yerdeki ticaret davalarına bakmakla görevli mahkemedir.
+C.9. Yürürlük
+Bu Genel Şartlar 19.01.2004 tarihinde yürürlüğe girer.
