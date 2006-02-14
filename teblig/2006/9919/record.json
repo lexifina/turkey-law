@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9919",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BİLGİ VE BELGEYE ERİŞİM ÜCRETİ GENEL TEBLİĞİ (SIRA NO: 1)",
+  "number": "9919",
+  "path": "teblig/2006/9919",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9919&MevzuatTertip=5",
+  "source_sha256": "b18e15c8437d792b3c48ecdfcb263691aaa0978acf441e9f2fc0f36164504240",
+  "source_bytes": 22743,
+  "published": "2006-02-14",
+  "gazette": "26080",
+  "in_force": "2006-02-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.02.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1128,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
