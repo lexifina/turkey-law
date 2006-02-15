@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-02-15",
+  "issue": "26081",
+  "edition": "regular",
+  "item": 3,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "Kanunlar",
+  "title": "5456 Gümrük Müsteşarlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnameye Bir Geçici Madde Eklenmesine Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060215-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060215.htm",
+  "index_sha256": "a204543a6524b8e3e974885215082e58c2e90b0cd1b54d3ee20a40431d9a7cd0",
+  "index_header": "15 Şubat 2006 ... Sayı : 26081",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
