@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5457",
+  "year": 2006,
+  "title": "Telgraf ve Telefon Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-02-15",
+  "gazette_issue": "26081",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060215-4.htm",
+  "source_sha256": "166e6104e40db93f7f89dfd98af804e06a0e6856d8cc3e1c062c1bd2f9fb2de3",
+  "text_sha256": "9b85f64133bbb554e20bc19d34391ca12ca05a7ab941620eacce8250496c057d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/02/15/26081-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060215-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
