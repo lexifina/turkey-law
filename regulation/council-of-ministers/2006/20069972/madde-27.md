@@ -1,0 +1,4 @@
+Danışmanlık hizmeti sunma ve bilgilendirme yükümlülüğü
+MADDE 27 — Strateji geliştirme birimleri, harcama birimleri tarafından birimlerine ilişkin olarak istenilen bilgileri sağlamak ve harcama birimlerine malî konularda danışmanlık hizmeti sunmakla yükümlüdür. Bu amaçla malî yönetim ve kontrol ile denetim konularında gerekli bilgi ve dokümantasyon, yetki ve görevleri çerçevesinde, strateji geliştirme birimleri tarafından oluşturulur ve izlenir.
+Harcama birimleri, malî mevzuatta meydana gelen değişiklikler konusunda strateji geliştirme birimleri tarafından uygun araçlarla bilgilendirilir.
+Malî konulardaki düzenleme ve kararların uygulanması konusunda, gerektiğinde ilgili idarelerin görüşü de alınarak, strateji geliştirme birimleri tarafından uygulamaya açıklık getirici ve yönlendirici yazılı bilgilendirme yapılabilir.

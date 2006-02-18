@@ -1,0 +1,2 @@
+Çalışmalarda işbirliği ve uyum
+MADDE 31 — Strateji geliştirme birimlerinin faaliyet ve çalışmalarını değerlendirmek ve gerekli önlemleri almak amacıyla, strateji geliştirme birimi yöneticisinin başkanlığında alt birim yöneticilerinin katılımı ile ayda bir defadan az olmamak üzere düzenli toplantılar yapılır. Bu toplantılarda, strateji geliştirme birimlerinin faaliyetleri ve gerçekleştirilen işlemler, sorunlar, görüş ve öneriler değerlendirilerek bilgi paylaşımı, işbirliği ve uyum sağlanır.

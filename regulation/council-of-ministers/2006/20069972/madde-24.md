@@ -1,0 +1,2 @@
+Yatırım değerlendirme raporunun hazırlanması
+MADDE 24 — Yatırım projelerini uygulayan harcama birimleri, yıllık yatırım değerlendirme raporunun hazırlanmasına dayanak teşkil eden bilgi ve belgeleri strateji geliştirme birimlerine gönderir. Yatırım projelerinin gerçekleşme ve uygulama sonuçlarına ilişkin yıllık yatırım değerlendirme raporu, strateji geliştirme birimleri tarafından hazırlanarak izleyen yılın Mart ayı sonuna kadar Sayıştaya, Bakanlığa ve Devlet Planlama Teşkilatı Müsteşarlığına gönderilir.

@@ -1,0 +1,2 @@
+Taşınır ve taşınmaz kayıtlarının tutulması
+MADDE 19 — İdarenin mülkiyetinde veya idareye tahsisli olan ya da idarenin kullanımında bulunan taşınır ve taşınmazlar ile bunlara ilişkin işlemlerin kaydı ilgili mevzuatında belirlenen kişiler tarafından tutulur. Taşınır kayıtları idarenin birimleri bazında düzenlenerek mevzuatında belirlenen sürede strateji geliştirme birimlerine gönderilir. Strateji geliştirme birimleri tarafından bu kayıtlar idare bazında konsolide edilir ve taşınmaz kayıtları da eklenerek icmal cetvelleri hazırlanır.

@@ -1,0 +1,2 @@
+Görev ayrılığı
+MADDE 32 — Harcama yetkililiği ile muhasebe yetkililiği görevi aynı kişide birleşemez. Strateji geliştirme birimlerinde ön malî kontrol görevini yürütenler, onay belgesi ve ekleri ile şartname ve sözleşme tasarılarının hazırlanması, malî karar ve işlemlerin belgelendirilmesi, mal ve hizmetlerin teslim alınması gibi malî karar ve işlemlerin hazırlanması ve uygulanması aşamalarında görevlendirilemezler ve ihale komisyonu ile muayene ve kabul komisyonunda başkan veya üye olamazlar.

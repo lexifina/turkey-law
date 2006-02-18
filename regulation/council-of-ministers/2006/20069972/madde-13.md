@@ -1,0 +1,4 @@
+Yatırım programı hazırlıklarının koordinasyonu
+MADDE 13 — İdarelerin yatırım programı teklifinin hazırlanmasında kullanılacak belge ve cetveller ile gerekli doküman strateji geliştirme birimleri tarafından idarenin ilgili birimlerine gönderilir. Harcama birimleri yatırım programına ilişkin tekliflerini hazırlayarak strateji geliştirme birimlerine gönderir. Harcama birimleri temsilcileri ile görüşmeler yapılarak idarenin yatırım programı teklifi strateji geliştirme birimleri tarafından hazırlanır.
+Yatırım programı tekliflerinin hazırlanmasında orta vadeli program, orta vadeli malî plan, idarenin stratejik planı, bütçe çağrısı ve bütçe hazırlama rehberi, yatırım genelgesi ve yatırım programı hazırlama rehberi esas alınır.
+Sosyal güvenlik kurumları ve mahallî idarelerin yatırım programı tekliflerinin hazırlanmasında Kanun, teşkilat kanunları ve ilgili diğer mevzuat dikkate alınır.

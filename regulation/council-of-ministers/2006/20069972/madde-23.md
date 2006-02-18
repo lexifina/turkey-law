@@ -1,0 +1,3 @@
+İdare faaliyet raporunun hazırlanması
+MADDE 23 — Faaliyet raporları, Kanunun 41 inci maddesi ve bu maddeye dayanılarak yapılan düzenlemelere uygun bir şekilde hazırlanır. Harcama birimleri tarafından hazırlanan birim faaliyet raporları, idare faaliyet raporunun hazırlanmasında esas alınmak üzere, strateji geliştirme birimlerine gönderilir. Strateji geliştirme birimleri tarafından harcama birimleri arasında koordinasyon sağlanarak idare faaliyet raporu hazırlanır ve üst yönetici ile bağlı, ilgili veya ilişkili bulunulan bakan tarafından onaylanır.
+Mahallî idareler ve sosyal güvenlik kurumlarının faaliyet raporları, ilgili mevzuatında yer alan düzenlemeler de dikkate alınarak hazırlanır.

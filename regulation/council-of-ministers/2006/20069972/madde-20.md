@@ -1,0 +1,3 @@
+Muhasebe hizmetlerinin yürütülmesi
+MADDE 20 — 9/12/1994 tarihli ve 4059 sayılı Kanun hükümleri saklı kalmak kaydıyla, genel bütçe kapsamındaki kamu idarelerinin muhasebe hizmetleri Bakanlık tarafından, genel bütçe kapsamı dışındaki kamu idarelerinin muhasebe hizmetleri ise bu idarelerin strateji geliştirme birimleri tarafından yürütülür. Muhasebe hizmetleri, Kanun ve ilgili mevzuat çerçevesinde, muhasebe yetkilileri tarafından yerine getirilir.
+İdareler, muhasebe birimlerini, atanan veya görevlendirilen muhasebe yetkililerini, görev alanlarını ve bunlara ilişkin değişiklikleri, göreve başlama veya değişiklik tarihinden itibaren en geç beş iş günü içinde Sayıştaya ve Bakanlığa bildirir.

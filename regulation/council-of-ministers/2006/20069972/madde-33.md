@@ -1,0 +1,2 @@
+Strateji geliştirme birimlerinde kullanılacak defter, kayıt ve belgeler
+MADDE 33 — Strateji geliştirme birimlerinde kullanılacak defter, kayıt ve belgeler, aynı bilgileri içerecek şekilde elektronik ortamda da düzenlenebilir. Bu şekilde düzenlenecek defter, kayıt ve belgeler, gerektiğinde çıktıları alınarak sayfa numarası verilmek ve yetkililerince imzalanmak suretiyle konularına göre açılacak dosyalarda muhafaza edilir.
