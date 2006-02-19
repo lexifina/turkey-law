@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-02-19",
+  "issue": "26085",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Yargı İlânları Artırma, Eksiltme ve İhale İlânları",
+  "category": "yargi",
+  "category_page": "2",
+  "title": "Ankara 13. Sulh Hukuk Hakimliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/02/20060219-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (4 = 4)",
+  "ilan_codes": [
+    "1391/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/02/20060219-2.htm",
+  "category_page_sha256": "a30a5f563c9ce3f4d63b6f076d1226aacceb988d259ba14f79e9ff6355e1bd86",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/02/20060219.htm",
+  "index_sha256": "fa62d9c42f7d6ec94e84666b87f2c1efd5384754e5ad3ccf1b5c27456537071e",
+  "index_header": "19 Şubat 2006 ... Sayı : 26085",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed (court notice)"
+}
