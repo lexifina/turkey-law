@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 - Doğu ve Güneydoğu sınırlarının korunması ve güvenliğinin sağlanması görevi Kara Kuvvetleri Komutanlığınca fiilen devir alınıncaya kadar; Jandarma Genel Komutanlığı sorumluluğundaki sınır bölgelerinde görevli jandarma birlikleri, bu görevlerini, 2803 sayılı Kanun ile Jandarma Teşkilâtı Görev ve Yetkileri Yönetmeliği hükümleri uyarınca yerine getirir.
