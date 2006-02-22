@@ -1,0 +1,7 @@
+18 – 23/1/2008 tarihli ve 5728 sayılı Kanunla değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 107,108,110,111,112,113,114.)
+Madde 107 – (21/7/1953 tarihli ve 6183 sayılı Kanunun hükmüdür.)
+Bu Kanunun tatbikında vazifeli bulunan kimseler, bu vazifeleri dolayısiyle amme borçlusunun ve onunla ilgili kimselerin şahıslarına, mesleklerine, işlerine, muamele ve hesap durumlarına ait öğrendikleri sırlarla, gizli kalması lazımgelen diğer hususları ifşa ettikleri takdirde 2 aydan 6 aya kadar hapis cezası ile cezalandırılırlar.
+Bu sırları kendileri veya başkaları için menfaat temini maksadı ile ifşa edenler beş aydan iki seneye kadar hapis cezası ile cezalandırılır ve bu suçun failleri ile birinci fıkradaki suçun mükerrirlerinin bir daha Devlet hizmetinde kullanılmamalarına karar verilir.
+Madde 108 fıkra iki- (21/7/1953 tarihli ve 6183 sayılı Kanunun hükmüdür.) Bu madde hükmüne aykırı hareket edenler üç aydan üç yıla kadar hapis ve altı aydan üç yıla kadar memuriyetten mahrumiyet cezası ile cezalandırılırlar.
+Madde 110 fıkra bir (2) numaralı bent- (21/7/1953 tarihli ve 6183 sayılı Kanunun hükmüdür.) Gizliyerek, kaçırarak muvazaa yolu ile başkasının uhdesine geçirerek veya aslı olmıyan borçlar ikrar ederek, yahut alındılar vererek gerçeğe aykırı surette, varlığını yok eder veya azaltır ve geri kalan mallar borcu karşılamaya yetmezse üç aydan üç yıla kadar hapis cezasiyle cezalandırılır ve tevellüt eden zarar az ise verilecek ceza yarısına kadar indirilerek, eğer pek fahiş ise yarısına kadar artırılarak hükmolunur.
+406-5

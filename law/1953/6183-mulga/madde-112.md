@@ -1,0 +1,2 @@
+Madde 112 – (21/7/1953 tarihli ve 6183 sayılı Kanunun hükmüdür.)
+Usulü dairesinde mal bildiriminde bulunduktan sonra, edinilen mallarla, her türlü mallarında, kazanç ve gelirlerinde olan artmaları 61 inci madde hükümleri gereğince zamanında bildirmemek suretiyle amme alacağının tahsilini engellemiş veya zorlaştırmış olanlar sulh işlerine bakan mahkemelerce bir aydan bir seneye kadar hafif hapis cezası ile cezalandırılırlar.
