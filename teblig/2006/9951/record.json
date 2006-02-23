@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.9951",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 356)",
+  "number": "9951",
+  "path": "teblig/2006/9951",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9951&MevzuatTertip=5",
+  "source_sha256": "5129e7762bcea3f273ae7c3cdd10a63824abe0b92d3d37881e32905793ad2e22",
+  "source_bytes": 44142,
+  "published": "2006-02-23",
+  "gazette": "26089",
+  "in_force": "2006-02-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.02.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1214,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
