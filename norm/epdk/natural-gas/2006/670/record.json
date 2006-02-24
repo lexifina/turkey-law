@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "670",
+  "decision_date": "2006-02-24",
+  "title": "Denetim İhalesi Genel Yeterlilik İlanının ve Doğal Gaz Dağıtım Şirketleri Denetimi Usul Esaslarına İlişkin",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q8p2PRCtdog=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q8p2PRCtdog=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1i98VaJhFU0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=enjZYba5xNE="
+  ],
+  "source_sha256": "ac65b3197f66f19d5e8b2f2fc601114b35d07d440986d814cfa091c8662e7f30",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-02-24",
+  "law_text_complete": false
+}
