@@ -1,0 +1,4 @@
+Başvuru konusu madde
+MADDE 2- (1) Kontrplaklar, ağaç kütüklerinin soyma tekniği ile katmanlara ayrılması ve bu katmanların birbirlerine lif (su) yönleri dik gelecek şekilde yüksek sıcaklık ve basınç altında çapraz yapıştırılmaları ile üretilen ve kullanım alanlarına göre yüzeyleri sert ağaç katmanları, fenolik film, plastik laminat, doyurulmuş kağıt, fiber takviyeli reçine, boya veya cila ile kaplanabilen ahşap panellerdir. Kontrplaklar, yapılarda beton döküm panelleri, endüstriyel zeminler, yapı panelleri (çatı, duvar, döşeme, cephe kaplama, vb) gibi yük taşıyıcı, kara, deniz ve demiryolu taşıtlarında zemin ve panel; ambalaj sektöründe kargo ambalajı, mobilya ve parke sektöründe ise ara mamul olarak pek çok değişik şekilde kullanılmaktadır.
+(2) Başvuru konusu madde, 4412.13, 4412.14 ve 4412.19. gümrük tarife pozisyonları (GTP) altında sınıflandırılmaktadır.
+(3) Bu aşamada belirtilen GTP’ler bilgi amaçlı verilmiş olup, bağlayıcı değildir.
