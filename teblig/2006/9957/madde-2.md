@@ -1,0 +1,5 @@
+Yürürlük süresi sona erecek dampinge karşı vergiler
+MADDE 2- (1) Aşağıdaki tabloda yer alan dampinge karşı önlemlerin yürürlükte kalma süresi, karşılarında belirtilen tarihlerde sona erecektir. Ancak, süre bitiminden evvel yerli üretim dalının destekleyici delilleri içeren talebi üzerine açılacak bir nihai gözden geçirme soruşturması sonucunda, önlemlerin sona ermesinin dampingin ve zararın devam etmesine veya yeniden meydana gelmesine yol açacağı yönünde bir belirleme yapılması halinde, bu belirlemeye ilişkin dampinge karşı önlem uygulamalarına devam edilir.
+G.T.İ.P. | Ürün | Menşe veya İhracatçı Ülke | Önlemin Yayımlandığı Resmi Gazete Tarih ve No’su | Tebliğ No | Önlemin Bitiş Tarihi
+7207.11.14.00.13 7207.11.14.00.14 7207.11.16.00.13 7207.11.16.00.14 7207.20.15.00.13 7207.20.15.00.14 | Haddelenmiş veya sürekli döküm suretiyle elde edilmiş kütük | Moldova Rusya Federasyonu Ukrayna | 17/10/2001 24556 | 2001/3 | 17/10/2006
+9105.21.00.00.00 | Elektrikle çalışan duvar saatleri | Çin Halk Cumhuriyeti | 07/11/2001 24576 | 2001/5 | 07/11/2006
