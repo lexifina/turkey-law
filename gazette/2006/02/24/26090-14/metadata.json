@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-02-24",
+  "issue": "26090",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2006/6)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060224-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060224.htm",
+  "index_sha256": "5b3aeee50f7d87e082ddc85c2e6f7db457544d519ebc41c93886824a6e175b1b",
+  "index_header": "2 4 Şubat 2006 ... Sayı : 26090",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
