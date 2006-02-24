@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "664/20",
+  "decision_date": "2006-02-24",
+  "title": "Kaçak ve Usulsüz Elektrik Enerjisi Kullanımına İlişkin",
+  "resmi_gazete_date": "2006-03-09",
+  "resmi_gazete_number": "26103",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=56IbzeLugs0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=56IbzeLugs0="
+  ],
+  "source_sha256": "8101819992fb171d33f715561f0213421d727066049b31ec6960ae79b0355276",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-02-24",
+  "law_text_complete": false
+}
