@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-02-25",
+  "issue": "26091",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Çevre Kirliliğinin Önlenmesi ve Temizlenmesine Yönelik Faaliyetler İçin Yapılacak Harcama ve Yardımlar ile Verilecek Kredilere İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060225-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060225.htm",
+  "index_sha256": "c3c6a1068f772eb13ee0250d75ace88e9bb339df7b9a6094ca015ff4496641b8",
+  "index_header": "25 Şubat 2006 ... Sayı : 26091",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
