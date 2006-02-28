@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5459",
+  "year": 2006,
+  "title": "Türk Silahlı Kuvvetleri Stratejik Hedef Planının Gerçekleştirilmesi Maksadıyla Gelecek Yıllara Sari Taahhütlere Girişme Yetkisi Verilmesi Hakkında Kanunun Bir Maddesinde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-02-28",
+  "gazette_issue": "26094",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060228-1.htm",
+  "source_sha256": "096b81b1d65cf008642190865ef8a368e3ade61b54cc9b13ae54694178bbb505",
+  "text_sha256": "79b90beab1d2aa3542b77267bd3ced680638b2e61e188a1cc3ea4e0f42f1c982",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/02/28/26094-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060228-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
