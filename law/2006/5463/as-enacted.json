@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5463",
+  "year": 2006,
+  "title": "Avrupa Bölgesinde Yükseköğretimle İlgili Belgelerin Tanınmasına İlişkin Sözleşmenin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-02-28",
+  "gazette_issue": "26094",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060228-4.htm",
+  "source_sha256": "562323da934e725461afb49ee8d8a14f6ed0267020464e67a792cae2e01ac3b9",
+  "text_sha256": "984a53a66d81851aba30762a0755ae572be8e4dd55321f2d76f0baee42db635c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/02/28/26094-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060228-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
