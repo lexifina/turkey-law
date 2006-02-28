@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5460",
+  "year": 2006,
+  "title": "Terörle Mücadele Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-02-28",
+  "gazette_issue": "26094",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060228-2.htm",
+  "source_sha256": "f710e8b9799801e64e3a0c500b361775cc5e4bce5c3f9214603e908e0975b65b",
+  "text_sha256": "c27f1ca3d6a2d1562110ed02d238289f34e5e73439689d27514d015b2d3e39a4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/02/28/26094-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/02/20060228-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
