@@ -1,0 +1,2 @@
+Birimlerin oluşturulması
+MADDE 6 – (1) 14/10/1983 tarihli ve 2920 sayılı Türk Sivil Havacılık Kanunu, 10/11/2005 tarihli ve 5431 sayılı Sivil Havacılık Genel Müdürlüğü Teşkilat ve Görevleri Hakkında Kanun ile bu Yönetmelikte belirlenen görevleri yerine getirebilmek için teknik ve idari birimler oluşturulur. Temsilciliklerde Genel Müdürün teklifi ve Bakanın onayı ile ihtiyaç duyulan birimler oluşturulabilir.

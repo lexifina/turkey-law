@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Ulaştırma Bakanını,
+b) Bakanlık: Ulaştırma Bakanlığını,
+c) Genel Müdürlük: Sivil Havacılık Genel Müdürlüğünü,
+ç) Genel Müdür: Sivil Havacılık Genel Müdürünü,
+d) Güvenlik Komisyonu: Hava Alanı Güvenlik Komisyonunu,
+e) HANKOK : Hava Nakliyatını Kolaylaştırma Komitesini,
+f) HALİNKOK : Hava Alanı Nakliyatını Kolaylaştırma Komitesini,
+g) Hava alanı: Karada ve su üzerinde, içerisindeki bina, tesis ve donatımlar dahil hava araçlarının kalkması, inmesi ve yer manevraları için hazırlanmış, hava araçlarının bakım ve diğer ihtiyaçlarının karşılanmasına, yük ve yolcu indirilip bindirilmesine elverişli tesisleri bulunan yerleri,
+ğ) Hava alanı işletmecisi: Hava alanı işletiminden sorumlu kamu kurum ve kuruluşları ile gerçek ve özel tüzel kişileri,
+h) Hava Aracı: Havalanabilen ve havada seyredebilme kabiliyetine sahip her türlü aracı,
+ı) Kargo Acentesi : Hava taşıyıcısı adına; kargo kabul ve sevk etmeye, konşimento (awb) düzenlemeye yetkili taşıma işleri organizasyonunu üstlenen IATA tescilli ve Genel Müdürlük yetki belgesine sahip kuruluşu,
+i) Mania: Uçakların yer hareketleri için kullanılan yüzeylerde bulunan veya uçuştaki uçağın korunması için belirlenmiş yüzeyleri aşan bütün geçici, sabit, seyyar cisimleri veya bunların bir kısmını,
+j) Safa Denetimi: Yabancı tescilli hava araçlarının uçuş emniyet denetimini,
+k) Sana Denetimi: Türk tescilli hava araçlarının uçuş emniyet denetimini,
+l) Slot: Önceden belirlenmiş zaman dilimlerindeki uçuş taleplerinin, talep edilen veya bu talebe müsait olan en yakın iniş/kalkış sefer zamanı için hava alanı imkanlarının, kanunlara atfen çıkarılan ilgili mevzuatta belirlenen görev, yetki ve sorumluluklar ile genel kullanım hakkını,
+m) Temsilcilik: Sivil Havacılık faaliyetlerinin yoğun olduğu illerde, 10/11/2005 tarihli ve 5431 sayılı Kanunun 3 üncü maddesine göre oluşturulan Genel Müdürlük taşra teşkilatını,
+n) Temsilci: Merkeze bağlı olarak görevli bulunduğu mahallin sınırları içerisinde Genel Müdürlükçe verilecek görevleri yapmak üzere atanan personeli,
+ifade eder.
