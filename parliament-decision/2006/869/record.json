@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "869",
+  "year": 2006,
+  "title": "(10/322, 323, 324) esas numaralı Meclis Araştırması Komisyonu Başkanlığının süre uzatımına ilişkin",
+  "adopted": "2006-02-28",
+  "adopted_as_published": "28/02/2006",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.03.2006 No: 26101",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/karartbmmc090/karartbmmc09000869.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 90",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 214362,
+      "title": "(10/322, 323, 324) esas numaralı Meclis Araştırması Komisyonu Başkanlığının süre uzatımına ilişkin",
+      "adopted_as_published": "28/02/2006",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/karartbmmc090/karartbmmc09000869.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 112,
+          "sitting": 68,
+          "sitting_date": "2006-02-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c112/tbmm22112068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c112/tbmm22112fih.pdf",
+          "pages": [
+            "306"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=147&v_gelecek_sayfa=101&v_kullanici_id=27483285",
+      "page_sha256": "a03251734a02d499ab5f0b2d0c5e2a74698b6cbd365fd1eacfe299217c8100ef"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a03251734a02d499ab5f0b2d0c5e2a74698b6cbd365fd1eacfe299217c8100ef",
+  "issuer": "TBMM",
+  "in_force": "2006-02-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 28/02/2006; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
