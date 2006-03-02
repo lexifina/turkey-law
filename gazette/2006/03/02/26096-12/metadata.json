@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-03-02",
+  "issue": "26096",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gemi Adamları İaşe Bedeli Tespit Kurulu Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060302-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060302.htm",
+  "index_sha256": "15683b8080debca835a00d24ea087be3c4bb2389b2ee91320d865c37be19c6eb",
+  "index_header": "2 Mart 2006 ... Sayı : 26096",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
