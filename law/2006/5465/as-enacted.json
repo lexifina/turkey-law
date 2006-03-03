@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5465",
+  "year": 2006,
+  "title": "İzmir Kentinde Yapılacak Dünya Üniversitelerarası Spor Oyunları (Universiade) Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-03-03",
+  "gazette_issue": "26097",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060303-1.htm",
+  "source_sha256": "a9c8eecadb2f43062838b679f5fe8ff3de2f743d2c76d01e4281c5e14b97079d",
+  "text_sha256": "7428c8b447422839efb05b58382d69a239261dc9fbc2a64707ad15bc13e25377",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/03/03/26097-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060303-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
