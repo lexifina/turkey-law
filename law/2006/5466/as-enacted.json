@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5466",
+  "year": 2006,
+  "title": "İstanbul Elektrik, Tramvay ve Tünel İdareleri Teşkilât ve Tesisatının İstanbul Belediyesine Devrine Dair Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-03-03",
+  "gazette_issue": "26097",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060303-2.htm",
+  "source_sha256": "4aa4ed68bdc58ac8b22dc4296b37170a726c95131fb1de8c81479055e6fcc0fb",
+  "text_sha256": "eea70bfc443cf1c2b6d9592552ef8ddb1e5ebeff3863d013271cfa440dcf664d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/03/03/26097-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060303-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
