@@ -1,0 +1,48 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2006/9",
+  "date": "2006-03-03",
+  "title": "SPK Haftalık Bülteni 2006/9",
+  "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_9.pdf",
+  "source_sha256": "397cdfe482214b0b2d0285427e61fd2eb0b8c6cf4a4e69130fbd3505735274c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. ÖZEL DURUMLAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2006 – 03.03.2006 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_9.pdf"
+    },
+    {
+      "heading": "B. 27.02.2006 – 03.03.2006 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_9.pdf"
+    },
+    {
+      "heading": "C. 27.02.2006 – 03.03.2006 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_9.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_9.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
