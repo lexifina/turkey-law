@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-03-03",
+  "issue": "26097",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2006/10068 Bazı Yerlerin Uygulama Alanı Olarak Tespiti Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060303-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060303.htm",
+  "index_sha256": "463b5b8fcfa88a5f3b72fb96e31d8a100e9f30039645aeb568ff49113070efb6",
+  "index_header": "3 Mart 2006 ... Sayı : 26097",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
