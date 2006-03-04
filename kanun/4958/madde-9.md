@@ -11,10 +11,13 @@ B-Sigorta Teftiş Kurulu Başkanlığı: Sigorta Teftiş Kurulu, Başkan adına 
 3) İşveren nezdinde işle ilgili her türlü kayıt ve belgeleri incelemek, ilgililerden bilgi istemek ve toplamak.
 4) İşin yürütülmesi için gerekli olan asgari işçilik miktarını saptamak.
 5) Diğer teftiş kurullarının yetkileri saklı kalmak kaydıyla, sigorta müfettişlerinin 506 sayılı Sosyal Sigortalar Kanunu ile ilgili olarak yaptıkları teftiş, kontrol, denetleme, inceleme ve soruşturma çalışmaları ve işlemlerini denetlemek, soruşturmalarını yürütmek.
-6) Kanun, kanun hükmünde kararname, tüzük ve yönetmeliklerde gösterilen ve Başkan tarafından verilen sosyal sigortalar mevzuatı ile ilgili benzer görevleri yapmak.
+6) (Ek: 22/2/2006-5458/9 md.) Sektörel analizler yapmak, denetlenecek sektörleri her yıl için belirlenecek risk değerlendirme kriterlerine göre sınıflandırmak suretiyle riskli sektörlerin denetimine öncelik vermek. (1)
+7) Kanun, kanun hükmünde kararname, tüzük ve yönetmeliklerde gösterilen ve Başkan tarafından verilen sosyal sigortalar mevzuatı ile ilgili benzer görevleri yapmak. (1)
 Sigorta Teftiş Kurulu Başkanlığının kuruluş, görev, yetki, sorumluluk, çalışma usul ve esasları yönetmelikle belirlenir.
 C- Hukuk Müşavirliği: Hukuk Müşavirliğinin görevleri şunlardır:
 1) Başkanlıkça veya merkez birimleri tarafından Başkanlık kanalıyla tevdi edilecek hukuki konular hakkında mütalaa beyan etmek ve hukuki konular ile ilgili işlemleri yapmak.
+––––––––––––––––––
+(1) 22/2/2006 tarihli ve 5458 sayılı Kanunun 9 uncu maddesiyle, bu maddenin (B) fıkrasına (5) numaralı bentten sonra gelmek üzere (6) numaralı bent eklenmiş ve mevcut (6) numaralı bent (7) numaralı bent olarak teselsül ettirilmiştir.
 2) Kurum tarafından veya Kurum aleyhine açılan davalarla icra takiplerinin her derecede takip ve sonuçlandırılmasını sağlamak.
 3) Kurum hizmetlerine ait ilgili birimler tarafından hazırlanacak kanun, tüzük, yönetmelik tasarılarıyla, tip sözleşme tasarılarını inceleyerek görüş bildirmek.
 Hukuk Müşavirliği teşkilâtında çalışanlar hakkında 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve Saireye Verilecek Ücreti Vekâlet Hakkında Kanun hükümleri uygulanır.
