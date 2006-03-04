@@ -1,0 +1,31 @@
+{
+  "number": "3",
+  "date": "2006-03-04",
+  "source_id": 1601,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1601/2006-3.pdf",
+  "source_sha256": "1053ed90145a3e0bfde2e8117bde393de6cce4b4b58dc471fc3198024a9a8903",
+  "history": "as-enacted",
+  "words": 3559,
+  "in_force_basis": "Official attached YSK decision, PDF p. 9, operative closing sentence: 04.03.2006 tarihinde oybirliği ile karar verildi",
+  "catalogue_date": "2006-03-07",
+  "source_images": 1,
+  "decorative_images": 1,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "circular_issue_date": "2006-03-07",
+  "attached_decision_numbers": [
+    "85"
+  ],
+  "adoption_dates": [
+    {
+      "page": 9,
+      "date": "2006-03-04",
+      "quote": "04.03.2006 tarihinde oybirliği ile karar verildi"
+    }
+  ],
+  "approval_dates": [],
+  "explicit_effective_dates": [],
+  "date_kind": "decision-adoption",
+  "in_force_date": "2006-03-04"
+}
