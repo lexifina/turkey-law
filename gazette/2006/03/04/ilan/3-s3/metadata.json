@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-03-04",
+  "issue": "26098",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Türkiye Kömür İşletmeleri Kurumu Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/03/20060304-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (7 = 7)",
+  "ilan_codes": [
+    "2046/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/03/20060304-3.htm",
+  "category_page_sha256": "a8d900de95c3635483ce715c59a6f84469c32b65b9dc9d55b650ea2ad0855c24",
+  "issue_on_category_page": "25546",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/03/20060304.htm",
+  "index_sha256": "9cee0899b2b4b43a725418a82ca75eafe26c17b615ed5c17392ad40f38d0ef1a",
+  "index_header": "4 Mart 2006 ... Sayı : 26098",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
