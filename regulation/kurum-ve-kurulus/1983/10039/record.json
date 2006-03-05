@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.10039",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YARGITAY PERSONELİ ÖZLÜK İŞLERİ YÖNETMELİĞİ",
+  "number": "10039",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1983/10039",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10039&MevzuatTertip=5",
+  "source_sha256": "b2ebe7f21dfb0b0b40b6e11b14165e25f652af4a74a4ee583d1e490b89c4fddf",
+  "source_bytes": 50560,
+  "published": "1983-12-09",
+  "gazette": "18246",
+  "in_force": "2006-03-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-05/03/2006\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2006-03-05",
+      "RG-05/03/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik hükümleri Resmi Gazete ile yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2533,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
