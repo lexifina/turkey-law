@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5469",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti ve Suriye Arap Cumhuriyeti Arasında Serbest Ticaret Alanı Tesis Eden Ortaklık Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-03-07",
+  "gazette_issue": "26101",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060307-1.htm",
+  "source_sha256": "56bbcc0e6477995759b3557006a76440ac5eb71fd67c279134eb8782497b4e32",
+  "text_sha256": "222f8bdc5e4647e4ea5097c91d086ee84a5eb927664995cc45783dccd0f3c901",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/03/07/26101-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060307-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
