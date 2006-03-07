@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-03-07",
+  "issue": "26101",
+  "edition": "regular",
+  "item": 3,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "869 (10/322, 323, 324) Esas Numaralı Meclis Araştırması Komisyonunun Görev Süresinin Uzatılmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060307-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060307.htm",
+  "index_sha256": "c7c78a893c9ce9bc41b40dbcc0853e64363b9e808f937686b8ffcbf52441fa29",
+  "index_header": "7 Mart 2006 ... Sayı : 26101",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
