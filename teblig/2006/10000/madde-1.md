@@ -1,0 +1,4 @@
+İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (2006/7)
+Mevcut Durum
+MADDE 1 – (1) Güney Kore, Çin Halk Cumhuriyeti, Malezya, Tayland ve Çin Tayvanı (Tayvan) menşeli 54.07 gümrük tarife pozisyonu (GTP) altında yer alan "sentetik filamentten mensucat" için 13/2/2002 tarih ve 24670 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2002/2 Sayılı Tebliğ (2002/2 sayılı Tebliğ) ile ülke ve firma bazında değişen oranlarda dampinge karşı vergi uygulaması yürürlüğe konulmuştur.
+(2) Ülke içinde düşük oranlı bireysel dampinge karşı vergiye tabi olan üretici ihracatçı firmaların daha yüksek vergiye tabi firmaların ürünlerini kendi ürünü gibi beyan ederek önlemleri etkisiz kılıp kılmadıkları belli aralıklarla takip edilmektedir. Bu amaçla yapılan yerinde incelemelerde, Güney Kore’de yerleşik, düşük oranlı bireysel dampinge karşı vergiye tabi bazı üretici ihracatçı firmaların önlemi etkisiz kıldığı yönünde önemli tespitler yapılmıştır.

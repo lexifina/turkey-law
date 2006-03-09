@@ -1,0 +1,2 @@
+Teminat uygulaması
+MADDE 8 – (1) 27/12/2005 tarih ve 2005/9840 sayılı Karar ile değişik 20/10/1999 tarih ve 99/13482 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar’ın ilgili maddeleri uyarınca, soruşturma süresince başvuru konusu malların ithalatından, etkisiz kılındığı öngörülen önlem tutarı kadar teminat alınmasına karar verilebilir. Önlemlerin uygulanmasında başlamış işlem kavramı ve istisnası bulunmamaktadır.
