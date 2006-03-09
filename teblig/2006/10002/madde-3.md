@@ -1,0 +1,3 @@
+Önlemlerin etkisiz kılındığı iddiası
+MADDE 3 – (1) 2004/24 sayılı Tebliğ kapsamında Çin Halk Cumhuriyeti ve Rusya Federasyonu menşeli ürünler için dampinge karşı vergi uygulanmasının akabinde, bu ürünün önleme tabi ülkeler menşeli ithalatında bir düşüş gözlemlenirken, yine önleme tabi ülkelerden üretim sürecinin bir önceki aşaması olan demetlenmiş tel ithalatında önemli miktarda artışlar kaydedildiği tespit edilmiş olup, ihmal edilebilir işlem ve maliyetle önleme tabi ürünlere dönüştürülebilen demetlenmiş tel ithalatı yoluyla mevcut önlemin etkisiz kılındığı anlaşılmaktadır.
+(2) Bu nedenle, şikayette bulunan yerli üreticinin ekonomik göstergelerinde önlem uygulanması sonrasında beklenen olumlu gelişme görülmemektedir.
