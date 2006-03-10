@@ -1,0 +1,60 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2006/10",
+  "date": "2006-03-10",
+  "title": "SPK Haftalık Bülteni 2006/10",
+  "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_10.pdf",
+  "source_sha256": "4113a77ba894236ec8bcf05b306ec98283b340550092b23075365d041934c212",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 02.01.2006 – 10.03.2006 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_10.pdf"
+    },
+    {
+      "heading": "B. 06.03.2006 –10.03.2006 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_10.pdf"
+    },
+    {
+      "heading": "C. 06.03.2006 – 10.03.2006 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_10.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_10.pdf"
+    },
+    {
+      "heading": "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_10.pdf"
+    },
+    {
+      "heading": "F. DUYURULAR",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Takas Süresi İçerisinde",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_10.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
