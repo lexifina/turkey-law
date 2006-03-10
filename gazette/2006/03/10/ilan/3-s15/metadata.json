@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-03-10",
+  "issue": "26104",
+  "edition": "regular",
+  "item": 15,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Petkim Petrokimya Holding A.Ş. Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/03/20060310-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (20 = 20)",
+  "ilan_codes": [
+    "2312/2-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/03/20060310-3.htm",
+  "category_page_sha256": "062e21ec391a704b923e54f470f48fd0d6e360c5af5946eb708be765e6d67f3a",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/03/20060310.htm",
+  "index_sha256": "7898f7991a1ec4811cf6272c5393932bffba376fb467c25b1ecc57b055f086f1",
+  "index_header": "10 Mart 2006 ... Sayı : 26104",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
