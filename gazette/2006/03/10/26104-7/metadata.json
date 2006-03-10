@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-03-10",
+  "issue": "26104",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Dış Ticarette Standardizasyon Tebliği (No: 2006/13)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060310-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060310.htm",
+  "index_sha256": "55e72d58f572ef27623fe39d87a58f18f555ead78c0bae1a64eae817f3bc9be9",
+  "index_header": "10 Mart 2006 ... Sayı : 26104",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
