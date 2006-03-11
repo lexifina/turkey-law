@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2006/94",
+  "list_number": "94",
+  "decision_date": "2006-03-11",
+  "title": "YSK ilke kararı 2006/94",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3519/2006-94-karar.htm",
+  "source_sha256": "b644e148772360d73601b3a454bf95d86c372e9c9320974456510797f8f01fe7",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2006-03-11",
+  "law_text_complete": false
+}
