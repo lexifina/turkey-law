@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-03-11",
+  "issue": "26105",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2006/10128 İthalat Rejimi Kararına Ek Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060311-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060311.htm",
+  "index_sha256": "ce5c184b5178c1f2f5a1ec5f73c12ae1011440d4d9570148b5c33ee1e23cf228",
+  "index_header": "11 Mart 2006 ... Sayı : 26105",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
