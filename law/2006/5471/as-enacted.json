@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5471",
+  "year": 2006,
+  "title": "Sağlık Bakanlığına Bağlı Sağlık Kurumları ve Esenlendırme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun ve 2006 Yılı Merkezi Yönetim Bütçe Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-03-11",
+  "gazette_issue": "26105",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060311-1.htm",
+  "source_sha256": "d3a8a1ea7600949fdd3246d121182745df42036f68c6cee17305939907eb421e",
+  "text_sha256": "79697517e8641c87cb282ba7d81dafbbcfb18c8a1f2df79c25f22817e89a2ca3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/03/11/26105-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060311-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
