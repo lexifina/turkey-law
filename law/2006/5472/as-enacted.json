@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5472",
+  "year": 2006,
+  "title": "Bankacılık Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-03-14",
+  "gazette_issue": "26108",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060314-1.htm",
+  "source_sha256": "a0ef678adf05b72cc7dc9b13bdb398c8379d209fe555028177a20fbd612eabaa",
+  "text_sha256": "57f08964e8ae80305798181e094ea2f1ea4f3dd070a23e6349741b422761f146",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/03/14/26108-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060314-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
