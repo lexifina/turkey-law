@@ -7,7 +7,7 @@ c) Devralınacak zararlar sonucunda hisselerinin tamamına sahip olunamaması h�
 d) Faaliyet izninin kaldırılmasını Kuruldan istemeye,
 Yetkilidir.
 Devralınan zararlara istinaden yapılacak ödemelerin karşılığını temsil eden hisseler, üzerindeki her türlü hak ve takyidattan arî olarak Fona intikal eder.
-Hakkında bu maddenin ikinci fıkrasının (a) bendi hükümleri uygulanan bankanın devredilen aktiflerinin toplamının devredilen pasiflerinin toplamını karşılamaması hâlinde aradaki fark sigorta kapsamındaki mevduat ve katılım fonu tutarını aşmamak kaydıyla Fon tarafından ödenir. Bu halde ve hakkında bu maddenin ikinci fıkrasının (a) bendi hükümleri uygulanan bankanın faaliyet izninin kaldırılması durumunda bu Kanunun 106 ncı maddesinin ikinci ve 109 uncu maddesinin üçüncü fıkraları uygulanmaz. Bu Kanunun 106 ncı maddesine göre iflas masaları kurulması hâlinde, Fon ödediği tutar kadar iflas masasına 2004 sayılı İcra ve İflas Kanununun 206 ncı maddesinde yer alan üçüncü sırasındaki tüm imtiyazlı alacaklılardan önce gelmek üzere imtiyazlı alacaklı sıfatıyla iştirak eder.
+Hakkında bu maddenin ikinci fıkrasının (a) bendi hükümleri uygulanan bankanın devredilen aktiflerinin toplamının devredilen pasiflerinin toplamını karşılamaması hâlinde aradaki fark sigorta kapsamındaki mevduat ve katılım fonu tutarını aşmamak kaydıyla Fon tarafından ödenir. Bu halde ve hakkında bu maddenin ikinci fıkrasının (a) bendi hükümleri uygulanan bankanın faaliyet izninin kaldırılması durumunda bu Kanunun 106 ncı maddesinin ikinci ve 109 uncu maddesinin üçüncü fıkraları uygulanmaz. Bu Kanunun 106 ncı maddesine göre iflas masaları kurulması hâlinde, Fon ödediği tutar kadar iflas masasına 2004 sayılı İcra ve İflas Kanununun 206 ncı maddesinde yer alan üçüncü sırasındaki tüm imtiyazlı alacaklılardan önce , ancak Devletin ve sosyal güvenlik kuruluşlarının 6183 sayılı Kanun kapsamındaki alacaklarından sonra gelmek üzere imtiyazlı alacaklı sıfatıyla iştirak eder. (1)
 Fon, hisselerinin çoğunluğu veya tamamı kendisine intikal eden bankanın;
 a) Gerektiğinde malî ve teknik yardım da sağlamak suretiyle, varlık ve yükümlülüklerini kısmen veya tamamen, mevcut bankalardan istekli olanlara ya da kurulacak bir bankaya devretmeye veya bankayı istekli olan başka bir bankayla birleştirmeye,
 b) Fon Kurulunca gerekli görülen hallerle sınırlı olmak üzere, malî bünyenin güçlendirilmesi ve yeniden yapılandırılması için gerektiğinde;
@@ -18,6 +18,8 @@ b) Fon Kurulunca gerekli görülen hallerle sınırlı olmak üzere, malî büny
 5) Alacaklarını veya zararlarını devralmaya,
 6) Varlık ve yükümlülükleri ile ilgili her türlü işlemi yapmaya ve nakde tahvilini sağlamaya,
 c) Sahip olduğu aktifleri iskonto uygulayarak veya sair suretlerle üçüncü kişilere satmaya ve gerekli göreceği her türlü tedbiri almaya,
+––––––––––––––––––––––
+(1) 8/3/2006 tarihli ve 5472 sayılı Kanunun 1 inci maddesiyle, bu fıkranın son cümlesinde yer alan yer alan "tüm imtiyazlı alacaklılardan önce" ibaresinden sonra gelmek üzere ", ancak Devletin ve sosyal güvenlik kuruluşlarının 6183 sayılı Kanun kapsamındaki alacaklarından sonra" ibaresi eklenmiştir.
 d) Hisselerini bu Kanunun 7 ve 8 inci maddelerindeki hükümlere istinaden Kuruldan izin alınmak kaydıyla ve Fon Kurulu tarafından belirlenecek usûl ve esaslar dahilinde üçüncü kişilere devretmeye,
 Yetkilidir.
 Bu madde hükümlerine göre yapılan devir işlemlerinde alacaklı ve borçluların rızası aranmaz.
