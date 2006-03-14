@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28408",
+  "decision_date": "2006-03-14",
+  "source_id": 97,
+  "chamber": "5",
+  "file_number": "27987",
+  "account_year": "1997",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/97/",
+  "source_sha256": "35ce82dd3dd76b343077ce3750b766b325d93f036ae2ad41fabe5486396598c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
