@@ -1,0 +1,3 @@
+İdareye ve yargı mercilerine başvuru
+MADDE 7 – (1) Hukuk Müşavirliğine intikal eden ve inceleme raporu ile oynatıldığı tespit edilen talih oyunlarına ilişkin sanal ortamlara ve/veya internet sitelerine hizmet veren servis sağlayıcılarının bu sitelere ve/veya sanal ortamlara yönelik hizmet ve yayınlarının durdurulması ve yasak eylemlerin cezalandırılması istemiyle Hukuk Müşavirliğince ilgili yargı mercileri nezdinde derhal başvuruda bulunulur.
+(2) İnceleme raporunda, sanal ortamda talih oyunlarına ilişkin ilan ve reklam bulunduğunun belirlenmesi halinde, Başkanlıkça Hukuk Müşavirliğine intikal ettirilen rapor ve ekleri, Hukuk Müşavirliğince gereği yapılmak üzere Sanayi ve Ticaret Bakanlığına bildirilir.
