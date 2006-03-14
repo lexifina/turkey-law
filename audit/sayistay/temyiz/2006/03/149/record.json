@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28431",
+  "decision_date": "2006-03-14",
+  "source_id": 149,
+  "chamber": "6",
+  "file_number": "27878",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/149/",
+  "source_sha256": "052ccaaa36fe16d3d8e9091284fddce430db123dff3cc1c611611505da58beab",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
