@@ -1,0 +1,4 @@
+Bütçenin hazırlanması
+MADDE 6- (1) Bütçe üç yıllık bütçeleme anlayışı, stratejik planlar ve performans hedefler ile kurumsal, işlevsel ve ekonomik sınıflandırma sistemine göre hazırlanır. Kurumun bütçe taslağının hazırlanmasına Haziran ayında ilgili birimlere yapılacak bütçe çağrısı ile başlanılır. Kurumun hizmet birimleri, kendi birimlerinin gider tahminlerini Temmuz ayının 15’ine kadar İdari ve Mali İşler Dairesi Başkanlığına bildirirler.
+(2) Bu bildirimde, ilgili birimin anılan yılda gerçekleşmesi beklenen harcamaları ile takip eden iki yıl için talep edeceği ödenekler tutarı, harcama kalemleri itibariyle ayrı ayrı gösterilir, artış ve eksilişlerin nedenleri açıklanır.
+(3) İdari ve Mali İşler Dairesi Başkanlığı, kendi gider bütçesi yanında Kurumun gelir bütçesini de aynı süre içinde hazırlamakla yükümlüdür.

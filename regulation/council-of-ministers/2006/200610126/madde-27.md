@@ -1,0 +1,4 @@
+Giderin gerçekleştirilmesi
+MADDE 27- (1) Bir giderin yapılabilmesi için iş, mal veya hizmetin belirlenmiş usul ve esaslara uygun olarak alındığının veya gerçekleştirildiğinin, görevlendirilmiş kişi veya komisyonlarca onaylanması ve gerçekleştirme belgelerinin düzenlenmiş olması gerekir. Giderlerin gerçekleştirilmesi harcama yetkilisinin onayı ve tutarın hak sahibine ödenmesiyle tamamlanır.
+(2) Gerçekleştirme görevlileri, harcama talimatı üzerine; işin yaptırılması, mal veya hizmetin alınması, teslim almaya ilişkin işlemlerin yapılması, belgelendirilmesi ve ödeme için gerekli belgelerin (bu belgelerde hak sahibine ilişkin bilgi ve belgeler, ödemenin yapılacağı banka adı ve hesap numarası, ödeme yapılacak tutar vb. hususların mutlak suretle belirtilmesi gerekir.) hazırlanması görevlerini yürütürler.
+(3) Gerçekleştirme görevlileri, bu Yönetmelik çerçevesinde yapmaları gereken iş ve işlemlerden sorumludurlar.

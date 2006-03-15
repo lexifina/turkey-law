@@ -1,0 +1,3 @@
+9 Nazım hesaplar
+MADDE 79- (1) Bu ana hesap grubu, varlık, kaynak, gelir ve gider hesaplarında izlenmeyen ve muhasebenin sadece bilgi verme görevi yüklediği işlemler ile Kurumun muhasebe disiplini altında toplanması istenen işlemleri ve gelecekte doğması muhtemel hak ve yükümlülükleri kapsar. İleride yükümlülük doğurabilecek işlemler ile Kurumun her türlü taahhütleri bu grupta açılacak hesaplara kaydedilir ve raporlanır.
+(2) Nazım hesaplar ana hesap grubu; niteliklerine göre ödenek hesapları, nakit dışı teminat ve kişilere ait menkul kıymet hesapları ve taahhüt hesapları hesap grupları şeklinde bölümlenir.

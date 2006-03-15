@@ -1,0 +1,2 @@
+Hesap verme sorumluluğu
+MADDE 30- (1) Kuruma ait her türlü gelirin elde edilmesi ve harcanmasında görevli ve yetkili olanlar ile bunlara ilişkin belgeleri düzenleyen, tetkik ve imza eden görevliler, kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak elde edilmesinden, kullanılmasından, muhasebeleştirilmesinden, raporlandırılmasından ve kötüye kullanılmaması için gerekli önlemlerin alınmasından, düzenlenen belgelerin kanun, tüzük, yönetmelik ve kurul kararlarına uygun olarak hazırlanmasından sorumludurlar ve yetkili mercilere hesap vermek zorundadırlar.

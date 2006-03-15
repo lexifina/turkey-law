@@ -1,0 +1,2 @@
+Yönetmelikte hüküm bulunmayan haller
+MADDE 88- (1) Hesapların niteliği ve işleyişleri hariç olmak üzere; hesaba ilişkin işlemler, değerlerin alınıp verilmesi ve kaydedilmesinde kullanılacak alındı, defter ve belge örnekleri, dönem sonu ve yönetim dönemi işlemleri, değerlerin yıl sonu sayımları, muhasebe yetkilileri ve veznedarlar arasındaki devir işlemleri gibi hususlarda bu Yönetmelikte hüküm bulunmayan hallerde Genel Bütçe Muhasebe Yönetmeliği hükümleri uygulanır.
