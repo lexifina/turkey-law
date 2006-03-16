@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "691/192",
+  "decision_date": "2006-03-16",
+  "title": "\"Asgari Mesafe Tespit Tutanağı\" istenmemesine ilişkin",
+  "categories": [
+    "LPG Piyasası Mülga Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=16W/2EJIO1w=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=16W/2EJIO1w="
+  ],
+  "source_sha256": "dc37c59a6404d9c38f7f60b3ae80630e86f4224be945bfc9fc87db73b9a98584",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5102,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-03-16",
+  "law_text_complete": false
+}
