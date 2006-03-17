@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5468",
+  "year": 2006,
+  "title": "Medeni ve Siyası Haklara İlişkin Uluslararası Sözleşmeye Ek İhtiyari Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-03-17",
+  "gazette_issue": "26111",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060317-2.htm",
+  "source_sha256": "226899bf2647277f9bfe5e45cfd924746c67c4c6f6046bc55d13735d777df3bc",
+  "text_sha256": "a9489cc6ff109e8775353b1bf03544a11b5de540feac6871a1d1287cc3eebc2e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/03/17/26111-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060317-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
