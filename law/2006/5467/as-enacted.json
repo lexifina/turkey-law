@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5467",
+  "year": 2006,
+  "title": "Yükseköğretim Kurumlan Teşkilatı Kanunu, Yükseköğretim Kanunu, Kamu Malî Yönetimi ve Kontrol Kanunu, Telsiz Kanunu ile 78 ve 190 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-03-17",
+  "gazette_issue": "26111",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060317-1.htm",
+  "source_sha256": "c4c0af1369a6fcbee9aecc4591c3d42a39d6948286d06cc2e01c83e2ff510e63",
+  "text_sha256": "f327e2bf9de27a289143ea40e7e9daeb28dad2432b4c2710153eea2cdfc520f4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/03/17/26111-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060317-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
