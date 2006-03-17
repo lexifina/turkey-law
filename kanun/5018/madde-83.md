@@ -116,6 +116,21 @@ TEKNOLOJİ ENSTİTÜLERİ
 53) Zonguldak Karaelmas Üniversitesi
 54) Eskişehir Osmangazi Üniversitesi
 55) Galatasaray Üniversitesi
+56) (Ek: 1/3/2006-5467/5 md.) Ahi Evran Üniversitesi
+57) (Ek: 1/3/2006-5467/5 md.) Kastamonu Üniversitesi
+58) (Ek: 1/3/2006-5467/5 md.) Düzce Üniversitesi
+59) (Ek: 1/3/2006-5467/5 md.) Mehmet Akif Ersoy Üniversitesi
+60) (Ek: 1/3/2006-5467/5 md.) Uşak Üniversitesi
+61) (Ek: 1/3/2006-5467/5 md.) Rize Üniversitesi
+62) (Ek: 1/3/2006-5467/5 md.) Namık Kemal Üniversitesi
+63) (Ek: 1/3/2006-5467/5 md.) Erzincan Üniversitesi
+64) (Ek: 1/3/2006-5467/5 md.) Aksaray Üniversitesi
+65) (Ek: 1/3/2006-5467/5 md.) Giresun Üniversitesi
+66) (Ek: 1/3/2006-5467/5 md.) Hitit Üniversitesi
+67) (Ek: 1/3/2006-5467/5 md.) Bozok Üniversitesi
+68) (Ek: 1/3/2006-5467/5 md.) Adıyaman Üniversitesi
+69) (Ek: 1/3/2006-5467/5 md.) Ordu Üniversitesi
+70) (Ek: 1/3/2006-5467/5 md.) Amasya Üniversitesi
 B) ÖZEL BÜTÇELİ DİĞER İDARELER
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
