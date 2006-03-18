@@ -1,0 +1,1979 @@
+TEBLİĞ
+Türkiye Muhasebe
+Standartları Kurulundan:
+VARLIKLARDA DEĞER DÜŞÜKLÜĞÜNE İLİŞKİN
+TÜRKİYE MUHASEBE STANDARDI (TMS 36)
+HAKKINDA TEBLİĞ
+SIRA NO: 28
+Amaç
+MADDE
+1 – (1) Bu Tebliğin amacı; varlıklarda değer düşüklüğüne
+ilişkin 36 nolu Türkiye Muhasebe Standardının
+yürürlüğe konulmasıdır.
+(2) Adı geçen Türkiye Muhasebe
+Standardı bu Tebliğ ekinde yer almıştır.
+Kapsam
+MADDE
+2 – (1) Varlıklarda değer düşüklüğüne ilişkin Türkiye
+Muhasebe Standardının kapsamı ekli TMS 36 metninde yer almaktadır.
+Hukuki dayanak
+MADDE
+3 – (1) Bu Tebliğ, 28/7/1981 tarih ve 2499 sayılı Sermaye
+Piyasası Kanununun Ek-1 inci maddesi ile 24/2/2004 tarihli ve 2004/6924
+sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren Türkiye Muhasebe
+Standartları Kurulunun Çalışmalarına İlişkin Usul ve Esaslar Hakkında
+Yönetmeliğin 9 uncu maddesinin (b) bendine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE
+4 – (1) Bu Tebliğde geçen;
+(a) TMSK ve Kurul: Türkiye
+Muhasebe Standartları Kurulunu,
+(b) TMS: Türkiye Muhasebe
+Standartlarını,
+(c) TFRS: Türkiye Finansal Raporlama Standartlarını,
+ifade eder.
+Yürürlük
+MADDE
+5 – (1) Bu Tebliğ 31/12/2005 tarihinden sonra başlayan
+hesap dönemleri için geçerli olmak üzere, yayımlandığı tarihte yürürlüğe
+girer.
+Yürütme
+MADDE 6 – (1) Bu Tebliğ hükümlerini Türkiye Muhasebe Standartları
+Kurulu yürütür.
+EK
+Türkiye Muhasebe Standardı
+(TMS 36)
+Varlıklarda Değer Düşüklüğü
+Amaç
+1. Bu
+Standardın amacı; bir işletmenin, varlıklarının geri kazanılabilir tutarından
+daha yüksek bir değerden izlenmemesini sağlamak amacıyla uygulanması gereken
+ilkeleri belirlemektir. Bir varlığın defter değerinin; kullanımı ya da satışı ile geri kazanılacak tutarından fazla olması
+durumunda, ilgili varlık geri kazanılabilir tutarından daha yüksek bir
+tutardan izlenir. Eğer durum bu şekilde ise, varlık değer düşüklüğüne
+uğramıştır ve Standart, işletmenin değer düşüklüğü zararını
+muhasebeleştirmesini gerektirir. Standart ayrıca, bir işletmenin değer
+düşüklüğü zararını ne zaman iptal etmesi gerektiği ile kamuoyuna yapılması
+gereken açıklamaları da düzenler.
+Kapsam
+2. Bu
+Standart, aşağıdakiler hariç olmak üzere, her türlü varlığa ilişkin değer
+düşüklüğünün muhasebeleştirilmesinde uygulanır:
+(a) Stoklar (bakınız: TMS 2 Stoklar);
+(b) İnşaat sözleşmelerinden kaynaklanan
+varlıklar (bakınız: TMS 11 İnşaat Sözleşmeleri);
+(c) Ertelenmiş vergi varlıkları (bakınız: TMS 12
+Gelir Vergileri);
+(d) Çalışanlara sağlanan faydalardan kaynaklanan
+varlıklar (bakınız: TMS 19 Çalışanlara Sağlanan Faydalar);
+(e) "TMS 39 Finansal
+Araçlar: Muhasebeleştirme ve Ölçüm" Standardı kapsamındaki finansal varlıklar;
+(f) Gerçeğe uygun değerle ölçülen yatırım amaçlı
+gayrimenkuller (bakınız: TMS 40 Yatırım Amaçlı Gayrimenkuller);
+(g) Gerçeğe uygun değerden tahmini pazar yeri
+maliyetleri düşülmek suretiyle ölçülen tarımsal faaliyetlere ilişkin canlı
+varlıklar (bakınız: TMS 41 Tarımsal Faaliyetler);
+(h) Ertelenen edinme maliyetleri ve "TFRS 4
+Sigorta Sözleşmeleri" Standardı kapsamında olan sigorta poliçelerindeki
+sigortacının sözleşmeden doğan haklarından kaynaklanan maddi olmayan duran
+varlıklar; ve
+(i)
+"TFRS 5 Satış Amaçlı Elde Tutulan
+Maddi Duran Varlıklar ve Durdurulan Faaliyetler" Standardı çerçevesinde
+satış amaçlı elde tutulan olarak sınıflandırılan maddi duran varlıklar (veya
+elden çıkarılacak varlık grupları).
+3. Bu
+Standart, stoklara, inşaat sözleşmelerinden kaynaklanan varlıklara,
+ertelenmiş vergi varlıklarına, çalışanlara sağlanan faydalardan kaynaklanan
+varlıklara veya satış amaçlı elde tutulan olarak sınıflandırılmış varlıklara
+(veya satış amaçlı elde tutulan olarak sınıflandırılmış elden çıkarılacak
+varlık gruplarına) uygulanmaz; çünkü bu varlıklara uygulanabilir konumdaki
+mevcut Standartlar muhasebeleştirme ve ölçme kurallarını da içerir.
+4. Bu
+Standart aşağıdaki şekilde sınıflandırılan finansal
+varlıklara uygulanır:
+(a) "TMS 27 Konsolide ve Bireysel Finansal Tablolar" Standardında tanımlanan bağlı
+ortaklıklar;
+(b) "TMS 28 İştiraklerdeki Yatırımlar"
+Standardında tanımlanan iştirakler; ve
+(c) "TMS 31 İş Ortaklıklarındaki
+Paylar" Standardında tanımlanan iş ortaklıkları.
+Diğer
+finansal varlıklardaki değer düşüklüklerine ilişkin
+olarak TMS 39 hükümleri esas alınır.
+5. Bu Standart;
+TMS 39 kapsamındaki finansal varlıklara, TMS 40’a
+göre gerçeğe uygun değerden ölçülen yatırım amaçlı gayrimenkullere,
+TMS 41’e göre gerçeğe uygun değerden tahmini pazar yeri maliyetleri düşülmek
+suretiyle ölçülen tarımsal faaliyetlere ilişkin canlı varlıklara uygulanmaz.
+Ancak, bu Standart, örneğin "TMS 16 Maddi Duran Varlıklar"
+Standardında yer alan değerleme yöntemi gibi diğer Standartlara uygun olarak
+değerlenmiş tutarlardan (diğer bir deyişle gerçeğe uygun değerden) izlenen
+varlıklara uygulanır. Değerlenmiş bir varlığın değer düşüklüğüne uğrayıp
+uğramadığının tespiti, gerçeğe uygun değerin tespitinde kullanılan esasa
+bağlıdır:
+(a) Varlığın gerçeğe uygun değeri piyasa değeri
+ise, sadece varlığın gerçeğe uygun değeri ile satış maliyetleri düşülmüş
+gerçeğe uygun değeri arasındaki fark, varlığı elden çıkarmak için oluşacak
+doğrudan ek maliyettir:
+(i) Elden çıkarma maliyetlerinin önemsiz düzeyde
+olması durumunda; yeniden değerlenmiş varlığın geri kazanılabilir tutarı
+yeniden değerlenmiş tutarına (diğer bir deyişle gerçeğe uygun değerine)
+zorunlu olarak yakın ya da söz konusu tutardan daha
+büyük olacaktır. Bu durumda, yeniden değerleme esasları uygulandıktan sonra,
+yeniden değerlenmiş varlığın değer düşüklüğüne uğraması olası değildir ve
+geri kazanılabilir tutarın tahmin edilmesine gerek bulunmamaktadır.
+(ii) Elden çıkarma
+maliyetlerinin önemsiz düzeyde olmaması durumunda; yeniden değerlenmiş
+varlığın satış maliyetleri düşülmüş gerçeğe uygun değeri, söz konusu varlığın
+gerçeğe uygun değerinden zorunlu olarak daha düşük olacaktır. Bu nedenle,
+yeniden değerlenmiş varlık, kullanım değerinin yeniden değerlenmiş tutarından
+(diğer bir deyişle gerçeğe uygun değerinden) daha düşük olması durumunda
+değer düşüklüğüne uğrayacaktır. Bu durumda, yeniden değerleme esasları
+uygulandıktan sonra, işletme, ilgili varlığın değer düşüklüğüne uğrayıp
+uğramadığını belirlemek için bu Standardı uygular.
+(b) Varlığın gerçeğe uygun değerinin piyasa
+değerinden farklı bir esasa göre belirlenmesi durumunda, söz konusu varlığın
+yeniden değerlenmiş değeri (diğer bir deyişle gerçeğe uygun değeri) geri
+kazanılabilir tutarından daha büyük ya da daha
+düşük olabilir. Bu nedenle, işletme, yeniden değerleme esasları uygulandıktan
+sonra, ilgili varlığının değer düşüklüğüne uğramış olup olmadığını belirlemek
+için bu Standardı uygular.
+Tanımlar
+6. Bu Standartta yer alan terimlerin
+anlamları aşağıdaki gibidir:
+Aktif piyasa: Aşağıda yer alan koşulların tamamının bulunduğu
+piyasadır:
+(a) Piyasada ticareti
+yapılan mallar homojendir;
+(b) Normalde, bu malların
+her zaman için bir alıcısı ve satıcısı mevcuttur.
+(c) Fiyatlar kamuoyu
+tarafından öğrenilebilir.
+Anlaşma tarihi: Bir işletme
+birleşmesinde birleşen taraflar arasında geçerli bir anlaşmaya varıldığı,
+halka açık işletmeler açısından ise ilgili anlaşmanın kamuoyuna açıklandığı
+tarihtir. Zorla ele geçirmelerde, birleşen taraflar arasında esas itibariyle
+anlaşmaya varılan ilk tarih, yeterli sayıda devralınan işletme hissedarının,
+devralanın işletmeleri üzerindeki kontrolü ele geçirme teklifini kabul ettiği
+tarihtir.
+Defter değeri: Bir varlığın birikmiş
+amortisman (itfa) ve birikmiş değer düşüklüğü zararları indirildikten
+sonra finansal
+tablolara yansıtıldığı tutarıdır.
+Nakit yaratan birim: Diğer
+varlıklardan veya varlık gruplarından sağlanan nakit girişlerinden büyük
+ölçüde bağımsız bir nakit girişi yaratan belirlenebilir en küçük varlık
+grubudur.
+Şirket varlıkları: Şerefiye hariç
+olmak üzere, hem bahse konu nakit yaratan birimin hem de diğer nakit yaratan
+birimlerin gelecekteki nakit akışlarına katkıda bulunan varlıklardır.
+Elden çıkarma maliyetleri: Finansman
+maliyetleri ve gelir vergisi gideri hariç, doğrudan bir varlığın veya nakit
+yaratan birimin elden çıkarılması ile ilgili maliyetlerdir.
+Amortismana tabi tutar: Bir varlığın
+maliyetinden veya finansal tablolarda maliyet
+yerine geçen diğer tutarlardan kalıntı değerinin düşülmesiyle bulunan tutarı
+ifade eder.
+Amortisman (itfa): Bir varlığın
+amortismana tabi tutarının, yararlı ömür süresince sistematik olarak
+dağıtılmasını ifade eder.1
+Satış maliyetleri düşülmüş gerçeğe uygun
+değer: Bir varlık veya nakit yaratan birimin karşılıklı pazarlık
+ortamında, bilgili ve istekli gruplar arasında gerçekleştirilen satışı
+sonucunda elde edilmesi gereken tutardan, elden çıkarma maliyetlerinin
+düşülmesi suretiyle bulunan değerdir.
+Değer düşüklüğü zararı: Bir varlığın
+veya nakit yaratan birimin defter değerinin geri kazanılabilir tutarı aşan
+kısmını ifade eder.
+Geri kazanılabilir tutar: Bir
+varlığın veya nakit yaratan birimin, satış maliyetleri düşülmüş gerçeğe uygun
+değeri ile kullanım değerinden yüksek olanıdır.
+Yararlı ömür:
+(a) Bir varlığın işletme tarafından
+kullanılabilmesi beklenen süreyi; veya
+(b) İşletme tarafından ilgili varlıktan elde edilmesi
+beklenen üretim sayısı veya benzeri üretim birimini ifade eder.
+Kullanım değeri: Bir varlık veya nakit yaratan birimden elde
+edilmesi beklenen gelecekteki nakit akışlarının bugünkü değeridir.
+Değer düşüklüğüne uğramış olması muhtemel bir varlığın belirlenmesi
+7. Paragraf
+8-17 arasındaki bölüm, geri kazanılabilir tutarın ne zaman tespit edileceğini
+gösterir. Anılan koşullar "varlık" terimini, hem tek bir varlık
+için hem de nakit yaratan bir birim için kullanır. Bu Standardın geri kalan
+bölümü aşağıdaki şekilde yapılandırılmıştır:
+(a) Paragraf 18-57 arasındaki bölüm, geri
+kazanılabilir tutarın ölçümüne ilişkin koşulları belirler. Anılan koşullar,
+"varlık" terimini hem tek bir varlık için hem de nakit yaratan bir
+birim için kullanır.
+(b) Paragraf 58-108 arasındaki bölüm, değer
+düşüklüğü zararlarının ölçümü ve muhasebeleştirilmesine ilişkin koşulları
+belirler. Şerefiye haricindeki varlıkların değer düşüklüğü zararlarının
+ölçümü ve muhasebeleştirilmesi Paragraf 58-64 arasında ele alınır. Paragraf
+65-108 arasındaki bölüm, nakit yaratan birimler ile şerefiyenin ölçümü ve
+muhasebeleştirilmesine ilişkindir.
+(c) Paragraf 109-116 arasındaki bölüm, bir
+varlık veya nakit yaratan birim için önceki dönemlerde muhasebeleştirilmiş
+bir değer düşüklüğü zararının hangi koşullarda iptal edileceğini gösterir.
+Yine, bu koşullara ilişkin hükümlerde "varlık" terimi hem tek bir
+varlık hem de nakit yaratan bir birim için kullanılmıştır. Tek bir varlığa
+ilişkin ek koşullara 117-121 inci Paragraflar, nakit yaratan bir birime ilişkin
+ek koşullara 122-123 üncü Paragraflar ve şerefiyeye ilişkin ek koşullara ise
+124-125 inci Paragraflar arasında yer verilmiştir.
+(d) Paragraf 126-133 arasındaki bölüm, varlıklar
+ve nakit yaratan birimlere ilişkin değer düşüklüğü zararları ile değer düşüklüğü
+zararlarının iptaline ilişkin olarak kamuoyuna açıklanması gereken bilgileri
+belirler. Paragraf 134-137 arasındaki bölüm, değer düşüklüğü testi
+çerçevesinde kendilerine şerefiye veya sınırsız yararlı ömre sahip maddi
+olmayan duran varlık tahsis edilmiş bulunan nakit yaratan birimlere ilişkin
+olarak kamuoyuna yapılması gereken ilave açıklamaları gösterir.
+8. Bir
+varlığın defter değerinin geri kazanılabilir tutarını aşmış olması durumunda,
+ilgili varlık değer düşüklüğüne uğramıştır. 12-14 üncü Paragraflar, değer
+düşüklüğü zararının oluşmuş olabileceğine ilişkin bazı belirtileri gösterir.
+Anılan belirtilerden herhangi birinin mevcut olması durumunda, işletmeden
+resmi bir geri kazanılabilir tutar tahmini yapması gerekir. Bu Standart, 10
+uncu Paragrafta yer alan hükümler haricinde, değer düşüklüğü oluştuğuna
+yönelik herhangi bir belirtinin olmadığı durumlarda, resmi bir geri
+kazanılabilir tutar tahmini yapılmasını gerektirmez.
+9. Her
+bir raporlama tarihi itibariyle, işletme, bir varlığın değer düşüklüğüne
+uğramış olabileceğini gösteren herhangi bir belirtinin bulunup bulunmadığını
+değerlendirir. Böyle bir belirtinin mevcut olması durumunda; söz konusu
+işletme, ilgili varlığın geri kazanılabilir tutarını tahmin eder.
+10. İşletme,
+herhangi bir değer düşüklüğü belirtisinin bulunup bulunmadığına
+bakılmaksızın, aşağıda yer alan işlemleri de uygular:
+(a) Sınırsız yararlı ömre sahip veya henüz
+kullanımda olmayan bir maddi olmayan duran varlığın, defter değerini geri
+kazanılabilir tutarı ile karşılaştırmak suretiyle, değer düşüklüğü açısından
+yıllık olarak test eder. Her yıl aynı zamanda yapılmak koşuluyla, söz konusu
+değer düşüklüğü testi bir yıllık dönemin herhangi bir zamanında yapılabilir.
+Farklı maddi olmayan duran varlıklar değer düşüklüğü açısından farklı
+zamanlarda teste tabi tutulabilirler. Ancak, bu tür bir maddi olmayan duran
+varlığın cari dönemde muhasebeleştirilmiş olması durumunda, değer düşüklüğü
+açısından cari yılın bitiminden önce teste tabi tutulur.
+(b) Bir işletme, şirket birleşmesi sırasında
+edinilen şerefiyeyi değer düşüklüğü açısından 80-99 uncu Paragraflar arasında
+yer alan açıklamalar çerçevesinde yıllık olarak test eder.
+11. Maddi
+olmayan bir duran varlığın gelecekte defter değerini karşılamaya yetecek
+tutarda ekonomik yarar sağlama imkanı, varlığın kullanımda olmasından önce
+kullanımda olması sonrasına göre daha belirsizdir. Bu nedenle bu Standart,
+işletmenin, henüz kullanımda olmayan maddi olmayan duran varlığının defter
+değerini, değer düşüklüğünün tespiti açısından en azından yılda bir defa
+teste tabi tutmasını gerektirir.
+12. İşletme,
+varlığın değer düşüklüğüne uğramış olabileceğini gösteren herhangi bir
+belirtinin bulunup bulunmadığını değerlendirirken, en azından aşağıdaki
+belirtileri dikkate alır:
+İşletme
+dışı bilgi kaynakları
+(a) Dönem içinde varlığın piyasa fiyatı, zamanın
+ilerlemesinden veya normal kullanımdan kaynaklanması beklenenden çok daha
+fazla azalmıştır.
+(b) İşletmenin faaliyette bulunduğu teknolojik,
+ekonomik veya hukuki çevre ile pazarda veya varlığın tahsis edildiği piyasada
+işletme üzerinde olumsuz etkisi olan önemli değişiklikler dönem içerisinde
+gerçekleşmiş veya bu değişikliklerin yakın gelecekte gerçekleşmesi
+beklenmektedir.
+(c) Dönem içerisinde, faiz oranları veya diğer
+yatırım kârlılığı ile ilgili piyasa oranları artmış olup; söz konusu
+artışların, varlığın kullanım değerinin hesaplanmasında kullanılan iskonto oranını önemli ölçüde etkilemesi ve varlığın geri
+kazanılabilir tutarını büyük ölçüde azaltması muhtemeldir.
+(d) İşletmenin net varlıklarının defter değeri
+piyasa değerlerinden daha yüksektir.
+İşletme
+içi bilgi kaynakları
+(e) Varlığın fiziksel hasara uğradığı veya değer
+yitirdiğine ilişkin kanıt bulunmaktadır.
+(f) İşletmede, varlığın mevcut veya gelecek
+kullanım yöntemini etkileyecek, önemli olumsuz değişiklikler meydana gelmiş
+veya bunların yakın gelecekte meydana gelmesi beklenmektedir. Bu
+değişiklikler şunları içerir; varlık kullanım dışıdır; varlığın dahil olduğu
+faaliyetin sona erdirilmesi veya yeniden yapılandırılması planları vardır; varlığın
+beklenen tarihten önce elden çıkarılması planlanmaktadır; varlığın yararlı
+ömrünün sınırsız değil sınırlı olduğu sonucuna varılmıştır.2
+(g) İşletme içi raporlamada, varlığın ekonomik
+performansının beklenenden daha kötü olduğu veya olacağına ilişkin kanıt
+mevcuttur.
+13. 12 nci Paragrafta yer alan liste, olası her türlü belirtiyi
+kapsamaz. İşletme varlığın değer düşüklüğüne uğramış olabileceğini gösteren
+başka belirtiler tespit edebilir ve söz konusu belirtiler de işletmenin
+ilgili varlığın geri kazanılabilir tutarını tespit etmesini ya da şerefiyede olduğu gibi Paragraf 80-99’da yer alan
+açıklamalara göre değer düşüklüğü testi yapmasını gerektirir.
+14. Varlığın
+değer düşüklüğüne uğramış olabileceğini gösteren işletme içi raporlardan elde
+edilen kanıtlar şunlardır:
+(a) Varlığın edinimi için gerekli nakit akışları
+ya da varlığı bulundurmak veya çalıştırmak için
+sonradan gerekli olan nakit, ilk başta bütçelenenden
+önemli ölçüde yüksektir;
+(b) Varlıktan kaynaklanan net nakit akışları
+veya faaliyet kâr ya da zararı bütçelenenlerden
+önemli ölçüde kötüdür;
+(c) Bütçelenen net
+nakit akışlarında veya faaliyet kârında önemli azalmalar, veya bütçelenen zararda önemli artışlar mevcuttur; ya da
+(d) Cari dönemde gerçekleşen tutarlar, geleceğe
+ilişkin bütçelenmiş tutarlarla bir arada değerlendirildiğinde, varlığa ilişkin
+faaliyet zararları veya net nakit çıkışları olacağı görülmektedir.
+15. 10 uncu
+Paragrafta belirtildiği üzere, bu Standart sınırsız yararlı ömre sahip olan
+veya henüz kullanımda olmayan maddi olmayan duran varlığın ve şerefiyenin
+değer düşüklüğünün tespiti açısından en azından yıllık olarak teste tabi
+tutulmalarını gerektirir. 10 uncu Paragraf hükümlerinin uygulandığı durumlar
+haricinde, bir varlığın geri kazanılabilir tutarının tahmin edilmesinin
+gerekli olup olmadığı önemlilik kavramına göre belirlenir. Örneğin; eğer
+önceki hesaplamalar varlığın geri kazanılabilir tutarının defter değerinin
+önemli ölçüde üstünde olduğunu göstermişse, işletme bu farkı ortadan
+kaldıracak herhangi bir olay gerçekleşmediği takdirde varlığın geri kazanılabilir
+tutarının tekrar tahminine ihtiyaç duymaz. Benzer şekilde, önceki analizler,
+varlığın geri kazanılabilir değerinin 12 nci
+Paragrafta yer alan belirtilerden birine (veya birden fazlasına) karşı
+duyarlı olmadığını gösterebilir.
+16. 15 inci
+Paragrafa örnek olarak; dönem içerisinde faiz oranları veya diğer yatırım
+kârlılığı ile ilgili piyasa oranlarının artmış olması durumunda, işletmenin
+aşağıdaki durumlarda varlığın geri kazanılabilir tutarı için resmi bir
+tahminde bulunması gerekmez:
+(a) Varlığın kullanım değerinin hesaplanmasında
+kullanılan iskonto oranının piyasa oranlarında
+meydana gelen artıştan etkilenmesinin muhtemel olmaması. Örneğin, kısa vadeli
+faiz oranlarındaki artış uzun bir yararlı ömrü kalan varlık için kullanılan iskonto oranı üzerinde önemli bir etki yapmayabilir.
+b) Varlığın kullanım değerinin hesaplanmasında
+kullanılan iskonto oranının piyasa oranlarında
+meydana gelen artıştan etkilenmesinin muhtemel olması; fakat geri
+kazanılabilir tutara ilişkin önceki duyarlılık analizinin aşağıdakileri
+göstermesi:
+(i) Gelecekteki nakit akışlarının da artması
+muhtemel olduğundan geri kazanılabilir tutarda önemli ölçüde azalma olması
+olası değildir (örneğin; bazı durumlarda, işletme, piyasa oranlarındaki
+herhangi bir artışı telafi etmek için gelirlerini ayarlayabildiğini
+gösterebilir); veya
+(ii) Geri
+kazanılabilir tutardaki azalmanın önemli değer düşüklüğü zararına sebep
+olması olası değildir.
+17. Varlık
+için değer düşüklüğü zararı muhasebeleştirilmemiş bile olsa, varlığın değer
+düşüklüğüne uğramış olabileceğine ilişkin bir belirti bulunması; söz konusu
+varlığın geriye kalan yararlı ömrünün, amortisman (itfa) yönteminin ve
+kalıntı değerinin bu Standarda göre gözden geçirilmesi ve düzeltilmesine
+gerek olduğunu gösterebilir.
+Geri kazanılabilir tutarın ölçülmesi
+18. Bu
+Standart geri kazanılabilir tutarı; bir varlığın veya nakit yaratan birimin
+satış maliyetleri düşülmüş gerçeğe uygun değer ile kullanım değerinden yüksek
+olanı olarak tanımlar. Paragraf 19-57 arasındaki bölüm, geri kazanılabilir
+tutarın ölçümüne ilişkin hükümleri içerir. Bu hükümler, "varlık"
+terimini hem tek bir varlık hem de nakit yaratan bir birim için kullanır.
+19. Varlığın
+satış maliyetleri düşülmüş gerçeğe uygun değeri ile kullanım değerinin her
+ikisini birden belirlemek her zaman gerekli değildir. Anılan tutarlardan
+herhangi birinin ilgili varlığın defter değerini aşması durumunda, söz konusu
+varlık değer düşüklüğüne uğramamıştır ve diğer tutarı tahmin etmek gerekmez.
+20. Varlık
+aktif bir piyasada işlem görmese bile, satış maliyetleri düşülmüş gerçeğe
+uygun değerini belirlemek mümkün olabilir. Ancak, bazen satış maliyetleri
+düşülmüş gerçeğe uygun değeri belirlemek mümkün olmayacaktır; çünkü
+karşılıklı pazarlık ortamında bilinçli ve istekli taraflar arasında yapılacak
+bir işlemde varlığın satışından elde edilecek tutarı tahmin etmek için temel
+alınacak bir esas yoktur. Bu durumda işletme, varlığın kullanım değerini geri
+kazanılabilir tutar olarak kullanabilir.
+21. Varlığın
+kullanım değerinin satış maliyetleri düşülmüş gerçeğe uygun değerini önemli
+ölçüde aştığına inanılmasını gerektiren bir neden olmaması durumunda, satış
+maliyetleri düşülmüş gerçeğe uygun değer geri kazanılabilir tutar olarak
+kullanılabilir. Anılan durum, satış amaçlı elde tutulan bir varlık için çoğu
+zaman geçerli olacaktır. Bu husus, satış amaçlı elde tutulan bir varlığın
+elden çıkarılma tarihine kadar kullanımından kaynaklanan nakit akışları
+muhtemelen önemsiz bir düzeyde olacağından; kullanım değerinin esas olarak,
+ilgili varlığın elden çıkarılmasından kaynaklanan net tahsilatlardan oluşacak
+olmasından kaynaklanır.
+22. Varlık,
+diğer varlık ya da varlık gruplarına ilişkin nakit
+girişlerine büyük ölçüde bağımlı nakit girişleri yaratmadıkça, geri
+kazanılabilir tutar her bir varlık için ayrı olarak belirlenir. Varlığın,
+diğer varlık ya da varlık gruplarına büyük ölçüde
+bağımlı nakit girişleri yaratması durumunda, geri kazanılabilir tutar
+aşağıdaki hususlardan herhangi biri gerçekleşmedikçe, varlığın ait olduğu
+nakit yaratan birim için belirlenir (bakınız: 65-103 arası Paragraflar):
+(a) Varlığın satış maliyetleri düşülmüş gerçeğe
+uygun değerinin defter değerinden daha yüksek olması; veya
+(b) Varlığın kullanım değerinin, satış
+maliyetleri düşülmüş gerçeğe uygun değerine yakın olduğunun tahmin edilmesi
+ve satış maliyetleri düşülmüş gerçeğe uygun değeri belirlenebilir olması
+durumunda.
+23. Bazı
+durumlarda, tahminler, ortalamalar ve kısa yoldan yapılan hesaplamalar, bu
+Standartta satış maliyetleri düşülmüş gerçeğe uygun değer veya kullanım
+değerinin belirlenmesinde gösterilen detay hesaplamalara makul yakınlıkta
+sonuçlar sağlayabilir.
+Sınırsız yararlı ömre sahip bir
+maddi olmayan duran varlığın geri kazanılabilir tutarının ölçülmesi
+24. Değer
+düşüklüğü olabileceği belirtisi olup olmamasından bağımsız olarak, 10 uncu
+Paragraf; sınırsız yararlı ömre sahip bir maddi olmayan duran varlığın defter
+değerinin geri kazanılabilir tutarı ile karşılaştırılarak değer düşüklüğü
+açısından test edilmesini gerektirir. Ancak, bir önceki dönemde böyle bir
+varlığın geri kazanılabilir tutarı için yapılan en güncel detay hesaplama,
+aşağıdaki koşullar sağlandığı takdirde, cari dönemde varlığın değer
+düşüklüğünü test etmek için kullanılabilir:
+(a) Maddi olmayan duran varlık, diğer varlık
+veya varlık gruplarından büyük ölçüde bağımsız, kullanımından kaynaklanan
+nakit girişleri yaratmamakta ve bu nedenle değer düşüklüğü açısından, ait
+olduğu nakit yaratan birimin bir parçası olarak teste tabi tutulmakta ise;
+söz konusu birimi oluşturan varlık ve borçlar en son geri kazanılabilir tutar
+hesaplamasından sonra önemli ölçüde değişmemiştir;
+(b) En son geri kazanılabilir tutar hesaplaması,
+varlığın defter değerini önemli bir miktarda aşan bir şekilde sonuçlanmıştır;
+ve
+(c) En son geri kazanılabilir tutar
+hesaplamasından sonra gerçekleşen olay ve değişen koşulların
+değerlendirilmesi çerçevesinde, güncel geri kazanılabilir tutarın
+hesaplanması sonucunda bulunacak değerin varlığın defter değerinden düşük
+çıkma olasılığı zayıftır.
+Satış maliyetleri düşülmüş gerçeğe uygun
+değer
+25. Bir varlığın
+satış maliyetleri düşülmüş gerçeğe uygun değeri için en iyi kanıt; karşılıklı
+pazarlık ortamında yapılmış bağlayıcı bir satış anlaşmasındaki fiyatın,
+varlığın elden çıkarılmasıyla doğrudan ilişkilendirilebilen ek maliyetlere
+göre düzeltilmesi sonucunda bulunan tutarıdır.
+26. Bağlayıcı
+bir anlaşma yok, ancak varlık aktif bir piyasada işlem görmekte ise; satış
+maliyetleri düşülmüş gerçeğe uygun değer ilgili varlığın elden çıkarma
+maliyetleri düşülmüş piyasa fiyatıdır. Uygun piyasa fiyatı genellikle cari
+teklif fiyatıdır. Cari teklif fiyatının mevcut olmaması durumunda, işlem
+tarihi ile tahminin yapıldığı tarih arasındaki ekonomik koşullarda önemli bir
+değişiklik olmadıkça, satış maliyetleri düşülmüş gerçeğe uygun değeri tahmin
+etmede en son işlem fiyatı esas alınabilir.
+27. Bir
+varlık için, bağlayıcı bir satış anlaşması veya aktif bir piyasa bulunmaması
+durumunda, satış maliyetleri düşülmüş gerçeğe uygun değer, işletmenin elden
+çıkarma maliyeti düşüldükten sonra, bilanço tarihinde, bilinçli ve istekli taraflar
+arasında karşılıklı pazarlık ortamında yapılacak bir satıştan elde
+edebileceği tutarı en iyi gösteren bilgiye dayandırılır. Bu tutarı
+belirlerken, işletme, aynı endüstri dalında benzer varlıklarla ilgili güncel
+işlemlerin sonuçlarını dikkate alır. Satış maliyetleri düşülmüş gerçeğe uygun
+değer, yönetim acil olarak satışa zorlanmadıkça, zorunlu bir satışın sonucunu
+yansıtmaz.
+28. Borç
+olarak muhasebeleştirilenler dışındaki elden çıkarma maliyetleri, satış
+maliyetleri düşülmüş gerçeğe uygun değerin tespiti esnasında indirilir. Bu
+tür maliyetlere ilişkin örnek olarak; yasal maliyetler, damga vergisi ve
+benzeri işlem vergileri, varlığın taşınma maliyetleri ile varlığı satışa
+hazır hale getirmek için oluşan ilave maliyetler gösterilebilir. Ancak, işten
+çıkarma tazminatları ("TMS 19 Çalışanlara Sağlanan Faydalar"
+Standardında tanımlandığı şekilde) ve varlığın elden çıkarılmasını müteakip,
+bir faaliyetin azaltılması ya da yeniden
+yapılandırılmasına ilişkin maliyetler, varlığın elden çıkarılması ile
+doğrudan ilgili ek maliyetler değildir.
+29. Bazen,
+bir varlığın elden çıkarılması alıcı tarafından bir borcun
+üstlenilmesini gerektirir ve hem
+varlık hem de borç için tek bir satış maliyeti düşülmüş gerçeğe uygun değer
+bulunabilir. 78 inci Paragraf bu gibi durumların nasıl değerlendirileceğini
+gösterir.
+Kullanım
+değeri sh.
+30. Varlığın
+kullanım değerinin hesaplamasında aşağıdaki unsurlar dikkate alınır:
+(a) İşletmenin varlıktan elde etmeyi beklediği
+gelecekteki nakit akışlarının tahmini;
+(b) Söz konusu gelecekteki nakit akışlarının
+tutarı ve zamanlamasında olabilecek değişikliklerle ilgili beklentiler;
+(c) Piyasa riski hariç tutulmuş cari faiz oranı
+ile temsil edilen paranın zaman değeri;
+(d) Varlıkta yer alan belirsizliğe katlanmanın
+bedeli; ve
+(e) Likidite azlığı gibi, piyasa
+katılımcılarının işletmenin varlıktan elde etmeyi beklediği gelecekteki nakit
+akışlarının fiyatlandırmasına yansıtacağı diğer unsurlar.
+31. Varlığın kullanım değerinin tahmini
+aşağıdaki adımları içerir:
+(a) Varlığın kullanımı süresince ve sonunda
+elden çıkarılmasından elde edilmesi beklenen nakit giriş ve çıkışlarının
+tahmini; ve
+(b) Söz konusu gelecekteki nakit akışlarına
+uygun iskonto oranının uygulanması.
+32. Paragraf
+30 (b), (d) ve (e)’de tanımlanan unsurlar, gelecekteki nakit akışlarına ya da iskonto oranına düzeltme
+olarak yansıtılabilirler. İşletme, gelecekteki nakit akışlarının tutarı ve
+zamanlamasında olabilecek değişikliklerle ilgili beklentilerini yansıtmak
+için hangi yaklaşımı kabul ederse etsin; elde edilecek sonuç, gelecekteki
+nakit akışlarının beklenen bugünkü değerini, diğer bir deyişle, her türlü
+muhtemel sonucun ağırlıklı ortalamasını yansıtır. Ek A, varlığın kullanım
+değerinin ölçülmesinde, bugünkü değer tekniklerinin kullanımına ilişkin ek
+bir rehber sağlar.
+Gelecekteki nakit akışlarının tahmin edilme esası
+33. Bir işletme, kullanım değerini
+ölçerken aşağıdakileri uygular:
+(a) Nakit akış projeksiyonlarını, ilgili
+varlığın geriye kalan yararlı ömrü boyunca var olacak ekonomik koşullara ilişkin
+yönetimin yaptığı en iyi tahminleri içeren mantıklı ve desteklenebilir
+varsayımlara dayandırır. İşletme dışı kanıtlara daha fazla ağırlık verir.
+(b) Nakit akış projeksiyonlarını, yönetim
+tarafından onaylanan en güncel finansal
+bütçelere/tahminlere dayandırır; ancak gelecekte gerçekleştirilecek yeniden
+yapılandırmalardan veya varlığın gelecekteki performansını artırma veya
+iyileştirme çalışmalarından kaynaklanan nakit giriş ya
+da çıkışlarını dikkate almaz. Bu bütçeleri/tahminleri esas alan projeksiyonlar,
+daha uzun bir dönemin kullanılması gerektiğine ilişkin haklı gerekçeler
+bulunmadığı sürece, en fazla 5 yıllık dönemi kapsar.
+(c) En güncel bütçelerin/tahminlerin kapsadığı
+dönemin ilerisindeki dönemler açısından nakit akış projeksiyonlarını, artan
+bir oranın kullanılması gerektiğine ilişkin haklı gerekçeler bulunmadığı
+sürece; takip eden yıllarda sabit ya da azalan
+büyüme oranları uygulamak suretiyle mevcut bütçeler/tahminlere ilişkin olarak
+yapılan projeksiyonlar çerçevesinde tahmin eder. Anılan büyüme oranı, daha
+yüksek bir oranın kullanılması gerektiğine ilişkin haklı gerekçeler
+bulunmadığı sürece, işletmenin faaliyet gösterdiği ürünler, endüstriler, ülke
+veya ülkeler ya da varlığın kullanıldığı piyasalar
+için geçerli uzun vadeli ortalama büyüme oranlarını aşmaz.
+34. Yönetim,
+geçmişteki nakit akış projeksiyonları ile gerçekleşen nakit akışları
+arasındaki farkların sebeplerini inceleyerek, cari nakit akış
+projeksiyonlarının esas aldığı varsayımların uygunluğunu değerlendirir.
+Yönetim, cari nakit akış projeksiyonlarında esas alınan varsayımların;
+geçmişte nakit akışları gerçekleşirken mevcut olmayan sonradan gerçekleşen
+olay ve koşulların etkilerini de dikkate alarak, geçmişteki sonuçlarla
+tutarlı olduğundan emin olur.
+35. Gelecekteki
+nakit akışlarına ilişkin olarak 5 yıldan uzun dönemler için detaylı, kesin ve
+güvenilir finansal bütçeler/tahminler genellikle
+mevcut olmaz. Bu nedenle, yönetimin gelecekteki nakit akış tahminleri, en
+fazla 5 yıllık bir döneme ilişkin en güncel bütçeleri/tahminleri esas alır.
+Yönetimin, söz konusu projeksiyonların güvenilir olduğundan emin olması ve
+geçmiş deneyimler dikkate alındığında daha uzun dönemler için gelecekteki
+nakit akışlarını doğru olarak tahmin edebildiğini kanıtlaması durumunda, 5
+yıldan daha uzun dönem için yapılan finansal
+bütçeleri/tahminlerinde yer alan nakit akışlarını esas alabilir.
+36. Takip
+eden yıllar için bir büyüme oranı kullanılmak suretiyle finansal
+bütçeler/tahminler esas alınarak hazırlanan nakit akış projeksiyonları
+uygulanması suretiyle varlığın yararlı ömrünün sonuna kadar olan döneme
+ilişkin nakit akış projeksiyonları tahmin edilir. Söz konusu oran, kendisinde
+meydana gelen artış bir ürün veya endüstrinin yaşam süresi ile ilgili
+yöntemler hakkındaki objektif bilgilerle uyumlu olmadıkça, sabit ya da azalan bir orandır. Uygunsa olması durumunda,
+büyüme oranı sıfır ya da negatiftir.
+37. Koşullar
+olumlu olduğunda, rakiplerin piyasaya girmesi ve büyümeyi sınırlaması
+olasıdır. Bu nedenle, işletmeler faaliyet gösterdikleri ürünler, endüstriler,
+ülke veya ülkeler ya da varlığın kullanıldığı
+piyasalar için uzun vadede (örneğin 20 yıl) ortalama tarihi büyüme oranlarını
+aşmakta zorlanacaklardır.
+38. İşletme,
+finansal bütçelerdeki/tahminlerdeki bilgileri
+kullanırken, bilginin mantıklı ve desteklenebilir varsayımları yansıtıp
+yansıtmadığı ile yönetimin varlığın kalan yararlı ömrü boyunca mevcut olacak
+ekonomik koşullara ilişkin en iyi tahminlerini içerip içermediğini dikkate
+alır.
+Gelecekteki nakit akış tahminlerinin içeriği
+39. Gelecekteki nakit akış tahminleri
+aşağıdakileri içerir:
+(a) Varlıktan kullanımı süresince elde edilecek
+nakit girişlerine ilişkin projeksiyonlar;
+(b) Varlığın kullanımı süresince nakit girişi
+(varlığı kullanıma hazır hale getirmek için gerekli nakit çıkışları dahil)
+yaratabilmek için katlanılacak ve varlıkla doğrudan ilişkilendirilebilecek
+veya mantıklı ve tutarlı bir biçimde dağıtılabilecek nakit çıkışları ile
+ilgili projeksiyonlar; ve
+(c) Varlığın yararlı ömrünün sonunda elden
+çıkarılması karşılığında elde edilecek (ya da
+ödenecek), eğer varsa, net nakit akışları.
+40. Gelecekteki
+nakit akış tahminleri ve iskonto oranı, genel
+enflasyondan kaynaklanan fiyat artışları ile ilgili tutarlı varsayımları
+yansıtır. Bu nedenle, iskonto oranının, genel
+enflasyondan kaynaklanan fiyat artışlarının etkisini içermesi durumunda,
+gelecekteki nakit akışları nominal olarak tahmin edilir. İskonto
+oranının genel enflasyondan kaynaklanan fiyat artışlarının etkisini
+içermemesi durumunda, gelecekteki nakit akışları enflasyon etkilerinden arındırılmış
+gerçek değerlerinden tahmin edilir (ama gelecekteki fiyat artışları veya
+azalışlarını içerir).
+41. Nakit
+çıkış projeksiyonları, varlıkla doğrudan ilişkilendirilebilecek veya mantıklı
+ve tutarlı bir temelde dağıtılabilecek gelecekteki genel giderlerin yanı
+sıra, varlığın günlük bakımı ile ilgili nakit çıkışlarını da içerir.
+42. Varlığın
+defter değerinin, kullanıma ya da satışa hazır hale
+getirilmesinden önce yapılacak tüm nakit çıkışlarını henüz içermediği
+durumlarda, gelecekteki nakit çıkışlarının tahmini, varlığı kullanıma ya da satışa hazır hale getirilmesinden önce yüklenilmesi
+beklenen her türlü ilave nakit çıkışına ilişkin bir tahmin içerir. Örneğin,
+inşaat halindeki bir bina veya henüz tamamlanmamış bir geliştirme
+projesindeki durum bu şekildedir.
+43. Mükerrer
+olarak dikkate almaktan kaçınmak için, gelecekteki nakit akışlarına ilişkin
+tahminler aşağıdakileri içermez:
+(a) Bahse konu varlıktan kaynaklanan nakit
+girişlerinden geniş ölçüde bağımsız olan nakit girişleri yaratan varlıkların
+nakit girişleri (örneğin alacaklar gibi finansal
+varlıklar); ve
+(b) Borç olarak muhasebeleştirilen
+yükümlülüklerle ilgili nakit çıkışları (örneğin borçlar, emekli aylıkları ve
+karşılıklar).
+44. Gelecekteki
+nakit akışları varlığın mevcut durumu için tahmin edilir. Gelecekteki nakit
+akışları ile ilgili tahminler aşağıdakilerden kaynaklanması beklenen
+gelecekteki nakit giriş veya çıkışlarını içermez:
+(a) İşletmenin henüz taahhüt etmediği gelecekteki
+bir yeniden yapılanma; veya
+(b) Varlığın performansını artırma veya
+iyileştirme.
+45. Gelecekteki
+nakit akışları varlığın mevcut durumuna göre tahmin edildiğinden, kullanım
+değeri aşağıdakileri yansıtmaz:
+(a)
+İşletmenin henüz taahhüt etmediği gelecekteki bir yeniden yapılandırmadan
+kaynaklanması beklenen nakit çıkışları veya maliyet tasarrufları ya da faydaları (örneğin personel maliyetlerindeki
+azalmalar); ya da
+(b) Varlığın performansını artıracak veya
+iyileştirecek gelecekteki nakit çıkışları veya bu gibi çıkışlardan
+kaynaklanması beklenen nakit girişleri.
+46. Yeniden
+yapılandırma, yönetim tarafından planlanan ve kontrol edilen ve faaliyetin
+kapsamını veya işin yürütülüş şeklini önemli ölçüde değiştiren bir
+programdır. "TMS 37 Karşılıklar, Koşullu Borçlar ve Koşullu
+Varlıklar" Standardı, bir işletmenin ne zaman yeniden yapılandırma
+taahhüdü altına girmiş olacağını açıklayan bir rehber içerir.
+47. İşletme
+yeniden yapılandırma taahhüdü altına girdiğinde, bazı varlıkların bundan
+etkilenmesi olasıdır. İşletme bir kez yeniden yapılandırma taahhüdü altına
+girince:
+(a) Kullanım değerinin tespiti amacıyla
+gelecekteki nakit giriş ve çıkışları ile ilgili tahminler, yeniden
+yapılandırmadan kaynaklan maliyet tasarrufları ile diğer faydaları (yönetim tarafından
+onaylanan en son finansal bütçelere/ tahminlere
+göre) yansıtır; ve
+(b) Yeniden yapılandırma işlemine ilişkin
+gelecekteki nakit çıkışı tahminleri, TMS 37’ye uygun olarak yeniden
+yapılandırma karşılığına dahil edilir.
+Açıklayıcı
+Örnek 53 , gelecekteki bir yeniden yapılandırmanın kullanım değerinin
+hesaplamasındaki etkisini gösterir.
+48. İşletmenin
+varlığın performansında artma veya iyileşme sağlayacak nakit çıkışlarını
+gerçekleştirmesine kadar, gelecekteki nakit akışı tahminleri, nakit çıkışlarıyla
+ilişkili ekonomik yararlardaki artıştan kaynaklanması beklenen nakit
+girişlerini içermez (bakınız: Açıklayıcı Örnek 64).
+49. Gelecekteki
+nakit akışlarıyla ilgili tahminler, mevcut durumunda varlıktan elde edilmesi
+beklenen ekonomik yararların düzeyini korumak için gelecekte ihtiyaç
+duyulacak nakit çıkışlarını içerir. Nakit yaratan bir birimin, tamamı birimin
+devam eden faaliyetleri için gerekli farklı yararlı ömre sahip varlıklardan
+oluşması durumunda, anılan birimle ilgili gelecekteki nakit akışlarının
+tahmin edilmesi sırasında, en kısa yararlı ömre sahip olan varlığın
+yenilenmesi, birimin günlük bakımının bir parçası olarak dikkate alınır.
+Benzer şekilde, tek bir varlığın tahmini yararlı ömürleri farklı olan
+parçalardan oluşması durumunda, varlıkla ilgili gelecekteki nakit akışlarını
+tahmin edilmesi sırasında, en kısa yararlı ömre sahip olan parçanın
+yenilenmesi varlığın günlük bakımının bir parçası olarak dikkate alınır.
+50. Gelecekteki nakit akışlarına ilişkin
+tahminler aşağıdakileri içermez:
+(a) Finansal
+faaliyetlerden kaynaklanan nakit girişleri veya çıkışları; ya da
+(b) Gelir vergisi tahsilatları veya ödemeleri.
+51. Gelecekte
+gerçekleşmesi tahmin edilen nakit akışları, iskonto
+oranının belirlenme yöntemiyle tutarlı bir şekilde yapılan varsayımları
+yansıtır. Aksi takdirde, bazı varsayımların etkileri iki defa dikkate
+alınacak veya yok sayılacaktır. Paranın zaman değeri, gelecekte gerçekleşmesi
+tahmin edilen nakit akışlarının iskonto edilmesiyle
+dikkate alındığından, bu nakit akışları finansal faaliyetlerden
+kaynaklanan nakit girişlerini veya çıkışlarını hariç tutar. Çünkü benzer bir
+şekilde, iskonto oranı vergi öncesi
+belirlendiğinden, gelecekteki nakit akışları da vergi öncesi tahmin edilir.
+52. Bir
+varlığın yararlı ömrünün sonunda elden çıkarılması karşılığında elde edilecek
+(veya ödenecek) tahmini net nakit akışları, tahmini elden çıkarma maliyetleri
+düşüldükten sonra bilinçli ve istekli taraflar arasında karşılıklı pazarlık
+ortamında yapılacak bir işlemde işletmenin varlığın elden çıkarılmasından
+elde etmeyi beklediği tutardır.
+53. Bir
+varlığın yararlı ömrünün sonunda elden çıkarılması karşılığında elde edilecek
+(veya ödenecek) tahmini net nakit akışları, aşağıda yer alan net nakit
+akışlarının tahmin edilmesi haricinde, varlığın satış maliyetleri düşülmüş
+gerçeğe uygun değerinin saptanmasına benzer bir şekilde belirlenir:
+(a) İşletme, varlığın kullanılacağı koşullara
+benzer koşullarda faaliyet göstermiş ve yararlı ömrünü tamamlamış benzeri
+varlıklar için tahmin tarihinde geçerli olan fiyatları kullanır.
+(b) İşletme, bu fiyatları hem gelecekte genel
+enflasyondan kaynaklanacak fiyat artışlarının, hem de gelecekteki belirli
+fiyat artış veya azalışlarının etkileri açısından düzeltir. Ancak, gelecekte
+varlığın sürekli kullanımından kaynaklanacak nakit akışları ile ilgili
+tahminler ve iskonto oranı genel enflasyonun
+etkisini hariç tutması durumunda, işletme bu etkiyi elden çıkarmada meydana
+gelecek net nakit akışlarının tahmininde de dikkate almaz.
+Gelecekteki yabancı para nakit akışları
+54. Gelecekteki
+nakit akışları, gerçekleşecekleri para birimi cinsinde tahmin edilir ve
+anılan para birimi için uygun olan iskonto
+oranından iskonto edilir. İşletme bugünkü değeri,
+kullanım değerinin hesaplandığı tarihteki geçerli kuru kullanarak çevirir.
+İskonto oranı
+55. İskonto oranı (oranları), aşağıda yer alanlara ilişkin
+cari piyasa değerlendirmesini yansıtan vergi öncesi oran (oranlar) olacaktır:
+(a) Paranın zaman değeri; ve
+(b) Gelecekteki nakit akış tahminlerinde dikkate
+alınmamış olan, varlığa özgü riskler.
+56. Paranın
+zaman değeri ile varlığa özgü risklere ilişkin cari piyasa değerlendirmesini
+yansıtan oran; yatırımcıların tutar, zaman ve risk profili açısından
+işletmenin varlıktan elde etmeyi beklediği nakit akışlarıyla aynı düzeyde
+nakit akışları yaratan bir yatırım yapmış olmaları durumunda elde etmeyi
+bekleyecekleri kazançtır. Bu oran, benzeri varlıklar için cari piyasa işlemlerindeki
+zımni bir oran üzerinden veya hizmet potansiyeli ve riskleri açısından ilgili
+varlığa benzer bir varlığa (veya varlık portföyüne) sahip halka açık bir
+işletmenin ağırlıklı ortalama sermaye maliyeti üzerinden tahmin edilir.
+Ancak, varlığın kullanım değerini ölçmede kullanılan iskonto
+oranı (oranları), gelecekteki nakit akış tahminlerini düzeltmede dikkate
+alınan riskleri yansıtmayacaktır. Aksi takdirde, bazı varsayımların etkisi
+iki kez dikkate alınmış olacaktır.
+57. Varlığa
+özgü oran piyasada doğrudan mevcut değilse; işletme, iskonto
+oranının tahmininde yerine geçebilecek oranları
+kullanır. Ek A, anılan durumlarda iskonto oranının
+tahminine ilişkin ek bir rehber sağlar.
+Değer düşüklüğü zararının ölçülmesi ve
+muhasebeleştirilmesi
+58. Paragraf
+59-64, şerefiye dışındaki bir varlık için değer düşüklüğü zararlarının ölçümü
+ve muhasebeleştirilmesi ile ilgili hükümleri içerir. Nakit yaratan birimler
+ve şerefiye için değer düşüklüğü
+zararlarının ölçümü ve muhasebeleştirilmesi ise Paragraf 65-108’de düzenlenmiştir.
+59. Sadece
+ve sadece, bir varlığın geri kazanılabilir tutarının defter değerinden düşük
+olması durumunda, söz konusu varlığın defter değeri geri kazanılabilir
+tutarına indirgenir. Anılan indirgeme, bir değer düşüklüğü zararıdır.
+60. Varlık
+başka bir Standarda göre (örneğin "TMS 16 Maddi Duran Varlıklar"
+Standardındaki yeniden değerleme yöntemine göre) yeniden değerlenmiş tutarı
+üzerinden gösterilmedikçe; değer düşüklüğü zararı derhal kâr veya zararda
+muhasebeleştirilir. Yeniden değerlenmiş bir varlığa ilişkin değer düşüklüğü
+zararı, anılan diğer Standarda göre yeniden değerleme değer azalışı olarak
+dikkate alınır.
+61. Yeniden
+değerlenmemiş bir varlığa ilişkin değer düşüklüğü zararı kâr veya zararda
+muhasebeleştirilir. Ancak, yeniden değerlenmiş bir varlığa ilişkin değer
+düşüklüğü zararı, aynı varlığın yeniden değerleme fazlası tutarını aşmadığı
+sürece doğrudan yeniden değerleme fazlasından düşülerek muhasebeleştirilir.
+62. Değer
+düşüklüğü zararına ilişkin olarak tahmin edilen tutarın, ilişkili olduğu
+varlığın defter değerini aşması durumunda, işletme, sadece ve sadece, başka
+bir Standardın bunu gerektirmesi durumunda, bir borç muhasebeleştirir.
+63. Değer
+düşüklüğü zararının muhasebeleştirilmesinin ardından; ilgili varlığın kalıntı
+değeri (eğer varsa) düşülmüş yeni defter değerinin kalan yararlı ömrü boyunca
+sistematik olarak dağıtılmasını sağlayacak bir şekilde, varlığa ilişkin
+amortisman tutarı (itfa payı) gelecek dönemlerde düzeltilir.
+64. Bir
+değer düşüklüğü zararının muhasebeleştirilmesi durumunda, ilgili ertelenmiş
+vergi varlık veya borçları, "TMS 12 Gelir Vergileri" Standardına
+göre varlığın yeni defter değerinin vergiye esas değeri ile karşılaştırılması
+suretiyle belirlenir (bakınız: Açıklayıcı Örnek 35).
+Nakit yaratan birimler ve şerefiye
+65. 66-108
+inci Paragraflar, bir varlığın ait olduğu nakit yaratan birimin tespit
+edilmesi ile nakit yaratan birimler ve şerefiyenin defter değerinin
+belirlenmesi ve değer düşüklüğü zararının muhasebeleştirilmesine ilişkin
+hükümleri içerir.
+Varlığın ait olduğu nakit yaratan birimin
+belirlenmesi
+66. Bir
+varlığın değer düşüklüğüne uğramış olabileceğine dair herhangi bir belirtinin
+bulunması durumunda, söz konusu varlığın geri kazanılabilir tutarı tahmin
+edilir. Anılan varlığın geri kazanılabilir tutarının tahmin edilmesinin
+mümkün olmaması durumunda; işletme, varlığın ait olduğu nakit yaratan birimin
+(ilgili varlığın nakit yaratan birimi) geri kazanılabilir tutarını tespit
+eder.
+67. Aşağıdaki
+durumlarda, varlığın geri kazanılabilir tutarı belirlenemez:
+(a) Varlığın kullanım değerinin satış
+maliyetleri düşülmüş gerçeğe uygun değerine yakın olacağı tahmin
+edilememektedir (örneğin varlığın kullanımından kaynaklanacak gelecekteki
+nakit akışlarının önemsiz bir düzeyde olacağının tahmin edilememesi durumunda);
+ve
+(b) Varlık, diğer varlıklara ilişkin nakit
+akışlarından büyük ölçüde bağımsız nakit akışları yaratmamaktadır.
+Bu gibi durumlarda, kullanım
+değeri ve dolayısıyla geri kazanılabilir tutar, sadece varlığın nakit yaratan
+birimi için belirlenebilir.
+Örnek
+Bir
+maden şirketi, madencilik faaliyetlerini desteklemek için özel bir
+demiryoluna sahiptir. Özel demiryolu sadece hurda değerinden satılabilir ve
+madenin diğer varlıklarından kaynaklanan nakit girişlerinden geniş ölçüde
+bağımsız nakit girişleri yaratmamaktadır.
+Özel
+demiryolunun geri kazanılabilir tutarını tahmin etmek mümkün değildir; çünkü
+kullanım değeri belirlenemez ve muhtemelen hurda değerinden farklıdır. Bu
+nedenle işletme, özel demiryolunun ait olduğu nakit yaratan birimin, yani bir
+bütün olarak madenin, geri kazanılabilir tutarını tahmin eder.
+68. 6 ncı Paragrafta tanımlandığı üzere, bir varlığın nakit
+yaratan birimi; söz konusu varlığı içeren ve diğer varlıkların veya varlık
+gruplarının nakit girişlerinden büyük ölçüde bağımsız nakit girişleri yaratan
+en küçük varlık grubudur. Bir varlığın nakit yaratan biriminin tespit
+edilmesi yargıda bulunmayı gerektirir. Bir varlık için geri kazanılabilir
+tutarın belirlenememesi durumunda, işletme, büyük ölçüde bağımsız nakit
+girişleri yaratan en küçük varlık topluluğunu tespit eder.
+Örnek
+Bir
+otobüs şirketi, herhangi bir belediye ile yaptığı ve 5 ayrı hatta asgari miktarda
+hizmet verilmesini gerektiren bir sözleşme çerçevesinde hizmet sunmaktadır.
+Her bir hata ayrılan varlıklar ve her bir hattan elde edilecek nakit akışları
+ayrı olarak tespit edilebilir. Hatlardan biri önemli ölçüde zarar etmektedir.
+İşletmenin
+herhangi bir otobüs hattından vazgeçmesi olası olmadığından, diğer
+varlıkların veya varlık gruplarının nakit girişlerinden büyük ölçüde bağımsız
+belirlenebilir nakit girişlerinin en düşüğü, söz konusu 5 ayrı hattın beraber
+yarattığı nakit girişleridir. Her bir hattın nakit yaratan birimi bir bütün
+olarak otobüs şirketidir.
+69. Nakit
+girişleri işletmeye, işletme dışındaki taraflarca yapılan nakit ve nakit
+benzeri girişlerdir. Bir varlıktan (veya varlık grubundan) kaynaklanan nakit
+girişlerinin diğer varlıklardan (veya varlık gruplarından) kaynaklanan nakit
+girişlerinden büyük ölçüde bağımsız olup olmadığının belirlenmesi esnasında,
+işletme, yönetimin işletmenin faaliyetlerini (ürün kolları, faaliyetleri,
+faaliyet yerleri, mahalleri veya bölgeleri gibi) nasıl izlediği,
+varlıklarının ve faaliyetlerinin devam ettirilmesine veya elden çıkarılmasına
+yönelik kararları nasıl verdiği gibi unsurları da dikkate alır. Açıklayıcı
+Örnek 16, nakit yaratan bir birimin tespitine yönelik örnekleri içerir.
+70. Bir
+varlık veya varlık grubu tarafından üretilen ürünün aktif bir piyasasının
+mevcut olması durumunda; söz konusu ürünün bir kısmı ya
+da tamamı işletme içinde kullanılmakta dahi olsa, anılan varlık veya varlık
+grubu nakit yaratan birim olarak değerlendirilir. Bir varlık veya nakit
+yaratan birim tarafından yaratılan nakit girişlerinin işletme içi transfer
+fiyatlaması uygulamalarından etkilenmeleri durumunda, işletme, aşağıdakileri
+tahmin ederken karşılıklı pazarlık ortamında yapılacak bir işlemde yönetimin
+gelecekte oluşması en muhtemel fiyat tahminini (tahminlerini) kullanır:
+(a) Varlık veya nakit yaratan birimin kullanım
+değerini belirlerken kullanılan gelecekteki nakit girişleri; ve
+(b) İşletme içi transfer fiyatlamasından
+etkilenen diğer varlıklar veya nakit yaratan birimlerin kullanım değerini
+belirlemek için kullanılacak gelecekteki nakit çıkışları.
+71. Bir
+varlık veya varlık grubunun ürettiği ürünün bir kısmı veya tamamı işletmenin
+diğer birimleri (örneğin bir üretim sürecinin ortasında, ara bir aşamadaki
+ürünler) tarafından kullanılıyor olsa da, işletmenin ürünü aktif bir piyasada
+satabilecek olması durumunda, bu varlık veya varlık grubu ayrı bir nakit
+yaratan birim oluşturur. Bu durum, ilgili varlığın veya varlık grubunun diğer
+varlıklardan veya varlık gruplarından kaynaklanacak nakit girişlerinden büyük
+ölçüde bağımsız nakit girişi yaratabilmesinden kaynaklanmaktadır. Bir
+işletme, anılan tür nakit yaratan bir birim veya işletme içi transfer
+fiyatlamasından etkilenen herhangi diğer bir varlık veya nakit yaratan birim
+ile ilgili finansal bütçelere/tahminlere dayanan
+bilgileri kullanırken, işletme içi bölümler arası aktarımlardaki
+fiyatlamalar, yönetimin karşılıklı pazarlık ortamında yapılacak bir işlem
+gelecekte oluşması en muhtemel fiyat tahminini yansıtmaması durumunda, söz
+konusu bilgi işletme tarafından düzeltilir.
+72. Değiştirilmelerine
+yönelik haklı sebepler bulunmadıkça, nakit yaratan birimler, aynı varlık veya
+varlık türleri için dönemden döneme tutarlı bir şekilde tespit edilir.
+73. İşletmenin,
+bir varlığın önceki dönemlerde yer aldığından farklı bir nakit yaratan birime
+ait olduğunu belirlemesi veya ilgili varlığın nakit yaratan biriminde yer
+alan varlıkların türlerinin değiştiğine karar vermesi durumunda, 130 uncu
+Paragraf, nakit yaratan birime ilişkin muhasebeleştirilmiş veya iptal edilmiş
+bir değer düşüklüğü zararının bulunması durumunda, anılan nakit yaratan birim
+hakkında kamuoyuna açıklama yapılmasını gerektirir.
+Geri kazanılabilir tutar ve nakit yaratan
+birimin defter değeri
+74. Nakit
+yaratan bir birime ilişkin geri kazanılabilir tutar, satış maliyetleri
+düşülmüş gerçeğe uygun değeri ile kullanım değerinden yüksek olanıdır. Nakit
+yaratan bir birimin geri kazanılabilir tutarını belirlemek için; 19-57 nci Paragraflar arasında bulunan açıklamalarda yer alan
+‘varlık’ terimi ‘nakit yaratan birim’ olarak dikkate alınır.
+75. Nakit
+yaratan bir birimin defter değerinin tespitinde esas alınan temel, geri
+kazanılabilir değerinin tespitinde kullanılan temel ile tutarlı olmalıdır.
+76. Nakit
+yaratan bir birimin defter değeri:
+(a) Sadece, nakit yaratan birimle doğrudan
+ilişkilendirilebilen veya mantıklı ve tutarlı bir şekilde söz konusu birime
+dağıtılabilen ve nakit yaratan birimin kullanım değerinin tespitinde
+kullanılan gelecekteki nakit girişlerini sağlayan varlıkların defter
+değerlerini içerir; ve
+(b) Nakit yaratan birimin geri kazanılabilir
+tutarının ilgili borç dikkate alınmadan belirlenemediği durumlar haricinde,
+muhasebeleştirilen herhangi bir borcun defter değerini içermez.
+Bu
+durum, nakit yaratan bir birimin satış maliyetleri düşülmüş gerçeğe uygun
+değeri ve kullanım değerinin, nakit yaratan birime dahil olmayan varlıklar ve
+muhasebeleştirilmiş borçlar hariç tutularak belirlenmesinden kaynaklanır.
+(bakınız: 28 ve 43 üncü Paragraflar).
+77. Varlıklar
+geri kazanılabilir değerin belirlenmesi açısından gruplandıklarında, nakit
+girişi yaratan veya geçmişte yaratmış tüm varlıkların nakit yaratan birime
+dahil edilmeleri önem arz eder. Aksi takdirde, bir değer düşüklüğü zararı
+oluşmuş olsa dahi, nakit yaratan birim tamamen geri kazanılabilirmiş gibi
+görünebilir. Bazı durumlarda, varlıklar bir kısmı, tahmin edilen gelecekteki
+nakit akışlarına katkıda bulunsalar bile, mantıklı ve tutarlı bir esas
+çerçevesinde nakit yaratan birime dağıtılamazlar. Bu durum, şerefiye veya
+genel müdürlük varlıkları gibi şirket varlıkları için geçerli olabilir.
+Paragraf 80-103 arasında yer alan hükümler, nakit yaratan birimin değer
+düşüklüğünün test edilmesi sırasında bu tür varlıkların nasıl
+değerlendirilmesi gerektiğini açıklar.
+78. Nakit
+yaratan bir birimin geri kazanılabilir tutarını belirlemek için,
+muhasebeleştirilmiş birtakım borçları dikkate almak gerekebilir. Bu tür bir
+durum, nakit yaratan bir birimin elden çıkarılmasının alıcının bir borcu
+üstlenmesini gerektirdiği takdirde söz konusu olabilir. Böyle bir durumda,
+nakit yaratan birimin satış maliyetleri düşülmüş gerçeğe uygun değeri (veya
+sonunda elden çıkarılmasından beklenen nakit akışları), nakit yaratan birimin
+varlık ve borçlarının, elden çıkarma maliyetleri düşüldükten sonra tahmin
+edilen birlikte satış fiyatıdır. Nakit yaratan birimin defter değeri ile geri
+kazanılabilir tutarı arasında anlamlı bir karşılaştırma yapmak için; nakit
+yaratan birimin hem kullanım değerinin hem de defter değerinin belirlenmesi
+esnasında ilgili borcun defter değeri düşülür.
+Örnek
+Bir
+şirket, ülke mevzuatının, maden çalışmaları tamamlandıktan sonra iş sahibinin
+alanı tekrar doldurmasını gerektirdiği bir ülkede maden işletmektedir.
+Restorasyon maliyeti, madencilik faaliyetlerine başlamadan önce yüzeyden
+kaldırılması gereken toprağın geri yerine konulmasını da içerir. Yüzey
+toprağı kaldırılır kaldırılmaz, yerine koyma maliyeti için karşılık ayrılır.
+Anılan tutar madenin maliyetinin bir parçası olarak muhasebeleştirilir ve
+madenin yararlı ömrü boyunca amortismana tabi tutulur. Restorasyon
+maliyetleri için ayrılan karşılığın defter değeri 500 PB7 olup,
+söz konusu tutar restorasyon maliyetlerinin bugünkü değerine eşittir.
+İşletme
+değer düşüklüğü açısından söz konusu madeni test eder. Madenin nakit yaratan
+birimi, bir bütün olarak madenin kendisidir. İşletme, madenin 800 PB
+civarında bir fiyattan satın alınmasına yönelik çeşitli teklifler almıştır.
+Bu fiyat, alıcının yüzey toprağının yerine konulmasına ilişkin yükümlülüğü
+kabul ettiğini gösterir. Madeni elden çıkarma maliyetleri önemsizdir. Madenin
+kullanım değeri, restorasyon giderleri hariç olmak üzere, yaklaşık 1.200 PB’dir. Madenin defter değeri ise 1,000 PB’dir.
+Nakit
+yaratan birimin satış maliyetleri düşülmüş gerçeğe uygun değeri 800 PB’dir. Bu tutar, önceden karşılık ayrılmış restorasyon
+maliyetlerini de dikkate alır. Sonuç olarak, nakit yaratan birimin
+restorasyon maliyetleri dikkate alındıktan sonraki kullanım değerinin 700 PB
+(1.200 PB - 500 PB) olduğu tahmin edilir. Nakit yaratan birimin defter değeri
+500 PB olup, madenin defter değerinden (1,000 PB) restorasyon maliyetleri
+için yapılan karşılığın defter değerinin (500 PB) düşülmesiyle bulunur. Bu
+nedenle, nakit yaratan birimin geri kazanılabilir tutarı defter değerini
+aşar.
+79. Daha pratik olmasından ötürü, nakit yaratan bir
+birimin geri kazanılabilir tutarı, bazen, nakit yaratan birimin parçası
+olmayan varlıklar (örneğin alacaklar veya diğer finansal
+varlıklar) veya muhasebeleştirilen borçlar (örneğin borçlar, emekli aylıkları
+ve diğer karşılıklar) dikkate alındıktan sonra belirlenir. Bu gibi
+durumlarda, nakit yaratan birimin defter değeri bu varlıkların defter değeri
+ile birlikte artar ve bu borçların defter değeri ile birlikte azalır.
+Şerefiye
+Şerefiyenin nakit yaratan
+birimlere dağıtımı
+80. Değer
+düşüklüğü testi için, bir işletme birleşmesinde elde edinilen şerefiye,
+birleşme tarihinden itibaren, devrolanın diğer
+varlıkları veya borçlarının söz konusu birimlere veya birim gruplarına
+dağıtılmış olup olmadığına bakılmaksızın, birleşmenin yarattığı sinerjiden
+faydalanması beklenen devralanın her bir nakit yaratan birimine veya birim
+grubuna dağıtılır. Şerefiyenin dağıtıldığı her bir birim veya birim grubu
+aşağıdaki özellikleri taşır:
+(a) İşletme içi yönetsel amaçlarla, şerefiyenin
+izlendiği işletmenin en alt seviyesini gösterir; ve
+(b) İşletmenin, "TMS 14 Bölümlere Göre
+Raporlama" Standardına göre belirlenen temel veya ikincil raporlama
+esasına dayanan bir bölümünden daha büyük olmaz.
+81. İşletme
+birleşmesinde elde edilen şerefiye, bireysel olarak tespit edilmeleri ve ayrı
+olarak muhasebeleştirilmeleri imkanı olmayan varlıklardan beklenen
+gelecekteki ekonomik yararlar için devralan tarafından yapılan ödemeyi ifade
+eder. Şerefiye, diğer varlıklardan veya varlık gruplarından bağımsız olan
+nakit akışları yaratmaz, ve genellikle birden fazla nakit yaratan birimin
+nakit akışına katkıda bulunur. Şerefiye bazen, zorunlu olarak bireysel nakit
+yaratan birimlere değil, sadece nakit yaratan birimler grubuna dağıtılabilir.
+Sonuç olarak, işletme içi yönetsel amaçlarla şerefiyenin izlendiği işletmenin
+en alt seviyesi, bazen, şerefiyenin ilgili olduğu ancak dağıtılamadığı bir
+grup nakit yaratan biriminden oluşur. Paragraf 83-99 arasında yer alan
+bölümde şerefiyenin dağıtıldığı nakit yaratan bir birime yapılan atıflar,
+aynı zamanda, şerefiyenin dağıtıldığı nakit yaratan birimler grubuna da
+yapılmış olarak dikkate alınır.
+82. 80 inci
+Paragraftaki hükümlerin uygulanması,
+şerefiyenin değer düşüklüğü açısından, işletmenin faaliyetlerini
+yürütme şeklini yansıtan ve şerefiyenin doğal olarak ilgili olduğu bir
+düzeyde test edilmesiyle sonuçlanır. Bu nedenle, genellikle, ilave raporlama
+sistemlerinin geliştirilmesi gerekli olmaz.
+83. Değer
+düşüklüğü testi için şerefiyenin dağıtıldığı nakit yaratan birim,
+şerefiyenin, yabancı para kâr ve zararlarının ölçülmesi çerçevesinde
+"TMS 21 Kur Değişiminin Etkileri" Standardına göre dağıtıldığı
+seviyeyle uyuşmayabilir. Örneğin, bir işletmenin TMS 21’e göre, yabancı para
+kâr ve zararlarını ölçmek için şerefiyeyi nispeten daha alt düzeylere
+dağıtmasının gerekmesi durumunda, şerefiye, işletme içi yönetsel açıdan da
+aynı düzeyde izlenmedikçe, değer düşüklüğü testinin de aynı düzeyde yapılması
+gerekmez.
+84. İşletme
+birleşmesinde, şerefiyenin ilk dağıtımı işleminin, işletme birleşmesinin
+geçerlilik kazandığı yıllık dönemin bitiminden önce tamamlanamaması
+durumunda, söz konusu ilk dağıtım, elde etme tarihinden sonra başlayan ilk
+yıllık dönemin bitiminden önce tamamlanır.
+85. "TFRS
+3 İşletme Birleşmeleri" Standardına göre, bir işletme birleşmesinin ilk
+muhasebeleştirilmesi, birleşmenin geçerlilik kazandığı dönemin sonunda sadece
+geçici olarak belirlenebilmekte ise, devralan:
+(a) Söz konusu birleşmeyi anılan geçici
+değerleri kullanmak suretiyle muhasebeleştirir; ve
+(b) Edinme tarihinden itibaren 12 ay içerisinde
+ilk muhasebeleştirme işlemlerinin tamamlamasının bir sonucu olarak, söz
+konusu geçici değerlere ilişkin her türlü düzeltmeyi muhasebeleştirir.
+Bu
+gibi durumlarda, birleşmenin etkin olduğu yıllık dönemin sonundan önce, elde
+edilen şerefiyenin ilk dağıtımını tamamlamak da mümkün olmayabilir. Bu
+durumda işletme, 133’üncü Paragrafta yer alan bilgiyi kamuoyuna açıklar.
+86. Şerefiyenin
+nakit yaratan bir birime dağıtılması ve işletmenin söz konusu birimdeki bir
+faaliyetini elden çıkarması durumunda, elden çıkarılan faaliyetle ilgili
+şerefiye:
+(a) Elden çıkarma kâr veya zararı belirlenirken
+faaliyetin defter değerine dahil edilir; ve
+(b) İşletme, elden çıkarılan faaliyetle ilgili
+şerefiyeyi daha iyi yansıtan başka yöntemler bulunduğunu göstermedikçe, elden
+çıkarılan faaliyet ile, nakit yaratan birimin geriye kalan kısmının
+karşılıklı değerleri esas alınarak ölçülür.
+Örnek
+Bir
+işletme, şerefiyenin dağıtıldığı nakit yaratan birimin parçası olan bir
+faaliyeti 100 PB fiyatına satar. İhtiyari olarak yapılması durumu hariç,
+birime dağıtılan şerefiye, bu birimden daha alt seviyedeki bir varlık grubu
+dikkate alınmak suretiyle belirlenememekte veya böyle bir grupla
+ilişkilendirilememektedir. Geriye kalan nakit yaratan birimin geri
+kazanılabilir tutarı 300 PB’dir.
+Nakit
+yaratan birime dağıtılmış şerefiye bu birimden daha alt bir seviyede yer alan
+bir varlık grubuyla ihtiyari olarak yapılması haricinde ilişkilendirilemediğinden, elden çıkarılan faaliyete ilişkin
+şerefiye, elden çıkarılan faaliyet ile, birimin kalan kısmı dikkate alınmak
+suretiyle ölçülür. Bu nedenle, nakit yaratan birime dağıtılan şerefiyenin
+%25’i, satılan faaliyetin defter değerine dahil edilir.
+87. İşletmenin,
+raporlama yapısını, şerefiyenin dağıtıldığı bir veya daha fazla nakit yaratan
+birimin içeriğini değiştirecek şekilde yeniden yapılandırması durumunda,
+ilgili şerefiye, yeniden yapılandırma işleminden etkilenen birimlere tekrar
+dağıtılır. Anılan tekrar dağıtım işlemi; işletme, yeniden yapılandırılan
+birimlerle ilgili şerefiyeyi daha iyi yansıtan başka yöntemler bulunduğunu
+göstermedikçe, nakit yaratan birimdeki bir faaliyetin elden çıkarılmasında
+kullanılan yaklaşıma benzer, göreceli bir değer yaklaşımı kullanılmak
+suretiyle yapılır.
+Örnek
+Şerefiye,
+daha önce, nakit yaratan A birimine dağıtılmış bulunmaktadır. A’ ya dağıtılan şerefiye, A’dan
+daha alt bir seviyede yer alan bir varlık grubuyla, ihtiyari durumlar dışında
+ilişkilendirilememektedir. A birimi, diğer üç ayrı nakit yaratan birime; B, C
+ve D’ ye bölünecek ve bunlarla ilişkilendirilecektir.
+A’ya dağıtılan şerefiye, A’dan daha alt bir seviyede bulunan bir varlık grubu ile
+ihtiyari durumlar dışında ilişkilendirilemediğinden, söz konusu şerefiye, A
+biriminin B, C ve D ile ilişkilendirilmeden önceki üç bölümüne ait göreceli
+değerler esas alınmak suretiyle B, C ve D’ye
+yeniden dağıtılır.
+Şerefiyeye sahip nakit yaratan birimlerin
+değer düşüklüğü açısından test edilmesi
+88. 81 inci
+Paragrafta belirtildiği üzere, şerefiye, nakit yaratan bir birimle ilişkili
+ancak henüz söz konusu birime dağıtılmamış ise, ilgili birimin değer
+düşüklüğüne uğramış olabileceğine ilişkin her ne zaman bir belirti ortaya
+çıkarsa, söz konusu birim, kendisinin şerefiye hariç defter değeri geri
+kazanılabilir değeri ile karşılaştırılmak suretiyle değer düşüklüğü açısından
+test edilir. Değer düşüklüğü zararı 104 üncü Paragrafa göre
+muhasebeleştirilir.
+89. 88 inci
+Paragrafta yer alan nakit yaratan birimin defter değerine, sınırsız yararlı
+ömre sahip ya da henüz kullanımda olmayan bir maddi
+olmayan duran varlık da dahil ise ve söz konusu varlık değer düşüklüğü
+açısından, sadece, nakit yaratan birimin bir parçası olarak test
+edilebiliyorsa, 10 uncu Paragraf, birimin değer düşüklüğü açısından yıllık
+olarak da test edilmesi gerektiğini belirtir.
+90. Şerefiyenin
+dağıtıldığı nakit yaratan bir birimin, değer düşüklüğü açısından yıllık
+olarak test edildiği ve ilgili birimin değer düşüklüğüne uğramış olabileceğine
+ilişkin her ne zaman bir belirti ortaya çıkarsa, şerefiye dahil defter değeri
+ilgili birimin geri kazanılabilir tutarı ile karşılaştırılmak suretiyle değer
+düşüklüğü açısından test edilir. Birimin geri kazanılabilir tutarının defter
+değerini aşması durumunda, anılan birim ve bu birime dağıtılan şerefiye değer
+düşüklüğüne uğramamış kabul edilir. Birimin defter değerinin geri
+kazanılabilir tutarını aşması durumunda, işletme, 104 üncü Paragraf uyarınca
+değer düşüklüğü zararını muhasebeleştirir.
+Azınlık payı
+91. TFRS
+3’e göre, bir işletme birleşmesinde muhasebeleştirilen şerefiye, işletme
+birleşmesi neticesinde ana ortaklık tarafından kontrol edilen şerefiye
+tutarından ziyade ana ortaklığın payı çerçevesinde elde ettiği şerefiyeyi
+gösterir. Bu nedenle, azınlık payına ait şerefiye ana ortaklığın konsolide finansal tablolarında muhasebeleştirilmez. Dolayısıyla,
+şerefiyenin dağıtıldığı nakit yaratan birimde bir azınlık payının bulunması
+durumunda, söz konusu birimin defter değeri aşağıdakilerden oluşur:
+(a) Anılan birimin belirlenebilir net
+varlıklarındaki ana ortaklığın ve de azınlığın payı; ile
+(b) Ana ortaklığın şerefiyedeki payı.
+Ancak,
+nakit yaratan birimin bu Standarda göre tespit edilen geri kazanılabilir
+tutarının bir kısmı, şerefiyedeki azınlık payına aittir.
+92. Sonuçta,
+tamamen sahip olunmayan şerefiyeli bir nakit yaratan birimin değer düşüklüğü
+açısından test edilmesi açısından, birimin defter değeri, geri kazanılabilir
+tutarı ile karşılaştırılmadan önce nazari olarak düzeltilir. Bu durum, birime
+dağıtılmış şerefiyeye ilişkin defter değerinin, azınlık payına ait şerefiyeyi
+anılan defter değerine dahil etmek suretiyle brütleştirilmesi sonucunda
+sağlanır. Bu şekilde düzeltilmiş defter değeri, daha sonra, nakit yaratan
+birimin değer düşüklüğüne uğramış olup olmadığını belirlemek için ilgili
+birimin geri kazanılabilir tutarı ile karşılaştırılır. Birimin değer
+düşüklüğüne uğramış olması durumunda, işletme, oluşan değer düşüklüğü
+zararını, ilk olarak, birime dağıtılan şerefiyenin defter değerini azaltmak
+amacıyla 104 üncü Paragrafa göre dağıtır.
+93. Ancak
+şerefiye, sadece ana ortaklığın payına göre muhasebeleştirildiğinden, değer
+düşüklüğü zararı; ana ortaklığa ait olan ve azınlık payına ait olan şeklinde
+paylaştırılır ve sadece ana ortaklığa ait olan değer düşüklüğü, şerefiye
+değer düşüklüğü zararı olarak muhasebeleştirilir.
+94. Şerefiyeye
+ilişkin toplam değer düşüklüğü zararının, nakit yaratan birimin nazari olarak
+düzeltilmiş defter değerinin geri kazanılabilir tutarını aşan kısmından daha
+az olması durumunda, 104 üncü Paragraf, aşan kısmın kalanının, birimi
+oluşturan her bir varlığın defter değeri oranında birimin diğer varlıklarına
+dağıtılmasını gerektirir.
+95. Açıklayıcı
+Örnek 78, tamamen sahip olunmayan şerefiyeli bir nakit yaratan birimin değer düşüklüğü
+testini gösterir.
+Değer düşüklüğü testinin zamanlaması
+96. Şerefiyenin
+dağıtıldığı nakit yaratan bir birimin yıllık değer düşüklüğü testi, her yıl
+aynı zamanda olmak koşuluyla, bir yıllık dönemin herhangi bir zamanında
+yapılabilir. Farklı nakit yaratan birimler, farklı zamanlarda değer düşüklüğü
+testine tabi tutulabilir. Ancak, şerefiyenin bir kısmının veya tamamının,
+cari yıllık dönemde gerçekleşen bir işletme birleşmesinde elde edilen nakit
+yaratan bir birime dağıtılmış olması durumunda, söz konusu birim cari yıllık
+dönemin bitiminden önce değer düşüklüğü testine tabi tutulur.
+97. Şerefiyenin
+dağıtıldığı nakit yaratan birimi oluşturan varlıkların değer düşüklüğü
+açısından, şerefiyeyi ihtiva eden birimle aynı zamanda test edilmeleri
+durumunda, şerefiyeyi ihtiva eden birimden önce teste tabi tutulurlar. Benzer
+şekilde, şerefiyenin dağıtıldığı nakit
+yaratan birimler grubunu oluşturan birimlerin, değer düşüklüğü açısından şerefiyeyi
+ihtiva eden birim grubu ile aynı zamanda test edilmeleri durumunda, nakit
+yaratan birimler şerefiyeyi ihtiva eden birim grubundan önce teste tabi
+tutulurlar.
+98. Şerefiyenin
+dağıtıldığı bir nakit yaratan birimin değer düşüklüğü testinin yapılması sırasında,
+şerefiyeyi ihtiva eden birimdeki bir varlığın değer düşüklüğüne uğramış
+olabileceğine ilişkin bir belirti ortaya çıkabilir. Bu gibi durumlarda,
+işletme, şerefiyeyi ihtiva eden nakit yaratan birimden önce ilgili varlığı
+değer düşüklüğü açısından test eder ve varsa, önce söz konusu varlığın değer
+düşüklüğü zararını muhasebeleştirir. Benzer şekilde, şerefiyeyi ihtiva eden
+bir birim grubuna dahil bulunan nakit yaratan bir birimin değer düşüklüğüne
+uğramış olabileceğine ilişkin bir belirti ortaya çıkmış olabilir. Bu gibi
+durumlarda, işletme, şerefiyeyi ihtiva eden birim grubundan önce ilgili nakit
+yaratan birimi değer düşüklüğü açısından test eder ve varsa, önce söz konusu
+birimin değer düşüklüğü zararını muhasebeleştirir.
+99. Aşağıdaki
+koşulların mevcut olması durumunda, şerefiyenin dağıtıldığı nakit yaratan
+birimin geri kazanılabilir tutarı için daha önceki bir dönemde yapılan en son
+hesaplama, cari dönemde bu birimin değer düşüklüğü testi için kullanılabilir:
+(a) Gerçekleştirilen en son geri kazanılabilir
+tutar hesaplamasından bu yana, birimi oluşturan varlık ve borçlar önemli
+ölçüde değişikliğe uğramamıştır;
+(b) Gerçekleştirilen en son geri kazanılabilir
+tutar hesaplaması, birimin defter değerini önemli ölçüde aşan bir tutarla
+sonuçlanmıştır; ve
+(c) Gerçekleştirilen en son geri kazanılabilir
+tutar hesaplamasından sonra gerçekleşen olayların ve değişen durumların
+değerlendirilmesi çerçevesinde; yeni bir geri kazanılabilir tutar belirlemesi
+yapıldığı takdirde, sonucun, birimin cari defter değerinden daha düşük
+çıkması ihtimali düşüktür.
+Şirket varlıkları
+100. Şirket
+varlıkları, genel müdürlük veya işletmenin bir bölümünün binası, bilgi
+sistemleri donanımı veya bir araştırma merkezi gibi grup ya
+da bölüm varlıklarını içerir. Bir varlığın belirli bir nakit yaratan birim
+açısından, şirket varlığı tanımına girip girmediğini işletmenin yapısı
+belirler. Şirket varlıklarının ayırt edici özellikleri; diğer varlıklardan
+veya varlık gruplarından bağımsız nakit girişleri yaratmamaları ve, defter
+değerlerinin bahse konu nakit yaratan birimle tamamen
+ilişkilendirilememesidir.
+101. Şirket
+varlıkları ayrı nakit girişleri yaratmadıklarından, tek bir şirket varlığının
+geri kazanılabilir tutarı, yönetim, ilgili varlığı elden çıkarmaya karar
+vermediği sürece belirlenemez. Sonuçta, bir şirket varlığının değer
+düşüklüğüne uğramış olabileceğine dair ortada bir belirti bulunması
+durumunda, geri kazanılabilir tutar şirket varlığının ait olduğu nakit
+yaratan birim veya nakit yaratan birimler grubu açısından belirlenir ve söz
+konusu birim veya birimler grubunun defter değeri ile karşılaştırılır. Her
+türlü değer düşüklüğü zararı, 104 üncü Paragrafa göre muhasebeleştirilir.
+102. Nakit
+yaratan bir birimin değer düşüklüğü testinde, bir işletme, bahse konu nakit yaratan
+birimle ilgili tüm şirket varlıklarını belirler. Şirket varlığının defter
+değerinin bir kısmının:
+(a) Mantıklı ve tutarlı bir temelde söz konusu
+birime dağıtılabilmesi durumunda, işletme, bu birime dağıtılan şirket
+varlığının defter değerinin ilgili kısmı da dahil olmak üzere, birimin defter
+değerini geri kazanılabilir tutarı ile karşılaştırır. Her türlü değer
+düşüklüğü zararını 104 üncü Paragrafa göre muhasebeleştirilir.
+(b) Mantıklı ve tutarlı bir temelde söz konusu
+birime dağıtılamaması durumunda işletme:
+(i) Şirket varlığı hariç birimin defter değerini
+geri kazanılabilir tutarı ile karşılaştırır ve her türlü değer düşüklüğü
+zararını 104 üncü Paragrafa göre muhasebeleştirilir;
+(ii) Bahse konu nakit
+yaratan birimi içeren ve şirket varlığının defter değerinin ilgili kısmının
+mantıklı ve tutarlı bir temelde dağıtılabileceği en küçük nakit yaratan
+birimler grubunu tespit eder; ve
+(iii) Söz
+konusu nakit yaratan birimler grubunun, bu birim grubuna dağıtılan şirket
+varlığının defter değerinin ilgili kısmı dahil defter değerini, anılan birim
+grubunun geri kazanılabilir tutarı ile karşılaştırır. Her türlü değer
+düşüklüğü zararını 104 üncü Paragrafa göre muhasebeleştirilir.
+103. Açıklayıcı
+Örnek 89, söz konusu hükümlerin şirket varlıklarına nasıl uygulanacağını
+gösterir.
+Nakit yaratan bir birime ilişkin değer
+düşüklüğü zararı
+104. Nakit
+yaratan bir birime (şerefiyeye veya bir şirket varlığının dağıtılabileceği en
+küçük nakit yaratan birimler grubuna) ilişkin değer düşüklüğü zararı, ancak
+ve ancak, ilgili birimin (birim grubunun) geri kazanılabilir tutarının (birim
+grubunun) defter değerinden daha düşük olması durumunda muhasebeleştirilir.
+Değer düşüklüğü zararı, ilgili birimin (birim grubunun) varlıklarının defter
+değerini azaltmak için aşağıdaki sıraya göre dağıtılır:
+(a) Öncelikle, nakit yaratan birime (birim
+grubuna) dağıtılmış olan şerefiyenin defter değerini azaltacak şekilde; ve
+(b) Sonrasında, ilgili birimin (birim grubunun) diğer
+varlıklarına birimdeki (birim grubundaki) her bir varlığın defter değeri
+oranında.
+Defter
+değerlerinde meydana gelen söz konusu azalışlar, ilgili varlıklarda değer
+düşüklüğü zararı olarak dikkate alınır ve 60 ıncı
+Paragrafa göre muhasebeleştirilir.
+105. Değer
+düşüklüğü zararının 104 üncü Paragrafa göre dağıtılması sırasında, işletme,
+bir varlığın defter değerini aşağıdakilerden en yüksek olanının altına
+düşürmez:
+(a) Satış maliyetleri düşülmüş gerçeğe uygun değeri (eğer
+belirlenebiliyorsa);
+(b) Kullanım değeri (eğer belirlenebiliyorsa); ve
+(c) Sıfır.
+Aksi
+takdirde varlığa dağıtılacak değer düşüklüğü zararı, birimin (birim grubunun)
+diğer varlıklarına oransal olarak dağıtılır.
+106. Nakit
+yaratan bir birimin her bir varlığının geri kazanılabilir tutarını tahmin
+etmenin mümkün olmaması durumunda, bu Standart, değer düşüklüğü zararının,
+nakit yaratan bir birimin tüm varlıklarının beraberce çalıştığından
+hareketle, şerefiye hariç, ilgili birimin varlıkları arasında ihtiyari olarak
+dağıtılmasını öngörür.
+107. Bir
+varlığın geri kazanılabilir tutarının belirlenememesi durumunda (bakınız: 67 nci Paragraf):
+(a) Varlığın defter değerinin, satış maliyetleri
+düşülmüş gerçeğe uygun değeri ile 104 ve 105 inci Paragraflarda belirtilen
+dağıtım şeklinin sonuçlarının büyük olanından daha fazla olması durumunda
+varlığa ilişkin değer düşüklüğü zararı muhasebeleştirilir; ve
+(b) İlgili nakit yaratan birimin değer
+düşüklüğüne uğramamış olması durumunda, varlık için değer düşüklüğü zararı
+muhasebeleştirilmez. Varlığın satış maliyetleri düşülmüş gerçeğe uygun değeri
+defter değerinden düşük olsa dahi bu durum geçerlidir.
+Örnek
+Bir makine
+fiziksel hasara uğramış; ancak hasara uğramadan önceki kadar iyi olmasa da,
+halen çalışmaktadır. Söz konusu makinenin satış maliyetleri düşülmüş gerçeğe
+uygun değeri defter değerinden daha düşüktür. Anılan makine, bağımsız nakit
+girişleri yaratmamaktadır. Makinenin ait olduğu üretim hattı, diğer
+varlıklara ilişkin nakit girişlerinden büyük ölçüde bağımsız nakit girişleri
+yaratabilen ve söz konusu makineyi içeren en küçük saptanabilir varlıklar
+grubudur. Üretim hattının geri kazanılabilir tutarı, üretim hattı bir bütün
+olarak değerlendirildiğinde, değer düşüklüğüne uğramamıştır.
+1 inci
+Varsayım: Yönetim tarafından onaylanan bütçeler/tahminler, yönetimin
+makinenin yenilenmesi yönünde bir taahhüdünü yansıtmamaktadır.
+Makinenin
+tek başına geri kazanılabilir tutarı tahmin edilememektedir; çünkü makinenin
+kullanım değeri:
+(a) Satış
+maliyetleri düşülmüş gerçeğe uygun değerinden farklı olabilir; ve
+(b) Sadece
+makinenin ait olduğu nakit yaratan birim (üretim hattı) için belirlenebilir.
+Üretim
+hattı değer düşüklüğüne uğramamıştır. Bu nedenle, anılan makine için değer
+düşüklüğü zararı muhasebeleştirilmez. Bununla birlikte, işletme, makine için
+uygulanan amortisman dönemini veya amortisman yöntemini tekrar gözden geçirme
+ihtiyacı duyabilir. Belki, söz konusu makinenin geriye kaldığı tahmin edilen
+yararlı ömrünü veya işletme tarafından ekonomik yararın kullanılacağı tahmin
+edilen şekli yansıtmak amacıyla, daha kısa bir amortisman dönemi veya daha
+hızlı bir amortisman yönteminin uygulanması gerekebilir.
+2 nci Varsayım: Yönetim tarafından onaylanan
+bütçeler/tahminler, yönetimin, makinenin yenilenmesi ve yakın bir gelecekte
+satılması yönünde bir taahhüdünü yansıtmaktadır. Elden çıkarma tarihine kadar
+makinenin sürekli kullanımından elde edileceği beklenen nakit akışların
+önemsenmeyen düzeyde olacağı tahmin edilmektedir.
+İlgili
+makinenin kullanım değerinin, satış maliyetleri düşülmüş gerçeğe uygun
+değerine yakın olabileceği tahmin edilmektedir. Bu nedenle, söz konusu
+makinenin geri kazanılabilir tutarı belirlenebilir ve ait olduğu nakit
+yaratan birim (yani üretim hattı) dikkate alınmaz. Makinenin satış
+maliyetleri düşülmüş gerçeğe uygun değeri defter değerinden düşük olduğundan,
+anılan makine için değer düşüklüğü zararı muhasebeleştirilir.
+108. 104 ve 105
+inci Paragraflarda yer alan hükümlerin uygulanmasının ardından, ancak ve
+ancak başka bir Standart tarafından gerekli kılınmış olması durumunda, nakit
+yaratan bir birime ilişkin değer düşüklüğü zararının geriye kalan her türlü
+kısmı için bir borç muhasebeleştirilir.
+Değer düşüklüğü zararının iptal edilmesi
+109. Paragraf
+110-116, bir varlık veya nakit yaratan birim için önceki dönemlerde
+muhasebeleştirilen değer düşüklüğü zararının iptal edilmesine ilişkin
+hükümleri içerir. Bu hükümler, "varlık" terimini; hem tek bir
+varlık, hem de nakit yaratan birim için kullanır. Tek bir varlık için,
+Paragraf 117-121; nakit yaratan bir birim için, 122 ve 123 üncü
+Paragraflarda; şerefiye için ise 124 ve 125 inci Paragraflarda bazı ek
+hükümler yer almaktadır.
+110. Bir işletme,
+şerefiyeden başka bir varlık için önceki dönemlerde ayrılmış değer düşüklüğü
+zararının bundan böyle mevcut olmayacağı veya azalmış olabileceği yönünde bir
+belirti olup olmadığını her raporlama tarihinde değerlendirir. Böyle bir belirtinin olması durumunda,
+işletme, ilgili varlığın geri kazanılabilir tutarını tahmin eder.
+111. Şerefiyeden
+başka bir varlığa ilişkin olarak önceki dönemlerde muhasebeleştirilmiş değer
+düşüklüğü zararının bundan böyle mevcut olmayacağı veya azalmış olabileceği yönünde
+bir belirti olup olmadığını değerlendirirken, işletme, en azından aşağıdaki
+belirtileri dikkate alır:
+İşletme dışı bilgi kaynakları
+(a) Varlığın piyasa fiyatı dönem içinde önemli
+ölçüde artmıştır.
+(b) Dönem içerisinde, işletmenin faaliyette bulunduğu
+teknolojik, ekonomik veya hukuki çevre ile pazarda veya varlığın tahsis
+edildiği piyasada işletme üzerinde olumlu etkisi olan önemli değişiklikler
+gerçekleşmiş veya bu değişikliklerin yakın gelecekte gerçekleşmesi
+beklenmektedir.
+(c) Dönem içerisinde, faiz oranları veya diğer
+yatırım kârlılığı ile ilgili piyasa oranları azalmış olup, söz konusu
+azalışların, varlığın kullanım değerinin hesaplanmasında kullanılan iskonto oranını önemli ölçüde etkilemesi ve varlığın geri
+kazanılabilir tutarının büyük ölçüde arttırması muhtemeldir.
+İşletme içi bilgi kaynakları
+(d) İşletmede, varlığın mevcut veya gelecekteki
+kullanım yönetimini etkileyecek, önemli olumlu değişiklikler meydana gelmiş
+veya bunların yakın gelecekte meydana gelmesi beklenmektedir. Bu değişiklikler,
+dönem içerisinde varlığın performansını artırmak veya iyileştirmek amacıyla
+katlanılan maliyetler veya varlığın ait olduğu faaliyetin yeniden
+yapılandırılmasını içerir.
+(e) İşletme içi raporlamada, varlığın ekonomik
+performansının beklenenden daha iyi olduğu veya olacağına ilişkin kanıt
+bulunmaktadır.
+112. 111 inci
+Paragraftaki değer düşüklüğü zararındaki potansiyel azalma belirtileri, temel
+olarak, 12 nci Paragraftaki potansiyel değer
+düşüklüğü zararı belirtilerinin göstergesidir.
+113. Şerefiye
+haricinde, bir varlık için muhasebeleştirilmiş değer düşüklüğü zararının daha
+fazla mevcut olmayabileceğinin veya azalmış olabileceğinin bir belirtisinin
+bulunması durumunda, varlık için hiçbir değer düşüklüğü zararı iptal edilmese
+dahi, geriye kalan yararlı ömrünün, amortisman (itfa) yönteminin veya kalıntı
+değerinin ilgili varlığın tabi olduğu Standarda göre gözden geçirilmesi ve
+düzeltilmesi gerektiğini gösterebilir.
+114. Şerefiye
+haricinde, bir varlık için önceki dönemlerde muhasebeleştirilen bir değer
+düşüklüğü zararı, sadece ve sadece, anılan varlığın geri kazanılabilir
+tutarının belirlenmesinde kullanılan tahminlerde, son değer düşüklüğü
+zararının muhasebeleştirilmesinden bu yana herhangi bir değişiklik meydana
+gelmiş olması durumunda iptal edilir. Durum bu şekilde ise, varlığın defter
+değeri 117 nci Paragrafta tanımlanan durum
+haricinde geri kazanılabilir tutarına artırılır. Söz konusu artış, bir değer
+düşüklüğü zararının iptal edilmesi işlemidir.
+115. Değer
+düşüklüğü zararının iptali işlemi, işletmenin ilgili varlık için en son değer
+düşüklüğü zararı muhasebeleştirmiş olduğu tarihten bu yana, varlığın
+kullanımı ya da satışından elde edilmesi beklenen
+hizmet potansiyelindeki artışı yansıtır. 130 uncu Paragraf, işletmenin tahmin
+edilen hizmet potansiyelinde artışa sebep olan tahminlerdeki değişikliği
+belirlemesini gerektirir. Tahminlerdeki değişikliklere aşağıdakiler örnek
+olarak gösterilebilir:
+(a) Geri kazanılabilir tutarın dayandığı temelde
+bir değişiklik olması (yani; geri kazanılabilir tutarın, satış maliyetleri
+düşülmüş gerçeğe uygun değeri mi yoksa kullanım değerini mi esas aldığı);
+(b) Geri kazanılabilir tutarın kullanım değerini
+esas almış olması durumunda, tahmin edilen gelecekteki nakit akışlarının
+tutarı veya zamanlamasındaki veya iskonto oranında
+meydana gelen bir değişim; ya da
+(c) Geri kazanılabilir tutarın satış maliyetleri
+düşülmüş gerçeğe uygun değeri esas almış olması durumunda, satış maliyetleri
+düşülmüş gerçeğe uygun değerin bileşenleri ile ilgili tahminde meydana gelen
+bir değişim.
+116. Basit
+bir şekilde, gelecekteki nakit girişlerinin bugünkü değeri bunların elde
+edilme zamanları yakınlaştıkça artacağından, bir varlığın kullanım değeri
+varlığın defter değerinden daha büyük olabilir. Ancak, varlığın hizmet
+potansiyeli artmamıştır. Bu nedenle, varlığın geri kazanılabilir tutarı
+defter değerini aşan bir konuma gelse dahi, değer düşüklüğü zararı, sadece
+zamanın ilerlemesi (iskontonun değişmesi) sebebiyle
+iptal edilmez.
+Tek bir varlığa ilişkin değer düşüklüğü
+zararının iptali
+117. Şerefiye
+haricindeki bir varlığa ilişkin değer düşüklüğü zararının iptali nedeniyle
+artan defter değeri, önceki dönemlerde söz konusu varlık için değer düşüklüğü
+zararı muhasebeleştirilmemiş olsaydı ulaşacağı (amortisman veya itfa payı
+dikkate alınmaksızın) defter değerini aşmaz.
+118. Şerefiye
+haricindeki bir varlığın defter değerinde, önceki dönemlerde ilgili varlık
+için değer düşüklüğü muhasebeleştirilmemiş olsaydı ulaşacağı (amortisman veya
+itfa payı dikkate alınmaksızın) defter değerinin üzerindeki bir artış,
+yeniden değerlemedir. Böyle bir yeniden değerlemenin muhasebeleştirilmesinde,
+işletme varlığın tabi olduğu Standardı uygular.
+119. Varlık,
+diğer bir Standarda (örneğin "TMS 16 Maddi Duran Varlıklar" Standardında
+yer alan yeniden değerleme yöntemine) göre yeniden değerlenmiş bir tutardan
+izlenmediği sürece, şerefiye haricindeki bir varlığın değer düşüklüğü
+zararının iptali hemen kâr veya zararda muhasebeleştirilir. Yeniden
+değerlenmiş bir varlığın değer düşüklüğü zararının iptali, ilgili diğer
+Standarda göre yeniden değerleme artışı olarak dikkate alınır.
+120. Yeniden
+değerlenmiş bir varlığın değer düşüklüğü zararının iptali, doğrudan, yeniden
+değerleme fazlası adı altında özkaynağa alacak
+kaydedilir. Ancak, iptal edilen değer düşüklüğü zararının, yine aynı yeniden
+değerlenmiş varlık ile ilgili olarak daha önce kâr veya zararda
+muhasebeleştirilen değer düşüklüğü zararına isabet eden bölümü, kâr veya
+zararda muhasebeleştirilir.
+121. Bir
+değer düşüklüğü zararının iptal edilmesinden sonra, varlığın amortisman
+gideri (itfa payı), düzeltilmiş değeri ile kalıntı değeri (eğer varsa)
+düşülmüş defter değerinin gelecek dönemlerde kalan yararlı ömrüne sistematik
+bir çerçevede dağıtılmasını sağlayacak şekilde düzeltilir.
+Nakit yaratan bir birime ilişkin değer
+düşüklüğü zararının iptali
+122. Şerefiye
+hariç, nakit yaratan bir birime ilişkin olarak muhasebeleştirilen değer
+düşüklüğü zararının iptali; ilgili birimin varlıklarına, bu varlıkların
+defter değerlerine göre oransal olarak dağıtılır. Defter değerlerinde meydana
+gelen söz konusu artışlar, her bir varlık için değer düşüklüğü zararının
+iptali olarak dikkate alınır ve 119 uncu Paragrafa göre muhasebeleştirilir.
+123. Nakit
+yaratan bir birime ilişkin iptal edilen değer düşüklüğü zararının 122 nci Paragrafa göre dağıtılmasında, bir varlığın defter
+değeri aşağıdakilerden düşük olanın üzerine çıkarılamaz:
+(a) Geri kazanılabilir tutarının (eğer
+belirlenebiliyorsa); ve
+(b) Önceki dönemlerde varlık için değer düşüklüğü
+zararı ayrılmamış olsaydı ulaşacağı (amortisman veya itfa payları dikkate
+alınmaksızın) defter değeri.
+Aksi
+takdirde varlığa dağıtılacak değer düşüklüğü zararı, birimin (birim grubunun)
+diğer varlıklarına oransal olarak dağıtılır.
+Şerefiyeye ilişkin değer düşüklüğü zararının iptali
+124. Şerefiyeye
+ilişkin olarak muhasebeleştirilen değer düşüklüğü zararı daha sonraki bir
+dönemde iptal edilmez.
+125. "TMS
+38 Maddi Olmayan Duran Varlıklar" Standardı, işletme içi yaratılan
+şerefiyenin muhasebeleştirilmesine izin vermez. Değer düşüklüğü zararı
+muhasebeleştirilmiş olan şerefiyenin geri kazanılabilir tutarında daha
+sonraki dönemlerde meydana gelen bir artışın, elde edilen şerefiyenin değer
+düşüklüğü zararının iptal edilmesinden ziyade, işletme içi yaratılan şerefiyedeki
+artıştan kaynaklanması muhtemeldir.
+Açıklama
+126. Bir işletme, her bir varlık sınıfı için
+aşağıdakileri kamuoyuna açıklar:
+(a) Dönem içinde kâr veya zararda
+muhasebeleştirilen değer düşüklüğü zararlarının tutarı ile söz konusu değer
+düşüklüğü zararlarının dahil edildiği ilgili gelir tablosu kalemi
+(kalemleri).
+(b) Dönem içinde kâr veya zararda
+muhasebeleştirilen iptal edilen değer düşüklüğü zararlarının tutarı ile söz
+konusu değer düşüklüğü zararlarının iptal edildiği ilgili gelir tablosu kalemi
+(kalemleri).
+(c) Dönem içinde doğrudan özkaynaklarda
+muhasebeleştirilen yeniden değerlenmiş varlıklar ile ilgili değer düşüklüğü
+zararlarının tutarı.
+(d) Dönem içinde doğrudan özkaynaklarda
+muhasebeleştirilen yeniden değerlenmiş varlıklar ile ilgili değer düşüklüğü
+zarar iptallerinin tutarı.
+127. Bir
+varlık sınıfı, bir işletmenin faaliyetlerinde benzeri nitelik ve kullanım
+alanına sahip varlık grubudur.
+128. 126 ncı Paragrafta açıklanması istenen bilgi, ilgili varlık sınıfına
+ilişkin olarak kamuoyuna açıklanan diğer bilgilerle beraber sunulabilir.
+Örneğin; söz konusu bilgi, "TMS 16 Maddi Duran Varlıklar" Standardı
+uyarınca yapılması gereken, maddi duran varlıkların defter değerlerinin dönem
+başı ile dönem sonu arasındaki mutabakatlarının sağlanması işlemlerine dahil
+edilebilir.
+129. "TMS
+14 Bölümlere Göre Raporlama" Standardına göre faaliyet alanı bilgisi
+raporlayan bir işletme, temel raporlama esasına göre her bir raporlanabilir
+faaliyet alanı için aşağıdakileri kamuoyuna açıklar:
+(a) Dönem içinde kâr veya zararda ve doğrudan özkaynakta muhasebeleştirilen değer düşüklüğü
+zararlarının tutarı.
+(b) Dönem içinde kâr veya zararda ve doğrudan özkaynakta muhasebeleştirilen değer düşüklüğü zarar
+iptallerinin tutarı.
+130. Bir
+işletme, şerefiye dahil olmak üzere, bir varlık veya nakit yaratan birim için
+dönem içinde muhasebeleştirilen veya iptal edilen önemli düzeydeki her değer
+düşüklüğü zararına ilişkin olarak aşağıdaki açıklamaları yapar:
+(a) Değer düşüklüğü zararının muhasebeleştirilmesini
+veya iptalini gerektiren olay ve durumlar.
+(b) Muhasebeleştirilen veya iptal edilen değer
+düşüklüğü zararı tutarı.
+(c) Bir varlık için:
+(i) İlgili varlığın niteliği; ve
+(ii) İşletmenin
+faaliyet alanı bilgisini TMS 14’e göre raporlaması durumunda, işletmenin
+temel raporlama esasına göre ilgili varlığın ait olduğu raporlanabilir
+faaliyet alanı.
+(d) Nakit yaratan bir birim için:
+(i) Nakit yaratan birimin tanımı (üretim hattı,
+fabrika, faaliyet kolu, coğrafi alan veya TMS 14’de tanımlanan raporlanabilir
+bir faaliyet alanı mı olduğu);
+(ii) Varlık sınıfı
+itibariyle ve, işletmenin faaliyet alanı bilgisini TMS 14’e göre raporlaması
+durumunda işletmenin temel raporlama formatına göre raporlanabilir faaliyet alanı
+itibariyle, muhasebeleştirilen veya iptal edilen değer düşüklüğü zararı
+tutarı; ve
+(iii) Nakit
+yaratan birimin, (eğer varsa) geri kazanılabilir tutarını belirleyen
+varlıkların toplamının, ilgili nakit yaratan birimin geri kazanılabilir
+değerine ilişkin yapılmış bir önceki tahminden sonra değişmiş olması
+durumunda; varlıkların toplanmasında kullanılan önceki ve şimdiki yöntemin
+tanımı ve ilgili nakit yaratan birimi belirleme yönteminin değişme nedenleri.
+(e) Varlığın (nakit yaratan birimin) geri kazanılabilir
+tutarının satış maliyetleri düşülmüş gerçeğe uygun değeri mi yoksa kullanım
+değeri mi olduğu.
+(f) Geri kazanılabilir tutarın satış maliyetleri
+düşülmüş gerçeğe uygun değer olması durumunda, satış maliyetleri düşülmüş
+gerçeğe uygun değerin belirlenmesinde esas alınan temel (gerçeğe uygun
+değerin aktif bir piyasaya yapılan referansla belirlenip belirlenmediği
+gibi).
+(g) Geri kazanılabilir tutarın kullanım değeri
+olması durumunda, kullanım değerine
+yönelik şimdiki ve önceki (eğer varsa) tahminlerde kullanılan iskonto oranı (oranları).
+131. İşletme,
+dönem içindeki muhasebeleştirilen değer düşüklüğü zararları ile değer
+düşüklüğü iptallerinin toplamlarına ilişkin olarak, kendileri için 130 uncu
+Paragraf çerçevesinde açıklama yapılmamış aşağıdaki bilgileri kamuoyuna
+açıklar:
+(a) Değer düşüklüğü zararlarından ve
+iptallerinden etkilenen temel varlık sınıfları.
+(b) Söz konusu değer düşüklüğü zararlarının
+muhasebeleştirilmesine ve bunların iptallerine neden olan başlıca olay ve
+durumlar.
+132. İşletme,
+dönem içinde varlıkların (nakit yaratan birimlerin) geri kazanılabilir
+tutarlarının tespitinde kullanılan varsayımları kamuoyuna açıklaması
+konusunda teşvik edilir. Ancak, 134 üncü Paragraf, şerefiye veya sınırsız
+yararlı ömre sahip maddi olmayan bir duran varlığın herhangi bir nakit
+yaratan birimin defter değerine dahil edilmesi durumunda, söz konusu nakit
+yaratan biriminin geri kazanılabilir tutarını ölçmek için kullanılan
+tahminlere ilişkin olarak kamuoyuna açıklama yapılmasını gerektirir.
+133. 84 üncü
+Paragrafa göre, dönem içindeki bir işletme birleşmesinde edinilen şerefiyenin
+bir kısmının raporlama tarihi itibarıyla nakit yaratan bir birime (veya
+birimler grubuna) dağıtılmamış olması durumunda, dağıtılmayan şerefiye tutarı
+dağıtılmama gerekçesiyle birlikte kamuoyuna açıklanır.
+Şerefiye veya sınırsız yararlı ömre sahip
+maddi olmayan duran varlıklar içeren nakit yaratan birimlerin geri
+kazanılabilir tutarlarının ölçülmesinde kullanılan tahminler
+134. Şerefiye
+veya sınırsız yararlı ömre sahip maddi olmayan duran varlıklarının defter
+değerlerinin toplamıyla karşılaştırıldığında, kendisine düşen şerefiye veya
+sınırsız yararlı ömre sahip maddi olmayan duran varlığın defter değerinin
+önemli seviyede olduğu her bir nakit yaratan birim (birimler grubu) için işletme
+(a)’dan (f)’ye kadar olan bölümde yer alan bilgileri kamuoyuna açıklar:
+(a) Birime (birimler grubuna) dağıtılan
+şerefiyenin defter değeri.
+(b) Birime (birimler grubuna) dağıtılan sınırsız
+yararlı ömre sahip maddi olmayan duran varlıkların defter değeri.
+(c) Birimin (birimler grubunun) geri
+kazanılabilir tutarının esas aldığı temel (yani kullanım değer veya satış
+maliyetleri düşülmüş gerçeğe uygun değer).
+(d) Birimin (birimler grubunun) geri
+kazanılabilir tutarının, kullanım değerini esas alması durumunda:
+(i) Yönetimin, en son bütçelerin/tahminlerin
+kapsadığı dönem için yapılan nakit akış projeksiyonları için esas aldığı her
+bir kilit varsayımın tanımı. Kilit varsayımlar, birimin (birimler grubunun)
+geri kazanılabilir tutarının en çok duyarlı olduğu varsayımlardır.
+(ii) Yönetimin,
+her bir kilit varsayımla ilişkilendirilen değeri (değerleri) belirlemedeki
+yaklaşımı; bu değerin (değerlerin) geçmiş deneyimleri yansıtıp yansıtmadığı veya,
+uygun olması durumunda, işletme dışı bilgi kaynakları ile tutarlı olup
+olmadığı, ve aksi halde, neden geçmiş deneyimlerden veya işletme dışı bilgi
+kaynaklarından farklı olduğu.
+(iii) Yönetimin
+kendi onayladığı finansal bütçeler/tahminler
+çerçevesinde nakit akışlarını planladığı dönem ve nakit yaratan bir birim
+(birimler grubu) için 5 yıldan daha uzun bir dönemin kullanıldığı durumda,
+söz konusu uzunca dönemin kullanılmasını haklı çıkaran bir açıklama.
+(iv) Nakit akış projeksiyonlarını en son bütçelerin/tahminlerin
+kapsadığı dönemin ötesine taşımak için kullanılan büyüme oranı, ve işletmenin
+faaliyette bulunduğu ürün kolunun, endüstrilerin, ülke veya ülkelerin veya
+birimin (birimler grubunun) hizmet verdiği piyasanın uzun vadeli ortalama
+büyüme oranını aşan büyüme oranı kullanılmasının gerekçesi.
+(v) Nakit akış projeksiyonlarına uygulanan iskonto oranı (oranları).
+(e) Birimin (birimler grubunun) geri
+kazanılabilir tutarının satış maliyetleri düşülmüş gerçeğe uygun değeri esas
+alması durumunda, satış maliyetleri düşülmüş gerçeğe uygun değeri belirlemek
+için kullanılan yöntem. Satış maliyetleri düşülmüş gerçeğe uygun değerin,
+birime (birimler grubuna) ilişkin olarak gözlemlenebilen bir piyasa fiyatı
+kullanarak belirlenmemesi durumunda, aşağıdaki bilgiler kamuoyuna açıklanır:
+(i) Yönetimin, satış maliyetleri düşülmüş
+gerçeğe uygun değeri belirlemede esas aldığı her bir kilit varsayım. Kilit
+varsayımlar; birimin (birimler grubunun) geri kazanılabilir tutarının en çok
+duyarlı olduğu varsayımlardır.
+(ii) Yönetimin,
+her bir temel varsayımla ilişkilendirilen değeri(değerleri) belirlemedeki
+yaklaşımı; söz konusu değerin(değerlerin) geçmiş deneyimleri yansıtıp
+yansıtmadığı, uygun olması durumunda, işletme dışı bilgi kaynakları ile
+tutarlı olup olmadığı, ve aksi halde, neden geçmiş deneyimlerden veya işletme
+dışı bilgi kaynaklarından farklı olduğu.
+(f) Yönetimin, birimin (birimler grubunun) geri
+kazanılabilir tutarını belirlerken esas aldığı kilit bir varsayımdaki
+yeterince muhtemel bir değişimin, ilgili birimin (birimler grubunun) defter
+değerinin geri kazanılabilir tutarını aşmasına sebep olması durumunda:
+(i) İlgili birimin (birimler grubunun) geri
+kazanılabilir tutarının defter değerini aşan tutarı.
+(ii) Kilit
+varsayımlarla ilişkilendirilen değer.
+(iii) İlgili
+birimin (birimler grubunun) geri kazanılabilir tutarını defter değerine
+eşitlemek için, söz konusu değişimin geri kazanılabilir tutarı ölçmede
+kullanılan diğer değişkenler üzerindeki olası etkilerini dikkate aldıktan
+sonra kilit varsayıma ait değerin ne kadar değişmesi gerektiği.
+135. Şerefiyenin
+veya sınırsız yararlı ömre sahip bir maddi olmayan duran varlığın defter
+değerinin bir kısmı veya tamamı, çeşitli nakit yaratan birimlere (birimler
+grubuna) dağıtıldığı ve her bir birime (birimler grubuna) dağıtılan tutarın
+işletmenin şerefiye veya sınırsız yararlı ömre sahip maddi olmayan duran
+varlıklarının toplam defter değeriyle karşılaştırıldığında önemli bir tutarda
+olmadığı durumlarda, anılan durum, bu birimlere (birimler grubuna) dağıtılan
+şerefiye veya sınırsız yararlı ömre sahip maddi olmayan duran varlıkların
+toplam defter değerleriyle birlikte kamuoyuna açıklanır. Ek olarak, bu
+birimlerden (birimler grubunun) herhangi birinin geri kazanılabilir tutarının
+aynı kilit varsayımı (varsayımları) esas aldığı ve söz konusu birimlere
+dağıtılan şerefiye veya sınırsız yararlı ömre sahip maddi olmayan duran
+varlıkların toplam defter değerlerinin, işletmenin şerefiye veya sınırsız
+yararlı ömre sahip maddi olmayan duran varlıklarının toplam defter değerleriyle
+karşılaştırıldığında önemli bir tutar olduğu durumlarda, işletme anılan
+hususu aşağıdakilerle birlikte kamuoyuna açıklar:
+(a) Bu birimlere (birimler grubuna) dağıtılan
+şerefiyenin toplam defter değeri.
+(b) Bu birimlere (birimler grubuna) dağıtılan sınırsız
+yararlı ömre sahip maddi olmayan duran varlıkların toplam defter değeri.
+(c) İlgili kilit varsayım (varsayımlar).
+(d) Yönetimin her bir kilit varsayımla
+ilişkilendirilen değeri (değerleri) belirlemedeki yaklaşımı; bu değerin (değerlerin)
+geçmiş deneyimleri yansıtıp yansıtmadığı, uygun olması durumunda, işletme
+dışı bilgi kaynakları ile tutarlı olup olmadığı, ve aksi halde, neden geçmiş
+deneyimlerden veya işletme dışı bilgi kaynaklarından farklı olduğu.
+(e) Kilit varsayımdaki (varsayımlardaki)
+yeterince muhtemel bir değişim, ilgili birimin (birimler grubunun) toplam
+defter değerlerinin toplam geri kazanılabilir tutarlarını aşmasına sebep
+olması durumunda:
+(i) İlgili birimin (birimler grubunun) geri
+kazanılabilir tutarının defter değerinin toplamını aşan tutarı.
+(ii) Kilit
+varsayımlarla ilişkilendirilen değer.
+(iii) İlgili
+birimler (birimler grubu) toplamının geri kazanılabilir tutarını toplam
+defter değerine eşitlemek için, söz konusu değişimin geri kazanılabilir
+tutarı ölçmede kullanılan diğer değişkenler üzerindeki olası etkilerini
+dikkate aldıktan sonra kilit varsayıma (varsayımlara) ait değerin
+(değerlerin) ne kadar değişmesi gerektiği.
+136. Nakit
+yaratan bir birimin (birimler grubunun) geri kazanılabilir tutarına ilişkin
+önceki dönemde yapılan en son detaylı hesaplama, 24 veya 99 uncu Paragraflar
+uyarınca, belirli kriterlerin sağlanması durumunda, ileri doğru taşınabilir
+ve söz konusu birimin (birim grubunun) değer düşüklüğünün test edilmesi için
+kullanılabilir. Durum böyle olduğunda, bu birime (birimler grubuna) ilişkin
+olarak 134 ve 135 inci Paragraflar çerçevesinde kamuoyuna yapılacak
+açıklamalara dahil edilen bilgi, ileriye doğru taşınan geri kazanılabilir
+tutarın hesaplamasına ilişkindir.
+137. Açıklayıcı
+Örnek 910, 134 ve 135 inci Paragraflar çerçevesinde kamuoyuna yapılacak
+açıklamaları gösterir.
+Geçiş hükümleri ve yürürlük tarihi
+138. Bir
+işletmenin, "TFRS 3 İşletme Birleşmeleri" Standardının 85 inci
+Paragrafı çerçevesinde TFRS 3 Standardını, Paragraf 78-84’de belirlenen
+yürürlülük tarihinden önceki bir tarihten itibaren uygulamayı seçmesi
+durumunda, ilgili bu Standardı da aynı tarihten başlayarak uygular.
+139. Aksi takdirde, işletme bu Standardı aşağıdakilere
+uygular:
+(a) Sözleşme tarihi 31 Mart 2004 veya sonrası
+olan işletme birleşmelerinde edinilen şerefiye ile maddi olmayan duran
+varlıklarına; ve
+(b) 31 Mart 2004 veya daha sonrasında başlayan
+yıllık dönemler itibariyle tüm diğer varlıklarına.
+140. 139 uncu
+Paragrafın uygulandığı işletmeler, bu Standardın hükümlerini 139 uncu
+Paragrafta belirtilen tarihlerden öncesi için de uygulamaları konusunda
+teşvik edilirler. Ancak, bir işletmenin, bu Standardı söz konusu tarihlerden
+öncesi için uygulaması durumunda, ilgili işletme, aynı zamanda TFRS 3 ve
+"TMS 38 Maddi Olmayan Duran Varlıklar" Standartlarını da uygular.
+141. "-"
+EK A
+Kullanım değerinin ölçülmesine
+ilişkin olarak bugünkü değer tekniklerinin kullanılması
+Bu Ek,
+Standardın ayrılmaz bir parçasıdır. Kullanım değerinin ölçülmesine ilişkin
+olarak bugünkü değer tekniklerinin kullanılması konusunda yol gösterir. Bu
+Ek, "varlık" terimini kullanmasına rağmen, ilgili terim, aynı
+zamanda, nakit yaratan bir birimi oluşturan varlık grubunu da ifade eder.
+Bugünkü değer ölçümünün unsurları
+A1. Aşağıdaki
+unsurların tamamı, varlıklar arasında oluşan ekonomik farklılıkları gösterir:
+(a) İşletmenin, ilgili varlıktan elde etmeyi
+planladığı gelecekteki nakit akışına veya daha karmaşık durumlarda,
+gelecekteki nakit akışları serisine ilişkin tahminler;
+(b) Söz konusu nakit akışlarının tutarında veya
+zamanlamasındaki muhtemel değişikliklere ilişkin beklentiler;
+(c) Mevcut piyasa riski hariç tutulmuş faiz
+oranının kullanılması suretiyle gösterilen paranın zaman değeri;
+(d) Varlığın doğasında mevcut belirsizliğe
+katlanma bedeli;
+(e) Piyasa katılımcılarının, işletmenin
+varlıktan elde etmeyi beklediği gelecekteki nakit akışlarının
+fiyatlandırmasına yansıtabileceği, bazen belirlenmeleri mümkün olmayan, diğer
+(likidite eksikliği gibi) etkenler.
+A2. Bu Ek,
+bir varlığın kullanım değerinin hesaplanmasında, mevcut koşullara bağlı
+olarak her ikisi birden kullanılabilen, bugünkü değer hesaplamasına ilişkin
+iki farklı yaklaşımı karşılaştırır. "Geleneksel" yöntemde, Paragraf
+A1 (b)-(e)’de belirtilen etkenlere yönelik düzeltmeler iskonto
+oranının içinde gizlidir. ‘’Beklenen nakit akışı’’ yönteminde ise; (b), (d)
+ve (e)’de belirtilen etkenler, riske göre düzeltilmiş beklenen nakit
+akışlarına ulaşılması sırasında bazı düzeltmeler yapılmasına sebep olur.
+İşletme, gelecekteki nakit akışlarının tutar veya zamanlamasındaki muhtemel
+değişikliklerle ilgili beklentileri yansıtmak için hangi yöntemi kullanırsa
+kullansın, sonuç, gelecekteki nakit akışlarının beklenen bugünkü değerini,
+başka bir deyişle, olası her türlü sonucun ağırlıklı ortalamasını yansıtmak
+olmalıdır.
+Genel İlkeler
+A3. Gelecekteki
+nakit akışlarını ve faiz oranlarını hesaplamada kullanılacak teknikler,
+ilgili varlığı çevreleyen koşullara göre değişiklik gösterir. Ancak,
+aşağıdaki genel ilkeler, varlıkların bugünkü değerinin ölçülmesine yönelik
+olarak uygulanan tüm yöntemler açısından geçerlidir:
+(a) Nakit akışlarının iskonto
+edilmesinde kullanılan faiz oranları, hesaplanan nakit akışlarında dikkate
+alınanlarla tutarlı varsayımları yansıtmalıdır. Aksi takdirde, bazı
+varsayımların etkileri iki kez dikkate alınabilir veya tamamen göz ardı
+edilebilir. Örneğin, sözleşmeye bağlı bir kredi alacağına %12 iskonto oranı uygulanabilir. Bu oran, belli özellikler
+içeren kredilerle ilgili gelecekte karşılaşılması mümkün geri ödenmeme
+risklerini yansıtır. Söz konusu %12 iskonto oranı,
+beklenen nakit akışlarının iskonto edilmesinde
+kullanılmamalıdır; çünkü söz konusu nakit akışları, gelecekte karşılaşabilecek
+geri ödenmeme risklerinin etkilerini zaten yansıtmaktadır.
+(b) Tahmin edilen nakit akışları ve iskonto oranları önyargıdan ve varlıkla ilgisi olmayan
+etkenlerden arındırılmış olmalıdır. Örneğin, bir varlığın gelecekteki
+kârlılığını arttırmak için, nakit akışlarının kasıtlı olarak eksik tahmin
+edilmesi, gerçekleştirilen ölçüm işlemine önyargı katar.
+(c) Tahmin edilen nakit akışları ve iskonto oranları, tek bir muhtemel asgari ya da azami tutardan ziyade, gerçekleşmesi muhtemel olan
+sonuçlara ilişkin bir aralığı yansıtmalıdır.
+Bugünkü değerin hesaplanmasında
+geleneksel yöntem ve beklenen nakit akışları yöntemi
+Geleneksel yöntem
+A4. Bugünkü
+değere ilişkin muhasebe uygulamaları, geleneksel olarak, tek bir tahmini
+nakit akışı seti ve genelde "riske uygun oran" olarak tanımlanan
+tek bir iskonto oranını kullanır. Geleneksel
+yöntem, tek bir iskonto oranının; gelecekteki nakit
+akışları ve uygun risk primleriyle ilgili her türlü beklentiyi karşıladığını
+varsayar. Bu nedenle, geleneksel yöntem, en fazla, iskonto
+oranının tespit edilmesine önem verir.
+A5. Piyasada,
+kıyaslanabilir varlıkların bulunmasında olduğu gibi, bazı durumlarda, geleneksel yöntemin uygulanması nispeten daha
+kolaydır. Bu uygulama, örneğin "%12 faizli bir bono"da olduğu gibi, nakit akışları
+sözleşmeye bağlı olan varlıklar açısından, piyasa katılımcılarının
+varlık tanımlamalarıyla tutarlıdır.
+A6. Ancak,
+geleneksel yöntem, finansal olmayan varlıkların
+ölçülmesi gibi, piyasası olmayan veya kıyaslanabilecek başka bir kalem
+bulunmayan varlıklar açısından, bazı karmaşık ölçüm problemlerine ilişkin
+doğru yolu gösteremeyebilir. "Risk uyumlu faiz oranı"nın tam olarak
+tespit edilmesi işlemi, piyasada mevcut gözlemlenebilir bir faiz oranı olan
+bir varlık ve, daha önceden ölçülmüş bir varlık olmak üzere en az iki ayrı
+kalemin analiz edilmesini gerektirir. Ölçülmekte olan nakit akışlarına uygun
+faiz oranı, söz konusu diğer varlığın gözlemlenebilir faiz oranından tespit
+edilmelidir. Bu tespitin yapılabilmesi
+için, diğer varlığın nakit akışları, özellikleri ölçülmüş olan varlığınkine
+benzer olmalıdır. Bu nedenle, ölçüm işlemini gerçekleştiren, aşağıdaki
+işlemleri yapmak zorundadır:
+(a) İskonto edilecek
+nakit akışlarının tespit edilmesi;
+(b) Piyasada nakit akışları benzer özellik
+gösteren başka bir varlığın belirlenmesi;
+(c) İki kalemin benzer olduğundan emin olmak
+için, bunların nakit akışlarının karşılaştırılması (örneğin, her iki nakit
+akışı birden mi sözleşmeye bağlıdır,
+yoksa bir tanesi sözleşmeye bağlı, diğeri ise tahmini nakit akışı
+mıdır?);
+(d) Kalemlerden bir tanesinde mevcut olup da,
+diğerinde olmayan bir unsur bulunup bulunmadığının değerlendirilmesi
+(örneğin, kalemlerden birisi diğerine kıyasla daha mı likittir?);
+(e) Her iki nakit akışının da değişen ekonomik
+koşullarda benzer şekilde hareket etme eğiliminde olup olmadığının (yani
+değişip değişmediğinin) değerlendirilmesi.
+Beklenen Nakit Akışı Yöntemi
+A7. Beklenen
+nakit akışı yöntemi, bazı koşullarda geleneksel yöntemden daha etkili bir
+ölçüm aracıdır. Bir ölçüm geliştirirken, beklenen nakit akışı yöntemi,
+gerçekleşmesi en muhtemel tek bir nakit akışı yerine, muhtemel nakit
+akışlarıyla ilgili tüm beklentileri kullanır. Örneğin, bir nakit akışını
+gerçekleşeceği tahmin edilen tutar; yüzde 10, yüzde 60 ve yüzde 30
+olasılıkla, sırasıyla 100 PB, 200 PB veya 300 PB olabilir. Beklenen nakit
+akışı 220 PB’dir. Dolayısıyla, beklenen nakit akışı
+yöntemi, doğrudan söz konusu nakit akışlarının analizine odaklanması ve
+ölçümde kullanılan daha açık varsayıma dayanması nedeniyle geleneksel
+yöntemden farklılık arz eder.
+A8. Beklenen
+nakit akışı yöntemi, nakit akışlarının zamanlamasının kesin olmadığı
+durumlarda, bugünkü değerin tespitine ilişkin tekniklerinin kullanılmasına da
+izin verir. Örneğin, 1000 PB’lik bir nakit akışı,
+bir yılda, iki yılda veya üç yılda sırasıyla yüzde 10, yüzde 60 ve yüzde 30
+olasılıkla elde edilebilecek olabilir. Aşağıdaki örnek, böyle bir durumda,
+beklenen bugünkü değerin hesaplanmasını gösterir.
+1000
+PB’nin bir yılda %5’ten 952,38 PB
+bugünkü değeri
+Olasılık %10 95,24 PB
+1000 PB’nin iki yılda %5,25’ten 902,73 PB
+bugünkü değeri
+Olasılık %60 541,64 PB
+1000 PB’nin üç yılda %5,50’den 851,61 PB
+bugünkü değeri
+Olasılık %30 255,48 PB
+Beklenen bugünkü
+değer 892,36
+PB
+A9. Söz
+konusu 892.36 PB beklenen bugünkü değer tutarı, 902,73 PB’nin en iyi tahminine (%60 olasılık) ilişkin
+geleneksel sanılardan farklıdır. Bu örneğe geleneksel bugünkü değer hesaplama
+yönteminin uygulanması, nakit akışlarına ilişkin hangi zamanlama
+olasılıklarının kullanılması ve dolayısıyla hangi zamanlama olasılıklarının
+yansıtılmaması gerektiğine yönelik bir karar verilmesini gerektirir. Çünkü
+geleneksel bugünkü değer hesaplamasında kullanılan iskonto
+oranının, zamanlamaya ilişkin belirsizlikleri yansıtması mümkün değildir.
+A10. Beklenen
+nakit akışı yönteminde, olasılıkların kullanılması esastır. Son derece subjektif tahminler için olasılık belirlenmesi işleminin,
+gerçekte olduğundan daha fazla kesinlik gerektirip gerektirmediğine ilişkin
+bazı sorular mevcuttur. Ancak, geleneksel yöntemin doğru bir şekilde
+uygulanması (Paragraf A6’da tanımlandığı gibi), beklenen nakit akışları
+yönteminin sağladığı hesaplama şeffaflığını sunmamasının yanı sıra, yine aynı
+tahminlerin yapılmasını ve subjektifliğin
+sağlanmasını gerektirir.
+A11. Mevcut
+uygulamada geliştirilen birçok tahmin, beklenen nakit akışlarına ilişkin
+unsurları gayriresmî bir şekilde zaten
+içermektedir. Buna ek olarak, muhasebe meslek mensupları, sıklıkla, bir
+varlığı, muhtemel nakit akışı olasılıkları hakkındaki sınırlı bilgilere göre
+ölçme durumuyla karşı karşıyadırlar. Örneğin, bir muhasebe meslek mensubu,
+aşağıdaki gibi bir durumla karşı karşıya kalabilir:
+a) Tahmin edilen tutar; 50 PB ile 250 PB
+arasında bir yere tekabül etmektedir, ancak aralıktaki hiçbir tutarın
+gerçekleşme olasılığı bir diğerine göre daha fazla değildir. Anılan sınırlı
+bilgi çerçevesinde, beklenen nakit akışı 150 PB [(50 + 250)/2] olarak hesaplanır.
+b) Tahmin edilen tutar; 50 PB ile 250 PB
+arasında bir yere tekabül etmekte ve gerçekleşmesi en olası tutar 100 PB
+olarak tahmin edilmektedir. Ancak, her bir tutarın olasılığı bilinmemektedir.
+Anılan sınırlı bilgi çerçevesinde, beklenen nakit akışı 133,33 PB [(50 + 100
++ 250)/3] olarak hesaplanır.
+c) Tahmin edilen tutar; 50 PB (%10
+olasılıkla), 250 PB (%30 olasılıkla) veya 100 PB (%60 olasılıkla)’dir. Anılan sınırlı bilgi çerçevesinde, beklenen nakit
+akışı 140 PB [(50 x 0.10) + (250 x 0.30) + (100 x 0.60)] olarak hesaplanır.
+Her
+bir durum açısından, hesaplanan beklenen nakit akışı tutarları, asgari, en
+muhtemel, veya azami tutarların tek başına kullanıldığı durumla kıyasla,
+kullanım değerine ilişkin daha iyi bir tahmin sağlar.
+A12. Beklenen
+nakit akışı yönteminin uygulanması, maliyet-fayda koşullarına bağlıdır. Bazı
+durumlarda, işletme, daha kapsamlı verilere ulaşabilir ve birçok nakit akış
+senaryosu geliştirebilir. Diğer bazı durumlarda ise, işletme, önemli bir
+maliyete katlanması gerekmeksizin, nakit akışlarının değişkenliğiyle ilgili
+genel varsayımlardan daha fazlasını elde edemez. İşletme, ilave bilgi
+toplamanın maliyetiyle, elde edilen bilginin ölçme işlemine sağlayacağı ek
+güvenilirliği birbiriyle dengelemelidir.
+A13. Bazıları,
+beklenen nakit akışı tekniklerinin, tek bir kalemin veya sınırlı sayıda
+muhtemel sonuçları olan bir kalemin ölçülmesi için uygulanmasının doğru
+olmadığını düşünür. Buna örnek olarak; sonuçlardan birisinin, ilgili varlığın
+nakit akışının %90 olasılıkla 10 PB, diğerinin ise, % 10 olasılıkla 1,000 PB
+olarak gerçekleşmesi olduğu iki muhtemel sonucu bulunan bir varlığı
+gösterirler. Söz konusu örnek açısından, beklenen nakit akışının 109 PB
+olduğunu gözlemler ve bu sonucun ödenecek nihai tutarların her ikisini de
+temsil etmediğini ifade ederler.
+A14. Yukarda
+özetlenen türde söylemler, ölçüm işleminin amacına ilişkin uyuşmazlığı
+yansıtır. Amaç, gerçekleşecek birikmiş maliyetlerin belirlenmesi ise,
+beklenen nakit akışları tahmin edilen maliyete yönelik güvenilir bir bilgi
+sağlamayabilir. Ancak, bu Standart, bir varlığın geri kazanılabilir tutarının
+ölçülmesiyle ilgilidir. İlgili örnekte, varlığın geri kazanılabilir tutarı,
+elde edilmesi en muhtemel sonuç olmasına rağmen 10 PB olmayacaktır. Çünkü söz
+konusu 10 PB, varlığın ölçülmesi işlemindeki nakit akışlarının belirsizliğini
+dikkate almaz. Bunun yerine, kesin olmayan bir nakit akışı, kesinmiş gibi
+sunulur. Rasyonel hiçbir işletme, bu özellikdeki
+bir varlığı 10 PB’ye satmayacaktır.
+A15. İşletme,
+bir varlığın kullanım değerinin ölçülmesinde hangi yöntemi kullanırsa
+kullansın, nakit akışlarının iskonto edilmesinde
+kullanılan faiz oranları, söz konusu nakit akış tahminlerinin tespitinde
+dikkate alınan riskleri yansıtmamalıdır. Aksi takdirde, bazı varsayımların
+etkileri iki defa dikkate alınmış olur.
+A16. Varlığa
+özgü bir oranın doğrudan piyasadan elde edilemediği durumlarda, işletme, iskonto oranını tahmin etmek için onun yerine geçebilen başka oranları kullanır. Amaç, aşağıda yer alan
+etkenlere ilişkin piyasa değerlendirmelerinin mümkün olduğunca tahmin
+edilmesidir:
+(a) Varlığın yararlı ömrünün sonuna kadar ki
+döneme ilişkin paranın zaman değeri; ve
+(b) Tahmini nakit akışlarının elde edilmesinde
+dikkate alınmamış oldukları sürece, Paragraf A1 (b), (d) ve (e)’de belirtilen
+etkenler.
+A17. İşletme
+böyle bir tahminde bulunurken, başlangıç noktası olarak aşağıdaki oranları
+dikkate alabilir:
+(a) Sermaye varlıkları fiyatlandırma yöntemi
+gibi teknikler kullanılmak suretiyle belirlenen, işletme sermayesinin
+ağırlıklı ortalama maliyeti
+(b) İşletmenin marjinal borçlanma oranı
+(c) Diğer piyasa borçlanma oranları
+A18. Ancak söz konusu oranlar:
+(a) Piyasanın, varlığın beklenen nakit
+akışlarıyla ilgili özel riskleri değerlendirme şeklini yansıtmak; ve
+(b) Varlıktan beklenen nakit akışlarıyla ilişkili
+olmayan veya nakit akışlarının tespitinde dikkate alınmış riskleri dikkate
+almamak,
+için
+düzeltilmelidir.
+Ülke riski, döviz riski ve fiyat
+riski gibi de riskler göz önünde bulundurulmalıdır.
+A19. İskonto oranı işletmenin sermaye yapısından ve varlığın
+satın alınmasını finanse etme yönteminden bağımsızdır, çünkü varlıktan
+kaynaklanması beklenen gelecekteki nakit akışları varlığın satın alınmasının
+finanse edilme yöntemine bağlı değildir.
+A20. 55 inci
+Paragraf, kullanılacak iskonto oranının vergi öncesi
+oran olmasını gerektirir. İskonto oranının tahmin
+edilmesinin, vergi sonrası esasa dayanması durumunda, söz konusu esas vergi
+öncesi oranı yansıtacak şekilde düzeltilir.
+A21. İşletme,
+bir varlığın kullanım değerini tahmin ederken, normal koşullarda, tek bir iskonto oranı kullanır. Ancak, kullanım değerinin, ayrı
+dönemlerde risklerde meydana gelecek bir farklılığa ya
+da faiz oranlarının vade yapısına duyarlı olduğu durumlarda, işletme, farklı
+gelecek dönemler için ayrı iskonto oranları
+kullanır.
+1 Maddi olmayan duran varlıklar
+açısından, amortisman teriminin yerine genellikle itfa terimi kullanılır. Söz
+konusu her iki terimin de anlamları aynıdır.
+2 Varlığın satış amaçlı elde tutulan
+olarak sınıflanmasına sebep olan koşullar bir kez sağlandığında (ya da satış amaçlı elde tutulan olarak sınıflandırılan
+elden çıkarılacak varlık grubuna dahil edilmesi durumunda), ilgili varlık bu
+Standardın kapsamından çıkarılır ve "TFRS 5 Satış Amaçlı Elde Tutulan
+Maddi Duran Varlıklar ve Durdurulan Faaliyetler" Standardına göre
+muhasebeleştirilir.
+3
+TMSK tarafından ayrıca yayınlanacaktır.
+4
+TMSK tarafından ayrıca yayınlanacaktır.
+5
+TMSK tarafından ayrıca yayınlanacaktır.
+6
+TMSK tarafından ayrıca yayınlanacaktır.
+7
+Parasal tutarlar bu Standartta "para birimi (PB)" olarak ifade
+edilmiştir.
+8
+TMSK tarafından ayrıca yayınlanacaktır.
+9
+TMSK tarafından ayrıca yayınlanacaktır.
+10
+TMSK tarafından ayrıca yayınlanacaktır.
