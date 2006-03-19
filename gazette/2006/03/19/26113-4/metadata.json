@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-03-19",
+  "issue": "26113",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2006/8)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060319-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060319.htm",
+  "index_sha256": "dc353ffd6e3a02ccd42514a6cacf2472795ccf8a3a84c2aaede3d34f15528f4c",
+  "index_header": "19 Mart 2006 ... Sayı : 26113",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
