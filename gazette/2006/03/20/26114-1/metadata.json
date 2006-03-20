@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-03-20",
+  "issue": "26114",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Motorlu Araçların Dolaylı Görüş Cihazları Hakkında Tip Onayı Yönetmeliği (2005/27/AT ile Değişik 2003/97/AT)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060320-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060320.htm",
+  "index_sha256": "39d0caf82218cfe43aa58221085a9ffb1e5bcf16cd34b78a7058346d067a6193",
+  "index_header": "20 Mart 2006 ... Sayı : 26114",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
