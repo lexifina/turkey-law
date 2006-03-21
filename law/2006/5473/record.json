@@ -1,0 +1,127 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5473",
+  "year": 2006,
+  "title": "Değişik Adlar Altında İlave Ödemesi Bulunmayan Memurlara ve Sözleşmeli Personele Ek Ödeme Yapılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "2006-03-21",
+  "adopted_as_published": "21/03/2006",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "31.03.2006 No: 26125",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005473.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 90",
+  "committee_reports": [
+    {
+      "label": "TBMM 1103 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c113/tbmm22113072ss1103.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 214273,
+      "title": "Değişik Adlar Altında İlave Ödemesi Bulunmayan Memurlara ve Sözleşmeli Personele Ek Ödeme Yapılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "21/03/2006",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005473.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1103 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c113/tbmm22113072ss1103.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 111,
+          "sitting": 65,
+          "sitting_date": "2006-02-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c111/tbmm22111065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c111/tbmm22111fih.pdf",
+          "pages": [
+            "541"
+          ]
+        },
+        {
+          "cilt": 113,
+          "sitting": 71,
+          "sitting_date": "2006-03-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c113/tbmm22113071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c113/tbmm22113fih.pdf",
+          "pages": [
+            "7"
+          ]
+        },
+        {
+          "cilt": 113,
+          "sitting": 72,
+          "sitting_date": "2006-03-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c113/tbmm22113072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c113/tbmm22113fih.pdf",
+          "pages": [
+            "277:285"
+          ]
+        },
+        {
+          "cilt": 113,
+          "sitting": 73,
+          "sitting_date": "2006-03-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c113/tbmm22113073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c113/tbmm22113fih.pdf",
+          "pages": [
+            "347:421"
+          ]
+        },
+        {
+          "cilt": 113,
+          "sitting": 75,
+          "sitting_date": "2006-03-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c113/tbmm22113075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c113/tbmm22113fih.pdf",
+          "pages": [
+            "670:687"
+          ]
+        },
+        {
+          "cilt": 114,
+          "sitting": 76,
+          "sitting_date": "2006-03-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c114/tbmm22114076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c114/tbmm22114fih.pdf",
+          "pages": [
+            "24:89"
+          ]
+        },
+        {
+          "cilt": 114,
+          "sitting": 77,
+          "sitting_date": "2006-03-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c114/tbmm22114077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c114/tbmm22114fih.pdf",
+          "pages": [
+            "176:241",
+            "316:325"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=601&v_kullanici_id=27483198",
+      "page_sha256": "9b9ebd469310fdd4a7f2f179aedf8244b7a97b8283ad36d307313f753349b324"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9b9ebd469310fdd4a7f2f179aedf8244b7a97b8283ad36d307313f753349b324",
+  "issuer": "TBMM",
+  "in_force": "2006-03-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/03/2006; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
