@@ -1,0 +1,12 @@
+İKİNCİ BÖLÜM
+Destekleme Primi Uygulama Alanı, Ödeme Esasları, Ödeme Şekli, Ödeme Yer ve
+Zamanı, Destekleme Primi Almak İçin İlgili Mercilere İbraz Edilecek Belgeler
+Destekleme primi uygulama alanı, ödeme esasları, ödeme yer ve zamanı, ödeme şekli
+Madde 4 — Alım satım işlemlerinin belirlenen usul ve esaslara uygun gerçekleşmesi koşuluyla; kütlü pamuk, yağlık ayçiçeği, soya fasulyesi, kanola, dane mısır, zeytinyağı (ham rafinajlık veya naturel) üreticileri ile bu ürünlerin tohum üretici kuruluşları (Bakanlığımızda kayıtlı) ile sözleşmeli üretim yapan üreticiler de prim ödemelerinden yararlanır.
+(Mülga fıkra:RG-23/03/2006-26117) (1)
+Üreticiler tarafından üretilen ve kamu kuruluşlarına yapılan kütlü pamuk teslimatları için de 6 ncı maddede belirtilen belgelerin düzenlenmesi kaydıyla prim ödenir. Kamu kuruluşlarına tüccar tarafından yapılan satış ve teslimatlarda kütlü pamuk teslimat belgesi, tüccarın üreticiden yaptığı alım miktarları ile uyumlu bir şekilde her bir üretici adına ayrı ayrı düzenlenir. Bu belge tüccar tarafından üreticiye teslim edilir.
+2005 yılı kütlü pamuk, yağlık ayçiçeği, soya fasulyesi, kanola, dane mısır ve zeytinyağının satışı sonucunda üreticilere verilecek prim miktarları, son başvuru tarihi ve ödemeye ait işlemler Tarımda Yeniden Yapılandırma ve Destekleme Kurulunca Karar alınarak belirlenir. Bu Karar Tarım ve Köyişleri Bakanlığı tarafından düzenlenecek genelge ile ilgili mercilere bildirilir.
+Üreticiler, bu Tebliğin 6. maddesinde istenen belgeler ve farklı İl/İlçelerde gerçekleştirdiği üretim ve satışlar ile ilgili tüm belgeleri sadece ÇKS’ye başvurduğu ilçenin ilgili merciine ibraz eder.
+Ayrıca, sertifikalı tohumluk kullanmak suretiyle kütlü pamuk/soya fasulyesi üretimi yapan ve bu durumu belgelendiren üreticilere, ürüne verilecek prim miktarının % 20’si oranında fazla ödeme yapılacaktır.
+İl Komisyonları, ödemeye esas yapacakları incelemelerin sonuçlanmasını müteakiben PKS’den aldıkları ve onayladıkları İl icmal listelerini Bakanlığa gönderir. Bakanlık ödemeye esas icmal listelerindeki toplam prim miktarlarını ödemelerin yapılabilmesini temin için elektronik ortamda Bankaya gönderir. Gerekli kaynağın Banka Şubelerine aktarılmasından sonra prim ödemeleri yapılır.
+(Ek fıkra:RG-23/03/2006-26117)(1) Doğal afete maruz kalmış bölgelerde prime esas ürünleri üreten üreticilere destekleme primi ödemelerinde yapılacak özel uygulamaların esasları Tarım ve Köyişleri Bakanlığı tarafından belirlenir. Genelge ile ilgili mercilere duyurulur.

@@ -1,0 +1,3 @@
+Hukuki ve cezai sorumluluk
+Madde 8 — Haksız yere destekleme priminden yararlanıldığının tespit edilmesi halinde, haksız yere ödenen destekleme primi, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri çerçevesinde haksız ödemeyi sağlayan belge veya belgeleri kullanan gerçek ve tüzel kişilerden, belge veya belgeleri düzenleyen gerçek ve tüzel kişilerden, kooperatifler, birlikler, çırçır/yem/yağ/gıda/zeytin sıkma fabrikaları/tesisleri ve diğer ilgililerden müteselsilen geri alınır.
+Ayrıca, destekleme priminden yararlanmak üzere sahte ve içeriği itibariyle gerçek dışı belge düzenleyen ve kullananlar ile borsada gerçek dışı fiyatla alım satım tescili yaptırdığı anlaşılan üreticiler prim uygulamasından yararlandırılmazlar.
