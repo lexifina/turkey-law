@@ -1,0 +1,5 @@
+Madde 10 – (23/1/1953 tarihli ve 6023 sayılı Kanunun hükmüdür.)
+Oda gelirlerinden, Türk Tabipleri Birliğine harcanmak üzere merkez konseyine gönderilecek miktar büyük kongrece tesbit edilir. Ancak bu miktar % 25 ten aşağı olamaz.
+Madde 28 II – numaralı bent birinci paragraf: (7/6/1985 tarihli ve 3224 sayılı Kanunun hükmüdür.) Tabip odalarının veya birlik teşekküllerinden herhangi birisinin göstereceği lüzum üzerine bazı mıntıkalarda odalarda tabip tedavisi ücretlerinin enaz miktarlarını gösteren tarifeler düzenlemek (Bu tarifeler Merkez Konseyince tasdik edildikten sonra bilgi edinilmek üzere Sağlık ve Sosyal Yardım Vekaletine gönderilir.)
+Madde 36 fıkra iki- (23/1/1953 tarihli ve 6023 sayılı Kanunun hükmüdür.) Ret kabule şayan görülürse esas mesele bu heyet tarafından tetkik edilerek karara bağlanır. Reddin asılsızlığı anlaşıldığı veya ret talebi kabule şayan görülmediği takdirde talebin reddine karar verilmekle beraber ayrıca (25) liradan (50) liraya kadar para cezası ödenmesine de karar verilebilir.
+Madde 39 bent (b)- (23/1/1953 tarihli ve 6023 sayılı Kanunun hükmüdür.) (25) liradan (100) liraya kadar para cezası,

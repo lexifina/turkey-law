@@ -1,0 +1,2 @@
+Madde 6 – (11/2/1957 tarih ve 6909 sayılı Kanunun hükmüdür.)
+Hudutları içinde en az yüz tabip ve diş tabibi bulunan her il merkezinde bir tabip odası kurulur.Hudutları içinde 100 tabip ve diş tabibi bulunmıyan illerin hangi il tabip odasına katılacakları veya hangi illerle birleşerek yeni bir oda teşkil edecekleri veyahut müstakillen bir tabip odası kurmaları ve odaların faaliyet merkezleri Türk Tabipleri Merkez Konseyinin talebi üzerine Büyük Kongre tarafından karar altına alınır.

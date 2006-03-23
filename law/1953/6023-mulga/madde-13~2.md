@@ -1,0 +1,12 @@
+4 – 6/9/1983 tarih ve 83 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 13, Ek 3)
+Madde 13 – (24/5/1983 tarih ve 65 sayılı KHK'nun hükmüdür.)
+Genel Kurul yılda bir defa Nisan ayında toplanır. Bu toplantılar üye tam sayısının salt çoğunluğunun katılması ile yapılır. Seçimle ilgili genel kurul toplantısına oda üyelerinin katılması zorunlu olup geçerli bir mazereti olmaksızın katılmayanlar oda disiplin kurulunca cezalandırılırlar.
+Ek Madde 3, fıkra bir ve iki – (24/5/1983 tarih ve 65 sayılı KHK'nın hükmüdür.)
+Türk Tabipleri Birliğinin merkez organları ile tabip odalarının idare heyeti, haysiyet divanı ve başkanlarının bu kanunda belirtilen seçimleri gizli oyla yapılır ve seçimlere ilişkin işlemler aşağıdaki esaslara göre, yargı gözetimi altında gerçekleştirilir.
+Seçim yapılacak kongre ve genel kurul toplantısından en az onbeş gün önce, seçime katılacak üyeleri belirleyen listeler iki nüsha olarak o yer merkez ilçe seçim kurulu başkanı olan hakime tevdi edilir. Birden fazla ilçe seçim kurulu bulunan yerlerde görevli hakim yüksek seçim kurulunca belirlenir. Ayrıca toplantının gündemi, yeri, günü, saati ile çoğunluk olmadığı takdirde yapılacak ikinci toplantıya ilişkin hususlarda belirtilir. Toplantı tarihlerinin, gündemde yer alan diğer konular gözönünde bulundurularak, görüşmelerin bir Cumartesi günü akşamına kadar sonuçlanması ve müteakip Pazar gününün dokuz - onyedi saatleri arasında seçimlerin yapılmasını sağlayacak şekilde düzenlenmesi zorunludur.
+fıkra dokuz – (24/5/1983 tarih ve 65 sayılı KHK'nın hükmüdür.)
+Seçimlerde kullanılacak araç ve gereçler, merkez ilçe seçim kurulundan sağlanır ve sandıkların konacağı yerler hakim tarafından belirlenir.
+fıkra oniki – (24/5/1983 tarih ve 65 sayılı KHK'nın hükmüdür.)
+Oy verme işlemi, gizli oy, açık tasnif esaslarına göre yapılır. Listede adı yazılı bulunmayan üye oy kullanamaz. Oylar, oy verenin kimliğinin tabip odası, Türk Tabipleri Birliği veya resmi kuruluşca verilen belge ile ispat edilmesinden ve listedeki isminin karşısındaki yerin imzalanmasından sonra kullanılır. Oylar, üzerinde ilçe seçim kurulu mühürü bulunan ve oy verme sırasında sandık kurulu başkanı tarafından her seçim için ayrı ayrı verilecek kağıtlara yazılmak suretiyle kullanılır. Bunların dışındaki kağıtlara yazılan oylar geçersiz sayılır.
+386
+5 – 8/1/1985 tarih ve 3144 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 6,7,8,13,14,42,61 ve Ek 2)

@@ -1,0 +1,2 @@
+Madde 18 – (23/1/1953 tarih ve 6023 sayılı Kanunun hükmüdür.)
+Tabip odası idare Heyeti azaları Umumi Heyet tarafından gizli reyle seçilir. Kur'a ile ayrılacak beş aza tasnifi açık olarak yapar. Reylerde müsavat halinde kur'a çekilir. Tasnifin neticesi hemen bildirilir. Rey puslalarının ve umumi heyet zabıtlarının yeni seçime kadar saklanması mecburidir. Tasnifin başlamasından sonra gelen rey zarfları hesaba katılmaz.

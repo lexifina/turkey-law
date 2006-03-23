@@ -1,0 +1,2 @@
+Madde 5 – (23/1/1953 tarih ve 6023 sayılı Kanunun hükmüdür.)
+Bir müessese veya iş yeri tabipleri,çalıştıkları yerlerin sıhhi işleri başka bir yerde ikinci bir vazife almalarına müsait olduğu tabip odaları idare heyetlerince kabul edilmedikçe, her ne suretle olursa olsun diğer bir müessese veya iş yerinin tabipliğini alamazlar. Bu fıkra hükmü Devlet teşkilatına dahil tabiplerin resmi vazifeleri dışındaki müessese veya iş yerlerinde alacakları munzam vazifeler hakkında da tatbik olunur.
