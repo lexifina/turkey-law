@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5474",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Tunus Cumhuriyeti Hükümeti Arasında Sanayi İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-03-24",
+  "gazette_issue": "26118",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060324-1.htm",
+  "source_sha256": "598f99ea44d5831fb219ee311b990878fcef373f0bc103b93dc1e63551ef32ad",
+  "text_sha256": "3554660a471137f9d1bdc387e522231b5fbcf48855d49bf96343fa7c87a7ba46",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/03/24/26118-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060324-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
