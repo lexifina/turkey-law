@@ -1,0 +1,1139 @@
+TEBLİĞ
+Türkiye Muhasebe
+Standartları Kurulundan:
+SİGORTA SÖZLEŞMELERİNE İLİŞKİN
+TÜRKİYE FİNANSAL
+RAPORLAMA STANDARDI (TFRS 4)
+HAKKINDA TEBLİĞ
+SIRA NO: 30
+Amaç
+MADDE
+1 – (1) Bu Tebliğin amacı; sigorta sözleşmelerine ilişkin
+4 nolu Türkiye Finansal
+Raporlama Standardının yürürlüğe konulmasıdır.
+(2) Adı geçen Türkiye Finansal Raporlama Standardı bu Tebliğ ekinde yer
+almıştır.
+Kapsam
+MADDE
+2 – (1) Sigorta sözleşmelerine ilişkin Türkiye Finansal Raporlama Standardının kapsamı ekli TFRS 4
+metninde yer almaktadır.
+Hukuki dayanak
+MADDE
+3 – (1) Bu Tebliğ, 28/7/1981 tarih ve 2499 sayılı Sermaye
+Piyasası Kanununun Ek-1 inci maddesi ile 24/2/2004 tarihli ve 2004/6924
+sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren Türkiye Muhasebe
+Standartları Kurulunun Çalışmalarına İlişkin Usul ve Esaslar Hakkında
+Yönetmeliğin 9 uncu maddesinin (b) bendine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE
+4 – (1) Bu Tebliğde geçen;
+(a) TMSK ve Kurul: Türkiye
+Muhasebe Standartları Kurulunu,
+(b) TMS: Türkiye Muhasebe
+Standartlarını,
+(c) TFRS: Türkiye Finansal Raporlama Standartlarını,
+ifade eder.
+Yürürlük
+MADDE
+5 – (1) Bu Tebliğ 31/12/2005 tarihinden sonra başlayan
+hesap dönemleri için geçerli olmak üzere, yayımlandığı tarihte yürürlüğe
+girer.
+Yürütme
+MADDE
+6 – (1) Bu Tebliğ
+hükümlerini Türkiye Muhasebe Standartları Kurulu yürütür.
+EK
+Türkiye Finansal
+Raporlama Standardı
+(TFRS 4)
+Sigorta Sözleşmeleri
+Amaç
+1. Bu TFRS'nin amacı; Kurul, sigorta sözleşmelerine ilişkin
+projesinin 2 nci bölümünü tamamlayana kadar,
+sigorta sözleşmesi düzenleyen herhangi bir işletmenin (bu TFRS’de
+sigortacı olarak tanımlanan) sigorta sözleşmelerine ilişkin finansal raporlamasını
+belirlemektir. Bu TFRS, özellikle aşağıdaki hususları gerekli kılar:
+(a)
+Sigorta
+sözleşmeleri muhasebesine ilişkin sigortacıların yapması gereken sınırlı sayıdaki
+iyileştirmeleri.
+(b)
+Sigortacının
+finansal tablolarındaki sigorta sözleşmelerinden
+kaynaklanan tutarları belirleyen ve açıklayan, ve sigorta sözleşmelerinden doğan
+gelecekteki nakit akımlarının tutarını, zamanlamasını ve belirsizliğini bu finansal raporların kullanıcılarının anlamasına yardımcı
+olan açıklamaları.
+Kapsam
+2. İşletme, bu TFRS’yi
+aşağıdakilere uygular:
+(a) Düzenlediği sigorta sözleşmeleri (reasürans sözleşmeleri dahil) ve aldığı reasürans sözleşmelerine.
+(b) İhraç ettiği isteğe
+bağlı katılım özellikli finansal araçlara (bakınız: 35 inci Paragraf).
+“TMS 32 Finansal Araçlar: Açıklamalar ve Sunum” Standardı,
+bu tür özelliklere sahip olanlar da dahil, finansal
+araçlara ilişkin açıklama yapılmasını gerekli kılar.
+3. Bu
+TFRS, 45 inci maddedeki geçiş hükümleri haricinde,
+sigortacılar tarafından elde tutulan finansal
+varlıkların ve sigortacılar tarafından ihraç edilen finansal
+borçların muhasebeleştirilmesi gibi sigortacıların diğer muhasebe konularına
+değinmez (bakınız: TMS 32 ve TMS 39 Finansal
+Araçlar : Muhasebeleştirme ve Ölçme).
+4.
+İşletme bu TFRS’yi aşağıdakilere uygulamaz:
+(a)
+Üretici,
+aracı veya perakendeci tarafından doğrudan ihraç edilen ürün
+sertifikaları (bakınız: “TMS 18 Hasılat” ile “TMS
+37 Karşılıklar, Koşullu Borçlar ve Koşullu Varlıklar” Standartları).
+(b)
+İşverenin çalışanlara sağlanan faydalar
+kapsamındaki varlık ve borçları (bakınız: TMS 19 Çalışanlara Sağlanan Faydalar ve TFRS 2 Hisse Bazılı
+Ödeme) ile tanımlanmış
+fayda emeklilik planlarında ifade edilmiş emeklilik fayda yükümlülükleri (bakınız: TMS 26 Emeklilik Sosyal
+Yardım Planlarında Muhasebeleştirme ve Raporlama).
+(c)
+Finansal
+olmayan bir kalemin kullanım hakkı veya gelecekteki kullanım koşuluna bağlı olan,
+sözleşmeye dayalı hak veya yükümlülükler (örneğin bazı lisans ücretleri,
+telif hakları, koşullu kira ödemeleri ve benzer kalemler) ile bir finansal
+kiralama işleminde yer alan, kiracının garanti edilen kalıntı değeri (bakınız: TMS 17 Kiralama İşlemleri, TMS 18 Hasılat ve
+TMS 38 Maddi Olmayan Duran Varlıklar),
+(d)
+Finansal garanti sözleşmeleri ihraç edenin bu tür sözleşmeleri
+bir sigorta sözleşmesi olarak kabul edildiğini açık bir şekilde önceden
+belirtilmemiş ve sigorta sözleşmelerine uygulanabilir muhasebe kullanılmamış
+olduğu durumda, ihraç eden bu tür finansal garanti sözleşmelerine ya
+TMS 39 ve TMS 32’nin ya da bu Standardın
+uygulanmasını seçebilir. İhraç eden
+bu seçimi sözleşme bazında yapabilir, fakat hiç bir sözleşmeye ilişkin seçimini
+sonradan değiştiremez.
+(e)
+İşletme birleşmesinde borç veya alacakların koşulluğu durumu (bakınız: TFRS 3 İşletme Birleşmeleri)
+(f)
+İşletmenin taraf olduğu doğrudan
+sigorta sözleşmeleri (yani, işletmenin sigortalı olduğu doğrudan sigorta sözleşmeleri).
+Ancak, sedan işletme, bu TFRS’
+yi reasürans
+sözleşmelerine uygular.
+5. Kullanım
+kolaylığı için, bu TFRS, hukuken veya denetim açısından sigortacı kabul
+edilsin edilmesin, sigorta sözleşmesi düzenleyen her işletmeyi sigortacı
+olarak tanımlar.
+6. Reasürans
+sözleşmesi sigorta sözleşmesinin bir türüdür. Dolayısıyla, bu TFRS içindeki
+sigorta sözleşmelerine ilişkin bütün düzenlemeler aynı zamanda reasürans
+sözleşmelerine de uygulanır.
+Melez bir üründe saklı türev
+ürünler
+7. TMS 39, işletmenin, melez bir üründe saklı türev
+ürünlerini ana sözleşmeden ayırıp gerçeğe uygun değeri ile ölçmesini ve bunların gerçeğe uygun değerlerindeki
+değişiklikleri kâr veya zarara dahil etmesini gerekli
+kılar. TMS 39, melez
+bir üründe saklı türev ürünün kendisi bir sigorta sözleşmesi olmadıkça, sigorta
+sözleşmesi içindeki melez bir üründe saklı türev ürünlerine uygulanır.
+8. TMS 39’daki düzenlemenin bir istisnası olarak; sigortacının,
+uygulanacak fiyat, ana sigorta borcunun defter değerinden farklı bile olsa,
+sabit bir tutar (veya sabit bir tutara veya bir faiz oranına dayalı tutar)
+karşılığında sigortalının sigorta sözleşmesinden iştira edilmesine olanak
+veren bir sözleşmenin opsiyonunu ayrıştırmasına ve gerçeğe uygun değerden
+ölçmesine gerek yoktur. Bununla birlikte, sigorta iştira tutarının
+sözleşmenin taraflarından birine özgü olmayan finansal
+olmayan bir değişken veya bir finansal değişkendeki
+(bir hisse senedi veya mal fiyatı veya endeks gibi) farklılığa göre
+değişmesi durumunda, TMS 39’daki düzenleme, sigorta sözleşmesi içinde saklı
+nakit iştira ya da satış opsiyonuna da uygulanır. Ayrıca, sigortalının nakit iştira ya da satış opsiyonunu kullanma ihtimalinin bu tür bir
+değişkende meydana gelen bir değişiklik tarafından harekete geçirilmesi
+durumunda, yine bu düzenleme uygulanır (örneğin borsa endeksinin belirli bir
+seviyeye ulaşması durumunda kullanılacak bir satım opsiyonu).
+9. 8
+inci Paragraf isteğe bağlı katılım özelliği içeren finansal
+araçlardan iştira etme opsiyonlarına da aynen uygulanır.
+Yaşam sigortalarının birikim
+unsurunun ayrıştırılması
+10. Bazı
+sigorta sözleşmeleri hem sigorta unsuru, hem de birikim unsurunu içerir. Bazı durumlarda, sigortacıya bu unsurları ayrıştırmasına izin verilir
+veya sigortalı bu konuda zorunlu tutulur:
+(a)
+Aşağıdaki
+koşulların ikisinin
+birden sağlanması durumunda ayrıştırma zorunludur:
+(i) Sigortacının, birikim unsurunu (saklı
+tutulan her bir iştira seçeneği dahil) ayrı olarak ölçebilmesi (yani, sigorta
+unsurunun dikkate alınmaması).
+(ii)
+Aksi
+halde, sigortacının muhasebe politikalarının, birikim unsurundan kaynaklanan
+tüm hak ve yükümlülüklerin muhasebeleştirilmesini gerektirmemesi.
+(b)
+Sigortacının
+(a) (i)'deki gibi birikim unsurunu ayrı bir şekilde ölçebilmesi fakat
+muhasebe politikalarının, birikim unsurundan kaynaklanan tüm hak ve
+yükümlülüklerin ölçülmesinde kullanılan esaslara bakılmaksızın, anılan hak ve
+yükümlülüklerin muhasebeleştirilmesini gerekli kılması durumunda,
+ayrıştırmaya izin verilir fakat söz konusu işlem zorunlu tutulmaz.
+(c) Sigortacının (a) (i)’deki gibi birikim unsurunu ayrı
+olarak ölçemediği durumlarda ayrıştırmaya izin verilmez.
+11. Takip eden örnek;
+sigortacının muhasebe politikalarının, birikim unsurundan kaynaklanan tüm yükümlülükleri muhasebeleştirmesini gerekli kılmadığı bir duruma
+örnektir. Sedan işletme, reasürörden hasarlarına ilişkin
+tazminat almıştır; fakat buna ilişkin sözleşme sedan işletmenin, gelecek
+yıllarda söz konusu tazminatı geri ödemesini gerekli kılmaktadır. Söz konusu
+yükümlülük, birikim unsurundan kaynaklanmaktadır. Aksi halde, sedan
+işletmenin muhasebe politikalarının, söz konusu tazminatın, ortaya çıkan
+yükümlülük muhasebeleştirilmeksizin gelir olarak muhasebeleştirilmesine izin
+vermesi durumunda ayrıştırma işlemi gereklidir.
+12. Bir sözleşmeyi
+ayrıştırmak için, sigortacı:
+(a)
+Sigorta unsuruna bu TFRS’ yi uygular.
+(b)
+Birikim unsuruna TMS 39’u uygular.
+Muhasebeleştirme ve ölçme
+Diğer bazı TFRS’lerden
+geçici muafiyet
+13. “TMS 8 Muhasebe Politikaları,
+Muhasebe Tahminlerinde Değişiklikler ve Hatalar” Standardının 10-12 nci Paragrafları, hiçbir TFRS’nin
+belli bir kaleme özel olarak uygulanmadığı durumlarda işletmenin muhasebe politikası geliştirmesinde kullanılmak
+üzere çeşitli kriterler belirler. Ancak, bu TFRS sigortacıyı, aşağıdaki
+hususlara ilişkin muhasebe politikalarına anılan kriterleri uygulamaktan muaf
+tutar:
+(a)
+Düzenlediği
+sigorta sözleşmelerine (ilgili edinme maliyetleri ve 31 ve 32 nci Paragraflarda yer alanlar gibi maddi olmayan duran varlıklar
+dahil); ve
+(b)
+Alınan reasürans sözleşmelerine.
+14. Bununla beraber, bu TFRS,
+sigortacıyı TMS 8’in 10-12 nci Paragraflardaki
+kriterlerin bazı etkilerinden muaf tutmamaktadır. Özellikle, sigortacı:
+(a)
+Gelecekteki olası hasarlara ilişkin karşılıkları, eğer bu hasarlar
+raporlama tarihinde var olmayan sigorta sözleşmelerinden kaynaklanıyorsa, borç
+olarak muhasebeleştirmez (afet poliçesi karşılıkları ve denkleştirme
+karşılıkları gibi).
+(b)
+15-19 uncu Paragraflarda yer alan borç yeterlilik testini uygular.
+(c)
+Sigorta borcunu (veya sigorta borcunun bir kısmını) ancak ve ancak
+ortadan kalktığında - yani sözleşmede belirtilen yükümlülüğün ödenmesi veya
+iptal olması ya da süresinin dolması halinde -
+bilançosundan çıkartır.
+(d)
+Aşağıdakiler
+arasında mahsup yapmaz:
+(i)
+Reasürans varlıklarını ilgili reasürans
+borçlarıyla; veya
+(ii)
+Reasürans sözleşmelerinden doğan gelir veya gideri, ilgili sigorta
+sözleşmesinden doğan gider veya gelir kalemi ile.
+(e)
+Reasürans varlıklarında değer
+düşüklüğünün olup olmadığını dikkate alır (bakınız: 20 nci Paragraf).
+Borç yeterlilik
+testi
+15. Sigortacı,
+her raporlama tarihinde, sigorta sözleşmelerinin gelecekteki nakit akışlarına
+ilişkin cari tahminler kullanarak, muhasebeleştirmiş olduğu sigorta borçlarının
+yeterli olup olmadığını değerlendirir. Eğer bu değerlendirme, gelecekteki
+tahmini nakit akışlarının ışığında sigorta borçlarının defter değerinin (31
+ile 32 nci Paragrafta belirtildiği gibi ilgili
+maddi olmayan varlıkları ve ertelenmiş edinme maliyetlerini indirmek
+suretiyle) yetersiz olduğunu gösterirse, açığın tümü kâr veya zararda muhasebeleştirilir.
+16. Sigortacının, belirlenmiş asgari koşulları
+karşılayan bir borç yeterlilik testi uygulaması durumunda, bu TFRS başka bir koşul ileri sürmez. Söz konusu asgari koşullar
+aşağıdaki gibidir:
+(a)
+Bu
+test, hasar tanzim giderleri gibi nakit akışlarının,
+sözleşmeye dayalı diğer tüm nakit akışlarının ve saklı tutulan opsiyon ve
+garantilerden doğan nakit akışlarının cari tahminlerini dikkate alır.
+(b)
+Söz
+konusu testin borçların yetersiz olduğunu göstermesi durumunda, ilgili açığın
+tümü kâr
+veya zararda muhasebeleştirir.
+17. Sigortacının muhasebe politikalarının 16 ncı Paragrafta yer alan asgari koşulları karşılayan bir borç
+yeterlilik testinin yapılmasını öngörmemesi durumunda, sigortacı:
+(a) İlgili sigorta borçlarının[1]
+defter değerini, aşağıdakilerin defter değerleri düşülmek suretiyle belirler:
+(i) Ertelenmiş edinme maliyetleri;
+ve
+(ii)
+Portföy
+transferi veya işletme birleşmelerinde edinilenler gibi maddi olmayan duran
+varlıkları (bakınız: 31 ve 32 nci Paragraf). Bununla birlikte, ilgili
+reasürans varlıkları, sigortacı tarafından ayrı olarak
+muhasebeleştirildiklerinden dikkate alınmaz (bakınız: 20 nci
+Paragraf).
+(b) (a)
+fıkrasında tanımlanan tutarın, ilgili sigorta borçlarının “TMS 37 Karşılıklar, Koşullu Borçlar
+ve Koşullu Varlıklar” Standardı kapsamında olmuş olması durumunda oluşması gereken
+defter değerinden az olup olmadığının belirlenmesi gerekir. Eğer daha az ise,
+sigortacı, tüm farkı kâr veya zararda muhasebeleştirir
+ve ilgili ertelenmiş edinme maliyetlerinin veya maddi olmayan duran
+varlıkların defter değerini azaltır ya da sigorta borçlarının defter değerini artırır.
+18. Sigortacının borç yeterlilik testinin 16 ncı Paragrafın asgari koşullarını karşılaması durumunda, söz
+konusu test, testin kendisinde belirlenen toplam düzeyde uygulanır. Eğer sigortacının borç yeterlilik testi söz konusu
+asgari koşulları karşılamıyorsa, 17 nci Paragrafta yer
+verilen karşılaştırma işlemi, tek bir portföy olarak birlikte yönetilen ve
+genelde benzer risklere tabi olan sözleşmeler portföyü düzeyinde yapılmış
+olmalıdır.
+19. Ancak ve ancak, 17 (a) Paragrafında yer
+alan tutarın gelecek yatırım marjlarını yansıtması durumunda, 17 (b)
+Paragrafında belirtilen tutar da (yani TMS 37’nin uygulanması sonucunda),
+gelecek yatırım marjlarını yansıtır (bakınız: 27-29 uncu Paragraflar).
+Reasürans varlıklarının değer
+düşüklüğü
+20. Sedan
+işletmenin reasürans varlığında değer düşüklüğü olması durumunda, söz konusu
+işletme buna uygun olarak defter değerini azaltır ve anılan değer düşüklüğü
+zararını kâr
+veya zararda muhasebeleştirir. Reasürans
+varlığı, ancak ve ancak aşağıdaki koşullarda değer düşüklüğüne uğrar:
+(a)
+Reasürans varlığın ilk muhasebeleştirilmesinden sonra meydana gelen bir
+olayın sonucunda, sedan
+işletmenin, sözleşme koşulları dahilinde ilgili varlığa ilişkin tutarların
+tamamını alamayabileceğine dair objektif bir kanıt bulunması; ve
+(b)
+Bu olayın, sedan işletmenin reasürörden tahsil
+edeceği tutarlar üzerinde güvenilir şekilde ölçülebilen bir etkisinin olması.
+Muhasebe politikalarındaki değişiklikler
+21. 22-30 uncu Paragraflar, hem halen TFRS’leri
+uygulamakta olan sigortacının yaptığı değişikliklere hem de TFRS’leri ilk defa uygulayan sigortacının yaptığı
+değişikliklere uygulanır.
+22. Sigortacı, sigorta sözleşmelerine
+ilişkin muhasebe politikalarını, ancak ve ancak, ilgili değişikliğin finansal tabloları kullanıcıların ekonomik karar alma
+ihtiyaçlarına daha uygun bir hale getirmekte ve daha az güvenilir olmasını
+engellemekte ya da daha güvenilir yapmakta ve kullanıcıların
+ihtiyaçlarına daha az uygun olmasını engellemekte ise değiştirebilir.
+Sigortacı, uygunluk ve güvenilirliğe TMS 8’de yer alan kriterler çerçevesinde
+karar verir.
+23. Sigorta sözleşmelerine ilişkin muhasebe politikalarını
+değiştirmenin gerekliliğini göstermek için, sigortacı, bu değişikliğin finansal tablolarını TMS 8’deki kriterleri karşılamaya
+daha yakınlaştırdığını gösterir, fakat bu değişikliğin, söz konusu
+kriterlerle tam bir uyum sağlamasına gerek yoktur. İzleyen konular aşağıda belirtilmiştir:
+(a) Cari faiz oranları (
+24 üncü Paragraf );
+(b) Mevcut uygulamaların devamı (25 inci Paragraf);
+(c) İhtiyatlılık (26 ncı Paragraf);
+(d) Gelecekteki yatırım marjları (27-29 uncu Paragraflar); ve
+(e) Gölge muhasebe (30 uncu Paragraf).
+Cari piyasa faiz oranları
+24. Sigortacının, belirlenmiş sigorta borçlarını[2] cari
+piyasa faiz oranları yansıtılmak suretiyle yeniden ölçmesi ve bu borçlardaki
+değişiklikleri kâr veya zararda muhasebeleştirmesi
+amacıyla muhasebe politikalarını değiştirmesine izin verilir, fakat anılan
+konuda zorunlu tutulmaz. Aynı zamanda, sigortacı, belirlenmiş borçlarına
+ilişkin diğer cari tahminleri ve varsayımları düzenleyen muhasebe
+politikalarını da uygulamaya başlayabilir. Bu Paragraftaki seçim, sigortacıya,
+TMS 8 aksini öngörmesine rağmen, belirlenmiş borçlarına ilişkin muhasebe
+politikalarını tutarlı bir şekilde, benzer tüm borçlarına uygulamaksızın, söz
+konusu politikalarını değiştirmesine izin verir. Sigortacı anılan seçimlere
+ilişkin borçlarını tespit edebilmesi durumunda,
+ortadan kalkana kadar söz konusu borçlarının tamamına cari piyasa faiz
+oranlarını (uygulanabilmesi durumunda, diğer cari tahmin ve varsayımları) tüm
+dönemlerde tutarlı bir şekilde uygulamaya devam eder.
+Mevcut
+uygulamaların devamı
+25. Sigortacı aşağıdaki uygulamalara devam edebilir, fakat
+bunlardan herhangi birini uygulamaya başlaması 22 nci
+Paragrafa uyulmuş olduğunu göstermez:
+(a) Sigorta borçlarının iskonto edilmemiş bir
+esas üzerinden ölçülmesi.
+(b) Gelecekteki yatırımların yönetim ücretlerine ilişkin
+sözleşmeye dayalı hakların, benzer hizmetler dolayısıyla diğer piyasa
+katılımcıları tarafından ödenen cari ücretlerle karşılaştırılması suretiyle
+dolaylı olarak belirlenen gerçeğe uygun değerini aşan bir tutarda ölçülmesi.
+Bu sözleşmeye dayalı hakların başlangıçtaki gerçeğe uygun değerlerinin,
+gelecekteki yatırım yönetim ücretleri ve ilişkili giderlerin
+karşılaştırılabilir piyasanın dışına çıkmadıkça, ödenen gerçekleşmiş
+giderlere eşit olması olasıdır.
+(c) 24 üncü Paragrafta izin verilen hariç, bağlı ortaklıkların (ve varsa
+ilişkili ertelenmiş edinme maliyetleri ve ilişkili maddi olmayan varlıklar)
+sigorta sözleşmelerine ilişkin tek-düze olmayan muhasebe politikaları kullanması. Eğer bu muhasebe politikaları tek düze değilse, sigortacı, bu
+muhasebe politikalarını, değişikliğin muhasebe politikalarını daha çok
+farklılaştırmaması ve bu TFRS’deki diğer
+düzenlemelere uyması durumunda değiştirebilir.
+İhtiyatlılık
+26. Sigortacının, sigorta sözleşmelerine ilişkin muhasebe
+politikalarını aşırı ihtiyatlılığı ortadan kaldırmak maksadıyla
+değiştirmesine gerek yoktur. Bununla birlikte, eğer sigortacı sigorta
+sözleşmelerini halihazırda yeterli ihtiyatlılıkla ölçüyorsa, ek ihtiyatlılık
+uygulamasına başlamaz.
+Gelecekteki
+yatırım marjları
+27. Sigortacının, sigorta sözleşmelerine ilişkin muhasebe
+politikalarını, gelecekteki yatırım marjlarını ortadan kaldırmak maksadıyla
+değiştirmesine gerek yoktur. Bununla birlikte, eğer sigortacı, gelecekteki
+yatırım marjları sözleşmeye dayalı ödemeleri etkilemedikçe, sigorta
+sözleşmelerinin ölçülmesinde bu marjları
+yansıtan bir muhasebe politikasını uygulamaya başlarsa, sigortacının finansal tablolarının daha az ihtiyaca uygun ve güvenilir
+olacağına dair aksi ispat edilene kadar hukuken geçerli
+bir öngörü bulunmaktadır. Bu marjları yansıtan muhasebe politikalarına ilişkin
+iki farklı örnek şu şekilde verilebilir :
+(a)
+Sigortacının varlıkları üzerindeki tahmini getiriyi yansıtan bir iskonto oranını kullanması; veya
+(b)
+Bu varlıklar
+üzerindeki getirilerin tahmini bir getiri oranı üzerinden projeksiyonunun yapılması,
+projeksiyonu yapılan bu getirilerin farklı bir orandan iskonto
+edilmesi ve borcun
+ölçümündeki sonuca dahil edilmesi.
+28. Sigortacı, 27 nci Paragrafta yer
+alan öngörüyü, ancak ve ancak, muhasebe politikalarındaki değişikliğin diğer
+unsurlarının, finansal tabloların ihtiyaca
+uygunluğu ve güvenilirliğinde meydana getirdiği artışın, gelecekteki yatırım
+marjlarının dahil edilmesinin ihtiyaca uygunluk ve güvenilirlikte yarattığı
+azalmayı aşmaya yetecek tutarda olması durumunda ortadan kaldırabilir. Örneğin, sigortacı sigorta
+sözleşmelerinde uygulamakta olduğu mevcut muhasebe politikalarında,
+gereğinden fazla ihtiyatlı varsayımlar öngörmüş ve bir düzenleyici kurum
+tarafından piyasa koşulları doğrudan dikkate alınmaksızın belirlenmiş bir iskonto oranını kullanmış ve sözleşmede saklı olması
+gereken bazı opsiyon ve garantileri ihmal etmiş olsun. Sigortacı, finansal tablolarını,
+yaygın bir şekilde kullanılan ve aşağıdakileri gerektiren kapsamlı bir yatırımcı bazlı
+muhasebeleştirmeye döndürmek suretiyle ihtiyaca daha uygun ve daha az güvenilir olmayan bir duruma
+getirebilir:
+(a)
+Cari tahmin ve varsayımlar;
+(b)
+Risk ve belirsizliği yansıtacak makul (fakat aşırı şekilde ihtiyatlı
+olmayan) düzeltmeler;
+(c)
+Saklı tutulan opsiyon ve garantilerin hem esas hem de zaman değerini
+yansıtan ölçümler; ve
+(d)
+Sigortacının varlıklarının tahmini getirisini yansıtmakta olsa bile, piyasa
+cari iskonto oranı.
+29. Bazı ölçüm yaklaşımlarında, iskonto oranı gelecekteki bir kâr marjının şimdiki
+değerini belirlemek için kullanılır. Bu kâr marjı, daha sonra bir formül
+kullanarak farklı dönemlerle ilişkilendirilir. Bu yaklaşımlarda, iskonto oranı, borcun ölçümünü sadece dolaylı şekilde
+etkiler. Özellikle, daha az uygun bir iskonto
+oranının kullanılmasının, borcun başlangıçtaki ölçümü üzerine hiçbir etkisi
+yoktur veya sınırlı bir etkisi vardır. Bununla
+birlikte, diğer yaklaşımlarda, iskonto
+oranı, borcun ölçümünü direkt
+olarak belirler. Bu son durumda, varlık bazlı bir iskonto
+oranının kullanılmaya başlanması daha önemli bir etkiye sahip olduğu için,
+sigortacının Paragraf 27’de bahsedilen karineyi çürütebilmesi yüksek bir olasılık değildir.
+Gölge muhasebe
+30. Bazı muhasebe
+modellerinde, sigortacının varlıklarından elde ettiği gerçekleşmiş kazanç ve
+kayıplarının, (a) sigorta borçlarının, (b) ilgili ertelenmiş edinme
+maliyetlerinin ve (c) 31 ve 32 nci Paragraflarda
+tanımlandığı gibi ilgili maddi olmayan duran varlıklarının tamamının veya bir
+kısmının ölçümüne doğrudan bir etkisi bulunmaktadır. Sigortacının, bir varlıktan
+elde ettiği muhasebeleştirilmiş fakat gerçekleşmemiş kazanç veya
+kayıplarının, gerçeklemiş kazanç veya kayıplarının ölçümündeki etkisine benzer bir şekilde etkilemesi amacıyla muhasebe politikalarını
+değiştirmesine izin verilir, fakat bu konuda zorunlu tutulmaz. Sigorta
+borçlarına (veya ertelenmiş edinme maliyetleri veya maddi olmayan duran varlıklarının)
+ilişkin söz konusu düzeltmeler, ancak ve ancak gerçekleşmemiş kazanç veya
+kayıpların doğrudan özkaynaklar içerisinde muhasebeleştirilmiş olduğu durumlarda özkaynaklarda muhasebeleştirilir.
+Bu uygulama, bazen, “gölge muhasebe” olarak da nitelendirilir.
+Bir ticari birleşme veya portföy devri dolayısıyla edinilen sigorta sözleşmeleri
+31. Sigortacı, “TFRS 3 İşletme
+Birleşmeleri” Standardı ile
+uyumlu olmak için, iş birleşmesinden üstlendiği sigorta borçlarını ve edinmiş olduğu sigorta
+varlıklarını edinme tarihinde gerçeğe
+uygun değerde ölçer. Bununla birlikte, sigortacının, edinmiş olduğu sigorta sözleşmelerinin söz konusu gerçeğe uygun
+değerini aşağıda yer alan iki kısma bölen, genişletilmiş bir sunum
+kullanmasına izin verilir, ancak bu işlemden zorunlu tutulmaz:
+(a)
+Sigortacının,
+düzenlenen sigorta sözleşmelerine ilişkin muhasebe politikalarıyla uyumlu şekilde
+ölçülen
+borcu; ve
+(b) (i) Sözleşmeye dayalı olarak takip edilen sigorta
+haklarının ve üstlenilen sigorta borçlarının gerçeğe uygun değeri ile (ii) (a)’da tanımlanan tutar arasındaki farkı gösteren
+maddi olmayan duran varlığı. Bu varlığın takip eden ölçümleri, ilgili sigorta borcunun
+ölçümü ile tutarlı olur.
+32. Sigorta sözleşme
+portföyü edinen sigortacı, 31 inci Paragrafta yer verilen genişletilmiş
+sunumu kullanabilir.
+33. 31 ve 32 inci Paragraflarda tanımlanan maddi olmayan
+varlıklar, “TMS 36 Varlıklarda Değer
+Düşüklüğü” ve “TMS 38 Maddi
+Olmayan Duran Varlıklar” Standardı kapsamından muaf tutulmuştur. Bununla birlikte, TMS 36 ve TMS 38, bir portföy
+transferine veya işletme birleşmesi tarihinde var olan sözleşmeye dayalı
+sigorta hak ve borçlarının parçası olmayan gelecekteki sözleşmelerin beklentisini
+yansıtan müşteri listelerine ve müşteri ilişkilerine uygulanır.
+İsteğe bağlı
+katılım özellikleri
+Sigorta sözleşmelerinde isteğe
+bağlı katılım özellikleri
+34. Bazı sigorta sözleşmeleri, isteğe bağlı katılım özelliğine
+ilaveten garanti edilen bir unsur da içerir. Bu tür bir sözleşmeyi
+ihraç eden:
+(a) Garanti edilen unsuru, isteğe bağlı katılım özelliğinden
+ayrı olarak muhasebeleştirebilir, fakat buna gerek yoktur. İhraç edenin bunları
+ayrı olarak muhasebeleştirmemesi durumunda, bütün sözleşmelerini borç olarak
+sınıflandırır. İhraç edenin bunları ayrı
+olarak sınıflandırması durumunda, garanti edilen unsur, borç olarak
+sınıflandırılır.
+(b) İhraç edenin, isteğe bağlı katılım özelliğini garanti
+edilen unsurdan ayrı olarak muhasebeleştirmesi durumunda, bu özelliği, ya bir borç ya da özkaynağın ayrı bir unsuru olarak sınıflandırır. Bu TFRS,
+ihraç edenin bu özelliğin borç veya özkaynak olup
+olmadığını nasıl tespit edeceğini belirlemez. İhraç eden bu özelliği borç ve özkaynak unsurları şeklinde ayrıştırabilir ve bu
+ayrıştırmaya ilişkin tutarlı bir muhasebe politikası kullanır. İhraç eden bu özelliği ne özkaynak
+ne de borç olmayan ara bir kategori olarak sınıflandırmaz.
+(c) Alınmış olan bütün primler, özkaynak
+unsuruna ait olan herhangi bir kısmı ayrılmaksızın, gelir olarak muhasebeleştirilebilir.
+Borç olarak sınıflandırılan isteğe bağlı katılım özelliği kısmı ve garanti
+edilmiş unsurda meydana gelen değişikliklerin sonuçları kâr veya zararda muhasebeleştirilir. Eğer isteğe bağlı katılım özelliğinin
+tümü veya bir kısmı özkaynaklar içinde sınıflandırılırsa,
+kâr veya zararın bir kısmı bu özelliğe yüklenebilir (bu özelliğin bir kısmı da benzer bir şekilde azınlık paylarına yüklenebilir).
+İhraç eden, bir isteğe bağlı katılım özelliğinin herhangi bir özkaynak unsuruna yüklenen kâr veya zarar kısmını, gelir
+veya gider olarak değil, kâr veya zararın tahsis edilmesi işlemi olarak muhasebeleştirir.
+(bakınız:
+TMS 1 Finansal Tabloların Sunuluşu).
+(d) Söz konusu
+sözleşmenin, TMS 39’un kapsamı içine giren melez bir üründe saklı türev ürün içermesi
+durumunda, söz konusu türev ürüne TMS 39 uygulanır.
+(e) İhraç eden, 14-20 ve 34(a)-(d) Paragraflarında yer
+almayan bütün hususlarda, bu tür sözleşmelere ilişkin mevcut muhasebe
+politikalarını 21-30 uncu Paragraflarla uyumlu bir şekilde değiştirmedikçe,
+anılan muhasebe politikalarını uygulamaya devam eder.
+Finansal araçlarda isteğe bağlı katılım özellikleri
+35. 34 üncü Paragrafta
+yer alan düzenlemeler, aynı zamanda, isteğe bağlı bir katılım özelliği
+içeren finansal araçlara da uygulanır. Buna ek
+olarak:
+(a) İhraç edenin, isteğe bağlı tüm katılım
+özelliklerini borç olarak sınıflandırmış olması durumunda, tüm sözleşmeye
+(yani hem garanti edilmiş unsura, hem de isteğe bağlı katılım özelliğine)
+15-19 uncu Paragraflarda yer alan borç yeterlilik testi uygulanır. İhraç edenin,
+garanti edilmiş unsura TMS 39’un uygulanması sonucunda ortaya çıkacak tutarı
+belirlemesine gerek yoktur.
+(b) İhraç edenin, söz konusu özelliğin
+tümünü veya bir kısmını özkaynağın ayrı bir unsuru
+olarak sınıflandırmış olması durumunda, tüm sözleşmeye ilişkin olarak
+muhasebeleştirilmiş olan borç, garanti edilen unsura TMS 39’un
+uygulanmasından ortaya çıkacak tutardan daha az olmaz. Anılan tutar, ilgili
+sözleşmeden dönme opsiyonunun esas değerini kapsar,
+fakat 9 uncu Paragrafın söz konusu opsiyonu gerçeğe uygun değer ile ölçülmekten
+muaf tutması durumunda, sözü edilen tutarın, zaman değerini kapsamasına gerek
+yoktur. İhraç edenin, garanti edilen unsura TMS 39’un uygulanması neticesinde
+ortaya çıkacak tutarı açıklamasına veya bu tutarı ayrı olarak sunmasına gerek
+yoktur. Ayrıca, eğer muhasebeleştirilen toplam borç açık bir şekilde daha
+yüksekse, ihraç edenin bu tutarı belirlemesine gerek yoktur.
+(c) Söz konusu sözleşmeler finansal araç olmalarına rağmen,
+ihraç eden, bu sözleşmelerin primlerini gelir olarak muhasebeleştirmeye ve borçların defter
+değerlerinde ortaya çıkan artışı gider olarak dikkate
+almaya devam edebilir.
+Açıklama
+Muhasebeleştirilmiş tutarların
+açıklanması
+36. Sigortacı, sigorta sözleşmelerinden
+kaynaklanan tutarları tanımlayan ve gösteren bilgileri finansal
+tablolarında açıklar.
+37. 36 ncı Paragraf gereğince
+sigortacı, aşağıda yer alanları kamuoyuna açıklar:
+(a) Sigorta sözleşmelerine ilişkin
+muhasebe politikalarını ve ilgili varlık, borç, gelir ve giderleri.
+(b)
+Sigorta sözleşmelerinden kaynaklanan muhasebeleştirilen varlık, borç,
+gelir ve giderleri (ve, nakit akım tablosunu direkt metodu kullanmak
+suretiyle sunması durumunda, nakit akımlarını). Ayrıca, sigortacının bir
+sedan işletmesi olması durumunda, aşağıdakiler de açıklanır:
+(i) Satın alınan reasürans nedeniyle
+kâr veya zararda muhasebeleştirilmiş kazanç ve kayıplar; ve
+(ii) Sedan işletmenin satın almış
+olduğu reasüranstan kaynaklanan kazanç ve kayıpları ertelemekte ve üzerinden
+amortisman ayırmakta olması durumunda, dönem
+amortismanı ve dönem başı ve sonu itibariyle geri kalan üzerinden amortisman
+ayrılmamış tutarlar.
+(c)
+(b)’de yer alan muhasebeleştirilmiş tutarların ölçümünde en büyük etkiye
+sahip olan varsayımların belirlenmesine ilişkin süreç. Mümkün olması
+durumunda, sigortacı bu varsayımların miktarsal açıklamasını da yapar.
+(d)
+Finansal tablolar üzerinde önemli etkiye sahip olan her
+değişikliğin etkisini ayrı olarak göstererek sigorta varlık ve borçlarının
+ölçümünde kullanılan varsayımlardaki değişikliklerin etkilerini.
+(e)
+Sigorta borçları, reasürans varlıkları ve olması durumunda ilgili
+ertelenmiş edinme maliyetlerindeki değişikliklerin mutabakatı.
+Nakit akışlarının tutarı,
+zamanlaması ve belirsizliği
+38. Sigortacı, finansal
+tablo kullanıcılarının, sigorta sözleşmelerinden doğan gelecekteki nakit akışlarının
+tutarını, zamanlamasını ve belirsizliğini anlamasına yardımcı olacak
+bilgileri kamuoyuna açıklar.
+39. 38 inci Paragraf gereğince sigortacı, aşağıdakileri kamuoyuna
+açıklar:
+(a)
+Sigorta sözleşmelerinden kaynaklanan risklerin yönetilmesindeki amacını
+ve bu risklerin azaltılmasına ilişkin politikalarını.
+(b)
+Sigortacının gelecekteki nakit akışlarının tutarı, zamanlaması ve
+belirsizliği üzerinde önemli etkiye sahip olan sigorta sözleşmelerinin koşul
+ve şartlarını
+(c)
+Aşağıdakiler hakkındaki bilgiler dahil, sigorta riski hakkındaki bilgileri (hem reasürans yoluyla
+riskin azaltılmasının öncesi, hem de sonrası):
+(i)
+Bunlar üzerinde önemli etkiye sahip olan değişkenlerdeki değişikliklere
+ilişkin kâr veya zarar ile özkaynağın duyarlılığı.
+(ii)
+Sigorta riskinin yoğunlaşmaları.
+(iii)
+Gerçekleşen hasarların geçmiş tahminlerle
+karşılaştırılması (yani hasarların gelişim süreci). Hasarların gelişimi
+hakkındaki açıklamalar, bunlara ilişkin ödemelerin tutar ve zamanlamalarına
+ilişkin halen bir belirsizlik olması durumunda, herhangi önemli bir hasarın gerçekleşmiş
+olduğu en erken döneme kadar geri gidilir, fakat on yıldan daha geriye
+gitmeye gerek yoktur. Sigortacının, bir
+yıl içinde normalde sonuçlandıracağı hasar ödemelerinin tutar ve
+zamanlamaları hakkındaki belirsizlik olması durumunda, ilgili hasarlara
+ilişkin söz konusu bilgiyi açıklamasına gerek yoktur.
+(d)
+Sigorta sözleşmelerinin TMS 32 kapsamına girmiş olmaları durumunda, TMS
+32’nin öngörmüş olduğu faiz oranı riski ve kredi riskine ilişkin bilgileri.
+(e)
+Sigortacının melez ürünlerde saklı türev ürünlerini gerçeğe uygun değeri
+ile ölçmemiş olduğu ve bu konu da zorunlu da tutulmamış olduğu durumlarda,
+ana sigorta sözleşmesinin içinde yer alan melez üründe saklı türev ürünler
+dolayısıyla maruz kalınan faiz oranı riskine veya piyasa riskine ilişkin
+bilgi.
+Geçerlilik tarihi ve geçiş
+40. 41-45 inci Paragraflardaki geçiş
+hükümleri, bu TFRS’yi ilk kez uyguladığı zaman TFRS’leri halihazırda uygulamakta olan işletmeler için ve
+TFRS’leri ilk defa uygulayan (ilk kez uygulayıcı) işletmeler
+için uygulanır.
+41. “-“
+41A. “-“
+Açıklama
+42. İşletmenin, 37(a) ve (b) Paragrafında öngörülen sigorta sözleşmelerine ilişkin
+muhasebe politikaları ve muhasebeleştirilmiş varlık, borç, gelir ve giderler
+(ve direkt metodun kullanılmış olduğu durumlarda nakit akımlarını) hakkındaki
+açıklamalar hariç olmak üzere, bu TFRS’ deki açıklamaya ilişkin düzenlemeleri
+1 Ocak 2005’ten önce başlayan yıllık dönemlere ilişkin karşılaştırmalı bilgilere
+uygulamasına gerek yoktur.
+43. Eğer 1 Ocak 2005’ten önce başlayan yıllık dönemlere
+ilişkin karşılaştırmalı bilgiler için 10-35 inci Paragrafların belirli bir
+hükmünün uygulanması pratik değilse, işletme anılan durumu açıklar. Borç yeterlilik testinin (15-19 uncu Paragraflar) bu tür
+karşılaştırmalı bilgilere uygulanması bazen pratik olmayabilir, fakat bu tür
+karşılaştırmalı bilgilere 10-35’nci Paragraflarda yer alan diğer hükümlerin
+uygulanmasının pratik olmaması olasılığı oldukça düşüktür. TMS 8 “pratik
+olmama” terimini açıklar.
+44. 39(c) (iii) Paragraf
+uygulanmasında işletmenin, bu TFRS’ yi uyguladığı ilk mali yılın sonundan önceki
+beş yıldan önceki bir tarihte gerçekleşmiş
+hasarların gelişim süreçleri hakkındaki bilgileri açıklama zorunluluğu
+yoktur. Buna ek olarak, işletmenin bu TFRS ile uyumlu olarak tam karşılaştırılabilir
+bilgi sunduğu en erken dönemden önceki bir dönemde gerçekleşen hasarların
+gelişim süreçlerine ilişkin bilgi vermesinin mümkün olmaması durumunda,
+işletme bu durumu kamuoyuna açıklar.
+Finansal varlıkların yeniden düzenlenmesi
+45. Sigortacının sigorta borçlarına ilişkin muhasebe
+politikalarını değiştirmesi durumunda, finansal varlıklarının
+bir kısmını veya tamamını gerçeğe uygun değeri üzerinden kâr veya zararda
+muhasebeleştirmek üzere yeniden sınıflandırmasına izin verilir, fakat bu
+hususta zorunlu tutulmaz. Sigortacının bu TFRS’yi
+ilk kez uyguladığında muhasebe politikalarını değiştirmesi ve bu değişikliğin
+22 nci Paragrafta izin verilen izlenen bir politika
+değişikliği niteliğinde olması durumunda, söz konusu yeniden sınıflandırmaya
+izin verilir. Söz konusu yeniden sınıflandırma işlemi bir muhasebe politikası
+değişikliğidir ve anılan işleme TMS 8 uygulanır.
+Ek A
+Terimlere ilişkin tanımlar
+Bu Ek
+,TFRS’nin ayrılmaz bir parçasıdır.
+Sedan işletme
+Reasürans sözleşmesine göre sigortalı.
+Birikim unsuru
+TMS 39’a göre türev ürün olarak muhasebeleştirilmeyen ve eğer ayrı bir
+yatırım aracı olsaydı TMS 39 kapsamında olacak olan bir sözleşme unsuru.
+Doğrudan sigorta sözleşmesi
+Reasürans sözleşmesi niteliğinde olmayan sigorta sözleşmesi.
+İsteğe bağlı katılım özelliği
+Garanti edilen faydalara ilaveten, aşağıda yer alan ek faydalara sahip
+olmaya yönelik sözleşmeye dayalı bir haktır;
+(a)
+Sözleşmeye dayalı toplam faydaların önemli bir kısmını teşkil etmeye
+namzet;
+(b)
+Tutarı ve zamanlaması sözleşme gereği ihraç edenin takdirinde olan; ve
+(c)
+Sözleşme gereği aşağıdakilere dayalı olan:
+(i) Belirli bir sözleşmeler havuzunun veya
+belirli bir sözleşme türünün performansına;
+(ii) İhraç eden
+tarafından elde tutulan belirli bir varlık havuzunun gerçekleşmiş ve/veya
+gerçekleşmemiş yatırım getirilerine; veya
+(iii)
+Sözleşme ihraç eden şirketin, fonun veya başka bir işletmenin kâr veya
+zararına.
+Gerçeğe uygun değer
+Karşılıklı pazarlık ortamında, bilgili ve istekli gruplar arasında bir
+varlığın el değiştirmesi ya da bir borcun
+ödenmesi durumunda ortaya çıkması gereken tutardır.
+Finansal garanti sözleşmesi
+İhraç edene, belirli bir borçlunun bir borçlanma aracının orijinal veya
+tadil edilmiş koşullarıyla uyumlu vadesi gelmiş ödemelerini yapamaması nedeniyle zarar sahibine oluşan zararı karşılamak
+için belirli ödemeleri yapmasını zorunlu kılan bir sözleşmedir.
+Finansal risk
+Değişkeni sözleşmenin taraflarından birine özgü olmayan finansal olmayan bir değişken durumunda; belirli bir
+faiz oranı, finansal araç fiyatı, mal fiyatı,
+döviz kuru, faiz veya fiyat endeksleri, kredi notu veya kredi endeksi veya
+diğer değişkenlerin bir veya daha fazlasındaki gelecekte olası bir
+değişiklik riski.
+Garanti edilen faydalar
+Belirli bir sigortalı ya da yatırımcının, ihraç edenin sözleşmeye dayalı
+takdir yetkisine bağlı olmaksızın, koşulsuz olarak hakkı olan tahsilatlar
+ve diğer faydalar.
+Garanti edilen unsur
+İsteğe bağlı katılım özelliği içeren bir sözleşmeye
+dahil edilmiş garanti edilen faydaların ödemesine ilişkin yükümlülük.
+Sigorta varlığı
+Sigorta sözleşmesine göre sigortacının sözleşmeye dayalı
+net hakları.
+Sigorta sözleşmesi
+Gelecekteki belirli bir kesin olmayan olayın (sigorta konusu olay)
+sigortalıyı olumsuz bir şekilde etkilemesi halinde sigortalıya tazminat
+ödemeyi kabul ederek bir tarafın (sigortacı) diğer taraftan (sigortalı) önemli bir sigorta
+riskini kabul ettiği sözleşme (bu tanıma ilişkin rehber için Ek B’ye bakınız).
+Sigorta borcu
+Sigorta sözleşmesine göre sigortacının
+sözleşmeye dayalı net yükümlülükleri.
+Sigorta riski
+Finansal riskten
+başka sözleşmenin hamilinden ihraç edene devredilen risktir.
+Sigorta konusu olay
+Sigorta sözleşmesi tarafından teminat altına alınan ve sigorta riski
+yaratan gelecekteki belirsiz bir olaydır.
+Sigortacı
+Sigorta konusu olayın gerçekleşmesi halinde, sigorta sözleşmesine göre
+sigortalıya bir tazminat ödemekle yükümlü olan taraftır.
+Borç yeterlilik testi
+Gelecekteki nakit akışlarının gözden geçirilmesine dayanılarak, sigorta
+borçlarının defter değerinin arttırılmasına (veya ilgili ertelenmiş edinme
+maliyetlerinin veya maddi olmayan varlıkların defter değerlerinin
+azaltılmasına) ihtiyaç olup olmadığına ilişkin olarak yapılan bir
+değerlendirmedir.
+Sigortalı
+Sigorta konusu olayın gerçekleşmesi halinde
+sigorta sözleşmesine göre tazminat alma hakkı olan taraftır.
+Reasürans varlıkları
+Reasürans sözleşmesine göre
+sedan işletmenin sözleşmeye dayalı net hakları.
+Reasürans sözleşmesi
+Sedan işletme tarafından düzenlenen bir ya da
+daha fazla sözleşmeden doğabilecek hasarların sigortacı (reasürör) tarafından
+diğer bir sigortacıya (sedan işletme) karşılanması amacıyla düzenlenen
+sigorta sözleşmesidir.
+Reasürör
+Reasürans sözleşmesine göre
+sigorta konusu olayın gerçekleşmesi halinde sedan işletmeye tazminat
+ödemekle yükümlü olan taraftır.
+Ayrıştırma
+Sözleşmenin unsurlarının ayrı sözleşmelermiş gibi
+muhasebeleştirilmesidir.
+Ek B
+Bir sigorta sözleşmesinin tanımı
+Bu Ek,
+TFRS’nin ayrılmaz bir parçasıdır.
+B1. Bu Ek, Ek A’daki sigorta sözleşmesinin
+tanımlanmasında uygulamaya açıklık getirir. Bu Ek, aşağıdaki konuları
+düzenler:
+(a) ‘Gelecekteki belirsiz olay’
+terimi (B2-B4 Paragrafları);
+(b) Ayni ödemeler (B5-B7 Paragrafları);
+(c) Sigorta riski ve diğer riskler
+(B8-B17 Paragrafları);
+(d) Sigorta sözleşmesi örnekleri
+(B18-B21 Paragrafları);
+(e) Önemli sigorta riski (B22-B28 Paragrafları);
+ve
+(f) Sigorta riski seviyesindeki
+değişiklikler (B29 ve B30 Paragrafları).
+Gelecekteki belirsiz olay
+B2. Belirsizlik (veya risk) sigorta sözleşmesinin esasıdır.
+Buradan hareketle, sigorta sözleşmesinin başlangıcında aşağıdakilerden en az
+birisi belirsizdir :
+(a) Sigorta konusu olayın
+gerçekleşip gerçekleşmeyeceği;
+(b) Ne zaman gerçekleşeceği veya
+(c) Gerçekleşmesi halinde
+sigortacının ne kadar ödemesi gerekeceği.
+B3. Bazı sigorta sözleşmelerinde, hasar sözleşmenin
+başlangıcından önce oluşan bir olaydan kaynaklanmış olsa bile, sigorta konusu
+olay sözleşmenin süresi boyunca ortaya çıkan hasardır. Diğer sigorta
+sözleşmelerinde, hasarın sonuçlanması sözleşme süresinden sonra tespit edilse
+bile, sigorta konusu olay sözleşme süresi içinde oluşmuş bir olaydır.
+B4. Bazı sigorta sözleşmeleri, daha önce oluşmuş fakat finansal etkisi hala belirsiz olan olaylara teminat
+verir. Örnek olarak, sigortalı tarafından daha önce bildirilmiş hasarların
+olumsuz yönde gelişmesine karşın doğrudan sigortacıya teminat veren reasürans
+sözleşmesi gösterilebilir. Bu tür sözleşmelerde sigorta konusu olay, bu
+hasarların azami maliyetinin ortaya çıkarılmasıdır.
+Ayni ödemeler
+B5. Bazı sigorta sözleşmeleri ödemelerin ayni olarak
+yapılmasını öngörür veya buna izin verir. Örnek olarak, sigortacı sigortalıya
+geri ödeme yapması yerine çalınan şeyi doğrudan yerine koyabilir. Bir başka
+örnek, sigortacının sözleşme tarafından teminat verilen sağlık hizmetlerini
+sağlamak için kendi hastanelerini ve sağlık personelini kullanmasıdır.
+B6. Bazı ülkelerde sigorta sözleşmesi olarak düzenlenmemiş
+olmasına rağmen, hizmet seviyesi bu TFRS’deki
+sigorta sözleşmesi tanımına uyan belirsiz olaya bağlı bazı sabit ücretli
+hizmet sözleşmeleri vardır. Servis sağlayıcılarının, arızadan sonra belirli
+ekipmanlarla onarmayı kabul eden bakım sözleşmeleri buna bir örnektir. Bu
+sabit hizmet ücreti, beklenen arıza sayısına göre hesaplanır, ancak belirli
+bir makinenin arıza yapıp yapmayacağı belirsizdir. Ekipmanın arıza yapması,
+mal sahibini olumsuz yönde etkiler ve bu sözleşme mal sahibinin zararını
+karşılar (nakitten daha çok, ayni olarak). Bir başka örnek olarak, servis
+sağlayıcının yıllık sabit bir ücret karşılığında, ücretsiz yol bakım
+hizmetleri vermeyi ya da en yakın tamirhaneye
+çekmeyi kabul ettiği otomobil tamir hizmetlerine ilişkin bir sözleşme
+gösterilebilir. En son bahsedilen sözleşme, servis sağlayıcının parça değiştirmesini
+veya tamir etmesini kabul etmese bile, sigorta sözleşmesi tanımına uyabilir.
+B7. Paragraf B6’da tanımlanan sözleşmelere bu TFRS’nin uygulanmasının, söz konusu sözleşmeler bu TFRS’nin kapsamı dışında kalmış olsalardı uygulanabilecek
+olan TFRS’lerin uygulanmasından daha külfetli
+olmaması beklenir:
+(a) Halihazırda oluşmuş olan arıza
+ve hatalara ilişkin önemli borçların olma ihtimali zayıftır.
+(b) Eğer “TMS 18 Hasılat” Standardı
+uygulansaydı, servis sağlayıcısı tamamlanma aşamasına (ve diğer belirli
+kriterlere tabi) göre hasılatı muhasebeleştirecektir. Servis sağlayıcısının
+(i) 14 üncü Paragraf tarafından yasaklanan uygulamaları öngörmedikçe, bu
+sözleşmelere ilişkin mevcut muhasebe politikalarını sürdürmesine ve (ii) 22-30 uncu Paragraflarda izin verildiği sürece
+muhasebe politikalarını geliştirmesine izin veren söz konusu yaklaşım, aynı
+zamanda bu TFRS’ye göre kabul edilebilir.
+(c) Servis sağlayıcısı, sözleşmeye
+dayalı yükümlülükleri yerine getirmek için verdiği hizmetlerin maliyetinin,
+bu hizmet karşılığında peşin alınan geliri aşıp aşmadığını dikkate alır. Bunu
+yapabilmek için, bu TFRS’nin 15-19 uncu
+Paragraflarında bahsedilen borç yeterlilik testini uygular. Eğer bu TFRS söz
+konusu sözleşmelere uygulanmadıysa, servis sağlayıcısı sözleşmelerin ivazlı
+olup olmadığını tespit etmek için “TMS 37 Karşılıklar, Koşullu Borçlar ve
+Koşullu Varlıklar” Standardını
+uygular.
+(d) Söz konusu sözleşmeler için, bu TFRS’deki açıklamaya ilişkin düzenlemelerin diğer TFRS’lerin öngördüğü açıklamalara kayda değer ekler
+getirmesi olası değildir.
+Sigorta riski ve
+diğer riskler arasındaki farklar
+B8. Sigorta sözleşmesinin tanımı, finansal riskten başka bu TFRS’nin sigortalıdan ihraç edene devredilen riski olarak
+tanımladığı sigorta riskine işaret eder.
+İhraç edeni, önemli sigorta riski olmaksızın finansal
+riske maruz bırakan bir sözleşme sigorta sözleşmesi değildir.
+B9. Ek A’daki finansal
+risk tanımı, finansal ve finansal
+olmayan değişkenlerin bir listesini içerir. Bu liste, belirli bir bölgedeki
+deprem zararları endeksi veya belirli bir şehirdeki sıcaklık endeksi gibi sözleşmenin
+taraflarından birine özgü olmayan finansal olmayan
+değişkenleri kapsar. Bu liste, bir tarafın varlıklarına zarar veren veya yok
+eden bir yangının çıkması ya da çıkmaması gibi
+sözleşme taraflarından birine özgü olan finansal
+olmayan değişkenleri hariç tutar. Ayrıca, eğer gerçeğe uygun değer bu tür
+varlıkların yalnızca piyasa fiyatlarındaki değişiklikleri (finansal bir değişken) değil, aynı zamanda sözleşmenin
+bir tarafınca elde tutulan belirli finansal olmayan
+bir varlığın durumunu da (finansal olmayan
+değişken) yansıtıyorsa, finansal olmayan varlığın
+gerçeğe uygun değerindeki değişiklik riski finansal
+bir risk değildir. Örneğin, eğer belirli bir otomobilin hurda değerinin bir garantisi,
+garanti vereni otomobilin fiziki koşullarındaki değişikliklere ilişkin bir
+riske maruz bırakıyorsa, bu risk bir finansal risk
+değil, bir sigorta riskidir.
+B10. Bazı sözleşmeler ihraç
+edeni önemli sigorta riskine ilaveten finansal
+riske de maruz bırakır. Örneğin, hem sigortalıya asgari bir getiri oranını
+garanti eden (finansal risk yaratan) hem de çoğu
+zaman sigortalının hesap bakiyesini önemli şekilde aşan ölüme ilişkin
+menfaatleri ödemeyi taahhüt eden (ölüm riski şeklinde sigorta riski yaratan)
+çoğu hayat sigorta sözleşmeleri. Bu tür sözleşmeler sigorta sözleşmesidir.
+B11. Bazı sözleşmelere göre, sigorta konusu olay fiyat endeksine
+bağlanmış bir tutarın ödemesini başlatır. Bu tür sözleşmeler, sigorta konusu
+olayın gerçekleşme şartına bağlı ödeme önemli olduğu sürece sigorta
+sözleşmesidir. Örneğin, hayat standardı endeksine bağlanmış yaşam koşullu yıllık
+gelir sigortası, ödemesi belirsiz bir olay - gelir sigortalısının
+hayatta kalması - tarafından başlatılması nedeniyle sigorta riskini devreder.
+Fiyat endeksine bağlı olma, gömülü bir türev üründür, ama aynı zamanda
+sigorta riskini devreder. Eğer devredilen sigorta riskin sonuçlanması önemli
+ise, gömülü türev ürün sigorta sözleşmesi tanımına uymuş olmaktadır, bu
+durumda anılan türevin sözleşmeden ayrılmasına ve gerçeğe uygun değerden
+ölçülmesine gerek yoktur (bakınız: bu TFRS’nin 7 nci Paragrafı).
+B12. Sigorta riskinin tanımı, sigortacının sigortalıdan kabul
+ettiği riske atıfta bulunmaktadır. Başka bir deyişle, sigorta riski,
+sigortalıdan sigortacıya devredilen önceden var olan bir risktir. Buradan hareketle,
+sözleşme tarafından yaratılan yeni bir risk, sigorta riski değildir.
+B13. Sigorta sözleşmesinin tanımı, sigortalı aleyhinde bir etkiye
+atıfta bulunur. Bu tanım sigortacı tarafından yapılacak ödemeyi, olumsuz
+olayın finansal etkisine denk gelen bir tutarla
+sınırlamamaktadır. Örneğin, bu tanım sigortalının hasar görmüş bir varlığını
+yenisiyle değiştirmesine imkan veren ‘eskisinin yerine yenisi’ türündeki
+teminatları hariç bırakmamaktadır. Benzer biçimde, bu tanım, bir hayat
+sigortası sözleşmesindeki ödeme tutarını, lehdarlarının
+uğradığı finansal zararlarla sınırlamadığı gibi,
+önceden belirlenmiş tutarın ödenmesi, ölüm veya kaza nedeniyle oluşan zararın
+hesaplanma işleminin yapılmasına da engel olmaz.
+B14. Bazı sözleşmeler önceden tanımlanmış belirsiz bir olayın
+gerçekleşmesi halinde bir ödeme yapmayı öngörür, ancak, ödemeye ön koşul
+olarak sigortalıya olumsuz etki yapmasını öngörmez. Hamil, temelde
+yatan riske maruz kalmayı azaltmak için bu sözleşmeyi kullansa bile, bu tür
+sözleşmeler sigorta sözleşmesi değildir. Örneğin, hamili işletmenin bir
+varlığından doğan nakit akışlarıyla ilişkili olan temel bir finansal olmayan değişkeni riske karşı korumak için bir
+türev ürün kullanması halinde, ödeme varlıktan doğan nakit akışlarının
+azalmasından dolayı hamilinin olumsuz şekilde etkilenip etkilenmemesi
+koşuluna bağlı yapılmadığı için, bu türev ürün bir sigorta poliçesi değildir.
+Tam tersine bir sigorta sözleşmesi tanımında sigortalı üzerinde olumsuz bir
+etkiye sahip olan gelecekteki belirsiz bir olaya atıfta yapılması, ödeme için
+sözleşmeye göre ön koşuldur. Sözleşmedeki bu ön koşul, sigortacının olayın
+gerçekten olumsuz bir etkisinin olup olmadığını araştırmasını gerektirmez,
+ancak, sigortacının olayın olumsuz bir etkiye neden olduğu konusunda tatmin
+olmaması halinde sigortacının ödeme yapmayı reddetme izni verir.
+B15. Yenilenmeme veya yenilememe riski (yani, ihraç edenin
+sözleşmeyi fiyatlamasında beklenildiğinden daha önce veya sonrasında poliçeyi
+iptal etmeye yönelik karşı tarafa ilişkin risk) sigorta riski değildir, çünkü
+karşı tarafın ödemesi karşı tarafı olumsuz şekilde etkileyen gelecek belirsiz
+bir olay şartına bağlı değildir. Benzer şekilde, gider riski (yani, sigorta
+konusu olaylarla ilişkili maliyetlerdeki artıştan ziyade bir hizmet
+sözleşmesi ile ilişkili yönetim masraflarında beklenmedik artış riski)
+sigorta riski değildir, çünkü masraflardaki beklenmedik artış karşı tarafı
+olumsuz olarak etkilemez.
+B16. Bu yüzden, ihraç edeni yenilenme riski, yenilememe riski veya
+masraf riskine maruz bırakan bir sözleşme, ihraç edeni sigorta riskine de
+maruz bırakmadıkça sigorta sözleşmesi değildir. Bununla birlikte, o
+sözleşmeyi ihraç eden, riskin bir kısmını diğer bir tarafa devretmek için
+ikinci bir sözleşme kullanarak riski azaltırsa, bu ikinci sözleşme diğer
+tarafı sigorta riskine maruz bırakan hale getirir.
+B17. Sigortacı
+sigortalıdan ayrı bir işletme olduğu sürece, sigortalıdan önemli bir riski
+devralabilir. Mütüel sigortacı olması durumunda; bu
+mütüel işletme her sigortalıdan gelen riski kabul
+eder ve risk havuzu kurar. Sigortalılar havuzlanmış riski, şirket sahibi
+olarak kapasiteleri oranında kolektif olarak taşırlarsa bile, bu mütüel işletme bir sigorta sözleşmesinin özü olan riski
+kabul etmiş durumdadır.
+Sigorta sözleşmesi örnekleri
+B18. Aşağıdaki sözleşmeler, devredilen risk önemli olduğu sürece
+sigorta sözleşmesidir :
+(a)
+Malın hırsızlığı veya hasarına karşı yapılan sigorta.
+(b)
+Ürün sorumluluğu, mesleki sorumluluk, bireysel sorumluluk veya yasal
+masraflara karşı yapılan sigorta.
+(c)
+Hayat sigortası veya önceden ödenmiş cenaze masrafları planları (her ne
+kadar ölüm kesin ise de, ölümün ne zaman olacağı veya bazı hayat
+sigortalarında ölümün sigorta tarafından teminat verilen süre içinde
+gerçekleşip gerçekleşmeyeceği belli değildir).
+(d)
+Yaşam koşullu yıllık gelir sigortası ve emeklilik ödemeleri (yani, yıllık
+gelir alanın ya da emeklinin, aksi takdirde onun
+yaşamında kalmasından olumsuz etkilenecek, bir yaşam standardının
+sürdürmesinde yardım eden belirsiz bir gelecek olay – yıllık gelir alanın ya da emeklinin yaşamını sürdürmesi - için tazminat sağlayan
+sözleşme)
+(e)
+İş göremezlik ya da tıbbi teminatlar
+(f)
+Garanti senetleri, kefalet senetleri, kati teminat mektupları ve geçici
+teminat mektupları (yani, başka bir tarafın sözleşmeden doğan
+yükümlülüklerini, mesela bir bina inşaatının yapılması gibi, yerine getirememesi
+halinde tazminat ödenmesini sağlayan sözleşmeler)
+(g)
+Belirli bir borçlunun bir borçlanma aracının orijinal ya da değiştirilmiş koşullarına göre vadesi gelmiş
+borcunu ödeyememesi nedeniyle ortaya çıkan zararın hamiline karşılamak için
+belirli ödemeleri yapmasını sağlayan kredi sigortaları. Bu sözleşmelerin,
+garanti, kredi mektupların bazı türleri (akreditif (L/C)), temerrüde karşı
+geliştirilen türev ürünleri veya sigorta sözleşmeleri gibi çok çeşitli yasal
+biçimleri bulunmaktadır. Bununla birlikte, bu sözleşmeler bir sigorta
+sözleşmesi tanımını karşılamasına rağmen, bunlar aynı zamanda TMS 39’daki finansal garanti sözleşmesi tanımına uyuyor ve bu TFRS
+değil TMS 32 ve TMS 39 un kapsamındadır. Bunun yanında, eğer finansal garanti sözleşmelerini ihraç eden, bu tür
+sözleşmelerin bir sigorta sözleşmesi olarak kabul edildiğini açık bir şekilde
+önceden belirtirse ve sigorta sözleşmelerine uygulanabilir muhasebeleştirme
+esasını kullanırsa, ihraç eden bu tür finansal garanti sözleşmelerine ya
+TMS 39 ve TMS 32 ya da bu Standardın uygulanmasını
+seçebilir.
+(h) Ürün garantileri. Bu TFRS
+kapsamında üretici, satıcı veya perakendeci tarafından satılmış ürünlere
+ilişkin başka bir tarafça ihraç eden ürün sertifikaları. Bununla birlikte,
+üretici, satıcı veya perakendeci tarafından doğrudan ihraç edilen ürün
+sertifikaları bu TFRS kapsam dışında kalır, çünkü bunlar “TMS 18 Hasılat” ve
+“TMS 37 Karşılıklar, Koşullu Borçlar ve
+Koşullu Varlıklar” Standartları kapsamındadır.
+(i) Tapu sigortası (yani, sigorta
+sözleşmesi düzenlendiğinde görünmeyen ve arsa-arazi için alınan tapulardaki
+eksikliklerin ortaya çıkmasına karşı yapılan sigorta). Bu durumda sigorta
+konusu olay eksikliğin kendisi değil, tapudaki eksikliğin ortaya çıkmasıdır.
+(j) Seyahat sigortası (yani, seyahat
+edenlerin seyahat sırasında başlarına gelen zararların ayni ya da nakdi olarak ödenmesi). B6 ve B7 paragrafları bazı
+sözleşmelerde ayni ödemeyi konu almaktadır.
+(k) Belirli bir olayın bonoyu ihraç
+edeni olumsuz olarak etkilemesi halinde anapara, faiz veya her ikisinin
+birden eksik ödenmesini sağlayan afet poliçeleri (tanımlanmış olayın, örneğin
+bu olayın faiz oranlarındaki veya kurlardaki bir değişiklik olması gibi
+önemli bir sigorta riski yaratması durumunda).
+(l) Sözleşmenin bir tarafı için özgü
+olan iklimsel, jeolojik veya fiziki değişkenlerdeki değişikliklere dayalı bir
+ödeme öngören sigorta swapları ve diğer
+sözleşmeler.
+(m) Reasürans sözleşmeleri.
+B19. Aşağıdakiler, sigorta sözleşmesi olmayan sözleşme
+örnekleridir :
+(a) Sigortacıyı önemli bir sigorta
+riski altına sokmadığı halde sigorta sözleşmesinin yasal şekline sahip olan
+yatırım sözleşmeleri, örneğin, sigortacının önemli bir ölüm riski taşımayan
+hayat sigortası sözleşmeleri (bu tür sözleşmeler sigorta olmayan finansal araçlar veya hizmet sözleşmeleridir. Bakınız: B20
+ve B21 Paragrafları).
+(b) Yasal şekli itibariyle sigorta
+sözleşmesi biçimine sahip olmakla birlikte, sigortalı, gelecekte sigortacıya yapacağı ödemelerin iptal
+edilemez ve uygulanabilir mekanizmalarla yapılacak hasar ödemelerine göre
+ayarlanarak önemli tüm riskini sigortalıya geri döndüren sözleşmeler, örneğin,
+bazı finansal reasürans sözleşmeleri veya grup
+sözleşmeleri (bu tür sözleşmeler sigorta olmayan finansal
+araçlar veya hizmet sözleşmeleridir, bakınız: B20 ve B21 Paragrafları).
+(c) Kendi kendini sigorta etmek,
+başka bir deyişle sigorta edilebilecek bir riski sigorta etmeden kendi
+üzerinde tutmak (sigorta sözleşmesi değildir, çünkü bir başka tarafla anlaşma
+yoktur).
+(d) Tanımlanmış gelecekteki belirsiz
+bir olayın gerçekleşmesi halinde bir ödeme yapmayı gerektiren, ancak, ödeme
+için sözleşmeye dayalı bir önkoşul olarak bu olayın poliçe sahibini olumsuz
+etkilemesini gerektirmeyen sözleşmeler (kumar sözleşmeleri gibi). Bununla
+birlikte, bu durumda, ölüm veya kaza gibi tanımlanmış bir olaydan kaynaklanan
+zararın hesaplanma işleminin yapılması, önceden tanımlanmış bir ödeme
+yapılmasına engel değildir. (bakınız: Paragraf B13).
+(e) Bir tarafı finansal
+riske maruz bırakan, ancak sigorta riskine maruz bırakmayan türev ürünler,; çünkü
+bu ürünler, değişkeni sözleşmenin taraflarından birine özgü olmayan finansal olmayan bir değişken durumunu hesaba katan
+belirli bir faiz oranı, finansal araç fiyatı, mal
+fiyatı, döviz kuru, faiz veya fiyat endeksleri, kredi notu ya da kredi endeksi veya diğer değişkenlerin bir veya
+daha fazlasındaki yalnızca değişikliklere dayanan ödemeyi yapmayı öngörürler
+(bakınız TMS 39).
+(f) Sözleşme sahibi, borçlunun
+ödemelerini vadesinde yapmamasından dolayı bir zarar oluşmasa bile poliçe
+sahibine ödeme yapmayı gerektiren bir kredi-ilişkili garantiler (veya
+akreditif –L/C-, ödenmeme riskine karşı geliştirilen alacak türev ürün
+sözleşme veya kredi sigorta sözleşmeleri) (bakınız: TMS 39).
+(g) Sözleşmenin taraflarından birine
+özgü olmayan iklimsel, jeolojik veya diğer fiziksel değişkenlere dayanan bir
+ödemeyi gerektiren sözleşmeler (genellikle iklime dayalı türev ürünleri olarak
+tanımlanır)
+(h) Sözleşmenin taraflarından birine
+özgü olmayan iklimsel, jeolojik veya diğer fiziksel değişikliklere dayalı
+olarak faiz, anapara ya da her ikisinde eksik
+ödemeleri telafi eden afet poliçeleri.
+B20. Paragraf B19’da tanımlanan sözleşmelerin, finansal
+varlık veya finansal borç yaratması durumunda, ilgili
+sözleşmeler TMS 39 kapsamındadır. Bu, ayrıca, sözleşmenin taraflarınca, bazen
+birikim muhasebesi olarak da adlandırılan aşağıdakileri içeren bir yöntemin
+kullanılması anlamına gelmektedir:
+(a) Taraflardan biri alınan bedeli
+gelirden ziyade finansal borç olarak muhasebeleştirir.
+(b) Diğer taraf ödenen tutarı
+giderden ziyade finansal bir varlık olarak muhasebeleştirir.
+B21. Paragraf B19’da tanımlanan sözleşmelerin finansal
+varlık veya finansal borç yaratmaması durumunda,
+TMS 18 uygulanır. TMS 18’e göre, eğer işlemin sonucu güvenilir bir şekilde
+tahmin edilebiliyorsa, hizmetlerin yerine getirilmesi ile ilgili işlemlere
+bağlı gelirler işlemin tamamlanma aşamasına göre muhasebeleştirilir .
+Önemli sigorta riski
+B22. Bir sözleşme, eğer
+önemli bir sigorta riskini devrediyorsa, sigorta sözleşmesidir. B8-B21 inci Paragraflar
+sigorta riskinden bahsetmektedir. Aşağıdaki Paragraflar sigorta riskinin
+önemli olup olmadığının değerlendirmesine değinmektedir.
+B23. Sigorta riski, ancak ve ancak ticari özden yoksun olan
+senaryolar (yani, ticari işlemin ekonomisi üzerinde fark edilebilir sonuçları
+olmayan) hariç, sigorta konusu olay sigortacıya her senaryoda önemli ilave
+menfaatleri ödemesine yol açan durumlarda, önemlidir. Eğer önemli ilave menfaatleri
+ticari öze sahip senaryolarda ödeyebilir olacaksa, bir önceki cümledeki
+koşul, beklenen şarta bağlı nakit akışların şimdiki değeri, geri kalan
+sözleşmeye dayalı tüm nakit akışların küçük bir kısmı olsa bile veya sigorta
+konusu olay önemli oranda olası değilse bile, karşılanmış olur.
+B24. Paragraf B23’te tanımlanan ilave menfaatleri, sigorta konusu
+olayın olmadığında ödenecek tutarları (ticari özü olmayan senaryolar) aşan
+tutarlara atıfta bulunur. Bu ilave menfaatler hasarlara ilişkin olan giderleri
+ve inceleme giderlerini kapsar, ancak aşağıdaki giderleri kapsamaz :
+(a) Sigortalıya gelecekteki
+hizmetlere ilişkin gider yükleme imkanının kaybı. Örneğin, yatırım bağlantılı
+bir hayat sigortası sözleşmesinde, sigortalının ölümü, sigortacının yatırım
+yönetim hizmetleri verememesi ve bu hizmetler karşılığında ücret alamaması
+anlamına gelmektedir. Bununla birlikte, sigortacının bu ekonomik kaybı
+sigorta riskini yansıtmaz, sadece mütüel fon yöneticisi
+olarak müşterisinin muhtemel ölümüne karşı sigorta riskini almamış olur. Bu
+yüzden, gelecekte yatırım yönetim ücretlerinin potansiyel kaybının, bir
+sözleşmeyle ne kadar sigorta riskinin devredildiğinin değerlendirmesinde
+ilgisi yoktur.
+(b) İptal veya iştira halinde
+alınacak olan ücretlerden ölüm durumunda feragat etme. Çünkü, sözleşme bu
+ücretleri yaratmıştır, bu ücretlerden feragat etmek poliçe hamilini daha
+önceden var olan bir riski nedeniyle tazmin etmek anlamına gelmez.
+Dolayısıyla, onların, sözleşmeyle ne kadar sigorta riskinin devredildiğinin
+değerlendirilmesiyle ilgisi yoktur.
+(c) Sözleşme hamiline önemli bir
+zarar vermeyen bir olayın gerçekleşmesi koşuluna bağlı bir ödeme. Örneğin,
+sigortacının, bir varlığın maddi hasara uğraması nedeniyle poliçe hamiline 1
+birim para gibi önemsiz bir ekonomik zarar vermesi durumunda bir milyon para
+birimi ödeme yapmasını gerektirecek bir sözleşme olduğunu varsayalım. Bu
+sözleşme hamili, sigortacıya 1,- parasal birimlik önemsiz bir riski-
+devretmiştir. Aynı zamanda bu sözleşme, sigortacının, belli bir olayın
+gerçekleşmesi halinde 999.999 para birimi ödeme yapmasını gerektirecek,
+sigorta riski olmayan, bir risk yaratacaktır. Sözleşme sahibi, sözleşme
+hamilinden kayda değer bir risk devir almadığı için, bu sözleşme sigorta
+sözleşmesi değildir.
+(d) Muhtemel reasürans geri
+kazanımları. Sigortacı bunları ayrı bir
+şekilde muhasebeleştirir.
+B25. Sigortacı sigorta riskinin önemini, finansal
+tabloların önemliliğini referans alarak değil, her bir sözleşme bazında
+değerlendirir.[3] Bu
+nedenle tüm sözleşmelere ilişkin asgari maddi hasar olasılığı varsa bile
+sigorta riski önemli olabilir. Bu sözleşme bazında tek tek
+yapılan değerlendirme, sözleşmelerin sigorta sözleşmesi olarak
+sınıflandırılmasını da kolaylaştırır. Bununla birlikte, eğer homojen yapıya
+sahip oransal olarak küçük sözleşmelerin tüm sigorta riskinin devredildiği
+sözleşmelerden oluştuğu biliniyorsa, sigortacının, önemsiz sigorta riskini
+devreden, türev ürünü olmayan sözleşmelerin birkaç tanesini belirlemek için o
+kitap içindeki her bir sözleşmeyi incelemesine gerek yoktur.
+B26. B23-B25 arasındaki paragraflardan anlaşılmaktadır ki, eğer
+bir sözleşme ölüm halinde ödenecek tazminat sigortalının yaşaması durumunda
+ödenecek olandan daha fazla ise, ilave ölüm menfaatleri önemsiz olmamak
+koşuluyla bu sözleşme bir sigorta sözleşmesidir (kayıtlı tüm sözleşmelere bakılarak
+değil, sözleşme bazında karar verilmelidir). Paragraf B24 (b)’de belirtildiği
+gibi, ölüm nedeniyle iptal veya iştira masraflarından feragatı,
+sigortalının önceden var olan bir riskini karşılamıyorsa, bu
+değerlendirmelerde dahil edilmez. Benzer şekilde, sigortalının geri kalan
+yaşam süresinde ona düzenli ödeme sağlayan yıllık gelir sigorta sözleşmesi de
+yaşam koşullu ödemelerin toplamının önemsiz olmaması koşuluyla hayat
+sigortası sözleşmesidir.
+B27. Paragraf B23 ilave
+menfaatlere değinmektedir. Bu ilave menfaatler, eğer sigorta konusu olay
+erken gerçekleşirse ve ödemelerde paranın zaman değeri nedeniyle düzeltme
+yapılmazsa, bu ilave menfaatlerin erken ödenmesi koşulunu içerebilir. Sabit
+bir tutarlı ömür boyu hayat sigortası bir örnektir (başka bir deyişle,
+teminata ilişkin bitim tarihi olmayan ve sigortalının herhangi bir anda
+ölümünde sabit bir ölüm tazminatı ödemesi sağlayan sözleşmeler). Sigortalının
+öleceği kesindir, ancak ölüm tarihi belli değildir. Sigortacı, sözleşmelerin
+tamamından toplam bir zararı olsa bile, sigortalının erken öldüğü zamanlarda
+bu bireysel sözleşme dolayısıyla zarara katlanacaktır.
+B28. Eğer bir sigorta
+sözleşmesi, birikim unsuru ve sigorta unsuru şeklinde ayrıştırılırsa,
+devredilen sigorta riskinin önemliliğinin değerlendirmesi sigorta riski
+referans alınarak yapılır. Gömülü bir türev ürünü tarafından devredilen
+sigorta riskinin önemliliği, gömülü türev ürünü referans alınarak değerlendirilir.
+Sigorta risk düzeyindeki
+değişiklikler
+B29. Bazı sözleşmeler, daha sonra devretmesine rağmen, sözleşme
+başlangıcında sigortacıya hiçbir sigorta risk devretmez. Örneğin, belirli bir
+yatırım getirisi sağlayan bir sözleşme dikkate alınsın ve sigortalı opsiyon
+kullandığında diğer yeni katılımcılara sigortacı tarafından uygulanan cari
+gelir sigortası oranlarından yaşam koşullu yıllık sigorta almak için vade gelimindeki yatırım gelirlerini kullanmasına ilişkin
+sigortalının bir opsiyonu dahil edilsin. Bu sözleşme, opsiyon kullanılana
+kadar ihraççıya sigorta riski devretmemiştir, çünkü, sigortacı, yıllık gelir
+sigortası fiyatını söz konusu opsiyon kullanıldığı zaman devredilen sigorta
+riskini yansıtacak bir esas üzerinden hesaplama konusunda özgür olmayı
+sürdürüyor. Bununla birlikte, eğer sözleşme, yıllık gelir oranlarını (veya
+yıllık gelir oranlarının belirlenmesine ilişkin bir esası) saptamışsa, bu
+sözleşme sigorta riski sigortacıya başlangıçta devreder.
+B30. Sigorta sözleşmesi olarak düzenlenen bir sözleşme, tüm hak ve
+yükümlülükler ortadan kalkmadıkça veya sona ermedikçe sigorta sözleşmesi
+olarak kalır.
+[1] İlgili sigorta borçları, sigortacının muhasebe
+politikalarının 16 ncı Paragrafın asgari koşullarını
+karşılayan borç yeterlilik testi yapılmasını öngörmediği sigorta borçlarıdır
+(ve ilgili ertelenmiş edinme maliyetleri ve maddi olmayan duran varlıklardır).
+[2] Bu paragrafta, sigorta borçları, ilgili ertelenmiş edinme maliyetlerini ve
+31 ile 32 nci Paragraflarda belirtildiği üzere ilgili
+maddi olmayan varlıkları içermektedir.
+[3] Bu amaçla, tek bir tarafla aynı anda yapılan
+sözleşmeler (veya aksi halde bağımsız olacak sözleşmeler) tek bir sözleşme
+oluşturur.
