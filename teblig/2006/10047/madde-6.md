@@ -1,0 +1,144 @@
+Yürütme
+MADDE 6 – (1) Bu Tebliğ hükümlerini Türkiye Muhasebe Standartları Kurulu yürütür.
+EK
+Türkiye Muhasebe Standardı (TMS 30) Bankalar ve Benzeri Finansal Kuruluşların Finansal Tablolarında Yapılacak Açıklamalar
+Kapsam
+1. Bu Standart, bankaların ve benzeri finansal kuruluşların (bundan sonra “bankalar” olarak anılacaktır) finansal tablolarında uygulanır.
+2. Bu Standart kapsamında “banka” terimi, temel faaliyetlerinden biri mevduat kabul etmek ve kredi vermek veya yatırım yapmak amacıyla borç almak olan, bankacılık ya da benzeri mevzuat kapsamında yer alan tüm finansal kuruluşları kapsar. Unvanlarında “banka” kelimesi olsun ya da olmasın, bu Standart temel faaliyetleri yukarıda belirtilen hususlar olan tüm işletmeleri kapsar.
+3. Bankalar bütün dünyada iş dünyasının önemli ve etkili bir sektörünü temsil eder. Bireylerin ya da kuruluşların çoğu mevduat sahibi ya da kredi müşterisi olarak bankaları kullanırlar. Bankalar, düzenleyici otoritelerle ve idareyle olan yakın ilişkileri ve bu merciler tarafından yapılan düzenlemeler yoluyla parasal sistemde güven tesis edilmesinde temel rol oynar. Bu nedenle, başta ödeme gücü, likidite ve çeşitli işleri ile ilgili oransal risk dereceleri olmak üzere, bankaların sağlıklı bir yapıya sahip olmasının çok önemli ve geniş ölçekli bir etkisi söz konusudur. Bankaların faaliyetleri ve buna bağlı olarak muhasebe ve raporlama zorunlulukları diğer ticari işletmelerinkilerden farklıdır. Bu Standart, bankaların kendilerine özgü ihtiyaçları olduğunu kabul eder. Standart ayrıca, likidite ve risklerin yönetim ve kontrolü gibi konulara ilişkin finansal tablolarla ilgili olarak yapılacak açıklamaların sunumunu da teşvik eder.
+4. Bu Standart, özel olarak muaf tutulmadıkları sürece, bankalara da uygulanan diğer Standartlara ek niteliğindedir.
+5. Bu Standart bir bankanın bireysel ve konsolide finansal tablolarına uygulanır. Bir grubun bankacılık faaliyetlerini yürütmesi durumunda, bu Standart söz konusu faaliyetlerle ilgili olarak konsolide esasta uygulanır.
+Giriş
+6. Banka finansal tablolarının kullanıcıları, bankanın performansını ve finansal durumunu değerlendirmelerine yardımcı olacak, ekonomik kararlar almalarında da yarar sağlayacak; ihtiyaca uygun, güvenilir ve karşılaştırılabilir bilgiye gereksinim duyarlar. Kullanıcılar ayrıca, bir bankanın faaliyetlerinin kendine özgü niteliklerini daha iyi anlamalarını sağlayacak bilgi ihtiyacı içerisindedirler. Her ne kadar bir banka gözetime tabi ve her zaman kamuoyunun kullanımına sunulmamakla birlikte, bilgilerini düzenleyici kurumlara sunmakta ise de, kullanıcılar söz konusu bilgilere gereksinim duyarlar. Bu nedenle, bir bankanın finansal tablolarında kamuoyuna yapılan açıklamaların, yönetimin gerektirdiği makul ölçünün sınırları dahilinde, kullanıcıların ihtiyaçlarını karşılayacak ayrıntıları içermesi gerekir.
+7. Bir bankanın finansal tablo kullanıcıları, bankanın likidite ve ödeme gücü, bilançosuna yansıtılan varlık ve borçları ile bilanço dışı kalemlerine ilişkin riskleriyle ilgilenirler. Likidite, vadeleri geldiğinde mevduat çekilişlerini ve diğer finansal taahhütleri karşılayabilecek yeterlilikte kaynağa sahip olunması anlamını taşır. Ödeme gücü, varlıkların borçlara göre daha fazla olması, dolayısıyla, banka sermayesinin yeterliliği anlamına gelir. Bir banka, likidite riski ile kur dalgalanmalarından, faiz oranı hareketlerinden, piyasa fiyatlarındaki değişimlerden ve karşı taraflardan kaynaklanan risklere maruz kalır. Bu riskler finansal tablolara yansıtılmış olabilir ancak; yönetimin bankanın faaliyetlerine ilişkin risklerin nasıl yönetildiği ve kontrol edildiği hususlarını içeren finansal tablo açıklamalarına da yer vermesi, kullanıcıların konuyu daha iyi anlamalarını sağlar.
+Muhasebe politikaları
+8. Bankalar finansal tablolarındaki kalemlerin muhasebeleştirme ve ölçümü için farklı yöntemler kullanırlar. Her ne kadar bu yöntemlerin uyumlu hale getirilmesi arzu edilse de, bu durum bu Standardın kapsamı dışındadır. “TMS 1 Finansal Tabloların Sunuluşu” Standardına uyumlu olması ve bankanın finansal tablolarının hangi esaslara göre hazırlandığının anlaşılabilmesini sağlamak için, aşağıdaki maddelerde yer alan hususlara ilişkin muhasebe politikalarının kamuoyuna açıklanması gerekebilir:
+(a) Başlıca gelir türlerinin muhasebeleştirilmesi (Bakınız: Paragraf 10 ve 11);
+(b) Yatırımların ve alım satım amaçlı menkul kıymetlerin değerlemesi (Bakınız: Paragraf 24 ve 25);
+(c) Bilançoya varlık ve borçların yansıtılmasıyla sonuçlanan işlem ve olaylar ile yalnızca koşullu işlem ve taahhütlerin oluşmasına yol açacak işlem ve olayların ayrımının yapılması (Bakınız: Paragraf 26-29)
+(d) Kredi ve avanslardan (alacaklardan) kaynaklanan değer düşüklüğü zararlarının belirlenmesi ve tahsili imkansız hale gelmiş kredi ve avansların kayıtlardan silinmesi esasları (Bakınız: Paragraf 43-49);
+(e) Genel bankacılık riskleri için ayrılan karşılık giderlerinin belirlenmesi esasları ve söz konusu karşılık giderlerinin muhasebeleştirme yöntemi.
+Bu konulardan bazıları mevcut Standartların konusunu teşkil etmekte olup, diğerleri ise daha sonraki tarihlerde ele alınabilecek hususlardır.
+Gelir tablosu
+9. Bir banka, gelir ve giderlerini niteliklerine göre gruplayan ve başlıca gelir ve gider türlerinin tutarlarını kamuoyuna açıklayan bir gelir tablosu sunar.
+10. Diğer Standartların gerektirdiklerine ek olarak, gelir tablosunda kamuoyuna açıklanacak bilgilerin ya da finansal tablolara ilişkin notların, bunlarla sınırlı olmamak üzere, aşağıdaki gelir ve gider kalemlerini içermesi zorunludur:
+Faiz ve benzeri gelirler;
+Faiz gideri ve benzeri giderler;
+Temettü gelirleri;
+Ücret ve komisyon gelirleri;
+Ücret ve komisyon giderleri;
+Alım satım amaçlı menkul kıymetlerden doğan net kazanç ve kayıplar;
+Yatırım amaçlı menkul kıymetlerden doğan net kazanç ve kayıplar;
+Yabancı para işlemlerinden doğan net kazanç ve kayıplar;
+Diğer faaliyet gelirleri;
+Kredi ve avanslardaki değer düşüklükleri;
+Genel yönetim giderleri ve
+Diğer faaliyet giderleri.
+11. Bir bankanın faaliyetlerinden kaynaklanan başlıca gelir türleri; faiz, hizmetlerden alınan ücretler, komisyonlar ve alım-satım işlem sonuçlarını içerir. Finansal tablo kullanıcılarının bankanın performansını değerlendirebilmesi amacıyla, her bir gelir türü ayrı ayrı kamuoyuna açıklanır. Söz konusu açıklamalar, “TMS 14 Bölümlere Göre Raporlama” Standardının gerektirdiği gelir kaynaklarına ilişkin açıklamalara ek olarak yapılır.
+12. Bir bankanın faaaliyetlerinden kaynaklanan başlıca gider türleri; faiz, komisyon, kredi ve avanslardan zararlar, yatırımların defter değerinin azalması ile ilgili giderler ve genel yönetim giderlerini içerir. Finansal tablo kullanıcılarının bankanın performansını değerlendirebilmesi amacıyla, her bir gider türü ayrı ayrı kamuoyuna açıklanır.
+13. “TMS 32 Finansal Araçlar: Açıklamalar ve Sunum” Standardına uygun olarak netleştirilen varlık ve borçlar ile finansal riskten korunma amaçlı işlemler hariç olmak üzere, gelir ve gider kalemleri netleştirilmez.
+14. TMS 32’de düzenlenen finansal riskten korunma amaçlı işlemler ile varlık ve borçlara ilişkin netleştirmeler dışındaki durumlarda netleştirme yapılması, finansal tablo kullanıcılarının bankanın farklı faaaliyetlerinin performansını ve bunun sonucunda belli varlık sınıflarından elde edilen getirileri değerlendirmelerine engel olur.
+15. Aşağıdaki işlemlerle ilgili olarak ortaya çıkan kazanç ve kayıplar normal koşullarda net tutar olarak raporlanır:
+(a) Alım satım amaçlı mekul kıymetlerin defter değerindeki değişiklik ya da elden çıkarılmaları;
+(b) Yatırım amaçlı menkul kıymetlerin elden çıkarılması; ve
+(c) Yabancı para işlemleri.
+16. Faiz gelirleri ve faiz giderleri; net faizin kompozisyonu ve net faizde ortaya çıkan değişimin nedenlerinin daha iyi anlaşılabilmesi için, ayrı ayrı kamuoyuna açıklanır.
+17. Net faiz hem faiz oranlarının, hem de borç alma ve borç verme tutarlarının bir sonucu olarak ortaya çıkar. Yönetimin, ilgili döneme ilişkin ortalama faiz oranları, faiz getirili varlıkların ortalaması ve faiz içeren borçların ortalaması hakkında açıklama yapması uygun olacaktır. Bazen hükümetler, piyasa oranlarından önemli ölçüde düşük faiz oranları ile mevduat yatırmak ya da diğer kredi olanakları ile bankalara destek sağlar. Bu tür durumlarda, yönetimin açıklaması çoğu zaman bu tür mevduat ve kredi olanaklarının kapsamı ve net gelir üzerindeki etkilerini kamuoyuna sunar.
+Bilanço
+18. Bir banka, varlık ve borçlarını niteliklerine göre gruplayan ve söz konusu varlık ve borçları likiditelerini yansıtacak düzende sıralayan bir bilanço sunar.
+19. Diğer Standartların gereklerine ek olarak, bilançoda kamuoyuna açıklanacak bilgilerin ya da finansal tablolara ilişkin notların, bunlarla sınırlı olmamak üzere, aşağıdaki varlık ve borçları içermesi zorunludur:
+Varlıklar:
+Kasa ve merkez bankası nezdindeki bakiyeler;
+Hazine bonoları ve merkez bankasınca reeskont edilebilecek diğer bonolar;
+Alım satım amaçlı tutulan kamu kesimi tahvil ve bonoları ile diğer menkul kıymetler;
+Diğer bankalardaki plasmanlar ile bunlara kullandırılan krediler ve avanslar;
+Diğer para piyasası plasmanları;
+Müşterilere kullandırılan kredi ve avanslar; ve
+Yatırım amaçlı menkul kıymetler.
+Borçlar:
+Diğer bankaların banka nezdindeki mevduatları;
+Diğer para piyasası mevduatları;
+Diğer mevduat sahiplerine olan yükümlülükler;
+Mevduat sertifikaları;
+Senetler ve kıymetli evraka bağlanmış diğer borçlar;
+Borç alınan diğer kaynaklar.
+20. Bir bankanın varlık ve borçlarının sınıflandırılmasında en uygun yaklaşım, söz konusu varlık ve borçları niteliklerine göre gruplamak ve likiditelerine göre yaklaşık bir sıralama yapmaktır; likidite sıralaması genel olarak varlık ve borçların vadelerine göre belirlenebilir. Bankaların çoğu varlık ve borçlarını yakın bir gelecekte paraya çevirmelerinin ya da ödemelerinin mümkün olması nedeniyle, dönen ve duran varlık kalemleri ayrı ayrı sunulmaz.
+21. Bankalar ve para piyasının diğer unsurları ile olan bakiyelerin arasında ayrım yapılması ve söz konusu kalemlerin diğer mevduat sahipleriyle olanlardan ayrılması; bankanın diğer bankalar ve para piyasasıyla ilişkilerini ve bu unsurlara bağımlılık düzeyini göstermesi nedeniyle gerekli bir bilgidir. Bu nedenle, bir banka aşağıdaki hususları ayrı ayrı açıklar:
+1. Merkez Bankası ile olan bakiyeler;
+2. Diğer bankalarla plasmanlar;
+3. Diğer para piyasası plasmanları;
+4. Diğer bankaların banka nezdindeki mevduatları;
+5. Diğer para piyasası mevduatları; ve
+6. Diğer mevduatlar.
+22. Bir banka, çoğunlukla açık piyasada işlem görmeleri sebebiyle, mevduat sertifikalarını elinde bulunduranları genellikle bilmez. Bu nedenle, bir banka kendi mevduat sertifikalarını ya da diğer ciro edilebilir senetlerini ihraç etmek suretiyle topladığı mevduatları ayrı olarak kamuoyuna açıklar.
+23. “-“
+24. Bir banka “TMS 32 Finansal Araçlar: Açıklamalar ve Sunum” Standardının gerektirdiği şekilde, her bir varlık ve borç sınıfının gerçeğe uygun değerlerini açıklar.
+25. TMS 39 finansal varlıklar için dört sınıflama getirir: Verilen krediler ve alacaklar, vadeye kadar elde tutulacak yatırımlar, gerçeğe uygun değer farkı kâr veya zarara yansıtılan finansal varlıklar, satılmaya hazır finansal varlıklar. Bir banka asgari olarak, bu dört sınıflamaya göre finansal varlıklarının gerçeğe uygun değerlerini açıklar.
+Bilanço dışı kalemler dahil koşullu işlemler ve taahhütler
+26. Bir banka aşağıdaki koşullu borçları ile taahhütlerini açıklar:
+(a) Bankayı önemli bir cezai müeyyide veya gider riskine maruz bırakmaksızın bankanın isteğine bağlı olarak geri çekilememeleri nedeniyle cayılamaz nitelikli olan kredi taahhütlerinin niteliği ve miktarı; ve
+(b) Aşağıdakilerle ilgili olanlar dahil olmak üzere bilanço dışı kalemlerden doğan koşullu borç ve taahhütlerin niteliği ve tutarı:
+i. Borçlanma garantileri, banka kabullü garantiler ile kredi ve menkul kıymet temini için finansal garanti hükmündeki genel kredi teminat mektuplarını içeren doğrudan kredi muadilleri;
+ii. Performans tahvilleri, teminat tahvilleri, garantiler ve belli işlemlerle ilgili teminat mektuplarını da içeren, işlem bazlı koşullu borçlar;
+iii. Nakledilen malın teminat olarak kullanıldığı vesaik mukabili kredilerde olduğu gibi malların taşınmasından kaynaklanan kısa vadede kendi kendine tasfiye olan ticari işlemlerle ilgili koşullu borçlar;
+iv. “-”
+v. “-”
+vi. Diğer taahhütler, tahvil ihracı ve bunun sonucundaki yüklenim faaliyetleri.
+27. “TMS 37 Karşılıklar, Koşullu Borçlar ve Koşullu Varlıklar” Standardı, genel olarak, koşullu borçların muhasebesi ve kamuya açıklanması ile ilgilidir. Bankalar, bir kısmı cayılabilir, diğerleri ise cayılamaz olan, çoğunlukla tutarca yüklü ve diğer ticari işletmelerinkilerden daha büyük tutarda birçok çeşit şarta bağlı borçlar ve taahhütler ile sıklıkla meşgul olduklarından, bu Standart bankalar için özellik arz etmektedir.
+28. Birçok banka, bilançolarında henüz varlık veya borç olarak muhasebeleştirilmemiş, ancak çeşitli durum ve taahhütler yaratan işlemler de gerçekleştirmektedir. Bu tür bilanço dışı kalemler, çoğu zaman, bir bankanın iş hacminin önemli bir bölümünü oluşturmakta olup, bankanın maruz kaldığı risk düzeyi ile önemli ölçüde ilişkilidir. Bu kalemler, örneğin bilançodaki varlık ve borçları finansal risklerden koruyarak, diğer riskleri arttırabilir veya azaltabilirler.
+29. Finansal tablo kullanıcıları, bankanın likiditesi ve borç ödeme gücü üzerindeki olası talepleri ve işin doğasından gelen zarar ihtimali nedeniyle bir bankanın koşullu işlemleri ve cayılamaz taahhütleri hakkında bilgi sahibi olmak ister. Söz konusu kullanıcılar, banka tarafından gerçekleştirilen bilanço dışı işlemlerin niteliği ve miktarı hakkında da yeterli ölçüde bilgiye gereksinim duyarlar.
+Varlık ve borçların vadesi
+30. Bir banka, bilanço tarihinden sözleşmedeki vadeye kadar olan süreyi esas alacak şekilde varlık ve borçlarını ilgili vade gruplarına göre ayırarak yaptığı bir analizi kamuoyuna açıklamak zorundadır.
+31. Varlık ve borçlara ilişkin vade ve faiz oranlarının uyumu ve kontrol altında tutulan uyumsuzluklar, bir bankanın yönetimi için temel gereksinimlerdir. Bankanın işlerinin genellikle belirsiz mahiyette ve farklı çeşitte olması nedeniyle bunların tamamen uyum içerisinde olması olağan bir durum değildir. Bir pozisyon uyuşmazlığı potansiyel olarak kârlılığı artırmakla birlikte, zarar riskini de yükseltebilir.
+32. Varlık ve borçların vadeleri ile faizli borçların vadeleri geldikçe uygun maliyetlerden yenilenme olanağı, bir bankanın likiditesinin ve faiz oranı ile kur değişimlerine ne ölçüde maruz kaldığının değerlendirilmesinde önemli unsurlardır. Bir banka, likiditesinin değerlendirilmesine ilişkin gerekli bilgileri sağlamak amacıyla, asgari olarak, varlık ve borçlarının ilgili vade gruplarına göre ayrıştırdığı bir analizi kamuoyuna açıklar.
+33. Bireysel varlık ve borçlara ilişkin vade gruplandırmaları, belirli varlık ve borçlara uygunlukları açısından bankalar arasında farklılık gösterir. Kullanılan dönemlere ilişkin örnekler aşağıda belirtilmiştir:
+a) 1 aya kadar;
+b) 1 aydan 3 aya kadar;
+c) 3 aydan 1 yıla kadar;
+d) 1 yıldan 5 yıla kadar; ve
+e) 5 yıl ve daha uzun.
+Dönemler, örneğin; kredi ve avanslarda, bir yılın altında olanlar ve bir yılın üzerinde olanlar gruplandırılmak suretiyle genellikle birleştirilir. Geri ödemelerin bir zaman dilimine yayıldığı durumlarda, her bir taksit, sözleşmede anlaşılan veya ödenmesi ya da tahsil edilmesi beklenen döneme dağıtılır.
+34. Bir banka tarafından benimsenen vade dönemlerinin varlık ve borçlar için aynı olması esastır. Söz konusu durum, vadelerin ne ölçüde uyum içerisinde olduğunu ve dolayısıyla bankanın diğer likidite kaynaklarına olan bağımlılığını açıklığa kavuşturmaktadır.
+35. Vadeler aşağıdaki şekillerde ifade edilmiş olabilir;
+a) Geri ödeme tarihine kalan süre;
+b) Başlangıçtan geri ödeme tarihine kadar olan süre; veya
+c) Faiz oranlarının değiştirilebileceği bir sonraki tarihe kadar kalan süre
+Varlık ve borçların geri ödeme tarihlerine kalan süreler itibariyle analiz edilmesi, bir bankanın likiditesini değerlendirmek için en iyi temeli teşkil etmektedir. Bir banka, fonlama ve iş stratejisi hakkında bilgi vermek amacıyla, geri ödeme tarihine kadar olan orijinal süreyi esas alan geri ödeme vadelerini de kamuoyuna açıklayabilir. Bunun yanı sıra bir banka, maruz kaldığı faiz oranı risklerini göstermek amacıyla faiz oranlarının değiştirilebileceği en yakın tarihe kalan süreye dayalı vade gruplandırmalarını da kamuoyuna açıklayabilir. Yönetim ayrıca, finansal tablolara ilişkin açıklamasında, maruz kaldığı faiz oranı riski ve bu tür riskleri nasıl yönettiği ve kontrol ettiği hakkında bilgiye yer verebilir.
+36. Birçok ülkede, bankalara yatırılan mevduat, talep edilmesi durumunda geri çekilebilir ve bir banka tarafından verilen avanslar talep halinde geri ödenebilir. Bununla birlikte, uygulamada bu tür mevduat ve avanslar genellikle uzun süre geri çekilmeksizin veya geri ödenmeksizin muhafaza edilmekte, bu nedenle, geri ödemenin yürürlük tarihi sözleşme tarihinden sonra olmaktadır. Yine de bir banka, sözleşmede yer alan geri ödeme süresi fiili süre olmamasına rağmen, sözleşmeye dayalı vadeler cinsinden ifade edilmiş bir analizi kamuoyuna açıklar; çünkü sözleşmeye dayalı tarihler bankanın varlık ve borçlarına ilişkin likidite risklerini yansıtır.
+37. Bir kısım banka varlıklarının sözleşmeye dayalı vade tarihleri bulunmaz. Bu varlıklara ilişkin vadelerin ne zaman dolacağı, genellikle, varlıkların paraya çevrileceği tahmin edilen tarih olarak kabul edilir.
+38. Finansal tablo kullanıcılarının, bir bankanın vade gruplarına ilişkin açıklamalarını kullanarak bankanın likiditesi hakkında yaptıkları değerlendirmeler, bankaların kullanabilecekleri kaynakların mevcudiyeti de dahil olmak üzere, yerel bankacılık uygulamaları dikkate alınarak yapılır. Bazı ülkelerde, normal iş koşullarında para piyasasından, acil bir durumda ise merkez bankasından kısa vadeli kaynakların temin edilmesi mümkündür. Diğer bazı ülkelerde, durum bu değildir.
+39. Finansal tablo kullanıcılarının vade gruplarını tam olarak anlamalarını sağlamak amacıyla, finansal tablolardaki açıklamaların, kalan süre içerisinde geri ödemelerin yapılabilme olasılığı gibi bilgilerle desteklenmesi gerekebilir. Bu nedenle yönetim, finansal tablolara ilişkin kamuoyuna yaptığı açıklamada geçerli süreler hakkında ve farklı vade ile faiz oranı profilleri karşısında maruz kaldığı riskleri nasıl yönettiği ve kontrol ettiği hakkında bilgiye yer verebilir.
+Varlıklar, borçlar ve bilanço dışı kalemlerde yoğunlaşma
+40. Bir banka varlık, borç ve bilanço dışı kalemlerindeki önemli düzeydeki yoğunlaşmaları kamuoyuna açıklar. Bu tür açıklamalar, coğrafi bölgeler, müşteri veya sanayi grupları ya da diğer risk yoğunlaşmaları itibariyle yapılır. Banka ayrıca, önemli tutardaki net yabancı para risklerini de kamuoyuna açıklar.
+41. Bir banka, varlıklarının dağılımındaki ve borçlarının kaynağındaki önemli yoğunlaşmaları kamuoyuna açıklar; çünkü bu açıklamalar, varlıkların ve bankanın kullanabileceği fonların gerçekleştirilmesinden kaynaklanan olası risklerin faydalı bir göstergesidir. Bu tür açıklamalar, coğrafi bölgeler, müşteri veya sanayi grupları veya bankanın koşulları dikkate alındığında makul karşılanan diğer risk yoğunlaşmaları itibariyle yapılır. Bilanço dışı kalemler için de benzer nitelikte bir analiz ve açıklama yapılması önemlidir. Coğrafi bölgeler, ayrı ülkeleri, bir ülkeler grubunu veya bir ülke içindeki bölgeleri; müşterilere ilişkin açıklamalar ise, devlet, kamu otoriteleri ile ticari işletmeler gibi sektörleri kapsayabilir. Bu tür açıklamalar, “TMS 14 Bölümlere Göre Raporlama” Standardına uyarınca sunulması gereken herhangi bir bölüm bilgisine ilave olarak yapılır.
+42. Önemli düzeydeki net yabancı para risklerine ilişkin açıklama da, kur değişimlerinden kaynaklanan zarar riski açısından yararlı bir göstergedir.
+Kredi ve avanslara ilişkin zararlar
+43. Bir banka aşağıdakileri kamuoyuna açıklar:
+Tahsil edilemeyen kredi ve avansların gider olarak kaydedilmesi ve kayıtlardan silinmesini gösteren muhasebe politikasını.
+Kredi ve avanslardan kaynaklanan değer düşüklüğü zararları için ayrılan karşılıklarda dönem içerisinde oluşan hareketlerin detayını. Dönem içerisinde tahsil edilemeyen kredi ve avanslardan kaynaklanan değer düşüklüğü zararları kapsamında gider olarak muhasebeleştirilen tutarların, dönem içerisinde kayıtlardan silinen kredi ve avans tutarlarının ve daha önce kayıtlardan silinen kredi ve avanslardan geri alınanlar için dönem içerisinde alacak kaydedilen tutarların kamuoyuna ayrı ayrı açıklanmaları gerekir.
+Bilanço tarihi itibariyle kredi ve avanslardan kaynaklanan zararlar için ayrılan toplam karşılık tutarı.
+44. TMS 39 çerçevesinde muhasebeleştirilen değer düşüklüğü zararlarına ek olarak, kredi ve avanslara ilişkin zararlara ilişkin olarak ayrılan tutarlar da, dağıtılmamış kârlar içerisinde muhasebeleştirilir. Bu tür tutarların azaltılmasından kaynaklanan alacak kayıtları, dağıtılmamış kârlarda artışa neden olur ve dönem kâr veya zararının belirlenmesinde dikkate alınmaz.
+45. “-“
+46. Yerel koşullar ya da kanunlar, bir bankanın TMS 39 uyarınca muhasebeleştirilmiş olanlara ek olarak, kredi ve avanslara ilişkin değer düşüklüğü zararları için karşılık ayırmasını gerektirebilir veya bu konuda bankaya izin verebilir. Bu şekilde ayrılan tutarlar, kâr veya zararın belirlenmesine ilişkin bir gideri değil, dağıtılmamış kârlara ilişkin bir kalemi temsil eder. Benzer şekilde, bu tür tutarların azaltılmasından kaynaklanan alacak kayıtları, dağıtılmamış kârlarda artışa neden olur ve dönem kâr veya zararının belirlenmesinde dikkate alınmaz.
+47. Bir bankaya ait finansal tabloların kullanıcıları, kredi ve avanslardan kaynaklanan değer düşüklüğü zararlarının bankanın finansal durumu ve performansında yaratmış olduğu etkiyi bilme ihtiyacı duyarlar. Bu bilgi bankanın kaynaklarını ne derece etkili tahsis ettiği konusunda değerlendirme yapmalarına yardımcı olur. Bu nedenle bir banka bilanço tarihinde kredi ve avanslardan kaynaklanan değer düşüklüğü zararları için ayrılan karşılıkların toplam tutarını ve dönem içerisinde karşılıklarda gerçekleşen hareketleri kamuoyuna açıklar. Daha önce kayıtlardan silinmiş olmakla birlikte dönem içinde tahsil edilmiş olanlar da dahil olmak üzere, karşılıklarda meydana gelen hareketler ayrıca açıklanır.
+48. “-“
+49. Kredi ve avanslar tahsil edilemediğinde kayıtlardan silinir ve değer düşüklüğü zararlarına ilişkin karşılık hesaplarından düşülür. Bazı durumlarda, gerekli tüm yasal süreçler tamamlanmadan ve değer düşüklüğü zarar tutarı nihai olarak belirlenmeden, söz konusu alacaklar kayıtlardan silinmez. Diğer bazı durumlarda ise; kredi borçlusunun belirli bir dönem itibariyle ödemesi gereken bir faiz borcunu veya anapara tutarını geri ödememiş olduğu durumlar gibi, kredi ve avanslar asıl vadelerinden önce kayıtlardan silinir. Tahsil edilemeyen kredi ve avansların kayıtlardan silindiği tarihler farklılaştıkça, kredi ve avanslar ve ilgili değer düşüklüğü zararları için ayrılan karşılıkların brüt tutarları da benzer koşullar altında önemli ölçüde farklılık gösterebilir. Bu nedenle banka, tahsil edilemeyen kredi ve avansların kayıtlardan silinmesine ilişkin politikasını kamuoyuna açıklar.
+Genel bankacılık riskleri
+50. Gelecekteki zararlar ve diğer öngörülemeyen riskler veya koşullar da dahil olmak üzere, genel bankacılık riskleri için ayrılan tutarların, dağıtılmamış kârların bir kalemi olarak ayrı ayrı açıklanması gerekir. Bu tür tutarların azaltılmasından kaynaklanan alacak kayıtları dağıtılmamış kârlarda artışa neden olur ve dönem kâr veya zararının belirlenmesinde dikkate alınmazlar.
+51. Yerel koşullar ve kanunlar, bir bankanın 45 inci Paragrafa uygun olarak belirlenen kredi ve avans zararları için giderleştirilen tutarlara ek olarak gelecekteki zararlar ya da diğer öngörülemeyen riskler de dahil olmak üzere genel bankacılık riskleri için karşılık ayırmasını gerektirebilir ya da bu konuda bankaya izin verebilir. Bir bankanın koşullu işlemleri için de karşılık ayırması gerekebilir ya da bu konuda bankaya izin verilebilir. Genel bankacılık riskleri ve koşullu işlemleri için ayrılan bu tür karşılıkların, “TMS 37 Karşılıklar, Koşullu Borçlar ve Koşullu Varlıklar” Standardına göre karşılık olarak muhasebeleştirilmeleri uygun görülmez. Bu nedenle, bir banka bu tür karşılıkları dağıtılmamış kârların bir kalemi olarak muhasebeleştirir. Söz konusu durum, borçların olduğundan fazla; varlıkların, açıklanmamış tahakkuk ve karşılıkların ise olduğundan az gösterilmesini ve net gelir ile özkaynağın olduğundan farklı gösterilmesi olasılığını önlemek için gereklidir.
+52. Bir döneme ilişkin kâr veya zararın, genel bankacılık riskleri veya ek koşullu işlemler için ayrılan açıklanmamış tutarların etkilerini ya da bu tür tutarların iptalinden kaynaklanan açıklanmamış alacak kayıtlarının etkilerini içermesi durumunda, ilgili gelir tablosu, bir bankanın dönem performansı hakkında uygun ve güvenilir bilgi sağlayamaz. Benzer şekilde, bir bilançonun, olduğundan fazla gösterilmiş borçlar, olduğundan az gösterilmiş varlıklar veya açıklanmamış tahakkuk ve karşılıkları içermekte olması durumunda, bankanın finansal durumu hakkında uygun ve güvenilir bilgi sağlanamaz.
+Teminat olarak rehnedilen varlıklar
+53. Bir banka, teminatlı borçlarının toplam tutarını ve teminat olarak rehnedilen varlıklarının defter değerleri ile niteliğini açıklamak zorundadır.
+54. Bazı durumlarda, belirli mevduatları ve diğer borçları desteklemek amacıyla bankaların varlıklarını teminat olarak rehnetmeleri kanunla ya da bazı geleneksel uygulamalar sebebiyle zorunlu olmaktadır. Bu tür işlemlere konu tutarlar çoğunlukla ciddi büyüklüklerde oldukları için, bankanın finansal durumunun değerlendirilmesinde önemli bir etkiye sahip olabilmektedir.
+Emanet/saklama faaliyetleri
+55. Bankalar genellikle yediemin olarak hareket eder ve bireyler, vakıflar, emeklilik fayda planları ve diğer bireyler adına varlıkların saklanması ve yatırım olarak değerlendirilmesi sonucu doğuran emanet faaliyetlerinde bulunurlar. Yediemin veya benzeri bir ilişkinin yasal olarak desteklenmesi durumunda, bu varlıklar bankaya ait olmamaları nedeniyle bankanın bilançosunda yer almaz. Bir bankanın önemli ölçüde emanet faaliyetlerinde bulunması durumunda, bu tür güvene dayalı işlerinde başarılı olamaması halinde ortaya çıkacak borç olasılığı nedeniyle, söz konusu durum ve bu tür faaliyetlerin boyutu ile ilgili bir açıklamaya finansal tablolarında yer verir. Bu amaçla, emanet faaliyetleri güvenli saklama faaliyetlerini kapsamaz.
+İlişkili taraf işlemleri
+56. “TMS 24 İlişkili Taraf Açıklamaları” Standardı genel olarak ilişkili taraf ile olan ilişki ve işlemlerine ilişkin açıklamaları düzenler. Bazı durumlarda, kanun veya düzenleyeci otoriteler, bankaların ilişkili taraflarla işlem yapmasını engellemekte ya da yasaklamakta, diğer yandan, diğerlerinde ise bu tür işlemlere izin verilmektedir. TMS 24 Standardı, özellikle, bu tür işlemlere izin verilen bir ülkede bir bankanın finansal tablolarının sunumu konusuyla ilgilenir.
+57. İlişkili taraflar arasındaki belirli işlemler, ilişkili olmayan taraflarla yapılanlardan farklı koşullardan etkilenebilirler. Örneğin, bir banka aynı koşullar altında ilgili olmayan bir tarafa vereceğinden daha fazla bir avansı ilişkili olduğu tarafa verebilir veya daha düşük faiz oranı uygulayabilir; avans veya mevduatlar, ilişkili taraflar arasında ilişkili olmayan taraflara göre daha hızlı ve daha az formalite ile hareket edebilir. İlişkili taraf işlemleri, bir bankanın olağan işlerinden kaynaklanıyor olsalar dahi, bu tür işlemler ile ilgili bilgiler finansal tablo kullanıcılarının ihtiyaçları ile ilgilidir ve TMS 24 uyarınca açıklanmaları gerekir.
+58. Bir bankanın ilişkili taraflarla işlem yapması durumunda, ilgili taraf ile olan ilişkinin niteliğinin yanı sıra, söz konusu ilişkinin Bankanın finansal tabloları üzerindeki olası etkilerinin anlaşılması amacıyla, gerçekleştirilen işlemler ve bunların bakiyeleri hakkındaki bilgilerin kamuoyuna açıklanması uygundur. Açıklamalar, TMS 24’e uygun olarak yapılır ve bankanın ilişkili taraflara borç verme politikasını ve ilişkili taraf işlemleri kapsamında banka tarafından gerçekleştirilen işlemlere ilişkin aşağıdaki unsurları içerir:
+Dönem başı ve sonunda hesaplarda yer alan krediler, diğer alacaklar, menkul kıymetler, mevduat, temin edilen krediler, garantiler ve banka kabulleri gibi temel kalemlerin toplam tutarları ile bunlara ilişkin olarak dönem içinde meydana gelen değişimler ve geri ödemelere ilişkin açıklama ve gösterimler;
+Başlıca gelir türleri, faiz giderleri ve ödenen komisyon çeşitlerine ilişkin tutarlar;
+Kredi ve avanslardan kaynaklanan değer düşüklüğü zararları için dönem içinde muhasebeleştirilen gider tutarı ve bilanço tarihindeki her türlü karşılık tutarı; ve
+Cayılamaz taahhütler ile bilanço dışı kalemlerden kaynaklanan koşullu işlem ve taahhüt tutarları.
+Yürürlük tarihi
+59. “-“
