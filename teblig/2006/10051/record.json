@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.10051",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2006 MALİ YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ (SIRA NO: 5)",
+  "number": "10051",
+  "path": "teblig/2006/10051",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10051&MevzuatTertip=5",
+  "source_sha256": "11548be334ecda3d1b4e29631fccfac83c222fe36be5278b8cd78bb36facd8df",
+  "source_bytes": 39429,
+  "published": "2006-03-28",
+  "gazette": "26122",
+  "in_force": "2006-03-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.03.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1230,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.10051-Ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
