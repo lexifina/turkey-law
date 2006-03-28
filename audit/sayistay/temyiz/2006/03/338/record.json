@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28561",
+  "decision_date": "2006-03-28",
+  "source_id": 338,
+  "chamber": "7",
+  "file_number": "28424",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/338/",
+  "source_sha256": "ccd6d715d44f00fbd37117fa500d41bc5b58e1630b617c064e1762e95c9e068e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
