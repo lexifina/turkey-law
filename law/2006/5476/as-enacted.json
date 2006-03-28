@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5476",
+  "year": 2006,
+  "title": "At Yarışları Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-03-28",
+  "gazette_issue": "26122",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060328-2.htm",
+  "source_sha256": "1e2906471bd8b3c2e80ac5e0774e61e184646fe8e84b537af2b37c6ea0e7ff10",
+  "text_sha256": "b836afb92d2257dc7767ad5f7cb207966c5485c6aeeb465f714bbcc3dae6e34f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/03/28/26122-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060328-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
