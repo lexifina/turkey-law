@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5478",
+  "year": 2006,
+  "title": "Tütün, Tütün Mamulleri, Tuz ve Alkol İşletmeleri Genel Müdürlüğünün Yeniden Yapılandırılması ile Tütün ve Tütün Mamullerinin Üretimine, İç ve Dış Alım ve Satımına, 4046 Sayılı Kanunda ve 233 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanuna Bir Geçici Madde Eklenmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-03-28",
+  "gazette_issue": "26122",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060328-3.htm",
+  "source_sha256": "f5c63e005a9ca164eade2b4d8afcd4ad62f0ce573300841aca36b0503faf62a9",
+  "text_sha256": "71ddd25be67652136d7e72880031b6c21d7080f6469863c49b8ff8641dbe7698",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/03/28/26122-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060328-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
