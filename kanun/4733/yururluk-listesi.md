@@ -8,3 +8,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 Anayasa Mah.’nin E.: 2002/32 ve K.: 2003/100 sayılı Kararı | 9 | 11/8/2004
 5281 | Geçici Madde 3 | 1/1/2005 tarihinden geçerli olmak üzere 31/12/2004
 5398 | İşlenemeyen Hüküm | 21/7/2005
+5478 | Geçici Madde 4 | 28/3/2006
