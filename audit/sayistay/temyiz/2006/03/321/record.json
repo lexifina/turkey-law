@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28544",
+  "decision_date": "2006-03-28",
+  "source_id": 321,
+  "chamber": "6",
+  "file_number": "27674",
+  "account_year": "2001",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/321/",
+  "source_sha256": "78bdb6b556a9064b02d1b43ba603e49d68bf75af5690b825b62584fe495c3683",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
