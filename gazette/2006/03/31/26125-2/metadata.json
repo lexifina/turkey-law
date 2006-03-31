@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-03-31",
+  "issue": "26125",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI SÖZLEŞME",
+  "title": "2006/10160 Gümrük Rejimlerinin Basitleştirilmesi ve Uyumlaştırılmasına İlişkin Uluslararası Sözleşme Hakkında Değişiklik Protokolü’ne Katılmamız Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060331-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060331.htm",
+  "index_sha256": "e33e8966d5ef0dd4abeac593344fe389a556fc0f68b2f5bb10d4b7530e176c3b",
+  "index_header": "31 Mart 2006 ... Sayı : 26125",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
