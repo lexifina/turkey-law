@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5473",
+  "year": 2006,
+  "title": "Değişik Adlar Altında İlave Ödemesi Bulunmayan Memurlara ve Sözleşmeli Personele Ek Ödeme Yapılması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-03-31",
+  "gazette_issue": "26125",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060331-1.htm",
+  "source_sha256": "7cb7b8b9706a3dc42acc9c8c719cd93408fafdcef2861bebd5db7313d8b5e962",
+  "text_sha256": "fd3d8bd2cfc345edfb9b430df26f687edc493d042a1c1a35a1e99f25de811d0d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/03/31/26125-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/03/20060331-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
