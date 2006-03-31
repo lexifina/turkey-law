@@ -1,0 +1,30 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2006/13",
+  "date": "2006-03-31",
+  "title": "SPK Haftalık Bülteni 2006/13",
+  "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_13.pdf",
+  "source_sha256": "3c0f8848b29b2ef2366943f9935c65039953ca82f7aeefa991f7314686f6342f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "A. ÖZEL DURUMLAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. ÖZEL DURUMLAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_13.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
