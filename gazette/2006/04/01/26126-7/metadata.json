@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-04-01",
+  "issue": "26126",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Büyük Millet Meclisi Genel Sekreterliği Milli Saraylar Daire Başkanlığı Geleneksel Sanatlar, Restorasyon ve Konservasyon Uygulama (Programları) Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060401-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060401.htm",
+  "index_sha256": "fe9eadb73abadece54256a8cfb9b2cdf876dc10fe67c32daeba8e82cc9010d9b",
+  "index_header": "1 Nisan 2006 ... Sayı : 26126",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
