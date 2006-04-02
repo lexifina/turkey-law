@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-04-02",
+  "issue": "26127",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Kredi Kartı İşlemlerinde Uygulanacak Azami Faiz Oranları Hakkında Tebliğ (Sayı: 2006/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060402-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060402.htm",
+  "index_sha256": "bfbbc8b58c61f7e4ede3239ee674faffad8fdd7de0da8c5c57b8a31aac859561",
+  "index_header": "2 Nisan 2006 ... Sayı : 26127",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
