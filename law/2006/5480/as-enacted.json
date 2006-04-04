@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5480",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti ile Avrupa Birliği Arasında Türkiye Cumhuriyetinin Makedonya Eski Yugoslav Cumhuriyetindeki Avrupa Birliği Polis Misyonuna (Eupol-Proxıma) Katılımına Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-04-04",
+  "gazette_issue": "26129",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060404-1.htm",
+  "source_sha256": "6aa7474669e1000db9df1a9265ba51a11b1843d2c6a738c25f80bdae36abee3c",
+  "text_sha256": "63385c14cbf1c984529eefdfad51cfe54492427e92df76c5f7600001c0c7bc88",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/04/04/26129-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060404-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
