@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28565",
+  "decision_date": "2006-04-05",
+  "source_id": 342,
+  "chamber": "2",
+  "file_number": "27955",
+  "account_year": "2000",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/342/",
+  "source_sha256": "68bf97742a963c5f09cfbb1a3c887310194eebb30fca4441148f0985ff2f06dd",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
