@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5486",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti Başbakanlık Dış Ticaret Müsteşarlığı ile Çin Halk Cumhuriyeti Kalite Yönetimi, Denetim ve Karantina Genel İdaresi Arasında Sanayi Ürünlerinde Kalite ve Güvenliğe İlişkin Danışma ve İşbirliği Mekanizması Tesis Edilmesine Dair Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2006-04-06",
+  "adopted_as_published": "06/04/2006",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "08.04.2006 No: 26133",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005486.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 90",
+  "committee_reports": [
+    {
+      "label": "TBMM 1084 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c116/tbmm22116085ss1084.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 214286,
+      "title": "Türkiye Cumhuriyeti Başbakanlık Dış Ticaret Müsteşarlığı ile Çin Halk Cumhuriyeti Kalite Yönetimi, Denetim ve Karantina Genel İdaresi Arasında Sanayi Ürünlerinde Kalite ve Güvenliğe İlişkin Danışma ve İşbirliği Mekanizması Tesis Edilmesine Dair Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "06/04/2006",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005486.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1084 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c116/tbmm22116085ss1084.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 95,
+          "sitting": 6,
+          "sitting_date": "2005-10-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c095/tbmm22095006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c095/tbmm22095fih.pdf",
+          "pages": [
+            "62"
+          ]
+        },
+        {
+          "cilt": 111,
+          "sitting": 63,
+          "sitting_date": "2006-02-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c111/tbmm22111063.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c111/tbmm22111fih.pdf",
+          "pages": [
+            "261"
+          ]
+        },
+        {
+          "cilt": 116,
+          "sitting": 85,
+          "sitting_date": "2006-04-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c116/tbmm22116085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c116/tbmm22116fih.pdf",
+          "pages": [
+            "84:90",
+            "178:179"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=701&v_kullanici_id=27483198",
+      "page_sha256": "5cd77f0b570ec70dc652f7b6093f637cb0499eb722a08a35928cabb51a337a89"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5cd77f0b570ec70dc652f7b6093f637cb0499eb722a08a35928cabb51a337a89",
+  "issuer": "TBMM",
+  "in_force": "2006-04-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 06/04/2006; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
