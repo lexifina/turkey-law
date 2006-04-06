@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "711/2",
+  "decision_date": "2006-04-06",
+  "title": "2005 yılına ait Türkiye Ortalama Elektrik Toptan Satış Fiyatı",
+  "resmi_gazete_date": "2006-04-19",
+  "resmi_gazete_number": "26144",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4QrtaOsrCDw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4QrtaOsrCDw="
+  ],
+  "source_sha256": "80093c4885e5064c2a1febc0f9e213c5f901061d87cc4895edbf1bfb26af431d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-04-06",
+  "law_text_complete": false
+}
