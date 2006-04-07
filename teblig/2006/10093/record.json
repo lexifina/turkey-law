@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.10093",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/2)",
+  "number": "10093",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2006/10093",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10093&MevzuatTertip=5",
+  "source_sha256": "e9cdfbd27734738d5ad397cf60309170aaadf65f3b083a589ae112d565662cd4",
+  "source_bytes": 45635,
+  "published": "2006-04-07",
+  "gazette": "26132",
+  "in_force": "2006-04-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.04.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 782,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
