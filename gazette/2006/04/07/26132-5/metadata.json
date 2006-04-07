@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-04-07",
+  "issue": "26132",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Çin Halk Cumhuriyeti Menşeli Malların İthalatında Korunma Önlemlerine İlişkin Tebliğ (No: 2006/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060407-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060407.htm",
+  "index_sha256": "6b3107d3062d2d11f7829062cd6fac464d228708e283da489069e04e2c946b55",
+  "index_header": "7 Nisan 2006 ... Sayı : 26132",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
