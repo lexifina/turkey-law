@@ -8,3 +8,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 5217 | 17 | 1/1/2005
 5335 | 8, GEÇİCİ MADDE 4 | 27/4/2005
 5398 | (II) sayılı liste | 21/7/2005
+5479 | 1, 3, 11, 12, (I), (II), (III), (IV) sayılı listeler | 8/4/2006
