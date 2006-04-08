@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5481",
+  "year": 2006,
+  "title": "Kuzey Ankara Girişi Kentsel Dönüşüm Projesi Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-04-08",
+  "gazette_issue": "26133",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060408-2.htm",
+  "source_sha256": "e39e2ff7935a7ee752d06296bd0fef5319b9e9a223374b6a16f1627dc992fd1a",
+  "text_sha256": "be6cf4dc0e69a54df020603f8363422eeee219027eb7d5dfd80895e07677b882",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/04/08/26133-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060408-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
