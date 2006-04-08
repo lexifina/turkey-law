@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5482",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti ile Makedonya Cumhuriyeti Arasında İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-04-08",
+  "gazette_issue": "26133",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060408-3.htm",
+  "source_sha256": "54443298a1ce769bb747ada8b101f42d858d2f5bee82a3fd64b5aef5ced7d929",
+  "text_sha256": "ac296b7c04068afa85220a12d54aeba9c8baf6f0d8aa7d866e44f424bc1a229a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/04/08/26133-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060408-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
