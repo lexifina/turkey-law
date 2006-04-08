@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5486",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti Başbakanlık Dış Ticaret Müsteşarlığı ile Çin Halk Cumhuriyeti Kalite Yönetimi, Denetim ve Karantina Genel İdaresi Arasında Sanayi Ürünlerinde Kalite ve Güvenliğe İlişkin Danışma ve İşbirliği Mekanizması Tesis Edilmesine Dair Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-04-08",
+  "gazette_issue": "26133",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060408-6.htm",
+  "source_sha256": "8163e69a14919b441ffe127bed308a769ce5582fc6e6d90273ad72598aff8593",
+  "text_sha256": "44e1fae7f6c1bdc3019a902ff7411482050359331a974f00761f51971f3aef7b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/04/08/26133-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060408-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
