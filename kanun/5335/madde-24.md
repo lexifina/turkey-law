@@ -1,2 +1,1 @@
-MADDE 24 — 13.12.1983 tarihli ve 190 sayılı Kanun Hükmünde Kararnamenin 8 inci maddesinin üçüncü fıkrasının son cümlesi aşağıdaki şekilde değiştirilmiştir.
-Değiştirilen veya ihdas edilen kadrolar, bu kadroların dağılımına ilişkin cetvellerin ilgili mercilerce vize veya onaylandığı tarihten itibaren geçerli olmak üzere kullanılır ve aylık ödemeler vizeli veya onaylı kadro dağılım cetvellerine göre yapılır.
+Madde 24- (13.12.1983 tarihli ve 190 sayılı Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)

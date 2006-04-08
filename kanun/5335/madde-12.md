@@ -1,1 +1,1 @@
-MADDE 12 — 2.3.1984 tarihli ve 2985 sayılı Kanunun ek 3 üncü maddesinin üçüncü fıkrasındaki "veya Sosyal Sigortalar Kurumu" ibaresi madde metninden çıkarılmış ve aynı Kanuna aşağıdaki geçici maddeler eklenmiştir.
+Madde 12- (2.3.1984 tarihli ve 2985 sayılı Kanun ile ilgili olup yerine işlenmiştir.

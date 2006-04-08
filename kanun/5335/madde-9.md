@@ -1,2 +1,1 @@
-MADDE 9 — 29.8.1977 tarihli ve 2108 sayılı Kanunun 1 inci maddesinin birinci fıkrasının ikinci cümlesi aşağıdaki şekilde değiştirilmiştir.
-Bu gösterge rakamını, muhtarlıkların bulunduğu yerleşim biriminin idarî yapısı ve nüfusu gibi kriterleri ayrı ayrı veya birlikte dikkate almak suretiyle İçişleri Bakanlığının görüşü ve Maliye Bakanlığının teklifi üzerine bir katına kadar farklı olarak belirlemeye Bakanlar Kurulu yetkilidir.
+Madde 9- (29.8.1977 tarihli ve 2108 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
