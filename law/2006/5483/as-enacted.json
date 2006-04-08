@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5483",
+  "year": 2006,
+  "title": "190 Sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin Eki Cetvellerin Yargıtay Başkanlığına Ait Bölümünde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-04-08",
+  "gazette_issue": "26133",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060408-4.htm",
+  "source_sha256": "ca0c8e40ac697f2c755866e7234bbf3f8beff209b4b6fe4a327435c3501de8b5",
+  "text_sha256": "b30367fde42954273a56f1b75afb9738646f8f42947ab87b94e82e8182c6cc7b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/04/08/26133-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060408-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
