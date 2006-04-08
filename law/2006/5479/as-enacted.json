@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5479",
+  "year": 2006,
+  "title": "Gelir Vergisi Kanunu, Amme Alacaklarının Tahsil Usulü Hakkında Kanun, Özel Tüketim Vergisi Kanunu ve Vergi Usul Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-04-08",
+  "gazette_issue": "26133",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060408-1.htm",
+  "source_sha256": "aaaa8ae314672580ad132ad25b51cfd265f371ef85b5f109e014d32c60388047",
+  "text_sha256": "53df4b3ab74372b3fa06de64f2e8ccba30aa25fa0a2ecf138b01a93f2229ae7e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/04/08/26133-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060408-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
