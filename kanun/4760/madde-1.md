@@ -7,4 +7,4 @@ b) (II) sayılı listedeki inallardan kayıt ve tescile tâbi olanların ilk ikt
 c) (II) sayılı listedeki mallardan kayıt ve tescile tâbi olmayanlar ile (III) ve (IV) sayılı listelerdeki malların ithalatı veya imal ya da inşa edenler tarafından teslimi,
 d) (I), (III) ve (IV) sayılı listelerdeki mallar ile (II) sayılı listedeki mallardan kayıt ve tescile tâbi olmayanların özel tüketim vergisi uygulanmadan önce müzayede yoluyla satışı,
 Bir defaya mahsus olmak üzere özel tüketim vergisine tâbidir.
-2. Kanuna ekli listelerde yer alan mallar, Türk Gümrük Tarife Cetvelinde tanımlanan eşyalardır.
+2. (Değişik: 30/3/2006-5479/7 md.) Kanuna ekli listelerde yer alan mallar Türk Gümrük Tarife Cetvelinde tanımlanan eşyalardır. Bu malların tarife numaralarında veya tanımlarında bu Kanuna ekli listeler dışında yapılacak değişiklikler Özel Tüketim Vergisi Kanununun uygulanmasında hüküm ifade etmez.

@@ -1,9 +1,16 @@
 ÜÇÜNCÜ BÖLÜM
 Verginin Matrahı, Oranı veya Tutarı
 Vergileme ölçüleri ve matrah
-MADDE 11 - 1. (I) sayılı listedeki mallar için belirlenen maktu vergi tutarları ile (III) sayılı listedeki mallar için topluca veya ayrı ayrı maktu vergi tutarları tespit edilmesi halinde vergileme ölçüleri; alkol derecesi, kilogram, litre, metre, metreküp, kilokalori veya bunların alt ve üst birimleri ile gerektiğinde büyüklükleri de dikkate alınarak kap, ambalaj veya adet olarak uygulanır. (Ek cümle: 30/12/2004-5281/36 md.) Bakanlar Kurulu vergileme ölçülerini değiştirmeye yetkilidir.
+MADDE 11 - (Değişik: 30/3/2006-5479/9 md.)
+1. (I) sayılı listedeki mallar için belirlenen maktu vergi tutarları kilogram, litre, metreküp, standart metreküp, kilokalori veya bunların alt ve üst birimleri ile gerektiğinde büyüklükleri de dikkate alınarak kap, ambalaj veya adet olarak uygulanabilir.
 –––––––––––––––––––––––
 (1) 30/7/2003 tarihli ve 4962 sayılı Kanunun 8 inci maddesinde yer alan “4760 sayılı Kanunun 8 inci maddesinin (1) numaralı fıkrası aşağıdaki şekilde yeniden düzenlenmiştir.” hükmüne istinaden “yeniden düzenleme” ifadesi kullanılmıştır.
 (2) 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesiyle, bu fıkrada yer alan "ithalatçıları veya imalatçıları" ibaresi, "mükellefler" şeklinde değiştirilmiştir.
-2. (II), (III) (tütün mamulleri hariç) ve (IV) sayılı listelerdeki mallar için verginin matrahı; bunların teslimi, ilk iktisabı ve ithalinde, hesaplanacak özel tüketim vergisi hariç katma değer vergisi matrahım oluşturan unsurlardan teşekkül eder.
-3. (III) sayılı listedeki mallardan tütün mamullerinde matrah; bunların nihai tüketicilere perakende satış fiyatıdır.
+2. (III) sayılı listedeki mallar için asgari maktu vergi tutarları;
+a) (A) cetvelindeki mallardan, 2203.00 G.T.İ.P. numaralı mallar için bir litredeki her bir alkol derecesi, 22.04, 22.05 (2205.10.90.00.12 hariç) ve 2206.00 G.T.İ.P. numaralı mallar için her bir litre, diğer mallar için içerdiği alkolün her bir litresi itibarıyla,
+b) (B) cetvelindeki mallar için perakende satışa sunulan sigaraların birim ambalajı içinde yer alan her bir sigara, diğer tütün mamullerinin birim ambalajı içindeki mamulün her bir gramı itibarıyla,
+uygulanır.
+3. (II), (III) [(B) cetvelindekiler hariç] ve (IV) sayılı listelerdeki mallar için verginin matrahı; bunların teslimi, ilk iktisabı ve ithalinde, hesaplanacak özel tüketim vergisi hariç, katma değer vergisi matrahını oluşturan unsurlardan teşekkül eder.
+4. (III) sayılı listenin (B) cetvelindeki mallar için verginin matrahı; bunların nihai tüketicilere perakende satış fiyatıdır.
+5. (III) sayılı listedeki mallar için asgari maktu vergi tutarlarına göre hesaplanacak vergi tutarından az olmamak üzere yalnızca nispi vergi uygulanır.
+Bakanlar Kurulu bu maddede yer alan vergileme ölçülerini değiştirmeye yetkilidir.
