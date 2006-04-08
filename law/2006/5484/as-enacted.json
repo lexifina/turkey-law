@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5484",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti ile Güney Afrika Cumhuriyeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-04-08",
+  "gazette_issue": "26133",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060408-5.htm",
+  "source_sha256": "dccbf65091f3a02ddb0fe91d0a9701140b9f02eb68292b1a1a63314c7b6dbe3a",
+  "text_sha256": "6c8c099d9bcb99e84712ecaf16953d443d26d09bbfc554e4ddaa3d34145829e5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/04/08/26133-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060408-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
