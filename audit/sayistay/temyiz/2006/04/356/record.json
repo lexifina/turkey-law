@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28581",
+  "decision_date": "2006-04-10",
+  "source_id": 356,
+  "chamber": "4",
+  "file_number": "28216",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/356/",
+  "source_sha256": "3015201d821b90b9dbe1da12a0f92f3be8aa3b634ace46c811d03590d103f4e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
