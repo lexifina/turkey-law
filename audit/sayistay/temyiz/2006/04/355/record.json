@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28580",
+  "decision_date": "2006-04-10",
+  "source_id": 355,
+  "chamber": "4",
+  "file_number": "28214",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/355/",
+  "source_sha256": "5179411aa91b6b422794f2a660d5f7e4051c9652fda4671ad5a07d7a0b6af78c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
