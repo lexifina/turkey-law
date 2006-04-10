@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28578",
+  "decision_date": "2006-04-10",
+  "source_id": 353,
+  "chamber": "4",
+  "file_number": "28113",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/353/",
+  "source_sha256": "5363cf3e690f9f186a87bd7580df4d3deb2ef6ec160a95995b58cbd5ad04682d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
