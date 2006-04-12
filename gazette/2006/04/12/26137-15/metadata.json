@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-04-12",
+  "issue": "26137",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Finansal Tabloların Sunuluşuna İlişkin Türkiye Muhasebe Standardı Hakkında Tebliğde Değişiklik Yapılmasına İlişkin Tebliğ (Sıra No: 37)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060412-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060412.htm",
+  "index_sha256": "60dd8205c239b229644543d1c5ebdc3d9841ef0403cda714eff3816b934aa25b",
+  "index_header": "12 Nisan 2006 ... Sayı : 26137",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
