@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "725",
+  "decision_date": "2006-04-13",
+  "title": "BOTAŞ'ın mevcut sözleşmelerinin var olduğu ülkeler dışındaki ülkelerden yapılacak ithalat için yapılacak müracaatlara ve müracaatların değerlendirilmesine ilişkin usul ve esasları belirlenmesine ilişkin Kurul Kararı",
+  "resmi_gazete_date": "2006-04-29",
+  "resmi_gazete_number": "26153",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QLkUrZO69fQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QLkUrZO69fQ="
+  ],
+  "source_sha256": "cb5289f2e587b1a39982a617e04eabf867290f570ae031a9ed4315b9322e8a77",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-04-13",
+  "law_text_complete": false
+}
