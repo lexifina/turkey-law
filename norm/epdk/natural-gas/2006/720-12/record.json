@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "720/12",
+  "decision_date": "2006-04-13",
+  "title": "Çorum Doğal Gaz Dağıtım San. ve Tic. A.Ş.’nin (ÇORUMGAZ) dağıtım bölgesinin Sungurlu şehrini de kapsayacak şekilde genişletilmesine ilişkin",
+  "resmi_gazete_date": "2006-04-28",
+  "resmi_gazete_number": "26152",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yKDfB4tocPg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yKDfB4tocPg="
+  ],
+  "source_sha256": "064aed127a330e655925701d6d264a7e817f4a0f3ab2fa8e185c93003efe6c3d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-04-13",
+  "law_text_complete": false
+}
