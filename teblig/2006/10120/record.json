@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10120",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLÎ EMLAK GENEL TEBLİĞİ (SIRA NO: 304)",
+  "number": "10120",
+  "path": "teblig/2006/10120",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10120&MevzuatTertip=5",
+  "source_sha256": "7e4c52925e04560e711eb964715f31039a2d38f8c9bc1e26d9d574444d9b7a4a",
+  "source_bytes": 116907,
+  "published": "2006-04-13",
+  "gazette": "26138",
+  "in_force": "2006-04-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.04.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1670,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
