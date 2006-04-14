@@ -1,0 +1,2 @@
+Müfettişin yükümlülükleri
+MADDE 13 – (1) Müfettişler, sıfat ve görevleri ile bağdaşmayacak tutum ve davranışlardan kaçınmakla, yetkilerini aşmamakla ve yaptıkları işler hakkında yetkili makamlardan başkasına bilgi vermemekle yükümlüdürler. Müfettişler, icraya müdahale edemez, evrak, defter ve kayıtlar üzerine şerh düşemez, ilave ve düzeltme yapamaz ve denetime tabi kimselerle, beşeri ve sosyal ilişkilerin gerektirdiği ilişkiler hariç, özel ilişkiler kuramazlar.
