@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-04-15",
+  "issue": "26140",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2006/24)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060415-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060415.htm",
+  "index_sha256": "7e53b99840262308b741aa70b9f79a89c789ace2c6aaaee77918e4027bfbd846",
+  "index_header": "15 Nisan 2006 ... Sayı : 26140",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
