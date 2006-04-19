@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-04-19",
+  "issue": "26144",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "GENELGELER",
+  "title": "Kamu Sertifikasyon Hizmetlerine İlişkin Usul ve Esaslar ile İlgili 2006/13 Sayılı Başbakanlık Genelgesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060419-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060419.htm",
+  "index_sha256": "9905d12ff872d34dbb4afa2c8a0603ed7c6dc5e7f8f85597ee52cf9b685aee34",
+  "index_header": "19 Nisan 2006 ... Sayı : 26144",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
