@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.10156",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ORMAN VE PARK-BAHÇE AĞAÇLARI, AĞAÇÇIKLARI VE ÇALILARI FİDANI YETİŞTİRİCİLİĞİ HAKKINDA TEBLİĞ",
+  "number": "10156",
+  "issuer": "Çevre ve Orman Bakanı",
+  "path": "teblig/2006/10156",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10156&MevzuatTertip=5",
+  "source_sha256": "a5a235c2ac41fb2f614ad95c03d6f6e89c4c61abc33b9f1c7e4f0ba04361b8bc",
+  "source_bytes": 34236,
+  "published": "2006-04-19",
+  "gazette": "26144",
+  "in_force": "2006-04-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.04.2006); own commencement article: \"Bu Tebliğ 1/1/2006 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2006 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1140,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
