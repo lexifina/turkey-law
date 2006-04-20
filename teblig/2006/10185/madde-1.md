@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, 9/5/2005 tarihli ve 25810 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin 2005/4 sayılı Tebliğ uyarınca 70.13 gümrük tarife pozisyonlu "sofra, mutfak, tuvalet, yazıhane, ev tezyinatı ve benzeri işler için cam eşya"nın ithalatında, İthalatta Kota ve Tarife Kontenjanı İdaresi Mevzuatı çerçevesinde, İran İslam Cumhuriyeti’ne (İran) uygulanacak olan beşinci dönem miktar kısıtlamasına ilişkin başvuru ve dağıtım ile ithal lisanslarının kullanım usul ve esaslarını içermektedir.
