@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "734/324",
+  "decision_date": "2006-04-20",
+  "title": "Lisans Sahipleri Tarafından Verilecek Bildirimlere İlişkin (Mülga) Ek : Bildirim, Beyan Ve Çizelgeler Tablosu",
+  "categories": [
+    "LPG Piyasası Mülga Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KG/IpiljzZM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KG/IpiljzZM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8DZIYaVM5CQ="
+  ],
+  "source_sha256": "6b06c7fd122a8df1b32fcc440875bbab7f24dae256ee99a3ed1f20c9ba55927e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5102,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-04-20",
+  "law_text_complete": false
+}
