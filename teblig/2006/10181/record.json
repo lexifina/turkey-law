@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.10181",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TOPLU KONUT YAPIMCILARINA KREDİ AÇILMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/1)",
+  "number": "10181",
+  "issuer": "Toplu Konut İdaresi Başkanı",
+  "path": "teblig/2006/10181",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10181&MevzuatTertip=5",
+  "source_sha256": "31d7e801f9c589e75c323b6d6af4fe591807c6c7fef81efbf00dd71782734df0",
+  "source_bytes": 72986,
+  "published": "2006-04-20",
+  "gazette": "26145",
+  "in_force": "2006-04-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.04.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3558,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

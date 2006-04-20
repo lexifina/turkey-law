@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 2985 sayılı Toplu Konut Kanunu, 18/04/2002 tarihli ve 24730 sayılı Resmî Gazete’de yayımlanan 18/04/2002 tarihli ve 2002/3888 sayılı Bakanlar Kurulu Kararı eki Toplu Konut İdaresi Kaynaklarının Kullanım Şekline İlişkin Yönetmelik ile 14/06/1997 tarihli ve 23019 sayılı Resmî Gazete’de yayımlanan Toplu Konut Kredileri Uygulama Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.
