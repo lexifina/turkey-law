@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-04-21",
+  "issue": "26146",
+  "edition": "regular",
+  "item": 10,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Uludağ Elektrik Dağıtım Anonim Şirketi Balıkesir İl Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/04/20060421-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (19 = 19)",
+  "ilan_codes": [
+    "4246/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/04/20060421-3.htm",
+  "category_page_sha256": "7bbe5fd6b1d071b91fc0d98c850751849ae522acd836e12f3d109f955ec0f916",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/04/20060421.htm",
+  "index_sha256": "57c1819319112549ebd9ef189b57b87a5da34f97f5ca3fdf17dfc5202682ff19",
+  "index_header": "21 Nisan 2006 ... Sayı : 26146",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
