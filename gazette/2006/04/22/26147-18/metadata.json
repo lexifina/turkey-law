@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-04-22",
+  "issue": "26147",
+  "edition": "regular",
+  "item": 18,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türkiye Taekwondo Federasyonuna İdari ve Mali Yönden Özerklik Verilmesine Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060422-18.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060422.htm",
+  "index_sha256": "e1c758fd5144bbcc243bfc9de63b26aa4bfdf84e854d725007b639fe5a9a677c",
+  "index_header": "22 Nisan 2006 ... Sayı : 26147",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
