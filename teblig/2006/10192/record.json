@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.10192",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TAVUKÇULUK ARAŞTIRMA ENSTİTÜSÜ TARAFINDAN GELİŞTİRİLEN YUMURTACI HİBRİTLERİN TESCİLİ HAKKINDA TEBLİĞ (TEBLİĞ NO: 2006/15)",
+  "number": "10192",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2006/10192",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10192&MevzuatTertip=5",
+  "source_sha256": "b1b1994ca47f4b869f09e574a7cea1dbe50455be8e4aa07f1808caf7c3c24df6",
+  "source_bytes": 113811,
+  "published": "2006-04-22",
+  "gazette": "26147",
+  "in_force": "2006-04-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.04.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 924,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
