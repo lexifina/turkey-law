@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5485",
+  "year": 2006,
+  "title": "Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-04-22",
+  "gazette_issue": "26147",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060422-1.htm",
+  "source_sha256": "d41cd710eb8cb71f62fab26d50f1f072dd9081cb47230fabaedf824382f08082",
+  "text_sha256": "40e1e2125a0b3b823f163c28d580ec3358a5f6f76c14ef01d02ddeea5a9cc7a3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/04/22/26147-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060422-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
