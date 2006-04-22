@@ -1,0 +1,5 @@
+Komisyonun toplanma usulü
+MADDE 8 – (1) Komisyon, proje değişikliği için başvuru yapılan kurumun talebi üzerine başvuru yapılan kurumda, kurum temsilcisinin başkanlığında, başvuru tarihinden itibaren onbeş gün içinde toplanır.
+(2) Komisyon en az beş üye ile toplanır. Bu sayıya ulaşılamadığı takdirde yedi gün içinde aynı adreste tekrar toplanılır.
+(3) Komisyon sekreteryası başvuru yapılan kurum tarafından yürütülür.
+(4) Komisyon üyeliğinden dolayı ödenecek harcırah, yol masrafları ve huzur hakkının ve proje tadilatına ilişkin deney ve testler dahil inceleme giderlerinin ruhsat vermeye yetkili kurum tarafından karşılanması için; il encümeninin 5302 sayılı İl Özel İdaresi Kanunu’nun 43 üncü maddesinin 1 inci fıkrasının (h) bendi uyarınca alacağı kararla, belediye encümenlerinin 5393 sayılı Belediye Kanunu’nun 60 ıncı maddesinin 1 inci fıkrasının (i) bendi uyarınca veya 5216 sayılı Büyükşehir Belediyesi Kanunu’nun 24 üncü maddesinin 1 inci fıkrasının (j) bendi uyarınca alacağı kararla ödeme yapılır.
