@@ -7,3 +7,5 @@ MADDE 114.- (1) Tutuklulardan çalışmaları istenebilir; ancak, buna mecbur tu
 (4) Tutuklu, savunması için istediği müdafii seçmek ve görevlendirmek hakkına sahiptir. Her dereceden kurum görevlileri bu hususta tutukluya tavsiyelerde bulunamaz.
 (5) Tutuklunun müdafii ile olan haberleşmesine ve kurum düzeni çerçevesinde temas ve görüşmelerine hiçbir suretle engel olunamaz ve kısıtlamalar konulamaz.
 (6) Özel kanunda yer alan hükümler saklıdır.
+____________________
+(1) 6/4/2006 tarihli ve 5485 sayılı Kanunun 1 inci maddesi ile bu maddenin üçüncü fıkrası yürürlükten kaldırılmış ve diğer fıkra numaraları buna göre teselsül ettirilmiştir.

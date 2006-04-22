@@ -5,3 +5,4 @@ ________________________________
 Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Değiştiren Kanun Resmi Gazete Tarihi | Anayasa Mahkemesi Karar Tarih/No. | 5271 sayılı Kanunun değiştirilen maddeleri
 5328 | 31/3/2005 | 31/3/2005 |  | 123
 5351 | 1/6/2005 | 1/6/2005 |  | 9, 23, 31, 47, 59, 92, 106, 107, 110
+5485 | 22/4/2006 | 22/4/2006 |  | 110
