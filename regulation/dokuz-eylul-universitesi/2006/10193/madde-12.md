@@ -1,0 +1,3 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Üniversite öğretim elemanları, mezunları ve Merkezin faaliyetleri ile ilgili yurt içi ve yurt dışında önemli çalışmalar yapmış kişilerden ve ilgili kuruluş temsilcileri arasından, Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıllığına görevlendirilen en az beş en çok yirmi üyeden oluşur. Danışma Kuruluna görevlendirilen üye sayısı içinde Dokuz Eylül Üniversitesi mensubu öğretim elemanı sayısı beşten az, ondan fazla olamaz.
+(2) Rektör veya Rektörün görevlendireceği Rektör Yardımcısı, Danışma Kurulunun doğal başkanıdır. Danışma Kurulu üyeleri görevlendirme tarihinden itibaren en geç bir ay içinde toplanır ve bir başkan yardımcısı ile bir raportör görevlendirirler. Merkez Müdürü, Danışma Kurulu toplantılarına katılır.
