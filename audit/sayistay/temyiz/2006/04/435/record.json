@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28660",
+  "decision_date": "2006-04-25",
+  "source_id": 435,
+  "chamber": "5",
+  "file_number": "28128",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/435/",
+  "source_sha256": "482c71ba32c28fd303429ca6870011b001036f64c0ae7c6d7fdf70cbc21cb1bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
