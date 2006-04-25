@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28664",
+  "decision_date": "2006-04-25",
+  "source_id": 439,
+  "chamber": "6",
+  "file_number": "28304",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/439/",
+  "source_sha256": "e77bf6c3dc09ad6d8b9c802c8792856e7635de3ed57069281e7a537b66ad5958",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
