@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28671",
+  "decision_date": "2006-04-25",
+  "source_id": 446,
+  "chamber": "6",
+  "file_number": "28169",
+  "account_year": "2000",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/446/",
+  "source_sha256": "f155bc7847c6d0212966ef445efa8d3455795fc6b3989a138e8936e0c45dbc42",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
