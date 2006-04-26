@@ -1,0 +1,3 @@
+Amaç ve kapsam
+MADDE 1 – (1) 4/11/1999 tarihli ve 23866 sayılı Resmî Gazete’de yayımlanan 4458 sayılı Gümrük Kanununun 46 ncı maddesinde, özet beyan kapsamındaki eşyaya, gümrükçe onaylanmış bir işlem veya kullanım belirlenerek buna ilişkin işlemlerin denizyolu ile gelen eşyada özet beyanın verildiği tarihten itibaren 45 gün, diğer bir yolla gelen eşyada ise özet beyanın verildiği tarihten itibaren 20 gün içinde tamamlanacağı; şartlar gerektirdiği takdirde, Gümrük Müsteşarlığının söz konusu sürelerden daha kısa bir süre saptayabileceği gibi bu sürelerin uzatılmasına da izin verebileceği hüküm altına alınmıştır.
+(2) Bu Tebliğ ile söz konusu süre uzatımı ile ilgili olarak gümrük idarelerince yapılacak işlemlere ilişkin usul ve esaslar düzenlenmektedir.

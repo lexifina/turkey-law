@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.10208",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (SÜRE DEĞİŞİMİ) SERİ NO: 2",
+  "number": "10208",
+  "issuer": "Gümrük Müsteşarlığının bağlı bulunduğu Bakan",
+  "path": "teblig/2006/10208",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10208&MevzuatTertip=5",
+  "source_sha256": "e7edf69046d50063547673f8b809b9e3de64ff62647d5158ad096c4af04548e4",
+  "source_bytes": 15629,
+  "published": "2006-04-26",
+  "gazette": "26150",
+  "in_force": "2006-04-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.04.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 401,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
