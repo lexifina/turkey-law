@@ -1,0 +1,2 @@
+Belli istekliler arasında ihale usulü
+MADDE 12 – (1) Belli istekliler arasında ihale usulü, yapılacak ön yeterlilik sonucunda idarece davet edilen isteklilerin teklif verebildiği usuldür. Bu Yönetmeliğin 9 uncu maddesi kapsamındaki tüm alımlar bu usulle yapılabilir. Belli istekliler arasında ihale usulünde ön yeterlik dokümanı, ön yeterlik ilanı, ön yeterlik değerlendirmesi, davet edilecek aday sayıları ve ihalenin iptali uygulamaları 4734 sayılı Kanun ve uygulama yönetmeliklerine tabidir.

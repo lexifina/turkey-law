@@ -1,0 +1,5 @@
+İhale komisyonları
+MADDE 8 – (1) Alım yapılacak mal ve hizmetlerin acil müdahaleye münhasır uzmanlık gerektirmesi veya acil durumlarda hızlı ve etkin alım yapılabilmesi amaçları için Bakanlık ve Müsteşarlık bünyelerinde ihale komisyonları oluşturulur. Bu komisyonların oluşturulmasında Çevre ve Orman Bakanı ile Denizcilik Müsteşarı yetkilidir.
+(2) Acil durumlarda deniz kirliliğine müdahalede hız ve verimliliği sağlamak maksadıyla yapılacak mal ve hizmet alımları için olay meydana geldiğinde derhal göreve başlamak üzere Acil Müdahale Birimi veya Bölgesel Acil Müdahale Birimleri altında ihale komisyonları oluşturulabilir veya mevcut ihale komisyonları bu merkezlerle ilişkilendirilebilir. Böyle durumlarda bahse konu komisyonlar ihale yetkilisi tarafından durumun özelliğine göre beklenen mal ve hizmet ihtiyaçlarını tedarik edecek şekilde alım limitleri ile yetkilendirilir.
+(3) Bu Yönetmeliğin uygulanması kapsamında ihtiyaç duyulacak ihale komisyonları 4734 sayılı Kanun hükümlerine göre oluşturulur.
+(4) İhale komisyonlarının görevlerinin bitiminde ilgili ihale dokümanları ve raporları, Bakanlık veya Müsteşarlık bünyesinde konuyla ilgili birime teslim edilir.
