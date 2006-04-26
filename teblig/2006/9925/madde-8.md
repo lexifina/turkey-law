@@ -1,0 +1,3 @@
+Madde 8 — Adına hesap açılacak imalatçı/ihracatçı veya ihracatçılardan, ihracatçı birliklerine başvuruları sırasında, Maliye Bakanlığı’na hitaben bir örneği ekte yer alan taahhütname alınır.
+İhracatçı birlikleri tarafından ABD Doları olarak belirlenerek Türkiye Cumhuriyet Merkez Bankası’na bildirilen her hakediş tutarı, hakediş belgesinin düzenlendiği tarihteki Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden Türk Lirası’na çevrilerek sabitleştirilir.
+İhracat Bağlantılı Tarımsal Üretim Sözleşmesi kapsamında artırımlı olarak iadeden faydalandırıldığı ilgili ihracatçı birliği tarafından Türkiye Cumhuriyet Merkez Bankası’na bildirilen hakediş tutarı içinde üretici payına tekabül eden miktar, üretici tarafından beyan edilmiş olan banka hesabına aktarılır.

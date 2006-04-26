@@ -1,0 +1,1 @@
+Madde 21 — İhracatçı tarafından yanıltıcı bilgi ve belge verilmesinden dolayı haksız olarak ödenen Destekleme ve Fiyat İstikrar Fonu primlerinin ilgililerden alınan taahhütname ve ilgili mevzuat hükümleri çerçevesinde geri almaya Türkiye Cumhuriyet Merkez Bankası yetkilidir.

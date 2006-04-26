@@ -1,0 +1,3 @@
+Diğer hususlar
+Madde 6 — Bu Tebliğ kapsamında; vergiler, vergi cezaları, SSK primleri, haberleşme giderleri (sabit telefon, telefaks vb.), enerji giderleri (elektrik ve doğalgaz), Tasarruf Mevduatı Sigorta Fonu’na ve ilgili tasfiye halindeki Bankalara olan borçlar ve bunların gecikme zammı ve faizlerine ilişkin giderlerin tamamı mahsup edilir.
+Bu Tebliğ kapsamı mahsup işlemlerinde, hesapların kullanımı sırasında imalatçı/ihracatçı veya ihracatçılara hiçbir şekilde nakit olarak doğrudan ihracat iadesi ödemesi yapılmaz.
