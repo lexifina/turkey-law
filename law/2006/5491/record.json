@@ -1,0 +1,93 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5491",
+  "year": 2006,
+  "title": "Çevre Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2006-04-26",
+  "adopted_as_published": "26/04/2006",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "13.05.2006 No: 26167",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005491.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 90",
+  "committee_reports": [
+    {
+      "label": "TBMM 871 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c118/tbmm22118093ss0871.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 214291,
+      "title": "Çevre Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "26/04/2006",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005491.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 871 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c118/tbmm22118093ss0871.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 16,
+          "sitting_date": "2002-12-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c002/tbmm22002016.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c002/tbmm22002fih.pdf",
+          "pages": [
+            "79"
+          ]
+        },
+        {
+          "cilt": 81,
+          "sitting": 86,
+          "sitting_date": "2005-04-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c081/tbmm22081086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c081/tbmm22081fih.pdf",
+          "pages": [
+            "575"
+          ]
+        },
+        {
+          "cilt": 118,
+          "sitting": 93,
+          "sitting_date": "2006-04-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c118/tbmm22118093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c118/tbmm22118fih.pdf",
+          "pages": [
+            "39:90"
+          ]
+        },
+        {
+          "cilt": 118,
+          "sitting": 94,
+          "sitting_date": "2006-04-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c118/tbmm22118094.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c118/tbmm22118fih.pdf",
+          "pages": [
+            "276:294"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=701&v_kullanici_id=27483198",
+      "page_sha256": "5cd77f0b570ec70dc652f7b6093f637cb0499eb722a08a35928cabb51a337a89"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5cd77f0b570ec70dc652f7b6093f637cb0499eb722a08a35928cabb51a337a89",
+  "issuer": "TBMM",
+  "in_force": "2006-04-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 26/04/2006; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
