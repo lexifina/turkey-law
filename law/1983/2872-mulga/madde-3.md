@@ -1,0 +1,10 @@
+Madde 3 – (9/8/1983 tarihli ve 2872 sayılı Kanunun hükmüdür.)
+Çevre korunmasına ve çevre kirliliğinin önlenmesine ilişkin genel ilkeler şunlardır:
+a) Çevrenin korunması ve çevre kirliliğinin önlenmesi gerçek ve tüzelkişilerle vatandaşların görevi olup, bunlar bu konuda alınacak tedbirlere ve belirlenen esaslara uymakla yükümlüdürler.
+b) Çevre korunmasına ve kirliliğine ilişkin karar ve önlemlerin alınması ve uygulanmasında; insan ve diğer canlı varlıkların sağlığının korunması, alınacak önlemlerin kalkınma çabalarına olumlu ve olumsuz etkileri ile fayda ve maliyetleri dikkate alınarak kısa ve uzun vadeli değerlendirmelerin yapılması esastır.
+c) Arazi ve kaynak kullanım kararlarını veren ve proje değerlendirmesi yapan yetkili kuruluşlar, kalkınma çabalarını olumsuz yönde etkilememeyi dikkate alarak çevrenin korunması ve kirlenmemesi hedefini gözetirler.
+d) Ekonomik faaliyetlerde ve üretim metodlarının tayininde çevre sorunlarının önlenmesi ve sınırlandırılması amacıyla en elverişli teknoloji ve yöntemler seçilir ve uygulanır.
+e) (Değişik: 3/3/1988 - 3416/1. md.) Kirlenmenin önlenmesi, sınırlandırılması ve mücadele için yapılan harcamaların kirleten tarafından karşılanması esastır. Kirletenin kirlenmeyi durdurmak, gidermek ve azaltmak için gerekli önlemleri almaması veya bu önlemlerin yetkili makamlarca doğrudan alınması nedeniyle kamu kurum ve kuruluşlarınca yapılan gerekli harcamalar 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre kirletenden tahsil edilir.
+Ancak kirletenler, kirlenmenin önlenmesi ve sınırlanması için yapılan giderleri ödeme yükümlülüğünden söz konusu kirlenmeyi önlemek için gerekli her türlü tedbiri aldıklarını ispat etmek kaydıyla kurtulabilirler.
+f) (Değişik: 3/3/1988 - 3416/1. md.) İnilebilecek en düşük kirlenme seviyesi esas alınarak, bu seviyenin üstünde meydana gelebilecek kirlenmeler için bu Kanunun 18 inci maddesinin (ı) bendinde belirlenen ücretler ayrıca alınır.
+g) Çevrenin korunması ve kirlenmenin önlenmesi konusunda alınacak tedbirlerin bir bütünlük içinde tespiti ve uygulanması esastır.

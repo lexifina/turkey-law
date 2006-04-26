@@ -1,0 +1,2 @@
+Madde 10 – fıkra üç - (26/4/2006 tarihli ve 5491 sayılı Kanunun hükmüdür.) Petrol, jeotermal kaynaklar ve maden arama faaliyetleri, Çevresel Etki Değerlendirmesi kapsamı dışındadır.
+İşlenemeyen hüküm Geçici Madde 2 – fıkra bir – (26/4/2006 tarihli ve 5491 sayılı Kanunun hükmüdür.) Bu Kanunun yürürlüğe girdiği tarihte faal durumda olan işletmelere bu Kanun ve yönetmeliklerle getirilen ek yükümlülüklerin gerçekleştirilmesi için, yönetmeliklerin yayımlanmasından sonra, Bakanlıkça bir yıla kadar süre verilebilir. (1)

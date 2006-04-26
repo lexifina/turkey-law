@@ -1,0 +1,3 @@
+Madde 16 – (9/8/1983 tarihli ve 2872 sayılı Kanunun hükmüdür.)
+Çevre kirliliğinin toplum sağlığı yönünden tehlike yarattığı hallerde Sağlık ve Sosyal Yardım Bakanlığı kendiliğinden veya Başbakanlık Çevre Müsteşarlığının talebi üzerine, bu kirlenmeye yol açan faaliyetlerin geçici bir süre için kısmen veya tamamen durdurulmasına karar verir ve kararın uygulanmasını mahallin en büyük mülki amirinden ister.
+Söz konusu faaliyetler bu gibi hallerde, mahallin en büyük mülki amirinin, vereceği kararla da durdurulabilir. Bu karar derhal Sağlık ve Sosyal Yardım Bakanlığı ile Başbakanlık Çevre Müsteşarlığına bildirilir.
