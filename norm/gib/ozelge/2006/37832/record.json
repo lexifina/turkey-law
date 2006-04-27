@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.40/4076-112-31824",
+  "source_id": 37832,
+  "date": "2006-04-27",
+  "title": "Birden fazla takvim yılına sirayet eden inşaat (dekapaj işleri de inşaat işi sayılır) ve onarma...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37832",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "7c90ebdae65a7f7c33991a05342b234fa752a40305503d3c76fc53328e8151f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
