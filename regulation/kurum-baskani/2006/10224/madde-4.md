@@ -1,0 +1,3 @@
+Komisyonun oluşumu ve görevleri
+MADDE 4 – (1) Komisyon; Kurum, Maliye Bakanlığı, Hazine Müsteşarlığı, Türkiye Cumhuriyet Merkez Bankası, Sermaye Piyasası Kurulu, Tasarruf Mevduatı Sigorta Fonu, Rekabet Kurulu, Devlet Plânlama Teşkilatı Müsteşarlığı, İstanbul Altın Borsası, İstanbul Menkul Kıymetler Borsası, Vadeli İşlem ve Opsiyon Borsası A.Ş., Türkiye Bankalar Birliği ve Türkiye Katılım Bankaları Birliği temsilcilerinden oluşur.
+(2) Komisyon, finansal piyasalardaki güven ve istikrar ile gelişmeyi temin etmek üzere, bilgi teatisini, kurumlararası işbirliği ve koordinasyonu sağlamak, ortak politika önerilerinde bulunmak ve finans sektörünün geleceğini ilgilendiren konulara ilişkin görüş bildirmekle görevlidir.
