@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-04-28",
+  "issue": "26152",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TÜZÜKLER",
+  "title": "2006/10332 Sağlık Kuralları Bakımından Günde Ancak Yedibuçuk Saat veya Daha Az Çalışılması Gereken İşler Hakkında Tüzüğün Yürürlükten Kaldırılmasına Dair Tüzük",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060428-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/04/20060428.htm",
+  "index_sha256": "8fecdbc8e4cbdce9f3a719f557d7e35b19fdc251e747a0ba17f24c8d35256890",
+  "index_header": "28 Nisan 2006 ... Sayı : 26152",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
