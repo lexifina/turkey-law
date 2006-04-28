@@ -1,0 +1,3 @@
+İthalat
+MADDE 4 – (1) Başvuru konusu maddenin genel ithalatı 2001-2005 yılları için sırasıyla 85.327 ton, 109.349 ton, 124.857 ton, 144.465 ton ve 231.869 ton olarak gerçekleşmiştir. Başvuru konusu ülkeler menşeli ithalat ise 2001-2005 yıllarında sırasıyla 56.661 ton, 74.460 ton, 64.307 ton, 49.706 ton ve 39.090 ton olmuştur.
+(2) Başvuru konusu maddenin ağırlıklı ortalama CIF ithal fiyatları (ton) 2001 yılından 2005 yılına 257, 274, 323, 376 ve 371 ABD doları olarak gerçekleşmiştir. Başvuru konusu ülkeler menşeli ithalatta CIF ithal fiyatları ise 2001-2005 yıllarında sırasıyla 198, 174, 208, 221 ve 247 ABD doları olmuştur.

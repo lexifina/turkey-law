@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.10227",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/5)",
+  "number": "10227",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2006/10227",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10227&MevzuatTertip=5",
+  "source_sha256": "e932cde9a0e477e1e2ecb7e17e84d930c828cbbbef25bba8c1324878a95f81da",
+  "source_bytes": 28397,
+  "published": "2006-04-28",
+  "gazette": "26152",
+  "in_force": "2006-04-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.04.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 795,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.dtm.gov.tr/ITHALAT/gozkor/ithalat.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

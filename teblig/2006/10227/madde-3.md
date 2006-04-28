@@ -1,0 +1,2 @@
+Başvuru
+MADDE 3 – (1) Yerli üretici, başvuru konusu maddenin ithalatında uygulanmakta olan ve 1 inci Madde’de belirtilen korunma önleminin gözden geçirilmesi talebiyle Dış Ticaret Müsteşarlığı (Müsteşarlık) İthalat Genel Müdürlüğü’ne (Genel Müdürlük) başvuruda bulunmuştur. Söz konusu başvurunun gizli olmayan özeti Müsteşarlığın internet sitesinde (http://www.dtm.gov.tr/ITHALAT/gozkor/ithalat.htm) yer almaktadır.

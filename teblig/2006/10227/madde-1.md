@@ -1,0 +1,2 @@
+Korunma önlemi
+MADDE 1 – (1) 28/6/2003 tarihli ve 25152 sayılı Resmî Gazete’de yayımlanan İthalatta Gözetim ve Korunma Önlemlerine İlişkin 2003/7 sayılı Tebliğ ile 70.04 Gümrük Tarife Pozisyonlu (G.T.P.) "çekme veya üfleme cam" ile 70.05 G.T.P.’li "float cam ve yüzeyi cilalanmış veya parlatılmış cam"ın Rusya Federasyonu, Ukrayna ve İran İslam Cumhuriyeti menşeli olanlarının ithalatı 3 (üç) yıl süre ile miktar kısıtlamasına tabi tutulmuştur.
