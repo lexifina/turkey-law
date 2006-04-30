@@ -1,0 +1,31 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-04-30",
+  "issue": "26154",
+  "edition": "regular",
+  "item": 6,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Adalet Bakanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/04/20060430-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (13 = 13)",
+  "ilan_codes": [
+    "4559/1-1",
+    "4563/1-1",
+    "4562/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/04/20060430-4.htm",
+  "category_page_sha256": "c047c8e10e44f613177a5b80ac028c524d3bb3a7233517563626378ea83b5165",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/04/20060430.htm",
+  "index_sha256": "28f4631e421d067d4f9011a2796d2a4760f2aec76a71159856d2ae8fe38dd92b",
+  "index_header": "30 Nisan 2006 ... Sayı : 26154",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
