@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-05-02",
+  "issue": "26156",
+  "edition": "regular",
+  "item": 15,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Devlet Hava Meydanları İşletmesi Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060502-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (48 = 48)",
+  "ilan_codes": [
+    "4732/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060502-3.htm",
+  "category_page_sha256": "43a510604a615e8d464a2be37d51c0286440976c816006ed6679931d934eb06f",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060502.htm",
+  "index_sha256": "2e4bff8bc8ce7f39e5de1e70068615ca94fd579c85d22a71198427af93a57e07",
+  "index_header": "2 Mayıs 2006 ... Sayı : 26156",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
