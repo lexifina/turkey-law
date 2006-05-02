@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5494",
+  "year": 2006,
+  "title": "Ulaştırma Bakanlığının Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-05-02",
+  "gazette_issue": "26156",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060502-2.htm",
+  "source_sha256": "a3260e2608f2606c02ffa937fcb27ee9b8ecdf9b2fff59af0c7689d48fde0bc3",
+  "text_sha256": "0466a67ae95817869dd2709069d7d4c85b559877d3cc6850434a0cd741a4cc2a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/05/02/26156-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060502-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
