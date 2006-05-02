@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28689",
+  "decision_date": "2006-05-02",
+  "source_id": 464,
+  "chamber": "8",
+  "file_number": "28226",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/464/",
+  "source_sha256": "d964dfb12215b5e284fe7c9940f1a7341ea20658341acd453ba702b6cefb33cd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
