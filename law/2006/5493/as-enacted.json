@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5493",
+  "year": 2006,
+  "title": "Özel Tüketim Vergisi Kanununda, Katma Değer Vergisi Kanununda ve Petrol Piyasası Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-05-02",
+  "gazette_issue": "26156",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060502-1.htm",
+  "source_sha256": "77ca675e2a16a74d6f937c5a0c335b5df35d07d714c1e0b805b6826635f6a45a",
+  "text_sha256": "4e7421d3bdf3f225623d2dd43757bfceb3e44c7a4477acdb36b6e5246037cacf",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/05/02/26156-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060502-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
