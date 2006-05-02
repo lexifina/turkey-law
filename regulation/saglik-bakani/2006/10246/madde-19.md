@@ -1,0 +1,2 @@
+Devir teslim
+MADDE 19 – (1) İstifa eden, hizmet akdi feshedilen, emekliye ayrılan, görev yeri değiştirilen ve işletmeyle ilişiği kesilen işçiler, görevi icabı kendisine tevdi edilen para ve para hükmündeki kıymetleri, kıymetli evrak, araç, gereç, belge ve sair eşyayı ilgililere devir ve teslim etmek, bunu belgelendirmek üzere işletmeden ilişik kesme belgesi almak zorundadır. Aksi taktirde, istihkak ve tazminatları ödenmez, gerekirse haklarında kanuni yollara başvurulur.
