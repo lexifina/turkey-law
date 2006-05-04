@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5492",
+  "year": 2006,
+  "title": "Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname ile Toplu Konut Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-05-04",
+  "gazette_issue": "26158",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060504-1.htm",
+  "source_sha256": "5b96c720444857c66ecf4c44771d13ad3f47833a97899de832a33bfe576d4176",
+  "text_sha256": "fb218443284718475d3659ad381ccd5708ae97508015f535d0119fc3309f9586",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/05/04/26158-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060504-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
