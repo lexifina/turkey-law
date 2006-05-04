@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-05-04",
+  "issue": "26158",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Sosyal Sigortalar Kurumu Tarafından İşverenlere Borcu Yoktur Belgelerinin İnternet Ortamında Verilmesi (e-Borcu Yoktur Uygulaması) Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060504-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060504.htm",
+  "index_sha256": "0afd9f92db64e0d0f105a36bc3a3d40b9345fc763bf99668ac363334c3916e5e",
+  "index_header": "4 Mayıs 2006 ... Sayı : 26158",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
