@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.10256",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SOSYAL SİGORTALAR KURUMU TARAFINDAN İŞVERENLERE BORCU YOKTUR BELGELERİNİN İNTERNET ORTAMINDA VERİLMESİ (E-BORCU YOKTUR UYGULAMASI) HAKKINDA TEBLİĞ",
+  "number": "10256",
+  "path": "teblig/2006/10256",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10256&MevzuatTertip=5",
+  "source_sha256": "a9e65b7fbd27884e7f9b19b088467f4bc6f3692c540db2013eb681c5f8764375",
+  "source_bytes": 45857,
+  "published": "2006-05-04",
+  "gazette": "26158",
+  "in_force": "2006-05-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.05.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2859,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.ssk.gov.tr/"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
