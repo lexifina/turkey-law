@@ -1,0 +1,2 @@
+Maddenin soruşturma konusu ülkeden ithalatı
+MADDE 13 - (1) Soruşturma konusu ÇHC’den elektrik motorları ithalatı 2002 yılında 218.630 adet iken, 2003 yılında 838.810 adet, SD’de ise 1.276.603 adete ulaşmıştır. Bu bağlamda soruşturma konusu ÇHC’den ithalat, 2002 yılında genel ithalatın %18’ini teşkil ederken, bu rakam 2003 yılında %42, SD’de ise %57 olarak gerçekleşmiştir. Soruşturma konusu ithalat 2002 yılı ile SD arasındaki dönemde ise miktar bazında %484, değer bazında ise %612 oranında artmıştır.

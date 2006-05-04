@@ -1,0 +1,6 @@
+İlgili tarafların bilgilendirilmesi ve dinlenmesi
+MADDE 5 - (1) Soruşturma açılmasını müteakip, soruşturma konusu ülkenin Ankara’daki Büyükelçiliğine ve bilinen üretici/ihracatçı firmalara şikayetin gizli olmayan metni ve soruşturma açılışına ilişkin Tebliğin bir örneği gönderilmiştir.
+(2) Ayrıca, ilgili taraflardan alınan bilgi ve belgelerin gizli olmayan özetleri inceleme talebinde bulunan bütün ilgili tarafların bilgisine sunulmuştur.
+(3) Soruşturma sırasında ilgili tarafların görüşlerinin bir arada alınması amacıyla şikayetçi taraf ile ithalatçı firmaların katılımı ile bir kamu dinleme toplantısı yapılmış ve soruşturma süresince tüm ilgili taraflara soruşturma ile ilgili görüşlerini ve bu görüşlerle ilgili belgeleri sunma imkânı verilmiştir.
+(4) Yönetmelik’in 25 inci maddesi uyarınca, soruşturmanın ilgili taraflarına soruşturma sonucundaki belirlemelere esas teşkil eden verileri içeren nihai bildirimler gönderilmiş ve karşıt görüş ve değerlendirmelerini iletmeleri için makul bir süre tanınmıştır.
+(5) Tarafların soruşturma boyunca ortaya koyduğu yazılı görüşlerden nesnel ve konuyla ilgili olanları mevzuat kapsamında değerlendirilmiş ve bunlara Tebliğ’in ilgili bölümlerinde yer verilmiştir.

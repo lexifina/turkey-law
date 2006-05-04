@@ -1,0 +1,4 @@
+BEŞİNCİ KISIM
+Şikayet Konusu Maddeye Dayalı Sanayi Kollarının İncelenmesi
+MADDE 22 - (1) Soruşturma kapsamında alınan görüşlerde soruşturma konusu ürünün çok değişik sektörlerde girdi olarak kullanıldığı belirtilmektedir. Bu bağlamda, kullanıcı sektörlerin durumlarının değerlendirilebilmesi amacıyla, özellikle elektrikli küçük ev aletleri üretiminde şikayet konusu maddenin nihai mamulün üretim maliyeti içindeki payı da araştırılmıştır. Bunun sonucunda, şikayet konusu elektrik motorlarının, nihai mamul üretiminde kullanılan ara girdi niteliğini taşıdığı anlaşılmıştır.
+(2) Soruşturma konusu maddenin değişik tipler halinde yaygın kullanım alanına sahip olması ve nihai mamul içerisinde önemli maliyet payı bulunması nedenleriyle damping marjından daha az miktarda vergi uygulanmasının yerinde olacağı değerlendirilmiştir.

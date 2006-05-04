@@ -1,0 +1,2 @@
+Dampingli ithalatın fiyatlarının gelişimi
+MADDE 16 - (1) Soruşturma konusu ÇHC menşeli elektrik motorlarının ithalatının ağırlıklı ortalama fiyatları 2002 yılında 2,98 ABD Doları/adet iken, 2003 yılında 2,95 ABD Doları/adet’e düşmüş, SD’de ise 3,63 ABD Doları/adet’e çıkmıştır. Diğer bir ifadeyle, soruşturma konusu ithalatın ağırlıklı ortalama CIF fiyatı 2002 yılı 100 olarak alındığında SD’de 122’ye yükselmiştir.

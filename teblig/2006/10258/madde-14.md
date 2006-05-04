@@ -1,0 +1,2 @@
+Maddenin üçüncü ülkelerden ithalatı
+MADDE 14 - (1) Soruşturma konusu maddenin üçüncü ülkelerden ithalatı 2002’de 1.011.860 adet iken, 2003 yılında 1.146.182 adet, SD’de ise 956.752 adet olarak gerçekleşmiştir. Üçüncü ülkelerden gerçekleştirilen ithalat 2002 ile SD arasında miktar bazında %5 oranında düşerken, değer bazında %76 oranında artış göstermiştir. Aynı dönemde üçüncü ülkelerin miktar bazında genel ithalat içindeki payı ise sırasıyla %82, %58 ve %43 olmuştur.

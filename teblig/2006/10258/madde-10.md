@@ -1,0 +1,3 @@
+Fiyat karşılaştırması ve damping marjı
+MADDE 10 - (1) İhraç fiyatlarının karşılaştırmaya esas ürün tipi için belirlenen CIF ihraç fiyatından işbirliğinde bulunan ithalatçı firmaların sunmuş olduğu veriler çerçevesinde navlun ve sigorta değeri düşülerek FOB ihraç fiyatı belirlenmiş ve söz konusu FOB ihraç fiyatının fabrika çıkış aşamasındaki ihraç fiyatı olduğu kabul edilmiştir. Bu şekilde normal değer ile FOB ihraç fiyatının aynı ticari aşamada (fabrika çıkış aşaması) karşılaştırıldığı kabul edilmiştir.
+(2) Bu çerçevede, ağırlıklı ortalama normal değer ile, ağırlıklı ortalama ihraç fiyatının karşılaştırılması suretiyle damping marjı, nispi olarak CIF ihraç fiyatının %39’u, mutlak olarak ise 1,53 ABD Doları/adet olarak hesaplanmıştır.
