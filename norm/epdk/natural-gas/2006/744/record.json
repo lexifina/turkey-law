@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "744",
+  "decision_date": "2006-05-04",
+  "title": "Adıyaman Doğal Gaz Dağıtım Lisansı İhale ilanının kapsamı genişletilmesine İlişkin",
+  "resmi_gazete_date": "2006-05-14",
+  "resmi_gazete_number": "26168",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=X4jJZIzxG4o=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=X4jJZIzxG4o="
+  ],
+  "source_sha256": "473287d4dda0c5aaa920fa9c99b2512af80990c3c4c512d447fd6132e84ffced",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-05-04",
+  "law_text_complete": false
+}
