@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-05-05",
+  "issue": "26159",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2006/10344 Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060505-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060505.htm",
+  "index_sha256": "443aec9397b0691ba49d9028c8efc971b9c11c34528614df1919c8383e099061",
+  "index_header": "5 Mayıs 2006 ... Sayı : 26159",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
