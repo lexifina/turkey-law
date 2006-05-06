@@ -1,0 +1,452 @@
+YÖNETMELİK
+Gümrük
+Müsteşarlığından:
+ORTAK TRANSİT YÖNETMELİĞİNDE
+DEĞİŞİKLİK
+YAPILMASINA DAİR YÖNETMELİK
+MADDE
+1 – 28/7/2003 tarihli ve 25182 sayılı Resmî Gazete’de
+yayımlanan Ortak Transit Yönetmeliğinin 14 üncü maddesine aşağıdaki fıkra
+eklenmiştir:
+"9. Hareket gümrük
+idaresinde bilgisayar sisteminin çalışmaması halinde, eşya, Gümrük
+Yönetmeliğinin Ek 20’sinde belirtilen transit beyannamesi ile ortak transit
+rejimine tabi tutulur.
+Transit beyannamesine
+gerektiğinde Gümrük Yönetmeliğinin Ek 20’sinde belirtilen devam formları eklenebilir. Devam formları,
+Gümrük Yönetmeliğinin Ek 20’sine uygun olarak kullanılır. Devam formları,
+beyannamenin ayrılmaz parçasıdır.
+Transit beyannamesine taşıma
+belgesi eşlik eder."
+MADDE
+2 – Aynı Yönetmeliğin Ek 10’undaki kapların cinsi (kutu 31) niteliğinin
+tipi/uzunluğu, "an2" olarak
+değiştirilmiştir.
+MADDE
+3 – Aynı Yönetmeliğin Ek 10’undaki TACİR asıl sorumlu (kutu 50) veri grubunun
+TIN (kutu 50) niteliği ile ilgili açıklama notu, "KONTROL SONUCU veri
+grubu A3 kodunu içerdiğinde ya da GRN niteliği kullanıldığında, bu nitelik
+kullanılır." olarak değiştirilmiştir.
+MADDE
+4 – Aynı Yönetmeliğin Ek 10’undaki TEMİNAT veri grubunun
+teminatın türü (kutu 52) niteliğinin tipi/uzunluğu, "an1" olarak
+değiştirilmiştir.
+MADDE
+5 – Aynı Yönetmeliğin Ek 10’undaki TEMİNAT REFERANSI veri
+grubunun GRN (kutu 52) niteliğinin tipi/uzunluğu, "an ..24" olarak
+değiştirilmiştir.
+MADDE
+6 – Aynı Yönetmeliğin Ek 11’indeki 1. ÜLKE KODLARI (CNT)
+aşağıdaki şekilde değiştirilmiştir:
+"1. ÜLKE KODLARI (CNT)
+1 Ocak 1997 tarihli ISO-3166-1’de
+belirtildiği üzere ‘ISO alfa 2 Ülke Kodu’ ve bunda yapılan güncellemeler
+uygulanır."
+MADDE
+7 – Aynı Yönetmeliğin Ek 11’indeki 5. KAP KODU (BM/AEK
+Tavsiye Kararı No: 21/Rev. 1 - Ağustos 1994)
+aşağıdaki şekilde değiştirilmiştir:
+"5. KAP KODU (BM/AEK Tavsiye
+Kararı No: 21/Rev. 4 - Mayıs 2002)
+Sprey (Aerosol) AE
+Ampul, korumasız AM
+Ampul, korumalı AP
+Püskürgeç AT
+Çanta BG
+Çanta, esnek hazne FX
+Çanta, geniş ZB
+Çanta, büyüyen MB
+Çanta, kağıt 5M
+Çanta, kağıt, katmanlı XJ
+Çanta, kağıt, katmanlı, su geçirmez XK
+Çanta, plastik EC
+Çanta, plastik tabakalı XD
+Çanta, çok hacimli 43
+Çanta, dokuma kumaş 5L
+Çanta, dokuma kumaş, dayanaklı XG
+Çanta, dokuma kumaş, su geçirmez XH
+Çanta, dokuma kumaş, astarsız XF
+Çanta, plastik dokuma 5H
+Çanta, plastik dokuma, dayanaklı XB
+Çanta, plastik dokuma, su geçirmez XC
+Çanta, plastik dokuma, astarsız XA
+Balya, sıkıştırılmış BL
+Balya, sıkıştırılmamış BN
+Balon, korumasız BF
+Balon, korumalı BP
+Çubuk BR
+Varil BA
+Varil, tahtadan 2C
+Varil, tahtadan, tıpa şeklinde QH
+Varil, tahtadan, sökülebilir kafalı QJ
+Çubuk, tomar/deste/demet halinde BZ
+Leğen BM
+Sepet BK
+Sepet, kulplu, karton HC
+Sepet, kulplu, plastik HA
+Sepet, kulplu, tahtadan HB
+Kap BI
+Tahta BD
+Tahta, tomar/deste/demet halinde BY
+Bobin BB
+Cıvata BT
+Şişe, gaz GB
+Şişe, korumasız, soğan şeklinde BS
+Şişe, korumasız, silindirik BO
+Şişe, korumalı, soğan şeklinde BV
+Şişe, korumalı, silindirik BQ
+Şişe kasası BC
+Kutu BX
+Kutu, alüminyum 4B
+Kutu, Milletler Topluluğu Elleçleme
+Ekipman Havuzu (CHEP), Eurobox DH
+Kutu, sıkılaştırılmış liflerden yapılmış tahta 4G
+Kutu, sıvılar için BW
+Kutu, doğal tahta 4C
+Kutu, plastik 4H
+Kutu, plastik, genişletilmiş QR
+Kutu, plastik, sağlam QS
+Kutu, kontrplak 4D
+Kutu, yeniden düzenlenmiş tahta 4F
+Kutu, çelik 4A
+Kutu, tahtadan, doğal tahta, basit QP
+Kutu, tahtadan, doğal tahta, dayanıklı dış yüzey QQ
+Kova BJ
+Dökme, gaz (1031 mbar ve
+15˚C’de) VG
+Dökme, sıvılaştırılmış gaz (normal olmayan ısı/basınçta) VQ
+Dökme, sıvı VL
+Dökme, katı, ince parçacıklar (toz) VY
+Dökme, katı, granüllü parçacıklar (tahıllar) VR
+Dökme, katı, büyük parçacıklar (yumrular) VO
+Deste BH
+Bohça BE
+Büyük fıçı BU
+Kafes CG
+Kafes, Milletler Topluluğu Elleçleme
+Ekipman Havuzu (CHEP), Eurobox DG
+Kafes, rulo CW
+Teneke kutu, silindirik CX
+Teneke kutu, dikdörtgen CA
+Teneke kutu, kulplu ve oluklu CD
+Teneke kutu CI
+Çadır bezi CZ
+Kapsül AV
+Damacana, korumasız CO
+Damacana, korumalı CP
+Mukavva CM
+Karton CT
+Kartuş CQ
+Kasa CS
+Kasa, izotermik EI
+Kasa, iskeletli SK
+Kasa, çelik SS
+Kasa, palet tabanlı ED
+Kasa, palet tabanlı, mukavva EF
+Kasa, palet tabanlı, metal EH
+Kasa, palet tabanlı, plastik EG
+Kasa, palet tabanlı, tahtadan EE
+Ahşap varil CK
+Sandık CH
+Yayık CC
+Süt güğümü AI
+Sandık CF
+Tabut CJ
+Kangal CL
+Birleşik ambalaj, cam muhafaza 6P
+Birleşik ambalaj, alüminyum kasa içinde cam muhafaza YR
+Birleşik ambalaj, alüminyum tambur içinde cam muhafaza YQ
+Birleşik ambalaj, dayanıklı olmayan plastik çıkın içinde
+cam muhafaza YY
+Birleşik ambalaj, elyaf tambur içinde cam muhafaza YW
+Birleşik ambalaj, sıkıştırılmış liflerden yapılmış
+tahta kutu içinde cam muhafaza YX
+Birleşik ambalaj, kontrplak tambur içinde cam muhafaza YT
+Birleşik ambalaj, sağlam plastik denk içinde cam
+muhafaza YZ
+Birleşik ambalaj, çelik sandık kutu içinde cam muhafaza YP
+Birleşik ambalaj, çelik tambur içinde cam muhafaza YN
+Birleşik ambalaj, hasır kapaklı sepet içinde cam
+muhafaza YV
+Birleşik ambalaj, tahta kutu içinde cam muhafaza YS
+Birleşik ambalaj, plastik muhafaza 6H
+Birleşik ambalaj, alüminyum kasa içinde plastik
+muhafaza YD
+Birleşik ambalaj, alüminyum tambur içinde plastik
+muhafaza YC
+Birleşik ambalaj, elyaf tambur içinde plastik muhafaza YJ
+Birleşik ambalaj, sıkıştırılmış liflerden yapılmış
+tahta kutu içinde plastik muhafaza YK
+Birleşik ambalaj, plastik tambur içinde plastik
+muhafaza YL
+Birleşik ambalaj, kontrplak kutu içinde plastik
+muhafaza YH
+Birleşik ambalaj, kontrplak tambur içinde plastik
+muhafaza YG
+Birleşik ambalaj, sağlam plastik kutu içinde plastik
+muhafaza YM
+Birleşik ambalaj, çelik kasa kutu içinde plastik
+muhafaza YB
+Birleşik ambalaj, çelik tambur içinde plastik muhafaza YA
+Birleşik ambalaj, tahtadan kutu içinde plastik muhafaza YF
+Külah AJ
+Konteyner,
+taşıma ekipmanı olarak başka şekilde belirtilmedikçe CN
+Kılıf CV
+Tahta kasa CR
+Kasa, bira CB
+Kasa, hacimli, mukavva DK
+Kasa, hacimli, plastik DL
+Kasa, hacimli, tahta DM
+Kasa, çerçeveli FD
+Kasa, meyve FC
+Kasa, süt MC
+Kasa, çok katmanlı, mukavva DC
+Kasa, çok katmanlı, plastik DA
+Kasa, çok katmanlı, tahta DB
+Kasa, sığ SC
+Balık sepeti CE
+Fincan CU
+Silindir CY
+Damacana, korumasız DJ
+Damacana, korumalı DP
+Dispenser DN
+Davul DR
+Davul, alüminyum 1B
+Davul, alüminyum, çıkartılamayan kafa QC
+Davul, alüminyum, çıkartılabilir kafa QD
+Davul, elyaf 1G
+Davul, demir DI
+Davul, plastik IH
+Davul, plastik, çıkartılamayan kafa QF
+Davul, plastik, çıkartılabilir kafa QG
+Davul, kontrplak 1D
+Davul, çelik 1A
+Davul, çelik, çıkartılamayan kafa QA
+Davul, çelik, çıkartılabilir kafa QB
+Davul, tahta 1W
+Zarf EN
+Zarf, çelik SV
+Film paketi FP
+Ufak yağ fıçısı FI
+Dar küçük şişe FL
+Foodtainer FT
+Footlocker FO
+Çerçeve FR
+Direk GI
+Direk, tomar/deste/demet halinde GZ
+Kapaklı sepet HR
+Büyük fıçı HG
+Külçe IN
+Külçe, tomar/deste/demet halinde IZ
+Orta boy büyüklükte konteyner WA
+Orta boy büyüklükte konteyner,
+alüminyum WD
+Orta boy büyüklükte konteyner,
+alüminyum, sıvı WL
+Orta boy büyüklükte konteyner,
+alüminyum, basınçlı > 10 kpa WH
+Orta boy büyüklükte konteyner,
+bileşik ZS
+Orta boy büyüklükte konteyner,
+bileşik, esnek plastik, sıvı ZR
+Orta boy büyüklükte konteyner,
+bileşik, esnek plastik, basınçlı ZP
+Orta boy büyüklükte konteyner,
+bileşik, esnek plastik, sağlam ZM
+Orta boy büyüklükte konteyner,
+bileşik, sert plastik, sıvı ZQ
+Orta boy büyüklükte konteyner,
+bileşik, sert plastik, basınçlı ZN
+Orta boy büyüklükte konteyner,
+bileşik, sert plastik, sağlam ZL
+Orta boy büyüklükte konteyner,
+sıkıştırılmış liflerden yapılmış tahta ZT
+Orta boy büyüklükte konteyner,
+esnek ZU
+Orta boy büyüklükte konteyner,
+metal WF
+Orta boy büyüklükte konteyner,
+metal, sıvı WM
+Orta boy büyüklükte konteyner,
+metal, çelik dışında ZV
+Orta boy büyüklükte konteyner,
+metal, basınç 10 kpa WJ
+Orta boy büyüklükte konteyner,
+doğal tahta ZW
+Orta boy büyüklükte konteyner,
+doğal tahta, astarlı WU
+Orta boy büyüklükte konteyner,
+kağıt, çok katmanlı ZA
+Orta boy büyüklükte konteyner,
+kağıt, çok katmanlı, su geçirmez ZC
+Orta boy büyüklükte konteyner,
+plastik film WS
+Orta boy büyüklükte konteyner,
+sıkıştırılmış liflerden yapılmış tahta ZX
+Orta boy büyüklükte konteyner,
+sıkıştırılmış liflerden yapılmış tahta, astarlı WY
+Orta boy büyüklükte konteyner,
+yeniden düzenlenmiş tahta ZY
+Orta boy büyüklükte konteyner,
+yeniden düzenlenmiş tahta, astarlı WZ
+Orta boy büyüklükte konteyner,
+sert plastik AA
+Orta boy büyüklükte konteyner,
+sert plastik, müstakil, sıvı ZK
+Orta boy büyüklükte konteyner,
+sert plastik, müstakil, basınçlı ZH
+Orta boy büyüklükte konteyner,
+sert plastik, müstakil, sağlam ZF
+Orta boy büyüklükte konteyner,
+sert plastik, teçhizatlı, sağlam ZD
+Orta boy büyüklükte konteyner,
+sert plastik, teçhizatlı, sıvı ZJ
+Orta boy büyüklükte konteyner,
+sert plastik, teçhizatlı, basınçlı ZG
+Orta boy büyüklükte konteyner,
+çelik WC
+Orta boy büyüklükte konteyner,
+çelik, sıvı WK
+Orta boy büyüklükte konteyner,
+çelik, basınçlı > 10 kpa WG
+Orta boy büyüklükte konteyner,
+dış astarlı dokuma kumaş WT
+Orta boy büyüklükte konteyner,
+dokuma kumaş, kaplamalı WV
+Orta boy büyüklükte konteyner,
+dokuma kumaş, kaplamalı ve astarlı WX
+Orta boy büyüklükte konteyner,
+dokuma kumaş, astarlı WW
+Orta boy büyüklükte konteyner,
+örme plastik, kaplamalı WP
+Orta boy büyüklükte konteyner,
+örme plastik, kaplamalı ve astarlı WR
+Orta boy büyüklükte konteyner,
+örme plastik, astarlı WQ
+Orta boy büyüklükte konteyner,
+örme plastik, kaplamalı ve astarlı olmayan WN
+Kavanoz JR
+Beş galonluk bidon, silindirik JY
+Beş galonluk bidon, plastik 3H
+Beş galonluk bidon, plastik, çıkartılamayan kafa QM
+Beş galonluk bidon, plastik, çıkartılabilir kafa QN
+Beş galonluk bidon, dikdörtgen JC
+Beş galonluk bidon, çelik 3A
+Beş galonluk bidon, çelik, çıkartılamayan kafa QK
+Beş galonluk bidon, çelik, çıkartılabilir kafa QL
+Testi, sürahi JG
+Jüt çuval JT
+Küçük fıçı KG
+Liftvan LV
+Kütük LG
+Kütük, tomar/deste/demet halinde LZ
+Parça LT
+Hasır MT
+Kibrit kutusu MX
+Ortaklaşa tanımlanmış ZZ
+Yuva NS
+Ağ NT
+Ağ, boru, plastik NU
+Ağ, boru, dokuma kumaş NV
+Elde mevcut olmayan NA
+Ambalaj PK
+Ambalaj, mukavva, üstten tutmak için delikli IK
+Ambalaj, gösterişli, mukavva IB
+Ambalaj, gösterişli, metal ID
+Ambalaj, gösterişli, plastik IC
+Ambalaj, gösterişli, tahta IA
+Ambalaj, kabarık IF
+Ambalaj, kağıt sarılı IG
+Ambalaj, gösterişli IE
+Paket PA
+Gerdel PL
+Palet PX
+Palet, 100 cm x 110 cm AH
+Palet, kutu PB
+Palet, birimsel, yakalık 80 cm x 100 cm PD
+Palet, birimsel, yakalık 80 cm x 120 cm PE
+Palet, birimsel, yakalık 80 cm x 60 cm AF
+Palet, küçültülerek sarılmış AG
+Paket PC
+Pen PF
+Boru PI
+Boru, tomar/deste/demet halinde PV
+İbrik PH
+Kalas PN
+Kalas, tomar/deste/demet halinde PZ
+Plaka PG
+Plaka, tomar/deste/demet halinde PY
+Çömlek PT
+Kese PO
+Punnet PJ
+Kafes RK
+Kafes, çengelli RJ
+Zarf, elyaf AB
+Zarf, cam GR
+Zarf, metal MR
+Zarf, kağıt AC
+Zarf, plastik PR
+Zarf, plastik geçirilmiş MW
+Zarf, yün AD
+Rednet RT
+Makara RL
+Halka RG
+Çubuk RD
+Çubuk, tomar/deste/demet halinde RZ
+Rulo RO
+Koku torbası SH
+Çuval SA
+Çuval, çok katmanlı MS
+Gemici sandığı SE
+Fide SX
+Yaprak ST
+Yaprak, plastik geçirilmiş SP
+Yaprak, metal SM
+Yaprak, tomar/deste/demet halinde SZ
+Çekme-sarma SW
+Kızak SI
+Levha SB
+Tel SY
+Yeni basılmış kağıtların arasına konulan boş kağıt SL
+İğ SD
+Bobin SO
+Bavul SU
+Tank, silindirik TY
+Tank, dikdörtgen TK
+Çay sandığı TC
+Tierce TI
+Teneke kutu TN
+Tepsi PU
+Tepsi, tek katmanlı, kapaksız, mukavva DV
+Tepsi, tek katmanlı, kapaksız, plastik DS
+Tepsi, tek katmanlı, kapaksız, polyester DU
+Tepsi, tek katmanlı, kapaksız, yün DT
+Tepsi, iki katmanlı, kapaksız, mukavva DY
+Tepsi, iki katmanlı, kapaksız, plastik tepsi DW
+Tepsi, iki katmanlı, kapaksız, yün DX
+Büyük eşya sandığı TR
+Demet TS
+Yarım fıçı TB
+Yarım fıçı, kapaklı TL
+Tüp TU
+Tüp, portatif TD
+Tüp, hortumlu TV
+Tüp, tomar/deste/demet halinde TZ
+Büyük fıçı TO
+Kafesli olmayan UC
+Kapsız veya ambalajlanmamış NE
+Kapsız veya ambalajlanmamış, çoklu birim NG
+Kapsız veya ambalajlanmamış, tek birim NF
+Vakumlu paket VP
+Furgon ambalajı VK
+Sarnıç VA
+Ufak şişe VI
+Sepetli şişe WB"
+Yürürlük
+MADDE
+8 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE
+9 – Bu Yönetmelik hükümlerini Gümrük Müsteşarlığının bağlı
+bulunduğu Bakan yürütür.
