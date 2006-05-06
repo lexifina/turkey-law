@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-05-06",
+  "issue": "26160",
+  "edition": "regular",
+  "item": 8,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Erciyes Üniversitesi Rektörlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060506-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (11 = 11)",
+  "ilan_codes": [
+    "4923/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060506-4.htm",
+  "category_page_sha256": "44b721af2d3e7f2c898b671574b601ac6ae7d0bfa09e1335c5bcc28dce72888c",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060506.htm",
+  "index_sha256": "770d6f9ec7bb8ca391239744055960e316eb60455dd221384a98836a2ac81e94",
+  "index_header": "6 Mayıs 2006 ... Sayı : 26160",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
