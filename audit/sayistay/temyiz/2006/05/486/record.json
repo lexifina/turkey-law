@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28711",
+  "decision_date": "2006-05-09",
+  "source_id": 486,
+  "chamber": "7",
+  "file_number": "28206",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/486/",
+  "source_sha256": "805c30b9ba1d82cba5db641151cc3411cdfa11b4f2dd4059b7748316a74ac630",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
