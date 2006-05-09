@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28709",
+  "decision_date": "2006-05-09",
+  "source_id": 484,
+  "chamber": "8",
+  "file_number": "28154",
+  "account_year": "2001",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/484/",
+  "source_sha256": "b07fd58f8a8eb5db9dd1ac24d7e33c39beb7f24dac554c57c73dd9fb2c9e010a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
