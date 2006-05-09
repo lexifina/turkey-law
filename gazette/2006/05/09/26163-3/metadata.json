@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-05-09",
+  "issue": "26163",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2006/10376 Bazı Mahalli İdare Birliklerinin Kurulmasına İzin Verilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060509-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060509.htm",
+  "index_sha256": "d7efbdc2962fbbf17b1eef95b25e2cbaec2a4e0c47b14db700518b714dd7901d",
+  "index_header": "9 Mayıs 2006 ... Sayı : 26163",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
