@@ -1,0 +1,19 @@
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü.
+
+İlamın 20. maddesinde, Cen-Yıl İnşaat Limited Şirketi yüklenimindeki “Bayburt-İspir Yolu Km:D+500’deki Bent Hamamı Köprüsü Onarımı İşi” ile ilgili olarak 2001/2862 sayılı Fiyat Farkı Kararnamesi hatalı uygulanarak parametreye esas başlangıç ayı olarak Ağustos 2001 ayının esas alınması gerekirken Aralık 2000 ayının esas alındığı gerekçesiyle tazmin hükmü verilmiştir.
+
+Dilekçi temyiz dilekçesinde özetle, ihale sözleşmelerinde 2001/2862 sayılı Kararnamenin uygulanacağı ile ilgili herhangi bir hüküm bulunmadığından kararnamenin taşeronlara uygulanmaması gerektiğini, taşeronların kararnamelerden yararlanabilmek için belirtilen süre içinde dilekçilerini verdiklerini, ancak sözleşmelerinde kararnameden yararlanabilecekleri yönünde bir hüküm bulunmadığından kararnamenin kendilerine uygulanmaması, fiyat farklarını sözleşmeye göre almaya devam etmeleri gerektiğini, taşeronların idareden yasal olarak uygulanması mümkün olmayan bir talepte bulunduğunu, idarenin de sehven uygulama yaptığını ve sözleşmelerinde kazanılmış haklarından daha az ödeme yapıldığını, söz konusu kararnamenin uygulanması sonucunda taşeronlara sözleşmelerine göre ödenmesi gerekenden daha az fiyat farkı ödendiğini, bu nedenle kamu zararı ve fazla ödemenin söz konusu olmadığını belirterek tazmin hükmünün kaldırılmasını istemiştir.
+
+2001/2862 sayılı Kamu Sektörüne Dahil İdarelerin İhalesi Yapılmış ve Yapılacak İşlerde İhale Usul ve Şekillerine Göre Fiyat Farkı Hesabında Uygulayacakları Esaslarda Değişiklik Yapılmasına İlişkin Esasların Geçici 17. maddesinin 1. fıkrasının (a) bendinde ihale tarihi (son tekliflerin verildiği tarih) Esasların yürürlüğe girdiği tarih ile 31.12.2001 tarihleri olan işlerde; müteahhit veya taşeronların, sözleşmenin imzalandığının veya tescile tabi işlerde tescilin kendilerine tebliğinden itibaren 30 gün içinde idareye müracaatla geçici maddelere göre uygulanacak esasların kendilerine uygulanmasını başka hiçbir şart ileri sürmeden isteyebilecekleri, bu bildirimi yaptıktan sonra bu Esaslara göre işe devam edecekleri, idarelerin bu Esaslar yürürlüğe girdikten sonra ilk ilanı yapılacak işlerde ihale şartnamelerine bu bentteki uygulama esaslarını koymak zorunda oldukları,
+
+(b) bendinde; bu bildirimi süresi içinde yapmayan müteahhit ve taşeronların sözleşmelerine göre işe devam etmeyi kabul etmiş sayılacakları, belirtilmiştir.
+
+Görüldüğü gibi Esasların geçici maddelerinin kendilerine uygulanıp uygulanmaması konusunda müteahhit ve taşeronlara bir seçenek tanınmıştır. Geçici maddelerin kendilerine uygulanmasını isteyenler başka bir şart ileri sürmeden bu Esaslarla getirilen hükümlere uygun olarak işe devam edecekler, tespit edilen süre içinde idareye bildirimde bulunmayanlar sözleşmelerde yer alan hükümlere göre işe devam etmeyi kabul etmiş sayılacaktır.
+
+İşin müteahhidi, Esasların geçici maddeleri ile getirilen hükümlerin kendisine uygulanması için belirtilen sürede idareye başvurduğuna göre, bu tarihten sonra işe bu Esasların getirdiği hükümlere göre devam edecektir. Bu Esasların geçici maddelerine göre hesaplanan fiyat farkı sözleşme hükümlerine göre hesaplanan fiyat farkından düşük olduğu takdirde sözleşme hükümlerinin uygulanması söz konusu değildir.
+
+2001/2862 sayılı Kararnamenin yürürlüğe girdiği 18.08.2001 tarihinden sonra ihalesi yapılan işlerde “Z/2 para metreye esas başlangıç ayı ;…… bu esasların yürürlüğe girmesinden sonra ihale edilecek işlerde ise ihale tarihinin (son teklifin verildiği tarihin) bulunduğu ayı” ifade eder tarifi karşısında, söz konusu inşaat kararnamenin yürürlüğe girdiği tarihten sonra ihale edildiğinden, Aralık 2000 ayına ilişkin endeksin kullanılması mümkün değildir.
+
+Yukarıda sayılan ve ilamda belirtilen gerekçelerle, dilekçi isteminin reddi ile ilamın 20. maddesi ile verilen tazmin hükmünün tasdikine,
+
+Karar verildiği 09.05.2006 tarihi ve 28704 sayılı tutanakta yazılı olmakla iş bu ilam tanzim kılındı.
