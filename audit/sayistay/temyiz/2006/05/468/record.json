@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28693",
+  "decision_date": "2006-05-09",
+  "source_id": 468,
+  "chamber": "3",
+  "file_number": "27427",
+  "account_year": "2001",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/468/",
+  "source_sha256": "b8f76890c03b120b83e746445c49d7b937d5336d925dd48fd1d359cb03af12d8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
