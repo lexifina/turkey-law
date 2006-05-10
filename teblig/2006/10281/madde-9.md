@@ -1,0 +1,2 @@
+Sertifikalandırma
+MADDE 9 – (1) Yapılan sınav sonucunda başarılı olanların Yönetmelik’te belirtilen görev ve sorumlulukları üstlenebilecek bilgi ve beceriye sahip olduğuna dair sınav sonuç tutanağı iki nüsha olarak tanzim edilir. Bunlardan biri merkezde muhafaza edilir. Diğer sınav sonuç tutanağı, sertifika almaya hak kazanan personelin halen çalıştığı kurum, unvan, ad ve soyadı, eğitim aldığı tarihler ile başarı notunu belirten bir yazı ekinde, Bakanlığa bildirilir. Sertifika almaya hak kazananlara Bakanlıkça sertifika düzenlenir.

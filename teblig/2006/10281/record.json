@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.10281",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MADDE BAĞIMLILIĞI MERKEZLERİNDE GÖREV YAPACAK PERSONELİN EĞİTİMİNE VE SERTİFİKALANDIRILMASINA DAİR TEBLİĞ",
+  "number": "10281",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2006/10281",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10281&MevzuatTertip=5",
+  "source_sha256": "109bdc915f01d4fa232fecda0c997124295e06d1bb9f1bb8a4143093a690d83a",
+  "source_bytes": 22321,
+  "published": "2006-05-10",
+  "gazette": "26164",
+  "in_force": "2006-05-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.05.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 686,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
