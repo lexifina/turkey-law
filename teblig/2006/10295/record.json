@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.10295",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DEVLET MEMURLARI KANUNU GENEL TEBLİĞİ (Seri No:160)",
+  "number": "10295",
+  "path": "teblig/2006/10295",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10295&MevzuatTertip=5",
+  "source_sha256": "822a979702839fad01d8303eb685ddecb38df27138e23927ae76023616570634",
+  "source_bytes": 116776,
+  "published": "2006-05-11",
+  "gazette": "26165",
+  "in_force": "2006-05-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.05.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7773,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.10295-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
