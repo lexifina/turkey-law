@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "753/1",
+  "decision_date": "2006-05-11",
+  "title": "İşleme lisansı sahibi biyodizel üreticilerine İlişkin",
+  "categories": [
+    "Lisans İşlemleri Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HRcTDdhp00w=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HRcTDdhp00w="
+  ],
+  "source_sha256": "2303ea713de59739cbd2807cddcc6ec72338195d10b9008bc545f2fb78bd79fa",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4913,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-05-11",
+  "law_text_complete": false
+}
