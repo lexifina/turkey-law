@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.10296",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK VERGİSİ ASKIYA ALINMASI VE AVRUPA BİRLİĞİ TARAFINDAN TARİFE KONTENJANI AÇILMASI PLANLANAN ÜRÜNLERE İLİŞKİN TEBLİĞ (İTHALAT: 2006/ 25)",
+  "number": "10296",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2006/10296",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10296&MevzuatTertip=5",
+  "source_sha256": "8596966df01e1f72172a8a8c098ce9f1fab5f3346ea9089e88ccba22048e9ccb",
+  "source_bytes": 132570,
+  "published": "2006-05-11",
+  "gazette": "26165",
+  "in_force": "2006-05-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.05.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1695,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
