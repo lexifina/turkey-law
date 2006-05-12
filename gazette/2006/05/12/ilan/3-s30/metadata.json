@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-05-12",
+  "issue": "26166",
+  "edition": "regular",
+  "item": 30,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "ETİ Maden İşletmeleri Genel Müdürlüğü Bandırma Bor Ve Asit Fabrikaları İşletme Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060512-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (54 = 54)",
+  "ilan_codes": [
+    "5204/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060512-3.htm",
+  "category_page_sha256": "bb64aa91ae7e75f9c7b22c1b66b5a1c91d610f387f5ff274b01275c3e97d8551",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060512.htm",
+  "index_sha256": "f7cccc89b8b503cb9c509a0ebe7cfcdcbdc04200e7a4c2372054efab23301e39",
+  "index_header": "12 Mayıs 2006 ... Sayı : 26166",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
