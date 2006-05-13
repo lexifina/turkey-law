@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5491",
+  "year": 2006,
+  "title": "Çevre Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-05-13",
+  "gazette_issue": "26167",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060513-1.htm",
+  "source_sha256": "48d9867fb75b4b7693f1a7f8dace07feda25955c20a685d42c40bcff6556aea6",
+  "text_sha256": "fc353a496494ffc93bac136b0c8aaacc5e705a0f99ea906f0891912073d1d926",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/05/13/26167-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060513-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
