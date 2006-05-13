@@ -1,0 +1,4 @@
+Zarar ve nedensellik iddiası
+MADDE 5 – (1) Şikayet konusu ürünün şikayet konusu ülkelerden yapılan toplam ithalatı miktar olarak 2002-2004 döneminde sürekli artmış; 2005 yılında ise önceki yıla göre hemen hemen aynı düzeyde kalmıştır. 2002-2005/6 döneminde Şikayet konusu ülkelerden yapılan ithalatın ortalama birim fiyatı, diğer ülkelerden yapılan ithalatın ortalama birim fiyatının çok altında seyir göstermiştir.
+(2) Şikayete konu ülkeler menşeli ithal fiyatlarının yerli üreticinin fiyatlarını önemli ölçüde bastırdığı tespit edilmiştir.
+(3) Dampingli ithalatın, yerli üreticinin üretim, yurtiçi satışlar, yurtiçi satış fiyatları, stoklar, kapasite kullanım oranı, finansman giderleri, kârlılık, verimlilik, nakit akışı, yatırımların geri dönüşü ve yatırım hasılatı gibi ekonomik göstergelerinde önemli olumsuzluklara yol açtığı başvuru aşamasında sunulan delillerden anlaşılmıştır.

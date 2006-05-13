@@ -1,0 +1,4 @@
+Başvuru konusu madde
+MADDE 2 – (1) Başvuru konusu madde, 4010.32.00.00.00, 4010.34.00.00.00 ve 4010.39.00.00.00 gümrük tarife pozisyonlarında yer alan “Kesiti trapez şeklinde (V-Kolanlar) olan (V-yivli olanlar hariç) sonsuz transmisyon kolanları”dır.
+(2) Soruşturma konusu madde, kord ipliği ve kord beziyle takviyeli, bütün yüzeyleri veya sadece üst yüzeyi kauçuk emdirilmiş bez ile kaplı olarak imal edilen ve güç iletiminin gerekli olduğu yerlerde kullanılan V-yivli olmayan, kesiti trapez şeklinde vulkanize edilmiş kauçuktan transmisyon kolanlarıdır (V-Kayışı). Sanayinin her kesiminde, tarım makinaları ve motorlu araçlar başta olmak üzere çok geniş bir kullanım alanına sahip olan V-Kayışları, motor ve kasnak olan her yerde kullanılabilmektedir.
+(3) Bahse konu gümrük tarife pozisyonu yalnızca bilgi amaçlı verilmiş olup bağlayıcı değildir.
