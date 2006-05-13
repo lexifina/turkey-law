@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-05-13",
+  "issue": "26167",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 358)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060513-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060513.htm",
+  "index_sha256": "1a6ca0aea990d583b627621bf8a75c7300f9d66f2b1e5e6fc227dfeb409672c2",
+  "index_header": "13 Mayıs 2006 ... Sayı : 26167",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
