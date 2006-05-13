@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10301",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 358)",
+  "number": "10301",
+  "path": "teblig/2006/10301",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10301&MevzuatTertip=5",
+  "source_sha256": "3bc939006ea3229a0150753fb6071d4dd56bac50b8b494d1b9d6552d78e67ff8",
+  "source_bytes": 19418,
+  "published": "2006-05-13",
+  "gazette": "26167",
+  "in_force": "2006-05-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.05.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 815,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
