@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-05-14",
+  "issue": "26168",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Anadolu Üniversitesi Rektörlüğü Genetik Hastalıkları Doğumöncesi Tanı ve Biyoteknoloji Uygulama, Araştırma Merkezi (GENTAM) Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060514-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060514.htm",
+  "index_sha256": "2a25e19680e71e666d5efa9005591889130b8a64c678650c32f47aab1324571b",
+  "index_header": "14 Mayıs 2006 ... Sayı : 26168",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
