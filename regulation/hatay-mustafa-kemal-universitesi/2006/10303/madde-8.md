@@ -1,0 +1,3 @@
+Merkez müdürü
+MADDE 8 – (1) Merkez Müdürü; Üniversitede Merkezin faaliyet alanlarına giren konularda görevli bulunan öğretim üyeleri arasından üç yıllık bir süre için Rektör tarafından görevlendirilir. Görev süresi biten Merkez Müdürü, yeniden görevlendirilebilir. Merkez Müdürü Rektöre karşı birinci derecede sorumludur.
+(2) Merkez Müdürünün önerisi üzerine Rektör tarafından en çok iki kişi müdür yardımcısı olarak görevlendirilir. Merkez Müdürünün görevi başında bulunmadığı zamanlarda müdür yardımcılarından birisi, müdür yardımcısı da bulunmazsa Yönetim Kurulu üyelerinden biri Merkez Müdürüne vekalet eder. Vekalet süresi altı ayı aşamaz. Merkez Müdürünün görevi sona erdiğinde, müdür yardımcılarının da görevleri sona erer.
