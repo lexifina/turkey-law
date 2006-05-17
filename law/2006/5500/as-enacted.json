@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5500",
+  "year": 2006,
+  "title": "Merkezi Finans ve İhale Biriminin Kuruluşuna İlişkin Türkiye Hükümeti ve Avrupa Komisyonu Arasındaki Mutabakat Zaptına 1 Nolu Ekin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-05-17",
+  "gazette_issue": "26171",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060517-4.htm",
+  "source_sha256": "5d007af976ced86cc1fca04b09b1683950818c455159860e64e0d809fe9db6da",
+  "text_sha256": "2e67487b209783abd6c9f124de21c8ed331dfd7db5940d88dc1f87752aa3ce38",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/05/17/26171-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060517-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
