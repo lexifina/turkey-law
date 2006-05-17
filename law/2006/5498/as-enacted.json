@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5498",
+  "year": 2006,
+  "title": "Gülhane Askerî Tıp Akademisi Kanununun Bazı Maddelerinde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-05-17",
+  "gazette_issue": "26171",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060517-2.htm",
+  "source_sha256": "3cdaa69f02d3f01f5a31db05afc2deafcc4b5c0e9cea958c8eb933deb6f0535b",
+  "text_sha256": "d2b1bde885ea402c27a0352b28de04571c6e83ad21d964d20e13c3fb61d69f49",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/05/17/26171-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060517-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
