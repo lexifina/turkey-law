@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5497",
+  "year": 2006,
+  "title": "Türk Silâhlı Kuvvetleri Personel Kanununda Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü ile Türk Silâhlı Kuvvetleri Personel Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-05-17",
+  "gazette_issue": "26171",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060517-1.htm",
+  "source_sha256": "59ea10c5e65d13fb04ab962eeab79872d5ce552b9239081ff94cc7695e2f4405",
+  "text_sha256": "1a5715f327d7e3bd88649cfb5df655ca5616c627b9d98795bffc3ef42151e0f1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/05/17/26171-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060517-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
