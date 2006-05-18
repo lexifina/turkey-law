@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5504",
+  "year": 2006,
+  "title": "Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2006-05-18",
+  "adopted_as_published": "18/05/2006",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.05.2006 No: 26177",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005504.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 90",
+  "committee_reports": [
+    {
+      "label": "TBMM 1019 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c120/tbmm22120104ss1019.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 214304,
+      "title": "Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "18/05/2006",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005504.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1019 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c120/tbmm22120104ss1019.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 98,
+          "sitting": 18,
+          "sitting_date": "2005-11-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c098/tbmm22098018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c098/tbmm22098fih.pdf",
+          "pages": [
+            "218"
+          ]
+        },
+        {
+          "cilt": 99,
+          "sitting": 21,
+          "sitting_date": "2005-11-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c099/tbmm22099021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c099/tbmm22099fih.pdf",
+          "pages": [
+            "8"
+          ]
+        },
+        {
+          "cilt": 120,
+          "sitting": 104,
+          "sitting_date": "2006-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c120/tbmm22120104.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c120/tbmm22120fih.pdf",
+          "pages": [
+            "332:334"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=701&v_kullanici_id=27483198",
+      "page_sha256": "5cd77f0b570ec70dc652f7b6093f637cb0499eb722a08a35928cabb51a337a89"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5cd77f0b570ec70dc652f7b6093f637cb0499eb722a08a35928cabb51a337a89",
+  "issuer": "TBMM",
+  "in_force": "2006-05-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 18/05/2006; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
