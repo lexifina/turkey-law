@@ -1,6 +1,0 @@
-MADDE 22 — 3146 sayılı Kanunun 26 ncı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş ve maddenin sonuna bir fıkra eklenmiştir.
-Çalışma Meclisi; Bakanın veya Bakanlık Müsteşarının başkanlığında, İş Teftiş Kurulu Başkanı, Çalışma Genel Müdürü, İş Sağlığı ve Güvenliği Genel Müdürü, Sosyal Güvenlik Kurumu Başkanı, Sosyal Sigortalar Kurumu Başkanı, Esnaf ve Sanatkârlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Genel Müdürü, Türkiye İş Kurumu Genel Müdürü, bakanlıklardan ve Devlet Planlama Teşkilâtı Müsteşarlığından iştirak edecek birer temsilciden,
-Üniversitelerin iş hukuku, sosyal ekonomi, çalışma ekonomisi, sosyal siyaset, iş fizyolojisi, iş sağlığı ve güvenliği ve gündemindeki konularla ilgili dallardan Yükseköğretim Kurulunca seçilecek beş öğretim üyesinden,
-İşveren sendikaları konfederasyonlarından üç, en fazla üyeye sahip işçi sendikaları konfederasyonundan iki, diğer işçi ve kamu görevlileri sendikaları konfederasyonlarından birer, Türkiye Esnaf ve Sanatkârları Konfederasyonundan üç, Türkiye Odalar ve Borsalar Birliğinden üç temsilci ile gündemindeki konularla ilgili olarak çağırılan kamu ve özel kurum ve kuruluşları ile meslek odaları ve sivil toplum örgütleri temsilcilerinden,
-Meydana gelir.
-Çalışma Meclisi yılda en az bir defa toplanır.

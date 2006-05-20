@@ -1,3 +1,0 @@
-Bazı görevlere atamalarda aranacak şartlar
-MADDE 36/A. — Bakanlık merkez teşkilâtında, çalışma uzmanı ve yurt dışı işçi hizmetleri uzmanı, merkez ve taşra teşkilâtında iş sağlığı ve güvenliği uzmanı çalıştırılabilir. 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartlara sahip, Bakanlığın ihtiyaç duyduğu alanlarda en az dört yıllık yüksek öğrenim görmüş ve sınavın açıldığı tarihte otuzbeş yaşından gün almamış olanlar arasında yapılacak özel yarışma sınavı sonucunda başarılı bulunanlar çalışma uzman yardımcısı, yurt dışı işçi hizmetleri uzman yardımcısı ve iş sağlığı ve güvenliği uzman yardımcısı kadrolarına atanırlar.
-Uzman yardımcılarında aranacak nitelikler, seçilme usul ve esasları ile diğer hususlar yönetmelikle düzenlenir.

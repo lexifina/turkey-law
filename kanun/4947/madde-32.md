@@ -1,3 +1,0 @@
-MADDE 32 — 7460 sayılı Kanunun 2 nci maddesinin (a) bendi aşağıdaki şekilde değiştirilmiştir.
-a) Bakanlık, bağlı kuruluşlar ile bağlı kuruluşun ilgili kuruluşlarının personeli ile özel veya kamu sektöründe faaliyet gösteren işyerlerindeki işçi, işveren veya yönetici personelin eğitimlerini sağlamak amacıyla; çalışma hayatı, sosyal güvenlik, işçi işveren ilişkileri, iş sağlığı ve güvenliği,
-işyeri hekimliği, toplam kalite yönetimi, iş teftişi, istihdam, verimlilik, iş piyasası etütleri, ergonomi, çevre, ilk yardım, iş istatistikleri ve benzeri konularda eğitim programları hazırlamak, seminerler düzenlemek ve bu konular ile ilgili araştırmalar yapmak;
