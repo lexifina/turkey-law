@@ -1,6 +1,6 @@
 Yürütme
 MADDE 83 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-(I) SAYILI CETVEL
+(I) SAYILI CETVEL (1)
 (Değişik: 22/12/2005-5436/12 md.)
 GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 1) Türkiye Büyük Millet Meclisi
@@ -54,7 +54,9 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 49) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü
 50) Aile ve Sosyal Araştırmalar Genel Müdürlüğü
 51) Kadının Statüsü Genel Müdürlüğü
-52) Sosyal Güvenlik Kurumu Başkanlığı
+(…) (1)
+––––––––––––––
+(1) 16/5/2006 tarihli ve 5502 sayılı Kanunun 42 nci maddesiyle, bu cetvelde yer alan "52-Sosyal Güvenlik Kurumu Başkanlığı" ibaresi çıkarılmıştır.
 (II) SAYILI CETVEL
 (Değişik: 22/12/2005-5436/12 md.)
 ÖZEL BÜTÇELİ İDARELER
@@ -172,9 +174,7 @@ DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR
 7) Rekabet Kurumu
 8) Tütün, Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumu
 (IV) SAYILI CETVEL
-(Değişik: 22/12/2005-5436/12 md.)
+(Değişik: 16/5/2006-5502/42 md.)
 SOSYAL GÜVENLİK KURUMLARI
-1) T.C. Emekli Sandığı
-2) Sosyal Sigortalar Kurumu
-3) Esnaf ve Sanatkarlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu
-4) Türkiye İş Kurumu
+1- Sosyal Güvenlik Kurumu
+2- Türkiye İş Kurumu Genel Müdürlüğü
