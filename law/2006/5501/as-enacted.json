@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5501",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Pakistan İslam Cumhuriyeti Hükümeti Arasında Uluslararası Karayolu Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-05-20",
+  "gazette_issue": "26173",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060520-1.htm",
+  "source_sha256": "1d5aae04157fe8026b7e917b30c541c8bb66076ff489fb0aefddcaff7dfb5a9c",
+  "text_sha256": "a9d6479bed3d87373f54fbfc93be34cc4437fd44f7541dbf9ccc88aec7bda266",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/05/20/26173-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060520-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
