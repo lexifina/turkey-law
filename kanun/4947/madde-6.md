@@ -1,7 +1,2 @@
 Ana hizmet birimleri
-MADDE 6 — a) Finansman ve Aktüerya Daire Başkanlığı
-Finansman ve Aktüerya Daire Başkanlığı; ilgili kuruluşların istatistiki veri ve bilgilerini değerlendirmek ve düzenli olarak dört ayda bir kamuoyuna açıklanmak üzere hazırlık yapmak, malî işlemlerini ve tablolarını izlemek, aktüeryal hesaplarını incelemek, gerekli raporları Bakana sunmak üzere hazırlamak, ilgili kuruluşlar arasında ortak veri tabanı oluşturulmasına ilişkin gerekli çalışmaları ve Başkanlıkça verilecek diğer görevleri yapmakla görevlidir.
-b) Sosyal Güvenlik Sözleşmeleri Daire Başkanlığı
-Sosyal Güvenlik Sözleşmeleri Daire Başkanlığı; sosyal güvenlikle ilgili hak ve menfaatlerin korunması ve geliştirilmesi için çalışmalar yapmak, yabancı ülkelerle yapılacak sosyal güvenlik sözleşmeleri için gerekli hazırlık ve çalışmaları yürütmek, sosyal güvenlik politikasının gerçekleştirilmesi için gerekli tedbirleri almak ve Başkanlıkça verilecek diğer görevleri yapmakla görevlidir.
-c) Koordinasyon Daire Başkanlığı
-Koordinasyon Daire Başkanlığı; ilgili kuruluşlar arasında koordinasyonu sağlayacak tedbirleri araştırmak, ortak hedef ve amaçlara yönelik projeleri belirleyerek bunlar arasında uyum ve birlikteliği sağlayacak tedbirleri almak, 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki sandıklarla ilgili olarak Bakanlığa verilen görevleri yapmak, sigorta uygulamalarında norm ve standart birliğini sağlayacak çalışmaları ve Başkanlıkça verilecek diğer görevleri yapmakla görevlidir.
+MADDE 6 — (Mülga: 16/5/2006-5502/43 md.)

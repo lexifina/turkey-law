@@ -1,3 +1,2 @@
 Sosyal Güvenlik Kurumu Başkanlığı ve görevleri
-MADDE 5 — Sosyal Güvenlik Kurumu Başkanlığı bir Başkan, iki Başkan yardımcısı ve dört daire başkanlığından oluşur.
-Sosyal Güvenlik Kurumu Başkanlığı; ilgili kuruluşları arasında koordinasyonu ve bu kuruluşların sosyal güvenlik alanındaki uygulamalarında norm ve standart birliğini sağlamak, aktüeryal hesaplarını incelemek, malî işlemlerini ve tablolarını izlemek ve dört ayda bir kamuoyuna açıklamak, ortak veri tabanı oluşturulması için gerekli çalışmaları yapmak, yabancı ülkelerle yapılacak sosyal güvenlik sözleşmeleri için gerekli çalışma ve hazırlıkları yürütmek ve sonuçlandırmak ve 17.7.1964 tarihli ve 506 sayılı Kanunun geçici 20 nci maddesi kapsamındaki sandıklarla ilgili işlemleri yapmakla görevlidir.
+MADDE 5 — (Mülga: 16/5/2006-5502/43 md.)

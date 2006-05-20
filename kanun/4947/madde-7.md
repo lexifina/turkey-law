@@ -1,3 +1,2 @@
 Yardımcı hizmet birimi
-MADDE 7 — Personel ve İdarî İşler Daire Başkanlığı
-Personel ve İdarî İşler Daire Başkanlığı; Kurumun personel ve eğitim işlerini yürütmek, Kurumun insan gücü planlaması ve personel politikasıyla ilgili çalışmalar yapmak, personelin atama, eğitim, özlük, emeklilik ve benzeri işlemlerini yürütmek, ilgili kuruluşların personel sistemlerinin geliştirilmesine, norm ve standart birliğinin sağlanmasına yönelik çalışmaları yapmak, ilgili kuruluşların kapsamında olanlara hizmet sunumunun daha etkin ve verimli bir şekilde yerine getirilmesi için araştırmalar yaparak sonuçlarını değerlendirip tekliflerde bulunmak, Kurulun sekretaryasını yürütmek ve Başkan tarafından verilen diğer görevleri yapmakla görevlidir.
+MADDE 7 — (Mülga: 16/5/2006-5502/43 md.)
