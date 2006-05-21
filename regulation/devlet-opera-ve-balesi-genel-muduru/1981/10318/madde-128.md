@@ -1,0 +1,2 @@
+Ayniyat Saymanının Devir İşlemleri :
+Madde 128 - Ayniyat saymanı Genel Müdürlükçe veya Devlet 0pera ve Balesi Müdürlüklerince oluşturulacak kurul önünde ambar defterine göre mevcut ayniyatın cetvelini çıkartıp, cetvelin altına gerekli açıklamaları yaptıktan sonra, cetveli kurul üyeleriyle birlikte imzalayıp devirlerini verir. Düzenlenecek cetvellerden birer nüshası devri alan ve veren saymanda kalır. Bir nüshası da Genel Müdürlükte veya Devlet Opera ve Balesi Müdürlüklerinde saklanır.

@@ -1,0 +1,1 @@
+Madde 13 - Kapalı zarf usulüyle yapılan ihalelerde istekli çıkmaması veya teklif edilen bedelin komisyonca kabul edilmemesi halinde ya şartnamede gerekli değişiklikler yapılarak aynı usulle yeniden artırma veya eksiltme açılır, ya da artırmanın ve eksiltmenin bitimi tarihinden itibaren bir ay içinde iş pazarlıkla yapılır.

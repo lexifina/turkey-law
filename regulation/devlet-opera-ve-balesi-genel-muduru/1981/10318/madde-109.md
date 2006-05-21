@@ -1,0 +1,4 @@
+Satın Alınan Malın Ambara Girişi:
+Madde 109 - Ambar memuru, istenilen niteliğe ve varsa Muayene ve Kabul Komisyonu kararına uygunluğunu gördükten ve faturası ile karşılaştırdıktan sonra malı teslim alır. Ambar memurunca fatura ve suretleri üzerine «; ..gün ve ...sayılı Muayene ve Kabul Komisyonu kararına göre mal sayılmış, istenilen niteliğe uygun olduğu görülmüş ve ...gün ve... sayı ile teslim alınmıştır.» kaydı konulur ve altı imzalanır. Bu işlem tesellüm makbuz yerine geçtiğinden ayrıca tesellüm makbuzu düzenlenmez.
+Malın teslim alma işlemi tamamlandıktan sonra faturanın aslı ile bir sureti levazım. bölümüne, diğer bir sureti saymanlığa zimmetle gönderilir, faturanın üçüncü sureti tesellüm makbuzu yerine geçmek üzere ambar memurluğunda saklanır.
+Bu işlemlerden başka, teslim alınan mal Malzeme Değer Kartının (örnek 32) «giriş» sütununa ve Günlük Giriş icmaline (örnek 33) yazılır. Aynı gün günlük giriş icmalinin bir örneği ayniyat saymanlığına gönderilir.

@@ -1,0 +1,2 @@
+Demirbaşların Numaralanması ve Kayıtlarının Tutulması:
+Madde 120 - Ambara giriş işlemleri tamamlanmış olan demirbaşlar, «Demirbaş ve Döşeme Esas Defteri»ne tarih ve sıra numarası verilmek suretiyle usulüne uygun olarak kaydolunur. Demirbaşlar aynı zamanda ilgili «Demirbaş Eşya Kartına» da, (örnek 39) grup ve mal numarası verilerek yazılır. Kartta yer alan numara o malın demirbaş eşya numarası olur ve bu numaralar demirbaş eşya ve döşemenin uygun bir yerine yazılır.

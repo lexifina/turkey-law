@@ -1,0 +1,3 @@
+Demirbaşların Ambara Geri Verilmesi:
+Madde 123 - Temsiller için alınan demirbaş ve döşemeler temsillerin bitiminde, kullanılma yerindekiler ise işleri bittikten sonra ambara geri verilir. Demirbaş ve döşemelerden senette imzası bulunanlar sorumludur.
+Kullanılma sırasında demirbaş ve döşemelerde meydana gelen değişiklik, (eksilme, kırılma, yıpranma, bozulma v.b.) malın geri verilmesi esnasında senedin arkasındaki «son durum tablosuna» yazıldıktan sonra senet, teslim eden ve teslim alan tarafından imzalanır. Ayrıca ilgililerce tutulacak tutanak o malı kullananın amiri tarafından ayniyat saymanlığına gönderilir. Ayniyat saymanı bu malın kayıtlı bulunduğu demirbaş ve döşeme esas defterinin açıklama sütununa malın en son durumunu kısaca yazar.

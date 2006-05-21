@@ -1,0 +1,1 @@
+Madde 15 - Açık artırma ve eksiltme usulüyle yapılan ihalelerde istekli çıkmaması veya sürülen son peyin komisyonca uygun bedel olarak kabul edilmemesi halinde ya şartnamede gerekli değişiklikler yapılarak aynı usulle yeniden artırma veya eksiltme açılır veyahut idarenin menfaatine uygun olmak şartıyla iş pazarlıkla yapılır.

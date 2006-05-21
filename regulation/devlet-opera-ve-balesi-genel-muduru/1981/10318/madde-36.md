@@ -1,0 +1,5 @@
+Sözleşmenin Devri:
+Madde 36 - Sözleşme onay makamının yazılı izni ile devredilebilir. İzinsiz devir yapılması halinde sözleşme feshedilir ve kesin teminat bütçeye gelir kaydedilir. 35. maddeye göre yapılacak artırma ve eksiltme sonunda çıkacak zarar birinci müteahhide hükümle ödettirilir.
+Müteahhidin tutuklanması, hapis veya sürgün cezalarına çarptırılması nedeniyle taahhüdünü yerine getiremeyecek duruma gelmesi halinde, müteahhit olay tarihinden itibaren 30 gün içinde ilgili idarenin kabul edebileceği birini vekil göstermek şartıyla taahhüdüne devam edebilir. Aksi halde sözleşme feshedilir ve kesin teminat bütçeye gelir kaydedilir.
+Müteahhidin ölümü halinde yapılmış olan işler tasfiye edilerek kesin teminatı varsa diğer alacakları varislerine verilir. Ancak, idare varislerinden istekli olanlara ölüm gününden itibaren otuz gün içinde kesin teminat vermesi şartıyla sözleşmeyi devredebilir.
+Müteahhit iflas ederse, iflasın ilanı tarihinden itibaren sözleşme feshedilir ve kesin teminat irat kaydolunur.

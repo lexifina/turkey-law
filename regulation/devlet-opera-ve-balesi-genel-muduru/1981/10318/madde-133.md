@@ -1,0 +1,2 @@
+Hesapların Kontrolü:
+Madde 133 - Ambar giriş ve çıkış belgeleri ile ambar değer kartları kontrol edilir. Giren, çıkan ve kalan sütunlarının toplamları yapılarak altları çift çizgi ile kapatılır. Mali yıl sonu itibariyle üç nüsha olarak «Yıl sonu Ambar Hesap Cetveli» (örnek 42) düzenlenir. Söz konusu cetvelde geçen yıldan devreden sütunu ile yıl içinde giren sütunları toplanır. Bu toplamdan harcanan eksilen ve kaybolan sütunları toplamları düşüldükten sonra gelecek yıla devreden miktarlar bulunur.
