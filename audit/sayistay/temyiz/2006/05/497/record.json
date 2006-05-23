@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28722",
+  "decision_date": "2006-05-23",
+  "source_id": 497,
+  "chamber": "5",
+  "file_number": "28155",
+  "account_year": "2001",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/497/",
+  "source_sha256": "5cfe22b5520a3024fd1152d6bb82ff961f475bcf869691172ca9b6d3a44a7a7f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
