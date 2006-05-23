@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28723",
+  "decision_date": "2006-05-23",
+  "source_id": 498,
+  "chamber": "7",
+  "file_number": "27990",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/498/",
+  "source_sha256": "c7ea2c1e0f458ae2ba0f889bdf52f447e3a6e9141ea43c3d2ecbfe4dce1f8735",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
