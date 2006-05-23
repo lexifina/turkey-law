@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28725",
+  "decision_date": "2006-05-23",
+  "source_id": 500,
+  "chamber": "7",
+  "file_number": "28001",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/500/",
+  "source_sha256": "119a6db29a04d746b35bba2c933e6676b6c4023086c478dcb9d16d02f36410ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
