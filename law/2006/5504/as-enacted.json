@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5504",
+  "year": 2006,
+  "title": "Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-05-24",
+  "gazette_issue": "26177",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060524-3.htm",
+  "source_sha256": "9cb080fadbb960f432c1786eee860e41c73d40bbeed04273b3b153820e3fa583",
+  "text_sha256": "332fd880c414830740daef7c14aba1d851575832576b2f3fab6f2054532980a9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/05/24/26177-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060524-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
