@@ -8,13 +8,13 @@ Bu Kanunun diğer maddeleri ile belirlenen görevlerinin yanısıra, Kurul aşa�
 a) Bu Kanun hükümlerini uygulamak.
 b) Her yılın ocak ayının sonuna kadar, serbest tüketici tanımına ilişkin limitlerdeki indirimleri belirlemek ve yeni limitleri yayımlamak.
 c) Tüketicilere güvenilir, kaliteli, kesintisiz ve düşük maliyetli elektrik enerjisi hizmeti verilmesini teminen gerekli düzenlemeleri yapmak.
+––––––––––––––––––––––
+(1) 18/4/2001 tarihli ve 4646 sayılı Kanunun 14 üncü maddesiyle, bu Kısım ve Bölümde, 4 üncü maddenin başlığında ve metninde yer alan “Elektrik Piyasası Düzenleme Kurumu” ibareleri “Enerji Piyasası Düzenleme Kurumu” “Elektrik Piyasası Düzenleme Kurulu” ibareleri “Enerji Piyasası Düzenleme Kurulu” şeklinde değiştirilmiştir.
+(2) 18/4/2001 tarihli ve 4646 sayılı Kanunun 14 üncü maddesiyle, bu maddenin başlığında ve metninde yer alan “Elektrik Piyasası Düzenleme Kurulu” ibaresi “Enerji Piyasası Düzenleme Kurulu” şeklinde değiştirilmiştir.
 d) Lisans sahipleri için kabul görmüş muhasebe usulleri uyarınca mali raporlama standartları ve yönetim bilişim sistemlerini belirlemek ve bunların uygulanmasını sağlamak.
 e) Üretim, iletim ve dağıtım şirketleri ile otoprodüktör ve otoprodüktör grubu tesisleri için güvenlik standartları ve şartlarını tespit etmek ve bunların uygulanmasını sağlamak.
 f) Piyasanın gelişimine bağlı olarak yeni ticaret yöntemleri ve satış kanallarının uygulanabilmesine yönelik altyapının geliştirilmesi ve uygulanmasını sağlamak.
 g) Bu Kanunun amaçları ile uyumlu olarak, gerektiği durumlarda, model anlaşmalar geliştirmek.
-––––––––––––––––––––––
-(1) 18/4/2001 tarihli ve 4646 sayılı Kanunun 14 üncü maddesiyle, bu Kısım ve Bölümde, 4 üncü maddenin başlığında ve metninde yer alan “Elektrik Piyasası Düzenleme Kurumu” ibareleri “Enerji Piyasası Düzenleme Kurumu” “Elektrik Piyasası Düzenleme Kurulu” ibareleri “Enerji Piyasası Düzenleme Kurulu” şeklinde değiştirilmiştir.
-(2) 18/4/2001 tarihli ve 4646 sayılı Kanunun 14 üncü maddesiyle, bu maddenin başlığında ve metninde yer alan “Elektrik Piyasası Düzenleme Kurulu” ibaresi “Enerji Piyasası Düzenleme Kurulu” şeklinde değiştirilmiştir.
 h) Ticari sırlar ve gizli rekabet bilgileri de dahil olmak üzere, ticari açıdan hassas olan her türlü bilginin açıklanmasını engelleyecek usul ve esasları belirlemek ve uygulamak.
 i) Piyasada faaliyet gösteren tüzel kişilerin eşitlik ve şeffaflık standartlarına uymalarını sağlamak için faaliyetlerini, uygulamalarını ve ilgili lisans hüküm ve şartlarına uyup uymadıklarını denetlemek.
 j) Rekabeti sağlamak için iştirakler arası ilişkilere ilişkin standartlar ve kurallar oluşturmak, uygulamak ve bu standartların, piyasa faaliyetlerinde karşılıklı iştirak, işletme ve muhasebe konularında kısıtlamalar içermesi gerektiğinde, bu kısıtlamaları belirlemek.

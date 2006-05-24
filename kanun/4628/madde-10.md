@@ -21,14 +21,14 @@ c) Yayın ve sair gelirler.
 d) Ayrıntıları kamuoyuna duyurulmak kaydıyla ve piyasanın gelişimine dair etüt ve proje çalışmalarının finansmanında kullanılmak üzere uluslararası kurum ve kuruluşlar tarafından verilecek hibeler.
 (a) alt bendindeki katılma payının mükellefi; rafinaj, işleme, dağıtıcı, iletim, taşıma, ihrakiye, depolama, bayi ve madeni yağ üretim lisansı sahibi gerçek ve tüzel kişilerdir. Müşterek lisans sahipleri katılma payını toplam net satışları üzerinden öder. Katılma payı, lisans sahiplerince yıllık gelir tablolarında yer alan net satışlar tutarının binde biri oranını ve iki milyon ABD Dolarını aşmayacak şekilde Kurulca belirlenir. Yıl içinde uygulanacak katılma payı oranı bir önceki yılın Aralık ayı içinde açıklanır.
 Net satış hasılatı içinde yer alması halinde, yıl içinde petrol için ödenen gümrük vergi, resim ve harçları ile Özel Tüketim Vergisi toplamı net satışlar toplamından tenzil edilir.
+––––––––––––––
+(1) “A) Kurumun elektrik piyasası ile ilgili gelirleri aşağıdaki gelir kalemlerinden oluşur:” hükmü 4646 sayılı Kanunun 19 uncu maddesiyle eklenmiştir.
 Katılma payı ödemekle yükümlü lisans sahipleri, herhangi bir bildirim beklemeksizin her yıl Mayıs ayı sonuna kadar bir önceki yıla ait bilanço ve gelir tablolarını Kuruma göndermek ve katılma payının yarısını Haziran, ikinci yarısını Kasım ayı sonuna kadar ödemek zorundadır.
 Süresinde beyan edilmeyen veya hatalı beyan edilen katılma paylarına ilişkin cezaî ve idarî işlemler Kurumca tamamlanarak ilgili organlar nezdinde adlî ve idarî işlemler başlatılır. Süresinde ödenmeyen malî yükümlülükler ve gecikme zamları hakkında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanarak ilgili vergi daireleri aracılığı ile tahsili sağlanır.
 D) (Ek: 2/3/2005-5307/22 md.) Kurumun LPG piyasası ile ilgili gelirleri aşağıdaki kalemlerden oluşur:
 a) Katılma payı.
 b) Lisans, onay, izin ve vize işlemleri üzerinden alınacak bedeller.
 c) Yayın ve sair gelirler.
-––––––––––––––
-(1) “A) Kurumun elektrik piyasası ile ilgili gelirleri aşağıdaki gelir kalemlerinden oluşur:” hükmü 4646 sayılı Kanunun 19 uncu maddesiyle eklenmiştir.
 d) Ayrıntıları kamuoyuna duyurulmak kaydıyla ve piyasanın gelişimine dair etüt ve proje çalışmalarının finansmanında kullanılmak üzere uluslararası kurum ve kuruluşlar tarafından verilecek hibeler.
 (a) alt bendindeki katılma payının mükellefi; Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu ve Elektrik Piyasası Kanununda Değişiklik Yapılmasına Dair Kanuna göre üretim, dağıtım, dolum ve otogaz bayii lisansı sahibi gerçek ve tüzel kişilerdir. Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu ve Elektrik Piyasası Kanununda Değişiklik Yapılmasına Dair Kanuna göre lisans alarak faaliyet gösteren lisans veya müşterek lisans sahipleri, katılma payını toplam net akaryakıt ve LPG satışları üzerinden öder. Katılma payı, lisans sahiplerince yıllık gelir tablolarında yer alan net satışlar tutarının binde biri oranını ve ikimilyon ABD Dolarını aşmayacak şekilde Kurulca belirlenir. Yıl içinde uygulanacak katılma payı oranı bir önceki yılın aralık ayı içinde açıklanır.
 (Ek: 2/3/2005-5307/22 md.) Net satış hâsılatı içinde yer alması halinde, yıl içinde LPG için ödenen gümrük vergi, resim ve harçları ile özel tüketim vergisi toplamı net satışlar toplamından tenzil edilir.
