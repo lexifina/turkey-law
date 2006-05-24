@@ -38,7 +38,7 @@ Bu Kanunun uygulanmasında;
 28. Dağıtım sistemi: Bir dağıtım şirketinin, belirlenmiş bölgesinde işlettiği ve/veya sahip olduğu elektrik dağıtım tesisleri ve şebekesini,
 29. İletim sistemi: Elektrik iletim tesisleri ve şebekesini,
 30. Üretim tesisi: Elektrik enerjisinin üretildiği tesisleri,
-31. İletim tesisi: Üretim tesislerinin bittiği noktalardan itibaren, iletim salt sahalarının orta gerilim fiderleri de dahil olmak üzere dağıtım tesislerinin bağlantı noktalarına kadar olan tesisleri,
+31. (Değişik: 10/5/2006-5496/1 md.) İletim tesisi: Üretim tesislerinin 36 kV üstü gerilim seviyesinden bağlı olduğu noktalardan itibaren iletim şalt sahalarının orta gerilim fiderleri de dahil olmak üzere dağıtım tesislerinin bağlantı noktalarına kadar olan tesisleri,
 32. Dağıtım tesisi: İletim tesislerinin bittiği noktadan itibaren, müstakilen elektrik dağıtımı için tesis edilmiş tesis ve şebekeyi,
 33. Piyasa: Üretim, iletim, dağıtım, toptan satış, perakende satış, perakende satış hizmeti, ithalat ve ihracat dahil olmak üzere elektrik enerjisi ve kapasite alım satımı veya ticareti faaliyetleri ile bu faaliyetlere ilişkin işlemlerden oluşan elektrik enerjisi piyasasını,
 34. Üretim kapasite projeksiyonu: Dağıtım şirketleri tarafından hazırlanan talep tahminleri esas alınarak, Türkiye Elektrik İletim Anonim Şirketi tarafından yapılan, elektrik enerjisi arz güvenliği için gereken üretim kapasitesinin tahminini,

@@ -1,4 +1,5 @@
 Özelleştirme
 MADDE 14- Bakanlık, TEDAŞ, Elektrik Üretim Anonim Şirketi, bunların müessese, bağlı ortaklık, iştirak, işletme ve işletme birimleri ile varlıklarının özelleştirilmesine yönelik öneri ve görüşlerini Özelleştirme İdaresi Başkanlığına bildirir. Özelleştirme işlemleri, 4046 sayılı Özelleştirme Uygulamalarının Düzenlenmesine ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun hükümleri dairesinde Özelleştirme İdaresi Başkanlığı tarafından yürütülür.
+(Ek: 10/5/2006-5496/4 md.) TEDAŞ'ın faaliyet alanında yer alan ve dağıtım faaliyeti için gerekli olan işletme ve varlıklar üzerinde, mülkiyeti saklı kalmak kaydı ile TEDAŞ ile belirlenen dağıtım bölgelerinde faaliyet göstermek üzere kurulan elektrik dağıtım şirketleri arasında işletme hakkı devir sözleşmesi düzenlenebilir.
 Bu özelleştirme uygulamaları çerçevesinde, bu Kanunda belirtilen piyasa faaliyetlerinde yer alan gerçek ve tüzel kişilerden, yabancı gerçek ve tüzel kişiler elektrik üretim, iletim ve dağıtım sektörlerinde, sektörel bazda kontrol oluşturacak
 şekilde pay sahibi olamazlar.
