@@ -1,0 +1,3 @@
+Denklik İşlemi
+Madde 15 — Bu Yönetmeliğin yayımlandığı tarihten önce yurt dışından alınmış "Mihmandar" ve "Dağ Rehberi" gibi belgelere sahip olanlar bu Yönetmeliğin 5 inci maddesinin (a), (b), (c), (d), (g), (h), (i) ve (j) bentlerinde belirtilen şartları taşımaları halinde, Federasyon ve Daire Başkanlığı tarafından oluşturulan komisyonca incelenir ve uygunluğu onaylanırsa denklik belgesi verilir. Yurt dışından alınmış belgenin denkliğinin verilebilmesi için UIAA üyesi olan ülkenin veya kulübün onaylı belgesi olmak zorunludur.
+Denklik belgesi alan kişi, lisans numarası verilerek dağ mihmandarı kütük defterine kayıt edilir.
