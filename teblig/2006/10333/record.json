@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.10333",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜTÜN ÜRETİMİNDEN VAZGEÇİP ALTERNATİF ÜRÜN YETİŞTİREN ÜRETİCİLERİN DESTEKLENMESİNE DAİR KARARIN UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/21)",
+  "number": "10333",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2006/10333",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10333&MevzuatTertip=5",
+  "source_sha256": "da1d8f4db6084c0137fb0e84a0ba5e68728c3b15c09659472d4ddcb0b02383bb",
+  "source_bytes": 48585,
+  "published": "2006-05-25",
+  "gazette": "26178",
+  "in_force": "2006-05-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.05.2006); own commencement article: \"Bu Tebliğ yayımı tarihinden geçerli olmak üzere yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden geçerli olmak üzere yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2439,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.10333-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
