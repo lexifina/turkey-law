@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-05-25",
+  "issue": "26178",
+  "edition": "regular",
+  "item": 14,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "AYEDAŞ İstanbul Anadolu Yakası Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060525-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (29 = 29)",
+  "ilan_codes": [
+    "5776/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060525-3.htm",
+  "category_page_sha256": "9f601227e62344c0c8d9b036154a8ce1a2cdda1f3226222f0819d527b458c0ab",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060525.htm",
+  "index_sha256": "9dbd7a9b09dfe0b2b604161f77de5cf91c4aa08b0530903d55f0f2c676096442",
+  "index_header": "25 Mayıs 2006 ... Sayı : 26178",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
