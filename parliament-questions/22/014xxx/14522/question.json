@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 22,
+  "legislative_year": 4,
+  "esas_no": "7/14522",
+  "submitted": "2006-05-26",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hüseyin GÜLER",
+  "province": "Mersin",
+  "summary": "Mersin İlindeki bazı belediyelerde işten çıkarılan ve işe alınan işçilere ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bd-fbb0-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "c9175b2772edaf68233498220318444a45b929605cf8a7b1e07962ca74ab8ee0",
+  "in_force": "2006-05-26",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
