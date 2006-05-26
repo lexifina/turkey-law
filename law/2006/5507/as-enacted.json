@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5507",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Avrupa Uzay Ajansı Arasında Dış Uzayın Barışçıl Amaçlarla İncelenmesi ve Kullanılması Konusunda İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-05-26",
+  "gazette_issue": "26179",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060526-2.htm",
+  "source_sha256": "777a7847fb2154e83f200058bd570a941ed14244c39a2e36a3f5c0d0a997c265",
+  "text_sha256": "2a8b8e4ab0bb31d90e959ae571a66f64c26f37fb14ef145ff80fb2bae3c03e58",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/05/26/26179-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060526-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
