@@ -1,0 +1,3 @@
+Kiraların tahsili
+MADDE 13 – (1) Kira bedeli yıllık peşin olarak tahsil edilir. Her kira süresi başlangıcında Limanlar Dairesi Başkanlığınca, Mali İşler Dairesi Başkanlığına ve ilgili üniteye tahakkuk yazısı gönderilir. Kiracıya kira ve diğer borçları bildirilerek, süresi içinde ödenmesi hususu yazılı olarak tebliğ edilir. Kiracıya yapılan tebligatta; kiranın en geç bir haftalık süre içinde ödenmesi, zamanında ödenmediği takdirde gecikme faizi alınacağı, tahsil edilmezse kanuni yollara başvurulacağı belirtilir.
+(2) İstanbul dışındaki işletmelere ait kiraların tahakkuk ve tahsili ünitelerin kendileri tarafından yapılır.

@@ -1,0 +1,2 @@
+Teslim tutanağı
+MADDE 12 – (1) Kiraya verilen deniz vasıtası; tahsisli ünitesince düzenlenecek bir tutanakla, kiracıya teslim edilir. Üç suret olarak hazırlanan tutanak, deniz vasıtasını teslim eden görevli personel ve kiracı tarafından imzalanır. Asıl nüsha, Limanlar Dairesi Başkanlığındaki dosyasında, suretlerden biri emrine tahsisli ünitesindeki dosyasında muhafaza edilir, diğeri kiracıya verilir.

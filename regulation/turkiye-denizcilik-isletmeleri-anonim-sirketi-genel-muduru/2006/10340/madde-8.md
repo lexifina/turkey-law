@@ -1,0 +1,4 @@
+İhale komisyonu
+MADDE 8 – (1) Kiraya verme ihalesi ilgili Genel Müdür Yardımcısının görevlendireceği Daire Başkanı veya Müdür başkanlığında, en az beş asil ve iki yedek üyeden kurulan bir komisyonca yürütülür. Komisyon Mali İşler Dairesi Başkanlığından bir yetkili personel, Hukuk Başmüşavirliğinden bir hukukçu, emrine tahsisli ünitesinden bir personel, Teknik Hizmetler Dairesi Başkanlığından bir teknik personelden oluşur. Kira Takdir Komisyonunda görev alanlar bu komisyonda görev alamazlar.
+(2) Genel Müdür gerekli hallerde, komisyonun bir Genel Müdür Yardımcısı başkanlığında kurulmasını onaylayabilir. Komisyon onayının bir örneği, komisyon üyelerine bildirilmek üzere ilgili ünitesine gönderilir.
+(3) İhale Komisyonu, kendilerine önceden tebliğ edilmiş ihale günü, belirtilen yer ve saatte hazır bulunur.

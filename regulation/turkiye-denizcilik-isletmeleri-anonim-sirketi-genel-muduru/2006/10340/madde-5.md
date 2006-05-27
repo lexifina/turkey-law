@@ -1,0 +1,2 @@
+İşlemlerinin yürütülmesi
+MADDE 5 – (1) Şirkete ait deniz vasıtalarının kiraya verilmesi, süre uzatımı, kira bedeli artışı, sözleşmeye uygun kullanılıp kullanılmadığının takibi ve ilgili diğer işlemler, Limanlar Dairesi Başkanlığınca; kiraların tahsili ve gecikenlerin kanuni takibe intikali ise Mali İşler Dairesi Başkanlığınca yürütülür. İstanbul dışındaki işletmelere ait deniz vasıtalarının kiraya verilmesi ve diğer takip işlemleri de Limanlar Dairesi Başkanlığınca yapılır, ancak Başkanlık, gerekli görmesi halinde ünitesince yürütülmesini sağlayabilir.
