@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-05-27",
+  "issue": "26180",
+  "edition": "regular",
+  "item": 17,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Maliye Bakanlığı Milli Emlak Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060527-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (35 = 35)",
+  "ilan_codes": [
+    "5816/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060527-4.htm",
+  "category_page_sha256": "ef85d58cd790945d92628c70afbf19db0777ef6581941c45348420ee223042ea",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060527.htm",
+  "index_sha256": "31bcf7ac85eef42d12b7ca6ec2f2f308f653e0bd550eb610d315a20e41c83c30",
+  "index_header": "27 Mayıs 2006 ... Sayı : 26180",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
