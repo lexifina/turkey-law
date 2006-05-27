@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-05-27",
+  "issue": "26180",
+  "edition": "regular",
+  "item": 4,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "MKE Çankırı Silah Fabrikası Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060527-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (9 = 9)",
+  "ilan_codes": [
+    "5900/1-1",
+    "5899/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060527-3.htm",
+  "category_page_sha256": "e308e5ceb2e2fbe433abd2f6fb8d5e5a70f0cb9d8abb267ce5176f519be852b2",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060527.htm",
+  "index_sha256": "31bcf7ac85eef42d12b7ca6ec2f2f308f653e0bd550eb610d315a20e41c83c30",
+  "index_header": "27 Mayıs 2006 ... Sayı : 26180",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
