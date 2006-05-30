@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5508",
+  "year": 2006,
+  "title": "Başbakanlık Teşkilatı Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-05-30",
+  "gazette_issue": "26183",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060530-1.htm",
+  "source_sha256": "38ace02b308cedfbf8e1aca76ea1c679caf1b99b91fe0d9ddffee78a57bbec34",
+  "text_sha256": "356917829c991c7f53bee018bccd0fc09d9391b519a2ac7fb4f14df846c7cf18",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/05/30/26183-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/05/20060530-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
