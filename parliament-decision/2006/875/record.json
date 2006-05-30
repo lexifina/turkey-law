@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "875",
+  "year": 2006,
+  "title": "Yaş Sebze, Meyve ve Kesme Çiçek ile Narenciye Üretimi ve İhracatındaki Sorunların Araştırılmasına İlişkin 10/81,234,286 Esas Numaralı Meclis Araştırması Komisyonunun Görev Süresinin Uzatılmasına Dair Karar",
+  "adopted": "2006-05-30",
+  "adopted_as_published": "30/05/2006",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "03.06.2006 No: 26187",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/karartbmmc090/karartbmmc09000875.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 90",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 912406,
+      "title": "Yaş Sebze, Meyve ve Kesme Çiçek ile Narenciye Üretimi ve İhracatındaki Sorunların Araştırılmasına İlişkin 10/81,234,286 Esas Numaralı Meclis Araştırması Komisyonunun Görev Süresinin Uzatılmasına Dair Karar",
+      "adopted_as_published": "30/05/2006",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/karartbmmc090/karartbmmc09000875.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 121,
+          "sitting": 108,
+          "sitting_date": "2006-05-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c121/tbmm22121108.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c121/tbmm22121fih.pdf",
+          "pages": [
+            "116"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=147&v_gelecek_sayfa=101&v_kullanici_id=27483285",
+      "page_sha256": "a03251734a02d499ab5f0b2d0c5e2a74698b6cbd365fd1eacfe299217c8100ef"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a03251734a02d499ab5f0b2d0c5e2a74698b6cbd365fd1eacfe299217c8100ef",
+  "issuer": "TBMM",
+  "in_force": "2006-05-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 30/05/2006; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
