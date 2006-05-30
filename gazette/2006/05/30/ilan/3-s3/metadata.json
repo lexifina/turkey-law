@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-05-30",
+  "issue": "26183",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "TEKEL Sigara Sanayii İşletmeleri ve Ticareti Anonim Şirketi Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060530-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (15 = 15)",
+  "ilan_codes": [
+    "5713/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060530-3.htm",
+  "category_page_sha256": "2aaac0e30eaee2c064e5d824c22d9e113b4e7d6f6fb65d850a6402255715b7c9",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2006/05/20060530.htm",
+  "index_sha256": "03bb79dbdd7160c6c4c0657c994d52ed10d2a6ac842d46940036fe2de96d399a",
+  "index_header": "30 Mayıs 2006 ... Sayı : 26183",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
