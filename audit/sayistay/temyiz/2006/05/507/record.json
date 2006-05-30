@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28732",
+  "decision_date": "2006-05-30",
+  "source_id": 507,
+  "chamber": "6",
+  "file_number": "28145",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/507/",
+  "source_sha256": "700b95712a93fdf7c713d6f99adbaa8373986f8964f830e1486a53a1909818fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
