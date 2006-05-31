@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5511",
+  "year": 2006,
+  "title": "Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+  "adopted": "2006-05-31",
+  "adopted_as_published": "31/05/2006",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.06.2006 No: 26190",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005511.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 90",
+  "committee_reports": [
+    {
+      "label": "TBMM 1191 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c121/tbmm22121109ss1191.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 214311,
+      "title": "Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+      "adopted_as_published": "31/05/2006",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005511.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1191 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c121/tbmm22121109ss1191.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 119,
+          "sitting": 99,
+          "sitting_date": "2006-05-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c119/tbmm22119099.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c119/tbmm22119fih.pdf",
+          "pages": [
+            "232"
+          ]
+        },
+        {
+          "cilt": 121,
+          "sitting": 108,
+          "sitting_date": "2006-05-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c121/tbmm22121108.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c121/tbmm22121fih.pdf",
+          "pages": [
+            "106"
+          ]
+        },
+        {
+          "cilt": 121,
+          "sitting": 109,
+          "sitting_date": "2006-05-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c121/tbmm22121109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c121/tbmm22121fih.pdf",
+          "pages": [
+            "341:343"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=701&v_kullanici_id=27483198",
+      "page_sha256": "5cd77f0b570ec70dc652f7b6093f637cb0499eb722a08a35928cabb51a337a89"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5cd77f0b570ec70dc652f7b6093f637cb0499eb722a08a35928cabb51a337a89",
+  "issuer": "TBMM",
+  "in_force": "2006-05-31",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 31/05/2006; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
