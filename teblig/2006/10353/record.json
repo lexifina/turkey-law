@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10353",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TEDAVİ YARDIMINA İLİŞKİN UYGULAMA TEBLİĞİ (SIRA NO: 7)",
+  "number": "10353",
+  "path": "teblig/2006/10353",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10353&MevzuatTertip=5",
+  "source_sha256": "4c0a2a41c51e3e13bee00d52662910e4a541cd400a98d8aa69df22e55a4d04d0",
+  "source_bytes": 237479,
+  "published": "2006-05-31",
+  "gazette": "26184",
+  "in_force": "2006-05-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.05.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2596,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
