@@ -1,0 +1,80 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5516",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Birleşmiş Milletler Dünya Gıda Programı Arasındaki Temel Anlaşmaya Ek'in Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2006-05-31",
+  "date_basis": "last-sitting",
+  "official_gazette_as_published": "06.06.2006 No: 26190",
+  "committee_reports": [
+    {
+      "label": "TBMM 1091 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c121/tbmm22121109ss1091.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 214317,
+      "title": "Türkiye Cumhuriyeti Hükümeti ve Birleşmiş Milletler Dünya Gıda Programı Arasındaki Temel Anlaşmaya Ek'in Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [
+        {
+          "label": "TBMM 1091 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c121/tbmm22121109ss1091.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 95,
+          "sitting": 6,
+          "sitting_date": "2005-10-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c095/tbmm22095006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c095/tbmm22095fih.pdf",
+          "pages": [
+            "62"
+          ]
+        },
+        {
+          "cilt": 112,
+          "sitting": 68,
+          "sitting_date": "2006-02-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c112/tbmm22112068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c112/tbmm22112fih.pdf",
+          "pages": [
+            "277"
+          ]
+        },
+        {
+          "cilt": 121,
+          "sitting": 109,
+          "sitting_date": "2006-05-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c121/tbmm22121109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c121/tbmm22121fih.pdf",
+          "pages": [
+            "361:362",
+            "393:407"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=701&v_kullanici_id=27483198",
+      "page_sha256": "5cd77f0b570ec70dc652f7b6093f637cb0499eb722a08a35928cabb51a337a89"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5cd77f0b570ec70dc652f7b6093f637cb0499eb722a08a35928cabb51a337a89",
+  "issuer": "TBMM",
+  "in_force": "2006-05-31",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2006-05-31); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
