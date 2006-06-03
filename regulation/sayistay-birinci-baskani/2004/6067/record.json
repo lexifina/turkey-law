@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.6067",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BÜYÜK MİLLET MECLİSİ BAŞKANLIĞINDAN GELEN DENETİM TALEPLERİNİN SAYIŞTAYCA KARŞILANMASINA İLİŞKİN YÖNETMELİK",
+  "number": "6067",
+  "issuer": "Sayıştay Birinci Başkanı",
+  "issuer_slug": "sayistay-birinci-baskani",
+  "path": "regulation/sayistay-birinci-baskani/2004/6067",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6067&MevzuatTertip=5",
+  "source_sha256": "975cbd8a78c74043aada6f78183cdf341e990627964974230704f009c4e781e4",
+  "source_bytes": 17420,
+  "published": "2004-02-06",
+  "gazette": "25365",
+  "in_force": "2006-06-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-03/06/2006\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2006-06-03",
+      "RG-03/06/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 7/2/2004 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 611,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
