@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5509",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Japonya Hükümeti Arasında Kaman Kalehöyük Arkeoloji Müzesinin Hibe Yoluyla Yapımına İlişkin Nota ve Görüşme Tutanaklarının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-06-03",
+  "gazette_issue": "26187",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060603-1.htm",
+  "source_sha256": "fd3ee230fc5672ac6ccabb16e3874ced76e53e3be7607562c54c963f5bf2106f",
+  "text_sha256": "b6026ffa126e3742f5972bbeef028aba8a8f4af8710c5592fb1d6f1727403fd6",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/06/03/26187-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060603-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
