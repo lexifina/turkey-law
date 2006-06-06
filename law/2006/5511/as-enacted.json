@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5511",
+  "year": 2006,
+  "title": "Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-06-06",
+  "gazette_issue": "26190",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060606-1.htm",
+  "source_sha256": "da0584cebab406e059ecc4088d149216113fa8c8ce7937ae0ffae3a0936891b8",
+  "text_sha256": "a69dc823f2c8aa94638784d667e48ff181427ab57e856dd59f3ba35004cc9202",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/06/06/26190-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060606-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
