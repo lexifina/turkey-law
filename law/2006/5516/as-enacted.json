@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5516",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Birleşmiş Milletler Dünya Gıda Programı Arasındaki Temel Anlaşmaya Ek'in Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-06-06",
+  "gazette_issue": "26190",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060606-6.htm",
+  "source_sha256": "866a2aa9134e4b432376f977b181c84d747ffb2d8b901360a9f153ed1957088d",
+  "text_sha256": "720248589b2a840b02b3ce8ae7e255f3f20d573dbc93f5647110b7d462f0f56b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/06/06/26190-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060606-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
