@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5512",
+  "year": 2006,
+  "title": "İnsan Haklan ve Ana Hürriyetlerini Korumaya Dair Sözleşmenin Oluşturduğu Denetim Mekanizmasının Değiştirilmesine İlişkin 14 Nolu Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-06-06",
+  "gazette_issue": "26190",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060606-2.htm",
+  "source_sha256": "5ff4e440139ca0047f8ca87fad069be4cbd86d36088464ca1a245c57256c53c5",
+  "text_sha256": "a6ccd5327e428886aba4874edfb949e2b99e602294b0d6bb53a5cac11cc2639d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/06/06/26190-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060606-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
