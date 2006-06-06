@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5513",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Katar Devleti Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-06-06",
+  "gazette_issue": "26190",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060606-3.htm",
+  "source_sha256": "302a3f4f7bdaed345ea4542b67221064ace834234ce01c741143ce337b8bc127",
+  "text_sha256": "f113009aab0519bfac3d39b4f79c89c0a719d9c0205afac2c9b9131e3b6c62cb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/06/06/26190-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060606-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
