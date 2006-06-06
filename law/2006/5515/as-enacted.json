@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5515",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti ile Portekiz Cumhuriyeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-06-06",
+  "gazette_issue": "26190",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060606-5.htm",
+  "source_sha256": "88457e61d49096660964ce67576ce081648d45b68c86f307712da1bf353a56a6",
+  "text_sha256": "cb0ea8508996b006823483bd2077ed63bbe1f76481de11c6ca00b8d97b45fb6c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/06/06/26190-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060606-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
