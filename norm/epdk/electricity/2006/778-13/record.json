@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "778/13",
+  "decision_date": "2006-06-08",
+  "title": "Elektrik Piyasası Serbest Tüketici Yönetmeliğinin 5 nci maddesinin üçüncü fıkrasının c bendinde yer alan hükmün uygulanması hususunda açıklama",
+  "categories": [
+    "Serbest Tüketici"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IhrA6Dh63JA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IhrA6Dh63JA="
+  ],
+  "source_sha256": "49de2a7853285269d6447033348095bff4d80ac5708b278b6ac1e67c4dcef30f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-06-08",
+  "law_text_complete": false
+}
