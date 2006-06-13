@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10389",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRANO: 305)",
+  "number": "10389",
+  "path": "teblig/2006/10389",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10389&MevzuatTertip=5",
+  "source_sha256": "c8c38874be73df85db64e602ba7f162f6c0a88e476a8d51e7864a33f8d2d0cd9",
+  "source_bytes": 24391,
+  "published": "2006-06-13",
+  "gazette": "26197",
+  "in_force": "2006-06-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.06.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 662,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
