@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28747",
+  "decision_date": "2006-06-13",
+  "source_id": 519,
+  "chamber": "5",
+  "file_number": "28364",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/519/",
+  "source_sha256": "9500f29eadd1ac57b7b83f78d831adc033d958be935b6af7d768502f81148bab",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
