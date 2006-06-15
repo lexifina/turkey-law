@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5519",
+  "year": 2006,
+  "title": "Dernekler Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-06-15",
+  "gazette_issue": "26199",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060615-1.htm",
+  "source_sha256": "82d7ff157d75a092dd480f1fec61923f180fd0441e46278900d4561c99054c85",
+  "text_sha256": "82d2f4a508cea87af91e7ece87feed18c881e37ca9db4d168a89d27f619cfdb1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/06/15/26199-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060615-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
