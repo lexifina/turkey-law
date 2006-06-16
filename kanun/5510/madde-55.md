@@ -1,0 +1,5 @@
+Gelir ve aylıkların düzeltilmesi, yükseltilmesi, ödenmesi ve yoklama işlemleri
+MADDE 55- Bu Kanuna göre gelir veya aylık bağlanan sigortalı ile hak sahibi kişilerin durumlarının, kendilerine veya başka hak sahiplerine bağlanmış bulunan gelir veya aylık tutarının düzeltilmesini gerektirir bir şekilde değişmesi halinde gelir veya aylık tutarları, değişikliğin meydana geldiği tarihten sonraki ödeme dönemi başından başlanarak yeni duruma göre düzeltilir.
+Bu Kanuna göre bağlanan gelir ve aylıklar, her yılın Ocak ve Temmuz ödeme tarihlerinden geçerli olmak üzere, bir önceki altı aylık döneme göre Türkiye İstatistik Kurumu tarafından açıklanan en son temel yıllı tüketici fiyatları genel indeksindeki değişim oranı kadar artırılarak belirlenir.
+Sigortalıya veya hak sahiplerine bağlanan gelir veya aylıklar, her ay peşin olarak ödenir. Gelir ve aylıkların ödeme dönemleri, ödeme tarihleri, ödeme şekli ve ödeme merkezleri Kurumca belirlenir.
+Gelir ve aylık alma şartlarının devam edip etmediğine yönelik yoklama işlemlerine ilişkin usûl ve esaslar ile bu maddenin uygulanmasına ilişkin diğer usûl ve esaslar, Kurum tarafından çıkarılacak yönetmelik ile düzenlenir.

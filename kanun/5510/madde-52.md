@@ -1,0 +1,5 @@
+İsteğe bağlı sigorta primleri ve ödenmesi
+MADDE 52- İsteğe bağlı sigorta primi, 82 nci maddeye göre belirlenen prime esas kazancın alt sınırı ile üst sınırı arasında, sigortalı tarafından belirlenen günlük kazanç ve prim ödeme gün sayısı üzerinden bulunacak kazancın % 32'sidir. Bunun % 20'si malûllük, yaşlılık ve ölüm sigortaları primi, % 12'si genel sağlık sigortası primidir.
+İsteğe bağlı sigortalı olanlar, bakmakla yükümlü olunan kişi olsa dahi, 60 ıncı maddenin birinci fıkrasının (b) bendi kapsamında genel sağlık sigortalısı sayılır ve genel sağlık sigortası primini de ödemekle yükümlüdürler.
+Ait olduğu aydan itibaren en geç 12 ay içinde 89 uncu maddenin ikinci fıkrasına göre hesaplanacak gecikme cezası ve gecikme zammıyla birlikte ödenmeyen süreler, sigortalılık süresinden sayılmaz. Bu 12 aylık süreden sonra ödenen primler 89 uncu maddenin üçüncü fıkrası hükümlerine göre iade edilir.
+İsteğe bağlı sigortalıların zorunlu sigortalılık nedeniyle prim borcunun bulunması halinde, isteğe bağlı sigortaya tâbi ödenen primler öncelikle zorunlu sigortalılık nedeniyle Kuruma olan borçlarına mahsup edilir.

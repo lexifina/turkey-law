@@ -1,0 +1,5 @@
+Bilgi ve belge isteme hakkı, bilgi ve belgelerin Kuruma verilme usûlü
+MADDE 100- Kurum, bu Kanun hükümlerine ilişkin yapılan soruşturmalar hakkında Cumhuriyet savcılıklarından, kamu ve özel hukuk tüzel kişileri ile gerçek kişilerden bilgi ve belge isteyebilir.
+Kurum, bu Kanun gereği verilecek her türlü belge veya bilginin internet, elektronik ve benzeri ortamda gönderilmesi hususunda, gerçek ve tüzel kişileri zorunlu tutmaya yetkilidir.
+Belge veya bilgileri internet, elektronik ve benzeri ortamda göndermekle zorunlu tutulan gerçek ve tüzel kişilerin, Kurumun bilgi işlem sistemlerinin herhangi bir nedenle hizmet dışı kalması sonucu belge ve bilgiyi, bu Kanunda öngörülen sürenin son gününde Kuruma gönderememesi ve muhteviyatı primleri de yasal süresi içinde ödeyememesi halinde, sorunların ortadan kalktığı tarihi takip eden üçüncü işgününün sonuna kadar belge veya bilgiyi gönderir ve muhteviyatı primleri de aynı sürede Kuruma öder ise bu yükümlülükleri Kanunda öngörülen sürede yerine getirmiş kabul edilir.
+Bu maddenin uygulanması ile ilgili usûl ve esaslar, Kurum tarafından çıkarılacak yönetmelikle düzenlenir.

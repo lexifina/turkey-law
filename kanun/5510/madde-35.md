@@ -1,0 +1,9 @@
+Hak sahiplerinin aylıklarının başlangıcı, kesilmesi ve yeniden bağlanması
+MADDE 35- Ölüm sigortasından sigortalının hak sahiplerine bağlanacak aylıklar;
+a) Sigortalının ölüm tarihini,
+b) Hak sahibi olma niteliğinin ölüm tarihinden sonra kazanılması halinde, bu niteliğin kazanıldığı tarihi,
+takip eden ay başından itibaren başlatılır. Hak sahiplerine bağlanan aylıklar 34 üncü maddede belirtilen şartların ortadan kalktığı tarihi takip eden ödeme dönemi başından itibaren kesilir.
+Ancak bu Kanunun 4 üncü maddesinin üçüncü fıkrasının (d) ve (e) bentlerinde belirtilenlerden öğrenci olanların sigortalı sayılmaları, bağlanan aylıkların kesilmesini gerektirmez.
+Aylığın kesilmesine yol açan sebebin ortadan kalkması halinde, 34 üncü maddede belirtilen şartlar saklı kalmak kaydıyla, müracaat tarihini takip eden ay başından itibaren yeniden aylık bağlanır. Ancak evliliğin ölüm nedeniyle sona ermesi durumunda, önceki aylığın yeniden bağlanması, sonraki eşten dolayı aylık hakkının doğmaması şartına bağlıdır.
+Bu madde gereğince aylığı kesilen çocuklardan, sonradan Kurum Sağlık Kurulu kararı ile çalışma gücünü en az % 60 oranında kaybederek malûl olduğu anlaşılanlara, 34 üncü maddede belirtilen şartları taşımaları halinde, malûllük durumlarının tespitine esas teşkil eden rapor tarihini takip eden ay başından itibaren, 94 üncü madde hükmü saklı kalmak kaydıyla aylık bağlanır.
+Yeniden bağlanan aylık, aylığın kesildiği tarihten tekrar bağlandığı tarihe kadar geçen süre için 55 inci maddenin ikinci fıkrasına göre artırılmak suretiyle belirlenir.
