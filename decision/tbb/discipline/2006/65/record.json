@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "65",
+  "date": "2006-06-16",
+  "title": "T. 16.06.2006 E. 2006/218 K. 2006/218",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/65",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=5&yil=2006",
+  "listing_sha256": "6a0a7b619849ec0640815b406c6abed37ee714307c05f04fb84f40b3337245b3",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
