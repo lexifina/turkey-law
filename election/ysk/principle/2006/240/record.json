@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2006/240",
+  "list_number": "240",
+  "decision_date": "2006-06-17",
+  "title": "YSK ilke kararı 2006/240",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3489/2006-240-karar.htm",
+  "source_sha256": "d7a711582012bed7410f5fb6c042eb880f15c0afad98325f41fc9a37b68f5a78",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2006-06-17",
+  "law_text_complete": false
+}
