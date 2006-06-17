@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2006/241",
+  "list_number": "241",
+  "decision_date": "2006-06-17",
+  "title": "YSK ilke kararı 2006/241",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3485/2006-241-karar.htm",
+  "source_sha256": "b07f6fba131333040683b296caad24e7b51af62fedc2db488c8770f83bafe41c",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2006-06-17",
+  "law_text_complete": false
+}
