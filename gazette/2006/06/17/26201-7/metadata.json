@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-06-17",
+  "issue": "26201",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Gözetim Uygulanmasına İlişkin Tebliğ (No: 2006/13)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060617-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060617.htm",
+  "index_sha256": "9257443498cd2aff1b0c70d844ff62b967b586616372722e16bb7f4f461eecc1",
+  "index_header": "17 Haziran 2006 ... Sayı : 26201",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
