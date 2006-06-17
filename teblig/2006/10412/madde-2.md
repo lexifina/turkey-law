@@ -1,0 +1,5 @@
+Başvuru usul ve esasları
+MADDE 2- (1) Bu Tebliğ’in 3 üncü maddesinde belirtilen İran İslam Cumhuriyeti menşeli ürünlere yönelik kota başvurularının değerlendirmeye alınabilmesi için, EK I’de yer alan İthal Lisansı Başvuru Formunun usulüne uygun bir şekilde doldurulması ve EK II ve EK III’de yer alan belgelerle birlikte tam ve eksiksiz bir şekilde yine bu Tebliğin 3 üncü maddesinde belirtilen dönemler için karşılarında yer alan başvuru tarihlerinin son günü mesai bitimine kadar Dış Ticaret Müsteşarlığı (Müsteşarlık) İthalat Genel Müdürlüğüne (Genel Müdürlük) gönderilmesi gerekmektedir. Belirtilen başvuru tarihlerinden önce veya sonra yapılan başvurular değerlendirmeye tabi tutulmayacaktır. Değerlendirmede genel evrak giriş tarihi esas olup, postadaki gecikmeler dikkate alınmayacaktır.
+(2) Müsteşarlık, gerekli görmesi halinde, ek bilgi ve belge isteyebilir.
+(3) Bir kotaya, aynı firma tarafından bir kota dönemi içinde birden fazla başvuru yapılamaz.
+(4) Bu Tebliğ kapsamında yapılan beyanın doğruluğuyla ve ithal mallarla ilgili incelemeleri yapmaya veya yaptırmaya Müsteşarlık yetkilidir.
