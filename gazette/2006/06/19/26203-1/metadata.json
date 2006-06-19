@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-06-19",
+  "issue": "26203",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2006/10458 Türkiye Cumhuriyeti Hükümeti ile Moğolistan Hükümeti Arasında İmzalanan, Büyükelçilik Binasının Türkiye Cumhuriyeti Hükümetine Satışına İlişkin Anlaşma'nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060619-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/06/20060619.htm",
+  "index_sha256": "dbadc674e5f3a2cec10bf2be63c5f225bd4867ad6053b196c20fb2ef8a81ee26",
+  "index_header": "19 Haziran 2006 ... Sayı : 26203",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
