@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "796",
+  "decision_date": "2006-06-19",
+  "title": "Dağıtıcılar Arası Akaryakıt Ticaretine İlişkin Usul ve Esaslar Hakkında Karar (Mülga)",
+  "resmi_gazete_date": "2006-06-30",
+  "resmi_gazete_number": "26214",
+  "categories": [
+    "Dağıtıcılar Arası Akaryakıt Ticaretine İlişkin Usul ve Esaslar Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c+NvMzgHD5c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c+NvMzgHD5c="
+  ],
+  "source_sha256": "371e47a36c89780da66144e4b1520b0cb8556807acfd2b522b7831bbedc6bcd2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4810,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-06-19",
+  "law_text_complete": false
+}
