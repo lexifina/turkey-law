@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.03.41/4117-02- 045524",
+  "source_id": 37830,
+  "date": "2006-06-19",
+  "title": "Bal destekleme primi ödemelerinde gelir vergisi tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37830",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "d23002a3e1037838a0b76ffc93461d3dd32e24a75d4f71e2d7f331b81c1d4903",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
