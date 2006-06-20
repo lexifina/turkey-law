@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28779",
+  "decision_date": "2006-06-20",
+  "source_id": 549,
+  "chamber": "7",
+  "file_number": "27930",
+  "account_year": "1999",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/549/",
+  "source_sha256": "41766e5dbb6a414d83807d6de9a522dcd42c7a615eb7fde1a4815c3636f8d6e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
