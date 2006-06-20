@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28788",
+  "decision_date": "2006-06-20",
+  "source_id": 558,
+  "chamber": "7",
+  "file_number": "27933",
+  "account_year": "1999",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/558/",
+  "source_sha256": "795c48288d96673846fff4f8e416eff5d813f65de735c7a8e39b221f79859dc9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
