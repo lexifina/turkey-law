@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28773",
+  "decision_date": "2006-06-20",
+  "source_id": 543,
+  "chamber": "1",
+  "file_number": "27903",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/543/",
+  "source_sha256": "3162ba7081abd6c0cdbbd79fa94e1d51371ca29bad028475ccb9ae57325c9245",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
