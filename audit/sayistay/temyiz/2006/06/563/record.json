@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28793",
+  "decision_date": "2006-06-20",
+  "source_id": 563,
+  "chamber": "7",
+  "file_number": "27950",
+  "account_year": "1999",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/563/",
+  "source_sha256": "c35688ecd2b414e1f47e8b20d8e4a88dc5464fad64e18a0c6bbef7498b9bf659",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
