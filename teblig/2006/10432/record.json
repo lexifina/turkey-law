@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10432",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 46)",
+  "number": "10432",
+  "path": "teblig/2006/10432",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10432&MevzuatTertip=5",
+  "source_sha256": "445dcce9d57a2ae5dd9f3630361574201a5e8cac9caf5eba1e4c9e369b786a91",
+  "source_bytes": 15588,
+  "published": "2006-06-22",
+  "gazette": "26206",
+  "in_force": "2006-06-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.06.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 303,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
