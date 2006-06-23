@@ -1,0 +1,3 @@
+Arama-kurtarma
+MADDE 34 – (1) Dalabilir deniz araçlarının işleticileri, acil durumlarda araçtaki yolcu ve personelin kurtarılmaları ve aracın tahliyesi amacıyla bir arama ve kurtarma planı hazırlar ve onay için İdareye verir. İdarenin planı onaylamasını müteakip, planda belirtilen arama ve kurtarma personeli ve ekipmanı faaliyet öncesi hazır edilir. Aynı deniz alanında birden fazla dalabilir deniz aracı işleteninin faaliyet göstermesi durumunda, İdarenin izni ile ortak plan hazırlanabilir ve arama ve kurtarma personel ve ekipmanı ortak kullanılabilir.
+(2) Acil durumlarda alarm ve ikazların arama ve kurtarma birimlerine ulaşması için alternatifli alarm ikaz sistemleri oluşturulmalı ve bunlar arama- kurtarma planında belirtilmelidir.

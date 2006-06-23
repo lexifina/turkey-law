@@ -1,0 +1,2 @@
+Yapım izni
+MADDE 9 – (1) Dalabilir deniz araçlarının yapım izinleri, 8/7/2005 tarihli ve 25869 sayılı Resmî Gazete’de yayımlanan, Gemi ve Su Araçlarının İnşası, Tadilatı, Bakım-Onarımlarında Uygulanacak Usul ve Esaslara Dair Yönetmelik hükümlerine tabidir. İdare, dalabilir deniz araçlarının ve bunların işletilmesinin emniyeti için gerekli ilave tasarım, yapım ve ekipman ihtiyaçlarını izin aşamasında belirler ve yapım izni ile birlikte bildirir.

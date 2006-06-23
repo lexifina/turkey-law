@@ -1,0 +1,2 @@
+Can kurtarma ekipmanları
+MADDE 17 – (1) Dalabilir deniz aracında, personel ve yolcu kapasitesinin %120’si kadar can yeleği bulundurulması zorunludur. Can yelekleri kolay ulaşılabilir yerlerde muhafaza edilmelidir. Yolcu bindirme/boşaltma sırasında veya yolcular güvertedeyken can simitleri bulundurulmalıdır. Can simit sayısı toplam kapasitenin asgari %20’si kadar olmalıdır. Bunlara ilave olarak yeterli sayıda ilk yardım çantası bulundurulmalıdır.

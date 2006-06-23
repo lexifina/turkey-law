@@ -1,0 +1,6 @@
+Belgelendirme
+MADDE 12 – (1) Yapımı tamamlanan dalabilir deniz araçlarına, İdare veya yetkilendirdiği kuruluş tarafından dalabilir deniz aracının ana elaman, gözlem penceresi, elektrik ve hayat destek sistemlerinin tasarım ve yapımında kullanılan standartları içeren, tasarım ve yapım belgesi verilir. Bu Yönetmeliğin 6 ncı maddesi kapsamında verilen muafiyetler bu belgeye işlenir ve bu belge emniyet uyum belgesine eklenir.
+(2) İdare veya yetkilendirilmiş kuruluş tarafından, dalabilir deniz aracının başlangıç denetiminin tamamlanmasından sonra emniyet uyum belgesi verilir. Belge bu Yönetmeliğin 10 uncu maddesinin ikinci fıkrası kapsamında yapılan denetimin tamamlanmasından sonra yenilenir. İdare belgelerin verilmesinden sorumludur.
+(3) Belgeler, Türkçe ile birlikte İngilizce, Fransızca ve İspanyolca dillerinden birinden olmak üzere iki dilde hazırlanır.
+(4) Belgelerin geçerliliği, bakım ve onarım dışında İdarenin izni olmaksızın, dalabilir deniz aracının emniyetini etkileyecek şekilde tadili veya bu Yönetmeliğin 10 uncu maddesi kapsamında, İdare tarafından belirlenen denetimlerin yapılmaması durumunda ortadan kalkar.
+(5) Emniyet uyum belgesi en fazla bir yıllık süre için verilir. İdare, gerekli gördüğü durumlarda emniyet uyum belgesinin geçerlilik süresini en fazla üç ay süre ile uzatabilir.

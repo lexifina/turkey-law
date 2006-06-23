@@ -1,0 +1,5 @@
+Tasarım ve yapım
+MADDE 13 – (1) Dalabilir deniz araçlarının, tasarım ve inşası ile bu standartlarını korumak amacına yönelik bakımları, bu Yönetmelikte belirtilen esaslara uygun olarak yapılır. Tasarım ve inşada, aracın acil ve olağandışı durumlarda herhangi bir harici yardıma ihtiyaç duymadan su üstüne çıkabilme yeteneğine sahip olması esas alınır. Yedek sistemler ve ekipmanlar, genel tasarım ve inşa standartlarını da kapsar. Dalabilir deniz araçları, her zaman yüzebilme yeteneğine sahip olmalı ve sistemi, donanımı ve ekipmanları bu yeteneğe sahip olacak şekilde tasarlanmalıdır.
+(2) Dalabilir deniz aracının işletileceği deniz alanının derinliği, belgelendirilmiş olan derinlikten fazla olamaz. Ancak, dalabilir deniz araçlarının denetimlerinde, faaliyet kabiliyetleri daha derin sularda test edilebilir.
+(3) Yolcuların, dalabilir deniz aracının idare mekanizmalarına müdahale etmelerini önleyecek tüm tedbirler alınmalıdır.
+(4) Dalabilir deniz araçları, hem su altında hem de su üstünde çevre koşullarına ve ısı değişikliklerine uyum sağlayacak şekilde tasarlanmalı ve araçtaki yolcu ve personelin tahliyesini kolaylaştıracak tedbirler alınmalıdır.

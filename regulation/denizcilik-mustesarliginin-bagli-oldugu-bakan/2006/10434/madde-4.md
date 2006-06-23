@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Balast tankı: Dalabilir deniz aracının su altına inmek ve dengesini sağlamak üzere ihtiyaç duyduğu suyu taşıyan tankı veya bölmeyi,
+b) Basınç tankı : Basınç altında akışkanların depolandığı tankı,
+c) Belgelendirilmiş Derinlik: Dalabilir deniz aracının güvenli olarak işletebileceği belgelendirilmiş olan maksimum derinliği,
+ç) Dalabilir deniz aracı: İnsan taşıyan, fiziksel olarak su altında ve su üstünde seyir esnasında bir desteğe bağlı olmadan hareket edebilen veya her durumda su üstü desteği ile su altında çalışan deniz araçlarını,
+d) Emniyet uyum belgesi: Dalabilir deniz aracına başlangıç denetiminden sonra verilen ve yıllık denetimlerden sora yenilenen belgeyi,
+e) Gaz tankı : Gazların basınç altında depolandığı ve transfer edildiği basınçlı tankı,
+f) Hayat destek sistemi: Dalabilir deniz aracının yaşanabilir ortamını tüm koşullarda korumak için gerekli olan donanımları ve sistemleri,
+g) İdare: Denizcilik Müsteşarlığını,
+ğ) İşleten: Mülkiyeti kendisine ait olsun ya da olmasın, dalabilir deniz aracını teknik ve/veya ticari açıdan çalıştıran gerçek veya tüzel kişiyi,
+h) Kaptan: Dalabilir deniz aracını sevk ve idare etmek üzere görevli personeli,
+ı) Mevcut dalabilir deniz aracı: Bu Yönetmelik yürürlüğe girdiği tarihten önce yapımı tamamlanmış olan veya yapım amacıyla omurgası kızağa konulmuş olan dalabilir deniz aracını,
+i) Özel amaçlı dalabilir deniz aracı: Yolcu taşıyanlar hariç diğer dalabilir deniz aracını,
+j) Tasarlanmış derinlik: Dalabilir deniz aracının inebileceği tasarlanmış olan maksimum derinliği,
+k) Yeni dalabilir deniz aracı : Bu Yönetmelik yürürlüğe girdiği tarihten sonra omurgası kızağa konulmuş dalabilir deniz aracını,
+l) Yetkilendirilmiş kuruluş: 17/10/2003 tarihli ve 25246 sayılı Resmî Gazete’de yayımlanan Türk Bayraklı Gemilerde Bayrak Devleti Adına Hareket Edecek Kuruluşların Seçimi ve Yetkilendirilmesine Dair Yönetmelik hükümleri çerçevesinde; İdare adına, İdarenin belirleyeceği konularda, ulusal ve uluslar arası kurallar ile yükümlülükler çerçevesinde, sörvey yapma ve belge düzenleme konusunda yetkilendirilen kuruluşu,
+m) Yolcu: Dalabilir deniz aracının sahibi veya kaptanın bilgisi dahilinde ve rızası ile araçta bulunan araç personeli dışındaki kişiyi,
+n) Yolcu kompartımanı: Yolcuların bulunduğu yeri,
+o) Yolcu taşıyan dalabilir deniz aracı: Yolcu taşımak üzere inşa edilmiş ve yolcu taşıyan dalabilir deniz aracını,
+ö) Yolcu taşıyan küçük dalabilir deniz aracı: 49 yolcudan az yolcu taşıyan dalabilir deniz aracını,
+p) Yolcu taşıyan büyük dalabilir deniz aracı: 49 ve daha fazla sayıda yolcu taşıyan dalabilir deniz aracını,
+ifade eder.

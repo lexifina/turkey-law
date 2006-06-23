@@ -1,0 +1,2 @@
+Seyir planı
+MADDE 33 – (1) Dalabilir deniz araçlarının işletenleri, İdare tarafından verilen izin esaslarına göre her bir dalabilir deniz aracı için aracın rotaları, seyir güzergahları, derinlikler, seyir süreleri, dalış ve su üstüne çıkış yerleri gibi hususları belirten bir seyir planı hazırlayıp, İdareye sunmak zorundadır. İdare tarafından kabul edilen ve onaylanan seyir planları acil durumlar dışında değiştirilemez. Seyir planlarında değişiklik yapılması aynı usule tabidir.
