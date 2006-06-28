@@ -1,0 +1,1 @@
+MADDE 1 – 26/5/2005 tarihli ve 25826 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren "Tarım ve Köyişleri Bakanlığına Tahsisli Arazi ve İşletmelerin Tarımsal Faaliyetlerde Kullanılması Amacıyla Yatırımcılara Tahsisinde ve Değerlendirilmesinde Uygulanacak Esas ve Usullere İlişkin Tebliğ" yürürlükten kaldırılmıştır.
