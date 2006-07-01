@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.10459",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TEDAVİ YARDIMINA İLİŞKİN UYGULAMA TEBLİĞİ ( Sıra No: 8 )",
+  "number": "10459",
+  "path": "teblig/2006/10459",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10459&MevzuatTertip=5",
+  "source_sha256": "c8c96f12bdb9111171eb2949166e8f96fa4076acc26d9a0a35e083410f05e578",
+  "source_bytes": 569612,
+  "published": "2006-07-01",
+  "gazette": "26215",
+  "in_force": "2006-07-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.07.2006); own commencement article: \"Bu Tebliğ 01/07/2006 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 01/07/2006 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3295,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
