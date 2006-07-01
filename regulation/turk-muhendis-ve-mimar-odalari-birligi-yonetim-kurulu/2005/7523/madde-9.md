@@ -1,0 +1,2 @@
+Sınıflar
+Madde 9 — Yapılar, gerektirdikleri sanat ve teknik, emek ve araştırmanın çokluğu ve güçlüğüne göre sınıflara ayrılmıştır. İstenecek hizmetin hangi sınıfa sokulacağı 5/8/1985 tarihli ve 18833 sayılı Resmî Gazete’de yayınlanan Bayındırlık ve İskan Bakanlığı Mimarlık ve Mühendislik Hizmetleri Şartnamesinde gösterilmiştir. Tanımlamalara ve örneklere rağmen tereddüde düşüldüğü takdirde o hizmetin hangi sınıfa gireceği ilgili odalarca ve kontrol bürolarınca tespit edilir.
