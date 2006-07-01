@@ -1,0 +1,37 @@
+{
+  "number": "6",
+  "date": "2006-07-01",
+  "source_id": 1605,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1605/2006-6.pdf",
+  "source_sha256": "92a68f1f7e43fa8c9dc27a827b559a7bd388efec4c66319d9ff74a75f9ab35ac",
+  "history": "as-enacted",
+  "words": 870,
+  "in_force_basis": "Official attached YSK decision 2006/268, PDF p. 4, operative conclusion: değişikliğin 01/07/2006 tarihinden itibaren geçerli olmasına",
+  "catalogue_date": "2006-07-21",
+  "source_images": 1,
+  "decorative_images": 1,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "circular_issue_date": "2006-07-21",
+  "attached_decision_numbers": [
+    "268"
+  ],
+  "adoption_dates": [
+    {
+      "page": 4,
+      "date": "2006-07-08",
+      "quote": "08/07/2006 tarihinde oybirliği ile karar verildi"
+    }
+  ],
+  "approval_dates": [],
+  "explicit_effective_dates": [
+    {
+      "page": 4,
+      "date": "2006-07-01",
+      "quote": "değişikliğin 01/07/2006 tarihinden itibaren geçerli olmasına"
+    }
+  ],
+  "date_kind": "explicit-commencement",
+  "in_force_date": "2006-07-01"
+}
