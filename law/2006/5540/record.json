@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5540",
+  "year": 2006,
+  "title": "Dahiliye Memurları Kanunu, İl İdaresi Kanunu, İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanun ve Devlet Memurları Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2006-07-01",
+  "adopted_as_published": "01/07/2006",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "05.07.2006 No: 26219",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005540.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 90",
+  "committee_reports": [
+    {
+      "label": "TBMM 461 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c126/tbmm22126123ss0461.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 214342,
+      "title": "Dahiliye Memurları Kanunu, İl İdaresi Kanunu, İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanun ve Devlet Memurları Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "01/07/2006",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc090/kanuntbmmc090/kanuntbmmc09005540.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 461 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c126/tbmm22126123ss0461.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 48,
+          "sitting": 85,
+          "sitting_date": "2004-05-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c048/tbmm22048085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c048/tbmm22048fih.pdf",
+          "pages": [
+            "241"
+          ]
+        },
+        {
+          "cilt": 51,
+          "sitting": 95,
+          "sitting_date": "2004-06-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051fih.pdf",
+          "pages": [
+            "8"
+          ]
+        },
+        {
+          "cilt": 126,
+          "sitting": 123,
+          "sitting_date": "2006-06-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c126/tbmm22126123.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c126/tbmm22126fih.pdf",
+          "pages": [
+            "440:453",
+            "510:521"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=701&v_kullanici_id=27483198",
+      "page_sha256": "5cd77f0b570ec70dc652f7b6093f637cb0499eb722a08a35928cabb51a337a89"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5cd77f0b570ec70dc652f7b6093f637cb0499eb722a08a35928cabb51a337a89",
+  "issuer": "TBMM",
+  "in_force": "2006-07-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 01/07/2006; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
