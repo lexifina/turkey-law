@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5529",
+  "year": 2006,
+  "title": "Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-07-04",
+  "gazette_issue": "26218",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060704-5.htm",
+  "source_sha256": "a9fe2965229726a7d027a69d0c0471cbaf4506fc6bdc6d51644e1cc07d6e1e35",
+  "text_sha256": "c6ef8e34b3b682ed164d5eab70077f667f03ce0db8b36ea8b2f0400753fd575d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/07/04/26218-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060704-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
