@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5530",
+  "year": 2006,
+  "title": "Askerî Mahkemeler Kuruluşu ve Yargılama Usulü Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-07-05",
+  "gazette_issue": "26219",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060705-1.htm",
+  "source_sha256": "2cb8eda37265d6524031febb9a5666f4b29ae2815683233494cc64af5934999e",
+  "text_sha256": "9866a65fe83916f024aae11af1ac2aaa3db01387fef2df1ca5a43344183ebda7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/07/05/26219-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060705-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
