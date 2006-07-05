@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5540",
+  "year": 2006,
+  "title": "Dahiliye Memurları Kanunu, İl İdaresi Kanunu, İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanun ve Devlet Memurları Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-07-05",
+  "gazette_issue": "26219",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060705-5.htm",
+  "source_sha256": "8e420a6ee35f0cd9c7266ac8a5abb17c2f5a20098e370cb251c4e3582f048c83",
+  "text_sha256": "d60d3cb2e83d59c6a90960875c455a854f15aa31ca6fc7267a3af63df72a5c16",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/07/05/26219-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060705-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
