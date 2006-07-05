@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-07-05",
+  "issue": "26219",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tasarruf Mevduatı Sigorta Fonu İnsan Kaynakları Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060705-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060705.htm",
+  "index_sha256": "facb358a98ef8dba45eabcc111aa1e5657b20e264158f7dc8714f61387d7346d",
+  "index_header": "5 Temmuz 2006 ... 26219 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "ef208daf08d3f1b79e57cb31749ebe297cb292b4d63a52d6ea9420e01342796e",
+  "text_status": "text.txt as published"
+}
