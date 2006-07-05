@@ -1,0 +1,47 @@
+{
+  "path": "regulation/tmsf/2006/26219",
+  "title": "TASARRUF MEVDUATI SİGORTA FONU İNSAN KAYNAKLARI YÖNETMELİĞİ",
+  "number": "26219",
+  "issuer": "Tasarruf Mevduat? Sigorta Fonu",
+  "issuer_slug": "tmsf",
+  "kind": "regulation",
+  "instrument_type": "regulation",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060705-14.htm",
+  "source_sha256": "ef208daf08d3f1b79e57cb31749ebe297cb292b4d63a52d6ea9420e01342796e",
+  "published": "2006-07-05",
+  "gazette_number": "26219",
+  "in_force": "2006-07-05",
+  "in_force_basis": "Official Gazette 2006-07-05; own commencement: MADDE 52 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "commencement_clause": "MADDE 52 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "history": "as-enacted",
+  "label": "as-enacted; amended, not consolidated",
+  "first_law": null,
+  "text_layout": "single-text-file",
+  "source_words": 5469,
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "decorative_images": 0,
+  "reproduction_basis": "Law 5846 Article 31: officially published regulations (y?netmelik).",
+  "consolidation_status": "Official TMSF consolidated Word text remains held for independent source verification; this record is the original Gazette text only.",
+  "amending_acts": [
+    {
+      "date": "2012-04-03",
+      "label": "Publisher-listed amending Gazette; not incorporated"
+    },
+    {
+      "date": "2022-11-09",
+      "label": "Publisher-listed amending Gazette; not incorporated"
+    },
+    {
+      "date": "2026-02-21",
+      "label": "Publisher-listed amending Gazette; not incorporated"
+    },
+    {
+      "date": "1965-07-14",
+      "label": "Publisher-listed amending Gazette; not incorporated"
+    }
+  ],
+  "amendment_inventory_source": "https://www.tmsf.org.tr/File/Download/?typeId=1&fileId=dec12b38-6abe-4321-8c7a-f79b3a630ad2",
+  "amendment_inventory_source_sha256": "aee0fd4c76faae6a1ac79dc09b83cf1a3e4b2bf97cb3fe148d2048ae087a8d5e"
+}
