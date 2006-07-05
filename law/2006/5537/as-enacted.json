@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5537",
+  "year": 2006,
+  "title": "Karayolları Trafik Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-07-05",
+  "gazette_issue": "26219",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060705-4.htm",
+  "source_sha256": "dcd668d20928b424234d506239dddf026b1a4ecae2186b84470e614caa9540ae",
+  "text_sha256": "230525752ad85b052a27230dac5aa1a05b53e7aefc396a52e8dd9719954973d3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/07/05/26219-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060705-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
