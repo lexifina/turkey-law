@@ -1,0 +1,2 @@
+Genel Müdürlük Görevlilerinin Sorumluluğu
+Madde 66 – Ön seçim, görevlendirme, muayene, kabul, devir - teslim komisyon veya heyetlerinin başkan ve üyeleri ile diğer ilgililer, görevlerini kanuni gereklere göre tarafsızlıkla yapmadıkları ve taraflardan birinin zararına yol açacak ihmal ve kusurlu hareketlerde bulunduklarının tespiti halinde haklarında disiplin ve ceza kovuşturması genel hükümlere göre yapılır.

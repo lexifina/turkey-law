@@ -1,0 +1,3 @@
+Görevli Şirketin Sözleşmenin Bozulmasına Neden Olması
+Madde 55 – (Değişik birinci fıkra: 31/5/2006 – 2006/10560 K.) Sözleşme yapıldıktan sonra, görevli şirketin taahhüdünden vazgeçmesi veya taahhüdünü şartname ve sözleşme hükümlerine uygun olarak yerine getirmemesi üzerine, Genel Müdürlüğün en az otuz gün süreli ve nedenleri açıkça belirtilen ihtarına rağmen aynı durumun devam etmesi halinde sözleşme, süresinden önce feshedilebilir. Bu durumda ayrıca protesto çekmeye ve hüküm almaya gerek kalmaksızın yapım kesin teminatı veya devir kesin teminatı ile işletme teminatı Genel Müdürlük bütçesine gelir kaydedilir ve hesabı sözleşmede belirtilen esaslara göre tasfiye edilir.
+Gelir kaydedilen teminat görevli şirketin borcuna mahsup edilemez.

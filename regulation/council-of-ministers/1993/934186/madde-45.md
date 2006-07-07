@@ -1,0 +1,2 @@
+Kapalı Teklif Usulüyle Görevlendirmenin Yapılamaması
+Madde 45 – Belli sermaye şirketleri arasında istekli çıkmadığı veya teklifin komisyonca uygun görülmediği durumlarda yeniden aynı usülle görevlendirme cihetine gidilir veya kamu yararı görüldüğü takdirde, iş pazarlıkla yaptırılır. İşin pazarlığa bırakılması halinde şartnamede belirtilen nitelik ve şartların aynen muhafazası ve teklif veren tüm isteklilerin pazarlığa davet edilmesi zorunludur.

@@ -1,0 +1,3 @@
+Genel Müdürlüğün Görev ve Sorumluluğu
+Madde 54 – Genel Müdürlük 51 inci maddede yazılı süre içinde sözleşme yapılması hususunda kendisine düşen görevleri yapmakla yükümlüdür. Bu yükümlülüğün yerine getirilmemesi halinde istekli, sürenin bitmesinden itibaren en çok 15 gün içinde, 10 gün müddetli bir noter ihbarnamesiyle bildirmek şartıyla taahhüdünden vazgeçebilir. Bu takdirde teminat geri verilir. İstekli görevlendirmeye girmek ve teminat vermek için yaptığı masrafları istemeye hak kazanır.
+34 üncü maddedeki sürede tebligatın yapılmamasından dolayı Genel Müdürlüğün zararına sebep olanlar hakkında kanuni işlem yapılır.

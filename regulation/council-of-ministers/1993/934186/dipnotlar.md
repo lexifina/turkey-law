@@ -1,0 +1,2 @@
+[1] Bu madde başlığı “Yapım Kesin Teminatı” iken 31/5/2006 tarihli ve 2006/10560 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 19 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[2] Bu madde başlığı “Yapım Kesin Teminatı ve İşletme Teminatının Geri Verilmesi” iken 31/5/2006 tarihli ve 2006/10560 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 21 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.

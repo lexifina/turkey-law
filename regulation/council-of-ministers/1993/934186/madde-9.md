@@ -1,0 +1,7 @@
+Ön Seçim ve Görevlendirmeye Katılamayacak Olanlar
+Madde 9 – Aşağıda yazılı olanlar önseçime veya görevlendirmeye katılamazlar:
+a) (Değişik: 31/5/2006 – 2006/10560 K.) Görevlendirme konusu işle ilgili işlemleri hazırlamak, yürütmek, sonuçlandırmak, onaylamak veya denetlemekle görevli olanlar ile belirtilen şahısların eşleri ve üçüncü derece dâhil olmak üzere üçüncü dereceye kadar kan ve ikinci derece dâhil olmak üzere ikinci dereceye kadar kayın hısımlarının, yönetim kurullarında görevli olmadıkları veya sermayesinin %10’undan fazlasına sahip olmadıkları anonim ortaklıklar hariç, ortak oldukları sermaye şirketleri,
+b) (Değişik: 31/5/2006 – 2006/10560 K.) 4734 sayılı Kamu İhale Kanunu ve diğer kanunlardaki hükümler ile bu Yönetmelik hükümlerine göre geçici veya sürekli olarak kamu ihalelerine veya görevlendirmelere katılmaktan yasaklı olanlar ile 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlardan ve organize suçlardan dolayı hükümlü bulunanlar,
+c) Belgelerin kesin kabulünün yapıldığı tarihten itibaren 3 yıl geçmedikçe görevlendirme belgelerinin hazırlanması ile ilgili müşavirlik hizmetlerini yüklenmiş olanlar,
+Yukarıdaki bentlerde belirtilen gerçek veya tüzel kişiler ile (a) bendinde belirtilen kişiler, vekil veya temsilci sıfatları ile de olsa dolaylı olarak görevlendirmeye katılamazlar. Bu yasaklara rağmen katılanların teminatı Genel Müdürlük bütçesine gelir kaydedilir, üzerine görevlendirme veya sözleşme yapılmışsa iptal edilir.
+d) (Ek: 31/5/2006 – 2006/10560 K.) İlgili mercilerce hileli iflas ettiğine karar verilenler,

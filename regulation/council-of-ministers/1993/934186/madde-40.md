@@ -1,0 +1,3 @@
+Dış Zarfların Açılması
+Madde 40 – (Değişik birinci fıkra: 31/5/2006 – 2006/10560 K.) Tekliflerin açılma saati gelince, kaç teklif verilmiş olduğu bir tutanakla belirtildikten sonra dış zarflar hazır bulunan isteklilerin yetkili temsilcileri önünde alınış sırasına göre açılarak, istenilen belgelerin ve geçici teminatın şartnamede belirtilen forma uygun olarak verilmiş olup olmadığı belirlenir. Dış zarfın üzerindeki alındı sıra numarası iç zarfın üzerine de yazılır.
+Belgeleri ile teminatı usulüne uygun veya tam olmayan isteklilerin teklif mektubunu taşıyan iç zarfları açılmaz ve başka bir işlem yapılmadan diğer belgelerle birlikte yetkili temsilcilere iade edilir. Bunlar görevlendirmeye katılamazlar.

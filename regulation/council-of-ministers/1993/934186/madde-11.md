@@ -1,0 +1,4 @@
+Düzeltme, Değişiklik ve Açıklama
+Madde 11 – Genel Müdürlük, teklif verme tarihi ile teklif vermeye dayanak teşkil eden belgelerde her türlü düzeltme, değişiklik veya açıklamayı yazılı olarak yapmaya yetkilidir. Bu belgelerdeki düzeltme, değişiklik veya açıklamalar ile teklif verme yeri, günü ve saatindeki değişiklikler teklif verme terihine 15 (onbeş) gün kalıncaya kadar yapılabilir ve isteklilere tebliğ edilir.
+Birinci fıkraya göre yapılan düzeltme, değişiklik veya açıklamalar teklif vermeye davet edilen şirketlere Genel Müdürlük tarafından gönderilir. Şirketler tekliflerini, bu ekleride gözönüne alarak hazırlamak ve bu ekleri teklif dosyası içinde bulundurmak zorundadırlar.
+Birinci fıkra hükmü dışında Genel Müdürlük mensubu hiç bir kimsenin teklif belgelerinin hiç bir yerinde düzeltme, değişiklik veya açıklama yapmaya veya Genel Müdürlüğü bağlayıcı davranışlarda bulunmaya yatkisi yoktur.
