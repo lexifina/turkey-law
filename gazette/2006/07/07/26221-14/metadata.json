@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-07-07",
+  "issue": "26221",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Gıda Kodeksi Gıda Maddelerinin Genel Etiketleme ve Beslenme Yönünden Etiketleme Kuralları Tebliğinde Değişiklik Yapılması Hakkında Tebliğ (No: 2006/34)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060707-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060707.htm",
+  "index_sha256": "b47824003e782d34e1046500bbb75808f81de01c16a9825b5226e08747557042",
+  "index_header": "7 Temmuz 2006 ... 26221 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
