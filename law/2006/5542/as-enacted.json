@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5542",
+  "year": 2006,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Moğolistan Hükümeti Arasında Kharkhorin-Khoshoo Tsaidam Arasındaki Bilge Kağan Yolunun Yapımına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-07-07",
+  "gazette_issue": "26221",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060707-2.htm",
+  "source_sha256": "57bd373326d1f50e3f0378374bdd4ec06afbc749ad362883dde4caa014c7e498",
+  "text_sha256": "0ff41c87e7d3d4f838812ea228cf2be0dba40b2f8d78a93962be7b40de83e708",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/07/07/26221-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060707-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
