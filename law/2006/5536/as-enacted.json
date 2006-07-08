@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5536",
+  "year": 2006,
+  "title": "Hâkimler ve Savcılar Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-07-08",
+  "gazette_issue": "26222",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060708-4.htm",
+  "source_sha256": "cc34a281230b02e1b2c4bfd7ac3abfeb88671809663487fba3c7fbd7ee9b26fb",
+  "text_sha256": "fbc68c5ab6d58ed0df5be15311073f458187a8eb420a27858950256192e69ba5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/07/08/26222-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060708-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
