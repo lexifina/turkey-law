@@ -1,0 +1,6 @@
+Yürürlük süresi sona erecek dampinge karşı vergiler
+MADDE 2- (1) Aşağıdaki tabloda yer alan dampinge karşı önlemlerin yürürlükte kalma süresi, karşılarında belirtilen tarihlerde sona erecektir. Ancak, süre bitiminden evvel yerli üretim dalının destekleyici delilleri içeren talebi üzerine açılacak bir nihai gözden geçirme soruşturması sonucunda, önlemlerin sona ermesinin dampingin ve zararın devam etmesine veya yeniden meydana gelmesine yol açacağı yönünde bir belirleme yapılması halinde, bu belirlemeye ilişkin dampinge karşı önlem uygulamalarına devam edilir.
+G.T.İ.P. | Ürün | Menşe veya İhracatçı Ülke | Önlemin Yayımlandığı Resmi Gazete Tarih ve No’su | Tebliğ No | Önlemin Bitiş Tarihi
+9613.10.00.00.00 9613.20.10.00.00 9613.90.00.00.11 | Tekrar doldurulamayan gazlı cep çakmakları Ateşleme sistemi elektrikli olanlardan yalnız plastik gövdeli doldurulabilen gazlı cep çakmakları Yalnız plastik gövde (gaz ihtiva etsin etmesin tamamen teçhiz edilmiş plastikten gaz haznesi) | Çin Halk Cum. | 08/05/2002 24749 | 2002/4 | 08/05/2007
+54.07* | Sentetik filamentten mensucat | Çin Halk Cum. Çin Tayvanı Güney Kore Malezya Tayland | 13/02/2002 24670 | 2002/2 | 13/02/2007
+* Önleme tabi ürünler, 2002/2 sayılı İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ ekinde belirtilmiştir.
