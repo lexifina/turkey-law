@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5524",
+  "year": 2006,
+  "title": "Atatürk Orman Çiftliği Müdürlüğü Kuruluş Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-07-08",
+  "gazette_issue": "26222",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060708-1.htm",
+  "source_sha256": "dc49616c19e96738a411a3026561b362eacc202987395ed7369e458b949d87bb",
+  "text_sha256": "2041c661ceac173695e98558ac7e3e96edcf78ba1d45cd1fc00701116f2c3b1e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/07/08/26222-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060708-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
