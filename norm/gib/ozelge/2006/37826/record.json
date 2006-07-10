@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.40/4006-919/51513",
+  "source_id": 37826,
+  "date": "2006-07-10",
+  "title": "Serbest bölgeler gümrük bölgesi dışı sayılmış; bu bölgelerde gümrük ve kambiyo mükellefiyetine...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37826",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "bbf83b4a8ee52634aef44f504d86d8b7c4e605d76865ee8761cf653c811397fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
