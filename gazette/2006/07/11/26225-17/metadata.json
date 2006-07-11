@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-07-11",
+  "issue": "26225",
+  "edition": "regular",
+  "item": 17,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Korunma Önlemlerine İlişkin Tebliğ (No: 2006/9)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060711-17.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060711.htm",
+  "index_sha256": "cc103b61d988905d2cb0ac81e65c650f9faf92f0b6d36804a8adadc7a336bf80",
+  "index_header": "11 Temmuz 2006 ... 26225 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
