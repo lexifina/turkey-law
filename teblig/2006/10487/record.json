@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10487",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 360)",
+  "number": "10487",
+  "path": "teblig/2006/10487",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10487&MevzuatTertip=5",
+  "source_sha256": "bb7cbbafce48df6039d84c80cc8611273df77a41fd351565d4022ad73f71c2f1",
+  "source_bytes": 18577,
+  "published": "2006-07-11",
+  "gazette": "26225",
+  "in_force": "2006-07-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.07.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 431,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
