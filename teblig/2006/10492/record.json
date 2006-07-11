@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.10492",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/10)",
+  "number": "10492",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2006/10492",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10492&MevzuatTertip=5",
+  "source_sha256": "5538bcd51eccf8547cef2a3062c29f34d9e9072d80f43dfc675b34f500b693e7",
+  "source_bytes": 127392,
+  "published": "2006-07-11",
+  "gazette": "26225",
+  "in_force": "2006-07-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.07.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2802,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
