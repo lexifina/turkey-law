@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10486",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 359)",
+  "number": "10486",
+  "path": "teblig/2006/10486",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10486&MevzuatTertip=5",
+  "source_sha256": "dcc296359866e00e97c16cb86ae4be523d2b7a797a0f928ca0c2d5268014beb3",
+  "source_bytes": 16716,
+  "published": "2006-07-11",
+  "gazette": "26225",
+  "in_force": "2006-07-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.07.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 448,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
