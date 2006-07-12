@@ -8,5 +8,5 @@ e) Vergi, resim ve harçlar dışında kalan ve miktarı yirmibeşmilyar Türk L
 f) Özel kanunları gereğince il özel idaresine ait vergi, resim ve harçların tarh, tahakkuk ve tahsilini yapmak.
 g) Belediye sınırları dışındaki gayri sıhhî müesseseler ile umuma açık istirahat ve eğlence yerlerine ruhsat vermek ve denetlemek.
 İl özel idaresi, hizmetleri ile ilgili olarak, halkın görüş ve düşüncelerini belirlemek amacıyla kamuoyu yoklaması ve araştırması yapabilir.
-İl özel idaresinin mallarına karşı suç işleyenler Devlet malına karşı suç işlemiş sayılır.
+İl özel idaresinin mallarına karşı suç işleyenler Devlet malına karşı suç işlemiş sayılır. (Ek cümle: 1/7/2006-5538/ 26 md.) 2886 sayılı Devlet İhale Kanununun 75 inci maddesi hükümleri il özel idaresi taşınmazları hakkında da uygulanır.
 İl özel idaresinin proje karşılığı borçlanma yoluyla elde edilen gelirleri, vergi, resim ve harçları, şartlı bağışlar ve kamu hizmetlerinde fiilen kullanılan malları haczedilemez.

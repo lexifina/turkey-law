@@ -1,6 +1,6 @@
 Yürütme
 MADDE 83 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-(I) SAYILI CETVEL (1)
+(I) SAYILI CETVEL (1)(2)
 (Değişik: 22/12/2005-5436/12 md.)
 GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 1) Türkiye Büyük Millet Meclisi
@@ -47,16 +47,17 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 42) Tapu ve Kadastro Genel Müdürlüğü
 43) Devlet Meteoroloji İşleri Genel Müdürlüğü
 44) Tarım Reformu Genel Müdürlüğü
-45) Orman Genel Müdürlüğü
-46) Petrol İşleri Genel Müdürlüğü
-47) Basın-Yayın ve Enformasyon Genel Müdürlüğü
-48) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü
-49) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü
-50) Aile ve Sosyal Araştırmalar Genel Müdürlüğü
-51) Kadının Statüsü Genel Müdürlüğü
 (…) (1)
+45) Petrol İşleri Genel Müdürlüğü
+46) Basın-Yayın ve Enformasyon Genel Müdürlüğü
+47) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü
+48) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü
+49) Aile ve Sosyal Araştırmalar Genel Müdürlüğü
+50) Kadının Statüsü Genel Müdürlüğü
+(…) (2)
 ––––––––––––––
-(1) 16/5/2006 tarihli ve 5502 sayılı Kanunun 42 nci maddesiyle, bu cetvelde yer alan "52-Sosyal Güvenlik Kurumu Başkanlığı" ibaresi çıkarılmıştır.
+(1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “45) Orman Genel Müdürlüğü” sırası çıkarılmış ve cetvelin sıra numaraları teselsül ettirilmiştir.
+(2) 16/5/2006 tarihli ve 5502 sayılı Kanunun 42 nci maddesiyle, bu cetvelde yer alan "52-Sosyal Güvenlik Kurumu Başkanlığı" ibaresi çıkarılmıştır.
 (II) SAYILI CETVEL
 (Değişik: 22/12/2005-5436/12 md.)
 ÖZEL BÜTÇELİ İDARELER
@@ -133,7 +134,7 @@ TEKNOLOJİ ENSTİTÜLERİ
 68) (Ek: 1/3/2006-5467/5 md.) Adıyaman Üniversitesi
 69) (Ek: 1/3/2006-5467/5 md.) Ordu Üniversitesi
 70) (Ek: 1/3/2006-5467/5 md.) Amasya Üniversitesi
-B) ÖZEL BÜTÇELİ DİĞER İDARELER
+B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
 3) Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü
@@ -144,24 +145,27 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER
 8) Gençlik ve Spor Genel Müdürlüğü
 9) Devlet Tiyatroları Genel Müdürlüğü
 10) Devlet Opera ve Balesi Genel Müdürlüğü
-11) Vakıflar Genel Müdürlüğü
-12) Hudut ve Sahiller Sağlık Genel Müdürlüğü
-13) Elektrik İşleri Etüdİdaresi Genel Müdürlüğü
-14) Maden Tetkik ve Arama Genel Müdürlüğü
-15) Sivil Havacılık Genel Müdürlüğü
-16) Türk Akreditasyon Kurumu
-17) Türk Standartları Enstitüsü
-18) Millî Prodüktivite Merkezi
-19) Türk Patent Enstitüsü
-20) Ulusal Bor Araştırma Enstitüsü
-21) Türkiye Atom Enerjisi Kurumu
-22) Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı
-23) İhracatı Geliştirme Etüt Merkezi
-24) Türk İşbirliği ve Kalkınma İdaresi Başkanlığı
-25) Özel Çevre Koruma Kurumu Başkanlığı
-26) GAP Bölge Kalkınma İdaresi
-27) Özelleştirme İdaresi Başkanlığı
-28) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu
+11) (Ek: 1/7/2006-5538/1 md.) Orman Genel Müdürlüğü
+12) Vakıflar Genel Müdürlüğü
+13) Hudut ve Sahiller Sağlık Genel Müdürlüğü
+14) Elektrik İşleri Etüd İdaresi Genel Müdürlüğü
+15) Maden Tetkik ve Arama Genel Müdürlüğü
+16) Sivil Havacılık Genel Müdürlüğü
+17) Türk Akreditasyon Kurumu
+18) Türk Standartları Enstitüsü
+19) Millî Prodüktivite Merkezi
+20) Türk Patent Enstitüsü
+21) Ulusal Bor Araştırma Enstitüsü
+22) Türkiye Atom Enerjisi Kurumu
+23) Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı
+24) İhracatı Geliştirme Etüt Merkezi
+25) Türk İşbirliği ve Kalkınma İdaresi Başkanlığı
+26) Özel Çevre Koruma Kurumu Başkanlığı
+27) GAP Bölge Kalkınma İdaresi
+28) Özelleştirme İdaresi Başkanlığı
+29) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu
+––––––––––––––
+(1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “10) Devlet Opera ve Balesi Genel Müdürlüğü” sırasından sonra gelmek üzere “11) Orman Genel Müdürlüğü” sırası eklenmiş ve cetvelin sıra numaraları teselsül ettirilmiştir.
 (III) SAYILI CETVEL
 (Değişik: 22/12/2005-5436/12 md.)
 DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR

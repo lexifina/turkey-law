@@ -1,0 +1,3 @@
+EK MADDE 1 – (Ek: 1/7/2006-5538/16 md.)
+Bu Kanun kapsamındaki satış belgeleri, Kurum tarafından çıkarılacak yönetmelik çerçevesinde il özel idarelerince verilir. Satış belge bedellerinden il özel idarelerine ayrılacak hizmet payları ile bu idarelerce yapılacak denetim, belgelerin iptali ve iptale ilişkin itirazlar ile diğer idari yaptırımlara ilişkin usûl ve esaslar bu yönetmelikle düzenlenir. Bu maddede öngörülen yönetmelik yürürlüğe konuluncaya kadar, mevcut düzenlemelerin uygulanmasına ve satış belgelerinin Tekel Genel Müdürlüğünce verilmesine devam olunur.
+Bu Kanunun yürürlüğe girdiği tarihten önce verilen izinler sürelerinin sonuna kadar geçerlidir.

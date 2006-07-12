@@ -2,7 +2,7 @@
 MADDE 10. — İl genel meclisinin görev ve yetkileri şunlardır:
 a) Stratejik plân ile yatırım ve çalışma programlarını, il özel idaresi faaliyetlerini ve personelinin performans ölçütlerini görüşmek ve karara bağlamak.
 b) Bütçe ve kesinhesabı kabul etmek, bütçede kurumsal kodlama yapılan birimler ile fonksiyonel sınıflandırmanın birinci düzeyleri arasında aktarma yapmak.
-c) İl çevre düzeni plânı ile belediye sınırları dışındaki alanların imar plânlarını görüşmek ve karara bağlamak.
+c) Belediye sınırları il sınırı olan Büyükşehir Belediyeleri hariç İl çevre düzeni plânı ile belediye sınırları dışındaki alanların imar plânlarını görüşmek ve karara bağlamak.(1)
 d) Borçlanmaya karar vermek.
 e) Bütçe içi işletmeler ile Türk Ticaret Kanununa tâbi ortaklıklar kurulmasına veya bu ortaklıklardan ayrılmaya, sermaye artışına ve gayrimenkul yatırım ortaklığı kurulmasına karar vermek.
 f) Taşınmaz mal alımına, satımına, trampa edilmesine, tahsisine, tahsis şeklinin değiştirilmesine veya tahsisli bir taşınmazın akar haline getirilmesine izin; üç yıldan fazla kiralanmasına ve süresi yirmibeş yılı geçmemek kaydıyla bunlar üzerinde sınırlı aynî hak tesisine karar vermek.

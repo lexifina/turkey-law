@@ -10,3 +10,4 @@ Belediye hizmetleri, vatandaşlara en yakın yerlerde ve en uygun yöntemlerle s
 Belediyenin görev, sorumluluk ve yetki alanı belediye sınırlarını kapsar.
 Belediye meclisinin kararı ile mücavir alanlara da belediye hizmetleri götürülebilir.
 4562 sayılı Organize Sanayi Bölgeleri Kanunu hükümleri saklıdır.
+(Ek: 1/7/2006-5538/29 md.) Sivil hava ulaşımına açık havaalanları ile bu havaalanları bünyesinde yer alan tüm tesisler bu Kanunun kapsamı dışındadır."
