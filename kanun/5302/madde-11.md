@@ -5,3 +5,5 @@ Meclis başkanlığı ve başkanlık divanında boşalma olması durumunda, kala
 İl genel meclisine meclis başkanı, bulunmaması durumunda meclis birinci başkan vekili, onun da bulunmaması durumunda ikinci başkan vekili başkanlık eder.
 Meclis başkanı, meclis çalışmalarında düzeni sağlamakla yükümlüdür.
 İl genel meclisinin çalışmalarına ilişkin esas ve usuller İçişleri Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir.
+______________________________
+(1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 26 ncı maddesi ile bu bentte yer alan "İl Çevre Düzeni Planı" ibaresinden önce gelmek üzere "Belediye sınırları il sınırı olan Büyükşehir Belediyeleri hariç" ibaresi eklenmiştir.

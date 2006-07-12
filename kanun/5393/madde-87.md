@@ -1,2 +1,17 @@
 Yürütme
 MADDE 87. — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+ | Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Değiştiren Kanun Resmi Gazete Tarihi | Anayasa Mahkemesi Karar Tarih/No. | 5393 sayılı Kanunun değiştirilen maddeleri
+1. | 5538 | 12/7/2006 | 12/7/2006 |  | 14, 18
+2. |  |  |  |  | 
+3. |  |  |  |  | 
+4. |  |  |  |  | 
+5. |  |  |  |  | 
+6. |  |  |  |  | 
+7. |  |  |  |  | 
+8. |  |  |  |  | 
+9. |  |  |  |  | 
+10. |  |  |  |  | 
+11. |  |  |  |  | 
+12. |  |  |  |  | 
+13. |  |  |  |  | 
+14. |  |  |  |  | 
