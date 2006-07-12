@@ -1,0 +1,5 @@
+Kararların açıklanması ve yayımlanması
+MADDE 15 – (1) Kurulun Kanunun uygulanmasına ilişkin düzenleyici nitelikteki kararları, tekemmül etmelerinden itibaren en geç yedi işgünü içinde ilişkili Bakanlığa ve yayımlanmak üzere Başbakanlığa gönderilir. Ancak, Kurumun iç işleyişine ilişkin yönetmelikler dışındaki düzenleyici nitelikteki Kurul kararları Resmî Gazete’de yayımlanmaz.
+(2) Birinci fıkra hükmü uyarınca Başbakanlığa gönderilen Kurul kararları, gönderildiği tarihten itibaren en geç yedi gün içinde Resmî Gazete’de yayımlanır.
+(3) Kanunda öngörülen hükümler saklı kalmak üzere, ülke ekonomisi ve kamu düzeni açısından sakıncalı olduğuna Kurulca karar verilenler dışında kalan denetleyici nitelikteki Kurul kararları, alındığı tarihten itibaren yedi gün içerisinde Kurumun internet sayfasında yayımlanır. Bu kararlar ayrıca Kurumca çıkarılacak haftalık bülten aracılığıyla da kamuoyuna duyurulur.
+(4) Toplantılarda görüşülen konular ve alınan kararlar hakkında basın ve yayın organlarına, Kurul tarafından yayınlanmama kararı verilmemiş ise ancak Başkan tarafından açıklama yapılabilir.

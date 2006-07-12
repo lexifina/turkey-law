@@ -1,0 +1,3 @@
+Müzekkereler
+MADDE 11 – (1) Kurul kararına mesnet teşkil edecek müzekkereler, ilgili Başkan Yardımcısı veya doğrudan Başkana bağlı birim yöneticileri tarafından Kurul Başkanlığına hitaben hazırlanır. Müzekkerelerde konuya ilişkin görüş bildirilmesi ve kararın alınmasına yardımcı olacak her türlü bilgi ve dokümandan bahsedilmesi esastır. Ayrıca, denetleyici nitelikteki Kurul kararı alınmasını gerektiren müzekkerelerde, bu Yönetmeliğin 15 inci maddesinin üçüncü fıkrası uyarınca yayımlanıp yayımlanmayacağı hususunda da görüş belirtilir. Müzekkerede geçen dokümanların müzekkere eki olarak Kurul Başkanlığına iletilmesi zorunludur.
+(2) Kurul İşleri ve Kararlar Müdürlüğünde toplanan müzekkerelerden Başkan tarafından uygun görülenler gündeme alınır.
