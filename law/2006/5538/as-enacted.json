@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5538",
+  "year": 2006,
+  "title": "Bütçe Kanunlarında Yer Alan Bazı Hükümlerin İlgili Kanun ve Kanun Hükmünde Kararnamelere Eklenmesi ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-07-12",
+  "gazette_issue": "26226",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060712-1.htm",
+  "source_sha256": "8a96e6753acacbb0c3187430b6c045f81daee0d1a56b7871745a12ab0858800a",
+  "text_sha256": "8d89825c9196d22a90e053ec95388a969958808f1f3d121a242c0db068666069",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/07/12/26226-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060712-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
