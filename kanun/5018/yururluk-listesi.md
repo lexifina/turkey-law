@@ -13,3 +13,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 2, 3, 10, 11, 13, 14, 17, 18, 20, 21, 23, 27, 28, 30, 31, 33, 34, 35, 37, 41, 42, 44, 47, 49 uncu maddenin beşinci ve altıncı fıkraları dışındaki fıkraları, 50, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 67, 69, 71, 74, 75, 76, 78, Ek Madde 1, Geçici Madde 6, 7 , Geçici Madde 11 in dördüncü fıkrası 49 uncu maddenin beşinci ve altıncı fıkraları | 1/1/2006 1/1/2007
 5467 | II Sayılı Cetvel | 17/3/2006
 5502 | (I) ve (IV) sayılı Cetvel | 20/5/2006
+5538 | (I) ve (II) Sayılı Cetvel Ek Madde 2 ve Geçici Madde 15 | 1/1/2006 tarihinden geçerli olmak üzere 12/7/2006 12/7/2006

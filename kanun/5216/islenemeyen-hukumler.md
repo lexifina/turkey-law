@@ -1,4 +1,4 @@
-5216 ILI KANUNA İŞLENEMEYEN HÜKÜMLER
+5216 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER
 1-2/7/2005 tarihli ve 5390 sayılı Kanunun hükmüdür:
 GEÇİCİ MADDE — 5216 sayılı Kanunun geçici 2 nci maddesinin birinci fıkrası gereğince büyükşehir belediyesi kapsamına alınan ilçelerin mülkî sınırları içinde kalan, ancak aynı fıkrada belirtilen sınırlar dışında olan belediye ve köyler, bu Kanunun yayımı tarihinden itibaren iki yıl içinde belediye meclisi veya köy ihtiyar heyetinin talebi üzerine büyükşehir belediye meclisinin kararı ve İçişleri Bakanlığının onayı ile başka bir işleme gerek kalmaksızın büyükşehir belediye sınırları içine alınabilir. Bu köylerin mahalle olarak hangi ilçe veya ilk kademe belediyesine katılacakları aynı meclis kararında gösterilir.
 5216 sayılı Kanunun geçici 2 nci maddesinin birinci fıkrası gereğince merkezleri büyükşehir belediyesi sınırları dışında kalan ilçelerin, büyükşehir belediye sınırları içine giren belediye ve köyleri, bu Kanunun yayımı tarihinden itibaren iki yıl içinde belediye meclisi veya mahalle ihtiyar heyetinin kararı ve büyükşehir belediye meclisinin görüşü üzerine İçişleri Bakanlığının onayı ile başka bir işleme gerek kalmaksızın, eski statüleriyle, büyükşehir belediye sınırları dışına çıkarılabilir.
@@ -9,3 +9,4 @@ Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Deği�
 5378 | 7/7/2005 | 7/7/2055 |  | Ek Madde 1
 5390 | 13/7/2005 | 13/7/2005 |  | 6, İşlenemeyen Hüküm
 5393 | 13/7/2005 | 13/7/2005 |  | 7, 13, 14, 15, 16, 22
+5538 | 12/7/2006 | 12/7/2006 |  | 7

@@ -1,7 +1,7 @@
 İKİNCİ BÖLÜM
 Değiştirilen, Eklenen ve Yürürlükten
 Kaldırılan Hükümler
-MADDE 85. —a) 1. 8.6.1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun 12 nci maddesinin (II) işaretli fıkrasının (n) bendi aşağıdaki şekilde değiştirilmiştir.
+MADDE 85. — a) 1. 8.6.1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun 12 nci maddesinin (II) işaretli fıkrasının (n) bendi aşağıdaki şekilde değiştirilmiştir.
 n) Sosyal güvenlik kuruluşlarına tâbi görevlerde bulunmadan veya bu kuruluşlara tâbi olarak çalışmakta iken illerin daimi komisyon üyeliğine veya belediye başkanlığına seçilen ve atananlar ile Sandıktan veya diğer sosyal güvenlik kuruluşlarından emekli, yaşlılık veya malûllük aylığı almakta iken belediye başkanlığına seçilen ve atananlar, istekleri üzerine istek dilekçelerinin Sandık kayıtlarına geçtiği tarihi takip eden ay başından itibaren emekli kesenekleri kendilerince, karşılıkları kurumlarca ödenmek ve emekli aylıkları Sandıkla ilgilendirildikleri tarihten itibaren kesilmek suretiyle,
 2. Türkiye Cumhuriyeti Emekli Sandığı Kanununun ek 68 inci maddesinin dördüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
 Sandıkça emekli aylığı bağlanan büyükşehir belediye başkanlarına 7000, il belediye başkanlarına 6000, ilçe ve ilk kademe belediye başkanlarına 3000, diğer belediye başkanlarına 1500 gösterge rakamı üzerinden, bu maddede belirtilen usûl ve esaslar dâhilinde makam tazminatı, buna bağlı olarak temsil veya görev tazminatı ödenir. Bu tazminatlar ilgililere ödendikçe iki ay içinde faturası karşılığında Hazineden tahsil olunur. Birinci fıkrada öngörülen iki yıllık sürenin hesabında iştirakçi olup olmadıklarına bakılmaksızın belediye başkanı olarak geçen sürelerin tamamı dikkate alınır.

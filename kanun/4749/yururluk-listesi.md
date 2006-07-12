@@ -8,3 +8,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 5234 | 15 | 1/1/2005
 Anayasa Mah.’nin E.: 2003/86, K.: 2004/6 sayılı Kararı ile | 17/C | 6/11/2004 tarihinden başlayarak üç ay sonra
 5335 | 6, 9, 11, 12, 14, 17, GEÇİCİ MADDE 8, 9 | 27/4/2005
+5538 | GEÇİCİ MADDE 10 | 12/7/2006

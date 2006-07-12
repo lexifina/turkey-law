@@ -3,3 +3,4 @@ MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜ
 GÖSTERİR LİSTE
 Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5345 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 5436 | 9, 23 | 24/12/2005
+5538 | 6 | 12/7/2006
