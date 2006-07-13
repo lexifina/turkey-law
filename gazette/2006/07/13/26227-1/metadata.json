@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-07-13",
+  "issue": "26227",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2006/10652 Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında İmzalanan Ekonomik ve Mali İşbirliği Protokolüne 2. Ek Protokol’ün Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060713-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060713.htm",
+  "index_sha256": "5eedac20a965d446ce6149ebab9c66fd8293d2afa1a633dd93b282bec4810c80",
+  "index_header": "13 Temmuz 2006 ... 26227 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
