@@ -1,0 +1,31 @@
+{
+  "source_id": "9.5.10509",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2007-2009 DÖNEMİ BÜTÇE ÇAĞRISI",
+  "number": "10509",
+  "path": "teblig/2006/10509",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10509&MevzuatTertip=5",
+  "source_sha256": "5c8008415b9fc1d557426f0f5360f65e702fbb338d288729e77c7f6481166a1c",
+  "source_bytes": 924460,
+  "published": "2006-07-15",
+  "gazette": "26229",
+  "in_force": "2006-07-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.07.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 48548,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://rega.basbakanlik.gov.tr/eskiler/2006/07/20060715-7-1.xls",
+    "http://rega.basbakanlik.gov.tr/eskiler/2006/07/20060715-7-2.xls",
+    "http://rega.basbakanlik.gov.tr/eskiler/2006/07/20060715-7-3.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
