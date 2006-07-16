@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, ulusal ve uluslararası sularda seyir eden gönüllülük esasına göre oluşturulan gönüllü gözlem gemileri programında yer alan ve uluslararası kategorilere göre belirlenen, seçilmiş, tamamlayıcı veya yardımcı gemiler kategorisindeki yük ve yolcu taşımacılığı yapan Türk Bayraklı ticaret gemilerinin rasat yapmalarını ve ilgili kuruluşların bu konudaki faaliyetlerini kapsar.

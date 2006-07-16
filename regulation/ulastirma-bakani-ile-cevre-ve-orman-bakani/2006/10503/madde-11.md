@@ -1,0 +1,5 @@
+Aletlerin ve rasat defterinin korunması
+MADDE 11 – (1) DMİ’nin gönüllü gözlem gemilerine sağladığı ve kurduğu mülkiyeti DMİ’ye ait aletin ya da alet setinin zimmete kaydedilmesi, korunması ve güvenliği ile ilgili hususlar taraflarca karşılıklı yapılacak protokolle belirlenir.
+(2) Türk Bayraklı olup uzun süreler Türk Limanlarına uğramayan gemiler rasat defterlerini Türk Limanlarına uğrayıncaya kadar saklar ve ilk uğradığı Türk Limanında Liman Başkanlığına veya en yakın Meteoroloji İstasyonuna teslim ederler.
+(3) Bayrak değiştiren, gönüllü gözlem programından çıkan veya uzun süre rasat yapmayan gemilerde DMİ tarafından sağlanan rasat defterleri, meteorolojik alet ve/veya otomatik istasyonlar ile diğer donanımlar bayrak değişim tarihinden itibaren en kısa sürede DMİ tarafından geri alınır. Konuyla ilgili ayrıntılar taraflarca karşılıklı yapılacak protokolle düzenlenir.
+(4) Kasıtlı olarak meteorolojik alete zarar verilmesi veya iade edilmesi gereken aletin iade edilmemesi hallerinde, gemi sahipleri zararı tazminle yükümlüdürler.

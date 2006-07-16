@@ -1,0 +1,3 @@
+Gemilerce verilecek meteorolojik hizmetler
+MADDE 5 – (1) Rasatlar, Dünya Meteoroloji Teşkilatının önerdiği Ship Kodu’na göre her gün 0000, 0600, 1200, 1800 GMT saatlerinde yapılır. Meteorolojik tehlike hallerinde ise bu standart rasat saatleri dışında da rasat yapılması zorunludur. Bu rasatların yapılması ve kodlanmasında DMİ tarafından sağlanan Deniz Meteorolojisi El Kitabı ile ilave dokümanlarda açıklanan yöntem ve teknikler kullanılır.
+(2) Gemilerde uygun bilgisayar donanımının varlığı halinde, DMİ’nin sağlayacağı bir yazılım aracılığıyla kodlama otomatik olarak da yapılabilir. Bunun için gerekli bilgilendirme DMİ tarafından sağlanır.
