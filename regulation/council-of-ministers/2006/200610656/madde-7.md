@@ -1,0 +1,4 @@
+Yardımların kullanılması, izlenmesi ve denetlenmesi
+MADDE 7 – (1) Teşekküller, yardımları kamu yararı gözeterek veriliş amacına uygun olarak kullanmak zorundadır.
+(2) Yardım alan teşekküller, yardımın amacına uygun olarak harcanıp harcanmadığına ilişkin bilgi, belge ve kayıtların birer örneği ile faaliyet raporlarını, faaliyetin bitimini müteakip bir ay içinde veya devam eden faaliyetlerine ilişkin bilgi, belge ve raporlarını takip eden yılın ilk ayı içerisinde yardım yapan idareye göndermek zorundadır.
+(3) Yardım yapan idareler, yapılan yardımla sınırlı olmak üzere gerekli gördüğü her türlü inceleme, kontrol ve denetimi yapmaya yetkilidir. Denetim sırasında görevli memur tarafından istenecek bilgi, belge ve kayıtların gösterilmesi, verilmesi, sorulan soruların yazılı ve/veya sözlü olarak cevaplandırılması zorunludur.
