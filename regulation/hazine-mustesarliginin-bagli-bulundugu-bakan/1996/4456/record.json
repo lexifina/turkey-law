@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.4456",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAZİNE MÜSTEŞARLIĞI YURT DIŞINA LİSANS ÜSTÜ ÖĞRENİM AMACIYLA PERSONEL GÖNDERİLMESİNE İLİŞKİN USUL VE ESASLARIN BELİRLENMESİNE DAİR YÖNETMELİK",
+  "number": "4456",
+  "issuer": "Hazine Müsteşarlığının bağlı bulunduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-bulundugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-bulundugu-bakan/1996/4456",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4456&MevzuatTertip=5",
+  "source_sha256": "41703cf000a0f65f90b85ec20f81e6b9ea70ee5c85895d1dee371348684472fe",
+  "source_bytes": 63645,
+  "published": "1996-04-19",
+  "gazette": "22616",
+  "in_force": "2006-07-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/07/2006\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2006-07-19",
+      "RG-19/07/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2445,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
