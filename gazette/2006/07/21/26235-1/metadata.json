@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-07-21",
+  "issue": "26235",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2006/10683 82 Kişinin Türk Vatandaşlığına Alınması ve Bazı Kararnameler ile Türk Vatandaşlığına Alınan 6 Kişiye İlişkin Hükümlerin İptali Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060721-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/07/20060721.htm",
+  "index_sha256": "1915e16c2e17abce132f198ce447e18aae329e004768ced8f936eb19bc256fc7",
+  "index_header": "21 Temmuz 2006 ... 26235 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
