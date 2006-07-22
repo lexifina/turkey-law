@@ -1,0 +1,2 @@
+Gelirlerin geçici olarak toplanması ve mahsup
+GEÇİCİ MADDE 1 – (1) Bu Yönetmelik yürürlüğe girmeden önce Genel Müdürlüğün faaliyetlerine karşılık tahsil edilerek Ulaştırma Bakanlığı Döner Sermaye İşletmesi Müdürlüğü hesaplarına aktarılan gelirler, yıl içinde Genel Müdürlük ihtiyaçlarına harcanan kısımların mahsup işlemi yapıldıktan sonra kalan tutar, Genel Müdürlüğün özel bütçe gelirlerine aktarılarak muhasebeleştirilir.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.10520",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİVİL HAVACILIK GENEL MÜDÜRLÜĞÜ GELİRLERİNİN TARH, TAHAKKUK VE TAHSİLATINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "10520",
+  "issuer": "Sivil Havacılık Genel Müdürlüğünün bağlı bulunduğu Bakan",
+  "issuer_slug": "sivil-havacilik-genel-mudurlugunun-bagli-bulundugu-bakan",
+  "path": "regulation/sivil-havacilik-genel-mudurlugunun-bagli-bulundugu-bakan/2006/10520",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10520&MevzuatTertip=5",
+  "source_sha256": "bc366d2bc180099e328732ac8dc7efbff2018eff30362538e5290e0737418ae2",
+  "source_bytes": 27563,
+  "published": "2006-07-22",
+  "gazette": "26236",
+  "in_force": "2006-07-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.07.2006); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 951,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
