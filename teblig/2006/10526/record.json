@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10526",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KORUMA AMAÇLI İMAR PLANLARININ YAPIMINA İLİŞKİN TEBLİĞ",
+  "number": "10526",
+  "path": "teblig/2006/10526",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10526&MevzuatTertip=5",
+  "source_sha256": "88c0e9f1af0e9a8c878c5bd07f2be7da2c169ea22f19d8e96e9cd2f1fbb60f1c",
+  "source_bytes": 12063,
+  "published": "2006-07-23",
+  "gazette": "26237",
+  "in_force": "2006-07-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.07.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 319,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
