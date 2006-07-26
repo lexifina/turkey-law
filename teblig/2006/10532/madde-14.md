@@ -1,0 +1,2 @@
+Maddenin soruşturma konusu ülkeden ithalatı
+MADDE 14- (1) Maddenin ÇHC’den ithalatı, 2002 yılında 77.161 adet iken 2003 yılında 232.837 adet düzeyine yükselmiş, 2004 yılında ise 425.634 adet olarak gerçekleşmiştir. Soruşturma konusu ülkeden ithalatın 2002 yılı ile SD arasında miktar bazında %452 oranında artış kaydettiği görülmektedir. Maddenin ÇHC’den ithalatının toplam ithalat içindeki payı 2002 ve 2003 yıllarında %81 iken, SD’de %86’ya yükselmiştir.

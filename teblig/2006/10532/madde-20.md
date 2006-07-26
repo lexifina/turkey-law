@@ -1,0 +1,4 @@
+DÖRDÜNCÜ KISIM
+Dampingli İthalat ile Zarar Arasındaki Nedenselliğe İlişkin Belirlemeler
+Dampingli ithalatın etkisi
+MADDE 20- (1) Zarar inceleme döneminde soruşturma konusu ürünün ÇHC’den ithalatının, 2002 yılına göre SD’de mutlak ve nisbi olarak önemli oranda arttığı, ÇHC’den yapılan ithalatın fiyatlarının yerli üretim dalının fiyatlarının büyük ölçüde altında kaldığı görülmektedir. Aynı dönemde yerli üretim dalının ekonomik göstergelerinde olumsuzluklar tespit edilmiştir. Dampingli ithalatın fiyatlarının yerli üretim dalının fiyatlarını yüksek oranlarda kırması (bastırması) ve dampingli ithalattaki artış eğilimi ile yerli üretim dalında görülen olumsuz gelişmelerin eş zamanlı olarak ortaya çıkması nedeniyle dampingli ithalat ile yerli üretim dalı üzerinde oluşan zarar arasında illiyet bağı olduğu sonucuna varılmıştır.
