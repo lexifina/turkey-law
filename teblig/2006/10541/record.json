@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.10541",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 9)",
+  "number": "10541",
+  "issuer": "Gümrük Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2006/10541",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10541&MevzuatTertip=5",
+  "source_sha256": "d7aa5422a8292747d6b5ee79734ae5e04429517861a5a3f892bb8a6ed03904ab",
+  "source_bytes": 17112,
+  "published": "2006-07-28",
+  "gazette": "26242",
+  "in_force": "2006-07-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.07.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 288,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.10541-Ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
