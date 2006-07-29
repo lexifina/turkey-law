@@ -1,0 +1,1 @@
+MADDE 1 – (1) İthal edilecek ekli listedeki (Ek 1) yapı malzemelerinin, 8/9/2002 tarih ve 24870 sayılı Resmî Gazete’de yayımlanan Yapı Malzemeleri Yönetmeliğine veya ilgili standartlara uygun ve güvenli olması zorunludur.

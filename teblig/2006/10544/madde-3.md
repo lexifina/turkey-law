@@ -1,0 +1,1 @@
+MADDE 3 – (1) Ekli listede (Ek 1) yer alan yapı malzemelerinin ithalatı için ithalatçı veya temsilcisi, başvuru formu (Ek 2) ve formun ekinde sayılan belgelerle birlikte, ekli listede (Ek 3) belirtilen ilgili Dış Ticarette Standardizasyon Denetmenleri Grup Başkanlığına başvurur.

@@ -1,0 +1,1 @@
+MADDE 7 – (1) Bu Tebliğde yer alan hususlarla ilgili olarak uygulamaya yönelik önlemleri almaya ve gerekli düzenlemeleri yapmaya Dış Ticaret Müsteşarlığı (Dış Ticarette Standardizasyon Genel Müdürlüğü) yetkilidir.

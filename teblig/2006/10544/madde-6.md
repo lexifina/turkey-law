@@ -1,0 +1,1 @@
+MADDE 6 – (1) İthalatçı, ithal ettiği ürünün ilgili teknik düzenlemeye uygun ve güvenli olmasından, 11/7/2001 tarih ve 24459 sayılı Resmî Gazete’de yayımlanan 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun hükümlerince sorumludur.

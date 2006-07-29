@@ -1,0 +1,1 @@
+MADDE 4 – (1) Yapılan denetimlerde ürüne ilişkin mevzuat hükümlerine herhangi bir aykırılığın tespit edilmemesi halinde, ithalatçıya veya temsilcisine, gümrüklere ibraz edilmek üzere uygunluk belgesi verilir.

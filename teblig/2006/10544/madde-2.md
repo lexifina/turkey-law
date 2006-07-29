@@ -1,0 +1,1 @@
+MADDE 2 – (1) Avrupa Birliği’nde serbest dolaşıma girmemiş ve Serbest Dolaşıma Giriş Rejimine tabi tutulmak istenen ekli listedeki (Ek 1) ürünlerin söz konusu Yönetmeliğe veya ilgili standartlara uygun olup olmadığına dair denetimler Dış Ticaret Müsteşarlığı Bölge Müdürlüklerine bağlı Dış Ticarette Standardizasyon Denetmenleri Grup Başkanlıklarınca yapılır.

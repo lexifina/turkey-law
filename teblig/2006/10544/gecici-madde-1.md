@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin yürürlüğe girdiği tarihten önce çıkış ülkesinde ihraç amacıyla taşıma belgesi düzenlenmiş veya Gümrük Mevzuatı uyarınca gümrük idarelerine sunulmuş olan ürünlerin ithali, ilgili bulundukları Tebliğ hükümlerine tabidir. Ancak, bu Tebliğin lehteki hükümleri söz konusu işlemlere uygulanır.
