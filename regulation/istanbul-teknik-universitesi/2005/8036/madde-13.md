@@ -1,0 +1,5 @@
+Aday kaydı
+Madde 13 — Hazırlayıcı birime başvuruda bulunan öğrenciler için saptanacak aday kayıt süreleri ve sınav tarihleri, Konservatuar Kurulunun önerisi ile Rektörlük tarafından ilân edilir.
+Adaylar ilân edilen süre içinde "Hazırlayıcı Birime Alınacak Öğrencilerde Aranacak Genel ve Özel Şartlara İlişkin Yönerge" de belirtilen esaslara göre başvurularını yapmak, "Öğrenci Aday Kayıt Formu" ve tam teşekküllü devlet hastanesinden alınacak (Değişik ibare: RG-29/07/2006-26243) almak istediği müzik eğitimine engel bir hâlinin bulunmadığını gösteren sağlık raporu (heyet raporu) ile istenilen diğer belgeleri eksiksiz olarak hazırlayıp süresi içinde Müdürlüğe teslim etmek zorundadırlar.
+Devamsızlık ve sağlık nedeni dışında, başarısızlık nedeni ile konservatuar ile ilişkisi kesilenler yeniden başvuramazlar.
+Öğrenci aday kayıt formunda veya istenilen diğer belgelerde yanlış beyanda bulunanlar ile belgelerinde tahrifat yapanların sınavlarda başarılı olsalar dahi kayıtları yapılmaz. Gerçek dışı bilgi ve belgelere göre aday kaydı veya kesin kaydı yapılmış olan öğrencilerin kayıtları silinir. Bu durumda oluşan kontenjan açığı, ilgili çalgının yedek listesinden tamamlanır.

@@ -1,0 +1,6 @@
+ONBİRİNCİ BÖLÜM
+Okul Birincisi, Not Çizelgeleri ve Karne Verilme Zamanı
+Okul birincilerinin seçimi
+Madde 53 — (Değişik birinci fıkra: RG-29/07/2006-26243) Konservatuvarın son sınıflarında, bir ders yılı sonunda çalgı ayırımı yapılmaksızın mezuniyet notu en yüksek olan öğrenciler arasından; Bölüm Yönetimi ve Bölüm Kurulu tarafından oluşturulan bir komisyonca okul birincisi seçilir. Ancak, kısa süreli uzaklaştırma ve daha ağır ceza almış öğrenciler okul birincisi seçilemez.
+Mezuniyet notlarının eşit olması halinde, son sınıf yıl sonu başarı ortalaması yüksek olan öğrenci okul birincisi seçilir. Eşitlik bozulmadığı takdirde, bir alt sınıftan başlanarak geriye doğru eşitlik bozuluncaya kadar yıl sonu başarı notları incelenerek okul birincisi tespit edilir. Bu şekilde de eşitlik bozulmuyorsa ; son ders yılından başlanarak derslerin dönem notlarına esas olan puanlarının ağırlıklı ortalaması alınır. Bu değerlendirme sonunda da eşitliğin bozulmaması halinde, öğretim elemanları kurulunda, ilgili öğrenci ve velilerin de katılımı ile Konservatuar Yönetim Kurulu tarafından kura çekilerek okul birincisi tespit edilir.
+Belirlenen okul birincileri, Konservatuar Müdürlüğünce zamanında "Öğrenci Seçme ve Yerleştirme Merkezi" ne bildirilir.

@@ -1,0 +1,3 @@
+Not çizelgelerinin teslimi
+Madde 54 — Birinci ve ikinci döneme ait not çizelgeleri dönem sona ermeden en geç bir hafta önce öğretim elemanları tarafından Bölüm Başkanlığına verilir. Bu çizelgelerde, o döneme ait yazılı, sözlü, uygulamalı sınavlarla ödev ve projelere verilen puanlar belirtilir ve puanların aritmetik ortalamasına göre takdir edilen dönem notu rakamla yazılır.
+Gerek sözlü, gerekse uygulamalı bütün dersler ile eleme ve dönem sonu sınavlarının not çizelgeleri, sınavın bitimini takiben, ilgili öğretim elemanları tarafından geciktirilmeksizin en geç sınavın yapıldığı gün Bölüm Başkanlığına teslim edilir.
