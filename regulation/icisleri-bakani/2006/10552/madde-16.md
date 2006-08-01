@@ -1,0 +1,2 @@
+Bulgu ve suç eşyalarının reddi
+MADDE 16 – (1) İncelenmek üzere gönderilen evrak, bulgu ve diğer suç eşyasının; konulduğu koli ve zarfların mühürsüz olduğu, mührünün bozulduğu, gönderen makam ile ilgisi olmayan bir başka makama ait mühürle mühürlendiği, mührünün tam ve sağlam olmasına rağmen, koli veya zarfın bir bölgesinin herhangi bir nedenle orijinal yapısının bozulduğu tespit edildiği takdirde, teslim alınmaz ve iade edilir.

@@ -1,0 +1,15 @@
+Daire başkanının görevleri
+MADDE 9 – (1) Daire Başkanının görevleri aşağıda belirtilmiştir;
+a) Uzman ve teknik eleman ihtiyaçlarının planlanmasını ve teminini sağlamak,
+b) Bütçe planlamalarına esas olacak çalışmaların yapılmasını sağlamak,
+c) Kriminâl birimler tarafından yürütülen hizmetler için gerekli malzeme ve teçhizatın teminini sağlamak,
+ç) Talep edilmesi veya ihtiyaç duyulması halinde, meydana gelen olayın özelliğine göre gerekli incelemeleri yapmak üzere personel görevlendirilmesini sağlamak,
+d) Meydana gelen felaketlerde, felaket kurbanları kimliklendirme (F2K) tespit çalışmalarına personel görevlendirilmesini sağlamak,
+e) İnceleme konularının gizliliğini sağlamak üzere her türlü önlemin alınmasını sağlamak,
+f) Kriminâl birimlerde görev yapan personeli gelişen tekniklerden haberdar etmek maksadıyla ulusal ve uluslararası düzeyde bilimsel çalışmalar yapılmasını, eserler yayımlanmasını ve toplantılar düzenlenmesini sağlamak,
+g) Uzmanlık alanlarını ilgilendiren konularda yurt içi veya yurt dışında düzenlenecek toplantılara, personel katılımını sağlamak maksadıyla teklifte bulunmak,
+ğ) Kriminâl laboratuarlarda görevli veya görevlendirilecek personelin atamalarını, personel başkanlığı ile koordine etmek,
+h) Yurt içi ve yurt dışında bulunan kriminâl laboratuvarlar, üniversiteler, Adlî Tıp Kurumu ve diğer ilgili kurum ve kuruluşlar ile işbirliğini sağlamak, geliştirmek ve üyesi olunan ulusal ve uluslararası kuruluşlara karşı yükümlülüklerin yerine getirilmesini sağlamak,
+ı) Kriminâl birimlerin; kalite yönetim sistemi kapsamında, standardizasyon ve akreditasyon çalışmaları ile kontrollerinin yapılmasını sağlamak,
+i) Daire başkanlığına gönderilen bulguların toplanması ve gönderilmesiyle ilgili faaliyetlerde görevli personelin yaptığı hataların tespit edilmesi halinde, değerlendirilmek üzere ilgili makamlara görüş bildirmek,
+j) Gerekli hallerde daire başkanlığında görevli personelden, belirli konularda çalışma yapmak üzere çalışma grupları teşkil edilmesini sağlamak,
