@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "849",
+  "decision_date": "2006-08-04",
+  "title": "1/8/2006 tarihi itibariyle uygulanacak olan iletim tarifesi hakkında",
+  "resmi_gazete_date": "2006-08-17",
+  "resmi_gazete_number": "26262",
+  "categories": [
+    "Geçiş Dönemi vb. Eski Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1NLWkd96pNQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1NLWkd96pNQ="
+  ],
+  "source_sha256": "88d2a2d4b3650bd0a45f7f945b9aa7da40de974a49ef6a6d2f658f47a637c787",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1913,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-08-04",
+  "law_text_complete": false
+}
