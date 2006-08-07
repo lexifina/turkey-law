@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6676-149/ 61587",
+  "source_id": 27175,
+  "date": "2006-08-07",
+  "title": "Çevre temizlik vergisi ve emlak vergisi ile ilgili vergi cezaları hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/27175",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e2cec6651e98b8469ed2ab26d267731e9300c8aae73575f01f38d66381aee126",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
