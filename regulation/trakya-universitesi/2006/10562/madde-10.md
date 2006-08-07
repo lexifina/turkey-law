@@ -1,0 +1,3 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu; Rektörün başkanlığında, Döner sermayeden sorumlu Rektör Yardımcısı, Dekan, Merkez Müdürü, Tıp Fakültesi Cerrahi, Dâhili ve Temel Bilimler Bölüm başkanları, Döner Sermaye İşletme Müdürü ve Hastane Başmüdüründen oluşur. Yönetim Kurulu karar organıdır.
+(2) Yönetim Kurulu; Rektörün başkanlığında, yılda en az iki kere toplanır. Rektörün bulunmadığı zamanlarda Yönetim Kuruluna, Rektör yardımcısı başkanlık eder. Kurulun sekretaryasını Hastane Başmüdürü yürütür. Yönetim Kurulu, Rektör tarafından gerek görüldüğünde gündemli olarak her zaman toplantıya çağrılabilir. Toplantılar üye tam sayısının salt çoğunluğu ile yapılır ve kararlar oy çokluğu ile alınır.
