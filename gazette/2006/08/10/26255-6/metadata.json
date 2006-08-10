@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-08-10",
+  "issue": "26255",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "GENELGE",
+  "title": "e-Devlet Kapısının Kurulması, İşletilmesi ve Yönetilmesi ile İlgili 2006/22 Sayılı Başbakanlık Genelgesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/08/20060810-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/08/20060810.htm",
+  "index_sha256": "e78e18c3fe74d9d13421b209a3c47afaeb44bdcc1c2d592f7edef3cfdaddde41",
+  "index_header": "10 Ağustos 2006 ... 26255 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
