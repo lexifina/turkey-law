@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.10574",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOLAS VE MARPOL SÖZLEŞMELERİNE GÖRE BİLDİRİMLERE İLİŞKİN YÖNETMELİK",
+  "number": "10574",
+  "issuer": "Denizcilik Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "denizcilik-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/denizcilik-mustesarliginin-bagli-oldugu-bakan/2006/10574",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10574&MevzuatTertip=5",
+  "source_sha256": "3c4926bb164f25640d8b40816f87a2cc4b378ea8976637fa09af2f844f1426ae",
+  "source_bytes": 30984,
+  "published": "2006-08-11",
+  "gazette": "26256",
+  "in_force": "2006-08-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.08.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1279,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.10574-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

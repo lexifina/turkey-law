@@ -1,0 +1,15 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen,
+a) İdare: Denizcilik Müsteşarlığını,
+b) SOLAS: Türkiye’de yürürlükte bulunan haliyle 1974 tarihli Denizde Can Emniyeti Uluslararası Sözleşmesini,
+c) MARPOL: Türkiye’de yürürlükte bulunan haliyle 1973 tarihli Denizlerin Gemiler Tarafından Kirletilmesinin Önlenmesi Uluslararası Sözleşmesini,
+ç) IMO: Uluslararası Denizcilik Örgütünü,
+d) Tahliye: Nasıl meydana geldiğine bakılmaksızın bir gemiden yapılan her türlü deşarjları, bertaraf etmeleri, dökülmeleri, sızıntıları, pompalamaları ve emisyonları,
+e) Olay: Geminin emniyetini olumsuz yönde etkileyen hata, arıza veya hasar olarak tanımlanabilen herhangi bir durumu,
+Geminin "kumanda altında olmadığı" durumlar da dahil olmak üzere, seyir güvenliğini olumsuz olarak etkileyen, geminin makinesinde, teçhizatında veya donanımında bir hataya, arızaya veya hasara yol açan yahut herhangi bir devletin kıyısına veya menfaatine yönelik tehdit oluşturan denizdeki herhangi bir koşulu,
+Gemilerin veya kişilerin emniyetini olumsuz yönde etkileyen veya deniz ortamına zarar vermiş olan veya verebilme ihtimali bulunan yahut boşaltmaya yol açmış olan veya açabilecek olan başka bir durumu,
+f) Gemi: MARPOL ve SOLAS Sözleşmeleri kapsamındaki her türlü gemiyi,
+g) Devlet gemisi: Savaş gemileri de dahil olmak üzere, devlete ait olan veya devlet tarafından işletilen ve sadece devletin ticari olmayan hizmetlerinde kullanılan gemileri,
+ğ) Türk gemisi: Türk bayrağı taşıyan ve Türk gemi sicillerinden birine kaydedilmiş olan gemiyi,
+h) Yabancı gemi: Türk gemisi olmayan gemiyi,
+ifade eder.

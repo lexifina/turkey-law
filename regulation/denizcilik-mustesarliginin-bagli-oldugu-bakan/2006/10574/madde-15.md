@@ -1,0 +1,2 @@
+Rapor formları
+MADDE 15 – (1) Raporların formları, EK-1 ve EK-2’de belirtilmiştir. Söz konusu eklerde raporlar için gösterilmiş referansların güncellenmiş metinleri, farklı bir sayı ile dağıtımları yapılmış olsa bile geçerlidir. Bir rapor için herhangi bir form bulunmaması halinde yükümlü birim veya kişi, bütün gerekli bilgilerin usule uygun olarak rapora dahil edilmesi koşulu ile kendi takdirine göre bu raporu hazırlar.
