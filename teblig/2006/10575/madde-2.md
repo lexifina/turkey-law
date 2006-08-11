@@ -1,0 +1,4 @@
+Önlemlerin etkisiz kılındığına ilişkin belirlemeler
+MADDE 2 – (1) ÇHC için önlem alınmasını müteakip Tayland’dan önlem konusu ürün ithalatının artış gösterdiği ve Tayland gümrüklerinin önlem konusu ürün için Türkiye’ye ilişkin ihracat rakamlarının ülkemiz ithalat kayıtlarında belirtilen rakamların çok altında olduğu tespit edilmiştir.
+(2) Ayrıca, Tayland’da yerleşik önlem konusu ürünün Türkiye’ye ihracatını yaptığı bilinen bir firma tarafından hazırlanan Üretici Sertifikası’nda üretime ilişkin işlemler olarak laklama, baş kısmının boyanması, sivriltme (açma) ve paketleme işlemleri belirtilmektedir. Bahse konu ürünün üretiminde esaslı maliyet unsuru lataların imalatına kadar oluşmakta olup boyama ve açma/paketleme işlemlerinin maliyet içindeki payı çok azdır.
+(3) Bu durum, aslen ÇHC menşeli olduğu düşünülen ürünlerin Tayland menşeli olarak ülkemize sokulmak sureti ile mevcut damping önleminin etkisiz kılınmasına yönelik işlemlerin varlığını işaret etmektedir.

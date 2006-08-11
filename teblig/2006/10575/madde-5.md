@@ -1,0 +1,3 @@
+Soru formları ve bilgilerin toplanması
+MADDE 5 – (1) Soruşturma için gerekli bilgilerin temini amacıyla, söz konusu maddenin Tayland’da yerleşik bilinen üretici/ihracatçılarına soru formları gönderilecektir. Tarafların soru formu dağıtım listesinde yer alıp almadıklarını öğrenmek üzere Genel Müdürlük ile temasa geçerek bilgi almaları gerekmektedir. Anılan listede yer almadığını öğrenen veya makul bir süre içinde soru formunu alamayan tarafların bu Tebliğin yayımı tarihinden itibaren 15 gün içinde yazılı olarak soru formu talebinde bulunması gerekmektedir.
+(2) Ayrıca, ilgili ülkedeki üretici ve ihracatçılara iletilmesini kolaylaştırmak ve çabuklaştırmak amacıyla, soruşturmaya konu ülkenin Türkiye’deki resmi temsilciliğine de soru formu gönderilecektir.
