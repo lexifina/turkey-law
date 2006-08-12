@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.10584",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5535 SAYILI BAZI KAMU ALACAKLARININ TAHSİL VE TERKİNİNE İLİŞKİN KANUNUN 2 NCİ MADDESİYLE 2547 SAYILI YÜKSEKÖĞRETİM KANUNUNA EKLENEN GEÇİCİ 53 ÜNCÜ MADDE ÇERÇEVESİNDE KAMU KURUM VE KURULUŞLARINA YAPILACAK ATAMALARA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/2)",
+  "number": "10584",
+  "path": "teblig/2006/10584",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10584&MevzuatTertip=5",
+  "source_sha256": "904aa0c9e520784b717d4e0e706043ca5ea2dacc4ed87bbacfb9fa02d820a2ab",
+  "source_bytes": 40282,
+  "published": "2006-08-12",
+  "gazette": "26257",
+  "in_force": "2006-08-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.08.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1856,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.10584-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
