@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Akademik Yönetim Organları, Yöneticiler ve Görevleri
+Rektör
+MADDE 8 – (1) Üniversitenin en üst yöneticisi olan Rektör, Yükseköğretim Kurulunun olumlu görüşü alındıktan sonra Mütevelli Heyet tarafından dört yıl süre ile atanır. Başkan, Mütevelli Heyetin seçtiği Rektör adayını Yükseköğretim Kuruluna sunar. Mütevelli Heyet, Yükseköğretim Kurulunun olumlu görüşünü müteakip yeni Rektörü atar.
+(2) Rektörlüğün herhangi bir nedenle boşalması durumunda Mütevelli Heyet, yeni rektör atanıncaya kadar Rektörlük kriterlerine uygun bir profesörü, Rektör vekili olmak üzere Yükseköğretim Kuruluna önerir. Yükseköğretim Kurulunun olumlu görüşü alındıktan sonra Rektör vekili olarak atar.
+(3) Rektörün yaş haddi 67’dir. 67 yaşından önce atanmış olanlar görev süreleri bitinceye kadar rektörlük görevini sürdürebilirler. Görev süresi biten Rektör yeniden atanabilir. Rektör, çalışmalarında kendisine yardım etmek üzere, Üniversitenin kadrolu profesörleri arasından en çok üç kişiyi rektör yardımcısı olarak seçer. Rektör, görev başında olmadığı zaman, yardımcılarından birisini vekil bırakır. Rektör, görevinden iki haftadan fazla uzaklaştığında Mütevelli Heyete ve Yükseköğretim Kuruluna bilgi verir. Göreve vekalet altı aydan fazla sürerse yeni bir rektör atanır.

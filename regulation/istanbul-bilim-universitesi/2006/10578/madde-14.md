@@ -1,0 +1,3 @@
+Dekan
+MADDE 14 – (1) Dekan; fakültenin ve fakülteye bağlı birimlerin temsilcisi olup, Rektörün Üniversite içinden veya dışından önereceği üç profesör arasından Mütevelli Heyetince üç yıl süre ile seçilir ve atanır. Süresi biten Dekan, aynı usulle yeniden atanabilir.
+(2) Dekan, kendisine çalışmalarında yardımcı olmak üzere, fakültenin aylıklı öğretim üyeleri arasından en çok iki kişiyi Dekan yardımcısı olarak seçer. Dekanın görevde bulunmadığı zamanlarda kendisine Dekan yardımcılarından biri vekalet eder. Göreve vekalet altı aydan fazla sürerse yeni bir Dekan atanır. Dekan yardımcıları, Dekan tarafından en çok üç yıl için atanır.

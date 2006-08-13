@@ -1,0 +1,2 @@
+Yönetim kurulu ve oluşumu
+MADDE 12 – (1) Yönetim Kurulu; idari faaliyetlerde Rektöre yardımcı bir organ olup, Rektörün başkanlığında dekanlardan, Üniversiteye bağlı değişik birim ve alanları temsil edecek şekilde Senatoca dört yıl için seçilecek üç profesörden oluşur. Rektör, gerektiğinde Yönetim Kurulunu toplantıya çağırır. Rektör yardımcıları, oy hakkı olmaksızın Yönetim Kurulu toplantılarına katılabilirler.

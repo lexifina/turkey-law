@@ -1,0 +1,2 @@
+Senato ve oluşumu
+MADDE 10 – (1) Senato, Üniversitenin akademik organıdır. Senato; Rektörün başkanlığında, rektör yardımcıları, dekanlar ve her fakültenin fakülte kurulunca üç yıl için seçtiği birer öğretim üyesi, Rektörlüğe bağlı enstitü ve yüksekokul müdürlerinden oluşur. Senato, her eğitim-öğretim yılı başında ve sonunda olmak üzere yılda en az iki kere toplanır. Rektör gerekli gördüğü hallerde Senatoyu toplantıya çağırır.
