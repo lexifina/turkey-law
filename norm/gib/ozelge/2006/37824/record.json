@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1 .GİB.0.40/4060-37- 63297",
+  "source_id": 37824,
+  "date": "2006-08-14",
+  "title": "Vadesi dolan poliçe sebebiyle sigorta şirketince yapılan ödemelerden kesilen gelir vergisi ile...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37824",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "282dec5305d566db9182a69f432fe04b9dd79b5bb9e3f3c5a4f04b8fd7446308",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
