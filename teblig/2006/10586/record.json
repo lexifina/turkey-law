@@ -1,0 +1,35 @@
+{
+  "source_id": "9.5.10586",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÇİN HALK CUMHURİYETİ MENŞELİ MALLARIN İTHALATINDA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/3)",
+  "number": "10586",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2006/10586",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10586&MevzuatTertip=5",
+  "source_sha256": "4eddeeb340a1c3ef373abc04ba38da25b908672d4c6d9797818ae6ecb9a94c4c",
+  "source_bytes": 24613,
+  "published": "2006-08-15",
+  "gazette": "26260",
+  "in_force": "2006-08-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.08.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 728,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.dtm.gov.tr/ITHALAT/gozkor/ithalat.htm",
+    "9.5.10586-Ek1.doc",
+    "9.5.10586-Ek2.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
