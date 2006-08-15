@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.46/4600-",
+  "source_id": 21639,
+  "date": "2006-08-15",
+  "title": "Sakatlık indirimi toplamının sakat hizmet erbabının asıl ücretlerini aşması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21639",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "d616df375eb7214d633f9617a01ca9774b21ffe6db47e50a51eeb5c3e76c35c0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
