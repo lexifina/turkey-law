@@ -1,0 +1,2 @@
+İstihdam
+MADDE 6 – (1) Genel Müdürlük her il bünyesinde en az bir personelini işaret dili tercümanı olarak görevlendirir. İşaret dili tercümanlığı hizmeti veren kişiler, Genel Müdürlük merkez teşkilatı ile taşra teşkilatında çalışan sosyal hizmetler, psikoloji, eğitim bilimleri alanında fakülte veya yüksek okul mezunu personel arasından seçilerek eğitimlerinin verilmesini müteakiben görevlendirilir.
