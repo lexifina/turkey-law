@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10596",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MOTORLU TAŞITLAR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 27)",
+  "number": "10596",
+  "path": "teblig/2006/10596",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10596&MevzuatTertip=5",
+  "source_sha256": "bb993b79145414ece5c81a809c4eebbeebf8ec9f4fbc7f43b1ea10bf99117e1b",
+  "source_bytes": 107887,
+  "published": "2006-08-21",
+  "gazette": "26266",
+  "in_force": "2006-08-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.08.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3614,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
