@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.10604",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ ÖZEL BESLENME AMAÇLI GIDALARA EKLENEBİLECEK BİLEŞENLER TEBLİĞİ (TEBLİĞ NO: 2006/37)",
+  "number": "10604",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2006/10604",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10604&MevzuatTertip=5",
+  "source_sha256": "a94849c34e5df17ea46b0a44fd781d96d1827f6c1f2fcfb2791c2ad26d95162a",
+  "source_bytes": 215554,
+  "published": "2006-08-22",
+  "gazette": "26267",
+  "in_force": "2006-08-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.08.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1417,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
