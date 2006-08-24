@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "885",
+  "decision_date": "2006-08-24",
+  "title": "Başkent Elektrik Dağıtım A.Ş.",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eMJMjW8kaNg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eMJMjW8kaNg="
+  ],
+  "source_sha256": "9e9a28164c17adb178e47c95401c20aed4e4fe47f553af6071159d3a9b7de962",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-08-24",
+  "law_text_complete": false
+}
