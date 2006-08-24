@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "886",
+  "decision_date": "2006-08-24",
+  "title": "Akdeniz Elektrik Dağıtım A.Ş.",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sD2s4q4H/bc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sD2s4q4H/bc="
+  ],
+  "source_sha256": "00b9175b4d849d056fdbbe4e98c23596188485afb1e0cdd8858409c5df9075dd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-08-24",
+  "law_text_complete": false
+}
