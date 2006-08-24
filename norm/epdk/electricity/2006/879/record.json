@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "879",
+  "decision_date": "2006-08-24",
+  "title": "Aras Elektrik Dağıtım A.Ş.",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CNG0xD/ZsUE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CNG0xD/ZsUE="
+  ],
+  "source_sha256": "d223d90f758cb7421963e002301a562054ffacb35c80230334228c3bae387fba",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-08-24",
+  "law_text_complete": false
+}
