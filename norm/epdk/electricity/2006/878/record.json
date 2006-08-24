@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "878",
+  "decision_date": "2006-08-24",
+  "title": "Vangölü Elektrik Dağıtım A.Ş.",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dFgmSeAtGHs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dFgmSeAtGHs="
+  ],
+  "source_sha256": "39f5489633de3a2a24bb201c512c17b0b15f22938bcf6da6587827f3893e65dc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-08-24",
+  "law_text_complete": false
+}
