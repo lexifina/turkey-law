@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "892",
+  "decision_date": "2006-08-24",
+  "title": "Osmangazi Elektrik Dağıtım A.Ş.",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LIvHTSbbj8I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LIvHTSbbj8I="
+  ],
+  "source_sha256": "a65b5814c659dcfb78c807fd8d2e26619346b6f9c7aa0d58623e131da7d55a8c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-08-24",
+  "law_text_complete": false
+}
