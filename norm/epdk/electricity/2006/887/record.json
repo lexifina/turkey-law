@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "887",
+  "decision_date": "2006-08-24",
+  "title": "Gediz Elektrik Dağıtım A.Ş",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fteHB2q7X08=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fteHB2q7X08="
+  ],
+  "source_sha256": "bf33b731d0a1ee76495547c389986ced37f861c202e0fc966820969fdf44b804",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-08-24",
+  "law_text_complete": false
+}
