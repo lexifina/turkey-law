@@ -1,0 +1,34 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "875",
+  "decision_date": "2006-08-24",
+  "title": "Türkiye Genelinde Uygulanacak Tarife İle Usul ve Esaslar",
+  "resmi_gazete_date": "2006-09-01",
+  "resmi_gazete_number": "26276",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IyqbH2qWijU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IyqbH2qWijU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=h+ynHaMdrVc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=13xJCYUEs78=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GnSNwkcDqXA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FCzriUFGlnw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4ignFEeYuCA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EeZPxe6XJik=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jRMcp8RYADE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=k1R3dXtw9oU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=T9zFQIukjuo="
+  ],
+  "source_sha256": "b74c9c5544daeb1377c03954a7eeccaecc3b218704c0e0885d77d0737d8aa5f4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-08-24",
+  "law_text_complete": false
+}
