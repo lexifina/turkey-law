@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "896",
+  "decision_date": "2006-08-24",
+  "title": "Yeşilırmak Elektrik Dağıtım A.Ş.",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RWOnjaE/BnA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RWOnjaE/BnA="
+  ],
+  "source_sha256": "367347c44c88d31fefba00324db52126240f5bfb0a6a66cae583375009d9fb75",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-08-24",
+  "law_text_complete": false
+}
