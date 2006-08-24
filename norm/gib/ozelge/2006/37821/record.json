@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.03.41/4131- 66589",
+  "source_id": 37821,
+  "date": "2006-08-24",
+  "title": "Taşınmazın intifa hakkını 10 yıl süre ile petrol ofisi şirketine devrettiği, bu devir ile ilgili...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37821",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "70168eb4ddf3b7ec86f574d136b1764a57279e9902d5220bae497429c41a03bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
