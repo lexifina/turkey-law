@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "881",
+  "decision_date": "2006-08-24",
+  "title": "Çamlıbel Elektrik Dağıtım A.Ş.",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Or5El278Wos=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Or5El278Wos="
+  ],
+  "source_sha256": "63db64e4cd5e21b40ed1e96a727dd89c1babd7314a5fca1d26122eb7f24d8074",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-08-24",
+  "law_text_complete": false
+}
