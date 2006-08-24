@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "877",
+  "decision_date": "2006-08-24",
+  "title": "Dicle Elektrik Dağıtım A.Ş.",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U5WfM/H8bj8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U5WfM/H8bj8="
+  ],
+  "source_sha256": "6654629ecbf71c0a9975f32114776a124e27d8de5b8c38222da05864b06ec56b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document unreadable (BadZipFile)",
+  "in_force": "2006-08-24",
+  "law_text_complete": false
+}
