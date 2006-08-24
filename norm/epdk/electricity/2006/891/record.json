@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "891",
+  "decision_date": "2006-08-24",
+  "title": "Sakarya Elektrik Dağıtım A.Ş.",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Mmk7OPxHiu0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Mmk7OPxHiu0="
+  ],
+  "source_sha256": "a079f77d9c606624b0c27333b0dcfa4219090aad5929a999ce0e50d3c0980af3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-08-24",
+  "law_text_complete": false
+}
