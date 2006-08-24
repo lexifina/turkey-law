@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "884",
+  "decision_date": "2006-08-24",
+  "title": "Meram Elektrik Dağıtım A.Ş.",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xs6a1qFOhVg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xs6a1qFOhVg="
+  ],
+  "source_sha256": "0a269651daf0026cc880fdbd09a1101da569cb44e1cbe7c33bf6ac0d864f12b1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-08-24",
+  "law_text_complete": false
+}
