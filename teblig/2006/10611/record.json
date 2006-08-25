@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10611",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİNO: 51)",
+  "number": "10611",
+  "path": "teblig/2006/10611",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10611&MevzuatTertip=5",
+  "source_sha256": "6ea3b45a94ad92fb7a57c6744f8480a571ed29c61648a451a846f75d822aee51",
+  "source_bytes": 18297,
+  "published": "2006-08-25",
+  "gazette": "26270",
+  "in_force": "2006-08-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.08.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 435,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
