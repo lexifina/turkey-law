@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.10612",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "2809 SAYILI YÜKSEKÖĞRETİM KURUMLARI TEŞKİLATI KANUNUNUN EK 5 İNCİ MADDESİNDE BELİRTİLEN ÖZEL HESABIN OLUŞTURULMASI, KULLANIMI VE DENETİMİNE DAİR YÖNETMELİK",
+  "number": "10612",
+  "issuer": "Maliye ve Milli Eğitim Bakanları ile Bilkent Üniversitesi Rektörü",
+  "issuer_slug": "maliye-ve-milli-egitim-bakanlari-ile-bilkent-universitesi-rektoru",
+  "path": "regulation/maliye-ve-milli-egitim-bakanlari-ile-bilkent-universitesi-rektoru/2006/10612",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10612&MevzuatTertip=5",
+  "source_sha256": "a822b8f1f8ba222eae1acd58e2b33530dac6ae5852c9c49a401a2ed37d216224",
+  "source_bytes": 22479,
+  "published": "2006-08-26",
+  "gazette": "26271",
+  "in_force": "2006-08-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.08.2006); own commencement article: \"Bu Yönetmelik 1/3/2006 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/3/2006 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 806,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

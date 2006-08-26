@@ -1,0 +1,4 @@
+Özel hesabın kullanılması
+MADDE 9 – (1) Üniversite özel hesapta toplanan gelirlerden bir yıl içinde yapmayı planladığı yatırım ve işletme giderlerini gösteren yatırım ve işletme programını ilgili yılın Ocak ayı içinde Maliye ve Milli Eğitim Bakanlıklarına sunar.
+(2) Özel hesapta toplanan gelirler, Özel Hesap harcama yetkilisi tarafından Kanunda belirtilen ilkeler doğrultusunda, Kanunun Ek 5 inci maddesinin altıncı fıkrası kapsamında bulunan illerdeki kampüslerde eğitim ve araştırma birimleri ile sağlık merkezi, lojmanlar, misafirhaneler gibi her türlü tesisin kurulması ve işletilmesi ile ilgili, ücretler dahil her türlü giderler ile okullarda burslu olarak okuyacak öğrencilere sağlanacak burslar için harcanır.
+(3) Özel Hesapta toplanan gelirler Kanunun Ek 5 inci maddesinin altıncı fıkrasında yer alan illerin birinden başlayarak, uygulama ve eğitimde kazanılan deneyimlerle kademeli olarak diğer illere de yaygınlaştırılarak kullanılır.
