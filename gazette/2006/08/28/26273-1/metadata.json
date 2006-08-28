@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-08-28",
+  "issue": "26273",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Motorlu Araçların Motorlarından Çıkan Gazların Havayı Kirletmesine Karşı Alınacak Tedbirlerle İlgili Tip Onayı Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (70/220/AT)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/08/20060828-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/08/20060828.htm",
+  "index_sha256": "5b5cb48c718e0fdde45b27472bf0c07b6c3bfc0eb9e456545d5a978f2cc180b9",
+  "index_header": "28 Ağustos 2006 ... 26273 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
