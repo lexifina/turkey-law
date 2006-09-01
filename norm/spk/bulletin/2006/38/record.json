@@ -1,0 +1,60 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2006/38",
+  "date": "2006-09-01",
+  "title": "SPK Haftalık Bülteni 2006/38",
+  "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_38.pdf",
+  "source_sha256": "83b159abaef470e5fae4c74adf52da896b55fae5fd1f7296b46338eba98badf3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "F. DUYURULAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2006 – 01.09.2006 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_38.pdf"
+    },
+    {
+      "heading": "B. 28.08.2006 – 01.09.2006 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_38.pdf"
+    },
+    {
+      "heading": "C. 28.08.2006 – 01.09.2006 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_38.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_38.pdf"
+    },
+    {
+      "heading": "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Şirketlerin Kurulca Listeye",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_38.pdf"
+    },
+    {
+      "heading": "F. DUYURULAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4131b41c613a0d633c1/2006_38.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
