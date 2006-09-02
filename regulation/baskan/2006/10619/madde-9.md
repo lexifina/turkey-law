@@ -1,0 +1,6 @@
+İştirak ve şirketler ile ilgili kullanımlar
+MADDE 9 – (1) Fon,
+a) Faaliyet izni kaldırılan veya Fona devredilen bankaların iştirakleri ile her ne suretle olursa olsun Fon tarafından devralınan iştiraklerden, ekonomik değeri olan iştirakler ile ilgili olarak, 29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanunu hükümleri uygulanmaksızın yapılacak sermaye artırımları da dahil olmak üzere, yeniden yapılandırma ve Fon alacağının tahsiline yönelik olarak söz konusu iştiraklerin mal, hak ve alacaklarının korunması ve değerlendirilmesi,
+b) Kanunun 134 üncü maddesi ve mülga 4389 sayılı Bankalar Kanununun 15 inci maddesinin yedinci fıkrası kapsamında temettü hariç ortaklık haklarıyla yönetim ve denetimi devralınan şirketlerden, ekonomik değeri olan şirketler ile ilgili olarak, 6762 sayılı Kanun hükümleri uygulanmaksızın yapılacak olan ilgili mevzuatın öngördüğü zorunlu sermaye artırımları da dahil olmak üzere, yeniden yapılandırma ve Fon alacağının tahsiline yönelik olarak söz konusu şirketlerin mal, hak ve alacaklarının korunması ve değerlendirilmesi,
+amacıyla mali kaynak sağlamaya yetkilidir. Bu kullanımlar Kurul kararı ile gerçekleştirilir.
+(2) Fon, Kanunun 143 üncü maddesine istinaden kurulacak varlık yönetim şirketlerine sermaye sağlamak suretiyle kurucu ortak veya hissedar olmaya yetkili olup, bununla ilgili kullanımlar Kurul kararı ile gerçekleştirilir.

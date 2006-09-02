@@ -1,0 +1,5 @@
+Borçlanma ve avans alma suretiyle elde edilecek kaynaklar
+MADDE 5 – (1) Kanunun 131 inci maddesi hükümlerine göre,
+a) Fon, Hazine Müsteşarlığından izin almak kaydıyla borçlanabileceği gibi ihtiyaç hasıl olduğunda Fona ikrazen verilmek üzere Hazine Müsteşarlığınca özel tertip Devlet iç borçlanma senedi ihraç edilebilir. Özel tertip Devlet iç borçlanma senetlerinin faiz oranları ve geri ödeme şartları da dahil olmak üzere tâbi olacağı usul ve esaslar Hazine Müsteşarlığı ile Fon tarafından müştereken belirlenir.
+b) Fon, Bankacılık Düzenleme ve Denetleme Kurumu görüşü alınmak suretiyle Kurul kararı ile bankalardan ileride doğacak prim yükümlülüklerine mahsuben bir önceki yılda ödedikleri sigorta primi toplamına kadar avans alabilir.
+c) Olağanüstü hallerde, Fon gelirlerinin ihtiyacı karşılamaması durumunda Fonun talebi üzerine Merkez Bankasınca Fona avans verilebilir. Alınan avansın vadesi, tutarı, geri ödeme şekil ve şartları ile uygulanacak faiz oranı ve diğer hususlar Fonun görüşü alınarak Merkez Bankasınca belirlenir.
