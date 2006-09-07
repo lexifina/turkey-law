@@ -1,0 +1,3 @@
+Önlem konusu ithalatın tüketim içindeki payı
+MADDE 17 – (1) Soruşturma konusu ürünün yurtiçi tüketimi, yerli üretim dalının yurtiçi satışları ile soruşturma konusu boru bağlantı parçalarının genel ithalatının toplanması suretiyle hesaplanmıştır.
+(2) Bu çerçevede hesaplanan toplam tüketim 2001-2004 yılları arasındaki dönemde %29 oranında artmıştır. Brezilya ve ÇHC’nin payının, önlemin yürürlüğe girmesini müteakiben önemli ölçüde azaldığı tespit edilmiştir. Brezilya’nın 2002 yılında tüketimdeki payı yaklaşık %2 iken 2004 yılında %1’in altına inmiştir. ÇHC menşeli ithalatın ise 2001 yılında %7 olan pazar payı 2004 yılında %3’e gerilemiştir.

@@ -1,0 +1,2 @@
+Önlem konusu ithalatın fiyatlarının gelişimi
+MADDE 18 – (1) TÜİK verilerine göre, Brezilya menşeli boru bağlantı parçalarının ağırlıklı ortalama CIF fiyatı, soruşturma öncesi 1999 yılında 1,22 ABD Doları/Kg iken önlemin yürürlüğe girmesi sonrasında yükselerek 2004 yılında 1,74 ABD Doları/Kg olmuştur. ÇHC menşeli boru bağlantı parçalarının ağırlıklı ortalama CIF fiyatı, soruşturma öncesi 1999 yılında 0,89 ABD Doları/Kg iken 2004 yılında 0,56 ABD Doları/Kg olmuştur.
