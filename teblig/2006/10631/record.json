@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.10631",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/24)",
+  "number": "10631",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2006/10631",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10631&MevzuatTertip=5",
+  "source_sha256": "1af9acf7b7607e3c1e0c5e2e1a4ff9e3535ea77cf017fe6f4f0f2849e2ed2990",
+  "source_bytes": 88605,
+  "published": "2006-09-07",
+  "gazette": "26282",
+  "in_force": "2006-09-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.09.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4253,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
