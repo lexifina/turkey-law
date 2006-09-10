@@ -1,0 +1,2 @@
+Rapor değerlendirme
+MADDE 9 – (1) Kapsamı bu Yönetmeliğin 12 nci maddesinde belirtilen özel konular sınavının en az %20 ağırlık taşıyan bir bölümü, bu Yönetmeliğin 7 nci maddesinin birinci fıkrasının (ç) bendinde belirtilen raporun değerlendirmesine ayrılır. Sınav kurulu, bu raporu özet bilgi formu ile birlikte değerlendirerek, adayın uzmanlık alanındaki mühendislik konularına ne ölçüde hakim olduğunu, mühendislik problemlerine çözüm üretme yeteneğini ve yaptığı çalışmayı raporlama becerisini belirlemeye çalışır.

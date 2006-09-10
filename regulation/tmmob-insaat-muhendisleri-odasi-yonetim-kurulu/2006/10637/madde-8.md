@@ -1,0 +1,2 @@
+Sınav
+MADDE 8 – (1) Bir uzmanlık alanında sınav açıldığında, o alana başvurmuş olan adayların tümü, bu Yönetmeliğin 12 nci maddesinde belirtilmiş olan konularda düzenlenen iki yazılı sınava katılırlar. Yazılı sınavlarda, temel ilke ve kavramların özümsenmiş olup olmadığını ve adayın mühendislik problemlerine genel yaklaşımını belirlemeye yönelik sorular sorulur. Çoktan seçmeli sorulardan oluşan sınavlar, Yetkin Mühendislik Kurulu tarafından oluşturulan sınav kurulları tarafından düzenlenir ve değerlendirilir.

@@ -1,0 +1,2 @@
+Sınav sonucuna itiraz
+MADDE 14 – (1) Aday, başvuru ücreti tutarındaki itiraz ücretini yatırdıktan sonra, Yetkin Mühendislik Kuruluna başvurarak sınav sonucuna itiraz edebilir. İtiraz başvurusunu değerlendiren Yetkin Mühendislik Kurulu, yazılı sınav değerlendirmesinde maddi hata saptarsa gerekli düzeltmeyi yapar. Yetkin Mühendislik Kurulunun itirazla ilgili kararı kesindir. İtiraz haklı görülürse, itiraz ücreti başvuru sahibine geri verilir; aksi durumda, itiraz ücreti geri ödenmez.

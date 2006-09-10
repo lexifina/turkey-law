@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Türk Mühendis ve Mimar Odaları Birliği İnşaat Mühendisleri Odasına kayıtlı inşaat mühendislerinin meslek alanlarına yönelik araştırma, inceleme, projelendirme, raporlama, uygulama, eğitim ve teknik sorumluluk görevleri kapsamında olan ve uzmanlık gerektiren nitelikli ve güvenilir hizmeti verebilecek yetkin mühendislerin tespiti ve belgelendirilmesine dair esas ve usulleri kapsar.
