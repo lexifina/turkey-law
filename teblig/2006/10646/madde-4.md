@@ -1,0 +1,5 @@
+Yerinde doğrulama soruşturmaları
+MADDE 4 – (1) Yönetmeliğin 21 inci maddesi çerçevesinde Bilecik’te yerleşik yerli üretici Granitaş Granit Sanayi ve Pazarlama A.Ş.’nin üretim ve idari tesislerinde ve Silkar Madencilik Sanayi ve Ticaret A.Ş.’nin Bilecik’teki üretim tesisleri ile İstanbul’daki idari merkezinde yerinde doğrulama soruşturması gerçekleştirilmiştir.
+(2) Soruşturmaya konu ülkede yerleşik üretici/ihracatçılardan yerinde doğrulamayı gerektirecek seviyede işbirliği olmadığından söz konusu firmalar nezdinde yerinde doğrulama soruşturması yapılmamıştır.
+(3) Nihai bildirimi takiben ihracatçı firma, soruşturma süresince tam işbirliğinde bulunulduğunu ve ilgili firma nezdinde bir yerinde inceleme soruşturması yürütülebileceğini belirtmiştir. Ancak, işbirliğinde bulunulmadığı hususu değerlendirilerek, Yönetmeliğin 21 inci maddesi hükümleri çerçevesinde Best Cheer firması nezdinde yerinde inceleme soruşturması yapılmamasına karar verilmiş olup, esasen böyle bir soruşturmanın yürütülmesi de zorunluluk arz etmemektedir.
+(4) İthalatçılardan temin edilen bilgilerden nesnel olanları doğru kabul edilmiş, ayrıca yerinde incelemeye gerek görülmemiştir.
