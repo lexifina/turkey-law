@@ -1,0 +1,4 @@
+Açılacak Derslerin Tespiti ve Derslere Kayıt
+MADDE 5 —Yaz öğretiminin akademik takvimi, Üniversite Senatosu tarafından belirlenir.
+Yaz öğretiminde açılacak dersler, dersi verecek öğretim elemanı ile ilgili bölümün (Enstitülerde Anabilim Dalı) olumlu görüşü alınarak, Fakülte veya Enstitü Yönetim Kurulunca belirlenir. Öğrenciler yaz öğretimi kayıt haftası içinde bu derslere kayıt yaptırırlar. Yaz öğretiminden önceki yarıyıl sonu itibariyle, ilişiği kesilme durumuna gelen öğrencilerin yaz öğretimine kaydı yapılamaz.
+(Değişik ikinci fıkra: RG-14/09/2006-26289) Yaz öğretiminde açılacak dersler, dersi verecek öğretim elemanı ile ilgili bölümün (enstitülerde anabilim dalının) olumlu görüşü alınarak, Fakülte ve Enstitü Yönetim Kurulu’nca belirlenir. Yaz öğretimi akademik yılın devamıdır. Öğrenciler yaz öğretimi kayıt haftası içinde bu derslere kayıt yaptırırlar.
