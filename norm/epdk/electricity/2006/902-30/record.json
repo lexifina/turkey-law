@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "902/30",
+  "decision_date": "2006-09-17",
+  "title": "15/10/2002 tarihli ve 61 sayılı Kurul Kararında değişiklik yapılmasına ilişkin",
+  "resmi_gazete_date": "2006-09-17",
+  "resmi_gazete_number": "26292",
+  "categories": [
+    "Lisansa Kayıtlı Olan Yıllık Elektrik Enerjisi Üretim Miktarının Piyasada Satılabileceği Oranına İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fTSSD2Gz6D0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fTSSD2Gz6D0="
+  ],
+  "source_sha256": "505f880bd2d786c67ff8a5fa477d965a028af0223b978e1609c29aa7d7a4a901",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33878,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-09-17",
+  "law_text_complete": false
+}
