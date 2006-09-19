@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28805",
+  "decision_date": "2006-09-19",
+  "source_id": 574,
+  "chamber": "7",
+  "file_number": "28061",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/574/",
+  "source_sha256": "8c650dcfcc3ec6e611211790b9f7df326bfbca0d27d572bdd5aeab6ec91a1bbc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
