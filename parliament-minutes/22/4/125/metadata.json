@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 22,
+  "legislative_year": 4,
+  "sitting": 125,
+  "sitting_date": "2006-09-19",
+  "listed_date": "19 Eylül 2006 Salı",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/22/4/125/Tam/a9b4ada2-7ddc-4404-afe0-b20a12d44a42.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=dc1ffd09-617b-4f23-91c1-0185ceac760b",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=22&YasamaYili=4",
+  "source_sha256": "af5cf4edeb5306a9216af934c27dec5ff04b4802585c1f2a56d1584fc5131650",
+  "source_bytes": 8715252,
+  "source_encoding": "windows-1254",
+  "text_status": "as-published"
+}
