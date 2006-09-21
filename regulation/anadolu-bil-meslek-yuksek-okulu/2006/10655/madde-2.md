@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Anadolu BİL Meslek Yüksekokulu programlarına kabul edilen öğrencilerden, öğretim yılı başında yapılacak İngilizce yeterlik sınavında ya da eşdeğeri ve taban puanları Yönetim Kurulu tarafından belirlenen İngilizce sınavlarından birinde başarılı olamayan ve bu programlarda öğrenimlerine başlayabilmek için İngilizce hazırlık programına devam etmek ve başarmak zorunda olan öğrencilerle ilgili hususları ve hazırlık eğitim- öğretimini kapsar.

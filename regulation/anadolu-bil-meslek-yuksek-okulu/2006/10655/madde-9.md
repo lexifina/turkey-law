@@ -1,0 +1,2 @@
+İsteğe bağlı hazırlık eğitimi - öğretimi
+MADDE 9 – (1) Yüksekokulun öğretim dili Türkçe olan programlarına kayıt yaptıran öğrenciler, Yükseköğretim Kurulu onayı ile isteğe bağlı olarak İngilizce hazırlık eğitimi alabilirler. Bu öğrenciler için hazırlık sınıfı öğretim süresi bir eğitim-öğretim yılıdır. Hazırlık sınıfında geçen bir yıllık öğretim süresi, öğrencinin kayıtlı olduğu programda belirtilen öğretim süresine dahil değildir.
