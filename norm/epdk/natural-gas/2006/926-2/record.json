@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "926/2",
+  "decision_date": "2006-09-21",
+  "title": "Dağıtım lisansı sahibi ESGAZ Eskişehir Şehir içi Doğal Gaz Dağıtım Ticaret ve Taahhüt A.Ş.nin düzeltme katsayısı uygulaması",
+  "categories": [
+    "Doğal Gaz Piyasası Denetim Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mNTx2YwUBAk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mNTx2YwUBAk="
+  ],
+  "source_sha256": "357bfdaa627c193f9083c606f311f6a90985eef60a9ba03c2fa835bb08722d90",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7220,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-09-21",
+  "law_text_complete": false
+}
