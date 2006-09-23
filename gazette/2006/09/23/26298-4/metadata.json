@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-09-23",
+  "issue": "26298",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türk Akreditasyon Kurumu Muhasebe Uygulama Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/09/20060923-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/09/20060923.htm",
+  "index_sha256": "b63d417162c70d40db96907605e58c8b880c4a537a6c6959db98757355cc5c52",
+  "index_header": "23 Eylül 2006 ... 26298 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
