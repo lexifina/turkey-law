@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28817",
+  "decision_date": "2006-09-26",
+  "source_id": 586,
+  "chamber": "3",
+  "file_number": "28373",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/586/",
+  "source_sha256": "dc758ae8d31102209442c1ee0b5ff8cd1bfdcc69e5dd0e12cfb52f6ec97880a5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
