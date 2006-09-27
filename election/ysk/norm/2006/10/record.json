@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2006/10",
+  "list_number": "318",
+  "genelge_number": "10",
+  "decision_date": "2006-09-27",
+  "title": "Deneme Seçimi",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1619/2006-10.pdf",
+  "source_sha256": "78b7392fa025d6267113e284328d028300a0abfce6c38f927a8345fd3db5db90",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2006-09-27",
+  "law_text_complete": false
+}
