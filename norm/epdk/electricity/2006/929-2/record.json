@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "929/2",
+  "decision_date": "2006-09-28",
+  "title": "Elektrik piyasasında Türkiye Elektrik Ticaret Taahhüt Anonim Şirketi (TETAŞ) tarafından uygulanacak toptan satış tarifeleri ve usul ve esaslar ile ilgili",
+  "resmi_gazete_date": "2006-10-04",
+  "resmi_gazete_number": "26309",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mYTB6Tsnhm0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mYTB6Tsnhm0="
+  ],
+  "source_sha256": "94a8dc6fa6b099493d807a91e75197bc2df16f633564b88e4bdef23ddb0d5a68",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-09-28",
+  "law_text_complete": false
+}
