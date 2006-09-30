@@ -1,0 +1,4 @@
+Sağlık hizmetleri
+MADDE 15 – (1) Merkeze gelen hastaların yatış ve çıkış işlemleri, Akdeniz Üniversitesi Sağlık Araştırma ve Uygulama Merkezi (Hastane) tarafından yapılır.
+(2) Hastaların tedavilerine ilişkin hususlar Senato tarafından belirlenir.
+(3) Merkezde; 16/2/2004 tarihli ve 25375 sayılı Resmî Gazete’de yayımlanan Madde Bağımlılığı Tedavi Merkezleri Yönetmeliği gereğince bulundurulması gerekli olan hasta odaları ve klinikler, hemşire istasyonu, detoksifikasyon ünitesi, poliklinik muayene odaları, numune alma odası ve ayrıca eczane, laboratuvarlar, sterilizasyon ünitesi, mutfak, çamaşırhane, tıbbi atık ve çöp toplama bölümü ve morg Akdeniz Üniversitesi Tıp Fakültesi tarafından sağlanır. Bağımlılık yapan maddelerin tespitine ilişkin testler ise, Üniversitenin Sağlık Araştırma ve Uygulama Merkezi (Hastane) ndeki Merkez laboratuvarı tarafından acil olarak yapılır.
