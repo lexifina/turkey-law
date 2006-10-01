@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.10629",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YENİ SİGORTA BRANŞI TESİSİ HAKKINDA TEBLİĞ",
+  "number": "10629",
+  "issuer": "Hazine Müsteşarlığının bağlı bulunduğu Bakan",
+  "path": "teblig/2006/10629",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10629&MevzuatTertip=5",
+  "source_sha256": "7574763d853bc0708a6f16a9e8377b695b7bdd8679b7c78b3fbc6739820207a2",
+  "source_bytes": 13543,
+  "published": "2006-09-07",
+  "gazette": "26282",
+  "in_force": "2006-10-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/10/2006 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/10/2006 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 84,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
