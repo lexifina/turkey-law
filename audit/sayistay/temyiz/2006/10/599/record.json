@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28830",
+  "decision_date": "2006-10-03",
+  "source_id": 599,
+  "chamber": "3",
+  "file_number": "28213",
+  "account_year": "1998",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/599/",
+  "source_sha256": "006c9ada209e086569ba0ca0547688f2487fdfb4f5df5a96174644678c71322f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

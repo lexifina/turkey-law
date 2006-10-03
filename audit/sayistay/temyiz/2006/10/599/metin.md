@@ -1,0 +1,23 @@
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü.
+
+1919 nolu ek ilamla, Keçiören Belediyesi Meclis Üyelerine ve meclis üyelerinden encümende görevli olanlara, mevcut belgelere göre toplantı yaptıkları gün sayıları dikkate alınarak; Şubat ve Haziran aylarında süre uzatımlarıyla 30 ‘ar gün, Ekim ayında 45 gün ve Mart, Temmuz ve Kasım aylarında olağanüstü toplandıkları birer gün üzerinden huzur hakkı ödenmesi gerekirken, Belediye Kanununun, Belediye Meclis Üyelerine Huzur Ücreti Verilmesiyle ilgili 156. maddesinin uygulanmasına ilişkin esasların 3. maddesinde belirtilen 150 günlük üst sınırın aşılarak 196 gün üzerinden ödeme yapıldığı gerekçesiyle 47.731.800.000.- liranın tazminine karar verilmiştir.
+
+Dilekçi dilekçesinde,1580 sayılı yasanın 62. maddesinde gündemdeki konuları incelemek üzere encümenler oluşturulabileceği,1580 sayılı yasanın 59. maddesine göre hazırlanan "Çalışma Usulüne İlişkin Yönetmeliğin" 31. maddesinde; Meclisin, her ekim ayı toplantısında Bütçe ve Kesin hesabının ve gerekli görülecek diğer konuların incelenmesi için bir veya daha çok encümen (Komisyon) seçmeye ve gerekli göreceği konuları bu encümenlere vermeye yetkili olduğu, yasanın 54. maddesinin olağanüstü toplantılara olanak tanıdığını, bu tür toplantıları ihtiyaca ve önemli ve acele işlere bağlamış ve bunların gün sayısını veya adedini sınırlamadığını, söz konusu ilamda yer verilen ödemeler, yukarıdaki mevzuata göre ve ihtiyaç nedeniyle oluşturulup çalışan komisyonların üyelerine yapılmış olup, bunlara ait puantaj cetvelleriyle karar defterleri fotokopileri ile ilamda mevcut olmadığı belirtilen ve bu toplantıların dayanağını oluşturan Belediye Başkanının çağrıları ile ilan metinleri ve Valilik yazılarının gönderildiğini bildirerek tazmin hükmünün kaldırılması talebinde bulunmuştur.
+
+1580 sayılı Belediye Kanununun “Meclisin adi ve olağanüstü toplantısı” başlıklı 54. maddesinde (Değişik: 29/4/1946-4878/13 md.); “Meclisin adi toplantısı Ekim, Şubat ve Haziran ayları başlarında olmak üzere yılda üç defadır.
+
+Bütçe görüşmesine rastlayan toplantı süresi en çok 30 gün olup, diğer toplantıların süresi en çok 15 gündür. Bu sürelerden önce iş bitmezse vali 15 günü aşmamak üzere görüşme sürelerini uzatarak sebeplerini İçişleri Bakanlığına bildirir. Önemli ve acele bir iş çıkarsa belediye başkanının yazılı çağrısı veya üyeden üçte birinin gerekçeli teklifi veyahut valinin doğrudan doğruya çağırması üzerine meclisler olağanüstü toplanırlar. Olağanüstü toplantılarda çağrıyı gerektiren konudan başka bir iş görüşülemez.” Denilmektedir.
+
+Aynı Kanunun 62. maddesinde; “Belediye meclisi her içtima müddeti için ruznamelerdeki meseleleri tetkik etmek üzere encümenler teşkil edebilir. Encümenler mütalaalarını o içtima müddeti içinde meclise bildirirler.” Denilmektedir.
+
+Belediye Kanununun Belediye Meclis Üyelerine Huzur Hakkı Verilmesi İle İlgili 156. Maddesinin Uygulanmasına İlişkin Esasların 2. maddesinde aynen; “…üyelere meclisin olağan ve olağanüstü toplantıları sırasında katıldıkları oturumlar için gün hesabı ile huzur hakkı verilir.
+
+Bu olağan ve olağanüstü toplantılar sırasında, Belediye Kanununun 62 ve 63. maddeleri uyarınca kurulacak encümenlerde görevlendirilecek üyelere de, meclisin toplantı süresini aşmamak kaydıyla huzur hakkı verilebilir.” Denilmektedir.
+
+Görüldüğü üzere, Belediye Meclisinin olağan ve olağanüstü toplantı süreleri ile meseleleri tetkik etmek amacıyla Encümenler kurulması ve kurulacak encümenlerin mütalaalarını toplantı müddeti içerisinde meclise bildirmesi de kanunla tespit edilmiştir. Yine adı geçen Kanuna dayanılarak çıkarılan esaslarda da görevlendirilecek üyelere, meclisin olağan ve olağanüstü toplantı süresini aşmamak kaydıyla huzur hakkı verilebileceği tespit edilmiştir.
+
+Dilekçi her ne kadar ilamda belirtilen sürelerin dışında da olağanüstü toplantı yaptıklarını ve buna ilişkin belgeleri savunmaları ekinde gönderdiklerini iddia etmişse de, dilekçe eklerinin incelenmesinde, ilamda belirtilen tarihler dışında Belediye Başkanı, Meclis Üyeleri veya Vali tarafından yapılmış her hangi bir olağanüstü toplantı çağrısına rastlanmamıştır. Ayrıca, Komisyon Üyelerinin bu tarihler dışında çalışma yaptıkları iddia edilmişse de, Komisyon Üyelerine ancak meclisin toplantı süresini aşmamak kaydıyla huzur hakkı ödenmesi mümkün olduğundan, toplantı dönemleri dışında yapılan komisyon çalışmaları için huzur hakkı ödenemez.
+
+Yukarıda ifade edilen sebeplerle, dilekçi iddialarının reddedilerek 1919 sayılı ek ilamla verilen 47.731.800.000.-TL. na, ilişkin tazmin hükmünün TASDİKİNE,
+
+Karar verildiği 03.10.2006 tarih ve 28830 sayılı tutanakta yazılı olmakla iş bu ilam tanzim kılındı.
