@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5547",
+  "year": 2006,
+  "title": "(Gözden Geçirilmiş) Avrupa Sosyal Şartının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-10-03",
+  "gazette_issue": "26308",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061003-2.htm",
+  "source_sha256": "d64a6a890181776d152419743df43702592bdd771fe183ccb06613d0afec3937",
+  "text_sha256": "8972236d027e088432c1b8ed0cba4017098b44bf3f55fa4411dbd308dc9052df",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/10/03/26308-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061003-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
