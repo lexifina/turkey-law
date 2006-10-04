@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2006/320",
+  "list_number": "320",
+  "decision_date": "2006-10-04",
+  "title": "YSK ilke kararı 2006/320",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3454/2006-320-karar.htm",
+  "source_sha256": "9fa58c09b3ef28d9fdc29931f467058a90a4973b6d5d082d78d57b332da009da",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2006-10-04",
+  "law_text_complete": false
+}
