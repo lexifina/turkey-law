@@ -1,0 +1,2 @@
+Fiyat farkı verilmesi
+MADDE 20 – (1) İhale dokümanlarında belirtilmesi kaydıyla, İdarece belirlenecek veya 24/12/2002 tarihli ve 2002/5037 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan 4734 Sayılı Kamu İhale Kanununa Göre İhalesi Yapılacak Olan Hizmet Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar ile 24/12/2002 tarihli ve 2002/5038 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan 4734 Sayılı Kamu İhale Kanununa Göre İhalesi Yapılacak Olan Mal Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar çerçevesinde fiyat farkı verilebilir.

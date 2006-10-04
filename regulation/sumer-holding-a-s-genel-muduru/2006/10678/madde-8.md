@@ -1,0 +1,2 @@
+Yaklaşık maliyet
+MADDE 8 – (1) Mal veya hizmet alımları ihalesi yapılmadan önce İdarece, her türlü fiyat araştırması yapılarak katma değer vergisi hariç olmak üzere yaklaşık maliyet belirlenir ve dayanaklarıyla birlikte bir hesap cetvelinde gösterilir. İhale ilanlarında yaklaşık maliyete yer verilmez. İsteklilere veya ihale süreci ile resmî ilişkisi olmayan diğer kişilere yaklaşık maliyet açıklanmaz.

@@ -1,0 +1,10 @@
+Muayene ve teslim alma esasları
+MADDE 37 – (1) Satın alınan mal ve hizmetler gerekli hâllerde sözleşmede belirlenen teslim yerinde muayene edilerek teslim alınır. Gerektiğinde muayeneler İdarenin dışındaki uzman kuruluş veya laboratuvarlara da yaptırılabilir.
+(2) Mal veya hizmetin sözleşmedeki niteliklere ve sevk kâğıdındaki miktara uygun olduğu anlaşılırsa muayene ve teslim alma kurulları ambar giriş raporlarını ve düzenleyecekleri teslim alma protokollerini imza eder.
+(3) Yerlerinde alınması gereken mal veya hizmetin kesin tesellümlerinin bu yerlerde yapılmasının mümkün olmaması hâlinde (bazı kimyasal ve fiziksel analizlerin gerekmesi gibi) tesellüm işlemi teslim alma yerinde İdare tarafından görevlendirilen kişi veya kişilerce geçici olarak yapılır ve durum orada düzenlenecek bir geçici muayene protokolü ile belirlenir. Kesin tesellüm ise mal veya hizmetin sevk edildiği taşra birimlerinde ve gerekli işlemlerin tamamlanmasından sonra yapılır.
+(4) Satın alınan mal veya hizmetin şartname ve sözleşmeye uymaması hâlinde durum ayrıntılı bir raporla tespit edilerek görevliler tarafından imza edilir. Yüklenici veya yetkili temsilcisine de imza ettirilir. Yüklenicinin veya temsilcisinin imzadan kaçınması hâlinde durum bir tutanakla tespit edilir.
+(5) Kabul ve tolerans sınırları dışında olup, reddedilmesine karar verilen mal veya hizmetlerle ilgili ret işlemleri kanunî süreler içinde mutlaka tamamlanır.
+(6) Uyuşmazlık konusu mal veya hizmetler uyuşmazlıkların çözümüne kadar ambar kayıtlarına alınmayıp, emin bir yerde saklanır veya ilgili yerlere teslim edilir.
+(7) Dış alımlarda uluslararası kurallar göz önünde bulundurulur.
+(8) Yüklenici veya yetkili temsilcisi muayene ve analiz sonuçlarına itiraz ettiği takdirde bu işlemler taraflarca kabul edilecek uzman bir kuruluşta tekrarlanır. Gerektiğinde bu işlemler yurt dışında da yaptırılabilir.
+(9) Teslim alma protokol ve tutanakları, mal ve hizmetin ödemesini yapacak olan Merkez veya taşra birimlerine bekletilmeden gönderilir. Merkezce siparişe bağlanan mal ve hizmetlere ait teslim alma protokol ve tutanaklarının birer kopyası ödeme nerede yapılırsa yapılsın Merkeze gönderilir.
