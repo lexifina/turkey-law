@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.10682",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "LİKİDİTE SENETLERİ HAKKINDA TEBLİĞ (SIRA NUMARASI: 2006/1)",
+  "number": "10682",
+  "issuer": "Türkiye Cumhuriyet Merkez Bankası Başkanı",
+  "path": "teblig/2006/10682",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10682&MevzuatTertip=5",
+  "source_sha256": "ca4adffdd50d70a47918cebde8803ad746b867976437791ed8cfc1ac9a0953a6",
+  "source_bytes": 21778,
+  "published": "2006-10-05",
+  "gazette": "26310",
+  "in_force": "2006-10-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.10.2006); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 586,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
