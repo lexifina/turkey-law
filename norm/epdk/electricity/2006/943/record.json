@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "943",
+  "decision_date": "2006-10-05",
+  "title": "2007 yılında uygulanacak iletim ek ücretine ilişkin",
+  "resmi_gazete_date": "2006-10-19",
+  "resmi_gazete_number": "26324",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Zh17pms7gto=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Zh17pms7gto="
+  ],
+  "source_sha256": "9508000f35923039a5c4b73843846c274d5eb0ed7f228a05adfb78f4405591cb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-10-05",
+  "law_text_complete": false
+}
