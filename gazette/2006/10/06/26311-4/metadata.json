@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-10-06",
+  "issue": "26311",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2006/10958 Cumhuriyet Üniversitesi Rektörlüğüne Bağlı Olarak İletişim Fakültesi Kurulması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061006-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061006.htm",
+  "index_sha256": "081f3ed089d2acc2a73c18c1a7cf29cee371c098086ea2aefcac57ff04bcf642",
+  "index_header": "6 Ekim 2006 ... 26311 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
