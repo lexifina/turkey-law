@@ -164,6 +164,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)
 27) GAP Bölge Kalkınma İdaresi
 28) Özelleştirme İdaresi Başkanlığı
 29) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu
+30- (Ek: 21/9/2006-5544/31 md.) Meslekî Yeterlilik Kurumu
 ––––––––––––––
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “10) Devlet Opera ve Balesi Genel Müdürlüğü” sırasından sonra gelmek üzere “11) Orman Genel Müdürlüğü” sırası eklenmiş ve cetvelin sıra numaraları teselsül ettirilmiştir.
 (III) SAYILI CETVEL
