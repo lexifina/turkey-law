@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-10-08",
+  "issue": "26313",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2006/10975 Karadeniz Ekonomik İşbirliği Katılımcı Devletleri Arasında Suçla, Özellikle Örgütlü Suç Türleriyle Mücadelede İşbirliği Anlaşmasına Ek Terörizmle Mücadele Protokolü’nün Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061008-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061008.htm",
+  "index_sha256": "dfc38753fe37ce5a842ce23cceb8bb17b2aa85b557af6691fc812d20f8c8a787",
+  "index_header": "8 Ekim 2006 ... 26313 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
