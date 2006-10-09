@@ -1,0 +1,24 @@
+{
+  "number": "466",
+  "number_as_published": "KARAR NO : 466",
+  "year": 2006,
+  "title": "09 Ekim 2006 Tarihli Karar Özetleri",
+  "decision_date": "2006-10-09",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/09-ekim-2006-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "e3d2d88e8c3e214a371bbc50bbb375c937e064e96b6ed865ee99bed23d0ebdb0",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2006-10-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09 Ekim 2006 (meeting date in the official page title; no per-decision date); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "09 Ekim 2006 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=20",
+  "subject_published": false
+}
