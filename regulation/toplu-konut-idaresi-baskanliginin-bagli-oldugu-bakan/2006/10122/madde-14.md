@@ -1,0 +1,2 @@
+Borçlandırma suretiyle konut sözleşmesi
+MADDE 14 – (1) Tapu tahsis belgesindeki tahsis miktarı 400 m2 olup arsa borcu bulunmayan hak sahiplerine Belediye Meclisince belirlenecek büyüklükte bir adet konut verilir. Tapu tahsis belgesindeki tahsis miktarı 400 m2’den az olan maliklerin eksik arsa oranları, konut sözleşmesi ile Belediye Meclisince tespit edilecek konut büyüklüğünün inşaat maliyet bedeli oranı üzerinden hesaplanacak bedele, gecekonduya ait varsa arsa borcuda ilave edilerek, toplamdan; tesis ve müştemilata ait enkaz bedeli düşülerek borçlandırma yapılır.

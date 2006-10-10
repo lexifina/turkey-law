@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Toplu Konut İdaresi Başkanlığının bağlı olduğu bakanlığı,
+b) Belediye: Ankara Büyükşehir Belediyesini,
+c) Diğer Gecekondu Sahipleri: 2981 sayılı İmar ve Gecekondu Mevzuatına Aykırı Yapılara Uygulanacak Bazı İşlemler ve 6785 sayılı İmar Kanununun Bir Maddesinin Değiştirilmesi Hakkında Kanun ile aynı 2981 sayılı Kanunun bazı maddelerini değiştiren 3290 ve 3366 sayılı kanunlardan süre itibarı ile yararlanamayan ancak 1 Ocak 2000 tarihinden önce yapıldığını belgeleyen ruhsatsız yapı ve gecekondu sahiplerini,
+ç) İdare: Toplu Konut İdaresi Başkanlığını,
+d) İlçe belediyeleri: Altındağ ve Keçiören belediyelerini,
+e) İşyerleri: 5104 sayılı kanunun yürürlüğe girdiği tarihten önce ticari faaliyette bulunduklarını belgeleyen ve halen ticari faaliyetlerini sürdüren tapulu işyeri sahiplerini,
+f) Kentsel Tasarım Projesi: 1/1000 ölçekli uygulama imar planı ile getirilen kullanım kararları ve yapılaşma koşulları doğrultusunda hazırlanacak 1/500 ölçekli tasarım projelerini,
+g) Kiracılar: 1 Ocak 2000 tarihinden önce yapılan yapılarda 5104 sayılı Kanunun yürürlüğe girdiği tarihten en az geriye doğru üç yıl oturan kiracıları,
+ğ) Nazım İmar Planı: Proje alanı kapsamında hazırlanacak 1/5000 ölçekli planları,
+h) Ortak hesap: İdare ve Belediye tarafından açılacak müşterek banka hesabını,
+ı) Proje: Kuzey Ankara Girişi Kentsel Dönüşüm Projesini,
+i) Ruhsatlı Yapılar: 5104 sayılı kanunun yürürlüğe girdiği tarihten önce ilçe belediyesinden gerekli yapı ruhsatını alarak bina inşa eden ( iskan izni almış yada iskan izni alma aşamasında) gerçek kişi ve kooperatifleri,
+j) Şirket: İdare ve Belediye tarafından özel hukuk hükümlerine göre kurulan şirketi,
+k) Tapu sahipleri: Proje alanı içerisinde imarlı veya imarsız tapu sahiplerini,
+l) Tapu Tahsis Belgesi sahipleri: 2981 sayılı Kanun ile aynı 2981 sayılı Kanunun bazı maddelerini değiştiren 3290 ve 3366 sayılı kanunlar ile 2/3/1988 tarihli ve 3414 sayılı Kanun ile bu kanunlara dayanılarak çıkarılan yönetmelikler gereği süresi içerisinde müracaat edenler ile tapu tahsis belgesi almış olanları,
+m) Trampa: Kamulaştırılacak mülke karşılık proje alanı içinde veya dışında konut veya imara müsait arsa verilmesi işlemini,
+n) Uygulama İmar Planı: Proje alanı kapsamında hazırlanacak 1/1000 ölçekli planları,
+ifade eder.

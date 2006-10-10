@@ -1,0 +1,2 @@
+Arsa üzerindeki tesis ve müştemilat
+MADDE 10 – (1) İmarlı, kadastro ve tapulama arsası üzerinde bulunan tesis ve müştemilatın Bayındırlık ve İskan Bakanlığınca her yıl yayımlanan birim fiyatları üzerinden kıymet takdir komisyonlarınca belirlenen bedelleri, sözleşme ile Belediyeye verilecek konutların maliyet bedellerinden düşülür. Bu işlem sonucunda oluşacak olan maliklerin alacakları Belediye tarafından peşin ödenir. Arsa sahiplerinin Belediyeye borçlanması durumunda ise ödemeler sözleşme tarihinden itibaren taksitle ödenir. Taksit esasları Belediye Meclisince belirlenir.

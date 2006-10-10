@@ -1,0 +1,2 @@
+Eksik kalan arsa miktarının tamamlanması
+MADDE 7 – (1) İmarlı ve kadastro arsa malikleri ile yapılacak işyeri ve konut sözleşmesinin eksik kalan arsa miktarları için her 1 m2 arsaya karşılık gelen inşaat alanı hesaplanarak ilgili malik hissesi karşılığı düşen inşaat maliyeti bedeli Belediyeye taksitle ödenir. Taksit esasları Belediye Meclisince belirlenir. İnşaat maliyet bedeli her yıl Bayındırlık ve İskan Bakanlığınca yayımlanan değerler üzerinden uygulanır.

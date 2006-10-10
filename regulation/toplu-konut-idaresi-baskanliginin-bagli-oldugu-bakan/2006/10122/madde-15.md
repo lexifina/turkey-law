@@ -1,0 +1,2 @@
+Kıymet takdiri
+MADDE 15 – (1) Tapu tahsisli tesis müştemilat ve ağaçların kıymet takdir bedelleri Belediye tarafından oluşturulacak kıymet takdir komisyonunca belirlenir. Maliklere verilecek konutların Bayındırlık ve İskan Bakanlığınca yayımlanan inşaat maliyet değerleri üzerinden maliyet bedelleri belirlenerek maliyet bedellerinden enkaz bedelleri düşüldükten sonra kalan bedel sözleşme tarihinden itibaren bir sonraki aydan başlayarak taksitle ödenir. Taksit esasları Belediye Meclisince belirlenir.

@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.10122",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KUZEY ANKARA GİRİŞİ KENTSEL DÖNÜŞÜM PROJESİ YÖNETMELİĞİ",
+  "number": "10122",
+  "issuer": "Toplu Konut İdaresi Başkanlığının bağlı olduğu Bakan",
+  "issuer_slug": "toplu-konut-idaresi-baskanliginin-bagli-oldugu-bakan",
+  "path": "regulation/toplu-konut-idaresi-baskanliginin-bagli-oldugu-bakan/2006/10122",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10122&MevzuatTertip=5",
+  "source_sha256": "ade156be0dadb83a40594c758480b9d66bd4638d8254e36fec5f8d2d4573820d",
+  "source_bytes": 85074,
+  "published": "2006-04-14",
+  "gazette": "26139",
+  "in_force": "2006-10-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/10/2006\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2006-10-10",
+      "RG-10/10/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-10-10",
+      "10/10/2006",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1951,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
