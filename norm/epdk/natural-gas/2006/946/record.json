@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "946",
+  "decision_date": "2006-10-12",
+  "title": "Çukurova Doğal Gaz Dağıtım Lisansı İhale ilanı değiştirilmiştir.",
+  "resmi_gazete_date": "2006-10-21",
+  "resmi_gazete_number": "26326",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vWjO1B0Tmgw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vWjO1B0Tmgw="
+  ],
+  "source_sha256": "7edf30c9169ba091809751070fcee865552ca6919bb057de58d2200309eaf31f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-10-12",
+  "law_text_complete": false
+}
