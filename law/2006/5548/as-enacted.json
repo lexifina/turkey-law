@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5548",
+  "year": 2006,
+  "title": "Kamu Denetçiliği Kurumu Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-10-13",
+  "gazette_issue": "26318",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061013-1.htm",
+  "source_sha256": "9e1e7fda664bdf5a9d9d749728ef053f7c40ddd3ca0a348740c29b8d48df9a10",
+  "text_sha256": "3f20d295deb342e6566d5160e5ed45c36c0703aeaac3bb6490a57f11d647a3bb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/10/13/26318-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061013-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
