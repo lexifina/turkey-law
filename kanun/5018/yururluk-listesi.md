@@ -15,3 +15,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5502 | (I) ve (IV) sayılı Cetvel | 20/5/2006
 5538 | (I) ve (II) Sayılı Cetvel Ek Madde 2 ve Geçici Madde 15 | 1/1/2006 tarihinden geçerli olmak üzere 12/7/2006 12/7/2006
 5544 | (II) Sayılı Cetvel | 7/10/2006
+5548 | (II) Sayılı Cetvel | 13/10/2006
