@@ -1,0 +1,3 @@
+Taahhütname
+MADDE 13 – (1) Banka, ödenekten yararlanmak isteyen belediyelerden bu Yönetmelik hükümlerini kabul ettiğine dair bir taahhütname alır.
+(2) Belediyenin işin yürütülmesi ve kontrolü ile ilgili konularda yapılması gereken işlerden kaçınması veya taahhütnamede belirtilen yükümlülükleri yerine getirmemesi halinde çıkacak anlaşmazlıklarda, Banka, bakiye ödenek dilimlerini kullandırmayabileceği gibi, önceden kullandırmış olduğu ödenek tutarını ve bunun yasal faizini, kontrollük giderleri ve benzeri masrafları ile birlikte defaten talep eder veya Belediyenin Banka tarafından dağıtılan yasal paylarından keser.

@@ -1,0 +1,4 @@
+Ödenekten sağlanacak katkı oranları
+MADDE 7 – (1) Belediyelerin harita, imar planı, içmesuyu şebeke, içmesuyu arıtma, atıksu şebeke, atıksu arıtma, deniz deşarjı ve katı atık bertarafı ve benzeri alt yapı tesislerinin etüt ve projelerinin hazırlanmasında; proje bedelinin % 75’i oranında katkı sağlanır.
+(2) Belediyelerin kentsel altyapı tesislerinin yapımında; nüfusu 20.000 ve altında bulunan belediyelere yatırım maliyetinin %75’ine, nüfusu 20.001–100.000 arasında bulunan belediyelere yatırım maliyetinin %50’sine kadar 11 inci maddedeki esaslar çerçevesinde katkı sağlanır.
+(3) Bankaca dağıtılacak tahmini yasal payların % 40’ından borçları düşüldükten sonra kalan kısmı esas alınarak hesaplanacak kredi limiti ile yatırım maliyeti arasındaki fark bu maddenin ikinci fıkrasında belirtilen esaslar dahilinde ödenekten finanse edilir.
