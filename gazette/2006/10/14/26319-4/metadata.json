@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-10-14",
+  "issue": "26319",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Belediyelerin Kentsel Altyapı İhtiyaçları İçin Tahsis Edilen Ödeneğin Kullanımına İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061014-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061014.htm",
+  "index_sha256": "d9cd644087fea7f8d5d8b58a553f145fac798b9c9a2fbe6f298884ef9c267d4b",
+  "index_header": "14 Ekim 2006 ... 26319 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
