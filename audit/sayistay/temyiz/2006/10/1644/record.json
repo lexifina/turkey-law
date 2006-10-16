@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29545",
+  "decision_date": "2006-10-16",
+  "source_id": 1644,
+  "chamber": "3",
+  "file_number": "29370",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1644/",
+  "source_sha256": "ba4fcf8896de246a846e146b2b3d34c3a52b854be31edd465806031563ceff19",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
