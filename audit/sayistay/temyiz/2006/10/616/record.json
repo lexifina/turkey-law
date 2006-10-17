@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28854",
+  "decision_date": "2006-10-17",
+  "source_id": 616,
+  "chamber": "7",
+  "file_number": "28453",
+  "account_year": "2000",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/616/",
+  "source_sha256": "c0b9e0b44ea4804124b33df248267fcf87e99a408d5767cb2da42d1a150e8acd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
