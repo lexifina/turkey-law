@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-10-18",
+  "issue": "26323",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "5549 Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061018-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061018.htm",
+  "index_sha256": "db8c1224433f4712fff54fece2cfa97b2492ba2b2dcacfbcdd5be7429a469161",
+  "index_header": "18 Ekim 2006 ... 26323 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
