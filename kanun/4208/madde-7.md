@@ -1,0 +1,4 @@
+ÜÇÜNCÜ BÖLÜM
+Ceza ve Usul Hükümleri
+Karapara Aklanması Suçunda Ceza
+Madde 7 – (Mülga: 11/10/2006-5549/26 md.)
