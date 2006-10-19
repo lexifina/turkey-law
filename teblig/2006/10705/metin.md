@@ -1,0 +1,14 @@
+Kurum | Çalışma ve Sosyal Güvenlik Bakanlığı
+Tebliğin Adı | İşverenler Tarafından Aylık Prim Ve Hizmet Belgesinin İnternet Ortamında Sosyal Sigortalar Kurumuna Gönderilmesine (E-Bildirge Uygulaması) İlişkin Tebliğde Değişiklik Yapılması Hakkında Tebliğ
+Tebliğ No | -
+Resmî Gazete Tarihi | 19/10/2006
+Resmî Gazete Sayısı | 26324
+İŞVERENLER TARAFINDAN AYLIK PRİM VE HİZMET BELGESİNİN İNTERNET ORTAMINDA SOSYAL SİGORTALAR KURUMUNA GÖNDERİLMESİNE (E-BİLDİRGE UYGULAMASI) İLİŞKİN TEBLİĞDE DEĞİŞİKLİK YAPILMASI HAKKINDA TEBLİĞ
+Bilindiği üzere, 2004/Mayıs ayı ile takip eden aylara ilişkin olarak düzenlenen aylık prim ve hizmet belgesinin resmi-özel sektör ayırımı yapılmaksızın tüm illerde; bir ila yedi arasında sigortalı çalıştırılan işyerlerinden isteyenlerin, sekiz (dahil) veya daha fazla sigortalı çalıştırılan işyerlerinin ise zorunlu olarak internet ortamında göndermeleri gerektiği, Sosyal Sigortalar Kurumu Başkanlığının 6/4/2004 tarih ve 16-313 Ek sayılı Genelgesinde açıklanmıştır.
+Yine bilindiği ve Kurumun 29/4/2005 tarihli, 16-340 Ek sayılı Genelgesinde de belirtildiği üzere, aylık prim ve hizmet belgesinin internet ortamında gönderilmesindeki zorunluluk kapsamına, 2005/Mayıs, Haziran ve Temmuz aylarında 5 ve üzerinde, 2005/Ağustos ve takip eden aylarda ise, 3 ve üzerinde sigortalı çalıştıran özel ve resmi sektör işverenleri de dahil edilmiş bulunmaktadır.
+Bu defa, Kurum Yönetim Kurulunun 18/9/2006 tarih ve IX/425 sayılı kararı ile;
+2006/Kasım ve takip eden aylara ait özel ve resmi sektör işyerlerinde 2 ve üzerinde sigortalı çalıştıran işverenlerin bu ve sonraki aylara ait Aylık Prim ve Hizmet Belgelerini, internet üzerinden e-bildirge uygulaması ile Sosyal Sigortalar Kurumu Başkanlığına göndermeleri zorunluluğu getirilmiştir.
+Buna göre, 2006/Kasım ve takip eden aylarda işyerlerinde 2 ve üzerinde sigortalı çalıştıran özel ve resmi sektör işverenlerinin bu aylara ait Aylık Prim ve Hizmet belgelerini yasal süresi içinde e-Bildirge uygulaması ile internet üzerinden Kuruma göndermeleri gerekmektedir.
+Aylık prim ve hizmet belgelerini internet üzerinden vermekle zorunlu tutulan işverenlerin, anılan belgeleri kağıt ortamında yasal süresi içerisinde Kuruma vermeleri halinde, haklarında 506 sayılı Sosyal Sigortalar Kanununun 140 ıncı maddesi uyarınca idari para cezası uygulanacaktır.
+Bu nedenle, 2006/Kasım ve takip eden aylarda işyerlerinde 2 ve üzerinde sigortalı çalıştıran özel ve resmi sektör işverenlerinin, bu yasal zorunluluk karşısında gereksiz yere idari para cezası yaptırımı ile karşı karşıya kalmamaları için bugüne kadar e-Bildirge kullanıcı kodu ve şifrelerini almamışlarsa (şifre üretim işlemleri zaman aldığından) bir an önce "e-bildirge Hizmetleri Başvuru Formu" ile "e-bildirge sözleşmesini" doldurarak işyerlerinin işlem gördüğü Sigorta/Sigorta İl Müdürlüğüne başvurup kullanıcı kodu ve kullanıcı şifrelerini almaları gerekmektedir.
+Tebliğ olunur.
