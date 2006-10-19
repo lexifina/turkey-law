@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "957/10",
+  "decision_date": "2006-10-19",
+  "title": "HSV Kayseri Doğal Gaz Dağıtım Pazarlama ve Ticaret Anonim Şirketi’nin, Organize Sanayi Bölgesi (OSB) ve Serbest Bölgede faaliyette bulunan doğal gaz kullanıcılarına hizmet veren iç tesisat sertifikası sahibi kişilerden “OSB Altyapı Proje Bedeli” adı altında mevzuatta yeri olmayan bir bedel alması hususu",
+  "categories": [
+    "Doğal Gaz Piyasası Denetim Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9or+IIwKuLs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9or+IIwKuLs="
+  ],
+  "source_sha256": "b4c29e455eb08b1e38dcc349a809c0f6ea78125122b3fa01e65fdd2009910d8a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7220,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-10-19",
+  "law_text_complete": false
+}
