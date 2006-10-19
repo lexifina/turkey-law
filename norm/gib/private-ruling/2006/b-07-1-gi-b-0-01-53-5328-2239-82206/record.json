@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2006-10-19T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2006-10-19",
+  "official_number": "B.07.1.GİB.0.01.53/5328 -2239-82206",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31069",
+  "source_id": "ozelge:31069",
+  "source_row_sha256": "40e75cfd62b365828a306756b1149606c0529adb01c221b3869b22b367c40ffb",
+  "title": "Vade farkı, fiyat farkı, kur farkı, faiz ve reklamasyon gibi unsurlara uygulanacak KDV oranı hk.",
+  "version_label": "as-enacted",
+  "word_count": 527
+}
