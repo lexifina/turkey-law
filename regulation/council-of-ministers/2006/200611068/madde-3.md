@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+b) Deneme üretimi dönemi: Bir HES tesisinin herhangi bir ünitesinin devreye alma testlerinin tamamlanıp, test amacıyla elektrik enerjisi ürettiği dönemi,
+c) Depolama tesisi: Baraj, göl ve regülatör gibi suyun depolandığı tesisleri,
+ç) Devir kurulu: Tesisin devrini gerçekleştirmek amacıyla Bakanlık, DSİ ve EÜAŞ temsilcilerinden oluşan kurulu,
+d) DSİ: Devlet Su İşleri Genel Müdürlüğünü,
+e) Ekonomik analiz dönemi: Projenin ekonomik parametrelerinin belirlendiği projenin faydalı ömrünü, yatırımların tamamının amortismanının geri alındığı elli yıllık işletme süresini,
+f) EÜAŞ: Elektrik Üretim Anonim Şirketini,
+g) Gerçekleşmiş proje bedeli: HES tesislerinin devir işlemlerinin gerçekleştirilmesine kadar bu tesisler ile ilgili yapılan ortak ve özel imalatlar ile enerji amaçlı olarak kamulaştırma, irtifak hakkı ve bu gibi ödemelerin tamamını kapsayan harcamaların, harcamanın yapıldığı tarihten devir tarihine kadar Üretici Fiyatları Endeksi ile devir tarihine getirilmiş eşdeğerini,
+ğ) HES: Hidroelektrik Santrali,
+h) HM: Hazine Müsteşarlığını,
+ı) İşletme devri: Tesisin kesin devrine kadar EÜAŞ tarafından işletilmesini sağlamak amacı ile yapılacak devri,
+i) Kesin devir: Tesislerin kesin kabulünden sonra bu Yönetmelik hükümleri çerçevesinde EÜAŞ’a devri,
+j) KOF: Kamu Ortaklığı Fonunu,
+k) Ortak gider: Projede birden fazla maksada hizmet veren ortak tesislerin giderini,
+l) Ortak tesis: Projede birden fazla maksada hizmet eden bölüm veya bölümleri,
+m) Özel gider: Proje ile yalnız bir maksada hizmet eden tesislerin giderini,
+n) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketini,
+o) Tesis: Projenin maksadı veya maksatlarına hizmet eden bölüm veya bölümleri,
+ö)Ticari üretim dönemi: Bir HES tesisinin herhangi bir ünitesinin deneme üretimi periyodunu başarıyla tamamlamasını müteakip, ticari amaçlı üretim yapmaya başladığı dönemi,
+p) TÜİK: Türkiye İstatistik Kurumunu,
+ifade eder.
