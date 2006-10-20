@@ -1,0 +1,2 @@
+Dampingli ithalatın fiyatlarının gelişimi
+MADDE 18-(1) Soruşturmaya konu ülkenin ağırlıklı ortalama CIF ihraç fiyatı 2002 yılında 305,84 ABD Doları/m3, 2003 yılında 346,66 ABD Doları/m3, 2004 yılında 484,09 ABD Doları/m3 soruşturma dönemi olan 2005 Ocak-Eylül döneminde ise 412,45 ABD Doları/m3 olarak gerçekleşmiştir. 2005 tam yıl için ise ÇHC’nin ağırlıklı ortalama CIF ihraç fiyatı bir önceki yıla göre 402,23 ABD Doları/m3 seviyesine gerilemiştir.

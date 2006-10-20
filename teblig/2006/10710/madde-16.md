@@ -1,0 +1,3 @@
+Maddenin üçüncü ülkelerden ithalatı
+MADDE 16-(1) Maddenin üçüncü ülkelerden ithalatı, 2002 ile 2004 yılları arasında ve SD’de sırasıyla miktar bazında 11.187 m3, 68.237 m3, 30.544 ve 28.007 m3 olarak gerçekleşmiştir. Söz konusu ithalat 2005 yılında ise 38.947 m3’e yükselmiştir. 2002 yılı ile SD arasında ithalat % 150, 2002 ile 2005 yılı arasında ise % 248 oranında artmıştır. 2002 yılından SD’ne gelindiğinde üçüncü ülkelerin genel ithalat içindeki payı %99,56’dan, %63,34’e düşmüştür 2005 yılında ise üçüncü ülkelerin ithalat içerisindeki payı %55.52 olarak gerçekleşmiştir.
+(2) Diğer ülkeler kaynaklı soruşturma konusu ithalat, gerek miktarı, gerekse fiyatları itibariyle bu aşamada yerli üretime zarar verebilecek nitelikte değildir.

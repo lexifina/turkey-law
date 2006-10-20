@@ -1,0 +1,4 @@
+Dampingli ithalat
+MADDE 15-(1) Maddenin soruşturma konusu ülkeden ithalatı 2002 yılında 49 m3’den, 2003 yılında 159 m3’e, 2004 yılında 3.198 m3’e yükselmiş, SD’de ise 16.210 m3 olarak gerçekleşmiştir. Söz konusu ithalat miktar bazında 2002 yılından soruşturma dönemi olan 2005 Ocak-Eylül dönemine gelindiğinde 331 katlık bir artış göstermiştir. 2005 yılında ise ÇHC’den yapılan kontrplak ithalatı 2002’ye göre 637 kat artarak 31.201 m3’ü bulmuştur.
+(2) Söz konusu ithalatın toplam ABD Doları değeri ise 2002 yılında 14.986’dan, 2003 yılında 55.119’a, 2004 yılında 1.548.125’e, soruşturma döneminde ise 6.685.788’e yükselmiştir. 2005 yılında ise mezkur ithalat 12.550.012 ABD Doları mertebesine erişmiştir.
+(3) Maddenin söz konusu ülkeden ithalatının toplam ithalat içerisindeki payı 2002 yılından soruşturma dönemi olan 2005 Ocak-Eylül’e kadar sırasıyla %0,44, %0,23, %9,48 ve %36,66 olarak gerçekleşmiştir. 2005 yılında ise söz konusu oran %44,48 seviyelerine çıkmıştır.
