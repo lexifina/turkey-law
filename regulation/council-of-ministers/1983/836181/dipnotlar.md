@@ -1,0 +1,2 @@
+[1] Bu Bölümün başlığı "DENETİM ELEMANLARI VE ATANMALARI“ iken, 29/9/2006 tarihli ve 2006/11076 tarihli Bakanlar Kurulu Kararının eki Yönetmeliğin 5 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[2] Bu maddenin başlığı " Denetim Elemanları:“ iken, 29/9/2006 tarihli ve 2006/11076 tarihli Bakanlar Kurulu Kararının eki Yönetmeliğin 5 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.

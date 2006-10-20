@@ -1,0 +1,3 @@
+Geçici Madde 3 –
+Bakanlık, denetim hizmetlerinde, 2634 sayılı Kanun uygulamasının gerektirdiği ilk etkinliği sağlamak ve Turizm Kontrolör Yardımcılarının daha iyi eğitilmelerini temin amacı ile, Baş Kontrolör ve Kontrolör kadrolarının sağlandığı tarihten itibaren 6 ay içinde bu yönetmeliğin 14. maddesi uyarınca açılacak imtihanlarda başarı gösteren Bakanlık personelini bu kadrolara ata- yabilir.
+Anılan imtihana, bu Yönetmeliğin 8. (a fıkrası hükmü hariç) maddesi ile belirlenen şartlara sahip olan ve Bakanlıkta turizm konuları ile ilgili görevlerde o tarihte en az 5 yıl çalışmış olanlar girebilir.
