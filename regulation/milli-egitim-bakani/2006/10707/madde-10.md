@@ -1,0 +1,5 @@
+Fiyat ve ödeme koşullarının belirlenmesi
+MADDE 10 – (1) Okulların atölye ve makine parkı ile özel sektörle işbirliği yapılarak gerçekleştirilecek, mal veya hizmet üretiminin birim fiyatı; üretilecek mal veya hizmetin özelliği, miktarı ve süresi ile üretimde kullanılacak makine, teçhizat, demirbaş, elektrik, gaz, su, işçilik, öğrenci hakkı ve benzeri giderler ile piyasa şartları da göz önünde bulundurularak bölüm/alan veya atölye şeflerince belirlenir, gerçekleştirme görevlisinin teklifi ve harcama yetkilisinin onayı ile kesinleşir.
+(2) Sözleşme bedelinin en az % 25’i peşin, kalanı ise mal veya hizmet teslim edildikçe tahsil edilir.
+(3) Sözleşme bedelinin en az % 10’u kâr, % 40’ı ise faaliyet gideri olarak ayrılır.
+(4) İşletmenin üretim için yapacağı elektrik, su ve gaz tüketimi, makine, teçhizat ve demirbaş eşyanın bakım ve onarım gideri ile şefler hariç idarî personele ödenecek parça başı veya fazla çalışma ücreti ile aylık gayrisafi hasılattan genel bütçeye aktarılacak pay faaliyet gideri olarak ayrılan paydan karşılanır.

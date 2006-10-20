@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.10707",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI DÖNER SERMAYE İŞLETMELERİNDE ÜRETİMİ TEŞVİK PRİMİ DAĞITIMI, PARÇA BAŞI ÜRETİM, ATÖLYE VE TESİSLERİN ÖZEL SEKTÖRLE İŞBİRLİĞİ YAPILARAK İŞLETİLMESİ HAKKINDA YÖNETMELİK",
+  "number": "10707",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2006/10707",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10707&MevzuatTertip=5",
+  "source_sha256": "1550198c3b747c57b9ee085534d187c084e2f8ad27652162694b47febd8419a8",
+  "source_bytes": 50122,
+  "published": "2006-10-20",
+  "gazette": "26325",
+  "in_force": "2006-10-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.10.2006); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2949,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

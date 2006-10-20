@@ -1,0 +1,7 @@
+DÖRDÜNCÜ BÖLÜM
+Atölye, Makine Parkı ve Tesislerin İşletilmesi
+İşbirliği yapılacak alanlar ve işbirliği esasları
+MADDE 9 – (1) Bünyesinde döner sermaye işletmesi bulunan okulların atölye, makine parkı ve tesisleri; bu Yönetmelik hükümleri çerçevesinde özel sektörle işbirliği yapılarak da işletilebilir. Bu işbirliği hiçbir şekilde kira uygulaması şeklinde olamaz.
+(2) İşletmenin harcama yetkilisi; eğitim ve öğretimi aksatmamak kaydıyla, okulundaki atölye, makine parkı veya tesisin özel sektörle işbirliği yapılarak işletilmesine karar vermeye yetkilidir. Ancak, süresi oniki ayı veya bedeli eşik değerin iki katını aşan işbirliği sözleşmeleri imzalanmadan önce, Bakanlıktan yazılı izin alınır. Hiçbir şekilde, otuzaltı aydan uzun süreli sözleşme yapılamaz.
+(3) Okulların atölye, makine parkı veya tesislerinde özel sektörle işbirliği yapılarak gerçekleştirilecek mal üretiminde kullanılacak; ilk madde ve malzeme, yarı mamul madde, mamul madde, proje, kalıp ve benzeri her türlü malzeme işi yaptıracak kişi veya kuruluşça sağlanır. Hizmet üretiminde ise, bu husus sözleşmede ayrıca belirtilir. Döner sermaye işletmesi sadece; üretimin yapılacağı atölye, makine parkı, elektrik, gaz, su, avadanlık malzemesi ve benzeri demirbaş eşya ile işçiliği karşılar. Bunların dışında büro, depo ve benzeri amaçlar için kullanılacak herhangi bir yer tahsisi yapılamaz.
+(4) Her iş için; tarafların yetki, sorumluluk ve yükümlülüklerini belirleyen sözleşme yapılır. Sözleşme imzalanmadan önce işe başlanılmaz.
