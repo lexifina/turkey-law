@@ -1,0 +1,2 @@
+Nüfus olaylarının bildiriminde kullanılacak belgeler
+MADDE 10 - (1) Yabancılar kütüğünde kayıtlı olanların kişisel durumlarına ilişkin olarak kişi veya ilgili kurumlarca nüfus müdürlüğüne intikal ettirilen doğum, ölüm, evlenme, boşanma, evliliğin iptali, evliliğin feshi, gaiplik, tanıma, mahkeme kararıyla babalığa hüküm ve evlat edinme olaylarına ilişkin belgeler nüfus müdürlüğünce kabul edilerek, ilgili veri giriş formu kullanılmak suretiyle kayıtlarına işlenir.
