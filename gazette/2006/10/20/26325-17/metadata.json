@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-10-20",
+  "issue": "26325",
+  "edition": "regular",
+  "item": 17,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "GENELGE",
+  "title": "Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karar ile Başbakanlık Hazine Müsteşarlığı’nın 91-32/5 Sayılı Tebliğine İlişkin Türkiye Cumhuriyet Merkez Bankası Genelgesi (Sayı: 2006/2)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061020-17.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061020.htm",
+  "index_sha256": "4200aad5df8348f795fd48917fc1c2ceef533db134e746bd08dba1065ee305bd",
+  "index_header": "20 Ekim 2006 ... 26325 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
