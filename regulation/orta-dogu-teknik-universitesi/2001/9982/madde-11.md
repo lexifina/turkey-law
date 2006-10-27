@@ -1,0 +1,2 @@
+Görev, Yetki ve Sorumluluklar
+Madde 11 —Yuva ve Anaokulu Müdürü, Yuva ve Anakolunun amacına uygun bir şekilde hizmet vermesinden yönetilmesinden ve bu Yönetmeliğin uygulanmasından sorumludur. Yuva ve Anaokulu Müdürünün emrinde yeteri kadar, İdari Memur, Psikolog,Çocuk Gelişimi ve Eğitimcisi,Öğretmen, Doktor,Beslenme Uzmanı, Hemşire ve Yardımcı Personel görevlendirilir. Görevlendirme koşulları Rektörlükçe belirlenir.
