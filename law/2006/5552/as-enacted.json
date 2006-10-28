@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5552",
+  "year": 2006,
+  "title": "Milletvekili Seçimi Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-10-28",
+  "gazette_issue": "26330",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061028-1.htm",
+  "source_sha256": "d183aa44d42adee711a9cf3ef972f6bfa03645c2634551fae286c0c55e6262e7",
+  "text_sha256": "23af5859293ae035ae0b2a98121faf77a9b48b7e901cbfcfe9f49b27cb6ddb3c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/10/28/26330-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061028-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
