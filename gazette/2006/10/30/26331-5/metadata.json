@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-10-30",
+  "issue": "26331",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Birleşme İşlemlerine İlişkin Esaslar Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri: I, No: 35)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061030-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/10/20061030.htm",
+  "index_sha256": "183097575a6125a852567020bf6908897c03909c5a4bc733074071af24df12b7",
+  "index_header": "30 Ekim 2006 ... 26331 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
