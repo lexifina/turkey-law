@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28882",
+  "decision_date": "2006-10-31",
+  "source_id": 644,
+  "chamber": "6",
+  "file_number": "28209",
+  "account_year": "2000",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/644/",
+  "source_sha256": "46ef323bd2c0a33c7bbe1a294a95d9ecb5f94f90f66f7c14d14457ddd49eda1b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
