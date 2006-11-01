@@ -1,0 +1,886 @@
+1 Kasım 2006 ÇARŞAMBA
+Resmî
+Gazete
+Sayı : 26333
+YÖNETMELİK
+Bankacılık Düzenleme ve
+Denetleme Kurumundan:
+BANKALARIN SERMAYE YETERLİLİĞİNİN ÖLÇÜLMESİNE VE
+DEĞERLENDİRİLMESİNE İLİŞKİN YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç ve Kapsam,
+Dayanak ve Tanımlar
+Amaç ve kapsam
+MADDE 1- (1) Bu Yönetmeliğin amacı, bankaların maruz kalınan
+riskler nedeniyle oluşabilecek zararlara karşı konsolide ve konsolide olmayan
+bazda yeterli özkaynak bulundurmalarının sağlanmasına ilişkin usul ve esasları
+düzenlemektir.
+Dayanak
+MADDE 2- (1) Bu Yönetmelik, 19/10/2005 tarihli ve
+5411 sayılı Bankacılık Kanununun 43, 45, 47 ve 93 üncü maddelerine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte yer alan;
+a) Alım satım hesapları: Bankaların, para ve sermaye
+piyasalarında sürekli alım ve satım işlemlerinde bulunmak amacıyla kısa
+vadeli olarak, alım ve satım fiyatları arasındaki beklenen ya da gerçekleşen
+fiyat farklılıklarından ya da diğer fiyat ve faiz oranı değişikliklerinden
+faydalanmak amacıyla veya alım satıma aracılık ya da piyasa yapıcılığı
+nedeniyle ellerinde bulundurduğu repo ve menkul kıymet ödünç işlemlerine konu
+olanlar dahil finansal araçlar ile söz konusu finansal araçlar ile ilgili
+pozisyonlardan kaynaklanan risklerden korunma ya da bu riskleri azaltma
+amacıyla yapılan türev finansal araçlar ve spekülatif amaçlı türev finansal
+araçların izlendiği bilanço içi ve dışı hesapları ve pozisyonları,
+b) Banka: Kanunun 3 üncü maddesinde tanımlanan bankaları,
+c) Emtia: Kanunun 57 nci maddesindeki sınırlamalar
+çerçevesinde kıymetli madenler ve diğer emtiayı,
+ç) Emtia riski: Bankanın, emtia fiyatlarındaki
+hareketler nedeniyle, emtiaya ve emtiaya dayalı türev finansal araçlara
+ilişkin pozisyon durumuna bağlı olarak maruz kalabileceği zarar olasılığını,
+d) Faiz oranı riski: Faiz oranlarındaki hareketler
+nedeniyle bankanın alım satım hesapları içinde yer alan finansal araçlara
+ilişkin pozisyon durumuna bağlı olarak maruz kalabileceği zarar olasılığını,
+e) Finansal kuruluş: Kanunun 3
+üncü maddesinde tanımlanan finansal kuruluşu,
+f) Genel piyasa riski:
+Bankanın alım satım hesapları içinde yer alan finansal araçlara ilişkin
+pozisyonların değerinde faiz oranı riski ve hisse senedi pozisyon riski
+nedeniyle maruz kalabileceği zarar olasılığını,
+g) Hisse senedi pozisyon riski: Bankanın alım satım
+hesapları içinde yer alan hisse senedi pozisyon durumuna bağlı olarak hisse
+senedi fiyatlarındaki hareketler nedeniyle maruz kalabileceği zarar
+olasılığını,
+ğ)
+Kanun: 5411 sayılı Bankacılık Kanununu,
+h) Kıymetli maden: Kıymetli Madenler Borsalarında
+işlem gören ve standartları ve nitelikleri Hazine Müsteşarlığı veya İstanbul
+Altın Borsası tarafından belirlenen gümüş ve platini,
+ı) Konsolide özkaynak:
+Bankaların Özkaynaklarına İlişkin Yönetmelikte belirlenen usul ve esaslar
+çerçevesinde hesaplanacak konsolide özkaynakları,
+i) Konsolide sermaye yeterliliği standart oranı:
+Konsolide bazda hesaplanan “özkaynak/(kredi riskine esas tutar + piyasa
+riskine esas tutar + operasyonel riske esas tutar)” standart oranını,
+j) Kredi riskine esas tutar: Sermaye yeterliliği
+standart oranının hesabında bilanço içi varlıklar ile gayrinakdi krediler,
+taahhütler ve türev finansal araçlardan kaynaklanan kredi riski nedeniyle maruz kalınabilecek zararlara karşı
+bulundurulması gereken özkaynak miktarının tespitinde dikkate alınacak
+tutarı,
+k) Kur riski: Bankaların, tüm döviz varlık ve
+yükümlülükleri nedeniyle döviz kurlarında meydana gelebilecek değişiklikler
+sonucu maruz kalabilecekleri zarar olasılığını,
+l) Kurul: Bankacılık Düzenleme ve Denetleme
+Kurulunu,
+m)
+Kurum: Bankacılık Düzenleme ve Denetleme Kurumunu,
+n) Operasyonel risk: Banka içi kontrollerdeki
+aksamalar sonucu hata ve usulsüzlüklerin gözden kaçmasından, banka yönetimi ve
+personeli tarafından zaman ve koşullara uygun hareket edilememesinden, banka
+yönetimindeki hatalardan, bilgi teknolojisi sistemlerindeki hata ve aksamalar
+ile deprem, yangın ve sel gibi felaketlerden veya terör saldırılarından
+kaynaklanabilecek zarar olasılığını,
+o) Operasyonel riske esas tutar: Sermaye yeterliliği
+standart oranının hesabında operasyonel risk nedeniyle maruz kalınabilecek
+zararlara karşı bulundurulması gereken özkaynak miktarının tespitinde dikkate
+alınacak tutarı,
+ö) Özkaynak: Bankaların Özkaynaklarına İlişkin
+Yönetmelikte belirlenen usul ve esaslar çerçevesinde hesaplanacak
+özkaynakları,
+p) Piyasa riski: Bankanın genel piyasa riski, kur
+riski, spesifik risk, emtia riski, takas riski nedeniyle maruz kalabileceği
+zarar olasılığını,
+r) Piyasa riskine esas tutar: Sermaye yeterliliği
+standart oranının hesabında, piyasa riski nedeniyle maruz kalınabilecek
+zararlara karşı bulundurulması gereken özkaynak miktarının tespitinde dikkate
+alınacak tutarı,
+s) Sermaye
+yeterliliği standart oranı: Konsolide olmayan bazda hesaplanan
+“özkaynak/(kredi riskine esas tutar + piyasa riskine esas tutar + operasyonel
+riske esas tutar)” standart oranını,
+ş) Spesifik risk: Bankanın
+alım satım hesapları içinde yer alan finansal araçlara ilişkin pozisyonlarda,
+olağan piyasa hareketleri dışında, bu pozisyonları oluşturan finansal
+araçları ihraç veya garanti eden ve ödeme yükümlülüğünü üstlenen kuruluşların
+yönetimlerinden ve mali bünyelerinden kaynaklanabilecek sorunlar nedeniyle
+meydana gelebilecek zarar olasılığını,
+t) Takas riski: Bir menkul kıymet, döviz veya
+emtianın sözleşmede öngörülen fiyattan belli bir vadede teslimini konu alan
+ve her iki tarafın yükümlülüklerini vadede yerine getirmesini öngören
+işlemlerde, takas işleminin vade tarihinde gerçekleşmemesinden ötürü işleme
+konu menkul kıymet, döviz veya emtianın fiyat değişimleri nedeniyle bankanın
+maruz kalacağı zarar olasılığını,
+u) Teşkilatlanmış borsalar:
+Düzenli olarak faaliyet gösteren, faaliyetlerine, üyeliğe ve işlem görecek
+sözleşmelere ilişkin usul ve esaslar kurulduğu ülkenin yetkili otoriteleri
+tarafından belirlenmiş veya onaylanmış, takas mekanizması uyarınca işlem
+gören sözleşmeler için günlük teminat tamamlama yükümlülüğü bulunan
+borsaları,
+ü) Yenileme maliyeti: Sahip olunan varlığın, aynı
+işlev ve kullanım ömrüne sahip, verimlilik ve kârlılık gibi unsurlar
+bakımından benzer nitelikte olan diğer bir varlıkla ikame edilmesi için
+bilançonun düzenlendiği tarih itibarıyla katlanılması gereken maliyete eşit
+değeri
+ifade eder.
+İKİNCİ BÖLÜM
+Kredi Riskine Esas Tutarın Hesaplanması
+Kredi riskine esas tutar
+MADDE 4- (1) Kredi
+riskine esas tutar, bilanço içi varlıklar ile gayrinakdi krediler, taahhütler
+ve türev finansal araçlara ilişkin kredi riskine esas tutarların toplamından
+oluşur.
+(2) Aşağıda belirtilenler için kredi riskine esas
+tutar hesaplanmaz:
+a) Bankanın alım satım hesaplarında yer alan ve
+piyasa riskine esas tutarın tespit edilmesinde taşıdıkları spesifik risk için
+sermaye yükümlülüğü hesaplanan hisse senetleri, yatırım fonu ve katılma
+belgeleri ile getirisi faiz oranı ile ilişkilendirilmiş menkul kıymetler,
+b) Bankaların Özkaynaklarına İlişkin Yönetmelikte ana
+sermayeden ve sermayeden indirilen değer olarak dikkate alınan tutarlar,
+c) Teşkilatlanmış
+borsalarda alım satımı yapılan türev finansal araçlara ilişkin pozisyonlar.
+(3) Bilanço içi varlıklar ile gayrinakdi krediler,
+taahhütler ve türev finansal araçların kredi riskine esas tutarları, kredi
+eşdeğerlerine ek-2 ve ek-3’te yer alan Analiz Formlarında belirtilen risk
+ağırlıklarının uygulanması suretiyle hesaplanır.
+(4) Kredi eşdeğerleri;
+a) Katılma hesaplarından kullandırılan fonlar dışında
+kalan bilanço içi varlıklar bakımından bilançoda kayıtlı değerlerini, söz
+konusu fonlar bakımından ise bilançoda kayıtlı değerlerinin yüzde yetmişini,
+b) Gayrinakdi krediler ve taahhütlerle ile ilgili
+işlemler bakımından, varsa bu işlemler için Bankalarca Kredilerin ve Diğer
+Alacakların Niteliklerinin Belirlenmesi ve Bunlar İçin Ayrılacak Karşılıklara
+İlişkin Usul ve Esaslar Hakkında Yönetmeliğe istinaden ayrılan özel
+karşılıklar düşüldükten sonraki net tutarlarının 5 inci maddenin birinci
+fıkrasında belirtilen krediye dönüştürme oranları ile çarpıldıktan sonra
+bulunacak tutarlarını,
+c) Dövize, faiz oranına, altına dayalı türev finansal
+araçlar bakımından, bunların nominal değerlerinin 5 inci maddenin ikinci
+fıkrasında belirtilen krediye dönüştürme oranları ile çarpılmasından elde
+edilecek tutarları,
+ç) Hisse senedine ve emtiaya dayalı türev finansal
+araçlar bakımından bunların nominal değerlerinin 5 inci maddenin üçüncü
+fıkrasında belirtilen krediye dönüştürme oranları ile çarpılmasından elde
+edilecek tutara pozitif yenileme maliyetlerinin ilave edilmesi suretiyle
+bulunacak tutarları
+ifade eder.
+(5) Tükenme ve değer kaybı ile karşı karşıya olan
+varlıkların kredi eşdeğerleri ilgili amortismanlar ve karşılıklar düşüldükten
+sonra hesaplanır.
+(6) Yabancı ülkelerde bankacılık faaliyetinde bulunan
+bağlı ortaklık ve iştiraklerin yükümlülüklerine karşılık, yabancı ülke
+mercilerine ilgili ülke mevzuatı gereğince verilen sınırsız garanti
+niteliğini taşıyan taahhütlerin kredi sınırlarının hesaplanmasında esas
+alınan tutarı, dördüncü fıkranın (b) bendi uyarınca kredi eşdeğerinin
+hesabında dikkate alınacak özel karşılıklar öncesi değerini oluşturur.
+(7) Vadeli aktif değerler alım
+taahhütleri ve riski bankaya rücu edilebilen banka aktif değerleri ile ilgili
+satış işlemleri işleme konu varlığın risk ağırlığı ile ağırlıklandırılır.
+(8) Bilanço içi varlık, gayrinakdi kredi, taahhüt ve türev finansal
+araçların teminatlandırılmış olmaları durumunda, bunların sadece
+teminatlandırılmış kısımları teminatına göre risk ağırlığına tabi
+tutulabilir.
+(9) İlgili mevzuatta yapılan değişiklikler sonucu
+yeni tanımlanan kalemler ve yeni finansal araçlarla ilgili olarak henüz risk
+ağırlığı verilmemiş bulunanlar yüzde yüz risk ağırlığına tabi tutulur.
+Gayrinakdi
+krediler, taahhütler ve türev finansal araçların krediye dönüştürme oranları
+MADDE 5- (1) Gayrinakdi krediler ve taahhütlere aşağıda yer alan krediye
+dönüştürme oranları uygulanır:
+a) Yüzde yüz krediye dönüştürme oranı
+uygulanacak olan gayrinakdi krediler ve taahhütler;
+1) Nakit temini için verilen teminat mektupları,
+(Lehdarın üstlendiği bir finansal yükümlülüğün teminatı olarak verilen
+teminat mektupları)
+2) Aval verilen kabul kredileri,
+3) Cayılamaz garanti (teminat) akreditifleri ile teyitli
+ihracat akreditifleri,
+4) Ciro zincirinde herhangi bir bankanın yer almadığı
+cirolar,
+5) Faktoring garantileri,
+6) Teminat mektupsuz prefinansman kredilerine verilen garantiler,
+7) Riski bankaya rücu
+edilebilen banka aktif değerleri ile ilgili satış işlemleri,
+8) Yurt dışından temin edilen
+nakdi krediler için verilen garantiler,
+9) Vadeli aktif değerler alım
+taahhütleri,
+10) Vadeli mevduat satım
+taahhütleri,
+11) İştirak ve bağlı ortaklıkların
+sermayesine iştirak taahhütleri.
+b) Yüzde elli krediye
+dönüştürme oranı uygulanacak olan gayrinakdi
+krediler ve taahhütler;
+1) Nakit temini
+amacıyla verilenler dışında kalan diğer teminat mektupları,
+2) Menkul kıymet ihracında satın alma garantileri,
+3) Kullandırma garantili kredi tahsis taahhütleri,
+4) Menkul kıymet ihracına aracılık taahhütleri,
+5) Kredi kartı harcama limiti taahhütleri,
+6) Yüzde sıfır, yüzde yirmi ve
+yüzde yüz krediye dönüştürme oranı uygulanacak olanlar dışındaki
+akreditifler,
+7) Krediye dönüştürme oranı belirlenmemiş garanti ve
+kefaletler.
+c) Yüzde
+yirmi krediye dönüştürme oranı uygulanacak olan gayrinakdi krediler ve
+taahhütler;
+1) Çekler için ödeme taahhütleri,
+2) Teminatı ihraç veya ithal edilecek malın kendisi olan
+bir yıldan kısa vadeli ithalat ve ihracat akreditifleri,
+3) Yüzde sıfır krediye dönüştürme oranı uygulanacak
+olanlar dışında kalan cayılabilir taahhütler.
+ç) Yüzde sıfır krediye dönüştürme oranı uygulanacak olan gayrinakdi
+krediler ve taahhütler;
+1) Aval verilmemiş kabul kredileri,
+2) Lehdar adına ödeme yükümlülüğü bulunmayan
+akreditifler,
+3) Ciro zincirinde herhangi bir banka bulunan cirolar,
+4) İki güne kadar valörlü döviz alım satım taahhütleri,
+5) Aktif değerler satım taahhütleri, vadeli mevduat alım
+taahhütleri ve diğer cayılamaz taahhütler,
+6) Herhangi bir
+şarta bağlı kalmaksızın banka tarafından istenildiğinde iptali mümkün olan
+cayılabilir taahhütler.
+(2) Döviz, faiz oranı ve altına dayalı vadeli,
+futures ve swap alım satım sözleşmeleri ile satın alınan alım ve satım
+opsiyonlarına başlangıç vadelerine göre aşağıdaki tabloda belirtilen krediye
+dönüştürme oranları uygulanır.
+Başlangıç
+Vadesi
+Faiz
+Oranına Dayalı
+Döviz
+Kuruna ve Altına
+(Sözleşme
+Üzerindeki Vade)
+Sözleşmeler
+(%)
+Dayalı
+Sözleşmeler (%)
+İki Haftaya Kadar Vadeli
+0
+0
+Bir Yıl ve Daha Az Vadeli
+0,5
+2
+Bir Yıldan İki Yıla Kadar
+1
+5
+İki Yıldan Sonraki Her
+İlave Yıl İçin
+1
+3
+(3) Hisse senedine ve emtiaya dayalı
+vadeli, futures, swap alım satım sözleşmeleri ile satın alınan alım satım
+opsiyonlarına vadeye kalan sürelerine göre aşağıdaki tabloda belirtilen
+krediye dönüştürme oranları uygulanır.
+Vadeye
+Kalan Süre
+(Sözleşme
+Üzerindeki Vade)
+Hisse Senedine
+Dayalı Sözleşmeler (%)
+Kıymetli
+Madene
+Dayalı
+Sözleşmeler (%)
+Diğer
+Emtiaya Dayalı Sözleşmeler (%)
+Vadesine Bir Yıl veya
+Daha Az Kalmış Olanlar
+6
+7
+10
+Vadesine Bir Yıldan
+Beş Yıla Kadar Kalmış Olanlar
+8
+7
+12
+Vadesine
+Beş Yıldan Fazla Kalmış Olanlar
+10
+8
+15
+ÜÇÜNCÜ BÖLÜM
+Piyasa Riskine Esas Tutarın Hesaplanması
+Piyasa riskine esas tutar
+MADDE 6- (1) Piyasa riskine esas tutar, risk ölçüm modelleri veya
+standart metot ile hesaplanır.
+(2) Kurum tarafından kullanımına izin verilen bir
+risk ölçüm modeli bulunmayan, risk ölçüm modeli Kurumca yeterli görülmeyen ya
+da modellerinin yeterliliğinin ve güvenilirliğinin kaybolduğuna Kurumca
+kanaat getirilen bankalarca, piyasa riskine esas tutar, standart metoda göre
+hesaplanan genel piyasa riski, kur riski, spesifik risk, emtia riski, takas riski ve opsiyonlardan kaynaklanan piyasa
+riski için gerekli sermaye yükümlülükleri toplamının onikibuçuk
+ile çarpılması suretiyle bulunur.
+(3)
+Kurum tarafından kullanımına izin verilen bir risk ölçüm modeli bulunan
+bankalarca piyasa riskine esas tutar, riske maruz değere dayalı sermaye
+yükümlülüğünün onikibuçuk ile çarpılması suretiyle bulunur.
+(4) Piyasa riskine esas tutarın hesaplanmasında risk
+ölçüm modeli kullanımına ve risk ölçüm modeli ile piyasa riskinin
+hesaplanmasına ilişkin usul ve esaslar ile opsiyonlardan kaynaklanan piyasa
+riski için standart metoda göre sermaye yükümlülüğünün hesaplanmasına ilişkin
+usul ve esaslar bu Yönetmeliğe ilişkin Kurulca çıkarılacak Tebliğler ile
+düzenlenir.
+Getirisi faiz oranı ile
+ilişkilendirilmiş finansal araçlara ilişkin genel piyasa riski için sermaye
+yükümlülüğünün standart metot ile hesaplanması
+MADDE 7- (1) Bankanın
+alım satım hesapları içinde yer alan getirisi faiz oranı ile
+ilişkilendirilmiş finansal araçlara ilişkin faiz oranındaki değişikliklerden
+kaynaklanabilecek genel piyasa riski, bunlara ilişkin uzun ve kısa
+pozisyonların ek 4’te yer alan vade merdiveni tablosu üzerinde tasnif
+edilerek yerleştirilmesi suretiyle hesaplanır.
+(2) Vade merdiveni tablosu, Kurumca belirlenecek her bir para
+cinsinin Yeni Türk Lirası karşılığı bazında ayrı ayrı düzenlenir.
+(3) Sabit faizli menkul kıymetler, vadeye kalan sürelerine göre,
+değişken faizli menkul kıymetler ise yeniden fiyatlama tarihine kalan
+sürelere göre vade merdiveni tablosundaki vade dilimlerinden uygun olanına
+yerleştirilir.
+(4) Bir faiz swabı işleminde, değişken oranda faiz tahsil
+edilmesi ve sabit faiz ödenmesi durumunda, vade merdiveni tablosuna yeniden
+fiyatlama tarihine kadar olan vadede değişken faiz oranı üzerinden uzun
+pozisyon, swap sözleşmesinin kalan vadesinde ise sabit faiz oranı üzerinden
+kısa pozisyon yazılır.
+(5) Her bir vade dilimindeki uzun ve kısa pozisyonlar aşağıda
+belirtilen tabloda yer alan ilgili vade dilimindeki risk ağırlığı ile
+ağırlıklandırılır. Aynı vade dilimindeki ağırlıklandırılmış toplam kısa ve
+toplam uzun pozisyonlardan mutlak değer olarak küçük olanı üzerinden yüzde on
+dikey sermaye yükümlülüğü hesaplanır. Her bir vade dilimi için tek bir net
+pozisyon bulunması amacıyla bütün vade dilimlerindeki kısa ve uzun
+pozisyonlar netleştirilir.
+Vadeye Kalan Süre
+Risk Ağırlığı (%)
+Varsayılan
+Getiri Değişimi (%)
+I.ZAMAN ARALIĞI
+1 aydan daha az
+0,00
+1,00
+1 ile 3 ay arası
+0,20
+1,00
+3 ile 6 ay arası
+0,40
+1,00
+6 ay ile 12 ay arası
+0,70
+1,00
+II.ZAMAN ARALIĞI
+1 ile 2 yıl arası
+1,25
+0,90
+2 ile 3 yıl arası
+1,75
+0,80
+3 ile 4 yıl arası
+2,25
+0,75
+III.ZAMAN ARALIĞI
+4 ile 5 yıl arası
+2,75
+0,75
+5 ile 7 yıl arası
+3,25
+0,70
+7 ile 10 yıl arası
+3,75
+0,65
+10 ile 15 yıl arası
+4,50
+0,60
+15 ile 20 yıl arası
+5,25
+0,60
+20 yıl ve daha fazla
+6,00
+0,60
+(6) Elde edilen vade dilimlerinin net kısa ve uzun pozisyonları,
+her üç zaman aralığı için ayrı ayrı toplanır ve aynı zaman aralığı içinde
+ters yönlü pozisyonlar olması durumunda, bunların mutlak değer olarak küçük olanının
+mutlak değeri üzerinden I. zaman aralığı için yüzde kırk, II. ve III. zaman
+aralığı için yüzde otuz oranında Yatay Sermaye Gereksinimi-I hesaplanır.
+(7) Üç zaman aralığı içindeki kısa ve uzun pozisyonlar
+netleştirilerek her bir zaman aralığı için net pozisyonlar elde edilir.
+(8) Birbirine komşu zaman aralıklarında ters yönde pozisyonlar
+söz konusu ise bunlardan mutlak değer olarak küçük olanının mutlak değeri
+üzerinden yüzde kırk Yatay Sermaye Gereksinimi-II hesaplanır.
+(9) Birbirine komşu zaman aralıklarında ters yönlü pozisyonların
+bulunması nedeniyle denkleşen ve Yatay Sermaye Gereksinimi-II hesaplanan
+zaman aralığı pozisyonları netleştirilir. Eğer I ve II. Zaman Aralıkları
+netleştirilmişse bulunan yeni pozisyon değeri Zaman Aralığı I’in pozisyonu;
+II ve III. Zaman Aralıkları netleştirilmişse bulunan yeni pozisyon Zaman
+Aralığı III’ün pozisyonu olarak kabul edilir. Zaman Aralığı I ve III’e ait
+pozisyonların her ikisi de aynı yönde pozisyonlar ise toplamlarının mutlak
+değeri üzerinden yüzde yüz, biri kısa diğeri uzun pozisyon ise mutlak değeri
+küçük olanın mutlak değeri üzerinden yüzde yüz, her iki pozisyonun
+netleştirilmesinden elde edilen pozisyonun mutlak değeri üzerinden de yüzde
+yüz oranında Yatay Sermaye Gereksinimi -III hesaplanır.
+(10) Vade merdiveni tablosundaki tüm vade dilimlerinde veya
+zaman aralıklarında aynı yönde pozisyon bulunması durumunda bunların
+toplamının mutlak değeri üzerinden Yatay Sermaye Gereksinimi-III hesaplanır.
+(11) Dikey ve yatay sermaye gereksinimleri toplamı, getirisi
+faiz oranı ile ilişkilendirilmiş finansal araçlara ilişkin genel piyasa riski
+için gerekli olan sermaye yükümlülüğünü gösterir.
+Netleştirme
+MADDE 8- (1) Bankanın
+alım satım hesaplarında yer alan, aynı kişi tarafından, aynı döviz kuru,
+kupon ve vade üzerinden ihraç edilmiş benzer menkul kıymetler gibi birbiri
+ile denkleşen finansal araçların uzun ve kısa pozisyonlarının, vade merdiveni
+tablosuna yerleştirilmeden önce netleştirilmesine ilişkin usul ve esaslar
+Kurulca belirlenir.
+Getirisi faiz oranı ile ilişkilendirilmiş finansal
+araçlara ilişkin spesifik risk için sermaye yükümlülüğünün standart metot ile
+hesaplanması
+MADDE 9- (1) Net
+pozisyon tutarları üzerinden, alım satım hesapları içerisinde yer alan
+getirisi faiz oranı ile ilişkilendirilmiş menkul kıymetlerin türü ve kalan
+vadeleri dikkate alınarak aşağıdaki tablodaki oranlarda, spesifik risk için
+sermaye yükümlülüğü hesaplanır.
+Menkul Kıymet Türü
+Oran (%)
+Kamu Menkul Kıymetleri
+0.00
+Nitelikli Menkul
+Kıymetler:
+Vadeye Kalan Süresi 6 ay ve daha az
+olanlar
+0.25
+Vadeye Kalan Süresi 6 –24 ay olanlar
+1.00
+Vadeye Kalan Süresi 24 aydan uzun olanlar
+1.60
+Diğer Menkul Kıymetler
+8.00
+(2) Nitelikli menkul kıymetler,
+en az iki kredi derecelendirme kuruluşundan yatırım yapılabilir notu almış
+menkul kıymetlerden oluşur. Sadece bir kredi derecelendirme kuruluşundan
+yatırım yapılabilir notu almış veya hiç derecelendirilmemiş menkul kıymetler
+de, söz konusu menkul kıymetleri ihraç edenin teşkilatlanmış bir borsaya kote
+edilmiş menkul kıymetlerinin bulunması durumunda nitelikli menkul kıymet
+olarak kabul edilir.
+(3) Faiz ve
+döviz kuru swap işlemleri, forward faiz ve döviz işlemleri ve faiz oranı
+future işlemleri için spesifik risk hesaplanmaz. Future sözleşmelerinde
+işlemin dayandığı finansal araç, getirisi faiz oranı ile ilişkilendirilmiş
+bir menkul kıymet ise bu menkul kıymet için spesifik risk bu maddede
+belirtilen esaslara göre hesaplanır.
+Hisse senedi, yatırım fonu ve
+katılma belgesi pozisyonlarına ilişkin genel piyasa riski ve spesifik risk
+için sermaye yükümlülüğünün standart metot ile hesaplanması
+MADDE 10- (1) Bankalar, alım satım hesaplarında yer alan hisse
+senedi ve hisse senetlerindeki fiyat değişikliklerinden etkilenen finansal
+araçlar üzerinden spesifik risk ve genel piyasa riski için sermaye
+yükümlülüğünü;
+a) Münferit hisse senetleri
+ile ilişkilendirilmiş future ve vadeli işlemlerin cari piyasa fiyatlarını,
+b) Bir hisse senedi endeksi
+ile ilişkilendirilmiş future işlemlerde, işlemin dayanağını oluşturan hisse
+senedi portföyünün cari piyasa fiyatını
+esas alarak hesaplamak zorundadırlar.
+(2) Hisse senedi swap
+işlemlerinde, işlemin her bir ayağını oluşturan pozisyonlar ayrı ayrı
+değerlendirilir. Eğer swap işleminin ayaklarından bir tanesi sabit veya
+değişken faiz oranı ile ilişkilendirilmişse buna ilişkin pozisyon 7 nci maddede
+belirtilen usule uygun olarak faiz oranı riski için sermaye yükümlülüğünün
+hesabında dikkate alınır.
+(3) Hisse senetlerine ilişkin
+tutulan pozisyonlar ile spesifik ve genel piyasa riskleri için sermaye
+yükümlülükleri, her bir teşkilatlanmış borsa bazında ayrı ayrı hesaplanır.
+(4) Aynı şirket tarafından
+ihraç edilmiş hisse senetlerine ilişkin uzun ve kısa pozisyonlar netleştirildikten
+sonra hesaplamaya dahil edilir.
+(5) Hisse senetleri
+pozisyonlarının taşıdığı spesifik risk için ayrılması gereken sermaye
+yükümlülüğü, hisse senetlerine ilişkin kısa ve uzun pozisyonların mutlak
+değerleri toplamının yüzde sekizidir. Söz konusu oran, likit ve iyi çeşitlendirilmiş
+portföyler için yüzde dört olarak uygulanır. Aşağıdaki tabloda yer alan
+endekslere dayalı sözleşmeler için spesifik risk oranı yüzde iki, diğer
+endekslerin konu edildiği sözleşmeler için ise yüzde dört olarak alınır.
+ENDEKS
+ÜLKE
+İMKB-100
+Türkiye
+S & P 500
+A.B.D
+NIKKEI 225
+Japonya
+DAX
+Almanya
+FTSE 100 ve FTSE -Mid 250
+İngiltere
+CAC 40
+Fransa
+TSE 35
+Kanada
+SMI
+İsviçre
+OMX
+İsveç
+IBEX 35
+İspanya
+EOE 25
+Hollanda
+BEL 20
+Belçika
+ATX
+Avusturya
+(6) Yukarıdaki tabloda
+belirtilen endeksler içinde yer alan hisse senetlerinden oluşan portföyler;
+a) Bir hisse senedine ilişkin tutulan pozisyonun tutarı,
+her bir ülke pazarlarında tutulan pozisyon tutarının (ülke portföyünün) yüzde
+onunu aşmıyorsa,
+b) Ülke portföylerinin yüzde onunu aşmayan ve en az
+yüzde beşini oluşturan hisse senedi pozisyon tutarlarının toplamı, bankanın
+tüm hisse senedi portföyünün yüzde ellisini aşmıyorsa,
+likit ve iyi çeşitlendirilmiş kabul edilir.
+(7) Hisse senetleri
+pozisyonlarının taşıdığı genel piyasa riski için ayrılması gereken sermaye
+yükümlülüğü, hisse senetlerine ilişkin toplam uzun pozisyonlar ile toplam kısa
+pozisyonlar arasındaki farkın yüzde sekizidir.
+(8) Bankaların alım satım hesaplarında yer alan yatırım
+fonu ve katılma belgeleri, portföyde yer alan her bir varlığa ilişkin
+pozisyonun söz konusu varlığa ilişkin net pozisyon tutarına eklenmesi
+suretiyle spesifik risk ve genel piyasa riski için sermaye yükümlülüğü
+hesaplamalarına dahil edilir.
+Kur riski için sermaye
+yükümlülüğünün standart metot ile hesaplanması
+MADDE 11- (1) Bankalar, tüm döviz varlıkları ve yükümlülükleri ile
+kur riski içeren türev finansal araçları üzerinden kur riski için sermaye
+yükümlülüğü hesaplamak zorundadırlar. Özkaynak hesaplamasında ana sermayeden
+ve sermayeden indirilen yabancı para varlıklara ilişkin kur riski için
+sermaye yükümlülüğü hesaplanmaz.
+(2) Sermaye
+yükümlülüğünün hesaplanması amacıyla her bir döviz cinsinin Yeni Türk Lirası
+karşılıkları itibarıyla aktif ve pasif hesaplarda bulunan tüm döviz varlık ve
+yükümlülüklere ilişkin net pozisyon, döviz cinsinden cayılamaz nitelikli
+gayrinakdi kredilere ilişkin net pozisyon ve türev finansal araçlara ilişkin
+net pozisyon bulunur. Her bir döviz cinsi için hesaplanan net kısa
+pozisyonlar ve net uzun pozisyonlar ayrı ayrı toplanır ve bunlardan mutlak
+değer olarak büyük olanı ile mutlak değer olarak net altın pozisyonu toplamı
+üzerinden yüzde sekiz oranında sermaye yükümlülüğü hesaplanır.
+(3) Döviz cinsinden cayılamaz nitelikli gayrinakdi
+kredilere ilişkin net pozisyonun sermaye yükümlülüğü hesaplamasına dahil
+edilmesinde, henüz nakde dönüşmemiş yükümlülüğe ilişkin alacak hakkının,
+gayrinakdi krediyle aynı para cinsinden olması durumunda alacak tutarı, uzun
+pozisyon olarak dikkate alınır. Bununla beraber alacak hakkının farklı döviz
+cinsinden olması halinde alacak tutarı kendi döviz cinsinden uzun pozisyon
+olarak döviz varlıkları arasında gösterilir. Gayrinakdi kredilere ilişkin
+alacağın uzun pozisyon olarak dikkate alınmasında, alacak hakkının
+belgelenmesi ya da teminat altına alınmış olması esastır.
+(4) Gayrinakdi kredi borçlusunun kredi değerliliği ve
+ödeme yeteneği Bankalarca Kredilerin ve Diğer Alacakların Niteliklerinin
+Belirlenmesi ve Bunlar İçin Ayrılacak Karşılıklara İlişkin Usul ve Esaslar
+Hakkında Yönetmelik çerçevesinde belirlenir. Bu şekilde yapılan değerlendirme
+sonucunda net pozisyon hesaplamasında kullanılacak uzun pozisyon, gayrinakdi
+kredi müşterisinden doğacak alacak tutarından, varsa pasif hesaplar
+içerisinde kendisi için ayrılan özel karşılık tutarının çıkarılması ile
+bulunur.
+(5) Dövize endeksli varlık ve yükümlülükler, net pozisyon
+hesaplanmasında izlendikleri hesaba bakılmaksızın endekslendikleri döviz
+cinsinden döviz varlık ve yükümlülükleri olarak gösterilirler.
+(6) Her bir döviz cinsi
+itibarıyla;
+a) Netleştirilmemiş
+uzun pozisyonları toplam tutarı ile netleştirilmemiş kısa pozisyonları toplam
+tutarından mutlak değer olarak büyük olanın özkaynağının yüzde yüzünü,
+b) Netleştirilmemiş
+uzun pozisyonları toplam tutarı ile netleştirilmemiş kısa pozisyonları toplam
+tutarı arasındaki farkın da özkaynakların yüzde ikisini
+geçmemesi kaydıyla
+bankalar, bu oranların sağlandığı döneme ilişkin olarak kur riski için
+sermaye yükümlülüğü hesaplamayabilirler.
+(7) Özkaynak
+tutarını geçmemek ve takip edildiği dövizdeki net uzun pozisyonu aşmamak
+üzere, döviz ve dövize endeksli varlıklar bileşimini içeren yapısal uzun pozisyon
+tutarı bu Yönetmelikle getirilen kur riski için sermaye yükümlülüğünden
+muaftır. Söz konusu yapısal uzun pozisyonu oluşturan döviz ve dövize endeksli
+varlıklar için sermaye yükümlülüğü hesaplanmaz.
+(8) Yapısal pozisyon
+kapsamına girebilecek döviz ve dövize endeksli varlıklar, yapısal pozisyon
+sayılmanın gerektirdiği nitelikler ve yapısal pozisyona tanınan sermaye
+yükümlülüğü muafiyetinden yararlanma koşulları Kurulca belirlenir.
+Takas riski için sermaye yükümlülüğünün standart
+metot ile hesaplanması
+MADDE 12- (1)
+Bankalar, teslim tarihinde kendilerine teslim edilmemiş menkul kıymet (repo,
+ters repo ve menkul kıymet ödünç işlemlerine konu olanlar hariç olmak üzere),
+döviz veya emtianın sözleşmedeki fiyatının piyasa fiyatından düşük, teslim
+tarihinde teslim etmedikleri menkul kıymet veya emtianın sözleşmedeki
+fiyatının piyasa fiyatından yüksek olması halinde takas riski için sermaye
+yükümlülüğü hesaplamak zorundadır. Takas riski için sermaye yükümlülüğü, sözleşme
+fiyatı ile cari piyasa fiyatı arasındaki farkın mutlak değerinin aşağıdaki
+tabloda yer alan vadeden sonraki iş günü sayısına göre belirlenmiş oranlardan
+uygun olanının çarpılması suretiyle bulunur. Gerçekleşmeyen işlemin vade
+tarihini izleyen ilk dört günü bakımından takas riski için sermaye yükümlülüğü
+hesaplanmaz.
+Vadeden
+Sonraki İş Günü Sayısı
+Oran (%)
+5 ile 15 gün arası
+8
+16 ile 30 gün arası
+50
+31 ile 45 gün arası
+75
+46 ve daha fazla gün
+100
+Emtia riski için sermaye yükümlülüğünün standart metot
+ile hesaplanması
+MADDE 13- (1)
+Bankalar izlendikleri hesaba bakılmaksızın emtiaya dayalı türev finansal
+araçlar ve kıymetli madenler için emtia riski için sermaye yükümlülüğü
+hesaplamak zorundadır.
+(2) Emtiaya dayalı türev finansal araçlara ilişkin
+her bir pozisyon standart ölçüm birimi cinsinden ifade edilir.
+(3) Emtiaya dayalı türev finansal araçların kur riski
+veya faiz oranı riski içermesi durumunda emtia riskine ilaveten, kur riski
+veya faiz oranı risklerine karşı da sermaye yükümlülüğü hesaplanır.
+(4) Emtia riski her bir emtia cinsi üzerinden ayrı
+ayrı hesaplanır. Bir emtiaya ilişkin pozisyonun hesabında;
+a) Yükümlülüğün yerine getirilmesinde birbirleri
+yerine kullanılabilen aynı emtianın farklı alt ürünlerindeki pozisyonlar,
+b) Son bir yıllık sürede fiyat hareketleri arasındaki
+korelasyon en az onda dokuz olan ve birbirlerinin ikamesi niteliğindeki
+benzer emtialara ve bunlara dayalı sözleşmelere ilişkin pozisyonlar
+aynı emtiaya ilişkin pozisyon
+olarak kabul edilir.
+(5) Emtia riski için sermaye yükümlülüğü, emtiaya
+ilişkin net pozisyonun mutlak değerinin emtianın cari piyasa fiyatı ile
+çarpılması suretiyle bulunacak değerin yüzde onbeşi ile emtianın uzun ve kısa
+pozisyonlarının mutlak değerleri toplamının emtianın cari piyasa fiyatı ile
+çarpılması suretiyle bulunacak değerin yüzde üçünün toplanması suretiyle
+hesaplanır.
+DÖRDÜNCÜ BÖLÜM
+Operasyonel
+Riske Esas Tutarın Hesaplanması
+Operasyonel riske esas tutar
+MADDE 14- (1) Operasyonel
+riske esas tutar, temel gösterge yöntemi, standart yöntem veya alternatif
+yöntem ile hesaplanır. Söz konusu hesaplamada standart yöntem veya alternatif
+yöntemin kullanılabilmesi için Kurumdan izin alınması zorunludur.
+Temel gösterge yöntemi
+MADDE 15- (1) Bankanın
+son üç yıl itibariyla gerçekleşen yıl sonu brüt gelir tutarlarının yüzde
+onbeşinin ortalamasının onikibuçuk ile çarpılması suretiyle bulunacak değer,
+operasyonel riske esas tutar olarak dikkate alınır.
+(2) Yıllık brüt
+gelir, yıl sonu itibariyle gerçekleşen faiz gelirleri ile faiz dışı
+gelirlerin net tutarlarının toplamından oluşur. Bu tutara, karşılıklar,
+bankanın destek hizmeti aldığı kişi ya da kuruluşlara yapılan ödemeler de
+dahil olmak üzere faaliyet giderleri ilave edilir; satılmaya hazır ve vadeye kadar
+elde tutulacak menkul kıymetler hesaplarında izlenen menkul kıymetlerin
+satışından kaynaklanan kâr/zarar ile olağanüstü gelirler ve sigortadan tazmin
+edilen tutarlar düşülür.
+(3) İkinci fıkra
+çerçevesinde hesaplanacak yıllık brüt gelir tutarının negatif ya da sıfır
+olduğu yıla ilişkin brüt gelir tutarı hesaplamaya dahil edilmeksizin ortalama
+hesaplanır. Son üç yıl boyunca yıllık brüt gelir tutarının negatif ya da
+sıfır olması halinde operasyonel riske esas tutar hesaplanmaz.
+Standart yöntem ve uygulama kriterleri
+MADDE 16- (1) Standart
+yöntemde operasyonel riske esas tutar, yıllar itibariyle faaliyet kolları
+bazında bulunacak sermaye yükümlülüğü tutarları toplamının üç yıllık
+ortalamasının onikibuçuk ile
+çarpılması suretiyle bulunur. Yıllar itibariyle faaliyet kolları bazında
+sermaye yükümlülüğü toplamı, her bir faaliyet koluna ilişkin yıllık brüt
+gelirin aşağıdaki tabloda yer alan bu
+faaliyet kollarına karşılık gelen oranlar ile çarpılması suretiyle
+bulunacak değerlerin her bir yıl için ayrı ayrı toplanması suretiyle
+hesaplanır.
+Faaliyet Kolları
+Faaliyetler
+Oran (%)
+Kurumsal
+bankacılık
+Sermaye
+piyasası araçlarının ihracına, varlıkların menkul kıymetleştirilmesine, sendikasyon
+kredisi kullandırımlarına ve şirket birleşme ve devralmalarına yönelik
+danışmanlık ve aracılık hizmetleri ve bu kapsamda edinilen ortaklık payları
+ile kamu kurumlarına doğrudan ya da satın alınan borçlanma senetleri
+aracılığıyla verilen krediler ile perakende bankacılık faaliyet kolu
+dışında kalan mevduat veya katılım fonu kabulü,
+18
+Alım
+satım
+Para
+piyasası ve sermaye piyasası araçlarının alım ve satımı ile geri alım veya tekrar
+satım taahhüdü işlemleri, efektif dahil kambiyo işlemleri, kıymetli maden
+ile bunlara veya emtiaya dayalı sözleşmelerin alım satımı
+18
+Perakende
+bankacılık
+Bir milyon Euro veya
+muadili bir para karşılığı veya daha düşük tutarda olmak üzere, gerçek veya
+tüzel kişilere kullandırılan her türlü nakdi ve gayrinakdi krediler ile
+mevduat veya katılım fonu kabulü, kredi kartlarına dayalı işlemler
+12
+Perakende aracılık
+Kurumsal bankacılık dışındaki aracılık faaliyetleri
+12
+Ticari bankacılık
+Bir
+milyon Euro veya muadili bir para veya daha fazla bir tutarda nakdi ve
+gayrinakdi kredi kullandırımları, faktoring, forfaiting, finansal kiralama
+ve dış ticaret işlemleri
+15
+Takas
+ve ödemeler
+Fatura ödemelerine aracılık
+işlemleri, havale hizmetleri, takas hizmetleri
+18
+Acenta
+hizmetleri
+Sigorta
+acenteliği ve bireysel emeklilik aracılık hizmetleri ile kiralık kasa ve
+saklama faaliyetleri
+15
+Varlık
+yönetimi
+Fon
+yönetimi
+12
+(2) Herhangi bir yıla ilişkin faaliyet kolları
+bazında hesaplanan sermaye yükümlülüğü toplamının negatif olması halinde,
+yıllar itibariyle faaliyet kolları bazında bulunacak sermaye yükümlülüğü
+tutarları toplamının üç yıllık ortalamasının hesabında bu yıla ilişkin
+sermaye yükümlülüğü toplamı sıfır olarak dikkate alınır.
+(3)
+Kurum tarafından bu yöntemin kullanılabilmesi için izin verilmesinde;
+a) Banka yönetim kurulunca;
+1)
+Operasyonel
+risk yönetimine ilişkin politika ve uygulama
+usullerinin belirlenip belirlenmediği,
+2) Periyodik
+olarak operasyonel risk yönetimine ilişkin uygulamaların kontrol edilip
+edilmediği,
+b) Bankanın iç kontrol, iç denetim ve risk yönetim
+sistemlerinin yeterli olup olmadığı,
+c) Bankanın, mevcut
+faaliyetlerinden elde ettiği brüt gelirleri birinci fıkrada belirtilen
+faaliyetler ile eşleştiren yazılı muhasebe uygulamaları ya da talimatlarının
+olup olmadığı,
+ç) Bankanın bilgi sistemlerinin birinci fıkrada
+belirtilen faaliyetlerden kaynaklanan kâr ya da zararın düzenli bir şekilde
+takibine imkan sağlayacak yapıya sahip olup olmadığı
+dikkate alınır.
+(4) Üçüncü
+fıkranın (c) bendi uyarınca banka tarafından yapılacak brüt gelir tutarına
+ilişkin eşleştirmelerde;
+a) Birinci fıkrada
+belirtilen faaliyetler ile doğrudan eşleştirmenin mümkün olmadığı durumlarda,
+bu faaliyetlerden hangisini destekleyen bir faaliyet olduğu değerlendirilir
+ve o faaliyetten sağlanan gelire dahil edilir.
+b) Eğer birden
+fazla faaliyet konusundan sağlanan bir gelirse en büyük katkısı olan
+faaliyetten sağlanan gelir olarak hesaplamaya dahil edilir.
+Alternatif yöntem ve uygulama kriterleri
+MADDE
+17- (1) Alternatif yöntemde operasyonel riske esas tutar, 16 ncı
+maddenin birinci fıkrasında belirtilen perakende ve ticari bankacılık faaliyet kolları hariç olmak üzere, 16 ncı maddede belirtilen
+usul ve esaslar çerçevesinde hesaplanacak son üç yıla ilişkin yıllık brüt
+gelir tutarlarının ortalamasına, perakende ve ticari bankacılık
+kapsamındaki kredilerin ve diğer alacakların yıl sonu bakiyelerinden
+hareketle bulunacak son üç yıllık ortalamasının yüzde üçbuçuğu ilave edilerek bulunan değerin onikibuçuk
+ile çarpılması suretiyle hesaplanır.
+(2) Kuruma bu
+yöntemin kullanılabilmesi için yapılan izin başvurularına ilişkin
+değerlendirmede 16 ncı maddenin üçüncü fıkrasında belirtilen kriterler
+dikkate alınır. İzin başvurusunda bulunulabilmesi için, bankanın son üç yıl
+itibariyle 15 inci maddenin ikinci fıkrasında belirtilen usul ve esaslar
+çerçevesinde hesaplanacak yıllık brüt gelir tutarlarının en az yüzde
+doksanının perakende ve
+ticari bankacılık faaliyet kollarından elde edilmiş olması ve bu
+durumun bağımsız denetim raporu ile belgelendirilmesi zorunludur.
+BEŞİNCİ BÖLÜM
+Sermaye Yeterliliği Standart Oranı ve Konsolide Sermaye
+Yeterliliği Standart Oranı
+Sermaye yeterliliği standart oranı ve hesaplanması
+MADDE 18- (1) Sermaye yeterliliği standart oranının asgari
+yüzde sekiz olarak tutturulması ve idame ettirilmesi şarttır.
+(2) Sermaye yeterliliği standart oranı, ek-2’de yer
+alan Sermaye Yeterliliği Analiz Formunda belirtilen esaslara göre ek-1’de yer
+alan açıklamalar dikkate alınmak suretiyle hesaplanır. Sermaye yeterliliği
+standart oranının hesaplanmasında Kanuna istinaden yürürlüğe giren
+düzenlemelerde yer alan usul ve esaslara uygun olarak düzenlenen veriler
+kullanılır.
+Konsolide sermaye yeterliliği standart oranı ve
+hesaplanması
+MADDE 19- (1) Konsolide sermaye yeterliliği standart oranının
+asgari yüzde sekiz olarak tutturulması ve idame ettirilmesi şarttır.
+(2) Kanuna ve buna ilişkin alt düzenlemelere göre ana
+ortaklık niteliğine sahip olan ve konsolide mali tablolar hazırlama
+yükümlülüğü bulunan bankalarca, konsolidasyona tabi tutulan ortaklıklarının
+bilanço içi ve dışı hesapları konsolide mali tablo hazırlama esaslarına uygun
+olarak toplulaştırıldıktan ve eliminasyon işlemleri gerçekleştirildikten
+sonra, konsolide sermaye yeterliliği standart oranı, ek-3’te yer alan
+Konsolide Sermaye Yeterliliği Analiz Formunda belirtilen esaslara göre
+ek-1’de yer alan açıklamalar dikkate alınmak suretiyle hesaplanır.
+Toplulaştırılmış ve eliminasyon işlemleri gerçekleştirilmiş bilanço içi ve
+bilanço dışı hesapların kredi riskine esas tutarlarının hesaplanmasında
+ikinci bölümde, piyasa riskine esas tutarın hesaplanmasında üçüncü bölümde,
+operasyonel riske esas tutarın hesaplanmasında ise dördüncü bölümde belirtilen
+usul ve esaslar uygulanır.
+(3) Konsolidasyona tabi tutulan banka dışı mali
+kurumların faktoring alacakları ile çeşitli ikrazlarına ve vermiş oldukları
+ödünçlere ilişkin kalemler, söz konusu analiz formunda kredi kalemleri
+arasında gösterilir.
+Bildirim dönemi ve
+farklılaştırma yetkisi
+MADDE 20- (1) Sermaye yeterliliği standart oranına ve konsolide
+sermaye yeterliliği standart oranına ilişkin tablolar, Bankaların
+Özkaynaklarına İlişkin Yönetmelikte belirtilen özkaynak ve konsolide özkaynak
+hesaplama dönemleri itibarıyla düzenlenir ve en geç belirtilen tarihleri
+takip eden bir aylık süre içerisinde Kuruma gönderilir.
+(2) Kurul, bankaların iç
+sistemleri, aktif ve malî yapıları dikkate alınarak asgari sermaye
+yeterliliği oranı ile asgari konsolide sermaye yeterliliği standart oranının
+artırılmasını, banka bazında farklı oranların uygulanmasını ve hesaplama ve
+gönderilme dönemlerinin farklılaştırılmasını kararlaştırabilir.
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Oransal sınırlara uyumsuzluk
+MADDE 21- (1) Sermaye yeterliliği standart oranı ile konsolide
+sermaye yeterliliği standart oranından herhangi birinin asgari sınırın altına
+düşmesi halinde, hesaplama döneminden itibaren altı ayı geçmemek üzere
+Kurulca belirlenecek süre içerisinde asgari oran sınırlarının sağlanması
+zorunludur.
+(2) Yapılacak
+incelemelerde, bu Yönetmelikle düzenlenen standart oranların tutturulmasına yönelik
+fiktif işlem yapıldığının tespit edilmesi halinde, bu işlemlere karşılık
+gelen tutarlar geriye yönelik olarak varlık ve yükümlülüklerden düşülmek
+suretiyle ilgili döneme ilişkin standart oranlar yeniden hesaplanır.
+Özellik arz eden işlem, hesap ve finansal araçlar
+MADDE 22- (1) Özellik arz eden işlem, hesap ve finansal
+araçların konsolide ve konsolide olmayan sermaye yeterliliği standart
+oranlarının hesaplanmasında dikkate alınmalarına ilişkin usul ve esaslar tebliğlerle düzenlenir.
+Yürürlükten kaldırılan
+yönetmelik
+MADDE 23- (1) 31/1/2002
+tarihli ve 24657 sayılı Resmî Gazete’de
+yayımlanan Bankaların Sermaye Yeterliliğinin Ölçülmesine ve
+Değerlendirilmesine İlişkin Yönetmelik yürürlükten kaldırılmıştır.
+Geçici
+ve kesin teminat mektupları ile akreditifler
+GEÇİCİ
+MADDE 1- (1) Daha düşük risk
+ağırlığına tabi tutulabilecekler hariç olmak üzere, 1/1/2008 tarihine kadar
+ek-2 ve ek-3 uygulamasında;
+a) Geçici
+ve kesin teminat mektupları yüzde yirmi,
+b) Akreditifler yüzde elli
+oranında
+risk ağırlığına tabi tutulur.
+Yürürlük
+MADDE
+24- (1) Bu Yönetmeliğin 14, 15, 16
+ve 17 nci maddeleri 1/6/2007 tarihinde, diğer maddeleri yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE
+25- (1) Bu Yönetmelik hükümlerini
+Bankacılık Düzenleme ve Denetleme Kurumu Başkanı yürütür.
+Ekleri İçin Tıklayınız
