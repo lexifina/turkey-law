@@ -1,0 +1,81 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 221969,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Vakıflar Kanunu Tasarısı (1/1054)",
+  "title": "Vakıflar Kanunu Tasarısı (1/1054)",
+  "first_sitting_date": "2006-11-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 133,
+      "sitting": 13,
+      "sitting_date": "2006-11-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c133/tbmm22133013.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c133/tbmm22133fih.pdf",
+      "pages": [
+        "314:357"
+      ]
+    },
+    {
+      "cilt": 133,
+      "sitting": 14,
+      "sitting_date": "2006-11-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c133/tbmm22133014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c133/tbmm22133fih.pdf",
+      "pages": [
+        "548:724"
+      ]
+    },
+    {
+      "cilt": 134,
+      "sitting": 15,
+      "sitting_date": "2006-11-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c134/tbmm22134015.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c134/tbmm22134fih.pdf",
+      "pages": [
+        "34:43",
+        "45:103"
+      ]
+    },
+    {
+      "cilt": 134,
+      "sitting": 16,
+      "sitting_date": "2006-11-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c134/tbmm22134016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c134/tbmm22134fih.pdf",
+      "pages": [
+        "590:617",
+        "619:695"
+      ]
+    },
+    {
+      "cilt": 134,
+      "sitting": 17,
+      "sitting_date": "2006-11-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c134/tbmm22134017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c134/tbmm22134fih.pdf",
+      "pages": [
+        "812:881"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1277&v_gelecek_sayfa=1101&v_kullanici_id=27484575",
+  "source_sha256": "38d861f86b8ff50cfe2746672b8066d8ecd7bc2f019e68189fadea7593081d91",
+  "in_force": "2006-11-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
