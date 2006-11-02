@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-11-02",
+  "issue": "26334",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2006/11071 Türkiye Cumhuriyeti Hükümeti ile Birleşmiş Milletler Kalkınma Programı Arasında İmzalanan “İçişleri Bakanlığı Müfettişlerinin İnsan Hakları Konusunda Eğitimine Destek” Konulu Proje Dokümanı’nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/11/20061102-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/11/20061102.htm",
+  "index_sha256": "92c28cac1695665c58dcd2907542340e3ff26217271a5717e12a9477791b8232",
+  "index_header": "2 Kasım 2006 ... 26334 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
