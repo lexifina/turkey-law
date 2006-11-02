@@ -1,0 +1,3 @@
+Dayanak
+MADDE 3 – (Değişik: RG-02/11/2006-26334)
+Bu Tebliğ 2/3/2005 tarih ve 5307 sayılı "Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu ve Elektrik Piyasası Kanununda Değişiklik Yapılmasına Dair Kanunun Geçici 7. maddesine, 21/4/2005 tarih ve 5335 sayılı "Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun"un 28. maddesinin "u" bendine ve "5307 Sayılı Kanunda Değişiklik Yapılmasına Dair 24/6/2005 tarih ve 5374 sayılı Kanuna, 20/6/2006 tarih ve 5522 sayılı "Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu ve Elektrik Piyasası Kanununda Değişiklik Yapılmasına Dair Kanunda Değişiklik Yapılmasına İlişkin Kanun"a dayanılarak hazırlanmıştır.
