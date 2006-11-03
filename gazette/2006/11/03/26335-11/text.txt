@@ -1,0 +1,378 @@
+3 Kasım 2006 CUMA
+Resmî
+Gazete
+Sayı : 26335
+TEBLİĞ
+Bankacılık Düzenleme ve
+Denetleme Kurumundan:
+OPSİYONLARDAN
+KAYNAKLANAN PİYASA RİSKİ İÇİN STANDART
+METODA GÖRE SERMAYE YÜKÜMLÜLÜĞÜ
+HESAPLANMASINA İLİŞKİN TEBLİĞ
+BİRİNCİ BÖLÜM
+Amaç ve Kapsam, Dayanak ve Tanımlar
+Amaç ve kapsam
+MADDE
+1 – (1) Bu Tebliğ, opsiyonlardan
+kaynaklanan piyasa riski için bankaların standart metoda göre sermaye
+yükümlülüğünün hesaplanmasına ilişkin usul ve esasları belirlemek amacıyla
+düzenlenmiştir.
+Dayanak
+MADDE
+2 – (1) Bu Tebliğ, 19/10/2005
+tarihli ve 5411 sayılı Bankacılık Kanununun 43, 45 ve 93 üncü maddeleri ile
+1.11.2006 tarihli ve 26333 sayılı Resmî Gazete’de yayımlanan Bankaların
+Sermaye Yeterliliğinin Ölçülmesine ve Değerlendirilmesine İlişkin
+Yönetmeliğin 6 ncı maddesinin dördüncü fıkrasına
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE
+3 – (1) Bu Tebliğde yer alan;
+a) Alım opsiyonu: Opsiyonu alan
+tarafa, sözleşmenin vadesinde veya vadeye kadar olan süre içinde sözleşmeye
+konu varlığı, sözleşmede belirtilen fiyat ve miktardan satın alma hakkı
+veren opsiyonu,
+b) Banka: 5411 sayılı
+Bankacılık Kanununun 3 üncü maddesinde tanımlanan bankaları,
+c) Başabaş
+opsiyon: Sözleşmeye konu varlığın piyasa fiyatının opsiyonun kullanım
+fiyatına eşit olması durumu,
+ç) Delta: Opsiyonun piyasa
+fiyatının, opsiyon sözleşmesine konu varlığın piyasa fiyatında meydana
+gelebilecek değişmeye olan duyarlılığını,
+d) Faiz tabanı: Değişken faizli
+sözleşmeye konu varlığa uygulanacak faiz oranının alt limitini,
+e) Faiz tavanı: Değişken faizli
+sözleşmeye konu varlığa uygulanacak faiz oranının üst limitini,
+f) Gama: Opsiyon deltasının,
+opsiyon sözleşmesine konu varlığın piyasa fiyatında meydana gelebilecek
+değişmeye olan duyarlılığını,
+g) Genel piyasa riski oranı:
+Yönetmeliğin 7 ve 10 uncu maddelerinde yer alan ilgili pozisyon ve finansal araçlara ilişkin genel piyasa riski
+oranlarını,
+ğ) Kârda opsiyon: Sözleşmeye
+konu varlığın piyasa fiyatının opsiyonun kullanım fiyatıyla
+karşılaştırıldığında, opsiyon hakkını kullanmanın opsiyon sahibine kazanç
+sağladığı durumu,
+h) Kısa alım opsiyonu pozisyonu:
+Alım opsiyonunu satan tarafın pozisyonunu,
+ı) Kısa satım opsiyonu
+pozisyonu: Satım opsiyonunu satan tarafın pozisyonunu,
+i) Kullanım fiyatı: Sözleşmeye
+konu varlığın alım veya satım hakkının vade süresince veya vade sonunda
+kullanabileceği fiyatı,
+j) Kurum: Bankacılık Düzenleme
+ve Denetleme Kurumunu,
+k) Opsiyon primi/opsiyon
+fiyatı: Opsiyonu satın alan tarafın opsiyonu satan tarafa, sözleşmede yer
+alan hakları karşılığında yaptığı ödemeyi,
+l) Opsiyon sözleşmesi: Opsiyonu
+alan tarafa, önceden belirlenen fiyat, miktar ve nitelikte ekonomik veya finansal göstergeyi, para veya sermaye piyasası
+aracını, emtiayı veya dövizi, belirlenen vade sonunda (Avrupa tipi opsiyon) veya belirli bir
+vade süresi içinde herhangi bir zamanda (Amerikan tipi opsiyon) satın alma
+veya satma hakkı veren; opsiyonu satan tarafı ise yükümlü kılan sözleşmeyi,
+m) Opsiyonun gerçek değeri:
+Kârda opsiyonun kullanım fiyatı ile opsiyon sözleşmesine konu varlığın
+piyasa fiyatı arasındaki farkı,
+n) Ro:
+Opsiyonun piyasa fiyatının, faiz
+oranındaki değişime olan duyarlılığını,
+o) Satım opsiyonu: Opsiyonu
+alan tarafa, sözleşmenin vadesinde veya vadeye kadar olan süre içinde
+sözleşmeye konu varlığı, sözleşmede belirtilen fiyat ve miktardan satma
+hakkı veren opsiyonu,
+ö) Spesifik risk oranı:
+Yönetmeliğin 9 ve 10 uncu maddelerinde yer alan ilgili pozisyon ve finansal araçlara ilişkin spesifik risk oranlarını,
+p) Swaptions:
+Değişken faiz (sabit faiz) karşılığında sabit faiz (değişken faiz) elde
+etme hakkı veren opsiyon türünü,
+r) Teta:
+Opsiyonun piyasa fiyatının, zamana göre değişim oranını,
+s) Uzun alım opsiyonu
+pozisyonu: Alım opsiyonunu satın
+alan tarafın pozisyonunu,
+ş) Uzun satım opsiyonu
+pozisyonu: Satım opsiyonunu satın alan tarafın pozisyonunu,
+t) Vega:
+Opsiyonun piyasa fiyatının, opsiyon sözleşmesine konu finansal
+aracın piyasa fiyatının volatilitesindeki
+değişime olan duyarlılığını,
+u) Volatilite:
+Finansal varlıkların fiyat veya oranındaki
+dalgalanmaların büyüklük ve sıklık derecesinin ölçüsünü,
+ü) Yönetmelik: Bankaların
+Sermaye Yeterliliğinin Ölçülmesine ve Değerlendirilmesine İlişkin
+Yönetmeliği,
+v) Zararda-opsiyon: Sözleşmeye
+konu varlığın piyasa fiyatı opsiyonun kullanım fiyatıyla
+karşılaştırıldığında, opsiyon hakkını kullanmanın opsiyon sahibinin
+zararına yol açtığı durumu,
+ifade eder.
+İKİNCİ BÖLÜM
+Piyasa Riski İçin Standart Metoda
+Göre Sermaye Yükümlülüğünün Hesaplanması
+Genel esaslar
+MADDE
+4 – (1) Bu Tebliğ hükümleri
+uyarınca hesaplanacak sermaye yükümlülüğü, Yönetmeliğin 6 ncı maddesinin ikinci fıkrasına göre bulunacak standart
+metot ile piyasa riskine esas tutar hesaplamasına dahil edilir.
+(2) Opsiyon içeren ancak
+opsiyonun etkisi ihmal edilebilecek kadar küçük olan finansal
+araçlar bu Tebliğ hükümlerinden muaf tutulabilir. Dönüştürülebilir
+tahvil/bono gibi varlıklar özelliklerine göre tahvil, bono veya hisse
+senedi olarak değerlendirilebilir. Tahvil veya bonoyu çıkarana erken ödeme
+imkanı veren bir finansal araç normal bir
+borçlanma aracı olarak değerlendirilir ve en muhtemel ödeme zamanına göre
+ilgili vade diliminde yerini alır.
+(3) Opsiyon bileşeni baskın
+ise, sözleşmeye konu varlıklar aşağıda açıklanan iki yöntemden birine göre
+bileşenlerine ayrılır:
+a) Opsiyon ve sözleşmeye konu
+varlık şeklinde analitik bir ayrıma tabi tutulmak,
+b) Risk profili, opsiyon ve
+temel finansal araçlarla oluşturulacak sentetik
+bir portföy oluşturmak.
+Opsiyonların piyasa riskini ölçmede kullanılacak metotlar
+MADDE
+5 – (1) Opsiyonların piyasa
+riskini ölçmede kullanılabilecek alternatif metotlar aşağıda belirtildiği
+şekilde uygulanır:
+a) Sadece opsiyon sözleşmesi
+satın alan bankalar basitleştirilmiş metodu kullanabilirler.
+b) Opsiyon sözleşmesini ayrıca
+satan/yazan bankalar delta faktörü ile ağırlıklandırma
+metodunu veya senaryo metodunu kullanmak zorundadır.
+(2) Portföy faaliyetleri büyük
+ölçüde opsiyon alım-satımına dayalı olan bankaların daha gelişmiş metotları
+kullanmaları gerekmektedir.
+Basitleştirilmiş metot
+MADDE
+6 – (1) Sadece, sınırlı sayı ve
+çeşitte opsiyon sözleşmesini satın alan bankalar aşağıda yer alan tabloda
+belirtilen opsiyon pozisyonları ve ilgili sözleşmeye konu varlık
+pozisyonları için basitleştirilmiş metodu kullanabilirler. Sermaye
+yükümlülüğü, bankanın sahip olduğu her bir münferit opsiyon pozisyonu için
+hesaplanır. Bulunan rakam, opsiyon
+sözleşmesine konu varlığın türüne göre, standart metot ile hesaplanan
+ilgili sermaye yükümlülüğüne eklenir.
+Basitleştirilmiş Metot
+Pozisyon
+Uygulama
+Sözleşmeye
+konu varlığa ilişkin uzun pozisyon ve uzun satım opsiyonu
+veya
+Sözleşmeye
+konu varlığa ilişkin kısa pozisyon ve uzun alım opsiyonu
+Sermaye
+yükümlülüğü, sözleşmeye konu varlığın
+piyasa fiyatı ile spesifik ve genel piyasa riski oranları
+toplamının çarpımından, kârda opsiyonun gerçek değerinin çıkarılması suretiyle bulunur.
+Uzun
+alım opsiyonu
+veya
+Uzun satım opsiyonu
+Sermaye
+yükümlülüğü, aşağıdakilerden küçük olanıdır:
+§
+Sözleşmeye konu varlığın piyasa fiyatı ile spesifik ve
+piyasa riski oranları toplamının çarpımı
+§
+Opsiyonun piyasa fiyatı
+(2) Bu maddenin uygulanmasında,
+a) Sözleşmeye konu varlığın
+açıkça belirlenememesi durumunda opsiyonun uygulanması sonucunda elde
+edilecek varlık sözleşmeye konu varlık olarak kabul edilir.
+b) Faiz tavanı, faiz tabanı ve swaptions gibi piyasa değerinin sıfır olduğu durumlarda
+sözleşmeye konu varlığın piyasa fiyatı olarak nominal değerler kullanılır.
+c) Vadeye kalan süresi altı
+aydan fazla olan opsiyonlar için kullanım fiyatı, piyasa fiyatı yerine
+vadeli alım/satım fiyatı ile karşılaştırılır.
+ç) Opsiyonun piyasa fiyatının
+tespit edilememesi halinde, piyasa fiyatı yerine opsiyonun kayıtlı değeri
+kullanılabilir.
+d) Sözleşmeye konu varlığın
+döviz veya emtia olması halinde, sermaye yükümlüğünün hesaplanmasında
+spesifik ve genel piyasa riski oranları toplamı yerine, döviz için yüzde
+sekiz, emtia için yüzde onbeş oranları uygulanır.
+Delta faktörü ile ağırlıklandırma metodu
+MADDE
+7 – (1) Opsiyon yazıcısı bankalar,
+delta faktörü ile ağırlıklandırılmış opsiyon
+pozisyonlarını Yönetmeliğin genel piyasa riski ve spesifik risk için
+sermaye yükümlülüğünün hesaplanmasına ilişkin maddelerinde yer alan
+hesaplamalara dahil ederler. Bu opsiyonlar, sözleşmeye konu varlığın piyasa
+fiyatı ile deltanın çarpımı sonucunda ortaya çıkan rakama eşit pozisyon
+olarak hesaplamalarda ve raporlamalarda yer alır. Spesifik riske ilişkin
+sermaye yükümlülüğü, her bir opsiyonun delta eşdeğerinin, spesifik risk
+oranı ile çarpılması suretiyle bulunur.
+(2) Delta duyarlılığının
+opsiyon pozisyonunun tüm risklerini kapsamakta yeterli olmaması nedeniyle,
+sermaye yükümlülüğünü hesaplamak üzere ayrıca gama ve vega
+duyarlılıkları da ölçülür.
+(3) Gama ve vega
+duyarlılıkları, opsiyonun işlem gördüğü borsa tarafından tescil edilmiş bir
+model veya bankanın opsiyon fiyatlama modeli çerçevesinde hesaplanır.
+(4) Borçlanma senetleri veya
+faiz oranına bağlı finansal araçların delta
+ağırlıklı pozisyonları Yönetmeliğin 7 nci
+maddesinde yer alan tabloda ilgili vade dilimine diğer türev finansal araçlarda olduğu gibi, işleme konu finansal sözleşmenin işleme konulduğu tarihteki ve
+sözleşmenin vadesinin geldiği tarihteki durumu dikkate alınmak suretiyle
+uzun ve kısa pozisyon olarak yerleştirilir.
+(5) Faiz tavanı ve faiz tabanı
+içeren değişken faizli finansal araçlar, değişken
+faizli finansal araç ve Avrupa tipi opsiyon
+serilerinin kombinasyonu olarak değerlendirilir.
+(6) Sözleşmeye konu varlık
+hisse senedi ise, sermaye yükümlülüğü, delta-ağırlıklı pozisyonlar
+üzerinden hesaplanır. Söz konusu pozisyonlar için Yönetmeliğin 10 uncu
+maddesindeki usul ve esaslar çerçevesinde spesifik riske ve genel piyasa
+riskine esas sermaye yükümlülüğü hesaplanır. Ülkelerin farklı
+teşkilatlanmış borsalarında işlem gören opsiyonların nitelikleri aynı olsa
+bile bu hesaplamada ayrı araçlar olarak değerlendirilir.
+(7) Sözleşmeye konu varlık
+emtia ise, sermaye yükümlülüğü delta ağırlıklı pozisyonlar üzerinden
+Yönetmeliğin 13 üncü maddesindeki usul ve esaslar çerçevesinde hesaplanır.
+(8) Yabancı para ve altın
+pozisyonlarına dayalı opsiyonlara ilişkin kur riski için sermaye
+yükümlülüğü Yönetmeliğin 11 inci maddesindeki usul ve esaslara göre
+hesaplanır. Yabancı para ve altına dayalı opsiyonların net delta eşdeğeri,
+ilgili döviz veya altın pozisyonuna ilişkin riskin ölçümüne dahil edilir.
+(9) Kurum, vadesine az kalmış başabaş opsiyonları kullanan bankalardan iç kontrol, iç
+denetim ve risk yönetim sistemlerinin yeterliliklerini dikkate almak
+suretiyle, senaryo metodunun veya içsel modellerin kullanılmasını
+isteyebilir. Kurum bu yetkisini aynı esaslar çerçevesinde, vadesine kalan
+süreye bağlı olmaksızın opsiyon türleri bazında da kullanabilir.
+Gama ve vega risklerinin hesaplanması
+MADDE
+8 – (1) Delta riskinden
+kaynaklanan ve 7 nci maddede açıklanan sermaye
+yükümlülüklerine ilâve olarak, gama ve vega
+riskleri karşılığında ayrıca sermaye yükümlülüğü hesaplanır. Delta ile ağırlıklandırma metodunu kullanan bankalarca her bir
+pozisyon için bu riskler ayrı ayrı hesaplanır.
+Söz konusu riskler için sermaye yükümlülüğü aşağıda belirtildiği şekilde
+hesaplanır:
+a) Her bir münferit opsiyon
+için gama etkisi;
+1) GE: Gama Etkisini
+2) FD: Fiyat Değişimini
+(Opsiyon sözleşmesine konu varlığın fiyatındaki değişim)
+ifade etmek üzere aşağıdaki formül
+ile bulunur:
+Gama Etkisi = 1/2 x Gama x
+(FD)2
+b) Fiyat değişimi aşağıdaki
+şekilde hesaplanır.
+1) Faiz oranı opsiyonları için,
+sözleşmeye konu araç eğer bir tahvil/bono ise, sözleşmeye konu aracın
+piyasa değeri, Yönetmeliğin 7 nci maddesinde yer
+alan vadelere ait risk ağırlıkları ile çarpılır. Sözleşmeye konu varlık,
+getirisi faiz oranı ile ilişkilendirilmiş bir araç ise, eşdeğer bir
+hesaplama yine Yönetmeliğin 7 nci maddesinde yer
+alan tablodaki varsayılan getiri değişimleri dikkate alınarak yapılır.
+2) Hisse senedi ve hisse senedi
+endeks opsiyonları için, sözleşmeye konu varlığın piyasa değeri yüzde sekiz
+ile çarpılır.
+3) Yabancı para ve altın
+opsiyonları için, sözleşmeye konu varlığın piyasa değeri yüzde sekiz ile
+çarpılır.
+4) Emtiaya dayalı opsiyonlar
+için, sözleşmeye konu emtianın piyasa değeri yüzde onbeş
+ile çarpılır.
+c) Aşağıda belirtilen kalemlere
+ilişkin pozisyonlar, söz konusu hesaplamada, birbiriyle aynı sözleşmeye
+konu varlık olarak değerlendirilir:
+1) Faiz oranları için,
+Yönetmeliğin 7 nci maddesindeki tabloda
+belirtilen her bir vade dilimi,
+2) Hisse senedi ve hisse senedi
+endeksleri için, her bir ülke piyasası,
+3) Yabancı para ve altın için,
+her bir yabancı para çifti ve altın,
+4) Emtia için, her bir emtia
+cinsi.
+ç) Aynı varlığa dayalı her bir
+opsiyon pozitif veya negatif bir gama etkisine sahiptir. Her bir finansal araç için, münferit gama etkileri toplanarak,
+pozitif veya negatif olan net gama etkisi bulunur. Bunlardan sadece negatif
+olan net gama etkileri sermaye hesaplamasına dahil edilir. Toplam gama
+sermaye yükümlülüğü olarak, net negatif gama etkilerinin mutlak değerleri
+toplamı alınır.
+d) Volatilite
+riski için bankalar, aynı varlığa dayalı opsiyonlara ait vegaların toplamının volatilitenin
+± yüzde yirmibeş oranında nisbi
+kayması ile çarpılması yoluyla sermaye yükümlülüğünü hesaplar.
+e) Vega
+riski için toplam sermaye yükümlülüğü olarak, vega
+için hesaplanan münferit sermaye yükümlülüklerinin mutlak değerlerinin
+toplamı alınır.
+Senaryo metodu
+MADDE
+9 – (1) Gelişmiş opsiyon
+teknikleri kullanan ve/veya karmaşık opsiyon portföylerine sahip bankalar,
+opsiyonlar için piyasa riskleri karşılığında bulundurmaları gereken sermaye
+tutarını hesaplarken, senaryo metodu kapsamında senaryo matrisi analizini
+kullanabilirler. Bu metoda göre bankalar, sermaye yükümlülüğünü hesaplamak
+amacıyla, opsiyonun dayandığı sözleşmeye konu varlığın fiyatı/oranı ile
+bunların volatilitesi gibi risk faktörlerindeki
+eşanlı değişimler için matris kullanarak, opsiyon portföylerinin yeniden
+değerlemesini yaparlar. Bu işlem, opsiyon portföyündeki risk faktörlerine
+ilişkin sabit değişim aralıkları belirlenerek ve daha sonra matris üzerinde
+yer alan muhtelif noktalardaki portföy değeri değişimleri dikkate alınarak
+gerçekleştirilir.
+(2) Her bir münferit sözleşmeye
+konu araç için ayrı bir matris oluşturulur. Opsiyon alım-satımı yoğun olan
+bankalar, alternatif olarak, faiz oranı opsiyonları için yapacakları
+hesaplamalarında, asgari altı ayrı vade dilimini esas alırlar. Bu metodu
+uygularken Yönetmeliğin 7 nci maddesinde bulunan
+tabloda yer alan vade dilimlerinin en fazla üç tanesi aynı grup içine
+yerleştirilir.
+(3) Opsiyon pozisyonları
+sözleşmeye konu varlığın piyasa fiyatının altında ve üstünde belirli bir
+bant içinde olmak üzere değerlendirilir. Bu işlem, matris hazırlamanın ilk
+aşamasını oluşturur. Faiz oranı için bu bant, Yönetmeliğin 7 nci maddesinde bulunan tabloda varsayılan getiri
+değişimi ile tutarlı olmalıdır. Faiz oranı opsiyonları için yukarıdaki
+alternatif metodu kullanan bankalar, hesaplamada, aynı gruba dahil edilen
+her bir vade dilimine ait varsayılan getiri değişimlerinin en büyüğünü
+kullanırlar. Hisse senedi, yabancı paralar ve altın için değişim aralığı ±
+yüzde sekiz, emtia için ± yüzde onbeştir. Bütün
+risk kategorileri için, cari gözlem dahil olmak üzere en az yedi eşit
+gözlem aralığı kullanılır.
+(4) Matris hazırlamanın ikinci
+aşaması, sözleşmeye konu varlık fiyatının volatilitesindeki
+değişime ilişkindir. Sözleşmeye konu varlığın fiyatındaki volatilitenin ± yüzde yirmibeş
+oranında kaymasının dikkate alınması yeterli olmaktadır. Bununla birlikte
+Kurum gerekli gördüğü takdirde volatilitede
+farklı bir değişimin ya da bir oranın
+kullanılmasını ve/veya matriste ara seviyelerde belirlenecek noktalarda
+hesaplama yapılmasını isteyebilir.
+(5) Matrisin hesaplanmasını
+müteakip her bir hücre, opsiyon ve sözleşmeye konu korunma aracının net
+kâr/zararını içerir. Her bir sözleşmeye konu varlık için sermaye
+yükümlülüğü, matrisin içerdiği en büyük kayıp olarak dikkate alınır.
+(6) Spesifik riske ilişkin
+sermaye yükümlülüğü, her bir opsiyonun delta eşdeğerinin, Yönetmeliğin 9 ve
+10 uncu maddelerinde yer alan ilgili spesifik risk ağırlığıyla çarpılması
+suretiyle bulunur.
+(7) Bankanın senaryo metodunu
+kullanabilmesi, Kurumun uygun görüşüne, özellikle bu metoda ilişkin
+analizde aranılacak unsurların ve şartların mevcudiyetine ve Kurumca
+yeterli görülmesine bağlıdır. Bu itibarla bankaların, standart metodun bir
+parçası olarak senaryo metodunu kullanabilmeleri Kurumun iznine tabi olup,
+piyasa riskine esas tutarın risk ölçüm modeli ile hesaplanmasında risk
+ölçüm modelleri için aranan nicelik ve nitelik standartları çerçevesinde
+değerlendirmeye tabidir.
+(8) Yukarıda ifade edilen
+risklerin yanı sıra, opsiyonlar teta, ro gibi riskleri de içerir. Anılan riskler kullanılan değerleme
+modellerinde ve risk yönetim sistemlerinde yer almasa da önemli ölçüde
+opsiyon portföyü olan bankaların bu riskleri de yakından izlemeleri ve
+nasıl izlediklerini Kuruma bildirmeleri gereklidir.
+ÜÇÜNCÜ
+BÖLÜM
+Son Hükümler
+Yürürlük
+MADDE
+10 – (1) Bu Tebliğ yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE
+11 – (1) Bu Tebliğ hükümlerini
+Bankacılık Düzenleme ve Denetleme Kurumu Başkanı yürütür.
