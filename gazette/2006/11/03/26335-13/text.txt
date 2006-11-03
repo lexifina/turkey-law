@@ -1,0 +1,544 @@
+3 Kasım 2006 CUMA
+Resmî
+Gazete
+Sayı : 26335
+TEBLİĞ
+Bankacılık Düzenleme ve
+Denetleme Kurumundan:
+RİSK
+ÖLÇÜM MODELLERİ İLE PİYASA RİSKİNİN HESAPLANMASINA VE
+RİSK ÖLÇÜM MODELLERİNİN
+DEĞERLENDİRİLMESİNE
+İLİŞKİN TEBLİĞ
+BİRİNCİ BÖLÜM
+Amaç ve Kapsam, Dayanak ve Tanımlar
+Amaç ve kapsam
+MADDE
+1 – (1) Bu Tebliğ, bankaların,
+piyasa riskinin hesaplanmasında kullanacakları risk ölçüm modellerine
+ilişkin standartlar ile risk ölçüm modellerinin değerlendirilmesine ve risk
+ölçüm modelleri ile piyasa riskinin hesaplanmasına ilişkin usul ve esasları
+belirlemek amacıyla düzenlenmiştir.
+Dayanak
+MADDE
+2 – (1) Bu Tebliğ, 19/10/2005
+tarihli ve 5411 sayılı Bankacılık Kanununun 43, 45 ve 93 üncü maddeleri ile
+1/11/2006 tarihli ve 26333 sayılı Resmî Gazete’de yayımlanan Bankaların
+Sermaye Yeterliliğinin Ölçülmesine ve Değerlendirilmesine İlişkin
+Yönetmeliğin 6 ncı maddesinin dördüncü fıkrasına
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE
+3 – (1) Bu Tebliğde yer alan;
+a) Banka: 5411 sayılı
+Bankacılık Kanununun 3 üncü maddesinde tanımlanan bankaları,
+b) Geriye dönük test: Bankaların kullandıkları risk ölçüm
+modellerinin doğruluğunu ve performansını ölçmek amacıyla uyguladıkları
+testi,
+c) Kurum: Bankacılık Düzenleme
+ve Denetleme Kurumunu,
+ç) Olay riski: Faiz oranları,
+hisse senedi fiyatları ve döviz kurlarında büyük orandaki değişmeler
+nedeniyle portföy değerinde meydana gelebilecek azalış riskini,
+d) Riske maruz değer: Elde
+tutulan bir portföy ya da varlık değerinin, faiz
+oranlarında, döviz kurlarında ve hisse senedi fiyatlarındaki dalgalanmalar
+nedeniyle meydana gelebilecek değişiklikler sonucunda maruz kalabileceği en
+yüksek zararı, belli bir zaman diliminde ve belli bir olasılık seviyesinde
+ifade eden ve muhtelif sayısal yöntemlerle tahmin edilen değeri,
+e) Sapma sayısı: Belli bir
+dönem içinde faiz oranları, hisse senedi fiyatları ve döviz kurlarındaki
+değişmeler nedeniyle portföy değerinde oluşan günlük zararın, yapılan
+karşılaştırma neticesinde bankanın risk ölçüm modeli ile tahmin edilen
+günlük "riske maruz değer"in üzerinde olduğu durum sayısını,
+f) Stres testi: Bir portföyün
+maruz kalabileceği beklenmeyen risklere karşı potansiyel dayanıklılığını
+ölçmeye yönelik muhtelif tekniklerin tümünü,
+g) Yönetmelik: Bankaların
+Sermaye Yeterliliğinin Ölçülmesine ve Değerlendirilmesine İlişkin
+Yönetmeliği,
+ifade eder.
+Risk ölçüm modeli kullanımına ilişkin temel esaslar
+MADDE
+4 – (1) Risk ölçüm modeli, risk
+yönetiminde ve piyasa riski için yasal sermaye gereksinimini belirlemede
+kullanılır.
+(2) Bankalar önemli zararların
+ortaya çıkmasına sebep olabilecek, risk ölçüm modelindeki hata ve
+eksikliklerden kaynaklanabilecek model riski ile risk ölçüm modelinin
+sonuçlarının karar mekanizmalarına dahil edilmesindeki hata ve
+eksikliklerden kaynaklanabilecek yorumlama riskine karşı gerekli tüm
+tedbirleri alırlar. Risk ölçüm modelinin kullanımından dolayı
+karşılaşılabilecek risk ve zararın tamamı bankanın sorumluluğundadır.
+(3) Risk ölçüm modeline ilişkin
+yazılım ve kodlar üzerinde değişiklik yapılmasında ve kullanım sürecinde,
+etkin iç kontrollerin tesisi ve yazılımlara erişimde azami güvenlik
+tedbirlerinin uygulanması zorunludur.
+(4) Bankalar risk ölçüm
+teknikleri ve uygulamalarındaki yeni gelişmelere bağlı olarak risk ölçüm
+modellerinde ihtiyaç duyulan değişiklikleri yapmakla yükümlüdürler.
+İKİNCİ BÖLÜM
+Risk Ölçüm Modellerine İlişkin
+Standartlar
+Genel standartlar
+MADDE
+5 – (1) Kurum tarafından piyasa
+riskleri karşılığında bulundurulması gereken sermaye yükümlülüğünün
+hesaplanmasında risk ölçüm modeli kullanılmasına izin verilebilmesi için,
+a) Bankanın, Bankaların İç
+Sistemleri Hakkında Yönetmelikte yer alan usul ve esaslarla uyumlu iç
+kontrol, iç denetim ve risk yönetim sistemlerinin bulunması,
+b) Bağımsız denetçiler
+tarafından risk ölçüm modelinin işleyişinin ve ürettiği sonuçların
+doğruluğunun onaylanmış olması,
+c) Risk ölçüm modelinin, teorik
+olarak sağlam temellere dayanması, bu Tebliğde belirtilen usul ve esaslar
+ile uyumlu, basiretli bir biçimde uygulanabilir ve güvenilir olması,
+ç) Risk ölçüm modellerini
+kullanacak ve değerlendirecek personelin yeterli sayı ve nitelikte olması,
+d) Risk ölçümünün doğruluğuna
+esas teşkil edecek sağlıklı ve güvenilir veri ve kayıt sisteminin
+bulunması,
+e) Risk ölçüm modelinin en az
+bir yıl süreyle bankada kullanılmış, son bir yıllık döneme ilişkin olarak
+risk ölçüm modelinin ürettiği riske maruz değer, stres testi ve geriye
+dönük test sonuçlarının Kuruma raporlanmış olması,
+f) Düzenli olarak stres
+testleri ve geriye dönük test uygulanıyor ve stres testi sonuçlarının banka
+üst düzey yönetimi tarafından değerlendiriliyor ve politikaların ve
+limitlerin belirlenmesinde kullanılıyor olması,
+g) Risk ölçüm modelinin günlük
+risk yönetim sürecinin bir parçasını teşkil etmesi,
+ğ) Risk ölçüm modelinin yazılı
+olarak ayrıntılı bir şekilde açıklanmış olması,
+şarttır.
+Risk ölçüm modelinin onaylanması
+MADDE
+6 – (1) Risk ölçüm modelinin,
+modelin geliştirme ve değiştirilme aşamalarında, bağımsız denetçiler
+tarafından teorisi, dayandığı varsayımlar ve kullanılan verinin, işleyişi
+ve ürettiği sonuçların doğruluğu konusunda onaylanmış olması zorunludur.
+Modelin banka dışında oluşturulması halinde de bu onayın alınması gereklidir.
+(2) Modele onay verilmesi,
+modelin muhtelif testlere tabi tutulması ve sonuçlarının değerlendirilmesi
+suretiyle gerçekleştirilir.
+(3) Modelin onaylanmasında,
+asgari olarak,
+a) 10 uncu maddede belirtilen
+süreden az olmamak kaydıyla belirlenecek süreler kullanılarak yapılan
+geriye dönük testler,
+b) Modelde 7 nci maddede belirtilen güven aralığından farklı bir
+güven aralığı kullanmasına yönelik testler,
+c) Modelde kullanılan
+varsayımların uygunluğu ve riskin fazla ya da
+eksik ölçülmediğine ilişkin testler,
+ç) Varsayımsal portföyler
+oluşturularak yapılan testler,
+kullanılır.
+Riske maruz değerin hesaplanması
+MADDE
+7 – (1) Risk ölçüm modeli ile
+riske maruz değer tek taraflı yüzde doksandokuz
+güven aralığı kullanılmak suretiyle günlük olarak hesaplanır. Riske maruz
+değer hesabında kullanılacak en az elde tutma süresi on işgünüdür.
+Bankalar, zamanın karekökü kuralından hareketle on işgününe ölçeklendirmek
+suretiyle on günden daha kısa ya da daha uzun
+elde tutma sürelerini dikkate alarak hesapladıkları riske maruz değer
+rakamlarını kullanabilirler.
+(2) Bankalar, riske maruz
+değerin hesabında, maruz kaldıkları tüm piyasa risklerini kapsaması
+kaydıyla "Varyans-Kovaryans",
+"Tarihi Simülasyon" ve "Monte Carlo
+Simülasyonu" yöntemlerinden birini kullanabilirler.
+Risk ölçüm modeline opsiyon işlemlerinden kaynaklanan risklerin
+dahil edilmesi
+MADDE
+8 – (1) Risk ölçüm modeli,
+doğrusal olmayan fiyat hareketleri içeren opsiyonlar ve opsiyon benzeri
+özellik gösteren finansal araçlara özgü riskleri
+opsiyon pozisyonlarına ilişkin fiyat ve oranların volatilitelerini
+ölçebilmelidir.
+(2) Büyük ölçüde opsiyon
+portföyüne sahip bankalar, opsiyona konu varlıkların farklı vadelerdeki volatilitelerini detaylı olarak belirleyebilmelidir.
+Stres testleri
+MADDE
+9 – (1) Piyasa riskine esas
+sermaye yükümlülüğünün hesabında, risk ölçüm modellerini kullanan bankalar,
+düzenli olarak ayrıntılı bir stres testi programı uygulamak zorundadırlar.
+(2) Bankaların stres testleri,
+bankanın alım-satım hesaplarında olağanüstü kazanç ya
+da kayba sebep olabilecek ya da riskin yönetimini
+güçleştirecek faktörleri kapsar. Bu faktörler piyasa riski, kredi riski, operasyonel risk, likidite riski ve yoğunlaşma riski
+dahil olmak üzere tüm ana riskleri etkileyen, gerçekleşme ihtimali düşük ancak
+zarar boyutu büyük olabilecek olayları içerir. Stres testleri doğrusal ve
+doğrusal olmayan fiyat özelliklerine sahip pozisyonlar için de uygulanır.
+(3) Stres testleri, bankanın
+sermaye düzeyinin muhtemel büyük kayıpları karşılayabilme imkanını ölçmeye,
+riski azaltıcı ve sermayeyi koruyucu tedbirleri ortaya koymaya yönelik
+olarak uygulanır. Bankalar, Kurum tarafından portföy veya finansal araç bazında gerekli görülen stres
+senaryolarını da stres testi programlarına dahil etmek zorundadır.
+Geriye dönük test
+MADDE
+10 – (1) Bankalar, kullandıkları
+risk ölçüm modellerinin doğruluğunu ve performansını ölçmek amacıyla, risk
+unsurlarında meydana gelebilecek değişmelerden dolayı geçmiş ikiyüzelli işgünü içerisinde portföy değerlerinde
+gerçekleşen komisyonlar ve faiz gelirleri hariç olmak üzere günlük kazanç
+ve kayıplarını, risk ölçüm modelleri ile tahmin ettikleri günlük riske
+maruz değer rakamlarıyla karşılaştırmak suretiyle sapma sayısını tespit
+etmek zorundadırlar. Geriye dönük test amacıyla riske maruz değer
+hesaplanırken, bir günlük elde tutma süresi dikkate alınır.
+(2) Bankalar varsayımsal
+portföyü esas alarak da geriye dönük test uygulamak zorundadır. Bu testte,
+gün sonundaki banka pozisyonu esas alınır ve gün içindeki fiyatlardan
+hareketle portföy değerindeki değişime bakılır.
+Veri setleri
+MADDE
+11 – (1) Risk ölçüm modeli ile
+riske maruz değer hesaplanmasında kullanılan tarihi gözlem dönemi bir
+yıldan az olamaz. Üssel olarak ağırlıklandırılmış
+hareketli ortalama ya da benzeri diğer metotları
+kullanan bankalar için de kullanılacak tarihi gözlem süresi en az bir yıl
+olup, modelde fiili olarak kullanılan ağırlıklandırılmaya
+tabi tutulacak veriler en az altı aylık süreyi kapsar. Eğer model fiilen bu
+süreyi kapsayamıyorsa eşit ağırlıklı ortalama ve üssel olarak ağırlıklandırılmış ortalama metoduyla hesaplanan
+değerler karşılaştırılarak hangisi daha yüksek riske maruz değeri veriyorsa
+o değer kullanılır. Fiyatlarda yüksek volatilitenin
+oluşması halinde, Kuruma bildirim yapılması ve Kurumca da yüksek volatilitenin varlığının kabul edilmesi kaydıyla daha
+kısa gözlem süresi kullanılabilir veya veri setlerinde değişiklik
+yapılabilir. Fiyatlardaki yüksek volatilite
+nedeniyle veri setlerinde yapılacak değişiklikler Kuruma değişiklikten önce
+bildirilir.
+(2) Verinin bulunmaması
+halinde, verisi bulunmayan finansal araç için ona
+en yakın özellik gösteren başka bir finansal araç
+dikkate alınabilir ve yaklaşık bir standart sapma tespit edilerek riske maruz değer hesaplanabilir. Bu
+hususun kayıtlarda yer alması ve banka yönetimi ile Kuruma yapılacak
+raporlamalarda bildirilmesi şarttır.
+(3) Riske maruz değeri hesaplamak amacıyla
+kullanılan veri setleri günlük olarak güncelleştirilir. Günlük olarak elde
+edilemeyen ancak farklı frekanslarda (haftalık, aylık gibi) elde edilebilen veriler de ilgili
+frekanslar dikkate alınarak güncelleştirilir. Her bir veri seti en az üç
+ayda bir topluca gözden geçirilir ve verilerin uygun, zamanında, tutarlı ve
+güvenilir bir şekilde ulaşıp ulaşmadığı kontrol edilir. Piyasa
+hareketlerinin normal dışı seyretmesi durumunda söz konusu gözden geçirme
+daha sık aralıklarla yapılır. Veri setleri üzerinde geçmişe dönük olarak
+düzeltme yapılamaz. Eğer böyle bir düzeltmenin yapılması mutlaka gerekliyse
+durum düzeltme gerekçesinin de yer aldığı ayrıntılı bir raporla derhal
+Kuruma bildirilir.
+(4) Kurum, riske maruz değerin
+hesabında kullanılacak veri setleri ve zaman serilerini tespit ettiği veya
+bunlarla ilgili kaynak gösterdiği takdirde bankalar bunları kullanmak
+zorundadırlar.
+Veri akışı
+MADDE
+12 – (1) Sistemde veri akışının
+risk ölçüm modeline ulaşana kadar izlediği süreç açıkça görülebilir ve
+anlaşılabilir olmalıdır. Veri akışına ilişkin dokümanlar asgari olarak;
+a) Alım-satım mahallinden
+pozisyonlara ilişkin bilgi ve belgelerin geliş biçimlerini,
+b) Risk ölçüm modelinde kullanılacak pozisyon verilerinin hangi
+birimlerden (ön, orta, arka ofis) geldiğini,
+c) Bu sistemlerin alım-satım
+mahallerinde nasıl kullanıldığını ve bu sistemlerin ürünleri ne kadar
+kapsadığını,
+ç) Süreçteki gerekli ara yüzlerini,
+d) Piyasalarda zaman farkı
+nedeniyle eş anlı olmayan veriler için kullanılan yöntemleri,
+içerir.
+ÜÇÜNCÜ BÖLÜM
+Risk Ölçüm Modellerine Kullanım İzni
+Verilmesi
+İlgili bankaca başvurunun yapılması
+MADDE
+13 – (1) Piyasa riski için gerekli
+sermaye yükümlülüklerini risk ölçüm modeli kullanarak hesaplamak isteyen
+bankalar, modellerinin ikinci bölümde yer alan standartları haiz olduğuna
+dair banka yönetim kurulu kararı ile birlikte bilgi sistemleri, iç kontrol,
+iç denetim ve risk yönetiminden sorumlu yetkililerce de onaylı bir rapora
+aşağıda belirtilen bilgi ve belgeleri ekleyerek Kuruma başvururlar.
+a) Yurt içi ve yurt dışı genel
+organizasyon şeması ve ortaklık yapısı,
+b) Fon yönetimi biriminin,
+alım-satım işlemlerinin kaydı ve değerlemesinden sorumlu birimin, iç
+kontrol biriminin, risk yönetimi biriminin, iç denetim biriminin ve risk
+ölçüm modeli ile ilgili diğer birimlerin ayrıntılı organizasyon şeması (üst
+düzey yöneticilerin isimleriyle birlikte) görev ve sorumluluk tanımları,
+c) Alım-satıma ilişkin
+faaliyetlerin birimler arasında ve birim içinde dağıtım şekli,
+ç) Risk yönetimi biriminde
+çalışan personelin isimleri ile birlikte kişi bazında görev tanımları ve bu
+kişilerin nitelikleri ve iş tecrübelerine ilişkin bilgiler,
+d) Risk yönetimi biriminde
+çalışan personel için uygulanan eğitim programlarına ilişkin açıklamalar,
+e) Risk ölçüm modelinin banka
+tarafından karar alma sürecinde kullanılmadan önce geçirdiği onay sürecine
+ilişkin dokümanlar,
+f) Risk ölçüm modeline ilişkin
+olarak kullanılan donanım ve yazılımlara ilişkin bilgiler,
+g) Riske maruz değer hesabında
+kullanılan yöntemlere ilişkin ayrıntılı açıklamalar,
+ğ) Piyasa riski faktörlerinin
+getirilerinin hesaplanmasında kullanılan yönteme ilişkin (logaritmik getiri, yüzde getiri vb.) ve kullanılan
+güven aralığı ve elde tutma süresine ilişkin açıklamalar,
+h) Faiz oranı riski, hisse
+senedi pozisyon riski gibi piyasa riski unsurlarının dağılımına ilişkin
+olarak kullanılan istatistiksel varsayımlara ilişkin açıklamalar,
+ı) Uygulanan tahmin metoduna ve
+değerlendirilmesine ilişkin açıklamalar,
+i) Kullanılan yöntemin güçlü ve
+zayıf yönlerinin analizine ilişkin bilgiler,
+j) Risk ölçüm modelinin
+uygunluğunun ve performansının sürekli olarak değerlendirilmesine yönelik
+kriterlere ilişkin açıklamalar,
+k) Risk ölçüm modelinin banka
+genelinde uygulanmasına başlamadan önce uygulanan test programı ve
+sonuçlarına ilişkin açıklamalar ile kullanımına başlandıktan sonraki
+performansına ve varsa karşılaşılan sorunlara ilişkin bilgiler,
+l) Risk ölçüm modelinde girdi
+olarak kullanılan fiyatlama yöntemleri ile alım-satım işlemlerinde
+kullanılan fiyatlama yöntemlerine ilişkin matematiksel formüller, örnekler
+ve fiyatlama modellerinin tahmin başarısı,
+m) Likit bir piyasaya sahip
+olmayan araçlara ilişkin risklerin ölçümü için kullanılan yöntemlere
+ilişkin bilgiler,
+n) Risk faktörlerinden
+bazılarına ilişkin piyasa verileri bulunmaması durumunda, bunları temin
+etmek için kullanılan yöntemlere (interpolasyon
+gibi ) ilişkin bilgiler,
+o) Doğrusal fiyat hareketlerine
+sahip olmayan opsiyon gibi finansal araçlara
+ilişkin riskler ile spesifik riskin modellemesinde kullanılan yaklaşımlara
+ilişkin bilgiler,
+ö) Karmaşık yapıda opsiyonların
+düzensiz kâr/zarar özelliklerinden dolayı, bu opsiyonları değerlemede
+karşılaşılan problemlere ilişkin açıklamalar,
+p) Risk ölçüm modelinin hem
+alım-satım hesaplarının hem de diğer hesapların maruz kaldığı kur riskini
+kapsayıp kapsamadığı hususuna ilişkin bilgi,
+r) Risk ölçüm modelinin
+işleyişiyle ilgili banka içi yazılı prosedürler,
+s) Eğer banka yurt dışında
+kurulu bir bankanın bağlı ortaklığı veya iştiraki veya şubesi ise ve ana
+ortaklık veya genel merkezin kullandığı risk ölçüm modelini kullanacaksa,
+söz konusu risk ölçüm modeline ilişkin ilgili yabancı denetim otoritesinden
+aldığı uygunluk onayıyla ilgili belgeler,
+ş) Geriye dönük testlerin
+uygulanma yöntemlerine ilişkin her türlü bilgi ve belge,
+t) Stres testleri ve senaryo
+analizlerinin uygulanma yöntemlerine ilişkin her türlü bilgi ve belgeler,
+u) Getiri eğrilerini tahmin
+metodunun temelinde yer alan teori ve varsayımlar ile bu metoda ilişkin
+avantaj ve dezavantajlara yönelik açıklamalar,
+ü) Getiri eğrileri tahmini için
+genel olarak bilinen metotlardan farklı bir yöntem kullanılıyorsa
+gerekçeleri,
+v) Bir döviz cinsi için birkaç
+getiri eğrisi oluşturulması halinde, belli bir eğriyi oluşturmak için hangi
+değişken verilerin kullanıldığı ve değişken verilerin nasıl seçildiğine
+yönelik açıklamalar,
+y) Verilerden temin edilen
+eğrilerin ve bunlara ilişkin fonksiyonların nasıl uygun hale getirildiğine
+yönelik açıklamalar,
+z) Kullanılan risk ölçüm modeli
+yoluyla tesis edilen limit tespit sistemine ilişkin açıklamalar,
+aa)
+Günlük limitlerin kullanımı ve limit aşımı durumunda takip edilecek
+usullere ilişkin bilgiler,
+bb)
+Limitlerin birimler arasında tahsisinde, bu sürecin merkezi olup olmadığına
+ve tahsise ilişkin bilgi ve belgeler,
+cc)
+Her bir pozisyonun nominal ve piyasa değeri, riske maruz değer metoduyla
+hesaplanan piyasa riski ve limitler ile bunlara ilişkin gerçekleşme
+düzeylerine ilişkin açıklamalar,
+çç)
+Risk ölçüm modelinde girdi olarak kullanılan verinin kaynağına, tarihi
+zaman serilerinin uzunluğuna, güncelleme yöntemine ve sıklığına ilişkin
+bilgiler,
+dd)
+Eksik veri olması durumunda uygulanacak yöntemlere ilişkin açıklamalar,
+ee)
+Olağandışı gözlemlerin değerlendirilmesine ilişkin yöntemler ve bunların
+risk ölçüm modeline nasıl dahil
+edildiği hususunda açıklamalar,
+ff)
+Zorunlu hallerde, bütün zaman serilerine ilişkin asgari bir yıllık veri
+yoksa ve söz konusu finansal araç için ona en
+yakın özellik gösteren başka bir finansal araç
+dikkate alınmış ise, bu hususa ilişkin açıklama ve gerekçeler,
+gg) Volatilite ve kovaryansın
+tespitinde kullanılan tahmin yöntemine ilişkin açıklamalar,
+ğğ)
+Alım-satım hesaplarında yer alan finansal
+araçların değerlemesine ilişkin esaslar ile, finansal
+araçların nakit akım tarihlerinin hesaplanması ve nakit akımlarının iskonto edilmesine ilişkin olarak uygulanan kurallar,
+hh)
+Alım-satım işlemlerinin ve ödemelerin gerçekleştirilmesinde kullanılan
+yazılımlara ilişkin açıklamalar,
+ıı)
+Veri sağlayıcılarından hangi verilerin nasıl temin edildiğine ilişkin
+açıklamalar,
+ii)
+Kurumca gerekli görülecek her türlü bilgi ve belgeler.
+Spesifik riskin risk ölçüm modeli ile ölçülmesi
+MADDE
+14 – (1) Kurumdan piyasa riskleri
+karşılığında bulundurmaları gereken sermaye yükümlülüğünün hesaplanmasında
+risk ölçüm modeli kullanmalarına izin verilen bankaların spesifik riskleri
+model kullanmak suretiyle hesaplamalarına, risk ölçüm modelinin,
+a) Portföyün tarihi fiyat
+değişimlerini yeterince açıklayabilmesi ve bu amaçla güvenilirliği ile
+performansının, örneğin bir regresyon neticesinde
+elde edilen Belirlilik Katsayısı (R2) değerinin yüzde doksan civarında
+yüksek bir sonuç vermesi gibi sonuçlar elde edilerek muhtelif ekonometrik ve istatistiki
+modelleme teknikleri ile sınanmış olması,
+b) Büyüklükleri ve
+kompozisyonları bakımından portföy içindeki yoğunlaşmaları dikkate alması,
+portföy yapısına duyarlı olması ve yüksek sermaye gereksiniminin daha büyük
+yoğunlaşmalardan kaynaklandığını gösterebilmesi,
+c) Beklenmedik piyasa
+koşullarına yanıt verebilecek şekilde tasarlanmış olması ve tarihi
+simülasyonlar ile olası en kötü durum senaryolarına ilişkin simülasyonları
+da gerçekleştirmek suretiyle beklenmedik piyasa koşullarına ilişkin
+uyarılarda bulunması,
+ç) Ayrı bir geriye dönük test
+sürecine tabi tutularak spesifik risk ölçümüne ilişkin doğruluk ve
+performansının teyit edilmiş olması,
+d) Menkul kıymetin
+ihraççısından kaynaklanan ve farklı piyasalarda işlem görmesi nedeniyle
+benzer ama aynı olmayan pozisyonlardaki riskleri kapsaması,
+e) Olay riskini içermesi,
+kaydıyla izin verilebilir.
+Risk ölçüm modeli kullanımında raporlama yükümlülüğü
+MADDE
+15 – (1) Piyasa riskine esas
+sermaye yükümlülüğünün hesabında, risk ölçüm modellerini kullanmaya
+başlayan bankalar, piyasa riskine esas sermaye yükümlülüğünü, en az üç
+raporlama dönemi boyunca, aynı zamanda Yönetmelikte belirtilen usul ve
+esaslar çerçevesinde standart metoda göre de hesaplar ve bildirirler.
+(2) Risk ölçüm modeli kullanım
+izni alan bankalar, stres testleri ve geriye dönük testler uygulamaya devam
+ederler. Stres testleri ve geriye dönük testlerin sonuçları, Yönetmeliğin
+20 nci maddesinin ikinci fıkrasında belirtilen
+sürelerde Kuruma gönderilir.
+Standart metot ve risk ölçüm modellerinin birlikte kullanılması
+MADDE
+16 – (1) Belirlenen esaslara göre
+risk ölçüm modeli kullanmasına izin verilen bankalar, alım-satım hesapları
+içinde ihmal edilebilecek kadar küçük risk kategorileri karşılığında
+bulundurmak zorunda oldukları sermayeyi standart metot kullanarak
+hesaplayabilirler.
+(2) Sermaye yükümlülüklerini
+bir ya da birden fazla risk kategorisi için risk
+ölçüm modeli kullanarak hesaplayan bankalar, daha sonra aynı risk
+kategorisi için haklı bir gerekçeye dayanmadıkça yeniden standart metodu
+kullanamazlar. Bankalar söz konusu gerekçelerini Kuruma yazılı olarak
+bildirmek ve Kurum onayını almak zorundadırlar.
+(3) Aynı risk kategorisi
+altında yer alan alt kalemler de dahil olmak üzere her bir risk kategorisi
+için bulundurulacak sermaye, standart metot ya da
+risk ölçüm modeli yöntemlerinden sadece biri kullanılarak hesaplanabilir.
+(4) Risk ölçüm modellerini söz
+konusu risk faktörü ya da faktörlerini kapsayacak
+şekilde zaman içinde geliştiren bankalar gerekçeli başvuruları Kurumca
+uygun görüldüğü takdirde standart metottan risk ölçüm modeline geçebilirler.
+(5) Standart metot ve risk
+ölçüm modelinin birlikte kullanılması durumunda piyasa riskine esas tutarın
+hesaplanmasında dikkate alınacak tutar, Yönetmeliğin 6 ncı
+maddesinde belirtilen hesaplama usullerine göre her iki yöntemle yapılan
+hesaplamalar neticesinde ayrı ayrı elde edilen
+değerlerin toplamıdır.
+Risk ölçüm modelinde değişiklik yapılması
+MADDE
+17 – (1) Risk ölçüm modeli
+kullanımı için Kurumdan izin alan bankaların, modelde değişiklik yapmaları Kurumun
+iznine tabidir. Risk ölçüm modelinde
+değişiklik yapılmasına ilişkin başvuruların içermesi gereken asgari
+hususlar;
+a) Mevcut risk ölçüm modelinde
+yapılacak değişiklikler ve iş akımlarıyla etkileşimi ile metodolojideki
+ve/veya sistemdeki değişikliklerin ortaya çıkardığı sonuçlardan,
+b) Limit yapısındaki
+değişikliklerden,
+c) Risk ölçüm modeli
+değişikliğinin etkilerini görmek üzere hesaplanan riske maruz değer
+tutarında ve stres testleri sonuçlarındaki değişikliklerden,
+oluşur.
+İznin Son Bulması
+MADDE
+18 – (1) Kurum tarafından risk
+ölçüm modellerinin öngörülen şartları kaybettiğine veya yeterliliğinin ve
+güvenilirliğinin kaybolduğuna kanaat getirilen bankalar uyarılır ve söz
+konusu şartların sağlanması ve risk ölçüm modelinin eksikliklerinin
+tamamlanması için kendilerine üç aya kadar süre verilir. Söz konusu
+şartları sağlayamayan, eksikliklerini tamamlamayan ve risk ölçüm
+modellerini yeterli ve güvenilir hale getirmeyen bankaların, sermaye
+yükümlülüğünün hesabında risk ölçüm modellerini kullanma izni iptal edilir.
+Uyarılan bankalar anılan şartlara uyum sağlayıncaya ve eksikliklerini
+tamamlayıncaya kadar piyasa riskine esas
+sermaye yükümlüğünün hesaplanmasında, standart metodu kullanmak
+zorundadırlar.
+(2) Piyasa riskine esas sermaye
+yükümlülüğünün hesabında risk ölçüm modelini kullanan bankalar, kendi
+istekleri ile standart metodu kullanmak suretiyle sermaye yükümlülüğü
+hesaplayamazlar.
+DÖRDÜNCÜ BÖLÜM
+Riske Maruz Değere Dayalı Sermaye
+Yükümlülüğü
+Riske maruz değere dayalı sermaye yükümlülüğünün hesaplanması
+MADDE
+19 – (1) Bankalar riske maruz
+değere dayalı sermaye yükümlülüğünün hesabında, önceki altmış işgününün
+ortalama riske maruz değerinin Çarpım Faktörü ve varsa Artı Çarpım Faktörü
+ilave edilerek oluşacak toplamla çarpılması sonucu bulunan tutar ile bir
+önceki günün riske maruz değer tutarından yüksek olanını dikkate alırlar.
+Çarpım faktörü ve artı çarpım faktörü
+MADDE
+20 – (1) Çarpım faktörü, piyasa
+riski hesabında risk ölçüm modellerini kullanan tüm bankalar için üç olarak
+uygulanır. Geriye dönük test sonuçlarından elde edilen sapma sayılarını
+dikkate alarak, banka çarpım faktörüne aşağıda yer alan tabloda belirtilen
+artı çarpım faktörü oranlarını ilâve eder. Risk ölçüm modelinin temelde
+doğru olduğu ve oluşan sapmanın nedeninin makul olmadığı hususunda bankanın
+yeterli gerekçeleri sunması halinde, Kurum bu sapmaya ilişkin artı çarpım
+faktörünün uygulanmamasına izin verebilir.
+Sapma
+sayısı
+Artı
+çarpım faktörü
+4 ve
+daha az
+0.00
+5
+0.40
+6
+0.50
+7
+0.65
+8
+0.75
+9
+0.85
+10 ve
+daha fazla
+1.00
+(2) Kurum, sadece sapma
+sayıları ile sınırlı olmaksızın, bankaların iç kontrol, iç denetim ve risk
+yönetim sistemlerini organizasyonel yapı ve
+yönetim kalitesi gibi muhtelif kriterleri dikkate alarak belli bir sayısal
+derecelendirmeye tabi tutmak suretiyle, sıfır ile bir arasında değişen bir
+katsayı belirleyebilir ve bu katsayıyı piyasa riskleri karşılığında
+tutulması gereken sermaye hesaplamasında dikkate alınan çarpım faktörü
+üzerine artı çarpım faktöründen bağımsız olarak ilâve edebilir.
+(3) Banka sapmanın oluşması
+halinde hemen Kuruma haber verir. Bu süre hiçbir şekilde beş iş gününü aşamaz.
+BEŞİNCİ BÖLÜM
+Son Hükümler
+Yürürlük
+MADDE
+21 – (1) Bu Tebliğ yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 22 – (1) Bu Tebliğ hükümlerini
+Bankacılık Düzenleme ve Denetleme Kurumu
+Başkanı yürütür.
