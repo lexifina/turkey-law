@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2006/353",
+  "list_number": "353",
+  "decision_date": "2006-11-04",
+  "title": "YSK ilke kararı 2006/353",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3448/2006-353-karar.htm",
+  "source_sha256": "1b57cf59eb52ba18794e795a17ff6951d57cff088e099b02b3e0e9bdc54f6960",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2006-11-04",
+  "law_text_complete": false
+}
