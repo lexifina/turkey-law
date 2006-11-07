@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 22,
+  "legislative_year": 5,
+  "esas_no": "7/18846",
+  "submitted": "2006-11-07",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Muharrem KILIÇ",
+  "province": "Malatya",
+  "summary": "Antalya'da don ve sel felaketinden zarar gören çiftçilere ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bd-fcd2-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "31aa08477c0dd81e88548e13e7b69f1275fba1e7990c8a44cdbd8e9fe52315a7",
+  "in_force": "2006-11-07",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
