@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10771",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 49)",
+  "number": "10771",
+  "path": "teblig/2006/10771",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10771&MevzuatTertip=5",
+  "source_sha256": "53812f6c37c065697356bb7d48ba10363636c29290dcce954b47c02cd2de8789",
+  "source_bytes": 32574,
+  "published": "2006-11-08",
+  "gazette": "26340",
+  "in_force": "2006-11-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.11.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1626,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
