@@ -1,0 +1,2 @@
+Görev
+MADDE 5 – (1) İnsan Hakları Eğitimi Ulusal Komitesi, Birleşmiş Milletler İnsan Hakları Eğitimi Dünya Programının Türkiye’de uygulanabilmesi için eylem planı önerisini hazırlayarak onay için İnsan Hakları Üst Kuruluna sunar. Bu çerçevede yürütülen eğitim çalışmalarını izler, değerlendirmelerini İnsan Hakları Üst Kuruluna bildirir. Ayrıca bu konularda Üst Kurulca verilen diğer görevleri yerine getirir.
