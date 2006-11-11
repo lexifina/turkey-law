@@ -1,0 +1,10 @@
+Tahkim komisyonlarının görevleri
+MADDE 15 – (1) Tahkim komisyonları, Yönetmelikte belirtilmiş olan görevlerine ilave olarak aşağıdaki görevleri yapar. Bu Tebliğ hükümlerinin uygulanması sırasında ortaya çıkabilecek ihtilaflı konuları çözmeye ve karar almaya yetkilidir. İl tahkim komisyonu; merkez ilçede, ilçe tahkim komisyonunun görevlerini de yapar.
+(2) Komisyonlar;
+a) Gerçeğe aykırı beyanda bulunanlar hakkında gerekli hukuki işlemlerin yapılması için karar alır ve ilgili mercilerce uygulanması yönünde girişimde bulunur. Gerçeğe aykırı beyanda bulunan çiftçiler ve sahip oldukları arazilerin 5 yıl süreyle DGD ödemelerinden faydalandırılmamasını değerlendirir ve karara bağlar. Eğer, DGD ödemesi yapılmış ise yapılan ödemenin tamamı geri alınır. Ayrıca, gerçeğe aykırı beyanda bulunulduğunu tespit eden merci tarafından ilgili Cumhuriyet Başsavcılığına suç duyurusunda bulunulur.
+b) Sahtecilik ve/veya kamu kurumunu dolandırmak gibi bir kastı olmaksızın, fazla DGD ödemesinden yararlanan çiftçilerin, kendi rızaları ile fazla aldıkları miktarları iade etmeleri halinde, DGD ödemelerinden faydalanmalarına devam etmeleri ve haklarında cezai işlem yapılmamasına ilişkin karar verir.
+c) DGD ödemesinden faydalanmak üzere başvuruda bulunan çiftçilere ilişkin bilgilerin zamanında ÇKS’ye girilmesini sağlamak üzere her türlü tedbiri alır.
+d) Kadastro görmeyen köyler için son müracaat tarihini ve tespit komisyonlarının çalışma takvimini belirler. Kadastro görmeyen mahallerde tespit komisyonlarınca yapılan çalışmalar mülkiyetin tespitine esas çalışma değildir.
+e) Tespit komisyonları çalışmalarına yardım edilmediği, çalışmaların engellendiği tespit komisyonu tutanağı ile belirlenen köylerin DGD kapsamından çıkarılmasına karar alabilir.
+f) Yapılan arazi tespitlerinin sağlıklı olmasını teminen kadastro programına alınan yerlerde, kadastro çalışmalarından da faydalanılması için gerekli tedbirleri alır.
+g) Kadastro programına alındığı halde; kadastro çalışmalarına yardım edilmediği, çalışmaların engellendiği Kadastro Müdürlüğünce bildirilen köylerin DGD kapsamından çıkarılmasına karar alabilir.
