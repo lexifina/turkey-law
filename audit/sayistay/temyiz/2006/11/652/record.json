@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28890",
+  "decision_date": "2006-11-14",
+  "source_id": 652,
+  "chamber": "8",
+  "file_number": "28070",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/652/",
+  "source_sha256": "7cdc4e6f02aa0bf0621597ad4cd12f97453b24501943e82dfcad79db9f9e61a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
