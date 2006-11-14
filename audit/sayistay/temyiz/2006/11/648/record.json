@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28886",
+  "decision_date": "2006-11-14",
+  "source_id": 648,
+  "chamber": "1",
+  "file_number": "28372",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/648/",
+  "source_sha256": "18a01a85d257e090c4496560536b2b936f02c3054cb4bbee10a7181d8bc2762a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
