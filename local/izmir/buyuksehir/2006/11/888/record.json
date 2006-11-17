@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "888",
+  "decision_date": "2006-11-17",
+  "official_id": "3534",
+  "version_label": "official-summary",
+  "text_status": "official decision summary and outcome as published in the register's KararOzet field; full text not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2006&ay=&gun=&txtSozcuk=&draw=1&start=100&length=100&txtKararNo=",
+  "source_listing_sha256": "d6763c7ead7eee55c04aecf1fcf6181916d167254158202f2c648c8a4ce8dc15",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
