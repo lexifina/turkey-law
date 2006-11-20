@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB sirkulerTarih: 2006-11-20T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "circular",
+  "official_date": "2006-11-20",
+  "official_number": "KDV-44/2006-10",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/940",
+  "source_id": "sirkuler:940",
+  "source_row_sha256": "428374a1f4373b6dfe71f12a22e63a20a66532efb65006001e1f251da2d8ad61",
+  "title": "Ekim/2006 dönemine ait katma değer vergisi beyannameleri 22/11/2006 günü mesai bitimine kadar ilgili vergi dairesine verilebilecektir.",
+  "version_label": "as-enacted",
+  "word_count": 193
+}
