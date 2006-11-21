@@ -1,0 +1,7 @@
+Sıra cetveli
+MADDE 26 – (1) Ticari ve iktisadi bütünlüğün ihale bedelinin dağıtımına esas sıra cetveli, ihale bedelinin alıcı tarafından ödenmesinden sonra Satış Komisyonu tarafından 5411 sayılı Kanuna uygun olarak düzenlenir. Ancak 5411 sayılı Kanunda öncelikli paya sahip olduğu belirtilen alacaklılara önceden ödeme yapılabilir.
+(2) İhale bedelinden satış masrafları çıkarıldıktan sonra; satış tarihine kadar tahakkuk etmiş olmak şartıyla, sırasıyla Kurul tarafından ihale bedelinden ödenmesine karar verilmesi halinde bu Yönetmeliğin 25 inci maddesi kapsamındaki geçmiş dönem borçları, kişilerin Devlete ve sosyal güvenlik kuruluşlarına olan 6183 sayılı Kanun kapsamındaki borçları ile GSM imtiyaz sözleşmesinden doğan Hazine payı borçları ödendikten sonra kalan kısım, kişilerin diğer kamu kurum ve kuruluşları ile üst kurullara olan borçlarına garameten taksim edilerek ödenir.
+(3) 5411 sayılı Kanunun geçici 24 üncü maddesi kapsamındaki satışlarda sıra cetvelinin düzenlenmesinde anılan madde hükmü de dikkate alınır.
+(4) Sıra cetvelinin bir sureti Satış Komisyonu tarafından masrafını veren ilgililere tebliğe çıkarılır ve Resmî Gazete’de yayımlanır.
+(5) Sıra cetveline itiraz süresi 15 gündür. İtiraz süresi, ilan tarihinden itibaren başlar, tebliğ masrafı veren ilgililer hakkında ise itiraz süresi tebliğ tarihinden itibaren işlemeye başlar.
+(6) Satış Komisyonu, hak sahiplerine ödeme yapılana kadar nakit ihale bedelini uygun göreceği şekilde nemalandırır.

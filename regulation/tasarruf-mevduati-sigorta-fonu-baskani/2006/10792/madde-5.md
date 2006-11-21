@@ -1,0 +1,4 @@
+Ticari ve iktisadi bütünlüğün oluşturulması ve satış kararı
+MADDE 5 – (1) Tahsilat Daire Başkanlığı, bu Yönetmeliğin 4 üncü maddesi kapsamındaki mal, hak ve/veya varlıkların bir kısmının veya tamamının ticari ve iktisadi bütünlük oluşturacak şekilde satılmasını gerekçeleri ile Kurula teklif eder.
+(2) Kurul, teklifi uygun gördüğü takdirde bu mal, hak ve/veya varlıklardan ticari ve iktisadi bütünlük oluşturulmasına ve bu Yönetmelik kapsamında satışına karar vererek satışta uygulanacak ihale usullerini belirler.
+(3) Satış kararının alınmasından sonra, satış tarihine kadar ticari ve iktisadi bütünlük kapsamında bulunan ve bütünlüğün niteliğini esaslı biçimde etkilemeyen bir kısım mal, hak ve/veya varlıkların kıymet takdirleri belirtilmek suretiyle ticari, iktisadi veya hukuki nedenlerle eksilmesi veya bütünlük kapsamı dışına çıkarılması bütünlüğü bozmaz.

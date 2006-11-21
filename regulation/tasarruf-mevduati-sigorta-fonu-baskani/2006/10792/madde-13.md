@@ -1,0 +1,3 @@
+Satış ilanı
+MADDE 13 – (1) Satışa çıkarılacak ticari ve iktisadi bütünlük için satış şartnamesine uygun olarak Satış Komisyonu tarafından satış ilanı hazırlanır. Hazırlanan bu ilan, ihale gününden asgari onbeş gün önce Resmî Gazete’de yayımlanır. Bu ilanın Resmî Gazete’de yayımlanması ilgililere tebliğ niteliğinde olup, ayrıca tebligat yapılmaz.
+(2) Resmî Gazete’de yayımlanan satış ilanında yer alan hususlarda satış tarihinden önce değişiklik yapılabilir. İlan edilen metinde maddi hata bulunması halinde hatalı kısım düzeltilir. Resmî Gazete’de sadece değiştirilen ve düzeltilen hususlar yayımlanır. Değişiklik ve düzeltme ilanı için asgari süre şartı aranmaz.

@@ -1,0 +1,2 @@
+Satışın tatili veya ertelenmesi
+MADDE 28 – (1) Satış bedelinin, Fon alacağına rüçhanlı alacakları, satışa konu mal, hak ve/veya varlıklarla temin edilen alacakları ile paraya çevirme ve paylaştırma masraflarını karşılamadığının veya satış bedelinden Fona pay düşmeyeceğinin anlaşılması halinde yahut kamu yararının gerektirdiği durumlarda satış, Kurul tarafından her zaman tatil edilebilir veya ertelenebilir.

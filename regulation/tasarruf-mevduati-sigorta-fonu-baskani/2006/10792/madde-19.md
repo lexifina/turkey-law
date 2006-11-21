@@ -1,0 +1,4 @@
+Pazarlık usulü
+MADDE 19 – (1) Kapalı zarf veya açık artırma usullerinden biri veya ikisi birlikte uygulandıktan sonra bu Yönetmeliğin 16 ncı maddesi hükümleri çerçevesinde ihaleye pazarlık usulü ile devam edilebilir.
+(2) Açık artırma usulü uygulandıktan sonra pazarlık usulüne geçilmesi halinde en yüksek ilk üç teklifi veren mali teklif sahibi arasında pazarlık usulü ile ihaleye devam edilir.
+(3) Pazarlık usulünde teklif alınması belli bir şekle bağlı değildir. Bu durumda teklif sahipleri ile görüşmeler birlikte veya ayrı ayrı yapılabilir. İhalede açıklık ve rekabeti sağlayacak tarzda Satış Komisyonu tarafından birden fazla katılımcıdan yazılı veya sözlü teklif alınabilir. Pazarlık sonucu tutanağa bağlanır ve en yüksek teklif verene ticari ve iktisadi bütünlük Kurulun onayına sunulmak üzere ihale edilir.
