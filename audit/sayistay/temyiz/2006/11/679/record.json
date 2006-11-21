@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28917",
+  "decision_date": "2006-11-21",
+  "source_id": 679,
+  "chamber": "7",
+  "file_number": "28435",
+  "account_year": "2001",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/679/",
+  "source_sha256": "9fcf42cce1f303c8957a6234f2b98e439176867bc11defa3c50d3035ee5c97fe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
