@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-11-22",
+  "issue": "26354",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2006/11188 Mevduat ve Kredi Faiz Oranları ve Katılma Hesapları Kâr ve Zarara Katılma Oranları ile Özel Cari Hesaplar Dahil Bu İşlemlerde Sağlanacak Diğer Menfaatler Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/11/20061122-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/11/20061122.htm",
+  "index_sha256": "e06e6084c34522a833c8b7300ae1e12ffc732f6afef00b84a30e824ba6a55ec4",
+  "index_header": "22 Kasım 2006 ... 26354 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
