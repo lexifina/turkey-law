@@ -1,0 +1,8 @@
+Raporlarda bulunması gereken asgarî bilgiler
+MADDE 17 – (1) Bilirkişi raporlarında;
+a) Kamulaştırılacak gayrimenkul mal veya kaynağın; cins ve nevinin, yüzölçümünün, kıymetini etkileyebilecek bütün nitelik ve unsurlarının ve her unsurun ayrı ayrı değerinin, varsa vergi beyanının, kamulaştırma tarihindeki resmî makamlarca yapılmış kıymet takdirinin, arazi olması hâlinde kamulaştırma tarihindeki mevkii ve şartlarına göre ve olduğu gibi kullanılması hâlinde getireceği net gelirinin, arsa olması halinde kamulaştırma gününden önceki özel amacı olmayan emsal satışlara göre satış değerinin, yapı olması halinde resmî birim fiyatlarının, yapı maliyet hesaplarının ve yıpranma payının,
+b) Bedele etki eden tüm kanunî verilerin, imar verilerinin, gayrimenkulün özgün nitelik ve kullanım şeklinin, değeri etkileyen hak ve yükümlülüklerin, gayrimenkul üzerindeki aynî ve şahsî irtifak haklarının ve gayrimenkul mükellefiyetlerinin, kadastro ve aplikasyon bilgilerinin, millî bir gayrimenkul bilgi sistemi için gereken verileri içeren özet bilgi formunun,
+c) Bedelin tespitinde etkili olacak diğer objektif ölçülerin
+ayrı ayrı irdelenmesi ve belirtilmesi şarttır.
+(2) Raporlarda, bütün bu unsurların cevapları ayrı ayrı belirtilmek suretiyle ve ilgililerin beyanları da dikkate alınarak, herkesçe anlaşılabilir nitelikte gerekçeli değerlendirme neticesinde hazırlanarak kamulaştırılacak gayrimenkul mal veya kaynağın değeri açık ve net olarak belirtilir.
+(3) Bu asgarî bilgileri içermeyen bilirkişi raporlarının mahkemeye sunulması halinde, tarafların itirazı üzerine veya mahkemelerce resen ek rapor istenilebilir.

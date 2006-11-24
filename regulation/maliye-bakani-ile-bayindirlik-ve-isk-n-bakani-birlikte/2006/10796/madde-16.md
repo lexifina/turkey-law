@@ -1,0 +1,2 @@
+Bilirkişi raporlarının sunulması
+MADDE 16 – (1) Bilirkişi kurulu, kamulaştırılacak gayrimenkul mal ve kaynak ile emsal gayrimenkullerin bulunduğu yere mahkeme heyeti ile birlikte giderek, hazır bulunan ilgilileri de dinledikten sonra, gayrimenkul mal veya kaynağın değerini belirleyen gerekçeli raporunu on beş gün içinde mahkemeye verir. Bilirkişilerce yapılan değer tespitinde, idarece belgelerin mahkemeye verildiği gün esas tutulur.

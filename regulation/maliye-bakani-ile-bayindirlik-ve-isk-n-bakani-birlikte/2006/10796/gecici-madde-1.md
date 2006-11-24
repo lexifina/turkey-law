@@ -1,0 +1,2 @@
+Yetki belgesine denkliği kabul edilen belge
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren altı ay içerisinde, Yönetmelikle amaçlanan bilirkişi yetki belgesi denkliğinde belgeye sahip olduklarını iddia ederek, Birliğe başvuruda bulunanların, bu belgelerinin Birlik tarafından da denkliğinin kabul edilmesi halinde denkliği kabul edilen belge, bu Yönetmelik uyarınca verilmiş belge gibi işlem görür.
