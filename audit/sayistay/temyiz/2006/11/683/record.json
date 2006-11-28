@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28922",
+  "decision_date": "2006-11-28",
+  "source_id": 683,
+  "chamber": "1",
+  "file_number": "28525",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/683/",
+  "source_sha256": "c00692e95aa43aa1ff9da530376034c8aed17fa36c2e39a40504e6fcb2040036",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
