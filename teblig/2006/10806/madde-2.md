@@ -1,0 +1,3 @@
+Ücret
+MADDE 2 – (1) Soruşturma ve kovuşturma sırasında yapılacak hukuki yardım için bu Tarifede gösterilen ücret ödenir.
+(2) Müdafi ve vekil olarak görevlendirilen avukata, CMK Ücret Tarifesine göre makbuz karşılığı ödeme yapılır. Soruşturma ve kovuşturmada ayrı ücret ödenir. Soruşturma evresinde bir kişi için bir avukata birden fazla ve kovuşturma evresinde de bir kişi için bir avukata birden fazla ücret ödenmez. Soruşturma ve kovuşturmada birden fazla kişi için, yararları uygun olduğu sürece tek müdafi veya vekil tayin edilebilir ve müdafi veya vekil olarak görevlendirilen avukata en fazla on kişi ücreti ödenir.
