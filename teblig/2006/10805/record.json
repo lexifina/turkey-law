@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10805",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 363)",
+  "number": "10805",
+  "path": "teblig/2006/10805",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10805&MevzuatTertip=5",
+  "source_sha256": "732656f9e93459ea9e7a965b9543dd3a183f443b05cbcceeafd0080123f9652a",
+  "source_bytes": 10207,
+  "published": "2006-11-28",
+  "gazette": "26360",
+  "in_force": "2006-11-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.11.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 132,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
