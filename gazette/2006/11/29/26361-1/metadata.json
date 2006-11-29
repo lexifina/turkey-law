@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-11-29",
+  "issue": "26361",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "882 Çocuklarda ve Gençlerde Artan Şiddet Eğilimi ile Okullarda Meydana Gelen Olayların Araştırılarak Alınması Gereken Önlemlerin Belirlenmesi Amacıyla Bir Meclis Araştırması Komisyonu Kurulmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/11/20061129-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/11/20061129.htm",
+  "index_sha256": "f0d16e7f78982d29184be940afd41088fb93890f2ca054d944e643e8b1637a89",
+  "index_header": "29 Kasım 2006 ... 26361 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
