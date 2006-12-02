@@ -1,0 +1,18 @@
+T.C.
+YÜKSEK SEÇİM KURULU
+Karar No : 379
+İtiraz No :
+- K A R A R -
+Kadınhanı İlçe Seçim Kurulu Başkanlığı tarafından Kurulumuz Başkanlığına gönderilen 28/11/2006 tarihli, C.05.0.SKB.4.42.20-100-80 sayılı yazıda; Kadınhanı İlçesi Küçükkuyu Köyü Muhtarı İ.B’nin, Kadınhanı Asliye Ceza Mahkemesince Çalıntı Motobisiklet Satın Almak suçundan 647 sayılı Kanunun 4. ve 72. maddeleri gereğince ağır para cezaları ile cezalandırıldığı, aynı Kanunun 6. maddesi gereğince de sanığın geçmişteki hali ve suç işleme hususundaki eğilimine göre cezasının ertelendiği hususunda Kaymakamlık Makamınca Başkanlıklarına ihbarda bulunulduğu belirtilerek, ilgili hakkında tanzim edilen evrak gereğinin yapılması için Kurulumuz Başkanlığına gönderilmiş olmakla, konu incelenerek;
+GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ:
+2972 sayılı Kanunda yer alan seçilme yeterliğine ilişkin hükümlerin bir kısmı T.C. Anayasasının 76 ncı maddesindeki amir hükme dayandığından seçilenin Türk olmadığı, yaşının yasada öngörülenden küçük olduğu, okur-yazar olmadığı ve seçilme yeterliğini kaybettiren bir mahkumiyeti bulunduğu ile ilgili iddia ve itirazların süresine bakılmaksızın ve seçim sonuçlarının kesinleşmesinden sonra dahi T.C. Anayasasının 79 uncu maddesinin verdiği görev ve tam kanunsuzluk hali sebebiyle, Yüksek Seçim Kurulunca her zaman ele alınıp karara bağlanabileceği Kurulumuzca kabul edilmektedir.
+Konya İli Kadınhanı İlçesine bağlı Küçükkuyu Köyü Muhtarı İ.B’nin; Kadınhanı Asliye Ceza Mahkemesinin 10/04/2003 tarih ve 2002/178 Esas, 2003/56 Karar sayılı ilamı ile Cürüm Mahsulü Eşyayı Satın Almak suçundan T.C.K.nun 512/1. , 522. ve 523. maddeleri uyarınca 21.810.408 TL. ağır para cezası ile cezalandırıldığı ve 647 sayılı Kanunun 6. maddesi uyarınca da ihtarat yapılmak suretiyle verilen cezanın ertelendiği, verilen kararın 09/05/2003 tarihinde kesinleştiği, Kadınhanı İlçe Seçim Kurulu Başkanlığınca Kurulumuza gönderilen yazı eki evrakın incelenmesinden ve adı geçenin ifadesinden anlaşılmaktadır,
+Hırsızlık malını bilerek satınalma suçunun, seçilmeye engel teşkil edip etmiyeceği konusunun incelenmesi gerekmektedir. Bilindiği gibi 2839 sayılı Milletvekili Seçimi Kanunu’nun 11 inci maddesine göre yüz kızartıcı suçtan dolayı mahkumiyet affa uğramış olsa bile seçilmeye engeldir. Hangi suçların yüz kızartıcı suç olduğu 11 inci maddede bir bir ve sınırlı biçimde sayılmıştır. Maddede geçen “gibi” sözcüğünün örnekleme amacını taşımadığı, tersine orada sayılan suçları amaçladığı Yüksek Seçim Kurulu’nun yerleşmiş görüşlerindendir. Başka bir anlatımla, sadece anılan maddede belirtilen suçlardan mahkum edilenlerin seçilme yeterliliği bulunmamaktadır. Bu hüküm, benzetme yoluyla başka suçlardan hüküm giyenlere uygulanamaz.
+Kurulun böyle bir görüşü benimsemesinin temelinde yatan asıl amaç, uygulama birliğini sağlamaktır. Aksi takdirde hangi suçun yüz kızartıcı suç olduğunun belirlenmesinde istikrar sağlanamaz.
+Sözü geçen 11 inci maddede, hırsızlık suçu yüz kızartıcı suçlar arasında sayılmış ise de “hırsızlık malını bilerek satın alma suçu” sayılmamıştır.
+Bu durumda, sözü geçen suç, yüz kızartıcı suç olarak kabul edilemiyeceğinden İ.B’nin hırsızlık malını bilerek satınalma suçundan mahkum edilmiş olmasının, tutanağının iptalini gerektirmeyeceğine karar verilmesi gerekmiştir.
+S O N U Ç :
+Açıklanan nedenlerle;
+1- Hırsızlık Malını Bilerek Satın Alma suçu, yüz kızartıcı suç olarak kabul edilemiyeceğinden İ.B’nin hırsızlık malını bilerek satınalma suçundan mahkum edilmiş olmasının, tutanağının iptalini gerektirmeyeceğine,
+2- Karar örneğinin Kadınhanı İlçe Seçim Kurulu Başkanlığına gönderilmesine,
+02/12/2006 tarihinde oybirliği ile karar verildi.
