@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2006/380",
+  "list_number": "380",
+  "decision_date": "2006-12-02",
+  "title": "YSK ilke kararı 2006/380",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3436/2006-380-karar.htm",
+  "source_sha256": "809ecaba52cb58ef6b80d1c6642e4a18129906854e0b225a69113c7ef77b7702",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2006-12-02",
+  "law_text_complete": false
+}
