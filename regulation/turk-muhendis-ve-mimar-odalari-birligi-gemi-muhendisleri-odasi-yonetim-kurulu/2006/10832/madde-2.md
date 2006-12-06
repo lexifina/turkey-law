@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; gemi, yat ve sair yüzer araçların inşa, tadilat ve bakım-onarımlarında, tasarım, çizim, plan, proje, doküman hazırlığı, danışmanlık ve kontrollük hizmetleri için serbest gemi mühendisliği hizmetleri veren ve gemi mühendisliği ürünleri üreten gerçek veya tüzel kişilere Tescil Belgesi verilmesi, Tescil Belgesi verilen serbest gemi mühendisleri ve gemi mühendisliği bürolarının yetki, hak ve sorumlulukları ile bürolar ve gemi mühendislerinin meslekî etkinliklerinin denetim kurallarını, yaptırımlarını ve diğer uygulamaları kapsar.
+(2) Askeri gemiler ile bu gemilerin tasarım ve üretiminde çalışan gemi mühendisleri bu Yönetmeliğin kapsamı dışındadır.

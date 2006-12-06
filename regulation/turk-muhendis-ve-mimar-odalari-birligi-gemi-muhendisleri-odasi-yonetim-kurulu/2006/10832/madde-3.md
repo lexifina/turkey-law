@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 27/1/1954 tarihli ve 6235 sayılı Türk Mühendis ve Mimar odaları Birliği Kanununun 39 uncu maddesi hükmüne dayanılarak hazırlanmıştır.

@@ -1,0 +1,3 @@
+Tescil Belgesi uygulamasına tabi mühendislik hizmetleri
+MADDE 6 – (1) Bu Yönetmeliğin 5 inci maddesinde gemi mühendisliği hizmetleri arasında tanımlanan her türlü mühendislik hizmeti, SGM ve/veya SGMB Tescil Belgesi uygulamasına tabi mühendislik hizmetidir. Bu hizmetler, SGM ve/veya SGMB Tescil Belgesine sahip olmayan ya da bu Yönetmelikte tanımlanan istisnai koşulları taşımayan gemi mühendisleri ya da başkaları tarafından gerçekleştirilemez.
+(2) SGMH’ler, ulusal ve uluslararası kurallar, sözleşmeler, ilgili kanunlar, yönetmelikler, Odanın şartname, tarife, proje çizim ve sunuş standartlarına uygun olarak yürütülür.
