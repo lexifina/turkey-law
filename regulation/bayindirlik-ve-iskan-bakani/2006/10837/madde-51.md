@@ -1,0 +1,5 @@
+Ön değerlendirme
+MADDE 51 – (1) Projelendirmede aşağıda belirtilen hususlar dikkate alınacaktır.
+a) Heyelanın etkilediği yol kesiminin dolgu, yarma, karışık kesitle olup olmadığı belirtilecektir.
+b) Heyelanlı alanı gösterir plankote ve enkesitler çıkarılacaktır. Plankote ve enkesitler üzerinde (Ek-7)’deki elemanlar gösterilecektir.
+c) Heyelanın oluş zamanı, mevsim koşulları, oluş nedeni, mevcut drenaj sistemlerinin çalışıp çalışmadığı, çalışıyorsa deformasyon olup olmadığı, heyelanın boyutları (uzunluk, genişlik, derinlik), heyelanlı kütlenin ve harekete katılmayan kütlenin özellikleri, hareketin hızı (ilk hareketten sonra hareketin devam edip etmediği, ilk hareket sonrası çatlak ve yarıkların genişliği, derinliği, yeni çatlakların oluşup oluşmadığı vb.), hareketlerin tipi, (akma, kayma, düşme, devrilme, tekrarlı, tekil, karmaşık, dairesel, düzlemsel, kamasal vb. bilgiler), araştırma çalışmaları (sondaj, araştırma çukuru, inklenometre, jeofizik izleme, laboratuar çalışmaları vb.), fotoğraflar raporda yer alacaktır.

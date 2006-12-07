@@ -1,0 +1,14 @@
+DOKUZUNCU KISIM
+Çığ ve Kaya Düşmesinden Korunma
+Alınması gerekli tedbirler ve dikkat edilecek kriterler
+MADDE 58 – (1) Karayolu inşaatının yapıldığı ve yapılacağı bir arazide yolu oluşturan unsurların (yol gövdesi, köprüler, tüneller ve diğer sanat yapıları) çığ afetine karşı korunması için alınması gereken tedbirler ve yeni yapılacak yollarda dikkat edilmesi gereken ölçütler aşağıdadır.
+a) Topografik açıdan rakımı 1000 metre ve üzerinde olan 35 dereceden daha dik açıya sahip, rüzgar altı olan çıplak yamaçlarda çığ önleme ve azaltma teknikleri uygulanacaktır.
+b) Çığdan korunma çalışmalarının ilk basamağı olarak haritalama yapılacaktır. Çığ risk haritalarıyla, çığın sahip olduğu fiziksel özelliklere bağlı olarak, çığın etkilediği alanlardaki yapılara önleyici kurallar ve sınırlamalar getirecektir.
+c) Çığ haritaları çığ alanlarını gösteren topografik bazlı haritalardır. Bu haritalarda olmuş ve olası çığ alanları, akma hatları ve çığ önlem yapıları işaretlenecektir. Çığın meydana geldiği veya gelebileceği tespit edilen bu alanlar, hava fotoğrafı ve uydu görüntüleri yorumları ile arazi gözlemlerinin, yerel halktan edinilen bilgiler ışığında hazırlanan "çığ anket formları" ile beraber değerlendirilmeleri sonucu belirlenecektir.
+ç) Çığ haritalarının yapımında kullanılan hava fotoğraflarının ölçeği 1/25000 ile 1/35000 arasında değişirken, altlık olarak kullanılan topografik haritaların ölçeği 1/25000’dir. Tüm bu çalışmaların ışığında elde edilen veriler harita üzerine işlendikten sonra, bütün bilgiler coğrafi bilgi sistemi (CBS) kullanılarak sorgulanmak ve istenilen ölçekte basılmak üzere bilgisayar ortamına aktarılır. Çığ haritalarının hazırlanmasından sonra büyük ölçekte (1/5000 veya daha büyük) çığ risk haritaları o bölge için hazırlanacaktır.
+d) Çığ risk haritalarındaki sınırlara karar verilirken; çığın tekrarlama periyodu, çarpma basınçları, çığ patikalarının (çığ akış hattı) genişleme ihtimali, yeni çığ patikalarının oluşma olasılığı ve çalışmanın yapıldığı bölgede yaşayan insanlar ile yapılan görüşmeler esas alınacaktır.
+e) Çığ risk haritalarında çığdan etkilenme derecelerine bağlı olarak riskli alanlar 4 farklı renk ile gösterilmektedir.
+1) Kırmızı: Çığın dönüşüm periyodunun 30 yıldan daha az ve çarpma basıncının 30 ton/m2’den fazla olduğu yerlerdir. Bu yerlerde herhangi bir bina veya yapının inşa edilmesi yasaklanmıştır.
+2) Mavi: Dönüşüm periyodunun 30 ile 300 yıl arasında olduğu ve çarpma basıncı 3 ton/m2’nin altında olan yerlerdir. Bu bölgedeki yapılara ancak ilave teknik önlemler ve inşa teknikleri kullanıldığında sınırlı olarak izin verilmektedir.
+3) Beyaz: Güvenli alanlardır. Herhangi bir çığ tehlikesi yoktur. Her türlü yapılaşmaya kanunlar çerçevesinde açıktır.
+4) Turuncu: Çığ dışındaki diğer afetleri (kaya düşmesi, sel, heyelan) temsil etmektedir. Bu afetlerin etki alanları genel hatları ile çizilmekte ve konunun uzmanlarına referans bilgi olma özelliği taşımaktadır.

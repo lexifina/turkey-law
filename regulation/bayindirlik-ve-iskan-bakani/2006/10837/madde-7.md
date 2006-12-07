@@ -1,0 +1,4 @@
+Tasarım depremi
+MADDE 7 – (1) Köprü yerinin depremselliğini olasılık yöntemiyle belirlemek amacıyla hazırlanmış olan ve tasarıma esas alınacak yerel ivme katsayıları uzmanlar tarafından hazırlanmış deprem ivme haritaları kullanılarak belirlenecek ve idare tarafından onaylanacaktır.
+(2) Yerel ivme katsayısı olarak 50 yıllık köprü ömrü içinde bir kere gerçekleşme olasılığı %10’u geçmeyen 475 yıl dönüş periyotlu deprem büyüklüğü için hazırlanmış değerler kullanılacaktır.
+(3) Köprü kalıcılığının öneminin, yurt savunması veya başka nedenlerle artması halinde yapı ömrünün uzatılması ya da depremde hasar oluşma riskinin azaltılması istenirse olasılık kurallarına göre bu değerler uzmanlarca belirlenecektir. Köprü yerinin bilinen aktif fay hatlarına yakın olması ya da temel zemininde beklenenden daha uzun süreli depremlerin oluşması olası ise, yetkili uzmanların önerisi ve idarenin onayı ile verilen ivme katsayıları arttırılacaktır.

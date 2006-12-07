@@ -1,0 +1,9 @@
+Güçlendirme projesinin hazırlanması
+MADDE 41 – (1) Yüksek şiddetli yer sarsıntılarında düktil ve dayanımlı kaplama elde etmek için kaplama betonu donatılandırılacaktır. Kaplama betonu ve arkasındaki ortam arasında boşluk olması ve iyi temas sağlanmaması durumunda bu durum jeofizik yöntemler ve karot alımı ile tespit edilecek ve kontak enjeksiyonu yapılacaktır.
+(2) Zayıf zeminlerde ilk desteklemeden sonra prekast beton segmanlar ile yapılan desteklemede özel çevresel derzler tasarlanacaktır.
+(3) Aç-kapa tünellerde deprem durumunda artan yükleme koşullarına göre donatılandırma yapılacaktır.
+(4) Fay kırılması nedeniyle yapılacak güçlendirme aktif fayı kesen ve deplasmana maruz kalacak tünel hattı boyunca deplasman değeri ve deplasmanın yayıldığı bölge genişliğine bağlı olarak belirlenecektir. Sınırlı bölgede yüksek miktarda deplasman oluşması durumu için bu bölgede tünel kesitinde genişletme yapılacaktır. Genişletme miktarı fay atımı sonucunda oluşan deplasman nedeniyle tünelin kapanmayacağı ve iyileştirme yapıldıktan sonra trafiğe açılabileceği şekilde olacaktır. Genişletme yapılacak bölgenin uzunluğu fay deplasman miktarına ve karayolunda izin verilebilir kurp yarıçapına göre belirlenecektir.
+(5) Genişletme yapılan tünellerde iç kaplama arkası boşluklu beton gibi malzemeler ile doldurulacaktır. Fay atımının düşük ve geniş alana yayılı olduğu durumlarda kaplama düktil derzler ile dökülecektir.
+(6) Heyelan ve sıvılaşmaya neden olabilecek zemin stabil hale getirilecektir. Kesin çözüm elde edilememesi durumunda hat değişikliğine gidilecektir.
+(7) Potansiyel heyelan bölgesinde yapılan portal yapısı ve kazı tüneli birleşiminde harekete izin verecek derz oluşturulacaktır.
+(8) Sıvılaşmanın etkisinin lokal su basıncı şeklinde olması durumunda, lokal su basıncını gidermek veya düşürmek yönünde gerekli inceleme yapılıp önlemler alınacak, tünel duvarları yanal basınca göre güçlendirilecektir.

@@ -1,0 +1,2 @@
+Güçlendirme yönteminin tespit edilmesi
+MADDE 23 – (1) Köprünün sorunlu elemanları ve güçlendirme yöntemleri, hesaplar yoluyla detaylı olarak tespit edilerek, güçlendirme yapılacak her eleman ve güçlendirme metodu belirlenecektir. Yetersizlik görülen durumlara ilişkin uygulanabilecek güçlendirme seçenekleri belirlenip yapı açısından uygulanabilirlik ve maliyet açısından kıyaslamalar incelenerek teknik ve ekonomik optimizasyon sonucu en uygun çözüm belirlenecektir.

@@ -1,0 +1,2 @@
+Elastik tesirler ve yer değiştirmeler
+MADDE 16 – (1) Deprem davranış kategorisi (DDK) B, C veya D sınıfına giren köprülerde, elastik tesirler ve yer değiştirmeler, (Ek-2 Tablo-4)’te tanımlanan hesap yöntemi kullanılarak ve birbirine dik iki eksen boyunca birbirinden bağımsız olarak belirlenecektir. Kurbdaki köprülerde boyuna eksen, kenar ayak ortalarını birleştiren doğrultu olarak alınabilir. Ancak daha kritik doğrultuların olabileceği durumlar araştırılmalıdır.

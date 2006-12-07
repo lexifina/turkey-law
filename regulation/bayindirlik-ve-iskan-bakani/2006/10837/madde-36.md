@@ -1,0 +1,5 @@
+Deprem için hesaplamaların yapılması
+MADDE 36 – (1) Tünel ekseni boyunca oluşan eksenel ve bükey deformasyonların ve tünel enkesitinde oluşan ovalleşme ve yana yatma şeklindeki deformasyonların değerlendirilmesi analitik yaklaşımlar (basitleştirilmiş veya kapalı-form çözümler) ve nümerik analizler metodu olmak üzere iki seviyede yapılacaktır. Öncelikle basitleştirilmiş yöntemler kullanılacak, yeterli olmadığı durumlarda nümerik analizler yapılacaktır.
+(2) Nümerik analizler zemin içinde açılan ve tünel boyunca zemin koşullarının belirgin ölçüde değiştiği tünellerde yapılacaktır.
+(3) Tünel derinliğindeki yer hareketinin yer yüzeyindekine oranı özel arazi değerlendirmesine göre düşük değer belirlenmediyse (Ek-9 Tablo-6)’dan alınacaktır. Özel arazi değerlendirmesi bulunmadığında maksimum yer hareketinin tahmini için zemin/kaya tipine göre maksimum yer hareketinin maksimum yer ivmesine oranı (Ek-9 Tablo-7)’den alınacaktır.
+(4) Deprem nedeniyle tünelde oluşan gerilme ve yüklemeler statik gerilme ve yükler de dikkate alınarak hesaplanacaktır.

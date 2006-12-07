@@ -1,0 +1,8 @@
+Sayısal çözümleme
+MADDE 53 – (1) Çözüme yönelik sayısal çözümlemelerde gerekli büro, arazi ve laboratuar çalışmaları sonuçları göz önüne alınarak izlenecek yöntem aşağıda belirtilmektedir.
+a) Kayma öncesi geometri ve kayma koşulları göz önüne alınarak geri analizle kayma yüzeyi boyunca rezidüel kayma dayanımı parametreleri belirlenecek, geri analizinde güvenlik sayısı GS< 1 esas alınacaktır.
+b) Geri analizden elde edilen parametreler, araştırma çalışmaları ve laboratuar deneyleri sonucunda bulunan parametrelerle birlikte yorumlanarak değerlendirilecek ve tasarım parametreleri belirlenecektir. Bu değerlendirmeler raporda yer alacaktır.
+c) Çözüm geometrisi için statik durum (kısa dönem, uzun dönem) deprem durumu ve gerekiyorsa kazı durumu için kısa dönem stabilite analizleri yapılacaktır. Rezidüel (Direk kesme) parametrelerin kullanılması durumunda çözüm için statik durumda GS ≥ 1.30, deprem durumunda GS ≥1.10 kazı durumunda (heyelanlı alanda kalıcı düzenleme için yapılan projenin önemine, heyelanlı alan ve çevresinde yapılaşma, heyelan hızı, çalışılan mevsim koşulları, çalışma ve kazı zorluğuna göre) GS> 1.10 –1.20 değerleri esas alınacaktır.
+ç) Yapılan hesaplarda heyelan ana ekseni (en kritik kesit) esas alınacak, değişen zemin koşulları ve değişen kayma dairesi derinliği için proje optimizasyonuna yönelik olarak gerekirse diğer (yan) kesitlerde de çalışma yapılacaktır.
+d) Çözümün alternatifli verilmesi halinde alternatifler arası maliyet karşılaştırması yapılacaktır.
+e) Çözüme ait uygulamaya yönelik her türlü plan, profil, enkesit ve detay paftaları rapor ekinde sunulacaktır.

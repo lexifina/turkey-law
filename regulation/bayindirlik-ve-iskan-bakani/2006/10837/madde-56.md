@@ -1,0 +1,3 @@
+Sıvılaştırma ölçütleri
+MADDE 56 – (1) İnce kum, siltli kum veya killi kum tabakalarını içeren bir zeminin sıvılaşma olasılığının bulunup bulunmadığını saptayabilmek için arazi ve laboratuar deneylerinin bir arada kullanıldığı çeşitli ölçütler ve ampirik formüllerden yararlanılacaktır.
+(2) Bu ölçütlerden en önemlileri eşik ivme ölçütlerden, periyodik kayma gerilmesi, kayma (Shear) dalgası hızı ve sıvılaşma indeksi kriteri tespit edilmelidir. Yardımcı kriterler olarak da rölatif sıklık oranı, boşluk basıncının artış oranı, granülometrik değerlendirme, standart penetrasyon ve ivme kriteri, sismik S dalgası tespitleri yapılmalıdır.

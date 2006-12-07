@@ -1,0 +1,2 @@
+Sıvılaşma riskini azaltıcı önlemler
+MADDE 57 – (1) Sıvılaşma potansiyeli yüksek olan bir zeminde sıvılaşma riskini azaltabilmek için yerine ve durumuna göre çimento veya kireç ile stabilizasyon, kazık çakılarak temel yüklerinin sıvılaşma potansiyeli olmayan zemin tabakalarına aktarılması, taş ve kum kazıklar ile stabilizasyon, vibroflatasyon, yüzeysel veya dinamik kompaksiyon gibi önlemlerden biri veya birkaçı bir arada uygulanmalıdır.

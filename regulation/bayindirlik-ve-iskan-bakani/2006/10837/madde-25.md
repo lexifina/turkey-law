@@ -1,0 +1,2 @@
+Teknik muayene veya hasar/arıza tespit raporlarının olmaması
+MADDE 25 – (1) Köprü teknik muayene veya hasar/arıza tespit raporlarının olmaması durumunda (Ek-4)’te belirtilenlere göre köprüdeki mevcut hasar veya arızalar; köprü elemanları bazında yerinde teker teker gözle, elle ve gerekli durumlarda aletsel gözlem ve ölçümlerle detaylı incelenecek ve köprüdeki mevcut hasarlar belgelenerek bir rapor haline getirilecektir.

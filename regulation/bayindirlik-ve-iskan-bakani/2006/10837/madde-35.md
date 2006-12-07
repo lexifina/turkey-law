@@ -1,0 +1,4 @@
+Deprem risk tipinin belirlenmesi ve proje çalışmalarının yapılması
+MADDE 35 – (1) Yapılan tüm etüt ve araştırma çalışmaları sonucuna göre belirlenen jeolojik birimler, süreksizlikler (eklem, tabakalanma, çatlak), ayrışma zonları-dereceleri, fay, kıvrım ve bunların tünel kazısı üzerine etkileri göz önüne alınarak mühendislik jeolojisi modeli oluşturulacaktır.
+(2) Tünelin yer aldığı kaya/zemin ortamına ait geomekanik parametreler tespit edilecektir. Tünel kesiti, örtü kalınlığı, oluşturulan jeolojik model ve araştırma çalışmaları verileri değerlendirilerek tünel kazısı destek aşamasında öngörülen kaya kütle davranışı dikkate alınarak geoteknik model oluşturulacak, statik yükleme koşulları dikkate alınarak analitik ve nümerik analizler yapılacaktır.
+(3) Belirlenecek deprem risk tipine göre oluşacak ilave yükleme ve deformasyonlar da dikkate alınarak tünelin deprem projesi hazırlanacaktır.

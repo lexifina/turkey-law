@@ -1,0 +1,3 @@
+Minimum oturma boyları
+MADDE 18 – (1) Tek açıklıklı ve çok açıklıklı köprülerde, depremde köprü üst yapısının aşağıya düşmesini önlemek için kiriş oturma boyu (Ek-3)’te belirtilen bağıntılar ile hesaplanacak değerden az olmayacaktır. Kiriş oturma boyu, mesnetlenmenin en kısa mesafesi göz önüne alınarak belirlenecek olup, sadece üst yapının süreksiz olduğu kenar ve orta ayaklarda bu koşullar aranacaktır. Üst yapının sürekliliği, açıklıklar arasında sürekliliği sağlayan döşeme elemanının tasarım ilkelerine göre belirlenecektir.
+(2) Köprü ayaklarının üzerine deprem takozları yapılarak kirişlerin enine ve boyuna yönde aşırı deplasmanına engel olunacaktır. Özellikle C ve D sınıfına giren köprülerde genleşme derzlerinde ayrıca düşmeyi önleyici ilave tedbirler alınacaktır.
