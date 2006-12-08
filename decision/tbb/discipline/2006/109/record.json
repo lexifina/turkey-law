@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "109",
+  "date": "2006-12-08",
+  "title": "T. 8.12.2006 E. 2006/372 K. 2006/445",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/109",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?yil=2006",
+  "listing_sha256": "c272d4eb46dd4efaefd7487a83cc944895348667ccd8290d366c6c7ccb185f6d",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
