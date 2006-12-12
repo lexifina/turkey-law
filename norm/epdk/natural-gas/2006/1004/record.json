@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1004",
+  "decision_date": "2006-12-12",
+  "title": "01/01/2007 tarihinden bu konuda yeni bir düzenleme yapılıncaya kadar uygulanmak üzere, doğal gaz piyasası İletim ve Sevkiyat Kontrolüne ait tarifeler hakkında",
+  "resmi_gazete_date": "2006-12-21",
+  "resmi_gazete_number": "26383",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WCdasBFAzCc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WCdasBFAzCc="
+  ],
+  "source_sha256": "78e214a851b0eb0c62b51de45a17a5a8054e8ce58734e4d8a028349a134efc5d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-12-12",
+  "law_text_complete": false
+}
