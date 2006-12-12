@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1008",
+  "decision_date": "2006-12-12",
+  "title": "01/01/2007 tarihinden itibaren uygulanmak üzere perakende satış tarifesi hakkında",
+  "resmi_gazete_date": "2006-12-21",
+  "resmi_gazete_number": "26383",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xwW98ouvWQ4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xwW98ouvWQ4="
+  ],
+  "source_sha256": "bc08084469f2158af326959695aec1701e9b40f038b3a3d1ee4f76dc05e99252",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-12-12",
+  "law_text_complete": false
+}
