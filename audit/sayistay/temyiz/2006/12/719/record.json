@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "28970",
+  "decision_date": "2006-12-12",
+  "source_id": 719,
+  "chamber": "7",
+  "file_number": "28376",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/719/",
+  "source_sha256": "bc6ba5dda06c52f1e4a25851994bf7f7d48a0e0ed46b779bbf0c709ae669544e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
