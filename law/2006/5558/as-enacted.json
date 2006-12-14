@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5558",
+  "year": 2006,
+  "title": "Avukatlık Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-12-14",
+  "gazette_issue": "26376",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/12/20061214-1.htm",
+  "source_sha256": "d99468afc650dcc8288466b25b0292266e2f29a6186f3e7a63e1e5aeea2e8fda",
+  "text_sha256": "c063503b5f48c79e73a02dade126a55372ed081962fd66f44b01a5e65966263b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/12/14/26376-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/12/20061214-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
