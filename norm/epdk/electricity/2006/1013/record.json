@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1013",
+  "decision_date": "2006-12-14",
+  "title": "Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketi (TETAŞ)",
+  "resmi_gazete_date": "2006-12-21",
+  "resmi_gazete_number": "26383",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xuIo2Rcrxqs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xuIo2Rcrxqs="
+  ],
+  "source_sha256": "525457be360dde407a7274c867cc872aad77a0c65b21de6742cb81ae0b1eef4f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-12-14",
+  "law_text_complete": false
+}
