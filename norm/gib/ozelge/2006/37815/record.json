@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.40/4006-974/ 98771",
+  "source_id": 37815,
+  "date": "2006-12-15",
+  "title": "Menkul kıymet alım satım kazancı üzerinden ödemeyi yapan banka tarafından uygulanan %15 oranında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37815",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "5e5c014b50ec6cc4a87a69417015efcead66c7177a3bf7d6f6957549a9e60511",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
