@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-12-18",
+  "issue": "26380",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2006/11246 Türkiye Cumhuriyeti ile Palau Cumhuriyeti Arasında İmzalanan “Diplomatik İlişkilerin Tesis Edilmesine İlişkin Ortak Açıklama”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/12/20061218-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/12/20061218.htm",
+  "index_sha256": "0eeeec1a37f347dab865c8f1e2a702434b77a57e45abf9bbcb4af80c30729377",
+  "index_header": "18 Aralık 2006 ... 26380 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
