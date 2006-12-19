@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5560",
+  "year": 2006,
+  "title": "Çeşitli Kanunlarda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2006-12-19",
+  "gazette_issue": "26381",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2006/12/20061219-1.htm",
+  "source_sha256": "8baa6b0a4322f2f49eb2864879f8fd5e8005d05ab0e18cae79afa6464fb8bf73",
+  "text_sha256": "161847fd942d5f3fbd6aed59989252eecf18b55a2cd88b7a2d0248eda2617a99",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2006/12/19/26381-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2006/12/20061219-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
