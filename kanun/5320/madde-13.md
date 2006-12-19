@@ -1,7 +1,7 @@
-Müdafi, vekil ve uzlaştırıcı ücreti
-MADDE 13-(1) Ceza Muhakemesi Kanunu gereğince, soruşturma ve kovuşturma makamlarının istemi üzerine Baro tarafından görevlendirilen müdafi ve vekile, görevin ifasından doğan masraflar hariç avukatlık ücret tarifesinden ayrık olarak bu tarifenin hazırlanış usulüne göre tespit edilecek ücret ödenir. İleride yargılama giderleri ile mahkûm olan sanıklardan müdafi ve vekile ödenen ücreti ödeyebilecek durumda olanlara Türkiye Barolar Birliğinin rücu hakkı saklıdır.
-(2) 492 sayılı Harçlar Kanununa bağlı (1) ve (3) sayılı tarifelere göre alınan yargı harçlarının %15'i ve idarî nitelikteki para cezaları hariç olmak üzere adlî para cezalarının %15'i, bir önceki yıl kesin hesabına göre tespit edilen toplam miktar esas alınarak, yılı içinde Maliye Bakanlığınca Türkiye Barolar Birliği hesabına aktarılır. Birinci fıkraya göre ödenecek ücretler bu hesaptan karşılanır.
-(3) Türkiye Barolar Birliği tarafından barolar arasında yapılacak dağıtımın esas ve usûlleri Türkiye Barolar Birliğince çıkarılacak yönetmelikte gösterilir.
-(4) Ceza Muhakemesi Kanununun 253 üncü maddesinin sekizinci fıkrası uyarınca uzlaştırma işlemi giderlerinden olup uzlaştırıcıya ödenecek ücret de, birinci fıkra uyarınca tespit edilecek ücret tarifesinde ayrıca gösterilir.
+Müdafi ve vekil ücreti (2)
+MADDE 13- (Değişik: 6/12/2006-5560/30 md.)
+(1) Ceza Muhakemesi Kanunu gereğince soruşturma ve kovuşturma makamlarının istemi üzerine baro tarafından görevlendirilen müdafi ve vekile, avukatlık ücret tarifesinden ayrık olarak, Türkiye Barolar Birliğinin görüşü de alınarak Adalet ve Maliye bakanlıkları tarafından birlikte tespit edilecek ücret, Adalet Bakanlığı bütçesinde bu amaçla yer alan ödenekten ödenir. Bu ücret, yargılama giderlerinden sayılır.
+(2) Bu madde uyarınca yapılacak ödeme ve uygulamaya ilişkin usûl ve esaslar Türkiye Barolar Birliğinin görüşü de alınmak suretiyle Adalet Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir.
 ––––––––––––––––––––
 (1) 11/5/2005 tarihli ve 5347 sayılı Kanunun 2 nci maddesiyle, bu fıkrada yer alan "yazılı suçlar" ibaresinden sonra gelmek üzere "ile ağır ceza mahkemesinin görev alanına giren suçlar" ibaresi eklenmiştir.
+(2) Bu madde başlığı “Müdafi, vekil ve uzlaştırıcı ücreti” iken, 6/12/2006 tarihli ve 5560 sayılı Kanunun 30 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.

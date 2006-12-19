@@ -1,3 +1,3 @@
 Uzlaşma
-MADDE 24 — (1) Suça sürüklenen çocuklarla ilgili olarak uzlaşma, soruşturulması ve kovuşturulması şikâyete bağlı olan veya kasten işlenen ve alt sınırı iki yılı aşmayan hapis veya adlî para cezasını gerektiren ya da taksirle işlenen suçlarda uygulanır.
-(2) Suç tarihinde onbeş yaşını doldurmayan çocuklar bakımından, birinci fıkrada öngörülen hapis cezasının alt sınırı üç yıl olarak uygulanır.
+MADDE 24 — (Değişik: 6/12/2006-5560/41 md.)
+(1) Ceza Muhakemesi Kanununun uzlaşmaya ilişkin hükümleri suça sürüklenen çocuklar bakımından da uygulanır.

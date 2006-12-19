@@ -1,7 +1,7 @@
 İKİNCİ BÖLÜM
 Kanun Yararına Bozma
 Kanun yararına bozma
-MADDE 309. -(1) Hâkim veya mahkeme tarafından verilen ve istinaf veya temyiz incelemesinden geçmeksizin kesinleşen karar veya hükümde hukuka aykırılık bulunduğunu öğrenen Adalet Bakanı, o karar veya hükmün Yargıtayca bozulması istemini, yasal nedenlerini belirterek Yargıtay Cumhuriyet Başsavcılığına yazılı olarak bildirir.
+MADDE 309. -(1) Hâkim veya mahkeme tarafından verilen ve istinaf veya temyiz incelemesinden geçmeksizin kesinleşen karar veya hükümde hukuka aykırılık bulunduğunu öğrenen Adalet Bakanlığı, o karar veya hükmün Yargıtayca bozulması istemini, yasal nedenlerini belirterek Yargıtay Cumhuriyet Başsavcılığına yazılı olarak bildirir. (1)
 (2) Yargıtay Cumhuriyet Başsavcısı, bu nedenleri aynen yazarak karar veya hükmün bozulması istemini içeren yazısını Yargıtayın ilgili ceza dairesine verir.
 (3) Yargıtayın ceza dairesi ileri sürülen nedenleri yerinde görürse, karar veya hükmü kanun yararına bozar.
 (4) Bozma nedenleri:

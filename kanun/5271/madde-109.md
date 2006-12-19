@@ -16,3 +16,4 @@ i) Aile yükümlülüklerini yerine getireceğine ve adlî kararlar gereğince �
 (4) (Ek:25/5/2005-5353/14 md.)Şüphelinin, üçüncü fıkranın (a) ve (f) bentlerinde yazılı yükümlülüklere tâbi tutulması bakımından, birinci fıkrada belirtilen süre sınırı dikkate alınmaz.
 (5) Hâkim veya Cumhuriyet savcısı (d) bendinde belirtilen yükümlülüğün uygulamasında şüphelinin meslekî uğraşılarında araç kullanmasına sürekli veya geçici olarak izin verebilir.
 (6) Adlî kontrol altında geçen süre, şahsî hürriyeti sınırlama sebebi sayılarak cezadan mahsup edilemez. Bu hüküm, maddenin üçüncü fıkrasının (e) bendinde belirtilen hallerde uygulanmaz.
+(7) (Ek: 6/12/2006-5560/19 md.) Kanunlarda öngörülen tutukluluk sürelerinin dolması nedeniyle salıverilenler hakkında birinci fıkradaki süre koşulu aranmaksızın adlî kontrole ilişkin hükümler uygulanabilir.

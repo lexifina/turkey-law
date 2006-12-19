@@ -1,2 +1,3 @@
 Görevsizlik kararı verilemeyecek hâl
-MADDE 6.- (1) İddianamenin kabulünden sonra, yargılamanın alt dereceli bir mahkemeye ait olduğu gerekçesiyle görevsizlik kararı verilemez.
+MADDE 6.- (Değişik: 6/12/2006-5560/16 md.)
+(1) Duruşmada suçun hukukî niteliğinin değiştiğinden bahisle görevsizlik kararı verilerek dosya alt dereceli mahkemeye gönderilemez.

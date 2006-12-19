@@ -17,13 +17,15 @@ c) Bir ağırlaştırılmış müebbet hapis cezası ile süreli hapis cezasına
 d) Bir müebbet hapis cezası ile süreli hapis cezasına mahkûmiyet hâlinde en fazla otuzdört,
 e) Birden fazla süreli hapis cezasına mahkûmiyet hâlinde en fazla otuziki,
 Yıldır.
-(5) Koşullu salıverilme süresinin hesaplanmasında, hükümlünün onsekiz yaşını dolduruncaya kadar infaz kurumunda geçirdiği bir gün, iki gün olarak dikkate alınır.
+(5) Koşullu salıverilme süresinin hesaplanmasında, hükümlünün onbeş yaşını dolduruncaya kadar infaz kurumunda geçirdiği bir gün, iki gün olarak dikkate alınır. (1)
 (6) Koşullu salıverilen hükümlünün tâbi tutulacağı denetim süresi, yukarıdaki fıkralara göre infaz kurumunda geçirilmesi gereken sürenin yarısı kadardır. Ancak süreli hapislerde hakederek tahliye tarihini geçemez.
 (7) Hükümlü, denetim süresinde, infaz kurumunda öğrendiği meslek veya sanatı icra etmek üzere, bir kamu kurumunda veya özel olarak aynı meslek veya sanatı icra eden bir başkasının gözetimi altında, ücret karşılığında çalıştırılabilir.
 (8) Onsekiz yaşından küçük olan hükümlüler, denetim süresinde eğitimlerine, gerektiğinde barınma imkânı da bulunan bir kurumda devam ederler.
 (9) Hâkim, denetim süresinde hükümlüye rehberlik edecek bir uzman kişiyi görevlendirebilir. Bu kişi, kötü alışkanlıklar edinebileceği çevrelerden uzak kalması ve sorumluluk bilinciyle iyi bir hayat sürmesini temin hususunda hükümlüye öğütte bulunur; eğitim gördüğü kurum yetkilileri veya yanında çalıştığı kişilerle görüşerek, istişarelerde bulunur; hükümlünün davranışları, sosyal uyumu ve sorumluluk bilincindeki gelişme hakkında üçer aylık sürelerle rapor düzenleyerek hâkime verir.
 (10) Hâkim, koşullu salıverilen hükümlünün kişiliğini ve topluma uyumdaki başarısını göz önünde bulundurarak; denetim süresinin, denetimli serbestlik tedbiri uygulanmadan veya herhangi bir yükümlülük belirlemeden geçirilmesine karar verebileceği gibi, denetimli serbestlik tedbiri uygulanmasını veya belirlenen yükümlülükleri denetim süresi içinde kaldırabilir.
 (11) Bir hükümlünün koşullu salıverilmesi hakkında ceza infaz kurumu idaresi tarafından hazırlanan gerekçeli rapor, hükmü veren mahkemeye; hükümlü başka bir yerde bulunuyorsa o yerde bulunan aynı derecedeki mahkemeye verilir. Mahkeme, bu raporu uygun bulursa hükümlünün koşullu salıverilmesine dosya üzerinden karar verir. Mahkeme, raporu uygun bulmadığı takdirde gerekçesini kararında gösterir. Bu kararlara karşı itiraz yoluna gidilebilir.
+____________________________________
+(1) 6/12/2006 tarihli ve 5560 sayılı Kanunun 28 inci maddesi ile bu fıkrada yer alan "onsekiz" ibaresi, "onbeş" olarak değiştirilmiştir.
 (12) Koşullu salıverilen hükümlünün, denetim süresinde hapis cezasını gerektiren kasıtlı bir suç işlemesi veya kendisine yüklenen yükümlülüklere, hâkimin uyarısına rağmen, uymamakta ısrar etmesi hâlinde koşullu salıverilme kararı geri alınır.
 (13) Koşullu salıverilme kararının geri alınması hâlinde hükümlünün;
 a) Sonraki suçu işlediği tarihten itibaren kalan cezasının aynen,

@@ -1,3 +1,3 @@
-Mahkeme tarafından uzlaştırma
-MADDE 254.- (1) Kamu davasının açılması halinde, uzlaşmaya tâbi bir suç söz konusu ise, uzlaştırma işlemleri 253 üncü maddede belirtilen usule göre, mahkeme tarafından da yapılır.
-(2) Uzlaşmanın gerçekleşmesi halinde davanın düşmesine karar verilir.
+MADDE 254 – (Değişik:6/12/2006-5560/25 md.)
+(1) Kamu davası açıldıktan sonra kovuşturma konusu suçun uzlaşma kapsamında olduğunun anlaşılması halinde, uzlaştırma işlemleri 253 üncü maddede belirtilen esas ve usûle göre, mahkeme tarafından yapılır.
+(2) Uzlaşma gerçekleştiği takdirde, mahkeme, uzlaşma sonucunda sanığın edimini def’aten yerine getirmesi halinde, davanın düşmesine karar verir. Edimin yerine getirilmesinin ileri tarihe bırakılması, takside bağlanması veya süreklilik arzetmesi halinde; sanık hakkında, 231 inci maddedeki şartlar aranmaksızın, hükmün açıklanmasının geri bırakılmasına karar verilir. Geri bırakma süresince zamanaşımı işlemez. Hükmün açıklanmasının geri bırakılmasına karar verildikten sonra, uzlaşmanın gereklerinin yerine getirilmemesi halinde, mahkeme tarafından, 231 inci maddenin onbirinci fıkrasındaki şartlar aranmaksızın, hüküm açıklanır.

@@ -1,4 +1,4 @@
-Başvurunun incelenmesi
+Başvurunun incelenmesi (1)
 MADDE 28- (1) Başvuru üzerine mahkemece yapılan ön inceleme sonucunda;
 a) Yetkili olmadığının anlaşılması halinde dosyanın yetkili sulh ceza mahkemesine gönderilmesine,
 b) Başvurunun süresi içinde yapılmadığının, başvuru konusu idarî yaptırım kararının sulh ceza mahkemesinde incelenebilecek kararlardan olmadığının veya başvuranın buna hakkı bulunmadığının anlaşılması halinde, bu nedenlerle başvurunun reddine,
@@ -14,4 +14,5 @@ Karar verilir.
 a) Hukuka uygun olması nedeniyle, "başvurunun reddine",
 b) Hukuka aykırı olması nedeniyle, "idarî yaptırım kararının kaldırılmasına",
 Karar verir.
-(9) İkibin Türk Lirası dahil idarî para cezalarına karşı başvuru üzerine verilen kararlar kesindir.
+(9) (Ek: 6/12/2006-5560/35 md.) İdarî para cezasının alt ve üst sınırının kanunda gösterildiği kabahatler dolayısıyla verilmiş idarî para cezasına karşı başvuruda bulunulması halinde, mahkeme idarî para cezasının miktarında değişiklik yaparak da başvurunun kabulüne karar verebilir. (1)
+(10) İkibin Türk Lirası dahil idarî para cezalarına karşı başvuru üzerine verilen kararlar kesindir. (1)
