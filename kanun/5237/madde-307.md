@@ -5,6 +5,8 @@ a) Türkiye ile savaş hâlinde bulunan bir devletin çıkarı için işlenmiş 
 b) Devletin savaş hazırlıklarını veya savaş kudret ve yeteneğini veya askerî hareketlerini tehlikeye koymuş olması,
 Hâlinde, ağırlaştırılmış müebbet hapis cezasına hükmolunur.
 (3) Tahrip veya kullanılamaz hâle gelme, birinci fıkrada belirtilen bina, tesis veya eşyayı elinde bulunduran veya korumak ve gözetlemekle yükümlü olan kimsenin taksiri sonucunda meydana gelmiş veya bu nedenle suçun işlenmesi kolaylaşmış ise, bu kişi hakkında bir yıldan beş yıla kadar hapis cezasına hükmolunur.
+______________________
+(1) Bu maddenin başlığı “Temel milli yararlara karşı hareket” iken, 29/6/2005 tarihli ve 5377 sayılı Kanunun 38 inci maddesiyle “Temel millî yararlara karşı faaliyette bulunmak için yarar sağlama” olarak değiştirilmiş ve metne işlenmiştir.
 (4) Savaş zamanında Türkiye Devleti zararına olmak üzere, düşman askerî hareketlerini kolaylaştırmak veya Türkiye Devletinin askerî hareketlerine zarar vermek maksadıyla yabancıyla anlaşan veya anlaşma olmasa da aynı sonuçları meydana getirmeye yönelik fiilleri işleyen kişiye on yıldan onbeş yıla kadar hapis cezası verilir.
 (5) Dördüncü fıkrada tanımlanan fiil sonucunda, düşman askerî hareketleri fiilen kolaylaşmış veya Türk Devletinin askerî hareketleri zarar görmüş ise faile ağırlaştırılmış müebbet hapis cezası verilir.
 (6) Dört ve beşinci fıkralarda yazılı suçları işleyen kimse ile anlaşan yabancıya da aynı ceza verilir.
