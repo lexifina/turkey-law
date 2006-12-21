@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1031/8",
+  "decision_date": "2006-12-21",
+  "title": "Her bir dağıtım bölgesi için Birim Denetim Hizmet Bedelleri 21.12.2006 tarih ve 1031/8 sayılı Kurul Kararı ile belirlenmiştir.",
+  "categories": [
+    "Doğal Gaz Piyasası Denetim Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/DnQnbHafo4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/DnQnbHafo4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q9F8dUl/CYo="
+  ],
+  "source_sha256": "e1c1709272836eb1c97368fbb965686700da39a4ddbfeeb9d275ace71af421c9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7220,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2006-12-21",
+  "law_text_complete": false
+}
