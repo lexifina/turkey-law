@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.10881",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 261)",
+  "number": "10881",
+  "path": "teblig/2006/10881",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10881&MevzuatTertip=5",
+  "source_sha256": "69f64d4fb163a352372cb2fe7887bb328983f03e7d5ff35ac83d5240c8b501f0",
+  "source_bytes": 18631,
+  "published": "2006-12-22",
+  "gazette": "26384",
+  "in_force": "2006-12-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.12.2006)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 801,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
