@@ -1,0 +1,2 @@
+Denetim raporu
+MADDE 29 – (1) Denetim görevlisi, kararın uygulama biçimi, çocuk üzerindeki etkileri ile çocuğun ana ve babası, vasisi, bakım ve gözetiminden sorumlu kimselerin veya kurumların çocuğa karşı sorumluluklarını gereğince yerine getirip getirmedikleri, kararın değiştirilmesini gerektirir bir durum olup olmadığı ve istenen diğer hususlarda her ay, ayrıca talep hâlinde mahkeme veya çocuk hâkimine denetim raporu verir.

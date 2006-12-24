@@ -1,0 +1,2 @@
+Adlî kontrol tedbirlerine uymama
+MADDE 10 – (1) Adlî kontrol tedbirlerinden sonuç alınamaması, sonuç alınamayacağının anlaşılması veya tedbirlere uyulmaması durumunda suça sürüklenen çocuk hakkında yetkili yargı mercii tarafından tutuklama kararı verilebilir ya da adlî kontrolün içeriğini oluşturan yükümlülükler bütünüyle veya kısmen kaldırılabilir, değiştirilebilir veya bunlardan bazılarına uymaktan geçici olarak muaf tutulabilir.

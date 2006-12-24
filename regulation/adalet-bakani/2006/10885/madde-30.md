@@ -1,0 +1,3 @@
+Değerlendirme raporu
+MADDE 30 – (1) Denetim görevlisi, denetim altında bulunan çocuğun şahsî, sosyal ve duygusal durumunu, okul ve arkadaş çevresini, aile yaşantısını göz önünde bulundurarak, yapılan rehberlik ve iyileştirme çalışmaları neticesinde çocuğun nasıl bir gelişme gösterdiğini, olumsuz davranışlarını değiştirmedeki istekliliği ve başarısı ile çocuk hakkında yapılmasının faydalı olacağını düşündüğü diğer çalışmaların belirtildiği bir değerlendirme raporu hazırlayarak, üç ayda bir mahkeme veya çocuk hâkimine verir.
+(2) Değerlendirme raporu hazırlandığı hallerde denetim raporu, bu rapor içinde değerlendirilir.

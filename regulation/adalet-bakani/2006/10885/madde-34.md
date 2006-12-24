@@ -1,0 +1,3 @@
+Yetki alanı ve çocuğun yerleşim yerinin değişmesi
+MADDE 34 – (1) Yetki alanında şube müdürlüğü veya büro bulunmayan Cumhuriyet başsavcılığı, kararı denetimli serbestlik genel defterine kaydettikten sonra, şube müdürlüğünün bağlı bulunduğu Cumhuriyet başsavcılığına gönderir. Karar, Cumhuriyet başsavcılığınca denetimli serbestlik genel defterine kaydedildikten sonra şube müdürlüğüne gönderilir.
+(2) Hakkında denetimli serbestlik tedbiri hükmedilen ya da denetim altına alınan çocuğun, infaz sırasında yerleşim yerinin değişmesi hâlinde dosya, yerleşim yerinin bulunduğu şube müdürlüğü veya büroya gönderilir.

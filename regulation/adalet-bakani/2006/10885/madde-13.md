@@ -1,0 +1,9 @@
+Kovuşturma
+MADDE 13 – (1) Çocukların duruşmaları kapalı yapılır; hüküm de kapalı duruşmada açıklanır. Çocuk, velisi, vasisi, mahkemece görevlendirilmiş sosyal çalışma görevlisi, çocuğun bakımını üstlenen aile ve kurumda bakılıyorsa kurumun temsilcisi duruşmada hazır bulunabilir.
+(2) Kovuşturma sırasında onsekiz yaşını doldurmuş çocuklar hakkında yargılama açık yapılır, hükümde açık tefhim edilir. Ancak, 5271 sayılı Ceza Muhakemesi Kanununun 182 nci maddesinin ikinci fıkrasında belirlenen koşulların varlığı hâlinde duruşmanın kapalı yapılmasına mahkemece karar verilebilir.
+(3) Mahkeme veya hâkim, çocuğun sorgusu veya çocuk hakkındaki diğer işlemler sırasında çocuğun yanında sosyal çalışma görevlisi bulundurabilir. Sosyal çalışma görevlisi, çocuğa bu süreçte haklarını öğretmek, yargılama süreci hakkında bilgilendirmek ve kendini güvende hissetmesi, süreci anlaması ve görüşlerini serbestçe ifade etmesi için ona yardım etmekle görevlidir.
+(4) Mağdur çocuğun tanık olarak dinlenmesi hâlinde, yemin hariç, 5271 sayılı Ceza Muhakemesi Kanununun tanıklığa ilişkin hükümleri uygulanır.
+(5) İşlenen suçun etkisiyle psikolojisi bozulmuş mağdur çocuk, bu suça ilişkin kovuşturmada tanık olarak bir defa dinlenebilir. Maddî gerçeğin ortaya çıkarılması açısından zorunluluk arz eden haller saklıdır.
+(6) Mağdur çocuğun tanık olarak dinlenmesi sırasında psikoloji, psikiyatri, tıp veya eğitim alanında uzman bir kişi bulundurulur. Bunlar hakkında bilirkişilere ilişkin hükümler uygulanır.
+(7) Duruşmalarda hazır bulunan çocuk, yararı gerektirdiği takdirde duruşma salonundan çıkarılabileceği gibi sorgusu yapılmış çocuğun duruşmada hazır bulundurulmasına da gerek görülmeyebilir.
+(8) Çocuk mahkemeleri ile çocuk ağır ceza mahkemeleri bulunmayan yerlerde, bu mahkemeler kurulup göreve başlayıncaya kadar çocuklar tarafından işlenen suçlara ait kovuşturmalar görevli mahkemelerce Kanun ve ilgili yönetmelik hükümlerine göre yapılır.

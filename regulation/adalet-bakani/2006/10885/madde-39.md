@@ -1,0 +1,3 @@
+Raporlar
+MADDE 39 – (1) Sosyal inceleme raporu, denetim plânı, denetim ve değerlendirme raporları ile çocukların kişilik gelişimlerini, aile ve sosyal çevrelerini gösteren her türlü evrak dava dosyası içinde ayrı bir bölümde tarih sırasına uygun olarak muhafaza edilir.
+(2) Sosyal inceleme raporlarının bir örneği, raporu hazırlatan mahkeme veya Cumhuriyet başsavcılıklarınca ayrı bir kartonda tutulur, isme göre listelenir. Söz konusu listelerin birer örneği, her ay güncellenerek aynı yerde bulunan çocuk ve çocuk ağır ceza mahkemeleri ile Cumhuriyet başsavcılığına bilgileri bakımından gönderilir.

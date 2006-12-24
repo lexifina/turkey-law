@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, denetim altına alınmasına karar verilen, korunma ihtiyacı olan ve suça sürüklenen çocuklar hakkında yürütülecek uygulamalar ile sosyal inceleme raporlarına ve suça sürüklenen çocukların soruşturma ile yargılama usûllerine ilişkin kuralların uygulanmasına ve bu konuyla ilgili olarak görev yapanların hizmet öncesi ve hizmet içi eğitimine dair usûl ve esasları kapsar.
