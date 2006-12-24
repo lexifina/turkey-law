@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2006-12-24",
+  "issue": "26386",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Belirli Tekstil ve Konfeksiyon Ürünlerinin İthalatında Gözetim ve Korunma Önlemlerine İlişkin Tebliğ (No: 2006/6)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2006/12/20061224-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2006/12/20061224.htm",
+  "index_sha256": "a33b6bbc7fd4ebcec4046d95c281f87b7c2bc4cc15f42460f91c33dc89f1a0eb",
+  "index_header": "24 Aralık 2006 ... 26386 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
