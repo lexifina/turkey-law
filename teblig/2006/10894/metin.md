@@ -1,0 +1,6 @@
+Kurum | Adalet Bakanlığı
+Tebliğin Adı | 2006 Yılı Tanıklık Ücret Tarifesi
+Tebliğ No | 
+Resmî Gazete Tarihi | 26/12/2006
+Resmî Gazete Sayısı | 26388
+2006 YILI TANIKLIK ÜCRET TARİFESİ Amaç MADDE 1 – (1) Bu tarifenin amacı, ceza muhakemesi sırasında tanığa verilecek tazminatın miktarı ile ödenmesine ilişkin usul ve esasları belirlemektir. Kapsam MADDE 2 – (1) Bu tarife, ceza muhakemesi sırasında Cumhuriyet savcısı, mahkeme başkanı veya hâkim tarafından çağrılan tanıklara verilecek tazminatı kapsar. Dayanak MADDE 3 – (1) Bu tarife, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu’nun 61’inci maddesi hükümlerine göre hazırlanmıştır. Tazminat MADDE 4 – (1) Tanığa tanıklık nedeniyle kaybettiği zamanla orantılı olarak günlük 6,00 Yeni TürkLirasına kadar tazminat ödenir. Giderler MADDE 5 – (1) Tanık hazır olabilmek için seyahat etmek zorunda kalmışsa yol giderleriyle tanıklığa çağrıldığı yerdeki ikamet ve beslenme giderleri de karşılanır. Muafiyet MADDE 6 –(1) Tanığa ödenmesi gereken tazminat ve giderler hiçbir vergi, resim ve harç alınmaksızın ödenir. Yargılama gideri MADDE 7 –(1) Bu tarife uyarınca Devlet hazinesinden yapılan harcamalar 5271 sayılı Ceza Muhakemesi Kanunu’nun 324’üncü maddesi uyarınca yargılama giderlerinden sayılır. Yürürlük MADDE 8 –(1) Bu tarife yayımı tarihinde yürürlüğe girer.
