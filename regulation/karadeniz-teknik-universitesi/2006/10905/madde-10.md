@@ -1,0 +1,3 @@
+Merkez danışma kurulu ve görevleri
+MADDE 10 – (1) Merkez Danışma Kurulu; Merkez Müdürünün teklifi üzerine, Merkez Yönetim Kurulu tarafından, Merkezin amaç ve çalışmalarına ilgi gösteren veya uzmanlığından faydalanılabilecek kişiler arasından seçilen ve Rektör tarafından görevlendirilen on kişiden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır.
+(2) Merkez Danışma Kurulu, Merkezin çalışmalarına teklif ve uygulamalarıyla katkıda bulunan bir organdır. Her yıl en az bir kere, Merkez Müdürü tarafından tespit edilecek bir tarihte, Merkez Müdürünün başkanlığında salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
