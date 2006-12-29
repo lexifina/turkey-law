@@ -1,0 +1,1 @@
+MADDE 3- (1) Kullanılabilir kota miktarlarının mevcut olması halinde, bu Tebliğ kapsamında kotadan yararlanan ve adına ithal lisansı düzenlenen ithalatçılara, söz konusu ithal lisansında belirtilen miktarın en az %50’sinin ithalini gerçekleştirmiş olmaları şartıyla, aynı ülke ve aynı kategori için EK-I’de gösterilen azami miktarları aşmamak üzere yeniden kota tahsisi yapılır.

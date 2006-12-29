@@ -1,0 +1,1 @@
+MADDE 4- (1) İthal lisanslarının geçerlilik süresi, düzenlendiği tarihten itibaren 6 (altı) aydır. Ancak, bu süre 31/12/2007 tarihini geçemez. Bununla birlikte, ithalatçıların ithal lisansında belirtilen miktarın en az %60'ının ithalini gerçekleştirmiş olmaları şartıyla 31/3/2008 tarihini geçmemek üzere 3 (üç) aya kadar süre uzatımı verilebilir.
