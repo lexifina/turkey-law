@@ -7,3 +7,4 @@ Değiştiren Kanunun/ Tebliğin/İptal Eden Anayasa Mahkemesinin Kararının Num
 5398 | Geçici Madde 2 | 21/7/2005
 7/1/2006 tarihli ve 26046 sayılı R.G.’de yayımlanan Tebliğ | 19 | 1/1/2006
 5493 | Ek Madde 1 | 1/6/2006
+29/12/2006 tarihli ve 26391 sayılı R.G.’de yayımlanan Tebliğ | 19 | 1/1/2007
