@@ -5,3 +5,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5228 | 5, 7 | 31/7/2004
 5350 | 7/j 2, 3, 4, 5, 6, 7/a, c, d, h, i, İşlenemeyen Hüküm | 6/2/2004 tarihinden geçerli olmak üzere 18/5/2005 1/4/2005 tarihinden geçerli olmak üzere 18/5/2005
 5538 | 5 | 12/7/2006
+5568 | 7 | 30/12/2006

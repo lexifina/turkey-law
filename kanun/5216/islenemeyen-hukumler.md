@@ -10,3 +10,4 @@ Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Deği�
 5390 | 13/7/2005 | 13/7/2005 |  | 6, İşlenemeyen Hüküm
 5393 | 13/7/2005 | 13/7/2005 |  | 7, 13, 14, 15, 16, 22
 5538 | 12/7/2006 | 12/7/2006 |  | 7
+5568 | 30/12/2006 | 30/12/2006 |  | Geçici Madde 3 ve 5
