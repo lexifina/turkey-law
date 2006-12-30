@@ -1,5 +1,5 @@
 Tanımlar
-MADDE 3. - Bu Kanunda yer alan;
+Madde 3- Bu Kanunda yer alan;
 a) Çalışanların Tasarruflarını Teşvik Hesabı : 3417 sayılı Kanunun 4 üncü maddesinin beşinci fıkrası uyarınca T.C. Ziraat Bankası nezdinde açılan hesabı,
 b) Tasarrufu Teşvik Hesabı : Kurumlar veya işverenler tarafından, 3417 sayılı Kanunun 4 üncü maddesi uyarınca çalışanları adına T.C. Ziraat Bankasında açılan hesabı,
 c) Hak sahibi : 3417 sayılı Kanunun mülga 2 nci maddesinde belirtilen çalışanların aylık ve ücretlerinden mülga 3 üncü maddesinde belirtilen oranlarda tasarruf kesintisi yapılan ve bu tasarruflara Devlet veya ilgili işverenin katkısı sağlanarak 4 üncü maddesi uyarınca adlarına Tasarrufu Teşvik Hesabı açılanlardan 6 ncı maddesinin birinci ve iptal edilen üçüncü fıkraları uyarınca kendilerine ödeme yapılmayanları,
