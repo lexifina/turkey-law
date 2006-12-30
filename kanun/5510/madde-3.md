@@ -18,6 +18,8 @@ c) Geçiminin sigortalı tarafından sağlandığı Kurumca belirlenen kriterler
 13) Asgarî ücret: 22/5/2003 tarihli ve 4857 sayılı İş Kanunu gereğince 16 yaşından büyük işçiler için belirlenen bir aylık brüt ücreti,
 14) Ay: Ücretleri; kamu idarelerinde her ayın 15'inde ödenen 4 üncü maddenin birinci fıkrasının (a) ve (c) bentleri kapsamındaki sigortalılar için, ayın 15'inden ertesi ayın 15'ine kadar geçen, diğer sigortalılar için ise ayın 1'i ilâ sonu arasında geçen ve otuz gün olarak değerlendirilen süreyi,
 15) Yıl: Ücretleri; kamu idarelerinde her ayın 15'inde ödenen 4 üncü maddenin birinci fıkrasının (a) ve (c) bentleri kapsamındaki sigortalılar için, 15 Ocak tarihinden ertesi yılın 15 Ocak tarihine kadar geçen, diğer sigortalılar için ise 1 Ocak ilâ 31 Aralık tarihleri arasında geçen ve 360 gün olarak değerlendirilen süreyi,
+–––––––––––––––
+(1) Anayasa Mahkemesi’nin 26/12/2006 tarihli ve 26388 sayılı Resmi Gazete’de yayımlanan 15/12/2006 tarihli ve E.: 2006/11, K.: 2006/36 sayılı (Yürürlüğü Durdurma) Kararı ile bu Kanunun çeşitli maddelerinin yürürlüğü durdurulmuş, ilgili maddelerin iptaline ilişkin Anayasa Mahkemesi’nin 15/12/2006 tarihli ve E.: 2006/111, K.: 2006/112 sayılı Kararı ise 30/12/2006 tarihli ve 26392 sayılı (5.Mükerrer) sayılı Resmi Gazete’de yayımlanmıştır.
 16) Gelir: İş kazası veya meslek hastalığı halinde sigortalıya veya sigortalının ölümü halinde hak sahiplerine, yapılan sürekli ödemeyi,
 17) Aylık: Malûllük, yaşlılık ve ölüm sigortalarından yapılan sürekli ödemeyi,
 18) Ödeme dönemi: Bu Kanuna göre bağlanan gelir ve aylıkların, ödeme tarihinden takip eden ödeme tarihine kadar geçen süreyi,
