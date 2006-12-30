@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2006/11447",
+  "source_id": 1382,
+  "date": "2006-12-30",
+  "title": "KURUMLAR VERGİSİ KANUNUNUN 15 İNCİ VE 30 UNCU MADDELERİNDE YER ALAN BAZI TEVKİFAT NİSPETLERİNİN YENİDEN BELİRLENMESİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/bkk/1382",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "994410c7adc4492347232ab3a34fbf3f3ca524a97ed260ea7341d061b314788a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
