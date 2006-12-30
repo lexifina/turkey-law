@@ -1,0 +1,3 @@
+Hasat ve hasat sonrası işlemler
+MADDE 11 – (1) Bölgelerin iklim özellikleri, üzümlerin yetiştirme amacı ve çeşit özellikleri göz önüne alınarak hasat zamanları, Bağcılık Komitesi tarafından belirlenir. Ürünler, kullanım amacına göre ürün kalitesini düşürecek şekilde geç veya erken hasat edilemez.
+(2) Hasat edilen bağ ürünleri, amacı doğrultusunda 27/5/2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun ve 8/6/1942 tarihli ve 4250 sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanunu ve bu kanunlara dayanılarak çıkarılan mevzuat hükümlerine uygun olarak işlenir.
