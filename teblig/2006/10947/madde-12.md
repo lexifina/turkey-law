@@ -1,0 +1,1 @@
+MADDE 12- (1) Türk Standartları Enstitüsü, ekli Aylık Değerlendirme Cetveli’ni (Ek 9) düzenleyerek her ayın ilk 10 günü içinde Dış Ticaret Müsteşarlığı’na (Dış Ticarette Standardizasyon Genel Müdürlüğü) gönderir.

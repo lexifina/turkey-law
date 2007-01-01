@@ -1,0 +1,1 @@
+MADDE 11- (1) 5, 6 ve 7 inci maddeler kapsamında ithal edilen ürünlere münhasıran, ilgili gümrük idareleri, ekli cetveli (Ek 8) düzenleyerek aylık olarak Dış Ticaret Müsteşarlığı’na (Dış Ticarette Standardizasyon Genel Müdürlüğü) gönderir.
