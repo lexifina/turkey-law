@@ -1,0 +1,1 @@
+MADDE 3- (1) Kontrol Belgesine istinaden ithal edilmek istenen maddelerin beyannamenin tescili sırasında insan sağlığı ve güvenliği, hayvan ve bitki varlığı ve sağlığı yönünden uygunluğunun Bakanlık veya Bakanlığın yetkili birimlerince tespit edilmesi halinde, bu maddelerin ithalatına izin verilir.
