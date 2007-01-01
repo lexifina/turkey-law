@@ -1,0 +1,2 @@
+MADDE 4 - (1) İthalat denetimleri, belge ve/veya işaret kontrolü ve/veya fiziki muayene şeklinde gerçekleştirilir, ürünün güvenliğinden veya mevzuatına uygunluğundan şüphe duyulması halinde ürün teste tabi tutulur. Avrupa Birliği’nde serbest dolaşıma girmiş ekli listedeki (Ek 1) ürünlerde, sadece ürünün Bildirim Formunu (Sınıf 2) haiz olup olmadığı kontrol edilir.
+(2) Yapılan denetimlerde ürüne ilişkin mevzuata herhangi bir aykırılığın tespit edilmemesi halinde, ithalatçıya veya temsilcisine, gümrüklere ibraz edilmek üzere uygunluk belgesi verilir.

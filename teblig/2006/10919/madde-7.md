@@ -1,0 +1,1 @@
+MADDE 7 - (1) Elektronik Kimlik Bilgisini haiz cihazların ithalatçısı, cihazların ithalatını müteakiben 15 gün içinde Gümrük Giriş Beyannamesi ile birlikte Elektronik Kimlik Bilgilerini (IMEI numaraları) CD ortamında Telekomünikasyon Kurumu'na sunar.

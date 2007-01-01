@@ -1,0 +1,1 @@
+MADDE 1 - (1) İthal edilecek telsiz ve telekomünikasyon terminal ekipmanlarının, 11/5/2003 tarih ve 25105 sayılı Resmi Gazete’de yayımlanan Telsiz ve Telekomünikasyon Terminal Ekipmanları Yönetmeliğine ve ilgili diğer Yönetmeliklere uygun ve güvenli olması zorunludur.

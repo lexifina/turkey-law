@@ -1,0 +1,1 @@
+MADDE 3 - (1) Ekli listelerde (Ek 1 ve Ek 2) yer alan ürünlerin ithalatı için ithalatçı veya temsilcisi, başvuru formu (Ek 3) ve form ekinde sayılan belgelerle birlikte ekli listede (Ek 4) belirtilen yetkili Dış Ticarette Standardizasyon Denetmenleri Grup Başkanlığına başvurur.
