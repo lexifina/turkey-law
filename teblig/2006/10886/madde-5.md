@@ -1,0 +1,4 @@
+Kota
+MADDE 5 – (1) İthalatında 2007 yılında kota uygulanacak ÇHC menşeli tekstil ve konfeksiyon ürünlerinin kategori numaraları, her bir kategori için kota seviyesi, bir ithal lisansında verilecek baz miktar, bir ithal lisansında verilebilecek en yüksek miktar ile 2007 yılı kota döneminin başlangıç ve bitiş tarihleri Ek-I’de gösterilmiştir.
+(2) Ek-I’de yer alan tekstil ve konfeksiyon ürünleri karşılarında belirtilen kota dönemi süresince ithal lisansı ile ithal edilir. İthal lisansı gümrük beyannamesinin tescilinde ilgili gümrük idaresince aranır. İthal lisansının bir örneği gümrük beyannamesine eklenir.
+(3) Ek-I’de yer alan tekstil ve konfeksiyon ürünleri, bir gümrük beyannamesi kapsamında 25 kg veya 50 adet/çift/takımdan daha az miktarda ithal edilecek ise kota miktarından düşülmeksizin ithal lisansı ile ithal edilir. Söz konusu kota muafiyeti, her firmaya bir defaya mahsus olmak üzere uygulanır.
