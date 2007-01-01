@@ -1,0 +1,37 @@
+{
+  "number": "1",
+  "date": "2007-01-01",
+  "source_id": 1621,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1621/2007-1.pdf",
+  "source_sha256": "9d016af334ec158b2fb82524b9da60e0619375e0caef59be5c8e154e39b6aadd",
+  "history": "as-enacted",
+  "words": 923,
+  "in_force_basis": "Official attached YSK decision 2007/16, PDF p. 4, operative conclusion: Yapılan değişikliğin 01/01/2007 tarihinden itibaren geçerli olmasına",
+  "catalogue_date": "2007-01-17",
+  "source_images": 1,
+  "decorative_images": 1,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "circular_issue_date": "2007-01-17",
+  "attached_decision_numbers": [
+    "16"
+  ],
+  "adoption_dates": [
+    {
+      "page": 4,
+      "date": "2007-01-13",
+      "quote": "13/01/2007 tarihinde oybirliği ile karar verildi"
+    }
+  ],
+  "approval_dates": [],
+  "explicit_effective_dates": [
+    {
+      "page": 4,
+      "date": "2007-01-01",
+      "quote": "Yapılan değişikliğin 01/01/2007 tarihinden itibaren geçerli olmasına"
+    }
+  ],
+  "date_kind": "explicit-commencement",
+  "in_force_date": "2007-01-01"
+}
