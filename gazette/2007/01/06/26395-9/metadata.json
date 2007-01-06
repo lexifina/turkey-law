@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-01-06",
+  "issue": "26395",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "2006/11456 Türk Silahlı Kuvvetlerinde Görevli Devlet Memurları Disiplin Kurulları ve Disiplin Amirleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070106-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070106.htm",
+  "index_sha256": "5a2cb6d9793ab074c2355f9561bcce9e7a886f2d8938321fcd82a5e9601b5a59",
+  "index_header": "6 Ocak 2007 ... 26395 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
