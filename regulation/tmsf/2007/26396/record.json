@@ -1,0 +1,63 @@
+{
+  "path": "regulation/tmsf/2007/26396",
+  "title": "TASARRUF MEVDUATI SİGORTA FONU ALACAKLARININ TAKİP VE TAHSİLİNE İLİŞKİN ESAS VE USULLER HAKKINDA YÖNETMELİK",
+  "number": "26396",
+  "issuer": "Tasarruf Mevduat? Sigorta Fonu",
+  "issuer_slug": "tmsf",
+  "kind": "regulation",
+  "instrument_type": "regulation",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070107-9.htm",
+  "source_sha256": "0c7ebcf3fdafca23f9bfec5df2cd9652a9b115a7ef7416c0ed1dc7ebd04db6a1",
+  "published": "2007-01-07",
+  "gazette_number": "26396",
+  "in_force": "2007-01-07",
+  "in_force_basis": "Official Gazette 2007-01-07; own commencement: MADDE 49 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "commencement_clause": "MADDE 49 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "history": "as-enacted",
+  "label": "as-enacted; amended, not consolidated",
+  "first_law": null,
+  "text_layout": "single-text-file",
+  "source_words": 8474,
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "decorative_images": 0,
+  "reproduction_basis": "Law 5846 Article 31: officially published regulations (y?netmelik).",
+  "consolidation_status": "Official TMSF consolidated Word text remains held for independent source verification; this record is the original Gazette text only.",
+  "amending_acts": [
+    {
+      "date": "2008-11-22",
+      "label": "Publisher-listed amending Gazette; not incorporated"
+    },
+    {
+      "date": "2009-03-31",
+      "label": "Publisher-listed amending Gazette; not incorporated"
+    },
+    {
+      "date": "2012-01-14",
+      "label": "Publisher-listed amending Gazette; not incorporated"
+    },
+    {
+      "date": "2012-11-30",
+      "label": "Publisher-listed amending Gazette; not incorporated"
+    },
+    {
+      "date": "2023-03-09",
+      "label": "Publisher-listed amending Gazette; not incorporated"
+    },
+    {
+      "date": "2005-10-19",
+      "label": "Publisher-listed amending Gazette; not incorporated"
+    },
+    {
+      "date": "1953-07-21",
+      "label": "Publisher-listed amending Gazette; not incorporated"
+    },
+    {
+      "date": "2022-07-22",
+      "label": "Publisher-listed amending Gazette; not incorporated"
+    }
+  ],
+  "amendment_inventory_source": "https://www.tmsf.org.tr/File/Download?fileId=31211956-fdcc-4d70-a110-2fc98efb8154&typeId=1",
+  "amendment_inventory_source_sha256": "7e9b56bcbc3692d30168bb496a5be6b595d1e7939b2ceb7fc66d55f22914bc23"
+}
