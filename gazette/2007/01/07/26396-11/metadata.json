@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-01-07",
+  "issue": "26396",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Etkin Piyasa Gücüne Sahip İşletmecilerin Belirlenmesine İlişkin Usul ve Esaslar Hakkında Tebliğin Yürürlükten Kaldırılmasına İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070107-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070107.htm",
+  "index_sha256": "d007981ca2f024c359d661a1583c05fcaab4a6e6a6f2492e81809640532f4567",
+  "index_header": "7 Ocak 2007 ... 26396 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
