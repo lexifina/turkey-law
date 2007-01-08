@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.55/5511-2510-1051",
+  "source_id": 31068,
+  "date": "2007-01-08",
+  "title": "Yurt dışındaki müşteriye teslim edilmek üzere gönderilen ve gümrük çıkış belgesiyle Türkiye Cumhuriyeti Gümrük Bölgesinden çıktığı tevsik olunan malların alıcıya tesliminden önce nakli sırasında zayi olması halinde bu işlem ihracat istisnası kapsamındadır",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31068",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "0d2a1902fb5ac3593e3b13cb30f63f7281e656723731f672ff582dc4af2c59e2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
