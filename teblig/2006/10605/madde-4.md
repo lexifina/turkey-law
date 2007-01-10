@@ -1,0 +1,3 @@
+Kotanın dağıtılması
+MADDE 4 – (1) Kota, İthalatta Kota ve Tarife Kontenjanı İdaresi Yönetmeliğinin 4 (d) maddesi çerçevesinde dağıtılacaktır. Bu yöntemde firmaların geçmiş dönem ithalat performanslarının değerlendirilmesinin yanı sıra çalıştırdığı işçi sayısı, vergi durumu ve ticari kazancı da gözönüne alınabilecektir.
+(2) EK I’de yer alan ülkeler menşeli eşya için, toplamda ilgili kota dönemindeki kota miktarının % 9’unu ve her bir ülke için % 3’ünü aşmamak kaydıyla, toplam kota miktarından düşüm yapılmaksızın ve bu maddenin birinci fıkrasındaki hükümler uygulanmaksızın ithal lisansı düzenlenir. Bu ülkelerden ithalat yapacak firmalar bu Tebliğin 2 nci maddesinde belirtilen başvuru sürelerine tabi değildir.
