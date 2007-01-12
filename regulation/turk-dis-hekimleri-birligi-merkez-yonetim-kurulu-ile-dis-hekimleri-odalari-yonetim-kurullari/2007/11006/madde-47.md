@@ -1,0 +1,5 @@
+Birlik Merkez Denetleme Kurulunun toplanma zamanı ve şekli
+MADDE 47 – (1) Merkez Denetleme Kurulu seçim sonrası Birlik Genel Başkanı tarafından yazılı olarak toplantıya çağrılır. Seçimden sonraki ilk Merkez Yönetim Kurulu toplantısından sonraki 15 gün içinde böyle bir çağrı yapılmamış ise Merkez Denetleme Kurulu üyelerinden biri Kurulu resen toplantıya çağırabilir. Merkez Denetleme Kurulu ilk toplantısında kendi aralarından bir başkan ve raportör seçer.
+(2) Merkez Denetleme Kurulu üyeleri oy hakkı olmaksızın Merkez Yönetim Kurulu toplantılarına katılabilirler. Toplantıya katılan Merkez Denetleme Kurulu üyelerinin isimleri toplantı tutanağına yazılır. Merkez Denetleme Kurulu, her yıl en az iki kez idari ve mali işlemlerin kuralına göre yapılıp yapılmadığını kontrol eder ve Merkez Yönetim Kuruluna yazılı rapor sunar.
+(3) Merkez Denetleme Kurulu üyeleri de tek başlarına gerekli çalışmaları yapabilir. Merkez Denetleme Kurulu üyesi tek başına yaptığı çalışmayı sözlü yada yazılı olarak Merkez Yönetim Kuruluna bildirir.
+(4) Merkez Denetleme Kurulu; denetim sürecinde büro işlemlerinin aksamaması için Merkez Yönetim Kurulu ile gerekli işbirliğini yapar.

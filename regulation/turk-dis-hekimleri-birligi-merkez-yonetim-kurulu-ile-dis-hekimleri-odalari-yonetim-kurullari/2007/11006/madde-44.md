@@ -1,0 +1,2 @@
+Birlik Merkez Yönetim kurulunun salt çoğunluğunun düşmesi
+MADDE 44 – (1) Merkez Yönetim Kurulu üye sayısı; boşalmalar nedeni ile yedeklerin de göreve getirilmesinden sonra üye tam sayısının yarısından aşağıya düşerse; 30 gün içerisinde Merkez Denetleme Kurulunca Birlik Genel Kurulu toplantıya çağrılır. Bu süre içerisinde Merkez Yönetim Kurulunun acil ve rutin işleri kalan üyelerin oluşturduğu Kurul tarafından yerine getirilir. Bu Kurul da mevcutların yarıdan fazlasının katılımı ile toplanır ve karar alır.

@@ -1,0 +1,2 @@
+Odalar arası nakil
+MADDE 26 – (1) Çalışma bölgesini değiştiren diş hekiminin yeni çalışma bölgesindeki Odaya kayıt olabilmesi için bağlı bulunduğu Odadan ilişkisinin kesildiğine dair belgeyi, haklı sebepler dışında, Oda bölgesinden ayrıldığı tarihten sonraki bir ay içinde ibraz etmesi gerekir. Aksi halde yeni üye kayıt işlemine tabi tutularak kayıt ücreti alınır. Oda bölgesinde çalışmaya başlandığının süresinde bildirilmemesi sebebiyle yapılacak disiplin işlemi saklıdır.

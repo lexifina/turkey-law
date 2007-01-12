@@ -1,0 +1,3 @@
+Birlik Merkez Yönetim Kurulunun toplantıları
+MADDE 38 – (1) Merkez Yönetim Kurulu ayda bir defa olağan, Genel Başkanın yazılı çağrısı üzerine ise olağanüstü olarak Birlik merkezinde toplanır. Geçerli bir mazereti olmaksızın üst üste üç olağan toplantıya katılmayan veya altı ay içinde yapılan toplantıların yarısına her ne sebep olursa olsun katılmayanların üyelikleri kendiliğinden düşer ve yerlerine sırasıyla en fazla oy alan yedek üyeler çağrılır.
+(2) Merkez Yönetim Kurulu asıl üyeliğine yedek üyenin çağrılabilmesi için asıl üyenin üyeliğinin düştüğünün Merkez Yönetim Kurulu tarafından saptanması gerekir. Merkez Yönetim Kurulunun bu tespit kararından sonra Genel Başkan, Genel Başkanvekili veya Genel Sekreter tarafından ilgili yedek üyeye gerekli tebligat yapılır.

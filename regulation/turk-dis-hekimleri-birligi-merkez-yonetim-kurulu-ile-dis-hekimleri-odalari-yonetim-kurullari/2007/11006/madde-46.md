@@ -1,0 +1,7 @@
+Birlik Yüksek Disiplin Kurulu toplantı ve karar yeter sayısı
+MADDE 46 – (1) Yüksek Disiplin Kurulu, ilk toplantıya, Merkez Yönetim Kurulu tarafından en az bir ay önceden asıl üyelere taahhütlü mektup gönderilmek suretiyle çağrılır.
+(2) Yüksek Disiplin Kurulu asıl üyeleri, en yaşlı üyenin başkanlığında açılan ilk toplantıda kendi aralarından gizli oyla bir Başkan ve bir Raportör seçerler. Oyların eşitliği halinde kuraya başvurulur.
+(3) Geçerli mazereti nedeni ile toplantıya katılamayacak üyelerin toplantıdan on gün önce durumlarını belirtmeleri üzerine yerleri yedek üyeler ile doldurulur. Ancak toplantıya on günden az süre kalmış iken mazeret bildirilmiş ise yedek üyeye çağrı yapılmayabilir.
+(4) Yüksek Disiplin Kurulu üyeliklerinde meydana gelen boşalma halinde yedek üyeler çağrılır. Kurul, yedek üyeler katıldığında dahi toplantı yeter sayısına ulaşamaz ise eksik olan üyeliklerin tamamlanması için Merkez Yönetim Kurulu tarafından Yüksek Disiplin Kurulu üyeliği seçimi yapılmak üzere bir ay içerisinde Birlik Genel Kurulu olağanüstü toplantıya çağrılır.
+(5) Yüksek Disiplin Kurulu toplantıları Başkan tarafından yönetilir. Başkan’ın yokluğunda toplantıyı yönetmek üzere katılanlar arasından bir oturum başkanı seçilir. Herhangi bir sebeple oturum başkanı seçilemez ise toplantıya katılanların en yaşlısı Kurul’a başkanlık eder.
+(6) Yüksek Disiplin Kurulu, üye tam sayısının salt çoğunluğu ile toplanır ve toplantıya katılanların salt çoğunluğu ile karar alır. Oyların eşitliği halinde Başkanının kullandığı oy yönünde çoğunluk sağlanmış sayılır.

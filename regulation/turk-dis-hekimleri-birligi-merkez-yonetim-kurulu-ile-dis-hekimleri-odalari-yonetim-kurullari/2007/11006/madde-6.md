@@ -1,0 +1,16 @@
+Oda Genel Kurulunun toplantıları
+MADDE 6 – (1) Genel Kurul iki yılda bir defa Nisan ayında olağan; Yönetim Kurulu veya üyelerin beşte birinin yazılı isteği üzerine olağanüstü olarak Oda merkezinde toplanır.
+(2) Genel Kurul toplantıya Oda Yönetim Kurulu tarafından çağrılır.
+(3) Usulüne uygun olarak olağanüstü toplantı talep edilmesine karşın Genel Kurulun toplantıya çağrılmaması halinde Genel Kurul toplantı çağrısı, toplantı talep edenlerden birinin yazılı isteğiyle, Birlik Merkez Yönetim Kurulu tarafından yapılır.
+(4) Toplantıların günü, yeri, saati ve gündemi toplantı tarihinden en az yirmi gün önce mahalli bir gazeteyle ilan edilir ve ayrıca taahhütlü bir mektupla ya da Tebligat Kanununa uygun olarak üyeye tebliğ yapıldığını gerektiğinde ispatlayacak şekilde kurye, kargo,ve benzeri ile bildirilir.
+Bu ilan ve mektupta çoğunluk sağlanamaması nedeniyle toplantı yapılamazsa yapılacak ikinci toplantının günü, yeri, saati ve gündemi de belirtilir. İlk toplantı günü ile ikinci toplantı arasındaki zaman bir haftadan az olamaz.
+(5) Seçim yapılacak Genel Kurullarda, toplantı gününden en az onbeş gün önce, toplantıya katılma hakkı olan üyeleri gösteren liste iki nüsha olarak ilçe seçim kuruluna bildirilir. Bu bildirime, toplantının yapılacağı gün, saat ve yer ile toplantı gündemi ve çoğunluk sağlanamadığında yapılacak yeni toplantıya ilişkin hususlar da eklenir.
+(6) Toplantı, çoğunluk sağlanamaması dışında, toplantı yapılmasını imkansız kılan herhangi bir sebeple ertelenirse, bu durum üyelere, erteleme sebepleri de belirtilmek suretiyle toplantı çağrısının yapıldığı gazeteye ikinci bir ilan verilerek duyurulur. Yeni toplantının erteleme tarihinden itibaren en geç iki ay içinde yapılması zorunludur. Genel Kurul bu fıkra uyarınca bir defadan fazla ertelenemez.
+(7) Toplantının ertelenmesinden sonra yapılacak yeni toplantı için bu maddenin dördüncü ve beşinci fıkralarındaki hususlar yenilenir.
+(8) Genel Kurul, üye tamsayısının salt çoğunluğu ile toplanır. İlk toplantıda yeterli çoğunluk sağlanamazsa ikinci toplantıda salt çoğunluk aranmaz. Ancak, ikinci toplantıya katılan üye sayısı; Yönetim, Disiplin ve Denetleme Kurulları asıl üyelerinin toplamının iki katından aşağı olamaz. İkinci toplantı da bu sayıya ulaşılamaması sebebiyle yapılamaz ise yeniden bir toplantı tarihi saptanarak genel kurul süreci en başından itibaren yinelenir.
+(9) Genel Kurul toplantıları, ilanda belirtilen gün, yer ve saatte yapılır. Üyeler Yönetim Kurulunca düzenlenen listedeki adları karşısına imza koyarak toplantı yerine girerler.
+(10) Toplantı Yönetim Kurulu Başkanı veya görevlendireceği bir kurul üyesi tarafından açıldıktan sonra toplantıyı yönetmek üzere bir Divan Başkanı, bir Başkanvekili ve iki kâtip üye seçilir.
+(11) Genel Kurul toplantılarında önceden bildirilen gündemdeki konular görüşülür. Ancak, üye tamsayısının beşte birinin imzası ile teklif edilen konular görüşmesiz olarak gündeme ilave edilir.
+(12) Toplantıda hazır bulunan üyelerin beşte birinin imzası ile de gündeme yeni madde ilavesi teklif edilebilir.
+(13) Genel Kurul toplantılarında kararlar hazır bulunanların salt çoğunluğu ile alınır.
+(14) Toplantıyı Divan Başkanı yönetir, kâtipler toplantı tutanağını düzenler ve Başkanla birlikte imzalar. Başkan vekili, Başkanın yokluğunda Başkanın yetkileri ile toplantıyı yönetir.

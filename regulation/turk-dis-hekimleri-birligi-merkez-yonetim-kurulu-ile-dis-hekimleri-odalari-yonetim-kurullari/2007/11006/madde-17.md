@@ -1,0 +1,2 @@
+Oda Başkanı
+MADDE 17 – (1) Yönetim Kurulu Başkanı odayı temsil ve Yönetim Kurulunun olağan ve olağanüstü toplantılarına başkanlık eder. Odanın mali işlerinden ve bu konu ile ilgili defter ve kayıtların tutulmasından saymanla birlikte, diğer defterlerle ve yazışmalarla ilgili olarak da genel sekreter ile birlikte sorumludur. Mali işler ile ilgili yetkisini gerektiğinde Yönetim Kurulu Üyelerinden birine devredebilir.

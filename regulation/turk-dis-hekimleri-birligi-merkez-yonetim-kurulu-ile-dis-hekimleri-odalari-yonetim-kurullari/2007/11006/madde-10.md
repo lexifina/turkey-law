@@ -1,0 +1,2 @@
+Olağanüstü Genel Kurulunun açılışı ve divan seçimi
+MADDE 10 – (1) Olağanüstü Genel Kurul; yeterli çoğunluk sağlandıktan sonra Oda Başkanı, Başkanın bulunmaması halinde Genel Kurulu toplantıya çağıranları temsil eden bir diş hekimi ya da Birlik Merkez Yönetim Kurulu Üyesi tarafından açılır. Daha sonra genel kurul üyeleri arasından önerilen adaylardan; bir divan başkanı, bir başkan vekili ve iki katip üye seçilir.
