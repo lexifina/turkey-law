@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11008",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TOHUMLUK YETİŞTİRİCİLERİ TARAFINDAN 2007 YILI İÇİN ÖDENECEK TARLA VE DEPO KONTROL, LABORATUVAR ANALİZ VE TEST ÜCRETLERİ HAKKINDAKİ TEBLİĞ (TEBLİĞ NO: 2007/5)",
+  "number": "11008",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2007/11008",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11008&MevzuatTertip=5",
+  "source_sha256": "f8dd15f6e1560249c15e516c1acf1337040776ef32d8d19169a1ccb0a227d248",
+  "source_bytes": 66927,
+  "published": "2007-01-12",
+  "gazette": "26401",
+  "in_force": "2007-01-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.01.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1046,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
