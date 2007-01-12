@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11007",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2007 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ (SIRA NO: 1)",
+  "number": "11007",
+  "path": "teblig/2007/11007",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11007&MevzuatTertip=5",
+  "source_sha256": "a44a8afca1e455dfa84400e52373ee06a4eb6ba0222d94cacd44a8f4ea26cc63",
+  "source_bytes": 28626,
+  "published": "2007-01-12",
+  "gazette": "26401",
+  "in_force": "2007-01-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.01.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 319,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
