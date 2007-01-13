@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-01-13",
+  "issue": "26402",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "2007 Yılı Yatırım Programı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070113M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070113M1.htm",
+  "index_sha256": "624bf81d7bb9fc5e6f92d7f99178e53ab23536e5115cfd32089f6c3af99e86be",
+  "index_header": "13 Ocak 2007 ... 26402 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
