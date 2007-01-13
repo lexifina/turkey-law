@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5571",
+  "year": 2006,
+  "title": "Fikir ve Sanat Eserleri Kanunu, Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu ile Turizmi Teşvik Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-01-13",
+  "gazette_issue": "26402",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070113-1.htm",
+  "source_sha256": "78f1993be93c637aee3d3627673f7693ab593e584cb400537d6d233f206ab10a",
+  "text_sha256": "5c0687d37d45494869f1b2e26c757a4de6f935aec23a5d36b1e387b89f0bb4a9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/01/13/26402-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070113-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
