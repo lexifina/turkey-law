@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11012",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BAZI RENKLİ TELEVİZYON TÜPLERİ İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "11012",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2007/11012",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11012&MevzuatTertip=5",
+  "source_sha256": "b041f690664cd1dd91a52cde1f26ca49bf3583b81d6709d53c693c2d378d2289",
+  "source_bytes": 28976,
+  "published": "2007-01-13",
+  "gazette": "26402",
+  "in_force": "2007-01-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.01.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 471,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
