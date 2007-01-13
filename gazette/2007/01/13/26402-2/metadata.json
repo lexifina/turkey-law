@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-01-13",
+  "issue": "26402",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2006/11535 Türkiye Cumhuriyeti Hükümeti ile Avustralya Hükümeti Arasında İmzalanan \"Çalışma ve Tatil Vizesine İlişkin Mutabakat Muhtırasında Değişiklik Yapılmasına Dair Notalar\"ın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070113-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070113.htm",
+  "index_sha256": "124928b0b67cc6f8aa97f9579cef57c0f276e74d1afd517c6b839321e0faadf0",
+  "index_header": "13 Ocak 2007 ... 26402 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
