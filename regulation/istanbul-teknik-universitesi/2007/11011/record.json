@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2007-01-14",
+      "14.01.2007",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "26403",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2007-01-14",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/2007/11011",
+  "published": "2007-01-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=11011&MevzuatTertip=5",
+  "source_bytes": 19534,
+  "source_id": "8.5.11011",
+  "source_sha256": "a6060072aac6f9e8f78b2f00949d801bda6b62500d1bbeb31ee37542993ad6c0",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ PROFESÖR DOKTOR EMİN TURAN ONAT MALZEMELERİN DİNAMİK DAVRANIŞI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 730
+}
