@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 22,
+  "legislative_year": 5,
+  "esas_no": "7/19988",
+  "submitted": "2007-01-16",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Osman ÖZCAN",
+  "province": "Antalya",
+  "summary": "Yapı Denetim Kanununun uygulanmasındaki sorunlara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bd-f0f0-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "1af4a0551ee32a81c0f55f0d79a8f0dee04555f3810ae747e2169bbe9bfc6942",
+  "in_force": "2007-01-16",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
