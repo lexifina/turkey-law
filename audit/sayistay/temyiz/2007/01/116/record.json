@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29046",
+  "decision_date": "2007-01-16",
+  "source_id": 116,
+  "chamber": "3",
+  "file_number": "28579",
+  "account_year": "1994",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/116/",
+  "source_sha256": "995bf56230a9b4e0bd1d7383e92444119eb6b3e2149fe113674e8cff25e86350",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
