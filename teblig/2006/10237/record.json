@@ -1,0 +1,74 @@
+{
+  "source_id": "9.5.10237",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TEDAVİ YARDIMINA İLİŞKİN UYGULAMA TEBLİĞİ (SIRA NO:6)",
+  "number": "10237",
+  "path": "teblig/2006/10237",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10237&MevzuatTertip=5",
+  "source_sha256": "f3d6f72c0ba2b8d4332b404360faa1d231b6a93a577b2e4b46a4c0e7f518ece5",
+  "source_bytes": 308738,
+  "published": "2006-04-29",
+  "gazette": "26153",
+  "in_force": "2007-01-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/01/2007\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2007-01-17",
+      "RG-17/01/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-10-03",
+      "RG-03/10/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/5/2006 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 22026,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.bumko.gov.tr/",
+    "9.5.10237-EK-1.doc",
+    "9.5.10237-EK-1A.doc",
+    "9.5.10237-EK-1B.doc",
+    "9.5.10237-EK-1C.doc",
+    "9.5.10237-EK-1D.doc",
+    "9.5.10237-EK-1E.doc",
+    "9.5.10237-EK-2.doc",
+    "9.5.10237-EK-2A.doc",
+    "9.5.10237-EK-2B.doc",
+    "9.5.10237-EK-2C.doc",
+    "9.5.10237-Ek-2D.xls",
+    "9.5.10237-EK-3.doc",
+    "9.5.10237-EK-3A.doc",
+    "9.5.10237-EK-3B.doc",
+    "9.5.10237-EK-4.xls",
+    "9.5.10237-EK-5.doc",
+    "9.5.10237-EK-5A.XLS",
+    "9.5.10237-EK-5B.doc",
+    "9.5.10237-EK-5C.XLS",
+    "9.5.10237-EK-6-basliknotu.doc",
+    "9.5.10237-EK-6.xls",
+    "9.5.10237-EK-6A.doc",
+    "9.5.10237-EK-6B.doc",
+    "9.5.10237-EK-7-basliknotu.doc",
+    "9.5.10237-EK-7.xls",
+    "9.5.10237-EK-8-basliknotu.doc",
+    "9.5.10237-EK-8.xls",
+    "9.5.10237-EK-8A.xls",
+    "9.5.10237-EK-9.xls",
+    "9.5.10237-PAKET.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
