@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-01-20",
+  "issue": "26409",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2007/11549 Marmara Üniversitesi Rektörlüğüne Bağlı “Avrupa Topluluğu Enstitüsü”nün Adının “Avrupa Birliği Enstitüsü” Olarak Değiştirilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070120-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070120.htm",
+  "index_sha256": "d5e117d063b5018b4d5971f6a1ed1341ab6b065eb21ed3303c384cf0257eb8fd",
+  "index_header": "20 Ocak 2007 ... 26409 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
