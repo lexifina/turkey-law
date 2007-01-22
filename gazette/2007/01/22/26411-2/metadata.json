@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-01-22",
+  "issue": "26411",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Basınçlı Ekipmanlar Yönetmeliği (97/23/AT)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070122-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070122.htm",
+  "index_sha256": "0f50b780c3651b73b8ee916d9027b9925c3b6826e5374c6234b5a7a006d31ca2",
+  "index_header": "22 Ocak 2007 ... 26411 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
