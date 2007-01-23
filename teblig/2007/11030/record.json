@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11030",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2007 YILI TANIKLIK ÜCRET TARİFESİ",
+  "number": "11030",
+  "path": "teblig/2007/11030",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11030&MevzuatTertip=5",
+  "source_sha256": "12470325160d6dcb56b25cb9ff8882c34962ab815fb48af25192bd8d146f97fe",
+  "source_bytes": 15713,
+  "published": "2007-01-23",
+  "gazette": "26412",
+  "in_force": "2007-01-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.01.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 187,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
