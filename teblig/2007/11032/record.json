@@ -1,0 +1,31 @@
+{
+  "source_id": "9.5.11032",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2007 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ (SIRA NO: 3)",
+  "number": "11032",
+  "path": "teblig/2007/11032",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11032&MevzuatTertip=5",
+  "source_sha256": "c3ba3197f2ed9475aad42aeac08dea7f76fbb4f64d590f1f44f33297a88bd5f0",
+  "source_bytes": 27552,
+  "published": "2007-01-24",
+  "gazette": "26413",
+  "in_force": "2007-01-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.01.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1150,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11032-Ek-1.xls",
+    "9.5.11032-Ek-2.xls",
+    "9.5.11032-Ek-3.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
