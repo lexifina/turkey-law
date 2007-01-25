@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1070",
+  "decision_date": "2007-01-25",
+  "title": "2007 yılı için uygulanacak serbest tüketici limiti",
+  "resmi_gazete_date": "2007-01-28",
+  "resmi_gazete_number": "26417",
+  "categories": [
+    "Serbest Tüketici"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iDSBSB85D74=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iDSBSB85D74="
+  ],
+  "source_sha256": "8c423d50bf4738229c5f00e6d03c07180ec4afda4fef13585358ec99f37e047d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-01-25",
+  "law_text_complete": false
+}
