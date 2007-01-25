@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1072",
+  "decision_date": "2007-01-25",
+  "title": "Boru Hatları ile Petrol Taşıma A.Ş.’nin (BOTAŞ) 2006 yılı transit doğal gaz iletimi dahil ulusal iletim şebekesi yatırım programının onaylanmasına ilişkin (2 adet değişiklik içermektedir.)",
+  "resmi_gazete_date": "2007-02-02",
+  "resmi_gazete_number": "26422",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Thse3Y439SM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Thse3Y439SM="
+  ],
+  "source_sha256": "628cac59b76f0dadcf9c799f8332a88df202f66b0dc68b31f493d81ca218f1c5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-01-25",
+  "law_text_complete": false
+}
