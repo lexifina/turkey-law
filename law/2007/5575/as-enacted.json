@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5575",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Amerika Birleşik Devletleri Hükümeti Arasında Kitle İmha Silahlarının Yayılmasının Önlenmesi Amaçlarına Yönelik Yardım Sağlanmasının Kolaylaştırılması İçin İşbirliğine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-01-27",
+  "gazette_issue": "26416",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070127-1.htm",
+  "source_sha256": "b0e683fa9ef3825dca6527b283668e87c6f365790a2e70341030e178b44cbd31",
+  "text_sha256": "b2e8dd08c013b889cc773a106e78fe079230c936d20dc979c6136520b06e804d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/01/27/26416-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070127-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
