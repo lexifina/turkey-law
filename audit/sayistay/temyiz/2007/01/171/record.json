@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29080",
+  "decision_date": "2007-01-30",
+  "source_id": 171,
+  "chamber": "5",
+  "file_number": "28399",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/171/",
+  "source_sha256": "f233a8db7957f6da8841c8edf2fde244f268cc6cabb64da9df0b402469a20725",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
