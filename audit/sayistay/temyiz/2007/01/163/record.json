@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29073",
+  "decision_date": "2007-01-30",
+  "source_id": 163,
+  "chamber": "7",
+  "file_number": "28515",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/163/",
+  "source_sha256": "53a59f6ee936485c99facb98ccdf6332a4c7661e9dd70e85503dd8d64406c877",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
