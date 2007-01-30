@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-01-30",
+  "issue": "26419",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2006/11566 Filyos Serbest Bölgesi’nin Yer ve Sınırlarının Belirlenmesi Hakkındaki 4/4/1994 Tarihli ve 94/5377 Sayılı Kararname ile 30/9/1996 Tarihli ve 96/8692 Sayılı Kararnamenin Yürürlükten Kaldırılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070130-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/01/20070130.htm",
+  "index_sha256": "c0c683b810b07ba5455988a608d4eaf4608b15ac796ce69921fd57178f5e6f9d",
+  "index_header": "30 Ocak 2007 ... 26419 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
