@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5579",
+  "year": 2007,
+  "title": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "2007-02-01",
+  "adopted_as_published": "01/02/2007",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.02.2007 No: 26430",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc091/kanuntbmmc091/kanuntbmmc09105579.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 91",
+  "committee_reports": [
+    {
+      "label": "TBMM 1251 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c145/tbmm22145058ss1251.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 219182,
+      "title": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununda Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "01/02/2007",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc091/kanuntbmmc091/kanuntbmmc09105579.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1251 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c145/tbmm22145058ss1251.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 129,
+          "sitting": 129,
+          "sitting_date": "2006-09-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c129/tbmm22129129.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c129/tbmm22129fih.pdf",
+          "pages": [
+            "596"
+          ]
+        },
+        {
+          "cilt": 133,
+          "sitting": 12,
+          "sitting_date": "2006-10-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c133/tbmm22133012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c133/tbmm22133fih.pdf",
+          "pages": [
+            "27"
+          ]
+        },
+        {
+          "cilt": 145,
+          "sitting": 58,
+          "sitting_date": "2007-02-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c145/tbmm22145058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c145/tbmm22145fih.pdf",
+          "pages": [
+            "698:712"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=801&v_kullanici_id=27483198",
+      "page_sha256": "8a9e3ea0bc9017c7696e90ed6f9ae2b2b1534d8089b6b9bc672cd70bac6128e6"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8a9e3ea0bc9017c7696e90ed6f9ae2b2b1534d8089b6b9bc672cd70bac6128e6",
+  "issuer": "TBMM",
+  "in_force": "2007-02-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 01/02/2007; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
