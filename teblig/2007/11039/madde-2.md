@@ -1,0 +1,1 @@
+MADDE 2 – Bütçe türleri 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ile yeniden düzenlenen idarelerin, 4734 sayılı Kanunun 8 inci maddesi kapsamındaki uygulamalarını 5018 sayılı Kanun ile belirlenen bütçe türlerini esas alarak devam etmeleri gerekmektedir.

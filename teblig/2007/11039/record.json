@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11039",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU İHALE TEBLİĞİ (TEBLİĞ NO: 2007/1)",
+  "number": "11039",
+  "issuer": "Kamu İhale Kurumu Başkanı",
+  "path": "teblig/2007/11039",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11039&MevzuatTertip=5",
+  "source_sha256": "a519c2b18e3f309abda4bbde1a1056220e82c95cfe5b4adb19ae044509e8313d",
+  "source_bytes": 42470,
+  "published": "2007-01-25",
+  "gazette": "26414",
+  "in_force": "2007-02-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/2/2007 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/2/2007 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 730,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
