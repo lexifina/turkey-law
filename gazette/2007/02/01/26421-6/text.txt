@@ -1,0 +1,616 @@
+1 Şubat 2007 PERŞEMBE
+Resmî
+Gazete
+Sayı : 26421
+YÖNETMELİK
+Telekomünikasyon
+Kurumundan:
+NUMARA
+TAŞINABİLİRLİĞİ YÖNETMELİĞİ
+BİRİNCİ
+BÖLÜM
+Amaç,
+Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı, numara taşınabilirliğinin
+uygulanmasına ilişkin usûl ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, telefon şebekelerinde numara
+taşınabilirliğinin uygulanmasına ilişkin usûl ve esasları kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik 4/2/1924 tarih ve 406 sayılı
+Telgraf ve Telefon Kanununun 2 nci maddesinin (e)
+ve (g) fıkraları ile 5/4/1983 tarih ve 2813 sayılı Telsiz Kanununun 7 nci maddesinin birinci fıkrasının (ı) ve (m) bentlerine
+dayanılarak hazırlanmıştır.
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a)
+Abone: Telekomünikasyon hizmeti sunan bir işletmeci ile ilgili hizmetten
+yararlanmaya ilişkin sözleşme yapan gerçek veya tüzel kişiyi,
+b)
+Adres taşınabilirliği: Abonenin numarasını değiştirmeden bulunduğu adresi
+değiştirebilmesini,
+c)
+Alıcı işletmeci: Verici işletmeciden kendisine numara taşınan veya taşınma
+sürecinde olunan işletmeciyi,
+ç)
+Coğrafi numara: Ulusal numaralandırma plânında rakamları coğrafi anlam
+taşıyan ve şebeke sonlanma noktasına çağrının yönlendirilmesini sağlayacak
+şekilde yapılandırılan numarayı,
+d)
+Coğrafi numara taşınabilirliği: Coğrafi numaralarda gerçekleşen işletmeci
+numara taşınabilirliğini,
+e)
+Coğrafi olmayan numara: Ulusal numaralandırma plânında rakamları coğrafi
+anlam taşımayan numaraları,
+f)
+Coğrafi olmayan numara taşınabilirliği: Coğrafi olmayan numaralarda
+gerçekleşen işletmeci numara taşınabilirliğini,
+g)
+GMPCS: Küresel mobil kişisel telefon sistemini,
+ğ)
+Hizmet taşınabilirliği: Abonenin numarasını değiştirmeden aldığı hizmetin
+türünü değiştirebilmesini,
+h)
+İlave iletim maliyeti: Taşınan numaraya yapılan çağrılarda, çağrının
+kurulumu için gerekli olan ve
+taşınmamış bir numaraya yapılan çağrı için kullanılanlara ilave olarak
+kullanılan anahtarlama ve diğer ilgili sistemler ile transmisyon kapasitesi
+dolayısıyla oluşan numaranın tahsisli olduğu işletmecinin arabağlantı
+ücretlerine esas teşkil eden giderlerini,
+ı)
+İşletmeci: Türk Telekom da dahil olmak üzere, Kurum
+ile yapılan görev sözleşmesi, imtiyaz sözleşmesi ve/veya Kurumdan alınan bir
+telekomünikasyon ruhsatı veya genel izin uyarınca telekomünikasyon hizmeti
+yürüten ve/veya telekomünikasyon altyapısı işleten bir sermaye şirketini,
+i)
+İşletmeci numara taşınabilirliği: Abonenin numarasını değiştirmeden hizmet
+aldığı işletmeciyi değiştirebilmesini,
+j)
+Kullanıcı: Aboneliği olup olmamasına bakılmadan telekomünikasyon hizmetlerinden
+yararlanan gerçek veya tüzel kişiyi,
+k)
+Kurul: Telekomünikasyon Kurulunu,
+l)
+Kurum: Telekomünikasyon Kurumunu,
+m)
+Merkezi referans veri tabanı: Taşınmış numaralar, bu numaralara ilişkin
+yönlendirme ve işletmeci bilgileri ile diğer ilgili bilgilerin tutulduğu ve
+numaranın taşınması sırasında işletmeciler arasında bilgi alışverişinde de
+kullanılabilen ortak referans veri tabanını,
+n)
+Mobil numara taşınabilirliği: Mobil numaralarda gerçekleşen işletmeci numara
+taşınabilirliğini,
+o)
+NMT: Nordic mobil telefon sistemini,
+ö)
+Numara: Şebeke ve/veya şebeke sonlanma noktasını tanımlayan, söz konusu
+noktaya çağrının yönlendirilmesini sağlayan ve kullanıldığı yere göre abone,
+uygulama, işletmeci, telekomünikasyon şebekesi ve/veya telekomünikasyon hizmeti
+ile ilişkilendirilebilen bilgiyi içeren harf ve/veya rakamlar dizini veya
+sembolleri,
+p)
+Numara taşıma duyuru zamanı: İşletmecilerin şebekelerinde, taşınan numara ile
+ilişkili düzenlemeleri yapmalarını teminen,
+taşınmakta olan numara, alıcı şebeke bilgisi ve taşınmanın gerçekleşeceği
+tarih ve saatin duyurulduğu zamanı,
+r)
+Numara taşınabilirliği: Abonenin numarasını değiştirmeden hizmet aldığı
+işletmeciyi, bulunduğu fiziksel konumu ve/veya aldığı hizmetin türünü
+değiştirebilmesini,
+s)
+Numara taşınabilirliği yönlendirme bilgisi: Taşınmış bir numara için alıcı
+şebeke bilgisini gösteren ve Kurum tarafından işletmecilere tahsis edilen
+yönlendirme kodunu,
+ş)
+Numaranın tahsisli olduğu işletmeci: Numara taşınabilirliği kapsamındaki
+numaranın Kurum tarafından tahsis edildiği işletmeciyi,
+t)
+Numara ücreti: Numara türüne göre belirlenen ve birincil tahsiste alınan
+yetkilendirme kapsamındaki ücreti,
+u)
+Sistem kurulum maliyeti: İşletmecinin, numara taşınabilirliği hizmeti vermek
+ve/veya taşınmış numaralara çağrı gönderebilmek üzere, şebeke ve
+sistemlerinde yapacağı yenileme, değişiklik, yazılım ve donanım
+güncellemeleri ve benzeri giderler ile işletmeciler arasındaki test
+işlemlerinden kaynaklanan giderleri,
+ü)
+Tarife şeffaflığı: Taşınmış bir numarayı arayan tarafın, aradığı numaraya
+hizmet veren işletmeci hakkında bilgilendirilmesini,
+v)
+Taşıma talebi kontrol süresi: Verici işletmecinin alıcı işletmeciden
+numaranın taşınması talebini alması ile taşınması istenen numaraya ait
+abonelik bilgilerini kontrol ederek alıcı işletmeciye taleple ilgili cevabını
+bildirmesi arasında geçen süreyi,
+y)
+Taşıma talebinin iletim süresi: Abonenin numarasının taşınması için alıcı
+işletmeciye başvurusu ile alıcı işletmecinin bu talebi gerekli bilgilerle
+birlikte verici işletmeciye iletmesi arasında geçen süreyi,
+z)
+Taşınan numara başına idarî maliyet: Taşınan numara başına verici ve alıcı
+işletmecinin idari giderleri ile ilgili işletmecilerin söz konusu numara
+kapsamında yönlendirme bilgileri değişikliklerine ilişkin giderlerini,
+aa) Ulusal numaralandırma plânı: Numaraların yapısını
+tanımlayan; yönlendirme, adresleme, ücretlendirme
+veya hizmet türüne ilişkin bilgi vermek üzere bölümlere ayrılarak
+tanımlanabilen Türkiye numaralandırma planını,
+bb) Verici işletmeci: Kendisinden alıcı işletmeciye
+numara taşınan veya taşınma sürecinde olunan işletmeciyi,
+ifade
+eder.
+(2)
+Bu Yönetmelikte geçen ve yukarıda yer almayan tanımlar ve kısaltmalar için
+ilgili mevzuatta yer alan tanımlar ve kısaltmalar geçerlidir.
+İlkeler
+MADDE 5 – (1) Bu Yönetmeliğin uygulanmasında aşağıda
+belirtilen temel ilkeler gözetilir:
+a)
+Objektif nedenler aksini gerektirmedikçe niceliksel ve niteliksel devamlılık,
+adil davranma, ayrım gözetmeme, düzenlilik, verimlilik, nesnellik,
+orantılılık, şeffaflık ve kaynakların etkin kullanılması,
+b)
+Numara taşınabilirliğine yönelik uygulamaların ülke koşullarına uygun, etkin
+ve uzun vadeli çözümler olması,
+c)
+Etkin ve sürdürülebilir rekabet ortamının oluşturulması,
+ç)
+Kullanıcıların makul koşullarda, kolaylıkla faydalanabilecekleri
+uygulamaların teşvik edilmesi,
+d)
+Tüketici haklarının korunması.
+Numara taşınabilirliğinin kapsamı
+MADDE 6 – (1) Ulusal numaralandırma plânında yer alan coğrafi
+numaralar, coğrafi olmayan numaralar ile mobil numaralar numara
+taşınabilirliği kapsamındadır. Söz konusu numara kaynaklarından herhangi biri
+tahsis edilen ve bu numaraları abonelerine tahsis eden işletmeciler, bu
+Yönetmelik hükümlerine göre işletmeci numara taşınabilirliğini sağlamakla
+yükümlüdür.
+(2)
+İşletmeci numara taşınabilirliği sabit telefon şebekeleri arasında veya mobil
+telefon şebekeleri arasında olacak şekilde gerçekleşir.
+(3)
+Coğrafi numara taşınabilirliği, numaranın taşıdığı coğrafi anlam
+değişmeksizin uygulanır.
+(4)
+Adres taşınabilirliği ve/veya hizmet taşınabilirliğine ilişkin yükümlülükler
+ile uygulanacak usûl ve esaslar Kurum tarafından ayrıca belirlenebilir.
+(5)
+NMT ile GMPCS hizmeti için kullanılan abone numaraları taşınabilirlik
+kapsamında değildir. Ancak, söz konusu hizmetleri sunan işletmeciler de
+taşınmış numaralara doğru başlattıkları çağrıların abonenin hizmet aldığı
+şebekeye yönlendirilmesini temin etmekle yükümlüdür.
+(6)
+Numara türlerine özel diğer hususlar Kurumca belirlenebilir.
+(7)
+Aboneye tahsisli numara, numara ile ilişkili abonelik devam ettiği sürece
+taşınabilirlik kapsamında yer alır.
+İKİNCİ
+BÖLÜM
+Numara
+Taşıma Usûl ve Esasları
+Numara taşıma talebinin yapılması
+MADDE 7 – (1) Numara taşıma işlemi, abonenin numara taşıma
+talebi ile birlikte abonesi olmak istediği alıcı işletmeciye yazılı olarak,
+müşteri hizmetlerini arayarak, internet aracılığı
+veya Kurumca belirlenecek diğer yollar ile başvurmasıyla başlar. Abonenin bu
+yönde bir talebi olmaksızın söz konusu abone için numara taşınabilirliği
+işlemi başlatılamaz. Abone, taşınacak numarayı, kimliğini ispatlayıcı
+bilgileri, verici işletmeci bilgisini, irtibat bilgilerini ve tercih ettiği
+taşıma zamanını doldurulan bir form ile alıcı işletmeciye bildirir ve söz
+konusu işletmeci ile taşıma işleminin gerçekleşmesinden itibaren geçerli
+olacak şekilde abonelik sözleşmesi imzalar. Abone, söz konusu başvuru ile,
+numara taşıma işleminin gerektirdiği bilgilerin verilmesine ve bu işlemin
+kendi adına alıcı işletmeci tarafından yürütülmesine onay vermiş sayılır.
+Abonenin internet kanalıyla, müşteri hizmetleri birimini
+arayarak veya diğer yollarla yaptığı başvurularda, abonenin bu talebe ilişkin
+imzalı formu alınmadan yapılan işlemler geçersiz sayılır. Alıcı işletmeci,
+abonenin numarasının taşınmasına ilişkin imzalı talep formunu, kimliğini
+ispatlayıcı bilgi ve belgeler ile ilgili diğer bilgi ve belgeleri alarak,
+verici işletmeciye gönderilmek üzere, söz konusu bilgi ve belgelerin
+suretlerini elektronik ortamda merkezi referans veri tabanına ulaştırmakla
+yükümlüdür.
+(2)
+Doldurulacak formda aboneye, numara taşınabilirliği ile elde edeceği haklar
+ve bu kapsamdaki yükümlülükleri ile abonenin mevcut işletmecisine karşı olan
+halihazırdaki mali yükümlülüklerinin numarasını taşıması ile sona ermediği
+açıkça belirtilir.
+(3)
+Abonenin numarasını taşıma talebi, aynı zamanda abone için, verici işletmeci
+ile olan abonelik sözleşmesini fesih talebi anlamını taşır. Abonenin alıcı
+işletmeci ile olan abonelik sözleşmesi numaranın fiilen taşınması ile
+yürürlüğe girer ve bu tarih itibarı ile hüküm ve sonuçlarını doğurmaya
+başlar. Söz konusu abonenin verici işletmeci ile olan abonelik sözleşmesi de
+aynı tarih itibarı ile fesholunmuş sayılır.
+(4)
+Alıcı işletmeci, kimliğini ispatlayıcı bilgiler ile birlikte abonenin numara
+taşıma talebini ve bu Yönetmelik hükümlerine uygun olarak istenen taşıma
+zamanını, taşıma talebinin iletim süresi içerisinde verici işletmeciye
+gönderilmek üzere merkezi referans veri tabanına iletir.
+Talebin alınması ve bilgilerin
+doğrulanması
+MADDE 8 – (1) Verici işletmeci, numaranın taşınmasına yönelik
+talebi almasını müteakip, aboneye ait numara ve kimliğini ispatlayıcı
+bilgilerin doğruluğunu kendi kayıtlarıyla karşılaştırır ve talep edilen
+taşıma tarihi ve zamanını kontrol ederek taşıma talebinin kontrol süresi
+içinde taleple ilgili cevabını merkezi referans veri tabanı aracılığı ile
+alıcı işletmeciye bildirir. Söz konusu doğrulama işlemi başvuru sahibi ile
+taşınması talep edilen numaranın doğrulanmasına yönelik olup, abone veya
+alıcı işletmeciden bunun ötesinde işlemi zorlaştırıcı nitelikte bilgi ve
+belge talep edilemez. Doğrulama sürecinde abonenin kimliği konusunda tereddüt
+yaratmayan nitelikte olmak kaydıyla, göz ardı edilebilir kayıt farklılıkları
+mümkün olduğu ölçüde ret gerekçesi oluşturmaz.
+(2)
+Alınan bilgiler kapsamında talebin reddine ilişkin olarak bu Yönetmeliğin 10
+uncu maddesinde belirtilen hususlardan biri mevcut ise verici işletmeci,
+taşıma talebinin kontrol süresi içinde numaranın taşınmasına yönelik talebi
+reddeder. Alıcı işletmeci, verici işletmeciden gerekçeleri ile birlikte ret
+kararını almasını müteakip, ret kararının gerekçelerini numarasını taşımak
+isteyen aboneye bildirir. Söz konusu gerekçede belirtilen eksikliklerin
+giderilmesi halinde başvuru yinelenebilir.
+(3)
+İşletmeciler, numara taşınabilirliği işlemleri sırasında elde ettiği abonelere
+ait kişisel bilgilerin gizliliği konusunda ilgili mevzuata uygun olarak
+hareket eder. Numara taşınabilirliği kapsamında abonelere ait bilgiler,
+işletmeciler tarafından münhasıran ilgili numaranın taşınması amaçlarına
+uygun biçimde kullanılır. İşletmeciler, numara taşıma işlemi sırasında elde
+ettikleri bilgileri, ilgili abonenin numara taşıma konusundaki talebini geri
+alması ya da bu talebi ertelemesi amacıyla
+kullanamaz.
+Numara taşıma işleminin
+gerçekleştirilmesi
+MADDE 9 – (1) Verici işletmeci tarafından yapılan bilgilerin
+doğrulanması ve taşıma işleminin gerçekleşme zamanının, mümkün olduğu ölçüde
+abone tercihi de dikkate alınarak belirlenmesini müteakip, belirlenen tarih
+ve saat alıcı işletmeci tarafından aboneye, merkezi referans veri tabanı tarafından
+da ilgili tüm işletmecilere duyurulur. Söz konusu tarih, verici işletmecinin
+numaranın taşınması talebine ilişkin cevabını gönderdiği tarihten asgari bir
+azami iki gün sonrasıdır. Taşıma işleminin gerçekleşmesine kadar,
+işletmeciler taşımanın gerçekleşeceği zaman ve yönlendirme bilgilerini alarak
+taşımanın gerçekleşeceği tarih ve saatte hazır olacak şekilde sistemlerinde
+gerekli değişiklikleri yapar. Taşıma işlemi belirlenen saat diliminde
+abonenin haberleşme kesintisini asgaride tutacak ve numara aynı anda sadece
+bir işletmecide aktif olacak şekilde gerçekleştirilir.
+(2)
+Taşıma işleminin gerçekleşmesi ile numarası taşınan abone ile alıcı işletmeci
+arasında abonelik sözleşmesi yürürlüğe girer. Verici işletmeci, son tahakkuk
+döneminde numaranın taşınmasına kadar olan süre için tahakkuk eden borcundan
+dolayı aboneye fatura gönderir. Söz konusu fatura, abonenin depozito veya
+avans gibi alacakları düşülerek düzenlenir.
+Numara taşınması talebinin reddine
+ilişkin kriterler
+MADDE 10 – (1) Verici işletmeci, yalnızca aşağıda sayılan
+durumlarda, numaranın taşınmasına ilişkin
+talebi reddeder ve bu durumu gerekçeleri ile birlikte alıcı işletmeciye bildirir:
+a) Taşınması talep edilen numaranın başka bir
+aboneye ait olması,
+b)
+Numarasını taşımak isteyen abonenin, mevcut işletmecisinden numarasının
+değiştirilmesi talebinin bulunması,
+c)
+Numarasını taşımak isteyen abonenin kimlik bilgilerinin, kimlik bilgisini
+ispat edemeyecek nitelikte yanlış veya eksik olması,
+ç)
+Taşınması istenen numaraya ait daha önceden başlatılmış ve devam eden taşıma
+işleminin bulunması.
+Numaranın taşınmasında sahtecilik
+yapılması
+MADDE 11 – (1) Numara taşıma işlemi için verilen bilgilerin
+sahte olduğunun ortaya çıkması halinde, taşıma sürecinin hangi aşamasında
+olunduğuna bakılmaksızın alıcı ve verici işletmeci birbirlerini bu konuda
+bilgilendirir. Taşıma işlemi henüz tamamlanmamış ise taşıma işlemi iptal
+edilir, işlem tamamlanmış ve taşıma gerçekleşmiş ise numaranın verici
+işletmeciye en geç üç gün içerisinde geri taşınması sağlanır.
+Abonenin vazgeçme hakkı
+MADDE 12 – (1) Abone, taşıma zamanının diğer ilgili
+işletmecilere duyurulmasından önce olmak kaydıyla, alıcı işletmeciye başvurarak
+numara taşıma talebinden vazgeçebilir. Bu durumda alıcı işletmeci abonenin
+numarasını taşımaktan vazgeçtiğini taşıma zamanının diğer ilgili
+işletmecilere duyurulmasından önce olacak şekilde verici işletmeciye
+bildirerek taşıma sürecinin sonlanmasını sağlar.
+Taşıma süreci kapsamında uygulanacak
+süreler
+MADDE 13 – (1) İşletmeci numara taşınabilirliği kapsamında,
+işletmecilerin uymakla yükümlü olduğu süreler aşağıdaki şekildedir. Bu
+sürelerde Kurum tarafından değişiklik yapılabilir. İşletmeci bu
+değişikliklere uygun olarak sistemlerinde gerekli düzenlemeleri yapmakla
+yükümlüdür.
+a)
+Taşıma talebinin iletim süresi, azami iki gündür.
+b)
+Taşıma talebi kontrol süresi azami iki gündür.
+c)
+Numara taşıma duyuru zamanı, numaranın taşınması için belirlenen tarihten
+asgari bir gün öncesidir.
+Numaranın tekrar taşınması
+MADDE 14 – (1) Taşınmış bir numaranın tekrar taşınmasında veya
+numaranın tahsisli olduğu işletmeciye geri taşınmasında bu Yönetmelikte
+belirtilen taşıma süreci uygulanır.
+(2)
+Kurum gerekli görmesi halinde, abonenin aynı takvim yılı içerisinde bir
+numara için numara taşınabilirliği hizmetinden yararlanma sayısına sınır
+getirebilir.
+ÜÇÜNCÜ
+BÖLÜM
+Taşınmış
+Numaralara İlişkin Koşullar
+Kullanım koşulları
+MADDE 15 – (1) Taşınmış numaralar aşağıda belirtilen koşullara
+uygun olarak kullanılır:
+a)
+Taşınmış numaralar, ilgili mevzuat hükümlerine ve bu hükümlerle
+belirlenmiş numara kategorisine uygun
+olarak kullanılır.
+b)
+Taşınmış numaralara ilişkin olarak yetkilendirme ücreti kapsamında alınan
+numara ücreti, numaranın tahsisli olduğu işletmeci tarafından ödenir.
+c)
+Numaranın tahsisli olduğu işletmeci, kendisinden taşınmış olan numarayı,
+ilgili abonenin alıcı işletmeci ile aboneliği sona erip söz konusu numara
+alıcı işletmeci tarafından kendisine iade edilmediği sürece, bir başka
+abonesine tahsis edemez.
+ç)
+Taşınan numara, alıcı işletmecide başka birine devredilmez.
+Taşınmış numaranın iadesi
+MADDE 16 – (1) Numarasını taşımış bir abone ile alıcı işletmeci
+arasındaki abonelik sözleşmesinin sona ermesi ve abonenin diğer bir
+işletmeciye numarasının taşınması talebinde bulunmaması halinde, alıcı işletmeci,
+en geç otuz gün içerisinde söz konusu numarayı numaranın tahsisli olduğu
+işletmeciye iade eder. Numarayı iade eden işletmeci, bu durumu otuz gün
+içerisinde ilgili diğer işletmecilere duyurur.
+DÖRDÜNCÜ
+BÖLÜM
+İşletmecilerin
+Yükümlülükleri
+Numara taşınabilirliği sağlama
+yükümlülüğü
+MADDE 17 – (1) Bu Yönetmelik hükümleri ile işletmeci numara
+taşınabilirliği hizmeti sağlamakla yükümlü kılınan işletmeciler,
+sistemlerinde bu yönde gerekli tüm düzenlemeleri yapmakla yükümlüdür.
+Çağrıların yönlendirilmesi yükümlülüğü
+MADDE 18 – (1) İşletmeciler, işletmeci numara taşınabilirliği
+yükümlülüğü olup olmamasına bakılmaksızın, taşınmış bir numaraya doğru
+başlattıkları veya taşıdıkları çağrıların, alıcı işletmeciye doğru bir
+şekilde yönlendirilmesi ile yükümlüdür. İşletmeciler, bu kapsamdaki çağrıları
+doğrudan kendileri alıcı işletmeciye gönderebilecekleri gibi ilgili mevzuata
+uygun olarak başka bir işletmeci üzerinden de dolaylı olarak gönderebilir.
+(2)
+Taşınmış numaralara yapılan tüm çağrılar, uluslararası standartlarla
+belirlenen çağrı kurulma sürelerine uygun olarak yönlendirilir.
+(3)
+Yurtdışından, taşınmış numaraya doğru başlatılan çağrıları yurtiçinde ilgili
+işletmeciye taşıyan işletmeci, çağrıyı başlatan işletmeci gibi
+değerlendirilir ve bu madde hükmünde belirtilen çağrı yönlendirme
+yükümlülüğünü haizdir.
+Tarife şeffaflığına ilişkin yükümlülükler
+MADDE 19 – (1) İşletmeci, tarife şeffaflığına ilişkin her türlü
+tedbiri almakla yükümlüdür. İşletmeci, arayan abone için ayırt edici olacak
+şekilde uyarı tonu verir. Kurum, tüketicilerin korunması amacı ile tarife
+şeffaflığına yönelik olarak, işletmecilere ton haricinde de yükümlülükler
+getirebilir.
+(2)
+Ayrıca, işletmeci, abonelerine, şebekesinden veya şebekesine taşınan
+numaralar ve bu numaralara uygulanan tarifeler ile ilgili olarak telefonla, internet üzerinden duyuru yoluyla veya kısa mesaj
+gönderilmesi suretiyle de bilgilendirme hizmeti verebilir.
+Kuruma bilgi verme yükümlülüğü
+MADDE 20 – (1) İşletmeci, şebekesinden başka bir şebekeye veya
+başka bir şebekeden kendi şebekesine taşınan numaralara ilişkin olarak
+aşağıdaki bilgileri Kurumun talebi halinde Ocak ve Temmuz aylarında Kuruma
+gönderir:
+a)
+Şebekesinden taşınan numara sayısı
+b)
+Şebekesine taşınan numara sayısı
+c)
+Şebekesinden taşıma talebinde bulunan abone sayısı
+ç)
+Şebekesine taşınma talebinde bulunan abone sayısı
+d)
+Reddedilen taşıma taleplerinin sayıları ve gerekçeleri
+e)
+Şebekesinden ve şebekesine doğru gerçekleşen ortalama taşınma süresi
+f)
+Kurum tarafından talep edilen diğer bilgiler
+BEŞİNCİ
+BÖLÜM
+Merkezi
+Referans Veri Tabanı
+Merkezi referans veri tabanının kurulması
+ve işletilmesi
+MADDE 21 – (1) Numara taşınabilirliği kapsamında merkezi
+referans veri tabanı Kurum tarafından kurulur ve yönetilir. Söz konusu veri
+tabanının kurulum ve yönetimine yönelik kurallar ile işletmecilerin bu
+kapsamdaki yükümlülükleri Kurum tarafından belirlenir. İşletmeciler merkezi
+referans veri tabanı ile bağlantılı ve uyumlu çalışacak şekilde şebekelerinde
+gerekli düzenlemeleri yapmakla yükümlüdür.
+(2)
+Merkezi referans veri tabanı, ilgili işletmecilerin sistemleri ile bağlantılı
+olur ve taşıma taleplerinin girilmesi, kontrol edilmesi, taşınan numaraya
+ilişkin ilgili bilgilerin diğer işletmecilere duyurulması, taşınmış numaralar
+ve bu numaralara ait yönlendirme bilgilerinin tutulması ile numara
+taşınabilirliğine ilişkin olarak işletmeciler arası bilgi alışverişi ve
+benzeri işlemler amacıyla kullanılır. Merkezi referans veri tabanı,
+işletmecilerce çağrı kurulumu sırasında aranan numaranın sorgulanması amacıyla
+kullanılamaz.
+(3)
+Merkezi referans veri tabanının kurulum maliyetlerinin işletmeciler
+tarafından karşılanmasına ilişkin usul ve esaslar Kurum tarafından
+belirlenir.
+Merkezi referans veri tabanının
+kullanılması
+MADDE 22 – (1) İşletmeci, merkezi referans veri tabanının
+kopyasının veya kopyalarının kendi şebekesinde kurulması, düzenli olarak
+güncellenmesi ve işletilmesinden sorumludur. Sorgulama işlemleri,
+işletmecinin kendi sisteminde bulunan veri tabanları vasıtasıyla
+gerçekleştirilir.
+(2)
+Merkezi referans veri tabanı üzerinden sağlanacak diğer hizmetler ve uygulamalar, Kurum tarafından belirlenir.
+(3)
+İşletmeci, numara taşınabilirliği kapsamındaki sisteminde oluşabilecek arıza
+durumunda, arızanın giderilmesine yönelik gereken tüm tedbirleri almakla
+yükümlü olup kayıtlarında arıza oluşması halinde, taşınmış numaralara ilişkin
+bilgileri diğer işletmecilerden veya merkezi referans veri tabanından temin
+edebilir.
+ALTINCI
+BÖLÜM
+Mali
+Hükümler ve Numara Taşınabilirliğinde Uygulanacak Ücretlere İlişkin Esaslar
+Genel ilkeler
+MADDE 23 – (1) Numara taşınabilirliğine ilişkin ücretlerde,
+aşağıdaki ilkelere uygunluk gözetilir:
+a)
+Numara taşınabilirliği kapsamında aboneye doğrudan yansıyabilecek ücretler,
+abonelerin bu hizmeti almalarını engelleyici nitelikte olamaz.
+b)
+Numara taşınabilirliği kapsamında, verici işletmeci, numarasını taşıyan
+aboneden herhangi bir ad altında bir defalık veya dönemsel olarak ücret talep
+edemez.
+c)
+Numara taşınabilirliğine ilişkin işletmeciler arası ücretler bu Yönetmelik hükümlerine
+aykırı olmayacak şekilde işletmeciler arasında karşılıklı müzakere edilerek
+serbestçe belirlenir.
+Numara taşınabilirliği maliyet
+kalemleri
+MADDE 24 – (1) Numara taşınabilirliği maliyet kalemleri; sistem
+kurulum maliyeti, taşınan numara başına idari maliyet ve ilave iletim
+maliyetinden oluşur.
+Sistem kurulum maliyeti
+MADDE 25 – (1) İşletmeci, numara taşınabilirliği hizmeti vermek
+veya taşınmış numaralara çağrı göndermek üzere kuracağı yazılım ve donanım
+sistemleri ile mevcut sistemlerinde yapacağı değişiklikler ve sistem testleri
+dolayısıyla oluşan maliyeti kendisi karşılar.
+Taşınan numara başına idari maliyet
+MADDE 26 – (1) Verici işletmeci, şebekesinden taşınan her bir
+numara için oluşan idari maliyetini alıcı işletmeciden alacağı bir defalık
+ücret ile karşılayabilir. Bu ücret maliyet esaslı belirlenir. Kurumun
+ücretlerin maliyet esaslı belirlenmediğine karar vermesi halinde, söz konusu
+ücret Kurum tarafından maliyet esaslı olarak belirlenir. Kurum ücretleri
+maliyet esaslı belirleyinceye kadar diğer ülke uygulamalarını ve
+işletmecilerin maliyet yapılarını uygun olduğu ölçüde dikkate alarak geçici
+ücret dahil üst sınır koyabilir. Kurumun belirlediği ücretler bağlayıcıdır.
+(2)
+Alıcı işletmeci, şebekesine numarasını taşıyan aboneden, abonenin bu
+hizmetten yararlanmasını engellemeyecek bir defalık ücret talep edebilir.
+Kurum, gerekli görmesi halinde aboneden alınacak söz konusu ücretle ilgili
+düzenleme yapabilir.
+(3)
+İşletmeciler, taşınan numaralara ait yönlendirme bilgilerinde yapacakları değişikliğin
+maliyetini kendileri karşılar. Abonenin numara taşınabilirliği dışında
+aboneliğini iptal ettirmesi durumunda oluşan maliyetler verici işletmecinin
+alıcı işletmeciden karşılayabileceği idari ücret içerisinde yer almaz.
+İlave iletim maliyeti
+MADDE 27 – (1) Taşınmış bir numaraya çağrı başlatan işletmeci,
+oluşabilecek ilave iletim maliyetini karşılar.
+YEDİNCİ
+BÖLÜM
+Çeşitli ve
+Son Hükümler
+Numara taşınabilirliği yönlendirme
+bilgisi
+MADDE 28 – (1) Numara
+taşınabilirliği yönlendirme kodları Kurum tarafından belirlenir ve
+ilgili işletmecilere tahsis edilir. İşletmeciler tahsis edilen yönlendirme
+kodlarını şebekelerinde tanımlamak ve çağrıların doğru bir şekilde
+yönlendirilmesini teminen gerekli düzenlemeleri
+yapmakla yükümlüdür.
+Tüketici hakları ve tüketicilerin
+bilgilendirilmesi
+MADDE 29 – (1) İşletmeci; numara taşınabilirliği kapsamında,
+tüketicilerin korunması, anılan hizmetten en iyi koşullarda faydalanabilmeleri
+ve hizmet hakkında bilgilendirilmelerini sağlamak amacıyla gerekli her türlü
+tedbiri alır.
+(2)
+İşletmeci, numara taşıma konusundaki başvuruların nasıl yapılacağı, talep
+edilen bilgi ve belgeler, numara taşıma işleminin gerçekleşme süresi, numara
+taşıma karşılığında herhangi bir ücret ödeyip ödemeyecekleri ve benzeri
+konularda tüketicileri bilgilendirir ve bu bilgileri internet
+sitesinde yayımlar.
+Hizmet kalitesi
+MADDE 30 – (1) Taşınmamış numaralara uygulanan hizmet kalitesi
+kriterleri, taşınmış numaralar için de uygulanır.
+Müeyyideler
+MADDE 31 – (1) Bu Yönetmelik uyarınca,
+a) İşletmecinin,
+bu Yönetmelik hükümlerine göre işletmeci numara taşınabilirliğini sağlama
+yükümlülüğünü yerine getirmemesi durumunda bir önceki takvim yılındaki
+cirosunun % 3 (yüzdeüç)’üne kadar,
+b) İşletmecinin bu Yönetmelikte belirtilen numara
+taşınabilirliğinde uygulanacak ücretlere
+ilişkin esaslara uymaması durumunda bir önceki takvim yılındaki cirosunun %
+1 (yüzdebir)’ine kadar,
+c)
+İşletmecinin, taşıma sürecine ilişkin olarak Yönetmelikte belirtilen sürelere
+uymaması durumunda bir önceki takvim yılındaki cirosunun % 2 (yüzdeiki)’sine kadar,
+ç)
+İşletmecinin tarife şeffaflığına ilişkin bu Yönetmelikte belirtilen
+yükümlülüklerini yerine getirmemesi
+durumunda bir önceki takvim yılındaki cirosunun % 1 (yüzdebir)’ine
+kadar,
+d)
+Verici işletmecinin, numara taşınması konusunda alıcı işletmeciden gelen
+talebi yerine getirmemesi, geçerli bir neden bulunmaksızın böyle bir talebi
+yerine getirmekte gecikmesi veya yönetmeliğe aykırı bir nedenle reddetmesi
+durumunda, bir önceki takvim yılındaki cirosunun % 2 (yüzdeiki)’sine
+kadar,
+e)
+Alıcı işletmecinin, taşınmış bir numaraya ait aboneliğin sona ermesini
+müteakip otuz gün içerisinde numarayı iade ettiğine dair verici işletmeciyi
+bilgilendirmemesi durumunda bir önceki takvim yılındaki cirosunun % 1 (yüzdebir)’ine kadar,
+f)
+İşletmecilerin numara taşıma işlemi sırasında elde ettikleri bilgileri,
+ilgili abonenin numara taşıma konusundaki talebini geri alması ya da ertelemesi amacıyla kullanması halinde bir önceki
+takvim yılındaki cirosunun % 1 (yüzdebir)’ine
+kadar,
+g)
+Alıcı işletmecinin, numaranın taşınacağı tarih ve saati aboneye bildirmemesi
+durumunda, bir önceki takvim yılındaki cirosunun % 0,5 (bindebeş)’ine
+kadar,
+ğ)
+İşletmecinin taşınmış ve taşınmamış numaralar arasında hizmet kalitesi
+bakımından ayrımcı davranması durumunda, bir önceki takvim yılındaki
+cirosunun % 0,5 (bindebeş)’ine kadar,
+h)
+Abonenin numarasının taşınması talebi olmadan, aboneye ait kimlik belgeleri
+alınmadan veya eksik alınarak taşıma sürecinin başlatılması durumunda, taşıma
+sürecini başlatan işletmeci hakkında bir önceki takvim yılındaki cirosunun %
+0,5 (bindebeş)’ine kadar,
+ihlâlin niteliğine göre Kurum tarafından
+belirlenecek oranlarda idarî para cezası uygulanır.
+(2)
+Kurum, bu Yönetmelikte öngörülen idarî para cezalarının uygulanmasından önce
+ilgili işletmeciye Kurumca belirlenecek bir süre içerisinde yükümlülüğünü
+yerine getirmesini ihtar edebilir. Bu süre içerisinde yükümlülüğünü yerine
+getirmeyen işletmeciye Kurumca belirlenen oranda idarî para cezası uygulanır.
+(3)
+Bu madde uyarınca, idarî para cezalarının uygulanması bu Yönetmelikle
+getirilen yükümlülükleri ortadan kaldırmaz. İhlal konusu fiilin tekrarı veya
+devamı halinde işletmecinin bir önceki takvim yılındaki cirosunun % 3 (yüzdeüç)’ünü aşmamak kaydıyla idarî para cezası uygulanır.
+(4)
+Yukarıda yer almayan ihlal hallerinde, işletmecinin bir önceki takvim
+yılındaki cirosunun % 3 (yüzdeüç)’üne kadar olacak
+şekilde, Kurul kararı ile öngörülen oranda idarî para cezası uygulanır.
+Hüküm bulunmayan haller
+MADDE 32 – (1) Bu Yönetmelikte hüküm bulunmayan hallerde,
+tebliğ veya Kurul Kararı ile düzenleme yapılır.
+Uzlaştırma
+MADDE 33 – (1) Numara taşınabilirliğinin erişim veya arabağlantı ücretleriyle ilişkili uzlaşmazlıklarında
+23/5/2003 tarihli ve 25116 sayılı Resmî Gazete’de yayımlanan Erişim ve Arabağlantı Yönetmeliği’nde geçen uzlaşmazlık prosedürü
+işletilir. Diğer ücretlere ilişkin uzlaşmazlıklarda; işletmeciler arasında
+otuz gün içinde uzlaşmaya varılamadığının Kuruma bildirilmesi durumunda;
+Kurum, ilgili tarafların ücretler konusundaki talepleri ve tekliflerinin
+gerekçeli bir biçimde onbeş gün içinde Kuruma
+gönderilmesini talep eder. Müteakiben Kurul, söz konusu talepler ve teklifler
+ile uluslararası uygulamalar ve öngörülebilen maliyet unsurlarını göz önünde
+bulundurarak ücretlerin üst sınırlarını belirler.
+Uygulamanın başlangıç tarihi
+GEÇİCİ MADDE 1 – (1) Kurum tarafından merkezi referans veri tabanının
+kurulduğu tarihin işletmecilere bildirilmesini müteakip; işletmeciler, söz
+konusu kurulum tarihinden itibaren altı ay içerisinde, mobil numara
+taşınabilirliğini, oniki ay içerisinde ise coğrafi
+numara taşınabilirliği ile coğrafi olmayan numara taşınabilirliğini
+uygulamaya geçirmekle ve bu Yönetmelik hükümleri çerçevesinde gerekli
+düzenlemeleri yapmakla yükümlüdür.
+Yürürlük
+MADDE 34 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 35 – (1) Bu Yönetmelik hükümlerini Telekomünikasyon
+Kurulu Başkanı yürütür.
