@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-02-02",
+  "issue": "26422",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulu Üyeleri ile Bankacılık Düzenleme ve Denetleme Kurumu Personelinin Uyacakları Meslekî ve Etik İlkelere Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070202-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070202.htm",
+  "index_sha256": "50ca6479a58ca77928d4b6689db301cb3afda38778a5a902baf1cfcc62500996",
+  "index_header": "2 Şubat 2007 ... 26422 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
