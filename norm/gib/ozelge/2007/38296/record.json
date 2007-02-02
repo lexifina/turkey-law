@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.01.GİB.0.07.31/3185-164/ 009172",
+  "source_id": 38296,
+  "date": "2007-02-02",
+  "title": "Satıcı adına düzenlenecek fiyat farkı faturasında hesaplanacak katma değer vergisi hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38296",
+  "related_law": "3568 sayılı SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU (*)",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "4236834c4640b8a7a63d40c797c74d88dc544c584ea2b56a813de69a36b573f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
