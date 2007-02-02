@@ -1,0 +1,3 @@
+Gözetim ve denetimle ilgili ilkeler
+MADDE 5 – (1) Kurul üyeleri ile Kurum personeli, kendisinin ve Kanunun 3 üncü maddesindeki yöneticiler tanımı içerisinde sayılan eşi, üçüncü derece dahil kan ve ikinci derece dahil sıhrî hısımlarının görev aldığı bankalarda gözetim ve denetim çalışmalarında yer alamaz ve bunlarla ilgili olarak alınacak kararlara katılamaz ve görüş bildiremez.
+(2) Kurum personeli, yerinde denetim sırasında mutad mekan ve bu mekanda bulunan demirbaşlar dışında, kuruluşların olanaklarından yararlanamaz. Yararlanma ihtiyacı, halin icabından dolayı kaçınılmaz ise, hizmet bedelinin Kurum tarafından ödenmesi esastır.

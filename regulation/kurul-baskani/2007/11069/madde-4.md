@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Meslekî ve Etik İlkeler
+Kuruluşların hizmetlerinden yararlanmaya ilişkin ilkeler
+MADDE 4 – (1) Kurul üyeleri ile Kurum personeli ve bunların eş ve velayetleri altındaki çocukları, kuruluşlarda, kamuoyuna ilan edilenden daha avantajlı koşullarda mevduat veya katılma hesabı veya özel cari hesap açtıramaz ve bu tür hesapların başkaları adına avantajlı koşullarda açılmasına aracılık edemez.
+(2) Kurul üyeleri ile Kurum personeli ve bunların eş ve velayetleri altındaki çocukları, makul ve mutad vade ve koşullarda kullandırılan krediler hariç olmak üzere, kuruluşlardan kredi kullanamaz ve kuruluşlarda çalışanlardan borç alamaz, bunları kefil gösteremez.
+(3) Kurul üyeleri ile Kurum personeli ve bunların eş ve velayetleri altındaki çocukları, makul ve mutad vade ve koşullarda kullandırılan konut, tüketici ve benzeri krediler ile kredi kartı kullanımı yoluyla verilen krediler hariç olmak üzere, kuruluşlarca kullandırılan kredilere kefil olamaz, garanti veremez.
+(4) Kurul üyeleri ile Kurum personeli ve bunların eş ve velayetleri altındaki çocukları, kuruluşların elden çıkardıkları arsa, arazi, konut, araç, mobilya gibi menkul ve gayrimenkulleri edinemez ve başkaları tarafından alınmasına aracılık edemez.
+(5) Kurul üyeleri ile Kurum personeli ve bunların eş ve velayetleri altındaki çocukları, yatırım fonları aracılığıyla edinilenler hariç kuruluşların hisse senetlerine doğrudan veya dolaylı olarak sahip olamaz. Miras, hisse bölünmesi, birleşme gibi irade dışı değişmeler sebebiyle bir aykırılık oluşması halinde bu durumun yedi gün içerisinde Kuruma bildirilmesi ve bunların en geç altı ay içerisinde elden çıkarılması zorunludur.
