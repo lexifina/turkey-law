@@ -1,0 +1,54 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2007/5",
+  "date": "2007-02-02",
+  "title": "SPK Haftalık Bülteni 2007/5",
+  "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_5.pdf",
+  "source_sha256": "688e4cb866beb565e425ec4892a250b9e559c2f8d7097d4d69877ecc20e8d3ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2007 – 02.02.2007 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_5.pdf"
+    },
+    {
+      "heading": "B. 29.01.2007 – 02.02.2007 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Daire Başkanı",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_5.pdf"
+    },
+    {
+      "heading": "C. 29.01.2007 – 02.02.2007 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_5.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_5.pdf"
+    },
+    {
+      "heading": "E. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_5.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
