@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-02-03",
+  "issue": "26423",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Adalet Bakanlığına Ait Depo ve Garajlarda Muhafaza Edilen Mahcuz Mallar İçin Alınacak Ücret Tarifesi Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070203-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070203.htm",
+  "index_sha256": "a2d1f34efb12aa19e9dd6f60132fbced1d25a0b4a9205a061ae79f2adcf67347",
+  "index_header": "3 Şubat 2007 ... 26423 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
