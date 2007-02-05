@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2007-02-05",
+      "05.02.2007",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "26425",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2007-02-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kahramanmaraş Sütçü İmam Üniversitesi",
+  "issuer_slug": "kahramanmaras-sutcu-imam-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kahramanmaras-sutcu-imam-universitesi/2007/11070",
+  "published": "2007-02-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=11070&MevzuatTertip=5",
+  "source_bytes": 29020,
+  "source_id": "8.5.11070",
+  "source_sha256": "92385bf86af5e64aac1ef4e6b25402f33ce1119ddbc29e616e80c73001c5d312",
+  "text_status": "as-enacted",
+  "title": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ DEPREM ARAŞTIRMA VE RİSK YÖNETİMİ MERKEZİ YÖNETMELİĞİ",
+  "university_id": 205,
+  "word_count": 1143
+}
