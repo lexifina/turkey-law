@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29106",
+  "decision_date": "2007-02-06",
+  "source_id": 217,
+  "chamber": "6",
+  "file_number": "28711",
+  "account_year": "1997",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/217/",
+  "source_sha256": "4f0adea91fc941648c167fcd4d37781cb5131e32a6eb5bb8fb47515c5ce2fa95",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
