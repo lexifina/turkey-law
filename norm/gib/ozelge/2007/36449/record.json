@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.61/6110-44/17750",
+  "source_id": 36449,
+  "date": "2007-02-07",
+  "title": "197 sayılı Motorlu Taşıtlar Vergisi Kanununun 2 nci maddesinde Panel van, \"Azami toplam ağırlığı 3500 kilogramı geçmeyen, kapalı kasalı (yandan camlı olanlar dahil), sürücü kısmından başka tek veya daha fazla sıralı oturma yeri bulunan, insan ve yük taşım",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36449",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "46bdf7793cc0d490d8fac304d90954c92430e7a0813df7a41556d93ff72290ed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
