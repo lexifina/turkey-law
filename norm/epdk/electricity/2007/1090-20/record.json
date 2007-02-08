@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1090/20",
+  "decision_date": "2007-02-08",
+  "title": "01 Mart 2007 olarak belirlenen rüzgar enerjisine dayalı üretim lisansı başvuru alma tarihinin 01 Ekim 2007 olarak değiştirilmesine İlişkin",
+  "resmi_gazete_date": "2007-02-17",
+  "resmi_gazete_number": "26437",
+  "categories": [
+    "Başvuru"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pMyZ8KmyUqQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pMyZ8KmyUqQ="
+  ],
+  "source_sha256": "c92cd018a52159bc1f8fef04dfd769e7b1ed1e3395d94bc5fd1c63fb5102a988",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33883,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-02-08",
+  "law_text_complete": false
+}
