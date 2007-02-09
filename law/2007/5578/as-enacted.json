@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5578",
+  "year": 2007,
+  "title": "Toprak Koruma ve Arazi Kullanımı Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-02-09",
+  "gazette_issue": "26429",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070209-1.htm",
+  "source_sha256": "c579091ac819fc6f45097f585b387386b68906bf96d90a0131d7272a4126b1e7",
+  "text_sha256": "b5554cd0b749761be86afd8faf18fd1e7d74bd5ac27c61b036175be0e9c85bb7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/02/09/26429-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070209-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
