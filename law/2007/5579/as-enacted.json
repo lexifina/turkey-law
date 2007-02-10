@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5579",
+  "year": 2007,
+  "title": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-02-10",
+  "gazette_issue": "26430",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070210-1.htm",
+  "source_sha256": "a786d1ec6d610124526653375891dc2ae9541e3916f13f6a05dcafc1ab402942",
+  "text_sha256": "5c207500807f65a8669242beb988bed533b3ba09bc304bac2f056aa7c4b999ec",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/02/10/26430-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070210-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
