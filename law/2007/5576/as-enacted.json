@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5576",
+  "year": 2007,
+  "title": "Petrol Piyasası Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-02-13",
+  "gazette_issue": "26433",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070213-1.htm",
+  "source_sha256": "64ab1a82a041669bc6aa8c24132f67c02870066342b46e5344eb7996fa9d454b",
+  "text_sha256": "c2ad18ec368c813a832907746801cbaa8507da2b508be6e4736866fc03a9ca42",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/02/13/26433-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070213-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
