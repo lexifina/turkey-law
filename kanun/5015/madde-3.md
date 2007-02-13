@@ -22,6 +22,8 @@ Lisanslar ile ilgili olarak;
 a) Başvuru, değerlendirme, lisans verme, lisans süresi, tadili, bedeli ile sona ermesi ve süre uzatma işlemlerine,
 b) Sınıflandırılması uygun görülen lisansların, sınıflandırılmasına ait esaslar ve sınıflara göre asgarî büyüklüklerine,
 c) Değişiklik ile sınıflandırmaya tâbi lisanslarda sınıf değiştirme işlemlerine,
+–––––––––––––––––
+(1) 25/1/2007 tarihli ve 5576 sayılı Kanunun 1 inci maddesiyle, bu maddeye (20) numaralı bentten sonra gelmek üzere (21) numaralı, mevcut (40) numaralı bentten sonra gelmek üzere aşağıdaki (41) numaralı bentler eklenmiş ve mevcut bentler teselsül ettirilmiştir.
 d) Aranacak asgarî nitelikler ve ilgililerin tasarrufunda olması gereken asgarî varlıklarına,
 e) Tutulması zorunlu olan kayıtlar ve kayıt yöntemleri ile bildirim yükümlülüklerine,
 f) Faaliyet alt başlıkları ve bunların tanımlarına,
