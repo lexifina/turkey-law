@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29116",
+  "decision_date": "2007-02-13",
+  "source_id": 241,
+  "chamber": "3",
+  "file_number": "28587",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/241/",
+  "source_sha256": "788f90f7045de4b8e31cc643635e201471bf219bd40337f7b5b810a9187880bc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
