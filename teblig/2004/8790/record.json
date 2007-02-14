@@ -1,0 +1,36 @@
+{
+  "source_id": "9.5.8790",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YABANCILARA İKİNCİ EL TAŞIT SATIŞININ UYGULAMA USUL VE ESASLARI HAKKINDA TEBLİĞ (TEBLİĞ NO: SGM - 2004/5)",
+  "number": "8790",
+  "path": "teblig/2004/8790",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8790&MevzuatTertip=5",
+  "source_sha256": "ccbee557494c35051831e4eb7ba2bd6e896feb6e5e47d3f026a5a2b643fa35aa",
+  "source_bytes": 18309,
+  "published": "2004-07-17",
+  "gazette": "25525",
+  "in_force": "2007-02-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/02/2007\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2007-02-14",
+      "RG-14/02/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 650,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
