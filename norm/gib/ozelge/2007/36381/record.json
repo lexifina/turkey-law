@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.60/6000-2411-12878",
+  "source_id": 36381,
+  "date": "2007-02-14",
+  "title": "Veraset ve intikal vergisi beyannamesinin bizzat mükellefler tarafından imzalanması gerektiğinden, vekil tarafından imzalanmak suretiyle düzenlenerek verilen beyanname üzerine her hangi bir işlem yapılması mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36381",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "baaa734cf2c0ede86cc4b9fa1675282416854bfe1877c2b19bd948ca4d9c51b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
