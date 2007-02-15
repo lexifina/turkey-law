@@ -1,0 +1,2 @@
+Depo giriş ve çıkışı ile manevra odalarındaki bağlantı hatlarında kullanılacak malzeme ve dikkat edilecek hususlar
+MADDE 22 – (1) Depo giriş ve çıkışı ile manevra odalarındaki bağlantı hatlarında beton ile boru sistemi birlikte hareket edeceği için kırılma ve ezilmeler meydana geleceği gözetilerek, olası deformasyonu engellemek üzere kontak noktalarındaki boru ve ek parçalar TSE standartlarına uygun kauçuk malzeme ile sarılır.
