@@ -1,0 +1,13 @@
+{
+  "number": "07-14/123-42",
+  "type": "Birleşme ve Devralma",
+  "decision_date": "2007-02-15",
+  "publication_date": "2007-04-09",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=96e2c4f0-8c08-4ade-8201-05255c67cf4a",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=859",
+  "pdf_sha256": "5c70b14476493d4ce2234780e76ace3a78e51150956994e51e32a3ed721d32ac",
+  "pdf_bytes": "173628",
+  "pages": "8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official title"
+}
