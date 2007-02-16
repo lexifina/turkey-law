@@ -1,0 +1,24 @@
+{
+  "number": "94",
+  "number_as_published": "Karar No : 94 Birleşim No : 2",
+  "year": 2007,
+  "title": "Talas Belediyesi, mülkiyeti kendilerine ait, Oturum No : 1 1 pafta, 27 ada, 384 parsel nolu taşınmazın bulunduğu alanda Plan tadilatı talebi.",
+  "decision_date": "2007-02-16",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/16-subat-2007-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "1437ab8993e21115167304d27285264055ba6a9626ba0bf20253230e43450e2d",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2007-02-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16 Şubat 2007 (meeting date in the official page title; no per-decision date); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "16 Şubat 2007 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=20",
+  "subject_published": true
+}
