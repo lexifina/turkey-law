@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11105",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DOĞRUDAN GELİR DESTEĞİ ÖDEMESİ YAPILMASINA DAİR TEBLİĞ (TEBLİĞ NO: 2007/14)",
+  "number": "11105",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2007/11105",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11105&MevzuatTertip=5",
+  "source_sha256": "1e0afdfdec26164d764e5534f47368235423f317113af93127d0175b0c3dff81",
+  "source_bytes": 391296,
+  "published": "2007-02-16",
+  "gazette": "26436",
+  "in_force": "2007-02-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.02.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3326,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
