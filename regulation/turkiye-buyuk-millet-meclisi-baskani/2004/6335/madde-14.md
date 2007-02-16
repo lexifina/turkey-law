@@ -1,0 +1,3 @@
+Acil Vakalar
+Madde 14 — Acil vakalarda, yukarıdaki maddelerde söz konusu edilen işlemlere başvurulmaksızın, hastanın gerekli tedavisi; hastanın bizzat kendisi veya hasta ile ilgili biri tarafından, resmi sağlık kurum ve kuruluşlarına veya buralara ulaşmasında hayati bir tehlike veya bir komplikasyon oluşabileceği durumlarda zaman kaybetmeksizin en yakın özel sağlık kurum veya kuruluşuna yaptırılır. Bu takdirde tedavi masraflarının ödenebilmesi için ilgili hekim ya da özel sağlık kurum veya kuruluşunun vereceği acil vaka raporunun ve diğer belgelerin Kurum hekimince ivedilikle incelenerek tasdiki gerekir.
+Bu hallerde ayrıca vasıta ücreti de ödenir.

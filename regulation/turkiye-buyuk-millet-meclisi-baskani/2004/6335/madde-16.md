@@ -1,0 +1,2 @@
+Sağlık Durumu Dolayısıyla Naklen Tayinin Gerekli Olduğu Hallerde Düzenlenecek Rapor
+Madde 16 — Memurun bir yerden başka bir yere naklen tayinini gerektirecek sağlık kurulu raporlarında, 15 inci maddenin (b) bendinde belirtilen hususlarla birlikte nakli gerektiren hastalık bulguları ve laboratuvar tetkik sonuçlarının açıkça yazılması ve bu bulgulara göre hastanın hangi özelliklere sahip sağlık kurumu bulunan veya hangi iklim ve coğrafi şartların hakim olduğu bir yere nakli hususundaki kararın mucip sebeplerinin belirtilmesi zorunludur.

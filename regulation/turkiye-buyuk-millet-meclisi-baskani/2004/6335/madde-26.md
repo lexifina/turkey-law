@@ -1,0 +1,4 @@
+İçmece ve Kaplıca Tedavisi Giderleri
+Madde 26 — Sağlık kurulları tarafından içmece ve kaplıcalarda tedavilerine lüzum gösterilenler, Maliye ve Sağlık bakanlıkları tarafından tespit edilerek tüm kurumlara gönderilen listede mevcut içmece ve kaplıcalardan birisinde tedavi ettirilirler.
+Tedavi, bu sağlık kurullarınca içmece ve kaplıcanın listedeki yeri belirtilmiş ise orada, belirtilmemiş ise listede bulunanlardan memurun görevinin bulunduğu yere en yakın içmece ve kaplıcada sağlanır.
+(Değişik üçüncü fıkra:RG-16/02/2007-26436) İçmece ve kaplıca tedavilerine tam teşekküllü resmi hastanelerin sağlık kurullarınca verilecek rapor ile gerek görülenlere, raporlarında belirtilen gün sayısını aşmamak üzere banyo giriş ücretleri ile 6245 sayılı Harcırah Kanunu hükümleri gereğince yol masrafı ve gündelik ödenir. Ayrıca yemek parası ödenmez.

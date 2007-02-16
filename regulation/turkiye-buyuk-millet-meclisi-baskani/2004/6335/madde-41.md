@@ -1,0 +1,9 @@
+Cenaze Giderleri Kapsamı ve Ödenmesi
+Madde 41 — Memurların ölümleri halinde cenaze giderleri (cenazenin başka yere nakli dahil) Kurumca ödenir. Kurum tarafından görevli olarak gönderilen veya bu Yönetmeliğin 7 nci maddesine dayanılarak tedavi görmek üzere yurt dışına gönderilmiş olanlar ile kanuni izinlerini geçirmek üzere yurt dışına giden memurlardan ölenlerin cenazelerinin yurda getirilmesi için zorunlu giderler Kurumca ödenir.
+Cenaze giderleri, ölüm olayının oluştuğu yerde, mezar bedeli ve ölünün gömülmesine ilişkin olarak yapılan giderleri kapsar.
+Çelenk, törene ait taşıt giderleri ve benzeri tören harcamaları için başkaca bir ödeme yapılmaz.
+Cenaze, memurun hastalığında tedavi edilmekte olduğu sağlık kurum ve kuruluşunca kaldırılmış ise, buna ilişkin giderler gösterilecek faturaya dayanılarak yukarıda belirtilen koşullar çerçevesinde ilgili kuruma ödenir.
+Cenazenin Kurumca kaldırılması durumunda, görevi yerine getirenlerin yaptıkları giderler, fatura, senet ve belgelere dayalı olarak yukarıda belirtilen koşullar çerçevesinde Kurumca karşılanır.
+Cenaze, ölenin yakınları tarafından kaldırılmış ise, bunların yaptıkları giderler de, gösterecekleri belgelere dayalı olarak yukarıda belirtilen esaslar çerçevesinde kendilerine Kurumca ödenir.
+Memurun, öldüğü yerden, başka bir yere nakli yakınlarınca istenildiği takdirde, gömüleceği yerdeki cenaze giderleri ile Umumi Hıfzıssıhha Kanunu hükümlerine göre yerinde tahnit yapma olanağı varsa yapılacak tahnit gideri ve zorunlu nakil ücreti, belediyece onaylanan fatura üzerinden Kurumca ödenir.
+Memurlardan yurt dışında ölenlerin cenazelerinin yurda getirilmesi için yapılacak zorunlu giderler ile ölünün tahniti ve yurtta gömüleceği yere kadar normal ve zorunlu nakil giderlerinin ödenebilmesi için; yurt dışı giderlerine ait belgelerin mahallin misyon şefliğince, yurt içindeki zorunlu gider belgelerinin ise mahallin belediyesince tasdiki gerekir.

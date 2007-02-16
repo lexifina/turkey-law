@@ -1,0 +1,2 @@
+Hastanın Gönderildiği Resmi Sağlık Kurumunda Tedavinin Sağlanamaması Hali
+Madde 10 —Hastanın gönderildiği resmi sağlık kurumunda tedavisine imkan olmadığı, sağlık kurumunun başhekimi veya yetkilisi tarafından yazılı olarak belirtilirse; hasta, aynı yerde istenilen tedaviyi sağlayabilecek başka bir resmi ya da özel sağlık kurumu veya kuruluşu, yoksa bunu sağlayabilecek en yakın resmi veya özel sağlık kurum veya kuruluşuna gönderilerek tedavisi sağlanır.

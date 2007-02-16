@@ -1,0 +1,3 @@
+Memurun Eşi ve Bakmakla Yükümlü Olduğu Ana, Baba ve Çocuklarının Hastalanması Hali
+Madde 13 — Memurun sağlık yardımından yararlanmayan eşi ve bakmakla yükümlü olduğu ana, baba ve aile yardımına müstahak çocuklarının hastalanmaları halinde, Kurum hekimliğine sağlık karnesiyle müracaat edebilecekleri gibi doğrudan mahalli resmi sağlık kurum veya kuruluşlarına da başvurabilirler. Ancak, Türkiye Büyük Millet Meclisi Sağlık Merkezi dışında yaptırılacak diş ve göz hastalıklarının tedavileri ile özel sağlık kurum ve kuruluşlarında yapılacak diğer tedavilerde hasta sevk kağıdı aranır.
+Bu takdirde; reçete bedelleri ve tedavi masrafları, hasta tarafından ödenmiş ise memura, ödenmemiş ise ilgili sağlık kurum veya kuruluşuna ödenir.
