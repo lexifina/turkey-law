@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-02-17",
+  "issue": "26437",
+  "edition": "regular",
+  "item": 2,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARLARI",
+  "title": "886 Türkçe’deki Bozulma ve Yabancılaşmanın Araştırılması, Türkçe’nin Korunması ve Etkin Kullanımı İçin Alınması Gereken Önlemlerin Belirlenmesi Amacıyla Bir Meclis Araştırması Komisyonu Kurulmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070217-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070217.htm",
+  "index_sha256": "77eff1084f962219cc0cc9e12cef395f3ec498abcc40e4595f1f294d65a0d1fa",
+  "index_header": "1 7 Şubat 2007 ... 26437 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
