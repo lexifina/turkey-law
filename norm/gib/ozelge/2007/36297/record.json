@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.60/6000-2416-15027",
+  "source_id": 36297,
+  "date": "2007-02-21",
+  "title": "Kişinin eşine yapmış olduğu gayrimenkul bağışı ivazsız bir intikal olduğundan, veraset ve intikal vergisine tabi tutulması gerekmektedir",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36297",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "9cdef15ba2003b66bed152ba67e2e0c02faf5edd50ca5f68da02e1f85ee8be14",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
