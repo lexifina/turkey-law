@@ -1,0 +1,2 @@
+Not sistemleri
+MADDE 12 – (1) Ortak programı yürüten tarafların kendi programlarında uyguladıkları not sistemleri ve başarı koşulları ayrı ayrı tanımlanır. Taraf kurumlardan birinde başarısız olunabilecek derslerin ve diğer etkinliklerin nasıl ve taraflardan hangisinde telafi edilebileceğinin ve ortak programda genel not ortalamasının ne şekilde hesaplanacağının esas ve usulleri de belirtilir. Bir öğrencinin mezun olabilmesi için her iki kurumun asgari akademik koşullarını sağlaması ve ayrıca programın tümüne ait akademik gerekleri de yerine getirmesi esastır.

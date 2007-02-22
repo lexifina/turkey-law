@@ -1,0 +1,2 @@
+Ortak diploma
+MADDE 10 – (1) İki Türk yükseköğretim kurumunun birlikte yürütecekleri bir ortak program; yüksek lisans veya doktora düzeyinde olabilir. Bu programda, her iki kurumun akademik gereklerini başarı ile yerine getiren bir öğrenciye, iki üniversitenin ortak hazırladığı tek bir diploma verilir. Diplomalarda yer alacak ibareler taraflar arasında imzalanan protokollerde açıkça belirtilir. Öğrenciler, ortak diplomaya yönelik ortak programın her iki kurumdaki akademik gereklerini yerine getirmeden diploma almaya hak kazanamazlar.
