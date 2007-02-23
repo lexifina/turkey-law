@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54-5411",
+  "source_id": 29921,
+  "date": "2007-02-23",
+  "title": "ithalat ve ihracat komisyonlarının KDV uygulamaları karşısındaki durumu hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29921",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "dea2a187c608da030191325f53c279c36edd5b5636e7a035f4b5e3c3215b8c21",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
