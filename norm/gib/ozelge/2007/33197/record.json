@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.57/5728-50",
+  "source_id": 33197,
+  "date": "2007-02-23",
+  "title": "İmalini yapılan harnup (keçiboynuzu), dut, andız pekmezleri ile harnup (keçiboynuzu) ununa uygulanması gereken KDV oranı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33197",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "3abb6640c72c402c8fce4f238ff8d3d5a040e3e97f6d1dec805dfc872fe3f736",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
