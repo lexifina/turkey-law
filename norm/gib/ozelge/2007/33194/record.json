@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.57/5728-92",
+  "source_id": 33194,
+  "date": "2007-02-23",
+  "title": "Konaklama bedellerine uygulanması gereken katma değer vergisi (KDV) oranı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33194",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "c848654aacffc2f37ab6e65628409ea10716bb895cc0d51afad3019cc3a43763",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
