@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6602-55/15887",
+  "source_id": 37309,
+  "date": "2007-02-23",
+  "title": "Belediyelerce pazar yerlerinin esnaf tarafından usulüne uygun izin alınmak suretiyle geçici olarak satış yapmak maksadıyla işgal edilmesi halinde, işgal harcı alınması ve bunun dışında herhangi bir bedel alınmaması hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37309",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "bfe6ea83144d316917a6a852067a190c0aa1fdd32fd431eb96d4295f3ee2d409",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
