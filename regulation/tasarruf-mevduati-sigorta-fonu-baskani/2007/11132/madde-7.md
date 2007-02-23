@@ -1,0 +1,3 @@
+Koruma tedbirlerinin alınması ve varlıkların satışı
+MADDE 7 – (1) Yönetim kurulu; bankanın, faaliyet izninin kaldırılmasını takiben kasa mevcutlarını, menkul değerlerini, kıymetli evraklarını, nazım hesaplarda izlenen kıymet ve benzeri mevcutlarının sayım ve mutabakatını yapar ve bankanın bütün mal ve haklarının korunması için gerekli tedbirleri alır.
+(2) Mevduat sahiplerinin ve diğer alacaklıların haklarını korumaya yönelik olarak, banka masraflarının azaltılması ve verimliliğin arttırılması amacı ile banka mal varlığına dahil olan ve ihtiyaç dışında kalan menkul, gayrimenkul, hak ve alacakların satışı ve paraya çevrilmesi, banka yönetimi tarafından gerçekleştirilir.

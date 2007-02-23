@@ -1,0 +1,2 @@
+Bankacılık faaliyetinin dışında kalan işlemlerin genel çerçevesi
+MADDE 8 – (1) Bankacılık işlemleri yapma ve mevduat ve katılım fonu kabul etme yasağına aykırı olmayan ve mevduat ve katılım fonu sahipleri ile diğer alacaklıların haklarını korumaya yönelik tedbirlerin alınması ve işlemlerin devamı için gerekli olan faaliyetlerin genel çerçevesi, Tasfiye Daire Başkanlığının önerisi ile Fon Kurulu tarafından belirlenerek banka yönetimince uygulanır.

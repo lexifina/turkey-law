@@ -1,0 +1,4 @@
+Sıra cetvelinin düzenlenmesinden sonra yapılacak işlemler
+MADDE 25 – (1) Sıra cetvelinin usulüne uygun hazırlanıp iflas müdürlüğüne verilmesinden sonra iflas idaresince hazırlanan faaliyet raporu ve İkinci Alacaklılar Toplantısı kararlarına esas olacak hususlar Tasfiye Dairesi Başkanlığınca Fon Kuruluna sunulur. İkinci Alacaklılar Toplantısına ilişkin işlemler, iflas kararının kesinleşmesini müteakiben ifa edilir.
+(2) Fon Kurulu, İkinci Alacaklılar Toplantısı yerine geçmek üzere; iflas idaresi tarafından hazırlanan faaliyet raporunu inceler, mevcut iflas idaresinin görevine devam edip etmemesi ve masanın menfaati için zorunlu bulunan kararları verir. Bu karar Tasfiye Dairesi Başkanlığı tarafından iflas müdürlüğüne ve iflas idaresine bildirilir.
+(3) Lüzumu halinde İkinci Alacaklılar Toplantısı yerine geçmek üzere yukarıdaki işlemler aynen tekrarlanır.

@@ -1,0 +1,2 @@
+Pay cetveli ve dağıtım
+MADDE 27 – (1) Masa mallarının satışı, alacakların tahsili ve sıra cetvelinin kesinleşmesinden sonra masa mevcuduna göre muvakkat veya kesin pay cetveli hazırlanır. Hazırlanan pay cetveli ve son hesap iflas müdürlüğüne bırakılır. İflas idaresince alacaklılara pay miktarları ve ödemenin şekil ve usulü tebliğ edilir. Pay cetveli kesinleştikten sonra masa alacaklılarına payları dağıtılır.

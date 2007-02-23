@@ -1,0 +1,3 @@
+İflas idaresinin seçimi ve alacaklılar toplantısı
+MADDE 20 – (1) Tasfiye Dairesi Başkanlığı, müflis banka hakkında Birinci Alacaklılar Toplantısı yerine geçmek üzere alınacak kararları ve seçilecek iflas idare memurlarının tesbiti amacıyla yeterli mesleki bilgi ve tecrübeye sahip aday isimlerini Fon Kuruluna sunar. Fon Kurulu iflas idare memuru adaylarını bu kişiler arasından belirler. Fon Kurulunca belirlenen adayların isimleri ile Birinci Alacaklılar Toplantısı yerine geçmek üzere alınan kararlar Tasfiye Dairesi Başkanlığı tarafından İcra Mahkemesine sunulmak üzere iflas müdürlüğüne bildirilir.
+(2) İcra Mahkemesi Fonun sunduğu adaylar arasından seçeceği kişileri iflas idare memuru olarak tayin ettikten sonra seçilen memurlar göreve başlar.

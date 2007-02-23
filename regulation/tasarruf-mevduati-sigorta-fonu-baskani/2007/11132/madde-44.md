@@ -1,0 +1,2 @@
+Paraların nemalandırılması
+MADDE 44 – (1) Faaliyet izni kaldırılan bankalarda ve iflas ve/veya tasfiye masasının aktifinde bulunan paralar ve ayrılan karşılıklara tekabül eden nakit mevcutlar masanın borçlarının niteliği ve vadesine göre, masa menfaatleri doğrultusunda Fon Kurulu tarafından belirlenen esaslar çerçevesinde muhafaza edilir ve nemalandırılır. İflas masasının aktifinde bulunan nakit mevcutların nemalandırılması, 2004 sayılı Kanunun 9 uncu ve sair ilgili maddelerine tâbi değildir.

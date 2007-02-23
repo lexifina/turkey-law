@@ -1,0 +1,2 @@
+Kamu kurum ve kuruluşlarına bildirim
+MADDE 34 – (1) Bankanın tasfiye sürecine girdiği, Fon Kurulunun iradi tasfiye kararının Tasfiye Daire Başkanlığına Kurul Büro Müdürlüğü tarafından iletilmesini takiben, 6183 sayılı Kanuna göre takip edilen borçları nedeni ile ilgili tahsil dairelerine aynı Kanunun 33 üncü maddesi uyarınca üç gün içinde, vergi borçlarından dolayı 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 168 inci maddesi uyarınca bir ay içinde ilgili vergi dairelerine bildirilir.

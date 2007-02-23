@@ -1,0 +1,2 @@
+İflas masasının teşkili ve defter tutulması
+MADDE 17 – (1) İflasın açılması ile birlikte müflis bankanın bütün mal, hak ve alacakları iflas masasını teşkil eder. Tasfiye Daire Başkanlığı iflas dairesi sıfatıyla, müflisin masaya dahil olan tüm mal, hak ve alacaklarını tespit eder, iflas tasfiyesine ilişkin düzenlemeleri dikkate alarak defterini tutar ve muhafaza tedbirlerini alır. Bu hususta ilgili tüm kurum, kuruluş, meslek odaları ile gerekli yazışmaları yapar. Temin edilen bilgilerin birer sureti İflas Müdürlüğüne gönderilir.

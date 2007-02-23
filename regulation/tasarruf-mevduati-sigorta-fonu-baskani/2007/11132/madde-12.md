@@ -1,0 +1,2 @@
+Sigortalı mevduat ve katılım fonunun ödenmesi
+MADDE 12 – (1) Faaliyet izni kaldırılarak yönetim ve denetimi Fona intikal eden bankada 10 uncu maddenin birinci fıkrasındaki esaslar çerçevesinde tespit edilen sigortalı mevduat ve sigortalı katılım fonunun hak sahiplerine ödenmesi, 13/2/2006 tarihli ve 2006/10169 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Tasarruf Mevduatı Sigorta Fonu Teşkilat Yönetmeliğinin 14 üncü maddesi uyarınca Finansman Daire Başkanlığı tarafından Fon kaynakları kullanılarak gerçekleştirilir.
