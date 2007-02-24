@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-02-24",
+  "issue": "26444",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2007/11725 Türkiye Radyo-Televizyon Kurumunun Kuracağı veya Katılacağı Ortaklığa Dair Usul ve Esaslar Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070224-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070224.htm",
+  "index_sha256": "ecc9513a8c57679bca4331dc5db3b968d3f315633e381357eaa9d0929dc32ef2",
+  "index_header": "24 Şubat 2007 ... 26444 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
