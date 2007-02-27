@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29135",
+  "decision_date": "2007-02-27",
+  "source_id": 944,
+  "chamber": "4",
+  "file_number": "27912",
+  "account_year": "1998",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/944/",
+  "source_sha256": "41fbed9400e2398f2653b468117c76d6089e5449b0e7da27f21efc1f0accd8a6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
