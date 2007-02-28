@@ -1,0 +1,3 @@
+MUSTAFA KEMAL ÜNİVERSİTESİ SAĞLIK UYGULAMA VE ARAŞTIRMA HASTANESİ YÖNETMELİĞİ
+Amaç
+Madde 1 — Hastanenin amacı; muayene, teşhis ve tedavi için Hastaneye başvuran hastaların ayakta veya yatırılarak tedavisi ile sağlık hizmetleriyle ilgili tüm alanlarda eğitim-öğretim, araştırma ve uygulama yapmak, her düzeyde yetkili tıp ve sağlık personeli yetiştirmek üzere Mustafa Kemal Üniversitesi Tıp Fakültesi başta olmak üzere, Üniversite bünyesindeki diğer fakülte, Enstitü, Yüksekokullar, Araştırma Merkezleri ve diğer kurumlarla işbirliği yaparak sağlık hizmetlerinin tam, kaliteli ve verimli düzeyde yürütülmesini sağlamaktır.

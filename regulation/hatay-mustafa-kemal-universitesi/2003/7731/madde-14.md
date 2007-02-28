@@ -1,0 +1,1 @@
+Madde 14 — Bu Yönetmelikte bulunmayan hususlar için, 2547 sayılı Kanun ve ilgili mevzuata aykırı düşmemek kaydı ile Sağlık ve Sosyal Yardım Bakanlığının Yataklı Tedavi Kurumları İşletme Yönetmeliği uygulanır.
