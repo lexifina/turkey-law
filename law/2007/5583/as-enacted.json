@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5583",
+  "year": 2007,
+  "title": "Futbol Müsabakalarında Müşterek Bahisler Tertibi Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-02-28",
+  "gazette_issue": "26448",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070228-1.htm",
+  "source_sha256": "48f7374c46d26dcbad766762dead8ebbaf0b5070e72da181b51d5ca5e816be86",
+  "text_sha256": "2ab50bd950040072835c17b9220a245dadffaa9f8cf88cbf732a742c2f267ce3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/02/28/26448-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/02/20070228-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
