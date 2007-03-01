@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11151",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 368)",
+  "number": "11151",
+  "path": "teblig/2007/11151",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11151&MevzuatTertip=5",
+  "source_sha256": "2576f5d08167feecee3c693e84741a3a1c8e182113143f9952a71fc7f0d42f3c",
+  "source_bytes": 15952,
+  "published": "2007-03-01",
+  "gazette": "26449",
+  "in_force": "2007-03-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.03.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 441,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
