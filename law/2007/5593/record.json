@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5593",
+  "year": 2007,
+  "title": "Sanayi ve Ticaret Bakanlığının Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2007-03-01",
+  "adopted_as_published": "01/03/2007",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.03.2007 No: 26455",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc091/kanuntbmmc091/kanuntbmmc09105593.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 91",
+  "committee_reports": [
+    {
+      "label": "TBMM 1345 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c149/tbmm22149070ss1345.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 219196,
+      "title": "Sanayi ve Ticaret Bakanlığının Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "01/03/2007",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc091/kanuntbmmc091/kanuntbmmc09105593.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1345 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c149/tbmm22149070ss1345.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 146,
+          "sitting": 59,
+          "sitting_date": "2007-02-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c146/tbmm22146059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c146/tbmm22146fih.pdf",
+          "pages": [
+            "6"
+          ]
+        },
+        {
+          "cilt": 148,
+          "sitting": 68,
+          "sitting_date": "2007-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c148/tbmm22148068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c148/tbmm22148fih.pdf",
+          "pages": [
+            "7"
+          ]
+        },
+        {
+          "cilt": 149,
+          "sitting": 70,
+          "sitting_date": "2007-03-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c149/tbmm22149070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c149/tbmm22149fih.pdf",
+          "pages": [
+            "73:74"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=801&v_kullanici_id=27483198",
+      "page_sha256": "8a9e3ea0bc9017c7696e90ed6f9ae2b2b1534d8089b6b9bc672cd70bac6128e6"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8a9e3ea0bc9017c7696e90ed6f9ae2b2b1534d8089b6b9bc672cd70bac6128e6",
+  "issuer": "TBMM",
+  "in_force": "2007-03-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 01/03/2007; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
