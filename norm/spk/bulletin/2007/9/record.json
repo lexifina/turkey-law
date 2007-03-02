@@ -1,0 +1,61 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2007/9",
+  "date": "2007-03-02",
+  "title": "SPK Haftalık Bülteni 2007/9",
+  "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_9.pdf",
+  "source_sha256": "32f4a2c54391783e7dbf2bb473581501f1d49b5acdd80dd8e7bdaa49711f735f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. YENİ FAALİYET İZNİ",
+    "F. İLKE KARARI"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2007 – 02.03.2007 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_9.pdf"
+    },
+    {
+      "heading": "B. 26.02.2007 – 02.03.2007 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_9.pdf"
+    },
+    {
+      "heading": "C. 26.02.2007 – 02.03.2007 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_9.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_9.pdf"
+    },
+    {
+      "heading": "E. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_9.pdf"
+    },
+    {
+      "heading": "F. İLKE KARARI",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_9.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
