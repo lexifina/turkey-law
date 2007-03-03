@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5585",
+  "year": 2007,
+  "title": "Ekonomik İşbirliği Teşkilatı Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-03-03",
+  "gazette_issue": "26451",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070303-1.htm",
+  "source_sha256": "6beb38912692e81cda461b6349454aea8c0044692feb558dff9dd582d72b0ca2",
+  "text_sha256": "12298eb87d2eb98af2fa96d5ae188bab7a0d201428339364d631d0bf721b1015",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/03/03/26451-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070303-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
