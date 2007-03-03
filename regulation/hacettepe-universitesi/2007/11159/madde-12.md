@@ -1,0 +1,4 @@
+Danışma kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu; Merkez projelerine özel uzmanlık alanlarında katkı sağlamak ve Merkez faaliyetleri ile ilgili olarak değerlendirmelerde bulunmak üzere oluşturulan Kuruldur.
+(2) Danışma Kurulu; konuyla ilgili Üniversitede görevli öğretim elemanları ve istekleri halinde Merkezin çalışma alanlarına katkıda bulunabilecek resmi veya özel sektör kurum ve kuruluşlarının temsilcileri ile bu konuda önemli hizmetler vermiş olan kişiler arasından Müdürün önerisi üzerine, Rektör tarafından üç yıl için görevlendirilen uzmanlardan oluşur. Süresi dolmadan görevlerinden ayrılan üyelerin yerine, kalan süreyi doldurmak için aynı yöntemle yenileri görevlendirilir. Süresi biten üye tekrar görevlendirilebilir.
+(3) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az iki kez toplanır. Danışma Kuruluna, Müdür başkanlık eder.
