@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5587",
+  "year": 2007,
+  "title": "Ekonomik İşbirliği Teşkilatı Eğitim Enstitüsü Kurucu Belgesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-03-03",
+  "gazette_issue": "26451",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070303-3.htm",
+  "source_sha256": "f162b0e7af5348b395e78a05bd5691a0010ea3c9a68b15996806ac33a1c54ede",
+  "text_sha256": "88eaf8be0f864c92c2b92d73acd61e04d37aac2e26b292a70f75656e04f6f59e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/03/03/26451-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070303-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
