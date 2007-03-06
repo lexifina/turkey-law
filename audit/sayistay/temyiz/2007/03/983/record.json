@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29178",
+  "decision_date": "2007-03-06",
+  "source_id": 983,
+  "chamber": "2",
+  "file_number": "28735",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/983/",
+  "source_sha256": "ecf4a0b0929c8cfd29ffe3674a4b8c25f7230780d00e45b4f2dd489b6d238018",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
