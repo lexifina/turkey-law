@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29154",
+  "decision_date": "2007-03-06",
+  "source_id": 959,
+  "chamber": "2",
+  "file_number": "28854",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/959/",
+  "source_sha256": "b47f648582de6ff0b996ef389ded697a21fce2e9b45417ad773c653f43193bd4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
