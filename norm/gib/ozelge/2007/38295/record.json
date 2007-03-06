@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.01.GİB.0.07.31/3185-160/019139",
+  "source_id": 38295,
+  "date": "2007-03-06",
+  "title": "İşletme hakkı bedeli üzerinden ayrılan amortisman giderlerinin kaydı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38295",
+  "related_law": "3568 sayılı SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU (*)",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "5df1fe9f19aac3664749591cc8394d0489f6aebbdf7909e15c188092df6f0f67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
