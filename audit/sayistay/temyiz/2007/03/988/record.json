@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29183",
+  "decision_date": "2007-03-06",
+  "source_id": 988,
+  "chamber": "2",
+  "file_number": "28772",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/988/",
+  "source_sha256": "419237bcad5d8d494208bfd98a9df205840f39774e58a40a8d17140bd85f6177",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
