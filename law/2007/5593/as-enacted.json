@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5593",
+  "year": 2007,
+  "title": "Sanayi ve Ticaret Bakanlığının Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-03-07",
+  "gazette_issue": "26455",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070307-5.htm",
+  "source_sha256": "b14302c550dbcbdee2e220c06af9ffa0360c8c990231ba5b8a8dcfbad4d420c2",
+  "text_sha256": "e80fc17485a0b68cb8c5a9c52be72db75d7923b5b0a3df1ef0da464575c80efb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/03/07/26455-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070307-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
