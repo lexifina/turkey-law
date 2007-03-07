@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5590",
+  "year": 2007,
+  "title": "Uçuş, Paraşüt, Denizaltı, Dalgıç ve Kurbağa Adam Hizmetleri Tazminat Kanunu ve 926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununda Değişiklik Yapılması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-03-07",
+  "gazette_issue": "26455",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070307-2.htm",
+  "source_sha256": "59e7095ccf3075e6c702ad4ea07b94ff106f241d2db370ea9458ab3912069738",
+  "text_sha256": "cdb0b02bc9bcc8f1415a7c66883ba6b80438a86778d6cf9ed37b714adbf0cc44",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/03/07/26455-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070307-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
