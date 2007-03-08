@@ -1,0 +1,13 @@
+{
+  "number": "07-19/192-63",
+  "type": "Rekabet İhlali",
+  "decision_date": "2007-03-08",
+  "publication_date": "2007-06-12",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=3ef60ef0-26c0-4d89-8c6f-8659b235708f",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=850",
+  "pdf_sha256": "228118071900275a004297db5e5cec4db5749d904c75440db6ff471657895d92",
+  "pdf_bytes": "420170",
+  "pages": "43",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
