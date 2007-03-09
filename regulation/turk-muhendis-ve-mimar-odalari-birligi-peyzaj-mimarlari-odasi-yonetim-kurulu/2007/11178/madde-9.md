@@ -1,0 +1,3 @@
+Belgenin süreli veya süresiz iptali
+MADDE 9 – (1) 10/7/2002 tarihli ve 24811 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Disiplin Yönetmeliği ile 15/1/2006 tarihli ve 26050 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Peyzaj Mimarları Ana Yönetmeliğinde belirlenen meslekî davranış kurallarına aykırı hareket ederek meslekten men cezası alanların belgesi Yönetim Kurulu kararıyla iptal edilir.
+(2) Yönetim Kurulu, belge sahibi hakkında meslekî bir nedenle açılan soruşturmanın sonuçlandırılmasına kadar gerekli görülmesi hâlinde ve belge sahibinin belgenin kullanımında, Odanın alacağı kararlara uymaması hâllerinde belgenin kullanımını geçici süre askıya alabilir.

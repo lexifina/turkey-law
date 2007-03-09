@@ -1,0 +1,2 @@
+Belgelendirme
+MADDE 7 – (1) Oda tarafından, belirlenen bu uzmanlık alanlarına göre lisans öğrenimi dikkate alınarak hazırlanan eğitim programları sonucunda gerçekleştirilecek sınavlarda başarılı olan üyelerle Yönetim Kurulu tarafından mesleki birikim ve deneyime göre yeterliliği saptanan üyelere meslek içi eğitim belgesi verilir. Meslek içi eğitim belgesi, peyzaj mimarlığı uzmanlık alanlarında hizmet alacak kişi ve girişimciler için referans niteliğini taşır.
