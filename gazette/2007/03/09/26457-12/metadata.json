@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-03-09",
+  "issue": "26457",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türkiye Muhasebe Standartları Yorumları Hakkında Tebliğ (Sıra No: 43)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070309-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070309.htm",
+  "index_sha256": "d9c19c1e1aad0c4548ac1744fea5ffe8b98a559c10dff8a8cdb2f6a15d568444",
+  "index_header": "9 Mart 2007 ... 26457 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
