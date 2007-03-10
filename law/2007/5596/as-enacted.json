@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5596",
+  "year": 2007,
+  "title": "Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin Eki Cetvellerin Emniyet Genel Müdürlüğüne Ait Bölümünde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-03-10",
+  "gazette_issue": "26458",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070310-3.htm",
+  "source_sha256": "4c02297c95a5f1f3fde1a74f3265809bbe69c7f7472e1aeec15c6d726c831df3",
+  "text_sha256": "3ddebcac8a6beb95a70146b2c3944b29a6ff76224e90341f62aa67714b13d08c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/03/10/26458-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070310-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
