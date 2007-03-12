@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KKDF-1/2007-1",
+  "source_id": 1090,
+  "date": "2007-03-12",
+  "title": "Kaynak Kullanımını Destekleme Fonu Kesintisi Bildirimi ile eki Cetvelin elektronik ortamda gönderilmesi hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/sirkuler/1090",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "cf06f151637116ed9631028c4489abeea307e32903841104d242bfafde011d5d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
