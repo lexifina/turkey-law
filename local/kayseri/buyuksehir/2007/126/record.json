@@ -1,0 +1,24 @@
+{
+  "number": "126",
+  "number_as_published": "Karar No : 126",
+  "year": 2007,
+  "title": "Kıranardı Belediye Meclisinin 05.03.2007 tarih, Oturum No : 1 3 sayılı kararının incelenmesi talebi.",
+  "decision_date": "2007-03-12",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/12-mart-2007-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "d553c4a78ab2d8fb654a75aaf508558e59e8ac94b33ada3e27aee89e1a740d17",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2007-03-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.03.2007 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "12 Mart 2007 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=20",
+  "subject_published": true
+}
