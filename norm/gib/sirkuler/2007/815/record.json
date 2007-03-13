@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-26/2007-2 /e-Beyanname-4",
+  "source_id": 815,
+  "date": "2007-03-13",
+  "title": "Beyana tabi gelirleri sadece gayrimenkul sermaye iradından ibaret olan mükelleflerin beyannamelerini ihtiyari olarak elektronik ortamda doğrudan kendilerinin gönderebilecekleri hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/815",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "a452ee619e66d41091ed174146e25a23c7986c929921a6badb6f0109e7273987",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
