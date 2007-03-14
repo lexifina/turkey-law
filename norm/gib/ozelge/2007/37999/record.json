@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.55/5579-34-566/ 022480",
+  "source_id": 37999,
+  "date": "2007-03-14",
+  "title": "Resim, eğitim, afiş ve benzeri alanlar için hazırlanan su bazlı tablet, tüp, şişe, kavanoz, çanak ve benzeri şekillerdeki ambalajlar içinde bulunan boyaların tesliminde uygulanan KDV oranı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/37999",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "fa43e3bdeddfb4bb2501c5d7bec1bc84c38019a19295d835f450403f258c3d07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
