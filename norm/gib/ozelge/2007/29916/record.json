@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.55/5511-2530-22479",
+  "source_id": 29916,
+  "date": "2007-03-14",
+  "title": "Adalet Bakanlığına bağlı olarak görev yapan icra dairelerinin Vergi Usul Kanununda belirtilen belgeleri düzenleme zorunluluğu olmayıp, bu dairelerin kendi mevzuatları gereğince tanzim ettikleri tahsilat makbuzlarında gösterilen katma değer vergisinin, ind",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29916",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "c5cc336fe2f6ec678703167cd0dc52f140727de408fdb97ad0510d03ca285bfa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
