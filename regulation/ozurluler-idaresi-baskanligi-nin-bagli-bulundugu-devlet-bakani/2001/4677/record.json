@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.4677",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZÜRLÜLER İDARESİ BAŞKANLIĞI ÖZÜRLÜLER ŞURASI YÖNETMELİĞİ",
+  "number": "4677",
+  "issuer": "Özürlüler İdaresi Başkanlığı’nın bağlı bulunduğu Devlet Bakanı",
+  "issuer_slug": "ozurluler-idaresi-baskanligi-nin-bagli-bulundugu-devlet-bakani",
+  "path": "regulation/ozurluler-idaresi-baskanligi-nin-bagli-bulundugu-devlet-bakani/2001/4677",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4677&MevzuatTertip=5",
+  "source_sha256": "9d55d14c33549a60205dd7efe9eb4d9d775402b477cf28f6a7d6d1065eba2f43",
+  "source_bytes": 35214,
+  "published": "2001-12-08",
+  "gazette": "24607",
+  "in_force": "2007-03-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/03/2007\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2007-03-15",
+      "RG-15/03/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1264,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

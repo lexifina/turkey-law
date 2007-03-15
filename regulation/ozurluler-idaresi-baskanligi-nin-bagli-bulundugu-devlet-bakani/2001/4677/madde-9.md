@@ -1,0 +1,2 @@
+Şuranın Amacı
+Madde 9- Şura’nın amacı, Özürlüler İdaresi Başkanlığı’nın kuruluş amacı ve görevleri doğrultusunda, özürlü ve özürlülük konusunda her türlü görüş ve çözüm önerilerini tartışmak, ulusal politikalara esas olacak ilke ve programlar oluşturmak, kamuoyunun bu konuda bilinçlenmesine katkıda bulunmak, ulusal ve uluslararası alanlardaki görüş, düşünce ve gelişmelerin aktarılmasını, tartışılmasını sağlamaktır.
