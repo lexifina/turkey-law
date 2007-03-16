@@ -1,0 +1,6 @@
+Tutanak defterleri
+MADDE 16 – (1) Her köy veya belde için ayrı bir tutanak defteri kullanılır. Tutanak defterinin her sayfası komisyon başkanınca uygulama öncesinde mühürlenir ve sayfa adeti son sayfada gösterilerek tasdik olunur.
+(2) Bir köy veya beldede birden fazla tutanak defteri kullanılırsa bu defterlere köy veya belde ismi yazılır ve sıra ile numara verilir.
+(3) Bir köy ya da beldede dolmayan tutanak defteri müteakip köy veya belde uygulamasında kullanılmaz.
+(4) Köy veya belde tutanak defterlerinde köy ve beldedeki 6831 sayılı Orman Kanununun 2 nci maddesinin (A) bendi uygulaması ilan edildikten sonra köy veya beldenin orman kadastrosu ve aynı Kanunun 2 nci maddesinin (B) bendinin uygulaması ile ilgili tutanak defterlerinin sırası gelmiş sayfasına görevli komisyon başkanlığınca aynen aktarılır ve imzalanır.
+(5) Tutanak defterinin birinci sayfasına köy veya beldenin adı, defter numarası, uygulama yapılan köy veya beldenin ismi, Bakanlık olurunun tarihi, radyo haber bültenin tarihi, ile ilçede çıkan gazetelerin adı, tarihi, mutat vasıtalarla yapılan ilanları tevsik eden belgelerin cinsi, tarihi, numarası ve müteakip sayfalardan itibaren, işe başlama ve bu Yönetmelik uygulamasına ait tutanaklar yer alır. Bu tutanaklara müteselsil sıra numarası verilir.

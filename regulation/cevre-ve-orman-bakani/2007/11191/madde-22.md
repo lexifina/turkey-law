@@ -1,0 +1,3 @@
+Orman sınırları dışına çıkarılacak yerlerin tespiti
+MADDE 22 – (1) Köy veya belde sınırları içerisinde birden fazla orman sınırları dışına çıkarılacak yer varsa, bunların tespitinde kuzeybatıdaki orman alanından başlanır.
+(2) Orman sınırları dışına çıkarılacak yerin sınırlarının numaralanmasında, en kuzeybatıdaki sınır noktasına 3001 numaralı orman sınır noktası verilerek çalışmalara başlanır ve saat ibresi yönünde devam edilmek suretiyle müteselsilen numara verilir. Çalışmaya başlanılan köy veya belde de daha önceden yapılmış olan 6831 sayılı Orman Kanununun 2 nci maddesinin (B) bendi uygulamalarında 3001 nolu orman sınır noktası mevcut ise numaralandırmaya 4001 den başlanır.

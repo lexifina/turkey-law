@@ -1,0 +1,2 @@
+Askerî yasak bölgelerde yapılacak çalışmalar
+MADDE 21 – (1) 18/12/1981 tarihli ve 2565 sayılı Askerî Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu kapsamında kalan yasak, stratejik bölgeler ve güvenlik bölgeleri ile harekât, savunma ve eğitim amaçlı kullanılan yerlerde orman kadastrosu ve 6831 sayılı Orman Kanununun 2 nci maddesinin (A) bendi uygulamasının yapılacağı, Bakanlıkça Millî Savunma Bakanlığına bildirilir. Millî Savunma Bakanlığı komisyona yardımcı olmak ve bilirkişilik yapmak üzere bu çalışmalar sırasında bir temsilci bulundurabilir.

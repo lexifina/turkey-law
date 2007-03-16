@@ -1,0 +1,2 @@
+Yönetmelikte hüküm bulunmayan hususlar
+MADDE 29 – (1) Bu Yönetmelikte hüküm bulunmayan hususlarda 6831 Sayılı Orman Kanununa Göre Orman Kadastrosunun Uygulanması Hakkında Yönetmelik 15/7/1997 tarihli ve 97/9637 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkında Yönetmelik ve 23/6/2005 tarihli ve 2005/9070 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmelik hükümleri uygulanır.

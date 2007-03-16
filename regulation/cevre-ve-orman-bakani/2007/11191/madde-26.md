@@ -1,0 +1,15 @@
+Tutanak suretleri ve haritaların ilanı
+MADDE 26 – (1) Bu Yönetmelikte belirtilen esaslar dahilinde hazırlanarak valilikçe onaylanan tutanak suretleri ve haritaların birer örneği komisyon başkanlığınca uygulama yapılan köy veya beldenin uygun yerlerine asılmak suretiyle ilan olunur.
+(2) Askı ilanının yapıldığı tarih beldelerde belediye encümenlerinin köylerde ihtiyar heyetinin tasdik edecekleri belgelerle tevsik olunur. Bu belgeler komisyon dosyasında saklanır.
+(3) Bu işlemler, ayrıca komisyonlarca Genel Müdürlük ile Maliye Bakanlığının mahalli birimlerine aynı gün yazılı olarak bildirilir. Bildirimin yapıldığına dair belge alınarak dosyasına konulur.
+(4) Bu bildirim ve ilanlardan itibaren altı ay içinde taşınmazın bulunduğu yerin kadastro mahkemelerine, kadastro mahkemeleri olmayan yerlerde kadastro davalarına bakmakla görevli mahkemeye Bakanlık aleyhine iptal davası açılabilir.
+(5) Askı ilanında :
+a) Belde ve köy çalışma alanı hudutları içindeki ormanların sınırlamasının, 6831 sayılı Orman Kanununun 2 nci maddesinin (A) ve (B) bendi uygulamalarının bitirildiği,
+b) Çalışmaların ilgili valilikçe hangi tarihte onaylanarak yürürlüğe girdiği,
+c) Tutanak ve kararlara karşı askı tarihinden itibaren altı ay içinde kadastro mahkemelerine, kadastro mahkemesi olmayan yerlerde kadastro davalarına bakmakla görevli mahkemeye müracaatla sınırlamaya ve 6831 sayılı Orman Kanununun 2 nci maddesinin (A) ve (B) bentlerine göre orman sınırları dışına çıkarma işlemlerine Çevre ve Orman Bakanlığı, Orman Genel Müdürlüğü ve hak sahibi gerçek ve tüzel kişilerin itiraz edebilecekleri,
+ç) Altı ay içinde itiraz davası açılmadığı takdirde komisyon kararlarının kesinleşeceği ve bu sürenin hak düşürücü süre olduğu, ilk defa orman kadastro çalışmaları yapılan belde veya köylerde tapulu gayrimenkullerin orman sınırları içerisinde kalması halinde tapu sahiplerinin 10 yıllık süre içerisinde dava açabilecekleri,
+d) Hak sahibi gerçek ve tüzel kişiler tarafından açılacak sınırlamaya itiraz davalarında hasmın Orman Genel Müdürlüğü, orman sınırları dışına çıkarma işlemlerine karşı açılacak itiraz davalarında ise hasmın Çevre ve Orman Bakanlığı ve Orman Genel Müdürlüğü, Çevre ve Orman Bakanlığınca açılacak davalarda ise hasmın uygulama sonucunda lehine hak doğmuş gerçek ve tüzel kişiler olduğu,
+e) Orman Genel Müdürlüğünce açılacak davalarda hasmın, hak sahibi gerçek ve tüzel kişiler ile Çevre ve Orman Bakanlığı olduğu,
+f) Bu ilanın ilgililere şahsen yapılan tebliğ hükmünde olduğu
+açıkça belirtilir.
+(6) Uygulamada; çalışma yapılan köy veya beldede daha önceden yapılmış olan orman tahdit veya orman kadastro çalışmaları ile orman sınırları dışına çıkarma işlemleri yapılmış, yalnızca 6831 sayılı Orman Kanununun 2 nci maddesinin (A) bendi uygulamalarının yapılması halinde daha önceden yapılmış olan orman kadastrosu ve 6831 sayılı Orman Kanununun 2 nci maddesinin (B) bendi uygulamalarına yönelik kanuni itiraz haklarının dolmuş olmasından ötürü, bu maddenin beşinci fıkrasının (a), (c), (ç) ve (d) bentleri bu çalışmaya uygun olarak düzenlenerek askı ilanına alınır.

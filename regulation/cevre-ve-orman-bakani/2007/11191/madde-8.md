@@ -1,0 +1,2 @@
+Orman sınırları dışına çıkarılmayacak yerler
+MADDE 8 – (1) Yanan orman sahalarında hiçbir suretle, muhafaza ormanı, milli park alanları, tabiat parkları, tabiatı koruma alanları, izin ve irtifak hakkı tesis edilen ormanlık alanlarda ve 6831 sayılı Orman Kanununun 3 üncü maddesiyle orman rejimi içine alınan yerlerde bu niteliklerinin devamı süresince, orman sınırları dışına çıkarma işlemi yapılamaz.
