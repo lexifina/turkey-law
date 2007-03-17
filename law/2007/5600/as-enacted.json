@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5600",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sırbistan ve Karadağ Bakanlar Kurulu Arasında Gelir ve Servet Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-03-17",
+  "gazette_issue": "26465",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070317-3.htm",
+  "source_sha256": "4f56454050221205c6a03996f36b467b0e52ebe8fb7ee92b8068211ad4381d41",
+  "text_sha256": "7500ec2f4b6409598b66f29b106c5d6c2a1e641443b2a5901a9069fac183423b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/03/17/26465-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070317-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
