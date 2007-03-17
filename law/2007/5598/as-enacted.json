@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5598",
+  "year": 2007,
+  "title": "Avrupa Patentlerinin Verilmesi ile İlgili Sözleşmenin (Avrupa Patent Sözleşmesi) Değiştirilmesine İlişkin Anlaşmaya Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-03-17",
+  "gazette_issue": "26465",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070317-1.htm",
+  "source_sha256": "0c94059708564a05c4cd7e4cc7b12ffcdd9cfb6a2584bc66dd20dbf001bda266",
+  "text_sha256": "ea4894ec40506f3842b4b38ef20fc8821f3c47e0417e4b8570e3740d140f4de2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/03/17/26465-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070317-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
