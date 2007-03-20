@@ -1,0 +1,4 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 10/8/1993 tarihli ve 491 sayılı Denizcilik Müsteşarlığının Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararname hükümlerine dayanılarak,
+(2) 25/5/1980 tarihli ve 16998 sayılı Resmî Gazete’de yayımlanan 6/3/1980 tarihli ve 8/522 sayılı Bakanlar Kurulu Kararı ile taraf olunan Denizde Can Emniyeti Uluslararası Sözleşmesi (SOLAS-74) hükümleri ile Gemi ve liman tesisi güvenliğini arttıran 31/3/2004 tarihli ve (EC) 725/2004 sayılı Avrupa Parlamentosu ve Konseyinin Tüzüğü, liman güvenliğini arttıran 26/10/2005 tarihli ve 2005/65/EC sayılı Avrupa Parlamentosu ve Konseyinin Yönetmeliği, deniz güvenliği alanında komisyon denetimlerinin yürütülmesine ilişkin usuller koyan 10/6/2005 tarihli ve (EC) 884/2005 sayılı Komisyon Tüzüğüne paralel olarak,
+hazırlanmıştır.

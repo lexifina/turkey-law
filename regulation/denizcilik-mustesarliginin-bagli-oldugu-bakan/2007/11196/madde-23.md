@@ -1,0 +1,23 @@
+ISPS Kod Bölüm B’nin zorunlu uygulanacak bölümleri
+MADDE 23 – (1) 12/12/2002 tarihinde IMO tarafından onaylanan, ISPS Kod bölüm B’de yer alan;
+a) 1.12 Gemi güvenlik planlarının revizyonu,
+b) 1.16 Liman tesisleri güvenlik değerlendirmesi,
+c) 4.1 Güvenlik planları ve değerlendirmelerinin gizliliğinin korunması,
+ç) 4.4 Tanınmış Güvenlik Kuruluşlarının görev ve yetki kapsamları,
+d) 4.5 Tanınmış Güvenlik Kuruluşların minimum yeterlilikleri,
+e) 4.8 Güvenlik seviyelerinin tespiti,
+f) 4.14, 4.15, 4.16 Liman tesisleri güvenlik planları bilgileri ve irtibat noktaları,
+g) 4.18 Dokümanların tanımlanması,
+ğ) 4.24 Gemilerin karasularında seyrettiği devletin güvenlik tavsiyelerine uymaları,
+h) 4.28 Personel seviyesi,
+ı) 4.41 Gemilerin limana girişleri reddedildiğinde veya limandan çıkarıldığında bilgileri iletilmesi,
+i) 4.45 SOLAS-74’a taraf olmayan ülkelerin gemileri,
+j) 6.1 Şirketlerin gemi operatörlüğü konusunda bilgi sahibi kaptan sağlama yükümlülükleri,
+k) 8.3 - 8.10 Gemi güvenlik değerlendirmesi için minimum standartlar,
+l) 9.2 Gemi güvenlik planı için minimum standartlar,
+m) 9.4 Gemi güvenlik planının onaylanması,
+n) 13.6, 13.7 Gemi Güvenlik Zabitleri, Şirket Güvenlik Sorumluları ve gemi personeli için güvenlik eğitim ve tatbikat periyotları,
+o) 15.3, 15.4 Liman tesisi güvenlik değerlendirmesi için minimum standartlar,
+ö) 16.3, 16.8 Liman tesisi güvenlik planı için minimum standartlar,
+p) 18.5, 18.6 Liman Tesisi Güvenlik Sorumlusu, liman tesisi güvenlik personeli ve ilgili kişiler için eğitim ve tatbikat periyotları,
+maddelerinin uygulanması zorunludur. Bölüm B’nin diğer bölümleri ise uygulamada dikkate alınacak tavsiyeler olarak nitelendirilir.

@@ -1,0 +1,5 @@
+DÖRDÜNCÜ BÖLÜM
+ISPS Kod Eğitimleri ve Talimler
+ISPS Kod eğitimi ve belgelendirme
+MADDE 14 – (1) ISPS Kod kapsamında Gemi Güvenlik Zabiti ve Şirket Güvenlik Sorumlusu olarak görev yapacakların, ISPS Kod Bölüm B Madde 13’e, Liman Tesisi Güvenlik Sorumlusu olarak görev yapacakların ise ISPS Kod Bölüm B Madde 18’e uygun olarak İdare tarafından gerekli görülen eğitimi almaları şarttır. İdare tarafından uygun görülen eğitim kurum/kuruluşlarında Gemi Güvenlik Zabiti, Şirket Güvenlik Sorumlusu veya Liman Tesisi Güvenlik Sorumlusu eğitimini tamamlayanlar adına İdare tarafından görmüş oldukları eğitime dayalı olarak Gemi Güvenlik Zabiti, Şirket Güvenlik Sorumlusu veya Liman Tesisi Güvenlik Sorumlusu belgeleri tanzim edilir.
+(2) Gemi güvenlik planı kapsamında gemide görev alan diğer personele ISPS Kod eğitimi Gemi Güvenlik Zabiti ve/veya Şirket Güvenlik Sorumlusu tarafından, liman tesisi güvenlik planı kapsamında liman tesisinde görev alan diğer personele ISPS Kod eğitimi Liman Tesisi Güvenlik Sorumlusu ve/veya liman tesisinin Tanınmış Güvenlik Kuruluşu tarafından verilir.
