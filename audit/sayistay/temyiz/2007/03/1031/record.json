@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29226",
+  "decision_date": "2007-03-20",
+  "source_id": 1031,
+  "chamber": "4",
+  "file_number": "28549",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1031/",
+  "source_sha256": "7cfddcac3f17d0185de6591177fd4e4baef76f27e7e0764fc25e12e5a6788efc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
