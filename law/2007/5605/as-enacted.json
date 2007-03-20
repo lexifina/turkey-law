@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5605",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Gürcistan Hükümeti Arasında Batum Uluslararası Havalimanının Ortak Kullanılmasına Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-03-20",
+  "gazette_issue": "26468",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070320-1.htm",
+  "source_sha256": "a9320f92ea3cb5b7af3986f24a2ea88851a2bbf70fdc1b3259b9e182594ea025",
+  "text_sha256": "60c8655dc5da2e36095945fbcd2a9ffd94910d4d3dace3eed9c0f16961eb6ef1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/03/20/26468-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070320-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
