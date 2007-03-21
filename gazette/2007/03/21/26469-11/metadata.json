@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-03-21",
+  "issue": "26469",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2007/11835 Türkiye Halk Bankası Anonim Şirketince Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifleri Kefaletiyle Esnaf ve Sanatkarlara Kredi Kullandırılmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070321-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070321.htm",
+  "index_sha256": "cf2d40f55c0af2f241dc7813b3fa9fc7f0ef3a401d414cf4f8d062e975096c07",
+  "index_header": "21 Mart 2007 ... 26469 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
