@@ -1,0 +1,25 @@
+{
+  "number": "45",
+  "number_as_published": "45",
+  "year": 2007,
+  "title": "UKOME kararı 2007/45",
+  "decision_date": "2007-03-21",
+  "source": "https://www.izmir.bel.tr/tr/UkomeKararlari/UkomeKararlariGetirJS?draw=1&start=0&length=500&baslangicTarihi=01.01.2007&bitisTarihi=31.12.2007&kararNo=&konuKodu=&ilceId=&sokakKodu=&teklif=&asilKararNo=",
+  "official_document": null,
+  "source_sha256": "48eb1d81c5a3d5682ac1f591d02bb5470339b5d186bfa29b083cd75f210a96ec",
+  "issuer": "İzmir Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2007-03-21",
+  "in_force_basis": "Decision date as printed in the official council listing: 21/03/2007; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.izmir.bel.tr/tr/UkomeKararlari/64",
+  "register_id": 663,
+  "file_name": "2007-45.DOC",
+  "district": null
+}
