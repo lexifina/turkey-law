@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29203",
+  "decision_date": "2007-03-21",
+  "source_id": 1008,
+  "chamber": "3",
+  "file_number": "28672",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1008/",
+  "source_sha256": "19f1be2aa42b927d3c3203a405402c3838c0f989edd2fdb396775c7dab618373",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
