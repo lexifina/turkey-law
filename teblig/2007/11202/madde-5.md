@@ -1,0 +1,4 @@
+İhracat bağlantılı sözleşmeli tarımsal üretimin desteklenmesi
+MADDE 5 - (1) 4 üncü maddenin 1,2,3,4,5 ve 6 ncı sıra numaralarında yer alan ürünlerin, İhracat Bağlantılı Tarımsal Üretim Sözleşmesi kapsamında temin edilerek ihraç edilmeleri halinde, 4 üncü maddede belirtilen ihracat iade miktarları ve azami ödeme oranları % 50 oranında artırılır. Bu suretle hesaplanacak % 50’lik artış tutarının % 60’ı üreticiye nakit ödenir, % 40’ı ise, 4 üncü madde uyarınca ihracatçı adına açılmış olan mahsup hesabına alacak kaydedilir.
+(2) İhracat Bağlantılı Tarımsal Üretim Sözleşmesi kapsamında yukarıda belirtilen artırımlı iadelerden faydalanabilmek için, sözleşme ile birlikte ilgili ihracatçı birliğine, ürünün idrak tarihinden asgari üç ay önce ön müracaatta bulunulması zorunludur.
+(3) İhracat Bağlantılı Tarımsal Üretim Sözleşmesinin şekil ve şartları Dış Ticaret Müsteşarlığı tarafından tespit edilir.

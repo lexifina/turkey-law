@@ -1,0 +1,1 @@
+MADDE 18 - (1) 4 üncü maddenin 6 ncı sıra numarasında yer alan balın net ağırlığı 1 kg’a kadar (1 kg dahil) ambalajlarda, “tescilli Türk Markaları” ve “Made in Turkey” ibaresi ile ihraç edilmesi halinde miktar barajı % 40 olarak uygulanır.
