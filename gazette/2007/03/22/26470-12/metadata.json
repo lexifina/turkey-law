@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-03-22",
+  "issue": "26470",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Bankacılık Veri Transfer Sistemi Kapsamında Yapılan Raporlamalarda Uygulanacak İdari Para Cezalarına İlişkin Usul ve Esaslar Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070322-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070322.htm",
+  "index_sha256": "cd4e42e3bcc3213a061c1c942cf0db5feefd7b3fb0c57a19a0c90eef6b2b6fd0",
+  "index_header": "22 Mart 2007 ... 26470 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
