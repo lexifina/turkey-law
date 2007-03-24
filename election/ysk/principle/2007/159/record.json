@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2007/159",
+  "list_number": "159",
+  "decision_date": "2007-03-24",
+  "title": "YSK ilke kararı 2007/159",
+  "summary": "Seçmenlerin kayıtlı bulundukları sandıkta oy kullanmaları gerekir. Bunun istisnaları ise 298 sayılı Kanunun 94. maddesinde sayılmıştır. İmralı Adasında görevli subay ve astsubaylar, bu istisnalar arasında gösterilmediği için kayıtlı bulundukları sandıkta oy kullanmaları gerekir.",
+  "concepts": "BAŞKA SANDIKTA OY KULLANABİLECEK KİŞİLER",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3381/2007-159-karar.htm",
+  "source_sha256": "0c401b5ade8ad2f556bbe02cc24cdc16106a6b7c76d9aec3e72c5da236542617",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "2007-03-24",
+  "law_text_complete": true
+}
