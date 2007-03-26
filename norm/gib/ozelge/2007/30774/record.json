@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.54/5428-2263-26447",
+  "source_id": 30774,
+  "date": "2007-03-26",
+  "title": "Belediyelere verilecek ihale konusu hizmetlerden muayene, teşhis, tedavi, Ambulans ile hasta taşıma faaliyetleri %8, diğer taşıtlar ile yapılacak olan taşıma işleri %18 oranında katma değer vergisine tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30774",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "c2202629c4e9a0d3bb91cdc222022b5ba961e053ae7e64528ba50301c0f897f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
