@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-03-26",
+  "issue": "26474",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2007/11817 Türkiye Cumhuriyeti Hükümeti ve Birleşmiş Milletler Çocuklara Yardım Fonu Ülke Programı Eylem Planı (2006-2010)'nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070326-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070326.htm",
+  "index_sha256": "ebe8d4a8e2691b55909307df8ad551d37b3189a7b8f631ee481c789feb9ecc76",
+  "index_header": "26 Mart 2007 ... 26474 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
