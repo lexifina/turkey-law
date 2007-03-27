@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5611",
+  "year": 2007,
+  "title": "Emniyet Teşkilâtı Uçuş Hizmetleri Tazminat Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2007-03-27",
+  "adopted_as_published": "27/03/2007",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "05.04.2007 No: 26484",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc091/kanuntbmmc091/kanuntbmmc09105611.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 91",
+  "committee_reports": [
+    {
+      "label": "TBMM 1150 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c151/tbmm22151080ss1150.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 219214,
+      "title": "Emniyet Teşkilâtı Uçuş Hizmetleri Tazminat Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "27/03/2007",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc091/kanuntbmmc091/kanuntbmmc09105611.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1150 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c151/tbmm22151080ss1150.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 27,
+          "sitting_date": "2003-01-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003fih.pdf",
+          "pages": [
+            "545"
+          ]
+        },
+        {
+          "cilt": 119,
+          "sitting": 98,
+          "sitting_date": "2006-05-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c119/tbmm22119098.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c119/tbmm22119fih.pdf",
+          "pages": [
+            "116"
+          ]
+        },
+        {
+          "cilt": 151,
+          "sitting": 80,
+          "sitting_date": "2007-03-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c151/tbmm22151080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c151/tbmm22151fih.pdf",
+          "pages": [
+            "63:84",
+            "91:100"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=801&v_kullanici_id=27483198",
+      "page_sha256": "8a9e3ea0bc9017c7696e90ed6f9ae2b2b1534d8089b6b9bc672cd70bac6128e6"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8a9e3ea0bc9017c7696e90ed6f9ae2b2b1534d8089b6b9bc672cd70bac6128e6",
+  "issuer": "TBMM",
+  "in_force": "2007-03-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/03/2007; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
