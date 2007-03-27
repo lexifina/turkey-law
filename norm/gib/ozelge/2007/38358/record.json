@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6652-339-27367",
+  "source_id": 38358,
+  "date": "2007-03-27",
+  "title": "II nci derece doğal sit alanında bulunan ve kesin yapılaşma yasağı getirilmeyen taşınmazlar için emlak vergisi muafiyeti uygulanması mümkün olmadığı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/38358",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "771b0c782aad8ae81b3e66e1231f845b200578551ca7252dd90b08561dea5385",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
