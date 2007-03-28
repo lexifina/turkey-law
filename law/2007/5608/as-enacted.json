@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5608",
+  "year": 2007,
+  "title": "İskân Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-03-28",
+  "gazette_issue": "26476",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070328-2.htm",
+  "source_sha256": "04f121304069630407639c1608436438bb3b59c286804287de966c384d497c41",
+  "text_sha256": "af55db23dde43b22066c26032414faee91bf081597ed843ebf52cafd78e4491e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/03/28/26476-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070328-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
