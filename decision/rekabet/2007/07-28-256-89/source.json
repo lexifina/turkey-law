@@ -1,0 +1,13 @@
+{
+  "number": "07-28/256-89",
+  "type": "Rekabet İhlali",
+  "decision_date": "2007-03-28",
+  "publication_date": "2007-07-05",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=0a19405f-894a-44df-8499-8802986378c1",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=846",
+  "pdf_sha256": "473077b6c6827577df38c886ba79033a93689a35e14264313f8901f1c1b54a7e",
+  "pdf_bytes": "306000",
+  "pages": "24",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official title"
+}
