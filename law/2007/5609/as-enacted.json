@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5609",
+  "year": 2007,
+  "title": "Gecekondu Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-03-28",
+  "gazette_issue": "26476",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070328-3.htm",
+  "source_sha256": "2aef8151b0c7bfd7126b960439e6fdbef6323d9b67b329afe53dab1846bf52c6",
+  "text_sha256": "2b7b3d4583ba1c78a505aa319dbdc3fd747537525b7780ada84e2d32fc511703",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/03/28/26476-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/03/20070328-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
