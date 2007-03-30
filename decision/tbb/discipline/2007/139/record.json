@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "139",
+  "date": "2007-03-30",
+  "title": "T. 30.03.2007 E. 2007/35 K. 2007/97",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/139",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=5&yil=2007",
+  "listing_sha256": "e98617e1695011f8a14283082c7a8ab7f8e343b3340eb5a1a9820f87896324ec",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
