@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 22,
+  "legislative_year": 5,
+  "esas_no": "7/21847",
+  "submitted": "2007-03-30",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Kemal DEMİREL",
+  "province": "Bursa",
+  "summary": "Elazığ'da BELDES'ten destek alan belediyelere ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877be-1c1a-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "1c4de72c7e8ac44e16ad7f32bf8ec7d4e5e19d87ac0eb8bd935c0a5471b5ee5a",
+  "in_force": "2007-03-30",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
