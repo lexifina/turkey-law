@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29266",
+  "decision_date": "2007-04-03",
+  "source_id": 1068,
+  "chamber": "7",
+  "file_number": "28468",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1068/",
+  "source_sha256": "b08060a6cd39d4641aa19296ebd99b62d39c921d7944340b25e0ffa3c8f02bdd",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
