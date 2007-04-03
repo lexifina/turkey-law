@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11221",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 369)",
+  "number": "11221",
+  "path": "teblig/2007/11221",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11221&MevzuatTertip=5",
+  "source_sha256": "2ef35f0ec1504dd466e6b3b860fffc3cc6ab47754d1fef1486a82d7db5171c16",
+  "source_bytes": 18578,
+  "published": "2007-04-03",
+  "gazette": "26482",
+  "in_force": "2007-04-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.04.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 757,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
