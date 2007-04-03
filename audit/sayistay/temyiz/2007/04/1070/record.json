@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29268",
+  "decision_date": "2007-04-03",
+  "source_id": 1070,
+  "chamber": "1",
+  "file_number": "28767",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1070/",
+  "source_sha256": "7ba305ce7ba8009e33084898173b85af32b51a9cac00ba2665fb4a441243d921",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
