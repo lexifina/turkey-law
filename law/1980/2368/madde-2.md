@@ -1,0 +1,2 @@
+Madde 2 – (Değişik: 28/3/2007-5614/2 md.)
+Kamu sağlık hizmetlerinde çalışan personelin haftalık kanunî çalışma süresi 45 saat, 4 üncü maddede tanınmış olan haktan yararlananlar için ise 40 saattir. Personelin günlük çalışma saatleri, 657 ve 926 sayılı kanunlardaki hükümlere göre tespit edilir. Ancak, bu personelden iyonlaştırıcı radyasyon ile teşhis, tedavi veya araştırmanın yapıldığı yerler ile bu iş veya işlemlerde çalışan personel, Sağlık Bakanlığınca çıkarılacak yönetmelikte belirlenen radyasyon dozu limitleri içinde çalıştırılabilir.

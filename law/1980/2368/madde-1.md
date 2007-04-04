@@ -1,0 +1,5 @@
+Madde 1 – Bu Kanunun 6 ncı maddesi ile yürürlükten kaldırılan 2162 sayılı Kanun kapsamına giren personele 1/1/1981 tarihinden itibaren 657, 926 ve 1765 sayılı kanunlara göre hak edilen aylık, yakacak yardımı, iş riski, iş güçlüğü, teminindeki güçlük zammı ve mahrumiyet yeri ödeneği ödenir.
+Şu kadar ki; bu personelin Aralık 1980 tarihinde almakta oldukları aylık ve diğer ödemeler ile 2162 sayılı Kanun gereğince (Nöbet ve acil vaka tazminatları hariç) aldıkları tazminatların net toplamı, yukarıdaki fıkra gereğince ele geçecek miktardan fazla olduğu takdirde aradaki fark kendilerine tazminat olarak ödenir.
+Birinci fıkradaki Personelin kanunlarla sağlanan diğer hakları saklıdır.
+Bu personelden askerlik veya Kurumun müsaadesine bağlı diğer sebeplerle görevinden ayrılmış ve ayrılacak olanların, ihtiyaca binaen yeniden göreve dönmeleri halinde, yukarıdaki hükümlerden doğan hakları saklı kalır.
+Bu Kanun kapsamındaki personelin, iş riski,iş güçlüğü, teminindeki güçlük zamları yeniden Bakanlar Kurulunca düzenlenir.
