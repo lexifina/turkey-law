@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5616",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Şili Cumhuriyeti Hükümeti Arasında Askeri Alanda Eğitim, Savunma Sanayii, Teknik ve Bilimsel İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-04-04",
+  "gazette_issue": "26483",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070404-3.htm",
+  "source_sha256": "d66d65626a4de09f4391453e5e8140bc0ec92c88c355459c626679027b013842",
+  "text_sha256": "f3e9e278618ce6706665751ad6e6d1fac5c5f7e63e9f7a65dcb89e30f814c303",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/04/04/26483-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070404-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
