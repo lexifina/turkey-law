@@ -12,6 +12,8 @@ MADDE 28 — 6.6.2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununa e
 5- 30/3/2006 tarihli ve 5479 sayılı Kanunun 8/a, 10/a uncu maddeleri:
 MADDE 8 - a) Ekli (1) sayılı cetvelde gösterilen G.T.İ.P. numaralı mallar vergi tutarları ile birlikte, 4760 sayılı Özel Tüketim Vergisi Kanununun (I) sayılı listesine eklenmiştir. (5)
 MADDE 10 – a) 4760 sayılı Kanuna ekli (III) ve (IV) sayılı listeler, ekli (2) ve (3) sayılı cetvellerde, (II) sayılı listedeki 87.11 G.T.İ.P. numaralı mal ve vergi oranı ise ekli (4) sayılı cetvelde gösterildiği şekilde değiştirilmiştir. (5)
+6- 28/3/2007 tarihli ve 5615 sayılı Kanunun 14 üncü maddesi:
+MADDE 14 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (II) sayılı listenin 87.03 G.T.İ.P. numarasında yer alan "- Diğerleri" ibaresinden önce, vergi oranı % 10 olmak üzere "- Motor silindir hacmi 3200 cm3’ü geçmeyen sürücü dahil 9 kişilik oturma yeri olanlar" ibaresi eklenmiş ve (III) sayılı listenin (B) cetvelinin "Asgari Maktu Vergi Tutarı" sütununda yer alan "0,0600" tutarları "0,0700" olarak değiştirilmiştir.
 ––––––––––––––––––
 (1) Bu maddede yer alan listelerle ilgili olarak 7/8/2003 tarihli ve 25192 sayılı Resmi Gazete’de yayımlanan 4962 sayılı Kanunun ekine bakınız.
 (2) Bu maddede yer alan listelerle ilgili olarak 31/7/2004 tarihli ve 25539 sayılı Resmi Gazete’de yayımlanan 5228 sayılı Kanunun ekine bakınız.

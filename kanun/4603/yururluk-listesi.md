@@ -9,3 +9,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 5234 | Geçici 3 üncü maddesinin ikinci fıkrası, Geçici Madde 7 Geçici 3 üncü maddesinin üçüncü fıkrasının son cümlesi | 1/1/2005 21/9/2004
 5335 | Geçici Madde 3 | 27/4/2005
 5572 | 2 | 17/1/2007
+5615 | Geçici Madde 9 | 4/4/2007

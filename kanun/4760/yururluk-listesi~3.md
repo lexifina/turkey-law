@@ -10,3 +10,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 5398 | (II) sayılı liste | 21/7/2005
 5479 | 1, 3, 11, 12, (I), (II), (III), (IV) sayılı listeler | 8/4/2006
 5493 | 7/A | 1/6/2006
+5615 | (II), (III) sayılı liste | 4/4/2007
