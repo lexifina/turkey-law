@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.60/6000- 2425-300045",
+  "source_id": 36295,
+  "date": "2007-04-04",
+  "title": "Malların veraset yoluyla veya her ne şekilde olursa olsun karşılıksız bir şekilde bir şahıstan diğer şahsa intikali veraset ve intikal vergisine tabi olup, verginin mükellefi veraset yoluyla veya karşılıksız olarak mal iktisap eden şahıslardır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36295",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "7a6cf229bd372b29e356d3d021bdc8eb8c5ffbf544b2123e8403a3830d27bdc9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
