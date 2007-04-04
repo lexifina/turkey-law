@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5618",
+  "year": 2007,
+  "title": "Deniz Emniyeti Komitesinin 82. Oturumunun 29 Kasım 2006 - 8 Aralık 2006 Tarihleri Arasında İstanbul'da Yapılmasına Dair Türkiye Cumhuriyeti ile Uluslararası Denizcilik Örgütü Arasında Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-04-04",
+  "gazette_issue": "26483",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070404-5.htm",
+  "source_sha256": "dea259c072b0a4f57096ba0aab60cb1064bc3d0f241cc258e022759a1aa1b62b",
+  "text_sha256": "73e8c651a1f8f9dde58d49ac3d7285fde3ca3193d7d822d2498fbd74a4c76a83",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/04/04/26483-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070404-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
