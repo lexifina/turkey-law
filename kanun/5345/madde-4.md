@@ -6,7 +6,7 @@ c) Mükellef haklarının korunması ve mükellef ile Başkanlık ilişkilerinin
 d) Mükellefleri vergi mevzuatından doğan hakları ve ödevleri konusunda bilgilendirmek.
 e) Devlet gelirleri politikasıyla ilgili kanun ve kararname çalışmalarına katılmak.
 f) Devlet alacaklarının tahsilini sağlamak ve bu konuda gerekli tedbirleri almak.
-g) Uygulamada ortaya çıkan ihtilafların en aza indirilmesine ve uygulama birliğinin sağlanmasına yönelik tedbirler almak.
+g) (Değişik: 28/3/2007-5615/18 md.) İşlem ve eylemlerinden dolayı idarî yargı mercilerinde yaratılan ihtilaflarla ilgili olarak bu merciler nezdinde talep ve savunmalarda bulunmak, gerektiğinde itiraz, temyiz ve tashihi karar yoluna gitmek; temyiz yoluna gidilip gidilmeyeceği hususunda taşra teşkilâtına muvafakat vermek; şikâyet başvurularını karara bağlamak; uygulamada ortaya çıkan ihtilafların en aza indirilmesine ve uygulama birliğinin sağlanmasına yönelik tedbirleri almak.
 h) Vergilendirmeyle ilgili bilgileri toplamak ve bilgi işlem faaliyetlerini yürütmek.
 i) Vergi kanunlarında veya diğer mali kanunlarda yer alan her türlü istisna, muaflık ve indirimlerin maliyetlerini ölçmek, ekonomik ve sosyal etkilerini analiz etmek.
 j) Bakanlıkça belirlenen temel politikalar ve stratejiler doğrultusunda vergi inceleme ve denetimlerini gerçekleştirmek, vergi kayıp ve kaçağının önlenmesi konusunda gerekli tedbirleri almak.
