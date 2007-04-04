@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5614",
+  "year": 2007,
+  "title": "Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-04-04",
+  "gazette_issue": "26483",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070404-1.htm",
+  "source_sha256": "cb1e75a6dffe080375c54a3deca93ca0897c0c6c445a4b51678d4a1bcc9fd51f",
+  "text_sha256": "a023ccfe0812b161ff8091a89cd27e8f859ea6617a966d58187b915b3a620de6",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/04/04/26483-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070404-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
