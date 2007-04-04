@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5619",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Uluslararası Telekomünikasyon Birliği Arasında 2006 Yılı Tam Yetkili Temsilciler Konferansının Organizasyonu, Gerçekleştirilmesi ve Finansmanına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-04-04",
+  "gazette_issue": "26483",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070404-6.htm",
+  "source_sha256": "4f03c2bb8e288a38e919fca08ecdfb465410bebfb860d716d38bc82e381a97c6",
+  "text_sha256": "8570a1cf59a2d02a001bb631b7ed14e6d3f35f8853055a3528d92c5b187bc9f0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/04/04/26483-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070404-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
