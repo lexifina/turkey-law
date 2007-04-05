@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5611",
+  "year": 2007,
+  "title": "Emniyet Teşkilâtı Uçuş Hizmetleri Tazminat Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-04-05",
+  "gazette_issue": "26484",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070405-1.htm",
+  "source_sha256": "388476bb9d5ec67c6528719673108320da7d3b6d5beb0f0edf7b7bac22345e15",
+  "text_sha256": "af47f95591fc6718768a97653f4a801d6844c4fcba31b6326de68ac042dcd2e7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/04/05/26484-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070405-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
