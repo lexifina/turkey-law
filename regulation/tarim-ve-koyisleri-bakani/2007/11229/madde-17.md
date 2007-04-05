@@ -1,0 +1,2 @@
+Denetleme Kurulunun oluşumu ve görev süresi
+MADDE 17 – (1) Denetleme Kurulu; Genel Kurulca seçilecek denetleme konusunda belirli bir mesleki bilgiye sahip Araştırma ve Meslek Kuruluşları grubu üyeleri arasından bir asıl ve bir yedek, tarım, ticaret, sanayi gruplarının aralarından bir asıl ve bir yedek üye ile Bakanlığın atayacağı bir asıl ve bir yedek üye olmak üzere üç asıl ve üç yedek üyeden oluşur. Üyelerin görev süresi üç yılla sınırlıdır. Boşalan üyelikler aynı usulle doldurulur. Bu üyeler kalan süreyi tamamlarlar.

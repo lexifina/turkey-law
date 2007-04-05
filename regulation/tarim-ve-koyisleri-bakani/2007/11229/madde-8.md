@@ -1,0 +1,13 @@
+Konseye üyelik şartları, üyeliğe kabul, üyeliğin askıya alınması ve üyeliğin sona ermesi
+MADDE 8 – (1) Kuruluşu takiben Konsey üyesi olmak isteyen, üyelik şartlarına haiz, turunçgil alanında bir üretim veya yetiştirme devresi faaliyet gösteren üreticiler, tüccarlar sanayiciler, ve/veya bunların oluşturduğu birlikler ile kamu ve araştırma kurumları meslek odaları ve dernekler Konseye üye olabilirler.
+(2) Konseyin amaçlarına uygun davranmayan üyeler ile yönetim kurulunca, arka arkaya yapılan iki yazılı ihtara rağmen üyelik yükümlülüklerini yerine getirmeyen üyelerin üyelikleri Araştırma ve Danışma Kurulunun bu yöndeki raporu üzerine Yönetim Kurulunca en az bir, en çok üç ay arasında askıya alınır. Tebliğden itibaren yedi gün içerisinde karara karşı Yönetim Kuruluna itirazda bulunulabilinir. Yönetim Kurulu, itirazı takip eden yedi gün içerisinde karar vermek zorundadır. İtiraz üzerine verilen kararlar kesindir. Askı süresince, hakkında askı kararı alınan Konsey üyeleri Konseyin hiçbir faaliyetinden faydalanamaz ve askı süresince oy kullanamazlar.
+(3) Konsey üyesi kuruluşların;
+a) Kendi istekleri ile ayrılma,
+b) Ürünle ilgili alandaki faaliyetin terk edilmesi veya sona ermesi,
+c) Kendi mevzuatları çerçevesinde kurumsal etkinliklerinin kalmaması,
+ç) Yönetmelikte belirlenen yükümlülüklerin yerine getirilmemesi,
+d) Konseyin belirlediği kurallara aykırı davranılması,
+e) Taksirli suçlar ile kısa süreli hapis cezasına seçenek yaptırımlara çevrilmiş veya aşağıda sayılan suçlar dışında tecil edilmiş hükümler hariç olmak üzere, altı aydan fazla hapis veyahut affa uğramış olsalar bile Devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, Devlet sırlarına karşı suçlar ve casusluk, zimmet, irtikap, rüşvet, hırsızlık, yağma, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas gibi yüz kızartıcı veya şeref ve haysiyeti kırıcı suçtan veya ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık, vergi kaçakçılığı ve haksız mal edinme suçlarından hükümlü bulunma,
+hallerinde üyelikleri sona erer.
+(4) Konseye üye alt gruplarda belirtilen üyelikleri temsilen görev alan gerçek kişiler hakkında da Yönetim Kurulu üyeliğinin düşürülmesi ile ilgili hükümler uygulanır.
+(5) Konsey üyeliğinin sona ermesi kararı, Araştırma ve Danışma Kurulu’nun bu yöndeki raporu üzerine Yönetim Kurulu tarafından verilir. Üye tebliğden itibaren yedi gün içerisinde karara karşı Yönetim Kuruluna itirazda bulunabilir. Yönetim Kurulunun ilk toplantısında konu görüşülerek kesin olarak karara bağlanır. İtiraz üzerine verilen kararlar kesindir.
