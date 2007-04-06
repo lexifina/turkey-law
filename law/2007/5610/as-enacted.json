@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5610",
+  "year": 2007,
+  "title": "Toplu Konut Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-04-06",
+  "gazette_issue": "26485",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070406-1.htm",
+  "source_sha256": "7959e10532ae111830a748deffc0fad11a0b4e5391a12fa9c5fbb30a1893e60a",
+  "text_sha256": "72678efc8e53fe4c78deaa144b9d16d41cda7e14326dc545d1cdf723b867d649",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/04/06/26485-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070406-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
