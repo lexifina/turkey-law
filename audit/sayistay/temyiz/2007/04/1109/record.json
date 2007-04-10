@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29309",
+  "decision_date": "2007-04-10",
+  "source_id": 1109,
+  "chamber": "4",
+  "file_number": "28701",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1109/",
+  "source_sha256": "2d3bc8c8b41f9c021070df838945a8aa68373f1f1d6efabc76410060e7fc60e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
