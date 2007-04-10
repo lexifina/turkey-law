@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.40/4006-32965",
+  "source_id": 24880,
+  "date": "2007-04-10",
+  "title": "Garantili Yatırım Fonları ile Korumalı Yatırım Fonları tarafından yapılacak ödemeler üzerinden yapılacak tevkifat hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24880",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "6eef05121e3a22bfeeaaa5f9f77fe499cc0ce2eef0e4e117a8d293d206464ac5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
