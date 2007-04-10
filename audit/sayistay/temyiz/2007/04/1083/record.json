@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29282",
+  "decision_date": "2007-04-10",
+  "source_id": 1083,
+  "chamber": "8",
+  "file_number": "28751",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1083/",
+  "source_sha256": "9b14feb386d91a5154c71961d6c627cbbd27da53fc523b5ef39fc194cb8bae2f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
