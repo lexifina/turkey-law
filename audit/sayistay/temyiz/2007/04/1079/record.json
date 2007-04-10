@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29278",
+  "decision_date": "2007-04-10",
+  "source_id": 1079,
+  "chamber": "8",
+  "file_number": "28726",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1079/",
+  "source_sha256": "029c72a0abdb8dea5ff872f62dd1cb047667610409691d55992269c2d6001051",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
