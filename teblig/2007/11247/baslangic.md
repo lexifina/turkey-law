@@ -1,0 +1,3 @@
+Kurumu: Dış Ticaret Müsteşarlığı
+İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ
+(TEBLİĞ NO: 2007/2)

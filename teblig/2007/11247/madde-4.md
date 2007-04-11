@@ -1,0 +1,2 @@
+Kotanın dağıtılması
+MADDE 4 – (1) Kota dağıtımı, başvuru sırasına göre, ilk gelen ilk alır yöntemiyle yapılır. Bir ithal lisansında verilebilecek miktar, 10.000 kg.’lık asgari miktara ithalatçıların ÇHC menşeli geçmiş dönem ithalat performanslarının değerlendirilmesinin yanı sıra çalıştırdığı işçi sayısı ve vergi durumu dikkate alınarak hesaplanacak miktarın ilave edilmesi suretiyle belirlenir. Ancak bu miktar 100.000 kg.’ı aşamaz.
