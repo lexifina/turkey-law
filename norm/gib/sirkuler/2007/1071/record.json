@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "Gider Vergileri Kanunu - 6 / 2007- 1 / BSMV- 3",
+  "source_id": 1071,
+  "date": "2007-04-11",
+  "title": "Dövize endeksli kredilerde faiz tahakkuk dönemlerinde banka ve sigorta muameleleri vergisinin matrahı, kredi için belirlenen faiz oranına göre hesaplanan faiz tutarı, söz konusu faiz tutarı dolayısı ile oluşan kur farkı ve kredinin açılış tarihi ile faiz",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/sirkuler/1071",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "74c28c4d852397f92b2b984764114efeefc35acabfe776884697be1e793b1c05",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
