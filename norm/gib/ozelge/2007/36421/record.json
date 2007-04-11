@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.60/6026-365-33327",
+  "source_id": 36421,
+  "date": "2007-04-11",
+  "title": "Resmi defter tutma işlemi tamamlanıp da kanuni süre içerisinde mirasçının mirası kabul etmesine kadar, murisin mal varlığının mirasçının mamelekine intikal etmeyeceği, dolayısıyla vergi mükellefiyetinin de doğmayacağı tabiidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36421",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "cfcfb2af95b1217666e2ced9de6ae5ef96992cca49f58763b4cc1b797fcee84c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
