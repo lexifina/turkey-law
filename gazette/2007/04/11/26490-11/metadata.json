@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-04-11",
+  "issue": "26490",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Kota ve Tarife Kontenjanı İdaresine İlişkin Tebliğ (No: 2007/2)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070411-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070411.htm",
+  "index_sha256": "a1cf0a5ae0c14745cb0290631b05a32bf2fb9bad272820a5744f05c40e5acd7c",
+  "index_header": "11 Nisan 2007 ... 26490 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
