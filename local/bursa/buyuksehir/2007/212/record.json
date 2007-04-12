@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "212",
+  "decision_date": "2007-04-12",
+  "title": "Bursa Büyükşehir Belediyesi İmar Yönetmeliği nden Yüksek YapılarKomisyonu nun Yeniden Belirlenmesi ve Yönetmelikteki Uygulamanın Yeniden Düzenlenmesi",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/4696_MEC2007-7_212.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=2007",
+  "listing_sha256": "af062c3b27afc067e6d08aced2441bfb8b546900ec2575d2bb6883864fa22467",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
