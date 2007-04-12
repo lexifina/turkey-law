@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 22/1/1990 tarihli ve 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde Kararname ve 17/9/1982 tarihli ve 8/5336 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Disiplin Kurulları ve Disiplin Amirleri Hakkında Yönetmeliğin 16 ncı maddesi hükümlerine dayanılarak hazırlanmıştır.
