@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-63/2007-7/Geçici Vergi Beyannamesi-11",
+  "source_id": 594,
+  "date": "2007-04-13",
+  "title": "Geçici vergi beyannamelerinin verilme ve ödeme süreleri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/594",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "bc8dc124a8ab93191f0bef2bf7522d26b2a1f5597c4f8b93f15f02ea1305a3e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
