@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.40/4015-33893",
+  "source_id": 22647,
+  "date": "2007-04-13",
+  "title": "Mükellefin şahsına ait binek otomobilini yine kendisi ile sözleşme yaparak ticari işletmesine kiralaması durumunda, söz konusu araca ilişkin giderlerin safi ticari kazancın tespitinde dikkate alınıp alınamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22647",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "63cec170afbdf3c8577fee55bd8746289c54a2dfa77fcd2bd2a4c414d76bbdae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
