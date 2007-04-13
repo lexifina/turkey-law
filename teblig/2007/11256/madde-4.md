@@ -1,0 +1,14 @@
+Kullanılmış makine ve teçhizat ithalatı
+MADDE 4 – (1) Yatırımlarda Devlet Yardımı Hakkında 2006/10921 sayılı Karar’ın uygulanmasına ilişkin 2006/3 sayılı Tebliğ’in 15 inci maddesinin 1 inci fıkrası," Bölgesel ve sektörel kısıtlamalarda göz önüne alınarak proje bazında yapılacak değerlendirme sonucunda uygun görülmesi halinde;
+a) İthalat Rejimi Karar’ı uyarınca yayımlanan "Eski, Kullanılmış veya Yenileştirilmiş Olarak İthal Edilebilecek Maddelere İlişkin Tebliğ" hükümleri uyarınca ithali mümkün olan kullanılmış makine ve teçhizat (karayolu nakil vasıtaları hariç),
+b) İthalat Rejimi Karar’ı uyarınca ithaline izin verildiği Dış Ticaret Müsteşarlığından alınmış yazı ile tevsik edilen münferit kullanılmış makine ve teçhizat,
+teşvik belgesine bağlanmak suretiyle destek unsurlarından yararlandırılabilir."
+2 nci fıkrası, "Kullanılmış komple tesisler Müsteşarlıkça yapılacak değerlendirme sonucunda uygun görülmesi halinde teşvik belgesi kapsamında ithal edilebilir."
+hükmünü amir bulunduğundan;
+a) Teşvik belgesi kapsamında kullanılmış makine ve teçhizat ithalinin yapılabilmesi için öncelikle belge ve belge eki yurtdışından temin edilecek makine ve teçhizat listesinde eşyanın "kullanılmış" olduğuna ilişkin meşruhat bulunmasına,
+b) Teşvik belgesi kapsamında kullanılmış olarak ithali öngörülen eşyanın, İthalat Rejimi Karar’ı uyarınca yayımlanan yürürlükteki "Eski, Kullanılmış veya Yenileştirilmiş Olarak İthal Edilecek Maddelere İlişkin Tebliğ" eki listelerde yer alması ve belirtilen yaş sınırlarına uygun olmasına,
+c) Teşvik belgesi kapsamında kullanılmış olarak ithali öngörülmekle birlikte "Eski, Kullanılmış veya Yenileştirilmiş Olarak İthal Edilecek Maddelere İlişkin Tebliğ" eki listede yer almayan münferit kullanılmış makine ve teçhizatın ise İthalat Rejim Karar’ı uyarınca ithaline izin verildiğine dair Dış Ticaret Müsteşarlığından alınmış yazının da ithalat sürecinde ibraz edilmesine,
+d) Kullanılmış komple tesis ithalatında yurtdışından temin edilecek makine ve teçhizat listesinde model yılı belirtilmiş olması halinde ithal edilecek tesisin model yılının uygunluğunun aranmasına, farklı modelde ise Hazine Müsteşarlığınca model yılının düzeltilmesini müteakip ithaline izin verilmesine,
+dikkat edilecektir.
+(2) Yukarıda belirtilen şartları taşıyan kullanılmış makine ve teçhizat için Gümrük Vergisi aranmayacaktır.
+(3) Daha önceki yıl kararlarına göre düzenlenen teşvik belgeleri kapsamına (6/10/2006 tarihinden önce) dahil edilen kullanılmış komple tesis veya kullanılmış münferit makine ve teçhizat, teşvik belgesinin istinat ettiği kararlarda belirtilenler hariç olmak üzere İthalat Rejimi Karar’ında öngörülen Gümrük Vergisinden muaf tutulduğundan, kullanılmış tesis veya kullanılmış münferit makine ve teçhizatlara ait Gümrük Vergisi işlemleri, makine ve teçhizat listelerine Hazine Müsteşarlığı tarafından kaydedilen şerhler doğrultusunda gerçekleştirilecektir.

@@ -1,0 +1,1 @@
+MADDE 18 – (1) Bu Tebliğ’de yer almayan hususlarda 28/8/2006 tarihli ve 2006/10921 sayılı Bakanlar Kurulu Kararı, Hazine Müsteşarlığının 2006/3 sayılı Tebliği, 4458 sayılı Gümrük Kanunu ve Gümrük Yönetmeliğinin ilgili hükümlerine göre işlem yapılır.

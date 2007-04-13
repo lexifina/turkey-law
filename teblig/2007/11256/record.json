@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11256",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (YATIRIM TEŞVİK) (SERİ NO: 8)",
+  "number": "11256",
+  "issuer": "Gümrük Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2007/11256",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11256&MevzuatTertip=5",
+  "source_sha256": "5a35d7b35fc4961dc9a3342283a452cd709cbe6738a72f505dbb211218597cc5",
+  "source_bytes": 51368,
+  "published": "2007-04-13",
+  "gazette": "26492",
+  "in_force": "2007-04-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.04.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3448,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Katma Değer Vergisi istisnası
+MADDE 7 – (1) 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanunu gereğince, teşvik belgesini haiz yatırımcıların teşvik belgesi kapsamında yapacakları makine ve teçhizat ithali Katma Değer Vergisinden (yatırımın yararlanacağı destek unsurları bölümünde KDV istisnasının da bulunması şartıyla) istisnadır. Ancak, CKD aksam ve parçalar ile yedek parçalara ait Katma Değer Vergisi tahsil edilir. Aynı hüküm teşvik belgesinin veya teşvik belgesi kapsamı makine teçhizatın devir işlemlerinde de uygulanır.

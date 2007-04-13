@@ -1,0 +1,3 @@
+Teşvik belgesi kapsamında değerlendirilmeyen harcamalar
+MADDE 3 – (1) Söz konusu Tebliğ’in 9 uncu maddesi gereğince teşvik belgeleri kapsamında ham madde, ara malı ve işletme malzemesi temin edilemez. Ancak, yeni model üretimine yönelik otomobil ve hafif ticari araç yatırımlarında yatırım dönemi içerisinde kalmak kaydıyla CKD aksam ve parçaları ithali ile ar-ge yatırımları için işletme malzemesi temini mümkündür.
+Ayrıca, faaliyet konusu yalnızca taşımacılık olan yatırımlar dışında diğer yatırımlara ait teşvik belgeleri kapsamına arazi tipi dahil, binek araçları, uçak ve helikopter dahil edilmez.
