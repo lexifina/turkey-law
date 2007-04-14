@@ -1,0 +1,9 @@
+Bilgilerin toplanması ve değerlendirilmesi
+MADDE 3 – (1) Soruşturma açılmasını müteakip, Türkiye’ye ihracat yaptığı belirlenen firmalar arasında adresleri belirlenebilen Aruna Company Co. Ltd., SC Stationery Industry Co. Ltd., Maxima Intertrade Co. Ltd., Bensia Company Limited ve Monami (Thailand) Co., Ltd. firmalarına soru formları gönderilmiştir.
+(2) Söz konusu soru formunun bir örneği soruşturma konusu ürünün Türkiye’ye ihracatını gerçekleştiren firmalara iletilmek üzere Tayland’ın Ankara’daki Büyükelçiliğine de gönderilmiştir.
+(3) Taraflara, soru formunu yanıtlamaları için posta süresi dahil 37 gün süre tanınmıştır.
+(4) Monami (Thailand) Co., Ltd. soru formlarının cevaplanmasına ilişkin ek süre talebinde bulunmuş olup, mezkur firmaya makul bir ek süre tanınmıştır. Ancak, söz konusu firmadan herhangi bir cevap alınamamıştır.
+(5) Ancak, söz konusu üretici/ihracatçı firmalardan yalnızca Aruna Company Co. Ltd.’den verilen süre içerisinde cevap alınabilmiş ise de mezkur firmadan alınan cevabi yazılarda önemli eksiklikler olduğu tespit edilmiştir. Anılan firmaya eksikliklerini tamamlayıp soru formuna cevap verebilmesi için ikinci bir imkan tanınmış olmasına rağmen Aruna Company Co. Ltd.’den yeterli içerikte, kullanılabilir ve tam bir cevap alınamamıştır. Böylece, anılan firmanın soruşturma kapsamında işbirliğinde bulunmadığı sonucuna varılmıştır.
+(6) Soru formuna yukarıda belirtilen firmalar dışında herhangi bir firmadan yanıt alınmamıştır.
+(7) Soruşturma kapsamında yerli üreticiler Fatih Kalem San. ve Tic. A.Ş. ile Adel Kalemcilik Ticaret ve Sanayii A.Ş. soruşturmayı desteklemişler ve soru formuna usülüne uygun cevap vermişlerdir.
+(8) Ayrıca, Tayland’ın Ankara Büyükelçiliğinden alınan yazıda ise yetkili Tayland mercilerinin soruşturma konusu ürüne ilişkin 2006 yılı Ocak-Haziran döneminde menşe şahadetnamesi düzenlemediklerine ilişkin bilgi alınmıştır.

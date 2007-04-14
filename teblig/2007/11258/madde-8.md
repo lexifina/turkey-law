@@ -1,0 +1,2 @@
+Diğer hususlar
+MADDE 8 – (1) Ayrıca, Birinci Kısımda bahsi geçen Tayland’da yerleşik firma tarafından hazırlanan Üretici Sertifikası’nda üretime ilişkin işlemler olarak belirtilen laklama, baş kısmının boyanması, sivriltme (açma) ve paketleme işlemlerinin bahse konu ürünün toplam üretim maliyeti içerisinde önemli olmayan bir paya sahip olduğu anlaşılmaktadır. Kaldı ki, Tayland’da soruşturma konusu ürün üretiminin bu denli az bir işlem ve işçilikle olsa dahi gerçekleştirildiği yönünde hiçbir bulguya rastlanmamış, taraflar da bu yönde bir belge sunmamışlardır.

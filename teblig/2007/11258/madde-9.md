@@ -1,0 +1,5 @@
+ÜÇÜNCÜ KISIM
+Sonuç ve Karar
+Sonuç
+MADDE 9- (1) Önlemlerin etkisiz kılınmasına karşı yürütülen soruşturma neticesinde, Tayland’da yerleşik hiçbir firmanın soruşturma kapsamında işbirliğinde bulunmadığı, önlem öncesi dönemde Tayland’dan hiç gerçekleşmeyen kurşun kalem ithalatının, ÇHC menşeli kurşun kalemler için alınan dampinge karşı önlem akabinde eş zamanlı olarak kayda değer rakamlara ulaştığı, söz konusu ithalat rakamlarının Tayland ihracat rakamları ile ciddi ölçüde uyumsuz olduğu, Tayland’ın yetkili birimlerinin 2006 yılının ilk altı aylık döneminde soruşturma konusu ürün için menşe şahadetnamesi düzenlememesine rağmen, bu dönemde Tayland menşeli olduğu beyan edilen ürünlerin Türkiye’ye sevk edildiği tespit edilmiştir.
+(2) Yukarıdaki tespitler, yürürlükteki dampinge karşı vergiden kaçınma dışında yeterli bir haklı nedeni veya ekonomik gerekçesi bulunmayan bir uygulama, işlem veya iş sonucunda, Türkiye ile Tayland arasındaki ticaretin gerçekleştirilme şeklinde bir değişikliğin meydana geldiğini ve bu nedenle İthalatta Haksız Rekabetin Önlenmesine İlişkin 2003/1 sayılı Tebliğ ile yürürlüğe konulan dampinge karşı önlemin etkisiz kılındığını göstermektedir.

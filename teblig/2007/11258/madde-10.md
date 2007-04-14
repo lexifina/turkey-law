@@ -1,0 +1,2 @@
+Karar
+MADDE 10 – (1) Soruşturma çerçevesinde elde edilen veriler doğrultusunda, İthalatta Haksız Rekabetin Önlenmesi Hakkında 2003/1 sayılı Tebliğ ile Çin Halk Cumhuriyeti menşeli ürünler için geçerli olan 3,16 ABD Doları/144 Adet tutarında dampinge karşı verginin Tayland menşeli olduğu beyan edilen ve/veya Tayland çıkışlı 9609.10 gümrük tarife pozisyonunda yer alan "grafitli kurşun kalemler ve kurşun boya kalemleri" nin Türkiye’ye ithalatında da geçerli olacak şekilde genişletilmesine karar verilmiştir.
