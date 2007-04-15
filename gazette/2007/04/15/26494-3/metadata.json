@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-04-15",
+  "issue": "26494",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye İş Kurumu Alım-Satım İhale ve Muayene-Kabul Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070415-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070415.htm",
+  "index_sha256": "4db5172e5246904b464e7d3b1e02a3333969a216ee148ad5f13488008f50053c",
+  "index_header": "15 Nisan 2007 ... 26494 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
