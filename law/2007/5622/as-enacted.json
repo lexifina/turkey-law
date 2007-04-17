@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5622",
+  "year": 2007,
+  "title": "Tasfiye İşleri Döner Sermaye İşletmeleri Genel Müdürlüğünün Gümrük Müsteşarlığına Bağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-04-17",
+  "gazette_issue": "26496",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070417-2.htm",
+  "source_sha256": "41f1669fc0cb1c16cffd0ea978efdb0d8ad616fb0b4edc8e7c782d8c6fc87088",
+  "text_sha256": "bc57953e21cee0eb7f51493481a9a05c8253d0d21a98876897913b9017628774",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/04/17/26496-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070417-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
