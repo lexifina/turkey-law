@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5623",
+  "year": 2007,
+  "title": "Serbest Bölgeler Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-04-17",
+  "gazette_issue": "26496",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070417-3.htm",
+  "source_sha256": "853625e22e3e3621a4f12c4ef5960075049407e3df3a246e66d02fc3cd86ea64",
+  "text_sha256": "11c1ea83184bc9be0fc28dd027ca02a6d3fbff59048d71e2e72b7d1221993d64",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/04/17/26496-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070417-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
