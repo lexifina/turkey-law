@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11262",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GİDER VERGİLERİ GENEL TEBLİĞİ (SERİ NO: 84)",
+  "number": "11262",
+  "path": "teblig/2007/11262",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11262&MevzuatTertip=5",
+  "source_sha256": "ee3bd6f39d09bccfd4456eeeeeb5782dbfe7156387e68027c5752e553af4a00c",
+  "source_bytes": 38892,
+  "published": "2007-04-17",
+  "gazette": "26496",
+  "in_force": "2007-04-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.04.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1640,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
