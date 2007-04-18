@@ -1,0 +1,9 @@
+Yürütme
+Madde 16 - Bu Tebliğ hükümlerini Tarım ve Köyişleri Bakanı yürütür.
+Ek-1 (Değişik:RG-21/08/2005-25913)
+SIRA NO | AKREDİTE VETERİNER HEKİMİN ADI SOYADI | KESİM TARİHLERİ /..../.200 ...ile .../../.200 arası | MUAYENE EDİLEN HAYVAN SAYISI | BANKA HESAP NO | T.C. KİMLİK NO | VERGİ NO | PRİME ESAS ÖDEME TUTARI
+B.BAŞ | K.BAŞ | KANATLI
+KONTROL ŞUBE MÜDÜRÜ/İLÇE VETERİNER HEKİMİ | İL MUDURÜ/IL MÜDÜR YARDIMCISI/İLÇE MÜDÜRÜ
+ADI SOYADI: | ADI SOYADI:
+İMZA: | İMZA-MÜHÜR:
+TARİH:: | TARİH:
