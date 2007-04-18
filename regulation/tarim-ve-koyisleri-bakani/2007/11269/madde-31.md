@@ -1,0 +1,4 @@
+Yatırım başvurularında ek bilgi talepleri ve karşılanması
+MADDE 31 – (1) Gerek projelerin hazırlanması gerekse başvuru sırasında doğabilecek tereddütlerin giderilmesi için başvuru sahipleri, Ek-1’de belirtilen e-posta, faks ve internet adreslerinden bilgi edinebilir ve Bakanlık tarafından ilan edilecek tarihe kadar yazılı olarak başvurabilir.
+(2) Ek bilgi talebini içeren tüm sorular cevapları ile birlikte, Ek-1’de belirtilen internet adreslerinde "Sıkça Sorulan Sorular ve Cevaplar" şeklinde yayımlanır.
+(3) İl müdürlükleri, başvuru sahiplerince uygulama rehberi ve diğer bilgilendirici dokümanlarda açıklanmayan hususlara dair kendilerine iletilecek soruların cevaplarını yukarıda belirtilen yollarla başvuru sahiplerine iletilmesini sağlar. Sorular ve cevaplar son başvuru tarihinden bir hafta öncesine kadar belirtilen adreslerde yayımlanır.

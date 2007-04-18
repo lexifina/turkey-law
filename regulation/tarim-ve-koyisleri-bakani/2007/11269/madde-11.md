@@ -1,0 +1,4 @@
+Tarımsal altyapı yatırımlarını destekleme programı yatırım konuları
+MADDE 11 – (1) 2007 yılında tarımsal altyapı yatırımlarının destekleme programı kapsamında, sadece şebekesi olan mevcut sulama tesislerinin basınçlı toplu sulama tesisine dönüştürülmesine yönelik iyileştirme ve geliştirme yatırımları için yapılacak başvurular kabul edilir. Yeni sulama şebekelerinin yapılmasına yönelik tekliflere destek verilmez.
+(2) Tarımsal alt yapı yatırımı kapsamında proje başvurusu yapılacak mevcut sulama tesislerinin rehabilitasyonuna yönelik yatırım proje tekliflerinin, köy halkının çoğunluğuna hizmet götürmesi amaçlanır ve Devlet Su İşleri Genel Müdürlüğünden gerekli izin alınır.
+(3) Tarımsal alt yapı yatırımlarını destekleme alt programı uygulama illeri: Ardahan, Artvin, Bolu, Burdur, Çanakkale, Denizli, Gümüşhane, Hatay, Karaman, Konya, Niğde, Rize ve Tokat.

@@ -1,0 +1,4 @@
+Ekonomik yatırımlar destekleme programı için ortaklık başvurusu
+MADDE 16 – (1) Bu Yönetmeliğin 15 inci maddesi birinci fıkrasının (a), (b) ve (c) bentlerinde belirtilen tüzel kişilerin kendi aralarında oluşturacakları görev, sorumluluk ve katkı paylarının detaylı olarak gösterildikleri yasal ortaklıklar vasıtasıyla yapacakları başvurular da grup başvurusu olarak kabul edilir.
+(2) Ayrıca, Bakanlık tarafından oluşturulan çiftçi kayıt sistemine veya Bakanlık tarafından oluşturulan diğer kayıt sistemlerine kayıtlı olmayan şirketler de, bu Yönetmeliğin 15 inci maddesinde belirtilen nitelikleri sağlayan kuruluşlarla ortaklık yaparak ortak üye olarak projeye katılabilir.
+(3) Proje başvuruları, mutlaka bu Yönetmeliğin 15 inci maddesinin birinci fıkrasının (a), (b) ve (c) bentlerinde belirtilen ve aynı maddenin üçüncü fıkrasında belirtilen nitelikleri sağlayan kuruluşlar tarafından yapılır.

@@ -1,0 +1,8 @@
+Mal, makine, ekipman ve malzeme alım giderleri
+MADDE 23 – (1) Tarıma Dayalı Yatırımların Desteklenmesi Programı çerçevesinde yapılacak yeni mal alımları, üretimi de içeren bir proje bütününün parçası olduğu takdirde finanse edilir.
+(2) Program kapsamında hibe desteği verilecek yeni yatırımlar, sadece mal alım projeleri şeklinde olmamalı, inşaat işlerini de kapsayan yatırım proje teklifleri şeklinde olmalıdır.
+(3) Mevcut yatırımlarda teknoloji geliştirmeye ve kapasite artırmaya yönelik yatırım tekliflerinde sadece mal alımı tekliflerine hibe desteği verilir.
+(4) Mal, makine, ekipman ve malzeme alımlarında, alım bedeli ile proje sahasına teslim giderleri, montaj giderleri ve eğitim giderleri tek bir mal alım faturası şeklinde düzenlenmesi durumunda hibe desteği verilir, ayrı ayrı faturalandırılması durumunda sadece mal alım bedeline hibe desteği verilir.
+(5) Makine ve ekipman ile ilgili teknik bilgiler şartname şeklinde düzenlenerek proje başvuruları ekinde sunulur ve projede kullanım amacı belirtilir.
+(6) Mal alım giderleri kapsamında, demirbaş eşya, mobilya, mefruşat alımı gibi giderler ve tesis tamamlandıktan sonra tesisin işletilmesine yönelik hammadde veya malzeme giderlerine hibe desteği verilmez.
+(7) Tarımsal altyapı yatırımlarının destekleme programına yönelik projeler kapsamında yatırımın bir unsuru olan mal, makine, ekipman ve malzeme ihtiyaçları inşaat işleri ihale ve sözleşmeleri kapsamında yüklenicilerden sağlanır. Bu kapsamda proje tekliflerinde bu tür alım giderleri inşaat işleri alım gideri olarak belirtilir. İnşaat işleri ihalesi kapsamı dışındaki mal, makine, ekipman ve malzeme alımlarına hibe desteği verilmez.

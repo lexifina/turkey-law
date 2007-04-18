@@ -1,0 +1,9 @@
+DOKUZUNCU BÖLÜM
+Proje Başvurularının İl Düzeyinde Değerlendirilmesi
+İl proje değerlendirme birimi
+MADDE 32 – (1) Proje kapsamındaki illerde, başvurusu alınan projelerin ilk değerlendirmesi bu bölümde belirtilen kriterlere göre, valinin görevlendireceği vali yardımcısının başkanlığında il özel idare temsilcisi, il müdürlüğü, bayındırlık ve iskan il müdürlüğü, il ticaret borsası ve/veya ziraat odası temsilcisi ile proje konusuyla ilgili kamu kurumu, üniversite, sivil toplum kuruluş yetkili temsilcilerinden teşkil edilecek il proje değerlendirme birimleri tarafından yapılır.
+(2) İl proje değerlendirme birimlerinin oluşturulma ve çalışma şekilleri il valilikleri tarafından belirlenir ve taraflara duyurulur. İl proje değerlendirme birimleri en az beş, en fazla dokuz temsilciden oluşur.
+(3) İl proje değerlendirme birimlerine, değerlendirme sürecinde gerekli tüm teknik ve lojistik desteği sunmak, özet tabloların doldurulması ve değerlendirmesi ile ilgili verilerin muhafazasında, proje özetlerinin düzeltilmesinde çalıştırmak amacı ile diğer kamu kurum ve kuruluşlarından personel görevlendirilebilir.
+(4) İl müdürlükleri tarafından teslim alınıp son başvuru tarihinde il değerlendirme birimine teslim edilen proje başvuruları, son başvuru tarihini takip eden beş iş günü içinde yapılacak ilk toplantıda, belirtilen kriterlere göre değerlendirilmeye başlanır. İl proje değerlendirme birimi bu değerlendirmeleri en geç onbeş gün içinde tamamlar.
+(5) İl müdürlükleri bünyesinde, Köy Bazlı Katılımcı Yatırım Programının uygulanması amacıyla kurulmuş il proje yürütme birimlerinde görevlendirilen personelde gerek duyulması hâlinde il proje değerlendirme biriminde görev alabilir.
+(6) Kırsal Kalkınma Merkez Yürütme Birimi tarafından görevlendirilecek danışmanlar ve düzenlenecek eğitim çalışmaları ile il proje değerlendirme birimlerine değerlendirme sürecinde destek verilir.

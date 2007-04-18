@@ -1,0 +1,3 @@
+Başvuru sahiplerinin, ortaklarının ve projelerin uygunluğu açısından incelenmesi
+MADDE 34 – (1) Bu Yönetmeliğin 13, 14, 15, 16 ve 17 nci maddelerinde belirtilen kriterlere göre başvuru sahiplerinin, ortakların, eğer varsa ilişkili kurumların ve projenin uygunluğunun incelenmesi Ek-3’te yer alan "Başvuru Sahibi ve Projenin Uygunluk Değerlendirme Tablosu" kriterlerine göre yapılır.
+(2) Bu Yönetmeliğin 33 üncü maddesi ile bu madde uyarınca yapılan uygunluk kontrollerinde proje sahipleri tarafından verilmiş hiçbir evrakta düzeltme yapılmaz, yaptırılması talep edilmez ve uygunluk kriterlerini sağlamayan ve eksik proje başvuruları değerlendirme dışında tutulur.

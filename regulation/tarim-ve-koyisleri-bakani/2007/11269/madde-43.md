@@ -1,0 +1,8 @@
+Hibe sözleşmelerinde teminat alınması
+MADDE 43 – (1) Ekonomik yatırımlarda proje sahibi, hibe sözleşmesine konu olan toplam proje tutarının %10’u tutarında ve yatırım süresince geçerli banka teminat mektubu verir veya hibe sözleşmesinde belirtilen toplam proje tutarının %5’ini il müdürlüğünce belirlenecek bir yetkili ile açılacak ortak hesaba, hibe sözleşmesinin akdinden önce yatırır.
+(2) Teminat tutarı, kısmi banka teminat mektubu, kısmi ortak hesaba yatırılacak nakdi tutar veya birden fazla banka teminat mektubu olarak düzenlenebilecektir. Ancak bu durumda toplam tutar mutlaka hibe sözleşmesine konu olan toplam proje tutarının %10’u tutarından az olamaz.
+(3) Teminat mektubunun bir kopyası veya ortak hesaba ait banka dekontu hibe sözleşmesinin bir sureti ile birlikte Kırsal Kalkınma Merkez Yürütme Birimine gönderilir.
+(4) Teminat mektuplarının geçerlilik süresi en az yatırım süresi kadar olmalı, yatırım süresi ile ilgili değişikliklerde teminat mektupları geçerlilik süreleride buna uyumlu olarak değiştirilmelidir.
+(5) Teminat mektubu ve ortak hesaba yatırılan tutar, hibe sözleşmesinde yatırımcı tarafından taahhüt edilen ayni katkının da başvuru sahibi tarafından tamamlanması ve proje uygulamasının sona ermesinden sonra proje sahibinin talebi üzerine il müdürlüğünce iade edilir.
+(6) Hibe sözleşmesinin, sözleşmede yer alan nedenlerle fesh edilmesi hâlinde teminat mektubu veya ortak hesapta bulunan meblağ Hazine adına irat kaydedilir.
+(7) Hibe sözleşmesine Bakanlık tarafından onay verilmemesi durumunda, teminat mektubu veya ortak hesapta bulunan meblağ başvuru sahibine iade edilir.
