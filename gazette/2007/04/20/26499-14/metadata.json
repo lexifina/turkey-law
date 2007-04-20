@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-04-20",
+  "issue": "26499",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2007/15)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070420-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070420.htm",
+  "index_sha256": "a1ae7c048f26c1770514b9461e168693e7ef0ff42c008a03f8185072bb831a25",
+  "index_header": "20 Nisan 2007 ... 26499 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
