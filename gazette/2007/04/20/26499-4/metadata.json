@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-04-20",
+  "issue": "26499",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2007/11946 75 Kişinin Türk Vatandaşlığına Alınması ve Türk Vatandaşlığına Alınan 11 Kişiye İlişkin Hükümlerin İptali ve 6 Kişiyle İlgili Bazı Maddi Hataların Düzeltilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070420-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070420.htm",
+  "index_sha256": "a1ae7c048f26c1770514b9461e168693e7ef0ff42c008a03f8185072bb831a25",
+  "index_header": "20 Nisan 2007 ... 26499 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
