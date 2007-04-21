@@ -1,0 +1,6 @@
+KAMUDA GEÇİCİ İŞ POZİSYONLARINDA ÇALIŞANLARIN SÜREKLİ İŞÇİ KADROLARINA VEYA SÖZLEŞMELİ PERSONEL STATÜSÜNE GEÇİRİLMELERİ, GEÇİCİ İŞÇİ ÇALIŞTIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI
+HAKKINDA KANUN
+Kanun Numarası : 5620
+Kabul Tarihi : 4/4/2007
+Yayımlandığı R.Gazete : Tarih : 21/4/2007 Sayı : 26500
+Yayımlandığı Düstur : Tertip : 5 Cilt : 46
