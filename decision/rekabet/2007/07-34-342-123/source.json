@@ -1,0 +1,13 @@
+{
+  "number": "07-34/342-123",
+  "type": "Rekabet İhlali",
+  "decision_date": "2007-04-24",
+  "publication_date": "2007-09-20",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=540cd99b-2234-4f5f-ba28-88fa1306331d",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=839",
+  "pdf_sha256": "b9f6aa727990c53b8a92992dd774ba2d9decd560a1d95ca40b2b928cf79a08f0",
+  "pdf_bytes": "169708",
+  "pages": "12",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
