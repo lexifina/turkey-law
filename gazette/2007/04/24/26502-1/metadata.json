@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-04-24",
+  "issue": "26502",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2007/11942 Türkiye Cumhuriyeti ile Birleşmiş Milletler Kalkınma Programı Arasında İmzalanan “Türkiye’de Yerel Gündem 21 Yönetişim Ağı Kanalıyla BM Binyıl Kalkınma Hedeflerinin Yerelleştirilmesi” Projesinin Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070424-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070424.htm",
+  "index_sha256": "6edaf2c31b0800b4375c8bcfeadcb6462546db8f97013d7c5d035a67e7e0e678",
+  "index_header": "24 Nisan 2007 ... 26502 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
