@@ -1,0 +1,93 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5628",
+  "year": 2007,
+  "title": "Kamu Malî Yönetimi ve Kontrol Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2007-04-25",
+  "adopted_as_published": "25/04/2006",
+  "date_basis": "adopted-repaired",
+  "official_gazette_as_published": "04.05.2007 No: 26512",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc091/kanuntbmmc091/kanuntbmmc09105628.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 91",
+  "committee_reports": [
+    {
+      "label": "TBMM 1357 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c154/tbmm22154093ss1357.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 219231,
+      "title": "Kamu Malî Yönetimi ve Kontrol Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "25/04/2006",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc091/kanuntbmmc091/kanuntbmmc09105628.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1357 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c154/tbmm22154093ss1357.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 144,
+          "sitting": 50,
+          "sitting_date": "2007-01-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c144/tbmm22144050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c144/tbmm22144fih.pdf",
+          "pages": [
+            "254"
+          ]
+        },
+        {
+          "cilt": 149,
+          "sitting": 73,
+          "sitting_date": "2007-03-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c149/tbmm22149073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c149/tbmm22149fih.pdf",
+          "pages": [
+            "333"
+          ]
+        },
+        {
+          "cilt": 154,
+          "sitting": 93,
+          "sitting_date": "2007-04-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c154/tbmm22154093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c154/tbmm22154fih.pdf",
+          "pages": [
+            "353:376"
+          ]
+        },
+        {
+          "cilt": 154,
+          "sitting": 94,
+          "sitting_date": "2007-04-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c154/tbmm22154094.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c154/tbmm22154fih.pdf",
+          "pages": [
+            "392:399"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=801&v_kullanici_id=27484799",
+      "page_sha256": "3fed266e90d41e05a3b4362e53bc83fd73f58bfad321b07a370a73f82523aae2"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "3fed266e90d41e05a3b4362e53bc83fd73f58bfad321b07a370a73f82523aae2",
+  "issuer": "TBMM",
+  "in_force": "2007-04-25",
+  "in_force_basis": "Kabul tarihi as printed in the official TBMM kanunlar index is 25/04/2006, whose year is a misprint: the one cited sitting with the same day and month is 2007-04-25; date of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
