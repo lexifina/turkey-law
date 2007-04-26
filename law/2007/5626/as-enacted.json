@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5626",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Ziraat Bankası, Türkiye Halk Bankası Anonim Şirketi ve Türkiye Emlak Bankası Anonim Şirketi Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-04-26",
+  "gazette_issue": "26504",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070426-2.htm",
+  "source_sha256": "b88200b0e79803edd536063573d1d4139e6e10343ddc3032da35f160c02fe145",
+  "text_sha256": "acbada86c4b78ffa28569507749d0672521d86135d1fda80d62a9b5fd2529e34",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/04/26/26504-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070426-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
