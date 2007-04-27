@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.10793",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2006 YILI ÜRÜNÜ KÜTLÜ PAMUK, YAĞLIK AYÇİÇEĞİ, SOYA FASULYESİ, KANOLA, DANE MISIR, ASPİR VE ZEYTİNYAĞI ÜRETİCİLERİNE DESTEKLEME PRİMİ ÖDENMESİNE İLİŞKİN BAKANLAR KURULU KARARI UYGULAMA TEBLİĞİ (TEBLİĞ NO: 2006/50)",
+  "number": "10793",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2006/10793",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10793&MevzuatTertip=5",
+  "source_sha256": "b1dec9bb9321677ff502f3573acaf11e1a6aa81780c15a8696ed40898f143e71",
+  "source_bytes": 126393,
+  "published": "2006-11-22",
+  "gazette": "26354",
+  "in_force": "2007-04-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/04/2007\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2007-04-27",
+      "RG-27/04/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-02-14",
+      "RG-14/02/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2219,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
