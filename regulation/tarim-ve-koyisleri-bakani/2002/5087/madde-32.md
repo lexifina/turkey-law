@@ -1,0 +1,2 @@
+İmha
+Madde 32 - İnsan sağlığına zararlı olduğu veteriner hekim raporu ile tespit edilmiş olan su ürünleri, gıda maddeleri dışındaki ürünlerin üretimi ile ilgili sanayide kullanılır veya nakliye, yükleme, boşaltma, dezenfekte gibi işlemlere yönelik her türlü imha masrafları, işletmeci tarafından karşılanmak üzere imha edilir. İşletmecinin belediye olması halinde, imha masrafları komisyoncudan/satıcıdan tahsil edilir. İmha işlemine ilişkin bir tutanak düzenlenir.

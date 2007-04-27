@@ -1,0 +1,1 @@
+Geçici Madde 2 - Bu Yönetmeliğin yürürlüğe girmesinden önce kurulmuş ve halen faaliyette bulunan belediyelere, gerçek veya tüzel kişilere ait su ürünleri hali için 6 ncı ve 7 nci madde hükümleri uygulanmaz.

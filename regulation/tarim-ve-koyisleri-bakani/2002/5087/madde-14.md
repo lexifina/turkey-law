@@ -1,0 +1,4 @@
+Toptan Satış İşlemi
+Madde 14 - Hale getirilen su ürünleri, müzayede alanı içerisinde canlı, taze-soğutulmuş, işlenmiş veya dondurulmuş olarak, açık artırma usulü ile işletmecinin yetki verdiği satış memurları gözetiminde satılır. Satış açık artırma usulü ile gerçekleşmediği takdirde işletmecinin izni ile pazarlık usulü ile de toptan satışa sunulabilir.
+Satış esnasında tartı ve sayımda mal sahibi ve alıcının kontrolü esastır. Satışlar su ürünlerinin türlerine bağlı olarak adet, kilo, kasa, kutu, sepet gibi ölçüler baz alınarak yapılır.
+(Değişik: RG 14/7/2004-25522) Sahibi bulunmayan veya el konulan, avlanması yasak olan su ürünlerinin satışında, 1380 sayılı Su Ürünleri Kanununun ilgili hükümleri uygulanır. Sahibi bulunmayan, sahiplenilmeyen veya terk edilmiş ürünlerden işletmeci sorumludur. Soğuk muhafaza üniteleri, kontrolörlerin talebi durumunda, Yediemine alınan su ürünlerinin yasal işlemleri tamamlanana kadar saklanması amacıyla kullandırılır.

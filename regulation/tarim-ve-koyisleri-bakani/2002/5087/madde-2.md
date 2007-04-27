@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 - Belediyeler ve/veya gerçek ve tüzel kişiler tarafından kurulan yada kurulacak olan su ürünleri toptan satış yerlerinde uyulması gereken asgari genel, teknik, hijyenik, fiziksel ve altyapı şartları ile bu yerlerin kurulma, çalışma, yönetim ve işleyişine, su ürünlerinin perakende satışına ve satış yerlerinde çalışanların sahip olması gereken şartlara ilişkin usul ve esasları, kontrol ve denetime ait hususları kapsar.
