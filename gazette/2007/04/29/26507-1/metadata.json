@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-04-29",
+  "issue": "26507",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çalışma ve Sosyal Güvenlik Eğitim Uzman Yardımcılığı ve Uzmanlığı Sınav, Görev, Yetki, Çalışma Usul ve Esasları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070429-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/04/20070429.htm",
+  "index_sha256": "2999cb18f3f2a8e4c198bd019882041ab26b8e98e97ebcad50dfbbc49f571df4",
+  "index_header": "29 Nisan 2007 ... 26507 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
