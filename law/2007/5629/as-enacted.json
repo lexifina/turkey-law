@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5629",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bahreyn Krallığı Hükümeti Arasında Gelir Üzerinden Alman Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-01",
+  "gazette_issue": "26509",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070501-1.htm",
+  "source_sha256": "114fb3ee9ec5eaee92f5b8741de0644f3c75174fd4ff692b54667480d43ce73a",
+  "text_sha256": "3981b40e84c6c379dde067f45fc8926a04f503d40a1ae9ae273c77e0a6ab326d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/01/26509-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070501-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
