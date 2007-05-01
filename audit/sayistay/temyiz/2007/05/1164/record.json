@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29397",
+  "decision_date": "2007-05-01",
+  "source_id": 1164,
+  "chamber": "8",
+  "file_number": "28953",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1164/",
+  "source_sha256": "08ddb529e11a8754e4d9f1d3df0e281d13d0c34b4aba34b10f954689dfddc8c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
