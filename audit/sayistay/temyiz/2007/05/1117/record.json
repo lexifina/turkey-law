@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29350",
+  "decision_date": "2007-05-01",
+  "source_id": 1117,
+  "chamber": "2",
+  "file_number": "28973",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1117/",
+  "source_sha256": "7dcfed5db680d89cfbe564f5cd177879a4c635eddb2e15c445b4b160e8527354",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
