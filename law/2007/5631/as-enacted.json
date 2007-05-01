@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5631",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Katar Devleti Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-01",
+  "gazette_issue": "26509",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070501-3.htm",
+  "source_sha256": "bb338ab0998e52f47ee7e138b5f7ce340cafee87c19efa44ef6b629cfdaf063e",
+  "text_sha256": "dcde1ec15832f9c55d6a16beac423dfbce9875f8e59b11eea53630df3f7133fe",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/01/26509-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070501-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
