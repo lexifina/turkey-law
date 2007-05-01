@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5633",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Macaristan Cumhuriyeti Hükümeti Arasında Ekonomik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-01",
+  "gazette_issue": "26509",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070501-5.htm",
+  "source_sha256": "0dcd9dfa42f6ae4c4c3a51900e9130754f495cfe345d7137d1fd61da432a7bdd",
+  "text_sha256": "3b555437231854b34420175b43f4e0b50ac14d31080989b4b5fc075423919ea4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/01/26509-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070501-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
