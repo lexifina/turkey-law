@@ -15,3 +15,4 @@ TEBLİĞ 31/12/2004 tarihli ve 25687 (Mükerrer) sayılı R.G | 11 | 2005 yılı
 TEBLİĞ 26/4/2005 tarihli ve 25797 sayılı R.G | 11 | 2005 yılı için
 5398 | 2, 3, İşlenemeyen Hüküm | 21/7/2005
 5496 | 1, 2, 3, 11, 14, 15, Geçici Madde 9, 10, 11, 12 | 24/5/2006
+5627 | 1, 5 | 2/5/2007
