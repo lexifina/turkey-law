@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5634",
+  "year": 2007,
+  "title": "Hemşirelik Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-02",
+  "gazette_issue": "26510",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070502-3.htm",
+  "source_sha256": "924cbe6bb5abb25d6bb1fa3386e19faa0f586935a42a34123cbb325dd22714e1",
+  "text_sha256": "eeebda17e10113ef97350ded6a5c944acde417a2999c636755a80a98b4fa5589",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/02/26510-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070502-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
