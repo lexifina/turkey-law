@@ -60,4 +60,6 @@ belirleyen kuralları,
 48. Türkiye Elektrik İletim Anonim Şirketi: TEAŞ'dan oluşturulan iletim şirketini,
 49. Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketi: TEAŞ'dan oluşturulan ticaret ve taahhüt şirketini,
 50. Elektrik Üretim Anonim Şirketi: TEAŞ'dan oluşturulan üretim şirketini,
+51. (Ek: 18/4/2007-5627/14 md.) Kojenerasyon: Isı ve elektrik ve/veya mekanik enerjinin aynı tesiste eş zamanlı olarak üretimini,
+52. (Ek: 18/4/2007-5627/14 md.) Mikro kojenerasyon tesisi: Elektrik enerjisine dayalı kurulu gücü 50 kilovat ve altında olan kojenerasyon tesisini,
 İfade eder.
