@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.54/5411-2713-40249",
+  "source_id": 31065,
+  "date": "2007-05-03",
+  "title": "Dahilde işleme izin belgesi sahibi mükellefler bu kapsamdaki malları bizzat ihraç edebilirler ve ayrıca tecil-terkin uygulamak suretiyle teslim edecekleri ihracatçılar aracılığıyla da malların ihraç edilmesi mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31065",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "234e1e6ae308569ee52aa95b03b1a43136d563cb3051e1f4390628947cf1714a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
