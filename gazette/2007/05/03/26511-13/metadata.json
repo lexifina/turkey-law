@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-05-03",
+  "issue": "26511",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Kamu İhale Kurumunun 13/4/2007 Tarihli ve 2007/DK.D-54 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070503-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070503.htm",
+  "index_sha256": "00f5eaefcd88d5aa846fe987c55ec1d4b00269836b49d01b6b867e07e97b496c",
+  "index_header": "3 Mayıs 2007 ... 26511 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
