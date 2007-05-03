@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-05-03",
+  "issue": "26511",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "891 Türkiye Büyük Millet Meclisi Genel Seçimlerinin Yenilenmesine Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070503M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070503m1.htm",
+  "index_sha256": "ffe320bb01da75c8b7c949b8c7bb495c8777723a3191b9bf71c8aa6c8d01abf3",
+  "index_header": "3 Mayıs 2007 ... 26511 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
