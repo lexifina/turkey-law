@@ -1,0 +1,3 @@
+Sözleşme Süresinin Sona Ermesi
+MADDE 12 – (1) Kullanma izni veya irtifak hakkı, sözleşmesinde belirtilen süre sonunda bitecektir. Ayrıca, yatırımcı tarafından; kullanma izni veya irtifak hakkı sözleşmesinde belirtilen hükümlere aykırı davranılması veya yatırımcının kendi isteğiyle yatırımdan vazgeçmesi halinde, sözleşme iptal edilir ve alınan teminatlar Hazineye irat kaydedilir.
+(2) Bu durumda, taşınmaz ile kullanma iznine veya irtifak hakkına dayalı olarak yapılan yapı ve tesislerin tamamı Hazineye intikal eder ve yatırımcı yaptığı yatırımdan dolayı her hangi bir hak, tazminat veya talepte bulunamaz.

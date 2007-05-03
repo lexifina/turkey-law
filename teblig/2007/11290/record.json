@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11290",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HAZİNE ARAZİLERİNİN TEKNOLOJİK VEYA JEOTERMAL SERACILIK VE ORGANİK TARIM YATIRIMLARINA TAHSİSİNDE UYGULANACAK ESAS VE USULLERE İLİŞKİN TEBLİĞ",
+  "number": "11290",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2007/11290",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11290&MevzuatTertip=5",
+  "source_sha256": "bfcfd577434d69fd9601f90491b3d2ad4601d61dbc706eecff939c7ae731f214",
+  "source_bytes": 23930,
+  "published": "2007-05-03",
+  "gazette": "26511",
+  "in_force": "2007-05-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.05.2007); own commencement article: \"Bu Tebliğ yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1367,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
