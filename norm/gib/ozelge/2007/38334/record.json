@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.56-5601-972-040389",
+  "source_id": 38334,
+  "date": "2007-05-03",
+  "title": "mali sorumluluk (mali sorumluluk, 3 üncü şahıs sorumluluk ve ürün geri çekme) poliçesine herhangi bir belge aranmaksızın banka ve sigorta muameleleri vergisi istisnası uygulanıp uygulanmayacağı ile istisnanın uygulanması halinde ihraç edilen mallara ilişk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38334",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "1661e7ed9e52bf662c4de8c3ca74f74984f73f6b10d77703a3d002d552abe571",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
