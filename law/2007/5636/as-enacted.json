@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5636",
+  "year": 2007,
+  "title": "Ailenin Korunmasına Dair Kanunda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-04",
+  "gazette_issue": "26512",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070504-2.htm",
+  "source_sha256": "750af9d0f763e8773491a63ba5e7afadfb5f12074b53c24062bc032493d865ac",
+  "text_sha256": "a7a93de7c2a5b039f0f6602f60926a464c49eda1d706edd3d3ff19f106091014",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/04/26512-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070504-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
