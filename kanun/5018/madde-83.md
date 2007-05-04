@@ -169,7 +169,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)
 ––––––––––––––
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “10) Devlet Opera ve Balesi Genel Müdürlüğü” sırasından sonra gelmek üzere “11) Orman Genel Müdürlüğü” sırası eklenmiş ve cetvelin sıra numaraları teselsül ettirilmiştir.
 (2) 28/9/2006 tarihli ve 5548 sayılı Kanunun 36 ncı maddesiyle, bu bölüme “29) Kamu Denetçiliği Kurumu “ ibaresi eklenmesinden dolayı bu kuruma ait sıra numarası yeniden teselsül ettirilmiştir.
-(III) SAYILI CETVEL
+III) SAYILI CETVEL
 (Değişik: 22/12/2005-5436/12 md.)
 DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR
 1) Radyo ve Televizyon Üst Kurulu
