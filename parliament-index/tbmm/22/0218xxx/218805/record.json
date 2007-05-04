@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 218805,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "CUMHURBAŞKANINCA GERİ GÖNDERİLEN KANUNLAR",
+  "heading_as_published": "Cumhurbaşkanınca Geri Gönderilen Kanunlar",
+  "summary": "15.3.2007 Tarihli ve 5603 Sayılı Tarım ve Kırsal Kalkınmayı Destekleme Kurumu Kuruluş ve Görevleri Hakkında Kanun",
+  "title": "15.3.2007 Tarihli ve 5603 Sayılı Tarım ve Kırsal Kalkınmayı Destekleme Kurumu Kuruluş ve Görevleri Hakkında Kanun",
+  "first_sitting_date": "2007-05-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 156,
+      "sitting": 99,
+      "sitting_date": "2007-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c156/tbmm22156099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c156/tbmm22156fih.pdf",
+      "pages": [
+        "32:48"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=109&v_gelecek_sayfa=101&v_kullanici_id=27484546",
+  "source_sha256": "0240e9b886758917e3c7297824510e55eb96843fb6850c12302fa08c10ad9a71",
+  "in_force": "2007-05-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
