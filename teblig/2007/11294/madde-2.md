@@ -1,0 +1,1 @@
+MADDE 2 – (1) Bu Tebliğ için, 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun, 28/12/2006 tarihli ve 26390 sayılı Resmî Gazete’de yayımlanan Gezi Tekneleri Yönetmeliği ve 17/1/2002 tarihli ve 24643 sayılı Resmî Gazete’de yayımlanan Ürünlerin Piyasa Gözetimi ve Denetimine Dair Yönetmelik içinde geçen tanımlar geçerlidir.

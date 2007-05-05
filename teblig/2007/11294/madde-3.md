@@ -1,0 +1,1 @@
+MADDE 3 – (1) Müsteşarlık, gezi tekneleri üreticilerine "TS EN ISO 10087 - Küçük Tekneler - Tekne Tanıtımı - Kodlama Sistemi" standardında belirlenen ve üç harften oluşan üretici kodu verir ve firma ile ilgili bilgileri muhafaza eder.

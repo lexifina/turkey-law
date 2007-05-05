@@ -1,0 +1,1 @@
+MADDE 6 – (1) Bu Tebliğin 2 nci maddesinde belirtilen mevzuat hükümleri uyarınca yapılan işlemler, gezi teknelerinde hem tekne için açılan dosyada hem de üretici için açılan dosyada ayrı ayrı ve kişisel deniz taşıtlarının kayıt belgesinin bir nüshası kayıdın yapıldığı birimde muhafaza edilir.

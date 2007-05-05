@@ -1,0 +1,1 @@
+MADDE 7 – (1) 2/4/2002 tarihli ve 24714 sayılı Resmî Gazete’de yayımlanan Gezi Tekneleri Yönetmeliğine dayanılarak, 16/6/2005 tarih ve 25847 sayılı Resmî Gazete’de yayımlanan Gezi Tekneleri Yönetmeliğinin 15 inci Maddesinde Yer Alan Kayıt Sistemine İlişkin Usul ve Esaslar ile Yükümlülüklere İlişkin Tebliğ yürürlükten kaldırılmıştır.

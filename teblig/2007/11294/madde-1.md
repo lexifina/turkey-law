@@ -1,0 +1,1 @@
+MADDE 1 – (1) Bu Tebliğ, 28/12/2006 tarihli ve 26390 sayılı Resmî Gazete’de yayımlanan Gezi Tekneleri Yönetmeliğinin 14 üncü maddesine dayanılarak, Gezi Tekneleri Yönetmeliğinin uygulanmasına yönelik olarak kayıt sistemi oluşturmak ve oluşturulacak bu kayıt sistemine ilişkin usul ve esasları belirlemek amacıyla hazırlanmıştır.
