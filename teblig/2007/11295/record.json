@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.11295",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜTÜN ÜRETİMİNDEN VAZGEÇİP ALTERNATİF ÜRÜN YETİŞTİREN ÜRETİCİLERİN DESTEKLENMESİNE DAİR KARARIN UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "11295",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2007/11295",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11295&MevzuatTertip=5",
+  "source_sha256": "8f57483fe4be086e5c7de72f70e72a02f018d79fe836b1b1872bdea6ca49f449",
+  "source_bytes": 40363,
+  "published": "2007-05-05",
+  "gazette": "26513",
+  "in_force": "2007-05-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.05.2007); own commencement article: \"Bu Tebliğ yayımı tarihinden geçerli olmak üzere yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden geçerli olmak üzere yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2410,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11295-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

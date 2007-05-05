@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, uygulamada görev alan kurum ve kuruluşların belirlenmesi, Doğu ve Güneydoğu Anadolu Bölgesinde; Adıyaman, Bingöl, Batman, Bitlis, Diyarbakır, Hakkâri, Malatya, Mardin, Muş, Siirt ve Van illerinde tütün üretimiyle iştigal eden ve alternatif ürün yetiştirmeyi tercih eden üreticilerin seçiminin esasları, ödeme tutarının tespitine ilişkin kriterleri, ödemeye ilişkin usul ve esasları kapsamaktadır.
