@@ -1,0 +1,10 @@
+ÜÇÜNCÜ BÖLÜM
+Yükümlülükler, İhraç veya Yurt Dışına Çıkarma, İthalât veya Yurt İçine Sokma
+Yükümlülükler
+MADDE 18 – (1) Bu Yönetmelik kapsamındaki kuruluşlar;
+a) Kuruldukları tarihten itibaren; kurucularını, sermayelerini, bilgileri dâhilindeki sermayedarlarını, yönetim ve denetim kurulu üyeleri ile şirketi temsil ve ilzama yetkili kişilerin kimliklerini, üretecekleri maddelerin cinsi ile senelik üretim miktarını, personel adedini ve bu bilgilerde oluşacak değişiklikleri, değişiklik tarihinden itibaren en geç bir ay içerisinde,
+b) İmâl ettikleri Kontrole Tabi Liste kapsamındaki malzemeleri, stoklarını ve üretim tesislerinde kendi denetim ve sorumlulukları altında imal edecekleri veya üçüncü şahıslara imal ettirecekleri silahlar ile bunlara ait mühimmat ve yedek parçaların seri numaraları ile Türkiye’nin, Avrupa Güvenlik ve İşbirliği Teşkilâtı kapsamında imzaladığı Küçük ve Hafif Silahların Kontrolüne İlişkin İşaretleme Talimatı ve diğer uluslararası andlaşmalar gereğince silah seri numaralarını her yıl Ocak ayı içerisinde,
+c) Türkiye’nin, Avrupa Güvenlik ve İşbirliği Teşkilâtı kapsamında imzaladığı Küçük ve Hafif Silahların Kontrolüne İlişkin İşaretleme Talimatı ve diğer uluslararası andlaşmalar gereğince, aldıkları siparişlerin cins ve miktarını, silah seri numaraları ile sipariş verenlerin kimlik bilgilerini en geç iki ay içerisinde,
+ç) Üretim İzin Belgesi kapsamındaki Kontrole Tabi Listedeki malzemelerden, prototip veya üretim amaçlı aldıkları siparişleri ve sipariş verenlerin kimlik bilgilerini en geç bir ay içerisinde,
+Makama bildirmek zorundadır.
+(2) Makam, kuruluşların sivil amaca yönelik üretimleri hâriç olmak üzere, ulusal savunma sanayii ihtiyaçları dışındaki siparişlerinin kabul edilip edilmeyeceği hususundaki kararını, Türkiye’nin dış politikası, ülke güvenliği ve ekonomisi ile kamu yararı açısından Genelkurmay Başkanlığı, Dışişleri Bakanlığı ve gerektiğinde diğer ilgili bakanlıkların da görüşlerini alarak inceledikten sonra, en geç iki ay içerisinde ilgili kuruluşa bildirmek zorundadır. Bildirimin yapılmaması hâlinde, sipariş talebi kabul edilmiş sayılır.

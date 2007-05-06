@@ -1,0 +1,4 @@
+İzin
+MADDE 6 – (1) Kontrole Tabi Liste kapsamında yer alan malzemeleri üretecek kuruluşların kurulması ve işletilmesi, yatırımcı kuruluşların başvurularını müteakip, Sanayi ve Ticaret Bakanlığının görüşü alındıktan sonra Makamın iznine bağlıdır.
+(2) Kuruluşun, Kontrole Tabi Liste kapsamındaki malzemeyi üretmek üzere kurulması talebi; Makam tarafından, Sanayi ve Ticaret Bakanlığının görüşü de alınarak değerlendirilir ve sonuç ilgili kuruluşa bildirilir.
+(3) Üretim tesislerinin nerelerde kurulacağı ve depolarıyla satış yerlerinin nerelerde bulunacağına ilişkin yapılan talepler ise, yatırımcı kuruluşların başvurularını müteakip; İçişleri, Sağlık ve Çevre ve Orman Bakanlıkları ile Genelkurmay Başkanlığının uygun görüşü alındıktan sonra Makam tarafından sonuçlandırılır ve ilgili kuruluşa, kuracağı tesis için kuruluş izni verilir.

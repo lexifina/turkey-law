@@ -1,0 +1,5 @@
+Satış izni başvuru belgeleri
+MADDE 15 – (1) Satış izni için kuruluşlardan aşağıdaki bilgi ve belgeler talep edilir:
+a) Kuruluş tarafından Kontrole Tabi Liste kapsamında üretilen silah, mühimmat ve bunlara ait yedek parçaların satışının ya da dağıtımının yapılacağı yerlerin adresleri.
+b) Kuruluş tarafından üretimi yapılan ve satışa sunulan ve aldıkları ihaleler de dâhil olmak üzere Kontrole Tabi Liste kapsamındaki silahların cinsi, seri numaraları ile Türkiye’nin, Avrupa Güvenlik ve İşbirliği Teşkilâtı kapsamında imzaladığı Küçük ve Hafif Silahların Kontrolüne İlişkin İşaretleme Talimatı gereğince verilen silah seri numaraları, Sınır Aşan Örgütlü Suçlarla Mücadele Sözleşmesi Ateşli Silahlar Protokolünde belirtilen işaretleme kriterlerine uygun işaretleme bilgileri.
+(2) Satış süreçlerinde, yetkilendirilmiş temsilci aracılığıyla da satış yapılabilir. Bu durumda en az üretici firma genel müdürü seviyesinde, noter tasdikli olarak yetkilendirilmiş temsilcinin ismi, adresi, Ticarî Sicil Belgesi ve Makamca talep edilen diğer bilgiler Makama bildirilir.
