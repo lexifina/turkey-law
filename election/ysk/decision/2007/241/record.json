@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2007/241",
+  "list_number": "241",
+  "decision_date": "2007-05-07",
+  "title": "Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir Örnek: 140/I sayılı Genelge ile İlgili Yüksek Seçim Kurulu Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/3132/2007-241.pdf",
+  "source_sha256": "b20d68f6943aa9e1be96b801ab01eb176e1ce763b1cd290cc64e89a3a708e480",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 12,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2007-05-07",
+  "law_text_complete": false
+}
