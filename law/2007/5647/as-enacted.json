@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5647",
+  "year": 2007,
+  "title": "WIPO Telif Haklan Andlaşmasına Katılmamızın Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-08",
+  "gazette_issue": "26516",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-9.htm",
+  "source_sha256": "d7df1ca38ef83ea92add7eff248634b5a84785536f2d15bc7aa16488b79c66ea",
+  "text_sha256": "133cbd82a4f71877b15e2a4b657da13de81595b9b8ea69fe53d75244c7496246",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/08/26516-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
