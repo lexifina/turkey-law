@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5644",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Moritanya İslam Cumhuriyeti Hükümeti Arasında Ticaret, Ekonomik ve Teknik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-08",
+  "gazette_issue": "26516",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-6.htm",
+  "source_sha256": "4ccc4d18b01cf8c1d74d0790bc9e3276cc9ba82d64a56d1a7ccaf569593c9c6d",
+  "text_sha256": "636dc8be5060f5a7704a77ae6f0364d6380d818371df501ebd891fb49e85cfad",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/08/26516-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
