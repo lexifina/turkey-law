@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5642",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti ile Oman Sultanlığı Arasında Ticari Mübadele ve Ekonomik, Teknik, Bilimsel ve Kültürel İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-08",
+  "gazette_issue": "26516",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-4.htm",
+  "source_sha256": "48ef74955136c6c1f0fef558a5b0faece258402f2a8c7ef14f25ae67dd1280e1",
+  "text_sha256": "3844f7793e9874273d3727ec4f199ead5d07158ee61b0c2f27e5b1724df96d75",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/08/26516-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
