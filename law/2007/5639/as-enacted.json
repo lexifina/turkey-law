@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5639",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Fas Krallığı Hükümeti Arasında Karayolları Ulaşımı Altyapısı Teknik ve Bilimsel İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-08",
+  "gazette_issue": "26516",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-1.htm",
+  "source_sha256": "ddf80072bcca540e7b39fa73fdf5c1aa0c1e77197dfda42525324303e8a4ffe8",
+  "text_sha256": "2dd6cdce6f948640eb8e38f323514497085ce4e61501fd829e1249e638b6fcad",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/08/26516-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
