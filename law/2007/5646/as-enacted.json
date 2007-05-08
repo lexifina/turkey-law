@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5646",
+  "year": 2007,
+  "title": "WIPO İcralar ve Fonogramlar Andlaşmasına Katılmamızın Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-08",
+  "gazette_issue": "26516",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-8.htm",
+  "source_sha256": "92992103ce1b4d8a23a771fc4b4ca798d0c281d32da67f415dda35a3a6383ffe",
+  "text_sha256": "d1c8aff81ac093cf5aa6b5545e12ee5443e0653270f230facee2b59db68fa163",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/08/26516-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
