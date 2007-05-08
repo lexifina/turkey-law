@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-05-08",
+  "issue": "26516",
+  "edition": "mükerrer 2",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLARIN ATANMASINA DAİR İŞLEM",
+  "title": "Adalet, İçişleri ve Ulaştırma Bakanlıklarına Yapılan Atamalara Dair İşlem",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508M2-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508m2.htm",
+  "index_sha256": "d002b3e081081a59ccb1609af963a8377bf4a627c2415a09f5b137058915e765",
+  "index_header": "8 Mayıs 2007 ... 26516 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
