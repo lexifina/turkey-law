@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.11300",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE DENİZCİLİK İŞLETMELERİ ANONİM ŞİRKETİ SATIŞ İŞLEMLERİ YÖNETMELİĞİ",
+  "number": "11300",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2007/11300",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11300&MevzuatTertip=5",
+  "source_sha256": "6fcb8d89a0427792eb8e480bf2a36b07c92c755587a0bcc2b8a5827dfae47f80",
+  "source_bytes": 26268,
+  "published": "2007-05-08",
+  "gazette": "26516",
+  "in_force": "2007-05-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.05.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 39,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
