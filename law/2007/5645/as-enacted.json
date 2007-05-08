@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5645",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile İsrail Devleti Hükümeti Arasında Sınai Araştırma-Geliştirme Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-08",
+  "gazette_issue": "26516",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-7.htm",
+  "source_sha256": "144c61f204042d0ac356aa6d9dfe6dc89b886792f6aadc03bb894f94cfb0a25b",
+  "text_sha256": "8b70c9febb24bf7c2ba9f967fffd70ec06557d8ca611c589b7b72a6b2989c054",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/08/26516-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
