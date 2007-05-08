@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5640",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kongo Cumhuriyeti Hükümeti Arasında Askeri Alanda Eğitim, Teknik ve Bilimsel İşbirliği Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-08",
+  "gazette_issue": "26516",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-2.htm",
+  "source_sha256": "d29d730cf1193f5e7076c4478dd9314ea5f5f02983ae1736f781c9cc84e7a824",
+  "text_sha256": "799fa8f145b6e2e0d4b9d594818357c204215b5162bc3c984fb0b7298252bf1c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/08/26516-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070508-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
