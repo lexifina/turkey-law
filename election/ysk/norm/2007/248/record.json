@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2007/248",
+  "list_number": "248",
+  "genelge_number": "Örnek: 139",
+  "decision_date": "2007-05-09",
+  "title": "YSK genelgesi 2007/248",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1643/2007-248.pdf",
+  "source_sha256": "3b9c701b18e9f98a2b1fb8e4be849890c8611541a3993900a8779c554bf82b1d",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 8,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2007-05-09",
+  "law_text_complete": false
+}
