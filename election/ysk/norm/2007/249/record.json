@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2007/249",
+  "list_number": "249",
+  "genelge_number": "Örnek: 136",
+  "decision_date": "2007-05-09",
+  "title": "XXIII. Dönem Milletvekili Genel Seçiminde Uygulanacak İl Seçim Kurullarının Görevlerini ve Seçim Sonuçlarını Belirlemek için Uygulanacak Esas ve İlkeleri Gösterir Örnek: 136 Sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1641/2007-249.pdf",
+  "source_sha256": "b73dcbe8b5dbc2f85786443bd44842f32f60dc692e51b006bbe54d755fccb3a9",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2007-05-09",
+  "law_text_complete": false
+}
