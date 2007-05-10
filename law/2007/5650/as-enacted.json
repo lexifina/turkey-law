@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5650",
+  "year": 2007,
+  "title": "Türk Medenî Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-10",
+  "gazette_issue": "26518",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070510-2.htm",
+  "source_sha256": "63c9bd2f10311c71a9d08b3a130edd7ab7875f2489da58ef9bae6c4058baad6b",
+  "text_sha256": "de0ceb3dafb4e9307000cd4460f7fe5367cbcbef54942f43b6666300a76f825c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/10/26518-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070510-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
