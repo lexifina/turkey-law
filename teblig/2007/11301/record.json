@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11301",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 372)",
+  "number": "11301",
+  "path": "teblig/2007/11301",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11301&MevzuatTertip=5",
+  "source_sha256": "d8448d9fd552d8798c834622002aec921bfe954e945ee4ac6fb5dfe2236538ca",
+  "source_bytes": 11597,
+  "published": "2007-05-10",
+  "gazette": "26518",
+  "in_force": "2007-05-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.05.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 427,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
