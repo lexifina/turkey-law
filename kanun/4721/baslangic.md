@@ -1,4 +1,4 @@
-3/7/2005 tarihli ve 5399 sayılı Kanunla değişik
+4/5/2007 tarihli ve 5650 sayılı Kanunla değişik
 TÜRK MEDENÎ KANUNU
 Kanun Numarası | : 4721
 Kabul Tarihi | : 22/11/2001
