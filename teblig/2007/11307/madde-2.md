@@ -1,0 +1,5 @@
+Önlemlerin etkisiz kılındığına ilişkin belirlemeler
+MADDE 2 – (1) Bu takip çerçevesinde yapılan çalışmalarda, ÇHC için önlem alınmasını müteakip Vietnam Sosyalist Cumhuriyeti’nden (Vietnam), daha önce gerçekleşmeyen önlem konusu ürün ithalatının artış gösterdiği ve söz konusu ürünlerin birim fiyatının ortalama birim fiyatların altında olduğu tespit edilmiştir.
+(2) Ayrıca, anılan ülke Büyükelçiliğinden söz konusu ürünlerin Vietnam’dan ihracatına ilişkin istatistikler ile bu ürünleri üreten firmalar hakkında bilgi talep edilmiş ve kendilerine makul bir süre tanınmıştır. Ancak, Vietnam Büyükelçiliğinden cevap alınamamıştır.
+(3) Buna ek olarak, Söz konusu ürünlerin Vietnam’dan ithalatını gerçekleştiren ithalatçı firmalardan da bilgi ve belge talep edilmiş, bununla birlikte söz konusu firmalar tarafından konuya ilişkin herhangi bir bilgi ve belge sunulmamıştır.
+(4) Bu durum, aslen ÇHC menşeli olduğu düşünülen ürünlerin Vietnam menşeli olarak ülkemize sokulmak sureti ile mevcut damping önleminin etkisiz kılınmasına yönelik işlemlerin varlığını işaret etmektedir.

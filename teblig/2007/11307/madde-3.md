@@ -1,0 +1,2 @@
+Soruşturma konusu madde
+MADDE 3 – (1) Soruşturma konusu madde, İthalatta Haksız Rekabetin Önlenmesine İlişkin 2002/4 Tebliği ile önleme konu 9613.10.00.00.00, 9613.20.10.00.00 ve 9613.90.00.00.11 GTİP’leri altında yer alan cep çakmakları ve aksamı* ve İthalatta Haksız Rekabetin Önlenmesine İlişkin 2004/25 Sayılı Tebliğ ile de 9613.20.90.00.00 GTİP altında yer alan doldurulabilen gazlı cep çakmaklarıdır.
