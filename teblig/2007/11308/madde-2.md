@@ -1,0 +1,5 @@
+Önlemlerin etkisiz kılındığına ilişkin belirlemeler
+MADDE 2 – (1) ÇHC için önlem alınmasını müteakip Çin Tayvanı (Tayvan), Endonezya Cumhuriyeti (Endonezya) ve Malezya’dan önlem konusu ürün ithalatının artış gösterdiği ve Tayvan Gümrük İdaresi ile Malezya İstatistik Kurumundan elde edilen önlem konusu ürün için Türkiye’ye ilişkin ihracat rakamlarının ülkemiz ithalat kayıtlarında belirtilen rakamların çok altında olduğu tespit edilmiştir.
+(2) Öte yandan, Endonezya Ticaret Bakanlığından temin edilen verilere göre önlem konusu ürünün Endonezya’dan Türkiye’ye ihracatının olmadığı tespit edilirken, aynı dönemde Türkiye’nin önlem konusu ürün için ithalat rakamlarının kayda değer seviyelerde olduğu görülmektedir.
+(3) Bununla birlikte, diğer ülkeler üzerinden sevk edilen Tayvan, Endonezya ve Malezya menşeli ürünlerin miktarının bu farklılığı açıklayacak seviyede olmadığı görülmektedir.
+(4) Bu durum, aslen ÇHC menşeli olduğu düşünülen ürünlerin Tayvan, Endonezya ve Malezya menşeli olarak ülkemize sokulmak sureti ile mevcut damping önleminin etkisiz kılınmasına yönelik işlemlerin varlığını işaret etmektedir.

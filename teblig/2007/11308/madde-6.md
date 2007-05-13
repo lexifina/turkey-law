@@ -1,0 +1,3 @@
+Süreler
+MADDE 6 – (1) Soru formuna yanıt verme süresi, formun gönderildiği tarihten itibaren posta süresi dahil 37 gündür. Tebliğin 5 inci maddesinde belirtilen ve sonradan soru formu talebinde bulunan taraflar ise bu Tebliğin yayımı tarihinden itibaren işleyecek 37 günlük süre ile bağlıdırlar.
+(2) Soruşturmanın sonucundan etkilenebileceklerini iddia eden diğer ilgili tarafların da (yerli üreticiler, ithalatçılar, ilgili meslek kuruluşları, tüketici dernekleri, üretim dalındaki işçi veya işveren sendikaları, vb.) görüşleri ile konuya ilişkin her türlü bilgi ve belgeyi bu Tebliğin yayımı tarihinden itibaren 37 gün içinde yazılı olarak Genel Müdürlüğe bildirmeleri gerekmektedir.
