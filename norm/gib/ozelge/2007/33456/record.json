@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.54/5429-806-43120",
+  "source_id": 33456,
+  "date": "2007-05-14",
+  "title": "Binek otomobillerin kiralanması işi ile iştigal etmeyen mükelleflerin serbest meslek faaliyetinde kullanmak üzere iktisap ettiği binek otomobile ilişkin olarak yüklendikleri katma değer vergisini indirim konusu yapmaları mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33456",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "389d4c7e41a5c47dec01638cc65f51198368bbf1e9bc6db169baaf19e3d07648",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
