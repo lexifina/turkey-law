@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29407",
+  "decision_date": "2007-05-15",
+  "source_id": 1174,
+  "chamber": "1",
+  "file_number": "28814",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1174/",
+  "source_sha256": "7273961edf3984e23c333e7fc945bce6acc2046e7e640d798e51e61536933871",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
