@@ -15,3 +15,4 @@ Değiştiren Kanunun Numarası | 2709 sayılı Kanunun değişen maddeleri | Yü
 5370 | 133, İşlenemeyen Hüküm | 23/6/2005
 5428 | 130, 160, 161, 162, 163, İşlenemeyen Hüküm | 9/11/2005
 5551 | 76, İşlenemeyen Hüküm | 17/10/2006
+5659 | 67, İşlenemeyen Hüküm | 18/5/2007
