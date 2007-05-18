@@ -1,0 +1,24 @@
+{
+  "number": "248",
+  "number_as_published": "Karar No : 248",
+  "year": 2007,
+  "title": "İncesu Belediyesinin 10.05.2007 tarih, 35 ve 37 sayılı kararları.",
+  "decision_date": "2007-05-18",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/18-mayis-2007-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "2227ef677e6643b9b2b5c308122c10ee5e643456f1fcad9350cba9fee3f4f463",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2007-05-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18.05.2007 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "18 Mayıs 2007 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=20",
+  "subject_published": true
+}
