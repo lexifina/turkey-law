@@ -65,3 +65,5 @@ Madde 2 — Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına s
 Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması halinde tümüyle oylanır.
 9- 13/10/2006 tarihli ve 5551 sayılı Kanunun 2 nci Maddesi:
 Madde 2 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması halinde oylanır.
+10- 10/5/2007 tarihli ve 5659 sayılı Kanunun 2 nci Maddesi:
+Madde 2 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna sunulması halinde oylanır.
