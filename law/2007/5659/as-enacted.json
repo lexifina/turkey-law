@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5659",
+  "year": 2007,
+  "title": "2709 Sayılı Türkiye Cumhuriyeti Anayasasına Geçici Madde Eklenmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-05-18",
+  "gazette_issue": "26526",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070518-6.htm",
+  "source_sha256": "dedf684c84071e93e4c0211812c90587a25293621c6e39a17acfab56ad24e331",
+  "text_sha256": "838629ef47d1dae39435fc1721b8b7bf26b77bb7ab34fffcce24c6e01f8f4e63",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/05/18/26526-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070518-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
