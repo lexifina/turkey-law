@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2007/267",
+  "list_number": "267",
+  "decision_date": "2007-05-19",
+  "title": "YSK kararı 2007/267",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/3120/2007-267.pdf",
+  "source_sha256": "a51017d1d2c8fa0d89c749290e294d5bcfda24480950205dc7c3fcd091ba3db6",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2007-05-19",
+  "law_text_complete": false
+}
