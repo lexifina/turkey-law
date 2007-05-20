@@ -192,6 +192,8 @@ Türkiye İş Kurumu tarafından ilk iş kaybı tazminatının ödendiği tarihi
 Bu kapsamdakilerin sigortalılıkları iş kaybı tazminatı ödeme süresinin bittiği tarihte sona erer. İş kaybı tazminatı sona erenler için bu Kanunun 9 uncu maddesinin dördüncü fıkrası uygulanmaz.
 İş kaybı tazminatından yararlananlar için Türkiye İş Kurumu prim ödeme yükümlüsü olmakla birlikte bu Kanun kapsamında işyeri ve işveren sayılmaz.
 Yürürlük
-MADDE 108- Bu Kanun 1/1/2007 tarihinde yürürlüğe girer.
+MADDE 108- Bu Kanun 1/1/2008 tarihinde yürürlüğe girer. (1)
 Yürütme
 MADDE 109- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+–––––––––––––––-
+(1) 9/5/2007 tarihli ve 5655 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan "1/1/2007" ibaresi "1/1/2008" olarak değiştirilmiş ve metne işlenmiştir.
