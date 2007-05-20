@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.11320",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MECBURİ STANDARD TEBLİĞİ (TEBLİĞ NO: ÖSG-2007/09)",
+  "number": "11320",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "path": "teblig/2007/11320",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11320&MevzuatTertip=5",
+  "source_sha256": "355941b1620a6513a916a057566fe4f3ee65b2629eecb287c6c2486678a10469",
+  "source_bytes": 8174,
+  "published": "2007-05-20",
+  "gazette": "26527",
+  "in_force": "2007-05-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.05.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 151,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11320-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
