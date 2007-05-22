@@ -1,0 +1,1 @@
+MADDE 3 – (1) 1 inci maddede belirtilen "Faaliyet Formu" ile 2 nci maddede belirtilen "Alım Miktarı Formu" ibraz edilmeden yapılan müracaatlar ile formlarda belirtilen bilgileri tam olarak içermeyen müracaatlar değerlendirmeye alınmaz. Ancak, Bakanlar Kurulu'nca tarımsal ürünlerin alımı ve/veya satımı hakkında görevlendirilmiş kurum veya kuruluşlar için bu şartlar aranmaz.
