@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.56/5625-19",
+  "source_id": 38333,
+  "date": "2007-05-22",
+  "title": "Adsl, telefon ve cep telefonlarına ait faturalarda yer alan özel iletişim vergisini faaliyet konusu itibariyle gider kaydedip kaydedemeyecekleri ya da beyan etmiş oldukları özel iletişim vergisinden mahsup edip edemeyecekleri hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38333",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b057518c494bbc0bc3729833d3f43867b237521075f5219116c972eb33751e70",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
