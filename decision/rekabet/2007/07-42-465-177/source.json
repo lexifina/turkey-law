@@ -1,0 +1,13 @@
+{
+  "number": "07-42/465-177",
+  "type": "Rekabet İhlali",
+  "decision_date": "2007-05-23",
+  "publication_date": "2007-07-05",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=0fc45831-0994-42e9-b16f-83c1bc1ff101",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=846",
+  "pdf_sha256": "717ddc56eedfc99f59738c9059dd573fe7601055de050a68f13b41ff3f0eb1ad",
+  "pdf_bytes": "317557",
+  "pages": "20",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
