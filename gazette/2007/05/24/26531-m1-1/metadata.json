@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-05-24",
+  "issue": "26531",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2007/12074 Türkiye Cumhuriyeti Hükümeti ile Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı Hükümeti Arasında İmzalanan “Terörizm, Ciddi Suç ve Örgütlü Suçla Mücadelede İşbirliği Hakkında Mutabakat Muhtırası”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070524M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070524m1.htm",
+  "index_sha256": "b4467c2741b6a5163769754297d2214af9e85dba7015cb0182e3ae36cd9e3b43",
+  "index_header": "24 Mayıs 2007 ... 26531 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
