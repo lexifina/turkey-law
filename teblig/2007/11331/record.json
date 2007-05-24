@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11331",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 311)",
+  "number": "11331",
+  "path": "teblig/2007/11331",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11331&MevzuatTertip=5",
+  "source_sha256": "13089dd4babef1bb3eb8c7da9be6864692d08f39b1b035227170da9f472d65e1",
+  "source_bytes": 10004,
+  "published": "2007-05-24",
+  "gazette": "26531",
+  "in_force": "2007-05-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.05.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 438,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
