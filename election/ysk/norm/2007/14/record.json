@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2007/14",
+  "list_number": "291, 286",
+  "genelge_number": "14",
+  "decision_date": "2007-05-24",
+  "title": "YSK genelgesi 2007/14",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1646/2007-14.pdf",
+  "source_sha256": "23deca95be20650b78eac7732545c4dfaa97cb34e9778666e6baa6dc8dc30637",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2007-05-24",
+  "law_text_complete": false
+}
