@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2007/298",
+  "list_number": "298",
+  "decision_date": "2007-05-26",
+  "title": "YSK ilke kararı 2007/298",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3361/2007-298-karar.htm",
+  "source_sha256": "e48df71d2979c738a5008888f7b50f73d52e301d24585902a311b021b2ff0c72",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2007-05-26",
+  "law_text_complete": false
+}
