@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-05-29",
+  "issue": "26536",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "5662 Yükseköğretim Kurumları Teşkilatı Kanununda ve Yükseköğretim Kurumları Öğretim Elemanlarının Kadroları Hakkında Kanun Hükmünde Kararname ile Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnameye Ekli Cetvellerde Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070529-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070529.htm",
+  "index_sha256": "7e236d985e31bc6095d2313343976ac1f3b489b8bd67be17d312d4ea3dee2bca",
+  "index_header": "29 Mayıs 2007 ... 26536 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
