@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68/6802-8",
+  "source_id": 38463,
+  "date": "2007-05-29",
+  "title": "Tüketicilere konut alımı için kullandırılan ve halen açık olan krediler, tüketicilerin sahip oldukları konutların teminatı karşılığında kullandırılan krediler ile finansal kiralama yoluyla tüketicilere konut kiralanması durumunda kaynak kullanımı destekle",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38463",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b36a79920cf535f0f7066b08adc3e7189f72ec9a6fb24f8b8cd84686c636d025",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
