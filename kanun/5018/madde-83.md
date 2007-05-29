@@ -134,6 +134,23 @@ TEKNOLOJİ ENSTİTÜLERİ
 68) (Ek: 1/3/2006-5467/5 md.) Adıyaman Üniversitesi
 69) (Ek: 1/3/2006-5467/5 md.) Ordu Üniversitesi
 70) (Ek: 1/3/2006-5467/5 md.) Amasya Üniversitesi
+71) (Ek: 17/5/2007-5662/9 md.) Karamanoğlu Mehmetbey Üniversitesi
+72) (Ek: 17/5/2007-5662/9 md.) Ağrı Dağı Üniversitesi
+73) (Ek: 17/5/2007-5662/9 md.) Sinop Üniversitesi
+74) (Ek: 17/5/2007-5662/9 md.) Siirt Üniversitesi
+75) (Ek: 17/5/2007-5662/9 md.) Nevşehir Üniversitesi
+76) (Ek: 17/5/2007-5662/9 md.) Karabük Üniversitesi
+77) (Ek: 17/5/2007-5662/9 md.) Kilis 7 Aralık Üniversitesi
+78) (Ek: 17/5/2007-5662/9 md.) Çankırı Karatekin Üniversitesi
+79) (Ek: 17/5/2007-5662/9 md.) Artvin Çoruh Üniversitesi
+80) (Ek: 17/5/2007-5662/9 md.) Bilecik Üniversitesi
+81) (Ek: 17/5/2007-5662/9 md.) Bitlis Eren Üniversitesi
+82) (Ek: 17/5/2007-5662/9 md.) Kırklareli Üniversitesi
+83) (Ek: 17/5/2007-5662/9 md.) Osmaniye Korkut Ata Üniversitesi
+84) (Ek: 17/5/2007-5662/9 md.) Bingöl Üniversitesi
+85) (Ek: 17/5/2007-5662/9 md.) Muş Alparslan Üniversitesi
+86) (Ek: 17/5/2007-5662/9 md.) Mardin Artuklu Üniversitesi
+87) (Ek: 17/5/2007-5662/9 md.) Batman Üniversitesi
 B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
