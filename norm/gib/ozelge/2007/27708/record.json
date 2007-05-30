@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.53/5301-4324-49074",
+  "source_id": 27708,
+  "date": "2007-05-30",
+  "title": "öğrencilere ve üniversite çalışanlarına hizmet sunan kantin, kafeterya ve yiyecek-içecek hizmeti sunan sosyal tesislerin kurumlar vergisi ve katma değer vergisi mevzuatı karşısındaki mükellefiyet durumları hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27708",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "2a433e5c1272e97777fa9f67e82eb3050f5308e05e042560c6d77973cf3bf403",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
