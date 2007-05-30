@@ -1,7 +1,7 @@
 BEŞİNCİ BÖLÜM
 Çeşitli Hükümler
 Fonun hesap ve harcamalarının denetimi
-MADDE 124 — Fonun iç ve dış denetimi hakkında, 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu hükümleri uygulanır.
+MADDE 124 — (Değişik birinci fıkra: 24/5/2007-5667/6 md.) Fonun iç denetimi Fon tarafından belirlenecek usûl ve esaslar çerçevesinde, dış denetimi ise Fonun yıllık gider hesapları ile harcamalarının Sayıştay tarafından incelenmesi suretiyle gerçekleştirilir.
 Fonun yıllık hesapları bir bağımsız denetim şirketince de denetlenir ve bağımsız denetim raporu faaliyet raporu içinde derc edilerek yayımlanır.
 Fon, faaliyetlerine ilişkin olarak her yılın mart ayı sonuna kadar bir önceki yıla ait kararları, yaptığı düzenlemeler ile bunların ekonomik ve sosyal etkilerini analiz eden bir faaliyet raporu hazırlar. Faaliyet raporu, ayrıca Fonun performans hedefleri ile uygulama sonuçlarının karşılaştırılmasını ve değerlendirilmesini de içerir.
 Fonun yıllık faaliyet raporu, malî tabloları ve bütçe kesinhesabı Türkiye Büyük Millet Meclisine sunulur. Kesinhesabın bir örneği de Maliye Bakanlığına gönderilir.
