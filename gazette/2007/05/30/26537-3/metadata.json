@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-05-30",
+  "issue": "26537",
+  "edition": "regular",
+  "item": 3,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "5666 Terör ve Terörle Mücadeleden Doğan Zararların Karşılanması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070530-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/05/20070530.htm",
+  "index_sha256": "6d84c271a31277a40db0f71876c3d11f2f478327d785d905d431bfc09e1d9e82",
+  "index_header": "30 Mayıs 2007 ... 26537 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
