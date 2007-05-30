@@ -1,0 +1,94 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5675",
+  "year": 2007,
+  "title": "Büyükşehir Belediyesi Kanunu, İl Özel İdaresi Kanunu ve Belediye Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2007-05-30",
+  "adopted_as_published": "30/05/2007",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.06.2007 No: 26545",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc091/kanuntbmmc091/kanuntbmmc09105675.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 91",
+  "committee_reports": [
+    {
+      "label": "TBMM 1416 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c159/tbmm22159114ss1416.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 219278,
+      "title": "Büyükşehir Belediyesi Kanunu, İl Özel İdaresi Kanunu ve Belediye Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "30/05/2007",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc091/kanuntbmmc091/kanuntbmmc09105675.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1416 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c159/tbmm22159114ss1416.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 149,
+          "sitting": 72,
+          "sitting_date": "2007-03-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c149/tbmm22149072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c149/tbmm22149fih.pdf",
+          "pages": [
+            "234"
+          ]
+        },
+        {
+          "cilt": 157,
+          "sitting": 106,
+          "sitting_date": "2007-05-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c157/tbmm22157106.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c157/tbmm22157fih.pdf",
+          "pages": [
+            "216"
+          ]
+        },
+        {
+          "cilt": 159,
+          "sitting": 114,
+          "sitting_date": "2007-05-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c159/tbmm22159114.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c159/tbmm22159fih.pdf",
+          "pages": [
+            "380:384"
+          ]
+        },
+        {
+          "cilt": 160,
+          "sitting": 117,
+          "sitting_date": "2007-05-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c160/tbmm22160117.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c160/tbmm22160fih.pdf",
+          "pages": [
+            "90:120",
+            "123:129"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=801&v_kullanici_id=27483198",
+      "page_sha256": "8a9e3ea0bc9017c7696e90ed6f9ae2b2b1534d8089b6b9bc672cd70bac6128e6"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8a9e3ea0bc9017c7696e90ed6f9ae2b2b1534d8089b6b9bc672cd70bac6128e6",
+  "issuer": "TBMM",
+  "in_force": "2007-05-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 30/05/2007; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
