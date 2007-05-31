@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11355",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SATIŞ SONRASI HİZMETLERİ YETERLİLİK BELGESİ SÜRELERİNİN UZATILMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: TRKGM-2007/2)",
+  "number": "11355",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "path": "teblig/2007/11355",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11355&MevzuatTertip=5",
+  "source_sha256": "f8f4110a6b47aeeffa6f6780e29db8e068ee677c97ab277fd8abfa81ef32a7c3",
+  "source_bytes": 5942,
+  "published": "2007-05-31",
+  "gazette": "26538",
+  "in_force": "2007-05-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.05.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 83,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
