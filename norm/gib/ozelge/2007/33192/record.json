@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.55/5529-816/ 49406",
+  "source_id": 33192,
+  "date": "2007-05-31",
+  "title": "İnşaat işlerinde 2006 yılında yapılmış olan indirimli orana tabi işlemlerden dolayı yüklenilen vergilerden hakedişleri 2006 yılında düzenlenmemiş olanlarının iade konusu yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33192",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "44271cc07783ce759eb6fea6845c86cc2892b7864f69daf13b4c3965183f6b1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
