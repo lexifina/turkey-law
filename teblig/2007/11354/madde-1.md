@@ -1,0 +1,1 @@
+MADDE 1 – (1) 4822 sayılı Kanunla değişik 4077 sayılı Tüketicinin Korunması Hakkında Kanunun 13 ve 31 inci maddelerine dayanılarak yürürlüğe konulan Garanti Belgesi Uygulama Esaslarına Dair Yönetmelik hükümlerine göre geçerliliği devam eden garanti belgelerinin süreleri, yeni bir müracaata bağlı olmaksızın 30/6/2008 tarihine kadar uzatılmıştır.
