@@ -1,0 +1,2 @@
+Kazandan beslenen askerî personele tayın bedeli verilmesi
+MADDE 6 – (1) Birlik ve kurum nöbetçileri ile savaş, iç güvenlik harekâtı, sınır ötesi harekât veya yüzer birlik personeli hariç olmak üzere, bu Kanun kapsamında tayın bedeli veya yemek yardımı aldığı halde kazandan beslenen askerî personelin, tayın bedeli veya yemek yardımının beslendikleri gün ve öğün sayılarına karşılık gelen kısmı aylıklarından kesilir.
