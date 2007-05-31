@@ -151,6 +151,15 @@ TEKNOLOJİ ENSTİTÜLERİ
 85) (Ek: 17/5/2007-5662/9 md.) Muş Alparslan Üniversitesi
 86) (Ek: 17/5/2007-5662/9 md.) Mardin Artuklu Üniversitesi
 87) (Ek: 17/5/2007-5662/9 md.) Batman Üniversitesi
+88) (Ek: 22/5/2008-5765/3 md.) Ardahan Üniversitesi
+89) (Ek: 22/5/2008-5765/3 md.) Bartın Üniversitesi
+90) (Ek: 22/5/2008-5765/3 md.) Bayburt Üniversitesi
+91) (Ek: 22/5/2008-5765/3 md.) Gümüşhane Üniversitesi
+92) (Ek: 22/5/2008-5765/3 md.) Hakkari Üniversitesi
+93) (Ek: 22/5/2008-5765/3 md.) Iğdır Üniversitesi
+94) (Ek: 22/5/2008-5765/3 md.) Şırnak Üniversitesi
+95) (Ek: 22/5/2008-5765/3 md.) Tunceli Üniversitesi
+96) (Ek: 22/5/2008-5765/3 md.) Yalova Üniversitesi
 B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
