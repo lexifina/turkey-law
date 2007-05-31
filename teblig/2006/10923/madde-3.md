@@ -1,0 +1,4 @@
+MADDE 3 - (1) Bildirimin yapıldığına dair Bakanlıkça düzenlenen ve ithalatçının unvanı ile vergi numarasının bulunduğu Bildirim Kayıt Belgesinin bir örneği, aslına uygunluğu ithalatçı veya temsilcisi tarafından firma kaşesi ve imzasıyla onaylandıktan sonra, her ithalat işlemi için gümrük idaresine ibraz edilir.
+(2) Bildirim Kayıt Belgesinde yer alan firma unvanı ve vergi numarasının gümrük beyannamesindeki firma unvanı ve vergi numarası ile aynı olması zorunludur.
+(3) Söz konusu belgenin ibraz edilmemesi halinde gümrük idarelerince ithalata izin verilmez.
+(4) Ekli listede (Ek 1) yer almakla birlikte, ithal edilmek istenen maddelerin Kozmetik Yönetmeliği uyarınca bildirime tabi olmadığının ithalatçı veya temsilcisi tarafından beyan edilmesi ve Dış Ticaret Müsteşarlığına hitaben düzenlenen ekli taahhütnamenin (Ek 2) her ithalat işlemi için ayrı ayrı ilgili gümrük idaresine verilmesi halinde, Sağlık Bakanlığınca düzenlenen Bildirim Kayıt Belgesi aranmaz.
