@@ -1,0 +1,40 @@
+Finansal kiralama sözleşmelerine ilişkin sözleşme öncesi bilgi formu
+MADDE 7 – (1) Konut finansmanı kuruluşları tarafından tüketicilere sözleşmenin akdinden önce verilecek olan bilgilendirme formunun; sabit, değişken veya sabit ve değişken faizin birlikte uygulandığı faiz seçenekleri için ayrı ayrı ve en az oniki punto koyu siyah harflerle düzenlenmesi ve aşağıda yer alan bilgileri içermesi zorunludur:
+a) Konut finansmanı kuruluşunun unvan, açık adres, telefon ve varsa diğer erişim bilgileri,
+b) Sabit, değişken veya sabit ve değişken faizin birlikte uygulandığı finansal kiralama sözleşme tiplerinin tanımları ile bu sözleşme tipleri arasındaki farklara ve tüketiciye muhtemel etkilerine ilişkin açıklamalar,
+c) Konut finansmanının dövize endekslenmesi durumunda, bu şekildeki finansmanın risklerine karşı tüketicinin uyarılması ve bu tip finansmanlar için ödemelerin ve toplam borç tutarının hesaplanmasında hangi tarih ve kurun dikkate alınacağının belirtilmesi,
+ç) Sabit faizli finansal kiralama sözleşmelerinde;
+1) Bu tip finansmanın tüketiciye muhtemel etkilerine ilişkin bilgi,
+2) Yıllık faiz oranı ile yıllık maliyet oranı,
+3) Toplam kira bedeline göre aylık ve yıllık geri ödeme tutarı,
+4) Kira geri ödemelerinin vadesinden önce yapılmasına ilişkin şartlar ve sözleşmede erken ödeme ücretinin öngörülüp öngörülmediği, öngörülüyorsa oranı,
+5) 10.000 YTL temel alınarak, 5, 10 ve 20 yıllık vadeler için hazırlanacak örnek ödeme planı,
+d) Değişken faizli finansal kiralama sözleşmelerinde;
+1) Bu tip finansmanın tüketiciye muhtemel etkilerine ilişkin açıklamalar,
+2) Bu tip finansmanda aylık taksitlerin azami faiz oranını geçmemek üzere değişiklik gösterebileceği konusunda bilgi,
+3) Değişken faize esas teşkil eden referans faiz ve endekslerin hangi dönemlerde, hangi kıstaslar temel alınarak belirleneceğinin belirtilmesi,
+4) Bu tip finansman için Türkiye Cumhuriyet Merkez Bankası tarafından belirlenen referans faiz ve endekslerin yıllık oranı,
+5) Konut finansmanı kuruluşunun bu faiz ve endekslere uygulayacağı marj,
+6) Toplam kira bedeline göre aylık ve yıllık geri ödeme tutarı,
+7) Yıllık faiz oranı ile yıllık maliyet oranının başlangıç ve azami faiz oranları için ayrı ayrı gösterilmesi,
+8) Faiz oranında değişiklik olması durumunda, bu değişikliğin tüketiciye, oluşacak yeni faiz oranları doğrultusunda hazırlanacak yeni bir ödeme planı ile birlikte 30 gün önce bildirileceğinin belirtilmesi,
+9) Bu tip finansmanda kira geri ödemelerinin vadesinden önce yapılması durumunda, erken ödeme ücretinin alınmayacağına ilişkin bilgiler,
+10) Aylık taksitlerin azami faiz oranını geçmemek üzere değişiklik gösterebileceği konusunda bir ibarenin yer aldığı, 10.000 YTL temel alınarak, 5, 10 ve 20 yıllık vadeler için hazırlanacak örnek ödeme planı,
+e) Sabit ve değişken faizin birlikte uygulandığı finansal kiralama sözleşmelerinde;
+1) Bu tip finansmanın tüketiciye muhtemel etkilerine ilişkin açıklamalar,
+2) Bu tip finansmanda aylık taksitlerin azami faiz oranını geçmemek üzere değişiklik gösterebileceği konusunda bilgi,
+3) Değişken faize esas teşkil eden referans faiz ve endekslerin hangi dönemlerde, hangi kıstaslar temel alınarak belirleneceğinin belirtilmesi,
+4) Bu tip finansman için Türkiye Cumhuriyet Merkez Bankası tarafından belirlenen referans faiz ve endekslerin yıllık oranı,
+5) Konut finansmanı kuruluşunun bu faiz ve endekslere uygulayacağı marj,
+6) Toplam kira bedeline göre aylık ve yıllık geri ödeme tutarı,
+7) Yıllık faiz oranı ile yıllık maliyet oranının başlangıç ve azami faiz oranları için ayrı ayrı gösterilmesi,
+8) Faiz oranında değişiklik olması durumunda, bu değişikliğin tüketiciye, oluşacak yeni faiz oranları doğrultusunda hazırlanacak yeni bir ödeme planı ile birlikte 30 gün önce bildirileceğinin belirtilmesi,
+9) Bu tip finansmanda kira geri ödemelerinin vadesinden önce yapılması durumunda, erken ödeme ücretinin alınmayacağına ilişkin bilgiler,
+10) Aylık taksitlerin azami faiz oranını geçmemek üzere değişiklik gösterebileceği konusunda bir ibarenin yer aldığı, 10.000 YTL temel alınarak, 5, 10 ve 20 yıllık vadeler için hazırlanacak örnek ödeme planı,
+f) Toplam borç tutarının anapara, faiz ve diğer giderler itibarıyla dağılımı,
+g) İstenecek teminatlar,
+ğ) İdari giderler, hukuki giderler ve aracı kurum giderleri gibi finansal kiralama sözleşmesine ilişkin faiz dışı tüm maliyet kalemlerini içeren liste,
+h) Ödemelerde temerrüde düşülmesi halinde finansal kiralama sözleşmeleri için uygulanacak olan gecikme faiz oranı,
+ı) Taraflar arasında akdedilen sözleşmede öngörülen şartların sözleşme süresi içerisinde tüketici aleyhine değiştirilemeyeceğine ilişkin bilgi,
+i) Konut finansmanı kuruluşunun ödemeleri bir kıymetli evraka bağlamasının ya da kıymetli evrak kabul etmek suretiyle teminat altına almasının yasak olduğu, bu yasağa rağmen tüketiciden bir kıymetli evrak alınacak olursa, tüketicinin bu kıymetli evrakı konut finansmanı kuruluşundan geri isteme hakkına sahip olduğu ve konut finansmanı kuruluşunun kıymetli evrakın başkasına devri sebebiyle tüketicinin uğradığı zararı tazmin etmekle yükümlü olduğuna ilişkin bilgi.
+(2) Ayrıca, formun ön yüzünde yer alacak şekilde en az on altı punto ve koyu siyah harflerle, tüketicinin muacceliyet uyarısında verilecek olan süre içerisinde borcunu kapatmaması durumunda, konut finansmanı kuruluşunun finansal kiralama sözleşmesini feshettiği takdirde konutu derhal satışa çıkaracağına, her iki tarafın yükümlülüklerini yerine getirmeleri durumunda kiralama işleminin sonucunda mülkiyet devrinin yapılıp yapılmayacağına, konutun tüketici tarafından kiraya verilmesi halinde kiralayana bildirmesi gerektiğine, kiralayandan yazılı izin almak kaydıyla tüketicinin kiracılık veya sözleşmeden doğan hak ve/veya yükümlülüklerini devredebileceğine ve hayat sigortası, konut sigortası gibi yapılması isteğe bağlı sigortaların yaptırılmasının zorunlu olmadığına dair ibarenin yazılması gerekmektedir.
