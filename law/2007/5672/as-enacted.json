@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5672",
+  "year": 2007,
+  "title": "Sendikalar Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-06-01",
+  "gazette_issue": "26539",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070601-2.htm",
+  "source_sha256": "3609599e21be4a8d6a5daefbbea5bd95d1df77d5f8ec972304d9ea2ba0452cd3",
+  "text_sha256": "13a8a2d245800cec1801a8a3a5923c8396a325b6baadff59e888bb42523efef8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/06/01/26539-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070601-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
