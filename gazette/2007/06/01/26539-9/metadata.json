@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-06-01",
+  "issue": "26539",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özel Kullanıma Mahsus Kara Taşıtlarına İlişkin 6 Seri Nolu Gümrük Genel Tebliğinde Değişiklik Yapılmasına Dair Gümrük Genel Tebliği (Seri No: 7)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070601-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070601.htm",
+  "index_sha256": "3b95165352322428e1e6594299cfde23af0f4cf58d0a015d0200c28806205210",
+  "index_header": "1 Haziran 2007 ... 26539 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
