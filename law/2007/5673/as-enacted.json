@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5673",
+  "year": 2007,
+  "title": "Köy Kanununda ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-06-02",
+  "gazette_issue": "26540",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070602-1.htm",
+  "source_sha256": "0ae013f2fe3143e44e8e63a1b91b10d367ec48d976bc5756774833d11a350206",
+  "text_sha256": "fbff8a69cd123945d2cbec1239c56c95558c35552784b66a0feb084f67d2292d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/06/02/26540-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070602-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
