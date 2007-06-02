@@ -1,0 +1,2 @@
+Makinelerin sigortalanması
+MADDE 6 – (1) Üçüncü şahıslara kiraya verilecek taşıt, nakil, yol ve iş makineleri kiracı tarafından kira süresi içerisinde her türlü zarar, hasar ve kayıplara karşı sigortası ve ayrıca, kiraya verilen aracın nakliye sigortası yaptırılarak sigorta poliçesinin aslı ve poliçe pirim tutarının ödendiğine dair makbuz aslı işletme müdürlüğüne teslim edilir. Bu belgeler işletme müdürlüğüne teslim edilmeden makine kiracıya teslim edilmez.

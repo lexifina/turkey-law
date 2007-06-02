@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.10239",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ETİ MADEN İŞLETMELERİ GENEL MÜDÜRLÜĞÜ TAŞIT, NAKİL, YOL VE İŞ MAKİNELERİ KİRA YÖNETMELİĞİ",
+  "number": "10239",
+  "issuer": "Eti Maden İşletmeleri Genel Müdürü",
+  "issuer_slug": "eti-maden-isletmeleri-genel-muduru",
+  "path": "regulation/eti-maden-isletmeleri-genel-muduru/2006/10239",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10239&MevzuatTertip=5",
+  "source_sha256": "93137d58ab00927e2ae73a8eb65b6e6e5b23785a99d0d1828721c6c194370693",
+  "source_bytes": 40224,
+  "published": "2006-05-01",
+  "gazette": "26155",
+  "in_force": "2007-06-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-02/06/2007\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2007-06-02",
+      "RG-02/06/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-06-02",
+      "2/6/2007",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1529,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Sorumluluk
+MADDE 10 – (1) Kiraya verilen makinenin, Genel Müdürlüğün usul ve kurallarına uygun olarak her türlü bakım ve onarımının gereğince yapılıp yapılmadığından kiracı ana yüklenici kefil olmak kaydıyla, makinenin operatörü ve kontrol yetkilisi sorumludur. Operatör gerekli gördüğünde, üst makamına haber vermek şartıyla, makineyi çalıştırmaktan alıkoyabilir. Birden fazla makinenin kiraya verilmesi halinde, Genel Müdürlük, operatörden başka gerekirse bir de nezaretçi de bulundurabilir.

@@ -1,0 +1,3 @@
+Kiracıların sorumlulukları
+MADDE 11 – (1) Kiracıya teslim edilen taşıt, nakil, yol ve iş makinelerinde; kaza, yangın, infilak, sel ve benzeri hallerden oluşacak bütün zararlar, hasar ve kayıpların giderilmesi için tamirat ve yedek parça ikmali; üçüncü şahıslara verilecek her türlü zarar; taşıt, nakil, yol ve iş makinelerinde meydana gelecek her türlü iş kazalarından doğacak sorumluluklar ile çalışma süresindeki tamirat kiracıya aittir.
+(2) Kiralanan makinenin operatör ve yağcısı tarafından işin yürütümü sırasında, kiracıya veya bir başkasına verilecek her türlü hasar ve kazanın sorumluluğu da kiracıya aittir.

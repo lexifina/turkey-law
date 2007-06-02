@@ -1,0 +1,3 @@
+Kesin hesap çıkarımı
+MADDE 16 – (1) Kiraya verilecek taşıt, nakil, yol ve iş makineleri için yaklaşık olarak hesaplanacak kira bedeli tutarının yüzde yirmibeş (%25) fazlasıyla birlikte kiracı tarafından işletme veznesine avans olarak yatırılmasından sonra taşıt ya da iş makinesi kiraya verilir. İşin bitiminde kesin hesap çıkarılır. Tanzim edilen rapor ve fatura müşteriye gönderilir. Avans ve fatura arasındaki fark onbeş günü aşmamak üzere en erken şekilde tediye veya tahsil edilmek suretiyle hesaplar kapatılır.
+(2) Genel Müdürlüğün kiracıdan tahsil edeceği alacaklardaki gecikmelerde, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunda belirtilen gecikme zammı oranında faiz oranı uygulanır.
