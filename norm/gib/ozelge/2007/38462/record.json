@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GİB.0.02.68/6802-2",
+  "source_id": 38462,
+  "date": "2007-06-04",
+  "title": "Yatırım teşvik belgesi kapsamında fazladan kullandırılan kredilere ilişkin olarak hesaplanacak kaynak kullanımını destekleme fonu kesintisi hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38462",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "2ed6ca4885580a7442a8b45e8c70c3e5299f4cc2c1dbb5ea1fd3967dcde18a8e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
