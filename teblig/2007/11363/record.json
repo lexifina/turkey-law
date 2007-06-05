@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11363",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALİNDE TEK TARAFLI KONTROL SİSTEMİ KAPSAMINDA KOTA UYGULANAN TEKSTİL ÜRÜNLERİNE AİT KOTALARIN İKİNCİ BÖLÜMÜNÜN DAĞITIMI VE YÖNETİMİNE İLİŞKİN TEBLİĞ (2007/5)",
+  "number": "11363",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2007/11363",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11363&MevzuatTertip=5",
+  "source_sha256": "a0366c3c0a4f73d5f4a02aaeec58188ccdff0a78231d46e2e41319b370f4637f",
+  "source_bytes": 51307,
+  "published": "2007-06-05",
+  "gazette": "26543",
+  "in_force": "2007-06-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.06.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 785,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
