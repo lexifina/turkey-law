@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29466",
+  "decision_date": "2007-06-05",
+  "source_id": 1572,
+  "chamber": "7",
+  "file_number": "28762",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1572/",
+  "source_sha256": "b1b572970140b2985dc5be54ff9b0eb63df55ed01b2e4109817a3d441a9f7002",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
