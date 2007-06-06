@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68/6802-7",
+  "source_id": 38459,
+  "date": "2007-06-06",
+  "title": "Kabul kredili, vadeli akreditif ve mal mukabili ödeme şekillerine göre yapılan uçak donanım ve işletme malzemesi ithalatı sebebiyle KKDF kesintisi yapılıp yapılmayacağı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38459",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "fe70d7651c45bbd83cf3a7e76ccf0b3812a6bd90891391ea024a164094e0a984",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
