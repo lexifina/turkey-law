@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.40/4006-51523",
+  "source_id": 26730,
+  "date": "2007-06-06",
+  "title": "Kat karşılığı başkalarının arsasına yapılan inşaatlarda arsa sahibine daire dışında nakit ve kira ödemeleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/26730",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "27a4af30cb4b20ffcbb9e7df76332dc1f8cd618438f927138a0cd13a0d0bba6d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
