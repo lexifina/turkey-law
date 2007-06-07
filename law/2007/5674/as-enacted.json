@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5674",
+  "year": 2007,
+  "title": "Gençlik ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-06-07",
+  "gazette_issue": "26545",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070607-2.htm",
+  "source_sha256": "0ea08e5481ae66205b70ffe99ac994e5d5721774b2e9d2fba392043bc6c58df7",
+  "text_sha256": "b090f93c056c9a3261f8909dd5720efe2d5e9eb385b5af4423eab1a57d92ab67",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/06/07/26545-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070607-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
