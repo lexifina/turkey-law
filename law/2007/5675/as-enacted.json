@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5675",
+  "year": 2007,
+  "title": "Büyükşehir Belediyesi Kanunu, İl Özel İdaresi Kanunu ve Belediye Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-06-07",
+  "gazette_issue": "26545",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070607-3.htm",
+  "source_sha256": "2460b1a06da1e857442af35ccdbb85dd3c4115279eb66c03735d4a1578ee4e8c",
+  "text_sha256": "4e56f5c8bf9fc34d7b7da495a2775da15e58d0824f464f0d6bd0b5c79d00faa1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/06/07/26545-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070607-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
