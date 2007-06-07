@@ -12,3 +12,4 @@ Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Deği�
 5538 | 12/7/2006 | 12/7/2006 |  | 7
 5568 | 30/12/2006 | 30/12/2006 |  | Geçici Madde 3 ve 5
 5594 | 10/3/2007 | 10/3/2007 |  | Ek Madde 2
+5675 | 7/6/2007 | 7/6/2007 |  | 13
