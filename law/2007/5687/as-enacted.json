@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5687",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ukrayna Hükümeti Arasında Uzayın Araştırma ve Kullanımı Konularında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-06-08",
+  "gazette_issue": "26546",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070608-1.htm",
+  "source_sha256": "90fa92ef38a8176469f6148a73767b08add154b65b3d3eafd8363df5cfd86fb5",
+  "text_sha256": "f4f7ff09e3ad067aabf4d0df2fa6f1d30ef9d0f232eeffe7cb7399edcc76cd9b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/06/08/26546-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070608-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
