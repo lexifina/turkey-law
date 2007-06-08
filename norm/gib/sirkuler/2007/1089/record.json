@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KKDF-2/2007-2",
+  "source_id": 1089,
+  "date": "2007-06-08",
+  "title": "Konut finansmanı kapsamında kullandırılacak kredilerle ilgili kaynak kullanımını destekleme fonuna ilişkin açıklamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/sirkuler/1089",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "069541d83ce97dbd11654e09b6f90d3feb0de163d3cd6105b6e6f89b069609b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
