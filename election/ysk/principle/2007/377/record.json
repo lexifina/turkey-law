@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2007/377",
+  "list_number": "377",
+  "decision_date": "2007-06-08",
+  "title": "YSK ilke kararı 2007/377",
+  "summary": "Memnu Hakların İadesine ilişkin karar, geçmişe değil ileriye yönelik hak doğurur, Memnu hakların iadesi kararının verildiği tarihten itibaren ilgilinin seçilme yeterliği yeniden doğmuş olur, ayrıca bu karar mahiyet itibariyle, adı geçenin mahkumiyet kararına bağlı olarak kaybetmiş olduğu bütün ehliyetsizlikleri yeniden kazandıran bir karardır.",
+  "concepts": "MEMNU HAKLARIN İADESİ KARARI",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3343/2007-377-karar.htm",
+  "source_sha256": "978a4aeb094e395b56f601aa17c7fc2e4280706b9c3ac40099cb5293cd642b15",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "2007-06-08",
+  "law_text_complete": true
+}
