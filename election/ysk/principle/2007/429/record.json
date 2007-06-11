@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2007/429",
+  "list_number": "429",
+  "decision_date": "2007-06-11",
+  "title": "YSK ilke kararı 2007/429",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3327/2007-429-karar.htm",
+  "source_sha256": "da7f235d844a81076ef2e609cadb161c22d414fd097c62d8205a801056ebdde3",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2007-06-11",
+  "law_text_complete": false
+}
