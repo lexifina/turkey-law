@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6609-557/52975",
+  "source_id": 37350,
+  "date": "2007-06-12",
+  "title": "Toplu Konut İdaresi tarafından yaptırılacak yapılardan belediyelerin hangi grupta yer aldığına bakılmaksızın bina inşaat harcının 2464 sayılı Kanunun Ek 6 ncı, kayıt ve suret harcı ve imarla ilgili harçların ise, 84 üncü maddesinin (1) ve (2) numaralı ben",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37350",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "e9e83629d36c561e95ffa95fda3ee795a129105e581efa8051c69a2483bc177d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
