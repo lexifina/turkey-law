@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6654-256-52977",
+  "source_id": 37084,
+  "date": "2007-06-12",
+  "title": "Birden fazla meskende hisseye sahip olunması halinde indirimli (sıfır) bina vergisi oranı uygulamasından faydalanılması mümkün olmadığı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37084",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "162f3fccf570322a350033ef59cabe9f2a659cde2f7d8abffbe0a825e02efae8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
