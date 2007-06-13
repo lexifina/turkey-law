@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Ruhsatlar
+Arama ruhsatı
+MADDE 5 –(1) Arama ruhsatı müracaatları, talep sahibi tarafından 1/25000 ölçekli pafta adı ve koordinatları belirtilerek beş bin hektarı geçmeyecekşekilde arama projesi ile birlikte idareye yapılır. Müracaatlarda öncelik hakkı esastır. Aynı yer için aynı anda birden fazla talep olması halinde, projeler incelenerek en hızlı ve en fazla yatırımı teklif eden proje sahibinin talebi tercih edilir.
+(2) İdare, müracaat alanı hakkında bilgileri MİGEM’e bildirir. Arama için başvurulan saha, önceki diğer başvurular ile çakışıyorsa, MİGEM çakışan kısımları çıkararak kalan saha için "arama ruhsatı" verilebileceğini idareye bildirir. İdare, verilen ruhsatı koordinatları ile birlikte kayıtlara alınmak üzere MİGEM’e bildirir.
+(3) Arama ruhsat süresi üç yıldır. Faaliyetlerin olumlu gelişmesi ve ilave etütlere ihtiyaç duyulması halinde revize proje verildikten sonra idarece uygun bulunması halinde bir yıl uzatılır ve uzatma MİGEM’e bildirilir. Arama ruhsatı süre uzatım talebi, ruhsat süresi bitiminden önce idareye yapılır.
+(4) Arama ruhsatı döneminde idarenin bilgisi dahilinde, çevrenin kirletilmemesi kaydı ile sadece test amaçlı üretim yapılabilir.
+(5) Birden fazla ili içine alan arama ve işletme faaliyetlerinde başvurular alanın büyük olduğu il idaresine yapılır ve işlemler alanın küçük olduğu il idaresine bildirilir.
