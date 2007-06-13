@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-06-13",
+  "issue": "26551",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gider Vergileri Genel Tebliği (Seri No: 85)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070613-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070613.htm",
+  "index_sha256": "79e9b6daebc37ae8d4aa38ea5598beeeff7b96f1ec4fc3e1c7d93b31ee553c92",
+  "index_header": "13 Haziran 2007 ... 26551 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
