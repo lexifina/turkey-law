@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11372",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GİDER VERGİLERİ GENEL TEBLİĞİ (SERİ NO: 85)",
+  "number": "11372",
+  "path": "teblig/2007/11372",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11372&MevzuatTertip=5",
+  "source_sha256": "19e4bd351c4cb99b5bafe8c5a0c796a6c5e87ab8312bbb222448a7558173e267",
+  "source_bytes": 81101,
+  "published": "2007-06-13",
+  "gazette": "26551",
+  "in_force": "2007-06-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.06.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1904,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
