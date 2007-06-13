@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.56/5601-563-5",
+  "source_id": 36783,
+  "date": "2007-06-13",
+  "title": "Banka ve sigorta muameleleri vergisinden istisna olan sigorta poliçesi üzerinden sigorta şirketleri tarafından tali acente sıfatıyla verilecek komisyonların banka ve sigorta muameleleri vergisinden istisna olup olmadığı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36783",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "a43770fbf8311ad0a24c5d985893b69c216e11f789dbe2c022dbbde232ba4dc9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
