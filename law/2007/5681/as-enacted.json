@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5681",
+  "year": 2007,
+  "title": "Polis Vazife ve Salâhiyet Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-06-14",
+  "gazette_issue": "26552",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070614-1.htm",
+  "source_sha256": "348059447a6c9ef62eca618d86f24e50592386e1796bd6644a9e86248e7864f9",
+  "text_sha256": "450dcb57d55757ec8c2060658b1638cf4ecf01885ce0aeefc2b9fd983e7e0d49",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/06/14/26552-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070614-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
