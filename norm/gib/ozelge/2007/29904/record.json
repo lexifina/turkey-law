@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.57/5701-09/53653",
+  "source_id": 29904,
+  "date": "2007-06-14",
+  "title": "Yurtdışında bulunan şirketlerden alınan hizmetlerden Türkiye'de yararlanılması halinde bu hizmetlere ilişkin olarak katma değer vergisi yönünden yapılacak işlemler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29904",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "353faf4a16bbd047cb53dd89f2cdf095cf86bb1f395547f6a71af726da7b6335",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
