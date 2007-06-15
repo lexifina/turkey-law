@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-06-15",
+  "issue": "26553",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TÜZÜKLER",
+  "title": "2007/12213 Gemi Adamlarının Yeterliği ve Sayısı Hakkında Tüzüğün Yürürlükten Kaldırılmasına Dair Tüzük",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070615-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070615.htm",
+  "index_sha256": "b4cef35fc07031263459a1b97978d98c26ebf12e9592bc111f7f6fc3fcf65022",
+  "index_header": "15 Haziran 2007 ... 26553 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
