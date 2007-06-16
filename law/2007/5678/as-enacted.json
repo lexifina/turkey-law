@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5678",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-06-16",
+  "gazette_issue": "26554",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070616-1.htm",
+  "source_sha256": "c7aa0ca17b825ff648503a157f7f9a4d3050a02952afb0f867e0268171db7f0f",
+  "text_sha256": "a15e35a37fadf67c0297b95a24196d71cda57cc571251c203a324b4dec180945",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/06/16/26554-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070616-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
