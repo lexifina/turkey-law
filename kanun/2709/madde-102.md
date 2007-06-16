@@ -1,5 +1,7 @@
 B. Seçimi
-Madde 102 – Cumhurbaşkanı, Türkiye Büyük Millet Meclisi üye tamsayısının üçte iki çoğunluğu ile ve gizli oyla seçilir. Türkiye Büyük Millet Meclisi toplantı halinde değilse hemen toplantıya çağrılır.
-Cumhurbaşkanının görev süresinin dolmasından otuz gün önce veya Cumhurbaşkanlığı makamının boşalmasından on gün sonra Cumhurbaşkanlığı seçimine başlanır ve seçime başlama tarihinden itibaren otuz gün içinde sonuçlandırılır. Bu sürenin ilk on günü içinde adayların Meclis Başkanlık Divanına bildirilmesi ve kalan yirmi gün içinde de seçimin tamamlanması gerekir.
-En az üçer gün ara ile yapılacak oylamaların ilk ikisinde üye tamsayısının üçte iki çoğunluk oyu sağlanamazsa üçüncü oylamaya geçilir, üçüncü oylamada üye tamsayısının salt çoğunluğunu sağlayan aday Cumhurbaşkanı seçilmiş olur. Bu oylamada üye tamsayısının salt çoğunluğu sağlanamadığı takdirde üçüncü oylamada en çok oy almış bulunan iki aday arasında dördüncü oylama yapılır, bu oylamada da üye tamsayısının salt çoğunluğu ile Cumhurbaşkanı seçilemediği takdirde derhal Türkiye Büyük Millet Meclisi seçimleri yenilenir.
-Seçilen yeni Cumhurbaşkanı göreve başlayıncaya kadar görev süresi dolan Cumhurbaşkanının görevi devam eder.
+Madde 102 – (Değişik: 31/5/2007-5678/5 md.)
+Cumhurbaşkanı seçimi, Cumhurbaşkanının görev süresinin dolmasından önceki altmış gün içinde; makamın herhangi bir sebeple boşalması halinde ise boşalmayı takip eden altmış gün içinde tamamlanır.
+Genel oyla yapılacak seçimde, geçerli oyların salt çoğunluğunu alan aday Cumhurbaşkanı seçilmiş olur. İlk oylamada bu çoğunluk sağlanamazsa, bu oylamayı izleyen ikinci pazar günü ikinci oylama yapılır. Bu oylamaya, ilk oylamada en çok oy almış bulunan iki aday katılır ve geçerli oyların çoğunluğunu alan aday Cumhurbaşkanı seçilmiş olur.
+İkinci oylamaya katılmaya hak kazanan adaylardan birinin ölümü veya seçilme yeterliğini kaybetmesi halinde; ikinci oylama, boşalan adaylığın birinci oylamadaki sıraya göre ikame edilmesi suretiyle yapılır. İkinci oylamaya tek adayın kalması halinde, bu oylama referandum şeklinde yapılır. Aday, geçerli oyların çoğunluğunu aldığı takdirde Cumhurbaşkanı seçilmiş olur.
+Cumhurbaşkanı göreve başlayıncaya kadar görev süresi dolan Cumhurbaşkanının görevi devam eder.
+Cumhurbaşkanlığı seçimine ilişkin usûl ve esaslar kanunla düzenlenir.
