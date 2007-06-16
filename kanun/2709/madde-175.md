@@ -67,3 +67,5 @@ Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması ha
 Madde 2 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması halinde oylanır.
 10- 10/5/2007 tarihli ve 5659 sayılı Kanunun 2 nci Maddesi:
 Madde 2 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna sunulması halinde oylanır.
+11- 31/5/2007 tarihli ve 5678 sayılı Kanunun 7 nci Maddesi:
+Madde 7 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna sunulması halinde tümüyle oylanır.

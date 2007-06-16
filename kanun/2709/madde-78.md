@@ -8,3 +8,4 @@ Genel seçimlere bir yıl kala, ara seçimi yapılamaz.
 (1) 3/10/2001 tarihli ve 4709 sayılı Kanunun 26 ncı maddesiyle, bu maddenin birinci fıkrasına "Vatandaşlar" ibaresinden sonra gelmek üzere "ve karşılıklılık esası gözetilmek kaydıyla Türkiye'de ikamet eden yabancılar"; ikinci fıkrasına, "sonucu" ibaresinden sonra gelmek üzere "gecikmeksizin" ibaresi eklenmiş ve metne işlenmiştir.
 (2) 13/10/2006 tarihli ve 5551 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan "Otuz" ibaresi "Yirmibeş" olarak değiştirilmiş ve metne işlenmiştir.
 (3) 27/12/2002 tarihli ve 4777 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “ideolojik veya anarşik eylemlere” ibaresi “terör eylemlerine” şeklinde değiştirilmiş ve metne işlenmiştir.
+(4) 31/5/2007 tarihli ve 5678 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan "beş" ibaresi "dört" olarak değiştirilmiş ve metne işlenmiştir.

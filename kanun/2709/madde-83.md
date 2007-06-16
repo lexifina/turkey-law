@@ -3,4 +3,6 @@ Seçimden önce veya sonra bir suç işlediği ileri sürülen bir milletvekili,
 Türkiye Büyük Millet Meclisi üyesi hakkında, seçiminden önce veya sonra verilmiş bir ceza hükmünün yerine getirilmesi, üyelik sıfatının sona ermesine bırakılır; üyelik süresince zamanaşımı işlemez.
 Tekrar seçilen milletvekili hakkında soruşturma ve kovuşturma, Meclisin yeniden dokunulmazlığını kaldırmasına bağlıdır.
 Türkiye Büyük Millet Meclisindeki siyasi parti gruplarınca, yasama dokunulmazlığı ile ilgili görüşme yapılamaz ve karar alınamaz.
+––––––––––––––
+(1) 31/5/2007 tarihli ve 5678 sayılı Kanunun 2 nci maddesiyle, bu maddenin ikinci fıkrasında yer alan "seçim tutanaklarını" ibaresinden sonra gelmek üzere "ve Cumhurbaşkanlığı seçimi tutanaklarını" ibaresi; son fıkrasında yer alan "halkoyuna sunulması" ibaresinden sonra gelmek üzere ", Cumhurbaşkanının halk tarafından seçilmesi" ibaresi eklenmiş ve metne işlenmiştir.
 5. Milletvekilliğinin düşmesi (1)
