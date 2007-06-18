@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.60/6022-05-54647",
+  "source_id": 36419,
+  "date": "2007-06-18",
+  "title": "Murisin ticari servetinin inceleme sonucu beklenilmeksizin mükelleflerce tahakkuk edecek olan vergilere karşılık teminat gösterilmesi halinde intikale konu gayrimenkul malların devir ve ferağına izin verilmesi mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36419",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "db7cf17e5e5978e326820436c91953573a0f0855323e9c6ce37ccd8cd0b80f6b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
