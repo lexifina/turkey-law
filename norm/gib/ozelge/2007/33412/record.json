@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.53/5330-120-54853",
+  "source_id": 33412,
+  "date": "2007-06-18",
+  "title": "kıymeti düşen mallara ilişkin takdir edilen değer ile söz konusu malların maliyet bedeli arasındaki farka isabet eden yüklenilen katma değer vergisinin indirim konusu yapılıp yapılamayacağı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33412",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "39033d297549106ee8574769802d37a50e81dfbfc9182aae2aa73e442a5df1cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
