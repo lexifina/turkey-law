@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.60/6004-947-54534",
+  "source_id": 27172,
+  "date": "2007-06-18",
+  "title": "Veraset ve intikal vergisi beyannamesinde beyan edilen malların istisna haddinin altında kalması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/27172",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "3f3ee86209b99cd4483477cce02a99cfece40c254c2a2071d608325ac24209ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
