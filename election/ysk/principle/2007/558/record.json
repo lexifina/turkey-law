@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2007/558",
+  "list_number": "558",
+  "decision_date": "2007-06-18",
+  "title": "YSK ilke kararı 2007/558",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3296/2007-558-karar.htm",
+  "source_sha256": "56dc7c061514ed2907792527df4ea822805fdf0c39c75d551c209cb8a923a6c3",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2007-06-18",
+  "law_text_complete": false
+}
