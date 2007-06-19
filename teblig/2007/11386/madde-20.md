@@ -1,0 +1,2 @@
+Üçüncü ülkelerden ithalat
+MADDE 20- (1) 2000–2005 döneminde üçüncü ülkelerden yapılan ithalat incelendiğinde, önlemin yürürlüğe girdiği 2001 yılında ekonomik krize rağmen ithalatın arttığı görülmektedir. Bu artışta en önemli nedenin getirilen önlem sonrasında söz konusu mensucat tedariğinde Ç.H.C.’nin kısmen diğer ülkelerce ikame edilmesi olduğu değerlendirilmektedir. Diğer ülkelerden gerçekleştirilen ithalattaki artış eğilimi 2005 yılına kadar sürmüş, 2005 yılında ise bir önceki yıla göre azalma gözlenmiştir.

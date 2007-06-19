@@ -1,0 +1,3 @@
+Diğer Unsurlar
+MADDE 21- (1) Yerli üretim dalının önleme rağmen artarak devam eden zararında diğer unsurların etkileri de değerlendirilmiştir. Bu bağlamda, yerli üretim dalının karlılığında ve nakit akışında görülen olumsuzlukta yurt içinde bozulan rekabet şartları ile sektördeki yeniden yapılanmanın da etkili olduğu anlaşılmaktadır.
+Bununla beraber, mevcut dampinge karşı önlemin ortadan kalkması halinde dampingin ve zararın devamının veya yeniden meydana gelmesinin muhtemel olduğu yönündeki belirlemeler geçerliliğini korumakta, önlemin yürürlükten kalkmasının yerli üretim dalının ekonomik göstergelerinde hali hazırda görülen bozulmayı hızlandırmasının kuvvetle muhtemel olduğu değerlendirilmektedir.

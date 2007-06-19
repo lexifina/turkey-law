@@ -1,0 +1,6 @@
+İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (2007/10)
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Mevcut önlem ve soruşturma
+MADDE 1- (1) Çin Halk Cumhuriyeti (Ç.H.C.) menşeli “sentetik veya suni devamsız liflerden dokunmuş mensucat” için 15/2/2001 tarih ve 24319 sayılı Resmî Gazete'de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2001/2 sayılı Tebliğ ile dampinge karşı önlem yürürlüğe konulmuştur. Uygulanmakta olan önlemin yürürlükten kalkma süresinin bitiminden önce, 23/09/2005 tarih ve 25945 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2005/22 sayılı Tebliğ ile nihai gözden geçirme soruşturması açılması talebinde bulunulabileceği ilan edilmiştir.
+(2) Yerli üreticiler BOSSA Ticaret ve Sanayi İşletmeleri T.A.Ş., Güney Mensucat Sanayi ve Ticaret A.Ş., Berdan Tekstil Sanayi ve Ticaret A.Ş., Özbucak Sanayi ve Ticaret A.Ş. ve Mensa Mensucat Sanayi ve Ticaret A.Ş. tarafından dampinge karşı önlemin sona ermesinin damping ve zararın devamına veya yeniden tekrarına yol açacağı iddiasıyla usulüne uygun olarak yapılan başvuru üzerine, 10/2/2006 tarih ve 26076 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2006/3 sayılı Tebliğ ile başlatılan nihai gözden geçirme soruşturması, Dış Ticaret Müsteşarlığı İthalat Genel Müdürlüğü tarafından yürütülmüş ve tamamlanmıştır.
