@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.55/5509-319-54938",
+  "source_id": 30771,
+  "date": "2007-06-19",
+  "title": "Yapım işleri ile birlikte ifa edilen mimarlık ve mühendislik, etüt ve proje, harita ve kadastro, imar uygulama, her ölçekte imar planı hizmetleri ve benzeri hizmetlere bu bölüm kapsamında tevkifat uygulanacak, ancak bu hizmetlerin yapım işlerinden ayrı ol",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30771",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "e3cbf62c192c46a40a37fcde442cb9490d070d388cae5cc511534a1d3a13a919",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
