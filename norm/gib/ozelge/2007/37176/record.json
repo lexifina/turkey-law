@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6685-5175-55393",
+  "source_id": 37176,
+  "date": "2007-06-20",
+  "title": "Parselasyon planı ile sosyal kulüp ve yönetim merkezi ve ısı merkezi olarak ayrılan ve yapılaşma hakkı bulunan taşınmaz için kısıtlı vergi uygulanması mümkün olmadığı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37176",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "1717f21c98951be9a3c79f9fcc53d17e8885fc9189f5f835069665bfe483dbc0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
