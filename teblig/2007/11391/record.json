@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.11391",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GEMİLERDE BULUNAN GMDSS (KÜRESEL DENİZ TEHLİKE VE GÜVENLİK SİSTEMİ) TEÇHİZATINA KIYIDA BAKIM HİZMETİ VERECEK FİRMALARIN UYMAKLA YÜKÜMLÜ OLDUKLARI HUSUSLARA İLİŞKİN TEBLİĞ",
+  "number": "11391",
+  "issuer": "Denizcilik Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2007/11391",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11391&MevzuatTertip=5",
+  "source_sha256": "14fc7ad29646917aecd6ef7095db86328838b045a0f3027db793dadc4d074c05",
+  "source_bytes": 83837,
+  "published": "2007-06-20",
+  "gazette": "26558",
+  "in_force": "2007-06-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.06.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3409,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11391-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
