@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.61/6158-60/58816",
+  "source_id": 36475,
+  "date": "2007-06-21",
+  "title": "Genel bütçeye dahil daireler, katma bütçeli idareler, il özel idareleri ve belediyelerle köy tüzel kişiliklerince iktisap edilerek bu daire ve idareler adına kayıt ve tescil edilen taşıtlar (Bu idarelere bağlı olup ayrı tüzel kişiliği olan işletmeler ile",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36475",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "46da2bfec694f5eb270295067435cd5625fd40a1b4acfe7284cc9509ffa2a2a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
