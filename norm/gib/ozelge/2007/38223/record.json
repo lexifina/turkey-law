@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.61/6160-1425/79443",
+  "source_id": 38223,
+  "date": "2007-06-21",
+  "title": "05.07.2003 tarihinden önce çalınan fakat bu tarihten itibaren de trafikte tescil kayıtları devam eden taşıtlara ait tescil kayıtlarının, İçişleri Bakanlığı Emniyet Genel Müdürlüğü'nün söz konusu yazısı uyarınca, ilgili trafik tescil şube veya büroları tar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/38223",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "8fdc901a52325c8a2d3d47ae364dfc2409d03b728b94601a582a95ad4c41532b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
