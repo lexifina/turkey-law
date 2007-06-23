@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-06-23",
+  "issue": "26561",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tütün Üretimi, Üretici Tütünlerinin Pazarlanması, İç ve Dış Ticareti, Denetimi ve Tütün Eksperliği ile İlgili Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070623-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070623.htm",
+  "index_sha256": "f89f9a937c6303f953429d86a01ff73c3cce6c6e6d65bb4c8da062505dc27eb4",
+  "index_header": "23 Haziran 2007 ... 26561 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
