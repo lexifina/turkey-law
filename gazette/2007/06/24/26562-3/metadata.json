@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-06-24",
+  "issue": "26562",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Erzincan Üniversitesi Yaz Okulu Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070624-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/06/20070624.htm",
+  "index_sha256": "0192e413fac38c6ecb8ac59f1fe90b24229ec3e9fffcdc177f7c1b8c8c3d88d7",
+  "index_header": "24 Haziran 2007 ... 26562 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
