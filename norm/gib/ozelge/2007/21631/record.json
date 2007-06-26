@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.46/4600-125750",
+  "source_id": 21631,
+  "date": "2007-06-26",
+  "title": "Sakatlık indiriminden yararlanacak hizmet erbabına ilişkin.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21631",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "71a9492e10ecda1ce5688eedecc3c58f476ed22399327b15cde7a29729dd88c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
