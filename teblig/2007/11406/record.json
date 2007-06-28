@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11406",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 373)",
+  "number": "11406",
+  "path": "teblig/2007/11406",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11406&MevzuatTertip=5",
+  "source_sha256": "a3fe379cc65a34ee904266994368229525292186e37248a57c8fc29a5a4e93ca",
+  "source_bytes": 8121,
+  "published": "2007-06-28",
+  "gazette": "26566",
+  "in_force": "2007-06-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.06.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 193,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
