@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11407",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 374)",
+  "number": "11407",
+  "path": "teblig/2007/11407",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11407&MevzuatTertip=5",
+  "source_sha256": "b0224f39771d03c90bd4e50efe7d2c8f8a3164bacffaf3d354c31e3c00993731",
+  "source_bytes": 13815,
+  "published": "2007-06-28",
+  "gazette": "26566",
+  "in_force": "2007-06-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.06.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 433,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
