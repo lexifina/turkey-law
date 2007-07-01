@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11412",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5604 SAYILI MALİ TATİL İHDAS EDİLMESİ HAKKINDA KANUNUN 2 NCİ MADDESİNİN UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "11412",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "path": "teblig/2007/11412",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11412&MevzuatTertip=5",
+  "source_sha256": "593e2e680fc5d5f236ecf4a8c2aa7eb69d754cbf81e1dc565fc2ac3c5c03ba27",
+  "source_bytes": 50897,
+  "published": "2007-06-30",
+  "gazette": "26568",
+  "in_force": "2007-07-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/7/2007 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/7/2007 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3595,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
