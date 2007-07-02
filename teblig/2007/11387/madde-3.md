@@ -1,0 +1,4 @@
+İthal lisansına ilişkin esaslar
+MADDE 3 – (1) Tarife kontenjanı kapsamında yapılacak ithalat için, Dış Ticaret Müsteşarlığı’nca (İthalat Genel Müdürlüğü) ithal lisansı düzenlenir. İthal lisansının, gümrük yükümlülüğünün doğduğu tarihte, ilgili gümrük idaresine ibrazı gerekmektedir.
+(2) Düzenlenecek ithal lisansları 31/12/2007 (31/12/2007 dahil) tarihine kadar geçerlidir. İthal lisansı üzerinde, geçerlilik tarihi içerisinde, ilgili firmaların talep etmesi halinde, Müsteşarlıkça uygun görülecek değişiklikler yapılabilir. Ancak, miktarın artırılmasına ve lisans süresinin uzatılmasına yönelik talepler değerlendirmeye alınmaz.
+(3) İthal lisansının geçerlilik süresinin bitmesini müteakip, 10 (on) gün içerisinde firmalara verilen nüshanın aslı Dış Ticaret Müsteşarlığı’na (İthalat Genel Müdürlüğü) iade edilir.
