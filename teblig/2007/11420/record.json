@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.11420",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2008-2010 DÖNEMİ BÜTÇE ÇAĞRISI",
+  "number": "11420",
+  "path": "teblig/2007/11420",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11420&MevzuatTertip=5",
+  "source_sha256": "7ae64068ed1f76d6c907584b5a2c3b0509dba389f4c9ceb3e805aaf349cd2b5e",
+  "source_bytes": 17974,
+  "published": "2007-07-03",
+  "gazette": "26571",
+  "in_force": "2007-07-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.07.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 719,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11420-rehber%20aciklamalar.doc",
+    "9.5.11420-kurumsal.xls",
+    "9.5.11420-fonksiyonel.xls",
+    "9.5.11420-finansman.xls",
+    "9.5.11420-ekonomik-gider.xls",
+    "9.5.11420-ekonomik-gelir.xls",
+    "9.5.11420-finansmaninek.xls",
+    "9.5.11420-2008-standartlar.xls",
+    "9.5.11420-ekli%20formlar.xls",
+    "9.5.11420-ekli%20form%20aciklama%202008.doc",
+    "9.5.11420-ekli%20formlar1-29.xls",
+    "9.5.11420-ekorehber.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
