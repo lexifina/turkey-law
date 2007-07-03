@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-07-03",
+  "issue": "26571",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Orta Vadeli Mali Plan (2008-2010)’un Kabulüne Dair 15/6/2007 Tarihli ve 2007/33 Sayılı Yüksek Planlama Kurulu Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070703-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070703.htm",
+  "index_sha256": "edd03dd9ef04832053f07bf3b6f45f07d4c0bf4ebae559d601e571b6bad35c0b",
+  "index_header": "3 Temmuz 2007 ... 26571 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
