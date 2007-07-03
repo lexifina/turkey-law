@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-27/2007-3/e-Beyanname-5",
+  "source_id": 814,
+  "date": "2007-07-03",
+  "title": "Banka ve Sigorta Muameleleri Vergisi Mükelleflerinde e-Beyanname Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/814",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "182fd7eae08f44814dac0372395d66a26a9b9dda2074201802bb358c67082540",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
