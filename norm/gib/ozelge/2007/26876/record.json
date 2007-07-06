@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.60/6000-2361-60104",
+  "source_id": 26876,
+  "date": "2007-07-06",
+  "title": "Vergi Denetmenlerince düzenlenen inceleme raporuna göre tarhiyat yapılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/26876",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4bbdc5d7a73ac64c9afdeeeef625619c1dc43cecc079559a2e39824e3ea0bdcc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
