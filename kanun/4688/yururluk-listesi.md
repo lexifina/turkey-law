@@ -3,3 +3,4 @@ MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜ
 GÖSTERİR LİSTE
 Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4688 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 5198 | 14, 16, 18, 25, 30, 35, GEÇİCİ MADDE 9, İŞLENEMEYEN HÜKÜMLER | 6/7/2007
+5538 | 25, GEÇİCİ MADDE 10 | 12/7/2006
