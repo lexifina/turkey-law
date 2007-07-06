@@ -1,6 +1,6 @@
 Tanımlar
 MADDE 3 - Bu Kanunun uygulanmasında;
-a) Kamu Görevlisi : Kamu kurum ve kuruluşlarının işçi statüsü dışındaki bir kadro veya pozisyonunda daimî suretle çalışan, adaylık veya deneme süresini tamamlamış kamu görevlilerini,
+a) Kamu Görevlisi : Kamu kurum ve kuruluşlarının işçi statüsü dışındaki bir kadro veya sözleşmeli personel pozisyonunda çalışan, adaylık veya deneme süresini tamamlamış kamu görevlilerini, (1)
 b) Kamu İşvereni : Kamu görevlilerinin çalıştığı tüzel kişiliği olan ya da olmayan kamu kurum ve kuruluşlarını,
 c) Kamu İşveren Vekili : Kamu kurum ve kuruluşlarını temsile ve bütününü sevk ve idareye yetkili olanlar ile bunların yardımcılarını,
 d) İşyeri : Kamu hizmetinin yürütüldüğü yerleri,
@@ -13,3 +13,5 @@ j) Mutabakat Metni: Toplu görüşme sonucunda varılan anlaşmayı gösteren be
 k) Yüksek Hakem Kurulu Başkanı: 2822 sayılı Toplu İş Sözleşmesi, Grev ve Lokavt Kanununun 53 üncü maddesine göre teşekkül etmiş bulunan Kurulun Başkanını,
 İfade eder.
 Kamu işveren vekilleri bu Kanun bakımından kamu işvereni, hizmetin niteliği ve yürütülmesi bakımından bağlı tüm birimler ise asıl işyerinden sayılır. Kamu işvereninin birden fazla işyeri varsa, bu Kanun bakımından bu işyerlerinin tamamı işyerinden sayılır.
+––––––––––––––––––
+(1) 4/4/2007 tarihli ve 5620 sayılı Kanunun 4 üncü maddesiyle, bu bentte yer alan "pozisyonunda daimi suretle" ibaresi "sözleşmeli personel pozisyonunda" şeklinde değiştirilmiştir.
