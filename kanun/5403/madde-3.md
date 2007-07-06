@@ -23,4 +23,5 @@ p) Toplulaştırma proje sahası: Toplulaştırma projesinin uygulanacağı sın
 r) Arazi bozulması: Arazinin doğal veya yapay etkiler sonucu özelliklerinin değişikliğe uğraması ile ekonomik ve ekolojik işlevlerinin azalması veya yok olmasını,
 s) Toprak veri tabanı: Arazi ve toprak kaynaklarının nitelikleri ile birlikte belirlenerek kayıt altına alındığı veri tabanını,
 ş) Tahsis: Bu Kanun kapsamında değerlendirilmek üzere, Hazinenin özel mülkiyetinde veya Devletin hüküm ve tasarrufu altında bulunan taşınmazlardan, vasfı ve hâlihazır kullanım şekline bakılmaksızın toplulaştırma kapsamında değerlendirilebilecek yerlerin, Maliye Bakanlığı tarafından Bakanlığa tahsis edilmesini,
+t) (Ek: 31/1/2007-5578/1 md.) Özel Arazi Toplulaştırması: Köy tüzel kişiliği, belediyeler, kooperatifler, birlikler gibi tüzel kişilikler veya kamu kuruluşlarının, hizmet konuları ile ilgili arazi teminini de kapsayacak şekilde yapacakları arazi toplulaştırmasını,
 İfade eder.
