@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-07-08",
+  "issue": "26576",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2007/12329 Türkiye Cumhuriyeti ile Karadeniz Ekonomik İşbirliği Örgütü Arasında Merkez Anlaşmasına Yeni Hükümler Derceden Anlaşması’nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070708-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070708.htm",
+  "index_sha256": "f355d2f9473e7a250540eab47585b59a47db59de401fa18252bccb58c7b808ab",
+  "index_header": "8 Temmuz 2007 ... 26576 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
