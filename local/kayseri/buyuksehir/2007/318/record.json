@@ -1,0 +1,24 @@
+{
+  "number": "318",
+  "number_as_published": "Karar No : 318",
+  "year": 2007,
+  "title": "Erkilet Belediyesine ait, 62 pf, 827 ada, 1 pr. Nolu taşınmazda, 1/5000 ölç.32 L NİP.",
+  "decision_date": "2007-07-09",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/09-temmuz-2007-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "dea1a97e5e6258b4bd995fe24486a7eeb428d755c82487201cec5ae66e4b7ff0",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2007-07-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.07.2007 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "09 Temmuz 2007 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=20",
+  "subject_published": true
+}
