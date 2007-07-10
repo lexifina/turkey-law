@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-07-10",
+  "issue": "26578",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu İnsan Kaynakları Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070710-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070710.htm",
+  "index_sha256": "c505108326558bdeeaf114437e440a4b8e212f2081e29f57aeed6ee81e4c4627",
+  "index_header": "1 0 Temmuz 2007 ... 26578 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
