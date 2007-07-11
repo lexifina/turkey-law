@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11439",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 10)",
+  "number": "11439",
+  "issuer": "Gümrük Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2007/11439",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11439&MevzuatTertip=5",
+  "source_sha256": "b81fdf508225e325a593c999d7bb1d6f9bb79331202a079d116dd8bf06d86cde",
+  "source_bytes": 42798,
+  "published": "2007-07-11",
+  "gazette": "26579",
+  "in_force": "2007-07-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.07.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1094,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
