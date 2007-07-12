@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11441",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5553 SAYILI TOHUMCULUK KANUNUNA TABİ TOHUMLUK ÇEŞİTLERİ HAKKINDA TEBLİĞ (TEBLİĞNO: 2007/33)",
+  "number": "11441",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2007/11441",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11441&MevzuatTertip=5",
+  "source_sha256": "c5c28900a4523e7fb339d00af1f7ef308f57e57d9f81c452f780de76e3930bee",
+  "source_bytes": 415136,
+  "published": "2007-07-12",
+  "gazette": "26580",
+  "in_force": "2007-07-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.07.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5458,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
