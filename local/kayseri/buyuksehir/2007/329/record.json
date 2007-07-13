@@ -1,0 +1,24 @@
+{
+  "number": "329",
+  "number_as_published": "Karar No : 329",
+  "year": 2007,
+  "title": "B.Şehir Bel. Meclisinin 14.05.2007 tarih ve 203 sayılı karına istinaden onanan 1-5000 ölç. 30M Nazım İmar Planına askı ilanı süresinde yapılan itiraz talebi.",
+  "decision_date": "2007-07-13",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/13-temmuz-2007-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "cf0af7f3230bd1a0b14fa5c31cc69166e3b948bb0864df4a28beac097c171224",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2007-07-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.07.2007 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "13 Temmuz 2007 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=20",
+  "subject_published": true
+}
