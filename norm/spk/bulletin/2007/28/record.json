@@ -1,0 +1,54 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2007/28",
+  "date": "2007-07-13",
+  "title": "SPK Haftalık Bülteni 2007/28",
+  "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_28.pdf",
+  "source_sha256": "6245d867a413944cd080819f9065860a96d81289d8fefbd8b84e9ed7302b0b06",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. DUYURULAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 01.01.2007 – 13.07.2007 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_28.pdf"
+    },
+    {
+      "heading": "B. 09.07.2007 – 13.07.2007 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_28.pdf"
+    },
+    {
+      "heading": "C. 09.07.2007 – 13.07.2007 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_28.pdf"
+    },
+    {
+      "heading": "D. DUYURULAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_28.pdf"
+    },
+    {
+      "heading": "E. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_28.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
