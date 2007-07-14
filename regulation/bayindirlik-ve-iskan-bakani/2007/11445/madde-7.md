@@ -1,0 +1,2 @@
+Deprem afetinden korunma
+MADDE 7 – (1) 7269 sayılı Kanunun 2 nci maddesine göre tesbit ve ilân olunan deprem bölgelerinde yeniden yapılacak, değiştirilecek, büyütülecek resmî ve özel bütün binaların ve bina türü yapıların tamamının veya bölümlerinin depreme dayanıklı tasarımı ve yapımı ile mevcut binaların deprem öncesi veya sonrasında performanslarının değerlendirilmesi ve güçlendirilmesi hakkında 6/3/2007 tarihli ve 26454 sayılı Resmî Gazete’de yayımlanan Deprem Bölgelerinde Yapılacak Binalar Hakkında Yönetmelik hükümleri uygulanır.

@@ -1,0 +1,3 @@
+Su baskını afetinden korunma
+MADDE 5 – (1) Su baskınına uğramış ve afet bölgesi kararnamesi kapsamına alınmış ve 7269 sayılı Kanunun 14 üncü maddesine göre yapı ve ikamet için yasak bölge ilân edilen yerlerin dışında kalan yerlerde, ikinci fıkrada belirtilen şartlara uyulmak kaydı ile bina yapılabilir ve mevcut binalar onarılabilir.
+(2) Temel zemininin su altında kalma ihtimali var ise, gerekli teknik tedbirler alınır. Değiştirilecek, büyütülecek, onarılacak veya güçlendirilecek binalarda; yeniden yapılacak veya değiştirilecek her bir kısmın, binanın su baskınına dayanıklılığını arttıracak biçimde olması gerekir.
