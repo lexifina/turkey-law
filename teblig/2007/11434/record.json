@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11434",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İFLAS İDARESİ ÜCRETİ, YAZI VE TEBLİĞ MASRAFI TARİFESİ HAKKINDA TEBLİĞ",
+  "number": "11434",
+  "issuer": "Adalet Bakanı",
+  "path": "teblig/2007/11434",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11434&MevzuatTertip=5",
+  "source_sha256": "42e59e69aae52de43b5671a96feedf2ff1ea84c7f06dc251b388fc46d02ef6c2",
+  "source_bytes": 15288,
+  "published": "2007-07-11",
+  "gazette": "26579",
+  "in_force": "2007-07-15",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 15/7/2007 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 15/7/2007 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 556,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
