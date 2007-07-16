@@ -1,0 +1,31 @@
+{
+  "number": "23",
+  "date": "2007-07-16",
+  "source_id": 1665,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1665/2007-23.pdf",
+  "source_sha256": "40d585d8b49a69be45bff83f78037585ba3144fdefd58171ee446ff7da276d16",
+  "history": "as-enacted",
+  "words": 600,
+  "in_force_basis": "Official attached YSK decision, PDF p. 3, operative closing sentence: 16/07/2007 tarihinde oybirliği ile karar verildi",
+  "catalogue_date": "2007-07-16",
+  "source_images": 1,
+  "decorative_images": 1,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "circular_issue_date": "2007-07-16",
+  "attached_decision_numbers": [
+    "668"
+  ],
+  "adoption_dates": [
+    {
+      "page": 3,
+      "date": "2007-07-16",
+      "quote": "16/07/2007 tarihinde oybirliği ile karar verildi"
+    }
+  ],
+  "approval_dates": [],
+  "explicit_effective_dates": [],
+  "date_kind": "decision-adoption",
+  "in_force_date": "2007-07-16"
+}
