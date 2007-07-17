@@ -1,0 +1,2 @@
+Hukuki dayanak
+MADDE 3 – (1) Bu Tebliğ, 6/6/2003 tarihli ve 25130 sayılı Resmî Gazete'de yayımlanan "Alkol ve Alkollü İçkilerin İç ve Dış Ticaretine İlişkin Usul ve Esaslar Hakkında Yönetmelik" ile 26/9/2002 tarihli ve 24888 sayılı Resmî Gazete’de yayımlanan "Alkol ve Alkollü İçki Tesislerinin Haiz Olmaları Gereken Teknik Şartlar, Kurulmaları İşletilmeleri ve Denetlenmelerine İlişkin Usul ve Esaslar Hakkında Yönetmelik" hükümlerine dayanılarak hazırlanmıştır.

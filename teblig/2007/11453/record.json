@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11453",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "RAKIYA ÖZGÜ TANIMLAMALARIN VE ÖZELLİKLERİN ETİKETLENMESİ HAKKINDA TEBLİĞ",
+  "number": "11453",
+  "issuer": "Tütün, Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumu Başkanı",
+  "path": "teblig/2007/11453",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11453&MevzuatTertip=5",
+  "source_sha256": "0e353368f7e350650abc6e3b189c7d2faed2544e0fca7a7c40c4b5f6cf6dbbc9",
+  "source_bytes": 14260,
+  "published": "2007-07-17",
+  "gazette": "26585",
+  "in_force": "2007-07-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.07.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 616,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
