@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-07-17",
+  "issue": "26585",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2821 Sayılı Sendikalar Kanunu Gereğince; İşkollarındaki İşçi Sayıları ve Sendikaların Üye Sayılarına İlişkin 2007 Temmuz Ayı İstatistikleri Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070717-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070717.htm",
+  "index_sha256": "d62c8344964750bf2010ea2bca8bd4a6969647e2414ce7bdfcde4f2c8afc6fdb",
+  "index_header": "1 7 Temmuz 2007 ... 26585 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
