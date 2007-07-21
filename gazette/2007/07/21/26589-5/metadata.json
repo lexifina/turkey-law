@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-07-21",
+  "issue": "26589",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2007/12363 Tarım Reformu Uygulama Alanı İlan Edilen Bazı Yerlerde Toprak Normunun Belirlenmesine İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070721-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070721.htm",
+  "index_sha256": "649b68c9823f14fd2b4fc21d98213265114175c713e52f9c0d6110d65e27fd7f",
+  "index_header": "21 Temmuz 2007 ... 26589 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
