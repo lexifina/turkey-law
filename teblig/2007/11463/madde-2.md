@@ -1,0 +1,2 @@
+Kapsam ve dayanak
+MADDE 2 – (1) Bu Tebliğ 26/12/2004 tarihli ve 25682 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Gemilerden Atık Alınması ve Atıkların Kontrolü Yönetmeliği Ek-2’sinde yer alan "Atık Alma Gemilerine İlişkin İdari ve Teknik Düzenleme"nin 1 inci maddesinde belirtilen atık alma gemilerinin rengi ve 15 inci maddesinde belirtilen atık alma gemilerinde görev yapacak personelin iş kıyafetleri ve kimlik kartları ile ilgili Bakanlıkça belirlenen esasları kapsar.

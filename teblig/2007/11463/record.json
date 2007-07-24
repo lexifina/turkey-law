@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.11463",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ATIK ALMA GEMİLERİ İÇİN UYGULANACAK İDARİ VE TEKNİK DÜZENLEME HAKKINDA TEBLİĞ (TEBLİĞ NO: 2007/4)",
+  "number": "11463",
+  "issuer": "Çevre ve Orman Bakanı ile Ulaştırma Bakanı",
+  "path": "teblig/2007/11463",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11463&MevzuatTertip=5",
+  "source_sha256": "be49faf75147b95cf501727d34e8c77e8a74ca3606601702346006158ec57e49",
+  "source_bytes": 12118,
+  "published": "2007-07-24",
+  "gazette": "26592",
+  "in_force": "2007-07-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.07.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 439,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11463-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
