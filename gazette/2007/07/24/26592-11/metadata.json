@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-07-24",
+  "issue": "26592",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Nevşehir Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070724-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070724.htm",
+  "index_sha256": "eff5bc1c42a8ed6c97b126212b7f6bdaf101e893921770ca8ca289f3402732b5",
+  "index_header": "24 Temmuz 2007 ... 26592 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
