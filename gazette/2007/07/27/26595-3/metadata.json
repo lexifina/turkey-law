@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-07-27",
+  "issue": "26595",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Milli Emlak Genel Tebliği (Sıra No: 312)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070727-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070727.htm",
+  "index_sha256": "95e6721b4b134943e7278d02d5b3422f6f2043668fb6a193f7249dd9c9e93785",
+  "index_header": "27 Temmuz 2007 ... 26595 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
