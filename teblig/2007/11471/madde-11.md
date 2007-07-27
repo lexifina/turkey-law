@@ -1,0 +1,2 @@
+Rapor verme
+MADDE 11 – (1) Offset taahhütlerinin offset anlaşmasında ve işbu Tebliğde belirlenen şartlar uyarınca yerine getirilip getirilmediğinin izlenebilmesini teminen, offset anlaşmasına taraf olan kamu kuruluşu, ihaleyi kazanan firma/kuruluştan temin edeceği faaliyet raporlarını, offset anlaşmasının yürürlüğe girmesini takip eden altı aylık dönemler halinde Müsteşarlığa bildirmekle yükümlüdür.

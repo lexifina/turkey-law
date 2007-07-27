@@ -1,0 +1,3 @@
+Teminat ve cezai müeyyideler
+MADDE 9 – (1) İhaleyi kazanan firma/kuruluş tarafından, offset taahhütlerinin yerine getirilmemesi durumunda uygulanacak cezai müeyyidelere eşdeğer teminat verilir. Offset anlaşması uyarınca gerçekleştirilecek faaliyetlerin takvimine uygun olarak, teminat değerinin bir kısmı offset anlaşması yürürlüğe girdikten sonra verilebilir.
+(2) İhaleyi kazanan firma/kuruluş tarafından offset taahhütlerinin yerine getirilmemesi durumunda, anılan firma/kuruluşa uygulanacak para cezası söz konusu firma/kuruluş tarafından ihaleyi açan kamu kuruluşuna nakden ödenir. Ödemenin zamanında yapılmaması durumunda, taahhütlerine karşılık olarak verdiği teminattan söz konusu para cezası tahsil edilir.
