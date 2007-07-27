@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 13 - Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1999-10-26",
+      "26.10.1999",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2004-02-12",
+      "RG-12/02/2004-25371",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2007-07-27",
+      "RG-27/07/2007-26595",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-27/07/2007-26595",
+  "first_law": null,
+  "gazette": "23858",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2007-07-27",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/1999/7891",
+  "published": "1999-10-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7891&MevzuatTertip=5",
+  "source_bytes": 14346,
+  "source_id": "8.5.7891",
+  "source_sha256": "1feb3dbcdb4c5e450d9546d27b8ef2a2b37ea49673b402c6b512792a03726920",
+  "text_status": "current-consolidated",
+  "title": "GAZİANTEP ÜNİVERSİTESİ SÜREKLİ EĞİTİM MERKEZİ\r\n(GÜSEM) YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 419
+}

@@ -1,0 +1,3 @@
+Madde 6 - Yönetim Kurulu, Yönetim Kurulu Başkanının çağrısı üzerine her ay, işin gerekli kıldığı durumlarda daha sık toplanır ve merkezin faaliyetlerini gözden geçirerek ilgili konularda karar alır. Yönetim Kurulu, üyelerin salt çoğunluğu ile toplanır ve karar alır.
+Yönetim Kurulu, GÜSEM Müdürünün her faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit eder, sunulan raporu değerlendirir ve bir sonraki döneme ait çalışma programını düzenler.
+Eğitim programları sonunda başarı belgesi, sertifika ve benzeri belgelerin verilmesi işlemlerini yürütür. GÜSEM Müdürü ile birlikte GÜSEM bütçesini hazırlar.
