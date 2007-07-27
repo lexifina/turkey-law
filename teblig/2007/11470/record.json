@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11470",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "OFFSET UYGULAMALARINA İLİŞKİN TEBLİĞ (İHRACAT: 2007/6)",
+  "number": "11470",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2007/11470",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11470&MevzuatTertip=5",
+  "source_sha256": "5b7ead662fde250108e2343a60d8964dc45f67ba7eff9987658af7d6297fe3df",
+  "source_bytes": 27334,
+  "published": "2007-07-27",
+  "gazette": "26595",
+  "in_force": "2007-07-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.07.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1217,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
