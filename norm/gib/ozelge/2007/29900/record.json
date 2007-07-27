@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.55/5501-3046-67355",
+  "source_id": 29900,
+  "date": "2007-07-27",
+  "title": "İcra Müdürlüğünce yabancı bayraklı yolcu gemisinin ihale yolu ile satışı, alıcının 48 Seri No. lu Tebliğin (A-3) bölümüne dayanılarak bağlı olduğu vergi dairesine başvurmak suretiyle alacağı istisna belgesini icra dairesine ibraz etmesi halinde katma değe",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29900",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "abadab5fbb418ab8a87f1dcc1c56ea96140d62e6edc08b4ddcf13142f0404473",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
