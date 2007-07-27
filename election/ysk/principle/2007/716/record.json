@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2007/716",
+  "list_number": "716",
+  "decision_date": "2007-07-27",
+  "title": "YSK ilke kararı 2007/716",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3268/2007-716-karar.htm",
+  "source_sha256": "2ec78e34f2d7b76b85ce6d10e5f09df3844ba4b7245dd3e2d91985cb47b8e058",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2007-07-27",
+  "law_text_complete": false
+}
