@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-07-28",
+  "issue": "26596",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Dış Ticarette Standardizasyon Tebliği (No: 2007/43)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070728-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/07/20070728.htm",
+  "index_sha256": "d3eaf1505576bd5f51247aebd5efc885dad7fbba77f9b626bec1f4b7d2d39ea7",
+  "index_header": "28 Temmuz 2007 ... 26596 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
