@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6624-186/68716",
+  "source_id": 37239,
+  "date": "2007-07-30",
+  "title": "İnternet kafeleri ve internet salonlarına uygulanacak eğlence vergisi hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37239",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "282aa1a3864fe48ac6bd19d2f19a8e2b98de263b12843cc36b1a5b4e843beb8b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
