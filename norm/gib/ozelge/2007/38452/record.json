@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68/6802-7",
+  "source_id": 38452,
+  "date": "2007-07-30",
+  "title": "Peşin ödeme şekline göre yapılan ithalat işlemlerinde kaynak kullanımı destekleme fonu uygulaması hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38452",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "d7bfd2d4b6cd4f529dc8dc7e474b9ab0a4d8ef756a8e8c3cda399ea45c5fa02f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
