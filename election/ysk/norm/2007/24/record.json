@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2007/24",
+  "list_number": "740, 741, 750",
+  "genelge_number": "24",
+  "decision_date": "2007-07-31",
+  "title": "21 Ekim 2007 Pazar Günü Yapılacak Olan Anayasa Değişikliğinin Halkoyuna Sunulmasına İlişkin Takvim, Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir Örnek: 140/I Sayılı Genelge, 21 Ekim 2007 Pazar Günü Yapılacak Halkoylamasında Uygulanacak Yasaklar",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1667/2007-24.pdf",
+  "source_sha256": "02092ffc3a49bf12efc1f664483a31061d4b428aa93eb6bd85f36d2b66c2a37d",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 22,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2007-07-31",
+  "law_text_complete": false
+}
