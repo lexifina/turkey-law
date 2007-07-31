@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2007/750",
+  "list_number": "750",
+  "decision_date": "2007-07-31",
+  "title": "21 Ekim 2007 Pazar Günü Yapılacak Halkoylamasında Uygulanacak Yasaklar",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/3086/2007-750.pdf",
+  "source_sha256": "c14d5b26cdb8a49c0f6f96d3b9993785831ae9dc2cf2bb373a32d5257f77acb7",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2007-07-31",
+  "law_text_complete": false
+}
