@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2007/752",
+  "list_number": "752",
+  "genelge_number": "Örnek: 145/I",
+  "decision_date": "2007-08-01",
+  "title": "21 Ekim 2007 Pazar Günü Yapılacak Anayasa Değişikliğinin Halkoyuna Sunulmasında Gümrük Kapılarında Yapılacak Oy Verme İşlemleri İle İlçe Seçim ve Sandık Kurullarının Görev ve Yetkilerini Gösterir Örnek: 145/I Sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1669/2007-752.pdf",
+  "source_sha256": "b2abaf4f52deca675e4f506a4790594887a5eadcdec2c7ecc73a833c7593fa74",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 14,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2007-08-01",
+  "law_text_complete": false
+}
