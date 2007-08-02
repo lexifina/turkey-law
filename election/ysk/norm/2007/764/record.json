@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2007/764",
+  "list_number": "764",
+  "genelge_number": "Örnek: 139/I",
+  "decision_date": "2007-08-02",
+  "title": "Anayasa Değişikliğinin Halkoyuna Sunulmasına İlişkin 21 Ekim 2007 Pazar Günü Yapılacak Halkoylamasında İl ve İlçe Seçim Kurullarının Görev ve Yetkilerini Gösterir Örnek: 139/I Sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1673/2007-764.pdf",
+  "source_sha256": "9ba2c2537969f736c5f322ac4651070a69d1b6975c603af0cff54126cf6937c1",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2007-08-02",
+  "law_text_complete": false
+}
