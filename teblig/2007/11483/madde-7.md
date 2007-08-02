@@ -1,0 +1,2 @@
+Demirbaş defteri
+MADDE 7 – (1) Demirbaş defteri Ek-4’te gösterilen örneğe uygun tutulur. Bu defterin her bir satırına ve ilgili sütunun altına bir demirbaşa ait bilgiler yazılır. Parçaları ile bir bütün olan ve bu şekilde alınmış demirbaşlar bir satıra kaydedilir ve adedi sütununa takım ve benzeri ibareler yazılır. Diğer sütunlara yazılamayan, ancak yazılması gerekli görülen bilgiler açıklama sütununda belirtilir. Bilânço esasına göre defter tutulması halinde, demirbaş defteri tutulmaz.
