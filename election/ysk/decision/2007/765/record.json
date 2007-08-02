@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2007/765",
+  "list_number": "765",
+  "decision_date": "2007-08-02",
+  "title": "Anayasa Değişikliğinin Halkoyuna Sunulmasına İlişkin 21 Ekim 2007 Pazar Günü Yapılacak Halkoylamasında Sandık Kurullarının Görev ve Yetkilerini Gösterir Örnek: 135/I Sayılı Genelge ile İlgili Yüksek Seçim Kurulu Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/3076/2007-765.pdf",
+  "source_sha256": "0a7b9191d17ce6334d4a676ec9e1e8263fb866742c837f1525d749d61b50ca4e",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 17,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2007-08-02",
+  "law_text_complete": false
+}
