@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.11484",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TEDAVİ YARDIMINA İLİŞKİN UYGULAMA TEBLİĞİ (SIRA NO: 9 )",
+  "number": "11484",
+  "path": "teblig/2007/11484",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11484&MevzuatTertip=5",
+  "source_sha256": "c64e154426bb2220147b030bfd6c46cbc96e7050ec4b014c5613c9a7205c3bfd",
+  "source_bytes": 11401,
+  "published": "2007-08-03",
+  "gazette": "26602",
+  "in_force": "2007-08-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.08.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 453,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
