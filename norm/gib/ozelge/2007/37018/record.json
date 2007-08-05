@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6652-354",
+  "source_id": 37018,
+  "date": "2007-08-05",
+  "title": "Tarım Kredi Kooperatifine ait lojmanların emlak vergisinden muaf tutulması hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37018",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "7ef5931127bf536ab57f0294eb65f06d2709a02ffea9b18f3be2638283902f43",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
