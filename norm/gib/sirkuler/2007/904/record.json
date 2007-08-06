@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-8/2007-3/ Yatırım İndirimi - 5",
+  "source_id": 904,
+  "date": "2007-08-06",
+  "title": "2007 yılı ikinci geçici vergi döneminde uygulanacak yeniden değerleme oranı %1,29 (yüzde bir virgül yirmi dokuz ) olarak tespit edilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/904",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "4a56ed77c722d9e59446485b7831b8242b7957565333bfba5ef7b8dc2814d4ae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
