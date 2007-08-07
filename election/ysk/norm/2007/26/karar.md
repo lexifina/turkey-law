@@ -1,0 +1,132 @@
+Genelge No
+: 26
+Genelge Tarihi
+: 07/08/2007
+Yüksek Seçim Kurulunca verilen 07/08/2007 tarihli, 2007/776 sayılı karar örneği ilişikte
+gönderilmiştir.
+Bilgi edinilmesi ve gereği rica olunur.
+Muammer AYDIN
+Yüksek Seçim Kurulu Başkanı
+EK
+:
+Karar Örneği (3 Sayfa)
+T.C.
+YÜKSEK SEÇİM KURULU
+Karar No : 776
+İtiraz No :
+- K A R A R -
+Başkanlık Makamınca Kurulumuza sunulan 07/08/2007 tarihli yazıda, aynen; “Türkiye
+Büyük Millet Meclisi Genel Kurulunca 31/05/2007 tarihinde kabul edilen 5678 sayılı “Türkiye
+Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun’’un,
+Anayasa’nın 175. maddesi uyarınca, halkoyuna sunulmasının uygun görülmesi üzerine,
+Anayasa’nın anılan maddesi ve 3376 sayılı “Anayasa Değişikliğinin Halkoyuna Sunulması
+Hakkında Kanun” uyarınca, 5678 sayılı Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde
+Değişiklik Yapılması Hakkında Kanun, Resmi Gazetenin 16/06/2007 tarihli, 26554 sayılı
+nüshasında yayımlanmış olduğundan, halkoylamasının 3376 sayılı Anayasa Değişikliğinin
+Halkoyuna Sunulması Hakkında Kanun’un 2. maddesi gereği, 5678 sayılı Yasanın yayımını
+izleyen yüzyirminci günden sonra gelen 21 Ekim 2007 Pazar günü yapılması kararlaştırılmış ve
+Kurulumuzun 30/07/2007 tarih ve 740 sayılı kararı ile de bu konuda seçim takvimi işletilmeye
+başlatılmıştır.
+298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 1.
+maddesinde; Özel kanunlarına göre yapılacak milletvekili, il genel meclisi üyeliği, belediye
+başkanlığı, belediye meclisi üyeliği, muhtarlık, ihtiyar meclisi üyeliği, ihtiyar heyeti üyeliği
+seçimlerinde ve Anayasa değişikliklerine ilişkin kanunların halk oyuna sunulmasında bu Kanun
+hükümlerinin uygulanacağı,
+3376 sayılı Anayasa Değişikliğinin Halkoyuna Sunulması Hakkında Kanunun 1.
+maddesinde de; Anayasa gereğince yapılacak olan halkoylamasında bu Kanun hükümlerinin
+uygulanacağı, bu Kanunda hüküm bulunmayan hallerde 298 sayılı Seçimlerin Temel Hükümleri
+ve Seçmen Kütükleri Hakkında Kanunun bu kanuna aykırı olmayan hükümlerinin tatbik
+edileceği,
+öngörülmüştür.
+21 Ekim 2007 Pazar günü yapılacak Anayasa değişikliğinin halkoyuna sunulması
+işlemlerinde bulunabilecek ve ayrıca 298 sayılı Kanunun 23. maddesi gereğince sandık
+kurullarına üye verebilecek olan siyasi partilerin tespit ve ilanına ilişkin düzenleme 298 sayılı
+Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 14/11. maddesinde yer
+almaktadır.
+Siyasi partilerin tespit ve ilanında ise, 298 ve 2820 sayılı Kanunların ilgili hükümleri
+uygulanacaktır.
+Yukarıda belirtilen yasa hükümleri dikkate alınarak, 21 Ekim 2007 Pazar günü yapılacak
+Anayasa değişikliğinin halkoyuna sunulmasına ilişkin işlemlerde bulunabilecek ve ayrıca 298
+sayılı Kanunun 23. maddesi gereğince sandık kurullarına üye verebilecek olan siyasi partilerin
+tespit edilerek, yürütülecek halkoylaması işlemlerinde uygulanmasına ve 298 sayılı Kanunun 14.
+maddesinin onbirinci fıkrası uyarınca ilanına karar verilmesi hususunda gerekli kararın
+alınmasını takdirlerinize arz ederim.” denilmiş olmakla, konu incelenerek;
+GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ:
+Başkanlık teklifinde belirtilen Kanun hükümlerinde ve Anayasa değişikliğinin halkoyuna
+sunulmasında uygulanacak olan 3376 sayılı Anayasa Değişikliklerinin Halkoyuna Sunulması
+Hakkında Kanunda, halkoylaması işlemlerinde görev yapacak olan sandık kurulları hakkında
+özel bir düzenleme yapılmamıştır. Söz konusu 3376 sayılı Kanunun 1. maddesinde; Anayasa
+gereğince yapılacak olan halkoylamasında bu Kanun hükümlerinin uygulanacağı, bu Kanunda
+hüküm bulunmayan hallerde 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri
+Hakkında Kanunun bu Kanuna aykırı olmayan hükümlerinin tatbik edileceği hükmüne yer
+verilmiştir.
+Bu bakımdan, 21 Ekim 2007 tarihinde yapılacak olan halkoylamasında görev yapacak
+sandık kurullarının 298 sayılı Kanunun 21., 22. ve 23. maddelerine göre oluşturulması
+gerekmektedir. Konu bu bakımdan ele alındığında, 298 sayılı Kanunun 21. ve 22. maddeleri
+hükümlerinin halkoylamaları için oluşturulacak sandık kurullarında da aynen uygulanabilecekleri
+konusunda duraksama bulunmamaktadır.
+21 Ekim 2007 tarihinde yapılacak halkoylaması da seçim gibi mütalaa edildiğine göre,
+halkoylamasında görev yapacak sandık kurulu üyeliklerinin belirlenmesi için bu tarihten en az
+altı ay evvel teşkilatlanma şartını 2820 sayılı Kanunun 20. ve 36. maddelerine göre yerine
+getirmiş ve büyük kongrelerini yapmış veya Türkiye Büyük Millet Meclisinde grupları bulunan
+siyasi partilerin tespiti gerekmiştir.
+298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun'un 14
+üncü maddesinin 11 inci bendinde; siyasi partilerin, milletvekili, belediye başkanlığı, belediye
+meclisi ve il genel meclisi üyelikleri seçimlerine katılabilmeleri için illerin en az yarısında, oy
+verme gününden en az altı ay önce teşkilat kurmaları ve büyük kongrelerini yapmış olmaları
+veya Türkiye Büyük Millet Meclisinde gruplarının bulunması gerektiği vurgulanmıştır. Aynı Yasa
+hükmünün devamında da bir ilde teşkilatlanmanın; merkez ilçesi dahil o ilin ilçelerinin en az üçte
+birinde teşkilat kurma anlamına geldiği hükme bağlanmıştır. 2820 sayılı Siyasi Partiler
+Yasasının 20 nci maddesinin 1 inci fıkrasında ise, bir ilçede teşkilatlanmanın, ilçe sınırları
+içerisindeki beldelerin en az yarısında teşkilat kurmayı gerektirdiği; belde sayısı üç veya daha az
+ise beldenin sadece birinde teşkilat kurulmuş olmasının yeterli olduğu belirtilmiş, aynı Yasanın
+36 ncı maddesinde de, buna koşut düzenlemeye yer verilmiştir.
+Seçime katılabilecek siyasi partileri saptama ve ilan etme görev ve yetkisi 298 ve 2820
+sayılı Yasalara göre Kurulumuza ait bulunduğundan, 21 Ekim 2007 Pazar günü yapılacak olan
+Anayasa değişikliğinin halkoyuna sunulmasında bulunabilecek ve yine halkoylamasında sandık
+kurullarına üye verebilecek olan siyasi partilerin araştırılıp saptanması gerekmektedir.
+Bu meyanda; Türkiye Büyük Millet Meclisi Başkanlığının 07/08/2007 günlü,
+A.01.0.GNS.0.10.00.02-290/321 sayılı ve Yargıtay Cumhuriyet Başsavcılığının 31/07/2007
+günlü, C.02.0.CBS.0.01.02.04/452 sayılı yazıları ile bu yazı ekinde gönderilen bilgisayar
+disketinin incelenmesi sonucunda;
+1-a) 298 sayılı Yasanın 14 üncü maddesinin 11 inci bendi ile 2820 sayılı Yasanın 20. ve
+36 ncı maddelerine göre, illerin en az yarısında halkoylamasının yapılacağı gün olan 21 Ekim
+2007 tarihinden en az altı ay öncesi, (21/04/2007 tarihi) itibariyle teşkilat kurmuş ve ilk büyük
+kongrelerini yapmış olan siyasi partilerin;
+1- Adalet ve Kalkınma Partisi, 2- Anavatan Partisi, 3- Bağımsız Türkiye Partisi, 4- Büyük
+Birlik Partisi, 5- Cumhuriyet Halk Partisi, 6- Demokratik Sol Parti, 7-Demokratik Toplum Partisi,
+8- Demokrat Parti, 9- Emek Partisi, 10- Genç Parti, 11- Hak ve Özgürlükler Partisi, 12- Halkın
+Yükselişi Partisi, 13- Hürriyet ve Değişim Partisi, 14- İşçi Partisi, 15- Liberal Demokrat Parti, 16-
+Milliyetçi Hareket Partisi, 17- Özgürlük ve Dayanışma Partisi, 18- Saadet Partisi, 19-
+Sosyaldemokrat Halk Partisi, 20- Türkiye Komünist Partisi;
+b) Diğer partilerin ise genel kongre veya teşkilatlanma koşulunu yerine getiremedikleri
+dolayısıyla 298 sayılı Yasanın 14 üncü maddesinin 11 inci bendinde öngörülen nitelikleri
+kazanamadıkları saptanmıştır.
+2- Ayrıca, Türkiye Büyük Millet Meclisi’nde grubu olan partilerin; 1- Adalet ve Kalkınma
+Partisi, 2- Cumhuriyet Halk Partisi, 3- Milliyetçi Hareket Partisi ve Demokratik Toplum Partisi
+olduğu belirlenmiştir.
+S O N U Ç:
+Açıklanan nedenlerle;
+1- 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun'un 14
+üncü maddesinin 11 inci bendine göre; 21 Ekim 2007 Pazar günü yapılacak Anayasa
+değişikliğinin halkoyuna sunulmasına ilişkin işlemlerde bulunabilecek ve ayrıca 298 sayılı
+Kanunun 23. maddesi gereğince sandık kurullarına üye verebilecek olan siyasi partilerin; 1-
+Adalet ve Kalkınma Partisi, 2- Anavatan Partisi, 3- Bağımsız Türkiye Partisi, 4- Büyük Birlik
+Partisi, 5- Cumhuriyet Halk Partisi, 6- Demokratik Sol Parti, 7- Demokratik Toplum Partisi, 8-
+Demokrat Parti, 9- Emek Partisi, 10- Genç Parti, 11- Hak ve Özgürlükler Partisi, 12- Halkın
+Yükselişi Partisi, 13- Hürriyet ve Değişim Partisi, 14- İşçi Partisi, 15- Liberal Demokrat Parti, 16-
+Milliyetçi Hareket Partisi, 17- Özgürlük ve Dayanışma Partisi, 18- Saadet Partisi, 19-
+Sosyaldemokrat Halk Partisi, 20- Türkiye Komünist Partisi olduğuna,
+2- Kararın Resmi Gazetede yayımlanmasına,
+3- Karar özetinin Türkiye Radyo ve Televizyon Kurumu aracılığı ile Başkanlık duyurusu
+olarak yayınlanmasına,
+4- Kararın, bu kararımızla tespit edilen siyasi partiler genel başkanlıkları ile tüm il ve ilçe
+seçim kurulu başkanlıklarına gönderilmesine,
+07/08/2007 tarihinde oybirliği ile karar verildi.
+Başkan
+Üye
+Üye
+Muammer AYDIN Mehmet Rıza ÜNLÜÇAY Necati SÖZ
+Üye Üye Üye
+Cenker KARAOĞLU Hüseyin EKEN
+Mehmet KILIÇ
