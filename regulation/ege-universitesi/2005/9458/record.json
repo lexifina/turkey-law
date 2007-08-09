@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 19 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2005-09-26",
+      "26.09.2005",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2006-05-07",
+      "RG-07/05/2006—26161",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2006-05-07",
+      "RG-07/05/2006—26161",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2007-08-09",
+      "RG-09/08/2007-26608",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2006-05-07",
+      "RG-07/05/2006—26161",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2006-05-07",
+      "RG-07/05/2006—26161",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-09/08/2007-26608",
+  "first_law": null,
+  "gazette": "25948",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2007-08-09",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ege Üniversitesi",
+  "issuer_slug": "ege-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ege-universitesi/2005/9458",
+  "published": "2005-09-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=9458&MevzuatTertip=5",
+  "source_bytes": 23796,
+  "source_id": "8.5.9458",
+  "source_sha256": "dc4004de33aab54d819b157f4dd8ab5953be6f26876d0ef0c897aacb7d019644",
+  "text_status": "current-consolidated",
+  "title": "EGE ÜNİVERSİTESİ ÖĞRETİM ÜYESİ YETİŞTİRME PROGRAMI YÖNETMELİĞİ",
+  "university_id": 191,
+  "word_count": 948
+}
