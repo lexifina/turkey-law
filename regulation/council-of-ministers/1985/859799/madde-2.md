@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 – Bu Yönetmelik, Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretimi, İletimi, Dağıtımı ve Ticareti ile Görevlendirilmesi Hakkında 3096 sayılı Kanunun 4 üncü maddesinde belirtilen sermaye şirketlerine (Üretim Şirketi) elektrik enerjisi üretim tesisi kurma, işletme ve Türkiye Elektrik Kurumu'na veya bölgede faaliyet gösteren görevli şirkete elektrik enerjisi satışına dair esasları kapsar.

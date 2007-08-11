@@ -1,0 +1,2 @@
+Madde 1 – Şirket fizibilite raporunu, gider bölüştürmesi için tesbit edilen metodu kullanarak hazırlar.
+Ancak, gider bölüştürmesi işlemlerinin tamamlanmasından sonra, Şirketin teklifi üzerine, Bakanlık ve ilgili kurumlar ve Şirketin temsilcilerinden kurulu bir komisyon; gider bölüştürmesi işlemlerini tetkik eder ve üzerinde ilgililerin mutabakatını sağlar. Fizibilite raporu bu mutabakata uygun olarak sonuçlandırılır.

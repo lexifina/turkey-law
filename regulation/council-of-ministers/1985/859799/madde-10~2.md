@@ -1,0 +1,1 @@
+Madde 10 – Enerji, sulama, taşkın koruma, içme ve kullanma suyu faydalarında ve masraflarında ekonomik ömür boyunca (50 yıl) gelir - gider akımları aynı ve belli bir faiz nisbeti ile başlangıç yılında biriktirilecek ve bugünkü değer metodu kullanılacaktır.

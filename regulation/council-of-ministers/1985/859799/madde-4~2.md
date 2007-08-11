@@ -1,0 +1,1 @@
+Madde 4 – Çok maksatlı projelerin fizibilite safhasında ilgili Kurumlar ve Şirket gider bölüştürmesi konusunda sürekli işbirliği yaparak veri alışverişini ve varılacak sonuçların dayandığı ana kriterler hakkında görüş birliğini sağlarlar.

@@ -1,0 +1,2 @@
+Madde 12 – Önceden inşa edilmiş çok maksatlı depolama ve iletim tesislerinin ortak giderlerinden enerji maksadına isabet eden miktarı, inşa edildikleri yıldaki kesin maliyet bedelinin DSİ inşaat maliyetleri gelir endeksi ile çarpılarak katılma payının hesaplanacağı yıl değerine getirilmesi suretiyle bulunacak bedel üzerinden hesaplanır.
+Bu tesislerin maliyet bölüştürülmesinde, tesisin halka hizmet verdiği maksatların geri ödetilmesi için hesaplanmış olan yüzdeler kullanılır.
