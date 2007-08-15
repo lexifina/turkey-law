@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-08-15",
+  "issue": "26614",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Aktüerler Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/08/20070815-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/08/20070815.htm",
+  "index_sha256": "9c72bb49c7bbd4200c5c19b869e3ec238ecb8a43ebb9861a06267262011d3197",
+  "index_header": "15 Ağustos 2007 ... 26614 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
