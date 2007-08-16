@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-08-16",
+  "issue": "26615",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Mecburi Standard Tebliği (No: ÖSG-2007/27)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/08/20070816-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/08/20070816.htm",
+  "index_sha256": "f0369e90346adce9ded64f4f88c6588c40f531a12e7ac96999770cd0fe078dc9",
+  "index_header": "16 Ağustos 2007 ... 26615 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
