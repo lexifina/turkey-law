@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-08-17",
+  "issue": "26616",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Yüzüncü Yıl Üniversitesi, Fen Bilimleri Enstitüsü Ortaöğretim Alan Öğretmenliği Tezsiz Yüksek Lisans Programı Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/08/20070817-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/08/20070817.htm",
+  "index_sha256": "de3a915492c4defdf1c193305ff1bb1472741bc3ccbda7f3c15c17b372f4ef14",
+  "index_header": "17 Ağustos 2007 ... 26616 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
