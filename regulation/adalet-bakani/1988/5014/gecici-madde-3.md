@@ -1,0 +1,2 @@
+Geçici Madde 3- (Ek:RG-05/05/1993-21572)
+İki yıllık staj sürelerini tamamlamış ve mesleğe kabullerine karar verilerek Danıştay Tetkik Hâkimliğine atanmak için Danıştay Başkanlık Kurulundan olumlu görüş alınmış bulunan idari yargı Hâkim adayları, 3825 sayılı Yasanın geçici 5 inci maddesinde öngörülen koşullara göre ad çekmeye tabi olmaksızın doğrudan Danıştay Tetkik Hâkimliğine kadro ve ihtiyaç durumuna göre Kurulca atanabilirler.

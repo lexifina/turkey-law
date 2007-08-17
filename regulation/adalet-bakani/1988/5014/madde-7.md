@@ -1,0 +1,5 @@
+Özel Durumlarda Atama:
+Madde 7- a) Bulundukları yerde kendi kusurları olmaksızın herhangi bir nedenle idarî yargı hâkimlik veya savcılığının gerektirdiği onur ve tarafsızlık içerisinde görev yapamayacağı veya bulunduğu yerde kalması mesleğin nüfuz ve itibarını sarsacağı anlaşılanlar aynı bölge seviyesindeki bir göreve atanırlar.
+b) Görev yerlerindeki işlerin çokluğu ve çeşidine göre gereken sürat ve başarıyı gösteremedikleri soruşturma ve belgelerle anlaşılanlar bölge ve meslek kıdemine bakılmaksızın hizmetlerinden yararlanılabilecek aynı veya alt bölgedeki bir göreve atanırlar.
+c) Haklarında Hâkimler ve Savcılar Kanunu gereğince yer değiştirme cezası verilenler mazeretlerine ve bulundukları bölgede en az hizmet süresinin dolup dolmadığına bakılmaksızın daha alt veya yoksa bölge içinde durumlarına uygun görevlere derhal atanırlar.
+İlgililer idari yönden atamalarda, atandıkları bölgelerde en az iki yıl, disiplin yönünden atamalarda ise; o bölgedeki en az hizmet süresi kadar kalmadıkça yeniden atanma talebinde bulunamazlar.

@@ -1,0 +1,1 @@
+Geçici Madde 2- Bu Yönetmelikte bulundukları yerler daha üst bölgeler haline getirilenler atanma istemedikleri takdirde, bulundukları yerde geçen süreleri bu bölgelerde geçirilmesi gereken hizmet sürelerinden mahsup edilir.
