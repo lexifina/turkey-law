@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1281",
+  "decision_date": "2007-08-17",
+  "title": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinin 9 uncu maddesi uyarınca uygulanacak olan Dağıtım Bölgeleri Dağıtım Kayıp Katsayıları (b bendi değiştirilmiştir.)",
+  "resmi_gazete_date": "2007-08-29",
+  "resmi_gazete_number": "26628",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iPqtzHE83bA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iPqtzHE83bA="
+  ],
+  "source_sha256": "573d4bcf417a32022e7f29291125ad7f6f9c7d63f0167656a9f6393bf0090851",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-08-17",
+  "law_text_complete": false
+}
