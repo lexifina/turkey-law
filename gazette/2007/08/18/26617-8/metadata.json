@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-08-18",
+  "issue": "26617",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Telsiz ve Telekomünikasyon Terminal Ekipmanları Yönetmeliğinin Atıfta Bulunduğu Standartlara Dair Tebliğ (2007/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/08/20070818-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/08/20070818.htm",
+  "index_sha256": "862b3ddf189b656dfb51f2ade809ceec803ff3f3447466d9a16b3a5602ff3546",
+  "index_header": "18 Ağustos 2007 ... 26617 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
