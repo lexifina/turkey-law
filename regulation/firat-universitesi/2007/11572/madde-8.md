@@ -1,0 +1,4 @@
+Merkez müdürü
+MADDE 8 – (1) Merkez Müdürü, Yönetim Kurulunun kendi üyeleri veya Üniversitenin aylıklı ve devamlı statüdeki öğretim üyeleri arasından Üniversite Rektörü tarafından üç yıl için görevlendirilir. Süresi dolan Merkez Müdürü aynı usulle tekrar görevlendirilebilir.
+(2) Merkez Müdürünün önerisiyle Üniversitenin aylıklı ve devamlı statüdeki öğretim üyeleri veya öğretim görevlileri arasından Yönetim Kurulunun görüşü alınarak Rektörün onayı ile Müdür yardımcısı görevlendirilebilir ve Merkez Müdürünün olmadığı hallerde Merkez Müdürüne vekalet eder.
+(3) Merkez Müdürü ve vekâlet görevi yerine getiren yardımcıları kendileri ile ilgili konularda Yönetim Kurulunda oy kullanamazlar. Merkez Müdür yardımcıları oy hakkı olmaksızın Yönetim Kurulu Başkanının izni ile Yönetim Kurulu toplantılarına katılırlar.
