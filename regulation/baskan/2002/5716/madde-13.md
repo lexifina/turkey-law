@@ -1,0 +1,2 @@
+İletişim Sistemi
+Madde 13 — İletim şirketi, tedarikçilerin izleyebileceği bir elektronik bülten tablosu (EBT) üzerinden; taşıma miktarı, programlanan ve iletilen miktarlar, kesinti veya azaltma talep ve miktarları, sistem dengeleme talimatları ve kapasite tahsisleri gibi iletim şebekesinin işleyişi ile ilgili tüm bildirimlerin yapıldığı bir iletişim sistemi kurar. Bu sistem diğer iletim şirketleri ve depolama şirketleri arasındaki iletişimde de kullanılabilir.

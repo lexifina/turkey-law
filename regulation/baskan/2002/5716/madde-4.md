@@ -1,0 +1,20 @@
+Tanımlar
+Madde 4 — Bu Yönetmelikte yer alan;
+a) Kanun: 18/4/2001 tarihli ve 4646 sayılı Doğal Gaz Piyasası Kanununu,
+b) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+c) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+d) Başkan: Enerji Piyasası Düzenleme Kurulu Başkanını,
+e) Bağlantı anlaşması: İletim veya dağıtım şirketi ile sisteme bağlanmak isteyen arasında sisteme bağlanmak amacıyla yapılan anlaşmayı,
+f) Çıkış noktası: Doğal gazın iletim şebekesinden çıktığı ve iletim şirketinden teslim alındığı noktayı,
+g) Elektronik Bülten Tablosu (EBT): Piyasada faaliyet gösteren tarafların piyasa hareketlerini takip edebilmeleri için kurulmuş olan ve iletim şirketince işletilen elektronik duyuru panosunu,
+h) Giriş noktası: Doğal gazın iletim şebekesine girdiği ve iletim şirketine teslim edildiği teslim noktasını,
+i) İletim şebekesi: Doğal gaz dağıtım şebekesi dışında doğal gazın taşınması için kullanılan doğal gaz boru hattı şebekesi ile bununla ilgili tesisleri,
+j) İlgili mevzuat : Doğal Gaz Piyasasına ilişkin Kanun, yönetmelik, tebliğ, genelge, Kurul kararları ile ilgili tüzel kişinin sahip olduğu lisans veya lisansları,
+k) Sistem : Doğal gazın üretimi, iletimi, depolanması ve dağıtımı işlevlerini yerine getirmek üzere kurulan tesis ve teçhizatı,
+l) Sisteme giriş: Sisteme bağlanmayı veya doğal gaz taşıma veya depolama hizmeti almayı,
+m) Sistem günü: Saat 08:00 de başlayıp ertesi gün saat 08:00 de sona eren 24 saatlik zaman dilimini,
+n) Taşıma Sözleşmesi: Sistem kullanıcıları ile iletim şirketleri arasında doğal gazın taşınması amacıyla yapılan sözleşmeyi,
+o) Tedarikçi: Serbest tüketicilere, toptan satış şirketlerine, ithalatçı şirketlere, ihracatçı şirketlere, CNG dağıtımı, iletimi ve satışı şirketlerine ve dağıtım şirketlerine doğal gaz satan ithalatçı şirketleri, toptan satış şirketleri ve üretim şirketlerini,
+p) Teslim Noktası: Doğal gazın teslim edildiği noktayı,
+r) Teslim Sözleşmesi: Sistem kullanıcıları veya onların adına hareket edenlerle iletim şirketleri arasında veya depolama şirketi ve iletim şirketleri arasında veya iletim şirketlerinin kendi aralarında doğal gazın devir teslimi için yapılan sözleşmeyi,
+ifade eder.

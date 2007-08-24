@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 — Bu Yönetmelik; doğal gaz boru hattı şebekesi vasıtasıyla iletim faaliyeti yapan iletim şirketlerince hazırlanacak olan şebeke işleyişine ilişkin düzenlemeler kapsamında yer alacak sisteme giriş, taşıma miktarı bildirimi ve taşıma hizmetinin programlanması, taşıma miktarının tespiti, kesinti işlemi, sevkiyat kontrolü, sistem dengelemesi, iletişim sistemi, kapasite tahsisi, doğal gaz teslimi ve ölçüm işlemi gibi şebeke işleyişine ilişkin usul ve esasları kapsar.

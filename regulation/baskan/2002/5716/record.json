@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.5716",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DOĞAL GAZ PİYASASI İLETİM ŞEBEKESİ İŞLEYİŞ YÖNETMELİĞİ",
+  "number": "5716",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2002/5716",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5716&MevzuatTertip=5",
+  "source_sha256": "d93855a7a361108653ad93e4d2d8f80bea86fb9f9713930c1bd5be3bf433a3d1",
+  "source_bytes": 35171,
+  "published": "2002-10-26",
+  "gazette": "24918",
+  "in_force": "2007-08-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.: 24/8/2007\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2007-08-24",
+      "R.G.: 24/8/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-05-01",
+      "RG-01/05/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 2/11/2002 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1667,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

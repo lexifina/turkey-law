@@ -1,0 +1,1 @@
+Geçici Madde 2 — (Değişik ibare: RG-01/05/2004-25449) Mevcut iletim şirketleri 31/12/2004 tarihine kadar iletişim sistemini kurar. İletişim sistemi devreye girinceye kadar iletim şirketlerinin belirleyeceği yöntemle iletişim sağlanır. Mevcut sevkiyat kontrol merkezi, kurulacak iletişim sistemine ve 12 nci maddeye uygun olarak düzenlenir.
