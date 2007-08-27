@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1292/25",
+  "decision_date": "2007-08-27",
+  "title": "Elektrik Piyasası Lisans Yönetmeliğinin 7 nci maddesinin dördüncü fıkrası hükümleri çerçevesinde ilgili tüzel kişilerden alınacak teminat tutarı hakkında Kurul Kararı",
+  "categories": [
+    "Asgari sermaye ve teminat"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lbNOOhrbrjQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lbNOOhrbrjQ="
+  ],
+  "source_sha256": "4bf9439cc547af1c3cb17ae7c875e438385417da3ddc85eb7aa07ab180d76518",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33884,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-08-27",
+  "law_text_complete": false
+}
