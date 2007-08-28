@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.9344",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÖY BAZLI KATILIMCI YATIRIM PROGRAMLARININ DESTEKLENMESİ YÖNETMELİĞİ",
+  "number": "9344",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "issuer_slug": "tarim-ve-koyisleri-bakani",
+  "path": "regulation/tarim-ve-koyisleri-bakani/2005/9344",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9344&MevzuatTertip=5",
+  "source_sha256": "f8200f3ccd6ef07eccf6eff90133f813d6dc5fbffc2d41c35a96c148cfc8236c",
+  "source_bytes": 202443,
+  "published": "2005-08-23",
+  "gazette": "25915",
+  "in_force": "2007-08-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/08/2007\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2007-08-28",
+      "RG-28/08/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-06-21",
+      "RG-21/06/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-10-08",
+      "RG-8/10/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6893,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/www.tedgem.gov.tr/",
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/www.tarim.gov.tr/"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

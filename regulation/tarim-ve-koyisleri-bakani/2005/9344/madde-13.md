@@ -1,0 +1,2 @@
+Kamu sektörü yatırımları
+Madde 13 — Kırsal alandaki kamu hizmetlerine yönelik mevcut köy yolu, köy içmesuyu, köy kanalizasyonu, köy bazlı sulama tesisleri gibi alt yapı tesislerinin iyileştirilmesi ve geliştirilmesine yönelik projeler için başvuru yapabilecek olan kaymakamlıklar ve köylere hizmet götürme birlikleri, kendi paylarına düşen ve hibeye esas proje toplam tutarının % 25’i (yirmibeş) oranındaki kaynakları, il özel idaresi ve/veya kendi özkaynaklarından temin etmekle yükümlü ve sorumludurlar.

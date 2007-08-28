@@ -1,0 +1,2 @@
+Kamu sektörünce yapılacak alt yapı yatırımlarından yararlanmak için başvuracak kurum ve kuruluşlar
+Madde 11 — Kırsal alandaki kamu hizmetlerine yönelik mevcut köy yolu, köy içmesuyu, köy kanalizasyonu, köy bazlı sulama tesisleri gibi alt yapı tesislerinin iyileştirilmesi ve geliştirilmesine yönelik projeler için kaymakamlıklar ve köylere hizmet götürme birlikleri, Köy Bazlı Katılımcı Yatırım Programı desteğinden yararlanmak için başvurabilirler.

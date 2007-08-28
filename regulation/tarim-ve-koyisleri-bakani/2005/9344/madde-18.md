@@ -1,0 +1,5 @@
+İnşaat Giderleri
+Madde 18 — Köy Bazlı Katılımcı Yatırım Programı kapsamında hibe sağlanacak inşaat işleri, hibe talep edilen projenin ayrılmaz bir parçası olan ve özellikle özel kişi ve kuruluşlarca yapılacak yatırımlarda projenin faaliyete geçmesi için kaçınılmaz olan inşaat işlerini kapsar. Başlı başına bir inşaat faaliyetinden ibaret olan inşaat projelerini ise kapsamaz.
+İnşaat işleriyle ilgili projelerde, inşaat mimari ve uygulama projelerinin hazırlanmış ve bir suretinin incelenmek üzere proje ekinde sunulmuş olması gerekir.
+İnşaatın yapılma yöntemi ile kullanılacak teknolojiyi açıklayan, inşaat işleriyle doğrudan ilgili malzeme, işçilik, makine, ekipman kullanım veya iş makinesi giderlerini kapsayan ve gider türü, poz numarası, ölçü birimi, miktar, birim fiyat ve tutar ayrıntılarını da ihtiva eden yapım şartnamelerinin ve uygulama aşamalarını süreleriyle birlikte gösterir bir iş programının proje ekinde sunulur.
+İnşaat giderleri, yalnız inşaatın gerçekleştirilmesi için gerekli olan ve inşaatın bünyesine katılan giderleri kapsar.

@@ -1,0 +1,3 @@
+Yatırımların süresi
+Madde 9 — Yatırım projeleri, başvuruları kabul edilen proje sahipleri ile Bakanlık il müdürlüğü arasında hibe sözleşmesinin imzalanmasından sonra, en fazla onbeş (15) ayda, bu süre içerisinde kalmak kaydıyla proje sahiplerinin yüklenicilerle yapacağı sözleşmelerden sonra ise en fazla oniki (12) ayda tamamlanır.
+(Ek fıkra: RG-21/06/2007-26559) 18/6/2007 tarihine kadar hiçbir faaliyet göstermeyen projeler hariç olmak üzere, uygulamasına başlamış ancak tamamlanamamış yatırımlara ait uygulamalar, hibe sözleşmesi ve hibe protokolü imzalama tarihine bakılmaksızın 25/12/2007 tarihine kadar tamamlanır.

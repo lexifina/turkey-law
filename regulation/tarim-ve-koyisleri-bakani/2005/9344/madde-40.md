@@ -1,0 +1,2 @@
+Hibe sözleşmesi akdi
+Madde 40 — Hibe sözleşmesi, tarım il müdürlüğü ve proje sahipleri arasında davet yazısında belirtilen süre içerisinde iki (2) asıl, üç (3) suret olmak üzere beş (5) adet olarak akdedilir. Hibe sözleşmesinin taraflarca imzalanmış üç (3) sureti, tarım il müdürlüğünce Kırsal Kalkınma Merkez Yürütme Birimine gönderilir. Hibe sözleşmesinin asıllarının bir adedi tarım il müdürlüğünce, bir adedi de proje sahibince muhafaza edilir.

@@ -1,0 +1,2 @@
+Değerlendirme raporları
+Madde 35 — Değerlendirilmelerin tamamlanmasından sonra, il proje değerlendirme birimi tarafından ilk değerlendirme aşamasını geçen proje başvurularına ait alınan karar ve eki rapor ile proje başvurularının bir sureti, tarım il müdürlüğü vasıtasıyla Kırsal Kalkınma Merkez Yürütme Birimine gönderilir. İlk değerlendirme aşamasını geçmeyen proje başvurularına ait sadece alınan karar ve eki raporlar Kırsal Kalkınma Merkez Yürütme Birimine gönderilir.

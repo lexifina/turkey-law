@@ -1,0 +1,4 @@
+Başvuruların idari uygunluk açısından incelenmesi
+Madde 30 — İl proje değerlendirme birimleri, öncelikli olarak proje başvuru evraklarını Ek-2’de yer alan "Başvuruların İdari Uygunluk Kontrol Listesi"ne göre eksiksiz ve tam olması yönünden inceler.
+Teslim alınmış olan başvurularla ilgili olarak il proje değerlendirme birimi tarafından tespit edilen maddi hata ve noksanlıkların giderilmesi ve eksikliklerinin tamamlanması için, başvuru sahipleri iadeli taahhütlü mektup ile bilgilendirilir. Mektubun başvuru sahibinin eline geçmesinden itibaren verilecek beş (5) günlük ek süre içerisinde noksanlıklarını tamamlamayan başvurular değerlendirmeye alınmaz.
+Tam olarak teslim edilen başvurular, 31, 32 ve 33 üncü maddelerde açıklanan, başvuranların ve projenin yeterliliği kriterleri açısından değerlendirmeye alınır.

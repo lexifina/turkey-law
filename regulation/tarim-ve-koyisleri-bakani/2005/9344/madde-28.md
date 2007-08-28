@@ -1,0 +1,4 @@
+Ek bilgi talepleri ve karşılanması
+Madde 28 — Gerek projelerin hazırlanması gerekse başvuru sırasında doğabilecek tereddütlerin giderilmesi için başvuru sahipleri, Ek-1’de belirtilen e-posta, fax ve internet adreslerinden bilgi edinebilir ve Bakanlıkça ilan edilecek tarihe kadar yazılı olarak başvurabilir.
+Ek bilgi talebini içeren tüm sorular cevapları ile birlikte, Ek-1’de belirtilen web adreslerinde "Sıkça Sorulan Sorular ve Cevaplar" şeklinde yayımlanır.
+Tarım il müdürlükleri, başvuru sahiplerince uygulama rehberi ve diğer bilgilendirici dokümanlarda açıklanmayan hususlara dair kendilerine iletilecek soruların cevaplarını yukarıda belirtilen yollarla başvuru sahiplerine iletilmesini sağlar. Sorular ve cevaplar son başvuru tarihinden bir hafta öncesine kadar belirtilen adreslerde yayımlanır.

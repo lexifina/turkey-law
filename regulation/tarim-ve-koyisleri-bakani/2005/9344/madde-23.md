@@ -1,0 +1,2 @@
+Ayni katkılar
+Madde 23 — Proje sahiplerinden, ortaklarından veya işbirliği yapılan kişi ve kuruluşlardan herhangi biri tarafından yapılacak arazi, mal, malzeme, makina ve ekipman, işgücü katkısı hibeye esas toplam proje tutarına dahil edilmez. Ancak, bu tür katkılar proje bütçesinde belirtilecek ve hibeye esas proje toplam tutarı bu tür ayni katkılardan sonra belirlenen tutar üzerinden kabul edilir. Proje sahipleri, başvuru formlarında bu tür katkıyı sağlamayı taahhüt ederler.

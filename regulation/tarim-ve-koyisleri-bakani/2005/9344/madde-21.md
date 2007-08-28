@@ -1,0 +1,2 @@
+Proje yönetim giderleri
+Madde 21 — Özel sektör yatırımlarında projenin yönetimi ile ilgili oluşacak haberleşme ve kırtasiye giderlerine, proje yönetim gideri olarak 15 inci maddede belirtilen oranlar dahilinde hibe desteği verilir. Bu giderlerin tutarı, hibe sözleşmesinde belirtilen hibeye esas toplam proje tutarının %2 (iki)’sini geçemez. Proje yönetim giderleri kapsamında; proje amaçları doğrultusunda, ihtiyaç duyulması halinde bilgisayar ve yazılım alımları yapılabilir.
