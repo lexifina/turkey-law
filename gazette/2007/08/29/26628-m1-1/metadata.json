@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-08-29",
+  "issue": "26628",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULUNUN ATANMASINA DAİR İŞLEM",
+  "title": "Bakanlar Kurulu’nun Atanmasına Dair Başbakanlık ve Cumhurbaşkanlığı Tezkereleri ile Onaylanan Bakanlar Kurulu Listesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/08/20070829M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/08/20070829m1.htm",
+  "index_sha256": "625da2864e2de7b67a0183ffe96788af91b9fe0d99a74ebf0a1a79e95a6a8123",
+  "index_header": "29 Ağustos 2007 ... 26628 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
