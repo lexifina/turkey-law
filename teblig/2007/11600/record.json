@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11600",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLÎ EMLÂK GENEL TEBLİĞİ (SIRA NO: 315)",
+  "number": "11600",
+  "path": "teblig/2007/11600",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11600&MevzuatTertip=5",
+  "source_sha256": "2456fb4daf5422d8e2cdfcef5efe0988773754815be60e5529d74189cea9b61e",
+  "source_bytes": 14365,
+  "published": "2007-08-29",
+  "gazette": "26628",
+  "in_force": "2007-08-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.08.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 602,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
