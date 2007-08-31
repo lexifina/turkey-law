@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11602",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2007/14)",
+  "number": "11602",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2007/11602",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11602&MevzuatTertip=5",
+  "source_sha256": "ad6186266b853416045ff2689416df39b006bc5e8aa371a23a7ee29dcca4810f",
+  "source_bytes": 59148,
+  "published": "2007-08-29",
+  "gazette": "26628",
+  "in_force": "2007-08-31",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 29/02/2008 tarihine kadar geçerli olmak üzere, 31/08/2007 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 29/02/2008 tarihine kadar geçerli olmak üzere, 31/08/2007 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1205,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
