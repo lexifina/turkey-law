@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "Veraset ve İntikal Vergisi Kanunu-3/2007-1",
+  "source_id": 1047,
+  "date": "2007-08-31",
+  "title": "Birikimli, birikimsiz ve karma sigorta poliçelerinde sigortalının vefatı üzerine kanuni mirasçılara ve lehdarlara yapılacak ödemeler ile sigorta tazminatlarının veraset ve intikal vergisi karşısındaki durumu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/sirkuler/1047",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "77b85de30604d2c69767f07683d09a3e8d2dc0e623ec994f7fd3577f9d637127",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
