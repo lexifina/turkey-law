@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-64/2007-8/ Ücretler, Menkul Sermaye İradı",
+  "source_id": 593,
+  "date": "2007-08-31",
+  "title": "Kamu görevlileri sendikalarına üye olup Devlet tarafından ek ödeme yapılan çalışanların sendika aidat ödemelerinin Gelir Vergisi Kanunu karşısındaki durumu ile karma poliçeler nedeniyle yapılacak ödemelerin vergilendirilmesi hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/593",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "2d68794db4b03093c9bbb2e67b2ca169f64c5fcead52c42d90dabe68083ca629",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
