@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-09-02",
+  "issue": "26631",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Mecburi Standardın Yürürlükten Kaldırılmasına Dair Tebliğ (No: ÖSG-2007/28)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/09/20070902-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/09/20070902.htm",
+  "index_sha256": "305f035f0ec9624fae9252d7853818a3a32d8c3f51af10083be47313cc368fef",
+  "index_header": "2 Eylül 2007 ... 26631 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
