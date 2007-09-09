@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-09-09",
+  "issue": "26638",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Bilgi Üniversitesi Avrupa Birliği Enstitüsü Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/09/20070909-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/09/20070909.htm",
+  "index_sha256": "cfc375a222e754f9036ec2534bc861937bd4fd4d36e81c65ed03562c97e5ae8c",
+  "index_header": "9 Eylül 2007 ... 26638 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
