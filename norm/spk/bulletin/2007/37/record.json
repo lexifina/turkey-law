@@ -1,0 +1,30 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2007/37",
+  "date": "2007-09-14",
+  "title": "SPK Haftalık Bülteni 2007/37",
+  "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_37.pdf",
+  "source_sha256": "10c3cc671572412e887a4e4dc131bdc56e467a74ccb1635d3f77597143aeb410",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "A. ÖZEL DURUM"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. ÖZEL DURUM",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_37.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
