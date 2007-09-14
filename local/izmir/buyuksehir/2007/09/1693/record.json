@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "1693",
+  "decision_date": "2007-09-14",
+  "official_id": "5423",
+  "version_label": "metadata-only",
+  "text_status": "withheld: register text appears to concern individual persons; official link only",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2007&ay=&gun=&txtSozcuk=&draw=1&start=600&length=100&txtKararNo=",
+  "source_listing_sha256": "a3971697eac4c432305b4c378fb73733470867951e1a2420ce41f1671f5d989a",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": true
+}
