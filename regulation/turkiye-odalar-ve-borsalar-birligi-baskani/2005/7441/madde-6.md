@@ -1,0 +1,7 @@
+Türkiye Sektör Meclisi Üyeleri
+Madde 6 — Türkiye sektör meclislerine ilgili kamu kurumu, kuruluşları ve oda veya borsaya kayıtlı firmalar ile Birlik Başkanınca gerekli görülen hallerde sektörde bilgi ve deneyim sahibi gerçek kişiler üye olabilir.
+(Değişik:RG-16/09/2007-26645) Üyenin temsilcisi olduğu kuruluş veya firmalarla ilişkisinin kesilmesi halinde, Türkiye sektör meclisi üyeliği kendiliğinden düşer. Kuruluşu veya firmayı temsilen sektör meclisine katılacak olan yeni üyenin ismi otuz gün içinde yazılı olarak Müdürlüğe bildirilir.
+Türkiye sektör meclisi üye listesi, Müdürlük tarafından iki yılda bir yenilenir.
+Üst üste iki defa mazeret bildirmeksizin toplantılara katılmayan üyelerin üyeliği kendiliğinden sona erer. Bildirilen mazeretin Birlik tarafından kabul edilmesi gerekir. Üyelerin, Türkiye sektör meclisi toplantılarına gündeme uygun olarak hazırlıklı ve varsa görüşlerini ifade eden yazılı bilgi notu ile katılmaları gerekir.
+Görüşü alınmak üzere toplantılara, üyeler dışında çalışma gündemiyle ilgili kişiler de Birlik Başkanının onayı ile davet edilebilir. Ayrıca, görüşlerine başvurulmak üzere kamu kurum ve kuruluşlarından toplantılara temsilci göndermeleri istenebilir.
+Türkiye sektör meclisine üyelik başvurularını kabul etmeye, üyeliği sona erenlerin yerine yeni üyeleri görevlendirmeye ve Müdürlük tarafından revize edilen listeyi onaylamaya Yönetim Kurulu yetkilidir. Yönetim Kurulu, bu yetkisini Birlik Başkanına devredebilir.

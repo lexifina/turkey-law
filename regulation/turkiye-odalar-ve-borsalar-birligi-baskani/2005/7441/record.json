@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.7441",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE SEKTÖR MECLİSLERİNİN KURULUŞ, GÖREV VE ÇALIŞMA YÖNETMELİĞİ",
+  "number": "7441",
+  "issuer": "Türkiye Odalar ve Borsalar Birliği Başkanı",
+  "issuer_slug": "turkiye-odalar-ve-borsalar-birligi-baskani",
+  "path": "regulation/turkiye-odalar-ve-borsalar-birligi-baskani/2005/7441",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=7441&MevzuatTertip=5",
+  "source_sha256": "ff10e584e666b13d239a86867c39a3ea4d911bdfc99cf764c2127f494fbbad90",
+  "source_bytes": 35995,
+  "published": "2005-02-12",
+  "gazette": "25725",
+  "in_force": "2007-09-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/09/2007\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2007-09-16",
+      "RG-16/09/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1384,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
