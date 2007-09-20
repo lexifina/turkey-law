@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-28/2007-4 /e-Beyanname-6",
+  "source_id": 813,
+  "date": "2007-09-20",
+  "title": "Beyannamelerin elektronik ortamda verilmesi uygulamasının yaygınlaştırılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/813",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "2560cab4218427083ca0a86f9966992973774c90cc317bf376116780e18ce86c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
