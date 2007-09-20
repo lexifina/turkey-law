@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1321",
+  "decision_date": "2007-09-20",
+  "title": "2008 yılında uygulanacak iletim ek ücretine ilişkin Kurul Kararı",
+  "resmi_gazete_date": "2007-09-28",
+  "resmi_gazete_number": "26657",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2624rCqOUsA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2624rCqOUsA="
+  ],
+  "source_sha256": "86e29c7e5290988e72b1eabf3364ba79e99a3b6dee74167b5bd363a8f073f1f8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-09-20",
+  "law_text_complete": false
+}
