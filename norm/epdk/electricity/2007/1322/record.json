@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1322",
+  "decision_date": "2007-09-21",
+  "title": "Rüzgar ve güneş enerjisine dayalı lisans başvurularının alınma tarihinin ertelenmesi hakkında Kurul Kararı",
+  "resmi_gazete_date": "2007-09-28",
+  "resmi_gazete_number": "26657",
+  "categories": [
+    "Başvuru"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pCWQ9q3l4ug=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pCWQ9q3l4ug="
+  ],
+  "source_sha256": "52929f418754c3aee48a6f2174c36c1f231f5dd9c9da55a49029a96b47dc45a7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33883,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-09-21",
+  "law_text_complete": false
+}
