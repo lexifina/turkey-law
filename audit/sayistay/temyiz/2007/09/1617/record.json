@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29517",
+  "decision_date": "2007-09-25",
+  "source_id": 1617,
+  "chamber": "3",
+  "file_number": "28703",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1617/",
+  "source_sha256": "b415b24c97dce9235d082b148e30172ab85b707e1bc08e7d8dd0f8be95c04a4e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
