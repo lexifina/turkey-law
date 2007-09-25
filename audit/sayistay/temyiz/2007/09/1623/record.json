@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29523",
+  "decision_date": "2007-09-25",
+  "source_id": 1623,
+  "chamber": "4",
+  "file_number": "28724",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1623/",
+  "source_sha256": "7c71c47c93a013ef36a3fcf4c62ad8dd3132ce0b80144a67417bfa30273decd7",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
