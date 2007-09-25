@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29526",
+  "decision_date": "2007-09-25",
+  "source_id": 1626,
+  "chamber": "1",
+  "file_number": "29003",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1626/",
+  "source_sha256": "88f4e16f521d87b2697f26c7dfa9e206b41f9308519e51988db626a8acc29dcb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
