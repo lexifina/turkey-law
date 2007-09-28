@@ -1,0 +1,60 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2007/40",
+  "date": "2007-09-28",
+  "title": "SPK Haftalık Bülteni 2007/40",
+  "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_40.pdf",
+  "source_sha256": "ed2a78fa476cae0b3cc176701cf7d1e28baad57f6780ad18c38ce050699d88b9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "E. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 01.01.2007 – 28.09.2007 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_40.pdf"
+    },
+    {
+      "heading": "B. 24.09.2007 – 28.09.2007 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_40.pdf"
+    },
+    {
+      "heading": "C. 24.09.2007 – 28.09.2007 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_40.pdf"
+    },
+    {
+      "heading": "D. DUYURULAR",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Gerek Takasbank",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_40.pdf"
+    },
+    {
+      "heading": "E. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_40.pdf"
+    },
+    {
+      "heading": "F. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_40.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
