@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68/6802-8",
+  "source_id": 38449,
+  "date": "2007-09-29",
+  "title": "Yurt dışından sağlanan ortalama vadesi 1 yılı aşan Türk Lirası Kredilerine kaynak kullanımını destekleme fonu istinası uygulanıp uygulanmayacağı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38449",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "cda11b7baa952980c1c3a36c277b2a33cae46c1823e7c0c2a2e80cc1c0995f1c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
