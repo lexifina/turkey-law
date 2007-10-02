@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29539",
+  "decision_date": "2007-10-02",
+  "source_id": 1639,
+  "chamber": "2",
+  "file_number": "28990",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1639/",
+  "source_sha256": "54c0666e6fa587bbcbda3f2e9e41a589af1f5ca95c2824e3d6c33c8f5596add6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
