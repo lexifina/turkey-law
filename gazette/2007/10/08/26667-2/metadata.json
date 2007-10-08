@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-10-08",
+  "issue": "26667",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tanıtma ve Kullanma Kılavuzu Uygulama Esaslarına Dair Yönetmelikte Değişiklik Yapılması Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071008-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071008.htm",
+  "index_sha256": "58ea77615fdbcfcb1c9d89fe62ae5a352e674bf9a18ab24569087998dc7bfe75",
+  "index_header": "8 Ekim 2007 ... 26667 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
