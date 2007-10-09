@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5688",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bosna Hersek Bakanlar Kurulu Arasında Turizm Alanında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-10-09",
+  "gazette_issue": "26668",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071009-1.htm",
+  "source_sha256": "2df52b57bfa306448573c3df7fd1a6b73da9481ee15d0d229df68cf429d62915",
+  "text_sha256": "2a9e0f8db745cb4812fbc815803538aac614e58ddb5e689562c0ae5591bde4a2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/10/09/26668-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071009-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
