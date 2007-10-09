@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5689",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Moldova Cumhuriyeti Hükümeti Arasında Ekonomik İşbirliğine Dair Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-10-09",
+  "gazette_issue": "26668",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071009-2.htm",
+  "source_sha256": "bad73cfa6542540128cc03d727f705d26a9a6e4407a4661447de9db1d43a9fea",
+  "text_sha256": "2deea97271e96e9e7a07adc28d622331c0356270d66b7508473aae235c0d293a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/10/09/26668-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071009-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
