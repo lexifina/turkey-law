@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5690",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Yunanistan Cumhuriyeti Hükümeti Arasında Sağlık Alanında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-10-10",
+  "gazette_issue": "26669",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071010-1.htm",
+  "source_sha256": "cde5a7c8b35d9da2f4c8ad87fa05fb22bfcf39ff93e4cdf360db7a57f1fe2cf2",
+  "text_sha256": "ad730e3bc56c833068ac1e30ca402dd23a828fe75117573a08aa3e2291ad8662",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/10/10/26669-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071010-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
