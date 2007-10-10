@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2007-10-10",
+      "10.10.2007",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "26669",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2007-10-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/2007/11653",
+  "published": "2007-10-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=11653&MevzuatTertip=5",
+  "source_bytes": 20131,
+  "source_id": "8.5.11653",
+  "source_sha256": "b8073b30916ed38b9d8892297386319ee2cff2a9540f3f948e87bff5c2f64ff7",
+  "text_status": "as-enacted",
+  "title": "GAZİANTEP ÜNİVERSİTESİ TOPLUMSAL VE EKONOMİK ARAŞTIRMALAR MERKEZİ YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 721
+}
