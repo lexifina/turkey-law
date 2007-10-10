@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5692",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Fildişi Sahili (Kotdivuar) Cumhuriyeti Hükümeti Arasında Ekonomik ve Teknik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-10-10",
+  "gazette_issue": "26669",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071010-3.htm",
+  "source_sha256": "5fd6e67550bf183702efd33a531c99f31df37553b19f3b15d0267b1a45380597",
+  "text_sha256": "61f50bcc332fd8511628a1b9aae0fbaf40621a5a691f1e54936af56641c3973e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/10/10/26669-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071010-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
