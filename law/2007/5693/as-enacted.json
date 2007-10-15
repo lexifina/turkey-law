@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5693",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti ile Slovakya Cumhuriyeti Arasında Hukuki ve Ticari Konularda Adli İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-10-15",
+  "gazette_issue": "26671",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071015-1.htm",
+  "source_sha256": "9dac55bb87d0988c12753f2f892d890f049c18ebc9e1c1aa3c0a1e0fe9be1e55",
+  "text_sha256": "491cc2c3a81ea8d22bb40ef97443b089e9bead9ab4217e5c2a35a3ff24cf5da2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/10/15/26671-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071015-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
