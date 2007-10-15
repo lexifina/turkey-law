@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5696",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Moğolistan Hükümeti Arasında Sağlık Alanında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-10-15",
+  "gazette_issue": "26671",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071015-4.htm",
+  "source_sha256": "11274bb2a03c5afa10acc82eeb56af043c6698a5329222bd0b43ca70e6034f06",
+  "text_sha256": "5c28fa555b7a4387e709689ce192400f1a6dd71cb8f526bc2e5ff4cae3bee654",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/10/15/26671-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071015-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
