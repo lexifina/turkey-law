@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5694",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Afganistan İslam Cumhuriyeti Hükümeti Arasında Tarım Alanında Teknik, Bilimsel ve Ekonomik İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-10-15",
+  "gazette_issue": "26671",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071015-2.htm",
+  "source_sha256": "e61d93919b8172116fa2c902d2707b812f59f4fe2df7e1950df5137f04a2218a",
+  "text_sha256": "3f7a32ff3eb06bd4fd3d9d448a260c7d8878310fa34dcee50b1c894f0fb81ed4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/10/15/26671-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071015-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
