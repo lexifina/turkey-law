@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29560",
+  "decision_date": "2007-10-16",
+  "source_id": 1657,
+  "chamber": "6",
+  "file_number": "29069",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1657/",
+  "source_sha256": "d441d3595dce0e23a71f5b4e67a187ea704ebb491279334aa5ba1d94021c54a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
