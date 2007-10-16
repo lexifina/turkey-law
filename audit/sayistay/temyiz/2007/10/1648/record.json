@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29551",
+  "decision_date": "2007-10-16",
+  "source_id": 1648,
+  "chamber": "6",
+  "file_number": "29073",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1648/",
+  "source_sha256": "899e7d5e5b0aafbdad7dabef0429973ad5e77db3b4f7e8a4d5efea035d9a8887",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
