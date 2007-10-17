@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-10-17",
+  "issue": "26673",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "5697 Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanunda Değişiklik Yapılması Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071017-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071017.htm",
+  "index_sha256": "8d798a1e0ced1681c9e9868c73f91648c17027ff4b1cf60a1ade6042d735b307",
+  "index_header": "17 Ekim 2007 ... 26673 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
