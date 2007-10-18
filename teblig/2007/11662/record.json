@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11662",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 376)",
+  "number": "11662",
+  "path": "teblig/2007/11662",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11662&MevzuatTertip=5",
+  "source_sha256": "a2d354f3ad55bcb16347fa5e15271967530d3a3407eab556b75e7946ca278943",
+  "source_bytes": 11864,
+  "published": "2007-10-18",
+  "gazette": "26674",
+  "in_force": "2007-10-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.10.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 417,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
