@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-10-19",
+  "issue": "26675",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Mecburi Standard: ÖSG-2007/36 Sayılı Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071019-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071019.htm",
+  "index_sha256": "e0ed41ce7cb861a6395661e741bdee61c53cb07c4fa38ea44f74dde9e5b1249d",
+  "index_header": "19 Ekim 2007 ... 26675 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
