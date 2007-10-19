@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2007/863",
+  "list_number": "863",
+  "decision_date": "2007-10-19",
+  "title": "YSK ilke kararı 2007/863",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3256/2007-863-karar.htm",
+  "source_sha256": "045c64c06648b28028b5c120f1b6d1dab8f97d229e60ab60bf8a9a8c14f7dae6",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2007-10-19",
+  "law_text_complete": false
+}
