@@ -1,0 +1,2 @@
+MADDE 11 – (1) 30/12/2006 tarihli ve 26392 sayılı Resmî Gazete’de yayımlanan (2007/5) sayılı Dış Ticarette Standardizasyon Tebliği ile 12/1/2007 tarih ve 26401 sayılı Resmi Gazete’de yayımlanan (2007/18) sayılı Dış Ticarette Standardizasyon Tebliğinde Değişiklik Yapılması Hakkında Tebliğ yürürlükten kaldırılmıştır.
+(2) (2006/5) ve (2007/5) sayılı Dış Ticarette Standardizasyon Tebliğleri kapsamında alınmış bulunan Kontrol Belgeleri, alındıkları tarihten itibaren, mezkûr Tebliğlerde belirlenen süre kadar geçerlidir.

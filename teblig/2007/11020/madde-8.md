@@ -1,0 +1,1 @@
+MADDE 8 – (1) Tarım ve Köyişleri Bakanlığı ile Gümrük Müsteşarlığı arasında yapılacak olan protokol çerçevesinde, bu Tebliğ kapsamındaki maddelerin ithalatına ilişkin olarak gerekli bilgiler Gümrük Müsteşarlığı tarafından Tarım ve Köyişleri Bakanlığı’na iletilir.

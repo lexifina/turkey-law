@@ -1,0 +1,1 @@
+MADDE 4 – (1) Bu Tebliğ kapsamında (Ek I, Ek II A-B-C ve Ek III sayılı listeler hariç) yapılacak işlemlerde gerek Kontrol Belgelerinin, gerekse diğer belgelerin ilgili gümrük idaresine sunulmasından işlemi gerçekleştirmekle yükümlü kişiler sorumlu olup, bir belgenin ibraz edilmediği durumlarda gümrük idarelerince herhangi bir belge aranmaz.
