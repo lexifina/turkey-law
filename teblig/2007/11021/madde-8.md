@@ -1,0 +1,1 @@
+MADDE 8 – (1) Sağlık Bakanlığı ile Gümrük Müsteşarlığı arasında yapılacak olan protokol çerçevesinde, bu Tebliğ kapsamındaki maddelerin ithalatına ilişkin olarak gerekli bilgiler Gümrük Müsteşarlığı tarafından Sağlık Bakanlığı’na iletilir.

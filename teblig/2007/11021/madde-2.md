@@ -1,0 +1,4 @@
+MADDE 2 – (1) Sanayicilerin (ilaç sanayii hariç) kendi ihtiyaçları için ekli listeden (Ek III) yapacakları ithalatta Kontrol Belgesi ibrazı zorunlu değildir.
+(2) Ekli listelerde (Ek II/A-B-C ve Ek III) yer alan ürünlerin laboratuvarlarda (tıp laboratuvarlarında tanı amacı ile kullanılanlar hariç) analiz amacıyla kullanılacak olması halinde veya vücut dışında kullanılan tıbbî tanı ürünlerinin araştırma amacıyla kullanılmak üzere ithal edilecek olması halinde, bu ürünlerin ithali sırasında Kontrol Belgesi ibrazı zorunlu değildir.
+(3) Ekli listelerde (Ek II/A-B) yer alan maddelerin ilaç, ilaç hammaddesi, ilaç yardımcı maddesi sanayiine verilmeyeceğinin belirtilmesi halinde, bu ürünlerin ithali sırasında Kontrol Belgesi ibrazı zorunlu değildir.
+(4) Ekli listede (Ek III) yer alan maddelerin karşılarında belirtilen amaçlar dışında kullanılmak üzere ithal edilmesi halinde, bu ürünlerin ithali sırasında Kontrol Belgesi ibrazı zorunlu değildir.
