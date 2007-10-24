@@ -1,0 +1,4 @@
+Damping iddiası
+MADDE 4 – (1) ÇHC’nin piyasa ekonomisi uygulamayan bir ülke olarak değerlendirilmesi nedeniyle, Yönetmelik’in 7 nci maddesi uyarınca şikâyet konusu malın Türkiye’deki üretim maliyetine makul bir kâr miktarı eklenmek suretiyle hesaplanan oluşturulmuş değer, normal değer olarak alınmıştır. Normal değer fabrika çıkış aşamasında tespit edilmiştir.
+(2) Naylon (poliamid) ipliklerin ÇHC’den Türkiye’ye ihraç fiyatı için ise, TÜİK ithalat istatistiklerinde yer alan ortalama CIF fiyatları baz alınmıştır. Tespit edilen CIF değer üzerinden navlun ve sigorta giderleri düşülmek suretiyle FOB ihraç fiyatına ulaşılmıştır. Başka bir ayarlama yapılmamış ve bu fiyatın fabrika çıkış aşamasında olduğu kabul edilmiştir.
+(3) Fiyat karşılaştırması, mümkün olduğu ölçüde aynı ticari aşamada, normal değer ile Türkiye’ye ihraç fiyatı üzerinden yapılmış ve bu suretle hesaplanan damping marjının önemli oranda olduğu görülmüştür.

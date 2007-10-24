@@ -1,0 +1,5 @@
+Başvuru konusu madde
+MADDE 2 – (1) Başvuru konusu naylon (poliamid) iplikler petrolden üretilen kaprolaktamın polimerizasyon ürünüdür. Piyasada poliamid muss iplik veya naylon muss iplik olarak da bilinir. Yüzeyi pürüzsüz ve silindirik yapıdadır. Şikayet başvuru dosyasında yer alan bilgilere göre, söz konusu ürünlerin erime noktası 210–230 derece, kopma mukavemeti 4.8-6 gr/denye, yoğunluğu ise 1.14-1.15 gr/cm3 arasında yer almaktadır. Uzama elastikiyeti yüksektir. Nem alma oranı pamuğun nem alma oranına çok yakındır. Esnek ve dökümlüdür. Rezilyensi (yaylanma) iyi olup yıkanabilir ve kırışmazdır. İpeğimsi tutuma sahiptir. Kalıcı bükülme dayanımına sahiptir.
+(2) Başvuru konusu naylon (poliamid) iplikler, ince çoraplar, iç çamaşırı, mayo, korse, bayan elbiseleri, gömlek, bluz, spor giysi, dikiş ipliği ve astarlık kumaş gibi ürünlerin imalatında kullanılabilmektedir.
+(3) Başvuru konusu madde, 5402.31 Gümrük Tarife Pozisyonu (GTP) altında naylon veya diğer poliamidlerden tek katının her biri 50 teksi geçmeyen tekstürize iplikler tanımı ile yer almaktadır.
+(4) Bu aşamada belirtilen GTP bilgi amaçlı verilmiş olup, bağlayıcı değildir.

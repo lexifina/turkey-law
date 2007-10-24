@@ -1,0 +1,4 @@
+İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (2007/15)
+Başvuru
+MADDE 1 – (1) 4412 sayılı Kanunla değişik 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 20/10/1999 tarihli ve 99/13482 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999 tarih ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik (Yönetmelik) hükümleri çerçevesinde yerli üretici Sifaş Sentetik İplik Fabrikaları A.Ş., Çin Halk Cumhuriyeti (ÇHC) menşeli "naylon veya diğer poliamidlerden tek katının her biri 50 teksi geçmeyen tekstürize iplikler"in Türkiye’ye dampingli fiyatlarla ithal edildiği ve bu durumun yerli üretime zarar verdiği iddiasıyla bu ülke menşeli söz konusu maddenin ithalatına karşı önlem alınması istemiyle başvuruda bulunmuştur.
+(2) Söz konusu başvuru, diğer naylon (poliamid) iplik üreticilerinden Altın İplik ve Çorap Sanayi A.Ş. tarafından da desteklenmektedir.
