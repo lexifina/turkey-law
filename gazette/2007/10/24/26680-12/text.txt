@@ -1,0 +1,409 @@
+24 Ekim 2007 ÇARŞAMBA
+Resmî
+Gazete
+Sayı : 26680
+YÖNETMELİK
+Telekomünikasyon
+Kurumundan:
+TELEKOMÜNİKASYON
+KURUMU TARAFINDAN ERİŞİM SAĞLAYICILARA
+VE YER
+SAĞLAYICILARA FAALİYET BELGESİ VERİLMESİNE
+İLİŞKİN
+USUL VE ESASLAR HAKKINDA YÖNETMELİK
+BİRİNCİ
+BÖLÜM
+Amaç ve
+Kapsam, Dayanak ve Tanımlar
+Amaç ve kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı; Telekomünikasyon Kurumu
+tarafından erişim sağlayıcılara ve yer sağlayıcılara faaliyet belgesi
+verilmesine ilişkin usul ve esasları düzenlemektir.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 4/5/2007 tarihli ve 5651 sayılı
+İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla
+İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanunun 10 uncu maddesinin
+dördüncü fıkrasının (ç) bendi, 11 inci maddesinin ikinci fıkrası ve Geçici 1
+inci maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Yönetmeliğin uygulanmasında,
+a)
+Abone: Herhangi bir sözleşme ile erişim sağlayıcılarından internet ortamına
+bağlanma hizmeti alan gerçek veya tüzel kişileri,
+b)
+Başkanlık: Telekomünikasyon İletişim Başkanlığını,
+c)
+Bilgi: Verilerin anlam kazanmış biçimini,
+ç)
+Dosya bütünlük değeri: Bir bilgisayar dosyasının içindeki bütün verilerin
+matematiksel bir işlemden geçirilmesi sonucu elde edilen ve dosyanın
+içerisindeki verilerde bir değişiklik yapılıp yapılmadığını kontrol için
+kullanılan dosyanın özünü belirten değeri,
+d)
+Erişim: Herhangi bir vasıtayla internet ortamına bağlanarak kullanım olanağı
+kazanılmasını,
+e)
+Erişim sağlayıcı: 5651 sayılı Kanunun 2 nci maddesinde tanımlanan erişim
+sağlayıcıyı,
+f)
+Erişim sağlayıcı trafik bilgisi: İnternet ortamına erişime ilişkin olarak
+abonenin adı, adı ve soyadı, adresi, telefon numarası, abone başlangıç
+tarihi, abone iptal tarihi, sisteme bağlantı tarih ve saat bilgisi, sistemden
+çıkış tarih ve saat bilgisi, ilgili bağlantı için verilen IP adresi ve
+bağlantı noktaları gibi bilgileri,
+g)
+Faaliyet Belgesi: Erişim sağlayıcı veya yer sağlayıcı olarak faaliyette
+bulunabilmek için Kurum tarafından verilen 5651 sayılı Kanun kapsamındaki
+yetkilendirmeyi içeren belgeyi,
+ğ)
+Genel izin: Bir telekomünikasyon hizmetinin yürütülmesi için, Kurum
+tarafından işletmecileri belirli genel şartlara ve Kurum nezdinde kayıt
+yaptırılmasına tâbi olarak yetkilendiren genel düzenleyici işlemi,
+h)
+IP Adresi: Belirli bir ağa bağlı cihazların birbirini tanımak, birbirleriyle
+iletişim kurmak ve veri alışverişinde bulunmak için kullandıkları İnternet
+Protokolü standartlarına göre verilen adresi,
+ı)
+İçerik sağlayıcı: İnternet ortamı üzerinden kullanıcılara sunulan her türlü bilgi
+veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişileri,
+i)
+İmtiyaz sözleşmesi: İşletmeci tarafından söz konusu imtiyaz sözleşmesinde
+belirtilen telekomünikasyon hizmetlerinin yürütülmesi ve/veya altyapısının
+işletilmesi için Kurum ve işletmeci arasında yapılan sözleşmeyi,
+j)
+İnternet ortamı: Haberleşme ile kişisel veya kurumsal bilgisayar sistemleri
+dışında kalan ve kamuya açık olan internet üzerinde oluşturulan ortamı,
+k)
+İşletmeci: Kurum ile yapılan bir görev sözleşmesi, imtiyaz sözleşmesi ve/veya
+Kurumdan alınan bir telekomünikasyon ruhsatı ya da genel izin kapsamında
+yapılan bir kayıtlanma uyarınca telekomünikasyon hizmetleri yürüten ve/veya
+telekomünikasyon altyapısı işleten bir sermaye şirketini,
+l)
+İzleme: İnternet ortamındaki verilere etki etmeksizin bilgi ve verilerin
+takip edilmesini,
+m)
+Kullanıcı: Aboneliği olup olmamasına bakılmadan internetten yararlanan gerçek
+veya tüzel kişileri,
+n)
+Kurum: Telekomünikasyon Kurumunu,
+o)
+Kurul: Telekomünikasyon Kurulunu,
+ö)
+Sabit IP Adresi: Belirli bir ağa bağlı cihazların ağ üzerinden birbirleriyle
+iletişim kurmak ve birbirlerine veri alışverişinde bulunmak için
+kullandıkları, zamana, oturuma göre değişmeyen ve sistem yöneticisi
+tarafından belirlenip tanımlanan ve değiştirilebilen IP adresini,
+p)
+Ticari amaçla internet toplu kullanım sağlayıcı: İnternet salonu ve benzeri
+umuma açık yerlerde belirli bir ücret karşılığı internet toplu kullanım
+sağlayıcılığı hizmeti veren veya bununla beraber bilgisayarlarda bilgi ve
+beceri artırıcı veya zekâ geliştirici nitelikteki oyunların oynatılmasına
+imkân sağlayanı,
+r)
+Telekomünikasyon ruhsatı: İşletmeci tarafından söz konusu telekomünikasyon
+ruhsatında belirtilen telekomünikasyon hizmetlerinin yürütülmesi ve/veya
+altyapısının işletilmesi için Kurum tarafından verilen ruhsatı,
+s)
+Veri: Bilgisayar tarafından üzerinde işlem yapılabilen her türlü değeri,
+ş)
+Yer sağlayıcı: İnternet ortamında hizmet ve içerikleri barındıran sistemleri
+sağlayan veya işleten gerçek veya tüzel kişileri,
+t)
+Yer sağlayıcı trafik bilgisi: İnternet ortamındaki her türlü yer sağlamaya
+ilişkin olarak; kaynak IP adresi, hedef IP adresi, bağlantı tarih-saat
+bilgisi, istenen sayfa adresi, işlem bilgisi (GET, POST komut detayları) ve
+sonuç bilgisi gibi bilgileri,
+u)
+Yetkilendirme: Kurum tarafından, telekomünikasyon hizmetinin yürütülmesi
+ve/veya altyapısının kurulması ve işletilmesi için sermaye şirketlerine
+verilen lisans veya genel izin ile bunların verilmesi işlemini
+ifade
+eder.
+(2)
+Bu Yönetmelikte geçen ve yukarıda yer almayan tanımlar için, ilgili mevzuatta
+yer alan tanımlar geçerlidir.
+İKİNCİ
+BÖLÜM
+Faaliyet
+Belgesi
+Faaliyet belgesi
+MADDE 4 – (1) Türkiye Cumhuriyeti sınırları içerisinde erişim
+sağlayıcı olmak isteyen sermaye şirketleri ile yer sağlayıcı olarak faaliyet
+göstermek isteyen gerçek veya tüzel kişiler, hizmet vermeye başlamadan önce
+Kurum tarafından düzenlenecek faaliyet belgesini almakla yükümlüdür.
+(2)
+Faaliyet belgesi; erişim sağlayıcı faaliyet belgesi ve yer sağlayıcı faaliyet
+belgesi olmak üzere iki şekilde düzenlenir.
+(3)
+Türkiye Cumhuriyeti sınırları içerisinde, yer sağlayıcı faaliyet belgesi
+almaksızın yer sağlayıcılığı faaliyetinde bulunanların internet erişim
+hizmeti, Başkanlık kararıyla ilgili erişim sağlayıcı tarafından durdurulur.
+Faaliyet belgesi süresi
+MADDE 5 – (1) Erişim sağlayıcı faaliyet belgesi, erişim
+sağlayıcının Kurum tarafından telekomünikasyon hizmeti sunma konusunda
+yetkilendirildiği süre kadar geçerlidir.
+(2)
+Yer sağlayıcı faaliyet belgesi, düzenlendiği tarihten itibaren beş yıl
+süreyle geçerlidir.
+Başvuru ve faaliyet belgelerinin
+ayrıştırılması
+MADDE 6 – (1) Erişim sağlayıcısı olmak isteyen sermaye
+şirketleri ile yer sağlayıcısı olmak isteyen gerçek veya tüzel kişiler faaliyet
+belgesi için ayrı ayrı başvuru yapar ve faaliyet belgesi alırlar.
+Erişim ve yer sağlayıcıların ilan
+edilmesi
+MADDE 7 – (1) Kurum, erişim sağlayıcıları ve yer
+sağlayıcılarının listesini, Kurumun internet sitesinde güncel olarak ilan
+eder.
+ÜÇÜNCÜ
+BÖLÜM
+Faaliyet
+Belgesi Verilmesine İlişkin Usul ve Esaslar
+Başvuru sahibinde bulunması
+gereken şartlar
+MADDE 8 – (1) Erişim sağlayıcısı faaliyet belgesi için başvuru
+yapacak sermaye şirketi olan tüzel kişilerin hisselerinden en az yüzde beş
+(%5)’ine sahip ortaklarda ve tüzel kişiliği idare ve temsile yetkili
+kişilerde 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununda
+belirtilen suçlar ile 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununda
+yer alan Millete ve Devlete karşı işlenen suçlardan hürriyeti bağlayıcı ceza
+ile hüküm giymiş olmaması şartı aranır.
+(2)
+Yabancılar bakımından, yer sağlayıcı faaliyet belgesi için başvuru yapacak
+gerçek veya tüzel kişilerde Türkiye Cumhuriyeti vatandaşı yetkili kişi
+aracılığıyla başvuru yapması şartı aranır.
+Faaliyet belgesi başvuru usulü
+MADDE 9 – (1) Erişim sağlayıcı olmak isteyen başvuru sahibi,
+telekomünikasyon hizmetine ilişkin yetkilendirme başvurusunu yaparken, erişim
+sağlayıcı faaliyet belgesini de almak için Ek 3’te yer alan başvuru dilekçesi
+ve bu dilekçeye ekleyeceği Ek 4’te yer alan başvuru formunu Kurumun internet
+adresinden doldurarak elektronik ortamda gönderir. Başvuru sahibi söz konusu
+belgeleri bir hafta içinde Kuruma elden teslim etmek ya da iadeli taahhütlü
+posta yoluyla göndermekle yükümlüdür.
+(2)
+Yer sağlayıcı olmak isteyen başvuru sahibi, yer sağlayıcılığı faaliyetine
+başlamadan önce Ek 5’te yer alan başvuru dilekçesi ve bu dilekçeye ekleyeceği
+Ek 6’da yer alan başvuru formunu Kurumun resmi internet adresinden doldurarak
+elektronik ortamda göndermek suretiyle bildirim yapar. Başvuru sahibi söz
+konusu belgeleri bir hafta içinde Kuruma elden teslim etmek ya da iadeli
+taahhütlü posta yoluyla göndermekle yükümlüdür.
+(3)
+Kurum, bu başvurular kapsamında ilgili eklerde belirtilenlerin yanı sıra
+gerekli gördüğü başka bilgi ve belgeleri de isteyebilir.
+Faaliyet belgesi verilmesi usulü
+MADDE 10 – (1) Erişim sağlayıcı ve/veya yer sağlayıcı olmak
+isteyen başvuru sahibinin aynı zamanda telekomünikasyon hizmetleri sunumuna
+yönelik yetkilendirme için Kuruma başvuru yapmış olması halinde, telekomünikasyon
+hizmetleri sunumuna yönelik yetkilendirme başvurusu ile faaliyet belgesi
+başvuruları birlikte değerlendirilerek Ek 1 ve Ek 2’de yer alan ilgili
+faaliyet belgesi Kurum tarafından düzenlenerek işletmeciye gönderilir.
+(2)
+Erişim sağlayıcı olmak isteyen başvuru sahibinin aynı zamanda Kablolu ve
+Kablosuz İnternet Servis Sağlayıcılığı kapsamında kayıtlanması halinde, bu
+kayıtlama bildirimi erişim sağlayıcılığı faaliyet belgesi yerine de geçecek
+olup ayrıca bir belge düzenlenmez.
+(3)
+Yer sağlayıcı olmak isteyen başvuru sahibinin telekomünikasyon hizmetleri
+sunumuna yönelik olarak Kurum tarafından yetkilendirilmiş veya
+yetkilendirilmesi gereken bir işletmeci olmaması halinde, faaliyet belgesine
+ilişkin yapacağı eksiksiz bildirimi müteakip bir ay içerisinde faaliyet
+belgesi ilgiliye gönderilir.
+Faaliyet belgesinin devri
+MADDE 11 – (1) İşletmeci, telekomünikasyon hizmetleri sunumuna
+yönelik yetkilendirmesini devretmek istemesi durumunda erişim sağlayıcılığı
+faaliyet belgesini de devretmekle yükümlüdür.
+(2)
+İşletmeci, erişim sağlayıcılığı faaliyet belgesini devralacak şirketin, 8
+inci maddede yer alan şartları
+taşıdığına dair bilgi ve belgelerin yanı sıra Kurumca istenecek diğer bilgi
+ve belgelerle birlikte devir izni için başvurur.
+(3)
+Erişim sağlayıcılığı faaliyet belgesi, Kurumun telekomünikasyon hizmetleri
+sunumuna yönelik yetkilendirmenin devrini uygun bulduğuna yönelik yazılı izin
+vermesi halinde, bu izni müteakip bir ay içerisinde telekomünikasyon
+hizmetleri sunumuna yönelik yetkilendirmenin devredileceği şirket adına
+düzenlenir.
+Faaliyet belgesinin yenilenmesi
+MADDE 12 – (1) Telekomünikasyon hizmetleri sunumuna yönelik
+yetkilendirmesi sona erecek erişim sağlayıcının, yeniden yetkilendirme
+başvurusunda bulunması üzerine, başvurunun eksiksiz olduğunun tespitini
+müteakip, Kurum tarafından yetkilendirilmesi ile birlikte faaliyet belgesi de
+düzenlenir.
+(2)
+Yer sağlayıcısı, faaliyet belgesinin süresinin sona ermesinden en az bir ay
+önce Ek 5’te yer alan başvuru dilekçesi ve bu dilekçeye ekleyeceği Ek 6’da
+yer alan başvuru formunu Kurumun resmi internet adresinden doldurarak
+elektronik ortamda göndermek suretiyle bildirim yapar. Başvuru sahibi söz
+konusu belgeleri bir hafta içinde Kuruma elden teslim etmek ya da iadeli
+taahhütlü posta yoluyla Kuruma göndermek suretiyle başvuru yaparak faaliyet
+belgesini yenilemekle yükümlüdür.
+Faaliyetlerin sona ermesi
+MADDE 13 – (1) Erişim sağlayıcı, faaliyetlerini sona erdirmek
+istemesi halinde, faaliyetine son vereceği tarihten en az üç ay önce
+telekomünikasyon hizmetleri sunumuna yönelik yetkilendirmesinin ve faaliyet
+belgesinin iptal edilmesi için Kuruma başvurmakla yükümlüdür.
+(2)
+Yer sağlayıcı, faaliyetlerini sona erdirmek istemesi halinde, faaliyetine son
+vermeden en az üç ay önce faaliyet belgesinin iptal edilmesi için Kuruma
+başvurmakla yükümlüdür.
+(3)
+Faaliyetini sona erdiren erişim sağlayıcı, internet ortamında
+gerçekleştirilen her türlü erişim hizmetine ilişkin olarak son bir yıla ait
+erişim sağlayıcı trafik bilgilerini Kuruma teslim etmekle yükümlüdür.
+DÖRDÜNCÜ
+BÖLÜM
+Erişim ve
+Yer Sağlayıcıların Yükümlülükleri
+Bilgilendirme yükümlülüğü
+MADDE 14 – (1) Erişim sağlayıcıları ve yer sağlayıcıları
+aşağıda belirtilen tanıtıcı bilgilerini kendilerine ait internet ortamında,
+kullanıcıların ana sayfadan doğrudan ulaşabileceği şekilde, iletişim başlığı
+altında, doğru, eksiksiz ve güncel olarak bulundurmakla yükümlüdür.
+a)
+Gerçek kişi ise; adı ve soyadı, tüzel kişi ise unvanı ve sorumlu kişiler,
+vergi kimlik numarası veya ticaret sicil numarası,
+b)
+Yerleşim yeri, tüzel kişi ise merkezinin bulunduğu yer,
+c)
+Elektronik iletişim adresi ve telefon numarası,
+ç)
+Sunduğu hizmet bir merciin iznine veya denetimine tabi bir faaliyet
+çerçevesinde yapılıyor ise yetkili denetim merciine ilişkin bilgiler.
+(2)
+Yer sağlayıcı faaliyetini sona erdirmek istediğinde Kuruma yapacağı bildirimi
+müteakip, hizmetlerine son vereceğini kullanıcıların ulaşacağı şekilde ana
+sayfasından duyurur.
+Erişim sağlayıcının
+yükümlülükleri
+MADDE 15 – (1) Erişim sağlayıcı;
+a)
+Herhangi bir kullanıcısının yayınladığı hukuka aykırı içerikten, 5651 sayılı
+Kanun ve ilgili mevzuat hükümlerine göre Başkanlıkça haberdar edilmesi
+halinde ve teknik olarak engelleme imkânı bulunduğu ölçüde erişimi
+engellemekle,
+b)
+Sağladığı hizmetlere ilişkin olarak, Başkanlığın Kanunla verilen görevlerini
+yerine getirebilmesi için; erişim sağlayıcı trafik bilgisini bir yıl
+saklamakla, bu bilgilerin doğruluğunu, bütünlüğünü oluşan verilerin dosya
+bütünlük değerlerini (hash) zaman damgası ile birlikte muhafaza etmek ve
+gizliliğini temin etmekle, Başkanlığın 5651 sayılı Kanunla verilen görevleri
+yerine getirebilmesi için yapacağı trafik izlemesinde Başkanlığa gerekli
+yardım ve desteği sağlamakla, faaliyet belgesinde yer alan Başkanlığın uygun
+gördüğü bilgileri talep edildiğinde
+bildirmekle ve ticari amaçla
+internet toplu kullanım sağlayıcılar için belirli bir IP bloğundan sabit IP
+adres planlaması yapmakla ve bu bloktan IP adresi vermekle,
+c)
+Faaliyetine son vereceği tarihten en az üç ay önce, durumu Kuruma, içerik sağlayıcılarına
+ve müşterilerine bildirmekle, Kuruma bildirilen kapanma tarihinden geriye
+doğru bir yıllık süredeki trafik bilgilerine ilişkin bütün kayıtları metin
+dosyası olarak, log formatlarını açıklamalarıyla birlikte, abone kütük
+bilgilerini Başkanlığa cd, dvd gibi optik medya ortamında teslim etmekle,
+ç)
+Faaliyete başlamasından itibaren her ay düzenli olarak, her erişim yöntemine
+ilişkin kullanacağı erişim numaralarını ve toptan hizmet verdiği abonelere
+ilişkin bilgileri Başkanlığa göndermekle,
+d) Başkanlık
+ile aralarındaki bağlantıdan erişimi engellenecek adreslere ilişkin
+gönderilecek bilgileri kendi sistemlerinde derhal uygulanabilmesi için,
+gerekli olan donanım ve yazılımı kurarak lazım olan düzenlemeleri yapmakla
+yükümlüdür.
+(2)
+Erişim sağlayıcı, verdiği hizmeti kullananlara ilişkin bilgilerin başkaları
+tarafından elde edilmesini ilgili mevzuatta belirlenen esas ve usullere uygun
+olarak engeller.
+(3)
+Erişim sağlayıcı, kendisi aracılığıyla erişilen bilgilerin içeriklerinin
+hukuka aykırı olup olmadıklarını ve sorumluluğu gerektirip gerektirmediğini
+kontrol etmekle yükümlü değildir.
+Yer sağlayıcının yükümlülükleri
+MADDE 16 – (1) Yer sağlayıcı;
+a)
+Yer sağladığı hukuka aykırı içerikten, ceza sorumluluğu ile ilgili hükümler
+saklı kalmak kaydıyla, 5651 sayılı Kanun ve ilgili mevzuat hükümlerine göre
+Başkanlık, adli makamlar veya hakları ihlal edilen kişiler tarafından
+haberdar edilmesi halinde ve teknik olarak engelleme imkânı bulunduğu ölçüde
+hukuka aykırı içeriği yayından kaldırmakla,
+b)
+Sunucu barındırma hizmeti dâhil, diğer bütün hizmetlerinde (a) bendindeki
+hükümlere uymakla,
+c)
+Yer sağlayıcı trafik bilgisini altı ay saklamakla, bu bilgilerin doğruluğunu,
+bütünlüğünü oluşan verilerin dosya bütünlük değerlerini (hash) zaman damgası
+ile birlikte saklamak ve gizliliğini temin etmekle
+yükümlüdür.
+(2)
+Yer sağlayıcı, yer sağladığı içeriği kontrol etmek veya hukuka aykırı bir
+faaliyetin söz konusu olup olmadığını araştırmakla yükümlü değildir.
+Bilgilerin güncellenmesi
+MADDE 17 – (1) Erişim sağlayıcı veya yer sağlayıcı Ek 4 ve Ek
+6’daki bilgilerinde meydana gelen değişiklikleri en geç bir ay içerinde
+Kuruma bildirmekle yükümlüdür.
+BEŞİNCİ
+BÖLÜM
+Yaptırımlar
+İdari para cezaları
+MADDE 18 – (1) 5651 sayılı Kanun gereğince, 14 üncü maddede belirtilen
+yükümlülüğü yerine getirmeyen erişim sağlayıcıya veya yer sağlayıcıya
+Başkanlık tarafından ikibin Yeni Türk Lirasından onbin Yeni Türk Lirasına
+kadar idarî para cezası verilir.
+(2)
+15 inci maddenin birinci fıkrasının (b) ve (c) bentlerinde yer alan
+yükümlülüklerden birini yerine getirmeyen erişim sağlayıcısına, Başkanlık
+tarafından onbin Yeni Türk Lirasından ellibin Yeni Türk Lirasına kadar idarî
+para cezası verilir.
+Faaliyet belgesinin iptali
+MADDE 19 – (1) İşletmecinin erişim sağlayıcılığı faaliyet
+belgesinin 5651 sayılı Kanun ve ilgili mevzuat hükümleri uyarınca iptali
+halinde, bu işletmecinin Kablolu ve Kablosuz İnternet Servis Sağlayıcısı
+olması halinde, bu telekomünikasyon hizmeti sunumuna yönelik genel izni Kurum
+tarafından iptal edilir. İşletmecinin, bunun dışında bir telekomünikasyon
+hizmeti sunumuna yönelik yetkilendirme ile erişim sağlayıcılığı hizmeti
+sunuyor olması halinde ise, yetkilendirmesi kapsamındaki erişim sağlayıcılığı
+hizmetleri askıya alınır. Bu durumda işletmeci erişim sağlayıcı
+faaliyetlerini derhal durdurmakla yükümlüdür.
+(2)
+Erişim sağlayıcılığı faaliyet belgesinin iptali, yeniden telekomünikasyon
+hizmetleri sunumuna yönelik yetkilendirme ve faaliyet belgesi başvurusu
+yapmaya engel teşkil etmez.
+(3)
+Türkiye Cumhuriyeti sınırları içerisindeki yerleşik yer sağlayıcısının bu
+Yönetmelikteki yükümlülüklerini yerine getirmemesi halinde faaliyet belgesi
+Kurum tarafından iptal edilebilir. Bu durumda, Başkanlık kararıyla ilgili yer
+sağlayıcının almakta olduğu internet erişim hizmeti erişim sağlayıcı
+tarafından durdurulur.
+ALTINCI
+BÖLÜM
+Çeşitli ve
+Son Hükümler
+Hüküm bulunmayan haller
+MADDE 20 – (1) Bu Yönetmelikte hüküm bulunmayan hallerde
+26/8/2004 tarih ve 25565 sayılı Resmî Gazete’de yayımlanan Telekomünikasyon
+Hizmet ve Altyapılarına İlişkin Yetkilendirme Yönetmeliği uygulanır.
+Mevcut erişim ve yer sağlayıcılar
+GEÇİCİ MADDE 1 – (1) Halen yer veya erişim sağlayıcı olarak faaliyet
+icra eden kişilere, Kurum tarafından, telekomünikasyon yoluyla iletişim
+konusunda yetkilendirmesi olup olmadığına bakılmaksızın, yer veya erişim
+sağlayıcı olarak faaliyet icra etmesi amacıyla bir faaliyet belgesi
+düzenlenir.
+(2)
+Erişim sağlama yetkisi bulunan mevcut işletmecilere, bu Yönetmeliğin
+yayımlandığı tarihten itibaren bir ay içerisinde erişim sağlayıcılığı
+faaliyet belgesi, Kurum tarafından resen düzenlenerek gönderilir. Mevcut
+Kablolu ve Kablosuz İnternet Servis Sağlayıcılığı kapsamında kayıtlanmış
+işletmecilere ise aynı süre zarfında ayrıca erişim sağlayıcı faaliyet belgesi
+düzenlenmeksizin bu yetkiye sahip olduğu yazı ile bildirilir.
+(3)
+Mevcut yer sağlayıcılar, bu Yönetmeliğin yayımlandığı tarihten itibaren üç ay
+içerisinde 9 uncu maddenin ikinci fıkrası uyarınca Kuruma başvuru yapmak
+suretiyle yer sağlayıcılığı faaliyet belgesi almakla yükümlüdürler.
+(4)
+Kurumla görev sözleşmesi imzalamak suretiyle hizmet sunan işletmeciler
+bakımından 8 inci maddedeki şartlar aranmaz.
+Yürürlük
+MADDE 21 – (1) Bu Yönetmelik yayımlandığı tarihte yürürlüğe
+girer.
+Yürütme
+MADDE 22 – (1) Bu Yönetmelik
+hükümlerini Telekomünikasyon Kurulu Başkanı yürütür.
+Ekleri İçin Tıklayınız
