@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-10-25",
+  "issue": "26681",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2007/12641 Karadeniz Ekonomik İşbirliği Ülkeleri Hükümetleri Arasında Doğal ve İnsanlardan Kaynaklanan Afetlerde Acil Yardım ve Acil Müdahale Anlaşmasına Ek Protokol’ün Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071025-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071025.htm",
+  "index_sha256": "36773b1e11cfbd34fbce538690b8b9ba57e406acc47bcc02ce47a95eb0b6c808",
+  "index_header": "25 Ekim 2007 ... 26681 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
