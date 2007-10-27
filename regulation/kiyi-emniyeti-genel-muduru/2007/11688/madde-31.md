@@ -1,0 +1,2 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 31 – (1) İhale komisyonunun kararı üzerine Kuruluş, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere yazılı olarak bildirilir. Kuruluş bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Kuruluş talepte bulunan isteklilere ihalenin iptal edilme gerekçelerini bildirir.

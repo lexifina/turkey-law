@@ -1,0 +1,9 @@
+İhale komisyonunun kurulması
+MADDE 10 – (1) İhale komisyonu ihale yetkilisi tarafından seçilen; satışı talep eden üniteden konu hakkında deneyimli bir personel, Malzeme Dairesi Başkanlığı, Mali İşler Dairesi Başkanlığı, ve Teknik Hizmetler ve Emlak Dairesi Başkanlığından birer personel olmak üzere en az beş en fazla yedi asil, her asil üyenin yedekleri ile tek sayıdaki üyelerden oluşur.
+(2) İhale yetkilisi tarafından üyelerden biri komisyon başkanı olarak atanır ve komisyon oy çokluğuyla karar alır. Asil üyenin yedeği olarak seçilen üye, farklı üniteden olamaz.
+(3) İhale komisyonu üyelerine ihale dosyasını, şartnameleri, ilan metinlerini, ihale öncesi yapılan tüm işlemleri inceleme ve satış hakkındaki işlerle ilgili gerekli bilgileri edinme imkan ve yeterli zaman verilir.
+(4) Asil üyelerin toplantıya izin, rapor, görevlendirilme, ücretsiz izin nedenleriyle katılamamaları veya görevden ayrılmaları halinde yerlerine yedek üyeler görev yapar. Bu durumda asil üyenin mazereti komisyon başkanlığına yazılı olarak iletilir ve bu durum toplantı tutanağına yazılır.
+(5) İhale komisyonu üye tamsayısı ile toplanır, ve oy çokluğuyla karar alır. Üyeler oy ve kararlarından sorumlu olup oy kullanmaktan kaçınamazlar ve çekimser oy kullanamazlar. Karşı oy kullanılması halinde karşı oyun sahibi gerekçesini komisyon kararına yazarak imzalar.
+(6) İhale komisyonu üyeleri kararlarında bağımsız olup, görevlerine müdahale edilemez ve kendilerine görevleriyle ilgili herhangi bir telkinde bulunulamaz.
+(7) Satış işleminin niteliği gerektirdiğinde komisyon başkanı konu ile ilgili personelin bilgisine başvurabilir.
+(8) İhale komisyonunun alacağı karar, satış onayı alınmak üzere motorlu deniz araçları için Yönetim Kurulu onayına, diğer satışlarda ihale yetkilisinin onayına sunulur, ihale komisyonu kararları, yetki sınırlarına göre onaylandıktan sonra kesinlik kazanır.

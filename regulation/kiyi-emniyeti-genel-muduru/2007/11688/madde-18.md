@@ -1,0 +1,26 @@
+Şartname ve sözleşmede bulunması gerekli hususlar
+MADDE 18 – (1) İhalelerde ve sözleşmelerde satış işleminin özelliğine göre özel ve teknik şartların yanında aşağıda belirtilen hususlardan ilgili olanlar yer alır.
+a) Taraflar,
+b) Satış konusu,
+c) Birimi,
+ç) Evsafı ve görülmesi,
+d) Artırma ve eksiltme haddi,
+e) İhaleye katılabilme ve ihaleden vazgeçme şartları,
+f) Teklif verme şekli,
+g) Devir, teslim yeri ve şartları,
+ğ) Tarafların yükümlülükleri,
+h) Sözleşme süresi,
+ı) Ödeme şartları,
+i) Geçici ve kati teminat miktarı ve teminat olarak nelerin kabul edileceği,
+j) Teminat ve belgelerin iadesi,
+k) Mevcut ve muhtemel her türlü vergi, resim, fon ve masrafların istekliye ait olacağı,
+l) Cezai şartlar,
+m) Sözleşmenin feshi ve tasfiyesi,
+n) Gerektiğinde ihaleye katılacaklarda aranan mali ve teknik yeterlilikler,
+o) Tekliflerin geçerlilik süresi,
+ö) Anlaşmazlıkların çözüm yeri,
+p) Kanuni ikametgah ve tebligat adresleri,
+r) Sözleşmenin noterlikçe onaylanıp onaylanmayacağı,
+s) Taşınır ve taşınmaz malların ihalesi yapıldıktan sonra; ilgili üniteden izin alınmak suretiyle görülüp görülemeyeceği ve hangi tarih ve saatler arasında görülüp görülemeyeceği,
+ş) Gerekli görülebilecek diğer hususlar ile ön şartlar
+açık ve anlaşılır bir ifade ile belirtilir.
