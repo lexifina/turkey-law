@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29598",
+  "decision_date": "2007-10-30",
+  "source_id": 1699,
+  "chamber": "5",
+  "file_number": "29177",
+  "account_year": "2001",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1699/",
+  "source_sha256": "de223732d32274b79026f69036473e2504ba8dbe234962d029c571ac21da37f3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
