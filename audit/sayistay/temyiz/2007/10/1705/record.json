@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29604",
+  "decision_date": "2007-10-30",
+  "source_id": 1705,
+  "chamber": "7",
+  "file_number": "29127",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1705/",
+  "source_sha256": "cc7092c46e62995aa716472be0581d6e9104dbb5e120d9afa332e095accd4c39",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
