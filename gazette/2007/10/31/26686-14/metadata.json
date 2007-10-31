@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-10-31",
+  "issue": "26686",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gümrük Genel Tebliğinde (Gümrük İşlemleri) (Seri No: 37) Değişiklik Yapılmasına Dair Tebliğ (Gümrük İşlemleri) (Seri No: 58)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071031-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/10/20071031.htm",
+  "index_sha256": "9ed1f2f327cab01d83673bb06c2888f314140df303665727bd19925bc0aafb57",
+  "index_header": "31 Ekim 2007 ... 26686 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
