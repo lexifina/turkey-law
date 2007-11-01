@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 23,
+  "legislative_year": 2,
+  "sitting": 15,
+  "sitting_date": "2007-11-01",
+  "listed_date": "01 Kasım 2007 Perşembe",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/23/2/15/9253b0fa-dbd8-435d-9296-73aeae9e511d.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=6b87106f-abf4-4b3c-8e82-0185ceac746a",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=23&YasamaYili=2",
+  "source_sha256": "c862335bc8b478f1268e5fd776b9dc606bd6d38f10231273572f4087a9b24fea",
+  "source_bytes": 2141988,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
