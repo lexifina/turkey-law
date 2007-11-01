@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.60/6038-13 / 96606",
+  "source_id": 36329,
+  "date": "2007-11-01",
+  "title": "Muris ile sigorta şirketleri arasında düzenlenen sözleşmelerde lehtar olarak bankalar gösterilmiş ise, bankaların lehtarlığı alacak ve borç ilişkisine dayandığından bankalara ödenen kredi-hayat sigorta bedelinin ivazsız olarak mütalaa...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36329",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "4958ca4d6f025b14b1a21741b76ee05c0b00805414668a204c5d993970d77a73",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
