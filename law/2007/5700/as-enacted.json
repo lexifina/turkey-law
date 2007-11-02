@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5700",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Fas Krallığı Hükümeti Arasında Sağlık Alanında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-11-02",
+  "gazette_issue": "26688",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071102-2.htm",
+  "source_sha256": "1d12861077166e95df6c943ab32623ce1e8ba005acfd23717fef5847c8e2805a",
+  "text_sha256": "c342127abbf8745fc6500d86b7b3e8107a4983a6d73d23d575f60d1284259d25",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/11/02/26688-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071102-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
