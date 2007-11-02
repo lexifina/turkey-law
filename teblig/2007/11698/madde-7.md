@@ -1,0 +1,1 @@
+MADDE 7 – (1) 2007 yılı hac mevsiminde ülkemizden bu esaslar dahilinde Suudi Arabistan’a gidecek olanlardan, havaalanları veya karayolu hudut kapılarından çıkışta; Türkiye İş Kurumu tarafından hazırlanıp imzalanan ve mühürlenen "Geçici İşçi Kimlik Kartı" ile pasaportlarında Türkiye İş Kurumu tarafından basılan "2007 yılı hac mevsiminde geçici işçidir" kaşesi aranacaktır.

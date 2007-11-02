@@ -1,0 +1,1 @@
+MADDE 8 – (1) Bu Tebliğ kapsamında Suudi Arabistan’a en fazla 6.000 (altıbin) kişinin çıkışına izin verilecektir. Bu sayının 2.000 (ikibin)’i çeşitli alanlarda çalıştırılacak vasıfsız işçiler için kullanılacaktır.

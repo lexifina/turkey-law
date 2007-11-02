@@ -1,0 +1,1 @@
+MADDE 6 – (1) Firma; istediği takdirde, bu kapsamda götürülecek her 50 kişi için bir idareci personel veya tercüman götürebilecek ve bu personel için 2’nci maddenin (a) ve (c) bentlerinde belirtilen şartlar aranmayacaktır.

@@ -1,0 +1,1 @@
+MADDE 1 – (1) 2007 yılı hac mevsiminde geçici işçi vizesi alarak Suudi Arabistan’a gidecek yukarıda belirtilen meslek dallarındaki işçiler ile vasıfsız işçilerin çıkışları kara ve hava yolundan yapılacaktır.
