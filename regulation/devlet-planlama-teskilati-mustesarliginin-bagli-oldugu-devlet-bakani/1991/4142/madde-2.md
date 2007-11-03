@@ -1,0 +1,2 @@
+Kapsam
+Madde 2- Bu Yönetmelik hükümleri Devlet Planlama Teşkilatı Müsteşarlığı'nda, 933 sayılı Kanunun 4 ve 8 inci maddelerine göre geçici süreli görevler ile Kalkınma Planının uygulanması ile ilgili olarak geçici süreli önemli işlerin ve projelerin yürütülmesinde istihdam edilecek sözleşmeli personel ile 540 sayılı KHK'nin 34 ve 35 inci maddelerine göre istihdam edilecek sözleşmeli personel hakkında uygulanır.

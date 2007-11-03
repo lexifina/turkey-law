@@ -1,0 +1,2 @@
+Madde 14- Bu Yönetmelik hükümlerini Devlet Planlama Teşkilatı Müsteşarlığının bağlı olduğu Devlet Bakanı yürütür.
+(*) 8.6.1997 tarih ve 23013 sayılı Resmi Gazete'de yayımlanan Yönetmelik değişikliğinin 1 inci maddesi ile Yönetmeliğin Başlığında ve Yönetmeliğin maddelerinde yer alan "223 sayılı KHK'nin 43 ve 44 üncü maddeleri" ibareleri yerine "540 sayılı KHK'nin 34 ve 35 inci maddeleri " ibareleri konulmuştur.

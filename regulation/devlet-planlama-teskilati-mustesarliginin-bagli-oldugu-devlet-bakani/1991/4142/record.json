@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.4142",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET PLANLAMA TEŞKİLATI MÜSTEŞARLIĞINDA 933 SAYILI KANUNUN 4 VE 8 İNCİ MADDELERİ İLE 540 SAYILI K.H.K NİN 34. VE 35.MADDELERİNE İSTİNADEN İSTİHDAM EDİLECEK SÖZLEŞMELİ PERSONELİN SEÇİLMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "4142",
+  "issuer": "Devlet Planlama Teşkilatı Müsteşarlığının bağlı olduğu Devlet Bakanı",
+  "issuer_slug": "devlet-planlama-teskilati-mustesarliginin-bagli-oldugu-devlet-bakani",
+  "path": "regulation/devlet-planlama-teskilati-mustesarliginin-bagli-oldugu-devlet-bakani/1991/4142",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4142&MevzuatTertip=5",
+  "source_sha256": "297476daf442d23e8d158c1baa2108a2e0a0f7022e63fcf3644b1daab9dfa3ab",
+  "source_bytes": 26963,
+  "published": "1991-01-10",
+  "gazette": "20751",
+  "in_force": "2007-11-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.:3/11/2007\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2007-11-03",
+      "R.G.:3/11/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2001-05-18",
+      "RG-18/05/2001",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1997-06-08",
+      "RG-08/06/1997",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1113,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

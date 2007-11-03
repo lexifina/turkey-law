@@ -1,0 +1,2 @@
+Sözleşmeli Personel Olarak Atanma
+Madde 10- Atanacak adaylar sınav sonucunun tebliğ tarihinden itibaren 15 gün içinde gerekli belgeleri tamamlamak suretiyle Müsteşarlığa teslim ederler. Belgelerin teslimini müteakip Müsteşarlık Makamınca atama yapılır. Atamanın adaya yazılı olarak bildirilmesinden itibaren 15 gün içinde aday göreve başlamak zorundadır. Bu süre içerisinde göreve başlamayanlar haklarını kaybederler.
