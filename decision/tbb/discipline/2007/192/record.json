@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "192",
+  "date": "2007-11-03",
+  "title": "T. 3.11.2007 E. 2007/311 K. 2007/358",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/192",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=2&yil=2007",
+  "listing_sha256": "dc9ce876462416989bbed6d1db51ddaedd17a289062bb3cf951d657721b1d25f",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
