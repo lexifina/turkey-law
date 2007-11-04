@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5701",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Suudi Arabistan Krallığı Hükümeti Arasında Güvenlik, Uyuşturucu ve Psikotrop Maddelerle Mücadele Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-11-04",
+  "gazette_issue": "26690",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071104-1.htm",
+  "source_sha256": "c205609f4b5c9ed16c349fcbe8bff43e3e385136d986a6ba7f5065a93105869f",
+  "text_sha256": "19b62173b78413cfd83dd22918d770f7fc245d2d32b97d78604bc44be32bcba3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/11/04/26690-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071104-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
