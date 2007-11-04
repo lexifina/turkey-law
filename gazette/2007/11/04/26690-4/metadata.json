@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-11-04",
+  "issue": "26690",
+  "edition": "regular",
+  "item": 4,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "5704 Türkiye Cumhuriyeti ile Romanya Arasında Hukuki Konularda Adli Yardımlaşma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071104-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071104.htm",
+  "index_sha256": "1cce1f216fadf1b0edd700c06ab2c812d1809fad90846e2ad6c03d7c194f8ae6",
+  "index_header": "4 Kasım 2007 ... 26690 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
