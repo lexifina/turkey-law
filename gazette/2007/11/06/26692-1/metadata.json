@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-11-06",
+  "issue": "26692",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2007/12710 Bazı Mahalli İdare Birliklerinin Kurulmasına İzin Verilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071106-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071106.htm",
+  "index_sha256": "b4bc87db5dbd7c6a250ac7bbac102681d9e3d09beb29c336080f60d4ee6f244d",
+  "index_header": "6 Kasım 2007 ... 26692 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
