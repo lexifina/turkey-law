@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-11-07",
+  "issue": "26693",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Aikido Kuşak Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071107-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071107.htm",
+  "index_sha256": "f474c6cfd347380d0f0bc563944d3c7f7b0168578b188a6aed1b8e454fde4ff5",
+  "index_header": "7 Kasım 2007 ... 26693 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
