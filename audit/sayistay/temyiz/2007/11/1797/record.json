@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29674",
+  "decision_date": "2007-11-13",
+  "source_id": 1797,
+  "chamber": "5",
+  "file_number": "28561",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1797/",
+  "source_sha256": "1ed868a5d6fde77a479d582cbfcb9fe6551fc6203626269434dce85616183b3d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
