@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29667",
+  "decision_date": "2007-11-13",
+  "source_id": 1791,
+  "chamber": "2",
+  "file_number": "29014",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1791/",
+  "source_sha256": "23d0e48fecac752aab250b73b2aec6f34c636c46bd5d2d8da08e3c53eec8c2b9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
