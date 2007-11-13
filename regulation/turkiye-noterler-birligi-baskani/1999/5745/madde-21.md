@@ -1,0 +1,7 @@
+İşlemlerin İncelenmesi
+Madde 21- (Değişik fıkra: RG 18/7/2004-25526) Denetlenen noterliğin iş hacmine göre, sondaj suretiyle değeri yüksek harç, vergi ve ücret tahsil edilmiş işlemler ile değişik hukuki vasıflı harç ve damga vergisinden muaf olarak yapılmış işlemlerden, uygun sayıda işlem yevmiye defterindeki numaralarından saptanarak incelenir.
+Öncelikle yapılan işlemlerin hukuki açıdan ilgili mevzuat hükümlerine ve Birlik genelgelerine uygun şekilde yapılıp yapılmadığı üzerinde durulur. Bunlarla ilgili tahakkuk ve tahsilatın, kanun ve tarifelere uygun olarak yapılıp yapılmadığı yanında yevmiye defterine aynen işlenip işlenmediğine de bakılır.
+Ayrıca iş hacmine göre uygun sayıda cilbent seçilerek bunlardaki işlemlerin tamamı incelenir.
+(Değişik fıkra: RG 18/7/2004-25526) Kanun ve genelgelere aykırı işlem yapılıp yapılmadığı, muafiyetlerin isabetle takdir edilip edilmediği, kayıtların düzgün bir şekilde yapılmasına özen gösterilip gösterilmediği incelenir ve eski tarihli evrak düzenleme, yevmiye defterinde numara ayırma, beyanname ve makbuzlarda tahrifat yapılması gibi konular üzerinde titizlikle durulur.
+(Ek: RG 18/7/2004-25526) Fazla veya eksik ücret alınmasının kasıtlı olduğu sonucuna varılır ise hakkında işlem yapılmak üzere durum Yönetim Kuruluna sunulur.
+(Ek: RG 18/7/2004-25526) Noterlik Kanununun 117.maddesinin tatbikini gerektirecek şekilde fazla ücret alındığının saptanması halinde Noterin veya vekilin beyanını da içeren tutanak düzenlenerek Yönetim Kuruluna sunulur.

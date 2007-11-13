@@ -1,0 +1,4 @@
+Denetçilere Yardım Yükümlülüğü
+Madde 13- (Değişik: RG 18/7/2004-25526)
+Denetleme, inceleme ve araştırma yapılan birim ilgilileri, hizmetin gereği gibi yürütülebilmesi için, denetçilere görevleri süresince uygun bir çalışma yeri sağlamak ve diğer önlemleri almakla yükümlüdür.
+Denetçiler, yürüttükleri hizmet yönünden gerekli gördükleri bilgileri, defter, evrak ve belgeleri, denetleme, inceleme ve araştırma yaptıkları birim ve kuruluşlardan istemek ve görmek, bunların onaylı suretlerini almak, kasa ve depo gibi yerleri incelemek ve saymak, inceleme ve sayma işlerinde yardım talebinde bulunmak, Yönetim Kurulundan gerektiğinde diğer kamu idare ve kuruluşları ile gerçek ve tüzel kişilerden bilgi ve belge istemek için talepte bulunmak yetkisine sahiptir. İlgililer, Yönetim Kurulunun bu isteklerini yerine getirmek ve soruları cevaplamak zorundadırlar.

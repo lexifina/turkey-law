@@ -1,0 +1,6 @@
+ÜÇÜNCÜ KISIM
+Atama ve Özlük işleri
+Denetçiliğe ve denetçi yardımcılığına atama
+MADDE 14 – (Başlığıyla birlikte değişik:RG-13/11/2007-26699)
+Denetçiler 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin birinci fıkrasının (A) bendinde sayılan nitelikleri taşıyan, disiplin cezası almamış hukuk fakültesi mezunu, noterlik hukukuna vakıf ve en az 10 yıl süre ile hakimlik, Cumhuriyet savcılığı, adalet müfettişliği, avukatlık, üniversite öğretim üyeliği yapmış veya Noterlik Kanununun 126 ncı maddesinin birinci fıkrasının (C), (D) ve (E) bentlerinde sayılan disiplin cezalarını almamış ve en az 10 yıl süre ile noterlik hizmetinde bulunmuş olan istekliler arasından Yönetim Kurulunca atanır.
+Hukuk fakültesi mezunları denetçi yardımcısı olarak görev yapmak üzere 6 ay deneme süresi ile Yönetim Kurulu tarafından atanabilirler. Deneme süresini başarı ile geçenler 3,5 yıllık denetçi yardımcılığı görevini tamamladıkları taktirde Denetleme Kurulu Başkanının vereceği rapor doğrultusunda yönetim kurulunca denetçi olarak atanırlar. Denetçi yardımcısı olarak atanabilmek için, 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin birinci fıkrasının (A) bendinde sayılan niteliklere sahip olmak zorunludur.
