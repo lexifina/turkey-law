@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5708",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Rusya Federasyonu Hükümeti Arasında Denizlerde Karasuların Ötesindeki Olayların Önlenmesine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-11-15",
+  "gazette_issue": "26701",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071115-2.htm",
+  "source_sha256": "1e263b8d9e830c631f6322932d0ecace1368d0d0267ac54be459af4b454fbc24",
+  "text_sha256": "3685440dddaa21eeead53dbbcda58086ca45492d946183cace4ae72d0f6cf227",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/11/15/26701-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071115-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
