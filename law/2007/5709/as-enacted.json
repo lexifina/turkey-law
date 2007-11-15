@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5709",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Haritacılık Alanında Eğitim, Teknik ve Bilimsel İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-11-15",
+  "gazette_issue": "26701",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071115-3.htm",
+  "source_sha256": "276dd9c273777152cfbf0efeed3b2fcb8a834bc14ac66158545a46f69873ea51",
+  "text_sha256": "6c195e9f789a7dd949433f2743c994a0533790a40c6af059abb8e50898929592",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/11/15/26701-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071115-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
