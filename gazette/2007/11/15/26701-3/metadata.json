@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-11-15",
+  "issue": "26701",
+  "edition": "regular",
+  "item": 3,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "5709 Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Haritacılık Alanında Eğitim, Teknik ve Bilimsel İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071115-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071115.htm",
+  "index_sha256": "2f3ad2945d0a56edefeaf40ae0f32785bd4a872c3dff35f0aa47a475e9c46892",
+  "index_header": "15 Kasım 2007 ... 26701 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
