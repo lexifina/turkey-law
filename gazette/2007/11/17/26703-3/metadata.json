@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-11-17",
+  "issue": "26703",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 377)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071117-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071117.htm",
+  "index_sha256": "5523c9ec1313705bc7378ad011942000d976ca8091fd7df3f3c1aedca1046ae1",
+  "index_header": "17 Kasım 2007 ... 26703 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
