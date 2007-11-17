@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11720",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 377)",
+  "number": "11720",
+  "path": "teblig/2007/11720",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11720&MevzuatTertip=5",
+  "source_sha256": "7a51477d1fb8acef71ed44143543fd7cff523bf61fb45f4f754e9026ed114fdd",
+  "source_bytes": 6874,
+  "published": "2007-11-17",
+  "gazette": "26703",
+  "in_force": "2007-11-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.11.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 108,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
