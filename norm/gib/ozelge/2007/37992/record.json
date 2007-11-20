@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.55/5528-2513 /103153",
+  "source_id": 37992,
+  "date": "2007-11-20",
+  "title": "Fındık ve fındık mamullerine (kıyılmış fındık, kavrulmuş fındık, dilinmiş fındık, beyazlatılmış fındık, fındık-unu-vb.) uygulanması gereken katma değer vergisi oranları hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/37992",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "6a911adaf056a8a049df1f07165228d3beb8ac9a9b527fd0fa0cd4d9d59fe6a6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
