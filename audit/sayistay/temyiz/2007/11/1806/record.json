@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29688",
+  "decision_date": "2007-11-20",
+  "source_id": 1806,
+  "chamber": "1",
+  "file_number": "28920",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1806/",
+  "source_sha256": "8d4d23439f0a7f87a361410b92b366f60529a9755b1d7838726c6a8a18d328ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
