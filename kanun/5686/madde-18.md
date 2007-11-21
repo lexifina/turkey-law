@@ -1,2 +1,1 @@
-MADDE 18 – (1) 4/6/1985 tarihli ve 3213 sayılı Maden Kanununun 47 nci maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
-"Maden Tetkik ve Arama Genel Müdürlüğü bu Kanun hükümlerine göre arama ruhsatı alarak bulduğu madenler için 15 inci maddeye göre buluculuk hakkını kazanır. Arama ruhsat süresi sonuna kadar Genel Müdürlüğe devredilen bu ruhsatlar 30 uncu madde hükümlerine göre ihale edilir. İhale sonucu elde edilen gelirin %50’si MTA’ya kaynak geliri olarak aktarılır."
+MADDE 18 – (1) (4/6/1985 tarihli ve 3213 sayılı Maden Kanunu ile ilgili olup yerine işlenmiştir.)
