@@ -1,0 +1,2 @@
+Bireysel başvuru
+MADDE 14 – (1) Bu Yönetmeliğin 9 uncu maddesinde belirtilen illerin kırsal kesiminde yaşayan, fiilen tarımsal üretim kaynaklarını kullanmak suretiyle tarımsal üretimle iştigal eden veya küçük ölçekli iş alanlarında faaliyet gösteren kişiler, Bakanlık tarafından oluşturulan çiftçi kayıt sistemine veya Bakanlık tarafından oluşturulan diğer kayıt sistemlerine kayıtlı olmak şartıyla Köy Bazlı Katılımcı Yatırım Programı hibesinden yararlanmak üzere bireysel olarak başvurabilirler.

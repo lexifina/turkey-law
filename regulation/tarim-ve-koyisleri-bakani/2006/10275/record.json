@@ -1,0 +1,59 @@
+{
+  "source_id": "7.5.10275",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÖY BAZLI KATILIMCI YATIRIM PROGRAMLARI KAPSAMINDA YATIRIMCILAR TARAFINDAN YAPILACAK HİBE BAŞVURULARININ DESTEKLENMESİ YÖNETMELİĞİ",
+  "number": "10275",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "issuer_slug": "tarim-ve-koyisleri-bakani",
+  "path": "regulation/tarim-ve-koyisleri-bakani/2006/10275",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10275&MevzuatTertip=5",
+  "source_sha256": "fe7ff1ca2f5e993e7cd2e2452b33a5542d3d4e13caf84d68fe8879ff7fa44f82",
+  "source_bytes": 144490,
+  "published": "2006-05-09",
+  "gazette": "26163",
+  "in_force": "2007-11-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/11/2007\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2007-11-22",
+      "RG-22/11/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-11-22",
+      "22/11/2007",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2007-08-28",
+      "RG-28/08/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-08-28",
+      "28/8/2007",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8135,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/www.arip.org.tr/",
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/www.tedgem.gov.tr/",
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/www.tarim.gov.tr/",
+    "7.5.10275-Ek.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

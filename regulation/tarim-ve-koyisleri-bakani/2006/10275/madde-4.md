@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Aracı banka: Hibe niteliğindeki kaynakların transferinde gerekecek olan bankacılık hizmetlerini verecek bankayı,
+b) Bakanlık: Tarım ve Köyişleri Bakanlığını,
+c) Bireysel başvuru ve yatırımı: Belirlenmiş nitelikleri taşıyan gerçek kişiler tarafından yapılacak başvuru ve gerçekleştirilecek yatırımları,
+ç) Grup başvurusu ve yatırımı: Belirlenmiş nitelikleri sağlayan gerçek kişiler tarafından oluşturulmuş tüzel kişilerin ve bunların yasal olarak oluşturdukları ortaklıklar tarafından yapılacak başvuru ve gerçekleştirilecek yatırımları,
+d) Hibe sözleşmesi: Proje sahipleri ile il müdürlüğü arasında imzalanan ve hibeden yararlanma esasları ile tarafların yetki ve sorumluluklarını düzenleyen sözleşmeyi, kamu kurumları ile yapılması durumunda hibe protokolünü,
+e) Hibeye Esas Proje Toplam Tutarı: Bu Yönetmelikte belirtilen kriterleri sağlayan hibe desteği verilecek giderler toplamını,
+f) İl müdürlüğü: Bakanlık il müdürlüğünü,
+g) İl Proje değerlendirme birimi: Vali yardımcısı başkanlığında; il müdürlüğü, bayındırlık ve iskan il müdürlüğü, il özel idare temsilcisi, ticaret borsası ve ziraat odası temsilcisi ile proje konusuna göre belirlenecek diğer ilgili üniversite, sivil toplum kuruluşu ve kamu kurumu temsilcilerinden oluşan birimi,
+ğ) İl Proje yürütme birimleri (Proje Teknik Yardım Ekibi): İl düzeyinde proje hazırlanması aşamasında proje sahiplerine teknik yardım vermek üzere oluşturulan ilgili kamu kuruluşları elemanlarından oluşan ekibi ve hibe sözleşmesinin akdinden sonra projelerin uygulamasını bu Yönetmelik hükümleri doğrultusunda kontrol edecek, izleyecek ve değerlendirecek birimi,
+h) Kırsal alan: Proje illeri il sınırını,
+ı) Köy Bazlı Katılımcı Yatırım Programı: Tarım Reformu Uygulama Projesi kapsamında yürütülecek proje alt bileşenini,
+i) Kırsal kalkınma merkez yürütme birimi: Kırsal kalkınma projeleri kapsamında uygulanacak Köy Bazlı Katılımcı Yatırım Programı kapsamındaki gerekli kurumsal ve uygulama hizmetlerini yürütmek amacıyla kurulan birimi,
+j) Merkez proje değerlendirme komisyonu: İl proje değerlendirme birimlerince yapılan inceleme ve değerlendirmeler sonucunda uygun ve yeterli görülen proje başvurularını, yapacağı veya yaptıracağı değerlendirme sonuçları ile Bakanlık tarafından belirlenecek esaslar çerçevesinde başvuru sayısına ve proje için tahsis edilmiş bütçe kaynaklarına bağlı olarak projelerin kapsadığı iller ve konu başlıkları içerisinde bir denge oluşturmak amacıyla oluşturulacak değerlendirme komisyonunu,
+k) Proje toplam tutarı: Program kapsamında hibe desteğine esas olan proje tutarı ile tamamı yatırımcı tarafından gerçekleştirilen ayni ve nakdi katkı tutarlarının hepsini kapsayan o yatırım için yapılan harcamalar toplamını,
+l) Sözleşme: Yatırımcılar ile proje kapsamında satın aldıkları mal (makine, ekipman, malzeme), hizmet ve inşaat işlerini sağlayan yükleniciler arasında yapılacak akdi,
+m) Tarımsal ürün: Bitkisel, hayvansal ve su ürünlerinin tümünü,
+n) Tarım Reformu Uygulama Projesi (ARIP): İkraz Anlaşması hükümleri gereğince uygulanan ana projeyi,
+o) Teşkilatlanma ve Destekleme Genel Müdürlüğü: Köy Bazlı Katılımcı Yatırım Programı kapsamındaki tüm çalışmaların izlenmesinden ve yılı bütçe tekliflerinin geliştirilmesinden sorumlu Bakanlık merkez teşkilatını,
+ö) Yatırım projeleri: Hibe desteğinden yararlanabilmek için belirlenmiş nitelikleri sağlayan bireyler, gruplar, bunların ortaklıkları şeklindeki gerçek ve tüzel kişilerin ekonomik faaliyetlere yönelik, belirlenmiş nitelikleri sağlayan kuruluşların mevcut altyapı tesislerinin rehabilitasyonuna yönelik gerçekleştirecekleri köy bazlı katılımcı yatırım projelerini,
+p) Yüklenici: Hibe sözleşmesi akdedilen yatırım projesi kapsamında yatırımcılar tarafından satın alınacak mal, makine, ekipman, malzeme, danışmanlık hizmeti ve inşaat işlerini sağlayan bağımsız kişi ve kuruluşları,
+ifade eder.

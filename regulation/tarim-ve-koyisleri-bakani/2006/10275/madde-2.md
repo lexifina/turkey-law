@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; program uygulamaları için belirlenen iller dahilinde kırsal alanda ekonomik ve sosyal gelişmeyi sağlamak için, bireysel ve grup başvuruları şeklinde gerçek ve tüzel kişilerin ekonomik faaliyete yönelik yatırımları ile kuruluşların mevcut altyapı tesislerinin rehabilitasyonuna yönelik yatırımları teşvik etmek ve desteklemek amacıyla yapılması gerekenlere ilişkin hususları kapsar.

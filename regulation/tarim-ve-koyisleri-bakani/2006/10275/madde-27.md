@@ -1,0 +1,2 @@
+Proje yönetim giderleri
+MADDE 27 – (1) Ekonomik faaliyetlere yönelik yatırımlarda projenin yönetimi ile ilgili oluşacak ve belgeye bağlanacak kırtasiye giderlerine, proje yönetim gideri olarak bu Yönetmeliğin 20 nci maddesinde belirtilen oranlar dahilinde hibe desteği verilir. Bu giderlerin tutarı, hibe sözleşmesinde belirtilen hibeye esas toplam proje tutarının % 2 sini geçemez. Proje yönetim gideri kapsamında, danışmanlık hizmet alımları, aydınlatma, ısınma, seyahat giderleri gibi giderlere hibe desteği verilmez.
