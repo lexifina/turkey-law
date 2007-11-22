@@ -1,0 +1,6 @@
+Başvuru sahipleri ve katılımcılarda aranacak özellikler
+MADDE 12 – (1) Bu Yönetmeliğin 10 uncu maddesinde belirtilen illerde, 9 uncu maddesinde belirtilen yatırım konularını gerçekleştirmek üzere proje başvuruları yapılır.
+(2) Proje sahibi gerçek veya tüzel kişiler bu Yönetmeliğin 9 uncu maddesinin birinci fıkrasında belirtilen her bir mal grubuna ait bir adet proje başvurusu yapabilir ve hibe desteğinden yararlanabilirler. Farklı gruplardan birer adet olmak üzere birden fazla başvuru hazırlayabilir ve hibe desteğinden yararlanabilirler.
+(3) Proje tekliflerinde, proje sahipleri kendi paylarına düşen ve mal alım tutarının %50’si oranındaki katkı payının finansmanını kendi özkaynaklarından temin etmekle yükümlü ve sorumludurlar.
+(4) Mal alım tutarının hibe desteği kısmı, kamu kaynakları kullanılarak karşılandığından, gerçek veya tüzel kişiler tarafından sağlanması gereken katkı payının finansmanında kamu kaynakları kullanılmaz. Bu nedenle, başvuruda bulunacak kuruluşların, idarî ve malî açıdan kamudan bağımsız olması gerekir.
+(5) İl özel idaresi, belediye, belde başkanlığı gibi kamu kurum ve kuruluşları, bunların vakıf, birlik benzeri teşekkülleri ile bunların içinde bulunduğu ortaklıkların başvuruları program kapsamında değerlendirilmez.

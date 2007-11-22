@@ -1,0 +1,3 @@
+Satın alma usul ve esasları
+MADDE 28 – (1) Proje sahipleri, proje uygulama sürecinde yapacakları her türlü mal satınalma ihalelerinde, 13/7/2001 tarihli ve 24461 sayılı Resmî Gazete’de yayımlanan 4631-TU numaralı İkraz Anlaşması ve daha sonra bu anlaşmada yapılan tadilatlarda hükme bağlanan koşullar ile Dünya Bankası tarafından yayınlanan "IBRD İkrazları ve IDA Kredileri Kapsamında Satınalma Kılavuzu- Mayıs 2004 versiyonu"nda belirtilen kurallara uygun hareket eder.
+(2) Bu Yönetmelik çerçevesinde uygulanacak özel satın alma usul ve esaslarına ilişkin ayrıntılar, örnek dökümanlar Dünya Bankası işbirliği ve mutabakatı ile Bakanlık tarafından hazırlanacak ve yayınlanacak olan satın alma el kitabında ve/veya broşüründe belirlenir.

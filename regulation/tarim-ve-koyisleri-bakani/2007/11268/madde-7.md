@@ -1,0 +1,2 @@
+İl müdürlüğü
+MADDE 7 – (1) İl müdürlüğü Makine ve Ekipman Alımlarının Desteklenmesi Programı kapsamındaki çalışmaların proje illerinde Bakanlık adına bu Yönetmeliğin 31 inci maddesinde belirtilen sorumlulukları gerekli çaba ve etkinlikte ve uygun idarî, malî, mühendislik, çevresel ve teknik uygulamalarla uyumlu bir şekilde yürütülmesini ve program kapsamında yapılacak tüm çalışmaların il bazında sekretaryasını ve koordinasyonunu sağlar.

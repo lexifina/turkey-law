@@ -1,0 +1,8 @@
+Değerlendirme nihai kararı
+MADDE 22 – (1) Makine ve Ekipman Alımlarının Desteklenmesi Programına yönelik olarak tahsis edilen hibe tutarı ve proje sayısı konusunda iller için herhangi bir sınırlama bulunmamaktadır. Ancak illere tahsis edilecek hibe tutarı, Bakanlık tarafından uygunluğu tespit edilen projelerin sayısı ve yatırım tutarına göre belirlenir.
+(2) Uygun olarak değerlendirilmiş proje başvuru sayısının, programa tahsis edilmiş ödenek tutarından fazla olması durumunda her bir yatırım konusundan her bir proje ilinde en az bir örnek uygulamanın olması, her bir proje iline eşite yakın hibe desteğinin verilmesi ve yatırım konularını öncelikleri açısından sıralama gibi değerlendirme kriterleri oluşturulur. Değerlendirme kriterleri, Bakanlıkça belirlenir.
+(3) Köy Bazlı Katılımcı Yatırım Programı için yılı bütçesine tahsis edilmiş ödeneğin en fazla yüzde otuzu bu Yönetmelik kapsamında gerçekleştirilecek mal alımlarının desteklenmesi amacıyla kullanılır.
+(4) Bu Yönetmeliğin 9 uncu maddesinin birinci fıkrasının (a) ve (ç) bentlerinde belirtilen mal alımları için, Tarım Reformu Uygulama Projesi ÇATAK alt bileşeni proje uygulama illeri ve alanlarından gelen alımlara öncelik verilir.
+(5) Bu Yönetmeliğin 9 uncu maddesinin birinci fıkrasının (c) ve (ç) bentlerinde belirtilen mal alımları için, Tarım Reformu Uygulama Projesi Köy Bazlı Katılımcı Yatırım Programı I inci ve II nci etap uygulamaları kapsamında kendileri ile hibe sözleşmesi imzalanmış ve yatırım tesislerini bitirmiş yatırımcılar tarafından yapılan başvurulara öncelik verilir.
+(6) Değerlendirme nihai kararı, Bakanlığın onayı ile kesinleşir.
+(7) Bakanlığın bir başvuruyu reddetme ya da hibe vermeme kararı kesindir.

@@ -1,0 +1,2 @@
+Yatırımların tamamlanma süresi
+MADDE 11 – (1) Makine ve Ekipman Alımlarının Desteklenmesi Programı kapsamında, başvuruları kabul edilen proje sahipleri ile il müdürlüğü arasında hibe sözleşmesinin imzalanmasından sonra, mal alımları en fazla 3 (üç) ayda, bu süre içinde kalmak kaydıyla proje sahiplerinin yüklenicilerle yapacağı sözleşmelerden sonra ise en fazla 2 (iki) ayda tamamlanır. (Mülga son cümle:R.G.:22/11/2007-26708)
