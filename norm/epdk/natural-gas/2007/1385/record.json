@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1385",
+  "decision_date": "2007-11-22",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 22/11/2007 tarihli toplantısında; 21/12/2006 tarihli ve 26383 sayılı Resmi Gazete’de yayımlanan 12/12/2006 tarih ve 1004 Sayılı Kurul Kararının 2 inci maddesine ilişkin olarak aşağıdaki Karar alınmıştır.",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CJvMueM1aTE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CJvMueM1aTE="
+  ],
+  "source_sha256": "26ae51de76b23c4d8174a9d292edab1e930294c4bc8fa27f3aef157110ab252c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-11-22",
+  "law_text_complete": false
+}
