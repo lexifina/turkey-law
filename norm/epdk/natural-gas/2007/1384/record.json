@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1384",
+  "decision_date": "2007-11-22",
+  "title": "EPDK Kurul Kararı 1384",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mn9DF80uYU4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mn9DF80uYU4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7VNBBwbw5VU="
+  ],
+  "source_sha256": "dba9c6db349cef2fc668437dfd8488708c5b3a28384562a7b964a14e3f4952b3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-11-22",
+  "law_text_complete": false
+}
