@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11735",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK VERGİSİ ASKIYA ALINMASI VE AVRUPA BİRLİĞİ TARAFINDAN TARİFE KONTENJANI AÇILMASI PLANLANAN ÜRÜNLERE İLİŞKİN TEBLİĞ (İTHALAT: 2007/26)",
+  "number": "11735",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2007/11735",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11735&MevzuatTertip=5",
+  "source_sha256": "c3a082e7019f921d4102907f5b69b4e92312574ff0fcc7e728fc4f6569f2854a",
+  "source_bytes": 81004,
+  "published": "2007-11-23",
+  "gazette": "26709",
+  "in_force": "2007-11-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.11.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1521,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
