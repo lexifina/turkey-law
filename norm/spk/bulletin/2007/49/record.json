@@ -1,0 +1,60 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2007/49",
+  "date": "2007-11-23",
+  "title": "SPK Haftalık Bülteni 2007/49",
+  "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_49.pdf",
+  "source_sha256": "043a4016a3bda3fef8645aaa699102e2279a3ca03e12b66adc19ec37173eca93",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "E. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 01.01.2007 – 23.11.2007 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_49.pdf"
+    },
+    {
+      "heading": "B. 19.11.2007 – 23.11.2007 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_49.pdf"
+    },
+    {
+      "heading": "C. 19.11.2007 – 23.11.2007 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_49.pdf"
+    },
+    {
+      "heading": "D. DUYURU",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Templeton Global Bond",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_49.pdf"
+    },
+    {
+      "heading": "E. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_49.pdf"
+    },
+    {
+      "heading": "F. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4201b41c613a0d633c3/2007_49.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
