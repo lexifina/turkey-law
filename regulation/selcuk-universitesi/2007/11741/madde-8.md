@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Müdür, Üniversitenin Ziraat Fakültesi öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdür, çalışmalarında kendisine yardımcı olmak üzere öğretim üyeleri arasından bir kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür görevi başında bulunmadığı zamanlarda, müdür yardımcısı veya Yönetim Kurulu üyelerinden en kıdemli olan birine vekâlet bırakır. Vekâlet süresi altı ayı geçemez. Müdürün görevi sona erdiğinde yardımcısının da görevi sona erer.
