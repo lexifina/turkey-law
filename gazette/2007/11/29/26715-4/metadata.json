@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-11-29",
+  "issue": "26715",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2007/12708 Yükseköğretim Kurumları Öğretim Elemanlarına Ait Bazı Kadrolarda Değişiklik Yapılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071129-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/11/20071129.htm",
+  "index_sha256": "031a030fd6071045ea699b5c0249d2fa533f070fe7947c3d7dd8896687ed99c8",
+  "index_header": "29 Kasım 2007 ... 26715 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
