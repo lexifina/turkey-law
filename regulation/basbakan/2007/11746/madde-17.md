@@ -1,0 +1,4 @@
+Erişimin engellenmesinin hükümsüz kalması
+MADDE 17 – (1) Soruşturma sonucunda kovuşturmaya yer olmadığı kararı verilmesi halinde, erişimin engellenmesi kararı kendiliğinden hükümsüz kalır. Bu durumda Cumhuriyet savcısı, kovuşturmaya yer olmadığı kararının bir örneğini Başkanlığa gönderir. Başkanlık, karara ilişkin bilgileri gereği derhal yapılmak üzere elektronik ortamda erişim sağlayıcılara bildirir.
+(2) Kovuşturma evresinde beraat kararı verilmesi halinde, erişimin engellenmesi kararı kendiliğinden hükümsüz kalır. Bu durumda mahkemece beraat kararının bir örneği Başkanlığa gönderilir. Başkanlık, karara ilişkin bilgileri gereği derhal yapılmak üzere elektronik ortamda erişim sağlayıcılara bildirir.
+(3) Başkanlıkça resen verilen erişimin engellenmesi kararı, hâkim tarafından onaylanmadığı takdirde hükümsüz sayılır. Başkanlık, karara ilişkin bilgileri gereği derhal yapılmak üzere elektronik ortamda erişim sağlayıcılara bildirir.

@@ -1,0 +1,3 @@
+Koruma tedbiri olarak erişimin engellenmesi kararı
+MADDE 13 – (1) Erişimin engellenmesi kararı, soruşturma evresinde hâkim, kovuşturma evresinde ise mahkeme tarafından verilir. Soruşturma evresinde, gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısı tarafından da erişimin engellenmesine karar verilebilir. Bu durumda Cumhuriyet savcısı kararını yirmidört saat içinde hâkimin onayına sunar ve hâkim, kararını en geç yirmidört saat içinde verir. Bu süre içinde kararın onaylanmaması halinde tedbir, Cumhuriyet savcısı tarafından derhal kaldırılır.
+(2) Koruma tedbiri olarak verilen erişimin engellenmesine ilişkin karara, Başkanlıkça ve Ceza Muhakemesi Kanunu hükümlerine göre ilgililer tarafından itiraz edilebilir.
