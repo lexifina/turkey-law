@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "Hastane Enfeksiyonları ile Mücadele Denetim Raporu (2007)",
+  "category": "Diğer Raporlar",
+  "category_id": "15-diger-raporlar",
+  "report_year": 2007,
+  "report_date": "2007-11-30",
+  "date_precision": "day",
+  "date_as_printed": "ca hazırlanan bu raporun Sayıştay Genel Kurulunun 30/11/2007 tarih ve 5205/1 sayılı kararı ile Türkiye Büy",
+  "source": "https://www.sayistay.gov.tr/reports/wWmQmwzoAV-hastane-enfeksiyonlari-ile-mucadele-denetim-raporu-2007",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/wWmQmwzoAV-hastane-enfeksiyonlari-ile-mucadele-denetim-raporu-2007",
+  "source_sha256": "01ef10fbaa869ace1ef8f40b31e9684e43736c07fccb73d714f1f6569a0d5023",
+  "pdf_pages": 142,
+  "listing": "https://www.sayistay.gov.tr/reports/category/15-diger-raporlar",
+  "listing_sha256": "138139ca9e5c98b0cc7b005095e8e97c0770bbbbb7aad6d206adda98fe2f5f8f",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2007-11-30",
+  "in_force_basis": "Official report PDF, first pages: \"ca hazırlanan bu raporun Sayıştay Genel Kurulunun 30/11/2007 tarih ve 5205/1 sayılı kararı ile Türkiye Büy\" (report approval date); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
