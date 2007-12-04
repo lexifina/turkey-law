@@ -1,0 +1,3 @@
+Karar ve işlemler
+MADDE 5 – (1) Bir nihai gözden geçirme soruşturmasının açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulu tarafından Ç.H.C. menşeli söz konusu ürün için Yönetmeliğin 35 inci maddesi çerçevesinde nihai gözden geçirme soruşturması açılmasına ve 2004/14 sayılı Tebliğle önleme konu edilen madde tanımının, pano baskı yapılmamış ve kesilerek battaniye elde edilebilen mensucatı kapsayacak şekilde değiştirilmesi hususunun soruşturma kapsamında incelenmesine karar verilmiştir.
+(2) Soruşturmaya konu mevcut önlem, Yönetmeliğin 35 inci maddesi gereğince, soruşturma sonuçlanıncaya kadar devam eder.
