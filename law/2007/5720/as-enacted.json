@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5720",
+  "year": 2007,
+  "title": "2802 Sayılı Hâkimler ve Savcılar Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-12-04",
+  "gazette_issue": "26720",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071204-7.htm",
+  "source_sha256": "1a552261f864dd5445681f326e83296db5c8015e5377a101510de6d53c55fd62",
+  "text_sha256": "4f33705c89167818607fa6d1b8fba58698a1b3713e36497fff9268d43affb829",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/12/04/26720-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071204-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
