@@ -1,0 +1,3 @@
+Önleme tabi madde
+MADDE 2- (1) Önleme tabi madde 5806.32.90.00.11 gümrük tarife istatistik pozisyonu altında kayıtlı “Cırt Bant”tır.
+(2) Halihazırda yürürlükte olan kesin önlem, 13/12/2002 tarih ve 24962 sayılı Resmi Gazete’de yayımlanan 2002/15 sayılı İthalatta Haksız Rekabetin Önlemesine İlişkin Tebliğ (2002/15 sayılı Tebliğ) ile yürürlüğe konulmuş olup 2002/15 sayılı Tebliğ kapsamında 5806.32.90.00.00 gümrük tarife istatistik pozisyonu altında gösterilen “Cırt Bant” maddesi 30/12/2006 tarihli ve 26392 sayılı 1 inci Mükerrer Resmi Gazete’de yayımlanan 2006/11437 sayılı Bakanlar Kurulu Kararına ekli İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetveli’nde 2007 yılından itibaren 5806.32.90.00.11 GTİP’inde gösterilmektedir.
