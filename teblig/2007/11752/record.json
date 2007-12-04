@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11752",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2007/19)",
+  "number": "11752",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı bulunduğu Bakan",
+  "path": "teblig/2007/11752",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11752&MevzuatTertip=5",
+  "source_sha256": "86e08e458ca877bed8d80a329668aa2ea9fc4c8517c6cd744fbc92e123d6a158",
+  "source_bytes": 25946,
+  "published": "2007-12-04",
+  "gazette": "26720",
+  "in_force": "2007-12-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.12.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1282,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
