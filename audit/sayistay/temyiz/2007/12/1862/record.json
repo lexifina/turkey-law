@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29718",
+  "decision_date": "2007-12-04",
+  "source_id": 1862,
+  "chamber": "4",
+  "file_number": "29274",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1862/",
+  "source_sha256": "a553e1f6af848f906a9f16e3857e54a4c330679f703cea9f6abf59b3300ffe45",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
