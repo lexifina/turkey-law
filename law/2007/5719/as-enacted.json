@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5719",
+  "year": 2007,
+  "title": "Türkiye Futbol Federasyonu Kuruluş ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-12-04",
+  "gazette_issue": "26720",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071204-6.htm",
+  "source_sha256": "41b01ea247ddefd0a90701f9e5fa2f2e01e54b040acbd0ec07aac1ee4cd1f3b9",
+  "text_sha256": "3e3ccef8f8692c241b4aaa16e1411c6ae00f707595cf7f19a786a5a170c5c956",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/12/04/26720-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071204-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
