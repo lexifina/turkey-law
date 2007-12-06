@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-12-06",
+  "issue": "26722",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2007/12848 Türkiye Cumhuriyeti Adalet Bakanlığı ile Bosna-Hersek Adalet Bakanlığı Arasında İşbirliği Konusunda Protokol’ün Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071206-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071206.htm",
+  "index_sha256": "d82f5bdce95e4c9a3d5089584dd68bae213a510765865fbf21c439986ac62ee9",
+  "index_header": "6 Aralık 2007 ... 26722 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
