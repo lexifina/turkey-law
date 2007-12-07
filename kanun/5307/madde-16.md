@@ -25,4 +25,4 @@ Ay içinde tahsil edilen idarî para cezaları müteakip ayın yirminci işgün�
 İdarî para cezaları, tebliğ tarihini takip eden otuzgün içinde Kurul tarafından belirlenen hesaplara ödenir. Süresinde ödenmeyen cezalar, 21.7.1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre takip ve tahsil edilmek üzere Kurum tarafından cezaya muhatap olanların bağlı bulundukları vergi dairelerine bildirilir.
 İdarî para cezalarının miktarları her yıl bir önceki yıla ilişkin olarak 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi uyarınca belirlenen yeniden değerleme oranında artırılmak suretiyle uygulanır. Bu şekilde yapılacak hesaplamalarda milyon kesirleri dikkate alınmaz.
 –––––––––––––––
-(1) Bu maddede yer alan para cezalarının 1/1/2007 tarihinden itibaren uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
+(1) Bu maddede yer alan para cezalarının 1/1/2008 tarihinden itibaren uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
