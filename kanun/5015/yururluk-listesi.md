@@ -9,3 +9,4 @@ Değiştiren Kanunun/ Tebliğin/İptal Eden Anayasa Mahkemesinin Kararının Num
 5493 | Ek Madde 1 | 1/6/2006
 29/12/2006 tarihli ve 26391 sayılı R.G.’de yayımlanan Tebliğ | 19 | 1/1/2007
 5576 | 2, 7, Ek Madde 3, 4, 5 ve Geçici Madde 4 | 13/2/2007
+7/12/2007 tarihli ve 26723 sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2008
