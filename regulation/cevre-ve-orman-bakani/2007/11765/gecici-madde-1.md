@@ -1,0 +1,2 @@
+Faaliyette bulunan işletmelerin başvurusu
+GEÇİCİ MADDE 1 – (1) Bu Yönetmelik kapsamında halen faaliyette bulunan faaliyet sahipleri bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir yıl içinde bu Yönetmeliğin Ek-1’inde formatı verilen Çevre Yönetim Planını ve bu planı aynen uygulayacaklarını gösterir noter tasdikli taahhüdü İl Çevre ve Orman Müdürlüğüne vermek ve faaliyetlerini bu plan ve taahhüde göre gerçekleştirmekle yükümlüdürler.
