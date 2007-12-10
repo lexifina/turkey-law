@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29778",
+  "decision_date": "2007-12-10",
+  "source_id": 1818,
+  "chamber": "4",
+  "file_number": "28917",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1818/",
+  "source_sha256": "83f2b3a0b75b1cee4ff78ad546a8f4cc1f587c123ee9b2c8e048ec45b415ee78",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
