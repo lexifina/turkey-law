@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-12-10",
+  "issue": "26726",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2007/12846 Türkiye Cumhuriyeti Hükümeti ile Birleşmiş Milletler Kalkınma Programı Arasında İmzalanan, “Türkiye’de Ülke İçinde Yerinden Olmuş Kişiler Programının Geliştirilmesine Destek” Başlıklı Proje Belgesinin Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071210-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071210.htm",
+  "index_sha256": "631654fbd7d9598386e3d9fdf3863c30978eb0e287ca9cc951f6584f4ff12a4d",
+  "index_header": "10 Aralık 2007 ... 26726 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
