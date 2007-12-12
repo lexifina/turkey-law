@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.11770",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YOLCU GEMİLERİNİN EMNİYETİNE VE GEMİLERDEKİ YOLCULARIN KAYIT ALTINA ALINMASINA İLİŞKİN YÖNETMELİK",
+  "number": "11770",
+  "issuer": "Denizcilik Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "denizcilik-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/denizcilik-mustesarliginin-bagli-oldugu-bakan/2007/11770",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11770&MevzuatTertip=5",
+  "source_sha256": "838010c75352ea3b196779ac385b9264fec28c2a7fabf36f9f195aa77cf9c39d",
+  "source_bytes": 84508,
+  "published": "2007-12-12",
+  "gazette": "26728",
+  "in_force": "2007-12-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.12.2007); own commencement article: \"Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4491,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11770%20ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

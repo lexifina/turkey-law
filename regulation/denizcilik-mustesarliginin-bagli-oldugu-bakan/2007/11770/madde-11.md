@@ -1,0 +1,2 @@
+Muafiyet
+MADDE 11 – (1) İdare; emniyet düzeyinde bir azaltma yapılmaması koşuluyla ve 12 nci maddede belirtilen usullere tabi olarak; daha küçük belirgin dalga yüksekliği, sınırlı periyot, sadece gün ışığında veya uygun iklim ya da hava koşullarında sefer yapılması, sınırlı seyahat süresi veya kurtarma hizmetlerinin yakınlığı gibi belirli işletim koşullarında, açık denizden korunmalı kendi takım adaları, deniz alanları dâhil yurt içinde yapılacak kabotaj seferleri için gemileri bu Yönetmelikteki bazı şartlardan muaf tutabilir.

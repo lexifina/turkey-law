@@ -1,0 +1,2 @@
+Koruyucu önlemler
+MADDE 13 – (1) İdare, bu Yönetmelik hükümlerine uymasına rağmen kabotaj seferlerinde çalışan bir yolcu gemisinin veya teknenin; can, mal veya çevre için ciddi bir tehlike doğurduğu kanaatine varırsa, tehlike giderilinceye kadar, bu gemi veya teknenin işletimini askıya alabilir veya ek güvenlik önlemlerinin alınmasını isteyebilir. Bu gibi durumlarda İdare, talep hâlinde, sörvey neticesi tespit edilmiş nedenlerini de belirterek ilgili kuruluşları bilgilendirir.
