@@ -1,0 +1,3 @@
+Merkez müdürü
+MADDE 8 – (1) Merkez Müdürü; elektromanyetik, biyoelektromanyetik, elektromanyetik uyumluluk, mikrodalga ve mikrodalga antenler ile bunların uygulamalarına ilişkin araştırmalar ve yayınlar yapmış, tam gün çalışan Üniversite öğretim üyeleri arasından, Rektör tarafından iki yıl süre ile görevlendirilir. Süresi biten Merkez Müdürü tekrar görevlendirilebilir.
+(2) Müdür yardımcısı, Yönetim Kurulundaki öğretim üyeleri arasından Yönetim Kurulunca seçilir ve Rektör tarafından görevlendirilir. Merkez Müdürünün görevi başında olmadığı zamanlarda, Yönetim Kuruluna müdür yardımcısı başkanlık eder. Merkez Müdürünün kesintisiz altı aydan fazla bir süre ile görevi başında bulunamaması durumunda yeni bir Merkez Müdürü görevlendirilir.
