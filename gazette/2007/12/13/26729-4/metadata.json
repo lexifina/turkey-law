@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-12-13",
+  "issue": "26729",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Adnan Menderes Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071213-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071213.htm",
+  "index_sha256": "0757ec2d7dd00cddcc8090c99b0a04dc5d41c1a5325a80161654496c4f106b92",
+  "index_header": "13 Aralık 2007 ... 26729 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
