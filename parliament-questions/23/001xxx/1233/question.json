@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 23,
+  "legislative_year": 2,
+  "esas_no": "7/1233",
+  "submitted": "2007-12-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Fevzi TOPUZ",
+  "province": "Muğla",
+  "summary": "Bir grup Başbakanlık personeline örtülü ödenekten yardım yapılacağı iddiasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877be-103f-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "87f2b121d83bd76d2d79a4403f623e19faaf779fa7807c474d22373733dc16e8",
+  "in_force": "2007-12-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
