@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-12-14",
+  "issue": "26730",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "2007/12879 Mali Suçlarla Mücadele Koordinasyon Kurulunun Çalışma Usul ve Esasları Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071214-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071214.htm",
+  "index_sha256": "bd190345fcecc925e1e60a2a707c8c81b1c450978c8eb0971a9ca2d4f7894b04",
+  "index_header": "1 4 Aralık 2007 ... 26730 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
