@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29793",
+  "decision_date": "2007-12-14",
+  "source_id": 1833,
+  "chamber": "4",
+  "file_number": "28994",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1833/",
+  "source_sha256": "9d3a40755ced70ea0f433de1aa9d3cefdc584db5e70fdd97055fa593b0af8abb",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
