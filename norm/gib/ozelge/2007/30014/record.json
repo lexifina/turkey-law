@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.56/5615-40-111573",
+  "source_id": 30014,
+  "date": "2007-12-14",
+  "title": "Abonelerden veya anlaşmalı firmalardan ilave bir komisyon alması durumunda komisyon tutarları üzerinden genel oranda katma değer vergisi hesaplanacağı hakkında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/30014",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "b1a6d62a10a978a9e80e29893c2598ea761b12b3d168caee98c149f364e32e0b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
