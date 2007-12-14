@@ -1,0 +1,3 @@
+[1] 8/8/2005 tarihli ve 2005/9261 sayılı Bakanlar Kurulu Karanının Eki Yönetmeliğin 3 üncü maddesiyle birinci fıkrada yer alan "anapara, faiz, komisyon ve gider vergilerinin" ibaresi, "anapara ve faizlerinin" olarak değiştirilmiş ve metne işlenmiştir.
+[2] Bu madde başlığı “Yatırım ve istihdam koşulları” iken, 2/11/2007 tarihli ve 2007/12830 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 3 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[3] Bu madde başlığı “Yatırım ve istihdamın denetlenmesi ve şerhin kaldırılması” iken, 2/11/2007 tarihli ve 2007/12830 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.

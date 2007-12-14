@@ -1,0 +1,2 @@
+Devredilen taşınmazın tahliyesi ve geri alınması
+Madde 16 — Gerçek veya tüzel kişilerin iflas dahil yatırıma devam etmediğinin, ilgili organize sanayi bölgesi tarafından öngörülen sürede yatırımı tamamlamadığının veya tahsis edilen parsel ile ilgili olarak yapılan denetimler ve düzenlenen raporlar sonucunda, 5084 sayılı Kanun, bu Yönetmelik ve taahhütnamede belirtilen şartlara uyulmadığının tespiti halinde yapılan tahsis iptal edilir.

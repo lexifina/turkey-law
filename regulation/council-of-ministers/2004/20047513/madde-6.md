@@ -1,0 +1,4 @@
+Borçlardan mahsup işlemleri için başvuru
+Madde 6 — 5084 sayılı Kanunun yayımı tarihinden önce bedelli olarak tahsis edilmiş parsellerin mahsup işlemleri ile tahsis edilecek parsel bedellerinin mahsubu için ilgili organize sanayi bölgesi, müteşebbis heyet kararı ile birlikte Sanayi ve Ticaret Bakanlığına başvurmak zorundadır.
+Başvuruya, organize sanayi bölgesi yetkili organlarının kararı ile birlikte, 5084 sayılı Kanunun yayımı tarihinden önce bedelli olarak tahsis edilmiş parseller ile gerçek veya tüzel kişilere bedelsiz olarak tahsis edilecek boş parsellerin ada, parsel numaraları ile büyüklüklerini ve tahsis edilenleri gösterir Yönetim Kurulu tarafından tasdikli bir liste eklenecektir.
+Sanayi ve Ticaret Bakanlığı tarafından, ilgili organize sanayi bölgesinin başvurusu ekinde yer alan liste ve Türkiye Halk Bankası A.Ş. Genel Müdürlüğü tarafından takip edilen kredi hesabı dikkate alınarak yapılacak mahsup işlemlerinden ilgili bölgeye bilgi verilir.

@@ -1,0 +1,3 @@
+Ödemelerin durdurulması
+Madde 7 — 5084 sayılı Kanunun 2 nci maddesinin (b) bendi kapsamındaki illerde bulunan ve Sanayi ve Ticaret Bakanlığı kredisi kullanan organize sanayi bölgesinin mülkiyetinde bulunan ve tahsis edilmemiş parseller, organize sanayi bölgesi yetkili organlarının karar almaları halinde, gerçek veya tüzel kişilere; bedeli Sanayi ve Ticaret Bakanlığı tarafından organize sanayi bölgesine verilen kredilerden mahsup edilmek üzere, bedelsiz olarak tahsis edilebilir.
+5084 sayılı Kanunun yayımı tarihinden önce bedelli olarak tahsis edilmiş parseller için ödemeler durdurulur. Ancak tahsis bedeline ilişkin vadesi geçen borcu bulunan gerçek veya tüzel kişiler, borçlarını organize sanayi bölgesinin arsa satışları hesabına yatırır.

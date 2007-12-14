@@ -1,0 +1,3 @@
+Kapsam
+Madde 2 — (Değişik: 2/11/2007-2007/12830 K.)
+Bu Yönetmelik; kalkınmada öncelikli yöreler kapsamındaki iller ve Türkiye İstatistik Kurumu Başkanlığınca 2001 yılı için belirlenen fert başına gayrisafi yurt içi hasıla tutarı 1500 ABD Doları veya daha az olan iller ile bu iller dışında kalan ve Devlet Planlama Teşkilatı Müsteşarlığınca 2003 yılı için belirlenen sosyo-ekonomik gelişmişlik sıralamasına göre endeks değeri eksi olan illerdeki organize sanayi bölgelerinde, 29/1/2004 tarihli ve 5084 sayılı Kanunun öngördüğü istihdam sayısını sağlayacak yatırımlar için organize sanayi bölgelerinin yetkili organlarının karar alması halinde bedelsiz parsel tahsisinden yararlanacak olan gerçek veya tüzel kişileri kapsar.

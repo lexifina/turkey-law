@@ -1,0 +1,4 @@
+Başvuru ve istenecek bilgi ve belgeler
+Madde 4 — 4562 sayılı Organize Sanayi Bölgeleri Kanununda ve 1/4/2002 tarihli ve 24713 sayılı Resmî Gazete’de yayımlanan Organize Sanayi Bölgeleri Uygulama Yönetmeliğinde belirtilen yatırımları kapsamak kaydıyla, bedelsiz parsel tahsisi isteyen gerçek veya tüzel kişiler Ek: 1'de yer alan form dilekçe ve Ek: 2'de yer alan yatırım bilgi formunu doldurup tahsisi talep edilen parselin bulunduğu organize sanayi bölgesine başvurur.
+İlgili organize sanayi bölgesinin yetkili organı parsel tahsislerine ilişkin kararını müracaat tarihinden itibaren en geç 30 takvim günü içerisinde verir.
+5084 sayılı Kanunun yayımı tarihinden önce parsel tahsis edilen gerçek veya tüzel kişilerden, Kanunun yayımı tarihinden sonra tahsisleri iptal edilenlere, bu Kanun gereğince yeni tahsis yapılamaz.
