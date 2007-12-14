@@ -1,0 +1,190 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5724",
+  "year": 2007,
+  "title": "2008 Yılı Merkezi Yönetim Bütçe Kanunu",
+  "adopted": "2007-12-14",
+  "adopted_as_published": "14/12/2007",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.12.2007 No: 26740 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc092/kanuntbmmc092/kanuntbmmc09205724.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 92",
+  "committee_reports": [
+    {
+      "label": "TBMM 57 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c007/tbmm23007029ss0057.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 708549,
+      "title": "2008 Yılı Merkezi Yönetim Bütçe Kanunu",
+      "adopted_as_published": "14/12/2007",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc092/kanuntbmmc092/kanuntbmmc09205724.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 57 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c007/tbmm23007029ss0057.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 29,
+          "sitting_date": "2007-12-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c007/tbmm23007029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c007/tbmm23007fih.pdf",
+          "pages": [
+            "10:60",
+            "63:90",
+            "93:99",
+            "99:101"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 30,
+          "sitting_date": "2007-12-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c008/tbmm23008030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c008/tbmm23008fih.pdf",
+          "pages": [
+            "9:46",
+            "47:82",
+            "83:105",
+            "105:123"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 31,
+          "sitting_date": "2007-12-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c008/tbmm23008031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c008/tbmm23008fih.pdf",
+          "pages": [
+            "172:283",
+            "284:291"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 32,
+          "sitting_date": "2007-12-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c008/tbmm23008032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c008/tbmm23008fih.pdf",
+          "pages": [
+            "309:366",
+            "366:420",
+            "421:432"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 33,
+          "sitting_date": "2007-12-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c008/tbmm23008033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c008/tbmm23008fih.pdf",
+          "pages": [
+            "462:504",
+            "507:544",
+            "545:573",
+            "573:587"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 34,
+          "sitting_date": "2007-12-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c008/tbmm23008034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c008/tbmm23008fih.pdf",
+          "pages": [
+            "602:661",
+            "662:671",
+            "677:795"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 35,
+          "sitting_date": "2007-12-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c009/tbmm23009035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c009/tbmm23009fih.pdf",
+          "pages": [
+            "11:131"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 36,
+          "sitting_date": "2007-12-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c009/tbmm23009036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c009/tbmm23009fih.pdf",
+          "pages": [
+            "182:232",
+            "233:290",
+            "292:329"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 37,
+          "sitting_date": "2007-12-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c009/tbmm23009037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c009/tbmm23009fih.pdf",
+          "pages": [
+            "382:471",
+            "471:526",
+            "528:547"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 38,
+          "sitting_date": "2007-12-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c009/tbmm23009038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c009/tbmm23009fih.pdf",
+          "pages": [
+            "687:818",
+            "822:832"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 39,
+          "sitting_date": "2007-12-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c010/tbmm23010039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c010/tbmm23010fih.pdf",
+          "pages": [
+            "7:83",
+            "84:93"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "aa79592b095d9f3b18682390b140a6620e1ab5c78c002a7c5c7aa1307ecc739e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "aa79592b095d9f3b18682390b140a6620e1ab5c78c002a7c5c7aa1307ecc739e",
+  "issuer": "TBMM",
+  "in_force": "2007-12-14",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 14/12/2007; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
