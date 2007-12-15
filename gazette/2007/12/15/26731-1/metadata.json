@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-12-15",
+  "issue": "26731",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2007/12886 Türkiye Cumhuriyeti-İran İslam Cumhuriyeti Yüksek Hudut Komisyonu 24 üncü Dönem Toplantısı Tutanağı’nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071215-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071215.htm",
+  "index_sha256": "eb86476bc95d42e431267181d8b1b74db18e3b3e9972b2f42c89b3c4e891f523",
+  "index_header": "15 Aralık 2007 ... 26731 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
