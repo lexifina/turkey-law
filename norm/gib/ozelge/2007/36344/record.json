@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.60/6003-163/112344",
+  "source_id": 36344,
+  "date": "2007-12-17",
+  "title": "İlim, araştırma, kültür, sanat, sıhhat, eğitim, din, hayır, imar ve spor gibi maksatlarla yaptığı yardımların söz konusu Kanunun 4 üncü maddesinin (f) bendi uyarınca vergiden istisna edilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36344",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "49fadd67ae04ec8ae9767d68fc9c4c666a4cc3f133a72c992bd4578311287b3b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
