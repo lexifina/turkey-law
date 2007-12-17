@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1428",
+  "decision_date": "2007-12-17",
+  "title": "2008 yılı boyunca uygulanmak üzere, doğal gaz piyasası ile ilgili depolama tarifesi hakkında",
+  "resmi_gazete_date": "2007-12-26",
+  "resmi_gazete_number": "26738",
+  "categories": [
+    "Depolama"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ACx8KbBq3Tc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ACx8KbBq3Tc="
+  ],
+  "source_sha256": "d825b783ea4b8612e966db4508490db8ded0a779501416fb19091e3a9c34eb76",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7229,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-12-17",
+  "law_text_complete": false
+}
