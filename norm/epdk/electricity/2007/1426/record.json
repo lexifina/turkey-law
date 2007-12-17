@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1426",
+  "decision_date": "2007-12-17",
+  "title": "20 dağıtım şirketi tarafından 2008 yılında uygulanacak tarifelere ilişkin Kurul Kararı",
+  "resmi_gazete_date": "2007-12-26",
+  "resmi_gazete_number": "26738",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=K5pEr6A2fS4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=K5pEr6A2fS4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xkavyfhFtoY="
+  ],
+  "source_sha256": "655fb8248aaf25b4619ccf3e18a53665076484c1c2dbe6decb1a3ffac161c281",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-12-17",
+  "law_text_complete": false
+}
