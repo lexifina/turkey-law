@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5723",
+  "year": 2007,
+  "title": "Türkiye Cumhuriyeti ile Arnavutluk Cumhuriyeti Arasında Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2007-12-18",
+  "gazette_issue": "26734",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071218-2.htm",
+  "source_sha256": "06da5563e2ff9ce7348cd405eae3abd11184092e11147a223b6b39a11f588677",
+  "text_sha256": "6a105b13eb42a4984ed86a8449a8e271d01c71976d9710cec0f79074c82291b1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2007/12/18/26734-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071218-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
