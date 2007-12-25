@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29817",
+  "decision_date": "2007-12-25",
+  "source_id": 1925,
+  "chamber": "8",
+  "file_number": "29498",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1925/",
+  "source_sha256": "8f76dca32c2b00ade37fc6a42254bf391e5b2ffced6e8df5e3bb385892e3864c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
