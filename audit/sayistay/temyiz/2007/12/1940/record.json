@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29832",
+  "decision_date": "2007-12-25",
+  "source_id": 1940,
+  "chamber": "2",
+  "file_number": "29190",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1940/",
+  "source_sha256": "83e49188f99f389d68ad5d756a60f994eb67bd0c6be907a0527677a48c328260",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
