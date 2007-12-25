@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-30/2007-6 / e-Beyanname-8",
+  "source_id": 811,
+  "date": "2007-12-25",
+  "title": "24/12/2007 tarihine kadar verilmesi gereken beyannamelerin verilme süresinin uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/811",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "8ed4dd56b6adaf2bba278c2caa6b17fe51146206d3ec5c1b6eb30a5cef98d6d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
