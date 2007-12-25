@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-12-25",
+  "issue": "26737",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2007/12893 İstanbul İli, Eminönü İlçesinde Yer Alan Bazı Yerleşim Alanlarının Yenileme Alanı Olarak Kabul Edilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071225-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071225.htm",
+  "index_sha256": "729038d6685dfe5de5985e65e4fe24f5b124ca18fd48ca07a8e6c0163e54f7ed",
+  "index_header": "25 Aralık 2007 ... 26737 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
