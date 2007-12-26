@@ -1,0 +1,15 @@
+T.C.
+YÜKSEK SEÇİM KURULU
+Karar No : 915
+İtiraz No : - K A R A R -
+Sağlık ve Sosyal Hizmet Çalışanları Sendikası (Sağlık Sen) tarafından Kurulumuz Başkanlığına verilen 20/11/2007 gün ve MSK.03.SS.30/2007/1354 sayılı yazıda; 17/11/2007 tarihinde Sağlık-Sen Bursa Şubesi adına, sendikaları tarafından (1) nolu şube olarak atanan yönetimin hukuka aykırı olarak 2. Olağan Genel Kurulunu yaptığı ve alınan kararlara aykırı olarak organ seçimlerini ve üst kurul delegelerini belirledikleri, yapılan hukuka aykırılıklara istinaden sendikalarınca Bursa İlinde delege seçimlerinin bazı yerlerde yenilenmesi kararı aldıkları, yapılan kongrenin Bursa Şubesi adına yapılmasının hukuka aykırı olduğu, alınan karar doğrultusunda iki delege belirlenmesi gerekirken 9 delegenin belirlendiği, seçimlerin durdurulmasına yönelik dilekçelerinin Osmangazi İlçe Seçim Kurulu Başkanlığına teslim edildiği, ancak ilçe seçim kurulu başkanlığınca talebin reddedildiği, seçimlerin yapılması ve üst kurul delegelerinin belirlenmesi üzerine sendika avukatı tarafından tekrar ilçe seçim kurulu başkanlığına itirazda bulunulduğu, ancak itirazın reddedildiği, hukuka aykırı olarak Sağlık-Sen Bursa Şubesi adına ve Osmangazi İlçe Seçim Kurulu Başkanlığında yapılan seçimin usul ve yasaya aykırı olduğu belirtilerek, gerekli incelemenin yapılarak organ seçimlerinin iptali istenilmiş ve Kurulumuzun 01/12/2007 tarih ve 903 sayılı ara kararıyla istenen bilgi ve belgeler gelmiş olmakla, konu incelenerek;
+GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ:
+Sendika organ seçimlerinin yargı gözetimi altında yapılacağı, itiraz üzerine hakimin vereceği kararın kesin olduğu 2821 sayılı Sendikalar Kanununun 14 üncü maddesinde hüküm altına alınmıştır.
+Osmangazi 1. İlçe Seçim Kurulu Başkanı itirazı inceleyerek kesin olarak karara bağlamıştır.
+Yüksek Seçim Kurulunun görev ve yetkileri Türkiye Cumhuriyeti Anayasasının 79 uncu ve 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 14 üncü maddelerinde açıkça belirlenmiş ve uygulama alanı da, aynı Kanunun 1 inci maddesinde sayılan seçimlerle sınırlandırılmıştır. 298 sayılı Kanunun 1 inci maddesinde sözü edilenler dışında kalan ve fakat yargı gözetimi altında yapılması öngörülen diğer seçimler için özel kanunların da Yüksek Seçim Kuruluna görev ve yetki veren açık bir hüküm de mevcut değildir.
+O halde, Sağlık ve Sosyal Hizmet Çalışanları Sendikasının 17/11/2007 tarihinde yargı gözetimi altında yapılan Bursa Şubesi 2. Olağan Genel Kurulu organ seçimlerine ilişkin olarak İlçe Seçim Kurulu Başkanınca 19/11/2007 tarihinde verilen kararın kesin olması nedeniyle itirazın reddine karar verilmelidir.
+S O N U Ç:
+Yukarıda açıklanan nedenlerle;
+1- Sağlık ve Sosyal Hizmet Çalışanları Sendikasının 17/11/2007 tarihinde yargı gözetimi altında yapılan Bursa 2. Olağan Genel Kurulu organ seçimlerine ilişkin olarak İlçe Seçim Kurulu Başkanınca 19/11/2007 tarihinde verilen kararın kesin olması nedeniyle itirazın reddine,
+2- Karar örneğinin Osmangazi 1. İlçe Seçim Kurulu Başkanlığına ve Sağlık ve Sosyal Hizmet Çalışanları Sendikası (Sağlık-Sen)’na gönderilmesine,
+26/12/2007 tarihinde oybirliği ile karar verildi.
