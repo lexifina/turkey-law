@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11790",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2008 YILI TANIKLIK ÜCRET TARİFESİ",
+  "number": "11790",
+  "path": "teblig/2007/11790",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11790&MevzuatTertip=5",
+  "source_sha256": "5e6454e0d29f1eeaabc25a1728c9e799117b7a6db475af7483597200811c2dcc",
+  "source_bytes": 13938,
+  "published": "2007-12-26",
+  "gazette": "26738",
+  "in_force": "2007-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 172,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
