@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11793",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 34)",
+  "number": "11793",
+  "path": "teblig/2007/11793",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11793&MevzuatTertip=5",
+  "source_sha256": "735a1074aacca4a1c2106779ddcd948e79ef3516372643c1093530d720d217cb",
+  "source_bytes": 46832,
+  "published": "2007-12-26",
+  "gazette": "26738",
+  "in_force": "2007-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 632,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
