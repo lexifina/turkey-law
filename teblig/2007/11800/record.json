@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.11800",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 54)",
+  "number": "11800",
+  "path": "teblig/2007/11800",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11800&MevzuatTertip=5",
+  "source_sha256": "caf80bc18bee618ac3a475f8fba23e94a6651af083bdf9db5652a7972a2fec5b",
+  "source_bytes": 11348,
+  "published": "2007-12-26",
+  "gazette": "26738",
+  "in_force": "2007-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 313,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11800-Ek.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
