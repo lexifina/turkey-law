@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11792",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MOTORLU TAŞITLAR VERGİSİ GENEL TEBLİĞİ SERİ NO: 29",
+  "number": "11792",
+  "path": "teblig/2007/11792",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11792&MevzuatTertip=5",
+  "source_sha256": "1dc858f52ad6f41d04f0b8d8a31559e2ec6ac5445ebda2d4bb3395d5f84f7eb5",
+  "source_bytes": 89073,
+  "published": "2007-12-26",
+  "gazette": "26738",
+  "in_force": "2007-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 953,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
