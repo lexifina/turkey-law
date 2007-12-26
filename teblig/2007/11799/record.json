@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11799",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU İÇ KONTROL STANDARTLARI TEBLİĞİ",
+  "number": "11799",
+  "path": "teblig/2007/11799",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11799&MevzuatTertip=5",
+  "source_sha256": "214b25df00f8212e8436052d3cd761bb1506d0f6c09a5e95f9b2bb8bca4122a6",
+  "source_bytes": 76797,
+  "published": "2007-12-26",
+  "gazette": "26738",
+  "in_force": "2007-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2836,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
