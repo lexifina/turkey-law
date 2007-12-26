@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11797",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİNO: 55)",
+  "number": "11797",
+  "path": "teblig/2007/11797",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11797&MevzuatTertip=5",
+  "source_sha256": "cc8a106916790f96db1379b8649212c01d79bb5f5e4f2b2bfeda51c6d5eacf57",
+  "source_bytes": 8533,
+  "published": "2007-12-26",
+  "gazette": "26738",
+  "in_force": "2007-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 191,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
