@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1439/2",
+  "decision_date": "2007-12-27",
+  "title": "2008 yılı boyunca uygulanmak üzere, doğal gaz piyasası ile ilgili toptan satış tarifesi hakkında",
+  "resmi_gazete_date": "2007-12-30",
+  "resmi_gazete_number": "26742",
+  "categories": [
+    "Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uJNNJOnfk3c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uJNNJOnfk3c="
+  ],
+  "source_sha256": "796dc4f55d81d2b0de1e8c6fad18f020ebf379efac59c4c359878f8ebda3d995",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7233,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-12-27",
+  "law_text_complete": false
+}
