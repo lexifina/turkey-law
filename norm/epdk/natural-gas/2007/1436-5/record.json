@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1436/5",
+  "decision_date": "2007-12-27",
+  "title": "Doğal gaz dağıtım işinin özelliği, rekabetin arttırılması, ucuz ve kaliteli doğal gazın piyasaya sunulması ve doğal gaz hizmet kalitesinin yükseltilmesi amacıyla, dağıtım şirketlerinin sahip olabileceği şehir sayısının onbir’den yirmi’ye arttırılmasına İlişkin",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=D1ea4aoeX6E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=D1ea4aoeX6E="
+  ],
+  "source_sha256": "f52b720a050a2d68debd77f42258231233dbbc5f87cc6d7595edaeac77938a93",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2007-12-27",
+  "law_text_complete": false
+}
