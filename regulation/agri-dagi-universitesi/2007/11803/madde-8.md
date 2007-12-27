@@ -1,0 +1,5 @@
+Ders alma
+MADDE 8 – (1) Yaz okulunda öğrenciler; alt yarıyıllara ait hiç almadıkları, alıp da sınavına girme hakkı elde edemedikleri, alıp da başarısız oldukları veya AGNO'larını yükseltmek istedikleri dersleri alabilirler. Birimlerle ilgili mevzuata göre başarılı olan öğrenciler, üst yarıyıllara ait dersleri de yaz okulunda alabilir. Yan dal veya çift ana dal programına ait dersler yaz okulunda tamamlanabilir.
+(2) Yaz okuluna kayıt yaptıran her öğrenci, toplam en çok 10 kredilik ders alabilir; ancak bir dersin kredi saatinin 10’un üzerinde olması halinde sadece bu ders alınabilir. Kayıt donduran öğrenciler, kayıt dondurdukları yarıyıllara ait dersleri yaz okulunda alamaz.
+(3) Üniversite öğrencileri, diğer üniversitelerin yaz öğretimlerinden; lisans ve ön lisans dersleri için ilgili fakülte ve yüksekokul yönetim kurullarının; lisansüstü dersler için de ilgili enstitü yönetim kurulunun uygun görmesi şartıyla faydalanabilir.
+(4) Yaz okulunda açılan derslere, diğer üniversitelerin öğrencileri kontenjan uygun olduğu takdirde ilgili birimin yönetim kurulu kararı ile kabul edilebilir.

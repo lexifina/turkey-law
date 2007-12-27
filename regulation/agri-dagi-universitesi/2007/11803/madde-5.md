@@ -1,0 +1,2 @@
+Akademik takvim
+MADDE 5 – (1) Yaz okulunun akademik takvimi; bahar dönemi sonundaki yarıyıl sonu sınavlarının tamamlanmasından en az iki hafta sonra başlayacak şekilde, ön lisans ve lisans dersleri için ilgili fakülte/yüksekokul kurulunun, lisansüstü dersler için ilgili enstitü kurulunun önerisi üzerine Senato tarafından belirlenir. Akademik takvimde, ön kayıt ve kesin kayıt tarihleri de belirtilir.
