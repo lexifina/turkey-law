@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11805",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 266)",
+  "number": "11805",
+  "path": "teblig/2007/11805",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11805&MevzuatTertip=5",
+  "source_sha256": "d03c605f5166b61a44879fc82e92e48434e2afa84d97aeeb4f02e25b3426d2f6",
+  "source_bytes": 37190,
+  "published": "2007-12-28",
+  "gazette": "26740",
+  "in_force": "2007-12-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.12.2007)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1551,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
