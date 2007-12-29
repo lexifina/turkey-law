@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2007/927",
+  "list_number": "927",
+  "decision_date": "2007-12-29",
+  "title": "YSK ilke kararı 2007/927",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3240/2007-927-karar.htm",
+  "source_sha256": "345b61da027c348d05115d2f43d63b6550a0ab282da4f39b5254aee386fa11f1",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2007-12-29",
+  "law_text_complete": false
+}
