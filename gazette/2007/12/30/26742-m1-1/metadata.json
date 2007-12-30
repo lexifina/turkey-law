@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-12-30",
+  "issue": "26742",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2007/13007 İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetveli’nin 1/1/2008 Tarihinden Geçerli Olmak Üzere Yürürlüğe Konulması ve 22/12/2006 Tarihli ve 2006/11437 Sayılı Kararnamenin Yürürlükten Kaldırılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071230M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071230M1.htm",
+  "index_sha256": "846198b18c1ae4b4d149e516b2d372a8733a7656879bf25facb6019f896735c1",
+  "index_header": "30 Aralık 2007 ... 26742 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
