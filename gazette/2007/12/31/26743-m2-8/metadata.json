@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2007-12-31",
+  "issue": "26743",
+  "edition": "mükerrer 2",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "DÜZELTME 10/12/2007 Tarihli ve 26726 Sayılı Resmî Gazete’de Yayımlanan 2007/68 Sayılı İşkolu Tespit Kararı ile İlgili",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071231M2-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2007/12/20071231M2.htm",
+  "index_sha256": "579d4415222974f5cbadd66eceebb4be381e0032971ce1a96bfea364c2a8007e",
+  "index_header": "31 Aralık 2007 ... 26743 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
