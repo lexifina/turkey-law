@@ -1,0 +1,29 @@
+{
+  "number": "month-12-2",
+  "year": 2007,
+  "month": 12,
+  "title": "Karar No 2007-12-1 Aralık 2007 karar özeti (listed day 01 = month placeholder)",
+  "decision_date": null,
+  "index_date": "2007-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2007",
+  "source": "https://www.incesu.bel.tr/meclis-kararlari?sayfa=14",
+  "official_page": null,
+  "official_document": "https://www.incesu.bel.tr/uploads/meclis/karar/2007/13-2007-aralik-2-bilisim-karar-ozeti.doc?v=1770199022",
+  "source_sha256": "5b4a17598be60c543cbfc2d37856a01e7e784d2dce1c59ee46d5e23af3d78dc7",
+  "issuer": "İncesu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2007-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2007); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Karar No 2007-12-1 Aralık 2007 karar özeti (listed day 01 = month placeholder)",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "day_range_as_published": "12-1"
+}
