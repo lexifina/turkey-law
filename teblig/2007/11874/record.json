@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.11874",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELİRLİ ÜÇÜNCÜ ÜLKELERDE İŞLEM GÖRDÜKTEN SONRA GERİ İTHAL EDİLEN BELİRLİ TEKSTİL ÜRÜNLERİNE VE GİYİM EŞYASINA UYGULANAN EKONOMİK ETKİLİ HARİÇTE İŞLEME REJİMİ TEBLİĞİ (2008/4)",
+  "number": "11874",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2007/11874",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11874&MevzuatTertip=5",
+  "source_sha256": "41211c8f2407c8f1fa1d28282a24efb93fdcd88c4074ab58479ae798bd49e0e3",
+  "source_bytes": 18049,
+  "published": "2007-12-31",
+  "gazette": "26743 (3.Mükerrer)",
+  "in_force": "2007-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2007); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 780,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11874-ek1.xls",
+    "9.5.11874-ek2.doc",
+    "9.5.11874-ek3.doc",
+    "9.5.11874-ek4.doc",
+    "9.5.11874-ek5.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
