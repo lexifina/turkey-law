@@ -1,0 +1,2 @@
+Maddi duran varlıklara sonradan yapılan harcamalar
+MADDE 53 – (1) Maddi duran varlıklar için sonradan yapılan ve o varlığın değerini, kullanım süresini, ürün ve hizmet kalitesini, sağlanan faydayı arttıran veya üretilen mal veya hizmetlerin üretim maliyetini azaltan her türlü maliyet ilgili maddi duran varlığın kayıtlı değerine ilave edilir ve amortisman hesaplamasında dikkate alınır. Bunların dışında maddi duran varlıklar için hesaplanan normal bakım ve onarım harcamaları gibi her türlü maliyet gider olarak kaydedilir.

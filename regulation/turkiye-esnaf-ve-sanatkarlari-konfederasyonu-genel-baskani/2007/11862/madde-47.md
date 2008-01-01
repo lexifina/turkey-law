@@ -1,0 +1,2 @@
+Mübadele işlemlerinden sağlanan gelirler
+MADDE 47 – (1) Malların takas yoluyla satışı, karşılık olarak hizmet gördürülmesi ve başka kuruluşlara ait varlıkların kullanımı gibi faaliyet ve işlemlerden sağlanan gelirler işlem günündeki rayiç değerleri ile kaydedilir. Bu işlemler sırasında mübadeleye konu mal ve hizmetler arasında para ile ölçülebilen farklılıklardan doğan kazanç ve kayıplar da işlem günündeki rayiç değerleri ile kaydedilir.

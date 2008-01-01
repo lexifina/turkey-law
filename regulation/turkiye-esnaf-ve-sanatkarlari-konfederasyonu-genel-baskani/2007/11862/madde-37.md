@@ -1,0 +1,3 @@
+Dönem sonu işlemleri
+MADDE 37 – (1) Geçici mizanın çıkarılmasının ardından, yeniden değerlemeye tabi tutulacak varlıklar, yükümlülükler ile taahhüt ve garantilerin değerlemeye tabi tutulması; amortismana tabi varlıklar için amortisman hesaplanması; muhasebe birimlerinin kontrolü altındaki varlıkların sayılması ve gerekli tutanakların düzenlenmesi; gelir ve gider hesaplarının faaliyet sonuçları hesapları ile karşılaştırılıp faaliyet sonucunun belirlenmesi gibi işlemler dönem sonu işlemleridir.
+(2) Her muhasebe döneminin sonunda muhasebe birimlerinin yöneticileri dönem sonu işlemlerini tamamlayıp, bilançoya ve yeni muhasebe döneminin açılış kayıtlarına esas olacak kesin mizanı düzenler.

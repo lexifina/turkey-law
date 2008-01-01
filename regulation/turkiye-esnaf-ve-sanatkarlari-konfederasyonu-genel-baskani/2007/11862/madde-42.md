@@ -1,0 +1,5 @@
+Yabancı para cinsinden yapılan işlemler ve kur değişiklikleri
+MADDE 42 – (1) Yabancı para cinsinden yapılan işlemler, fiyatı yabancı para cinsinden belirlenen mal ve hizmetlerin alım ve satımları, yabancı para cinsinden borç temin edilmesi ve borç verilmesi, yabancı para birimine dayalı bir anlaşmaya taraf olunması veya yabancı para cinsinden bir varlığın elde edilmesi veya elden çıkarılması veya döviz cinsinden bir yükümlülüğün oluşması veya yerine getirilmesi gibi işlemlerdir.
+(2) Yabancı para cinsinden gerçekleştirilen işlemler, muhasebe kayıtlarına işlem tarihindeki kur üzerinden, raporlara ise değerleme günündeki kur üzerinden yansıtılır.
+(3) Yabancı para cinsinden yapılan bir işlemden kaynaklanan parasal bir kalemin ilk kayda alındığı gün ile değerleme günü ya da ödeme günü veya tahsilat yoluyla kayıtlardan çıkarıldığı gün arasındaki kurlarda değişme olduğunda ortaya çıkan kur farkları oluştukları dönemlerde gelir, gider veya emanet olarak kaydedilir.
+(4) Dönem net fazla veya açığının ne kadarının kur farklarından kaynaklandığı ve kur farklılıklarının raporlara etkileri raporların dip notlarında belirtilir.

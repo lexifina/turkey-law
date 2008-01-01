@@ -1,0 +1,2 @@
+Defter ve belge düzeni
+MADDE 79 – (1) Bu Yönetmeliğin ve bu Yönetmeliğe uygun olarak hazırlanacak özel yönetmeliklerin uygulanması sırasında kayıt, denetim, kontrol ve takip açısından standart bir belge düzeninin oluşturulması için gerekli defterler, belgeler ve muhasebeleştirme fişleri ilgili oda, birlik, federasyonunda görüşü alınarak Konfederasyonca belirlenir. Esnaf ve sanatkâr meslek kuruluşları, bunların dışında kendi iç ihtiyaçları doğrultusunda ilave belgeler oluşturup kullanabilirler.

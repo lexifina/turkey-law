@@ -1,0 +1,2 @@
+Hesapların detayı
+MADDE 27 – (1) Hesap planları üç haneli bilanço, bütçe ve faaliyet tablosu hesapları ile nazım hesaplara ve bunlar da raporlama ve kurumların ihtiyaçlarına uygun olarak alt hesaplara ayrılır. İstatistiksel amaçlı ayrıntılı bilgiler elde etmeye ve rapor hazırlamaya ihtiyaç duyulduğunda, kullanılacak hesaplar ve bunların nasıl alt hesaplara ayrılacağı Konfederasyonca ayrıca belirlenir. Hesap gruplarına ve bilanço hesaplarına ilişkin açıklamalar aşağıdaki maddelerde yapılmıştır.

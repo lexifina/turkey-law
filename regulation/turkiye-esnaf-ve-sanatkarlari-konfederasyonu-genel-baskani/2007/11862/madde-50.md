@@ -1,0 +1,2 @@
+Malî varlıklar ve sınıflandırılması
+MADDE 50 – (1) Malî varlıklar kasadaki nakit, banka hesaplarındaki mevcutlar, verilen borçlardan dolayı alacaklar, senet, tahvil ve benzeri menkul varlıklar, malî türevler, bir sözleşmeden doğan alacağı ifade eden haklar ve hesaplarda kayıtlı alacaklar gibi maddi varlıkların dışındaki her türlü değerleri kapsar. Malî varlıklar kaynaklarına ve türlerine göre sınıflara ayrılarak kaydedilir ve raporlanır.

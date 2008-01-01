@@ -1,0 +1,3 @@
+Maddi olmayan duran varlıklar ve kayıt değerleri
+MADDE 54 – (1) Maddi olmayan duran varlık, mal veya hizmet üretiminde veya ediniminde kullanılmak veya üçüncü kişilere kiraya verilmek veya idari amaçlar için kullanılmak üzere elde tutulan, fiziki özü bulunmayan ve parasal kalem olmayan marka, isim, bilgisayar yazılımı, telif, patent, sınai ve işletme hakları gibi kalemlerdir. Maddi olmayan bir duran varlığın maliyeti o varlığın satın alındığı veya üretildiği sırada yapılan nakit veya nakit benzeri harcama veya varlığın elde edilmesi için verilen kıymetlerin rayiç değeridir.
+(2) Maddi olmayan bir duran varlık elden çıkarıldığı, kullanımı veya satışından hiçbir ekonomik fayda beklenilmediği zaman hesaplardan çıkarılır.

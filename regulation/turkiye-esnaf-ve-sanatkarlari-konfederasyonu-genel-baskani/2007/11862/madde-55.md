@@ -1,0 +1,2 @@
+Değer ve miktar değişimleri
+MADDE 55 – (1) Malî ve malî olmayan varlıkların raporlama dönemlerinde değerlemeye tabi tutulmaları sonucunda; fiyat değişmelerinden dolayı ortaya çıkan artış ve azalışlar değer değişimi, borçların ve alacakların silinmesi veya azaltılması varlıkların hacim, sayı gibi miktarlarında meydana gelen artış ve azalışlar miktar değişimidir. Bu şekilde ortaya çıkan kazanç ve kayıplar faaliyet hesapları grubunda açılacak hesaplara kaydedilir. Bu şekillerde ortaya çıkan kazanç ve kayıpların öz kaynakları nasıl etkilediği bilançonun dip notlarında açıklanır.

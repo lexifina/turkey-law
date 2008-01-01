@@ -1,0 +1,2 @@
+Nazım hesaplar
+MADDE 35 – (1) Bu ana hesap grubu, varlık, kaynak, gelir ve gider hesaplarının dışında, muhasebenin sadece bilgi verme görevi yüklediği işlemler, muhasebe disiplini altında toplanması istenen işlemleri ile gelecekte doğması muhtemel hak ve yükümlülükleri kapsar. İleride yükümlülük doğurabilecek işlemler ile kamu idarelerinin her türlü garantileri ve taahhütleri bu grupta açılacak hesaplara kaydedilir ve raporlanır. Kuruluşlar yönetim ve bilgi ihtiyaçlarına göre kendi nazım hesaplarını oluşturur.

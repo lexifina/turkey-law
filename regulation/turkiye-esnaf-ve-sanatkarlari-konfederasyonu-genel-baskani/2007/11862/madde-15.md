@@ -1,0 +1,2 @@
+Malî tabloların hazırlanmasından sorumlu olanlar
+MADDE 15 – (1) Esnaf ve sanatkârlar meslek kuruluşlarının malî raporları ve tabloları esnaf ve sanatkâr meslek kuruluşunun muhasebe işlerinden sorumlu birimleri tarafından belirlenen standartlara uygun olarak hazırlanır ve yönetim kurulunun onayını müteakip bütçe yılını takip eden yılın şubat ayı sonuna kadar bağlı bulunulan üst kuruluşlara gönderilir.

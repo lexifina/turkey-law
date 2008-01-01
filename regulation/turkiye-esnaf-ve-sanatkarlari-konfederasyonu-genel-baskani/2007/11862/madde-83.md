@@ -1,0 +1,2 @@
+Tasdik zamanı
+MADDE 83 – (1) Bu Yönetmelikte belirtilen defterleri kullanacak olanlar, bu defterleri kullanılacağı yıldan önce gelen son ayda (aralık ayında), tasdike tabi defterlerin dolması dolayısıyla veya sair sebeplerle yıl içinde yeni defter kullanmaya mecbur olanlar bunları kullanmaya başlamadan önce tasdik ettirmek zorundadırlar. Defterlerini ertesi yılda da kullanmak isteyenler kullanacakları yılın ocak ayı içinde tasdiki yeniletmeye mecburdurlar.

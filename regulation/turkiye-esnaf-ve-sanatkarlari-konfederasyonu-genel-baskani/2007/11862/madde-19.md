@@ -1,0 +1,2 @@
+Bilanço
+MADDE 19 – (1) Bilanço, esnaf ve sanatkârlar meslek kuruluşlarının belli bir tarihteki varlıklarını, yükümlülüklerini ve öz kaynaklarını gösteren tablodur. Kesin mizanda yer alan hesapların borç kalanları bilançonun varlık hesaplarını, alacak kalanları da bilançonun yükümlülük hesaplarını ifade eder. Varlık ve yükümlülükleri düzenleyici hesaplar bulundukları grupta eksi değer olarak gösterilir. Bilançolar faaliyet dönemlerinin sonunda bu Yönetmelikte belirtilen ilkelere uygun olarak hazırlanır ve genel kurul ile diğer ilgililerin bilgisine sunulur.
