@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11786",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 59)",
+  "number": "11786",
+  "issuer": "Gümrük Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2007/11786",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11786&MevzuatTertip=5",
+  "source_sha256": "7d39eb349b190ef609b96d788abf7d0126991978619860ac54edd1651797bc1c",
+  "source_bytes": 11384,
+  "published": "2007-12-19",
+  "gazette": "26735",
+  "in_force": "2008-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2008 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2008 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 247,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
