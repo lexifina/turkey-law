@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.11825",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİNİN İTHALAT DENETİMLERİNE DAİR DIŞ TİCARETTE STANDARDİZASYON TEBLİĞİ TEBLİĞ NO: (2008/14)",
+  "number": "11825",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2007/11825",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11825&MevzuatTertip=5",
+  "source_sha256": "903dee5e94013e88bb7816db787d3b356515d83e7caa17e7b8e576e133737605",
+  "source_bytes": 14144,
+  "published": "2007-12-31",
+  "gazette": "26743",
+  "in_force": "2008-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2008 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2008 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 492,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.dtm.gov.tr/dtmadmin/upload/DTS/MevzuatDb/teblig/2007-14Ek1.doc",
+    "http://www.dtm.gov.tr/dtmadmin/upload/DTS/MevzuatDb/teblig/2007-14Ek2.doc",
+    "http://www.dtm.gov.tr/dtmadmin/upload/DTS/MevzuatDb/teblig/2007-14Ek3.doc",
+    "http://www.dtm.gov.tr/dtmadmin/upload/DTS/MevzuatDb/teblig/2007-14Ek4.doc",
+    "9.5.11825-ek.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

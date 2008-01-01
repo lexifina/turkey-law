@@ -1,0 +1,2 @@
+MADDE 4 - (1) İthalat denetimleri, belge ve/veya işaret kontrolü ve/veya fiziki muayene şeklinde gerçekleştirilir, ürünün güvenliğinden veya mevzuatına uygunluğundan şüphe duyulması halinde ürün teste tabi tutulur.
+(2) Yapılan denetimlerde ürüne ilişkin mevzuata herhangi bir aykırılığın tespit edilmemesi halinde, ithalatçıya veya temsilcisine, gümrüklere ibraz edilmek üzere Dış Ticarette Standardizasyon Denetmenleri Grup Başkanlığı’nın uygunluk yazısı verilir. Gümrük idaresi, uygunluk yazısı ibraz edilmeyen ürünlerin ithaline izin vermez.

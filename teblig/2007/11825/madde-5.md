@@ -1,0 +1,1 @@
+MADDE 5 - (1) Teknik düzenlemesine uygunluğu belgelenmiş olsa dahi, yapılan denetimler sonucunda ürünün teknik mevzuatına aykırı ve/veya güvensiz olduğunun tespiti halinde keyfiyet, red sebeplerini içeren bir yazıyla firmaya ve ilgili gümrük idaresine bildirilir; bu durumda gümrük idaresi söz konusu ürünün ithaline izin vermez.

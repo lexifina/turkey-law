@@ -1,0 +1,1 @@
+MADDE 1 - (1) İthal edilecek yapı malzemelerinin, Bayındırlık ve İskan Bakanlığı tarafından yayımlanan Yapı Malzemeleri Yönetmeliği ve bu Yönetmeliğe istinaden yayımlanan mevzuata uygun ve güvenli olması zorunludur.

@@ -1,0 +1,2 @@
+MADDE 2 - (1) 1 inci maddede belirtilen Yönetmelik kapsamına giren ürünlerden ekli listelerde (Ek 1 ve Ek 2) sayılanlar, Avrupa Birliği’nde serbest dolaşıma girmemiş olması ve Serbest Dolaşıma Giriş Rejimine tabi tutulmak istenmesi halinde, ithalat aşamasında ürün güvenliği denetimine tabi tutulur.
+(2) 1 inci maddede belirtilen Yapı Malzemeleri Yönetmeliğine uygunluğun aranacağı söz konusu denetimler, Dış Ticaret Müsteşarlığı Bölge Müdürlüklerine bağlı Dış Ticarette Standardizasyon Denetmenleri Grup Başkanlıklarınca yapılır.
