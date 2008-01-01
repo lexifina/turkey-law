@@ -1,0 +1,2 @@
+Muayene giderleri
+MADDE 10 – (1) Şikayetli ve ani muayene hariç olmak üzere yapılacak olan muayenelerde 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre tahakkuk ettirilecek yolluklar ile muayenelerde gerekli olan araç ve malzemenin taşıma ücretleri, 3516 sayılı Ölçüler ve Ayar Kanununun 19 uncu maddesi uyarınca muayene yapılmak üzere gidilen yerdeki akım ve gerilim transformatörlerinin sahiplerince ödenir.

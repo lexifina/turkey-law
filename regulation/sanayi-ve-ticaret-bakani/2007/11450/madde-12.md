@@ -1,0 +1,2 @@
+Hatalı transformatörler
+MADDE 12 – (1) Ani muayenelerde, muayene sonunda metrolojik etiket üzerinde belirtilen anma değerleri dışında çalışan transformatörlerin damgaları iptal edilerek; kullanılmayacak şekilde damgalanıp yetki belgesine sahip tamircilere tamir müsaade fişi ile sevk edilerek transformatör muayene istasyonunda Bakanlık veya il müdürlüğü elemanları tarafından yeniden muayeneye tâbi tutulur.
