@@ -1,0 +1,4 @@
+Denetim defteri
+MADDE 58 – (1) Bu defter, Sanayi ve Ticaret Bakanlığı Teftiş Kurulu Tüzüğünün 31 inci maddesine göre ihdas edilmiş olup, noter tasdikine tabi değildir.
+(2) Defterin tasdiki Ankara’da Teftiş Kurulu Başkanlığınca, İzmir ve İstanbul'da (en kıdemli) Başmüfettişlikçe, diğer yerlerde denetimi yapan müfettişçe tasdiklenir. (Mühürlenip sayfa sayıları belirtilip son sayfasına gerekli açıklama yapılır, imzalanır.) Bu defter sadece, Sanayi ve Ticaret Bakanlığı Müfettişlerince yapılan denetimlerde kullanılır. Bu defter denetim dosyası ile birlikte muhafaza edilir.
+(3) Denetim defteri süresiz saklanır. Denetim dosyasının saklanma süresi 10 yıldır. Defter ve dosyanın saklanmasından denetlenen birimin en üst yetkilisi sorumludur. Müfettişlikten veya Bakanlıktan gelen teftiş ve denetim ile ilgili rapor ve yazılara karşılık olarak yazılan yazılar bu deftere tarih ve sayıları belirtilip özetleri yazılır veya suretleri ya da fotokopileri onaylanarak yapıştırılır.

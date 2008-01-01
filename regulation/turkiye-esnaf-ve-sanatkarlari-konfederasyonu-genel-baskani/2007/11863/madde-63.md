@@ -1,0 +1,7 @@
+Kullanılacak beyanname, defter, makbuz ve evrak
+MADDE 63 – (1) Esnaf ve sanatkârlar meslek kuruluşlarında kullanılacak beyanname, defter, makbuz ve evrakların örnek numaraları ve isimleri Ek-2’de belirtilmiştir.
+(2) Bu Yönetmelikte belirlenen defter, makbuz, beyanname fiş ve belgeler ile oda üyelerinin mesleklerinin icrası nedeniyle resmî kurum ve kuruluşlara verecekleri belgelerin basım ve dağıtımında Konfederasyon yetkilidir.
+(3) Konfederasyon dışında bu belgeleri basan, dağıtan veya fotokopi yoluyla çoğaltanlar ve kullananlar bu fiillerinden dolayı Konfederasyonun ilgili Cumhuriyet Savcılıklarına başvurusu üzerine, genel hükümler çerçevesinde sorumlu olurlar.
+(4) Bu Yönetmelikte belirtilen defterler ile makbuzlar ve diğer basılı evrak, Türkiye Esnaf ve Sanatkârları Konfederasyonu tarafından bastırılır ve Konfederasyon Yönetim Kurulunun tespit edeceği bedel karşılığında Oda, Birlik ve Federasyonlara verilir. Bu kuruluşlar da Konfederasyon tarafından belirlenecek tavan ve taban fiyatları arasında yönetim kurulları tarafından belirlenecek fiyat üzerinden ilgililere dağıtımını yapar.
+(5) Bu belgelerden Bakanlık e-esnaf ve sanatkâr veri tabanından elektronik ortamda düzenlenenlerin bedeli bunu düzenleyen esnaf ve sanatkârlar meslek kuruluşunca Konfederasyona ödenir.
+(6) Bu Yönetmelikte belirtilen her türlü evrak, makbuz ve defterler 5362 sayılı Kanun, ilgili mevzuat ve Konfederasyon talimatları doğrultusunda düzenlenir ve kullanılır.
