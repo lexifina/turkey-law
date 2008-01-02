@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 4 – (1) Merkezin amacı; baraj altında kalacak, sulama göletleri yapılacak alanlar ile sulama kanalları ve petrol ve doğalgaz boru hatlarının geçeceği güzergâhlarda arkeolojik çevrenin korunmasına yönelik yüzey araştırmaları ile kurtarma kazıları yapmak ve bunları yürütmek, arkeolojik kazı organizasyonlarını gerçekleştirmek, karayolu yapılacak güzergâhlardaki arkeolojik ve tarihi çevrenin korunmasına yönelik projeler üretmek ve yürütmek, yüksek gerilim ve enerji nakil hatları güzergâhlarında tarihi ve arkeolojik dokuların tespit edilmesi ve bunların zarar görmesini engellemek için alternatif güzergâhlar önermek veya kurtarma kazıları yapmak, eski devirlere ait toprak üstünde kalmış mimari kalıntıların onarım ve koruma çalışmaları konusunda projeler üretmektir.
