@@ -1,0 +1,13 @@
+{
+  "number": "08-01/13-10",
+  "type": "Rekabet İhlali",
+  "decision_date": "2008-01-03",
+  "publication_date": "2008-02-26",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=cedb9b6d-42b6-4154-a84d-7d7bc5d3ed94",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=818",
+  "pdf_sha256": "835138c8a48fab989aa2da64b0abf046eed05a850a4fc0d8db76c35e6d11b21f",
+  "pdf_bytes": "123009",
+  "pages": "4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
