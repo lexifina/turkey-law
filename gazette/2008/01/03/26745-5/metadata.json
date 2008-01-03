@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-01-03",
+  "issue": "26745",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 27/12/2007 Tarihli ve 2422 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080103-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080103.htm",
+  "index_sha256": "a67802ca3b66d746f5f657e3d7657b297b4e61df73536e2f6f7fab04c35a4d8d",
+  "index_header": "3 Ocak 2008 ... 26745 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
