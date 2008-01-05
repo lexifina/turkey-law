@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.11877",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 379)",
+  "number": "11877",
+  "path": "teblig/2008/11877",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11877&MevzuatTertip=5",
+  "source_sha256": "1a1babde04892163319b1eb03e7e063de61911233b318d994d027afcaf55c67c",
+  "source_bytes": 28731,
+  "published": "2008-01-05",
+  "gazette": "26747",
+  "in_force": "2008-01-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.01.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1794,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11877-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
