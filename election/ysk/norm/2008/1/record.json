@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2008/1",
+  "list_number": "920",
+  "genelge_number": "1",
+  "decision_date": "2008-01-05",
+  "title": "Mahalli İdareler Ara Seçimlerinin Ertelenmesine İlişkin Yüksek Seçim Kurulu Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1679/2008-1.pdf",
+  "source_sha256": "8c95e2accb3a6fbbf9f113496bca72c93f7391075d55c59164c04632b7af27bd",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2008-01-05",
+  "law_text_complete": false
+}
