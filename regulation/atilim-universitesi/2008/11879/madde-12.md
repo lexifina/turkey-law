@@ -1,0 +1,3 @@
+Bilim danışma kurulu ve görevleri
+MADDE 12 – (1) Bilim Danışma Kurulu; tarih, arkeoloji, epigrafi, sanat tarihi, restorasyon, mimarlık bilim dalları ile kültürel-sanatsal çalışmalarıyla tanınan uzman kişiler arasından Yönetim Kurulu tarafından belirlenen ve Rektör tarafından iki yıllık süre için görevlendirilen üyeler ile Rektör tarafından görevlendirilen Üniversite öğretim elemanlarından oluşur. Bilim Danışma Kurulu en çok on kişiden oluşur. Kurul yılda en az bir kez toplanır.
+(2) Bilim Danışma Kurulu; Merkezin bilimsel kültürel, sanatsal çalışmaları ile faaliyetleri hakkında görüş, düşünce ve önerilerde bulunur. Gerektiğinde bilgisine başvurmak üzere aynı usulle başka uzmanlar da Bilim Danışma Kuruluna davet edilebilir.

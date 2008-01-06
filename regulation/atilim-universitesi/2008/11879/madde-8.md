@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Müdür; Üniversitede görev yapan, tarih alanında uzman öğretim üyeleri arasından Rektör tarafından iki yıllık süre için görevlendirilir. Müdüre çalışmalarında yardımcı olmak, yokluğunda yerine vekalet etmek üzere Müdürün önerisi üzerine Üniversite öğretim üyeleri arasından Rektör tarafından bir müdür yardımcısı görevlendirilir. Müdürün istifa etmesi veya altı aydan fazla görevi başında bulunmaması halinde yeni bir Müdür görevlendirilir. Müdürün görev süresinin dolması veya görevinden ayrılması halinde müdür yardımcısının da görev süresi sona erer.
