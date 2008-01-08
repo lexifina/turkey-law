@@ -1,0 +1,6 @@
+Gruplandırma, meslek gruplarına kayıt ve itiraz
+MADDE 6 – (1) Esnaf ve sanatkârların meslekleri bakımından gruplandırılmaları; mesleğin özellikleri, o meslek dalının teamülü ve uygulamaları ile üye sayıları ve benzeri kıstaslar göz önünde tutularak yapılır.
+(2) Birbirine benzeyen veya birbirini tamamlayan meslekler aynı meslek grubuna dahil edilerek meslek komiteleri oluşturulabilir. Birden fazla mesleği bulunan esnaf ve sanatkarlar, iş hacminin büyük olduğu meslek grubuna dahil edilirler.
+(3) 5362 sayılı Kanun hükümleri doğrultusunda sicile kayıt işlemi tamamlanan esnaf ve sanatkârların odaya kayıt olmasına ilişkin yönetim kurulu kararında, sicildeki meslek grubu esas alınır. Üyeye yapılacak tebligatta dahil edildiği meslek grubu belirtilir. Üye, dahil edildiği meslek grubuna ilişkin itirazlarını, tebellüğ tarihinden itibaren on gün içinde sicile ve ilgili odaya yapabilir. Süresi içinde yapılmayan itirazlar değerlendirmeye alınmaz.
+(4) Üyenin, mesleğinin değişmesi halinde meslek grubu değiştirilir. Değişiklik yönetim kurulunca, üyeye yazılı olarak tebliğ edilir. Üye, değişiklik kararına tebellüğ tarihinden itibaren on gün içinde itiraz edebilir.
+(5) Odaya yapılan itirazlar, ilk yönetim kurulu toplantısında incelenerek karara bağlanır. Alınan karar ilgiliye tebliğ edilir. Süresinde itiraz edilmeyen kararlar kesindir.

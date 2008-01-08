@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.11881",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARMA ESNAF VE SANATKARLAR ODALARINDA KURULACAK MESLEK KOMİTELERİ HAKKINDA YÖNETMELİK",
+  "number": "11881",
+  "issuer": "Türkiye Esnaf ve Sanatkârları Konfederasyonu Genel Başkanı",
+  "issuer_slug": "turkiye-esnaf-ve-sanatkarlari-konfederasyonu-genel-baskani",
+  "path": "regulation/turkiye-esnaf-ve-sanatkarlari-konfederasyonu-genel-baskani/2008/11881",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11881&MevzuatTertip=5",
+  "source_sha256": "c7c3f9e47833b7e28f785df7f05f90cdc71dd1253124d829892f392ce8052c19",
+  "source_bytes": 26498,
+  "published": "2008-01-08",
+  "gazette": "26750",
+  "in_force": "2008-01-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.01.2008); own commencement article: \"bu Yönetmelik, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 869,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
