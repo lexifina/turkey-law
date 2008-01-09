@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-01-09",
+  "issue": "26751",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "HÂKİMLER VE SAVCILAR YÜKSEK KURULU KARARLARI",
+  "title": "Hâkimler ve Savcılar Yüksek Kuruluna Ait Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080109-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080109.htm",
+  "index_sha256": "8f28585c698e217eb2faa7db6d60ba0d3b1ed94c2ea950a20555bff0de3cecc1",
+  "index_header": "9 Ocak 2008 ... 26751 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
