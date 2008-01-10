@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.63-6373-745/3007",
+  "source_id": 37617,
+  "date": "2008-01-10",
+  "title": "Üst hakkı bedelinin emlak vergisi değerinin iki katından fazla olması durumunda, emlak vergisi değerinin iki katının esas alınarak harcın hesaplanması gerektiği hakkında..",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/37617",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "1200b1041c04e273e286986a4d8e7ebf8f4d44dad6f1ab8c318b79e5223e388f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
