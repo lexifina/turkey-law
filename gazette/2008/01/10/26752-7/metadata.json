@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-01-10",
+  "issue": "26752",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2008 Yılı Merkezi Yönetim Bütçe Uygulama Tebliği (Sıra No: 1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080110-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080110.htm",
+  "index_sha256": "f1f638e7439de3978ef9e5a0dd58215683042843fe3eb05f8e2cce5a4873a137",
+  "index_header": "10 Ocak 2008 ... 26752 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
