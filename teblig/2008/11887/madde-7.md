@@ -1,0 +1,3 @@
+Piyasa ekonomisinin uygulandığı emsal ülkenin seçimi
+MADDE 7 – (1) Yönetmelik’in 7 nci maddesi hükümleri çerçevesinde, bu aşamada Vietnam ve ÇHC için serbest piyasa ekonomisi uygulayan emsal ülke olarak Türkiye’nin seçilmesi düşünülmektedir.
+(2) Ancak, Vietnam veya ÇHC’de soruşturmaya tabi üretici veya üreticilerin soruşturma konusu ürünün üretiminde ve satışında Yönetmelik Ek Madde 1’deki ölçütler çerçevesinde piyasa ekonomisi koşullarının geçerli olduğunu Tebliğ’in 9 uncu maddesinde belirtilen süreler içinde yeterli deliller ile ispat etmeleri halinde, bu üretici veya üreticiler için normal değerin tespitinde Yönetmelik’in 5 inci maddesi uygulanır.

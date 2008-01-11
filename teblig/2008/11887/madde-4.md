@@ -1,0 +1,5 @@
+Damping iddiası
+MADDE 4 – (1) Vietnam ve ÇHC piyasa ekonomisi uygulamayan ülkeler olarak değerlendirildiğinden Yönetmelik’in 7 nci maddesi uyarınca şikâyet konusu malın Türkiye’deki üretim maliyetine makul bir kâr miktarı eklenmek suretiyle hesaplanan oluşturulmuş değer normal değer olarak alınmıştır. Normal değer fabrika çıkış aşamasında tespit edilmiştir.
+(2) Vietnam ve ÇHC için ihraç fiyatı olarak hem ihraç faturalarında belirtilen fiyatlar, hem de resmi ithalat istatistiklerinde yer alan veriler kullanılmıştır.
+(3) Normal değerler ile ihraç fiyatlarının aynı ticari aşamada karşılaştırılmasını teminen CIF ithal fiyatları sigorta ve navlun gideri düşülerek FOB aşamasına getirilirken, ihraç faturalarında yer alan FOB değerler için bir ayarlama yapılmamıştır. Hesaplanan FOB değerler, ihracatçıların lehine olmak üzere, fabrika çıkış aşaması fiyatları olarak kabul edilmiştir.
+(4) Normal değerler ile Türkiye’ye ihraç fiyatlarının fabrika çıkış aşamasında karşılaştırılması yoluyla ÇHC ve Vietnam için hesaplanan damping marjlarının önemli oranlarda olduğu görülmüştür.
