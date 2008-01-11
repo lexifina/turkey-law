@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-01-11",
+  "issue": "26753",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2007/13040 Türkiye Cumhuriyeti Hükümeti ile Filistin Ulusal Yönetimi Adına Filistin Kurtuluş Örgütü Arasındaki Hibe Anlaşması’nın Yürürlüğe Girmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080111-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080111.htm",
+  "index_sha256": "0aa5ca70ce14417606d22e94215513190d1d57ea9cadcd417faadf2d3b196ca3",
+  "index_header": "11 Ocak 2008 ... 26753 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
