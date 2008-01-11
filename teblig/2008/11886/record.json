@@ -1,0 +1,31 @@
+{
+  "source_id": "9.5.11886",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2008 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ (SIRANO: 2)",
+  "number": "11886",
+  "path": "teblig/2008/11886",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11886&MevzuatTertip=5",
+  "source_sha256": "5566386d916fb550d2569252371d2096df4320c97bf6e2502841e407bba7eedf",
+  "source_bytes": 22173,
+  "published": "2008-01-11",
+  "gazette": "26753",
+  "in_force": "2008-01-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.01.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1064,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11886-ek1.xls",
+    "9.5.11886-ek2.xls",
+    "9.5.11886-ek3.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
