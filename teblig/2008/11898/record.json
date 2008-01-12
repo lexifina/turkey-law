@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11898",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AKRİLONİTRİL İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "11898",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2008/11898",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11898&MevzuatTertip=5",
+  "source_sha256": "202c3ac355710c821479e08b443550491dcf25acc77f7eeecac7fda3527b7043",
+  "source_bytes": 17290,
+  "published": "2008-01-12",
+  "gazette": "26754",
+  "in_force": "2008-01-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.01.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 439,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
