@@ -1,0 +1,4 @@
+Esnaflık ve Sanatkarlık Mesleklerini Ayırma Komisyonu
+MADDE 17 – (1) Ustalık becerisi gerektiren meslekler ile gerektirmeyen meslekleri belirlemek amacıyla Konfederasyon bünyesinde bir esnaflık ve sanatkarlık mesleklerini ayırma komisyonu kurulur. Komisyon; Konfederasyon Genel Başkanı ya da görevlendireceği TESK Yönetim Kurulu üyesinin başkanlığında, Sanayi ve Ticaret Bakanlığını temsilen bir üye, Milli Eğitim Bakanlığını temsilen bir üye ve Konfederasyonu temsilen iki üye olmak üzere toplam beş üyeden oluşur.
+(2) Komisyon, bu Yönetmeliğin uygulaması içine alınacak kapsam dışı meslek dallarını belirler, karar altına alır ve bu karar ve karar sonrasında yapılacak çalışmalar Konfederasyonca alt teşkilat birimlerine duyurulur.
+(3) Hangi mesleklerde TESK kalfalık belgesi ve TESK ustalık belgesi verileceği, hangilerinde ise esnaflık belgesi verileceği bu Komisyon tarafından belirlenir.

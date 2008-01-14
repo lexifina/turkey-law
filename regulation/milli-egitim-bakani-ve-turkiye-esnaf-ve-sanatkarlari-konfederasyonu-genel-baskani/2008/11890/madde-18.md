@@ -1,0 +1,2 @@
+Belgelerin şekli
+MADDE 18 – (1) Bu Yönetmeliğin Ek-1’inde yer alan TESK Kalfalık Belgesi, Ek-2/a’ sında yer alan TESK Ustalık Belgesi (Sınavsız), Ek-2/b’sinde yer alan TESK Ustalık Belgesi (Sınavlı), Ek-3/a’sında yer alan Esnaflık Belgesi (Sınavlı), Ek-3/b’sinde yer alan Esnaflık Belgesi Cüzdan (Sınavlı), Ek-3/c’sinde yer alan Esnaflık Belgesi (Sınavsız), Ek-3/d’sinde yer alan Esnaflık Belgesi Cüzdan (Sınavsız), Konfederasyon tarafından bastırılarak odalarca hak sahiplerine dağıtılır.
