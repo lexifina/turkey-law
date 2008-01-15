@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-01-15",
+  "issue": "26757",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "2008 Yılı Yatırım Programı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080115M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080115M1.htm",
+  "index_sha256": "33ab79577dd2fabc9ab96a0173e170c3d767b44f49a67cb8f0802ee59c8b25a0",
+  "index_header": "15 Ocak 2008 ... 26757 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
