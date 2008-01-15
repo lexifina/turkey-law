@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-01-15",
+  "issue": "26757",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Gözetim Uygulanmasına İlişkin 2007/33 Sayılı Tebliğ’de Değişiklik Yapılması Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080115-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080115.htm",
+  "index_sha256": "3d3dacc4f40f5c075e2794020a16142e083da271fb4f26ad076dc4141c86f1df",
+  "index_header": "15 Ocak 2008 ... 26757 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
