@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2008/115",
+  "list_number": "115",
+  "decision_date": "2008-01-19",
+  "title": "Halkoylamasında (Plebisitte) Seçmenlerin Oylarına Başvurma Usul ve Esaslarına İlişkin Örnek 147 Sayılı Genelge Hakkında Yüksek Seçim Kurulu Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/3062/2008-115.pdf",
+  "source_sha256": "4e058b36f4f3180273a21f4b38a10e458f884fff115a878d58a356136d405e60",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 16,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2008-01-19",
+  "law_text_complete": false
+}
