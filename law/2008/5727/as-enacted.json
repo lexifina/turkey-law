@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5727",
+  "year": 2008,
+  "title": "Tütün Mamullerinin Zararlarının Önlenmesine Dair Kanunda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-01-19",
+  "gazette_issue": "26761",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080119-1.htm",
+  "source_sha256": "e291bfd1e920b3662eb0c6c052917ac032d1b9e6439978c69552770344ba4fab",
+  "text_sha256": "459f53a65c2ee583b47ec3c1f43718548ca632a19096afda98d98147dfa14f17",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/01/19/26761-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080119-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
