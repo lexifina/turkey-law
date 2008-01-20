@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2008/2",
+  "list_number": "19, 18, 6",
+  "genelge_number": "2",
+  "decision_date": "2008-01-20",
+  "title": "İl ve İlçe Seçim Kurullarının Yeniden Kurulmaları ve Kuruluşlarla İlgili Esas ve İlkeler Hakkında Yüksek Seçim Kurulu Kararı , Siyasi Partilerce İstenen Seçmen Kütüklerinin Verilmesinde Yapılacak Uygulamanın Ana Kurallarının Belirlenmesine İlişkin Yüksek Seçim Kurulu Kararı, Gündeliklerin Arttırılmasına İlişkin Yüksek Seçim Kurulu Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1681/2008-2.pdf",
+  "source_sha256": "3769ca556e850e07310181e02fdeb1af1cdb3ca800c465f3d5d9d3958ca3569a",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 17,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2008-01-20",
+  "law_text_complete": false
+}
