@@ -1,0 +1,2 @@
+Görev alanları
+Madde 15- Spor masörleri il spor merkezlerinde, temel sporcu yetiştirme kurslarında, özel spor salonlarında, spor takımlarında rekreasyon ve sportif amaçlı faaliyetlerde, turistik tesislerde bir doktor veya fizyoterapistin nezaretinde spor masörü olarak görev alabilirler. Spor masajı dışında fizik tedavi ajanlarını kullanamaz, tedavi edici egzersiz programları belirleyemez ve uygulayamaz, manipülasyon yöntemlerini kullanamaz, reçete yazamaz, enjeksiyon yapamaz, sütür ve agraf koyamaz.

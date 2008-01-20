@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.4153",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SPOR MASÖRÜ EĞİTİM YÖNETMELİĞİ",
+  "number": "4153",
+  "issuer": "Gençlik ve Spor Genel Müdürü",
+  "issuer_slug": "genclik-ve-spor-genel-muduru",
+  "path": "regulation/genclik-ve-spor-genel-muduru/1999/4153",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4153&MevzuatTertip=5",
+  "source_sha256": "88897e9b40a6e6dca72421dcccaab816d6c67fb22de8eb96e83f65815cbf4a77",
+  "source_bytes": 92262,
+  "published": "1999-07-26",
+  "gazette": "23767",
+  "in_force": "2008-01-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/1/2008\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2008-01-20",
+      "RG-20/1/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1026,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

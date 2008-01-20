@@ -1,0 +1,2 @@
+Belge ve lisansın geçersiz sayılması
+Madde 13- Federasyonlarca ve gençlik ve spor il müdürlüklerince, bu Yönetmelikte belirlenen görev alanları dışında çalıştıkları tespit edilen ve mesleğin prensip ve ahlak kurallarına uymayan masörlerin belgeleri Spor Eğitimi Dairesi Başkanlığının teklifi ve Genel Müdürün onayı ile geçersiz sayılır. Masörlük belgesi iptal edilenlerin lisansları da iptal edilmiş sayılır.

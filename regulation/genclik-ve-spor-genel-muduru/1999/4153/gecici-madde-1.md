@@ -1,0 +1,2 @@
+Geçici Madde 1- Bu Yönetmeliğin yürürlüğe girdiği tarihten önce Genel Müdürlükten masörlük belgelerini alanlar Yönetmelik esasları dahilinde faaliyetlerine devam ederler.
+Ancak bir yıl içinde bu Yönetmelikte yer alan eğitim ve denklikle ilgili gerekli şartları yerine getirip denkliklerini yaptıramadıkları, yeni spor masörlüğü belgesini almadıkları taktirde, spor masörlüğü yetki ve belgeleri geçersiz kabul edilir.
