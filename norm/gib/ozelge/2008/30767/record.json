@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.53/5328-17722",
+  "source_id": 30767,
+  "date": "2008-01-21",
+  "title": "KDV'den müstesna olan hava yolu taşıma araçlarının finansal kiralama yöntemi ile yurtdışından kiralanması durumunda söz konusu kiralama işlemine uygulanacak KDV oranı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30767",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "51c30bc0a5cb4fd25494d12b019a1579cc2b136db5393c6b1f619e7c57cd486a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
