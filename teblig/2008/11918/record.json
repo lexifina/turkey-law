@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.11918",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 380)",
+  "number": "11918",
+  "path": "teblig/2008/11918",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11918&MevzuatTertip=5",
+  "source_sha256": "09b3552e762febb2cf805a1c87806fea161a91b04e3ac30d5f91ff75c3d7b52e",
+  "source_bytes": 68508,
+  "published": "2008-01-22",
+  "gazette": "26764",
+  "in_force": "2008-01-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.01.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 804,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
