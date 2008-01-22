@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6652-354-6708",
+  "source_id": 36976,
+  "date": "2008-01-22",
+  "title": "Kayyımların üstlendikleri gayrimenkullerin emlak vergisinden muaf tutulup tutulmayacağı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36976",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "d7e2498aaaab5cebf9bcb37efd2a3f73d6d133ddef9d4ecbbc7abc83dd264999",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
