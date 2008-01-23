@@ -1,0 +1,4 @@
+Madde 23 – (23/6/1983 tarih ve 2860 Sayılı Kanunun hükmüdür.)
+Kurban derisi, bağırsak toplama, fitre ve zekat zarfı dağıtma biçimi, bu işlerde çalışanlara yapılacak ödeme, giderler ile gelirin paylaşılmasına ait usul ve esaslar, gelirden pay alacak kuruluşların görüşleri alınarak yönetmelikte gösterilir.
+Madde 29 fıkra iki – (23/6/1983 tarih ve 2860 Sayılı Kanunun hükmüdür.)
+Türk Hava Kurumu dışında kişi ve kuruluşların kurban derisi bağırsak toplaması, fitre ve zekat zarfı dağıtarak para toplaması halinde sorumlular, üç aydan altı aya kadar hafif hapis ve ikibinbeşyüz liradan onbin liraya kadar hafif para cezasına mahküm edilirler. Ayrıca toplanan kurban derisi, bağırsak ile fitre ve zekat paralarına el konularak, Türk Hava Kurumuna devredilir. Elden çıkarılmış olması halinde ise, değerinin iki katının alınmasına hükmedilir.

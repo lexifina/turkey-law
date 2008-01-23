@@ -1,0 +1,61 @@
+{
+  "source_id": "5.5.2860",
+  "path": "law/1983/2860-mulga",
+  "number": "2860",
+  "tertip": "5",
+  "title": "YARDIM TOPLAMA KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "document": "repealed-provisions",
+  "companion_of": "law/1983/2860",
+  "enacted": "1983-06-23",
+  "enacted_as_printed": "23.06.1983",
+  "published": "1983-06-25",
+  "gazette": "18088",
+  "in_force": "2008-01-23",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"3 – 23/1/2008 tarihli ve 5728 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 28, 29.)\"",
+  "date_evidence": [
+    [
+      "2008-01-23",
+      "3 – 23/1/2008 tarihli ve 5728 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 28, 29.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2004-11-04",
+      "2 – 4/11/2004 tarihli ve 5253 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numarası:7)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2003-04-24",
+      "(Ek: 24/4/2003-4854/3 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1986-05-29",
+      "1 – 29/5/1986 tarih ve 3294 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 21, 22, 23, 29)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1986-05-29",
+      "(İkinci fıkra Mülga: 29/5/1986 - 3294/10 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "repeal_notes": [
+    "1 – 29/5/1986 tarih ve 3294 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 21, 22, 23, 29)",
+    "2 – 4/11/2004 tarihli ve 5253 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numarası:7)",
+    "3 – 23/1/2008 tarihli ve 5728 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 28, 29.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=2860&MevzuatTertip=5",
+  "source_sha256": "793ba93b5714cf253ecbbfc0ab713097cae78a710476f89755bf2ee710b07b02",
+  "source_bytes": 18803,
+  "words": 713,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
