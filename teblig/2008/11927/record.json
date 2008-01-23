@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11927",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TEKNOLOJİ TRANSFERİ ANLAŞMALARINA İLİŞKİN GRUP MUAFİYETİ TEBLİĞİ (TEBLİĞ NO: 2008/2)",
+  "number": "11927",
+  "issuer": "Rekabet Kurumu Başkanı",
+  "path": "teblig/2008/11927",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11927&MevzuatTertip=5",
+  "source_sha256": "e16e079619c0eff2c0cdb04c87d96d7844041a84ce48ab5a2f342301f8e9387c",
+  "source_bytes": 37787,
+  "published": "2008-01-23",
+  "gazette": "26765",
+  "in_force": "2008-01-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.01.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2105,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

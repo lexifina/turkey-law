@@ -1,0 +1,3 @@
+Kurumu: Rekabet Kurumu Başkanlığı
+TEKNOLOJİ TRANSFERİ ANLAŞMALARINA İLİŞKİN GRUP MUAFİYETİ TEBLİĞİ
+(TEBLİĞ NO: 2008/2)

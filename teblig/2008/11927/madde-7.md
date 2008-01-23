@@ -1,0 +1,10 @@
+Grup muafiyetinden yararlanamayan sınırlamalar
+MADDE 7 – (1) Bir teknoloji transferi anlaşmasının bu maddede sayılan sınırlamalardan herhangi birini içermesi ve ilgili sınırlamanın anlaşmanın geri kalan kısmından ayrılabilir olması durumunda, sadece bu sınırlama grup muafiyetinden yararlanamayacak, anlaşmanın kalan kısmı grup muafiyetinden yararlanmaya devam edecektir. Bu maddede düzenlenen herhangi bir sınırlamanın anlaşmanın kalan kısmından ayrılamaması durumunda ise anlaşmanın tamamı grup muafiyetinden yararlanamayacaktır.
+(2) Bu Tebliğ’de öngörülen muafiyet, teknoloji transferi anlaşmalarında yer alan aşağıdaki sınırlamalara uygulanmaz:
+a) Lisans alana doğrudan veya dolaylı olarak, lisansı verilen teknoloji üzerinde yaptığı ve bu teknolojiden ayrılabilir nitelikte olan iyileştirmeler ya da lisansı verilen teknolojinin yeni uygulamaları bakımından, lisans verene veya lisans veren tarafından gösterilen üçüncü bir kişiye münhasır lisans vermesi yükümlülüğü getirilmesi,
+b) Lisans alana doğrudan veya dolaylı olarak, lisansı verilen teknoloji üzerinde yaptığı ve bu teknolojiden ayrılabilir nitelikte olan iyileştirmeler ya da lisansı verilen teknolojinin yeni uygulamaları ile ilgili hakları kısmen veya tamamen lisans verene veya lisans veren tarafından gösterilen üçüncü bir kişiye devretmesi yükümlülüğü getirilmesi,
+c) Lisans alana lisans verenin Türkiye’de sahip olduğu ilgili fikri mülkiyet haklarının geçerliliğine itiraz etmeme yükümlülüğü getirilmesi. Ancak lisans alanın lisansı verilen ilgili fikri mülkiyet haklarından bir ya da daha fazlasının geçerliliğine itiraz etmesi durumunda, lisans verenin teknoloji transferi anlaşmasını feshetme hakkı saklıdır.
+(3) Anlaşmaya taraf olan teşebbüslerin rakip olmadığı hallerde, bu Tebliğ’de öngörülen muafiyet, doğrudan veya dolaylı olarak;
+a) Lisans alanın kendi teknolojisini kullanma hakkını sınırlayan ya da,
+b) Lisansı verilen know-how’ın üçüncü kişilere ifşasını engellemek için zorunlu olmadıkça, anlaşma taraflarından herhangi birinin araştırma ve geliştirme faaliyetinde bulunmasını sınırlayan
+herhangi bir yükümlülük için geçerli olmayacaktır.
