@@ -1,0 +1,1 @@
+Madde 6 – fıkra bir –bent e -(6/11/1981 tarihli ve 2548 sayılı Kanunun hükmüdür.) Gerektiğinde mikrop, haşere ve fare ile mücadele hizmetlerini yaptırmak için ilgili görevlilere zamanında başvurmamak.
