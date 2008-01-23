@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-01-23",
+  "issue": "26765",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Kayıtlı Sermaye Sistemine İlişkin Esaslar Tebliği (Seri: IV, No: 38)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080123-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080123.htm",
+  "index_sha256": "376096984e44c92e90ca87fb8f38e8f321bbb51b953c41e3b87fded2154b84b4",
+  "index_header": "23 Ocak 2008 ... 26765 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
