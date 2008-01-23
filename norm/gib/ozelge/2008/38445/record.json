@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68/6802-2",
+  "source_id": 38445,
+  "date": "2008-01-23",
+  "title": "Doğalgaz ithalatının finansmanı amacıyla kullanılacak krediler ile mal mukabili, kabul kredili ve vadeli akreditif ödeme şekline göre yapılacak doğalgaz ithalatları üzerinden kaynak kullanımını destekleme fonu kesintisi yapılmasının mümkün bulunmadığı hak",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38445",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "ba49fb12d4e4e1c56a1701d7c72bdee69fa5d2aa8f096e7756529a4479a73555",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
