@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-01-27",
+  "issue": "26769",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2008/13092 İstanbul Sismik Riskin Azaltılması ve Acil Durum Hazırlık (ISMEP) Projesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080127-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080127.htm",
+  "index_sha256": "5a113f0909e73af3d206964a91563a8f47d3b82d2284366f382820ead99ac8f1",
+  "index_header": "27 Ocak 2008 ... 26769 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
