@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.11933",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "PRATİK EĞİTİMİN VERİLECEĞİ İŞYERLERİ VE BUNLARIN DENETİMİNE İLİŞKİN YÖNETMELİK",
+  "number": "11933",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2008/11933",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11933&MevzuatTertip=5",
+  "source_sha256": "f04408112a7b17b5892e164703d08d6b158396bf2977eaca4120b8cd958aaeb0",
+  "source_bytes": 32447,
+  "published": "2008-01-29",
+  "gazette": "26771",
+  "in_force": "2008-01-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.01.2008); own commencement article: \"bu Yönetmelik, 1/1/2008 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik, 1/1/2008 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1320,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
