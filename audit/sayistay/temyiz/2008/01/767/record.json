@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29848",
+  "decision_date": "2008-01-29",
+  "source_id": 767,
+  "chamber": "3",
+  "file_number": "29442",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/767/",
+  "source_sha256": "46b9904f6567aa935e6a9e4f126fbb95bb1d33f79d647ccc1dd6aabb27b19c5f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
