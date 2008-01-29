@@ -1,0 +1,23 @@
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü:
+
+384 sayılı ilamın 2 nci maddesinde, Döner Sermaye Saymanlığında görevli personelin  döner sermaye katkı payı  matrahının hesabına  213 sayılı Vergi Usul Kanununun Ek 13. maddesi uyarınca verilen ek  ödemenin de dahil edilmesi sonucu toplam 3.309.420.000 liraya tazmin hükmolunmuştur.
+
+Sayıştay Savcılığı dilekçesinde özetle,  konuyla ilgili Sayıştay Temyiz Kurulu’nun 03.01.2006 tarih ve 28323 sayılı kararında, Döner Sermaye Saymanlığında görevli Maliye Bakanlığı personeline ödenen katkı payı hesabı matrahına söz konusu personele bütçeden verilen ek ödemelerin dahil edilmesinde ve döner sermaye katkı payının ek ödeme tutarından mahsup edilmemesinde yasaya aykırılık bulunmadığına karar verdiğini ve bu temyiz kurulu kararı üzerine aynı dairenin, aynı konu ile ilgili Ankara Sağlık Kurumları 11 No.lu Döner Sermaye Saymanlığı 2004 yılı hesabının yargılanmasında çıkan 25.05.2006 gün ve 33677 tutanak 419 ilam sayılı kararı ile beraatle sonuçlandırıldığını, bu sebeple; dairece verilen tazmin kararının bozularak tazmin hükmünün sorumlular üzerinden kaldırılmasına karar verilmesini talep etmektedir.
+
+213 sayılı vergi Usul Kanununun Ek 13. maddesinin dördüncü bendinde: “Maliye Bakanı: a) (Mülga alt bent: 05/07/1991-KHK -433/16md.; Yeniden düzenlenen alt bent:19/08/1991-KHK-449/3 md. Değişik: 20/03/1997-KHK-570/15 md.) Maliye Bakanlığının yurt dışı kadrolarında bulunan personeli dışında kalan personeline (sözleşmeli personel ile bağlı kuruluşların personeli dahil, bağlı kuruluşların kadro karşılığı sözleşmeli personeli hariç) en yüksek Devlet memuru aylığının (ek gösterge dahil) %200 'ünü geçmemek üzere ek ödeme yaptırmaya,
+
+(Ek fıkra:26/12/1993-3946/2 md.) Görev yapılan birim ve iş hacmi, görev mahalli, görevin önem ve güçlüğü, personelin sınıfı, kadro ünvanı, derecesi ve atanma biçimi gibi kriterlere göre yapılacak ek ödemelerin farklı miktarları ve ödemeye ilişkin usul ve esasları Maliye Bakanı tarafından tespit edilir.
+
+(…)Yetkilidir.
+
+Ek ödemelerde 657 sayılı Devlet Memurları Kanununun aylıklara ilişkin hükümleri uygulanır. Bu ödemeler bütçeden karşılanır. Bağlı kuruluşlar personeline yapılacak ek ödemelerin belirlenmesinde, bunlara ödenmekte olan ikramiye, fazla mesai ücreti gibi farklı ödemeler ile diğer imkanlar dikkate alınır ve bağlı kuruluş bütçelerinden ödenir” hükmüne yer verilmiştir.
+
+Maliye Bakanlığı yasanın verdiği yetkiyi kullanarak hazırladığı 19.07.2002 tarihli ‘Maliye Bakanlığı Personeline Yapılacak Ek Ödemeye İlişkin Usul Ve Esaslar’ın 4. maddesinin d bendinde: “Bu esaslar kapsamında bulunan personele ödenen ikramiye, fazla çalışma ücreti, döner sermaye katkı payı, teşvik primi ve gümrük kanunu uyarınca yapılan ödemelerin net tutarı ek ödemelerin net tutarından mahsup edilir…”
+
+Aynı ‘Esaslar’ın 4. maddesinin f bendinde:“Ek ödemelerin hak edilmesinde ve ödenmesinde bu esaslarda belirtilen haller dışında 657 sayılı Devlet Memurları Kanunu’nun aylığa ilişkin hükümleri uygulanır. Ek ödeme döner sermaye katkı payı, ikramiye, ücret ve her ne ad altında olursa olsun benzeri ödemelerin hesabında dikkate alınmaz” denilmiştir. Aynı hükümlere 2003 yılında yürürlükte olan Aynı ‘Esaslar’da da yer verilmiştir.
+
+213 sayılı vergi Usul Kanununun 4684 sayılı yasa ile değişik Ek 13. maddesinde Maliye Bakanının Bakanlığın yurt dışı kadrolarında bulunan personeli hariç kalan personeline en yüksek devlet memuru aylığının %200 üne kadar ek ödeme yaptırmaya yetkili olduğu ek ödeme miktarını ile ödemeye ilişkin usul ve esasları belirleme yetkisinin Maliye Bakanı’na verildiği ve söz konusu ödemenin bütçeden karşılanacağı belirtilmiştir.
+
+Görüldüğü üzere, Esasların 4/d maddesiyle Bakanlığın bütün personeline farklı isimlerle yapılan ödemelerin ek ödeme tutarından mahsubu yoluna gidileceği 4/f maddesiyle de söz konusu döner sermaye katkı payı ikramiye gibi ödemelerin hesabında Maliye Bakanlığı personeline ödenen bu ek ödemenin dikkate alınmayacağı belirtilmek suretiyle yasada olmayan bir düzenlemenin yasaya dayalı olarak çıkarılan esaslarla yürürlüğe konulmaktadır. Maliye Bakanlığının Yürürlüğe koyduğu ‘Ek Ödemeye ilişkin Usul Ve Esaslar’ın 4/d ve 4/f maddeleri, bu açıdan, Danıştay 11. Dairesinin 2003/5380 esas sayılı kararı ile 08.12.2003 tarihinde iptal edilmiştir. Buna göre, 213 sayılı vergi Usul Kanununun Ek 13. maddesinde Maliye Bakanlığı personeline ödenen katkı payının söz konusu kanun maddesine göre verilen ek ödemeden mahsup edilmesi yönünde hüküm bulunmadığından dilekçi iddialarının kabulü ile 384 sayılı ilamın 2. maddesiyle toplam 3.309.420.000 liraya ilişkin olarak verilen tazmin hükmünün KALDIRILMASINA,
+
+Karar verildiği 29.01.2008 tarih ve 29854 sayılı tutanakta yazılı olmakla iş bu ilam tanzim kılındı.
