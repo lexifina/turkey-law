@@ -1,0 +1,16 @@
+Tanımlar
+MADDE 3 - Bu Yönetmelikte geçen deyimlerden,
+a) Bakanlık : İçişleri Bakanlığını,
+b) Genel Müdürlük: Emniyet Genel Müdürlüğünü,
+c) Ruhsat: Bu Yönetmeliğe göre verilecek silah taşıma veya bulundurma iznini,
+d) Ruhsatname: Bu Yönetmeliğe göre verilecek silah taşıma veya bulundurma izin belgesini,
+e) Ateşli silah: Mermi veya fişek adı verilen özel şekil ve nitelikteki eczalı maddeleri, barut gazı veya bu neviden patlayıcı ve itici güç ile uzak mesafelere kadar atabilen silahları,
+f) Tabanca; Namlu uzunluğu fişek yatağı hariç 30 santimetreyi veya tüm uzunluğu 50 santimetreyi geçmeyen dumanlı veya dumansız barut veya bu neviden bir patlayıcı ve itici güç ile gülle, mermi, saçma veya füze ile gaz ya da diğer nesneleri atabilen ateşli silahları,
+g) Makineli tabanca: Şarjör kapasitesi ve hacmi tabancadan fazla olan; yarı ve tam otomatik atış yapabilen, gerektiğinde, her iki atış ayarından bir tanesi mandal vasıtasıyla seçilebilen silahları,
+h) Hafif makineli tüfek: Namlu uzunluğu fişek yatağı hariç 30 santimetreden fazla, uzun menzil ve delici güce sahip, şarjör kapasitesi yüksek, katlanır veya sabit dipçikli, yarı ve tam otomatik atış yapabilen gerektiğinde, her iki atış ayarından bir tanesi bir mandal vasıtasıyla seçilebilen silahları,
+ı) Tüfek sınıfı silah: Ağır makineli tüfek, roketatar, uçaksavar, top ve benzeri silahlar hariç olmak üzere; makineli tabanca, hafif makineli tüfek ile av ve sporda kullanılan yivli-yivsiz tüfekleri,
+i) Memnu bıçak ve benzerleri; 6136 sayılı Kanunun 4. maddesinde sayılan ateşsiz silahları,
+j) Gönüllü köy korucusu: 442 sayılı kanunun 74. maddesine göre mülki amirlerce atanan korucuları,
+k) Geçici köy korucusu: 442 sayılı kanunun 74. maddesine göre Bakanlık onayı ile atanan korucuları,
+l) Korucu: 442 sayılı kanunun 74. maddesine göre görevlendirilmiş gönüllü veya geçici köy korucularını,
+ifade eder.

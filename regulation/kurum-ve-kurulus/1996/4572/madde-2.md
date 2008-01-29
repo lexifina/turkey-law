@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 - Bu Yönetmelik, Bakanlar Kurulu Kararıyla tespit edilecek illerde, 29.8.1996 tarih ve 4178 sayılı Kanunun yürürlüğe girdiği 4.9.1996 tarihinden önce 442 sayılı Köy Kanununun 74. maddesi hükmüne göre görevlendirilmiş gönüllü korucular ile geçici köy korucularını ve bunlar tarafından teslim edilen tabanca, makineli tabanca veya hafif makineli tüfekler ile tüfek sınıfından diğer silahlar ve mermileri ve koruculara ait olup 4.9.1996 tarihinden önce adli takip konusu edilen ateşli silahlarla mermilerini ve kanunen memnu olan bıçak ve benzerlerini kapsar.

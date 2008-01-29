@@ -1,0 +1,4 @@
+Devir ve Satış Yasağı
+MADDE 15 -Bu Yönetmelik hükümlerine göre ruhsata bağlanan silahlar veraset yolu ile intikal dışında, hiçbir şekilde devir veya hibe edilemez, satılamaz.
+Silah sahibinin vefatı halinde varislerden durumu 21.3.1991 tarihli ve 91/1779 sayılı Bakanlar kurulu kararıyla yürürlüğe giren Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Yönetmelik Hükümlerine uygun biri adına devri ve o kişi adına ruhsat verilebilmesi için, silah sahibinin vefatını takip eden altmış gün içinde müracaat edilmesi zorunludur. Sağlık veya idarece kabul edilebilir zorunlu haller dışında, belirtilen süre içinde müracaat edilmemesi halinde silahlara ait ruhsatlar iptal edilir.
+Sağlık sorunu veya müracaatı engelleyen zorunlu diğer hallerin ortadan kalkmasından itibaren müracaat süresi yeniden işlemeye başlar.
