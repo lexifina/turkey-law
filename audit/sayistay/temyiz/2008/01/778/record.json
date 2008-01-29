@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29859",
+  "decision_date": "2008-01-29",
+  "source_id": 778,
+  "chamber": "4",
+  "file_number": "29374",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/778/",
+  "source_sha256": "414688998d04023e41827979b1f769bdee9547300cc501972fb1e218a41bf71e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
