@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29852",
+  "decision_date": "2008-01-29",
+  "source_id": 771,
+  "chamber": "1",
+  "file_number": "29291",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/771/",
+  "source_sha256": "ef6e9d30067f97817e100447885fcf17c73d876218a0ff112d82d87999cd19de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
