@@ -1,0 +1,2 @@
+Karar
+MADDE 3 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 9003.11 ve 9003.19 Gümrük Tarife Pozisyonlu "gözlük çerçeveleri"nin ithalatında 3 (üç) yıl süreyle korunma önlemi uygulanmasına, önlemin 1. yıl için 3 ABD Doları/adet, 2. yıl için 2,85 ABD Doları/adet ve 3. yıl için 2,7 ABD Doları/adet tutarında ek mali yükümlülük olarak belirlenmesi ve Dünya Ticaret Örgütü Korunma Önlemleri Anlaşması'nın 9.1 maddesi gereğince gelişmekte olan ülkelere muafiyet tanınması hususlarında Bakanlar Kurulu'na öneride bulunulmasına karar vermiştir.
