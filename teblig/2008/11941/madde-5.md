@@ -1,0 +1,3 @@
+Yürürlük
+Madde 5 – (1) Bu Tebliğ, 31/12/2008 tarihine kadar geçerli olmak üzere, Ek-I’deki tabloda belirtilen 8415.10.90, 8415.81.00 ve 8415.82.00 gümrük tarife pozisyonlu “yalnız duvar tipi split klimalar ile bunların iç ve dış üniteleri (değişken soğutucu debili split klima sistemleri dış ünitesi hariç)” ve 9105.21.00.00.00 gümrük tarife istatistik pozisyonlu “elektrikle çalışan duvar saatleri” madde isimli eşya ile Birleşik Arap Emirlikleri menşeli/çıkışlı Tebliğ kapsamı eşya için 15/02/2008 tarihinde, diğer eşya için ise yayımlandığı tarihte yürürlüğe girer.
+(2) 29/08/2007 tarihli ve 26628 sayılı Resmi Gazete’de yayımlanan “İthalatta Haksız Rekabetin önlenmesine İlişkin 2007/14 sayılı Tebliğ” yürürlükten kaldırılmıştır.
