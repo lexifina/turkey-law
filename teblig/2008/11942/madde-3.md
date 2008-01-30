@@ -1,0 +1,3 @@
+Hesaplama yöntemlerinin tespiti
+Madde 3 – (1) Yürütülen sübvansiyon soruşturmaları kapsamında sübvansiyon miktarının hesaplanmasında kullanılabilecek yöntemlere ilişkin esaslar Dış Ticaret Müsteşarlığı tarafından düzenlenecek Uygulama Usul ve Esasları ile belirlenir.
+(2) Söz konusu Uygulama Usul ve Esaslarında, soruşturma konusu ülke devletinin özsermaye, kredi, hibe ve kredi garantisi temin etmesi, mal veya hizmet tedarik etmesi veya mal satın alması şeklinde verdiği sübvansiyonlar ile yürütülen soruşturma kapsamında önlem alınabilir nitelikte bir sübvansiyon teşkil ettiği belirlenen diğer uygulamalara ilişkin olarak sübvansiyon miktarının hesaplanması aşamasında izlenebilecek yöntemlere yer verilir.
