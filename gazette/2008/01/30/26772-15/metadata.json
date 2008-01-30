@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-01-30",
+  "issue": "26772",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2008/6)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080130-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/01/20080130.htm",
+  "index_sha256": "a087fab028a2ef646e49e93565e3c73eaa84f28163f7be7f11d7a6c0f52d95b0",
+  "index_header": "30 Ocak 2008 ... 26772 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
