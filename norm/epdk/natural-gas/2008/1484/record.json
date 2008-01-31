@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1484",
+  "decision_date": "2008-01-31",
+  "title": "Doğal Gaz Piyasası Lisans Yönetmeliği uyarınca 2008 yılında uygulanacak olan lisans alma, yıllık lisans, lisans yenileme, lisans tadili ve lisans sureti çıkartma bedelleri (DÜZELTME)",
+  "resmi_gazete_date": "2008-02-07",
+  "resmi_gazete_number": "26780",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MBWbak8Cbxs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MBWbak8Cbxs="
+  ],
+  "source_sha256": "d053d2cba7ce440cfaa915fdf60f71705eed95454f143f12a12d00044dd4522d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-01-31",
+  "law_text_complete": false
+}
