@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11946",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SİGORTA SEKTÖRÜNE İLİŞKİN GRUP MUAFİYET TEBLİĞİ (TEBLİĞ NO: 2008/3)",
+  "number": "11946",
+  "issuer": "Rekabet Kurumu Başkanı",
+  "path": "teblig/2008/11946",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11946&MevzuatTertip=5",
+  "source_sha256": "2377c95510ee009e6355ffc3032c81d80aa58b236b28a949a39300f9cbaf3252",
+  "source_bytes": 31722,
+  "published": "2008-02-01",
+  "gazette": "26774",
+  "in_force": "2008-02-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.02.2008); own commencement article: \"Bu Tebliğ, yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1602,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

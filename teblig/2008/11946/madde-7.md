@@ -1,0 +1,1 @@
+MADDE 7 – (1) Katılımcı teşebbüslerin bu Tebliğ ile belirlenen muafiyet koşullarını taşıyan hesaplamalardan, tablolardan ve araştırma sonuçlarından sapmama konusunda kendi aralarında bir taahhüt altına girmeleri veya başka teşebbüsleri bu konuda zorlamaları durumunda, tanınan muafiyet geçerli olmayacaktır.

@@ -1,0 +1,10 @@
+Belirli risk çeşitlerine müşterek teminat sağlanması
+MADDE 8 – (1) 2 nci maddenin birinci fıkrasının (c) bendi ile tanınan muafiyet, aşağıda belirtilen uygulama ilkeleri ve pazar payı eşiklerine tabidir:
+a) Bu Tebliğin yürürlüğe girdiği tarihten sonra, yeni riskleri ya da Türkiye’de daha önce sigorta kapsamına alınmamış riskleri teminat altına almak üzere kurulan koasürans ve koreasürans grupları, kuruldukları tarihten itibaren 3 yıl boyunca, pazar paylarına bakılmaksızın 2 nci maddenin birinci fıkrasının (c) bendinde belirtilen muafiyetten yararlanırlar.
+b) (a) bendi kapsamında yer almayan ya da bu bent kapsamında yer almakla birlikte süresi üç yılı aşmış olan koasürans ve koreasürans grupları, katılımcı teşebbüslerinin grup düzenlemeleri kapsamında sunduğu sigorta ürünlerinin ilgili pazarın %20’sinden fazlasını oluşturmaması şartı ile, bu Tebliğ yürürlükte kaldığı sürece muafiyetten yararlanırlar.
+(2) Birinci fıkranın (b) bendi ile belirlenen pazar payı eşiklerinin hesaplanmasında aşağıdaki kurallar uygulanır:
+a) Pazar payları, ticari prim gelirleri üzerinden hesaplanacaktır. Ticari prim geliri verileri mevcut değilse, ilgili teşebbüsün pazar payının hesaplanmasında, verilen sigorta teminatı ve sigortalanan risk değeri de dahil olmak üzere diğer güvenilir pazar bilgileri kullanılabilir.
+b) Pazar payı, bir önceki takvim yılı verileri üzerinden hesaplanacaktır.
+(3) Birinci fıkranın (b) bendinde belirtilen pazar payı, başlangıçta %20 pazar payı eşiğini aşmazken, sonradan bu eşiğin %22’ye kadar aşılması durumunda, %20’lik eşiğin ilk aşıldığı yılı takip eden iki yıl boyunca muafiyet uygulanmaya devam eder.
+(4) Birinci fıkranın (b) bendinde belirtilen pazar payı, başlangıçta %20 pazar payı eşiğini aşmazken, sonradan bu eşiğin %22’nin üzerinde olacak seviyede aşılması durumunda, %22’lik eşiğin ilk aşıldığı yılı takip eden bir yıl boyunca muafiyet uygulanmaya devam eder.
+(5) Üçüncü ve dördüncü fıkralarla tanınan istisnaların, toplamda iki yılı geçecek şekilde birleştirilerek kullanılması mümkün değildir.

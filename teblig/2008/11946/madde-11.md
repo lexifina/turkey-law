@@ -1,0 +1,2 @@
+Muafiyetin geri alınması
+MADDE 11 – (1) Bu Tebliğ ile muafiyet tanınmış bir anlaşmanın, 4054 sayılı Kanun’un 5 inci maddesinde düzenlenen koşullarla bağdaşmaz etkilere sahip olduğunun tespit edilmesi halinde, Rekabet Kurulu, 4054 sayılı Kanun’un 13 üncü maddesine dayanarak, anlaşmaya bu Tebliğ ile tanınan muafiyeti geri alabilir. Bu durumda Rekabet Kurulu, nihai kararını vermeden önce tarafların yazılı ve/veya sözlü görüşlerini ister.
