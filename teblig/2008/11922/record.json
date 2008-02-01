@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.11922",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU İHALE TEBLİĞİ (TEBLİĞ NO: 2008/1)",
+  "number": "11922",
+  "issuer": "Kamu İhale Kurumu Başkanı",
+  "path": "teblig/2008/11922",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11922&MevzuatTertip=5",
+  "source_sha256": "c9c0c947dee3d0e3543a79055780df74fe23144d437bac6879bc5f1224ae4679",
+  "source_bytes": 39731,
+  "published": "2008-01-22",
+  "gazette": "26764",
+  "in_force": "2008-02-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/2/2008 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/2/2008 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 711,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

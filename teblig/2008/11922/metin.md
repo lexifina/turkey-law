@@ -1,0 +1,29 @@
+Kurumu: Kamu İhale Kurumu KAMU İHALE TEBLİĞİ (TEBLİĞ NO: 2008/1) MADDE 1 – 4734 sayılı Kamu İhale Kanununun “Eşik Değerler ve Parasal Limitlerin Güncellenmesi” başlıklı 67 nci maddesinde, “Bu Kanunda belirtilen eşik değerler ve parasal limitler bir önceki yılın Toptan Eşya Fiyat Endeksi esas alınarak Kamu İhale Kurumu tarafından güncellenir ve her yıl 1 Şubat tarihinden geçerli olmak üzere aynı tarihe kadar Resmi Gazetede ilan edilir. Ancak güncellemede bir milyon Türk Lirasının altındaki tutarlar dikkate alınmaz….” hükmü yer almaktadır. 4734 sayılı Kanunda yer alan eşik değerler ve parasal limitler, Kamu İhale Kurumu tarafından Kanunun yukarıda belirtilen hükmü çerçevesinde, 2007 yılı Toptan Eşya Fiyat Endeksi esas alınarak güncellenmiş olup 1 Şubat 2008 tarihinden geçerli olmak üzere uygulanacak limitler anılan Kanunun ilgili maddeleri bazında aşağıda belirtilmiştir. Buna göre; 1- “İstisnalar” başlıklı 3 üncü maddenin; (g) bendinde belirtilen 4.428.537,- YTL. (Dörtmilyon dörtyüzyirmisekizbin beşyüzotuzyedi Yeni Türk Lirası), 4.691.592 - YTL (Dörtmilyon altıyüzdoksanbirbin beşyüzdoksaniki Yeni Türk Lirası), 2- “Eşik Değerler” başlıklı 8. maddenin; (a) bendinde belirtilen 529.411,- YTL. (Beşyüzyirmidokuzbin dörtyüzonbir Yeni Türk Lirası), 560.858,- YTL. (Beşyüzaltmışbin sekizyüzellisekiz Yeni Türk Lirası), (b) bendinde belirtilen 882.352,- YTL. (Sekizyüzseksenikibin üçyüzelliiki Yeni Türk Lirası), 934.763,- YTL. (Doküzyüzotuzdörtbin yediyüzaltmışüç Yeni Türk Lirası), (c) bendinde belirtilen 19.411.781,- YTL. (Ondokuzmilyon dörtyüzonbirbin yediyüzseksenbir Yeni Türk Lirası), 20.564.840,- YTL. (Yirmimilyon beşyüzaltmışdörtbin sekizyüzkırk Yeni Türk Lirası), 3- “İhale İlan Süreleri ve Kuralları” başlıklı 13 üncü maddenin (b) bendinin; (1) nolu bendinde belirtilen 57.761,- YTL. (Elliyedibin yediyüzaltmışbir Yeni Türk Lirası), 61.192,- YTL. (Altmışbirbin yüzdoksaniki Yeni Türk Lirası), 115.524,- YTL. (Yüzonbeşbin beşyüzyirmidört Yeni Türk Lirası), 122.386,- YTL. (Yüzyirmiikibin üçyüzseksenaltı Yeni Türk Lirası), (2) nolu bendinde belirtilen 57.761,- YTL. ile 115.524,- YTL. (Elliyedibin yediyüzaltmışbir Yeni Türk Lirası) ile (Yüzonbeşbin beşyüzyirmidört Yeni Türk Lirası); 61.192,- YTL ile 122.386,- YTL. (Altmışbirbin yüzdoksaniki Yeni Türk Lirası) ile (Yüzyirmiikibin üçyüzseksenaltı Yeni Türk Lirası), 115.524,- YTL. ile 962.723,- YTL. (Yüzonbeşbin beşyüzyirmidört Yeni Türk Lirası) ile (Dokuzyüzaltmışikibin yediyüzyirmiüç Yeni Türk Lirası); 122.386,- YTL. ile 1.019.908,- YTL. (Yüzyirmiikibin üçyüzseksenaltı Yeni Türk Lirası ) ile (Birmilyon ondokuzbin dokuzyüzsekiz Yeni Türk Lirası), (3) nolu bendinde belirtilen 115.524,- YTL. (Yüzonbeşbin beşyüzyirmidört Yeni Türk Lirası), 122.386,- YTL. (Yüzyirmiikibin üçyüzseksenaltıYeni Türk Lirası), 962.723,- YTL (Dokuzyüzaltmışikibin yediyüzyirmiüç Yeni Türk Lirası), 1.019.908,- YTL. (Birmilyon ondokuzbin doküzyüzsekiz Yeni Türk Lirası), 4- “Pazarlık Usulü” başlıklı 21 inci maddenin; (f) bendinde belirtilen 96.268,- YTL. (Doksanaltıbin ikiyüzaltmışsekiz Yeni Türk Lirası), 101.986,- YTL. (Yüzbirbin dokuzyüzseksenaltı Yeni Türk Lirası), 5- “Doğrudan Temin” başlıklı 22 nci maddenin; (d) bendinde belirtilen 28.880,- YTL. (Yirmisekizbin sekizyüzseksen Yeni Türk Lirası), 30.595,- YTL. (Otuzbin beşyüzdoksanbeş Yeni Türk Lirası), 9.624,- YTL. (Dokuzbin altıyüzyirmidört Yeni Türk Lirası), 10.195,- YTL. (Onbin yüzdoksanbeş Yeni Türk Lirası), 6- “İhale sonucunun ilanı” başlıklı 47 nci maddenin; Birinci fıkrasında belirtilen 1.925.451,- YTL. (Birmilyon dokuzyüzyirmibeşbin dörtyüzellibir Yeni Türk Lirası), 2.039.822,- YTL (ikimilyon otuzdokuzbin sekizyüzyirmiiki Yeni Türk Lirası), YTL. 3.850.903,- (Üçmilyon sekizyüzellibin dokuzyüzüç Yeni Türk Lirası), 4.079.646,- YTL. (Dörtmilyon yetmişdokuzbin altıyüzkırkaltı Yeni Türk Lirası), 7- “Kamu İhale Kurumu” başlıklı 53 üncü maddenin (j) fıkrasının; (1) nolu bendinde belirtilen 192.542,- YTL. (Yüzdoksanikibin beşyüzkırkiki Yeni Türk Lirası), 203.978,- YTL. (İkiyüzüçbin dokuzyüzyetmişsekiz Yeni Türk Lirası), (2) nolu bendinde belirtilen 285,- YTL. (İkiyüzseksenbeş Yeni Türk Lirası), 301,- YTL. (Üçyüzbir Yeni Türk Lirası), 8- “İdarelerce uyulması gereken diğer kurallar” başlıklı 62 nci maddenin; (h) bendinde belirtilen 115.525,- YTL. (Yüzonbeşbin beşyüzyirmibeş Yeni Türk Lirası), 122.387,- YTL. (Yüzyirmiikibin üçyüzseksenyedi Yeni Türk Lirası), olarak güncellenmiştir. 1 Şubat 2008 tarihinden itibaren geçerli olacak yukarıda belirtilen Eşik Değerler ve Parasal Limitlere ilişkin, bir önceki dönem ile karşılaştırmalı değerler, ayrıca tablo halinde ekte yer almaktadır. MADDE 2 – Bütçe türleri 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ile yeniden düzenlenen idarelerin, 4734 sayılı kanunun 8 inci maddesi kapsamındaki uygulamalarını 5018 sayılı kanun ile belirlenen bütçe türlerini esas alarak devam etmeleri gerekmektedir. MADDE 3 – Bu Tebliğ 1/2/2008 tarihinde yürürlüğe girer. MADDE 4 – Bu Tebliğ hükümlerini Kamu İhale Kurumu Başkanı yürütür. EK: 1 Tablo EK 4734 SAYILI KANUNDA GEÇEN EŞİK DEĞERLER VE PARASAL LİMİTLERİN BİR ÖNCEKİ DÖNEM İLE KARŞILAŞTIRMALI DEĞERLERİNE İLİŞKİN TABLO
+01.02.2007 – 31.01.2008 DÖNEMİ DEĞERİ | 01.02.2008 – 31.01.2009 DÖNEMİ DEĞERİ
+EŞİK DEĞERLER | EŞİK DEĞERLER
+MADDE 8
+YTL. |  | YTL.
+ | 529.411,00 | 560.858,00
+ | 882.352,00 | 934.763,00
+ | 19.411.781,00 | 20.564.840,00
+PARASAL LİMİTLER | PARASAL LİMİTLER
+MADDE 3 (g)
+YTL. |  | YTL.
+ | 4.428.537,00 | 4.691.592,00
+MADDE 13(b)
+ | 57.761,00 | 61.192,00
+ | 115.524,00 | 122.386,00
+ | 962.723,00 | 1.019.908,00
+MADDE 21 (f)
+ | 96.268,00 | 101.986,00
+MADDE 22(d)
+ | 9.624,00 | 10.195,00
+ | 28.880,00 | 30.595,00
+MADDE 47
+ | 1.925.451,00 | 2.039.822,00
+ | 3.850.903,00 | 4.079.646,00
+MADDE 53(j) 1-2
+ | 192.542,00 | 203.978,00
+ | 285,00 | 301,00
+MADDE 62(h)
+ | 115.525,00 | 122.387,00
