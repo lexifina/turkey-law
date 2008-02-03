@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-02-03",
+  "issue": "26776",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YER ADININ DEĞİŞTİRİLMESİNE DAİR KARAR",
+  "title": "Sinop İli Türkeli İlçesi Merkezinde Bulunan Yarna Deresi Adının \"Türkeli Deresi\" Olarak Değiştirilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080203-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080203.htm",
+  "index_sha256": "32118bc257b45d0a30acc5a763c437c9239ed3e619e58e16e0358273277b9cfc",
+  "index_header": "3 Şubat 2008 ... 26776 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
