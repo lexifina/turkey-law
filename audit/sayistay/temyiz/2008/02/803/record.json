@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29884",
+  "decision_date": "2008-02-05",
+  "source_id": 803,
+  "chamber": "1",
+  "file_number": "29201",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/803/",
+  "source_sha256": "46d745691032529da194422f837fe24589f663fb3d6d6ad6f4ea4a908173225b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
