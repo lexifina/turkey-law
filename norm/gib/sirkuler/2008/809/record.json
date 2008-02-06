@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-32/2008-2/Form Ba ve Form Bs-3",
+  "source_id": 809,
+  "date": "2008-02-06",
+  "title": "2007 dönemine ilişkin Form Ba ve Form Bs bildirimleri 05/06/2008 tarihine kadar verilebilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/809",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "608d205c98fe8e035906c5b152c233b886528c48321a34bdc452079a7e897b44",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
