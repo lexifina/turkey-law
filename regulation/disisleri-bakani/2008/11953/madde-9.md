@@ -1,0 +1,2 @@
+Ayrıcalık ve bağışıklıkların kaldırılması
+MADDE 9 – (1) Ayrıcalık ve muafiyetler Uluslararası Sekretarya görevlilerinin şahsi menfaatleri için kullanılmaz. Genel Sekreter, ayrıcalık ve muafiyetin tanındığı amaca zarar gelmeksizin Uluslararası Sekretaryanın görevlilerinin ayrıcalık ve muafiyetini kaldırmaya yetkili ve görevlidir. Genel Sekreter hakkında muafiyet ve ayrıcalığı kaldırmaya ise Karadeniz Ekonomik İşbirliği Örgütü İş Konseyi Yönetim Kurulu yetkilidir.
