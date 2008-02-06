@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-02-06",
+  "issue": "26779",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "İDARÎ BAĞLILIĞIN DEĞİŞTİRİLMESİ KARARLARI",
+  "title": "İdarî Bağlılığın Değiştirilmesine Dair Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080206-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080206.htm",
+  "index_sha256": "72f74dd21ebac968eeacbc2ec456e16c6aad457326a0495b26b69682d566086a",
+  "index_header": "6 Şubat 2008 ... 26779 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
