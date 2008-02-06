@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5730",
+  "year": 2008,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sırbistan ve Karadağ Bakanlar Konseyi Arasında Askeri-Bilimsel ve Askeri-Teknik İşbirliği Konusunda Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-02-06",
+  "gazette_issue": "26779",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080206-1.htm",
+  "source_sha256": "491f581837d4b3f7461efeaf2f8484ed7fb85d9b21087010bb891dc41479c741",
+  "text_sha256": "9cdeabbe9e94ea74bd77d99facc94e97ee23d3f811000449251521fe92e905fc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/02/06/26779-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080206-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
