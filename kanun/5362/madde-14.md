@@ -1,5 +1,5 @@
 Odaların gelirleri
-MADDE 14 —Odaların gelirleri şunlardır:
+Madde 14- Odaların gelirleri şunlardır:
 a) Kayıt ücreti.
 b) Yıllık aidat.
 c) Konfederasyonca belirlenen tarife ücretleri karşılığında düzenlenecek ve onanacak belgeler ile yapılan hizmetler karşılığında alınacak ücretler.

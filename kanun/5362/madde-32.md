@@ -1,5 +1,5 @@
 Federasyonun gelirleri
-MADDE 32 —Federasyonun gelirleri şunlardır:
+Madde 32- Federasyonun gelirleri şunlardır:
 a) Federasyona bağlı odalardan alınacak kayıt ücreti ve katılma payları.
 b) Yayın gelirleri.
 c) Bağış ve yardımlar.
@@ -8,3 +8,4 @@ e) Federasyonca düzenlenecek sosyal faaliyet gelirleri.
 f) Federasyon tarafından düzenlenecek meslekî kurslar, sergi ve fuarlardan sağlanacak gelirler.
 g) Konfederasyonca belirlenen tarife ücretleri karşılığında düzenlenecek ve onanacak belge ve hizmet karşılıkları.
 h) Faiz ve diğer gelirler.
+9421

@@ -1,9 +1,10 @@
 Konfederasyon yönetim kurulunun görev ve yetkileri
-MADDE 39 — Konfederasyon yönetim kurulunun başlıca görev ve yetkileri şunlardır:
+Madde 39- Konfederasyon yönetim kurulunun başlıca görev ve yetkileri şunlardır:
 a) Konfederasyon işlerini mevzuata ve genel kurul ve başkanlar kurulu tavsiyelerine uygun olarak yürütmek.
 b) Bakanlık tarafından mevzuat gereği verilecek görevleri yerine getirmek.
 c) Yeni dönem çalışma programı ile bu program içinde yer alacak olan eğitim, teorik ve pratik kurs programlarını ve tahmini bütçeyi hazırlamak ve genel kurulun onayına sunmak.
 d) Birliklerin, federasyonların ve gerektiğinde odaların çalışmalarını mevzuat ve ana sözleşmeleri esasları içinde yürütülmesini sağlamak için lüzumlu görülecek zamanlarda hesap ve işlemlerini incelemek ve alınması gerekli tedbirler hakkında bildirimde bulunmak; birlik ve federasyonların, gelecek yıl çalışma programları ile yıl sonu bilanço ve gelir ve gider cetvellerini değerlendirmek ve bu kuruluşlara yol gösterici tavsiyelerde bulunmak.
+9423
 e) Üyeleri hakkında gerekli bilgilerin Bakanlık e-esnaf ve sanatkâr veri tabanında düzenli olarak bulunmasını sağlamak, resmî ve özel mercilerce lüzumlu görülecek konularda istenecek bilgi ve mütalaayı vermek, mensuplarının genel meslekî menfaatlerini ilgilendiren konularda, adli ve idari yargı mercileri önünde Konfederasyon genel başkanı marifetiyle Konfederasyonu temsil etmek.
 f) Birlikler veya birliklerle federasyonlar arasında çıkacak anlaşmazlıkları incelemek ve çözüme kavuşturmak, çözüme kavuşturulamayan hususları Bakanlığa intikal ettirmek.
 g) Konfederasyon topluluğu içindeki kuruluş mensuplarının meslek ve sanatlarının yürütülmesi için gerekli ve faydalı görülecek tedbirleri almak ve teşebbüslerde bulunmak.

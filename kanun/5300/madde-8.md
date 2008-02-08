@@ -1,7 +1,8 @@
 ÜÇÜNCÜ BÖLÜM
 Lisans, Lisans Bedelleri ve Diğer Ücretler
 Depoculuk lisansı
-MADDE 8. — Lisanslı depoculuk faaliyetinde bulunmak için Bakanlıktan depoculuk lisansı alınması zorunludur. Bakanlıktan lisans alınmadan lisanslı depoculuk faaliyetinde bulunulamaz, lisanslı depo veya lisanslı depo işletmesi izlenimini verecek hiçbir isim, unvan, işaret ve benzerleri kullanılamaz.
+Madde 8- Lisanslı depoculuk faaliyetinde bulunmak için Bakanlıktan depoculuk lisansı alınması zorunludur. Bakanlıktan lisans alınmadan lisanslı depoculuk faaliyetinde bulunulamaz, lisanslı depo veya lisanslı depo işletmesi izlenimini verecek hiçbir isim, unvan, işaret ve benzerleri kullanılamaz.
+9274
 Bir lisanslı depo işletmesinde iki ya da daha fazla çeşit ürünün depolanması için bir lisans düzenlenebilir. Lisansta hangi ürünlerin depolanabileceği ve bunların azamî kapasiteleri gösterilir.
 Bu lisans, Türkiye Ticaret Sicili Gazetesinde ilân edilir.
 Depoculuk lisansı devredilemez ve lisanslı depo işletmesinin tüm şubeleri aynı lisans kapsamında çalışır.

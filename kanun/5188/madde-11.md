@@ -3,4 +3,4 @@ MADDE 11. — Özel güvenlik görevlisi olarak istihdam edilecekler ile özel g
 Göreve başlayan özel güvenlik görevlileri işveren tarafından onbeş gün içinde valiliğe bildirilir.
 Çalışma izninin yenilenebilmesi için, güvenlik soruşturmasının olumlu olması ve Kanunun 14 üncü maddesinde belirtilen özel güvenlik yenileme eğitiminin başarıyla tamamlanmış olması zorunludur.
 Özel güvenlik görevlilerinde aranan şartlardan herhangi birisinin kaybedilmesi halinde çalışma izni iptal edilir.
-(Değişik: 21/4/2005-5335/ 23 md) Genel kolluk kuvvetinden ve Milli İstihbarat Teşkilatından emekli olanlar ile en az beş yıl fiilen bu görevlerde çalıştıktan sonra kendi istekleriyle görevlerinden ayrılmış olanlarda, görevlerinden ayrıldıkları tarihten itibaren beş yıl süreyle özel güvenlik temel eğitimi şartı aranmaz.
+(Değişik: 21/4/2005-5335/ 23 md.) Genel kolluk kuvvetinden ve Milli İstihbarat Teşkilatından emekli olanlar ile en az beş yıl fiilen bu görevlerde çalıştıktan sonra kendi istekleriyle görevlerinden ayrılmış olanlarda, görevlerinden ayrıldıkları tarihten itibaren beş yıl süreyle özel güvenlik temel eğitimi şartı aranmaz.

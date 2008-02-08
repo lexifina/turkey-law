@@ -1,5 +1,5 @@
 Federasyon genel kurulunun görev ve yetkileri
-MADDE 29 — Federasyon genel kurulunun başlıca görev ve yetkileri şunlardır:
+Madde 29- Federasyon genel kurulunun başlıca görev ve yetkileri şunlardır:
 a) Federasyon başkanını, yönetim kurulu ve denetim kurulu asıl ve yedek üyelerini seçmek.
 b) Yönetim kurulu faaliyet raporu, denetim kurulu raporu, bilanço ve gelir ve gider hesaplarını incelemek, kabul veya reddetmek.
 c) Yönetim kurulu ve denetim kurulunu ibra etmek.

@@ -1,5 +1,5 @@
 Birliğin gelirleri
-MADDE 25 —Birliğin gelirleri şunlardır:
+Madde 25- Birliğin gelirleri şunlardır:
 a) Birliğe bağlı odalardan alınacak kayıt ücreti.
 b) Birliğe bağlı odalar tarafından ödenecek katılma payları.
 c) Yayın gelirleri.

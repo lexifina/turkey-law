@@ -1,5 +1,5 @@
 Kullanılacak beyanname, defter ve makbuzlar
-MADDE 60 —Esnaf ve sanatkârlar meslek kuruluşlarında kullanılacak defter, belge, beyanname, makbuz ve fişler şunlardır:
+Madde 60- Esnaf ve sanatkârlar meslek kuruluşlarında kullanılacak defter, belge, beyanname, makbuz ve fişler şunlardır:
 a) Üye kayıt defteri.
 b) Üye kayıt beyannamesi.
 c) Genel kurul karar defteri.

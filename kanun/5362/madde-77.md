@@ -1,2 +1,2 @@
 Yürürlük
-MADDE 77 —Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 77- Bu Kanun yayımı tarihinde yürürlüğe girer.

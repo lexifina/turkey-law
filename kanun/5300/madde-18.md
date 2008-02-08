@@ -1,6 +1,6 @@
-Kayıt ve Defterler ile Ücret Tarifesi
+Borsa ile Sözleşme Yükümlülüğü, Kayıt ve Defterler ile Ücret Tarifesi
 Lisanslı depo işleticisinin hak ve yükümlülükleri
-MADDE 18. — Lisanslı depo işleticisinin hakları şunlardır:
+Madde 18- Lisanslı depo işleticisinin hakları şunlardır:
 a) Depolama hizmetleri karşılığında Bakanlıkça onaylı ücret tarifesi çerçevesinde ücret talep etmek.
 b) Ücreti ödenmemişse depolanmış ürün üzerinde hapis hakkını kullanmak.
 c) Kanunda belirtilen durumlarda ürünlerin depolamasını reddetmek.

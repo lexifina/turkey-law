@@ -1,7 +1,8 @@
 Konfederasyon denetim kurulunun görev ve yetkileri
-MADDE 40 — Konfederasyon denetim kurulunun görev ve yetkileri şunlardır:
+Madde 40- Konfederasyon denetim kurulunun görev ve yetkileri şunlardır:
 a) Bu Kanunla verilen görevler ile genel kurulda alınan kararların yönetim kurulu tarafından yerine getirilip getirilmediğini incelemek.
 b) Konfederasyon işlemlerinin mevzuat ve Konfederasyon ana sözleşmesi çerçevesinde yerine getirilip getirilmediğini incelemek.
+9424
 c) Bakanlık tarafından mevzuat gereği verilen görevlerin yerine getirilip getirilmediğini incelemek.
 d) Konfederasyon kayıt ücreti ve katılma paylarının üye birlik ve federasyonlardan zamanında tahsil edilip edilmediğini kontrol etmek ve Konfederasyonun işlem ve hesapları hakkında genel kurula rapor vermek.
 e) Genel kurulu olağanüstü toplantıya çağırmak.

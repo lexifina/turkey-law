@@ -1,5 +1,5 @@
 Üyeliğin son bulması
-MADDE 8 —Aşağıda belirtilen durumlarda üyenin oda kaydının silinmesine yönetim kurulu tarafından karar verilir, durum sicile bildirilerek kaydın silinmesi temin edilir ve kaydı silinen üyeye oda tarafından on gün içinde üyenin odaya bildirdiği iş yeri veya ikamet adresine yazılı olarak bildirilir.
+Madde 8- Aşağıda belirtilen durumlarda üyenin oda kaydının silinmesine yönetim kurulu tarafından karar verilir, durum sicile bildirilerek kaydın silinmesi temin edilir ve kaydı silinen üyeye oda tarafından on gün içinde üyenin odaya bildirdiği iş yeri veya ikamet adresine yazılı olarak bildirilir.
 a) Daimi olarak odanın çalışma bölgesi dışına çıkanlar.
 b) 7 nci maddede belirtilen şartlardan herhangi birini kaybedenler veya bu şartlardan herhangi birine sahip olmadığı sonradan anlaşılanlar.
 c) Sanat ve mesleğini yapmaktan sürekli olarak men edilenler.

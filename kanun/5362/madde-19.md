@@ -1,5 +1,5 @@
 Birliğin organları
-MADDE 19 —Birlik organları şunlardır:
+Madde 19- Birlik organları şunlardır:
 a) Genel kurul : Genel kurul tarihinden en az altı ay önce kurulmuş olan odaların başkan ve yönetim kurulu üyeleri ile birliğin görevde bulunan başkanı, yönetim ve denetim kurulu üyelerinden oluşur.
 b) Başkanlar kurulu : Birliğe üye odaların başkanlarından oluşur.
 c) Yönetim kurulu : Başkan dahil olmak üzere oda sayısı 25 ve daha az olanlarda beş, 26-50 olanlarda yedi, 51-120 olanlarda dokuz, 121 ve daha fazla olanlarda onbir kişiden oluşur ve genel kurul üyeleri arasından dört yıl süreyle görev yapmak üzere seçilir. Aynı sayıda yedek üye seçilir.

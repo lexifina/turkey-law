@@ -1,11 +1,12 @@
 Aylık ücretler ve huzur hakları
-MADDE 56 —Esnaf ve sanatkârlar meslek kuruluşlarının yönetim kurulu üyelerinin huzur hakları, yönetim kurulu başkanı ve başkan vekilleri ile denetim kurulu ve disiplin kurulu üyelerine verilecek aylık ücretler ile merkez dışından genel kurul, başkanlar kurulu, yönetim kurulu, denetim kurulu ve disiplin kurulu toplantılarına katılacak üyelere ve bunların görevlendirilmelerinde ödenecek yolluk ve konaklama ücretleri, aşağıda belirtilen hadleri aşmamak kaydıyla ilgili esnaf ve sanatkârlar meslek kuruluşlarının genel kurullarınca belirlenir.
+Madde 56- Esnaf ve sanatkârlar meslek kuruluşlarının yönetim kurulu üyelerinin huzur hakları, yönetim kurulu başkanı ve başkan vekilleri ile denetim kurulu ve disiplin kurulu üyelerine verilecek aylık ücretler ile merkez dışından genel kurul, başkanlar kurulu, yönetim kurulu, denetim kurulu ve disiplin kurulu toplantılarına katılacak üyelere ve bunların görevlendirilmelerinde ödenecek yolluk ve konaklama ücretleri, aşağıda belirtilen hadleri aşmamak kaydıyla ilgili esnaf ve sanatkârlar meslek kuruluşlarının genel kurullarınca belirlenir.
 a) Yönetim kurulu başkanlarına;
 Odalarda üye sayısı 100-500 olan odalarda asgari ücret, 501-1500 olan odalarda asgari ücretin iki katı, 1501-3000 olan odalarda asgari ücretin üç katı, 3001-10000 olan odalarda asgari ücretin dört katı, 10001 ve daha fazla üyesi olan odalarda asgari ücretin beş katı,
-–––––––––––––––––––––
-(1) Sözkonusu İptal Kararı 21/7/2006 tarihli ve 26235 sayılı Resmi Gazete’de yayımlanmıştır.
 Birliklerde üye oda sayısı 25'e kadar olanlarda asgari ücretin üç katı, 26-50 olanlarda asgari ücretin dört katı, 51-100 olanlarda asgari ücretin beş katı, 101-150 olanlarda asgari ücretin altı katı, 151 ve daha fazla olanlarda asgari ücretin yedi katı,
 Federasyonlarda üye oda sayısı 50'ye kadar olanlarda asgari ücretin beş katı, 51-100 olanlarda asgari ücretin altı katı, 101 ve daha fazla olanlarda asgari ücretin yedi katı,
+–––––––––––––––––––––
+(1) Sözkonusu İptal Kararı 21/7/2006 tarihli ve 26235 sayılı Resmi Gazete’de yayımlanmıştır.
+9432
 Konfederasyonda Genel başkana asgari ücretin on katı,
 b) Yönetim kurulu başkan vekillerine; (a) bendinde belirtilen miktarların 2/4'ü,
 c) Denetim kurulu üyelerine; (a) bendinde belirtilen ücretlerin 1/4'ü,

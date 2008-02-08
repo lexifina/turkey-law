@@ -1,3 +1,3 @@
-Görev ve ek ödenek(1)
+Görev ve ek ödenek(2)
 MADDE 63. — Vali yardımcıları ve Kaymakamlar, valinin verdiği il özel idaresinin görevlerini yapmakla yükümlü ve bu görevlerin yapılmasından valiye karşı sorumludur. Vali yardımcılarına ve Kaymakamlara yaptıkları görevler karşılığında 12000 gösterge rakamının Devlet memurlarına uygulanan aylık katsayısıyla çarpımı sonucu bulunacak miktarda aylık ödenek verilir.(1)
 Bu madde ile 28 inci maddede belirtilen ödeneklerin ödenmesinde, 4505 sayılı Sosyal Güvenlikle İlgili Bazı Kanunlarda Değişiklik Yapılması ve Temsil Tazminatı Ödenmesi Hakkında Kanunun 5 inci maddesinin (c) fıkrası ile 631 sayılı Memurlar ve Diğer Kamu Görevlilerinin Malî ve Sosyal Haklarında Düzenlemeler ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararnamenin 16 ncı maddesi hükümleri uygulanmaz.

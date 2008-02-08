@@ -1,5 +1,5 @@
 Konfederasyonun gelirleri
-MADDE 41 — Konfederasyonun gelirleri şunlardır:
+Madde 41- Konfederasyonun gelirleri şunlardır:
 a) Birlik ve federasyonca ödenecek kayıt ücretleri ve katılma payları.
 b) Türkiye Esnaf ve Sanatkârları Sicil Gazetesi ile meslekî yayın gelirleri.
 c) Düzenlenecek ve onanacak belge gelirleri.

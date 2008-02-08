@@ -1,5 +1,5 @@
 Oda denetim kurulunun görev ve yetkileri
-MADDE 12 —Oda denetim kurulunun görev ve yetkileri şunlardır:
+Madde 12- Oda denetim kurulunun görev ve yetkileri şunlardır:
 a) Bu Kanunla verilen görevler ile genel kurulda alınan kararların yönetim kurulu tarafından yerine getirilip getirilmediğini incelemek.
 b) Oda işlemlerinin mevzuat ve oda ana sözleşmesi çerçevesinde yerine getirilip getirilmediğini incelemek.
 c) Bakanlık ve oda üst kuruluşları tarafından verilen görevlerin yerine getirilip getirilmediğini incelemek.

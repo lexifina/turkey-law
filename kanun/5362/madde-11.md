@@ -1,5 +1,5 @@
 Oda yönetim kurulunun görev ve yetkileri
-MADDE 11 —Oda yönetim kurulunun görev ve yetkileri şunlardır:
+Madde 11- Oda yönetim kurulunun görev ve yetkileri şunlardır:
 a) Oda işlerini mevzuat ve genel kurul kararlarına uygun olarak yürütmek.
 b) Bakanlığın mevzuat gereği vereceği görevleri yerine getirmek.
 c) Yeni döneme ait çalışma programı ile bu program içinde yer alacak olan üyelerin meslekî eğitim, teorik ve pratik kurs programlarını ve tahmini bütçeyi hazırlamak ve genel kurula sunmak.
@@ -11,6 +11,7 @@ h) Üyelerin, çalışma konularına giren işlerde gelişmelerini sağlamak ve 
 ı) Resmî ve özel merciler tarafından istenecek temsilciyi atamak ve görevlendirmek.
 j) Bakanlıktan ön izni alınmış oda ana sözleşmesi değişikliklerini genel kurula teklif etmek.
 k) Genel sekreter ve diğer personelin atama, terfi, cezalandırma ve görevlerine son verilmesine karar vermek, personele ait bilgileri Bakanlık e-esnaf ve sanatkâr veri tabanında güncelleyerek takip etmek.
+9412
 l) Oda üyelerince üretilen mal ve hizmetlerin kalitesini, standartlarına ve sağlık koşullarına uygun şekilde üretilip üretilmediğini ve ücret tarifelerine uyulup uyulmadığını ilgililerin başvurusu üzerine veya doğrudan veya uzman kimseler aracılığı ile kontrol etmek, ayrıca meslekî teamüle aykırı davranışları belirlenen üyelere yazılı ihtarda bulunmak, tekrarı halinde ilgilileri birlik disiplin kuruluna bildirmek, tüketicilerin korunması için gerekli tedbirleri almak ve üyeleri hakkında bu konuda odaya yapılan şikâyetleri incelemek.
 m) Oda üyeleri ve müşterileri arasında çıkacak anlaşmazlıkları çözümlemek, ceza gerektiren hallerde konuyu birlik disiplin kuruluna sevk etmek.
 n) Muhasebe işlemlerini bilgisayar ortamında yerine getirmek ve üyelerin talebi doğrultusunda düzenlenen ve onanan belgeleri bilgisayar sisteminden yararlanarak vermek.

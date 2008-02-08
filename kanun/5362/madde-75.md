@@ -1,7 +1,7 @@
 ALTINCI KISIM
 Yönetmelikler, Geçici ve Son Hükümler
 Yönetmelikler
-MADDE 75 — Bu Kanunun;
+Madde 75- Bu Kanunun;
 a) 4 üncü maddesindeki karma odalarda kurulacak meslek komitelerinin kuruluşu ile çalışma usul ve esasları Konfederasyon tarafından,
 b) 47 nci maddesindeki, Bakanlık temsilcisinin veya hükümet komiserinin görevlendirilmesi, görev ve yetkileri ile bunlara ödenecek ücretler Bakanlık tarafından,
 c) 49 uncu maddesinde belirtilen genel kurullarda oy verme işleminin elektronik ortamda yapılması ile ilgili usul ve esaslar Bakanlık tarafından,
@@ -14,3 +14,4 @@ h) 67, 68 ve 69 uncu maddelerinde yer alan, sicil işlemlerinin nasıl yürütü
 j) 71, 72 ve 73 üncü maddelerinde yer alan pratik eğitimin verileceği iş yerleri ve bunların denetimine ilişkin hükümlerinin usul ve esasları ve 3308 sayılı Meslekî Eğitim Kanununun uygulanmasında henüz kapsam içine alınmamış il ve meslek dallarında yapılacak uygulama ve verilecek belgeler ile Meslek Eğitimi Fonunun yönetimi ve fon kaynaklarının kullanımı Konfederasyon tarafından,
 Üç ay içerisinde çıkarılacak yönetmeliklerle düzenlenir. Konfederasyon tarafından hazırlanması öngörülen yönetmelikler Bakanlık onayı ile yürürlüğe konulur.
 Bu Kanunun 4, 16, 26 ve 34 üncü maddelerinde öngörülen örnek ana sözleşmeler Bakanlıkça altı ay içinde hazırlanır.
+9441

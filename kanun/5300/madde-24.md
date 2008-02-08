@@ -1,7 +1,8 @@
 ALTINCI BÖLÜM
 Lisanslı Depoculuk Tazmin Fonu ve Zarar Görenlerin Müracaat Hakkı
 Lisanslı Depoculuk Tazmin Fonu
-MADDE 24. — Lisanslı depo işleticisinin, bu Kanunda ve mudîler ile yapacağı sözleşmede öngörülen yükümlülüklerini yerine getirmemesinden dolayı ortaya çıkan zararların tazmin edilebilmesi amacıyla, tüzel kişiliği haiz Lisanslı Depoculuk Tazmin Fonu kurulur.
+Madde 24- Lisanslı depo işleticisinin, bu Kanunda ve mudîler ile yapacağı sözleşmede öngörülen yükümlülüklerini yerine getirmemesinden dolayı ortaya çıkan zararların tazmin edilebilmesi amacıyla, tüzel kişiliği haiz Lisanslı Depoculuk Tazmin Fonu kurulur.
+9278
 Fon yönetimi; lisanslı depoculukla ilgili birimden Bakanlığı temsilen iki, lisanslı depoları, borsaları ve üreticileri temsilen birer olmak üzere toplam beş kişiden oluşur. Aynı sayıda da yedek üye belirlenir. Borsaların temsilcisi, bunların yönetim kurulu üyeleri arasından Türkiye Odalar ve Borsalar Birliği tarafından, lisanslı depo temsilcisi kendi aralarından oy çokluğu ile, üreticileri temsilen bir üye ise Tarım ve Köyişleri Bakanlığı tarafından atanır. Yönetim kurulu üyelik süresi iki yıldır. Üyeler yeniden seçilebilirler.
 Fonun gelirleri şunlardır:
 a) Lisanslı depo işletmesinin, her yıl lisanslı depoculuk hizmetleri karşılığında o takvim yılı tahsil ettiği ücretlerin binde beşi.

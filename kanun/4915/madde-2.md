@@ -1,5 +1,5 @@
 Tanımlar
-MADDE 2. - Bu Kanunda adı geçen;
+Madde 2 - Bu Kanunda adı geçen;
 1) Bakanlık: Çevre ve Orman Bakanlığını,
 2) Bakan: Çevre ve Orman Bakanını,
 3) Genel Müdürlük: Doğa Koruma ve Millî Parklar Genel Müdürlüğünü,
@@ -7,6 +7,7 @@ MADDE 2. - Bu Kanunda adı geçen;
 5) Yaban hayvanı: Sadece suda yaşayan memeliler dışında kalan ve Bakanlıkça belirlenen bütün memelileri, kuşları ve sürüngenleri,
 6) Avlak: Av ve yaban hayvanlarının doğal olarak yaşadıkları veya sonradan salındıkları sahaları,
 7) Özel avlak: Bir bütün teşkil eden özel mülkiyetteki tapulu arazilerden, Bakanlığın avlaklar için tespit ettiği ve tanımladığı şartlara uygun olan avlakları,
+8502
 8) Devlet avlağı: Devlet ormanları, toprak muhafaza ve ağaçlandırma sahaları ve benzeri yerlerle Devlet tarım işletmeleri, baraj gölleri ve emniyet sahalarında, ilgili kuruluşun muvafakatı alınarak Bakanlıkça avlak olarak ayrılan yerleri,
 9) Genel avlak: Özel ve Devlet avlakları dışında kalan bütün av sahaları ile göl, lagün, bataklık ve sazlık gibi sahaları,
 10) Örnek avlak: Devlet avlakları ve genel avlaklar içinde Bakanlıkça belirlenecek esaslara göre ayrılan ve işletilen veya işlettirilen avlakları,
@@ -23,6 +24,7 @@ MADDE 2. - Bu Kanunda adı geçen;
 21) Avcılık belgesi: Onsekiz yaşını doldurmuş, silâh taşıma ehliyetine sahip, bu Kanuna göre avcılık belgesi almaya engel hali bulunmayan, avcılık ve av yaban hayatı ile ilgili eğitim almış ve sınavda başarılı olmuş kişilere başvuruları halinde verilen belgeyi,
 22) Avlanma hakkı: Avcılık belgesine sahip olan kişilerin yıllık avlanma izin ücreti ödeme koşulları ile elde ettiği hakkı,
 23) Av yılı: 1 Nisan'dan başlayarak takip eden yılın 31 Mart sonuna kadar olan süreyi,
+8503
 24) Av sezonu: Merkez Av Komisyonunca tespit edilen ve avlanmasına izin verilen ilk grup av hayvanlarının avının açıldığı tarih ile son grup av hayvanlarının avının kapandığı tarih arasındaki süreyi,
 25) Avlanma zamanı: Gün doğumundan bir saat öncesi ile gün batımından bir saat sonrası arasında kalan zamanı,
 26) Avlanma: Bu Kanun kapsamında avına izin verilen yaban hayvanı türlerini, izin verilen yerlerde, tespit edilen zaman ve miktarlar ile belirlenen esas ve usullerle canlı veya ölü ele geçirmeye çalışmayı veya ele geçirmeyi,

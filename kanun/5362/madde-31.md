@@ -1,5 +1,5 @@
 Federasyon denetim kurulunun görev ve yetkileri
-MADDE 31 —Federasyon denetim kurulunun görev ve yetkileri şunlardır:
+Madde 31- Federasyon denetim kurulunun görev ve yetkileri şunlardır:
 a) Bu Kanunla verilen görevler ile genel kurulda alınan kararların yönetim kurulu tarafından yerine getirilip getirilmediğini incelemek.
 b) Federasyon işlemlerinin mevzuat ve federasyon ana sözleşmesi çerçevesinde yerine getirilip getirilmediğini incelemek.
 c) Bakanlık ve Konfederasyon tarafından mevzuat gereği verilen görevlerin yerine getirilip getirilmediğini incelemek.
