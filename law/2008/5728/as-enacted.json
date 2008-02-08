@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5728",
+  "year": 2008,
+  "title": "Temel Ceza Kanunlarına Uyum Amacıyla Çeşitli Kanunlarda ve Diğer Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-02-08",
+  "gazette_issue": "26781",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080208-1.htm",
+  "source_sha256": "30baaa0378fbf9a66bdd4b0d33e86d604c6eb8932224954cca25e319a6cd6cb4",
+  "text_sha256": "91951b10ba7af1b9a83f05bd7c8b4a4ba04e80ac925ade954a2f08a54e0099bc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/02/08/26781-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080208-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
