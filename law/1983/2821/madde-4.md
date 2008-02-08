@@ -1,0 +1,2 @@
+İşkolunun belirlenmesi:
+Madde 4 – Bir işyerinin girdiği işkolunun tespiti Çalışma ve Sosyal Güvenlik Bakanlığınca yapılır. Çalışma ve Sosyal Güvenlik Bakanlığı tespit ile ilgili kararını Resmi Gazete'de yayımlar.Kararın yayımını müteakip bu tespite karşı ilgililer iş davalarına bakmakla görevli mahalli mahkemede onbeş gün içinde dava açabilirler. Mahkeme iki ay içinde kararını verir. Kararın temyiz edilmesi halinde Yargıtay uyuşmazlığı iki ay içinde kesin olarak karara bağlar.

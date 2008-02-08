@@ -1,0 +1,1 @@
+Madde 1 – Bu Kanunun amacı, çalışma ilişkilerinde ekonomik ve sosyal hak ve menfaatlerin korunması ve geliştirilmesi için işçiler ve işverenler tarafından meydana getirilen sendikalar ile konfederasyonların kuruluşu, teşkilatı, faaliyeti ve denetlenmesi esaslarını düzenlemektir.

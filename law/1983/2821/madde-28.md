@@ -1,0 +1,6 @@
+Uluslararası işçi ve işveren kuruluşlarına üyelik:
+Madde 28 – (Değişik: 4/4/1995 - 4101/7 md.)
+Sendika ve konfederasyonlar Türkiye Devletinin şekline,insan haklarına saygılı,milli,demokratik, laik ve sosyal hukuk devleti niteliklerine; Devletin ülkesi ve milleti ile bölünmez bütünlüğüne; Türk Ulusuna ait egemenliğin kullanılmasının hiç bir suretle belli bir kişiye, zümreye veya sınıfa bırakılamayacağı ilkelerine; vicdan ve din özgürlüğüne; aykırı faaliyet göstermeyen uluslararası işçi ve işveren kuruluşlarına serbestçe üye olabilirler ve üyelikten çekilebilirler.
+İlgili kuruluş,üye olduğu uluslararası kuruluşun tüzüğünü üye olduğu tarihi izleyen onbeş gün içinde Çalışma ve Sosyal Güvenlik Bakanlığına gönderir. Üyelikten ayrılma halinde de, durumu, ayrılma tarihini izleyen onbeş gün içinde aynı Bakanlığa bildirir.
+Üye olunan uluslararası kuruluş tüzüğü birinci fıkradaki esaslara aykırı bulunduğu veya uluslararası kuruluş bu ilkelere aykırı faaliyet göstediği veya nitelik kazandığı takdirde, Çalışma ve Sosyal Güvenlik Bakanlığı, üyeliğin iptali için sendika veya konfederasyon merkezinin bulunduğu iş mahkemesinde dava açar.
+Kuzey Kıbrıs Türk Cumhuriyetinde faaliyet gösteren işçi ve işveren kuruluşları Türkiye'de kurulu konfederasyonlara üye olabilirler.
