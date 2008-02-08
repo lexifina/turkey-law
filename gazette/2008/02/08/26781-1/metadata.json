@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-02-08",
+  "issue": "26781",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "5728 Temel Ceza Kanunlarına Uyum Amacıyla Çeşitli Kanunlarda ve Diğer Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080208-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080208.htm",
+  "index_sha256": "5a10849c967904eeb51796121a39049e3240e272e3b4cab94e744300e6e22668",
+  "index_header": "8 Şubat 2008 ... 26781 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
