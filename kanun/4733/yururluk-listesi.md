@@ -10,3 +10,4 @@ Anayasa Mah.’nin E.: 2002/32 ve K.: 2003/100 sayılı Kararı | 9 | 11/8/2004
 5398 | İşlenemeyen Hüküm | 21/7/2005
 5478 | Geçici Madde 4 | 28/3/2006
 5538 | Ek Madde 1 | 12/7/2006
+5728 | 3, 8 | 8/2/2008

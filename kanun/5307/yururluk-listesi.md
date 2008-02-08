@@ -8,3 +8,4 @@ Değiştiren Kanunun/ Tebliğin/İptal Eden Anayasa Mahkemesinin Kararının Num
 5522 | GEÇİCİ MADDE 2, 7 | 24/6/2006
 29/12/2006 tarihli ve 26391 sayılı R.G.’de yayımlanan Tebliğ | 16 | 1/1/2007
 7/12/2007 tarihli ve 26723 sayılı R.G.’de yayımlanan Tebliğ | 16 | 1/1/2008
+5728 | 16, 17, 18 | 8/2/2008

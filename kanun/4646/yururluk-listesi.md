@@ -9,3 +9,4 @@ TEBLİĞ 31/12/2004 tarihli ve 25322 (3. Mükerrer) sayılı R.G | 9 | 1/1/2005 
 TEBLİĞ 26/4/2005 tarihli ve 25797 sayılı R.G | 9 | 1/1/2005 tarihinden geçerli olmak üzere
 5367 | 4, GEÇİCİ MADDE 2 | 25/6/2005
 5669 | GEÇİCİ MADDE 3 | 12/6/2007
+5728 | 9, 10, 12 | 8/2/2008
