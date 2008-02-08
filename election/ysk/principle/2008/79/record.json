@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2008/79",
+  "list_number": "79",
+  "decision_date": "2008-02-08",
+  "title": "YSK ilke kararı 2008/79",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3214/79.htm",
+  "source_sha256": "a5048f1f84306fbe3ad2f87d70401184de3229eb29d8dfb50481ca07bc041989",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2008-02-08",
+  "law_text_complete": false
+}
