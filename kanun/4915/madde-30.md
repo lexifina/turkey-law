@@ -1,4 +1,4 @@
-İdarî para cezalarına itiraz ve cezaların tahsili
-MADDE 30. - Bu Kanuna göre verilecek idarî para cezaları 4856 sayılı Kanunda yer alan İl Çevre ve Orman Müdürü veya yetki verdiği elemanlar ile 31.10.1985 tarihli ve 3234 sayılı Orman Genel Müdürlüğünün Kuruluş ve Görevleri Hakkında Kanunda yer alan orman işletme şefi tarafından verilir.
-Verilen para cezaları, 11.2.1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre sahiplerine tebliğ edilir. Bu cezalara karşı, tebellüğ tarihinden itibaren yedi gün içinde, idare mahkemesine itiraz edilebilir. İtiraz idarece verilen cezanın yerine getirilmesini durdurmaz. Bu konuda idare mahkemelerince verilen kararlar kesindir.
-Kesinleşen idarî para cezaları, 6183 sayılı Kanun hükümlerine göre yukarıda birinci fıkrada sayılan idarî para cezası vermeye yetkili makamlar tarafından tahsil edilir.
+İdarî para cezalarına karar verme yetkisi(1)
+Madde 30 - Bu Kanuna göre verilecek idarî para cezaları 4856 sayılı Kanunda yer alan İl Çevre ve Orman Müdürü veya yetki verdiği elemanlar ile 31.10.1985 tarihli ve 3234 sayılı Orman Genel Müdürlüğünün Kuruluş ve Görevleri Hakkında Kanunda yer alan orman işletme şefi tarafından verilir.
+(Mülga ikinci fıkra: 23/1/2008 – 5728/578 md.)
+(Mülga üçüncü fıkra: 23/1/2008 – 5728/578 md.)

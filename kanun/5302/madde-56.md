@@ -1,2 +1,3 @@
-Ceza verme yetkisi
-MADDE 56. — 55 inci maddede öngörülen cezalar il encümeni tarafından verilir. Ancak vali veya kaymakam, suçun işlendiğini tespit ettirdiğinde yüzmilyon Türk Lirasına kadar para cezası ve üç güne kadar işyerinin kapatılması cezası verebilir.
+İdarî yaptırım kararı verme yetkisi (2)
+MADDE 56-(Değişik: 23/1/2008-5728/ 567 md.)
+55 inci maddede öngörülen idarî yaptırımlara il encümeni tarafından karar verilir. Ancak vali veya kaymakam, fiilin işlendiğini tespit ettirdiğinde, yüz Türk Lirası idarî para cezasına ve üç güne kadar işyerinin kapatılmasına karar verebilir.

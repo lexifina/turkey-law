@@ -3,7 +3,7 @@ MADDE 10. — Özel güvenlik görevlilerinde aşağıdaki şartlar aranır:
 a) Türkiye Cumhuriyeti vatandaşı olmak.
 b) (Değişik: 21/4/2005-5335/ 23 md.) Silahsız olarak görev yapacaklar için en az sekiz yıllık ilköğretim veya ortaokul; silahlı olarak görev yapacaklar için en az lise veya dengi okul mezunu olmak.
 c) 18 yaşını doldurmuş olmak.
-d) Taksirli suçlar hariç olmak üzere, ağır hapis veya altı aydan fazla hapis veyahut affa uğramış olsa bile Devletin şahsiyetine karşı işlenen suçlarla, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, emniyeti suiistimal, sahtecilik, hileli iflas veya istimal ve istihlak kaçakçılığı hariç kaçakçılık, resmi ihale ve alım satımlara fesat karıştırma, Devlet sırlarını açığa vurma, laf atma, sarkıntılık, ırza tasallut, ırza geçme, kız, kadın veya çocuk kaçırma ve alıkoyma, fuhşa teşvik, fuhuş için aracılık, uyuşturucu madde kullanma, uyuşturucu madde kaçakçılığı suçlarından dolayı hükümlü bulunmamak.
-e) Kamu haklarından yasaklı olmamak.
+d) (Değişik: 23/1/2008-5728/545 md.) Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezasına ya da affa uğramış olsa bile devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, cinsel dokunulmazlığa karşı suçlar, kamunun sağlığına karşı suçlar, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık veya fuhuş suçlarından mahkûm olmamak.
+e) (Mülga: 23/1/2008-5728/578 md.)
 f) Görevin yapılmasına engel olabilecek vücut ve akıl hastalığı ile özürlü bulunmamak.
 g) 14 üncü maddede belirtilen özel güvenlik temel eğitimini başarıyla tamamlamış olmak.

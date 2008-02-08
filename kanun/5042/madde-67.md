@@ -1,5 +1,2 @@
 Usul ve zamanaşımı
-MADDE 67. - 66 ncı maddede sayılan suçlardan dolayı takibat, hak sahibinin şikâyetine tabidir. 66 ncı maddenin (c) bendinde belirtilen fiilin işlenmesi halinde, hak sahibinin yanı sıra; Bakanlık, ıslahçı hakları ile ilgili birlikler, tüketici dernekleri ve 8.3.1950 tarihli ve 5590 sayılı "Ticaret ve Sanayi Odaları", "Ticaret Odaları", "Sanayi Odaları", "Deniz Ticaret Odaları", "Ticaret Borsaları" ve "Türkiye Ticaret, Sanayi, Deniz Ticaret Odaları ve Ticaret Borsaları Birliği" Kanunu ile 17.7.1964 tarihli ve 507 sayılı Esnaf ve Küçük Sanatkârlar Kanununa tâbi kuruluşlar da şikâyet hakkına sahiptir.
-Şikâyetin, fiil ve failden haberdar olma tarihinden itibaren bir yıl içinde yapılması gerekir. Şikâyetler acele işlerden sayılır. Bu suçlar hakkında, 8.6.1936 tarihli ve 3005 sayılı Meşhud Suçların Muhakeme Usulü Kanunundaki yargılama usulü uygulanır.
-66 ncı madde hükümlerinin uygulanmasında, 4.4.1929 tarihli ve 1412 sayılı Ceza Muhakemeleri Usulü Kanununun 344 üncü maddesinin birinci fıkrasının (8) numaralı bendi uygulanmaz.
-8717
+Madde 67- (Mülga: 23/1/2008 – 5728/578 md.)

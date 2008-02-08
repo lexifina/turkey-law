@@ -4,8 +4,8 @@ Oda, borsa ve Birlik organlarına seçilebilmek için;
 a) Yeni kurulan oda ve borsalar hariç en az iki yıldır oda ve borsaya kayıtlı olmak,
 b) Seçim tarihinde yirmibeş yaşını doldurmuş olmak,
 c) İflas etmemiş ya da iflas etmiş olsa bile itibarını yeniden kazanmış olmak,
-d) (Değişik: 3/2/2005-5290/2 md.) Taksirli suçlar hariç olmak üzere ağır hapis veya iki yıldan fazla hapis veya görevi kötüye kullanma suçundan dolayı altı aydan fazla hapis cezasıyla cezalandırılmamış olmak, yahut affa uğramış veya tecil edilmiş olsalar bile basit ve nitelikli zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, evrakta sahtekârlık, inancı kötüye kullanma, yalan yere tanıklık, kaçakçılık, hileli iflas, resmi ihale ve alım satımlara fesat karıştırma, kara para aklama, Devlet sırlarını açığa vurma, terör, vergi kaçakçılığı veya vergi kaçakçılığına teşebbüs ya da iştirak suçlarından dolayı hüküm giymemiş olmak,
-e) Ticaret ve sanat icrasından hükmen yasaklanmamış olmak,
+d) (Değişik: 23/1/2008-5728/541 md.) Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı beş yıl veya daha fazla süreyle ya da devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık, vergi kaçakçılığı veya haksız mal edinme suçlarından hapis cezasına mahkûm olmamak,
+e) (Mülga: 23/1/2008-5728/578 md.)
 f) Ticarî ve sınaî kazanç dolayısıyla gelir veya kurumlar vergisi mükellefi olmak,
 g) Okur-yazar olmak,
 Şartlarını haiz olanlar aday olabilir.

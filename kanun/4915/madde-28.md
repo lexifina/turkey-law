@@ -1,4 +1,7 @@
-Avdan men etme, müsadere ve tazminat
-MADDE 28. - Bu Kanunla yasak edilen fiilleri işleyenler derhal avdan men edilir. Bunların bizatihi av suçunda kullandıkları suç vasıtaları, suç aletleri kime ait olursa olsun idarece zapt ve yetkili sulh ceza mahkemesince müsadere edilir. Canlı ve cansız av hayvanları da müsadere olunur.
-Müsadere edilen silâhlar dışındaki suç alet ve ekipmanları ile suç vasıtaları ve cansız av hayvanları orman idaresince satılarak ücreti Döner Sermaye İşletmesine gelir kaydedilir. 20 nci madde gereğince zapt edilerek satılan ve emanete alınan bedeller ise, müsadere kararının kesinleşmesini müteakip Döner Sermaye İşletmesine gelir kaydedilir.
-Bu Kanun hükümlerine aykırı olarak avlanan, öldürülen veya yaralanan hayvanlar müsadere edilmiş olsa dahi talep halinde hükmolunacak tazminat av hayvanı türlerine göre Bakanlıkça tespit edilen değerler üzerinden, zehirle avlanmalarda ise beş misli fazlasıyla hesaplanır ve tahsiline mahkemece karar verilir. Tahsil edilen para, Döner Sermaye İşletmesine gelir kaydedilir.
+Avdan men etme ve mülkiyetin kamuya geçirilmesi (1)
+Madde 28 - (Değişik: 23/1/2008 – 5728/513 md.)
+Bu Kanunla yasak edilen fiilleri işleyenler derhal avdan men edilir.
+Bu Kanunun 20 nci maddesi kapsamında elkonulan av hayvanları ve türevleri ile sair eşyanın mülkiyetinin kamuya geçirilmesine mahallî mülkî amir tarafından karar verilir.
+Mülkiyetin kamuya geçirilmesine karar verilen cansız av hayvanları ile, avlanan hayvanlardan elde edilen ürünler ve sair eşya Çevre ve Orman Bakanlığı tarafından satılarak bedeli Döner Sermaye İşletmesine gelir kaydedilir.
+Canlı olarak el konulan ve özel bakım ve tedaviye muhtaç olmayan av hayvanları, Bakanlık yetkilileri tarafından başka bir şekilde değerlendirilmesine karar verilmediği takdirde, doğal yaşama ortamlarında serbest bırakılır.
+Bu madde hükümlerine göre mülkiyetin kamuya geçirilmesi kararı verilmiş olsa bile, yasak avlanma ile yaban hayatında ve ekosistemde meydana gelen tahribat ve eksilme nedeniyle hükmolunacak tazminat av hayvanı türlerine göre Bakanlıkça tespit edilen değerler üzerinden hesaplanır. Hükmolunan tazminat, Döner Sermaye İşletmesine gelir kaydedilir.

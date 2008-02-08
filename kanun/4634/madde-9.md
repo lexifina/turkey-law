@@ -10,8 +10,8 @@ g) Bu Kanunun kendisine verdiği görevleri yerine getirirken, gerekli gördüğ
 h)Şirket ve bünyesindeki fabrikalarda, görevleri ile ilgili konularda araştırma ve denetimde bulunabilir. Bu amaçla gerektiğinde ilgili kurum, kuruluş ve kişilerden yararlanabilir.
 ı)Bu Kanunun amaçlarına uygun olarak sektörle ilgili diğer hususlarda kararlar alır ve uygular.
 j) Yurt içinde ve dışında konusu ile ilgili kuruluşlarla işbirliği yapabilir, gerektiğinde bu kuruluşlara üye olabilir.
-Kurul üyeleri, Kurulun para, para hükmündeki evrak, senet ve diğer mevcutlarına karşı işledikleri suçlar ile bilanço, tutanak, rapor ve benzeri her türlü belge ve defterler üzerinde işledikleri suçlardan dolayı memur sayılırlar ve haklarında 765 sayılı Türk Ceza Kanununun İkinci Kitabının Üç ve Altıncı Bablarındaki hükümler uygulanır.
-Kurul üyelerinin, görevlerini yaptıkları sırada öğrendikleri gizli bilgileri açıklamaları halinde, haklarında 765 sayılı Türk Ceza Kanununun 229 uncu maddesi hükmü uygulanır ve Kuruldaki görevlerine son verilir. Bu kişiler Kurul üyeliğine tekrar seçilemezler.
+(Değişik ikinci fıkra: 23/1/2008-5728/489 md.) Kurulun para, evrak ve her çeşit malları devlet malı hükmündedir. Kurulun başkan ve üyeleri ile diğer personeli görevleriyle bağlantılı olarak işledikleri suçlar ile bunlara karşı işlenen suçlardan dolayı sorumluluk bağlamında Türk Ceza Kanununun uygulamasında kamu görevlisi sayılırlar.
+(Değişik üçüncü fıkra: 23/1/2008-5728/489 md.) Kurul üyelerinin, görevlerini yaptıkları sırada öğrendikleri gizli bilgileri açıklamaları halinde, haklarında Türk Ceza Kanununun 258 inci maddesi hükmü uygulanır ve Kuruldaki görevlerine son verilir. Bu kişiler Kurul üyeliğine tekrar seçilemezler.
 Kurul, ticarî sırlar ve gizli rekabet bilgileri de dahil olmak üzere, ticarî açıdan hassas olan her türlü bilginin açıklanmasını engelleyecek usul ve esasları belirlemek ve uygulamakla görevlidir.
 Kuruma ait gelirler, Türkiye’de yerleşik bankalarda açılacak hesaplarda toplanır. Bu hesaplardan Kurul, bu Kanunun amaçlarına uygun olarak harcama yapmaya yetkilidir.
 Kurumun denetimi Başbakanlık Yüksek Denetleme Kurulu tarafından yapılır.

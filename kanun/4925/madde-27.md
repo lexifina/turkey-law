@@ -1,3 +1,4 @@
 Ceza uygulaması
-MADDE 27. — Eylemin başka bir suç teşkil etmesi halinde, 26 ncı madde ile verilen para cezaları, diğer kanunlardaki suçların takibine ve cezaların uygulanmasına; bu Kanunda ve yönetmelikte düzenlenen uyarma, geçici durdurma ve iptal gibi idarî müeyyidelerin uygulanmasına engel teşkil etmez.
-Birden fazla suçun bir arada işlenmesi halinde her suç için ayrı ceza uygulanır.
+MADDE 27. —(Değişik: 23/1/2008-5728/519 md.)
+Bu Kanunda yazılı idarî yaptırımlara mahallî mülkî amir karar vermeye yetkilidir.
+26 ncı maddeye göre verilen idarî para cezaları, bu Kanunda ve yönetmelikte düzenlenen uyarma, geçici durdurma ve iptal gibi idarî yaptırımların uygulanmasına engel teşkil etmez.”

@@ -1,1 +1,1 @@
-Madde 4 – Bu kanuna göre açılan davalara sulh ceza mahkemeleri bakar.
+Madde 4 – (Mülga: 23/1/2008-5728/578 md.)

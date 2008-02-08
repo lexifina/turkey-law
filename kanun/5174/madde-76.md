@@ -1,2 +1,3 @@
 Cezai takibat
-MADDE 76 - Odalar, borsalar ve Birlik paraları ile para hükmündeki evrak, senet ve sair malları aleyhine suç işleyen ve bilanço, zabıtname, rapor ve diğer her çeşit kağıt ve defterler üzerinde suç mahiyetinde değişiklik yapan veya bunları kasten yok eden organlarının üyeleri ile personeli hakkında Devlet memurları hakkındaki cezalar uygulanır.
+MADDE 76 - (Değişik: 23/1/2008-5728/539 md.)
+Odalar, borsalar ve Birliğin organ üyeleri ile personeli, görevlerini yerine getirirken görevleriyle ilgili suç teşkil eden fiil ve hareketlerinden, bu kuruluşların paralarıyla para hükmündeki evrak, senet ve sair varlıkları ile muhasebe ve muamelata ilişkin her çeşit defter ve evrak ile ilgili olarak işledikleri suçlardan dolayı kamu görevlisi olarak cezalandırılırlar.

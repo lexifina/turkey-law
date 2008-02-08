@@ -1,3 +1,4 @@
 Ceza uygulaması
-MADDE 23. — Özel güvenlik görevlileri Türk Ceza Kanununun uygulanmasında memur sayılır.
-Bunlara karşı görevleri sebebiyle suç işleyenler Devlet memurları aleyhine suç işlemiş gibi cezalandırılır.
+MADDE 23.- (Değişik: 23/1/2008-5728/549 md.)
+Özel güvenlik görevlileri, görevleriyle bağlantılı olarak işledikleri suçlardan dolayı kamu görevlisi gibi cezalandırılır.
+Özel güvenlik görevlilerine karşı görevleri dolayısıyla suç işleyenler kamu görevlisine karşı suç işlemiş gibi cezalandırılır.

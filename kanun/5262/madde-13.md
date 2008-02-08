@@ -1,2 +1,3 @@
 Cezaların tahsili ve itiraz
-MADDE 13. — Bu Kanunda yazılı olan idarî para cezaları, Bakanlık veya o yerin en büyük mülkî amiri tarafından verilir. İdarî para cezalarına dair kararlar ilgililere 11.2.1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre tebliğ edilir. Bu cezalara karşı tebliğ tarihinden itibaren en geç yedi gün içinde yetkili idare mahkemesine itiraz edilebilir. İtiraz, idarece verilen cezanın yerine getirilmesini durdurmaz. İtiraz üzerine verilen karar kesindir. İtiraz zaruret görülmeyen hallerde evrak üzerinde inceleme yapılarak en kısa sürede sonuçlandırılır. Bu Kanuna göre verilen idarî para cezaları 21.7.1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil olunur ve tahsil edilen para cezaları Hazineye gelir kaydedilir.
+MADDE 13. —(Değişik: 23/1/2008-5728/561 md.)
+Bu Kanunda yazılı olan idarî para cezaları, Bakanlık veya mahallî mülkî amir tarafından verilir.

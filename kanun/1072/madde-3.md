@@ -1,1 +1,1 @@
-Madde 3 – Bu kanunun kapsamına giren suçlardan dolayı zaman ve mekan kaydına bakılmaksızın 3005 sayılı Kanun hükümleri tatbik edilir.
+Madde 3 – (Mülga: 23/1/2008-5728/578 md.)

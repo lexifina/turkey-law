@@ -1,4 +1,1 @@
-Para cezalarının ödenme süresi
-MADDE 29. — (Değişik: 16/7/2004-5228/49 md.) Ödeme derhal yapılmadığı takdirde para cezalarının, tutanağın tebliğ tarihinden itibaren bir ay içinde ödenmesi gerekir. Bir ay içinde ödenmeyen cezalar için her ay % 5 faiz uygulanır. Aylık faizin hesaplanmasında ay kesirleri tam ay sayılır. Bu suretle bulunacak tutar cezanın iki katını geçemez. İlgilisine tebliğ edilmeyen tutanakların tebliğinde 2918 sayılı Karayolları Trafik Kanununun 116 ncı maddesi hükümleri uygulanır.
-Süresinde ödenmeyen para cezaları için 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
-Bu para cezaları, Maliye Bakanlığının sayman mutemetlerine, mal sandıklarına veya Bakanlıkça yetkili kılınmış personele ödenebileceği gibi banka, posta çeki veya kredi kartı ile de ödenebilir. Maliye Bakanlığı kredi kartı ile tahsilat yapılmasına izin vermeye, tahsilatın saymanlık hesaplarına aktarılmasına ilişkin süreleri ve diğer usul ve esasları belirlemeye yetkilidir.
+MADDE 29. — (Mülga: 23/1/2008-5728/578 md.)

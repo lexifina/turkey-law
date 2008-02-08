@@ -15,11 +15,10 @@ g) Lisans verilmesine esas olan şartların lisansın yürürlüğü sırasında
 Bu maddenin birinci fıkrasının (c) veya (d) bendinde sayılan ihlallerde Kurul, fiilin ağırlığına göre idari para cezası uygulamaksızın lisansı doğrudan iptal eder.
 Dağıtım bölgeleri için lisansın iptal edilmesinin zorunlu hale gelmesi durumunda Kurul hizmetin aksamaması için gerekli tedbirleri önceden almak suretiyle lisansı iptal eder. Tesislerin mülkiyetini elinde bulunduran lisans sahibinin nam ve hesabına yüzyirmi gün içerisinde ilgili tesisin satışı için ihaleye çıkılır. Uygulamaya ilişkin usul ve esaslar yönetmeliklerde belirlenir.
 Bu maddede düzenlenen tüm idari para cezaları hiçbir şekilde ilgili cezayı ödeyen tüzel kişi tarafından hazırlanacak tarifelerde maliyet unsuru olarak yer almaz.
-Para cezası, bu Kanuna aykırı hareket eden tarafların her birine ayrı ayrı uygulanır. Bu Kanun gereğince para cezasını gerektiren fiillerin Türk Ceza Kanunu veya ceza hükmünü içeren diğer kanunlarda suç sayılması, söz konusu para cezalarının
-verilmesine engel olmayacağı gibi, lisans iptaline de mani değildir.
-Bu Kanundaki cezalan gerektiren fiillerin birden fazla olması halinde ve aralarında irtibat olması durumunda en yüksek cezayı gerektirecek fiilin cezası; irtibat bulunmaması halinde ise her birinin cezası ayrı ayrı uygulanır.
-Para cezası kararı verilmesi halinde ilgili tüzel kişi tebliğden itibaren onbeş gün içinde Kurula müracaat ederek kararın yeniden gözden geçirilmesini talep edebilir. Bu talebin yapılmaması veya talebin reddi hallerinde para cezası kararı kesinleşir.
-Para cezası uygulama hakkı, aykırılığın vuku bulduğu tarihi izleyen yılın başından itibaren beş yıllık zamanaşımına tabidir.
-Kurulun inceleme ve araştırma amacıyla yapacağı herhangi bir işlem, bu işlemin ilgili tarafa tebliği, karar aleyhine yargı yoluna başvurulmuş olması, zamanaşımını keser.
-Verilen para cezası 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre Maliye Bakanlığınca, Kurum adına tahsil olunur.
-Para cezası miktarları, her yıl 765 sayılı Türk Ceza Kanununa 28/7/1999 tarihli ve 4421 sayılı Kanunla eklenen ek 2 nci madde hükümleri uyarınca artırılır.
+(Değişik altıncı fıkra: 23/1/2008-5728/479 md.) Bu Kanun hükümlerine göre verilmiş olup da tahsil edilen idarî para cezalarının yüzde onu Kurum hesabına aktarılır.
+(Mülga yedinci fıkra: 23/1/2008-5728/578 md.)
+(Mülga sekizinci fıkra: 23/1/2008-5728/578 md.)
+(Mülga dokuzuncu fıkra: 23/1/2008-5728/578 md.)
+(Mülga onuncu fıkra: 23/1/2008-5728/578 md.)
+(Mülga onbirinci fıkra: 23/1/2008-5728/578 md.)
+(Mülga onikinci fıkra: 23/1/2008-5728/578 md.)

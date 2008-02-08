@@ -1,4 +1,4 @@
 YEDİNCİ KISIM
 Son Hükümler
 Davaların görülmesi
-MADDE 31. - Bu Kanunda öngörülen suçlara ilişkin davalar acele işlerden sayılır ve sulh ceza mahkemelerinde görülür.
+Madde 31 - (Mülga: 23/1/2008 – 5728/578 md.)

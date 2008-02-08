@@ -1,7 +1,7 @@
 Kurulun çalışma esasları, görev ve yetkileri
 MADDE 3 — Kurulun görev ve yetkileri şunlardır:
 a) Bu Kanun gereğince Kurum tarafından yürütülecek görevler ile ilgili düzenlemeleri yapmak.
-b) Bu Kanunda öngörülen idari para cezalarının tahsil edilmesine ilişkin işlemleri yürütmek.
+b) (Mülga: 23/1/2008-5728/578 md.) (…)
 c) Satış ve uygunluk belgesi başına alınacak tutarların tespiti ile tescil, izin ve ruhsat harçlarının Kurum tarafından tahsiline ilişkin işlemleri yürütmek.
 d) 4207 sayılı Tütün Mamullerinin Zararlarının Önlenmesine Dair Kanunda yer alan hükümler saklı kalmak kaydıyla, tütün ve alkol tüketiminden kaynaklanan kamusal, toplumsal ya da tıbbi nitelikteki her türlü zararlı etkileri önleyecek düzenlemeleri yapmak, bunlarla ilgili kararları almak.
 e) Bu Kanunun uygulanmasıyla ilgili sektörel düzenlemeler yapmak.
