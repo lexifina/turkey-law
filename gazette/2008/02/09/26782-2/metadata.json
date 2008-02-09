@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-02-09",
+  "issue": "26782",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2008/13180 Türkiye Cumhuriyeti Hükümeti ile Suudi Arabistan Krallığı Arasında İmzalanan “Güvenlik, Uyuşturucu ve Psikotrop Maddelerle Mücadele Alanında İşbirliği Anlaşması”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080209-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080209.htm",
+  "index_sha256": "5fb9da7470e80234a805daf589a50e2e9b9e42f8cfabdd3c034630ef99b06767",
+  "index_header": "9 Şubat 2008 ... 26782 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
