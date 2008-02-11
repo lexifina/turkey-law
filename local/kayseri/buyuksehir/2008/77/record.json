@@ -1,0 +1,24 @@
+{
+  "number": "77",
+  "number_as_published": "Karar No : 77",
+  "year": 2008,
+  "title": "Gürpınar Belediyesinin, 1/5000 ölçekli 50L Nazım İmar planı paftasında tadilat talebi.",
+  "decision_date": "2008-02-11",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/11-subat-2008-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "2bb58cb18a3a7f1455407938b8f99e970c2e0f6da04f3c11229b8cdf63eea771",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2008-02-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.02.2008 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "11 Şubat 2008 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=19",
+  "subject_published": true
+}
