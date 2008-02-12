@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29918",
+  "decision_date": "2008-02-12",
+  "source_id": 836,
+  "chamber": "6",
+  "file_number": "29456",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/836/",
+  "source_sha256": "0cf2010f52fd33217260380556a4e9301c4ec3c004910805ee0cd055021d89b4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
