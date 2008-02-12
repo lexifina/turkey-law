@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29920",
+  "decision_date": "2008-02-12",
+  "source_id": 838,
+  "chamber": "1",
+  "file_number": "29209",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/838/",
+  "source_sha256": "7dda1b57959adb674ab3f21848b3914417decc7d2bae5b9ab28b9c1a972a4ba0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
