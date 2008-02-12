@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5732",
+  "year": 2008,
+  "title": "Beşinci Dünya Su Forumu Organizasyonu İçin Çerçeve Anlaşma ile Beşinci Dünya Su Forumu Anlaşma Mektubunun Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-02-12",
+  "gazette_issue": "26785",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080212-3.htm",
+  "source_sha256": "f55fe4be9ed04c112dbfecfe0701ac33dfa62c36ea20ac0780b44112dc1900a1",
+  "text_sha256": "be2d520da89687dd31c1337fa49f41a87149c9f1771da8d912cb4b963b413ade",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/02/12/26785-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080212-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
