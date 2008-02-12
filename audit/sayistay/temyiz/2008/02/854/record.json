@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29936",
+  "decision_date": "2008-02-12",
+  "source_id": 854,
+  "chamber": "4",
+  "file_number": "29536",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/854/",
+  "source_sha256": "d775e4fa378e190766d436359b985995b8086402d5cef742382e3436d81c6e85",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
