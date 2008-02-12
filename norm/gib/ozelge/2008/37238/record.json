@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6624-186/13593",
+  "source_id": 37238,
+  "date": "2008-02-12",
+  "title": "Eğlence vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37238",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "dc2471921a8e50e26afd33aaf1803b2db8ca0c6dbd95995ab0aee520eb08897d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
