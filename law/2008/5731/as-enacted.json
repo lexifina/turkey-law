@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5731",
+  "year": 2008,
+  "title": "Karadeniz Ekonomik İşbirliği Parlamenter Asamblesinin Ayrıcalık ve Bağışıklıklarına Dair Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-02-12",
+  "gazette_issue": "26785",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080212-2.htm",
+  "source_sha256": "49baf2b01b438c3373daeecdce01d8d9bda69e350759ea020b0c544a8a907090",
+  "text_sha256": "120a4cdd37423048ddf2c04e55accd810ae7dbe9b66fba276a73f8be5d945a57",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/02/12/26785-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080212-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
