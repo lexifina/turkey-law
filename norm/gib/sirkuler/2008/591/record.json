@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-66/2008-01/Geçici Vergi Beyannamesi",
+  "source_id": 591,
+  "date": "2008-02-12",
+  "title": "Ekim-Kasım-Aralık 2007 Dönemine Ait Dördüncü Üç Aylık Geçici Vergi Beyannamesinin Verilme Süresinin Uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/591",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "e49d1407243634fa4021de6b67cb747b8b883a44ae90479bd2313dac294fd03d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
