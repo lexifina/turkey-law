@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.61/6110-44-123/14157",
+  "source_id": 36446,
+  "date": "2008-02-13",
+  "title": "Şahsın adına kayıt ve tescilli olan ve Motorlu Araç Tescil Belgesi'nde ve/veya Motorlu Araç Trafik Belgesi'nde çift kabin kamyonet olduğu belirtilen, çift sıra koltuklu kamyonetinizin (4x2) olması halinde panel van olarak motorlu taşıtlar vergisine tabi t",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36446",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "40d31b7c0981b0dbda8ab46de8c4b2495fd01b0755f2ae87bf8ed9a0970aca47",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
