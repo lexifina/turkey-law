@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1487",
+  "decision_date": "2008-02-13",
+  "title": "Doğal Gaz Piyasası 2007 Yılı İletim Yatırımları 4. Revize Tablosu değişimi ile ilgili kurul kararı",
+  "resmi_gazete_date": "2008-02-13",
+  "resmi_gazete_number": "26786",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=o4esElS/v7c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=o4esElS/v7c="
+  ],
+  "source_sha256": "2b221bf9030d4522662345fc994483bb3974b356b72e30cf27ba0107d1f72431",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-02-13",
+  "law_text_complete": false
+}
