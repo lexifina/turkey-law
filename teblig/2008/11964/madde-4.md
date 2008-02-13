@@ -1,0 +1,5 @@
+Damping iddiası
+MADDE 4 – (1) ÇHC’nin piyasa ekonomisi uygulamayan bir ülke olarak değerlendirilmesi nedeniyle, Yönetmelik’in 7 nci maddesi uyarınca şikâyet konusu malın Türkiye’deki üretim maliyetine makul bir kâr oranı eklenmek suretiyle hesaplanan oluşturulmuş değer, normal değer olarak alınmıştır. Normal değer fabrika çıkış aşamasında tespit edilmiştir.
+(2) Bu kapsamda, bulunan oluşturulmuş normal değer ihraç faturası tarihindeki döviz kuru üzerinden ihraç işleminde kullanılan döviz türüne çevrilerek ihraç fatura tarihindeki oluşturulmuş normal değer belirlenmiştir.
+(3) Normal değer ile ihraç fiyatının aynı ticari aşamada karşılaştırılmasını teminen FOB ihraç fiyatı ihracatçıların lehine olmak üzere, fabrika çıkış aşaması fiyat olarak kabul edilmiştir.
+(4) Normal değer ile Türkiye’ye ihraç fiyatının mümkün olduğu ölçüde aynı ticari aşamada (fabrika çıkış aşaması) karşılaştırılması yoluyla hesaplanan damping marjının şikayete konu ÇHC için önemli oranda olduğu görülmüştür.
