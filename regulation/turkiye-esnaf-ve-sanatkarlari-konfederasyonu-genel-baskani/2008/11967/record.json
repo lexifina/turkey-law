@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.11967",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ESNAF VE SANATKÂRLAR MESLEK KURULUŞLARININ ÜST KURULUŞLARINA ÖDEYECEKLERİ KAYIT ÜCRETİ VE KATILMA PAYLARI İLE DÜZENLEDİKLERİ VE ONAYLADIKLARI BELGELER İLE YAPTIKLARI HİZMETLER KARŞILIĞINDA ALACAKLARI ÜCRETLER HAKKINDA YÖNETMELİK",
+  "number": "11967",
+  "issuer": "Türkiye Esnaf ve Sanatkârları Konfederasyonu Genel Başkanı",
+  "issuer_slug": "turkiye-esnaf-ve-sanatkarlari-konfederasyonu-genel-baskani",
+  "path": "regulation/turkiye-esnaf-ve-sanatkarlari-konfederasyonu-genel-baskani/2008/11967",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11967&MevzuatTertip=5",
+  "source_sha256": "1f53d8b48b99e109c7e2abb39701bdd27b33e5442f06198e1db5bc551ca2e801",
+  "source_bytes": 22764,
+  "published": "2008-02-14",
+  "gazette": "26787",
+  "in_force": "2008-02-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.02.2008); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 982,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
