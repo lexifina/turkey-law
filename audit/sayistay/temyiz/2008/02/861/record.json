@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29944",
+  "decision_date": "2008-02-19",
+  "source_id": 861,
+  "chamber": "5",
+  "file_number": "28615",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/861/",
+  "source_sha256": "4b834e114a47d0d104754c5bb20ce4972096a41136d63eb105e4c53539ea0a5b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
