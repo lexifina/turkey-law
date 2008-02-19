@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29941",
+  "decision_date": "2008-02-19",
+  "source_id": 858,
+  "chamber": "5",
+  "file_number": "28609",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/858/",
+  "source_sha256": "b4c27869f9946c0d8d7439cd9dc34dc320fb7a99f2a7591fe7c09dc6086897c3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
