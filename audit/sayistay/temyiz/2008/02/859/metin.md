@@ -1,0 +1,25 @@
+Duruşma talebinde bulunan dilekçi Selvi TELLİOĞLU, dilekçi Sema HACIOĞLU adına Avukat Kadri VEZİROĞLU ile Sayıştay Savcı Vekilinin sözlü açıklamalarının dinlenmesinden ve dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü:
+
+443 sayılı ilamın 11. maddesiyle, SAKALLIOĞULLARI OTM. Pet. Tic. San. Ltd. Şti. taahhüdü altında bulunan “İzmit Büyükşehir Belediyesi Sınırları dahilindeki Ana Arterlerde El ve Makine İle Cadde ve Yol Süpürülmesi ile Evsel Atıkların Toplanması ve Taşınması İşi” ne ait hak ediş ödemelerinde, akaryakıt fiyat farklarının yersiz ödenmesi sonucu 6.146.756.563-liraya tazmin hükmü verilmiştir.
+
+Dilekçiler dilekçelerinde özetle, söz konusu işe ait şartnamenin 2. maddesinde tahmini bedelin 2002 fiyatlarıyla hazırlanması hükmüne yer verildiği, idari şartnamenin 7. maddesinde işin bitim süresi olarak 31.12.2003 tarihinin yazıldığını yine idari şartnamenin 12. maddesinde akaryakıt ve işçilik fiyat farklarının 90/ 1216 sayılı kararnameye göre ödenmesinin öngörüldüğünü, şartnamenin 12. maddesine göre analiz ve eklerinin sözleşmenin değişmez hükümleri olduğunun belirtildiğini, sözleşmenin Sayıştayca tescil edildiğini dolayısıyla yapılan ödemelerin tümünün sözleşme ve şartnamelere göre olduğunu belirterek tazmin hükmünün kaldırılmasını talep etmektedir.
+
+1050 sayılı Kanunun 13. maddesinde, gelir ve gider tahakkuk memurları ile saymanlar düzenledikleri belgelerin doğruluğundan ve yaptıkları işlemlerin kanunlara uygunluğundan sorumlu tutulmuşlardır. Aynı Kanunun 81. maddesinde ise, saymanların verile emirlerinde yapacakları incelemede hangi hususlara dikkat edeceği konusu düzenlenmiş olup, bu hususlardan biri de ödemenin mevzuata uygun olmasıdır. Buna göre saymanlar, ödemenin Kanun, Tüzük, Bakanlar Kurulu Kararı, Yönetmelik ve bunların verdiği yetkiye dayanılarak çıkarılan uygulama talimatları ve genelgelere uygun olup olmadığını gözetmekle sorumludurlar. Saymanlar düzenledikleri belgelerin doğruluğundan ve yaptıkları işlemlerin kanunlara uygunluğundan dolayı doğrudan doğruya sorumlu tutulduğundan, sorumluluğa ilişkin iddiaların REDDİNE karar verilerek esasa geçildi;
+
+İdare ile müteahhit AKSA İnş. Tem. Gıda San. Ltd. Şti arasında 24.01.2003 tarihinde imzalanan sözleşmenin 7. maddesinde : “fiyat farkı verilmesinde 90/1216 sayılı kararname hükümleri uygulanır.”
+
+8. maddesinde: “Akaryakıt (motorin) ocak 2002 yılı Bayındırlık rayiç değeri baz alınarak hesaplanmıştır. Bu fiyattaki değişiklik akaryakıtın yeni perakende satış fiyatları arasındaki fark KDV siz hesaplanma suretiyle fiyat farkı olarak verilir.” denilmiştir.
+
+Ayrıca aynı sözleşmenin 2. maddesinde de idarece hazırlanan genel fiyat analizlerinin ve keşif özet cetvellerinin sözleşme eki olduğu belirtilmiştir.
+
+İhale Şartnamesinin 12. maddesinde: “…Ancak akaryakıt ve işçilik ücretlerinden doğacak artışları 90/1216 sayılı kararnamenin sözleşme dönemi içerisindeki akaryakıt fiyat farkı ve işçilik fiyat farkı olarak verilecektir.” hüküm konulmuştur.
+
+Sözleşme eki keşif hesaplamalarında ise “ Bu işe ait keşif 2002 Bayındırlık Birim fiyatları ve asgari ücrete göre hesaplanmıştır. 2003 yılı itibarıyla asgari ücrete, SSK taban ücretine ve Bayındırlık birim fiyatlarına gelen farklar analizlere yansıtılarak hesaplanacaktır. Akaryakıt fiyat farkları aylık hak edişlerde ödenecektir.” denilmiştir.
+
+Sözleşme ve eklerinde belirtilen hükümlerine göre, söz konusu hizmet alımı işinde, işçilikten doğan fiyat farkı ile hizmetin yapılmasında kullanılan iş makinelerinin tükettiği akaryakıt fiyat farkı ödenmesi öngörülmüş olup söz konusu hizmet alımı işine ait tahmini bedel hesabının 2002 yılı işçilik ücretleri ve Bayındırlık ve İskan Bakanlığı rayiç listesindeki fiyatların esas alınarak hesaplanması ve 2003 yılında bu parametrelerde değişiklik olması halinde de bu değişikliklerin esas alınarak fiyat farkı verileceği belirtilmektedir. Ayrıca, akaryakıt fiyat farkı hesabında baz fiyat olarak esas alınacak fiyatın 2002 yılı ocak ayı fiyatı olduğu bilhassa dile getirilmiştir. Bundan dolayı, işçilikten doğan fiyat farkı hesabında baz fiyat olarak 2002 yılı ikinci altı ayı için belirlenen asgari (saatlik) ücretin, zamlı fiyat olarak 01.01.2003’den itibaren geçerli olan asgari (saatlik) ücretin esas alınması ve akaryakıt fiyat farkı hesabında da baz fiyat olarak tahmini bedel hesabında dikkate alınmış olan 01.01.2002 tarihindeki mazotun mahalli rayicin fiyatı, zamlı fiyat olarak ta hak edişin düzenlendiği ayda belli bir gün için Sanayi İl Müdürlüğü’nün belirlediği fiyatın esas alınması gerekmektedir.
+
+Bu itibarla, çöp toplanması ve nakli işi kapsamında akaryakıt fiyat farkı ve asgari ücret artışı oranında işçilik fiyat farkı ödenmesi sözleşme hükümleri doğrultusunda yapıldığından mevzuata aykırı bir uygulamadan söz edilmesi mümkün değildir.
+
+Açıklanan sebeplerle, dilekçi iddialarının kabulü ile 443 sayılı ilamın 11. maddesi ile verilen 6.146.756.563-liraya ilişkin tazmin hükmünün KALDIRILMASINA;
+
+Karar verildiği 19.02.2008 tarih ve 29942 sayılı tutanakta yazılı olmakla iş bu ilâm tanzim kılındı.
