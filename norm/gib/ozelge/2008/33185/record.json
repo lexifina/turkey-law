@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.57/5728-72-17798",
+  "source_id": 33185,
+  "date": "2008-02-22",
+  "title": "İşletmesinde salon kirası, düğün pastası ve meşrubat vb. hizmetlere uygulanacak katma değer vergisi oranı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33185",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "9e4c42b5979597c59ff1c30d6d426fbe3297a7c9efb32fb24ab80fea5205462b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
