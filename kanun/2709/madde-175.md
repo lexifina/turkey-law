@@ -69,3 +69,5 @@ Madde 2 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına s
 Madde 2 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna sunulması halinde oylanır.
 11- 31/5/2007 tarihli ve 5678 sayılı Kanunun 7 nci Maddesi:
 Madde 7 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna sunulması halinde tümüyle oylanır.
+12- 9/2/2008 tarihli ve 5735 sayılı Kanunun 3 üncü Maddesi:
+Madde 3 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna sunulması halinde tümüyle oylanır.
