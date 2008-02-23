@@ -17,5 +17,6 @@ Değiştiren Kanunun Numarası | 2709 sayılı Kanunun değişen maddeleri | Yü
 5551 | 76, İşlenemeyen Hüküm | 17/10/2006
 5659 | 67, İşlenemeyen Hüküm | 18/5/2007
 5678 (1) | 77, 79, 96, 101, 102, İşlenemeyen Hüküm | (Bu Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.)
+5735 | 10, 42, İşlenemeyen Hüküm | 23/2/2008
 ––––––––––––––
 (1) Halkoylamasına sunulan 5678 sayılı Kanunun 6 ncı maddesiyle Türkiye Cumhuriyeti Anayasasına eklenen geçici 18 ve 19 uncu maddeler, 16/10/2007 tarihli ve 5697 sayılı Kanunla halkoylamasına sunulan metinden çıkarılmıştır.
