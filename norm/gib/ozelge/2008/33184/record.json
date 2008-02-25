@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.01.55/5579-26-172-18719",
+  "source_id": 33184,
+  "date": "2008-02-25",
+  "title": "İnternet salonlarında verilen hizmetin, 2007/13033 sayılı Bakanlar Kurulu Kararı eki II sayılı listenin B) DİĞER MAL VE HİZMETLER bölümünün 24 üncü sırasında belirtilen yerler arasında yer almaması, söz konusu hizmetin esasını yeme-içme hizmetini değil, b",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33184",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "bf00bc682ce66bd48a5ac34d99f18f802e3b2ccf1857591828c028da9758074c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
