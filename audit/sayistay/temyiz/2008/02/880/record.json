@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29964",
+  "decision_date": "2008-02-26",
+  "source_id": 880,
+  "chamber": "5",
+  "file_number": "29042",
+  "account_year": "2000",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/880/",
+  "source_sha256": "ad11818a897fa7cde951c3e5d4940bdf5a2edfc9e88ac173675e00eea278e581",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
