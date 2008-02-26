@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29971",
+  "decision_date": "2008-02-26",
+  "source_id": 886,
+  "chamber": "6",
+  "file_number": "28989",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/886/",
+  "source_sha256": "847eee43328b008bcb915be09bebd1161ebd56f18eb804bc843aaf5c06e2d926",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
