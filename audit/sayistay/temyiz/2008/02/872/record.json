@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29956",
+  "decision_date": "2008-02-26",
+  "source_id": 872,
+  "chamber": "6",
+  "file_number": "28791",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/872/",
+  "source_sha256": "32c5ba20fd21f694de46338c8d677ad6b50e101928af726edbb02182a9a8cb18",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
