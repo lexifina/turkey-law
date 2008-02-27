@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-02-27",
+  "issue": "26800",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "Türkiye Cumhuriyeti ve Uluslararası İmar ve Kalkınma Bankası Arasında, Elektrik Dağıtımının Rehabilitasyonu Projesi ile İlgili Garanti ve Kredi Anlaşmaları",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080227M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/02/20080227M1.htm",
+  "index_sha256": "adbbb66c81a4efc8208c93ed99107942426a248228556523afdb0a5f790adab3",
+  "index_header": "27 Şubat 2008 ... 26800 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
