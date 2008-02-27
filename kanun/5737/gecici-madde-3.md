@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 3 – Bu Kanuna göre yeniden düzenleme yapılıncaya kadar değişen veya yeniden kurulan birimlere verilen görevler daha önce bu görevleri yapmakta olan birimler tarafından yapılmaya devam olunur.
