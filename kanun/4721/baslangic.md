@@ -1,4 +1,4 @@
-4/5/2007 tarihli ve 5650 sayılı Kanunla değişik
+20/2/2008 tarihli ve 5737 sayılı Kanunla değişik
 TÜRK MEDENÎ KANUNU
 Kanun Numarası | : 4721
 Kabul Tarihi | : 22/11/2001
