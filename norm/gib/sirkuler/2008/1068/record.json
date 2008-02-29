@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "YMMB-1/2008-1/e-Bildirim-1",
+  "source_id": 1068,
+  "date": "2008-02-29",
+  "title": "Yeminli Mali Müşavirlerin Tasdik Sözleşmelerine İlişkin Bildirimlerinin ve Sürekli Bilgi Verme Yükümlülüklerinin Elektronik Ortamda Yerine Getirilmesi Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/sirkuler/1068",
+  "related_law": "3568 sayılı SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU (*)",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "b676de5213c1832b9631d0cf1a8a9d1bd80ba7f277489ffc081b45e3d4cba8d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
