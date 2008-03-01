@@ -1,0 +1,5 @@
+Mevcut erişim ve yer sağlayıcılar
+GEÇİCİ MADDE 1 – (1) Halen yer veya erişim sağlayıcı olarak faaliyet icra eden kişilere, Kurum tarafından, telekomünikasyon yoluyla iletişim konusunda yetkilendirmesi olup olmadığına bakılmaksızın, yer veya erişim sağlayıcı olarak faaliyet icra etmesi amacıyla bir faaliyet belgesi düzenlenir.
+(2) Erişim sağlama yetkisi bulunan mevcut işletmecilere, bu Yönetmeliğin yayımlandığı tarihten itibaren bir ay içerisinde erişim sağlayıcılığı faaliyet belgesi, Kurum tarafından resen düzenlenerek gönderilir. Mevcut Kablolu ve Kablosuz İnternet Servis Sağlayıcılığı kapsamında kayıtlanmış işletmecilere ise aynı süre zarfında ayrıca erişim sağlayıcı faaliyet belgesi düzenlenmeksizin bu yetkiye sahip olduğu yazı ile bildirilir.
+(3) (Değişik:RG-1/3/2008-26803)(1) Mevcut yer sağlayıcılar, bu Yönetmeliğin yayımlandığı tarihten itibaren dokuz ay içerisinde bu Yönetmeliğin 9 uncu maddesinin ikinci fıkrası uyarınca Kuruma başvuru yapmak suretiyle yer sağlayıcılığı faaliyet belgesi almakla yükümlüdürler.
+(4) Kurumla görev sözleşmesi imzalamak suretiyle hizmet sunan işletmeciler bakımından 8 inci maddedeki şartlar aranmaz.

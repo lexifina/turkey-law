@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.11679",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TELEKOMÜNİKASYON KURUMU TARAFINDAN ERİŞİM SAĞLAYICILARA VE YER SAĞLAYICILARA FAALİYET BELGESİ VERİLMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "11679",
+  "issuer": "Telekomünikasyon Kurulu Başkanı",
+  "issuer_slug": "telekomunikasyon-kurulu-baskani",
+  "path": "regulation/telekomunikasyon-kurulu-baskani/2007/11679",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11679&MevzuatTertip=5",
+  "source_sha256": "8cc2caf904548d45af29bb845922f5b9b3541dea948c92f3ffcee6413aac8ddb",
+  "source_bytes": 58009,
+  "published": "2007-10-24",
+  "gazette": "26680",
+  "in_force": "2008-03-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/3/2008\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2008-03-01",
+      "RG-1/3/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-03-01",
+      "1/3/2008",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2450,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11679%20ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
