@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.11999",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SİLAHLI KUVVETLERİ BESLENME BEDELLERİNİN UYGULANMASINA DAİR YÖNETMELİK",
+  "number": "11999",
+  "issuer": "Millî Savunma Bakanı ile İçişleri Bakanı",
+  "issuer_slug": "milli-savunma-bakani-ile-icisleri-bakani",
+  "path": "regulation/milli-savunma-bakani-ile-icisleri-bakani/2008/11999",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11999&MevzuatTertip=5",
+  "source_sha256": "5d2497df0c79570b9e99941425b2a0cedc8eccf37b5f2078fe9861913730c798",
+  "source_bytes": 54651,
+  "published": "2008-03-01",
+  "gazette": "26803",
+  "in_force": "2008-03-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.03.2008); own commencement article: \"Bu Yönetmelik, 15/1/2008 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, 15/1/2008 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1095,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

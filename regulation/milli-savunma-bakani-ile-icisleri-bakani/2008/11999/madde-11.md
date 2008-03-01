@@ -1,0 +1,2 @@
+Toplu beslenmesi uygun görülen birlik personelinin aylıklarından yapılacak kesintilere ilişkin uygulama
+MADDE 11 – (1) Birlik Komutanlığı tarafından askerî personele görev yaptıkları yerlerde yemek yeme ortamının sağlanamaması ve birliğin konumu gereği yerleşim yerlerine uzaklığı veya görevin yapıldığı yer gereğince toplu beslenmesi uygun görülen birlik personeli; günlük yoklamalarda sabah, öğle ve akşam olarak ayrı bir sütunda gösterilir ve bunlar hakkında 9 uncu maddenin beşinci ve altıncı fıkralarında belirtilen esaslara göre kesinti yapılır.

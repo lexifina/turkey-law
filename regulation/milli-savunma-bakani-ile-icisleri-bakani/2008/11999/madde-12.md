@@ -1,0 +1,2 @@
+Yurt dışında görev yapan ve besleme desteğini bünyesinde bulunduran askerî birlik personelinin aylıklardan yapılacak kesintilere ilişkin uygulama
+MADDE 12 – (1) Yurtdışı görev ile ilgili beslemenin başladığı günden, sona ereceği güne kadar geçen süre için, aylık ödemelerinin gerçekleştirildiği birimlerce, yurt dışında görev yapan personelin tayın bedelinden veya yemek yardımından gün ve öğün sayılarına göre 9 uncu maddenin beşinci ve altıncı fıkralarında belirtilen esaslara göre kesinti yapılır.

@@ -1,0 +1,5 @@
+MADDE 10 – (1) Askerî birliklerde gözaltında bulunan veya disiplin cezası nedeniyle birlikten ayrılamayan askerî personel mevcudu, ilgili personel birimi tarafından görev yaptığı birliğin günlük yoklamasında sabah, öğle ve akşam olarak ayrı bir sütunda gösterilir.
+(2) İlgili birlik/kurumun personel birimince; kendi birliğine ait personelin kimlik bilgileri, kazandan beslendikleri gün ve öğünler ile ilgili ayın tahakkuk eden tayın bedeli üzerinden aylıklardan yapılacak kesinti tutarını gösteren çizelge, aylık ödemelerinin gerçekleştirildiği birime her ayın 14 üncü gününü takip eden beş iş günü içerisinde gönderilir.
+(3) Personel biriminden bildirilen kesinti listelerinde yer alan tutarlar, ilgili personelin müteakip aylığından kesilir.
+(4) Sabah, öğle ve akşam yemek yenmesi halinde, günlük tutarın hesaplanmasında aylıklarla birlikte ödenen tayın bedelinin o ayın gün sayısına bölünmesi ile elde edilecek tutar esas alınır.
+(5) Öğün üzerinden yapılacak hesaplamalarda ise, tayın bedelinin, o ayın gün sayısına bölünmesi ile elde edilecek tutarın; sabah için 1/5’i, öğle için 2/5’i ve akşam için 2/5’i esas alınır.
