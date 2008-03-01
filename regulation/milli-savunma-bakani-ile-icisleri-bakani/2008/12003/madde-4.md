@@ -1,0 +1,14 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Ara öğün: Günlük üç öğün yemeğin dışında meyve, çerez, tatlı, ikramlık gibi gerektiğinde soğuk veya sıcak olarak verilen yiyecek ve içecekleri,
+b) Askerî personel: Subay, astsubay, uzman jandarma, uzman erbaş, askerî öğrenci, sivil memur, işçi, erbaş ve erleri,
+c) Güçlendirilmiş yemek bedeli: Normal çalışma koşullarından daha yoğun beden hareketini içeren görev ve eğitimlerin yapılması için gerekli kaloriyi sağlamak amacıyla günlük yemek bedelinin %25 artırılmasıyla elde edilen paranın miktarını,
+ç) Günlük yemek bedeli: En az üç öğün ve gerektiğinde ara öğünleri içeren, yemek çizelgesinin hazırlanmasında ölçüt olarak kullanılan harcamaya esas paranın üst miktarını,
+d) Günlük yemek çizelgesi: Besleneceklere verilecek yemeklerin öğün bazında dağılımını, yemeklerin içeriklerini, kalorisini, parasal değerini ve kullanılacak yiyecek maddelerinin miktarı ve benzeri bilgileri içeren denetime bağlı tüketim belgesini,
+e) Yemek hizmeti alımı: Yemek hazırlama ve dağıtım işinin bir bütünlük içinde yürütülmesi için gerekli olan yiyecek, içecek ve temizlik maddelerinin alınması, taşınması, ambalajlanması, depolanması, muayenesi ile yemeklerde kullanılacak yiyecek maddelerinin ayıklama, yıkama, doğrama, pişirme, uygun ortamlarda koruma, yemekhane ve masalarını sunuma hazırlama, yemekleri dağıtma, bulaşık yıkama, kullanım yerleri ve araç gereçlerinin bakımı, temizliği ve atıkların toplanması gibi işlerin yüklenici tarafından yapıldığı ve bu işlere ait giderlerin yüklenici tarafından karşılandığı alımları,
+f) Kazandan besleme: Yükümlülük ve/veya zorunluluktan dolayı toplu olarak sıcak veya kumanya şeklinde bütün giderleri devlet tarafından karşılanan beslemeyi,
+g) Türk Silahlı Kuvvetleri: Genelkurmay Başkanlığı, Kara, Deniz ve Hava Kuvvetleri Komutanlıkları ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığını,
+ğ) Yemek dağıtım hizmeti: Yemeklerin uygun ortam ve sağlıklı koşullarda, kişilere veya masalara dağıtımının yapılması ve artan yemeklerin denetim altında yemek yiyen personelden isteyenlere tekrar dağıtılması gibi hizmetleri,
+h) Yemek öncesi hizmet: Yemeklerde kullanılan yiyeceklerin ve içeceklerin alınması, muayeneye sunulması ve muayenesinin yapılması, masa üstü yiyecek ve malzemelerin masalara konulması, yemek ve yiyeceklerin hazırlanması, pişirilmesi, uygun ısıda bekletilmesi, dağıtıma hazır yemek ve yiyeceklerin yemekhanelere verilmeden önce fiziksel ve duyusal kontrollerinin yapılması ve yemeklerin ana yemekhanelere ve diğer yemek yeme yerlerine taşınması gibi hizmetleri,
+ı) Yemek sonrası hizmet: Yemeklerin tüketilmesinden sonra yemekhane, yemek masaları ve masa üstü servis malzemelerinin temizlenmesi ile bir sonraki servise hazır edilmesi, bulaşıkların toplanması ve yıkanması, oluşan yemek artıkları ve çöplerin idare tarafından belirlenen yerlere uygun koşullarda taşınması ve benzeri hizmetleri,
+ifade eder.
