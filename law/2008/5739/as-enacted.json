@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5739",
+  "year": 2008,
+  "title": "Çeşitli Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-03-01",
+  "gazette_issue": "26803",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080301-1.htm",
+  "source_sha256": "3d27c2637ebd677f2d8ea06cd6222c38666f3e7ba7be9b5cfe73c1924b0cac1d",
+  "text_sha256": "c6ef8f0486cbc1ed1b53feae58ac9cdcb1272211a1c7dea7e6758d190f3a70b1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/03/01/26803-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080301-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
