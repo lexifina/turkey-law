@@ -17,7 +17,7 @@ c) Adlî para cezası ile ilgili olarak;
 4. Adlî para cezasının tazyik hapsinden sonra kalan kısmının ödenmek suretiyle infaz edildiği hususu,
 d) Kısa süreli hapis cezasına seçenek yaptırıma mahkûmiyet halinde;
 1. Kısa süreli hapis cezasına seçenek yaptırım olarak, adlî para cezasına mahkûmiyet veya güvenlik tedbiri uygulanması hükmü,
-2. Kısa süreli hapis cezasına seçenek yaptırım olarak hükmedilen adlî para cezasının veya güvenlik tedbirinin gereklerinin yerine getirilmemesi dolayısıyla hapis cezasının infazına ilişkin karar,
+2. (Değişik: 26/2/2008-5352/ 7 md.) Kısa süreli hapis cezasına seçenek yaptırım olarak hükmedilen güvenlik tedbirinin gereklerinin yerine getirilmemesi dolayısıyla hapis cezasının infazına ilişkin karar,
 3. Kısa süreli hapis cezasına seçenek yaptırım olarak hükmedilen güvenlik tedbirinin değiştirilmesine ilişkin karar,
 e) Belli hakları kullanmaktan yoksun bırakılma ile ilgili olarak;
 1. Kasten işlenen bir suç nedeniyle hapis cezasına mahkûmiyetin kanunî sonucu olarak yoksun kalınan haklara cezanın ertelenmesi dolayısıyla getirilen istisnaya ilişkin karar,
