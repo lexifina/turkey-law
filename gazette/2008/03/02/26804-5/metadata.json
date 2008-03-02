@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-03-02",
+  "issue": "26804",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Özel Teknelerin Donatımı, Kaydı ve Belgelendirilmesi ile Özel Tekneleri Kullanacak Kişilerin Yeterlikleri Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080302-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080302.htm",
+  "index_sha256": "03a59a56581ffd59f6e280c679f5fe00c8bdcfea2e15c6fa9e04f0d1d3c73576",
+  "index_header": "2 Mart 2008 ... 26804 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
