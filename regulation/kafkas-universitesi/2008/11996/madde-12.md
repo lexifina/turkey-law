@@ -1,0 +1,3 @@
+Merkez danışma kurulu ve görevleri
+MADDE 12 – (1) Merkez Danışma Kurulu; Merkezin faaliyetleri hakkında istişari nitelikte görüş ve önerilerde bulunan danışma organıdır. Merkezin çalışmaları ile ilgili kamu ve özel kuruluşların temsilcilerden oluşan ve Merkez Müdürü tarafından önerilen, Rektör tarafından üç yıl için görevlendirilen üç kişiden oluşur. Süresi dolmadan görevlerinden ayrılan üyelerin yerine kalan süreyi doldurmak için aynı yöntemle yenileri görevlendirilir. Süresi biten üye tekrar görevlendirilebilir.
+(2) Merkez Danışma Kuruluna Merkez Müdürü başkanlık eder. Merkez Danışma Kurulu yılda en az bir kez Merkez Müdürünün çağrısı ile toplanır.
