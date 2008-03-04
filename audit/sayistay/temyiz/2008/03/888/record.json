@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29974",
+  "decision_date": "2008-03-04",
+  "source_id": 888,
+  "chamber": "7",
+  "file_number": "28935",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/888/",
+  "source_sha256": "4d2c319c69f3018cb52b3f037cc2fca50ce06a3277336b708a11163e7ff169f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
