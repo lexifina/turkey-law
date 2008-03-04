@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29980",
+  "decision_date": "2008-03-04",
+  "source_id": 894,
+  "chamber": "7",
+  "file_number": "28954",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/894/",
+  "source_sha256": "7252683b924f7956a2c148023050e5cbe0b2c2cc07b408b6294e094712b39b9b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
