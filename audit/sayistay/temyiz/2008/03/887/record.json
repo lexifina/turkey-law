@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29973",
+  "decision_date": "2008-03-04",
+  "source_id": 887,
+  "chamber": "7",
+  "file_number": "29489",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/887/",
+  "source_sha256": "a17bb45fa09b11df4a1fdfb77e002a6cc301895531cdd2eb05b861426ea1aa43",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
