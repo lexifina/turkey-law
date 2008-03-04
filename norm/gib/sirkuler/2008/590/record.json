@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-67/2008-02/Yıllık Gelir Vergisi Beyannamesi",
+  "source_id": 590,
+  "date": "2008-03-04",
+  "title": "Gelir Vergisi Kanunu'nun 42 nci Maddesi Kapsamında Yıllara Sari İnşaat Ve Onarım İşi Yapan Mükelleflerin Yıllık Gelir Vergisi Beyannamesinin Verilme Süresinin Uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/590",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "64182c252758133091f0cdb89ee18e6ceb2426562c04b5da7faec5fe76c3ee42",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
