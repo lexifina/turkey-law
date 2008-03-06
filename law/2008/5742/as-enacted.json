@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5742",
+  "year": 2008,
+  "title": "İstiklal Madalyası Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-03-06",
+  "gazette_issue": "26808",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080306-3.htm",
+  "source_sha256": "dc2302cb61a5eaae822b8a92a2031f7abd3f74752d871a5098ee4e16e8e414e5",
+  "text_sha256": "0644c9dfdaa8f6523131da0916e0bb96478806e2ec69cdfa1ba39d7239a8ce1f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/03/06/26808-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080306-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
