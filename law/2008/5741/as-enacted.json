@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5741",
+  "year": 2008,
+  "title": "Er ve Erbaş Harçlıkları Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-03-06",
+  "gazette_issue": "26808",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080306-2.htm",
+  "source_sha256": "d556fc67bdef1d019074bec398925895f554369e71db32aef4947f0e3541baae",
+  "text_sha256": "bcfc1acd864ba5c535eb48e3adee11709150883953c372edcfe4715bd20de3de",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/03/06/26808-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080306-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
