@@ -1,0 +1,54 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2008/10",
+  "date": "2008-03-07",
+  "title": "SPK Haftalık Bülteni 2008/10",
+  "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_10.pdf",
+  "source_sha256": "095a54f5fe009bf30a3ac729ab61266eff163fc6418100a745b6911b1e749726",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. YENİ FAALİYET İZİNLERİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 02.01.2008 – 07.03.2008 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_10.pdf"
+    },
+    {
+      "heading": "B. 03.03.2008 – 07.03.2008 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_10.pdf"
+    },
+    {
+      "heading": "C. 03.03.2008 – 07.03.2008 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_10.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_10.pdf"
+    },
+    {
+      "heading": "F. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_10.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
