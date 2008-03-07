@@ -1,0 +1,2 @@
+Bilgi verilmemesi veya hatalı bilgi verilmesi
+MADDE 10 – (1) Yönetmeliğin 4 üncü maddesi uyarınca, soruşturmanın herhangi bir aşamasında Genel Müdürlükçe istenen bilgilerin öngörülen süre içinde temin edilememesi ya da soruşturmanın engellendiğinin anlaşılması halinde soruşturma mevcut veriler üzerinden sonuçlandırılır. Genel Müdürlükçe, sağlanan bilgilerin yanlış olduğu tesbit edildiği taktirde bu bilgiler dikkate alınmaz.
