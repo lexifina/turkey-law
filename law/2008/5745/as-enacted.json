@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5745",
+  "year": 2008,
+  "title": "375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-03-07",
+  "gazette_issue": "26809",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080307-2.htm",
+  "source_sha256": "00aaf5f00f2b3a0583242e1cd9c2647f5194f1dc9593a653ef5b712244e74642",
+  "text_sha256": "020ea1a016f9c55b2fea4822df31f6112b78274e0a42669209dac794f65cec4b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/03/07/26809-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080307-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
