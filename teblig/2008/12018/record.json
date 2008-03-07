@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12018",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2008/2)",
+  "number": "12018",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2008/12018",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12018&MevzuatTertip=5",
+  "source_sha256": "8823331340b0d5b4b23e7563f7f3eb758e8b26b8649442247e389eea32640fff",
+  "source_bytes": 183068,
+  "published": "2008-03-07",
+  "gazette": "26809",
+  "in_force": "2008-03-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.03.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2073,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
