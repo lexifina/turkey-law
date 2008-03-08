@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2008/120",
+  "list_number": "120",
+  "decision_date": "2008-03-08",
+  "title": "YSK ilke kararı 2008/120",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3204/120.htm",
+  "source_sha256": "31add8bfebdb2c00b4e834eb575c653e5e26f0468b1a9d27d9214cf5996642f6",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2008-03-08",
+  "law_text_complete": false
+}
