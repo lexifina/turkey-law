@@ -1,0 +1,24 @@
+{
+  "number": "123",
+  "number_as_published": "Karar No : 123",
+  "year": 2008,
+  "title": "Melikgazi İlçesi, Osman Kavuncu Mah. Demirciyazısı mev.NİP değişikliği talebi.",
+  "decision_date": "2008-03-10",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/10-mart-2008-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "69a87d48a100b22fa732b777e6b6de02777ceed331b5088fc7a0cec90c295d50",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2008-03-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.03.2008 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "10 Mart 2008 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=19",
+  "subject_published": true
+}
