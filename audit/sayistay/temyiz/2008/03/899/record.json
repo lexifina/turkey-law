@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29990",
+  "decision_date": "2008-03-11",
+  "source_id": 899,
+  "chamber": "1",
+  "file_number": "29596",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/899/",
+  "source_sha256": "ba289aae2f9f28c5c8cf30a1e07ea1e93fa70a4dda39660aa39674afac067e18",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
