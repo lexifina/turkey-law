@@ -1,0 +1,13 @@
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü:
+
+2180 sayılı ilamın 3 üncü maddesinde,  Encümen kararı ve fatura olmaksızın veya fatura fotokopisi veya tutanağa istinaden temsil ağırlama ve tören gideri olarak ödenen 393.450.000  liranın tazminine hükmolunmuştur.
+
+Dilekçi dilekçesinde özetle, Belediye Bütçesinden Yapılacak Temsil Ağırlama ve Tören Giderleri Yönergesinin 3. maddesinde, bu giderlerin konu, kapsam ve miktarının tayininin Belediye Başkanının takdirine tabi olduğunu, harcamalar yapılırken ita amiri onayı ve 20.02.1997 tarih ve 118 sayılı Encümen Kararına dayandırıldığını, bu tertip için bütçe ile ayrılan ödeneğin dışına çıkılmadığını, ayrıca yemeğin Belediye bünyesinde Belediye personeline hizmet veren kar amacı söz konusu olmayan Belediye yemekhanesinde verildiğini, fatura veya fatura yerine geçecek belge kullanılmadığını, yemek bedelinin Belediye yemekhanesinin Vakıflar Bankası Erzurum Şubesinde bulunan 2015928 nolu hesaba yatırıldığı ve buradan sadece yemeklik malzeme için harcama yapıldığını, belgelerin olmayışının temsil ağırlamanın yapılmadığı anlamına gelmeyeceğini beyan ederek verilen tazmin hükmünün kaldırılmasını talep etmiştir.
+
+832 sayılı Sayıştay Kanununun saymanın beraatine yeterli belgeler başlıklı 58. maddesinin üçüncü fıkrasında …” Bu belgeler gönderilmediği takdirde bunların postaya verildiği sırada yapılan tutanakların veya kaybolan evrakın resmi kayıtlardan alınacak onanmış örnekleri dahi beraat için muteber sayılır. Ancak bu evrak ve suretler konunun, nizam ve kararlara uygun değilse saymanın bu Kanuna göre olan sorumluluğu devam eder.”
+
+Belge ibraz edilmemesi başlıklı 59. maddesinde “Zaruri sebeplerle asılları veya ikinci nüshaları ibraz veya tevdi edilemeyen hallerde, hizmetin yapıldığını ve karşılığının hak sahibine verildiğini gösteren evraka, belgeye ve mevcut kayıt ve delillere göre savcının düşüncesi alındıktan sonra sorumluların beraat veya zimmetine hükmedilir.”hükümleri yer almaktadır.
+
+Devlet Harcama Belgeleri Yönetmeliğinin 4. maddesinde, ödeme belgelerine fatura asıllarının bağlanması hükmedilmekte ise de, bunların bulunmadığı hallerde Sayıştay Kanununun amir hükümlerinde hizmetin yapıldığını ve karşılığının hak sahibine verildiğini gösteren evrakın saymanın beraati için yeterli sayılması gerektiği belirtildiğinden,  ayrıca mükerrer ödeme yapıldığına  dair bir tespit de bulunmadığından, dilekçi talebinin kabulü ile 2180 sayılı ilamın 3 üncü maddesiyle verilen tazmin hükmünün KALDIRILMASINA,
+
+Karar verildiği 11.03.2008 tarih ve 30002 sayılı tutanakta yazılı olmakla iş bu ilâm tanzim kılındı.
