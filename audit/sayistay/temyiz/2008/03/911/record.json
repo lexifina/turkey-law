@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30005",
+  "decision_date": "2008-03-11",
+  "source_id": 911,
+  "chamber": "2",
+  "file_number": "29550",
+  "account_year": "1997",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/911/",
+  "source_sha256": "2073b548a5e5f2c9b728d15282da09256d063b56edf9fe62e27bdb9442e191d9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
