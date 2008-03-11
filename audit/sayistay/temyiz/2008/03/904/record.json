@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "29998",
+  "decision_date": "2008-03-11",
+  "source_id": 904,
+  "chamber": "2",
+  "file_number": "29230",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/904/",
+  "source_sha256": "1b30bb80cee6f9ed8b3e87225a380b0726165eea7eede60d36713bbb5200b749",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
