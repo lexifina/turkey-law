@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "912",
+  "year": 2008,
+  "title": "Zeytin ve Zeytinyağı ile Diğer Bitkisel Yağların Üretiminde ve Ticaretinde Yaşanan Sorunların Araştırılarak Alınması Gereken Önlemlerin Belirlenmesi Amacıyla Kurulan Meclis Araştırması Komisyonuna Üye Seçimine İlişkin Karar",
+  "adopted": "2008-03-11",
+  "adopted_as_published": "11/03/2008",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.03.2008 No: 26831",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc092/karartbmmc092/karartbmmc09200912.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 92",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 708763,
+      "title": "Zeytin ve Zeytinyağı ile Diğer Bitkisel Yağların Üretiminde ve Ticaretinde Yaşanan Sorunların Araştırılarak Alınması Gereken Önlemlerin Belirlenmesi Amacıyla Kurulan Meclis Araştırması Komisyonuna Üye Seçimine İlişkin Karar",
+      "adopted_as_published": "11/03/2008",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc092/karartbmmc092/karartbmmc09200912.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 16,
+          "sitting": 75,
+          "sitting_date": "2008-03-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c016/tbmm23016075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c016/tbmm23016fih.pdf",
+          "pages": [
+            "189"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "5d7ba90f66d2063a7d6d959963ada65ff4cb4d9e34b5bcd586e482bbed6dbbd6"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5d7ba90f66d2063a7d6d959963ada65ff4cb4d9e34b5bcd586e482bbed6dbbd6",
+  "issuer": "TBMM",
+  "in_force": "2008-03-11",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 11/03/2008; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
