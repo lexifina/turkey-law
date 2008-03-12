@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1525",
+  "decision_date": "2008-03-12",
+  "title": "4646 sayılı Doğal Gaz Piyasası Kanununun 11 inci maddesi ile Doğal Gaz Piyasası Tarifeler Yönetmeliğinin 14 üncü maddesi ve geçici 2 inci maddeleri uyarınca Adapazarı Gaz Dağıtım A.Ş. tarafından uygulanacak perakende satış tarifesi ile ilgili Karar",
+  "resmi_gazete_date": "2008-03-21",
+  "resmi_gazete_number": "26823",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HFERobd5psg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HFERobd5psg="
+  ],
+  "source_sha256": "433a7ad69ed34e0d6a2e34a9eb1050020cb8e9056f98695ae3a018ac8c99c1aa",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-03-12",
+  "law_text_complete": false
+}
