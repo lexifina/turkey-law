@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1527",
+  "decision_date": "2008-03-12",
+  "title": "4646 sayılı Doğal Gaz Piyasası Kanununun 11 inci maddesi ile Doğal Gaz Piyasası Tarifeler Yönetmeliğinin 14 üncü maddesi ve geçici 2 inci maddeleri uyarınca Bursa Şehir içi Doğalgaz Dağıtım Ticaret ve Taahhüt A. Ş. tarafından uygulanacak perakende satış tarifesi ile ilgili Karar",
+  "resmi_gazete_date": "2008-03-21",
+  "resmi_gazete_number": "26823",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cmQjOtjPxn4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cmQjOtjPxn4="
+  ],
+  "source_sha256": "19d63dbeb275b496dc4731370831aa59ab3635a7ac24569fe8a0bc3749b4d4f0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-03-12",
+  "law_text_complete": false
+}
