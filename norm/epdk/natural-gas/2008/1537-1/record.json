@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1537/1",
+  "decision_date": "2008-03-13",
+  "title": "EGO (Başkent Doğal Gaz Dağ.A.Ş.) K katsayısı uygulaması hakkında alınan kurul kararı",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Sm6/Mgi4Hhc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Sm6/Mgi4Hhc="
+  ],
+  "source_sha256": "d97482a013a63615364165a49acc3c92eb345a2893778c9adc906aca501c5ab2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-03-13",
+  "law_text_complete": false
+}
