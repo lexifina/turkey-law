@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.12033",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SAYI: 318)",
+  "number": "12033",
+  "path": "teblig/2008/12033",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12033&MevzuatTertip=5",
+  "source_sha256": "9c57a5172a71ece3e8f32b8beffff51d9ebcdd64bae788e713af1f2114bd3668",
+  "source_bytes": 99041,
+  "published": "2008-03-15",
+  "gazette": "26817",
+  "in_force": "2008-03-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.03.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2943,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
