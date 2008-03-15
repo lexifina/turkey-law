@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-03-15",
+  "issue": "26817",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Elektrik Dağıtım A.Ş.Genel Müdürlüğü (TEDAŞ) İhtiyaç Fazlası ve İhtiyaç Dışı Malzemeler Değerlendirme ve Satış Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080315-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080315.htm",
+  "index_sha256": "23ebebbedcad63c94d92f28076e7732768c4ad3c5c9edac637b24e19a82d55a0",
+  "index_header": "15 Mart 2008 ... 26817 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
