@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12037",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DIŞ TİCARETTE STANDARDİZASYON TEBLİĞİ TEBLİĞ NO: (2008/31)",
+  "number": "12037",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2008/12037",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12037&MevzuatTertip=5",
+  "source_sha256": "46352480d9988fc23139ccdcb515d00046c7699045572f732a6d13e1a9df5f54",
+  "source_bytes": 6444,
+  "published": "2008-03-15",
+  "gazette": "26817",
+  "in_force": "2008-03-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.03.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 137,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
