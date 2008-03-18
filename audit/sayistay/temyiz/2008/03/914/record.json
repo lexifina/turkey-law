@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30010",
+  "decision_date": "2008-03-18",
+  "source_id": 914,
+  "chamber": "1",
+  "file_number": "29296",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/914/",
+  "source_sha256": "636829528e6c86ae0fd625499c69bd0a5c10c36663aaf2a3644a100f4aef63f6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
