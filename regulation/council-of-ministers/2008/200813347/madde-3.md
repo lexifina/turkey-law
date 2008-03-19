@@ -1,0 +1,27 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Aktif elektrik enerjisi: Aktif gücün zamanla çarpımından elde edilen ve kWh (kilovatsaat) birimi ile ölçülen enerjiyi,
+b) Aktif elektrik enerjisi birim satış fiyatı: Sözleşme kapsamında TETAŞ tarafından satın alınacak her bir kWh enerjinin fiyatını,
+c) Bağlantı ve sistem kullanım anlaşmaları: İlgili bağlantı ve sistem kullanım tarifesinin fiyatları, hükümleri ve şartlarını içeren ve bir üretim şirketi, otoprodüktör, otoprodüktör grubu, dağıtım şirketi ya da tüketicilerin iletim sistemine ya da bir dağıtım sistemine erişmeleri ya da bağlantı yapmaları için ilgili kullanıcıya özgü koşul ve hükümleri kapsayan anlaşmaları,
+ç) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+d) EPDK: Enerji Piyasası Düzenleme Kurumunu,
+e) İÇH: İşletmeden çıkarma hesaplarını,
+f) Kanun: 9/11/2007 tarihli ve 5710 sayılı Nükleer Güç Santrallarının Kurulması ve İşletilmesi ile Enerji Satışına İlişkin Kanunu,
+g) Komisyon: Teklif açma ve değerlendirme için TETAŞ bünyesinde oluşturulan komisyonu,
+ğ) Net bugünkü değer: Gelecekte oluşacak nakit akışlarının ve/veya üretim miktarlarının, belirlenmiş bir indirgeme oranı kullanılarak bugünkü değere çekilmiş değerini,
+h) Santral: Elektrik enerjisi üretilen nükleer güç santrallarını,
+ı) Satın alma miktarı: Şirket tarafından yıllara sâri olarak teklif edilecek ve sözleşme kapsamında TETAŞ tarafından satın alınacak elektrik enerjisi miktarını,
+i) Sözleşme: TETAŞ ile şirket arasında imzalanacak anlaşmayı,
+j) Şartname: Kanun ve bu Yönetmelik kapsamında enerji alımına ilişkin yapılacak yarışmanın usul ve esaslarını gösteren ve Yönetim Kurulunca onaylanmış belgeleri,
+k) Şirket: Santral kuran, elektrik enerjisi üreten ve ürettiği elektriği satan şirket veya şirketleri,
+l) TAEK: Türkiye Atom Enerjisi Kurumunu,
+m) TAEK ölçütleri: Türkiye Atom Enerjisi Kurumu tarafından ilan edilmiş olan ölçütleri,
+n) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketini,
+o) Teklif: Bu Yönetmelikte tanımlanan yarışmaya katılmak üzere şartnameye göre hazırlanan tüm dokümanları,
+ö) TETAŞ: Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketini,
+p) URAH: Ulusal radyoaktif atık hesabını,
+r) Yarışma: Santral kuracak ve işletecek şirketin belirlenmesi için Kanunun 3 üncü maddesinin beşinci fıkrasında belirtilen süreci,
+s) Yıllık üretim miktarı: Şirket tarafından yıllara sâri olarak teklifinde kWh cinsinden verilen ve şirket tarafından garanti edilen yıllık net üretim miktarını,
+ş) Yönetim Kurulu: TETAŞ Yönetim Kurulunu,
+ifade eder.
+(2) Bu maddenin birinci fıkrasında tanımlananlar dışında kalan terimler, Kanun ile 4628 sayılı Elektrik Piyasası Kanunu ve bu Kanuna dayanılarak yayımlanan ikincil mevzuat kapsamında tanımlanan anlamlara sahiptir.

@@ -1,0 +1,7 @@
+Yarışma süreci ile ilgili usul ve esaslar
+MADDE 11- (1) Yarışma kapalı teklif usulü ile yapılır. Yarışma, 4734 sayılı Kamu İhale Kanununa tabi değildir.
+(2) Yarışma süreci TETAŞ tarafından Resmi Gazetede ve TETAŞ’ın resmi internet sitesinde yapılan ilan ile başlar. Yarışma sürecine ilişkin işlemler ve süreler ilanda ve/veya şartnamede belirtilir. Teklif alma için belirlenecek süre ilandan sonra üç aydan az olamaz.
+(3) Şartnameyi satın alan tüzel kişiler tarafından açıklanması talep edilen hususlar, şartnamede belirlenen süre içerisinde yazılı olarak TETAŞ’a bildirilebilir. Bu hususların ne şekilde açıklanacağı şartnamede belirtilir.
+(4) İlan yapıldıktan sonra, tekliflerin hazırlanmasını veya işin gerçekleştirilmesini etkileyebilecek maddi veya teknik hatalar veya eksikliklerin idarece tespit edilmesi veya isteklilerce yazılı olarak bildirilmesi halinde, yarışma dokümanında değişiklik yapılabilir. Yapılan bu değişiklik, son teklif verme gününden en az on gün öncesinde bilgi sahibi olmalarını temin edecek şekilde şartname alanların tamamına gönderilir. Yapılan değişiklik nedeniyle tekliflerin hazırlanabilmesi için ek süreye ihtiyaç duyulması halinde yarışma tarihi ertelenebilir.
+(5) Geçici teminat tutarı otuz milyon YTL’den az olmamak üzere ilan ve şartnamede belirtilir. Geçici teminat içermeyen teklifler açılmaz ve değerlendirmeye alınmaz.
+(6) Kesin teminat tutarı ikiyüz milyon YTL olup taahhüdün sözleşme ve yarışma dokümanları hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla şartnamede belirtilir.

@@ -1,0 +1,4 @@
+Tekliflerin alınması ve açılması
+MADDE 16- (1) Teklifler ilanda belirtilen yarışma tarih ve saatine kadar TETAŞ’a verilir. İlanda belirtilen tarih ve saatte kaç teklif verilmiş olduğu komisyon tarafından bir tutanakla tespit edilerek, hazır bulunanlara duyurulur ve 1 inci zarflar teklif verenler ile birlikte hazır bulunanlar önünde açılır.
+(2) Öncelikle teklif sahipleri tarafından 1 inci zarflar içerisinde tevdi edilen belgelerin şartnamede belirtilen kriterlere uygun olup olmadığı kontrol edilir. Bu belgeleri uygun olmayan teklifler değerlendirme dışı bırakılarak, teklif dokümanları iade edilir.
+(3) Değerlendirmeye alınan tekliflerin 2 nci zarfları içerisindeki dokümanları ve ilgili ekleri açılmadan, hazır bulunanların önünde komisyon tarafından bir tutanak ile TAEK yetkililerine teslim edilir. 3 üncü zarflar ise TETAŞ tarafından açılmadan muhafaza edilir.

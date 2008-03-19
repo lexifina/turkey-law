@@ -1,0 +1,7 @@
+Tekliflerin değerlendirilmesi
+MADDE 17- (1) Alınan tekliflerden TAEK yetkililerine teslim edilen 2 nci zarflar ve ekleri içerisinde yer alan bilgi ve belgeler TAEK tarafından TAEK ölçütleri kapsamında değerlendirilir.
+(2) TAEK, ölçütlere uygunluk ile ilgili bilgi eksikliği veya anlaşılmayan bir husus olduğunda, teklif sahiplerinden eksikliklerin giderilmesini veya anlaşılamayan hususlarla ilgili açıklamaların yapılmasını isteyebilir. Ancak bu açıklama, hiçbir şekilde teklif fiyatında değişiklik yapılması veya şartnameye uygun olmayan tekliflerin uygun hale getirilmesi amacıyla istenilmez ve yapılmaz.
+(3) TAEK tarafından yapılan değerlendirme sonucunda alınan tekliflerden TAEK ölçütlerini karşılayan teklifler belirlenir ve bu tekliflere ilişkin “TAEK Ölçütleri Uygunluk Belgesi” hazırlanarak TETAŞ’a gönderilir.
+(4) TAEK ölçütlerini karşılayan herhangi bir teklif olmadığının TAEK tarafından TETAŞ’a bildirilmesi halinde, durum TETAŞ tarafından teklif sahiplerine ve kamuoyuna açıklanır ve yarışma iptal edilir.
+(5) TAEK ölçütlerini karşılayan tekliflerin TAEK tarafından TETAŞ’a bildirilmesini müteakip,
+Komisyon tarafından açılmadan muhafaza edilen 3 üncü zarflar, belirlenerek teklif sahiplerine duyurulacak tarih ve saatte teklif sahipleri ve hazır bulunanlar önünde açılır ve yıllara sâri üretim miktarları ile aktif elektrik enerjisi birim satış fiyatları açıklanır. TAEK ölçütlerini karşılamayan tekliflerin 3 üncü zarfları açılmadan iade edilir. Bu işlemlere ilişkin hazırlanan tutanak komisyon tarafından imzalanır.
