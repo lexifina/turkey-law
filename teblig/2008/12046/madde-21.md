@@ -1,0 +1,2 @@
+Üçüncü ülkelerden ithalat
+MADDE 21-(1) 2002–2005 yılları arasında soruşturma konusu üründe üçüncü ülkelerden gerçekleştirilen ithalat incelendiğinde tüm ülkelerin toplam ithalat içindeki paylarının devamlı düştüğü ve 2005 yılına gelindiğinde bu payın %3,60 seviyesinde olduğu görülmektedir. Bununla birlikte üçüncü ülkelerden gerçekleştirilen ithalatın seyrinin mevcut önlemin yürürlükten kalkması dampingin devam edeceği veya tekrarlanabileceği tespitini ortadan kaldıracak bir niteliği tespit edilememiştir.

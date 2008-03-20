@@ -1,0 +1,2 @@
+Soruşturma konusu ülkelerden ithalat
+MADDE 20-(1) 2002–2005 döneminde miktar itibariyle %71 oranında artan soruşturma konusu ülkeler menşeli ithalatın dünya demir-çelik talep artışında ciddi bir bozulma olmaması durumunda gelecek dönemde de artış kaydetmesinin muhtemel olduğu düşünülmekle beraber bu artışın dahilde işleme rejimiyle gerçekleştirilen ithalat kapsamında ortaya çıkması beklenmektedir. Bu çerçevede 2006 ve 2007 yılı verileri bu öngörünün gerçekleştiğini göstermektedir.

@@ -1,0 +1,3 @@
+Önlem konusu ithalatın pazar payı
+MADDE 13- (1) Soruşturma konusu maddenin yurtiçi tüketimi, şikayetçi ve şikayeti destekleyen firmaların yurtiçi satışları ile soruşturma konusu ürünün genel ithalatının toplanması suretiyle hesaplanmıştır.
+(2) Bu çerçevede hesaplanan toplam tüketim endeksi, 2002 yılında 100 iken 2002–2005 yılları arasında sürekli artarak 2005 yılında 153 düzeyine ulaşmıştır. Soruşturma konusu ülkeler menşeli kütüklerin Türkiye tüketimi içindeki payı ise 2002 yılında 100 iken 2003 yılında 120’ye çıkmış, 2004 yılında 78’e geriledikten sonra 2005 yılında 116 seviyesine yükselmiştir.

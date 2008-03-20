@@ -1,0 +1,3 @@
+DÖRDÜNCÜ KISIM
+Zararın Devamı veya Yeniden Meydana Gelmesi İhtimali
+MADDE 10- (1) Önlemin yürürlükte olduğu dönemde, yerli üretim dalının ekonomik göstergeleri ve önlemin yürürlükten kalkması halinde zararın devam edip etmeyeceği veya tekrarlanıp tekrarlanmayacağı incelenmiştir. Bu çerçevede, ithalatın miktarı ve muhtemel gelişimi, yerli üretimin fiyatlarının ve ekonomik göstergelerinin gelişimi değerlendirilmiş ve muhtemel fiyat baskısı ve fiyat kırılması hesaplanmıştır. Gelecek döneme ilişkin öngörülerin daha sağlıklı bir biçimde ortaya konulabilmesi için 2006 ve 2007 yıllarına ilişkin veriler de incelenmiştir.
