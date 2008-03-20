@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-03-20",
+  "issue": "26822",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2008/13357 Türkiye Cumhuriyeti Hükümeti ile Kazakistan Cumhuriyeti Hükümeti Arasında İmzalanan “Uzun Vadeli Ekonomik İşbirliği Programı”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080320-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080320.htm",
+  "index_sha256": "c926fd18e6cf7d78efa1e4e527f64678073f755813ed996c424f6309630d21d7",
+  "index_header": "20 Mart 2008 ... 26822 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
