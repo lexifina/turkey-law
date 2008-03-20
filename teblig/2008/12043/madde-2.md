@@ -1,0 +1,5 @@
+Başvuru konusu madde
+MADDE 2 – (1) Başvuru konusu madde, 4011.40 ve 4013.90.00.00.11 gümrük tarife pozisyonlarında yer alan "motosiklet iç ve dış lastikleri"dir.
+(2) Motosiklet dış lastiği, sentetik kauçuk, doğal kauçuk, dolgu, yağ ve kimyasal karışımdan oluşan hamura sırt lastiği çekimi (extrusion), topuk teli imali, beze kauçuk kaplama ve eğik kesme ile yanak bezi hazırlama işlemleri ve müteakiben iç ve dış boyama ile pişirme uygulanarak; motosiklet iç lastiği ise, butil kauçuk, doğal kauçuk, dolgu, yağ ve kimyasal karışımdan oluşan hamura sırasıyla süzme, lastik çekim, boya, kesme, sibop çakma, ekleme uçların ek yersiz birleştirilmesi, pişim, şişirme, aksesuar takımı ve vakum işlemleri uygulanarak imal edilmektedir.
+(3) Ürün farklı ebatlarda, tiplerde, renklerde ve desenlerde olabilmektedir. Ebatlar jant çapı ve tekerlek genişliğine göre çeşitlenmektedir. İç ve dış lastikler ayrı satılabildiği gibi takım olarak da satılabilmektedir.
+(4) Bahse konu gümrük tarife pozisyonları, yalnızca bilgi amaçlı verilmiş olup, bağlayıcı değildir.

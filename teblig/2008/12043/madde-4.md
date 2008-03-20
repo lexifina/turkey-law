@@ -1,0 +1,6 @@
+Damping iddiası
+MADDE 4 – (1) Endonezya ve Malezya için normal değerin tespitinde, söz konusu ülkelerde tüketime konu olan benzer mal için normal ticari işlemler sonucunda fiilen ödenmiş veya ödenmesi gereken karşılaştırılabilir iç piyasa satış fiyatları temin edilemediğinden, anılan ülkeler için normal değer oluşturulmuş normal değer yöntemi ile tespit edilmiştir.
+(2) Oluşturulmuş değer hesabında, motosiklet iç ve dış lastiklerinde en çok ticarete konu 2 ürün tipine ilişkin firma maliyetlerinde gerekli görülen bazı ayarlamalar yapılarak bulunan değerler kullanılmıştır. Bu şekilde hesaplanan normal değer fabrika çıkış aşamasında kabul edilmiştir.
+(3) İhraç fiyatı hesaplanırken şikâyet konusu ürünün ilgili ülkelerden Türkiye’ye gerçekleştirilen ithalatına ilişkin resmi istatistik verilerinden elde edilen ortalama birim fiyat esas alınmıştır.
+(4) Normal değer ile ihraç fiyatının aynı ticari aşamada karşılaştırılmasını teminen FOB ihraç fiyatı ihracatçıların lehine olmak üzere, fabrika çıkış aşaması fiyat olarak kabul edilmiştir.
+(5) Normal değer ile Türkiye’ye ihraç fiyatının mümkün olduğu ölçüde aynı ticari aşamada (fabrika çıkış aşaması) karşılaştırılması yoluyla hesaplanan damping marjının şikayete konu ülkeler için önemli oranlarda olduğu görülmüştür.
