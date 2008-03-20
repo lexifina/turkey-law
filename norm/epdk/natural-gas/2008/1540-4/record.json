@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1540/4",
+  "decision_date": "2008-03-20",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 20/3/2008 tarihli toplantısında, 30/12/2007 tarihli ve 26742 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 27/12/2007 tarihli ve 1437 sayılı Kurul Kararı’nın 1 inci maddesinin (a) bendinde yer alan iletim kapasite bedelleri tablosuna Giriş 9 tanımının eklenmesi hakkında Kurul Kararı",
+  "resmi_gazete_date": "2008-03-26",
+  "resmi_gazete_number": "26828",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WgxXMd/b+80=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WgxXMd/b+80="
+  ],
+  "source_sha256": "cfca0049fc8117709f4cf85bea9da68851c327a7c95937059d46a067412c72f3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-03-20",
+  "law_text_complete": false
+}
