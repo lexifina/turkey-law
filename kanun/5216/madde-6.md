@@ -1,5 +1,7 @@
 Büyükşehir belediyesine katılma
 MADDE 6.- Büyükşehir belediyesinin sınırları çevresinde ve aynı il sınırları içinde bulunan belediye ve köylerin, büyükşehir belediyesine katılması konusunda Belediye Kanunu hükümleri uygulanır. Bu durumda katılma kararı, ilgili ilçe veya ilk kademe belediye meclisinin talebi üzerine, büyükşehir belediye meclisi tarafından alınır.
-İmar düzeni ve temel alt yapı hizmetlerinin zorunlu kıldığı durumlarda, birinci fıkrada belirtilen belediye ve köyler, büyükşehir belediye meclisinin kararı ve İçişleri Bakanlığının önerisi üzerine Bakanlar Kurulu kararı ile büyükşehir belediyesi sınırları içine alınabilir.
-(Değişik: 2/7/2005-5390/ 1 md.) Büyükşehir belediyesi sınırları içine katılan ilçe belediyeleri büyükşehir ilçe belediyesine, diğer belediyeler ilk kademe belediyesine dönüşür. Köylerin tüzel kişiliği kalkar ve bunların mahalle olarak katılacağı belediyeler, Bakanlar Kurulu kararında belirtilir.
-(Değişik: 21/4/2005-5335/ 28 md.) ilçe ve ilk kademe belediyesi olarak büyükşehir belediye sınırları içine katılan belediyeler, mevcut belediyelerin temsil edildiği şekilde büyükşehir belediye meclisinde temsil edilirler.
+(Mülga: 6/3/2008-5747/ 3 md.)
+(Mülga: 6/3/2008-5747/ 3 md.)
+(Mülga: 6/3/2008-5747/ 3 md.)
+_________________________
+(1) 6/3/2008 tarihli ve 5747 sayılı Kanunun 3 üncü maddesi ile bu Kanunda ilk kademe belediyesine yapılan atıflar ilçe belediyesine yapılmış sayılır.
