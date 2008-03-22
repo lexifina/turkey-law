@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2008/135",
+  "list_number": "135",
+  "decision_date": "2008-03-22",
+  "title": "YSK ilke kararı 2008/135",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3200/135.htm",
+  "source_sha256": "1d2c3535234c2f5ce3419f158eef294532efed70da8247ae29bf8c259f4a4d45",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2008-03-22",
+  "law_text_complete": false
+}
