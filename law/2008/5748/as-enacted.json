@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5748",
+  "year": 2008,
+  "title": "Sağlık Hizmetleri Temel Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-03-22",
+  "gazette_issue": "26824",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080322M1-2.htm",
+  "source_sha256": "f7d73c59b7fd4a4806f3f810b530c8077be6237ed5df927b06b28814fd831171",
+  "text_sha256": "cb939a0da988c0e61a50c63b7fe3ebbbb2b6ec8114c21a4330155b291ed5442b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/03/22/26824-m1-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080322M1-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
