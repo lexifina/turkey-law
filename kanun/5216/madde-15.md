@@ -1,5 +1,5 @@
 İhtisas komisyonları
-MADDE 15.- Büyükşehir belediye meclisi, (…) (2)üyeleri arasından seçilecek en az beş, en çok dokuz kişiden oluşan ihtisas komisyonları kurabilir. (2)
+MADDE 15.- Büyükşehir belediye meclisi, (…)(3) üyeleri arasından seçilecek en az beş, en çok dokuz kişiden oluşan ihtisas komisyonları kurabilir. (3)
 İhtisas komisyonları, her siyasî parti grubunun ve bağımsız üyelerin büyükşehir belediye meclisindeki üye sayısının meclis üye tam sayısına oranlanması suretiyle oluşur. İmar ve bayındırlık komisyonu, çevre ve sağlık komisyonu, plân ve bütçe komisyonu, eğitim, kültür, gençlik ve spor komisyonu ile ulaşım komisyonunun kurulması zorunludur.
 Meclis toplantısını müteakip imar komisyonu en fazla on işgünü, diğer komisyonlar ise beş iş günü toplanarak kendisine havale edilen işleri sonuçlandırır. Komisyon bu sürenin sonunda raporunu meclise sunmadığı takdirde, konu meclis başkanlığı tarafından doğrudan meclis gündemine alınır.
 Komisyon çalışmalarında uzman kişilerden yararlanılabilir. Gündemdeki konularla ilgili olmak üzere; kurum temsilcileri, kamu kurumu niteliğindeki meslek kuruluşları, üniversitelerin ilgili bölümlerinin, sendikalar (oda üst kuruluşu bulunan yerlerde üst kuruluşun, sendika konfederasyonunun bulunduğu yerde konfederasyonun) ve uzmanlaşmış sivil toplum örgütlerinin temsilcileri ile davet edilen uzman kişiler, oy hakkı olmaksızın ihtisas komisyonu toplantılarına katılabilir ve görüş bildirebilir.
@@ -7,4 +7,5 @@ Komisyon çalışmalarında uzman kişilerden yararlanılabilir. Gündemdeki kon
 Komisyon raporları alenîdir, çeşitli yollarla halka duyurulur ve isteyenlere büyükşehir belediye meclisi tarafından belirlenecek maliyet bedeli karşılığında verilir.
 ______________________
 (1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu fıkrada yer alan "on gün içinde” ibaresi madde metninden çıkarılmıştır.
-(2) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu fıkrada yer alan "her dönem başı toplantısında," ibaresi madde metninden çıkarılmıştır.
+(2) 6/3/2008 tarihli ve 5747 sayılı Kanunun 3 üncü maddesi ile bu fıkrada yer alan "on gün içinde" ibaresi madde metninden çıkarılmıştır.
+(3) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu fıkrada yer alan "her dönem başı toplantısında," ibaresi madde metninden çıkarılmıştır.
