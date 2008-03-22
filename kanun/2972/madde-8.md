@@ -1,0 +1,5 @@
+Seçim dönemi-seçim başlangıç tarihi ve seçim günü:
+Madde 8 – (Değişik birinci fıkra : 7/12/1988 - 3507/1 md.) Mahalli İdareler seçimleri beş yılda bir yapılır. Her seçim döneminin beşinci yılındaki 1 Ocak günü seçimin başlangıç tarihidir, Aynı yılın Mart ayının son Pazar günü oy verme günüdür.
+(Değişik : 2/1/2003 - 4778/22 md.) Milletvekili Seçimi Kanununun 7 nci maddesinin son fıkrası gereğince yapılan seçimler hariç, milletvekili genel veya ara seçiminden önceki veya sonraki bir yıl içinde yapılması gereken mahalli idareler organlarına veya bu organların üyeliklerine ilişkin genel veya ara seçimler, milletvekili genel veya ara seçimleri ile birleştirilir.
+(Ek : 20/3/1997 - 4231/1 md.) Yeni kurulan belediyelerin ilk belediye başkan ve belediye meclisi üyeleri seçimleri ile yeni kurulan illerde il genel meclisi üyeleri seçimi, yukarıdaki fıkralarda belirtilen ilk genel mahalli idareler seçimleri ile birlikte yapılır.
+(Ek : 20/3/1997 - 4231/1 md.) Mahalli idareler seçiminin savaş hali nedeniyle bir yıla kadar ertelenmesi kanunla düzenlenir.
