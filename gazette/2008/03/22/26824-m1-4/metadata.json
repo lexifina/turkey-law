@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-03-22",
+  "issue": "26824",
+  "edition": "mükerrer 1",
+  "item": 4,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "5750 Expo 2015 İzmir Yönlendirme Kurulunun Tüzel Kişilik Kazanması, Gelir ve Harcamaları ile Denetimi ve Tasfiyesi Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080322M1-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080322M1.htm",
+  "index_sha256": "20f3f69c04b95f79f26c4b101c4e8a37c84c259e87a1f00390754974d4d0ff6f",
+  "index_header": "22 Mart 2008 ... 26824 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
