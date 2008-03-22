@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5749",
+  "year": 2008,
+  "title": "Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-03-22",
+  "gazette_issue": "26824",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080322M1-3.htm",
+  "source_sha256": "77f93b21c8c27e930ed1fb339ad79bbe6da2157669b5178697ab3f65dbc79dd8",
+  "text_sha256": "3899fa407e64ba061790cab33a819cc1854228d4590b6415c5b2b817d0fcd9ca",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/03/22/26824-m1-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080322M1-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
