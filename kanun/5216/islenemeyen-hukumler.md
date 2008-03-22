@@ -14,3 +14,4 @@ Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Deği�
 5594 | 10/3/2007 | 10/3/2007 |  | Ek Madde 2
 5675 | 7/6/2007 | 7/6/2007 |  | 13
  | 17/1/2008 | 17/1/2008 | 25/1/2007 tarihli ve E.:2004/79 K.:2007/6 sayılı Karar | 18
+5747 | 22/3/2008 | 22/3/2008 |  | 6, 14, Geçici Madde 2

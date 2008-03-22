@@ -10,5 +10,5 @@ Belediyenin görev, sorumluluk ve yetki alanı belediye sınırlarını kapsar.
 Belediye meclisinin kararı ile mücavir alanlara da belediye hizmetleri götürülebilir.
 4562 sayılı Organize Sanayi Bölgeleri Kanunu hükümleri saklıdır.
 (Ek: 1/7/2006-5538/29 md.) Sivil hava ulaşımına açık havaalanları ile bu havaalanları bünyesinde yer alan tüm tesisler bu Kanunun kapsamı dışındadır.
-_________________________
+________________________
 (1) Anayasa Mahkemesi’nin 24/1/2007 tarihli ve E. 2005/95, K. 2007/5 sayılı Kararı ile bu maddenin birinci fıkrasının (b) bendinin “Okul öncesi eğitim kurumları açabilir;…” ifadesi iptal edilmiştir ve söz konusu Kararın Resmi Gazete’de yayımlandığı 29/12/2007 tarihine kadar yürürlüğü durdurulmuştur.
