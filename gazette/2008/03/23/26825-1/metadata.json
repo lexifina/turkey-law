@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-03-23",
+  "issue": "26825",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2008/13364 Türkiye Cumhuriyeti Hükümeti ile Vietnam Sosyalist Cumhuriyeti Hükümeti Arasında İmzalanan “Terörizm, Organize Suçlar, Uyuşturucu ve Psikotrop Maddeler ile Bunların Katkı Maddeleri ve Benzerlerinin Kaçakçılığı ve Diğer Tiplerdeki Suçlarla Mücadelede İşbirliği Anlaşması”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080323-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/03/20080323.htm",
+  "index_sha256": "5b48b3199910fa67ee1caa71def4d6a32713e9bec8d8cadc8ecfd1da1b4c9eb7",
+  "index_header": "2 3 Mart 2008 ... 26825 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
