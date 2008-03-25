@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "1550",
+  "decision_date": "2008-03-25",
+  "title": "Dağıtıcılar Arası Akaryakıt Ticaretine İlişkin Usul Ve Esaslar Hakkında Kararda Değişiklik Yapılması Hakkında Karar (Mülga)",
+  "resmi_gazete_date": "2008-04-02",
+  "resmi_gazete_number": "26835",
+  "categories": [
+    "Dağıtıcılar Arası Akaryakıt Ticaretine İlişkin Usul ve Esaslar Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VKVRO72Hei0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VKVRO72Hei0="
+  ],
+  "source_sha256": "8d97b256de98188acaf1d7c15bd2c3545d99c6360f2f1231ddf3d44829efa718",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4810,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-03-25",
+  "law_text_complete": false
+}
