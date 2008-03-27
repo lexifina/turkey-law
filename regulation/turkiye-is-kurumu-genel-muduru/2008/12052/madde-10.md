@@ -1,0 +1,3 @@
+Vekalet durumunda ek ödeme
+MADDE 10 – (1) Başka bir göreve vekalet edenlere, vekalet ettikleri kadro için öngörülen ek ödemenin, asli kadroları için öngörülen ek ödemeden fazla olması halinde, vekalet ettikleri kadro için öngörülen oranlar, vekalet görevine başlanıldığı tarihten itibaren ve bu görev fiilen yapıldığı sürece ödenir. Ancak bu ödemenin yapılabilmesi için vekalet eden personelin sınav şartı hariç asaleten atanmada aranan şartları taşıması zorunludur.
+(2) Mehil müddeti, yıllık izin, mazeret izni, hastalık izni, geçici görev, görevden uzaklaştırma, hizmet içi eğitim, seminer ve kurs nedeniyle görevlerinden ayrılanlara vekalet edenlere, vekalet ettikleri göreve ait ek ödeme yapılmaz.

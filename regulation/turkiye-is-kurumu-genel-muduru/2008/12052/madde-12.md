@@ -1,0 +1,2 @@
+Disiplin cezası alan personel
+MADDE 12 – (1) Olumsuz sicil alan personele bir yıl süreyle, 657 sayılı Devlet Memurları Kanununun 125 inci maddesine göre cezalandırılanlardan; uyarma cezası alan personele bir ay, kınama cezası alan personele üç ay, aylıktan kesme cezası alan personele 6 ay, kademe ilerlemesinin durdurulması cezası alan personele kademe ilerlemesinin durdurulması süresince ek ödeme verilmez.

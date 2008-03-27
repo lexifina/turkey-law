@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.12052",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İŞ KURUMU PERSONELİNE YAPILACAK EK ÖDEMENİN USUL VE ESASLARINA İLİŞKİN YÖNETMELİK",
+  "number": "12052",
+  "issuer": "Türkiye İş Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-is-kurumu-genel-muduru",
+  "path": "regulation/turkiye-is-kurumu-genel-muduru/2008/12052",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12052&MevzuatTertip=5",
+  "source_sha256": "60d31b2383c11540838d7e5f98ad244043c24ab4ba92e10569b871f9f5cdb9bd",
+  "source_bytes": 25994,
+  "published": "2008-03-27",
+  "gazette": "26829",
+  "in_force": "2008-03-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.03.2008); own commencement article: \"bu Yönetmelik, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 845,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

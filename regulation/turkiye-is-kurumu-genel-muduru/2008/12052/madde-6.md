@@ -1,0 +1,3 @@
+Ek ödemenin ödenme usulü
+MADDE 6 – (1) Personele, görev unvanı, çalışma verimi ve hizmetlerin rasyonelliğini sağlayacak ilkeler göz önünde bulundurularak belirlenen ve ekli cetvelde yer alan oranların ek gösterge dahil en yüksek devlet memuru aylığına uygulanması suretiyle hesaplanan miktarlarda ek ödeme yapılır. Yönetim Kurulunca uygun görülen ve Bakanlıkça onaylanan oran ve miktarlar üzerinden yapılan ek ödemelerin aylık tutarı, 657 sayılı Devlet Memurları Kanununda tanımlanan ek gösterge dahil en yüksek devlet memuru aylığının brüt tutarının %150’ sini geçemez.
+(2) Ek ödemelerde 657 sayılı Devlet Memurları Kanununun aylıklara ilişkin hükümleri uygulanır.
