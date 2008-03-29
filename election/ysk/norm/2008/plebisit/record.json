@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2008/plebisit",
+  "list_number": "115",
+  "genelge_number": "Örnek: 147",
+  "decision_date": "2008-03-29",
+  "title": "Halkoylamasında (Plebisitte) Seçmenlerin Oylarına Başvurma Usul ve Esaslarına İlişkin Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1689/plebisit.pdf",
+  "source_sha256": "7898addde44886ec70e58ecc370a3af714a1d4f12509065fc439e3a78298f106",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 12,
+  "text_status": "as-published",
+  "in_force": "2008-03-29",
+  "law_text_complete": true
+}
