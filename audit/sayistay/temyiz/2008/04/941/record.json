@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30064",
+  "decision_date": "2008-04-01",
+  "source_id": 941,
+  "chamber": "2",
+  "file_number": "29261",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/941/",
+  "source_sha256": "b4b168f7efcb5582a35e2aa5972dbb5ff3f4324a37c9b63903c4d8776fda1d3f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
