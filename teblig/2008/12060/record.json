@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12060",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE'DE AÇILAN TEMSİLCİLİKLERİN FAALİYETLERİNE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "number": "12060",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "path": "teblig/2008/12060",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12060&MevzuatTertip=5",
+  "source_sha256": "07997e73a2785c6e3c648ad2fb70d39dd815edae08c20f4f0a01aadb17d7e322",
+  "source_bytes": 18593,
+  "published": "2008-04-01",
+  "gazette": "26834",
+  "in_force": "2008-04-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.04.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 702,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

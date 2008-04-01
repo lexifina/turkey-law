@@ -1,0 +1,3 @@
+Kuruma bildirim
+MADDE 5 – (1) Temsilcilikler 4 üncü madde kapsamında Türkiye'de yerleşik gerçek ve tüzel kişilerle yaptıkları görüşmeler de dâhil olmak üzere gerçekleştirdikleri faaliyetler hakkında altı aylık dönemler itibarıyla Kurumu bilgilendirirler. Bilgilendirme işlemi ilgili dönemi takip eden bir ay içinde yapılır.
+(2) Bu dönemler içerisinde, bağlı bulunulan banka ya da bir başka banka veya finansal kuruluşta görevli kişilerden temsilciliği ziyaret edenlerin listesi ve ziyaret amaçları hakkında Kuruma bilgi verilir. Bu kişiler tarafından temsilciliğe hitaben veya temsilcilik tarafından bu kişilere hitaben bir rapor düzenlenmiş ise bu raporun içeriği hakkında Kuruma bilgi verilir.

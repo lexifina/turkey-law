@@ -1,0 +1,2 @@
+Personel
+MADDE 6 – (1) Temsilci dâhil temsilciliklerde çalışan personelin Türkiye'de yerleşik olması zorunludur. Temizlik, güvenlik gibi destek hizmeti niteliğindeki hizmetleri yerine getiren personel hariç olmak üzere, temsilciliklerde çalışan personelin kimlik bilgileri, özgeçmişleri ve ikametgâh adresleri istihdam edildikleri tarihten itibaren onbeş iş günü içinde Kuruma bildirilir. Bu kişilerin işten ayrılmaları durumunda da ayrıldıkları tarihten itibaren onbeş iş günü içinde Kuruma bilgi verilir.
