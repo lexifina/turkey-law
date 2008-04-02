@@ -4,3 +4,4 @@ GÖSTERİR LİSTE
 Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası | 5403 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 5578 | 3, 8, 13, 17, EK MADDE 1, GEÇİCİ MADDE 3 | 6/7/2007
 5728 | 22 | 8/2/2008
+5751 | 13, Geçici Madde 3 ve 4 | 2/4/2008
