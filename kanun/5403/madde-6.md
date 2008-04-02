@@ -1,5 +1,5 @@
 Kurulun görevleri
-MADDE 6 — Kurulun görevleri aşağıda belirtilmiştir:
+Madde 6 - Kurulun görevleri aşağıda belirtilmiştir:
 a) Arazi kullanılan tüm faaliyetlerde, arazinin korunması, geliştirilmesi ve verimli kullanılmasına yönelik inceleme, değerlendirme ve izleme yapmak, ortaya çıkan olumsuzlukları belirlemek, toprak korumayı ve bununla ilgili sorunları giderici önlemleri almak, geliştirmek, uygulanmasını sağlamak için görüş oluşturmak.
 b) Arazi kullanımını gerektiren tüm girişimleri yönlendirmek üzere, yerel plân veya projelerin uygulanması amacıyla takibini yapmak.
 c) Toprak koruma önlemlerinin yerine getirilmesi sürecini yerel ölçekte izlemek, değerlendirmek ve çözümleyici öneriler geliştirmek, hazırlanacak toprak koruma ve arazi kullanım plânları doğrultusunda, yerel ölçekli yıllık iş programları için görüş oluşturmak ve uygulamaya konulmasının takibini yapmak.

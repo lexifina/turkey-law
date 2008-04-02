@@ -1,4 +1,4 @@
 Tarım arazilerinin yanlış kullanımlarında uygulanacak cezalar
-MADDE 20 — Tarımsal amaçlı arazi kullanımlarında, tarımsal amaçlı arazi kullanım plân ve projelerine uyulması zorunludur.
+Madde 20 - Tarımsal amaçlı arazi kullanımlarında, tarımsal amaçlı arazi kullanım plân ve projelerine uyulması zorunludur.
 Bu plân veya projelere aykırı hareket edilerek arazi tahrip edilmiş veya diğer koruma ve üretim yapılarına zarar verilmiş ise valilikçe tespit yaptırılarak sorumlular bir kez uyarılır ve projeye uygunluk sağlanması için azami üç ay süre verilir. Bu sürenin sonunda aykırı kullanımların devam etmesi durumunda faaliyet durdurulur. Valilikçe arazinin eski haline dönüştürülmesi için yapılan tüm masraflar sorumlulardan tahsil edilir. Ayrıca, araziye zarar verenlere, tahrip edilen mutlak tarım arazileri, özel ürün arazileri ve dikili tarım arazilerinin her metre karesi için bir Yeni Türk Lirası, marjinal tarım arazilerinin her metre karesi için elli Yeni Kuruş idarî para cezası verilir.
 Valiliğin yaptıracağı tespitlerle plân veya projelere uyulduğu ve arazi tahribatının durduğu belirlenirse sınırlama ve hak mahrumiyetleri ortadan kalkar.
