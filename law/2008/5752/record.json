@@ -1,0 +1,71 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5752",
+  "year": 2008,
+  "title": "Tütün, Tütün Mamulleri, Tuz ve Alkol İşletmeleri Genel Müdürlüğünün Yeniden Yapılandırılması ile Tütün ve Tütün Mamullerinin Üretimine, İç ve Dış Alım ve Satımına, 4046 Sayılı Kanunda ve 233 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanunda Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "2008-04-03",
+  "adopted_as_published": "03/04/2008",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "15.04.2008 No: 26848",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc092/kanuntbmmc092/kanuntbmmc09205752.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 92",
+  "committee_reports": [
+    {
+      "label": "TBMM 125 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c017/tbmm23017082ss0125.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 708577,
+      "title": "Tütün, Tütün Mamulleri, Tuz ve Alkol İşletmeleri Genel Müdürlüğünün Yeniden Yapılandırılması ile Tütün ve Tütün Mamullerinin Üretimine, İç ve Dış Alım ve Satımına, 4046 Sayılı Kanunda ve 233 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanunda Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "03/04/2008",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc092/kanuntbmmc092/kanuntbmmc09205752.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 125 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c017/tbmm23017082ss0125.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 17,
+          "sitting": 82,
+          "sitting_date": "2008-03-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c017/tbmm23017082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c017/tbmm23017fih.pdf",
+          "pages": [
+            "284:310"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 86,
+          "sitting_date": "2008-04-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c017/tbmm23017086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c017/tbmm23017fih.pdf",
+          "pages": [
+            "916:981"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "aa79592b095d9f3b18682390b140a6620e1ab5c78c002a7c5c7aa1307ecc739e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "aa79592b095d9f3b18682390b140a6620e1ab5c78c002a7c5c7aa1307ecc739e",
+  "issuer": "TBMM",
+  "in_force": "2008-04-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/04/2008; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
