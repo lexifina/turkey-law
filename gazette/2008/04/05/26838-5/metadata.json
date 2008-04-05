@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-04-05",
+  "issue": "26838",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sivil Hava Ulaşımına Açık Havaalanlarında Yer Alan Gayrisıhhi İşyerleri İçin İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik (SHY-33A)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/04/20080405-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/04/20080405.htm",
+  "index_sha256": "f067ac62a871ca8492e6250602d0885f77b549cd3ac09a9b4e93bd1e4031500a",
+  "index_header": "5 Nisan 2008 ... 26838 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
