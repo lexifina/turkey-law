@@ -1,0 +1,3 @@
+İntibak ve kazanılmış haklar
+GEÇİCİ MADDE 2 – (1) (Değişik:RG-5/4/2008-26838) Bakanlıkça belirlenen müfredata göre bu Yönetmelik kapsamında yapılacak olan ilk hizmet içi eğitim programına kadar; piyasa gözetimi ve denetimi faaliyetlerini fiilen yürütmekte olan personel, bu konuda daha önce hizmet içi eğitim almış olmakla birlikte henüz fiilen bu görevi yürütmeyen personel ile Tıbbi Cihazlar Alanında Piyasa Gözetimi ve Denetimi Yapısını Güçlendirme isimli Eşleştirme Projesi kapsamında eğitim almış personelden 20 nci maddeye göre yapılacak sınav sonucunda başarılı olanlara bir kereye mahsus olarak sertifika düzenlenir.
+(2) Bu madde kapsamında olanlar, Bakanlıkça yapılacak ilk sınava katılmazlarsa, bu maddede öngörülen haktan yararlanamazlar.
