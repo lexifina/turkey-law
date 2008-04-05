@@ -1,0 +1,3 @@
+Katılım payı alınmayacak ilaçlar
+Madde 19 — (Değişik ibare:RG-22/05/2007-26529) Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde hasta katılım payından muaf ilaçlar listesinde yer alan, ayakta uzun süre tedaviyi gerektiren ve (Değişik ibare:RG-22/05/2007-26529) sağlık raporu ile belgelendirilmek suretiyle tüberküloz, kanser, kronik böbrek ve benzeri hastalıkların tedavileri sırasında kullanılmasına gerek görülen ilaçlardan, hayati önem taşıdıkları tespit edilenlerin bedellerinden bu Yönetmeliğin 17 nci maddesinde belirtilen katılım payı alınmaz.
+Ancak, bu listede yer alan etken maddeleri ihtiva etmeyen ilaçların uzun süreli kullanımı gerekli olsa dahi, ilaç tutarlarının ödenmesinde bu Yönetmeliğin 17 nci maddesinin ikinci fıkrasındaki hüküm uygulanır.

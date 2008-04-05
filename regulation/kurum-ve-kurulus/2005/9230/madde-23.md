@@ -1,0 +1,4 @@
+Gözlük cam ve çerçevesi, çeşitli ortez - protez ve iyileştirme vasıtaları
+Madde 23 — Sağlık sigortası yardımlarından yararlananların, gözlük cam ve çerçevesi Kurum ile Optikçi – Optisyen Dernekleri arasında yapılan ve her yıl yenilenen protokol hükümleri ve (Değişik ibare:RG-22/05/2007-26529) Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde belirlenen fiyatlar dikkate alınarak yapılacak kontrolden sonra ödenir.
+Ortez-protez bedelleri ile tedaviler süresince kullanılan iyileştirme vasıtalarının cins ve miktarı ile ödenecek bedelleri her yıl yayımlanan (Değişik ibare:RG-22/05/2007-26529) Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde belirlenen fiyatlar ve diğer sosyal güvenlik kurumlarının uyguladığı fiyatlar dikkate alınarak Kurumca belirlenen esaslar dahilinde ödenir.
+(Mülga üçüncü fıkra:RG-22/05/2007-26529)
