@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-04-08",
+  "issue": "26841",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Dış Ticaret Sermaye Şirketlerine İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/04/20080408-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/04/20080408.htm",
+  "index_sha256": "11d9202503d3f4d4c8789f4a83e18234ea7ee4bed725e92755c2c3106d783760",
+  "index_header": "8 Nisan 2008 ... 26841 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
