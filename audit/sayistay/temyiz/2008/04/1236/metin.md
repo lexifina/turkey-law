@@ -1,0 +1,19 @@
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü.
+
+1- 69 nolu ilamın 1. maddesinde, Yozgat Çocuk Yuvası İkmal Onarımı İşinde alçı perdah yapılan yüzeylere, ilave olarak 25.021 poz nolu (badanasız sıva yüzüne 3 kat yağlı boya sürülmesi) iş kaleminden de ödeme yapılması nedeniyle 3.366.000.000.- liranın tazminine karar verilmiştir.
+
+Dilekçi dilekçesinde özetle, söz konusu Yozgat Çocuk Yuvası İkmal Onarım işinin 1998 yılına ait bir iş olduğunu, 1998 yılı birim fiyat listesinde 27.525/1 poz nolu birim fiyatın bulunmadığını bu imalatın birim fiyat listesine 2005 yılında girdiğini, dolayısıyla yapılan işler listesinde bulunan 27.525/1 poz nolu imalatın Bayındırlık birim fiyatı olmadığı analiz olup bu analizin alçı imalatlarını içermesi nedeniyle 27.525/1 olarak adlandırıldığını, yapılan imalatların farklı olmasından dolayı ödemede bir mükerrerliğin bulunmadığını, diğer yandan, 25.021 poz nolu imalat analizinde 0,250 kg olarak yer alan boya macununun delik ve çukurların kapatılmasında kullanıldığını, oysa alçı astar yapılması gibi imalatların ise pürüzsüz bir yüzey elde edilmesi amacına yönelik imalatlar olduğu ve bu nedenle de bir mükerrerliğin bulunmadığını, ayrıca ödemede mükerrerlik olduğu kabul edilse bile yapılan hesaplamanın 1999 yılı fiyatlarıyla yapılması ve boyacı ustası süresinin hatalı olarak hesaplandığını bildirerek tazmin hükmünün kaldırmasına karar verilmesini talep etmiştir.
+
+27.525/1 poz nolu birim fiyattan ödenmiş gibi görünmesine rağmen aslında Özel Birim Fiyat olarak tespit edilen “Sıva üzerine alçı perdahlı satıh teşkili” birim fiyatının yapım koşulları, Kireç alçı karışımı macunla kat kat macunun yapılması, zımparalanması tekrarlandıktan sonra arap sabunu ile tıla edilmesi suretiyle alçı perdahlı satıh teşkili, yatay ve düşey taşıma, boşaltma, müteahhit karı ve genel giderler dahil 1m² fiyatı” olarak tespit edilmiştir.
+
+ 25.021 poz nolu, Badanasız sıva yüzeyine 3 kat yağlı boya sürülmesi birim fiyatının tarifinde de, “Boyanacak yüzeyin temizlenmesi, 0.250 kg macunla macunlanması, pürüzlerin zımparalanması, yoklama macunu yapılması, icabında tekrar zımparalanması, bezir yağı sürülmesi, 0.100 kg astar boyadan sonra (0.140 kg. 1. kat, 0.140 kg 2. kat, 0.140 kg 3. kat) yağlı boyanın sürülmesi, her türlü malzeme ve zayiatı …… dahil 1 m² fiyatı” denilmektedir.
+
+Söz konusu iki imalatın mukayese edilmesi neticesinde bu imalatların birbirinden farklı olduğu görülmektedir. Şöyle ki, 25.021 poz nolu imalat bünyesinde yer alan boyanacak yüzeyin macunlanması, yoklama macunu yapılması, bezir yağı sürülmesi, astar boya yapılması işlemleri 27.525/1 poz nolu imalatta bulunmamaktadır. 27.525/1 poz nolu imalat, sıva üzerine alçı perdahlı satıh teşkili işlemi olmasına karşın, 25.021 poz nolu imalatta boyanacak yüzeylerin temizlenmesi söz konusudur. Dolayısıyla, 27.525/1 poz nolu “Sıva üzerine alçı perdahlı satıh teşkili” yapılması imalatının uygulandığı alanlara 25.021 poz nolu badanasız sıva yüzeyine 3 kat yağlı boya sürülmesi imalatının uygulanması nedeniyle mükerrer bir işlem ve ödeme söz konusu olmadığından 25.021 poz nolu birim fiyattan düşülmesi gereken bir bedel de bulunmamaktadır.
+
+ Yukarıda açıklanan nedenlerle dilekçi iddialarının kabulü ile 69 sayılı ilamın 1. maddesiyle tazminine karar verilen 3.366.000.000.- liraya ilişkin hükmün KALDIRILMASINA,
+
+2- 69 nolu ilamın 3. maddesinde, Kırşehir Yetiştirme Yurdu Onarımı İşinde alçı perdah yapılan yüzeylere, ilave olarak 25.021 poz nolu (badanasız sıva yüzüne 3 kat yağlı boya sürülmesi) iş kaleminden de ödeme yapılması nedeniyle 762.000.000.- liranın tazminine karar verilmiştir.
+
+İş bu Tutanağın 1. maddesinde açıklanan gerekçelerle, tazmin hükmünün KALDIRILMASINA,
+
+Karar verildiği 08.04.2008 tarih ve 30076 sayılı tutanakta yazılı olmakla iş bu ilâm tanzim kılındı.
