@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-04-09",
+  "issue": "26842",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Gözetim Uygulanmasına İlişkin 2008/8 Sayılı Tebliğde Değişiklik Yapılması Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/04/20080409-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/04/20080409.htm",
+  "index_sha256": "48868f68685f5295cb976295b444e017bf255bf4e62ba0caf4f6c9dfa5031c2a",
+  "index_header": "9 Nisan 2008 ... 26842 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
