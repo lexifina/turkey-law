@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "1567/13",
+  "decision_date": "2008-04-10",
+  "title": "60.000 ton beyaz ürün satış yükümlülüğü",
+  "categories": [
+    "Lisans İşlemleri Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ytqMkGey3z0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ytqMkGey3z0="
+  ],
+  "source_sha256": "a6b87670cd299ff8efac0728ab0eab38006c6af4fd9c33f8c0a07d543ed884f6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4913,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-04-10",
+  "law_text_complete": false
+}
