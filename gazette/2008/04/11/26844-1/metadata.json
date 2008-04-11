@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-04-11",
+  "issue": "26844",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2008/13441 Türkiye Cumhuriyeti Milli Savunma Bakanlığı ile NATO Bakım ve İkmal Teşkilatı Arasında İmzalanan “Sensör Entegrasyonu ve Kontrol Sistemlerine (SICS) Yönelik TU-33 Sayılı Satış Anlaşması”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/04/20080411-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/04/20080411.htm",
+  "index_sha256": "0aaba6859008af34920def45ce66f67a9cc4deeae1f6196707cc67fe09a9f7a1",
+  "index_header": "11 Nisan 2008 ... 26844 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
