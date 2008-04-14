@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6609- 591/38616",
+  "source_id": 35974,
+  "date": "2008-04-14",
+  "title": "Yatılı kız kur'an kursu binası inşaatından belediyece bina inşaat harcının alınıp alınmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/35974",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "1ffda209015c0ddf3cb9db9fa3408e47b9efdbecec73c899219d959c65877d32",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
