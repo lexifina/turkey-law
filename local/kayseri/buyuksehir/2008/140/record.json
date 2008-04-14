@@ -1,0 +1,24 @@
+{
+  "number": "140",
+  "number_as_published": "Karar No : 140",
+  "year": 2008,
+  "title": "Talas Belediye meclisinin 03.03.2008 tarih, 28 sayılı kararının incelenmesi.",
+  "decision_date": "2008-04-14",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/14-nisan-2008-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "28d4af40b315b193f54f8b871d0d1ee574f5b8e9e9e29f989cca7570fdbcf644",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2008-04-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.04.2008 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "14 Nisan 2008 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=19",
+  "subject_published": true
+}
