@@ -1,3 +1,4 @@
+GENEL TOPLAM 322
 4733 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
 MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
 GÖSTERİR LİSTE
@@ -11,3 +12,4 @@ Anayasa Mah.’nin E.: 2002/32 ve K.: 2003/100 sayılı Kararı | 9 | 11/8/2004
 5478 | Geçici Madde 4 | 28/3/2006
 5538 | Ek Madde 1 | 12/7/2006
 5728 | 3, 8 | 8/2/2008
+5752 | Kanunun Adı, 1, 2, 4, 4/A, Ek Madde 1, 2, Geçici Madde 5 ve 6, (I) Sayılı Cetvel 8 | 15/4/2008 15/5/2008
