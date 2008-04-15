@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6609-587/39430",
+  "source_id": 37374,
+  "date": "2008-04-15",
+  "title": "3194 sayılı İmar Kanununun 8 inci maddesine göre 1/5000 ölçekli nazım imar planlarının onaylanması için işletmecilerden plan ve proje tasdik harcının aranılıp aranılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37374",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "69f18d5afbd8461832516dbd489106bfb29b7f8b16a6130de825a86c0ed4e694",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
