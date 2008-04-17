@@ -1,0 +1,2 @@
+Madde 28 – (12/2/1954 tarih ve 6253 sayılı Kanunun hükmüdür.)
+Bu kanunun (20) nci maddesi ile günlük gazeteler hakkında intişar memnuiyeti kabul edilmiş olan günlerde, günlük gazetelerin neşrine devam olunduğu veya bahsi geçen maddede yazılı mesleki teşekkülden gayrı kimseler tarafından o günleremahsus gazete neşredildiği takdirde, neşreden kimse hakkında her baskı için (5.000) liradan aşağı olmamak üzereağır para cezası hükmolunur.

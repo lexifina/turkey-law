@@ -1,0 +1,3 @@
+Ek Madde 3 – (12/2/1954 tarihli ve 6253 sayılı Kanunun hükmüdür.)
+A) Bu Kanunun ek 1 inci maddesinde yazılı fazla saatlerle çalışma ücretlerini gazeteciye ödemiyen veya mezkür maddede yazılı zam hadlerinden daha aşağı hesabetmek suretiyle ödiyen işveren, ödemediği fazla saat ücretleri tutarının veya eksik ödediği ücretler tutarının iki misli miktarında ağır para cezasına mahkum edilir.
+B) Bu Kanunun ek 2 nci maddesi gereğince gazetecilere verilmesi lazımgelen ücretleri bahsi geçen maddenin tayin ettiği tarz ve usullerden başka türlü hesabederek veren veya daha aşağı hadlerde ödiyen iş veren hakkında (50) liradan aşağı olmamak üzere ağır para cezası hükmolunur.

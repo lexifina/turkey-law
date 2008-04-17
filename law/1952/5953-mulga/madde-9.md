@@ -1,0 +1,2 @@
+Madde 9 – (13/6/1952 tarih ve 5953 sayılı Kanunun hükmüdür.)
+Mukavelenin imzalanışında işverenle gazeteci, fesih halinde ise fesheden taraf, keyfiyeti bir beyanname ile mahallin en büyük mülkiye amirine bir hafta içinde bildirmeye mecburdur. Mülkiye amirleri bu beyannamelerin birer örneğini, gazetecinin kıdeminin tesbitine esas olmak üzere, hemen, Basın-Yayın ve Turizm Genel Müdürlüğüne bildirirler.

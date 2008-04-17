@@ -1,0 +1,2 @@
+Madde 29 – (4/1/1961 tarihli ve 212 sayılı Kanunun hükmüdür.)
+Gazeteciye bu Kanunun 21 inci maddesinde yazılı yıllık izni vermiyen veya izni vermiş olup da izin müddetine ait ücreti ödemiyen işveren, yıllık izin vermediği veya izin süresine ait ücretleri ödemediği kimsenin izin müddetine tekabül eden ücretler yekünunun iki katını ilgili gazeteciye ödemiye ve ayrıca bu miktarda ağır para cezasına mahkum edilir.

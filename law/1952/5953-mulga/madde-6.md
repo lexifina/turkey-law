@@ -1,0 +1,3 @@
+Madde 6 – (13/6/1952 tarih ve 5953 sayılı Kanunun hükmüdür.)
+Birinci maddenin şümulüne giren bir iş yerinde iş verenle arasındaki hizmet münasebeti bir veya mütaaddit mukaveleye istinaden fasılasız olarak en az beş yıl sürmüş olan gazetecinin işine son verilmesi, yapılacak yazılı ihbardan üç ay geçtikten sonra muteber olur. Beş seneden az hizmeti olanlar için bu ihbar mühleti bir aydır.
+Hizmetine bu madde hükümlerine göre son verilen gazeteciye feshi ihbar edilen mukavelenin taallük ettiği her hizmet yılı veya küsuru için son aylığı esas ittihaz olunmak suretiyle her yıl için bir aylık ücreti miktarında tazminat verilir. Ancak, yıllık hizmetin altı aydan az kısmı nazara alınmaz.

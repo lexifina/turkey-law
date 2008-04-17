@@ -1,0 +1,2 @@
+Geçici Madde 3 – (13/6/1952 tarih ve 5953 sayılı Kanunun hükmüdür.)
+5502 sayılı Hastalık ve Analık Sigortası Kanununun tatbikına geçildiği yerlerde, kanunun tatbikı tarihinden önce gazetecilik mesleğinde veya İş Kanununun uygulandığı iş yerlerinde çalışmış bulunanlar 5502 sayılı kanunun (9) uncu maddesinin ikinci fıkrasiyle (14),(15) ve (18) inci maddelerinin tatbikatı bakımından, bu kanuna tabi iş yerlerinde çalışmış ve bu müddet içinde Hastalık ve Analık Sigortası primi ödemiş sayılırlar.

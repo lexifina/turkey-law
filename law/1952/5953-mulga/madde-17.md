@@ -1,0 +1,4 @@
+Madde 17 – (13/6/1952 tarih ve 5953 sayılı Kanunun hükmüdür.)
+Mensup olduğu mevkutedeki bir yayın dolayısiyle hürriyeti tahdide uğrayan gazeteci ücretini işverenden almakta devam eder. Yayın, mevkute mesul müdürünün veya mevkute sahibinin haberi olmadan yaptırıldığı veya mesul müdürün tetkikından geçirilerek neşri takarrür eden şekil üzerinde tahrifat, tadilat, tay yahut da ilaveler icra olunduğu takdirde böyle bir yayın dolayısiyle hürriyeti tahdide uğrayan gazeteci bu hükümden faydalanamaz.
+Birinci fıkradaki hürriyet tahdidi gezetecinin o mevkuteden ayrılmasından sonra vukua gelmişse, gazetecinin bahsi geçen mevkuteden son aldığı ücreti miktarındaki tazminat, hürriyeti tahdit edildiği müddetçe, her ay yayının yapılmış olduğu mevkute sahibi tarafından ödenir.
+Her ne sebeple olursa olsun, neşriyatı tatil edilen mevkutede çalışanlar, tatil tarihinden itibaren iki ay müddetle ücretlerini alırlar.

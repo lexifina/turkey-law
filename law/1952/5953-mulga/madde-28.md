@@ -1,0 +1,3 @@
+Madde 28 – (13/6/1952 tarih ve 5953 sayılı Kanunun hükmüdür.)
+Bu kanunun (20) nci maddesi ile günlük gazeteler hakkında intişar memnuiyeti kabul edilmiş olan günlerde, günlük gazetelerin neşrine devam olunduğu veya bahsi geçen maddede yazılı mesleki teşekküllerden gayrı kimseler tarafından o günlere mahsus gazete neşredildiği takdirde, neşreden kimse hakkında (5.000) liradan aşağı olmamak üzere ağır para cezası hükmolunur.
+2 – 4/1/1961 tarih ve 212 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları:1,4,6,9,10,12,14,15,16,17,18,19,21,22,26,27,28,29,30, Ek 1)
