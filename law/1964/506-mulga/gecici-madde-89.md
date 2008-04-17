@@ -1,0 +1,2 @@
+Geçici Madde 89 – (22/1/2004 tarihli ve 5073 sayılı Kanunun hükmüdür.)
+1.1.2000 tarihinden önce bağlanan malullük, yaşlılık ve ölüm aylıkları ve iş kazası ile meslek hastalığı sonucu bağlanan ölüm gelirleriyle geçici 82 nci madde gereğince bağlanan ve bağlanacak aylıklar; 506 sayılı Kanunun 4447 sayılı Kanunla değiştirilmeden önceki 96 ncı maddesi hükümleri uygulanmak suretiyle 31.12.1999 tarihi itibarıyla hesaplanarak bu tarihten sonra gelir ve aylıklarda yapılan artışların eklenmesi sonucunda bulunan miktarın altında olamaz.

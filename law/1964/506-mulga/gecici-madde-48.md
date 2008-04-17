@@ -1,0 +1,5 @@
+Geçici Madde 48 – (29/6/1978 - 2167/14 md. ile gelen Geçici 5 inci md. hükmü olup madde numarası teselsül ettirilmiştir.)
+A) Bu Kanunun yürürlüğe girdiği tarihte, İş kazası ve meslek hastalıkları sigortası ile malullük, yaşlılık ve ölüm sigortalarından gelir veya aylık almakta olanlar ile gelir veya aylık talebinde bulunmuş olup da henüz işlemleri tamamlanmamış bulunanların göstergeleri aşağıdaki şeklide tayin edilir.
+Aylık veya gelir bağlama oranları ile maluliyet derecelerine göre halen ödenmekte olan aylık veya gelirlerin yüzde yüz değeri, onbire bölünmek suretiyle göstergeler tespit edilir.
+Ancak, asgari kazanç üzerinden aylık ve gelir alanların, yukarıdaki fıkra nazara alınmadan, gösterge tablosunda en düşük gösterge esas alınarak yeni aylık ve gelirleri hesap edilir.
+B) 991 sayılı Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü İşçileri Emekli Sandığı ile, Askeri Fabrikalar Tekaüt ve Muavenet Sandığının Sosyal Sigortalar Kurumuna devri hakkındaki Kanun ile ek ve değişikliklerine göre, kurumdan aylık almakta olanların bu aylıkları, 1189 sayılı Kanunun geçici 2 nci madde esasları uygulanmak suretiyle yeniden hesaplanır. (2)

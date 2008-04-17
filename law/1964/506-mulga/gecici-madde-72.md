@@ -1,0 +1,4 @@
+Geçici Madde 72 – (4/4/1987 tarih ve 277 sayılı KHK'nin hükmüdür.)
+1986 ve daha önceki yıllar için yapılmış ölçümlemelere istinaden tahakkuk ve tebliğ edilmiş prim, gecikme zammı ve faiz borcu bulunan işverenlerin; bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten itibaren prim borcunun aslını bir yıl içinde ödemeleri halinde, bu primlere ait gecikme zammı ve faiz borçları terkin edilir. Şu kadar ki daha önce tahsil edilmiş gecikme zammı vefaiz borçları geri verilmez ve mahsup edilmez.
+Yine aynı yıllar için bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten sonra tahakkuk ve tebliğ edilecek prim borcunun aslını tebliğ tarihinden itibaren bir yıl içinde ödeyen işverenler hakkında da yukarıdaki fıkra hükümleri uygulanır.
+Ölçümleme sebebiyle tahakkuk ve tebliğ edilen prim borcu aslının yukarıda belirtilen bir yıl içinde kısmen ödenmesi halinde, ödenmeyen kısmı için gecikmezammı ve faiz uygulanmasına devam edilir.

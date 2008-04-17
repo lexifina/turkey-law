@@ -1,0 +1,2 @@
+Geçici Madde 93- (12/12/2006 tarihli ve 5561 sayılı Kanunun hükmüdür.)
+Bu Kanunun 66 ncı maddesinin (c) bendi ile 17/10/1983 tarihli ve 2925 sayılı Tarım İşçileri Sosyal Sigortalar Kanununun 26 ncı maddesinin (a) bendinde yapılan değişikliğin yürürlüğe girdiği tarihten önce bu değişiklikle öngörülen şartları yerine getiren sigortalının hak sahiplerinin aylıkları bu Kanunun yürürlüğe girdiği tarihi takip eden ödeme dönemi başından geçerli olmak üzere başlatılır.

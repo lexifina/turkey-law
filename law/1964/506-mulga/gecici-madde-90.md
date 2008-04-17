@@ -1,0 +1,5 @@
+Geçici Madde 90 – (22/1/2004 tarihli ve 5073 sayılı Kanunun hükmüdür.)
+1.1.2004 ile 30.6.2004 tarihleri arasında; sigortalının günlük kazancı, bu Kanunun 78 inci maddesine göre belirlenen günlük kazancın alt sınırının altında ise, bu kazanç ile alt sınır arasındaki farka ait işverence ödenmesi gereken sigorta primlerinin, işsizlik sigortası priminin ve sosyal güvenlik destek priminin sigortalı ve işveren hisselerinin tümü, bu tarihler arasındaki aylara ait prim tahakkukuna esas belgelerin en geç 2.8.2004 tarihine kadar verilmesi kaydıyla Hazinece karşılanır.
+780-104
+Hazinece karşılanacak tutarları, Çalışma ve Sosyal Güvenlik Bakanlığı bütçesinin ilgili tertibinden Sosyal Sigortalar Kurumuna aktarılan ödenekten mahsup etmeye Çalışma ve Sosyal Güvenlik Bakanı yetkilidir.
+Hazinece karşılanacak olan prim tutarının Sosyal Sigortalar Kurumuna ödenmesine ilişkin usul ve esaslar Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı ve Hazine Müsteşarlığının bağlı bulunduğu Bakanlıkça müştereken belirlenir.

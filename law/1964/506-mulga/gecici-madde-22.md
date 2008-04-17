@@ -1,0 +1,3 @@
+Geçici Madde 22 – (13/7/1967 tarihli ve 899 sayılı Kanunun hükmüdür.)
+1/4/1950 tarihinden bu kanunun yürürlüğe girdiği tarihe kadar maden işyerlerinin yeraltı işlerinde malullük, yaşlılık ve ölüm sigortalarına tabi olarak çalışmış bulunan sigortalıların, bu hizmetleri, bunların çalıştıkları işyerlerinden alacakları örneği kurumca hazırlanacak belgeleri Sosyal Sigortalar Kurumuna vermeleri suretiyle tevsik edilir.
+Geçici 8 inci maddedeki çalışma belgelerinin düzenlenmesi bakımından işverenler ve sigortalılar için belirtilen hükümler, yeraltı hizmetlerine ait çalışma belgeleri hakkında da uygulanır.

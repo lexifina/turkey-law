@@ -1,0 +1,10 @@
+Geçici Madde 76 – ( 7/3/1991 tarihli ve 3702 sayılı Kanunun hükmüdür.) (1)
+a) (Değişik:6/5/1993 - 3910/2 md.) Anayasa Mahkemesince iptal edilen Geçici 70 inci madde uyarınca Kuruma 4.200.000 TL.veya 5.040.000 TL.borçlanma primi ödemiş olup malulluk,yaşlılık ve ölüm sigortasından aylık almakta olanlara ödenmekte olan aylıkları ile;(6400) gösterge üzerinden,sigortalının prim ödeme gün sayısı ve tahsis talep veya ölüm tarihindeki yaşı dikkate alınarak ek 35 inci maddeye göre yeniden tespit edilecek aylık bağlama oranları ve cari katsayı esas alınmak suretiyle hesaplanacak malullük, yaşlılık ve ölüm aylıkları arasındaki fark tutarında telafi edici ödeme yapılır. Ancak, (6400) göstergeden maaş alanların göstergelerinde bir değişiklik yapılması halinde bu değişikliklerden doğan fark telafi edici ödemeye aynen yansıtılır.
+4.200.000 TL. veya 5.040.000 TL.'den daha az borçlanma primi ödemiş olanlalara yapılacak telafi edici ödeme, yukarıda öngörülen esaslar dahilinde ve ödedikleri borçlanma primi ile orantılı olarak hesaplanır.
+Telafi edici ödemeler ilgililere her ay aylıkları ile birlikte,malullük, yaşlılık ve ölüm aylığı aldıkları sürece yapılır.
+Ödeme dönemine göre peşin ödenen telafi edici ödeme,ölüm halinde geri alınmaz.
+b) (Değişik: 6/5/1993 - 3910/2 md.) Ölüm aylığı almakta olanlara yapılacak telafi edici ödeme,ölüm aylığı ödenmesine imkan veren her tahsis dosyası için ayrı ayrı hesaplanır ve hak sahiplerinin aylıktaki hisseleri oranında ödenir.
+c) Hak sahibi kız çocuklarının evlenmeleri nedeniyle, Ek 12 nci maddeye göre ödenen evlenme yardımının hesabında, telafi edici ödeme nazara alınmaz.
+d) Telafi edici ödeme almaya hak kazandıktan sonra ölen aylıklının hak sahipleri hakkında da yukarıdaki esaslara göre işlem yapılır.
+e) Telafi edici ödeme, 2829 sayılı Sosyal Güvenlik Kurumlarına Tabi Olarak Geçen Hizmetlerin Birleştirilmesi Hakkında Kanunun hesaplaşma ile ilgili hükümlerinin uygulanmasında nazara alınmaz.
+f) Telafi edici ödeme her türlü vergi, resim ve harçtan muaftır.

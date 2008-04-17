@@ -1,0 +1,2 @@
+Ek Madde 7 – (11/8/1977 tarih ve 2098 sayılı Kanunun 1 inci maddesi ile getirilen ek madde 3 hükmü olup teselsül sebebi ile madde numarası değiştirilmiştir.)
+Ağır, yıpratıcı ve zehirleyici işyerlerinden sayılan ve bu kanuna tabi işyerlerinde çalışan sigortalılardan alınacak malüllük, yaşlılık ve ölüm sigortaları primi yüzde (18) dir. Bunun yüzde (8) i sigortalı hissesi, yüzde (10) u işveren hissesidir.

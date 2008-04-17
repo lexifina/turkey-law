@@ -1,0 +1,2 @@
+Geçici Madde 61 – (20/3/1985 - 3168/8 md. ile gelen Geçici 2 nci md. hükmü olup madde numarası teselsül ettirilmiştir.)
+506 sayılı Kanunun 23 ve 68 inci maddelerinin (I) numaralı bentlerinin yürürlükten kaldırılan (B) fıkralarına göre gelir veya aylık bağlanmış bulunanlardan, bu Kanunun yürürlüğe girdiği tarihte evli olanların yeniden evlendikleri tarihe kadar gelir veya aylıklarının ödenmesine devam olunur. Sonraki eşinden de gelir veya aylık almaya hak kazananlara bu gelir veya aylıklardan fazla olanı ödenir.

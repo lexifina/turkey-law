@@ -1,0 +1,2 @@
+Madde 81 – (17/7/1964 tarih ve 506 sayılı Kanunun hükmüdür.)
+Bu Kanuna göre alınacak sigorta primlerinin ödenmesi için kurumca işverene yapılacak bildiri üzerine prim borçları ödenmezse, Kurumca düzenlenen ve işverenin prim borcu miktarını gösteren belgeler resmi dairelerin usulüne göre verdikleri belgeler hükmünde olup, icra ve iflas dairelerince, bunların tabi olduk- ları hükümlere göre işlem yapılır.

@@ -1,0 +1,8 @@
+Madde 63 – (29/4/1986 tarihli ve 3279 sayılı Kanunun hükmüdür.)
+A) Bu Kanuna göre yaşlılık aylığı almakta iken, sigortalı olarak çalışmaya başlayanların yaşlılık aylıkları çalışmaya başladıkları tarihte kesilir.
+__________________________________
+(1) Ana.Mah.nin 4/10/2006 tarihli ve E:2006/75 K:2006/99 sayılı Kararı ile bu arada yer alan “Kurumca itirazı reddedilenler, kararın kendilerine tebliğ tarihinden itibaren onbeş gün içinde yetkili sulh ceza mahkemesine başvurabilirler.” tümcesi iptal edilmiştir.
+780-19
+Yukarıdaki fıkraya göre yaşlılık aylıkları kesilenlerden yeniden çalıştıkları süre zarfında 78 inci maddeye göre prime esas kazançları üzerinden 73 üncü madde gereğince prim alınır. Yaşlılık aylıkları kesilenlerden işten ayrılarak yaşlılık aylığı verilmesi için yazılı talepte bulunan sigortalıya aşağıdaki fıkra hükmüne göre yeniden hesaplanarak, yaşlılık aylığı, talep tarihini takip eden aybaşından başlanarak ödenir.
+Bu sigortalılar için yazılı talep tarihlerine göre yeniden yaşlılık aylığı hesaplanır ve bu aylık, önceden bağlanan yaşlılık aylığından fazla ise, hesaplanan yeni aylık üzerinden ödeme yapılır. Hesaplanan yeni aylığın eski aylıktan düşük olması halinde, eski aylık esas alınır. Ancak, aylığı kesildikten sonra geçen prim ödeme gün sayıları bu Kanunun 61 inci maddesine göre aylık bağlama oranının tespitinde değerlendirilir. (1)
+25- 17/4/2008 tarihli ve 5754 sayılı Kanun ile değişik 5510 sayılı Kanunla yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde Numaraları: Sosyal Sigortalar Kanununun 142 ve 143 üncü, ek 36 ncı, geçici 20 nci, geçici 81 inci ve geçici 87 nci maddeleri hariç diğer tüm maddeleri.) (2)(3)(5)(6)

@@ -1,0 +1,2 @@
+Geçici Madde 55 – (24/10/1983 - 2934/5 md. ile gelen Geçici 1 inci md. hükmü olup madde numarası teselsül ettirilmiştir.)
+506 Sayılı Kanunun 2100 sayılı Kanunla değişik 3 üncü maddesinin I/A bendinin yürürlüğe girdiği 24/11/1977 tarihinden 1/1/1984 tarihine kadar, özel sektöre ait tarım ve orman işlerinde ücretle ve süreksiz olarak çalışanların 506 sayılı Kanun yönünden sonuçlandırılan sigortalılık işlemleri ile malullük, yaşlılık ve ölüm sigortalarından prim ödeme gün sayılarına ilişkin hakları saklıdır.

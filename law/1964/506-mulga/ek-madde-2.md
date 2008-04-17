@@ -1,0 +1,5 @@
+Ek Madde 2 – (16/6/1975 tarih ve 1912 sayılı Kanunun 7 nci maddesi ile getirilen ek madde 1 hükmü olup teselsül sebebi ile madde numarası değiştirilmiştir.)
+Malüllük, Yaşlılık ve Ölüm Sigortalarından bağlanan aylıklarla İşkazalarıyla Meslek Hastalıkları Sigortasından bağlanan gelirler, aşağıdaki usul ve esaslara göre ayarlanır.
+A) Aylık ve gelirler; asgari ücret, geçim indekslerinde, sigortalıların genel ücret seviyelerinde meydana gelen değişikliklerle Kurumun mali durumu gözönüne alınarak Devlet Memurları emekli aylıklarına uygulanan yükseltme sınırları içinde kalmak kaydıyle Bakanlar Kurulu kararıyla en geç iki yılda bir tesbit edilir.
+B) Aylık ve gelir ayarlamaları; Sosyal Güvenlik Bakanlığınca hazırlanan, Malüllük, Yaşlılık ve Ölüm Sigortası ile İşkazaları ve Meslek Hastalıkları Sigortasının mali durumu ve üç yıllık gelir ve gider tahminlerini kapsayan gerekçeli rapor esas alınarak Bakanlar Kurulunca tesbit edilir.
+C) Ayarlanan aylık ve gelirlerin ödenmesine, Bakanlar Kurulu Kararının yayınlandığı tarihi izleyen üç aylık dönem başından itibaren başlanır.

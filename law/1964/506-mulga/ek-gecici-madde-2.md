@@ -1,0 +1,4 @@
+Ek Geçici Madde 2 – (31/5/2000 tarihli ve 4571 sayılı Kanunun hükmüdür.)
+1/4/2000 ile 31/3/2001 tarihleri arasında alınacak prim ve verilecek ödeneklerin hesabına esas tutulan günlük kazancın alt sınırı 5 000 000 TL olarak uygulanır. Bu alt sınır 1/4/2001 tarihinden itibaren 78 inci maddenin birinci fıkrası hükmüne göre artırılır. Ancak, Bakanlar Kurulu bu artışı 1/4/2001 ile 31/3/2002 dönemi için hedeflenen enflasyonu dikkate alarak yeniden belirlemeye yetkilidir. 1/4/2000 tarihi ile bu Kanunun yayımı tarihi arasındaki döneme ait ödenen fazla primler, sonraki döneme ait ödenen fazla primler, sonraki dönemlerin prim borcuna mahsup edilir.
+780-106
+Bu Kanunun yayımı tarihini takip eden ödeme dönemi başından itibaren 96 ncı madde uyarınca bağlanmış gelir ve aylıklar birinci fıkrada belirtilen alt sınır üzerinden hesaplanır.

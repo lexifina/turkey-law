@@ -1,0 +1,2 @@
+Geçici Madde 60 – (20/3/1985 - 3168/8 md. ile gelen Geçici 1 inci md. hükmü olup madde numarası teselsül ettirilmiştir.)
+Bu Kanunun yürürlüğe girdiği tarihten önce ölen sigortalıların gelir veya aylık bağlanamamış dul kocalardan bu Kanun gereğince gelir veya aylığa hak kazananlara yazılı talepte bulunmaları halinde, bu Kanunun yürürlük tarihini takip eden ödeme dönemi başından itibaren gelir veya aylık bağlanır.

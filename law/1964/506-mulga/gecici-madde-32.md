@@ -1,0 +1,4 @@
+Geçici Madde 32 – (21/6/1973 - 1753/4 md. ile gelen Geçici 1 inci md. hükmü olup madde numarası teselsül ettirilmiştir.)
+Bu kanunun yürürlüğe girdiği tarihten önce ölen sigortalıların, gelir veya aylıkları kesilmiş olan yahut gelir veya aylık bağlanmamış bulunan kimselerinden, bu kanun gereğince gelir veya aylığa hak kazananlarına kanunun yürürlük tarihinden sonra yazılı talepte bulunmaları halinde, bu kanunun yürürlük tarihini takibeden dönem başından itibaren gelir veya aylık bağlanır.
+Bu kanunun 1 inci maddesi ile değiştirilen 23 üncü maddenin V, VI ve VII nci bölümleri ile 2 nci maddesi ile değiştirilen 68 inci maddenin IV, V ve VI ncı bölümleri hükümleri saklıdır.
+Çeşitli sigorta kanunlarına göre eş ve çocuklara ödenmekte olan gelir ve aylıklar aynı dönem başından itibaren bu kanunla değiştirilen 23 ve 68 inci maddelerde belirtilen esaslara uygun olarak bağlanacak gelir ve aylıklar seviyesine getirilir.

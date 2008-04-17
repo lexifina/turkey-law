@@ -1,0 +1,2 @@
+Geçici Madde 27 – (23/10/1969 - 1186/21 md. ile gelen Geçici 5 inci md. hükmü olup madde numarası teselsül ettirilmiştir.)
+Sigortalılık hakkı tanınan görevlerde bulunupta, T.B.M.M. üyesi seçilenler, seçildikleri tarihten itibaren altı ay içinde Sosyal Sigortalar Kurumuna müracaat ettikleri takdirde, bu kanunun sigortalılara tanıdığı haklardan faydalanırlar. Sigorta primlerinde işveren hissesi T.B.M.M. Başkanlığınca ödenir.

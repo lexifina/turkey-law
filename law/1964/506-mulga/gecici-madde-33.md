@@ -1,0 +1,3 @@
+Geçici Madde 33 – (21/6/1973 - 1753/4 md. ile gelen Geçici 2 nci md. hükmü olup madde numarası teselsül ettirilmiştir.)
+991 sayılı Kanunla Sosyal Sigortalar Kanunununa devredilen Askeri Fabrikalar Tekaüt ve Muavenet Sandığı ile Devlet Demiryolları ve Limanları İşletmesi Genel Müdürlüğü İşçileri Emekli sandığı Mevzuatına göre bağlanmış ölüm aylıklarının ödenmesine, 23 üncü maddenin V, VI ve VII nci fıkraları ile 68 inci maddesinin IV, V ve VI ncı fıkralarındaki şartlarla devam olunur.
+Anılan sandıkların Sosyal Sigortalar Kurumuna devrinden önce ölen sandık üyelerinin, aylıkları kesilmiş olan veya aylık bağlanmamış bulunan kimseleri hakkında da geçici 1 inci madde hükmü uygulanır. (1)
