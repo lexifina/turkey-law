@@ -1,0 +1,3 @@
+Madde 5 – (24/8/2000 tarihli ve 619 sayılı Kanun Hükmünde Kararnamenin hükmüdür.)
+Genel Müdür, Kurumun bütün işlerini Yönetim Kurulunun gözetimi altında ilgili mevzuat hükümlerine göre yürütür. Adli ve idari mercilerle gerçek ve tüzel kişilere karşı Kurumu temsil eder. Genel Müdür yardımcıları merkezde, il müdürleri de taşrada kendilerine verilecek yetki dahilinde Kurumu, adli ve idari mercilerle gerçek ve tüzel kişilere karşı temsil ederler.
+Genel Müdür ve Genel Müdür yardımcıları, gerektiğinde, sınırlarını yazılı olarak açakça belirlemek şartıyla yetkilerinden bir kısmını astlarına devredebilirler. Ancak yetki devri, yetki devreden amirin sorumluluğunu kaldırmaz.

@@ -1,0 +1,2 @@
+Madde 54 – (2/9/1971 tarihli ve 1479 sayılı Kanunun hükmüdür.)
+Bu Kanuna göre alınacak sigorta primlerinin ödenmesi için Kurumca sigortalıya yapılacak bildiri üzerine prim borçları ödenmezse, Kurumca düzenlenen ve sigortalının prim borcu miktarını gösteren belgeler resmi dairelerin usulüne göre verdikleri belgeler hükmünde olup, icra ve iflas dairelerince, bunların tabi oldukları hükümlere göre işlem yapılır.

@@ -1,0 +1,3 @@
+Ek Madde 17 – (5/11/1985 tarihli ve 3235 sayılı Kanunun hükmüdür.)
+Sağlık hizmetlerinin gerektirdiği giderler ek 11 inci maddede sayılan kuruluşların yataklı tedavi kurumlarında yapılacak muayene, tedavi, tahlil, müdahale, ameliyat tedavilerine ait fiyat tarifeleri esas alınarak Kurum tarafından ilgili kuruluşlara ödenir. Ancak, diğer sağlık kuruluşlarında yapılan tedavilerde, Sağlık ve Sosyal Yardım Bakanlığının resmi sağlık kuruluşları için tespit ettiği ücret tarifeleri esas alınır.
+Sağlık hizmetlerinin gerektirdiği giderler, Sağlık Bakanlığının yataklı tedavi kurumları için belirlediği fiyat tarifesini geçemez.

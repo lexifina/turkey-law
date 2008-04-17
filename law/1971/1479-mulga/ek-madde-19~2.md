@@ -1,0 +1,2 @@
+Ek Madde 19 – (24/8/2000 tarihli ve 619 sayılı Kanun Hükmünde Kararnamenin hükmüdür.)
+Kurumu kayıt ve tescili yapıldığı halde, kayıt ve tescil tarihinden itibaren üç yıl ve daha fazla sureyle hiç prim ödememiş olanların, sigortalılık işlemleri, sigortalılık hakları saklı kalmak kaydıyla durdurulur. Ancak, sigortalıların bu süreye ilişkin primleri, ödeme tarihinde bulundukları gelir basamağının prim tutarı üzerinden hesaplanarak tahsil edilir ve haklarında ödeme tarihinde yürürlükte bulunan hükümler uygulanır.

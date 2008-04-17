@@ -1,0 +1,4 @@
+Madde 9 – (24/8/2000 tarihli ve 619 sayılı Kanun Hükmünde Kararnamenin hükmüdür.)
+Yönetim Kurulu, haftada en az bir defa ven en az dört üye ile toplanır. Toplantıya katılan üyelerin çoğunluğu ile karar verilir. Oylarda eşitlik halinde, Başkanın bulunduğu taraf çoğunlukta sayılır.
+Mazeretsiz olarak Yönetim Kurulu toplantılarına katılmayan üyelere yapılan ödemelerden yönetmelik hükümlerine göre kesinti yapılır. Bir takvim yılı içinde birbirini izleyen 4 hafta veya yapılan toplantı sayısının % 20’sinden fazlasına mazeretsiz olarak katılmayanların Yönetim Kurulu üyeliği kendiliğinden sona erer.
+Toplantılara iştirak eden Yönetim Kurulu Başkan ve üyelerine, bu görevleri nedeniyle 399 sayılı Kanun Hükmünde Kararnamenin 34 üncü maddesine göre kamu iktisadi teşebbüsleri yönetim kurulu başkan ve üyelerine ödenen miktarda aylık ücret ve diğer ödemeler verilir. Yolluklarında ise, 6245 sayılı Harcırah Kanunu hükümleri uygulanır.

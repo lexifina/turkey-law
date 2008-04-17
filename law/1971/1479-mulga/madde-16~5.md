@@ -1,0 +1,3 @@
+Kurum gelirlerinin değerlendirilmesi
+Madde 16 – (24/7/2003 tarihli ve 4956 sayılı Kanunun hükmüdür.)
+Kurumun uyguladığı kanunlardan elde ettiği her türlü gelirlerin, riskin dağıtılması ilkesine göre Kurum lehine en yüksek getiriyi sağlayacak şekilde yönetilmesi esastır. Kurum gelirleri ve zorunlu ödemeler için bulundurulması gereken nakit ve benzeri varlıkların değerlendirilmesine ilişkin usul ve esaslar Kurum, Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı, Hazine Müsteşarlığı, Türkiye Cumhuriyet Merkez Bankası ve Sermaye Piyasası Kurulu Başkanlığının müştereken hazırlayacakları ve Bakanlar Kurulunca çıkarılacak yönetmelikle belirlenir.

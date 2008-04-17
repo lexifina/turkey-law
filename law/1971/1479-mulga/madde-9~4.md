@@ -1,0 +1,5 @@
+Toplantı ve karar sayısı:
+Madde 9 – (2/9/1971 tarihli ve 1479 sayılı Kanunun hükmüdür.)
+Yönetim Kurulu, haftada en az bir defa ve en az dört üye ile toplanır. Toplantıya katılan üyelerin çoğunluğu ile karar verilir. Oylarda eşitlik halinde, Başkanın bulunduğu taraf çoğunlukta sayılır.
+Mazeretsiz olarak Yönetim Kurulu toplantılarına katılmayan üyelere yapılan ödemelerden yönetmelik hükümlerine göre kesinti yapılır. Bir takvim yılı içinde birbirini izleyen dört hafta veya yapılan toplantı sayısının % 20'sinden fazla sayıda toplantıya mazeretsiz katılmayanların Yönetim Kurulu üyeliği kendiliğinden sona erer.
+Toplantıya iştirak eden Yönetim Kurulu Başkanına ve genel müdür yardımcısı üyeye 22.1.1990 tarihli ve 399 sayılı Kanun Hükmünde Kararnamenin 34 üncü maddesine göre Kamu İktisadi Teşebbüsleri yönetim kurulu başkanı ve üyelerine ödenen miktarlarda aylık ücret ödenir. Diğer üyelere ise yönetim kurulu üyesi kadrosunun karşılığı olan aylık ve diğer ödemeler, yolluklarda ise 10.2.1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümleri uygulanır.

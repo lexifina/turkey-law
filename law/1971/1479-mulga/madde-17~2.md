@@ -1,0 +1,3 @@
+Kurum malları:
+Madde 17 – (24/7/2003 tarihli ve 4956 sayılı Kanunun hükmüdür.)
+Kurumun ticaret ve işlem bağlantılarından dolayı iflâs hükümleri yürümez. Kurumun alacakları Devlet alacağı derecesinde imtiyazlıdır. Kurum malları 2004 sayılı İcra ve İflâs Kanunu, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun ve 765 sayılı Türk Ceza Kanunu bakımından Devlet malı sayılır. Taşınır ve taşınmaz malları, bankalardaki mevduatları ile her türlü hak ve alacakları haczedilemez. Kurum her türlü dava ve icra işlemlerinde teminat yatırmak mükellefiyetinden muaftır. Kurumun malları, paraları ve para hükmündeki evrak ve senetleri ile diğer mevcutlarına karşı işlenen suçlar Devlet mallarına karşı veya Devlete ait kağıt ve belgeler üzerinden işlenen suçlardan sayılır.

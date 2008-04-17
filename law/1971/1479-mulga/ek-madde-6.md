@@ -1,0 +1,6 @@
+Ek Madde 6 – (6/3/1981 tarihli ve 2423 sayılı Kanunun hükmüdür.)
+BAĞ - KUR ile münasebeti olan bankalar; Kurum adına tahsil ettikleri sigorta primlerini ve her ne nam altında olursa olsun Kuruma olan diğer borçlarını BAĞ-KUR hesaplarına onbeş gün içerisinde ve tam olarak intikal ettirmedikleri takdirde, Kurum ile olan anlaşmalarda ve diğer kanunlarda kayıtlı haklar saklı kalmak şartıyla ayrıca, gecikilen süreyle orantılı olarak, Devlet bankalarının asgari bir yıllık vadeli mevduata ödedikleri faizi de Kuruma öderler.
+Uygulanacak faiz haddinin tespitinde anlaşmazlık halinde Merkez Bankasının bildireceği oran esas alınır.
+Ek Madde 9 fıkra bir cümle bir– (14/3/1985 tarihli ve 3165 sayılı Kanunun hükmüdür.)
+1479 sayılı Kanun ve aynı Kanunda değişiklik yapan kanunlara göre sigortalı olanlar, askerlikte er olarak geçen hizmet süreleri ile yedek subay okulunda geçen sürelerinin tamamını borçlanabilirler.
+Ek Madde 13 son fıkra-(25/8/1999 tarihli ve 4447 sayılı Kanunun hükmüdür.) Ağız protezleri hariç, sigortalının bu Kanuna tabi sigortalılığının başladığı tarihten önce, sigortalı ve hak sahiplerinde mevcut olduğu tespit edilen hastalık ve arızalardan dolayı bedeli Kurumca karşılanacak olan ortez ve protezler ek 18 inci maddeye göre hazırlanacak yönetmelikte belirlenir.

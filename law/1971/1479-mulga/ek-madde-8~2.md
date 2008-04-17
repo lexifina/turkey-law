@@ -1,0 +1,10 @@
+Ek Madde 8 – (24/8/2000 tarihli ve 619 sayılı Kanun Hükmünde Kararnamenin hükmüdür.)
+Kurumun prim tahsilatı, sigortalama, tahsis, sağlık sigortası uygulaması dahil bütün işlemleri elektronik ortamda veya bilgi işlem ortamında yapılabilir ve arşivlenebilir. Kurum her türlü işlemlerini internet de dahil manyetik ortamda yapabilir, elektronik imza kullanabilir. Bu şekilde arşivlenen belgeler ilgilisine iade veya imha edilir. Elektronik veya bilgi işlem ortamında yapılan işlemlerin ve imha veya ilgilisine iade edilen belgelerin tespit ve tevsikinde bilgi işlem kayıtları esas alınır. Kurum tarafından bilgi işlem ortamında tutulan bilgiler adli ve idari merciler nezdinde geçerlidir. Bilgi işlem kayıtlarına itiraz edilmesi halinde, ispat mükellefiyeti itiraz edene aittir.
+Sigortalıların Kuruma yaptıkları ve hatalı olmayan ödemelere ilişkin belgelerden elektronik ortama veya bilgi işlem kayıtlarına intikal ettirilmiş olanlar, ödemenin yapıldığı tarihi takip eden takvim yılından başlayarak bir yıl, kontrol ve denetimi yapılmak kaydıyla sağlık sigortası uygulamasına ilişkin fatura, reçete gibi belgeler Kuruma ibraz tarihinden itibaren beş yıl süre ile saklanır ve bu sürenin sonunda imha edilir.
+Bu maddenin uygulanması ile ilgili usul ve esaslar yönetmelikle belirlenir,
+Askerlik borçlanması:
+Ek Madde 9 fıkra iki ve üç– (24/8/2000 tarihli ve 619 sayılı Kanun Hükmünde Kararnamenin hükmüdür.)
+(Değişik : 24/8/2000 -KHK- 619/27 md.) Borçlanma primleri sigortalının talep tarihinde bulunduğu basamağın prim tutarları üzerinden hesaplanır ve talep tarihini takip eden ay başından itibaren üç ay içinde ödenir. Borçlanma primleri süresi içinde ve tam olarak ödenmezse borçlanma geçersiz sayılır.
+(Değişik : 24/8/2000 -KHK- 619/27 md.) Borçlandırılan süre, malullük ve yaşlılık aylığı bağlanmasında, borçlanma primlerinin tam olarak ödendiği tarihten itibaren bir yıl sonra sigortalılık süresi olarak değerlendirilir.
+Bu Kanuna göre tespit edilen sigortalılığın başlangıç tarihinden önceki süreler için borçlandırılma halinde sigortalılığın başlangıç tarihi borçlandırılan süre kadar geriye götürülür.
+1148-18

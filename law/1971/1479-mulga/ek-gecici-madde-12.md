@@ -1,0 +1,2 @@
+Ek Geçici Madde 12 – (14/4/1982 tarih ve 2654 sayılı Kanunla eklenen hükmüdür.)
+1/10/1972 tarihinden itibaren, kanunla kurulu meslek kuruluşlarına kayıtlı olmakla beraber; bu kuruluşların kayıtlarının geçersizliği sebebiyle Kurumca sigortalı sayılmayanlar, bu süreler içinde kendileri nam ve hesabına bağımsız çalışmaları sonucu gelir vergisi mükellefi iseler sigortalılıkları geçerli sayılır. Vergi mükellefi olmamaları halinde ise, bu Kanunun yürürlüğe girdiği tarihe kadar Kuruma kayıt ve tescilli bulunulan süreler isteğe bağlı sigortalılık süresi olarak değerlendirilir.

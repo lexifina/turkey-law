@@ -1,0 +1,6 @@
+Yaşlılık aylığının hesaplanması:
+Madde 36 – (25/8/1999 tarihli ve 4447 sayılı Kanunun hükmüdür.)
+Yaşlılık aylığı, sigortalının, sigortalılık süresi içinde aylar itibariyle prim ödediği gelir basamaklarının, bu basamaklardaki prim ödeme süreleri de dikkate alınarak, aylık başlanğıç tarihinde yürürlükte bulunan gelir tablosu üzerinden hesaplanacak ağırlıklı ortalamanın aylık bağlama oranı ile çarpılması suretiyle hesaplanır.
+Aylık bağlama oranı, sigortalının toplam sigortalılık süresinin ilk on tam yılının her bir yılı için %3,5 takip eden onbeş tam yılın her bir yılı için %2 ve yirmibeş yıldan fazla her bir tam yıl için %1,5 oranlarının toplamıdır.
+Birinci ve ikinci fıkralara göre hesaplanan yaşlılık aylığı, ayrıca, gelir tablosunun son olarak değiştirildiği ay ile aylık başlangıç tarihi arasında geçen her ay için, Devlet İstatistik Enstitüsü tarafından açıklanan en son temel yıllı kentsel yerler tüketici fiyatları indeksindeki değişim oranları kadar artırılır. (1)
+Bu Kanuna göre bağlanan yaşlılık, malüllük ve ölüm aylıkları, her ay bir önceki aya göre Devlet İstatistik Enstitüsü tarafından açıklanan en son temel yıllı kentsel yerler tüketici fiyatları indeksindeki değişim oranları kadar artırılır. (1)

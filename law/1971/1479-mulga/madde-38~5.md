@@ -1,0 +1,4 @@
+Yaşlılık aylığının kesilmesi:
+Madde 38 – (16/10/2007 tarihli ve 5698 sayılı Kanunun hükmüdür.)
+Bu Kanuna göre yaşlılık aylığı alanların istekleri halinde, aylıkları kesilerek son defa prim ödedikleri basamaktan malullük, yaşlılık ve ölüm sigortaları ile sağlık sigortası primi ödemeye devam edebilirler. Bunların tekrar yaşlılık aylığı talep etmeleri halinde, yeniden bağlanacak yaşlılık aylığı, talep tarihini takip eden ödeme döneminden başlanarak ödenir.
+Yeni aylık, eski aylığın kesildiği tarihten sonra aylıklara yapılan artışlar uygulanarak birinci fıkrada belirtilen aylık başlangıç tarihi itibariyle bulunan tutarı ile emeklilik sonrası çalışmaya ait kısmî aylığın toplamından oluşur. Emeklilik sonrası çalışmaya ait kısmî aylık, talep tarihindeki emeklilik öncesi ve sonrası prim ödeme gün sayısı toplamı üzerinden, yürürlükteki hükümlere göre hesaplanan aylığın emeklilik sonrası prim ödeme gün sayısına orantılı bölümü kadardır.

@@ -1,0 +1,3 @@
+Ek Madde 17 – (24/8/2000 tarihli ve 619 sayılı Kanun Hükmünde Kararnamenin hükmüdür.)
+Yatarak veya ayakta yapılan tedavilerin fiyatlandırılması, Kurumca karşılanacak ilaçların cins ve miktarı, ödenecek ortez, protez ve iyileştirme vasıtaları bedellerinin tespitine ilişkin usul ve esaslar Kurumca belirlenir. Ayrıca, sağlık yardımlarından faydalanan sigortalılar için ihtiyaç duyulan ilaç dışı iyileştirici madde, araç ve gereçler ile Sağlık Bakanlığınca ithal ruhsatı verilmiş, eczanelerde satış izni bulunan veya bulunmayan ilaçlar Kurumca temin edilebilir
+Sağlık hizmetlerinin gerektirdiği giderler, Sağlık Bakanlığının yataklı tedavi kurumları için belirlediği fiyat tarifesini geçemez.

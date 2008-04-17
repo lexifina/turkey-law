@@ -1,0 +1,3 @@
+Madde 7 – (2/9/1971 tarihli ve 1479 sayılı Kanunun hükmüdür.)
+Kurum görevlileri hakkında kamu iktisadi devlet teşekkülleri görevlilerine uygulanan yasalar uygulanır. (1)
+(Değişik : 19/4/1979 - 2229/2 md.) Kurum, Ankara dışındaki icra, takip ve dava işleri için genel hükümlere göre vekalet akdi ile lüzum görülecek sayıda avukat tutabilir. Kurum bilgi işlem uzmanlığı ile teknik hizmetler sınıfından uzmanları Genel Müdürün önerisi ve Yönetim Kurulunun kararı ile sözleşmeli olarak çalıştırabilir. Bunlara ödenecek ücretlerin üst sınırı Bakanlar Kurulunca kararlaştırılır. Gerektiğinde Bakanlar Kurulunca alınacak karar üzerine yabancı uzmanlar da çalıştırabilir.

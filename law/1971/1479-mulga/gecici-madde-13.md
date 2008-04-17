@@ -1,0 +1,2 @@
+Geçici Madde 13 – (24/8/2000 tarihli ve 619 sayılı Kanun Hükmünde Kararnamenin hükmüdür.)
+Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihte eğitim durumları ile diğer şartları taşıyan personel, Kurumda en az üç yıl fiili hizmeti bulunmak ve olumsuz sicil almamış olmak kaydıyla, açılacak ilk uzman yardımcılığı sınavına yaş şartı aranmaksızın girebilir. Açılacak ilk uzman yardımcılığı sınavına başvurmayanlar veya başvurduğu halde sınava girmeyenler bu haklarını kaybederler. Sınavda başarılı olanlar Sosyal Sigorta Uzman Yardımcılığı kadrosuna atanırlar.

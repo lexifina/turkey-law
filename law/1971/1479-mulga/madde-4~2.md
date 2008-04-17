@@ -1,0 +1,2 @@
+Madde 4 – (24/8/2000 tarihli ve 619 sayılı Kanun Hükmünde Kararnamenin hükmüdür.)
+Kuruma Genel Müdür ve Genel Müdür yardımcısı olarak atanacaklarda, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde sayılan şartlara ek olarak, en az 12 yıl fiili hizmeti bulunmak ve en az 4 yıllık eğitim veren fakülte ile bunlara denkliği Yükseköğretim Kurulu Başkanlığı tarafından onaylanmış yabancı fakülte veya yüksek okullardan mezun olmak şartları aranır.
