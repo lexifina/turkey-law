@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-04-24",
+  "issue": "26856",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "SINIR TESPİT KARARLARI",
+  "title": "İçişleri Bakanlığına Ait 2 Adet Sınır Tespit Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/04/20080424-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/04/20080424.htm",
+  "index_sha256": "7db5bf8bc41e5580e2daa3a60711f9c698672609292ae0f18524be5caca61edd",
+  "index_header": "24 Nisan 2008 ... 26856 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
