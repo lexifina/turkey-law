@@ -1,0 +1,13 @@
+{
+  "number": "08-30/373-123",
+  "type": "Rekabet İhlali",
+  "decision_date": "2008-04-24",
+  "publication_date": "2008-07-18",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=e21ba6a0-ec49-47fa-9710-14fc78fe5304",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=804",
+  "pdf_sha256": "00affeda6daca46cf3c6cd0a26fbb353009900a5a3c237b4642c6e40540824d9",
+  "pdf_bytes": "235322",
+  "pages": "15",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
