@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "TF-1/2008-1",
+  "source_id": 899,
+  "date": "2008-04-24",
+  "title": "Transfer Fiyatlandırması, Kontrol Edilen Yabancı Kurum ve Örtülü Sermayeye İlişkin Formun Doldurulması hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/899",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "9f62541e41817c0f002786e7196d85fee926af739cf292d133e875a38479320b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
