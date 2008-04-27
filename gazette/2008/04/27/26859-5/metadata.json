@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-04-27",
+  "issue": "26859",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Ticari Kalite Denetim Yeterlik Belgesi İptaline İlişkin Tebliğ (No: 2008/38)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/04/20080427-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/04/20080427.htm",
+  "index_sha256": "519b1033e2b766ae9533d14b7fb6403067776d7772e31fc2af05a98291a0e8f7",
+  "index_header": "27 Nisan 2008 ... 26859 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
