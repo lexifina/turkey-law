@@ -1,0 +1,5 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Soruşturma
+MADDE 1 – (1) Çin Halk Cumhuriyeti (ÇHC) menşeli ve 9613.10.00.00.00, 9613.20.10.00.00, 9613.20.90.00.00, 9613.90.00.00.11 GTİP’leri altında tasnif edilen "Tekrar doldurulamayan gazlı cep çakmakları, Doldurulabilen ve ateşleme sistemi elektrikli olan gazlı cep çakmakları, Doldurulabilen ve diğer ateşleme sistemli olan gazlı cep çakmakları ve Plastikten gaz haznesi (gaz içersin içermesin)" için 8/5/2002 tarihli ve 24749 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2002/4 sayılı Tebliğ ve 20/11/2004 tarihli ve 25646 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2004/25 sayılı Tebliğ ile dampinge karşı vergi yürürlüğe konulmuştur.
+(2) Yerli üretim dalı Vietnam’dan yapılan ithalatın dampinge karşı önlemi etkisiz kıldığına yönelik şikayette bulunmuştur. Bahse konu şikayet üzerine 13/5/2007 tarihli ve 26521 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2007/8 sayılı Tebliğ ile başlatılan önlemlerin etkisiz kılınmasına ilişkin soruşturma tamamlanmıştır.

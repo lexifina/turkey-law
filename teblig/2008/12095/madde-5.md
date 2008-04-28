@@ -1,0 +1,8 @@
+İKİNCİ KISIM
+Önlemlerin Etkisiz Kılınmasına İlişkin Belirlemeler
+Genel
+MADDE 5 – (1) Soruşturma konusu maddenin Vietnam’dan 2004 yılında hiç ithalatı yapılmamasına rağmen; 2005, 2006 ve 2007 yıllarında miktar olarak sırasıyla 3.130.000, 20.366.000 ve 14.859.760 adet/yıl tutarında ithalat gerçekleşmiştir. Soruşturmanın açılması ve soruşturma konusu ürünün "İthalatçı Beyanı" uygulaması kapsamında Müsteşarlıkça takibe alınması ile birlikte 2008 yılının ilk iki aylık döneminde Vietnam menşeli soruşturma konusu ürün ithalatı durmuştur.
+(2) Soruşturma kapsamında işbirliğinde bulunan Vietnam’da mukim Hoa Hung Company Limited firması Türkiye’ye 2006 ve 2007 yıllarında doldurulabilen gazlı cep çakmağı (diğer ateşleme sistemli) ihraç etmiştir.
+(3) Soruşturma kapsamında kendisine soru formu gönderilen ancak hiçbir cevap alınamayan Avusturya’da mukim Werbe Prasent Willander GmbH firması ise 2005 yılında tekrar doldurulamayan gazlı cep çakmağı ihraç etmiştir. Söz konusu firmanın takip eden yıllarda soruşturma konusu ürüne ilişkin herhangi bir ihracatı bulunmamaktadır.
+(4) Soruşturma kapsamında kendisine gönderilen soru formuna cevap vermeyen ve işbirliğine gelmeyen Hollanda’da mukim Unilight B.V. firması 2006 ve 2007 yıllarında tekrar doldurulamayan gazlı cep çakmağını Vietnam menşeli olarak beyan edip, Türkiye’ye ihraç etmiştir.
+(5) Soruşturma döneminde Vietnam menşeli olarak beyan edilip Türkiye’ye ithal edilen cep çakmağının miktar bazında % 52’lik kısmı için soruşturma kapsamında işbirliğine gelinmemiş, bu nedenle Türkiye’ye yönelik satış ve üretim verileri doğrulanamamıştır. Bu durum dampinge karşı verginin etkisiz kılındığını göstermektedir.
