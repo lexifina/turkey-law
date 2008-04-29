@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30115",
+  "decision_date": "2008-04-29",
+  "source_id": 1281,
+  "chamber": "5",
+  "file_number": "29482",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1281/",
+  "source_sha256": "7275f1d863b254f6da901bf3821dba7baefb7963931d0409e67fac4cf5c24520",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
