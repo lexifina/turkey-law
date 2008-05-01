@@ -1,0 +1,3 @@
+Uygulama
+MADDE 9 – (1) Gümrük idareleri, karar maddesinde belirtilen Endonezya, Malezya ve Çin Tayvanı menşeli olarak beyan edilen ve/veya Endonezya, Malezya ve Çin Tayvanı çıkışlı soruşturma konusu ürünlerin Türkiye’ye ithalatında, söz konusu maddede belirtilen miktarda teminat alırlar.
+(2) Çin Tayvanı’nda mukim King Slide Works Co. Ltd., Sun Chain Trading Co. Ltd., Sun Chain Metal Industry Co. Ltd., Sen Chine Industry Co. Ltd., Sheng Shye Industry Co. Ltd. ve Gslide Corporation firmaları 8302.42.00.00.00 GTİP’i altında tasnif edilen yalnız "bilyalı çekmece rayları" için söz konusu geçici önlemden muaftır.
