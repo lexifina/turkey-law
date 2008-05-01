@@ -1,0 +1,2 @@
+Soruşturma faaliyetleri
+MADDE 19 – (1) Fon Denetçileri, Fon hizmet birimleri ve Fon şirketlerinde ceza ve/veya disiplin suçu niteliğindeki davranış ve fiillere ilişkin olarak verilen görev gereği soruşturma faaliyetlerinde bulunurlar. Türk Ceza Kanununa veya ceza hükmü taşıyan özel kanunlara göre suç sayılan fiillerle ilgili olarak adli soruşturma raporu; disiplin suçu niteliğindeki tutum ve fiillere ilişkin olarak disiplin soruşturma raporu düzenlenir.

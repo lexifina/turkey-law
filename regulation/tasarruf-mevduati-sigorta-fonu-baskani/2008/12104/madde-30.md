@@ -1,0 +1,2 @@
+İşlerin devri
+MADDE 30 – (1) Fon Denetçileri, işleri ancak Daire Başkanlığının yazılı talimatı ile başka bir Fon Denetçisine devredebilirler. Devredilecek işler için, devri yapacak olan Fon Denetçisi tarafından bir "devir notu" hazırlanarak, o güne kadar yapılmış çalışmaların boyutu ve tespit edilmiş hususlar ile varılan kanaat hakkında işi devralan Fon Denetçisi bilgilendirilir ve devredilen iş ile ilgili belgeler bir dizi pusulasına ekli olarak teslim edilir.

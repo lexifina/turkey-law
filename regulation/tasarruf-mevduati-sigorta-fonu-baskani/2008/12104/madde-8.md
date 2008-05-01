@@ -1,0 +1,4 @@
+Fon denetçilerinin sorumlulukları
+MADDE 8 – (1) Fon Denetçileri görevlerini yeterlilik, mesleki etik, objektiflik, ekip uyumu ve gizlilik ilkeleri doğrultusunda azami dikkat ve özen içerisinde yerine getirmekle ve bunları sağlamaya yönelik mesleki bilgi ve yetkinlikleri edinmekle yükümlüdürler.
+(2) Kendilerine tevdi edilen görevleri, konuların arz ettiği önem ve aciliyetin yanı sıra zamanaşımı ve benzeri hak düşürücü faktörleri de dikkate alarak oluşturdukları öncelik sırasına göre eksiksiz olarak sonuçlandırmakla yükümlüdürler.
+(3) Denetçiler, icraya müdahale edemez, evrak, defter ve kayıtlar üzerine, evrakın görüldüğünden başka bir anlamı içerecek şekilde şerh düşemez, ek ve düzeltme yapamaz, denetimlerine tabi olanlar ile onların aile efradı ve Fon ile iş ilişkileri bulunan kimselerle menfaat ilişkisinde bulunamazlar, görevli olarak gidecekleri yerleri, yapacakları işleri ve öğrendikleri sırları açıklayamaz.

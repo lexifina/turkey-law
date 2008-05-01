@@ -1,0 +1,2 @@
+Bilgi ve belge isteme yetkisi
+MADDE 9 – (1) Fon Denetçileri, görevleriyle ilgili konularda ihtiyaç duyacakları bilgi ve belgeleri ilgili kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerden, 5411 sayılı Bankacılık Kanununun 123 üncü maddesinde düzenlenen Fonun bilgi ve belge isteme yetkisi kapsamında talep ederler. Bu kapsamda kamu kurum ve kuruluşları ile yapılan yazışmalar Daire Başkanlığı aracılığı ile gerçekleştirilir.

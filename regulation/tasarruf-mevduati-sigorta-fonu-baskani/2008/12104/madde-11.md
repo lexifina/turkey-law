@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+İç Denetim Faaliyeti
+İç denetim faaliyetinin amacı
+MADDE 11 – (1) İç denetim faaliyeti; Fonun faaliyetlerinin amaç ve politikalara, programlara, stratejik planlara, performans programlarına ve mevzuata uygun olarak planlanmasını ve yürütülmesini; kaynakların etkili, ekonomik ve verimli kullanılmasını; bilgilerin güvenilirliğini, bütünlüğünü ve zamanında elde edilebilirliğini sağlamayı amaçlar. İç denetim faaliyeti sonucunda, Fon varlıklarının güvence altına alınması, iç kontrol sisteminin etkinliği ve risklerin asgarîye indirilmesi için Fon faaliyetlerini olumsuz etkileyebilecek risklerin tanımlanması, gerekli önlemlerin alınması, sürekli gözden geçirilmesi ve sayısallaştırılması konularında yönetime önerilerde bulunulur.
+(2) İç denetim, nesnel güvence sağlamanın yanında, risk yönetimi, kontrol ve yönetim süreçlerini geliştirmede Fona yardımcı olmak üzere bağımsız ve tarafsız bir danışmanlık hizmeti sağlar. Danışmanlık hizmeti, Fonun hedeflerini gerçekleştirmeye yönelik faaliyetlerinin ve işlem süreçlerinin sistemli ve düzenli bir biçimde değerlendirilmesi ve geliştirilmesine yönelik önerileri kapsar.

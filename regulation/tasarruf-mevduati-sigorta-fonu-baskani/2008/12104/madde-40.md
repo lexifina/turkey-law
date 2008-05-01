@@ -1,0 +1,4 @@
+Yeterlik sınav sonucunun değerlendirilmesi ve atama
+MADDE 40 – (1) Yazılı ve sözlü sınav notlarının aritmetik ortalaması yeterlik sınavı başarı notu olup, yüz tam puan üzerinden en az yetmiş puan ve üzerinde alanlar başarılı sayılır. Yeterlik sınav komisyonu başarılı ve başarısız olanların listesini sözlü sınavın bittiği tarihi takip eden 5 iş günü içerisinde Daire Başkanlığına teslim eder. Daire Başkanlığı tarafından Destek Hizmetleri Daire Başkanlığına gerekli bildirim yapılır.
+(2) Yeterlik sınavında başarılı olanların ataması başarı sırasına göre yapılır.
+(3) Yeterlik sınavında başarılı olan Fon Denetçi Yardımcısı, Başkanın onayı ile durumlarına uygun Fon Denetçisi kadrolarına atanır ve bunlara 5411 sayılı Kanunun 121 inci maddesi uyarınca bir defaya mahsus olmak üzere bir derece yükseltilmesi uygulanır.

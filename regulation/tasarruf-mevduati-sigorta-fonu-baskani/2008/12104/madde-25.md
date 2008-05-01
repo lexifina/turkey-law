@@ -1,0 +1,2 @@
+Faaliyet raporu
+MADDE 25 – (1) Yıllık faaliyet raporunda; program dışı yapılanlar da dahil denetim faaliyetleri, Daire Başkanlığının performansı, tespit ve önerileri, önerilerden onaylanmayan ve uygulanmayanlar varsa onaylanmama ve uygulanmama nedenleri, Fon Denetçilerinin eğitimi, yönetime verilen danışmanlık hizmetleri ve diğer faaliyet sonuçları ile ilgili bilgiler yer alır. Fonun yönetim ve kontrol sisteminin genel değerlendirmesi, önemli riskler, yönetim ve kontrol sorunları ve bunlara ilişkin önerilere de faaliyet raporunda yer verilir.

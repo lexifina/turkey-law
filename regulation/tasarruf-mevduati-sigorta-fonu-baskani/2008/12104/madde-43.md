@@ -1,0 +1,2 @@
+Yükselme ve denetçilik kıdemi
+MADDE 43 – (1) Yeterlik sınavını başarıyla tamamlayarak atanan Fon Denetçilerinin yükselmeleri genel hükümlere göre yapılır. Fon Denetçiliği kıdeminde esas, Fon Denetim hizmetlerinde ücretli ve ücretsiz tüm kanuni izinler de dahil olmak üzere geçirilen süredir. Hizmet süreleri aynı olanlar için kıdem durumu; Fon Denetçilerinde yeterlilik sınavındaki, Fon Denetçi Yardımcılarında ise giriş sınavındaki başarı derecelerine göre tespit edilir.

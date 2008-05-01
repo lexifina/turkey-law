@@ -1,0 +1,2 @@
+Soruşturma izni incelemeleri
+MADDE 20 – (1) Fon personeli ile Fonun yönetim ve denetiminde bulunan kuruluşlarda görevli diğer personel hakkında görevleriyle bağlantılı olarak işledikleri iddia edilen suçlara ilişkin olarak yürütülecek soruşturmalar için adli makamlarca 5411 sayılı Kanunun 127 nci maddesi uyarınca Fondan talep edilen soruşturma izinleriyle ilgili bildirimlere dayanak teşkil edecek incelemeler sonucunda soruşturma izni inceleme raporu düzenlenir.

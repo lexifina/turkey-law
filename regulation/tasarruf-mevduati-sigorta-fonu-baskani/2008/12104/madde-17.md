@@ -1,0 +1,2 @@
+İç denetimin risk odaklı yapılması
+MADDE 17 – (1) İç denetim faaliyetlerinin risk odaklı olarak yürütülmesi esastır. Fonun maruz kalabileceği risklerin tespit edilerek sürekli ölçülmesi ve değerlendirilmesi suretiyle, Fon Strateji Geliştirme Dairesi Başkanlığı nezdinde toplanan ve konsolide edilen raporlardan da yararlanılarak risk odaklı stratejik denetim planı ve yıllık denetim programı hazırlanır. İç denetim bu plan ve programa uygun olarak yapılır.

@@ -1,0 +1,25 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Fon: Tasarruf Mevduatı Sigorta Fonunu,
+b) Başkan: Tasarruf Mevduatı Sigorta Fonu Başkanını/Kurul Başkanını,
+c) Kurul: Tasarruf Mevduatı Sigorta Fonu Kurulunu,
+ç) Daire Başkanlığı: Tasarruf Mevduatı Sigorta Fonu Denetim Daire Başkanlığını,
+d) Daire Başkanı: Tasarruf Mevduatı Sigorta Fonu Denetim Daire Başkanını,
+e) Fon Denetçisi: Tasarruf Mevduatı Sigorta Fonu Denetçisini,
+f) Fon Denetçi Yardımcısı: Tasarruf Mevduatı Sigorta Fonu Denetçi Yardımcısını,
+g) Fon Personeli: Fonda kadro karşılığı sözleşmeli olarak çalışan; ücret, mali ve sosyal haklar dışında her türlü hak ve yükümlülükleri yönünden 657 sayılı kanuna tabi personeli,
+ğ) İdari Personel: Fonda idari hizmet sözleşmesi ile çalışan, emeklilik ve sosyal güvenlik açısından 506 sayılı Kanuna tabi personeli,
+h) İç kontrol: Fonun amaçlarına, belirlenmiş politikalara ve mevzuata uygun olarak faaliyetlerin etkili, ekonomik ve verimli bir şekilde yürütülmesini, varlık ve kaynakların korunmasını, muhasebe kayıtlarının doğru ve tam olarak tutulmasını, malî bilgi ve yönetim bilgisinin zamanında ve güvenilir olarak üretilmesini sağlamak üzere idare tarafından oluşturulan organizasyon, yöntem ve süreçle iç denetimi kapsayan malî ve diğer kontroller bütününü,
+ı) İç denetim: Fonun çalışmalarına değer katmak ve geliştirmek için kaynakların ekonomiklik, etkililik ve verimlilik esaslarına göre yönetilip yönetilmediğini değerlendirmek ve rehberlik yapmak amacıyla yapılan bağımsız, nesnel güvence sağlama ve danışmanlık faaliyetini,
+i) Soruşturma: Fon birimleri ve Fon şirketlerinde görev yapan her türlü personelin ceza ve/veya disiplin suçu niteliğindeki davranış ve fiillerine ilişkin olarak gerçekleştirilen soruşturma faaliyetlerini,
+j) İnceleme: İç denetim ve soruşturma faaliyetleri dışında kalan görevlendirmeler kapsamında yapılan denetim faaliyetlerini,
+k) Denetim: Tasarruf Mevduatı Sigorta Fonu Denetim Daire Başkanlığınca gerçekleştirilen inceleme, soruşturma ve iç denetim faaliyetlerinin tamamını,
+l) Denetim rehberleri: Denetim faaliyetlerine ilişkin olarak Denetim Daire Başkanlığı tarafından çıkarılan rehberleri,
+m) Fon şirketi: Hisseleri veya yönetim ve denetimi Fon tarafından devralınan şirketler ile bunların iştiraklerini,
+n) Risk: Fonun amaçları ile stratejik hedeflerine ulaşmasına ve görevlerinin ifasına engel olabilecek veya beklenmeyen zararlara yol açabilecek durum ya da olayları,
+o) Risk Yönetimi: Potansiyel risklerin sistematik olarak değerlendirilerek, olası zararlarının etkisini azaltıcı yönde verilere dayalı karar vermeyi sağlayan yönetimi,
+ö) Risk Analizi: Kamu idarelerine, kaynaklarına ve varlıklarına yönelik risklerin değerlendirilmesini,
+p) Etik İlkeler: Tasarruf Mevduatı Sigorta Fonu Denetim Daire Başkanlığının ilgili mevzuat ve uluslararası denetim standartlarını dikkate alarak belirleyeceği etik ilkeleri,
+r) Mesleki Standartlar: Tasarruf Mevduatı Sigorta Fonu Denetim Daire Başkanlığının ilgili mevzuat ve uluslararası denetim standartlarını dikkate alarak belirleyeceği mesleki standartları,
+ifade eder.
+(2) Bu Yönetmelikte geçen diğer kavramlar, 5411 sayılı Bankacılık Kanununun 3 üncü maddesinde yer alan anlamları ile kullanılmıştır.

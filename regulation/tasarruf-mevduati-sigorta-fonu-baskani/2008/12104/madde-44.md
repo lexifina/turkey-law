@@ -1,0 +1,2 @@
+Meslek içi eğitim
+MADDE 44 – (1) Fon Denetçilerine, Destek Hizmetleri Daire Başkanlığı ile koordineli olarak yeterli miktarda meslek içi eğitim sağlanır. Bu eğitim çalışmaları kapsamında denetim konusunda ihtisas sahibi kamu kurumları, akademik kuruluşlar ile ulusal ya da uluslararası alanda faaliyet gösteren mesleki organizasyonlarla işbirliği yapmak suretiyle, yılda en az bir defa kurs, seminer ve benzeri etkinliklerde bulunulur. Daire Başkanlığı, Fon Denetçilerinin mesleki yetkinliklerini geliştirmek için sertifika sınavlarına katılmalarını teşvik eder.

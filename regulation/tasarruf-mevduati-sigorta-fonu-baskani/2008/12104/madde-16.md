@@ -1,0 +1,2 @@
+İç denetim raporlarına dayanılarak yapılacak işlemler
+MADDE 16 – (1) Birimlerce iç denetim raporu üzerine yapılan işlemler veya işlem yapılmama gerekçeleri, Fon Denetçisine bildirilmek üzere Daire Başkanlığına gönderilir. İç denetim raporunda önerilen hususlar ile birim yöneticileri arasında ortaya çıkabilecek görüş uyuşmazlıkları Daire Başkanlığı tarafından Başkanlığa iletilir ve alınacak talimata göre işlem yapılır.

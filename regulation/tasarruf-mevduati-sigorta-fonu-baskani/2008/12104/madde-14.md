@@ -1,0 +1,2 @@
+Görevlendirme
+MADDE 14 – (1) Fonun iç denetimi, stratejik denetim planı uyarınca Daire Başkanının teklifi ve Başkanın onayı ile belirlenen yıllık denetim programı kapsamında görevlendirilen Fon Denetçileri tarafından gerçekleştirilir. Münhasıran iç denetim yapmakla görevlendirilen Fon Denetçilerine bu görevlerinin devamı süresince ve bu görev sona ermiş olsa dahi aynı konuyla ilgili olarak inceleme ve soruşturma görevi verilemez.

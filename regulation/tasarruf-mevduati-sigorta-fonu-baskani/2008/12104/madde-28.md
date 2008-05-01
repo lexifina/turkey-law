@@ -1,0 +1,3 @@
+Denetim yerinde bulunma yükümlülüğü
+MADDE 28 – (1) Fon Denetçilerinin çalışma saatleri, denetiminde bulundukları yerin çalışma saatlerine göre ayarlanır. Ancak olağanüstü durumlarda ve özellikle soruşturma işlerinin veya sonradan başka bir yerde yapılması kararlaştırılan önemli bir görevin varlığı halinde, çalışma saatleriyle bağlı kalınmaksızın gerekli işlerin zamanında bitirilmesi sağlanır.
+(2) Fon Denetçileri, Daire Başkanlığından izin almaksızın görev yerinden ayrılamazlar. Başka yerlerde çalışılmasını gerektiren bir durum varsa Daire Başkanlığına yazılı bilgi verirler ve alınacak talimata göre işlem yaparlar. Olağanüstü bir zorunluluk olmadıkça defter, kayıt ve belgelerin asılları denetim yeri dışına çıkarılamaz.

@@ -1,0 +1,4 @@
+Raporlar üzerinde yapılacak işlemler
+MADDE 33 – (1) Fon Denetçileri tarafından düzenlenen raporlar, Daire Başkanlığı tarafından incelenir. Eksik ve hatalı hususlar, ilgili Fon Denetçisine iade suretiyle tashih ettirilir. İade sonunda yeterli iyileştirmenin yapılmadığı kanaatine varıldığı takdirde konu, Daire Başkanlığınca seçilecek üç Fon Denetçisine müştereken incelettirilir. İnceleme sonucu düzenlenen rapor Başkanlığa arz olunarak, alınacak talimata göre işlem yapılır.
+(2) Her rapor, bağımsız bir müzekkere ekinde Başkanın tetkik ve onayına sunulur. Müzekkerede, konunun önemine göre Daire Başkanlığının görüşüne de yer verilir. Başkan tarafından onaylanan raporlar, Daire Başkanlığınca, onay çerçevesinde ilgili birimlere birer yazı ekinde gönderilir.
+(3) Raporun intikal ettiği birim yetkilileri, gerekli tetkikleri yapar, tedbirleri alır, yapılması gereken uygulamaların süratle sonuçlandırılmasını sağlar.
