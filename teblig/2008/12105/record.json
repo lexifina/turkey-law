@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12105",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2008/16)",
+  "number": "12105",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2008/12105",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12105&MevzuatTertip=5",
+  "source_sha256": "164b922dc37a9b898633ff011bfe29ccbf0252f39e6377478303ebaaa480cbc8",
+  "source_bytes": 96597,
+  "published": "2008-05-01",
+  "gazette": "26863",
+  "in_force": "2008-05-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.05.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6172,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
