@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.8308",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "LİSANS ÖĞRENİMLERİNİ TAMAMLAMAYAN VEYA TAMAMLAYAMAYANLARIN ÖN LİSANS DİPLOMASI ALMALARI VEYA MESLEK YÜKSEKOKULLARINA İNTİBAKLARI HAKKINDA YÖNETMELİK",
+  "number": "8308",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/1989/8308",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8308&MevzuatTertip=5",
+  "source_sha256": "e00a70134041b26542a6d0b3b499751df190031cfc8f4c078391c8d52128bb93",
+  "source_bytes": 23450,
+  "published": "1989-03-18",
+  "gazette": "20112",
+  "in_force": "2008-05-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/5/2008\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2008-05-02",
+      "RG-2/5/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-05-02",
+      "2/5/2008",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 325,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

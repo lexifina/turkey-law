@@ -1,0 +1,2 @@
+Önlisans Diploması Alma İlkeleri
+Madde 3- Türk Ceza Kanununun ikinci kitabının birinci babında yer alan, Devletin şahsiyetine karşı işlediği cürümler sebebiyle hüküm giyenler ile disiplin cezası alarak yükseköğretim kurumlarından uzaklaştırılanlar hariç olmak üzere, 2547 sayılı Kanun hükümleri uyarınca bir lisans programının en az ilk dört yarı yılının bütün derslerinden başarılı olanlara önlisans diploması verilir. Önlisans diploması almak için yapılacak başvurular herhangi bir süre ile sınırlı değildir.

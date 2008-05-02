@@ -1,0 +1,3 @@
+Meslek Yüksekokullarına İntibak Esasları
+Madde 4- (Değişik fıkra:RG-2/5/2008-26864) Bir lisans programının en az dört yarıyılının bütün derslerinden veya o lisans programının en az yüzde altmışından başarılı olup da lisans programını tamamlamayan veya tamamlayamayanlar, kurumları ile ilişkilerinin kesildiği tarihten itibaren 6 ay içinde müracaat etmek şartıyla yüksekokullarının benzer ve uygun programlarına intibak ettirilebilirler.
+Ancak, bu gibilerin, Türk Ceza Kanununun ikinci kitabının birinci babında yer alan, Devletin şahsiyetine karşı işlenen cürümler sebebiyle hüküm giymemiş ve disiplin cezası alarak yükseköğretim kurumlarından uzaklaştırılmamış olmaları şarttır.
