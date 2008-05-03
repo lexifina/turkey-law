@@ -1,0 +1,3 @@
+MADDE 6 – (1) MKEK Hurda İşletmesi Müdürlükleri bu Tebliğ kapsamında teslim aldığı taşıtları, 90 gün içinde taşıt olma özelliğini kaybettirecek şekilde parçalara ayırmak veya preslemek veya benzeri yöntemlerle kullanılamaz hale getirmek zorundadır. Söz konusu taşıtları hiçbir şekilde "taşıt" olarak satamaz.
+(2) MKEK Hurda İşletmesi Müdürlükleri bu Tebliğ kapsamında teslim alarak taşıt olma özelliğini kaybettirecek şekilde parçalara ayırdığı veya preslediği veya benzeri yöntemlerle kullanılamaz hale getirdiği taşıtlara ait "hurdaları" satma hakkına sahiptir.
+(3) 4 üncü maddede yer alan iş ve işlemleri yapılmış/tamamlanmış taşıtlarla ilgili MKEK’nin diğer iş, işlem ve yükümlülüklerine ilişkin hususlar 14/11/2007 tarihli Protokole göre yürütülür.

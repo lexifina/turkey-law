@@ -1,0 +1,1 @@
+MADDE 3 – (1) Bu Tebliğ; 17/4/1987 tarih ve 19434 sayılı Resmî Gazete’de yayımlanan 3348 sayılı Ulaştırma Bakanlığının Teşkilat ve Görevleri Hakkında Kanun’un 2, 10 ve 35 inci maddeleri ve 19/7/2003 tarih ve 25173 sayılı Resmî Gazete’de yayımlanan 4925 sayılı Karayolu Taşıma Kanunu’nun 1, 4, 5 ve 33 üncü maddelerine dayanılarak hazırlanmıştır.

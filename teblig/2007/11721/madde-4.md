@@ -1,0 +1,4 @@
+MADDE 4 – Bu Tebliğ kapsamına giren motorlu taşıt sahipleri;
+(1) İlgili mevzuata uygun olarak hurdaya ayırma işlemlerini bu Tebliğin yayımından sonra yapmış/tamamlamış olmaları,
+(2) 1 inci fıkraya göre hurdaya ayrılmış olan taşıtı "taşıt olma özellikleri korunmuş/mevcut olarak" ve "hurdaya ayrılmıştır" kaşeli trafik tescil belgesinin aslı ile ödeme yapılacak hak sahibine ait banka şubesi ve hesap numarasının belirtildiği dilekçe aslını (Tebliğin 5 inci maddesinin 4 üncü fıkrasında belirtilen hak sahipliğini kanıtlayıcı belgelerle) "Makina ve Kimya Endüstrisi Kurumu (MKEK) Hurda İşletmesi Müdürlüğü"nün "Kırıkkale Hurda Müdürlüğü", "İzmir - Aliağa Hurda Müdürlüğü", "Kocaeli - Seymen Hurda Müdürlüğü"nden herhangi birine teslim etmiş olmaları,
+halinde bu Tebliğde belirtilen ödentiyi Ulaştırma Bakanlığından almaya hak kazanırlar.
