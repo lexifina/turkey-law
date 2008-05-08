@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5757",
+  "year": 2008,
+  "title": "Emniyet Teşkilatı Kanunu, Devlet Memurları Kanunu ve Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-05-08",
+  "gazette_issue": "26870",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080508-4.htm",
+  "source_sha256": "91b31149daf53fb0e3c09ae6fdc77bfb7fbfcf011dbcde351757dc3855829707",
+  "text_sha256": "2c526029f11736d5d02c5534da9389e88e8bb6299366ec737831efef49a28946",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/05/08/26870-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080508-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
