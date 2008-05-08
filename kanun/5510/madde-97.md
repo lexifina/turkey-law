@@ -1,8 +1,0 @@
-Zamanaşımı, hakkın düşmesi ve avans
-MADDE 97- Bu Kanunda aksine hüküm bulunmayan hallerde, iş kazası, meslek hastalığı ve ölüm hallerinde bağlanması gereken gelir ve aylıkların, hakkın kazanıldığı tarihten itibaren beş yıl içinde istenmeyen kısmı zamanaşımına uğrar. Bu durumda olanların gelir ve aylıkları, beş yıl geçtikten sonra, yazılı istek tarihini takip eden ay başından itibaren başlar.
-Kuruma müracaat etmemenin haklı bir sebebe dayandığını genel hükümlere göre ispat edenler hakkında, yukarıdaki hükümler uygulanmaz.
-Kısa vadeli sigorta kollarından ve ölüm sigortasından kazanılan diğer haklar, hakkın doğduğu tarihten itibaren beş yıl içinde istenmezse düşer.
-Bu Kanuna göre bağlanan gelir ve aylıklarını tahakkuk ettirildiği tarihlerden itibaren aralıksız altı ay sonuna kadar tahsil etmeyenlerin gelir ve aylıkları, gelir ve aylık bağlanma şartlarının devam edip etmediğinin tespiti amacıyla durdurulur.
-Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin alacakları, hakkı doğuran olayın öğrenildiği tarihten itibaren iki yıl içinde istenmezse zamanaşımına uğrar, hakkı doğuran olay tarihinden itibaren ise beş yıl sonunda düşer.
-Sigortalılar ile bunların hak sahiplerinin, genel sağlık sigortalıları ile bakmakla yükümlü olduğu kişilerin, bu Kanunun uygulanması bakımından hak ettikleri alacaklarının süresi içinde ödenememesi halinde, avans verilmesine Kurum yetkilidir.
-Sağlık hizmeti sunucularına, tahakkuk etmiş alacakları faturaların teslim tarihinden itibaren en geç yetmişbeş gün içinde ödenir. İşlemlerin gecikmesi halinde tahakkuk eden tutarın % 75'i ilâ % 90'ı arasındaki tutar, son ödeme tarihini takip eden ilk iş gününde alacaklarından kesilmek üzere avans olarak ödenir.

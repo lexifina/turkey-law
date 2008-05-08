@@ -1,12 +1,12 @@
 Sigortalıların borçlanabileceği süreler
 MADDE 41- Bu Kanuna göre sigortalı sayılanların;
-a) Kanunları gereği verilen ücretsiz doğum ya da analık izni süreleri,
+a) (Değişik: 17/4/2008-5754/67 md.) Kanunları gereği verilen ücretsiz doğum ya da analık izni süreleri ile 4 üncü maddenin birinci fıkrasının (a) bendi kapsamındaki sigortalı kadının, iki defaya mahsus olmak üzere doğum tarihinden sonra iki yıllık süreyi geçmemek kaydıyla hizmet akdine istinaden işyerinde çalışmaması ve çocuğunun yaşaması şartıyla talepte bulunulan süreleri,
 b) Er veya erbaş olarak silâh altında veya yedek subay okulunda geçen süreleri,
 c) 4 üncü maddenin birinci fıkrasının (c) bendi kapsamında olanların, personel mevzuatına göre aylıksız izin süreleri,
 d) Sigortalı olmaksızın doktora öğrenimi veya tıpta uzmanlık için yurt içinde veya yurt dışında geçirdikleri normal doktora veya uzmanlık öğrenim süreleri,
 e) Sigortalı olmaksızın avukatlık stajını yapanların normal staj süreleri,
 f) Sigortalı iken herhangi bir suçtan tutuklanan veya gözaltına alınanlardan bu suçtan dolayı beraat edenlerin tutuklulukta veya gözaltında geçen süreleri,
-g) Grev ve lokavtta geçen süreleri ve Kurumca kabul edilecek sektörel veya genel ekonomik kriz dönemlerinde işvereni tarafından ücretsiz izinli sayılanların, her yıl için 3 ayı geçmemek üzere bu süreleri,
+g) Grev ve lokavtta geçen süreleri (…) (1) ,
 h) Hekimlerin fahrî asistanlıkta geçen süreleri,
 ı) Seçim kanunları gereğince görevlerinden istifa edenlerin, istifa ettikleri tarih ile seçimin yapıldığı tarihi takip eden ay başına kadar açıkta geçirdikleri süreleri,
 kendilerinin veya hak sahiplerinin yazılı talepte bulunmaları ve talep tarihinde 82 nci maddeye göre belirlenen prime esas günlük kazanç alt ve üst sınırları arasında olmak üzere, kendilerince belirlenecek günlük kazancın % 32'si üzerinden hesaplanacak primlerini borcun tebliği tarihinden itibaren bir ay içinde ödemeleri şartı ile borçlandırılarak, borçlandırılan süreleri sigortalılıklarına sayılır.

@@ -1,20 +1,121 @@
 Fiilî hizmet süresi zammı
-MADDE 40- Aşağıda belirtilen işyerlerinde ve/veya işlerde çalışan sigortalıların, hizmet sürelerine, bu işyerlerinde ve/veya işlerde geçen çalışma sürelerinin her 360 günü için karşılarında gösterilen prim gün sayıları, fiilî hizmet süresi zammı olarak eklenir. 360 günden eksik sürelere ait fiilî hizmet süresi zammı, 360 gün için eklenen fiilî hizmet süresi ile orantılı olarak belirlenir.
+MADDE 40- (Değişik: 17/4/2008-5754/25 md.)
+Aşağıda belirtilen işyerlerinde ve işlerde 4 üncü maddenin birinci fıkrasının (a) ve (c) bentleri kapsamında çalışan sigortalıların prim ödeme gün sayılarına, bu işyerlerinde ve işlerde geçen çalışma sürelerinin her 360 günü için karşılarında gösterilen gün sayıları, fiilî hizmet süresi zammı olarak eklenir. 360 günden eksik sürelere ait fiilî hizmet süresi zammı, 360 gün için eklenen fiilî hizmet süresi ile orantılı olarak belirlenir. Çalışmanın fiili hizmet süresi zammı kapsamında değerlendirilebilmesi için, tablonun (13) ve (14) numaralı sıralarında belirtilen sigortalılar hariç sigortalının kapsamdaki işyerleri ile birlikte belirtilen işlerde fiilen çalışması ve söz konusu işlerin risklerine maruz kalması şarttır.
 Aşağıdaki bentlerden birden fazlasına dahil olanlar için, en yüksek olan bentten fiilî hizmet süresi zammı uygulanır.
-Kapsamdaki Sigortalılar | Kapsamdaki İşyerleri ve/veya İşler | Eklenecek Gün Sayısı
-1) Fabrika, atölye, havuz ve depolarda, trafo binalarında çalışanlar. | 1) Çelik, demir, pirinç ve tunç döküm işlerinde. 2) Zehirli, boğucu, yakıcı, öldürücü ve patlayıcı gaz, asit, boya işleri ile gaz maskesiyle çalışmayı gerektiren başka işlerde. 3) Patlayıcı maddeler yapılması işlerinde. 4) Lokomotif ve gemi kazanlarının onarılması ve temizlenmesi işlerinde. 5) Gemilerin sintine, Dabilbotom gibi kapalı sarnıçlar içindeki raspa ve boya işlerinde. 6) Oksijen veya elektrik kaynağı, keski, tabanca ve perçin, takım sertleştirilmesi ve kum püskürtme suretiyle raspa işlerinde. | 90 gün
-2) Basım ve gazetecilik işyerlerinde 4857 sayılı İş Kanununa göre çalışanlar. | 1) Solunum ve cilt yoluyla vücuda geçen gaz veya diğer zehirleyici maddelerle çalışılan işyerleri. 2) Fazla gürültülü ve ihtizaz yapıcı makine ve aletlerle çalışarak iş yapılan işyerleri. 3) Tabii ışığın hiç olmadığı veya münhasıran suni ışık altında çalışılan işyerleri. 4) Günlük mesainin yarıdan fazlası saat 20.00’den sonra çalışılarak yapılan işyerleri. 5) Doğrudan doğruya yüksek hararete maruz bulunarak çalışılan işyerleri. 6) Fazla ve devamlı fiziki gayret sarf edilerek iş yapılan işyerleri. | 
-3) Gemi adamları, gemi ateşçileri, gemi kömürcüleri, dalgıçlar. | Denizde | 90 gün
-4) Yeraltı işlerinde sürekli veya münavebeli çalışanlar. | Maden işyerleri | 180 gün
-5) Mesleği icabı; röntgen, radyum ve benzeri iyonizan radyasyonlarında fiilen çalışan hekim, diş hekimi, teknisyen, sağlık memuru, radyasyon fizikçisi ve teknisyeni ve iyonizan radyasyonla fiilen çalışan bilumum personel ve yardımcıları. | Röntgen, radyum ve benzeri iyonizan radyasyon laboratuvarları işlerinde. | 90 gün
-6) Havayollarının uçucu personeli, lokomotif makinistleri | Fiilen uçakta ve lokomotifte | 90 gün
-7) Subay, yedek subay, astsubay, uzman jandarma ve uzman erbaşlar. | Türk Silâhlı Kuvvetlerinde | 90 gün
-8) Asaleti onaylanmış olmak şartıyla adaylıkta geçirilen süreler dahil polis, komiser yardımcısı, komiser, baş komiser, emniyet amiri, emniyet müdürleri ile bu ve daha yukarı maaş ve derecelerdeki emniyet mensupları, Milli İstihbarat Teşkilatı mensupları. | Emniyet ve polis mesleğinde, Milli İstihbarat Teşkilatında | 90 gün
-9) 13/6/1952 tarihli ve 5953 sayılı Kanuna tâbi olarak çalışan sigortalılar ile Basın Kartı Yönetmeliğine göre basın kartı sahibi olmak suretiyle gazetecilik yaparken kamu kurumlarına giren ve bu kurumlarda meslekleriyle ilgili görevde istihdam edilenler. | 5953 sayılı Kanun kapsamındaki işyerlerinde. | 
-10) İnfaz koruma memurları, baş memurları ve diğer personel | Ceza ve tutukevlerinde fiilen hükümlü ve tutuklularla irtibat içinde olan görevliler. | 90 gün
-11) PTT dağıtıcıları | Posta dağıtımı işyerlerinde yaya olarak yapılan işlerde. | 90 gün
-12) Türkiye Radyo- Televizyon Kurumunda haber hizmetini yapan ve haber hizmetlerinde fiilen çalışan; Daire Başkanı, Başkan Yardımcısı, Müdür, Müdür Yardımcısı, Şef, Muhabir, Stajyer Muhabir, Başspiker, Redaktör Spiker, Spiker, Stajyer Spiker, Masa Şefi, Başkameraman, Şef Kameraman, Kameraman, Kamera Asistanı, Başmontajcı, Şef Montajcı, Montajcı, Stajyer Montajcı, Redaktör, Mütercim, Fotoğrafçı, Işıkçı, Sesçi, Başteknisyen, Şef Teknisyen, Teknisyen, Başteleksçi, Şef Teleksçi, Teleks Operatörü. | Türkiye Radyo ve Televizyon Kurumu haber hizmetlerinde. | 90 gün
-13) Tarım Bakanlığı Ziraî Mücadele ve Karantina Teşkilatı ile Veteriner Teşkilatında vazife gören memur ve hizmetliler. | Ziraî mücadele ve ziraî karantina teknik ve idarî işleri ile salgın, bulaşıcı, paraziter hayvan hastalıkları ile mücadele işlerinde. | 60 gün
-14) Devlet Tiyatrosu sanatkârları, Cumhurbaşkanlığı Senfoni Orkestrasının şef ve üyeleri. | Devlet Tiyatroları ile Cumhurbaşkanlığı Senfoni Orkestrasında | 90 gün
-Yukarıdaki hükümlere göre hesaplanan fiilî hizmet süresi zammı sekiz yılı geçmemek üzere uzun vadeli sigorta kolları uygulamasında prim ödeme gün sayısına eklenir ve emeklilik yaş hadlerinden üç yılı geçmemek üzere yarısı indirilir. Yukarıda yer verilen tablonun (4) numaralı sırasında yer alan ve 180 gün fiilî hizmet zammı süresi verilen sigortalılar için sekiz yıllık süre sınırı uygulanmaz.
+Kapsamdaki Kapsamdaki Eklenecek
+İşler/İşyerleri Sigortalılar Gün Sayısı
+1) Kurşun ve arsenik işleri 1) Kurşun üretilen galenit, serüzit, anglezit gibi
+cevherlerin çıkarılmasına ilişkin maden ocağı
+işlerinde çalışanlar.
+2) Kurşunlu madenlerden yahut içinde kurşun
+bulunan kül, maden köpüğü, kurşun fırın kurumu, 60
+üstübeç artığı ve benzeri maddelerden kurşun üretimi
+için yapılan izabe işlerinde çalışanlar.
+3) Antimuan, kalay, bronz ve benzeri maddelerle
+yapılan kurşun alaşımı işlerinde çalışanlar.
+4) Kurşun izabe fırınlarının teksif odalarında biriken 90
+kuru tozları kaldırma işlerinde çalışanlar.
+2) Cam fabrika ve atölyeleri 1) Cam yapımında kullanılan ilkel maddeleri toz haline
+getirme, eleme, karıştırma ve kurutma işlerinde
+(bu işleri yapmak üzere tam kapalı odalar içinde otomatik
+makineli tesisat veya çalışma ortamındaki tozları
+sağlık için tehlike oluşturmayacak düzeye indiren
+havalandırma tesisatı bulunmadığı takdirde) çalışanlar.
+2) Eritme işlerinde (otomatik besleme fırınlarıyla
+çalışılmadığı takdirde) çalışanlar.
+3) Ateşçilik işlerinde çalışanlar.
+4) Üfleme işlerinde (tamamen otomatik makinelerle
+yapılmadığı takdirde) çalışanlar.
+5) Basınçla yapılan cam işlerinde (cam tazyiki işleri)
+çalışanlar.
+6) Ayna camı sanatında potalı cam dökümü işlerinde 60
+(potalar kalıp masasına mekanik araçlarla taşınmadığı
+takdirde) çalışanlar.
+7) Camı fırın başından alma işlerinde çalışanlar.
+8) Yayma fırınlarında düzeltme işlerinde çalışanlar.
+9) Traş işlerinde çalışanlar.
+10) Asitle hak ve cilâlama işlerinde çalışanlar.
+11) Basınçlı havayla kum püskürten cihazlarla yapılan
+işlerde (çalışma ortamındaki tozları sağlık için tehlike
+oluşturmayacak düzeye indiren havalandırma tesisatı
+bulunmadığı takdirde) çalışanlar.
+12) Pota ve taş odalarında görülen işlerde çalışanlar.
+3) Cıva üretimi işleri sanayii 1) Cıva izabe fırınlarında görülen işlerde çalışanlar.
+2) Elementer cıva bulunan ocaklarda görülen işlerde 90
+çalışanlar.
+4) Çimento fabrikaları 1) İlkel maddeleri kırma, ufalama, ezme, eleme ve
+karıştırma işlerinde çalışanlar.
+2) Otomatik fırınlarda pişirme işlerinde çalışanlar.
+3) Klinkeri öğütme, eleme, torba ve fıçılara koyma 60
+işlerinde (otomatik olarak tozun etrafa yayılmasını
+önleyici bir düzenleme yapılmadığı takdirde) çalışanlar.
+5) Kok fabrikalarıyla 1) Ateşçilik, ocak temizliği, jeneratör, doldurma,
+termik santraller boşaltma ve temizleme işlerinde çalışanlar.
+2) Kimyasal arıtma işlerinde çalışanlar.
+3) Gazın geçtiği cihaz ve boruların onarılması ve
+temizlenmesi işlerinde çalışanlar.
+4) Kok fabrikalarında kömür ve ocak işlerinde
+çalışanlar.
+5) Elektrik enerji üretim santrallerinin kazan 60
+dairesindeki ateşçilik, kül ve kömürlerin taşınması
+işlerinde çalışanlar.
+6) Termik santrallerle her çeşit buhar kazanlarının
+kazan dairesindeki ateşçilik, kül ve kömürlerin
+taşınması işlerinde çalışanlar.
+6) Alüminyum fabrikaları 1) Alüminyum oksit üretimi işlerinde çalışanlar.
+2) Alüminyum bronzu hazırlama işlerinde çalışanlar. 60
+3) Alüminyum madeni üretimi işlerinde çalışanlar.
+7) Demir ve çelik fabrikaları 1) Demir izabe fabrikalarında cevherin demire
+çevrilmesi işleriyle boru fabrikalarının fırın ve
+döküm dairelerinde yapılan işlerinde çalışanlar.
+2) Çelikhanelerin çelik yapılan fırınlarıyla bunların
+teferruat ve eklentilerinden olan ikinci derecedeki
+fırınlarda ve konvertörlerde yapılan işlerinde
+çalışanlar.
+3) Sıvı haldeki demir ve çeliğin tesisat ve teçhizatla 90
+veya mekanik olarak taşınmasına ilişkin işlerde
+çalışanlar.
+4) Sıcak veya sıvı haldeki cürufun taşınması ve
+işlenmesi işlerinde çalışanlar.
+5) Haddehanelerde (soğuk demirle çalışılan
+haddehaneler hariç), fırınlarda, hadde serilerinde,
+haddehaneyi kızgın veya sıvı çelik yahut demirle
+besleyen tesisat ve araçlarla görülen işlerle kızgın
+halde olan yarı mamul parçaların kesilmesi ve
+hazırlanması işlerinde çalışanlar.
+8) Döküm fabrikaları 1) Döküm kalıp ve maçalarının yapılması ve döküme
+hazır duruma getirilmesi işlerinde çalışanlar.
+2) Döküm şarjının hazırlanması ve her çeşit maden 60
+eritme (izabe) fırınlarının döküme hazır duruma
+getirilmesi işlerinde çalışanlar.
+3) Maden eritme ve dökme işlerinde çalışanlar.
+9) Asit üretimi yapan 1) Asit için hammaddelerin hazırlanması işlerinde
+fabrika ve atölyeler çalışanlar.
+2) Asidin yapılma safhalarındaki işlerinde çalışanlar. 90
+3) Baca gazlarından asit elde edilmesi işlerinde
+çalışanlar.
+10) Yeraltı işleri Maden ocakları (elementer cıva bulunduğu saptanan
+cıva maden ocakları hariç), kanalizasyon ve tünel 180
+yapımı gibi yer altında yapılan işlerde çalışanlar.
+11) Radyoaktif ve Doğal ve yapay radyoaktif, radyoiyonizan maddeler
+radyoiyonizan maddelerle veya bütün diğer korpüsküler emanasyon kaynakları 90
+yapılan işler ile yapılan işlerde çalışanlar.
+12) Su altında veya su altında 1) Su altında basınçlı hava içinde çalışmayı gerektiren
+basınçlı hava içinde çalışmayı işlerden 20- 35 metreye kadar derinlik veya
+gerektiren işler 2-3,5 kg/cm2 basınçta yapılan işlerde çalışanlar. 60
+2) Su altında basınçlı hava içinde çalışmayı gerektiren
+işlerden 35-40 (40 hariç) m. derinlik veya 3,5-4 90
+(3,5 hariç) kg/cm2 basınçta yapılan işlerde çalışanlar.
+3) Dalgıçlık işinde çalışanlar.
+13) Türk Silâhlı Kuvvetlerinde Subay, yedek subay, astsubay, uzman jandarma
+ve uzman erbaşlar. 90
+14) Emniyet ve polis mesleğinde, Asaleti onaylanmış olmak şartıyla adaylıkta geçirilen
+Milli İstihbarat Teşkilâtında süreler dahil polis, komiser yardımcısı, komiser,
+baş komiser, emniyet amiri, emniyet müdürleri ile 90
+bu ve daha yukarı maaş ve derecelerdeki emniyet
+mensupları, Milli İstihbarat Teşkilâtı mensupları.
+15) İtfaiye veya yangın Yangın söndürme işlerinde çalışanlar. 60
+söndürme işleri
+Bu maddenin birinci fıkrası hükmüne göre hesaplanan fiilî hizmet süresi zammı, yukarıdaki tablonun (13) ve (14) numaralı sırasında yer alan sigortalılar için sekiz, diğer sigortalılar için beş yılı geçmemek üzere uzun vadeli sigorta kolları uygulamasında prim ödeme gün sayısına eklenir. Bu sürelerin, üç yılı geçmemek üzere yarısı emeklilik yaş hadlerinden indirilir. Tablonun (10) numaralı sırasında yer alan sigortalılar için bu fıkradaki süre sınırı uygulanmaz.
+Yukarıdaki fıkrada belirtilen yaş haddi indiriminden yararlanabilmek için ölüm ve malûliyet halleri hariç tablonun (10) numaralı sırasında yer alan sigortalıların en az 1800 gün, diğer sıralarda yer alan sigortalıların ise en az 3600 gün belirtilen işyeri ve işlerde çalışmış olmaları şarttır.
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurumun önerisi üzerine Bakanlıkça çıkarılacak yönetmelik ile düzenlenir.

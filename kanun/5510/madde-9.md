@@ -3,18 +3,18 @@ MADDE 9- Kısa ve uzun vadeli sigorta kolları bakımından sigortalılık;
 a) 4 üncü maddenin birinci fıkrasının (a) bendi kapsamındaki sigortalıların, hizmet akdinin sona erdiği tarihten,
 b) 4 üncü maddenin birinci fıkrasının (b) bendi kapsamındaki sigortalıların;
 1) Gelir vergisi mükellefi olanlar için, mükellefiyetlerini gerektiren faaliyetlerine son verdikleri tarihten,
-2) Gelir vergisinden muaf olanlar için, esnaf ve sanatkâr sicili ile birlikte kanunla kurulu meslek odalarındaki üye kayıtlarının silinmesi gereken veya 6 ncı maddenin birinci fıkrasının (k) bendi kapsamına girdiği tarihten,
-3) Şirket ve donatma iştiraki ortağı olanlar için, tâbi oldukları mevzuata göre şirketle ve donatma iştiraki ile ilgilerinin kesildiği tarihten,
-4) Şirket ortağı olanlar için, şirketin iflâsına veya tasfiyesine karar verildiği veya münfesih sayıldığı tarihten,
+2) (Değişik: 17/4/2008-5754/ 7 md.) Gelir vergisinden muaf olanlar için, esnaf ve sanatkâr sicili kaydının silindiği veya 6 ncı maddenin birinci fıkrasının (k) bendi kapsamına girdiği tarihten,
+3) (Değişik: 17/4/2008-5754/ 7 md.) 4 üncü maddenin birinci fıkrasının (3) numaralı alt bendi kapsamına girenlerden, şahıs şirketlerinden kolektif, adi komandit şirketlerin komandite ve komanditer ortakları ve donatma iştiraki ortaklarının vergi mükellefiyetlerinin sona erdiği tarihten, sermayesi paylara bölünmüş komandit şirketlerin komandite ortaklarının, şirketin ticaret sicil memurluğundan kaydının silindiği tarihten, limited şirket ortaklarından hisselerinin tamamını devreden sigortalıların, hisse devrinin yapılmasına ortaklar kurulunca karar verildiği tarihten, anonim şirketlerin yönetim kurulu üyesi olan ortaklarının yönetim kurulu üyeliklerinin sona erdiği tarihten, iflas veya tasfiye durumu ile münfesih duruma düşen şirketler için ortağın talep etmesi halinde, mahkeme kararı ile iflasın, tasfiyenin açılmasına, ortaklar kurulu kararı ile tasfiyenin başlamasına veya şirketin münfesih duruma düşmesine karar verildiği, ortakların talepte bulunmaması halinde, mahkemece iflasın kapatılmasına karar verildiği, tasfiyesi sonuçlanan şirketlerin ortaklıklarının ise tasfiye kurulu kararının ticaret sicili memurluğunca tescil edildiği tarihten,
+4) (Mülga: 17/4/2008-5754/ 7 md.)
 5) Tarımda kendi adına ve hesabına bağımsız çalışanlar için, tarımsal faaliyetlerinin sona erdiği veya 6 ncı maddenin birinci fıkrasının (ı) bendi kapsamına girdiği tarihten,
 6) Köy ve mahalle muhtarlarının, muhtarlık görevlerinin sona erdiği tarihten,
 7) Herhangi bir yabancı ülkede ikamet eden ve o ülke mevzuatı kapsamında sigortalı olarak çalışmaya başladığı veya ikamet esasına bağlı olarak, o ülke sosyal güvenlik sistemine dahil olduğu tarihten,
-8) İflâsına karar verilmiş olan veya tasfiye halindeki özel işletmeler ile şirketlerin ortaklarından hizmet akdi ile çalışanların, çalışmaya başladığı tarihten,
+8) (Değişik: 17/4/2008-5754/ 7 md.) (3) numaralı alt bent kapsamında iflas veya tasfiye durumu ile münfesih duruma düşen şirketlerin ortaklarından 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında çalışmaya başlayanların, çalışmaya başladıkları tarihten,
 9) Köy ve mahalle muhtarlarından; kendi adına ve hesabına bağımsız çalışmasından dolayı gelir vergisi mükellefiyeti bulunanlar hariç, aynı zamanda hizmet akdi ile çalışanların çalışmaya başladığı tarihten,
-10) Gelir vergisinden muaf olan, ancak esnaf ve sanatkârlar sicili ile birlikte kanunla kurulu meslek kuruluşlarındaki kayıtlara istinaden bu Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında sigortalı sayılanlardan, bu sigortalılıklarının devamı sırasında, hizmet akdi ile çalışanların çalışmaya başladığı tarihten,
+10) (Değişik: 17/4/2008-5754/ 7 md.) Gelir vergisinden muaf olan, ancak esnaf ve sanatkârlar sicili kaydına istinaden 4 üncü maddenin birinci fıkrasının (b) bendi kapsamında sigortalı sayılanlardan, bu sigortalılıklarının devamı sırasında, hizmet akdi ile çalışanların çalışmaya başladığı tarihten,
 c) 4 üncü maddenin birinci fıkrasının (c) bendi kapsamında sigortalı sayılanların;
-1) Ölüm halinde veya aylık bağlanmasını gerektiren hallerde, bu tarihi takip eden ayın ilk gününden,
-2) Diğer hallerde ise görevden ayrıldıkları tarihten,
+1) (Değişik: 17/4/2008-5754/ 7 md.) Ölüm veya aylık bağlanmasını gerektiren hallerde görev aylıklarının kesildiği tarihi, 8/6/1949 tarihli ve 5434 sayılı Kanunun 40 ıncı maddesinde belirtilen yaş hadleri ile sıhhi izin sürelerinin doldurulması halinde ise bu süre ve hadlerin doldurulduğu tarihleri takip eden aybaşından,
+2) (Değişik: 17/4/2008-5754/ 7 md.) Diğer hallerde ise görevden ayrıldıkları tarihten,
 d) 5 inci madde gereği bazı sigorta kollarına tâbi tutulanların, sigortalı sayılmalarını gerektiren halin sona erdiği tarihten,
 e) 6 ncı maddenin birinci fıkrasının (l) bendi kapsamında olanlardan, çalışmakta iken bulunduğu ülkenin sosyal güvenlik kurumu ile irtibatlandırılanlar ile uluslararası sosyal güvenlik sözleşmeleri çerçevesinde, seçimini bu yönde kullananlar için sigortalandıkları tarihten,
 itibaren sona erer.

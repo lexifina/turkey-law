@@ -1,3 +1,3 @@
 Sigortalıların işleri nedeniyle geçici olarak yurt dışında bulunmaları
 MADDE 10- 4 üncü maddenin birinci fıkrasının (a) bendinde sayılan sigortalıların işverenleri tarafından geçici görevle yurt dışına gönderilmeleri, (c) bendinde sayılan sigortalıların mevzuatlarında belirtilen usûle uygun olarak yurt dışına gönderilmeleri veya (b) bendinde sayılanların sigortalılığa esas çalışması nedeniyle yurt dışında bulunmaları halinde, bu görevleri yaptıkları sürece, sigortalıların ve işverenlerin sosyal sigortaya ilişkin hak ve yükümlülükleri devam eder.
-Sosyal güvenlik sözleşmesi imzalanmayan ülkelerde iş üstlenen işverenlerce çalıştırılmak üzere bu ülkelere götürülen Türk işçileri de bu Kanunun uygulanmasında geçici görevle yurt dışına gönderilmiş sayılır.
+(Mülga ikinci fıkra: 17/4/2008-5754/67 md.)

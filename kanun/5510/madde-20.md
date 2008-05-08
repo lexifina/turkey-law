@@ -2,6 +2,9 @@ Hak sahiplerine gelir bağlanması, evlenme ve cenaze ödenekleri
 MADDE 20- İş kazası veya meslek hastalığına bağlı nedenlerden dolayı ölen sigortalının hak sahiplerine, 17 nci madde gereğince tespit edilecek aylık kazancının % 70'i, 55 inci maddenin ikinci fıkrasına göre güncellenerek 34 üncü madde hükümlerine göre gelir olarak bağlanır.
 İş kazası veya meslek hastalığı sonucu meslekte kazanma gücünü % 50 veya daha fazla oranda kaybetmesi nedeniyle sürekli iş göremezlik geliri bağlanmış iken ölenlerin, ölümün iş kazası veya meslek hastalığına bağlı olup olmadığına bakılmaksızın birinci fıkraya göre belirlenen tutar, 34 üncü madde hükümlerine göre hak sahiplerine gelir olarak bağlanır.
 İş kazası veya meslek hastalığı sonucu meslekte kazanma gücünü % 50 oranının altında kaybetmesi nedeniyle sürekli iş göremezlik geliri bağlanmış iken ölenlerin, ölümün iş kazası veya meslek hastalığına bağlı olmaması halinde sigortalının almakta olduğu sürekli iş göremezlik geliri, 34 üncü madde hükümlerine göre hak sahiplerine gelir olarak bağlanır.
-4 üncü maddenin birinci fıkrasının (b) bendine göre sigortalı sayılanların hak sahiplerine gelir bağlanabilmesi için, kendi sigortalılığından dolayı, genel sağlık sigortası dahil prim ve her türlü borçlarının ödenmiş olması zorunludur.
+4 üncü maddenin birinci fıkrasının (b) bendine göre sigortalı sayılanların hak sahiplerine gelir bağlanabilmesi için, kendi sigortalılığından dolayı, genel sağlık sigortası dahil prim ve prime ilişkin her türlü borçlarının ödenmiş olması zorunludur. (2)
 Gelirin başlangıcı, kesilmesi ve yeniden bağlanmasında 34 üncü ve 35 inci maddeler uygulanır.
 37 nci madde hükümlerine göre hak sahiplerine cenaze ve evlenme ödeneği verilir.
+–––––––––––––––
+(1) 17/4/2008 tarihli ve 5754 sayılı Kanunun 12 nci maddesiyle, bu fıkrada yer alan “prim ve her türlü borçlarının” ibaresi “prim ve prime ilişkin her türlü borçlarının” şeklinde değiştirilmiş ve metne işlenmiştir.
+(2) 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle, bu fıkrada yer alan “prim ve her türlü borçlarının” ibaresi “prim ve prime ilişkin her türlü borçlarının” şeklinde değiştirilmiş ve metne işlenmiştir.
