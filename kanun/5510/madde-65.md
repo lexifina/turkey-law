@@ -1,6 +1,0 @@
-Yol gideri, gündelik ve refakatçi giderleri
-MADDE 65- Hekimin veya diş hekiminin muayene veya tedavi sonrası tıbben göreceği lüzum üzerine genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin sağlık hizmetinden yararlanmaları için muayene ve tedavi edildikleri yerleşim yeri dışına yapılan sevkinde, ayakta tedavilerde kendisinin ve bir kişi ile sınırlı olmak üzere refakatçisinin gidiş ve dönüş yol gideri ve gündelikleri; yatarak tedavilerde ise gidiş ve dönüş tarihleri için gündelikleri ile yol gideri Kurumca karşılanır.
-Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin yatarak tedavileri sırasında, hekimin veya diş hekiminin tıbben göreceği lüzum üzerine yanında kalan refakatçinin yatak ve yemek giderleri bir kişi ile sınırlı olmak üzere Kurumca karşılanır.
-Yurt içinde veya yurt dışına yapılan sevkler nedeniyle ödenecek gündelik, yol, yatak ve yemek giderlerinin tutarı 72 nci maddede belirtilen Sağlık Hizmetleri Fiyatlandırma Komisyonu tarafından belirlenir.
-Sürekli iş göremezlik veya malûllük durumlarının tespiti, kontrolü veya periyodik sağlık muayenesi amacıyla yapılan sağlık hizmeti giderleri ile yol ve gündelik giderleri de bu madde hükümlerine göre ödenir.
-Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurum tarafından çıkarılacak yönetmelikle düzenlenir.

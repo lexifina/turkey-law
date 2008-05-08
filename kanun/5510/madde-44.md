@@ -1,7 +1,0 @@
-Bazı kamu görevlilerine yaşlılık aylığı bağlanacak haller
-MADDE 44- Bu Kanun hükümlerinin uygulanmasında bu Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı sayılan bazı kamu görevlilerine yaşlılık aylığı bağlanmasına ilişkin aşağıdaki hükümler uygulanır:
-a) 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun 40 ıncı maddesi gereğince yaş haddinden emekliye ayrılanlara 5400 gün prim ödeme gün sayısı olması halinde,
-b) Özel kanunları gereğince kadrosuzluk nedeniyle emekliye sevk edilenlere yaş şartı aranmaksızın, prim ödeme gün sayısı 9000 gün olması halinde,
-yaşlılık aylığı bağlanır.
-4 üncü maddenin birinci fıkrasının (c) bendi kapsamında olanlardan subay, astsubay, askerî memurlarla uzman jandarma ve uzman erbaşlar ahlâk noktasından hükümle veya yetersizlik ya da disiplin sebeplerinden dolayı sicilleri üzerine veyahut askerî mahkemelerce verilecek kararlar üzerine kurumlarınca re'sen, bunlar dışında kalanlar ise ahlâk ve yetersizlik sebeplerinden dolayı yönetmeliğine göre sicilleri üzerine kurumlarınca re'sen emekliye sevk edilenlere ise, 28 inci maddenin ikinci ve üçüncü fıkrasında belirtilen yaş ve prim ödeme gün sayısını tamamlamaları halinde yaşlılık aylığı bağlanır.
-Birinci fıkranın (a) ve (b) bentleri gereğince bağlanan yaşlılık aylıkları, 28 inci maddenin ikinci ve üçüncü fıkrasında aranan yaş ve prim ödeme gün sayısı tamamlanıncaya kadar bunları çalıştıran kamu idarelerinden tahsil edilir.
