@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5755",
+  "year": 2008,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Katar Devleti Hükümeti Arasında Askeri Alanda Eğitim, Teknik ve Bilimsel İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-05-08",
+  "gazette_issue": "26870",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080508-2.htm",
+  "source_sha256": "e7364b4f0edd1a3a81bd292a262a2b0c695d198b463a3eaa2c968d5c65e3b4d9",
+  "text_sha256": "0bde98e3dbcffc10e221b3ea53c8d11f1db33a65b59fe56525d26b517811141d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/05/08/26870-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080508-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
