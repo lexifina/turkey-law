@@ -1,0 +1,4 @@
+Yönetim Kurulu toplantıları
+MADDE 15 – (1) Yönetim Kurulu toplantıları; başkanın, başkanın bulunmadığı hâllerde başkanvekilinin çağrısıyla yapılır. Yönetim Kurulu ayda en az bir defa asgari altı üye ile toplanır. Kararlar toplantıya katılanların oy çokluğuyla alınır. Oyların eşitliği hâlinde başkanın oyu yönünde karar alınmış sayılır.
+(2) Yönetim Kurulunca, sektörün aleyhine sonuç doğuracak kararlar alınamaz. Yönetim Kurulunun, kararlarına yazılı olarak yedi gün içinde itiraz edilebilir. İtiraz edilen karar, Araştırma ve Danışma Kurulu tarafından otuz günlük süre içinde incelenir ve rapora bağlanır. Rapor, Yönetim Kurulunun ilk toplantısında görüşülerek kesin olarak karara bağlanır. Verilen kararlara katılmayanlar, kararın altına şerh düşmek ve katılmama gerekçelerini yazılı olarak belirtmek zorundadır.
+(3) Yönetim Kurulu, olağan toplantılara ait gündemi toplantıdan en az üç gün önceden belirlenerek toplantıya katılacaklara bildirilir.
