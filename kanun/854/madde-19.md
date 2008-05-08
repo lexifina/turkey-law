@@ -1,0 +1,2 @@
+Feshi kapsamayan hal:
+Madde 19 – Geminin Türk Bayrağını taşıma hakkı bulunduğu sürece mülkiyetin kısmen veya tamamen herhangi bir şahsa geçmesi hizmet aktinin feshini gerektirmez.
