@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5758",
+  "year": 2008,
+  "title": "Türk Silahlı Kuvvetleri Personel Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-05-09",
+  "gazette_issue": "26871",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080509-1.htm",
+  "source_sha256": "c56e8affcaedbb221bf180ca94960df0b30df51d6966483f121c79296fea061e",
+  "text_sha256": "f40c7353444513e965fb8af0f9dada656bbd810e78d131dd868d1d6980df9145",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/05/09/26871-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080509-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
