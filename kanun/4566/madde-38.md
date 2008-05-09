@@ -4,6 +4,8 @@ Harp okullarında eğitim ve öğrenim gören öğrenciler aşağıdaki hallerde
 a) Bu Kanun hükümlerine göre çıkarılacak yönetmelik gereğince her öğrenciye verilen disiplin notunu kaybedenler,
 b) Yönetmelikte belirtilecek esaslar dahilinde, öğrenci niteliğini kaybettiklerine dair yüksek disiplin kurulunca haklarında karar verilenler,
 c) Bu Kanunun 37 nci maddesinin (a) bendinde belirtilen süreler içerisinde eğitim ve öğrenimlerini tamamlayamayanlar,
+––––––––––––––––––––––––
+(1) 24/4/2008 tarihli ve 5758 sayılı Kanunun 2 nci maddesiyle, bu fıkranda yer alan "ilgili kuvvet komutanlığınca" ibaresinden sonra gelmek üzere "veya kuvvet komutanlığının yetki vereceği makam tarafından" ibaresi eklenmiştir.
 d) Mahkeme kararı ile öğrencilik hukukunu kaybedenler,
 e) Sağlık kurullarınca verilecek raporlara dayalı olarak sağlık durumları bakımından harp okulu öğrenimine devam imkânı kalmayanlar,
 f) Giriş ile ilgili nitelikleri taşımadıkları öğrenim sırasında anlaşılanlar veya öğrenim süresi içinde bu nitelikleri değişenler.
