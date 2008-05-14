@@ -1,0 +1,89 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 20- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2001-04-27",
+      "27.04.2001",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2003-07-11",
+      "RG-11/07/2003-25165",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-04-18",
+      "RG-18/04/2002-24730",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-04-18",
+      "RG-18/04/2002-24730",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-04-18",
+      "RG-18/04/2002-24730",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-04-18",
+      "RG-18/04/2002-24730",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2008-05-14",
+      "R.G.-14/5/2008-26876",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2008-05-14",
+      "R.G.-14/5/2008-26876",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2006-07-05",
+      "RG-05/07/2006-26219",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-04-18",
+      "RG-18/04/2002-24730",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-04-18",
+      "RG-18/04/2002-24730",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "R.G.-14/5/2008-26876",
+  "first_law": null,
+  "gazette": "24385",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2008-05-14",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Aydın Adnan Menderes Üniversitesi",
+  "issuer_slug": "aydin-adnan-menderes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/aydin-adnan-menderes-universitesi/2001/6581",
+  "published": "2001-04-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6581&MevzuatTertip=5",
+  "source_bytes": 21264,
+  "source_id": "8.5.6581",
+  "source_sha256": "e849970a93b70070d6ff893760121cc347ad1f48aff6ceee5981d542ef84bc11",
+  "text_status": "current-consolidated",
+  "title": "ADNAN MENDERES ÜNİVERSİTESİ YAZ OKULU EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 176,
+  "word_count": 699
+}
