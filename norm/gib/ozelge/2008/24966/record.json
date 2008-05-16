@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6685-5251-50116",
+  "source_id": 24966,
+  "date": "2008-05-16",
+  "title": "Binanın imar projelerinde bulunan m2 hesabı büyütülerek yapıldığı zaman bina vergisinin belediyelerden alınan iskan izinlerinde bulunan m2 üzerinden hesaplandığının tespiti halinde eksik alınan bina vergisi hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/24966",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "f03c754b7575bcdb5017b47a1ee71556df97e0cca1366a59861253c6d6f4d4f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
