@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68/6802-2",
+  "source_id": 38438,
+  "date": "2008-05-16",
+  "title": "Ruhsatında hususi yazılan ve ticari faaliyetinde kullanılacağı beyan edilen taşıtın işletme aktifine kaydedilerek durumun Bankanıza belgelenmesi halinde, söz konusu taşıtın alımı için kullanılacak kredi üzerinden kaynak kullanımını destekleme fonu kesinti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38438",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "ef14fe9d5657fe8c50fc2e214cd003efb3e061a660d1b2efcac31437bd9a07cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
