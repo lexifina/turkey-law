@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-05-17",
+  "issue": "26879",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Gıda Kodeksi Gıda Maddelerindeki Bulaşanların Maksimum Limitleri Hakkında Tebliğ (No: 2008/26)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080517-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080517.htm",
+  "index_sha256": "d8578be919401474713fdb257bc35c4eba9d1fd6283f39473dfd6364827309c0",
+  "index_header": "17 Mayıs 2008 ... 26879 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
