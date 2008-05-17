@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12149",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ SÜRÜLEBİLİR YAĞLAR/MARGARİN VE YOĞUN YAĞLAR TEBLİĞİ (Tebliğ No: 2008/21)",
+  "number": "12149",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2008/12149",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12149&MevzuatTertip=5",
+  "source_sha256": "23b4dab4d330566cbc41d1ccc16eb0bebbe2a9ec798af1758d7327381c0d19b7",
+  "source_bytes": 40677,
+  "published": "2008-05-17",
+  "gazette": "26879",
+  "in_force": "2008-05-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.05.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1489,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
