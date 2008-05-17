@@ -1,0 +1,2 @@
+Ambalajlama, etiketleme ve işaretleme
+Madde 13 — Bu Tebliğ kapsamında yer alan ürünler Türk Gıda Kodeksi Yönetmeliği’nin Ambalajlama ve Etiketleme-İşaretleme bölümünde yer alan genel kurallara uygun olarak ambalajlanmalı, etiketlenmeli ve işaretlenmelidir. Bu kurallara ek olarak; bu Tebliğ kapsamında yer alan ve bileşiminde çeşni maddesi kullanılan ürünlerde çeşni maddesinin adı ürün adı ile birlikte kullanılabilir.

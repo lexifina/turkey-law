@@ -1,0 +1,2 @@
+Tescil ve denetim
+Madde 16 — Bu Tebliğ kapsamında yer alan ürünleri üreten ve satan işyerleri; tescil ve izin, ithalat işlemleri, kontrol ve denetim sırasında bu Tebliğ hükümlerine uymak zorundadır. Bu hükümlere uymayan işyerleri hakkında 27/5/2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun hükümlerine göre yasal işlem yapılır.
