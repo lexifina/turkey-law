@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6685-5245-50586",
+  "source_id": 38355,
+  "date": "2008-05-20",
+  "title": "Doğal sit alanı Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/38355",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "280665555562519fab0a6c3bf7542beadf2a21813a61141a8a6044717e401e9b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
