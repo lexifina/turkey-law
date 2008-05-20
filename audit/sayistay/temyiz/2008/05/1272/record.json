@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30171",
+  "decision_date": "2008-05-20",
+  "source_id": 1272,
+  "chamber": "2",
+  "file_number": "29565",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1272/",
+  "source_sha256": "1937e3125f34f588728374c058af65880e9c7c85a5daed7c605cf19072ae0f59",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
