@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30176",
+  "decision_date": "2008-05-20",
+  "source_id": 1276,
+  "chamber": "3",
+  "file_number": "29542",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1276/",
+  "source_sha256": "9474b3d1acf998c17381069c60cf86a22f0f02c7dc800701fd6e91078a5f15b7",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
