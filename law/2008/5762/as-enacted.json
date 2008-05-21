@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5762",
+  "year": 2008,
+  "title": "Bazı Yatırım ve Hizmetlerin Yap-İşlet-Devret Modeli Çerçevesinde Yaptırılması Hakkında Kanun ile Devlet Su İşleri Umum Müdürlüğü Teşkilat ve Vazifeleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-05-21",
+  "gazette_issue": "26882",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080521-1.htm",
+  "source_sha256": "91199396d3c2672b77d2cb48183a154c680a044595d36c1a6d4728c465e84edc",
+  "text_sha256": "dab71abf71b092fa2aec4e482c2cce8671f4472356399cbe24abc839c13350e0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/05/21/26882-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080521-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
