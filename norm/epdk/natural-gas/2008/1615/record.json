@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1615",
+  "decision_date": "2008-05-23",
+  "title": "DÜZELTME:29/05/2008 tarihli ve 26890 sayılı Resmi Gazete’de aslına uygun olarak yayımlanan 23/05/2008 tarihli ve 1615 sayılı Kurul Kararında, Madde 1’in a) ve b) şıklarında sehven yanlış yazılan “Mayıs” ayı “Haziran” ayı olarak aşağıdaki şekilde düzeltilmiştir.",
+  "resmi_gazete_date": "2008-06-04",
+  "resmi_gazete_number": "26896",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eYGfy5YXNnY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eYGfy5YXNnY="
+  ],
+  "source_sha256": "032f3b86188a63d38b06895c1db24e340317789dace822fece7f0f024bd16981",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-05-23",
+  "law_text_complete": false
+}
