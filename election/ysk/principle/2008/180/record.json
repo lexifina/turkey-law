@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2008/180",
+  "list_number": "180",
+  "decision_date": "2008-05-23",
+  "title": "YSK ilke kararı 2008/180",
+  "summary": "Özel kanunlarında yer alan hükümler çerçevesinde, kimlik ve adres bilgileri tespitinde bulunan kurum ve kuruluşlar ile gerçek ve tüzel kişilerin bu tür taleplerinin 5490 sayılı Nüfus Hizmetleri Kanunu hükümleri çerçevesinde İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlüğüne yöneltilerek bu kurumdan temini cihetine gidilmesi gerekir. Seçim kurullarından, suç soruşturma ve kovuşturması nedeniyle Cumhuriyet savcılıkları ile mahkemeler tarafından istenecek bilgi ve belgeler ise ilgili mercilere gönderilmelidir.",
+  "concepts": "SORUŞTURMA VE KOVUŞTURMA MAKAMLARINCA BELGE İSTENMESİ, ADRES BİLGİSİ İSTENMESİ",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3188/180.htm",
+  "source_sha256": "bfd6bffe8ddd19d2eb0e8f19c9b8ee01d3fce6052b1e8c0cf1712a5339c5c9ba",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "2008-05-23",
+  "law_text_complete": true
+}
