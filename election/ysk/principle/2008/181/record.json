@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2008/181",
+  "list_number": "181",
+  "decision_date": "2008-05-23",
+  "title": "YSK ilke kararı 2008/181",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3186/181.htm",
+  "source_sha256": "bdcd5d37871819082c4d4c3cc1b478909e10fa5641b5bc5e15c8b5a5c66f2fb2",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2008-05-23",
+  "law_text_complete": false
+}
