@@ -1,0 +1,3 @@
+Sözleşme yapılmasında yüklenici veya müşterinin görev ve sorumluluğu
+MADDE 23 – (1) Sözleşme yapılabilmesi için yüklenici veya müşteri, onaylanan ihale kararının onay tarihini izleyen günden itibaren yedi gün içinde geçici teminatı kesin teminata çevirerek, sözleşmeyi imzalamak zorundadır. Sözleşme vergi, resim, harç ve noter masrafları yükleniciye aittir.
+(2) Satışlara ilişkin ihalelerde müşterinin aynı süre içinde ihale bedeli ile vergi, resim ve harçları yatırması, diğer giderleri ödemesi gerekir. Bu zorunluluklara uyulmadığı takdirde, hiçbir işleme gerek kalmaksızın ihale bozulur ve varsa geçici teminatı Ajansa gelir kaydedilir.
