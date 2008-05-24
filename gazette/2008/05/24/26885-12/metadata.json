@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-05-24",
+  "issue": "26885",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "GENELGE",
+  "title": "Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karar ile Başbakanlık Hazine Müsteşarlığının 91-32/5 Sayılı Tebliğine İlişkin I-M Sayılı Türkiye Cumhuriyet Merkez Bankası Genelgesinde Değişiklik Yapılmasına İlişkin Genelge (Sayı: 2008/4)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080524-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080524.htm",
+  "index_sha256": "c41ae340d08c8fd508644c50b3580b848c5035b6374adcaa1178a626c709e0eb",
+  "index_header": "24 Mayıs 2008 ... 26885 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
