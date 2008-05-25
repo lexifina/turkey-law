@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-05-25",
+  "issue": "26886",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Türk Gıda Kodeksi Sofralık Zeytin Tebliği (No: 2008/24)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080525-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080525.htm",
+  "index_sha256": "f495f593095922711e91e1fafeb1a9d27310151247a703e415e64a7365036136",
+  "index_header": "25 Mayıs 2008 ... 26886 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
