@@ -1,0 +1,1 @@
+Madde 7 – Eğitim ve Araştırma Merkezi Başkan Yardımcısı Çalışma ve Sosyal Güvenlik Bakanı tarafından tayin olunur. Müdürün gaybubetinde kendisine vekalet eder. Müdür tarafından verilen vazifeleri ifa eyler.

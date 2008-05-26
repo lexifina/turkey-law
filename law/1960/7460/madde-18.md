@@ -1,0 +1,1 @@
+Madde 18 – Eğitim ve Araştırma Merkezinde tertip edilecek seminerlere gönderilecek Türk tabiyetindeki stajyerlere yol parası ile zaruri masrafları ve Eğitim ve Araştırma Merkezinde kaldıkları müddete ait yevmiyeleri, muvakkat vazife ile gönderilen memurlar misillu, harcırah kanunu hükümleri dairesinde, ödenir.

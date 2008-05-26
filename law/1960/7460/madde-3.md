@@ -1,0 +1,1 @@
+Madde 3 – Eğitim ve Araştırma Merkezi, bu kanunda yazılı vazife ve gayelerini tahakkuk ettirmek için memleket içinde ve dışındaki resmi ve hususi daire ve müesseselerle temas ve iş birliği mevzularında vekaletin muvafakatini istihsal etmek kaydiyle re'sen muhabere ve temaslarda bulunabilir.

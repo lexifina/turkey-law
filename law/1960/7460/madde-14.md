@@ -1,0 +1,1 @@
+Madde 14 – İkinci maddede yazılı gayelerle tertip edilecek seminerler için, bu kanunun ikinci maddesinin (a) fıkrasında gösterilen yerler ile bunlara mümasil yabancı daire, müessese ve iş yerlerinden Eğitim ve Araştırma Merkezi Başkanlığınca lüzum görülen sayıda stajyer talep edilebilir.

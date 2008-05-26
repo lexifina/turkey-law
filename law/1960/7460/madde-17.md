@@ -1,0 +1,1 @@
+Madde 17 – Türkiye'deki iş yerleri ile resmi daire ve müesseselerden seminerlere iştirak edecek stajyerlerin, staj müddetince çalıştıkları yerler ile olan alakaları devam eder ve bunların kanundan ve akitten doğan her türlü hakları mahfuz tutulur.

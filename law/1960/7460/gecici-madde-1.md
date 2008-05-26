@@ -1,0 +1,1 @@
+Geçici Madde 1 – 1960 mali yılı Çalışma ve Sosyal Güvenlik Bakanlığı bütçesinin 203 üncü ve 416 ncı tertiplerindeki tahsisattan Yakın ve Orta - Doğu Çalışma Eğitim ve Araştırma Merkezinin maaş, ücret ve diğer masraflarını karşılamak üzere Çalışma ve Sosyal Güvenlik Bakanlığınca lüzumlu görülecek miktarlarını mezkür bütçenin alakalı tertiplerine aktarmaya Maliye vekili mezundur.
