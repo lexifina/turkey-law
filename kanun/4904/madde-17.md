@@ -2,10 +2,10 @@
 Özel İstihdam Büroları, Çeşitli Hükümler
 BİRİNCİBÖLÜM
 Özel İstihdam Büroları
-Özel istihdam bürolarının kurulması, seçme, izin verme, yenileme ve denetim
+Özel istihdam bürolarının kurulması, seçme, izin verme, yenileme ve denetim (1)
 MADDE 17 - İş arayanların elverişli oldukları işlere yerleştirilmeleri ve çeşitli işler için uygun işçiler bulunmasına aracılık etme görevi, Kurum ve bu amaçla gerçek veya tüzel kişiler tarafından kurulan özel istihdam bürolarınca yapılır. Özel istihdam büroları, Kurumca iş piyasasının ihtiyaçları dikkate alınarak belirlenecek sayıda ve aranan koşullar çerçevesinde seçilmek ve izin verilmek kaydıyla, kamu kurum ve kuruluşları dışında iş ve işçi bulma faaliyetlerinde bulunabilirler. Yurt dışı hizmet akitlerinin Kuruma onaylatılması zorunludur.
 Kurumca yapılacak duyuru üzerine, özel istihdam bürosu açmak için başvuracak gerçek kişiler ile tüzel kişileri idare, temsil ve ilzama yetkili kişilerin;
-a) Türk vatandaşı ve en az lisans düzeyinde öğrenim görmüş olmaları, müflis veya konkordato ilân etmiş olmamaları,
+a) (…) (1) en az lisans düzeyinde öğrenim görmüş olmaları, müflis veya konkordato ilân etmiş olmamaları, (1)
 b) (Değişik: 23/1/2008-5728/502 md.) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesine göre devlet memurluğuna atanmaya engel mahkûmiyetin bulunmaması,
 Gerekmektedir.
 Ayrıca, özel istihdam bürolarının, iş ve işçi bulma faaliyetlerini gerçekleştirebilecek ölçüde yönetim, nitelikli uzman personel, teknik donanım ve uygun bir işyerine sahip olmaları, iş ve işçi bulma aracılığı izni için on milyar lira tutarında kat’î ve süresiz banka teminat mektubu ile istenilen diğer bilgi ve belgeleri Kuruma vermeleri, masraf karşılığı ödemeleri gerekir.
@@ -13,3 +13,5 @@ Başvurular, yönetmelikle belirlenecek usul ve esaslar doğrultusunda Kurumca d
 Kurumca verilen izinler üç yıl süreyle geçerlidir. İzin süresi, iznin sona erme tarihinden itibaren en az bir ay önce yazılı talepte bulunulması, iznin verilmesinde aranan şartların mevcut olması, ilave kat’î ve süresiz teminat mektubu verilmesi ve yenileme masraf karşılığı ödenmesi kaydıyla, Kurumca üçer yıllık sürelerle yenilenebilir. İş ve işçi bulma aracılığı izni için talep edilen teminat miktarı, her takvim yılı başından geçerli olmak üzere o yıl için 4.1.1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükmü uyarınca tespit ve ilân edilen yeniden değerleme oranında her yıl artırılarak uygulanır. Faaliyette bulunan özel istihdam büroları, izin almak için vermiş oldukları teminat mektubunu her yıl yeniden tespit edilen miktara tamamlamak zorundadırlar. Kuruma verilen teminat mektupları, izin ve yenileme talebinin reddi halinde kararın tebliğ tarihinden itibaren, yenileme talebinde bulunulmaması halinde izin süresinin bitimini müteakip bir ay içinde iade edilir. İznin iptali halinde, iptal kararının kesinleşmesini müteakip teminat Kuruma gelir kaydedilir. Gelir kaydedilen teminat ilgilinin hiçbir borcuna mahsup edilemez.
 Kurum, iş ve işçi bulma faaliyeti için izin verilmesi ve izin yenilenmesi işlemleri ile ilgili olarak özel istihdam bürolarından masraf karşılığı alır.
 Özel istihdam bürolarının bu Kanunun uygulanması ile ilgili faaliyetlerini denetleme yetkisi Kurum müfettişlerine aittir. Özel istihdam büroları, müfettişlerin istedikleri her türlü bilgiyi vermek ve bu bilgilerin doğruluğunu ispata yarayan defter, kayıt ve belgeleri ibraz etmek zorundadırlar.
+––––––––––––––––––
+(1) 15/5/2008 tarihli ve 5763 sayılı Kanunun 22 nci maddesiyle, bu maddenin ikinci fıkrasının (a) bendinde yer alan "Türk vatandaşı ve" ibaresi madde metninden çıkarılmıştır.

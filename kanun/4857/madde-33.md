@@ -1,3 +1,2 @@
 İşverenin ödeme aczine düşmesi
-MADDE 33. - İşverenin konkordato ilan etmesi, işveren için aciz vesikası alınması veya iflası nedenleri ile işverenin ödeme güçlüğüne düştüğü hallerde geçerli olmak üzere, işçilerin iş ilişkisinden kaynaklanan son üç aylık ücret alacaklarını karşılamak amacı ile İşsizlik Sigortası Fonu kapsamında ayrı bir Ücret Garanti Fonu oluşturulur.
-Ücret Garanti Fonu, işverenlerce işsizlik sigortası primi olarak yapılan ödemelerin yıllık toplamının yüzde biridir. Ücret Garanti Fonunun oluşumu ve uygulanması ile ilgili usul ve esaslar Çalışma ve Sosyal Güvenlik Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+MADDE 33. - (Mülga madde:15/5/2008-5763/37 md.)
