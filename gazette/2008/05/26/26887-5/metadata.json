@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-05-26",
+  "issue": "26887",
+  "edition": "regular",
+  "item": 5,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "5763 İş Kanunu ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080526-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080526.htm",
+  "index_sha256": "bea261bb1b8c153a9e52d4d0f4a4bc6e04ee9f5299de6378a9cbf1ce24e7a09e",
+  "index_header": "26 Mayıs 2008 ... 26887 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
