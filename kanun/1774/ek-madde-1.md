@@ -1,0 +1,4 @@
+Ek Madde 1 – (Ek: 29/8/1996 - 4178/10 md.)
+Bu Kanunun uygulanması sırasında genel kolluk kuvvetlerine ait karakollara, il merkezlerinden de sorgulanabilen bilgisayar terminalleri konulur. Bunun için gerekli giderler İçişleri Bakanlığı bütçesine konulacak ödenekten karşılanır.
+5118
+(Değişik ikinci fıkra: 23/1/2008-5728/366 md.) İdarenin bilgisayar sistemi kurması ve gerekli teknik altyapıyı hazırlamasıyla birlikte, bu Kanunun 2 nci maddesinde sayılan özel veya resmi her türlü konaklama tesislerinden Bakanlar Kurulunca belirlenecek olanlar, tespit ve ilan tarihinden itibaren üç yıl içerisinde tüm kayıtlarını bilgisayarda tutmak ve bilgisayar terminallerini genel kolluk kuvvetlerinin bilgisayar terminallerine bağlamak zorundadırlar. Bu şartı yerine getirmeyen kuruluşlara onbin Türk Lirası idarî para cezası verilir. Fiilin tekrarı halinde işletme ruhsatları iptal edilir.
