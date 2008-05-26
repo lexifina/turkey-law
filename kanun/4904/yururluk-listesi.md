@@ -5,3 +5,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 4969 | Geçici Madde 1 | 5/7/2003 tarihinden geçerli olmak üzere 12/8/2003
 5502 | 1 | 20/5/2006
 5728 | 14, 17, 20, 21 | 8/2/2008
+5763 | 13, 17, 20 | 26/5/2008
