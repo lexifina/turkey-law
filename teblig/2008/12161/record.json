@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12161",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU KURUM VE KURULUŞLARINA AİT YER, ARAÇ, BİNA VE TESİSLERDE TÜTÜN ÜRÜNÜ TÜKETENLERE VERİLECEK İDARİ YAPTIRIM KARARLARININ UYGULAMA USUL VE ESASLARI HAKKINDA TEBLİĞ",
+  "number": "12161",
+  "issuer": "kamu idareleri",
+  "path": "teblig/2008/12161",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12161&MevzuatTertip=5",
+  "source_sha256": "5fde686980a343b87cfefa01cdb57b23bc5df9d74904d6bab4963352a7871703",
+  "source_bytes": 85314,
+  "published": "2008-05-27",
+  "gazette": "26888",
+  "in_force": "2008-05-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.05.2008); own commencement article: \"Bu Tebliğ 19/5/2008 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 19/5/2008 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1217,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

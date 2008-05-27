@@ -1,0 +1,3 @@
+İdari yaptırım kararının kesinleşmesi
+MADDE 8 – (1) İdari para cezasına ilişkin idari yaptırım kararı, kararın tebliği ya da tefhimi tarihinden itibaren ilgilinin onbeş gün içinde sulh ceza mahkemesine başvurmaması halinde kesinleşir. İlgilinin, sulh ceza mahkemesine başvurması hâlinde, yargılama sonuçlanıncaya kadar idari yaptırım kararı kesinleşmez. (İdari yaptırım kararlarının kesinleşmesine ilişkin gerekli açıklamalar 12/5/2007 tarihli ve 26520 sayılı Resmi Gazete’de yayımlanan 442 seri nolu Tahsilat Genel Tebliğinde yapılmıştır.)
+(2) İdari yaptırım kararı, kesinleşmesini müteakiben tahsil için (idari para cezasını tahsil yetkisi bulunan idareler hariç) yazı ile ceza verilen kişinin ikametgâhının bağlı olduğu yer vergi dairesine gönderilir.

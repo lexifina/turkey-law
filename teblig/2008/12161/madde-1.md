@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 7/11/1996 tarihli ve 4207 sayılı Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanunun 2 nci maddesinde belirtilen kamu kurum ve kuruluşlarına ait yer, araç, bina ve tesislerde tütün ürünü tüketenlere ilgili birim amiri tarafından yetki verilen kamu görevlileri tarafından uygulanacak idari yaptırımlara ilişkin usul ve esasları düzenlemektir.
