@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-05-29",
+  "issue": "26890",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Abant İzzet Baysal Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080529-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080529.htm",
+  "index_sha256": "b870db5560b1c8c2ec3ffa077ce186e7906a95da94aadd21edeb9115ca424e39",
+  "index_header": "29 Mayıs 2008 ... 26890 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
