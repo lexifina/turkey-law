@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-35/2008-4/Form Ba ve Form Bs-5",
+  "source_id": 806,
+  "date": "2008-05-30",
+  "title": "2008 yılının Ocak, Şubat, Mart, Nisan, Mayıs, Haziran Temmuz, Ağustos ve Eylül aylarına ilişkin \"Form Ba\" ve \"Form Bs\" bildirimleri 05/11/2008 tarihi akşamına kadar verilebilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/806",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "78912227b71f1809db7c8ca17872f3af75b753c5edd5e8f9dc13de79ac32e739",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
