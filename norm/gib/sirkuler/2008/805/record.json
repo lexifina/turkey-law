@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-36/2008-6/POS Belgesi -1",
+  "source_id": 805,
+  "date": "2008-05-30",
+  "title": "Hekimlerin POS bulundurmaları ve kullanmaları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/805",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "5b25d2deb0ee9a797ff7920d0669c49fbc49490f24d7095bc320869a3e38c782",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
