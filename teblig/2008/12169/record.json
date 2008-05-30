@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.12169",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 382)",
+  "number": "12169",
+  "path": "teblig/2008/12169",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12169&MevzuatTertip=5",
+  "source_sha256": "03a7d802ddc3a3e96ac673752f8d155ba21c7aaa9099de31cc13129901a223b5",
+  "source_bytes": 50211,
+  "published": "2008-05-30",
+  "gazette": "26891",
+  "in_force": "2008-05-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.05.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2049,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
