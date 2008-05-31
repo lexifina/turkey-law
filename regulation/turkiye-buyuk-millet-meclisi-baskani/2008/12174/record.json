@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.12174",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BÜYÜK MİLLET MECLİSİ TELEVİZYONU YÖNETMELİĞİ",
+  "number": "12174",
+  "issuer": "Türkiye Büyük Millet Meclisi Başkanı",
+  "issuer_slug": "turkiye-buyuk-millet-meclisi-baskani",
+  "path": "regulation/turkiye-buyuk-millet-meclisi-baskani/2008/12174",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12174&MevzuatTertip=5",
+  "source_sha256": "0e033a1a4a02320d01148be741449c54ca216c42965eb645817db9c9ae6841b3",
+  "source_bytes": 68823,
+  "published": "2008-05-31",
+  "gazette": "26892",
+  "in_force": "2008-05-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.05.2008); own commencement article: \"Bu Yönetmelik Resmi Gazetede yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazetede yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1201,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
