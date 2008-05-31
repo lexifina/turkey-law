@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5764",
+  "year": 2008,
+  "title": "Müşterek Taarruz Uçağının Üretimi, Desteklenmesi ve Sürekli İyileştirilmesine İlişkin Mutabakat Muhtırası ve Buna Dair Malî Yönetim Esasları Dokümanının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-05-31",
+  "gazette_issue": "26892",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080531-1.htm",
+  "source_sha256": "495627d58040e49be4f4df914f942e49fdbd8696600e867479025601f3a7996e",
+  "text_sha256": "cbd1ab6b487b39efc374a9b99ca69995e17a1c3e19f98a08af1bfae51ad9dcc7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/05/31/26892-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/05/20080531-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
