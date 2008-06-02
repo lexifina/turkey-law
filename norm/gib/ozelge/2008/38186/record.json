@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.63/6391-7",
+  "source_id": 38186,
+  "date": "2008-06-02",
+  "title": "Yurt dışında oturma izni bulunanlara yönelik yurt dışına çıkış harcı muafiyeti uygulamasında karşılaşılan sorunlar hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38186",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "6d1b559987f4dea837462c0afcbb8748b2d3d0633c93c6d550ff7352c6f11f67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
