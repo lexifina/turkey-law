@@ -1,0 +1,2 @@
+Mükerrer Madde 138 – (4/12/1985 tarih ve 3239 sayılı Kanunun hükmüdür.)
+Bakanlar Kurulu, bu Kanuna ekli tarifelerde yer alan maktu harçları (maktu ve nispi harçların asgari ve azami miktarlarını belirleyen hadler dahil) birlikte veya her tarife itibariyle ayrı ayrı, yahut tarifelerin ilgili fıkra vebentleri itibariyle birlikte veya ayrı ayrı yirmi katına kadar artırmaya ve Kanunda yazılı had ve miktarlardan az, bu had ve miktarların yirmi katından çokolmamak kaydıyla yeni had ve miktarlar tespit etmeye yetkilidir. (1)
