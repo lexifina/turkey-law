@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.61/6159-2/56537",
+  "source_id": 36445,
+  "date": "2008-06-04",
+  "title": "Çift kabin 4x4 tipindeki taşıtın arazi taşıtı olarak motorlu taşıtlar vergisine tabi tutulması gerektiği hakkında....",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36445",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "ce9e78280afe1865b25e5b816f3cb40e5e3f87523458b129b1bc8a3d1368f718",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
