@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-06-06",
+  "issue": "26898",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "5766 Amme Alacaklarının Tahsil Usulü Hakkında Kanunda ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080606M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080606M1.htm",
+  "index_sha256": "77b00b36b6cff086b95f75a08b1bc18f96e9daf25d63e00c623804baa537e422",
+  "index_header": "6 Haziran 2008 ... 26898 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
