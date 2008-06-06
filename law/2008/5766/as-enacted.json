@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5766",
+  "year": 2008,
+  "title": "Amme Alacaklarının Tahsil Usulü Hakkında Kanunda ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-06-06",
+  "gazette_issue": "26898",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080606M1-1.htm",
+  "source_sha256": "192cd9ecdb050e0f617c0dd0aaca54edcd265783af9d87648dfb91eed8484c08",
+  "text_sha256": "324308538b323bf086facd5786d6044808dcd6025f8371ab50acbe429210388e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/06/06/26898-m1-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080606M1-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
