@@ -14,12 +14,15 @@ MADDE 8 - a) Ekli (1) sayılı cetvelde gösterilen G.T.İ.P. numaralı mallar v
 MADDE 10 – a) 4760 sayılı Kanuna ekli (III) ve (IV) sayılı listeler, ekli (2) ve (3) sayılı cetvellerde, (II) sayılı listedeki 87.11 G.T.İ.P. numaralı mal ve vergi oranı ise ekli (4) sayılı cetvelde gösterildiği şekilde değiştirilmiştir. (5)
 6- 28/3/2007 tarihli ve 5615 sayılı Kanunun 14 üncü maddesi:
 MADDE 14 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (II) sayılı listenin 87.03 G.T.İ.P. numarasında yer alan "- Diğerleri" ibaresinden önce, vergi oranı % 10 olmak üzere "- Motor silindir hacmi 3200 cm3’ü geçmeyen sürücü dahil 9 kişilik oturma yeri olanlar" ibaresi eklenmiş ve (III) sayılı listenin (B) cetvelinin "Asgari Maktu Vergi Tutarı" sütununda yer alan "0,0600" tutarları "0,0700" olarak değiştirilmiştir.
+7- 4/6/2008 tarihli ve 5766 sayılı Kanunun 19 uncu maddesi:
+MADDE 19 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (I), (II), (III) ve (IV) sayılı listeler; ekli (1), (2), (3) ve (4) sayılı cetvellerde gösterildiği şekilde değiştirilmiş … (6)
 ––––––––––––––––––
 (1) Bu maddede yer alan listelerle ilgili olarak 7/8/2003 tarihli ve 25192 sayılı Resmi Gazete’de yayımlanan 4962 sayılı Kanunun ekine bakınız.
 (2) Bu maddede yer alan listelerle ilgili olarak 31/7/2004 tarihli ve 25539 sayılı Resmi Gazete’de yayımlanan 5228 sayılı Kanunun ekine bakınız.
 (3) Bu maddede yer alan listelerle ilgili olarak 31/12/2004 tarihli ve 25687 (3. Mükerrer) sayılı Resmi Gazete’de yayımlanan 5281 sayılı Kanunun ekine bakınız.
 (4) Bu maddede yer alan listelerle ilgili olarak 21/7/2005 tarihli ve 25882 sayılı Resmi Gazete’de yayımlanan 5398 sayılı Kanunun ekine bakınız.
 (5) Bu maddede yer alan listelerle ilgili olarak 8/4/2006 tarihli ve 26133 sayılı Resmi Gazete’de yayımlanan 5479 sayılı Kanunun ekine bakınız.
+(6) Bu maddede yer alan listelerle ilgili olarak 6/6/2008 tarihli ve 26898 (Mükerrer) sayılı Resmi Gazete’de yayımlanan 5766 sayılı Kanunun ekine bakınız.
 Mevzuatın | Yayımlandığı Resmi Gazete’nin
 Türü | Numarası | Tarihi | Numarası
 B.K.K | 2002/4481 | 30/7/2002 | 24831
