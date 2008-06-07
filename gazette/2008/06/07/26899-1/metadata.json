@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-06-07",
+  "issue": "26899",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Radyo-Televizyon Kurumunun 4734 Sayılı Kamu İhale Kanunu’nun 3 üncü Maddesinin (G) Bendi Kapsamında Yapacağı Mal ve Hizmet Alımlarında Uygulanacak Usul ve Esaslar Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080607-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080607.htm",
+  "index_sha256": "7e9a0822798d5e6d391bbadd1f2429d919e1a992794668d6bf4cbececceeccef",
+  "index_header": "7 Haziran 2008 ... 26899 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
