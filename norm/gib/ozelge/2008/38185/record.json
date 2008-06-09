@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.63-6344-91/57539",
+  "source_id": 38185,
+  "date": "2008-06-09",
+  "title": "Varlık yönetim şirketlerinin bankalar ve Fon dahil diğer mali kurumların alacakları ile diğer varlıkların satın alınması, tahsili ve yeniden yapılandırılarak satılması ile ilgili olarak yaptıkları işlemlerden harç ve bu işlemlerle ilgili olarak düzenlenen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38185",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "7b6a2baa1376e27742fee0f22b58185a2069a0d6ffc3a3b152caf74150202654",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
