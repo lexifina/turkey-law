@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-06-10",
+  "issue": "26902",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 9/6/2008 Tarihli ve 2008/37 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080610-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080610.htm",
+  "index_sha256": "a34a4e2f6d852682e1cbee8e6a8430d0958cd2492dd9fc48db3a66cc30b06a34",
+  "index_header": "10 Haziran 2008 ... 26902 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
