@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "1515",
+  "decision_date": "2008-06-10",
+  "official_id": "7678",
+  "version_label": "official-summary",
+  "text_status": "official decision summary and outcome as published in the register's KararOzet field; full text not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2008&ay=&gun=&txtSozcuk=&draw=1&start=800&length=100&txtKararNo=",
+  "source_listing_sha256": "dd1407d3ac7ea5efde99f9917f5f751a86db4f158ac6d8add871916fed590077",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
