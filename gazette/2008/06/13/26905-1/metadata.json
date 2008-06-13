@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-06-13",
+  "issue": "26905",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2008/13676 Gümrük Vergilerinden Muafiyet ve İstisna Tanınacak Haller Hakkında Kararda Değişiklik Yapılmasına İlişkin Kararın Yürürlüğe Konulması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080613-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080613.htm",
+  "index_sha256": "eb5e6fe4dd1e8c4cbcae8a0f5dadc71fba7750e26fb74f600b82d87163098dd0",
+  "index_header": "13 Haziran 2008 ... 26905 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
