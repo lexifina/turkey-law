@@ -1,0 +1,2 @@
+İlgili mevzuat
+MADDE 1- (1) Bu Tebliğ, 4412 sayılı Kanun ile değişik 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 20/10/1999 tarihli ve 99/13482 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999 tarihli ve 23861 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelikten oluşan İthalatta Haksız Rekabetin Önlenmesi Hakkında Mevzuat hükümleri çerçevesinde yürütülmektedir.
