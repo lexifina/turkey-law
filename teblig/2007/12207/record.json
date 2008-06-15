@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.12207",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DERİ VE KÜRK GİYİM EŞYASI İTHALATININ KAYDA ALINMASINA İLİŞKİN TEBLİĞ İTHALAT: (2008/23)",
+  "number": "12207",
+  "issuer": "Dış Ticaret Müsteşarlığı'nın bağlı olduğu Bakan",
+  "path": "teblig/2007/12207",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12207&MevzuatTertip=5",
+  "source_sha256": "78deef2251cca81466037519d84dba91be1112d07f87cb5fcba5145213e58ad6",
+  "source_bytes": 93988,
+  "published": "2007-12-31",
+  "gazette": "26743",
+  "in_force": "2008-06-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.-15/6/2008\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2008-06-15",
+      "R.G.-15/6/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2008 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1206,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
