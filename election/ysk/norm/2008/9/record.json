@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2008/9",
+  "list_number": "197",
+  "genelge_number": "9",
+  "decision_date": "2008-06-17",
+  "title": "Her Türlü Organ Seçiminde Görev Alacak Seçim Kurulu Başkanları ile Personele ve Diğer Görevlilere Ödenecek Ücret Miktarının ve Kriterlerinin Belirlenmesi Hususunda Yüksek Seçim Kurulu Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1695/2008-9.pdf",
+  "source_sha256": "39f858199406bc326d2af2d24468b41708bf40c38b44fd76d9ab0a6c3cbee237",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2008-06-17",
+  "law_text_complete": false
+}
