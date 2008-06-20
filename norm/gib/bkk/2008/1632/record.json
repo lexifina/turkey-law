@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2008/13762",
+  "source_id": 1632,
+  "date": "2008-06-20",
+  "title": "ÖZEL TÜKETİM VERGİSİ KANUNUNUN 11 VE12 NCİ MADDELERİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/bkk/1632",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "17b3037d06dde0a7452772b210dd5e0114b97002489dce300cecad1d6cf50049",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
