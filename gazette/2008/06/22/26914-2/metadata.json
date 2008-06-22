@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-06-22",
+  "issue": "26914",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sigorta İhtisas Komiteleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080622-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080622.htm",
+  "index_sha256": "c02e726a0123aa43d92891e592346c4c091db6c510ad2582e1996538a73a2b30",
+  "index_header": "22 Haziran 2008 ... 26914 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
