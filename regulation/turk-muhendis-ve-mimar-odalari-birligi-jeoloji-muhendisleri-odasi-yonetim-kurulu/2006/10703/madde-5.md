@@ -1,0 +1,31 @@
+İKİNCİ BÖLÜM
+Hizmet Alanları, Kuruluş ve Çalışma Koşulları
+Jeoloji mühendisliği hizmet alanları
+MADDE 5 – (1) Jeoloji mühendisliği mesleğinin bu Yönetmelikte kapsamı belirtilen başlıca hizmet alanları şunlardır:
+a) Genel jeoloji ve saha jeolojisi, jeolojik harita üretimi,
+b) Mineraloji-petrografi,
+c) Sedimantoloji-stratigrafi,
+ç) Tektonik,
+d) Jeokimya,
+e) Paleontoloji,
+f) Amaca yönelik olarak jeolojik modelleme, değişik ölçeklerde jeolojik harita üretimi, jeolojik kesit hazırlanması,
+g) Maden jeolojisi,
+ğ) Endüstriyel hammaddeler,
+h) Petrol ve doğalgaz jeolojisi,
+ı) Jeotermal kaynak jeolojisi,
+i) Kömür jeolojisi, asfaltit ve bitümlü şeyl,
+j) Hidrojeoloji,
+k) Mühendislik jeolojisi,
+l) Jeoteknik çalışmalar kapsamındaki jeoloji mühendisliği hizmetleri,
+m) Çevre jeolojisi,
+n) Kıyı ve deniz jeolojisi,
+o) Doğal afetler/Doğal tehlikeler,
+ö) Tıbbi jeoloji,
+p) Süs taşları jeolojisi,
+r) Jeo-sit, jeolojik miras, jeoarkeoloji,
+s) Sondaj uygulamalarında jeoloji mühendisliği hizmetleri,
+ş) Jeoloji eğitimi,
+t) Laboratuvar hizmetleri,
+u) İş riski ve güvenliği ve yönetimi,
+ü) Eğitim, araştırma-geliştirme ve müşavirlik,
+v) Diğer jeoloji mühendisliği hizmetleri.

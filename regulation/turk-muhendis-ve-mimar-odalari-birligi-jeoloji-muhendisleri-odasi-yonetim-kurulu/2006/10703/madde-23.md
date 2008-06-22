@@ -1,0 +1,2 @@
+Yabancı mühendisler ile yabancı şirketler
+MADDE 23 – (1) Jeoloji mühendisliği hizmetlerini yerine getirmek üzere Türkiye’de bulunan yabancı gerçek ve tüzel kişiliklerle ilgili konularda, 1/2/2005 tarihli ve 25714 sayılı Resmî Gazete’de yayımlanan TMMOB Yabancı Mühendis, Mimar ve Şehir Plancılarının Çalışma İznine Esas Değerlendirilmesi ve Geçici Üyelik Müracaatları Hakkında Yönetmelik ile bu Yönetmelik hükümleri uygulanır.

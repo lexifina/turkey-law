@@ -1,0 +1,14 @@
+Serbest jeoloji mühendislik ve müşavirlik hizmetleri tescil belgesi alan kuruluşların yetki ve sorumlulukları
+MADDE 18 – (1) SJMMH-TB alan tüzel kişiliklerin yetki ve sorumlulukları aşağıda belirtilmiştir;
+a) SJMMH’ni yapmaya, yalnızca SJMMH-TB verilen SJMMHK’lar yetkilidir. Bu yetki, teknik uygulama sorumluluğu dahil tüm SJMMH için ülke çapında geçerlidir.
+b) Tescilin yapılmış olması, SJMMHK’ ları kanun ve ilgili mevzuat hükümlerine uymamaktan dolayı doğacak sorumluluklardan kurtarmaz.
+c) SJMMHK’lar, bu Yönetmelik kapsamına giren tüm SJMMH’nde ve yapacağı hizmet sözleşmesinde mesleki esaslar, kamu ve meslektaş yararları doğrultusunda, ilgili mevzuat ve borçlar hukuku çerçevesinde iyi niyet kurallarına uygun davranarak, ilgili konularda oda tarafından yürürlüğe konulmuş şartnameler ve belirlenmiş asgari ücret çizelgelerine uyacaktır.
+ç) (Danıştay Sekizinci Dairesinin 11/11/2021 tarihli ve E.:2019/9406; K.:2021/5285 sayılı kararı ile iptal bent; SJMMHK’lar, bu Yönetmelik kapsamına giren tüm SJMMH ürünlerini işveren, ilgili idare veya onay makamınca istensin veya istenmesin mesleki denetimden geçirecek ve onaylatacaktır.)
+d) SJMMHK’lar, bu Yönetmelik kapsamına giren tüm SJMMH yi bağlı bulundukları şube veya temsilciliklere sunarken, aşağıdaki belgeleri ve hizmetin tümü gözönüne alınarak Oda tarafından istenilen diğer belgeleri Oda birimlerine vermekle yükümlüdür. Mesleki denetim inceleme ve onay yeri SJMMH nin uygulandığı yerin bağlı olduğu Oda birimidir.
+e) Mesleki denetim için SJMMH ürünleri ile aşağıdaki belgeler oda birimine birlikte verilir. Eğer Oda birimi SJMMHK’ nın bağlı olduğu Oda birimi birbirinden farklı ise aşağıdaki belgelere ilave olarak SJMMH-TB nin bir fotokopisi de verilir.
+1) (Değişik:RG-22/6/2008-26914) Varsa, işveren ve büro arasında imzalanmış sözleşme,
+2) Yapılan SJMMH ürünü dokümanlar,
+3) SJMMH’ye ilişkin, en az Oda tarafından belirlenmiş asgari ücretler üzerinden kesilmiş varsa Oda tarafından hazırlanmış örneğe uygun, serbest meslek makbuzu veya fatura. Ancak, yapılan SJMMH’de, SJMMHK aynı zamanda işveren konumunda ise, bu durum belgelenerek, serbest meslek makbuzu veya fatura kesilecektir.
+f) Mesleki denetim için gerekli belgelerde SJMMHK’nın vergi dairesinin adı ve adresi, vergi numarası, işverenin adı ve adresi ile vergi mükellefi ise vergi dairesinin adı ve vergi numarası yer alacaktır.
+g) SJMMHK’ların mesleki denetim ve onay hizmeti için yapacakları ödeme miktarı oda yönetim kurulu tarafından belirlenerek ilan edilir. Bu ücret tüzel kişilik tarafından ödenir, işverenden ayrıca istenemez.
+ğ) (Değişik:RG-22/6/2008-26914) Ücretli çalıştırdığı SJM’nin aylık maaş ve dört aylık Sosyal Güvenlik Kurumu prim bordrosunun onaylanmış nüshasını dört ayda bir, en geç izleyen ay içinde Odaya bildirmeyen SJMMHK ile ilgili herhangi bir Oda işlemi yapılmaz ve belge verilmez.
