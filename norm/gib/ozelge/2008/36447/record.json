@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.61/6159-332/62499",
+  "source_id": 36447,
+  "date": "2008-06-23",
+  "title": "Motorlu Araç Tescil Belgesi ile \"Motorlu Araç Trafik Belgesi\" nde cinsi otomobil olarak belirtilen taşıtların MTV Kanununda yer alan (I) sayılı tarifeye göre otomobil olarak motorlu taşıtlar vergisine tabi tutulmasının mümkün bulunduğu hakkında....",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36447",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "52764797f48eee45712be0875f40d37dd143b2350dfd48e39c6dfec2f393f6fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
