@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30263",
+  "decision_date": "2008-06-24",
+  "source_id": 1395,
+  "chamber": "8",
+  "file_number": "29754",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1395/",
+  "source_sha256": "15c95cf82d30cc14d3ca6f5cc7d2f7ed855d2fb65cd06d9fa10a23b5bfc492ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
