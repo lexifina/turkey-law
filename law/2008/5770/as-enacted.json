@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5770",
+  "year": 2008,
+  "title": "Çavuş ve Uzman Çavuş Kanununun Bir Maddesinde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-06-24",
+  "gazette_issue": "26916",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080624-3.htm",
+  "source_sha256": "0a87bf8c555cd19b08fc06a57a313e8bea82a9aa1cd831c7bc1a1d3553678a58",
+  "text_sha256": "08d524bc706eec8a4ae3aabac8336e4fbed56209aaf75015810e01c66bd31302",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/06/24/26916-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080624-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
