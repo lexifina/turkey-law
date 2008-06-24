@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5771",
+  "year": 2008,
+  "title": "Harp Akademileri Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-06-24",
+  "gazette_issue": "26916",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080624-4.htm",
+  "source_sha256": "226cf9f08161efd4e5d7dc48db0c6e5fd26c57693874b9569b5f3cb91991c32a",
+  "text_sha256": "992f51afd59713221c9e2df8fa3f6a9417abdc8af3bb9018721f04fd9e73a400",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/06/24/26916-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080624-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
