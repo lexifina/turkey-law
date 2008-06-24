@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5777",
+  "year": 2008,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ukrayna Bakanlar Kurulu Arasında Savunma Sanayi İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2008-06-24",
+  "adopted_as_published": "24/06/2008",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "04.07.2008 No: 26926",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc092/kanuntbmmc092/kanuntbmmc09205777.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 92",
+  "committee_reports": [
+    {
+      "label": "TBMM 85 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c023/tbmm23023121ss0085.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 708602,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Ukrayna Bakanlar Kurulu Arasında Savunma Sanayi İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "24/06/2008",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc092/kanuntbmmc092/kanuntbmmc09205777.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 85 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c023/tbmm23023121ss0085.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 121,
+          "sitting_date": "2008-06-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c023/tbmm23023121.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c023/tbmm23023fih.pdf",
+          "pages": [
+            "536:537",
+            "549:564"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "aa79592b095d9f3b18682390b140a6620e1ab5c78c002a7c5c7aa1307ecc739e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "aa79592b095d9f3b18682390b140a6620e1ab5c78c002a7c5c7aa1307ecc739e",
+  "issuer": "TBMM",
+  "in_force": "2008-06-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/06/2008; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
