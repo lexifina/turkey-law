@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5769",
+  "year": 2008,
+  "title": "Askerlik Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-06-24",
+  "gazette_issue": "26916",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080624-2.htm",
+  "source_sha256": "82ef824505cf10d0c75f92636df1054a37295ec8eb1510560fc5f6a336687fee",
+  "text_sha256": "a1308ee44ca6c20480d5626b9d984219523f2fd6c0fb132e9a58e99da39abadd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/06/24/26916-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/06/20080624-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
