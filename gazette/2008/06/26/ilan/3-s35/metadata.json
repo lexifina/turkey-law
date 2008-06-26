@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-06-26",
+  "issue": "26918",
+  "edition": "regular",
+  "item": 35,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Başbakanlık Gümrük Müsteşarlığı Tasiş Genel Müdürlüğü İstanbul İşletme Bölge Müdürlüğü Edirne İşletme Şube Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2008/06/20080626-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (36 = 36)",
+  "ilan_codes": [
+    "6375/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2008/06/20080626-3.htm",
+  "category_page_sha256": "11460f9374f22312c5a26179318f2a7f5c825e95bd9485acd048169bce5456d0",
+  "issue_on_category_page": "26918",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2008/06/20080626.htm",
+  "index_sha256": "6d9ff5c7daae1d887f0765dc16751a7121b40f5cb143a811a8c705692cb6de79",
+  "index_header": "26 Haziran 2008 ... 26918 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
