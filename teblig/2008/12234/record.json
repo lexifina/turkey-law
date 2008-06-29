@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.12234",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 384)",
+  "number": "12234",
+  "path": "teblig/2008/12234",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12234&MevzuatTertip=5",
+  "source_sha256": "f1113fc62376dd72e37f632a9ed1988e57d02fb8e0631294d7585d515ae34c37",
+  "source_bytes": 12207,
+  "published": "2008-06-29",
+  "gazette": "26921",
+  "in_force": "2008-06-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.06.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 584,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
