@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.12233",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TAHSİLAT GENEL TEBLİĞİ SERİ: B SIRA NO: 3",
+  "number": "12233",
+  "path": "teblig/2008/12233",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12233&MevzuatTertip=5",
+  "source_sha256": "ce6a51b5b671da6ab94ecfd0345f45a0fe745c6bc96c4c61aed191ed7d7a49f9",
+  "source_bytes": 26897,
+  "published": "2008-06-29",
+  "gazette": "26921",
+  "in_force": "2008-06-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.06.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1313,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
