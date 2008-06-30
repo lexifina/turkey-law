@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6685-5215-65421",
+  "source_id": 37098,
+  "date": "2008-06-30",
+  "title": "5737 sayılı Vakıflar Kanununun 77 nci maddesi hükmü uyarınca mazbut vakıflara ait arazilerin emlak vergisinden muaf olup olmayacakları hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37098",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "73e33de3322e214c527e85dcf796e6396976f8b2392cd8d31e9121428dee7499",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
