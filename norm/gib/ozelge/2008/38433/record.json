@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68./6802-2",
+  "source_id": 38433,
+  "date": "2008-07-01",
+  "title": "Bankadan kullanılan konut geliştirme kredisinin şartlara uygun olması kaydıyla fon kesintisine tabi tutulmaması gerekmekte olup eğer şartlara aykırı olarak yapılmış bir fon kesintisi varsa fazla veya yersiz yapılmış bu kesintilerin iadesinin mümkün bulun",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38433",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "38e9712cb99bbd0fc7330461e97910496dc157e8b60cceba858ad8ae058ef2d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
