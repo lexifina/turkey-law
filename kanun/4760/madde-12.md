@@ -43,7 +43,7 @@ MADDE 16-1. İthalde alınan özel tüketim vergisi gümrük makbuzunda ayrıca 
 ALTINCI BÖLÜM
 Diğer Hükümler
 Özel tüketim vergisi hâsılatının paylaşımı
-MADDE 17 - 1. Bu Kanuna ekli (I) sayılı listede yer alan mallardan tahsil edilen özel tüketim vergisi hâsılatının tamamından, (II) sayılı listede yer alan mallardan tahsil edilen özel tüketim vergisi hâsılatının % 28'inden ve (III) sayılı listede yer alan mallardan tahsil edilen özel tüketim vergisi hâsılatının % 60'ından, 2380 sayılı Belediyelere ve İl Özel İdarelerine Genel Bütçe Vergi Gelirlerinden Pay Verilmesi Hakkında Kanun ile 5216 sayılı Büyükşehir Belediyesi Kanunu hükümlerine göre mahallî idarelere pay verilmez. (1)
+MADDE 17 - 1. (Mülga: 2/7/2008-5799/8 md.)
 2. Bu Kanuna ekli (III) sayılı listede yer alan mallar üzerinden tahsil edilen özel tüketim vergisi hâsılatından;
 a) 3238 sayılı Kanunla kurulan Savunma Sanayii Destekleme Fonuna % 7,9 oranında pay ayrılır. Bu hükme göre ayrılacak pay, Maliye Bakanlığınca, tahsilatın yapıldığı ayı takip eden ayın sonuna kadar T.C. Merkez Bankasındaki Fon hesabına yatırılır.
 b) (Mülga: 14/7/2004-5217/43 md.)
@@ -52,8 +52,6 @@ d) (Mülga: 14/7/2004-5217/43 md.)
 e) 3.1.2002 tarihli ve 4733 sayılı Kanunun 5 inci maddesinde yer alan giderlerde kullanılmak üzere % 0,2 oranında pay ayrılır.
 3. (Mülga: 14/7/2004-5217/43 md.)
 4. (Değişik: 14/7/2004-5217/18 md.) Bakanlar Kurulu, bu madde uyarınca özel tüketim vergisi hasılatından verilecek paylara ilişkin oranları topluca veya ayrı ayrı sıfıra kadar indirmeye yetkilidir.
-––––––––––––––––
-(1) 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu fıkrada yer alan "3030 sayılı Büyük Şehir Belediyelerinin Yönetimi Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun hükümlerine" ibaresi "5216 sayılı Büyükşehir Belediyesi Kanunu hükümlerine" şeklinde değiştirilmiştir.
 Yürürlükten kaldırılan hükümler
 MADDE 18 - 1. 10.9.1960 tarihli ve 79 sayılı Kanunun 5 inci maddesinin (c) bendi,
 2. 492 sayılı Harçlar Kanununa bağlı trafik harçlarını düzenleyen (9) sayılı tarifenin "(I.) Tescil harçları" bölümü,
