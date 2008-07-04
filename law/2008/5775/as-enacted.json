@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5775",
+  "year": 2008,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ukrayna Bakanlar Kurulu Arasında Demiryolu Taşımacılığı Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-07-04",
+  "gazette_issue": "26926",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080704-1.htm",
+  "source_sha256": "e490093420aadeac2a2da5573417adcb8fabc78f628b57ed5fb4a1fa4fca550c",
+  "text_sha256": "e58ceaa2efbecdb49df108eea388845f6d08e202c7585e193bfec1da74ad8f47",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/07/04/26926-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080704-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
