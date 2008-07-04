@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5777",
+  "year": 2008,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ukrayna Bakanlar Kurulu Arasında Savunma Sanayi İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-07-04",
+  "gazette_issue": "26926",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080704-3.htm",
+  "source_sha256": "4e998f0ef2f8f04211415f80fa5d6025634b31651c0af9845d7c32cc4a20e175",
+  "text_sha256": "7b3ce4a8b1ced7429f2258f2dc25842eb28b5b24567526bca6de7198298f3113",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/07/04/26926-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080704-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
