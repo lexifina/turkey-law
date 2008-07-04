@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5776",
+  "year": 2008,
+  "title": "Türkiye Cumhuriyeti Jandarma Genel Komutanlığı ile Ukrayna İçişleri Bakanlığı İç Birlikler Ana Departmanı Arasında Güvenlik Alanında Personel Eğitimi ve Öğretimi İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-07-04",
+  "gazette_issue": "26926",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080704-2.htm",
+  "source_sha256": "a37e319bc84a9908723fd5662b79ac1f97b0acec36300c276ddf8c2601c20933",
+  "text_sha256": "64c901b23f8248cd1766bb452ebf4d9081d1e50c05f469908b3c61eb2bd4be6f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/07/04/26926-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080704-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
