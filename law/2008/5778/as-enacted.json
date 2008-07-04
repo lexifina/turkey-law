@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5778",
+  "year": 2008,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ukrayna Bakanlar Kurulu Arasında Kişilerin Geri Kabulüne İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-07-04",
+  "gazette_issue": "26926",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080704-4.htm",
+  "source_sha256": "06d3430abc4b0f5c108bda42e0115e3f23cd18e245c3bccce64f7a2903b49711",
+  "text_sha256": "67eeef01c3d91da6f992a9cb6d6c25dfa2395c92b0725eb722d4f8868ad1d186",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/07/04/26926-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080704-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
