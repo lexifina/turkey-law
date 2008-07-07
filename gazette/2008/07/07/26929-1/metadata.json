@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-07-07",
+  "issue": "26929",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Dışişleri Bakanlığı Sürekli Merkez Hizmeti Gören Personelin Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinde Değişiklik Yapılması Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080707-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080707.htm",
+  "index_sha256": "227b2f9d0199f72b7573d5c054d90651a9d30496e33f0f5c2d27393c8fe2da75",
+  "index_header": "7 Temmuz 2008 ... 26929 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
