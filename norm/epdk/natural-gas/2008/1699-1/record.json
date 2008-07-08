@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1699/1",
+  "decision_date": "2008-07-08",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 08/07/2008 tarihli toplantısında; 24/04/2008 tarihli 26856 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 17/04/2008 tarihli ve 1577 sayılı Kurul Kararı",
+  "resmi_gazete_date": "2008-07-19",
+  "resmi_gazete_number": "26941",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=W0/5dJ66sp0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=W0/5dJ66sp0="
+  ],
+  "source_sha256": "5b8f4ce339907012c6c55dccdbe1ae898671f9ff290f213fe70acaaea3e9fa76",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-07-08",
+  "law_text_complete": false
+}
