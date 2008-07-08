@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-07-08",
+  "issue": "26930",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özel Tüketim Vergisi Genel Tebliği (Seri No: 14)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080708-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080708.htm",
+  "index_sha256": "b0cf62279e4a8f4ee549b57fa0a3910170ce48c87496f38f48600e504f6b8553",
+  "index_header": "8 Temmuz 2008 ... 26930 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
