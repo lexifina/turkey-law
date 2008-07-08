@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-07-08",
+  "issue": "26930",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "2009-2011 Dönemi Bütçe Çağrısı ve Bütçe Hazırlama Rehberi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080708M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080708M1.htm",
+  "index_sha256": "bff11a5a19ab5d2163eb4a62c5dfa86a8ee94f3bd7e7b7c5bd74c5157d0eee0a",
+  "index_header": "8 Temmuz 2008 ... 26930 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
