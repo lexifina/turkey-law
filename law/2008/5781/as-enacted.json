@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5781",
+  "year": 2008,
+  "title": "Avrupa Yatırım Bankasının Türkiyede Temsilcilikler Açmasına Dair Türkiye Cumhuriyeti Hükümeti ile Avrupa Yatırım Bankası Arasındaki Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-07-09",
+  "gazette_issue": "26931",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080709-3.htm",
+  "source_sha256": "0e8c62a97971bf519d67ab3b696041ed73ce1ae92a0449cecb6cab9c88894089",
+  "text_sha256": "6356b3a7680b2ac8e7623ac03261f168e12d9695de931a22d1f34946821b2038",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/07/09/26931-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080709-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
