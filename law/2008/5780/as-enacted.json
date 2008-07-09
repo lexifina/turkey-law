@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5780",
+  "year": 2008,
+  "title": "Türkiye Atom Enerjisi Kurumu ile Ukrayna Devlet Nükleer Düzenleme Komitesi Arasında Nükleer Düzenleme Konularında Teknik İşbirliği ve Bilgi Değişimi Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-07-09",
+  "gazette_issue": "26931",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080709-2.htm",
+  "source_sha256": "15b767f8a9cc0f5816e90ba8575a3d893458da190481e3f9464c3b95c1243adb",
+  "text_sha256": "a5bf46aec082ef5543b7af7bcdf2fc25acf5a912d9eef42d26eb7365f98c029d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/07/09/26931-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080709-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
