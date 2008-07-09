@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30308",
+  "decision_date": "2008-07-09",
+  "source_id": 1955,
+  "chamber": "4",
+  "file_number": "29567",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1955/",
+  "source_sha256": "005ae90ce9e48c3bd0a8759924c9f6e2923d0238c1efca099e30744f5e545cd5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
