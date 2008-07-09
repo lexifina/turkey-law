@@ -1,0 +1,4 @@
+Üye Kesenekleri ve Sandık Varlıkları Üzerinde Hak Talep Edilemeyeceği
+Madde 45 — Sandık üyelerinden alınan bütün kesenekler ile Sandıktaki diğer adı geçen fonlara kayıtlı üyelere ve hak sahiplerinden alınan paralar, yönetmelikte yazılı hak ve sosyal yardımlarının karşılığı ve Sandığın mallarını oluşturduğundan, bunlar üzerinde gerek üyeler, gerek diğer hak sahipleri ve gerekse üçüncü şahıslar, yönetmelikte yazılı hususlar dışında, hiçbir hak talep edemezler.
+Sandık tarafından sağlanan sosyal güvenlik yardımları, üyelere münhasırdır. Bunlar hiçbir şekilde başkalarına devir, temlik veya terhin edilemez. Edilse bile, bu tasarruflar Sandık yönünden hükümsüz sayılır.
+Bundan başka, iflâs veya borçtan dolayı, şahsen takip edilmesi halinde dahi üye, alacaklılar lehine ek sosyal yardımlardan mahrum edilemez ve Sandığa karşı kovuşturmada bulunulamayacağı gibi, Sandık mallarına da baş vurulamaz.

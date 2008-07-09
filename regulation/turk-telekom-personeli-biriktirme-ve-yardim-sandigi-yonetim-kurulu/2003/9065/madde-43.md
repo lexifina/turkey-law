@@ -1,0 +1,4 @@
+Üyelerin Bildirim Yükümlülüğü
+Madde 43 — Sandık üyeleri kişisel ve aile durumlarıyla ilgili olarak, Sandık yönetimi veya idaresi tarafından istenen bilgileri, Sandığın talep tarihinden itibaren en geç bir ay içinde Sandığa vermek ve durumlarında meydana gelecek değişiklikleri de yine bir ay içerisinde talep edilmeden Sandığa bildirmek mecburiyetindedirler.
+Evlenme, doğum, ölüm gibi üyenin veya ailesinin medeni hallerini ilgilendiren ve üye bilgilerinin değiştirilmesini gerektiren her türlü durum ile Sandık Yönetmeliğinde yazılı diğer hususların da, bir ay içinde Sandığa bildirilmesi mecburidir.
+Bilerek yalan veya yanlış beyanda bulunanlar bu hareketlerinin sonucunda hukuken sorumlu oldukları gibi, bu mükellefiyetlerini yerine getirmemekten dolayı uğradıkları haksızlık veya zararın telâfisi için Sandığı sorumlu tutamazlar, zararlarını rücû edemezler.

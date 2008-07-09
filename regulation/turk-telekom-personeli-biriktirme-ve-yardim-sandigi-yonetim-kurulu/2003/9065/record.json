@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.9065",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK TELEKOM PERSONELİ BİRİKTİRME VE YARDIM SANDIĞI GENEL YÖNETMELİĞİ",
+  "number": "9065",
+  "issuer": "Türk Telekom Personeli Biriktirme ve Yardım Sandığı Yönetim Kurulu",
+  "issuer_slug": "turk-telekom-personeli-biriktirme-ve-yardim-sandigi-yonetim-kurulu",
+  "path": "regulation/turk-telekom-personeli-biriktirme-ve-yardim-sandigi-yonetim-kurulu/2003/9065",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9065&MevzuatTertip=5",
+  "source_sha256": "f99d7df6009dcd057f956570fce21fe8f3429dae9a0bdf8a8eb4b616ebf5fd11",
+  "source_bytes": 85203,
+  "published": "2003-10-07",
+  "gazette": "25252",
+  "in_force": "2008-07-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/7/2008\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2008-07-09",
+      "RG-9/7/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-07-09",
+      "R.G.-9/7/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-07-13",
+      "RG-13/07/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, 9/8/2003 tarihinden itibaren geçerli olmak üzere, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4270,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

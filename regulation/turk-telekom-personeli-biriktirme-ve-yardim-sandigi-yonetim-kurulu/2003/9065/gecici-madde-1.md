@@ -1,0 +1,1 @@
+Geçici Madde 1 — İsteğe Bağlı Yaşam Destek Fonu Yönetmeliğinin yürürlüğünden önce emekliye ayrılmış olan eski Sandık üyeleri, Yönetmelikle belirlenen süre içerisinde başvurdukları takdirde Yönetmeliğin 18 inci maddesinde gösterilen İsteğe Bağlı Yaşam Destek Fonu hakkından yararlanabilir.

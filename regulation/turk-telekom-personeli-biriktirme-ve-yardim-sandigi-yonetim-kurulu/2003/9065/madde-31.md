@@ -1,0 +1,2 @@
+Temsil Yetkisi
+Madde 31 — Türk Telekom Personeli Biriktirme ve Yardım Sandığını, Yönetim Kurulu Başkanı, Başkanın mazereti olduğu hallerde Başkan Vekili temsil eder ve toplantıları yönetir. Sandığın hukuki sorumluluğunu gerektirecek ve yükümlülük doğuracak her türlü evrak, belge, vekaletname ve sözleşmelerin Yönetim Kurulunca yetkili kılınan üç kişi tarafından imzalanması gerekir. İmzaya yetkili kişilerle bunların öncelik sıraları Yönetim Kurulunca saptanır ve bir sirkülerde belirtilir.

@@ -1,0 +1,2 @@
+Yönetim Kurulu
+Madde 26 — Yönetim Kurulu seçilmiş 8 asil ve 8 yedek üyeden teşekkül eder. Sandık Yönetim Kurulunda en az beş yıllık Sandık üyeliği aranır. Yönetim Kurulu üyelerinin görev süresi üç yıldır. Olağanüstü Genel Kurulda Yönetim Kurulu seçimi yapılması halinde yeni seçilecek Yönetim Kurulunun görev süresi Olağan Genel Kurulda sona erer. Huzur hakkı aylık asgari ücretin iki katıdır. Yönetim Kurulu üyeleri bu göreve seçildiklerinde ve görevleri sona erdiğinde mal beyanında bulunurlar.
