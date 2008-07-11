@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-07-11",
+  "issue": "26933",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Tekstil Ürünlerinin İsimlendirilmesi ve Etiketlendirilmesine İlişkin Tebliğin (TRKGM: 2001/03) Yürürlükten Kaldırılmasına Dair Tebliğ (SGM: 2008/11)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080711-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080711.htm",
+  "index_sha256": "aa0d4b14c0e905e25fc02bda71b4a264c95f456d5b8a8b45e21ddf54c67dfa17",
+  "index_header": "11 Temmuz 2008 ... 26933 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
