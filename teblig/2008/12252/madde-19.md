@@ -1,0 +1,5 @@
+Sınav sonunda yapılacak işler
+MADDE 19 – (1) Sınavda dağıtılan kitap sayısı ile cevaplanan kitap sayısı aynı olacaktır.
+(2) Salon sayısı bir taneyse sınav komisyonu Tutanağı düzenlenir. Salon sayısı birden fazlaysa her salon için salon komisyonu tutanağı düzenlenir, sınav salon komisyon üyeleri (iki kişi) tarafından imzalanır. Salon komisyonu tutanakları, sınav komisyon başkanı ve üyeleri tarafından incelenir, komisyon başkanı tarafından imzalanır. Sonuç, Sınav Komisyonu Tutanağı'nda toplanır.
+(3) Komisyon tutanaklarında sınava giren aday sayısı, sınava girmeyen aday sayısı, varsa sınavı iptal edilen aday sayısı yazılır. Sınav sırasında olanlar ve olaylar özetlenir, imzalanır.
+(4) Sınav komisyon tutanağı, varsa salon komisyon tutanakları, bina listesi, salon listesi, yoklama listesi, soru kitapları içinde cevap formları, bireysel sınav iptal tutanakları varsa gözlemci raporu, dilekçe ve belgeler bir zarfa yerleştirilir. Her salona ait sınav kitapları ile cevap formları ve yoklama listesi ayrı ayrı paketlenerek merkezi sınav komisyonuna gönderilir.

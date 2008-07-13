@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.12252",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AMATÖR DENİZCİ BELGESİ SINAVINA İLİŞKİN TEBLİĞ",
+  "number": "12252",
+  "issuer": "Denizcilik Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2008/12252",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12252&MevzuatTertip=5",
+  "source_sha256": "d6a70df03a5227e9949805cdff91badbcc08f513c1bd335d7e625f37c00863cd",
+  "source_bytes": 62251,
+  "published": "2008-07-13",
+  "gazette": "26935",
+  "in_force": "2008-07-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.07.2008); own commencement article: \"Bu Tebliğ yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2022,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.12252%20ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
