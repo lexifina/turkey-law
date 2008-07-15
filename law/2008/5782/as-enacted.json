@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5782",
+  "year": 2008,
+  "title": "Tapu Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-07-15",
+  "gazette_issue": "26937",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080715-2.htm",
+  "source_sha256": "fe3ad7c8eb3499ec4e4a834e5637b740909fd59ec65acfb9b3c6421e55e86e56",
+  "text_sha256": "3d8c15692b7cc3e1d67adeccb44856414eac2a65efef5f77a3412e30b6218537",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/07/15/26937-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080715-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
