@@ -2,8 +2,8 @@ ALTINCI BÖLÜM
 Malî Hükümler
 Büyükşehir belediyesinin gelirleri
 MADDE 23.- Büyükşehir belediyesinin gelirleri şunlardır:
-a) Genel bütçe vergi gelirleri tahsilât toplamı üzerinden ilçe ve ilk kademe belediyelerine verilen paylardan Bakanlar Kurulu tarafından belirlenecek oranlar içinde ayrılarak İller Bankası tarafından gönderilecek pay.
-b) Büyükşehir belediye sınırları içinde yapılan genel bütçe vergi gelirleri tahsilât toplamı üzerinden Maliye Bakanlığı tarafından hesaplanıp, ertesi ayın sonuna kadar ilgili büyükşehir belediyesine yatırılacak % 5 pay.
+(Mülga: 2/7/2008-5779/8 md.)
+(Mülga: 2/7/2008-5779/8 md.)
 c) 2464 sayılı Belediye Gelirleri Kanununda yer alan oran ve esaslara göre büyükşehir belediyesince tahsil olunacak at yarışları dahil müşterek bahislerden elde edilen Eğlence Vergisinin % 20’si müşterek bahislere konu olan yarışların yapıldığı yerin belediyesine, % 30’u nüfuslarına göre dağıtılmak üzere diğer ilçe ve ilk kademe belediyelerine ayrıldıktan sonra kalan % 50'si.
 d) Büyükşehir belediyesine bırakılan sosyal ve kültürel tesisler, spor, eğlence ve dinlenme yerleri ile yeşil sahalar içinde tahsil edilecek her türlü belediye vergi, resim ve harçları.
 e) 7 nci maddenin birinci fıkrasının (g) bendinde belirtilen alanlar ile bu alanlara cephesi bulunan binalar üzerindeki her türlü ilân ve reklamların vergileri ile asma, tahsis ve bakım ücretleri.
@@ -19,5 +19,5 @@ n) Şartlı ve şartsız bağışlar.
 o) Diğer gelirler.
 ________________________
 (1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu fıkrada yer alan “Büyükşehir belediyesi” ibaresinden sonra gelmek üzere “1.hukuk müşaviri ve” ibaresi eklenmiştir.
-Bakanlar Kurulu, birinci fıkranın (b) bendindeki % 5 pay oranını iki katına kadar artırmaya veya kanunî haddine indirmeye yetkilidir. Bu payın %75'i bu tutardan düşülerek doğrudan ilgili belediye hesabına, kalan %25'i ise büyükşehir belediyelerine nüfuslarına göre dağıtılır. Hesaplama ve dağıtım işlemleri Maliye Bakanlığınca yapılır.
+(Mülga: 2/7/2008-5779/8 md.)
 Büyükşehir belediyeleri ve bağlı kuruluşları ile ilçe ve ilk kademe belediyeleri; tahsil ettikleri vergiler ve benzeri malî yükümlülüklerden birbirlerine ödemeleri gereken paylar ile su, atık su ve doğalgaz bedellerini zamanında yatırmadıkları takdirde, ilgili belediye veya bağlı kuruluşun talebi üzerine söz konusu tutar, İller Bankası tarafından, yükümlü belediyenin genel bütçe vergi gelirleri payından kesilerek alacaklı belediyenin hesabına aktarılır. (Değişik ikinci cümle: 21/4/2005-5335/ 28 md.) Gecikmeden kaynaklanacak faiz ve benzeri her türlü zararın tazmininden, ilgili ilçe veya ilk kademe belediye başkanı ve sayman şahsen sorumludur. Bu fıkra hükmü, ilçe ve ilk kademe belediyeleri hesabına yapılacak her türlü aktarmaları zamanında yapmayan büyükşehir belediye başkanı, bağlı kuruluş genel müdürleri ve saymanları hakkında da uygulanır.
