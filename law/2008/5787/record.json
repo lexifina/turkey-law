@@ -1,0 +1,72 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5787",
+  "year": 2008,
+  "title": "Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2008-07-16",
+  "adopted_as_published": "16/07/2008",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "23.07.2008 No: 26945",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc092/kanuntbmmc092/kanuntbmmc09205787.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 92",
+  "committee_reports": [
+    {
+      "label": "TBMM 237 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c025/tbmm23025130ss0237.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 708612,
+      "title": "Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "16/07/2008",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc092/kanuntbmmc092/kanuntbmmc09205787.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 237 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c025/tbmm23025130ss0237.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 130,
+          "sitting_date": "2008-07-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c025/tbmm23025130.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c025/tbmm23025fih.pdf",
+          "pages": [
+            "44:72"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 131,
+          "sitting_date": "2008-07-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c025/tbmm23025131.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c025/tbmm23025fih.pdf",
+          "pages": [
+            "203:216",
+            "218:251"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "aa79592b095d9f3b18682390b140a6620e1ab5c78c002a7c5c7aa1307ecc739e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "aa79592b095d9f3b18682390b140a6620e1ab5c78c002a7c5c7aa1307ecc739e",
+  "issuer": "TBMM",
+  "in_force": "2008-07-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 16/07/2008; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
