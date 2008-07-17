@@ -1,0 +1,3 @@
+Eğitim programına başvuru ve kursiyerliğe kabul edilme
+MADDE 12 – (1) 9 uncu maddede belirtilen nitelikleri taşıyan hemşireler görev yaptıkları kurumlar aracılığıyla Enfeksiyon Kontrol Hemşireliği Sertifika Programına müracaat ederler. Başvuru dilekçeleri ve kurumlarının uygunluk yazıları Bakanlıkça değerlendirilir ve talebin uygun bulunması halinde kursiyer kursa başlatılır.
+(2) (Değişik: RG-21/12/2006-26383) Eğitime katılacak kursiyer kontenjanının % 65’i Bakanlık, % 25’i üniversite ve % 10’u diğer hastanelerde çalışan hemşirelere ayrılacaktır. Bakanlık mevcut ihtiyaçlar ve başvurulara göre gerekli durumlarda Kurul görüşünü alarak bu dağılımda değişiklik yapabilir.

@@ -1,0 +1,2 @@
+Kursiyerlerin değerlendirilmesi
+MADDE 18 – (1) Sınavla ilgili tüm belgeler il sınav komisyonu tarafından toplanarak, gizlilik ilkesine uygun bir şekilde en geç bir sonraki iş günü içerisinde Bakanlığa iletilir. Sınav sonuçları Bakanlığın ilgili biriminde merkezi olarak değerlendirilir. Eğitim programına katılan kursiyerlerin başarılı sayılarak sertifikalandırılması için kurs bitiminde yapılacak sınav sonucunda 100 üzerinden en az 75 puan alması gereklidir. Sınavla ilgili itirazlar Bakanlıkça değerlendirilir, gerekli hallerde Kurul görüşü istenebilir.

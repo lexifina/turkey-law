@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ; 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu maddesinin (c) bendine, 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43 üncü maddesine ve 11/8/2005 tarihli ve 25903 sayılı Resmî Gazete’de yayımlanan Yataklı Tedavi Kurumları Enfeksiyon Kontrol Yönetmeliğinin 16 ncı maddesine dayanılarak hazırlanmıştır.
