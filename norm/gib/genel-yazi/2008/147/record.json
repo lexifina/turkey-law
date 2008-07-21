@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "genel-yazi",
+  "number": null,
+  "source_id": 147,
+  "date": "2008-07-21",
+  "title": "634 SAYILI KANUNUN GEÇİCİ 1 İNCİ MADDESİNE İLİŞKİN GENEL YAZI",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/genelyazilar/147",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/genelYazilar/list",
+  "source_listing": "evidence/list/2026-11-16/genelYazilar-p000.json",
+  "source_listing_sha256": "7fa6cf53cc6e422afa260107b4b730e46ac896bef1c1d196cf603add29126053",
+  "source_sha256": "0ada573da068b6c3585772627c01c1fe62d7be1b12e38e7ec9eae428941e01ee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
