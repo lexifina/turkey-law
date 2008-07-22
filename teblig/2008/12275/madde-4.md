@@ -1,0 +1,3 @@
+Mevcut önlem
+MADDE 4 – (1) İthalatta Haksız Rekabetin Önlenmesine İlişkin 2003/16 sayılı Tebliğ (2003/16 sayılı Tebliğ) kapsamında 8301.40.11.00.00, 8301.40.19.00.00, 8301.60.00.00.00 gümrük tarife istatistik pozisyonları altında kayıtlı sırasıyla "topuzlu kapı kilidi (elektromekanik olanlar hariç), diğer kapı kilitleri (elektromekanik olanlar hariç), yalnız kapı kilitleri için silindir bareller ile kilit kasası" ürünleri için ÇHC’ye yönelik sırasıyla; 1,60 ABD Doları/Adet, 1,77 ABD Doları/Adet, 0,74 ABD Doları/Adet nispetlerinde ülke temelinde uygulanan dampinge karşı önlem mevcuttur.
+(2) Halihazırda yürürlükte olan kesin önlem, 31/7/2003 tarih ve 25185 sayılı Resmî Gazete’de yayımlanan 2003/16 sayılı Tebliğ ile yürürlüğe konulmuştur.
