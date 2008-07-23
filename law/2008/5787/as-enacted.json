@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5787",
+  "year": 2008,
+  "title": "Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-07-23",
+  "gazette_issue": "26945",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080723-2.htm",
+  "source_sha256": "a6ab63554fe050a0299e49637c20aa51f4b97b7a3a84447ffc7111c31c936225",
+  "text_sha256": "a9ab5e8878840de246585201eb4108f9201c1dd00215d72f224716baa93cc495",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/07/23/26945-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080723-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
