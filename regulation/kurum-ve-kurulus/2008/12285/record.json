@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.12285",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ELEKTROMEKANİK SANAYİ GENEL MÜDÜRLÜĞÜ ANA STATÜSÜ",
+  "number": "12285",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2008/12285",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12285&MevzuatTertip=5",
+  "source_sha256": "ffeebb08a26ff10bc02501cd8912688787c375671be0102f9841222921002df6",
+  "source_bytes": 76293,
+  "published": "2008-07-26",
+  "gazette": "26948",
+  "in_force": "2008-07-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.07.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4257,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.12285%20ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

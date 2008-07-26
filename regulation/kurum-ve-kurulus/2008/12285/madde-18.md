@@ -1,0 +1,10 @@
+Yönetim komitesinin görev ve yetkileri ile toplanması
+MADDE 18 – (1) Yönetim komitesi; Teşekkülce tespit edilen esaslara, işletme bütçesi ve programlara uygun olarak, verimlilik ve kârlılık ilkeleri doğrultusunda müessesenin yönetimini sağlayacak kararları almakla görevli ve yetkilidir.
+(2) Toplantı yeri müessese merkezidir. Teşekkül genel müdürünün izni ve müessese ile ilgili başka bir yerde de toplanabilir.
+(3) Yönetim komitesi, başkanın daveti üzerine ayda iki defadan az olmamak üzere üye tamsayısının salt çoğunluğu ile toplanır. Toplantı günü ile saatini de gösteren gündem başkan tarafından tespit edilerek toplantıdan en az yirmidört saat önce üyelere dağıtılır. Yönetim komitesi kararıyla gündemde değişiklik yapılabilir.
+(4) Yönetim komitesi üyelerinden en az ikisinin, görüşme konularını gösteren yazılı önergesi üzerine belli günler dışında da toplantı yapılabilir.
+(5) Yönetim komitesi, üye tamsayısının salt çoğunluğu ile toplanır ve kararlarını çoğunlukla alır. Oylarda eşitlik halinde başkanın bulunduğu taraf çoğunluğu sağlamış olur.
+(6) Yönetim komitesinden karar alınmasını gerektiren konulara ait teklifler müessese müdürü tarafından komiteye getirilir ve gündeme alınır.
+(7) Yönetim komitesi başkan ve üyelerinin bütün toplantılara katılmaları esastır. Mazereti olanların durumları toplantıya ait tutanakta belirtilir.
+(8) Olağanüstü hallerde üçüncü fıkrada belirtilen gündeme göre başkanın daveti üzerine toplanabilir.
+(9) Müessese müdürü herhangi bir yönetim komitesi kararının uygulanmasında ciddi sakıncalar gördüğü ve bu kararda komitece ısrar edildiği takdirde, konunun önce Teşekkül genel müdürü tarafından incelenmesini isteyebilir. Genel müdür gerekli görürse konunun Teşekkül yönetim kurulunca incelenerek kesin çözüme kavuşturulmasını ister. Bu hususta Teşekkül genel müdürünün talimatı alınıncaya veya Teşekkül yönetim kurulu karar verinceye kadar yönetim komitesi kararı uygulanmaz. Teşekkül genel müdürünün talimatına veya Teşekkül yönetim kurulu kararına uyulması zorunludur.
