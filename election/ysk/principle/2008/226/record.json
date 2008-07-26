@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2008/226",
+  "list_number": "226",
+  "decision_date": "2008-07-26",
+  "title": "YSK ilke kararı 2008/226",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3180/226.htm",
+  "source_sha256": "669b25fc87429e654e8bd580f60ddab15adef2007881c313cf0a4c461646e2da",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2008-07-26",
+  "law_text_complete": false
+}
