@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.12286",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GİDER VERGİLERİ GENEL TEBLİĞİ SERİ NO: 86",
+  "number": "12286",
+  "path": "teblig/2008/12286",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12286&MevzuatTertip=5",
+  "source_sha256": "f7edd15cd67d71c7c597f472c988df14b357fdc34a3e2aae03e8544d77815f35",
+  "source_bytes": 92075,
+  "published": "2008-07-26",
+  "gazette": "26948",
+  "in_force": "2008-07-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.07.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2422,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
