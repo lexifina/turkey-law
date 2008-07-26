@@ -45,7 +45,7 @@ e) Sıvı veya gaz halindeki hidrokarbonlarla, hidrokarbon türevi olan yakıtla
 36) Rafinerici: Lisansı gereği rafinaj faaliyeti yapma hakkı verilmiş, petrol ticareti yapan sermaye şirketini,
 37) Serbest kullanıcı: Kalorifer yakıtı, fuel-oil ve motorinde yıllık 5 000 tondan aşağı olmayacak şekilde Kurum tarafından ürün bazında belirlenen tüketim miktarından fazla yıllık petrol tüketimi olan lisanslı kullanıcıyı,
 38) Solvent: Kimya ve sanayi tesislerinde tüketilen ve/veya yeni kimya ve sanayi mamulleri üretiminde kullanılan petrol ürünlerini,
-39) Taşıma: Ham petrolün rafineriye ulaştırılmak üzere toplandığı teslim noktasından sonra, diğer ürünlerin ise taşıma araçları ile yapılan tüm nakil faaliyetleri bütününü,
+39) (Değişik: 9/7/2008-5784/27 md.) Taşıma: Ham petrol ve akaryakıtların, kabotaj kapsamında denizyolu ve demiryolu taşıma araçlarıyla yapılan nakil faaliyetlerini,
 40) Taşıyıcı: Taşıma faaliyeti yapan gerçek ve tüzel kişileri,
 41) Tehlikeli eylem: Piyasa faaliyetinin yapılmasında, bunların yapıldığı mahalde veya yakınında bulunan bir kimsenin ölümüne, sakatlanmasına veya sağlığının bozulmasına, çevrenin kirlenmesine sebep olan veya olabilecek nitelikte bulunan bir fiil veya ihmali,
 42) (Ek: 25/1/2007-5576/1 md.) Teknik düzenleme: Petrolün ve madenî yağın, ilgili idarî hükümler de dahil olmak üzere, standartları, ölçüleri, özellikleri, işleme ve üretim yöntemleri, bunlarla ilgili terminoloji, sembol, ambalajlama, işaretleme, etiketleme ve uygunluk değerlendirmesi işlemleri hususlarından biri veya birkaçını belirten ve uyulması zorunlu olan her türlü düzenlemeyi,

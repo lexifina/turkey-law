@@ -6,7 +6,7 @@ Akaryakıt haricinde kalan petrol ürünleri (solvent, madeni ve baz yağ, asfal
 Sanayi tesislerinde yan ürün olarak elde edilen ürünün yurt içinde akaryakıt olarak faaliyete konu edilmesi halinde, Kuruma bilgi verilmek şartıyla teknik düzenlemelere uygun olanları dağıtıcılara, uygun olmayanlar rafinerilerin olumlu görüş vermesi ve anlaşma sağlanması halinde rafinerilere teslim edilir. Rafinerilere verilmeyen ürünlerin ihraç edilmesi halinde fiili üretim ve ihracata ait aylık bilgiler Kuruma bildirilir.
 Akaryakıtların, 4 üncü maddenin dördüncü fıkrasının (ı) bendinde belirlenen teknik düzenlemelere uygun olmayanları faaliyete konu edilemez.
 Fabrika, şantiye, nakliye filosu işletmeleri ve benzeri kendi ihtiyaçları için depolama imkânı ve kendi araçlarına akaryakıt ikmal kapasitesi olan yerler hariç, araçlara yapılacak akaryakıt ikmali bayilik lisansı ve yeterli donanımı olan akaryakıt istasyonları dışında yapılamaz.
-Bayiler lisanslarına işlenmek ve taşıma lisansı sahiplerinin taşıma araçlarında istenen kriterleri sağlamak koşuluyla kendi araçları ile taşıma yapabilirler.
+(Mülga sekizinci fıkra: 9/7/2008-5784/27 md.) (…)
 İcrası için tesis gerektiren faaliyet türlerinde, bu maddede konu edilen hakların kullanılabilmesi için, ilgili tesisin fiilen faaliyette bulunması zorunludur.
 Rafinericiler evsafına uygun ürün teslim etmek, dağıtıcılar ile bayiler ise akaryakıtların kullanım amacını, niteliğini, niceliğini değiştirmemek ile yükümlüdür.
 Kurulca belirlenecek usul ve esaslara göre akaryakıtla harmanlanan ürünler bu durumda akaryakıt ile eşdeğer vergiye tâbi olurlar. Ancak, yerli tarım ürünlerinden elde edilen ve akaryakıtla harmanlanan ürünler bunun dışındadır.

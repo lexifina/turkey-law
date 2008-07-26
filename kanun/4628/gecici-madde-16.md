@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 16 – (Ek: 9/7/2008-5784/9 md.)
+Otoprodüktör gruplarına, mevcut lisanslarındaki hakları korunarak 30/6/2009 tarihine kadar üretim lisansı verilir. Bunun için otoprodüktör gruplarınca bu Kanunun yürürlüğe girmesinden sonra altı ay içerisinde Kuruma başvurulur. Kurul, otoprodüktör grup ortaklarının haklarının korunması için gereken önlemleri alır. Bu tarihten sonra Kuruma otoprodüktör grubu lisansı başvurusunda bulunulamaz, yapılan başvurular üretim lisansı başvurusu kapsamında değerlendirilir.
