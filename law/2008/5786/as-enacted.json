@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5786",
+  "year": 2008,
+  "title": "1.5.2008 Tarihli ve 5760 Sayılı Serbest Muhasebecilik, Serbest Muhasebeci Malî Müşavirlik ve Yeminli Malî Müşavirlik Kanununda Değişiklik Yapılması Hakkında Kanun ve Cumhurbaşkanınca Bir Daha Görüşülmek Üzere Geri Gönderme Tezkeresi ve Komisyon Raporuna İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-07-26",
+  "gazette_issue": "26948",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080726-2.htm",
+  "source_sha256": "279a6199e3947113fb95265e4b2455fe50bff48cb57b323f3178e9372c228f62",
+  "text_sha256": "331b75ef8b41ddea83bd8f2ad16287af6ded5df22918dbf0c2deaa97103df34f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/07/26/26948-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080726-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
