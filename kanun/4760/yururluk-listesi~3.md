@@ -13,3 +13,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 5615 | (II), (III) sayılı liste | 4/4/2007
 5766 | 1, 4, 7, 7/A, 12, 13, 15, (I), (II), (III), (IV) sayılı listeler | 6/6/2008 tarihini izleyen ayın başında
 5779 | 17 | 1/7/2008
+5784 | GEÇİCİ MADDE 5 | 26/7/2008

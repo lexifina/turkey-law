@@ -4,13 +4,13 @@ Kurul üyeleri; hukuk, siyasal bilgiler, idari bilimler, kamu yönetimi, iktisat
 Bakanlar Kurulu, atamayla birlikte Kurul Başkanını ve İkinci Başkanı görevlendirir.
 Kurul başkan ve üyelerinin görev süresi altı yıldır. Görev süresi sona eren üyeler tekrar seçilebilir.
 Başkanlık veya üyelikler, görev süresi dolmadan herhangi bir sebeple boşaldığı takdirde, boşalan üyeliklere bir ay içinde atama yapılır.
+––––––––––––––––––––––
+(1) 18/4/2001 tarihli ve 4646 sayılı Kanunun 14 üncü maddesiyle, bu Kısım ve Bölümde, 4 üncü maddenin başlığında ve metninde yer alan “Elektrik Piyasası Düzenleme Kurumu” ibareleri “Enerji Piyasası Düzenleme Kurumu” “Elektrik Piyasası Düzenleme Kurulu” ibareleri “Enerji Piyasası Düzenleme Kurulu” şeklinde değiştirilmiştir.
+(2) 18/4/2001 tarihli ve 4646 sayılı Kanunun 14 üncü maddesiyle, bu maddenin başlığında ve metninde yer alan “Elektrik Piyasası Düzenleme Kurulu” ibaresi “Enerji Piyasası Düzenleme Kurulu” şeklinde değiştirilmiştir.
 Bu Kanunun diğer maddeleri ile belirlenen görevlerinin yanısıra, Kurul aşağıdaki görevleri de yerine getirir:
 a) Bu Kanun hükümlerini uygulamak.
 b) Her yılın ocak ayının sonuna kadar, serbest tüketici tanımına ilişkin limitlerdeki indirimleri belirlemek ve yeni limitleri yayımlamak.
 c) Tüketicilere güvenilir, kaliteli, kesintisiz ve düşük maliyetli elektrik enerjisi hizmeti verilmesini teminen gerekli düzenlemeleri yapmak.
-––––––––––––––––––––––
-(1) 18/4/2001 tarihli ve 4646 sayılı Kanunun 14 üncü maddesiyle, bu Kısım ve Bölümde, 4 üncü maddenin başlığında ve metninde yer alan “Elektrik Piyasası Düzenleme Kurumu” ibareleri “Enerji Piyasası Düzenleme Kurumu” “Elektrik Piyasası Düzenleme Kurulu” ibareleri “Enerji Piyasası Düzenleme Kurulu” şeklinde değiştirilmiştir.
-(2) 18/4/2001 tarihli ve 4646 sayılı Kanunun 14 üncü maddesiyle, bu maddenin başlığında ve metninde yer alan “Elektrik Piyasası Düzenleme Kurulu” ibaresi “Enerji Piyasası Düzenleme Kurulu” şeklinde değiştirilmiştir.
 d) Lisans sahipleri için kabul görmüş muhasebe usulleri uyarınca mali raporlama standartları ve yönetim bilişim sistemlerini belirlemek ve bunların uygulanmasını sağlamak.
 e) Üretim, iletim ve dağıtım şirketleri ile otoprodüktör ve otoprodüktör grubu tesisleri için güvenlik standartları ve şartlarını tespit etmek ve bunların uygulanmasını sağlamak.
 f) Piyasanın gelişimine bağlı olarak yeni ticaret yöntemleri ve satış kanallarının uygulanabilmesine yönelik altyapının geliştirilmesi ve uygulanmasını sağlamak.

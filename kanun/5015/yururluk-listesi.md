@@ -11,3 +11,4 @@ Değiştiren Kanunun/ Tebliğin/İptal Eden Anayasa Mahkemesinin Kararının Num
 5576 | 2, 7, Ek Madde 3, 4, 5 ve Geçici Madde 4 | 13/2/2007
 7/12/2007 tarihli ve 26723 sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2008
 5728 | 19, 20 | 8/2/2008
+5784 | 2, 9 | 26/7/2008
