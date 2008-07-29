@@ -1,0 +1,2 @@
+Kaynak olarak bildirilmeyecek olanlar
+MADDE 13 – (1) Türkiye Cumhuriyeti vatandaşı olmayanlar, onbeş yaşından küçük altmışbeş yaşından büyük Türkiye Cumhuriyeti vatandaşları, görevini yapamayacak derecede özürlü olanlar, muvazzaf askerlik görevini yapmakta olanlar, sefer görev emri bulunanlar, Milli Savunma Bakanlığınca personel ertelemesine tabi tutulanlar ile sivil savunma mükellefiyeti bulunanlar insan gücü kaynağı olarak bildirilmezler.
