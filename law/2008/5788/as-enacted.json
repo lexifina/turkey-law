@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5788",
+  "year": 2008,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bahreyn Krallığı Hükümeti Arasında Askeri İş Birliğine Dair Çerçeve Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-07-29",
+  "gazette_issue": "26951",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080729-1.htm",
+  "source_sha256": "d9367b5f06347591ea21d364d3555e658c689878a49526116a60f2cf5a5e2fee",
+  "text_sha256": "9dcbbef56312fa4832f0906d85d4deb8d500d350b0747ce88073a025c55eb551",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/07/29/26951-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080729-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
