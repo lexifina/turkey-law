@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5792",
+  "year": 2008,
+  "title": "Türkiye Cumhuriyeti ile Gürcistan Arasındaki Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-07-29",
+  "gazette_issue": "26951",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080729-3.htm",
+  "source_sha256": "a4462c944c25807c438dcfc9f0f4aa28d186718d8a41d25ab0df92adc8c2f9e7",
+  "text_sha256": "6e2dfd7e4104b891f1feb32d36ae8b17bebcf0c3797ad3e8f657b23309425049",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/07/29/26951-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080729-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
