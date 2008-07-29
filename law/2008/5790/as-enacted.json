@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5790",
+  "year": 2008,
+  "title": "Denizde Can ve Mal Koruma Hakkında Kanun ve Limanlar Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-07-29",
+  "gazette_issue": "26951",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080729-2.htm",
+  "source_sha256": "4be278180eaa137e3f286ca92eb088e8422ed2881d0cc6aabad601997fdf8f3b",
+  "text_sha256": "084dc4d204553b3ca6ed4d3c0848d32ee5e96c3f7461616df43bfae91b38982b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/07/29/26951-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/07/20080729-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
