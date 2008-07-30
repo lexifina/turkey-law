@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1700",
+  "decision_date": "2008-07-30",
+  "title": "İzmit Gaz Dağıtım Sanayi ve Ticaret A.Ş. tarafından uygulanacak perakende satış tarifesi ile ilgili Kurul Kararı",
+  "resmi_gazete_date": "2008-08-07",
+  "resmi_gazete_number": "26960",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gRwXCd3LhjQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gRwXCd3LhjQ="
+  ],
+  "source_sha256": "9d4ddef6efbfd09083cbea723090f3eaebad462080c370d51ef8e779f4a61c55",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-07-30",
+  "law_text_complete": false
+}
