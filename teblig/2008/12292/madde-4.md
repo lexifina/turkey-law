@@ -1,0 +1,4 @@
+Yerinde doğrulama soruşturmaları
+MADDE 4 – (1) Yönetmeliğin 21 inci maddesi çerçevesinde, zarara ilişkin bilgilerin güncelleştirilmesi ve doğrulanması için üretim ve idari merkezleri Adapazarı, İzmit ve Gebze’de bulunan yerli üreticiler Çamsan Ağaç Sanayi ve Ticaret A.Ş., Kastamonu Entegre Ağaç Sanayi ve Ticaret A.Ş. ve Yıldız Entegre Ağaç Sanayi ve Ticaret A.Ş. nezdinde yerinde doğrulama soruşturması yapılmıştır.
+(2) Soruşturmaya konu ÇHC’de yerleşik üreticilerden Jiangsu Lodgi Woods Industry Co.Ltd., Changzhou Lingdian Woods Co.Ltd., Changzhou Dongjia Decorative Materials Co.Ltd., Changzhou Ou Qiang Wood Industry Co., Ltd. ve Jiangsu Zhongxin Desai Wood Product Co., Ltd. nezdinde de yerinde doğrulama soruşturması gerçekleştirilmiştir.
+(3) İthalatçılarca sunulan bilgilerin yeterli delillerle desteklenenleri dikkate alınmış olup, ithalatçılar nezdinde yerinde doğrulama soruşturmasına gerek görülmemiştir.

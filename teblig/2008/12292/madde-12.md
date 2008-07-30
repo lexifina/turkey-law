@@ -1,0 +1,3 @@
+Damping marjı
+MADDE 12 – (1) Yönetmelik’in 11 inci maddesi hükmü çerçevesinde damping marjı, AC3 ve AC1 sınıf farkı ile 8 mm ve 12 mm kalınlık farklarının göz önünde bulundurulduğu oluşturulmuş normal değer ile bu ürünlere karşılık gelen ağırlıklı ortalama ihraç fiyatlarının karşılaştırılması suretiyle hesaplanmıştır.
+(2) Bu çerçevede, damping marjı Jiangsu Lodgi Woods Industry Co.Ltd. firması için CIF ihraç fiyatının %62,41’i, Changzhou Lingdian Woods Co.Ltd. firması için %64,32’si, Changzhou Dongjia Decorative Materials Co.Ltd. firması için %62,40’ı, Changzhou Ou Qiang Wood Industry Co.Ltd. firması için %44,06’sı, Jiangsu Zhongxin Desai Wood Product Co.Ltd. firması için ise % 38,92’si olarak tespit edilmiştir.

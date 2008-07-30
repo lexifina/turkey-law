@@ -1,0 +1,2 @@
+Fiyat karşılaştırması
+MADDE 11 – (1) Normal değerle ihraç fiyatlarını adil biçimde fabrika çıkış aşamasında karşılaştırmak amacıyla, ihraç fiyatının belirlenmesi aşamasında, mevcut veriler çerçevesinde gümrük ve liman yükleme-boşaltma giderleri, navlun ve sigorta giderleri için ilgili üretici/ihracatçının verileri ithalatçı faturaları ve diğer kaynaklardan elde edilen veriler kullanılarak ayarlama yapılmıştır.
