@@ -1,0 +1,4 @@
+BEŞİNCİ KISIM
+Diğer Hususlar
+Üçüncü ülkelerden ithalat
+MADDE 20 – (1) 2002–2006 döneminde üçüncü ülkelerden yapılan ithalat incelendiğinde, önlemin de etkisiyle 2002 yılında ithalatı miktarının ve ithalat içi payın arttığı, izleyen yıllarda hafif dalgalı bir seyir izlediği buna karşılık 2002-2006 yılları arasında ithalatın genel ithalattaki seyre paralel bir şekilde %12 oranında artış gösterdiği görülmektedir. Üçüncü ülkeler menşeli ithalatın birim fiyatlarının önleme tabi ülkelerden gerçekleştirilen ithalatın birim fiyatlarının üzerinde olduğu görülmektedir. Diğer ülkelerden gerçekleştirilen ithalat miktarı ve bu ithalatın fiyat düzeyi incelendiğinde Türkiye pazarındaki temel rekabetin önleme tabi ülkeler arasında yaşandığı, bu durumun önlemin yürürlükten kalkması halinde de önlem konusu ülkelerden yapılan dampingli ithalat nedeniyle yerli üretim dalında zararın devam etmesinin veya yeniden meydana gelmesinin muhtemel olduğu tespitini desteklediği düşünülmektedir.

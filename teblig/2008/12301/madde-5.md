@@ -1,0 +1,5 @@
+İlgili tarafların bilgilendirilmesi
+MADDE 5 – (1) Soruşturma açılmasını müteakip, soruşturma konusu ülkelerin Büyükelçilikleri veya resmi temsilciliklerine ve bilinen üretici-ihracatçı firmalara şikayetin gizli olmayan metni ve soruşturma açılış Tebliği gönderilmiştir.
+(2) Ayrıca, ilgili taraflardan alınan bilgi ve belgelerin gizli olmayan özetleri talep eden bütün ilgili tarafların bilgisine sunulmuştur.
+(3) Yönetmelik’in 25 inci maddesi uyarınca, soruşturmanın ilgili taraflarına soruşturma sonucundaki belirlemelere esas teşkil eden bilgileri içeren nihai bildirimler gönderilmiş, görüş ve değerlendirmelerini iletmeleri için makul bir süre tanınmıştır. Üretici-ihracatçılara ayrıca, nihai bildirime ilişkin görüşlerini sözlü olarak iletebilmelerini teminen talep gelmesi halinde dinleme toplantıları düzenlenebileceği de bildirilmiş ancak taraflardan bu yönde bir talep gelmemiştir.
+(4) Tarafların soruşturma boyunca ortaya koyduğu tüm bilgi, belge ve görüşler incelenmiş, mezkûr görüşlerden mevzuat kapsamında değerlendirilebilecek olanlara bu Tebliğin ilgili bölümlerinde yanıt verilmiştir.

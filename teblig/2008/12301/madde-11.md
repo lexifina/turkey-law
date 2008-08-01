@@ -1,0 +1,3 @@
+DÖRDÜNCÜ KISIM
+Zararın Devamı veya Yeniden Meydana Gelmesi İhtimali
+MADDE 11 – (1) Önlemin yürürlükte olduğu dönemde, yerli üretim dalında zarar durumu ve önlemin yürürlükten kalkması halinde zarara etki edebilecek muhtemel gelişmeler incelenmiştir. Bu çerçevede, ithalatın miktarı ve muhtemel gelişimi, fiyatlarının gelişimi ve muhtemel fiyat baskısı ve potansiyeli ile yerli üretim dalının ekonomik göstergeleri incelenmiştir. Bununla beraber, önlem öncesinde yaşanan ekonomik krizin etkisiyle ithalatın genelinin düşüş gösterdiği dikkate alınarak değerlendirme dönemine 2000 yılı da dahil edilmiş, önlemin etkisini ve önlem sonrası duruma ilişkin eğilimleri görebilmek amacıyla gözden geçirme dönemini (2004-2006) de içine alan 2000-2006 dönemi ele alınmıştır.

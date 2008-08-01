@@ -1,0 +1,6 @@
+İKİNCİ KISIM
+Soruşturma Konusu Ürün ve Benzer Ürün
+Soruşturma konusu ürün ve benzer ürün
+MADDE 7 – (1) Soruşturma konusu ürün Güney Kore, ÇHC, Tayland, Malezya ve Çin Tayvanı menşeli 54.07 gümrük tarife pozisyonu altında yer alan ve önleme tabi gümrük tarife istatistik pozisyonları EK’te verilen "sentetik filamentten mensucat"ın giyim için kullanılanlarıdır.
+(2) Yerli üretim dalı tarafından üretilen sentetik filamentten mensucat ile soruşturma konusu ülkeler menşeli sentetik filamentten mensucatın benzer ürün olduğu tespiti mevcut önlemin yürürlüğe girmesini sağlayan soruşturmada (esas soruşturma) yapılmıştır. Bu soruşturmada ise gerek yerli üretim dalı tarafından üretilen gerekse soruşturma konusu ülkelerden Türkiye’ye ihraç edilen sentetik filamentten mensucatın işlevsel özellikleri, fiziksel özellikleri, kullanım alanları, dağıtım kanalları, kullanıcıların algılaması ve birbirini ikame edebilmeleri açısından iki ürünün benzer ürün olma durumunu ortadan kaldıracak bir değişiklik olduğuna dair herhangi bir görüş alınmamıştır.
+(3) Bu nedenle, Güney Kore, ÇHC, Malezya, Tayland ve Çin Tayvanı menşeli soruşturma konusu ürün ile yerli üretim dalı tarafından üretilen sentetik filamentten mensucatın benzer ürün olduğu tespiti geçerliliğini korumaktadır.
