@@ -1,4 +1,4 @@
-İKİNCİBÖLÜM
+İKİNCİ BÖLÜM
 Malî Hükümler
 Tahsilat
 MADDE 77 - Süresinde ödenmeyen kayıt ücretleri, yıllık aidat, munzam aidat, navlun hâsılatından alınacak oda payları, borsa tescil ücreti ve Birlik aidatına 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun uyarınca günlük gecikme zammı tahakkuk ettirilir.

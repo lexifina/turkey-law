@@ -1,4 +1,4 @@
-İKİNCİBÖLÜM
+İKİNCİ BÖLÜM
 Birlik Organları, Oluşumları ve Görevleri
 Birliğin organları
 MADDE 60 - Birliğin organları şunlardır:

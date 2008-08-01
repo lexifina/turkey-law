@@ -1,4 +1,4 @@
-BEŞİNCİBÖLÜM
+BEŞİNCİ BÖLÜM
 Ürün İhtisas Borsaları
 Ürün ihtisas borsaları
 MADDE 53 - Ekonomik gereklilikler gözetilerek güven, serbest rekabet ve istikrar içinde, kotasyonundaki bir veya birden çok ürünün arz ve talebini buluşturan; yürürlükteki ürün standartlarına göre tasnif edilmiş ürünlerin, kendilerince organize edilen fiziki veya elektronik mekânlarda alım satımına aracılık eden; ürünlerin gerek fiziki, gerekse ürünü temsilen lisanslı depo işletmelerince çıkarılan ürün senetleri ve alivre sözleşmelerin ticaretini yürütebilen; işlemlere ilişkin güvenilir kayıt ve saklama imkânları bulunan; oluşan fiyatları, ürettiği bilgileri, diğer benzer ve alternatif piyasaları izleyebilecek ve duyurabilecek bilgi işlem, teknik ve elektronik donanım, kurumsal ve malî alt yapıya sahip olan; faaliyet alanı bölgesel, ulusal veya uluslararası olabilen anonim şirket statüsünde ürün ihtisas borsaları kurulabilir.

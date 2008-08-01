@@ -1,4 +1,4 @@
-BEŞİNCİBÖLÜM
+BEŞİNCİ BÖLÜM
 Faaliyetlerin Sona Erdirilmesi
 Organların görevlerine son verilmesi ve faaliyetten men edilmesi
 MADDE 94 - Kuruluş amaçları veya Kanunda belirtilen asli görevlerini Bakanlığın yazılı uyarısına rağmen yerine getirmeyen oda, borsa veya Birlik organlarının görevlerine son verilmesine ve yerlerine yenilerinin seçtirilmesine, Bakanlığın veya bunların bulundukları ildeki Cumhuriyet savcısının istemi üzerine, o yerdeki asliye hukuk mahkemesince karar verilir. Yargılama, basit yargılama usulüne göre yapılır ve en geç iki ay içerisinde sonuçlandırılır.

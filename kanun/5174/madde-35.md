@@ -1,4 +1,4 @@
-İKİNCİBÖLÜM
+İKİNCİ BÖLÜM
 Borsa Organları, Oluşumları ve Görevleri
 Borsa organları
 MADDE 35 - Borsanın organları şunlardır:
