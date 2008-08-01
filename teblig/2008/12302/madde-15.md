@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Zararın Devam Etmesi veya Yeniden Meydana Gelmesi İhtimali
+Fiyat Kırılması ve Fiyat Baskısı
+MADDE 15 – (1) Fiyat kırılması, ithal ürün fiyatlarının Türkiye piyasasında yerli üreticinin yurt içi satış fiyatlarının yüzde olarak ne kadar altında kaldığını gösterir. Fiyat kırılması analizinde, 2006 yılına ait proforma fatura ve fiyat teklifleri üzerinden hesaplanan CIF ithal fiyatına gümrük vergisi ve masrafları dâhil, dampinge karşı vergi uygulanmadan Türkiye piyasasına giriş fiyatları, yerli üretim dalının satış fiyatları ile karşılaştırılmıştır. Bu şekilde hesaplanan adet bazında fiyat kırılması CIF bedelin %29’u olarak bulunmuştur.
+(2) Fiyat baskısı, ÇHC menşeli ithal ürün fiyatlarının Türkiye piyasasında yerli üretim dalının olması gereken satış fiyatının yüzde olarak ne kadar altında kaldığını gösterir. ÇHC menşeli ithalatın gümrük vergisi ve diğer gümrükleme masrafları dâhil Türkiye piyasasına giriş fiyatları, yerli üretim dalının üretim maliyetine mâkul oranda kâr marjı eklenmek suretiyle tespit edilen olması gereken satış fiyatı ile mukayese edilmiştir. Bu şekilde hesaplanan adet bazında fiyat baskısı CIF bedelin %62’si olarak bulunmuştur.

@@ -1,0 +1,4 @@
+BEŞİNCİ KISIM
+Nedensellik Bağı
+Dampingli ithalatın etkisi
+MADDE 17 – (1) Soruşturma konusu ülkenin Türkiye’ye yönlendirebilecek önemli üretim ve ihracat kapasitesinin bulunması, önlem konusu ülkedeki üretici-ihracatçıların Türkiye pazarını iyi bilmeleri ve söz konusu ürünün kullanıcılarına kolay ve hızlı biçimde erişebilecek durumda olmaları, önlemin ortadan kalkması durumunda önleme konu ülkeden gerçekleştirilen ithalatın yerli üretim dalının fiyatları üzerinde ciddi bir fiyat baskısı oluşturmasının muhtemel olması ve fiyatın iç piyasada rekabetin temel unsurlarından olması nedeniyle oluşabilecek fiyat baskısının yerli üretim dalının ekonomik göstergelerini bozacak biçimde fiyat indirmesine ya da üretimini kısmasına yol açabileceğinden mevcut önlemin ortadan kalkmasının dampingli ithalatın devamı veya yeniden meydana gelmesine ve bunun sonucunda yerli üretim dalında zararın devamına veya yeniden meydana gelmesine yol açması muhtemeldir.

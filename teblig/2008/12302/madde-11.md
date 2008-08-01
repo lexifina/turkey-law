@@ -1,0 +1,5 @@
+Türkiye Toplam Benzer Mal Tüketimi ve Şikâyete Konu Ülke Pazar Payı
+MADDE 11 – (1) Türkiye’de toplam benzer mal tüketiminin hesaplanmasında şikâyetçi firmaların yurt içi satış miktarları ile genel ithalat miktarları adet bazında toplanarak ilgili yılda benzer mala ilişkin tüketim elde edilmiştir.
+(2) Benzer mal tüketimi 2003 yılı 100 alındığında, 2004 yılında 123, 2005 yılında 129, 2006 yılında 127 ve 2007 yılının ilk altı ayında 1142 olarak gerçekleşmiştir. Şikâyet konusu ürünün yurt için tüketiminin önlemin alınmasından sonra bir süre artış gösterdiği görülmektedir.
+(3) Önlem öncesi 2001 yılında endeks 100 alındığında, 2002 yılının ilk 5 ayında 79 olan yerli üretimin pazar payı önlemin alınmasından sonra 2003 yılı ile 2007 ilk altı ayı arasında sırasıyla 142, 183, 190, 183 ve 191 düzeyinde gerçekleşmiştir.
+(4) Önlem öncesi 2001 yılında endeks 100 alındığında, 2002 ilk 5 ayında 130 olan ÇHC menşeli ithalatın pazar payı önlemin alınmasından sonra ciddi ölçüde düşmüş ve 2003 ile 2007 yılı ilk altı aylık döneminde sırasıyla 5, 1, 3, 8 ve 8 düzeyinde pazar payına sahip olmuştur.
