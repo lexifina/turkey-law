@@ -1,0 +1,3 @@
+Başvurunun değerlendirilmesi ve yetkinin verilmesi
+MADDE 8 – (1) Onaylanmış İhracatçı yetkisi için yapılan başvurular Gümrük Müsteşarlığınca değerlendirilir. Yapılan incelemede başvuru sahibinin bu Tebliğ ile aranan tüm koşulları karşıladığının ve aranan tüm belgelerin başvuru dosyasında yer aldığının tespit edilmesi halinde Onaylanmış İhracatçı yetki numarasını gösteren Onaylanmış İhracatçı Yetki Belgesi düzenlenir.
+(2) Aranan belgelerden bir kısmının başvuru dosyasında yer almadığının tespit edilmesi halinde başvuru sahibine eksik belgelerin tamamlanması için yazılı olarak 1 aylık ek süre verilir. Başvuru sahibine bildirimin yapıldığı tarihten itibaren bu süre içinde eksiklikleri tamamlanmayan başvuru dosyaları kendilerine iade edilir.

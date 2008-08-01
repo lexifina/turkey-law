@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, Türkiye ile Avrupa Topluluğu arasındaki tarım ve AKÇT (Avrupa Kömür Çelik Topluluğu) ürünleri ticareti ile Serbest Ticaret Anlaşması yaptığımız ülkelerle olan ticaretimizde gerçek ve tüzel kişilere eşyanın kıymetine bakılmaksızın fatura beyanı veya EUR.MED fatura beyanı düzenlenmesine ilişkin Onaylanmış İhracatçı yetkisinin verilmesi, değiştirilmesi, askıya alınması, geri alınması ve iptaline ilişkin usul ve esasları belirlemektir.
