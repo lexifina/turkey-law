@@ -12,5 +12,5 @@ g) Okur-yazar olmak,
 Yerli ve yabancı tüzel kişilerin tescilli ana sözleşmelerinde temsil ve bağlayıcı işlemler yapma yetkisi verilen ve yukarıdaki özellikleri taşıyan gerçek kişi temsilcileri, bu Kanun hükümlerine göre oda, borsa ve Birlik organlarına seçilebilirler.
 Seçilme yeterliliğini kaybedenlerin oda, borsa ve Birlikteki görevleri sona erer.
 Organların seçimlerine katılma niteliklerine ilişkin diğer hususlar Birlikçe hazırlanacak yönetmelikle düzenlenir.
-Oda ve borsa üyelerinin seçme ve seçilme haklarının kullanılabilmesi için şirketin; sahibi, ortağı, yönetim kurulu üyesi, genel müdürü, murahhas azası seviyesinde üst düzey yöneticisi ve şirketi temsile, ahzükabza yetkili olması ve bu halinin seçimden en az altı ay öncesini kapsaması şarttır.
+(Değişik altıncı fıkra: 30/7/2008-5795/3 md.) Oda ve borsa üyelerinin seçme ve seçilme haklarını kullanabilmeleri için şirketin; sahibi, ortağı, yönetim kurulu üyesi, genel müdürü, murahhas azası seviyesinde üst düzey yöneticisi olmaları, şirketi temsil ile bağlayıcı işlem yapmaya yetkili olmaları ve bu durumun seçimden en az altı ay öncesini kapsaması şarttır.
 Üye şirketin münfesih olması, işyeri ve merkez kaydını başka bir odanın çalışma alanına taşıması halinde, oda üyeliği ile birlikte seçilmiş olduğu oda, borsa ve Birlik organlarındaki görevi sona erer.
