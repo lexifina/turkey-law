@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68/6802-2",
+  "source_id": 38429,
+  "date": "2008-08-01",
+  "title": "İhracat faturalarına istinaden YTL bazında faktoring işlemi yapılması halinde bu işlem için fon sağlamak amacıyla faktoring şirketleri tarafından bankalardan kullanacak krediler üzerinden % 0 oranında fon kesintisi yapılması gerektiği hakkında....",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38429",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "a36c11bd4b9fb80e57dc57527d6cfba18d46dd0fea6d8ae355572db81d30d54a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
