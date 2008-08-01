@@ -1,0 +1,4 @@
+Merkez yönetim kurulu
+MADDE 10 – (1) Merkez Yönetim Kurulu; Merkez Müdürü ve Merkezin çalışma alanı ile ilgili öğretim üyeleri arasından Rektörün görevlendireceği dört kişi ile birlikte ODTÜ mensubu beş üye ve Çin Dili Uluslararası Konsey Ofisi (HANBAN)’nin görevlendireceği ve Rektör tarafından onaylanacak iki Çinli üye olmak üzere toplam yedi üyeden oluşur.
+(2) HANBAN’ın sadece bir Çinli üye görevlendirdiği durumlarda, Rektör Merkezin çalışma alanlarını ve işleyiş dinamiklerini gözeterek ODTÜ mensubu bir öğretim üyesini ikinci Çinli üyenin sorumluluklarını üstlenmek üzere Merkez Yönetim Kurulunda görevlendirir.
+(3) Merkez Yönetim Kurulunun görev süresi üç yıldır. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan Merkez Yönetim Kurulu üyesinin yerine, kalan süreyi tamamlamak üzere benzer niteliklerde ve aynı yöntemle yeni bir üye görevlendirilir. Kararlar oy çokluğu ile alınır.
