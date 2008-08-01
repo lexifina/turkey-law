@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5795",
+  "year": 2008,
+  "title": "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-08-01",
+  "gazette_issue": "26954",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080801-1.htm",
+  "source_sha256": "c18ba1f53977b454e292b47bcbb9b0a1ee92354d3b7aed07444afff262bf90d5",
+  "text_sha256": "dc657a5274320b718ffee43350459ce126a25fc232b66d31ddbc58238e03c8b1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/08/01/26954-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080801-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
