@@ -1,0 +1,2 @@
+Beslenme yönteminin belirlenmesi
+MADDE 5 – (1) Yatan hastanın biyokimyasal bulguları doğrultusunda, kalori ve besin öğelerinin sınırlamalarına göre, oral yoldan (ağızdan) normal veya özel diyet alarak beslenmesine doktoru tarafından karar verilir. Gıda maddelerinin çeşitleri, oranı, hazırlama şekilleri ve öğün sayılarına ise doktorunun görüşünü de alarak diyetisyen, bulunmadığı yerlerde doktoru karar verir.

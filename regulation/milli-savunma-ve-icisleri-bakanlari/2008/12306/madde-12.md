@@ -1,0 +1,2 @@
+İçme suyu temini
+MADDE 12 – (1) İçme suyunun uygun bulunmadığı bölgelerdeki hastanelerde, bu durumun bir raporla tespit edilmesi halinde, yemek pişirme ve hastaların içme suyu gereksinimi mümkün ise, su arıtma yöntemi ile karşılanır. Bunun mümkün olmaması halinde, durum normale dönünceye kadar su ihtiyacı piyasadan karşılanır. Temin edilen su öncelikle hastaların içme ve yemeklerinde kullanılır. Harcanan su miktarı rapor tutanak ve gerekli diğer belgelere göre sarf belgesi ekinde gösterilerek muhasebeleştirilir.

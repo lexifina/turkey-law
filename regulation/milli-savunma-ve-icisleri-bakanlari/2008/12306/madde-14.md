@@ -1,0 +1,2 @@
+Kişisel, çamaşır ve besleme hizmetleri temizlik maddeleri
+MADDE 14 – (1) Yataklı tedavi yerlerinde yatan hastaların kişisel, çamaşır ve besleme hizmetleri temizlik maddeleri ihtiyaçları için, 1/3/2008 tarihli ve 26803 sayılı Resmî Gazete’de yayımlanan Türk Silahlı Kuvvetleri Besleme Kanunu Temizlik Maddeleri Kullanım Esasları ve Usullerine Dair Yönetmelik hükümleri esas alınır. Ancak, Temizlik Maddeleri Bedel Ölçüt Tablosunun çamaşır temizliği bölümünde yer alan maddeler, ihtiyaç halinde % 30 oranına kadar artırılarak verilir.

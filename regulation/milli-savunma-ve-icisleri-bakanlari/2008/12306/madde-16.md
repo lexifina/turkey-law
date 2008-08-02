@@ -1,0 +1,2 @@
+Laboratuvar ve hijyen denetim hizmet desteği
+MADDE 16 – (1) Yatan hastaların sağlıklı beslenmesi ve beslenme kalitesinin yükseltilmesi amacıyla, gıda maddelerinin kalite değerleri ile bunların hazırlandığı ortamların hijyenik durumlarının kontrolüne yönelik laboratuvar ve hijyen denetim hizmet desteği, ilgili yönerge esasları doğrultusunda Türk Silahlı Kuvvetleri gıda kontrol teşkillerince verilir.

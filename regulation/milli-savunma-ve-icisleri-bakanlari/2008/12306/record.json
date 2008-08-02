@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.12306",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SİLAHLI KUVVETLERİ HASTA BESLEME YÖNETMELİĞİ",
+  "number": "12306",
+  "issuer": "Millî Savunma ve İçişleri Bakanları",
+  "issuer_slug": "milli-savunma-ve-icisleri-bakanlari",
+  "path": "regulation/milli-savunma-ve-icisleri-bakanlari/2008/12306",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12306&MevzuatTertip=5",
+  "source_sha256": "1a34d87188e31df3827b036903eaf0b1c4cc58dcf10d9e26d807c614fadb3e1d",
+  "source_bytes": 132523,
+  "published": "2008-08-02",
+  "gazette": "26955",
+  "in_force": "2008-08-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.08.2008); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1779,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

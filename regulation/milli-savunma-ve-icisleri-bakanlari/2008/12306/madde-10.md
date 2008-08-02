@@ -1,0 +1,2 @@
+Günlük istihkaktan artan parasal değerlerin kullanılması
+MADDE 10 – (1) Günlük istihkak tutarı ile yedirilecek tutar arasında kalan parasal değer, günlük hasta yemek çizelgesinin birikim bölümünde gösterilir. Günlük istihkak tutarının üzerindeki parasal değer ise, günlük hasta yemek çizelgesi aşım bölümünde gösterilir ve yıl sonunda aşımlı günlük hasta yemek çizelgesi bırakılmayacak şekilde bu birikimler gerek duyulması hâlinde kullanılır.

@@ -1,0 +1,3 @@
+Yemek hizmetinin satın alma yolu ile karşılanması
+MADDE 13 – (1) Satın alınacak yemek hizmetinin yaklaşık maliyeti ilgili mevzuat hükümlerine göre belirlenir. Yaklaşık maliyetin tespitinde, beslenecek hedef kitleye bağlı olarak her yıl için Millî Savunma Bakanlığınca yayımlanan bütçelemeye esas tahmini birim fiyatlar ile belirlenen normal yemek bedeline, bu bedelin % 70 ine kadar, yemek öncesi ve sonrasında yapılan işletme ve genel giderler eklenir. Yemek bedeli içermeyen hizmet alımlarında ilgili ihale mevzuatı esas alınır.
+(2) Yemek hizmetinin piyasadan satın alma yolu ile karşılanmasında, 1/3/2008 tarihli ve 26803 sayılı Resmî Gazete’de yayımlanan Türk Silahlı Kuvvetlerinde Satın Alınacak Yemek Hizmeti Uygulamalarına Dair Yönetmelik hükümleri esas alınır.

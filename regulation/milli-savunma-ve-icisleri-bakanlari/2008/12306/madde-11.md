@@ -1,0 +1,3 @@
+Askerî öğrenci ile erbaş ve erin yataklı tedavi yerleri sonrasındaki beslenmeleri
+MADDE 11 – (1) Askerî öğrenci ile erbaş ve erlerden yatarak tedavileri tamamlandıktan sonra iyileşme dönemlerini ve/veya muayene edildikten sonraki ilaçlı tedavilerini birlik veya kurumlarında geçireceklerin, beslenmelerinin nasıl olacağı ve süresi, doktoru tarafından taburcu belgesi veya raporunda belirtilir. Bu tür hastaların beslenmeleri, hastanın birlik veya kurumuna ait imkânlar da göz önüne alınarak diyetisyenin ve/veya doktorunun belirlediği kriterlere göre birlik ve kurumlarında yapılır.
+(2) Taburcu olan askerî öğrenci ile erbaş ve ere gerekli görüldüğünde, birliğine veya varacağı yere bağlı olarak doktor ve/veya diyetisyen tarafından uygun görülen cins ve miktarda kumanya verilir.
