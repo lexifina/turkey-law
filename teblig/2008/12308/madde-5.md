@@ -1,0 +1,5 @@
+Zarar ve nedensellik iddiası
+MADDE 5 – (1) Yerli üretim dalına ilişkin üretim ve satış verileri incelendiğinde şikayet konusu ülkeler menşeli ithalatın önceki yıllara kıyasla 2007 yılında çok daha hızlı artış kaydettiği ve yerli üretim dalının üretim ve iç satışlarının ve dolayısıyla yerli üretim dalının Türkiye pazarından aldığı payın 2007’de düştüğü tespit edilmiştir.
+(2) Öte yandan, yerli üretim dalının pazar kaybını önlemek amacıyla iç piyasa satış fiyatlarını düşürdüğü, ancak ticari maliyetten çok daha hızlı düşen iç satış fiyatlarının ürün karlılığını olumsuz yönde etkilediği tespit edilmiştir.
+(3) Üretim, iç satışlar ve ürün kârlılığında gözlemlenen olumsuzluklar dışında şikayete konu ülkeler menşeli ithalatın Türkiye piyasasına giriş fiyatlarının yerli üretim dalı iç satış fiyatlarını kırdığı saptanmıştır.
+(4) Başvuru aşamasında sunulan deliller ve ithalata ilişkin resmi istatistikler esas alınarak yapılan tespitler ışığında, şikâyete konu ÇHC, İran, İsrail, İtalya ve Suudi Arabistan menşeli, dampingli olduğu iddia edilen ithalatın yerli sanayinin ekonomik göstergelerinde olumsuzluklara yol açtığı değerlendirilmiştir.

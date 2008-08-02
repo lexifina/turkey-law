@@ -1,0 +1,4 @@
+Süreler
+MADDE 9 – (1) Soru formunu cevaplandırma süresi, formun gönderildiği tarihten itibaren posta süresi dâhil 37 gündür. Tebliğ’in 8’inci maddesi kapsamında, sonradan soru formu talebinde bulunan taraflar ise işbu Tebliğ’in yayımı tarihinden itibaren işleyecek 37 günlük süre ile bağlıdırlar.
+(2) Soruşturma kapsamındaki ilgili tarafların sundukları diğer her türlü bilgi ve belgenin dikkate alınabilmesi için söz konusu bilgi ve belgelerin bu Tebliğ’in yayımı tarihinden itibaren en geç 37 gün içinde Genel Müdürlüğe yazılı olarak ulaştırılması gerekmektedir.
+(3) Soruşturmanın sonucundan etkilenebileceklerini iddia eden, ancak bu Tebliğ’in 8’inci maddesi kapsamına girmeyen diğer ilgili tarafların da (ürünü girdi olarak kullanan işletmeler, bunların meslek kuruluşları, tüketici dernekleri, üretim dalındaki işçi veya işveren sendikaları, vb.) görüşlerini işbu Tebliğ’in yayımı tarihinden itibaren 37 gün içinde yazılı olarak Genel Müdürlüğe bildirmeleri gerekmektedir.

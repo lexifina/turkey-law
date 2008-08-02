@@ -1,0 +1,4 @@
+Damping iddiası
+MADDE 4 – (1) 2007 yılına ilişkin olarak şikayet konusu ülkelerde tüketime konu olan benzer mal için normal ticari işlemler sonucunda fiilen ödenmiş veya ödenmesi gereken karşılaştırılabilir iç piyasa satış fiyatları temin edilemediğinden, normal değer yerli üretim dalının en düşük fabrika çıkış fiyatına sahip ürünleri temel alınarak tespit edilmiştir.
+(2) Normal değer ile ihraç fiyatının aynı ticari aşamada karşılaştırılmasını teminen FOB ihraç fiyatı düzeyine getirilen ihraç fiyatları ihracatçıların lehine, fabrika çıkış aşamasındaki fiyat olarak kabul edilmiştir.
+(3) Normal değer ile Türkiye’ye ihraç fiyatının mümkün olduğu ölçüde aynı ticari aşamada (fabrika çıkış aşaması) karşılaştırılması yoluyla hesaplanan damping marjlarının şikayete konu ülkeler için önemli oranlarda olduğu görülmüştür.
