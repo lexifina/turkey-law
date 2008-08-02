@@ -1,0 +1,5 @@
+İlgili tarafların bilgilendirilmesi
+Madde 5 — Soruşturma açılmasını müteakip, soruşturma konusu ülkenin büyükelçiliğine ve üretici/ihracatçı firmalara, şikayetin gizli olmayan metni ve soruşturma açılış tebliği gönderilmiştir. Wenkui, Chenglu ve Beifa şirketlerinin vekili temsilci firma tarafından, karşı zarar savunmasını da içeren bir dilekçe Müsteşarlığımıza ulaşmıştır.
+Geçici önlem yürürlüğe girdikten sonra da ÇHC Büyükelçiliğine ve yerli üreticilere geçici önlem bildirimi ile geçici önlem Tebliğ’i gönderilmiştir. Ayrıca, ithalatçı firmalar da geçici önlem hakkında bilgilendirilmiş, geçici önlem tebliğinin bir örneği iletilmiştir.
+Nihai bildirim, soruşturma konusu ülkenin büyükelçiliğine, yerli üreticilere, üretici/ihracatçı firmaların temsilcisine ve işbirliğine gelen ithalatçı firmalara gönderilmiş ve konu hakkındaki görüşlerini sunmaları için makul bir süre tanınmıştır. Ayrıca, temsilci firma yetkilisi ile bir toplantı da düzenlenmiştir.
+Tarafların soruşturma boyunca ortaya koyduğu yazılı görüşlerden nesnel ve konuyla bağlantılı olanlara tebliğin ilgili bölümlerinde cevap verilmektedir.

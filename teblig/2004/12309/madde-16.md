@@ -1,0 +1,3 @@
+Dampingli ithalatın yerli üreticilerin fiyatları üzerindeki etkisi
+Madde 16 — Fiyat kırılması, ithal ürün fiyatlarının Türkiye piyasasında yerli üreticinin yurtiçi satış fiyatlarının yüzde olarak ne kadar altında kaldığını gösterir.
+ÇHC menşeli ithalatın gümrük vergisi dahil Türkiye piyasasına giriş fiyatları, yerli üretim dalının fabrika çıkış aşamasındaki satış fiyatları ile mukayese edilmiş ve dampingli ithalatın fiyatının yerli üretim dalının fiyatının önemli ölçüde altında kaldığı tespit edilmiştir. Bu çerçevede yapılan hesaplamalarda, 2002 yılında fiyat kırılması dolma kurşun kalemlerde CIF bedele göre %72, tükenmez kalemlerde ise fiyat baskısı % 28 oranında bulunmuştur.

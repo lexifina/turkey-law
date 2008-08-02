@@ -1,0 +1,4 @@
+ÜÇÜNCÜ BÖLÜM
+Dampingli İthalat ile Zarar Arasındaki Nedensellik Bağı
+Dampingli ithalatın etkisi
+Madde 19 — Zarar inceleme döneminde soruşturma konusu kalemlerin ÇHC’nden dampingli ithalatının, 2000 yılına göre SD’nde mutlak ve nisbi olarak arttığı, özellikle dolma kurşun kalem ithalatında fiyatların düştüğü ve ihraç teklifi fiyatları temelinde yapılan değerlendirmede, ihraç fiyatlarının yerli üretim dalının fiyatlarının önemli ölçüde altında kaldığı tespit edilmiştir. Aynı dönemde yerli üretim dalının ekonomik göstergelerinde olumsuzluklar tespit edilmiştir. Dampingli ithalatın fiyatlarının yerli üretim dalının fiyatlarını kırması ve bastırması, dampingli ithalattaki artış eğilimi ile yerli üretim dalında görülen olumsuz gelişmelerin eş zamanlı olarak ortaya çıkması nedeniyle dampingli ithalat ile yerli üretim dalı üzerinde oluşan zarar arasında illiyet bağı olduğu sonucuna varılmıştır.
