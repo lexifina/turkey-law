@@ -1,0 +1,2 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez; kamu, özel sektör ve uluslar arası kurum, kuruluş ve kişilere ihtiyaç duydukları alanlarda ulusal ve uluslar arası düzeyde kurslar, seminerler, konferanslar ve eğitim programları planlar ve düzenler. Üniversitenin birimlerinde bu amaçla yürütülen her türlü faaliyetin koordinasyonunu sağlar. Amaçları doğrultusunda faaliyetlerini gerçekleştirmek için; yaşam boyu öğrenme, meslek içi eğitim, kurumlara eğitim, sertifika programları, önceden programlanmış seminerler, sözleşmeli seminerler ve konferanslar düzenler.

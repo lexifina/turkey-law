@@ -1,0 +1,5 @@
+Merkez yönetim kurulu ve görevleri
+MADDE 9 – (1) Merkez Yönetim Kurulu; Merkez Müdürü, yardımcıları ile Üniversite Yönetim Kurulu tarafından Üniversitenin tam gün çalışan öğretim elemanları arasından önerilen ve Rektör tarafından üç yıl süreli olarak görevlendirilen iki üye olmak üzere toplam beş üyeden oluşur.
+(2) Merkez Yönetim Kurulunda görev süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan veya Üniversite dışında altı aydan fazla süreyle görevlendirilen üyeler yerine, kalan süreyi doldurmak üzere yeni üyeler görevlendirilir.
+(3) Merkez Yönetim Kurulu, Merkez Müdürünün başkanlığında en az ayda bir defa üye tam sayısının salt çoğunluğu ile toplanır ve kararlar katılanların salt çoğunluğu ile alınır.
+(4) Merkez Yönetim Kurulu; Merkezin çalışmaları ve yönetimi ile ilgili konularda kararlar alır, Merkezde görevlendirilecek elemanların tespiti ve tayini konularında Merkez Müdürünün hazırladığı önerileri inceler ve değerlendirir. Sürekli eğitim programları ile bu programlar sonunda verilecek katılım belgeleri ve sertifikalara ilişkin esasları belirler. Merkez Müdürünün yıl sonlarında hazırlayacağı faaliyet raporlarını inceler ve onaylar.
