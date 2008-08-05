@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-08-05",
+  "issue": "26958",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2008/13883 Türkiye Cumhuriyeti Hükümeti ile Yunanistan Cumhuriyeti Hükümeti Arasında İmzalanan “Kültür,Eğitim, Bilim,Basın-Yayın,Gençlik ve Spor Değişim Programı”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080805-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080805.htm",
+  "index_sha256": "969c43008b5a96b3559153e6a8a11a9a658d542fa958530338b2b4836fc6b760",
+  "index_header": "5 Ağustos 2008 ... 26958 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
