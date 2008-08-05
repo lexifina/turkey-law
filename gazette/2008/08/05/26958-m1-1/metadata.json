@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-08-05",
+  "issue": "26958",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "BÖLÜMÜ",
+  "heading": "UYUŞMAZLIK MAHKEMESİ KARARLARI",
+  "title": "Uyuşmazlık Mahkemesine Ait Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080805M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080805M1.htm",
+  "index_sha256": "a053ab91c84dfe7efc396d169e83e2083d66c2cfeaf3458b5e15e8b59ca6f32f",
+  "index_header": "5 Ağustos 2008 ... 26958 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
