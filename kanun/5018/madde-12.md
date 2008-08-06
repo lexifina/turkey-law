@@ -1,4 +1,4 @@
-İKİNCİKISIM
+İKİNCİ KISIM
 Kamu İdare Bütçeleri
 BİRİNCİBÖLÜM
 Genel Hükümler

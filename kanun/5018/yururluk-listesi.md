@@ -19,3 +19,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5628 | 27, 28, 60, 71, Geçici Madde 16 ve 17 | 4/5/2007
 5662 | (II) Sayılı Cetvel | 29/5/2007
 5765 | (II) Sayılı Cetvel | 31/5/2007
+5793 | 9, 10, 27, 28, 40, 44, 51, 52, 53, 61, 62, Geçici Madde 5, 11, 18, 19 ve İşlenemeyen hükümler | 6/8/2008
