@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5791",
+  "year": 2008,
+  "title": "Uyuşmazlık Mahkemesinin Kuruluş ve İşleyişi Hakkında Kanun ile Hakimler ve Savcılar Yüksek Kurulu Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-08-06",
+  "gazette_issue": "26959",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080806-1.htm",
+  "source_sha256": "d6e5774afb291b63591d6f99b133ecbecacb83bc2a4428f63fc601fc64ba12dd",
+  "text_sha256": "5b23dfa3b92730e9d46d2aa194ffe8cceb452fed24f22a8f0793f1d5bc744e43",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/08/06/26959-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080806-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
