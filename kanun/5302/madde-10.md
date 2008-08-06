@@ -7,7 +7,7 @@ d) Borçlanmaya karar vermek.
 e) Bütçe içi işletmeler ile Türk Ticaret Kanununa tâbi ortaklıklar kurulmasına veya bu ortaklıklardan ayrılmaya, sermaye artışına ve gayrimenkul yatırım ortaklığı kurulmasına karar vermek.
 f) Taşınmaz mal alımına, satımına, trampa edilmesine, tahsisine, tahsis şeklinin değiştirilmesine veya tahsisli bir taşınmazın akar haline getirilmesine izin; üç yıldan fazla kiralanmasına ve süresi yirmibeş yılı geçmemek kaydıyla bunlar üzerinde sınırlı aynî hak tesisine karar vermek.
 g) Şartlı bağışları kabul etmek.
-h) Vergi, resim ve harç dışında kalan miktarı beşmilyardan yirmibeşmilyar Türk Lirasına kadar ihtilaf konusu olan özel idare alacaklarının anlaşma ile tasfiyesine karar vermek.
+h) (Anayasa Mahkemesinin 18/1/2007 tarihli ve E.: 2005/32, K.: 2007/3 sayılı Kararı ile iptal edilmiştir.)
 i) İl özel idaresi adına imtiyaz verilmesine ve il özel idaresi yatırımlarının yap-işlet veya yap-işlet-devret modeli ile yapılmasına, il özel idaresine ait şirket, işletme ve iştiraklerin özelleştirilmesine karar vermek.
 j) Encümen üyeleri ile ihtisas komisyonları üyelerini seçmek.
 k) İl özel idaresi tarafından çıkarılacak yönetmelikleri kabul etmek.
