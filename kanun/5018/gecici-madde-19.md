@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 19 – (Ek: 24/7/2008-5793/39 md.)
+2008-2015 yılları arasında, orman yangınları ile havadan mücadele hizmetlerinde kullanılmak maksadıyla Çevre ve Orman Bakanlığı tarafından, acil sağlık hizmetlerinde kullanılmak maksadıyla Sağlık Bakanlığı tarafından, gerçek ve tüzel kişilerden her nevi hava aracı kiralanmasında bu Kanunun 28 inci maddesinde yer alan üç yıllık süre yedi yıl olarak uygulanır.
