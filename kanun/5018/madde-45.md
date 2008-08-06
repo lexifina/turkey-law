@@ -3,6 +3,7 @@ MADDE 45 - Genel yönetim kapsamındaki kamu idareleri, kamu hizmetlerinin zorun
 –––––––––––––––––
 (1) 22/12/2005 tarihli ve 5436 sayılı Kanunun 10 uncu maddesiyle, bu maddenin dördüncü fıkrasında yer alan "Kamu idareleri" ibaresi "Merkezî yönetim kapsamındaki kamu idareleri" şeklinde değiştirilmiş ve metne işlenmiştir.
 (2) 22/12/2005 tarihli ve 5436 sayılı Kanunun 10 uncu maddesiyle, bu maddenin üçüncü fıkrasına (f) bendinden sonra gelmek (g) bendi eklenmiş ve mevcut (g) bendi (h) bendi olarak teselsül ettirilmiştir.
+(3) 24/7/2008 tarihli ve 5793 sayılı Kanunun 46 ncı maddesiyle, bu fıkrada yer alan "savunma ve güvenlik amaçlı" ibaresi madde metninden çıkartılmıştır.
 Kamu idarelerince üretilen malların kendi tüketimlerinde kullanılması halinde bunların bedelleri, rayiç bedel üzerinden ilgili ödenek tertibine gider ve karşılığı gelir kaydedilir.
 Kamu idareleri, ihtiyaç fazlası taşınırları ile görmekle yükümlü olduğu kamu hizmetlerinde kullanılacağına ve amacına uygun kullanılmaması halinde geri alınacağına dair tapu kütüğüne şerh konulması kaydıyla taşınmazlarınıdiğer kamu idarelerine bedelsiz olarak devredebilir. Devredilmeyecek taşınır ve taşınmazlar ile devir ve kayıt işlemlerine ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.
 Kamu idareleri arasındaki taşınmazların mülkiyetine ilişkin uyuşmazlıklar, görevli mahkemelerce çözümlenir.
