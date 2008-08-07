@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-08-07",
+  "issue": "26960",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Ölçü Aletleri Yönetmeliği (2004/22/AT)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080807-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080807.htm",
+  "index_sha256": "c4a27b81c29f60639e62e7dc6403fb0c7124a8181ac1e21f36de720000cf1ea7",
+  "index_header": "7 Ağustos 2008 ... 26960 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
