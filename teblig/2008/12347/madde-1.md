@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğ, 19/12/2007 tarihli ve 26735 sayılı Resmi Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin 2007/4 sayılı Tebliğ ile başlatılan ve 10/5/2004 tarihli ve 2004/7305 sayılı Kararnamenin eki İthalatta Korunma Önlemleri Hakkında Karar ve İthalatta Korunma Önlemleri Yönetmeliği çerçevesinde yürütülen korunma önlemi soruşturması sonucunda İthalatta Korunma Önlemlerini Değerlendirme Kurulunca alınan kararın ilgili taraflara duyurulmasıdır.
