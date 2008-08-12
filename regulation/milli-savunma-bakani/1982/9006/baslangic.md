@@ -1,0 +1,4 @@
+DEVLET MEZARLIĞI TESİSİ, YÖNETİMİ, BAKIM VE ONARIMI YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Genel Esaslar
+Amaç:

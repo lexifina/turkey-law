@@ -1,0 +1,5 @@
+Madde 15- 14 ncü maddenin (b) bendi kapsamına girecek askerlerin tespiti Genelkurmay Başkanlığı bünyesinde kurulacak seçim kurulunca yapılır. Bu seçim kurulunca yapılacak seçimde, 14 ncü maddenin (b) bendindeki kanuni unsurların tarihsel karşılığı olan aşağıdaki kıstasların tümü aranır.
+a. 19 Mayıs 1919-24 Temmuz 1923 tarihleri arasında Türk İstiklâl Harbinde Tümen veya daha üst kademelerde komutanlık yapmak,
+b. İstiklâl madalyası ve takdirname almış olmak veya bulunduğu birlikte başarı ile komutanlık yapmak veya bir üst makam görevine atanmış, veya «NUTUK» ta kendisinden övgü ile bahsedilmek veya şehit olmak.
+c. İstiklâl Harbinin en önemli siyasi ve askeri olaylarından Amasya Mukarreratı veya Erzurum Kongresi veya Sivas Kongresi veya Türkiye Büyük Millet Meclisinin kurulmasında rol oynamak veya Türkiye Büyük Millet Meclisi veya Türkiye Büyük Millet Meclisi Hükümetinde üye olmak veya 1 inci ve 2 nci İnönü Savaşları, Sakarya Meydan Muharebesi, Büyük Taarruz ile diğer cephelerdeki savaşlarda ve takip harekatından herhangi birinde görev almak.(1)
+d. 2549 Sayılı Yasanın amacına ters düşecek nitelikte herhangi bir suçtan mahkumiyeti bulunmamak.
