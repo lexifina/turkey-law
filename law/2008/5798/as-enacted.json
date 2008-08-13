@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5798",
+  "year": 2008,
+  "title": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu Kurulması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-08-13",
+  "gazette_issue": "26966",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080813-49.htm",
+  "source_sha256": "9cb8faa14ea8ee40c3a405ae372acbda25c1d9acb573c55070dd339a527d3404",
+  "text_sha256": "63a555ef402db005d61ab4774a1ba7bed4b8faa6c6123afc490929d9d08fb296",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/08/13/26966-49",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080813-49.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
