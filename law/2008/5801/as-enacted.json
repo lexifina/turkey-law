@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5801",
+  "year": 2008,
+  "title": "Atatürk Orman Çiftliği Müdürlüğü Kuruluş Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-08-13",
+  "gazette_issue": "26966",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080813-51.htm",
+  "source_sha256": "949b1a340dfed544aa8f54dd40055a9b913e905b1e37c86845b840c4be83f064",
+  "text_sha256": "da7916d5001bcc2e2775ac592f18679cd84d4bb2099638ad833490eb351f0c52",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/08/13/26966-51",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080813-51.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
