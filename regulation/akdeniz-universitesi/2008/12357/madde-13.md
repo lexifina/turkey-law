@@ -1,0 +1,2 @@
+Danışma kurulunun görevleri
+MADDE 13 – (1) Danışma Kurulu; Merkezin faaliyetleriyle ilgili proje önerilerinde bulunur, projelerin geliştirilmesine yardımcı olur, toplumsal cinsiyet ve kadın sorunları konularında uzman kişilerin Merkeze destek olmasını sağlar, belirli konularda Yönetim Kuruluna yardımcı olmak üzere çalışma oluşturur ve Merkezin elindeki kaynakların geliştirilmesi için gerekli çalışmalarda destek olur.

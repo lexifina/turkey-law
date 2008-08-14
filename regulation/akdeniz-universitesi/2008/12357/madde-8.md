@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür, toplumsal cinsiyet ve kadın sorunları konusunda çalışmaları bulunan ve bu alanda çalışmak isteyen Üniversitenin kadrolu öğretim üyeleri arasından, Rektör tarafından iki yıl için görevlendirilir. Aynı kişi üst üste en fazla iki kez Müdür olarak görevlendirilebilir. Müdürün altı aydan daha fazla süre ile görev başında bulunamaması durumunda görevi sona erer. Süresi dolmadan görevinden ayrılan Müdürün yerine Rektör tarafından aynı usulle yeniden görevlendirme yapılır.
+(2) Müdüre, çalışmalarında yardımcı olmak üzere Yönetim Kurulu üyeleri arasından Müdürün önereceği bir üye, Rektör tarafından Müdür Yardımcısı olarak görevlendirilir. Müdürün görevi başında olmadığı zaman, yardımcısı vekâlet eder.
