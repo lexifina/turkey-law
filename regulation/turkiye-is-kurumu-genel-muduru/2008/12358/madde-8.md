@@ -1,0 +1,3 @@
+Elektronik ortamda verilen bilgi ve belgelerin arşivlenmesi
+MADDE 8 – (1) Kurum, elektronik ortamda verdiği hizmetler ile ilgili yazışmaları, bilgi ve belgeleri Kurum Arşiv Yönergesinde belirtilen sürelere uygun olarak saklamak zorundadır. Bu belgelerin elektronik ve benzeri ortamlarda saklanmaları mümkündür. Elektronik ortam dışında oluşan/oluşturulan kayıt ve belgeler de elektronik ortama aktarılarak işlem yapılabilir ve arşivlenebilir.
+(2) Bu tür belge ve malzemelerin muhafaza, tasnif, devir vb. arşiv işlemlerinde 16/5/1988 tarihli ve 19816 sayılı Resmî Gazete’de yayımlanan Devlet Arşiv Hizmetleri Hakkında Yönetmelik hükümleri uygulanır.

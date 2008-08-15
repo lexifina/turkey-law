@@ -1,0 +1,3 @@
+Bilgi ve belgelerin elektronik ortamda verilme zorunluluğu
+MADDE 11 – (1) Kurum, bu Yönetmelik gereği elektronik ortamda bilgi ve belge alınıp verilmesi hususunda gerçek ve tüzel kişileri zorunlu tutmaya veya zorunluluk esasını kaldırmaya yetkilidir.
+(2) Elektronik ortamda belge veya bilgileri göndermekle zorunlu tutulan gerçek ve tüzel kişilerin, sistemin geçici bir süre hizmet dışı kalması nedeniyle mevzuatta öngörülen süre içerisinde Kuruma gönderememeleri halinde, sorunların ortadan kalktığı tarihi takip eden üçüncü işgününün sonuna kadar belge veya bilgiyi göndermeleri durumunda yükümlülükleri yerine getirilmiş kabul edilir.
