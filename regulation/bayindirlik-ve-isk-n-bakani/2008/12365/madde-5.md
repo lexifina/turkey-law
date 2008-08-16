@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Kat Mülkiyeti ve Kat İrtifakının Kurulması
+Kat mülkiyeti ve kat irtifakı kurulmasının esasları
+MADDE 5 – (1) Kat irtifakı ve kat mülkiyeti kurulabilmesi için onaylı ve geçerli olan yapı ruhsatı bulunması gerekir. Kat mülkiyeti tesisinde ayrıca, yapı kullanma izin belgesi aranır.
+(2) Toplu yapı kapsamındaki imar parsellerinin herbirinde, toplu yapı bulunması hâlinde, her imar parseli kat irtifakı ve kat mülkiyetinin tesisinde ayrı ayrı dikkate alınır. Ancak, toplu yapı, birden fazla imar parseli üzerinde yer alıyor ise, münferit parseller üzerinde toplu yapı hükümlerine tabi olacak şekilde kat mülkiyeti ilişkisi kurulamaz. Bu durumda kat mülkiyetine geçilirken toplu yapının yer aldığı bütün parseller bir bütün olarak işlem görür.
+(3) Toplu yapı kapsamındaki, bir veya birden çok imar parseli üzerindeki toplu yapıların tamamlanması hâlinde, bu yapılara ilişkin kat irtifakları kat mülkiyetine çevrilebilir.
+(4) Mimarî projelerin vaziyet plânında aralarında sınır ve komşuluk ilişkisi bulunmayan ve buna bağlı olarak toplu yapı ilişkisi kurulmamış imar parselleri üzerinde toplu yapı ilişkisi sebebiyle kat irtifakı veya kat mülkiyeti tesisi ve buna bağlı yönetim plânı işletilmesi talepleri karşılanmaz.
+(5) Birden fazla imar parselini kapsayan toplu yapı uygulamaları imar plânında belirlenen alanlarda yapılır. Uygulama imar plânı ve parselasyon plânı değişikliklerinde, toplu yapı sisteminin bütünlüğünün muhafazası gözetilir. Uygulama imar plânında birden çok imar parseli üzerinde belirlenen toplu yapı alanında, kamuya ait alanlar arsa ve arazi düzenlemesi yapılarak kamu eline geçtikten sonra uygulama yapılır.
