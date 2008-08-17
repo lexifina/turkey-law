@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-08-17",
+  "issue": "26970",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Polis Akademisi Başkanlığı Güvenlik Bilimleri Fakültesi Giriş ve Eğitim-Öğretim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080817-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080817.htm",
+  "index_sha256": "fe6cffbb7987da384cc9a79ab668cc814428c90378c7fbdfa3bef275f7078566",
+  "index_header": "17 Ağustos 2008 ... 26970 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
