@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5796",
+  "year": 2008,
+  "title": "Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-08-19",
+  "gazette_issue": "26972",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080819-1.htm",
+  "source_sha256": "8cc16a952bfbc6898a1dd698a154c81aa7c842683bb30da49c0dba22647e9c96",
+  "text_sha256": "323bf5e58bd38090a99cf4f5092bb6188808ad2de0cbfa749704223099021e31",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/08/19/26972-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080819-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
