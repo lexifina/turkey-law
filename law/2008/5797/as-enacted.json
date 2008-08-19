@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5797",
+  "year": 2008,
+  "title": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-08-19",
+  "gazette_issue": "26972",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080819-2.htm",
+  "source_sha256": "ee123ef1a04d33d7d98426287197143a393145b042d16e214ec6a94776e07f38",
+  "text_sha256": "006eb615578632d14b6b4ca976ba7cae4fa1ed5d035c9be32f1399a77339f8d0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/08/19/26972-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080819-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
