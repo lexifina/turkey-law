@@ -1,0 +1,2 @@
+Hakim ortaklar, yöneticiler ve üçüncü şahıslar aleyhine açılan davalar
+MADDE 12 – (1) Tasfiye olunan şirket veya iştiraklerin hâkim ortakları ve yöneticileri ile üçüncü şahıslar aleyhine açılan şahsi sorumluluk, iflas ve alacak davaları kanunî halef; ceza davaları kanunî müdahil sıfatıyla Fon tarafından devam ettirilir. Bu davalar sonucunda herhangi bir tahsilat yapılması halinde başkaca bir işleme gerek kalmaksızın tahsil edilen meblağ düzenlenmiş sıra cetveline uygun olarak dağıtılır.

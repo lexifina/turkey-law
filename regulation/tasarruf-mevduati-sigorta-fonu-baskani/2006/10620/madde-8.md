@@ -1,0 +1,3 @@
+Şirket veya iştirakin terkin bildirimi
+MADDE 8 – (1) Şirket veya iştirakin tasfiyesine dair Kurul kararı, şirket veya iştirakin infisah ettirilmesi anlamında olup bu şirket veya iştirak Kurul kararı ile görevlendirilen Tasfiye Komisyonunun yazılı bildirimi ile ilgili sicilden başkaca bir işleme gerek kalmaksızın terkin olunur.
+(2) Şirket veya iştirakin sicilden terkini, ilgili kamu kurumlarına ve vergi dairelerine, şirket aleyhine açılan davaların görüldüğü mahkemelere, şirket aleyhine yapılan takiplerin yürütüldüğü icra müdürlüklerine ve halka açık şirket ve iştiraklerde ise Sermaye Piyasası Kuruluna ve İstanbul Menkul Kıymetler Borsasına ayrıca bildirilir. Yapılacak bildirimlerde şirket veya iştirakin kayıtları esas alınır.

@@ -1,0 +1,3 @@
+Bilançonun düzenlenmesi
+MADDE 6 – (1) Şirket veya iştirakin yönetim/müdürler kurulu tarafından, ilan neticesinde şirket kayıtları ile teyid edilen veya kesin hükmü haiz vesikalar ile tevsik edilerek kaydettirilen alacaklar ve bildirilen borçlar da dikkate alınarak bilanço hazırlanır. 28/7/1981 tarihli ve 2499 sayılı Sermaye Piyasası Kanununa tabi ortaklıklar bakımından bilanço, sermaye piyasası mevzuatına göre uygulamak zorunda oldukları standartlara ya da Uluslararası Finansal Raporlama Standartlarına göre hazırlanır.
+(2) Hazırlanan bilanço Fon Kuruluna sunulmak üzere ilgili hizmet birimine verilir.
