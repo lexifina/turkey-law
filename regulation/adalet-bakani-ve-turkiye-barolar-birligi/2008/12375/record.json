@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.12375",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "CEZA MUHAKEMESİ KANUNU GEREĞİNCE GÖREVLENDİRİLEN MÜDAFİ VE VEKİLLER İÇİN BAROLARCA YAPILACAK CARİ GİDERLER İLE BU HİZMET İÇİN ÇALIŞTIRILACAK PERSONELE İLİŞKİN YÖNETMELİK",
+  "number": "12375",
+  "issuer": "Adalet Bakanı ve Türkiye Barolar Birliği",
+  "issuer_slug": "adalet-bakani-ve-turkiye-barolar-birligi",
+  "path": "regulation/adalet-bakani-ve-turkiye-barolar-birligi/2008/12375",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12375&MevzuatTertip=5",
+  "source_sha256": "cb3045263768cf7f621ec42af03577b3af18bd7a4958f48b4c2f4f530a16e829",
+  "source_bytes": 97913,
+  "published": "2008-08-23",
+  "gazette": "26976",
+  "in_force": "2008-08-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.08.2008); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 970,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
