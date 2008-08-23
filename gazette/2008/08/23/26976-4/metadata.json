@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-08-23",
+  "issue": "26976",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sosyal Güvenlik Kurumu Sağlık Hizmetleri Fiyatlandırma Komisyonu Çalışma Usul ve Esasları Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080823-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080823.htm",
+  "index_sha256": "98f6789c966e9a8a05882f9cfc13d7eb42591e29e1d3c45a91ff6332cbc19849",
+  "index_header": "23 Ağustos 2008 ... 26976 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
