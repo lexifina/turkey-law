@@ -1,0 +1,2 @@
+Üçüncü ülkelerden ithalat
+MADDE 23 – (1) Üçüncü ülkeler menşeli ithalatın 2004-SD arasındaki dönemde büyük bir değişiklik göstermediği 2005 yılındaki düşüş haricinde ithalat içi payını da koruduğu görülmektedir. Buna karşılık bahse konu ithalatın birim fiyatları incelendiğinde Hindistan menşeli soruşturma konusu ürünün ortalama birim fiyatlarına göre çok yüksek düzeylerde seyrettiği gözlenmektedir. Bu tespitler ışığında, üçüncü ülkeler menşeli ithalatın yerli üretim dalının zarara ilişkin olumsuz göstergelerinde pay sahibi olmadığı düşünülmektedir.

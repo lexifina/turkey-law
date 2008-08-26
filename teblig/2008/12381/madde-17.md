@@ -1,0 +1,4 @@
+Sübvansiyonlu ithalatın pazar payı
+MADDE 17 – (1) Maddenin yurtiçi tüketimi, yerli üreticilerin yurtiçi satışları ile genel ithalatın toplanması suretiyle hesaplanmıştır. Bununla beraber yerli üretimin 2005 yılından itibaren başlaması nedeniyle 2004 ve 2005 yıllarında tüketime konu maddenin büyük oranda ithalat yoluyla tedarik edildiği anlaşılmaktadır.
+(2) Yurt içi tüketim endeksine bakıldığında 2004 yılında 100 olan endeksin 2005 yılında 135’e, 2006 yılında 155’e, 2007 yılında ise 185’e yükseldiği görülmektedir. Yurt içi tüketimin 2004-2007 arasındaki dönemde yıllık ortalama %23 oranında arttığı anlaşılmaktadır.
+(3) Hindistan menşeli soruşturma konusu ürünün tüketim içindeki payı 2004 yılında 100 olarak kabul edildiğinde, bu rakamın 2005 yılında 133’e yükseldiği, 2006 yılında 66’ya, 2007 yılında ise 54’e gerilediği görülmektedir.

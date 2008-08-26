@@ -1,0 +1,4 @@
+Fiyat baskısı
+MADDE 19 – (1) Soruşturmaya konu olan ithalatın yerli üretim dalının fiyatları üzerindeki etkisi de değerlendirilmiştir. Bu bağlamda yerli üretim dalı bahse konu ürünlerin üretimine 2005 yılının son dört ayında başladığı için karşılaştırma yapılabilmesini teminen 2006 ve 2007 yılı verileri incelenmiştir.
+(2) Yerli üretim dalının yurt içi satış fiyatlarının ortalama birim ticari maliyetin altında kaldığı tespit edildiğinden fiyat baskısının söz konusu olup olmadığına bakılmıştır. Bu çerçevede, ağırlıklı ortalama maliyet artı kâr yöntemiyle bulunan yerli üreticinin olması gereken birim fiyatlarıyla önlem konusu ürünün pazara giriş fiyatı karşılaştırılmıştır.
+(3) Bu bağlamda, Hindistan menşeli ithalatın yerli üretim dalının fiyatları üzerinde 2006 yılında %94, 2007 yılında ise %43 oranında fiyat baskısı oluşturduğu tespit edilmiştir.
