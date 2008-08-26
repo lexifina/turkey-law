@@ -1,0 +1,1 @@
+MADDE 2 – Bu revize standardın mecburi olarak yürürlüğe gireceği tarihten önce ihalesi için ilan edilmiş kamu yapılarında ve inşaat ruhsatı alınmış özel yapılarda bu revize Standard hükümleri aranmaz.

@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.12390",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BİNALARDA ISI YALITIM KURALLARI TS 825",
+  "number": "12390",
+  "issuer": "Bayındırlık ve İskan Bakanı",
+  "path": "teblig/2008/12390",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12390&MevzuatTertip=5",
+  "source_sha256": "5f772fd19032c3dc965a281ea4b26d7734396dacfbaeb5bfce7d2cd6b1c1e31b",
+  "source_bytes": 7110,
+  "published": "2008-08-26",
+  "gazette": "26979",
+  "in_force": "2008-08-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.08.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 109,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.12390%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
