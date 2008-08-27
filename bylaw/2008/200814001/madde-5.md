@@ -1,0 +1,3 @@
+Plânların hazırlanmasına dair esaslar
+MADDE 5 – (1) Tapu plânları, arazi üzerindeki parsel sınırlarını bu parsel içindeki yapı ve eklentileri ile tesislerin, zemindeki konumlarını doğru gösterecek şekilde, teknik yöntemine uygun ve resmi ölçüme dayalı olarak yapılır; sayısal olarak üretilen noktaların üretim yöntemi ve konum doğruluğu teknik belgelerinde gösterilir.
+(2) Tapu plânları, 21/6/1987 tarihli ve 3402 sayılı Kadastro Kanunu hükümlerine göre kadastro müdürlüğünce veya mahkeme kararlarına dayalı olarak ya da kanunlar uyarınca yetkili kılınan kişi ve kuruluşlarca düzenlenerek kadastro müdürlüğünün kontrol ve tasdikinden sonra tapu sicilinde tescile konu olur.

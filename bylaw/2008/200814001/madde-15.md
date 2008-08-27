@@ -1,0 +1,2 @@
+Zemin ile tapu plânı arasındaki uyumsuzluk hali
+MADDE 15 – (1) Taşınmazın sınırları tapu plânları ve arz üzerindeki sınır işaretleriyle belirlenir. Tapu plânlarıyla arz üzerindeki işaretler birbirini tutmazsa asıl olan plândaki sınırdır. Taşınmazın zemindeki sınırları ile tapu plânındaki sınırları arasında farklılık bulunması halinde, teknik yöntemine, parselin zemindeki sabit ve değişmez sınırlarına ve dayanağı belgelerine uygun olarak düzenlenip tescil edilmiş tapu plânındaki sınırlar esas alınır.

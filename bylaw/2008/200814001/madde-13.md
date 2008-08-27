@@ -1,0 +1,2 @@
+Ana parseldeki irtifak hakkının nakli
+MADDE 13 – (1) Üzerinde irtifak hakkı tesis edilmiş olan taşınmazın değişiklik işlemleri sonucunda parçalara ayrılması veya başka taşınmazlarla birleşmesi durumunda, değişiklik işlemi sonucu oluşan taşınmaz üzerindeki irtifak hakkının isabet ettiği alanlar, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hükümleri de dikkate alınarak tapu plânında gösterilir.
