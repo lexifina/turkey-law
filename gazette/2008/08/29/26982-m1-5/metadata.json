@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-08-29",
+  "issue": "26982",
+  "edition": "mükerrer 1",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "SINIR TESPİT KARARI",
+  "title": "Sınır Tespitine Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080829M1-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080829M1.htm",
+  "index_sha256": "bf8fd963b553c6889be3f278a81ccb098a94d6afe8a80d0a4ad8ee9de578de05",
+  "index_header": "29 Ağustos 2008 ... 26982 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
