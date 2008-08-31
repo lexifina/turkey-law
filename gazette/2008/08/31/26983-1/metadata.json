@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-08-31",
+  "issue": "26983",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çankaya Üniversitesi Satın Alma ve İhale Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080831-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/08/20080831.htm",
+  "index_sha256": "af018d235a4e010600302e9e4800d07236a7595ca8e9d6cb4df9ae742b7ca189",
+  "index_header": "31 Ağustos 2008 ... 26983 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
