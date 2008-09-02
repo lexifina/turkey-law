@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.63/6314-523",
+  "source_id": 38184,
+  "date": "2008-09-02",
+  "title": "Su Kullanım Hakkı ve İşletme Esaslarına İlişkin Anlaşmalar ile ilgili kağıtların damga vergisine, işlemlerin ise harca tabi tutulmaması gerektiği hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38184",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "22a704cad2f70e16886e66a5e0259417526204bdf4f10b0c3a5b4cd7859cf48c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
