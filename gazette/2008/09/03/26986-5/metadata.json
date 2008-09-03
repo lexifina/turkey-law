@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-09-03",
+  "issue": "26986",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sanayi, Ticaret, Tarım ve Orman İşlerinden Sayılan İşlere İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080903-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080903.htm",
+  "index_sha256": "694d292c339d2487bf3ed169fc4a3ef14200a33006547c7b4d0e6563568ca47c",
+  "index_header": "3 Eylül 2008 ... 26986 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
