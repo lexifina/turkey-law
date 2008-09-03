@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 1 – (Değişik:RG-3/9/2008-26986)
+Halen faaliyet gösteren ve bu Tebliğ kapsamındaki ürünleri üreten ve satan işyerleri bu Tebliğ'in yayımı tarihinden itibaren 6 ay içinde bu Tebliğ hükümlerine uymak zorundadır. Bu süre içerisinde gerekli düzenlemeleri yapmayan iş yerleri ve satış yerlerinin faaliyetine izin verilmez. Bu iş yerleri hakkında 27/5/2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun hükümlerine göre yasal işlem yapılır.

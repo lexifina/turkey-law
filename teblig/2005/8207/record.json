@@ -1,0 +1,36 @@
+{
+  "source_id": "9.5.8207",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ KOYULAŞTIRILMIŞ SÜT VE SÜTTOZU TEBLİĞİ (TEBLİĞ NO: 2005/18",
+  "number": "8207",
+  "path": "teblig/2005/8207",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8207&MevzuatTertip=5",
+  "source_sha256": "3461f2f8853a7fce49aca63c72ed20d2c09e0ceedb7eb279595076641e0330d0",
+  "source_bytes": 45010,
+  "published": "2005-04-12",
+  "gazette": "25784",
+  "in_force": "2008-09-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/9/2008\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2008-09-03",
+      "RG-3/9/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1302,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
