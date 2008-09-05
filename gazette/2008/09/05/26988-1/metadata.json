@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-09-05",
+  "issue": "26988",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2008/13996 Bazı Mahalli İdare Birliklerinin Kurulmasına İzin Verilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080905-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080905.htm",
+  "index_sha256": "f5fa20df5e71bf2fbe43a5627ffbad9bc8a1037519d5a1c669987c5af56f1ed6",
+  "index_header": "5 Eylül 2008 ... 26988 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
