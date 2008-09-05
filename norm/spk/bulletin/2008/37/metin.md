@@ -1,0 +1,164 @@
+D. ÖZEL DURUMLAR
+
+
+1. Temsilci Türk Ekonomi Bankası A.Ş.’nin, “PARVEST”  yatırım fonları şemsiyesi altında bulunan 16 adet alt fonun
+aşağıda belirtilen tutar ve pay sayılarının Kurulumuz kaydına alınması talebiyle başvurulmuştur.
+
+
+
+Alt Fonun Adı
+Pay Sayısı
+Pay Tutarı
+Para Birimi
+
+PARVEST CHINA
+
+167,000
+
+19,398,720
+
+USD
+
+PARVEST CONVERGING EUROPE
+
+280,000
+
+43,492,400
+
+EURO
+
+PARVEST EMERGING MARKETS
+
+145,000
+
+58,769,950
+
+USD
+
+PARVEST EMERGING MARKETS BOND
+
+190,000
+
+50,177,100
+
+USD
+
+PARVEST EURO BOND
+
+335,000
+
+51,945,100
+
+EURO
+
+PARVEST EUROPE DIVIDEND
+
+550,000
+
+40,265,500
+
+EURO
+
+PARVEST EUROPE GROWTH
+
+200,000
+
+41,772,000
+
+EURO
+
+PARVEST EUROPE OPPORTUNITIES
+
+223,000
+
+41,952,990
+
+EURO
+
+PARVEST EUROPE VALUE
+
+250,000
+
+38,872,500
+
+EURO
+
+PARVEST EUROPEAN BOND OPPORTUNITIES
+
+350,000
+
+44,366,000
+
+EURO
+
+PARVEST JAPAN
+
+980,000
+
+4,509,960,000
+
+JPY
+
+PARVEST LATIN AMERICA
+
+75,000
+
+63,702,750
+
+USD
+
+PARVEST TARGET RETURN PLUS(EURO)
+
+425,000
+
+49,368,000
+
+EURO
+
+PARVEST TARGET RETURN PLUS(USD)
+
+230,000
+
+50,174,500
+
+USD
+
+PARVEST US DOLLAR BOND
+
+145,000
+
+54,557,700
+
+USD
+
+PARVEST USA
+
+550,000
+
+45,743,500
+
+USD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MERKEZ Eskişehir Yolu 8.Km No:156 06530 ANKARA Tel: (312) 292 90 90 Faks:(312) 292 90 00 www.spk.gov.tr
+İSTANBUL TEMSİLCİLİĞİ Harbiye Mah. Askerocağı Cad. No:15 34367 Şişli İSTANBUL  Tel: (212) 334 55 00 Faks: (212) 334 56 00
