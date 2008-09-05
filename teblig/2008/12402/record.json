@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12402",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2008/31)",
+  "number": "12402",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı bulunduğu Bakan",
+  "path": "teblig/2008/12402",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12402&MevzuatTertip=5",
+  "source_sha256": "f45c0ec23911d2e8c53f1dc908562d31458079ecf0b5ce2b43c673e82d342b99",
+  "source_bytes": 57075,
+  "published": "2008-09-05",
+  "gazette": "26988",
+  "in_force": "2008-09-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.09.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3571,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,4 @@
+Dampingli ithalat
+MADDE 15 – (1) Maddenin soruşturma konusu ülkeden ithalatı 2004 yılında 219 kg’dan, 2005 yılında 43 tona, 2006 yılında 556 tona yükselmiş, SD’de ise 2.427 ton olarak gerçekleşmiştir. 2007 yılında ise ÇHC’den yapılan polyamid iplik ithalatı 3.494 tona ulaşmıştır.
+(2) Söz konusu ithalatın toplam ABD Doları değeri ise 2004 yılında 37.392.595’den, 2005 yılında 43.070.440’a, 2006 yılında 43.924.475’e, soruşturma döneminde ise 38.212.346’ya yükselmiştir. 2007 yılında ise mezkur ithalat 49.962.726 ABD Doları mertebesine erişmiştir.
+(3) Maddenin soruşturma konusu ülkeden ithalatının toplam ithalat içindeki payı 2004 yılından soruşturma dönemi olan Ocak-Eylül 2007’e kadar sırasıyla %0,00, %0,49, %6,55 ve %33,54 olarak gerçekleşmiştir. 2007 yılında ise söz konusu oran %37,11 seviyesine çıkmıştır.
