@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-09-07",
+  "issue": "26990",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Osmaniye Korkut Ata Üniversitesi Döner Sermaye İşletmesi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080907-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080907.htm",
+  "index_sha256": "1555d314d5d405c7ca65e6e6cfaaac57414d84bfbd0b8f6447dac509e6ddf515",
+  "index_header": "7 Eylül 2008 ... 26990 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
