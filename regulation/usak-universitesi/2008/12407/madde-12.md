@@ -1,0 +1,2 @@
+Koordinasyon grupları
+MADDE 12 – (1) Merkez Müdürü, sürekli eğitim ile ilgili bir faaliyeti gerçekleştirmek veya bu eğitim faaliyetini yürütmek üzere Üniversite birimlerinden ve Yönetim Kurulu üyesinden teşekkül eden bir koordinasyon grubu oluşturur. Koordinasyon grubu, Merkez Müdürü ve/veya görevlendireceği kişi başkanlığında toplanır ve yapılan çalışmalarla ilgili olarak Merkez Müdürüne önerilerde bulunur.

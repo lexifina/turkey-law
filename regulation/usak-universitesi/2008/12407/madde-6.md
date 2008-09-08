@@ -1,0 +1,8 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır;
+a) Ülke ekonomisine hizmet amacıyla, tarım, hayvancılık, sanayi ve ticaret gibi sektörlerdeki işletmelere ve talep eden diğer kişi, kurum ve kuruluşlara mesleki ve teknik eğitim ve üstü yeni bilgi ve teknolojileri sürekli eğitim programları aracılığıyla sunmak,
+b) Ulusal ve uluslararası kurum ve kuruluşlar ile gerçek ve tüzel kişilere meslek içi eğitim, yeni teknoloji-bilgi yoğun mesleki eğitim ve üstü gelişim kursları, konferanslar, seminer, kurs ve sertifika programları ve faaliyetleri planlamak ve düzenlemek, gerektiğinde bu kursları uzaktan eğitim biçiminde vermek, Üniversitede uzaktan eğitimin altyapısının oluşturulmasına ve geliştirilmesine katkıda bulunmak ve bu amaçla benzeri merkezlerle işbirliği yapmak, gerekli koordinasyonu sağlamak,
+c) Sürekli eğitim faaliyetleri ile ilgili olarak araştırma ve inceleme, proje yapmak veya yaptırmak, Üniversitenin laboratuar, kütüphane, akıllı sınıf, dershane, net-dershane ve diğer eğitim imkanlarından yararlanmak,
+ç) Merkezin amaçları doğrultusunda, yurt içi ve yurt dışı benzeri kuruluşlarla işbirliği yapmak,
+d) Üniversitelerde lisans, yüksek lisans ve doktora düzeyinde sürekli eğitim ile ilgili ders, konferans ve seminerler verilmesini, sempozyum ve kongreler düzenlenmesini desteklemek ve katkıda bulunmak; öğrencilerin sürekli eğitimle ilgili konulara yönelmesini, tezler hazırlamasını özendirmek ve gerekli desteği sağlamak,
+e) Amaçları doğrultusunda yayın yapmak ve yaptırmak; Üniversitenin kütüphane kaynaklarının geliştirilmesine katkıda bulunmak, gerektiğinde kitaplık ve arşiv oluşturmak.
