@@ -1,0 +1,1 @@
+MADDE 5 – (1) İşletmeler fiyat tarifelerini, içinde bulundukları yılın Eylül-Ekim aylarında onaylatırlar. Onaylanan fiyat tarifeleri bir takvim yılı sonuna kadar geçerlidir. Yeni fiyat tarifesi onaylatma talebinde bulunulmadığı taktirde, onaylı tarifeler geçerliklerini korumaya devam ederler.

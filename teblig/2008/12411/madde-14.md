@@ -1,0 +1,1 @@
+MADDE 14 – (1) Herşey dahil pazarlama sistemini uygulayan konaklama işletmeleri, bu sisteme yönelik her türlü yeme-içme, yan ünite hizmetlerinin, hangi sürelerde sunulacağını, sunuş biçimlerini ve fiyatlarını açıkça fiyat formlarında belirtmek zorundadırlar.

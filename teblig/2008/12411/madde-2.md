@@ -1,0 +1,1 @@
+MADDE 2 – (1) Bu Tebliğ, 2634 sayılı Turizmi Teşvik Kanununun 10 uncu maddesi ve 21/6/2005 tarihli ve 25852 sayılı Resmî Gazete’de yayımlanan Turizm Tesislerinin Belgelendirilmesine ve Niteliklerine İlişkin Yönetmeliğin 55 inci maddesinin 1 inci fıkrasının (l) bendine dayanılarak hazırlanmıştır.

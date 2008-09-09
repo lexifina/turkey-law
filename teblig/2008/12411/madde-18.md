@@ -1,0 +1,1 @@
+MADDE 18 – (1) Mesleki dernek üyesi işletmeler fiyat tarifelerini üç nüsha halinde bağlı bulundukları dernek aracılığıyla, dernek üyesi olmayan işletmeler ise iki nüsha halinde doğrudan İl Kültür ve Turizm Müdürlüklerine gönderirler.

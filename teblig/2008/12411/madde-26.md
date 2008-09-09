@@ -1,0 +1,1 @@
+MADDE 26 – (1) Herşey dahil sistemi uygulayan işletmelerden, yiyecek, içecek ürünleri ile diğer hizmetlerin sunumunda süre sınırı veya ayrı bir ücret ödeme zorunluluğu getirenler, bu uygulama konusunda müşterilerini önceden bilgilendirmekle yükümlüdürler.

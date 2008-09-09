@@ -1,0 +1,1 @@
+MADDE 6 – (1) Onaylı tarifeler, uygulandığı yıl içerisinde değiştirilerek ikinci kez onaylanmaz. Ancak, fiyat değişikliği için ileri sürülen gerekçelerin, tarifeleri onaylayan mercii tarafından incelenerek haklı görülmesi halinde ikinci kez fiyat onaylanabilir.

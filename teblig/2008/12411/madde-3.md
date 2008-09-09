@@ -1,0 +1,1 @@
+MADDE 3 – (1) Bu Tebliğ, Turizm Tesislerinin Belgelendirilmesine ve Niteliklerine İlişkin Yönetmelik hükümleri ile 4/8/1983 tarihli ve 18125 sayılı Resmî Gazete’de yayımlanan Yat Turizmi Yönetmeliği çerçevesinde işletme belgesi alan turizm işletmelerinin uygulayacakları fiyat tarifelerinin hazırlanması ve onaylanmasına ilişkin usul ve esasları kapsar.

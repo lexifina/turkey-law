@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.12411",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELGELİ İŞLETMELERİN UYGULAYACAKLARI FİYAT TARİFELERİNİN HAZIRLANMASI VE ONAYLANMASINA İLİŞKİN GENEL İLKELER HAKKINDA TEBLİĞ (TEBLİĞ NO: 2008/2)",
+  "number": "12411",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "path": "teblig/2008/12411",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12411&MevzuatTertip=5",
+  "source_sha256": "9b0507f3a2b4679678f3b96f30980d50a73249731b2b80b6cd1c33551997710c",
+  "source_bytes": 19971,
+  "published": "2008-09-09",
+  "gazette": "26992",
+  "in_force": "2008-09-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.09.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 766,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.12411.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

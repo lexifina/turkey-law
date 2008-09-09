@@ -1,0 +1,1 @@
+MADDE 9 – (1) Yat limanlarında fiyatlara dahil olan tüm hizmetler, (tamir, kontrol ve benzeri bir tarifeye bağlanmayan özellik taşıyan hizmetler hariç) kaptan ücreti, su, elektrik, spor olanağı, bağlama, bakım, v.b. fiyat tarifelerinde ayrıntılı olarak belirtilir.
