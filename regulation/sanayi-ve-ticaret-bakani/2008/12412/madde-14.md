@@ -1,0 +1,3 @@
+İcra Komitesi kararlarının icrası
+MADDE 14 – (1) İcra Komitesince alınan kararlar, kararların işleme konulabilmesine yönelik usule ilişkin işlemleri belirlemek üzere, yapılacak ilk Birlik Yönetim Kurulu toplantısında Yönetim Kuruluna sunulur. İcra Komitesinin kararları, Birlik Yönetim Kurulunca belirlenen usuller çerçevesinde, Yönetim Kurulu karar tarihinden itibaren onbeş gün içerisinde yerine getirilir.
+(2) Müsteşarlık, mevzuata ve sigortacılık sektörünün genel menfaatlerine aykırılık tespit etmesi halinde Birlikten sigorta acentelerine ilişkin yapılan düzenlemelerin iptal edilmesini veya düzenlemelerde değişiklik yapılmasını isteyebilir. Bu takdirde, Birlik Yönetim Kurulu İcra Komitesinin kararlarının uygulamasını durdurmaya yetkilidir.

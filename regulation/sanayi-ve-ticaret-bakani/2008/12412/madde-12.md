@@ -1,0 +1,6 @@
+İcra Komitesi üyeleri
+MADDE 12 – (1) Geçmiş beş yıl içinde disiplin cezası alanlar ile hakkında sigorta acenteliğine engel bir suçtan dolayı kovuşturma açılmasına karar verilenler kovuşturma tamamlanana kadar İcra Komitesine seçilemez ve tüzel kişiyi temsil edemez.
+(2) İcra Komitesindeki üyelik sıfatı tüzel kişi sigorta acentesine ait olmak üzere, tüzel kişi sigorta acentelerinin İcra Komitesinde temsili, sigorta acentesini temsile yetkili kişiler aracılığıyla olur. İcra Komitesinde yer alan tüzel kişi sigorta acentesi ile temsilcisi arasındaki ilişkinin sona ermesi hâlinde, sigorta acentesinin ve temsilcisinin İcra Komitesindeki görevi sona erer.
+(3) İcra Komitesi üyesinin, sigorta acenteliğini bırakması ya da seçim yeterliliğini kaybetmesi veya ardı ardına yapılmış üç toplantıya geçerli bir özrü olmadan kendisi veya tüzel kişi açısından temsilcisinin katılmaması halinde üyeliği kendiliğinden düşer. Toplantıya katılmamaya ilişkin mazeretin İcra Komitesi tarafından kabul edilmesi gerekir.
+(4) Üyeliğin herhangi bir nedenle sona ermesi halinde, eski üyenin görev süresini tamamlamak üzere yedek üye göreve çağrılır.
+(5) İcra Komitesi üyelerine ödenecek huzur hakkı ve diğer ödemeler, Birlik Yönetim Kurulunun teklifi ve Müsteşarlığın uygun görüşü ile Birlik Genel Kurulunca tespit edilir.
