@@ -1,0 +1,3 @@
+Yıllık ödenti ve belge bedelleri
+MADDE 16 – (1) Bu Yönetmelikte belirtilen belgelerin ücretleri ile Federasyonun açacağı kurs ve sınav bedelleri her yıl Federasyon Yönetim Kurulunca tespit edilir. Dalış kuruluşları, yetki belgesi, eğitmen ve rehber dalıcı ücretlerini Federasyon hesabına yatırırlar.
+(2) Federasyonun düzenlediği paletli yüzme bayrak yarışı, sualtı hokeyi ve sualtı ragbisi dallarında yurt genelinde düzenlenen takım yarışmalarının en az ikisine katılan spor kulüpleri, bir sonraki yıl yetki belgesi bedeli ödemezler. Ancak çalıştırdıkları dalış eğitmeni ve rehber dalıcıların her biri için yıllık ödentileri öderler.

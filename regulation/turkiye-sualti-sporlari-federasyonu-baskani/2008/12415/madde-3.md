@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 21/5/1986 tarihli ve 3289 sayılı Gençlik ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunun Ek-9 uncu maddesi ile 14/7/2004 tarihli ve 25522 sayılı Resmî Gazete’de yayımlanan Gençlik ve Spor Genel Müdürlüğü Özerk Spor Federasyonları Çerçeve Statüsünün 15 inci maddesi ve 21/11/2006 tarihli ve 26355 sayılı Resmî Gazete’de yayımlanan Türkiye Sualtı Sporları Federasyonu Ana Statüsünün 41 inci maddesine dayanılarak hazırlanmıştır.
