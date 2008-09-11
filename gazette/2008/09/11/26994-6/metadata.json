@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-09-11",
+  "issue": "26994",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "DÜZELTME (Sivil Hava Ulaşımına Açık Havaalanlarında Yer Alan Terminaller ile Sıhhi İşyerleri İçin İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik (SHY-33B) ile İlgili)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080911-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080911.htm",
+  "index_sha256": "c3e2ddbbf64a0b10f129b331be483e45e9fb2cba1def09d5cdd6dec020445e4a",
+  "index_header": "11 Eylül 2008 ... 26994 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
