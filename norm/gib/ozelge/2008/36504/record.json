@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.61/6158-17/90247",
+  "source_id": 36504,
+  "date": "2008-09-11",
+  "title": "Sosyal güvenlik il müdürlükleri adına kayıt ve tescilli olan taşıtların, motorlu taşıtlar vergisinden istisna tutulması gerektiği hakkında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36504",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "28804f27f35da0f9d23a56f8e346bd13b6fad99212a4643aba3ac1954a13ea94",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
