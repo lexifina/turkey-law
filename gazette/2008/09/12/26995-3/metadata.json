@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-09-12",
+  "issue": "26995",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Esnaf ve Sanatkarları Konfederasyonu Kapasite Raporu Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080912-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080912.htm",
+  "index_sha256": "b641fa863ac800f450703a305310b51fa9e77b3bfb3cf4418014f31686e40761",
+  "index_header": "12 Eylül 2008 ... 26995 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
