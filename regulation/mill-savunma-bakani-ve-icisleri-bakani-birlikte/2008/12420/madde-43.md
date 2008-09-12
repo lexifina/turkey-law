@@ -1,0 +1,4 @@
+Kredi transferi
+MADDE 43 – (1) Bir öğrencinin enstitüye tam zamanlı öğrenci olarak kaydolmadan önce, son beş yıl içinde bir enstitüden özel öğrenci statüsü ile yurtiçi veya yurtdışı yükseköğretim kurumlarından aldığı ve başardığı lisansüstü derslerden yeni bilim alanı ile ilgili olanlar, danışmanın uygun görmesi ve enstitü yönetim kurulunun onaylaması şartıyla devam edeceği lisansüstü programa transfer edilebilir. Bu şekilde transfer edilecek kredi miktarı, programın gerektirdiği toplam kredinin yarısını geçemez.
+(2) Herhangi bir yüksek lisans programı süresince alınarak bu program için geçerli sayılan krediler, doktora programına transfer edilemez.
+(3) Herhangi bir lisans programı süresince alınarak bu program için geçerli sayılan krediler, yüksek lisans/doktora programına transfer edilemez.

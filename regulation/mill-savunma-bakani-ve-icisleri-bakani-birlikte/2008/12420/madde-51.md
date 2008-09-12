@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 51 – (1) Yıl sonu ders notları, en geç bir hafta içinde ilan edilir.
+(2) Öğrenciler, ara sınav sonuçlarının ve başarı notunun ilan edilmesinden itibaren üç gün içinde enstitü müdürlüğüne bir dilekçe ile başvurarak sınav kâğıtlarının ve başarı notunun maddi hata yönünden yeniden incelenmesini isteyebilirler. Enstitü müdürü, ilgili öğretim üyeleri arasından üç kişilik bir komisyon kurar. Komisyon, sınav kâğıtlarını inceleyerek herhangi bir maddi hata bulunup bulunmadığını araştırır ve kesin kararını verir. Verilen karar, başvuru tarihinden itibaren en çok yedi gün içinde öğrenciye yazılı olarak bildirilir.

@@ -1,0 +1,4 @@
+Öğrencilerin özlük hakları
+MADDE 58 – (1) Enstitüde yürütülen lisansüstü eğitim ve öğretim programları, bu programlara seçilen Türk Silahlı Kuvvetleri personeli için ücretsizdir. Sivil öğrencilerin, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci ve 46 ncı maddelerine göre her yıl Bakanlar Kurulunca belirlenen miktarda katkı payı yatırmaları gerekir.
+(2) Lisansüstü eğitim öğrencilerinin; yiyecek, barındırma, genel eğitim ve öğretim, kırtasiye gibi masrafları ile kişisel masraf ve ihtiyaçları, kendileri tarafından karşılanır.
+(3) Demirbaş olarak teslim edilen ders araç ve gereçleri ile malzeme ihtiyaç süresi sonunda öğrencilerden geriye alınır. Kaybedilen veya hasara uğratılan ders araç ve gereçleri ile malzeme için ilgililer hakkında mevzuat hükümlerine göre yasal işlem yapılır.

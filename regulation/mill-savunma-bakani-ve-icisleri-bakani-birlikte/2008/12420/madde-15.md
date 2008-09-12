@@ -1,0 +1,5 @@
+Tezli yüksek lisans programında ders yükü ve ders seçimi
+MADDE 15 – (1) Yüksek lisans programı, toplam 21 krediden az olmamak koşuluyla, en az yedi adet ders, bir seminer dersi ve tez çalışmasından oluşur. Seminer dersi kredisiz olup, başarılı veya başarısız olarak değerlendirilir. Bir dersin yarıyıl kredi değeri dörtten fazla olamaz. Yüksek lisans programlarında derse devam zorunludur. Derse devam oranı teorik derslerde en az %70, uygulamalı derslerde en az %80’dir.
+(2) Dersler, ilgili ana bilim dalı başkanlığının önerisi ve enstitü yönetim kurulunun onayı ile diğer yükseköğretim kurumlarında verilmekte olan yüksek lisans derslerinden de seçilebilir. Diğer yükseköğretim kurumlarından alınacak yüksek lisans derslerinin toplam kredi değeri enstitü yönetim kurulu tarafından belirlenir.
+(3) Bir dersin yarıyıl/kredi değeri, dersin yarıyıl haftalık teorik ders saatinin tamamı ile haftalık uygulama ve laboratuvar saatinin yarısının toplamıdır.
+(4) Öğrenciler, 17 nci madde uyarınca kendilerine bir tez danışmanı atanıncaya kadar alacakları dersleri, ana bilim dalı başkanlığınca danışman olarak görevlendirilecek bir öğretim elemanına danışarak belirlerler.

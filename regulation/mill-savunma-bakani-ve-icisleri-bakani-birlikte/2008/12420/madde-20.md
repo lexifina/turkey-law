@@ -1,0 +1,5 @@
+Tezsiz yüksek lisans programı
+MADDE 20 – (1) Tezsiz yüksek lisans programının amacı, öğrenciye meslekî konularda derin bilgi kazandırmak ve mevcut uygulamada nasıl kullanılacağını göstermektir. Tezsiz yüksek lisans programı ikinci lisansüstü öğretimde de yürütülebilir. Bu program toplam 30 krediden az olmamak koşulu ile en az on adet ders ile dönem projesi dersinden oluşur. Tezsiz yüksek lisans programlarında derse devam zorunludur. Derse devam oranı teorik derslerde en az %70, uygulamalı derslerde en az %80’dir.
+(2) Dönem projesi dersi kredisiz olup, başarılı ve başarısız olarak değerlendirilir. Öğrenci, dönem projesinin alındığı yarıyılda dönem projesine kayıt yaptırmak ve yarıyıl sonunda yazılı bir rapor vermek zorundadır.
+(3) Enstitü yönetim kurulu tarafından belirlenen esaslara bağlı olarak tezsiz yüksek lisans programının sonunda yeterlik sınavı uygulanabilir. Yeterlik sınavı sözlü olarak, enstitü yönetim kurulunca atanan beş öğretim üyesinden (yoksa öğretim elemanından) oluşan jürilerce yapılır.
+(4) Öğretim elemanları tezsiz yüksek lisans programına kayıt yaptıramaz.

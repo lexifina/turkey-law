@@ -1,0 +1,2 @@
+Özel öğrenci kabulü
+MADDE 41 – (1) Bir yükseköğrenim kurumu mezunu veya öğrencisi olup, belirli bir konuda bilgisini artırmak isteyen, Enstitü Kurulunun onayı ile lisans üstü derslere özel öğrenci olarak kabul edilebilir. Özel öğrenci statüsünde ders alanlar, öğrencilik haklarından yararlanamaz. Özel öğrenci kabul koşulları ve bu konudaki diğer hususlar Harp Akademileri Komutanlığı tarafından çıkarılacak yönergelerde belirtilir.

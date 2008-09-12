@@ -1,0 +1,11 @@
+Enstitünün organları ve teşkilat yapısı
+MADDE 6 – (1) Enstitünün teşkilat yapısı ve organları; Harp Akademileri Komutanlığının ihtiyaçları doğrultusunda belirlenmiştir.
+(2) Enstitünün organları; Enstitü müdürü, Enstitü Kurulu, enstitü yönetim kurulu, enstitü müdür yardımcılıkları, ana bilim dalı başkanları ve askerî bilimler araştırma merkezi başkanlığından oluşur.
+(3) Enstitü müdürü; Harp Akademilerindeki enstitünün eğitim ve öğretimin, bilimsel araştırma ve uygulamaların planlanmasından, yürütülmesinden ve denetiminden Harp Akademileri Komutanına karşı sorumlu öğretim üyesi (yoksa öğretim elemanı) asker kişidir.
+(4) Enstitü müdürünün ataması, 27/7/1967 tarihli ve 926 sayılı TürkSilahlı Kuvvetleri PersonelKanunu esaslarına göre yapılır.
+(5) Enstitü Kurulu; Enstitü müdürü, enstitü müdür yardımcıları ve enstitüyü oluşturan ana bilim dalı başkanları ile enstitü bünyesindeki araştırma ve bilim ile ilgili kuruluşların (ABAM ve benzeri) başkan/müdürlerinden oluşan kuruldur.
+(6) Enstitü yönetim kurulu; Enstitü müdürünün başkanlığında, enstitü müdür yardımcıları ile enstitü müdürünün talebi üzerine ana bilim dalı başkanlıklarınca gösterilecek adaylar arasından, Enstitü Kurulu tarafından, Harp Akademileri Komutanlığınca çıkarılacak Yönergede belirtilen usul ve esaslara göre, üç yıl için seçilecek üç öğretim üyesinden (yoksa öğretim görevlisinden) oluşan kuruldur.
+(7) Kurullarda başarı durumlarının tespitine ilişkin kararlar üye tam sayısının üçte iki (2/3) çoğunluğu ile diğer kararlar oy çokluğu ile alınır. Her üye oyunu kabul veya ret yoluyla belirlemek zorundadır. Kurulun kararları karar defterine yazılır ve üyeler tarafından imza edilir. Alınan karara ret oyu kullananlar, düşüncelerini kararın altına yazar ve imza ederler.
+(8) Enstitü müdür yardımcıları, enstitü müdürüne çalışmalarında yardımcı olmakla sorumlu kişilerdir.
+(9) Ana bilim dalı başkanı, ana bilim dalının her düzeydeki eğitim-öğretim ve araştırmalarından ve ana bilim dalı ile ilgili her türlü faaliyetin düzenli ve verimli olarak yürütülmesinden enstitü müdürüne karşı sorumludur.
+(10) Askerî Bilimler Araştırma Merkezi Başkanlığı (ABAM) ile ilgili hususlar HAY 53-3 (A) Askerî Bilimler Araştırma Merkezi Başkanlığı Görev ve Faaliyetlerini Düzenleyen Yönerge ile Harp Akademileri Komutanlığınca çıkarılacak Yönergede belirlenir.

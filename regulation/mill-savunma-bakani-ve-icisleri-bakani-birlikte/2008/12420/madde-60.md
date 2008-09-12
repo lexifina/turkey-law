@@ -1,0 +1,3 @@
+Uygun kıyafet zorunluluğu
+MADDE 60 – (1) Enstitüde Türk Silahlı Kuvvetleri mensubu öğrencilerin kıyafeti Türk Silahlı Kuvvetleri Kıyafet Kararnamesine uygun olmalıdır.
+(2) Enstitüde eğitim gören sivil öğrenciler kampus içinde, dershane, kütüphane, sosyal tesisler, spor salonları, uygulama alanları ve koridorlarda çağdaş görünümde bulunmak zorundadırlar. Sivil öğrencilerin kıyafeti, 16/7/1982 tarihli ve 8/5105 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Çalışan Personelin Kılık ve Kıyafetine Dair Yönetmelik ile Türk Silahlı Kuvvetleri İç Hizmet Kanunu ve Türk Silahlı Kuvvetleri İç Hizmet Yönetmeliğinde sivil memurlar için belirtilen kıyafete uygun olmalıdır.

@@ -1,0 +1,2 @@
+Akademik unvanlı subayların seçim ve atanması
+MADDE 8 – (1) Profesör, doçent, yardımcı doçent unvanı ile SAREN’de görev alacaklar, Harp Akademileri Komutanlığı ile koordine edilmek suretiyle kuvvet komutanlıkları ve Jandarma Genel Komutanlığının teklifi üzerine Genelkurmay Başkanlığınca seçilirler. Bu subayların atanmaları ile hizmet süreleri ve yetiştirilmeleri kuvvet komutanlıkları ve Jandarma Genel Komutanlığınca yürütülür.

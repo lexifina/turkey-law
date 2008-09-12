@@ -1,0 +1,2 @@
+Ders tekrarı
+MADDE 55 – (1) Derslerden başarılı olma koşullarını yerine getiremeyen öğrenciler, başarısız oldukları dersleri tekrarlamak veya ilgili ana bilim dalı başkanlığınca seçmeli derslere eşdeğer kabul edilen dersleri almak zorundadırlar. Öğrenciler, genel not ortalamalarını yükseltmek amacıyla başarılı oldukları dersleri tekrarlayabildikleri gibi, ilgili ana bilim dalı başkanlığınca bu derslere eşdeğer kabul edilen dersleri ana bilim dalı başkanlığının önerisi ve enstitü yönetim kurulunun onayı ile alabilirler.
