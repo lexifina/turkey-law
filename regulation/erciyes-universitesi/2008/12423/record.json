@@ -1,0 +1,28 @@
+{
+  "source_id": "8.5.12423",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "ERCİYES ÜNİVERSİTESİ KADIN ÇALIŞMALARI ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "number": "12423",
+  "issuer": "ERCİYES ÜNİVERSİTESİ",
+  "issuer_slug": "erciyes-universitesi",
+  "path": "regulation/erciyes-universitesi/2008/12423",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=12423&MevzuatTertip=5",
+  "source_sha256": "75daeb4f0017be8fd47f17f4ce153d4c29c835557f96100f74aaf0e892748c74",
+  "source_bytes": 25587,
+  "published": "2008-09-13",
+  "gazette": "26996",
+  "in_force": "2008-09-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.09.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1002,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
