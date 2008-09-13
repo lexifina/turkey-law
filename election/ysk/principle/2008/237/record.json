@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2008/237",
+  "list_number": "237",
+  "decision_date": "2008-09-13",
+  "title": "YSK ilke kararı 2008/237",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3174/237.htm",
+  "source_sha256": "ab963760f3017f3ddbf1eb304f4e270f14df4fb848cf552375c75c6065115295",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2008-09-13",
+  "law_text_complete": false
+}
