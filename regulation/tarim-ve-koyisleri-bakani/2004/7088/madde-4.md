@@ -1,0 +1,21 @@
+Tanımlar
+Madde 4 — Bu Yönetmelikte geçen;
+a) Bakanlık: Tarım ve Köyişleri Bakanlığını,
+b) (Değişik:RG-14/9/2008-26997) Genel Müdürlük: Tarımsal Üretim ve Geliştirme Genel Müdürlüğünü,
+c) Kanun: 5042 sayılı Yeni Bitki Çeşitlerine Ait Islahçı Haklarının Korunmasına İlişkin Kanunu,
+d) Islahçı: Yeni bir bitki çeşidini ıslah eden veya bulan ve geliştiren kişiyi,
+e) Hak sahibi: Islahçı veya onun hukukî haleflerini,
+f) Çeşit: Islahçı hakkının verilmesi için gerekli şartların karşılanıp karşılanmadığına bakılmaksızın, bir veya birden fazla genotipin ortaya çıkardığı bazı özelliklerin kendisini göstermesiyle tanımlanan ve aynı tür içindeki diğer genotiplerden en az bir tipik özelliği ile ayrılan ve değişmeksizin çoğaltmaya uygunluğu bakımından bir birim olarak kabul edilen en küçük taksonomik kısım içerisinde yer alan bitki grubunu,
+g) Tohumluk: Bitkilerin çoğaltımı için kullanılan vegetatif ve generatif bitki kısımlarını,
+h) Çoğaltım veya çoğaltma: Asıl veya ebeveyn bitkilerle aynı özellikleri taşıyan bir sonraki nesil bitkilerin elde edilmesini,
+ı) Üretim veya üretme: Ürün veya çoğaltım materyali elde etmek amacıyla bitki yetiştirilmesini,
+i) Çoğaltım materyali: Bitkilerin çoğaltımı için kullanılan bütün bir bitki veya kısımlarını,
+j) Tescil: Bu Kanun kapsamındaki çeşitlerin ıslahçı hakları kütüğüne yazılmasını,
+k) Kütük: Islahçı hakkı başvurusu ve hakkın tescili ile ilgili hususların kayıtlı olduğu sicilleri,
+l) Liste: Genel Müdürlük tarafından oluşturulan tohum hazırlayıcılarını kapsayan listeyi,
+m) Tohum hazırlayıcı: Kendi veya diğer çiftçilerin elde ettikleri ürün ve/veya çoğaltım materyaline belli manipülâsyon işlemlerini uygulayanları,
+n) Çiftçi: Kendi adına; mülkiyetindeki ya da kiraladığı veya ortakçılık yoluyla sağladığı arazilerde bitkisel üretim faaliyetinde bulunanları,
+o) Küçük çiftçi: 8 inci maddede belirtilen bitki grubu veya türlerinden Ek-1’de yer alan ekim alanları kadar veya daha küçük araziyi işleyen çiftçiler veya diğer türler için karşılaştırılabilir kriterleri sağlayan çiftçileri,
+ö) Hak sahipleri organizasyonu: Hak sahiplerinin oluşturduğu ve hak sahiplerini temsil eden organizasyonu,
+p) Pazarlama yılı: 1 Temmuzdan ertesi yılın 30 Haziranına kadar olan dönemi,
+ifade eder.
