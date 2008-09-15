@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.62/6231-7-745",
+  "source_id": 38142,
+  "date": "2008-09-15",
+  "title": "Arkeolojik sit alanı ve doğal sit alanı olan ve üzerlerine kesin yapılanma yasağı getirilen taşınmaz kültür ve tabiat varlıkları olan parseller üzerinde bulunan gayrimenkullerin onarım ve restorasyonuna ilişkin işler nedeniyle alınan ihale kararlarının ve",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38142",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "29c00d4347bf9528324b17eb1b718a9d8a549839c3942038666b0a5f2d1f4b10",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
