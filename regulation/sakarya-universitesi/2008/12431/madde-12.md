@@ -1,0 +1,3 @@
+Danışma kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu; Merkezin faaliyetleri ile ilgili olarak Yönetim Kurulunun ihtiyaç duyduğu konularda değerlendirmede bulunmak ve istişari nitelikte görüş ve öneri bildirmek üzere oluşturulan kuruldur.
+(2) Danışma Kurulu; Üniversitede görev yapan tarih, uluslararası ilişkiler, sosyoloji, Türk dili ve edebiyatı, sanat tarihi, arkeoloji ve coğrafya bölümleri öğretim elemanlarından meydana gelir. Müdür yardımcısı, Kurulun tabii üyesidir. Danışma Kuruluna Müdür başkanlık eder. Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir defa toplanır. Bir yıl önceki işler hakkında bilgi alır, yıllık çalışma planını görüşür.
