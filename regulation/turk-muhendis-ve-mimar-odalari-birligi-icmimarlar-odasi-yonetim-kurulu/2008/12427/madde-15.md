@@ -1,0 +1,7 @@
+Odanın görev, yetki ve sorumlulukları
+MADDE 15 – (1) Odanın görev, yetki ve sorumlulukları şunlardır;
+a) Oda, serbest içmimarlık hizmetlerinin yürütülmesinde meslek mensupları arasında haksız rekabeti önlemek, üretilen hizmetlerin nitelikli, toplum ve meslek yararına olmasını sağlamak amacıyla gerekli gördüğü önlemleri alır.
+b) Oda, tescil süresi içinde serbest içmimarların, hizmetlerini ve bürolarını, denetlemeye ve sicillerini tutmaya yetkilidir. Adı geçen bürolarda üretilmiş olan proje ve uygulamaların kayıtlarını tutar ve eser haklarını korur.
+c) Oda, içmimar ile işveren arasındaki ilişkileri hakkaniyet çerçevesinde düzenleyecek tedbirler alır ve çalışmalar yapar. İşveren ile içmimar arasında doğabilecek uyuşmazlıklarda arabuluculuk görevini üstlenir. Aynı zamanda diğer meslek odaları ile eşgüdümlü olarak ve işbirliği içinde proje müellifi ve içmimar arasında doğabilecek problemlerde de arabuluculuk görevi üstlenir.
+(2) Oda, üye ve üçüncü şahıslar veya kurum ve kuruluşla yapılan işlerden doğacak, bu Yönetmeliğe aykırı durumlarda 10/7/2002 tarihli ve 24811 sayılı TMMOB Disiplin Yönetmeliğinin ilgili maddeleri uygulanır.
+(3) Tescile esas bilgi ve belgelerin Odaya verilmesi aşamasında gerçeğe aykırı bildirimde bulundukları saptanan, serbest içmimarlık hizmetleri büro tescil belgesi üzerinde bir değişiklik yapan ve bu Yönetmeliğe göre mesleki uygulama koşullarında değişiklik olan serbest içmimarın büro tescil belgesi geçersiz kılınır, mührü geri alınır.
