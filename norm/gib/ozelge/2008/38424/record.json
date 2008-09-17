@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68/6802-2",
+  "source_id": 38424,
+  "date": "2008-09-17",
+  "title": "Vadeli ithalat işlemlerinden kaynak kullanımını destekleme fonu kesintisi yapılması gerektiği hakkında....",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38424",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "eeec79bfb2c1e700a03a0acfdcac0d3b4a6f9f37c3297c297bb7b54de8b215a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
