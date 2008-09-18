@@ -1,0 +1,13 @@
+{
+  "number": "08-54/859-345",
+  "type": "Rekabet İhlali",
+  "decision_date": "2008-09-18",
+  "publication_date": "2008-12-24",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=785d11ae-5c63-4fcd-8cde-b1041365845e",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=782",
+  "pdf_sha256": "15e2927e7bcb25695184e7ba1072233492f93fb1a93b982e4729afeb553d535d",
+  "pdf_bytes": "228053",
+  "pages": "15",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
