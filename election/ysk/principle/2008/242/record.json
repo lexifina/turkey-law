@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2008/242",
+  "list_number": "242",
+  "decision_date": "2008-09-20",
+  "title": "YSK ilke kararı 2008/242",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3172/242.htm",
+  "source_sha256": "4e8086a3823208b789a39dff21068b2ce44aac301df3d2df676c64c74620b3db",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2008-09-20",
+  "law_text_complete": false
+}
