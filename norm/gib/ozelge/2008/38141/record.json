@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.62-6234-",
+  "source_id": 38141,
+  "date": "2008-09-20",
+  "title": "Döviz kazandırıcı faaliyet hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38141",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "7cfc1e1348ac755687675387dbd76dad7088e3d6b67c55d27a7c5d08ce3ba1cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
