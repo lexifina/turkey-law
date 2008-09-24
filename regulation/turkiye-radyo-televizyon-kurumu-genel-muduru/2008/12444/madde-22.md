@@ -1,0 +1,2 @@
+Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı
+MADDE 22 – (1) Yabancı uyruklu personel; ticaretle uğraşamaz, Kurum ile ilişkileri olan iş sahiplerinden borç para alamaz ve bunların kefilliğini kabul edemez, ticari vekil veya kolektif şirketlerde ortak ya da komandit şirketlerde komandite ortak olamaz. Kanun ile izin verilen hâller dışında ticaret ve sanayi kuruluşlarında görev alamaz. Yabancı uyruklu personelin eşi ve çocukları, Kurumun açtığı ihale, eksiltme ve artırmalara katılamazlar.

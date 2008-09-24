@@ -1,0 +1,2 @@
+Tebligat ve göreve başlama
+MADDE 8 – (1) Kurumda görev alması uygun görülenlerin, kendileriyle sözleşme yapılmasını izleyen 15 gün içinde göreve başlamaları gerekir. Kendileriyle henüz sözleşme yapılmamış olmakla birlikte, Kurumda görev almalarının uygun bulunduğu ve sözleşme yapılması için Kuruma müracaatları hususunda kendilerine tebligatta bulunulanların ise tebliğ tarihinden itibaren 15 gün içinde Kuruma başvuruda bulunmaları gerekir.

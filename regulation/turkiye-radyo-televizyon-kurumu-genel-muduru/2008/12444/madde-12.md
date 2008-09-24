@@ -1,0 +1,3 @@
+Çalışma saatleri
+MADDE 12 – (1) Yabancı uyruklu personel, işin ve işyerinin özelliklerine göre, Genel Müdürlükçe tayin ve tespit edilen çalışma saatleri içinde, görevinin başında bulunur ve çalışma zamanının tümünü işine verir. Çalışma süresi haftada 40 saattir. Devam kontrolü ve şekli Genel Müdürlükçe düzenlenir.
+(2) Belirli sürede bitirilmesi gereken işler söz konusu olduğunda, yabancı uyruklu personel normal çalışma saatleri dışında veya hafta tatili ve resmi tatillerde de çalışmak zorundadır. Bu çalışmaları karşılığında yabancı uyruklu personele herhangi bir ek ücret ödenmez. Ancak, zorunlu olarak çalışılan hafta sonu tatili ve diğer dinlenme süreleri başka günlerde kullandırılır.
