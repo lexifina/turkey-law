@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-09-24",
+  "issue": "27007",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2008/14127 Türkiye Cumhuriyeti ile Gürcistan Arasındaki Serbest Ticaret Anlaşması’nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080924M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080924M1.htm",
+  "index_sha256": "37543963564cfb81fe50028cf8cc233cb696ad2cc887dd4e8d9c064d27ff7e7e",
+  "index_header": "24 Eylül 2008 ... 27007 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
