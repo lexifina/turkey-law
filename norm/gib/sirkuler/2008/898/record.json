@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-13/2008-4/4842 sayılı Kanun-1",
+  "source_id": 898,
+  "date": "2008-09-25",
+  "title": "4842 sayılı Kanunun Geçici 1 inci maddesi çerçevesinde mahsup ve iadeye konu olmayan fon paylarının red ve iadesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/898",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "6f835d68057d0a1eaf44f84d24e3665265d9f8da3ca2f65bbac4caccff34be84",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
