@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.66/6651-150-97125",
+  "source_id": 36974,
+  "date": "2008-09-26",
+  "title": "bina vergisini binanın malikinin, varsa intifa hakkı sahibinin, her ikisi de yoksa binaya malik gibi tasarruf edenlerin ödeyeceği hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36974",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "bfbf3dc069fcfa2aec24500f7ff8f466620a945f3fc30f23b7c80f05df51b9d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
