@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-09-27",
+  "issue": "27010",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Milli Savunma Bakanlığı ile Kara, Deniz ve Hava Kuvvetleri Komutanlıklarına Bağlı Kurumlardaki Döner Sermayenin İşletilmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080927-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080927.htm",
+  "index_sha256": "4a50edcef45cd942c3a8453fed9a7beef53790ca291b3c0ce9e67cc6d50a270b",
+  "index_header": "27 Eylül 2008 ... 27010 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
