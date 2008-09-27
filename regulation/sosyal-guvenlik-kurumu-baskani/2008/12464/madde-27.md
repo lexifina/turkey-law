@@ -1,0 +1,3 @@
+Mahcuz malların muhafazası
+MADDE 27 – (1) Mahcuz malların muhafazasında Adalet Bakanlığına bağlı depo ve garajların yanı sıra özel şahıslar tarafından açılan depo ve garajlar da kullanılabilir. Kurum, uygun gördüğü ünitelerde mahcuz malların muhafazasında depo ve garaj kurabilir.
+(2) Özel şahıslar tarafından açılan depo ve garajlarda muhafaza altına alınan mahcuz malların muhafaza ücretlerinin ödenmesinde üst sınır olarak, 13/7/1987 tarihli ve 19516 sayılı Resmî Gazete’de yayımlanan Mahcuz Malların Muhafaza Edileceği Adalet Bakanlığı Depo ve Garajlarının Çalıştırılmasına Dair Yönetmeliğe istinaden çıkarılan ücret tarifesinde belirtilen ücret miktarları uygulanır.

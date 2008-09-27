@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.12464",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL GÜVENLİK KURUMUNCA 6183 SAYILI AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUNA GÖRE KULLANILACAK YETKİLERE İLİŞKİN YÖNETMELİK",
+  "number": "12464",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "issuer_slug": "sosyal-guvenlik-kurumu-baskani",
+  "path": "regulation/sosyal-guvenlik-kurumu-baskani/2008/12464",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12464&MevzuatTertip=5",
+  "source_sha256": "8255cc584fa22008439106e06eb383e93e955adf77bac12fc7accce2c0b6b68a",
+  "source_bytes": 57217,
+  "published": "2008-09-27",
+  "gazette": "27010",
+  "in_force": "2008-09-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.09.2008); own commencement article: \"Bu Yönetmelik hükümleri 2008 yılı Ekim ayı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri 2008 yılı Ekim ayı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3451,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Sosyal güvenlik sözleşmesi hükümlerine göre Kurum alacaklarının tahsili ve bilgi istenilmesi
+MADDE 33 – (1) Kurum alacakları ile bunlara ilişkin her türlü bilgi ve belgeler ülkemiz ile yapılmış olan ikili veya çok taraflı uluslararası sözleşmeye taraf olan ülkelerde ikamet eden işveren, işyeri sahibi, sigortalı ve üçüncü kişilerden, uluslararası sözleşmeye taraf ülkelerin sosyal güvenlik kurumları aracılığıyla sözleşme hükümleri çerçevesinde tahsil ve talep edilir.

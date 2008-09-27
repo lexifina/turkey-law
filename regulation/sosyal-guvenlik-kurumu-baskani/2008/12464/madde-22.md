@@ -1,0 +1,3 @@
+Gayrimenkullerde değer tespiti
+MADDE 22 – (1) Kurum alacaklarına karşılık teminat olarak gösterilen veya satışına karar verilen gayrimenkullerin değer tespiti, uzman gerçek veya tüzel kişilerin hazırlamış olduğu kıymet takdir raporu dikkate alınarak gayrimenkul satış komisyonu tarafından belirlenir.
+(2) Gayrimenkul satış komisyonu, uzman gerçek veya tüzel kişilerin hazırlamış olduğu kıymet takdir raporunu kabul edip etmemekte serbesttir. Komisyon gerekli gördüğü hâllerde yeniden kıymet takdir raporu isteyebileceği gibi, Kurum teknik elemanlarının bulunduğu illerde, bu elemanların da bulunduğu bir komisyon marifetiyle değer tespiti yaptırabilir.

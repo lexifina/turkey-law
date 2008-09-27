@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 34 – (1) 17/8/1994 tarihli ve 22024 sayılı Resmî Gazete’de yayımlanan Sosyal Sigortalar Kurumunca 6183 Sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna Göre Kullanılacak Yetkilerin Usul ve Esasları Hakkında Yönetmelik ile 25/7/2001 tarihli ve 24473 sayılı Resmî Gazete’de yayımlanan Esnaf ve Sanatkarlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumunca 6183 Sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna Göre Kullanılacak Yetkilerin Usul ve Esasları Hakkında Yönetmelik yürürlükten kaldırılmıştır.
