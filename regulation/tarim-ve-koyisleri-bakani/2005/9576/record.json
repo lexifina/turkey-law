@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.9576",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIM VE KÖYİŞLERİ BAKANLIĞI MEMURLARININ YETİŞTİRİLMEK AMACIYLA YURT DIŞINA GÖNDERİLMELERİ HAKKINDA YÖNETMELİK",
+  "number": "9576",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "issuer_slug": "tarim-ve-koyisleri-bakani",
+  "path": "regulation/tarim-ve-koyisleri-bakani/2005/9576",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9576&MevzuatTertip=5",
+  "source_sha256": "4918b63d3e0f1b4572fb26e8dd0f5ad9e09fe67de295aa5e46296b7fc5f4c81e",
+  "source_bytes": 62058,
+  "published": "2005-10-30",
+  "gazette": "25981",
+  "in_force": "2008-09-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/9/2008\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2008-09-28",
+      "RG-28/9/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2055,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
