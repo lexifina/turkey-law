@@ -1,0 +1,4 @@
+Rücu davalarına esas tutarın hesabı
+MADDE 10 – (1) İşveren veya üçüncü şahıslar aleyhine açılacak rücuan tazminat davalarına konu olabilecek tutar, sigortalı ve hak sahiplerine bağlanan gelirin başladığı tarihteki ilk peşin sermaye değerine, Kurumca, Kanun gereğince yapılan veya ileride yapılması gereken diğer ödemeler eklenerek hesaplanır.
+(2) İşveren, rücuan tazminat davalarına konu olan, bağlanacak ilk peşin sermaye değerli gelirlerin tamamından kusur oranı kadar sorumludur.
+(3) Üçüncü bir kişinin kusuru nedeniyle meydana gelen iş kazası veya meslek hastalığı olaylarında zarara sebep olan üçüncü kişiler ve şayet kusuru varsa bunları çalıştıranlar, sigortalıya ve hak sahiplerine yapılan veya ileride yapılması gereken ödemeler ile bağlanan gelirin başladığı tarihteki ilk peşin sermaye değeri toplamının yarısından kusur oranları kadar sorumludur.

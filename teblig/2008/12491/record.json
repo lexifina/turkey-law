@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.12491",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İŞ KAZASI VE MESLEK HASTALIĞI SİGORTASI BAKIMINDAN İŞVERENİN, ÜÇÜNCÜ KİŞİLERİN VE SİGORTALILARIN SORUMLULUĞU İLE PEŞİN SERMAYE DEĞERLERİNİN HESAPLANMASIYLA İLGİLİ İŞLEMLER HAKKINDA TEBLİĞ",
+  "number": "12491",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "path": "teblig/2008/12491",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12491&MevzuatTertip=5",
+  "source_sha256": "8a38eff82a1807c3a62bfe34c0bf2ebce20ed038904062d9f65a1522d22e5be5",
+  "source_bytes": 31688,
+  "published": "2008-09-28",
+  "gazette": "27011",
+  "in_force": "2008-09-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.09.2008); own commencement article: \"Bu Tebliğ 2008 yılı Ekim ayı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 2008 yılı Ekim ayı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1673,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.12491%20ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
