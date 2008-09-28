@@ -1,0 +1,3 @@
+Destek Programı
+Madde 15 — Yabancı dil hazırlık sınıfında veya müteakiben yaz okulunda başarısız veya devamsızlıktan kalmış eğitim-öğretim dili yabancı dil (İngilizce-Almanca-Japonca) olan programlara kayıtlı öğrenciler bir yıl daha hazırlık sınıfında öğrenim görürler. İkinci defa devam edilen hazırlık sınıfına "Destek Sınıfı" denilir. İkinci yeterlik sınavı sonunda başarılı olamayan öğrenciler için Bütçe Kanunu ve Bütçe Uygulama Talimatlarıyla öngörülen koşullar çerçevesinde ücrete ve isteğe bağlı bir Yaz Dönemi Destek Programı açılabilir.
+İkinci yeterlik sınavına girmeyen veya bu sınava girdikleri halde başarılı olamayan öğrenciler üçüncü yeterlik sınavına girerler. Üçüncü yeterlik sınavında da başarısız olan öğrenciler hazırlık sınıfını başaramamış sayılırlar.

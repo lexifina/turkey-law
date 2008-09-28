@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 19 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2004-09-28",
+      "28.09.2004",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2008-09-28",
+      "RG-28/9/2008-27011",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-28/9/2008-27011",
+  "first_law": null,
+  "gazette": "25597",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2008-09-28",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Çanakkale Onsekiz Mart Üniversitesi",
+  "issuer_slug": "canakkale-onsekiz-mart-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/canakkale-onsekiz-mart-universitesi/2004/7910",
+  "published": "2004-09-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7910&MevzuatTertip=5",
+  "source_bytes": 71735,
+  "source_id": "8.5.7910",
+  "source_sha256": "ab9ef600686af78e8a14fd4d3abb790bbe43c7f07af9bd6752b6d568fe28d7b5",
+  "text_status": "current-consolidated",
+  "title": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ YABANCI DİL EĞİTİM-ÖĞRETİMİ VE\r\nYABANCI DİL HAZIRLIK EĞİTİM-ÖĞRETİMİ YÖNETMELİĞİ",
+  "university_id": 186,
+  "word_count": 2838
+}

@@ -1,0 +1,4 @@
+Yaz Okulu
+Madde 14 — Haziran ayında verilen yeterlik sınavından 2 hafta sonra yaz okulu yeterli başvuru olması ve ilgili birim yönetim kurulunun uygun görmesi halinde açılabilir ve 4 hafta sürer. Yaz okuluna katılmak zorunlu değildir. Ancak yaz okulunun sonunda verilecek olan yeterlik sınavını sadece yaz okuluna katılan öğrenciler alabilir.
+Yaz okuluna katılmaya hak kazanan öğrenciler; a) Yıl içi çalışmaları 50 (49.50) – 59 (59.49) olduğu için Haziran yeterlik sınavına katılamayanlar ve b) Haziran yeterlik sınavında başarısız olanlardır.
+Yaz okulunda devamsızlık limiti 12 saattir. Bu sınırı aşan öğrenciler devamsızlıktan kalır ve yaz okulu sonunda verilecek olan yeterlik sınavına giremezler. Yaz okulu sonunda verilen yeterlik sınavından 60 (59.50) puan alan öğrenciler başarılı sayılırlar. Başarısız öğrencilerin ise Eylül ayında verilecek olan yeterlik sınavına girme hakları vardır.

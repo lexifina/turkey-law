@@ -1,0 +1,3 @@
+Yabancı Dil Eğitim-Öğretimin Amaçları
+Madde 3 — a) Zorunlu yabancı dil eğitim-öğretiminin amacı; öğrenciye aldığı yabancı dilin temel kurallarını öğretmeyi, yabancı dil kelime hazinelerini geliştirmeyi, öğrencilerin kendilerini ifade edebilmelerini ve kendi konularındaki metinleri anlayabilmelerini sağlamaktır.
+b) Zorunlu ve isteğe bağlı yabancı dil hazırlık eğitiminin amacı; öğrencilerin kayıtlı oldukları programda eğitim–öğretimin yapıldığı yabancı dilde kendi konularında okuduğunu ve duyduğunu anlayabilme, kavrayabilme, yazı ve söz ile kendilerini ifade edebilme yeteneğini kazanmalarını sağlamaktır.
