@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-09-29",
+  "issue": "27012",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "2008 Yılı Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080929M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/09/20080929M1.htm",
+  "index_sha256": "782232f3bcb2b71b8cd1de51e20ed1414080ba62eefbb3158c4f3263ee8b15a5",
+  "index_header": "29 Eylül 2008 ... 27012 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
