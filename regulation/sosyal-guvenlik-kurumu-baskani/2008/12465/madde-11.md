@@ -1,0 +1,2 @@
+Rapor düzenlenemeyecek hâller
+MADDE 11 – (1) İşverenin veya alt işverenin defter ve belgelerini düzenleyen meslek mensupları, aynı işveren ve alt işveren için veya kendilerinin, boşanmış dahi olsa eşinin usul ve füruundan birinin veya üçüncü dereceye kadar (bu derece dâhil) kan ve ikinci dereceye kadar (bu derece dâhil) kayın hısımlarının ya da bunların yönetici oldukları veya yönetimde görev alarak ortak oldukları işyerleri hakkında rapor düzenleyemez.

@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.12465",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SERBEST MUHASEBECİ MALÎ MÜŞAVİRLER İLE YEMİNLİ MALÎ MÜŞAVİRLERCE İŞYERİ KAYITLARININ İNCELENMESİ HAKKINDA YÖNETMELİK",
+  "number": "12465",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "issuer_slug": "sosyal-guvenlik-kurumu-baskani",
+  "path": "regulation/sosyal-guvenlik-kurumu-baskani/2008/12465",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12465&MevzuatTertip=5",
+  "source_sha256": "f8023c9afb6ef5c63c1f7ab0f1f0579e32f7b8e740a401f73ede877db988a540",
+  "source_bytes": 42837,
+  "published": "2008-09-27",
+  "gazette": "27010",
+  "in_force": "2008-10-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik, 1/10/2008 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, 1/10/2008 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2523,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://rega.basbakanlik.gov.tr/eskiler/2008/09/20080927-12-1.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2008/09/20080927-12-2.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2008/09/20080927-12-3.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2008/09/20080927-12-4.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2008/09/20080927-12-5.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
