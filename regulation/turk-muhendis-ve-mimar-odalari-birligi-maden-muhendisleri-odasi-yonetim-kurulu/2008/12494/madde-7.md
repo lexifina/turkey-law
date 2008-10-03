@@ -1,0 +1,2 @@
+Sorumlu müdür yetki belgesinin geçerliliği ve süresi
+MADDE 7 – (1) Sorumlu müdür yetki belgelerinin geçerlilik süresi her yıl onaylanmak kaydıyla alındığı tarihten itibaren beş yıldır. Belgelerin yıllık onaylarında, belgenin geçerliliğini sürdürebilmesi için belge sahibinin meslek içi eğitimleri tamamlaması zorunludur. Bu koşulları sağlamayan belge sahibinin belgesi koşullar tamamlanıncaya kadar geçerliliğini yitirir.
