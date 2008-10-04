@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 14- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1987-06-14",
+      "14.06.1987",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2008-10-04",
+      "R.G.:4/10/2008-27014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2008-10-04",
+      "R.G.:4/10/2008-27014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2008-10-04",
+      "R.G.:4/10/2008-27014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2008-10-04",
+      "R.G.:4/10/2008-27014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "R.G.:4/10/2008-27014",
+  "first_law": null,
+  "gazette": "19487",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2008-10-04",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/1987/6876",
+  "published": "1987-06-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6876&MevzuatTertip=5",
+  "source_bytes": 20006,
+  "source_id": "8.5.6876",
+  "source_sha256": "3dded6f3bda3fe5abbbe3efdb59f938a6d9b2a1711bf75adc2ef4b27a0316133",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ\r\nAVRUPA TOPLULUKLARI ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 737
+}

@@ -1,0 +1,1 @@
+Madde 13- Sayıştay ve Maliye ve Gümrük Bakanlığının görüşleri alınmaksızın, 25/1/1987 tarihli ve 19352 numaralı Resmi Gazetede yayımlanan “Ankara Üniversitesi Avrupa Ekonomik Topluluğu Araştırma ve Uygulama Merkezi Yönetmeliği” bu yönetmeliğin yayımı tarihinde yürürlükten kaldırılmıştır.

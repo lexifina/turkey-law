@@ -1,0 +1,2 @@
+Madde 11- (Değişik:R.G.:4/10/2008-27014)
+Merkez Müdürü, kendisine yardımcı olmak amacıyla, konu ile ilgili öğretim elemanları arasından iki kişiyi müdür yardımcısı olarak seçer. Merkez Müdürüne vekalet eden müdür yardımcısı Merkez Müdürünün katılmadığı toplantılarda Yönetim Kuruluna başkanlık eder. Müdür yardımcılarından biri Merkez Müdürüne altı aya kadar vekalet edebilir. Müdür yardımcıları Yönetim Kurulu toplantılarına katılır, ancak Merkez Müdürünün katıldığı toplantılarda müdür yardımcılarının oy hakkı bulunmaz.
