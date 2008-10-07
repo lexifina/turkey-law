@@ -1,0 +1,2 @@
+Bölüm başkanı
+MADDE 20 – (1) Dekan, bölümün aylıklı profesörleri, bulunmadığı takdirde doçentleri, doçent de bulunmadığı takdirde yardımcı doçentleri arasından bir adayı Bölüm Başkanı adayı olarak Rektöre önerir. O bölümü oluşturan anabilim veya anasanat dalı başkanlarının onbeş gün içinde verecekleri olumlu görüş dikkate alınarak atama Rektör tarafından Mütevelli Heyet kararı alınarak üç yıl için yapılır. Süresi biten Bölüm Başkanı tekrar atanabilir. Bölüm Başkanı görevi başında bulunamayacağı süreler için öğretim üyelerinden birini vekil olarak bırakır.

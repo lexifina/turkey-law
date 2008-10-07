@@ -1,0 +1,2 @@
+Ders kitapları
+MADDE 33 – (1) Ders kitapları, çıkarılacak Üniversite Yayın Yönetmeliğine göre, Üniversite tarafından basılır veya bastırılır. Ders aracı olarak kullanılan kitap ve teksirleri, öğretim elemanları kendi hesaplarına bastıramazlar. Ancak, başvurdukları eğitim-öğretim yılı içinde bastırılamayacağı Üniversite Yönetim Kurulunca yazılı olarak bildirilen kitapları kendilerinin bastırma hakkı saklıdır.

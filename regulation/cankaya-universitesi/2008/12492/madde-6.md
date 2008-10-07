@@ -1,0 +1,23 @@
+Mütevelli heyetin görevleri ve yetkileri
+MADDE 6 – (1) Mütevelli Heyetin görevleri ve yetkileri şunlardır:
+a) Kendi üyeleri arasından Mütevelli Heyeti başkanını seçmek,
+b) Üniversite Rektörünü seçmek ve 2547 sayılı Kanunun Ek 5 inci maddesi ve Vakıf Yükseköğretim Kurumları Yönetmeliğinin 22 nci maddesinde belirtilen usule göre atamak,
+c) Boşalan dekanlıklar için atama yapmak,
+ç) Üniversitede görevlendirilecek yöneticiler ve öğretim elemanlarıyla diğer personelin ücretlerini belirleyip sözleşmelerini yapmak; atamalarını, terfilerini ve görevden alınmalarını onaylamak,
+d) Üniversite organlarınca hazırlanan yönetmelik ve yönerge taslaklarını inceleyerek onaylamak; bu Yönetmelik doğrultusunda diğer düzenleyici işlemleri yapmak,
+e) Üniversitenin bütçesini kabul etmek; bütçe uygulamalarını izlemek ve denetlemek; her bütçe döneminde bütçenin uygulanmasına ilişkin esasları ve harcamalara ilişkin yetkileri, parasal sınırlamaları, ayrıca satın alma ve ihale komisyonu aracılığı dışında hangi miktara kadar satın almanın harcama yetkilisi (ita amiri) onayıyla yapılabileceğini belirleyip karara bağlamak,
+f) Bütçe yılı içinde, gerektiğinde, aktarma yapılması, olağanüstü ödenek verilmesi konularında karar vermek,
+g) Bütçe döneminde harcanamayan ödeneklerin yıl sonunda iptaline ve takip eden yıl bütçesi hazırlanırken ihtiyaç duyulacak fasıl ve maddelerde kullanılmasına karar vermek, bütçe kesin hesabını ve ayniyat yönetim dönemi hesabını onaylamak,
+ğ) Öğrencilerden alınacak ücretleri ve ödeme şeklini tespit etmek,
+h) Üniversiteye bağlı tüm birim ve merkezler tarafından yürütülecek kurs, seminer, proje ve danışmanlık ve benzeri hizmetlere ilişkin ücretlerle bu ücretlerin alınma şekil ve zamanlarını, ilgili birimlerin görüşlerini de alarak, belirlemek,
+ı) Üniversiteye alınması Yükseköğretim Kuruluna önerilecek öğrenci sayılarını, yabancı uyruklu öğrenci sayılarını, burslu kontenjanları ve verilecek burs miktarlarını, ilgili üniversite organlarının da görüşlerini alarak belirlemek,
+i) Öğretim elemanlarının atanmasında Devlet yükseköğretim kurumlarındaki atamalarda aranan koşullara ek olarak Çankaya Üniversitesinin gerekli gördüğü diğer koşullarla, idari personelin seçim ve atanmasında hizmetin niteliği yönünden gerekli gördüğü diğer koşulları, Senato ve Üniversite Yönetim Kurulunun görüşlerini de alarak belirlemek,
+j) Üniversiteye taşınır ve taşınmaz mallar temin etmek ve yönetmek; varlıklarını teminat gösterip Üniversite yararına kullanmak amacıyla kredi alabilmek; taşınmaz mallarını Üniversite adına tapuya tescil ettirmek,
+k) Üniversiteye yapılacak bağışların kabul veya reddine karar vermek,
+l) Üniversiteye kaynak sağlayacak yatırımlar yapılmasına, işletmeler kurulmasına ve kurulmuş işletmelere iştirak edilmesine ve mevcut kaynakların en verimli şekilde kullanılmasına ilişkin kararlar almak, yeni projeler üretmek veya bu konuda uzman kişi ve kuruluşlara projeler hazırlatmak,
+m) Yerli ve yabancı üniversite ve diğer kurumlarla yapılacak iş birliğinin ilkelerini Senatonun görüşünü de alarak saptamak, işleyişini gözetlemek ve Yükseköğretim Kurulunun onayına sunulacak iş birliğine ilişkin anlaşma ve protokolleri onaylamak,
+n) Bir sınava bağlı olmayan fahri akademik unvanlara ilişkin Senato kararlarını onaylamak,
+o) Üniversite bünyesinde fakülte, enstitü, yüksekokul, konservatuar, meslek yüksekokulu, İngilizce hazırlık sınıfı kurulması; bölüm, ana bilim, ana sanat dallarıyla uygulama ve araştırma, sürekli eğitim merkezleri, teknoparklar açılması, birleştirilmesi veya kapatılması hakkında Yükseköğretim Kuruluna sunulacak önerilere ilişkin kararlar almak,
+ö) 2547 sayılı Kanunun 4 üncü ve 5 inci maddesindeki amaç ve ilkeler çerçevesinde Üniversitenin çağdaş ve dünya standartlarında bir Üniversite olarak faaliyetlerini sürdürme ilke ve hedeflerini, sürekli göz önünde bulundurmak ve bulundurulmasını sağlamak,
+p) Yükseköğretim Kurulu tarafından yapılacak denetimlere ait raporları değerlendirip gerekli önlemlere ilişkin kararlar almak,
+r) 2547 sayılı Kanun, Vakıf Yükseköğretim Kurumları Yönetmeliği ve bu Yönetmelikle verilen diğer görevleri yapmak ve yetkileri kullanmak.

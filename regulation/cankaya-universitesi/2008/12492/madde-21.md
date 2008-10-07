@@ -1,0 +1,3 @@
+Bölüm kurulu
+MADDE 21 – (1) Bölüm Kurulu, Bölüm Başkanının başkanlığında, 18/2/1982 tarihli ve 17609 sayılı Resmî Gazete’de yayımlanan Üniversitelerde Akademik Teşkilat Yönetmeliğinde belirtilen üyelerden oluşur ve Bölüm Başkanının tespit edeceği gündemdeki konuları görüşmek üzere, eğitim-öğretim yılı süresince ayda bir defa toplanır.
+(2) Bölüm Kurulu, bölüm eğitim-öğretim, uygulama ve araştırma faaliyetlerinin, programlarının; araç, gereç ve fiziksel imkanlardan en etkin biçimde yararlanma planlarının ve iş birliği esaslarının hazırlanması hususunda görüş bildirir. Bölüm Kurulunun bu konularda hazırlayacağı öneriler, Bölüm Başkanının onayından sonra uygulanır.

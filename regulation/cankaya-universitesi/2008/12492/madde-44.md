@@ -1,0 +1,3 @@
+İzinler
+MADDE 44 – (1) İzin işleri 4857 sayılı Kanun hükümlerine göre yürütülür. Ancak akademik personele, 4857 sayılı Kanunun yıllık izinle ilgili maddesindeki sınırlamalara bakılmaksızın, öğrenime ara verilen zamanlarda kullanılmak üzere yılda toplam olarak en çok bir ay ücretli izin verilebilir.
+(2) Rektör yardımcılarının, dekanların, enstitü ve yüksekokul müdürlerinin izinlerini Rektör, Rektörün iznini de Yükseköğretim Kurulu Başkanı verir, Rektör izine ayrılmadan önce Mütevelli Heyet Başkanına yazılı bilgi sunar. Çankaya Üniversitesinde görevli bütün personel, ancak bağlı olduğu ilk disiplin amirinin izniyle görevi başından ayrılabilir.
