@@ -1,0 +1,24 @@
+{
+  "number": "99",
+  "number_as_published": "2008/99",
+  "year": 2008,
+  "title": "İlçemiz Türkkuyusu Mahallesi, 31L-2b pafta, 66 ada, 8 parsel ve Belediyemize ait Türkkuyusu Mahallesi, 66 ada, 5 parsel ve Yokuşbaşı Mahallesi, 73 ada, 253 parselde kayıtlı gayrimenkullerin birleştirme ve ayırma işleminin yapılmasına ve konu ile ilgili Encümene yetki verilmesinin kabulüne.",
+  "decision_date": "2008-10-07",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2008-10-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 7.10.2008; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=431",
+  "summary_shortened_in_listing": false,
+  "record_scope": "one council decision (summary as listed)"
+}
