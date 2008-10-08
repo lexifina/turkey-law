@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 716940,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MUSTAFA ÖZTÜRK (HATAY)",
+  "summary": "Ve 11 Milletvekilinin; 2009 Yılında İstanbul Şehrinde Yapılacak Beşinci Dünya Su Forumunun Organizasyonu ile Katma Değer Vergisi Kanununa Bir Geçici Madde Eklenmesine Dair (2/182) (S. Sayısı: 214)",
+  "title": "Ve 11 Milletvekilinin; 2009 Yılında İstanbul Şehrinde Yapılacak Beşinci Dünya Su Forumunun Organizasyonu ile Katma Değer Vergisi Kanununa Bir Geçici Madde Eklenmesine Dair (2/182) (S. Sayısı: 214)",
+  "first_sitting_date": "2008-10-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 29,
+      "sitting": 3,
+      "sitting_date": "2008-10-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c029/tbmm23029003.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c029/tbmm23029fih.pdf",
+      "pages": [
+        "65:69"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 4,
+      "sitting_date": "2008-10-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c029/tbmm23029004.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c029/tbmm23029fih.pdf",
+      "pages": [
+        "166:205"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 6,
+      "sitting_date": "2008-10-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c029/tbmm23029006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c029/tbmm23029fih.pdf",
+      "pages": [
+        "349:379",
+        "438:447"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9778ad3e006ed014ada40672e8018c4ef424a514aeeae1bfe4415432bf50a80a",
+  "in_force": "2008-10-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
