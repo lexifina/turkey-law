@@ -1,0 +1,3 @@
+Sevk işlemleri
+MADDE 7 – (1) Kanunun 25 inci maddesine göre kamu görevlisinin veya kamu idarelerinin malullük durumunun tespiti için Kurumca yetkilendirilen sağlık hizmeti sunucularına sevk istemesi durumunda, en az on yıldan beri sigortalı bulunup, toplam olarak 1800 gün veya başka birinin sürekli bakımına muhtaç derecede malul olan sigortalılar için ise sigortalılık süresi aranmaksızın 1800 gün malullük, yaşlılık ve ölüm sigortaları primi bildirilmiş olması, şartıyla sevkleri yapılır.
+(2) Malullük durumunu gösteren sağlık raporu alınmadan doğrudan malullük aylığı bağlanması talebinde bulunan kamu görevlileri, öncelikle Kurumca yetkilendirilen sağlık kuruluşuna sevk edilerek, malullük durumunun tespitine esas sağlık kurulu raporunun temini yoluna gidilir.
