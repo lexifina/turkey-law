@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12504",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SİGORTALININ ÖLÜMÜNDE HAK SAHİBİ OLAN ANA VE BABAYA AYLIK BAĞLANMASININ TESPİTİNE İLİŞKİN TEBLİĞ",
+  "number": "12504",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "path": "teblig/2008/12504",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12504&MevzuatTertip=5",
+  "source_sha256": "b85377e52b728302364ca399900d17b88984dc61bccb81fa788ed716b34a3482",
+  "source_bytes": 16568,
+  "published": "2008-10-09",
+  "gazette": "27019",
+  "in_force": "2008-10-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.10.2008); own commencement article: \"Bu Tebliğ 2008 yılı Ekim ayı başından itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 2008 yılı Ekim ayı başından itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 782,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,5 @@
+Kontrol ve denetimle görevli memurun yapacağı iş ve işlemler
+MADDE 6 – (1) Ölen sigortalının ana ve babası hakkında ölüm sigortasından yararlanmasına esas olmak üzere kontrol ve denetimle görevli memurca aşağıdaki işlemler yapılacaktır.
+a) Başvuranın, beyan ve taahhüt ettiği hususların doğru olduğuna, aksi takdirde Kanun'un 96 ncı maddesindeki hükümlerinin uygulanmasına ilişkin beyan ve taahhütlerini incelemek.
+b) Verilen bilgilerin doğruluğu hususunda Kurum kayıtlarını incelemek ve gerekli görülen hallerde yapılacak araştırmalara esas olmak üzere muhtarlık, nüfus müdürlüğü, defterdarlık veya mal müdürlüğü, tapu sicil müdürlüğü, belediye başkanlığı, emniyet müdürlüğü veya jandarma teşkilatı ile diğer kurum ve kuruluşları ile yazışma yapmak.
+c) Gelir/aylık bağlanıp bağlanmayacağı veya bağlanmış olan gelir/aylığın ödenmeye devam edilip edilmeyeceği hususundaki değerlendirmelerini içeren ve her türlü kazanç ve irattan elde etmiş oldukları gelirlerinin asgari ücretin net tutarından az veya fazla olduğunu tespit eden raporunu en geç 15 iş günü içinde tamamlayarak, ilgili sosyal güvenlik il müdürlüklerine veya başkanlıklara göndermek.
