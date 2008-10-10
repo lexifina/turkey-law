@@ -1,0 +1,141 @@
+10 Ekim 2008 CUMA
+Resmî Gazete
+Sayı : 27020
+TEBLİĞ
+Türkiye Cumhuriyet Merkez
+Bankasından:
+ULUSLARARASI
+BANKA HESAP NUMARASI
+HAKKINDA TEBLİĞ
+(SAYI:
+2008/6)
+Amaç
+ve kapsam
+MADDE
+1 – (1) Bu Tebliğin amacı
+uluslararası banka hesap numarasının bankalarca uygulanmasına ilişkin esas
+ve usulleri belirlemektir.
+Dayanak
+MADDE
+2 – (1) Bu Tebliğ, 14/1/1970
+tarihli ve 1211 sayılı Türkiye Cumhuriyet Merkez Bankası Kanununun 4 üncü
+maddesinin (I) numaralı fıkrasının (f) bendine dayanılarak çıkarılmıştır.
+Tanımlar
+MADDE
+3 – (1) Bu Tebliğde yer alan;
+a) Banka: 19/10/2005 tarihli ve
+5411 sayılı Bankacılık Kanununun 3 üncü maddesinde tanımlanan bankaları,
+b) EFT Sistemi: Elektronik Fon
+Transfer sistemini,
+c) IBAN-(International Bank
+Account Number): ISO 13616 No.lu standarda göre oluşturulmuş Uluslararası
+Banka Hesap Numarasını,
+ç) ISO-(International
+Organization for Standardization): Uluslararası Standardizasyon
+Teşkilatını,
+d) Müşteri: Bankalardan hizmet
+alan gerçek ve tüzel kişileri
+ifade eder.
+IBAN
+yapısı
+MADDE 4 – (1) Bankalar tarafından müşterilere verilecek IBAN
+yalnızca bir hesabı işaret eden 26 sayısal/alfabetik karakterden oluşur.
+Soldan sağa karakter dizilimi bu Tebliğin 1 numaralı ekinde gösterilen
+şekilde aşağıda belirtilen esaslara göre yapılır.
+Karakter Sayısı
+Karakter Şekli
+Açıklama
+2
+Alfabetik Karakter (A-Z)
+Ülke
+Kodu
+2
+Sayısal Karakter (0-9)
+IBAN
+Kontrol Basamakları
+5
+Sayısal Karakter (0-9)
+Banka
+Kodu
+1
+Sayısal Karakter (0-9)
+Rezerv
+Alan
+16
+Sayısal/Alfabetik Karakter
+Hesap
+Numarası
+(2)
+Oluşturulan IBAN içinde "İ,Ç,Ğ,Ö,Ş,Ü" harfleri ve küçük harf
+kullanılmaz.
+(3) Türkiye’nin ülke kodu ISO
+3166 No.lu standarda göre "TR"dir.
+(4) Banka kodları Türkiye
+Cumhuriyet Merkez Bankası tarafından belirlenir ve duyurulur.
+(5) Hesap numarası için
+standart bir format yoktur. Ancak hesap numarası olarak tespit edilen 16
+hanenin sağa dayalı olarak yazılması ve varsa sol tarafındaki boşlukların
+sıfır ile doldurulması zorunludur.
+(6) Rezerv Alan Bölümü, tüm
+hesap numaraları için sıfır olarak doldurulur.
+(7) Kontrol basamaklarının
+hesaplanması ve doğrulanması, bu Tebliğin 2 ve 3 numaralı ekinde gösterilen
+ISO 7064 No.lu standarda göre oluşturulan MOD 97-10 yöntemi kullanılarak
+yapılır.
+IBAN
+oluşturulması
+MADDE
+5 – (1) Bankaların nezdlerindeki
+para transferine konu her bir müşteri hesabı için bu Tebliğde belirtilen
+esaslar doğrultusunda, IBAN üretmeleri ve hesap sahiplerine bildirmeleri
+zorunludur.
+IBAN
+gösterimi
+MADDE
+6 – (1) Bankaların yazılı ve
+elektronik ortamda para transferine konu olan hesaplara ilişkin olarak
+müşterileri için üretecekleri ve üzerinde hesap numarası bulunması gereken
+belgelerde IBAN’ın gösterilmesi zorunludur.
+(2) Elektronik ortamda IBAN’ın
+kullanım formatı tümü bitişik karakterlerden oluşur. Karakterlerin arasında
+boşluk bırakılmaz ve ayraç konulmaz.
+(3) IBAN yazılı belgeler
+üzerinde, soldan başlamak üzere dörder haneden oluşan ve aralarında boşluk
+olan gruplar şeklinde gösterilir.
+IBAN
+kullanımı ve doğrulanması
+MADDE
+7 – (1) Avrupa Ekonomik Alanında
+yer alan ülkelerdeki hesaba yapılan para transferlerinde alıcıya ait
+IBAN’ın doğrulanması ve kullanılması zorunludur. Ancak, bankalar ile
+yurtdışında sınır ötesi ödemeleri gerçekleştiren kuruluşlar arasında kendi
+nam ve hesaplarına gerçekleştirilen işlemler ile talep edilmesine rağmen
+müşteri tarafından alıcıya ait IBAN’ın bildirilmeyeceğine ilişkin
+müşterinin yazılı beyanının alındığı işlemlerde bu zorunluluk aranmaz.
+(2) Bankalara gelen ve alıcı
+hesap numarası IBAN olarak belirtilen para transferlerinde IBAN’ın
+doğrulanması zorunludur.
+(3) Bankalarca müşteri
+hesabından yapılan para transferlerinde göndericiye ait IBAN’ın kullanılması
+zorunludur.
+(4) EFT Sistemi aracılığı ile
+hesaba yapılan para transferlerinde, talep edilmesine rağmen müşteri
+tarafından alıcıya ait IBAN’ın bildirilmeyeceğine ilişkin müşterinin yazılı
+beyanının alındığı işlemler hariç olmak üzere, alıcıya ait IBAN’ın
+doğrulanması ve kullanılması zorunludur.
+MADDE
+8 – (1) Bankalarca, bu Tebliğin 4
+üncü maddesinin yedinci fıkrası hükümlerine göre yapılan kontrol sonrasında
+IBAN’ı yanlış olduğu tespit edilen transfer emirleri iade edilebilir veya
+reddedilebilir.
+Yürürlük
+MADDE
+9 – (1) Bu Tebliğin 6 ncı maddesi
+ile 7 nci maddesinin birinci fıkrası 1/1/2009 tarihinde, 7 nci maddesinin
+iki, üç ve dördüncü fıkraları ile 8 inci maddesi 1/1/2010 tarihinde, diğer
+maddeleri yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE
+10 – (1) Bu Tebliğ hükümlerini
+Türkiye Cumhuriyet Merkez Bankası Başkanı yürütür.
+Ekleri için tıklayınız
