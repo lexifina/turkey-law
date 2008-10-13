@@ -1,0 +1,24 @@
+{
+  "number": "447",
+  "number_as_published": "Karar No : 447",
+  "year": 2008,
+  "title": "council decision",
+  "decision_date": "2008-10-13",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/13-ekim-2008-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "16d8a4f9266f2cc89cd14334e8e16b0ef7019620a04ac08b94ddc2e405c48cd1",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2008-10-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.10.2008 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "13 Ekim 2008 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=19",
+  "subject_published": true
+}
