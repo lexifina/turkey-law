@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Kamulaştırma, Başvuru ve Bildirimler
+Kamulaştırma
+MADDE 4 – (1) İşletme ruhsatı sahibi, ruhsat süresince işletme faaliyetlerini varsa özel mülkiyete konu taşınmaz sahibinden izin alarak yürütür. İşletme ruhsatı sahibi, elektrik enerjisi üretimine yönelik işletme faaliyetleri ile ilgili sondaj yerleri, isale hatları, kaptaj ve akışkanın kullanımına ilişkin tesisler gibi gereksinimler için yer ve güzergaha yönelik taşınmaza olan ihtiyacını taşınmazın sahibi ile anlaşma yoluyla sağlayamaması halinde İdareye başvurarak kamulaştırma talebinde bulunabilir. Talep İdare tarafından incelenir ve en geç bir ay içinde karara bağlanır. İdarece talebin uygun bulunması halinde kamu yararı kararı alınır. Elektrik enerjisi üretimine yönelik işletme faaliyetleri için kamulaştırma işlemleri 5686 sayılı Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanununun 12 nci maddesi çerçevesinde yürütülür.
