@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30379",
+  "decision_date": "2008-10-14",
+  "source_id": 1983,
+  "chamber": "4",
+  "file_number": "29897",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1983/",
+  "source_sha256": "6a981ef9a0ac8959d9ba3ca150e1ebde04c0be41884cbf6c46b19c453bc408c9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
