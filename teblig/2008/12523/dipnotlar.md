@@ -1,0 +1,1 @@
+[1] Bu Tebliğin ekindeki Yüksek Planlama Kurulu Kararı, 27/6/2009 tarihli ve 27271 sayılı Resmî Gazete’de yayımlanan Kamu İktisadi Teşebbüslerinde 2009 Yılında Uygulanacak Ücretlerin Tespitine İlişkin Tebliğ (Tebliğ No: 2009/1)’in ekindeki 5/6/2009 tarihli ve 2009/T-12 sayılı Yüksek Planlama Kurulu Kararının 8 inci maddesi ile yürürlükten kaldırılmıştır.
