@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-10-15",
+  "issue": "27025",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2008/14177 Giresun Üniversitesi Rektörlüğüne Bağlı Bulunan Sağlık Yüksekokulunun Kapatılarak, Yerine Adı Geçen Rektörlüğe Bağlı Olarak Sağlık Bilimleri Fakültesi Kurulması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/10/20081015-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/10/20081015.htm",
+  "index_sha256": "ee63e9e866bb82a177d88db493e958a6aa61fa2cc75da4b6ed990337927848d3",
+  "index_header": "15 Ekim 2008 ... 27025 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
