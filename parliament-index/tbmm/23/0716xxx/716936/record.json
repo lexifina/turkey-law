@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 716936,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MEHMET ALTAN KARAPAŞAOĞLU (BURSA)",
+  "summary": "Organize Sanayi Bölgeleri Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi, Milliyetçi Hareket Partisi Grup Başkanvekili ve İzmir Milletvekili Oktay Vural ile İzmir Milletvekili Şenol Balın; 4562 Sayılı Organize Sanayi Bölgeleri Kanununa Bir Geçici Madde Eklenmesine Dair Kanun Teklifi, İzmir Milletvekili Ahmet Ersin ve 18 Milletvekilinin; 4562 Sayılı Organize Sanayi Bölgeleri Kanununa Bir Geçici Madde Eklenmesi Hakkında Kanun Teklifi ile Organize Sanayi Bölgeleri Kanununda Değişiklik Yapılması Hakkında Kanun Tasarısı (1/544, 2/75, 2/135, 2/150) (S. Sayısı: 222)",
+  "title": "Organize Sanayi Bölgeleri Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi, Milliyetçi Hareket Partisi Grup Başkanvekili ve İzmir Milletvekili Oktay Vural ile İzmir Milletvekili Şenol Balın; 4562 Sayılı Organize Sanayi Bölgeleri Kanununa Bir Geçici Madde Eklenmesine Dair Kanun Teklifi, İzmir Milletvekili Ahmet Ersin ve 18 Milletvekilinin; 4562 Sayılı Organize Sanayi Bölgeleri Kanununa Bir Geçici Madde Eklenmesi Hakkında Kanun Teklifi ile Organize Sanayi Bölgeleri Kanununda Değişiklik Yapılması Hakkında Kanun Tasarısı (1/544, 2/75, 2/135, 2/150) (S. Sayısı: 222)",
+  "first_sitting_date": "2008-10-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 29,
+      "sitting": 6,
+      "sitting_date": "2008-10-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c029/tbmm23029006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c029/tbmm23029fih.pdf",
+      "pages": [
+        "422:437"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 7,
+      "sitting_date": "2008-10-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c029/tbmm23029007.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c029/tbmm23029fih.pdf",
+      "pages": [
+        "468:556"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 10,
+      "sitting_date": "2008-10-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c030/tbmm23030010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c030/tbmm23030fih.pdf",
+      "pages": [
+        "151:173",
+        "174:177",
+        "179"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9778ad3e006ed014ada40672e8018c4ef424a514aeeae1bfe4415432bf50a80a",
+  "in_force": "2008-10-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
