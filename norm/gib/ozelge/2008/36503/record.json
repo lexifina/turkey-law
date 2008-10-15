@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.61/6108-19/100406",
+  "source_id": 36503,
+  "date": "2008-10-15",
+  "title": "genel ve özel bütçeli idareler, sosyal güvenlik kurumları ile il özel idareleri, belediyeler, köy tüzel kişilikleri ve Türkiye Kızılay Derneği adına kayıt ve tescil edilen taşıtların motorlu taşıtlar vergisine tabi tutulmaması, parantez içi hükmü gereğinc",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36503",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "109e6e7bb783344cd3dd8a8a20081f4a2dfa3a1a6a846f9bd01f67baa398e73f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
