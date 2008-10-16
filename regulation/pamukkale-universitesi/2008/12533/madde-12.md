@@ -1,0 +1,2 @@
+Çalışma birimleri ve proje grupları
+MADDE 12 – (1) Merkez bünyesinde gerçekleştirilecek kapsamlı faaliyetlerde ve bilgi izleme, derleme ve yayımlama gibi devamlılık arz edebilecek işlerde Müdürün önerisi, Yönetim Kurulu kararı ve Rektörün onayıyla, çalışma birimleri ve proje grupları oluşturulabilir. Birim ve grupların kuruluş, çalışma ve görev süreleri, Yönetim Kurulunca belirlenen esaslara göre düzenlenir.
