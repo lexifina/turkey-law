@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.61/6110-44-248/100821",
+  "source_id": 36433,
+  "date": "2008-10-16",
+  "title": "\"Motorlu Araç Tescil Belgesi\" veya \"Motorlu Araç Trafik Belgesi\" nde taşıt cinsi kamyonet yazan ancak hem yolcu hem yük taşıma amacını aynı anda gerçekleştirebilecek özelliklere sahip kamyonetlerin panel van olarak motorlu taşıtlar vergisine tabi tutulmas",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36433",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "286fcc8bf3e62faf2bdc53c267e4d2c62485e21e7bb83fb6d3694f9e02416290",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
