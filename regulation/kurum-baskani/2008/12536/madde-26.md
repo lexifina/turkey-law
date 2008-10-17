@@ -1,0 +1,2 @@
+İşletmede mühendislik desteği ve teknik destek
+MADDE 26 – (1) Santral yönetimi, santralin güvenli bir şekilde işletiminin sürekliliğini sağlamak üzere, santralin ömrü boyunca gerekli mühendislik ve teknik desteği sağlar. Bu teknik ekip santraldeki değişiklikler, onarım ve özel testler sırasında teknik ve mühendislik yardımlarının yanısıra santralin güvenliği için gerekli analitik desteği de sağlar. Santral yönetimi mühendislik ve teknik destek ekibinin ihtiyaç duyduğu tüm kaynakları sağlamakla yükümlüdür.

@@ -1,0 +1,3 @@
+Bakım, onarım, test ve denetim
+MADDE 28 – (1) Güvenlik açısından önemli yapı, sistem ve bileşenlerin tasarım şartlarına uygunluğunu santralin bütün ömrü boyunca sürdürebilmek için, koruyucu ve önleyici bakım, denetim, test ve gerektiğinde onarım faaliyetleri kalite temin programı ile desteklenmiş ayrıntılı, doğrulanmış ve onaylı prosedürlere uygun ve düzenli olarak gerçekleştirilir.
+(2) Bakım, test ve denetim programı, işletme deneyimleri doğrultusunda gerektiğinde geliştirilir. Bakım, onarım, test ve denetim işlemlerinden herhangi biri bir güvenlik sisteminin devre dışı bırakılmasını gerektiriyorsa, bu işlem ancak yazılı, denenmiş ve onaylanmış prosedürler çerçevesinde gerekli önlemler alındıktan sonra uygulanabilir.

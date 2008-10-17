@@ -1,0 +1,2 @@
+Hizmet içi denetim
+MADDE 23 – (1) Santralin işletme güvenliğinin sürekli gözetimini ve denetimini temin etmek ve santral yönetimini güvenlik ile ilgili tüm sorumluluklarında desteklemek üzere, işletici tarafından hizmet içi denetim mekanizmaları oluşturulur ve uygulanır. Denetim sonuçları kayıt altına alınır, santralin güvenlik performansının geliştirilmesine yönelik faaliyetlerde dikkate alınır ve kullanılır.

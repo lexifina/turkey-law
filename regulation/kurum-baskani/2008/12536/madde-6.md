@@ -1,0 +1,2 @@
+Santralin radyolojik etkisi
+MADDE 6 – (1) Santral sahası, normal işletme ve kaza koşullarında birey, toplum ve çevre üzerindeki radyolojik etkisi açısından değerlendirilir, radyoaktif maddelerin insana taşınmasının hava, gıda zinciri ve su kaynakları gibi olası yollarını etkileyebilecek saha özellikleri incelenir. Olası radyolojik etkilerin Kurum tarafından belirlenmiş limitlerin altında kaldığı belgelerle gösterilir.

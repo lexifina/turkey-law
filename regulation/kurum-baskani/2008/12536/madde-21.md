@@ -1,0 +1,4 @@
+İşletmenin gerçekleştirilmesi
+MADDE 21 – (1) Santral yetkili personel tarafından sıkı idari kontrol altında ve prosedürel disiplin gözetilerek işletilir.
+(2) Santral, uygun şekilde eğitilmiş ve yeterlilikleri belgelenmiş personel tarafından işletilir. Görevli işletici personel ile bakım personelinin görev sırasında görevin gerektirdiği özen ve dikkate sahip olmasını sağlamak için gerekli önlemler alınır. İşletici personel ve bakım personeli görev sırasında alkol veya uyuşturucu kullanamaz veya etkisinde olamaz. Bu durumda olduğu tespit edilen personele disiplin cezası verilir ve gerekli görüldüğünde ilgili personel görevden uzaklaştırılır.
+(3) Santral sıkı doküman kontrolüne tâbi olan onaylı ve güncel hiyerarşik prosedürlere göre işletilir. Prosedürlerden olan sapmalar, güvenliğe ilişkin önemine uygun seviyedeki onaya tâbidir.

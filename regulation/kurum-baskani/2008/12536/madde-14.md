@@ -1,0 +1,3 @@
+Kalitenin sağlanması
+MADDE 14 – (1) Tasarımda yer alan tüm yapı, sistem ve bileşenler, kalite yönetimi programı ile desteklenen kanıtlanmış ve kabul görmüş teknik yöntem ve prosedürler kullanılarak güvenlik sınıfına uygun kalitede imal ve inşa edilir.
+(2) Güvenlikle ilgili önemli ekipmanların tedarikçileri, yeterlilikleri bağımsız uzman kuruluşlarca kontrol edilmiş ve belgelendirilmiş olanlar arasından seçilir. İmalatçı kendi yapacağı işlerle ilgili gerekli prosedürleri ve kalite yönetim sistemini oluşturur ve uygular. Tedarik edilen ekipmanların kalite güvencesini sağlamaktan yetkilendirilen kişi sorumludur.

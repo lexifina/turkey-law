@@ -1,0 +1,3 @@
+İşletme prosedürleri
+MADDE 24 – (1) Santral ayrıntılı, doğrulanmış ve Kurum tarafından belirlenen kurallar uyarınca onaylanmış işletme prosedürlerine uygun olarak işletilir. İşletme prosedürleri işletme deneyimleri doğrultusunda, gerektiğinde, ilgili prosedürlere uygun olarak değiştirilebilir. Değişiklikler ancak Kurum tarafından belirlenen kurallar uyarınca onaylandıktan ve ilgili personel eğitildikten sonra uygulamaya konulabilir.
+(2) İşletme prosedürleri, normal işletme prosedürlerini, kaza koşulları meydana geldiğinde takip edilecek acil durum işletme prosedürlerini ve personelin kontrolu, korunması ve yönlendirilmesi ile saha içi ve dışı radyolojik izleme amacıyla oluşturulmuş radyasyondan korunma prosedürlerini içerir.

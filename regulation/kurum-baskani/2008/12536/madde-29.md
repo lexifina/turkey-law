@@ -1,0 +1,2 @@
+İşletmede kalite yönetimi
+MADDE 29 – (1) İşletme sırasında santral güvenliği açısından önemli bütün santral faaliyetlerinde tatmin edici performansa ulaşılmasını garanti altına almak üzere ayrıntılı ve Kurumun öngördüğü prosedürler uyarınca onaylanmış kalite yönetimi sistemi oluşturulur ve uygulanır. Santralin güvenli ve güvenilir işletimi ile ilgili bilgilerin ve talimatların iletimi için bir iletişim sistemi oluşturulur. Bu sistem, gerekli bilgi ve talimatlar ile talimatların alındığının ve anlaşıldığının güvenilir ve ulaşılabilir bir şekilde kaydedilmesini de içerir.

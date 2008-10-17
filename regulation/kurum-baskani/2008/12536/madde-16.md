@@ -1,0 +1,3 @@
+İşletme ve işlevsellik test prosedürlerinin doğrulanması
+MADDE 16 – (1) Santralin normal işletimi, sistemlerin çalıştırılması ve işletme aşamasında gerçekleştirilecek işlevsellik testleri için takip edilecek prosedürler işletmeye alma aşamasında doğrulanır.
+(2) İşletme sırasında takip edilecek prosedürler, tasarımcıların ve imalatçıların sağladığı bilgilere dayanılarak, işletmeye almadan önce ve işletmeye alma sırasında hazırlanır. Hazırlanan prosedürler doğrulanmak ve gerekli görülen değişiklikler yapılmak üzere işletmeye alma sırasında test edilir. Prosedürlerin testi gerektiğinde santral simülatöründe yapılabilir. Hazırlanma, eğitim ve sistemleri tanıma olanağı sunması açısından, yapılacak testlere gelecekte santrali işletecek olan işletme personeli de katılır.

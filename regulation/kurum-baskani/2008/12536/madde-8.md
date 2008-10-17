@@ -1,0 +1,2 @@
+Nihai ısı kuyusu
+MADDE 8 – (1) Santral sahasında reaktörün durdurulmasından sonra santralde üretilmeye devam eden ısının durdurmadan hemen sonra ve uzun dönemde çekilebilmesi için güvenilir bir ısı kuyusu bulunur. Santral sahasının, nihai ısı kuyusunun kullanılabilirliğini tehlikeye sokabilecek deprem, su baskını ve fırtına gibi olaylara karşı gereken önlemlerin alınabilmesine olanak sağlayacak özelliklere sahip olduğu belgelerle gösterilir.
