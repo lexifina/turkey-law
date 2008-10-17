@@ -1,0 +1,355 @@
+17 Ekim 2008 CUMA
+Resmî Gazete
+Sayı : 27027
+YÖNETMELİK
+Türkiye Atom Enerjisi Kurumundan:
+NÜKLEER GÜÇ
+SANTRALLERİNİN GÜVENLİĞİ İÇİN
+TASARIM
+İLKELERİ YÖNETMELİĞİ
+BİRİNCİ
+BÖLÜM
+Amaç,
+Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı, Kurum tarafından
+tanımlanan nükleer güvenlik hedeflerine nükleer güç santrallerinde
+ulaşılabilmesi için santral tasarımında uyulması gereken güvenlik ilkelerini
+düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, nükleer güç santrallerinin
+tasarımına ilişkin güvenlik ilkelerini kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 9/7/1982
+tarihli ve 2690 sayılı Türkiye Atom Enerjisi Kurumu Kanununun 4 üncü
+maddesinin birinci fıkrasının (e) bendine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Dekontaminasyon: Kişi, yer veya maddelerdeki kontaminasyonun fiziksel, kimyasal veya biyolojik
+işlemlerle tamamen ya da kısmen giderilmesini, arındırmayı,
+b)
+Farklılık: Belli bir işlevi yerine getirmek üzere, ortak nedenli arıza
+olasılığını azaltmak amacıyla farklı özellikleri kullanan iki ya da daha
+fazla sayıda yedekli sistem veya bileşenlerin varlığını,
+c)
+Fiziksel ayrılık: Ortak nedenli arıza olasılığını azaltmak amacıyla, aynı işlevi
+gören sistemlerin konum, yön gibi mekansal yöntemlerle,
+uygun bariyerlerle veya bunların kombinasyonu bir sistemle birbirlerinden
+ayrı olmasını,
+ç)
+Güvenli-arıza: Tesiste kullanılan sistem veya bileşenlerin arızalanmaları
+durumunda tesis güvenliğinin olumsuz etkilenmeme durumunu,
+d)
+Güvenlik açısından önemli yapı, sistem ve bileşenler: Bir güvenlik grubunun
+elemanı olan ve/veya arızalanması saha personelinin veya toplum bireylerinin
+radyasyona maruz kalmalarına yol açabilecek olan yapı, sistem ve bileşenleri,
+e)
+Güvenlik grubu: Beklenen işletme olayları ve tasarıma esas kazalarda tasarım
+esaslarında belirlenen limitlerin aşılmamasını temin etmek amacıyla, belirli
+bir öngörülen başlatıcı olay için ihtiyaç duyulan bütün müdahaleleri yerine
+getirmekle görevli yapı, sistem ve bileşen topluluğunu,
+f)
+Güvenlikle ilgili yapı, sistem ve bileşenler: Güvenlik sisteminin bir parçası
+olmayan güvenlik açısından önemli yapı, sistem ve bileşenleri,
+g)
+Güvenlik sınırları: Santralde fiziksel bariyerlerin bütünlüğünün tasarımda
+öngörüldüğü şekilde korunduğunu garanti altına alan ve ölçülebilir sistem
+parametrelerine ilişkin olan sınır değerleri,
+ğ)
+Güvenlik sistemi sınır ayarları: Bir güvenlik payı ile güvenlik sınırlarının
+altında kalmak koşuluyla belirlenen trip değerleri,
+h)
+Güvenlik sistemleri: Tesisde güvenlik
+fonksiyonlarının yerine getirilmesini veya beklenen işletme olayları ve
+tasarıma esas kazaların sonuçlarının sınırlandırılmasını temin etmek için
+sağlanan sistemleri,
+ı)
+İşletme için sınır koşulları: Sistem ve bileşenlere ait kısıtlamalar ile
+işletme parametreleri için çoğunlukla idari gerekçelerle belirlenen ve
+güvenlik sistemi sınır ayarları içinde kalan aralıklardan oluşan sınırlayıcı
+koşulları,
+i)
+Kurum: Türkiye Atom Enerjisi Kurumunu,
+j)
+Ortak nedenli arıza: Birden fazla yapı, sistem veya bileşenin tek bir olay
+veya nedenle arızalanmasını,
+k)
+Santral: Nükleer güç santralini,
+l)
+Tek-arıza: Tek bir arıza ve/veya bu arızaya bağlı olarak oluşan diğer tüm
+arızalar sonucu bileşenlerden birinin güvenlik fonksiyonlarını yerine
+getirememesini,
+ifade eder.
+İKİNCİ
+BÖLÜM
+Nükleer Güç
+Santralleri için Genel Tasarım Özellikleri
+Proses kontrol
+MADDE 5 – (1) Santralin proses
+kontrol sistemleri, sistem değişkenlerini normal ve beklenen işletme olayları
+sırasında normal işletme aralıkları içinde tutabilecek şekilde tasarımlanır.
+(2)
+Önemli sistem değişkenleri için güvenlik sınırları, güvenlik sistemi sınır
+ayarları ve işletme için sınır koşulları belirlenir. Güvenlik sistemi sınır
+ayarları bir güvenlik payı içerecek şekilde güvenlik sınırlarının altında ve
+işletme için sınır koşulların üzerinde, değişkenlerin güvenlik sınırlarına
+ulaşmasını engelleyecek şekilde seçilir.
+Güvenlik sistemleri
+MADDE 6 – (1) Santralde, sistem değişkenleri belirlenen
+sınırları aştığı zaman herhangi bir müdahale gerektirmeden devreye girerek
+reaktörü durduracak ve üç güvenlik işlevi olan reaktör gücünün kontrol
+altında tutulmasını, korun
+soğutulmasını ve yakıttan salınabilecek radyoaktif madde
+miktarının uygun fiziksel bariyerler yoluyla en düşük seviyede tutulmasını
+sağlayacak güvenlik sistemleri bulunur.
+(2)
+Santral ve güvenlik sistemleri, tasarıma esas kazalardan hiçbiri toplam risk
+içinde baskın olmayacak şekilde tasarımlanır.
+(3)
+Herhangi bir bileşenin arızalanması güvenlik sistemlerinin işlevlerini yerine
+getirmesini engellememelidir. Hem güvenlik hem de proses
+işlevi olan sistemlerde güvenlik işlevinin proses kontrol taleplerinden
+etkilenmemesi sağlanır. Güvenlik sistemleri santralin ömrü boyunca test
+edilebilecek şekilde tasarımlanır.
+Güvenilirlik hedefleri
+MADDE 7 – (1) Kaza senaryolarındaki rolleri dikkate alınarak,
+güvenlik sistemleri ve güvenlik işlevleri için güvenilirlik hedefleri
+belirlenir ve tasarım gerekleri arasında yer alır. Güvenilirlik hedeflerinin
+tutturulduğu güvenilirlik analizleriyle gösterilir.
+(2)
+Güvenlik sistem ve işlevleri işletme sırasında, mümkünse gerçekçi yük ve
+performans koşullarında, test edilebilme özelliğine sahip olacak şekilde
+tasarımlanır. Güvenlik sistemlerinde güvenilirlik hedefleri çok yüksek
+tutulur ve bu hedeflere ulaşmada tasarımda güvenli-arıza, tek-arıza,
+farklılık ve fiziksel ayrılık prensiplerinin uygulanması ve güvenlik
+sistemleri ile normal santral sistemleri arasında tam bağımsızlığın
+sağlanması gibi yöntemler kullanılır.
+Ortak nedenli arızalar
+MADDE 8 – (1) Tasarım sırasında, ortak bir nedenin birden
+fazla yapı, sistem veya bileşeni olumsuz bir şekilde etkileyerek bir güvenlik
+işlevinin kaybedilmesine yol açmaması için önlemler alınır. Ortak neden
+oluşturabilecek yangın ve ortak elektrik güç kaynaklarının kaybı gibi iç
+olaylar ile deprem, sel ve uçak düşmesi gibi dış olayların yanısıra, imalat ve inşa aşamalarında yapılabilecek
+hatalar da dikkate alınır.
+Ekipman vasıflandırması
+MADDE 9 – (1) Güvenlik sistem ve bileşenleri, çalışırken maruz
+kalacakları sıcaklık, basınç, radyasyon, titreşim ve nem gibi çevresel
+koşullara uygun olarak ve dış olaylar ile yaşlanmanın etkileri de dikkate
+alınarak seçilir ve tasarımlanır.
+Güvenlik ekipmanlarının
+denetlenebilirliği
+MADDE 10 – (1) Güvenlikle ilgili yapı, sistem ve bileşenler,
+yeterli bir güvenlik payı ile işlevlerini yerine getirebildiklerinin
+doğrulanması amacıyla, işletme ömürleri boyunca denetlenebilecek şekilde
+tasarımlanır.
+Radyasyondan korunma
+MADDE 11 – (1) Santral tasarımında radyoaktif atık salımlarını Kurum tarafından belirlenen sınırların
+altında tutmak ve işletme personelinin radyasyondan ve radyoaktif bulaşmadan
+korunması için gereken önlemler alınır.
+(2)
+Radyoaktif atık sistemlerinin tasarımı sırasında izin verilen limitlerin
+uygulanmasında tutucu bir yaklaşım izlenir. Radyoaktif madde içeren bütün
+bileşenlerin yeterli bir şekilde zırhlanması ve radyoaktif maddelerin uygun
+bir şekilde muhafazası sağlanır.
+(3)
+Santral yerleşim düzeninin tasarımı, radyasyondan korunma ilkeleri
+çerçevesinde, bileşen ve sistemlerin uygun şekilde konumlandırılması, erişim
+kontrolü, zırhlama koşulları, radyoaktif maddelerin
+muhafazası ve erişilebilirliği, çalışma ortamının izlenmesi ve kontrol
+edilmesi ihtiyacı ve dekontaminasyon dikkate
+alınarak yapılır. Alan ve personelin radyasyon açısından izlenmesi ve
+personel dekontaminasyonu için gereken imkanlar
+tasarıma dahil edilir.
+(4)
+İşletmeden çıkarma aşamasında ihtiyaç duyulacak radyasyondan korunma
+uygulamaları tasarımda dikkate alınır.
+ÜÇÜNCÜ
+BÖLÜM
+Santrallerin
+Özel Tasarım Özellikleri
+Reaktivite
+kontrolu
+MADDE 12 – (1) Reaktör, tutucu bir güvenlik payı ile reaktivite kaynaklı kazalara karşı korunacak şekilde
+tasarımlanır. Reaktörün bütün işletme koşullarında güvenilir bir reaktivite kontrolu sağlayacak,
+reaktivite artışını dengeleyecek ve gerektiğinde
+güç üretimini azaltabilecek veya reaktörü zamanında durdurabilecek nötron
+yutucu sisteme veya reaktiviteyi diğer yollarla
+düşüren sistemlere tasarımda yer verilir.
+Reaktör kor bütünlüğü
+MADDE 13 – (1) Reaktör koru, işletme koşulları ve tasarıma esas
+kazalarda kor bütünlüğü korunacak şekilde tasarımlanır.
+(2)
+Kor, işletme koşullarından doğan ısıl, mekanik, kimyasal etkiler ile
+radyasyon etkilerine ve işletme parametrelerinin uygun bir aralıkta
+değişiminden doğabilecek etkilere dayanacak şekilde tasarımlanır. Reaktör
+korunun olası depremlere ve maruz kalabileceği diğer dinamik yüklere karşı
+mekanik dayanıklılığa sahip olduğu uygun deneylerle desteklenen analizlerle
+doğrulanır. Tasarıma esas kazalar sırasında korda oluşabilecek geometrik
+bozulmaların reaktivite kontrol sisteminin ve
+güvenlik sistemlerinin durdurma etkinliğini zayıflatmaması veya yakıtın
+soğutulmasını engellememesi için tasarım önlemleri alınır.
+(3)
+Kor bütünlüğünün sağlanması için alınacak tedbirlerin diğer güvenlik
+sorunlarına yol açması önlenir.
+Otomatik durdurma
+MADDE 14 – (1) Santral tasarımı, reaktörü kritikaltı
+yapacak ve bu durumda tutacak otomatik durdurma sistemleri içerir.
+(2)
+Otomatik durdurma sistemleri, reaktörün isteyerek veya kazara kritik
+olabileceği her zaman kullanıma hazır ve reaktörü güvenli şekilde kritikaltı yapabilecek negatif reaktivite
+ile negatif reaktivite ithal etme hızına sahip
+olacak şekilde tasarımlanır.
+(3)
+Otomatik durdurma sistemleri, diğer güvenlik sistemlerinden ve proses sistemlerinden işlevsel ve fiziksel olarak mümkün
+olduğunca bağımsız olmalıdır. Ortak kullanılacak algılayıcı veya aygıtlar
+olması durumunda sistemin güvenilirliğinin belirlenen limitlerin altına
+düşmediği uygun analizlerle gösterilir.
+(4)
+Otomatik durdurma sistemleri ve bütün önemli ekipmanlarının
+durumları kontrol odasından izlenebilir ve test edilebilir şekilde
+tasarımlanır.
+Normal durum ısı çekme
+MADDE 15 – (1) Normal işletme sırasında ısının reaktör korundan
+çekilmesi amacıyla yüksek güvenilirliğe sahip ısı taşıma sistemleri
+tasarımlanır.
+Acil durum ısı çekme
+MADDE 16 – (1) Normal ısı çekme işlevlerinin tam olarak yerine
+getirilememesi veya birinci devre soğutma sisteminin bütünlüğünün yitirilmesi
+durumlarında yakıtın yeniden soğutulmasını sağlayacak ve sürdürecek
+alternatif yöntem veya sistemler sağlanır.
+Yolverme,
+düşük güçte veya durdurulmuş durumda işletme
+MADDE 17 – (1) Yolverme ile düşük
+güçte veya durdurulmuş durumda işletme sırasında santral koşullarının farklı
+olacağı dikkate alınarak belirlenen limitlerin aşılmasına yol açabilecek
+koşulların uygun şekilde saptanması ve bu koşullara karşı gerekli korumanın
+sağlanabilmesi için enstrümantasyon da dahil olmak
+üzere ekipman ve sistemlerin yeterli yedekliliğe,
+güvenilirliğe ve kapasiteye sahip olması sağlanır.
+Reaktör soğutucu sistem bütünlüğü
+MADDE 18 – (1) Birinci devre soğutma sistemi, bütünlüğü
+santralin işletme ömrü boyunca korunacak şekilde tasarımlanır. Öncelikle
+basınç kabı olmak üzere ilgili yapı, sistem ve bileşenlerin beklenen en aşırı
+yük koşullarında maruz kalabilecekleri gerilmelere karşı dayanabileceği
+analizlerle gösterilir.
+(2)
+Reaktörün işletme ömrü boyunca birincil soğutucu sistem bütünlüğünün
+korunduğunu kontrol edebilmek amacıyla, erişilebilirlik ve kolaylık gibi
+servis içi denetim ve bakım özellikleri tasarımda dikkate alınır.
+Radyoaktif maddelerin
+hapsedilmesi
+MADDE 19 – (1) Santral, tüm kaza koşullarında, bütünlüğünü
+kaybetmiş yakıttan sızacak radyoaktif maddelerin çok büyük bir kısmını
+hapsedebilecek şekilde tasarımlanır.
+(2)
+Başka yöntemlerle bu işlevin yerine getirildiği gösterilmediği sürece tasarım
+bir koruma kabı sistemi içerir. Koruma kabı sistemi tasarıma esas kaza
+koşullarında oluşabilecek iç basınç, sıcaklık ve dinamik etkilere dayanacak
+şekilde tasarımlanır. Koruma kabı sızdırmazlığının önemli olduğu kaza
+koşulları için koruma kabından geçen tüm boru sistemleri otomatik izolasyon sistemleri içerir. Kaza sonrası koruma kabı
+içinde oluşabilecek basınç farklarının iç yapılara
+ve kaza sonuçlarını hafifletecek sistemlere zarar vermemesi sağlanır.
+(3)
+Koruma kabının erken kaybına yol açabilecek türdeki ciddi kazaların mümkün
+olduğunca önlenmesini sağlayacak tasarım tedbirleri alınır. Koruma kabının
+erken kaybına yol açabilecek hasarlı kor kazası olaylarının dikkate alınmayı
+gerektirmeyecek kadar düşük olasılıkta olduğu gösterilir.
+Güvenliğin izlenmesi
+MADDE 20 – (1) Kontrol odasında yer alacak parametrelerin
+seçimi ve göstergelerin yerleşimi, güvenlik açısından önemli santral
+parametreleri açık ve net bir şekilde izlenecek, güvenlik sistemlerinin
+otomatik olarak devreye girip girmediği veya derinliğine savunmanın zarar
+görüp görmediğinin tespit ve teşhis edilmesi sağlanacak şekilde yapılır.
+İzlenecek bilgiler arasında olağan dışı durumların tespit ve teşhis
+edilmesini sağlayan ve kontrol ve güvenlik sistemlerinin müdahalelerinin
+etkilerini gösteren parametreler de bulunur.
+Kontrolun
+sürdürülmesi
+MADDE 21 – (1) Kontrol odası, normal işletme koşulları,
+beklenen olaylar ve tasarımda dikkate alınan kaza koşulları altında görev
+yapılabilecek şekilde tasarımlanır. Kontrol odasının görev yapılamaz durumda
+olduğu veya hasar gördüğü durumlarda nihai soğutmayı devam ettirmek, reaktörü
+durdurmak ve radyoaktif maddeyi içerde tutmak için gereken izleme ve kontrol
+kabiliyetini bulunduran ve kontrol odasından bağımsız ve uzakta olan bir veya
+birden fazla kontrol noktası tasarımlanır. Birden fazla kontrol noktası
+olması durumunda bu kontrol noktaları arasında güvenilir ve etkin bir iletişim
+sistemi kurulur.
+(2)
+Kontrol odası ortamı operatörlerin verimliliğini azaltacak veya sağlıklarını
+etkileyecek anormal koşullara karşı korunur. Kontrol odasında, ortam
+nitelikleri kaybedildiği zaman personelin uyarılmasını sağlayacak bir sistem
+bulunur.
+Santral kararması
+MADDE 22 – (1) Santral, saha içi ve dışı alternatif akım
+elektrik beslemesi kaybı durumunda belirli bir süre için yakıt hasarı oluşmayacak
+şekilde tasarımlanır. Santral kararması durumunda, reaktör koru, ilgili
+soğutucu, kontrol ve güvenlik sistemleri ile sahadaki doğru akım kaynakları
+ve diğer destek sistemleri, bu süre içerisinde korun soğutulmasını ve koruma
+kabının bütünlüğünün korunmasını sağlayacak yeterli kapasite ve kabiliyete
+sahip olmalıdır. Bu süre, saha içi alternatif akım kaynaklarının yedekliliği
+ve güvenilirliği, saha dışı alternatif akım kaynağının kaybedilme sıklığı ve
+saha dışı alternatif akım kaynağının yeniden sağlanması için gereken zaman
+gibi unsurlar dikkate alınarak belirlenir.
+Kazaların tasarım esasları içinde
+tutulması
+MADDE 23 – (1) Kazaları tasarım esasları içinde kalacak şekilde
+kontrol edebilmek için, santral personelinin kaza seyrini takip edebilmesini
+ve gerekli müdahalelerde bulunabilmesini sağlayacak tüm olanaklar sağlanır.
+(2)
+Normal işletme durumundan sapmalar olduğunda, normal koşulların otomatik
+olarak yeniden tesis edilmesini sağlamaya çalışan reaktivite
+geri-besleme gibi özellikler ve sistemler, durdurma, sürekli soğutma sağlama
+ve radyoaktif maddelerin salımına karşı korunma
+gibi önlemlerle desteklenir. Tasarım, daha fazla korunma sağlamak üzere
+otomatik olarak devreye girecek güvenlik sistemlerini de içerir. Herhangi bir
+sapma başladığında, işletici personelin sistemleri değerlendirebilmesi,
+olasılıkları gözden geçirebilmesi ve yapılması gerekenlere karar verebilmesi
+için gereken süreyi sağlamak üzere olaya otomatik olarak müdahale edilmesi
+sağlanır. Tasarım, bu koşullarda olayın teşhis edilmesini sağlayacak yardımcı
+unsurlara ve bulguya dayalı acil durum prosedürlerine
+de olanak sağlar.
+Saha içi yakıt depolama
+MADDE 24 – (1) Taze ve kullanılmış yakıtın, çalışanlar
+radyasyondan korunacak ve radyoaktif madde salımı önlenecek şekilde
+taşınması, işlenmesi ve saha içerisinde depolanmasını sağlayacak tüm yapı,
+sistem ve bileşenler tasarımda yer alır.
+(2)
+Saha içi yakıt depolama birimlerinin taze ve kullanılmış yakıtı öngörülen
+bütün depolama koşullarında güvenli ve kritikaltı
+bir dizilişte tutması sağlanır. Birimlerin ve yakıt tutucu çerçevelerin
+tasarımında dış yükler ve kuvvetler hesaba katılır. Kullanılmış yakıtın
+önemli miktarda fisyon ürünü içerdiği dikkate
+alınarak, radyasyona karşı zırhlama ve yakıt
+demetlerinin nakliye kaskına yüklenmesi için güvenli yöntemler kullanılır.
+Kullanılmış yakıtın zarf bütünlüğünü korumak amacıyla, artık ısının çekilmesi
+için yedekli ve güvenilir sistemler sağlanır. Taze ve kullanılmış yakıtın
+denetimi, hasarlı yakıtın test edilmesi ve depolanması ve gerektiğinde
+yakıtın alınabilmesi için olanaklar sağlanır.
+Santralin fiziksel korunması
+MADDE 25 – (1) Santralin fiziksel korunmasını tehdit edebilecek
+olası herhangi bir tehlike durumu için fiziksel korunma planı tasarıma esas
+tehditler göz önüne alınarak tasarım sırasında oluşturulur.
+(2)
+Santralin fiziksel korunması, emniyet donanım ve aygıtları, güvenlik görevlileri,
+giriş-çıkış kontrolu, uygun yerleşim plan ve
+tasarımı, fiziksel bariyerler gibi önlemler birlikte kullanılarak sağlanır.
+Tasarımda, santrale izinsiz girişleri, nükleer maddelerin yetkisiz kullanım
+veya taşınmasını, santrale yönelik sabotaj ve diğer yetkisiz eylemler
+nedeniyle radyoaktif maddelerin kontrolsuz olarak salımını ve santral ile birey, toplum ve çevreye zarar
+gelmesini engellemek için yeterli önlemler alınır.
+(3)
+Fiziksel korunma planının nükleer güvenliğe ilişkin diğer programlarla uyumuna
+dikkat edilerek, fiziksel korunma önlemlerinin nükleer güvenliği zaafiyete uğratması engellenir.
+DÖRDÜNCÜ
+BÖLÜM
+Çeşitli ve
+Son Hükümler
+Yürürlükten kaldırılan yönetmelik
+MADDE 26 – (1) 3/9/1975 tarihli ve
+15345 sayılı Resmî Gazete’de yayımlanan Reaktörlerin Güvenilir Bir Şekilde
+Projelendirilmesi ve İnşaatı İçin Genel Proje ve Güvenlik Kriterleri Teknik
+Yönetmeliği yürürlükten kaldırılmıştır.
+Yürürlük
+MADDE 27 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 28 – (1) Bu Yönetmelik hükümlerini Kurum Başkanı yürütür.
