@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1808/1",
+  "decision_date": "2008-10-17",
+  "title": "30/12/2007 tarihli ve 26742 sayılı Resmî Gazete’de yayımlanan 27/12/2008 tarih ve 1438 sayılı serbest tüketici olma sınırına ilişkin Kurul Kararının 2 nci maddesine birinci fıkradan sonra gelmek üzere fıkranın eklenmesine ilişkin DÜZELTME",
+  "resmi_gazete_date": "2008-11-01",
+  "resmi_gazete_number": "27041",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Av8Rd9G0fgQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Av8Rd9G0fgQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IJ0OiqVSZeI="
+  ],
+  "source_sha256": "bcb3fadb53e321cc2c510a1cf3ff865a1e1a434f36580ebf4f4a431c8ff15266",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-10-17",
+  "law_text_complete": false
+}
