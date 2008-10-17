@@ -1,0 +1,2 @@
+Ortak nedenli arızalar
+MADDE 8 – (1) Tasarım sırasında, ortak bir nedenin birden fazla yapı, sistem veya bileşeni olumsuz bir şekilde etkileyerek bir güvenlik işlevinin kaybedilmesine yol açmaması için önlemler alınır. Ortak neden oluşturabilecek yangın ve ortak elektrik güç kaynaklarının kaybı gibi iç olaylar ile deprem, sel ve uçak düşmesi gibi dış olayların yanısıra, imalat ve inşa aşamalarında yapılabilecek hatalar da dikkate alınır.

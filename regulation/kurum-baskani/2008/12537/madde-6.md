@@ -1,0 +1,4 @@
+Güvenlik sistemleri
+MADDE 6 – (1) Santralde, sistem değişkenleri belirlenen sınırları aştığı zaman herhangi bir müdahale gerektirmeden devreye girerek reaktörü durduracak ve üç güvenlik işlevi olan reaktör gücünün kontrol altında tutulmasını, korun soğutulmasını ve yakıttan salınabilecek radyoaktif madde miktarının uygun fiziksel bariyerler yoluyla en düşük seviyede tutulmasını sağlayacak güvenlik sistemleri bulunur.
+(2) Santral ve güvenlik sistemleri, tasarıma esas kazalardan hiçbiri toplam risk içinde baskın olmayacak şekilde tasarımlanır.
+(3) Herhangi bir bileşenin arızalanması güvenlik sistemlerinin işlevlerini yerine getirmesini engellememelidir. Hem güvenlik hem de proses işlevi olan sistemlerde güvenlik işlevinin proses kontrol taleplerinden etkilenmemesi sağlanır. Güvenlik sistemleri santralin ömrü boyunca test edilebilecek şekilde tasarımlanır.

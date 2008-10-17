@@ -1,0 +1,2 @@
+Yolverme, düşük güçte veya durdurulmuş durumda işletme
+MADDE 17 – (1) Yolverme ile düşük güçte veya durdurulmuş durumda işletme sırasında santral koşullarının farklı olacağı dikkate alınarak belirlenen limitlerin aşılmasına yol açabilecek koşulların uygun şekilde saptanması ve bu koşullara karşı gerekli korumanın sağlanabilmesi için enstrümantasyon da dahil olmak üzere ekipman ve sistemlerin yeterli yedekliliğe, güvenilirliğe ve kapasiteye sahip olması sağlanır.

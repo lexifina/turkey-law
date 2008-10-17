@@ -1,0 +1,5 @@
+Radyasyondan korunma
+MADDE 11 – (1) Santral tasarımında radyoaktif atık salımlarını Kurum tarafından belirlenen sınırların altında tutmak ve işletme personelinin radyasyondan ve radyoaktif bulaşmadan korunması için gereken önlemler alınır.
+(2) Radyoaktif atık sistemlerinin tasarımı sırasında izin verilen limitlerin uygulanmasında tutucu bir yaklaşım izlenir. Radyoaktif madde içeren bütün bileşenlerin yeterli bir şekilde zırhlanması ve radyoaktif maddelerin uygun bir şekilde muhafazası sağlanır.
+(3) Santral yerleşim düzeninin tasarımı, radyasyondan korunma ilkeleri çerçevesinde, bileşen ve sistemlerin uygun şekilde konumlandırılması, erişim kontrolü, zırhlama koşulları, radyoaktif maddelerin muhafazası ve erişilebilirliği, çalışma ortamının izlenmesi ve kontrol edilmesi ihtiyacı ve dekontaminasyon dikkate alınarak yapılır. Alan ve personelin radyasyon açısından izlenmesi ve personel dekontaminasyonu için gereken imkanlar tasarıma dahil edilir.
+(4) İşletmeden çıkarma aşamasında ihtiyaç duyulacak radyasyondan korunma uygulamaları tasarımda dikkate alınır.

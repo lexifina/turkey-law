@@ -1,0 +1,4 @@
+Reaktör kor bütünlüğü
+MADDE 13 – (1) Reaktör koru, işletme koşulları ve tasarıma esas kazalarda kor bütünlüğü korunacak şekilde tasarımlanır.
+(2) Kor, işletme koşullarından doğan ısıl, mekanik, kimyasal etkiler ile radyasyon etkilerine ve işletme parametrelerinin uygun bir aralıkta değişiminden doğabilecek etkilere dayanacak şekilde tasarımlanır. Reaktör korunun olası depremlere ve maruz kalabileceği diğer dinamik yüklere karşı mekanik dayanıklılığa sahip olduğu uygun deneylerle desteklenen analizlerle doğrulanır. Tasarıma esas kazalar sırasında korda oluşabilecek geometrik bozulmaların reaktivite kontrol sisteminin ve güvenlik sistemlerinin durdurma etkinliğini zayıflatmaması veya yakıtın soğutulmasını engellememesi için tasarım önlemleri alınır.
+(3) Kor bütünlüğünün sağlanması için alınacak tedbirlerin diğer güvenlik sorunlarına yol açması önlenir.

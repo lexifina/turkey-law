@@ -1,0 +1,4 @@
+Santralin fiziksel korunması
+MADDE 25 – (1) Santralin fiziksel korunmasını tehdit edebilecek olası herhangi bir tehlike durumu için fiziksel korunma planı tasarıma esas tehditler göz önüne alınarak tasarım sırasında oluşturulur.
+(2) Santralin fiziksel korunması, emniyet donanım ve aygıtları, güvenlik görevlileri, giriş-çıkış kontrolu, uygun yerleşim plan ve tasarımı, fiziksel bariyerler gibi önlemler birlikte kullanılarak sağlanır. Tasarımda, santrale izinsiz girişleri, nükleer maddelerin yetkisiz kullanım veya taşınmasını, santrale yönelik sabotaj ve diğer yetkisiz eylemler nedeniyle radyoaktif maddelerin kontrolsuz olarak salımını ve santral ile birey, toplum ve çevreye zarar gelmesini engellemek için yeterli önlemler alınır.
+(3) Fiziksel korunma planının nükleer güvenliğe ilişkin diğer programlarla uyumuna dikkat edilerek, fiziksel korunma önlemlerinin nükleer güvenliği zaafiyete uğratması engellenir.

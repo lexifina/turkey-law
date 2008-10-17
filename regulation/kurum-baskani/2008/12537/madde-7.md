@@ -1,0 +1,3 @@
+Güvenilirlik hedefleri
+MADDE 7 – (1) Kaza senaryolarındaki rolleri dikkate alınarak, güvenlik sistemleri ve güvenlik işlevleri için güvenilirlik hedefleri belirlenir ve tasarım gerekleri arasında yer alır. Güvenilirlik hedeflerinin tutturulduğu güvenilirlik analizleriyle gösterilir.
+(2) Güvenlik sistem ve işlevleri işletme sırasında, mümkünse gerçekçi yük ve performans koşullarında, test edilebilme özelliğine sahip olacak şekilde tasarımlanır. Güvenlik sistemlerinde güvenilirlik hedefleri çok yüksek tutulur ve bu hedeflere ulaşmada tasarımda güvenli-arıza, tek-arıza, farklılık ve fiziksel ayrılık prensiplerinin uygulanması ve güvenlik sistemleri ile normal santral sistemleri arasında tam bağımsızlığın sağlanması gibi yöntemler kullanılır.

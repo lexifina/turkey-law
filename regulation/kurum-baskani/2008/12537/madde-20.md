@@ -1,0 +1,2 @@
+Güvenliğin izlenmesi
+MADDE 20 – (1) Kontrol odasında yer alacak parametrelerin seçimi ve göstergelerin yerleşimi, güvenlik açısından önemli santral parametreleri açık ve net bir şekilde izlenecek, güvenlik sistemlerinin otomatik olarak devreye girip girmediği veya derinliğine savunmanın zarar görüp görmediğinin tespit ve teşhis edilmesi sağlanacak şekilde yapılır. İzlenecek bilgiler arasında olağan dışı durumların tespit ve teşhis edilmesini sağlayan ve kontrol ve güvenlik sistemlerinin müdahalelerinin etkilerini gösteren parametreler de bulunur.
