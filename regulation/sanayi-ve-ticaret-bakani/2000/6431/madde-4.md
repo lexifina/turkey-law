@@ -1,0 +1,20 @@
+Tanımlar
+Madde 4 – Bu Yönetmelikte geçen ;
+a) Bakanlık: Sanayi ve Ticaret Bakanlığını,
+b) MARTOY: (Değişik: RG 14/7/2004 - 25522) Avrupa Topluluğunun 70/156/AT Motorlu Araçlar ve Römorkları Tip Onayı Yönetmeliğinin Resmi Gazete’de yayımlanan şekliyle son seviyesini,
+c) A.İ.T.M. Yönetmeliği : 3/2/1993 tarihli ve 21485 mükerrer sayılı Resmi Gazete’de yayımlanan Araçların İmal, Tadil ve Montajı Hakkında Yönetmeliği,
+d) R-51: Motorlu araçların gürültü emisyonu onayı ile ilgili 9/3/2000 tarihli ve 23988 sayılı Resmi Gazete’de yayımlanan Birleşmiş Milletler/Avrupa Ekonomik Komisyonunun (BM/AEK) Teknik Düzenlemesini (Regülasyon),
+e) İlgili Yönetmelik : M.A.R.T.O.Y. kapsamındaki araçların aksam, sistem ve ayrı teknik ünitelerinin imalatına ve belgelendirilmesine ilişkin yönetmelikleri,
+f) Araç : Raylar üzerinde çalışan araçlar, tarım ve orman traktörleri ve bütün hareketli makineler hariç olmak üzere, en az dört tekerleği bulunan, azami tasarım hızı 25 km/saat’i aşan, karayolunda kullanılması amaçlanan, tamamlanmış veya tamamlanmamış M.A.R.T.O.Y. kapsamındaki motorlu araçları,
+g) Ayrı Teknik Ünite: İlgili yönetmeliklerin hükümlerine tabi olan ve ilgili yönetmelikte açıkça belirtilmesi şartıyla sadece bir veya daha fazla tanımlanmış araç tipi ile ilgili olarak ayrı tip onayı alabilen, egzoz sistemi gibi aracın bir parçası olarak hazırlanan üniteyi,
+h) Tip Onayı Belgesi : Araçların dış gürültü emisyonlarının ve egzoz sistemlerinin Ek I ve Ek II’de belirtilen şartlara uygunluğunun belgelenmesi işlemini,
+i) Onay Kuruluşu : Teknik Hizmetler Kuruluşunu görevlendiren, Tip Onay Belgelerini veren, gerektiğinde geri alan, diğer onay kuruluşlarıyla muhatap olan ve bunlarla temasları yürüten, imalatçının üretim uygunluk düzenlemelerine uyup uymadığını belirlemekten sorumlu kuruluş olan Bakanlığı,
+j) (Değişik:R.G.-20/10/2008-27030) Teknik Hizmetler Kuruluşu (teknik servis): Onay Kuruluşu tarafından deneyleri veya kontrolleri yapmak üzere görevlendirilen kurum veya kuruluşu,
+k) İmalatçı : Tip onayı işlemlerinden ve imalatın uygunluğunun sağlanmasından, Onay Kuruluşuna ve Teknik Hizmetler Kuruluşuna karşı sorumlu olan, araçların ticari isim, marka veya lisansının sahibi kişi veya kuruluşu,
+l) AT : Avrupa Topluluğunu,
+m) Tanıtım Dosyası : Başvuru sahibi tarafından Teknik Hizmetler Kuruluşuna veya Onay Kuruluşuna tanıtım bildirimi gereğince verilen bilgi, çizim, fotoğraf ve bunun gibi belgeleri içeren dosyayı,
+n) Tanıtım Paketi : Tanıtım dosyasına Teknik Hizmetler Kuruluşunun veya Onay Kuruluşunun görevlerini yerine getirmeleri sürecinde eklemiş oldukları deney raporları ve diğer belgeleri,
+o) Tanıtım Paketi Fihristi : Tanıtım Paketi içinde bulunan belgelerin uygun bir şekilde numaralandırılarak veya bütün sayfaların tanımlanabilmesine imkan verecek şekilde işaretlenerek bir liste halinde yazılmasını,
+p) e işareti : Motorlu araçların ve egzoz sistemlerinin bu Yönetmelik hükümlerine göre uygun olarak üretildiğini gösteren işareti,
+r) E İşareti : Motorlu araçların, gürültü emisyonunun onayı ile ilgili R-51 sayılı BM/AEK Teknik Düzenlemesine göre uygun olarak üretildiğini gösteren işareti,
+ifade eder.

@@ -1,0 +1,3 @@
+Yetkili Kuruluşlar
+MADDE 7- (Değişik:R.G.-20/10/2008-27030)
+Teknik servis olarak, TS EN ISO/IEC 17025 ve/veya TS EN ISO/IEC 17020 veya eşdeğer ulusal veya uluslararası standartları sağlayan, deney ve analizleri yapabilecek laboratuarı ve/veya teknik imkanları bulunan kamu kurum ve kuruluşları ile özel kuruluşlar, yapılacak protokolle belirlenecek şartlar çerçevesinde Bakanlıkça görevlendirilebilir. Teknik servisler, Onay Kuruluşunun izni ile deneyleri kendi laboratuarları dışında aynı özelliklere sahip laboratuarlarda yaptırabilir. Görevlendirilen teknik servisler Bakanlığın internet adresinde yayımlanır.

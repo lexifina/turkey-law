@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.6431",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MOTORLU ARAÇLARIN DIŞ GÜRÜLTÜ EMİSYONLARI VE EGZOZ SİSTEMLERİ İLE İLGİLİ TİP ONAYI YÖNETMELİĞİ",
+  "number": "6431",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "issuer_slug": "sanayi-ve-ticaret-bakani",
+  "path": "regulation/sanayi-ve-ticaret-bakani/2000/6431",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6431&MevzuatTertip=5",
+  "source_sha256": "43348589be8fe788134278aaf47b2373c834170e4e51caf79edb87837e9465d6",
+  "source_bytes": 38760,
+  "published": "2000-11-30",
+  "gazette": "24246",
+  "in_force": "2008-10-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.-20/10/2008\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2008-10-20",
+      "R.G.-20/10/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-08-24",
+      "RG-24/08/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-07-14",
+      "RG 14/7/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1520,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.6431%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

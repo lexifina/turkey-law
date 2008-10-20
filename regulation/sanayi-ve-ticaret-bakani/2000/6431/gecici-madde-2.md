@@ -1,0 +1,1 @@
+Geçici Madde 2- 1/1/2001’den önce Ulusal Tip Onayı Belgesi almış M1 sınıfı motorlu araçlar için imalatçılar, 1/7/2001 tarihine kadar bu Yönetmelik kapsamında, 1999/101/AT ile değişik bu Yönetmeliğe göre AT Araç Tip Onayı Belgesi almak zorundadırlar. Aksi takdirde araçların Ulusal Tip Onayı Belgeleri iptal edilir.
