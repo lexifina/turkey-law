@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30388",
+  "decision_date": "2008-10-21",
+  "source_id": 1493,
+  "chamber": "2",
+  "file_number": "29767",
+  "account_year": "2000",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1493/",
+  "source_sha256": "6d9865ec76a50c4d646101abb899e806f5ff27964418f308386328e1f8ac2371",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
