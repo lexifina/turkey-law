@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.60/6000-2478-",
+  "source_id": 27183,
+  "date": "2008-10-21",
+  "title": "Veraset ve intikal vergisi uygulamasında vergi zıyaından söz edilebilmesi için; kanuni süre ve bu sürenin bitiminden sonraki 15 günlük birinci ek sürenin geçmesinden sonra mükelleflerin vergi dairesince yazı ile beyana çağrılmaları ve bu suretle kendileri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/27183",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "3c404977a3e94fd7c8610976316a0ea3105f38cf50f28d3017a47cc7145a6791",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
