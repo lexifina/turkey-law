@@ -1,7 +1,7 @@
 2709 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
-MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
+MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
 GÖSTERİR LİSTE
-Değiştiren Kanunun Numarası | 2709 sayılı Kanunun değişen maddeleri | Yürürlüğe Giriş Tarihi
+Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 2709 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 3361 | 67, 75, 175, Geçici Madde 4 ve İşlenemeyen Hükümler | Bu Kanun 6/9/1987 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 12/9/1987 tarihli ve 19572 sayılı Resmi Gazete’de yayımlanmıştır.
 3913 | 133 | 10/7/1993
 4121 | BAŞLANGIÇ hükmü, 33, 52, 53, 67, 68, 69, 84,85, 93, 127, 135,149, 171, İşlenemeyen Hüküm | 26/7/1995
@@ -16,7 +16,8 @@ Değiştiren Kanunun Numarası | 2709 sayılı Kanunun değişen maddeleri | Yü
 5428 | 130, 160, 161, 162, 163, İşlenemeyen Hüküm | 9/11/2005
 5551 | 76, İşlenemeyen Hüküm | 17/10/2006
 5659 | 67, İşlenemeyen Hüküm | 18/5/2007
-5678 (1) | 77, 79, 96, 101, 102, İşlenemeyen Hüküm | (Bu Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.)
+5678 (1) | 77, 79, 96, 101, 102, Geçici Madde 18, Geçici Madde 19, İşlenemeyen Hüküm | (Bu Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.)
 5735 | 10, 42, İşlenemeyen Hüküm | 23/2/2008
+Anayasa Mah.’nin 5/6/2008 tarihli ve E.: 2008/16, K.: 2008/116 sayılı Kararı. | 10, 42 | 22/10/2008
 ––––––––––––––
 (1) Halkoylamasına sunulan 5678 sayılı Kanunun 6 ncı maddesiyle Türkiye Cumhuriyeti Anayasasına eklenen geçici 18 ve 19 uncu maddeler, 16/10/2007 tarihli ve 5697 sayılı Kanunla halkoylamasına sunulan metinden çıkarılmıştır.
