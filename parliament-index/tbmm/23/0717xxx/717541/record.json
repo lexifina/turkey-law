@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 717541,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Serbest Bölgeler Kanunu ile Gümrük Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısına İlişkin (1/605) (S. Sayısı: 275)",
+  "title": "Serbest Bölgeler Kanunu ile Gümrük Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısına İlişkin (1/605) (S. Sayısı: 275)",
+  "first_sitting_date": "2008-10-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 30,
+      "sitting": 9,
+      "sitting_date": "2008-10-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c030/tbmm23030009.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c030/tbmm23030fih.pdf",
+      "pages": [
+        "105:113"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 10,
+      "sitting_date": "2008-10-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c030/tbmm23030010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c030/tbmm23030fih.pdf",
+      "pages": [
+        "180:233"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 16,
+      "sitting_date": "2008-11-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c030/tbmm23030016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c030/tbmm23030fih.pdf",
+      "pages": [
+        "980:1026",
+        "1027:1041",
+        "1043:1045"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d2c6b02d6da258b7740ea247a48ee20058bcadba0df3c4a39037f86d9f12bcea",
+  "in_force": "2008-10-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
