@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 9 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2008-10-23",
+      "23.10.2008",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 9 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27033",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2008-10-23",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Manisa Celal Bayar Üniversitesi",
+  "issuer_slug": "manisa-celal-bayar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/manisa-celal-bayar-universitesi/2008/12551",
+  "published": "2008-10-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=12551&MevzuatTertip=5",
+  "source_bytes": 27863,
+  "source_id": "8.5.12551",
+  "source_sha256": "9d25a63d297e5997ad8268f2a7f79c923492dd6a9bd312a8e544549827febfa4",
+  "text_status": "as-enacted",
+  "title": "CELAL BAYAR ÜNİVERSİTESİ ÖĞRETİM ELEMANLARININ TEKNOLOJİ GELİŞTİRME BÖLGELERİNDE GÖREVLENDİRİLME VE ŞİRKET KURABİLMELERİNE İLİŞKİN YÖNETMELİK",
+  "university_id": 184,
+  "word_count": 1231
+}
