@@ -1,0 +1,55 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2008/43",
+  "date": "2008-10-24",
+  "title": "SPK Haftalık Bülteni 2008/43",
+  "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_43.pdf",
+  "source_sha256": "150c6eefe97f916cb5659fcbbdbdc09647440caa53fae1596fc1ae6fdd463b11",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. YENİ FAALİYET İZNİ",
+    "E. ÖZEL DURUMLAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 02.01.2008 –24.10.2008 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_43.pdf"
+    },
+    {
+      "heading": "B. 20.10.2008 –24.10.2008 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_43.pdf"
+    },
+    {
+      "heading": "C. 20.10.2008 –24.10.2008 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_43.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_43.pdf"
+    },
+    {
+      "heading": "E. ÖZEL DURUMLAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_43.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
