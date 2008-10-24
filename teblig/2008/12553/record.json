@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12553",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ HİNDİBA EKSTRAKTI TEBLİĞİ (TEBLİĞ NO: 2008/56)",
+  "number": "12553",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2008/12553",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12553&MevzuatTertip=5",
+  "source_sha256": "42cd6d2c7a63e252e499e4581fb98e38d87b2c2dd0ad59819165678c941ff176",
+  "source_bytes": 26554,
+  "published": "2008-10-24",
+  "gazette": "27034",
+  "in_force": "2008-10-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.10.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 862,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

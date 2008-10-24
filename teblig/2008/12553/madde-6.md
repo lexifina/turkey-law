@@ -1,0 +1,2 @@
+Katkı maddeleri
+MADDE 6 – (1) Bu Tebliğ kapsamında yer alan ürünlerde kullanılan katkı maddeleri, 25/8/2002 tarihli ve 24857 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi-Gıdalarda Kullanılan Renklendiriciler Tebliği, 21/9/2006 tarihli ve 26296 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi-Gıda Maddelerinde Kullanılan Tatlandırıcılar Tebliği ve 22/5/2008 tarihli ve 26883 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi-Renklendiriciler ve Tatlandırıcılar Dışındaki Gıda Katkı Maddeleri Tebliği’nde yer alan hükümlere uygun olmalıdır.
