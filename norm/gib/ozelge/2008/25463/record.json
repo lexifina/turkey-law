@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.62/6221-358",
+  "source_id": 25463,
+  "date": "2008-10-24",
+  "title": "damga vergisi defteri tutulması ve bu defterin notere veya ticaret sicil memurluğuna tasdik ettirilmesi hakkında..",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/25463",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "e81582d8b9628c5dc1eefc9c085f84d76f4071c0844a484dc311b515bbb08ec7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
