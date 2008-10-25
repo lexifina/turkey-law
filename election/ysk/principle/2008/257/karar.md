@@ -1,0 +1,15 @@
+T.C.
+YÜKSEK SEÇİM KURULU
+Karar No : 257
+İtiraz No : - K A R A R -
+Hafik İlçe Seçim Kurulu Başkanlığınca Kurulumuz Başkanlığına gönderilen 15/09/2008 tarihli, C.05.0.SKB.4.58.05.140.99/119 sayılı yazıda; 09 Ekim 2005 tarihinde yapılan seçimde Hafik İlçesi Maden Köyü muhtarlığına seçilen M.K hakkında Hafik Kaymakamlığının 10/09/2008 tarihli ve B054VLK4585200/251/452 sayılı yazısı ile eki Milli Eğitim Şube Müdürlüğünün 08/09/2008 tarihli tutanağında, Maden Köyü Muhtarı M.K’nın okur-yazar olmadığının İlçe Milli Eğitim Müdürlüğünce oluşturulan komisyonca tespit edildiği belirtilerek, M.K’nın 09 Ekim 2005 tarihli tutanağının iptal edilip edilmeyeceğine dair bir karar verilmesi istenilmiş ve Kurulumuzun 20/09/2008 tarihli, 243 sayılı ara kararı ile istenilen bilgi ve belgeler gelmiş olmakla, konu incelenerek;
+GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ:
+2972 sayılı Kanunda yer alan seçilme yeterliğine ilişkin hükümlerin bir kısmı T.C. Anayasasının 76 ncı maddesindeki amir hükme dayandığından, seçilenin Türk olmadığı, yaşının yasada öngörülenden küçük olduğu, okur-yazar olmadığı ve seçilme yeterliğini kaybettiren bir mahkumiyeti bulunduğu ile ilgili itirazların, süresine bakılmaksızın ve seçim sonuçlarının kesinleşmesinden sonra mevcut tam kanunsuzluk halinin T.C. Anayasasının 79 uncu maddesinin verdiği görev sebebiyle Yüksek Seçim Kurulunca her zaman incelenebileceği Kurulumuz tarafından kabul edilmektedir.
+İstek, 09 Ekim 2005 tarihinde yapılan seçimde Sivas İli Hafik İlçesi Maden Köyü muhtarlığına seçilen M.K’nın okur – yazar olmadığından tutanağının iptaline ilişkindir. Bu yönüyle istemin yasal dayanağı 2972 sayılı Kanunun 31 inci maddesidir. Anılan maddenin seçilme yeterliği ile ilgili olarak öngördüğü koşullardan biri de okur-yazar olmaktır.
+Olayda, Sivas İli Hafik İlçesi Maden Köyü Muhtarı M.K’nın ara kararımız gereği ilçe seçim kurulu başkanı huzurunda alınan ifadesinden; okur-yazar olmadığını, sadece imzasını atabildiğini, okur – yazarlık belgesinin bulunmadığını beyan etmiş, ayrıca adı geçenin ara kararımızdan önce öğretmenlerden oluşturulan üç kişilik sınav komisyonunca da okur – yazar olmadığının tespit edildiği Hafik İlçe Seçim Kurulu Başkanlığınca gönderilen yazı ve eki belgelerden anlaşılmaktadır.
+Bu nedenle, Maden Köyü muhtarı M.K’nın 2972 sayılı Kanunun 31 inci maddesinin öngördüğü okur – yazar olma koşuluna sahip olmadığından ve seçildiği tarihte seçilme yeterliğini taşımadığı anlaşıldığından tutanağının iptaline karar verilmelidir.
+S O N U Ç : Açıklanan nedenlerle;
+1- 09/10/2005 tarihinde Sivas İli Hafik İlçesine bağlı Maden Köyü muhtarlığına seçilen M.K’nın seçildiği tarih itibariyle okur - yazar olmadığı anlaşıldığından tutanağının iptaline,
+2- Boşalan muhtarlık seçiminin Başkanlığımızın 05/01/2008 tarihli ve 2008/1 sayılı Genel Yazısı eki Yüksek Seçim Kurulunun 29/12/2007 tarihli ve 2007/920 sayılı kararı uyarınca 29 Mart 2009 tarihinde yapılacak olan Mahalli İdareler Genel Seçimleri ile birlikte yapılmasına,
+3- Karar örneğinin gereği için Hafik İlçe Seçim Kurulu Başkanlığına, bilgi için tutanağı iptal edilen M.K’ya gönderilmesine,
+25/10/2008 tarihinde oybirliği ile karar verildi.
