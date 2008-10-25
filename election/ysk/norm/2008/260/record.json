@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2008/260",
+  "list_number": "-",
+  "genelge_number": "2008/260 Sayılı Karar",
+  "decision_date": "2008-10-25",
+  "title": "Yüksek Seçim Kurulu Birimlerinin Kuruluş ve Görevleri ile Personelin Göreve Alınma, Yer Değiştirme, Yükselme, Görevden Uzaklaştırma, Sicil ve Disiplin İşleri Hakkında Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1699/2008-260.pdf",
+  "source_sha256": "b27edb7b5bb8eee2dda5db0364a2fcd132b99264f5b315942f80ef45416d7770",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 27,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2008-10-25",
+  "law_text_complete": false
+}
