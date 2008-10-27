@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-10-27",
+  "issue": "27037",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Arel Üniversitesi Ana Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/10/20081027-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/10/20081027.htm",
+  "index_sha256": "0d135acc303076b70f3bf620a37053e0ad742dbd140a5292dd3f73ef90e6e1b0",
+  "index_header": "27 Ekim 2008 ... 27037 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
