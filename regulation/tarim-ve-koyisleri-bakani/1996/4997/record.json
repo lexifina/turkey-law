@@ -1,0 +1,61 @@
+{
+  "source_id": "7.5.4997",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BALIKÇI BARINAKLARI YÖNETMELİĞİ",
+  "number": "4997",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "issuer_slug": "tarim-ve-koyisleri-bakani",
+  "path": "regulation/tarim-ve-koyisleri-bakani/1996/4997",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4997&MevzuatTertip=5",
+  "source_sha256": "14a2abc6739d60326db3519a76f0ace2fb431a95b00080be21c4ddda4df1d5d1",
+  "source_bytes": 91439,
+  "published": "1996-12-13",
+  "gazette": "22846",
+  "in_force": "2008-10-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/10/2008\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2008-10-28",
+      "RG-28/10/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-10-28",
+      "R.G-28/10/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2002-06-05",
+      "RG-5/6/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2002-06-05",
+      "RG 5/6/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1999-03-20",
+      "RG-20/3/1999",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3756,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.4997%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

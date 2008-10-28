@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Barınakların Özellikleri Vasıf ve Şartlar
+Vasıf ve Şartlar
+MADDE 5 – (Değişik:RG-28/10/2008-27038)
+Balıkçı barınaklarında aranan asgari vasıf ve teknik şartlar aşağıda belirtilmiştir.
+a) Balıkçı barınaklarının, deniz tesirlerine karşı korunmuş olması, yakın yerleşim merkezi ile karayolu bağlantısının olması ve barınağın barınma alanı büyüklüğüne bağlı olarak yeterli büyüklükte kara alanına sahip bulunması şarttır.
+b) Balıkçı barınaklarının sınıflandırılmalarına göre yukarıda belirtilen asgari vasıf ve şartlara ilave olarak, barınağa denizden emniyetli girişi sağlayacak fenerler, balıkçı gemilerinin düzenli ve emniyetli bir şekilde yanaşabileceği nitelikte rıhtım ve iskeleler, rıhtım ve iskelelerde gemileri bağlamaya elverişli mapa ve babalar, yeterli derecede aydınlatılmasını sağlayacak elektrik direkleri ve gerektiğinde gemilere su ve elektrik bağlantısı yapılabilecek tesisat ve ağ kurutma alanlarının bulunması zorunludur.
+c) Balıkçı barınaklarının sınıflandırılmalarına göre yukarıda (a) ve (b) bentlerinde belirtilen özelliklere ilave olarak, imkanlar dahilinde; barınak işletmecisinin zaruri ihtiyaçlarını giderebileceği alanları içeren işletme binası, tesisten faydalanan balıkçıların dinlenmeleri için kullanılacak balıkçı lokali, ürünün aktarımı süresince kullanılacak soğuk hava deposu ve buz üretim alanı, av kapasitesinin en az %10'unun satışını yapabilecek kapasiteye sahip balıkhane veya balık satış yeri, kasa yıkama yeri ve deposu, ağ tamir yeri ve deposu, balıkçı gemisi tamir yeri, balıkçı gemilerinin ihtiyacını karşılayacak akaryakıt pompası, ilk yardım imkânı ve yangın söndürme sistemi ile Bakanlık faaliyetlerinin yürütülmesi için kullanılacak balıkçılık idari binasının bulunması zorunludur.

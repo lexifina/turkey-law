@@ -1,0 +1,1 @@
+Geçici Madde 2 - Bu Yönetmeliğin yürürlük tarihinden önce kiraya verilen balıkçı barınaklarının kiralama süresi tamamlanıncaya kadar, kira işlemlerinde 14/03/1989 tarih ve 20252 sayılı Resmi Gazetede yayımlanan Yönetmelik hükümleri uygulanır.

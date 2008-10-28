@@ -1,0 +1,3 @@
+Denetim
+Madde 20 - Bakanlık balıkçı barınaklarını ve bunlara ait üst yapılarını denetler, işletilmesi ve idaresi ile ilgili hususları, her türlü belge ve kayıtları tetkik ve kontrol eder ve gerekli işlemleri yapar.
+(Ek fıkra:RG-28/10/2008-27038) Barınakların alt yapıları ile ilgili denetimler Ulaştırma Bakanlığı tarafından yapılır. Yapılan denetimlerde barınağın bu Yönetmeliğin 8 inci maddesinde belirtilen teknik kriterlere uygun işletilmediği ve/veya yapıların projesinde öngörülen yüklerin üzerinde işletme yüküne maruz kaldığı tespit edildiği takdirde durum, bu Yönetmeliğin 21 inci maddesi hükümleri çerçevesinde işlem yapılmak üzere Bakanlığa bildirilir.

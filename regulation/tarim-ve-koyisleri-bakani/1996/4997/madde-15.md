@@ -1,0 +1,8 @@
+Bakım ve Onarım
+Madde 15 - (Değişik: RG-5/6/2002-24776)
+(Değişik birinci fıkra:RG-28/10/2008-27038) Barınakta şiddetli dalga ve tabii afetler sonucu meydana gelebilecek büyük alt yapı onarım işleri Ulaştırma Bakanlığınca belirlenecek usul ve esaslara göre bütçe imkânları dâhilinde yapılır.
+(Değişik ikinci fıkra:RG-28/10/2008-27038) Kullanım sonucu ortaya çıkacak onarım çalışmaları ise Ulaştırma Bakanlığınca onaylanacak projelere uygun olarak aynı Bakanlığın denetiminde barınak işletmecisi tarafından yapılır veya yaptırılır. Barınağın usulüne uygun işletilmediğinden dolayı meydana gelen her türlü zarar ve ziyan barınak işletmecisi tarafından karşılanır.
+Barınakta ihtiyaç duyulan tarama çalışmaları Ulaştırma Bakanlığınca belirlenecek esas ve usullere göre bütçe imkanları dahilinde gerçekleştirilir.
+Ulaştırma Bakanlığınca yapılan tarama sonucu çıkarılan kum ticari amaçla kullanılamaz. Ancak, kumun karaya çıkarılabilmesi halinde, bu kum Maliye Bakanlığının yerel teşkilatınca değerlendirilir.
+(Değişik beşinci fıkra:RG-28/10/2008-27038) Ulaştırma Bakanlığınca tarama çalışmalarının yapılamaması halinde, bu Bakanlıkça belirlenen esaslarda yapılacak taramadan çıkacak kum ve diğer malzemelerin Maliye Bakanlığınca belirlenen bedeli esas alınarak, tarama işleri öncelikle barınak işletmecisine veya diğer gerçek ve tüzel kişilere Maliye Bakanlığı tarafından izin verilerek yaptırılabilir.
+(Değişik altıncı fıkra:RG-28/10/2008-27038) İlgili mevzuat çerçevesinde gerekli diğer izinlerin de alınmasını müteakip yaptırılacak taramalar Ulaştırma Bakanlığı tarafından onaylanacak projeye uygun olarak aynı Bakanlığın denetimi altında gerçekleştirilir.

@@ -1,0 +1,20 @@
+BEŞİNCİ KISIM
+Barınakların İşletilmesi
+İşletme Esasları
+Madde 9 – (Değişik birinci parağraf:RG-28/10/2008-27038) Barınak işletmecisi, o barınak için özel olarak hazırlanan kira şartnamesinde belirlenen maddelerden ve ayrıca barınağı karadan gelebilecek tehlikelere karşı sınırlarını tel, çit veya ihata duvarı ile belirlemek gibi güvenlik önlemleri almak, giriş-çıkışları kontrol altında tutmak ve temizlik, bakım-onarım hizmetleri ile barınaktan yararlananlar arasındaki koordinasyonu sağlamaktan sorumludur. Barınak işletmecisi bu amaçla;
+a) (Değişik:RG-28/10/2008-27038) Gemilerin uzunluk, genişlik, derinlik ve tipleri ile kullanım durumlarına göre bağlama planı yapar. Bu plana göre, yanaşma yerlerindeki bağlama numaralarını dikkate alarak, hangi geminin hangi numaraya bağlanacağını gösterir ve uygular. Avladıkları ürünleri karaya çıkartmak isteyen balıkçı gemilerinin yanaşacağı bir ürün boşaltma yeri ayırır. Bu yerin amaç dışı kullanımına izin vermez.
+b) Gemilerin barınağa giriş, bağlama, kalkış ve çıkışlarını düzenler. Barınaktan sürekli veya geçici olarak yararlanan gemi ve sahibi için gerekli kayıtları tutar.
+c) (Değişik:RG-28/10/2008-27038) Barınakta huzur, güven ve emniyeti bozan gemiler ve kişileri uyarır ve gerekiyorsa mülki idari amiri aracılığı ile barınağın dışına çıkarılmalarını sağlar, bu amaçla kanuni işlemlerin yerine getirilmesi için gerekli müdahalelerde bulunur.
+d) Bakanlıkça tasdik edilen barınma ücret tarifesine uygun olarak tahakkuk ettirilen bedelleri tahsil eder.
+e) Gemilerin barınma giriş ve çıkış kontrolü ile emniyetlerinin sağlanmasını temin eder.
+f) Karada ve denizde çevre kirliliğini önleyici tedbirleri alır ve aldırır. Barınağın tekne kapasitesini karşılayacak büyüklükte katı atık, atık yağ, sintine suları ve evsel sularını toplayacak hareketli konteynır bulundurulmasını, bu atıkların çevreye zarar vermeyecek şekilde bertaraf edilmesini veya bertaraf için ilgili yerlere taşınmasını sağlar. Balıkçı gemilerinin bakım ve onarımlarında, çevre ve su kirliliği yaratmayacak malzemelerin kullanımını sağlar.
+g) Barınakta meydana gelebilecek kazalar sonucunda denize dökülen katı ve sıvı atıkları toplamak ve denize yayılmasını önlemek için gerekli tedbirleri alır ve aldırır.
+h) (Değişik:RG-28/10/2008/27038) Barınağın müsait olması halinde, balıkçı gemilerinden başka Ulaştırma Bakanlı-ğınca belirlenen teknik işletme kriterleri dikkate alınmak kaydıyla kum motorları, nakliye gemileri, yatlar gibi gemilerin ücret karşılığı barınaktan geçici olarak yararlanmasına izin verir. Bu izin süresi balıkçı gemilerinin, barınaktan yararlanmalarını engelleyecek süre ve koşullarda olamaz.
+ı) (Değişik:RG-28/10/2008/27038) Barınak idare binasının ve üst yapı tesislerinin amaç dışı kullanımına izin vermez ve bu amaçla gerekli engelleyici tedbirleri alır.
+i) Barınak ve barınakta mevcut üst yapılarda çalışan işçilere çalışma karnesi ile işte giymeleri zorunlu olan özel kıyafetleri sağlar.
+j) Barınağın normal çalışma saatlerini, tesisten yararlanacak balıkçıların menfaatine uygun olarak belirler ve İl Müdürlüklerince onaylandıktan sonra uygular. Tatil günleri ve mesai saatleri dışındaki çalışmaların nöbetçi personel tarafından yürütülmesini temin eder.
+k) Yukarıda belirtilen hizmetlerin yerine getirilmesi için yeterli sayıda teknik ve idari personeli istihdam eder.
+l) (Değişik:RG-28/10/2008/27038) Su Ürünleri Kanunu, Yönetmeliği ve tebliğleri uyarınca getirilen yasak, tahdit ve mükellefiyetlere uyumu sağlama açısından gemisinde yasak av, araç, gereç ve su ürünleri bulunduranların barınaktan faydalanmasına izin vermez ve bu durumu il müdürlüğüne bildirir.
+m) Barınaktan karaya çıkarılan su ürünlerinin tür ve miktar üzerinden kayıtlarını tutar.
+n) (Değişik:RG-28/10/2008/27038) Barınakta, tahribata neden olabilecek vinç, kamyon, treyler gibi çeşitli ağır vasıtaların rıhtımların beton sahası üzerinde hareket ettirilmesine, yükleme-boşaltma yaptırılmasına ve rıhtım geri sahasında gemilerin bakım onarımının yapılmasına izin vermez.
+o) Barınakta yangın, ihbar, söndürme tesisat ve donanımını bulundurur.

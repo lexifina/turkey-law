@@ -1,0 +1,6 @@
+Barınaktan Yararlananların Yükümlülükleri
+Madde 10 - Barınaktan yararlanan gemilerin ve kişilerin yükümlülükleri aşağıda belirtilmiştir.
+a) Barınağa giren gemiler ve kişiler, barınakta bulunan hizmet ünitelerinin sahip ve görevlileri, bu Yönetmelik hükümlerine ve bu hükümleri uygulamakla görevli yetkililerin kararlarına aynen uymayı kabul etmek zorundadırlar.
+b) Kaptan ve gemi sahipleri, gemilerinde bulunan eşyaların kaybolmaması, çalınmaması veya hasara uğramaması konusunda gerekli tedbirleri almaktan sorumludur. Gerekli hallerde barınak işletmecisi tarafından özel tedbirler alınması istenebilir.
+c) Barınaktan yararlanan bütün balıkçı gemilerinde su ürünleri ruhsat teskerelerinin ve gemi ruhsat numarasının yazıldığı plaka veya işaretlemenin bulunması gerekir. Su ürünleri ruhsat tezkeresi ve plakası olmayan balıkçı gemilerinin barınaktan yararlanmasına ancak, diğer gemilere uygulanan 9 uncu maddenin (b) bendinde ve 11 inci maddede belirtilen şartlar çerçevesinde izin verilir.
+d) (Ek bent:RG-28/10/2008/27038) Barınaklardan yararlanan balıkçı gemi sahipleri, işletmeci tarafından talep edilmesi halinde, su ürünleri ruhsat teskeresi, tonilato belgesi ve nüfus cüzdanlarının birer fotokopilerini işletmeciye vermek zorundadırlar.
