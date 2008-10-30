@@ -1,0 +1,2 @@
+Karar
+MADDE 3 – (1) Belirli Tekstil Ürünleri İthalatında Gözetim ve Korunma Önlemlerini Değerlendirme Kurulu, 1/6/1995 tarihli ve 22300 mükerrer sayılı Resmî Gazete’de yayımlanan 95/6815 sayılı Belirli Tekstil Ürünleri İthalatında Gözetim ve Korunma Önlemleri Hakkında Karar (Karar) ve buna bağlı Yönetmelik çerçevesinde ÇHC menşeli belirli tekstil ve konfeksiyon ürünlerinin ithalatında miktar kısıtlaması (kota) uygulanmasına karar vermiştir.
