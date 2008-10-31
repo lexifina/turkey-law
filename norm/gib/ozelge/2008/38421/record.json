@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68./6802-7",
+  "source_id": 38421,
+  "date": "2008-10-31",
+  "title": "Ödemenin gümrük yükümlülüğünün başladığı tarihten önce yapıldığının yurt dışındaki ihracatçı firma ile ödemeyi yapan firmadan alınacak ispat kabiliyeti olan yazı ve belgelerle ilgili gümrük idaresine tevsik edilmesi durumunda, sözü edilen ithalat üzerinde",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38421",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "d0197057a46bd4b903a44a7eefbda44fe9efd8488361d26fc78758543b1153cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
