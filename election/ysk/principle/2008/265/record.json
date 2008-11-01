@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2008/265",
+  "list_number": "265",
+  "decision_date": "2008-11-01",
+  "title": "YSK ilke kararı 2008/265",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3160/265.htm",
+  "source_sha256": "3fda63aab4bd08fcb140c9a124c08523b666b8a4f07b3a4bbdeab57bfb385930",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2008-11-01",
+  "law_text_complete": false
+}
