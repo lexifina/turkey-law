@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12568",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK VERGİSİ ASKIYA ALINMASI VE AVRUPA BİRLİĞİ TARAFINDAN TARİFE KONTENJANI AÇILMASI PLANLANAN ÜRÜNLERE İLİŞKİN TEBLİĞ (İTHALAT: 2008/27)",
+  "number": "12568",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2008/12568",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12568&MevzuatTertip=5",
+  "source_sha256": "2683c862727af60ea048d64cc348ab292823334938947e11c4a91b9cd3a3a9ea",
+  "source_bytes": 106879,
+  "published": "2008-11-01",
+  "gazette": "27041",
+  "in_force": "2008-11-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.11.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1585,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
