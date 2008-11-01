@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-11-01",
+  "issue": "27041",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gümrük Vergisi Askıya Alınması ve Avrupa Birliği Tarafından Tarife Kontenjanı Açılması Planlanan Ürünlere İlişkin Tebliğ (İthalat: 2008/27)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081101-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081101.htm",
+  "index_sha256": "9d97bc4e01ceac96d51c087cef08fccebea2b35d1aece0b08e1943c6fce01812",
+  "index_header": "1 Kasım 2008 ... 27041 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
