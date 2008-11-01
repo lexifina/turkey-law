@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2008/263",
+  "list_number": "263",
+  "decision_date": "2008-11-01",
+  "title": "YSK ilke kararı 2008/263",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3164/263.htm",
+  "source_sha256": "4a8bfa2004344b852c19ea1c055834e7b4b2062f85a34816e6c7eef71db2d6d9",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2008-11-01",
+  "law_text_complete": false
+}
