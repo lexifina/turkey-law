@@ -1,0 +1,3 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Üniversitenin ya da diğer üniversitelerin öğretim elemanları ile Merkezle ilgili konularda faaliyet gösteren özel ya da istekleri halinde kamu kurum ve kuruluşlarında görev yapan uzman kişiler arasından, Rektörün teklifi ve Başkanın onayı ile üç yıllığına seçilir. Azerbaycan uyruklu uzmanlar; Azerbaycan Devletinin onayı alınarak Danışma Kuruluna üye seçilebilir. Danışma Kurulu azami onbeş üyeden oluşur. Süresi biten üye yeniden seçilebilir. Danışma Kuruluna Müdür başkanlık eder.
+(2) Danışma Kurulu; olağan olarak yılda bir kez ve gerektiğinde olağanüstü olarak Müdürün çağrısı üzerine toplanır.
