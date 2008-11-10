@@ -1,0 +1,3 @@
+Teknik uyumluluk
+MADDE 57 – (1) İşletmeciler, kayıp, kaçak veya çalıntı cihazlara, elektronik haberleşme hizmeti veremezler. Ancak, Kurumun MCKS’ında kayıtlı iken elektronik kimlik bilgisi kopyalanmış gerçek cihazlar sadece eşleştirme yapılan abone numaraları ile kullanılmak üzere kullanıma açılır.
+(2) İşletmeciler, yukarıdaki fıkrada açıklanan yasal olmayan cihazların haberleşme şebekelerine bağlanılmalarını önlemek üzere MCKT sistemlerini Kurumdaki MCKS ile birlikte uyumlu olarak çalışır hâle getirmek, bununla ilgili teknik alt yapı ve sisteminin güvenliği ve güvenilirliğini sağlamak ve aksamaksızın işletmekle yükümlüdürler.
