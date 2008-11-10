@@ -1,10 +1,18 @@
 Tanımlar
-MADDE 2 — Bu Kanunda geçen;
+Madde 2- Bu Kanunda geçen;
 Bakanlık: Ulaştırma Bakanlığını,
-Kurum: Telekomünikasyon Kurumunu,
+Kurum: (Değişik: 5/11/2008-5809/67 md.) Bilgi Teknolojileri ve İletişim Kurumunu,
 Elektronik haberleşme: İşaret, sembol, ses, görüntü ve elektrik işaretlerine dönüştürülebilen her türlü verinin kablo, telsiz, optik, elektrik, manyetik, elektromanyetik, elektrokimyasal, elektromekanik ve diğer iletim sistemleri vasıtasıyla iletilmesini, gönderilmesini ve alınmasını,
-Evrensel hizmet: Coğrafi konumlarından bağımsız olarak Türkiye Cumhuriyeti sınırları içinde herkes tarafından erişilebilir, önceden belirlenmiş kalitede ve herkesin karşılayabileceği makul bir bedel karşılığında asgari standartlarda sunulacak olan, temel internet erişimi de dahil elektronik haberleşme hizmetlerini,
-Evrensel hizmet yükümlüsü: Elektronik haberleşme sektöründe görev ve imtiyaz sözleşmeleri ile ruhsat ve genel izin uyarınca bu Kanun kapsamındaki hizmetleri sağlamakla yükümlü kılınan işletmeciyi,
+Evrensel hizmet: (Değişik: 5/11/2008-5809/67 md.) Türkiye Cumhuriyeti sınırları içinde coğrafi konumlarından bağımsız olarak herkes tarafından erişilebilir, önceden belirlenmiş kalitede ve herkesin karşılayabileceği makul bir bedel karşılığında asgari standartlarda sunulacak olan, internet erişimi de dahil elektronik haberleşme hizmetleri ile bu Kanun kapsamında belirlenecek olan diğer hizmetleri,
+Evrensel hizmet yükümlüsü: (Değişik: 5/11/2008-5809/67 md.) Elektronik haberleşme sektöründe, ilgili mevzuatına göre Kurumca yetkilendirilmiş ve bu Kanun kapsamındaki hizmetleri sağlamakla yükümlü kılınan işletmeciyi,
+––––––––––––––
+(1) Bu Kanunun adı “Evrensel Hizmetin Sağlanması ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun” iken, 5/11/2008 tarihli ve 5809 sayılı Kanunun 67 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(2) 5/11/2008 tarihli ve 5809 sayılı Kanunun 67 nci maddesiyle; bu maddede yer alan “elektronik haberleşme sektöründe” ibaresi “elektronik haberleşme sektörü ile bu Kanun kapsamında belirlenen diğer alanlarda” olarak değiştirilmiş ve metne işlenmiştir.
+9452
 Evrensel hizmetin net maliyeti: Bir işletmecinin, evrensel hizmet yükümlülüğünün gereklerini yerine getirmek için sağladığı durum ile hiç yükümlü olmasaydı içinde bulunacağı durum arasındaki net maliyet farkını,
-İşletmeci: Kurum ile yapılan görev ve imtiyaz sözleşmeleri ile ruhsat ve genel izin uyarınca elektronik haberleşme hizmetlerini yürüten ve/veya elektronik haberleşme alt yapısını işleten bir sermaye şirketini,
+İşletmeci: (Değişik: 5/11/2008-5809/67 md.) İlgili mevzuatına göre Kurumca veya bu Kanun kapsamına alınmış hizmetler bakımından ilgili diğer mercilerce yetkilendirilmiş olan işletmecileri,
+Alt yapı: (Ek: 5/11/2008-5809/67 md.) Evrensel hizmetin sağlanmasını teminen hizmetin verilebilmesi için gerektiğinde öncelikle fiziki ortamın oluşturulmasına yönelik her türlü teçhizat, ekipman, bilgisayar, yazılım ve donanımı,
+Deniz haberleşme hizmetleri: (Ek: 5/11/2008-5809/67 md.) Sahil telsiz istasyonları aracılığıyla telsiz sistemleri kullanılarak gemi-kara ve gemi-gemi arasında ses ve veri şeklinde yapılan haberleşme hizmetlerini,
+Deniz yolu ile yolcu taşıma işletmecisi: (Ek: 5/11/2008-5809/67 md.) Ana kara ile ada arasında yolcu taşıma işini yapan ve Denizcilik Müsteşarlığından hat izni almış olan işletmeciyi,
+Seyir güvenliği haberleşme hizmetleri: (Ek: 5/11/2008-5809/67 md.) Her türlü deniz araçlarının emniyetli seyirleri için ses ve veri şeklinde yapılan telsiz yayın hizmetlerini,
 İfade eder.

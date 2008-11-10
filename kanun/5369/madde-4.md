@@ -1,2 +1,4 @@
 İşletmecinin yükümlülüğü
-MADDE 4 — İşletmeciler, bu Kanunda belirlenen evrensel hizmeti sağlamakla yükümlüdür. İmtiyaz ve görev sözleşmeleri ile ruhsat ve genel izinlerde her ne ad altında olursa olsun 3 üncü maddede belirtilen ilkelere aykırı düzenlemeler yapılamaz.
+Madde 4- İşletmeciler, bu Kanunda belirlenen evrensel hizmeti sağlamakla yükümlüdür. İmtiyaz ve görev sözleşmeleri ile ruhsat ve genel izinlerde her ne ad altında olursa olsun 3 üncü maddede belirtilen ilkelere aykırı düzenlemeler yapılamaz.
+(Ek fıkra: 5/11/2008-5809/67 md.) Bilgi teknolojileri yaygınlığı, internet alt yapısı ve karasal sayısal yayıncılık için ihtiyaç duyulan alt yapı malzemelerinin alımı ve montajı ile ulaşımı deniz yolu ile sağlanabilen yolcu taşıma hizmetlerinde yükümlü işletmeci şartı aranmaz.
+9452-1
