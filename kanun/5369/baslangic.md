@@ -1,4 +1,4 @@
-EVRENSEL HİZMET KANUNU
+EVRENSEL HİZMET KANUNU (1)
 Kanun Numarası : 5369
 Kabul Tarihi : 16/6/2005
 Yayımlandığı R.Gazete : Tarih: 25/6/2005 Sayı : 25856

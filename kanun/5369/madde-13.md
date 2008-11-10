@@ -1,2 +1,2 @@
 Yürürlük
-MADDE 13 — Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 13- Bu Kanun yayımı tarihinde yürürlüğe girer.

@@ -1,1 +1,4 @@
-MADDE 11 — 4.2.1924 tarihli ve 406 sayılı Telgraf ve Telefon Kanununun 1 inci maddesinin sekizinci fıkrasının "Türk Telekom, görev sözleşmelerinde belirlenen asgari hizmetleri sunmakla yükümlüdür" şeklindeki son cümlesi ile aynı maddede yer alan "Asgari hizmet" tanımı madde metninden çıkarılmış; 4 üncü maddesinin birinci fıkrasının (d) bendinde yer alan "Asgari" ibaresi "evrensel" olarak değiştirilmiş ve 29 uncu maddesinin birinci fıkrasının (a) bendi "Türk Telekom veya başka bir işletmecinin, vermekle yükümlü olduğu evrensel hizmet dahil, bazı hizmetlerin maliyetini başka hizmetlerin ücretlerinden karşılamak zorunda olduğu haller," şeklinde değiştirilmiş ve bu Kanuna aşağıdaki geçici madde eklenmiştir.
+Madde 11- (4.2.1924 tarihli ve 406 sayılı Telgraf ve Telefon Kanunu ile ilgili olup yerine işlenmiştir.)
+–––––––––––––––
+(1) 5/11/2008 tarihli ve 5809 sayılı Kanunun 67 nci maddesiyle; bu bentte yer alan “5.4.1983 tarihli ve 2813 sayılı Telsiz Kanunu ile 4.2.1924 tarihli ve 406 sayılı Telgraf ve Telefon Kanunu uyarınca” ibaresi madde metninden çıkarılmıştır.
+9454
