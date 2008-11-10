@@ -1,0 +1,25 @@
+{
+  "number_in_summary": 8,
+  "number_basis": "item number printed in the summary",
+  "official_decision_number": null,
+  "title": "Büyükşehir Belediyesinin 2009 Mali yılı bütçesinin görüşülmesine dair Plan ve Bütçe Komisyonu raporunun aynen kabulüne,",
+  "decision_date": "2008-11-10",
+  "meeting_date": "2008-11-10",
+  "summary_heading": null,
+  "summary_title": "KARAR ÖZETİ (10.11.2008)",
+  "source": "https://www.konya.bel.tr/meclis/icerik-getir?tarih=2008-11-10&tur=2",
+  "source_page": "https://www.konya.bel.tr/meclis-encumen/meclis-gundemi-ve-kararlari?karar_yil=2008&karar_ay=11",
+  "source_sha256": "4b64ce1712ce5070adc87b57835f5c29faf517b612dcc91bee0061b26dc01ddc",
+  "issuer": "Konya Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary item as published in the council's Karar Özeti; complete decision text is not published in this register",
+  "in_force": "2008-11-10",
+  "in_force_basis": "Official toplantı tarihi 2008-11-10 (the summary prints no dated heading); adoption date for the summary item; legal commencement not asserted",
+  "missing": [
+    "official decision number (not printed in the summary)",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
