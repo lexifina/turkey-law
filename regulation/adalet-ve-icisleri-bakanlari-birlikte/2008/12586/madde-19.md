@@ -1,0 +1,8 @@
+Koruma kararları ve diğer belgelerin saklanması
+MADDE 19 – (1) Cumhuriyet savcısı, mahkeme veya hâkim tarafından bu Yönetmelikte belirtilen işlemlerle ilgili olarak yazı işleri müdürlüklerinde çalışan personelden biri görevlendirilir.
+(2) Tanığın korunmasına yönelik talepler, ilgisine göre öncelikle Cumhuriyet başsavcılığı veya mahkemelerce tutulan tanık koruma defterine kaydedilir. Koruma kararı verilmesi hâlinde tedbir, söz konusu defterdeki karar numarası ile yerine getirilir.
+(3) Tanık koruma defteri ile tanık koruma kararları ve diğer belgelerin yer aldığı tanık koruma kartonu, söz konusu tedbirleri uygulamakla görevlendirilen Cumhuriyet savcısı veya ilgili hâkim nezaretinde özel bir kasada saklanır.
+(4) Mahkemece verilen koruma kararının bir sureti, tedbiri uygulayacak kolluk veya koruma birimine iletilmek üzere ilgili Cumhuriyet başsavcılığına gönderilir. Tedbir kararının diğer suretinin ise ilgili kartonda saklanmasına devam edilir.
+(5) Cumhuriyet savcısı veya mahkemece verilen tanık koruma kararları ile diğer tutanak ve belgeler, tanık hakkında yürütülen bir başka soruşturma veya kovuşturma konusu suçla ilgili olması hâlinde, diğer adlî mercilere gönderilebilir.
+(6) Koruma kararları ve diğer belgeler, talep hâlinde hiçbir sınırlamaya bağlı olmaksızın Kurula gönderilir.
+(7) Tanık koruma defteri ve tanık koruma kartonunun düzenlenmesine ve saklanmasına ilişkin olarak bu Yönetmelikte hüküm bulunmayan hâllerde, 1/6/2005 tarihli ve 25832 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Cumhuriyet Başsavcılıkları İle Adli Yargı İlk Derece Ceza Mahkemeleri Kalem Hizmetlerinin Yürütülmesine Dair Yönetmeliğin ilgili hükümleri uygulanır.

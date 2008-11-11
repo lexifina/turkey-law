@@ -1,0 +1,2 @@
+Tanığa rücu edilmesi
+MADDE 22 – (1) Bu Yönetmeliğin 16 ncı maddesinin birinci fıkrasının (b) veya (ç) bendinde belirtilen sebeple tanık hakkındaki koruma tedbiri kararının kaldırılması hâlinde, karar tarihinden bu tedbir kararının kaldırıldığı tarihe kadar, kararı uygulayan makamlarca yapılan giderler ve kanunî faizleri tanıktan tahsil edilir, ödenmemesi hâlinde ise tanık hakkında 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.

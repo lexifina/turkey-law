@@ -1,0 +1,14 @@
+DÖRDÜNCÜ BÖLÜM
+Cumhuriyet Savcısı ve Mahkemelerce
+Alınabilecek Tanık Koruma Tedbirleri
+Kimlik ve adres bilgilerinin gizlenmesi tedbiri
+MADDE 11 – (1) Cumhuriyet savcısı veya mahkeme tarafından korunmasında zorunluluk bulunduğu re’sen veya istem üzerine belirlenen tanıkların kimlik ve adres bilgileri gizli tutulur.
+(2) Tanığın kimlik ve adres bilgilerinin gizli tutulmasında zorunluluk bulunduğunun kolluk birimleri tarafından belirlenmesi hâlinde, durum vakit geçirilmeksizin ilgili Cumhuriyet savcısına bildirilir ve bu konuda bir karar verilinceye kadar tanığın kimlik ve adres bilgilerinin açığa çıkmasını engelleyecek her türlü tedbir alınır.
+(3) Cumhuriyet başsavcılığı veya mahkemeye yapılacak olan kimlik ve adres bilgilerinin gizli tutulmasına ilişkin talepler, tanık koruma defterine kaydedilir ve uygun görülmesi hâlinde tanık için yeni bir kod isim ve adres belirlenmesine karar verilir. Bu karar ile ekli yeni kimlik ve adres bilgilerine ilişkin tutanak, ilgili Cumhuriyet savcısı veya hâkim ile görevli zabıt kâtibince imzalanarak tanık koruma kartonunda gizlilik esasları çerçevesinde muhafaza edilir.
+(4) Tanığın soruşturma veya kovuşturma evrelerindeki beyanlarının tamamı koruma kararında belirtilen kod isimle tutanaklara kaydedilir ve sonraki tüm işlemlerin de bu isimle yürütülmesi sağlanır.
+(5) Tanığın çağrılması, Cumhuriyet savcısı veya mahkeme tarafından tanığın gösterdiği veya re’sen belirlenecek bir adrese ilgili koruma veya kolluk birimi marifetiyle yapılır.
+(6) Talebinin bulunması ve uygun görülmesi hâlinde tanığa telefon, telgraf, faks veya elektronik posta gibi araçlardan yararlanılmak suretiyle de çağrı yapılabilir.
+(7) Çağrı için belirlenen adres, telefon veya diğer iletişim bilgilerinin herhangi bir nedenle değişmesi hâlinde, bu durum kararı veren merci ile kolluk veya koruma birimine derhal bildirilir.
+(8) Cumhuriyet savcısı veya mahkemeye gönderilen evraktaki tanığın gerçek kimlik ve adres bilgileri, koruma kararındaki bilgilerle değiştirilir ve ihtiyaç hâlinde kolluktaki beyanlarının bir sureti hiçbir adres bilgisi içermeyecek şekilde sadece kod isimle soruşturma veya kovuşturma dosyasına konulur.
+(9) Cumhuriyet savcısı veya mahkemece düzenlenen tutanaklar ile verilen kararların içeriğinde kimlik ve adres bilgisi gizlenen tanığın beyanlarına yer verilmesi gereken durumlarda, ilgili tutanak veya kararda tanığın kod ismi dışında hiçbir kimlik ya da adres bilgisine yer verilmez.
+(10) Kimlik ve adres bilgilerinin gizli tutulmasına karar verilen tanığın, bu karar öncesinde aynı olay sebebiyle kollukta alınmış ifadeleri olduğunun anlaşılması hâlinde, evrak aslı ve varsa suretleri, mevcut kayıtlara şerh verildikten sonra kollukta hiçbir evrak kalmayacak şekilde ilgili Cumhuriyet savcısı ya da mahkemeye gizlilik esasları çerçevesinde teslim edilir ve evrak ilgili kartonunda saklanır.
