@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30417",
+  "decision_date": "2008-11-11",
+  "source_id": 1990,
+  "chamber": "3",
+  "file_number": "29860",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1990/",
+  "source_sha256": "a26f9b2bcbbda47c5cbbfcc40b619a96e3f0e41fd850eb4cf5509fcb31f39c8b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
