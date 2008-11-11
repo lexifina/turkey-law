@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30411",
+  "decision_date": "2008-11-11",
+  "source_id": 1984,
+  "chamber": "3",
+  "file_number": "29835",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1984/",
+  "source_sha256": "4c54e8f08f657aa72473ae2137a6d16d4bbaeb43321e2c023f3078fe61233167",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
