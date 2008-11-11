@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30423",
+  "decision_date": "2008-11-11",
+  "source_id": 1996,
+  "chamber": "6",
+  "file_number": "29866",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1996/",
+  "source_sha256": "a5698ed6e0e429fdf05ea55220c41c84e0e9518cba3c4c0b4a02493c58329d2e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
