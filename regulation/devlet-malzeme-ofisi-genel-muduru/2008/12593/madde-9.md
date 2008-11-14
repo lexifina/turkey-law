@@ -1,0 +1,3 @@
+Satış fiyatlarının değiştirilmesi
+MADDE 9 – (1) Yıl içinde satın alınan mal ve malzemenin maliyetinde, Teşekkül bütçesi satınalma programında tahmin edilen maliyet bedellerine göre artış veya azalma olduğu takdirde, Yönetim Kurulu Kararı ile satış fiyatlarında değişiklik yapılabilir. Satış fiyatı değiştirilen mal ve malzemenin, tüm satış organlarında aynı tarihte yeni fiyatlardan satışı yapılır.
+(2) Bedeli Ofis hesaplarına intikal ettirilmekle birlikte tamamı karşılanamayan müşteri taleplerinden, Ofis ve müşterilerin karşılıklı mutabık kaldığı mal ve malzeme için, bedele ilişkin yapılan ödemenin Ofis hesabına intikal ettiği tarihteki satış fiyatı uygulanır.

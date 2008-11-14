@@ -1,0 +1,6 @@
+Satış organlarınca fazla, noksan, ayıplı mal ve malzeme ile ilgili yapılacak işlemler
+MADDE 24 – (1) Ofis aracı ile gönderilen mal ve malzemenin fazla olduğu tespit edildiğinde, bu mal ve malzeme, aynı araç ile satış organına iade edilerek, diğer araçlarla gönderilen mal ve malzemenin fazla çıktığı müşteri tarafından bildirildiği takdirde ise, satış organınca geri getirtilerek depoya alınır. Fazla çıkan mal ve malzeme müşteri tarafından istenildiği takdirde, bedelinin yatırılmış olması halinde müşteriye fatura edilir.
+(2) Müşteriye gönderilen mal ve malzeme noksan çıktığı takdirde, bu durumla ilgili olarak düzenlenen ve satış organına intikal ettirilmiş olan tutanak, satış organınca incelenir. Noksanlık tespit edildiği takdirde, mal ve malzeme ilgili müşteriye gönderilir ve bunun için ambar pusulası düzenlenmez.
+(3) Ayıplı mal ve malzemenin müşteri tarafından değiştirilmesi veya bedelinin iadesi ya da ayıbın neden olduğu değer kaybının bedelden indiriminin talep edilmesi halinde 26 ncı madde hükümlerine göre işlem yapılır.
+(4) Mal ve malzemenin ayıbı teslim yerinde giderilebilecek mahiyette ve müşteri tarafından da istenmiş ise onarma görevli Ofis personeli tarafından mahallinde yaptırılır.
+(5) Hasarın mahallinde giderilememesi halinde ilgili mevzuat veya satıcı firma ile Ofis arasında yapılmış bulunan sözleşme hükümlerine göre işlem yapılır.

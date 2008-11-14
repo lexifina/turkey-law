@@ -1,0 +1,3 @@
+Mal ve malzeme taleplerinin yapılması
+MADDE 15 – (1) Mal ve malzeme talepleri, mal ve malzemeye ilişkin bilgilerin belirtildiği, varsa şartnamelerin eklendiği ve müşteri yetkilileriyle, mutemedinin adı soyadı ve unvanlarının yazılarak imzalandığı mal ve malzeme talep listesinin veya talep yazısının, Ofis internet sitesinde elektronik satış üyeliği bulunan müşterilerin ise; üyelik sayfaları üzerinden gönderecekleri elektronik taleplerin, mal ve malzemenin alınacağı satış organına intikali suretiyle yapılır.
+(2) Mal ve malzeme taleplerinin satış organına intikalinden sonra müşteri talepleri en kısa sürede sonuçlandırılır.

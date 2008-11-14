@@ -1,0 +1,6 @@
+Fatura düzenlenmesi ve muhasebeleştirme
+MADDE 20 – (1) Fatura, mal ve malzemenin teslim edildiği tarihte bir asıl ve üç örnek olarak düzenlenir. Ancak, 31 inci madde hükmü saklıdır.
+(2) Faturanın aslı ve örnekleri üzerinde, mal ve malzemenin teslim şekli veya sevk aracına göre aşağıdaki işlemler yapılır.
+a) Mal ve malzemenin satış organında teslimi halinde; faturanın aslı mal ve malzemeyi teslim alan mutemede verilir. Alındı örneği, kimlik bilgileri yazılmak suretiyle mutemede imzalatılarak satış organında bırakılır ve birinci örneği de posta ile müşteriye gönderilir.
+b) Mal ve malzemenin Ofis aracı ile gönderilerek adreste teslimi halinde; faturanın aslı ve birinci örneği, Ofis görevlisince, mal ve malzemeyi teslim alan yetkiliye verilir. Alındı örneği, mal ve malzemeyi teslim alan yetkili tarafından kimlik bilgileri yazılmak suretiyle imzalanır ve Ofis görevlisince satış organına verilmek üzere saklanır.
+c) Mal ve malzemenin diğer araçlarla gönderilerek adreste teslimi halinde; faturanın aslı ile birinci ve ikinci örneği, mal ve malzemenin gönderildiği tarih ve gönderilen araç cinsini belirten bir yazı ekinde müşteriye gönderilir. Müşteriden, bu faturaya göre mal ve malzemeyi teslim alarak, alındı örneğini imzalamak suretiyle geri göndermesi istenir.
