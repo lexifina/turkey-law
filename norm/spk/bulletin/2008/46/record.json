@@ -1,0 +1,54 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2008/46",
+  "date": "2008-11-14",
+  "title": "SPK Haftalık Bülteni 2008/46",
+  "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_46.pdf",
+  "source_sha256": "8c993a8f1e03cd871154702faa104b74864402da272bea9744517f219c0bd614",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 02.01.2008 –14.11.2008 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_46.pdf"
+    },
+    {
+      "heading": "B. 10.11.2008 –14.11.2008 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_46.pdf"
+    },
+    {
+      "heading": "C. 10.11.2008 –14.11.2008 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltme",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_46.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_46.pdf"
+    },
+    {
+      "heading": "E. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b42b1b41c613a0d633c5/2008_46.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
