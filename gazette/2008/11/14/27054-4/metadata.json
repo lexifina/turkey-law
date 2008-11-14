@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-11-14",
+  "issue": "27054",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2008/14267 Çiftlik Muhasebe Veri Ağı Katılım Desteğine Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081114-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081114.htm",
+  "index_sha256": "ee369b93a46612fe596831e54b63c4472ee770ef5c87c7e67b9bfa62a80514fe",
+  "index_header": "14 Kasım 2008 ... 27054 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
