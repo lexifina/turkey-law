@@ -1,0 +1,2 @@
+Üçüncü ülkelerden ithalat ve diğer unsurların etkisi
+MADDE 23 – (1) Üçüncü ülkelerden gerçekleşen ithalatın 2004 yılından bu yana nispi ve mutlak olarak azaldığı, genel ithalat ve tüketim içindeki payının düştüğü görülmüştür. Birim fiyatlarının yerli üreticinin birim fiyatlarına yakın veya üzerinde oluşu ya da piyasa paylarındaki gelişim bu aşamada üçüncü ülkeler menşeli ithalatın yerli üretime zarar verebilecek boyutta olmadığını göstermektedir.

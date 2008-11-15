@@ -1,0 +1,2 @@
+Yerli üretim dalının ekonomik göstergelerinin değerlendirilmesi
+MADDE 21 – (1) Yapılan incelemeler neticesinde, yerli üretim dalının büyüyen pazarda ticari maliyetinin altında fiyatlarla bile satışlarının azaldığı; bunun sonucunda üretimini azaltmak durumunda kaldığı; buna rağmen stoklarının önemli ölçüde arttığı anlaşılmıştır. Bu bozulmanın neticesi olarak karlılığı ve nakit akışı daha da kötüleşen yerli üretim dalının yatırımların geri dönüşü, yatırım hasılatı gibi ekonomik göstergelerinde ciddi ölçüde zarar gördüğü anlaşılmıştır.

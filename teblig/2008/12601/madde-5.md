@@ -1,0 +1,4 @@
+İlgili tarafların bilgilendirilmesi ve dinlenmesi
+MADDE 5 – (1) Soruşturma açılmasını müteakip, ÇHC’de yerleşik bilinen üretici/ihracatçılara ve ayrıca anılan ülkede yerleşik diğer üretici/ihracatçılara iletilebilmesini teminen ÇHC Ankara Büyükelçiliği’ne soru formu, şikâyetin gizli olmayan özeti ve Açılış Tebliği’nin birer örneği gönderilmiştir.
+(2) Soruşturma sırasında ilgili taraflardan gelen dinleme toplantısı talepleri karşılanmış olup, yerli üretici ve ithalatçıların bir arada yer aldığı ve kendilerine soruşturma ile ilgili görüşlerini sunma imkânı veren bir kamu dinleme toplantısı düzenlenmiştir.
+(3) İlgili taraflara soruşturma boyunca, soruşturma ile ilgili görüşlerini, bu görüşlerle alâkalı bilgi ve belgeleri sunma imkanı verilmiş ve söz konusu görüş ve belgeler değerlendirilmiştir. Soruşturma sırasında sunulan nesnel görüşlere, işbu Tebliğ içerisinde yeri geldiğinde değinilmiştir.
