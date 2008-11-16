@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-11-16",
+  "issue": "27056",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Doğuş Üniversitesi Ana Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081116-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081116.htm",
+  "index_sha256": "5dd03fbaf5c05e09ec0a0cd82051165e252b73b96ebb655448ac5bb178487240",
+  "index_header": "16 Kasım 2008 ... 27056 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
