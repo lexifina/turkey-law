@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 23,
+  "committee": "PLAN VE BÜTÇE KOMİSYONU",
+  "committee_id": 17,
+  "meeting_date": "2008-11-17",
+  "meeting_date_as_published": "17/11/2008",
+  "agenda": [
+    "2009 MALİ YILI MERKEZİ YÖNETİM BÜTÇE KANUNU TASARISI İLE 2007 MALİ YILI MERKEZİ YÖNETİM KESİNHESAP KANUNU TASARISI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/998",
+  "pdf_sha256": "8768f355ed2f783e470ad5c4b0dd2ce74e8622411d757a67eaf4a886227df92d",
+  "pdf_pages": 78,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=23, Komisyon=17)",
+  "listing_sha256": "09987c65057267ce5ba432fa057d1a8270f3cb4e961923851acec8c730cb8210",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2008-11-17",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
