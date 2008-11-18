@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30456",
+  "decision_date": "2008-11-18",
+  "source_id": 2022,
+  "chamber": "1",
+  "file_number": "29700",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2022/",
+  "source_sha256": "ee42b0c4e23cbf7d4a6b45857c4c10b65275ad8f74e03eacb13dbdc1e32e4a2f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
