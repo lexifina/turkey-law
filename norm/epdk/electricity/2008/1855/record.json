@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1855",
+  "decision_date": "2008-11-20",
+  "title": "Tesis Tamamlanma Tarihinin Belirlenmesinde Referans Alınacak Süreler",
+  "categories": [
+    "Önlisans Süreleri ile Tesis Tamamlanma Tarihinin Belirlenmesinde Referans Alınacak İnşaat Süreleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yMrzCzKlGEA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yMrzCzKlGEA="
+  ],
+  "source_sha256": "b4f9612d8e126d445cca6dbd1fd6fc8f605d7b100e5a12431f92666e5f261fca",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33885,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-11-20",
+  "law_text_complete": false
+}
