@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1845/20",
+  "decision_date": "2008-11-20",
+  "title": "2009 yılı Elektrik Piyasası Osb Bağlantı,Güvence ve Kesme Bağlama Bedelleri",
+  "resmi_gazete_date": "2008-11-29",
+  "resmi_gazete_number": "27069",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q4MEEkp2r1U=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q4MEEkp2r1U="
+  ],
+  "source_sha256": "881c4db6accd2ff352cc821719358fb6e8026cbc0fb4f8ce7908cdbbfda1ccaa",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-11-20",
+  "law_text_complete": false
+}
