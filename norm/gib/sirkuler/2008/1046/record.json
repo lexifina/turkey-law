@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "Veraset ve İntikal Vergisi Kanunu-4/2008-1",
+  "source_id": 1046,
+  "date": "2008-11-20",
+  "title": "Kamu ve özel kuruluşlar ile bankalar arasında yapılan maaş ödeme protokolleri gereğince, yapılan \"promosyon\" ödemelerinin vergisel boyutu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/sirkuler/1046",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "fa032edb780af88f4ed0df7486cb576ebe97ce21b9aa36f85aab0202aca50af1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
