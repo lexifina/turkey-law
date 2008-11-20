@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.66/6656-339-112365",
+  "source_id": 36973,
+  "date": "2008-11-20",
+  "title": "işlettilen otel bina ve tesisleri için verilen emlak (bina) vergisi bildirimi üzerine vergi değerinin hesabında bina normal inşaat maliyetlerine göre bulunan değere arsa değerinin ilave edilip edilmeyeceği hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36973",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "e42eda07d7119ad4c26afa172539c218b4ad630aea0c6e9453d8fabb4311263b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
