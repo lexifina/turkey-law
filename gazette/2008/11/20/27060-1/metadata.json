@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-11-20",
+  "issue": "27060",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "931 (10/3, 8, 12, 28, 31, 33, 38, 42, 47, 56, 59, 62, 64, 65, 68, 71, 84, 87, 89, 98, 101, 119, 145, 146) Esas Numaralı Meclis Araştırması Komisyonunun Görev Süresinin Uzatılmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081120-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081120.htm",
+  "index_sha256": "e29f9eef2830024a3c94c6da38c87254f1560b72fe56a64fc1e7e689cdecf12f",
+  "index_header": "20 Kasım 2008 ... 27060 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
