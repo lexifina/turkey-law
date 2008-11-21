@@ -1,0 +1,3 @@
+Merkez Yönetim Kurulu
+Madde 8 — Merkez Yönetim Kurulu, Müdürün başkanlığında, Merkez Müdürü tarafından biri Eczacılık Fakültesi’nden olmak üzere önerilen, Merkezin çalışma alanı ile ilgili çalışmalarda bulunan öğretim üyeleri arasından Rektör tarafından görevlendirilen 5 üyeden oluşur. Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı yöntemle bir üye görevlendirilir.
+Yönetim Kurulu en az ayda bir defa ve gerektiğinde Merkez Müdürü'nün çağrısı üzerine toplanır. Merkez Yönetim Kurulu'nun kararları oyçokluğu ile alınır.

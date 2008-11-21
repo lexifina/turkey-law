@@ -1,0 +1,3 @@
+Merkez Danışma Kurulu
+Madde 10 -— Merkez Danışma Kurulu; Merkezin faaliyetleri ile ilgili olarak yönetim kurulunun ihtiyaç duyduğu konularda değerlendirmede bulunan ve istişari nitelikte görüş ve önerilerini bildiren bir kuruldur. Danışma Kurulu Merkez Müdürünün önerisi üzerine Rektör tarafından seçilen Üniversite öğretim elemanları ile Başbakanlık Gençlik ve Spor Genel Müdürlüğünce seçilmiş kişilerden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi dolmadan görevlerinden ayrılan üyelerin yerine kalan süreyi tamamlamak için aynı yöntemle yeni üyeler seçilir. Süresi biten üye tekrar seçilebilir.
+Merkez Danışma Kurulu, Merkez Müdürünün çağrısı üzerine yılda en az iki kere toplanır. Danışma Kuruluna Merkez Müdürü başkanlık eder.

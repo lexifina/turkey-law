@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 12 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2004-07-20",
+      "20.07.2004",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2008-11-21",
+      "R.G.-21/11/2008-27061",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "R.G.-21/11/2008-27061",
+  "first_law": null,
+  "gazette": "25528",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2008-11-21",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2004/6840",
+  "published": "2004-07-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6840&MevzuatTertip=5",
+  "source_bytes": 26155,
+  "source_id": "8.5.6840",
+  "source_sha256": "e94a36b68981cb3919a79927d8fbb886ed2766f85e7265bcbc64b1b313d2c563",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nTÜRKİYE DOPİNG KONTROL MERKEZİ (TDKM)\r\nYÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 1115
+}

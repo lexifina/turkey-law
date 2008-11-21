@@ -1,0 +1,4 @@
+HACETTEPE ÜNİVERSİTESİ
+TÜRKİYE DOPİNG KONTROL MERKEZİ (TDKM) YÖNETMELİĞİ
+Amaç
+Madde 1 — Hacettepe Üniversitesine bağlı bir birim olan Türkiye Doping Kontrol Merkezi (TDKM)’nin amacı; Başbakanlık Gençlik ve Spor Genel Müdürlüğü ile imzalanan protokol hükümleri çerçevesinde Üniversitenin alanla ilgili Fakülte, Enstitü, Yüksekokul ve Uygulama-Araştırma Merkezlerinin işbirliği ile Ülkemizde gençliğin sağlıklı spor yapabilmesini sağlamak ve sporda haksız rekabeti önlemek, doping ve diğer kimyasal analizleri yapmak, temel ve uygulamalı araştırmalar ve projeler yapmak, bu alanda yeni teknikler geliştirmek, amaçları doğrultusunda bilgi toplamak, bilgi depolamak ve danışmanlık hizmetleri vermek, uluslararası kabul görmüş standartlarca akredite olmayı ve bu akreditasyonların sürekliliğini sağlamaya yönelik çalışmalarda bulunmak ve amaçları doğrultusunda ulusal ve uluslararası kurum ve kuruluşlarla işbirliği yapmaktır.
