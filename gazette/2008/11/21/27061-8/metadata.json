@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-11-21",
+  "issue": "27061",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Yaşar Üniversitesi Satın Alma ve İhale Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081121-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081121.htm",
+  "index_sha256": "b81799b7b53ffbff58e039d5fe07db731fd7e1fbb6911de9ebae294832ba72c8",
+  "index_header": "21 Kasım 2008 ... 27061 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
