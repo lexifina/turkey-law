@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2008/299",
+  "list_number": "299",
+  "decision_date": "2008-11-24",
+  "title": "Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir Örnek: 140/I sayılı Genelgeye İlişkin Yüksek Seçim Kurulunun 2008/299 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/3036/2008-299.pdf",
+  "source_sha256": "a12212e8edf5e501a61604ccbf900bd2d81ebe4c27f587f2e55757f735305825",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2008-11-24",
+  "law_text_complete": false
+}
