@@ -1,0 +1,37 @@
+{
+  "number": "14",
+  "date": "2008-11-24",
+  "source_id": 1701,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1701/2008-14.pdf",
+  "source_sha256": "8203b477644a65b718c9c4d60919b6a205bdcfd6632aa8559d689df8dac1a05e",
+  "history": "as-enacted",
+  "words": 3224,
+  "in_force_basis": "Official attached YSK decision, PDF p. 3, operative closing sentence: 24/11/2008 tarihinde oybirliği ile karar verildi",
+  "catalogue_date": "2008-11-24",
+  "source_images": 1,
+  "decorative_images": 1,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "circular_issue_date": "2008-11-25",
+  "attached_decision_numbers": [
+    "299"
+  ],
+  "adoption_dates": [
+    {
+      "page": 3,
+      "date": "2008-11-24",
+      "quote": "24/11/2008 tarihinde oybirliği ile karar verildi"
+    }
+  ],
+  "approval_dates": [
+    {
+      "page": 10,
+      "date": "2008-11-24",
+      "quote": "Bu genelge Yüksek Seçim Kurulunun 24/11/2008 gün ve 2008/299 sayılı kararı ile Örnek:140/I olarak kabul edilmiştir"
+    }
+  ],
+  "explicit_effective_dates": [],
+  "date_kind": "decision-adoption",
+  "in_force_date": "2008-11-24"
+}
