@@ -1,0 +1,3 @@
+Defterlerin kullanılma ve saklanma süreleri
+MADDE 60 - (1) Bu yönetmelik hükümlerine göre tutulması gereken defterler, hesap dönemi itibarıyla yıllık olarak kullanılır. Ancak, ertesi hesap döneminde de kullanılması mümkün olan defterler, gerekli devir ve açılış işlemleri yapılmak ve Yönetmeliğin 59 uncu maddesinde belirtilen esaslar çerçevesinde yetkililerce onaylanmak suretiyle kullanılabilir.
+(2) Defterler, vergi kanunlarındaki hükümler saklı kalmak kaydıyla, kullanıldıkları yıl dâhil 5 yılın sonunda arşiv defterine (Örnek:7) kaydedilerek arşive kaldırılır. Arşive kaldırılan defterler hakkında ilgili yönetmelik hükümleri uygulanır.

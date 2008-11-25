@@ -1,0 +1,8 @@
+Hesabın işleyişi
+MADDE 325 - (1) Hesaplanan katma değer vergisi hesabına ilişkin alacak ve borç kayıtları aşağıda gösterilmiştir:
+a) Alacak
+1) Teslim edilen mal veya ifa edilen hizmet bedeli üzerinden hesaplanan katma değer vergisi bu hesaba, mal ve hizmet bedeli 60 Brüt Satışlar grubunun ilgili hesabına alacak, yapılan tahsilat tahsilatın şekline göre ilgili hesaplara borç kaydedilir.
+2) Üretilerek işletmenin kullanımına tahsis edilen maddi duran varlıkların rayiç değerleri üzerinden hesaplanan katma değer vergisi bu hesaba, rayiç değerleri ile 600 Yurtiçi Satışlar Hesabına alacak, ilgili duran varlık hesabına borç kaydedilmekle birlikte; aynı zamanda maliyet değerleri ile 152 Mamuller Hesabına alacak, 620 Satılan Mamuller Maliyeti Hesabına borç kaydedilir.
+b) Borç
+1) Ay sonlarında bu hesabın alacak kalanı, indirilecek katma değer vergisi ve devreden katma değer vergisi hesaplarının borç kalanları ile karşılaştırılarak; hesaplanan katma değer vergisi kalan verdiğinde aradaki fark bu hesaba borç, 360 Ödenecek Vergi ve Fonlar Hesabına alacak, indirilecek katma değer vergisi ve devreden katma değer vergisi hesapları kalan verdiğinde bu hesapların kalanlarının toplamı 190 Devreden Katma Değer Vergisi Hesabına borç, ilgili hesaplara alacak kaydedilir.
+2) Satılan mallardan iade edilenlere ilişkin katma değer vergisi 191 İndirilecek Katma Değer Vergisi Hesabına, iade edilen mal satış bedeli 610 Satıştan İadeler Hesabına borç, yapılan ödeme ödemenin şekline göre ilgili hesaplara alacak kaydedilir. Sürekli envanter yöntemini uygulayan işletmelerce aynı zamanda iade edilen mallar, maliyet değerleri ile 62 Satışların Maliyeti Hesap grubunun ilgili hesabına alacak, ilgili stok hesabına borç kaydedilir.

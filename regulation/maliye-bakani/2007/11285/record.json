@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.11285",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DÖNER SERMAYELİ İŞLETMELER BÜTÇE VE MUHASEBE YÖNETMELİĞİ",
+  "number": "11285",
+  "issuer": "Maliye Bakanı",
+  "issuer_slug": "maliye-bakani",
+  "path": "regulation/maliye-bakani/2007/11285",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11285&MevzuatTertip=5",
+  "source_sha256": "21c303a6897c129992dd0feb27f31633f04cfe4fb711aa42e0e72d0136d905b3",
+  "source_bytes": 1396466,
+  "published": "2007-05-01",
+  "gazette": "26509",
+  "in_force": "2008-11-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/11/2008\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2008-11-25",
+      "RG-25/11/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-11-25",
+      "25/11/2008",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik 1/1/2007 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 58778,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11285%20ekler.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

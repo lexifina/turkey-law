@@ -1,0 +1,3 @@
+Dönem kârının Hazineye veya ilgili kurum bütçesine aktarılması
+MADDE 579 - (1) Kanun ve yönetmeliklerde kârlarının sermayelerine ekleneceği belirtilen işletmelerce, bu işlem ilgili hesap döneminde değil, ertesi hesap döneminde yapılır. Dönem kârları, bilançoda ve gelir tablosunda sermayeye eklenmeden gösterilir.
+(2) Sermayeleri kanun ve yönetmelikte belirlenen limite ulaşan ve mevzuatlarında yıllık kârlarının Hazineye veya ilgili kurum bütçesine aktarılacağına ilişkin hüküm bulunan işletmelerce, hesap dönemi içinde elde edilen kârlar, ertesi hesap döneminde ilgili muhasebe birimine yatırılır ve karşılığında alınan alındının onaylı örneği Bakanlığa gönderilir.

@@ -1,0 +1,2 @@
+Maddi duran varlıklar için yapılan değer artırıcı harcamalar
+MADDE 47 - (1) Maddi duran varlıklar için sonradan yapılan ve o varlığın değerini, kullanım süresini, ürün ve hizmet kalitesini, sağlanan faydayı artıran veya üretilen mal veya hizmetlerin üretim maliyetini azaltan her türlü maliyet, ilgili maddi duran varlığın kayıtlı değerine ilave edilir ve amortisman hesaplamasında dikkate alınır. Bunların dışında maddi duran varlıklar için yapılan her türlü normal bakım ve onarım harcamaları gider olarak kaydedilir.

@@ -1,0 +1,13 @@
+Hesabın işleyişi
+MADDE 211 - (1) Demirbaşlar hesabına ilişkin borç ve alacak kayıtları aşağıda gösterilmiştir:
+a) Borç
+1) Satın alınan demirbaşlar maliyet bedeli ile bu hesaba, bu değer üzerinden ödenen katma değer vergisi 191 İndirilecek Katma Değer Vergisi Hesabına borç, yapılan ödeme ödemenin şekline göre ilgili hesaplara alacak kaydedilir.
+2) İşletmede kullanılmak üzere imal edilen veya ettirilen demirbaşların yapılmakta olan yatırımlar hesabında oluşan maliyetinin aktifleştirilmesinde maliyet bedeli bu hesaba borç, 258 Yapılmakta Olan Yatırımlar Hesabına alacak kaydedilir.
+3) Demirbaşların ekonomik değerini artırmak amacıyla yapılan harcamalar bu hesaba borç, ilgili hesaplara alacak kaydedilir.
+4) Demirbaşların yeniden değerlemesi sonucunda oluşan değer artışları bu hesaba borç, 522 Maddi Duran Varlıklar Yeniden Değerleme Artışları Hesabına alacak kaydedilir.
+5) Demirbaşların sayımı sonucunda tespit edilen fazlalıklar rayiç değerleri ile bu hesaba borç, fazlalığın nedeninin araştırılıp sonuçlandırılmasına kadar 397 Sayım ve Tesellüm Fazlaları Hesabına alacak kaydedilir.
+b) Alacak
+1) Satılan demirbaşlar kayıtlı değerleri ile bu hesaba, bu değer üzerinden hesaplanan katma değer vergisi 391 Hesaplanan Katma Değer Vergisi Hesabına alacak, birikmiş amortismanları 257 Birikmiş Amortismanlar Hesabına, yeniden değerleme artışları 522 Maddi Duran Varlıklar Yeniden Değerleme Artışları Hesabına, yapılan tahsilat ise tahsilatın şekline göre ilgili hesaplara borç kaydedilmekle birlikte; bu işlemden doğan kârlar 679 Diğer Olağandışı Gelir ve Kârlar Hesabına alacak, bu işlemden doğan zararlar 689 Diğer Olağandışı Gider ve Zararlar Hesabına borç kaydedilir.
+2) Demirbaşların sayımı sonucunda tespit edilen noksanlıklar bu hesaba alacak, noksanlığın nedeninin araştırılması ve sorumluların tespiti için geçici olarak 197 Sayım ve Tesellüm Noksanları Hesabına borç kaydedilir.
+3) Kullanılamayacak hâle gelmesi nedeniyle kayıtlardan düşülmesi gereken demirbaşlar kayıtlı değerleri ile bu hesaba alacak, birikmiş amortismanları 257 Birikmiş Amortismanlar Hesabına, ayrılan amortismanları demirbaşın kayıtlı değerinden az ise aradaki fark 689 Diğer Olağandışı Gider ve Zararlar Hesabına borç kaydedilir.
+4) Personele zimmetle verilen demirbaşlardan kaybedilen veya çalınanlar bir taraftan kayıtlı değerleri ile bu hesaba alacak, birikmiş amortismanları 257 Birikmiş Amortismanlar Hesabına, amorti edilmeyen kısmı 689 Diğer Olağandışı Gider ve Zararlar Hesabına borç; diğer taraftan rayiç değerleri üzerinden sorumluları adına 135 Personelden Alacaklar Hesabına borç, 679 Diğer Olağandışı Gelir ve Kârlar Hesabına alacak kaydedilir.

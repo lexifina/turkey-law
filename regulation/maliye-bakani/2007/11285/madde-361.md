@@ -1,0 +1,5 @@
+Hesaba ilişkin işlemler
+MADDE 361 - (1) Gider olarak tahakkuk ettirilmiş olup, içinde bulunulan faaliyet dönemini takip eden dönemden sonraki dönemlerde ödenebilir duruma gelecek olan giderlerden kaynaklanan borçlar, ilgili olduğu dönemde ödenmek üzere bu hesapta izlenir.
+(2) Dönem sonunda, bu hesapta yer alıp ödeme zamanına bir yıldan az süre kalan borçlar, düzenlenecek muhasebe işlem fişi ile kısa vadeli yabancı kaynaklar ana hesap grubu içindeki gider tahakkukları hesabına aktarılır.
+(3) Uzun vadeli yabancı kaynaklar ana hesap grubu içindeki hesaplarda yer alan malî borçlar için yıl sonlarında geçici mizandan önce hesaplanan ve içinde bulunulan faaliyet dönemini takip eden dönemden sonraki dönemlerde ödenecek olan işlemiş faiz giderleri bu hesaba kaydedilir.
+(4) Vadesi geçmiş, ertelenmiş veya taksitlendirilmiş vergi ve diğer yükümlülüklere ilişkin olarak hesaplanan faiz ve gecikme zammı tutarları, ilgisine göre kısa veya uzun vadeli yabancı kaynaklar ana hesap grubu içindeki gider tahakkukları hesaplarına kaydedilerek izlenir.

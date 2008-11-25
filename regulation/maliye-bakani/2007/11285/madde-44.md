@@ -1,0 +1,2 @@
+Malî varlıklar ve sınıflandırılması
+MADDE 44 - (1) Malî varlıklar; kasadaki nakit, banka hesaplarındaki mevcutlar, verilen borçlardan doğan alacaklar, senet, tahvil ve benzeri menkul varlıklar, sermaye payları, malî türevler, bir sözleşmeden doğan alacağı ifade eden haklar ve hesaplarda kayıtlı alacaklar gibi maddi ve maddi olmayan varlıklar dışındaki her türlü değerleri kapsar. Malî varlıklar, kaynaklarına ve türlerine göre sınıflara ayrılarak kaydedilir.

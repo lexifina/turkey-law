@@ -1,0 +1,16 @@
+Hesabın işleyişi
+MADDE 80 - (1) Döviz hesabına ilişkin borç ve alacak kayıtları aşağıda gösterilmiştir:
+a) Borç
+1) Muhasebe birimlerine teslim edilen konvertibl dövizlerle, mevzuatı gereği gelir kaydedilmek üzere döviz cinsinden tahsil edilen tutarlar, teslim alındığı veya tahsil edildiği günkü Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden bu hesaba borç, ilgili gelir hesabına veya ilgili diğer hesaplara alacak kaydedilir.
+2) Kişilere ait olarak teslim alınan döviz tutarları teslim alındığı günkü Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden bu hesaba borç, 326 Alınan Depozito ve Teminatlar Hesabı veya ilgili diğer hesaplara alacak kaydedilir.
+3) Muhasebe biriminin hesabının bulunduğu bankaya muhasebe birimi adına intikal eden döviz tutarları teslim tarihindeki Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden bu hesaba borç; gelir kaydedilmesi gerekenler ilgili gelir hesabına, diğerleri ise ilgili hesaplara alacak kaydedilir.
+4) Kayıtlı değerleri üzerinden 326 Alınan Depozito ve Teminatlar Hesabı veya ilgili diğer hesaplara borç, bu hesaba alacak kaydedilen kişilere ait olarak teslim alındığı hâlde sonradan işletme malı olan yabancı paralar; işlem tarihindeki Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden bu hesaba borç, ilgili gelir hesabına alacak kaydedilir
+5) Bankadan gelen hesap özetinden, muhasebe birimleri veznelerinden bankaya gönderilen dövizlerin, döviz tevdiat hesabına yattığı anlaşıldığı takdirde tutarı, bu hesaba borç, 108 Diğer Hazır Değerler Hesabına alacak kaydedilir.
+6) Sayım sonucunda fazla çıkan döviz tutarları sayım tarihindeki Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden bu hesaba borç, 397 Sayım ve Tesellüm Fazlaları Hesabına alacak kaydedilir.
+7) Muhasebe birimlerince, bu hesaba ilişkin yardımcı hesap kayıtlarından elde edilen bilgilere göre, işletme malı konvertibl yabancı paralar mevcudunun Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden değerlemesi sonucu oluşan kur artışı farkları bu hesaba borç; 646 Kambiyo Kârları Hesabına alacak kaydedilir.
+b) Alacak
+1) Muhasebe birimleri veznelerinden bankaya yatırılmak üzere gönderilen döviz tutarları bu hesaba alacak, 108 Diğer Hazır Değerler Hesabına borç kaydedilir.
+2) Muhasebe birimlerince düzenlenen döviz gönderme emirlerinden, bankaca ödendiği ya da gönderildiği bildirilen tutarlar bu hesaba alacak, 106 Döviz Gönderme Emirleri Hesabına borç kaydedilir.
+3) Muhasebe birimleri veznelerinde bulunan emanet niteliğindeki dövizlerden ilgilisine iade edilen tutarlar, kayıtlı değerleri üzerinden bu hesaba alacak, 326 Alınan Depozito ve Teminatlar Hesabı veya ilgili diğer hesaplara borç kaydedilir.
+4) Sayım sonucunda noksan çıkan döviz tutarları kayıtlı değeri üzerinden bu hesaba alacak, sayım tarihindeki Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden 197 Sayım ve Tesellüm Noksanları Hesabına borç kaydedilir.
+5) Muhasebe birimlerince bu hesaba ilişkin yardımcı hesap kayıtlarından elde edilen bilgilere göre işletme malı konvertibl yabancı paralar mevcudunun Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden değerlemesi sonucu oluşan kur azalışı farkları bu hesaba alacak, 656 Kambiyo Zararları Hesabına borç kaydedilir.

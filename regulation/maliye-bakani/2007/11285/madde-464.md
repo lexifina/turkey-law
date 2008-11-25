@@ -1,0 +1,11 @@
+Gider çeşitleri
+MADDE 464 - (1) Gider çeşitleri hesapları, mal ve hizmet üretiminde katlanılması gereken maliyetlerin bünyesindeki harcama çeşitlerini ifade eder.
+(2) Giderler tahakkuk ettikçe ilgili fonksiyonel gider hesaplarına kaydedilirken, aynı anda yardımcı defterlerdeki söz konusu çeşit hesaplarına da kaydedilir. Gider çeşitlerinin izlendiği yardımcı defter kayıtlarının gider yerlerini de gösterecek biçimde tutulması esastır.
+(3) Gider çeşitleri hesaplarının kodlanmasında aşağıda belirtilen sınıflama esas alınır.
+a) 0 İlk Madde ve Malzeme Giderleri: Mal ve hizmetlerin üretilmesini ve işletme faaliyetlerinin devamlılığını sağlamak amacıyla tüketilen her türlü direkt ilk madde ve malzeme, endirekt malzeme ve üretimle ilgili dışarıya yaptırılan işleri kapsar.
+b) 1 İşçi Ücret ve Giderleri: İşletme faaliyetlerini yürütmek, üretim ve hizmetleri gerçekleştirmek amacıyla çalıştırılan işçiler için tahakkuk ettirilen esas işçilik, fazla çalışma, prim, ikramiye, yıllık izin ücretleri, sosyal sigorta işveren primi, hafta tatili ve genel tatil ücretleri, her türlü sosyal yardımlar ve işçilere ait diğer giderler gibi giderleri kapsar.
+c) 2 Memur Ücret ve Giderleri: İşletme faaliyetlerini yürütmek, üretim ve hizmetleri gerçekleştirmek amacıyla çalıştırılan aylıklı yönetici, memur, büro personeli ve benzeri için tahakkuk ettirilen her türlü giderleri kapsar.
+ç) 3 Dışarıdan Sağlanan Fayda ve Hizmetler: İşletme faaliyetlerini yürütmek, üretim, pazarlama ve diğer hizmetleri gerçekleştirmek amacıyla elektrik, su, gaz, bakım ve onarım, haberleşme, nakliye ile diğer fayda ve hizmetler gibi dışarıdan sağlanan fayda ve hizmetler için yapılan giderleri kapsar.
+d) 4 Çeşitli Giderler: Yukarıda belirtilen giderler dışında, işletme faaliyetlerini sürdürmek için yapılması gerekli olan giderleri kapsar. Kira giderleri, yolluk giderleri, dava, icra ve noter giderleri gibi çeşitli giderler bu grupta yer alır.
+e) 5 Vergi, Resim ve Harçlar: Mevzuat gereğince tahakkuk ettirilen gider niteliğindeki vergi, resim ve harçlar ile genel bütçeye aktarılacak tutarlar, sosyal hizmetler ve çocuk esirgeme kurumu payı, merkez hissesi, kâr payı gibi Hazine veya ilgili idareye ödenecek giderleri kapsar.
+f) 6 Amortismanlar ve Tükenme Payları: Maddi duran varlıklar için ayrılan amortisman giderleri ile tükenme paylarını kapsar.

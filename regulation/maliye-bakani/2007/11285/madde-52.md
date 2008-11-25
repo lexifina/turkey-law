@@ -1,0 +1,2 @@
+Değer ve miktar değişimleri
+MADDE 52 - (1) Varlık ve yabancı kaynakların değerlemeye tabi tutulmaları sonucunda, fiyat değişmelerinden dolayı ortaya çıkan artış ve azalışlar değer değişimi; borçların, alacakların veya varlıkların hacim, sayı gibi miktarlarında meydana gelen ve işletmelerin inisiyatifi dışında ortaya çıkan artış ve azalışlar ise miktar değişimidir. Bu şekilde ortaya çıkan kazanç ve kayıplar ilgisine göre öz kaynaklar ana hesap grubunda açılan hesaplara veya gelir ve gider hesaplarına kaydedilir.

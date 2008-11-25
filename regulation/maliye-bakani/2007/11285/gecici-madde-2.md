@@ -1,0 +1,2 @@
+Mevcut belgelerin kullanılması
+GEÇİCİ MADDE 2 - (1) Bu Yönetmelik ekindeki bilgisayar ortamında düzenlenemeyen defter, cetvel ve belgeler ile alındıların yenilerinin basım ve dağıtım işlemleri tamamlanıncaya kadar, bu Yönetmeliğin 601 inci maddesiyle yürürlükten kaldırılan Döner Sermayeli İşletmeler Muhasebe Yönetmeliğinde aynı amaç için düzenlenmiş örneklerin, gerekli değişiklikler yapılarak kullanımına devam edilir.

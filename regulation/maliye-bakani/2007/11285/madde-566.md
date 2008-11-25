@@ -1,0 +1,4 @@
+Aylık gayrisafi hasılattan tahsil edilen tutarın beyanı ve genel bütçeye aktarılacak tutarların yatırılması
+MADDE 566 - (1) İşletmelerce bir ay içinde elde edilen gayrisafi hasılattan tahsil edilen tutar, “Aylık Gayrisafi Hasılattan Tahsil Edilen Tutara İlişkin Bildirim” (Örnek: 30) ile izleyen ayın 20 nci günü mesai saati bitimine kadar faaliyette bulundukları yerlere göre ilgili muhasebe birimine bildirilir. Bildirilen aylık gayrisafi hasılattan yapılan tahsilat tutarı üzerinden hesaplanan genel bütçeye aktarılacak miktarlar aynı süre içinde ilgili muhasebe birimine yatırılır.
+(2) Aylık dönemler içinde hasılat elde edilmemesi hâlinde de, işletmelerce aylık gayrisafi hasılattan tahsil edilen tutara ilişkin bildirim düzenlenerek ilgili yerlere verilir.
+(3) Yıllık bilanço ve diğer hesapları bağlı bulundukları merkez kuruluşunda birleştirilen işletmeler de dâhil olmak üzere, yukarıda belirtilen bildirim ve ödeme yükümlülüğünü her işletme ayrı ayrı yerine getirir.

@@ -1,0 +1,11 @@
+Gelir tablosu ilkeleri
+MADDE 35 - (1) Gelir tablosu ilkelerinin amacı, satışlar, gelirler, giderler, maliyetler, kâr ve zararlara ait hesapların belli dönemlere ait faaliyet sonuçlarını doğru olarak göstermelerini sağlamaktır.
+(2) Bu amaç doğrultusunda benimsenen gelir tablosu ilkeleri şunlardır:
+a) Gerçekleşmemiş gelirler ve satışlar gerçekleşmiş gibi ya da gerçekleşenler gerçek tutarından fazla ya da az gösterilemez. Belli bir dönem ya da dönemlerin gerçeğe uygun faaliyet sonuçlarını göstermek için, dönem ya da dönemlerin başında ve sonunda doğru hesap kesimi işlemleri yapılır.
+b) Belli bir dönemin gelirleri ve satışları bunları elde etmek için yapılan maliyet ve giderler ile karşılaştırılır. Belli bir dönem ya da dönemlerin başında ve sonunda maliyet ve giderleri gerçeğe uygun olarak gösterebilmek için stoklarda, alacak ve borçlarda doğru hesap kesimi işlemleri yapılır.
+c) Maddi ve maddi olmayan duran varlıklar ile özel tükenmeye tabi varlıklar için uygun amortisman ve tükenme payı ayrılır.
+ç) Maliyetler; maddi duran varlıklar, stoklar, onarım ve bakım ile diğer gider grupları arasında uygun bir şekilde dağıtılır. Bunlardan direkt olanları doğrudan doğruya, birden fazla faaliyeti ilgilendirenler zaman ve kullanma faktörü dikkate alınmak ve tahakkuk ettirilmek suretiyle dağıtılır.
+d) Arızi ve olağanüstü niteliğe sahip gelir ve giderler meydana geldikleri dönemde tahakkuk ettirilir, ancak normal faaliyet sonuçlarından ayrı olarak gösterilir.
+e) Karşılıklar, işletmenin kârını keyfi şekilde azaltmak ya da bir döneme ait kârı diğer döneme aktarmak amacıyla kullanılamaz.
+f) Dönem sonuçlarının tespiti ile ilgili olarak uygulana gelen değerleme esasları ve maliyet yöntemlerinde bir değişiklik yapıldığı takdirde, bu değişikliğin etkileri açıkça belirtilir.
+g) Bilanço tarihinde var olan ve sonucu belirsiz bir ya da birkaç olayın gelecekte ortaya çıkıp çıkmamasına bağlı durumları ifade eden, şarta bağlı olaylardan kaynaklanan, makul bir şekilde gerçeğe yakın olarak, tahmin edilebilen gider ve zararlar tahakkuk ettirilerek gelir tablosuna yansıtılır. Şarta bağlı gelir ve kârlar için ise gerçekleşme ihtimali yüksek de olsa herhangi bir tahakkuk işlemi yapılmaz, dipnotlarda açıklama yapılır.

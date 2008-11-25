@@ -1,0 +1,15 @@
+112 Kamu Kesimi Tahvil, Senet ve Bonoları Hesabı
+118 Diğer Menkul Kıymetler Hesabı
+119 Menkul Kıymetler Değer Düşüklüğü Karşılığı Hesabı (-)
+Hesap grubuna ilişkin işlemler
+MADDE 88 - (1) Menkul kıymetler; işletmelerce geçici bir süre elde tutulmak üzere edinilen kamu kesimi tahvil, senet ve bonoları, altın, gümüş, her türlü değerli maden ve taşlardan yapılmış bilezik, yüzük, kolye, küpe, iğne ve benzeri takı eşyaları, çeşitli maden ve taşlardan yapılmış, antik değeri olan ve menkul kıymet sayılan tabak, bardak, kupa, şamdan, fincan, tablo ve benzeri eşyalardan oluşur.
+(2) Kamu kesimi tahvil, senet ve bonoları ve diğer menkul kıymetler edinildiğinde alındı düzenlenir ve muhasebeleştirme belgesine eklenir. Alındıda menkul kıymetin cinsi, adedi, numarası, varsa ayarı, kupon adedi ve tutarı gibi tüm nitelikleri ayrıntılı olarak gösterilir.
+(3) Menkul kıymetler, veznedarlarca torba veya zarflar içerisinde vezne odasının uygun bir bölümünde saklanır.
+(4) Menkul kıymetler edinildiğinde alış bedeli üzerinden ilgili menkul kıymet hesabına borç, elden çıkarıldığında ise kayıtlı değeri üzerinden alacak kaydedilir.
+(5) Ancak tahvillerle birlikte tahsil edilebilir duruma gelmiş kuponlarında alınması durumunda kuponlar, bu kuponlar karşılığında tahsil edilecek faiz tutarı üzerinden 108 Diğer Hazır Değerler Hesabına kaydedilir. Vadesi gelmiş kupon bedelleri satın alma tutarından indirildikten sonra kalan tutar, tahvillerin alış değerini oluşturur.
+(6) Satılan menkul kıymetlerin satış bedeli ile alış bedeli arasındaki fark olumlu ise “645 Menkul Kıymet Satış Kârları Hesabına”, olumsuz ise “655 Menkul Kıymet Satış Zararları Hesabına” kaydedilir.
+(7) Kamu kesimi tahvil, senet ve bonoları satıldığında veya herhangi bir nedenle işletmenin mülkiyetinden çıktığında alış değeri üzerinden ilgili menkul kıymet hesabına alacak kaydedilir. Bunların alış değeri ile satış değeri arasındaki farkın, varsa işlemiş faiz gelirlerine karşılık gelen kısmı “642 Faiz Gelirleri Hesabı”na, kalanı da “645 Menkul Kıymet Satış Kârları Hesabı”na kaydedilir. Satış bedeli farkı işlemiş faizi karşılamadığı durumlarda; işlemiş faiz “642 Faiz Gelirleri Hesabı”na alınmakla beraber alış değeri ile satış değeri arasındaki olumsuz fark da “655 Menkul Kıymet Satış Zararları Hesabı”na kaydedilir.
+(8) Ana paranın geri ödemesi sırasında alınan menkul kıymetlerin faizi tahsil edildiğinde daha önce tahakkuk ettirilmiş gelir yoksa tamamı; tahakkuk yolu ile gelirlere alınmış kısım varsa aşan tutar “642 Faiz Gelirleri Hesabı”na kaydedilir.
+(9) Dönem sonu faiz ödemeli olan menkul kıymetlerde faiz tutarı menkul kıymetin kuponu karşılığında tahsil edildiğinde faizin varsa tahakkuku aşan kısmı, yoksa tamamı “642 Faiz Gelirleri Hesabı”na kaydedilir.
+(10) Alış işlemi nedeniyle ödenen giderler menkul kıymet alış bedeline eklenmez. Menkul kıymet satın alma giderleri “65 Diğer Faaliyetlerden Olağan Gider ve Zararlar” grubundaki ilgili gider hesabına kaydedilir.
+(11) Kamu kesimi tahvil, senet ve bonoları teminat olarak verildiğinde, bu değerlerin teminat olarak verildiğini gösteren bir alt hesaba aktarılır ve nazım hesaplarda izlenir.

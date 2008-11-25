@@ -1,0 +1,18 @@
+152 Mamuller Hesabı
+153 Ticari Mallar Hesabı
+157 Diğer Stoklar Hesabı
+158 Stok Değer Düşüklüğü Karşılığı Hesabı (-)
+159 Verilen Sipariş Avansları Hesabı
+Hesap grubuna ilişkin işlemler
+MADDE 126 - (1) Stoklarla ilgili olarak, Taşınır Mal Yönetmeliğinin ilgili hükümlerine ve aşağıdaki hükümlere göre işlem yapılır:
+(2) Stoklar, maliyet bedeliyle hesaplara alınır. Maliyet bedeline, stokların elde edilmesi ve depolanacağı yere kadar getirilmesi için yapılan faiz hariç her türlü giderler ilave edilir.
+(3) Bağış veya hibe olarak edinilen stoklar varsa bilinen değeri, yoksa ilgili mevzuatına göre değerlemesi yapıldıktan sonra tespit edilen değeri ile hesaplara alınır. Stoklar, kullanıldıklarında veya tüketildiklerinde ilgili hesaplardan çıkarılır.
+(4) İlk madde ve malzeme hesabında kayıtlı stoklardan yok olma, kırılma, bozulma veya eskime gibi nedenlerle kullanılamayacak veya tüketilemeyecek hâle gelenler, diğer stoklar hesabına aktarılır. Stokların miktar ve değerlerinde, kaybolma, çalınma, yanma, kırılma, bozulma gibi nedenlerle ortaya çıkan eksilmeler ilgili harcama biriminin taşınır kayıt ve kontrol yetkilisi ve harcama yetkilisince muhasebe birimine bildirilir. Bunun üzerine muhasebe birimlerince kayıtlar güncellenir.
+(5) Muhasebe birimleri, hizmet sunduğu birimlere ait stokları işletmeler itibarıyla kaydeder. Kullanılan veya tüketilen stoklara ilişkin bilgiler muhasebe birimlerine iletildiğinde kayıtlardan çıkarılır. Stokların miktar ve değerlerinde, kaybolma, çalınma, yanma, kırılma, bozulma gibi nedenlerle ortaya çıkan eksilmeler ilgili tahakkuk dairesinin mal sorumlusu ve harcama yetkilisince muhasebe birimine bildirilir. Bunun üzerine muhasebe birimlerince kayıtlar güncellenir.
+(6) Stokların elde edilmesinde iskonto ve başka indirimler yapılmışsa, stok maliyetine iskontodan sonraki net tutar alınır. Sonradan yapılan iskonto ve başka indirimler de fiyat indirimi niteliği taşıdığından ilgili stok hesabına alacak yazılarak maliyetten indirilir.
+(7) Stokların elde edinilme işlemleri tamamlandıktan sonra stokun şeklini veya bulunduğu yeri değiştirme işlemleri dışında, stoku elde bulundurmanın gerektirdiği giderler stokun maliyetine eklenmez.
+(8) Derhal harcanabilecek veya tüketilebilecek ilk madde ve malzemeler ile kullanıldığında tüketilen yiyecek maddeleri ve akaryakıt gibi değerini tamamen kaybeden eşya ve malzemeler ambar konusunu oluşturmaz. Ancak, satışı yapılana veya üretimde kullanılana kadar muhafaza edilmesi gereken ilk madde ve malzeme, mamul ve ticari mallar, muhasebe birimi işlemlerinde kullanılan bütün defter ve belgeler gibi varlıklar ambar konusunu oluşturur.
+(9) Satın alınan ya da işletmede elde edilen her çeşit madde, malzeme ve ürün “Taşınır İşlem Fişi” (Örnek:16) ile ambara alınır. Taşınır işlem fişlerinin bir nüshası ödeme emri belgesi ekinde muhasebe birimine gönderilir. Maddi duran varlıklar ambara sokulmadan doğrudan doğruya ilgili memur tarafından teslim alınır veya kullanılacağı birime teslim edilir ve ilgili maddi duran varlıklar hesabına kaydedilir.
+(10) Ambardan yapılacak bütün çıkışlar ilgili servislerce düzenlenecek “İhtiyaç Pusulası”na (Örnek:17) dayanılarak taşınır işlem fişi ile yapılır. Ambardan satış mağazasına veya kantine satılmak üzere mamul veya ticari mal göndermek de aynı usulle yapılır.
+(11) İşletmelerce üretilen mamullerin kendi tüketimlerinde kullanılması hâlinde, rayiç bedelleri üzerinden gelir, maliyet bedeli üzerinden gider kaydedilir.
+(12) Ambar konusu stok giriş ve çıkış kayıtları “Stok Hareketleri Defteri”nde (Örnek:18) izlenir. Bu Yönetmeliğin “15 Stoklar” bölümünde çeşitleri sayılan hesaplara göre bölümlere ayrılmak suretiyle tutulur.
