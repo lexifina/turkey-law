@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2008/secimehazirlik",
+  "list_number": "-",
+  "genelge_number": "13",
+  "decision_date": "2008-11-25",
+  "title": "Seçime Hazırlık Genelgesi",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1703/SecimeHazirlik.pdf",
+  "source_sha256": "48c71fcafde0e8dfbc1321afd59495968393454c3a3853d020c21951eac6e8be",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2008-11-25",
+  "law_text_complete": false
+}
