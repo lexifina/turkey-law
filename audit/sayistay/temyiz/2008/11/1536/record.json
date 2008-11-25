@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30487",
+  "decision_date": "2008-11-25",
+  "source_id": 1536,
+  "chamber": "5",
+  "file_number": "29715",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1536/",
+  "source_sha256": "8e30f502e0cd493c18bea7cf90b2faef0ca5dc22466f003fe7fab4301f1502aa",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
