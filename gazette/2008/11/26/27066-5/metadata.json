@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-11-26",
+  "issue": "27066",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2008/82)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081126-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081126.htm",
+  "index_sha256": "1187318165d1e4cf6065da24ffd5881c374a5aee17d0a66c3f1d8b28b6e601f2",
+  "index_header": "26 Kasım 2008 ... 27066 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
