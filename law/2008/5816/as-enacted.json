@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5816",
+  "year": 2008,
+  "title": "Kuzey Atlantik Antlaşmasına Arnavutluk Cumhuriyetinin Katılımına İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-11-27",
+  "gazette_issue": "27067",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081127-1.htm",
+  "source_sha256": "a03347f03541cd356870fd297a743ed250c3556027299f6c503c1fa49836e012",
+  "text_sha256": "4b464fc7821b941c471fc9c66f312eee314ede154eb77e3d9a229c87cbfa9a80",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/11/27/27067-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081127-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
