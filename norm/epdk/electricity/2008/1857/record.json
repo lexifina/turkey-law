@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1857",
+  "decision_date": "2008-11-27",
+  "title": "Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketi (TETAŞ)",
+  "resmi_gazete_date": "2008-12-06",
+  "resmi_gazete_number": "27076",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FIQEjFatG8k=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FIQEjFatG8k="
+  ],
+  "source_sha256": "a6de1eb61b8e25027ec7ce7dffb94a2f11fb73b1cf559ab21479f816a1975138",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-11-27",
+  "law_text_complete": false
+}
