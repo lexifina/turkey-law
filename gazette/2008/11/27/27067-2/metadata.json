@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-11-27",
+  "issue": "27067",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2008/14358 Türkiye Cumhuriyeti Tarafından Kuzey Kıbrıs Türk Cumhuriyeti’ne Sağlanan Krediye İlişkin Anlaşmanın Yürürlüğe Girmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081127-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081127.htm",
+  "index_sha256": "895e262cc2ac987ac4318ef8c3d5a47cceb554f9281de5015786cb108478ba49",
+  "index_header": "27 Kasım 2008 ... 27067 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
