@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.12562",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TAHSİLAT GENEL TEBLİĞİ SERİ: B SIRA NO: 4",
+  "number": "12562",
+  "path": "teblig/2008/12562",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12562&MevzuatTertip=5",
+  "source_sha256": "989b52d766c834084de4ede5e437ea8e39430ce523ca8eca73971b8444336016",
+  "source_bytes": 20961,
+  "published": "2008-10-30",
+  "gazette": "27039",
+  "in_force": "2008-11-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.-28/11/2008\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2008-11-28",
+      "R.G.-28/11/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1021,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
