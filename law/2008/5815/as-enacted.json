@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5815",
+  "year": 2008,
+  "title": "Kuzey Atlantik Antlaşmasına Hırvatistan Cumhuriyetinin Katılımına İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-11-28",
+  "gazette_issue": "27068",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081128-1.htm",
+  "source_sha256": "a48451d5ff39d09c4f3c87711f22b18453a66e0919fdb18968f2121a4cdfcd2e",
+  "text_sha256": "3427123e28233d011da0de0efead748e16c59669b43415206c3ce2b04ddea589",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/11/28/27068-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081128-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
