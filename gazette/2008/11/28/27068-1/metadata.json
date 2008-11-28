@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-11-28",
+  "issue": "27068",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "5815 Kuzey Atlantik Antlaşmasına Hırvatistan Cumhuriyetinin Katılımına İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081128-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081128.htm",
+  "index_sha256": "698ef2f8996152ff0cb4883b02c4f9d2540d5636eef211a1cbc763dc93fdc4e3",
+  "index_header": "28 Kasım 2008 ... 27068 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
