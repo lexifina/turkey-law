@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2008/15",
+  "list_number": "303",
+  "genelge_number": "15",
+  "decision_date": "2008-11-29",
+  "title": "5393 sayılı Kanun ve Yönetmeliğe Dayanılarak Mülki İdari Birimlerde Yapılacak Değişikliklerin 29 Mart 2009 Pazar Günü Yapılacak Mahalli İdareler Genel Seçimlerinde Dikkate Alınıp Alınmayacağı Hususunda Yüksek Seçim Kurulu'nun 2008/303 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1705/2008-15.pdf",
+  "source_sha256": "fb1f6272b7d1cc873ad5a690ffa7ea29f5c1acb313e98ad681c591459a691736",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2008-11-29",
+  "law_text_complete": false
+}
