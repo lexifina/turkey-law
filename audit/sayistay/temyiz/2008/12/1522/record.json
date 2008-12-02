@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30501",
+  "decision_date": "2008-12-02",
+  "source_id": 1522,
+  "chamber": "6",
+  "file_number": "29811",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1522/",
+  "source_sha256": "09e1fce0000a5223b119f42c37735fced7640a5b22fb4904ba89896fa3e817ae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
