@@ -1,0 +1,8 @@
+BİRİNCİ BÖLÜM
+Büyük Genel Kurul
+Büyük Genel Kurulun yapısı
+MADDE 11 – Büyük Genel Kurul, aşağıda belirtilen delegelerden meydana gelir:
+a) T.B.M.M. Başkanı, Başbakan, Genelkurmay Başkanı, Kara Kuvvetleri Komutanı, Deniz Kuvvetleri Komutanı, Hava Kuvvetleri Komutanı, Jandarma Genel Komutanı, Ankara Valisi, Ankara Büyükşehir Belediye Başkanı ve Türk Hava Kurumu Genel Başkanlığı yapanlar.
+b) Başbakanlıktan daire başkanı veya daha üst düzeyde bir delege, Savunma Sanayii Müsteşarlığından daire başkanı veya daha üst düzeyde bir delege, Hava Kuvvetleri Komutanlığı Kurmay Başkanı, Genelkurmay Harekat Başkanlığından iki delege, K.K.K.lığı Havacılık Daire Başkanlığından iki general veya şube müdürü düzeyinde delege, Dz.K.K. ve J.Gn.K.lığından birer delege, Hv.K.K.lığından muvazzaf veya emekli general ile şube müdürü düzeyinde toplam beş delege, Sosyal Yardımlaşma ve Dayanışma Genel Müdürü, Diyanet İşleri Başkanlığından, Türkiye Kızılay Derneğinden, Sosyal Hizmetler ve Çocuk Esirgeme Kurumundan birer delege, Milli Savunma, İçişleri, Dışişleri, Milli Eğitim, Tarım ve Köyişleri, Kültür ve Turizm ile Çevre ve Orman Bakanlıklarından daire başkanı veya daha üst düzeyde birer delege, TRT, D.H.M.İ., Sivil Havacılık, Posta ve Telgraf Teşkilatı ile Gençlik ve Spor Genel Müdürlüklerinden birer delege, mesleki ve teknik yönden havacılık eğitimi veren üniversitelerden birer delege, Muhtarlar Federasyonundan bir delege, Ankara’daki her üniversiteden ve GATA'dan öğretim üyesi olmak kaydıyla birer delege.
+c) THK Genel Başkanı, Genel Yönetim, Merkez Denetleme ve Merkez Disiplin Kurulu asıl üyeleri.
+d) THK şube başkanları ve 12 nci maddede belirtilen esaslara göre şube başkanları da dahil olmak üzere azami 600 kişiden oluşan ve şube genel kurullarınca seçilecek delegeler.
