@@ -1,0 +1,1 @@
+MADDE 52 – Şubelerin kapatılması halinde taşınır ve taşınmaz malları ile para ve hakları Türk Hava Kurumu Genel Merkezine, Türk Hava Kurumunun feshi halinde ise yukarıda sayılan maddi varlığı Hazineye intikal eder.
