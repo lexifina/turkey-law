@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-12-04",
+  "issue": "27074",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2008/14330 İstanbul İlinde Bazı Taşınmazların D-100 Karayolu Üzeri, Mimarsinan Kavşağı, Yol, Kavşak Uygulama İmar Planı Kapsamında Kalmaları Nedeniyle İstanbul Büyükşehir Belediyesi Tarafından Acele Kamulaştırılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081204-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081204.htm",
+  "index_sha256": "e07044411f5c6a11b24d9e7dcdb6808110fa7b9c4d093282f114fc65353ad916",
+  "index_header": "4 Aralık 2008 ... 27074 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
