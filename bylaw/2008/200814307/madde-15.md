@@ -1,0 +1,2 @@
+Yetersayı
+MADDE 15 – Büyük Genel Kurul, Tüzüğe göre katılma hakkı bulunan delegelerin en az yarısından bir fazlasının, tüzük değişikliği ile derneğin feshi halinde 2/3’sinin katılması ile toplanır. İlk toplantıda yeter sayı sağlanamaz ise ikinci toplantıda çoğunluk aranmaz. Ancak, bu ikinci toplantıya katılan delege sayısı, Genel Yönetim ve Merkez Denetleme Kurulları üye tam sayısının iki katından az olamaz.
