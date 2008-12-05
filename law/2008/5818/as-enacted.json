@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5818",
+  "year": 2008,
+  "title": "Zirai Mücadele ve Zirai Karantina Kanunu ile Tarım ve Kırsal Kalkınmayı Destekleme Kurumu Kuruluş ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-12-05",
+  "gazette_issue": "27075",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081205-5.htm",
+  "source_sha256": "d63697857361c7b5bf3cc4950b60bd0494790011bcd152ca1605b4d34aa6ee59",
+  "text_sha256": "1ff87b84e161f38da9c0aa64f9609457cc90794a42005392d7026793f2f72889",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/12/05/27075-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081205-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
