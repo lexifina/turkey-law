@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5812",
+  "year": 2008,
+  "title": "Kamu İhale Kanunu ile Kamu İhale Sözleşmeleri Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-12-05",
+  "gazette_issue": "27075",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081205-1.htm",
+  "source_sha256": "2a939db8dedd6406f0b2b8e86dce8f7e8dcc9193db3a9131ca214850b0739074",
+  "text_sha256": "4a924d4c4620c13d6eb240b2a72e29b5490b64c593154e60ff996acf6d0e323d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/12/05/27075-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081205-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
