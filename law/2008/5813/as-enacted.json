@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5813",
+  "year": 2008,
+  "title": "Türkiye İstatistik Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-12-05",
+  "gazette_issue": "27075",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081205-2.htm",
+  "source_sha256": "0654cf009d354621a680b2ea5fac12c2b1db9eab5b162093493a9d1273a5e262",
+  "text_sha256": "a5caf7f147981af72b61f612cea86694dd23c33b19aaec0b0c4e163cf554ad7f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/12/05/27075-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081205-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
