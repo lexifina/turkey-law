@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5814",
+  "year": 2008,
+  "title": "Avrupa Topluluğunun Rekabet Edebilirlik ve Yenilik Çerçeve Programının (2007-2013) Girişimcilik ve Yenilik Özel Programına Türkiye Cumhuriyetinin Katılımı Konusunda Türkiye Cumhuriyeti ile Avrupa Topluluğu Arasında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-12-05",
+  "gazette_issue": "27075",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081205-3.htm",
+  "source_sha256": "e1daf4897af2dfe279356d19cbdf54b5d20268555eeba02d11f574ec1e6dc8ad",
+  "text_sha256": "55f07a0aabee0d1d188993ad016a832a380893477a54b2e61971251a6b5707ac",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/12/05/27075-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081205-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
