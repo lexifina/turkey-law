@@ -3,7 +3,7 @@ MADDE 20 - Lisans sahibi kişiler hakkında, bu Kanuna, bu Kanuna göre yürürl
 Kaçak veya menşei belli olmayan ürün ikmal edenlerin lisansı iptal edilir. Teknik düzenlemelere uygun olmayan ürün ikmal edenler zararı tazmin etmekle yükümlüdür.
 Akaryakıt istasyonu kapsamında sürdürülen bayilik faaliyetlerinin, bu Kanuna veya bu Kanuna istinaden çıkarılan düzenlemelere aykırılığının Kurumca tespiti halinde, anılan istasyonda yapılan akaryakıt ikmali Kurumca geçici veya süresiz olarak mühürleme suretiyle durdurulur. İptale veya mühürlemeye ilişkin usul ve esaslar Kurumca çıkarılacak yönetmeliklerde düzenlenir.
 ––––––––––––––––––––––
-(1) Bu maddede yer alan para cezalarının 2008 yılında uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
+(1) Bu maddede yer alan para cezalarının 2009 yılında uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
 Lisans iptaline veya mühürlemeye rağmen, faaliyetlerini sürdüren gerçek kişiler ile tüzel kişilerin yetkilileri hakkında, Türk Ceza Kanununun 203 üncü hükümleri uygulanır. (1)
 Bu Kanuna göre yapılan talep veya işlemlerde, kanuna karşı hile veya gerçek dışıbeyanda bulunulduğunun tespiti halinde lisans iptal olunur.
 Teknik düzenlemelere uygun olmayan petrol ikmali nedeniyle kullanıcıya verilen zarar ve hasarların tazmini hususu, kullanıcıların muhatap olduğu lisans sahibi gerçek ve tüzel kişilerin lisanslarında ve sözleşmelerinde yer alır. Uygulamaya ilişkin usul ve esaslar çıkarılacak yönetmelikte belirlenir.

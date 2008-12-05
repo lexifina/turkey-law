@@ -1,6 +1,6 @@
 İKİNCİ BÖLÜM
 İdarî Para Cezaları, Yaptırımlar, Ön Araştırma, Soruşturma, Dava Hakkı ve Yönetmelik
-İdarî para cezaları
+İdarî para cezaları (1)
 MADDE 16 — (Değişik: 23/1/2008-5728/569 md.)
 Bu Kanuna göre idarî para cezalarının veya idarî yaptırımların uygulanması, bu Kanunun diğer hükümlerinin uygulanmasına engel oluşturmaz. Bu Kanuna göre verilen ceza ve tedbirler diğer kanunlar gereği yapılacak işlemleri engellemez.
 Bu Kanuna göre;

@@ -1,8 +1,10 @@
 Soruşturma ve Dava Hakkı ile Tarifeler
-Yaptırımlar ve yaptırımların uygulanmasındaki usul
+Yaptırımlar ve yaptırımların uygulanmasındaki usul (1)
 MADDE 9 – (Değişik: 23/1/2008-5728/491 md.)
 Kurul, doğal gaz piyasasında faaliyet gösteren gerçek veya tüzel kişilere yapacağı yazılı ihtara rağmen mevzuata aykırı durumlarını devam ettirenlere aşağıdaki yaptırım ve cezaları uygular:
 a) Kurul tarafından bilgi isteme veya yerinde inceleme hallerinde; istenen bilgilerin yanlış, eksik veya yanıltıcı olarak verildiğinin saptanması veya hiç bilgi verilmemesi ya da yerinde inceleme imkânının verilmemesi hallerinde, üçyüzellibin Türk Lirası idarî para cezası verilir ve yedi gün içinde bilgilerin doğru olarak verilmesi veya inceleme imkânının sağlanması ihtar edilir. Ancak, kolay giderilebilecek kusurlu haller için ilgili gerçek ve tüzel kişilerden belgelerin doğru olarak verilmesi veya inceleme imkânının sağlanması istenir.
+––––––––––––––––––––––
+(1) Bu maddede yer alan 1/1/2009 tarihinden itibaren uygulanması ile ilgili olarak Kanunun sonundaki Tabloya bakınız.
 b) Bu Kanun hükümlerine ve çıkarılan yönetmelik, talimat ve tebliğlere aykırı hareket edildiğinin saptanması halinde, üçyüzbin Türk Lirası idarî para cezası verilir ve otuz gün içinde aykırılığın giderilmesi ihtar edilir.
 c) Lisans veya sertifika genel esasları ve yükümlülüklerinden herhangi birisinin yerine getirilmediğinin saptanması halinde, üçyüzellibin Türk Lirası idarî para cezası verilir ve otuz gün içinde düzeltilmesi ihtar edilir.
 d) Lisans veya sertifika müracaatında ve bunların verilmesinde aranan şartlar konusunda, gerçek dışı belge sunulması veya yanıltıcı bilgi verilmesi veya lisans veya sertifikada öngörülen hususları etkileyecek şartlardaki değişikliklerin Kurula bildirilmemesi halinde, beşyüzbin Türk Lirası idarî para cezası verilir ve otuz gün içinde düzeltilmesi ihtar edilir.
