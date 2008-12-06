@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5820",
+  "year": 2008,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Birleşmiş Milletler (BM) Gıda ve Tarım Örgütü (GTÖ) Arasında GTÖ Orta Asya Alt Bölge Ofisi Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-12-06",
+  "gazette_issue": "27076",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081206-1.htm",
+  "source_sha256": "6c3977c8fc16cec73ef69e3e4c5b918c297f6a155b67ccaa8ab4520f1210c82d",
+  "text_sha256": "70844883ce834dc49a422c827cc13eeb3d86cee6268734ca8cd651ce192a7318",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/12/06/27076-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081206-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
