@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5824",
+  "year": 2008,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Avrupa Toplulukları Komisyonu Arasında Katılım Öncesi Yardım Aracı (IPA) ile Temin Edilen Yardımın Uygulanması Çerçevesinde Türkiye Cumhuriyetine Sağlanan Avrupa Topluluğu Malî Yardımlarıyla İlgili İşbirliği Kuralları Hakkında Çerçeve Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-12-07",
+  "gazette_issue": "27077",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081207-1.htm",
+  "source_sha256": "28056675067abd2cbc5bfb611ba4fd963a5b3b15c5975268526c19fa8d6d42fa",
+  "text_sha256": "992fd619f3adfdf47bf7dbf79832c71c4177c5a5f1a085c7b82c02415f10ebe9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/12/07/27077-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081207-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
