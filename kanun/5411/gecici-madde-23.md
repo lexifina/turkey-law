@@ -1,1 +1,1 @@
-GEÇİCİ MADDE 23 — (İptal: Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.: 2007/33 sayılı Kararı ile.)
+GEÇİCİ MADDE 23 — (Mülga: 31/5/2006-5510/106 md.)
