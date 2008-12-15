@@ -1,3 +1,4 @@
+Fonun bütçesi
 MADDE 129 — (Değişik: 8/3/2006-5472/1 md.)
 Fon giderlerinin, Fon gelirleri ile karşılanması esastır. Fonun bütçe yılı, takvim yılıdır.
 Fon, bu Kanunda belirtilen usûl ve esaslar çerçevesinde kendisine tahsis edilen kaynaklarını görev ve yetkilerinin gerektirdiği ölçüde, serbestçe kullanır.
