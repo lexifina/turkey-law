@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30518",
+  "decision_date": "2008-12-16",
+  "source_id": 2053,
+  "chamber": "7",
+  "file_number": "29918",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2053/",
+  "source_sha256": "1531cc58b40fe1fa3b140898b8709e3ae6207b6196a5aa6e03b74a6005393932",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
