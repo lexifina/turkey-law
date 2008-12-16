@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 23,
+  "legislative_year": 3,
+  "sitting": 28,
+  "sitting_date": "2008-12-16",
+  "listed_date": "16 Aralık 2008 Salı",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/23/3/28/3dffcb70-e3e8-46c6-b7b0-d55a824abd18.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=e7faa63e-48bd-494c-afbe-0185ceac72d2",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=23&YasamaYili=3",
+  "source_sha256": "ce529026b8c8e98e9801fc916dc375478f7e62693814bd301aa0694f712bbb76",
+  "source_bytes": 913994,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
