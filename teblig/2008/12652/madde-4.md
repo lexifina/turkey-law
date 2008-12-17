@@ -1,0 +1,2 @@
+Mevcut önlem
+MADDE 4 – (1) İthalatta Haksız Rekabetin Önlenmesine İlişkin 2003/23 sayılı Tebliğ (2003/23 sayılı Tebliğ) kapsamında 7315.81 ve 7315.82 gümrük tarife istatistik pozisyonları altında kayıtlı sırasıyla “demir veya çelikten destekli halkalı zincirler” ile “demir veya çelikten kaynaklı halkalı zincirler” için ÇHC’ye yönelik sırasıyla; 331 ABD Doları/Ton ve 403 ABD Doları/Ton nispetlerinde ülke temelinde uygulanan dampinge karşı önlem mevcuttur.
