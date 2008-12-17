@@ -1,0 +1,3 @@
+Karar ve işlemler
+MADDE 8 – (1) Yapılan inceleme neticesinde; önleme ve şikayete konu ürünün ÇHC menşeli ithalatına yönelik bir nihai gözden geçirme soruşturması, Endonezya ve Hong Kong menşeli ithalatına yönelik damping soruşturması açılabilmesi için yeterli delillerin bulunduğu anlaşıldığından; İthalatta Haksız Rekabeti Değerlendirme Kurulu tarafından ÇHC menşeli söz konusu madde için Yönetmelik’in 35’inci maddesi çerçevesinde nihai gözden geçirme soruşturması, Endonezya ve Hong Kong menşeli söz konusu madde için Yönetmelik’in 20’nci maddesi çerçevesinde damping soruşturması açılmasına karar verilmiştir.
+(2) Soruşturmalar, Dış Ticaret Müsteşarlığı İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülecektir.

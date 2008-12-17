@@ -1,0 +1,8 @@
+Zarar, nedensellik ve zararın devamı iddiaları
+MADDE 6 – (1) ÇHC, Endonezya ve Hong Kong’dan ithal edilen şikâyet konusu ürünün fiyatları yerli üreticinin fiyatlarının çok altındadır. Yerli üretim dalı ithalatla rekabet edebilmek amacıyla maliyet altında satış yapmaktadır.
+(2) 2004 - 2008 (6 ay) döneminde Endonezya’dan yapılan ithalat sürekli ve hızlı biçimde artmaktadır. 2008’e kadar Türkiye’ye bu üründe herhangi bir ihracatı bulunmayan Hong Kong ise 2008’de Türkiye pazarına girmiştir ve Hong Kong menşeli ithalat hızla artmaktadır.
+(3) Endonezya menşeli ithalatın yurtiçi pazar payı 2006’da ve özellikle 2008 (6 ay)’de hızla artmıştır. Yerli üretim dalının ise pazar payı 2008 (6 ay)’de düşmüştür.
+(4) 2004 - 2008 (6 ay) döneminde yerli üretim dalının ürün karı sürekli olarak negatif seyretmiştir.
+(5) 2008 (6 ay)’de yerli üretim dalının göstergelerinde önemli bozulmalar meydana gelmiş; iç satışlar düşmüş, ürün zararında önemli bir artış meydana gelmiş, birim maliyetlerde düşüş olmasına karşın birim satış fiyatlarında bu orandan daha fazla bir düşüş gerçekleşmiştir.
+(6) Başvuru aşamasında sunulan deliller ve ithalata ilişkin resmi istatistikler esas alınarak yapılan tespitler ışığında, şikâyete konu Endonezya ve Hong Kong menşeli, dampingli olduğu iddia edilen ithalatın yerli sanayinin ekonomik göstergelerinde olumsuzluklara yol açtığı değerlendirilmiştir.
+(7) ÇHC’nin gösterge niteliğindeki damping marjı ve fiyat kırılması oranlarının yüksekliği, önlemin kalkması halinde dampingli ithalatın artarak devam etmesinin ve istatistiki verilerin fiyat bazlı rekabetin ön planda olduğuna işaret ettiği piyasada yerli üretim dalında zararın devam etmesinin muhtemel olduğunu ortaya koymaktadır.

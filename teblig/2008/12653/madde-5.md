@@ -1,0 +1,5 @@
+Damping iddiası
+MADDE 5 – (1) ÇHC piyasa ekonomisi uygulamayan ülke olarak kabul edildiğinden, Endonezya ve Hong Kong için de tüketime konu olan benzer mal için normal ticari işlemler sonucunda fiilen ödenmiş veya ödenmesi gereken karşılaştırılabilir iç piyasa satış fiyatları temin edilemediğinden, normal değer başvuru sahibi yerli üreticilerin sağladığı veriler esasında oluşturulmuş normal değer yöntemi ile tespit edilmiştir.
+(2) İhraç fiyatı hesaplanırken şikâyet konusu ürünün ilgili ülkelerden Türkiye’ye gerçekleştirilen ithalatına ilişkin TÜİK istatistik verilerinden elde edilen ortalama CIF fiyat esas alınmıştır. Tespit edilen CIF değer üzerinden navlun ve sigorta giderleri düşülmek suretiyle FOB ihraç fiyatına ulaşılmıştır.
+(3) Normal değer ile ihraç fiyatının aynı ticari aşamada karşılaştırılmasını teminen FOB ihraç fiyatı ihracatçıların lehine olmak üzere, fabrika çıkış aşaması fiyat olarak kabul edilmiştir.
+(4) Bu şekilde hesaplanan damping marjlarının önemli oranlarda olduğu görülmüştür.
