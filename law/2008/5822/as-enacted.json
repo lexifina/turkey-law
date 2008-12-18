@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5822",
+  "year": 2008,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Suudi Arabistan Krallığı Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-12-18",
+  "gazette_issue": "27084",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081218-2.htm",
+  "source_sha256": "87d5f170f93f7decd7b8b9f832e03cfe902fe30be0bb72d2a2e2e0ab81bdd016",
+  "text_sha256": "c8b52ac5e5fdb0b6d9a65b23bba6d53b331ce35476b4f9ce60ead20c7f4cb48a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/12/18/27084-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081218-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
