@@ -1,0 +1,3 @@
+Fiyat karşılaştırması
+MADDE 11 – (1) Normal değerle ihraç fiyatlarını adil biçimde karşılaştırmak amacıyla, ihraç fiyatının belirlenmesi aşamasında, mevcut veriler çerçevesinde navlun ve sigorta giderleri için ithalatçı faturaları ve diğer kaynaklardan elde edilen veriler kullanılarak ayarlama yapılmıştır.
+(2) Üretici/ihracatçıların lehine olmak üzere, damping marjı hesaplanırken FOB bazda olan ihraç fiyatını fabrika çıkış aşamasına getirmek için ayrıca bir ayarlama yapılmamıştır. Normal değer için fabrika çıkış aşamasında oluşan fiyat esas alınarak, karşılaştırmanın aynı aşamada yapıldığı kabul edilmiştir.

@@ -1,0 +1,4 @@
+İlgili tarafların bilgilendirilmesi ve dinlenmesi
+MADDE 5 – (1) Soruşturma açılmasını müteakip, ABD ve Kanada’da yerleşik bilinen üretici/ihracatçılara ve ayrıca anılan ülkede yerleşik diğer üretici/ihracatçılara iletilebilmesini teminen adı geçen ülkelerin Ankara Büyükelçiliklerine şikâyetin gizli olmayan özeti ve açılış tebliğinin birer örneği gönderilmiştir.
+(2) Tarafların soruşturma boyunca ortaya koyduğu yazılı görüşlerden nesnel ve konuyla ilgili olanlar çalışmalarda dikkate alınmıştır. Bunlara işbu Tebliğin içerisinde yeri geldiğinde cevap verilmiştir.
+(3) Soruşturma sırasında ilgili taraflardan gelen dinleme toplantısı taleplerinin tamamı karşılanmış olup, ayrıca yerli üretici ve ithalatçıların bir arada yer aldığı ve kendilerine soruşturma ile ilgili görüşlerini sunma imkânı veren bir kamu dinleme toplantısı da düzenlenmiştir.

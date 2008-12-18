@@ -1,0 +1,2 @@
+Normal değer
+MADDE 9 – (1) Soruşturma konusu ülkelerde yerleşik firmalar işbirliğinde bulunmadığından, normal değer belirlemesi Yönetmelik’in 26 ncı maddesi hükmü uyarınca eldeki mevcut veriler çerçevesinde, Türkiye’de benzer malın birim imalat maliyetine genel, idari, satış ve finansman giderleri ile makul bir karın eklenmesiyle oluşturulan değer, normal değer olarak alınmıştır. Mezkur yöntem, adil karşılaştırmaya esas teşkil edebilecek nitelikte başka veri bulunmaması nedeniyle tercih edilmiştir.
