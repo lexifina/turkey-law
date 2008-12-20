@@ -1,0 +1,1 @@
+MADDE 1 – İstanbul’da kurulu İstanbul Elektrik-Elektronik ve Makina Sanayi Mamulleri İhracatçıları Birliği’nin adı “İstanbul Elektrik-Elektronik, Makine ve Bilişim İhracatçıları Birliği” olarak değiştirilmiştir.

@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12664",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İSTANBUL ELEKTRİK-ELEKTRONİK VE MAKİNA SANAYİ MAMULLERİ İHRACATÇILARI BİRLİĞİ ADININ DEĞİŞTİRİLMESİNE DAİR TEBLİĞ (TEBLİĞ NO: İHRACAT 2008/17)",
+  "number": "12664",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2008/12664",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12664&MevzuatTertip=5",
+  "source_sha256": "17133c09576d0a1ccd670d2741b4f75a31818f558197ae6d11b37bca72f020b4",
+  "source_bytes": 5987,
+  "published": "2008-12-20",
+  "gazette": "27086",
+  "in_force": "2008-12-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.12.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 61,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
