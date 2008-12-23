@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.12671",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 35)",
+  "number": "12671",
+  "path": "teblig/2008/12671",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12671&MevzuatTertip=5",
+  "source_sha256": "706e8ec06b8390e0ca34663cdb8982a79779e1b54b0c355dacca4f89152f4b01",
+  "source_bytes": 42191,
+  "published": "2008-12-23",
+  "gazette": "27089",
+  "in_force": "2008-12-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.12.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 652,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
