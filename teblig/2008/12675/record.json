@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.12675",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 57)",
+  "number": "12675",
+  "path": "teblig/2008/12675",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12675&MevzuatTertip=5",
+  "source_sha256": "334728189b2e889492c017a7bbcd79c62cdad0acbb5fb860d19c6e0dd07b9090",
+  "source_bytes": 7788,
+  "published": "2008-12-23",
+  "gazette": "27089",
+  "in_force": "2008-12-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.12.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 188,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
