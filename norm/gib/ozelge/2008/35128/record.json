@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.63/6342-998/122816",
+  "source_id": 35128,
+  "date": "2008-12-23",
+  "title": "Anonim, eshamlı komandit ve limited şirketlerin birleşme nedeniyle infisah eden şirketler adına birleşme tarihinden önce düzenlenen kağıtların içeriğinde bir değişiklik olmaksızın birleşilen şirket adına yeniden düzenlenmesi halinde yapılacak işlemlerin h",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35128",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "e5bff973ece9511db07e2c6e5f8fc986f6db3060f850133105b2274d39a0ec74",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
