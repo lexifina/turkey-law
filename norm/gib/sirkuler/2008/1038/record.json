@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "HK-8/2008-2",
+  "source_id": 1038,
+  "date": "2008-12-24",
+  "title": "Karayolları Trafik Muayene İstasyonlarında Yapılacak Araç Muayenelerinde Alınacak Harçlar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/sirkuler/1038",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "44193133927876df5f076ada190511ceab858ab21f5350ea90ca43c77533102f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
