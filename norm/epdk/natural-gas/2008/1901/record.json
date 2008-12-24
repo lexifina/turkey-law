@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1901",
+  "decision_date": "2008-12-24",
+  "title": "Doğal gaz piyasası iletim ve sevkiyat kontrolüne ait tarifeler hakkında",
+  "resmi_gazete_date": "2008-12-30",
+  "resmi_gazete_number": "27096",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+K03/UPvXqk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+K03/UPvXqk="
+  ],
+  "source_sha256": "8b64cbfdaaae4dfe1bc98092a39c58618a5bf4303694e3f37bffac99622ea77b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-12-24",
+  "law_text_complete": false
+}
