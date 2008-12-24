@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "1897/14",
+  "decision_date": "2008-12-24",
+  "title": "TOTAL- ALİAĞA TESİSİ DEPOLAMA TARİFESİ",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MU6cv3YFyDY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MU6cv3YFyDY="
+  ],
+  "source_sha256": "f7bf0e04e3f3996da700e2c06ac962d4cceefa71fa297d4958465fa4e74f5b2f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-12-24",
+  "law_text_complete": false
+}
