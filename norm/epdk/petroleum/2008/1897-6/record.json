@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "1897/6",
+  "decision_date": "2008-12-24",
+  "title": "HABAŞ PETROL ÜRÜNLERİ SANAYİ VE TİCARET A.Ş",
+  "categories": [
+    "Petrol Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Z1zk1mhwgtM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Z1zk1mhwgtM="
+  ],
+  "source_sha256": "32f704cc3f5f5de44b129cf2f2f260fbc98e91b71fc840d92aacbd3c90cce58c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14725,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-12-24",
+  "law_text_complete": false
+}
