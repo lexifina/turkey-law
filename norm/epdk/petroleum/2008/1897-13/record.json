@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "1897/13",
+  "decision_date": "2008-12-24",
+  "title": "ATAŞ - ANADOLU TASFİYEHANESİ LİMAN TESİSİ DEPOLAMA TARİFESİ",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zPHoeUx4t6c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zPHoeUx4t6c="
+  ],
+  "source_sha256": "7a79e39b8c10d03344b0e255f6e3b5b84a7308fff22f3f07d5551a0d2d47da8c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-12-24",
+  "law_text_complete": false
+}
