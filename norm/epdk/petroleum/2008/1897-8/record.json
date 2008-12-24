@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "1897/8",
+  "decision_date": "2008-12-24",
+  "title": "SHELL & TURCAS -KÖRFEZ TESİSİ İLETİM TARİFESİ",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3trOgaDZoaM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3trOgaDZoaM="
+  ],
+  "source_sha256": "59fb3413039f1cd40a830fe1480b94622497369b92ad6077691ce2a682e071a7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-12-24",
+  "law_text_complete": false
+}
