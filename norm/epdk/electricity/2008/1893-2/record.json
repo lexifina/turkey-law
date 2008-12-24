@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1893-2",
+  "decision_date": "2008-12-24",
+  "title": "Türkiye Ortalama Elektrik Toptan Satış Fiyatı (2009'de geçerli olacaktır.)",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mdjC0v3ixeI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mdjC0v3ixeI="
+  ],
+  "source_sha256": "44b0b122bfc7c4e9b5c301c056ce894c6c0726d3fadfb9842bcc8bfe2cd1a72d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-12-24",
+  "law_text_complete": false
+}
