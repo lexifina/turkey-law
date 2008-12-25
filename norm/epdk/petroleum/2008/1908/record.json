@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "1908",
+  "decision_date": "2008-12-25",
+  "title": "Ham Petrol, Akaryakıt, İhrakiye, Madeni Yağ, Baz Yağ ve Petrolle İlişkili Maddelere Dair Kararı (Mülga)",
+  "resmi_gazete_date": "2008-12-31",
+  "resmi_gazete_number": "27097",
+  "categories": [
+    "Ham Petrol, Akaryakıt, İhrakiye, Madeni Yağ, Baz Yağ ve Petrolle İlişkili Maddeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vXPVN5M2DTA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vXPVN5M2DTA="
+  ],
+  "source_sha256": "0d94c4d47e6aadd1177412f2989698bd0db55f49ffe192b506715f34dba343ce",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4962,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-12-25",
+  "law_text_complete": false
+}
