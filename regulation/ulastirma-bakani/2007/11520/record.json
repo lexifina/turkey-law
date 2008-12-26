@@ -1,0 +1,41 @@
+{
+  "source_id": "7.5.11520",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KIYI VE LİMAN YAPILARI, DEMİRYOLLARI, HAVA MEYDANLARI İNŞAATLARINA İLİŞKİN DEPREM TEKNİK YÖNETMELİĞİ",
+  "number": "11520",
+  "issuer": "Ulaştırma Bakanı",
+  "issuer_slug": "ulastirma-bakani",
+  "path": "regulation/ulastirma-bakani/2007/11520",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11520&MevzuatTertip=5",
+  "source_sha256": "6c7d645e1f8ecb8805cf30f6e698917b10e3369c8934ee8b352352c29a3562b4",
+  "source_bytes": 17632,
+  "published": "2007-08-18",
+  "gazette": "26617",
+  "in_force": "2008-12-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"26/12/2008\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2008-12-26",
+      "26/12/2008",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/9/2008 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 238,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11520-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

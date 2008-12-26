@@ -1,0 +1,3 @@
+Uygulanacak Esaslar
+MADDE 3 – (1) Kıyı-liman yapıları, demiryolu yapıları ve hava meydanı yapılarının depreme dayanıklı tasarımı ve deprem performanslarının değerlendirilmesi için bu Yönetmeliğin ekinde yer alan Kıyı ve Liman Yapıları, Demiryolları, Hava Meydanları İnşaatlarına İlişkin Deprem Teknik Esasları uygulanır.
+(2) Kıyı ve Liman Yapıları, Demiryolları, Hava Meydanları İnşaatlarına İlişkin Deprem Teknik Esasları; Ulaştırma Bakanlığı tarafından yayımlanan "Kıyı Yapıları ve Limanlar Planlama ve Tasarım Teknik Esasları", "Demiryolları Planlama ve Tasarım Teknik Esasları", "Hava Meydanları Planlama ve Tasarım Teknik Esasları" ve "Geoteknik Tasarım Esasları" ile birlikte kullanılır.
