@@ -1,0 +1,78 @@
+Kamu Görevlileri Etik Kurulundan: 
+             Dosya Numarası     : 2008/ 97 
+             Başvuru Tarihi        : 02/10/2008 
+             Karar Tarihi            : 26/12/2008 
+             Karar Numarası      : 2008/206 
+             A. BAŞVURANLAR 
+             1 - … 
+             2 - … 
+             B. HAKKINDA İNCELEME YAPILAN KAMU GÖREVLİSİ 
+             ..., ... Büyükşehir Belediye Başkanı 
+             C. RAPORTÖR 
+…,  
+             D. İDDİALARIN ÖZETİ 
+             ... Büyükşehir Belediye Başkanı ...’ın eşi ... ...’a ait ... İli Merkez ... İlçesinde bulunan 5788 ada, 9 parsel no.lu ve 
+11.260 m² yüzölçümlü arsa ile ilgili olarak ... Büyükşehir Belediye Meclisi’nin 19/11/2007 tarih ve 198 sayılı kararı ile 
+1/1000 ölçekli Uygulama İmar Planında değişiklik yapılarak, anılan parselin bulunduğu alanın mesken bölgesinden çıkarılıp 
+ticaret alanına dahil edildiği, inşaat taban alanının 0,40’tan 0,60’a çıkarıldığı, bu değişiklikle arsa sahibine haksız kazanç 
+sağlandığı, bu durumun etik kurallara aykırı olduğu iddiaları ile e-posta yolu ile Kurulumuza başvuruda bulunulmuştur. 
+             E. İNCELEME 
+             Raportör tarafından hazırlanan raporda, başvurunun usul yönünden ilgili Kanun ve Yönetmeliğe uygun olduğuna 
+ilişkin görüş değerlendirilerek 4/12/2008 tarihinde konunun esastan incelenmesine geçilmiştir. 
+             Dosya üzerinde ve mahallinde yapılan inceleme sonucunda temin edilen bilgi ve belgeler çerçevesinde; ... 
+Büyükşehir Belediye Meclisinin 1/1000 ölçekli uygulama imar planının değiştirilmesine ilişkin 19/11/2007 tarih ve 198 sayılı 
+kararı ile ... ...’ın arsasının da bulunduğu alanın, mesken alanından çıkarılıp ticaret alanına dahil edildiği, ayrıca inşaat taban 
+alanının 0.40’tan 0.60’a çıkartıldığı, bu değişiklikle o bölgedeki taşınmazlara yeni imkanlar tanındığı ve ilgili Büyükşehir 
+Belediye Meclisi toplantısına Büyükşehir Belediye Başkanı ...’ın katıldığı ve anılan kararda imzasının bulunduğu 
+anlaşılmıştır. 
+             Söz konusu iddianın, bilgi ve belgelere dayanılarak yapılan değerlendirilmesi sonucunda, ... Büyükşehir Belediye 
+Başkanı ...’ın savunmasının istenmesine karar verilmiştir. 
+             F. SAVUNMANIN ÖZETİ 
+             ... Büyükşehir Belediye Başkanı ..., süresi içinde gönderdiği yazılı savunmada; imar planı değişikliğinde etik 
+kurallara aykırılık bulunmadığını, plan değişikliğinin sadece eşine ait parsele ilişkin olmayıp 5 kilometrelik şeridi ve 338.000 
+m² alanı kapsadığını, planla getirilen imkanlardan diğer parsel sahiplerinin de yararlanabileceğini, ayrıca söz konusu imar 
+planı değişikliğine ilişkin Büyükşehir Belediye Meclisinin ilgili toplantısına ve kararına katılmasında, plan değişikliğinin 
+büyük bir alanı kapsaması nedeniyle hukuki sakınca bulunmadığını belirtmiştir. 
+KARAR 
+             Dosyanın incelenmesinden, ... Büyükşehir Belediye Meclisinin 1/1000 ölçekli uygulama imar planının 
+değiştirilmesine ilişkin 19/11/2007 tarih ve 198 sayılı kararı ile ... ...’ın arsasının da bulunduğu alanın, mesken alanından 
+çıkarılıp ticaret alanına dahil edildiği, ayrıca inşaat taban alanının 0.40’tan 0.60’a çıkartıldığı, söz konusu alan 5 kilometrelik 
+bir şeridi ve 338.000 m2 lik bir alanı kapsamakta ise de, mahallinde yapılan incelemede tespit edildiği üzere düzenlenen 
+alandaki birkaç parsel hariç mesken alanı olarak 10-12 katlı yapılaşmanın oluştuğu, bu değişiklikle o bölgedeki taşınmazlara 
+yeni imkanlar tanındığı ve ilgili Büyükşehir Belediye Meclisi toplantısına Büyükşehir Belediye Başkanı ......’ın katıldığı ve 
+anılan kararda imzasının bulunduğu anlaşılmıştır. 
+             5393 Sayılı Belediye Kanunu’nun “Başkan ve Meclis üyelerinin görüşmelere katılamayacağı durumlar” başlıklı 27. 
+maddesinde; “Belediye başkanı ve meclis üyeleri, münhasıran kendileri, ikinci derece dahil kan ve kayın hısımları ve 
+evlatlıkları ile ilgili işlerin görüşüldüğü meclis toplantılarına katılamazlar” hükmü yer almıştır. 
+             Benzer bir hüküm, 5216 sayılı Büyükşehir Belediyesi Kanunu’nda yok ise de, Kanun’un Büyükşehir Belediye 
+Meclisi’ne ilişkin 12. maddesinin üçüncü fıkrası ile Büyükşehir Belediye Meclisi’nin çalışma usul ve esaslarına ilişkin diğer 
+hususlarda Belediye Kanunu hükümlerinin uygulanacağına gönderme yapılmıştır. 
+             Bu gönderme uyarınca Belediye Kanunu’nun 27. maddesindeki yasaklayıcı hüküm Büyükşehir Belediye Meclisi 
+başkan ve üyeleri için de geçerlidir. Kanun Koyucu bu hüküm ile belediye meclis kararlarının hiçbir etki altında 
+kalınmaksızın, objektif ve tarafsız bir şekilde alınmasını sağlamayı amaçlamıştır. 
+             Bu durumda ...’ın, eşine ait taşınmazı da kapsayan imar planı değişikliğinin görüşüldüğü toplantıya katılmaması 
+gerekirken, aksine davranışı Kanun’un yukarıda anılan hükmüne açık bir aykırılık teşkil etmektedir. 
+             5176 sayılı Kanun’un 5. maddesinin verdiği açık yetkiye istinaden çıkarılan Kamu Görevlileri Etik Davranış İlkeleri 
+ile Başvuru Usul ve Esasları Hakkında Yönetmelik’in ikinci bölümünde “Etik Davranış İlkeleri” belirlenmiş olup, “Dürüstlük 
+ve tarafsızlık” ilkesini düzenleyen 9. maddesinin birinci fıkrasında, kamu görevlilerinin tüm eylem ve işlemlerinde yasallık, 
+adalet, eşitlik ve dürüstlük ilkeleri doğrultusunda hareket edecekleri, ikinci fıkrasında da, “Kamu görevlilerinin, takdir 
+yetkilerini, kamu yararı ve hizmet gerekleri doğrultusunda, her türlü keyfilikten uzak, tarafsızlık ve eşitlik ilkelerine uygun 
+olarak kullanacakları” düzenlenmiştir. 
+             Yönetmelik’in “Çıkar çatışmasından kaçınma” başlıklı 13. maddesinde ise; “Çıkar çatışması; kamu görevlilerinin 
+görevlerini tarafsız ve objektif şekilde icra etmelerini etkileyen ya da etkiliyormuş gibi gözüken ve kendilerine, yakınlarına, 
+arkadaşlarına ya da ilişkide bulunduğu kişi ya da kuruluşlara sağlanan her türlü menfaati ve onlarla ilgili mali ya da diğer 
+yükümlülükleri ve benzeri şahsi çıkarlara sahip olmaları halini ifade eder. Kamu görevlileri çıkar çatışmasında şahsi 
+sorumluluğa sahiptir, çıkar çatışmasının doğabileceği durumu genellikle şahsen bilen kişiler oldukları için, herhangi bir 
+potansiyel ya da gerçek çıkar çatışması konusunda dikkatli davranır, çıkar çatışmasından kaçınmak için gerekli adımları atar, 
+çıkar çatışmasının farkına varır varmaz durumu üstlerine bildirir ve çıkar çatışması kapsamına giren menfaatlerden 
+kendilerini uzak tutarlar” hükmü yer almaktadır. 
+             Söz konusu uygulama imar planı değişikliği ile getirilen imkan ve avantajlar göz önüne alındığında, bu plan 
+değişikliğinden hukuki yönden yapılaşmış parsel sahiplerinin yararlanmasına bir engel yok ise de; teknik, mimari, statik ve 
+ekonomik koşullar dikkate alındığında öncelikle halen yapılaşmamış olan birkaç parselin ve bu arada Büyükşehir Belediye 
+Başkanı ...’ın eşine ait parselin değerleneceği ve dolayısıyla daha fazla yararlanacağı açıktır. 
+             Yukarıda yapılan inceleme ve değerlendirmeler ışığında; ... Büyükşehir Belediye Başkanı ...’ın, eşine ait taşınmazı 
+avantajlı bir duruma getiren imar planı değişikliğine ilişkin iş ve işlemlere katılmak suretiyle Yönetmelik’in 9. maddesinde 
+düzenlenen “Dürüstlük ve tarafsızlık” ile 13. maddesinde düzenlenen “Çıkar çatışmasından kaçınma” ilkelerine aykırı 
+davrandığına, kararın Resmî Gazete’de yayımlanmasına ve taraflara tebliğine, tebliğinden itibaren 60 gün içinde idari yargı 
+yolu açık olmak üzere, 
+             26/12/2008 tarihinde oybirliği ile karar verilmiştir.
