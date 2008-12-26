@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-12-26",
+  "issue": "27092",
+  "edition": "mükerrer 1",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tehlikeli Maddeler ve Müstahzarlara İlişkin Güvenlik Bilgi Formlarının Hazırlanması ve Dağıtılması Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081226M1-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081226M1.htm",
+  "index_sha256": "f0afc7760c16102081fd473167245415139114e3f689c820f12848b38b5c6865",
+  "index_header": "26 Aralık 2008 ... 27092 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
