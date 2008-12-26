@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5826",
+  "year": 2008,
+  "title": "Yükseköğretim Kurumları Öğretim Elemanlarının Kadroları Hakkında Kanun Hükmünde Kararname ile Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnameye Ekli Cetvellerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-12-26",
+  "gazette_issue": "27092",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081226-1.htm",
+  "source_sha256": "33d8bdfdc45dd70984f5439d10313f30746466fad29b6603907fd791a771a0cb",
+  "text_sha256": "9ba83f70408a6c458d22fda0e237a317c14b5f7eec08ee54d5263aafcbfd8cad",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/12/26/27092-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081226-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
