@@ -1,0 +1,4 @@
+Damping iddiası
+MADDE 4 – (1) S. Arabistan, Kuveyt ve Bulgaristan iç piyasa fiyatlarına direkt olarak ulaşılamamış olması nedeniyle üretim maliyetlerine makul bir kâr eklenmek suretiyle hesaplanan oluşturulmuş değer, her üç ülke için normal değer olarak alınmıştır.
+(2) Şikâyet konusu ülkelerden Türkiye’ye gerçekleştirilen satışların ihraç fiyatının belirlenmesinde, Türkiye İstatistik Kurumu (TÜİK) ithalat istatistiklerinden faydalanılmıştır. Bu ülkeler için tespit edilen ortalama CIF değerler üzerinden gerekli ayarlamalar yapılarak ihraç fiyatlarına ulaşılmıştır. Hesaplanan FOB ihraç fiyatları ihracatçıların lehine olmak üzere fabrika çıkış aşaması fiyatı olarak kabul edilmiş ve başka bir ayarlama yapılmamıştır.
+(3) Normal değer ile Türkiye’ye ihraç fiyatının mümkün olduğu ölçüde aynı ticari aşamada (fabrika çıkış aşaması) karşılaştırılması yoluyla hesaplanan damping marjlarının şikayete konu ülkeler için önemli düzeyde olduğu görülmüştür.

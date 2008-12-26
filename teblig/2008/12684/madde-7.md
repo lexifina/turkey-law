@@ -1,0 +1,3 @@
+Soru formu ve bilgilerin toplanması
+MADDE 7 – (1) Soruşturma için gerekli bilgilerin temini amacıyla, söz konusu maddenin bilinen ithalatçılarına ve söz konusu ülkelerde yerleşik bilinen üretici/ihracatçılarına soru formları ve ekleri ile şikayetin gizli olmayan özetine ilişkin bildirim gönderilecektir. Bildirim almayan veya bildirim eline ulaşmayan tarafların da soru formu ile eklerini DTM web sayfasındaki ilgili bölümden indirmeleri mümkün bulunmaktadır.
+(2) Ayrıca, ilgili ülkedeki üretici ve ihracatçılara iletilmesini kolaylaştırmak ve çabuklaştırmak amacıyla şikayet konusu ülkelerin Türkiye’deki resmi temsilciliklerine de soru formları ve ekleri ile şikayetin gizli olmayan özetine ilişkin bildirim gönderilecektir.
