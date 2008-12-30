@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2008/341",
+  "list_number": "341",
+  "decision_date": "2008-12-30",
+  "title": "Seçim Döneminde Uygulanacak Propaganda Yasakları ile İlgili Yüksek Seçim Kurulu'nun 2008/341 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/3024/2008-341.pdf",
+  "source_sha256": "786ae3551fd7c77f9f8da9381169f37c3b7116706035e19addca3d70ab9127bd",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2008-12-30",
+  "law_text_complete": false
+}
