@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2008/guncellestirme",
+  "list_number": "335",
+  "decision_date": "2008-12-30",
+  "title": "Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösteren Örnek 140/I Sayılı Genelge ile İlgili Yüksek Seçim Kurulu'nun 2008/335 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/3022/Guncellestirme.pdf",
+  "source_sha256": "a590ce99d159cb7c3b2e2384f3651e1b257bd3de96c3cd04cb4062b1673d1a39",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 11,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2008-12-30",
+  "law_text_complete": false
+}
