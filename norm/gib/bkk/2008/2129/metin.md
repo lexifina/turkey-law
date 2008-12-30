@@ -1,0 +1,12 @@
+<p style="margin:0px 0px 20px;color:#777777;font-size:13px;background-color:#ffffff;"><strong><u><span style="font-size:small;">Karar Sayisi : 2008/14420</span></u></strong></p>
+<div style="color:#777777;font-size:13px;background-color:#ffffff;" align="justify">
+ <p style="margin:0px 0px 20px;"><span style="font-size:small;">Ekli “Kaynak Kullanımını Destekleme Fonu Kesintileri Hakkında Karar”ın yürürlüğe konulması; Maliye Bakanlığının 18/11/2008 tarihli ve 111378 sayılı yazısı üzerine 20/6/2001 tarihli ve 4684 sayılı Kanunun geçici 3 üncü maddesine göre, Bakanlar Kurulu’nca 19/11/2008 tarihinde kararlaştırılmıştır.</span></p>
+ <div align="center">
+  <p style="margin:0px 0px 20px;" align="center"><span style="font-weight:bold;"><span style="font-size:small;">KAYNAK KULLANIMINI DESTEKLEME FONU</span></span><span style="font-size:small;"><br><span style="font-weight:bold;">KESİNTİLERİ HAKKINDA KARAR</span></span></p>
+ </div><span style="font-size:small;"><span style="font-size:small;"><br></span></span>
+ <p style="margin:0px 0px 20px;"><span style="font-weight:bold;">MADDE 1 –&nbsp;</span>(1) Kaynak Kullanımını Destekleme Fonu uygulamasında, dövize endeksli ve diğer endeksli kredilerde fon kesintileri, taksit tutarı içindeki anaparanın kur farkı veya endeks farkı ile dönem faizinin cari kurdan Yeni Türk Lirası karşılığı veya fark faizin (spread) toplam tutarı üzerinden hesaplanır.</p>
+ <p style="margin:0px 0px 20px;"><span style="font-size:small;">(2) Dövize endeksli taksitli kredilerde taksit tutarı içindeki anapara kur farkının hesaplanmasında, taksit ödeme tarihindeki cari kur ile kredinin kullandırıldığı tarihteki kur arasındaki fark esas alınır.</span></p>
+ <p style="margin:0px 0px 20px;"><span style="font-size:small;"><span style="font-weight:bold;">MADDE 2 –&nbsp;</span>(1) Bu Kararda düzenleme yapılmayan hususlarda, mülga 12/5/1988 tarihli ve 88/12944 sayılı Kararnamenin, Kaynak Kullanımını Destekleme Fonuna kesinti yapılmasına ilişkin hükümleri, 20/6/2001 tarihli ve 4684 sayılı Kanunun geçici 3 üncü maddesi uyarınca uygulanmaya devam olunur.</span></p>
+ <p style="margin:0px 0px 20px;"><span style="font-size:small;"><span style="font-weight:bold;">MADDE 3 –&nbsp;</span>(1) Bu Karar yayımı tarihinde yürürlüğe girer.</span></p>
+ <p style="margin:0px 0px 20px;"><span style="font-size:small;"><span style="font-weight:bold;">MADDE 4 –&nbsp;</span>(1) Bu Kararı Maliye Bakanı yürütür.</span></p>
+</div>
