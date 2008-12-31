@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.12725",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2009 YILI TANIKLIK ÜCRET TARİFESİ",
+  "number": "12725",
+  "path": "teblig/2008/12725",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12725&MevzuatTertip=5",
+  "source_sha256": "b33183ae72ab576ec9b19b55fcf247409c2b8331f8be09c43963c30b7565c282",
+  "source_bytes": 8396,
+  "published": "2008-12-31",
+  "gazette": "27097 4. Mükerrer",
+  "in_force": "2008-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2008)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 168,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
