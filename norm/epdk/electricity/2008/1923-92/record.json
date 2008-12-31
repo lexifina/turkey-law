@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1923/92",
+  "decision_date": "2008-12-31",
+  "title": "Otoprodüktör grubu lisansı sahibi tüzel kişilerin rekabet ortamında satabilecekleri elektrik enerjisi miktarına ilişkin olarak 2007 yılı dahil olmak üzere 31/12/2008 tarihine kadar %50 olarak belirlenen oranın, 31/12/2009 tarihine kadar uygulanmaya devam edilmesine ilişkin",
+  "resmi_gazete_date": "2008-12-31",
+  "resmi_gazete_number": "27097",
+  "categories": [
+    "Lisansa Kayıtlı Olan Yıllık Elektrik Enerjisi Üretim Miktarının Piyasada Satılabileceği Oranına İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4Nr3boLJ5tM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4Nr3boLJ5tM="
+  ],
+  "source_sha256": "a702687e5389116b81eb3bf0abca956e1f3e8daaab3a80dc758e7beb341b3cc8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33878,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2008-12-31",
+  "law_text_complete": false
+}
