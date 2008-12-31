@@ -1,0 +1,1 @@
+MADDE 1 – (1) 31/12/2004 tarihli ve 25687 3. Mükerrer sayılı Resmi Gazete’de yayımlanan “Belirli Tekstil Ürünleri İthalatında Gözetim ve Korunma Önlemlerine Dair Yönetmelik” uyarınca, belirli ülkeler menşeli tekstil ürünleri için tespit edilen 2009 yılına ait kota seviyeleri (miktar kısıtlamaları) EK - I’de gösterilmiştir.
