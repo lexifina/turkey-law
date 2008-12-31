@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5828",
+  "year": 2008,
+  "title": "2009 Yılı Merkezi Yönetim Bütçe Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2008-12-31",
+  "gazette_issue": "27097",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081231M1-1.htm",
+  "source_sha256": "28de5df4083027342e16e9146c6148cbeae3acc0cebe32cb03e8ff027c533a17",
+  "text_sha256": "8765487cd71f7d4690564fde718c492e74c71527c3d13437cc0c2de17dc995ee",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2008/12/31/27097-m1-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081231M1-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
