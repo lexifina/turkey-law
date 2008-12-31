@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-12-31",
+  "issue": "27097",
+  "edition": "mükerrer 2",
+  "item": 16,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Bazı Boyar Maddelere İlişkin Tebliğ İthalat: (2009/15)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081231M2-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081231M2.htm",
+  "index_sha256": "c0c7e69ebe92683297629a296f66cd6be41c0263d363df586237f755e6db4aa9",
+  "index_header": "31 Aralık 2008 ... 27097 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
