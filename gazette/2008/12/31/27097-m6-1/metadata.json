@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-12-31",
+  "issue": "27097",
+  "edition": "mükerrer 6",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2008/14421 Kadir Has Üniversitesi Rektörlüğüne Bağlı Olarak Uygulamalı Bilimler Yüksekokulu Kurulması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081231M6-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081231M6.htm",
+  "index_sha256": "828f962a2339420f66322a703166e80e6cb7175b41dee6fc4844657d43d84f56",
+  "index_header": "31 Aralık 2008 ... 27097 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
