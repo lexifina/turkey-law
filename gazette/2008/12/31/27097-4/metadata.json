@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2008-12-31",
+  "issue": "27097",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2008/14475 Bazı Sanayi Ürünlerinin İthalatında Tarife Kontenjanı Uygulanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081231-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2008/12/20081231.htm",
+  "index_sha256": "e301939caa650e1819c72794b32c6028e359c691de7875b68649e40966646938",
+  "index_header": "31 Aralık 2008 ... 27097 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
