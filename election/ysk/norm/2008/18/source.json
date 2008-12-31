@@ -1,0 +1,28 @@
+{
+  "number": "18",
+  "date": "2008-12-31",
+  "source_id": 1711,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1711/2008-18.pdf",
+  "source_sha256": "fa4cfb130d21f4932678b01b34e6311062a1809840e513b4d91417e2103adbfc",
+  "history": "as-enacted",
+  "words": 319,
+  "in_force_basis": "Official covering circular header: Genelge Tarihi : 31/12/2008; no attached decision body is supplied in this PDF",
+  "catalogue_date": "2008-12-30",
+  "source_images": 1,
+  "decorative_images": 1,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "circular_issue_date": "2008-12-31",
+  "attached_decision_numbers": [
+    "341",
+    "335"
+  ],
+  "adoption_dates": [],
+  "approval_dates": [],
+  "explicit_effective_dates": [],
+  "date_kind": "covering-notice-issued",
+  "included_document_type": "covering-circular-only",
+  "annex_status": "referenced-not-in-official-pdf",
+  "in_force_date": "2008-12-31"
+}
