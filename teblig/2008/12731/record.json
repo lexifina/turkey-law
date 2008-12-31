@@ -1,0 +1,34 @@
+{
+  "source_id": "9.5.12731",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELİRLİ ÜÇÜNCÜ ÜLKELERDE İŞLEM GÖRDÜKTEN SONRA GERİ İTHAL EDİLEN BELİRLİ TEKSTİL ÜRÜNLERİNE VE GİYİM EŞYASINA UYGULANAN EKONOMİK ETKİLİ HARİÇTE İŞLEME REJİMİ TEBLİĞİ (2009/4)",
+  "number": "12731",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2008/12731",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12731&MevzuatTertip=5",
+  "source_sha256": "bd2c77344bb1b2d5261b953725c6ed42cd2eff0c251232600cacd3fcda7a407f",
+  "source_bytes": 54475,
+  "published": "2008-12-31",
+  "gazette": "27097 4. Mükerrer",
+  "in_force": "2008-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2008); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1096,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.12731%20ek%20III.doc",
+    "9.5.12731%20ek%20IV.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
