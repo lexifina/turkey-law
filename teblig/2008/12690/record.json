@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12690",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4822 SAYILI KANUN İLE DEĞİŞİK 4077 SAYILI TÜKETİCİNİN KORUNMASI HAKKINDA KANUN’UN 5728 SAYILI KANUNLA DEĞİŞİK 25 İNCİ MADDESİNE VE 5560 SAYILI KANUNLA DEĞİŞİK 5326 SAYILI KABAHATLER KANUNU’NUN 3 ÜNCÜ VE 17/7 NCİ MADDELERİNE GÖRE 2009 YILINDA UYGULANACAK OLAN İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2008/1)",
+  "number": "12690",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "path": "teblig/2008/12690",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12690&MevzuatTertip=5",
+  "source_sha256": "5e35617f8084834bae28490e836a821f1a4654e82c1b084d0b9ce28f32d45969",
+  "source_bytes": 22002,
+  "published": "2008-12-29",
+  "gazette": "27095",
+  "in_force": "2009-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2009 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2009 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 230,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
