@@ -1,0 +1,1 @@
+MADDE 1 – (1) 1264 sayılı Madeni Ufaklık ve Hatıra Para Bastırılması Hakkında Kanunun 5 inci maddesi ile 5/5/2007 tarih ve 26513 sayılı Resmî Gazete’de yayımlanan 2007/11963 sayılı Bakanlar Kurulu Kararı uyarınca, 1 TL ile 50, 25, 10, 5 ve 1 Krş madeni paralar 1/1/2009 tarihinde tedavüle çıkarılacaktır.

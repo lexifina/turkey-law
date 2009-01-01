@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12374",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YENİ TÜRK LİRASI VE YENİ KURUŞTA YER ALAN YENİ İBARELERİNİN KALDIRILMASINA VE UYGULAMA ESASLARINA İLİŞKİN TEBLİĞ",
+  "number": "12374",
+  "issuer": "Hazine Müsteşarlığı’nın bağlı bulunduğu Bakan",
+  "path": "teblig/2008/12374",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12374&MevzuatTertip=5",
+  "source_sha256": "527688f953a31177d875f206e07369e78b79591e51d140373eaf3ef85be6957a",
+  "source_bytes": 8121,
+  "published": "2008-08-22",
+  "gazette": "26975",
+  "in_force": "2009-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2009 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2009 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 191,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
