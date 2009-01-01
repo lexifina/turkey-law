@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.12276",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MOTORLU TAŞITLAR VE RÖMORKLARININ KAPLANMIŞ HAVALI (PNÖMATİK) LASTİKLERİ İMALATININ UYGULAMASI İLE İLGİLİ YÖNETMELİK",
+  "number": "12276",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "issuer_slug": "sanayi-ve-ticaret-bakani",
+  "path": "regulation/sanayi-ve-ticaret-bakani/2008/12276",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12276&MevzuatTertip=5",
+  "source_sha256": "f27a53c0ddf37feaab88c5fd2a35e702171c409df10f4d9fd1e488012b85e687",
+  "source_bytes": 24415,
+  "published": "2008-07-24",
+  "gazette": "26946",
+  "in_force": "2009-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2009 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2009 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 974,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.12276-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

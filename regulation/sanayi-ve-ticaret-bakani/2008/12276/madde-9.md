@@ -1,0 +1,2 @@
+Piyasa gözetimi ve denetimi
+MADDE 9 – (1) Kaplanmış havalı lastiklerin piyasa gözetimi ve denetimi 13/11/2001 tarihli ve 2001/3529 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Ürünlerin Piyasa Gözetimi ve Denetimine Dair Yönetmelik ve 16/5/2008 tarihli ve 26878 sayılı Resmî Gazete'de yayımlanan Sanayi ve Ticaret Bakanlığı Piyasa Gözetimi ve Denetimi Yönetmeliği hükümlerine göre gerçekleştirilir. Denetim sonuçlarının olumsuz olması halinde, 11 inci madde hükümleri uygulanır.
