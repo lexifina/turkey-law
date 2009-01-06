@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2009/7",
+  "list_number": "7",
+  "decision_date": "2009-01-06",
+  "title": "29 Mart 2009 tarihinde yapılacak Mahalli İdareler Seçimlerine katılabilecek siyasi partilerin tespitiyle ilgili karara yapılan itirazlara ilişkin Yüksek Seçim Kurulu'nun 2009/7 sayılı kar",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/3013/2009-7.pdf",
+  "source_sha256": "f419bdeabfcb25575d7fd1fe7d7d3bddb2213dc20bb7f28e6cc0130a3b664da9",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2009-01-06",
+  "law_text_complete": false
+}
