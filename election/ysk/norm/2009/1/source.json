@@ -1,0 +1,37 @@
+{
+  "number": "1",
+  "date": "2009-01-06",
+  "source_id": 1717,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1717/2009-1.pdf",
+  "source_sha256": "1cecc37802c3c2fa41b3ab60f3806dd92e21254240b16e457bd55decd82d66fb",
+  "history": "as-enacted",
+  "words": 2171,
+  "in_force_basis": "Official attached YSK decision, PDF p. 2, operative closing sentence: 06/01/2009 tarihinde oybirliği ile karar verildi",
+  "catalogue_date": "2009-01-06",
+  "source_images": 1,
+  "decorative_images": 1,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "circular_issue_date": "2009-01-06",
+  "attached_decision_numbers": [
+    "7",
+    "6"
+  ],
+  "adoption_dates": [
+    {
+      "page": 2,
+      "date": "2009-01-06",
+      "quote": "06/01/2009 tarihinde oybirliği ile karar verildi"
+    },
+    {
+      "page": 6,
+      "date": "2009-01-06",
+      "quote": "06/01/2009 tarihinde oybirliği ile karar verildi"
+    }
+  ],
+  "approval_dates": [],
+  "explicit_effective_dates": [],
+  "date_kind": "decision-adoption",
+  "in_force_date": "2009-01-06"
+}
