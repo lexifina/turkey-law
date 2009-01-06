@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) 5607 sayılı Kaçakçılıkla Mücadele Kanununda (Mülga 4926 ve 1918 sayılı Kanunlar dahil) sayılan kaçakçılık fiillerden (suç ve kabahatler) doğan vergi ve para cezaları hariç, bu Tebliğin yayımı tarihi itibarıyla ödeme süresi içerisinde ödenmemiş olan Devlete ait olup, gümrük idarelerince takip ve tahsil edilen tüm amme alacaklarının tecil ve taksitlendirmesi bu Tebliğin kapsamındadır.

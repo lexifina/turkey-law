@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12767",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TECİL VE TAKSİTLENDİRME) SERİ NO: 1",
+  "number": "12767",
+  "issuer": "Gümrük Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2009/12767",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12767&MevzuatTertip=5",
+  "source_sha256": "fd0b2787e0003c9775b5a88f11e6b9da21f2f1c3d5f7632d890472ae35d5a5af",
+  "source_bytes": 15169,
+  "published": "2009-01-06",
+  "gazette": "27102",
+  "in_force": "2009-01-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.01.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 726,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

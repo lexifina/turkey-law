@@ -1,0 +1,3 @@
+Başvuru süresi ve şekli
+MADDE 4 – (1) Bu Tebliğ ile şartları belirlenen tecil ve taksitlendirmeden yararlanabilmek için yükümlülerin; 2 Şubat 2009 günü mesai saati bitimine kadar yazılı olarak, amme alacağı takibatını yapan gümrük idaresine tecil ve taksitlendirme talebinde bulunmaları gerekmektedir.
+(2) Bu Tebliğ kapsamındaki başvurular posta yoluyla yapıldığı takdirde; başvuru dilekçelerinin taahhütlü posta veya APS ile gönderilmesi halinde postaya verildiği tarih, adi posta ile gönderilmesi halinde ise amme alacağı takibatını yapan gümrük idaresi kayıtlarına intikal ettiği tarih başvuru tarihi olarak esas alınacaktır.
