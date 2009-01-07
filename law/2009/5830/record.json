@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5830",
+  "year": 2009,
+  "title": "Sanayi ve Ticaret Bakanlığının Teşkilat ve Görevleri Hakkında Kanun, Devlet Memurları Kanunu ve Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2009-01-07",
+  "adopted_as_published": "07/01/2009",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.01.2009 No: 27112",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc093/kanuntbmmc093/kanuntbmmc09305830.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 93",
+  "committee_reports": [
+    {
+      "label": "TBMM 236 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c033/tbmm23033023ss0236.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 708655,
+      "title": "Sanayi ve Ticaret Bakanlığının Teşkilat ve Görevleri Hakkında Kanun, Devlet Memurları Kanunu ve Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "07/01/2009",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc093/kanuntbmmc093/kanuntbmmc09305830.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 236 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c033/tbmm23033023ss0236.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 33,
+          "sitting": 23,
+          "sitting_date": "2008-11-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c033/tbmm23033023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c033/tbmm23033fih.pdf",
+          "pages": [
+            "123:144"
+          ]
+        },
+        {
+          "cilt": 33,
+          "sitting": 26,
+          "sitting_date": "2008-12-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c033/tbmm23033026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c033/tbmm23033fih.pdf",
+          "pages": [
+            "749:767"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 41,
+          "sitting_date": "2009-01-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c037/tbmm23037041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c037/tbmm23037fih.pdf",
+          "pages": [
+            "650:717",
+            "719:720"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=548&v_gelecek_sayfa=101&v_kullanici_id=27483202",
+      "page_sha256": "5dd357b0a1bf24002c057e6a38e8414b69879ad41b7d53ddc7b400469fe58c8c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5dd357b0a1bf24002c057e6a38e8414b69879ad41b7d53ddc7b400469fe58c8c",
+  "issuer": "TBMM",
+  "in_force": "2009-01-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 07/01/2009; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
