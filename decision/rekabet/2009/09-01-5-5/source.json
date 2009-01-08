@@ -1,0 +1,13 @@
+{
+  "number": "09-01/5-5",
+  "type": "Rekabet İhlali",
+  "decision_date": "2009-01-08",
+  "publication_date": "2009-04-03",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=f45a664b-468f-494d-ae10-a73e496a7b38",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=770",
+  "pdf_sha256": "c687072410ba2faa7dd333d76d7ad84f21d78d1f9399c09251fdeef96e04572a",
+  "pdf_bytes": "148714",
+  "pages": "4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "complainant/applicant/party entry without a company or institution marker"
+}
