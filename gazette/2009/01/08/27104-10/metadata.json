@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-01-08",
+  "issue": "27104",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Hasılata İlişkin Türkiye Muhasebe Standardı (TMS 18) Hakkında Tebliğde Değişiklik Yapılmasına İlişkin Tebliğ (Sıra No: 134)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090108-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090108.htm",
+  "index_sha256": "6640ca0b5a338fd236963699cfe8cb5902e825b1f129df6adceb2729226e54ed",
+  "index_header": "8 Ocak 2009 ... 27104 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
