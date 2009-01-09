@@ -1,0 +1,2 @@
+Dağıtım
+MADDE 2 – (1) Sanayiciler tarafından talep edilen toplam miktarın, tespit edilen tarife kontenjanı miktarından daha düşük ya da eşit olması durumunda, talepler aynen karşılanır. Ancak, talep edilen toplam miktarın, tarife kontenjanı miktarından daha fazla olması durumunda dağıtım, 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete'de yayımlanan İthalatta Kota ve Tarife Kontenjanı İdaresi Yönetmeliğinde belirtilen Kota ve Tarife Kontenjanı Dağıtım Yöntemleri çerçevesinde gerçekleştirilir.
