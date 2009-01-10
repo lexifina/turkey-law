@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.12784",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2009 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ (SIRA NO: 2)",
+  "number": "12784",
+  "path": "teblig/2009/12784",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12784&MevzuatTertip=5",
+  "source_sha256": "c373d24719bdcbff69eaba3dc7456ef5c7361855e6453af5bfa4fd20d845df1c",
+  "source_bytes": 8812,
+  "published": "2009-01-10",
+  "gazette": "27106",
+  "in_force": "2009-01-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.01.2009); own commencement article: \"Bu Tebliğ, 1/1/2009 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 1/1/2009 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 312,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
