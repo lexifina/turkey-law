@@ -1,0 +1,2 @@
+Denetim
+Madde 7 — Bölgede görev almayı isteyen ya da bölgede görev uzatma talebinde bulunan öğretim elemanları; görevlendirme ya da görev uzatma başvurularına ayrıntılı bir çalışma planını ekleyerek ilgili bölüm başkanlığına vermek zorundadırlar. Öğretim elemanları görev süreleri sonunda bölgede yürüttükleri çalışmalarla ilgili hazırlayacakları bir raporu değerlendirilmek üzere bölüm başkanlığına verirler.
