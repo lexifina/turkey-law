@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-01-12",
+  "issue": "27108",
+  "edition": "regular",
+  "item": 1,
+  "section": null,
+  "heading": "MEVZUAT",
+  "title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2009/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090112-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090112.htm",
+  "index_sha256": "eb8e29f59cacf4569d9560ad98b5cc8e319b53668ef4546d0281b532987c0a9d",
+  "index_header": "1 2 Ocak 2009 ... 27108 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
