@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2009/19",
+  "list_number": "19",
+  "decision_date": "2009-01-13",
+  "title": "29 Mart Pazar Günü Yapılacak Mahalli İdareler Seçimlerinde bağımsız adayların başvurularında ve siyasi partilerin aday listelerini vermelerinde uyulması zorunlu usuller ilgili Yüksek Seçim Kurulu'nun 2009/19 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2996/2009-19.pdf",
+  "source_sha256": "dbd53e6937500c7a96eb81b32b8946645f57916245cd5ac0d7132631eed67d94",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 7,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2009-01-13",
+  "law_text_complete": false
+}
