@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.12789",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5510 SAYILI KANUN GEREĞİNCE KENDİ ADINA VE HESABINA BAĞIMSIZ ÇALIŞANLARDAN 5 YILI AŞAN SÜREYE İLİŞKİN PRİM BORCU BULUNANLAR İÇİN YAPILACAK İŞLEMLER HAKKINDA TEBLİĞ",
+  "number": "12789",
+  "path": "teblig/2009/12789",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12789&MevzuatTertip=5",
+  "source_sha256": "500d0eead38fc8ffe15c381139b11baefb3f5df12a46b4edd75d298b7dd727d5",
+  "source_bytes": 13792,
+  "published": "2009-01-14",
+  "gazette": "27110",
+  "in_force": "2009-01-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.01.2009); own commencement article: \"Bu Tebliğ yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 698,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
