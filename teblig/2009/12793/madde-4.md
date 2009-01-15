@@ -1,0 +1,7 @@
+Damping iddiası
+MADDE 4 – (1) ÇHC’nin piyasa ekonomisi uygulamayan bir ülke olarak değerlendirilmesi nedeniyle, Yönetmelik’in 7 nci maddesi uyarınca şikâyet konusu malın Türkiye’deki üretim maliyetine makul bir kâr miktarı eklenmek suretiyle hesaplanan oluşturulmuş değer normal değer olarak alınmıştır. Normal değer fabrika çıkış aşamasında tespit edilmiştir.
+(2) Hong Kong’da tüketime konu olan benzer mal için normal ticari işlemler sonucunda fiilen ödenmiş veya ödenmesi gereken karşılaştırılabilir iç piyasa satış fiyatları temin edilemediğinden, normal değer yerli üretim dalının verileri temelinde oluşturulmuş normal değer yöntemi ile tespit edilmiştir.
+(3) Oluşturulmuş normal değerler, YTL olarak belirlenen oluşturulmuş değerlerin ihraç faturası tarihindeki kurdan ihraç işleminde kullanılan döviz türüne çevrilmesi suretiyle hesaplanmıştır.
+(4) ÇHC ve Hong Kong menşeli eşyanın ihraç fiyatlarının tespitinde ise Türkiye’ye ihraç fiyatlarına ilişkin faturalar kullanılmıştır.
+(5) Normal değerler ile ihraç fiyatlarının aynı ticari aşamada karşılaştırılmasını teminen CIF ihraç fiyatları fatura üzerinde belirtilen sigorta ve navlun gideri düşülerek FOB aşamasına getirilmiştir. Hesaplanan FOB değerler, ihracatçıların lehine olmak üzere, fabrika çıkış aşaması fiyatlar olarak kabul edilmiştir.
+(6) Normal değerler ile Türkiye’ye ihraç fiyatlarının mümkün olduğu ölçüde aynı ticari aşamada karşılaştırılması yoluyla hesaplanan damping marjlarının şikayete konu ÇHC ve Hong Kong için önemli oranda olduğu görülmüştür.
