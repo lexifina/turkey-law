@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-01-16",
+  "issue": "27112",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2008/14502 Türkiye Cumhuriyeti Hükümeti ile Birleşmiş Milletler Kalkınma Programı Arasında İmzalanan “Türkiye’de Yasama Süreçlerine Etkin Sivil Katılım Projesi” Konulu Belgenin Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090116-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090116.htm",
+  "index_sha256": "0cb3eadd73e660ae56cfeb77d951d2a0dee0e14f82696cf51435164bb9b63678",
+  "index_header": "16 Ocak 2009 ... 27112 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
