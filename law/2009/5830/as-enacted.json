@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5830",
+  "year": 2009,
+  "title": "Sanayi ve Ticaret Bakanlığının Teşkilat ve Görevleri Hakkında Kanun, Devlet Memurları Kanunu ve Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-01-16",
+  "gazette_issue": "27112",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090116-1.htm",
+  "source_sha256": "c72572fd31d392917f24bfbecd78702e11dcd78843ee3e35545cfccdbdfca40f",
+  "text_sha256": "ceaaca4c380754952523625729c88b3e9aa52011a7a6de0d740b1dce6ed8f2ad",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/01/16/27112-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090116-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
