@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.12798",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 390)",
+  "number": "12798",
+  "path": "teblig/2009/12798",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12798&MevzuatTertip=5",
+  "source_sha256": "90afcf01131595bdf413f3b137573ed5276d5276305c5ea11f6a423f57fa5a1a",
+  "source_bytes": 35913,
+  "published": "2009-01-17",
+  "gazette": "27113",
+  "in_force": "2009-01-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.01.2009)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 826,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
