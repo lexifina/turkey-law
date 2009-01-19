@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-01-19",
+  "issue": "27115",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2008/14561 Türkiye Cumhuriyeti Hükümeti ile Endonezya Cumhuriyeti Hükümeti Arasında İmzalanan “Ekonomik ve Teknik İşbirliği Karma Komisyonu Yedinci Dönem Toplantısı Mutabakat Zaptı”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090119-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090119.htm",
+  "index_sha256": "9e5e20b0197a4021694bb4e2ae15095773cda71758fa857fe93d5dd3dbe3f51a",
+  "index_header": "19 Ocak 2009 ... 27115 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
