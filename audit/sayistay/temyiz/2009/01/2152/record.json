@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30589",
+  "decision_date": "2009-01-20",
+  "source_id": 2152,
+  "chamber": "6",
+  "file_number": "29813",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2152/",
+  "source_sha256": "b0363f346b9e7e5290d8179ec2cc0497a165e3b97e9b28dd2d8fcdc0f1150acf",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
