@@ -1,0 +1,4 @@
+Teknik karşılıkları karşılayan yabancı finansal varlıkların saklanması
+MADDE 6 – (1) Yabancı varlıkların korunması ve saklanmasına ilişkin sorumluluk nihai olarak şirket üzerinde kalmakla birlikte; Türkiye dışında bulunan risklerle ilgili olarak ayrılmış bulunan teknik karşılıklara ilişkin yabancı finansal varlıklar İMKB Takas ve Saklama Bankası A.Ş.’nin yurt dışı muhabirleri nezdindeki hesapları altında şirket adına açılan alt hesaplarda saklanır.
+(2) Yabancı finansal varlıkların alım, satım ve saklama işlemlerinde iletişim SWIFT ve yazı ile gönderilecek talimatlar aracılığı ile yürütülür.
+(3) Saklama hizmeti veren kuruluş tarafından muhafazadaki yabancı finansal varlıkların son durumu itibariyle, tamamını gösterecek şekilde düzenlenmiş belgelerin veya bunların bir örneğinin şirket nezdinde sürekli olarak bulundurulması zorunludur.

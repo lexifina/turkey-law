@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12803",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SİGORTA VE REASÜRANS İLE EMEKLİLİK ŞİRKETLERİNİN TEKNİK KARŞILIKLARININ YATIRILACAĞI YABANCI VARLIKLARA İLİŞKİN TEBLİĞ",
+  "number": "12803",
+  "issuer": "Hazine Müsteşarlığının bağlı bulunduğu Bakan",
+  "path": "teblig/2009/12803",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12803&MevzuatTertip=5",
+  "source_sha256": "b148b8b8d816ab660f7158f62bee178209249d3e0290120ab447ba6c28b0eaee",
+  "source_bytes": 16988,
+  "published": "2009-01-21",
+  "gazette": "27117",
+  "in_force": "2009-01-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.01.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 696,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
