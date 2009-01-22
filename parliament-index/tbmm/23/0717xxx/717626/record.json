@@ -1,0 +1,94 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 717626,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Kültür ve Tabiat Varlıklarını Koruma Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısına İlişkin (1/608) (S. Sayısı: 266)",
+  "title": "Kültür ve Tabiat Varlıklarını Koruma Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısına İlişkin (1/608) (S. Sayısı: 266)",
+  "first_sitting_date": "2009-01-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 38,
+      "sitting": 48,
+      "sitting_date": "2009-01-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038fih.pdf",
+      "pages": [
+        "611:629"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 49,
+      "sitting_date": "2009-01-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038fih.pdf",
+      "pages": [
+        "759:765"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 50,
+      "sitting_date": "2009-01-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038050.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038fih.pdf",
+      "pages": [
+        "880"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 51,
+      "sitting_date": "2009-01-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038fih.pdf",
+      "pages": [
+        "922:923",
+        "923:940",
+        "941:961",
+        "963:984"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 52,
+      "sitting_date": "2009-02-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038052.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038fih.pdf",
+      "pages": [
+        "1064:1073",
+        "1073:1086"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 53,
+      "sitting_date": "2009-02-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c039/tbmm23039053.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c039/tbmm23039fih.pdf",
+      "pages": [
+        "49:54"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=346&v_gelecek_sayfa=101&v_kullanici_id=27484607",
+  "source_sha256": "23eb079325f74df6eb7e88e07567e62ac0286a6d80e449aef12f23363713c0e2",
+  "in_force": "2009-01-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
