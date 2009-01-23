@@ -5,3 +5,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5519 | 27 | 15/6/2006
 Anayasa Mah.’nin E.: 2004/107, K.: 2007/44 sayılı Kararı | 10, 13 | 22/11/2007
 5728 | 18, 27, 32, 33 | 8/2/2008
+5832 | 27/A | 23/1/2009
