@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-01-24",
+  "issue": "27120",
+  "edition": "regular",
+  "item": 20,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme İdaresi Başkanlığının 23/1/2009 Tarihli ve 2009/08 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090124-20.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090124.htm",
+  "index_sha256": "fe6cfec6fb856cb01b418fe8e6fcffeb61ccd2164de465fea69db7116f4eaa2a",
+  "index_header": "24 Ocak 2009 ... 27120 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
