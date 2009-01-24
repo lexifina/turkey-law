@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-01-24",
+  "issue": "27120",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Gözetim Uygulanmasına İlişkin 2007/35 Sayılı Tebliğ’de Değişiklik Yapılması Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090124-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090124.htm",
+  "index_sha256": "fe6cfec6fb856cb01b418fe8e6fcffeb61ccd2164de465fea69db7116f4eaa2a",
+  "index_header": "24 Ocak 2009 ... 27120 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
