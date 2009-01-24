@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.12816",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2009 YILI SERBEST MUHASEBECİLİK, SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK ASGARİ ÜCRET TARİFESİ",
+  "number": "12816",
+  "path": "teblig/2009/12816",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12816&MevzuatTertip=5",
+  "source_sha256": "5c2a30e8b0c70c4ee94ed1766fe3ffdab28cdcc3a4447f3954b18d231340a6c8",
+  "source_bytes": 5967,
+  "published": "2009-01-24",
+  "gazette": "27120",
+  "in_force": "2009-01-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.01.2009)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 75,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.12816%20ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
