@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-01-26",
+  "issue": "27122",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Kota ve Tarife Kontenjanı İdaresine İlişkin 2006/6 Sayılı Tebliğ’de Değişiklik Yapılması Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090126-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090126.htm",
+  "index_sha256": "20b77949cbefa0c599b1f975a51571ec14d50391a137de86d3c56ae6be3579c5",
+  "index_header": "26 Ocak 2009 ... 27122 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
