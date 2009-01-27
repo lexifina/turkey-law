@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5831",
+  "year": 2009,
+  "title": "Tapu Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-01-27",
+  "gazette_issue": "27123",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090127-1.htm",
+  "source_sha256": "08edebff466974fc7b5384591276d9c777b2fd7df413cb3834d2bd45a1455351",
+  "text_sha256": "8217923f399dda9c1ef6037d2d9b49e3c35fed8ee9c8a0cc6b0e8570bdd6a1e4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/01/27/27123-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/01/20090127-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
