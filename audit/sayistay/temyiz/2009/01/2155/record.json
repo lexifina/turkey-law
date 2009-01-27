@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30593",
+  "decision_date": "2009-01-27",
+  "source_id": 2155,
+  "chamber": "8",
+  "file_number": "29923",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2155/",
+  "source_sha256": "ff166e53e3a4c9a23758222de493ecd992f69ee824b46fe761fbd3a5273629f0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
