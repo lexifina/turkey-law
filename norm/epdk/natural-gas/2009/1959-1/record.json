@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1959/1",
+  "decision_date": "2009-01-29",
+  "title": "Başkent Doğal Gaz Dağ.A.Ş.’nin (K) katsayısı uygulaması hakkında alınan kurul kararı",
+  "categories": [
+    "Doğal Gaz Piyasası Denetim Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Dpaz6nasy7E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Dpaz6nasy7E="
+  ],
+  "source_sha256": "e20ded5367c9deadb33e2d5b62248cbce0d1008cbf4321373ca45f0c18703dff",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7220,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-01-29",
+  "law_text_complete": false
+}
