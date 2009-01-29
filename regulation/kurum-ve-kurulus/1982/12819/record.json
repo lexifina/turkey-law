@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.12819",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI YAYINLARININ STANDARTLAŞTIRILMASI VE NUMARALANDIRILMASINA İLİŞKİN YÖNETMELİK",
+  "number": "12819",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1982/12819",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12819&MevzuatTertip=5",
+  "source_sha256": "e8ccac56f4d175fbfbc2cc3fca2225bf573d2e25e764cfdae4bd7cb7cf9db5fa",
+  "source_bytes": 19557,
+  "published": "1982-02-25",
+  "gazette": "17616",
+  "in_force": "2009-01-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.-29/1/2009\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2009-01-29",
+      "R.G.-29/1/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 468,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
