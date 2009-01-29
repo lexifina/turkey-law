@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1953",
+  "decision_date": "2009-01-29",
+  "title": "2009 yılı için uygulanacak serbest tüketici limiti",
+  "resmi_gazete_date": "2009-02-05",
+  "resmi_gazete_number": "27132",
+  "categories": [
+    "Serbest Tüketici"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=i2mKDjddOiw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=i2mKDjddOiw="
+  ],
+  "source_sha256": "ba9deba5a45f3feb38e4f7f03b12004a8c7ca303396eca2e20ba42c882543a0b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-01-29",
+  "law_text_complete": false
+}
