@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.4130",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İTHALATTA GÖZETİM UYGULANMASI YÖNETMELİĞİ",
+  "number": "4130",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "dis-ticaret-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/dis-ticaret-mustesarliginin-bagli-oldugu-bakan/2004/4130",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4130&MevzuatTertip=5",
+  "source_sha256": "8e205e23d81dd3dca32cd18484d5483d0e5cc4a0add349ce78f2b7c65c886fb0",
+  "source_bytes": 18425,
+  "published": "2004-06-08",
+  "gazette": "25486",
+  "in_force": "2009-01-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.-31/1/2009\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2009-01-31",
+      "R.G.-31/1/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 746,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

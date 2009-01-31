@@ -1,0 +1,2 @@
+Geçici Madde 3 – (Ek.R.G.-31/1/2009-27127)
+İthalatçıların, gözetim belgesi düzenlenmesine ilişkin yeni bir başvuruda bulunduklarında, Müsteşarlığa, adlarına düzenlenmiş ve geçerlilik süresi başvuru tarihi itibariyle sona ermiş olan gözetim belgelerinin aslını iade etmeleri, gözetim belgesinin zayii durumunda ise zayie ilişkin gazete ilanını veya bu hususu belgelendiren ilgili belgeleri ibraz etmeleri halinde, ilgili mevzuat kapsamında gözetim belgesi iade yükümlülüğü geriye dönük olarak yerine getirilmiş sayılır.

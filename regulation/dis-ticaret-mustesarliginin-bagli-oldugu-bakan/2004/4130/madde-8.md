@@ -1,0 +1,2 @@
+Yürürlükten Kaldırılan Mevzuat
+Madde 8- 12/6/2003 tarihli ve 25136 sayılı Resmi Gazete’de yayımlanan Çin Halk Cumhuriyeti Menşeli Malların İthalatında Gözetim ve Korunma Önlemleri Yönetmeliğinin 1 inci maddesinin 1 inci fıkrasının (a) bendi, 2 nci maddesinin (h) bendi, 12, 13, 14 ve 15 inci maddeleri ile 24 üncü maddesinin ikinci fıkrasında yer alan “gözetim ve” ibaresi yürürlükten kaldırılmıştır.
