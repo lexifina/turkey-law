@@ -1,0 +1,6 @@
+Yasaklar ve müeyyideler
+Madde 15 — (Değişik ibare:RG-31/1/2009-27127)(1) Valilikten üretim izni alınmadan peloid üretilemez ve piyasaya arz edilemez.
+(Değişik ibare:RG-31/1/2009-27127)(1) Valilikçe üretim izni verilen peloidlerin etiketlerinde, 10 uncu maddede belirtilen etiket bilgileri ile uyarı ve önlemler dışında bilgilere yer verilemez.
+Tebliğde belirtilen kurallara aykırı üretim ve satış ile basın, yayın, broşür ve benzeri yollarla tüketicileri yanıltıcı reklam ve herhangi bir şekilde aslına uygun olmayan tanıtım yapılması yasaktır.
+Üretim izni olmaksızın üretilen ve piyasaya arz edilen ürünler, müdürlük elemanlarınca veya yetkili diğer resmi görevlilerce toplanarak imha edilir. İkinci ve üçüncü fıkraya aykırılık halinde peloidler, müdürlük yetkili elemanlarının gözetiminde işletmeciler tarafından piyasadan çekilerek, uygun hale getirildikten sonra kullanımına ve satışına müsaade edilebilir.
+Yukarıdaki yasaklara ve Tebliğ ile Yönetmelik de belirtilen kurallara aykırı hareket edenler hakkında, Tebliğ ve Yönetmelikte belirtilen idari tedbir ve müeyyideler ile birlikte, fiilin mahiyetine göre 1593 sayılı Umumi Hıfzıssıhha Kanunu, 4077 sayılı Tüketicinin Korunması Hakkında Kanun, Türk Ceza Kanunu ve ilgili diğer mevzuat hükümlerinde öngörülen müeyyideler tatbik olunur.
