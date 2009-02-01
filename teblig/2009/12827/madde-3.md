@@ -1,0 +1,1 @@
+MADDE 3 – Kamu İhale Kanunu ile Kamu İhale Sözleşmeleri Kanununda Değişiklik Yapılmasına Dair 5812 sayılı Kanunun 17 nci maddesi ile 4734 sayılı Kanunun 47 nci maddesindeki parasal limitler kaldırılmış olup, 4734 sayılı Kanunun 47 nci maddesinde yer alan parasal limitler, 5/3/2009 tarihine kadar geçerlidir.

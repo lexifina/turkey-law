@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12827",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU İHALE TEBLİĞİ (TEBLİĞ NO: 2009/1)",
+  "number": "12827",
+  "issuer": "Kamu İhale Kurumu Başkanı",
+  "path": "teblig/2009/12827",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12827&MevzuatTertip=5",
+  "source_sha256": "6ff961e4c8d6d8d1d67e06ae1b4c0a9d4a1834fdffd8bd9ed758c1afcf7b9082",
+  "source_bytes": 28230,
+  "published": "2009-01-30",
+  "gazette": "27126",
+  "in_force": "2009-02-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/2/2009 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/2/2009 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 672,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

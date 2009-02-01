@@ -1,0 +1,1 @@
+MADDE 4 – 4734 sayılı Kanunun 53 üncü maddesinin (j) fıkrasının (2) nolu alt bendinde yer alan itirazen şikayet başvuru bedelleri, 4/1/2009 tarihinden 1/2/2010 tarihine kadar 5812 sayılı Kanunun 20 nci maddesinde belirtilen tutarlardır.
