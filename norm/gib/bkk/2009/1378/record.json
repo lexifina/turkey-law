@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2009/14594",
+  "source_id": 1378,
+  "date": "2009-02-03",
+  "title": "5520 SAYILI KURUMLAR VERGİSİ KANUNU'NUN 15. MADDESİNDE YER ALAN VERGİ KESİNTİ ORANLARI HAKKINDA KARAR",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/bkk/1378",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "c3ea7839b5d70f3636c7c64dd7c85a22fda6d98981683b906cd82c13ea392a83",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
