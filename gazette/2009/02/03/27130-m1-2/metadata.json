@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-02-03",
+  "issue": "27130",
+  "edition": "mükerrer 1",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2009/14631 Türkiye Cumhuriyeti Hükümeti ve Suudi Arabistan Krallığı Hükümeti Arasında İmzalanan “Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşma”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090203M1-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090203M1.htm",
+  "index_sha256": "cdcdac48d6bc66137fc1fcb354c7d69e2ff0d1752429988bff7018c54e2f18fb",
+  "index_header": "3 Şubat 2009 ... 27130 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
