@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12833",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ ŞARAP TEBLİĞİ (TEBLİĞ NO: 2008/67 )",
+  "number": "12833",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2009/12833",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12833&MevzuatTertip=5",
+  "source_sha256": "daa84bbbad9c5a8fca80a8c872f571e91876d9e5f1913ac69caab045dd6e8b0d",
+  "source_bytes": 61283,
+  "published": "2009-02-04",
+  "gazette": "27131",
+  "in_force": "2009-02-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.02.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2387,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

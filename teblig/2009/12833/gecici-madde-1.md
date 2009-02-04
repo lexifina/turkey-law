@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Halen faaliyet gösteren ve bu Tebliğ kapsamında yer alan ürünleri üreten ve satan işyerleri bu Tebliğin yürürlüğe girmesini müteakip altı ay içerisinde bu Tebliğ hükümlerine uymak zorundadır.
