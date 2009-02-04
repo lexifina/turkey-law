@@ -1,0 +1,119 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5835",
+  "year": 2009,
+  "title": "Kültür ve Tabiat Varlıklarını Koruma Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2009-02-04",
+  "adopted_as_published": "04/02/2009",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "11.02.2009 No: 27138",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc093/kanuntbmmc093/kanuntbmmc09305835.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 93",
+  "committee_reports": [
+    {
+      "label": "TBMM 266 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038048ss0266.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 708660,
+      "title": "Kültür ve Tabiat Varlıklarını Koruma Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "04/02/2009",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc093/kanuntbmmc093/kanuntbmmc09305835.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 266 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038048ss0266.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 38,
+          "sitting": 48,
+          "sitting_date": "2009-01-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038fih.pdf",
+          "pages": [
+            "611:629"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 49,
+          "sitting_date": "2009-01-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038fih.pdf",
+          "pages": [
+            "759:765"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 50,
+          "sitting_date": "2009-01-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038fih.pdf",
+          "pages": [
+            "880"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 51,
+          "sitting_date": "2009-01-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038fih.pdf",
+          "pages": [
+            "922:923",
+            "923:940",
+            "941:961",
+            "963:984"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 52,
+          "sitting_date": "2009-02-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c038/tbmm23038fih.pdf",
+          "pages": [
+            "1064:1073",
+            "1073:1086"
+          ]
+        },
+        {
+          "cilt": 39,
+          "sitting": 53,
+          "sitting_date": "2009-02-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c039/tbmm23039053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c039/tbmm23039fih.pdf",
+          "pages": [
+            "49:54"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=548&v_gelecek_sayfa=101&v_kullanici_id=27483202",
+      "page_sha256": "5dd357b0a1bf24002c057e6a38e8414b69879ad41b7d53ddc7b400469fe58c8c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5dd357b0a1bf24002c057e6a38e8414b69879ad41b7d53ddc7b400469fe58c8c",
+  "issuer": "TBMM",
+  "in_force": "2009-02-04",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 04/02/2009; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
