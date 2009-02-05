@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "genel-yazi",
+  "number": null,
+  "source_id": 117,
+  "date": "2009-02-05",
+  "title": "''İTHAL EDİLEN PETROL ÜRÜNLERİNİN TESLİMİNDE BEYAN EDİLEN ÖTV'YE AİT BİLGİ FORMU\" (EK:12)' NİN DÜZENLENMESİNDE DİKKAT EDİLECEK HUSUSLARA İLİŞKİN GENEL YAZI",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/genelyazilar/117",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/genelYazilar/list",
+  "source_listing": "evidence/list/2026-11-16/genelYazilar-p000.json",
+  "source_listing_sha256": "7fa6cf53cc6e422afa260107b4b730e46ac896bef1c1d196cf603add29126053",
+  "source_sha256": "c7424267fa7a352f26182d6ca07a6cb6b3e39c5e2080fa3d30665cfe94b28fe3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
