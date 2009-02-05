@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-02-05",
+  "issue": "27132",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "GENELGE",
+  "title": "Kayıt Dışı Ekonomiyle Mücadele Stratejisi Eylem Planı ile İlgili 2009/3 Sayılı Başbakanlık Genelgesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090205-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090205.htm",
+  "index_sha256": "9cbcc17f957dc016c31a98aa239b608297fb781b051d458d06ce2a7893141e24",
+  "index_header": "5 Şubat 2009 ... 27132 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
