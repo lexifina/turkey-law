@@ -1,0 +1,2 @@
+Tescil ve denetim
+MADDE 14 – (1) Bu Tebliğ kapsamında yer alan ürünleri üreten ve satan işyerleri; tescil ve izin, ithalat işlemleri, kontrol ve denetim sırasında bu Tebliğ hükümlerine uymak zorundadır. Bu hükümlere uymayan işyerleri hakkında 5/6/2004 tarihli ve 25483 sayılı Resmî Gazete’de yayımlanan 5179 sayılı "Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun" hükümlerine göre yasal işlem yapılır.
