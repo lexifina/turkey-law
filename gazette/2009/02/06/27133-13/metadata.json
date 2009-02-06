@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-02-06",
+  "issue": "27133",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Gıda Kodeksi Bebek ve Küçük Çocuk Ek Gıdaları Tebliğinde Değişiklik Yapılması Hakkında Tebliğ (No: 2009/11)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090206-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090206.htm",
+  "index_sha256": "13c7960c72a41c9ea4a81b9788f32a8d6d3de959df3fe88eb8813f41409ab8c1",
+  "index_header": "6 Şubat 2009 ... 27133 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
