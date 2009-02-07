@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "256",
+  "date": "2009-02-07",
+  "title": "T. 7.02.2009 E. 2008/485 K. 2009/85",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/256",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=3&yil=2009",
+  "listing_sha256": "08a2f3e806332dcc3f8b88f0a0021c03938ee7626f6ac2e2b4115f2b61841087",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
