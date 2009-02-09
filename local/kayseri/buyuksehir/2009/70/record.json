@@ -1,0 +1,24 @@
+{
+  "number": "70",
+  "number_as_published": "Karar No : 70",
+  "year": 2009,
+  "title": "Talas Belediye Meclisinin 02.02.2009 tarih, 14,16,17 ve 18 sayılı kararlarının incelenmesi.",
+  "decision_date": "2009-02-09",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/09-subat-2009-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "70d062b3fc2a23830d159e5facf5843be7aec629682d9bf1bf4b72ed9efbb0f6",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2009-02-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.02.2009 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "09 Şubat 2009 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=18",
+  "subject_published": true
+}
