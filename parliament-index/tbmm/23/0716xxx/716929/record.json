@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 716929,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "NİMET ÇUBUKÇU (İSTANBUL) (DEVLET BAKANI)",
+  "summary": "Ve 25 Milletvekilinin, Fırsat Eşitliği Komisyonu Kanunu Teklifi: Adana Milletvekili Nevin Gaye Erbatur ve 8 Milletvekilinin, Kadın Erkek Eşitliğini İzleme Kurulu Kanun Teklifi ve İstanbul Milletvekili Ayşe Jale Ağırbaş ve 5 Milletvekilinin; KadınErkek Eşitlik Komisyonu Kurulması Hakkında Kanun Teklifine İlişkin (2/211, 2/112, 2/311) (S. Sayısı: 328)",
+  "title": "Ve 25 Milletvekilinin, Fırsat Eşitliği Komisyonu Kanunu Teklifi: Adana Milletvekili Nevin Gaye Erbatur ve 8 Milletvekilinin, Kadın Erkek Eşitliğini İzleme Kurulu Kanun Teklifi ve İstanbul Milletvekili Ayşe Jale Ağırbaş ve 5 Milletvekilinin; KadınErkek Eşitlik Komisyonu Kurulması Hakkında Kanun Teklifine İlişkin (2/211, 2/112, 2/311) (S. Sayısı: 328)",
+  "first_sitting_date": "2009-02-10",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 39,
+      "sitting": 55,
+      "sitting_date": "2009-02-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c039/tbmm23039055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c039/tbmm23039fih.pdf",
+      "pages": [
+        "270:303"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 56,
+      "sitting_date": "2009-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c039/tbmm23039056.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c039/tbmm23039fih.pdf",
+      "pages": [
+        "488:507",
+        "508:547"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 62,
+      "sitting_date": "2009-02-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c040/tbmm23040062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c040/tbmm23040fih.pdf",
+      "pages": [
+        "131:157"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9778ad3e006ed014ada40672e8018c4ef424a514aeeae1bfe4415432bf50a80a",
+  "in_force": "2009-02-10",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
