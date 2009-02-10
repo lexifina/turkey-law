@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30624",
+  "decision_date": "2009-02-10",
+  "source_id": 1674,
+  "chamber": "4",
+  "file_number": "30096",
+  "account_year": "2002",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1674/",
+  "source_sha256": "cc37de1cc8fe4a3059de11a326e6ca21fb00de8fdeecb1ba287ea516c84d7f99",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
