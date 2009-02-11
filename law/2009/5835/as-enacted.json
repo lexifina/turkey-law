@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5835",
+  "year": 2009,
+  "title": "Kültür ve Tabiat Varlıklarını Koruma Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-02-11",
+  "gazette_issue": "27138",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090211-1.htm",
+  "source_sha256": "f065d2e80addfafb8b8020f050375dec1a90774e0e2a5310936f58b3dd5cf748",
+  "text_sha256": "72e6fb15057a117697a1232461b6914e0a2cdb5aacf7b22bf618e19b2ebfa34c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/02/11/27138-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090211-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
