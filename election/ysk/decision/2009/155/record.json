@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2009/155",
+  "list_number": "155",
+  "decision_date": "2009-02-12",
+  "title": "Milliyetçi Hareket Partisi ve Adalet ve Kalkınma Partisi Genel Başkanlıklarınca aday listelerinin verilmesinde tereddüde düşülen hususlarla ilgili Yüksek Seçim Kurulu'nun 2009/155 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2986/2009-155.pdf",
+  "source_sha256": "164e57e374802498c380ff193e5cb40b05ebe1577dca19d0e5a20e2466b634dc",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2009-02-12",
+  "law_text_complete": false
+}
