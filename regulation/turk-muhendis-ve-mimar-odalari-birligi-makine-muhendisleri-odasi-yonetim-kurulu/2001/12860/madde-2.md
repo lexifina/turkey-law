@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 — Bu Yönetmelik, Makina Mühendisleri Odasına kayıtlı Makina, Endüstri-Sanayi, İşletme, Uçak, Havacılık ve Uzay Mühendislerinin meslek alanlarına yönelik, toplumun gereksinimlerini karşılamak doğrultusunda araştırma, inceleme, projelendirme, tasarım, raporlama, eğitim, uygulama ve teknik sorumluluğu üstlenme gibi uzmanlık gerektiren Makine, Endüstri-Sanayi, İşletme, Uçak, Havacılık ve Uzay Mühendisliği hizmetleri için uzman üyelerin saptanması ve belgelendirilmesi kurallarını kapsar.

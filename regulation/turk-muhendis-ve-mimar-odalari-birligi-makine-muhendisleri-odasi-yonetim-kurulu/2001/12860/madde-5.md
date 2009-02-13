@@ -1,0 +1,2 @@
+Uzmanlık Konuları ve Uzmanlık Konularının Belirlenmesi
+Madde 5 — Oda mühendislik dalları öğrenim programları, Makina, Endüstri-Sanayi, İşletme, Uçak, Havacılık ve Uzay Mühendisliği uygulama alanlarını, mesleki bilimsel gelişmeleri, ülkenin teknolojik durumunu, kamuoyunun ve üyelerinin istemlerini dikkate alarak ve gerektiğinde oluşturacağı mesleki-bilimsel kurullara danışarak, üretilen ürün veya hizmetlerde kamu yararına meslekî denetimin sağlanması konusunda uzmanlık konularını ve uzmanlığın hangi koşullara göre belgelendirileceğini belirler ve üyelerine duyurur.
