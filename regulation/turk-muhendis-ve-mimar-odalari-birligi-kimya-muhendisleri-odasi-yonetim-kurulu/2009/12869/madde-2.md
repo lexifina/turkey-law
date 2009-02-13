@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Türk Mühendis ve Mimar Odaları Birliği Kimya Mühendisleri Odası üyelerinin meslek alanlarına yönelik, toplumun gereksinimlerini karşılamak doğrultusunda, araştırma, inceleme, planlama, projelendirme, tasarım, raporlama, bilirkişilik, denetim, danışmanlık, eğitim, uygulama ve teknik sorumluluğu üstlenme işlevleri kapsamında olan ve uzmanlık gerektiren hizmetler için yetkili üyelerin saptanması, eğitimi ve belgelendirilmesi hususlarını kapsar.

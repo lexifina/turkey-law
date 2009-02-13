@@ -1,0 +1,12 @@
+ÜÇÜNCÜ BÖLÜM
+Uzmanlık Alanlarının Belirlenmesi, Belgelendirme ve Sınav
+Meslekî uzmanlık konularının belirlenmesi
+MADDE 9 – (1) Oda, kimya mühendislerinin görev ve yetkilerine ilişkin, 31/7/2002 tarihli ve 24832 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Kimya Mühendisleri Odası Ana Yönetmeliğinde belirtilen çalışma alanlarına uygun olarak, kimya mühendisliği alanındaki gelişmeleri bilimsel ve teknik yönden değerlendirerek uzmanlığın hangi disiplin ve konuları kapsayacağını ve belgelendirmenin koşullarını belirler ve üyelere duyurur.
+(2) Belgelendirilecek meslekî uzmanlık konuları aşağıdaki esaslara göre belirlenir.
+a) KİMSEM, OYK’nin görevlendirmesiyle veya üyeler tarafından Odaya yapılan başvurular üzerine kendiliğinden, belgelendirilmesi düşünülen uzmanlık alanına ilişkin meslekî-bilimsel kurul oluşturur. Meslekî-bilimsel kurulda, KİMSEM Koordinatörü dışında, meslekî faaliyetlerini, akademik, sanayi ve serbest alanda sürdüren en az üç üye bulunur.
+b) KİMSEM, belgelendirilecek her bir uzmanlık konusu için oluşturulan meslekî-bilimsel kurul aracılığıyla uzmanlık alanının tanımını ve hangi ölçütlere göre tanınacağını belirtir yazılı görüş oluşturarak OYK’ye sunar.
+c) Temel ölçütler, üyenin deneyimi ve varsa yapıtları olmak üzere, uzmanlığın tanınma koşulları, uzmanlık konusunun özelliklerine göre oluşturulur. Uzmanlık konusunun tanımlanmasında kimya mühendisliği öğrenim programları, uygulama alanları, meslekî bilimsel gelişmeler, ülkenin teknolojik durumu ve mesleğin uygulanmasındaki ulusal ve uluslararası koşullar dikkate alınır.
+ç) OYK, KİMSEM’in yazılı görüşü ile kamuoyunun ve üyelerin istemlerini de dikkate alarak, mesleğin gelişimini ve üretilen ürün ya da hizmetlerde kamu yararına meslekî denetimin sağlanmasını gözeterek mesleğin uzmanlık konularını ve uzmanlığın hangi koşullara göre tanınacağını her uzmanlık konusu için ayrı olmak üzere belirler.
+d) Meslekî konulardaki gelişim gerektirdiğinde OYK, uzmanlığın tanınması koşullarını aynı usullerle değiştirebilir. Bu durumda üyelerin kazanılmış hakları korunur.
+e) OYK, uzmanlığın tanınmasıyla ilgili koşulları gerektiğinde TMMOB Yönetim Kurulu onayına sunar. TMMOB Yönetim Kurulu tarafından onaylanan uzmanlık konuları ve belgelendirme esasları Odanın internet sayfasında ve süreli yayınlarında duyurulur.
+f) TMMOB’ye bağlı diğer meslek odaları ile ortak olan konularda ilgili odalarla birlikte veya ayrı eğitim ve belgelendirme yapılabilir.

@@ -1,0 +1,2 @@
+Kimya mühendisliği uzmanlık alanları
+MADDE 10 – (1) Kimya mühendislerinin planlamaya, tasarlamaya, uygulamaya, kabule ve imzaya yetkili ve sorumlu oldukları alanlar 18/11/2008 tarihli ve 27058 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Kimya Mühendisleri Odası Serbest Kimya Mühendisliği Hizmetleri Uygulama, Tescil, Denetim ve Belgelendirme Yönetmeliğinin 5 inci maddesinde belirtilen hizmetlerden oluşur.

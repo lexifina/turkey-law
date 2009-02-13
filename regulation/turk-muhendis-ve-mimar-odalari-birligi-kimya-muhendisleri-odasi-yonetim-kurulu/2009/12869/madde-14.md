@@ -1,0 +1,3 @@
+Belgelerin iptali
+MADDE 14 – (1) 10/7/2002 tarihli ve 24811 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Disiplin Yönetmeliği ile 31/7/2002 tarihli ve 24832 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Kimya Mühendisleri Odası Ana Yönetmeliğinde belirtilen meslekî davranış kurallarına aykırı hareket ederek meslekten men cezası alanların belgesi OYK kararıyla iptal edilir.
+(2) OYK, belge sahibi hakkında meslekî bir nedenle açılan soruşturmanın sonuçlandırılmasına kadar veya belge sahibinin Odanın alacağı kararlara uymaması hâllerinde, belgenin kullanımını geçici olarak askıya alabilir.
