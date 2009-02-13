@@ -1,0 +1,2 @@
+Harcamalara katılma:
+Madde 6 – Dost veya müttefik devletlerin Silahlı Kuvvetleri personeline, Türkiye'de veya o ülkede yaptırılacak askeri eğitimin gerektirdiği malzemenin değeri, sevki ve teslimi ile ilgili harcamalara ve eğitim personelinin yolluk, aylık ve diğer özlük haklarının ödenmesi ile ilgili bütün masraflara, tarafların hangi nispette ve ne şekilde katılacakları, 31 Mayıs 1963 tarih ve 244 sayılı Kanun hükümlerine göre yapılacak andlaşmalarla tespit edilir.
