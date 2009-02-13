@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5837",
+  "year": 2009,
+  "title": "Askerlik Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-02-13",
+  "gazette_issue": "27140",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090213-1.htm",
+  "source_sha256": "9293f82a351aff8c8a306fd227908a392ce0fd90c2ab0495b0d0e52f08c97a45",
+  "text_sha256": "09171aad1a94eca01482eadf4fefe39b5d7c855533db6586dd18629ab982a14e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/02/13/27140-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090213-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
