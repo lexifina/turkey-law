@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-02-14",
+  "issue": "27141",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2009/14626 Türkiye Cumhuriyeti Hükümeti ile Macaristan Cumhuriyeti Hükümeti Arasında İmzalanan “2008-2011 Yıllarına İlişkin Eğitim, Bilim ve Kültür Alanlarında İşbirliği Programı”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090214-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090214.htm",
+  "index_sha256": "3c06673a4a8d56dcdd2c9ceb764d23552452a9d884ab5360e0994d1609f61e2b",
+  "index_header": "14 Şubat 2009 ... 27141 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
