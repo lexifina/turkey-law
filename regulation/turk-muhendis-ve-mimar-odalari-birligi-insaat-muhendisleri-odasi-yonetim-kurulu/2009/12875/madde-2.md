@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, inşaat mühendisliğinin yapı, yapı malzemesi, geoteknik, hidrolik ve su kaynakları, kıyı-liman, ulaştırma ve yapım yönetimi alanlarında, toplum gereksinimlerini karşılamak doğrultusunda araştırma, inceleme, projelendirme, raporlama, eğitim, denetleme ve teknik sorumluluk üstlenme gibi yetkinlik gerektiren hizmetler için Türk Mühendis ve Mimar Odaları Birliği İnşaat Mühendisleri Odasına kayıtlı inşaat mühendisleri arasından uygun nitelikte olanların belgelendirilmesine dair usul ve esasları kapsar.

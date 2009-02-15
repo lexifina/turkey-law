@@ -1,0 +1,4 @@
+Sınav kapsamları
+MADDE 9 – (1) 5 inci maddede belirtilen belge alanlarında yapılacak yazılı sınavlar ve her birinin içereceği konular aşağıda belirtilmiştir.
+a) Genel Konular Sınavı: Aynı dönemde belge sınavı açılan bütün alanlar için ortak bir sınavdır. İnşaat mühendisliğinin çeşitli alanlarındaki temel ilke ve kavramlar ile mühendisin uygulama çalışmaları sırasında kazanması beklenen uygulama bilgisini kapsayan bu sınavda sorulan çok sayıda sorudan yarıdan az olmayan bir bölümünün yanıtlanması istenir. Bu sınav, genel değerlendirmede 1/3 ağırlık taşır.
+b) Özel Konular Sınavı: Başvurulan alanın kapsadığı temel konuları ve bunlarla ilgili norm ilke ve kuralları ile bu alandaki sistemlerin tasarımına ve yapımına ilişkin uygulama kurallarını kapsayan bu sınav, genel değerlendirmede 2/3 ağırlık taşır. Bu sınavın en az %20 ağırlık taşıyan bir bölümü, 7 nci maddenin birinci fıkrasının (b) bendindeki raporun değerlendirmesine ayrılır.

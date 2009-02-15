@@ -1,0 +1,2 @@
+Sınav sonucuna itiraz
+MADDE 11 – (1) Aday, sınav başvuru ücreti tutarındaki itiraz ücretini yatırdıktan sonra, İMO Yönetim Kuruluna başvurarak sınav sonucuna itiraz edebilir. Bu itiraz İMO Yönetim Kurulu tarafından Belgelendirme Kuruluna gönderilir. İtiraz başvurusunu değerlendiren Belgelendirme Kurulu, yazılı sınav değerlendirmesinde maddi hata saptarsa gerekli düzeltmeyi yapar. İtiraz haklı görülürse, itiraz ücreti başvuru sahibine geri verilir; aksi durumda, itiraz ücreti geri ödenmez. İMO Yönetim Kurulunun itirazla ilgili kararı kesindir.
