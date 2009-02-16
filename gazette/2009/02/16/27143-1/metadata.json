@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-02-16",
+  "issue": "27143",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2009/14625 Türkiye Cumhuriyeti Hükümeti ile Birleşmiş Milletler Gıda ve Tarım Örgütü (GTÖ) Arasında İmzalanan “GTÖ Orta Asya Alt Bölge Ofisi Anlaşması”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090216-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090216.htm",
+  "index_sha256": "cf6eb9e465570c823eedd86a68109f7964387f96cf76cf60dd190b39259965ab",
+  "index_header": "16 Şubat 2009 ... 27143 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
