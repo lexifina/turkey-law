@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-02-16",
+  "issue": "27143",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Gıda Kodeksi Gıda Maddelerindeki Bulaşanların Maksimum Limitleri Hakkında Tebliğde Değişiklik Yapılması Hakkında Tebliğ (Tebliğ No: 2009/22)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090216-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090216.htm",
+  "index_sha256": "cf6eb9e465570c823eedd86a68109f7964387f96cf76cf60dd190b39259965ab",
+  "index_header": "16 Şubat 2009 ... 27143 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
