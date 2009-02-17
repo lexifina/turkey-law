@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5836",
+  "year": 2009,
+  "title": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesine Yönelik Kyoto Protokolüne Katılmamızın Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-02-17",
+  "gazette_issue": "27144",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090217-1.htm",
+  "source_sha256": "fcaeda428bf1e504d091109f08f5f24ed17add41cdfcfb497acb10636c493da8",
+  "text_sha256": "c64e151408e1484b99afe1cef9aeccbeb3e4c5ddfaa1ccd1fc89a6ffcfe1df57",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/02/17/27144-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090217-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
