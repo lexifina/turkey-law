@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30649",
+  "decision_date": "2009-02-17",
+  "source_id": 2075,
+  "chamber": "3",
+  "file_number": "29959",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2075/",
+  "source_sha256": "34dff739b2e32d9579c22b2240c615809758bde3b18e47507cdc69d74ec2ac20",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
