@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30646",
+  "decision_date": "2009-02-17",
+  "source_id": 2078,
+  "chamber": "1",
+  "file_number": "30104",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2078/",
+  "source_sha256": "377d637985571ca41ab1236b653dbf20eec1c51484d40eec142c10c2675359d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
