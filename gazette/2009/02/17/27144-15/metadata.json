@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-02-17",
+  "issue": "27144",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Nükleer Tesislerin Güvenliği İçin Kalite Yönetimi Temel Gerekleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090217-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/02/20090217.htm",
+  "index_sha256": "2dd8b4f400708e392a73d546f022fabd3f37426b5ef8912161f57b717cd615fa",
+  "index_header": "17 Şubat 2009 ... 27144 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
