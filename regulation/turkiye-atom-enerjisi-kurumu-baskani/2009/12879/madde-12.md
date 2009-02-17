@@ -1,0 +1,4 @@
+Soğutma sistemleri
+MADDE 12 – (1) Reaktör soğutma sistemleri, normal işletme koşulları ve kazalar sırasında kordan nihai ısı kuyusuna yeterli ve güvenilir ısı transferini sağlayacak şekilde tasarımlanır.
+(2) Soğutma sistemleri yüksek kalite, test ve bakım için uygunluk ile gerekli durumlarda yedeklilik ilkeleri dikkate alınarak tasarımlanır.
+(3) Tasarıma esas kazalar sırasında soğutma sisteminin yeterli olmaması durumunda acil durum kor soğutma sistemi tasarımlanır. Bu sistem reaktör soğutucu sistemi sınırının zarar görmesi sonucu meydana gelebilecekler de dahil olmak üzere tüm durdurulmuş durumlarda kordaki sıcaklık parametrelerini belirlenen güvenlik sınırları içinde tutacak kapasitede tasarımlanır. Acil durum kor soğutma sistemi tek arıza durumunda fonksiyonunu yerine getirecek şekilde ve yeterli güvenilirlikte tasarımlanır.

@@ -1,0 +1,2 @@
+Güvenilirlik tasarımı
+MADDE 7 – (1) Güvenlik fonksiyonlarının belirli bir güvenilirlikle yerine getirilebilmesi için tasarımda gereken önlemler alınır. Gerekli durumlarda yedeklilik sağlanarak hiçbir tek arızanın güvenlikle ilgili yapı, sistem ve bileşenlerin güvenlik fonksiyonlarını kaybetmelerine neden olmaması sağlanır. Farklılık, fiziksel ayrılık ve güvenli arızalanma gibi yöntemlerin tasarımda kullanılması ile ortak nedenli arızalar engellenerek güvenilirlik artırılır.

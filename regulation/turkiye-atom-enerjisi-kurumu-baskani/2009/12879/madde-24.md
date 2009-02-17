@@ -1,0 +1,4 @@
+İşletme sınır ve koşulları
+MADDE 24 – (1) Tesisin güvenlik analizlerine dayanılarak, halkın ve çalışanların sağlık ve güvenliği ile çevreyi korumayı garanti altına alan ve tesisin güvenli işletiminin bütünsel bir çerçevesini çizen işletme sınır ve koşulları (İSK) oluşturulur.
+(2) Tesisin genel güvenlik çerçevesini oluşturan İSK, güvenlik sınırları ile tüm farklı işletme durumları için güvenlik ayar sınırlarını, işletme için sınır koşullarını, gözetim ve izleme gereksinimlerini ve idari düzenlemeleri içerir.
+(3) Güvenlik sınırları, normal işletme koşulları ve tasarımda kapsanan kazalar durumlarında hiçbir şekilde aşılmaz. Bu sınırları aşmamak üzere belirlenecek olan güvenlik ayar sınırları geçiş durumlarını dikkate alacak ve her durumda güvenlik sınırlarının altında kalmayı garantileyecek düzeyde belirlenir. Reaktör koruma sisteminin ayarları, güvenlik ayar sınırlarını aşmamak koşulu ile herhangi bir noktada seçilebilir.

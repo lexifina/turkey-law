@@ -1,0 +1,6 @@
+Enstrümantasyon ve kontrol
+MADDE 15 – (1) Normal işletme koşulları ve kazalar sırasında tesisi izlemeye yönelik gerekli tüm enstrümantasyon ve görüntüleme sistemleri sağlanır, güvenlik açısından önemli parametreler kaydedilir. Normal işletme koşullarında sistem parametrelerinin belirlenen aralıklarda kalmasını sağlayacak el ile veya otomatik kontrol olanakları bulunur.
+(2) Enstrümantasyonun seçimi ve düzenlemesi ile görüntüleme yöntemleri ergonomik ilkeleri dikkate almalı, operatör hatalarını en aza indirmek üzere operatörün bilgiyi algılaması ve gerekli önlemleri alması için en uygun koşullar sağlanır. Normal işletme sırasında işletme parametrelerinde güvenliği azaltacak yönde oluşan değişikliklerin erken farkedilebilmesi için görsel ve işitsel alarm sistemleri tasarımlanır.
+(3) Sayısal enstrümantasyon ve kontrol içeren tasarımlarda, yazılım ve donanımların standartlara uygunluğunu test edecek ve sistemi doğrulayacak mekanizmalar oluşturulur ve tesisin ömrü boyunca uygulanır.
+(4) Kontrol odası, acil durumlar için bağımsız bir yedek kontrol odası ve kontrol odası kullanıcılarının kazalar sırasındaki güvenliği hususları reaktör tasarımına bağlı olarak dikkate alınır.
+(5) Güvenlik açısından önemli enstrümantasyon ve kontrollar düzenli olarak denetlenebilecek, test edilebilecek ve bakım yapılabilecek şekilde tasarımlanır.
