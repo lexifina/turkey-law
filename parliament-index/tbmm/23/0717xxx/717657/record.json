@@ -1,0 +1,81 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 717657,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun Tasarısına İlişkin (1/675) (S. Sayısı: 330)",
+  "title": "Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun Tasarısına İlişkin (1/675) (S. Sayısı: 330)",
+  "first_sitting_date": "2009-02-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 40,
+      "sitting": 62,
+      "sitting_date": "2009-02-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c040/tbmm23040062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c040/tbmm23040fih.pdf",
+      "pages": [
+        "200:204"
+      ]
+    },
+    {
+      "cilt": 43,
+      "sitting": 74,
+      "sitting_date": "2009-04-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c043/tbmm23043074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c043/tbmm23043fih.pdf",
+      "pages": [
+        "314:346"
+      ]
+    },
+    {
+      "cilt": 43,
+      "sitting": 77,
+      "sitting_date": "2009-04-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c043/tbmm23043077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c043/tbmm23043fih.pdf",
+      "pages": [
+        "757:765",
+        "766:796"
+      ]
+    },
+    {
+      "cilt": 43,
+      "sitting": 78,
+      "sitting_date": "2009-04-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c043/tbmm23043078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c043/tbmm23043fih.pdf",
+      "pages": [
+        "852:886",
+        "887:894"
+      ]
+    },
+    {
+      "cilt": 44,
+      "sitting": 80,
+      "sitting_date": "2009-04-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c044/tbmm23044080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c044/tbmm23044fih.pdf",
+      "pages": [
+        "26:39"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=346&v_gelecek_sayfa=101&v_kullanici_id=27484607",
+  "source_sha256": "23eb079325f74df6eb7e88e07567e62ac0286a6d80e449aef12f23363713c0e2",
+  "in_force": "2009-02-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
