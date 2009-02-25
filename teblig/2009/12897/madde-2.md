@@ -1,0 +1,2 @@
+Mevcut önlem
+MADDE 2 – (1) 2008/28 sayılı Tebliğ ile değişik İthalatta Haksız Rekabetin Önlenmesine İlişkin 2004/4 sayılı Tebliğ (2004/4 sayılı Tebliğ) kapsamında 9608.10.10.10.00, 9608.40.00.10.00 ve 9608.50.00.10.00 gümrük tarife istatistik pozisyonu (GTİP) altında kayıtlı “plastik maddelerden olan sıvı mürekkepli bilyalı kalemler” ve “plastik maddelerden olan dolma kurşun kalemler”in ÇHC menşeli olanlarına yönelik ülke temelinde dampinge karşı önlem mevcuttur.

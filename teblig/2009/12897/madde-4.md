@@ -1,0 +1,2 @@
+Gerekçe
+MADDE 4 – (1) Pensan Kalem ve Kağıt Sanayi ve Ticaret A.Ş. tarafından sağlanan bilgi ve belgeler ile TÜİK ithalat istatistiklerinden yararlanılarak yapılan inceleme neticesinde, dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir nihai gözden geçirme soruşturması açılması için yeterli delillerin bulunduğu anlaşılmıştır.
