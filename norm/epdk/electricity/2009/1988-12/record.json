@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1988/12",
+  "decision_date": "2009-02-26",
+  "title": "Primer Frekans Kontrol Hizmet Anlaşması Hakkında Kurul Kararı",
+  "resmi_gazete_date": "2009-03-05",
+  "resmi_gazete_number": "27160",
+  "categories": [
+    "Yan Hizmetlere İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GrOV0QANtQQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GrOV0QANtQQ="
+  ],
+  "source_sha256": "bcdd18c0021e6df324f8a8a233a856e3e5b611ea09ff54e3ad58c5e959f5a3dc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33874,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-02-26",
+  "law_text_complete": false
+}
