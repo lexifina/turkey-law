@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1995",
+  "decision_date": "2009-02-26",
+  "title": "tarafından uygulanacak perakende satış tarifesi ile ilgili Karar",
+  "resmi_gazete_date": "2009-02-28",
+  "resmi_gazete_number": "27155",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ppXl/Ek2/NA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ppXl/Ek2/NA="
+  ],
+  "source_sha256": "d5c4431f3c1caacf92dd6018e7ba6f40f4c58605efa152a5009230e7d94ae7d2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-02-26",
+  "law_text_complete": false
+}
