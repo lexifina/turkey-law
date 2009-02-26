@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "1994",
+  "decision_date": "2009-02-26",
+  "title": "Bursa Şehir içi Doğalgaz Dağıtım Ticaret ve Taahhüt A.Ş. tarafından uygulanacak perakende satış tarifesi ile ilgili Karar",
+  "resmi_gazete_date": "2009-02-28",
+  "resmi_gazete_number": "27155",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HS515S1yi+o=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HS515S1yi+o="
+  ],
+  "source_sha256": "b9c6d22e9f1b95f6d0088cf587acc0fe3cab2b2c5e3d586ad8d003a3a710c364",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-02-26",
+  "law_text_complete": false
+}
