@@ -1,0 +1,3 @@
+İhracında fon kesintisi aranan mallar
+MADDE 5 – (1) İhracında Destekleme ve Fiyat İstikrar Fonu'na prim kesintisi yapılan malların bedelsiz olarak ihraç edilebilmesi için, söz konusu primin ödendiğine dair banka dekontunun ibrazı gerekir. Ancak FOB değeri l.000 (bin) ABD Dolarını geçmeyen malların bedelsiz ihracı Destekleme ve Fiyat İstikrar Fonu kesintisine tabi değildir.
+(2) 6/6/2006 tarihli ve 26190 sayılı Resmî Gazete'de yayımlanan İhracı Kayda Bağlı Mallara İlişkin Tebliğ (İhracat 2006/7) eki listedeki mallardan, değeri FOB l.000 (bin) ABD Dolarını geçenlerin bedelsiz olarak ihracında kayıt şartı aranır.
