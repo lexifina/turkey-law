@@ -4,7 +4,7 @@ Altı aylık kıdem hesabında bu Kanunun 66 ncı maddesindeki süreler dikkate 
 Özellikle aşağıdaki hususlar fesih için geçerli bir sebep oluşturmaz:
 a) Sendika üyeliği veya çalışma saatleri dışında veya işverenin rızası ile çalışma saatleri içinde sendikal faaliyetlere katılmak.
 b) İşyeri sendika temsilciliği yapmak.
-c) Mevzuattan veya sözleşmeden doğan haklarını takip için işveren aleyhine idari veya adli makamlara başvurmak veya bu hususta başlatılmış sürece katılmak.
+c) Mevzuattan veya sözleşmeden doğan haklarını takip (Ek ibare:18/2/2009-5838/32 md.) veya yükümlülüklerini yerine getirmek için işveren aleyhine idari veya adli makamlara başvurmak veya bu hususta başlatılmış sürece katılmak.
 d) Irk, renk, cinsiyet, medeni hal, aile yükümlülükleri, hamilelik, doğum, din, siyasi görüş ve benzeri nedenler.
 e) 74 üncü maddede öngörülen ve kadın işçilerin çalıştırılmasının yasak olduğu sürelerde işe gelmemek.
 f) Hastalık veya kaza nedeniyle 25 inci maddenin (I) numaralı bendinin (b) alt bendinde öngörülen bekleme süresinde işe geçici devamsızlık.

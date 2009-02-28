@@ -6,8 +6,11 @@ c) Taşra birimlerinin kuruluşuna ilişkin işlemleri yürütmek.
 d) Merkez ve taşra teşkilatının iş ve işlem akışlarını düzenlemek ve verimliliğini artırmaya yönelik tedbirler almak.
 e) Taşra birimlerinin iş ve işlemlerinde koordinasyon ve uygulama birliğini sağlamak.
 f) İdare ve mükelleflerce kullanılacak belge ve formlarla vergi beyannamelerini hazırlamak.
+–––––––––––––––––––
+(1) 23/7/2010 tarihli ve 6009 sayılı Kanunun 38 inci maddesiyle, bu bentte yer alan Gelirler Kontrolörleri Daire Başkanlığı” ibaresi “Gelirler Kontrolörleri Başkanlığı” şeklinde değiştirilmiştir.
 g) Tüm ekonomik faaliyetlere ilişkin ulusal mali bilgi alt yapısını tek merkezden geliştirmek, yönetmek ve bu bilgileri ilgili birimlerin kullanımına sunmak.
 h) Kurumsal veri tabanını oluşturmak ve ulusal veri alt yapısının hazırlanmasına katkıda bulunmak.
 i) Mükellefiyet, vergilendirme, denetim ve risk analizine yönelik her türlü bilgi, veri ve istatistiği toplamak ve işlemek.
 j) Vergilendirme, denetim, planlama ve kayıt dışı ekonomiyle mücadele konularında veri sağlamak.
-k) Başkanlıkça verilecek diğer görevleri yapmak.
+k) (Ek: 18/2/2009-5838/20 md.) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu kapsamındaki kamu idarelerine verilmesi gereken her türlü beyanname, bildirge ve benzeri belgeleri, bu idarelerin mevzuatı gereğince elektronik ortamda bunlar adına almak.
+l) Başkanlıkça verilecek diğer görevleri yapmak. (1)
