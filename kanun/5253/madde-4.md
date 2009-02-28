@@ -1,5 +1,5 @@
 Dernek tüzüğü
-MADDE 4 — Her derneğin bir tüzüğü bulunur. Bu tüzükte aşağıda gösterilen hususların belirtilmesi zorunludur:
+Madde 4- Her derneğin bir tüzüğü bulunur. Bu tüzükte aşağıda gösterilen hususların belirtilmesi zorunludur:
 a) Derneğin adı ve merkezi.
 b) Derneğin amacı ve bu amacı gerçekleştirmek için dernekçe sürdürülecek çalışma konuları ve çalışma biçimleri ile faaliyet alanı.
 c) Derneğe üye olma ve üyelikten çıkmanın şart ve şekilleri.

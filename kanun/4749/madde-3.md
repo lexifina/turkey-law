@@ -9,6 +9,7 @@ Devlet dış borcu: Müsteşarlık tarafından herhangi bir dış finansman kayn
 Devlet iç borcu: Müsteşarlık tarafından yurt içinde ihraç olunan Devlet iç borçlanma senetleri, Hazinenin geçici nakit ihtiyacını karşılamak için yurt içi piyasalardan yaptığı borçlanmalar ve senede bağlı olup olmadığına bakılmaksızın Müsteşarlık tarafından üstlenilen her türlü malî yükümlülükleri,
 ––––––––––––––––––––
 (1) 16/7/2008 tarihli ve 5787 sayılı Kanunun 17 nci maddesiyle, bu maddede yer alan "genel, katma ve özerk bütçeli kurum ve kuruluşları" ibaresi "merkezi yönetim kapsamındaki kamu idareleri" şeklinde değiştirilmiştir.
+(2) 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle, bu maddede yer alan “merkezi yönetim kapsamındaki kamu idareleri,” ibaresinden sonra gelmek üzere “sosyal güvenlik kurumları,” ibaresi eklenmiştir.
 Devlet iç borçlanma senetleri: Müsteşarlık tarafından yurt içinde ihraç edilen borçlanma senetlerini,
 Devlet tahvili: İhraç edildikleri tarih itibarıyla bir yıl (364 gün) ve daha uzun vadeli Devlet iç borçlanma senetlerini,
 Dış borcun devri: Müsteşarlık tarafından herhangi bir dış finansman kaynağından sağlanan dış finansman imkânlarının ekonominin çeşitli sektörlerinde gelişmeyi sağlamak ve/veya finansman ihtiyacını karşılamak üzere genel bütçe kapsamındaki kamu idareleri ile Yükseköğretim Kurulu, üniversiteler ve yüksek teknoloji enstitüleri dışındaki kamu kurum ve kuruluşları ile bankalara, anlaşmanın malî şartları ile birlikte, asıl borçlusu bu kuruluşlar olmak kaydıyla aktarılmasını,(1)

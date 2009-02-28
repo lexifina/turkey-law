@@ -1,11 +1,9 @@
 ALTINCI BÖLÜM
 Ceza Hükümleri
 Ceza hükümleri
-MADDE 32 — (Değişik: 23/1/2008-5728/558 md.)
+Madde 32- (Değişik: 23/1/2008 – 5728/558 md.)
 Bu Kanun hükümlerine aykırı davrananlara uygulanacak cezalar aşağıdaki şekildedir:
 a) Dernek kurma hakkına sahip olmadıkları halde dernek kuranlar veya derneklere üye olmaları kanunlarla yasaklandığı halde dernek üyesi olanlar ile derneklere üye olması kanunlarla yasaklanmış kişileri bilerek dernek üyeliğine kabul eden veya kaydını silmeyen veya dernek üyesi iken derneklere üye olma hakkını kaybeden kişileri dernek üyeliğinden silmeyen dernek yöneticilerine beşyüz Türk Lirası idarî para cezası verilir.
-–––––––––––––––––
-(1) 23/1/2008 tarihli ve 5728 sayılı Kanunun 557 nci maddesiyle, bu maddenin üçüncü fıkrasında yer alan “ağır hapis veya ağır para cezası” ibaresi “hapis cezası” şeklinde değiştirilmiştir.
 b) Genel kurulu süresinde toplantıya çağırmayan, genel kurul toplantılarını kanun ve tüzük hükümlerine aykırı olarak veya dernek merkezinin bulunduğu veya tüzüğünde belirtilen yer dışında yapan dernek yöneticilerine beşyüz Türk Lirası idarî para cezası verilir. Mahkemece, kanun ve tüzük hükümlerine aykırı olarak yapılan genel kurul toplantılarının iptaline de karar verilebilir.
 c) Yurt dışı yardımı bankalar aracılığıyla almayan dernek yöneticilerine, bu şekilde alınan paranın yüzde yirmi beşi oranında idarî para cezası verilir.
 d) Derneğe ait tutulması gereken defter veya kayıtları tutmayan veya tasdiksiz defter tutan dernek yöneticileri üç aydan bir yıla kadar hapis veya adlî para cezası ile cezalandırılır. Bu defter ve kayıtların usulüne uygun tutulmaması halinde dernek yöneticilerine ve defterleri tutmakla sorumlu kişilere beşyüz Türk Lirası idarî para cezası verilir. Adına yetki belgesi düzenlenmediği halde gelir toplayanlar ile bilerek bu şekilde gelir toplanmasına izin veren yönetim kurulu üyelerine bin Türk Lirası idarî para cezası verilir.
@@ -16,6 +14,7 @@ h) 16 ncı maddede belirtilen bildirim yükümlülüğünü yerine getirmeyen ba
 ı) 17 nci maddede yer alan zorunluluğa uymayanlara yüz Türk Lirası idarî para cezası verilir.
 j) 19 uncu maddede belirtilen beyannameyi bilerek gerçeğe aykırı olarak verenler yüz günden az olmamak üzere adlî para cezası ile cezalandırılır.
 k) 9 ve 19 uncu maddelerin üçüncü fıkralarındaki zorunluluğa uymayanlar ile tutulması zorunlu olan defter ve belgelerin, gerekli dikkat ve özen gösterilmiş olması şartıyla elde olmayan bir nedenle okunamayacak hâle gelmesi veya kaybolması hâlinde, öğrenme tarihinden itibaren onbeş gün içinde dernek merkezinin bulunduğu yerin yetkili mahkemesine zayi belgesi almak için başvurmayan veya bu belgeyi denetim sırasında ibraz edemeyenler üç aya kadar hapis veya adlî para cezası ile cezalandırılır. 21 inci maddedeki yükümlülüklere aykırılık halinde de failler hakkında aynı cezaya hükmolunur.
+9083
 l) 22, 23 ve 24 üncü maddelerde belirtilen bildirim yükümlülüğünü, 19 uncu maddede belirtilen beyanname verme yükümlülüğünü yerine getirmeyen dernek yöneticilerine ve 24 üncü maddede belirtilen temsilcilere beşyüz Türk Lirası idarî para cezası verilir.
 m) 26 ncı maddede belirtilen tesisleri izinsiz açan dernek yöneticilerine beşyüz Türk Lirası idarî para cezası verilir ve tesisin kapatılmasına da karar verilebilir.
 n) 28 inci maddede belirtilen kelimeleri izinsiz kullanan veya 29 uncu maddede belirtilen yasaklara, yazılı olarak uyarılmalarına rağmen, aykırı hareket eden dernek yöneticileri, fiilleri daha ağır bir cezayı gerektirmediği takdirde, yüz günden az olmamak üzere adlî para cezası ile cezalandırılır ve derneğin feshine de karar verilir.

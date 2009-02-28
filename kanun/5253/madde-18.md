@@ -1,3 +1,3 @@
 Yargılama usulü
-MADDE 18 — Bu Kanunla ilgili olarak hukuk mahkemelerinde bakılacak davalarda basit yargılama usulü uygulanır.
-(Mülga ikinci fıkra: 23/1/2008-5728/578 md.)
+Madde 18- Bu Kanunla ilgili olarak hukuk mahkemelerinde bakılacak davalarda basit yargılama usulü uygulanır.
+(Mülga ikinci fıkra: 23/1/2008 – 5728/578 md.)
