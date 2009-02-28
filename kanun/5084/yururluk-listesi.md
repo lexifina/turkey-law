@@ -7,3 +7,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5538 | 5 | 12/7/2006
 5568 | 7 | 30/12/2006
 5615 | 3, 4, 5, 6, GEÇİCİ MADDE 2 | 4/4/2007 tarihini izleyen aybaşında
+5838 | 3, 4, 6, 7 5, GEÇİCİ MADDE 3 | 1/1/2009 tarihinden geçerli olmak üzere 28/2/2009 28/2/2009

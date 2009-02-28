@@ -6,3 +6,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5684 | 57, 93, GEÇİCİ MADDE 15 | 14/6/2007
 5728 | 74, 76, 81, 83 | 8/2/2008
 5795 | 74, 83 | 1/8/2008
+5838 | GEÇİCİ MADDE 16 | 28/2/2009

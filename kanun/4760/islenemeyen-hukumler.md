@@ -16,6 +16,9 @@ MADDE 10 – a) 4760 sayılı Kanuna ekli (III) ve (IV) sayılı listeler, ekli 
 MADDE 14 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (II) sayılı listenin 87.03 G.T.İ.P. numarasında yer alan "- Diğerleri" ibaresinden önce, vergi oranı % 10 olmak üzere "- Motor silindir hacmi 3200 cm3’ü geçmeyen sürücü dahil 9 kişilik oturma yeri olanlar" ibaresi eklenmiş ve (III) sayılı listenin (B) cetvelinin "Asgari Maktu Vergi Tutarı" sütununda yer alan "0,0600" tutarları "0,0700" olarak değiştirilmiştir.
 7- 4/6/2008 tarihli ve 5766 sayılı Kanunun 19 uncu maddesi:
 MADDE 19 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (I), (II), (III) ve (IV) sayılı listeler; ekli (1), (2), (3) ve (4) sayılı cetvellerde gösterildiği şekilde değiştirilmiş … (6)
+8- 18/2/2009 tarihli ve 5838 sayılı Kanunun 13, Geçici 3 üncü maddeleri:
+MADDE 13 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununun eki (I) sayılı Listenin (B) cetvelinde yer alan bazı mallara ilişkin özel tüketim vergisi, bu Kanuna ekli (1) sayılı cetvelde karşılarında gösterildiği tutarlarda tespit edilmiş, aynı (I) sayılı Listenin (B) cetveline, bu Kanuna ekli (2) sayılı cetvelde yer alan G.T.İ.P. numaralı mallar, vergi tutarları ile birlikte eklenmiştir. (7)
+GEÇİCİ MADDE 3 – 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (II) sayılı listede yer alan ve 1/8/2002 - 21/7/2005 tarihleri arasında 87.03 G.T.İ.P. numarasından özel tüketim vergisi beyan edilmesi gerekirken 87.04 G.T.İ.P. numarasından özel tüketim vergisi beyan edilen araçlarla ilgili olarak, bu maddenin yürürlüğe girdiği tarihten önceki dönemler için özel tüketim vergisi tarhiyatı yapılmaz, daha önce yapılan tarhiyatlardan vazgeçilir, tahakkuk eden tutarlar terkin edilir. Tahsil edilmiş tutarlar red ve iade edilmez. (7)
 ––––––––––––––––––
 (1) Bu maddede yer alan listelerle ilgili olarak 7/8/2003 tarihli ve 25192 sayılı Resmi Gazete’de yayımlanan 4962 sayılı Kanunun ekine bakınız.
 (2) Bu maddede yer alan listelerle ilgili olarak 31/7/2004 tarihli ve 25539 sayılı Resmi Gazete’de yayımlanan 5228 sayılı Kanunun ekine bakınız.
@@ -23,6 +26,7 @@ MADDE 19 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununa e
 (4) Bu maddede yer alan listelerle ilgili olarak 21/7/2005 tarihli ve 25882 sayılı Resmi Gazete’de yayımlanan 5398 sayılı Kanunun ekine bakınız.
 (5) Bu maddede yer alan listelerle ilgili olarak 8/4/2006 tarihli ve 26133 sayılı Resmi Gazete’de yayımlanan 5479 sayılı Kanunun ekine bakınız.
 (6) Bu maddede yer alan listelerle ilgili olarak 6/6/2008 tarihli ve 26898 (Mükerrer) sayılı Resmi Gazete’de yayımlanan 5766 sayılı Kanunun ekine bakınız.
+(7) Bu maddede yer alan listelerle ilgili olarak 28/2/2009 tarihli ve 27155 (Mükerrer) sayılı Resmi Gazete’de yayımlanan 5838 sayılı Kanunun ekine bakınız.
 Mevzuatın | Yayımlandığı Resmi Gazete’nin
 Türü | Numarası | Tarihi | Numarası
 B.K.K | 2002/4481 | 30/7/2002 | 24831
