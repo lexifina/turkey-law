@@ -1,0 +1,3 @@
+İcra Komitesi üyeleri
+MADDE 7 – (1) Son beş yıl içinde, disiplin cezası alanlar ile haklarında sigorta eksperliğine engel bir suçtan dolayı kovuşturma açılmasına karar verilenler kovuşturma tamamlanıncaya kadar İcra Komitesine seçilemez ve tüzel kişi sigorta eksperini temsil edemezler.
+(2) Üyelik sıfatı tüzel kişi sigorta eksperine ait olmak üzere, tüzel kişi sigorta eksperleri, İcra Komitesinde şirketi temsile yetkili kişiler tarafından temsil edilir. İcra Komitesinde yer alan tüzel kişi sigorta eksperi ile temsilcisi arasındaki ilişkinin sona ermesi hâlinde, sigorta eksperinin ve temsilcisinin İcra Komitesindeki görevi sona erer.
