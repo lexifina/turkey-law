@@ -1,0 +1,6 @@
+Finansal tabloların açıklanmasından sonraki dönem
+MADDE 34 – (1) Finansal tabloların açıklanmasından sonra denetçinin herhangi bir denetim yapma sorumluluğu yoktur.
+(2) Denetçi, finansal tabloların açıklanmasından sonra ortaya çıkan, ancak rapor tarihinden önce gerçekleşmiş olan ve o anda bilindiği takdirde finansal tablolarda önemlilik derecesi yüksek değişikliklere yol açacak bir durumla karşılaştığında, finansal tabloların değiştirilmesi olasılığını göz önünde bulundurarak ve konuyu şirketle görüşerek mevcut şartlar altında alınması gereken en uygun kararı almalıdır.
+(3) Finansal tabloların düzeltilmesi durumunda, denetçi, gerekli gördüğü denetim tekniklerini uygulayarak, yönetimin düzeltmelerini kontrol eder.
+(4) Denetçinin güncelleşmiş raporu, daha önce yayınlanmış olan raporun değişme sebebini açıklayan detay bir not içerir. Yeni rapor tarihi, değişikliğin yapıldığı tarihten önceki bir tarih olamaz. Bu durumda rapor tarihine kadar olan süreye ilişkin hükümlerde belirtilen uygulamalar yeni rapor tarihine kadar güncelleştirilir.
+(5) Finansal tabloların düzeltilmediği ve denetçinin raporun düzeltilmesinin kesinlikle gerekli olduğunu düşündüğü durumlarda, denetçi, şirkete, önceden yayınlanmış olan rapora güvenilmesini engellemek üzere gerekli önlemlerin alınmasına yönelik olarak harekete geçeceğini bildirir ve Müsteşarlığa bilgi verir.

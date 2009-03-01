@@ -1,0 +1,2 @@
+Görüş dışında verilen açıklamalar
+MADDE 25 – (1) Denetçinin görüşünü etkilemeyen ancak açıklanması gerekli görülen veya bilançonun ya da bağımsız denetim raporunun düzenlendiği tarih itibarıyla sonuçları makul bir şekilde tahmin edilemeyen ancak finansal tablo dipnotlarında gerekli açıklamalara yer verilmiş bulunan belirsizliklerin ve benzeri diğer hususların bulunması halinde bu durum, denetim raporuna görüş kısmından sonra eklenecek ayrı bir paragrafta belirtilerek, rapor kullanıcılarının bu konuya dikkati çekilir.

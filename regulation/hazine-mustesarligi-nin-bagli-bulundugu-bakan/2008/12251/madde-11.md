@@ -1,0 +1,12 @@
+Hata ve suiistimal
+MADDE 11 – (1) Bağımsız denetimin planlama ve uygulama aşamasında, finansal tablolarda hata veya suiistimalden kaynaklanabilecek yanlışlıkların olabileceği dikkate alınmalıdır.
+(2) Muhasebe politikalarının yorum hatası nedeniyle yanlış uygulanması, muhasebe verilerinde ve kayıtlarındaki hesap yanlışlıkları ve bunlara benzer uygulamalar hata olarak kabul edilir.
+(3) Belge veya kayıtların manipülasyonu, değiştirilmesi veya tahrif edilmesi, varlıkların yanlış tahsis edilmesi, kayıtlarda ve belgelerde yer alan işlemlerin sonuçlarının hesaplara yansıtılmaması ve muhasebe politikalarının belirli bir amaca yönelik olarak kasten yanlış uygulanması ve bunlara benzer uygulamalar suiistimal olarak değerlendirilir.
+(4) Etkin muhasebe ve iç kontrol sistemlerinin, finansal tablolarda hata ve suiistimalden kaynaklanan yanlışlıkların bulunması ihtimalini azalttığı, muhasebe ve iç kontrol sistemlerinin yapısındaki zayıflığın, yöneticilerin ehliyet ve basireti hakkındaki kuşkuların, şirket içindeki olağan dışı baskılar ve işlemlerin, yeterli ve güvenilir denetim kanıtı elde etmede karşılaşılan sorunların hata ve suiistimal riskini arttırdığı kabul edilir.
+(5) Denetçi, finansal tablolarda hata veya suiistimalden kaynaklanan önemli yanlışlıkların bulunmadığını, bulunsa dahi bunların etkisinin finansal tablolara yansıtıldığını veya düzeltildiğini gösterir yeterli ve uygun denetim kanıtı bulmakla yükümlüdür.
+(6) Denetim sürecinde hata veya suiistimal ile karşılaşılması durumunda, bunların finansal tablolar üzerindeki etkisinin göz önünde bulundurulması, tespit edilen hata ve suiistimalin finansal tablolar üzerinde önemli ölçüde etkide bulunacağı sonucuna varılırsa ilave inceleme yapılması zorunludur.
+(7) Denetçi, ortaya çıkan hata ve suiistimaller hakkında şirketin yönetim kuruluna veya yöneticilerine mümkün olan her aşamada bilgi vermek zorundadır.
+(8) Denetçi hata ve suiistimal ile ilgili bulguları,
+a) Finansal tablolar üzerinde önemli bir etkisi olduğu ve finansal tablolara yansıtıldığı veya düzeltilmediği kanaatinde ise olumsuz veya şartlı görüş,
+b) Finansal tablolar üzerinde önemli etkisinin var olup olmadığını değerlendirmek için yeterli ve uygun denetim kanıtının elde edilmesi şirket tarafından engellenmişse, şartlı görüş veya görüş bildirmeme,
+c) Şirketten ziyade, şartların getirdiği sınırlamalar nedeniyle varlığının veya boyutunun belirlenemediği hallerde, finansal tablolar ve bağımsız denetim raporu üzerindeki olası etkilerinin değerlendirilmesine göre belirlenecek görüşü bildirme, şeklinde denetim raporuna yansıtır.

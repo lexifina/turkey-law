@@ -1,0 +1,12 @@
+Kayıt düzeni ve çalışma kağıtları
+MADDE 18 – (1) Denetçinin, bağımsız denetim faaliyetleriyle ilgili olarak düzenli ve yeterli bir kayıt düzenine sahip olması şarttır.
+(2) Denetçi, denetimin bu Yönetmeliğe uygun olduğunu göstermek ve verilen görüşü desteklemek için toplanan kanıtları ve yapılan çalışmaları çalışma kağıtları olarak muhafaza etmelidir. Çalışma kağıtları, denetimi planlamaya ve yapmaya, işleri gözden geçirmeye ve denetim kanıtlarını kaydetmeye yardımcı olmalıdır.
+(3) Çalışma kağıtlarının mülkiyeti bunları düzenleyen kuruluşa aittir. Çalışma kağıtları, şirketin yazılı izni olmaksızın Müsteşarlık dışında üçüncü kişilere verilemez ve açıklanamaz. Çalışma kağıtlarının gizliliğinin ve güvenliğinin sağlanması zorunludur.
+(4) Kuruluşlar, çalışma kağıtlarını ve yapılan denetime ilişkin her türlü bilgi ve belgeyi, Müsteşarlıkça yapılacak denetimler sırasında ve sonrasında, Müsteşarlıkça istenilmesi durumunda, ibraz etmekle yükümlüdür.
+(5) Bağımsız denetim kuruluşları ve denetçiler, aşağıdaki hususları göz önünde bulundurarak, kullanacakları çalışma kağıtlarının şeklini belirlemekte serbesttirler:
+a) Her çalışma kağıdında bir başlık bulunur. Bu başlık şirketi, denetlemenin yapıldığı dönemi, çalışma kağıdının konusunu, hazırlanma tarihini ve çalışma kağıdını hazırlayan denetçinin ad ve parafını içerir.
+b) Tamamlanmış çalışma kağıtlarında; kullanılan denetleme yöntem ve teknikleri ile ilgili hususlar, puantaj işaretleri ve sembollerin anlamları, hesap teyitleri, meslek mensubunun iç kontrol sisteminden yararlanıp yararlanmadığı veya düşünceleri açıkça gösterilir ve yeterli açıklamalara yer verilir.
+c) Çalışma kağıtları, denetim kapsamı ile sınırlı olmak üzere, defter kayıtlarının ve buna göre düzenlenmiş finansal tabloların ilgili mevzuatla düzenlenen muhasebe ilke ve standartlarına ne ölçüde uygun hazırlanmış olduğu hususlarında güven yaratacak şekilde açıklık taşır. Çalışma kağıtları ayrıca elektronik ortamda tutulabilir ve saklanabilir.
+ç) Çalışma kağıtları, denetim faaliyetinin incelemeye tabi tutulması halinde meslek mensubunun savunmasını temin edecek şekilde, yapılan denetim çalışmalarının tüm aşamalarını gösterir.
+d) Denetim programına göre denetimi yapılan hususlar ile aksayan denetim faaliyeti konuları, nedenleriyle birlikte çalışma kağıtlarında belirtilir.
+(6) Çalışma kağıtlarının dosyaları içinde, düzenlenmelerini izleyen yıldan itibaren beş yıl süreyle veya bu süre içinde hukuki ihtilafa konu olanların, ihtilafın sonuçlanmasına kadar saklanması ve yetkililerce istenildiğinde ibraz edilmesi zorunludur.

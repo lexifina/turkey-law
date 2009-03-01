@@ -1,0 +1,7 @@
+Denetim riski
+MADDE 17 – (1) Denetim riski, şirketin finansal tablolarının önemli ölçüde hata içermesine rağmen denetçinin bunlar hakkında olumlu görüş verme olasılığıdır. Denetim riski; şirketin iç kontrol sisteminin işlevsel olmadığı veya çalışmadığı varsayımı altında, bazı işlem türleri veya hesap bakiyelerinin belirli yapısal ve çevresel özellikler nedeniyle önemli sayılabilecek yanlışlıklardan etkilenebiliyor olma riskini ifade eden yapısal riski, şirketin muhasebe ve iç kontrol yapısıyla ilgili olarak oluşturduğu politika ve uygulamaların, hesap bakiyesinde veya işlem türünde yer alan önemli hataları önleyememesi, ortaya çıkaramaması ve bunların zamanında düzeltilememesi riskini ifade eden iç kontrol riskini ve hesap bakiyelerinde veya işlem türlerinde yer alan önemli hataları denetçinin ortaya çıkaramaması riskini ifade eden bulgu riskini içerir.
+(2) Denetim planlaması esnasında denetçi, katlanabileceği denetim riski düzeyini ve bunun denetim yöntemlerinin yapısına, zamanına ve kapsamına etkisini belirlemelidir. Bu çerçevede, denetim riskini teşkil eden;
+a) Yapısal riskin, finansal tabloların bütünü dahilinde değerlendirilmesi ve önemlilik düzeyi ile ilişkilendirilmesi,
+b) Kontrol riskinin, muhasebe sisteminin varlığı, işleyişi ve etkinliği ile ilişkilendirilerek değerlendirilmesi,
+c) Bulgu riskinin, yapısal risk ile kontrol riski düzeyine göre belirlenerek kabul edilebilir bir düzeyde tutulabilmesi için uygun bir denetim uygulaması geliştirilmesi,
+suretiyle bunların çalışma kağıtlarına aktarılması gereklidir.

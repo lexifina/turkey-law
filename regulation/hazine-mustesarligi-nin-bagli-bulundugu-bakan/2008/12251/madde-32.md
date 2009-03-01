@@ -1,0 +1,6 @@
+ALTINCI BÖLÜM
+Bilanço ve Rapor Tarihinden
+Sonraki İşlemler
+Bilanço tarihinden sonra rapor tarihinden önceki dönem
+MADDE 32 – (1) Denetçi, bilanço tarihinden rapor tarihine kadar olan süre içinde, finansal tablolarda düzeltme veya açıklama gerektirecek bulguları ortaya çıkarmak için gerekli denetim tekniklerini uygulamakla yükümlüdür. Bu teknikler, yönetim kurulu, olağan ve varsa genel kurul ve olağanüstü genel kurul tutanaklarını rapor tarihine kadar inceleyerek henüz yazıya geçmemiş kararlar hakkında yönetimden bilgi almak, şirketin, varsa denetlenen dönemden sonraki en son ara dönem finansal tablolarını, bütçesini, nakit akım öngörülerini ve yönetime sunulan diğer raporları gözden geçirmek ve daha önce elde edilmiş bilgileri şirketle görüşerek güncelleştirmek gibi hususları kapsamalıdır.
+(2) Denetim tekniklerinin uygulanmasında, bilanço tarihinden sonra finansal tabloları etkileyebilecek olan yeni bir yükümlülük altına girilip girilmediği veya yeni bir yükümlülük doğurabilecek işlem yapılıp yapılmadığı, aktiflerin herhangi bir şekilde satılıp satılmadığı veya herhangi bir şekilde zarara uğrayıp uğramadığı, kayıtlarda önemlilik derecesi yüksek herhangi bir düzeltme yapılıp yapılmadığı gibi konular hakkında bilgi edinilmesi gereklidir.

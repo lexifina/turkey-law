@@ -1,0 +1,2 @@
+Bağımsızlık
+MADDE 6 – (1) Bağımsızlık, mesleki faaliyetin dürüst ve tarafsız yürütülmesini sağlayacak bir davranış ve anlayışlar bütünüdür. Denetçiler, çalışmaları sırasında ortaya çıkabilecek çıkar çatışmalarından uzak kalmak, dürüstlük ve tarafsızlıklarını etkileyebilecek hiçbir müdahaleye imkan vermemek, bağımsız denetim sonucunda ulaştıkları görüşlerini, başkalarının doğrudan veya dolaylı çıkarlarını düşünmeksizin raporlarında açıklamak zorundadır.

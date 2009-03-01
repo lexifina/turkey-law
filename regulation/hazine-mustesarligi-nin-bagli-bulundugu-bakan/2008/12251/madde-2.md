@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Sigorta ve Reasürans ile Emeklilik Şirketlerinde Bağımsız Denetim Yapılmasına İlişkin Yönetmelik hükümleri çerçevesinde, şirketlerde bağımsız denetim yapma yetkisi almış kuruluşlar ile 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanunu ile 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanunu hükümleri çerçevesinde faaliyet gösteren sigorta, reasürans ve emeklilik şirketlerini kapsamaktadır.
