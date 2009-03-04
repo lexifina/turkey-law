@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-03-04",
+  "issue": "27159",
+  "edition": "mükerrer 1",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Mal Alımı İhaleleri Uygulama Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/03/20090304M1-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/03/20090304M1.htm",
+  "index_sha256": "6bb5bff506919698033e0b6c0cc16578e089e12937d6f62624c4667668e668b6",
+  "index_header": "4 Mart 2009 ... 27159 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
