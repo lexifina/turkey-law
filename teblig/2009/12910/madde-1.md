@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, 12.11.2008 tarihli ve 27052 sayılı Resmî Gazete’de yayımlanan 2008/14257 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan “Türkiye Cumhuriyeti Gümrük Müsteşarlığı ile Rusya Federasyonu Federal Gümrük Servisi Arasında Gümrük İşlemlerinin Basitleştirilmesine İlişkin Protokol”ün 9 uncu maddesi çerçevesinde 18 Şubat 2009 tarihinde İstanbul’da imzalanan Mutabakat Zaptı uyarınca, Basitleştirilmiş Gümrük Hattı (BGH) uygulamasının usul ve esaslarını düzenlemektir.

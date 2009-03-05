@@ -1,0 +1,2 @@
+GÜMRÜK GENEL TEBLİĞİ (İHRACAT)
+(SERİ NO: 1)
