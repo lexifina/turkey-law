@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2005/2",
+  "decision_date": "2009-03-05",
+  "title": "OSB Dağıtım Bedelleri",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UmH8hraSsRw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UmH8hraSsRw="
+  ],
+  "source_sha256": "825c66e2c8d70c2b2d5eb44a4d4f4b1bcd5267e3e3cb2b110324937b3f1aa701",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2009-03-05",
+  "law_text_complete": false
+}
