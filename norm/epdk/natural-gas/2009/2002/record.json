@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2002",
+  "decision_date": "2009-03-05",
+  "title": "Doğal Gaz Piyasasındaki serbest tüketicilere ve 2009 yılı boyunca uygulanmak üzere, serbest tüketici olma sınırına ilişkin Kararı Doğal Gaz Piyasasındaki serbest tüketicilere ve 2009 yılı boyunca uygulanmak üzere, serbest tüketici olma sınırına ilişkin Karara ilişkin değişiklik (Öncesi ve Düzetmesi)",
+  "resmi_gazete_date": "2009-03-31",
+  "resmi_gazete_number": "27168",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9TPy+n31iXs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9TPy+n31iXs="
+  ],
+  "source_sha256": "0655e803ac37d3f71c0db724f55f2060c0b21899f373c76e5431429e2fb9ba3f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-03-05",
+  "law_text_complete": false
+}
