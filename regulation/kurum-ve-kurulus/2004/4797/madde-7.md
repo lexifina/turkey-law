@@ -1,0 +1,3 @@
+Uzaklığı Ölçme Yetkisi
+Madde 7 — Umuma açık yerler ile içkili yerlerin açılmasına izin verilirken o yerin en az 100 metre civarında okul bulunup bulunmadığı ve özel eğitime muhtaç bireylerin devam ettikleri öğretim kurumları ile okulların dışındaki diğer özel öğretim kurumlarının aynı binada bulunup bulunmadığının tespiti, mahallî kolluk kuvvetlerince yapılır.
+Okulların açılmasına izin verilirken o yerin en az 100 metre civarında umuma açık yerler ile içkili yerlerin bulunup bulunmadığı, özel eğitime muhtaç bireylerin devam ettikleri öğretim kurumları ile okulların dışındaki diğer özel öğretim kurumlarının açılmasına izin verilirken de aynı binada umuma açık yerler ile içkili yerlerin bulunup bulunmadığının tespiti, il millî eğitim müdürlüklerince yapılır.

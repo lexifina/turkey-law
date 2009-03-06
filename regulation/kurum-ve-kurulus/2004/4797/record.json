@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.4797",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "UMUMA AÇIK YERLER VE İÇKİLİ YERLER İLE RESMÎ VEYA ÖZEL ÖĞRETİM KURUMLARI ARASINDAKİ UZAKLIKLARIN BELİRLENMESİNE DAİR YÖNETMELİK",
+  "number": "4797",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2004/4797",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4797&MevzuatTertip=5",
+  "source_sha256": "a77da1ba89a2df220a8fc56bd20858798258285a7668f172144a2b48a5cd7f0e",
+  "source_bytes": 19097,
+  "published": "2004-04-03",
+  "gazette": "25422",
+  "in_force": "2009-03-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.-6/3/2009\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2009-03-06",
+      "R.G.-6/3/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 697,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
