@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12921",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TARIMSAL ÜRÜNLERDE İHRACAT İADESİ YARDIMLARINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2009/1)",
+  "number": "12921",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2009/12921",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12921&MevzuatTertip=5",
+  "source_sha256": "4850836e1adde767beee06035acc2c4be8d0632531e6e449677ca6d2c872e826",
+  "source_bytes": 100382,
+  "published": "2009-03-09",
+  "gazette": "27164",
+  "in_force": "2009-03-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.03.2009); own commencement article: \"Bu Tebliğ 1/1/2009 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2009 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2460,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

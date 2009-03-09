@@ -1,0 +1,1 @@
+MADDE 24 – (1) Bu Tebliğ’in uygulama usul ve esaslarının belirlenmesinde, bu çerçevede idari müeyyidelerin tespitinde ve ortaya çıkacak ihtilafların sonuçlandırılmasında Dış Ticaret Müsteşarlığı yetkilidir.
