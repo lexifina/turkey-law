@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-03-09",
+  "issue": "27164",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Tarımsal Ürünlerde İhracat İadesi Yardımlarına İlişkin Tebliğ (No: 2009/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/03/20090309-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/03/20090309.htm",
+  "index_sha256": "2bc2fa2a6e11886b0499aa6fb6680bcddcf56039e5ab2b7c72a10f22524bb20f",
+  "index_header": "9 Mart 2009 ... 27164 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
