@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2013",
+  "decision_date": "2009-03-11",
+  "title": "2009 yılı birinci dönem ŞİD değişiklik önerilerinin birleştirilmesine ilişkin Kurul Kararı",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gBjVZTFPF+Q=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gBjVZTFPF+Q="
+  ],
+  "source_sha256": "231ac8da3f1221950ecf3c0010c35f2c3246f73b4b712352e9e1938fabae8ad4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-03-11",
+  "law_text_complete": false
+}
