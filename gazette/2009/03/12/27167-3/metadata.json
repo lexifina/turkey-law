@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-03-12",
+  "issue": "27167",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "3218 Sayılı Serbest Bölgeler Kanunu Genel Tebliği (Seri No: 1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/03/20090312-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/03/20090312.htm",
+  "index_sha256": "6c87fa040aa0b8bfc77ae1038efa12df0ebe441ab722b578ea804d43b2a08a6a",
+  "index_header": "12 Mart 2009 ... 27167 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
