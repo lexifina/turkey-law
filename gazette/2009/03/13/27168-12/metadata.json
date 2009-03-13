@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-03-13",
+  "issue": "27168",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "İşkolu Tespit Kararı (No: 2009/9)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/03/20090313-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/03/20090313.htm",
+  "index_sha256": "e5bd8f0c4e5c60c98f6d7fa7f96806e4b7104796533de5a5a837352c65437101",
+  "index_header": "13 Mart 2009 ... 27168 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
