@@ -1,0 +1,6 @@
+Açık teklif usulünde ihale
+MADDE 33 – (1) İlanda belirtilen ihale saati gelince komisyon başkanı, isteklilerin belgelerini ve geçici teminat verip vermemiş olduklarını inceleyerek kimlerin ihaleye katılabileceğini bildirir. Katılamayacakların belge ve teminatlarının geri verilmesi kararlaştırılır. Bu işlemler istekliler önünde bir tutanakla tespit edilir.
+(2) Tutanaktan sonra, ihaleye giremeyecekler ihale mahallinden çıkartılır. Diğer istekliler önce şartnameyi imzaya ve daha sonra sıra ile tekliflerini belirtmeye çağırılır. Yapılacak teklifler ihaleye ait artırma kağıdına yazılır ve teklif sahipleri tarafından imzalanır.
+(3) İlk teklifler bu suretle tespit edildikten sonra komisyon başkanı, posta ile yapılmış teklifler varsa okutarak bu tekliflerin de ihaleye ait artırma kağıdına yazılmasını sağlar. Bundan sonra istekliler sıra ile tekliflerde bulunmaya devam ederler. İhaleden çekilen isteklilerin bu durumları ihaleye ait artırma kağıdına yazılır ve imzaları alınır. İlgilinin imzadan çekinmesi halinde durum ayrıca belirtilir.
+(4) İhaleden çekilenler yeniden teklifte bulunamazlar.
+(5) Teklifler yapıldığı sırada, yapılan artırımların işi uzatacağı anlaşılırsa; isteklilerden komisyon huzurunda son tekliflerini yazılı olarak bildirmeleri istenebilir. Daha önce ihaleden çekilmiş olanlar bu durumda yazılı teklif veremezler.

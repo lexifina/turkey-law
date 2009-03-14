@@ -1,0 +1,2 @@
+İsteklinin ceza sorumluluğu
+MADDE 49 – (1) Taahhüt tamamlandıktan sonra tespit edilmiş olsa dahi, 48 inci maddede belirtilen fiil veya davranışlarda bulunan gerçek veya tüzel kişiler ile o işteki ortak veya vekilleri hakkında Türk Ceza Kanunu hükümlerine göre ceza kovuşturması yapılmak üzere yetkili Cumhuriyet Başsavcılığına suç duyurusunda bulunulur. Bu durumda olanlardan haklarında Cumhuriyet Başsavcılığınca soruşturma açılmasına karar verilenlere yargılama sonuna kadar hiçbir surette iş verilmez.

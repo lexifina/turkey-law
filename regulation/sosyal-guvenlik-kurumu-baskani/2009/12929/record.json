@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.12929",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL GÜVENLİK KURUMU TAŞINIR SATIŞ İŞLEMLERİ YÖNETMELİĞİ",
+  "number": "12929",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "issuer_slug": "sosyal-guvenlik-kurumu-baskani",
+  "path": "regulation/sosyal-guvenlik-kurumu-baskani/2009/12929",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12929&MevzuatTertip=5",
+  "source_sha256": "add98284cd8603178a940da4134dcd474d62aa2e290243629afbb05bb2d734e5",
+  "source_bytes": 78819,
+  "published": "2009-03-14",
+  "gazette": "27169",
+  "in_force": "2009-03-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.03.2009); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3695,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
