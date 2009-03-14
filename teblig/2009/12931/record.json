@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.12931",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 59)",
+  "number": "12931",
+  "path": "teblig/2009/12931",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12931&MevzuatTertip=5",
+  "source_sha256": "a7d059428467481a81ca8d2157cc140ce6cdaca3be5f4cb32af28ae4e16e9121",
+  "source_bytes": 29866,
+  "published": "2009-03-14",
+  "gazette": "27169",
+  "in_force": "2009-03-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.03.2009)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1598,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.12931-ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
