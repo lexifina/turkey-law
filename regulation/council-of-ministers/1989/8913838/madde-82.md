@@ -1,0 +1,4 @@
+Hayvan Toplama İzni
+Madde 82 – Yurt içinde veya yurt dışında bulaşıcı ve salgın hayvan hastalığı nedeniyle hassas bölgeler Bakanlıkça tespit ve ilan olunur. Buralardan hayvan toplamak ve nakletmek isteyenler en büyük mülki amire dilekçeyle başvurur. Müracaat Bakanlık il müdürlüğünce incelenir. Uygun olduğu anlaşılırsa valilikçe mülki sınırlar dahilinde hayvan toplama izni verilir.
+Verilen izinle toplanan hayvanlar hükümet veteriner hekimince muayene edilir. Hastalıksız hayvanlar aşılanır. Aşı tatbikinden 15 gün sonra veteriner sağlık raporu düzenlenir ve nakline müsaade edilir.
+Hassas bölge ilan edilen yerlerden izin alınmadan toplanan hayvanlar hükümet veteriner hekimince 21 gün müşahadeye alınır. Müşahade sonunda sağlam bulunanlar hassas bölge ilanına neden olan bulaşık hayvan hastalığına karşı aşılanır. Veteriner sağlık raporu verilerek hayvanların nakline izin verilir. Toplayanlar hakkında kanuni işlem yapılır.

@@ -1,0 +1,2 @@
+Temizlik ve Dezenfeksiyon
+Madde 52 – Hastalık çıkan yerlerde bulaşmaya vasıta olabilecek eşya ve maddelerden temizlenmesi ve dezenfekte edilmesi mümkün olanlar temizlenir ve dezenfekte edilir. Mümkün olmayanlar yakılarak imha edilir. Eşya ve maddelerin temizlik işi sahipleri tarafından hükümet veteriner hekiminin gözetiminde yapılır. Temizlenen eşya ve maddeler Bakanlık il veya ilçe müdürlüklerince temin olunan ilaçlarla dezenfekte edilir. Dezenfeksiyona hükümet veteriner hekimi nezaret eder.

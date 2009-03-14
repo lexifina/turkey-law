@@ -1,0 +1,4 @@
+Menşe Şahadetnamesi ve Veteriner Sağlık Raporu Aranması Mecburiyeti
+Madde 6 – Yurda kara, su ve hava yollarıyla ithal olunacak hayvan ve maddelerinin sahipleri, vekilleri veya nakledicileri bunların çıkış yerinde salgın ve bulaşıcı hayvan hastalığı olmadığına ve sağlıklı bulunduklarına dair menşe ve resmi veteriner hekim tarafından verilmiş sağlık raporunu göstermeye mecburdurlar.
+Menşe ve veteriner sağlık raporları ayrı ayrı veya tek bir belge halinde düzenlenmiş olabilir. Bunların mutlaka hayvan ve hayvan maddelerinin çıktıkları ülkenin yetkili devlet veterineri tarafından imzalanıp bağlı bulunduğu servisin resmi mühürü ile de tasdik edilmiş olması gereklidir.
+Sağlık raporları özel veteriner hekim tarafından tanzim edilmiş ise, bunların yetkili devlet veteriner hekimi tarafından tasdik edilmiş olması mecburidir.

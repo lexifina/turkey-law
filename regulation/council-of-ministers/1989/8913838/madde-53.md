@@ -1,0 +1,2 @@
+Tecrit Yeri
+Madde 53 – Hastalık çıkan yerlerde hasta ve hastalıktan şüpheli hayvanları tecrit etmek için köy ihtiyar heyeti veya belediyeler hasta ve hastalıktan şüpheli hayvanların diğer hayvanlarla temas etmiyecekleri ahır, ağıl gibi kapalı veya etrafı çeşitli şekilde ihata edilmiş açık tecrit yeri göstermekle yükümlüdür. Buraya konulan hayvanlar hakkında hükümet veteriner hekimi tarafından karar verilinceye kadar, iaşe masrafları hayvan sahipleri tarafından temin edilir.

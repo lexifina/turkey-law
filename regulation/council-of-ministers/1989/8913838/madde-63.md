@@ -1,0 +1,2 @@
+Zati İhtiyaç Kabul Edilen Hayvan Maddeleri
+Madde 63 – Zati ihtiyaca mahsus veya mahalli pazarlara götürülen hayvan maddeleri için menşe şahadetnamesi veya veteriner sağlık raporu aranmaz. Alım - satıma konu olmamak kaydıyla hayvan maddelerinden 50 kg. et, üç adet küçükbaş, bir adet büyükbaş hayvan derisi, 50 kg. yapağı, 10 kg. tiftik ile 10 kilograma kadar diğer hayvan maddeleri zati ihtiyaç olarak kabul edilir.

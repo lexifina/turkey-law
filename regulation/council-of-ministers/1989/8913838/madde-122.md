@@ -1,0 +1,13 @@
+Koyun ve Keçi Vebası (PPR)[2]
+Madde 122 – (Değişik: 5/8/1999 - 99/13213 K.)
+Koyun ve keçi vebası hastalığı tespit edildiğinde hastalığı söndürmek için genel tedbirlere ilave olarak hastalığın durumuna göre aşağıdaki özel tedbirler o yerin hayvan sağlık zabıtası komisyonunca kararlaştırılır.
+a) Koyun ve keçi vebası çıkan yer karantinaya alınır ve geçit yerlerine hastalık levhaları konur. Hastalıklı yerin pazarında küçükbaş hayvanların satışı yasaklanır.
+b) Hastalığın bulaşmasından şüphe duyulan hayvanlar dışında olan ve enfeksiyona açık çayır, mera, su ve yol ortaklığı bulunan küçükbaş hayvanlara attanue homolog PPR aşısı veya attanue sığır vebası aşısı tatbik edilir.
+c) Koyun ve keçi vebası hastalığının süratli bir şekilde yayılma gösterdiği durumlarda karantina bölgesindeki iskele, istasyon ve anayollarda küçükbaş hayvan sevkiyatı yasaklanır.
+d) Koyun ve keçi vebasından öldükleri kesin olması sebebiyle otopsi yapılmayan hayvanlarla, hastalık şüphesiyle otopsi yapılan hayvanlar iki metre derinliğindeki çukurlara üzerine sönmemiş kireç dökülerek veya yakılarak gömülür.
+e) Koyun ve keçi vebası hastalığı çıktığında uygulanacak aşılama programı ve esasları Bakanlıkça tespit edilir ve valiliklere bildirilir.
+f) Koyun ve keçi vebası hastalığının çıkması sonucu karantiyana alınan yerlerden koyun, keçi, sığır, manda ve kanatlı hayvanlar ile saman, ot ve hayvansal maddelerin çıkartılması yasaktır. Deve ve tektırnaklı hayvanlar ile sığır derilerinin dezenfekte edildikten sonra dışarı çıkartılmasına izin verilir.
+g) Nakliyat esnasında koyun ve keçilerde veba hastalığı saptandığında ilk varılacak iskele, istasyon ve diğer yerlerde hastalar, hayvan sağlık zabıtası komisyonu kararı ile 21 gün süreyle karantinaya alınır. Karantina altına alınan yerlerdeki sürülerin bakım ve iaşe masrafları sahipleri tarafından karşılanır.
+h) Hasta veya hastalıktan şüpheli hayvanlarla temas edenlerin ellerini, elbise ve ayakkabılarını dezenfekte etmeleri zorunludur. Hasta hayvanlara ait eşya ve malzemeler, nakilde kullanılan vasıtalar dezenfekte edilmedikçe kullanılmaz. Hasta hayvanların bulundukları yerin zemini, duvarları, yemlikleri, bölmeleri dezenfekte edildikten sonra kullanılır. Hastalıklı yerdeki yemler tektırnaklı hayvanlara yedirilebilir.
+i) Koyun ve keçi vebası hastalığı Türkiye'ye sınırı olan devletlerde veya başka ülkelerde çıktığında yurt içinde belirlenecek tampon bölgeler ile koruyucu aşılama programı Bakanlıkça düzenlenir. Bakanlık il müdürlükleri koyun ve keçi vebası aşılama programını bütün imkanlarını ve personelini görevlendirerek öncelikle uygulamak zorundadır.
+j) Koyun ve keçi vebası hastalığı sebebi ile konulan karantina, son ölüm veya iyileşmeden 30 gün sonra gerekli dezenfeksiyon yapılarak kaldırılır.

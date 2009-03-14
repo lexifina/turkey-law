@@ -1,0 +1,2 @@
+Kıymet Takdiri
+Madde 136 – Tazminat ödenmesi gereken hallerde hayvanların kıymetini takdir etmek için üç kişilik kıymet takdiri komisyonu kurulur. Komisyon hayvan sağlık zabıtası komisyonu başkanlığınca görevlendirilen bir üye, hayvan sahibinin göstereceği bilirkişi ve hükümet veteriner hekiminin iştiraki ile teşekkül eder. 3285 sayılı Kanuna göre öldürülmesi veya kestirilmesi gereken hayvanların kıymet takdiri mahalli rayice göre komisyonca yapılır.

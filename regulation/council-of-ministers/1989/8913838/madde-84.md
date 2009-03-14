@@ -1,0 +1,2 @@
+Belgesiz Sürüler Hakkındaki İşlemler
+Madde 84 – Menşe şahadetnamesi ve veteriner sağık raporu almadan hareket eden hayvanlar tespit edildikleri yerde 21 gün karantinaya alınır. Karantina sonunda sağlam olanlara hükümet veteriner hekimince veteriner sağlık raporu düzenlenir ve hareketlerine izin verilir. Menşe şahadetnamesiz ve raporsuz hareket eden hayvan sahipleri hakkında cezai hükümler uygulanır.

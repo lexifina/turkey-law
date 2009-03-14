@@ -1,0 +1,2 @@
+Program Dışı Koruyucu Aşılamalar
+Madde 49 – Bakanlık emri veya programı dışında koruyucu maksatla aşı yaptırmak için Bakanlık il veya ilçe müdürlüklerine müracaat edilebilir. Gerek hayvan sahibi tarafından bizzat, gerekse hükümet veteriner hekimi tarafından bedeli karşılığında aşı üretim yahut stok merkezlerinden gerekli aşı temin edilerek nakil vasıtası hayvan sahibine ait olmak üzere aşı uygulanır. Aşılama ücreti makbuz karşılığı alınır.

@@ -1,0 +1,4 @@
+Kordon Altında Hareket
+Madde 56 – Kordon altına alınmış bulunan yerlerden, hastalığa tutulabilecek, hastalık amili taşıyabilecek veya bulaştırabilecek hayvanlarla bunların her türlü maddelerinin toplatılması, park, pazar ve sergilere gönderilmesi yasaktır.
+Kordon bölgesinden hastalığa tutulabilecek hayvanlara ait maddelerin dışında kalan ve hükümet veteriner hekiminin gerekli gördüğü tedbirler alındıktan sonra çıkarılmasına izin verdiği maddeler çıkarılabilir.
+İzinsiz çıkarılan hayvan maddelerine bir tutanağa istinaden el konularak, gerekli laboratuvar muayene sonuçlarına göre işleme tabi tutulur. Hastalıklı ve bulaşmadan şüpheliler imha olunur; salimler serbest bırakılarak, çıkaranlarla sahipleri, haklarında 3285 sayılı Kanunun 46 ncı maddesine göre işlem yapılmak üzere mahalli mahkemeye sevk edilir.

@@ -1,0 +1,2 @@
+Panayırlarda Hastalık Çıkışı
+Madde 80 – Hayvan panayırının açılışından itibaren hükümet veteriner hekimi gelen hayvanların menşe şahadetnamelerini veya sağlık raporlarını kontrol eder. Panayıra gelen hayvanlarda hastalık tespiti durumunda, panayır o yerin mülki amirince derhal kapatılır. Hasta, hastalıktan şüpheli ve sirayete maruz olanlarla hastalığın nev'ine göre bu Yönetmelikte belirtilen işlemler uygulanır. Hasta hayvanların menşeine durum bir yazı ile bildirilir.

@@ -1,0 +1,3 @@
+İhbarı Mecburi Hastalıkların Belirlenmesi
+Madde 4 – Hayvan Sağlığı ve Zabıtası Kanununa tabi ve ihbarı mecburi hayvan hastalıkları, Bakan onayı ile teşkil olunan Hayvan Sağlığı Danışma Kurulunca belirlenir ve hastalıklara ait liste Bakanlık tebliği olarak Resmi Gazete'de yayımlanır.
+Resmi Gazete'de yayımlanan ihbarı mecburi hastalıklardan biri veya bir kaçının listeden çıkarılması veya yeni hastalıkların ilavesi gerektiğinde, konu Hayvan Sağlığı Danışma Kurulunda müzakere edilir. Hayvan Sağlığı Danışma Kurulu görüşünün Bakanlıkça uygun bulunması halinde hazırlanan liste Bakanlık tebliği olarak Resmi Gazete'de yayımlanır.

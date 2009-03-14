@@ -1,0 +1,4 @@
+Etlerin Damgalanması
+Madde 101 – Mezbaha, et kombinası ve kesim yerlerinde kesilen ve veteriner hekimce muayene ve kontrol edilen etlerden hastalıksız olanlar sağlığa zararsız sabit mürekkepli damga ile mühürlenir. Koyun ve sığırlarda mormavi, keçi, manda, deve ve domuzlarda kırmızı mürekkep kullanılır. Damgalarda hayvanın nev'i, kesim yerinin ismi, kod numarası, Bakanlıkça verilen sıra numarası bulunur.
+Şartsız olarak yenilmesine karar verilen etler 3,5 cm. çapında daire şeklindeki; gıda kıymeti düşük etler bir kare içerisindeki 3,5 cm. çapındaki daire şeklindeki; imhası mecburi etler kenarları 5 cm. olan eşkenar üçken şeklindeki; fenni işlem yapıldıktan sonra yenilecek etler kenarları 4 cm. olan kare şeklindeki damgalarla mühürlenir.
+Damgalar vücudun iki tarafına omuz, göğüs, karın, but veya sağrı bölgeleri üzerine vurulur. Damgalama işlemi etlerin muayenesini yapan Veteriner hekimin gözetimi altında yapılır.

@@ -1,0 +1,2 @@
+Serbest Veteriner Hekim ve Veteriner Sağlık Teknisyenlerinin İhbar Yükümlülüğü
+Madde 32 – Serbest veteriner hekim veya serbest veteriner sağlık teknisyenleri bir yerde hayvan hastalığı yahut sebebi belli olmayan hayvan ölümleri gördüğünde en yakın köy muhtarına, jandarma karakoluna, polis veya belediye zabıtasına, mahallin mülki amirine veya Bakanlık il veya ilçe müdürlüğüne bildirmekle yükümlüdür.

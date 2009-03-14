@@ -1,0 +1,2 @@
+Kordon Sahasındaki Sürülerin Hareket ve Bakımı
+Madde 57 – Kordon altında bulunan yerlerde, hastalığa hassas olan sürülerin bir biriyle temas etmesine izin verilmez. Bu sürülerin kordon mıntıkası dışına çıkarılması yasaktır. Hükümet veteriner hekimi hastalık tamamen söndükten sonra kordonun kaldırılmasını takiben sürülerin hareketine müsaade eder. Kordon altındaki yerlerdeki sürülerin bakım ve iaşe masrafları sahipleri tarafından karşılanır.

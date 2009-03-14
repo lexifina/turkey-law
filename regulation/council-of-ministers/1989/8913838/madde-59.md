@@ -1,0 +1,2 @@
+Bölgesel Salgın Hastalıklarda Giriş ve Çıkış Yasağı
+Madde 59 – Bir bölgede hastalık salgın bir hal aldığı zaman hayvan sağlık zabıtası komisyonu kararı ile bölgedeki iskele, istasyon ve hava alanları, genel geçiş yolları, hayvan park, pazar ve panayırları hastalığın söndürülmesine kadar kısmen veya tamamen aynı hastalığa hassas hayvanlara kapatılır. Kesilmek üzere mezbaha ve diğer kesim yerlerine nakledilecek hayvanların bölgeye girmesine izin verilir.

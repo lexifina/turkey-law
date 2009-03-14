@@ -1,0 +1,2 @@
+Menşe Şahadetnamesinin Düzenlenmesi
+Madde 73 – Muhtarlık veya belediyelerce verilecek menşe şahadetnamesinde hayvan ve hayvan maddesini sevk edenin adı, soyadı, açık adresi, hayvan veya hayvan maddesinin nev'i, cinsi, miktarı, götürülecek yerin adı ve varsa adresi, köy veya belediye hudutları içerisinde bir aydan beri hayvan hastalığı bulunmadığı ve tanzim edenin adı soyadı, unvanı ve tarihi yazılır; resmi mühürle mühürlenip imza edilir.

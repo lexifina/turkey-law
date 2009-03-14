@@ -1,0 +1,2 @@
+Biyolojik Madde Uygulamaları
+Madde 43 – Hayvan hastalıklarının teşhisi maksadı ile biyolojik madde kullanılması gereken durumlarda uygulamalar kamu kuruluşlarında görevli veteriner hekimler ile bu Yönetmelik çerçevesinde görevlendirilen serbest veteriner hekimler tarafından yapılır. Uygulama sonuçları tatbikatı yapan veteriner hekim tarafından bir raporla Bakanlık il veya ilçe müdürlüğüne bildirilir. İhbarı ve takibi mecburi bir hastalık teşhis olunduğunda bu Yönetmeliğe göre işlem yapılır.

@@ -1,0 +1,2 @@
+Kesim Yerlerinin Kontrolu
+Madde 104 – Mezbaha, et kombinası ve kesim yerleri, illerde Bakanlık il müdürlüğünde görevli veteriner hekimlerce, ilçelerde hükümet veteriner hekimince hijyenik şartlar bakımından kontrol edilir. (Sağlık ve Sosyal Yardım Bakanlığının yetki ve sorumlulukları saklıdır.) Noksanlıklar bir tutanakla tesbit edilir ve giderilmesi için il veya ilçe müdürlüklerince ilgili kuruluşa bildirilir. Aynı halin tekerrüründe faaliyetleri mahallin mülki amirince durdurulur.

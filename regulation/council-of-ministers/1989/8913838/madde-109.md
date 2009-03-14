@@ -1,0 +1,16 @@
+Şarbon Hastalığı
+Madde 109 – Bir yerde şarbon hastalığının çıktığını haber alan hükümet veteriner hekimi hastalık bölgesine geldiğinde hastaları ayırır ve sağlam hayvanlardan ayrı bir yerde muhafaza altına alır. Hayvan sağlık zabıtası komisyonu kurulur. Komisyon hükümet veteriner hekiminin hastalık raporuna göre hastalık çıkış kararı alır ve hastalığı ilan eder.
+a) Mayvan sağlık zabıtası komisyonu kararına göre tesbit edilen hastalıklı bölgenin giriş ve çıkış yerlerine "şarbon hastalığı vardır" levhaları dikilir.
+b) Şarbon hastalığından ölen hayvanlar mümkünse yakılarak imha edilir veya iki metre derinliğindeki çukurlara, üzerlerine sönmemiş kireç dökülerek, derileri ile birlikte gömülür. Hastalıktan ölen hayvanlara ait maddelerin çevreyi bulaştırmaması için hükümet veteriner hekimi gerekli tedbirleri almakla yükümlüdür.
+c) Hasta ve hastalıktan şüpheli hayvanların yem ve su kapları bulundukları yerden dışarı çıkarılamaz ve diğer hayvanlar için kullanılmaz. Hasta ve hastalıktan şüpheli hayvanların bulunduğu yere çıplak ayakla girilmez. Hayvan bakıcılarının ellerinde ve açık yerlerinde yara bulunmamalıdır.
+d) Hasta ve hastalıktan şüpheli hayvanların kesilmesi ve etlerinin tüketilmesi yasaktır. Deri, kıl, yapağı, boynuz ve tırnaklarına el konulur ve imha edilir.
+e) Hasta ve bulaşmadan şüpheli hayvanların sütü, yapağı ve kılları imha edilir.
+f) Şarbon hastalığı yoldaki sürülerde ve hayvanlarda nakledilirken çıkmışsa hastalar ayrılır. Hastalıksız hayvanlar ayrı bir yerde karantinaya alınır. Beş gün içinde hastalıksız hayvanlardan yeni bir hasta tesbit edilmez ise sürünün yer değiştirmesine izin verilir.
+g) Şarbon hastalığından ölen hayvanlara otopsi yapılmaz. Ancak marazi madde almak için kadavralar gömülecek çukurun içinde açılır. İşlem tamamlandıktan sonra derhal sönmemiş kireç dökülerek gömülür.
+h) Şarbon hastalığının sönüşüne kadar karantina bölgesine aşısız tektırnaklı, sığır, koyun, keçi ve domuzların girmesi yasaklanır. Şarbon hastalığına karşı aşılanmış hayvanların girişine izin verilir.
+i) Karantina bölgesinden mezbahaya sevk edilmek istenen büyük ve küçük baş hayvanlar hükümet veteriner hekimince muayene edilir. Hastalıksız oldukları tesbit edilen hayvanlar derhal kesilmek üzere kapalı vasıtalarla en yakın mezbahaya gönderilir. Hükümet veteriner hekimi durumu mezbaha veteriner hekimine bildirir.
+j) Şarbon hastalığı insanlara da bulaşabileceğinden, hükümet veteriner hekimi hastalık hakkında hayvan sahiplerine ve mahalli sağlık teşkilatına bilgi verir.
+k) Şarbon hastalığı mikrobu ile bulaşık mera ve su kaynaklarına hayvanların girmesi yasaklanır. Bu yerlerde otlatılmasında ve sulanmasında zaruret olan hayvanlar şarbon hastalığına karşı aşılanır ve aşılamadan 15 gün sonra bulaşık bölgeye girmelerine müsaade edilir.
+l) Şarbon mikrobu ile bulaştığından şüphe edilen hayvan yemleri laboratuvar sonuçlarına göre değerlendirilir. Müsbet çıkanlar imha edilir.
+m) Şarbon hastalığı çıkan veya hasta ve hastalıktan şüpheli hayvanların muhafaza edildiği ahır ve ağıllara; buralardaki eşya ve malzemeler, hayvan yemleri ve maddeleri ile artıkları dezenfekte edildikten sonra hastalıksız hayvan konulmasına müsaade edilir.
+n) Şarbon hastalığında konulan karantina son ölüm veya iyileşmeden 15 gün sonra gerekli dezenfeksiyon yapıldıktan sonra kaldırılır.

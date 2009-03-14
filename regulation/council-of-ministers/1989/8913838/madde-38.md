@@ -1,0 +1,2 @@
+Ölen Hayvanlara Yapılacak İşlem
+Madde 38 – Hastalık çıkan yere hükümet veteriner hekimi gelinceye kadar ölen hayvanlar muayene için muhafaza altına alınır. Ölen hayvanın kokuşması halinde, bu hayvanların derileri yüzülmeden ve uygun bir şekilde nakledilerek hayvanların uğrağı olmayan, akarsulardan uzak, yeraltı sularını kirletmeyecek şekilde en az iki metre derinliğindeki çukurlara kireçlenerek gömülmeleri veya yakılmaları mahalli idari makamlar tarafından temin olunur.

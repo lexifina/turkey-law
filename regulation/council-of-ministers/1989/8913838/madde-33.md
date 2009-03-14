@@ -1,0 +1,2 @@
+Hastalık Çıkan Bölgelere Yakın Çevrede İhbar Şekli
+Madde 33 – Hayvan hastalığının yaygın olarak hüküm sürdüğü bölgelere yakın yerlerde bir hayvanın hastalanması veya ölmesi halinde dahi hayvan sahibi, hayvan bekçisi, koruyucusu, çobanı veya celepler en yakın muhtara yahut jandarma karakoluna haber vermekle yükümlüdürler. İhbarı alanlar derhal mahallin en büyük mülki amirine haber vermek zorundadır.

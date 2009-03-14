@@ -1,0 +1,2 @@
+Girişlerdeki İtlaf ve İmhalarda Belediyelerin ve Köy Muhtarlıklarının Sorumluluğu
+Madde 21 – Tespit edilen gümrük kapılarına getirilen veya gümrük kapıları dışında hududun herhangi bir yerinden yurda sokulan hayvanlar ile hayvan maddelerinden imha edilmesine karar verilenler için mahalli belediye ve köy muhtarlıkları yer göstermek mecburiyetindedir. Öldürme ve imha işlemleri hükümet veteriner hekiminin nezaretinde belediye veya köy muhtarlıkları ekiplerince yapılır.

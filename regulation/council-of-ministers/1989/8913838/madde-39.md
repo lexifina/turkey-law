@@ -1,0 +1,2 @@
+Hükümet Veteriner Hekiminin Hastalık Yerine Gitmesi
+Madde 39 – Bir yerde salgın hayvan hastalığı çıktığını haber alan hükümet veteriner hekimi en seri vasıta ile en geç 24 saat içinde hastalık yerine gider. İl yahut ilçe müdürü gerekli vasıtayı temin etmekle yükümlüdür. Hastalık yerine gidilmesi için il veya ilçe müdürlüğünün imkanlarının yeterli olmadığı durumlarda mülki ve mahalli idare ve zabıta makamları gereken her türlü kolaylığı ve yardımı göstermeye mecburdur. Gerektiğinde mülki idare amiri Silahlı Kuvvetlerin yardımını ister.

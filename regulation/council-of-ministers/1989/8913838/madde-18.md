@@ -1,0 +1,6 @@
+Raporsuz Getirilen Hayvan ve Maddelerine Uygulanacak İşlemler
+Madde 18 – 8/5/1986 tarihli ve 3285 sayılı Kanunun 5 inci maddesine göre tesbit edilen gümrük kapılarına;
+a) Veteriner sağlık raporu olmadan getirilen hayvan ve hayvan maddeleri ile herhangi bir bulaşıcı hastalığa yakalanmış olduğu tesbit edilen hayvanlar reddolunur, yurda girişleri yasaklanır.
+b) Veteriner sağlık raporu olmadan getirilen ve reddi mümkün olmayan hayvanlardan hastalıklı veya hastalıklardan şüpheli görülenler tazminatsız olarak öldürülür ve imha olunur.
+c) Veteriner sağlık raporu olmadan getirilen ve reddi mümkün olmayan, hastalık belirtisi göstermeyen hayvanlar son muayene yerlerine gönderilir. Buralarda, bütün bakım ve karantina masrafları sahiplerine ait olmak üzere 21 gün karantinaya alınır. Bu müddet içinde bulaşıcı hastalık taşımayanların ithaline izin verilir. Hastalıklı hayvanlar tazminatsız olarak öldürülür ve imha edilir.
+d) Veteriner sağlık raporu olmadan getirilen ve reddi mümkün olmayan hayvan maddeleri bakım ve karantina masrafları sahiplerine ait olmak üzere karantinaya alınır. Bunların hastalık taşımadığı ilgili laboratuvarların muayenesi sonunda anlaşıldığında, ithaline izin verilir. Hastalık taşıdığı tesbit olunan hayvan maddeleri tazminatsız olarak imha olunur.

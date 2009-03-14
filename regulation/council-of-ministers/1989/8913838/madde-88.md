@@ -1,0 +1,2 @@
+Nakil Araçlarının Dezenfeksiyonu
+Madde 88 – Hayvanları veya hayvan maddelerini nakleden kara, deniz ve hava vasıtalarının nakil sonunda sahipleri tarafından temizlenmesi ve dezenfekte edilmesi mecburidir. Bu gibi vasıtaların nakliyattan sonra temizlenip temizlenmediği hükümet veteriner hekimince kontrol edilir ve bir rapora bağlanır. İlaçlanmış her türlü vasıtaya dezenfekte edildiğine dair bir etiket yapıştırılır ve sahibine veteriner hekimce bir belge verilir. Belgesi bulunmayan vasıtalarla hayvan ve hayvan maddelerinin nakline müsaade edilmez.
