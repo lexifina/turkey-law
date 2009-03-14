@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5841",
+  "year": 2009,
+  "title": "Çeşitli Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-03-14",
+  "gazette_issue": "27169",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/03/20090314-1.htm",
+  "source_sha256": "354ab61e9ad4c1530d2f80a3c209257aad79c11450fcd1af36ed2074430baf00",
+  "text_sha256": "3a4354d803a87951f0134d1d0c7f93cb6f41947e1cf9224a1a4f1e09a8ef1cb8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/03/14/27169-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/03/20090314-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
