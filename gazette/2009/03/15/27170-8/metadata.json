@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-03-15",
+  "issue": "27170",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Kıyı Tesisi Yapım Taleplerinin Değerlendirilmesine Dair Tebliğ (No: 2009/2)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/03/20090315-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/03/20090315.htm",
+  "index_sha256": "c36fb2b6c89e4974c70c3ee7e33a1240d52388051f8b6289a12fac5316508861",
+  "index_header": "15 Mart 2009 ... 27170 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
