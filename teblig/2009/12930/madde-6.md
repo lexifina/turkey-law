@@ -1,0 +1,11 @@
+Modelleme ve fizibilite raporu hazırlayacak kuruluşlarda aranacak şartlar
+MADDE 6 – (1) Modelleme ve fizibilite raporu hazırlayacak kurum ve kuruluşların aşağıdaki şartları sağlamaları zorunludur.
+a) Üniversitelerin mühendislik, güverte, gemi makineleri, deniz ulaştırma ve işletme, gemi inşaatı, deniz teknolojisi bölümlerinden en az lisans düzeyinde eğitim görerek mezun olmuş ve kamu veya özel sektörde mesleği ile ilgili olarak en az üç yıl çalışmış olan bir rapor koordinatörünü raporun hazırlanması, incelenmesi veya denetimi için imza yetkisine sahip olarak sürekli olarak istihdam etmeleri,
+b) Üniversitelerin mühendislik, işletme, ekonomi, maliye, iktisat, ekonometri, matematik, istatistik bölümleri lisans programları mezunlarından kamu veya özel sektörde mesleği ile ilgili olarak en az iki yıl çalışmış bir personeli sürekli olarak istihdam etmeleri,
+c) Simülatördeki manevra deneylerinde, en az uzakyol kaptanı veya kıdemli kılavuz kaptan yeterlik belgesine sahip bir uygulamacı personeli görevlendirmeleri ve hazırlayacakları deney raporunda imzasının bulunmasını sağlamaları,
+ç) Kurum veya kuruluşların denizcilik, mühendislik, müşavirlik, araştırma, geliştirme, etüt, fizibilite, proje, rapor ve benzeri çalışma konularında faaliyet gösterdiklerini Ticaret Sicil Gazetesi’nde yayımlanan şirket kuruluş senedi veya ana sözleşmesi veya tüzüğü ile belgelendirmeleri,
+d) Üniversite başvurularında bünyesinde denizcilikle ilgili eğitim veren fakülte, enstitü veya bölümlerin bulunması şartı aranır,
+e) Köprüüstü simülatörüne sahip olmaları veya köprüüstü simülatörüne sahip kurum veya kuruluşlar ile bu tebliğin kapsamındaki konularda çalışabileceklerini belgeleyen geçerli bir kullanım protokolü veya işbirliği sözleşmesi yapmış olmaları,
+f) Bu Tebliğ kapsamındaki modelleme veya fizibilite raporu hazırlama hizmetine ilişkin taahhütleri dışında, yapımı planlanan kıyı tesisinin yatırımcısı ile herhangi bir menfaat veya ortaklık ilişkisi içinde olmamaları,
+g) Hazırlanacak raporlara ilişkin olarak, İdareye gizlilik, bağımsızlık ve tarafsızlık taahhütnamesi vermeleri.
+(2) Kamu tüzel kişiliğini haiz yatırımcı kuruluşlar, 1 inci fıkrada belirtilen koşulları yerine getirmek kaydıyla, kendi tesislerine ait raporları hazırlayıp İdareye sunabilirler.

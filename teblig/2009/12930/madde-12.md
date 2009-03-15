@@ -1,0 +1,5 @@
+İnceleme ve tespit komisyonu
+MADDE 12 – (1) İmar planı onay kurumunca, yukarıdaki bilgi ve belgeleri içeren teklif dosyası ile birlikte İdare’ye intikal ettirilen 1/1000 ölçekli imar plan teklifine ilişkin olarak mahallinde inceleme ve tespitler yapacak olan İTDK, İdarenin merkez teşkilatı veya merkez teşkilatınca talimat verilmesi halinde taşra teşkilatının en üst amiri tarafından görevlendirilecek iki personel ve ilgili liman başkanının katılımı ile en az üç kişiden oluşturulur. İTDK ile ilgili hususlar İdarece belirlenir.
+(2) İTDK, teklif dosyasında belirtilen bilgi ve belgeler ile İdarenin görev ve yetkileri çerçevesinde inceleme ve tespit yapar.
+(3) İTDK tarafından mahallinde yapılan inceleme sonucunda tanzim edilen rapor, taşra teşkilatının en üst birim amirinin görüşü ile birlikte veya görevlendirme İdare tarafından merkezden yapılmış ise merkez teşkilatı uzmanlarınca İdare’ye intikal ettirilir.
+(4) İmar planı onaylatmaya talip yatırımcı, İTDK tarafından mahallinde yapılacak incelemede her türlü bilgi, belge, araç, gereç ve teçhizat ile planlanan tesise ait yere ulaşımı ve konaklamayı sağlamakla yükümlüdür.
