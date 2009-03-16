@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2009/14802",
+  "source_id": 1499,
+  "date": "2009-03-16",
+  "title": "KATMA DEĞER VERGİSİ KANUNUNUN 28 ve 29 UNCU MADDESİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/bkk/1499",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "64260f71ecc3f01b019069b1071c562bc70e43ce1a80789c85e913a7b5ae39bc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
