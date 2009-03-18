@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.12933",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ELMA İHRACATINDA İHRACAT İADESİ YARDIMI YAPILMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2009/2)",
+  "number": "12933",
+  "path": "teblig/2009/12933",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12933&MevzuatTertip=5",
+  "source_sha256": "a95f22b706ef37611c3e7a163971dcff2a643a82c9a307f8216d6a7d9084ddcd",
+  "source_bytes": 25298,
+  "published": "2009-03-18",
+  "gazette": "27173",
+  "in_force": "2009-03-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.03.2009); own commencement article: \"Bu Tebliğ, 1/3/2009 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 1/3/2009 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 971,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
