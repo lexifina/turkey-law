@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "2025/3",
+  "decision_date": "2009-03-19",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 19/03/2009 tarihli toplantısında BOTAŞ YUMURTALIK(CEYHAN) KIRIKKALE HAM PETROL BORU HATTI EPDK Onaylı İletim Tarifesi",
+  "resmi_gazete_date": "2009-03-26",
+  "resmi_gazete_number": "27181",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=45gcSmKrHuM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=45gcSmKrHuM="
+  ],
+  "source_sha256": "e942c881801adb936e1a7ed02ed4b10e810c605dad4a9d409152bbe872a74e8f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-03-19",
+  "law_text_complete": false
+}
