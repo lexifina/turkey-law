@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2025/1",
+  "decision_date": "2009-03-19",
+  "title": "1.4.2009 tarihinden geçerli olmak üzere uygulanacak tarifelerle ilgili 19.03.2009 tarihli ve 2025-1 sayılı Kurul Kararı,",
+  "resmi_gazete_date": "2009-03-28",
+  "resmi_gazete_number": "27183",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u3xHZ2vclHE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u3xHZ2vclHE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=11S3u6Ftrpc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZFf+iIJluWs="
+  ],
+  "source_sha256": "2efa2ff16b7bf93ce2daf41a93a7c03d8d2273fe77eefb87043c27cc756384c8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-03-19",
+  "law_text_complete": false
+}
