@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2009/11",
+  "list_number": "529, 526",
+  "genelge_number": "11",
+  "decision_date": "2009-03-21",
+  "title": "Yenileme ve ara seçimler hakkında Yüksek Seçim Kurulu'nun 2009/529 sayılı kararı Oy verme sırasında cep telefonu veya fotoğraf makinesi gibi kaydedici özelliği bulunan cihazların kullanımı hakkında Yüksek Seçim Kurulu'nun 2009/526 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1739/2009-11.pdf",
+  "source_sha256": "e85bb37ba0fff5e77097c018a4637a95f0c4c4e3aade5e48fbc92c21ee802458",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2009-03-21",
+  "law_text_complete": false
+}
