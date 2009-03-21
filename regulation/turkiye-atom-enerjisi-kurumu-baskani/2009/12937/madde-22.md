@@ -1,0 +1,3 @@
+Sahada göçükler, tasman veya zemin yükselmesi
+MADDE 22 – (1) Bölgenin jeolojik haritaları ve diğer veriler mağara, karstik formasyonlar gibi doğal özellikler ile yeraltı maden ocakları, su ve petrol kuyuları gibi insan kaynaklı hususlar açısından incelenir. Saha yüzeyinde göçmeler, tasman veya zemin yükselmesi potansiyeli değerlendirilir.
+(2) Santralin güvenliğini etkileyebilecek göçük, tasman veya yükselme potansiyeli olan durumlarda uygulanabilir mühendislik çözümleri bulunamıyorsa sahanın uygun olmadığına karar verilir. Uygulanabilir mühendislik çözümleri bulunuyorsa, tehlikelerin saptanması amacıyla yeraltı koşullarının ayrıntılı bir tanımlaması yapılır.

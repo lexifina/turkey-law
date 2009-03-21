@@ -1,0 +1,2 @@
+Acil durum planlama bölgesi
+MADDE 9 – (1) Acil durum planlama bölgesi, sınırında bulunan bir kişinin DEBK durumunda iki gün içerisinde etkin doz olarak 10 mSv’ten, tiroit dozu olarak da 100 mGy’den fazla doz almayacağı bölge olarak belirlenir. Sahada birden çok ünite kurulması öngörüldüğü durumda her bir ünite için belirlenmiş acil durum planlama bölgelerini kapsayacak şekilde, santral için tek bir acil durum planlama bölgesi belirlenir.
