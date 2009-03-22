@@ -1,0 +1,4 @@
+Değerlendirme
+MADDE 34 – (1) Program kapsamında Maharashtra yerel yönetimince sağlanan vergi iadesi ve vergi muafiyeti uygulamalarının ilgili otoritenin gelirlerinden feragat etmesi sonucunu doğurması sebebiyle kamu tarafından temin edilen bir mali katkı olduğu düşünülmektedir. Firmalara sağlanan bu avantajlar, anılan işletmeler için de bir fayda doğurduğundan sübvansiyon olarak değerlendirilmektedir.
+(2) Anılan programdan sadece belirli bir bölgede kurulan işletmeler yararlanabildiğinden şikayete konu programın Anlaşmanın 2.2 maddesi çerçevesinde özgül bir sübvansiyon teşkil ettiği ve önlem alınabilir nitelikte olduğu sonucuna varılmıştır.
+(3) Hindistan Hükümeti programa ilişkin genel bilgi vermekle birlikte, hangi firmaların ne oranda bu sübvansiyon programından yararlandığına ve ne ölçüde fayda elde ettiğine dair veri sunmamıştır.

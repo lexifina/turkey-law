@@ -1,0 +1,2 @@
+Maddenin üçüncü ülkelerden ithalatı
+MADDE 40 – (1) Soruşturma konusu maddenin üçüncü ülkelerden ithalatı incelendiğinde 2004 yılında 7.935 ton olan ithalat miktarının 2005 yılında 9.011 tona yükseldiği, 2006 yılında 7.406 tona gerilediği, 2007 yılında ise 8.106 ton olarak gerçekleştiği görülmektedir. Üçüncü ülkeler menşeli ithalatın bahse konu maddenin genel ithalatı içerisindeki payı incelendiğinde ise 2004 yılında %75 olan payın 2005 yılında %66’ya gerilediği, 2006 yılında %74’e, 2007 yılında ise %76’ya yükseldiği görülmektedir.

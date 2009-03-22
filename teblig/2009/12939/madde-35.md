@@ -1,0 +1,3 @@
+Firmaların durumu
+MADDE 35 – (1) Hindistan’da yerleşik üretici/ihracatçılardan kendilerine gönderilen soru formlarına yanıt vererek işbirliğinde bulunan adı geçen firmalar arasında bu programdan yararlandığını beyan eden bir firma olmamıştır.
+(2) Öte yandan, Hindistan yetkili makamları tarafından gönderilen yanıtlarda bahse konu teşvik paketinin ana hatları açıklanmakla birlikte hesaplamada kullanılmaya müsait veri sağlanmadığından ve bu programlara dair sübvansiyon hesabı için elde daha iyi bir veri bulunmadığından işbirliğine gelmeyen firmalar için geçerli olmak üzere Avrupa Birliği tarafından Hindistan’da yerleşik ve bu programdan yararlanan bir firma için 31.08.2006 tarihli ve 1288/2006 sayılı Tebliğ’de tespit edilen %1.60’lık oranın kullanılması uygun görülmüştür.

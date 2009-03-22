@@ -1,0 +1,2 @@
+İşbirliğine gelmeyen firmaların durumu
+MADDE 31 – (1) Soruşturma kapsamında işbirliğinde bulunmayan Hindistan’da yerleşik üretici/ihracatçı firmalar için sübvansiyon oranının belirlenmesi aşamasında eldeki mevcut verilerin kullanılması uygun görülmüştür. Bu bağlamda, SRF firması için bu programa ilişkin olarak hesaplanan %4.11’lik oranın işbirliğine gelmeyen Hindistan’da yerleşik diğer üretici/ihracatçılara teşmil edilmesi uygun görülmüştür.

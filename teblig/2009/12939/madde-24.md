@@ -1,0 +1,4 @@
+Değerlendirme
+MADDE 24 – (1) Bahse konu program özel bankalar aracılığı ile yürütülse de düzenlemeyi yapan HMB bir kamu kuruluşudur ve ticari bankalarca, HMB tarafından belirlenen tavan faizlerin üzerinde bir faiz haddinin uygulanması mümkün değildir. HMB tarafından belirlenen faiz hadlerine uyulması zorunluluğu nedeniyle program Hindistan Hükümeti’nin yönlendirmesi altında sağlanan bir mali katkıdır. Ayrıca, söz konusu programın kullanıcı firmalar için borçlanma maliyetini düşürmesi, anılan işletmeler için bir faydanın doğduğuna işaret etmektedir.
+(2) Programı düzenleyen mevzuat incelendiğinde, programdan sadece ihracatçı firmaların yararlanabildiği, bu bağlamda Anlaşmanın 3.1 maddesi hükmünce programın ihracat sübvansiyonu olduğu ve yine Anlaşmanın 2.3 maddesi çerçevesinde özgül bir sübvansiyon teşkil ettiği anlaşılmaktadır.
+(3) Bu hususlar göz önüne alınarak programın önlem alınabilir nitelikte olduğu değerlendirilmiştir.

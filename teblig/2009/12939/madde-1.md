@@ -1,0 +1,5 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Başvuru ve soruşturma
+MADDE 1– (1) 4412 sayılı Kanunla değişik 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 20/10/1999 tarihli ve 99/13482 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999 tarih ve 23861 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik (Yönetmelik) hükümleri çerçevesinde yerli üretim dalı tarafından yapılan başvuru üzerine Hindistan menşeli “polietilen tereftalat (PET) filmler”in ithalatına ilişkin olarak 06/02/2008 tarihli ve 26779 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren İthalatta Haksız Rekabetin Önlenmesine İlişkin 2008/8 sayılı Tebliğ ile başlatılan sübvansiyon soruşturması Dış Ticaret Müsteşarlığı (Müsteşarlık) İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanmıştır.
+(2) Bahse konu soruşturma kapsamında 27/08/2008 tarihli ve 26980 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2008/30 sayılı Tebliğ ile Hindistan menşeli soruşturma konusu madde ithalatında geçici önlem yürürlüğe konulmuştur.

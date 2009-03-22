@@ -1,0 +1,2 @@
+Sübvansiyonlu ithalat
+MADDE 39 – (1) Hindistan menşeli ithalatın gelişimi incelendiğinde 2004 yılında 2.598 ton olan ithalatın 2005 yılında ciddi şekilde artarak 4.662 tona yükseldiği, 2006 yılında bir önceki yıla göre düşerek 2.666 tona gerilediği, 2007 yılında ise 2.604 ton olarak gerçekleştiği görülmektedir. Hindistan menşeli ithalatın bahse konu maddenin genel ithalatı içerisindeki payı incelendiğinde ise 2004 yılında %25 olan payın 2005 yılında %34’e yükseldiği, 2006 yılında %26’ya gerilediği ve 2007 yılında ise %24 olarak gerçekleştiği görülmektedir.

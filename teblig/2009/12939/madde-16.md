@@ -1,0 +1,2 @@
+İşbirliğine gelmeyen firmaların durumu
+MADDE 16 – (1) Soruşturma kapsamında işbirliğinde bulunmayan Hindistan’da yerleşik üretici/ihracatçı firmalar için sübvansiyon oranının belirlenmesi aşamasında eldeki mevcut verilerin kullanılması uygun görülmüştür. Bu bağlamda, Uflex firması için bu programa ilişkin olarak hesaplanan %7.11’lik oranın işbirliğine gelmeyen Hindistan’da yerleşik diğer üretici/ihracatçılara teşmil edilmesi uygun görülmüştür.
