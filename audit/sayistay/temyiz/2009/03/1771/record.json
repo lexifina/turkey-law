@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30711",
+  "decision_date": "2009-03-24",
+  "source_id": 1771,
+  "chamber": "8",
+  "file_number": "30200",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/1771/",
+  "source_sha256": "5ab0c477a13d1e4c256331bec92ed68a0f660c6ba63cdef0ac40c5909cc8f817",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
