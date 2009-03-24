@@ -1,0 +1,4 @@
+BİRİNCİ BÖLÜM
+Amaç ve Kapsam
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 26/12/2008 tarihli ve 27092 sayılı Resmî Gazete’de yayımlanan 2008/14447 sayılı Bakanlar Kurulu Kararı eki “4735 Sayılı Kamu İhale Sözleşmeleri Kanunu Kapsamındaki Yapım İşlerinde Beklenmeyen Fiyat Artışları Nedeniyle Uygulanacak İlave Fiyat Farkı Esasları” (Esaslar) çerçevesinde 31/5/2008 tarihinden önce 4734 sayılı Kamu İhale Kanununa göre ihalesi yapılan ve 4735 Sayılı Kamu İhale Sözleşmeleri Kanunu kapsamındaki yapım işlerinde, iş kalemleri veya iş gruplarının imalatında 1/1/2008 ile 30/9/2008 tarihleri arasında fiilen kullanılan ve fiyatlarında beklenmeyen artış olan; düz ve nervürlü beton çelik çubuğu, hasır çelik, köşebent, lama, sac, çelik boru, her çeşit profil demiri ile raya verilecek ilave fiyat farkının uygulanmasına açıklık getirmektir.

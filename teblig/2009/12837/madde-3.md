@@ -1,0 +1,2 @@
+Beklenmeyen fiyat artışı
+MADDE 3 – (1) Esaslar kapsamında ilave fiyat farkı verilebilmesi için, uygulama ayına (imalatın gerçekleştirildiği ay) ait fiyatın baz fiyata (ilgisine göre ihalenin yapıldığı ay veya Aralık 2007 fiyatı) göre artış oranı ile uygulama ayına (imalatın gerçekleştirildiği ay) ait 2003=100 Temel Yıllı Üretici Fiyatları Alt Sektörlere Göre Endeks Sonuçları Tablosunun “Genel” sütunundaki endeksin temel endekse (ilgisine göre ihale tarihi veya Aralık 2007) göre artış oranı arasındaki farkın 0,03'e eşit veya daha fazla olması gerekir.

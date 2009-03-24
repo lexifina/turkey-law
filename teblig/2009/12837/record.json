@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.12837",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4735 SAYILI KAMU İHALE SÖZLEŞMELERİ KANUNU KAPSAMINDAKİ YAPIM İŞLERİNDE BEKLENMEYEN FİYAT ARTIŞLARI NEDENİYLE UYGULANACAK İLAVE FİYAT FARKI ESASLARININ UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "12837",
+  "issuer": "Kamu İhale Kurumu Başkanı",
+  "path": "teblig/2009/12837",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12837&MevzuatTertip=5",
+  "source_sha256": "5e0ba29bfd70c4a781902147ff01976de2983d3b493449b1d14807a4d3b0f8e1",
+  "source_bytes": 127846,
+  "published": "2009-02-04",
+  "gazette": "27131",
+  "in_force": "2009-03-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/3/2009\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2009-03-24",
+      "RG-24/3/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1969,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
