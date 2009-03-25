@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68/6802-",
+  "source_id": 38418,
+  "date": "2009-03-25",
+  "title": "Akreditif işlemlerinde mal bedellerinin müşteriden tahsil edilmesi ve geçici bir hesapta tutulması kaydıyla transferin iki günlük valör ile ancak vesaiki gönderen banka isminin belirlendiği tarihte gerçekleştirilmesinin mümkün olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38418",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "0e3736122456f5476508b18078e5c552ab327884c4d042475d24075652c70acc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
