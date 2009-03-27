@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12944",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4703 SAYILI ÜRÜNLERE İLİŞKİN TEKNİK MEVZUATIN HAZIRLANMASI VE UYGULANMASINA DAİR KANUNLA DÜZENLENMİŞ OLAN İDARİ PARA CEZALARININ YENİ DEĞERLERİNİN DUYURULMASINA İLİŞKİN TEBLİĞ TEBLİĞ NO: (2009/27)",
+  "number": "12944",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2009/12944",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12944&MevzuatTertip=5",
+  "source_sha256": "be4d919e44ee85e98f78b949c7518a929595137cd99e2ae1258acd42173fb47a",
+  "source_bytes": 12198,
+  "published": "2009-03-27",
+  "gazette": "27182",
+  "in_force": "2009-03-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.03.2009); own commencement article: \"Bu Tebliğ 1/1/2009 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2009 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 210,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
