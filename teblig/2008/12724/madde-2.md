@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanununun 18 inci maddesi ile 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanununun 11 inci maddesi ve 14/7/2007 tarihli ve 26582 sayılı Resmî Gazete’de yayımlanan Sigorta ve Reasürans Şirketleri ile Emeklilik Şirketlerinin Finansal Raporlamaları Hakkında Yönetmeliğin 4 üncü maddesi hükümlerine dayanılarak hazırlanmıştır.

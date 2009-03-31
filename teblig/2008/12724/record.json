@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12724",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SİGORTA ve REASÜRANS ŞİRKETLERİ İLE EMEKLİLİK ŞİRKETLERİNİN KONSOLİDE FİNANSAL TABLOLARININ DÜZENLENMESİNE İLİŞKİN TEBLİĞ",
+  "number": "12724",
+  "issuer": "Hazine Müsteşarlığının bağlı bulunduğu Bakan",
+  "path": "teblig/2008/12724",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12724&MevzuatTertip=5",
+  "source_sha256": "32fe9dc30b7042356a42256a93c1d680db7bcbb86fb46b6f71d5429815deab0d",
+  "source_bytes": 20754,
+  "published": "2008-12-31",
+  "gazette": "27097 4. Mükerrer",
+  "in_force": "2009-03-31",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 31/3/2009 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 31/3/2009 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1099,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
