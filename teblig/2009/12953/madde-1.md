@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı; iki veya daha ziyade hukuken ve iktisaden birbirinden bağımsız tüzel kişiliği haiz ticaret şirketlerinin belli bir amacı gerçekleştirmek ve kâr elde etmek için kurdukları ve müştereken yönettikleri tüzel kişiliği bulunmayan ortaklıklar aracılığıyla işletilen ticarî işletmelerin ticaret siciline tescil edilmesine ilişkin usul ve esasları belirlemektir.

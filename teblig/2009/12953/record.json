@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12953",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TİCARET ŞİRKETLERİNİN TÜZEL KİŞİLİĞİ BULUNMAYAN BİR ORTAKLIK YAPISI İLE İŞLETTİKLERİ TİCARİ İŞLETMELERİN TİCARET SİCİLLERİNE TESCİLİ HAKKINDA TEBLİĞ (İÇ TİCARET: 2009/2)",
+  "number": "12953",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "path": "teblig/2009/12953",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12953&MevzuatTertip=5",
+  "source_sha256": "a6099d3253a8e730f060aee822c0db314d0eb99624259c94c7fc365fb4830c87",
+  "source_bytes": 11373,
+  "published": "2009-04-01",
+  "gazette": "27187",
+  "in_force": "2009-04-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.04.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 399,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
