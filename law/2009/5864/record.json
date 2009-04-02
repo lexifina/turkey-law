@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5864",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sudan Cumhuriyeti Hükümeti Arasında Denizcilik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2009-04-02",
+  "adopted_as_published": "02/04/2009",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.04.2009 No: 27200",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc093/kanuntbmmc093/kanuntbmmc09305864.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 93",
+  "committee_reports": [
+    {
+      "label": "TBMM 20 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c042/tbmm23042071ss0020.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 708689,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Sudan Cumhuriyeti Hükümeti Arasında Denizcilik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "02/04/2009",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc093/kanuntbmmc093/kanuntbmmc09305864.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 20 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c042/tbmm23042071ss0020.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 42,
+          "sitting": 71,
+          "sitting_date": "2009-04-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c042/tbmm23042071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c042/tbmm23042fih.pdf",
+          "pages": [
+            "316:317",
+            "354:369"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=548&v_gelecek_sayfa=101&v_kullanici_id=27483202",
+      "page_sha256": "5dd357b0a1bf24002c057e6a38e8414b69879ad41b7d53ddc7b400469fe58c8c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5dd357b0a1bf24002c057e6a38e8414b69879ad41b7d53ddc7b400469fe58c8c",
+  "issuer": "TBMM",
+  "in_force": "2009-04-02",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 02/04/2009; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
