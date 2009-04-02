@@ -1,0 +1,4 @@
+Bilirkişi belgelendirme kurulu
+MADDE 13 – (1) Bilirkişi belgelendirme kurulu, bilirkişilik alanında OYK'nın karar alma sürecini hazırlayan, bu Yönetmelikle ilgili düzenlemeler hakkında OYK'ya görüş ve öneriler sunan, eğitimlerin hazırlıklarını, gerçekleştirilmesini ve değerlendirmesini yapan, OYK kararı ile oluşturulan süreli bir kuruldur.
+(2) Kurul, OYK kararı ile bir OYK üyesinin başkanlığında bilirkişilik mühendis yetki belgesi alma koşullarına sahip Oda üyeleri arasından iki yıllık çalışma dönemi için belirlenen yedi üyeden oluşur. Kurul Odanın yazılı çağrısı ile toplanır. Kurulda kararlar oy çokluğuyla alınır. Kurul üyesinin kuruldan ayrılması durumunda OYK bir ay içerisinde yeni üyenin atamasını yapar.
+(3) Kurul oluşumunda, şubelerin önerileri de dikkate alınarak üniversitelerden temsilcilerin de yer alması gözetilir.

@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.12952",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ MAKİNA MÜHENDİSLERİ ODASI BİLİRKİŞİLİK YÖNETMELİĞİ",
+  "number": "12952",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Makina Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-makina-muhendisleri-odasi-yonetim-kurulu",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-makina-muhendisleri-odasi-yonetim-kurulu/2009/12952",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12952&MevzuatTertip=5",
+  "source_sha256": "f3d1323624d46853b06d52631b833275e61c812674b6e17b74645297a0a2bc50",
+  "source_bytes": 29807,
+  "published": "2009-04-02",
+  "gazette": "27188",
+  "in_force": "2009-04-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.04.2009); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1119,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.12952-ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,3 @@
+Bilirkişi listelerinin oluşturulması
+MADDE 6 – (1) Oda, bu Yönetmeliğin 5 inci maddesinde belirtilen koşulları taşıyan bilirkişilerin listesini, başvuru halinde kullanılmak üzere dosyalar. Listelerin bir kopyasını TMMOB'ye, Valiliklere ve talep edilmesi halinde kamu kurum ve kuruluşları ile mahkemelere gönderir.
+(2) Bilirkişi listeleri Oda tarafından her yıl yenilenir. Yenileme işlemi yapılırken, vefat etmiş olanlar, başka illere veya yurtdışına gitmiş olanlar, yasal bir neden olmaksızın bilirkişilik yapmak istemediğini beyan edenler, Bu Yönetmeliğin 5 inci maddesinde belirtilen nitelikleri kaybedenler listeden çıkarılır; Bilirkişilik Mühendis Yetki Belgesi alanlar listeye eklenir.
