@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-04-03",
+  "issue": "27189",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Bruselloz ile Mücadele Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090403-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090403.htm",
+  "index_sha256": "0dc1c9d02847e32a271d762fbc76528f825cbcb287a2e0aeb0c2b5a72dadb1a6",
+  "index_header": "3 Nisan 2009 ... 27189 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
