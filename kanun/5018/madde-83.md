@@ -190,12 +190,12 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)
 27) GAP Bölge Kalkınma İdaresi
 28) Özelleştirme İdaresi Başkanlığı
 29) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu
-30) (Ek: 28/9/2006-5548/36 md.) Kamu Denetçiliği Kurumu (2)
+30) (Ek: 28/9/2006-5548/36 md.; İptal: Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile. )(2)
 31) (Ek: 21/9/2006-5544/31 md.) Meslekî Yeterlilik Kurumu (2)
 ––––––––––––––
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “10) Devlet Opera ve Balesi Genel Müdürlüğü” sırasından sonra gelmek üzere “11) Orman Genel Müdürlüğü” sırası eklenmiş ve cetvelin sıra numaraları teselsül ettirilmiştir.
-(2) 28/9/2006 tarihli ve 5548 sayılı Kanunun 36 ncı maddesiyle, bu bölüme “29) Kamu Denetçiliği Kurumu “ ibaresi eklenmesinden dolayı bu kuruma ait sıra numarası yeniden teselsül ettirilmiştir.
-III) SAYILI CETVEL
+(2) 28/9/2006 tarihli ve 5548 sayılı Kanunun 36 ncı maddesiyle, bu bölüme “29) Kamu Denetçiliği Kurumu “ ibaresi eklenmesinden dolayı bu kuruma ait sıra numarası yeniden teselsül ettirilmiş, daha sonra bu sıra; 4/4/2009 tarihli ve 27910 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile 28/9/2006 tarihli ve 5548 sayılı Kamu Denetçiliği Kurumu Kanununun tümüyle iptal edilmesinden dolayı yürürlükten kaldırılmıştır.
+(III) SAYILI CETVEL
 (Değişik: 22/12/2005-5436/12 md.)
 DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR
 1) Radyo ve Televizyon Üst Kurulu
