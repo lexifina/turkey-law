@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-04-08",
+  "issue": "27194",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "DÜZELTME: (Gıda Güvenliği ve Kalitesinin Denetimini ve Kontrolüne Dair Yönetmelik ile İlgili)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090408-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090408.htm",
+  "index_sha256": "dc05971280240cab076f2d0fadb3cb2280c39c542d6d8a22a55e5c88c76b06dd",
+  "index_header": "8 Nisan 2009 ... 27194 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
