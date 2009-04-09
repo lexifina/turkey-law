@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.12961",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ARAYÜZ TEKNİK ÖZELLİKLERİNİN YAYIMLANMASINA İLİŞKİN TEBLİĞ",
+  "number": "12961",
+  "issuer": "Kurul Başkanı",
+  "path": "teblig/2009/12961",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12961&MevzuatTertip=5",
+  "source_sha256": "e61f72f7a70a71f165ed4c099996f3a8651c7844b319ac261bdc818fbe33fc9a",
+  "source_bytes": 20204,
+  "published": "2009-04-09",
+  "gazette": "27195",
+  "in_force": "2009-04-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.04.2009); own commencement article: \"Bu Tebliğ yayımı tarihinden itibaren 6 ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden itibaren 6 ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 785,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
