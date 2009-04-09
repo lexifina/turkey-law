@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-04-09",
+  "issue": "27195",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ANA STATÜ",
+  "title": "Türkiye Halter Federasyonu Ana Statüsünde Değişiklik Yapılmasına Dair Ana Statü",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090409-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090409.htm",
+  "index_sha256": "b07974a0cd4e3491d07e9ef3ec15ac3b368e1af76134257e5733f4067d3b0e74",
+  "index_header": "9 Nisan 2009 ... 27195 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
