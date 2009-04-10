@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5851",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Dışişleri Bakanlığı ile Arap Devletleri Ligi Genel Sekreterliği Arasında Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-10",
+  "gazette_issue": "27196",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-7.htm",
+  "source_sha256": "497071328c91ed26f27bae8f7ef6328b4fe4365b2650a77af6e08860da007f44",
+  "text_sha256": "ac105c851f4f7a00edef775c221e6039dab5ea44168645f9ce124f429350a5bd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/10/27196-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
