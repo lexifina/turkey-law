@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5845",
+  "year": 2009,
+  "title": "Uluslararası Karayolu Yolcu ve Eşya Taşımacılığına İlişkin Türkiye Cumhuriyeti ve Portekiz Cumhuriyeti Arasında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-10",
+  "gazette_issue": "27196",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-2.htm",
+  "source_sha256": "89b00632c8d1af1bdc3d10bb49caeff047d0414200cc4ab9633aa97d822a3d5b",
+  "text_sha256": "483b0c0fe36146d5533c4963d21a2ed0df75e3bd031f39b9549cd030accf52ee",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/10/27196-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
