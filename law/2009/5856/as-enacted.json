@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5856",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bosna-Hersek Bakanlar Kurulu Arasında İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-10",
+  "gazette_issue": "27196",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-11.htm",
+  "source_sha256": "55e4abed3f8a263fd1c9671bc82452a1aacf9b49363ef8c6a246e99bae6bee26",
+  "text_sha256": "15fadc4928baf190a95f30ed248b44a5e96cf96b8631af5b8e70d327489b5dc3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/10/27196-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
