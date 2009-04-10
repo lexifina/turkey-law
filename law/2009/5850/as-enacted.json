@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5850",
+  "year": 2009,
+  "title": "Asya Karayolları Ağı Hükümetlerarası Anlaşmasına Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-10",
+  "gazette_issue": "27196",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-6.htm",
+  "source_sha256": "1d166753ac5cfa273ab52443ee357fa6cf702ee17fca5151c4f87c26f8d0bfb5",
+  "text_sha256": "0177c5410fe88e4e1b338298eaff9c218adf5d5bd9f769eebb298599e91480c3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/10/27196-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
