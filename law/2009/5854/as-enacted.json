@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5854",
+  "year": 2009,
+  "title": "Denizde Seyir Güvenliğine Karşı Yasadışı Eylemlerin Önlenmesine Dair Sözleşmeye Ait 2005 Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-10",
+  "gazette_issue": "27196",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-9.htm",
+  "source_sha256": "4be821e5f90611d31de62f1334c3378b39e580a6b825ce06a4de6b6c975119e4",
+  "text_sha256": "14be0cc840d3c6cdc43b7fe2450c3c89a54d5e5aed5674f47f417a7b9112a47e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/10/27196-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
