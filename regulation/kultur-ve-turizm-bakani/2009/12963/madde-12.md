@@ -1,0 +1,2 @@
+Satın almada ücretlendirme
+MADDE 12 – (1) Halk Kültürü Bilgi ve Belge Merkezine, Değerlendirme, Tespit ve Kabul Kurulunca değerlendirilerek ücretleri tespit edilen belgeler Ek 2’de belirtilen taban ve tavan gösterge rakamları arasından söz konusu Kurul tarafından tespit edilecek göstergenin devlet memurları aylıklarına uygulanan katsayının çarpımı sonucu bulunur ve ücretlendirme tutanağa geçirilir.

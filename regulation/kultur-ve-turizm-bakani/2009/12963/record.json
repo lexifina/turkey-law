@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.12963",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜLTÜR VE TURİZM BAKANLIĞI ARAŞTIRMA VE EĞİTİM GENEL MÜDÜRLÜĞÜ HALK KÜLTÜRÜ BİLGİ VE BELGE MERKEZİ HİZMETLERİ YÖNETMELİĞİ",
+  "number": "12963",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2009/12963",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12963&MevzuatTertip=5",
+  "source_sha256": "a526aaac6738425b8ff78706e7a23601847b25d890badf5e7cb624c131909e68",
+  "source_bytes": 59276,
+  "published": "2009-04-10",
+  "gazette": "27196",
+  "in_force": "2009-04-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.04.2009); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2295,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
