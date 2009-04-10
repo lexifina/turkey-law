@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5852",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti ve Körfez Arap Ülkeleri İşbirliği Konseyi Üyesi Ülkeler Arasında Ekonomik İşbirliğine İlişkin Çerçeve Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-10",
+  "gazette_issue": "27196",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-8.htm",
+  "source_sha256": "39c97c4117ae4dcaa59a6e3202d34d5ed390ea9758042cba7adffd384437f770",
+  "text_sha256": "47e5f1bbc066f20fa46d522a83ff5c86ceff093f7319096184907c0b7e767717",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/10/27196-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
