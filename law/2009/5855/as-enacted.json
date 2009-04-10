@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5855",
+  "year": 2009,
+  "title": "Çok Uluslu Coğrafi Veri Ortak Üretim Programı Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-10",
+  "gazette_issue": "27196",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-10.htm",
+  "source_sha256": "abcc88310b0d7222ac44fa7d4a6f5c78272b20b5b6a0efa132d3ba347794211d",
+  "text_sha256": "84c7b30d203ac42043080687f42d2250e574622977793b9f2b2b47efc063a27b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/10/27196-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
