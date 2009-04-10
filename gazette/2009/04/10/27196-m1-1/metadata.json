@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-04-10",
+  "issue": "27196",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": null,
+  "title": "82 TBMM Kamu İktisadi Teşebbüsleri Komisyonunun 3346 sayılı Kanunun 8, 9 ve 10. Maddeleri Uyarınca Kesinleşen Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410M1.htm",
+  "index_sha256": "2882b98f53460ff769fdd0846ffc76077a075944ce7fc4d6b6298e494be0d361",
+  "index_header": "10 Nisan 2009 ... 27196 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
