@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5847",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Yemen Cumhuriyeti Hükümeti Arasında Sağlık Alanında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-10",
+  "gazette_issue": "27196",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-4.htm",
+  "source_sha256": "092de062580e1bed28d8ec31137210a97857ffdd8bc3efd722f5a67871167c39",
+  "text_sha256": "46701c666b186741beda26590b6c53aafb3d65626781175d07005f7ae5ddce28",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/10/27196-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090410-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
