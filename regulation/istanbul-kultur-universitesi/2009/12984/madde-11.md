@@ -1,0 +1,3 @@
+Danışma kurulu ve görevleri
+MADDE 11 – (1) Danışma Kurulu; Üniversitenin Hukuk Fakültesi Fakülte ve Yönetim Kurulu üyelerinden, her fakülte, enstitü, meslek yüksekokulu ile Rektörlüğe bağlı akademik birimlerin yönetim kurullarınca belirlenen birer üyeden ve Rektörün belirlediği alanında başarılı ve tanınmış kişilerden oluşur. Müdürün çağrısı üzerine yılda en az bir kez olmak üzere toplanır. Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir.
+(2) Danışma Kurulu; Merkez ile ilgili faaliyetleri değerlendirir, önerilerde bulunur ve gerektiğinde faaliyet alanları ile ilgili alt komisyonlar oluşturabilir.
