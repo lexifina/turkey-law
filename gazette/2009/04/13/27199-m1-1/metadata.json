@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-04-13",
+  "issue": "27199",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "2009/14883 Türkiye Cumhuriyeti ve Körfez Arap Ülkeleri İşbirliği Konseyi Üyesi Ülkeler Arasında Ekonomik İşbirliğine İlişkin Çerçeve Anlaşmasının Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090413M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090413M1.htm",
+  "index_sha256": "91d1ff58f29774a41ec6dfedbcf730e99f64edf887f9f3571488bc87e7150e2e",
+  "index_header": "13 Nisan 2009 ... 27199 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
