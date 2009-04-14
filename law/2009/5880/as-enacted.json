@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5880",
+  "year": 2009,
+  "title": "Avrupa Topluluğu ile Türkiye Cumhuriyeti Arasında Türkiye Cumhuriyetinin Topluluk İstihdam ve Sosyal Dayanışma Programına Katılımı Hakkında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-28.htm",
+  "source_sha256": "9a0ba023c1f68923e3450e5022cd7744c36a59fe5e3817f0002ff536bfaff4f6",
+  "text_sha256": "b8829c62e7d8a30a723064b3f706cc6e48e2fb6df34acf12c5103659c67b19b1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-28",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-28.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
