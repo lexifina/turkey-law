@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5878",
+  "year": 2009,
+  "title": "Avrupa Orta Vadeli Hava Tahminleri Merkezi İmtiyazları ve Dokunulmazlıklarına Dair Düzeltilmiş Protokole Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-26.htm",
+  "source_sha256": "db289615617717f44f392ef3aaeeeefa840fc1da07c9fff35c9908e9076a433e",
+  "text_sha256": "f46529eff92bd3d1db727229a8a433f6bdf238d224a190ad6251b957c1b9ebac",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-26",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-26.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
