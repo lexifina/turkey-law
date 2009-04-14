@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2060",
+  "decision_date": "2009-04-14",
+  "title": "01/01/2009 tarihinden itibaren yürürlüğe giren 24/12/2008 tarih ve 1896 sayılı serbest tüketici olma sınırına ilişkin Karar",
+  "resmi_gazete_date": "2009-04-22",
+  "resmi_gazete_number": "27208",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=X7feAO61g5s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=X7feAO61g5s="
+  ],
+  "source_sha256": "3106c06db1b07c523be3444da2fb49c99654e59bec76909b6078926683abeacc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-04-14",
+  "law_text_complete": false
+}
