@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5882",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Fransa Cumhuriyeti Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunması Anlaşması ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-30.htm",
+  "source_sha256": "73806211ede0aed3dd4e91b330911e4d17330767ef94e85ad2ec17ea7472f5af",
+  "text_sha256": "3cf64d88b51841d20c86055feedadfd4ce2363e6bf09352b097bdc05c3de6bcc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-30",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-30.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
