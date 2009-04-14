@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5873",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Avustralya Tarım, Balıkçılık ve Ormancılık Bakanlığı Arasındaki Tarım Alanında Teknik, Bilimsel ve Ekonomik İşbirliği Konulu Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-21.htm",
+  "source_sha256": "7605de37a11eda1a158286756e48429bc7170c0451b5b953357c0b35e4fe93d8",
+  "text_sha256": "c465dfa16b6b0391996ed493f2a4dafc869f63f535ecffa8a0dc26dc2257aba1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-21",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-21.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
