@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5871",
+  "year": 2009,
+  "title": "Kalıcı Organik Kirleticilere İlişkin Stokholm Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-19.htm",
+  "source_sha256": "dc02221bcdbd6f5d32f5b6012ec9e2b991e0a392c47ae4046a0395f8860d2be0",
+  "text_sha256": "4ec15a8d5d6827cb968fc1a563a965b6df5c14e979932665282bf28fb9962b4b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-19",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-19.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
