@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5865",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Mısır Arap Cumhuriyeti Hükümeti Arasında Uluslararası Karayolu Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-13.htm",
+  "source_sha256": "12bc312b779b312803c7b483e491608df1b904e46ec8d3c91ab782baf33fc502",
+  "text_sha256": "7c8c68100bd3ff7db095c179275c6d71d692426b10233aaa21d9d35349107dc5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
