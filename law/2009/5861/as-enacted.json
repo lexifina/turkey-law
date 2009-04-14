@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5861",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sudan Cumhuriyeti Hükümeti Arasında Bilimsel ve Teknolojik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-9.htm",
+  "source_sha256": "5d2590c0f140daa5a963dd21e21e8bcf0614622640c1bf7e6ddc9f429f113ec6",
+  "text_sha256": "8ec6557eafeab483836727243bf8ff4eb96c5f8e66cfa40add714492f22cd78c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
