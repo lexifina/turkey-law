@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5867",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Kolombiya Cumhuriyeti Hükümeti Arasında Ticaret İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-15.htm",
+  "source_sha256": "263bc48091d178b15634aa4fbd79408fa5e5e544ef8c6c746a221ff204e818e5",
+  "text_sha256": "74e1c5408d7738455f0dbaf0ca9bd005cd545024bc36fc09d944cf440bcfc58c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-15",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-15.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
