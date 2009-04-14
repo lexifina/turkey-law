@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5849",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Almanya Federal Cumhuriyeti Hükümeti Arasında Türkiyede Bir Türk-Alman Üniversitesinin Kurulmasına Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-3.htm",
+  "source_sha256": "2e38e044cd179ef84abac5d5ed3d6b2d9fa7affe2fe2ed6f54d876ac1d78596b",
+  "text_sha256": "38ba068e02d437b0dd7d5f12c6d34b267da43c3cb870b1e54dace4e5ee5ad4bc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
