@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5860",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Tayland Krallığı Hükümeti Arasında Bilimsel ve Teknolojik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-8.htm",
+  "source_sha256": "e47efd26970e29b920d7aa371117596c7adbdf24628e6b024f0f0b604ccdae34",
+  "text_sha256": "89fab2809bd46115176429278b2ff7799675d786a4dd0aabae9f5b408929328f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
