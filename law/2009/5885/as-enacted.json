@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5885",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Suriye Arap Cumhuriyeti Hükümeti Arasında Karayolları ve Köprüler ile İlgili İşbirliği Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-33.htm",
+  "source_sha256": "f36f4dd4bef9ecc4967c88a654cb6ed34ac076281b8b8789b1cdf7f509344cf8",
+  "text_sha256": "964e7f8b64dbf3d6b92d64f66f39f0f9f31227a85e1e347b70a887ceb7f787c3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-33",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-33.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
