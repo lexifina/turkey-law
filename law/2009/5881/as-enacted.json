@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5881",
+  "year": 2009,
+  "title": "Dışişleri Bakanlığı Tarafından Temsil Edilen Türkiye Cumhuriyeti ile Fransız Kalkınma Ajansı Arasında Kuruluş Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-29.htm",
+  "source_sha256": "7bc20e5c90403e3178cdfc7f1922a780ba0eaad3eb6a7583dd022c2e5386aaf6",
+  "text_sha256": "a5a436a565d03d71385891ae7ad5d1c987e624852d24142fcce5609a514e4682",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-29",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-29.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
