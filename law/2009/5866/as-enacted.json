@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5866",
+  "year": 2009,
+  "title": "Hava Yoluyla Uluslararası Taşımacılığa İlişkin Belirli Kuralların Birleştirilmesine Dair Sözleşmenin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-14.htm",
+  "source_sha256": "d5582803367f8962dfdeec991b56ade17d4bca785fbed0cc48cc0c271cd9cd74",
+  "text_sha256": "d6161bc8fc6a4f7dd8543e3fcfedc46345cc380791ba5b024472120934aef4b9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-14",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-14.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
