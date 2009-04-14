@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5843",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Rusya Federasyonu Hükümeti Arasında İki Taraflı Askeri Teknik İşbirliği Çerçevesinde Kullanılan ve Elde Edilen Fikrî ve Sınaî Mülkiyet Haklarının Karşılıklı Korunmasına İlişkin Müşterek Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-2.htm",
+  "source_sha256": "002fb2d48dddc053cf4a641312a8b8e821dd16c0ac27075daad98ca48ef025cb",
+  "text_sha256": "489659123bcac7ab243520cb4cf6f33e37f137a51ea3d2773411a4cd361c4995",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
