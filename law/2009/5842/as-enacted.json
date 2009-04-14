@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5842",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Rusya Federasyonu Hükümeti Arasında Savunma Sanayii Alanında İkili İş Birliği Süresince Mübadele Edilen veya Oluşturulan Gizlilik Dereceli Bilgi ve Malzemelerin Karşılıklı Korunması Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-1.htm",
+  "source_sha256": "d3bae61ffb3ff0d88ba34f9eec56ee17258344a7f35786b4c64aebb0a750ff72",
+  "text_sha256": "5c6431b871ed5fe0855beb791241a1a624497a4d1c8d6a7b621c3a2dc12e8125",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
