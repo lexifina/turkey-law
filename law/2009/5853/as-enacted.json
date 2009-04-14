@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5853",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Avustralya Hükümeti Arasında Askeri Alanda İş Birliği Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-4.htm",
+  "source_sha256": "75c72e315beca9f54e920d9ce15f1f10db168d4da3c04d951418fbf04c3ab872",
+  "text_sha256": "8121439520a0f8cc62252d3423370d7b48c5986fb722374772d141034bac4f4a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
