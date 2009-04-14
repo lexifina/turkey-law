@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5857",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Hindistan Cumhuriyeti Hükümeti Arasında Bilim ve Teknoloji Alanlarında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-5.htm",
+  "source_sha256": "ab1bf5f802921e248deae2dc0c547b57fb6e0ec5ffe22fed52290a3d86b0a5e8",
+  "text_sha256": "a8f990fef7bd6e432a0454010862b06b0243b401270c90c1fa9960c08e6f87b5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
