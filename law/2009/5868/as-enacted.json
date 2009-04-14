@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5868",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Güney Afrika Cumhuriyeti Hükümeti Arasında Gümrük İdarelerinin Karşılıklı Yardımlaşmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-16.htm",
+  "source_sha256": "7c96236347136d393290311f92978859ed901bee89cd1bc22469c7c5f84eccab",
+  "text_sha256": "fab4b1caf584eae24bc41c87f42734434d1c61f281b318b052f106848ed9fb68",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-16",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-16.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
