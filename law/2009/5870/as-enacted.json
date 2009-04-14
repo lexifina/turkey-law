@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5870",
+  "year": 2009,
+  "title": "Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında Birleşmiş Milletler Antlaşmasına Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-18.htm",
+  "source_sha256": "2cbb8e32527464881e533e2d374194c4ef39e5873820381e5c848604da0e25c4",
+  "text_sha256": "e48813af10b6d88ba876c9030dd092100adee3f7e08fab58c1a387724a229283",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-18",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-18.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
