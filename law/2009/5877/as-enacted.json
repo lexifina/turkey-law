@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5877",
+  "year": 2009,
+  "title": "Bakü-Tiflis-Kars Yeni Demiryolu Bağlantısına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-25.htm",
+  "source_sha256": "b27641d436f4a9e6e129b4052135164130f65ed57729a34956d5a06047f29496",
+  "text_sha256": "dae44d4f456fe272b8a0a9c8eb388bf116100a63c470c26d093c482168e105c1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-25",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-25.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
