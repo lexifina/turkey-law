@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5883",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti ve Avustralya Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşma ile Ek Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-14",
+  "gazette_issue": "27200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-31.htm",
+  "source_sha256": "7864647bf7ce92639c6bb2d714e7763717e31a790ba538fb934ddd5c26db0c58",
+  "text_sha256": "b2de6abf66bffce87355b986c001184cd10b78bac644e9b450747ed0d8b3aadf",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/14/27200-31",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090414-31.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
