@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 9 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2008-06-01",
+      "01.06.2008",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2009-04-16",
+      "R.G.-16/4/2009-27202",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2009-04-16",
+      "16/4/2009",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "R.G.-16/4/2009-27202",
+  "first_law": null,
+  "gazette": "26893",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2009-04-16",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gazi Üniversitesi",
+  "issuer_slug": "gazi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gazi-universitesi/2008/12177",
+  "published": "2008-06-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=12177&MevzuatTertip=5",
+  "source_bytes": 28721,
+  "source_id": "8.5.12177",
+  "source_sha256": "6d169e6a7076f60dba489482bd2df7bdccaedea78f8ab772287c267a7beafcaf",
+  "text_status": "current-consolidated",
+  "title": "GAZİ ÜNİVERSİTESİ ÖĞRETİM ELEMANLARININ TEKNOLOJİ GELİŞTİRME BÖLGELERİNDE GÖREVLENDİRİLME VE ŞİRKET KURABİLMELERİNE İLİŞKİN YÖNETMELİK",
+  "university_id": 195,
+  "word_count": 1154
+}
