@@ -1,0 +1,2 @@
+Dampingli ithalat
+MADDE 15 – (1) Soruşturma konusu ülkeden yapılan dampingli ithalat 2005 yılında 1.515 ton ile toplam ithalatın %22’sini oluştururken, 2006 yılında 2.162 ton ile toplam ithalatın %27’sine çıkmış, SD’de ise artmaya devam ederek 2.964 ton ile toplam ithalatın %33’üne ulaşmıştır. Buna göre 2005-SD arasında dampingli ithalat miktar bazında %96, değer bazında ise 3,5 milyon ABD dolarından 8,6 milyon ABD dolarına çıkarak %146 oranında artış göstermiştir.

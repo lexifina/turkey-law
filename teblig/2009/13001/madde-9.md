@@ -1,0 +1,2 @@
+Normal değer
+MADDE 9 – (1) Normal değerin tespitinde Açılış Tebliği’nde belirtildiği üzere, Yönetmelik’in 7 nci maddesi hükümleri çerçevesinde, serbest piyasa ekonomisi uygulayan emsal ülke olarak Türkiye alınmış ve emsal ülke seçimine ilgili taraflardan süresi içerisinde herhangi bir itiraz alınmamıştır. Bu kapsamda, normal değer Türkiye’deki yerli üretim dalının imalat maliyetlerine satış, genel ve idari giderler ile makul bir kâr oranının eklenmesi suretiyle hesaplanmıştır. Söz konusu normal değer fabrika çıkış aşamasında kabul edilmiştir.

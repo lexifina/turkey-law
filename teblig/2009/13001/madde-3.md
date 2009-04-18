@@ -1,0 +1,6 @@
+Bilgilerin toplanması ve değerlendirilmesi
+MADDE 3 – (1) Soruşturma açılmasını müteakip, soruşturma konusu ürünün yerli üreticilerine, Müsteşarlıkça tespit edilen ithalatçılarına ve ÇHC’de yerleşik bilinen ihracatçılarına soru formları gönderilmiştir.
+(2) Öte yandan, soruşturma konusu ülkede yerleşik diğer üretici/ihracatçılara iletilebilmesini teminen söz konusu soru formunun bir örneği bu ülkenin Ankara’daki temsilciliğine de gönderilmiştir.
+(3) Tarafların soru formunu yanıtlamaları için posta süresi dahil 37 gün süre tanınmıştır. Soruşturma konusu ülkede yerleşik işbirliğine gelen üretici/ihracatçı firma olmamıştır. İthalatçıların süre uzatımı yönündeki makul talepleri ise karşılanmıştır.
+(4) Soruşturma konusu maddenin ithalatını yaptığı tespit edilen ve kendilerine soru formu gönderilen 10 ithalatçı firmadan 5 tanesi usulüne uygun olarak soru formuna cevap vermiştir.
+(5) DEPAR, Doğuş Suni Deri Kösele San. ve Tic. A.Ş. ve Flokser Tekstil Sanayi ve Ticaret A.Ş. soruşturma konusu ürünün Türkiye’deki bilinen üreticileridir. Bu nedenle, yerli üretimi temsil yeteneğini haizdir. DEPAR, soru formuna usulüne uygun şekilde yanıt vermiş, gerektiğinde talep edilen ilave bilgi ve belgeleri temin etmiştir.

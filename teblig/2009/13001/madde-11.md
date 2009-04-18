@@ -1,0 +1,2 @@
+Fiyat karşılaştırması
+MADDE 11 – (1) Adil bir karşılaştırmanın yapılabilmesini teminen, normal değer ile ihraç fiyatı fabrika çıkış aşamasına getirilerek aynı ticari aşamada karşılaştırılmıştır.

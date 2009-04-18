@@ -1,0 +1,5 @@
+Dampingli ithalatın pazar payındaki değişim
+MADDE 17 – (1) Soruşturma konusu ürün için yurtiçi tüketim, yerli üreticilerin ilgili üründeki yurtiçi satışları ile söz konusu üründeki genel ithalat rakamlarının toplanması suretiyle hesaplanmıştır. Yerli üretim dalı toplam satışı hesaplanırken, soruşturma konusu üründe DEPAR firmasının yerli üretimin yaklaşık %80'ini gerçekleştirdiğinden hareketle DEPAR firmasının yerli üretim dalı satışının da %80'ini gerçekleştirdiği kabul edilmiştir. Bu çerçevede DEPAR firmasının iç piyasadaki satışları esas alınarak yerli sanayi satışları hesaplanmıştır.
+(2) Soruşturma konusu ürün için oluşturulan toplam tüketim endeksi, 2005 yılında 100 iken, 2006 yılında 115’e, SD’de ise 130’a çıkmıştır.
+(3) İncelemede dampingli ithalatın pazar payı endeksi 2005 yılında 100 kabul edildiğinde, 2006 yılında 125’e, SD’ de ise 151’e çıkmıştır. Buna göre 2005-SD arasında dampingli ithalatın pazar payı %51 artış göstermiştir.
+(4) Yerli üretim dalının pazar payı ise 2005 yılında 100 olarak kabul edildiğinde dampingli ithalatın etkisiyle 2006 yılında 81’e, SD’de ise 58’e gerilemiştir.
