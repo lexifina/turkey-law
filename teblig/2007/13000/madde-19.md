@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Dampingli İthalat ile Zarar Arasındaki Nedensellik Bağı
+Dampingli ithalatın etkisi
+Madde 19- (1) 2003 yılı ile soruşturma dönemi arasında, üçüncü ülkeler menşeli ithalat yaklaşık %31 oranında artarken, ÇHC menşeli ithalatın söz konusu dönemde %150 oranında arttığı; 2003 yılında yaklaşık %16 olan toplam ithalat içindeki payının soruşturma döneminde yaklaşık %26,5’e çıktığı tespit edilmiştir.
+(2) Soruşturma konusu ürün tüketiminde soruşturma döneminde 2003 yılına oranla %6 oranında azalış görülmesine rağmen ÇHC menşeli dampingli ithalatın pazar payı, 2003 yılında %2,6’dan soruşturma döneminde %7’ye çıkmıştır.
+(3) Zarar inceleme döneminde soruşturma konusu ürünün ÇHC’nden dampingli ithalatının fiyatlarının yerli üretim dalının fiyatlarını önemli ölçüde kırdığı ve baskı altında tuttuğu, bu nedenle yerli üretim dalının fiyatlarını aynı dönemde maliyetlerde görülen düşüşün de ötesinde kısmak durumunda kaldığı ve bu durumun yerli üretim dalının karlılığını daha da bozduğu; 2003 yılına göre SD’de mutlak ve nisbi olarak artan dampingli ithalat nedeniyle yerli üretim dalının pazar payını önemli oranda kaybettiği; üretimin, kapasite kullanımının, yurtiçi satışın, istihdamın ve stokların olumsuz etkilendiği tespit edilmiştir.
+(4) Dampingli ithalattaki artış eğilimi ile yerli üretim dalının ekonomik göstergelerinde yukarıda ifade olunan olumsuz gelişmelerin eş zamanlı olarak ortaya çıkması nedeniyle dampingli ithalat ile yerli üretim dalı üzerinde oluşan zarar arasında illiyet bağı olduğu sonucuna varılmıştır.

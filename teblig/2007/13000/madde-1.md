@@ -1,0 +1,4 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Soruşturma
+Madde 1- (1) Yerli üreticiler Haznedar Refrakter San. A.Ş. ile Kümaş Kütahya Manyezit İşletmeleri A.Ş.’nin Çin Halk Cumhuriyeti (ÇHC) menşeli “belirli ateş tuğlaları”nın Türkiye’ye dampingli fiyatlarla ithal edildiği ve bu durumun yerli üretime zarar verdiği iddiasıyla, bu ülke menşeli söz konusu maddenin ithalatına karşı önlem alınması istemiyle yaptıkları, diğer üreticiler Sörmaş Söğüt Refrakter Malzemeleri A.Ş, Konya Selçuklu Krom Magnezit Tuğla San. A.Ş. ve Zonguldak Yatırım Filyos Ateş Tuğlası En. San. ve Tic. A.Ş. tarafından da desteklenen başvuruları sonucu 29/08/2006 tarih ve 26274 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2006/21 sayılı Tebliğ ile başlatılan damping soruşturması, Dış Ticaret Müsteşarlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanmıştır.

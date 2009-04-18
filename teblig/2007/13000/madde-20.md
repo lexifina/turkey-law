@@ -1,0 +1,3 @@
+Üçüncü ülkelerden ithalat
+Madde 20- (1) Üçüncü ülkelerden yapılan ithalatın genel ithalat içindeki payının, 2003 yılında %84 iken soruşturma döneminde %73,5’e gerilediği görülmektedir.
+(2) Diğer ülkeler kaynaklı soruşturma konusu ithalatın, zarar inceleme döneminde arttığı tespit edilmiştir. Bununla birlikte üçüncü ülkeler kaynaklı ithalat, fiyatları itibariyle bu aşamada yerli üretim dalına maddi zarar verebilecek boyutta görülmemektedir. Dolayısıyla, üçüncü ülkeler menşeli ithalata ilişkin belirlemeler, zararın dampingli ithalattan kaynaklandığına yönelik tespiti değiştirecek durumda değildir.

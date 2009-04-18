@@ -1,0 +1,11 @@
+Bilgilerin toplanması ve değerlendirilmesi
+Madde 3- (1) Soruşturma açılmasını müteakip, söz konusu ürünün bilinen yerli üreticilerine, Müsteşarlıkça tespit edilen ithalatçılarına, ÇHC’de yerleşik bilinen ihracatçılarına soru formları gönderilmiştir.
+(2) Öte yandan, soruşturma konusu ülkede yerleşik diğer üretici-ihracatçılara iletilebilmesini teminen, söz konusu soru formunun bir örneği ÇHC’nin Ankara Büyükelçiliği’ne de gönderilmiştir.
+(3) Tarafların soru formunu yanıtlamaları için posta süresi dahil 37 gün süre tanınmıştır. İthalatçı ve soruşturma konusu ülkedeki üretici/ihracatçıların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(4) RHI Refractories (Dalian) Co.Ltd. firması ile Yingkou Orind Refractories firmaları “üretici-ihracatçı soru formu”na süresi içerisinde cevap vermişlerdir.
+(5) RHI Refractories (Dalian) Co.Ltd. firması, soruşturma döneminde çok az miktarda ihracatı olması sebebiyle, firmanın genel bilgilere ilişkin soruları cevaplandırdığını, maliyet, iç piyasa satışları ve ihracat satışlarına ilişkin bilgi vermediğini ifade etmiştir. Firma, ayrıca soru formunun piyasa ekonomisine ilişkin bölümünü de cevaplandırmamıştır.
+(6) Yingkou Orind Refractories firmasının soru formuna cevaplarında temel eksikliklerin varolduğu, firmanın piyasa ekonomisine ilişkin soru formunu da cevaplandırmadığı tespit edilmiştir.
+(7) Şikayette bulunan yerli üreticiler şikayet konusu ürünün Türkiye üretiminin %61’ini, şikayeti destekleyen üreticilerle birlikte %83’ünü gerçekleştirmektedirler. Bu çerçevede, Yönetmeliğin 20 nci maddesi çerçevesinde, şikayetçilerin yerli üretim dalını temsil yeteneğini haiz oldukları anlaşılmıştır.
+(8) Yerli üreticiler, soru formuna usulüne uygun şekilde yanıt vermiş ve gerektiğinde talep edilen ilave bilgi ve belgeleri temin etmiştir. Ayrıca, soruşturma sırasında Müsteşarlığımız ile işbirliği içinde olmuşlar ve gerektiğinde talep edilen ilave bilgileri temin etmişlerdir.
+(9) Soruşturma süresince gerekli bilgileri sağlayan Konya Selçuklu Krom Magnezit Tuğla San. A.Ş.’nin cevapları da soruşturma kapsamında değerlendirilmiştir.
+(10) Soruşturma konusu maddenin, soruşturma döneminde ÇHC’den ithalatını yaptığı tespit edilen 12 ithalatçı firmaya da "ithalatçı soru formu" gönderilmiş, bu firmaların sekizinden yanıt alınmıştır.
