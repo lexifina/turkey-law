@@ -1,0 +1,3 @@
+Soru formları ve bilgilerin toplanması
+MADDE 6 – (1) Soruşturma için gerekli bilgilerin temini amacıyla, söz konusu maddenin yerli üreticilerine, Müsteşarlıkça bilinen ithalatçılarına, soruşturmaya konu ülkede yerleşik üretici/ihracatçılarına soruşturma açılışına ilişkin bildirim gönderilecektir. Soruşturmaya taraf ithalatçıların ve üretici/ihracatçıların soru formunu Müsteşarlığın web sayfasındaki ilgili bölümden süresi içinde indirmeleri mümkün bulunmaktadır.
+(2) Ayrıca, ilgili ülkedeki üretici ve ihracatçıların bilgilendirilmesini kolaylaştırmak ve çabuklaştırmak amacıyla, ilgili ülkenin Türkiye’deki resmi temsilciliğine bildirim yapılacaktır.
