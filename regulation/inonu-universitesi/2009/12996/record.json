@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-04-20",
+      "20.04.2009",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27206",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2009-04-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İnönü Üniversitesi",
+  "issuer_slug": "inonu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/inonu-universitesi/2009/12996",
+  "published": "2009-04-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=12996&MevzuatTertip=5",
+  "source_bytes": 25960,
+  "source_id": "8.5.12996",
+  "source_sha256": "2982cbc857e4ac986f8e2a709223525530458cf1b0cbcce26c9e7e08e5eba12e",
+  "text_status": "as-enacted",
+  "title": "İNÖNÜ ÜNİVERSİTESİ ENGELLİ ÇOCUKLAR ARAŞTIRMAVE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 201,
+  "word_count": 1134
+}
