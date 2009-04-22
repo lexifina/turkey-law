@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5889",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Sağlık Bakanlığı ve Suudi Arabistan Krallığı Sağlık Bakanlığı Arasında Sağlık Alanında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-22",
+  "gazette_issue": "27208",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090422-3.htm",
+  "source_sha256": "5c263d264e95132317ece24879a2af3c8b33ebda251792f0dbb0ce768a60a114",
+  "text_sha256": "73bac6202b1c377f6e7f943b175ab93a50fc9a419b1b20e68ddd64a2eee0c691",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/22/27208-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090422-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
