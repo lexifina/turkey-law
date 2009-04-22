@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-04-22",
+  "issue": "27208",
+  "edition": "regular",
+  "item": 3,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "5889 Türkiye Cumhuriyeti Sağlık Bakanlığı ve Suudi Arabistan Krallığı Sağlık Bakanlığı Arasında Sağlık Alanında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090422-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090422.htm",
+  "index_sha256": "ab3bfbf5cbd492b8606dc2e0a00c94965a3d744c9e505dea37cb977902d51c95",
+  "index_header": "22 Nisan 2009 ... 27208 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
