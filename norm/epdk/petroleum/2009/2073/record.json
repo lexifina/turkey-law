@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "2073",
+  "decision_date": "2009-04-22",
+  "title": "Dağıtıcılar Arası Akaryakıt Ticaretine İlişkin Usul ve Esaslar Hakkında",
+  "resmi_gazete_date": "2009-05-06",
+  "resmi_gazete_number": "27220",
+  "categories": [
+    "Dağıtıcılar Arası Akaryakıt Ticaretine İlişkin Usul ve Esaslar Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/o5HuLiDEl0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/o5HuLiDEl0="
+  ],
+  "source_sha256": "fc2f41ffaf72d105ad13ab19c914ecf0550755a1f0cd23967a13c2e5bd9d3f61",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4810,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-04-22",
+  "law_text_complete": false
+}
