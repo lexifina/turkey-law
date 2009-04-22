@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5887",
+  "year": 2009,
+  "title": "Dünya Bankası Grubu ve Uluslararası Para Fonu Guvernörler Kurullarının 2009 Yıllık Toplantıları Münasebetiyle Türkiye Cumhuriyeti Hükümeti ile Dünya Bankası Grubu ve Uluslararası Para Fonu Arasında Düzenlenen Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-22",
+  "gazette_issue": "27208",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090422-1.htm",
+  "source_sha256": "7c09bfeea4a8dbae12690ce7276e6bc80328bcbe48a81b438b2cb02f154bb017",
+  "text_sha256": "310fe5defd510ce31cedb30e8578ee8489689b5db3779244f874f9506c801f76",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/22/27208-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090422-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
