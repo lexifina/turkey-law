@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5888",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ve Filistin Ulusal Yönetimi Tarım Bakanlığı Arasında Tarım Alanında İşbirliği Konulu Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-22",
+  "gazette_issue": "27208",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090422-2.htm",
+  "source_sha256": "8e38de5347c483e338eac327b7529bff258cfb2a159a60b6ec508c82ad25b372",
+  "text_sha256": "a5708f7db62eee248ddd9e87ddaa0948a807de84c3c93d44af3f02b5c759c9f4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/22/27208-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090422-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
