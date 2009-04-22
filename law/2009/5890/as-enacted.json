@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5890",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Sağlık Bakanlığı ile Bahreyn Krallığı Sağlık Bakanlığı Arasında Sağlık Alanında İşbirliğine Dair Mutabakat Zaptının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-22",
+  "gazette_issue": "27208",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090422-4.htm",
+  "source_sha256": "a749422a99e2ff269905cb97f903514ffa470dced8a895e752aaf84b5e0d5d4c",
+  "text_sha256": "85458299d0260729364a9d5deeaeb9c99300e208a639ca1f65e1daa3aad4c259",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/22/27208-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090422-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
