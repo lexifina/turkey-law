@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Komisyonların Teşkili, Yetki ve Görev Yerleri
+Komisyonların teşkili
+MADDE 5 – (1) Müfettişlerce, devamlı mahiyetteki işyerlerinde yapılan asgarî işçilik incelemelerine bağlı olarak kurulacak komisyon; Rehberlik ve Teftiş Başkanınca Müfettişler arasından belirlenecek üç asıl ve üç yedek üyeden oluşur. Komisyona kıdemli olan Müfettiş başkanlık eder.
+(2) Yıl içinde toplanacak olan komisyonlar için Rehberlik ve Teftiş Başkanı tarafından yeterli sayıda müfettiş görevlendirilir. Aynı ilde on ve üzerinde müfettişin görevlendirilmesi halinde, komisyon bu müfettişler arasından birinci fıkradaki usule göre teşekkül eder ve o ilde yapılan asgarî işçilik incelemeleri sonucu düzenlenen raporlarla ilgili uzlaşma taleplerini görüşerek uzlaşma ile ilgili gerekli işlemleri yapar.
+(3) Uzlaşmaya konu olan incelemeyi yapan müfettişler bu maddeye göre teşekkül edecek komisyonlara üye olamazlar. Ancak gerek duyulması halinde, komisyon toplantısına açıklamalarda bulunmak üzere iştirak edebilirler.
+(4) Uzlaşma görüşmeleri sırasında işveren veya işveren vekili isterse bağlı olunan meslek odasından bir temsilci ve 1/6/1989 tarihli ve 3568 sayılı Serbest Muhasebeci Malî Müşavirlik ve Yeminli Malî Müşavirlik Kanununa göre kurulan meslek odasından bir meslek mensubu bulundurabilir. Bu kişiler uzlaşma görüşmelerinde sadece görüş açıklayabilirler, görüşmeler sonucunda düzenlenecek tutanaklara imza atamazlar.
