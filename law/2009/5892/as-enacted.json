@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5892",
+  "year": 2009,
+  "title": "Ulusal Bayram ve Genel Tatiller Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-04-27",
+  "gazette_issue": "27212",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090427-1.htm",
+  "source_sha256": "69803e90ba75c13b7a3f41096c32ea73df6fce9b1b50043122c776a2eebd0182",
+  "text_sha256": "87d29e9b2282f4175e2fb0a658a273b054046c6b41447a06ec5128ff22030eea",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/04/27/27212-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/04/20090427-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
