@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 23,
+  "legislative_year": 3,
+  "sitting": 82,
+  "sitting_date": "2009-04-28",
+  "listed_date": "28 Nisan 2009 Salı",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/23/3/82/f23c2ca9-5f9c-448c-9087-bec73c9a8714.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=7165965c-418f-4e6a-b9a3-0185ceac7229",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=23&YasamaYili=3",
+  "source_sha256": "f20f150bd404bc3dce723e0fbdb791e4a2e4a73ce95cdcb2d76440c99debf87f",
+  "source_bytes": 918034,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
