@@ -1,0 +1,2 @@
+Madde 12 – (Değişik: 25/3/2009-2009/14848 K.)
+7, 8, 9, 10 ve 11 inci maddelere aykırı olarak verilmiş adlar aile kütüklerine ve doğum tutanaklarına yazılamaz. Söz konusu maddelere aykırı olarak verilmiş olan adların değiştirilmesi için ilgili resmi dairenin göstereceği lüzum üzerine Cumhuriyet savcıları tarafından yerleşim yeri adresinin bulunduğu yerdeki görevli asliye hukuk mahkemesinde dava açılır.

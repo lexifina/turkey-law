@@ -1,0 +1,2 @@
+Madde 2 – (Değişik: 25/3/2009-2009/14848 K.)
+Söyleyişte, yazışta, öz ad önde, soyadı sonda olmak üzere bütün harfleri söylenerek veya yazılarak kullanılabileceği gibi söyleyişte ve yazışta öz adsız yalnız soyadı kullanılabilir ve imzada öz adın ilk harfi, öz ad iki tane ise her ikisinin ilk harfleri veya birinin ilk harfi ile öteki ad ve soyadının tümü yazılabilir. İki soyadı olan kadın her iki soyadını birlikte kullanır.
