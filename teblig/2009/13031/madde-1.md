@@ -1,0 +1,2 @@
+Korunma önlemi
+MADDE 1 – (1) 23/6/2006 tarihli ve 26207 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemi Uygulanmasına İlişkin 2006/10559 sayılı Bakanlar Kurulu Kararı ile 70.04 Gümrük Tarife Pozisyonlu (G.T.P.) “çekme veya üfleme cam” ile 70.05 G.T.P.’li “float cam ve yüzeyi cilalanmış veya parlatılmış cam”ın Rusya Federasyonu (Rusya), Ukrayna ve İran İslam Cumhuriyeti (İran) menşeli olanlarının ithalatına 3 (üç) yıl süre ile ek mali mükellefiyet şeklinde korunma önlemi getirilmiştir.

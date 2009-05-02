@@ -1,0 +1,2 @@
+Karar
+MADDE 5 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu yapılan başvuruyla ilgili olarak başvuru konusu eşya için 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği (Yönetmelik) hükümleri çerçevesinde 70.04 ve 70.05 GTP’de yer alan ürünlerin Rusya ve İran menşeli olanlarının ithalatında uygulanmakta olan ek mali mükellefiyetin etkilerinin değerlendirilmesi ve söz konusu önlem uygulamasının devamının gerekli olup olmadığının incelenmesi amacıyla gözden geçirme soruşturması açılmasına karar vermiştir.

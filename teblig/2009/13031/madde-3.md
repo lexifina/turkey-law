@@ -1,0 +1,2 @@
+Başvuru
+MADDE 3 – (1) Yerli üretici, Rusya ve İran menşeli olan başvuru konusu ürünler için uygulanmakta olan korunma önleminin gözden geçirilmesi talebiyle Dış Ticaret Müsteşarlığı (Müsteşarlık) İthalat Genel Müdürlüğü’ne (Genel Müdürlük) başvuruda bulunmuştur. Söz konusu başvurunun gizli olmayan özetine Müsteşarlığın internet sitesi (http://www.dtm.gov.tr) “İthalat Ana Sayfası”nda yer alan “Gözetim ve Korunma Önlemleri ile Kota ve Tarife Kontenjanı İdaresine İlişkin Bilgiler” bağlantısından ulaşılabilmektedir.
