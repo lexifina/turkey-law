@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.13026",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "YAŞAR ÜNİVERSİTESİ ARAŞTIRMA-GELİŞTİRME VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "number": "13026",
+  "issuer": "YAŞAR ÜNİVERSİTESİ",
+  "issuer_slug": "yasar-universitesi",
+  "path": "regulation/yasar-universitesi/2009/13026",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13026&MevzuatTertip=5",
+  "source_sha256": "c5c271c506ead2307919c12988e172a60770016647b37dd709937dfb26efa96d",
+  "source_bytes": 21795,
+  "published": "2009-05-04",
+  "gazette": "27218",
+  "in_force": "2009-05-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.05.2009); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 871,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
