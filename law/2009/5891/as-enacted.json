@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5891",
+  "year": 2009,
+  "title": "Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı Kurulması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-05-05",
+  "gazette_issue": "27219",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090505-1.htm",
+  "source_sha256": "34cb8f1e5481c6a9544526239e49a2cf00932e91b82e311304c367ad49909629",
+  "text_sha256": "2d67cb5dc778826bfd30d327b5edf9537c182b679d942c6db1b801266f2f70cd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/05/05/27219-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090505-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
