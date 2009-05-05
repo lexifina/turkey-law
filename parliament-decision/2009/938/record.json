@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "938",
+  "year": 2009,
+  "title": "938 sayılı Karar",
+  "adopted": "2009-05-05",
+  "adopted_as_published": "05/05/2009",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.05.2009 No: 27230",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc093/karartbmmc093/karartbmmc09300938.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 93",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 708789,
+      "title": "938 sayılı Karar",
+      "adopted_as_published": "05/05/2009",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc093/karartbmmc093/karartbmmc09300938.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 44,
+          "sitting": 85,
+          "sitting_date": "2009-05-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c044/tbmm23044085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c044/tbmm23044fih.pdf",
+          "pages": [
+            "811:812"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "5d7ba90f66d2063a7d6d959963ada65ff4cb4d9e34b5bcd586e482bbed6dbbd6"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5d7ba90f66d2063a7d6d959963ada65ff4cb4d9e34b5bcd586e482bbed6dbbd6",
+  "issuer": "TBMM",
+  "in_force": "2009-05-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 05/05/2009; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
