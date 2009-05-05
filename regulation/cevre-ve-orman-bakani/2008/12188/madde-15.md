@@ -1,0 +1,3 @@
+Bakanlık ve ilgili kurum ve kuruluşların sorumlulukları
+MADDE 15 – (1) Bakanlık, ölçüm cihazlarının (metotlar, ekipman, ağlar ve laboratuarlar) onayından; cihazların ölçüm hassaslığının sürdürülebilirliğini Avrupa kalite güvence standartlarının gerekliliklerine göre yürütülen dahili kalite kontrolleriyle kontrol etmekten ve ölçüm hassaslığını sağlamaktan; uluslararası kalite güvence programlarının bölgelerindeki koordinasyonundan; değerlendirme metotlarının analizinden sorumludur.
+(2) Büyükşehir belediyeleri/belediyeler ve diğer ilgili kurum ve kuruluşlar, uyumluluğu sağlamak için önlemlerde; eylem planları ve temiz hava planlarının hazırlanmasında; bilgi ve raporların iletiminde; işbirliği ve katkı sağlar.

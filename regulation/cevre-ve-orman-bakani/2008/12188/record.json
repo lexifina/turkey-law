@@ -1,0 +1,35 @@
+{
+  "source_id": "7.5.12188",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAVA KALİTESİ DEĞERLENDİRME VE YÖNETİMİ YÖNETMELİĞİ",
+  "number": "12188",
+  "issuer": "Çevre ve Orman Bakanı",
+  "issuer_slug": "cevre-ve-orman-bakani",
+  "path": "regulation/cevre-ve-orman-bakani/2008/12188",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12188&MevzuatTertip=5",
+  "source_sha256": "ca833b40f19cd3d454999e12fe4694aef0729052c311ef26540142bbfc451e06",
+  "source_bytes": 495767,
+  "published": "2008-06-06",
+  "gazette": "26898",
+  "in_force": "2009-05-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/5/2009\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2009-05-05",
+      "RG-5/5/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11394,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
