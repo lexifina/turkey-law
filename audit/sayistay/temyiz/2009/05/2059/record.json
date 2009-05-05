@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "30791",
+  "decision_date": "2009-05-05",
+  "source_id": 2059,
+  "chamber": "2",
+  "file_number": "30273",
+  "account_year": "2004",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2059/",
+  "source_sha256": "3e03338dabc850fc6b793e4f62e948cb72e69c0637b6ff27238af67454d27514",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
