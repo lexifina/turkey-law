@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-05-06",
+  "issue": "27220",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kültür ve Tabiat Varlıklarını Koruma Yüksek Kurulu ve Koruma Bölge Kurulları Çalışmaları ile Koruma Yüksek Kuruluna Yapılacak İtirazlara Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090506-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090506.htm",
+  "index_sha256": "16c177e3f9409b0a88b70ce1247e1a8d2d5fa0c9a3d8167b5457b755724d4bf2",
+  "index_header": "6 Mayıs 2009 ... 27220 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
