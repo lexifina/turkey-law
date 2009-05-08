@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-05-08",
+  "issue": "27222",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 30/4/2009 Tarihli ve 2009/21 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090508-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090508.htm",
+  "index_sha256": "256f45a2ebc3faa059e9304bbbea8399128889190dc2d6af56be699ff3d90ea6",
+  "index_header": "8 Mayıs 2009 ... 27222 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
