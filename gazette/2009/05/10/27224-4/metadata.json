@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-05-10",
+  "issue": "27224",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2009 Yılı Nisan Ayına Ait Yurt İçi Satış ve Teslim Belgelerinin (D3) Listesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090510-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090510.htm",
+  "index_sha256": "d36ffd7c54e2c046b97be4266f029004fb99a05da599f18b58e45e2d91db4f44",
+  "index_header": "10 Mayıs 2009 ... 27224 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
