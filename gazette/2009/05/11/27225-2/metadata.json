@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-05-11",
+  "issue": "27225",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Arel Üniversitesi Yaz Öğretimi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090511-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090511.htm",
+  "index_sha256": "82bf079616d125f0a9244b4a5e31f47d2a0e87f659c0bc9c9b9831fcb6d20719",
+  "index_header": "11 Mayıs 2009 ... 27225 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
