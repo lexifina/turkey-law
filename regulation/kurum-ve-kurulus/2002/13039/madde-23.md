@@ -1,0 +1,2 @@
+Oda Mali Danışmanı
+Madde 23 — Oda Mali Danışmanı, Oda Sekreteri ve Oda Saymanına bağlı ve sorumludur. Odanın mali işlerini takip eder. Oda Denetleme Kurulunun Oda Yönetim Kurulu’na talebi halinde Denetleme Kurulu üyeleri ile birlikte Oda ve Birim denetlemelerinde danışmanlık yapar. 3568 sayılı Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler kanunu kapsamında danışmanlık görevlerini yürütür.

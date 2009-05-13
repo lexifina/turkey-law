@@ -1,0 +1,2 @@
+Geçici görevlendirme
+MADDE 7 – İşveren; Oda birimleri’nin oluru ile teknik görevliyi bir Oda biriminden diğer bir Oda birimine geçici olarak görevlendirebilir. Bu görevlendirme süresi yılda en fazla 30 işgünüdür. Bu durum teknik görevliye yazılı olarak bildirilmelidir. Bildirimde, görevlendirilecek oda birimi, geçici görev başlangıç ve bitim tarihleri bulunmalıdır. Ancak, bitimi önceden saptanamayan işlerde, geçici görev süresi uzatılabilir.

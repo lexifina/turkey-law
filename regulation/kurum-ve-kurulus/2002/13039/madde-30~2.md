@@ -1,0 +1,1 @@
+MADDE 30 – Bu sözleşme 30 maddeden oluşmuş olup, işveren ve her bir teknik görevlice ayrı ayrı imzalanarak yürürlüğe girer. Bu sözleşmede yer alamayan tüm konularda 4857 sayılı İş Kanunu ve TMMOB MMO Personel Yönetmeliği geçerli olup, bu sözleşme TMMOB MMO Personel Yönetmeliğinin ekidir.

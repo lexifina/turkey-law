@@ -1,0 +1,3 @@
+İl/İlçe Temsilciliği Muhasebe Görevlisi
+Madde 45 — İl/İlçe temsilciliği muhasebe görevlisi sırasıyla, İl/İlçe Temsilciliği sekreteri ve saymanına, Şube saymanına ve gereken durumlarda Şube muhasebe ve mali işler sorumlusuna sorumludur. İl/İlçe Temsilciliği muhasebe görevlisinin görevleri şunlardır:
+İl/İlçe Temsilciliği mali işlemlerini; kanun, tüzük, yönetmelik, yönetim kurulu kararları, İl/İlçe Temsilciliği saymanı, Şube saymanı ve gereken durumlarda Şube muhasebe ve mali işler sorumlusu talimatlarına göre zamanında ve eksiksiz yapılması ile görevli olup, her türlü kayıt işlemleri yapmak ve bu Yönetmelik’te madde 26’da belirtilen görevleri İl/İlçe Temsilciliği hizmetleriyle sınırlı olmak üzere yapmak. En az Ticaret Lisesi Mezunu olmalıdır.

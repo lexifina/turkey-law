@@ -1,0 +1,3 @@
+Şube Muhasebe ve Mali İşler Sorumlusu
+Madde 39 — Şube muhasebe ve mali işler sorumlusu, Şube saymanına, Şube Müdürüne bağlı ve sorumludur. Şube muhasebe ve mali işler sorumlusunun görevleri şunlardır:
+Şubenin mali işlemlerini; kanun, yönetmelik, yönetim kurulu kararları, Şube saymanı ve Şube Müdürünün talimatlarına göre zamanında ve eksiksiz olarak yapılması ile görevli olup, her türlü kayıtları tutmak ve veznedarlık işlerini yapmak ve bu Yönetmelik’te Madde 24 ve 26’da belirtilen görevleri Şube hizmetleriyle sınırlı olmak üzere yapmak. En az Ön Lisans düzeyinde eğitim veren ilgili Yüksek Öğretim Bölümlerinden mezun olmalıdır.
