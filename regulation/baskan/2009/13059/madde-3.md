@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Depolama şirketi: Doğal gazın depolama faaliyetini gerçekleştirmek üzere yetkilendirilen tüzel kişiyi,
+b) Ek hizmetler: LNG gemisinin limana yanaştırılması, boşaltılması, LNG’nin tanklarda depolanması, LNG’nin gazlaştırılarak ulusal iletim şebekesine verilmesi, LNG’nin kara tankerlerine yüklenmesi, LNG’nin gemiye yüklenmesi ve benzeri hizmetlerin birbirinden bağımsız olarak verilmesini,
+c) Gazlaştırılmış LNG kalite şartnamesi: Depolama şirketi tarafından hizmet alana teslim edilecek gazlaştırılmış LNG’nin özelliklerini gösteren kalite şartnamesini,
+d) Hizmet alan: Depolama şirketi ile hizmet sözleşmesi imzalamış olan tedarikçi ve/veya ihracatçı şirketi veya tedarikçi ve/veya ihracatçı sıfatıyla kendisini,
+e) Hizmet sözleşmesi: Standart ve/veya ek hizmetin sağlanması için depolama şirketi ile hizmet alan arasında akdedilen sözleşmeyi,
+f) İhracatçı şirket: Üretim şirketi ve toptan satış şirketlerinden veya ithalatçı şirketlerden satın aldığı gazı yurt dışına pazarlayan tüzel kişiyi,
+g) Kanun: 18/4/2001 tarihli ve 4646 sayılı Doğal Gaz Piyasası Kanununu,
+h) Kaynama gazı: Standart ve ek hizmetlerin verilmesi sırasında sıvı halden gaz haline geçen alçak basınçlı gazı,
+i) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+j) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+k) LNG kalite şartnamesi: LNG’nin depolama şirketi tarafından teslim alınabilmesi için tedarikçi tarafından kabul noktasında teslim edilecek ve hizmet alan tarafından teslim alınacak LNG’nin gaz halindeki özelliklerini gösteren kalite şartnamesini,
+l) Sıvılaştırılmış doğal gaz depolama tesisi: Bir tüzel kişinin mülkiyet veya işletmesinde bulunan ve LNG’yi depolamaya mahsus tesisi,
+m) Sistem: Doğal gazın üretimi, iletimi, depolanması ve dağıtımı işlevlerini yerine getirmek üzere kurulan tesis ve teçhizatı,
+n) Sistem günü: Saat 08:00 de başlayıp ertesi gün saat 08:00 de sona eren 24 saatlik zaman dilimini,
+o) Standart hizmet: LNG gemisinin boşaltılması, LNG’nin temel kullanım usul ve esasında belirlenecek sürede depolanması ve bu kapsamda tahsis edilen gazlaştırma kapasitesi çerçevesinde gazlaştırılarak ulusal iletim şebekesine verilmesine ilişkin hizmetlerin bir bütün olarak verilmesini,
+p) Tedarikçi: Serbest tüketicilere, toptan satış şirketlerine, ithalatçı şirketlere, ihracatçı şirketlere, dağıtım şirketlerine ve CNG satış şirketlerine doğal gaz satan ithalatçı şirketleri, toptan satış şirketleri ve üretim şirketlerini,
+r) Temel kullanım usul ve esasları (KUE): Standart hizmet ve ek hizmet ile ilgili tarafların hak ve yükümlülüklerinin belirlenmesi amacıyla depolama şirketi tarafından hazırlanarak Kurul onayına sunulan usul ve esasları,
+s) Terminal işletme gazı: Standart ve ek hizmetler için terminal ekipmanları tarafından yakıt olarak kullanılan gazı, bacada yakılan gazı, ısıtmada kullanılan gazı, minimum stok için gerekli olan gazı ve proses tesisatında oluşabilecek gaz kaçakları ile terminalde ve gemideki ölçüm ekipmanlarının hassasiyet sınırları nedeniyle ölçüm farkından kaynaklanan hesaba katılamayan gazı,
+ifade eder.

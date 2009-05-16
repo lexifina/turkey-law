@@ -1,0 +1,5 @@
+Temel kullanım usul ve esasları
+MADDE 5 – (1) Depolama şirketleri sahip oldukları her depolama tesisi için temel kullanım usul ve esaslarını hazırlayarak internet sitelerinde ilgili tarafların görüşüne açar. Depolama şirketleri gelen görüş ve önerileri de dikkate alarak hazırladıkları temel kullanım usul ve esaslarını gelen görüş ve önerilerle birlikte uygulama döneminden altmış gün önce Kurul onayına sunar. Bu usul ve esaslar Kurul onayıyla yürürlüğe girer. Temel kullanım usul ve esasları deponun kullanımı için eşit durumdaki hizmet alanlar arasında ayrım yapılmaması, ekonomik, verimli ve güvenli işletmecilik yapılması ilkelerine uygun genel, teknik ve ticari kuralları içerir.
+(2) Depolama şirketleri, ilgili mevzuat ve kendilerine ait KUE’lerdeki düzenlemelere göre hizmet verir.
+(3) Temel kullanım usul ve esaslarında yapılacak değişiklikler temel kullanım usul ve esaslarında yer alacak değişiklik prosedürü çerçevesinde piyasanın görüşleri alınarak oluşturulur ve Kurul onayına sunulur. Değişiklikler Kurul onayıyla yürürlüğe girer.
+(4) Kurum, gerek gördüğü hallerde piyasada faaliyet gösteren ilgili kişilerin görüşünü alarak düzenlemelerde değişiklik yapabilir.
