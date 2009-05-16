@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5897",
+  "year": 2009,
+  "title": "Denizcilik Müsteşarlığının Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-05-16",
+  "gazette_issue": "27230",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090516-5.htm",
+  "source_sha256": "f8e05b8437f6580d4c957366e361adbbd0cdef5ad8ff51213b5c8c503f05b3ac",
+  "text_sha256": "4b669adc4427bf2c6bc43d9a62b7197640038f0f30d178f1f8fba404b662347b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/05/16/27230-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090516-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
