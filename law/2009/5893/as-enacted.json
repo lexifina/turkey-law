@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5893",
+  "year": 2009,
+  "title": "Posta Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-05-16",
+  "gazette_issue": "27230",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090516-1.htm",
+  "source_sha256": "637ec572e372c3e3bedd4a7110efc6cf66473479ad7ba0d1bd25f1faffb0f4b3",
+  "text_sha256": "f8b4ec30f0cb4eba8148a7237d403aa057168e8058a71854d114041a7a9c98a6",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/05/16/27230-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090516-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
