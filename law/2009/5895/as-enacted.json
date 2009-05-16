@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5895",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Türkmenistan Hükümeti Arasında Ekonomik İşbirliğine Dair Hükümetlerarası Türk-Türkmen Komisyonu Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-05-16",
+  "gazette_issue": "27230",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090516-3.htm",
+  "source_sha256": "9c3804b0a01d81e82d4d63d1f78aaa42bb23e07011e3e9391581c896896f8228",
+  "text_sha256": "628b699706aa72ac9a1940398645125ca6e2b1dc57de0b13a53ef37861cabf3a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/05/16/27230-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090516-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
