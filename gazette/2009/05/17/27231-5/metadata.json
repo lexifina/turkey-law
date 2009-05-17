@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-05-17",
+  "issue": "27231",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çevre ve Orman Bakanlığı Döner Sermayeli İşletmeler Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090517-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090517.htm",
+  "index_sha256": "401d8dc980ffe8b86fdbec0494683f60e2984a10d367c6aa990ef15a807e8077",
+  "index_header": "17 Mayıs 2009 ... 27231 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
