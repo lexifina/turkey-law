@@ -1,0 +1,3 @@
+Çalışma birimleri ve görevleri
+MADDE 10 – (1) Merkez bünyesinde; çalışmaların daha iyi ve verimli şekilde yürütülmesine yardımcı olmak için çalışma birimleri oluşturulur. ÇB’lerde; Merkez Yönetim Kurulu üyelerinin yanı sıra sosyal pediatri, adli tıp, çocuk psikiyatrisinde görev yapan diğer öğretim elemanları ve araştırma görevlileri de görev alabilirler. Gerekli hallerde, Tıp Fakültesinin diğer anabilim dallarından Dekanlık tarafından belirlenmiş öğretim elemanları da çalışma biriminde görev alır. Ayrıca, Ebelik ve Hemşirelik Yüksek Okulu, Hukuk Fakültesi, Eğitim Bilimleri Fakültesi, Güzel Sanatlar Fakültesi ve çocuk gelişimi ile ilgili birimlerin öğretim üyelerinden de destek sağlanabilir.
+(2) ÇB’lerin çalışma yöntemlerine ilişkin esaslar Senato tarafından belirlenir.

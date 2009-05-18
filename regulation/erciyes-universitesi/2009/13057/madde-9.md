@@ -1,0 +1,6 @@
+Merkez yönetim kurulu ve görevleri
+MADDE 9 – (1) Merkez Yönetim Kurulu; Merkez Müdürü ve Dekanın önerisi ile Rektör tarafından görevlendirilen Tıp Fakültesi adli tıp, çocuk psikiyatrisi, çocuk sağlığı ve hastalıkları ve radyoloji anabilim dalından birer öğretim üyesi, bir psikolog ve bir sosyal hizmet uzmanından oluşur. Merkez Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi dolan üye tekrar görevlendirilebilir. Görevinden ayrılan üyenin yerine yeni üye görevlendirilerek ayrılan üyenin görev süresini tamamlar.
+(2) Merkez Müdürü Merkez Yönetim Kuruluna başkanlık eder. Merkez Yönetim Kurulu altı ayda bir Merkez Müdürünün çağrısı üzerine toplanır. Merkez Müdürü gerektiğinde Merkez Yönetim Kurulunu olağanüstü toplantıya çağırabilir. Merkez Yönetim Kurulu üye tam sayısının salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır. Eşitlik olması durumunda Merkez Müdürünün oyu yönünde çoğunluk sağlanmış sayılır.
+(3) Merkez Yönetim Kurulunun görevleri şunlardır:
+a) Merkez Müdürünün önerisi ile Merkezin amaçları doğrultusunda çalışma birimleri oluşturarak çalışma ve araştırma programlarını yapmak,
+b) Merkezde verilmekte olan hizmet ve araştırma çalışmalarının etik ve bilimsel kurallara ve ilgili mevzuata uygun olarak yürütülmesi için gerekli tedbirleri ve kararları almak.

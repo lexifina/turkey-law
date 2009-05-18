@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-05-18",
+      "18.05.2009",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27232",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2009-05-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Erciyes Üniversitesi",
+  "issuer_slug": "erciyes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/erciyes-universitesi/2009/13057",
+  "published": "2009-05-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13057&MevzuatTertip=5",
+  "source_bytes": 23234,
+  "source_id": "8.5.13057",
+  "source_sha256": "d89709715c711227cad0582c614418172f50273d2c3dd5c6ac39bf5855d23261",
+  "text_status": "as-enacted",
+  "title": "ERCİYES ÜNİVERSİTESİ ÇOCUK İHMALİ VE İSTİSMARINI ENGELLEMEUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 192,
+  "word_count": 1014
+}
