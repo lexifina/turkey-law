@@ -1,0 +1,3 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Müdür, müdür yardımcısı ve üç yıl için Rektör tarafından görevlendirilen, Üniversitede görev yapan arkeolog ve sanat tarihçisi öğretim elemanları ile arkeoloji, eskiçağ tarihi, latince ve eski hellence derslerini okutan tüm öğretim elemanlarından oluşur.
+(2) Danışma Kurulu toplantılarına Müdür başkanlık eder. Danışma Kurulu; Müdürün çağrısı üzerine yılda bir defa Ocak ayında olağan olarak, üye tam sayısının salt çoğunluğuyla toplanır ve kararlar oy çokluğuyla alınır. Oyların eşitliği halinde Müdürün oyu yönünde çoğunluk sağlanmış sayılır. Bu toplantılara geçerli bir mazereti olmadan iki defa katılmayanların üyelikleri düşer.
