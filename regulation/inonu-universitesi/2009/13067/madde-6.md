@@ -1,0 +1,23 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Öncelikle Türkiye’de üstün yetenekli çocuklara eğitim veren kurum ve kuruluşlarda, okul öncesi, ilk ve ortaöğretim kurumlarında görev yapan öğretmenlere üstün yeteneklilerin eğitimi konusunda düzenlenecek programlar kapsamında eğitim vermek,
+b) Türkiye ile diğer ülkeler arasında uluslararası düzeyde üstün yetenekli öğrenciler için bilim ve doğa kampları, yaz ve kış bilim okullarında etkinlikler, liderlik programları ve diğer toplantıları düzenlemek,
+c) Üstün yeteneklilik konusunda uzmanları bir araya getirip yılda veya iki yılda bir ulusal veya uluslararası katılımlı kongre, panel, seminer, çalıştay, konferans ve benzeri bilimsel faaliyetler düzenlemek; yurt içinden ve yurt dışından uzman bilim adamlarını davet etmek, üstün yeteneklilerin eğitimi ile ilgili uluslararası işbirliği yapmak ve uluslararası projelere katılmak,
+ç) Üstün yeteneklilerin eğitimlerine yönelik bilimsel nitelikteki çalışmaları yakından takip ederek bilimsel dergi ve haber bülteni çıkarmak,
+d) Eğitim Fakültesi bünyesinde ilgili bölüm ve anabilim dalının açılması ve geliştirilmesi hususundaki çalışmalara destek vermek,
+e) Türkiye’nin bilim politikasına katkıda bulunmak için ilgili kamu kurum ve kuruluşları başta olmak üzere üstün yetenekli öğrencilerle ilgili çalışmalar yürüten sivil toplum kuruluşları ile ortak çalışmalar, projeler planlamak ve uygulamak,
+f) Üstün yetenekli öğrencilerin, konusunda uzman üniversite öğretim elemanlarının üniversitelerde vermiş olduğu kurumsal ve uygulamalı derslere katılması için ortam hazırlamak ve yaz dönemlerinde üniversitelerde staj yapma fırsatı oluşturmak,
+g) Üniversitedeki akademisyenler ile ilgili eğitim kurumlarının, birlikte çalışacakları projeleri oluşturmak ve gerçekleştirmek,
+ğ) Üstün yetenekli öğrencilere yetenekleri doğrultusunda bilimsel çalışmalar yapmalarını sağlayacak imkanlar oluşturarak, özellikle disiplinler arası çalışmalardaki kazanımlarla sorunları çözmeye ya da ihtiyacı karşılamaya yönelik çeşitli projeler gerçekleştirmelerine fırsat hazırlamak ve sunmak,
+h) Sanat ve spor alanlarında üstün yetenekli öğrencilere yetenekleri doğrultusunda çalışma ortamları sunmak,
+ı) Üstün yetenekli öğrencilere uluslararası platformlarda kendilerini geliştirmelerine yardımcı olacak dil kursları düzenlemek,
+i) Üstün yetenekli öğrencilerin üretken ve sorun çözen bireyler olarak yetişmelerine imkan sağlamak üzere zenginleştirilmiş, farklılaştırılmış ve bireyselleştirilmiş eğitim programları düzenlemek,
+j) Üstün yetenekli öğrencilere yetenek alanlarının geliştirilmesinin yanında, sosyal ve duygusal gelişimlerini bir bütünlük içerisinde ele alacak ortamlar hazırlamak ve sunmak,
+k) Üstün yetenekli bireylere sahip aileleri destekleyici, güvenlerini artırıcı, çevre ile uyumlu, kendisi ile barışık olma bilinci kazandırmak ve bu ailelere psikolojik ve sosyolojik bakımdan destek olacak eğitim programları oluşturmak,
+l) Üstün yetenekli çocuklara özgü öğrenme modelleri geliştirerek bunları yayınlamak ve uygulanmasına katkıda bulunmak,
+m) Yurt içinde ve dışında eğitime alınmayan üstün yetenekli çocukların takibini yapmak ve onları eğitim kampları ve benzeri organizasyonlarla hayata hazırlamak,
+n) Üstün yeteneklileri, gerektiğinde burs ve kredi alabileceği kurum ve kuruluşlarla bir araya getirmek, yeteneklerine göre onlara bilimsel çalışma ortamı hazırlamak,
+o) Örgün eğitim dışında kalan üstün yetenekli bireylerin iş alanlarındaki ihtiyaca yönelik olarak teknik buluş ve araçlar geliştirebilmelerine imkan sağlamak ve bu konuda desteklemek,
+ö) Örgün eğitim içindeki ve dışındaki üstün yetenekli bireylerden maddi sıkıntısı olanlara imkanlar ölçüsünde burs ve/veya yardım temin etmek,
+p) Üstün yetenekli çocukların yeteneklerini tespit edici çalışmaları ve rehberlik faaliyetlerini desteklemek,
+r) Üstün yeteneklilerin tanılanmasına yönelik araç ve yöntemleri ile ilgili geliştirme, uygulama ve değerlendirme çalışmalarını koordine etmek ve desteklemek.
