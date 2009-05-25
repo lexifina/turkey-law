@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-05-25",
+  "issue": "27238",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ANA STATÜLER",
+  "title": "Türkiye Hentbol Federasyonu Ana Statüsünde Değişiklik Yapılmasına Dair Ana Statü",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090525-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090525.htm",
+  "index_sha256": "bee457d15facbc38952d3a4509f9c6cc1a499ffe9a336ce35fd4693a949b8abc",
+  "index_header": "25 Mayıs 2009 ... 27238 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
