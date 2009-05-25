@@ -1,0 +1,3 @@
+İdarî Yaptırımlar
+MADDE 10 – (1) Bu Yönetmeliğe aykırı hareket edenler hakkında Limanlar Kanununun ilgili maddesi çerçevesinde idarî yaptırım uygulanır.
+(2) Deniz ulaşımının güven içinde akışını sağlamak için konulmuş her türlü işareti değiştirerek, kullanılmaz hale getirerek, konuldukları yerlerden kaldırarak, yanlış işaretler vererek, kalkış, geçiş veya varış yolları üzerine bir şey koyarak ya da teknik işletim sistemine müdahele ederek, başkalarının hayatı, sağlığı veya mal varlığı bakımından bir tehlikeye neden olan kişiye 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 179 uncu maddesi uyarınca cezaî işlem yapılır.

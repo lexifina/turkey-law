@@ -1,0 +1,2 @@
+Arazilerin tespiti
+MADDE 13 – (1) Kıyıda kurulacak olan seyir yardımcılarının yerleri tespit edilirken bu alanların kamu arazisi olmasına dikkat edilir. Teknik nedenlerden dolayı şahıs veya özel kuruluşlara ait arazilerin kullanımı durumunda, kamulaştırma ihtiyaçları en az olacak şekilde çalışma yapılır. Seçilen arazinin askerî yasak bölge veya güvenlik bölgesi olması durumunda, Genelkurmay Başkanlığının olumlu görüşünün alınması zorunludur.
