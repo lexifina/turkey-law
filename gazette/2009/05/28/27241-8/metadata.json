@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-05-28",
+  "issue": "27241",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ANA STATÜ",
+  "title": "Türkiye Kürek Federasyonu Ana Statüsünde Değişiklik Yapılmasına Dair Ana Statü",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090528-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/05/20090528.htm",
+  "index_sha256": "152723047c4f9145b3a1545138050f6514c0b8eb23febabf4f3775f17a692e93",
+  "index_header": "28 Mayıs 2009 ... 27241 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
