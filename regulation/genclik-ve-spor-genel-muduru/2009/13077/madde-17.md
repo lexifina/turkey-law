@@ -1,0 +1,5 @@
+Diğer haklar
+MADDE 17 – (1) Devlet Sporcusu seçilenler VIP salonlarını kullanabilirler.
+(2) 5774 sayılı Kanun kapsamında Sporcu Şeref Aylığı bağlanan veya Devlet Sporcusu unvanı verilen sporculara müracaatları halinde 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 14/A maddesinde düzenlenen "Hususi Damgalı Pasaport" verilir.
+(3) 5774 sayılı Kanuna göre aylık bağlanan amatör sporcular, 24/2/1968 tarihli ve 1005 sayılı İstiklal Madalyası Verilmiş Bulunanlara Vatani Hizmet Tertibinden Şeref Aylığı Bağlanması Hakkında Kanunun 2 nci maddesinin birinci fıkrasında belirtilen; Devlet Demiryollarının yurt içi hatlarında, Denizyolları şehir hatlarında, belediyelere, belediyeler tarafından kurulan şirketlere ya da belediyeler tarafından yetki verilen özel şahıs veya şirketlere ait şehir içi toplu taşıma araçlarında ücretsiz olarak seyahat ederler.
+(4) 5774 sayılı Kanun gereğince aylık bağlanan amatör sporculardan, belediyelerce tahakkuk ettirilecek su ücreti %50’den az indirim içermemek üzere belediye meclisleri tarafından belirlenecek tarife üzerinden alınır.
