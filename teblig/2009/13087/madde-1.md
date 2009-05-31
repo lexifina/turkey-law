@@ -1,0 +1,2 @@
+Korunma önlemi
+MADDE 1 – (1) 8/5/2007 tarihli ve 26516 sayılı Resmî Gazete’de yayımlanan 2007/11993 sayılı Bakanlar Kurulu Kararı ile değişik 11/7/2006 tarihli ve 26225 sayılı Resmî Gazete’de yayımlanan 2006/10616 sayılı Bakanlar Kurulu Kararı çerçevesinde 8508.11.00.00.11 ve 8508.19.00.00.00 Gümrük Tarife İstatistik Pozisyonlu (GTİP) eşyanın ithalatında 3 (üç) yıl süre ile korunma önlemi olarak ek mali yükümlülük tahsil edilmeye başlanmıştır.
