@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-06-01",
+  "issue": "27245",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KARAR",
+  "title": "2009-2010 Av Dönemi Merkez Av Komisyonu Kararı (No: 8)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090601-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090601.htm",
+  "index_sha256": "0263ded057c68135f60452b55d14e9b9ffe8ae4777fc1528b9435d6ef1d574fa",
+  "index_header": "1 Haziran 2009 ... 27245 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
