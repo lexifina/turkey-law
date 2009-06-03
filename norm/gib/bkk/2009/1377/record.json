@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2009/15022",
+  "source_id": 1377,
+  "date": "2009-06-03",
+  "title": "KANUNİ VEYA İŞ MERKEZİ KANADA'DA OLUP ULUSLARARASI HAVA YOLU TAŞIMACILIĞI YAPAN DAR MÜKELLEF KURUMLARIN TÜRKİYE'DE ELDE ETTİKLERI HAVA TAŞIMACILIK KAZANÇLARININ VERGİLENDİRİLME ESASLARI HAKKINDAKİ KARAR",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/bkk/1377",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "7d32b1f8068e15bea6d1f188948bdca55d3d5410e80ba40da666c1270b7ffebf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
