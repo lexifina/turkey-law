@@ -1,0 +1,106 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 717640,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Gelir Vergisi Kanunu ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun Tasarısına İlişkin (1/692) (S. Sayısı: 385)",
+  "title": "Gelir Vergisi Kanunu ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun Tasarısına İlişkin (1/692) (S. Sayısı: 385)",
+  "first_sitting_date": "2009-06-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 46,
+      "sitting": 99,
+      "sitting_date": "2009-06-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c046/tbmm23046099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c046/tbmm23046fih.pdf",
+      "pages": [
+        "261:291",
+        "291:319"
+      ]
+    },
+    {
+      "cilt": 46,
+      "sitting": 101,
+      "sitting_date": "2009-06-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c046/tbmm23046101.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c046/tbmm23046fih.pdf",
+      "pages": [
+        "438:446",
+        "447:462",
+        "462:470",
+        "470:491",
+        "492:501"
+      ]
+    },
+    {
+      "cilt": 46,
+      "sitting": 102,
+      "sitting_date": "2009-06-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c046/tbmm23046102.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c046/tbmm23046fih.pdf",
+      "pages": [
+        "597:621",
+        "621:634",
+        "635:662",
+        "663:672",
+        "673:682"
+      ]
+    },
+    {
+      "cilt": 46,
+      "sitting": 103,
+      "sitting_date": "2009-06-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c046/tbmm23046103.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c046/tbmm23046fih.pdf",
+      "pages": [
+        "768:840"
+      ]
+    },
+    {
+      "cilt": 46,
+      "sitting": 104,
+      "sitting_date": "2009-06-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c046/tbmm23046104.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c046/tbmm23046fih.pdf",
+      "pages": [
+        "925:930",
+        "931:935",
+        "936:940",
+        "944:945",
+        "946:954",
+        "954:959",
+        "959:960"
+      ]
+    },
+    {
+      "cilt": 47,
+      "sitting": 105,
+      "sitting_date": "2009-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c047/tbmm23047105.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c047/tbmm23047fih.pdf",
+      "pages": [
+        "51:73",
+        "123:132"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=346&v_gelecek_sayfa=101&v_kullanici_id=27484607",
+  "source_sha256": "23eb079325f74df6eb7e88e07567e62ac0286a6d80e449aef12f23363713c0e2",
+  "in_force": "2009-06-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
