@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.13094",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2009/6)",
+  "number": "13094",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2009/13094",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13094&MevzuatTertip=5",
+  "source_sha256": "20c517aafa1d7d8202ada171865e0d4039af0ca920e76cfdeecbdc3180b1f6bf",
+  "source_bytes": 34009,
+  "published": "2009-06-04",
+  "gazette": "27248",
+  "in_force": "2009-06-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.06.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 972,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.dtm.gov.tr/"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
