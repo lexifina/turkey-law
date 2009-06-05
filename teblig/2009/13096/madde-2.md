@@ -1,0 +1,63 @@
+Başvuru konusu eşya
+MADDE 2 – (1) Başvuru konusu madde, 2501.00.31.00.00 gümrük tarife istatistik pozisyonlu (GTİP) diğer maddelerin imali için kimyasal değişimlere (CI 'den Na 'yı ayırmak gibi) mahsus olan tuz, 2501.00.51.00.00 GTİP’li denature veya sınaî amaçlara mahsus olan tuz, 2501.00.99.10.00 GTİP’li saf sodyum klorür, 2501.00.99.90.11 GTİP’li kaya tuzu, 2501.00.99.90.12 GTİP’li tuzla tuzu ve 2501.00.99.90.13 GTİP’li deniz tuzudur.
+(2) Ancak 2009 yılında yapılan değişiklikle 2501.00.99.90.11 GTİP’li kaya tuzu, 2501.00.99.90.12 GTİP’li tuzla tuzu ve 2501.00.99.90.13 GTİP’li deniz tuzu “2501.00.99.90.00 GTİP’li Diğerleri’’ adı altında tek GTİP olarak birleştirilmiştir.
+Başvuru
+MADDE 3 – (1) Yerli üreticiler tarafından, 1 inci maddede belirtilen korunma önleminin süresinin uzatılması talebiyle Dış Ticaret Müsteşarlığı (Müsteşarlık) İthalat Genel Müdürlüğü’ne (Genel Müdürlük) başvuruda bulunulmuştur. Söz konusu başvurunun gizli olmayan özetine Müsteşarlığın internet sitesi (http://www.dtm.gov.tr) “İthalat Ana Sayfası”nda yer alan “Gözetim ve Korunma Önlemleri ile Kota ve Tarife Kontenjanı İdaresine İlişkin Bilgiler” bağlantısından ulaşılabilmektedir.
+Ön inceleme
+MADDE 4 – (1) Başvuru konusu eşyanın ithalatı korunma önlemi uygulamasını takip eden yılda azalmış, sonraki yılda ise artış göstermiştir.
+(2) Başvuru konusu eşyanın ithalatında korunma önlemi uygulanan dönemde yerli üreticilerin ekonomik göstergelerinde olumsuz gelişmeler tespit edilmiştir.
+Karar
+MADDE 5 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, yapılan başvuruyla ilgili olarak 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği (Yönetmelik) hükümleri çerçevesinde başvuru konusu eşyanın ithalatında uygulanmakta olan korunma önleminin etkilerinin değerlendirilmesi ve söz konusu önlem uygulamasının devamının gerekli olup olmadığının incelenmesi amacıyla gözden geçirme soruşturması açılmasına karar vermiştir.
+Soruşturmanın yürütülmesi
+MADDE 6 – (1) Soruşturma, Yönetmeliğin ilgili hükümleri kapsamında Genel Müdürlük tarafından yürütülür. Soruşturma ile ilgili tüm yazışmalar aşağıda belirtilen yetkili merci ile yapılır.
+Başbakanlık Dış Ticaret Müsteşarlığı
+İthalat Genel Müdürlüğü
+Korunma Önlemleri Dairesi
+İnönü Bulvarı No: 36, 06510 Emek/ANKARA
+Tel: +90 312 204 77 20 Faks: +90 312 212 87 65
+İnternet sitesi: http://www.dtm.gov.tr
+İlgili taraflar
+MADDE 7 – (1) Ekte yer alan “İlgili Taraf Başvuru Formu”nu bu Tebliğ’in yayımı tarihinden itibaren 20 (yirmi) gün içinde doldurarak Genel Müdürlüğe gönderenler soruşturma kapsamında ilgili taraf olarak kabul edilirler.
+Görüşlerin sunulması ve bilgi verilmesi
+MADDE 8 – (1) “İlgili Taraf Başvuru Formu”nu doldurarak 7 nci maddede belirtilen süre içerisinde gönderenlere, 3 üncü maddede belirtilen bağlantıdan ve http://www.dtm.gov.tr/ dtmithgozetim/index.cfm adresinden ulaşılabilen “İlgili Taraf Soru Formu”na giriş yapabilecekleri kullanıcı adı ve şifre Genel Müdürlükçe bildirilir. Kullanıcı adı, “İlgili Taraf Başvuru Formu”nda beyan edilen e-posta adresi olarak belirlenir. İlgili tarafların, bildirilen kullanıcı adı ve şifreyi kullanarak “İlgili Taraf Soru Formu”nu elektronik ortamda bu Tebliğ’in yayımı tarihinden itibaren 30 (otuz) gün içinde doldurmaları gerekmektedir. “İlgili Taraf Soru Formu”nun doldurulmasıyla ilgili olarak Genel Müdürlük ile temas kurulması mümkün bulunmaktadır.
+(2) Müsteşarlık gerekli görmesi halinde ilgililerden ek bilgi ve belge isteyebilir.
+İlgili tarafların dinlenmesi
+MADDE 9 – (1) İlgili taraflar, varsa sözlü olarak dinlenme taleplerini de “İlgili Taraf Başvuru Formu”nda belirtmek suretiyle yetkili merciye iletir. Talep edilmesi halinde düzenlenecek olan dinleme toplantısının yapılacağı yer ve tarih ile soruşturmaya ilişkin diğer duyurular Müsteşarlığın internet sitesinde (3 üncü maddede belirtilen bağlantıda) ilan edilecektir.
+Gizlilik
+MADDE 10 – (1) Soruşturma sırasında ilgili taraflarca verilen bilgiler Yönetmeliğin 6 ncı maddesinde belirtilen hükümler çerçevesinde gizli olarak değerlendirilir.
+Bilgi verilmemesi veya hatalı bilgi verilmesi
+MADDE 11 – (1) Yönetmeliğin 4 üncü maddesi uyarınca, soruşturmanın herhangi bir aşamasında Genel Müdürlükçe istenen bilgilerin öngörülen süre içinde temin edilememesi ya da soruşturmanın engellendiğinin anlaşılması halinde soruşturma mevcut veriler üzerinden sonuçlandırılır. Genel Müdürlükçe ilgililer tarafından sağlanan bilgilerin yanlış olduğu tespit edildiği takdirde bu bilgiler dikkate alınmaz.
+Soruşturmanın süresi
+MADDE 12 – (1) Soruşturma Genel Müdürlükçe yürütülerek 9 (dokuz) ay içinde tamamlanır. Gerekli hallerde bu süre 2 (iki) ay uzatılabilir.
+Yürürlük
+MADDE 13 – (1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 14 – (1) Bu Tebliğ hükümlerini Dış Ticaret Müsteşarlığının bağlı olduğu Bakan yürütür.
+EK
+İLGİLİ TARAF BAŞVURU FORMU / APPLICATION FORM FOR THE INTERESTED PARTY
+Tarih / Date: ..../.../....
+T.C. BAŞBAKANLIK
+DIŞ TİCARET MÜSTEŞARLIĞINA
+(İthalat Genel Müdürlüğü)
+İnönü Bulvarı No: 36 06510 Emek ANKARA
+İthalatta Korunma Önlemlerine İlişkin 2009/5 sayılı Tebliğ ile başlatılmış olan korunma önlemi soruşturmasına ilgili taraf olarak kabul edilmek istiyoruz. Taraf olma gerekçemiz ve diğer gerekli bilgiler aşağıda verilmektedir. Bilgilerini ve gereğini arz ederiz. / We request to be accepted as an interested party to the safeguard investigation initiated with the Communiqué No 2009/5. Reason for being an interested party and other essential information are provided below.
+İmza - Kaşe / Signature - Cachet
+İsim - Unvan / Name - Title
+İLGİLİ TARAF İLE İLGİLİ BİLGİLER / INFORMATION ABOUT THE INTERESTED PARTY
+Ünvan / Title:
+Adres / Address:
+e-posta / e-mail*:
+Telefon / Telephone:
+Faks / Fax:
+İrtibat Kurulacak Kişinin İsmi veÜnvanı / Contact Person’s Name and Title:
+* E-POSTA ADRESİ, “İLGİLİ TARAF SORU FORMU”NA GİRİŞTE KULLANICI ADI OLARAK KULLANILACAKTIR. / E-MAIL ADDRESS SHALL BE THE USER NAME WHEN LOGGING IN TO “QUESTIONNAIRE FOR THE INTERESTED PARTIES”
+İştigal sahası / Field of activity (İşaretleyiniz/Please mark) | [ ] | Yerli Tuz Üreticisi / Domestic Salt Producer
+[ ] | Tuz İthalatçısı / Salt Importer
+[ ] | Tuz İhracatçısı / Foreign Salt Exporter
+[ ] | Diğer / Other (Açıklayınız / Please explain)
+Soruşturmaya ilgili taraf olma gerekçesini açıklayınız. / Please explain the reason for being an interested party to the investigation.
+Yapılacağı yer ve tarih Müsteşarlığın internet sitesinde (www.dtm.gov.tr) ilan edilecek olan tarafları dinleme toplantısı için lütfen aşağıdaki alanları doldurunuz. / Please mark for the hearing which will be held on the date and at the venue that will be announced on the web site of the Undersecretariat. (www.dtm.gov.tr)
+[ ] | Sadece dinleyici olarak iştirak edeceğiz. / We will attend the hearing in the observer status.
+[ ] | Toplantıda görüşlerimizi sunacağız. / We will present our views at the hearing.
+[ ] | Toplantıya katılmayacağız. / We will not attend the hearing.
+Toplantıya iştirak edecek kişilerin isim ve ünvanları aşağıda belirtilmektedir. / Names and titles of the participants are provided below.
