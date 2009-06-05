@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5900",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Slovenya Cumhuriyeti Hükümeti Arasında Sağlık ve Tıp Alanında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-06-05",
+  "gazette_issue": "27249",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090605-1.htm",
+  "source_sha256": "36d650b66856baa4223bd84b517fa962c70fce79cd771d3c9d39d7244cc58a29",
+  "text_sha256": "66e2cbaee5a732ffe88c8d842ea3e635ced20f97f44164f939f6e670e6e2df1b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/06/05/27249-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090605-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
