@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-06-05",
+  "issue": "27249",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "GENELGE",
+  "title": "Başbakan ve Bakanların Karşılanma ve Uğurlanmaları ile İlgili 2009/10 Sayılı Başbakanlık Genelgesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090605-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090605.htm",
+  "index_sha256": "7fae8dd12e4e0a24f6b1996a10929e95c1bf440fbaae583c37e648ff544fe51e",
+  "index_header": "5 Haziran 2009 ... 27249 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
