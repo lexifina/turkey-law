@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-06-07",
+  "issue": "27251",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "İşkolu Tespit Kararı (No: 2009/26)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090607-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090607.htm",
+  "index_sha256": "141496eb6cd1a5e212377986e39ff6b8d350c4800bcce6cccb5bd6fee9b46df9",
+  "index_header": "7 Haziran 2009 ... 27251 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
