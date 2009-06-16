@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-06-16",
+  "issue": "27260",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Sınır Ticaretinin Uygulanmasına İlişkin Tebliğ (İhracat: 2009/7)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090616-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090616.htm",
+  "index_sha256": "f262fe1f66c1ec7aa6a952b4c9f29be81a768a29546d14d9cc0f5432e65bb836",
+  "index_header": "16 Haziran 2009 ... 27260 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
