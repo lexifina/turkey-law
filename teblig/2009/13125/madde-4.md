@@ -1,0 +1,2 @@
+Karar
+MADDE 4 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, yapılan başvuruyla ilgili olarak 8/6/2004 tarihli ve 25486 sayılı Resmi Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği (Yönetmelik) hükümleri çerçevesinde başvuru konusu eşyanın ithalatında uygulanmakta olan korunma önleminin etkilerinin değerlendirilmesi ve söz konusu önlem uygulamasının devamının gerekli olup olmadığının incelenmesi amacıyla gözden geçirme soruşturması açılmasına karar vermiştir.
