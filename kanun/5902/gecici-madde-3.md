@@ -1,0 +1,3 @@
+Uzmanlık kadrosuna geçiş
+GEÇİCİ MADDE 3 – (1) Bu Kanunun yayımı tarihinde; en az dört yıllık yükseköğretim kurumlarından veya bunlara denkliği kabul edilen yurt dışındaki yükseköğretim kurumlarından
+mezun olmaları şartıyla, Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü, Sivil Savunma Genel Müdürlüğü ve Afet İşleri Genel Müdürlüğünde en az üç yıl görev yapan memurlar ile kurumların sivil savunma uzmanı kadrolarında fiilen çalışanlar, Başkanlığın faaliyete geçtiği tarihten itibaren bir yıl içerisinde Başkanlıkça bir defaya mahsus olmak üzere yapılacak yazılı ve mülakat sınavı ortalama başarı sırasına göre, Afet ve Acil Durum Yönetimi Uzmanlığı kadrolarına atanabilir. Ancak bu şekilde atanacakların sayısı, toplam uzman kadro sayısının yüzde ellisini geçemez.
