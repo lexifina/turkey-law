@@ -1,6 +1,6 @@
 Yürütme
 MADDE 83 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-(I) SAYILI CETVEL (1)(2)
+(I) SAYILI CETVEL (1)(2)(3)
 (Değişik: 22/12/2005-5436/12 md.)
 GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 1) Türkiye Büyük Millet Meclisi
@@ -41,23 +41,25 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 36) Devlet Personel Başkanlığı
 37) Özürlüler İdaresi Başkanlığı
 38) Türkiye İstatistik Kurumu
-39) Gelir İdaresi Başkanlığı
-40) Devlet Su İşleri Genel Müdürlüğü
-41) Karayolları Genel Müdürlüğü
-42) Tapu ve Kadastro Genel Müdürlüğü
-43) Devlet Meteoroloji İşleri Genel Müdürlüğü
-44) Tarım Reformu Genel Müdürlüğü
+39) Afet ve Acil Durum Yönetimi Başkanlığı (3)
+40) Gelir İdaresi Başkanlığı
+41) Devlet Su İşleri Genel Müdürlüğü
+42) Karayolları Genel Müdürlüğü
+43) Tapu ve Kadastro Genel Müdürlüğü
+44) Devlet Meteoroloji İşleri Genel Müdürlüğü
+45) Tarım Reformu Genel Müdürlüğü
 (…) (1)
-45) Petrol İşleri Genel Müdürlüğü
-46) Basın-Yayın ve Enformasyon Genel Müdürlüğü
-47) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü
-48) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü
-49) Aile ve Sosyal Araştırmalar Genel Müdürlüğü
-50) Kadının Statüsü Genel Müdürlüğü
+46) Petrol İşleri Genel Müdürlüğü
+47) Basın-Yayın ve Enformasyon Genel Müdürlüğü
+48) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü
+49) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü
+50) Aile ve Sosyal Araştırmalar Genel Müdürlüğü
+51) Kadının Statüsü Genel Müdürlüğü
 (…) (2)
 ––––––––––––––
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “45) Orman Genel Müdürlüğü” sırası çıkarılmış ve cetvelin sıra numaraları teselsül ettirilmiştir.
 (2) 16/5/2006 tarihli ve 5502 sayılı Kanunun 42 nci maddesiyle, bu cetvelde yer alan "52-Sosyal Güvenlik Kurumu Başkanlığı" ibaresi çıkarılmıştır.
+(3) 29/5/2009 tarihli ve 5902 sayılı Kanunun 25 inci maddesiyle, bu cetvelde yer alan “38 – Türkiye İstatistik Kurumu” ibaresinden sonra gelmek üzere “39 – Afet ve Acil Durum Yönetimi Başkanlığı” ibaresi eklenmiş ve “39” rakamından sonra gelen diğer rakamlar buna göre teselsül ettirilmiştir.
 (II) SAYILI CETVEL
 (Değişik: 22/12/2005-5436/12 md.)
 ÖZEL BÜTÇELİ İDARELER
