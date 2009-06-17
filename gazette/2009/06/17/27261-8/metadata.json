@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-06-17",
+  "issue": "27261",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Korunma Önlemlerine İlişkin Tebliğ (No: 2009/8)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090617-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090617.htm",
+  "index_sha256": "806a403d2dca0e08c705d503d550fdd315a45fdce4112e80cf7be3c26042a7fb",
+  "index_header": "17 Haziran 2009 ... 27261 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
