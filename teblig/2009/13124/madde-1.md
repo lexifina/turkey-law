@@ -1,0 +1,2 @@
+Korunma önlemi
+MADDE 1 – (1) 11/7/2006 tarihli ve 26225 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemi Uygulanmasına İlişkin 2006/10614 sayılı Bakanlar Kurulu Kararı gereğince 5402.31 gümrük tarife pozisyonlu naylon veya diğer poliamidlerden tek katının her biri 50 teksi geçmeyen tekstürize ipliklerin İran İslam Cumhuriyeti menşeli olanlarının ithalatında 3 (üç) yıl süre ile korunma önlemi olarak ek mali yükümlülük tahsil edilmeye başlanmıştır.

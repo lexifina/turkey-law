@@ -1,0 +1,2 @@
+Başvuru
+MADDE 2 – (1) Yerli üreticiler tarafından, 1 inci maddede belirtilen korunma önleminin süresinin uzatılması talebiyle Dış Ticaret Müsteşarlığı (Müsteşarlık) İthalat Genel Müdürlüğü’ne (Genel Müdürlük) başvuruda bulunulmuştur. Söz konusu başvurunun gizli olmayan özetine Müsteşarlığın internet sitesi (http://www.dtm.gov.tr) “İthalat Ana Sayfası”nda yer alan “Gözetim ve Korunma Önlemleri ile Kota ve Tarife Kontenjanı İdaresine İlişkin Bilgiler” bağlantısından ulaşılabilmektedir.
