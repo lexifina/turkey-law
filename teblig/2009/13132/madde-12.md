@@ -1,0 +1,2 @@
+Esas soruşturmada tespit edilen damping marjları
+MADDE 12 – (1) Esas soruşturma esnasında tespit edilen damping marjları, firmaların önlemin yürürlükten kalkması halindeki muhtemel davranışlarını yansıtacak önemli bir gösterge niteliği taşıdığından dikkate alınmıştır. Buna göre, esas soruşturma sırasında Malezya’da yerleşik üretici-ihracatçı firmalar için tespit edilen damping marjları %14,83 ila %23,69 arasında değişmekte olup önemli düzeydedir.

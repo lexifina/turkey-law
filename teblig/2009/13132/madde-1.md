@@ -1,0 +1,6 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Mevcut önlem ve soruşturma
+MADDE 1 – (1) 29/1/2004 tarih ve 25361 sayılı Resmî Gazete'de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2004/1 sayılı Tebliğ ile 4007.00 gümrük tarife pozisyonu altında yer alan Malezya menşeli “vulkanize edilmiş kauçuk iplikler” için %11,6 ila %16,9 arasında değişen oranlarda dampinge karşı önlem yürürlüğe konulmuştur.
+(2) Uygulanmakta olan önlemin yürürlükten kalkma süresinin bitiminden önce, 14/6/2008 tarih ve 26906 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2008/19 sayılı Tebliğ ile bahse konu önleme yönelik olarak nihai gözden geçirme soruşturması açılması talebinde bulunulabileceği ilan edilmiştir.
+(3) Yerli üretici Elpa Elastiki İplikler Sanayi ve İhracat A.Ş. tarafından dampinge karşı önlemin sona ermesinin damping ve zararın devamına veya tekrarına yol açacağı iddiasıyla yapılan ve Şahin Lateks Sanayi ve Ticaret A.Ş., ve Gülüm Lastik Sanayi ve Dış Ticaret Ltd. Şti firmaları tarafından da desteklenen başvuru üzerine, 31/12/2008 tarih ve 27097 sayılı 4 üncü Mükerrer Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2008/42 sayılı Tebliğ ile başlatılan nihai gözden geçirme soruşturması, Dış Ticaret Müsteşarlığı (Müsteşarlık) İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanmıştır.
