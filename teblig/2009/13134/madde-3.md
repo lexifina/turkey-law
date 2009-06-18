@@ -1,0 +1,5 @@
+Bilgilerin toplanması ve değerlendirilmesi
+MADDE 3 – (1) Soruşturma açılışının akabinde Müsteşarlık tarafından ticaret unvanları ve adresleri bilinen soruşturmaya konu ülkelerde yerleşik üretici/ihracatçılara soru formları gönderilmiştir. Diğer taraftan, ticaret unvanları ve adresleri bilinmeyen üreticilere soru formlarının iletilebilmesini teminen soru formunun, başvurunun gizli olmayan özetinin ve 2008/26 sayılı Tebliğ’in örnekleri soruşturma açılışına ilişkin bildirimlerle birlikte ilgili ülkelerin Ankara Büyükelçiliklerine iletilmiştir.
+(2) Taraflara soru formunu yanıtlamaları için posta süresi dahil 37 gün süre tanınmış olup, tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(3) Başvuru sahibi yerli üreticiler, soruşturmanın başlangıcından itibaren Müsteşarlığımız ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir.
+(4) Öte yandan, soruşturmaya konu maddelerin Müsteşarlıkça tespit edilen ithalatçılarına da soru formları gönderilerek işbirliğine davet edilmiştir.
