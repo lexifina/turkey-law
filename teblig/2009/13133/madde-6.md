@@ -1,0 +1,2 @@
+Soru formları ve bilgilerin toplanması
+MADDE 6 – (1) Soruşturma için gerekli bilgilerin temini amacıyla, söz konusu maddenin bilinen ithalatçılarına ve Recron firmasına soru formları ile soruşturma açılışına ilişkin bildirimler gönderilecektir. Bildirim almayan veya bildirim eline ulaşmayan bahse konu tarafların soru formu ile eklerini 9 uncu maddede belirtilen Müsteşarlığın web sayfasındaki soruşturma ile ilgili bölümden almaları/indirmeleri mümkün bulunmaktadır.

@@ -1,0 +1,2 @@
+Uygulama ve süre
+MADDE 11 – (1) Soruşturmanın tamamlanarak kesin kararın Resmî Gazete’de yayımlanmasına kadar, Gümrük İdarelerince, Recron firmasından gerçekleştirilecek bahse konu madde ithalatında 2008/25 sayılı İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğin “Karar” matlaplı 23 üncü maddesinde Malezya menşeli ürün için gösterilen CIF bedelin %15,93’ü düzeyindeki meri önlem kadar teminat alınacaktır.

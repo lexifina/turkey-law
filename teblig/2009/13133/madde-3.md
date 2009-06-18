@@ -1,0 +1,2 @@
+Mevcut önlemler
+MADDE 3 – (1) Malezya menşeli bahse konu madde için ilk kez 13/2/2002 tarih ve 24670 sayılı Resmî Gazete'de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2002/2 sayılı Tebliğ ile CIF değerin %3,23 ile %15,93’ü arasında değişen oranlarda alınan dampinge karşı önlemler, 1/8/2008 tarihli ve 26954 sayılı Resmî Gazete’de yayımlanan 2008/25 sayılı Tebliğ ile değiştirilmiş ve Malezya’da yerleşik tüm üretici/ihracatçılar için CIF değerin %15,93’ü olarak karara bağlanmıştır.

@@ -1,0 +1,4 @@
+Süreler
+MADDE 7 – (1) Soru formunu cevaplandırma süresi, soruşturma açılışına ilişkin bildirimin gönderildiği tarihten itibaren posta süresi dahil 37 gündür.
+(2) Soru formunda talep edilen bilgi ve belgelerin haricinde soruşturmayla ilgili olduğu düşünülen diğer bilgi, belge ve görüşlerin dikkate alınabilmesi için; söz konusu bilgi, belge ve görüşlerin, bu Tebliğ’in yayımı tarihinden itibaren en geç 37 gün içinde İthalat Genel Müdürlüğü’ne yazılı olarak ulaştırılması gerekmektedir.
+(3) Soruşturmanın sonucundan etkilenebileceklerini iddia eden, ancak bu Tebliğ’in 6 ncı maddesi kapsamına girmeyen diğer ilgili tarafların da (ürünü girdi olarak kullanan işletmeler, bunların meslek kuruluşları, tüketici dernekleri, üretim dalındaki işçi veya işveren sendikaları, vb.) soruşturma kapsamındaki görüşlerini bu Tebliğ’in yayımı tarihinden itibaren 37 gün içinde yazılı olarak İthalat Genel Müdürlüğü’ne bildirmeleri gerekmektedir.
