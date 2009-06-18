@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5911",
+  "year": 2009,
+  "title": "Gümrük Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2009-06-18",
+  "adopted_as_published": "18/06/2009",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.07.2009 No: 27281",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc093/kanuntbmmc093/kanuntbmmc09305911.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 93",
+  "committee_reports": [
+    {
+      "label": "TBMM 324 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c047/tbmm23047107ss0324.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 708736,
+      "title": "Gümrük Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "18/06/2009",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc093/kanuntbmmc093/kanuntbmmc09305911.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 324 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c047/tbmm23047107ss0324.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 47,
+          "sitting": 107,
+          "sitting_date": "2009-06-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c047/tbmm23047107.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c047/tbmm23047fih.pdf",
+          "pages": [
+            "366:419",
+            "420:429"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=548&v_gelecek_sayfa=201&v_kullanici_id=27483202",
+      "page_sha256": "49eecd887f3141b32ad3086ae1167bf4c8016f4a09ec748496d4beadfea50db9"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "49eecd887f3141b32ad3086ae1167bf4c8016f4a09ec748496d4beadfea50db9",
+  "issuer": "TBMM",
+  "in_force": "2009-06-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 18/06/2009; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
