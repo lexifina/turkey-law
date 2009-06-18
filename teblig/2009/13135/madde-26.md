@@ -1,0 +1,3 @@
+Diğer unsurların etkisi
+MADDE 26 – (1) Yönetmelik’in 17 nci maddesi hükümleri uyarınca, soruşturma konusu ülke menşeli dampingli ithalattaki gelişim ile söz konusu ithalatın fiyatlarının yerli üretim dalı üzerindeki etkisinin yanı sıra yerli üretim dalında zarara yol açabilecek diğer olası unsurlar da incelenmiştir.
+(2) Hammadde ve enerji fiyatlarında yaşanan artışlar yalnızca Türkiye piyasasını değil tüm küresel piyasaları etkilemiştir. Ayrıca, yerli üretim dalı için soruşturma konusu ürünün hammaddelerine erişimin önünde herhangi bir engel bulunmamaktadır. Bu sebeple yerli üreticiler ile soruşturmaya konu ülkelerde mukim üreticilerin kimi farklılıklar haricinde (navlun vb) aynı fiyat düzeyinden hammadde temini mümkün bulunmaktadır.

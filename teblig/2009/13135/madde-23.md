@@ -1,0 +1,4 @@
+Yerli üretim dalının ekonomik göstergelerinin değerlendirilmesi
+MADDE 23 – (1) Yerli üretim dalının özellikle ÇHC’den yapılan soruşturma konusu dampingli eşya ithalatının büyük ölçüde artış gösterdiği 2007–SD dönemindeki ekonomik göstergeleri incelendiğinde yurtiçi satışları, yurtiçi birim fiyatları, yurtiçi satış içindeki kârlılık, maliyet, KKO başta olmak üzere ekonomik göstergelerin tamamında olumsuzluklar bulunmaktadır.
+(2) Yerli üretim dalının stoklarında yaşanan azalma ise ihracat performansındaki gelişme ve üretimin kısılmasından kaynaklanmaktadır.
+(3) Yerli üretim dalının ekonomik göstergeleri, iç pazar ihtiyacının tamamını karşılama kapasitesine sahip olan yerli üretim dalının mevcut şartlarda ithalat artış eğilimi giderek yükselen ÇHC menşeli dampingli ithalat ile rekabet edemediğini ortaya koymaktadır.

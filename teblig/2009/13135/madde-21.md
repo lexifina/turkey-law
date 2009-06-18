@@ -1,0 +1,5 @@
+Fiyat baskısı ve kırılması
+MADDE 21 – (1) Fiyat baskısı, dampingli ithal fiyatlarının Türkiye piyasasında yerli üretim dalının olması gereken satış fiyatının yüzde olarak ne kadar altında kaldığını göstermektedir.
+(2) Fiyat baskısı analizinde, soruşturma konusu ülkenin SD’deki ağırlıklı ortalama CIF ihraç fiyatına gümrük vergisi ve masrafları eklenerek bulunan Türkiye piyasasına giriş fiyatları, yerli üretim dalının üretim maliyetine makul oranda kâr marjı eklenmek suretiyle tespit edilen olması gereken satış fiyatı (hedef fiyat) ile karşılaştırılmış ve dampingli ithalatın fiyatının yerli üretim dalının olması gereken fiyatını önemli ölçüde baskı altına aldığı tespit edilmiştir.
+(3) Fiyat kırılması, ithal ürün fiyatlarının Türkiye piyasasında yerli üreticinin yurt içi satış fiyatlarının yüzde olarak ne kadar altında kaldığını göstermektedir.
+(4) Fiyat kırılması hesaplanırken, CIF ithal fiyatlarının üzerine gümrük vergisi ve diğer ithal masrafları ilave edilerek, soruşturma konusu eşyanın ithal maliyeti yerli üretim dalının yurtiçi satış fiyatları ile karşılaştırılmıştır. Yapılan incelemede, önemli ölçüde fiyat kırılması tespit edilmiştir.

@@ -1,0 +1,3 @@
+Maddenin üçüncü ülkelerden ithalatı
+MADDE 18 – (1) Maddenin üçüncü ülkelerden ithalatı, 2005 yılı ile SD arasında miktar bazında % 63 oranında, değer bazında ise % 44 oranında gerilemiştir. Aynı dönemde üçüncü ülkelerin genel ithalat içindeki payı miktar bazında % 100’den, % 6’ya; değer bazında ise % 100’den, % 11’e gerilemiştir.
+(2) Maddenin üçüncü ülkelerden ithalatının ortalama birim fiyatları incelendiğinde eşya birim fiyatlardaki sürekli yükseliş eğilim dikkat çekmektedir. 2005 yılında 25,6 ABD Doları/Kg olan ortalama ithal birim fiyatı 2006 yılında 28 ABD Doları/Kg’a; 2007 yılında 31,8 ABD Doları/Kg’a ve SD’de 38,8 ABD Doları/Kg yükselmiştir.

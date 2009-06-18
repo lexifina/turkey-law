@@ -1,0 +1,6 @@
+Bilgilerin toplanması ve değerlendirilmesi
+MADDE 4 – (1) Soruşturma açılmasını müteakip, şikayet konusu eşyanın Müsteşarlıkça ticaret unvanı ve iletişim adresleri tespit edilen yerli üreticilerine, ithalatçılarına, ÇHC ve Hong Kong’da yerleşik üretici/ihracatçılarına ve anılan ülke–bölgede yerleşik diğer ihracatçılara iletilebilmesini teminen ÇHC Ankara Büyükelçiliği ile Hong Kong Özel İdaresine ve talep üzere söz konusu idarenin Brüksel Temsilciliğine soru formları gönderilmiştir. Tarafların soru formunu yanıtlamaları için posta süresi dahil 37 gün süre tanınmıştır. Tarafların süre uzatımı yönündeki makul talepleri ise karşılanmıştır.
+(2) Yerli üretim dalını temsilen anılan yerli üretici, soru formuna usulüne uygun şekilde yanıt vermiştir. Ayrıca, mezkur firma soruşturma süresi boyunca Müsteşarlık ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir.
+(3) “Üretici/ihracatçı soru formu”na ÇHC’de yerleşik firmalardan herhangi bir cevap alınmamış olup, sadece merkezi Hong Kong’da bulunan Frameway Seiko Co., Ltd. ticari unvanlı firma tarafından cevap verilmiştir.
+(4) Soru formuna usulüne uygun olarak süresi içerisinde cevap vermeyen firmaların işbirliğinde olmadığı kabul edilmiştir.
+(5) İlgili taraflara nihai bildirimler gönderilmiş ve görüşlerine sunulmuştur ancak herhangi bir görüş ya da itiraz alınmamıştır.

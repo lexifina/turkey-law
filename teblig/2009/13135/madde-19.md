@@ -1,0 +1,5 @@
+Dampingli ithalatın tüketime göre artışı
+MADDE 19 – (1) Türkiye toplam benzer mal tüketimi ve pazar payları hesaplanırken tek yerli üretici konumundaki AFS Bıçak ve Kalıp San. Dış. Tic. Ltd. Şti’nin verileri esas alınmıştır.
+(2) Yurtiçi tüketim endeks olarak 2005 yılında 100 iken 2006 yılında 235, 2007 yılında 216 ve SD 217 olarak gerçekleşmiştir.
+(3) 2005–SD’de soruşturma konusu ürünün yurtiçi pazarının büyüme eğilimi içerisinde olduğu ve düşük birim fiyatlı ÇHC menşeli eşyanın yurtiçi pazar payının yerli üretim dalı ile üçüncü ülkeler aleyhine genişlediği görülmektedir. Düşük birim fiyatlı ÇHC menşeli soruşturma konusu eşyanın pazar payı endeks olarak 2006 yılında 100 iken 2007 yılında 264 ve SD 313 olmuştur.
+(4) Yerli üretim dalının pazar payı ise endeks olarak 2005 yılında 100 iken 2006 yılında 217 seviyesine yükselmiş, 2007 yılında 2005 yılı seviyesine düşmüş ve SD ise 79 seviyesine gerilemiştir. Üçüncü ülkeler menşeli ithalatın pazar payı ise 2005 yılında endeks olarak 100 iken 2006 yılında 102 seviyesine yükselmiş, 2007 yılında 65 seviyesine ve SD’de 37 seviyesine gerilemiştir.

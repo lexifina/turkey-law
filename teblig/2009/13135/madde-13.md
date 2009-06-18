@@ -1,0 +1,3 @@
+Fiyat karşılaştırması
+MADDE 13 – (1) Yönetmeliğin 10 uncu maddesi hükmü gereğince, adil bir karşılaştırmanın yapılabilmesini teminen, normal değer ile ihraç fiyatı fabrika çıkış aşamasına getirilerek aynı ticari aşamada karşılaştırılmıştır.
+(2) ÇHC menşeli soruşturma konusu eşyayı Türkiye’ye ihraç eden Hong Kong merkezli Frameway Seiko Co., Ltd firması için normal değer ile ihraç fiyatını aynı ticari aşamaya getirmek ve bu suretle adil bir karşılaştırma yapabilmek amacıyla ihraç işlemleriyle ilgili olarak firma tarafından ileri sürülen ve fiyat karşılaştırmasını etkileyen taşıma, paketleme, sigorta, ödeme koşulları, indirim, geri ödeme, banka masrafları vb. gibi hususlardan belgelendirilen, uygulanabilir ve haklı görülenler için ayarlamalar yapılmıştır.

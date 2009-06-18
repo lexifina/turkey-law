@@ -1,0 +1,10 @@
+DÖRDÜNCÜ BÖLÜM
+Dampingli İthalat ile Zarar Arasındaki Nedensellik Bağı
+Dampingli ithalatın etkisi
+MADDE 24 – (1) Yönetmelik’in 17’nci maddesi hükümleri gereğince, soruşturma konusu dampingli ithalatın miktarı ve fiyatlarının yerli üretim dalı üzerindeki etkisinin yanı sıra zarara yol açabilecek diğer unsurlar da incelenmiştir.
+(2) Yerli üretim dalının ekonomik göstergelerinde özellikle dampingli ithalatın hızlı artış gösterdiği 2007–SD arasında ciddi bozulmalar yaşanmıştır.
+(3) ÇHC menşeli dampingli ithalatın, toplam ithalat içerisindeki payı 2005–SD arasında yerli üretim dalı ve üçüncü ülkeler aleyhine önemli oranda artış göstermiştir. Aynı dönemde, pazardaki büyümeye rağmen yerli sanayinin iç piyasa satışlarının mutlak ve nispi olarak gerilediği, yerli sanayinin büyüyen pazardan yararlanamadığı ve bunun sonucu olarak yerli üretimin pazar payının önemli oranda azaldığı, bu pazar payının ise tamamen ÇHC menşeli soruşturma konusu eşya tarafından ele geçirildiği tespit edilmiştir.
+(4) Yerli üretim dalının satış fiyatları, dampingli ithalattan kaynaklanan fiyat baskısı nedeniyle ticari maliyetlerinin altında kalmıştır. Hesaplamalarda fiyat baskısının önemli oranlarda olduğu görülmüştür.
+(5) Yerli üretim dalı fiyatlarının oldukça altındaki dampingli fiyatlarla artan soruşturmaya konu ithalata paralel olarak yerli üretim dalının üretim, yurtiçi satış, pazar payı, kapasite kullanım oranı gibi hemen tüm ekonomik göstergelerinde bozulmalar olduğu tespit edilmiştir.
+(6) Soruşturma sürecinde elde edilen bilgi, belge ve bulgular ile ithalata ilişkin resmi istatistikler esas alınarak yapılan tespitler ışığında, soruşturmaya konu dampingli ithalatın yerli üretim dalının ekonomik göstergelerinde olumsuzluklara yol açtığı değerlendirilmektedir.
+(7) Dampingli ithalatın fiyatlarının yerli üretim dalının fiyatlarını kırması ve baskı altında tutmasıyla yerli üretim dalında görülen olumsuz gelişmelerin eş zamanlı olarak ortaya çıkması nedeniyle dampingli ithalat ile yerli üretim dalı üzerinde oluşan zarar arasında illiyet bağı olduğu sonucuna varılmıştır.
