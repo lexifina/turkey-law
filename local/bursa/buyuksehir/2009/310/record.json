@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "310",
+  "decision_date": "2009-06-18",
+  "title": "Yıldırım Belediye Meclisi nin, 03.06.2009 tarih ve 2009 147 Esas, 285 sayılı Ödenek Aktarımı hakkındaki Meclis Kararı.",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/5568_MEC2009-8_310.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=2009",
+  "listing_sha256": "9e466cfcb5b4c93a110f060594b528e3637232089429974371da83aec4acab80",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
