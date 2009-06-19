@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-06-19",
+      "19.06.2009",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27263",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2009-06-19",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Afyon Kocatepe Üniversitesi",
+  "issuer_slug": "afyon-kocatepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/afyon-kocatepe-universitesi/2009/13139",
+  "published": "2009-06-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13139&MevzuatTertip=5",
+  "source_bytes": 23031,
+  "source_id": "8.5.13139",
+  "source_sha256": "ab9c027e5f382aa18d1456388d63fb778b0ccb5af68bce90ace860e780dcd35a",
+  "text_status": "as-enacted",
+  "title": "AFYON KOCATEPE ÜNİVERSİTESİ GÜNEŞ VE RÜZGÂR ENERJİSİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 177,
+  "word_count": 975
+}
