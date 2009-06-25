@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.13159",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MÜŞTERİLERDEN VARLIK TRANSFERLERİNE İLİŞKİN TÜRKİYE FİNANSAL RAPORLAMA STANDARDI YORUMU (TFRS YORUM 18) HAKKINDA TEBLİĞ SIRA NO: 153",
+  "number": "13159",
+  "issuer": "Türkiye Muhasebe Standartları Kurulu",
+  "path": "teblig/2009/13159",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13159&MevzuatTertip=5",
+  "source_sha256": "97b573f7611054657c60621ffaa726827e17b140aeddbfe38c41a124525127e2",
+  "source_bytes": 28815,
+  "published": "2009-06-25",
+  "gazette": "27269",
+  "in_force": "2009-06-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.06.2009); own commencement article: \"Bu Tebliğ ve bu Tebliğin 1 no’lu ekinde yer alan TFRS Yorum 18, 30/6/2009 tarihinden sonra başlayan hesap dönemlerinde varlık transfer edilen işletmelerce uygulanmak üzere yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ ve bu Tebliğin 1 no’lu ekinde yer alan TFRS Yorum 18, 30/6/2009 tarihinden sonra başlayan hesap dönemlerinde varlık transfer edilen işletmelerce uygulanmak üzere yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1455,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
