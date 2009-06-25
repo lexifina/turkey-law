@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.13157",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 391)",
+  "number": "13157",
+  "path": "teblig/2009/13157",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13157&MevzuatTertip=5",
+  "source_sha256": "0b7e8abbcabbae38f9a8201f107c39cdbe2472ff6e87208bb6dd9fc1218f2304",
+  "source_bytes": 15723,
+  "published": "2009-06-25",
+  "gazette": "27269",
+  "in_force": "2009-06-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.06.2009)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 628,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
