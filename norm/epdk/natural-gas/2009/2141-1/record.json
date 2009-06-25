@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2141/1",
+  "decision_date": "2009-06-25",
+  "title": "18/04/2009 tarih ve 27204 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 09/04/2009 tarih ve 2052 sayılı Kurul Kararı değişikliği",
+  "resmi_gazete_date": "2009-06-30",
+  "resmi_gazete_number": "27274",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vamWJep7xcQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vamWJep7xcQ="
+  ],
+  "source_sha256": "53b334ccd33e8f7b521d7609ab092e4895c17ee3223101cde7534a8149d9c5ea",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-06-25",
+  "law_text_complete": false
+}
