@@ -1,0 +1,5 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Mevcut önlem ve soruşturma
+MADDE 1 – (1) 6/2/2003 tarihli ve 25016 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2003/2 sayılı Tebliğ ile Amerika Birleşik Devletleri (ABD), Almanya, İtalya ve Romanya dahil on ülke menşeli 3904.10.00.00.19 gümrük tarife istatistik pozisyonu (GTİP) altında yer alan “yalnız süspansiyon tipi polivinil klorür (PVC-S)” için yürürlüğe giren 25-45 ABD Doları/Ton dampinge karşı vergi 1/2/2008 tarihinde söz konusu ülkeler hariç yürürlükten kaldırılmıştır.
+(2) Dampinge karşı önlemlerin sona ermesinin damping ve zararın devamına veya yeniden meydana gelmesine neden olacağı gerekçesiyle Petkim Petrokimya Holding A.Ş. firması tarafından yapılan başvuru üzerine 1/2/2008 tarihli ve 26774 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2008/7 sayılı Tebliğ ile ABD, Almanya, İtalya ve Romanya menşeli önleme konu ürün için başlatılan nihai gözden geçirme soruşturması, Dış Ticaret Müsteşarlığı (Müsteşarlık) İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülerek tamamlanmıştır.

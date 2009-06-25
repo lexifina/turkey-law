@@ -1,0 +1,2 @@
+Gözden geçirme dönemi
+MADDE 6 – (1) Önlemin yürürlükten kalkması durumunda, dampingin ve zararın devamı veya yeniden meydana gelmesinin muhtemel olup olmadığının belirlenmesi için 1/1/2004-30/6/2008 arasındaki dönem gözden geçirme dönemi olarak alınmıştır.
