@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "2143",
+  "decision_date": "2009-06-25",
+  "title": "LPG otogaz bayilik lisansının genel hükümler bölümünde 15’inci madde olarak gelmek üzere, \"Tesislerin Kullandırılması\" başlığı altında, \"Lisans sahibinin, piyasa faaliyetine konu tesislerini lisans amaçları doğrultusunda başkalarına kullandırılması Kurulun iznine bağlıdır\" hükmünün eklenmesine ilişkin",
+  "categories": [
+    "LPG Piyasası Mülga Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MZ4Ic12jDjU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MZ4Ic12jDjU="
+  ],
+  "source_sha256": "c2d4cc74fba202c87ae8dd9e9231cec4ee402998e4a875cb39c35d07f7f84bdb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5102,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-06-25",
+  "law_text_complete": false
+}
