@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-06-27",
+  "issue": "27271",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2009/15052 Türkiye Cumhuriyeti Hükümeti ve Kolombiya Cumhuriyeti Hükümeti Arasında İmzalanan “Ticaret İşbirliği Anlaşması”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090627-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/06/20090627.htm",
+  "index_sha256": "88f3f25a7dbac2c5cc8a8e1e82904c1c3cb00679d3d24c8c479adf85ce490987",
+  "index_header": "27 Haziran 2009 ... 27271 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
