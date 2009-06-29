@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2154/1",
+  "decision_date": "2009-06-29",
+  "title": "20 dağıtım şirketi tarafından 1 Temmuz 2009 tarihinden itibaren uygulanacak tarifelere ilişkin Kurul Kararı,",
+  "resmi_gazete_date": "2009-03-03",
+  "resmi_gazete_number": "27277",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MveJ/MCgaHw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MveJ/MCgaHw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Od1FbR2PiWU="
+  ],
+  "source_sha256": "ef9c5dcd7e953272b16ee6f106bf9c5fdfea343b958b73b80a612ac7bd79a1b7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-06-29",
+  "law_text_complete": false
+}
