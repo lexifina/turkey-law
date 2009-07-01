@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Kısa Mesaj Hizmetini Haiz Cihazların Teknik Özellikleri ve
+İşletmecilerin Yükümlülükleri
+Kısa mesaj hizmetini haiz cihazların teknik özellikleri
+MADDE 4 – (1) Piyasaya arz edilen kısa mesaj hizmetini haiz cihazlar, Türkçe karakterlerin tamamını ihtiva eden ETSI TS 123.038 V8.0.0 ve ETSI TS 123.040 V8.1.0 teknik özelliklerine veya bu teknik özelliklerin sonraki sürümlerine uygun olmalıdır.
+(2) Birinci fıkrada yer alan teknik özelliklere uygun olan cihazların tanıtma ve kullanma kılavuzları ile ambalajı üzerinde “Bu cihaz Türkçe karakterlerin tamamını ihtiva eden ETSI TS 123.038 V8.0.0 (veya sonraki sürümün kodu) ve ETSI TS 123.040 V8.1.0 (veya sonraki sürümün kodu) teknik özelliklerine uygundur.” ifadesi ile tanıtma ve kullanma kılavuzlarında varsa bu özelliklere ilişkin kullanıcı tarafından yapılması gereken işlemleri tarif eden bilgiler yer alır.
+(3) Bu Yönetmelikte belirtilen şartlara uygun olmayan cihazların piyasaya arzına izin verilmez. Kurum tarafından yapılan veya yaptırılan denetimlerde bu Yönetmelikte belirtilen şartlara uygun olmayan cihazların varlığının tespiti halinde, cihazların piyasaya arzı durdurulur, cihazlar sırasıyla imalatçısı, üreticisi, yetkili temsilcisi veya dağıtıcısı tarafından toplanır veya toplattırılır. İmalatçı, üretici, yetkili temsilci veya dağıtıcı bu hususlarda Kurum ile işbirliği yapar ve yetkililere gerekli bilgi ve belgeleri sağlar.

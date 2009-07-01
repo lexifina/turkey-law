@@ -1,0 +1,4 @@
+İşletmecilerin yükümlülükleri
+MADDE 5 – (1) İşletmeciler, kısa mesaj altyapılarında, ETSI TS 123.038 V8.0.0 ve ETSI TS 123.040 V8.1.0 teknik özelliklerini veya bu teknik özelliklerin sonraki sürümlerini haiz olmayan cihazlar ile unicode sistemi kullanılarak kodlanan, Türkçe karakterleri içeren ve 160 karaktere kadar olan kısa mesajı, tek bir mesaj olarak kabul eder ve ücretlendirir.
+(2) İşletmeciler kısa mesaj alt yapılarında, Türkçe karakterlerin tamamını ihtiva eden ETSI TS 123.038 V8.0.0 ve ETSI TS 123.040 V8.1.0 teknik özelliklerini veya bu teknik özelliklerin sonraki sürümlerini haiz cihazların, bu özelliklere uygun hizmet vermesini engellemeyecek şekilde gerekli tedbirleri alır.
+(3) Birinci fıkrada belirtilen yükümlülük, Türkçe karakterlerin tamamını ihtiva eden ETSI TS 123.038 V8.0.0 ve ETSI TS 123.040 V8.1.0 teknik özelliklerine veya bu teknik özelliklerin sonraki sürümlerine uygun olarak kodlanan kısa mesajların ücretlendirilmesinde aranmaz.
