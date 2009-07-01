@@ -1,0 +1,37 @@
+{
+  "number": "12",
+  "date": "2009-07-01",
+  "source_id": 1741,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1741/2009-12.pdf",
+  "source_sha256": "58661f3a0f54400b9562d128d7c63ca6208244af9ace985ac7859c04d5578e02",
+  "history": "as-enacted",
+  "words": 973,
+  "in_force_basis": "Official attached YSK decision 2009/2482, PDF p. 4, operative conclusion: Yapılan değişikliğin 01/07/2009 tarihinden itibaren geçerli olmasına",
+  "catalogue_date": "2009-07-08",
+  "source_images": 1,
+  "decorative_images": 1,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "circular_issue_date": "2009-07-08",
+  "attached_decision_numbers": [
+    "2482"
+  ],
+  "adoption_dates": [
+    {
+      "page": 4,
+      "date": "2009-07-08",
+      "quote": "08/07/2009 tarihinde oybirliği ile karar verildi"
+    }
+  ],
+  "approval_dates": [],
+  "explicit_effective_dates": [
+    {
+      "page": 4,
+      "date": "2009-07-01",
+      "quote": "Yapılan değişikliğin 01/07/2009 tarihinden itibaren geçerli olmasına"
+    }
+  ],
+  "date_kind": "explicit-commencement",
+  "in_force_date": "2009-07-01"
+}
