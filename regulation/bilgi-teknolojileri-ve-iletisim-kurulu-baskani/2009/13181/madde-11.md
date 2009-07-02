@@ -1,0 +1,11 @@
+Tahsisli frekansların geri alınması ve iptali
+MADDE 11 – (1) Teknolojik gelişmeler ve Türkiye’nin taraf olduğu uluslararası kuruluşların kararları doğrultusunda yapılabilecek yeni planlamalar çerçevesinde, Kurum, gerek görmesi halinde ilgili taraflarla da koordinasyon yaparak, devlet güvenlik ve istihbaratında veya yürütülen faaliyetlerin yerine getirilmesinde zafiyet yaratmayacak şekilde;
+a) Sayısı sınırlandırılmamış işletmeci ve kullanıcılara tahsisli frekansların,
+b) Türk Silahlı Kuvvetleri ile Radyo ve Televizyon Üst Kuruluna tahsis edilen frekans bandlarının
+bir kısmını veya tamamını geri alabilir.
+(2) Sayısı sınırlandırılmış kullanım hakkı sahibi işletmecinin frekanslarının geri alımı hususu, ilgili ihale şartnamesinde ve kullanım hakkı yetki belgesi ile düzenlenir.
+(3) Sayısı sınırlandırılmamış kullanım hakkı kapsamında yetkilendirilen işletmeciler, yetkilendirme tarihinden itibaren bir yıl içinde hizmet sunmaya başlamaması durumunda, hizmet sunmaya başlamak için gerekçelerini belirtmek suretiyle Kurumdan ek süre talep edebilir. Kurum, bu işletmeciye altı ayı geçmemek üzere ek bir süre verebilir. Kurum, tahsis edilen frekans kaynağını; işletmecinin, yetkilendirme tarihinden itibaren bir yıl içinde hizmet sunmaya başlamayıp herhangi bir ek süre talep etmemesi veya verilen ek süre içinde hizmeti sunmaya başlamaması durumunda aksini gerektiren objektif nedenler bulunmadıkça geri alır. Bu durumda Kurum, tahsisli frekans kaynağının geri alınmasına yönelik kararını, gerekçesi ile birlikte, geri alıma kadar belli bir süre verilecek şekilde işletmeciye bildirir. İşletmeci, Kurum tarafından belirlenecek süre içerisinde, bu fıkra hükümlerine göre gerekli düzenlemeleri yapmakla yükümlüdür.
+(4) Telsiz cihaz ve sistemi kurma ve kullanma izni verilen kullanıcıların, süre uzatımı da dâhil verilen süre sonunda sistemini kurmaması halinde verilen izin ile birlikte tahsisli frekanslar da iptal edilir.
+(5) Tahsis edilen frekansların kullanımından vazgeçilmesi durumunda tahsis edilen frekanslar iptal edilir.
+(6) Kurum, frekansların iptal edilmesi veya geri alınmasında herhangi bir yükümlülük altına girmez.
+(7) Kurum, geri alınan frekansları mevzuat hükümlerine göre işletmecilere veya kullanıcılara kullandırabilir veya tahsis edebilir.

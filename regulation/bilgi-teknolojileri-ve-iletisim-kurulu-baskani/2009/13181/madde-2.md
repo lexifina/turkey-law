@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, radyo ve televizyon yayınlarına ilişkin ilgili kanununda belirtilen hükümler saklı kalmak kaydıyla, spektrum yönetimi kapsamında temel ilke ve esasları, Millî Frekans Planının hazırlanması ve güncellenmesini, frekans tahsisi ile ulusal ve uluslararası koordinasyonu ve tescilini, tahsis edilen frekansların geri alınması ve yeniden tahsisi ile ilgili usul ve esasları kapsar.
