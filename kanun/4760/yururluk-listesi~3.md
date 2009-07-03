@@ -15,3 +15,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 5779 | 17 | 1/7/2008
 5784 | GEÇİCİ MADDE 5 | 26/7/2008
 5838 | (I), (II) sayılı liste, İşlenemeyen Hükümler | 28/2/2009
+5904 | 7, GEÇİCİ MADDE 5, (I) sayılı liste | 3/7/2009
