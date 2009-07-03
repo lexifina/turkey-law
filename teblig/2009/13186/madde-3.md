@@ -1,0 +1,3 @@
+İnceleme
+MADDE 3 – (1) 2009/8 sayılı İthalatta Korunma Önlemlerine İlişkin Tebliğ ile başlatılan gözden geçirme soruşturmasının sağlıklı bir şekilde yürütülmesi için gerekli sürenin yürürlükte bulunan korunma önleminin bitiş tarihinin ötesine sarkmasının muhtemel olduğu tespit edilmiştir.
+(2) Uygulanan korunma önleminin yürürlükten kalkması sonrasında, gözden geçirme soruşturmasının devam edeceği süre içerisinde gerek ithalatçılar gerekse yerli üreticiler açısından bir belirsizlik ortamının ortaya çıkmasının muhtemel olduğu ve bu belirsizliğin ticaretin ve üretimin normal seyri üzerinde bozucu etkilerinin olabileceği ve bu durumun telafisi güç zararlara yol açabileceği tespit edilmiştir.

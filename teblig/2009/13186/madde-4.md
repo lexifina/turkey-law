@@ -1,0 +1,2 @@
+Karar
+MADDE 4 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 8/6/2004 tarihli ve 25486 sayılı Resmi Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği hükümleri çerçevesinde, 7009.91 GTP’de yer alan çerçevesiz cam aynaların İran menşeli olanlarının ithalatında 3/7/2009 tarihinden itibaren azami 200 (iki yüz) gün süreyle geçici önlem olarak miktar kısıtlaması (kota) uygulanmasına ve kota miktarının 607.753 kg olarak belirlenmesine karar vermiştir.
