@@ -1,0 +1,1 @@
+Madde 1 – Türkiye Radyo - Televizyon Kurumuna devamlı ve yeterli gelir kaynağı sağlamak amacıyla hazırlanan bu Kanun; radyo, televizyon, video ve birleşik cihazlardan alınacak ücretler, elektrik enerjisi hasılatından ayrılacak paylar ile çeşitli gelirlerin tahakkuk, tahsilat işlemlerini kapsar.

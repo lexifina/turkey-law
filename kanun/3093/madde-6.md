@@ -1,0 +1,4 @@
+Ceza hükmü:
+Madde 6 – (Değişik: 23/1/2008-5728/439 md.)
+Bu Kanunun 1 inci maddesinde belirtilen cihazların bandrolsüz veya etiketsiz satışını yapan imalatçı veya ithalatçıya Kurum tarafından bandrolsüz veya etiketsiz satılan veya satışa arzedilen her cihaz için cihazın satış bedeli kadar idarî para cezası verilir. Bu cihazları bandrolsüz veya etiketsiz satın alan, devralan veya kullananlara bandrolsüz veya etiketsiz her bir cihaz için cihazın rayiç değerinin yarısı kadar idarî para cezası verilir. (Ek cümleler: 16/6/2009-5904/37 md.) Tahakkuku müteakip tebliğ edilen para cezalarını ödemeyenler hakkında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre işlem yapılır. Bu maddeye göre kesilecek idari para cezalarına karşı, ilgilisine tebliğ tarihinden itibaren, bir ay içerisinde yetkili idare mahkemesinde dava açılabilir.
+6539
