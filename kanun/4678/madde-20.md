@@ -1,3 +1,3 @@
 Tabanca tahsisi
-MADDE 20 — Sözleşmeli subay ve astsubaylara askerî eğitimi müteakip zatî tabanca verilir. Bunlardan; bu Kanunun 13 üncü maddesinin birinci fıkrasının (a), (b), (c), (d), (e), (f) ve (g) bentlerinde sayılan nedenlerden herhangi biriyle Türk Silâhlı Kuvvetlerinden ilişiği kesilenler ile dokuzuncu fiilî hizmet yılından önce ayrılanların zatî tabancaları geri alınır.
+MADDE 20 — (Değişik birinci fıkra: 16/6/2009-5907/13 md.) Sözleşmeli subay ve sözleşmeli astsubaylara askeri eğitimi müteakip zati tabanca verilir. Bunlardan; 13 üncü maddenin üçüncü fıkrasının (a), (b), (c), (d), (e), (f), (g), (h) ve (ı) bentlerinde sayılan nedenlerden herhangi biriyle Türk Silahlı Kuvvetlerinden ilişiği kesilenler ile dokuzuncu fiili hizmet yılından önce ayrılanların, zati tabancaları geri alınır.
 10.7.1953 tarihli ve 6136 sayılı Kanun hükümleri saklıdır.
