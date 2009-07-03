@@ -1,0 +1,2 @@
+Yetkili Sağlık Kuruluşları ile ilgili usul ve esaslar
+MADDE 4 – (1) Bu Kanun kapsamında aylık bağlanması talebinde bulunan özürlüler için, 16/7/2006 tarihli ve 26230 sayılı Resmî Gazete’de yayınlanarak yürürlüğe giren Özürlülük Ölçütü, Sınıflandırması ve Özürlülere Verilecek Sağlık Kurulu Raporları Hakkında Yönetmelik’te belirtilen usul ve esaslara göre, söz konusu yönetmelik ekinde yer alan Yetkili Sağlık Kuruluşları tarafından düzenlenecek sağlık kurulu raporları esas alınır.
