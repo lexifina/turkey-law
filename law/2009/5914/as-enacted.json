@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5914",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile İslam Konferansı Örgütüne Bağlı İslam Ülkeleri İstatistik, Ekonomik ve Sosyal Araştırmalar ve Eğitim Merkezi (SESRIC) Arasında Ankara/Oran Diplomatik Sitede Arsa Tahsisine İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-07-07",
+  "gazette_issue": "27281",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090707-4.htm",
+  "source_sha256": "a337227dc391321c34b0f70714a948ee353a9ea409dfe618b6626ac2d192c133",
+  "text_sha256": "d3ee663c2836aeb69ff7fd1087802d398c1cc75b58ff2467dc02f0aed8b3277d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/07/07/27281-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090707-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
