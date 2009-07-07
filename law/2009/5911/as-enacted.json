@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5911",
+  "year": 2009,
+  "title": "Gümrük Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-07-07",
+  "gazette_issue": "27281",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090707-1.htm",
+  "source_sha256": "49df927dc3764019afb379768b163a0b73264ce0a6f715c5d8392107ab60e00d",
+  "text_sha256": "4cd6cbf335ab0cc8d63daa7c3726174fc0c6a676845b534845d295bf970f374a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/07/07/27281-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090707-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
