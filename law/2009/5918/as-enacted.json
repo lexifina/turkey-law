@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5918",
+  "year": 2009,
+  "title": "Türk Ceza Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-07-09",
+  "gazette_issue": "27283",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090709-2.htm",
+  "source_sha256": "87637a26cf488dea684b4f7620bfe643d7b18d7b3d1963d7ff3aee59f61e9084",
+  "text_sha256": "b2614781226a693808818ca575b2ff4c6c971e8b4f670a5c098d43c9cc7e601e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/07/09/27283-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090709-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
