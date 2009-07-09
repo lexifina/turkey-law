@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5916",
+  "year": 2009,
+  "title": "Avrupa Birliği Genel Sekreterliği Teşkilat ve Görevleri Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-07-09",
+  "gazette_issue": "27283",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090709-1.htm",
+  "source_sha256": "da44dad17ebc45c22e3c1d359922af11d79a83a87ae0b8036e17992d314bed84",
+  "text_sha256": "d8641111e0a25f198e604031ed1934ea61598f2d4909afc3484d93fe80cfb5b3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/07/09/27283-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090709-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
