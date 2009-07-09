@@ -1,0 +1,17 @@
+Hakemlik kategorileri
+MADDE 17 – (1) Hakem kategorileri şunlardır;
+a) Aday Hakem: Merkez hakem kurulunca açılacak kursların sonunda yapılacak yazılı, sözlü ve uygulamalı sınavların her birinden yüz üzerinden yetmiş puan alarak başarılı olanlar aday hakem olurlar. Aday hakemler illerinde yapılacak resmi ve özel müsabakalarda başhakemlik dışında diğer hakemlik görevlerini yapabilirler. Aday hakemlik süresi en az bir yıl, en çok iki yıldır. Sürenin başlama tarihi aday hakemliğin il müdürlüğüne tebliğ tarihidir. Aday hakemlik süresini tamamlayanlar, il hakem kurulu tarafından, kurulu olmayan illerde il temsilcisi tarafından il hakemliğine terfileri için aşağıdaki belgeler ile merkez hakem kuruluna teklif edilirler. İki yıl içerisinde terfi etme yeterliliğini elde edemeyen aday hakemler hakkında il hakem kurulunca karar defterine terfi edememe nedenleri ile ilgili alınan karar örneği bir yazı ile merkez hakem kuruluna gönderilir.
+1) İl hakem kurulu terfi teklifi karar örneği,
+2) İki adet fotoğraf,
+3) T.C. kimlik numarası,
+4) En az iki gözlemci raporu,
+5) Görev aldığı en az iki müsabakanın başhakemi tarafından onaylı hakem isim listesi.
+b) İl Hakemi: Teklif edilen aday hakemler, merkez hakem kurulu kararı ile il hakemliğine terfi edilirler. İl hakemleri, illerindeki müsabakalarda veya merkez hakem kurulunca görevlendirildikleri takdirde her türlü müsabakalarda başhakemlik dışındaki hakemlik görevlerini yapabilirler.
+c) Ulusal Hakem: İl hakemliğinden ulusal hakemliğe terfide; il hakem kurulunca, her yıl Mayıs ayı sonuna kadar il hakemliğinde aralıksız üç sezon faal hakemlik yapmış ve kırkbeş yaşından gün almamış il hakemleri için aşağıda yazılı belgelerle birlikte merkez hakem kuruluna teklifte bulunulur. Merkez hakem kurulunun tespit edeceği yer ve zamanda yapılacak yazılı, sözlü ve uygulamalı sınavlarda yüz üzerinden en az yetmiş puan alarak başarılı olanlar ulusal hakem adayı olurlar. Merkez hakem kurulunca, verilecek iki müsabakada olumlu gözlemci raporu alan ulusal hakem adayları, merkez hakem kurulu kararı ile ulusal hakemliğe terfi ettirilir. İki defa sınava tabi tutularak başarı gösteremeyen il hakemleri il hakem kurulunca üçüncü defa terfi sınavı için teklif edilemez ve ulusal hakem olamazlar. Ulusal hakemler illerindeki müsabakalarında veya merkez hakem kurulunca verilecek tüm resmi ve özel müsabakalarda her türlü hakemlik görevlerini yapabilirler.
+Ulusal hakemliğe terfi sınavına katılabilmek için gerekli belgeler:
+1) İl hakem kurulu terfi teklif kararı,
+2) Görev aldığı iki müsabakanın başhakemi tarafından onaylı görevli isim listesi,
+3) İki adet fotoğraf,
+4) T.C. kimlik numarası,
+5) İl hakemliği lisansı fotokopisi.
+ç) Uluslararası Hakem: En az üç faaliyet sezonu aralıksız ulusal hakemlik yapanlardan İngilizce, Fransızca ve Almanca dillerinden en az birini bildiğini belgeleyen ve IKF'nin belirlediği şartları taşıyanlar ulusal hakemler merkez hakem kurulu kararı, Federasyonun teklifi ile IKF'ye teklif edilirler. Federasyonca IKF’ye teklif edilen, ulusal hakemlerden uluslararası kursta başarı gösteren adaylar, uluslararası hakem adayı olurlar. Adaylık süresince uluslararası müsabakalarda başarı gösterenler, IKF tarafından uluslararası hakemliğe terfi ettirilirler. uluslararası hakemler illerinde merkez hakem kurulunca veya IKF tarafından verilecek tüm müsabakalarda başhakemlik ve hakemlik görevlerini yapabilirler.

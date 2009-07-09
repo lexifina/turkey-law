@@ -1,0 +1,2 @@
+İl hakem kurulunun kuruluşu
+MADDE 11 – (1) İl hakem kurulunun başkanı il temsilcisidir. İl hakem kurulu, başkan ve beş üyeden oluşur. İl hakem kurulunun üç üyesi 13. madde deki şartları taşıyan ve bir sezon önceki müsabakalarda görev almış aday hakemler hariç faal hakemler arasından on ilde görev yapan hakemler tarafından seçilir, diğer iki üyesi ise il müdürlüğünün teklif edeceği dört aday arasından merkez hakem kurulunca seçilir. Kurulun görev süresi iki yıldır.
