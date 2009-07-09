@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5919",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti ile Cezayir Demokratik Halk Cumhuriyeti Arasında Dostluk ve İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-07-09",
+  "gazette_issue": "27283",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090709-3.htm",
+  "source_sha256": "744241357ea8c00fdc5f8234d9c9b37fd6ae855c9b076b76cbfb56fb15311856",
+  "text_sha256": "8338206523769473e9edfa19f9c17aa4d8059f395d9f06bce91705063c2a8d05",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/07/09/27283-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090709-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
