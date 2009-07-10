@@ -1,1 +1,1 @@
-GEÇİCİ MADDE 2 — Bu Kanunun yürürlük tarihi itibarıyla 2924 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkında Kanun gereğince Orman Bakanlığınca hak sahipliği, rayiç bedel tespiti ve satış işlemlerine başlanmış olup da tapuları henüz verilmemiş olan yerlere ait dosyalar, bu Kanuna göre işlem yapılmak üzere Bakanlığa devredilir.
+GEÇİCİ MADDE 2 — (Mülga: 25/6/2009-5917/47 md.)

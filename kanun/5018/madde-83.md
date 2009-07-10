@@ -162,54 +162,61 @@ TEKNOLOJİ ENSTİTÜLERİ
 94) (Ek: 22/5/2008-5765/3 md.) Şırnak Üniversitesi
 95) (Ek: 22/5/2008-5765/3 md.) Tunceli Üniversitesi
 96) (Ek: 22/5/2008-5765/3 md.) Yalova Üniversitesi
-B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)
+B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
-3) Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü
-4) Türkiye Bilimsel ve Teknolojik Araştırma Kurumu
-5) Türkiye Bilimler Akademisi
-6) Türkiye Adalet Akademisi
-7) Yükseköğrenim Kredi ve Yurtlar Kurumu
-8) Gençlik ve Spor Genel Müdürlüğü
-9) Devlet Tiyatroları Genel Müdürlüğü
-10) Devlet Opera ve Balesi Genel Müdürlüğü
-11) (Ek: 1/7/2006-5538/1 md.) Orman Genel Müdürlüğü
-12) Vakıflar Genel Müdürlüğü
-13) Hudut ve Sahiller Sağlık Genel Müdürlüğü
-14) Elektrik İşleri Etüd İdaresi Genel Müdürlüğü
-15) Maden Tetkik ve Arama Genel Müdürlüğü
-16) Sivil Havacılık Genel Müdürlüğü
-17) Türk Akreditasyon Kurumu
-18) Türk Standartları Enstitüsü
-19) Millî Prodüktivite Merkezi
-20) Türk Patent Enstitüsü
-21) Ulusal Bor Araştırma Enstitüsü
-22) Türkiye Atom Enerjisi Kurumu
-23) Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı
-24) İhracatı Geliştirme Etüt Merkezi
-25) Türk İşbirliği ve Kalkınma İdaresi Başkanlığı
-26) Özel Çevre Koruma Kurumu Başkanlığı
-27) GAP Bölge Kalkınma İdaresi
-28) Özelleştirme İdaresi Başkanlığı
-29) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu
-30) (Ek: 28/9/2006-5548/36 md.; İptal: Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile. )(2)
-31) (Ek: 21/9/2006-5544/31 md.) Meslekî Yeterlilik Kurumu (2)
+3) (Ek: 25/6/2009-5917/47 md.) Atatürk Araştırma Merkezi
+4) (Ek: 25/6/2009-5917/47 md.) Atatürk Kültür Merkezi
+5) (Ek: 25/6/2009-5917/47 md.) Türk Dil Kurumu
+6) (Ek: 25/6/2009-5917/47 md.) Türk Tarih Kurumu
+7) Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü
+8) Türkiye Bilimsel ve Teknolojik Araştırma Kurumu
+9) Türkiye Bilimler Akademisi
+10) Türkiye Adalet Akademisi
+11) Yükseköğrenim Kredi ve Yurtlar Kurumu
+12) Gençlik ve Spor Genel Müdürlüğü
+13) Devlet Tiyatroları Genel Müdürlüğü
+14) Devlet Opera ve Balesi Genel Müdürlüğü
+15) (Ek: 1/7/2006-5538/1 md.) Orman Genel Müdürlüğü
+16) Vakıflar Genel Müdürlüğü
+17) Hudut ve Sahiller Sağlık Genel Müdürlüğü
+18) Elektrik İşleri Etüd İdaresi Genel Müdürlüğü
+19) Maden Tetkik ve Arama Genel Müdürlüğü
+20) Sivil Havacılık Genel Müdürlüğü
+21) Türk Akreditasyon Kurumu
+22) Türk Standartları Enstitüsü
+23) Millî Prodüktivite Merkezi
+24) Türk Patent Enstitüsü
+25) Ulusal Bor Araştırma Enstitüsü
+26) Türkiye Atom Enerjisi Kurumu
+27) Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı
+28) İhracatı Geliştirme Etüt Merkezi
+29) Türk İşbirliği ve Kalkınma İdaresi Başkanlığı
+30) Özel Çevre Koruma Kurumu Başkanlığı
+31) GAP Bölge Kalkınma İdaresi
+32) Özelleştirme İdaresi Başkanlığı
+33) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu
+34) (Ek: 28/9/2006-5548/36 md.; İptal: Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile. )(2)
+35) (Ek: 21/9/2006-5544/31 md.) Meslekî Yeterlilik Kurumu (2)
 ––––––––––––––
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “10) Devlet Opera ve Balesi Genel Müdürlüğü” sırasından sonra gelmek üzere “11) Orman Genel Müdürlüğü” sırası eklenmiş ve cetvelin sıra numaraları teselsül ettirilmiştir.
 (2) 28/9/2006 tarihli ve 5548 sayılı Kanunun 36 ncı maddesiyle, bu bölüme “29) Kamu Denetçiliği Kurumu “ ibaresi eklenmesinden dolayı bu kuruma ait sıra numarası yeniden teselsül ettirilmiş, daha sonra bu sıra; 4/4/2009 tarihli ve 27910 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile 28/9/2006 tarihli ve 5548 sayılı Kamu Denetçiliği Kurumu Kanununun tümüyle iptal edilmesinden dolayı yürürlükten kaldırılmıştır.
-(III) SAYILI CETVEL
+(3) 25/6/2009 tarihli ve 5917 sayılı Kanunun 47 nci maddesiyle, bu bölüme “2)Atatürk Kültür, Dil ve Tarih Yüksek Kurumu” sırasından sonra gelmek üzere “3) Atatürk Araştırma Merkezi , 4) Atatürk Kültür Merkezi ,5) Türk Dil Kurumu, 6)Türk Tarih Kurumu” ibareleri eklenmiş ve sıra numaraları buna göre teselsül ettirilmiştir.
+(III) SAYILI CETVEL (1)
 (Değişik: 22/12/2005-5436/12 md.)
 DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR
-1) Radyo ve Televizyon Üst Kurulu
+1) Bilgi Teknolojileri ve İletişim Kurumu (1)
 2) Telekomünikasyon Kurumu
 3) Sermaye Piyasası Kurulu
 4) Bankacılık Düzenleme ve Denetleme Kurumu
 5) Enerji Piyasası Düzenleme Kurumu
 6) Kamu İhale Kurumu
 7) Rekabet Kurumu
-8) Tütün, Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumu
+8) Tütün ve Alkol Piyasası Düzenleme Kurumu (1)
 (IV) SAYILI CETVEL
 (Değişik: 16/5/2006-5502/42 md.)
 SOSYAL GÜVENLİK KURUMLARI
 1- Sosyal Güvenlik Kurumu
 2- Türkiye İş Kurumu Genel Müdürlüğü
+–––––––––––––––––––––
+(1) 25/6/2009 tarihli ve 5917 sayılı Kanunun 47 nci maddesiyle, bu cetvelde yer alan “Telekomünikasyon Kurumu” ibaresi “Bilgi Teknolojileri ve İletişim Kurumu”, “Tütün, Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumu” ibaresi “Tütün ve Alkol Piyasası Düzenleme Kurumu” olarak değiştirilmiştir.

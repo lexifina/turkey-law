@@ -9,4 +9,29 @@ Genel Müdür |  | Genel Müdür Yardımcısı | 1- Vakıf Hizmetleri Daire Baş
  |  |  | 5- Sağlık Hizmetleri Daire Başkanlığı |  | 
  |  |  | 6- Kültür ve Tescil Daire Başkanlığı |  | 
  |  |  | 7- Dış İlişkiler Daire Başkanlığı |  | 
-(II) SAYILI CETVEL VAKIFLAR GENEL MÜDÜRLÜĞÜ (TAŞRA TEŞKİLATI) BÖLGE MÜDÜRLÜKLERİ SIRA NO BÖLGE ADI BAĞLI İLLER 1 ADANA Adana, Mersin, Osmaniye 2 ANKARA Ankara, Bolu, Çankırı, Düzce, Kırıkkale 3 ANTALYA Antalya, Burdur, Isparta 4 AYDIN Aydın, Denizli, Muğla 5 BALIKESİR Balıkesir, Çanakkale 6 BİTLİS Bitlis, Hakkari, Muş, Şırnak, Siirt, Van 7 BURSA Bursa, Bilecik, Sakarya, Yalova 8 DİYARBAKIR Diyarbakır, Batman, Bingöl, Mardin 9 EDİRNE Edirne, Kırklareli 10 ERZURUM Erzurum, Kars, Ardahan, Bayburt, Erzincan, Iğdır, Ağrı 11 GAZİANTEP Gaziantep, Kilis 12 HATAY Hatay, Kahramanmaraş 13 İSTANBUL I. BÖLGE Avrupa Yakası, Tekirdağ 14 İSTANBUL II. BÖLGE Anadolu Yakası, Kocaeli 15 İZMİR İzmir, Manisa 16 KASTAMONU Kastamonu, Bartın, Karabük, Zonguldak 17 KAYSERİ Kayseri, Niğde, Nevşehir, Kırşehir 18 KONYA Konya, Aksaray, Karaman 19 KÜTAHYA Kütahya, Afyonkarahisar, Eskişehir, Uşak 20 MALATYA Malatya, Elazığ, Tunceli 21 SAMSUN Samsun, Ordu, Sinop 22 SİVAS Sivas, Yozgat 23 ŞANLIURFA Şanlıurfa, Adıyaman 24 TOKAT Tokat, Amasya, Çorum 25 TRABZON Trabzon, Artvin, Giresun, Gümüşhane, Rize (III) SAYILI CETVEL VAKIFLAR GENEL MÜDÜRLÜĞÜ SÖZLEŞMELİ PERSONELİNE İLİŞKİN AYLIK ÜCRET SINIRLARI (BRÜT YTL) GÖREV UNVANI Taban Ücreti Tavan Ücreti Genel Müdür 980.00 1.726.00 Vakıflar Meclisi Üyesi, Genel Müdür Yrd., I. Hukuk Müşaviri, Rehberlik ve Teftiş Başkanı 920.00 1.651.00 Başmüfettiş, Daire Başkanı, Hukuk Müşaviri, Basın ve Halkla İlişkiler Müşaviri, Bölge Müdürü 650.00 1.602.00 Müdür, Şube Müdürü 520.00 1.377.00 Müfettiş, Vakıf Uzmanı Kadro Derecesi 1 895.00 1.377.00 Kadro Derecesi 2 890.00 1.350.00 Kadro Derecesi 3 860.00 1.320.00 Kadro Derecesi 4 830.00 1.290.00 Kadro Derecesi 5 805.00 1.265.00 Kadro Derecesi 6 780.00 1.240.00 Kadro Derecesi 7 760.00 1.200.00 Avukat, Mimar, Mühendis, Şehir Plancısı, Kurum Tabibi, Müze Araştırmacısı Kadro Derecesi 1 890.00 1.350.00 Kadro Derecesi 2 860.00 1.320.00 Kadro Derecesi 3 830.00 1.290.00 Kadro Derecesi 4 805.00 1.265.00 Kadro Derecesi 5 780.00 1.240.00 Kadro Derecesi 6 760.00 1.200.00
+(II) SAYILI CETVEL VAKIFLAR GENEL MÜDÜRLÜĞÜ (TAŞRA TEŞKİLATI) BÖLGE MÜDÜRLÜKLERİ SIRA NO BÖLGE ADI BAĞLI İLLER 1 ADANA Adana, Mersin, Osmaniye 2 ANKARA Ankara, Bolu, Çankırı, Düzce, Kırıkkale 3 ANTALYA Antalya, Burdur, Isparta 4 AYDIN Aydın, Denizli, Muğla 5 BALIKESİR Balıkesir, Çanakkale 6 BİTLİS Bitlis, Hakkari, Muş, Şırnak, Siirt, Van 7 BURSA Bursa, Bilecik, Sakarya, Yalova 8 DİYARBAKIR Diyarbakır, Batman, Bingöl, Mardin 9 EDİRNE Edirne, Kırklareli 10 ERZURUM Erzurum, Kars, Ardahan, Bayburt, Erzincan, Iğdır, Ağrı 11 GAZİANTEP Gaziantep, Kilis 12 HATAY Hatay, Kahramanmaraş 13 İSTANBUL I. BÖLGE Avrupa Yakası, Tekirdağ 14 İSTANBUL II. BÖLGE Anadolu Yakası, Kocaeli 15 İZMİR İzmir, Manisa 16 KASTAMONU Kastamonu, Bartın, Karabük, Zonguldak 17 KAYSERİ Kayseri, Niğde, Nevşehir, Kırşehir 18 KONYA Konya, Aksaray, Karaman 19 KÜTAHYA Kütahya, Afyonkarahisar, Eskişehir, Uşak 20 MALATYA Malatya, Elazığ, Tunceli 21 SAMSUN Samsun, Ordu, Sinop 22 SİVAS Sivas, Yozgat 23 ŞANLIURFA Şanlıurfa, Adıyaman 24 TOKAT Tokat, Amasya, Çorum 25 TRABZON Trabzon, Artvin, Giresun, Gümüşhane, Rize
+(Değişik:25/6/2009-5917/ 47 md.) (III) SAYILI CETVEL
+VAKIFLAR GENEL MÜDÜRLÜĞÜ
+SÖZLEŞMELİ PERSONELİNE İLİŞKİN AYLIK ÜCRET SINIRLARI (BRÜT TL)
+GÖREV UNVANI | Taban Ücreti | Tavan Ücreti
+Genel Müdür | 1230,00 | 2142,00
+Vakıflar Meclisi Üyesi, Genel Müdür Yrd., I.Hukuk Müşaviri, Rehberlik ve Teftiş Başkanı | 1155,00 | 2049,00
+Başmüfettiş, Daire Başkanı, Hukuk Müşaviri, Basın ve Halkla İlişkiler Müşaviri, Bölge Müdürü | 822,00 | 1989,00
+Müdür, Şube Müdürü | 660,00 | 1718,00
+Müfettiş, Vakıf Uzmanı |  | 
+Kadro Derecesi 1 | 1128,00 | 1718,00
+Kadro Derecesi 2 | 1122,00 | 1684,00
+Kadro Derecesi 3 | 1085,00 | 1647,00
+Kadro Derecesi 4 | 1047,00 | 1609,00
+Kadro Derecesi 5 | 1016,00 | 1579,00
+Kadro Derecesi 6 | 984,00 | 1548,00
+Kadro Derecesi 7 ve Diğerleri | 959,00 | 1498,00
+Avukat, Mimar, Mühendis, Şehir Plancısı, Kurum Tabibi (Daire Tabibi), Müze Araştırmacısı |  | 
+Kadro Derecesi 1 | 1122,00 | 1684,00
+Kadro Derecesi 2 | 1085,00 | 1647,00
+Kadro Derecesi 3 | 1047,00 | 1609,00
+Kadro Derecesi 4 | 1016,00 | 1579,00
+Kadro Derecesi 5 | 984,00 | 1548,00
+Kadro Derecesi 6 ve Diğerleri | 959,00 | 1498,00
+Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Değiştiren Kanun Resmi Gazete Tarihi | Anayasa Mahkemesi Karar Tarih/No. | 5737 sayılı Kanunun değiştirilen maddeleri
+5917 | 1/7/2009 | 10/7/2009 |  | (III) Sayılı Cetvel
