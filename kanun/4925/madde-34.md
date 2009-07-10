@@ -1,6 +1,9 @@
 Yönetmelik
-MADDE 34. — Bu Kanunun yürürlüğe girmesinden itibaren altı ay içinde;
+Madde 34 - Bu Kanunun yürürlüğe girmesinden itibaren altı ay içinde;
 a) Taşımacılık, acente ve taşıma işleri komisyonculuğu ile nakliyat ambarı ve kargo işletmeciliği yapmak isteyen gerçek ve tüzel kişilerde aranacak şartlar, verilecek yetki belgeleri ve taşıt belgeleri, her belge türü için gerekli olan taşıt kapasiteleri, taşıtların yaşı, nitelikleri, istiap hadleri ve terminal hizmetlerinde öngörülecek hususları,
+–––––––––––––
+(1) 25/6/2009 tarihli ve 5917 sayılı Kanunun 47 nci maddesiyle; bu bentte yer alan “otobüs” ibaresinden sonra gelmek üzere “minibüs, kamyonet, traktör,” ibaresi ve “sahiplerine” ibaresinden sonra gelmek üzere “ve karayolu yatırım projelerine,” ibaresi eklenmiş ve metne işlenmiştir.
+8539-8555
 b) Belgelerin geçerlilik süreleri, geri alınması ve uygulanacak idarî müeyyideleri,
 c) Taşımacı, acente ve taşıma işleri komisyonculuğu ile nakliyat ambarı ve kargo işletmeciliği yapacakların yükümlülükleri, bagaj ve taşımanın yardımcı hizmetleri,
 d) Zaman ve fiyat tarifelerinin düzenlenmesi, yolcu bileti ve taşıma senedinin şekil ve muhtevasını,

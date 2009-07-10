@@ -1,1 +1,2 @@
-MADDE 28. —(Mülga: 23/1/2008-5728/578 md.)
+Suç ve ceza tutanakları
+Madde 28 - (Mülga: 23/1/2008 – 5728/578 md.)

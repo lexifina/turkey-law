@@ -1,2 +1,2 @@
 Yürürlük
-MADDE 37. — Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 37 - Bu Kanun yayımı tarihinde yürürlüğe girer.

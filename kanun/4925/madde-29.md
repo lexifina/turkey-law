@@ -1,1 +1,2 @@
-MADDE 29. — (Mülga: 23/1/2008-5728/578 md.)
+Para cezalarının ödenme süresi
+Madde 29 - (Mülga: 23/1/2008 – 5728/578 md.)
