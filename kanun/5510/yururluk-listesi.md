@@ -8,3 +8,4 @@ Anayasa Mahkemesi’nin 15/12/2006 tarihli, E.:2006/111, K.:2006/112 sayılı Ka
 5763 | Geçici Madde 23 ve 24 81 ve Geçici Madde 16 | 26/5/2008 1/10/2008
 5797 | Geçici Madde 4, 12, 16 ve 25 81 80 | 19/8/2008 1/10/2008 15/10/2008
 5838 | 5, Geçici Madde 14 93, 97, 100 102 ve Ek Madde 1 | 1/10/2008 tarihinden geçerli olmak üzere 28/2/2009 28/2/2009 1/8/2009
+5917 | 68, 100, 102 | 10/7/2009

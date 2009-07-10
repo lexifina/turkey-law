@@ -22,3 +22,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5793 | 9, 10, 27, 28, 40, 44, 51, 52, 53, 61, 62, Geçici Madde 5, 11, 18, 19 ve İşlenemeyen hükümler | 6/8/2008
 Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı. | (II) Sayılı Cetvel (Kamu Denetçiliği Kurumu) | 4/4/2009
 5902 | (I) Sayılı Cetvel | 17/6/2009
+5917 | 6, (III) Sayılı Cetvel (II) Sayılı Cetvel | 10/7/2009 1/1/2010
