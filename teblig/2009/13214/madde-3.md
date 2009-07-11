@@ -1,0 +1,2 @@
+İnceleme
+MADDE 3 – (1) 2009/4 sayılı İthalatta Korunma Önlemlerine İlişkin Tebliğ ile başlatılan gözden geçirme soruşturmasının yürürlükte bulunan korunma önleminin bitiş tarihinden sonra tamamlanabileceği anlaşılmıştır. Bu durumun yaratacağı belirsizlik ortamının ticaretin ve üretimin normal seyri üzerinde bozucu etkilerinin olabileceği ve telafisi güç zararlara yol açabileceği tespit edilmiştir.
