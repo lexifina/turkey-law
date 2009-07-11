@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.13217",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2009/16)",
+  "number": "13217",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2009/13217",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13217&MevzuatTertip=5",
+  "source_sha256": "6eb1bef1d475a20b10983543eabbeb2cfca40a0b0e38845c8868147a1602f104",
+  "source_bytes": 20923,
+  "published": "2009-07-11",
+  "gazette": "27285",
+  "in_force": "2009-07-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.07.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 343,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
