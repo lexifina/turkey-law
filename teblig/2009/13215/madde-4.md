@@ -1,0 +1,7 @@
+Karar
+MADDE 4 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği hükümleri çerçevesinde, aşağıdaki tabloda G.T.İ.P.’leri ve tanımı belirtilen eşyanın ithalatında uygulanmakta olan ek mali yükümlülük şeklindeki korunma önleminin geçerlilik süresinin bittiği 10/8/2009 tarihinden itibaren azami 200 (ikiyüz) gün süreyle geçici önlem uygulanmasına; geçici önlemin aşağıdaki tabloda gösterilen eşik birim kıymetten, ithal edilen ürünün diğer yurtdışı giderler hariç CIF birim kıymetinin (malın 1 tonu için fiilen ödenen veya ödenecek bedel ile navlun ve sigorta bedelleri toplamı) çıkarılması suretiyle hesaplanacak müspet farka tekabül eden tutar kadar ek mali yükümlülük olarak belirlenmesine ve Dünya Ticaret Örgütü Korunma Önlemleri Anlaşması’nın 9.1 maddesi gereğince gelişmekte olan ülkelere muafiyet tanınmasına ve geçici önlemin istihsali hususunda Bakanlar Kurulu’na öneride bulunulmasına karar vermiştir.
+G.T.İ.P. | EŞYA TANIMI | Eşik birim kıymet (ABD Doları/ton/brüt)
+2501.00.31.00.00 | Diğer maddelerin imali için kimyasal değişimlere mahsus olanlar (CI 'den Na 'yı ayırmak gibi) | 29
+2501.00.51.00.00 | Denature veya sınaî amaçlara mahsus olanlar (rafine edilecekler dâhil) (insanlar veya hayvanlar tarafından tüketilen gıdaların hazırlanmasında veya korunmasında kullanılanlar hariç) | 29
+2501.00.99.10.00 | Saf sodyum klorür | 29
+2501.00.99.90.00 | Diğerleri | 29
