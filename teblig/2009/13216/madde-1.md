@@ -1,0 +1,2 @@
+Korunma önlemi
+MADDE 1 – (1) 30/12/2006 tarihli ve 26392 sayılı Resmî Gazete'de yayımlanan 2006/11443 sayılı Bakanlar Kurulu Kararı ile değişik 11/7/2006 tarihli ve 26225 sayılı Resmî Gazete'de yayımlanan 2006/10618 sayılı Bakanlar Kurulu Kararı gereğince bazı ayakkabı ithalatında 3 (üç) yıl süre ile korunma önlemi olarak ek mali yükümlülük tahsil edilmeye başlanmıştır. Söz konusu önlemin geçerlilik süresi 10/8/2009 tarihinde son bulacaktır.

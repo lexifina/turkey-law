@@ -1,0 +1,8 @@
+Karar
+MADDE 4 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete'de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği hükümleri çerçevesinde, aşağıdaki tabloda gümrük tarife pozisyonları (G.T.P.) ve tanımı belirtilen eşya ithalatında uygulanmakta olan ek mali yükümlülük şeklindeki korunma önleminin geçerlilik süresinin bittiği 10/8/2009 tarihinden itibaren azami 200 (iki yüz) gün süreyle geçici önlem uygulanmasına; geçici önlemin aşağıdaki tabloda "Ek Mali Yükümlülük" sütununda belirtilen tutarlarda tespit edilmesine; Dünya Ticaret Örgütü Korunma Önlemleri Anlaşması'nın 9.1 maddesi gereğince gelişmekte olan ülkelere muafiyet tanınmasına ve geçici önlemin istihsali hususunda Bakanlar Kurulu'na öneride bulunulmasına karar vermiştir.
+G.T.P. | Eşya Tanımı | Ek Mali Yükümlülük (ABD Doları/Çift)
+64.02 (1)(2) | Dış tabanı ve yüzü kauçuk veya plastik maddeden olan diğer ayakkabılar | 1,70
+64.03(1)(2) | Dış tabanı kauçuktan, plastik maddeden, tabii veya terkip yoluyla elde edilen köseleden ve yüzü deriden olan ayakkabılar | 2,55
+64.04(1)(2) | Dış tabanı kauçuktan, plastik maddeden, tabii veya terkip yoluyla elde edilen köseleden ve yüzü dokumaya elverişli maddelerden olan ayakkabılar | 1,70
+(1) 6402.12; 6402.196403.12; 6403.19; 6404.11 alt pozisyonları hariç.
+(2) 6402.99.50; 6402.99.91; 6403.51.11; 6403.51.91; 6403.59.31; 6403.59.50.00.11; 6403.59.50.00.12; 6403.59.50.00.13; 6403.59.91; 6403.91.11; 6403.91.91; 6403.99.31; 6403.99.50; 6403.99.91; 6404.19.10.00.11; 6404.19.10.00.12; 6404.19.10.00.13; 6404.19.90.00.13; 6404.20.10 gümrük tarife istatistik pozisyonları için 1,20 ABD Doları/Çift olarak uygulanır.
