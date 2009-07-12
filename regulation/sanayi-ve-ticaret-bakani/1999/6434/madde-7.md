@@ -1,0 +1,3 @@
+Teknik servisler
+Madde 7- (Başlığı ile değişik:RG-12/7/2009-27286)(1)
+Teknik servis olarak, TS EN ISO/IEC 17025 ve/veya TS EN ISO/IEC 17020 veya eşdeğer ulusal veya uluslararası standartları sağlayan, deney ve analizleri yapabilecek laboratuvarı ve/veya teknik imkanları bulunan kamu kurum ve kuruluşları ile özel kuruluşlar, yapılacak protokolle belirlenecek şartlar çerçevesinde Bakanlıkça görevlendirilebilir. Teknik servisler, Onay Kuruluşunun izni ile deneyleri kendi laboratuvarları dışında aynı özelliklere sahip laboratuvarlarda yaptırabilir. Görevlendirilen teknik servisler Bakanlığın internet adresinde yayımlanır.

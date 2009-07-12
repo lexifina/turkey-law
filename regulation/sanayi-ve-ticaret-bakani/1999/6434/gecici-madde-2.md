@@ -1,0 +1,1 @@
+Geçici Madde 2- Bu Yönetmelik yürürlüğe girmeden önce Ulusal Tip Onayı Belgesi olan araçlar için imalatçılar, 1/1/2001 tarihine kadar motorlu araçlar ve römorklarının arka kısmına tescil plakası takılma alanları bu Yönetmeliğe göre AT Araç Tip Onayı Belgesi almak zorundadır. Aksi takdirde geçiş süresi sonunda araçların Ulusal Tip Onayı Belgeleri iptal edilir.

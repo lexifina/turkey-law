@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 7 – (Ek:RG-12/7/2009-27286) (1)
+Bu Yönetmelik hükümleri özel amaçlı N1, N2, N3, M2, M3, O1, O2, O3 ve O4 kategorisi araçlarda uygulanabilirliği varsa; yeni tip onayı belgesi alacak araçlar için 29/10/2012, tüm araç tip onayı mevcut araçlar için 29/10/2014 tarihinden itibaren uygulanır. Yönetmelik söz konusu araç kategorisi için aracın tip onayı belgesi durumuna göre anılan tarihlere kadar ihtiyaridir.

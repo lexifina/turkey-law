@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 6 – (Ek:RG-12/7/2009-27286) (1)
+Bu Yönetmelik hükümleri O1, O2, O3 ve O4 kategorisi araçlarda; yeni tip onayı belgesi alacak tam ve uygulanabilirliği varsa tamamlanmamış araçlar için 29/10/2010, tamamlanmış araçlar için 29/10/2011; tüm araç tip onayı mevcut tam ve üzerinde tescil plaka yeri mevcut tamamlanmamış araçlar için 29/10/2012, tamamlanmış araçlar için 29/10/2013 tarihinden itibaren uygulanır. Yönetmelik söz konusu araç kategorisi için aracın tip onayı belgesi ve tamamlanma durumuna göre anılan tarihlere kadar ihtiyaridir.

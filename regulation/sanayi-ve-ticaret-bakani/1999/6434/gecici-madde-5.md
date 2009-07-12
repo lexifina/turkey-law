@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 5 – (Ek:RG-12/7/2009-27286) (1)
+Bu Yönetmelik hükümleri M2 ve M3 kategorisi araçlarda; yeni tip onayı belgesi alacak tam ve uygulanabilirliği varsa tamamlanmamış araçlar için 29/6/2009, tamamlanmış araçlar için 29/4/2010; tüm araç tip onayı mevcut tam ve uygulanabilirliği varsa tamamlanmamış araçlar için 29/10/2010, tamamlanmış araçlar için 29/10/2011 tarihinden itibaren uygulanır. Yönetmelik söz konusu araç kategorisi için aracın tip onayı belgesi ve tamamlanma durumuna göre anılan tarihlere kadar ihtiyaridir.
