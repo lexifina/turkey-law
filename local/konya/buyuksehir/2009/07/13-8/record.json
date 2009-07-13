@@ -1,0 +1,25 @@
+{
+  "number_in_summary": 8,
+  "number_basis": "item number printed in the summary",
+  "official_decision_number": null,
+  "title": "4’cü 5 yıllık imar programına ek program yapılmasına (Meram Belediyesi), dair İmar ve Bayındırlık '' raporunun aynen kabulüne,",
+  "decision_date": "2009-07-13",
+  "meeting_date": "2009-07-13",
+  "summary_heading": null,
+  "summary_title": "KARAR ÖZETİ (13.07.2009)",
+  "source": "https://www.konya.bel.tr/meclis/icerik-getir?tarih=2009-07-13&tur=2",
+  "source_page": "https://www.konya.bel.tr/meclis-encumen/meclis-gundemi-ve-kararlari?karar_yil=2009&karar_ay=7",
+  "source_sha256": "f24623f2da4574f3e21835f7e288551d5af413a8c37e90a371bd07799010d820",
+  "issuer": "Konya Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary item as published in the council's Karar Özeti; complete decision text is not published in this register",
+  "in_force": "2009-07-13",
+  "in_force_basis": "Official toplantı tarihi 2009-07-13 (the summary prints no dated heading); adoption date for the summary item; legal commencement not asserted",
+  "missing": [
+    "official decision number (not printed in the summary)",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
