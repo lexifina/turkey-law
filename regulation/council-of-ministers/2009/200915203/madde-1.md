@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı; fındık üretiminin planlanması ve dikim alanlarının belirlenmesi ile teşvik tedbirlerinin uygulanması amacıyla, Bakanlar Kurulu kararı ile izin verilen il ve ilçelerde mevcut fındık bahçelerinin ruhsatlandırılması, kayıt altına alınması ve 16/6/1983 tarihli ve 2844 sayılı Fındık Üretiminin Planlanması ve Dikim Alanlarının Belirlenmesi Hakkında Kanun hükümleri uyarınca teşvik edilmesine ilişkin usul ve esasları düzenlemektir.

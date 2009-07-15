@@ -1,0 +1,5 @@
+Kayıt altına alma
+MADDE 6 – (1) İzin verilen alanlarda fındık üretimi yapan üreticiler, Bakanlık il ve ilçe müdürlükleri tarafından fındık kayıt sistemine kaydedilir. Kaydedilen üreticilere üretici belgesi verilir.
+(2) Fındık üretimine izin verilen alanlarda yeni fındık bahçesi tesis eden, fındık bahçelerini yenileyecek olan ve sisteme kayıtlı bir fındık arazisinin mülkiyetini miras, satın alma ve benzer yollarla devralan fındık üreticileri Bakanlık il ve ilçe müdürlüklerine yeni beyanname vermek ve fındık kayıt sistemine kaydolmakla mükelleftir.
+(3) Fındık kayıt sistemine kayıtlı fındık üreticileri, Bakanlık il ve ilçe müdürlüklerine mevcut fındık üretici belgeleri ile başvurarak kayıtlarını güncellemekle mükelleftir.
+(4) Üreticinin kendi isteği ile fındık üretiminden vazgeçmesi, arazinin kamulaştırma, heyelan, tuzluluk, alkalilik ve benzer nedenlerle fındık üretimine uygunluğunun kalmaması, izin verilen araziler dışında üretim yapılması, yanlış bilgi ve belge verilmesi hâllerinde, üreticilere verilen fındık üretici belgeleri iptal edilerek, bu durum fındık kayıt sisteminde kayıt altına alınır.

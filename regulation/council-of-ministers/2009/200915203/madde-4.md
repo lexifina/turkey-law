@@ -1,0 +1,2 @@
+Fındık dikim alanlarının belirlenmesi
+MADDE 4 – (1) 22/11/2001 tarihli ve 2001/3267 sayılı Bakanlar Kurulu Kararı ile izin verilen fındık dikim alanları, Bakanlık il ve ilçe müdürlüğü tarafından il arazi varlığı raporları, arazi kullanım kabiliyeti sınıfları, tapu ve kadastro kayıtları, coğrafî bilgi sistemi uydu fotoğrafları ve haritalardan yararlanılarak tespit edilir. Tespit edilen alanlar il fındık komisyonlarınca onaylanarak kamuoyuna duyurulur.

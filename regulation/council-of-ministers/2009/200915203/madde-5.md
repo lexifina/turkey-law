@@ -1,0 +1,4 @@
+Üretim izni verilmesi
+MADDE 5 – (1) 22/11/2001 tarihli ve 2001/3267 sayılı Bakanlar Kurulu Kararı ile belirlenen fındık dikim alanlarında, fındık bahçesi tesis etmek veya mevcut fındık bahçelerinde yenilemede bulunmak isteyen üreticiler, bulundukları yerdeki Bakanlık il ve ilçe müdürlüğüne başvuruda bulunurlar.
+(2) Başvuru dilekçesinde (ek-2) çiftçi kayıt sistemi kayıt bilgileri ve talep açıkça belirtilir. Bakanlık il ve ilçe müdürlüğü, başvuru dilekçesi ve diğer ekleri alarak her üretici adına bir dosya açar. Üreticilerin beyanname bilgileri ile birlikte fındık bahçelerinin yer, mevki, eğim, bakı, yüzölçümü ve tesis tarihleri tespit edilir.
+(3) İzin verilen alanlarda bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren; Bakanlık il ve ilçe müdürlüklerinden izin alınmadan mevcut fındık bahçeleri yenilenemez ve yeni fındık bahçeleri kurulamaz. İzin alınmadan yenilenen veya yeni kurulan fındık bahçeleri hakkında 2844 sayılı Kanun hükümleri uygulanır.

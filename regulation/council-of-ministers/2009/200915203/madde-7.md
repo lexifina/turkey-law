@@ -1,0 +1,5 @@
+Denetim, sorumluluk ve cezaî hükümler
+MADDE 7 – (1) Bu Yönetmeliğin uygulanmasına yönelik işlemler Bakanlık tarafından denetlenir.
+(2) 22/11/2001 tarihli ve 2001/3267 sayılı Bakanlar Kurulu Kararı ile izin verilen alanlarda, Bakanlık il ve ilçe müdürlüklerinden izin alınmadan mevcut fındık bahçeleri yenilenemez ve yeni fındık bahçeleri kurulamaz. İzin alınmadan yenilenen veya yeni kurulan fındık bahçelerinin sahipleri ile üreticileri teşviklerden faydalandırılmazlar ve bunlar hakkında 2844 sayılı Kanun hükümleri uygulanır.
+(3) Uygulamada belirlenen ilgili merciler, kendilerine ibraz edilen belgelerin kontrolünden ve kendi hazırladıkları belgelerden sorumludur. Bu yükümlülüğü yerine getirmeyerek haksız yere ödemeye neden olanlar ile haksız yere ödemelerden yararlanmak üzere sahte veya içeriği itibarıyla gerçek dışı belge düzenleyen ve kullananlar hakkında, 5488 sayılı Tarım Kanunu ve 5237 sayılı Türk Ceza Kanununun ilgili hükümlerine göre gerekli cezaî, hukukî ve idarî işlemler yapılır.
+(4) Haksız yere yapılan ödemeler hakkında 5488 sayılı Kanunun 23 üncü maddesi hükmü uygulanır.
