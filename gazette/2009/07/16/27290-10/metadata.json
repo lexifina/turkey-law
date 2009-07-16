@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-07-16",
+  "issue": "27290",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "GENELGE",
+  "title": "DÜZELTME (2009/15198 Sayılı Bakanlar Kurulu Kararı ile İlgili)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090716-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090716.htm",
+  "index_sha256": "4d5556289318bb9110e9c1912b7898eba49a6a799121fff4ac5f5073db90f7d9",
+  "index_header": "16 Temmuz 2009 ... 27290 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
