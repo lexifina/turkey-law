@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, 3/7/2009 tarihli ve 27277 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin 2009/11 sayılı Tebliğ uyarınca 7009.91 gümrük tarife pozisyonunda yer alan İran İslam Cumhuriyeti (İran) menşeli çerçevesiz cam aynaların ithalatında, İthalatta Kota ve Tarife Kontenjanı İdaresi Mevzuatı çerçevesinde, azami 200 (iki yüz) gün süreyle uygulanacak olan miktar kısıtlamasına (kota) ilişkin başvuru ve dağıtım ile ithal lisanslarının kullanım usul ve esaslarını içermektedir.
