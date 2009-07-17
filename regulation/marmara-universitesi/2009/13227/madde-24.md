@@ -1,0 +1,4 @@
+Notlar ve başarı değerlendirmesi
+MADDE 24 – (1) Uluslararası ortak programda tarafların uyguladıkları not sistemleri ve başarı koşulları ortak protokolde ayrı ayrı tanımlanır. Başarısız olunan derslerin telafi şekilleri açıklanır. Öğrencinin mezun olması için her iki yükseköğretim kurumunun asgari akademik koşullarını sağlamış olması gerekir.
+(2) Öğrencinin katıldığı her dönem sonunda her iki üniversiteden biri tarafından hazırlanan not döküm belgesi (transkript) bilgi amacı ile diğer üniversiteye gönderilir. Öğrencinin genel not çizelgesi her iki üniversitede eşzamanlı hazırlanır. Bu çizelgede genel ve dönem ağırlıklı not ortalamaları yer alır. Öğrencinin program içindeki başarısı için her üniversite kendi ilgili mevzuat hükümlerini uygular.
+(3) Öğrencinin asgari mezuniyet koşullarını sağlaması halinde, genel ağırlıklı not ortalaması mezuniyet notu olarak hesaplanır ve her iki tarafın not döküm belgesinde bu not yer alır.

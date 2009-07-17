@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 29 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-07-17",
+      "17.07.2009",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 29 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27291",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2009-07-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Marmara Üniversitesi",
+  "issuer_slug": "marmara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/marmara-universitesi/2009/13227",
+  "published": "2009-07-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13227&MevzuatTertip=5",
+  "source_bytes": 40643,
+  "source_id": "8.5.13227",
+  "source_sha256": "dcf3b8cecf3ac6256d922dc463fc6bad7a629f79727797e5add5567ea301c833",
+  "text_status": "as-enacted",
+  "title": "MARMARA ÜNİVERSİTESİ ÇİFT DİPLOMAYA YÖNELİK ULUSLARARASI ORTAK PROGRAMLAR EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 210,
+  "word_count": 2355
+}

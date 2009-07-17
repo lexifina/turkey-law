@@ -1,0 +1,2 @@
+Öğrencilerin izlenmesi ve özel izleme
+MADDE 25 – (1) Tüm öğrenciler, her iki üniversitenin program danışmanları tarafından izlenir. Ağırlıklı not ortalaması protokolde belirlenmiş değerden düşük olan öğrenciler özel izlemeye alınır. Özel izlemeye alınan öğrenciler, not ortalamalarını diğer üniversitede yükseltemez ve bu öğrencilerin bir sonraki dönemde diğer üniversitede devamlarına izin verilmez. Bu öğrencilerin hangi koşullarda programdan çıkarılacakları ortak protokolde belirtilir.
