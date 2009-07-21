@@ -1,0 +1,2 @@
+Kapsam
+MADDE 3 – (1) 5917 sayılı Kanunun 15 inci maddesi ile 351 sayılı Kanuna eklenen geçici 4 üncü madde kapsamına, 351 sayılı Yüksek Öğrenim Kredi ve Yurtlar Kurumu Kanunu ile 2547 sayılı Yükseköğretim Kanunundan doğan ve 5917 sayılı Kanunun yürürlüğe girdiği 10 Temmuz 2009 tarihinden önce 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunu hükümlerine göre takibe alınmış ve bu tarih itibarıyla tahsil edilmemiş Kurum alacakları girmektedir.

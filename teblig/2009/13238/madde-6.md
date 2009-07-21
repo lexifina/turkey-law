@@ -1,0 +1,2 @@
+Peşin ödeme
+MADDE 6 – (1) 5917 sayılı Kanunun 15 inci maddesi ile 351 sayılı Kanuna eklenen geçici 4 üncü maddeden peşin ödeme seçeneği ile yararlanmak isteyen borçluların 5917 sayılı Kanunun yayımlandığı tarihten itibaren üç ay içinde (en son 12 Ekim 2009 tarihi mesai saati bitimine kadar) peşin ödeme hükmüne göre hesaplanan borçlarını defaten ödemeleri gerekmekte olup bu takdirde gecikme zammının yüzde yetmiş beşi terkin edilecektir. Peşin ödeme T.C. Ziraat Bankası Şubelerinden kredi numarası belirtilmek suretiyle yapılacaktır.

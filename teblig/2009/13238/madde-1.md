@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı; 5917 sayılı Bütçe Kanunlarında Yer Alan Bazı Hükümlerin İlgili Kanun ve Kanun Hükmünde Kararnamelere Eklenmesi ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına İlişkin Kanun’un 15 inci maddesi ile 351 sayılı Yüksek Öğrenim Kredi ve Yurtlar Kurumu Kanununa eklenen geçici 4 üncü maddesinin verdiği yetkiye istinaden anılan maddenin uygulamasına ilişkin usul ve esasları belirlemektir.
