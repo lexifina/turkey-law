@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "genel-yazi",
+  "number": null,
+  "source_id": 146,
+  "date": "2009-07-21",
+  "title": "492 SAYILI HARÇLAR KANUNUNA BAĞLI (8) SAYILI TARİFEYE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/genelyazilar/146",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/genelYazilar/list",
+  "source_listing": "evidence/list/2026-11-16/genelYazilar-p000.json",
+  "source_listing_sha256": "7fa6cf53cc6e422afa260107b4b730e46ac896bef1c1d196cf603add29126053",
+  "source_sha256": "480a855659eab65434e496c90a3acc563759fa641a8339e3fb0063c262b111f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
