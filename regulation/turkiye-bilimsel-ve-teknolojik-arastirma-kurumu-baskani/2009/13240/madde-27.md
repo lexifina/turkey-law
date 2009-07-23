@@ -1,0 +1,8 @@
+ALTINCI BÖLÜM
+Tekliflerin Değerlendirilmesi
+Tekliflerin hazırlanması ve sunulması
+MADDE 27 – (1) Açık ihale usulü ile yapılan ihalelerde teklif mektubu ve geçici teminata ilişkin belge dahil olmak üzere ihaleye katılabilme şartı olarak istenilen bütün belgeler; belli istekliler arasında ihale usulü ile yapılan ihalelerde teklif mektubu ve geçici teminata ilişkin belge zarfa konulur. Pazarlık usulü ile yapılan ihalelerde ise idarece istenen yeterlik belgeleri ile teklif mektubu ve istenmiş ise geçici teminata ilişkin belge bir zarfa konulur. Teklifler istekliler tarafından imzalanır ve mühürlenir. Zarfın üzerine isteklinin adı, soyadı veya ticaret unvanı, tebligat adresi, teklifin hangi işe ait olduğu yazılır. Zarfın yapıştırılan yeri istekli tarafından imzalanır ve mühürlenir.
+(2) Teklif mektubunda ihale dokümanının tamamen okunup kabul edildiğinin belirtilmesi, teklif edilen bedelin rakam ve yazı ile birbirine uygun olarak açıkça yazılması, üzerinde kazıntı, silinti, düzeltme bulunmaması zorunludur.
+(3) Teklifler ihale dokümanında belirtilen ihale saatine kadar sıra numaralı alındılar karşılığında İdareye verilir. Bu saatten sonra verilen teklifler kabul edilmez ve açılmaksızın iade edilir. Posta ile gönderilecek tekliflerin ihale dokümanında belirtilen ihale saatine kadar İdareye ulaşması şarttır. Postadaki gecikme nedeniyle işleme konulmayacak olan tekliflerin alınış zamanı bir tutanakla tespit edilir.
+(4) Verilen teklifler, zeyilname düzenlenmesi hali hariç, herhangi bir sebeple geri alınamaz ve değiştirilemez.
+(5) 21 inci maddenin birinci fıkrasının (d) bendi uyarınca yapılan ihalelerde, istekliler 12 nci maddede belirtilen hususlar aranmaksızın elektronik ortamda veya faks ile de teklif verebilirler.

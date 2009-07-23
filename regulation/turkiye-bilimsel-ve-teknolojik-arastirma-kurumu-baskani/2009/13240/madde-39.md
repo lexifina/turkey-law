@@ -1,0 +1,2 @@
+Kesin teminat
+MADDE 39 – (1) Taahhüdün sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla, sözleşmenin yapılmasından önce ihale üzerinde kalan istekliden ihale bedeli üzerinden hesaplanmak suretiyle % 6 oranında kesin teminat alınır. Ancak, 30 gün içinde yerine getirilecek taahhütlerde ve yurtdışından yapılması zorunlu olan alımlarda ihale yetkilisinin onayı ile kesin teminat alınmayabilir.

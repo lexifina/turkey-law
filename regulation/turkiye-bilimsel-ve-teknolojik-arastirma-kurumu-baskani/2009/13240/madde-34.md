@@ -1,0 +1,2 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 34 – (1) İhale yetkilisinin onayından önceki herhangi bir aşamada, ihale komisyonu kararı üzerine İdare, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere derhal bildirilir. İdare, bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Ancak, İdare isteklilerin talepte bulunması halinde, ihalenin iptal edilme gerekçelerini talep eden isteklilere bildirir.

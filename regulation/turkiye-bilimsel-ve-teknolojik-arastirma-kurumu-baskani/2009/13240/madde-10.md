@@ -1,0 +1,2 @@
+İhale işlem dosyası
+MADDE 10 – (1) İhalesi yapılacak her iş için İdare tarafından bir işlem dosyası düzenlenir. Bu dosyada onay belgesi, yaklaşık maliyeti, ihale dokümanı, davet mektupları veya yapılmış ise ilan metinleri, adaylar veya istekliler tarafından yapılan başvurular, ihale teklifleri ve varsa diğer belgeler, ihale komisyonu tutanak ve kararları gibi ihale süreci ile ilgili bütün belgeler bulunur.

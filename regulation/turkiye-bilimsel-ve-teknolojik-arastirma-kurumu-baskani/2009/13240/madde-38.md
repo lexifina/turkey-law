@@ -1,0 +1,3 @@
+Sözleşmeye davet
+MADDE 38 – (1) 37 nci maddede belirtilen sürelerin bitimini, ön mali kontrol yapılması gereken hallerde ise bu kontrolün tamamlandığı tarihi izleyen günden itibaren üç gün içinde ihale üzerinde kalan istekliye, tebliğ tarihini izleyen 10 gün içinde kesin teminat ile 12 nci maddede sayılan belgeleri vermek suretiyle sözleşmeyi imzalaması hususu bildirilir. Yabancı istekliler için bu süreye oniki gün ilave edilir. Sözleşmenin imzalanacağı tarihte ihale sonuç bilgileri Kamu İhale Kurumuna gönderilmek suretiyle ihale üzerinde kalan isteklinin ihalelere katılmaktan yasaklı olup olmadığının teyit edilmesi zorunludur.
+(2) Her yıl Bilim Kurulunca belirlenen eşik değerlerin altındaki taahhütlerde sözleşme yapma zorunluluğu yoktur.
