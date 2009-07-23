@@ -1,0 +1,4 @@
+Kontroller
+MADDE 9 – (1) Tesisatın durumunu belirlemek için yapılan ölçme, deney ve değerlendirmeler kontrol kapsamında yer alır. Kontroller, yeni tesisatlar için TS EN 1709 standardı, eski tesisatlar için ise iyi mühendislik uygulamaları esas alınarak ilk kontrol günlük, aylık, yıllık ve tesisatın durumuna göre bir yıldan uzun aralıklarla veya özel kontroller şeklinde gerçekleştirilir.
+(2) Kontrollerde esas yapımcının belirlediği talimatlara uyulur. Kontrollerin sonuçları işletme teknik personeli tarafından kayıt altına alınır. Tesisat işletmecisi kontrollerin düzenli olarak yaptırılmasından ve kontrol sonuçlarının muhafazasından sorumludur.
+(3) Kontroller neticesinde, tesisatın çalıştırılmasında can ve mal güvenliğini tehlikeye atacak uygunsuzlukların tespit edilmesi durumunda, söz konusu uygunsuzluklar giderilinceye kadar tesisat işletmecisi, tesisatın işletmesini durdurarak gerekli bütün tedbirleri almaktan sorumludur.
