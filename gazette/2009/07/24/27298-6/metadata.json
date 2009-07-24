@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-07-24",
+  "issue": "27298",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "2009/15212 Deniz Turizmi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090724-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090724.htm",
+  "index_sha256": "a87c9c2367b3443de913c3e0f08db8ea4f3174ce2779a4d411aa09fe5d3dd1a3",
+  "index_header": "24 Temmuz 2009 ... 27298 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
