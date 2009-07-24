@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.13247",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO:11)",
+  "number": "13247",
+  "issuer": "Gümrük Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2009/13247",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13247&MevzuatTertip=5",
+  "source_sha256": "c058b187ef684e793c086ce37f534d2d73f4e9afb18e8909baaaf324c8af29b9",
+  "source_bytes": 238314,
+  "published": "2009-07-24",
+  "gazette": "27298",
+  "in_force": "2009-07-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.07.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4047,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.tureng.com/search/metabisülfit"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
