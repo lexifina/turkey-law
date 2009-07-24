@@ -1,0 +1,3 @@
+Faaliyetlerin durdurulması
+MADDE 17 – (1) Denetlemeler esnasında veya herhangi bir sebeple yapılan tetkikler sonucunda çevre mevzuatına uygun olmayan hususların tespit edilmesi durumunda, söz konusu aksaklıkları düzeltmek amacıyla ilgili birlik/kuruma bir yılı aşmamak üzere süre verilir. Verilen süre kapsamında aksaklık giderilmemiş ise tesisin faaliyetinin belirli bir süre durdurulması konusunda ilgili kuvvet komutanlığı ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığına teklifte bulunulur.
+(2) Tespit edilen aksaklıkların çevre ve insan sağlığı yönünden tehlike yaratması durumunda süre verilmeksizin faaliyetlerin durdurulması için hemen işlem başlatılır.

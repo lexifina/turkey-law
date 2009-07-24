@@ -1,0 +1,4 @@
+Yıllık denetim programı
+MADDE 14 – (1) Yıllık denetim programları dış denetimler için Genelkurmay Başkanlığı, Millî Savunma Bakanlığı, kuvvet komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca hazırlanır ve uygulanır. İç denetimler için ilgili birlik veya kurum tarafından, sorumluluğunda bulunan tüm askerî birlik, tesis ve askerî bölgeler ile faaliyet ve tatbikatları kapsayacak şekilde hazırlanır. Yıllık denetim programına alınan tesisler ve faaliyetlerin yılda en az bir defa çevre denetimi yapılması sağlanır.
+(2) Yılık denetim programına alınan tesis ve faaliyetlerin denetimleri haberli yapılması durumunda, denetlemeden en az bir hafta önceden yıllık denetim programına alındıkları bildirilir.
+(3) Kaza, ihbar, şikâyet gibi durumlarda veya ilgili birlik komutanı/kurum amirinin gerekli gördüğü hallerde denetim programına bağlı kalınmaksızın denetim icra edilebilir.
