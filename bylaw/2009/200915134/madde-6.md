@@ -1,0 +1,34 @@
+Yapacakları işler, hak ve yetkiler
+MADDE 6 – (1) Serbest yeminli meslek mensupları, Kanunun 4 üncü maddesindeki faaliyet konularıyla sınırlı olmak kaydıyla aşağıdaki işleri yapar, hak ve yetkileri kullanırlar:
+a) Araştırma-geliştirme çalışmaları: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin birim zaman analizi, teknik, biyolojik, ekolojik, ekonomik, kültürel, çevresel ve benzeri konulardaki çalışmalardır.
+b) Çevresel muhasebe: Çevre kaynaklarının kullanımı ve kullanımlar sonucunda bu kaynaklarda meydana gelecek azalma ve bozulmaların tespiti ile ulusal hesaplar sistemi içinde
+muhasebeleştirilmesidir.
+c) Keşif: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisiyle ilgili projelere dayalı keşiflerin hazırlanması, keşfe esas olacak arazi incelemelerinin yapılması ve bu konudaki tutanakların düzenlenmesi ile ihalelere ilişkin dosyaların hazırlanması çalışmalarıdır.
+ç) Zarar ve ziyan belirlemek: Biyotik veya abiyotik orijinli orman zararlıları, teknik eksiklik, yangın, tabii afetler ve benzeri nedenlerle ormanlarda, orman alanlarında, orman ürünlerinde ve tesislerinde meydana gelen zarar ve ziyanın tespiti, değerlendirilmesi ve rapora bağlanmasıdır.
+d) Kıymet takdiri: Orman kaynaklarının stok değerleri ile bu kaynakların işlevsel akım değerlerinin belirlenmesi ve rapora bağlanması çalışmalarıdır.
+e) Maliyet hesaplamak: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin faaliyetlerin tahmini girdi maliyetleri ile bu faaliyetler sonucu ortaya çıkan kesin çıktı maliyetlerinin hesaplanmasıdır.
+f) Fizibilite raporu hazırlamak: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin kurulacak tesisler ile yapılması öngörülen benzeri yatırımların fizibilite raporlarının hazırlanmasıdır.
+g) Tasarım faaliyetleri: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin makine, donanım ve ürün çıktısı gibi konularda tasarım çalışmalarının yapılmasıdır.
+ğ) Plan ve projeler hazırlamak ve uygulamak: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin plan ve projelerin hazırlanması ve bunların uygulanmasına ilişkin çalışmalardır.
+h) Standardizasyon çalışmaları: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin faaliyetlerin, odun ve odun dışı ürünlerin, çıktıların, hizmetlerin, araç ve gereçlerin ve ergonomi gibi konuların standardizasyon esaslarını belirlemek ve ilgili çıktıların yürürlükteki standardizasyon esaslarına uygunluğunu tespit etmektir.
+ı) Sertifikalandırma: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin tüm faaliyet ve çıktıların, bu konudaki kontrol yöntemleri uygulanmak suretiyle mevzuata uygun olarak yapıldığını belgelemek ve belirlenecek esaslar çerçevesinde uygunluk belgesi vermektir.
+i) Kalite kontrolü: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin faaliyet, hizmet ve ürün çıktılarının standartlara uygunluğunu kontrol etmek ve rapora bağlamaktır.
+j) Stok kontrolü: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin faaliyetler sonucunda elde edilen ürünlerin stok kontrollerinin mevzuata uygun olarak yapılmasıdır.
+k) Denetim: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisi alanında yapılan işlerin mevzuata, şartname ve sözleşmelere uygun olarak yapılıp yapılmadığının her aşamada denetlenmesidir.
+l) Muayene: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin kabulü istenilen konuların ilgili mevzuata, şartname ve sözleşmelere uygunluğunu, bu konuda belirlenmiş yöntemlere göre muayene etmek suretiyle tespit etmek ve belgeye bağlamaktır.
+m) Hakemlik: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin uyuşmazlıkları 18/6/1927 tarih ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanununda yer alan tahkim sözleşmesi hükümleri gereğince çözüme kavuşturmaktır.
+n) Eksperlik: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin gerçek ve tüzel kişilerin eksperlik hizmeti ihtiyaçlarını mevzuata uygun olarak yerine getirmektir.
+o) Teknik müşavirlik: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin olarak gerçek ve tüzel kişilere teknik müşavirlik hizmeti sunulmasıdır.
+ö) Danışmanlık: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin olarak teknik, ekonomik, ekolojik, çevresel ve benzeri konularda danışmanlık hizmeti verilmesidir.
+p) Yeminli danışmanlık: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin gerçek ve tüzel kişilerin yeminli danışmanlık hizmeti ihtiyaçlarını mevzuata uygun olarak yerine getirmektir.
+r) Bilirkişilik: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin olarak teknik, ekonomik, ekolojik, çevresel ve benzeri konularda bilirkişilik yapılmasıdır.
+s) Yeminli bilirkişilik: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin adli ve idari yargının yeminli bilirkişilik ihtiyacını mevzuata uygun olarak yerine getirmektir.
+ş) Rapor hazırlamak: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin gerçek ve tüzel kişilerin ihtiyaç duydukları her türlü teknik, idari ve benzeri raporları hazırlamaktır.
+t) Laboratuvar açmak: Mevzuatına uygun olarak ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin teknik donanımlı laboratuvar açmak ve yönetmektir.
+u) Özel müesseseler ve işletmeler kurmak: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin konularda, ticari esaslara uygun olarak tek başlarına veya ortaklık halinde özel müessese ve işletmeler kurmaktır.
+ü) Özel müesseseler ve işletmeleri yönetmek: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisi konularında kurulmuş olan özel müesseseler ve işletmeleri süreli gün çalışma esası kapsamında yönetmektir.
+v) Ormancılık karantina hizmetleri: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisi alanında yapılan ihracat ve ithalatın 15/5/1957 tarih ve 6968 sayılı Zirai Mücadele ve Zirai Karantina Kanunu hükümlerine göre fümigasyon ve karantina hizmetlerini yürütmektir.
+y) Ormancılık rehberlik hizmetleri: Ormancılık, orman endüstrisi ve ağaç işleri endüstrisine ilişkin teknik, ekonomik, ekolojik, çevresel, biyolojik, kültürel ve benzeri konularda rehberlik hizmetlerinin verilmesidir.
+z) İhracat ve ithalata ilişkin hizmetler: Her türlü odun, odun türevleri ve odun dışı ürünler ve türevleri, ağaç, ağaççık, fidan, çalı ve benzeri orman bitkileri ile ormancılıkta, orman endüstrisi ve ağaç işleri endüstrisinde kullanılacak donanım, alet, edevat, hormon ve ilacın ihraç ve ithal edilebilmesi için ihracat ve ithalat mevzuatında öngörülen rapor, beyanname ve benzeri belgelerin düzenlenmesine ilişkin çalışmalardır.
+(2) Yapılacak işlerde, yardımcı personel ve teknisyen ile konunun uzmanı mühendis çalıştırılabilir veya onlardan danışmanlık hizmeti alınabilir.
+(3) Yukarıda belirtilen işler, ortak faaliyet alanları içinde ise mevzuatla yetkilendirilmiş, Kanun kapsamı dışındaki diğer meslek mensuplarıyla beraber yapılır.
