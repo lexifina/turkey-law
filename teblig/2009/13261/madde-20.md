@@ -1,0 +1,2 @@
+Soruşturmaya tabi ülkenin pazar payı
+MADDE 20- (1) ÇHC’nin, bahse konu halkalı zincirler için Türkiye pazarından aldığı pay incelendiğinde, 2005 yılında endeks değeri 100 olan pazar payının, 2006 yılında 79’a gerilediği, 2007 yılında 97 ve 2008 yılında 125’e ulaştığı görülmektedir. Yerli üretim dalının 2005 yılında 100 olan pazar payı endeks değeri, 2006 yılında 107’ye ulaşmış, 2007 yılında 96’ya ve 2008 yılında 90’a gerilemiştir.

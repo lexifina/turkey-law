@@ -1,0 +1,2 @@
+Önlem konusu ürünün Türkiye toplam tüketimi
+MADDE 19- (1) Soruşturma konusu ürünün Türkiye toplam tüketimi hesaplanırken 2008 yılına ait şikayetçi yerli üretici (Evren Zincir A.Ş.) ve şikayeti destekleyen Zintaş Kastamonu Zincir Sanayi ve Ticaret A.Ş.’den temin edilen yurtiçi satış miktarları ile ilgili yıla ait toplam ithalat değerleri toplanmıştır. Bu çerçevede 2005 yılında 100 olan tüketim endeksinin 2006 yılında 123, 2007 yılında 137 ve 2008 yılında 122 olduğu görülmüştür.

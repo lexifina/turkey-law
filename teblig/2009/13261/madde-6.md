@@ -1,0 +1,2 @@
+Gözden geçirme dönemi
+MADDE 6- (1) Önlemin yürürlükten kalkması durumunda, dampingin ve zararın devamı veya yeniden meydana gelmesinin muhtemel olup olmadığının değerlendirilmesine esas teşkil etmek üzere 1/1/2005 sonrası dönem esas alınmıştır. Bununla birlikte, ÇHC’nin dünya piyasasındaki konumu ve fiyatlama eğilimine ilişkin olarak, mevcut olduğu ölçüde, 2003 sonrası veriler de dikkate alınmıştır. Yerli üretim dalının ekonomik göstergeleri, önlem sonrası gelişimin izlenebilmesine imkan verecek biçimde 1/1/2005–30/06/2008 arası dönem için analiz edilmiştir.
