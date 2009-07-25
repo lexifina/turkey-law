@@ -1,0 +1,4 @@
+Başvuru konusu madde
+Madde 2- (1) Başvuru konusu madde normal olarak “8415.83.00.90.00-Diğerleri” gümrük tarife istatistik pozisyonu altında beyan edilmekte olup, yerli üretim dalından alınan bilgiler ışığında “belirli salon tipi sıcak ve soğuk hava cihazları (fancoil)” olarak adlandırılmaktadır.
+(2) Basitçe radyatörün gelişmişi olup soğutma da yapabilmekte ve ortamı sıcak veya soğuk hava üfleyerek iklimlendirmektedir. Söz konusu ürün bünyesinde iki ana temel ürün olarak batarya ve fan – motor grubu bulunmaktadır. Merkezi kazan dairesi veya soğutma merkezinde ısıtılan/soğutulan su, pompa vasıtası ile ürün içindeki bataryadan geçer ve fan grubu da mekana ısıtılan veya soğutulan havayı üfleyerek ortamı iklimlendirir. Ürün genellikle soğutma ihtiyacı hissedilen tüm büyük hacimli binalarda kullanılabilmektedir.
+(3) Bahse konu gümrük tarife istatistik pozisyonu, yalnızca bilgi amaçlı verilmiş olup, bağlayıcı değildir.

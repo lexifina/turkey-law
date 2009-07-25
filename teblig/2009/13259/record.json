@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.13259",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2009/23)",
+  "number": "13259",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı bulunduğu Bakan",
+  "path": "teblig/2009/13259",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13259&MevzuatTertip=5",
+  "source_sha256": "04afee403eeb154922e6f4b68339047e4c011cff53f9b75a4d82bdf801e9205c",
+  "source_bytes": 33122,
+  "published": "2009-07-25",
+  "gazette": "27299",
+  "in_force": "2009-07-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.07.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1056,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
