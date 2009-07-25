@@ -1,0 +1,6 @@
+Zarar ve nedensellik iddiası
+MADDE 5 – (1) Eldeki verilerle hesaplanan damping marjının önemli oranlarda olduğu anlaşılmıştır.
+(2) ÇHC menşeli ithalatın, toplam ithalat içerisindeki payı 2006-2008 dönemi arasında yüksek oranlı artış göstermiştir. Aynı dönemde, pazardaki büyümeye rağmen yerli üretim dalının iç piyasa satışlarının mutlak ve nispi olarak gerilediği ve pazar payının önemli oranda azaldığı, buna mukabil söz konusu büyüyen pazarın tamamen ÇHC menşeli şikayetkonusu ürün tarafından doldurulduğu tespit edilmiştir.
+(3) Yerli üretim dalının satış fiyatları şikayete konu ülke menşeli ithalat sonucu oluşan fiyat baskısı nedeniyle ticari maliyetlerinin altında kalmıştır. Hesaplamalarda fiyat baskısının önemli oranlarda olduğu görülmüştür.
+(4) Yerli üretim dalının sınai maliyetlerindeki reel gerilemeye rağmen, şikayete konu dampingli ithalata paralel olarak yurtiçi satış, üretim, kapasite, pazar payı, stoklar, nakit akışı, istihdam ve ücretler gibi ekonomik göstergelerinde bozulmalar olduğu tespit edilmiştir.
+(5) Başvuru aşamasında sunulan deliller ve ithalata ilişkin resmi istatistikler esas alınarak yapılan tespitler ışığında, şikâyete konu ÇHC menşeli, dampingli olduğu iddia edilen ithalatın yerli üretim dalının ekonomik göstergelerinde olumsuzluklara yol açtığı değerlendirilmiştir.
