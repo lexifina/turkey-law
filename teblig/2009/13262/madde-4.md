@@ -1,0 +1,3 @@
+Karar ve işlemler
+MADDE 4 – (1) Anılan başvuru sonrası yapılan incelemeler sonucunda önlemlerin etkisiz kılınmasına karşı bir soruşturmanın açılabilmesi için yeterli bilgi, belge ve delillerin mevcut olduğu anlaşıldığından, 16/07/2009 tarihinde İthalatta Haksız Rekabeti Değerlendirme Kurulunca Vietnam, Endonezya, Filipinler, Pakistan ve Mısır menşeli/çıkışlı başvuru konusu madde için Yönetmeliğin 38 inci maddesi çerçevesinde önlemlerin etkisiz kılınmasına karşı soruşturma açılmasına karar verilmiştir.
+(2) Soruşturma, Dış Ticaret Müsteşarlığı (DTM) İthalat Genel Müdürlüğü tarafından yürütülecektir.

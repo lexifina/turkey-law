@@ -1,0 +1,4 @@
+Önlemlerin etkisiz kılındığına ilişkin bulgular
+MADDE 3 – (1) İç pazarda yaşanan hızlı büyüme ile birlikte bahse konu ürünün genel ithalatında hızlı bir artışın olduğu, bununla birlikte anılan ticaret politikası önlemi sonrası ÇHC’den yapılan ithalatta bir düşüş eğilimi ile birlikte üçüncü ülkelerden artış eğilimi görüldüğü tespit edilmiştir.
+(2) Mevcut bilgiler ışığında Vietnam, Endonezya, Filipinler, Pakistan ve Mısır ile Türkiye arasında ticaretin şeklinde ani ve önemli değişmeler olduğu ve söz konusu değişikliklerin mezkûr önlemin etkisiz kılınmasına yönelik faaliyetlerden kaynaklandığına işaret eden ciddi bilgi ve bulguların varlığı tespit edilmiştir.
+(3) Bu nedenle, söz konusu dampinge karşı önlemin yürürlüğe girmesi sonrasında önlemin miktar ve değer açısından yerli üretim dalı üzerinde beklenen iyileştirici etkisinin tam olarak görülmediği değerlendirilmiştir.

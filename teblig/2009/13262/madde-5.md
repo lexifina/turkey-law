@@ -1,0 +1,3 @@
+Soru formları ve bilgilerin toplanması
+MADDE 5 – (1) Soruşturma için gerekli bilgilerin temini amacıyla, söz konusu maddenin yerli üreticilerine, bilinen ithalatçılarına ve soruşturma kapsamına giren bilinen yabancı üretici/ihracatçılarına soruşturmanın açılışına ilişkin bildirim gönderilecektir. Bildirimi almayan tarafların soru formunu DTM internet sayfasındaki ilgili bölümden indirmeleri mümkün bulunmaktadır.
+(2) Ayrıca, ilgili ülkelerdeki üretici ve ihracatçıların bilgilendirilmesini kolaylaştırmak ve çabuklaştırmak amacıyla Vietnam, Endonezya, Filipinler, Pakistan ve Mısır’ın Türkiye’deki resmi temsilciliklerine bildirim yapılacaktır.
