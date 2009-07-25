@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-07-25",
+  "issue": "27299",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2009/22)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090725-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/07/20090725.htm",
+  "index_sha256": "1862b62eae6395e8c027890f8e3a4d70cc3842b31ef2772c99cc46b85d0943fa",
+  "index_header": "25 Temmuz 2009 ... 27299 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
