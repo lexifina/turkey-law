@@ -1,0 +1,2 @@
+Danışma kurulu
+MADDE 10 – (1) Danışma Kurulu; çalışma alanı ile ilgili görüş ve önerileri belirlemek amacıyla en az yılda iki defa olağan toplanır. Ancak; Rektör veya Müdür gerekli gördüğünde ya da üyelerin salt çoğunluğunun talebi gündemli olarak toplantıya çağrılabilir. Bu kurul bir Rektör Yardımcısı, Merkez Müdürü, Çanakkale Onsekiz Mart Üniversitesi Su Ürünleri Fakültesi temsilcisi, Fen-Edebiyat Fakültesi Temsilcisi (Arkeoloji Bölümü), Tıp Fakültesi Temsilcisi, İl Genel Meclis üyesi, Belediye Başkanlığı temsilcisi, Sualtı Federasyonu temsilcilerinden oluşur.

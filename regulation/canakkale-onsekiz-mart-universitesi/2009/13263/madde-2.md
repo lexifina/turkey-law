@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Çanakkale Onsekiz Mart Üniversitesi bünyesindeki sualtı ve kıyısal bölgelerimizdeki canlı kaynakları, jeoloji, arkeoloji, jeofizik, deniz kimyası, coğrafik çalışmalar, güzel sanatlar, sualtı hekimliği, sualtı fiziği, arkeoloji ve tarih konularında her türlü sualtı araştırmalarını ve bu konularla ilgili kurs, sualtı sportif yarışmalar, seminer, konferans, çalıştay, bilimsel geziler, sergiler ve yayınlar gibi faaliyetleri kapsar.
