@@ -1,0 +1,8 @@
+İKİNCİ KISIM
+Soruşturma Konusu Ürün ve Benzer Ürün
+Soruşturma konusu ürün ve benzer ürün
+MADDE 6- (1) Soruşturma konusu ürün, ÇHC menşeli 8301.40.11.00.00, 8301.40.19.00.00, 8301.60.00.00.00 gümrük tarife istatistik pozisyonları altında yer alan “topuzlu kapı kilidi (elektromekanik olanlar hariç), diğer kapı kilitleri (elektromekanik olanlar hariç), yalnız kapı kilitleri için silindir – bareller ile kilit kasası”dır.
+(2) Yerli üretim dalı tarafından imal edilen kapı kilitleri ile soruşturma konusu ülke menşeli kapı kilitlerinin benzer ürün olduğu tespiti mevcut önleme esas soruşturmada (esas soruşturma) yapılmıştır. Bu soruşturmada ise gerek yerli üretim dalı tarafından üretilen gerekse soruşturma konusu ülkeden ithal edilen önleme konu ürünün işlevsel özellikleri, fiziksel özellikleri, kullanım alanları, dağıtım kanalları, kullanıcıların ürünü algılaması ve birbirini ikame edebilmeleri açısından benzer ürün olma durumunu ortadan kaldıracak bir değişiklik olduğuna dair herhangi bir görüş alınmamış ve bu yönde bir tespitte bulunulmamıştır.
+(3) Bu çerçevede, ÇHC menşeli soruşturma konusu ürün ile yerli üretim dalı tarafından imal edilen kapı kilitlerinin benzer ürün olduğu tespiti geçerliliğini korumaktadır.
+(4) Soruşturmada, soruşturma konusu maddenin yukarıda belirtilen GTİP’ler dışında bir sınıflandırma altında ithal edildiğine ilişkin herhangi bir bulguya ulaşılmamıştır.
+(5) Soruşturma konusu ürün ile ilgili açıklamalar genel içerikli olup uygulamaya esas olan GTİP ve karşılığı eşya tanımıdır. Bununla beraber, soruşturma konusu eşyanın Türk Gümrük Tarife Cetveli’nde yer alan tarife pozisyonunda ve/veya tanımında yapılacak değişiklikler, bu Tebliğ hükümlerinin uygulanmasına halel getirmez.

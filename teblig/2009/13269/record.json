@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.13269",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2009/21)",
+  "number": "13269",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2009/13269",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13269&MevzuatTertip=5",
+  "source_sha256": "8246313efc1f65ea4e22b4f06d9d9627c789927b861e7554d095e94110425193",
+  "source_bytes": 99199,
+  "published": "2009-07-30",
+  "gazette": "27304",
+  "in_force": "2009-07-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.07.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3747,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2013/01/20130131-19.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
