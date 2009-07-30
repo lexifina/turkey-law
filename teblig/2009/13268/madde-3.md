@@ -1,0 +1,2 @@
+Karar
+MADDE 3- (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 5402.31 gümrük tarife pozisyonunda sınıflandırılan eşyanın İran İslam Cumhuriyeti menşeli olanlarının ithalatında uygulanmakta olan korunma önleminin uygulama süresinin 3 (üç) yıl süreyle uzatılmasına, söz konusu önlemin ek mali yükümlülük şeklinde uygulanmasına ve ek mali yükümlülüğün uygulamanın 1. yılı için 1,35 ABD Doları/brüt kg, 2. yılı için 1,30 ABD Doları/brüt kg, 3. yılı için 1,25 ABD Doları/brüt kg olarak tespit edilmesi hususunda Bakanlar Kurulu’na öneride bulunulmasına karar vermiştir.
