@@ -1,0 +1,2 @@
+Yazılı Sınavlara İtiraz
+Madde 17 — Adaylar teorik sınav sonuçlarına itiraz edebilirler. İtirazlar sınav sonuçlarının adaylara duyurulmasından itibaren 10 (on) gün içinde dilekçe ile Eğitim ve Sınav İl Komisyonuna yapılır. Eğitim ve Sınav İl Komisyonu itirazları 3 (üç) gün içinde Eğitim ve Sınav Merkez Komisyonuna iletir. Bu Komisyon itirazları 10 (on) gün içinde inceleyerek karara bağlar ve sonuç itiraz edene yazılı olarak bildirilir. İtiraz üzerine verilen kararlar kesindir.

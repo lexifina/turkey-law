@@ -1,0 +1,3 @@
+Eğitim ve Sınav İl Komisyonlarının Oluşumu
+Madde 10 — Eğitim ve sınav yapılacak illerde oluşturulacak Eğitim ve Sınav İl Komisyonu 7 üyeden oluşur. Bu üyeler; il sağlık müdürü veya müdür yardımcısı başkanlığında, il millî eğitim müdürünün belirleyeceği meslekî eğitim merkezi müdürü veya müdür yardımcısı, sağlık müdürlüğü ağız ve diş sağlığı şube müdürü, o ildeki Diş Hekimleri Oda Temsilcisi, Diş Protez Teknisyenleri Odası veya Derneği Temsilcisi ile teorik ve pratik eğitimleri veren bir diş hekimi ve bir usta öğreticiden oluşur.
+Komisyon en az 5 üye ile toplanır. Kararlar oy çokluğu ile alınır.

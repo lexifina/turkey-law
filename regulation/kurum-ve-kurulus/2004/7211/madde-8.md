@@ -1,0 +1,3 @@
+Eğitim ve Sınav Merkez Komisyonunun Oluşumu
+Madde 8 — Eğitim ve Sınav Merkez Komisyonu;7 üyeden oluşur. Bu üyeler Sağlık Bakanlığı Müsteşarı veya görevlendireceği Müsteşar Yardımcısının başkanlığında, Tedavi Hizmetleri, Temel Sağlık Hizmetleri, Sağlık Eğitimi Genel Müdürlükleri ile Millî Eğitim Bakanlığı Çıraklık ve Yaygın Eğitim Genel Müdürlüğünden Genel Müdür Yardımcısı veya Daire Başkanı, Türk Dişhekimleri Birliği ve Ankara Diş Protez Teknisyenleri Odası tarafından belirlenen birer temsilciden oluşur.
+Eğitim ve Sınav Merkez Komisyonu en az 5 üye ile toplanır ve kararlar oy çokluğu ile alınır.
