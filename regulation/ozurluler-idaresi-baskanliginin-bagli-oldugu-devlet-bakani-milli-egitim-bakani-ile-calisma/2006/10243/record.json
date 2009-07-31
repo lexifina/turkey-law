@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.10243",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL MESLEKİ REHABİLİTASYON MERKEZLERİ HAKKINDA YÖNETMELİK",
+  "number": "10243",
+  "issuer": "Özürlüler İdaresi Başkanlığının bağlı olduğu Devlet Bakanı, Milli Eğitim Bakanı ile Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "ozurluler-idaresi-baskanliginin-bagli-oldugu-devlet-bakani-milli-egitim-bakani-ile-calisma",
+  "path": "regulation/ozurluler-idaresi-baskanliginin-bagli-oldugu-devlet-bakani-milli-egitim-bakani-ile-calisma/2006/10243",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10243&MevzuatTertip=5",
+  "source_sha256": "b6cc381b59410da59ca427107e271eb8e431b4152c2520eb3577dc3f95f4a84a",
+  "source_bytes": 37231,
+  "published": "2006-05-02",
+  "gazette": "26156",
+  "in_force": "2009-07-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.31/7/2009\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2009-07-31",
+      "R.G.31/7/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-07-31",
+      "31/7/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1323,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
