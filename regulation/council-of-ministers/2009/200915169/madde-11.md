@@ -1,0 +1,2 @@
+Kurum içi ve kurum dışı yazışma
+MADDE 11 – (1) Kurum içi ve kurum dışı görüş, bilgi ve belge talep yazıları günlü yazılır. İlgili mevzuatındaki özel hükümler saklı kalmak kaydıyla, idareler belge taleplerini en geç beş gün, bilgi ve görüş taleplerini ise en geç onbeş gün içinde yerine getirir. İdare, bilgi ve görüş yazıları için onbeş günü geçmemek üzere ek süre kullanabilir. Bu yazışmalar elektronik ortamda da yapılabilir.
