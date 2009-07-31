@@ -1,0 +1,2 @@
+Dayanak ve Kapsam
+Madde 2- 657 sayılı Devlet Memurları Kanunu ile 233 ve 399 sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararnameler ve Türkiye Elektrik İletim Anonim Şirketi Ana Statüsü hükümlerine dayanılarak hazırlanan bu Yönetmelik Türkiye Elektrik İletim A.Ş. Genel Müdürlüğü Merkez ve Taşra teşkilatında istihdam edilen ve İş Kanunu kapsamı dışında kalan personel hakkında uygulanır.

@@ -1,0 +1,2 @@
+İşe Alınacaklarda Aranılacak Özel Şartlar
+Madde 12- Özel şartlar, hizmet gruplarına alınacak sözleşmelilerde görev ve hizmetin niteliği dikkate alınarak genel şartlara ilaveten aranılacak şartlar olup, bu şartlar hizmet grubunun öngördüğü öğretim ve eğitim kurumlarıyla bunların ilgili bölümleri, lisan bilgisi, iş tecrübesi, mesleki ehliyet, kurs oda kaydı ve benzeri belgeler, Şirket işyerleri ve hizmetlerinin gerektirdiği diğer şart ve tercihlerdir.
