@@ -1,0 +1,2 @@
+Yaralanma Halinde Tazminat Miktarı
+Madde 8 — Sakatlık derecelerine girmeyecek şekilde yaralananlara, bu Yönetmeliğin 5 inci maddesinde belirtilen aylığın yüz katının % 20’sini geçmemek ve ödemesi ayda bir yapılmak üzere, işgöremezlik halinin devam ettiği her gün için 2500 gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda tazminat ödenir. Devlet memurları bu madde hükmünden yararlanamaz.
