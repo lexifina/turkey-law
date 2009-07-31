@@ -1,0 +1,1 @@
+Madde 1-Bu Yönetmeliğin amacı, kamu kurum ve kuruluşları bünyesinde açılacak huzurevlerinin açılış, çalışma, fiziki şartlar, personel şartları, teftiş ve denetim işlem ve esaslarını mevcut mevzuata uygun bir şekilde belirlemek, çağdaş anlayış ve şartlara uygun düzeyde hizmet vermelerini sağlamaktır.

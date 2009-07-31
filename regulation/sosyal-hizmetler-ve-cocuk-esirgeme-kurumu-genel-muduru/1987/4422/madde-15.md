@@ -1,0 +1,3 @@
+Özel Bakım Bölümlerinde Aranan Şartlar:
+Madde 15-Bu bölümlerde ya da bu amaca yönelik hizmet veren huzurevlerinde; odalarda havalandırma için tedbir alınmalı, yataklar muşamba ile kaplanıp pike veya birkaç kat pamuklu örtü serilmeli üzerine yatak çarşafları örtülmeli, odalar karyolalar dışında, tekerlekli iskemlelerin hareket edeceği genişlik bırakacak şekilde düzenlenmeli, banyo ve tuvaletlerde de özel düzenleme yapılmalı, devamlı sıcak su bulundurulmalıdır. Yerler sık yıkama ve temizlemeye elverişli madde ile kaplanmalıdır.
+Bu bölümlerde her 10 yaşlı için 1 hemşire, her 5 yaşlı için 1 yaşlı bakıcısı görevlendirilir.
