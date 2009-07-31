@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Tasarruf Dönemi İşlemleri
+Taksit Ödemeleri
+Madde 4 - Bu Yönetmelik esasları çerçevesinde Konut Kredisi kullanmak isteyenler, İdarece her altı ayda bir ilan edilen Tasarruf Basamakları ve Dönemlerinden, durumlarına uygun birini seçerek Taksit yatırmak üzere Bankalara başvurur. İdare, finansman programlarına göre, her Tasarruf Basamağı ve Dönemi için, Taksit yaptıracak kişi sayısını ve başvuru tarihle- rini belirleyerek, bu bildirimde yer alan sayıları aşmayacak şekilde başvuru kabul edilmesini Bankalara bildirir.
+Taksit yatırmak için başvuran kişi, yükümlülüklerini, İdarenin yetkilerini ve Konut Kredisi koşullarını düzenleyen bir sözleşmeyi Banka ile karşılıklı olarak imzalar. Kişiye, Bankaca bir başvuru veya hesap numarası verilir. Seçilen Tasarruf Dönemi ve Basamağına göre başlangıç taksiti yatırılır.
+Talep edilmesi halinde, karı koca müştereken Hesap Sahibi olabilir. Bu takdirde Konut Kredisi Haksahipliği Belgesi bu Yönetmeliğin 10 uncu maddesindeki esaslara göre ve müşterek olarak düzenlenir. Velisi veya vasisi tarafından 18 yaşından küçükler için de Taksit yatırılabilir. Ancak Konut Kredisi Haksahipliği Belgesi verilirken bu Yönetmeliğin 10 uncu maddesindeki esaslara uyulur.
+Hesap Sahibi, Taksitini her ayın 10 uncu ila 20 nci günü arasında Bankaya yatırır. Ayın 20’sinden sonra yatırılan Taksitler için, 6183 sayılı Amme Alacak-larının Tahsili Usulü Hakkında Kanunun 51 inci maddesinin 1 inci fıkrasında yeralan gecikme zammı oranı, bu oranın aynı maddenin son fıkrasına göre Bakanlar Kurulu Kararı ile belirlenmesi halinde, belirlenen yeni oran uygulanır.
+Her yıl Ocak ve Temmuz aylarında İdarece belirlenerek ilan edilen yeni Taksit miktarları Bankaca Hesap Sahiplerine bildirilir.

@@ -1,0 +1,2 @@
+Azami Kullanma Süresi
+Madde 18 - İnşa halindeki konutlar için Hesap bakiyesi ile Konut Kredisi toplamının azami kullanma süresi kırksekiz (48) ayı geçemez. Bu süre sonunda inşaatın tamamlanmaması halinde, Konut Kredisi ödemeleri durdurularak bakiyesi ödenmez ve bu Yönetmeliğin 19 uncu maddesindeki esaslara göre, Konut Kredisi geri ödeme taksitlerinin tahsiline başlanır. Ancak bu süre, mücbir ve haklı sebeplerle Bankanın teklifi ve İdarenin onayı ile uzatılabilir.

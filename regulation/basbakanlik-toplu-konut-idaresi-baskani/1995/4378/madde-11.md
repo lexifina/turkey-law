@@ -1,0 +1,2 @@
+Açılacak Konut Kredisi Miktarı
+Madde 11- Açılacak Konut Kredisi, seçilen Tasarruf Basamağına karşılık gelen Konut Kredisinin, Tasarruf Dönemi sonunda ulaşacağı miktardır. Talep edilmesi halinde, bu miktarın altında da Konut Kredisi açılabilir. Açılan Konut Kredisi, Konut Kredisi ödemeleri başlayıncaya kadar toplam miktar üzerinden, Konut Kredisi ödemeleri başladıktan sonra da bakiye miktar üzerinden, her yıl Ocak ve Temmuz aylarında Taksit artış oranı ile artırılarak kullandırılır.

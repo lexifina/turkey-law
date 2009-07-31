@@ -1,0 +1,2 @@
+Hesabın Devredilmesi
+Madde 8 - Hesaplar, anne, baba, eş ve çocuklar ile kardeşler dışındaki üçüncü şahıslara devredilemez. Hesabın üçünü şahıslara devredildiğinin tesbit edilmesi halinde Hesap kapatılarak, Hesabın bakiyesi, Hesabın kapatıldığı tarihten itibaren doksanıncı (90) günden sonraki, bu Yönetmeliğin 16 ncı maddesi uyarınca belirlenecek ilk ödeme gününde Hesap Sahibine ödenir. Hesabın kapatıldığı tarihten ödeme gününe kadar geçecek süre için ayrıca nema tahakkuk ettirilmez.

@@ -1,0 +1,5 @@
+Tasarruf Basamağı ve Döneminin Değiştirilmesi
+Madde 6 - Hesap Sahipleri, Tasarruf Basamağını en çok iki basamak, Tasarruf Dönemini de en çok iki dönem indirmek ve/veya yükseltmek için Bankaya yazılı talepte bulunabilir. Bu taleplerin, İdarenin bu Yönetmeliğin 4 üncü maddesinin birinci fıkrasındaki esaslara göre belirlediği kişi sayılarını aşmaması durumunda, Bankaca değişiklik yapılmasına izin verilir. Ancak, bu işlem Tasarruf Döneminin son oniki (12) ayında yapılamaz.
+Tasarruf Basamağı indirildiği veya Tasarruf Dönemi yükseltildiği takdirde, yeni seçilen Tasarruf Basamağı veya Dönemine göre fazla ödenen Taksit toplamı, bu tarihten sonra ödenecek Taksitlere sayılır.
+Daha yüksek Tasarruf Basamağı seçildiği veya Tasarruf Dönemi kısaltıldığı takdirde, ilk Taksitin yatırıldığı tarihten itibaren yeni seçilen Tasarruf Basamağı ve Dönemine göre ödenmesi gereken Taksit farkları, talep tarihini izleyen on (10) gün içinde yatırılır.
+Tasarruf Basamağı veya Dönemi değişikliği, Tasarruf Dönemi boyunca en fazla bir defa yapılabilir.
