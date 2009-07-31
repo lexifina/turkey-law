@@ -1,0 +1,3 @@
+Yabancı üye sayısı
+MADDE 8 – (1) Müşterek odaya üye olacak gerçek ve tüzel kişilerin nitelikleri tüzükte belirlenir. Ancak; müşterek odanın taraf ülke yabancı üye sayısı, kuruluş ve sonrasında toplam üye sayısının 1/10’undan az olamaz. Yönetim kurulu, bu hususu her üye giriş ve/veya çıkışında kontrol eder.
+(2) Taraf ülke yabancı üye sayısının birinci fıkrada belirlenen oranın altına düşmesi durumunda; yönetim kurulunca birinci fıkraya uygunluğun sağlanması açısından gerekli tedbirler alınır. Tedbirlere rağmen altı ay içerisinde birinci fıkraya uygunluk sağlanamamışsa müşterek oda kendiliğinden sona ermiş ve dağılmış sayılır.
