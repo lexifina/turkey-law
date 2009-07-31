@@ -1,0 +1,3 @@
+Tebligat ve Göreve Başlama
+Madde 8 - Enstitüde görev alması uygun görülenlerin, kendileriyle sözleşme yapılmasını izleyen iş günü göreve başlamaları gerekir. Kendileriyle henüz sözleşme yapılmamış olmakla birlikte, Enstitüde görev almalarının uygun bulunduğu ve sözleşme yapılması için Enstitüye müracaatları hususunda kendilerine tebligatta bulunulanların ise tebliğ tarihinden itibaren 15 gün içerisinde Enstitüye başvuruda bulunmaları gerekir.
+Enstitüde görev almaları uygun görülmekle birlikte, iş talep formundaki adreslerine yapılan bildirim neticesinde, belirttikleri adreste bulunmadıkları için kendilerine tebligat yapılamayanlar, 15 gün içerisinde başvuruda bulunmadıkları takdirde Enstitüde istihdam edilmezler.
