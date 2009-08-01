@@ -1,0 +1,3 @@
+Yerli üretim dalının ekonomik göstergelerinin değerlendirilmesi
+MADDE 27 – (1) Yerli üretim dalının ekonomik göstergeleri incelendiğinde, bisiklet dış ve iç lastiklerinde gerek üretim miktarı gerekse KKO’da düşüş yaşandığı, buna bağlı olarak verimlilikte azalma olduğu, yurt içi satışlarının azaldığı, satışlardaki azalmaya bağlı olarak pazar payının gerilediği, bisiklet iç lastiklerinde maliyetlerdeki artışa rağmen yurtiçi satış fiyatlarının reel olarak gerilediği, nakit akışındaki olumsuz durumun devam ettiği, büyüme, sermaye artışı ve yatırımların geri dönüşü (kâr/özsermaye) göstergelerinin bozulduğu tespit edilmiştir.
+(2) Göstergeler, yerli üretim dalının satış kaybı yaşadığını ve bu durumun ekonomik göstergelerini olumsuz yönde etkilediğini göstermektedir.

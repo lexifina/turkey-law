@@ -1,0 +1,5 @@
+İthalatın etkisinin toplu değerlendirilmesi
+MADDE 20 – (1) Bisiklet dış lastikleri için Endonezya ve Malezya’dan yapılan ithalat için hesaplanan damping marjlarının ve ithalat miktarlarının ihmal edilebilir oranların üzerinde olduğu, soruşturma döneminde her iki ülkeden gerçekleşen dampingli ithalatın yerli üreticinin fiyatlarını kırdığı, Endonezya ve Malezya’dan yapılan ithalatın toplamının ihmal edilebilir oranın oldukça üzerinde olduğu görülmüştür.
+(2) Yapılan incelemeler sırasında, her iki ülke kaynaklı ürünün aynı dağıtım kanalından geçtiği ve aynı piyasaya hitap ettiği anlaşılmıştır. Bu çerçevede her iki ülkeden ithal edilen soruşturma konusu ürünlerin kendi aralarında ve yerli benzer ürünle rekabet ettiği sabit görülmüştür.
+(3) Bu çerçevede, Yönetmeliğin 17 nci maddesi hükümlerine dayanarak, soruşturmaya eş zamanlı konu olan Endonezya ve Malezya’dan yapılan ithalatın etkilerinin toplu değerlendirilmesine karar verilmiştir.
+(4) Aşağıdaki maddelerde zarar incelemesinde dampingli ithalat ifadesi Endonezya ve Malezya’dan yapılan ithalatın toplamına karşılık gelmektedir.

@@ -1,0 +1,12 @@
+Bilgilerin toplanması ve değerlendirilmesi
+MADDE 3 – (1) Soruşturma açılmasını müteakip, soruşturma konusu ürünün belirlenen ithalatçılarına “ithalatçı soru formu” ve ilgili ülkelerdeki bilinen üretici/ihracatçılarına “üretici-ihracatçı soru formu” gönderilmiştir.
+(2) Diğer taraftan, ilgili ülkelerde yerleşik diğer üretici-ihracatçılara iletilebilmesini teminen, söz konusu soru formunun birer örneği soruşturmaya taraf olan ülkelerin Ankara Büyükelçiliklerine de gönderilmiştir.
+(3) Tarafların soru formunu yanıtlamaları için posta süresi dahil 37 gün süre tanınmıştır. Tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(4) “Üretici-ihracatçı soru formu”na cevap veren ve soruşturma süresince işbirliği halinde bulunan üretici-ihracatçı firmalar ülkeler esasında aşağıda belirtilmektedir.
+a) Endonezya
+PT. Hung-A Indonesia
+b) Malezya
+Everthrough Rubber Products Sdn. Bh.
+(5) Endonezya’da yerleşik PT. Industri Karet Deli firmasının soru formuna vermiş olduğu yanıtların incelenmesi sonucunda tespit edilen eksiklikler firmaya iletilmiş olup istenen bilgi ve belgeleri sağlamaması halinde işbirliğine gelmemiş sayılacağı bildirilmiştir. Gelen cevapta firma maliyetlerini sadece global bazla tuttuğu ve tip bazında maliyet tutmadığını belirterek, istenen tip bazlı maliyet tablosunu sağlamadığı görülmüştür. Bir lastik üretiminde kullanılan hamurun belirli reçetelere göre üretilebildiği, söz konusu reçete içeriğinin de üretimin özelliği gereği firma tarafından hazırlandığı ve bilinmek zorunda olduğu gerçeği göz önüne alındığında firmanın tip bazında maliyetlerini bilmemesine imkan bulunmamaktadır. Tip bazlı maliyetlerin damping marjı hesabının ana unsuru olduğu, maliyetler olmadan damping marjı hesabı mümkün olmadığından PT. Industri Karet Deli firmasının işbirliğinde bulunmadığı kabul edilmiştir.
+(6) Soruşturma konusu ürünün Türkiye’de yerleşik tek üreticisi konumunda olan ve dolayısıyla yerli üretim dalını temsil niteliğine haiz bulunan Anlaş firması soru formlarına usulüne uygun şekilde yanıt vermiştir. Söz konusu firma ayrıca, soruşturma süresince Müsteşarlık ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir.
+(7) Soruşturma döneminde Endonezya ve Malezya’dan soruşturma konusu bisiklet iç ve dış lastiklerini ithal ettiği belirlenen 8 ithalatçı firmaya ithalatçı soru formu gönderilmiştir. Soru formu gönderilen 5 firmadan yanıt alınmıştır ve soru formlarına cevap verenlerin görüşleri değerlendirilmiştir.

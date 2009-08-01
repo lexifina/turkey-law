@@ -1,0 +1,2 @@
+Yerinde doğrulama soruşturmaları
+MADDE 4 – (1) Yönetmelik’in 21 inci maddesi çerçevesinde yerli üretici Anlaş firmasının Düzce’deki üretim ve idari tesislerinde, Malezya’da yerleşik ihracatçı Everthrough Rubber Products Sdn. Bhd. firmasının İpoh’ta bulunan idari tesislerinde ve Endonezya’da yerleşik PT. Hung-A Indonesia firmasının West Jawa’da bulunan üretim ve idari tesislerinde yerinde doğrulama incelemesi yapılmıştır.
