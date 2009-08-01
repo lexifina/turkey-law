@@ -1,0 +1,3 @@
+Kanunun 11 inci maddesine göre yapılan bildirimlerin mahiyeti
+MADDE 7 – (1) İşverenler tarafından veya ticaret sicili memurluklarınca Kanunun 11 inci maddesi uyarınca işyerlerine ilişkin Kuruma yapılan bildirimler, 4857 sayılı İş Kanununun 3 üncü ve 5953 sayılı Kanunun 3 üncü maddesi uyarınca Bakanlığın ilgili bölge müdürlüklerine yapılması gereken bildirimler yerine geçer.
+(2) İşyerinin miras yoluyla intikali halinde, mirasçıları tarafından ölüm tarihinden itibaren en geç üç ay içinde Kuruma bildirim yapıldığı takdirde, bu maddenin birinci fıkrasına göre ilgili Kurumlara da süresi içinde bildirim yapılmış sayılır.

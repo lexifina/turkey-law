@@ -1,0 +1,2 @@
+506 sayılı Kanunun geçici 20 nci maddesinde belirtilen sandık iştirakçilerinin bildirimleri
+GEÇİCİ MADDE 1 – (1) 506 sayılı Kanunun geçici 20 nci maddesinde belirtilen sandıklar, Kuruma devir tarihine kadar iştirakçilerinin sandıkla ilgililerinin başlama ve sona ermesine ilişkin bildirimlerini en geç on gün içinde 28/8/2008 tarihli ve 26981 sayılı Resmî Gazete’de yayımlanan Sosyal Sigorta İşlemleri Yönetmeliğinin ilgili hükümlerine göre Kuruma yaparlar.
