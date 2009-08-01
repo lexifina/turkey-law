@@ -1,0 +1,3 @@
+Üçüncü ülkelerden ithalat
+MADDE 30 – (1)Soruşturma konusu ülkeler dışında halen Çin Halk Cumhuriyeti, Çin Tayvanı, Tayland ve Vietnam menşeli motosiklet dış ve iç lastiklerinde önlem yürürlüktedir. Diğer taraftan bu ülkelerin dışında kalan üçüncü ülkelerden yapılan ithalatın 2005-2007 döneminde mutlak ve nisbi olarak azaldığı, birim fiyatları itibariyle soruşturma konusu ülkelerin fiyatlarının üzerinde olduğu görülmüştür.
+(2) Sonuç olarak, diğer ülkeler kaynaklı soruşturma konusu ithalat, gerek miktarı ve piyasa payındaki eğilim, gerek fiyatları itibariyle bu aşamada yerli üretime zarar verebilecek boyutta görülmemektedir.

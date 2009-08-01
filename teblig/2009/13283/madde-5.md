@@ -1,0 +1,4 @@
+İlgili tarafların bilgilendirilmesi ve dinlenmesi
+MADDE 5 – (1) Soruşturma açılmasını müteakip, soruşturma konusu ülkelerin Ankara’daki Büyükelçiliklerine ve bilinen üretici-ihracatçı firmalara şikayetin gizli olmayan metni ve soruşturma açılış Tebliği gönderilmiştir.
+(2) Taraflara soruşturma boyunca, soruşturma ile ilgili görüşlerini ve bu görüşlerle ilgili belgeleri sunma imkanı verilmiştir. Söz konusu görüşler ile belgeler değerlendirilmiş olup buna ilişkin hususlara bildirim içerisinde yeri geldiğince değinilmiştir.
+(3) Nihai bildirimin ilgili taraflara gönderilmesini müteakip soruşturmada işbirliğinde bulunan ilgili tarafların katılımıyla 29 Mayıs 2009 tarihinde dinleme toplantısı gerçekleştirilerek taraflara soruşturmayla ilgili konularda görüş ve iddialarını sunma imkanı tanınmıştır.

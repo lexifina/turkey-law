@@ -1,0 +1,5 @@
+Dampingli ithalatın etkisi
+MADDE 29 – (1) Soruşturma konusu ülkelerden yapılan motosiklet dış lastik ve motosiklet iç lastik ithalatı 2005-SD döneminde gerek mutlak gerekse nispi olarak artış göstermiştir.
+(2) Soruşturma konusu ülkeler menşeli ithalatın fiyatlarının Endonezya’da yerleşik PT-Hung-A firmasından yapılan motosiklet dış lastikleri ithalatı dışında dampingli olduğu, yerli üretim dalının fiyatlarının da önemli ölçüde altında kaldığı tespit edilmiştir.
+(3) Düşük fiyatlı ithalat sebebiyle 2005-SD döneminde dampingli ithalat pazar payını gerek yerli üretim dalı gerekse diğer ülkeler aleyhine genişletmiştir.
+(4) Diğer taraftan, yerli üretim dalının ekonomik göstergeleri değerlendirildiğinde dampingli ithalatta artışın olduğu bahse konu dönemde yerli üretim dalının ekonomik göstergelerinde olumsuzluklar tespit edilmiştir. Dampingli ithalatın fiyatlarının yerli üretim dalının fiyatlarını kırması ve dampingli ithalattaki artış eğilimi ile yerli üretim dalında görülen olumsuz gelişmelerin eş zamanlı olarak ortaya çıkması nedeniyle dampingli ithalat ile yerli üretim dalı üzerinde oluşan zarar arasında illiyet bağı olduğu sonucuna varılmıştır.
