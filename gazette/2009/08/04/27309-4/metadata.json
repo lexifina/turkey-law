@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-08-04",
+  "issue": "27309",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 30/7/2009 Tarihli ve 3280 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090804-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090804.htm",
+  "index_sha256": "b4edf333b8970cbd8d0bc8bf99a111cee83d099354e5c8b2fb8c312bf28a8f42",
+  "index_header": "4 Ağustos 2009 ... 27309 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
