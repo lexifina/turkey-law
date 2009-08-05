@@ -1,0 +1,6 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Mevcut önlem ve soruşturma
+MADDE 1 – (1) Çin Halk Cumhuriyeti (ÇHC) ve Tayland menşeli 4011.40 ve 4013.90.00.00.11 gümrük tarife pozisyonlarında yer alan “motosiklet iç ve dış lastikleri” için 30/4/2003 tarih ve 25094 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2003/7 sayılı Tebliğ ile ÇHC için CIF bedelin %100-%37’si ve Tayland için %100-%68’i oranında dampinge karşı önlem yürürlüğe konulmuştur.
+(2) Uygulanmakta olan önlemin yürürlükten kalkma süresinin bitiminden en geç üç ay önce bir nihai gözden geçirme soruşturması açılması talebinde bulunulabileceği, 5/5/2007 tarih ve 26513 sayılı Resmî Gazete’de yayımlanan 2007/7 sayılı İthalatta Haksız Rekabetin Önlenmesine ilişkin Tebliğ ile ilan edilmiştir.
+(3) Dampinge karşı önlemin sona ermesinin damping ve zararın devamına veya yeniden meydana gelmesine yol açacağı iddiasıyla Anlaş Anadolu Lastik Sanayi ve Ticaret A.Ş. tarafından yapılan başvuru üzerine, 26/4/2008 tarih ve 26858 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2008/15 sayılı Tebliğ ile başlatılan nihai gözden geçirme soruşturması, Dış Ticaret Müsteşarlığı (Müsteşarlık) İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanmıştır.

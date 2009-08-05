@@ -1,0 +1,2 @@
+Şikâyete konu ülkelerin pazar payları
+MADDE 15 – (1) ÇHC ve Tayland menşeli motosiklet iç lastiğinin pazar payı 2004-2006 döneminde endeks olarak 100’den 210’a çıkmıştır. ÇHC menşeli motosiklet dış lastiğinin pazar payı 2004 yılında endeks olarak 100 iken 2007 yılında 477 düzeyine yükselmiştir. Tayland menşeli motosiklet dış lastiğinin ise pazar payı aynı dönemde endeks olarak 100’den 89’a gerilemiştir.

@@ -1,0 +1,2 @@
+Önleme tabi ülkedeki sektörün durumu ve kapasite fazlası
+MADDE 21 – (1) Dampingin varlığı veya yeniden meydana gelme ihtimali bölümünde de belirtildiği üzere ÇHC ve Tayland’da şikâyet konusu ürüne ilişkin büyük miktarda kapasite bulunduğu, bu ülkelerin dünyanın önde gelen ihracatçıları oldukları görülmektedir. İki ülke 2002 yılında %12 olan dünya motosiklet iç ve dış lastiği ihraç pazarındaki payını 2007 yılında %19,8’e yükseltmişlerdir.

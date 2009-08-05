@@ -1,0 +1,2 @@
+Üçüncü ülkelerden ithalat
+MADDE 23 – (1) Halen Tayvan ve Vietnam menşeli motosiklet iç ve dış lastiklerine karşı dampinge karşı önlem mevcuttur. Diğer ülkelerden ithalata bakıldığında ise sadece Endonezya ve Malezya menşeli ithalat varlık göstermektedir. Ancak Endonezya ve Malezya menşeli motosiklet iç ve dış lastiklerine karşı damping soruşturması yürütülmektedir. Mevcut soruşturma kapsamında ÇHC ve Tayland menşeli ithalata karşı alınan damping önlemi Endonezya ve Malezya menşeli ithalat nedeniyle etki gösterememiştir.

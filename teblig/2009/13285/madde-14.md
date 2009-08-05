@@ -1,0 +1,4 @@
+Türkiye toplam benzer mal tüketimi
+MADDE 14 – (1) Türkiye’de toplam benzer mal tüketiminin hesaplanmasında şikâyetçi firmanın yurt içi satış miktarı ile genel ithalat miktarı toplanarak ilgili yılda benzer mala ilişkin tüketim elde edilmiştir.
+(2) Motosiklet iç lastiği Türkiye benzer mal tüketimi 2004 yılı 100 alındığında, 2005 yılında 151, 2006 yılında 163 ve 2007 yılında 158 olarak gerçekleşmiştir. 2004 yılında 100 kabul edilen yerli üretimin pazar payı, 2005 yılında 90, 2006 yılında 85 ve 2007 yılında 75 seviyesinde gerçekleşmiştir.
+(3) Motosiklet dış lastiği Türkiye benzer mal tüketimi 2004 yılı 100 alındığında, 2005 yılında 125, 2006 yılında 129 ve 2007 yılında yine 168 olarak gerçekleşmiştir. 2004 yılında 100 kabul edilen yerli üretimin pazar payı, 2005 yılında 74, 2006 yılında 83 ve 2007 yılında 70 seviyesinde gerçekleşmiştir.

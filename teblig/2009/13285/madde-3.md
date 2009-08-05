@@ -1,0 +1,5 @@
+Bilgilerin toplanması ve değerlendirilmesi
+MADDE 3 – (1) Soruşturma açılmasını müteakip, söz konusu ürünün Müsteşarlıkça tespit edilen ithalatçılarına, ÇHC ve Tayland’da yerleşik bilinen üretici/ihracatçılara ve ayrıca anılan ülkelerde yerleşik diğer üretici/ihracatçılara iletilebilmesini sağlamak amacıyla ÇHC ve Tayland’ın Ankara Büyükelçiliklerine soru formları gönderilmiştir.
+(2) Taraflara soru formunu yanıtlamaları için posta süresi dâhil 37 gün süre tanınmış olup, tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(3) Yerli üretim dalı soruşturma süresince Müsteşarlık ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgi ve belgeleri temin etmiştir. Soruşturma döneminde ithalat gerçekleştiren 13 firmadan cevap alınmıştır. “Üretici-ihracatçı soru formu”na ise hiçbir cevap alınmamıştır.
+(4) Tarafların soruşturma boyunca ortaya koyduğu tüm bilgi, belge ve görüşler incelenmiş, mezkûr görüşlerden mevzuat kapsamında değerlendirilebilecek olanlara bu tebliğin ilgili bölümlerinde cevap verilmiştir.
