@@ -1,0 +1,2 @@
+Üçüncü ülkelerden ithalat
+MADDE 24 – (1) Mevcut haliyle Sri Lanka, Çin Tayvanı ve Vietnam menşeli bisiklet iç ve dış lastiklerine karşı dampinge karşı önlem mevcuttur. Diğer ülkelerden ithalata bakıldığında ise sadece Endonezya ve Malezya menşeli ithalat varlık göstermektedir. Ancak Endonezya ve Malezya menşeli bisiklet iç ve dış lastiklerine karşı damping soruşturması yürütülmektedir. Mevcut soruşturma kapsamında ÇHC, Tayland ve Hindistan menşeli ithalata karşı alınan damping önlemi Endonezya ve Malezya menşeli dampingli ithalat nedeniyle etki gösterememiştir.
