@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-08-07",
+  "issue": "27312",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Denizcilik Yakıtlarına İlişkin Teknik Düzenleme Tebliği (İhrakiye Seri No: 2)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090807-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090807.htm",
+  "index_sha256": "0b24d04522bb4bd33387775f176d32e69286770e2d4404f6e3d2344b3b79cc5d",
+  "index_header": "7 Ağustos 2009 ... 27312 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
