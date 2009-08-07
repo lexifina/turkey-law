@@ -1,0 +1,3 @@
+Telsiz sistem ve cihazlarının Kuruma bildirilmemesi
+MADDE 11 – (1) İşletmeciler ile bu hizmetten yararlanan abonelere ait telsiz sistem ve cihazlarının Kuruma bildirilmemesi ve bu hususun Kurumca tespiti halinde, aboneliğin tesis edildiği tarih olarak, işletmeci ile abonesi arasında yapılan katılım sözleşmesi tarihi esas alınır. Sözleşmenin olmadığı durumlarda işletmeci kayıtlarında yapılan inceleme sonucu tespit edilen bilgiler arasında, belirlenen ilk tarih esas alınır.
+(2) Söz konusu tarih itibariyle tarhı gerçekleştirilen telsiz ücretlerine, işletmecilerle yapılan protokol veya sözleşme hükümlerinde düzenlenen usule göre gecikme faizi uygulanır.

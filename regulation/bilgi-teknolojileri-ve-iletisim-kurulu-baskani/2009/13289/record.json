@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.13289",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİLGİ TEKNOLOJİLERİ VE İLETİŞİM KURUMU GELİRLERİNİN TARH, TEBLİGAT, TAHAKKUK, TAHSİLÂT USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "13289",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "issuer_slug": "bilgi-teknolojileri-ve-iletisim-kurulu-baskani",
+  "path": "regulation/bilgi-teknolojileri-ve-iletisim-kurulu-baskani/2009/13289",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13289&MevzuatTertip=5",
+  "source_sha256": "d3b683059f5c20831b9b79dea3ae097759823b0c1839634a9e5b1662ddfaefc5",
+  "source_bytes": 45319,
+  "published": "2009-08-07",
+  "gazette": "27312",
+  "in_force": "2009-08-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.08.2009); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2657,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
