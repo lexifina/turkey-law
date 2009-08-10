@@ -1,0 +1,24 @@
+{
+  "number": "323",
+  "number_as_published": "Karar No : 323",
+  "year": 2009,
+  "title": "Melikgazi Belediyesinin, Erenköy Mahallesi, Billur Mevkiinde 186 pafta, 451 ada, 26, 62, 63, 67, 68 ve 69 parsellerde NİP.",
+  "decision_date": "2009-08-10",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/10-agustos-2009-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "5a89f529257dd7903c0f59b58e3498447304051a0b4f59ffea65a0fa2655cc54",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2009-08-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.08.2009 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "10 Ağustos 2009 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=18",
+  "subject_published": true
+}
