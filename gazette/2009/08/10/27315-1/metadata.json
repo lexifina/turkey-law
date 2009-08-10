@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-08-10",
+  "issue": "27315",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Kültür ve Tabiat Varlıklarını Koruma Kanunu Kapsamındaki Kültür Varlıklarının Rölöve, Restorasyon, Restitüsyon Projeleri, Sokak Sağlıklaştırma, Çevre Düzenleme Projeleri ve Bunların Uygulamaları ile Değerlendirme, Muhafaza, Nakil İşleri ve Kazı Çalışmalarına İlişkin Mal ve Hizmet Alımlarına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090810-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090810.htm",
+  "index_sha256": "392865e723b1b510059907b5622429d344e8660b9bed2d5b3691523c114bd77d",
+  "index_header": "10 Ağustos 2009 ... 27315 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
