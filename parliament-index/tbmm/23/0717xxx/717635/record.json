@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 717635,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "26/6/2009 tarihli ve 5920 sayılı İş Kanunu, İşsizlik Sigortası Kanunu ve Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununda Değişiklik Yapılmasına Dair Kanun ve Anayasanın 89uncu ve 104üncü maddeleri gereğince Cumhurbaşkanınca Bir Daha Görüşülmek Üzere Geri Gönderme Tezkeresine İlişkin (İşsizlik Sigortası Kanunu ile Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununda Değişiklik Yapılmasına Dair Kanun) (1/731) (S. Sayısı: 419)",
+  "title": "26/6/2009 tarihli ve 5920 sayılı İş Kanunu, İşsizlik Sigortası Kanunu ve Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununda Değişiklik Yapılmasına Dair Kanun ve Anayasanın 89uncu ve 104üncü maddeleri gereğince Cumhurbaşkanınca Bir Daha Görüşülmek Üzere Geri Gönderme Tezkeresine İlişkin (İşsizlik Sigortası Kanunu ile Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununda Değişiklik Yapılmasına Dair Kanun) (1/731) (S. Sayısı: 419)",
+  "first_sitting_date": "2009-08-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 48,
+      "sitting": 115,
+      "sitting_date": "2009-08-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c048/tbmm23048115.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c048/tbmm23048fih.pdf",
+      "pages": [
+        "1221:1225",
+        "1226:1235"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=346&v_gelecek_sayfa=201&v_kullanici_id=27484607",
+  "source_sha256": "f569b8287c7e16dd5e023ae36c2e52e68a7087802cfcc3ab1e9528efc98ddae0",
+  "in_force": "2009-08-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
