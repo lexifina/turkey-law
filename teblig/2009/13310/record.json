@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.13310",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 37)",
+  "number": "13310",
+  "path": "teblig/2009/13310",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13310&MevzuatTertip=5",
+  "source_sha256": "adbda4db30e859c026d25dc252a61b4ac6c089cb66eb34866de1330b0787eef4",
+  "source_bytes": 20966,
+  "published": "2009-08-12",
+  "gazette": "27317",
+  "in_force": "2009-08-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.08.2009)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1084,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13310%20ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
