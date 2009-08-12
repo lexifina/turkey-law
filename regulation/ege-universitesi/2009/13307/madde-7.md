@@ -1,0 +1,2 @@
+Merkez müdürü
+MADDE 7 – (1) Merkez Müdürü, Enfeksiyon Hastalıkları Anabilim Dalında görevli, HİV/AİDS konusunda deneyim sahibi olan öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Merkez Müdürü tekrar görevlendirilebilir. Merkez Müdürü bir öğretim üyesini kendisine yardımcı olarak atar. Merkez Müdürü görevi başında bulunmadığı zaman Merkez müdür yardımcısını yerine vekil bırakır. Merkez müdür yardımcısı da görevde bulunmadığı zaman, Merkez Yönetim Kurulu üyelerinden biri vekil olarak görev yapar.
