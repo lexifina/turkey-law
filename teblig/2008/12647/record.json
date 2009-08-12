@@ -1,0 +1,41 @@
+{
+  "source_id": "9.5.12647",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5811 SAYILI BAZI VARLIKLARIN MİLLİ EKONOMİYE KAZANDIRILMASI HAKKINDA KANUNA İLİŞKİN GENEL TEBLİĞ (SERİ NO: 1)",
+  "number": "12647",
+  "path": "teblig/2008/12647",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12647&MevzuatTertip=5",
+  "source_sha256": "986eca5f4faf17ee65b89c3c0464fb58e6856d548ea6a00cd2f9a8a84c1e70a1",
+  "source_bytes": 108856,
+  "published": "2008-12-06",
+  "gazette": "27076",
+  "in_force": "2009-08-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/8/2009\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2009-08-12",
+      "RG-12/8/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-02-20",
+      "RG-20/2/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6666,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://mevzuat.basbakanlik.gov.tr/cache/yonetmelik/9.5.12647-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
