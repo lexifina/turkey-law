@@ -1,0 +1,54 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2009/35",
+  "date": "2009-08-14",
+  "title": "SPK Haftalık Bülteni 2009/35",
+  "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_35.pdf",
+  "source_sha256": "07bf515ac9638ef78ad44ce289c7a7d61292b3586e1624e67eac7d1da2bc0f1b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 2.1.2009 – 14.08.2009 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_35.pdf"
+    },
+    {
+      "heading": "B. 10.08.2009 – 14.08.2009 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_35.pdf"
+    },
+    {
+      "heading": "C. 10.08.2009 – 14.08.2009 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_35.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_35.pdf"
+    },
+    {
+      "heading": "E. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_35.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
