@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-08-14",
+  "issue": "27319",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Kültür Üniversitesi Satın Alma ve İhale Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090814-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090814.htm",
+  "index_sha256": "f22c027f10e407cab10dc1ee583c90088ebb684357eaf032f3bb9b4237b697f1",
+  "index_header": "14 Ağustos 2009 ... 27319 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
