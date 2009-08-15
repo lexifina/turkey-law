@@ -1,0 +1,3 @@
+İthal Lisansının Revizesi
+MADDE 8 – (1) İthal lisansının üzerinde kayıtlı hususlara ilişkin olarak ihtiyaç olması halinde, Dış Ticaret Müsteşarlığı (İthalat Genel Müdürlüğü) resen değişiklik yapabilir. İthal lisansı firma nüshasının aslı ve değişiklik talebine ilişkin ilgili bilgi ve belgeler ile birlikte başvurulması halinde, ithal lisansına ilişkin revize talepleri Dış Ticaret Müsteşarlığı’nca (İthalat Genel Müdürlüğü) sonuçlandırılır.
+(2) İthal lisansının revizesi halinde, durum gümrük idaresine ve firmaya Dış Ticaret Müsteşarlığı’nca (İthalat Genel Müdürlüğü) bildirilir. İthal lisansında yapılan revizeye ilişkin bildirimler, ilgili gümrük idaresince ithal lisansının gümrük nüshasına işlenerek imza ve mühür altına alınır.

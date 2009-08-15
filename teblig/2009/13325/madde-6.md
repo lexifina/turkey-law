@@ -1,0 +1,3 @@
+Gümrük Kapısı ve Gümrük İdaresince Yapılacak İşlemler
+MADDE 6 – (1) İthal lisansı kapsamında gerçekleştirilecek ithalat, sadece ithal lisansında belirtilen Gümrük ve Muhafaza Başmüdürlüğü’ne bağlı gümrük kapılarından yapılabilir.
+(2) İthal lisansı kapsamında yapılan ithalata ilişkin gerekli düşümler ilgili gümrük idaresi tarafından ithal lisansının firma nüshasının ve gümrük idaresi nüshasının arka yüzüne işlenerek imza ve mühür altına alınır. Bu sayfada yer kalmaması halinde ise yeni sayfa ilave edilerek ilave edilen sayfa adedi ithal lisansı firma nüshasının aslına ve gümrük idaresi nüshasına derç edilerek imza ve mühür altına alınır.
