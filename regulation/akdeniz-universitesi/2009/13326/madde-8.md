@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Merkez Müdürü, tohumculuk veya tarımsal biyoteknoloji konusunda çalışmalar yapmış olan ve tam gün çalışan öğretim üyeleri arasından, iki yıllık bir süre için, Rektör tarafından görevlendirilir. Merkez Müdürü, Yönetim Kurulu Üyelerinden birini Müdür Yardımcısı olarak seçebilir. Müdür olmadığı zaman yerine yardımcısı vekalet eder. Merkez Müdürü, kesintisiz 6 aydan daha fazla bir süre görevi başında bulunmaması durumunda görevi sona erer.
