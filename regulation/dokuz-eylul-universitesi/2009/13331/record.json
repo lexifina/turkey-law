@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-08-17",
+      "17.08.2009",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27322",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2009-08-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dokuz Eylül Üniversitesi",
+  "issuer_slug": "dokuz-eylul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dokuz-eylul-universitesi/2009/13331",
+  "published": "2009-08-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13331&MevzuatTertip=5",
+  "source_bytes": 26224,
+  "source_id": "8.5.13331",
+  "source_sha256": "b26cc6e8a9374aa4e45c9761391f9d201213a219065f54974cb47f6e1cfa6744",
+  "text_status": "as-enacted",
+  "title": "DOKUZ EYLÜL ÜNİVERSİTESİ SES KAYIT STÜDYOSU, AKUSTİK VE BİLİŞSEL MÜZİKOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 189,
+  "word_count": 1242
+}
