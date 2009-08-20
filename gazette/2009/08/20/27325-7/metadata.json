@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-08-20",
+  "issue": "27325",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Piri Reis Üniversitesi Ana Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090820-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090820.htm",
+  "index_sha256": "2fcde9720b8edc2847523ec0d2c90292c1fbc1316ff0437f9ed2f8b69b0ed50f",
+  "index_header": "20 Ağustos 2009 ... 27325 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
