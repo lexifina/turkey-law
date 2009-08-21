@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2215",
+  "decision_date": "2009-08-21",
+  "title": "Türkiye Elektrik Ticaret Taahhüt Anonim Şirketi tarafından halen Perakende Satış Lisansına Sahip Bölgesel Elektrik Dağıtım Şirketlerine uygulanmakta olan 12,62 Krş/kWh aktif elektrik enerjisi bedelinin, 15/07/2009 tarihinden geçerli olacak şekilde, Kayseri ve Civarı Elektrik Türk Anonim Şirketine uygulanmaya devam edilmesine İlişkin",
+  "resmi_gazete_date": "2009-08-28",
+  "resmi_gazete_number": "27333",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Z20Jw5HYsVs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Z20Jw5HYsVs="
+  ],
+  "source_sha256": "3486857dfefcbc683dcdd1a7ce3edb905f8a9f3003d22979052369ffd8771c65",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-08-21",
+  "law_text_complete": false
+}
