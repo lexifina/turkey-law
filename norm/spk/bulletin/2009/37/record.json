@@ -1,0 +1,54 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2009/37",
+  "date": "2009-08-21",
+  "title": "SPK Haftalık Bülteni 2009/37",
+  "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_37.pdf",
+  "source_sha256": "d03d9254be0f17613368851b3c12b02795023c0c56ad296c463ae6e55298d0aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. DUYURU"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 2.1.2009 – 21.08.2009 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_37.pdf"
+    },
+    {
+      "heading": "B. 17.08.2009 – 21.08.2009 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_37.pdf"
+    },
+    {
+      "heading": "C. 17.08.2009 – 21.08.2009 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_37.pdf"
+    },
+    {
+      "heading": "D. DUYURU",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_37.pdf"
+    },
+    {
+      "heading": "E. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_37.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
