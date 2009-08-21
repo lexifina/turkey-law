@@ -1,0 +1,3 @@
+Bilirkişilere yemin ettirilmesi
+Madde 6 - Kadastro müdürü, seçilen veya belirlenen bilirkişileri bir yazı ile kadastro mahkemesine (bölgede kadastro mahkemesi henüz kurulmamışsa sulh hukuk mahkemesine) göndererek, H.U.M.K. nun uygulamasında olduğu gibi "Kadastro tespitleri sırasında, kadastro bilirkişisi olarak bilgime başvurulduğunda, görgü, duygu ve bilgimi gerçeğe uygun şekilde bildireceğime, oy ve düşüncemi tarafsız olarak açıklayacağıma Allahım ve namusum üzerine yemin ederim" şeklinde yeminlerinin yapılmasını ister.
+Mahkemece, bilirkişinin yeminleri yaptırıldıktan sonra düzenlenecek yemin tutanağı kadastro müdürlüğüne gönderilir. Bu tutanağın aslı müdürlük dosyasında, bir örneği de ekip dosyasında saklanır.

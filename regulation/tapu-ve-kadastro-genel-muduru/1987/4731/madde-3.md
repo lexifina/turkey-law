@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Genel Hükümler
+Bilirkişi seçimi için talepte bulunulması
+Madde 3 - Kadastro müdürü, çalışma alanının ilanını müteakip, çalışma alanı belediye hudutları içinde ise ilgili belediye başkanlığından, köy hudutları içinde ise köy muhtarlığından, kadastro ekipleri ile birlikte görev yapmak üzere onbeş gün içinde altı adet bilirkişi (çalışma alanında birden fazla ekip görev yapacaksa diğer her ekip için ayrıca üç bilirkişi) seçmelerini ve isimlerinin de bildirilmesini bir yazı ile ister. Bu yazıda, bilirkişi olarak seçilecek kişilerin çalışma alanı içinde bulunan taşınmaz malların geometrik ve hukuki durumlarını bilen kimseler olmasını ve bu Yönetmelikte belirtilen engel hallerin bulunmaması gerektiğini açıklar; belediye hudutları içinde görev yapacak bilirkişilerin belediye meclisince, köylerde görev yapacak bilirkişilerin ise köy derneğince seçilmeleri açıkça belirtilir.
