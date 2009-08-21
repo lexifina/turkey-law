@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-08-21",
+  "issue": "27326",
+  "edition": "regular",
+  "item": 17,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İzmir Ekonomi Üniversitesi Liderlik ve Yönetişim Uygulama ve Araştırma Merkezi (EKOLİDER) Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090821-17.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090821.htm",
+  "index_sha256": "d579f61ac5243abf286714f4083e17f2f2273fd839eae6157f20356fe3123a16",
+  "index_header": "21 Ağustos 2009 ... 27326 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
