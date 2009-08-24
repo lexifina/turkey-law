@@ -1,0 +1,5 @@
+Müdür
+MADDE 8 – (1) Müdür, Geleneksel sanatlar alanında araştırmaları bulunan ve yöneticilik deneyimi olan öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi sona eren Müdür yeniden görevlendirilebilir. Müdürün altı aydan daha fazla süre ile görevi başında bulunmaması durumunda görevi sona erer. Müdür, Merkezi temsil eder ve Rektöre karşı sorumludur.
+(2) Müdür, kendisine çalışmalarında yardımcı olmak üzere, öğretim elemanları arasından bir ya da iki kişiyi müdür yardımcısı olarak görevlendirmek üzere Rektör onayına sunar.
+(3) Müdür yardımcısı/yardımcıları, Müdürün verdiği işleri yapar ve Müdürün bulunmadığı zamanlarda Müdüre vekâlet eder. Vekil bırakmadan ayrılma durumunda, Yönetim Kurulu üyelerinden öğretim görevinde en kıdemli olanı, Başkana vekâlet eder. Vekâlet süresi altı ayı aşamaz.
+(4) Müdür Yardımcısı/Yardımcılarının görev süresi en çok üç yıldır. Müdürün görevi sona erdiğinde müdür yardımcısı/yardımcılarının görevi sona erer. Görevinden ayrılan Müdür yardımcısının yerine kalan süreyi tamamlamak üzere yenisi görevlendirilebilir.
