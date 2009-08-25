@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-08-25",
+  "issue": "27330",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Ulusal Meslek Standartlarına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090825M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090825M1.htm",
+  "index_sha256": "cdb435b40a196a72cdedd23a2dc009306711ae8e7c6ecbd5cfc78f82f6e9755e",
+  "index_header": "25 Ağustos 2009 ... 27330 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
