@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-08-25",
+  "issue": "27330",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARLARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 20/8/2009 Tarihli ve 3320 sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090825-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090825.htm",
+  "index_sha256": "46f74de694611aabf4e9e1ff1b5b003fb1c54a49ba1c288571000586a92083ac",
+  "index_header": "25 Ağustos 2009 ... 27330 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
