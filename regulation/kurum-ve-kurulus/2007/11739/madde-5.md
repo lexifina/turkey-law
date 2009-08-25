@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Harcamalar ve Sorumluluk
+Proje banka hesabı, ödemelerin gerçekleştirilmesi ve sorumluluk
+MADDE 5 – (1) (Değişik:RG-25/8/2009-27330) Proje hesabını tutan muhasebe birimi tarafından her proje için banka nezdinde özel hesap açtırılır. Henüz desteklenmesi kesin olmayan projelere ilişkin olarak, hibeyi sağlayan kuruluş tarafından banka hesap numarasının bildirilmesi istenildiği takdirde muhasebe birimince hibe sağlanmadan önce de banka nezdinde özel hesap açtırılabilir. Projeye yönelik her türlü harcama, proje yürütücüsünün vereceği talimat üzerine proje özel hesaplarını tutan muhasebe birimi tarafından proje kapsamında açılan banka hesabından yapılır.
+(2) Proje yürütücüsü, harcamaların proje şartları ve amaçlarına uygun, etkin ve verimli olarak kullanılmasından, kamu idaresine ve kaynağı sağlayan kuruluşa hesabını vermekten, proje kaynaklarının etkin ve verimli kullanılmamasından doğacak her türlü zararın tazmininden sorumludur.
+(3) (Ek:RG-25/8/2009-27330) Proje yürütücüsü, sınırları ve üst limitleri açıkça belirtilmek suretiyle harcama yetkisinin bir kısmını ilgili kurumun ihtisas sahibi birimlerinin yetkililerine, kurumun üst yöneticisinin onayıyla devredebilir. Harcama yetkisinin devredilmiş olması harcama yetkilisinin idari sorumluluğunu ortadan kaldırmaz.

@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.11739",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AVRUPA BİRLİĞİ VE ULUSLARARASI KURULUŞLARIN KAYNAKLARINDAN KAMU İDARELERİNE PROJE KARŞILIĞI AKTARILAN HİBE TUTARLARININ HARCANMASI VE MUHASEBELEŞTİRİLMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "11739",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2007/11739",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11739&MevzuatTertip=5",
+  "source_sha256": "4692139bdeececc6b284d419a8e6b887a92090f65332cc8e07e0c540bc8de4e1",
+  "source_bytes": 123636,
+  "published": "2007-11-27",
+  "gazette": "26713",
+  "in_force": "2009-08-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/8/2009\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2009-08-25",
+      "RG-25/8/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-08-25",
+      "25/8/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2430,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

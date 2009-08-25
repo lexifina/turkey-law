@@ -1,0 +1,2 @@
+Avans ve ödeme limitleri
+MADDE 12 – (1) (Değişik:RG-25/8/2009-27330) Proje kapsamında verilecek avanslar ve yapılacak ödemeler, proje yürütücüsünün karar veya talimatı çerçevesinde sınırlamaya tabi olmaksızın yapılır. Mal veya hizmet alımı için verilecek avanslar, proje mutemedine verilir. Mutemet görevlendirilmesine ilişkin yazıda, mal veya hizmetin ne kadar süre içinde alınacağı ve avansın hangi süre içinde mahsup edileceği belirtilir. Proje yürütücüsü, yukarıda yer alan kurallar çerçevesinde kendisi de avans kullanabilir.

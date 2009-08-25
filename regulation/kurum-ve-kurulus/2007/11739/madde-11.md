@@ -1,0 +1,2 @@
+Muhasebeleştirme işlemlerinde kullanılacak kur
+MADDE 11 – (1) (Değişik:RG-25/8/2009-27330) Projeye ilişkin muhasebe kayıtlarında, ödemelerde ödemenin yapıldığı, avansların mahsubunda avans ödemesinin yapıldığı, diğer işlemlerde ise işlemin yapıldığı tarihteki özel hesabın bulunduğu bankanın döviz alış kuru esas alınır. Özel hesaba aktarılan dövizler ve bu dövizlerin değerlemesine ilişkin işlemlerde ise Türkiye Cumhuriyet Merkez Bankası döviz satış kuru esas alınır.

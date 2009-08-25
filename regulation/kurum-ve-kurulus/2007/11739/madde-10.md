@@ -1,0 +1,4 @@
+Projeden kalan tutarlar
+MADDE 10 – (Değişik:RG-25/8/2009-27330)
+(1) Proje yürütücüsü tarafından projenin tamamlandığının muhasebe birimine bildirilmesi üzerine, özel hesapta kalan tutarlardan proje sözleşmesi gereğince iade edilmesi gerekenler iade edildikten sonra, kalan tutarlar ilgili muhasebe birimince bütçeye gelir kaydedilir. Ancak; bu kapsamda hazırlanan veya hazırlanacak yeni projeler varsa, üst yöneticinin onayıyla, bu projelerin hazırlık aşamasında yapılması gerekli giderler ile onaylanmış ancak hibe ödemesi gecikmiş projelerin hibe ödemesi yapılıncaya kadar gerçekleşen giderleri karşılamak üzere, artan tutarlar bütçeye gelir yazılmayarak, 333-Emanetler Hesabının altında açılacak bir yardımcı hesapta tutulabilir.
+(2) Onaylanmış ancak hibe ödemesi gecikmiş olan projeler için kullanılan tutarlar, hibe ödemesi yapıldığında en geç 10 gün içerisinde emanetler hesabına iade edilir.
