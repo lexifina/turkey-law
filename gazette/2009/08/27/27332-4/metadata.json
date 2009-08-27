@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-08-27",
+  "issue": "27332",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türk Mühendis ve Mimar Odaları Birliği Kimya Mühendisleri Odası Bilirkişilik Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090827-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090827.htm",
+  "index_sha256": "bf22873aa1f75d6d0ee08b90f242412e3ed00c71631cac1422bc9ca4d809e9df",
+  "index_header": "27 Ağustos 2009 ... 27332 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
