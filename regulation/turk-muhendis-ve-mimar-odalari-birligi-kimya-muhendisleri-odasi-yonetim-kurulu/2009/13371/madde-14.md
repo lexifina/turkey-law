@@ -1,0 +1,2 @@
+Bilirkişilik yetki belgesinin geçerliliği ve süresi
+MADDE 14 – (1) Bilirkişilik mühendis yetki belgesinin geçerlilik süresi her yıl onaylanmak kaydıyla alındığı tarihten itibaren beş yıldır. Belgelerin yıllık onaylarında, belgenin geçerliliğini sürdürebilmesi için meslek içi eğitimlerin tamamlanması zorunludur. Gerekli meslek içi eğitimleri tamamlayamayan belge sahibinin belgesi meslek içi eğitim tamamlanıncaya kadar geçerliliğini yitirir. Geçerliliğini yitiren belge sahibi bilirkişi listelerinden çıkarılarak, Oda tarafından ilgili birimlere ve TMMOB’ye bilgi verilir.
