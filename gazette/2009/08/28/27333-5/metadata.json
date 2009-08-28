@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-08-28",
+  "issue": "27333",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KARARI",
+  "title": "Antalya İli Alanya İlçesine Bağlı Cikcilli, Oba, Çıplaklı, Tosmur ve Kestel Belediyeleri ile Asmaca, Paşaköy ve Mahmutseydi Köylerinin Tüzel Kişiliklerinin Kaldırılarak Alanya Belediyesi Sınırları İçine Katılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090828-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090828.htm",
+  "index_sha256": "cf5e1f95fb5e045b38af2e71ca8e39dd59d1bb92082fb42c90900dcc62114301",
+  "index_header": "28 Ağustos 2009 ... 27333 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
