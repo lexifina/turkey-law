@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-08-29",
+  "issue": "27334",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "DÜZELTME (Sosyal Sigorta İşlemleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik ile ilgili)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090829-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/08/20090829.htm",
+  "index_sha256": "7f8d6fa6acf776781b5ce4cef40c5a6b74a7f91c705f54ec5b626797680ff1a7",
+  "index_header": "29 Ağustos 2009 ... 27334 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
