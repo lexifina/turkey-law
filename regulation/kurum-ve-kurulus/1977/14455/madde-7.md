@@ -1,0 +1,1 @@
+Madde 7 - Geçici personel olarak görevlendirilecek uzman ve usta öğreticilerin çalıştırılmalarına, Millî Eğitim Bakanlığının teklifi üzerine Maliye Bakanlığı ve Devlet Personel Dairesi görüşlerine dayanılarak Bakanlar Kurulunca karar verilir. Sözleşme Millî Eğitim Bakanlığınca imzalanır.

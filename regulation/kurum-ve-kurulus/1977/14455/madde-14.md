@@ -1,0 +1,1 @@
+Madde 14 - Uzman ve usta öğreticilerden 3 üncü maddede belirtilen şartları taşımadıkları, sözleşme hükümlerine uymadıkları ve görevlerinde başarısız oldukları kurum müdürlüğünce tespit edilenlerin, sözleşmeleri tek taraflı olarak feshedilebilir.

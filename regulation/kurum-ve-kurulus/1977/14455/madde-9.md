@@ -1,0 +1,1 @@
+Madde 9 - Uzman ve usta öğreticilerin günlük çalışma süresi en fazla 8 saattir. Kurum Müdürü, Cumartesi, Pazar günleri de dahil olmak üzere, uzman ve usta öğreticilere günün 8.00-23.00 saatleri arasında görev verebilir.
