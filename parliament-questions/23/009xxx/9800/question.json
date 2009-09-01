@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 23,
+  "legislative_year": 4,
+  "esas_no": "7/9800",
+  "submitted": "2009-09-01",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ensar ÖĞÜT",
+  "province": "Ardahan",
+  "summary": "Kilis'te bir çocuk parkı yapılmasına ve başı boş köpeklerin toplanmasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877be-667a-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "0333e7eb0ca2b73afdadaed2600e25bc33f02215d3c7fc900a710213dd8b83d0",
+  "in_force": "2009-09-01",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
