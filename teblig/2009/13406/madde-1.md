@@ -1,0 +1,4 @@
+UNİVERSAL SERTİFİKASYON VE GÖZETİM HİZMETLERİ TİC. LTD. ŞTİ. NİN KİŞİSEL
+KORUYUCU DONANIM YÖNETMELİĞİ KAPSAMINDA ONAYLANMIŞ KURULUŞ
+OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ
+MADDE 1 – (1) Avrupa Komisyonu tarafından 2163 kimlik kayıt numarası ile UNİVERSAL Sertifikasyon ve Gözetim Hizmetleri Tic. Ltd. Şti. 29 Kasım 2006 tarih ve 26361 sayılı Resmi Gazete'de yayımlanan Kişisel Koruyucu Donanım Yönetmeliğinde yer alan genel vücut koruyucuları (giysiler), ayak ve bacak koruyucuları, el ve kol koruyucuları ile baş koruyucu donanımları için AT Tip İnceleme Belgesi (EC Type - Examination Certificate) (Modül-B), Üretimde AT Kalite Kontrol Sistemi (Modül D) ve Nihai Ürün AT Kalite Kontrol Sistemi (Modül E) kapsamında Çalışma ve Sosyal Güvenlik Bakanlığı tarafından Onaylanmış Kuruluş olarak görevlendirilmiştir.

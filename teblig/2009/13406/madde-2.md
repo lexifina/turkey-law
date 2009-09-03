@@ -1,0 +1,1 @@
+MADDE 2 – (1) Bakanlığımızca Onaylanmış Kuruluş olarak görevlendirilen UNİVERSAL Sertifikasyon ve Gözetim Hizmetleri Tic. Ltd. Şti. nin kişisel koruyucu donanımlarla ilgili diğer resmi duyuruları Başbakanlık Dış Ticaret Müsteşarlığı’nın http://www.dtm.gov.tr/dts/ABTeknik/abteknik.htm adresinden takip edilecektir.
