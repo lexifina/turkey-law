@@ -1,0 +1,720 @@
+8 Eylül 2009 SALI
+Resmî Gazete
+Sayı : 27343
+YÖNETMELİK
+Bilgi Teknolojileri ve İletişim
+Kurumundan:
+ERİŞİM VE ARABAĞLANTI YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Genel Hükümler
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; kullanıcıların makul
+bir ücret karşılığında elektronik haberleşme hizmetlerinden ve
+altyapısından azami ölçüde yararlanmasını sağlayacak uygulamaların teşvik
+edilmesi, elektronik haberleşme sektöründe verimliliğin ve sürdürülebilir
+rekabet ortamının sağlanması, şebekelerin bütünlüğü ve birlikte
+çalışabilirliği ile hizmetlerin karşılıklı işletilebilirliğinin ve uzun
+vadede kullanıcıların yararına olacak rekabet ortamının oluşturulmasına
+yönelik altyapı yatırımlarının desteklenmesi için elektronik haberleşme
+şebekelerine erişim ve arabağlantıya ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, işletmecilerin erişim ve
+arabağlantıya ilişkin hak ve yükümlülükleri ile söz konusu yükümlülüklerin
+yerine getirilmesinde uygulanacak usul ve esasları kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 5/11/2008 tarihli ve 5809
+sayılı Elektronik Haberleşme Kanununun 4 üncü, 6 ncı, 7 nci, 12 nci, 24
+üncü, 33 üncü ve 60 ıncı maddeleri ile mezkûr Kanunun İkinci Kısım Üçüncü
+Bölümü hükümlerine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a)
+Alt yerel ağ: Sabit elektronik haberleşme şebekesinde abone tarafındaki
+şebeke sonlanma noktasını konsantrasyon noktasına veya belirli bir ara
+erişim noktasına bağlayan kısmi yerel ağı,
+b)
+Arabağlantı: Bir işletmecinin kullanıcılarının aynı veya farklı bir
+işletmecinin kullanıcılarıyla irtibatının veya başka bir işletmeci
+tarafından sunulan hizmetlere erişiminin sağlanmasını teminen, aynı veya
+farklı bir işletmeci tarafından kullanılan elektronik haberleşme
+şebekelerinin birbirlerine fiziksel ve mantıksal olarak bağlantısını,
+c)
+Arabağlantı yükümlüsü: Arabağlantı sağlama yükümlülüğü getirilen
+işletmeciyi,
+ç)
+Ayrıştırma: Bir işletmecinin, şebekesi üzerinden verdiği hizmetleri,
+taşıma, anahtarlama, arayüz de dâhil olmak üzere sadece talep edilen şebeke
+bileşenlerine ve talep edilen türden erişim sağlanmasına imkân verecek
+şekilde birbirinden ayrı olarak sunmasını,
+d)
+Elektronik haberleşme şebekesi: Farklı noktalar arasında elektronik
+haberleşmeyi sağlamak için bu noktalar arası bağlantıyı teşkil eden anahtarlama
+ekipmanları ve hatlar da dahil olmak üzere her türlü iletim sistemleri
+ağını,
+e)
+Erişim: Bu Yönetmelikte belirtilen koşullarla, elektronik haberleşme
+şebekesi, altyapısı ve/veya hizmetlerinin, diğer işletmecilere sunulmasını,
+f)
+Erişim yükümlüsü: Erişim sağlama yükümlülüğü getirilen işletmeciyi,
+g)
+Hesap ayrımı: İşletme içi transferler de dâhil, her bir faaliyetle ve iş
+birimiyle ilgili gelir, gider ve maliyetlerin ayrılmasını,
+ğ)
+İşletmeci: Yetkilendirme çerçevesinde elektronik haberleşme hizmeti sunan
+ve/veya elektronik haberleşme şebekesi sağlayan ve alt yapısını işleten
+şirketi,
+h)
+Koşullu erişim: Radyo ve televizyon yayın sistemlerine abonelik veya başka
+bir yöntemle önceden izin verilmesi yoluyla koşullu olarak erişimi sağlayan
+her türlü teknik tedbir ve düzenlemeyi,
+ı)
+Kurul: Bilgi Teknolojileri ve İletişim Kurulunu,
+i)
+Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+j)
+Taşıyıcı: Bir çağrının başlatılması, sonlandırılması veya taşınması
+hizmetlerinin tümünü veya bir kısmını sunan işletmeciyi,
+k)
+Taşıyıcı ön seçimi: Taşıyıcının, taşıyıcı seçim kodu çevrilmeksizin
+seçilmesine imkân sağlayacak şekilde önceden seçilmesi yöntemini,
+l)
+Taşıyıcı seçimi: Taşıyıcının, taşıyıcı seçim kodu çevrilmesi suretiyle
+seçilmesi yöntemini,
+m)
+Taşıyıcı seçim kodu: Taşıyıcılara, taşıyıcı seçimi amacıyla Kurumca tahsis
+edilen kodu,
+n)
+Veri akış erişimi: Abone tarafındaki şebeke sonlanma noktasını, veri
+iletimine imkân verecek şekilde, abonenin bağlı bulunduğu ana dağıtım
+çatısının bulunduğu tesise veya eşdeğer tesise yerleştirilen teçhizata
+bağlayan her türlü cihaza ve fiziksel devreye erişimi,
+o)
+Yerel ağ: Sabit elektronik haberleşme şebekesinde abone tarafındaki şebeke
+sonlanma noktasını abonenin bağlı bulunduğu ana dağıtım çatısına veya
+eşdeğer tesise bağlayan fiziksel devreyi,
+ö)
+Yerel ağa ayrıştırılmış erişim: Yerel ağın mülkiyetinde bir değişiklik
+olmadan yerel ağa ayrıştırılmış tam erişimi ve yerel ağa paylaşımlı
+erişimi,
+p)
+Yerel ağa ayrıştırılmış tam erişim: Bakır kablo çifti frekans spektrumunun
+tamamının kullanılmasına izin verecek şekilde yerel ağa veya alt yerel ağa
+erişimi,
+r)
+Yerel ağa paylaşımlı erişim: Bakır kablo çifti frekans spektrumunun sadece
+ses harici bandının kullanılmasına izin verecek şekilde yerel ağa veya alt
+yerel ağa erişimi
+ifade
+eder.
+İlkeler
+MADDE 5 – (1) Bu Yönetmeliğin uygulanmasında, aşağıdaki
+temel ilkeler göz önüne alınır.
+a)
+Etkin ve sürdürülebilir rekabet ortamının sağlanması ve korunması,
+b)
+Niteliksel ve niceliksel devamlılık, düzenlilik, güvenilirlik, verimlilik,
+açıklık, şeffaflık ve kaynakların verimli kullanılmasının gözetilmesi,
+c)
+Elektronik haberleşme hizmetleri arzı ile yeni yatırımların, teknoloji
+gelişiminin ve üretiminin özendirilmesi,
+ç)
+Elektronik haberleşme pazarının, gelişen şartlar çerçevesinde uluslararası
+normlara yaklaştırılması,
+d)
+Eşit şartlardaki kullanıcılar ve işletmeciler arasında ayrım gözetilmemesi,
+hizmetlerin benzer konumdaki kullanıcılar tarafından eşit şartlarla
+ulaşılabilir olması,
+e)
+Kullanıcıların talep ettikleri hizmetlerin dışında herhangi bir hizmeti
+satın almak zorunda bırakılmaması,
+f)
+Kullanıcıların makul bir ücret karşılığında elektronik haberleşme şebeke,
+altyapı ve hizmetlerinden yararlanmasını sağlayacak uygulamaların teşvik
+edilmesi,
+g)
+Elektronik haberleşme hizmetleri karşılığı alınacak ücretlerin mümkün
+olduğu ölçüde hizmetin etkin olarak sağlanması maliyetine dayalı olması,
+ğ)
+Bir hizmetin maliyetinin diğer bir hizmetin ücreti yoluyla
+desteklenmesinden veya karşılanmasından kaçınılması,
+h)
+Ücretlerin; rekabetin engellenmesine, bozulmasına veya kısıtlanmasına neden
+olacak şekilde belirlenmemesi,
+ı)
+Kullanıcıların özel durumlarının dikkate alınması.
+Erişimin kapsamı
+MADDE 6 – (1) Bu Yönetmelikte geçen erişim ifadesi;
+a)
+Yerel ağa ayrıştırılmış erişim ve veri akış erişimini de içerecek şekilde
+elektronik haberleşme şebekesi bileşenlerine ve ilgili tesislerine her
+türlü yöntemle erişimi,
+b)
+Binalar, borular ve direkleri de içerecek şekilde fiziksel altyapıya
+erişimi,
+c)
+İşletim destek sistemlerini de içerecek şekilde ilgili yazılım sistemlerine
+erişimi,
+ç)
+Numara dönüşümüne veya eşdeğer işlevselliğe sahip sistemlere erişimi,
+d)
+Hizmetlerin karşılıklı çalışabilirliği veya sanal şebeke hizmetleri için
+gerekli arayüzlere, protokollere veya diğer teknolojilere erişimi,
+e)
+Arabağlantıyı,
+f)
+Akıllı şebeke hizmetlerine yönelik bileşenlere erişimi ve mobil şebekelerde
+ulusal dolaşımı da içerecek şekilde kullanıcılara sunulan hizmetlerin
+karşılıklı çalışabilirliğinin temini için belirli hizmetlerin sağlanmasını,
+g)
+Yeniden satış amacıyla hizmetlerin toptan seviyede sunulmasını,
+ğ)
+Koşullu erişim sistemlerine erişimi,
+h)
+Kurum düzenlemeleri ile belirlenen diğer hallerdeki erişimi
+kapsar.
+İKİNCİ BÖLÜM
+Erişim ve
+Arabağlantı Yükümlülükleri
+Yükümlülük getirilmesi
+MADDE 7 – (1) İlgili pazarda etkin piyasa gücüne sahip
+işletmecilere Kurum tarafından, işletmecilerin yetkilendirmeleri ile bu
+Yönetmeliğin 9, 14 ve 15 inci madde hükümleri saklı kalmak kaydıyla bu
+Yönetmeliğin 8 ilâ 16 ncı maddelerinde belirtilen yükümlülüklerden biri,
+birkaçı veya tamamı getirilir. Aynı
+ve/veya farklı pazarlarda etkin piyasa gücüne sahip olan işletmeciler
+arasında yükümlülükler açısından ilgili pazar veya pazarlarda rekabet
+düzeyini etkileyen unsurlar ile 5 inci maddede yer verilen ilkeler dikkate
+alınarak farklılaştırma yapılabilir. Farklılaştırma, işletmecilere
+getirilebilecek yükümlülüklerin seçimi ve/veya seçilmiş olan
+yükümlülüklerin uygulama detaylarının farklılığı şeklinde olabilir.
+Erişim
+MADDE 8 – (1) Kurum, ilgili pazarda etkin piyasa gücüne
+sahip bir işletmecinin diğer bir işletmecinin bu Yönetmeliğin 6 ncı
+maddesinde belirtilen kapsamda erişimine izin vermemesinin veya aynı sonucu
+doğuracak şekilde erişim için makul olmayan süre ve şartlar ileri
+sürmesinin, rekabet ortamının oluşumunu engelleyeceğine veya ortaya çıkacak
+durumun, son kullanıcıların aleyhine olacağına karar vermesi halinde, söz
+konusu işletmeciye diğer işletmecilerin erişim taleplerini kabul etme
+yükümlülüğü getirebilir.
+(2)
+Erişim sağlama yükümlüsü işletmeciler, taşıma, anahtarlama ve işletim
+arayüzleri de dâhil olmak üzere kendilerinden talep edilen erişimi
+sağlayacak şekilde ayrıştırma yapmakla yükümlüdürler. Kurum, yerel ağ da
+dâhil olmak üzere bütün şebeke bileşenlerine ayrıştırılmış erişim sağlama
+yükümlülüğünün kapsamını belirler. Bir işletmecinin, içinde bulunduğu
+koşulların ayrıştırma yükümlülüğünü yerine getirmesini engellediğini
+kanıtlaması hâlinde Kurum, söz konusu işletmeciyi bu yükümlülükten kısmen
+ya da tamamen muaf tutabilir.
+(3)
+Erişim sağlama yükümlüsü olan bir işletmeci, ancak şebeke işletim
+güvenliğinin veya şebeke bütünlüğünün veya veri güvenliğinin temin
+edilemeyeceğini ya da şebekelerin karşılıklı işletilebilirliğinin mümkün
+olmadığını objektif kriterlerle kanıtlamak ve Kurumun onayını almak
+kaydıyla erişimi sınırlandırabilir. Bu hâllerin mevcudiyeti, işletmecilerin
+erişim yükümlüsü olarak belirlenmesini engellemeyeceği gibi erişim
+koşullarını müzakere etmeyi reddetmeleri için de geçerli bir neden teşkil
+etmez.
+Arabağlantı
+MADDE 9 – (1) Kurum, bir işletmecinin arabağlantıya izin
+vermemesinin veya aynı sonucu doğuracak şekilde makul olmayan süre ve
+şartlar ileri sürmesinin, rekabet ortamının oluşumunu engellediğine veya
+ortaya çıkacak durumun son kullanıcıların aleyhine olduğuna karar vermesi
+hâlinde, söz konusu işletmeciyi arabağlantı yükümlüsü olarak
+belirleyebilir.
+(2)
+Tüm işletmeciler, talep gelmesi halinde birbirleriyle arabağlantı
+müzakerelerinde bulunmakla yükümlüdürler. Tarafların anlaşamamaları halinde
+Kurum, işletmecilere arabağlantı sağlama yükümlülüğü getirebilir.
+(3)
+Arabağlantı, teknik ve ekonomik olarak uygun olacağı kanıtlanabilen ve
+Kurum tarafından uygun görülen herhangi bir arabağlantı noktasından temin
+edilir. İşletmeci, bunların haricinde bir noktadan arabağlantı talep etmesi
+hâlinde, temin edilecek noktanın maliyetini üstlenir.
+(4)
+Kurum, 8 inci maddenin üçüncü fıkrası hükümleri saklı kalmak kaydıyla,
+ilgili işletmecinin talebi üzerine, arabağlantının teknik ve ticari
+alternatiflerinin bulunduğu veya arabağlantıyı sağlamak için gerekli
+kaynakların bulunmadığı gerekçeleriyle arabağlantı yükümlülüğünün
+sınırlandırılmasına karar verebilir.
+Ayrım gözetmeme
+MADDE 10 – (1) Kurum, ilgili pazarda etkin piyasa gücüne
+sahip işletmecilere, elektronik haberleşme hizmetlerini sağlamak için kendi
+kullandıkları veya üçüncü şahısların elektronik haberleşme hizmetlerini
+sunmak için gereksinim duydukları hizmetleri, söz konusu hizmetleri talep
+edenlere; ayrım gözetmeksizin ve kendi ortaklarına, iştiraklerine veya
+ortaklıklarına sağladıkları ile aynı koşul ve kalitede temin etme
+yükümlülüğü getirebilir.
+Referans erişim teklifleri ve şeffaflık
+MADDE 11 – (1) Kurum, ilgili pazarda etkin piyasa gücüne
+sahip işletmecilere, teknik özellikler, şebeke özellikleri, tedarik ve
+kullanıma ilişkin hüküm ve koşullar ile ücretler gibi belirli bilgileri
+aleni hâle getirme yükümlülüğü getirebilir.
+(2)
+Kurum, ilgili pazarda etkin piyasa gücüne sahip işletmecilere arabağlantıyı da içerecek
+şekilde referans erişim teklifleri hazırlama yükümlülüğü getirebilir. Kurum
+tarafından referans erişim teklifi hazırlama yükümlülüğü getirilen
+işletmeci, söz konusu yükümlülüğün getirildiği tarihten itibaren en geç üç
+ay içinde referans erişim teklifini hazırlayarak Kuruma göndermekle
+yükümlüdür.
+(3)
+Referans erişim teklifleri Kurum düzenlemeleri çerçevesinde ve asgari
+olarak Ek-1’de yer alan hususları içerecek şekilde hazırlanır. Erişim
+talebinde bulunan işletmecilerin taleplerinin karşılanmasına yönelik
+gereksiz hizmetleri almamaları ve karşılığında bir bedel ödememeleri
+esastır. Bu maksatla, hizmetler yeterince ayrıştırılmış ve ilgili pazarın
+özelliklerine göre her bir hizmetin fiyatını da içerecek şekilde referans
+erişim teklifinin süre ve koşulları belirlenmiş olmalıdır. Kurum tarafından
+aksi belirtilmedikçe, söz konusu teklifler her yıl yürürlükteki teklifler
+esas alınmak suretiyle yenilenerek Şubat ayı sonuna kadar Kuruma
+gönderilir. Bununla birlikte, işletmeciler değişen pazar koşullarının ve
+teknolojik gelişmelerin gerektirdiği durumlarda Kuruma gönderdikleri
+referans erişim tekliflerinde değişiklik yapılmasını teklif etme hakkına
+sahiptir. Yeni teklifler onaylanıncaya kadar mevcut referans erişim
+teklifleri geçerliliğini korur.
+(4)
+Kurum, 5 inci maddede belirtilen ilkeleri göz önünde bulundurarak, referans
+erişim tekliflerinde gerekli değişikliklerin yapılmasını işletmecilerden
+isteyebilir. İşletmeciler, Kurumun istediği değişiklikleri belirtilen
+biçimde ve verilen sürede yerine getirmekle yükümlüdürler. Verilen süre
+içerisinde Kurumun istediği değişikliklerin yapılmaması halinde, Kurum bu
+değişiklikleri re’sen yapabilir.
+(5)
+İşletmeciler, Kurum tarafından doğrudan onaylanan veya bu maddenin dördüncü
+fıkrası kapsamında değiştirilerek onaylanan referans erişim tekliflerini
+internet sitelerinde ve Kurum tarafından belirlenebilecek diğer yöntemlerle,
+Kurumun onayını müteakip bir hafta içinde yayımlamakla yükümlüdürler.
+(6)
+İşletmeciler Kurum tarafından onaylanan referans erişim tekliflerinde yer
+alan usûl, esas ve ücretlerle erişim sağlamakla yükümlüdürler.
+Erişim tarifelerinin kontrolü
+MADDE 12 – (1) İşletmeciler, arabağlantı da dahil olmak üzere
+erişim tarifelerini bu Yönetmelikte yer alan ilkeleri göz önüne alarak
+serbestçe belirlerler.
+(2)
+Kurum, ilgili pazarda etkin piyasa gücüne sahip işletmecilere, erişim
+tarifelerini maliyet esaslı olarak belirleme yükümlülüğü getirebilir. Kurum
+tarafından talep edilmesi halinde yükümlü işletmeciler erişim tarifelerinin
+maliyet esaslı belirlendiğini ispat etmek zorundadır.
+(3)
+Kurum, erişim tarifelerinin yükümlü işletmeciler tarafından maliyet esaslı
+olarak belirlenmediğini tespit etmesi halinde söz konusu tarifeleri maliyet
+esasına göre belirler. Kurum, tarifeleri maliyet esasına göre
+belirleyinceye kadar diğer ülke uygulamalarını, daha önce uygulanmakta olan
+ücretler ve düzenlemeye konu olan hizmetin toptan ve perakende seviyede
+aynı ve/veya benzer pazarlarda sunulan diğer hizmetlerle olan ilişkisi
+çerçevesinde uygun olduğu ölçüde dikkate alarak tarifeleri belirleyebilir
+ve/veya tarifelere üst sınır koyabilir. Kurumun belirlediği tarifelere uyulması
+zorunludur.
+(4)
+Tarifeler, maliyet esasına göre belirlenirken aşağıdaki hususlar göz önünde
+bulundurulur.
+a)
+Erişim hizmetleri için maliyet esaslı tarifenin, hizmetleri sunmak için
+yatırılması gereken sermayeden makul bir geri dönüşü içerecek biçimde,
+hizmetin etkin olarak sağlanmasının ileriye dönük uzun dönem artan maliyeti
+ile ortak maliyetlerin hizmetle ilişkilendirilebilen kısmının toplamı
+şeklinde belirlenmesi esastır.
+b)
+Kurum, erişim hizmetinin aynı altyapıyı paylaştığı diğer hizmetler ile olan
+ilişkisi ve maliyetlerin hesaplanmasında kullanılması öngörülen verilerin
+elde edilebilirliği gibi hususları dikkate alarak, uzun dönem artan maliyet
+yönteminin farklı türlerinin veya elektronik haberleşme sektöründe
+uygulaması bulunan diğer yöntemlerin kullanılmasını uygun görebilir.
+c)
+Maliyetler, hizmetin etkin olarak sağlanması maliyetini aştığı takdirde,
+aşan kısım hizmetin etkin olarak sağlanması açısından gereksiz gider ve
+maliyet olarak kabul edilir. Bu tür gider ve maliyetler yasal zorunluluktan
+kaynaklanmaları veya diğer nedenlerle zaruri olduklarının kanıtlanması
+hâlinde dikkate alınır.
+(5)
+Dördüncü fıkranın (b) ve (c) bentlerine göre yapılan değerlendirmede,
+karşılaştırılabilir piyasalarda birbirinin muadili hizmetleri sunan
+işletmecilerin katlandıkları maliyetlere veya uyguladıkları tarifelere
+karşılaştırma amacıyla başvurulabilir. Bu durumda, referans alınan
+piyasaların kendilerine has özellikleri göz önüne alınır.
+Hesap ayrımı, maliyet muhasebesi ve denetim
+MADDE 13 – (1) Kurum, ilgili pazarda etkin piyasa gücüne
+sahip işletmecilere, hesap ayrımı ve/veya maliyet muhasebesi yükümlülüğü
+getirebilir.
+(2)
+Hesap ayrımı yükümlülüğü getirilen işletmeciler, Kurum tarafından
+belirlenecek hesap ayrımı ve maliyet muhasebesine ilişkin usul ve esaslar
+kapsamında faaliyet alanları ve iş birimleri için ayrı ayrı hesap tutmakla
+yükümlüdür.
+(3)
+İşletmeciler, hesap ayrımı ve maliyet muhasebesi yükümlülüğü kapsamında
+hazırladıkları raporları Kuruma, Kurum tarafından belirlenen biçim, kapsam
+ve sürede yazılı ve elektronik ortamda gönderir. Kurum, işletmecilere;
+hesap ayrımı ve maliyet muhasebesi yükümlülükleri kapsamında hazırladıkları
+bilgi ve belgeleri yayımlama yükümlülüğü getirebilir. Kurum, gerekli
+gördüğü takdirde bu bilgi ve belgeleri kendisi de yayımlayabilir.
+Yayımlanacak bilgi ve belgelerin kapsamı Kurum tarafından belirlenir.
+(4)
+Kurum işletmecilerin hesaplarını denetleyebilir veya denetim yetkisi vermek
+suretiyle denetletebilir veya işletmecilere hesaplarını bağımsız denetim
+kuruluşlarına denetletme yükümlülüğü getirebilir. Hesap ayrımı ve maliyet
+muhasebesi kapsamında denetim yetkisi verilenler ve bağımsız denetim
+kuruluşları tarafından yapılan denetime ilişkin giderler ilgili
+işletmeciler tarafından karşılanır.
+(5)
+Kurum, bu maddenin uygulama esaslarını yapacağı düzenlemelerle belirler.
+Ortak yerleşim
+MADDE 14 – (1) Kurum, işletmecilere kendi tesislerinde, diğer
+işletmecilerin ekipmanları için maliyet esaslı bir bedel karşılığında,
+başta fiziksel ortak yerleşim olmak üzere her türlü ortak yerleşim sağlama
+yükümlülüğü getirebilir.
+(2)
+İşletmecilerin, herhangi bir yerde fiziksel ortak yerleşimin zaruri ve/veya
+imkân dahilinde olmadığını kanıtlamaları hâlinde, Kurum, bu yerlerde söz
+konusu işletmecileri fiziksel ortak yerleşim yükümlülüğünden muaf
+tutabilir. Kurum, fiziksel ortak yerleşim yükümlülüğünden muaf tutulan
+işletmecilere, maliyet esaslı bir bedel karşılığında fiziksel ortak
+yerleşime eşdeğer ekonomik, teknik ve operasyonel koşullarla farklı bir yöntem
+kullanarak ortak yerleşim sağlama yükümlülüğü getirebilir.
+(3)
+Kurum, ortak yerleşim tarifelerinin maliyet esaslı belirlenmediğini tespit
+etmesi hâlinde, maliyetleri, uluslararası uygulamaları ve/veya rayiç
+bedelleri uygun olduğu ölçüde dikkate alarak söz konusu tarifeleri
+belirler.
+(4)
+Fiziksel ortak yerleşimden faydalanan işletmeciler veya temsilcileri, kendi
+malzemelerine ve ekipmanlarına müdahale etmek üzere söz konusu hizmeti
+sağlayan işletmecilerin tesislerine girebilir.
+(5)
+Kurum, bu maddenin uygulama esaslarını yapacağı düzenlemelerle belirler.
+Tesis paylaşımı
+MADDE 15 – (1) Bir işletmecinin tesislerini kamuya veya
+üçüncü şahıslara ait bir arazinin üzerine veya altına yerleştirebildiği
+veya bu tür arazileri kullanabildiği veya kamulaştırma müessesesinden
+yararlanabildiği hallerde Kurum; çevrenin korunması, kamu sağlığı ve
+güvenliği, şehir ve bölge planlaması ve kaynakların etkin kullanılması
+gereklerini gözeterek ve bu kapsamda yapılacak düzenlemelerin rekabet
+üzerindeki etkileri ile 8 inci maddenin üçüncü fıkrasında belirtilen
+hususları dikkate alarak ilgili işletmeciye söz konusu tesisleri ve/veya
+araziyi makul bir bedel karşılığında diğer işletmecilerle paylaşma
+yükümlülüğü getirebilir.
+(2)
+Kurum, bu maddenin uygulama esaslarını yapacağı düzenlemelerle belirler.
+(3)
+5809 sayılı Elektronik Haberleşme Kanununun 17 nci maddesi kapsamında radyo
+ve televizyon yayınlarını da içeren her türlü yayının belirlenmiş emisyon
+noktalarından yapılabilmesini teminen ortak anten sistem ve tesisleri kurulmasına
+yönelik düzenlemelerde yer alan hükümler saklıdır.
+Taşıyıcı seçimi ve taşıyıcı ön seçimi
+MADDE 16 – (1) Kurum,
+ilgili pazarda etkin piyasa gücüne sahip işletmecilere son kullanıcıların
+taşıyıcılarını serbestçe seçebilmelerini temin etme ve bu kapsamda taşıyıcı
+seçimi ve taşıyıcı ön seçimi uygulama yükümlülüğü getirebilir.
+(2)
+Taşıyıcı seçimi ve taşıyıcı ön seçimi yükümlülüğü getirilen işletmeciler,
+taşıyıcı seçimi ve taşıyıcı ön seçimi kapsamında Kurum düzenlemelerine
+uygun olarak şebekelerinde gerekli düzenlemeleri yapar ve uygular. İşletmeciler,
+taşıyıcı seçimi ve taşıyıcı ön seçimi kapsamında şebekelerinde yapacakları
+düzenlemelerden kaynaklanabilecek gider kalemleri için Kurumdan hak
+talebinde bulunamaz.
+(3)
+İşletmecilerin taşıyıcı seçimi ve taşıyıcı ön seçimi kapsamında
+birbirlerine uygulayacağı ücretler konusunda 12 nci madde hükümleri
+uygulanır.
+(4)
+Kurum, bu maddenin uygulama esaslarını yapacağı düzenlemelerle belirler.
+ÜÇÜNCÜ BÖLÜM
+Erişim
+Müzakereleri ve Sözleşmeleri
+Sözleşme serbestisi
+MADDE 17 – (1) İşletmeciler, erişim sözleşmelerinde yer
+verilecek hüküm ve koşulları ilgili mevzuata, yetkilendirmelerinde
+öngörülen şartlara ve Kurum düzenlemelerine aykırı olmamak kaydıyla kendi
+aralarında müzakere ederek serbestçe belirlerler.
+Uzlaşmazlıkların çözümü
+MADDE 18 – (1) İlgili işletmeciler arasında, yeni bir erişim
+talebinden itibaren azami iki ay içerisinde anlaşma tesis edilememesi veya
+mevcut erişim sözleşmesinde bu Yönetmelik kapsamında herhangi bir
+anlaşmazlık vuku bulması halinde taraflardan herhangi biri Kurumdan
+uzlaştırma prosedürünün işletilmesini talep edebilir.
+(2)
+Kuruma uzlaştırma talebinde bulunan işletmecilerin başvurularında aşağıdaki
+hususlar yer almalıdır.
+a)
+Tarafların isim ve unvanları,
+b)
+Erişim talebinin yapıldığı tarih,
+c)
+Erişim talebinin kapsamı ve süresi,
+ç)
+Erişim talebi çerçevesinde teklif edilen ücret ve gerekçeleri,
+d)
+Taraflarca üzerinde anlaşma sağlanamayan hususlar,
+e)
+Yukarıda sıralanan hususlara ilişkin her türlü bilgi ve belge.
+(3)
+Kurum, başvuru yapan işletmecinin gerekli belgeleri sunmaması hâlinde
+eksikliklerin belirlenen süre içerisinde tamamlanmasını talep eder. Söz
+konusu eksikliklerin verilen süre içerisinde tamamlanmaması halinde başvuru
+reddedilmiş sayılır.
+(4)
+Kurum, kendisinden uzlaştırma talebinde bulunulduğunu diğer işletmeciye
+yedi gün içinde tebliğ eder. İşletmeci, tebligatı almasını müteakip onbeş
+gün içinde, görüşlerini ve konuya ilişkin bilgi ve belgeleri Kuruma sunar.
+(5)
+Kurum, söz konusu bilgi ve belgelerin alındığı tarihten itibaren otuz gün
+içinde, işletmecilere ilgili mevzuat kapsamında getirilen yükümlülükleri,
+Kurum tarafından aynı veya benzer hususlarda yapılan düzenlemeleri, talep
+konusu hizmetin ekonomik ve teknik açıdan alternatiflerinin varlığı ve bu
+maddede öngörülen uzlaştırma prosedürü dışındaki müzakere, arabuluculuk da
+dahil tarafların başvurabileceği uyuşmazlık çözüm yollarının mevcut
+uzlaşmazlığı daha etkin bir şekilde giderme olasılığı gibi hususları
+dikkate alarak uzlaştırma talebini kabul edip etmeyeceğine karar verir.
+Talebin reddedilmesi durumunda ilgili işletmecilere bildirimde bulunulur.
+Kurum, uzlaştırma talebini kabul etmesi halinde ilgili işletmecileri
+uzlaştırma toplantısına davet eder. Uzlaşmazlık konularının söz konusu
+toplantıda tutanak altına alınması ile uzlaştırma süreci başlatılır.
+(6)
+Kurum, uzlaştırma sürecinde tarafların anlaşamaması halinde, taraflarca
+sunulan bilgi ve belgeleri 5 inci maddede belirtilen ilkeler doğrultusunda
+nitelik ve nicelik itibarıyla değerlendirerek erişim anlaşmasının
+anlaşmazlık konusu olan hüküm, koşul ve ücretlerini uzlaştırma sürecinin
+başladığı tarihten itibaren iki ay içerisinde belirlemeye yetkilidir.
+Ancak, uzlaştırma talebinin daha önce sunulmayan bir hizmete ilişkin
+olması, talebin içeriğinin kapsamlı bir çalışma ve bilgi toplama süreci
+gerektirmesi ve Kurumun gerekli gördüğü diğer istisnai hallerde bu süre en
+fazla iki ay daha uzatılabilir.
+(7)
+Kurum, bu madde kapsamında gerekli gördüğü her türlü bilgi ve belgeyi
+taraflardan talep edebilir. Taraflar, söz konusu bilgi ve belgeleri Kurum
+tarafından belirlenecek süre içinde Kuruma göndermekle yükümlüdür.
+(8)
+Kurum tarafından belirlenen hüküm, koşul ve ücretler; referans erişim
+tekliflerinde ve Kurum düzenlemelerinde yer alan hükümler saklı kalmak kaydıyla,
+uzlaştırma talep eden işletmecinin Kuruma başvuruda bulunduğu tarihten
+itibaren yürürlüğe girer.
+(9)
+Kurum, uzlaştırma sürecinde, geçici ücretin belirlenmesi dâhil, kamu
+yararının gerektirdiği her türlü tedbiri alır. İşletmeciler, geçici ücret
+dâhil, Kurum tarafından alınacak tedbirlere uymakla yükümlüdür. Kurum,
+geçici ücreti belirlerken, daha önce uygulanmakta olan ücretleri ve/veya 12
+nci madde hükümlerini dikkate alır. İşletmeciler, Kurum tarafından nihai
+ücretin belirlenmesinden sonra, geriye dönük olarak bu ücret üzerinden
+mahsuplaşırlar.
+(10)
+Müteakip Kurum düzenlemeleri aksini gerektirmedikçe veya ilgili mevzuat
+çerçevesinde işletmecilerin mutabakatıyla aksi kararlaştırılmadıkça,
+Kurumun belirlediği hüküm, koşul ve ücretlerin uygulanmasına devam olunur.
+Erişim ve arabağlantı sözleşmelerinin
+Kuruma sunulması ve aleniyeti
+MADDE 19 – (1) Erişim ve arabağlantı sözleşmeleri, bunların
+ekleri ve değişikliklerinin tasdikli bir sureti imzalanmasını müteakip
+onbeş gün içinde Kuruma sunulur. İşletmeciler, erişim yükümlülükleri,
+rekabetin tesisi ve tüketicilerin korunması, şebekelerin bütünlüğü ve
+birlikte çalışabilirliği ile hizmetlerin karşılıklı işletilebilirliği gibi
+hususlara ilişkin olarak Kurumun sözleşmelerde mevzuata aykırı bulduğu
+hüküm ve koşullara yönelik düzeltme taleplerini otuz gün içinde yerine
+getirmekle yükümlüdür. Erişim ve arabağlantı sözleşmelerinin Kuruma
+sunulmasına ilişkin olarak görev ve imtiyaz sözleşmelerinde yer alan
+hükümler saklıdır.
+(2)
+Sözleşmenin tarafları, ticari sır ihtiva ettiğine kanaat getirdikleri
+maddeleri sözleşmeyle birlikte Kuruma bildirir. Ticari sır olarak kabul
+edilebilecek bilgiler için 28/5/2009 tarihli ve 27241 sayılı Resmî
+Gazete’de yayımlanarak yürürlüğe giren İşletmecilere Ait Sırların Korunması
+ile Kamuoyuna Açıklanacak Bilgilerin Yayımlanmasına İlişkin Usul ve Esaslar
+Hakkında Yönetmelik hükümleri esas alınır. Ayrım gözetmeme yükümlülüğü
+getirilen işletmeciler tarafından erişim talebinde bulunan diğer
+işletmecilere de uygulanması gereken hükümler, tarife bilgileri dâhil,
+ticari sır olarak addolunamaz.
+(3)
+Erişim sözleşmeleri, ticari sırlar saklı kalmak kaydıyla alenidir. Kurum,
+ticari sır olarak kabul ettiği hususlarla ilgili gerekli tedbirleri alır.
+(4)
+Kurum, erişim sözleşmelerinin aleniyetine ilişkin düzenlemeler yapabilir.
+Bilgilerin gizliliği
+MADDE 20 – (1) İşletmeciler, gerek erişim koşullarının
+müzakereleri esnasında gerekse bu müzakerelerden önce veya sonra diğer
+işletmeciden elde ettikleri bilgileri, veriliş amacına uygun olarak
+kullanmak ve her hâlükârda gizli tutmakla yükümlüdür. Söz konusu bilgiler,
+Kurum haricinde, hiç bir şekilde, bu tür bilgileri kendilerine haksız
+rekabet avantajı sağlayacak şekilde kullanabilecek üçüncü şahıslara,
+işletmecilerin ortaklarına, iştiraklerine ve ortaklıklarına ifşa edilemez.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Müeyyideler
+MADDE 21 – (1) Bu Yönetmelik uyarınca;
+a)
+Yükümlü işletmecinin 8 inci maddenin birinci fıkrası kapsamında getirilen
+erişim sağlama yükümlülüğünü yerine getirmemesi veya haklı bir neden
+olmaksızın geciktirmesi durumunda, işletmeciye bir önceki takvim yılındaki
+net satışlarının yüzde ikisine kadar,
+b)
+Yükümlü işletmecinin arabağlantı sağlama yükümlülüğünü yerine getirmemesi
+veya haklı bir neden olmaksızın geciktirmesi durumunda, işletmeciye bir
+önceki takvim yılındaki net satışlarının yüzde ikisine kadar,
+c)
+Yükümlü işletmecinin kendisinden erişim veya arabağlantı hizmeti talep eden
+işletmecileri talep etmedikleri bir hizmeti almak zorunda bırakması
+durumunda, bir önceki takvim yılındaki net satışlarının yüzde birine kadar,
+ç)
+Yükümlü işletmecinin ayrıştırma yükümlülüğünü yerine getirmemesi veya haklı
+bir neden olmaksızın geciktirmesi durumunda, bir önceki takvim yılındaki
+net satışlarının yüzde ikisine kadar,
+d)
+Yükümlü işletmecinin ayrım gözetmeme yükümlülüğünü ihlal etmesi durumunda,
+işletmeciye bir önceki takvim yılındaki net satışlarının yüzde birine
+kadar,
+e)
+Yükümlü işletmecinin şeffaflık ve referans erişim tekliflerine ilişkin
+yükümlülüklerini yerine getirmemesi durumunda, işletmeciye bir önceki
+takvim yılındaki net satışlarının yüzde birine kadar,
+f)
+Yükümlü işletmecinin erişim tarifelerini bu Yönetmelik hükümlerine aykırı
+olarak uygulaması hâlinde, işletmeciye bir önceki takvim yılındaki net
+satışlarının yüzde birine kadar,
+g)
+Yükümlü işletmecinin hesap ayrımı, maliyet muhasebesi ve denetime ilişkin
+yükümlülüklerini yerine getirmemesi hâlinde, işletmeciye bir önceki takvim
+yılındaki net satışlarının yüzde ikisine kadar,
+ğ)
+Yükümlü işletmecinin ortak yerleşime ilişkin yükümlülüklerini yerine
+getirmemesi veya haklı bir neden olmaksızın geciktirmesi durumunda,
+işletmeciye bir önceki takvim yılındaki net satışlarının yüzde ikisine
+kadar,
+h)
+Yükümlü işletmecinin tesis paylaşımına ilişkin yükümlülüklerini yerine
+getirmemesi veya haklı bir neden olmaksızın geciktirmesi durumunda,
+işletmeciye bir önceki takvim yılındaki net satışlarının yüzde ikisine
+kadar,
+ı)
+Yükümlü işletmecinin taşıyıcı seçimine ilişkin yükümlülüklerini yerine
+getirmemesi veya haklı bir neden olmaksızın geciktirmesi durumunda,
+işletmeciye bir önceki takvim yılındaki net satışlarının yüzde ikisine
+kadar,
+i)
+Yükümlü işletmecinin uzlaştırma prosedürü kapsamında geçici ücret dâhil
+Kurum tarafından belirlenen hüküm, koşul ve ücretlere uymaması veya söz
+konusu hüküm, koşul ve ücretlerin uygulanmasını haklı bir neden olmaksızın
+geciktirmesi durumunda, işletmeciye bir önceki takvim yılındaki net
+satışlarının yüzde ikisine kadar,
+j)
+İşletmecinin erişim sözleşmelerinin Kuruma sunulması veya mevzuata aykırı
+hükümlerinin düzeltilmesi veya sözleşmelerin aleniyetine ilişkin
+yükümlülüklerini yerine getirmemesi durumunda, işletmeciye bir önceki
+takvim yılındaki net satışlarının binde beşine kadar,
+k)
+İşletmecinin bilgilerin gizliliğine ilişkin yükümlülüklerini ihlal etmesi durumunda,
+işletmeciye bir önceki takvim yılındaki net satışlarının yüzde birine
+kadar,
+ihlalin
+niteliğine göre Kurum tarafından belirlenecek oranlarda idarî para cezası
+uygulanır.
+(2)
+Kurum, ihlalin niteliği, tekrarlanan veya devam eden bir ihlalin mevcut
+olup olmadığı gibi hususları dikkate alarak, bu Yönetmelikte öngörülen
+idarî para cezalarının uygulanmasından önce ilgili işletmeciye Kurul
+kararıyla belirlenecek süre içinde yükümlülüğünü yerine getirmesini ihtar
+edebilir.
+(3)
+Bu madde uyarınca idarî para cezalarının uygulanması bu Yönetmelikle
+getirilen yükümlülükleri ortadan kaldırmaz. İhlal konusu fiilin tekrarı
+veya devamı hâlinde işletmecinin bir önceki takvim yılındaki net
+satışlarının yüzde üçünü aşmamak kaydıyla idarî para cezası uygulanır.
+(4)
+5/9/2004 tarihli ve 25574 sayılı Resmî Gazete’de yayımlanan
+Telekomünikasyon Kurumu Tarafından İşletmecilere Uygulanacak İdari Para
+Cezaları ile Diğer Müeyyide ve Tedbirler Hakkında Yönetmelik hükümleri
+saklıdır.
+Görüşlerin alınması
+MADDE 22 – (1) Kurum bu Yönetmeliğin uygulanmasıyla ilgili
+kararları almadan önce işletmecilerin ve ilgili gerçek veya tüzel kişilerin
+görüşlerine başvurabilir.
+Atıflar
+MADDE 23 – (1) Diğer mevzuatta 14/6/2007 tarihli ve 26552
+sayılı Resmî Gazete’de yayımlanan Erişim ve Arabağlantı Yönetmeliğine
+yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+Yürürlükten kaldırılan yönetmelikler
+MADDE 24 – (1) 14/6/2007 tarihli ve 26552 sayılı Resmî
+Gazete’de yayımlanan Erişim ve Arabağlantı Yönetmeliği ile 8/3/2002 tarihli
+ve 24689 sayılı Resmî Gazete’de yayımlanan Ulusal Dolaşım (Roaming)
+Anlaşması Yapılması ile İlgili Usul ve Esaslar Hakkında Yönetmelik
+yürürlükten kaldırılmıştır.
+Mevcut idari işlemler
+GEÇİCİ MADDE 1 – (1) 14/6/2007 tarihli ve 26552 sayılı Resmî
+Gazete’de yayımlanan Erişim ve Arabağlantı Yönetmeliğine dayanılarak
+yayımlanan tebliğler, alınan Kurul kararları ile yapılan diğer idarî
+işlemler konuya ilişkin yeni bir işlem yapılıncaya kadar yürürlükte kalır.
+Yürürlük
+MADDE 25 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 26 – (1) Bu Yönetmelik hükümlerini Bilgi Teknolojileri
+ve İletişim Kurulu Başkanı yürütür.
+EK-1
+REFERANS ERİŞİM VE/VEYA ARABAĞLANTI TEKLİFLERİNDE
+YER ALMASI GEREKEN ASGARİ HUSUSLAR
+1.
+Genel hükümler
+1.1.
+Tarafların hak ve yükümlülükleri,
+1.2.
+Mülkiyet hakları,
+1.3.
+Gizliliğin korunması,
+1.4.
+Sözleşmenin süresi ve yeniden müzakere koşulları,
+1.5.
+Taraflardan herhangi birinin şebekesinde veya sunulan hizmetlerde
+değişiklik yapılması önerildiğinde izlenecek yöntemler.
+2.
+Sunulan hizmetlere ilişkin hükümler
+2.1.
+Hizmet(ler) (arabağlantı, yerel ağa ayrıştırılmış erişim, veri akışı
+erişimi, yeniden satış gibi);
+a)
+Tanım ve kapsam,
+b)
+Gerekli şebeke ve transmisyon unsurları,
+c)
+Erişim noktaları,
+ç)
+Test prosedürleri,
+d)
+Biçimlendirmeye (konfigürasyona) ilişkin hususlar.
+2.2.
+Ortak yerleşim (*);
+a)
+Ortak yerleşim noktalarına ilişkin bilgiler,
+b)
+Ortak yerleşim noktalarına ilişkin fiziksel, uzaktan ve sanal ortak
+yerleşim gibi seçenekler,
+c)
+Ortak yerleşime konu ekipmanların özellikleri ve kısıtları,
+ç)
+Ortak yerleşim noktalarının güvenliğini sağlamak üzere alınacak önlemler,
+d)
+Ortak yerleşim hizmetinden yararlanan işletmecinin personelinin ortak
+yerleşim noktalarındaki ekipmanlarına erişim koşulları,
+e)
+Ortak yerleşim yerinin kısıtlı olduğu hâllerde yer paylaşımında uygulanacak
+esaslar,
+f)
+Ortak yerleşime uygun yerin mevcut olup olmadığının kontrolüne ilişkin
+esaslar.
+3.
+Ücretler, ödemeler ve faturalama prosedürleri
+4.
+Talep tahminlerine ilişkin hususlar
+5.
+Siparişlerin iptal edilmesi hâlinde uygulanacak yaptırımlar
+6.
+Şebeke bütünlüğü ve güvenliğine ilişkin hususlar
+7.
+Abone hareketleri
+8.
+Hizmet seviyesi taahhüdü
+9.
+Arızaların giderilmesine yönelik prosedürler
+10.
+Kullanılacak ekipmanın teknik özellikleri ve tabi olacağı standartlar
+11.
+Sinyalleşme, trafik veya şebeke yönetimi gibi işletime ilişkin hususlar
+————————————
+(*) Ortak yerleşimin gerekli olduğu hizmetler ve
+yükümlü işletmeciler için zorunludur.
