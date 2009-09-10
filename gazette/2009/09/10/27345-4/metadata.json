@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-09-10",
+  "issue": "27345",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İzmir Üniversitesi Yaz Okulu Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/09/20090910-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/09/20090910.htm",
+  "index_sha256": "e4685fbd5dc8866c93a2d0f93000067c4467ad6cf684350717cc5a6878fe49f2",
+  "index_header": "10 Eylül 2009 ... 27345 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
