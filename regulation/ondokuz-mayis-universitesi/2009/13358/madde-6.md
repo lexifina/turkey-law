@@ -1,0 +1,2 @@
+Derslerin veriliş şekli
+MADDE 6 – (1) Derslerin verilmesinde, uzaktan öğretim teknolojileri ile hazırlanmış ders malzemeleri, iletişim araçları ve yöntemleri kullanılır. Protokolde belirtilen dersler için uygun bulunan bölge ve zamanlarda Yüksekokul Kurulu kararıyla akademik danışmanlık ve uygulamaya yönelik hizmetler düzenlenir. Bu hizmetlerin yeri, zamanı, süresi ve şartları kayıt yenileme sırasında öğrenciye duyurulur.
