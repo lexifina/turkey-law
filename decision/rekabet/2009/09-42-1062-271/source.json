@@ -1,0 +1,13 @@
+{
+  "number": "09-42/1062-271",
+  "type": "Rekabet İhlali",
+  "decision_date": "2009-09-16",
+  "publication_date": "2009-12-31",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=75c613c5-4c0e-401e-a160-a72322cd4cdb",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=744",
+  "pdf_sha256": "d6e315c936a70dfadedc70b95fbca3b9b286052ea324a7a98f04883264d9b094",
+  "pdf_bytes": "123048",
+  "pages": "4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
