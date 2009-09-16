@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-09-16",
+      "16.09.2009",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27351",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2009-09-16",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ardahan Üniversitesi",
+  "issuer_slug": "ardahan-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ardahan-universitesi/2009/13431",
+  "published": "2009-09-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13431&MevzuatTertip=5",
+  "source_bytes": 24745,
+  "source_id": "8.5.13431",
+  "source_sha256": "c6af7229d6f0ab65d98f4275535c8b6c541859fcf8126d2c67af5af5f7d19484",
+  "text_status": "as-enacted",
+  "title": "ARDAHAN ÜNİVERSİTESİ KAFKASYA VE ORTA ASYA ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 325,
+  "word_count": 1032
+}
