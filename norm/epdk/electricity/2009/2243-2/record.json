@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2243/2",
+  "decision_date": "2009-09-17",
+  "title": "1/10/2009 tarihinden itibaren uygulanacak \"2009 yılı Uyum Bileşenli Tarife Tabloları \" ve ?2009 Yılı Fonsuz Tarife? Tablolarına ilişkin kurul kararı,",
+  "resmi_gazete_date": "2009-09-25",
+  "resmi_gazete_number": "27357",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3ARZa33snIY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3ARZa33snIY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MG3yEvYZTuE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c1yGRv23hWA="
+  ],
+  "source_sha256": "1083619b562daac679d2ee488e668ab9c3ad4c9520355b7250785cf1cc39a0af",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-09-17",
+  "law_text_complete": false
+}
