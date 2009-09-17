@@ -1,0 +1,3 @@
+Soruşturma konusu maddenin fiyatlarının gelişimi
+MADDE 12 – (1) Tüm ülkelerden vaki ithalatın ortalama birim fiyatının 2004 yılında 9,05 ABD Doları/Kg; 2005 yılında 8,48 ABD Doları/Kg; 2006’da 8,43 ABD Doları/Kg ve 2007 yılında 9,23 ABD Doları/Kg düzeyinde gerçekleştiği tespit edilmiştir. Soruşturma konusu ülkeler bakımından ise, ÇHC menşeli soruşturma konusu ürünün birim fiyatı 2004-2007 yılları arasında sırasıyla 5,66 ABD Doları/Kg; 5,73 ABD Doları/Kg; 4,42 ABD Doları/Kg; 4,62 ABD Doları/Kg olarak gerçekleşmiştir.
+(2) Çin Tayvanı menşeli soruşturma konusu ürün bakımından ise aynı dönemde birim fiyatın sırasıyla 8,20 ABD Doları/Kg; 9,33 ABD Doları/Kg; 8,48 ABD Doları/Kg; 10,16 ABD Doları/Kg seviyesinde gerçekleştiği saptanmıştır.

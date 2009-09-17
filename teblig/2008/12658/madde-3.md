@@ -1,0 +1,3 @@
+Bilgilerin toplanması ve değerlendirilmesi
+MADDE 3 – (1) Soruşturma açılışını müteakip soruşturma konusu ürünün Müsteşarlık tarafından bilinen ÇHC ve Çin Tayvanı’nda yerleşik üretici/ihracatçılarına, Türkiye’de yerleşik ithalatçılarına ve soruşturmaya konu ülkelerdeki Müsteşarlık tarafından bilinmeyen üretici/ ihracatçılara iletilebilmesini teminen Ankara’da bulunan Çin Halk Cumhuriyeti Büyükelçiliği’ne ve Taipei Ekonomi ve Kültür Misyonu’na soru formları gönderilmiştir.
+(2) Bahse konu soru formlarına herhangi bir yanıt alınamamış olup, soruşturmaya konu ülkelerdeki üretici/ihracatçılar soruşturma süresince işbirliğinde bulunmamışlardır.

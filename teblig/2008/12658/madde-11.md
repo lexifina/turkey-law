@@ -1,0 +1,2 @@
+Maddenin soruşturma konusu ülkelerden ithalatı
+MADDE 11 – (1) Mezkur ürünün soruşturmaya tabi ülkelerden gerçekleşen ithalatı incelendiğinde ise 2004 yılında 362.016 kg olan ithalat miktarının 2007 yılında 853.058 kg düzeyinde gerçekleştiği tespit görülmüştür. Bu çerçevede, 2004 yılında 2.316.860 ABD Doları olan soruşturma konusu ülkelerden gerçekleşen ithalatın değerinin 2007 yılında 4.311.112 ABD Doları seviyesinde gerçekleştiği tespit edilmiştir. Soruşturma konusu ülkelerden gerçekleşen ithalatın neredeyse tamamının kati ithalat olduğu saptanmıştır.

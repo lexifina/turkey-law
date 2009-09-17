@@ -1,0 +1,4 @@
+Önlem konusu ürünün Türkiye toplam tüketimi ve pazar payları
+MADDE 13 – (1) Soruşturma konusu ürünün Türkiye toplam tüketimi hesaplanırken 2005-2007 yılına ait şikayetçi yerli üreticiler ile diğer yerli üreticilerden temin edilen yurtiçi satış miktarları ilgili yıla ait toplam ithalatla toplanmıştır. Bu çerçevede 2005 yılında 100 olan tüketim endeksinin 2006 yılında 123, 2007 yılında ise 142 olduğu görülmüştür.
+(2) Pazar paylarının gelişimine yönelik çalışmada ise 2005-2007 döneminde soruşturma konusu ülkelerin, pazar paylarını yükselterek sırasıyla Türkiye pazarından %43,2; %51,9 ve % 56,6 oranlarında pay aldıkları görülmüştür.
+(3) Üçüncü ülkelerin Türkiye pazarından aldıkları payın kademeli bir biçimde düşüşüyle beraber yerli üretim dalının ve yerli üretim dalı dışındaki diğer üreticilerin pazar paylarını artırma yönündeki eğilimlerine karşın, soruşturma konusu ülkelerin pazardaki etkinliklerini sürdürdükleri tespit edilmiştir.
