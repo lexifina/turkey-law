@@ -1,0 +1,2 @@
+Gerekçe
+MADDE 4 – (1) Yapılan inceleme sonucunda, Çin Tayvanı ve Vietnam menşeli “motosiklet iç ve dış lastikleri” ile Çin Tayvanı, Vietnam ve Sri Lanka menşeli “bisiklet iç ve dış lastikleri” ithalinde uygulanmakta olan dampinge karşı önlemlerin yürürlükten kalkması halinde damping ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğu konusunda yeterli delillerin bulunduğu sonucuna varılmıştır.
