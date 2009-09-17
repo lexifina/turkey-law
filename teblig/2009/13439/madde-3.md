@@ -1,0 +1,2 @@
+Mevcut önlem
+MADDE 3 – (1) İthalatta Haksız Rekabetin Önlenmesine İlişkin 2004/19 sayılı Tebliğ kapsamında, ÇHC, Güney Kore, Çin Tayvanı ve Hindistan menşeli 5605.00 gümrük tarife pozisyonu altında yer alan “dokumaya elverişli ipliklerden metalize iplikler (gipe edilmiş olsun olmasın), ip, şerit veya toz şeklindeki metalle birleştirilmiş veya metalle kaplanmış 54.04 veya 54.05 pozisyonundaki şerit ve benzerleri” için 2,2 ABD Doları/kg düzeyinde dampinge karşı önlem mevcuttur.
