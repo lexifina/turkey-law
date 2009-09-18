@@ -1,0 +1,63 @@
+D. ÖZEL DURUMLAR
+
+1. Değer Menkul Değerler A.Ş.’nin geçici kapalılık halinin talebi üzerine 20.03.2010 tarihine kadar bir kez daha 6 ay
+uzatılması buşvurusunun, Seri:V, No:46 sayılı Tebliğin 64’üncü maddesi çerçevesinde olumlu karşılanmasına karar verilmiştir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MERKEZ Eskişehir Yolu 8.Km No:156 06530 ANKARA Tel: (312) 292 90 90 Faks:(312) 292 90 00 www.spk.gov.tr
+İSTANBUL TEMSİLCİLİĞİ Harbiye Mah. Askerocağı Cad. No:15 34367 Şişli İSTANBUL  Tel: (212) 334 55 00 Faks: (212) 334 56 00
