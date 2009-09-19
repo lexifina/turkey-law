@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Destek Unsurları
+Destek unsurları
+MADDE 4 – (1) Banka tarafından işletmelere ve girişimcilere kullandırılacak yatırım, işletme sermayesi ve ihracata yönelik Türk Lirası veya döviz cinsinden nakdi ya da gayri nakdi kredilerin faiz, komisyon ve diğer masraflarına yönelik olarak KOSGEB tarafından bütçe imkânları dahilinde destek verilir. Bu desteğin geri ödemeli veya geri ödemesiz olarak uygulanması, kredi destek üst limiti, kredi destek süresi, destek oranları, işbirliği yapılacak kurum/kuruluşlar ve diğer hususlar, 3624 sayılı Kanunun 3 üncü maddesine göre Bakanlar Kurulunca belirlenen sektörel ve bölgesel öncelikler de dikkate alınarak KOSGEB İcra Komitesi kararıyla belirlenir ve KOSGEB’in banka ile yapacağı protokollerle uygulanır.
+(2) Bu destekten, KOSGEB Desteklerinden yasaklı olmayan, işletme ve girişimciler yararlanır.
+(3) İşletmelerin ve girişimcilerin Bankalar ile yapılacak olan protokoller kapsamında kullanacakları kredinin ana para riski tamamen bankaya aittir. Banka, kredi başvurularını protokol hükümleri ve bankacılık mevzuatı çerçevesinde değerlendirir. KOSGEB, gerekli gördüğünde otuz gün önce protokol taraflarını bilgilendirmek kaydı ile kredi faiz desteği uygulamasını durdurmaya yetkilidir.
