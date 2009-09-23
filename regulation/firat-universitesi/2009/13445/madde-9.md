@@ -1,0 +1,3 @@
+Yönetim kurulu
+MADDE 9 – (1) Yönetim Kurulu; Merkez Müdürü de dahil olmak üzere beş kişiden oluşur. Yönetim Kurulunun Merkez Müdürü dışındaki üyeleri, biri Mühendislik Fakültesinden diğerleri diğer fakültelerden olmak üzere Danışma Kurulunca, Danışma Kurulu üyeleri arasından seçilir ve üç yıllık süre için Rektör tarafından görevlendirilirler. Merkez Müdür yardımcıları oy hakkı olmadan Yönetim Kurulu toplantılarına katılabilirler.
+(2) Yönetim Kurulu; Merkez Müdürü başkanlığında Merkez Müdürünün çağrısı üzerine, üye tam sayısının salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır. Merkez Müdürünün olmadığı durumlarda Yönetim Kuruluna merkez müdür yardımcılarından biri başkanlık eder.
