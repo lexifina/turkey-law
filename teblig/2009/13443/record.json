@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.13443",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TEDAVİ KATILIM PAYININ UYGULANMASI HAKKINDA TEBLİĞ (SIRA NO: 12)",
+  "number": "13443",
+  "path": "teblig/2009/13443",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13443&MevzuatTertip=5",
+  "source_sha256": "c1a4d5ab5a39f731d2c0d59331f1003fab7ab588861d49e7b66de64e4e062593",
+  "source_bytes": 37604,
+  "published": "2009-09-18",
+  "gazette": "27353",
+  "in_force": "2009-10-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/10/2009 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/10/2009 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2013,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/09/20090918-14-1.xls",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/09/20090918-14-2.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
