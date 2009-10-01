@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2257/9",
+  "decision_date": "2009-10-01",
+  "title": "İhalesinde açık eksiltmeye Abone Bağlantı Bedeli (ABB) üzerinden devam edilen şehirlerde, Bağımsız Birim Sayısının (BBS) 1’den büyük olduğu durumlarda ABB’nin hesaplanması",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sy5yUS+ucuo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sy5yUS+ucuo="
+  ],
+  "source_sha256": "12f444b464f6ca701f7f4ae2405f82632b05783826ea0a56188db5c09533a512",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-10-01",
+  "law_text_complete": false
+}
