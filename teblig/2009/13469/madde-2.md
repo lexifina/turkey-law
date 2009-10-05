@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ; 4412 sayılı Kanunla değişik 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 20/10/1999 tarih ve 99/13482 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete'de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik (Yönetmelik) hükümleri çerçevesinde yürütülen gözden geçirme soruşturmasının sonuçlarını içermektedir.
