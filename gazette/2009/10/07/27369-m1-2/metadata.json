@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-10-07",
+  "issue": "27369",
+  "edition": "mükerrer 1",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tasfiye Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/10/20091007M1-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/10/20091007M1.htm",
+  "index_sha256": "8512f62f07de0a6f1e41dfc34c6fd20095299e735acfc3553d4f37e5f3baf63b",
+  "index_header": "7 Ekim 2009 ... 27369 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
