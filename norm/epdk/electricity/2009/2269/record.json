@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2269",
+  "decision_date": "2009-10-07",
+  "title": "Türkiye Elektrik İletim Anonim Şirketi (TEİAŞ)",
+  "resmi_gazete_date": "2009-10-15",
+  "resmi_gazete_number": "27377",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=46gY+nATpUg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=46gY+nATpUg="
+  ],
+  "source_sha256": "b687707586b2a705c83bdb952638ced751d7d43d930f37de9fcc6a4727375bf0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-10-07",
+  "law_text_complete": false
+}
