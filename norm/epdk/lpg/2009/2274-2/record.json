@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "2274-2",
+  "decision_date": "2009-10-15",
+  "title": "Rafinerici, LPG Dağıtıcı ve LPG Depolama Lisansı sahiplerinin 01/01/2010 tarihinden itibaren her bir LPG dolum ve/veya depolama tesislerinde ayrı ayrı olmak üzere TS EN ISO 4257 standartlarına uygun asgari 3 adet (1 set) LPG numune kabı bulundurmasına ilişkin",
+  "resmi_gazete_date": "2009-11-11",
+  "resmi_gazete_number": "27403",
+  "categories": [
+    "LPG Piyasası Mülga Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Tt3N/J/JQew=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Tt3N/J/JQew="
+  ],
+  "source_sha256": "d639ac7291b74fcb200443f7e2bc2f7fd468f3f3128e4c1ec8f687502c8f4ab2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5102,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2009-10-15",
+  "law_text_complete": true
+}
