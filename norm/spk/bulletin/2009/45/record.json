@@ -1,0 +1,48 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2009/45",
+  "date": "2009-10-16",
+  "title": "SPK Haftalık Bülteni 2009/45",
+  "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_45.pdf",
+  "source_sha256": "85ac37d74f35b2474eb2660eddbda59bb0266778f92113c89101d0e281207bed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. DUYURU"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 2.1.2009 – 16.10.2009 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_45.pdf"
+    },
+    {
+      "heading": "B. 12.10.2009 – 16.10.2009 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_45.pdf"
+    },
+    {
+      "heading": "C. 12.10.2009 – 16.10.2009 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_45.pdf"
+    },
+    {
+      "heading": "D. DUYURU",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4371b41c613a0d633c7/2009_45.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
