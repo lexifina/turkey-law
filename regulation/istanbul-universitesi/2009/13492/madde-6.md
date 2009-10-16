@@ -1,0 +1,2 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları; Enez bölgesinde arkeolojik kazı ve araştırmalar yapmak, yapılan çalışmaları yayınlamak, eğitim programları düzenlemek, seminer, konferans ve benzeri etkinlikler düzenlemek, bu faaliyetleri diğer merkezler ile birlikte koordine etmek ve bu alanlarda Üniversite imkanlarının tanıtımı da dahil olmak üzere her türlü faaliyette bulunmaktır.
