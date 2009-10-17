@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-10-17",
+  "issue": "27379",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "949 Türkiye Büyük Millet Meclisi Komisyonları Üyeliklerine Yapılan Seçime Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/10/20091017-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/10/20091017.htm",
+  "index_sha256": "c6ab9de2b0613cc39e03b9ff64223c3dd6abf0fce81a0df8aed23c6da51cdd37",
+  "index_header": "17 Ekim 2009 ... 27379 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
