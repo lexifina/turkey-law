@@ -1,0 +1,53 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "949",
+  "year": 2009,
+  "title": "Türkiye Büyük Millet Meclisi Komisyonları Üyeliklerine Yapılan Seçime Dair Karar",
+  "adopted": "2009-10-17",
+  "adopted_as_published": "17/10/2009",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.10.2009 No: 27379",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc094/karartbmmc094/karartbmmc09400949.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 94",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 741602,
+      "title": "Türkiye Büyük Millet Meclisi Komisyonları Üyeliklerine Yapılan Seçime Dair Karar",
+      "adopted_as_published": "17/10/2009",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc094/karartbmmc094/karartbmmc09400949.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 50,
+          "sitting": 6,
+          "sitting_date": "2009-10-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c050/tbmm23050006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c050/tbmm23050fih.pdf",
+          "pages": [
+            "579:594",
+            "595:596",
+            "596:598",
+            "600:602"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "5d7ba90f66d2063a7d6d959963ada65ff4cb4d9e34b5bcd586e482bbed6dbbd6"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5d7ba90f66d2063a7d6d959963ada65ff4cb4d9e34b5bcd586e482bbed6dbbd6",
+  "issuer": "TBMM",
+  "in_force": "2009-10-17",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 17/10/2009; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
