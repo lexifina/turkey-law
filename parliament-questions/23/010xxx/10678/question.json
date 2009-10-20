@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 23,
+  "legislative_year": 4,
+  "esas_no": "7/10678",
+  "submitted": "2009-10-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ensar ÖĞÜT",
+  "province": "Ardahan",
+  "summary": "Seracılıkta kullanılan elektriğin fiyatlandırılmasına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877be-7949-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "05be9f997e73cb1cbfdbd73b4a959f091371dc9a56874dd95c7f42ec45b3e0f9",
+  "in_force": "2009-10-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
