@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-10-22",
+  "issue": "27384",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Tır Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/10/20091022-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/10/20091022.htm",
+  "index_sha256": "190759224a6d9bb3bfca2dcb282e6d7618b5de99c0794d1daae2dfb94b64f8e5",
+  "index_header": "22 Ekim 2009 ... 27384 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
