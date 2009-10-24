@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-10-24",
+  "issue": "27386",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2009/15523 Türkiye Cumhuriyeti ile Kuzey Kıbrıs Türk Cumhuriyeti Arasında İmzalanan 20/7/2006 Tarihli Ekonomik ve Mali İşbirliği Protokolüne 2. Ek Protokolün Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/10/20091024-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/10/20091024.htm",
+  "index_sha256": "7392c580b136292bda708831c41f2c3a1f5d403fe318b562f188191d82701f11",
+  "index_header": "24 Ekim 2009 ... 27386 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
