@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-10-25",
+      "25.10.2009",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27387",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2009-10-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Galatasaray Üniversitesi",
+  "issuer_slug": "galatasaray-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/galatasaray-universitesi/2009/13506",
+  "published": "2009-10-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13506&MevzuatTertip=5",
+  "source_bytes": 19375,
+  "source_id": "8.5.13506",
+  "source_sha256": "5a2e958ce35b124afc9c6576b84c77c7c7ed97686f98c469a2c7c5d4149ac12c",
+  "text_status": "as-enacted",
+  "title": "GALATASARAY ÜNİVERSİTESİ ATATÜRK İLKELERİ VE İNKILÂP TARİHİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 194,
+  "word_count": 695
+}
