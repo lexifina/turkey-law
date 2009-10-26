@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 23,
+  "committee": "PLAN VE BÜTÇE KOMİSYONU",
+  "committee_id": 17,
+  "meeting_date": "2009-10-26",
+  "meeting_date_as_published": "26/10/2009",
+  "agenda": [
+    "BÜTÇE VE KESİN HESAP KANUNU TASARILARININ SUNUMU"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/1019",
+  "pdf_sha256": "8cc82d8c4b62fca0ffb7305c5a2c267bf973a8a66c737f6524b86f72261b4ab6",
+  "pdf_pages": 13,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=23, Komisyon=17)",
+  "listing_sha256": "09987c65057267ce5ba432fa057d1a8270f3cb4e961923851acec8c730cb8210",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2009-10-26",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
