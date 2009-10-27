@@ -1,0 +1,7 @@
+Teftiş Programı ve Uygulaması ile İlgili Esaslar
+Madde 42 - (Değişik ibare:RG-27/10/2009-27389) TTA'ya bağlı her kademedeki ünitelerin etkin ve verimli bir şekilde denetlenmesi için, Teftiş Kurulu Başkanlığınca, Genel Müdürlüğün ana hedef ve yıllık programlan göz önünde tutularak yıllık teftiş programlan hazırlanır ve Genel Müdürlük Makamının onayına sunulur.
+Merkez ve taşra teşkilatı içindeki herhangi bir birim, mutat ve makul süreler haricinde ve kabul edilebilir bir gerekçe olmaksızın teftiş dışı tutulamaz.
+Teftiş programlarında, Teftiş edilecek ünitelerle konular, görevlendirilecek Müfettişler, uygulama zaman ve süreleri belirtilir. Programlar Genel Müdürlük Makamının onayından sonra uygulanır.
+Yıllık teftiş programlarının uygulanması sırasında, bölgede çıkacak inceleme ve soruşturma işleri o bölgede görevli bulunan Müfettişlerce yürütülür. Bu çalışmalar nedeniyle Müfettişlerin görev merkezleri dışında geçen süreler, 45 inci maddede kayıtlı teftiş süresinin hesabında dikkate alınır.
+Teftiş programları uygulanırken bu Yönetmeliğin 41 inci maddesinde esaslarda göz önünde bulundurulur.
+Teftişlerin yoklama yöntemi ile gerçekleştirilmesi ve imkanlar ölçüsünde her yıl yapılması esastır. Bu yönteme göre yapılacak teftişlere ilişkin esaslar Teftiş Kurulu Başkanlığınca hazırlanacak yönerge ile belirlenir. Keza bu yöntemle gerçekleştirilen Teftişlerde Müfettişler işlemlerin doğruluğuna inanıncaya dek incelerler. Bir soruşturma sözkonusu ise, Teftiş döneminden önceki ve sonraki işlemleri de inceleyebilirler.

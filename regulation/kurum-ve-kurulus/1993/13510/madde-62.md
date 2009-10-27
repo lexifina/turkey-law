@@ -1,0 +1,6 @@
+Haberleşme
+Madde 62 - Müfettişler Genel Müdürlükle yazışmalarını Teftiş Kurulu Başkanlığı aracılığı ile yaparlar ve bu yazışmalarında "(Değişik ibare:RG-27/10/2009-27389) TTA Genel Müdürlüğü (Teftiş Kurulu Başkanlığı)" başlığını kullanırlar. Ayrıca, inceleme, araştırma, soruşturma ve Teftişle ilgili olarak gerek Genel Müdürlüğün Merkez Birimleri ve gerekse Müesseseler ile bunlara bağlı her kademedeki ünitelerle doğrudan yazışma yapabilirler.
+Müfettişler, kamu kurum ve kuruluşları ve tüm tüzel ve gerçek kişilerle doğrudan doğruya yazışma yapabilirler. Ancak, Bakanlıklar ve diğer Genel Müdürlüklerin Merkez Kuruluşları ile yazışmaları Başkanlık aracılığı ile olur.
+Müfettişler görev seyahatlerinde her görev yerine varışlarını ve buradan ayrılışlarını aynı gün en seri vasıta ile yazılı olarak Başkanlığa bildirirler. Birlikte çalışmalarda yazışma ve haberleşmeler kıdemli Müfettiş tarafından yapılır.
+Yer değiştirme durumlarını izlenerek ihtiyaca göre yönlendirilmesi bakımından, ayrılış yazılarının hareket tarihinden en geç 48 saat önce Başkanlığa gönderilmesi esastır. Acil hallerde Başkanlığın faks yada telefonla oluru alınmak suretiyle 48 saatlik süre beklenmeden hareket edilebilir.
+Görev merkezlerine dönüş için Başkanlığın izni gereklidir.
