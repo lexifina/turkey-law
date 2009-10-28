@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.13512",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 55)",
+  "number": "13512",
+  "path": "teblig/2009/13512",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13512&MevzuatTertip=5",
+  "source_sha256": "302a4d390334207646ceec6310f16daa6343587ed0bb1b63a1419af2973d301e",
+  "source_bytes": 9890,
+  "published": "2009-10-28",
+  "gazette": "27390",
+  "in_force": "2009-10-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.10.2009)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 292,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13512%20ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
