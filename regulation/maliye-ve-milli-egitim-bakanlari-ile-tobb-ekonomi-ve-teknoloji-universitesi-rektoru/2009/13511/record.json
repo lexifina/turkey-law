@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.13511",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "2809 SAYILI YÜKSEKÖĞRETİM KURUMLARI TEŞKİLATI KANUNUNUNEK 55 İNCİ MADDESİNDE BELİRTİLEN ÖZEL HESABIN OLUŞTURULMASI, KULLANIMI VE DENETİMİNE DAİR YÖNETMELİK",
+  "number": "13511",
+  "issuer": "Maliye ve Milli Eğitim bakanları ile TOBB Ekonomi ve Teknoloji Üniversitesi Rektörü",
+  "issuer_slug": "maliye-ve-milli-egitim-bakanlari-ile-tobb-ekonomi-ve-teknoloji-universitesi-rektoru",
+  "path": "regulation/maliye-ve-milli-egitim-bakanlari-ile-tobb-ekonomi-ve-teknoloji-universitesi-rektoru/2009/13511",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13511&MevzuatTertip=5",
+  "source_sha256": "411a8751020e6e7b88ceaeb4b492eaaea2fdc12369c4af03e14368e6220a74e3",
+  "source_bytes": 19005,
+  "published": "2009-10-28",
+  "gazette": "27390",
+  "in_force": "2009-10-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.10.2009); own commencement article: \"Bu Yönetmelik 1/3/2009 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/3/2009 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 866,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

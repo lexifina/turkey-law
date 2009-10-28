@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, TOBB Ekonomi ve Teknoloji Üniversitesinin ve bu Üniversitenin 2809 sayılı Yükseköğretim Kurumları Teşkilatı Kanununun Ek 55 inci maddesinin ikinci fıkrasının (f) bendi kapsamında bulunan illerdeki kampüslerinde bulunan okulların tüm personelinin ücretlerinden kesilecek gelir vergilerinin özel bir hesaba aktarılması yoluyla oluşan kaynağın kullanımı ve denetimini kapsar.
