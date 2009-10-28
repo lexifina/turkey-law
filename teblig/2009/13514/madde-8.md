@@ -1,0 +1,1 @@
+MADDE 8 – (1) 22/10/2008 tarihli ve 27032 sayılı Resmî Gazete’de yayımlanan Bakanlıklararası Hac ve Umre Kurulu Kararı Doğrultusunda Hac Döneminde Suudi Arabistan’da Çalışacak Geçici İşçiler İle İlgili Tebliğ yürürlükten kaldırılmıştır.

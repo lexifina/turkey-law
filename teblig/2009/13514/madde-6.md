@@ -1,0 +1,1 @@
+MADDE 6 – (1) Sınır kapılarından çıkışta; hac mevsiminde ülkemizden bu esaslar dahilinde Suudi Arabistan’a gidecek olanların pasaportlarında Türkiye İş Kurumu tarafından basılan “Hac mevsiminde geçici işçidir” kaşesi aranacaktır.

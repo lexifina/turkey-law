@@ -1,0 +1,1 @@
+MADDE 4 – (1) Türkiye İş Kurumu Yurtdışında İşe Yerleştirme Hizmetine Dair Yönetmeliğin 11 inci maddesinin 2’nci ve 3’üncü fıkrasında belirten şartların var olması halinde Suudi Arabistan’a geçici işçi götürmek isteyen firmaların talepleri kabul edilmeyecek ve hizmet akitleri onaylanmayacaktır.

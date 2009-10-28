@@ -1,0 +1,1 @@
+MADDE 7 – (1) Bakanlıklararası Hac ve Umre Kurulu Kararlarına muhalefet eden gerçek ve tüzel kişiler hakkında, Kabahatler Kanunu’nun 32’nci, 4904 sayılı Türkiye İş Kurumu Kanununun 18’inci ve 20’nci maddelerinde belirtilen idari para cezaları ve diğer yaptırımlar uygulanacaktır.

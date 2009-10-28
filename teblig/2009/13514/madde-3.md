@@ -1,0 +1,5 @@
+MADDE 3 – (1) Hac mevsiminde geçici işçi olarak Suudi Arabistan’a işçi götürecek işveren veya vekilleri;
+a) 16 Şubat 2008 tarih ve 26789 sayılı Resmî Gazete’de yayımlanan Türkiye İş Kurumu Yurtdışında İşe Yerleştirme Hizmetine Dair Yönetmeliğin 5’inci maddesinde belirtilen belgeleri Türkiye İş Kurumu tarafından hac mevsiminde geçici işçilerin iş ve işlemlerini yapmakla yetkilendirilen İl/Şube Müdürlüklerine ibraz edeceklerdir.
+b) Götürülecek işçilere hac mevsimi süresince geçerli olmak üzere 10.000.- (onbin) TL. tutarında ferdi veya toplu kaza ve ölüm sigortası yaptıracaklardır.
+c) Götürülen işçilerin adı, soyadı, T.C. kimlik numaraları ile meslekleri, ayrıca Suudi Arabistan’da ikamet edecekleri binaların ad, adres ve yöneticilerin telefonları, Türkiye çıkışlarından bir hafta sonra Türkiye İş Kurumu tarafından Bakanlıklararası Hac ve Umre Kurulu’na liste veya CD ortamında teslim edilecektir.
+ç) Götürecekleri işçilere, Suudi Arabistan Sağlık Bakanlığınca zorunlu tutulan Mencevax ACW135Y Menenjit, Mevsimsel Grip (Seasonal Influenza Vaccıne) ve Domuz Gribi (Pandemık A (H1N1) aşılarını yaptıracaklardır.
