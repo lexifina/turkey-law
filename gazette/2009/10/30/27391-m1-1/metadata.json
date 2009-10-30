@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-10-30",
+  "issue": "27391",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2009/15454 Tehlikeli Malların Karayolu ile Uluslararası Taşımacılığına İlişkin Avrupa Anlaşması’na Katılmamız Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/10/20091030M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/10/20091030M1.htm",
+  "index_sha256": "72689e28c943ea8f95cf867a71c087af920962aaa9b8e41f6954fc732fd02f47",
+  "index_header": "30 Ekim 2009 ... 27391 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
