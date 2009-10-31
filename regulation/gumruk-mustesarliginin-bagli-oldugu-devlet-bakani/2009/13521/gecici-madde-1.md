@@ -1,0 +1,2 @@
+Geçerliliğini koruyan belge ve sözleşmeler
+GEÇİCİ MADDE 1 – (1) 1/12/2008 tarihli ve 2008/14451 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Sınır Ticaretinin Düzenlenmesine İlişkin Karar uyarınca bu Kararın yürürlüğe girdiği tarihten önce düzenlenmiş Sınır Ticareti Belgeleri ve 2009 yılı il ithalat kotaları kapsamında düzenlenmiş uygunluk belgeleri ile Sınır Ticaret Merkezinde mağaza kiralama sözleşmeleri süreleri sonuna kadar geçerliliğini korur.

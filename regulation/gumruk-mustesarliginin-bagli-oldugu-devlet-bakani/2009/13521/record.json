@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.13521",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SINIR TİCARET MERKEZLERİNİN FİZİKİ OLARAK DÜZENLENMESİ, EŞYA VE STOK KONTROLLERİNİN YAPILMASI İLE BU MERKEZLERE GİRİŞ VE ÇIKIŞLARA İLİŞKİN USUL VE ESASLARA DAİR YÖNETMELİK",
+  "number": "13521",
+  "issuer": "Gümrük Müsteşarlığının bağlı olduğu Devlet Bakanı",
+  "issuer_slug": "gumruk-mustesarliginin-bagli-oldugu-devlet-bakani",
+  "path": "regulation/gumruk-mustesarliginin-bagli-oldugu-devlet-bakani/2009/13521",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13521&MevzuatTertip=5",
+  "source_sha256": "a663bac36217988b28973d2f2b8f06a81b71fb739d974e0b34379351bd219ffb",
+  "source_bytes": 167077,
+  "published": "2009-10-31",
+  "gazette": "27392",
+  "in_force": "2009-10-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.10.2009); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2264,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

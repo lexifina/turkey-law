@@ -1,0 +1,3 @@
+Giriş çıkışlar ve giriş kartları
+MADDE 11 – (1) Sınır Ticaret Merkezinde görevli resmi ve özel kuruluşlara bağlı tüm personel ile araçlar için verilecek giriş kartları, Sınır Ticaret Merkezi işleticisi tarafından tanzim edildikten sonra mülki idare amirliklerince onaylanarak verilir.
+(2) Düzenlenecek giriş kartlarının çeşitleri, veriliş şekli, değiştirilmesi, iptali, diğer giriş çıkışlar, park yerleri ve her türlü trafik düzenlemeleri ile sair hususlara ilişkin esaslar Sınır Ticaret Merkezi işleticisi tarafından hazırlanıp mülki idare amirlerince onaylanarak yürürlüğe girecek yönergelerle belirlenir.
