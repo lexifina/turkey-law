@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-11-01",
+  "issue": "27393",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "2010 YILI PROGRAMI",
+  "title": "17/10/2009 Gün ve 27379 Sayılı Resmî Gazete’de yayımlanan 12/10/2009 Gün ve 2009/15513 Sayılı 2010 Yılı Programının Uygulanması, Koordinasyonu ve İzlenmesine Dair Bakanlar Kurulu Kararı Eki 2010 Yılı Programı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091101M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091101M1.htm",
+  "index_sha256": "3c71d54ef46b6ea40143c5549daa8d91c24ea67a0cd74593eb71c3a8c2e05b48",
+  "index_header": "1 Kasım 2009 ... 27393 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
