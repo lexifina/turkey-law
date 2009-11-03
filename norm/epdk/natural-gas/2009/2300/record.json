@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2300",
+  "decision_date": "2009-11-03",
+  "title": "Adapazarı Gaz Dağıtım A.Ş. tarafından uygulanacak perakende satış tarifesi ile ilgili Karar",
+  "resmi_gazete_date": "2009-11-11",
+  "resmi_gazete_number": "27403",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nQ0BFmye3po=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nQ0BFmye3po="
+  ],
+  "source_sha256": "343df23c2c9485aadbf1a4ea061658b6caa17b1f83c2f5c42abb7bc8df77b5d3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-11-03",
+  "law_text_complete": false
+}
