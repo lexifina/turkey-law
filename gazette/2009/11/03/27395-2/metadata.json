@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-11-03",
+  "issue": "27395",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2009/15492 Filistin’in, “Mısır, Irak, Ürdün, Suriye ve Türkiye’nin (MIÜST) Beş Elektrik Güç Kuruluşu Arasındaki Elektrik Enterkonneksiyonu İçin Genel Enterkonneksiyon Anlaşması” ile “Beş Ülke Arasında (Mısır, Irak, Ürdün, Suriye, Türkiye-EIJST\" Elektriksel Enterkonneksiyon İçin Genel Alışveriş Anlaşması’na Katılımına Dair Ek Anlaşmaların Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091103-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091103.htm",
+  "index_sha256": "c132d26836a647ebdbd2e696b2506237ce064739654f6c1c28992074744e4708",
+  "index_header": "3 Kasım 2009 ... 27395 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
