@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.13522",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK STANDARDLARI ENSTİTÜSÜNÜN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ",
+  "number": "13522",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2009/13522",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13522&MevzuatTertip=5",
+  "source_sha256": "eee176281b7627925cf1956124cf62907d59ccd6b8b3fa3a04b55a0b2a50bcfe",
+  "source_bytes": 5949,
+  "published": "2009-11-03",
+  "gazette": "27395",
+  "in_force": "2009-11-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.11.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 64,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
