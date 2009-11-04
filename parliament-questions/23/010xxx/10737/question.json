@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 23,
+  "legislative_year": 4,
+  "esas_no": "7/10737",
+  "submitted": "2009-11-04",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Süleyman Turan ÇİRKİN",
+  "province": "Hatay",
+  "summary": "TRT'nin gelir ve giderleri ile personel alımına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877be-8747-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "47bc2c80d12a4c048ef5f6e201b17bab3d239a1a952e922d81c8dd77c309f000",
+  "in_force": "2009-11-04",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
