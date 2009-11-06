@@ -1,0 +1,24 @@
+{
+  "number": "meeting-11-06",
+  "number_as_published": "meeting-11-06",
+  "year": 2009,
+  "title": "GAZİEMİR BELEDİYE MECLİSİ 06.11.2009 KARAR ÖZETLERİ",
+  "decision_date": "2009-11-06",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=78",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/0b773ad5ecc9050cb11bf9271f03f2cb527485a581162e21af7bfb5df581655f.doc",
+  "source_sha256": "54449365270e0910f2f1a32c813cf850cde2750d7134414e226ccfd4e54cd170",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2009-11-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.11.2009; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "GAZİEMİR BELEDİYE MECLİSİ 06.11.2009 KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "29.01.2010"
+}
