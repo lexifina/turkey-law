@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-11-09",
+  "issue": "27401",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ANA STATÜ",
+  "title": "Eti Maden İşletmeleri Genel Müdürlüğü Ana Statüsü",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091109-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091109.htm",
+  "index_sha256": "bc7048f3cf7f4d7f885c364e5dcd8e0f90c2477fa1141af61cf606a5879121fb",
+  "index_header": "9 Kasım 2009 ... 27401 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
