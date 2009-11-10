@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-11-10",
+  "issue": "27402",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "950 (10/333, 334, 335) Esas Numaralı Meclis Araştırması Komisyonunun Görev Süresinin Uzatılmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091110-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091110.htm",
+  "index_sha256": "87c6781676d24cd664b609ff27e7dafcd9453cd6ee00fff0bf90cafb582aa415",
+  "index_header": "10 Kasım 2009 ... 27402 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
