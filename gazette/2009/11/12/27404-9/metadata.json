@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-11-12",
+  "issue": "27404",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Kıymetli Maden Standartları ve Rafinerileri Hakkında Tebliğde Değişiklik Yapılmasına İlişkin Tebliğ (No: 2009/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091112-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091112.htm",
+  "index_sha256": "7d9e0f89e74c70f887a80d337018f1d3404f2ddd977db646c39a9ffb9e92b041",
+  "index_header": "12 Kasım 2009 ... 27404 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
