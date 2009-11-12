@@ -1,0 +1,2 @@
+Gerekçe
+MADDE 4 – (1) Azmüsebat Çakmak ve Tıraş Bıçağı San. ve Tic. A.Ş. tarafından sağlanan bilgi ve belgeler ile TÜİK ithalat istatistiklerinden yararlanılarak yapılan inceleme neticesinde, ÇHC menşeli önleme konu ürüne uygulanan dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir nihai gözden geçirme soruşturması açılması için yeterli delillerin bulunduğu anlaşılmıştır.
