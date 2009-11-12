@@ -1,0 +1,2 @@
+Önlem konusu ürünün Türkiye toplam tüketimi
+MADDE 20 – (1) Soruşturma konusu ürünün Türkiye toplam tüketimi hesaplanırken 2006-2008 (Ocak-Eylül) dönemi için şikâyetçi yerli üretici (Pensan Kalem ve Kağıt Sanayi ve Ticaret A.Ş.) ve şikayeti destekleyen firmalardan temin edilen tahmini yurt içi satış miktarları ile ilgili yıla ait toplam ithalat değerleri toplanmıştır. 2008 (Ocak-Eylül) dönemine ait veriler tüm yıla tamamlanmıştır. Bu çerçevede 2006 yılında 100 olan tüketim endeksinin 2007 yılında 91, 2008 yılında 97 olduğu görülmüştür.

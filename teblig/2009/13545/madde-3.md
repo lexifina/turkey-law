@@ -1,0 +1,5 @@
+Bilgilerin toplanması ve değerlendirilmesi
+MADDE 3 – (1) Soruşturma açılışını müteakip soruşturma konusu ürünün Müsteşarlık tarafından ÇHC’nde yerleşik bilinen üretici/ihracatçılarına, Türkiye’de yerleşik ithalatçılarına ve ayrıca soruşturmaya konu ülkede yerleşik diğer üretici/ihracatçılara iletilebilmesini teminen anılan ülkenin Ankara’da bulunan Büyükelçiliğine soruşturma açılışına ilişkin bildirim yapılmıştır.
+(2) Taraflara Müsteşarlık internet sitesine konulan soru formunu yanıtlamaları için posta süresi dâhil 37 gün süre tanınmış, tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(3) Yerli üretim dalı, soruşturma süresi boyunca Müsteşarlığımız ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir. Soruşturma döneminde ithalat gerçekleştiren 6 firmadan cevap alınmıştır. “Üretici-ihracatçı soru formu”na ise hiçbir cevap alınmamıştır.
+(4) Tarafların soruşturma boyunca ortaya koyduğu tüm bilgi, belge ve görüşler incelenmiş, mezkûr görüşlerden mevzuat kapsamında değerlendirilebilecek olanlara bu Tebliğin ilgili bölümlerinde değinilmiştir.
