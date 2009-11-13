@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-11-13",
+  "issue": "27405",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türk Vatandaşlarının Günlük Yaşamlarında Geleneksel Olarak Kullandıkları Farklı Dil ve Lehçelerde Yapılacak Radyo ve Televizyon Yayınları Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091113-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091113.htm",
+  "index_sha256": "fdceed8becb2b0a150825aec8266ca3fe2d25bd80dc1c77fa3852b1bb0b339cd",
+  "index_header": "1 3 Kasım 2009 ... 27405 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
