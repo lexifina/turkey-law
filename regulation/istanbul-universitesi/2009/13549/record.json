@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-11-16",
+      "16.11.2009",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27408",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2009-11-16",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Üniversitesi",
+  "issuer_slug": "istanbul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-universitesi/2009/13549",
+  "published": "2009-11-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13549&MevzuatTertip=5",
+  "source_bytes": 26497,
+  "source_id": "8.5.13549",
+  "source_sha256": "548a1e1af08f1c3aeadbb1f19a4290b994e52cb5108a1b0e0a3b7e2a358332f2",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL ÜNİVERSİTESİ EPİLEPSİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 202,
+  "word_count": 1240
+}

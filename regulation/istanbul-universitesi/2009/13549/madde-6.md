@@ -1,0 +1,9 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Epilepsi konusunda sağlık hizmetini yüksek kalite düzeyine ulaştırmak için gerekli çalışmaları yapmak ve bu kalite düzeyinin devamlılığını sağlamak; rehabilitasyon, psiko-sosyal ve sosyal destek, eğitim ve danışmanlık hizmetlerini geliştirmek,
+b) Toplum eğitimi için hasta, ailesi, arkadaşları, öğretmenler ve aynı çevrede yaşayan diğer kişiler için seminerler ve/veya kurslar düzenlemek, hastalarla ilgili aktiviteleri gerçekleştirmek, broşür ve kitapçıklar yayınlamak,
+c) Ulusal ve uluslararası bilimsel araştırma projelerine organize bir çerçevede devam etmek ve bu konuda projeler üretmek, yürütmek, SCI (science citation index) kapsamında yer alan dergilerde bilimsel yayınlara dönüştürmek, çeşitli bilimsel toplantılar düzenlemek, epilepsi konusunda klinik ve temel bilimler alanında diğer özel ve kamu kurumlarıyla Yönetim Kurulunun kararları doğrultusunda nitelikli çalışmalar yapmak, çalışmalara katılmak,
+ç) Çok disiplinli bir merkez oluşturabilmek için, Avrupa Epilepsi Akademisi (European Epilepsy Academy - EUREPA) ve Uluslararası Epilepsi Topluluğu (International League Against Epilepsy - ILAE) ile işbirliği ve koordinasyonu sağlamak, teknolojik araç ve gerecin Merkeze kazandırılması için gerekli çalışmaları yapmak,
+d) Merkez bünyesinde epilepsi alanında hizmet veren birimlere ve sağlık görevlilerine devamlı eğitim sağlamak, kurslar, paneller, seminerler düzenlemek ve katılım belgeleri vermek, eğitime yönelik el kitapları hazırlamak,
+e) Hasta hizmeti ve epilepsi çalışmalarının geliştirilebilmesi için Merkez üyeleri aracılığıyla anabilim dalları arasında düzenli toplantılar ve internet yoluyla iş birliği ağı oluşturmak,
+f) Epilepsi alanında her türlü bilimsel işbirliği, yayın ve faaliyeti yürütebilecek bir alan oluşturmak.
