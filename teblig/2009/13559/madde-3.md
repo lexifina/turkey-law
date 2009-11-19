@@ -1,0 +1,2 @@
+Mevcut önlem
+MADDE 3 – (1) 1/12/2004 tarih ve 25657 sayılı Resmi Gazete’de yayımlanan 2004/24 sayılı İthalatta Haksız Rekabetin Önlemesine İlişkin Tebliğ (2004/24 sayılı Tebliğ) kapsamında, ÇHC ve Rusya menşeli 7312.10.81.00.00, 7312.10.83.00.00, 7312.10.85.00.00, 7312.10.89.00.00, 7312.10.98.00.00 gümrük tarife istatistik pozisyonları altında kayıtlı “demir veya çelikten halatlar ve kablolar (kapalı halatlar dahil)” maddesi için spesifik temelde sırasıyla kilogram başına 1 ABD Doları ve 0,5 ABD Doları dampinge karşı önlem mevcuttur.

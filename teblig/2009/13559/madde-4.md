@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 4 – (1) 18/12/2008 tarihli ve 27084 sayılı Resmi Gazete’de yayımlanan 2008/39 sayılı İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ vasıtasıyla mezkur ürünün yerli üreticilerinin bir nihai gözden geçirme soruşturması açılması talebinde bulunabilecekleri ilan edilmiştir.
+(2) Bu çerçevede gerçekleştirilen başvurunun incelenmesi neticesinde, ÇHC ve Rusya menşeli bahse konu maddeye uygulanan dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin bir nihai gözden geçirme soruşturması açılması için yeterli delillerin bulunduğu anlaşılmıştır.
