@@ -1,0 +1,2 @@
+Fazla çalışma ücretlerinin duyurulması
+MADDE 6 – (1) 2009/15481 sayılı 4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkındaki Bakanlar Kurulu Kararının 122 nci maddesi ile belirlenen ve yine anılan madde gereğince her yıl, bir önceki yıla ilişkin olarak 213 sayılı Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranında arttırılacak olan fazla çalışma ücretleri her yıl, yılın ilk gününden geçerli olmak üzere Gümrük Müsteşarlığınca tebliğ ile duyurulur.

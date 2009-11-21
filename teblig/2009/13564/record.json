@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.13564",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 74)",
+  "number": "13564",
+  "issuer": "Gümrük Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2009/13564",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13564&MevzuatTertip=5",
+  "source_sha256": "3c346590c40f46708331f127fc9fc1b017f2ef3e85b7e8230305f20e7e1475da",
+  "source_bytes": 20321,
+  "published": "2009-11-21",
+  "gazette": "27413",
+  "in_force": "2009-11-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.11.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1065,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
