@@ -1,0 +1,23 @@
+{
+  "number": "meeting-11-23",
+  "number_as_published": null,
+  "year": 2009,
+  "title": "23 Kasım 2009 Tarihli Karar Özetleri",
+  "decision_date": "2009-11-23",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/23-kasim-2009-tarihli-karar-ozetleri",
+  "official_document": "http://www.kayseri-bld.gov.tr/kurumsal/karar/23.11.2009.doc",
+  "source_sha256": "b6892c109fc1660274aa703ddd14ba1f7919f1bffb9cc5f24c3051b053799d38",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2009-11-23",
+  "in_force_basis": "Decision date as printed in the official council listing: 23 Kasım 2009; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=18"
+}
