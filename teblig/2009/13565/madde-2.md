@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ; İhracatçı Birlikleri, Üretici Dernekleri, Üretici Birlikleri ile şirketlerin, 2006/4 sayılı “Türk Ürünlerinin Yurtdışında Markalaşması, Türk Malı İmajının Yerleştirilmesi ve TURQUALITY®’nin Desteklenmesi Hakkında Tebliğ” kapsamına alınmak ve mezkur Tebliğ kapsamında desteklenmek amacıyla yapacakları başvurular ile TURQUALITY® Programı’nın desteklenmesine ilişkin işlemlerin bilgisayar veri işleme tekniği yoluyla yapılması esnasında uygulanacak hükümleri kapsar.

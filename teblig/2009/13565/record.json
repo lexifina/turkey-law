@@ -1,0 +1,32 @@
+{
+  "source_id": "9.5.13565",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2006/4 SAYILI TEBLİĞ KAPSAMINDAKİ DEVLET YARDIMLARININ BİLGİSAYAR VERİ İŞLEME TEKNİĞİ YOLUYLA UYGULANMASINA DAİR TEBLİĞ (İHRACAT: 2009/14)",
+  "number": "13565",
+  "path": "teblig/2009/13565",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13565&MevzuatTertip=5",
+  "source_sha256": "d5db46b7ebf6b667eac67347fdd246bab3bbac65660c0b8aa945f4c72555372d",
+  "source_bytes": 30424,
+  "published": "2009-11-22",
+  "gazette": "27414",
+  "in_force": "2009-11-23",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ, 23/11/2009 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 23/11/2009 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1534,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13565-ek.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

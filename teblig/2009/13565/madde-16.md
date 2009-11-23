@@ -1,0 +1,1 @@
+MADDE 16 – (1) Bu Tebliğ’de yer almayan hususlarda, 24/5/2006 tarihli ve 26177 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 2006/4 sayılı “Türk Ürünlerinin Yurtdışında Markalaşması, Türk Malı İmajının Yerleştirilmesi ve TURQUALITY®’nin Desteklenmesi Hakkında Tebliğ” hükümleri uygulanır.

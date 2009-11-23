@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Ödeme Belgelerinin İbrazı
+MADDE 9 – (1) Şirketlerin destek kapsamına alınan markalarına ilişkin 2006/4 sayılı Tebliğ’in 10 ve 11’inci maddeleri kapsamındaki harcamaları; Uygulama Usul ve Esasları (Ek-10)’da yer alan belgelerin, yetkilendirilmiş kullanıcılar tarafından Sistem üzerinden oluşturulan elektronik dosyanın gönderilmesine ilave olarak, Sistem tarafından üretilen başvuru yazısının ekinde söz konusu belgelerin basılı örneklerinin Birliğe gönderilmesi suretiyle ibraz edilir.
+(2) Kuruluşların destek kapsamına alınan projelerine ilişkin 2006/4 sayılı Tebliğ’in 9’uncu maddesi kapsamındaki harcamaları; Uygulama Usul ve Esasları’nın (Ek-2) ve (Ek-5)’te yer alan belgelerin, yetkilendirilmiş kullanıcılar tarafından Sistem üzerinden oluşturulan elektronik dosyanın gönderilmesine ilave olarak, Sistem tarafından üretilen başvuru yazısının ekinde söz konusu belgelerin basılı örneklerinin Müsteşarlığa gönderilmesi suretiyle ibraz edilir.
+(3) Şirketlerin ve kuruluşların destek talepleri, Sistem üzerinden elektronik başvurunun yapılması ve başvurunun basılı örneğinin ibraz edilmesi halinde işleme alınır.

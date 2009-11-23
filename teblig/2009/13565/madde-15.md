@@ -1,0 +1,2 @@
+Yetki
+MADDE 15 – (1) Müsteşarlık, bu Tebliğ hükümlerine istinaden; genelgeler çıkarmaya, izin ve talimat vermeye, özel ve zorunlu durumları inceleyip sonuçlandırmaya, uygulamada ortaya çıkacak ihtilafları idari yoldan çözmeye, Sistemde yaşanacak teknik düzeydeki aksaklıklar nedeniyle uygulamada yaşanabilecek sorunları gidermeye ve Sistemde gerekli değişiklikleri yapmaya yönelik uygulama usul ve esaslarını belirlemeye yetkilidir.
