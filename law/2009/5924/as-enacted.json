@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5924",
+  "year": 2009,
+  "title": "Sayıştay Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-11-26",
+  "gazette_issue": "27418",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091126M1-1.htm",
+  "source_sha256": "279edca1abf972018c2f47460c27087589a811d7cdd295a0348e7166795f55a6",
+  "text_sha256": "8cce1e9425dc286d44c98ad21a779e8008e47e6016810ba628777b6567aa97cf",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/11/26/27418-m1-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091126M1-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
