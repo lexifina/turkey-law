@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5927",
+  "year": 2009,
+  "title": "Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-11-26",
+  "gazette_issue": "27418",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091126M1-4.htm",
+  "source_sha256": "919bb9d540eb278eb46f22daadc82e2cdbda162598f340953c6005ad53a87ca8",
+  "text_sha256": "90f55cdaf9464eb77aae23f69e6cebb6f4f61e5555712172421d6cda83792a1c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/11/26/27418-m1-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091126M1-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
