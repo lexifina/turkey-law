@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.13573",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ",
+  "number": "13573",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2009/13573",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13573&MevzuatTertip=5",
+  "source_sha256": "9beb3cee97a932243af10ab5e8f49218a87ab8d6c6dce815288d602c6cea208a",
+  "source_bytes": 9092,
+  "published": "2009-11-26",
+  "gazette": "27418",
+  "in_force": "2009-11-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.11.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 96,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13573-Ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
