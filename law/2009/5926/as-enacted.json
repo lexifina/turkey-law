@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5926",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Singapur Cumhuriyeti Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-11-26",
+  "gazette_issue": "27418",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091126M1-3.htm",
+  "source_sha256": "3845c68232e0048d8f6c53dfff616c3576ef466f304eb7ac4f4e1c1948c4eb01",
+  "text_sha256": "1c3518091518a32ea0aa51df24a130f4c5644662c740e7871ad685c060ceb214",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/11/26/27418-m1-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/11/20091126M1-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
