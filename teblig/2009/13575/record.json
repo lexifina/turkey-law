@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.13575",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK VERGİSİ ASKIYA ALINMASI VE AVRUPA BİRLİĞİ TARAFINDAN TARİFE KONTENJANI AÇILMASI PLANLANAN ÜRÜNLERE İLİŞKİN TEBLİĞ (İTHALAT: 2009/22)",
+  "number": "13575",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2009/13575",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13575&MevzuatTertip=5",
+  "source_sha256": "f75f89c66e4b7e07c65479defc5b0faa2d8d8ad095bc146a6d3cb6eec06dc51f",
+  "source_bytes": 164665,
+  "published": "2009-12-01",
+  "gazette": "27419",
+  "in_force": "2009-12-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.12.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2361,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
