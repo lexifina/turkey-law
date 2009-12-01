@@ -1,0 +1,2 @@
+Sınav sonucuna itiraz
+MADDE 15 – (1) Aday, sınav sonucu açıklandıktan sonra, bir ay içinde sınav sonucuna itiraz edebilir. Sınav Komisyonu, ya sınav değerlendirme komitesinden ya da yeniden oluşturacağı bir itiraz değerlendirme komitesinden, itirazın değerlendirilmesini ister. Sınav belgeleri yeniden incelenerek karar Sınav Komisyonunun onayına sunulur. Sınav Komisyonunun itiraz üzerine verdiği karar kesindir.

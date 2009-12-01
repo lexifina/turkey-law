@@ -1,0 +1,3 @@
+Eski üyelerin durumu
+GEÇİCİ MADDE 2 – (1) (Değişik:RG-1/12/2009-27419) 1/1/2011 tarihine kadar, oniki yıl meslekî deneyimi olanlar, hazırlayacakları meslekî deneyim dosyasının Sınav Komisyonunun olumlu değerlendirmesi sonucunda sınava girmeksizin, dosyasına uygun hizmet alanında yetki belgesine sahip olurlar.
+(2) (Değişik ibare:RG-1/12/2009-27419) 1/1/2011 tarihine kadar, oniki yıldan fazla meslekî deneyimi olanlar, başvurmaları ve dilekçelerine ekleyecekleri 3000 ilâ 6000 kelimelik (10 ilâ 20 sayfa) meslekî özgeçmişlerini Sınav Komisyonuna sunmaları hâlinde, dosyasına uygun hizmet alanında yetki belgesine sahip olurlar.
