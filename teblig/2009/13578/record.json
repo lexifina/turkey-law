@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.13578",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MUHASEBAT GENEL MÜDÜRLÜĞÜ GENEL TEBLİĞİ (SIRA NO: 30) TAŞINIR KAYIT VE KONTROL YETKİLİLERİ",
+  "number": "13578",
+  "path": "teblig/2009/13578",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13578&MevzuatTertip=5",
+  "source_sha256": "69ff15050640958c9146adf3cbfa58602b1c397ec200a731c1204bf2e390853a",
+  "source_bytes": 14201,
+  "published": "2009-12-03",
+  "gazette": "27421",
+  "in_force": "2009-12-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.12.2009); own commencement article: \"Bu Tebliğ, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 648,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
