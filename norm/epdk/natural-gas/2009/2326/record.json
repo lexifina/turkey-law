@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2326",
+  "decision_date": "2009-12-03",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 3/12/2009 tarihli toplantısında; Doğal Gaz Piyasası İletim Şebekesi İşleyiş Yönetmeliği’nin 5 inci Maddesinin “Bu düzenlemelerde Kurum onayı olmaksızın değişiklik yapılamaz.” hükmü ve BOTAŞ İletim Şebekesi İşleyiş",
+  "resmi_gazete_date": "2009-12-10",
+  "resmi_gazete_number": "27428",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KwHLisKqgTM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KwHLisKqgTM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S4JF+4/a57o="
+  ],
+  "source_sha256": "5d647837ce61121f59cafa9c44851bd24b9930149e7594e8f3eec17cc846e91f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-12-03",
+  "law_text_complete": false
+}
