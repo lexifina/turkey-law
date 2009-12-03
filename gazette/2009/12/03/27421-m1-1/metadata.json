@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-12-03",
+  "issue": "27421",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "AR KURULU KARARI",
+  "title": "2009/15631 Beşeri İlaçların Fiyatlandırılmasına Dair Kararda Değişiklik Yapılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091203M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091203M1.htm",
+  "index_sha256": "1c0797b1e65a4f75edf67236fe7afe0709835391a7dedced9e42e82b94a49782",
+  "index_header": "3 Aralık 2009 ... 27421 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
