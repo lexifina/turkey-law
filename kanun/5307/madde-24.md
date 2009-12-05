@@ -4,10 +4,10 @@ MADDE 24 —Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 (1) 24/6/2005 tarihli ve 5374 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan "1.1.2005 ilâ 31.12.2005 tarihleri" ibaresi "1.6.2003 ilâ 31.12.2005 tarihleri" olarak değiştirilmiştir.
 (2) 20/6/2006 tarihli ve 5522 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “1/6/2003 ilâ 31/12/2005 tarihleri” ibaresi “1/6/2003 ilâ 31/12/2006 tarihleri” şeklinde ve “31/3/2006” ibaresi de “31/3/2007” şeklinde değiştirilmiştir.
 5307 sayılı Kanunun 16 ncı Maddesindeki Para Cezası Miktarlarıyla İlgili Tablo
-(Enerji Piyasası Düzenleme Kurumunun 5/12/2008 tarihli ve 27075 sayılı Resmi Gazete’de yayımlanan Tebliği ile 5307 sayılı Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu ve Elektrik Piyasası Kanununda Değişiklik Yapılmasına Dair Kanunun 16 ncı maddesinde yer alan para cezası miktarları, 1/1/2009 tarihinden itibaren aşağıdaki tabloda hesaplandığı gibi uygulanacaktır.)
-İLGİLİ KANUN MADDESİ | KANUNDA ÖNGÖRÜLEN PARA CEZALARI (YTL) | 2008 YILINDA UYGULANAN PARA CEZALARI (YTL) | 2009 YILINDA UYGULANACAK PARA CEZALARI (TL)
-16 ncı Maddenin İkinci Fıkrasının (a) Bendi | 500.000,- | 500.000,- | 560.000,-
-16 ncı Maddenin İkinci Fıkrasının (b) Bendi | 250.000,- | 250.000,- | 280.000,-
-16 ncı Maddenin İkinci Fıkrasının (c) Bendi | 50.000,- | 50.000,- | 56.000,-
-16 ncı Maddenin İkinci Fıkrasının (ç) Bendi | 100,- | 100,- | 112,-
-16 ncı Maddenin Dördüncü Fıkrası | 1.000,- | 1.000,- | 1.120,-
+(Enerji Piyasası Düzenleme Kurumunun 5/12/2009 tarihli ve 27423 sayılı Resmi Gazete’de yayımlanan Tebliği ile 5307 sayılı Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu ve Elektrik Piyasası Kanununda Değişiklik Yapılmasına Dair Kanunun 16 ncı maddesinde yer alan para cezası miktarları, 1/1/2010 tarihinden itibaren aşağıdaki tabloda hesaplandığı gibi uygulanacaktır.)
+İLGİLİ KANUN MADDESİ | KANUNDA ÖNGÖRÜLEN PARA CEZALARI (YTL) | 2009 YILINDA UYGULANACAK PARA CEZALARI (TL)) | 2010 YILINDA UYGULANACAK PARA CEZALARI (TL)
+16 ncı Maddenin İkinci Fıkrasının (a) Bendi | 500.000,- | 560.000,- | 572.320,-
+16 ncı Maddenin İkinci Fıkrasının (b) Bendi | 250.000,- | 280.000,- | 286.160,-
+16 ncı Maddenin İkinci Fıkrasının (c) Bendi | 50.000,- | 56.000,- | 57.232,-
+16 ncı Maddenin İkinci Fıkrasının (ç) Bendi | 100,- | 112,- | 114,-
+16 ncı Maddenin Dördüncü Fıkrası | 1.000,- | 1.120,- | 1.144,-
