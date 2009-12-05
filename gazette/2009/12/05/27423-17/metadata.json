@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-12-05",
+  "issue": "27423",
+  "edition": "regular",
+  "item": 17,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Petrol Piyasası Kanununun 19 uncu Maddesi Uyarınca 2010 Yılında Uygulanacak Para Cezaları Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091205-17.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091205.htm",
+  "index_sha256": "77dabddc6be18d63415ada7debebd06705c9fd5a4417b9136f5e00c5c9cf2e3c",
+  "index_header": "5 Aralık 2009 ... 27423 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
