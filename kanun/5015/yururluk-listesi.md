@@ -14,3 +14,4 @@ Değiştiren Kanunun/ Tebliğin/İptal Eden Anayasa Mahkemesinin Kararının Num
 5784 | 2, 9 | 26/7/2008
 5/12/2008 tarihli ve 27075 sayılı R.G.’de yayımlanan Tebliğ | 19 | 1/1/2009
 5911 | Ek Madde 3 | 7/10/2009
+5/12/2009 tarihli ve 27423 sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2010

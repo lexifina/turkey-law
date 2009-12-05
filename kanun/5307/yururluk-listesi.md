@@ -10,3 +10,4 @@ Değiştiren Kanunun/ Tebliğin/İptal Eden Anayasa Mahkemesinin Kararının Num
 7/12/2007 tarihli ve 26723 sayılı R.G.’de yayımlanan Tebliğ | 16 | 1/1/2008
 5728 | 16, 17, 18 | 8/2/2008
 5/12/2008 tarihli ve 27075 sayılı R.G.’de yayımlanan Tebliğ | 16 | 1/1/2009
+5/12/2009 tarihli ve 27423 sayılı R.G.’de yayımlanan Tebliğ | 16 | 1/1/2010
