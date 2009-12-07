@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-12-07",
+      "07.12.2009",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27425",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2009-12-07",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Arel Üniversitesi",
+  "issuer_slug": "istanbul-arel-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-arel-universitesi/2009/13580",
+  "published": "2009-12-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13580&MevzuatTertip=5",
+  "source_bytes": 24332,
+  "source_id": "8.5.13580",
+  "source_sha256": "68c5d86afdc1e5284a843c505f88a031124e83c7b63ea6884b481ece024432c5",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL AREL ÜNİVERSİTESİ PSİKOLOJİK DANIŞMA, REHBERLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 310,
+  "word_count": 1049
+}
