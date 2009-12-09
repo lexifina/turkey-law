@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-12-09",
+  "issue": "27427",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "İşyeri Sağlık ve Güvenlik Birimleri ile Ortak Sağlık ve Güvenlik Birimleri Hakkında Yönetmeliğin Uygulanmasına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091209-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091209.htm",
+  "index_sha256": "601b55f163779287db5a9e739c8326b8b27207fa856746506b9ca090dce7e7c7",
+  "index_header": "9 Aralık 2009 ... 27427 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
