@@ -1,0 +1,6 @@
+Müdür ve görevleri
+MADDE 9 – (1) Müdür; Yüksekokulun en üst düzeyde yöneticisi olup, Mütevelli Heyet tarafından YÖK’ün olumlu görüşü alınmak suretiyle, üç yıl için atanır ve aynı yöntemle görevden alınır. Daha kısa süre için atanacaksa bu durum Müdür adayına bildirilir ve sözleşmesinde belirtilir. Görev süresi biten Müdür yeniden atanabilir.
+(2) Mütevelli Heyet, Müdürün önereceği kadrolu öğretim elemanları arasından en çok iki kişiyi akademik ve idari konularda görevlendirmek üzere Müdür yardımcısı olarak üç yıllığına atar. Müdür yardımcıları, Müdürün önerisi ve Mütevelli Heyetin onayı ile görevlerinden alınabilir. Müdür, görev başında olmadığı süre içinde yardımcılarından birini yerine vekil olarak bırakır. Göreve vekalet altı aydan fazla sürerse yeni Müdür atanır.
+(3) Müdür; eğitim–öğretim faaliyetlerinin yürütülmesinden ve Yüksekokulun işleyişinden Mütevelli Heyete karşı sorumludur. Müdür; akademik performans ve bilimsel üretimin sayı ve kalitesinin arttırılmasından, eğitim–öğretim ve hizmet standartlarının yükseltilmesinden, akademik ve idari personelin teşvikinden sorumludur.
+(4) Müdür, Yüksekokulun bütçesini ve kadro ihtiyaçlarını ilgili kurulların görüş ve önerilerini de aldıktan sonra Mütevelli Heyete sunar.
+(5) Müdür ilgili mevzuat hükümlerine göre belirlenen diğer görevleri yerine getirir.

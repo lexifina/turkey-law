@@ -1,0 +1,2 @@
+Bölüm/program başkanı ve görevleri
+MADDE 14 – (1) Bölüm/program başkanı; bölümün tam zamanlı öğretim elemanları arasından Müdürün önerisi üzerine Mütevelli Heyetçe üç yıllığına atanır. Süresi biten bölüm başkanı/program başkanı yeniden atanabilir. Bölüm/program başkanı aynı usulle görevden alınabilir. Bölüm/program başkanı, bölümün/programın her düzeyde eğitim ve öğretimi, araştırmaları ve bölüme ait her türlü faaliyetin düzenli ve verimli bir şekilde yürütülmesinden sorumludur.

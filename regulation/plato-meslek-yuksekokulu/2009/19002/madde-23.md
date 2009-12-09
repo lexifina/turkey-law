@@ -1,0 +1,2 @@
+Öğretim dili
+MADDE 23 – (1) 4/12/2008 tarihli ve 27074 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerine göre Yüksekokul Kurulunun önerisi, Mütevelli Heyetin kararı, YÖK’ün onayı ile Yüksekokulun bazı bölüm ve programlarında kısmen veya tamamen Türkçe veya yabancı dillerde eğitimin yapılmasına veya İngilizce dışında yabancı dillerin zorunlu ders olarak okutulmasına karar verilebilir.

@@ -1,0 +1,20 @@
+Mütevelli heyetin görevleri
+MADDE 8 – (1) Mütevelli Heyetin görevleri şunlardır:
+a) Yüksekokul tüzel kişiliğini temsil etmek,
+b) YÖK’ün uygun görüşünü alarak Müdürü atamak,
+c) Yüksekokulda görevlendirilecek yöneticiler ve öğretim elemanları ile diğer personelin sözleşmelerini yapmak, atamalarını, terfilerini ve görevden alınmalarını onaylamak,
+ç) Yüksekokul organlarınca hazırlanan düzenleyici işlemleri inceleyerek karara bağlamak,
+d) Yüksekokul bütçesini onaylamak, harcama usullerini belirlemek ve bütçe uygulamalarını izlemek,
+e) Öğretim elemanlarına ve diğer personele verilecek ücretleri belirlemek,
+f) Yüksekokula alınacak öğrenci sayılarını, burs kontenjanlarını ve verilecek burs miktarını tespit etmek,
+g) Öğrencilerden alınacak öğretim ücretlerini ve alınma zamanlarını belirlemek,
+ğ) 2547 sayılı Kanuna göre Yüksekokulun; hazırlık programı ve okullarının, sürekli eğitim, uygulama ve araştırma merkezlerinin, teknoparklarının ve akademik birimlerinin kurulması, kapatılması veya birleştirilmesi hususundaki Yüksekokul Kurulu önerisini incelemek, YÖK’e sunmak,
+h) Üniversite, fakülte, enstitü ve yüksekokul kurulmasına ilişkin karar almak ve YÖK’e sunmak,
+ı) Yüksekokulun taşınır ve taşınmaz mallarını yönetmek ve bunlarla ilgili iş ve işlemleri yapmak,
+i) Yüksekokula yapılacak bağışların kabul ve reddine karar vermek, bunlara ilişkin işlemleri yapmak,
+j) Yüksekokula kaynak sağlayacak yatırımlar yapılmasına, işletmeler kurulmasına veya kurulmuş işletmelere iştirak edilmesine ve mevcut kaynakların en iyi şekilde kullanılmasına ilişkin karar vermek,
+k) Satın alma ve ihaleye ilişkin her çeşit iş ve işlemleri izlemek ve denetlemek,
+l) Bütçeye ilişkin olarak gerçekleşen gelir ve giderleri gösteren aylık cetvellerle bunların dayandığı belgeleri incelemek, varsa eksiklerini tamamlatmak ve inceleme sonuçlarını karara bağlamak,
+m) Bütçe hesap dönemi sonunda bütçe kesin hesabı, nakit yönetim dönemi ve ayniyat yönetim dönemi hesaplarını ayrı ayrı inceleyip karara bağlamak,
+n) Başkanın Mütevelli Heyet üyelerine havale edeceği konularda, ilgililerce hazırlanacak inceleme ve araştırma raporlarını görüşüp karara bağlamak,
+o) Yüksekokul yönetimince uygulanmak üzere hazırlanan idari ve mali konulara ilişkin karar taslaklarını sonuçlandırmak.
