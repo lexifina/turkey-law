@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5929",
+  "year": 2009,
+  "title": "2005 Uluslararası Zeytinyağı ve Sofralık Zeytin Anlaşmasına Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-12-10",
+  "gazette_issue": "27428",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091210-2.htm",
+  "source_sha256": "296c4558218d0ad5885ca4fb655c57b950ebd1bf8de58c4c7e90ed6949274333",
+  "text_sha256": "9d3350e5ba1fbc13920dccb3c36d663b8df498bc6aa54c46b77846a61fa9e236",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/12/10/27428-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091210-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
