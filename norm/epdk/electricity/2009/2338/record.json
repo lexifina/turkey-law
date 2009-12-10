@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2338",
+  "decision_date": "2009-12-10",
+  "title": "Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketi (TETAŞ), 01/01/2010 tarihinden itibaren geçerli olacak şekilde aktif elektrik enerjisi bedeli",
+  "resmi_gazete_date": "2009-12-19",
+  "resmi_gazete_number": "27437",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=X/tDcRrXN4c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=X/tDcRrXN4c="
+  ],
+  "source_sha256": "18771b99adca8c19ea78f85c44ed35fd1d5783c49943358842db9b5d1292008e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-12-10",
+  "law_text_complete": false
+}
