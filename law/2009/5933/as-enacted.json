@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5933",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuveyt Devleti Hükümeti Arasında Sağlık Alanında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-12-10",
+  "gazette_issue": "27428",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091210-3.htm",
+  "source_sha256": "9beed15eb594c66f1c55f913ce938e924802839399aaac2615bbe4c8a9314c5b",
+  "text_sha256": "e6beec9189f52d4fc7d60fc8c83c0792f20ce1927692a54e1f7b02b0367c9236",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/12/10/27428-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091210-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
