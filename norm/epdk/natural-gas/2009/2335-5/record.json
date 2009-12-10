@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2335/5",
+  "decision_date": "2009-12-10",
+  "title": "AKSA Gaz Dağıtım A.Ş.’nin Yumurtalık şehrini de kapsayacak şekilde genişletilebilmesi İlişkin Kurul Kararı",
+  "resmi_gazete_date": "2009-12-19",
+  "resmi_gazete_number": "27437",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dWRjq2AJRw0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dWRjq2AJRw0="
+  ],
+  "source_sha256": "c1d56f9580d2cdf9e87cca63a94f0aee2698009be2567384b218b1f0d44a72bf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-12-10",
+  "law_text_complete": false
+}
