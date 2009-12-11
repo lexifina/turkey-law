@@ -1,0 +1,9 @@
+Yürürlük süresi sona erecek dampinge karşı önlemler
+MADDE 2 – (1) Aşağıdaki tabloda yer alan dampinge karşı önlemlerin yürürlükte kalma süreleri, karşılarında belirtilen tarihlerde sona erecektir.
+G.T.İ.P. * | Ürün | Menşe veya İhracatçı Ülke | Önlemin Yayımlandığı Resmi Gazete Tarih ve No’su | Tebliğ No | Önlemin Bitiş Tarihi
+2905.42.00.00.00 | Pentaeritritol | Çin Halk Cumhuriyeti | 28.07.2005 / 25889 | 2005/14 | 28.07.2010
+8528.72.20.00.00 8528.72.31.00.00 8528.72.33.00.00 8528.72.35.00.00 8528.72.39.00.00 8528.72.51.00.00 8528.72.59.00.00 8529.90.65.90.00 8529.90.92.00.00 | Televizyonlar (Resim Tüplü )/ Resim Tüplü TV Üretiminde Kullanılan Ana Baskı Devre | Çin Halk Cumhuriyeti | 28.07.2005 / 25889 | 2005/16 | 28.07.2010
+4011.10.00.10.00 4011.10.00.90.11 4011.10.00.90.12 4011.10.00.90.13 4011.10.00.90.14 4011.10.00.90.15 4011.10.00.90.19 4011.20.10.00.11 4011.20.10.00.12 4011.20.10.00.19 4011.20.90.00.11 4011.20.90.00.12 4011.20.90.00.19 4011.61.00.00.00 4011.62.00.00.00 4011.63.00.00.00 4011.69.00.00.00 4011.92.00.00.00 4011.93.00.00.00 4011.94.00.00.00 4011.99.00.00.00 | Otomobil, Hafif Ticari Araç, Ağır Vasıta, Zirai Araç ve İş Makineleri Dış Lastikleri (Kauçuktan Yeni Dış Lastikler) | Çin Halk Cumhuriyeti | 20.08.2005 / 25912 | 2005/18 | 20.08.2010
+7315.20.00.00.00 | Patinaj Zinciri | Çin Halk Cumhuriyeti | 20.08.2005 / 25912 | 2005/19 | 20.08.2010
+7408.11 | Bakır Teller (Bakır Filmaşin) | Rusya Federasyonu | 09.11.2005 / 25988 | 2005/24 | 09.11.2010
+* 06/03/2009 tarihli ve 27161 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2009/7 sayılı Tebliğ vasıtasıyla mezkur maddelerin gümrük tarife istatistik pozisyonlarına ve madde adlarına ilişkin olarak Gümrük Müsteşarlığı tarafından gerçekleştirilen değişiklikler Türk Gümrük Tarife Cetveli’nde ilan olunmuştur.
