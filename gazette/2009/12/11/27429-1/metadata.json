@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-12-11",
+  "issue": "27429",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "951 Madencilik Sektöründeki Sorunların Araştırılarak Alınması Gereken Önlemlerin Belirlenmesi Amacıyla Bir Meclis Araştırması Komisyonu Kurulmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091211-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091211.htm",
+  "index_sha256": "01acd55128db19c3eed44b3d4a17999d44d6d14c07b55737f4201d992a142cfb",
+  "index_header": "11 Aralık 2009 ... 27429 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
