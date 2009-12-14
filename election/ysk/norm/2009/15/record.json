@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2009/15",
+  "list_number": "-",
+  "genelge_number": "15",
+  "decision_date": "2009-12-14",
+  "title": "Taşınır yıl sonu hesapları ve SGB.net (taşınır.net) program uygulamaları ile ilgili genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1743/2009-15.pdf",
+  "source_sha256": "024104659236d54b948151641837ae11150a9445454da1cc80cdc1cc1cc84d0c",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2009-12-14",
+  "law_text_complete": false
+}
