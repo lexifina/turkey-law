@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 741774,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "name": "ALİ RIZA ALABOYUN (AKSARAY)",
+  "summary": "2010 Yılı Merkezi Yönetim Bütçe Kanunu Tasarısı (1/759) (S. Sayısı: 442) ve 2008 Yılı Merkezi Yönetim Kesin Hesap Kanunu Tasarısı ile Merkezi Yönetim Bütçesi Kapsamındaki İdare ve Kurumların 2008 Bütçe Yılı Kesin Hesap Tasarısına Ait Genel Uygunluk Bildirimi ve Eki Raporların Sunulduğuna Dair Sayıştay Başkanlığı Tezkeresi (1/728, 3/934) (S. Sayısı: 443)",
+  "title": "2010 Yılı Merkezi Yönetim Bütçe Kanunu Tasarısı (1/759) (S. Sayısı: 442) ve 2008 Yılı Merkezi Yönetim Kesin Hesap Kanunu Tasarısı ile Merkezi Yönetim Bütçesi Kapsamındaki İdare ve Kurumların 2008 Bütçe Yılı Kesin Hesap Tasarısına Ait Genel Uygunluk Bildirimi ve Eki Raporların Sunulduğuna Dair Sayıştay Başkanlığı Tezkeresi (1/728, 3/934) (S. Sayısı: 443)",
+  "first_sitting_date": "2009-12-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 55,
+      "sitting": 31,
+      "sitting_date": "2009-12-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c055/tbmm23055031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c055/tbmm23055fih.pdf",
+      "pages": [
+        "12:101",
+        "104:106"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=346&v_gelecek_sayfa=201&v_kullanici_id=27484607",
+  "source_sha256": "f569b8287c7e16dd5e023ae36c2e52e68a7087802cfcc3ab1e9528efc98ddae0",
+  "in_force": "2009-12-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
