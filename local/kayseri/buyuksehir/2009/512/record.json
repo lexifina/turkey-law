@@ -1,0 +1,24 @@
+{
+  "number": "512",
+  "number_as_published": "Karar No : 512",
+  "year": 2009,
+  "title": "Kocasinan İlçesi, Pervane mahallesinde, mülkiyeti Büyükşehir Belediyesine ait, 285 pafta, 4181 ada, 3 parselde NİP.",
+  "decision_date": "2009-12-14",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/14-aralik-2009-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "b3ce748628ceb6655d864560954330223d66f96a25951216317385e033c86065",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2009-12-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.12.2009 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "14 Aralık 2009 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=18",
+  "subject_published": true
+}
