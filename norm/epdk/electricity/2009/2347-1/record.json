@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2347/1",
+  "decision_date": "2009-12-15",
+  "title": "20 dağıtım şirketinin 2010 yılı dağıtım, perakende satış hizmeti, iletim gelir tavanları",
+  "resmi_gazete_date": "2009-12-19",
+  "resmi_gazete_number": "27437",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ids7EXoHsY0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ids7EXoHsY0="
+  ],
+  "source_sha256": "160a61e817cd5b4a165119c4e914e9334f87e3546c5f6d3912db4ff5cc304266",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-12-15",
+  "law_text_complete": false
+}
