@@ -1,0 +1,3 @@
+Yönetim kurulunun görevleri
+MADDE 11 – (1) Yönetim Kurulu; Müdürün her faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit etmek, sunulan raporu değerlendirmek ve Merkez tarafından verilecek başarı belgesi, sertifika, katılım belgesi ve benzeri belgelerin verilme koşulları ile gerekli düzenlemeleri, görevlendirmeleri ve yapılacak ödemeleri Rektörlüğün onayına sunulmak üzere karara bağlamakla görevlidir.
+(2) Ayrıca teklif edilen eğitim programlarının hangilerinin düzenleneceğini, düzenlenen programlarda kimlerin görevlendirileceğini ve yapılacak ödemelerin miktarını belirlemeye Yönetim Kurulu yetkilidir.

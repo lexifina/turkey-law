@@ -1,0 +1,2 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları; amaçları doğrultusunda kamu, özel, ulusal, uluslararası kuruluşlara ve kişilere ihtiyaç duydukları alanlarda danışmanlık hizmeti vermek, ulusal ve uluslararası düzeyde eğitim etkinlikleri, kurslar, seminerler, sertifika programları, paneller, konferanslar, sempozyumlar düzenlemek, bu faaliyetlerin koordinasyonunu sağlamak, bunlarla ilgili yayın yapmak ve Üniversitenin bu alanlardaki imkanlarını tanıtmaktır.

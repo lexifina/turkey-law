@@ -1,0 +1,3 @@
+Sınavlar
+MADDE 18 – (1) Sınavlar sadece sertifika programları için geçerlidir. Sertifika programlarında ara sınav (vize) ve bitirme sınavı (final) olmak üzere en az iki sınav yapılır. Bu sınavlar yazılı, sözlü, uygulamalı, yazılı/sözlü/uygulamalı olarak yapılabilir. Sınav şekillerinden hangilerinin uygulanacağına ve ara sınav sayısına öğretim elemanının teklifi ile Yönetim Kurulu karar verir.
+(2) Sınavlar, 100 puan üzerinden değerlendirilir. Değerlendirmenin şekli kayıt sırasında Müdürlük tarafından katılımcıya bildirilir. Katılımcının başarılı sayılabilmesi için başarı puanının 100 tam puan üzerinden en az 70 puan olması şarttır. Değerlendirmede ara sınav notunun % 40’ı ve bitirme sınavı notunun % 60’ı toplanarak başarı durumu belirlenir.

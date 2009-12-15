@@ -1,0 +1,2 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Üniversitenin her fakülte, enstitü, yüksekokul ve meslek yüksekokulu ile Rektörlüğe bağlı akademik birimlerin yönetim kurullarınca belirlenen birer üyeden ve Rektörün belirlediği başarılı ve tanınmış kişilerden oluşur. Müdürün çağrısı üzerine yılda en az bir kez olmak üzere toplanır. Danışma Kurulu üyeliğinin süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir.

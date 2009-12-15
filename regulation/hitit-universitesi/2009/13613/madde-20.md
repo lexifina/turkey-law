@@ -1,0 +1,4 @@
+Sertifika ve katılım belgesi
+MADDE 20 – (1) Sertifika ve katılım belgesi verilme esasları ile sertifika programlarının özelliklerine göre sertifikaların geçerlilik süresi Yönetim Kurulunca belirlenir.
+(2) Merkez tarafından düzenlenen herhangi bir kursa belirtilen süre içinde katılarak devam koşullarını yerine getiren katılımcılara, kursun adı belirtilerek Müdür tarafından imzalanan katılım belgesi verilir.
+(3) Sertifika programı şeklinde açılmış olan kurslara belirtilen süre içinde devam ederek başarı ile tamamlayan katılımcılara kursun adı belirtilerek sertifika verilir. Sertifikalar Müdür ve Rektör tarafından imzalanır. Sertifika programı sınavlarında başarılı olamayan, ancak gerekli diğer yükümlülükleri yerine getirmiş katılımcılara sadece kursa katıldıklarına dair bir katılım belgesi verilir.
