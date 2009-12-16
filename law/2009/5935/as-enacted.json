@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5935",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Oman Sultanlığı Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-12-16",
+  "gazette_issue": "27434",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091216-5.htm",
+  "source_sha256": "20a2e3dd88dd0fe0b30286060eefb41953d7b11bb8fd407aa2f40c2da61f5140",
+  "text_sha256": "e6ad0578c01e7a1b25526c70602669d5490ea316a0f27627f467e4b89c6e1d7c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/12/16/27434-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091216-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
