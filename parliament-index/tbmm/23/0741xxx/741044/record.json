@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 741044,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "2010 Yılı Merkezi Yönetim Bütçe Kanunu Tasarısı (1/759) (S. Sayısı: 442) ve 2008 Yılı Merkezi Yönetim Kesin Hesap Kanunu Tasarısı ile Merkezi Yönetim Bütçesi Kapsamındaki İdare ve Kurumların 2008 Bütçe Yılı Kesin Hesap Tasarısına Ait Genel Uygunluk Bildirimi ve Eki Raporların Sunulduğuna Dair Sayıştay Başkanlığı Tezkeresi (1/728, 3/934) (S. Sayısı: 443) III. TUR - Vakıflar Genel Müdürlüğü - Basın-Yayın ve Enformasyon Genel Müdürlüğü - Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - Türkiye Bilimler Akademisi Başkanlığı - Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Başkanlığı - Türk İşbirliği ve Kalkınma İdaresi Başkanlığı - Diyanet İşleri Başkanlığı - Avrupa Birliği Genel Sekreterliği 2010 Yılı Merkezi Yönetim Bütçesi ile 2008 Yılı Merkezi Yönetim Kesin Hesabı - Atatürk Araştırma Merkezi - Atatürk Kültür Merkezi - Türk Dil Kurumu - Türk Tarih Kurumu 2010 Yılı Merkezi Yönetim Bütçesi",
+  "title": "2010 Yılı Merkezi Yönetim Bütçe Kanunu Tasarısı (1/759) (S. Sayısı: 442) ve 2008 Yılı Merkezi Yönetim Kesin Hesap Kanunu Tasarısı ile Merkezi Yönetim Bütçesi Kapsamındaki İdare ve Kurumların 2008 Bütçe Yılı Kesin Hesap Tasarısına Ait Genel Uygunluk Bildirimi ve Eki Raporların Sunulduğuna Dair Sayıştay Başkanlığı Tezkeresi (1/728, 3/934) (S. Sayısı: 443) III. TUR - Vakıflar Genel Müdürlüğü - Basın-Yayın ve Enformasyon Genel Müdürlüğü - Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - Türkiye Bilimler Akademisi Başkanlığı - Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Başkanlığı - Türk İşbirliği ve Kalkınma İdaresi Başkanlığı - Diyanet İşleri Başkanlığı - Avrupa Birliği Genel Sekreterliği 2010 Yılı Merkezi Yönetim Bütçesi ile 2008 Yılı Merkezi Yönetim Kesin Hesabı - Atatürk Araştırma Merkezi - Atatürk Kültür Merkezi - Türk Dil Kurumu - Türk Tarih Kurumu 2010 Yılı Merkezi Yönetim Bütçesi",
+  "first_sitting_date": "2009-12-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 56,
+      "sitting": 33,
+      "sitting_date": "2009-12-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c056/tbmm23056033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c056/tbmm23056fih.pdf",
+      "pages": [
+        "177:249"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ba0deac3f651e6aa44e18fad4472473e12d8a61ed7b4935a4005382b8b542c12",
+  "in_force": "2009-12-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
