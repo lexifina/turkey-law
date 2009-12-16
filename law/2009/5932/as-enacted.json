@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5932",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti ile Gürcistan Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasının Ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-12-16",
+  "gazette_issue": "27434",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091216-3.htm",
+  "source_sha256": "e7cc40410dd7b1202962a262e8d5109e9f0522ab5802c97baeb842590c8e8617",
+  "text_sha256": "ff4511d96e5291f7ff32413c437e06c17b2f6388426c368d34f04db413a6d5c3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/12/16/27434-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091216-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
