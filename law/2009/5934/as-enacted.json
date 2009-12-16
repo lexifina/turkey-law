@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5934",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Yemen Cumhuriyeti Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-12-16",
+  "gazette_issue": "27434",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091216-4.htm",
+  "source_sha256": "18f10e6bdbd192ce0ce7141f2f364abb7c22c139d68a8b46796a4123e3416fd5",
+  "text_sha256": "6f5a87aabcf17b7464cff48affcaac28d28fd40865beb0f644c8840ba5bf51d1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/12/16/27434-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091216-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
