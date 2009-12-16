@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5931",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile İtalya Cumhuriyeti Hükümeti Arasında Türkiyede Bir Türk-İtalyan Üniversitesinin Kurulmasına Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-12-16",
+  "gazette_issue": "27434",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091216-2.htm",
+  "source_sha256": "f6497bf3bf5930b85668a7ed36f81c18dbac297a30b21779ce0ce933891b4dc5",
+  "text_sha256": "b13bebc47668d3f0e6f3d1033cf934508d06c4dc9575743918c5bac66ed9724e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/12/16/27434-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091216-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
