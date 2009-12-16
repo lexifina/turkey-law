@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5930",
+  "year": 2009,
+  "title": "Türkiye Cumhuriyeti Başbakanlık Devlet Arşivleri Genel Müdürlüğü ile Hırvatistan Cumhuriyeti Devlet Arşivi Arasında İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-12-16",
+  "gazette_issue": "27434",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091216-1.htm",
+  "source_sha256": "519cd520908d01758460ea761693a0ae3370bfb0e1358be738bce38103bb4473",
+  "text_sha256": "beb62652425c039c9c4bd305cf7daf8a94c6b811c9b7ab0d2d2b5438429fd7b2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/12/16/27434-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091216-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
