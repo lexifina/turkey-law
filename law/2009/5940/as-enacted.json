@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5940",
+  "year": 2009,
+  "title": "İmar Kanunu ile Bayındırlık ve İskân Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-12-17",
+  "gazette_issue": "27435",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091217-17.htm",
+  "source_sha256": "92baefd81b74190aee5af798537f986bb014c344b81011863764a5db85092784",
+  "text_sha256": "42f4f8bc6652b06e4b787a691d9a507389e86a69b6a6d653d77770ef10262ec8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/12/17/27435-17",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091217-17.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
