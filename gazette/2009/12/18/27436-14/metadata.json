@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-12-18",
+  "issue": "27436",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Kamu Personelinin Genel Sağlık Sigortası Kapsamına Alınması Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091218-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091218.htm",
+  "index_sha256": "f938655f44709ace097f14936f713a52f75a96bda7e31e8daf299a3f4cbd8993",
+  "index_header": "18 Aralık 2009 ... 27436 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
