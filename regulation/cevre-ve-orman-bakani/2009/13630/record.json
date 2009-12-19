@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.13630",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "4915 SAYILI KARA AVCILIĞI KANUNUNA GÖRE EL KONULARAK MÜLKİYETİ KAMUYA GEÇİRİLEN SAİR EŞYALARLA İLGİLİ YAPILACAK İŞ VE İŞLEMLER HAKKINDA YÖNETMELİK",
+  "number": "13630",
+  "issuer": "Çevre ve Orman Bakanı",
+  "issuer_slug": "cevre-ve-orman-bakani",
+  "path": "regulation/cevre-ve-orman-bakani/2009/13630",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13630&MevzuatTertip=5",
+  "source_sha256": "1a14dd39550cca9dd419b138a001f1e52a6ee8c5b5a907dfc244a77c3bbd4e0c",
+  "source_bytes": 132777,
+  "published": "2009-12-19",
+  "gazette": "27437",
+  "in_force": "2009-12-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.12.2009); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3774,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
