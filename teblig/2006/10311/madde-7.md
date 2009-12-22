@@ -1,0 +1,2 @@
+Gözden geçirme dönemi
+MADDE 7- (1) Önlemin yürürlükten kalkması durumunda, dampingin devamı veya yeniden meydana gelmesinin muhtemel olup olmadığı hususundaki değerlendirmeye ışık tutabileceği dikkate alınarak, önlemin yürürlükte bulunduğu süre için yapılan damping belirlemesinde 01/01/2003–31/12/2003 tarihleri arasındaki dönem esas alınmıştır. Benzer şekilde, önlemin yürürlükten kalkması durumunda zararın devamı veya yeniden meydana gelmesinin muhtemel olup olmadığının belirlenmesinde ise veri toplama ve analiz için 01/01/2001-30/09/2004 arasındaki dönem esas alınmıştır.

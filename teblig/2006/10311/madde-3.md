@@ -1,0 +1,8 @@
+Bilgilerin toplanması ve değerlendirilmesi
+MADDE 3- (1) Soruşturma açılmasını müteakip, söz konusu ürünün bilinen yerli üreticilerine, Müsteşarlıkça tespit edilen ithalatçılarına, Güney Kore’de yerleşik bilinen üretici-ihracatçılara ve ayrıca anılan ülkede yerleşik diğer üretici-ihracatçılara iletilebilmesini teminen Güney Kore’nin Ankara Büyükelçiliğine soru formları gönderilmiştir.
+(2) Ayrıca, ticaret unvanını HK Corporation olarak değiştiren Hankook Synthetics Inc. firmasına isim değişikliğinin teyidi amacıyla soru formu gönderilmiştir.
+(3) Taraflara soru formunu yanıtlamaları için posta süresi dahil 37 gün süre tanınmış olup, tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(4) SUSEB ve üye yerli üreticiler, soruşturma süresince Müsteşarlığımız ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgi ve belgeleri temin etmişlerdir. Bilinen diğer yerli üretici SASA Sun’i ve Sentetik Elyaf Sanayii A.Ş (yeni adıyla Advansa Sasa Polyester Sanayi A.Ş.) firmasından ise yazılı cevap alınmamıştır.
+(5) Ayrıca, soruşturma döneminde ithalat yaptığı tespit edilen 85 ithalatçı firmaya soru formu gönderilmiş, 57 firmadan cevap alınmıştır.
+(6) “Üretici-ihracatçı soru formuna” cevap veren üretici-ihracatçı firmalar, HK Corporation, Hyosung Corporation, Tongkook Corporation, Saehan Industries Inc., Toray Saehan Inc., ve Huvis Corporation’dır. Do Best Co. Ltd. firması ise yalnızca ihracatçı olarak soru formuna cevap vermiştir.
+(7) Kolon Industries Inc. firması, soru formuna cevabında sadece Türkiye’ye ihracatının olmadığını belirtmiştir. Firmaya soru formundaki eksiklikleri tamamlaması için süre verilmiş, ancak herhangi bir yanıt alınamamıştır.

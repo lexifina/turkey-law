@@ -1,0 +1,3 @@
+DÖRDÜNCÜ KISIM
+Zararın Devam Etmesi veya Yeniden Meydana Gelmesi İhtimali
+MADDE 17- (1) Önlemin yürürlükte olduğu dönemde, yerli üretim dalında zarar durumu ve önlemin yürürlükten kalkması halinde zarara etki edebilecek muhtemel gelişmeler incelenmiştir. Bu çerçevede, ithalatın miktarı ve muhtemel gelişimi, fiyatlarının gelişimi, oluşan fiyat baskısı ve muhtemel fiyat baskısı ile yerli üretim dalının ekonomik göstergeleri incelenmiştir. İthalat verileri incelenirken, önlemin etkisini ve önlem sonrası duruma ilişkin eğilimleri görebilmek amacıyla zarar inceleme dönemini (2001-2004 yılı Ocak-Eylül dönemi) de içine alan 1999-2005 yılı Ocak-Eylül dönemi esas alınmıştır.

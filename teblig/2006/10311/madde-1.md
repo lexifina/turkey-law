@@ -1,0 +1,5 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Mevcut önlem ve soruşturma
+MADDE 1- (1) Güney Kore menşeli “poliesterlerden düz iplikler” için 30/11/1999 tarihli ve 23892 sayılı Mükerrer Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine ilişkin 99/7 sayılı Tebliğ ile dampinge karşı önlem yürürlüğe konulmuştur. Uygulanmakta olan önlemin yürürlükten kalkma süresinin bitiminden önce, 11/03/2004 tarihli ve 25399 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2004/8 sayılı Tebliğ ile nihai gözden geçirme soruşturması açılması talebinde bulunulabileceği ilan edilmiştir.
+(2) Yerli üretim dalı adına hareket eden Suni ve Sentetik İplik Üreticileri Birliği (SUSEB) tarafından dampinge karşı önlemin sona ermesinin damping ve zararın devamına veya yeniden tekrarına yol açacağı iddiasıyla yapılan başvuru üzerine, 20/11/2004 tarihli ve 25646 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2004/26 sayılı Tebliğ ile başlatılan nihai gözden geçirme soruşturması Dış Ticaret Müsteşarlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanmıştır.

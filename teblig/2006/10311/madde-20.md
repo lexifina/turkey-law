@@ -1,0 +1,3 @@
+Önlem konusu ithalatın pazar payı
+MADDE 20- (1) Soruşturma konusu ürünün yurtiçi tüketimi, yerli üretim dalının yurtiçi satışları ile soruşturma konusu ipliklerin genel ithalatının toplanması suretiyle hesaplanmıştır.
+(2) Bu çerçevede hesaplanan toplam tüketim endeksi, 2001 yılında 100 iken sürekli artış kaydederek 2002 ve 2003 yıllarıyla 2004 yılı Ocak-Eylül döneminde sırasıyla 142, 157 ve 132 olarak gerçekleşmiştir. Güney Kore menşeli soruşturma konusu poliester düz ipliklerin tüketim içindeki payı 2001 yılında %29 iken 2002 ve 2003 yıllarıyla 2004 yılı Ocak-Eylül döneminde azalma eğilimine girerek sırasıyla %25, %19 ve %19 seviyesinde gerçekleşmiştir.
