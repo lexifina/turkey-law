@@ -1,0 +1,1 @@
+MADDE 7 – (1) Bu Tebliğ'de yer alan tarım ürünü ihracatında ihracatı müteakip ihracatçı adına açılacak mahsup hesabına alacak kaydedilecek meblağ, ürünün FOB ihraç bedeli üzerinden, ilgili ürünün karşısında gösterilen azami ödeme oranını aşamaz. Aştığı takdirde azami ödeme oranı uygulanır.
