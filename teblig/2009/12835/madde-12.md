@@ -1,0 +1,3 @@
+Uygulama şartları
+MADDE 12 – (1) Bu hizmetlerle ilgili dondurma ve muhafaza dereceleri işletmenin teklifi olup, isteklilerin taleplerini ayrıca yazılı olarak bildirmeleri gerekir.
+(2) İşletmece alınan tedbirlere rağmen, şehir cereyanının kesilmesi, aynı anda otomatik devreye giren jeneratörlerin bozulması veya soğutma sistemi makinelerinde bir arızanın meydana gelmesi hallerinde, muhafazaya alınan eşyaların tehlikeye girmesi söz konusu olursa, gümrük idaresine bildirimde bulunularak eşya sahiplerinin eşyalarını 24 saat içinde depolardan çekmelerinin sağlanması istenir. Bu müddet içinde çekilmeyen eşyaların bozulmasından işletme sorumlu değildir.

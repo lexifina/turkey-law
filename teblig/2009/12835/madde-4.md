@@ -1,0 +1,3 @@
+Sorumluluk
+MADDE 4 – (1) Taşıyıcı veya acenteleri ile eşya sahipleri, temsilcileri veya namlarına hareket edenler, yürürlükteki mevzuat ve Tarifede belirtilen usul ve esaslara uymamalarından veya kusurlu hareketlerinden doğacak her türlü zararlardan sorumludurlar.
+(2) İşletme, eşyanın özelliğinden doğan yanma, patlama, parlama, harap etme, harap olma, sızma, akma, kokma, kuruma, bozulma gibi olaylardan, firelerden ve mevcut hali ile boşaltılması veya yüklenmesi mümkün olmayan ve sahiplerince gerekli tedbir alınmayan eşyaların yükleme ve boşaltmalarında meydana gelecek zararlardan sorumlu değildir.

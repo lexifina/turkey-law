@@ -1,0 +1,2 @@
+Tarifelere bağlanmayan hizmetler
+MADDE 6 – (1) Tarifede yer almayan bir hizmetin talep edilmesi ve işletmece bu talebin yerine getirilmesi halinde, hizmetin ücreti; şayet Tarifede yer alan benzer bir hizmet var ise buna kıyasen, yoksa işletmece günün ekonomik şartları dikkate alınarak tespit edilir. Bu hizmetin yerine getirilmesinde kullanılan malzemelerin bedeli rayiç bedele göre ayrıca alınır. Söz konusu işlem Genel Müdürlüğe uygulama birliği açısından bildirilir.

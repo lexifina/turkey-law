@@ -1,0 +1,2 @@
+Ardiye ücretinin başlangıcı ve bitimi
+MADDE 14 – (1) Ardiye ücreti; karayolu ile gelen eşyada taşıtın terminale girdiği gün, havayolu ile gelen eşyada ise eşyanın geçici depolama yeri ve antrepoya konulduğu gün başlar ve teslim edildiği gün dahil biter. Ayrıca kaçak eşyanın sahibine iadesi durumunda mahkeme kararının eşya sahibine tebliğ edildiği, tasfiyelik hale gelen eşya ile hacizli eşyada ise satış tarihini izleyen gün başlar ve teslim edildiği gün dahil biter.

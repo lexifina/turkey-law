@@ -1,0 +1,2 @@
+Muhafazası özel tertip, tedbir ve tesis gerektiren eşya
+MADDE 16 – (1) Geçici depolama yeri ve antrepoya alınan eşyanın; sahibinin talebi, gümrük idaresi veya işletme tarafından özel bakım ve koruma gibi işlemleri gerektirdiğinin tespit edilmesi ve değerinin uygun olması şartıyla, muhafaza, tertip, tedbir ve tesisin gerektirdiği giderler işletme tarafından yapılır, bilahare sahibinden tahsil olunur.
