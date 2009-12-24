@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2364",
+  "decision_date": "2009-12-24",
+  "title": "Kayseri ve Civarı Elektrik T.A.Ş. gelir/fiyat düzenlemesi tablolarının 2010 yılı için onaylanmasına ilişkin Karar Not:Ek için tıklayınız",
+  "resmi_gazete_date": "2009-12-31",
+  "resmi_gazete_number": "27449",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=O1I9CYzuDHk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=O1I9CYzuDHk="
+  ],
+  "source_sha256": "09423d5c4db0f18fefb2dff3f520d9c288f50eb66c334ff1eea1199f0500a567",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-12-24",
+  "law_text_complete": false
+}
