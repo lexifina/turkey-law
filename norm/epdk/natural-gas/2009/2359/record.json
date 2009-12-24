@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2359",
+  "decision_date": "2009-12-24",
+  "title": "Doğal gaz piyasası ile ilgili depolama tarifesi hakkında Karar",
+  "resmi_gazete_date": "2009-12-31",
+  "resmi_gazete_number": "27449",
+  "categories": [
+    "Depolama"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bxyz1J4dEXc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bxyz1J4dEXc="
+  ],
+  "source_sha256": "27b9f1c801137db4bf37947f51dfe69cf54c9c2c187eaf90ced0fd48b70df593",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7229,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-12-24",
+  "law_text_complete": false
+}
