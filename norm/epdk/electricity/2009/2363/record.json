@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2363",
+  "decision_date": "2009-12-24",
+  "title": "01/10/2010 Tarihinden İtibaren Geçerli Olacak Tarife Tabloları ,",
+  "resmi_gazete_date": "2009-12-31",
+  "resmi_gazete_number": "27449",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=L629b/XtQvc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=L629b/XtQvc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Pu1H1eq3ruA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iAOapOMFHuI="
+  ],
+  "source_sha256": "3b5d91106690f39d4c2e6165235fecd433e557ae6e4947b2627113dbeeb5958f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2009-12-24",
+  "law_text_complete": false
+}
