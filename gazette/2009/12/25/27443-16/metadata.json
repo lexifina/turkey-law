@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-12-25",
+  "issue": "27443",
+  "edition": "regular",
+  "item": 16,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Standartları Enstitüsünün Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğde Değişiklik Yapılmasına Dair Tebliğ (No: SGM-2009/20)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091225-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091225.htm",
+  "index_sha256": "53657776ec4c1abf0458a175df031e9c45ac0cc9543328ab70bbced6d3869592",
+  "index_header": "25 Aralık 2009 ... 27443 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
