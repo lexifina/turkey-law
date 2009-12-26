@@ -1,0 +1,4 @@
+MADDE 2 — (Değişik:RG-26/12/2009-27444)
+24/12/2008 tarihli ve 27090 sayılı Resmî Gazete’de yayımlanan “Anonim ve Limited Şirketlerin Sermayelerini Yeni Asgari Miktarlara Yükseltme Sürelerinin Uzatılmasına İlişkin Tebliğde Değişiklik Yapılmasına Dair Tebliğ (Tebliğ No: İç Ticaret 2008/2) ile belirlenen süreler değiştirilmiştir. Sermayeleri 50 bin Türk Lirasından az olan anonim şirketler ile 5 bin Türk Lirasından az olan limited şirketlerin sermayelerini yeni asgari miktarlara yükseltmek amacıyla en geç 31/12/2011 tarihi mesai bitimine kadar şirket merkezinin bulunduğu yer ticaret sicili memurluğuna müracaat etmeleri gerekmektedir. Bu şekilde müracaat eden şirketlerin sermaye artırımına ilişkin tescil işlemleri 31/3/2012 tarihine kadar sonuçlandırılacaktır.
+MADDE 3 — Bu Tebliğ yayımlandığı tarihte yürürlüğe girer.
+MADDE 4 — Bu Tebliğ hükümlerini Sanayi ve Ticaret Bakanı yürütür.

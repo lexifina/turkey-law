@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "27444",
+  "date_quote": "RG-26/12/2009-27444",
+  "first_law": null,
+  "gazette": "27090",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2009-12-26",
+  "in_force_basis": "latest source-printed Resmi Gazete amendment date (current consolidated text)",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-112-100.json",
+      "id": "112",
+      "label": "Bilim, Sanayi ve Teknoloji Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=112&start=100&length=100"
+    }
+  ],
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2008-12-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9761&MevzuatTertip=5",
+  "source_bytes": 7702,
+  "source_id": "9.5.9761",
+  "source_sha256": "c89a2bea3a99bdfcdedb9fd30ec10169c845f4a684ec173015a4ca13aa977f93",
+  "title": "ANONİM VE LİMİTED ŞİRKETLERİN SERMAYELERİNİ YENİ ASGARİ MİKTARLARA YÜKSELTME SÜRELERİNİN UZATILMASINA İLİŞKİN TEBLİĞDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ (Tebliğ No: İç Ticaret 2008/2)",
+  "word_count": 154
+}
