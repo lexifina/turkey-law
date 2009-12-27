@@ -1,0 +1,690 @@
+27 Aralık 2009 PAZAR
+Resmî Gazete
+Sayı : 27445
+TEBLİĞ
+Sanayi ve Ticaret Bakanlığından:
+HAFİF YOLCU VE TİCARİ ARAÇLARDAN
+ÇIKAN EMİSYONLAR (EURO 5 VE EURO 6)
+BAKIMINDAN VE ARAÇ TAMİR VE BAKIM BİLGİLERİNE
+ERİŞİM KONUSUNDA
+MOTORLU ARAÇLARIN TİP ONAYI İLE İLGİLİ UYGULAMA
+USUL VE
+ESASLARINA İLİŞKİN TEBLİĞ
+(TEBLİĞ NO: SGM-2009/22)
+BİRİNCİ BÖLÜM
+Amaç ve Kapsam, Tanımlar
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğ, 21/4/2009 tarihli ve 27207 sayılı
+Resmî Gazete’de yayımlanan Hafif Yolcu ve Ticari Araçlardan Çıkan
+Emisyonlar (Euro 5 ve Euro 6) Bakımından ve Araç Tamir ve Bakım Bilgilerine
+Erişim Konusunda Motorlu Araçların Tip Onayına İlişkin Yönetmeliğin ((AT)
+715/2007) uygulanmasını teminen, söz konusu yönetmeliğin kapsamında yer
+alan araçların; yeni emisyon sınırları ve araç tamir ve bakım bilgileri
+bakımından AT tip onayı için idari hükümleri, imalatın uygunluğu ve
+dolaşımdaki uygunluğu için hükümleri, OBD ve tamir ve bakım bilgilerine
+erişim hususları ve emisyonların kontrolü ile ilgili özel teknik şartları
+ile ayrı teknik ünite olarak değiştirilebilir kirlilik kontrol cihazlarının
+tip onayı şartlarının uygulama usul ve esaslarını belirler.
+Tanımlar
+MADDE 2 – (1) Bu Tebliğin amaçları bakımından MARTOY ve
+(AT)715/2007 Yönetmeliğinde yer alan tanımlara ek olarak aşağıdaki tanımlar
+geçerli olup;
+a)
+Araç OBD bilgileri: Araç üzerindeki herhangi bir elektronik sisteme uygun
+araç üzerinde teşhis sistemi ile ilgili bilgileri,
+b)
+(AT)715/2007: Hafif Yolcu ve Ticari Araçlardan Çıkan Emisyonlar (Euro 5 ve
+Euro 6) Bakımından ve Araç Tamir ve Bakım Bilgilerine Erişim Konusunda
+Motorlu Araçların Tip Onayına İlişkin Yönetmeliği,
+c)
+Arıza: Bu Tebliğin ekinde yer alan Ek XI’in madde 2.3’ündeki sınırları aşan
+emisyonlara sebep olan veya OBD sistemi Ek XI’in temel izleme şartlarını
+yerine getiremediğinde emisyonla ilgili aksam veya sistemin arızasını,
+ç)
+Arıza göstergesi (MI): OBD sistemine bağlanmış emisyonla ilgili herhangi
+bir aksamda veya OBD sisteminin kendisinde bir arıza olması durumunda, araç
+sürücüsüne açıkça bilgi veren görsel veya işitsel göstergeyi,
+d)
+Ayıraç: Araç üzerindeki bir depoya konulan ve emisyon kontrol sisteminin
+isteği üzerine egzoz iyileştirme sistemine sağlanan, yakıt dışında herhangi
+bir ürünü,
+e)
+Bilgilere erişim: Aracın muayenesini, arızanın teşhisini, aracın düzenli
+bakımını (servisini) veya tamirini gerektiren, bütün araç OBD ve araç tamir
+ve bakım bilgilerinin mevcut olmasını,
+f)
+Biyodizelli esnek yakıtlı araç: Mineral dizel (motorin) veya mineral dizel
+ve biyodizel karışımıyla çalışabilen esnek yakıtlı bir aracı,
+g)
+Bozulmuş değiştirilebilir kirlilik kontrol cihazı: BM/AEK Regülasyonu 83’ün
+Ek XI’inin İlave 1’inin madde 1’inde belirtilen şartları yerine getirdiği
+ölçüde yaşlandırılmış veya suni olarak bozulmuş olan, (AT) 715/2007
+Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (o) bendinde tarif
+edilen bir kirlilik kontrol cihazı,
+ğ)
+Çalıştırma kiti: Motorun hava/yakıt karışımını zenginleştirmeksizin motorun
+çalışmasına yardımcı olan, kızdırma bujileri, enjeksiyon zaman ayar
+değişiklikleri ve diğer tertibatları,
+h)
+Eksiklik: Motor OBD sistemleri kapsamında, izlenen iki ayrı aksama veya
+sisteme kadar, bu aksam veya sistemlerin başka şekilde verimli OBD
+izlemesini bozan geçici ya da daimi çalışma özelliklerini içermesi veya OBD
+ile ilgili diğer bütün ayrıntılı şartları karşılamamasını,
+ı)
+Emisyonlar ve araç tamir ve bakım bilgileri bakımından araç tipi: Aşağıdaki
+esas hususlarda farklılık göstermeyen araç grubunu;
+1)
+BM/AEK Regülasyonu 83’ün Ek 4’ünün madde 5.1’inde belirtilen referans kütle
+ile ilgili olarak tespit edilen eş değer atalet,
+2)
+Bu Tebliğin ekinde yer alan Ek I’in İlave 3’ünde belirtilen motor ve araç
+karakteristikleri.
+i)
+Emisyonlar ve araç tamir ve bakım bilgileri bakımından bir aracın AT tip
+onayı: Egzoz emisyonları, karter emisyonları, buharlaşma emisyonları, yakıt
+tüketimi ve araç OBD ve araç tamir ve bakım bilgilerine erişim bakımından
+bir aracın AT tip onayını,
+j)
+Emisyon kontrol sistemi: OBD sistemi bağlamında, elektronik motor yönetim
+kumandası ve bu kumandaya giriş sağlayan veya bundan çıkış alan egzozda
+veya buharlaşma sisteminde emisyonla ilgili herhangi bir aksamı,
+k)
+Esnek yakıtlı araç: İki veya daha fazla farklı karışımlı yakıtlarla
+çalışabilen, bir yakıt depolama sistemi bulunan bir aracı,
+l)
+Etanollü esnek yakıtlı araç: Benzinle veya benzin ve % 85’e kadar etanol
+harmanlı (E85) bir karışımla çalışabilen esnek yakıtlı bir araç,
+m)
+Gaz hâlindeki kirleticiler: Karbon monoksit, azot dioksit (NO2)
+eş değeri cinsinden ifade edilen azot oksitler ve aşağıdaki oranlara sahip
+hidrokarbonları;
+1)
+Benzin (E5) için C1H1.89O0.016,
+2)
+Dizel (B5) için C1H1.86O0.005,
+3)
+LPG (sıvılaştırılmış petrol gazı) için C1H2.525,
+4)
+NG (doğal gaz) ve biyometan için CH4.
+5)
+Etanol (E85) için C1H2.74O0.385.
+n)
+Güç çıkış çalıştırıcısı veya ünitesi: Donanıma yardımcı güç verme amacıyla
+araca monte edilen, motor tahrikli çıkış tertibatını,
+o)
+Hibrit elektrikli araç (HEV): Mekanik tahrik amacıyla, depolanmış
+enerjiyi/gücü araç üzerindeki tüketilebilir yakıttan ve akü, kapasitör,
+volan/dinamo veya diğer elektrikli enerji/güç depolama cihazından çeken bir
+aracı,
+ö)
+İki yakıtlı araç: İki farklı yakıtla belli zamanlı çalışabilen ve bir
+müddet sadece tek yakıtla çalışacak şekilde tasarımlanan, iki ayrı yakıt
+depolama sistemi bulunan bir araç,
+p)
+İki yakıtlı gazlı araç: Benzinle ve aynı zamanda LPG, Doğalgaz/Biyometan
+veya hidrojenle de çalışabilen iki yakıtlı bir aracı,
+r)
+İkincil hava: Egzoz gazı akışı içinde bulunan HC ve CO’in oksidasyonuna
+yardım etmek üzere tasarlanmış bir pompa veya aspiratör valfi veya diğer
+vasıtalarla egzoz sistemi içine gönderilen havayı,
+s)
+Kirlilik kontrol cihazı tipi: Aşağıdaki esas hususlarda farklılık
+göstermeyen katalitik konvertörler ve parçacık filtrelerini,
+ş)
+Küçük ölçekli imalatçılar: Dünya çapındaki yıllık imalatı 10.000 birimden
+az olan araç imalatçıları,
+t)
+MARTOY: 28/6/2009 tarihli ve 27772 sayılı Resmî Gazete’de yayımlanan
+Motorlu Araçlar ve Römorkları Tip Onayı Yönetmeliğinin (2007/46/AT)
+uygulamada bulunan son seviyesini,
+u)
+Motorda hatalı yanma: Kıvılcımın olmaması, fakir yakıt ölçülmesi, zayıf
+sıkıştırma veya başka bir sebepten dolayı pozitif ateşlemeli motorun
+silindirindeki yanma eksikliğini,
+ü)
+Motor kapasitesi: Gidip gelme hareketli pistonlu motorlar için, motor anma
+süpürme hacmini veya döner pistonlu (Wankel) motorlar için, motor anma
+süpürme hacminin iki katını,
+v)
+Orijinal değiştirilebilir kirlilik kontrol cihazı: Tipleri bu Tebliğin
+ekinde yer alan Ek I’in İlave 4’ünde gösterilen, ayrıca, araç tip onayı
+sahibi tarafından ayrı teknik ünite olarak piyasaya sunulan bir kirlilik
+kontrol cihazı veya kirlilik kontrol cihazlarının bir grubunu;
+1)
+Alt katmanların sayısı, yapısı ve malzemesi,
+2)
+Her bir alt katmanın faaliyet tipi,
+3)
+Hacim, ön alan ile alt katman uzunluğunun oranı,
+4)
+Katalizör malzemesi muhtevası,
+5)
+Katalizör malzemesi oranı,
+6)
+Hücre yoğunluğu,
+7)
+Boyutları ve şekli,
+8)
+Isıl koruması.
+y)
+Periyodik yenilenme (rejenerasyon) sistemi: 4000 km’den daha az normal araç
+çalışmasında periyodik yenilenme işlemini gerektiren katalitik
+konvertörler, parçacık filtreleri veya diğer kirlilik kontrol cihazlarını,
+z)
+Soğukta çalıştırma sistemi veya tertibatı: Motorun hava/yakıt karışımını
+geçici olarak zenginleştiren, bu suretle motorun harekete geçmesine yardım
+eden bir sistemi,
+aa)
+Sürüş çevrimi: Araç OBD sistemleriyle ilgili olarak, motorun
+çalıştırılması, varsa arızanın ortaya çıkarıldığı sürüş modu ve motorun
+durdurulmasından oluşan çevrimi,
+bb)
+Tek yakıtlı araç: Esas olarak bir tek yakıt tipiyle çalışacak şekilde
+tasarımlanan araç,
+cc)
+Tek yakıtlı gazlı araç: Esas olarak sürekli şekilde LPG, NG
+DOĞALGAZ/biyometan veya hidrojen ile çalışacak şekilde tasarımlanan, ancak
+benzin deposu 15 litreden daha fazla benzin içermediği durumlarda, acil
+amaçlar veya sadece ilk çalıştırma için benzin sistemine de sahip olabilen
+tek yakıtlı bir aracı,
+çç)
+Uygun bakım ve kullanım: Deney aracının amacı bakımından, bu tür bir aracın
+bu Tebliğin ekinde yer alan Ek II’nin İlave 1’inin madde 2’sinde belirtilen
+seçilmiş bir aracın kabul kriterlerini sağlamasını,
+dd)
+Yürür vaziyetteki aracın kütlesi: MARTOY’un Ek I’inin madde 2.6’sında
+açıklanan kütleyi,
+ifade
+eder.
+İKİNCİ BÖLÜM
+Araç Tip Onayı Uygulamaları
+Tip onayı şartları
+MADDE 3 – (1) İmalatçı, emisyonlar ve araç tamir ve bakım
+bilgileri ile ilgili bir AT tip onayını almak için, araçların bu Tebliğin
+ekinde yer alan Ek III ila Ek VIII, Ek X ila Ek XII, Ek XIV ve Ek XVI’da
+belirtilen deney işlemlerine uygun olduğunu göstermek ve bu Tebliğin ekinde
+yer alan Ek IX’unda belirtilen referans yakıtların özelliklerine uygunluğu
+sağlamak zorundadır.
+(2)
+Araçlar, Ek I’in Şekil I.2.4’ünde belirtilen deneylere tabi tutulur.
+(3) Küçük ölçekli imalatçılar, bu Tebliğin
+ekinde yer alan Ek II, Ek III, Ek V ila Ek XI ve Ek XVI’da belirtilen
+şartlara alternatif olarak, Ek I’in madde 2.1’inde belirtilen mevzuata göre
+üçüncü bir ülkenin kuruluşu tarafından onaylanmış olan bir araç tipine AT
+tip onayı verilmesini talep edebilir. Buna göre, emisyonlar ve araç tamir
+ve bakım bilgileri bakımından AT tip onayı almak için; bu Tebliğin ekinde
+yer alan Ek IV’te belirtilen karayolu elverişliliği amacıyla yapılan
+emisyon deneyleri, Ek XII’de belirtilen yakıt tüketimi ve CO2
+emisyonu deneyleri ve Ek XIV’te belirtilen araç OBD ve araç tamir ve bakım
+bilgilerine erişim için şartların yerine getirilmesi gereklidir. Onay kuruluşu,
+bu fıkraya göre verilen her bir tip onayının koşulları konusunda Dış
+Ticaret Müsteşarlığı aracılığı ile Komisyona bilgi verir.
+(4)
+Yakıt depolarına girişler ve elektronik sistem güvenliği için özel şartlar,
+bu Tebliğin ekinde yer alan Ek I’in madde 2.2 ve madde 2.3’ünde
+belirtilmiştir.
+(5)
+İmalatçı, egzoz ve buharlaşma emisyonlarının bu Tebliğe uygun olarak aracın
+normal ömrü boyunca ve normal kullanım şartlarında etkin olarak
+sınırlanmasını sağlayacak şekilde teknik tedbirler almakla yükümlüdür. Bu
+tedbirler, emisyon kontrol sistemlerinde kullanılan hortumların, ek
+yerlerinin ve bağlantıların güvenliğinin orijinal tasarıma uygun olacak
+şekilde yapıldığının garantisini içerir.
+(6)
+İmalatçı, emisyon deneyi sonuçlarının bu Tebliğde belirtilen deney
+koşullarında uygulanabilir sınır değere uygun olmasını sağlamak zorundadır.
+(7)
+Bu Tebliğin ekinde yer alan Ek IV’ün İlave 1’inde belirtilen Tip 2 deneyi
+için normal motor rölanti devrinde egzoz gazları içindeki azami müsaade
+edilebilir karbon monoksit muhtevası, araç imalatçısı tarafından beyan
+edilen miktardır. Bununla birlikte, azami karbon monoksit muhtevası hacimce
+% 0,3’ü aşmamalıdır. Yüksek rölanti devrinde, egzoz gazlarının hacim olarak
+karbon monoksit muhtevası, en az 2.000
+min-1 d/d motor devrinde ve Lambda 1 ± 0,03 değerinde iken veya
+imalatçının şartnamesindeki maddelere uygun olarak % 0,2’yi aşmamalıdır.
+(8)
+İmalatçı, bu Tebliğin ekinde yer alan Ek V’te belirtilen Tip 3 deneyinde,
+motor havalandırma sisteminin her türlü karter gazları emisyonunun
+atmosfere çıkmamasını sağlamak zorundadır.
+(9)
+Bu Tebliğin ekinde yer alan Ek VIII’de belirtilen düşük sıcaklıklarda
+emisyonların ölçülmesinin yapıldığı Tip 6 deneyi dizel araçlara uygulanmaz.
+Bununla birlikte, imalatçılar tip onayı için başvururken NOx iyileştirme
+cihazının Tip 6 deneyinde açıklandığı gibi, -7° C’ta soğukta çalıştırmadan
+sonraki 400 saniye içinde verimli çalışma için yeterince yüksek sıcaklığa
+ulaştığını gösteren bilgileri onay kuruluşuna sunar. İlave olarak, imalatçı
+düşük sıcaklıklarda işlev yapması da dahil, egzoz gazı devridaim sisteminin
+(EGR) çalışma stratejisi ile ilgili bilgileri onay kuruluşuna vermelidir.
+Bu bilgiler, emisyonlar üzerindeki herhangi bir etkiyle ilgili açıklamayı
+da içerir. Verilen bilgiler, iyileştirme cihazının verimli çalışması
+amacıyla işaret edilen zaman dilimi içerisinde yeterince yüksek sıcaklığa
+fiilen eriştiğini göstermek için yeterli değilse, onay kuruluşu tip onayını
+vermez. Onay kuruluşu, Komisyonun talebi halinde NOx iyileştirme
+cihazlarının ve EGR sisteminin düşük sıcaklıklardaki performansı ile ilgili
+bilgileri verir.
+OBD sistemine ilişkin tip onayı
+şartları
+MADDE 4 – (1) İmalatçı, bütün araçların OBD sistemiyle
+teçhiz edilmesini sağlamak zorundadır.
+(2)
+OBD sistemi, aracın bütün ömrü boyunca bozulma veya arıza tiplerini
+tanımlayabilecek şekilde tasarımlanır, imal edilir ve araca monte edilir.
+(3)
+OBD sistemi, normal kullanım koşulları süresince bu Tebliğin şartlarına
+uymak zorundadır.
+(4)
+Kusurlu bir aksamla bu Tebliğin ekinde yer alan Ek XI’in İlave 1’ine uygun
+olarak deneye tabi tutulduğunda, OBD sistemi arıza göstergesi devreye
+girmelidir. OBD sistemi arıza göstergesi, bu deney sırasında bu Tebliğin
+ekinde yer alan Ek XI’de belirtilen OBD eşik sınırlarının altındaki emisyon
+seviyelerinde de devreye girebilir.
+(5)
+İmalatçı, OBD sisteminin makul olarak öngörülebilir sürüş koşullarında, bu
+Tebliğin ekinde yer alan Ek XI’in İlave 1’inin madde 3’ünde belirtilen
+kullanımdaki performans şartlarına uymasını sağlamak zorundadır.
+(6)
+Bu Tebliğin ekinde yer alan Ek XI’in İlave 1’inin madde 3.6’sının hükümlerine
+göre depolanacak ve raporlanacak kullanımdaki performansla ilgili veriler,
+herhangi bir şifreleme olmaksızın ulusal yetkililer ve bağımsız operatörler
+için kolaylıkla elde edilebilir olmalıdır.
+(7)
+Bu Tebliğin ekinde yer alan Ek XI’in madde 2.3.2’sinde belirtilen OBD
+eşiklerini kullanan dizel araçlar hariç olmak üzere, araçlar ancak OBD
+eşikleri yürürlüğe girdikten sonra tip onayı alabilir.
+Emisyonlar ve araç tamir ve bakım
+bilgilerine erişim konusunda bir aracın AT tip onayı için başvuru
+MADDE 5 – (1) İmalatçı, emisyonlar ve araç tamir ve bakım
+bilgileri konusunda bir aracın AT tip onayı başvurusunu onay kuruluşuna
+yapmalıdır.
+(2)
+Birinci fıkrada belirtilen başvuru, bu Tebliğin ekinde yer alan Ek I’in
+İlave 3’ünde belirtilen bilgi dokümanı örneğine uygun olarak hazırlanır.
+(3)
+İmalatçı ilave olarak aşağıdaki bilgileri de sunar.
+a)
+Pozitif ateşlemeli motorlarla donatılan araçlarda hatalı yanma yüzdesi, bu
+Tebliğin ekinde yer alan Ek III’te açıklanan Tip 1 deneyinin başlamasından
+itibaren mevcut olmuş ise, bu Tebliğin ekinde yer alan Ek XI’in madde
+2.3’ünde verilen sınırları aşan emisyonlardan kaynaklanan veya kalıcı
+hasara sebep olmadan önce egzoz katalizöründe veya katalizörlerde aşırı
+ısınmaya yol açabilen, yanma olaylarının toplam sayısının dışında kalan
+asgari hatalı yanma yüzdesinin imalatçı tarafından beyanı.
+b)
+OBD sistemi tarafından izlenen aracın emisyon kontrol sisteminin bütün
+ilgili parçalarının bir listesini içeren, OBD sisteminin fonksiyonel
+çalışma karakteristiklerini tam olarak açıklayan ayrıntılı yazılı bilgiler.
+c)
+Araç sürücüsüne bir hatanın varlığının sinyalini vermek için OBD sistemi
+tarafından kullanılan arıza göstergesinin açıklaması.
+ç)
+OBD sisteminin makul olarak öngörülebilir bütün sürüş koşullarında
+kullanımdaki performansla ilgili bu Tebliğin ekinde yer alan Ek XI’in İlave
+1’inin madde 3’ünde belirtilen hükümlere uygun olduğuna dair imalatçı tarafından
+bir beyan.
+d)
+Bu Tebliğin ekinde yer alan Ek XI’in İlave 1’inin madde 3.2 ve madde 3.3’ün
+şartlarını karşılaması gereken her bir monitörün numaratör ve
+denominatörlerinin devre dışı bırakılmasında olduğu gibi, numaratör ve
+denominatörlerin ve Ek XI’in İlave 1’inin madde 3.7'sinde açıklanan şartlar
+dahilinde genel denominatörün arttırılması ile ilgili teknik kriterleri ve
+gerekçeyi açıklayan bir plan.
+e)
+Emisyon kontrol bilgisayarının kurcalanması ve tadilatının önlenmesi için
+alınan tedbirlerin açıklaması.
+f)
+Uygulanabilirse, bu Tebliğin ekinde yer alan Ek XI’in İlave 2’sinde
+belirtilen araç grubunun özellikleri.
+g)
+Uygun olduğunda, onayların kapsamının genişletilmesi ve bozulma
+faktörlerinin belirlenmesini mümkün kılan ilgili verilerle birlikte diğer
+tip onaylarının kopyaları.
+(4) İmalatçı, üçüncü fıkranın (ç) bendinin
+amaçları bakımından bu Tebliğin ekinde yer alan Ek I’in İlave 7’sinde
+belirtilen kullanımda performans şartları için OBD’ye uygun imalatçı
+belgesi örneğini kullanır.
+(5)
+Onay veren onay kuruluşu, üçüncü fıkranın (d) bendinin amaçları bakımından,
+talep üzerine onay kuruluşları veya Komisyon için söz konusu bentte
+belirtilen bilgileri bulundurmalıdır.
+(6)
+Üçüncü fıkranın (ç) ve (d) bentlerinin amaçları bakımından imalatçı
+tarafından sunulan bilgiler bu Tebliğin ekinde yer alan Ek XI, İlave 1,
+Madde 3’ün şartlarını yerine getirmek için uygun değilse onay kuruluşu
+aracı onaylamaz. Bu Tebliğin ekinde yer alan Ek XI’in İlave 1’inin madde
+3.2, madde 3.3 ve madde 3.7’si, makul olarak öngörülebilir bütün sürüş
+şartlarında uygulanır. İlk ve ikinci cümlelerde belirtilen şartların
+uygulanmasıyla ilgili değerlendirmede, onay kuruluşu teknolojinin durumunu
+göz önünde bulundurur.
+(7)
+Üçüncü fıkranın (e) bendinin amaçları bakımından emisyon kontrol
+bilgisayarının kurcalanması ve tadilatını önlemek için alınacak tedbirler,
+imalatçı onaylı program veya kalibrasyon kullanılarak güncelleme amacıyla imkanlar
+içermelidir.
+(8)
+İmalatçı, bu Tebliğin ekinde yer alan Ek I’in Şekil I.2.4’te belirtilen
+deneylerde tip onayı deneylerini yapmaktan sorumlu teknik servise
+onaylanacak tipi temsil eden bir aracı sunar.
+(9)
+Tek yakıtlı, iki yakıtlı ve esnek yakıtlı araçların tip onayı başvurusu, bu
+Tebliğin ekinde yer alan Ek I’in madde 1.1 ve madde 1.2’sinde belirtilen
+ilave şartlara uygun olmalıdır.
+(10)
+Motorun veya kirlilik kontrol sisteminin fonksiyonu etkilenecek şekilde orijinal
+karakteristikleri veya teknik parametreleri değiştirilmedikçe, tip
+onayından sonra meydana gelen sistem, aksam veya ayrı teknik ünitenin
+yapımındaki değişiklikler tip onayını otomatik olarak geçersiz kılmaz.
+Emisyonlar ve araç tamir ve bakım bilgilerine
+erişim konusunda bir aracın AT tip onayı için idari hükümler
+MADDE 6 – (1) Bütün ilgili şartlar karşılanıyorsa, onay
+kuruluşu MARTOY’un Ek VII’sinde belirtilen numaralama sistemine uygun
+olarak AT tip onayını verir ve tip onayı numarasını yayınlar. MARTOY’un Ek
+VII’sinin hükümleri saklı kalmak kaydıyla, tip onayı numarasının bölüm 3’ü
+bu Tebliğin Ek I’inin İlave 6’sına
+uygun olarak düzenlenir. Onay kuruluşu aynı numarayı başka bir araç tipine
+veremez.
+(2)
+Birinci fıkradan farklı olarak, imalatçının talebi halinde, bu Tebliğin
+ekinde yer alan Ek XI’in madde 3’ünde belirtilen özel idari hükümlerin
+uygun olması kaydıyla, OBD sistemi söz konusu ekin özel şartlarının tam
+olarak sağlanmayacak şekilde bir veya daha fazla eksiklikler içerse bile,
+OBD sistemli bir araç emisyonlar ve araç tamir ve bakım bilgileri konusunda
+tip onayı için kabul edilebilir. Onay kuruluşu, bu şekildeki bir tip
+onayını verme kararını MARTOY’un 8 inci maddesinde belirtilen şartlara
+uygun olarak Avrupa Birliği üyesi ülkelerin onay kuruluşlarına bildirilmek
+üzere Dış Ticaret Müsteşarlığı aracılığıyla Komisyona bildirir.
+(3)
+Onay kuruluşu birinci fıkraya göre AT tip onayını verirken bu Tebliğin
+ekinde yer alan Ek I’in İlave 4’ünde belirtilen örneğe uygun AT tip onayını
+verir.
+Tip onaylarında değişiklikler
+MADDE 7 – (1) Tip onaylarının her türlü değişikliklerinde
+MARTOY’un 13’üncü, 14’üncü ve 16 ncı maddesi uygulanır.
+(2)
+İmalatçının talebi halinde, bu Tebliğin ekinde yer alan Ek I’in madde
+3’ünde belirtilen hükümler, ilave deney gerektirmeksizin sadece aynı tip
+araçlara uygulanır.
+ÜÇÜNCÜ BÖLÜM
+İmalatın
+Uygunluğu, Dolaşımdaki Uygunluk
+İmalatın uygunluğu
+MADDE 8 – (1) İmalatın uygunluğunu sağlamak için MARTOY’un
+12 nci maddesinin hükümlerine uygun olarak tedbirler alınır.
+(2)
+İmalatın uygunluğu, bu Tebliğin ekinde yer alan Ek I’in İlave 4’ünde
+belirtilen tip onayı belgesindeki açıklama esasına göre kontrol edilir.
+(3)
+İmalatın uygunluğu ile ilgili özel hükümler bu Tebliğin ekinde yer alan Ek
+I’in İlave 4’ünde ve ilgili istatistik metotlar aynı ekin İlave 1 ve İlave
+2’sinde belirtilmiştir.
+Dolaşımdaki uygunluk
+MADDE 9 – (1) Dolaşımdaki uygunluk için hükümler, bu
+Tebliğin ekinde yer alan Ek II’de ve 24/9/2003 tarihli ve 25239 sayılı
+Resmî Gazete’de yayımlanan Motorlu Araçların Motorlarından Çıkan Gazların
+Havayı Kirletmesine Karşı Alınacak Tedbirlerle İlgili Tip Onayı
+Yönetmeliğine (70/220/AT) göre tip onaylı araçlar için ise bu Tebliğin
+ekinde yer alan Ek XV’te belirtilmiştir.
+(2)
+Bu Tebliğe veya 70/220/AT Yönetmeliğine göre tip onaylı araçların
+dolaşımdaki uygunluğunu sağlayacak tedbirler, MARTOY’un 12’nci maddesine
+uygun olarak alınır.
+(3)
+Dolaşımdaki uygunluk tedbirleri, bu Tebliğin ekinde yer alan Ek II’de
+belirtildiği şekilde normal kullanım şartlarında araçların normal faydalı
+ömrü süresince kirlilik kontrol cihazlarının fonksiyonunu doğrulamak için
+uygun olmalıdır.
+(4)
+Dolaşımdaki uygunluk tedbirleri, 5 yıl süreye kadar veya 100.000 km’ye
+kadar (hangisi daha erken olursa) kontrol edilmelidir.
+(5)
+Satılan araçların sayısı, deneye tabi tutulacak yeterli miktarda numune
+sayısının elde edilmesini mümkün kılmaz ise, imalatçı dolaşımdaki
+uygunluğun denetimini yapmakla yükümlü olmamalıdır. Bu nedenle, bu araç
+tipinin yıllık satışları ülke içinde ve Topluluğun tamamında 5.000’den az
+ise, denetim gerekli değildir. Bununla birlikte, bu tür küçük seri
+araçların imalatçısı, bu Tebliğin ekinde yer alan Ek II’nin madde 2.3’ünde
+belirtilen emisyonlara ilişkin garanti, tamir istekleri ve OBD hataları ile
+ilgili bir raporu onay kuruluşuna sunmak zorundadır. Ayrıca, onay kuruluşu
+bu tür araç tiplerinin bu Tebliğin ekinde yer alan Ek II’nin İlave 1’ine
+uygun olarak deneye tabi tutulmasını isteyebilir.
+(6)
+Bu Tebliğe göre tipi onaylı araçlar konusunda, onay kuruluşunun bu Tebliğin
+ekinde yer alan Ek II’nin İlave 2’sinde tarif edilen kriterlere uygun
+olarak deneylerin sonuçlarını yeterli görmemesi halinde, MARTOY’un 30’uncu
+maddesinin birinci fıkrasında ve Ek X’unda belirtilen çözüm tedbirleri, bu
+Tebliğin ekinde yer alan Ek II’nin İlave 1’inin madde 6’sına göre aynı
+kusurlardan etkilenmesi muhtemel aynı araç tipine ait dolaşımdaki araçlara
+kadar genişletilmelidir. Bu Tebliğin ekinde yer alan Ek II’nin İlave 1’inin
+madde 6.1’ine göre imalatçı tarafından sunulan çözüm tedbirleri planı, onay
+kuruluşu tarafından onaylanır. İmalatçı, onaylanan çözüm planını yerine
+getirmekten sorumludur. Onay
+kuruluşu kararını 30 gün içinde Avrupa Birliği üyesi ülkelerin onay
+kuruluşlarına bildirilmek üzere Dış Ticaret Müsteşarlığı aracılığıyla
+Komisyona bildirir. Üye ülkeler, aynı çözüm tedbirleri planının
+bölgelerinde tescil edilen aynı tipteki bütün araçlara uygulanmasını
+isteyebilir.
+(7)
+Onay kuruluşu, bir araç tipinin bu Tebliğin ekinde yer alan Ek II’nin İlave
+1’inin uygulanabilir şartlarına uygun olmadığını belirlemiş ise, bu hususu
+MARTOY’un 30’uncu maddesinin üçüncü fıkrasına uygun olarak orijinal tip
+onayını veren üye ülkeye bildirilmek üzere Dış Ticaret Müsteşarlığı
+aracılığıyla Komisyona bildirir. Bu
+bildirime ve MARTOY’un 30’uncu maddesinin altıncı fıkrasındaki hükme tabi
+olunmasını müteakip orijinal tip onayını veren onay kuruluşu, imalatçıya
+araç tipinin bu hükümlerin şartlarını sağlamadığını ve bazı tedbirlerin
+imalatçıdan beklendiğini bildirir. İmalatçı, bu onay kuruluşuna bu
+bildirimden sonraki iki ay içinde içeriği bu Tebliğin ekinde yer alan Ek
+II’nin İlave 1’in madde 6.1 ila madde 6.8’in şartlarına karşılık gelen
+kusurları giderecek tedbirler planını sunmak zorundadır. Orijinal tip
+onayını veren onay kuruluşu, tedbirler planı ve planın gerçekleştirilmesi
+konusunda mutabakatı sağlamak için iki ay içinde imalatçıya danışır.
+Orijinal tip onayını veren onay kuruluşu, hiçbir mutabakata ulaşamazsa,
+MARTOY’un 30’uncu maddesinin üçüncü ve dördüncü fıkraları uyarınca işlem
+başlatır.
+DÖRDÜNCÜ BÖLÜM
+Kirlilik
+Kontrol Cihazları ile İlgili İşlemler
+Kirlilik kontrol cihazları
+MADDE 10 – (1) İmalatçı, (AT) 715/2007 Yönetmeliğinin
+kapsamında yer alan AT tip onaylı araçlara takılmak üzere tasarlanan
+değiştirilebilir kirlilik kontrol cihazlarının MARTOY’un 10’uncu maddesinin
+ikinci fıkrasının anlamı dahilinde ayrı teknik ünite olarak, bu Tebliğin 12
+nci ve 13 üncü maddeleri ile Ek XIII’üne uygun şekilde AT tip onaylı
+olmasını sağlamak zorundadır. Katalitik konvertörlerin ve parçacık
+filtrelerinin bu Tebliğin amaçları bakımından kirlilik kontrol cihazları
+olduğu kabul edilir.
+(2)
+Bir tipi bu Tebliğin ekinde yer alan Ek I’in İlave 4’üne Eklentinin madde
+2.3’ü kapsamındaki tip içinde yer alan ve ilgili tip onayı dokümanının atıf
+yaptığı bir araca takılması tasarlanan orijinal donanım değiştirilebilir
+kirlilik kontrol cihazlarının bu Tebliğin ekinde yer alan Ek XIII’ün madde
+2.1 ve madde 2.2’sinin şartlarını yerine getirmesi kaydıyla, bu cihazlar
+söz konusu Eke uymak zorunda değildir.
+(3)
+İmalatçı, orijinal kirlilik kontrol cihazının tanıtım işaretleri taşımasını
+sağlamak zorundadır.
+(4)
+Üçüncü fıkrada belirtilen tanıtım işaretleri aşağıdakileri kapsar.
+a)
+Araç veya motor imalatçısının ismi veya ticari markasını ve
+b)
+Bu Tebliğin ekinde yer alan Ek I’in İlave 3’ünün madde 3.2.12.2’sinde
+belirtilen bilgilerde kaydedildiği gibi orijinal kirlilik kontrol cihazının
+markası ve tanıtma parça numarası.
+Değiştirilebilir kirlilik kontrol
+cihazı tipinin ayrı teknik ünite olarak AT tip onayı başvurusu
+MADDE 11 – (1) İmalatçı, değiştirilebilir kirlilik kontrol
+cihazlarının ayrı teknik ünite olarak AT tip onayı başvurusunu onay
+kuruluşuna yapar. Başvuru, bu Tebliğin ekinde yer alan Ek XIII’ün İlave
+1’inde belirtilen bilgi dokümanı örneğine uygun olarak hazırlanır.
+(2)
+İmalatçı, birinci fıkrada belirtilen şartlara ilave olarak, tip onayı deneyinden sorumlu teknik
+servise aşağıdakileri sunar.
+a)
+Yeni bir orijinal donanım kirlilik kontrol cihazıyla donatılmış, bu Tebliğe
+göre tip onaylı bir araç veya araçlar.
+b)
+Değiştirilebilir kirlilik kontrol cihazı tipine ait bir numune.
+c)
+OBD sistemiyle donatılmış bir araca takılmak üzere tasarlanmış
+değiştirilebilir kirlilik kontrol cihazı durumunda, değiştirilebilir
+kirlilik kontrol cihazı tipine ait ilave bir numune.
+(3)
+İkinci fıkranın (a) bendinin amaçları bakımından, deney araçları teknik
+servisle mutabakata varılarak başvuran tarafından seçilir. Deney araçları,
+BM/AEK Regülasyonu 83’ün Ek 4’ünün madde 3.1’inde belirtilen şartlara uygun
+olmalıdır. Deney araçları aşağıdaki şartlara uymalıdır.
+a)
+Deney araçlarında hiçbir emisyon kontrol sistemi kusuru olmamalıdır.
+b)
+Aşırı olarak yıpranmış veya arızalı emisyonla ilgili her türlü parça tamir
+edilmeli veya değiştirilmelidir.
+c)
+Deney araçları, emisyon deneyinden önce uygun şekilde hassas ayarları
+yapılmalı ve imalatçısının şartnamesine göre ayarlanmalıdır.
+(4)
+İkinci fıkranın (b) ve (c) bentlerinin amaçları bakımından, numune,
+başvuranın ticari adı veya işareti ve onun ticari gösterimi ile açıkça ve
+okunaklı bir şekilde işaretlenir.
+(5)
+İkinci fıkranın (c) bendinin amaçları bakımından numune, 2 nci maddenin
+birinci fıkrasının (g) bendinde tarif edildiği şekilde bozulmuş olmalıdır.
+Değiştirilebilir kirlilik kontrol
+cihazı tipinin ayrı teknik ünite olarak AT tip onayı için idari hükümler
+MADDE 12 – (1) Onay kuruluşu, ilgili bütün şartlar
+karşılanıyorsa, MARTOY’un Ek VII’sinde belirtilen numaralama sistemine
+uygun şekilde değiştirilebilir kirlilik kontrol cihazlarına ayrı teknik
+ünite olarak AT tip onayı verir ve tip onayı numarasını yayınlar. Onay
+kuruluşu aynı numarayı başka bir değiştirilebilir kirlilik kontrol cihazı
+tipine veremez. Aynı tip onayı numarası, birkaç farklı araç tipi üzerinde
+söz konusu değiştirilebilir kirlilik kontrol cihazı tipinin kullanımını kapsayabilir.
+(2)
+Onay kuruluşu, birinci fıkranın amaçları bakımından bu Tebliğin ekinde yer
+alan Ek XIII’ün İlave 2’sinde belirtilen örneğe uygun olarak oluşturulan AT
+tip onayı belgesini verir. (3)
+Tip onayı için başvuran, onay kuruluşuna veya teknik servise
+değiştirilebilir kirlilik kontrol cihazının bu Tebliğin ekinde yer alan Ek
+I’in İlave 4’ünün Eklentisinin madde 2.3’ünde gösterilen tipten olduğunu
+gösterebilirse, tip onayının verilmesi Ek XIII’ün madde 4’ünde belirtilen
+şartlara uygunluğun doğrulanmasına bağlı değildir.
+BEŞİNCİ BÖLÜM
+Bilgilere
+Erişim
+Araç OBD ve araç tamir ve bakım
+bilgilerine erişim
+MADDE 13 – (1) İmalatçılar, araç OBD ve araç tamir ve bakım
+bilgilerine kolaylıkla erişilebilir olmasını sağlamak için (AT) 715/2007
+Yönetmeliğinin 7 nci ve 8 inci maddelerine ve bu Tebliğin Ek XIV’üne uygun
+olarak gerekli düzenlemeleri ve işlemleri yerine getirmek zorundadır.
+(2)
+Onay kuruluşu, imalatçıdan araç OBD ve araç tamir ve bakım bilgilerine
+erişim ile ilgili belgeyi aldıktan sonra tip onayını verir.
+(3)
+Araç OBD ve araç tamir ve bakım bilgileri erişim ile ilgili belge, (AT)
+715/2007 Yönetmeliğinin 7 nci maddesinin yedinci fıkrasına uygunluğun
+ispatı olarak kullanılır.
+(4)
+Araç OBD ve araç tamir ve bakım bilgilerine erişim ile ilgili belge, bu
+Tebliğin ekinde yer alan Ek XIV’ün İlave 1’inde belirtilen örneğe uygun
+olarak düzenlenir.
+(5)
+Tip onayı başvurusu yapıldığında, araç OBD ve araç tamir ve bakım bilgileri
+mevcut değilse veya (AT) 715/2007 Yönetmeliğinin 7 nci ve 8 inci
+maddelerine ve bu Tebliğin Ek XIV’üne uygun değilse, imalatçı (AT) 715/2007
+Yönetmeliğinin 9 uncu maddesinin ikinci fıkrasında belirtilen ilgili
+tarihten itibaren altı ay içinde veya tip onayı tarihinden itibaren altı ay
+içinde (hangisi daha geç olursa) bu bilgileri sağlamak zorundadır.
+(6)
+Beşinci fıkrada belirtilen tarihler içinde bilgileri sağlamak için
+yükümlülükler, sadece aracın tip onayını takiben piyasaya arz edildiği
+durumlarda geçerlidir.
+Araç, tip onayından sonra altı aydan daha fazla
+sürede piyasaya arz edildiğinde ise, bilgiler, araç piyasaya arz edildiği
+tarihte sağlanmak zorundadır.
+(7)
+Hiçbir şikayetin olmaması ve imalatçının bu bilgileri beşinci fıkrada
+belirtilen tarihlerde vermiş olması kaydıyla, onay kuruluşu, tamamlanmış
+araç OBD ve araç tamir ve bakım bilgilerine erişim ile ilgili belgeye dayanarak,
+imalatçının araç OBD ve araç tamir ve bakım bilgilerine erişim ile ilgili
+yeterli düzenlemeleri ve işlemleri yerine getirmiş olduğunu varsayabilir.
+(8)
+Ek XI, Madde 4’te belirtilen OBD bilgilerine erişimle ilgili şartlara ilave
+olarak, imalatçı aşağıdaki bilgileri ilgili taraflara sağlamak zorundadır.
+a)
+OBD sisteminin düzgün işleyişi için kritik olan değiştirilebilir aksamların
+geliştirilmesine imkan sağlayan ilgili bilgiler.
+b)
+Jenerik teşhis aletlerinin gelişmesine imkan sağlayan bilgiler.
+(9)
+Sekizinci fıkranın (a) bendi uyarınca değiştirilebilir aksamların
+geliştirilmesi; OBD eşiklerinin aşılmış olması ya da OBD sisteminin bu
+Tebliğin temel OBD izleme şartlarını yerine getiremediği durumlarda, arıza
+gösterge stratejilerine ilişkin teknik şartlar, aracın sadece benzin veya
+gaz ile işleyişi ile ilgili OBD bilgisinin bağımsız olarak ele alınmasına
+ilişkin spesifik tadilatlar ve sınırlı sayıda önemsiz hatalar içeren gaz
+yakıt beslemeli araçların tip onayı ile ilgili bilgilerin bulunmayışı
+nedenleriyle kısıtlanamaz.
+(10)
+Sekizinci fıkranın (b) bendinin amaçları bakımından imalatçıların, yetkili
+servis ağlarında ISO 22900 Modüler Araç Bildirim Arayüzüne (Modular Vehicle
+Communication Interface (MVCI)) ve ISO 22901 Açık Teşhis Veri Değişimine
+(Open Diagnostic Data Exchange (ODX)) uygun olarak teşhis ve deney
+aletlerini kullanması halinde, ODX dosyaları imalatçının internet sitesi
+yoluyla bağımsız operatörler için erişilebilir olmalıdır.
+Araç OBD ve araç tamir ve bakım
+bilgilerine erişime ilişkin yükümlülüklere uyma
+MADDE 14 – (1) Onay kuruluşu, kendi inisiyatifi ile ya da bir
+şikayete veya bir teknik servis tarafından yapılan değerlendirmeye
+dayanarak, imalatçının (AT) 715/2007 Yönetmeliğinin ve bu Tebliğin
+hükümlerine ve araç OBD ve araç tamir ve bakım bilgilerine erişim ile
+ilgili belgenin şartlarına uygunluğunu her zaman kontrol edebilir.
+(2)
+Bir onay kuruluşunun imalatçının araç OBD ve araç tamir ve bakım
+bilgilerine erişim konusundaki yükümlülüklerine uymakta başarısız olduğunu
+belirlemesi hâlinde, ilgili tip onayını veren onay kuruluşu, bu durumu
+iyileştirmek için uygun tedbirler alır.
+(3)
+Bu tedbirler, tip onayının geri çekilmesi veya askıya alınması, para
+cezaları veya (AT) 715/2007 Yönetmeliğinin 11 inci maddesinde belirtilen
+diğer tedbirleri içerebilir.
+(4)
+Bağımsız operatör veya bağımsız operatörleri temsil eden ticari birlik veya
+dernek, onay kuruluşuna bir şikayette bulunursa, onay kuruluşu imalatçının
+araç OBD ve araç tamir ve bakım bilgilerine erişimle ilgili yükümlülüklere
+uyduğunu doğrulamak için denetim yapar.
+(5)
+Onay kuruluşu denetim yaparken, bu yükümlülüklerin karşılanıp
+karşılanmadığını doğrulamak için bir teknik servisten veya başka bir
+bağımsız uzmandan bir değerlendirme yapmasını isteyebilir.
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+İlgili Avrupa Birliği mevzuatı
+MADDE 15 – (1) Bu Tebliğ, hafif yolcu ve ticari araçlardan
+çıkan emisyonlar (Euro 5 ve Euro 6) bakımından ve araç tamir ve bakım
+bilgilerine erişim konusunda motorlu araçların tip onayına ilişkin Avrupa
+Parlamentosu ve Konseyinin (EC)
+715/2007 Regülasyonunu değiştiren ve uygulayan 18 Temmuz 2008 Tarihli (EC)
+692/2008 Komisyon Regülasyonu dikkate alınarak hazırlanmıştır.
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin 4 üncü maddesinin beşinci ve
+altıncı fıkraları ile 5 inci maddesinin üçüncü fıkrasının (ç) ve (d)
+bentleri, yeni tip onayı belgesi alacak araçlarda 1/1/2012 tarihinden itibaren uygulanır.
+(2)
+Tip onayı mevcut araçlarda uygulama tarihi 1/1/2012 tarihine kadar
+belirlenir.
+GEÇİCİ MADDE 2 – (1) Bu Tebliğin
+ekinde yer alan Ek I İlave 6’da belirtilen tarihler AT tip onayı için
+geçerlidir. Türkiye’de uygulama tarihleri (AT) 715/2007 Yönetmeliğinde
+belirtilmiştir.
+(2)
+Ek I İlave 6’da belirtilen tarihlerden sonra AT tip onayı verilmeye
+başlanıncaya kadar (AT) 715/2007 Yönetmeliğine göre rapor düzenlemek üzere
+yetkilendirilmiş, Avrupa Birliği üyesi ülkelerin de teknik servisleri dahil
+olmak üzere teknik servisler tarafından düzenlenen raporlar kabul edilir.
+GEÇİCİ MADDE 3 – (1) 9 uncu maddede
+belirtilen dolaşımda uygunluk uygulamasının başlatılacağı tarih Bakanlık
+tarafından ayrıca duyurulur.
+Yürürlük
+MADDE 16 – (1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 17 – (1) Bu Tebliğ hükümlerini Sanayi ve Ticaret Bakanı
+yürütür.
+Tebliğ eklerini görmek için tıklayınız
