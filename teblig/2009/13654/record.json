@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.13654",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 38)",
+  "number": "13654",
+  "path": "teblig/2009/13654",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13654&MevzuatTertip=5",
+  "source_sha256": "cd55459f5c3fed4b3f9096615b362882c8de9a96f17b99d36393f0b80b61509d",
+  "source_bytes": 65126,
+  "published": "2009-12-29",
+  "gazette": "27447",
+  "in_force": "2009-12-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.12.2009)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 723,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
