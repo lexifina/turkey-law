@@ -1,0 +1,3 @@
+Fiyatlar
+Madde 13- Başvuru üzerine veya resen yapılan bir inceleme sonucunda, bu Yönetmeliğin 1 inci maddesinde belirtilen tekstil ürünlerinin alışılmışın dışında düşük fiyatlarla ithal edildiğinin tespiti halinde, Kurulun bu konuda yapacağı değerlendirmeyi müteakip, ilgili tedarikçi ülkelerle yapılan ikili anlaşmalar, protokoller veya diğer düzenlemelerde belirtilen hükümler çerçevesinde, Genel Müdürlük bu Yönetmeliğin 14 üncü maddesinde belirtilen yönteme göre, ilgili tedarikçi ülkelerden danışma talep edebilir.
+Bu durumun telafisine yönelik önlemler, mevcut ikili anlaşmaların içerdiği şartlar ve hükümler dikkate alınarak Kurul tarafından tespit edilir ve Tebliğ olarak Resmi Gazete'de yayımlanır.

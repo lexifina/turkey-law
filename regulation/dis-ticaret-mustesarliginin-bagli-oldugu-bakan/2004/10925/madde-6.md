@@ -1,0 +1,5 @@
+Başvuru ve İnceleme
+Madde 6- Başvuru, tekstil ürünlerinin ithalat miktarlarında meydana gelen mutlak veya nisbi artışlar ve/veya bu ürünlerin ithalatının gerçekleştiği şartlarda meydana gelen değişiklikler sonucu, ciddi zarar gördüğünü, ciddi zarar tehdidi veya zarar tehdidi altında bulunduğunu, söz konusu ürünlerin ithalatı sebebiyle pazar bozulması tehdidi bulunduğunu veya ticaretin düzenli gelişiminin engellendiğini iddia eden ilgili gerçek veya tüzel kişiler ya da ilgili üreticiler adına meslek kuruluşları tarafından, Ek XI’de belirtilen bilgileri eksiksiz olarak içerecek şekilde Genel Müdürlüğe yazılı olarak yapılır.
+Başvuru, Ek XI’de belirtilen bilgilerin eksiksiz olarak verildiğinin tespiti halinde, Genel Müdürlükçe incelemeye alınır.
+Genel Müdürlük, başvuru üzerine veya resen, bu Yönetmeliğin Üçüncü Bölümünde belirtilen önlemlerin alınmasını gerektiren hallerin varlığına ilişkin yapacağı incelemeyi tamamladıktan sonra, önlem alınıp alınmaması hususundaki teklifini Kurula sunar.
+Genel Müdürlük, gerekli durumlarda, ilgili taraflardan incelemede kullanılmak üzere ek bilgi ve belgeler isteyebilir.

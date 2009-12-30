@@ -1,0 +1,3 @@
+İncelemeye Son Verilmesi
+Madde 9- İnceleme sonucunda, inceleme konusu tekstil ürünlerinin ithalat miktarlarında meydana gelen mutlak veya nisbi artışların ve/veya bu ürünlerin ithalatının gerçekleştiği şartlarda meydana gelen değişikliklerin, benzer ve/veya doğrudan rakip ürünlerin yurt içi üretimi üzerinde ciddi zarar, ciddi zarar tehdidi veya zarar tehdidi oluşturmadığının veya söz konusu ürünlerin ithalatı sebebiyle pazar bozulması tehdidi bulunmadığının veya ticaretin düzenli gelişiminin engellenmediğinin tespiti halinde veya başvuru konusunun ortadan kalkması durumunda Kurulca incelemeye son verilir. Bu husus, başvuru sahibine yazılı olarak bildirilir.
+Başvurunun geri çekilmesi halinde, Kurul tarafından, incelemeye son verilebilir.
