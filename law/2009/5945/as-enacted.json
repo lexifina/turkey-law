@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5945",
+  "year": 2009,
+  "title": "2008 Yılı Merkezi Yönetim Kesin Hesap Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-12-31",
+  "gazette_issue": "27449",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091231M1-2.htm",
+  "source_sha256": "36749a98736cdfb7cb4585b62ce86c73c971109c6b9851e9f8a95666ec5c52fc",
+  "text_sha256": "d678567a2fbdf04b84e072ae3c359f4ca24318c538151598659118bcab843cc6",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/12/31/27449-m1-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091231M1-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
