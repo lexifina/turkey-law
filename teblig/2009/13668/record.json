@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.13668",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 60)",
+  "number": "13668",
+  "path": "teblig/2009/13668",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13668&MevzuatTertip=5",
+  "source_sha256": "f58aa04d84d97fc50212a85ca30184f452c1b383433667b84c1da38b5780d376",
+  "source_bytes": 12972,
+  "published": "2009-12-31",
+  "gazette": "27449",
+  "in_force": "2009-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2009)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 374,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13668%20ekler.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
