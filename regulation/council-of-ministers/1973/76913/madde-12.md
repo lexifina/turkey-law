@@ -1,0 +1,12 @@
+Hastane sağlık kurullarınca rapor düzenlenirken ilişik örnek kullanılır. (Örnek 3)
+Yurtdışında bulunanların hastalanması hali:
+Madde 12 – (Değişik: 19/1/1983 - 83/6022 K.)
+Yönetmeliğin 3 üncü maddesinin birinci fıkrası (B) bendine göre tedavi ve yol giderlerinden yararlanacak olanlar, görevleri bakımından bağlı bulundukları Misyon Şefliğine, Misyon Şefliğinin başka bir yerde olması durumunda kendisine en yakın olan Büyükelçilik, Elçilik, Başkonsolosluk veya Konsolosluğa başvururlar. Aynı maddenin üçüncü fıkrasından yararlanacak olanlar ise bulundukları yere en yakın Misyon Şefliğine başvururlar. Bunun üzerine mahalli uygulamaya göre saptanan yöntem ve ilkeler ile tedavi Yönetmeliğindeki hükümler çerçevesinde hastanın tedavisi yaptırılır.
+Bulunulan yerdeki tıbbi olanaksızlıklar veya teknik nedenlerle tedavilerinin mümkün olmadığı belgelendirilen hastalar, gidiş dönüş yol giderleri, yapılacak tedavi giderleri ve bunlara ilişkin diğer giderler ile hastalığın durumunda dikkate alınarak Misyon Şefliğince tedavi için yurda veya diğer bir ülkeye gönderilerek tedavilerinin yaptırılması yoluna gidilir. Bu durumda gidiş dönüş yol giderleri ile yapılan tedavi giderlerine ait masraflar, ibraz edilen ve Misyon Şefliğince onaylanan belgelere göre ilgililere ödenir.
+Yurt içinde mümkün olan tedaviler Sağlık ve Sosyal Yardım Bakanlığınca tüm Misyon Şefliklerimize genelge ile duyurulur.
+Yabancı ülkelerde bulunan memurların tedavi usul ve esasları o ülkedeki Misyon Şeflikleri tarafından tesbit edilir. Tespit edilen usul ve esaslar, ilgili Misyon Şeflikleri tarafından Dışişleri Bakanlığına bildirilir.
+Sigorta sisteminin uygulandığı memleketlerde, bu sistem dairesinde hareket edilir.
+Hastanın ilk başvurusundaki durumun, kesin teşhisinin uygulanan tedavinin ve tedaviden alınan sonucun, gerekiyorsa verilen istirahatin açıkca belirtildiği bir raporun, hastayı sevk eden Misyon Şefliğine bildirilmesi sağlanır.
+Misyon Şefliği, her ne şekilde olursa olsun tedavi ve yol giderlerinin ödenebilmesi için alınan rapor, reçete ve benzeri gibi belgelerin yukarıdaki esaslar çerçevesinde alınmış ve bunların yetkili sağlık kurumları veya tabipler tarafından düzenlenmiş olduğunu tasdik ederek memurun bağlı olduğu kuruma bildirir.
+(Bu Yönetmelik bakımından Misyon Şefliği, o yerdeki Büyükelçilik, Elçilik, Daimi Temsilcilik, Başkonsolosluk ve Konsolosluktur.)
+Memurun eşi ve bakmakla yükümlü olduğu ana, baba ve aile yardımı ödeneğine müstehak çocuklarının hastalanması hali:

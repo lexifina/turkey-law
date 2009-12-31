@@ -1,0 +1,1 @@
+Madde 24 – Sağlık memuru, hemşire veya ebe tarafından ilk yardım bakımının yapılması halinde, bunlar tarafından hastanın kullanması istenilen ilaçlar hasta tarafından sağlanır. İlaçlara lüzum gösteren belge ve ilaçların alındığını gösteren faturaya dayanılarak ilgili tarafından bedeli kurumdan alınır.

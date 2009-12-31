@@ -1,0 +1,2 @@
+Madde 6 – Genel ve katma bütçeli dairelere, kamu iktisadi teşebbüslerine, özel idarelere ve belediyelere, Tıp Fakültelerine bağlı yataklı veya yataksız tedavi kurumlarına "resmi sağlık kurumu", hükümet, sağlık ocağı, belediye ve kurum tabipliklerine de "resmi sağlık kuruluşu" denir.
+Gerçek veya tüzel kişiler tarafından kurulmuş yataklı veya yataksız tedavi kurumları ile tedavi amacıyle hasta kabul eden ve Sağlık ve Sosyal Yardım Bakanlığınca işletme müsaadesi verilmiş bulunan içmece ve kaplıcalar "özel sağlık kurumu", serbest tabiplikler "özel sağlık kuruluşu" sayılır.

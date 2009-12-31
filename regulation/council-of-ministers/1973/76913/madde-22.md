@@ -1,0 +1,3 @@
+Özel sağlık kuruluşlarında tedavi:
+Madde 22 – Tedavi özel sağlık kuruluşlarında sağlandığı takdirde, (tabip tarafından kabul edilmek şartiyle) muayene ücreti ve yapılmışsa sair giderler hastadan alınmaz. Tabip tarafından bunlar gösterilmek suretiyle bir fatura düzenlenerek ilgili kuruma gönderilir, bedeli en geç aynı mali yıl sonuna kadar bu kurumca tabibe ödenir. Bu yol tabip tarafından kabul edilmediği takdirde, talep edilen para hasta tarafından tabibe ödenir. Alınacak fatura ilgili kuruma verilerek bedeli kurumdan alınır.
+Tabip tarafından verilen reçeteye dayanılarak ilaçların sağlanması veya enjeksiyon yaptırılması halinde, bu Yönetmeliğin 19 uncu maddesine göre işlem yürütülür.

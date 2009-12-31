@@ -1,0 +1,5 @@
+Bakmakla yükümlü olduğu kişileri bildirme:
+Madde 40 – Her Devlet memuru, tedavi yardımından yararlanabilecek eşi, bakmakla yükümlü olduğu ana, baba ve aile yardımı ödeneğine müstehak çocuklarını gösterir bir beyanname vermekle yükümlüdür. (Örnek 6).[1]
+Tedavi yardımından yararlanacak ana ve babanın birden fazla Devlet memuru (bu yönetmeliğin 48 inci maddesi kapsamına giren kurumlar personeli dahil) olan çocukları varsa, bu ana ve baba çocuklarından birinin beyannamesinde gösterilir.
+Beyannamede gösterilen şahısların durumunda bir değişiklik meydana geldiğinde memur 15 gün içinde yeniden bir beyanname düzenleyerek ilgili mercie verir.
+(Değişik: 14/5/2001 - 2001/2473 K.) Karı ve kocanın her ikisinin de bu Yönetmelikten yararlanan memur olması halinde, aile yardımı ödeneğine müstehak çocuklar anne veya babadan yalnız biri tarafından düzenlenecek beyannamede, boşanma ve ayrılık vukuunda ise, mahkeme çocuğun velayetini hangi tarafa vermişse, çocuk onun tarafından düzenlenecek beyannamede gösterilir.

@@ -1,0 +1,6 @@
+[1] Yönetmeliğin dayanağını teşkil eden, 657 sayılı Devlet Memurları Kanununun 209 uncu maddesinde yer alan "aile yardımı ödeneğine müstahak" ibaresi, 243 sayılı Kanun Hükmünde Kararnamenin 31 inci maddesi ile Kanun metninden çıkarılmış olduğu için, bu maddede yer alan sözkonusu ibarenin uygulanmasına imkan kalmamıştır.
+[2] Yönetmeliğin dayanağını teşkil eden, 657 sayılı Devlet Memurları Kanununun 209 uncu maddesinde yer alan "aile yardımı ödeneğine müstahak" ibaresi, 243 sayılı Kanun Hükmünde Kararnamenin 31 inci maddesi ile Kanun metninden çıkarılmış olduğu için, bu maddede yer alan sözkonusu ibarenin uygulanmasına imkan kalmamıştır.
+[3] Bu madde başlığı “Özel sağlık kurumlarında tedavi:”iken, 7/8/2006 tarihli ve 2006/10876 sayılı Bakanlar Kurulu Kararı eki Yönetmeliğin 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[4] “Örnek-4” no’lu form, 14/5/2001 tarihli ve 2001/2473 sayılı Bakanlar Kurulu Kararı ile metne işlendiği şekilde yeniden düzenlenmiştir.
+[5] “Örnek-5” no’lu form, 14/5/2001 tarihli ve 2001/2473 sayılı Bakanlar Kurulu Kararı ile metne işlendiği şekilde yeniden düzenlenmiştir.
+[6] “Örnek-6” no’lu form, 14/5/2001 tarihli ve 2001/2473 sayılı Bakanlar Kurulu Kararı ile eklenmiş ve metne işlenmiştir.

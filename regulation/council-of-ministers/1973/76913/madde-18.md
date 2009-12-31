@@ -1,0 +1,2 @@
+Fizik tedaviyi öngören raporların düzenlenmesi:
+Madde 18 – Fizik tedaviye (Mekanik tedavi, her çeşit şifalı su ve çamur tedavileri ile benzeri diğer tedaviler) lüzum gösterilen sağlık kurulu raporlarında 16 ncı maddenin (B) bendinde belirtilen hususlarla birlikte hastalığın mahiyetine ve mevcut bulgulara göre hastanın hangi tip ve vasıftaki fizik tedaviye muhtaç bulunduğunun, bu tedavilerin yapılabileceği yerlerle kurumların hangileri olduğunun mucip sebepleriyle birlikte, açıkca yazılması zorunludur.

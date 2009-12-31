@@ -1,0 +1,4 @@
+Özel sağlık kurumlarında tedavi:
+Madde 23 – Tedavi özel sağlık kurumlarında sağlandığı takdirde, (sağlık kurumu tarafından kabul edilmek şartiyle) hastadan hiç bir ücret alınmaz, tedavi dolayısiyle yapılan bütün işlemler sonucu istenilmesi gereken ücretleri göstermek üzere fatura düzenlenerek ilgili kuruma gönderilir, bedeli en geç aynı mali yıl sonuna ka dar bu kurumca sağlık kurumuna ödenir. Bu yol sağlık kurumu tarafından kabul edilmediği takdirde, istenilen ücret hasta tarafından sağlık kurumuna ödenir. Alınacak fatura ilgili kuruma verilerek bedeli kurumdan alınır.
+İlacın sağlık kurumunca sağlanamaması, enjeksiyonun sağlık kurumunca yapılamaması hallerinde, bu Yönetmeliğin 19 uncu maddesine göre işlem yapılır.
+Sağlık memuru, hemşire veya ebe tarafından ilk sağlık yardımı ve bakımının yapılması hali:

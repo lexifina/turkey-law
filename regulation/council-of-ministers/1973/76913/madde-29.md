@@ -1,0 +1,4 @@
+Yurt dışında
+Tedavi ile ilgili gider belgeleri:
+Madde 29 – Yurt dışında tedavi, sigorta sistemine dayanılarak sağlandığı takdirde, kurumca sadece sigorta pirimi ödenmesi gerektiğinden, tedavi dolayisiyle yapılan gider belgelerinin tespit ve teminine mahal bulunmamaktadır.
+Sigorta sisteminin uygulanmadığı memleketlerde sağlanan tedavi dolayısiyle yapılan giderlerin ödenebilmesi için ne şekilde hareket edilmesi gerektiği, ne gibi belgelere lüzum görüldüğü, bu belgelerin nerelerden ne şekilde sağlanması lazım geldiği hususu, yabancı memleketlerden her birinde, o ülkeye şamil olmak ve mahalli usul gözönünde bulundurulmak suretiyle, o memleketteki büyükelçilik veya elçilik tarafından tespit edilir. Tespit edilen esaslar, ilgili büyükelçilik veya elçilik tarafından Dışişleri Bakanlığına bu Bakanlıkca'da Maliye Bakanlığına bildirilir. Uygulamada beraberlik Dışişleri ve Maliye Bakanlıklarınca sağlanır.

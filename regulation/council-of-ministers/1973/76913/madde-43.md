@@ -1,0 +1,2 @@
+Sağlık karnesinin yenilenmesi:
+Madde 43 – Zamanla dolan veya kaybedilen sağlık karnelerinin yerine, ilgili makama yapılacak yazılı müracaatı müteakip yenileri verilir. Bu durumda eski sağlık karnesinde veya sağlık dosyasında bulunan, şahsın sağlık durumu ile ilgili olarak bilinmesi zorunlu görülen hususlar ve verilmiş sıhhi cihazlara ait kayıtlar yeni karneye işlenir. Sağlık karnesinin kaçıncı defa ve nesebeple verilmiş olduğu karnenin üzerine işaret edilir.

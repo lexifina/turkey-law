@@ -1,0 +1,2 @@
+Ek Madde 1 – (Değişik: 19/1/1983 - 83/6022 K.)
+Bu Yönetmelikte öngörülen yurtiçi ve yurtdışı tüm tedavi ücretlerini ve işitme cihazı, tekerlekli sandalye, gözlük, suni aza, organ protezi, diş tedavisi ve protez gibi cihaz ücretlerini kapsayacak şekilde gerekli sınırlamaların konması, günün şartlarına göre her iki yılda bir ve dengeli bir şekilde birim fiyatlarının saptanması, Maliye, Milli savunma, Dışişleri ve Sağlık ve Sosyal Yardım Bakanlıklarınca müştereken yapılır.
