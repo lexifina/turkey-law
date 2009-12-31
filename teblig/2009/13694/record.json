@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.13694",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU PERSONELİNİN SAĞLIK HİZMETLERİNİN SOSYAL GÜVENLİK KURUMUNA DEVRİNE İLİŞKİN TEBLİĞ",
+  "number": "13694",
+  "path": "teblig/2009/13694",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13694&MevzuatTertip=5",
+  "source_sha256": "3a4992b68a7de15b45e851296f5e29485fd46bf9f56b4c3795b78bb4a289fcd5",
+  "source_bytes": 33189,
+  "published": "2009-12-31",
+  "gazette": "27449 5. Mükerrer",
+  "in_force": "2009-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2286,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
