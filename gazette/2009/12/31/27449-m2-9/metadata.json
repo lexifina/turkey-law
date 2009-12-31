@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-12-31",
+  "issue": "27449",
+  "edition": "mükerrer 2",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalinde Garanti Belgesi Aranacak Maddelere İlişkin Tebliğ (İthalat: 2010/6)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091231M2-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091231M2.htm",
+  "index_sha256": "62dbb6007d45ab6bede4e2b42e98d0c68c2589c2fcd0445e3d09ce0a7353d783",
+  "index_header": "31 Aralık 2009 ... 27449 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
