@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5943",
+  "year": 2009,
+  "title": "28 Ağustos 1952 Tarihinde Pariste İmzalanan Kuzey Atlantik Andlaşmasına Uygun Olarak Yapılan Uluslararası Askeri Karargahların Statüsüne İlişkin Protokol Uyarınca Uluslararası Statüsü Belirlenen Türkiyedeki Tüm Müttefik Karargahlar ve Onların Atanmış Personeline Uygulanacak Belirli Ayrıcalıklara İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2009-12-31",
+  "gazette_issue": "27449",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091231-2.htm",
+  "source_sha256": "faa80e5cf8749361c3925affe52d7fc2b57c01fb2bbe4a21ddc3a6dfa9f2d0f5",
+  "text_sha256": "0bfbee140e5a598f533fef9614eefc1fe048b716f0169658f8e2809644f70139",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2009/12/31/27449-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091231-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
