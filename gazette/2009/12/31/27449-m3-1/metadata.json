@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-12-31",
+  "issue": "27449",
+  "edition": "mükerrer 3",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2009/15717 İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelinin Yürürlüğe Konulması ve 25/12/2008 Tarihli ve 2008/14483 Sayılı Kararnamenin Yürürlükten Kaldırılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091231M3-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091231M3.htm",
+  "index_sha256": "d0d69360e4315b3de32c2a5eab6d52cba9da3dc3953100474aec39563b284f31",
+  "index_header": "31 Aralık 2009 ... 27449 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "679603e188a4f6a9474e0ab103f6848a5d61fb9119494e97e2ec88e28db6d4da",
+  "text_status": "text.txt as published"
+}
