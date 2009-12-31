@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.13695",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAN HİZMET BİRİMLERİNDE GÖREV YAPACAK SAĞLIK PERSONELİNİN EĞİTİMİ VE SERTİFİKALANDIRILMASINA DAİR TEBLİĞ",
+  "number": "13695",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2009/13695",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13695&MevzuatTertip=5",
+  "source_sha256": "200d984db0245b8e6f003b901b3545305b8e69020946f0c9680fe775e2b897b3",
+  "source_bytes": 30123,
+  "published": "2009-12-31",
+  "gazette": "27449 5. Mükerrer",
+  "in_force": "2009-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1460,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13695-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

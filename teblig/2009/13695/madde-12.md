@@ -1,0 +1,4 @@
+Sertifika yenileme
+MADDE 12 – (1) Sertifika sahibi kişiler her (5) yılda bir Bakanlıkça düzenlenecek sertifika yenileme yazılı sınavına girerler. Bakanlıkça, bu sınava gireceklerin listesi, sınav yeri ve zamanı sınav tarihinden üç ay önce ilan edilir. Hukuken kabul edilebilir mazeret halleri dışında sertifika yenileme sınavına peşpeşe iki kez katılmayanların sertifikaları geçersiz olur.
+(2) Sertifika yenileme sınavı yılda iki kez yapılır. Yenileme sınavlarında başarılı sayılabilmesi için katılımcıların sınavda 100 üzerinden en az 70 puan alması gerekir. Sınavda başarılı olan kişilerin sertifikaları yenilenir. Sınavda başarılı olamayanlar tekrar sınava alınırlar. Bu sınavda da başarılı olamayan kişilerin sertifikaları iptal edilir.
+(3) Birinci ve ikinci fıkra kapsamında sertifikası iptal edilenler, yeniden sertifika almak isterlerse ilk başvuruda izlenen yolu takip ederler.

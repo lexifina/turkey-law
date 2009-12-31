@@ -1,0 +1,4 @@
+Mevcut görev yapan personelin eğitimi ve sertifikalandırılması
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin yürürlüğe girdiği tarihten önce kan hizmet birimlerinde en az üç yıl fiilen çalışmış olduğunu belgeleyen uzman hekimlere, bu Tebliğin yayımı tarihinden itibaren iki ay içerisinde Bakanlığa başvurmaları halinde doğrudan “kan bankacılığı ve transfüzyon tıbbı sertifikası” verilir.
+(2) Bu Tebliğin yürürlüğe girdiği tarihte kan hizmet birimlerinde çalışmakta olan ve fakat sertifikası bulunmayan hekim ve hekim dışı sağlık personeli, kişisel başvuru şartı aranmaksızın kurum amirlerinin talebi ile bulunduğu ilin il sağlık müdürlüğü vasıtasıyla eğitim programına alınırlar.
+(3) Bu Tebliğin yürürlüğe girdiği tarihten önce kan bankacılığı ve transfüzyon tıbbı eğitiminde en az bir yıl eğitici olarak görev alan kişilere “kan bankacılığı ve transfüzyon tıbbı eğitici sertifikası” verilir.

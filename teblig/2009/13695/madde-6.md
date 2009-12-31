@@ -1,0 +1,2 @@
+Eğitim merkezlerinin denetimi
+MADDE 6 – (1) Eğitim merkezleri, Komisyonun önereceği ve Bakanlıkça uygun görülen personel tarafından, fizikî yapı, insan gücü ve teknik donanımın yeterliliği bakımından yılda en az bir defa denetlenir. Yapılan denetimlerin sonuçları, bir rapor halinde Bakanlığa sunulur. Tespit edilen eksiklikler varsa giderilmesi hususu Bakanlık tarafından denetlenen eğitim merkezinin bağlı olduğu kuruma yazılı olarak bildirilir. Eksikliklerin üç ay içerisinde giderilmemesi halinde ilgili eğitim merkezinin bu yetkisi Bakanlıkça kaldırılır.

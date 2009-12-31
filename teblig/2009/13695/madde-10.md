@@ -1,0 +1,2 @@
+Eğitim programına devam zorunluluğu
+MADDE 10 – (1) Eğitim programına kesintisiz devam edilmesi esastır. Sadece, mazeret veya hastalık izni sebebiyle eksik kalan süreler eğitim süresine eklenir. Hukuken kabul edilebilir bir mazereti dışında kursun başlamasını takip eden 72 saat içinde kursa başlamayan personelin kursiyerliği iptal edilir ve yerine bekleyen adaylar arasından yeni kursiyer belirlenir. Mazereti olmadığı halde kursa başlamayan personel, bir yıl süre ile kursiyerliğe tekrar başvuramaz.
