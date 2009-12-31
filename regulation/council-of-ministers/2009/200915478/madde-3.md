@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) ASTM yöntemi: Enerji Piyasası Düzenleme Kurumu tarafından ilgili mevzuatı uyarınca belirlenen tanımı,
+b) Denizcilik yakıtları: Enerji Piyasası Düzenleme Kurumu tarafından ilgili mevzuatı uyarınca belirlenen tanımı,
+c) Düzenli sefer: Yayımlanmış bir tarifeye göre veya belirlenmiş bir program dahilinde düzenli veya sık aralıklı olarak, aynı iki veya daha fazla liman arasında karşılıklı olarak yapılan bir dizi yolcu gemisi deniz trafiğini veya molasız olarak aynı limandan aynı limana yapılan bir dizi deniz seferini,
+ç) Emisyon azaltım teknolojisi: Egzoz gazı temizleme sistemini veya doğruluğu kanıtlanabilen ve uygulanabilen diğer teknolojik yöntemleri,
+d) Fuel oil: Enerji Piyasası Düzenleme Kurumu tarafından ilgili mevzuatı uyarınca belirlenen tanımı,
+e) İç su aracı: İç sularda yük ve yolcu taşımak için kullanılan her türlü tekne ile balıkçı tekneleri,
+f) İç su: Tabii ve suni göller, baraj gölleri, dalyan ve nehirleri,
+g) MARPOL: 1978 tarihli Protokol ile değişik 1973 tarihli Denizlerin Gemiler Tarafından Kirletilmesinin Önlenmesine Dair Uluslararası Sözleşmeyi,
+ğ) MARPOL Ek-VI: 1997 tarihli Protokolle MARPOL Sözleşmesine eklenen “Gemilerden Kaynaklanan Hava Kirliliğinin Önlenmesine Dair Kurallar”a ilişkin bölümü,
+h) Mevcut tesis: Bu Yönetmeliğin yayımlanmasından önce kurulmuş veya Çevresel Etki Değerlendirmesi mevzuatına göre kurulması uygun bulunan tesisleri,
+ı) Orta damıtık ürün: Enerji Piyasası Düzenleme Kurumu tarafından ilgili mevzuatı uyarınca belirlenen tanımı,
+i) Rıhtımdaki gemiler: Herhangi bir liman sınırları içerisinde yükleme, boşaltma veya konaklama faaliyetlerinin yapıldığı sürelerde veya yük operasyonları yapılmaksızın geçen zamanlarda güvenli bir şekilde bağlı veya demirli olan gemileri,
+j) Savaş gemisi: Silahlı kuvvetlere ait, geminin milliyeti konusunda ayırt edici dış işaretlere sahip, adı uygun bir hizmet listesi veya eşiti bir belgede kayıtlı, ülkenin hükümeti tarafından atanmış yetkili askeri personelce idare edilen ve düzenli ordu disiplini altında gemi adamı ile donatılmış gemileri,
+k) SOx emisyon kontrol alanları: Uluslararası Denizcilik Örgütü (IMO) tarafından “MARPOL Sözleşmesi Ek-VI”da tanımlanan deniz alanlarını,
+l) Yakma tesisi: Isı üretimi için kullanılan yakıtın oksijenle yükseltgenme reaksiyonuna girdiği cihazı (sistemi),
+m) Yeni tesis: Bu Yönetmeliğin yayımlanmasından sonra kurulacak olan tesisleri,
+n) Yolcu gemisi: Gemi kaptanı, gemi adamı, geminin işi gereği gemide bulunan veya çalışan diğer kişiler ile bir yaşından küçük çocuklar hariç onikiden fazla yolcu taşıyan gemileri,
+o) (Ek: 11/12/2009-2009/15667 K.) I. grup deniz motorini: Enerji Piyasası Düzenleme Kurumu tarafından ilgili mevzuatı uyarınca belirlenen tanımı,
+ifade eder.

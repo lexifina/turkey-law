@@ -1,0 +1,1 @@
+[1] Bu madde başlığı “ Orta damıtık üründeki azami kükürt miktarı” iken, 11/12/2009 tarihli ve 2009/15667 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
