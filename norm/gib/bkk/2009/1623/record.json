@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2009/15725",
+  "source_id": 1623,
+  "date": "2009-12-31",
+  "title": "MOTORLU TAŞITLAR VERGİSİ TUTARLARI, BAZI MALLARA UYGULANAN ÖZEL TÜKETİM VERGİSİ ORANLARI, MAKTU VE ASGARİ MAKTU VERGİ TUTARLARI İLE HARÇLAR VE DAMGA VERGİSİ NİSPET VE TUTARLARININ BELİRLENMESİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/bkk/1623",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "9fb4faaaa3d17a4de07fd3a0f565ef2949682545b6d968d6e366f12eb4594c6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
