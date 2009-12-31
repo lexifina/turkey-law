@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2009-12-31",
+  "issue": "27449",
+  "edition": "mükerrer 6",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Türk Gıda Kodeksi Gıda Maddelerinde Bulunmasına İzin Verilen Pestisitlerin Maksimum Kalıntı Limitleri Tebliği (No: 2009/62)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091231M6-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2009/12/20091231M6.htm",
+  "index_sha256": "b97f6e1d8dda57ba29c2627fbc8c10ea681e120e0c2f01cdd22d151ae2221e12",
+  "index_header": "31 Aralık 2009 ... 27449 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
