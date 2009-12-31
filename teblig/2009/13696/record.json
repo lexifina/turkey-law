@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.13696",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2009/8)",
+  "number": "13696",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2009/13696",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13696&MevzuatTertip=5",
+  "source_sha256": "ee0aba134ddea0522a16d5a23146e21eb0581c5229b1d64f202f99a25c147568",
+  "source_bytes": 11316,
+  "published": "2009-12-31",
+  "gazette": "27449 5. Mükerrer",
+  "in_force": "2009-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2009); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 355,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/12/20091231M5-16-1.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
