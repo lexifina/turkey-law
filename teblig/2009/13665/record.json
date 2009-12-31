@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.13665",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DEĞERLİ KAĞITLAR KANUNU GENEL TEBLİĞİ (SAYI: 2009-3)",
+  "number": "13665",
+  "path": "teblig/2009/13665",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13665&MevzuatTertip=5",
+  "source_sha256": "76cab6d8600093035d048f6cd98fea3e130363645a686ab1a07547fbc2c25ce1",
+  "source_bytes": 12672,
+  "published": "2009-12-31",
+  "gazette": "27449",
+  "in_force": "2009-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2009)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 246,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
