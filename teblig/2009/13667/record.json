@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.13667",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 53)",
+  "number": "13667",
+  "path": "teblig/2009/13667",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13667&MevzuatTertip=5",
+  "source_sha256": "aa1da3c49a0d4c9afd1a7798959434caf5c7ee87dfc33a51c55fdb4711aadea3",
+  "source_bytes": 53890,
+  "published": "2009-12-31",
+  "gazette": "27449",
+  "in_force": "2009-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2009)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 998,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
