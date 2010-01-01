@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.13658",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 76)",
+  "number": "13658",
+  "issuer": "Gümrük Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2009/13658",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13658&MevzuatTertip=5",
+  "source_sha256": "f78b8426125fea6e1d4002a143093af59b609e0cbda0338e5ee61f048e251050",
+  "source_bytes": 12228,
+  "published": "2009-12-29",
+  "gazette": "27447",
+  "in_force": "2010-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2010 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2010 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 238,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
