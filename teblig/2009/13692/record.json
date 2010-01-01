@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.13692",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2010 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ (YÜKSEKÖĞRETİM KURUMLARINA İLİŞKİN) (SIRA NO: 1)",
+  "number": "13692",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2009/13692",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13692&MevzuatTertip=5",
+  "source_sha256": "3a95dabdd512362f2c0d47f2cdeb5cf822ff4477d07a7fbbf6f04d4273c0fd27",
+  "source_bytes": 26061,
+  "published": "2009-12-31",
+  "gazette": "27449 5. Mükerrer",
+  "in_force": "2010-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ, 1/1/2010 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 1/1/2010 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1352,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

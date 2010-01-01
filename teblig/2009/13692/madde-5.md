@@ -1,0 +1,4 @@
+Harcama birimlerine ödenek gönderme
+MADDE 5 – (1) Yükseköğretim kurumları, birim detayında kullanılabilir bütçe ödeneklerini, Ödenek Gönderme Belgesi düzenlemek suretiyle ilgili harcama birimlerine göndereceklerdir.
+(2) Harcama birimlerine gönderilecek ödenekler, ödenek dağılımları ile uyumlu olacaktır. Harcama birimlerine Ödenek Gönderme Belgesi düzenlemek suretiyle gönderilen ödenekler, ödenek dağılımı ile belirlenen ödeneklerden daha fazla olamaz. Herhangi bir harcama birimine planlanan ödeneklerden daha fazla ödenek gönderilmesi ancak ödenek dağılımının değiştirilmesi suretiyle mümkün olabilecektir.
+(3) Strateji Geliştirme Birimlerinin Çalışma Usul ve Esasları Hakkında Yönetmelik’ in 16 ncı maddesine istinaden, üst yöneticinin onayı ile Strateji Geliştirme Daire Başkanlıkları tarafından da Ödenek Gönderme Belgesi düzenlenebilecektir.
