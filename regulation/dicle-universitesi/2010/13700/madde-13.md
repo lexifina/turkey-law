@@ -1,0 +1,9 @@
+Çalışma birimleri ve görevleri
+MADDE 13 – (1) Çalışma birimleri; bir başkan ve çalışma biriminin ilgi ve faaliyet alanıyla ilgili ihtiyaç duyulan sayıda uzmandan oluşur. Çalışma birimi başkanları, Üniversitenin ilgili alanında çalışmalarıyla tanınan veya bu alanda çalışmak isteyen öğretim elemanları ile konuyla ilgili uzmanlar arasından Müdür tarafından seçilir. Çalışma birimlerinin faaliyet alanlarıyla ilgili görevlendirilecek uzmanlar ise çalışma birimi başkanları tarafından belirlenir.
+(2) Çalışma birimlerinin görevleri şunlardır:
+a) Engellilik konusunda; Üniversitenin ilgili akademik birimlerinin eğitim-öğretim faaliyetlerine katılımını sağlamak, akademik ve idari birimler arasında işbirliği yaparak konuyla ilgili toplumsal bilinci geliştirmek için engelli ve engelli olmayan diğer bireylere eğitim hizmetleri vermek,
+b) Toplumun tüm kesimlerindeki engelli bireylere yönelik araştırmalar planlamak, yapmak ve engelliler ile ilgili bilimsel veri tabanı oluşturmak, disiplinler arası bir yaklaşım ile ulusal ve/veya uluslar arası araştırma/geliştirme projeleri oluşturmak ve yürütülmesini sağlamak,
+c) Üniversite bünyesinde öğrenci ya da çalışan engellilere danışmanlık hizmeti sunmak,
+ç) Engellilik konusunda ulusal ve uluslar arası katılımlı kongre, panel, sempozyum, konferans gibi bilimsel aktiviteler düzenlemek, aydınlatıcı, bilimsel nitelikte bilgilerin sözlü ve/veya yazılı olarak kamuoyuna ulaştırılmasını sağlamak,
+d) Engelliliğin önlenmesi ve sorunların azaltılması yönünde çalışmalar yapmak, engelli bireylerin etkin ve kaliteli rehabilitasyon hizmetlerinden faydalanmasını sağlamak ve engelli bireyler ile iletişimde bulunduğu diğer bireylerin yaşam kalitesini arttırıcı çalışmalar yapmak,
+e) Üniversite bünyesindeki öğrenci ya da çalışan engellilere, ihtiyaç duydukları konularda gerekli desteği vermek.
