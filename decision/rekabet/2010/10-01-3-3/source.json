@@ -1,0 +1,13 @@
+{
+  "number": "10-01/3-3",
+  "type": "Özelleştirme",
+  "decision_date": "2010-01-06",
+  "publication_date": "2010-03-08",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=76a4c6a0-6f8e-4a69-8727-b7e51a519e67",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=730",
+  "pdf_sha256": "e80ed587d75674d241b4ecf2434cdf4a070d48e8d5ad8e5f96d2cf4f4695395a",
+  "pdf_bytes": "265684",
+  "pages": "14",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
