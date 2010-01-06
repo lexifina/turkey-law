@@ -1,0 +1,2 @@
+Öğretim üyesi hareketliliği belgeleri
+MADDE 32 – (1) Faaliyete katılan öğretim üyeleri, faaliyet sonrası eğitim-öğretim programının süresini de belirtecek şekilde gidilen yükseköğretim kurumunca hazırlanan imzalı ve mühürlü Faaliyet Katılım Belgesi ile kendileri tarafından hazırlanan Öğretim Üyesi Hareketliliği Nihai Raporunu, faaliyetin tamamlanmasından sonra en geç 15 gün içinde kendi kurumlarının Farabi Değişim Programı Kurum Koordinasyon Ofisine teslim ederler.

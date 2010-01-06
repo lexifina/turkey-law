@@ -1,0 +1,4 @@
+BEŞİNCİ BÖLÜM
+Değişimin Organizasyonu
+Değişimin organizasyonu
+MADDE 33 – (1) Yükseköğretim kurumlarının Farabi Değişim Programı faaliyetlerine ilişkin iş ve işlemler, Farabi Değişim Programı Kurum Koordinasyon Ofisleri tarafından yürütülür. Yükseköğretim kurumları, üst yöneticisi veya yardımcılarına doğrudan bağlı bir Farabi Değişim Programı Kurum Koordinatörü görevlendirirler. Ofisin oluşturulması ve kurum koordinatörünün görevlendirilmesinde yükseköğretim kurumları, ofislerin ve personelin etkin kullanımı ile faaliyetlerde eşgüdüm ve bütünlüğün sağlanması amacıyla, Farabi Değişim Programı faaliyetlerini başka ulusal ya da uluslararası değişim programlarıyla birlikte yürütebilir. Kurum Koordinatörüne bağlı olarak birim koordinatörleri de belirlenebilir. Farabi Değişim Programı faaliyetlerinin yükseköğretim kurumu adına yürütülmesinden kurum koordinatörü sorumludur.

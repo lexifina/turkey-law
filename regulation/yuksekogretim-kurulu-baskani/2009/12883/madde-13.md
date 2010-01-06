@@ -1,0 +1,2 @@
+Akademik tanınırlık
+MADDE 13 – (1) Yükseköğretim kurumları, gidilen kurumda geçirilen eğitim-öğretim dönemi faaliyetlerine tam tanınırlık sağlar. Öğrenim hareketliliği başlamadan önce tanımlanmış derslerle ilgili program, tüm taraflarca Öğrenim Protokolü imzalanması suretiyle yazılı olarak teyit edilir. Yükseköğretim kurumları, tarafı olduğu protokolde belirtilen dersleri tanır ve derslerin tanınması konusunda gerekli tedbirleri alır.
