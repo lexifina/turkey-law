@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.62/6231-7-692/1795",
+  "source_id": 35080,
+  "date": "2010-01-08",
+  "title": "\"Fener-Ayvansaray Arası ve Sahil Kesimi Yenileme Alanları Yenileme Avan ve Yenileme Uygulama Projelerinin Hazırlanması ve Uygulanması İşi Sözleşmesi\"nin, 5366 sayılı Kanun kapsamında değerlendirilip değerlendirilemeyeceği dolayısıyla anılan Kanunun 3 üncü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35080",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "6135e07c9bfebd6b64d28f9f475d10e9ab3e73a841f035177fd8e3c320dbcb79",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
