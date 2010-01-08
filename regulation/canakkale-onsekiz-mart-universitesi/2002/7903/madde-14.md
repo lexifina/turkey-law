@@ -1,0 +1,1 @@
+Madde 14 —Yaz Okulunda açılacak derslere kesin kayıt yaptıracak öğrenciler, buna ilişkin mevzuatla belirlenen miktarı aşmamak üzere her yıl ilgili fakülte ve yüksekokul yönetim kurullarınca önerilen ve üniversite yönetim kurulunca belirlenen kredi saat başına katkı payı öder.

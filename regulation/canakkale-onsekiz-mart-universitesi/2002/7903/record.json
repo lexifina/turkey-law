@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 17 —Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2002-09-22",
+      "22.09.2002",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2004-03-08",
+      "RG-08/03/2004-25396",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2010-01-08",
+      "RG-8/1/2010-27456",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2007-04-11",
+      "RG-11/04/2007-26490",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-8/1/2010-27456",
+  "first_law": null,
+  "gazette": "24884",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2010-01-08",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Çanakkale Onsekiz Mart Üniversitesi",
+  "issuer_slug": "canakkale-onsekiz-mart-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/canakkale-onsekiz-mart-universitesi/2002/7903",
+  "published": "2002-09-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7903&MevzuatTertip=5",
+  "source_bytes": 21503,
+  "source_id": "8.5.7903",
+  "source_sha256": "597956bf3cc6d1adb87f22d317c6bb579209d0c96ac53055742f1728690e9072",
+  "text_status": "current-consolidated",
+  "title": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ YAZ OKULU YÖNETMELİĞİ",
+  "university_id": 186,
+  "word_count": 962
+}

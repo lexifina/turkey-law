@@ -1,0 +1,1 @@
+Madde 11 —Yaz Okulunda alınan notlar öğrenci işleri kayıtlarında ve not bildirim formlarında "Yaz Okulu" adı altında oluşturulan bölümde gösterilir. Yaz Okulunda alınan derslerin ders geçme notu, öğrencilerin mezuniyet derecesinin hesabına güz ve bahar yarıyılındaki dersler gibi dikkate alınır.

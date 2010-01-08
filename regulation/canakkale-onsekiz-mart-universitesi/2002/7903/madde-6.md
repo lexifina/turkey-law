@@ -1,0 +1,2 @@
+Madde 6 —Yaz Okulunda açılması öngörülen lisans dersleri, bu dersleri veren birimlerce, lisansüstü dersleri ise, ilgili enstitü ana bilim dalları tarafından belirlenir.
+Yaz Okulu programlarında açılması öngörülen dersler ve bu dersleri yürütecek öğretim elemanları, ilgili bölüm veya programın teklifi üzerine, fakülte veya yüksekokul yönetim kurullarınca yaz okulu başlangıcından en az otuz (30) gün önce belirlenir ve öğrencilere duyurulur.
