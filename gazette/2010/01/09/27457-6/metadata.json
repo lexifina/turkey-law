@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-01-09",
+  "issue": "27457",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "2010 Yılı Merkezi Yönetim Bütçe Uygulama Tebliği (Sıra No: 3)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/01/20100109-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/01/20100109.htm",
+  "index_sha256": "49cc8fbfad50c83a12a0829fd1be4c8484f6bbc0b5ed415db6bcfc1b1ffd328e",
+  "index_header": "9 Ocak 2010 ... 27457 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
