@@ -1,0 +1,3 @@
+AT tip onayının ve sınırlı AT tip onayının geçerlilik süresi
+MADDE 9 – (1) AT tip onayı on yıl geçerlidir ve onar yıllık sürelerle uzatılabilir. Onaylanmış tipe uygun olarak üretilen ölçü aletlerinin üretim adedi sınırlanamaz. Yeni şartların getirilmesi ve bu şartlara göre AT tip onayının verilmemesinin gerektiği durumlarda bu Yönetmelik ve ilgili yönetmeliklere göre verilen AT tip onaylarının süresi, yeni şartların geçerlilik tarihinden itibaren uzatılmaz. AT tip onayının süresinin uzatılmaması, kullanımda bulunan ölçü aletlerinin uygunluğunu etkilemez.
+(2) Sınırlı AT tip onayının geçerlilik süresi iki yıldır. Bu süre en çok üç yıla kadar uzatılabilir.

@@ -1,0 +1,2 @@
+Kullanımdaki ölçü aletlerinin kontrolü
+MADDE 21 – (1) İlgili yönetmelikler, AT işaretleri ve sembollerini taşıyan kullanımdaki ölçü aletlerinin kontrolünün nasıl yapılacağını ve bu aletler için maksimum izin verilebilir hata sınırlarını belirler. AT işaretleri ve sembollerini taşımayan ölçü aletleri için ilgili mevzuat daha geniş hata sınırları içeriyorsa, kontrollerde söz konusu mevzuat uygulanır.
