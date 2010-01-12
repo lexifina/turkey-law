@@ -1,0 +1,13 @@
+{
+  "number": "10-04/42-20",
+  "type": "Rekabet İhlali",
+  "decision_date": "2010-01-12",
+  "publication_date": "2010-03-10",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=4fdb3392-4d46-4b73-bc02-4a11adc23ba9",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=728",
+  "pdf_sha256": "91065cc3340e0d0d199a7f68659c497157f18d06e1277e57a7ef06a3124a6673",
+  "pdf_bytes": "274941",
+  "pages": "14",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
