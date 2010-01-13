@@ -1,0 +1,475 @@
+13 Ocak 2010 ÇARŞAMBA
+Resmî Gazete
+Sayı : 27461
+TEBLİĞ
+Bankacılık
+Düzenleme ve Denetleme Kurumundan:
+BAĞIMSIZ DENETİM KURULUŞLARINCA GERÇEKLEŞTİRİLECEK
+BANKA
+BİLGİ SİSTEMLERİ VE BANKACILIK SÜREÇLERİNİN
+DENETİMİNE
+İLİŞKİN RAPOR HAKKINDA TEBLİĞ
+BİRİNCİ BÖLÜM
+Genel Hükümler
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Bağımsız Denetim
+Kuruluşlarınca Gerçekleştirilecek Banka Bilgi Sistemleri ve Bankacılık
+Süreçlerinin Denetimi Hakkında Yönetmelik kapsamında hazırlanacak olan
+denetim raporunun içerik ve şekline ilişkin usul ve esasların
+düzenlenmesidir.
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, Bağımsız Denetim Kuruluşlarınca
+Gerçekleştirilecek Banka Bilgi Sistemleri ve Bankacılık Süreçlerinin
+Denetimi Hakkında Yönetmeliğin 40 ıncı maddesinin ikinci fıkrası uyarınca
+düzenlenmiştir.
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Tebliğde yer alan;
+a)
+Bankacılık süreçleri denetimi: Yönetmeliğin 25 inci maddesinde yer alan
+denetimi,
+b)
+Bilgi sistemleri denetimi: Yönetmeliğin 24 üncü maddesinde yer alan
+denetimi,
+c)
+BT: Bilgi Teknolojilerini,
+ç)
+COBIT: Bilgi Sistemleri Denetim ve Kontrol Birliği (ISACA) Bilgi Sistemleri
+Yönetişim Enstitüsü (ITGI) tarafından yayınlanmış olan Bilgi
+Teknolojilerine İlişkin Kontrol Hedefleri’nin (COBIT) denetim döneminin
+başlangıcı itibariyle güncel versiyonunu,
+d)
+Denetçi: Yönetmeliğin 4 üncü maddesinde tanımlanan denetçiyi,
+e)
+Denetlenen: Yönetmeliğin 4 üncü maddesinde tanımlanan denetleneni,
+f)
+Detaylı kontrol hedefi: COBIT’te kontrol hedeflerinin altında tanımlanan
+detay kontrol hedeflerini,
+g)
+Kayda değer kontrol eksikliği: Yönetmeliğin 6 ncı maddesinde tanımlanan
+kayda değer kontrol eksikliğini,
+ğ)
+Kontrol: Yönetmeliğin 4 üncü maddesinde tanımlanan kontrolü,
+h)
+Kontrol alanı: COBIT’in BT aktivitelerini 4 alana ayırarak genel bir süreç
+modeli olarak tanımladığı genel kontrol alanlarını,
+ı)
+Kontrol hedefi: Belirli bir BT aktivitesi içinde kontrol prosedürleri
+oluşturarak istenen bir sonucun veya bir amacın gerçekleştirilmesini
+sağlayan COBIT’teki kontrol hedeflerini,
+i)
+Kontrol zayıflığı: Yönetmeliğin 6 ncı maddesinde tanımlanan kontrol
+zayıflığını,
+j)
+Kurul: Bankacılık Düzenleme ve Denetleme Kurulunu,
+k)
+Kurum: Bankacılık Düzenleme ve Denetleme Kurumunu,
+l)
+Önemli kontrol eksikliği: Yönetmeliğin 6 ncı maddesinde tanımlanan önemli
+kontrol eksikliğini,
+m)
+Yönetmelik: Bağımsız Denetim Kuruluşlarınca Gerçekleştirilecek Banka Bilgi
+Sistemleri ve Bankacılık Süreçlerinin Denetimi Hakkında Yönetmeliği
+ifade
+eder.
+Rapor hazırlanırken uyulması gereken
+ilkeler
+MADDE 4 – (1) Denetçi, raporun tam, doğru, objektif,
+inandırıcı ve konunun müsaade ettiği ölçüde açık ve öz olmasına özen
+gösterir.
+(2)
+Denetçi, raporun tam olmasını raporda denetim amaçlarının tamamını karşılayan
+bilgilere yer vererek; raporlanmış hususları, bu hususların yeterli ve
+doğru bir şekilde anlaşılmasını sağlayacak biçimde sunarak ve raporun
+içeriğine ilişkin bu Tebliğde ifade edilen gereksinimleri sağlayarak temin
+eder.
+(3)
+Denetçi, raporun doğru olmasını; sunulan bulguların gerçekten var olmasıyla
+ve bu bulguların doğru bir şekilde sunulmasıyla temin eder. Raporun
+doğruluğu ve güvenilirliği, raporda sunulan bütün bulguların doğru bir
+şekilde okuyucuya aktarılmasıyla sağlanır. Raporda sadece denetçinin
+çalışma kağıtlarında konuyla alakalı yeterli delille desteklenen bilgi,
+bulgu ve yargılara yer verilir. Denetim açısından önemli görülen verilerden
+bazılarının denetlenmemesi veya denetlenememesi durumunda denetçi bunu
+raporunda açıkça belirtir, varsa verinin kısıtlamalarını rapora ekler ve bu
+konuya ilişkin raporda herhangi bir yargıda bulunmaz.
+(4)
+Denetçi, raporun objektif olmasını, raporun içeriğinde yer alan unsurları
+dengeli bir şekilde sunarak ve sunum yaklaşımında tarafsız bir duruş
+sergileyerek sağlar. Raporun inandırıcılığı açısından rapordaki delillerin
+tarafsız bir şekilde sunulması ve okuyucunun gerçeklerle ikna edilmesi
+gereklidir. Denetçi, raporun tarafsız olmasını ve yanıltıcı olmamasını
+sağlamakla yükümlüdür. Denetçi, raporunu karar vericilerin raporda yer alan
+bulgulara dayanarak hareket edebilecekleri bir yaklaşımla sunar. Denetçi
+raporunda savunmaya ya da suçlamaya yönelik bir dil kullanmamaya özen
+gösterir.
+(5)
+Denetçi, raporunun inandırıcı olmasını; denetim sonuçlarının denetim amaçlarını
+karşılaması, bulguların ikna edici bir şekilde sunulması ve raporda yer
+verdiği yargıların gerçekler tarafından iyi bir şekilde desteklenmesi ile
+sağlar. Denetçi, raporunda bulgularının geçerliliği ve yargılarının
+makullüğü hakkında yeterli ve ikna edici bilgilere yer verir.
+(6)
+Denetçi, raporunun açık olmasını, akıcı ve anlaşılır ifadeler kullanarak
+temin eder. Raporda herhangi bir şeyi saklamayan, açık, yalın ve mümkün
+olduğunca teknik olmayan bir dil kullanılır. Teknik terimlerin veya kısaltmaların
+kullanıldığı durumlarda, bu terimler ayrıca açıklanır ve kullanılan
+kısaltmalara ilişkin bilgilere raporda ayrı bir bölümde yer verilir.
+Raporda kısa ve etken fiilli cümleler kullanılmasına özen gösterilir.
+Denetçi raporda gerekli gördüğü yerlerde konunun daha iyi anlaşılmasını
+sağlamak amacıyla grafik, tablo ve resim gibi görsel araçlardan faydalanır.
+(7)
+Denetçi raporunda ifade etmek istediklerini mümkün olduğunca kısa ve öz bir
+şekilde ifade eder, vermek istediği mesajı gölgeleyebilecek gereksiz detaylardan
+ve tekrarlardan kaçınır.
+İKİNCİ BÖLÜM
+Genel Kavramlar
+Bulgular
+MADDE 5 – (1) Denetçi, yeterli ve uygun denetim kanıtlarıyla
+desteklenecek şekilde kayda değer kontrol eksikliklerini ve önemli kontrol
+eksikliklerini, sınıflandırarak ve Kurumca belirlenen esaslara göre
+kodlayarak raporunda yer verir.
+(2)
+Denetçi, bulguları ifade ederken, denetim amaçlarının gerektirdiği
+kadarıyla, bu bulguların kriter ve durumlarına ilişkin bilgilere yer verir.
+a)
+Kriter: Bulgunun ilişkili olduğu alanla/faaliyetle ilgili olarak bu
+faaliyetin/alanın olması gerektiği durumu veya bu faaliyetten/alandan ne
+beklendiğini,
+b)
+Durum: Bulgunun ilişkili olduğu alanın/faaliyetin mevcut uygulanma şekli
+veya durumu ile kriter ve bu durum arasındaki farkların temel sebeplerini
+ifade
+eder.
+(3)
+Kontrol zayıflığı olarak tanımlanan bulgular, denetçi tarafından
+denetlenenin yetkililerine yazılı olarak iletilir. Denetçi böyle bir
+yazının denetlenenin yetkililerine iletildiği ifadesine ve bilgi sistemleri
+denetiminde kontrol hedefleri, bankacılık süreçleri denetiminde ise
+süreçler bazında tespit ettiği kontrol zayıflıklarının sayısına raporunda
+yer verir.
+(4)
+Denetçi, geçmiş dönemlerde tespit edilmiş ve bir önceki dönem raporunda
+halen giderilmediği ifade edilmiş olan tüm bulguları değerlendirir, bu
+bulguların son durumlarına, devam edip etmediklerine ve denetlenen tarafından
+taahhüt edilen aksiyon planına uyumuna ilişkin açıklamalarına raporunda yer
+verir.
+(5)
+Denetçi, topladığı denetim kanıtlarına dayanarak sahtecilik, kanun dışı uygulamalar,
+sözleşme ihlali, suiistimal, çift kayıt sistemi veya mükerrer bilgi
+sistemleri gibi hallerden bir veya birkaçının bulunduğu kanaatine varırsa,
+bunları raporda bulgu olarak ifade eder.
+(6)
+Denetçi, raporunda yer verdiği tüm bulguları usul ve esasları Kurumca
+belirlenecek şekilde elektronik ortamda Kuruma iletir.
+Denetlenenin görüşleri
+MADDE 6 – (1) Denetçi bulgular, sonuçlar ve varsa planlanan
+düzeltme çalışmaları hakkında denetlenenin görüşlerini raporlar.
+(2)
+Denetçi, geçmiş dönemlerde tespit edilmiş ve bir önceki dönem raporunda
+halen giderilmediği ifade edilmiş bulgulara ilişkin denetlenenin
+görüşlerine ve denetlenenin bulgunun giderilmesine ilişkin yaptığı
+çalışmalara raporunda yer verir.
+(3)
+Denetlenenin görüş bildiremediği veya görüş bildirmeyi reddettiği
+durumlara, nedenleriyle birlikte raporunda yer verir.
+Bulgularla ilgili sonuç değerlendirmesi
+MADDE 7 – (1) Denetçi, raporda denetim amaçları, denetim
+bulguları ve varsa denetlenenin görüşlerini yorumlayarak kendi çıkarımları
+ve görüşleri doğrultusunda değerlendirmelere yer verir. Bu
+değerlendirmelerde denetimde ortaya çıkan bulgulara kendi gözlemlerini de
+katarak ve bulguların aynen tekrarından kaçınarak, bulguların nasıl
+anlaşılması gerektiği hakkında yorum yapar.
+(2)
+Denetçi, denetlenenin görüşlerine katılmadığı veya planlanan düzeltme
+çalışmalarının uygun olmadığını düşündüğü takdirde buna sonuç
+değerlendirmesinde ayrıca yer verir. Denetçi, denetlenenin görüşlerini
+haklı bulması halinde, raporda ilgili düzeltmeleri yapar.
+(3)
+Herhangi bir bulgunun düzeltildiğine dair bir beyanın rapor tarihinden önce
+denetlenen tarafından denetçiye ulaşması durumunda, tespit edilen her bir
+bulgu için birer defaya mahsus olmak koşuluyla, denetçi denetlenenin
+beyanını doğrulamak için bu bulgunun son durumunu tahlil eder, bulgunun
+ortadan kalktığı kanaatine ulaşırsa bulgunun düzeltildiğine dair yargısına
+raporun bulguya ilişkin sonuç değerlendirmesi bölümünde yer verir.
+(4)
+Denetçi, geçmiş dönemlerde tespit edilmiş ve bir önceki dönem raporunda halen
+giderilmediği ifade edilmiş olan bulgulara ait sonuç değerlendirmesi
+bölümünde bulguların çözümüne ilişkin denetlenen tarafından aksiyon planına
+uyumla birlikte, bulgunun devam durumunu;
+a)
+devam etmektedir,
+b)
+kısmen düzeltilmiştir veya
+c)
+düzeltilmiştir
+şeklinde
+raporunda ifade eder.
+ÜÇÜNCÜ BÖLÜM
+Rapor İçeriği
+İçerik
+MADDE 8 – (1) Denetçinin hazırlayacağı rapor aşağıdaki
+unsurları içerecek şekilde düzenlenir :
+a)
+Başlık,
+b)
+Raporun sunulduğu merci,
+c)
+Yönetmeliğin 34 üncü maddesi kapsamında oluşturulan denetim mektubu,
+ç)
+Yönetici özeti,
+d)
+İçindekiler,
+e)
+Denetim çalışmasına ilişkin bilgi,
+f)
+Denetlenenin bilgi sistemleri hakkında genel bilgi,
+g)
+Denetlenenin iç kontrol ve iç denetim yapısına ilişkin değerlendirme,
+ğ)
+Bankacılık süreçleri denetimi bölümü,
+h)
+Banka bilgi sistemleri denetimi bölümü,
+ı)
+Kısaltmalar,
+i)
+Sözlük.
+Yönetici özeti
+MADDE 9 – (1)Yönetici özeti aşağıda belirtilen şekilde
+hazırlanır:
+a)
+Denetçi, bu bölümde denetimin amaçlarını tanımlar ve bu denetim amaçlarına
+erişmek için uyguladığı denetimin kapsam ve metodolojisini özet olarak
+açıklar.
+1)
+Denetçi, neden bu görevi üstlendiğini ve bu raporun hazırlanış amacını
+içerecek şekilde, denetim amaçlarını açık ve net olarak ifade eder.
+2)
+Denetçi, denetim çalışmasının önemlilik kavramı çerçevesinde belirlenen
+kapsamını açık ve net bir şekilde ifade eder. Denetim kapsamı ifade
+edilirken, denetçiyi bu kapsamı seçmeye zorlayan herhangi bir sınırlama
+varsa, bu sınırlamalar da açık bir şekilde ifade edilir.
+b)
+Yapılan denetim çalışmasına ilişkin olarak genel bir değerlendirmeye yer
+verilir.
+c)
+Cari ve geçmiş dönemlerde tespit edilen bulguların özetlendiği bir tablo
+ek-1’de tanımlanan örneğe uygun olarak doldurulur.
+ç)
+Denetçinin tespit ettiği bulgular arasından öne çıkanlar ve bu bulguların
+taşıdıkları iş risklerine yer verilir.
+d)
+Bankacılık süreçleri ve yapıldıysa bilgi sistemleri denetimi sonucunda
+ortaya çıkan bulgular da dikkate alınarak, denetlenenin durumu hakkında
+genel bir değerlendirmeye yer verilir.
+e)
+Denetim dönemi içerisinde bilgi sistemleri denetimi yapılmışsa, kontrol
+alanlarının her biri için denetlenenin bir önceki yıla ait denetiminde
+tespit edilen olgunluk seviyeleri ile karşılaştırmalı olarak ek–2’de
+tanımlanan şekliyle olgunluk seviyesi grafiği hazırlanarak, bu bölüme
+eklenir.
+Denetim çalışmasına ilişkin bilgi
+MADDE 10 – (1) Denetçi, denetim amaçlarını gerçekleştirmek
+için yapılan denetim çalışmasına ilişkin olarak:
+a)
+Denetim çalışması yürütülürken dikkate alınan önemli varsayımlar,
+b)
+Denetimi gerçekleştirdiği banka birimleri veya şubeleri,
+c)
+Denetim kapsamındaki süreçlerle ilgili sorumlularının unvan ve erişim
+bilgileri ve
+d)
+Denetim ekibi ve denetimin başlama/bitiş tarihleri
+bilgilerine
+denetim çalışmasına ilişkin bilgi bölümünde yer verir.
+Denetlenenin bilgi sistemleri hakkında
+genel bilgi
+MADDE 11 – (1) Bilgi sistemlerinin değerlendirilmesi kısmı
+aşağıdaki hususları içerir:
+a)
+BT bölümü çalışan profili hakkında bilgi,
+b)
+BT bölümünün organizasyon yapısına dair bilgi,
+c)
+Ana bankacılık faaliyetlerinin yürütülmesinde kullanılan
+uygulamalar/sistemler/araçlar hakkında genel bilgi,
+ç)
+Denetlenenin bilgi sistemi mimarisi hakkında özet bilgi,
+d)
+Denetlenenin ağ altyapısının anlatılması ve ağ topolojisi,
+e)
+Ana bankacılık faaliyetleri ile ilgili yazılımların ve araçların bilgi
+sistemleri mimarisi üzerinde gösterimi,
+f)
+Bilgi sistemleri denetimi yapılmışsa, değişiklik yönetimi, güvenlik
+yönetimi vb. gibi kritik kontrol hedeflerini destekleyen araçlar hakkında
+özet bilgi.
+Denetlenenin iç kontrol ve iç denetim
+yapısına ilişkin değerlendirme
+MADDE 12 – (1) Denetçi, raporun bu bölümünde aşağıdaki
+hususlara yer verir:
+a)
+İç denetim biriminin, finansal raporlama sistemlerine ilişkin iç
+kontrollerinin denetimi kapsamında yapmış olduğu planlamaların,
+faaliyetlerin ve denetim sonuçlarının takibinin değerlendirilmesi,
+b)
+Yönetimin finansal raporlama sistemlerine ilişkin iç kontrollerin tesis
+edilmesi ve sağlıklı bir şekilde işletilmesine verdiği önem, söz konusu
+kontrollerin yeterliğini ve etkinliğini ölçmedeki performansının
+değerlendirilmesi,
+c)
+Yöneticilerin finansal raporlama sistemlerine ilişkin iç kontrollerle
+ilgili risk değerlendirme sürecinin değerlendirilmesi.
+(2)
+Denetçi, BT denetim ekibiyle ilgili olarak:
+a)
+Ekibin profilini,
+b)
+Faaliyetlerini,
+c)
+Yapmış oldukları denetim çalışmalarını,
+ç)
+Organizasyon içerisindeki yerlerini,
+raporunda
+belirtir.
+(3)
+Denetçi, bu bölümün sonunda bu bölüm kapsamında tespit ettiği her bir bulgu
+için Ek-3’teki tabloyu doldurur. Geçmiş dönemlerde tespit edilmiş ve bir
+önceki dönem raporunda halen giderilmediği ifade edilmiş olan bulgular da
+aynı tablo formatında sunulur.
+Bankacılık süreçleri denetimi
+MADDE 13 – (1) Denetçi, bankacılık süreçleri üzerindeki
+kontrollerinin etkinlik, yeterlilik ve uyumluluğuna ilişkin yaptığı denetim
+sırasında kullandığı önemlilik değerlendirmesini ve bu değerlendirme
+sonucunda hangi süreçleri seçtiğini, seçim nedenlerini ve seçmediği
+süreçleri neden seçmediğini açık ve net bir şekilde ifade eder.
+(2)
+Denetçi, bankacılık faaliyetlerine ilişkin süreçlere dair denetlenen
+tarafından kendisine sunulan iş akış diyagramlarını ve bu diyagramlarda yer
+verilen süreçler üzerindeki kontrollerine ilişkin kendi çalışmasını özetleyen
+tabloyu Ek-5’te belirtildiği şekliyle doldurarak, bunları bir CD içerisinde
+raporuna ekler.
+(3)
+Denetçi, denetim esnasında tespit ettiği her bir bulgu için Ek-3’teki
+tabloyu doldurur ve bulguların önem sıralamasına uygun olarak ilgili
+sürecin altında bu bulgulara yer verir. Geçmiş dönemlerde tespit edilmiş ve
+bir önceki dönem raporunda halen giderilmediği ifade edilmiş olan bulgular
+için de Ek-3’teki tabloyu doldurur.
+(4)
+Denetçi, süreç üzerindeki kontrollerin, kendilerinden beklenen işlevleri
+layıkıyla yerine getirme durumlarına ve sürecin bütününün etkinlik,
+yeterlilik ve uyumluluğuna ilişkin değerlendirmelerine sürece ilişkin
+bölümün sonunda yer verir.
+Uygulamalara ilişkin risk matrisinin
+hazırlanması
+MADDE 14 – (1) Denetçi, denetlenenin faaliyetlerinde
+kullandığı uygulamalara ait riskleri derecelendirmek ve bu uygulamalardan
+kaynaklanan net riski tespit etmek için bir risk matrisi oluşturur.
+Uygulamalardan kaynaklanan risklere ait bu matriste uygulamaların önemlilik
+derecesi, uygulamalarla bütünleşik riskler, bilgi sistemleri genel kontrollerinin
+ve bankacılık süreçleri üzerindeki kontrollerin etkinliği, yeterliliği,
+olgunluk seviyeleri ve denetlenenin uygulamalardan kaynaklanan net riski
+gibi hususlar değerlendirilir. Bu maddede açıklanan risk matrisinin
+hazırlanmasına ilişkin usul ve esaslar Kurulca belirlenir.
+Banka bilgi sistemleri denetimi
+MADDE 15 – (1) Denetçi, banka bilgi sistemleri denetiminde
+kullandığı önemlilik değerlendirmesini ve bu değerlendirme sonucunda hangi
+kontrol hedeflerini seçtiğini, seçim nedenlerini ve seçmediği süreçleri
+neden seçmediğini açık ve net bir şekilde ifade eder.
+(2
+Denetçi, COBIT’te yer alan kontrol alanlarının her biri için geçmiş
+dönemlerdeki seviye ile karşılaştırmasını da içerecek şekilde genel bir
+değerlendirmeye raporunda yer verir.
+(3
+Denetçi, denetim esnasında tespit ettiği her bir bilgi sistemleri bulgusu
+için Ek-4’teki tabloyu doldurur; bulguların ilgili oldukları kontrol
+hedefine ve önem sıralamasına uygun olarak ilgili kontrol alanları altında
+bu bulgulara yer verir. Geçmiş dönemlerde tespit edilmiş ve bir önceki
+dönem raporunda halen giderilmediği ifade edilmiş olan bulgular için de
+Ek-4’teki tabloyu doldurur.
+(4)
+Denetçi, kontrol alanlarının altında yer alan ve önemlilik kriterine göre
+seçtiği her bir kontrol hedefi için aşağıda yer alan unsurlara raporunda
+yer verir:
+a)
+Seçilen kontrol hedefinin ismi,
+b)
+Kontrol hedefinin sorumlusu,
+c)
+Kontrol hedefini sağlamaya yönelik oluşturulmuş süreç veya süreçlerin
+tümünün değerlendirilmesiyle elde edilen, kontrol hedefine ilişkin olgunluk
+seviyesi,
+ç)
+Denetçi tarafından belirlenen olgunluk seviyesinin, denetlenen tarafından
+nasıl ve hangi kriterle sağlandığı ve/veya hangi kriterlerin eksik olduğu.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Konsolide denetim raporu
+MADDE 16 – (1) Yönetmeliğin 2 nci maddesi ve 4 üncü maddesinin
+birinci fıkrasının (ğ) bendi uyarınca bağımsız denetim kuruluşlarınca
+gerçekleştirilen banka bilgi sistemleri ve bankacılık süreçlerinin denetimi
+kapsamına giren bankaların konsolidasyon kapsamındaki ortaklıklarına
+ilişkin konsolide denetim raporu aşağıdaki bölümleri içerir:
+a)
+Yönetmeliğin 34 üncü maddesi kapsamında oluşturulan denetim mektubu,
+b)
+Yönetici özeti,
+c)
+İçindekiler,
+ç)
+Banka iştirakleri ile ilgili Ek-6’da tanımlandığı şekliyle hazırlanan
+tablo,
+d)
+Denetim çalışmasına ilişkin bilgi ve
+e)
+Banka ve ortaklıkların konsolide mali tabloya etkileri açısından
+değerlendirilmeleri.
+(2)
+Yönetici özeti bölümünde, bu Tebliğin 9 uncu maddesinin birinci fıkrasının
+(a) ve (b) bentlerinde belirtilen bilgiler, banka ve ortaklıklarında
+konsolide mali tabloya etkileri bakımından öne çıkan bulgular ve bu
+bulguların konsolide mali tablo açısından değerlendirmeleri sunulur.
+Konsolide edilecek finansal bilgiyi üreten bilgi sistemi ve/veya süreç ile
+banka ve ortaklıklar arasında finansal bilgi akışı hakkında genel bir
+değerlendirme yapılır.
+(3)
+Banka ve ortaklıkların konsolide mali tabloya etkileri açısından
+değerlendirilmeleri bölümünde:
+a)
+Bankada tespit edilen bulgular, konsolide mali tablo açısından
+değerlendirilerek sınıflandırılır. Kayda değer kontrol eksikliği ve önemli
+kontrol eksikliği olarak sınıflandırılan bulgular Ek-3 ve Ek-4’te yer alan
+tablolardan uygun olanı ile doldurularak sunulur.
+b)
+Bilgi sistemleri denetimine dahil edilen her ortaklık için aşağıdaki
+bilgiler sunulur:
+1)
+Ortaklığın adı, ortaklık yapısı (iştirak, bağlı ortaklık ya da birlikte
+yönetilen ortaklık olma durumu), faaliyetleri ve konsolide denetime dahil
+edilme sebepleri hakkında bilgi,
+2)
+Ortaklıkta, bilgi sistemleri ve iş süreçleri denetimlerinden hangilerinin
+gerçekleştirildiği, hangi süreçlerin/kontrol hedeflerinin denetlendiği ve
+bu süreçlerin/kontrol hedeflerinin seçilmesinde kullanılan önemlilik
+değerlendirmesi sunularak denetim kapsamı,
+3)
+Gerçekleştirilen denetim sonucunda, konsolide finansal bilgilerinin
+tanımlanması, üretilmesi, kullanılması, doğruluk, bütünlük ve
+güvenilirliğinin sağlanması konularında, denetime tabi tutulan ortaklığın
+etkisine ilişkin genel bir değerlendirme,
+4)
+Konsolide mali tablo açısından değerlendirilerek kayda değer ve önemli
+kontrol eksikliği olarak sınıflandırılan ve Ek-3 ve Ek-4’te yer alan
+tablolardan uygun olanı doldurularak hazırlanan ortaklıklarda tespit edilen
+bulgular.
+Yürürlükten kaldırılan düzenlemeler
+MADDE 17 – (1) 5/12/2006 tarihli ve 26367 sayılı Resmi
+Gazete’de yayımlanan Bankalarda Bağımsız Denetim Kuruluşlarınca
+Gerçekleştirilecek Bilgi Sistemleri Denetimine İlişkin Rapor Formatı
+Hakkında Tebliğ yürürlükten kaldırılmıştır.
+Yürürlük
+MADDE 18 – (1) Bu Tebliğ 31/12/2009 tarihinden itibaren
+geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 19 – (1) Bu Tebliğ hükümlerini Bankacılık Düzenleme ve
+Denetleme Kurumu Başkanı yürütür.
+Ekleri için tıklayınız.
