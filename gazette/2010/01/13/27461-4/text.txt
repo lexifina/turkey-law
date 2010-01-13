@@ -1,0 +1,1509 @@
+13 Ocak 2010 ÇARŞAMBA
+Resmî Gazete
+Sayı : 27461
+YÖNETMELİK
+Bankacılık
+Düzenleme ve Denetleme Kurumundan:
+BAĞIMSIZ DENETİM KURULUŞLARINCA GERÇEKLEŞTİRİLECEK
+BANKA BİLGİ SİSTEMLERİ
+VE BANKACILIK SÜREÇLERİNİN DENETİMİ HAKKINDA
+YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı, bankaların bilgi
+sistemleri ile bankacılık süreçlerinin, yetkilendirilmiş bağımsız denetim
+kuruluşları tarafından denetlenmesi ile ilgili usul ve esasları
+düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bankalar ile bilgi sistemleri ve bankacılık
+süreçlerinin denetimine ilişkin rapor oluşturulması amacıyla sınırlı olmak
+üzere konsolidasyon kapsamındaki ortaklıkları, bankalara bilgi sistemleri
+hizmeti veren destek hizmeti kuruluşları, bilgi sistemleri ve bankacılık
+süreçlerinin denetimini yapmaya yetkili kuruluşlar, bağımsız denetim
+kuruluşları ve dış hizmet sağlayıcı kuruluşlar 1 inci maddede belirtilen
+amaçla sınırlı olarak bu Yönetmelik hükümlerine tabidir.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 19/10/2005 tarihli ve 5411
+sayılı Bankacılık Kanununun 15 inci maddesi ve 93 üncü maddesinin dördüncü
+fıkrası hükümlerine dayanılarak hazırlanmıştır.
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a)
+Bağımsız denetim: BDYFY’nin 5 inci maddesinin birinci fıkrasında yer alan
+tanımı,
+b)
+Bağımsız denetim kuruluşu: BDYFY’nin 18 inci maddesine göre bankalarda
+bağımsız denetim yapma yetkisi verilen kuruluşu,
+c)
+Banka: Kanunun 3 üncü maddesinde geçen banka tanımını,
+ç)
+Bankacılık süreçleri: Denetlenenin, Kanunun 4 üncü maddesi çerçevesinde
+yürüttüğü faaliyetlere ilişkin tesis edilen iş süreçlerini,
+d)
+BDYFY: 1/11/2006 tarihli ve 26333 sayılı Resmî Gazete’de yayımlanan
+Bankalarda Bağımsız Denetim Gerçekleştirecek Kuruluşların Yetkilendirilmesi
+ve Faaliyetleri Hakkında Yönetmeliği,
+e)
+BSD: Banka bilgi sistemleri ve bankacılık süreçleri denetimini,
+f)
+COBIT: Bilgi Sistemleri Denetim ve Kontrol Birliği (ISACA) Bilgi Sistemleri
+Yönetişim Enstitüsü (ITGI) tarafından yayınlanmış olan Bilgi
+Teknolojilerine İlişkin Kontrol Hedefleri’nin (COBIT) denetim döneminin
+başlangıcı itibariyle güncel versiyonunu,
+g)
+Denetçi: Bilgi sistemleri ve bankacılık süreçleri denetimini yapmak üzere
+yetkili kuruluş tarafından görevlendirilmiş ve unvanları bu Yönetmeliğin 18
+inci maddesinde sıralanan personelle bankacılık süreçleri denetimi faaliyetlerinde
+finansal denetçiyi,
+ğ)
+Denetlenen: Bankalar ile bu Yönetmelik kapsamında denetim raporu
+oluşturulması amacıyla sınırlı olmak üzere konsolidasyon kapsamındaki
+ortaklıklarını ve destek hizmeti kuruluşlarını,
+h)
+Finansal denetçi: BDYFY’nin 4 üncü maddesinde tanımlanan bağımsız
+denetçiyi,
+ı)
+Genel kontroller: Bilgi sistemlerinden beklenen fonksiyonların doğru bir
+şekilde yerine getirilmesi, istenmeyen olayların engellenmesi, belirlenmesi
+ve düzeltilmesi ile ilgili olarak yeterli derecede güvence oluşturulmasını
+ve bankacılık süreçleri üzerindeki kontrollerin işlevselliği için güvenilir
+bir ortamın sağlanmasını hedefleyen, banka bilgi sistemlerinin tamamına
+veya büyük bir bölümüne tatbik edilen kontroller ile bu kontrollerin tatbik
+edilmesini sağlayan politika ve prosedürleri,
+i)
+Kanun: 5411 sayılı Bankacılık Kanununu,
+j)
+Kontrol: İş hedeflerinin gerçekleştirilmesi, istenmeyen olayların engellenmesi,
+belirlenmesi ve düzeltilmesi ile ilgili olarak yeterli derecede güvenceyi
+oluşturma amacı güden politikalar, prosedürler, uygulamalar ve
+organizasyonel yapıların tamamını,
+k)
+Kontrol hedefi: Belirli bir bilgi sistemleri aktivitesi içinde kontrol
+prosedürleri oluşturarak istenen bir sonucun veya bir amacın
+gerçekleştirilmesini sağlayan COBIT’teki kontrol hedeflerini,
+l)
+Kurul: Bankacılık Düzenleme ve Denetleme Kurulunu,
+m)
+Kurum: Bankacılık Düzenleme ve Denetleme Kurumunu,
+n)
+Olgunluk modeli: COBIT’teki olgunluk modelini,
+o)
+Yetkili kuruluş: Bu Yönetmelik kapsamında denetim yapma yetkisi verilen
+bağımsız denetim kuruluşunu,
+ö)
+Yöneticiler: Kanunun 3 üncü maddesinde tanımlanan yöneticileri
+ifade
+eder.
+İKİNCİ BÖLÜM
+Bilgi Sistemleri ve Bankacılık Süreçleri Denetimine
+İlişkin Genel Kavramlar
+Önemlilik
+MADDE 5 – (1) Önemlilik mesleki tecrübeye dayalı bir mütalaa
+konusu olup; kontrol zayıflıkları sonucu ortaya çıkan ya da çıkabilecek
+hataların, ihmallerin, prosedürlere aykırılıkların ve hukuka aykırı
+fiillerin, bankaların finansal verilerini raporlamalarına, güvenli ve
+kesintisiz hizmet sağlamalarına olan ya da olabilecek etkisinin değerlendirilmesidir.
+(2)
+Bilgi sistemleri ve bankacılık süreçleri denetiminde önemlilik kavramı, denetimin
+planlanması, gerekli alanlarda yoğunlaştırılması, bulguların
+değerlendirilmesi ve raporlanması için kullanılabilir.
+(3)
+Başta finansal veriler olmak üzere denetlenen açısından hassasiyet arz eden
+verilerin bütünlüğü, tutarlılığı, güvenilirliği, gereken durumlarda
+gizliliği ve faaliyetlerin sürekliliği önemlilik kavramı kapsamında dikkate
+alınması gereken temel unsurlardır.
+(4)
+Finansal raporları etkileyen kontrollerin değerlendirilmesinde, süreç veya
+sistem tarafından yürütülen finansal işlemin değeri, işlem sıklığı gibi
+öğeler kullanılırken, finansal işlemlere ilişkin olmayan kontrollerin
+değerlendirilmesinde ise iş sürecinin kritikliği, sistem ve operasyonların
+maliyeti, hataların muhtemel sonuçlarının büyüklüğü, bir zaman aralığında
+gerçekleşen işlem/sorgu sayısı, tutulan dosyaların ve üretilen raporların
+niteliği, zamanlaması ve kapsamı, hizmet seviyesi anlaşmalarının gerekleri
+ve ceza maddelerindeki para cezası tutarları gibi öğeler kullanılır.
+Kontrol zayıflığı
+MADDE 6 – (1) Denetçi, incelemeleri neticesinde tespit
+ettiği bulgulara konu kontrol zayıflık ve eksikliklerini önemlilik
+kavramına göre tasnif etmede aşağıda belirtilen kriterleri kullanır:
+a)
+Kontrol zayıflığı: Bir kontrolün tasarımının veya işletilmesinin, hataları
+zamanında önleme ve tespit etmeye olanak sağlamaması durumudur.
+1)
+Tasarımdaki kontrol eksikliği, bir kontrol hedefinin gerçekleşmesini
+sağlayacak kontrolün bulunmaması ya da var olan bir kontrolün tasarlandığı
+şekilde çalışıyor olsa bile tasarımındaki hatalardan dolayı kendisinden
+beklenen kontrol hedefini gerçekleştirememesi durumudur.
+2)
+İşletimdeki kontrol eksikliği, düzgün tasarlanmış bir kontrolün
+tasarlandığı şekilde çalışmaması ya da kontrolü gerçekleştiren personelin,
+kontrolün etkin bir şekilde yerine getirilmesi için gerekli yetki ve
+yeterliliğe sahip olmaması durumudur.
+b)
+Kayda değer kontrol eksikliği: Denetlenenin finansal verilerinin
+bütünlüğünün, tutarlılığının, güvenilirliğinin ve gereken durumlarda
+gizliliğinin sağlanmasına, faaliyetlerinin devamlılığının teminine olumsuz
+etki yapması muhtemel bir kontrol zayıflığı veya birkaç kontrol
+zayıflığının bir araya gelmesi sonucu oluşan önemsiz sayılamayacak eksiklik
+olarak tanımlanır. Denetlenenin finansal verilerinin güvenilir bir şekilde
+genel kabul görmüş muhasebe standartlarına uygun olarak kaydedilmesi,
+kayıtların yetkilendirilmesi, işlenmesi veya raporlanması sırasında oluşan
+hataların ve ihmallerin önlenmesine olumsuz etki yapması muhtemel
+eksiklikler de bu kapsamda değerlendirilir.
+c)
+Önemli kontrol eksikliği: Denetlenenin dönemsel olarak yaptığı finansal
+raporlamalarında önemli bir yanlışlığın önlenmesini veya düzeltilmesini
+engelleyecek veya banka bünyesinde yürütülen süreçlerin ve bu süreçlere
+ilişkin bilgilerin bütünlüğünün ve tutarlılığının, güvenilirliğinin,
+devamlılığının ve gereken durumlarda gizliliğinin sağlanmasına önemli
+olumsuz etki yapması kuvvetle muhtemel, bir veya birkaç kontrol
+zayıflığının bir araya gelmesidir.
+Etkinlik, yeterlilik ve uyumluluk
+MADDE 7 – (1) Bir kontrolün tasarımının etkin olarak kabul
+edilebilmesi için, tasarımdaki kontrol eksikliğinin bu kontrol bünyesinde
+bulunmaması veya bulunsa dahi önemli kontrol eksikliğine sebebiyet
+vermemesi gerekir.
+(2)
+Bir kontrolün işletiminin etkin olarak kabul edilebilmesi için, işletimdeki
+kontrol eksikliğinin bu kontrol bünyesinde bulunmaması veya bulunsa dahi
+önemli kontrol eksikliğine sebebiyet vermemesi gerekir.
+(3)
+Bilgi sistemleri ile bankacılık süreçleri üzerindeki kontrollerin yeterli
+olması,
+a)
+Önemlilik ilkesi çerçevesinde denetime tabi tutulan tüm kontrollerin
+tasarımlarının etkin olduğunu,
+b)
+Bu kontrollerin; iş hedefleri çerçevesinde kendilerinden beklenen sonucu
+üretebilecek ve maruz kalınabilecek riskleri telafi edebilecek şekilde
+tasarlandıklarını
+ifade
+eder.
+(4)
+Bilgi sistemleri ile bankacılık süreçleri üzerindeki kontrollerin etkin
+olması,
+a)
+Önemlilik ilkesi çerçevesinde denetime tabi tutulan tüm kontrollerin
+işletimlerinin etkin olduğunu,
+b)
+Bu kontrollerin, kendilerinden beklenen işlevleri ve kontrol hedeflerini
+layıkıyla yerine getirdiklerini
+ifade
+eder.
+(5)
+Bir kontrolün uyumlu sayılabilmesi için kontrole ilişkin Kanun ve bu Kanuna
+istinaden yayımlanan alt düzenlemeler ve talimatlarda yer alan hususların
+ve yükümlülüklerin tamamının karşılanması gerekir. Bilgi sistemleri ve
+bankacılık süreçleri üzerindeki kontrollerin uyumlu olması; önemlilik
+ilkesi çerçevesinde denetime tâbi tutulan tüm kontrollerin uyumlu olduğunu
+ifade eder.
+Denetim riski
+MADDE 8 – (1) Denetim riski, denetçinin aşağıdaki risklere
+bağlı olarak doğru görüş vermemesi olasılığıdır:
+a)
+Yapısal risk: Kontrolün olmaması nedeniyle, en azından kayda değer olan bir
+kontrol eksikliğinin var olması riskini ifade eder.
+b)
+Kontrol riski: Kontrolün layıkıyla çalışmaması sebebiyle, en azından kayda
+değer olan bir kontrol eksikliğini önleyememesi, ortaya çıkaramaması veya
+zamanında düzeltememesi riskini ifade eder.
+c)
+Tespit riski: Denetçinin, denetlenenin iç kontrol sisteminde yer alan en
+azından kayda değer olan bir kontrol eksikliğini ortaya çıkaramaması
+riskini ifade eder.
+(2)
+Önemli veya kayda değer kontrol eksikliği riski: Denetlenenin iç kontrol
+sisteminde en azından kayda değer olan bir kontrol eksikliğinin bulunması
+riskini ifade eder. Önemli ya da kayda değer kontrol eksikliği riski,
+yapısal risk ve kontrol riskinden kaynaklanır.
+(3)
+Denetçi, denetim riskini makul düzeye indirebilmek için, önemli veya kayda
+değer kontrol eksikliği riskinin yüksek olduğu alanlarda tespit riskini
+düşürecek şekilde uygun denetim tekniklerini kullanır.
+ÜÇÜNCÜ BÖLÜM
+Yetkilendirme, İzin ve Meslek Mensupları
+Yetkilendirilecek kuruluşlarda aranan
+şartlar
+MADDE 9 – (1) Bu Yönetmelik kapsamında yetkilendirilecek
+kuruluşların;
+a)
+Bankalarda bağımsız denetim yapma yetkisini haiz olması,
+b)
+Bu Yönetmelik kapsamındaki faaliyetleri yürütecek yeterli sayı ve nitelikte
+denetçi istihdam etmesi
+şarttır.
+Yetki başvurusu sırasında gerekli olan
+bilgi ve belgeler
+MADDE 10 – (1) BSD faaliyetinde bulunmak isteyen bağımsız
+denetim kuruluşu tarafından Kuruma verilecek başvuru dilekçesine, denetçi
+yardımcısı dışındaki denetçilerin;
+a)
+Mesleki tecrübelerini, denetimle ilgili aldıkları eğitimleri, varsa
+katılmış olduğu denetim çalışmaları ve bu çalışmalarda almış olduğu
+görevleri de içeren ek-1’de yer alan örneğe uygun olarak düzenlenecek
+ayrıntılı özgeçmişleri, lisans ve/veya lisansüstü eğitimlerine ilişkin
+diplomalarının/mezuniyet belgelerinin aslı ya da Kurumca onaylı sureti,
+b)
+Varsa Bilgi Sistemleri Denetçisi Sertifikalarının (CISA) veya bu Yönetmelik
+kapsamına ilişkin diğer sertifikalarının aslı ya da Kurumca onaylı sureti,
+c)
+Bu Yönetmelik kapsamına ilişkin konularda aldığı veya verdiği eğitimlere
+ilişkin belgelerin kopyaları,
+ç)
+Sabıka kayıtlarının olmadığına dair yazılı beyanları,
+d)
+Yönetmelik kapsamında uygun görülmüş olan unvanları,
+e)
+Birden fazla bağımsız denetim kuruluşunda ortaklığının bulunmadığına dair
+ek-2’de yer alan örneğe uygun olarak düzenlenecek yazılı beyanları,
+f)
+Denetlenenlerde veya 28/7/1981 tarihli ve 2499 sayılı Sermaye Piyasası
+Kanununa tabi şirketlerde denetim yapma yetkisi iptal edilmiş olan bağımsız
+denetim kuruluşlarında ortak veya yetki iptaline neden olan denetim faaliyetinde
+bağımsız denetçi veya denetçi sıfatı ile yer almadığına dair ek-3’te yer
+alan örneğe uygun olarak düzenlenecek yazılı beyanları,
+g)
+Mesleki faaliyetler dışında çalışmadıklarına dair ek-4’te yer alan örneğe
+uygun olarak düzenlenecek yazılı beyanları,
+ğ)
+Bağımsız denetim kuruluşunda tam zamanlı görev yaptıklarına veya
+yapacaklarına dair ek-5’de yer alan örneğe uygun olarak düzenlenecek yazılı
+beyanları,
+h)
+Daha önce yapılan ya da yapılacak bir disiplin kovuşturması sonucunda
+bağımsız denetimin yapılmasına engel teşkil edecek bir ceza alınmadığının
+ilgili kurumdan talep edilecek belge ile tevsik edilmesi kaydıyla,
+haklarında diğer yetkili kurumlar tarafından bir disiplin kovuşturması
+yapılıp yapılmadığına, böyle bir kovuşturma başlatıldığında en geç yedi gün
+içinde Kurumun bilgilendirileceğine, kovuşturma sonucunda BSD’nin
+yapılmasına engel teşkil edecek bir ceza alınması halinde bulunulan
+görevden en geç on beş gün içerisinde istifa edileceğine ilişkin, ek-6’da
+yer alan örneğe uygun olarak düzenlenecek yazılı beyanları,
+ı)
+BSD faaliyeti sırasında bağımsızlıklarının ortadan kalkması durumunda
+bankaya verilen denetim hizmetinden çekileceğini taahhüt etmesine yönelik
+olarak ek-7’de yer alan örneğe uygun olarak düzenlenecek yazılı taahhüt
+belgesi
+eklenir.
+(2)
+Bağımsız denetim kuruluşunun vereceği hizmetlerden doğabilecek zararları
+karşılamak amacıyla mesleki sorumluluk sigortası yaptıracaklarına ilişkin
+beyanlarına da başvuru dilekçesinde yer verilir.
+Bilgi sistemleri ve bankacılık
+süreçleri denetimi yapma yetkisinin verilmesi
+MADDE 11 – (1) BSD yapma yetkisi almak üzere başvuruda
+bulunan bağımsız denetim kuruluşlarının ortak ve denetçilerinin bu
+Yönetmeliğin 10 uncu maddesinde belirtilen bilgi ve belgeler çerçevesinde
+değerlendirilerek mesleki ve teknik açıdan yeterliliklerinin tespitine
+yönelik olarak Kurum tarafından yerinde incelemede bulunulması neticesinde,
+faaliyet konularını yürütebilecek yeterliliğe sahip oldukları kanaatine
+varılması halinde, söz konusu yetkili kuruluşlara Kurul kararıyla bankalarda
+bu Yönetmelik kapsamında denetim yapma yetkisi verilir.
+(2)
+Yetki başvurularının değerlendirilmesi sürecinde, Kurum tarafından gerekli
+görülmesi halinde bağımsız denetim kuruluşunun yetkinliğinin ve
+yeterliliğinin ölçülebilmesi amacıyla ilave bilgi ve belgeler talep
+edilebilir. Talep edilen bilgi ve belgeler yetkinin verilmesine ilişkin
+değerlendirmelerde dikkate alınır.
+(3)
+Bağımsız denetim kuruluşlarının yetkilendirilmeleri sürecinde dikkate
+alınan hususlar, Kurum tarafından yeniden gözden geçirilebilir.
+(4)
+Bu Yönetmelik kapsamında denetim yapma yetkisinin alınmasını sağlayan
+unsurların sürekliliği esastır. Kurum gerekli gördüğü durumlarda bu
+unsurların varlığını kontrol edebilir.
+(5)
+Bu Yönetmelik kapsamında denetim yapma yetkisi verilen bağımsız denetim
+kuruluşlarının unvanları Kurum internet sitesinde duyurulur.
+Bilgi sistemleri ve bankacılık
+süreçleri denetimi yapma yetkisinin kaldırılması
+MADDE 12 – (1) Aşağıdaki hallerde yetkili kuruluşun bilgi
+sistemleri ve bankacılık süreçleri denetimi yapma yetkisi Kurul tarafından,
+sürekli olarak kaldırılır:
+a)
+BDYFY’nin 26 ncı maddesinin üçüncü fıkrasına uygun hareket edilmeksizin
+bilgi sistemleri ve bankacılık süreçleri denetim faaliyetinin
+gerçekleştirilmesi,
+b)
+Birden fazla olmak üzere Kanunun 36 ncı maddesi uyarınca ve BDYFY’nin 26
+ncı maddesinin onbirinci ve onikinci fıkralarında belirlenen usul ve
+esaslar çerçevesinde yaptırılması zorunlu olan mesleki sorumluluk
+sigortasının bilgi sistemleri ve bankacılık süreçleri denetimini de
+kapsayacak şekilde yaptırılmaması,
+c)
+Olumlu, şartlı ya da olumsuz görüş verilen bilgi sistemleri ile bankacılık
+süreç ve sistemlerinin, denetlenenin varlıklarının korunmasını,
+faaliyetlerin etkin ve verimli bir şekilde Kanuna ve ilgili diğer mevzuata,
+banka içi politika ve kurallara ve bankacılık teamüllerine uygun olarak
+yürütülmesini, muhasebe ve finansal raporlama sisteminin güvenilirliğini,
+bütünlüğünü ve bilgilerin zamanında elde edilebilirliğini sağlamasını
+önemlilik arz eden ölçüde etkileyecek hususların Kurumca tespit edilmesi
+halinde, yetkili kuruluşun bu hususta kusurlu olmadığını kanıtlayamaması,
+ç)
+İkinci fıkra kapsamında yetkinin bir defadan fazla geçici olarak
+kaldırılması,
+d)
+Bu Yönetmelik kapsamında devam eden denetim sözleşmesinin bulunmaması ya da
+yapılan denetimlerde, denetim sözleşmesinde yer alan unsurların
+gerçekleştirilmemesi veya eksik gerçekleştirilmesi,
+e)
+20 nci maddenin onbirinci fıkrasına aykırılık oluşması,
+f)
+Yetkili kuruluşun 9 uncu maddede belirtilen şartları kaybetmesi.
+(2)
+Aşağıdaki hallerin bir veya birkaçının tespit edilmesi halinde Kurul,
+yetkili kuruluşun bankalarda bilgi sistemleri ve bankacılık süreçleri
+denetimi yapma yetkisini iki yıldan fazla olmamak üzere geçici olarak
+kaldırmaya yetkilidir:
+a)
+Denetçiler tarafından kullanılan unvanların 18 inci maddede belirtilen
+hükümlere uygun olmaması,
+b)
+Denetçilerin, denetlenenler ile Kuruma önceden bilgi verilmeden
+değiştirilmesi,
+c)
+Bu Yönetmelikte belirtilen diğer usul ve esaslara uyulmaması nedeniyle
+Kurumca uyarı konusu yapılan hususların tekrar edilmesi ya da bir denetim
+dönemi içinde birden fazla yerine getirilmemesi,
+ç)
+Yeterli denetim kanıtı elde edilememesi,
+d)
+Kurumca istenilen bilgi ve belgelerin verilmemesi.
+(3)
+Yetkinin geçici veya sürekli olarak kaldırılmasından önce ilgili yetkili
+kuruluşun savunması alınır. Savunma istendiğine ilişkin yazının tebliğ
+tarihinden itibaren bir ay içinde savunma verilmemesi halinde savunma
+hakkından feragat edildiği kabul edilir.
+(4)
+Bu Yönetmelik kapsamında yetkili kuruluşun denetim yapma yetkisinin
+kaldırılması, bağımsız denetim yapma yetkisinin kaldırılması anlamına
+gelmez. Yetkili kuruluşun bağımsız denetim yapma yetkisinin kaldırılması
+halinde, bu Yönetmelik kapsamındaki denetim yapma yetkisi hiçbir işleme
+gerek kalmaksızın kaldırılmış sayılır.
+(5)
+Kurul, Kurumca yapılan uyarılara uyulmaması veya uyarı konusu yapılan
+hususların tekrar edilmesi durumunda sorumluluğu tespit edilen ya da 20 nci
+maddede belirtilen yükümlülüklere uymayan yetkili kuruluşun ortaklarının
+veya denetçilerinin bu Yönetmeliğin 18 inci maddesinde tanımlanan meslek
+mensubu unvanlarını kullanarak BSD faaliyetlerinde bulunmasını yasaklar.
+(6)
+Bu Yönetmelik kapsamında denetim yapma yetkisi kaldırılan bağımsız denetim
+kuruluşlarının unvanları Kurum internet sitesinde duyurulur.
+Banka bilgi sistemleri ve bankacılık
+süreçleri denetiminin dış hizmet alımı ile gerçekleştirilmesi
+MADDE 13 – (1) Bağımsız denetim kuruluşu BSD faaliyetini dış
+hizmet alımı yoluyla gerçekleştirebilir.
+(2)
+Bağımsız denetim kuruluşu, denetlenen nezdinde BSD faaliyetini dış hizmet
+sağlayıcı kuruluştan /kuruluşlardan alacağı hizmet ile gerçekleştirebilmek
+için bu Yönetmelik kapsamında izin almak zorundadır.
+(3)
+Bağımsız denetim kuruluşu, denetim faaliyetini dış hizmet alımı yoluyla
+gerçekleştirmesi durumunda da, ilgili faaliyetler ve bu Yönetmelik
+kapsamındaki yükümlülüklerden kendisi ve dış hizmet sağlayıcı
+kuruluş/kuruluşlar adına nihai anlamda sorumludur.
+(4)
+Aynı dış hizmet sağlayıcı kuruluş birden fazla bağımsız denetim kuruluşuna
+hizmet verebilir.
+(5)
+Bir bağımsız denetim kuruluşu bir seferde en fazla 3 dönem için dış hizmet
+alımı ile BSD yapma izni başvurusunda bulunabilir. İzin süresi dolduğunda
+ilgili bağımsız denetim kuruluşu dış hizmet alımı ile denetim yapma izni
+için tekrar başvuruda bulunabilir.
+Dış hizmet sağlayıcı kuruluşta aranan
+şartlar
+MADDE 14 – (1) Bağımsız denetim kuruluşunun BSD faaliyetini
+gerçekleştirmek üzere hizmet alacağı kuruluşların;
+a)
+Denetçisinin bu Yönetmelikte tanımlanan denetçi niteliklerini haiz olması,
+b)
+Denetim ekipleri içerisinde yeterli sayıda ve nitelikte denetçi istihdam
+etmesi,
+c)
+Denetlenen kuruluşa asgari son üç yıldır yönetim ve danışmanlık hizmeti
+vermemesi ve ticari ilişki içinde bulunmaması,
+ç)
+Denetçisinin, denetim ilkelerine bağlı olmak ve denetçi bağımsızlığı
+ilkesini zedelememek koşuluyla bilgi sistemleri ve bankacılık süreçleri
+denetiminde görev alması,
+d)
+Aynı denetlenende sürekli olarak 7 yıl ya da daha fazla süreyle bu
+Yönetmelik kapsamında denetim yapmamış olması
+şarttır.
+(2)
+Dış hizmet sağlayıcı kuruluşun bilgi sistemleri ve bankacılık süreçleri
+denetimini gerçekleştirebilmesi için bu Yönetmelik kapsamında, bağımsız
+denetim kuruluşu ile sözleşme yapmış olması gereklidir. Bu sözleşme ile bağımsız
+denetim kuruluşu, dış hizmet sağlayıcı kuruluşun denetim ilkelerine
+bağlılığını; bu Yönetmelik ve ilgili diğer düzenlemeler kapsamında
+denetçiler için düzenlenen tüm şartları taşımasını, denetim faaliyeti ve
+diğer hususlara ilişkin hükümlere uymasını sağlamak zorundadır.
+İzin başvurusu sırasında gerekli olan
+bilgi ve belgeler
+MADDE 15 – (1) BSD faaliyetinde dış hizmet alımında bulunmak
+isteyen bağımsız denetim kuruluşu Kuruma vereceği başvuru dilekçesinde,
+nezdinde denetim faaliyeti gerçekleştireceği denetlenenleri ve denetim
+dönemini açıkça ifade eder.
+(2)
+Kuruma sunulacak başvuru dilekçesine;
+a)
+Bağımsız denetim bağı bulunan bankalardan alınmış ve söz konusu dış hizmeti
+verecek kuruluşun bankada bilgi sistemleri ve bankacılık süreçleri denetimi
+yapmasında sakınca bulunmadığına ilişkin mutabakat beyanı,
+b)
+Bağımsız denetim kuruluşu ve dış hizmet sağlayıcı kuruluş ile ortakları ve
+denetçilerine ilişkin 10 uncu maddenin birinci ve ikinci fıkrası kapsamında
+yer verilmesi gereken belgeler,
+c)
+Bağımsız denetim kuruluşuyla dış hizmet sağlayıcı kuruluş arasında yapılmış
+olan, tarafların sorumluluklarının, denetim planının açıkça belirtildiği,
+dış hizmet sağlayıcı kuruluşun denetim raporunu imzalamakla yetkilendirdiği
+kişi, denetim ilkeleri, denetim/denetçi bağımsızlığı, gizlilik ve çıkar
+çatışması, denetim ekipleri ve saatlik denetim ücreti ile toplam hizmet
+bedeli gibi hususların açıklığa kavuşturulmuş olduğu sözleşme,
+ç)
+Dış hizmet sağlayıcı kuruluşun merkezinin varsa şube ve/veya şubelerinin
+adresleri,
+d)
+Dış hizmet sağlayıcı kuruluşun başvuru tarihindeki bilânçosu,
+e)
+Dış hizmet sağlayıcı kuruluşun yurtdışı bir şirket ile dış hizmet alımına
+konu alana ilişkin hukuki bağlantısı olması durumunda, ilgili şirket ile
+yapılan sözleşmelerin şirket yetkililerince tasdik edilmiş kopyası,
+f)
+Dış hizmet sağlayıcı kuruluşun, denetlenen kuruluşa veya iştirakine asgari
+son üç yıldır yönetim ve danışmanlık hizmeti vermediğine ve ticari ilişki
+içinde bulunmadığına dair ek-8’de yer alan örneğe uygun olarak düzenlenecek
+yazılı beyanları,
+g)
+Dış hizmet sağlayıcı kuruluşun denetçilerinin, denetim ilkelerine bağlı
+olmak, gizlilik ve denetçi bağımsızlığı ilkesini zedelememek koşuluyla
+bilgi sistemleri ve bankacılık süreçleri denetiminde görev alacaklarına
+dair ek-9’da yer alan örneğe uygun olarak düzenlenecek yazılı beyanları
+eklenir.
+Dış hizmet alımı ile bilgi sistemleri
+ve bankacılık süreçleri denetimi yapma izninin verilmesi
+MADDE 16 – (1) Dış hizmet alımı ile BSD yapma iznini almak
+üzere başvuruda bulunan bağımsız denetim kuruluşları ile dış hizmet
+sağlayan kuruluşların ve bu kuruluşların ortak ve denetçilerinin bu
+Yönetmeliğin 10 uncu maddesinde belirtilen bilgi ve belgeler çerçevesinde
+değerlendirilerek, mesleki ve teknik açıdan yeterliliklerinin tespitine
+yönelik olarak Kurum tarafından yerinde incelemede bulunulması neticesinde,
+faaliyet konularını yürütebilecek yeterliliğe sahip oldukları kanaatine
+varılması halinde, Kurul kararıyla, uygun görülen dönemler için ve uygun
+görülen denetlenenler nezdinde BSD yapma izni verilir.
+(2)
+Bağımsız denetim kuruluşunun dış hizmet alacağı kuruluşun bu Yönetmelik
+kapsamında yetkili bir kuruluş olması durumunda dış hizmet alımı ile BSD
+yapma iznine ilişkin Kurul kararı aranmaz, Kurum değerlendirmeleri esas
+alınır.
+(3)
+Dış hizmet sağlayıcı kuruluşun, yetkili kuruluş olması durumunda Kurumca
+yapılacak değerlendirmelerde, kuruluşun söz konusu hizmetler ile hali
+hazırda bu Yönetmelik kapsamında yürüttüğü denetim faaliyetlerine yönelik
+kaynak yeterliliği dikkate alınır.
+(4)
+Dış hizmet alımı ile denetim yapma izni alan bağımsız denetim kuruluşu ve
+BSD çerçevesinde sunduğu hizmetle sınırlı olmak üzere ilgili dış hizmet
+sağlayıcı kuruluş bu Yönetmelik kapsamında, aksi belirtilmedikçe, yetkili
+kuruluşlarla ilgili bütün hükümlere tâbidir.
+Dış hizmet alımı ile bilgi sistemleri
+ve bankacılık süreçleri denetimi yapma izninin iptali
+MADDE 17 – (1) Bu Yönetmelik hükümlerine aykırı hareket
+ettikleri tespit edilen izinli kuruluşlar ve dış hizmet aldıkları
+kuruluşlarda 12 nci maddenin birinci
+ve ikinci fıkrasında yer verilen hususların bir veya birkaçının varlığının
+tespiti halinde, aykırılıkların mahiyetine bağlı olarak, Kurum tarafından
+yapılan değerlendirme üzerine Kurul, bağımsız denetim kuruluşunun dış
+hizmet alımı ile bilgi sistemleri ve bankacılık süreçleri denetimi yapma
+iznini geçici veya sürekli olarak kaldırır.
+(2)
+Bağımsız denetim kuruluşu ve dış hizmet sağlayıcı kuruluş arasındaki
+sözleşmenin feshedilmesi halinde BSD yapma izni Kurul tarafından kaldırılır.
+Meslek mensubu unvanları
+MADDE 18 – (1) Denetçiler kıdem sırasına göre sorumlu bilgi
+sistemleri bağımsız başdenetçisi, bilgi sistemleri bağımsız başdenetçisi,
+kıdemli bilgi sistemleri bağımsız denetçisi, bilgi sistemleri bağımsız
+denetçisi ve bilgi sistemleri bağımsız denetçi yardımcısı unvanlarını
+alırlar.
+(2)
+Bilgi sistemleri denetimi, profesyonel bilgi sistemleri kontrolü veya
+güvenliği, bankacılık faaliyetlerine ilişkin alanlarla sınırlı olmak üzere
+yazılım geliştirme konularından herhangi birinde ya da birkaçında fiilen
+geçirilen sürelerin toplamı bu Yönetmelik kapsamında mesleki tecrübe olarak
+kabul edilir.
+(3)
+Bilgi Sistemleri Denetçisi Sertifikası (CISA) sahibi olan finansal
+denetçilerin mesleklerindeki tecrübeleri mesleki tecrübe olarak kabul
+edilir.
+(4)
+Tecrübe şartlarının değerlendirilmesinde, bu maddenin üçüncü fıkrası da
+dâhil olmak üzere bilgi sistemleri denetimi haricindeki tecrübelerin en
+fazla 5 yıllık bölümü geçerli sayılır. Bilgi Sistemleri Denetçisi
+Sertifikası (CISA) ve İç Denetçi Sertifikası (CIA) tecrübe şartlarının
+değerlendirilmesinde ilave birer yıl bilgi sistemleri denetimi tecrübesi
+olarak sayılırlar.
+(5)
+Bilgi Sistemleri Bağımsız Denetçisinin aşağıdaki şartları taşıması
+zorunludur:
+a)
+Üniversitelerin veya denkliği yetkili makamlarca kabul edilen yurtdışındaki
+yüksek öğretim kurumlarının 4 yıllık lisans programlarını tamamlamış olmak.
+b)
+Fiilen en az 3 yıl mesleki tecrübeye sahip olmak.
+(6)
+Kıdemli Bilgi Sistemleri Bağımsız Denetçisinin aşağıdaki şartları taşıması
+zorunludur:
+a)
+Bilgi Sistemleri Bağımsız Denetçisi unvanını haiz olabilmek için aranan
+şartlara sahip olmak.
+b)
+Fiilen en az 6 yıl mesleki tecrübeye sahip olmak.
+(7)
+Bilgi Sistemleri Bağımsız Başdenetçisinin aşağıdaki şartları taşıması
+zorunludur:
+a)
+Bilgi Sistemleri Bağımsız Denetçisi unvanına sahip olabilmek için aranan
+şartları haiz olmak.
+b)
+Fiilen en az 10 yıl mesleki tecrübeye sahip olmak.
+c)
+CISA sertifikasına sahip olmak.
+(8)
+Yedinci fıkradaki şartları taşıyan meslek mensupları Kurumca yapılan
+değerlendirmeler sonucunda uygun görülmesi halinde Bilgi Sistemleri
+Bağımsız Başdenetçisi unvanına sahip olurlar.
+(9)
+Bilgi Sistemleri Bağımsız Başdenetçiliği unvanı haricindeki diğer meslek
+mensubu unvanlarına yapılan terfiler yetkili kuruluşlar tarafından yapılır,
+Kurumca belirlenen usul ve esaslara uygun olarak Kuruma bildirilir. Bilgi,
+yetenek ve liyakatleri bir üst kıdemin gerektirdiği nitelikte olmayanlar
+tecrübe şartını sağlasalar dahi bir üst unvana terfi ettirilemezler.
+(10)
+Bu Yönetmelik kapsamındaki yetkili kuruluşların denetimle görevlendirilmiş
+meslek mensuplarının tümünün, yılda en az yirmi saat, üç yılda en az yüz
+yirmi saat bilgi sistemleri ve bankacılık süreçleri denetimi alanında
+sürekli eğitim almaları veya vermeleri zorunludur.
+DÖRDÜNCÜ BÖLÜM
+Tarafların Yükümlülükleri
+Denetlenenin yükümlülükleri
+MADDE 19 – (1) Denetlenen, bilgi sistemleri dokümantasyonunu,
+bankacılık süreçlerine ait dokümantasyonu ve bu dokümantasyonla ilgili her
+türlü kayıt, bilgi, belge, yapı ve sistemlerini denetime uygun ve hazır
+hale getirmek zorundadır.
+(2)
+Denetlenen, denetçinin BSD’ye yönelik talep ettiği gizli dahi olsa her
+türlü bilgi ve belgeyi vermekle yükümlüdür.
+(3)
+Denetlenen, denetçilere faaliyetlerinde kullandıkları tüm sistem ve
+uygulamaları kullanım amaçlarını kapsayan uygulama listesiyle birlikte
+bildirmek; 1/11/2006 tarihli ve 26333 sayılı Resmî Gazete’de yayımlanan
+Bankaların İç Sistemleri Hakkında Yönetmeliğin 9 uncu maddesi uyarınca
+hazırladığı iş akış diyagramlarını, kontrol mekanizmalarına ilişkin
+dokümantasyonu ve bankacılık uygulamalarına ilişkin kullanıcı dokümanlarını
+sunmakla yükümlüdür.
+(4)
+Denetlenen, denetçi tarafından talep edilen iç denetim raporlarının bir
+örneğini denetçiye iletir ve 37 nci madde kapsamında denetçi ile
+denetlenenin müfettişleri arasındaki işbirliğinin sağlanması için gerekli
+tedbirleri alır, müfettişlerin yetkili kuruluşun denetçileri tarafından
+yöneltilen soruları zamanında yanıtlamalarını ve açıklık getirmelerini sağlar.
+(5)
+Denetçilerce yapılacak tespitler hakkında banka yönetim kurulunun
+bilgilendirilmesi; bağımsız denetçiler ile yönetim kurulu üyeleri ve
+denetlenen personeli arasında koordinasyonun sağlanması banka denetim
+komitesinin sorumluluğundadır.
+(6)
+Denetlenen tarafından sözleşme süresi içinde anlaşmalı olunan yetkili
+kuruluşun değiştirilmesi istendiği ya da yetkili kuruluş tarafından BSD
+sözleşmesine aykırı hareket edildiği ve/veya denetiminin bu Yönetmelikte
+belirtilen esaslara göre yapılmadığı hallerde, durumun gerekçesiyle
+birlikte Kuruma bildirilmesi ve denetim sözleşmesinin feshedilebilmesi için
+Kurulun uygun görüşünün alınması zorunludur.
+(7)
+Denetlenen, iç kontrolleri hakkında denetim dönemi itibariyle güvence veren
+ve yönetim kurulu tarafından onaylanmış olan yönetim beyanını denetçiye
+sunmakla yükümlüdür.
+(8)
+Denetlenen, denetim raporunda ortaya konulan bulguların çözümlerine ilişkin
+taahhütlerini bir aksiyon planı ile karara bağlar ve Kurumca belirlenecek
+usul ve esaslara uygun olarak raporlar. Aksiyon planının yürütülmesinin ve
+bu planda yer alan taahhütlerin zamanında ve eksiksiz olarak yerine
+getirilmesinin sağlanmasından banka yönetim kurulu sorumludur.
+Yetkili kuruluşların ve denetçilerin
+yükümlülükleri
+MADDE 20 – (1) Denetçiler ile BSD faaliyetinde birlikte
+çalıştığı finansal deneçiler; mesleğin zorunlu kıldığı mesleki ilkelere ve
+bu Yönetmelik ile BDYFY’de belirlenen denetim ilkelerine uymak, bilgi
+sistemleri ve bankacılık süreçleri içerisinde yer alabilecek riskleri ve
+zayıflıkları dikkate alarak ve mesleki şüphecilik çerçevesinde bir denetim
+planı hazırlamak, denetlenene sunmak ve uygulamak, yöneticilerin
+açıklamalarını yeterli denetim kanıtı olarak kabul etmemek ve denetim
+raporunu oluşturmak ile yükümlüdür.
+(2)
+BDYFY'nin 13 üncü maddesine göre bağımsız denetim kuruluşlarınca tesis
+edilmesi gerekli olan kalite güvence sistemi bu Yönetmelik kapsamında
+yapılan denetim çalışmalarını ve denetim raporlarını da kapsayacak şekilde
+yürütülür.
+(3)
+Denetçi, ortaya çıkan hata ve suiistimaller hakkında denetlenenin
+yöneticilerine ve denetlenenin denetim komitesine her aşamada yazılı olarak
+bilgi vermek zorundadır.
+(4)
+Bu Yönetmeliğin 10 uncu maddesinde belirtilen belge ve beyanlardaki
+değişikliklerin yedi gün içerisinde Kuruma bildirilmesi zorunludur. Denetim
+kadrosunda meydana gelen değişiklikler, gerekçeleri ile birlikte Kurumca
+belirlenen usul ve esaslara uygun olarak Kuruma bildirilir.
+(5)
+Yetkili kuruluşlar, istihdam ettikleri bilgi sistemleri denetçilerinin
+süreklilik arz edecek şekilde eğitim programlarına katılmalarını sağlamakla
+yükümlüdür.
+(6)
+Yetkili kuruluş, sözleşme süresi içinde BSD’den çekilmesi ya da sözleşmenin
+feshedilmesi hallerinde, durumu gerekçesiyle birlikte beş iş günü
+içerisinde Kuruma bildirmek zorundadır.
+(7)
+BSD faaliyeti sırasında, esas alınan mevzuat hükümlerine uymayan işlemlerin
+veya olumsuz görüş oluşturmaya veya görüş vermemeye yol açabilecek herhangi
+bir gelişmenin tespit edilmesi durumunda, denetlenen bunları gidermiş olsa
+dahi, bu hususun öğrenildiği tarihten itibaren onbeş gün içinde Kurum
+denetçi tarafından yazılı olarak bilgilendirilir. Kanuna ve diğer kanunlara
+göre konusu suç teşkil eden hallerde durumun ivedi olarak yetkili mercilere
+intikali sağlanır ve ayrıca Kuruma yazılı olarak bilgi verilir.
+(8)
+Denetçi, BSD sırasında ortaya çıkan, aşağıda belirtilen konular da dâhil
+olmak üzere, önemli bulduğu her konuda yöneticileri yazılı veya sözlü
+olarak derhal bilgilendirir:
+a)
+Muhtemel kısıtlamalar ve ilave çalışmalar da dâhil olmak üzere bilgi sistemleri
+ve bankacılık süreçleri denetiminin genel yaklaşımı ve kapsamı,
+b)
+Bilgi sistemleri ve bankacılık süreçleri üzerinde önemli bir etkisi olan ya
+da olabilecek politika oluşturma süreci ile ilgili aksaklıklar, politika
+uygulamalarındaki sorunlar ya da politika uygulamalarındaki değişiklikler,
+c)
+Banka faaliyetlerinin sürekliliği üzerinde şüphe uyandırabilecek
+belirsizlikler,
+ç)
+Bilgi sistemlerine ve bankacılık süreçlerine veya denetim raporuna önemli
+etkisi olabilecek konularda yöneticilerle olan görüş aykırılıkları,
+d)
+Bilgi sistemleri ve bankacılık süreçleri içerisinde yer alan önemli
+zayıflıklar ve riskler.
+(9)
+Sözlü olarak bilgilendirmenin yapıldığı durumlarda denetçi çalışma
+kâğıtlarında bildirilen hususları ve alınan cevapları belgelendirir.
+(10)
+Denetçiler, BSD çerçevesinde ilgililerce kendilerine tevdi edilen
+dokümantasyon ve belgeleri işlerinin gerektirdiği süre içinde iyi niyetle
+ve değiştirmeden muhafaza etmekle ve işin bitiminde iadesiyle
+yükümlüdürler. Denetim kanıtı oluşturan dokümanların kopyaları yetkili
+kuruluş tarafından saklanabilir.
+(11)
+Yetkili kuruluşlar ve denetçiler, BSD faaliyetleri dolayısıyla öğrendikleri
+ve ilgili düzenleme hükümlerine göre sır kapsamında bulunan bilgilerin
+kendi nezdlerinde korunmasına ilişkin tedbirleri alır, bu bilgileri kanunen
+açıkça yetkili kılınanlardan başkasına açıklayamaz ve doğrudan veya dolaylı
+şekilde kendi yararlarına kullanamazlar.
+(12)
+Denetlenen tarafından BSD’ye ilişkin bilgi ve belgelerin yetkili kuruluşa
+verilmemesi halinde bu durum Kuruma ivedilikle bildirilir.
+(13)
+Yetkili kuruluşların denetçilerinde değişiklik yapılması veya denetçi
+yardımcısı dışında denetçi istihdam edilmesi halinde, değişiklik veya
+istihdam edilme tarihinden itibaren en geç yirmi gün içinde bu kişilerin
+Yönetmelikte aranan şartları taşıdıklarını gösteren belgeler ile
+atanmalarına veya seçilmelerine ilişkin karar örneklerinin Kurumca
+belirlenen usul ve esaslara uygun olarak Kuruma bildirilmesi zorunludur.
+Kurumca yapılan değerlendirme neticesinde kırkbeş gün içerisinde olumsuz
+görüş bildirilmeyen değişiklikler geçerli sayılır.
+(14) Yetkili kuruluş, BSD’den
+kaynaklanabilecek riskleri de karşılayabilecek kapsamda mesleki sorumluluk
+sigortası yaptırmakla yükümlüdür.
+(15)
+Yetkili kuruluş, istihdam ettiği denetçiler tarafından bu Yönetmelik
+kapsamında düzenlenecek çalışma kağıtlarını ve denetime ilişkin her türlü
+bilgi ve belgeyi istenildiğinde Kuruma göndermek ya da Kurumun denetime
+yetkili meslek personeline sunmak zorundadır.
+BEŞİNCİ BÖLÜM
+Bilgi Sistemleri ve Bankacılık Süreçleri Denetimine
+İlişkin Esaslar
+Bilgi sistemleri ve bankacılık
+süreçleri denetimi ve amacı
+MADDE 21 – (1) BSD; bilgi sistemleri yönetimi kapsamında yer
+alan süreç, faaliyet, yazılım ve donanım gibi bilgi sistemi unsurları ve
+bankacılık faaliyetlerine ilişkin süreçler ile bu sistem ve süreçler
+dâhilinde tesis edilen iç kontrollerin değerlendirilmesi sonucunda görüş
+oluşturulması ve rapora bağlanması aşamalarından oluşan süreçtir.
+(2)
+BSD’nin temel amacı denetlenenin bilgi sistemleri ve bankacılık
+süreçlerinin ve bu sistem ve süreçlere ilişkin iç kontrollerinin uyumluluk,
+etkinlik ve yeterliliği hakkında görüş oluşturulmasıdır.
+Bilgi sistemleri ve bankacılık
+süreçleri denetiminin kapsamı
+MADDE 22 – (1) Bu Yönetmelik kapsamında yapılacak olan
+denetim çalışması bu Yönetmeliğin 24 üncü maddesinde tanımlanan bilgi
+sistemleri denetimi ile yine bu Yönetmeliğin 25 inci maddesinde tanımlanan
+bankacılık süreçleri denetiminden oluşur.
+(2)
+Denetçi, banka bilgi sistemleri ve bankacılık süreçleri kapsamında
+inceleyeceği süreç, sistem, faaliyet ve kontrol mekanizmalarını, risk
+odaklı bir bakış açısıyla ve önemlilik kriterini esas alarak yazılı olarak
+belirler. Bununla birlikte denetçi, önemlilik kriteri çerçevesinde
+belirlediği denetimlerin kapsamının; bu Yönetmelik kapsamında oluşturacağı
+denetim görüşüne makul güvence sağlamak için yeterli denetim kanıtı elde
+edecek şekilde olmasını temin eder.
+(3)
+Denetlenenin iç kontrol sistemiyle ilgili olarak iç sistemleri bünyesinde
+yürütülen faaliyetler, 26 ncı madde kapsamında ve bankacılık süreçlerinin
+denetimi dâhilinde incelenir.
+(4)
+Bankacılık süreçleri denetimi her yıl, bilgi sistemleri denetimi ise iki
+yılda bir kez yapılır.
+(5)
+Kurum, gerekli gördüğü hallerde denetlenenlerden herhangi biri ya da tüm
+denetlenenler için, bu denetimlerin kapsamını ve sıklığını
+farklılaştırabilir.
+(6)
+Konsolide BSD kapsamında denetime tâbi tutulacak kuruluşlar, bankaların
+konsolide finansal tablolarının oluşturulmasına ilişkin Kurum tarafından
+yapılan düzenlemelerde yer alan ve konsolide finansal tabloların oluşturulmasına
+dahil edilecek kredi kuruluşu veya finansal kuruluş niteliğine sahip
+kuruluşların tespitinde esas alınan hükümler doğrultusunda belirlenir.
+(7)
+Denetçi, altıncı fıkra uyarınca denetime tâbi tutacağı ortaklıklarda
+gerçekleştireceği BSD kapsamını, önemlilik kriterini kullanarak,
+konsolidasyona esas finansal bilgiyi üreten bilgi sistemleri ve süreçler
+üzerindeki kontrollerin uyumluluk, etkinlik ve yeterliliğinin tespit
+edilmesini sağlayacak şekilde yazılı olarak belirler.
+Bilgi sistemleri ve bankacılık
+süreçleri denetimi ile bağımsız
+denetimin ilişkisi
+MADDE 23 – (1) Bağımsız denetim ile BSD; birbirlerinin kapsam
+ve sonucunu etkileyecek hususlar ihtiva etmeleri nedeni ile bütünsel bir
+yaklaşım içinde planlanır ve uygulanır.
+(2)
+Denetçi BSD kapsamını belirlerken ve bu kapsamdaki çalışmalarını
+yürütürken; denetim görüşünü destekleyecek düzeyde yeterli denetim kanıtı
+elde edilmesinin yanı sıra, bağımsız denetime ilişkin denetim riski değerlendirmelerini
+desteklemek için de denetim kanıtı elde edilmesini gözetir.
+(3)
+Yönetmeliğin 22 nci maddesindeki çerçeve ile sınırlı olmak üzere, BSD
+kapsamındaki faaliyetler gerçekleştirilirken, BDYFY’nin 35 inci maddesinde
+ifade edilen denetim konuları dikkate alınır.
+(4)
+Bilgi sistemleri ve bankacılık süreçleri denetimine ilişkin görüşün
+“şartlı”, “olumsuz” ya da “görüşten kaçınma” şeklinde olması durumunda;
+görüş ve görüşe esas teşkil eden tespitler finansal denetçiye yazılı olarak
+iletilir.
+Bilgi sistemleri denetimi
+MADDE 24 – (1) Denetçi, bilgi sistemleri genel kontrollerini,
+önemlilik kriterini esas alarak belirlediği kapsam dâhilinde uyumluluk,
+etkinlik ve yeterlilik açısından incelemeye tâbi tutar.
+(2)
+Genel kontroller, tesis edilmelerinde esas alınan çerçeve, standart ya da
+metodolojiden bağımsız olarak; bankalarda bilgi sistemleri yönetiminde esas
+alınacak ilkelere ilişkin Kurum tarafından yapılan düzenlemelerdeki
+hükümler gözetilerek, COBIT’e göre denetlenir.
+(3)
+Genel kontrollerin uyumluluk, etkinlik ve yeterliliğine ilişkin inceleme
+çalışmalarını tamamlayıcı bir unsur olarak; olgunluk modeli çerçevesinde
+ilgili kontrol hedefine ilişkin sürecin olgunluk seviyesi de belirlenir.
+İlgili kontrol hedefine ilişkin sürecin olgunluk seviyesi değerlendirilirken
+süreci oluşturan detaylı kontrol hedeflerinin tamamı dikkate alınır.
+Bankacılık süreçleri denetimi
+MADDE 25 – (1) Denetçi, denetlenenin bankacılık süreçlerini
+ve bu süreçler üzerindeki iç kontrollerini, önemlilik kriterini esas alarak
+belirlediği kapsam dâhilinde uyumluluk, etkinlik ve yeterlilik açısından
+incelemeye tâbi tutar.
+(2)
+Bankacılık süreçlerinin denetimi kapsamında bankacılık faaliyetlerine
+ilişkin aşağıda yer alan süreçler ve gerekli görülen diğer süreçler ile
+ilgili hususlar önemlilik kriteri çerçevesinde dikkate alınarak
+değerlendirilir.
+a)
+Mevduat Süreci: Mevduat hesaplarına ilişkin işlemler, çek/senet, fon
+transferi ve tahsilat işlemleri, mevduatın sınıflandırılması, tasarruf
+mevduatı kapsamının belirlenmesi ve tasarruf mevduatı sigorta primlerinin
+hesaplanması gibi hesaplama kontrolleri, kara para aklanmasına ilişkin
+kontroller, işlemlerin muhasebeleştirilmesi ve süreçteki diğer kontrolleri,
+b)
+Bireysel/Kurumsal Kredi Süreçleri: Kredi başvurularının alınması, değerlendirilmesi,
+kredi tahsisi ve kullandırımı işlemleri ve onayları, teminatlandırma, kredi
+limitleri ile kredi geri ödeme tabloları ve hesaplamalarına ilişkin
+kontroller, takip hesaplarına aktarım süreci ve karşılık hesaplamaları,
+kredilerin sınıflandırılması, yaşlandırma raporlarının hazırlanması ve
+yeniden yapılandırma işlemleri, işlemlerin muhasebeleştirilmesi ve diğer
+süreç kontrolleri,
+c)
+Muhasebe Süreci: Faiz, gelir/gider tahakkuku ve reeskont hesaplamaları,
+işlem bazında tek düzen hesap planına uygunluk, amortisman hesaplamaları,
+muhasebe fişi kesilmesine ilişkin yetkilendirme süreci, mizanın oluşumu,
+geriye dönük muhasebe fişi kesilmesi işlemleriyle ilgili yetkilendirmelerin
+varlığı ve ilgili kayıtların bütünlüğü ve izlenebilirliği, işlem
+numaralarının ardışıklığının sağlanması, işlem limitlerinin ve yetkilerinin
+kontrolü, şube ve genel müdürlük kayıtları arasındaki mutabakatlar, hesap
+planı düzenleme ve değişikliklerine ilişkin kontroller, defteri kebir
+hesapları ile yardımcı, alt ve geçici hesapların mutabakatı, yasal ve
+yardımcı defterler arası mutabakatlar, işlemlerin muhasebeleştirilmesi ve
+diğer süreç kontrolleri,
+ç)
+Alternatif Dağıtım Kanalları Süreci: Elektronik bankacılık/alternatif
+dağıtım kanalları ile ilgili yetkilendirme, kimlik doğrulama, muhasebeleştirme
+ve diğer süreç kontrolleri,
+d)
+Banka ve Kredi Kartları Süreci: Banka ve kredi kartı başvuru değerlendirme,
+limit tahsisi, kart basım ve dağıtım işlemleri, üye işyeri ve POS
+işlemleri, kartların kullanımı ve hediye puanı gibi uygulamalara ilişkin
+kontroller, takip hesaplarına aktarım süreci ve karşılık hesaplamaları,
+yaşlandırma raporlarının hazırlanması ve yeniden yapılandırma işlemleri,
+banka ile kart merkezi mutabakatları gibi mutabakat kontrolleri, işlemlerin
+muhasebeleştirilmesi ve diğer süreç kontrolleri,
+e)
+Finansal Raporlama Süreci: Banka kayıtlarının ve bilgi kaynaklarının
+finansal raporlamalarda kullanım sürecinin kontrolü ve diğer süreç
+kontrolleri,
+f)
+Ödeme Sistemleri Süreci: EFT, EMKT, Takasbank, SWIFT işlemleri ve bunlarla
+ilgili güvenlik kayıtları gibi ödeme sistemi kontrolleri, işlemlerin
+muhasebeleştirilmesi ve diğer süreç kontrolleri,
+g)
+Hazine/Menkul Kıymetler ve Fon Yönetimi Süreci: Menkul kıymet ve fon
+yönetimi iş süreçlerinin kontrolü, türev ürünleri, nostro, vostro ve loro
+bakiyelere ilişkin mutabakatlar ve muhabir kayıtlarının kontrolü,
+işlemlerin muhasebeleştirilmesi ve diğer süreç kontrolleri.
+(3)
+Bankacılık süreçleri üzerindeki kontrollerin etkinliği, ilgili bilgi
+sistemleri genel kontrollerinin etkin ve yeterli olmasına bağlıdır. Bu
+nedenle denetçi, bankacılık süreçleri üzerindeki kontrollerin uyumluluk,
+etkinlik ve yeterliliğine ilişkin incelemelerde bulunurken, gerekli gördüğü
+bilgi sistemleri genel kontrollerinin etkinlik ve yeterlilik durumunu
+dikkate alır. Denetçi söz konusu genel kontrolleri, denetim kapsamına dahil
+eder, etkinlik ve yeterlilikleri ile bankacılık süreçleri üzerindeki
+kontrollere olan etkilerini değerlendirir.
+(4)
+Denetçi ikinci fıkrada ifade edilen ve önemlilik değerlendirmesi sonucunda
+denetim kapsamına dahil ettiği süreçler için asgari olarak aşağıdaki
+kontrolleri test eder;
+a)
+Yönetimce kontrollerin etkin olarak çalışmasının engellenmesini önleyecek
+ya da tespit edecek kontroller,
+b)
+Denetlenenin bilgi sistemleri genel kontrolleri ve bankacılık
+süreçlerindeki kontrollere ilişkin risk değerlendirme süreci,
+c)
+Süreç ve işlemlerin sonuçlarının gözetimine ilişkin gözden geçirme,
+raporlama, sorgulama ve mutabakat gibi kontroller,
+ç)
+Kontrollerin gözetimine yönelik kontroller,
+d)
+Dönem sonuna ilişkin muhasebe ve finansal raporlama süreci üzerindeki
+kontroller,
+e)
+Mükerrer bilgi sistemleri ve çift kayıt sistemi gibi sahtecilik ve
+usulsüzlüklerin önlenmesine ve tespit edilmesine ilişkin kontroller,
+f)
+Faiz, masraf, komisyon, stopaj vs. oran ve miktarları, vade ve valör
+bilgileri ile diğer önem arz eden bankacılık bilgilerine ilişkin veri,
+işlem ve kayıtların bütünlüğü ve güvenilirliğine ilişkin kontroller,
+g)
+Görevler ayrılığı prensibinin uygulanmasına ilişkin kontroller,
+ğ)
+Yetkilendirme ve erişim kontrolleri ile bu kontrollerin gözden
+geçirilmesine ilişkin kontroller,
+h)
+Risk arz eden işlemlerin gerçekleştirilmesinde yer alan/yer alması gereken
+onay mekanizmaları,
+ı)
+Veri, işlem ve kayıtların gizliliğine ilişkin kontroller,
+i)
+Denetim izlerinin tutulması, güvenliğinin sağlanması ve düzenli olarak
+gözden geçirilmesi ve değerlendirilmesine ilişkin kontroller.
+İç kontrol ve iç denetim sistemine
+ilişkin değerlendirme
+MADDE 26 – (1) Denetçi, bilgi sistemleri genel kontrolleri ve
+bankacılık süreçleri üzerindeki kontrollerle sınırlı olmak üzere
+denetlenenin iç kontrol ve iç denetim sistemleri bünyesinde yürüttüğü
+çalışmalarını önemlilik kriteri çerçevesinde değerlendirir. Bu kapsamda;
+a)
+İç kontrol sistemine ilişkin yürütülen faaliyetler incelenirken asgari
+olarak:
+1) Kontrol ortamına ilişkin hususlar,
+2)
+Yönetim tarafından etkin ve yeterli bir iç kontrol sisteminin tesis
+edilmesi, işletilmesi ve gözetimine ilişkin benimsenen yaklaşım ve
+uygulaması,
+3)
+Kanunun 75 inci maddesinde çerçevesi çizilen etik ilkelerin uygulanması ve
+çalışanların bu konudaki farkındalık düzeyi
+dikkate
+alınır.
+b)
+İç denetim biriminin iç kontrol sisteminin etkinlik, yeterlilik ve
+uyumluluğunun gözetimine ilişkin yürüttüğü faaliyetler ve performansını
+değerlendirir.
+c)
+İç denetim biriminin değerlendirilmesi kapsamında denetlenenin bilgi
+sistemleri denetimi faaliyetleri dikkate alınır. Denetlenenin bilgi
+sistemleri denetimi fonksiyonu değerlendirilirken asgari olarak;
+1)
+Ekibin organizasyon içerisindeki yeri ve bağımsızlığı,
+2)
+Ekibi oluşturan personelin nitelik ve sayı açısından yeterliliği,
+3)
+Planlanan ve gerçekleştirilen denetim çalışmaları,
+4)
+Denetim sonuçlarının takibi
+incelenir.
+ç)
+Denetçi, denetlenenin iç kontrol sistemine ilişkin risk değerlendirme
+sürecinde yürütülen faaliyetler ve performansını değerlendirir.
+Bilgi sistemleri ve bankacılık
+süreçleri denetimi faaliyetlerinin yürütülmesi
+MADDE 27 – (1) BSD faaliyetlerini gerçekleştirilebilmesi için
+bağımsız denetim kuruluşunun bu Yönetmelik kapsamında; denetim yapma
+yetkisini haiz olması ve denetlenenle denetim sözleşmesi yapmış olması
+gereklidir.
+(2)
+Yetkili kuruluşlar, bilgi sistemleri ve bankacılık süreçleri denetiminin
+gerçekleştirileceği dönemde, denetlenenin bağımsız denetim faaliyetini de
+yürütüyor olmak zorundadırlar.
+(3)
+Bankacılık süreçleri denetimi, yetkili kuruluş tarafından bu faaliyeti
+yürütmekle görevlendirilen finansal denetçi tarafından, bilgi sistemleri
+denetçisi ile birlikte gerçekleştirilir.
+ALTINCI BÖLÜM
+Bilgi Sistemleri ve Bankacılık Süreçleri Denetimi
+Metodolojisi
+Denetim stratejisi ve denetim
+planı
+MADDE 28 – (1) Yürütülecek denetim çalışması için,
+denetlenenin faaliyetlerinin bilgi sistemlerine bağlılık ve bilgi
+sistemlerinin karmaşıklık derecesi, ekonomik, finansal beklentiler ile
+bunların bilgi sistemleri ile ilişkileri ve iç sistemlerinin yeterliliği
+hakkındaki denetçi kanaatine bağlı olarak denetimin kapsamı, zamanlaması ve
+yönlendirilmesini düzenleyen ve denetim planının geliştirilmesinde esas
+oluşturacak bir BSD stratejisi oluşturulur.
+(2)
+BSD stratejisi, denetimin kapsamı, denetim esnasında kullanılacak önemlilik
+değerlendirmesi, denetlenecek süreçlerde denetim süresince meydana
+gelebilecek önemli değişiklikler gibi konuları içerir.
+(3)
+Denetçi, denetim riskini makul bir düzeye indirebilecek yeterli ve uygun
+denetim kanıtının elde edilmesi için BSD stratejisine uyumlu bir denetim
+planı oluşturur.
+(4)
+BSD stratejisi ve planı oluşturulurken, iç denetim raporları, BSD denetim
+raporları ile denetlenen ve Kurum arasında gerçekleşen yazışmalar dikkate
+alınır.
+(5)
+BSD planlaması yapılırken, denetlenenin sistem ve süreçlerini konu alan bir
+risk değerlendirmesi çalışması yapılır ve bu çalışmanın sonuçları önemlilik
+kriteri açısından değerlendirilir.
+(6)
+Bağımsız bilgi sistemleri ve bankacılık süreçleri denetim planı asgari
+olarak,
+a)
+Denetim tekniklerinin türü, zamanlaması ve detay seviyesinin tanımını,
+b)
+Önemli veya kayda değer kontrol eksikliği risklerinin değerlendirilmesinde
+kullanılan risk değerlendirme tekniklerinin türü, zamanlaması ve detay
+seviyesinin tanımını ve
+c)
+BSD faaliyetinde görev alacak ekip üyelerinin bireysel yetenek ve
+yeterliliklerini dikkate alarak, denetim ekibinin sevkine ve
+faaliyetlerinin gözetimine ilişkin planlamayı
+içerir.
+(7)
+BSD stratejisi ve denetim planı, denetim sürecinde gerekli görüldüğü
+takdirde nedenleri ile birlikte belgelenerek güncellenir ve değiştirilir.
+(8)
+Denetçi, denetimi planlarken, hata, suiistimal ve yasa dışı fiillere ilişkin
+riskleri dikkate alır.
+Denetim teknikleri ve kontrollerin test
+edilmesi
+MADDE 29 – (1) Denetçi, denetim görüşünün oluşturulmasına
+makul güvence sağlayacak düzeyde yeterli ve gerekli ölçüdeki denetim
+kanıtlarını elde etmek için aşağıdaki denetim tekniklerinden hepsini ya da
+bir kısmını uygun zaman ve detay kapsamıyla kullanır:
+a)
+Bilgi toplama,
+b)
+Gözlem,
+c)
+Sorgulama ve doğrulama,
+ç)
+Yeniden gerçekleştirme,
+d)Yeniden
+hesaplama,
+e)
+Analitik inceleme.
+(2)
+Denetçi, test edeceği kontrollerin kapsamını, önemlilik ilkesini gözeterek
+ve test edeceği kontrol kümesinin bilgi sistemleri ve bankacılık süreçleri
+ile bu sistem ve süreçler üzerindeki kontrollerin bütününün etkinliği,
+yeterliliği ve uyumluluğu hakkında kendisine makul bir güvence sağlayacak
+şekilde belirler.
+(3)
+Bilgi sistemleri ve bankacılık süreçleri üzerindeki kontrollerin etkin,
+yeterli ve uyumlu olduğuna dair görüş verilebilmesi için, incelemeye tâbi
+tutulan tüm kontrollerin, tasarım ve işletiminin etkinlikleri ve
+uyumluluklarının test edilmesi gerekir.
+(4)
+Denetçi, denetim riskini makul düzeye indirebilmek için, test ettiği
+kontrolle ilişkili önemli veya kayda değer kontrol eksikliği riskinin
+yüksek olduğu alanlarda tespit riskini düşürecek şekilde testlerini
+detaylandırır, örneklem hacmini genişletir ve kanıtlarının yeterlilik ve
+güvenilirlik seviyesini artırır.
+(5)
+Denetçi kontrole ilişkin test kapsamını belirlerken ilgili kontrolün
+uygulanma sıklığı, faal olma durumu açısından güvenilen süre,
+kontrollerdeki sapma beklentisi gibi kontrol karakteristiklerini dikkate
+alır.
+(6)
+Denetçi sadece bilgi toplama tekniğini kullanarak elde ettiği denetim
+kanıtıyla bir kontrolün etkinlik, yeterlilik ve uyumluluğuna ilişkin görüş
+oluşturamaz.
+(7)
+Denetçi, bir kontrolü test ederken dikkate alacağı zaman boyutunu denetim
+döneminin bütününe ilişkin görüş oluşturacak şekilde belirler.
+Denetim örneklemesi
+MADDE 30 – (1) Denetim örneklemesi; denetim tekniklerinin,
+tüm kalemlerin seçilme şansı olacak şekilde denetime ilişkin bir ana
+kütlenin yüzde 100’ünden daha azına uygulanmasını ifade eder. Denetim
+örneklemesi denetçiye, örneklerin alındığı toplam veri seti ile ilgili
+görüş oluşturulabilmesini teminen seçilen örneklerle ilgili denetim
+kanıtlarını elde etme ve değerlendirme olanağı sağlar. Denetim
+örneklemesinde, istatistiki ya da istatistiki olmayan yaklaşımlar
+kullanılabilir.
+(2)
+Denetçi, denetim örneğini oluştururken, denetim tekniğinin amacını ve
+örneğin seçileceği ana kütlenin niteliklerini göz önünde bulundurmak
+zorundadır.
+(3)
+Denetçi, örnek hacmini belirlerken, denetim riskinin kabul edilebilir
+derecede düşük bir seviyeye indirilip indirilmediğini dikkate almak
+zorundadır. Örnek hacmi, denetçinin kabul edebileceği denetim riski
+seviyesinden etkilenir. Denetçinin kabul edebileceği risk düştükçe, örnek
+hacminin de o oranda artması gerekir.
+(4)
+Denetçi, ana kütlenin içerisinde örneklenebilecek tüm örnekleme
+birimlerinin seçilme şansı olduğu beklentisiyle örnek seçimini yapar.
+Örneklemenin amacı ana kütlenin tümüne ilişkin sonuçlar ortaya çıkarmak
+olduğundan, denetçi ana kütleyi temsil edecek özelliklere sahip ve
+önyargılardan uzak örnekler seçmeye gayret eder.
+Denetim kanıtı
+MADDE 31 – (1) Denetim kanıtı, denetçinin bilgi sistemleri ve
+bankacılık süreçleri üzerindeki kontrollerin etkinlik, yeterlilik ve
+uyumluluğuna ilişkin görüşünü dayandırdığı sonuçlara ulaşmak amacıyla
+kullandığı tüm bilgilerdir.
+(2)
+Denetçi; görüşünü dayandırdığı güvenilir, yeterli ve uygun denetim
+kanıtlarını elde edebilmek için gerekli denetim prosedürlerini tasarlar ve
+gerçekleştirir.
+(3)
+Test edilmek üzere seçilen her bir kontrolün; etkinlik ve yeterliliğine
+ilişkin gerekli denetim kanıtı seviyesi, ilgili kontrolün çalışmaması
+durumunda önemli veya kayda değer kontrol eksikliğine sebebiyet verme
+ihtimaline bağlıdır.
+(4)
+Denetçinin, güvenilir denetim kanıtı elde edebilmesi için, uyguladığı
+denetim tekniklerinin dayandığı bilgilerin tam ve doğru olması gerekir.
+Denetçi, denetim tekniklerini uygularken tam ve doğru olduğuna ilişkin
+yeterli araştırmayı yapmak koşuluyla denetlenen tarafından üretilen
+bilgileri de kullanabilir.
+Bulguların değerlendirilmesi
+MADDE 32 – (1) Denetçi, denetim çalışmasının sonunda, tespit
+ettiği her bir kontrol zayıflığını ayrı ayrı inceler ve bu zayıflıkları hem
+tek başlarına, hem de birlikte oluşturacakları farklı kombinasyonlarla
+değerlendirerek bunların kayda değer kontrol eksikliği veya önemli kontrol
+eksikliği olarak sınıflandırılmasını nitel ve nicel yöntemler kullanarak
+gerçekleştirir.
+(2)
+Denetçi, kontrol zayıflıklarını değerlendirirken temel olarak; bunların
+birlikte veya ayrı ayrı; sebep olabileceği yanlışlıkların ortaya çıkma
+olasılığını ve ortaya çıktığındaki etkisini göz önünde bulundurur.
+(3)
+Denetçi, bilgi sistemleri genel kontrollerine ilişkin kontrol
+zayıflıklarını değerlendirirken, bunların bankacılık süreçleri üzerindeki
+kontrollere olan etkisini de dikkate alır.
+(4)
+Denetçi, denetim esnasında aşağıdaki alanlardan herhangi birinde kontrol
+zayıflığı ile karşılaşması durumunda bunları en azından kayda değer kontrol
+eksikliği olarak kabul eder:
+a)
+Türkiye Muhasebe Standartlarının uygulanmasına ilişkin politikalar,
+b)
+Kanun ve bu Kanuna istinaden yayımlanan alt düzenlemeler ve talimatların
+gereğinin yerine getirilmesine ilişkin kontroller,
+c)
+Sahteciliği önleyen kontroller veya programlar,
+ç)
+Rutin veya sistematik olmayan işlemler ve
+d)
+Yılsonu finansal raporlama süreci.
+(5)
+Denetçi aşağıdaki durumlardan herhangi biriyle karşılaşması halinde bunları
+en azından kayda değer kontrol eksikliği olarak kabul eder ve önemli
+kontrol eksikliğine güçlü birer işaret olarak algılar:
+a)
+Hata veya sahtecilik nedeniyle, denetlenenin varlık ve yükümlülüklerinin
+farklı şekilde yansıtılarak mevzuatta tanımlanan ve yasal yükümlülükler
+bakımından denetlenen ile ilgili alınması gereken kararları veya sağlıklı
+bir finansal değerlendirme yapılmasını etkileyecek şekilde, önceden
+yayımlanmış olan finansal tablolar üzerinde düzeltmeler yapılması,
+b)
+Cari döneme ait finansal tablolarda veya verilerde denetlenenin iç kontrol
+birimlerince önceden fark edilmemiş olan önemli bir yanlış beyanın denetim
+esnasında denetçi tarafından tespiti,
+c)
+Denetlenenin farklı birimlerinden aynı hususa ilişkin olarak gelen bilgi,
+belge ve veriler arasında tutarsızlık olduğunun tespit edilmesi,
+ç)
+Denetlenenin yönetimi tarafından denetçiye verilen beyanlarda kasıt
+içermese dahi önemli bir yanlış beyanın tespit edilmesi,
+d)
+Aksiyon planında yer verilen taahhütlerin yerine getirilmemiş olması,
+e)
+Denetlenenin profili dikkate alınarak iç denetim ve risk yönetim
+fonksiyonlarının etkin bir iç kontrol ortamının tesis edilmesi için gerekli
+olduğunun düşünüldüğü durumlarda, bilgi sistemlerine yönelik söz konusu
+fonksiyonların bulunmaması veya etkin olmaması,
+f)
+Bilgi sistemleri ile bankacılık faaliyetlerine ilişkin süreç ve sistemler
+kapsamında mevzuata uyum kontrolünü sağlayacak bir birimin/fonksiyonun
+bulunmaması veya etkin olmaması,
+g)
+Yönetici veya yöneticilerin dâhil olduğu küçük dahi olsa bir sahteciliğin
+tespit edilmesi,
+ğ)
+Yöneticilere iletilmiş olan kayda değer bir kontrol eksikliğinin makul bir
+süre geçmesine rağmen hala düzeltilmemiş olması,
+h)
+Etkin bir iç kontrol ortamının tesis edilmemiş olması ve
+ı)
+Denetim komitesince, muhasebe, finansal raporlama ve iç kontrol sistemi
+üzerinde etkin bir gözetimin tesis edilmemiş olması.
+Yönetim beyanı
+MADDE 33 – (1) Banka, bilgi sistemleri ve bankacılık
+süreçleri üzerindeki iç kontrolleri hakkında denetim dönemi itibariyle
+yönetim kurulu tarafından düzenlenen yönetim beyanını denetçiye sunar.
+(2)
+Denetçi, denetim görüşünü oluştururken yönetim beyanını ve bu beyana mesnet
+teşkil eden çalışmaları inceler. Denetçi, bu inceleme sonucunda beyanda
+eksiklik veya yanlışlık tespit ederse denetim raporunda bu tespitlere yer
+verir.
+(3)
+Denetlenen yönetim kurulunun yönetim beyanını vermeyi reddetmesi durumunda,
+BSD raporunu imzalamaya yetkili kişiler şartlı görüş bildirebilir, görüş
+bildirmekten kaçınabilir veya 34 üncü maddede belirlenen usul ve esaslar
+çerçevesinde denetimden çekilmek için yetkili kuruluş yönetimine teklifte
+bulunabilirler. Yetkili kuruluşun çekilme kararı alması halinde durum
+gerekçeleri ile birlikte en geç yedi gün içinde Kuruma bildirilir.
+(4)
+Bu Yönetmelik kapsamında yönetim beyanına ve uygulanmasına ilişkin usul ve
+esaslar Kurum tarafından belirlenir.
+Denetim görüşünün oluşturulması ve
+denetim mektubu
+MADDE 34 – (1) Denetim raporunu imzalamaya yetkili kişiler,
+yapılan denetim sonucunda herhangi bir önemli kontrol eksikliğinin
+bulunmaması ve denetim kapsamında herhangi bir kısıtlama ya da engelleme
+ile karşılaşılmaması durumunda, kendilerine bağlı bağımsız denetim
+ekiplerinin de görüşlerini alarak, ek-10’da yer alan örneğe uygun olarak
+olumlu görüş bildirirler.
+(2)
+Denetim raporunu imzalamaya yetkili kişiler, kendilerine bağlı bağımsız
+denetim ekiplerinin de görüşlerini alarak;
+a)
+Yapılan denetim sonucunda en az bir önemli kontrol eksikliğiyle
+karşılaşmalarına rağmen, bu eksikliklerin denetlenenin bilgi sistemleri ile
+bankacılık süreç ve sistemlerinin bütününü veya büyük bir kısmını
+etkilemediğini düşündükleri,
+b)
+Görüş bildirmekten kaçınmayı gerektirecek önemde olmamakla birlikte, BSD
+faaliyetlerini sınırlayan herhangi bir hususun varlığı veya yeni tesis
+edilmiş bir sistem veya süreç hakkında yeterince bilgi edinememeleri veya
+c)
+Denetim görüşünün oluşturulması için yeterli ve uygun denetim kanıtının
+elde edilememesi
+durumlarında
+ek-11’de yer alan örneğe uygun olarak şartlı görüş bildirirler.
+(3)
+Denetim raporunu imzalamaya yetkili kişiler, yapılan denetim sonucunda
+rastlanılan önemli kontrol eksikliklerinin tek başlarına veya beraber
+değerlendirildiklerinde,
+a)
+Denetlenenin bilgi sistemleri ile bankacılık süreçlerinin bütününü veya
+büyük bir kısmını etkilediğine ilişkin kanaat edinmeleri veya
+b)
+33 üncü maddenin birinci fıkrası uyarınca hazırlanan yönetim beyanı ile
+denetçinin denetlenen bünyesinde gerçekleştirdiği denetim sonrasında önemli
+bir kontrol eksikliğinin bütün önemli taraflarıyla eksik veya yanlış aktarılmasından
+kaynaklanan bir farklılık bulunması
+durumlarında
+kendilerine bağlı bağımsız denetim ekiplerinin de görüşlerini alarak,
+ek-12’de yer alan örneğe uygun olarak olumsuz görüş bildirirler.
+(4)
+Denetim raporunu imzalamaya yetkili kişiler, denetim çalışmalarında
+karşılaşılan belirsizlik ve sınırlamaların görüş belirtilmesini
+engelleyecek derecede önemli olduğunu düşündükleri durumlarda, kendilerine
+bağlı bağımsız denetim ekiplerinin de görüşlerini alarak, bilgi sistemleri
+ile bankacılık süreçleri üzerindeki kontroller hakkında görüş bildirmekten
+kaçınabilirler. Bu durumda denetim mektubu ek-13’te yer alan örneğe uygun
+olarak düzenlenir. Görüş bildirmekten kaçınma durumunda düzenlenecek
+raporda, kaçınmaya yol açan nedenlere ilişkin denetçi görüşlerine yer
+verilmesi şarttır.
+(5)
+Bankalarda ve konsolidasyona tabi ortaklıklarında gerçekleştirilen BSD
+sonucunda bu Yönetmeliğin 5 inci ve 7 nci maddelerinde belirtilen hükümler
+ile bu maddede belirtilen görüş çeşitleri çerçevesinde; olumlu, şartlı veya
+olumsuz görüşe varılması hallerinde, sırasıyla ek-14, ek-15, ek-16’da yer
+alan örneklere uygun olarak denetim mektubu düzenlenir. Görüş bildirmekten
+kaçınmayı gerektirecek şartların varlığı halinde ise, denetim mektubu
+ek-17’de yer alan örneğe uygun olarak düzenlenir.
+Denetim çalışmalarının
+belgelendirilmesi
+MADDE 35 – (1) Denetçi; raporunda yer vereceği görüşlerini
+desteklemek ve denetimin bu Yönetmelik hükümlerine uygun şekilde
+planlandığına ve gerçekleştirdiğine dair kanıt sunmak amacıyla denetimi gerçekleştirdiği
+süre zarfında çalışma kâğıtlarını hazırlar.
+(2)
+Çalışma kâğıtları, toplanan kanıtların ve denetim raporunun nihai hale
+getirilmeden gözden geçirilmesine ve değerlendirilmesine imkân verecek
+şekilde hazırlanır.
+(3)
+Denetçi, çalışma kâğıtlarını, yürütülen denetim çalışması ile hiçbir
+bağlantısı olmayan tecrübeli bir denetçinin:
+a)
+Gerçekleştirilen denetimin bu Yönetmelikle belirlenen hükümlere
+uygunluğunu,
+b)
+Toplanan denetim kanıtları ve uygulanan denetim tekniklerinin sonuçlarını
+ve
+c)
+Denetim sırasında ortaya çıkan önemli hususlar ve bunlarla ilgili ulaşılan
+değerlendirmeleri
+kavrayabilmesine
+olanak sağlayacak şekilde hazırlar.
+(4)
+Çalışma kağıtları kağıt veya elektronik ortamda tutulabilir.
+(5)
+Çalışma kağıtları üzerindeki tasarruf yetkisi denetçinin istihdam edildiği
+yetkili kuruluşa, denetim dış hizmet alımı ile gerçekleştirilmesi halinde
+ise ilgili bağımsız denetim kuruluşuna aittir. Çalışma kağıtları,
+denetlenenin yazılı izni olmaksızın Kurum dışındaki üçüncü kişilere verilemez
+veya açıklanamaz. Çalışma kağıtlarının gizliliğinin ve güvenliğinin
+sağlanması yetkili kuruluşun sorumluluğundadır.
+(6)
+Yetkili kuruluş, denetim raporu tarihinden sonraki 60 gün içerisinde tüm
+çalışma kağıtlarının bir araya getirilmesinden sorumludur. Çalışma
+kağıtları denetim raporu tarihinden itibaren en az beş yıl süreyle
+saklanır.
+YEDİNCİ BÖLÜM
+Genel İlkeler ve Sorumluluklar
+Bilgi sistemleri ve bankacılık
+süreçleri denetimi sözleşmesi
+MADDE 36 – (1) BSD, yetkili kuruluş ile denetlenen arasında
+imzalanacak yazılı sözleşme çerçevesinde yürütülür. BSD sözleşmesi,
+yapılacak denetimin kapsam ve içeriği üzerinde taraflar arasında tam bir
+mutabakat sağlandığının göstergesidir. BSD sözleşmesi, BDYFY’nin Dördüncü
+Bölümü kapsamında yapılacak sözleşmeye dâhil edilebilir.
+(2)
+BSD sözleşmeleri, denetlenenin yönetim kurulunca onaylanarak yürürlüğe
+girer.
+(3)
+Konsolide BSD sözleşmeleri hariç tutulmak üzere, denetlenen, yetkili
+kuruluş ile aralarındaki sözleşmeye ilişkin bilgileri usul ve esasları Kurum
+tarafından belirlenecek şekilde, sözleşmenin imzalanmasını takip eden otuz
+gün içinde Kuruma ulaştırır.
+(4)
+Yetkili kuruluş, denetlenen ile denetim sözleşmesi yapmadan önce BSD’nin
+kapsam ve planlamasını belirlemek amacıyla gerekli ön araştırmayı yapmak
+zorundadır. Ön araştırma kapsamında, denetim sürecini olumlu ya da olumsuz
+etkileyebilecek hususların varlığı ve yetkili kuruluş değişikliği halinde
+bunun nedenleri ile ilgili olarak önceki dönemlerde denetimi üstlenen
+yetkili kuruluşlardan bilgi talep edilebilir. Denetlenen, önceki yetkili
+kuruluşa cari dönem için sözleşme yaptığı yetkili kuruluşun unvanını
+bildirir ve talep edilen bilgilerin verilmesi için yetkilendirir. Önceki
+yetkili kuruluş, bu kapsamda kendilerinden talep edilen bilgileri vermek zorundadır.
+(5)
+BSD sözleşmelerinde, asgari olarak aşağıdaki unsurların bulunması
+zorunludur;
+a)
+Denetçinin uymakla yükümlü bulunduğu düzenlemeler,
+b)
+BSD’nin amacı, kapsamı varsa özel nedenleri,
+c)
+Yetkili kuruluş tarafından anlaşma kapsamında sunulacak hizmetler,
+ç)
+Tarafların sorumluluk ve yükümlülükleri,
+d)
+Denetimde görevlendirilecek denetçiler ile bunların yedekleri,
+e)
+Denetim ekibinde görevlendirilenlerin unvanları, öngörülen çalışma süreleri
+ve her biri için uygun görülen ücret tutarının ayrıntılı dökümü,
+f)
+Denetimin başlama ve bitiş tarihleri,
+g)
+BSD raporunun ve istenmesi halinde özel amaçlı denetim raporunun şekli ve
+bu raporların hazırlanma nedenleri,
+ğ)
+Denetim raporunun teslim edileceği tarih.
+(6)
+Denetçinin çalışma alanının önemli ölçüde sözleşme hükümlerine aykırı
+olarak sınırlandırılması, bilgi sistemleri ve bankacılık süreçlerine
+ilişkin bilgi ve belgelerin elde edilememesi veya benzeri durumların
+oluşması halinde sözleşme, yazılı gerekçe göstermek ve Kuruma önceden
+bildirimde bulunulmuş olması koşuluyla, yetkili kuruluş tarafından
+feshedilebilir. Yetkili kuruluş bu durumu, denetimden çekilme
+gerekçeleriyle birlikte derhal Kuruma bildirir. Çekilen yetkili kuruluş
+çalışma kâğıtlarını ve gerekli tüm bilgileri, yerine geçecek olan yetkili
+kuruluşun incelemesine imkân sağlamak ve istenilmesi halinde bu dokümanlara
+ait uygun kopyaları sağlamakla yükümlüdür. Çekilen yetkili kuruluşun yerine
+geçecek yetkili kuruluşun Kurum tarafından uygun görülmesi şarttır.
+(7)
+Denetçi, denetlenenin bazı faaliyetlerini destek hizmeti kuruluşu aracılığı
+ile yürütmesi halinde BSD sözleşmesinde, destek hizmeti kuruluşu bünyesinde
+denetim yapılabilmesini temin eden hükümler bulunmasını sağlar.
+SEKİZİNCİ BÖLÜM
+Bilgi Sistemleri ve Bankacılık Süreçleri Denetiminde
+İşbirliği
+Başka taraflarca yapılan çalışmalardan
+yararlanma ve işbirliği
+MADDE 37 – (1) Denetçi, görüşüne dayanak teşkil edecek temel
+kanıtları edinmek için yeterli çalışmayı bizzat gerçekleştirir. Bununla
+birlikte denetim çalışmasının yapı, zamanlama ve detay seviyesi açılarından
+genişletilmesi amacıyla diğer yetkili kuruluşların, denetlenenin iç
+sistemler birimlerinin ve uzman şahısların çalışmalarından yararlanabilir.
+(2)
+Başka taraflarca gerçekleştirilen çalışmalardan yararlanmak, denetçinin denetime
+ilişkin sorumluluğunu azaltmaz. Denetçi, yararlandığı çalışmalara raporunda
+referans veremez.
+(3)
+Denetçi, denetim çalışmasında, denetlenenin iç sistemlerinin yeterliliği ve
+bağımsızlığı hakkındaki kanaatine bağlı olarak, denetlenenin iç denetim ve
+iç kontrol faaliyetlerini göz önünde bulundurarak mümkün olduğunca
+tekrardan kaçınmaya özen gösterir.
+(4)
+Bağımsız bilgi sistemleri başdenetçisi, başka taraflarca gerçekleştirilen
+çalışmalardan hangi detay seviyesinde yararlanılabileceğinin tespiti için
+asgari olarak,
+a)
+Çalışmanın kapsamının uygunluğu ve denetim programının yeterliliğini,
+b)
+İncelenen kontrollerin yapısını,
+c)
+Çalışmayı gerçekleştiren şahısların mesleki yeterlilik, özen, tarafsızlık
+ve bağımsızlığını ve
+ç)
+Çalışmanın genelini değerlendirmeye yetecek kadarını test etmek suretiyle
+kalitesini
+değerlendirir.
+(5)
+Önceki BSD’yi gerçekleştiren yetkili kuruluş ve denetçi, denetimine esas
+teşkil eden her türlü bilgi ve belgeyi gizlilik ilkesi çerçevesinde, BSD’yi
+yapacak yetkili kuruluş ve kişilere sağlamakla yükümlüdür.
+(6)
+Denetlenenin iç denetçileri ve iç kontrol faaliyetlerinden sorumlu olanlar,
+kendi raporları dâhil ihtiyaç duyulan bütün bilgileri denetçilere vermekle
+yükümlüdürler.
+Kurum ve yetkili kuruluşlar arası
+işbirliği
+MADDE 38 – (1) Kurum tarafından denetlenen nezdinde
+gerçekleştirilen BSD faaliyetlerinde sağlanan bilgiler, gerektiğinde ilgili
+denetçiler ile paylaşılabilir.
+(2)
+Kurum personeli, yetkili kuruluşların BSD sürecinin her aşamasına, bilgi ve
+becerilerini geliştirmek amacıyla, denetçi bağımsızlığı ilkesini
+zedelemeksizin izleyici sıfatı ile eşlik edebilir. Kurum personeli, yetkili
+kuruluşun bilgi birikimini şahsına veya bir başka yetkili kuruluşa çıkar
+sağlamak için kullanamaz. Yetkili kuruluş, Kurum personelinin süreçte yer
+alması ve bilgi birikimini artırması bakımından gerekli katkı ve çabayı
+gösterir.
+(3)
+Yetkili kuruluş ikinci fıkra hükümlerinin uygulanmasına yönelik olarak
+bankalardaki denetim programını, Kurumun talebine bağlı olarak, denetim
+çalışmalarının fiilen başlamasından önce Kuruma bildirir.
+Destek hizmeti kuruluşunun denetlenmesi
+MADDE 39 – (1) Denetçi, denetlenenin dış kaynak kullanımı ile
+gerçekleştirdiği hizmetlerin bilgi sistemlerini ve bankacılık süreçlerini
+nasıl etkilediğini göz önünde bulundurur, denetimini buna göre planlar ve
+etkin bir denetim yaklaşımı geliştirir.
+(2)
+Denetçi, destek hizmeti kuruluşunun, sunduğu hizmete ilişkin sahip olduğu,
+güncelliğini yitirmemiş denetim raporu, sertifika gibi belgelerden bu
+Yönetmeliğin 37 nci maddesi kapsamında faydalanabilir.
+DOKUZUNCU BÖLÜM
+Bilgi Sistemleri ve Bankacılık Süreçleri Denetimi
+Raporu ve Bildirimi
+Bilgi sistemleri ve bankacılık
+süreçleri denetimi raporu
+MADDE 40 – (1) BSD raporu, önemlilik kavramı da dikkate
+alınarak, bilgi sistemleri ve bankacılık süreçleri üzerinde
+değerlendirmelere yer verilen ve denetçinin kanaatinin net bir dille yazılı
+olarak açıklandığı metindir. Denetçinin görevi, bilgi sistemleri ve
+bankacılık süreçleri üzerindeki kontroller hakkında denetim kanıtlarını toplayıp
+incelemek, değerlendirmek ve bu kanıtlar üzerinde bir sonuca ulaşarak
+denetim hakkında kanaat oluşturmaktır.
+(2)
+Denetçi, denetim çalışmaları sonrasında BSD raporunu düzenlemek zorundadır.
+Rapora ilişkin esas ve usûller Kurul tarafından düzenlenir.
+(3)
+BSD raporu, denetimin gerçekleştirildiği döneme ait faaliyetlerin tamamını
+kapsar. Tamamlanan raporlar, yetkili kuruluş sorumlu bilgi sistemleri
+bağımsız başdenetçisi veya bilgi sistemleri denetimi dış hizmet alımı ile
+gerçekleştirilmiş ise ilgili firmanın imzalamaya yetkili kıldığı kişi ile
+BDYFY’de tanımlanan sorumlu ortak başdenetçi tarafından imzalanır. Yetkili
+kuruluşun, bu Yönetmelikte sayılan tecrübe koşullarını sağlaması kaydıyla,
+bir sorumlu ortak başdenetçiyi bilgi sistemleri denetimini yürütmekle
+görevlendirmesi halinde, denetim raporu, sorumlu bilgi sistemleri
+başdenetçisi yerine diğer sorumlu ortak başdenetçi ile birlikte bu kişi
+tarafından imzalanabilir.
+(4)
+BSD raporu, Kurum tarafından aksi belirtilmedikçe, bağımsız denetim
+raporuyla birlikte tamamlanır ve yetkili kuruluşu temsil ve ilzama yetkili
+olanların imzasını taşıyan bir yazı ekinde denetlenenin yönetim kurulu başkanlığına,
+denetim komitesine ve iki nüsha olarak Kuruma iletilir. 15/1/2004 tarihli
+ve 5070 sayılı Elektronik İmza Kanunu hükümlerine göre oluşturulan güvenli
+elektronik imza ile imzalanmış BSD raporunun elektronik ortamdaki kopyası
+da aynı süre içerisinde Kuruma gönderilir.
+(5)
+BSD raporunun içeriği gizli bilgi niteliği taşır ve herhangi bir ortamda
+yayımlanmaz. Bu bilgilerin gizliliği ve güvenliği, Kurumun, yetkili
+kuruluşların, bu Yönetmelik kapsamında bağımsız denetim kuruluşlarının, dış
+hizmet sağlayan kuruluşların ve denetlenenin sorumluluğundadır.
+Denetlenenler, denetim sonuçlarını içerecek beyanatlar veremezler ve bu
+hususları reklam amaçlı kullanamazlar.
+ONUNCU BÖLÜM
+Çeşitli ve Son Hükümler
+Denetçilerinin bankalarda görev
+almaları
+MADDE 41 – (1) Denetçiler, son iki yıl içinde denetim
+sürecine katıldıkları bankalarda görev alamazlar.
+Yönetmelikte hüküm bulunmayan haller
+MADDE 42 – (1) Bu Yönetmelikte hüküm bulunmayan hallerde;
+BDYFY, uluslararası denetim standartları ve COBIT’te yer alan usul ve
+esaslar uygulanır.
+Yürürlükten kaldırılan yönetmelik
+MADDE 43 – (1) 16/5/2006 tarihli ve 26170 sayılı Resmî Gazete’de
+yayımlanan Bankalarda Bağımsız Denetim Kuruluşlarınca Gerçekleştirilecek
+Bilgi Sistemleri Denetimi Hakkında Yönetmelik yürürlükten kaldırılmıştır.
+Geçiş süreci
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihinden önce
+yetkilendirilmiş olan bağımsız denetim kuruluşları bu Yönetmelik
+hükümlerine tabi olup, bu kuruluşların denetçi yardımcısı dışındaki
+denetçilerinin ek-4, ek-5, ek-6 ve ek-7’de yer alan beyanları doldurarak
+31/5/2010 tarihine kadar Kuruma göndermeleri zorunludur.
+İstisna hükmü
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yayımı tarihi itibariyle
+yetkili kuruluşlarda fiilen bilgi sistemleri başdenetçisi unvanıyla
+çalışanların, bu Yönetmeliğin 18 inci maddesinin yedinci ve sekizinci
+fıkrasında sayılan koşulları sağladığı kabul edilir.
+Yürürlük
+MADDE 44 – (1) Bu Yönetmeliğin 33 üncü maddesi 1/1/2011
+tarihinde, diğer hükümleri 31/12/2009 tarihinden itibaren geçerli olmak
+üzere yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 45 – (1) Bu Yönetmelik hükümlerini Kurum Başkanı
+yürütür.
+Yönetmeliğin eklerini görmek için tıklayınız
