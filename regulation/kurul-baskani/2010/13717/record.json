@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.13717",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRONİK HABERLEŞME SEKTÖRÜNDE YETKİLENDİRMEYE İLİŞKİN İHALE YÖNETMELİĞİ",
+  "number": "13717",
+  "issuer": "Kurul Başkanı",
+  "issuer_slug": "kurul-baskani",
+  "path": "regulation/kurul-baskani/2010/13717",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13717&MevzuatTertip=5",
+  "source_sha256": "721c0d87243c1e538cc60408a55382145a740785178aa7b31d922be4acd7cf37",
+  "source_bytes": 61718,
+  "published": "2010-01-15",
+  "gazette": "27463",
+  "in_force": "2010-01-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.01.2010); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3547,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

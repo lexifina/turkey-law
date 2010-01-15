@@ -1,0 +1,2 @@
+Kurum görevlilerinin ceza sorumluluğu
+MADDE 38 – (1) İhale yetkilisi ile ihale komisyonlarının başkan ve üyeleri ile ihale işlemlerinden kullanım hakkı verilmesine kadar ihale sürecindeki her aşamada görev alan diğer ilgililerin; 34 üncü ve 35 inci maddelerde belirtilen fiil veya davranışlarda bulunduklarının, görevlerini kanuni gereklere uygun veya tarafsızlıkla yapmadıklarının, taraflardan birinin zararına yol açacak ihmalde veya kusurlu hareketlerde bulunduklarının tespiti halinde, haklarında yasal işlem yapılır.

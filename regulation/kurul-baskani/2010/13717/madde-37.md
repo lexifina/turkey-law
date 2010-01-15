@@ -1,0 +1,2 @@
+İsteklilerin ceza sorumluluğu
+MADDE 37 – (1) Kullanım hakkı verildikten sonra tespit edilmiş olsa dahi, 34 üncü maddede belirtilen fiil veya davranışlardan 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununa göre suç teşkil eden fiil veya davranışlarda bulunan gerçek veya tüzel kişiler ile o işteki ortak veya vekilleri hakkında Türk Ceza Kanunu hükümlerine göre ceza kovuşturması yapılmak üzere yetkili Cumhuriyet Savcılığına suç duyurusunda bulunulur.

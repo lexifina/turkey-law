@@ -1,0 +1,3 @@
+İhale komisyonu
+MADDE 11 – (1) İhale yetkilisi; biri komisyon başkanı olmak üzere, Kurum personelinden en az dört kişinin ve muhasebe veya malî işlerden sorumlu bir personelin katılımıyla kurulacak en az beş ve tek sayıda kişiden oluşan ihale komisyonunu, yedek üyeler de dâhil olmak üzere görevlendirir.
+(2) İhale komisyonu eksiksiz olarak toplanır. Komisyon kararları çoğunlukla alınır. Kararlarda üyeler çekimser kalamaz. Komisyon başkanı ve üyeleri oy ve kararlarından sorumludur. Karşı oy kullanan komisyon üyeleri, gerekçesini komisyon kararına yazmak ve imzalamak zorundadır. İhale komisyonunca alınan kararlar ve düzenlenen tutanaklar, komisyon başkan ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır.
