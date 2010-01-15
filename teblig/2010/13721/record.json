@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.13721",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 394)",
+  "number": "13721",
+  "path": "teblig/2010/13721",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13721&MevzuatTertip=5",
+  "source_sha256": "7a17bda6078372fd9e782d043f0592ad126f2a853843d74131825414fd43a2fe",
+  "source_bytes": 77281,
+  "published": "2010-01-15",
+  "gazette": "27463",
+  "in_force": "2010-01-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.01.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 770,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
