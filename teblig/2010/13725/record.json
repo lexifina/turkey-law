@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.13725",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU SOSYAL TESİSLERİNE İLİŞKİN TEBLİĞ (SAYI: 2010 - 4)",
+  "number": "13725",
+  "path": "teblig/2010/13725",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13725&MevzuatTertip=5",
+  "source_sha256": "48afd062962ce3c8431d41fb353840f29366779b47b309dd58531d01cc371f4e",
+  "source_bytes": 30043,
+  "published": "2010-01-17",
+  "gazette": "27465",
+  "in_force": "2010-01-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.01.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1810,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
