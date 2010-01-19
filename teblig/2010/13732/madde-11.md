@@ -1,0 +1,6 @@
+Hizmetin kesilmesi
+MADDE 11 – (1) Erişim yükümlüsü, Yönetmeliğin erişimin sınırlandırılmasına ilişkin hükümleri saklı kalmak kaydıyla, aşağıda yer verilen durumlarda, bu Tebliğ kapsamında işletmecilere sunduğu yerel ağa ayrıştırılmış erişim hizmetini Kurumun onayını almak şartıyla durdurabilir.
+a) İşletmeci ve işletmecinin aboneleri tarafından kullanılan cihazların yürürlükteki standartlara uymaması,
+b) Sunulan hizmetin, erişim yükümlüsünün yetkilendirmesi kapsamında yürütmekte olduğu hizmetlerin ve diğer işletmeciler tarafından sunulan hizmetlerin kalitesini bozan elektromanyetik girişime neden olması.
+(2) Yukarıda yer verilen durumların düzeltilmesi halinde erişim hizmetinin sunulmasına devam edilir.
+(3) Erişim yükümlüsü, yukarıda belirtilen durumların dışında, haberleşmede kesinti doğuran ve işletmeciye önceden bildirimin mümkün olmadığı, elektromanyetik girişim de dâhil, hizmetlerin acilen durdurulmasını gerektiren hallerin ortaya çıkması durumunda, bu Tebliğ kapsamındaki yükümlülüklerini hangi kapsam ve sürede yerine getiremeyeceğini hizmetin kesilmesini takip eden bir (1) iş günü içerisinde yazılı olarak Kuruma ve ilgili işletmeciye bildirir. Söz konusu durumun sona ermesi ile, hizmetin sunulmasına devam edilir.

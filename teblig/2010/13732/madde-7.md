@@ -1,0 +1,4 @@
+Yardımcı hizmetler
+MADDE 7 – (1) 31/12/2003 tarihli ve 25333 sayılı Resmî Gazete’de yayımlanan Ortak Yerleşim ve Tesis Paylaşımı Usul ve Esaslarına İlişkin Tebliğ hükümleri saklı kalmak kaydıyla, erişim yükümlüsü, yerel ağa ayrıştırılmış erişim sağlama yükümlülüğü kapsamında, talepte bulunan işletmecilere kendi tesislerinde ortak yerleşim hizmetini, taşıma ve tesis paylaşımı hizmetini ve bu hizmetlerin sunumunda gerekli olan enerji, iklimlendirme, güvenlik gibi yan hizmetleri sağlar.
+(2) Ortak yerleşime ve tesis paylaşımına ilişkin ücretlerin belirlenmesinde 31/12/2003 tarihli ve 25333 sayılı Resmî Gazete’de yayımlanan Ortak Yerleşim ve Tesis Paylaşımı Usul ve Esaslarına İlişkin Tebliğ hükümleri uygulanır.
+(3) Birinci fıkra kapsamındaki taşıma hizmetleri için ilgili mevzuat ve Kurum düzenlemeleri çerçevesinde yürürlüğe giren tarifeler uygulanır.

@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.13732",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YEREL AĞA AYRIŞTIRILMIŞ ERİŞİME İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "number": "13732",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "path": "teblig/2010/13732",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13732&MevzuatTertip=5",
+  "source_sha256": "6c464006496a84f1a5e224d62816feafe7ef1b7017ffaff8a3b67759f811c155",
+  "source_bytes": 39716,
+  "published": "2010-01-19",
+  "gazette": "27467",
+  "in_force": "2010-01-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.01.2010); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1809,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
