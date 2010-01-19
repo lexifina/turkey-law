@@ -1,0 +1,4 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Merkezin çalışmalarına önerileri ile katkıda bulunan bir organdır. Üniversitede anadolu medeniyetleri ve kültürel miras konularında çalışan öğretim elemanları ile Merkezin faaliyet konularında çalışan veya çalışmak isteyen kişi, kurum ve kuruluş temsilcileri arasından Yönetim Kurulunca seçilen ve Rektör tarafından görevlendirilen en az beş, en fazla yirmibeş üyeden oluşur.
+(2) Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyelerin veya süresi dolmadan ayrılan üyelerin yerine kalan süreyi tamamlamak üzere aynı usulle yenileri seçilir ve görevlendirilir. Danışma Kurulu toplantılarına üç kez üst üste mazeretsiz katılmayan üyelerin üyeliği düşer.
+(3) Danışma Kurulu; yılda en az bir kez Müdür tarafından toplantıya çağrılır ve Müdürün başkanlığında toplanır. Toplantılarda çoğunluk koşulu aranmaz. Danışma Kurulu kararları toplantıya katılanların salt çoğunluğu ile alınır.

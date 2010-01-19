@@ -1,0 +1,2 @@
+Danışma kurulunun görevleri
+MADDE 13 – (1) Danışma Kurulunun görevi; Merkezin faaliyetleriyle ilgili proje önerilerinde bulunmak, projelerin geliştirilmesine yardımcı olmak, anadolu medeniyetleri ve kültürel miras konularında uzman kişilerin Merkeze destek olmasını sağlamak, belirli konularda Yönetim Kuruluna yardımcı olmak üzere çalışmalar yapmak ve Merkezin elindeki kaynakların geliştirilmesi için destek olmaktır.
