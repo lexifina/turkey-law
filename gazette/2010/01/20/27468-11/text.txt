@@ -1,0 +1,206 @@
+20 Ocak 2010 ÇARŞAMBA
+Resmî Gazete
+Sayı : 27468
+TEBLİĞ
+Türkiye
+Cumhuriyet Merkez Bankasından:
+ÇEK DEFTERLERİNİN BASKI ŞEKLİNE, BANKALARIN HAMİLE
+ÖDEMEKLE YÜKÜMLÜ OLDUĞU MİKTAR İLE ÇEK DÜZENLEME VE ÇEK HESABI
+AÇMA YASAĞI KARARLARININ BİLDİRİLMESİNE VE
+DUYURULMASINA İLİŞKİN TEBLİĞ
+(SAYI: 2010/2)
+Amaç ve kapsam
+MADDE 1 – (1) Bu
+Tebliğin amacı;
+a)
+Çek defterlerinin baskı şekline ilişkin esasları,
+b)
+Çekin karşılığının tamamen veya kısmen bulunmaması halinde muhatap bankanın
+hamile ödemekle yükümlü olduğu miktarı,
+c)
+Çek düzenleme ve çek hesabı açma yasağı kararları ile bu kararların ortadan
+kaldırılmasına dair kararlara ilişkin bilgilerin Adalet Bakanlığınca
+Türkiye Cumhuriyet Merkez Bankasına bildirilmesine ve Türkiye Cumhuriyet
+Merkez Bankasınca bankalara duyurulmasına ilişkin esas ve usulleri,
+düzenlemektir.
+Dayanak
+MADDE 2 – (1) Bu
+Tebliğ, 14/12/2009 tarihli ve 5941 sayılı Çek Kanununun 2, 3, 5, 6 ve
+geçici 1 inci maddelerine dayanılarak hazırlanmıştır.
+Çek defterlerinin baskı şekli
+MADDE 3 – (1) Çek
+defterleri bankalarca tacir olan ve tacir olmayan kişilere verilecek çekler
+ile hamiline düzenlenecek çekler açıkça ayırt edilebilecek şekilde aşağıda belirtilen esaslara göre
+bastırılır.
+a)
+Çek defterleri, yapraklarının boyutları koçan hariç eni 76 mm., boyu 166
+mm. olmak üzere ve çek tutar alanı sağ üst köşeye gelecek şekilde
+bastırılır.
+b)
+Çek yapraklarının basımında CBS-1 standardında manyetik kodlamaya imkan
+veren kağıtlar kullanılmalı ve kullanılacak kağıtlar organik asitler,
+anorganik asitler, alkaliler, klor bileşikleri ve organik çözücüler ile
+tahrifata karşı duyarlı olmalıdır.
+c)
+Çek defterlerinin her yaprağına, çek numarası, çek hesap numarası, çek
+hesabının bulunduğu banka şubesinin adı, çek hesabı sahibi gerçek kişinin
+adı ve soyadı, çek hesabı sahibi tüzel kişinin adı, çek hesabı sahibi
+gerçek veya tüzel kişinin Vergi Kimlik Numarası ile tüzel kişi adına çek
+düzenleyen kişinin adı ve soyadının yazılmasına ve imzaya imkan verecek
+ibareler konulur.
+d)
+Tacir olan ve tacir olmayan kişilere verilecek çekler ile hamiline
+düzenlenecek çekleri açıkça ayırt edebilmek amacıyla aşağıda yer alan
+esaslar uygulanır.
+1)
+Tacir çeklerinde zemini lacivert (renk kodu: PANTONE 314 U) olan çerçeve
+içerisinde beyaz renkte (negatif görüntü) ve büyük harflerle “TACİR”
+ibaresi yer alır.
+2)
+Hamiline düzenlenen tacir çeklerinde zemini kırmızı (renk kodu: PANTONE
+Warm Red U) olan çerçeve içerisinde beyaz renkte (negatif görüntü) ve büyük
+harflerle, Hamiline ifadesi ikinci satırda olmak üzere, “TACİR HAMİLİNE”
+ibaresi yer alır. Ayrıca bu tür çekler, lehtar ismi için ayrılan kısımda
+“HAMİLİNE” ibaresi yer alacak şekilde bastırılır.
+3)
+Tacir olmayan kişi çeklerinde zemini yeşil (renk kodu: PANTONE 384 U) olan
+çerçeve içerisinde beyaz renkte (negatif görüntü) ve büyük harflerle “TACİR
+OLMAYAN” ibaresi yer alır.
+4) Hamiline
+düzenlenen tacir olmayan kişi çeklerinde zemini kahverengi (renk kodu:
+PANTONE 168 U) olan çerçeve içerisinde beyaz renkte (negatif görüntü) ve
+büyük harflerle, Hamiline ifadesi ikinci satırda olmak üzere, “TACİR
+OLMAYAN HAMİLİNE” ibaresi yer alır. Ayrıca bu tür çekler, lehtar ismi için
+ayrılan kısımda “HAMİLİNE” ibaresi yer alacak şekilde bastırılır.
+Bu
+bentte belirtilen çerçeve, çek yaprağının üst kısmında yer alır. Eni 6 mm.,
+boyu 22 mm. olması gereken çerçevenin içerisinde yer alan ibarelerin yazı
+karakteri Helvetica Bold, ölçüsü 7 punto olacak şekilde bastırılır.
+e)
+Çek yaprakları MICR-Manyetik Mürekkepli Karakter Okuma (Magnetic Ink
+Character Recognition) yöntemi ile ve E-13B kodlama standardı kullanılarak
+manyetik mürekkep ile kodlanır. Çek yapraklarının alt kısmında kodlama
+alanı için 16 mm.’lik boşluk bırakılır. Kodlama alanının sağ ve sol
+köşelerinden yatay olarak 7,937 mm., alt ve üst kısmından da dikey olarak
+6,35 mm.’lik boşluklar bırakılmak suretiyle bulunan kodlama satırı üzerine
+soldan itibaren çek numarası, banka ve şube isimlerini tanımlayan banka ve
+şube kodu, hesap numarası ve çek tutarına ilişkin bilgiler aşağıda
+gösterilen karakter ve sembol sayıları dikkate alınarak kodlanır.
+Karakter
+Sembol
+Kodlanacak Bilgi
+Sayısı Sayısı
+Çek numarası 7 2
+Banka kodu 3 1
+Şube Kodu 4 1
+Hesap Numarası 16 1
+Tutar 11 1
+Semboller,
+çekin sağ kenarından başlayarak tutar, hesap numarası, şube ve banka
+kodunun başlangıcında, çek numarası kodunun başlangıç ve bitiminde
+kullanılır. Kodlama alanındaki her karakterin uzunluğu 3,175 mm.dir.
+Bankalar
+bu Tebliğ esaslarına ve kodlamayı gösteren Ek-1’de yer alan örneğe göre
+bastırdıkları çek defterlerini, tutar kodu dışındaki kodlarını
+tamamladıktan sonra hesap sahiplerine verirler.
+f)
+(d) bendi hükümleri saklı kalmak kaydıyla bankalarca çek yaprakları
+istenilen renk ve desende bastırılabilir. Üzerine amblem, resim
+konulabilir.
+g)
+Çek yaprakları üzerine lehtar imzasının alınmasına imkan verecek şekilde
+bir ibare konulabileceği gibi, “yukarıda imzası bulunan” ibaresi de
+eklenebilir.
+h)
+Çek defterlerinin ihtiva edeceği çek yapraklarının adedi, Kanunun 2 nci
+maddesi çerçevesinde yapacakları değerlendirme sonucu üstlenecekleri
+riskler de dikkate alınarak bankalarca tespit edilir.
+i)
+Çeklerin basımında, Çek Kanunu ile bu Tebliğde belirtilen hususlarla
+birlikte, çekin keşide yeri ve keşide tarihi dahil, Türk Ticaret Kanununda
+yer alan çekin şekline ilişkin diğer unsurlar da göz önünde bulundurulur.
+Bankanın sorumlu olduğu miktar
+MADDE 4 – (1)
+Muhatap banka, ibraz eden düzenleyici dışındaki hamile, süresinde ibraz
+edilen her çek yaprağı için;
+a)
+Karşılığının hiç bulunmaması halinde,
+1)
+Çek bedeli altıyüz Türk Lirası veya üzerinde ise altıyüz Türk Lirası,
+2)
+Çek bedeli altıyüz Türk Lirasının altında ise çek bedelini,
+b)
+Karşılığının kısmen bulunması halinde,
+1)
+Çek bedeli altıyüz Türk Lirası veya altında ise çek bedelini aşmamak
+koşuluyla, kısmi karşılığı altıyüz Türk Lirasına tamamlayacak bir miktarı,
+2)
+Çek bedeli altıyüz Türk Lirasının üzerinde ise çek bedelini aşmamak
+koşuluyla, kısmi karşılığa ilave olarak altıyüz Türk Lirasını
+ödemekle
+yükümlüdür.
+Çek düzenleme ve çek hesabı
+açmaya ilişkin yasaklama ve ortadan kaldırma kararlarının bildirimi
+MADDE 5 – (1) Çek Kanununun 5 ve 6
+ncı maddeleri kapsamında verilen çek düzenleme ve çek hesabı açma yasağı
+ile bu yasağın kaldırılmasına ilişkin kararlara ait bilgiler, güvenli
+elektronik imza ile imzalandıktan sonra Adalet Bakanlığı Ulusal Yargı Ağı
+Bilişim Sistemi (UYAP) aracılığıyla Türkiye Cumhuriyet Merkez Bankası İdare
+Merkezine elektronik ortamda haftalık olarak bildirilir.
+(2)
+Birinci fıkrada yer alan mahkeme kararlarına ilişkin bildirimlerde;
+a)
+Kararın türü (çek düzenleme ve çek hesabı açma yasağı kararı/çek düzenleme
+ve çek hesabı açma yasağının kaldırılması kararı),
+b)
+Mahkeme adı,
+c)
+Karar tarihi,
+d)
+Karar numarası,
+e)
+Kararın kesinleşme tarihi,
+f)
+Dosya numarası,
+g)
+Yasaklılık süresi,
+h)
+Çek yasaklısı;
+-
+gerçek kişi ise Türkiye Cumhuriyeti Kimlik Numarası, adı ve soyadı, baba
+adı, anne adı, doğum yeri, doğum tarihi, nüfusa kayıtlı olduğu
+il/ilçe/mah./köy bilgileri,
+-
+tüzel kişi ise Vergi Kimlik Numarası ve unvanı
+yer
+alır.
+(3)
+Birinci ve ikinci fıkraya göre yapılacak bildirimlere ilişkin esas ve
+usuller Adalet Bakanlığı ile Türkiye Cumhuriyet Merkez Bankası arasında
+yapılacak protokolle belirlenir.
+(4)
+Birinci ve ikinci fıkraya göre yapılacak bildirimlerde yer alan bilgiler,
+Türkiye Cumhuriyet Merkez Bankasınca bir hafta içinde ilgili bankaların
+genel müdürlüklerine elektronik ortamda duyurulur.
+Döviz çekleri
+MADDE 6 – (1) Bu
+Tebliğ hükümleri döviz çekleri için de uygulanır.
+GEÇİCİ MADDE 1 – (1) Mahkemelerce
+verilmiş çek düzenleme ve çek hesabı açmaya ilişkin yasaklama ve ortadan
+kaldırma kararlarından kesinleşme tarihi 31/05/2010 tarihine kadar olanlara
+ilişkin bilgiler mülga 3167 sayılı Kanun uyarınca çıkarılan 2003/1 sayılı
+Tebliğ esasları çerçevesinde Türkiye Cumhuriyet Merkez Bankasına bildirilmeye
+devam olunur.
+GEÇİCİ MADDE 2 – (1) Bu Tebliğden
+önce yayımlanan Tebliğlere göre bastırılan çeklerden ötürü muhatap banka,
+süresinde ibraz edilen çekin karşılığının bulunmaması halinde her çek
+yaprağı için beşyüz Türk Lirasına kadar ve kısmen karşılığının bulunması
+halinde ise bu miktarı her çek yaprağı için beşyüz Türk Lirasına tamamlayacak
+biçimde ödeme yapmakla yükümlüdür.
+Yürürlük
+MADDE 7 – (1) Bu
+Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 8 – (1) Bu
+Tebliğ hükümlerini Türkiye Cumhuriyet Merkez Bankası Başkanı yürütür.
+Ek: 1 Çek Yaprağı Örneği
