@@ -1,0 +1,4 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür, Danışma Kurulunun kendi üyeleri arasından seçeceği bir, Üniversite Yönetim Kurulunun seçeceği üç ve Bakanlığın KUGM’de Daire Başkanı ve üzeri görevde bulunanlar arasından görevlendireceği iki kişi olmak üzere toplam yedi üyeden oluşur. Yönetim Kurulu üyelerinin görev süresi 3 yıldır. Süresi dolan üye yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyenin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir.
+(2) Müdür aynı zamanda Yönetim Kurulunun başkanıdır.
+(3) Yönetim Kurulu; başkanın çağrısı üzerine en az ayda bir kez olağan ve gerekli hallerde olağanüstü olmak üzere üye tam sayısının salt çoğunluğu ile toplanır ve kararlar oyçokluğu ile alınır. Üst üste iki kez veya bir yılda toplam üç kez mazeretsiz olarak Yönetim Kurulu toplantısına katılmayan üyelerin üyeliği düşer.
