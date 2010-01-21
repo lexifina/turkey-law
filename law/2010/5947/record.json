@@ -1,0 +1,109 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5947",
+  "year": 2010,
+  "title": "Üniversite ve Sağlık Personelinin Tam Gün Çalışmasına ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2010-01-21",
+  "adopted_as_published": "21/01/2010",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "31.1.2010 No: 27478",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc094/kanuntbmmc094/kanuntbmmc09405947.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 94",
+  "committee_reports": [
+    {
+      "label": "TBMM 418 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c058/tbmm23058047ss0418.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 740966,
+      "title": "Üniversite ve Sağlık Personelinin Tam Gün Çalışmasına ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "21/01/2010",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc094/kanuntbmmc094/kanuntbmmc09405947.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 418 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c058/tbmm23058047ss0418.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 58,
+          "sitting": 47,
+          "sitting_date": "2010-01-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c058/tbmm23058047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c058/tbmm23058fih.pdf",
+          "pages": [
+            "914:936"
+          ]
+        },
+        {
+          "cilt": 58,
+          "sitting": 48,
+          "sitting_date": "2010-01-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c058/tbmm23058048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c058/tbmm23058fih.pdf",
+          "pages": [
+            "962:971",
+            "971:977",
+            "982:1036"
+          ]
+        },
+        {
+          "cilt": 59,
+          "sitting": 49,
+          "sitting_date": "2010-01-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c059/tbmm23059049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c059/tbmm23059fih.pdf",
+          "pages": [
+            "77:94",
+            "97"
+          ]
+        },
+        {
+          "cilt": 59,
+          "sitting": 50,
+          "sitting_date": "2010-01-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c059/tbmm23059050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c059/tbmm23059fih.pdf",
+          "pages": [
+            "222:286"
+          ]
+        },
+        {
+          "cilt": 59,
+          "sitting": 51,
+          "sitting_date": "2010-01-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c059/tbmm23059051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c059/tbmm23059fih.pdf",
+          "pages": [
+            "462:473",
+            "474:484",
+            "502:517"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=548&v_gelecek_sayfa=201&v_kullanici_id=27483202",
+      "page_sha256": "49eecd887f3141b32ad3086ae1167bf4c8016f4a09ec748496d4beadfea50db9"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "49eecd887f3141b32ad3086ae1167bf4c8016f4a09ec748496d4beadfea50db9",
+  "issuer": "TBMM",
+  "in_force": "2010-01-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/01/2010; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
