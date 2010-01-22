@@ -1,0 +1,3 @@
+Üçüncü ülkelerden ithalat
+MADDE 20 – (1) Üçüncü ülkelerden yapılan ithalatın toplam ithalat içindeki payı incelendiğinde, bu ülkelerden yapılan ithalatın artışının genel ithalat artışının gerisinde olması nedeniyle toplam içindeki payının gerilediği görülmektedir. Ayrıca, üçüncü ülkeler kaynaklı ithalatın ortalama birim fiyatları soruşturma konusu ülke menşeli ithalatın birim fiyatlarının oldukça üzerinde seyretmektedir.
+(2) Sonuç olarak, diğer ülkeler kaynaklı soruşturma konusu ürünün ithalatı, gerek miktarı ve piyasa payındaki eğilim, gerekse fiyatları itibariyle bu aşamada yerli üretime zarar verebilecek boyutta görülmemektedir.

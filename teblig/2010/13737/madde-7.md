@@ -1,0 +1,3 @@
+Maddenin ithalatında uygulanan gümrük vergisi ve diğer yükümlülükler
+MADDE 7 – (1) 5407 GTİP’te yer alan sentetik filametten mensucatın giyimlik olanları için soruşturma konusu ülke olan ÇHC menşeli olanların ithalinde %70,44 oranında, Filipinler, Tayvan, Tayland, Güney Kore ve Malezya menşeli olanların ithalinde %8,67 ile %70,44 arasında değişen oranlarda dampinge karşı önlem mevcuttur. Ancak, perdelik ve döşemelik olan mensucat için herhangi bir önlem söz konusu değildir.
+(2) Soruşturma konusu maddenin gümrük vergileri, AB (Avrupa Birliği), STA (Serbest Ticaret Anlaşması) ülkeleri ile E.A.G.Ü ve Ö.T.D.Ü ülkeleri için sıfır, G.Y.Ü. (Gelişme Yolundaki Ülkeler) için %6,4, soruşturma konusu ülke olan ÇHC’nin de aralarında bulunduğu diğer ülkeler için ise %8’dir.
