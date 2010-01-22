@@ -1,0 +1,4 @@
+Dampingli ithalat
+MADDE 16 – (1) Maddenin soruşturma konusu ülkeden ithalatı 2005 yılında 1.558.565 Kg’dan, 2006 yılında 4.011.645 Kg’a, 2007 yılında 7.870.843 Kg’a yükselmiş, 2008 yılında ise 8.738.854 Kg olarak gerçekleşmiştir. Söz konusu ithalat miktar bazında 2005 yılından soruşturma dönemi olan 2008 yılına gelindiğinde 5,5 kattan fazla bir artış göstermiştir.
+(2) Söz konusu ithalatın toplam ABD Doları değeri ise 2005 yılında 8.586.542’den, 2006 yılında 14.438.835’e, 2007 yılında 20.175.914’e, 2008 yılında ise 30.446.795’e yükselmiştir.
+(3) Maddenin soruşturma konusu ülkeden ithalatının toplam ithalat içindeki payı 2005 yılından 2008’e kadar sırasıyla %51,78, %66,35, %78,75 ve %77,26 olarak gerçekleşmiştir. Aynı dönemde ÇHC’den yapılan ithalatın birim fiyatları ise sırasıyla 1,45, 1,16, 1,12, 1,64 ABD Doları/Kg olarak gerçekleşmiştir.
