@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.13741",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞİ(2010/5)",
+  "number": "13741",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2010/13741",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13741&MevzuatTertip=5",
+  "source_sha256": "a75f0c98b10e9195645ed32787a74083c46959a316746b2f84f6a704336951da",
+  "source_bytes": 18342,
+  "published": "2010-01-22",
+  "gazette": "27470",
+  "in_force": "2010-01-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.01.2010); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 851,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 4 – (1) 20/6/2009 tarihli ve 27264 sayılı Resmî Gazete’de yayımlanan 2009/19 sayılı İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ vasıtasıyla mezkur ürünün yerli üreticilerinin bir nihai gözden geçirme soruşturması açılması talebinde bulunabilecekleri ilan edilmiştir.
+(2) Bu çerçevede gerçekleştirilen başvurunun incelenmesi neticesinde, ÇHC menşeli bahse konu maddeye uygulanan dampinge karşı kesin önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin bir nihai gözden geçirme soruşturması açılması için yeterli delillerin bulunduğu anlaşılmıştır.
