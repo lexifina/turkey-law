@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 4 – (1) Uygulanmakta olan önlemlerin yürürlükten kalkma süresinin bitiminden önce 20/6/2009 tarih ve 27264 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2009/19 sayılı Tebliğ ile bir nihai gözden geçirme soruşturması açılması talebinde bulunulabileceği ilan edilmiştir.
+(2) Yapılan inceleme neticesinde, ÇHC menşeli önleme konu ürünler için uygulanan dampinge karşı önlemlerin yürürlükten kalkması halinde dampingin ve zararın devam edebileceğine veya yeniden meydana gelebileceğine ilişkin bir nihai gözden geçirme soruşturması açılması için yeterli delillerin bulunduğu anlaşılmıştır.
