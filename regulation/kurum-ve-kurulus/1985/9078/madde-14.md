@@ -1,0 +1,1 @@
+Madde 14- Cami ve Mescidler ile bunların çevresinin bakım, onarım, temizlik ve tanzimi gibi hizmetlerin yürütülmesinde, bu yönetmelikte hüküm bulunmayan hallerde, Başkanlık ve Genel Müdürlük mevzuatının ilgili hükümleri uygulanır.
