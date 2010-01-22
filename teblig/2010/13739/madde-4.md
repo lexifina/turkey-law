@@ -1,0 +1,4 @@
+Damping iddiası
+MADDE 4 – (1) Bu aşamada, ÇHC’nin piyasa ekonomisi uygulamayan bir ülke olarak değerlendirilmesi nedeniyle, Yönetmelik’in 7 nci maddesi uyarınca şikâyet konusu malın Türkiye’deki üretim maliyetine makul bir kâr oranı eklenmek suretiyle hesaplanan oluşturulmuş değer normal değer olarak alınmıştır. Normal değer fabrika çıkış aşamasında tespit edilmiştir.
+(2) Şikâyet konusu ülkeden Türkiye’ye gerçekleştirilen satışların ihraç fiyatının belirlenmesinde, yerli üretim dalı tarafından temin edilen ÇHC’de yerleşik büyük çaplı tedarikçilerin fabrika çıkış aşamasındaki fiyat tekliflerinin ağırlıklı ortalaması esas alınmıştır.
+(3) Normal değer ile Türkiye’ye ihraç fiyatının mümkün olduğu ölçüde aynı ticari aşamada (fabrika çıkış aşaması) karşılaştırılması yoluyla cam elyafı takviye malzemelerinin dört farklı ürün grubu için ayrı ayrı hesaplanan damping marjlarının ÇHC menşeli şikayete konu ürün için önemli oranlarda olduğu görülmüştür.
