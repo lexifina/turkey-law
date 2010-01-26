@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.13747",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2010 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ (SIRA NO: 5)",
+  "number": "13747",
+  "path": "teblig/2010/13747",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13747&MevzuatTertip=5",
+  "source_sha256": "b0546e49a4ff9d42cacb9cc4c0d62a8ccc92de080da361d7e75494ce49d483d0",
+  "source_bytes": 8883,
+  "published": "2010-01-26",
+  "gazette": "27474",
+  "in_force": "2010-01-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.01.2010); own commencement article: \"Bu Tebliğ, 1/1/2010 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 1/1/2010 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 312,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
