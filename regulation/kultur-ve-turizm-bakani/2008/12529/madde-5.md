@@ -1,0 +1,12 @@
+İKİNCİ BÖLÜM
+Ceza Uygulamaları
+Cezalar
+MADDE 5 – (1) Kanunun beşinci bölümünde yer alan ceza hükümleri uyarınca, belgeli turizm yatırım ve işletmelerine verilecek uyarma cezası, para cezası ve belge iptali cezası bu Yönetmelik hükümlerine göre uygulanır.
+(2) 11/3/1983 tarihli ve 83/6181 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Turizm Yatırım, İşletme ve Kuruluşlarının Denetimi Hakkında Yönetmelik hükümleri uyarınca Bakanlık kontrolörleri ve müfettişleri dışındaki kişi veya kişiler tarafından denetim yapılması halinde belirlenen tespitlerin cezayı gerektirmesi durumunda, bu ceza ancak Bakanlık kontrolörleri veya müfettişleri tarafından ve gerekli inceleme ve değerlendirme yapıldıktan sonra verilebilir. Yapılacak değerlendirmede; belirlenen kusur, aksaklık ve eksikliğin mevzuata açıkça bir aykırılık teşkil edip etmediği, mezkur Yönetmelik hükümleri uyarınca belirlenen denetleme elemanları tarafından ve anılan Yönetmelikte belirtilen denetim kapsamında tespit edilip edilmediği ile yatırım veya işletme hakkında yapılması önerilen işlemin açıkça belirtilip belirtilmediği dikkate alınır.
+(3) Cezalardaki bir yıllık sürenin hesabında, ilk cezanın tebliğ tarihi, izleyen cezaların ise cezayı gerektiren fiil veya fiillerin tespit tarihi esas alınır.
+(4) Turizm yatırımı ve işletmelerinde yapılan tespitler çerçevesinde ceza uygulanmasını gerektiren hallerde, kusur, aksaklık ve eksikliğin idarece tespit edildiği tarih esas alınır.
+(5) (Mülga:R.G-27/1/2010-27475)
+(6) Ceza tebligatına ilişkin işlem tamamlanmadan farklı bir hususa ilişkin yeni bir cezanın uygulanmasını gerektiren hallerde tebligatın yapılması beklenmeden yeni ceza veya cezalar uygulanır.
+(7) Bir denetim raporuyla birden fazla cezanın uygulanmış olması halinde, ceza sicili açısından işletme, bir ceza almış olarak değerlendirilir.
+(8) Kamu kurum ve kuruluşlarının, Bakanlıktan belgeli işletmelerde yaptıkları tespitler sonucunda, idari yaptırım uygulamaları nedeniyle işletmelere uygulanacak cezalarda, evrakın Bakanlığa giriş yaptığı tarihten önceki bir yıl içinde yapılan tespitler dikkate alınır. Bu cezalarda, idari yaptırıma ilişkin tespitin yapıldığı tarihteki ceza hükümleri ve miktarları uygulanır.
+(9) İlgili birim tarafından cezaların etkin bir şekilde takibinin sağlanması bakımından; turizm yatırımı ve işletmesi belgeli her bir tesis için, cezaların tayin edildiği tutanak tarihleri ile ceza tebliğ tarihlerini de içerecek şekilde bilgisayar ortamında ve tesis dosyalarında ceza sicili tutulur.
