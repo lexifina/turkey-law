@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-01-28",
+      "28.01.2010",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27476",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2010-01-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Atatürk Üniversitesi",
+  "issuer_slug": "ataturk-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ataturk-universitesi/2010/13751",
+  "published": "2010-01-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13751&MevzuatTertip=5",
+  "source_bytes": 24587,
+  "source_id": "8.5.13751",
+  "source_sha256": "94356dddf656f20fec3e9acbc3ec1b7e5bcf948d3b0d08596bc64c202923397c",
+  "text_status": "as-enacted",
+  "title": "ATATÜRK ÜNİVERSİTESİ ORTADOĞU VE ORTAASYA-KAFKASLAR UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 181,
+  "word_count": 1071
+}
