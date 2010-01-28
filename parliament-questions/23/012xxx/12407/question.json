@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 23,
+  "legislative_year": 4,
+  "esas_no": "7/12407",
+  "submitted": "2010-01-28",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Sacid YILDIZ",
+  "province": "İstanbul",
+  "summary": "Türkiye İş Kurumunun İstanbul'daki istihdam faaliyetlerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877be-660b-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "392394136b7338ef8c9b4366aa45b392af91c4925be66938c439aca58379a43f",
+  "in_force": "2010-01-28",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
