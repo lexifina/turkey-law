@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2409/5",
+  "decision_date": "2010-01-28",
+  "title": "2010 yılı ulusal doğal gaz tüketim tahmini, doğal gazın 9155 kcal /m3 üst ısıl değeri esas alınarak 37 ( otuzyedi ) milyar metreküp (393,68 milyar kWh ) olarak belirlenmesine ilişkin",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tChlTbVFPZo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tChlTbVFPZo="
+  ],
+  "source_sha256": "e7ff4e441047c840453e386013ae975aae769205077a39a4badc1df73c9b18a0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-01-28",
+  "law_text_complete": false
+}
