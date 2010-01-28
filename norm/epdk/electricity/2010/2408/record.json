@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2408",
+  "decision_date": "2010-01-28",
+  "title": "2010 yılı için uygulanacak serbest tüketici limiti",
+  "categories": [
+    "Serbest Tüketici"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S84CIkdbii8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S84CIkdbii8="
+  ],
+  "source_sha256": "4cfe89ebcaa2a5ff5083e9bcce1a4d38d2df67a0fdbdab85c32aab1d7df63084",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-01-28",
+  "law_text_complete": false
+}
