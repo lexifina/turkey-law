@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5948",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti ile Kuveyt Devleti Arasında İşbirliği İçin Ortak Komite Kurulmasına Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-01-29",
+  "gazette_issue": "27477",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/01/20100129-1.htm",
+  "source_sha256": "a27f6e3e918ecce9e5d5bc66a36b495d57f80712c683b23be3d5bf43f0f3569d",
+  "text_sha256": "1f8c59422861acf8bab6e287153bdc0683b02e4d09ba7ff095bb35328f45566f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/01/29/27477-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/01/20100129-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
