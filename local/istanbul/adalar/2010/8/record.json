@@ -1,0 +1,24 @@
+{
+  "number": "8",
+  "number_as_published": "8",
+  "year": 2010,
+  "title": "İmar Komisyonunun hazırlamış olduğu Belediyemize ait 90 ada29 parsel, Maliye Hazinesine ait Burgazada 17 ada, 3 parsel, Heybeliada Turgut Reis sokak 8 pafta, 36 ada, 6 parsel, Heybeliada 56 ada, 1 parseldeki Abdülhamithan Çeşmesi, …",
+  "decision_date": "2010-02-01",
+  "source": "https://adalar.bel.tr/meclis-kararlari/2010-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-karari/",
+  "official_document": null,
+  "source_sha256": "feadfe6dcd1f6044ddb4b4b16fc6b518b375077108fdec09eaf44cedb357b548",
+  "issuer": "Adalar Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2010-02-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.02.2010 (Karar Tarihi printed above the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and subject as published in the year's official decisions post)",
+  "decision_number": "2010/8",
+  "official_page": "https://adalar.bel.tr/meclis-kararlari/2010-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-karari/"
+}
