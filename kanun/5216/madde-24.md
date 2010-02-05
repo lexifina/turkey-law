@@ -13,7 +13,7 @@ j) Dar gelirli, yoksul, muhtaç ve kimsesizler ile özürlülere yapılacak sosy
 k) Dava takip ve icra giderleri.
 l) Temsil, tören, ağırlama ve tanıtım giderleri.
 m) Avukatlık, danışmanlık ve denetim ödemeleri.
-n) Kamu yararı görülen konularda yurt içi ve yurt dışı kamu sektörü, özel sektör ve sivil toplum örgütleriyle birlikte yapılan ortak hizmetler ve diğer proje giderleri.
+n) (İptal: Anayasa Mahkemesi’nin 25/1/2007 tarihli ve E.: 2004/79, K.: 2007/6 sayılı Kararı ile.)
 o) Spor, sosyal, kültürel ve bilimsel etkinlikler için yapılan giderler.
 p) Büyükşehir belediye hizmetleriyle ilgili olarak yapılan kamuoyu yoklaması ve araştırması giderleri.
 r) Kanunla verilen görevler ve hizmetlerin yürütülmesi için yapılan diğer giderler.
