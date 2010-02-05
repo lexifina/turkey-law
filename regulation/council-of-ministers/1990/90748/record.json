@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "gazette": "20696",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2010-02-05",
+  "in_force_basis": "source amendment commencement table: 7/12/1999 17/1/2000 25/4/2000 4/1/2010 | 99/1377 2000/4 2000/660 2010/2 | - - - Mal Bildirim Formu | 31/12/1999 21/1/2000 15/5/2000 5/2/2010",
+  "issuer": "Council of Ministers",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "listing_gazette": "20696",
+  "listing_published": "1990-11-15",
+  "published": "1990-11-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=3&MevzuatNo=90748&MevzuatTertip=5",
+  "source_bytes": 203621,
+  "source_id": "3.5.90748",
+  "source_sha256": "55676cc0300db71923967824b5e0f17440671e9263d19678eda069342cf53830",
+  "title": "MAL BİLDİRİMİNDE BULUNULMASI HAKKINDA YÖNETMELİK",
+  "word_count": 2366
+}

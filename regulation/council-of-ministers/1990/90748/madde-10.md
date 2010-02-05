@@ -1,0 +1,2 @@
+Ek mal bildirimi
+Madde 10 – 3 üncü maddede sayılan görevlerde bulunanlar, eşleri velayeti altındaki çocukları ve kendilerinin şahsi mal varlıklarında önemli bir değişiklik olduğunda, değişikliği izleyen bir ay içinde yeni edindikleri mal, hak, gelir, alacak ve borçlara münhasır olmak üzere ek mal bildirimi vermek zorundadırlar. 8 inci maddede gösterilen mahiyet ve miktardaki malın iktisabı ile hak, alacak veya gelir sağlanması veya borçlanılması, mal varlığında önemli değişiklik sayılır.

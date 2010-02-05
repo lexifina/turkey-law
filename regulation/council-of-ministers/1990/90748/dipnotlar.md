@@ -1,0 +1,1 @@
+[1] 4/1/2010 tarihli ve 2010/2 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu formda yer alan “NÜFUS CÜZDAN SERİ NO” ibareleri “TÜRKİYE CUMHURİYETİ KİMLİK NUMARASI” olarak değiştirilmiş ve metne işlenmiştir.
