@@ -1,0 +1,2 @@
+Madde 49 – Gönderici, gerekli ücreti vermek şartıyle, ödeme şartlı gönderi için daha önce ödenmesini şart ettiği para miktarını arttırabilir, azaltabilir veya tamamen kaldırabilir. Böyle bir istek halinde göndericiye verilmiş olan alındının arkasına, keyfiyet şerh edilmekle beraber varış merkezine de bildirilir. Bu bilginin telgrafla verilmesi istenirse, gönderici telgraf ücretini de verir.
+Bu isteğin yerine getirilebilmesi için, buna ait haberin gönderinin alıcıya tesliminden önce varış yerine gelmiş olması şarttır.

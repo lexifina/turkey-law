@@ -1,0 +1,3 @@
+Tazminat verildikten sonra bulunan gönderiler:
+Madde 170 – Tazminat verildikten sonra bulunan gönderiler veya bunların içindekilerin bir kısmı, verilen tazminat geri alınarak sahibine teslim olunur. Eksiklik, bozukluk hallerinde geri alınacak tazminattan bu eksiklik veya bozukluğa isabet eden bedel indirilir.
+Gönderinin bulunduğu, yazı ile haber verildiği tarihten başlıyarak 3 ay içinde ilgili gelip bunu almazsa bütün hakları PTT'ye geçer. PTT bunu satarak bedelini gelir kaydeder. Şu kadarki, bulunan gönderide bir eksiklik veya bozukluk bulunmaz ve buna değerinden fazla tazminat verilmiş bulunduğu anlaşılırsa, PTT, genel hükümlere dayanarak verdiği fazla tazminatı ilgiliden isteyebilir.

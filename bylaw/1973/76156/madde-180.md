@@ -1,0 +1,2 @@
+Postaların yollarda açılıp yoklanamıyacağı:
+Madde 180 – Taşınan kapalı posta çuvalları ile mühürlü ve mühürsüz posta paket ve kolileri açıp muayene etmelerine PTT'ce izin verilmiş olan yetkili PTT memurlarından başka hiç kimse tarafından açılıp yoklanamıyacağı gibi, bunlar, kanunla belirtilen haller dışında, sıfat ve yetkileri ne olursa olsun, hiç kimse tarafından alıkonulamaz, açılamaz ve yoklanamaz.

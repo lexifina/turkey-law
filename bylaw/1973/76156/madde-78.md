@@ -1,0 +1,2 @@
+Malzeme ve onarma giderleri:
+Madde 78 – Teşhir edilecek ilan ve reklam malzemesinin takma, sökme ve gerektiğinde binaların ve malzemenin bozulan yerlerinin onarılması dahil her türlü giderleri ile basılacak damga ve klişelerin yapım, etiketlerin basım bedeli ilan ve reklam verene aittir. PTT, ilan ve reklam konulacak veya asılacak binaların onarma gideri için gerektiğinde depozito almaya yetkilidir.
