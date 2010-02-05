@@ -1,0 +1,2 @@
+Posta abone kutusu adresli alınmayan gönderiler:
+Madde 153 – Posta abone kutularına konulan adi mektup postası gönderileri, kutu kira süresinin bitimine kadar alınmazlar ve bunların kutu kiracısının yazılı isteğine rağmen konutunda da teslimi mümkün olmazsa, çıkış yerine geri gönderilir. Ancak taahhütlü mektup postası gönderileri, değer konulmuş mektup ve kutularla havaleler, geldikleri tarihten başlıyarak bir ay, ödeme şartlılar 15gün içinde alınmazsa çıkış yerine geri gönderilir.

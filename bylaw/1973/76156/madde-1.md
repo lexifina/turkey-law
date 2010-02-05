@@ -1,0 +1,2 @@
+Madde 1 – Posta gönderilerinin kabul edilmelerine, taşınmalarına ve dağıtılmalarına; havalelerle posta bonolarının düzenlenmesine ve ödenmesine; gazetelerle belli zamanlarda çıkan dergilere abone kaydedilmesine; kişiler hesabına alacak tahsil edilmesine; posta kimlik kartı verilmesine ve Posta Kanununun uygulanmasına ilişkin esaslar ve işlemler bu Tüzükte gösterilmiştir.
+PTT'nin kendi taşıtlariyle yolcu ve bagaj taşınmasına, posta çeklerine ve posta biriktirme sandığına ilişkin işlemler bu Tüzüğün kapsamı dışındadır.

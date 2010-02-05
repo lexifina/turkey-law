@@ -1,0 +1,2 @@
+Ödenemeyen havaleler:
+Madde 151 – Hazır bulunmadığı için alıcıya adresinde ödenemeyen ve alıcısı haber kağıdı ile PTT işyerine çağırıldığı halde bedeli alınmayan havaleler, gelişinden itibaren bir ay sonunda çıkış yerine geri gönderilir. Telgraf havaleleri hakkında çıkış yerine telgrafla bilgi verilir. Ödeme şartlı gönderilerin tahsil edilen bedellerine ait havalelerle tahsil edilmiş senet bedellerine ait havaleler ve mutemetler tarafından ilk göndericilere geri yollanan paralara ait havaleler çıkış yerine geri gönderilmez.

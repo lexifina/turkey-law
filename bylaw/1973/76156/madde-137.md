@@ -1,0 +1,2 @@
+Madde 137 – Alıcı adresinde bulunamazsa, adi ve taahhütlü mektup postası gönderileri, değer konulmuş mektup ve kutular, koliler ve havalelerin haber kağıtları kendisiyle birlikte oturan ailesi fertlerinden veya hizmetçilerinden yetişmiş olan birine, bunların da bulunmamaları halinde aynı yerde oturan müdür, memur, mal sahibi gibi kimselere verilebilir.
+Alıcının kendisine verilecek kaydını taşıyan taahhütlüler ve değer konulmuş mektup ve kutular:

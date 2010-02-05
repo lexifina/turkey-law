@@ -1,0 +1,4 @@
+Kabul edilmeyen veya alıcısı bulunamayan posta gönderileri:
+Madde 147 – Üzerinde yazılı adreste bulunamayan veya tanınmayan yahut yeni adresini bildirmeden başka yere giden veya alıcı tarafından kabul edilmeyen mektup postası gönderileriyle değer konulmuş mektup ve kutular ve posta havaleleri hemen çıkış yerlerine geri gönderilir. Telgraf havaleleri için de çıkış yerine telgrafla bilgi verilir.
+Alıcı adresinin değişmesi halinde, mektup postası gönderileriyle değer konulmuş mektup ve kutular ve havaleler, üzerinde göndericinin tekrar yollamaya engel bir şerhi bulunmadıkça alıcının yeni adresine gönderilir.
+Ödenmesi gerekli ücret ve resimleri veya ödenmesi şart edilen paraları ve senet bedelleri ödenmeyen, alındıları veya kayıtlı bulundukları defterdeki özel yerleri, alma veya ödeme haberleri yahut ibranameleri imza edilmeyen kayıtlı posta gönderileri ve havaleler için de birinci fıkra hükmü uygulanır.

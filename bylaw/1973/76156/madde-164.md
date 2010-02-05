@@ -1,0 +1,3 @@
+Posta kimlik kartlarında sorumluluk:
+Madde 164 – Bu Tüzüğün 75 inci maddesi veya Dünya Posta Sözleşmesi ve bunun İcra Tüzüğü hükümleri dairesinde yurtiçi veya yabancı memleketler posta merkezleri tarafından verilmiş bir posta kimlik kartının gösterilmesi üzerine alıcısına teslim edilen posta gönderileri ve ödenen havalelerden dolayı PTT, teslim veya ödemenin muntazam bir posta kimlik kartına dayanılarak yapıldığını ispat etmek şartıyle, sorumluluktan kurtulur.
+PTT, muntazam bir posta kimlik kartının kaybolmasından, çalınmasından veya hile ile kullanılmasından doğabilen sonuçlardan sorumlu tutulamaz.

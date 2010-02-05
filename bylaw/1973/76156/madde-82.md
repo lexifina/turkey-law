@@ -1,0 +1,2 @@
+Resmi daire ve kurumların propogandaları:
+Madde 82 – Yurdun kalkınması, savunması, halkın eğitimi, sağlık ve tarım mücadelelerine ilişkin propaganda, afiş, döviz, damga ve flamalar ilan ve reklam anlamının dışındadır. PTT, yetkili resmi daire ve kurumların yalnız bu konulara ilişkin propaganda, afiş, döviz, damga, flama ve klişelerini imkanları oranında ve ücret almaksızın PTT binalarına asabilir ve posta gönderilerine basabilir. Propaganda malzemesine ait giderler istekte bulunanlar tarafından karşılanır.

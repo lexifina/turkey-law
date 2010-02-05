@@ -1,0 +1,2 @@
+Ücret ödeme makineleriyle basılan ilan ve reklamlar:
+Madde 79 – PTT'nin izniyle ücret ödeme makinesi kullanan gerçek ve tüzel kişiler, 77 nci ve 78 inci maddeler hükümlerine uymak şartiyle yalnız kendi meslek ve işlerine ait ilan ve reklamları PTT ücret tarifesinde gösterilen ücreti ödeyerek kendi ücret ödeme makineleriyle kendi posta gönderilerine basabilirler. Sahibinin ad ve firmasından başka bir yazı ve işaret taşımayan klişelerin basılmasından dolayı ücret alınmaz.

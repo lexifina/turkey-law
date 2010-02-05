@@ -1,0 +1,6 @@
+Madde 135 – Serbestçe girilemeyen fabrika, büyük imalathane, tamirhane, maden ve kömür ocakları, tersane gibi yerlerle otellerde bulunanlara gelen adi ve taahhütlü mektup postası görderileri ve diğer kayıtlı posta gönderileriyle havalelerin haber kağıtları buraların müdürlerine veya bunların yazı ile gösterecekleri memurlarına verilir.
+Serbestçe girilemeyen veya açıkta demirlemiş bulunan gemilerdeki kimselere gelen adi ve taahhütlü mektup postası gönderileri, diğer kayıtlı posta gönderileriyle havalelerin haber kağıtları geminin mensup olduğu acentaya veya temsilcisine verilir.
+Okullardaki öğrencilere, mahpus ve tutuklulara ve hastanelerdeki hastalara gelen posta gönderileriyle paralar, buraların müdürlerine veya yazı ile gösterecekleri mutemetlerine verilir. Kayıtlı posta gönderileri ve havalelerin alıcılarının kendilerine teslim edilebilmesi veya ödenebilmesi için bunların haber kağıtlarının sözü geçen müdürler tarafından onanması gereklidir.
+Fakülte ve yüksek okul öğrencileri hakkında yukardaki fıkra hükmü uygulanmaz.
+Öğrenci yurtlarında kalan öğrenciler adına gelen adi ve taahhütlü mektup postası gönderileri, diğer kayıtlı posta gönderileriyle havalelerin haber kağıtları bu yurtların sorumlu idare amirleri veya bunların tayin edecekleri memurlarına verilir.
+Ordu mensuplarına gelen posta gönderilerinin ve havalelerin teslimi:

@@ -1,0 +1,4 @@
+Geri verilen posta gönderilerinin ve havalelerin ücretleri:
+Madde 114 – Gönderici tarafından geri alınan veya zorlayıcı sebepler dolayısiyle yerlerine kadar götürülemiyerek göndericiye geri verilen posta gönderilerinin ve havalelerin ücretleri geri verilmez.
+Zorlayıcı sebeplerle hava yolundan gönderilemeyerek kısmen veya tamamen başka taşıtlarla yollanan uçak postası gönderilerinin, uçak ek ücretleri geri verilmez.
+Yabancı memleketler için kabul edilmiş olan koliler, çıkış PTT işyerinde iken geri alındığı veya yurtdışına çıkarılmadan göndericinin isteği üzerine, yurtiçinde bir yerden çıkış yerine geri getirildiği takdirde, bunlardan yabancı memleketlere ait olarak alınmış bulunan ücret hisseleri ile hava ve deniz taşıma teşebbüslerine ait ücret hisseleri geri verilir. Ancak bu suretle geri getirilenlerden yurtiçine özgü taşıma ücreti ve gerektiğinde değerlendirme ücreti alınır.

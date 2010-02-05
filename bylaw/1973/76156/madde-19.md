@@ -1,0 +1,2 @@
+Küçük paketler:
+Madde 19 – Ticari değeri olsun veya olmasın, kullanılabilecek eşya ile yiyecek maddelerini kapsayan ve mektup postasıyle gönderilmek üzere postaya verilen gönderilere "küçük paket" denir ve alıcı adresinin bulunduğu tarafa göze çarpacak surette "küçük paket" deyimi yazılır. Dünya Posta Sözleşmesi ve bunun İcra Tüzüğünde bu konuda belirtilen şartlar, yurt içi küçük paketler için de uygulanır.

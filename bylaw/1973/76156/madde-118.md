@@ -1,0 +1,1 @@
+Madde 118 – Gönderici tarafından aynı zamanda alıcının aynı adresine gönderilmiş olan, aynı türden posta gönderileri ve havaleler hakkında aynı zamanda yapılacak geri alma, adres değiştirme, reklamasyon ve bilgi istekleri içinyalnız bir formül kullanılabilir. Bu takdirde bir tek gönderinin tabi olduğu ücret alınır.

@@ -1,0 +1,2 @@
+Tekrar yollamada alınacak ücret:
+Madde 112 – Göndericisine geri verilmek üzere çıkış yerine geri çevrilen veya adresleri değiştirilerek başka yere yahut aynı şehir içindeki diğer bir PTT işyerine gönderilen aşağıda yazılı posta gönderilerinin tekrar yollanmaları nedeniyle; değer konulmuş mektup ve kutulardan yalnız değerlendirme ücreti, kolilerden yollama ücreti ve bunların değer konulmuş olanlarından ayrıca değerlendirme ücreti alınır.
