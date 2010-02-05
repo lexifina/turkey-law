@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-02-05",
+  "issue": "27484",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TÜZÜKLER",
+  "title": "2010/9 Tasfiye Tüzüğünün Yürürlükten Kaldırılmasına Dair Tüzük",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100205-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100205.htm",
+  "index_sha256": "35b27ca263642cbfcdaabbebbbb391b370026b576fe66ff11ea0e0d049c38177",
+  "index_header": "5 Şubat 2010 ... 27484 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
