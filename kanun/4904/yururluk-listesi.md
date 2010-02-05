@@ -6,3 +6,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 5502 | 1 | 20/5/2006
 5728 | 14, 17, 20, 21 | 8/2/2008
 5763 | 13, 17, 20 | 26/5/2008
+5951 | 13 | 5/2/2010
