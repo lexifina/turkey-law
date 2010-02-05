@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5951",
+  "year": 2010,
+  "title": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-02-05",
+  "gazette_issue": "27484",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100205-1.htm",
+  "source_sha256": "12d3be8e8744070b2eed67f03a13c49c6adecb1909634596a96809281bc801a0",
+  "text_sha256": "8a7189589ce543f9e735a22f0bbd4010dc36491950754f8ea261b0ce24d0aab5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/02/05/27484-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100205-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
