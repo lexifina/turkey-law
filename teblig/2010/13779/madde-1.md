@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, Türk Gümrük Tarife Cetveli’nin uygulanmasında ve bazı eşyaların sınıflandırılmasında kolaylık sağlanması, Avrupa Birliği müktesebatı uyum çalışmaları çerçevesinde söz konusu Tarife Cetveli uygulamaları ile Avrupa Birliği Kombine Nomenklatürü uygulamaları arasında uyum ve yeknesaklığın temin edilmesi, tamamlayıcı ve yol gösterici bir unsur olarak Avrupa Birliği Kombine Nomenklatürü Açıklama Notları’nın yürürlüğe konulmasıdır.

@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.13779",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK TARİFE CETVELİ AÇIKLAMA NOTLARI) (SERİ NO: 2)",
+  "number": "13779",
+  "issuer": "Gümrük Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2010/13779",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13779&MevzuatTertip=5",
+  "source_sha256": "0bdba977483df845c61b8a6c7add1ebe11a6bd92283a99b701016731a4613309",
+  "source_bytes": 39006,
+  "published": "2010-02-06",
+  "gazette": "27485",
+  "in_force": "2010-02-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.02.2010); own commencement article: \"Bu Tebliğ, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 555,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13779%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
