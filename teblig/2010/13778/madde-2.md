@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ ulusal standartlara göre üretilen yapı malzemelerinin ve hakkında bir uyumlaştırılmış veya ulusal standart bulunmayan yahut bunlardan sapma gösteren malzemeler ile kendi başlarına güvenli oldukları kanıtlansa dahi birlikte piyasaya arz edilerek takım malzeme olan ürünlerin ve prototip malzemelerin bir ulusal teknik onay çerçevesinde uygunluk değerlendirmesi ile ilgili kural ve düzenlemeleri kapsar.

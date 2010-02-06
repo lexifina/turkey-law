@@ -1,0 +1,2 @@
+Hukuki dayanak
+MADDE 3 – (1) Bu Tebliğ, 180 karar sayılı Bayındırlık ve İskan Bakanlığı’nın teşkilat ve görevleri hakkında kanun hükmünde kararnamenin 30/A maddesine, 26/6/2009 tarihli ve 27270 sayılı Resmî Gazete’de yayımlanan Yapı Malzemelerinin Tabi Olacağı Kriterler Hakkında Yönetmeliğe ve 8/9/2002 tarihli ve 24870 sayılı Resmî Gazete’de yayımlanan Yapı Malzemeleri Yönetmeliği’ne dayanılarak hazırlanmıştır.
