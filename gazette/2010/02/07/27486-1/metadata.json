@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-02-07",
+  "issue": "27486",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2010/48 Türkiye Cumhuriyeti Hükümeti ile İtalya Cumhuriyeti Hükümeti Arasında İmzalanan “Türkiye’de Bir Türk-İtalyan Üniversitesinin Kurulmasına Dair Anlaşma”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100207-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100207.htm",
+  "index_sha256": "6d19f05386206b30896e83bd9b02d50215c4ae0b46c14af0a24d97998825ffc0",
+  "index_header": "7 Şubat 2010 ... 27486 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
