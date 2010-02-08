@@ -1,0 +1,22 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır;
+a) Enerji piyasaları, ekonomisi ve finansmanı konusunda bilimsel çalışmalar ile enerji sektörünün ve şirketlerin ihtiyaçlarına yönelik araştırmalar yapmak,
+b) Enerji piyasaları, ekonomisi ve finansmanı konusunda eğitim programları hazırlamak, kişi ve kurumlara yönelik eğitim faaliyetinde bulunmak, eğitim verilen kişilere sertifika vermek,
+c) Enerji piyasaları ve borsaları alanında yapılan çalışmaları takip etmek, Üniversitede ve Türkiye’de enerji konusundaki araştırma-geliştirme (AR-GE) faaliyetlerinin merkezi bir koordinasyon içerisinde yürütülmesine yardımcı olmak,
+ç) Türkiye’de enerji politikalarının oluşturulmasına katkıda bulunmak amacıyla çalışmalar yapmak; enerji piyasalarının gelişmesi, daha etkin olarak çalışması ve piyasa işlerliğinin sürdürülmesi konusunda projeler yürütmek,
+d) Enerji piyasaları ve finansal piyasaların işbirliği konusunda gerekli araştırmalarda bulunmak ve enerji piyasaları ile enerji ürünlerine dayanan emtia ve türev borsaları konusunda çalışmalar yapmak,
+e) Enerji piyasalarında riskin yönetilmesi konusunda akademik ve uygulamalı çalışmalar yapmak,
+f) Kamu ve özel sektor enerji şirketlerinin değerlemesi konusunda çalışmalar yapmak,
+g) Yenilenebilir enerji ürünlerinin enerji pazarı ile uyumlu çalışması konusunda gerekli araştırmalarda bulunmak ve yeni projeler geliştirilmesine katkıda bulunmak,
+ğ) Petrol, kömür, doğal gaz, odun ve benzeri geleneksel enerji kaynaklarına dayalı enerji piyasalarının daha verimli ve etkin çalışması yönünde çalışmalar yapmak,
+h) Enerji ekonomisi, piyasaları ve finansmanı konusunda dokümantasyon merkezi oluşturarak, ulusal ve uluslararası kuruluşların kaynaklara erişebilmesi için imkan sağlamak,
+ı) Üniversite ile enerji tüketiminin yoğun olduğu sanayi, turizm, tarım, sağlık ve çevre sektörlerinin enerji piyasalarından daha etkin yararlanması konusunda işbirliğini sağlamak ve güçlendirmek,
+i) Üniversitede enerji piyasaları, ekonomisi ve finansmanı konusunda yapılan araştırmaları desteklemek ve yönlendirmek; ulusal veya uluslararası sempozyum, konferans ve seminerler düzenlemek; kamuoyunu enerji piyasalarının çalışması konusunda bilinçlendirmek, aydınlatmak ve bilgilendirmek,
+j) Kamu ve özel sektörün enerji piyasalarının geliştirilmesi ve daha etkin çalışması ile ilgili isteklerini projelendirmek, verilen projeleri değerlendirmek ve sonuçlandırmak; bilimsel faaliyetlerin yürütülmesini sağlamak,
+k) Enerji ekonomisi, finansmanı ve piyasaları konusunda çalışan ulusal ve uluslararası kurum ve kuruluşlarla işbirliğini geliştirmek, ortak çalışmalar yapmak, bilimsel ve teknik bilgi ve hizmet alışverişinde bulunmak,
+l) Üniversitenin ilgili birimleri/bölümleri ile işbirliği yaparak enerji piyasaları konusunda her düzeyde öğrenci, öğretim elemanı ile diğer personelin eğitimlerinde yardımcı olmak,
+m) Gerekli teçhizat ve bilgisayar altyapısını güçlendirerek, enerji piyasları, ekonomi ve finansmanı konusunda simülasyon laboratuarı ve birimleri kurmak, geliştirmek,
+n) Üniversitede ilgili bölümler arasında enerji piyasaları konusunda yapılan araştırma ve geliştirme çalışmalarını yönlendirici ve birleştirici düzenlemeler yapmak,
+o) Üniversitede veya yurt içindeki ve yurt dışındaki diğer üniversitelerde, enstitülerde ve araştırma merkezlerinde enerji piyasaları konusunda yapılan araştırmaları izlemek, bilgi edinmek, yapılacak lisans ve lisansüstü çalışmalarda destek sağlamak,
+ö) Enerji piyasaları uygulamaları konusunda, ilgili bakanlık ve kamu kurum ve kuruluşlarıyla işbirliği yapmak,
+p) Üniversitenin, enerji piyasaları, ekonomisi ve finansmanı alanlarında temel referans alınan güvenilir bilim ve araştırma kurumu olma imajını güçlendirmek.
