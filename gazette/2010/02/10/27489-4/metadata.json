@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-02-10",
+  "issue": "27489",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2010/84 Türkiye Cumhuriyeti Hükümeti ile Lübnan Cumhuriyeti Hükümeti Arasında Vizelerin Karşılıklı Olarak Kaldırılmasına Dair Anlaşma’nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100210-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100210.htm",
+  "index_sha256": "7ce61827afd24fdd5948551f953e7b8490bb498b26e8c614c7b706f13123940b",
+  "index_header": "1 0 Şubat 2010 ... 27489 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
