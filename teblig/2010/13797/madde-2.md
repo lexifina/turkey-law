@@ -1,0 +1,2 @@
+Karar
+MADDE 2 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu'nun 26/1/2009 tarihinde yapılan toplantısında, 5/6/2009 tarihli ve 27249 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin 2009/5 sayılı Tebliğ ile 2501.00.31.00.00, 2501.00.51.00.00, 2501.00.99.10.00 ve 2501.00.99.90.00 Gümrük Tarife İstatistik Pozisyonlarında sınıflandırılan tuz ithalatına yönelik olarak açılmış olan korunma önlemi soruşturmasının uzatılmamasına karar verilmiştir.

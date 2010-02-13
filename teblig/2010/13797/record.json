@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.13797",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2010/5)",
+  "number": "13797",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2010/13797",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13797&MevzuatTertip=5",
+  "source_sha256": "87160b8bf84112535802257e3a483e19e9f39856691583d7abb16c3bd18c4ac5",
+  "source_bytes": 9364,
+  "published": "2010-02-13",
+  "gazette": "27492",
+  "in_force": "2010-02-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.02.2010); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 128,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
