@@ -1,0 +1,2 @@
+Karar
+MADDE 3 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 7009.91 gümrük tarife pozisyonlu çerçevesiz cam aynaların İran İslam Cumhuriyeti menşeli olanlarının ithalatında uygulanmakta olan korunma önleminin uygulama süresinin, geçici önlemin yürürlüğe girdiği tarihten itibaren başlamak üzere 4 (dört) yıl süreyle uzatılmasına, kota miktarının 1.481 ton olarak belirlenmesine ve her yıl %5 oranında artırılmasına karar vermiştir.
