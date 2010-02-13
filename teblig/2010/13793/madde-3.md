@@ -1,0 +1,6 @@
+Karar
+MADDE 3 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 8508.11.00.00.11 ve 8508.19.00.00.00 Gümrük Tarife İstatistik Pozisyonlarında (GTİP) sınıflandırılan elektrikli süpürgelerin ithalatında uygulanan korunma önleminin geçici önlemin uygulama süresi dahil olmak üzere 3 (üç) yıl süreyle uzatılmasına, önlemin aşağıda gösterilen eşik birim kıymetten ithal edilen ürünün diğer yurtdışı giderler hariç CIF birim kıymetinin (malın 1 adedi için fiilen ödenen veya ödenecek bedel ile navlun ve sigorta bedelleri toplamı) çıkarılması suretiyle hesaplanacak müspet farka tekabül eden tutar kadar ek mali yükümlülük şeklinde uygulanmasına, Dünya Ticaret Örgütü (DTÖ) Korunma Önlemleri Anlaşması’nın (Anlaşma) 12.3 maddesi gereğince soruşturma konusu eşyanın ihracatçıları olarak önemli bir menfaati olan DTÖ üyeleri ile yapılan ön danışma görüşmelerinin sürdürülmesine, Anlaşma’nın 9.1 maddesi gereğince gelişmekte olan ülkelere muafiyet tanınmasına ve önlemin istihsali hususunda Bakanlar Kurulu’na öneride bulunulmasına karar vermiştir.
+GTİP | Eşya Tanımı | Eşik Birim Kıymet (ABD Doları/Adet)
+1 inci Dönem (10/8/2009-9/8/2010) | 2 nci Dönem (10/8/2010-9/8/2011) | 3 üncü Dönem (10/8/2011-9/8/2012)
+8508.11.00.00.11 | Gerilimi 110 volt veya daha fazla olanlar | 34 | 33 | 32
+8508.19.00.00.00 | Diğerleri
