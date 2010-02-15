@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-02-15",
+  "issue": "27494",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Türkiye Radyo-Televizyon Kurumu Satış ve Kiralama İşlemleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100215-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100215.htm",
+  "index_sha256": "995179134651a5dc6ed4ec2ecef195f20e3e2848649c8f098538642b4cfe7170",
+  "index_header": "1 5 Şubat 2010 ... 27494 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
