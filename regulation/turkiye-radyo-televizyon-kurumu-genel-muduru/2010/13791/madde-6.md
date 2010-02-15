@@ -1,0 +1,2 @@
+Değer takdir komisyonu
+MADDE 6 – (1) Değer takdir komisyonları ihale yetkilisi tarafından belirlenen en az üç veya daha fazla tek sayıda kişiden oluşur. Komisyonlar üye tam sayısı ile toplanır ve oy çokluğu ile karar alır. Üyeler oy ve kararlarından sorumlu olup oy kullanmaktan kaçınamazlar ve çekimser oy kullanamazlar. Karşı oy kullanılması halinde karşı oyun sahibi gerekçesini komisyon kararına yazarak imzalar.

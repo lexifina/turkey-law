@@ -1,0 +1,3 @@
+Büfe, kantin, çay ocağı gibi yerlerin kiraya verilmesi
+MADDE 37 – (1) Kurumun merkez ve taşra teşkilatının idari binaları ve sosyal tesislerinde ya da eğitim ve dinlenme tesislerinde bulunan büfe, kantin ve çay ocağı ile yapım-yayınla ilgili stüdyo gibi yerler, bu Yönetmelikte belirtilen ihale usulleri dışında ihaleye çıkılmasında yarar veya gereklilik bulunmadığına ihale yetkilisince karar verilmek ve uygulanacak kurallar belirtilmek kaydıyla kiraya verilebilir.
+(2) Bu yerlerin elektrik, su, havagazı, ısıtma tesisatı mümkünse genel tesisattan ayrılır. Bu işlemlerin yapılması teknik açıdan mümkün değilse, tahmin edilen bedelin tespit ve hesaplanmasında elektrik, su, havagazı, ısıtma giderleri de gösterilir.

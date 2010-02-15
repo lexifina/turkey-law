@@ -1,0 +1,9 @@
+Sözleşmenin feshi
+MADDE 32 – (1) Aşağıda belirtilen hallerde Kurum sözleşmeyi fesheder:
+a) Yüklenicinin, taahhüdünü ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmemesi,
+b) Sözleşmenin uygulanması sırasında yüklenicinin; hile, vaat, tehdit, nüfuz kullanma, çıkar sağlama, anlaşma, irtikâp, rüşvet suretiyle veya başka yollarla sözleşmeye ilişkin işlemlere fesat karıştırmak, sahte belge düzenlemek, kullanmak veya bunlara teşebbüs ettiğinin tespit edilmesi,
+c) Yüklenicinin sözleşme konusu işle ilgili olarak mahkemece veya idari mercilerce verilecek karar ve emirlere uymaması,
+ç) Yüklenicinin aleyhine iflas kararı alınması, konkordato ilan etmesi veya borçlarını ödeyemediğinden dolayı alacaklıları tarafından bir yed-i emin tayin edilmesi, borçlarını ödemekte acze düşmesi.
+(2) Birinci fıkrada belirtilen haller gerçekleştiğinde sözleşmeye uygun olarak taahhütlerini yerine getirmesi, durumu düzeltmesi veya mahkeme ve idare kararına uyması için yükleniciye on günden az olmamak üzere süre verilir. Bu süre içerisinde gecikme cezası uygulanmaya devam edilir. Yüklenici bu süre içerisinde de taahhütlerini yerine getirmezse başka bir işleme veya hüküm almaya gerek kalmaksızın Kurum, yapacağı yazılı bildirimle sözleşmeyi tek taraflı olarak fesih etmeye yetkilidir.
+(3) Yüklenicinin, sözleşme konusu işlerle ilgili olarak kusuru veya ihmaliyle Kuruma ya da üçüncü kişilere, suç teşkil edebilecek fiiller de dâhil olmak üzere, telafisi güç veya ağır bir zarar vermesi veya Kurumun ticari itibarını ve genel imajını zedeleyebilecek fiil ve davranışlarda bulunması hallerinin herhangi birinin gerçekleşmesi durumunda, Kurum tarafından herhangi bir süre verilmesine gerek olmaksızın sözleşme feshedilebilecektir.
+(4) Fesih şartlarının oluşması halinde, ihale yetkilisinin onayıyla ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.

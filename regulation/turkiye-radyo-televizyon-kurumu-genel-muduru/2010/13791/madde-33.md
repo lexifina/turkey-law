@@ -1,0 +1,5 @@
+Sözleşmenin devri
+MADDE 33 – (1) Sözleşmelerin, Kurumun yazılı izni olmaksızın bir bütün olarak veya kısmen devredilmemesi esastır.
+(2) Yüklenici tarafından yazılı olarak sözleşmenin devrinin talep edilmesi halinde, bu talep ilgili birimlerce değerlendirildikten sonra gerekçenin makul görülmesi ve devralacak firmanın da yazılı talebinin alınmasını müteakip devir isteği, talep birimince gerekçeleriyle birlikte ihale yetkilisinin onayına sunulur. Onay alınması halinde gerekli kesin teminat devralacak firmadan alınmak suretiyle devir sözleşmesi imzalanır.
+(3) Devir yapılabilmesi için devir alacak firmanın da en az sözleşmeyi imzalayan firma yeterliliğinde olması gerekir. Ayrıca sözleşmeyi imzalamış olan firmanın gerçekleştirmediği veya noksan bıraktığı tüm taahhütlerin ve bunların gecikme cezası dâhil tüm sonuçlarının devir alan firma tarafından gerçekleştirileceğinin ve yerine getirileceğinin yazılı olarak kabul edilmesi gereklidir.
+(4) Sözleşme kapsamı işin yerine getirilebilmesi için firmaca bazı iş ve işlemlerin başka bir firmaya yaptırılması izinsiz devir olarak değerlendirilmez.

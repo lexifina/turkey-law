@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Genel Müdür: Türkiye Radyo-Televizyon Kurumu Genel Müdürünü,
+b) Hak Devri: Eser sahibi veya mirasçılarının kendilerine kanunen tanınan mali hakları süre, yer ve muhteva itibariyle mahdut veya gayri mahdut karşılıklı veya karşılıksız olarak başkalarına devredebilme yetkisini,
+c) Hizmet: Kurumun faaliyetleri çerçevesinde her türlü hizmetin, taşınır ve taşınmazlar ile hakların kiraya verilmesini,
+ç) İhale: Bu Yönetmelikte yazılı usul ve esaslar çerçevesinde, işin istekliler arasından seçilecek biri üzerinde bırakıldığını gösteren ve ihale yetkilisinin onayını müteakip sözleşmenin imzalanması ile tamamlanan işlemleri,
+d) İhale dokümanı: İdari şartname, teknik şartname, sözleşme taslağı, zeyilname ve teyitler ile satış listesi ve diğer belgelerden oluşan belgelerin tümünü,
+e) İhale yetkilisi: Kurumun, ihale ve harcama yapma yetki ve sorumluluğuna sahip kişi veya kurulları ile usulüne uygun olarak yetki devri yapılmış görevlilerini,
+f) Kira: Kurumun program ve program materyallerinin kullanım hakkı ile diğer hakların, taşınır ve taşınmazları ile teknik donanımlarının ve sınırlı ayni hakların kiraya verilmesini,
+g) Kiralama belgeleri: Kiralama konusu işlere ait; sözleşme, yetki belgesi ve imza sirküleri, özel durumlarda sigorta poliçeleri, tutanak, para makbuzu, banka dekontları ve gerekli diğer belgeleri,
+ğ) Kurum: Türkiye Radyo-Televizyon Kurumunu,
+h) Lisans: Mali hakların sadece kullanma salahiyetinin diğer bir kimseye bırakıldığına ilişkin yazılı izni,
+ı) Mal: Kurumun satışa ve kiraya vermeye konu teşkil edebilecek her türlü hizmet ile taşınır ve taşınmazlarını,
+i) Program: Radyo, televizyon veya başka ortamlarda yayınlanmak/kullanılmak üzere hazırlanan her türlü yerli ve yabancı yapımları,
+j) Program Materyali: Programların oluşmasında kullanılan her türlü yazılı, görsel ve işitsel unsuru,
+k) Satış: Kurumun program ve program materyallerinin mali hak devrini, taşınır ve taşınmazları ile hizmetlerin satışını,
+l) Satış onayı: Satış işleminin sonuçlandırılmasının ihale yetkilisi tarafından uygun bulunduğuna dair belgeyi,
+m) Tahmini bedel: Satış ve kiraya verme konusunu teşkil eden taşınır ve taşınmazları ile hizmet ve hakların tahmin edilen bedelini,
+n) Talep onayı: Satış ve kiraya verme işlemlerine başlanılmasının ihale yetkilisi tarafından uygun bulunduğuna dair belgeyi,
+o) Uygun bedel: Tahmin edilen bedelden aşağı olmamak üzere, teklif edilen bedellerin en yükseğini, bedel tahmini yapılamayan ihalelerde teklif edilen bedellerin uygun görülenini,
+ö) Yönetim Kurulu: Türkiye Radyo-Televizyon Kurumu Yönetim Kurulunu,
+ifade eder.

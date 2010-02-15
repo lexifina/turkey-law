@@ -1,0 +1,2 @@
+Bu Yönetmeliğin yayımı tarihinden önce başlatılmış olan iş ve işlemler
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihinden önce başlatılmış olan iş ve işlemler, 51 inci maddeyle yürürlükten kaldırılan Türkiye Radyo-Televizyon Kurumu Alım, Satım ve İhale Yönetmeliği ile Türkiye Radyo-Televizyon Kurumu Radyo ve Televizyon Programları ve Program Materyali Kiralanma ve Kiraya Verilmesi, Alım ve Satımı Hakkında Yönetmelik hükümlerine göre sonuçlandırılır.

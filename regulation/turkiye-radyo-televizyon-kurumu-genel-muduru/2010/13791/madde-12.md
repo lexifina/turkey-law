@@ -1,0 +1,6 @@
+Pazarlık usulü
+MADDE 12 – (1) Tahmini bedeli 4/11/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 22 nci maddesinin birinci fıkrasının (d) bendi uyarınca belirlenen miktara kadar olan satışlar, satış konusunun niteliğine göre bir veya daha fazla istekliden yazılı veya sözlü teklif almak ve fiyat üzerinde anlaşma yapmak suretiyle yapılır.
+(2) Talep onayında belirtilmek şartıyla, çabuk bozulan, muhafazasında güçlük çekilen, saklama maliyeti yüksek bulunan malların satışı, birinci fıkradaki limitle bağlı kalınmaksızın pazarlık usulü ile yapılabilir.
+(3) Bu usulle yapılacak satışlarda, şartname hazırlanması, teminat istenilmesi, ihale komisyonu oluşturulması ve sözleşme imzalanması zorunlu değildir.
+(4) Bu usul ile satışlarda, teklif alınması belli bir şekle bağlı değildir. Pazarlığın ne surette yapıldığı, ne gibi tekliflerde bulunulduğu ve üzerine satış yapılan isteklinin tercih edilme nedeni düzenlenecek satış tutanağında belirtilir.
+(5) Teklife ait idari, teknik ve mali hususlar incelendikten sonra, satış tarihinde geçerli fiyat ve şartlarla uygun ve en yüksek teklifte bulunan istekliye satış yapılması esastır. Ancak, teklif edilen uygun ve en yüksek teklifin, önceden yapılan satışlara ve piyasa rayiçlerine göre daha düşük olduğunun tespiti halinde satış iptal edilebilir.

@@ -1,0 +1,3 @@
+İhalenin iptal edilmesi
+MADDE 28 – (1) Kurum, gerekli gördüğü veya ihalenin yapılmasına engel olan hususların tespit edildiği hallerde ihaleyi iptal etmekte serbesttir. Bu hükme, teklif isteme yazısı, ilan ve idari şartnamede yer verilir.
+(2) İptal nedeni belirtilmek suretiyle ihalenin iptal edildiği hususu, ihale ilanının duyurulduğu usul ile isteklilere duyurulur. Bu aşamaya kadar teklif vermiş olanlara ihalenin iptal edildiği ayrıca bildirilir. İhalenin iptal edilmesi halinde verilmiş tüm teklifler reddedilmiş sayılır ve teklifler açılmaksızın isteklilere iade edilir. İhalenin iptal edilmesi nedeniyle isteklilerce Kurumdan herhangi bir hak talebinde bulunulamaz.
