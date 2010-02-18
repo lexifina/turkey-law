@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2431/10",
+  "decision_date": "2010-02-18",
+  "title": "Rüzgâr enerjisine dayalı üretim tesisi kurmak üzere yapılmış veya yapılacak olan lisans başvuruları kapsamında…” hükmü çerçevesinde; inceleme ve değerlendirme aşamasında bulunan tüm lisans başvurularına ilişkin",
+  "categories": [
+    "Başvuru"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=409BByDeXD4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=409BByDeXD4="
+  ],
+  "source_sha256": "71ad6da0fc80583f59cb230e19121f19f0ff07ac71d77aacc94c853c7ca87b9d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33883,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-02-18",
+  "law_text_complete": false
+}
