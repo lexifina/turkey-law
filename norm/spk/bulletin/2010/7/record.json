@@ -1,0 +1,54 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2010/7",
+  "date": "2010-02-19",
+  "title": "SPK Haftalık Bülteni 2010/7",
+  "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_7.pdf",
+  "source_sha256": "35393eb342fb00c266ff648a74a0bb1804799e2f148da37a9114736af514f2c3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. DUYURU"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 04.01.2010 – 19.02.2010 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_7.pdf"
+    },
+    {
+      "heading": "B. 15.02.2010 – 19.02.2010 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_7.pdf"
+    },
+    {
+      "heading": "C. 15.02.2010 – 19.02.2010 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_7.pdf"
+    },
+    {
+      "heading": "D. DUYURU",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_7.pdf"
+    },
+    {
+      "heading": "E. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Kristal Kola",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_7.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
