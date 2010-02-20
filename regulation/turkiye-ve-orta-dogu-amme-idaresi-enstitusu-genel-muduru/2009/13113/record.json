@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.13113",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE VE ORTA DOĞU AMME İDARESİ ENSTİTÜSÜ YEREL YÖNETİMLER MERKEZİ YÖNETMELİĞİ",
+  "number": "13113",
+  "issuer": "Türkiye ve Orta Doğu Amme İdaresi Enstitüsü Genel Müdürü",
+  "issuer_slug": "turkiye-ve-orta-dogu-amme-idaresi-enstitusu-genel-muduru",
+  "path": "regulation/turkiye-ve-orta-dogu-amme-idaresi-enstitusu-genel-muduru/2009/13113",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13113&MevzuatTertip=5",
+  "source_sha256": "ef871c74d78e8b5a39f45248696681ada8f7ed91c6d612bdc79e8aa3cb5cd175",
+  "source_bytes": 25994,
+  "published": "2009-06-15",
+  "gazette": "27259",
+  "in_force": "2010-02-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G-20/2/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-02-20",
+      "R.G-20/2/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-02-20",
+      "20/2/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 650,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
