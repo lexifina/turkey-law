@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-02-21",
+  "issue": "27500",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "KOSGEB Rehberlik ve Denetim Kurulu Başkanlığı Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100221-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100221.htm",
+  "index_sha256": "fed34021f83bd2943fbc614ff43d3820b3d1dfbf92286ae13b37647ebb3b588d",
+  "index_header": "21 Şubat 2010 ... 27500 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
