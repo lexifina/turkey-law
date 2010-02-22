@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2446",
+  "decision_date": "2010-02-22",
+  "title": "2010 yılında, Perakende Satış Lisansına Sahip Dağıtım Şirketlerinin İkili Anlaşma Yoluyla Elektrik Enerjisi ve/veya Kapasite Alması Halinde İlgili Mevzuat Gereğince Ortalama Perakende Enerji Satış Fiyatı Tavanının Hesaplanmasına Esas Teşkil Edecek Ortalama Enerji Alım Fiyatına Dahil Edilecek ikili anlaşma yoluyla temin edilen enerji fiyatının hesaplanmasına ilişkin",
+  "resmi_gazete_date": "2011-03-10",
+  "resmi_gazete_number": "27517",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/lF3jwELLMU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/lF3jwELLMU="
+  ],
+  "source_sha256": "d85585ec8604651b8a37d15b01a739f5a41a528d10306dd0759bd661903f5512",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-02-22",
+  "law_text_complete": false
+}
