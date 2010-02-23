@@ -1,0 +1,15 @@
+{
+  "number": "K-2010/23",
+  "award_date": "2010-02-23",
+  "heading_as_published": "23.02.2010 Tarih ve K-2010/23 Sayılı Hakem Kararı",
+  "issue": "Hakem Karar Dergisi 1 Ocak - Mart 2010",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs1.pdf",
+  "source_sha256": "b54662f7cac92aad303aea8d29bac92a3faa76f6c2e4f773df1e4c23c189a997",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "mis-mapped characters in the issue text layer (font encoding; no OCR)",
+  "source_images": 12,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
