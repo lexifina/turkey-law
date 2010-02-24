@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-02-24",
+  "issue": "27503",
+  "edition": "regular",
+  "item": 19,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARLARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 18/2/2010 Tarihli ve 3541 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100224-19.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/02/20100224.htm",
+  "index_sha256": "d9558b515b178c75a95eebb02ea97ddcfa89e231a8f00d8e4ca3677384a6f112",
+  "index_header": "24 Şubat 2010 ... 27503 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
