@@ -1,0 +1,2 @@
+Haksız rekabet
+MADDE 10 – (1) Kuruluşlar ve denetçiler, diğer düzenlemelerde yer alan haksız rekabet halleri saklı kalmak kaydıyla, denetim faaliyetinin niteliğini herhangi bir suretle olumsuz yönde etkileyebilecek veya meslektaşlarına zarar verebilecek tarzda ve ölçüde rekabete giremez; özellikle denetim ücreti, personel ve iş alma gibi konulardaki mesleki kurallar ile mesleki etik, ilke ve kurallara aykırı davranışlarda bulunamaz.

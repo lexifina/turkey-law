@@ -1,0 +1,5 @@
+Meslek mensubu unvanları
+MADDE 6 – (1) Bağımsız denetim kuruluşunda çalışan denetçilerin alabilecekleri unvanlar kıdem sırasına göre; sorumlu ortak baş denetçi, baş denetçi, kıdemli denetçi, denetçi, denetçi yardımcısı ve stajyer denetçidir.
+(2) Sorumlu ortak baş denetçi, bağımsız denetim kuruluşunda pay sahibi olup baş denetçi unvanını haiz ve denetim çalışmasını kuruluş adına kendi kişisel sorumluluğu ile yürüten ve kuruluş adına bağımsız denetim raporlarını imzalamaya yetkili olan kişidir.
+(3) Baş denetçi unvanının kazanılması için fiilen en az 10 yıl, kıdemli denetçi unvanının kazanılması için fiilen en az 6 yıl, denetçi unvanının kazanılması için fiilen en az 3 yıl mesleki deneyim şarttır. Denetçi yardımcılığında geçen süre bu hesaplamada dikkate alınır. Bilgi, deneyim ve yetenekleri bir üst kıdemin gerektirdiği nitelikte olmayanlar sürelerini doldursalar dahi bağımsız denetim kuruluşunun yetkili organlarınca bir üst unvana terfi ettirilemez.
+(4) Denetçiler yukarıda belirtilen unvanların yanında 3568 sayılı Kanuna göre aldıkları ve kuruluşun temsili ile ilgili olarak sahip oldukları unvanları kullanabilir.

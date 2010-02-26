@@ -1,0 +1,4 @@
+Raporların ilanı
+MADDE 20 – (1) Bağımsız denetim görüşü, ilgili finansal tablolar ile birlikte, finansal tabloların yayımlanmasına ilişkin mevzuat hükümleri çerçevesinde şirketler tarafından yayımlanır.
+(2) Yıllık denetim sonucu kamuya açıklanacak finansal tablolar ve düzenlenen bağımsız denetim görüşü, 29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanununun 362 nci maddesi uyarınca, ilgili bulunduğu yıla ilişkin denetime esas finansal tabloların görüşüleceği genel kurul toplantısından en az on beş gün önce pay sahiplerinin emrine hazır bulundurulur ve bağımsız denetçi görüşü anılan genel kurulda okunur.
+(3) Kuruluşlar denetledikleri ve görüş bildirdikleri finansal tabloların faaliyet raporlarında aynen ilan edilip edilmediğini tespit eder ve aynen ilan edilmediğinin tespiti halinde durumu Müsteşarlığa bildirir.

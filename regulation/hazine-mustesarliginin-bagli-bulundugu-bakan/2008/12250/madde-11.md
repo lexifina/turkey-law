@@ -1,0 +1,2 @@
+Görev kabulünde sorumluluk
+MADDE 11 – (1) Kuruluşlar sahip bulundukları organizasyon, personel veya mesleki uzmanlıklar ile sonuçlandıramayacakları bir bağımsız denetim hizmetini üstlenemez. Bağımsız denetim hizmeti sırasında kuruluş dışındaki uzman kişilerden görüş alınması ve ek araştırma yaptırılması, kuruluşun yeterli organizasyona sahip bulunmadığı veya denetçinin yeterli uzmanlığa sahip olmadığı anlamına gelmez.
