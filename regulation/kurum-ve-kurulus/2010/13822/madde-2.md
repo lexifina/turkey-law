@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Türk Deniz ticaret filosunda çalışan zabitan, yardımcı zabitan ve tayfa sınıfı gemiadamları ile kılavuz kaptanlar ve denizcilik programı uygulayan resmî ve özel ortaöğretim ve yüksek öğretim kurumlarında okuyan öğrenciler ile bu Yönetmeliğin 5 inci maddesinin birinci fıkrasında belirtilen Denizcilik Müsteşarlığının liman başkanlıklarında görevli personeli kapsar.

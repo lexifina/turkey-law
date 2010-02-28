@@ -1,0 +1,33 @@
+{
+  "source_id": "7.5.13822",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DENİZCİLERE MAHSUS KIYAFET YÖNETMELİĞİ",
+  "number": "13822",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2010/13822",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13822&MevzuatTertip=5",
+  "source_sha256": "f758f76548e1a2a3af48be42d46b63e055c6eb79aaf663863f7f438f303c42a5",
+  "source_bytes": 52010,
+  "published": "2010-02-28",
+  "gazette": "27507",
+  "in_force": "2010-02-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.02.2010); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4303,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.13822-ekler.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
