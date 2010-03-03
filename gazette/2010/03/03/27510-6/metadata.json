@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-03-03",
+  "issue": "27510",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Aylık Prim ve Hizmet Belgesinin Sosyal Güvenlik Kurumuna Verilmesine ve Primlerin Ödenme Sürelerine Dair Usul ve Esaslar Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100303-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100303.htm",
+  "index_sha256": "5f20b0a6e0e84161c32da0538bbf3e97e4e5c6e46858d854dba8c8d95b085b85",
+  "index_header": "3 Mart 2010 ... 27510 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
