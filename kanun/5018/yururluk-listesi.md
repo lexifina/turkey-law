@@ -23,3 +23,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı. | (II) Sayılı Cetvel (Kamu Denetçiliği Kurumu) | 4/4/2009
 5902 | (I) Sayılı Cetvel | 17/6/2009
 5917 | 6, (III) Sayılı Cetvel (II) Sayılı Cetvel | 10/7/2009 1/1/2010
+5952 | (I) Sayılı Cetvel | 4/3/2010
