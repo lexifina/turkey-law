@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2456",
+  "decision_date": "2010-03-04",
+  "title": "01/04/2010 tarihinden geçerli olmak üzere, elektrik piyasasında Türkiye Elektrik Ticaret Taahhüt Anonim Şirketi (TETAŞ) tarafından uygulanacak toptan satış tarifeleri hakkında",
+  "resmi_gazete_date": "2010-03-13",
+  "resmi_gazete_number": "27520",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1GDAlNXHmBo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1GDAlNXHmBo="
+  ],
+  "source_sha256": "d4f96414369769fea9fe7c48f98b22f852c8a456b278e6b2779bc0db41ebf605",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-03-04",
+  "law_text_complete": false
+}
