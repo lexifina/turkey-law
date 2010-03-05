@@ -1,0 +1,382 @@
+5 Mart 2010 CUMA
+Resmî Gazete
+Sayı : 27512
+TEBLİĞ
+Maliye
+Bakanlığından:
+Vergi Usul Kanunu Genel
+Tebliği
+(SIra No: 397)
+1. Giriş
+Günümüzde
+bilgi ve iletişim teknolojileri, sağladıkları verimlilik ve maliyet
+avantajı gibi nedenlerle mükelleflere ait iş süreçlerinde gittikçe daha
+yoğun bir şekilde kullanılmaya başlanmıştır. Bu durum, özellikle yüksek
+sayıda yasal belge ve kayıt ile ilgili süreçleri kağıt
+ortamında yürütmek zorunda olan mükelleflere yönelik, gelişen teknolojiye
+uygun yeni usul ve esasların belirlenmesini zorunlu kılmaktadır.
+213
+Sayılı Vergi Usul Kanununun1 5766
+Sayılı Kanunun2 17 nci maddesi ile değişen Mükerrer 242 nci maddesinin 2 numaralı fıkrası ile Maliye Bakanlığı;
+elektronik defter, kayıt ve belgelerin oluşturulması, kaydedilmesi,
+iletilmesi, muhafazası ve ibrazı ile defter ve belgelerin elektronik
+ortamda tutulması ve düzenlenmesi uygulamasına ilişkin usul ve esasları belirlemeye,
+elektronik ortamda tutulmasına ve düzenlenmesine izin verilen defter ve
+belgelerde yer alması gereken bilgileri internet de dahil
+olmak üzere her türlü elektronik bilgi iletişim araç ve ortamında Maliye
+Bakanlığına veya Maliye Bakanlığının gözetim ve denetimine tabi olup,
+kuruluşu, faaliyetleri, çalışma ve denetim esasları Bakanlar Kurulunca
+çıkarılacak bir yönetmelikle belirlenecek olan özel hukuk tüzel kişiliğini
+haiz bir şirkete aktarma zorunluluğu getirmeye, bilgi aktarımında uyulacak
+format ve standartlar ile uygulamaya ilişkin usul ve esasları tespit
+etmeye, bu Kanun kapsamına giren işlemlerde elektronik imza kullanım usul
+ve esaslarını düzenlemeye ve denetlemeye yetkili kılınmıştır.
+Ayrıca söz konusu fıkrada, Vergi Usul Kanunu ve diğer vergi
+kanunlarında defter, kayıt ve belgelere ilişkin olarak yer alan hükümlerin
+elektronik defter, kayıt ve belgeler için de geçerli olduğu; Maliye
+Bakanlığının, elektronik defter, belge ve kayıtlar için diğer defter, belge
+ve kayıtlara ilişkin usul ve esaslardan farklı usul ve esaslar belirlemeye
+yetkili olduğu hükme bağlanmıştır.
+Bu
+çerçevede, Vergi Usul Kanununun Maliye Bakanlığına tanıdığı yetkilere
+istinaden, yaygın olarak kullanılan belgelerden biri olan faturanın
+elektronik belge olarak düzenlenmesi, elektronik ortamda iletilmesi,
+muhafaza ve ibraz edilmesine ilişkin usul ve esaslar bu Tebliğde
+açıklanmaktadır.
+2. Tanımlar ve Kısaltmalar
+Bu
+Tebliğde geçen;
+Elektronik
+Kayıt : Elektronik ortamda tutulan ve elektronik defter
+ve belgeleri oluşturan, elektronik yöntemlerle erişimi ve işlenmesi mümkün
+olan en küçük bilgi ögesini,
+Elektronik
+Belge : Şekil hükümlerinden bağımsız olarak Vergi
+Usul Kanununa göre düzenlenmesi zorunlu olan belgelerde yer alan bilgileri
+içeren elektronik kayıtlar bütününü,
+Başkanlık : Gelir İdaresi Başkanlığı’nı,
+Elektronik
+Fatura (e-Fatura) : Bu Tebliğde yer alan şartlara uygun olan
+ve elektronik belge biçiminde oluşturulmuş faturayı,
+e-Fatura Uygulaması : Başkanlık tarafından belirlenen standartlara
+uygun mesajların, taraflar arasında güvenli bir şekilde aktarılması
+imkanını sunan uygulamaların genel adını,
+e-Fatura Portalı : e-Fatura Uygulamasına ait temel
+fonksiyonların, internet üzerinden genel kullanımını sağlamak amacı ile
+Başkanlık tarafından geliştirilen portalı,
+TÜBİTAK-UEKAE : Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - Ulusal
+Elektronik ve Kriptoloji Araştırma Enstitüsü’nü,
+HSM : (Hardware Security
+Module-Donanımsal Güvenlik Modülü) İçerisine mali
+mühür sertifikası yüklenebilen ve birim zamanda akıllı karttan çok daha
+fazla sayıda işlem yapma kapasitesine sahip aracı
+ifade eder.
+3. Genel Olarak e-Fatura
+Vergi
+Usul Kanununun 229 uncu maddesinde fatura, satılan emtia veya yapılan iş
+karşılığında müşterinin borçlandığı meblağı göstermek üzere emtiayı satan
+veya işi yapan tüccar tarafından müşteriye verilen ticari vesika olarak
+tanımlanmış, 230 uncu maddesinde ise faturanın şekli belirtilerek içermesi
+gereken asgari bilgiler sayılmıştır. Anılan Kanunun 231 inci maddesinde de fatura
+düzenlenmesinde uyulacak kaidelere, 232 nci
+maddesinde ise fatura kullanma mecburiyetine ilişkin esaslara yer
+verilmiştir.
+Vergi Usul Kanununun Mükerrer 242 nci
+maddesinin 2 numaralı fıkrasında yer alan hükmün Bakanlığımıza verdiği
+yetkiye istinaden; düzenlenmesi, müşteriye verilmesi, müşteri tarafından da
+istenmesi ve alınması zorunlu olan faturanın, elektronik belge olarak
+düzenlenmesi, müşteriye elektronik ortamda iletilmesi ve elektronik ortamda
+muhafaza ve ibraz edilmesine ilişkin yapılan düzenlemeler bu Tebliğin
+konusunu oluşturmaktadır.
+Bu
+Tebliğde düzenlenen e-Fatura, yeni bir belge türü olmayıp, kağıt fatura ile aynı hukuki niteliklere sahiptir.
+Mal
+veya hizmet satışı dolayısıyla fatura düzenlemek zorunda olan mükellefler,
+genel hükümler çerçevesinde kağıt fatura
+düzenleyebilecekleri gibi bu Tebliğde yer alan şartlar çerçevesinde
+e-Fatura da düzenleyebilirler. Aynı mal veya hizmet satışı işleminde hem kağıt faturanın hem de elektronik faturanın bir arada
+düzenlenmesi mümkün değildir. Müşterinin talep etmesi durumunda ise genel
+hükümler çerçevesinde sadece kağıt fatura
+verilmesi zorunludur.
+4. e-Fatura Uygulamasından Yararlanma
+e-Fatura Uygulamasının sağlıklı bir biçimde gelişimini
+sağlamak amacı ile Başkanlık, uygulamanın kademeli bir biçimde
+yaygınlaştırılmasını planlamaktadır. Bu bakımdan başlangıç olarak, anonim
+ve limited şirket statüsünü haiz mükelleflerin
+uygulama kapsamında e-Fatura gönderme ve/veya almasına izin verilmesi uygun
+görülmüştür. Gerçek kişilerin ise e-Fatura Uygulaması bünyesinde e-Fatura
+göndermeleri ve almaları (Tebliğin 8 inci bölümünde yer alan istisna hariç
+olmak üzere) mümkün bulunmamaktadır.
+Uygulamadan
+yararlanmak isteyen anonim ve limited şirketlerin
+yerine getirmeleri gereken işlemler sırası ile aşağıda yer almaktadır.
+1.
+http://www.efatura.gov.tr internet adresinde yer alan “e-Fatura
+Uygulaması Başvuru Formu ve Taahhütnamesi (Tüzel Kişiler İçin)” ile
+Tebliğin 7 nci bölümünde ifade edilen
+düzenlemeler çerçevesinde oluşturulan Mali Mühüre
+ilişkin “Elektronik Mali Mühür Sertifika Sahibi Taahhütnamesi” doldurularak
+yetkili kişi veya kişiler tarafından imzalanacaktır.
+2.
+Aşağıda yer alan belgeler ile Başkanlığa yazılı olarak başvuruda
+bulunulacaktır.
+i. “e-Fatura Uygulaması Başvuru Formu ve Taahhütnamesi
+(Tüzel Kişiler İçin)” nin imzalı aslı,
+ii. “Elektronik Mali Mühür Sertifika Sahibi
+Taahhütnamesi” nin imzalı aslı,
+iii. Şirket kuruluş sözleşmesinin yer aldığı ticaret
+sicil gazetesinin noter onaylı örneği (Sonradan unvan değişikliği yapılması
+halinde en son unvanın ilan edildiği ticaret sicil gazetesinin noter onaylı
+örneğinin de eklenmesi gerekmektedir.)
+iv. Başvuru formuna şirket adına imza atan kişi veya
+kişilerin yetkili olduğunu gösteren şirket imza sirkülerinin noter onaylı
+örneği.
+3.
+Başkanlık tarafından yapılan değerlendirme sonrasında başvuruları uygun
+bulunanların kullanıcı hesapları tanımlanacaktır. Hesaplarının tanımlandığı
+bilgisi kendilerine iletilenler Mali Mühürlerinin temini işlemlerini yerine
+getirecektir.
+4.
+Mali Mühürü kendisine ulaştırılanlar, başvuruda
+bildirdikleri yetkilileri aracılığı ile mali mühür sertifikalarının
+aktivasyonunu gerçekleştirecektir.
+Bu
+işlemlerin tamamlanmasının ardından aktive edilen sertifikalar kullanılarak
+sistem üzerinde tanımlanan kullanıcı hesabı aracılığı ile e-Fatura gönderme
+ve/veya alma işlemleri gerçekleştirilebilecektir.
+Gerçek
+kişi olmayanlar ile anonim ve limited şirket
+statüsünde bulunmayanlardan e-Fatura göndermek ve/veya almak isteyen kurum,
+kuruluş ve işletmelerin uygulama karşısındaki durumu ve uygulamadan
+yararlanma prosedürleri, yapacakları yazılı
+başvuru üzerine Başkanlık tarafından belirlenecektir.
+5. e-Fatura Düzenlenmesi ve İletilmesi
+Tebliğin
+8 inci bölümünde belirtilen istisna hariç olmak üzere e-Faturanın, bu Tebliğde
+belirlenen usul ve esaslara uygun olarak düzenlenmesi, gönderme veya alma
+işlemlerinin de Başkanlık tarafından oluşturulan e-Fatura Uygulaması
+aracılığı ile gerçekleştirilmesi zorunludur.
+Faturaların
+elektronik belge olarak oluşturulması ve gönderilmesinde uyulması gereken
+format ve standartlar http://www.efatura.gov.tr internet adresinde
+duyurulmuştur. Bu Tebliğde belirlenen usul ve esaslar ile söz konusu format
+ve standartlara uygun olarak düzenlenmeyen, düzenlense dahi e-Fatura
+Uygulaması aracılığı ile gönderilmeyen veya alınmayan herhangi bir
+elektronik belge, Vergi Usul Kanunu kapsamında düzenlenmiş fatura hükmünde
+değildir.
+Mükellefler
+e-Fatura düzenlerken, bu Tebliğde belirtilmeyen hususlarda süreler başta
+olmak üzere Vergi Usul Kanunu ve ilgili diğer kanun ve düzenlemelerde yer
+alan usul ve esaslara uymak zorundadır.
+e-Fatura Uygulamasının kullanım esasları aşağıdaki
+bölümlerde yer almaktadır.
+5.1. e-Fatura Uygulamasının Kullanımı
+e-Fatura Uygulaması, elektronik belge olarak düzenlenen
+faturaların tarafları arasında dolaşımı ile ilgili oluşturma, gönderme ve
+alma zamanı gibi önemli kayıtların tarafsız bir biçimde tutulmasını
+sağlamak ve elektronik belge olarak oluşturulmuş herhangi bir belgenin
+sıhhatinden (format ve standartlara uygunluk, göndericinin kimliği ve doğruluğu,
+elektronik belgenin geçerliliği ve içeriğinin bütünlüğü) emin olmak amacı
+ile Başkanlık tarafından oluşturulan uygulamanın genel adıdır.
+e-Fatura Uygulaması, bünyesinde e-Fatura gönderme
+ve/veya alma işlemlerini yapmak üzere her bir kullanıcıya ait kullanıcı
+hesabı barındıracak olup, bu hesap aracılığı ile kullanılabilecek
+fonksiyonlar, ilgili hesabın ve kullanıcının niteliğine göre
+şekillenecektir.
+e-Fatura Uygulaması kapsamında fatura oluşturma,
+gönderme ve alma işlemleri,
+i.
+Bilgi işlem sistemlerinin e-Fatura Uygulamasına entegre
+edilmesi yoluyla veya
+ii. e-Fatura Uygulamasına ait temel fonksiyonların
+internet üzerinden genel kullanımını sağlamak amacı ile oluşturulan ve http://www.efatura.gov.tr
+internet adresinde hizmete sunulan e-Fatura Portalı
+aracılığıyla
+gerçekleştirilebilir.
+e-Faturaların taraflar arasında güvenli bir şekilde
+dolaşımına imkan sağlayan e-Fatura Uygulaması ile ilgili olarak başlangıç
+aşamasında yukarıda sayılan iki yöntemi belirlemiş olan Başkanlık,
+uygulamanın geliştirilmesi ve farklı kullanım imkanlarının oluşturulması
+yönündeki çalışmalarına devam etmektedir. Bu çalışmalar neticesinde ortaya
+çıkarılacak yeni yöntemler ve bu yöntemlere ilişkin kurallar, http://www.efatura.gov.tr
+internet sitesi aracılığı ile kamuoyunun bilgisine sunulacaktır.
+5.1.1. Bilgi İşlem Sistemlerinin
+Entegre Edilmesi Yoluyla Kullanım
+Bilgi
+işlem sistemleri yeterli olan kullanıcıların, gerekli entegrasyonu
+sağlamaları koşulu ile e-Fatura Uygulamasını doğrudan kendilerine ait bilgi
+işlem sistemleri aracılığı ile kullanmaları mümkündür.
+Yukarıda
+ifade edilen çerçevede bilgi işlem sistemi entegrasyonu
+yapılabilmesi için uyulması gereken kurallar ve standartlar ile yapılması
+gereken işlemleri içeren kılavuzlar http://www.efatura.gov.tr
+internet sitesinde kamuoyu bilgisine sunulmuştur.
+Uygulamaya
+entegre olmak isteyenler, bilgi işlem
+sistemlerinde gerekli ön hazırlıkları tamamladıktan sonra, sistemlerini ve
+fatura ile ilgili süreçlerini açıklayan dokümanlarla birlikte Başkanlığa
+yazılı olarak başvuruda bulunacaktır.
+Başvurusu
+uygun bulunanlara entegrasyon işlemlerine
+başlayabilecekleri bir yazı ile bildirilecektir. Entegrasyon çalışmaları,
+başlama yazısı tarihinden itibaren en geç bir yıl içerisinde tamamlanmak
+zorundadır.
+Entegrasyon
+sürecini başarı ile tamamlayan mükellefler, Başkanlığın konuya ilişkin
+yazısı üzerine, e-Fatura Uygulamasını gerçekleştirdikleri entegrasyon aracılığı ile kullanmaya başlayacaktır.
+Başkanlık
+e-Fatura Uygulamasına entegre olmak isteyen mükelleflere
+yönelik olarak genel entegrasyon usulleri belirleyebileceği gibi bilgi
+işlem sistemleri, kapasite, iş gerekleri ve ihtiyaçları gibi hususları göz
+önüne alarak özel entegrasyon usulleri de belirleyebilir.
+5.1.2. e-Fatura Portalı
+Aracılığı ile Kullanım
+Bilgi
+işlem sistemlerinin entegre edilmesi sureti ile
+e-Fatura Uygulamasını kullanma konusunda yeterli alt yapıya sahip olmayan
+kullanıcıların uygulamadan yararlanabilmelerini sağlamak amacıyla
+geliştirilen e-Fatura Portalı, e-Fatura
+Uygulamasına ait temel fonksiyonları bünyesinde barındırmaktadır.
+e-Fatura Portalı, Tebliğin 4
+üncü bölümündeki adımlar sonucunda oluşturulan kullanıcı hesapları
+aracılığı ile http://www.efatura.gov.tr internet adresinde hizmet
+sunacaktır. Kullanıcılar, e-Fatura gönderme ve/veya alma ile ilgili temel
+işlemleri, portal içerisinde sunulan arayüzleri kullanarak yapabileceklerdir.
+6. e-Faturanın Muhafaza ve İbraz
+Yükümlülüğü
+Vergi
+Usul Kanununun ilgili hükümlerine göre mükellefler, gerek düzenledikleri
+gerekse adlarına düzenlenen faturaları, yasal süreler dahilinde
+muhafaza ve istendiğinde ibraz etmekle yükümlüdürler.
+e-Faturanın veri bütünlüğünün sağlanması ile kaynağının
+inkar edilemezliği Mali Mühürle garanti altına alınmaktadır. Mührün doğruluk
+ve geçerlilik kontrolünün ancak elektronik ortamda yapılabilmesi nedeniyle
+e-Faturanın kağıda basılarak saklanması söz konusu
+değildir. Bu nedenle mükellefler, düzenledikleri ve aldıkları e-Faturaları,
+üzerindeki Mali Mühürü de içerecek şekilde kanuni
+süreler dahilinde kendi bünyelerindeki elektronik,
+manyetik veya optik ortamlarda muhafaza ve istendiğinde elektronik,
+manyetik veya optik araçlar vasıtasıyla ibraz edeceklerdir.
+Muhafaza
+ve ibraz yükümlülüğü, arşivlenen faturaların doğruluğuna, bütünlüğüne ve
+değişmezliğine ilişkin olan her türlü elektronik kayıt ve veri, veritabanı
+dosyası, saklama ortamı ile doğrulama ve görüntüleme araçlarının tümünü
+kapsamakta olup, e-Faturalara istendiğinde kolaylıkla erişebilmeyi,
+anlaşılabilir ve eksiksiz bir biçimde görüntüleyebilmeyi ve faturaların
+okunabilir kağıt baskılarını üretebilmeyi
+sağlayacak biçimde yerine getirilmelidir.
+Mükelleflere
+ait e-Faturaların yine mükelleflere ait bilgi işlem sistemlerinde
+saklanması gerekmekte olup, üçüncü kişiler nezdinde ya da yurt dışında
+yapılan saklama işlemi Başkanlık açısından herhangi bir hüküm ifade etmemektedir.
+Arşivlemenin Türkiye Cumhuriyeti sınırları içerisinde ve Türkiye
+Cumhuriyeti Kanunlarının geçerli olduğu yerlerde yapılması zorunluluğu,
+yurt dışında da ikincil bir arşivleme yapılmasına engel teşkil etmez.
+7. Mali Mühür
+Vergi Usul Kanunu kapsamında yapılacak düzenlemeler
+çerçevesinde kullanılmak üzere, tüzel kişi ve diğer kurum, kuruluş ve
+işletmelere ait veri bütünlüğünün, kaynağın ve içeriğin garanti altına
+alınması ile gerekli durumlarda gizliliğin sağlanması fonksiyonlarının
+yerine getirilmesi amacı ile oluşturulan ve e-Fatura Uygulaması bünyesinde
+yapılan işlemlerde kullanılması zorunlu olan Mali Mühür, Başkanlık adına
+TÜBİTAK-UEKAE tarafından hazırlanan elektronik sertifika alt yapısını ifade
+etmektedir.
+Kullanım
+alanı ve bahsedilen fonksiyonları nedeni ile Mali Mühürün,
+kurumun bildirilen yetkili veya yetkililerinin kontrolü altında
+kullanılması, yetkili kişi veya kişilerin değişmesi halinde de yeni yetkili
+veya yetkililerin derhal belirlenmesi ve bunlara ait bilgilerin Başkanlıkça
+belirlenecek yöntemlerle bildirilmesi zorunludur.
+Tüzel
+kişilerin ve diğer kurumların herhangi bir nedenle unvanlarının değişmesi
+halinde, eski unvanı barındıran sertifikaları geçerliliğini
+kaybedeceğinden, unvan değişikliğini izleyen 15 gün içerisinde yeni
+unvanına uygun sertifika başvurusu yapması gerekmektedir.
+Sahiplerine
+kart okuyucuları ile birlikte teslim edilecek sertifikaların HSM aracılığı
+ile kullanılması da mümkündür. Ancak bu durumda Mali Mühür Sertifikalarının
+HSM’lere yüklenmesi işleminin TÜBİTAK-UEKAE veya
+yetkili kıldığı kişiler/kurumlar aracılığı ile yapılması ve tercih edilen
+HSM modellerinin TÜBİTAK-UEKAE tarafından yayımlanacak niteliklere sahip
+olması gerekmektedir.
+Mali
+Mühürün başvuru, işleyiş ve kullanımı ile ilgili
+tüm bilgi ve belgeler http://mm.kamusm.gov.tr internet sitesinde yer
+almaktadır.
+8. EFKS Kapsamında Düzenlenen Faturalar
+Elektronik
+fatura çalışmaları kapsamında, Başkanlıkça Elektronik Fatura Kayıt Sistemi
+(EFKS) adı altında bir başlangıç adımı tasarlanmış ve sınırlı sayıda
+mükellef ile protokol imzalanarak uygulamaya konulmuştur.
+Bahsedilen
+mükelleflerin elektronik belge olarak fatura düzenleme ve göndermeye
+ilişkin almış olduğu EFKS izinleri, Başkanlık tarafından aksi duyuruluncaya
+kadar geçerli olduğundan, bu mükelleflerin EFKS kapsamında elektronik belge
+olarak düzenleyip, müşterilerine elektronik ortamda ilettikleri faturalar
+da Vergi Usul Kanunu kapsamında geçerli fatura hükmündedir.
+Ancak
+EFKS uygulamasından yararlanmak için Başkanlık ile protokol imzalayan
+mükelleflerin, Tebliğin 5.1.1. bölümünde açıklanan entegrasyonu,
+Tebliğin yayım tarihinden itibaren bir yıl içerisinde oluşturması
+zorunludur. Bu süre içerisinde söz konusu entegrasyonu
+tamamlamayan mükelleflerin EFKS protokolleri, herhangi bir uyarıya gerek
+kalmaksızın iptal edilmiş sayılır.
+9. Sorumluluk ve Cezai Müeyyideler
+Başkanlık
+tarafından bu Tebliğde yer alan usul ve esaslara aykırı biçimde e-Fatura
+düzenleyen mükellefler hakkında, işledikleri fiile göre Vergi Usul
+Kanununda öngörülen cezalar uygulanır.
+e-Fatura Uygulamasından yararlanma yetkisi bulunmakla
+birlikte, bu Tebliğde belirtilen usul ve esaslara uymayan ve Başkanlıkça
+yapılacak uyarıya rağmen durumlarını düzeltmeyen mükelleflerin, e-Fatura
+gönderme ve/veya alma yetkileri Başkanlık tarafından yapılacak
+değerlendirme üzerine iptal edilebilir. Yetkileri Başkanlıkça iptal edilen
+mükellefler, iptal edilen yetkileri bakımından bir yıl süre ile e-Fatura
+Uygulamasından yararlanamazlar.
+Mükellefler,
+e-Fatura Uygulaması kapsamında oluşturdukları elektronik belgelerde yer
+verdikleri bilgilerin gerçek duruma uygunluğunu sağlamaktan sorumlu olup,
+bu çerçevede Başkanlığın herhangi bir sorumluluğu bulunmamaktadır.
+e-Fatura düzenleme yetkisi bulunan mükelleflerin gerek
+kendi sistemlerinde gerekse e-Fatura Uygulamasında meydana gelebilecek
+arıza ve kesinti durumlarında fatura düzenleyebilmek için yeteri kadar
+basılı kağıt fatura bulundurmaları zorunludur.
+Başkanlık,
+gerek görmesi halinde uygulamadan yararlanan mükelleflerin bilgi işlem
+sistemini/sistemlerini denetleme yetkisine sahiptir. Bu denetimler
+sırasında mükellefler, gerekli her türlü imkanı
+(uygun donanım ve yazılımlar, terminallere ulaşım izinleri ve uzman personel
+gibi) sağlamak zorundadır.
+Mükellefler,
+bilgi işlem sistemini/sistemlerini oluşturan yazılım, donanım, dosya,
+dokümantasyon ve diğer unsurları, hiçbir şekilde kısmen veya tamamen vergi
+inceleme elemanlarının ve Başkanlıkça görevlendirilecek personelin
+erişimini ve denetimini engelleyecek bir sözleşme veya lisansa konu edemez.
+10. Vergi Usul Kanunu Kapsamında
+Düzenlenen Diğer Belgeler
+e-Fatura Uygulaması, Vergi Usul Kanunu kapsamında
+düzenlenmesi zorunlu olan fatura dışında kalan belgelerin de taraflar
+arasında dolaşımına imkan verecek şekilde tasarlanmıştır. Bu çerçevede,
+taraflar arasında elektronik belge olarak dolaşımı Başkanlıkça uygun
+bulunanlar, ilgili format ve standartların duyurulmasının ardından,
+e-Fatura Uygulaması aracılığı ile gönderilip alınabilecektir.
+11. Diğer Hususlar
+Başkanlık, e-Fatura Uygulamasının altyapısı ve işleyişini göz
+önünde bulundurarak, ilgilisine bilgi vermek suretiyle, e-Fatura
+Uygulamasından yararlanmak isteyen mükelleflerin başvurularının
+yanıtlanmasını belli bir süre erteleyebilir veya başvuruları sıraya
+koyabilir veya önceden haber vermek ve hazırlıklar için yeterli zaman
+tanımak kaydıyla, uygulama ile ilgili her türlü standart ile diğer teknik
+konularda genel veya özel değişiklikler yapabileceği gibi uluslararası
+standartlara uyma zorunluluğu getirebilir.
+Diğer
+taraftan e-Fatura Uygulaması, Vergi Usul Kanununun Mükerrer 242 nci maddesinin 2 numaralı fıkrasının beşinci bendinde
+belirtilen şekilde özel hukuk tüzel kişiliğini haiz bir şirketin kurulması
+durumunda, belirlenecek yeni esaslara göre devam ettirilebilecektir.
+Tebliğ
+olunur.
+—————————————————
+1 10/1/1961 tarih
+ve 10703 sayılı Resmî Gazete’de yayımlanmıştır.
+2 6/6/2008 tarih ve
+26898 sayılı (Mükerrer) Resmî Gazete’de yayımlanmıştır.
