@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, İthalatta Korunma Önlemlerine İlişkin 2010/6 sayılı Tebliğ uyarınca 7009.91 gümrük tarife pozisyonlu çerçevesiz cam aynaların İran İslam Cumhuriyeti (İran) menşeli olanlarının ithalatında, İthalatta Kota ve Tarife Kontenjanı İdaresi Hakkında Mevzuat çerçevesinde uygulanacak miktar kısıtlamasına (kota) ilişkin başvuru ve dağıtım ile kullanım usul ve esaslarını içermektedir.
