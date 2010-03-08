@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-03-08",
+  "issue": "27515",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Hemşirelik Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100308-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100308.htm",
+  "index_sha256": "c2dacc51e1f96f0a6a02ef34fdc7d13fc5b6d0812384de114d9d008ea69a9a1d",
+  "index_header": "8 Mart 2010 ... 27515 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
