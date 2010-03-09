@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5953",
+  "year": 2010,
+  "title": "Arsa Üretimi ve Değerlendirilmesi Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-09",
+  "gazette_issue": "27516",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100309-1.htm",
+  "source_sha256": "0bd81914e94f0c415016abc8ffae63493d96c57c09115d5b2b47db7f9810b0f0",
+  "text_sha256": "9097b0f5e48469cf25d44891673cbd5efc3ee41abaec2d7df45dd1641e233e68",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/09/27516-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100309-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
