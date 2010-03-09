@@ -1,0 +1,4 @@
+Komisyona bildirim
+MADDE 17 – (1) Ulusal İLU İzleme Mercii test birimi çalışmalarının İLU’nın bütünlüğü ve güvenilirliği açısından İLU’ya uymadığı konusunda bulgulara sahip ise verilen belge askıya alınır. Bu durumda Ulusal İLU İzleme Mercii derhal Müsteşarlık kanalıyla Komisyonu bilgilendirir.
+(2) Ulusal İLU İzleme Mercii diğer bir Üyesi Devlet topraklarında faaliyet gösteren bir test biriminin, testleri İLU prensiplerine uygun olarak gerçekleştirmediği hususunda yeterli delile sahipse üye devletten daha detaylı bilgi talebinde bulunabilir ve özel olarak çalışmaların denetimi ile birlikte yeni bir denetim isteyebilir.
+(3) İlgili üye devlet ile bir anlaşmaya varılması mümkün olmazsa, Ulusal İLU İzleme Mercii karar nedenlerini de belirterek üye devletleri, Dış İşleri Bakanlığını ve Komisyonu Müsteşarlık kanalıyla derhal bilgilendirir.
