@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2010/2",
+  "list_number": "120, 170",
+  "genelge_number": "2",
+  "decision_date": "2010-03-09",
+  "title": "İllerin seçim çevrelerine göre çıkartacakları milletvekili sayılarına ilişkin Yüksek Seçim Kurulu kararı, Yerleşim yerlerine ilişkin değişikliklerin MERNİS-AKS SİSTEMİNDE en kısa sürede yapılabilmesi hakkında Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1746/2010-2.pdf",
+  "source_sha256": "96320d20444e56d3fd2c67bc16ecf4ef71b447ca4fbb36a3c58eb43244a644af",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-03-09",
+  "law_text_complete": false
+}
