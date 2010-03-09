@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5955",
+  "year": 2010,
+  "title": "Anayasa Değişikliklerinin Halkoyuna Sunulması Hakkında Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-09",
+  "gazette_issue": "27516",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100309-3.htm",
+  "source_sha256": "5b40f8d714c76d68a71cde4aa55d1d15696d4764c8c8483848dbffe7b38e3aa3",
+  "text_sha256": "6d228fb905c13ba5e2ef59ed39b86fa64924db2d878e675fcbdf0694a1803327",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/09/27516-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100309-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
