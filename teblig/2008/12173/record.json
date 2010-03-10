@@ -1,0 +1,36 @@
+{
+  "source_id": "9.5.12173",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KABUKLU SU ÜRÜNLERİNİN YETİŞTİĞİ SULARA İLİŞKİN KALİTE STANDARDLARI HAKKINDA TEBLİĞ (TEBLİĞ NO:2008-29)",
+  "number": "12173",
+  "path": "teblig/2008/12173",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12173&MevzuatTertip=5",
+  "source_sha256": "15cbf435dbca49a9009e9ff84028db0d0ed213cf2a5d2a7fbb4573f94ae26028",
+  "source_bytes": 70048,
+  "published": "2008-06-02",
+  "gazette": "26894",
+  "in_force": "2010-03-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/3/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-03-10",
+      "RG-10/3/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1938,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
