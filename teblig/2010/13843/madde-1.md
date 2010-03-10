@@ -1,0 +1,2 @@
+İnceleme
+MADDE 1 – (1) 4412 sayılı Kanun ile değişik 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun, 20/10/1999 tarihli ve 99/13482 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik (Yönetmelik) hükümleri çerçevesinde Çin Halk Cumhuriyeti (ÇHC) menşeli “kayarak işleyen fermuarlar” için önlemin sona ermesinin damping ve zararın devamına veya tekrarına yol açıp açmayacağı hususunda inceleme yapılmıştır.
