@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.04.99.16.-1",
+  "source_id": 24614,
+  "date": "2010-03-11",
+  "title": "Performansa dayalı primlerde Gelir Vergisi Tefkifatı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24614",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "168aeecd5315f6587c77ae88cae63d277d3668965b5254e568b81855ef1ed496",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
