@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.11628",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANKALAR VE DİĞER MALİ KURULUŞLARIN MÜŞTERİLERİNİN RİSK İŞLEMLERİ HAKKINDA YÖNETMELİK",
+  "number": "11628",
+  "issuer": "Türkiye Cumhuriyet Merkez Bankası Başkanı",
+  "issuer_slug": "turkiye-cumhuriyet-merkez-bankasi-baskani",
+  "path": "regulation/turkiye-cumhuriyet-merkez-bankasi-baskani/2007/11628",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11628&MevzuatTertip=5",
+  "source_sha256": "770d34cfe68fbaa7683f9694d3d4176b16cb8133b657daa9fc34244c062ad8c4",
+  "source_bytes": 62216,
+  "published": "2007-09-20",
+  "gazette": "26649",
+  "in_force": "2010-03-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/3/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-03-11",
+      "RG-11/3/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-03-11",
+      "11/3/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, 1/10/2007 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 975,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
