@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5956",
+  "year": 2010,
+  "title": "Avusturya Cumhuriyeti, Bulgaristan Cumhuriyeti, Macaristan Cumhuriyeti, Romanya ve Türkiye Cumhuriyeti Arasında Nabucco Projesi Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-11",
+  "gazette_issue": "27518",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100311-1.htm",
+  "source_sha256": "9e743c8770b6582dc764ae2a718519d8a4f4c47b70fb89a118ad36b19bccd183",
+  "text_sha256": "d441840c95c9d4c088b2a848b255d260865d8b2a89e459a21988d1e3d7e14eca",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/11/27518-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100311-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
