@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.13850",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2010/3)",
+  "number": "13850",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2010/13850",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13850&MevzuatTertip=5",
+  "source_sha256": "7b6e7f8d3d6d5eaaa6141d0f656fdd7f6ac7cec44bfa46b9b7fb8f61a34e21f8",
+  "source_bytes": 31424,
+  "published": "2010-03-12",
+  "gazette": "27519",
+  "in_force": "2010-03-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.03.2010); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 681,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
