@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, 8711.10.00.00.11; 8711.10.00.00.19; 8711.20.10.00.00; 8711.20.91.00.00; 8711.20.93.00.00; 8711.20.98.00.00 ve 8711.30.10.00.00 gümrük tarife istatistik pozisyonlarında yer alan eşyanın ithalatında 23/2/2010 tarihli ve 27502 sayılı Resmî Gazete’de yayımlanan 2010/152 sayılı Bakanlar Kurulu Kararı çerçevesinde açılan tarife kontenjanının başvuru ve dağıtım ile kullanım usul ve esaslarını içermektedir.
