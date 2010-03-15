@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-03-15",
+      "15.03.2010",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27522",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2010-03-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Karamanoğlu Mehmetbey Üniversitesi",
+  "issuer_slug": "karamanoglu-mehmetbey-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/karamanoglu-mehmetbey-universitesi/2010/13857",
+  "published": "2010-03-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13857&MevzuatTertip=5",
+  "source_bytes": 21569,
+  "source_id": "8.5.13857",
+  "source_sha256": "267f6387625686fd0f23fd2e7c58470e5cda650ef0d2c1c1f6ff19a5d1248db9",
+  "text_status": "as-enacted",
+  "title": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 311,
+  "word_count": 895
+}
