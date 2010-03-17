@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.15.01-66-2/1-5",
+  "source_id": 37391,
+  "date": "2010-03-17",
+  "title": "Kooperatiflerin 775 sayılı Gecekondu Kanunu kapsamında yapılan konut inşaatlarının imar çapı ücretinden muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37391",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "bca1c29d43e6e524557893db711c324e31f733beacb93d54077461622a743543",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
