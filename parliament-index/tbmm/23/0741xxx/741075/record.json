@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 741075,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Biyogüvenlik Kanununa Dair (1/789) (S. Sayısı: 473)",
+  "title": "Biyogüvenlik Kanununa Dair (1/789) (S. Sayısı: 473)",
+  "first_sitting_date": "2010-03-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 64,
+      "sitting": 74,
+      "sitting_date": "2010-03-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c064/tbmm23064074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c064/tbmm23064fih.pdf",
+      "pages": [
+        "31:86",
+        "87:101"
+      ]
+    },
+    {
+      "cilt": 64,
+      "sitting": 75,
+      "sitting_date": "2010-03-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c064/tbmm23064075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c064/tbmm23064fih.pdf",
+      "pages": [
+        "213:264"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d23&v_yasama_yili=4&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ba0deac3f651e6aa44e18fad4472473e12d8a61ed7b4935a4005382b8b542c12",
+  "in_force": "2010-03-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
