@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-BGK:39.MD/2010-38-229",
+  "source_id": 37275,
+  "date": "2010-03-18",
+  "title": "Elektrik iletim şirketi tarafından temin edilen elektriğin elektrik ve havagazı tüketim vergisinin tahsili ve sorumlusunun belirlenmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37275",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "153f1906b71daa339f0c61bc0904b702ca66283b922484a2914edca01260a5b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
