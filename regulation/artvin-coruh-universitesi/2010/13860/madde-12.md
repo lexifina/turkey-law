@@ -1,0 +1,2 @@
+Koordinasyon grupları
+MADDE 12 – (1) Müdür, sürekli eğitim ile ilgili faaliyetleri gerçekleştirmek veya bu eğitim faaliyetlerini yürütmek üzere, bir Yönetim Kurulu üyesi ile Üniversite birimlerindeki ilgili personelden oluşan koordinasyon grupları oluşturabilir. Koordinasyon grupları, Müdür ve/veya Müdürün görevlendireceği kişi başkanlığında toplanır ve yapılan çalışmalarla ilgili olarak Müdüre önerilerde bulunur.
