@@ -1,0 +1,375 @@
+Genelge No
+: 3
+Genelge Tarihi
+: 20/03/2010
+Yüksek Seçim Kurulunca verilen 20/03/2010 tarihli, 2010/215 sayılı karar örneği
+ilişikte gönderilmiştir.
+Bilgi edinilmesi ve gereği rica olunur.
+Ali EM
+Yüksek Seçim Kurulu Başkanı
+EK
+:
+- Karar Örneği (9 Sayfa)
+T.C.
+YÜKSEK SEÇİM KURULU
+Karar No : 215
+Başkanlık Makamınca Kurulumuza sunulan bila tarihli yazıda aynen; “Türkiye
+Cumhuriyeti Anayasasının 127 nci maddesinde; “Mahalli İdareler; il, belediye veya köy
+halkından mahalli müşterek ihtiyaçlarını karşılamak üzere kuruluş esasları kanunla belirtilen
+ve karar organları, gene kanunda gösterilen, seçmenler tarafından seçilerek oluşturulan
+kamu tüzel kişileridir.” şeklinde tanımlanmaktadır. Ayrıca, 2972 sayılı Kanunun başlığı
+“Mahalli İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında Kanun” olarak
+belirlenmiş olmasına karşın, 1 inci maddesinin (c) bendi mahalle muhtarlık ve ihtiyar heyeti
+üyeliği seçimlerini de kapsamaktadır.
+2972 sayılı Kanunun 8 inci maddesinde; mahalli idareler seçimlerinin beş yılda bir
+yapılacağı hükme bağlanmıştır.
+2972 sayılı Kanunun 29 uncu maddesinin son fıkrasında ise; mahalli idareler genel
+seçimine bir yıldan az bir süre kalmış ise, mahalli idareler ara seçiminin yapılamayacağı
+öngörülmüştür.
+Boşalan muhtarlıklar için her yıl Haziran ayının ilk Pazar günü seçim yapılması, 2972
+sayılı Kanunun 33 üncü maddesinin ikinci fıkrası,
+Seçim döneminin sona ermesinden önce ihtiyar meclisi veya heyeti üye sayısının
+yedeklerinin de getirilmesinden sonra üye tamsayısının, köylerde tabii üyeler hariç, yarısına
+düşmesi halinde, ilân tarihinden sonra gelen 60 ıncı günü takip eden ilk Pazar günü
+oylamanın yapılması hususu ile ihtiyar meclisi ve heyeti seçiminin yapılması gerektiği
+hallerde köy veya mahalle muhtarlığı da boşalmış ise, Haziran ayı beklenmeksizin her iki
+seçimin beraber yapılması, yine aynı Kanunun 33 üncü maddesinin üçüncü ve müteakip
+fıkraları,
+gereğidir.
+5393 sayılı Belediye Kanununun 9 uncu maddesinin ikinci fıkrasında; “Belediye
+sınırları içinde mahalle kurulması, kaldırılması, birleştirilmesi, bölünmesi, adlarıyla sınırlarının
+tespiti ve değiştirilmesi, belediye meclisinin kararı ve kaymakamın görüşü üzerine valinin
+onayı ile olur.” şeklinde hükme yer verilmiştir.
+5393 sayılı Kanunun 12 nci maddesinin birinci bendinde de; 9 uncu maddeye göre
+verilen kararların kesinleşme tarihini takip eden yılın ocak ayının birinci gününden itibaren
+yürürlüğe gireceği vurgulanmış ve buna istinaden, 2009 yılı içerisinde yeni oluşturulan
+mahallelerde yapılacak seçimin, 01/01/2010 tarihi esas alınarak 2972 sayılı Kanunun 33
+üncü maddesinin üçüncü ve dördüncü fıkraları uyarınca ilan tarihinden sonra gelen 60 ıncı
+günü izleyen ilk Pazar günü yapılması gerektiği hususu tüm teşkilata Kurulumuz kararları
+veya Başkanlık yazıları ile duyurulmuştur.
+Bazı ilçe seçim kurulu başkanlıklarından alınan yazılarda da; ilçelerinde yeni köy
+kuruluşlarının yapıldığı, ayrıca muhtar veya ihtiyar meclisi – heyeti üyeliklerinde 2972 sayılı
+Kanunda öngörülen şekilde boşalma meydana geldiği ve bu gibi yerlerde seçimin ne zaman
+yapılacağı sorulmaktadır.
+Bu nedenle, yukarıda değinilen yasal düzenlemeler ve sürenin kısalığı da göz önünde
+bulundurularak, tüm Yurt genelinde birlikteliği sağlamak amacıyla ve seçim ekonomisi de
+gözetilerek;
+1- 5393 sayılı Belediye Kanununun 9 uncu ve 12 nci maddeleri gereği olarak 2972
+sayılı Mahalli İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında Kanunun
+33 üncü maddesi uyarınca yeni kurulan mahallelerde yapılacak olan muhtarlık ve ihtiyar
+heyeti üyeliği seçimleri ile,
+2- Herhangi bir nedenle boşalma sonucu 2972 sayılı Kanunun 33 üncü maddesi
+gereği yapılması zorunlu olan muhtar veya ihtiyar meclisi - heyeti üyeliği seçimlerinin,
+06 Haziran 2010 tarihinde yapılması hususunun karara bağlanması,
+şayet, 5393 sayılı Kanunun 9 uncu ve 12 nci maddeleri gereği olarak, yeni kurulan
+mahallelerde seçim yapılacak ise, bu seçimlere ilişkin olarak;
+a) Kullanılacak sandık seçmen listelerindeki seçmen sayılarının,
+b) Bu listelerin askıya çıkış ve iniş tarihlerinin,
+c) Yapılacak mahalle muhtarlığı ve ihtiyar heyeti üyeliği seçimlerinde kullanılacak oy
+pusulalarının usul ve esaslarının,
+gerekli görülecek sair hususların Kurulumuzun önceki uygulamaları da göz önünde
+bulundurularak,
+gerektiğinde
+komisyon
+çalışmasından
+sonra
+belirlenerek
+karara
+bağlanmasını takdirlerinize arz ederim.”
+Denilmiş olmakla, konu ile ilgili yasal düzenlemeler ile Yüksek Seçim Kurulu ilke
+kararları ve 06/03/2010 tarihinde oluşturulan Komisyonca hazırlanan 19/03/2010 tarihli rapor
+birlikte incelenerek;
+GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ :
+I- 5393 SAYILI BELEDİYE KANUNUNUN UYGULAMA KURALLARI:
+Başkanlık teklifinde ve Komisyon kararında belirtildiği üzere;
+13 Temmuz 2005 günlü Resmi Gazetede yayımlanarak yürürlüğe giren 5393 sayılı
+Belediye Kanununun,
+8 inci maddesinde; birleşme ve katılmalar,
+9 uncu maddesinde, mahalle ve yönetimi,
+11 inci maddesinde de; tüzel kişiliğin sona erdirilmesi durumları,
+12 nci maddesinde ise; belediye meclisince verilen kararların uygulanması hususları,
+detaylı olarak yeniden düzenlenmiştir.
+Bundan ayrı olarak da, 2972 sayılı Mahalli İdareler ile Mahalle Muhtarlıkları ve İhtiyar
+Heyetleri Seçimi Hakkında Kanunun 8 inci maddesinde ise, seçim dönemi düzenlenmiş ve
+madde içeriğine göre, mahalli idareler seçimlerinin beş yılda bir yapılacağı hükmü
+getirilmiştir.
+Yukarıdaki yasal düzenlemeler karşısında;
+A) 1- Bir ilçeye bağlı köyün belediyeye katılmasına ilişkin 5393 sayılı Belediye
+Kanununun 8 inci maddesine göre alınan Belediye Meclisi kararları anılan Kanunun 12 nci
+maddesinin birinci fıkrası gereği kesinleşme tarihini takip eden yılın Ocak ayının birinci
+gününde yürürlüğe girecektir. Ancak, bu birleşme ve katılmaya bağlı olarak yeni kurulan
+mahallelerde muhtarlık ve ihtiyar heyeti üyeliği seçimlerinin yukarıda belirtilen 5393 sayılı
+Kanunun 12 nci maddesinin ikinci fıkrası gereğince ilk mahalli idareler genel seçimleriyle
+birlikte yapılması,
+2- İlçe veya beldeye bağlı bir mahallenin bölünerek ve bir kısmı korunmak suretiyle
+yeni oluşturulan mahallelerde 5393 sayılı Kanunun 9 uncu maddesi ile 12 nci maddesinin
+birinci fıkrası uyarınca kararın yürürlüğe girmesinden sonra, 2972 sayılı Mahalli İdareler ile
+Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında Kanunun 33 üncü maddesinin
+3 üncü ve devamı fıkraları
+uyarınca ilan tarihinden sonra gelen 60 ıncı günü izleyen ilk Pazar günü muhtar ve ihtiyar
+heyeti üyeliği seçimlerinin yapılması,
+gerekmektedir.
+Konuyu örneklerle açıklamak gerekirse;
+Örnek (1) – Belediye Meclisinin 05/09/2009 tarihli kararı ile ilçeye bağlı bir köy, ilçe
+veya belde belediyesine 5393 sayılı Belediye Kanununun 8 inci maddesine göre mahalle
+olarak katılmış olsun. Bu durumda, katılmaya ilişkin 5393 sayılı Belediye Kanununun 8 inci
+maddesine göre alınan 05/09/2009 tarihli Belediye Meclisi kararı 01/01/2010 tarihinde
+yürürlüğe girecektir. Ancak, 5393 sayılı Kanunun 8 inci maddesi ve 12 nci maddesinin ikinci
+fıkrası ile 2972 sayılı Kanunun 8 inci maddesi göz önünde bulundurularak, birleşme ve
+katılma suretiyle belediye sınırları içerisine alınan yerleşim biriminde muhtar ve ihtiyar heyeti
+üyeliği seçimleri ilk mahalli idareler genel seçimleriyle birlikte yapılacaktır.
+Örnek (2) – Öncelikle, 5393 sayılı Belediye Kanununun 8 inci maddesi gereğince
+ilçeye bağlı bir köy, ilçe belediyesi veya belde belediyesi sınırları içerisine Belediye Meclisinin
+09/10/2009 tarihli kararı ile katılmış olsun.
+Daha sonra birleşme ve katılma gerçekleşen bu yerde Belediye Meclisinin sonradan
+almış olduğu 05/01/2010 tarihli kararı ile, belediye sınırları içerisine alınan bu mahallenin de
+içerisinde bulunduğu üç yeni mahalle oluşturulsun ve oluşturulan bu mahallelerin kuruluş
+işlemi ise 5393 sayılı Kanunun 9 uncu maddesi uyarınca 31/01/2010 tarihinde Valilik
+Makamınca onaylansın.
+İlk olarak köyün ilçe veya belde belediyesine katılmasına ilişkin Belediye Meclisinin
+09/10/2009 tarihli kararı 5393 sayılı Kanunun 8 inci maddesine göre alınmış olduğundan ve
+anılan 8 inci maddeye göre de Belediye Meclisinin uygun görmesi halinde katılım
+gerçekleşmiş olacağından, söz konusu Belediye Meclisi kararı 5393 sayılı Kanunun 12 nci
+maddesinin birinci fıkrası gereği 01/01/2010 tarihinde yürürlüğe girecektir. Ancak, belediye
+sınırları içerisine alınan köyün belediyeye katılması sonucunda 5393 sayılı Belediye
+Kanununun 8 inci ve 12 nci maddeleri ile 2972 sayılı Kanunun 8 inci maddesi göz önünde
+bulundurularak, birleşme ve katılma suretiyle oluşturulan mahallelerin oluşumuna dair meclis
+kararları aynı Kanunun 12 nci maddesinin ikinci fıkrası gereği ilk mahalli idareler genel
+seçimlerinde uygulanacaktır.
+Bunun sonucu olarak da; belediye sınırları içerisine alınmakla mahalle haline gelmiş
+olan yerleşim biriminde veya sonrasında bu mahalleye bağlı olarak oluşturulan diğer
+mahallelerde muhtar ve ihtiyar heyeti üyeliği seçimlerinin ilk mahalli idareler genel
+seçimleriyle birlikte yapılması gerekir.
+Örnek (3) – Bir ilçeye veya beldeye bağlı tek bir mahallenin bölünerek ve bir kısmı
+korunmak suretiyle yeni iki mahalle oluşturulmuş ve bu yeni kurulmuş olan mahallelerin
+kuruluş işlemi ise 5393 sayılı Belediye Kanunu hükümleri çerçevesinde gerçekleştirilmiş ve
+anılan Kanunun 9 uncu maddesine göre de 23/01/2010 tarihinde Valilik Makamınca
+onaylanmış olsun, bu durumda anılan 5393 sayılı Kanunun 9 uncu maddesi ve 12 nci
+maddesinin birinci fıkrası göz önünde bulundurularak yeni oluşturulan mahallelerde
+01/01/2011 tarihine kadar bir seçim yapılmayacak ve 2011 yılı Ocak ayının birinci günü esas
+alınarak yeni kurulan mahallelerde 2972 sayılı Kanunun 33 üncü maddesinin 3 üncü ve
+devamı fıkraları uyarınca ilan tarihinden sonra gelen 60 ıncı günü izleyen ilk Pazar günü
+muhtarlık ve ihtiyar heyeti üyeliği seçimleri yapılacaktır.
+B) Türkiye Cumhuriyeti Anayasasının 127 nci maddesinin birinci fıkrasında “Mahalli
+idareler; il, belediye veya köy halkının mahalli müşterek ihtiyaçlarını karşılamak üzere kuruluş
+esasları kanunla belirtilen ve karar organları, gene kanunda gösterilen, seçmenler tarafından
+seçilerek oluşturulan kamu tüzel kişileridir.”
+442 sayılı Köy Kanununun 7 nci maddesinde “Köy, bir yerden bir yere götürülebilen
+veya götürülmeyen mallara sahip olan ve iş bu Kanun ile kendisine verilen işleri yapan başlı
+başına bir varlıktır.”
+şeklinde tanımlanmaktadır.
+Mahalleler ise, 4541 sayılı Kanuna göre oluşturulan tamamen farklı kuruluşlardır.
+Yasal dayanakları, oluşumları, görev ve yetkileri birbirinden ayrı olan bu kuruluşlardan birinin
+diğerine dönüştürülmesi halinde yeni oluşum için, tabi olduğu kanun esaslarına göre, yeni
+seçim yapılması doğal olduğu kadar yasal bir zorunluluktur.
+Bu nedenle, bir mahallenin 442 sayılı Köy Kanununa göre köy statüsüne dönüşmesi
+ve bu idari işlemin kesinleşmiş olması durumunda, mahalle iken aynı adla bağımsız bir köy
+haline getirilen yerleşim biriminde 2972 sayılı Kanunun 33 üncü maddesinin 3 üncü ve
+devamı fıkraları uyarınca ilan tarihinden sonraki 60 ıncı günü takip eden ilk Pazar günü köy
+muhtar ve ihtiyar meclisi üyeliği seçiminin yapılması ve mahalle statüsünde iken seçilip halen
+görev başında bulunan eski muhtar ve ihtiyar heyeti üyelerinin seçime kadar görevlerine
+devam etmesi gerekmektedir.
+Örnek – İçişleri Bakanlığı İller İdaresi Genel Müdürlüğünün yazıları ve Bakan onayı
+ile; bir belediyeye bağlı mahallenin belediyeden ayrılarak aynı adla bağımsız bir köy haline
+getirilmesi uygun görülmüş ve idari işlem kesinleşmiş olsun. Bu idari değişiklik sonucu
+mahallenin muhtar ve ihtiyar heyeti üyelerinin görevleri son bulacaktır. Bunun sonucu olarak
+da, mahalle iken aynı adla bağımsız bir köy haline getirilen yerleşim biriminde, yeni
+durumuna göre 2972 sayılı Kanunun 33 üncü maddesi hükümleri çerçevesinde yeniden
+muhtar ve ihtiyar meclisi üyeliği seçimlerinin yapılması gerekecektir.
+Ancak, yapılacak seçime kadar mahalle statüsünde iken seçilip görev başında
+bulunan eski muhtar ve ihtiyar heyeti üyeleri seçime kadar görevlerine devam edeceklerdir.
+C) İlçe veya belde belediyesi sınırları içerisinde yeni kurulan mahallelerin kuruluş
+işlemi bir veya bir kaç mahallenin hukuki statüsünün kaldırılması suretiyle gerçekleşmesi
+ve bu durumun 5393 sayılı Kanunun 9 uncu maddesi uyarınca Valilik Makamınca da
+onaylanması durumunda, aynı Kanunun 9 uncu maddesi ve 12 nci maddesinin ikinci fıkrası
+ile 2972 sayılı Kanunun 8 inci maddesi göz önünde bulundurularak, yeni oluşturulan
+mahallelerde muhtar ve ihtiyar heyeti üyeliği seçimlerinin ilk mahalli idareler genel
+seçimleriyle birlikte yapılması gerekmektedir.
+Örnek – Bir ilçeye bağlı 12 mahalle kaldırılarak, başka isimlerle bir veya birkaç yeni
+mahalle oluşturulmuş ve bu yeni kurulan mahallelerin kuruluşlarına dair Belediye Meclisi
+kararı ise 5393 sayılı Kanunun 9 uncu maddesi gereğince 16/11/2009 tarihinde Valilik
+Makamınca onaylanmış olsun, yeni kurulan mahalle veya mahallelerin kuruluş işlemi mevcut
+12 mahalle kaldırılmak suretiyle gerçekleştirilmiş ve Valilik Makamınca da 16/11/2009
+tarihinde onaylanmış olsa dahi, anılan Kanunun 9 uncu maddesi ve 12 nci maddesinin ikinci
+fıkrası ile 2972 sayılı Kanunun 8 inci maddesi uyarınca, oluşturulan yeni mahallelerde muhtar
+ve ihtiyar heyeti üyeliği seçimleri ilk mahalli idareler genel seçimleriyle birlikte yapılacaktır.
+D) Şehir ve Kasabalarda Mahalle Muhtar ve İhtiyar Heyetleri Teşkiline Dair 4541
+sayılı Kanunun 3 ve 4 üncü maddelerinde sayılan işlerin görülmesi için oluşturulan
+mahallelerin sınırları belediye meclisince belirlenmektedir. Ayrıca mahalleler, 2972 sayılı
+Kanunun 32 nci maddesine göre bir seçim çevresi olarak kabul edilmiştir.
+Öte yandan, 2972 sayılı Mahalli İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri
+Seçimi Hakkında Kanun'un 8 inci maddesine göre, mahalli idareler seçimleri 5 yılda bir
+yapılır. Mahalle muhtarlığına ve ihtiyar heyeti üyeliğine seçilenlerin de 5 yıl süre ile görev
+yapmaları, bu maddenin doğal gereğidir. O halde, 5 yıl dolmadan veya sözü edilen Kanun'un
+33 üncü maddesinde öngörülen koşullar oluşmadan muhtarlık ve ihtiyar heyeti üyeliği
+boşalmış sayılamaz. Bu açıdan, bir mahallenin bölünmesi halinde mevcut (bölünen)
+mahallede de seçim yapılması gerektiğine ilişkin ne seçim ne de konu ile ilgili mevzuatta
+herhangi bir hüküm yer almış değildir.
+Bu durumda, mevcut (bölünen) mahallede seçim yapılmasına yasal olanak
+bulunmamaktadır. 5 yıl süre ile seçilmiş olan mahalle muhtar ve ihtiyar heyeti üyelerinin, bu
+süre dolmadan ve yasal zorunluluk bulunmadan, yeni mahalleler kurulması nedenine dayalı
+olarak görevlerinin sona erdirilmesi, halk iradesine olduğu kadar bu kişilerin anayasal seçilme
+haklarına da aykırılık oluşturur. Kaldı ki, bir mahallenin bölünmesi halinde mevcut (bölünen)
+mahallede de seçim yapılmaması, bir köyün bölünmesi halinde mevcut (bölünen) köyde
+seçim yapılamayacağına ilişkin Kurulumuz'un yerleşik kararlarına da uyum sağlayacaktır.
+Mahalle, hükmi şahsiyeti olmayan bir hizmet birimidir. Bir mahallenin bölünmesi ya da birden
+çok mahallenin belirli kısımlarının ayrılarak yeni bir mahalle oluşturulması gibi durumlarda
+mevcut (bölünen) mahallede seçim yapılmaması ve sadece yeni kurulan mahallede seçim
+yapılması gerekir. Bundan ayrı olarak, mahalle ayrılmasında eski mahalle varlığını korur ve
+seçilmiş organlarında bir boşalma ve seçimi gerektirir eksilme olmadıkça yeniden seçim
+yapılmaz.
+Ayrıca, isim değişikliğine uğrayan bir mahalle varlığını koruyacağından, isim
+değişikliği yapılan mahallede yeniden muhtar ve ihtiyar heyeti üyeliği seçimi yapılmaz. İsim
+değişikliği nedeniyle sınırı yeniden çizilen mahallenin muhtar ve ihtiyar heyeti üyelerinin bir
+kısmının yeni kurulan mahalleler sınırları içerisinde oturmaları dahi sonucu etkilemez.
+II- 06 HAZİRAN 2010 PAZAR GÜNÜ YAPILACAK ARA SEÇİMLERE İLİŞKİN
+KURALLAR:
+Haziran ayının ilk Pazar günü yapılagelmekte olan mahalli idareler ara seçimleri,
+2972 sayılı Mahalli İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında
+Kanunda; il genel meclisi, belediye meclisi, köy ve mahalle muhtarlıkları ile ihtiyar meclisi -
+heyeti üyeliği seçimleriyle sınırlandırılmıştır.
+Bugüne kadar ilçe ve il seçim kurullarından "Belediye meclisi veya il genel meclisi
+üyeliklerinin herhangi bir sebeple boşaldığı ve meclis üye sayısının yedeklerinin de
+getirilmesinden sonra üye tamsayısının yarısından aşağıya düştüğü veya yeni belediyelerin
+kurulduğu" hususunda Yüksek Seçim Kuruluna bir başvuru olmamıştır.
+Bu durumda, 06 Haziran 2010 Pazar günü sadece herhangi bir nedenle boşalmış
+bulunan köy ve mahalle muhtarlıkları ile ihtiyar meclisi – heyeti üyelikleri, yeni kurulan köy
+muhtarlıkları ve ihtiyar meclisi üyeliği ve mahalle iken köy statüsüne dönüşen yerleşim
+birimlerinin muhtar ve ihtiyar meclisi üyeliği seçimleri yapılacaktır.
+İhtiyar meclisi - heyeti üyeliğinin boşalması halinde gerek ihtiyar meclisi - heyeti
+üyeliği, gerekse muhtar seçiminin ilandan sonraki 60 ıncı günü izleyen ilk Pazar günü
+yapılması gerekirse de, ara seçim tarihi olan 06 Haziran 2010 gününe az bir zaman kala
+değişik yerlerde seçim yapılması gider arttırıcı nitelikte bulunduğundan, seçim tarihi 05 Nisan
+2010 tarihinden sonraya rastlayan ve henüz ilanı yapılmamış muhtar ve ihtiyar meclisi -
+heyeti üyeleri seçimlerinin 06 Haziran 2010 tarihinde yapılması uygun bulunmuştur.
+Bu ara seçimlerde seçim takvimindeki işlerin düzenli biçimde yürütülmesi için sandık
+seçmen listelerinin tüm yurttaki ara seçim bölgelerinde aynı tarihlerde askıya çıkarılıp
+askıdan indirilmesi gerekmektedir. Bu nedenle, ilçe seçim kurullarınca hazırlanacak seçim
+takviminde sandık seçmen listelerinin 16 Nisan 2010 Cuma günü askıya çıkarılması ve 25
+Nisan 2010 Pazar günü askıdan indirilmesi uygun görülmüştür.
+Yapılacak işlemin aşağıda belirtilen ilkeler doğrultusunda Bilgisayar Destekli Merkezi
+Seçmen Kütüğü (SEÇSİS) Projesi kapsamında yürütülmesi icabetmektedir.
+a- İlçe seçim kurulları, seçim yapılacak köy ve mahalleleri en geç 09 Nisan 2010
+tarihine kadar Yüksek Seçim Kuruluna bildireceklerdir.
+b- İlçe seçim kurulları, bilgisayardan alacakları muhtarlık bölgesi askı listelerini 16
+Nisan 2010 Cuma günü askıya çıkaracaklar ve 25 Nisan 2010 Pazar günü saat: 17.00’de
+askıdan indireceklerdir.
+c- SEÇSİS kullanım kılavuzunda belirtildiği şekilde, yapılacak seçim bilgisayarda
+tanımlanacaktır.
+d- Seçmen hareketinin son tarihi 29 Nisan 2010 olarak belirlenecektir.
+e- Yeni kurulan köylerle, mahalle iken köy statüsüne dönüşen yerleşim birimlerinde ve
+herhangi bir nedenle organları boşalan köy ve mahallelerde 06 Haziran 2010 Pazar günü
+yapılacak seçimlerde, SEÇSİS merkezi seçmen kütüğünde güncelleştirilmiş bilgilere göre
+sandık seçmen listeleri alınarak kullanılacaktır.
+Güncelleştirme işlemi, Yüksek Seçim Kurulunun 30/12/2008 tarihli, 2008/335 sayılı
+kararı ile kabul edilen Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir
+Örnek: 140/I sayılı Genelgemizin bu kararımıza aykırı olmayan hükümleri çerçevesinde
+yapılacaktır. Güncelleştirme sırasında her türlü yayın aracından (ücretsiz olmak kaydıyla)
+yararlanılarak, yapılacak duyurularla vatandaşların seçmen kütük bürolarına başvurmaları
+sağlanmalıdır.
+Ayrıca, bu ara seçimlerde; sandık seçmen listelerinin, her sandık için 350 - 400
+seçmeni kapsayacak biçimde düzenlenmesi ve yapılacak köy muhtarlığı ve ihtiyar meclisi
+üyeliği ile mahalle muhtarlığı ve ihtiyar heyeti üyeliği seçimlerinde kullanılacak oy
+pusulalarının ve bu seçimlerde yapılacak ödemeler ile sair harcamaların usul ve esaslarının
+da aşağıdaki şekilde karara bağlanması uygun görülmüştür.
+S O N U Ç:
+Yukarıda açıklandığı üzere;
+1- 5393 sayılı Belediye Kanununun 8 inci ve 9 uncu maddelerine göre alınan Belediye
+Meclisi kararlarının, yukarıda gerekçede belirtilen açıklamalar ve örneklemeler göz önünde
+bulundurularak uygulamaya geçirilmesine,
+2- İdari değişiklikler sebebiyle yeni kurulan köylerle, mahalle iken köy statüsüne
+dönüştürülen yerleşim birimlerinde ve herhangi bir nedenle boşalan köy ve mahalle
+muhtarlıkları ile ihtiyar meclisi – heyeti üyeliği seçimlerinin 06 Haziran 2010 Pazar günü
+birlikte yapılmasına,
+3- Bu seçimlerin başlangıç tarihinin 05 Nisan 2010 Pazartesi günü olduğuna,
+4- Seçim günü 05 Nisan 2010 tarihinden sonraya rastlayan ve ilanı yapılmamış ihtiyar
+meclisi - heyeti üyeleri ve birlikte yapılması gereken muhtar seçimlerinin de 06 Haziran 2010
+Pazar günü yapılmasına,
+5- 16 - 25 Nisan 2010 tarihleri arasında askıya çıkacak ve bu seçimlerde kullanılacak
+sandık seçmen listelerinin güncelleştirme işlemlerinin Örnek: 140/I sayılı Güncelleştirme
+Genelgesi göz önünde bulundurulmak suretiyle yapılmasına,
+6- Yapılacak olan bu ara seçimlerde kullanılacak sandık seçmen listelerinin, her
+sandık için (350 – 400) seçmeni kapsayacak şekilde düzenlenmesine,
+7- Bu seçimlerle ilgili seçim takviminin seçimi yönetecek olan ilçe seçim kurullarınca
+oluşturulmasına,
+8 – a) Bu ara seçimlerin gerektirdiği çalışmalar diğer seçimlere oranla sınırlı
+bulunduğundan, ödeneğin harcanılmasında tasarruf ilkelerinin göz önünde bulundurulmasına
+ve ara seçim ve bundan sonraki diğer seçimlerde;
+İlçe Seçim Kurulu Başkanlarına;
+aa) 1 – 3 sandık bölgesi itibariyle
+4 gündelik,
+ab) 4 – 7 sandık bölgesi itibariyle
+6 gündelik,
+ac) 8 – 11 sandık bölgesi itibariyle
+9 gündelik,
+ad) 12 – 15 sandık bölgesi itibariyle
+12 gündelik,
+ae) 16 – 20 sandık bölgesi itibariyle
+15 gündelik,
+af) 21 – 30 sandık bölgesi itibariyle
+20 gündelik,
+ag) 30 sandık bölgesinden fazla olanlar için
+25 gündelik,
+tahakkuk ettirilmesine,
+Yukarıda belirtilen gündelik sayıları normal sayılar olup, bu gündelik sayılarının ancak
+gerekçesi belirtilmek ve belgelenmek suretiyle aşılabileceğine,
+b) İlçe Seçim Kurulu Üyelerine ise Kanunda belirtilen görevleri yapmak üzere
+çalıştıkları süreler esas alınmak suretiyle en çok (2)’şer gündelik ödeneceğine,
+c) Ara seçimlerde sandık kurulu başkanlarına kurs dahil (3)’er – kurs verilmez ise
+(2)’şer gündelik ödeneceğine, sandık kurulu üyelerine ise; ilçe seçim kurulu başkanlığınca
+kurs verilmesi halinde memur üyeye (2)’şer – kurs verilmez ise (1)’er, partili üyeye (1)’er
+gündelik ödeneceğine ve sandık kurullarından gelen bordrolar ile sayım – döküm cetveli,
+tutanak defteri ve diğer tutanaklardaki isim ve imzalar kontrol edilip birliktelik sağlandıktan
+sonra, fiilen görev yapan sandık kurulu başkan ve üyeleri için tahakkuk yapılması gerektiğine
+ve tahakkuk işlemlerinin gecikmeden yapılmasına,
+d) Ara seçim yapılacak yerlerde İlçe Seçim Kurulu Başkanının takdirine göre büro
+personeline;
+1-3 sandık bölgesi itibariyle en çok
+4 gündelik,
+4-7 sandık bölgesi itibariyle en çok
+6 gündelik,
+8-11 sandık bölgesi itibariyle en çok
+8 gündelik,
+11 sandık bölgesinden fazla olanlar için
+10 gündelik
+ödeneceğine,
+e) Askı yeri görevlilerine, sandık seçmen listelerinin askıya çıkarılmasına esas olarak
+çalıştıkları süre göz önünde bulundurularak en çok (5)'er gündelik ödeneceğine,
+f) Bina sorumlularına en çok (2) gündelik ödenecektir. Ancak, (3) üç sandığı aşan
+mahallelerde bina sorumlusu görevlendirileceğinden, bunun dışında bina sorumlusu
+görevlendirilmesine yasal olanak bulunmadığına,
+g) Telefon görüşmeleri sırasında seçimle ilgisi olmayan resmi veya özel hiç bir
+konuşma yapılmamasına ve tasarrufa azami özenin gösterilmesine,
+h) Örnek: 104 sayılı Harcama Çizelgesinin en geç 10 gün içinde SEÇSİS projesi
+kapsamında gönderilmesine,
+9- Yapılacak köy muhtarlığı ve ihtiyar meclisi üyeliği ile mahalle muhtarlığı ve ihtiyar
+heyeti üyeliği seçimlerinde kullanılacak oy pusulalarının şekline ilişkin usul ve esasların
+belirlenmesinde, Başkanlığımızın 18/02/2004 gün ve 2004/4 sayılı Genel Yazısı eki Yüksek
+Seçim Kurulunun 15/02/2004 günlü, 2004/304 sayılı kararının da göz önünde
+bulundurulmasına,
+10- 06 Haziran 2010 Pazar günü hem ara seçimler hem de Türkiye genelinde Seviye
+Belirleme Sınavları yapılacağından, seçimlerde sandık kurulacak yerler ile sınav yerlerinin
+aynı yerler olmaması ve sandık görevlisi olarak belirlenecek kişilerin sınavda görev almayan
+kişilerden oluşturulması hususunda gerekli önlemlerin alınmasına özen gösterilmesine,
+11- Karar örneğinin; gereği için tüm il ve ilçe seçim kurulu başkanlıklarına, bilgi için
+Kurulumuz Seçmen Kütüğü Genel Müdürlüğü ile İdari ve Mali İşler Dairesi Başkanlığına
+gönderilmesine,
+20/03/2010 tarihinde oybirliği ile karar verildi.
+Başkan
+Üye
+Üye
+Ali EM
+Mehmet KILIÇ
+Hüseyin EKEN
+Üye
+Üye
+Üye
+M. Zeki ÇELEBİOĞLU
+Muharrem COŞKUN
+Turan KARAKAYA
+Üye
+Üye
+Üye
+Mehmet KÜRTÜL
+Nilgün İPEK
+Halim AŞANER
