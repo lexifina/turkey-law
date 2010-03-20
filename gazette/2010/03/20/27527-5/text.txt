@@ -1,0 +1,1376 @@
+20 Mart 2010 CUMARTESİ
+Resmî Gazete
+Sayı : 27527
+YÖNETMELİK
+Bilgi Teknolojileri ve İletişim
+Kurumundan:
+KISA MESAFE ERİŞİMLİ TELSİZ CİHAZLARI (KET)
+YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak, Kısaltmalar ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; genellikle ev, iş yeri,
+garaj, fabrika, depo, antrepo ve büyük alışveriş merkezleri gibi kapalı lokal alanlarda ya da kampus veya açık alanlarda
+kullanım amacına göre belirlenen frekans bandlarında
+ve çıkış gücünde kullanılan, diğer sistemlerde elektromanyetik girişime
+sebep olmadan ve elektromanyetik girişime açık olarak kullanılan, Kurumca
+belirlenen teknik düzenlemelere uygun kısa mesafe erişimli alçak güçlü
+telsiz cihazlarının yayın özelliklerini, frekans bandlarını,
+herhangi bir telsiz kurma ve kullanma iznine ve telsiz ruhsatnamesine
+ihtiyaç göstermeksizin kurulması ve kullanılması ile ilgili usul ve
+esasları belirlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, işletilmesi için frekans
+tahsisine ihtiyaç duyulmayan özel amaçlar için tahsis edilmiş frekans bandlarında ve çıkış gücünde çalışan kamu kurum ve
+kuruluşları ile gerçek ve tüzel kişiler tarafından kullanılacak Kurumca
+belirlenen teknik düzenlemelere uygun kısa mesafe erişimli alçak güçlü
+telsiz cihaz ve sistemlerini kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 5/11/2008
+tarihli ve 5809 sayılı Elektronik Haberleşme Kanununun 6, 36 ve 37 nci maddelerine dayanılarak hazırlanmıştır.
+Kısaltma ve tanımlar
+MADDE 4 – (1) Bu Yönetmelikte yer alan kısaltma ve
+tanımlardan;
+a)
+Alarm: Belirli mesafedeki ikaz durumunu haber veren veya bildiren telsiz
+sistemini,
+b)
+Alçak güçlü aktif tıbbi gereçler: Vücut içine yerleştirilerek bazı tıbbi
+bilgileri elektromanyetik ortamda gönderen aktif alçak güçlü cihazları,
+c)
+Arama-kurtarma cihazı: Arama-kurtarma çalışmalarında yer tespiti yapmak
+amacıyla kullanılan telsiz sistemini,
+ç)
+Dâhili (Dedicated) anten: Cihazın ayrılmaz bir
+parçası olarak üretilmiş ve cihazla birlikte kullanılan anteni,
+d)
+DECT (Digital Enhanced Cordless Telecommunications-Sayısal
+kablosuz telefon): Telefon hattına bağlı, birbirleriyle elektromanyetik
+dalgalar vasıtasıyla sayısal teknikler kullanılarak irtibatlı, sabit,
+portatif cihazlardan oluşan ve/veya hücresel yapı ile telefon santraline
+bağlı olarak bina veya kompleks dahilinde
+kullanılan sistemi,
+e)
+Otomatik Araç Tanımlama Sistemi (AVI-Automatic Vehicle Identification):
+Araçta teçhiz edilmiş bir verici ve yol üzerine yerleştirilmiş sorgulama
+üniteleri vasıtasıyla, aracın durumu ile ilgili bilgilerin genel trafik veya
+demiryolu işletmesinin araç idare sistemlerine ulaşmasını sağlayan sistemi,
+f)
+e.i.r.p (Effective isotropic
+radiated power): Etkin izotropik yayılım gücünü,
+g)
+e.r.p (Effective radiated
+power): Etkin yayılım gücünü,
+ğ)
+Endüktif sistemler: Kilitleme, tanımlama, tarama
+ve alarm verme özellikleri olan düşük frekanslı telsiz sistemlerini,
+h)
+Elektromanyetik girişim (Enterferans): İlgili
+mevzuat hükümlerine uygun olarak yapılan her türlü elektronik haberleşmeyi
+engelleyen, kesinti doğuran veya kalitesini bozan her türlü yayın veya
+elektromanyetik etkiyi,
+ı)
+Kablosuz mikrofon sistemleri: Mikrofon vericisi ve alıcısından oluşan
+telsiz sistemini,
+i)
+Kablosuz ses sistemleri: Radyo, kaset, CD çalar, mobil telefon veya
+radyo-TV gibi verici ve alıcı cihazlardan oluşan, ses uygulamalarında
+kullanılan sistemleri,
+j)
+Kanun: 5/11/2008 tarihli ve 5809 sayılı Elektronik
+Haberleşme Kanununu,
+k)
+Karayolları taşımacılık ve ulaşım telematik
+sistemleri: Karayolları taşımacılık ve ulaşımında otomatik para toplama,
+yol bakım ve çarpışmayı önleme hizmetleri dahil,
+araçlar arasında ve araçlarla yol kenarındaki bağlantı kutuları arasındaki
+kısa mesafe erişimli mikrodalga veri iletişim sistemlerini,
+l)
+Kısa mesafe erişimli telsiz cihazları (KET): Genellikle ev, işyeri, garaj,
+fabrika, depo, antrepo ve büyük alışveriş merkezleri gibi kapalı lokal alanlarda, kampus veya açık alanlarda kullanım
+amacına göre belirlenen frekans bandlarında ve
+çıkış gücünde kullanılan, diğer sistemlerde zararlı elektromanyetik
+girişime sebep olmayan ve elektromanyetik girişime açık olarak kullanılan
+cihazları,
+m)
+Kurul: Bilgi Teknolojileri ve İletişim Kurulunu,
+n)
+Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+o)
+Maksimum ortalama güç: Eğer vericide güç kontrolü uygulanıyor ise vericinin
+yayın esnasındaki maksimum ortalama güç seviyesini,
+ö)
+Model araç uzaktan kumanda cihazları: Havada, karada ve su altı veya
+üstünde kullanılan model araçların uzaktan kontrolü amacıyla kullanılan
+telsiz cihazlarını,
+p)
+Otomatik tren kontrol sistemi (Eurobalise):
+Demiryolu işletmelerine, tren hattına yerleştirilmiş aktarıcılar
+aracılığıyla trenin teşkili (vagon sayısı, ağırlık ve benzeri) ve tren
+hattının ileri kesimine ait hız, sinyal bilgileri, viraj,
+kayma, kar, çamur ve benzeri trafik bilgilerini trendeki ekrana aktarmak
+suretiyle bilgi veren ve güvenli otomatik seyir sağlayan tren kontrol
+sistemini,
+r)
+Özel Mobil Telsiz 446 (Private Mobile Radio – PMR 446): Kısa mesafe erişimli ses ve veri
+haberleşmesine yönelik olan alçak güçlü telsiz cihazlarını,
+s)
+RF algılayıcılar (dedektörler) ve ikaz cihazları:
+Herhangi bir durum veya nesneyi tespit ederek sinyal veren telsiz
+cihazlarını,
+ş)
+SBT cihazları: Sanayi, bilimsel ve tıbbi cihazları,
+t)
+Tren Koruma Sistemi (Euroloop): Demiryollarında
+aynı hat üzerinde birbirini izleyecek şekilde monte edilmiş ve mevcut
+hattın bir elektrik şebekesi olarak kullanılmasıyla oluşturulmuş iletim
+hatları üzerinden gönderme yapmak suretiyle, trenin güvenli seyrini
+sağlayacak hız, yol durumu, sinyal bilgisi, mesafe ölçümü gibi bilgilerin
+aktarıldığı tren koruma sistemini,
+u)
+Tümleşik (Integral) anten: Cihazın ayrılmaz bir
+parçası olarak üretilmiş konnektörlü veya konnektörsüz anteni,
+ü)
+Uzaktan kumanda: Model araç uzaktan kumanda cihazlarının dışında kalan
+cihaz ve makinelerin işlevlerini veya hareketlerini, uzaktan başlatmaya,
+değiştirmeye veya durdurmaya yarayan telsiz cihazlarını,
+v)
+Uzaktan ölçüm: Uzakta bulunan sisteme ait verileri elektromanyetik dalgalar
+aracılığıyla otomatik olarak ölçmeye ve kaydetmeye yarayan bir verici ve
+bir alıcı telsiz cihazından meydana gelen sistemi,
+y)
+Veri iletişim sistemi: Belirli bir mesafedeki bilgilerin harf, rakam ve
+sembollerden herhangi biriyle veya bunların tümüyle gönderilmesi ve/veya
+alınmasını sağlayan telsiz sistemini,
+z)
+Watt (W): Güç birimini,
+aa) Zararlı elektromanyetik girişim: Çalışmaları
+bakımından, seyrüsefer hizmetlerini veya diğer kamu güvenliği haberleşme
+hizmetlerini tehlikeye sokan veya bir telsiz haberleşme hizmetinin
+çalışmasını ciddi ölçüde bozan, engelleyen veya kesinti oluşturan
+elektromanyetik girişimi
+ifade eder.
+İKİNCİ BÖLÜM
+Genel Esaslar
+Genel esaslar
+MADDE 5 – (1) Bu Yönetmelik kapsamında yer alan kısa mesafe
+erişimli alçak güçlü telsiz cihaz ve sistemler:
+(a)
+Bu Yönetmelikte belirtilen şartları karşılamak ve Kurumca belirlenen teknik
+düzenlemelere uygun olmak kaydıyla ruhsatname, kullanma izni ile frekans
+tahsis ve tesciline gerek olmaksızın kurularak kullanılabilir.
+(b)
+Kurum tarafından izin verilmiş işletmeci veya kullanıcıların telsiz cihaz
+ve sistemleri üzerinde herhangi bir zararlı elektromanyetik girişime neden
+olmadan ve anılan sistemlerin kullanımından kaynaklanan elektromanyetik girişimi
+kabul ederek kullanılmak zorundadır.
+(c)
+Münhasıran şahsi veya kurumsal ihtiyaçlar için kullanılmalı ve üçüncü şahıslara
+herhangi bir elektronik haberleşme hizmeti verilmesinde kullanılmamalı,
+sağlanmasında herhangi bir ticari amaç güdülmemeli ve kamu kullanımına açık
+olarak sunulmamalıdır. Ancak, 28/5/2009 tarih ve
+27241 sayılı Resmi Gazete’de yayımlanan Elektronik Haberleşme Sektörüne
+İlişkin Yetkilendirme Yönetmeliği kapsamında yetkilendirilen
+işletmecilerden kısa mesafe erişimli telsiz cihaz ve sistemleri (KET)
+kullanarak elektronik haberleşme hizmeti sunmak ve/veya şebekesi veya
+altyapısı kurup işletme hakkına sahip olanlar bu hükümden muaftır.
+(ç)
+Bu Yönetmelikte belirtilen teknik kriterler ile
+kullanım amaçları dışında kullanılmak istenmesi durumunda Kurumdan kurma ve
+kullanma izni alınması gerekmektedir.
+(2)
+Kurum, bu Yönetmelikte anılan tüm cihaz ve sistemlerin kurma ve kullanma
+esaslarına, teknik düzenlemelere ve kriterlere
+uygunluğunu denetlemeye yetkilidir.
+ÜÇÜNCÜ BÖLÜM
+Kısa Mesafe
+Erişimli Telsiz Cihaz ve Sistemleri ile Teknik Kriterleri
+Belirli
+hizmet için kesin olarak tanımlanamayan kısa mesafe erişimli telsiz
+cihazları
+MADDE 6 – (1) Uzaktan kumanda, uzaktan ölçüm, alarm, oyuncak
+telsiz ve araçları, video-kamera, eş zamanlı tercüme ve benzeri
+uygulamalarında kullanılan sayısal veya analog
+her türlü ses ve veri iletimini sağlayan cihazlar; Tablo-1’de belirtilen
+teknik kriterlere uygun olmak kaydıyla kullanılır.
+Tablo
+1: Tanımlanamayan kısa mesafe erişimli telsiz cihazlarının teknik kriterleri
+Frekans
+Bandı
+Maksimum
+Çıkış Gücü veya Manyetik Alan Şiddeti
+Anten
+Tipi
+Kanal
+Aralığı
+Açıklama
+a
+6765-6795 kHz
+10 metrede 42 dBµA/m
+Tümleşik veya Dahili
+--
+Bu band
+Sanayi, Bilimsel ve Tıbbi uygulamalar (SBT) için de tahsislidir
+b
+13.553- 13.567 MHz
+10 metrede 42 dBµA/m
+Tümleşik veya Dahili
+--
+Bu band
+Sanayi, Bilimsel ve Tıbbi uygulamalar (SBT) için de tahsislidir
+c
+26.957-27.283 MHz
+10 metrede 42 dBµA/m
+veya 10 mWe.r.p
+Tümleşik veya Dahili
+--
+Bu band
+Sanayi, Bilimsel ve Tıbbi uygulamalar (SBT) için de tahsislidir
+ç
+40.660-40.700 MHz
+10 mWe.r.p
+Tümleşik veya Dahili
+--
+Bu band
+Sanayi, Bilimsel ve Tıbbi uygulamalar (SBT) için de tahsislidir
+d
+138.20-138.45 MHz
+10 metrede 42 dBµA/m
+e
+433.050-434.790 MHz
+10 mWe.r.p
+Tümleşik veya Dahili
+Bu band
+Sanayi, Bilimsel ve Tıbbi uygulamalar (SBT) için de tahsislidir
+.
+Ses sinyalleri hariç.
+e1
+433.050-434.790 MHz
+1 mWe.r.p
+-13 dBm/10 kHz
+Tümleşik veya Dahili
+--
+Bu band
+Sanayi, Bilimsel ve Tıbbi uygulamalar (SBT) için de tahsislidir
+.
+250 kHz’den
+daha büyük band genişliğindeki geniş band modülasyonlar için güç yoğunluğu -13 dBm/10kHz’dir.
+Ses sinyalleri hariç.
+e2
+434.040-434.790 MHz
+10 mWe.r.p
+Tümleşik veya Dahili
+25 kHz’e kadar,
+Bu band
+Sanayi, Bilimsel ve Tıbbi uygulamalar (SBT) için de tahsislidir.
+Ses
+sinyalleri hariç.
+f
+863-870 MHz
+≤25 mWe.r.p
+Tümleşik veya Dahili
+47 ve daha fazla kanal için ≤100kHz z
+Frekans Atlamalı Spread Spektrum Modülasyon tekniği kullanılacaktır.
+Ses sinyalleri hariç.
+≤25 mWe.r.p
+Güç yoğunluğu -4.5 dBm/100 kHz
+Tümleşik veya Dahili
+---
+Frekans Atlamalı Spektrum Yayılımı hariç Doğrudan Ardışık Spektrum
+Yayılımı ve
+diğer geniş band modülasyon teknikleri kullanılacaktır.
+Ses sinyalleri hariç.
+≤25 mWe.r.p
+Tümleşik veya Dahili
+---
+Dar ve geniş band modülasyonlar kullanılacaktır.
+Ses sinyalleri hariç.
+f1
+868.000-868.600 MHz
+25 mWe.r.p
+Tümleşik veya Dahili
+--
+Dar ve geniş band modülasyonlar kullanılacaktır.
+Kanal aralığı belirtilmemiştir ancak, kanal aralığı
+50 kHz
+ve 25 kHz’lik alt bölmelere ayrılabilecek
+şekilde 100 kHz’dir.
+f2
+868.700-869.200 MHz
+25 mWe.r.p
+Tümleşik veya Dahili
+--
+Dar ve geniş band modülasyonlar kullanılacaktır.
+Kanal aralığı belirtilmemiştir ancak, kanal aralığı
+50 kHz ve 25 kHz’lik
+alt bölmelere ayrılabilecek şekilde 100 kHz’dir.
+f3
+869.400-869.650 MHz
+500 mWe.r.p
+Tümleşik veya Dahili
+25 kHz
+Dar ve geniş band modülasyonlar kullanılacaktır.
+Tüm frekans bandı yüksek hızdaki veri aktarımlarında tek kanal
+olarak kullanılabilecektir.
+Bir veya daha fazla kanal için kanal aralığı
+25 kHz’dir.
+f4
+869.700-870.000 MHz
+25 mWe.r.p
+Tümleşik veya Dahili
+--
+Dar ve geniş band modülasyonlar kullanılacaktır.
+Kanal aralığı belirtilmemiştir ancak, tüm frekans bandı
+kullanılabilir.
+g
+2400-2483.5 MHz
+10 mWe.i.r.p
+Tümleşik veya Dahili
+--
+Bu band Sanayi, Bilimsel ve Tıbbi
+uygulamalar (SBT) için de tahsislidir .
+Aynı zamanda video-kamera uygulamaları için de kullanılabilir.
+ğ
+5725-5875 MHz
+25 mWe.i.r.p
+Tümleşik veya Dahili
+--
+Bu band Sanayi, Bilimsel ve Tıbbi
+uygulamalar (SBT) için de tahsislidir .
+h
+24.00-24.25 GHz
+100 mWe.i.r.p
+Tümleşik veya Dahili
+--
+Bu band Sanayi, Bilimsel ve Tıbbi
+uygulamalar (SBT) için de tahsislidir .
+ı
+61.0-61.5 GHz
+100 mWe.i.r.p
+Tümleşik veya Dahili
+--
+Bu band Sanayi, Bilimsel ve Tıbbi
+uygulamalar (SBT) için de tahsislidir .
+i
+122-123 GHz
+100 mWe.i.r.p
+Tümleşik veya Dahili
+--
+Bu band Sanayi, Bilimsel ve Tıbbi
+uygulamalar (SBT) için de tahsislidir .
+j
+244-246 GHz
+100 mWe.i.r.p
+Tümleşik veya Dahili
+-
+Bu band Sanayi, Bilimsel ve Tıbbi
+uygulamalar (SBT) için de tahsislidir .
+k
+148-152 MHz
+10 mWe.i.r.p
+Tümleşik veya Dahili
+12.5/25 kHz
+Eğitim ve araştırma kurumları; hayvan takip ve izleme amaçlı
+kullanılacaktır.
+Arama-kurtarma cihazları
+MADDE 7 – (1) Arama-kurtarma çalışmaları esnasında kullanılan
+kısa mesafe erişimli telsiz cihazları, Tablo-2’de belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+Tablo 2: Arama-kurtarma cihazları teknik kriterleri
+Çalışma
+Frekansı
+Maksimum
+Çıkış Gücü veya Manyetik Alan Şiddeti
+Anten
+Tipi
+Kanal
+Aralığı
+Açıklama
+a
+456.9 – 457.1 kHz
+10 metrede 7 dBµA/m
+Tümleşik
+Sürekli dalga modülasyonu
+yok.
+Çığ ve heyelanda arama
+kurtarma amacıyla kullanılacaktır.
+b
+40.675 MHz
+100 mW
+e.r.p
+Dahili
+25 kHz
+Sadece afet durumunda
+arama kurtarma amacıyla kullanılacaktır.
+c1
+169.4-169.475 MHz
+500 mW
+e.r.p
+Tümleşik
+En fazla 50 kHz
+Uzaktan ölçüm amacıyla
+kullanılacaktır.
+c2
+169.4-169.475 MHz
+500 mW
+e.r.p
+Tümleşik
+En fazla 50 kHz
+Takip ve yer tespit amacıyla
+kullanılacaktır.
+Genişband veri iletim sistemleri
+MADDE 8 – (1) Fabrika, depo, antrepo ve büyük alışveriş
+merkezleri gibi kapalı lokal alanlarda ya da mülkiyeti
+kullanıcıya ait veya kendi kullanımındaki kampus veya açık alanda veri
+iletimi, bilgi işlem, kayıt, çevirme, dosyalama, depolama, aktarma
+amacıyla, sadece dahili kullanıma izin verilen genişband
+veri iletim sistemleri, Tablo-3’te belirtilen teknik kriterlere uygun olmak
+kaydıyla kullanılır. Ancak, Elektronik Haberleşme Sektörüne İlişkin Yetkilendirme
+Yönetmeliği kapsamında yetkilendirilen işletmecilerden kısa mesafe erişimli
+telsiz cihaz ve sistemleri (KET) kullanarak elektronik haberleşme hizmeti
+sunmak ve/veya şebekesi veya altyapısı kurup işletme hakkına sahip olanlar,
+Tablo-3’de belirtilen kriterlere uymak kaydıyla,
+konu Yönetmelikte yer alan hükümlere tabidirler.
+Tablo 3: Genişband veri iletim sistemleri teknik kriterleri
+Frekans
+Bandı
+Maksimum
+Çıkış Gücü
+Anten
+Tipi
+Kanal
+Aralığı
+Açıklamalar
+a
+2400-2483.5
+MHz
+100 mWe.i.r.p
+Tümleşik veya Dahili
+---
+Frekans
+Atlamalı Spektrum Yayılımı modülasyon tekniği haricindeki geniş band modülasyonlarda maksimum güç yoğunluğu 10 mW e.i.r.p./1 MHz’dir.
+b
+5150-5350
+MHz
+200 mW (Maksimum
+ortalama güç)
+Tümleşik veya Dahili
+---
+Hava
+alanlarının pisti merkez olmak üzere 1 km mesafe dışındaki kapalı alanlarda
+kullanılabilir.
+Dinamik
+Frekans Seçimi veya Verici Güç Kontrol özellikleri mevcut olmalıdır. Maksimum ortalama güç yoğunluğu 10 mW/1 MHz’dir. Bu bandda çalışan cihazlarda radar sistemlerini olumsuz
+etkilememek için gerekli önlemlerin alınması zorunludur.
+Sadece
+bina içi ve benzeri kapalı alanlarda kullanılacaktır.
+c
+5470-5725
+MHz
+1 W (Maksimum ortalama güç)
+Tümleşik veya Dahili
+---
+Bina
+içi ve dışı alanlarda kullanılabilir.
+Dinamik
+Frekans Seçimi veya Verici Güç Kontrol özellikleri mevcut olmalıdır. Bu bandda çalışan cihazlarda radar sistemlerini olumsuz
+etkilememek için gerekli önlemlerin alınması zorunludur. Maksimum
+ortalama güç yoğunluğu 50 mW/1 MHz değeri ile
+sınırlı olacaktır.
+ç
+57-66 GHz
+25 dBm (Ortalama
+güç)
+Tümleşik veya Dahili
+---
+Açık
+alanlarda sabit olarak kullanılmayacaktır. Maksimum ortalama güç
+yoğunluğu - 2 dBm/1
+MHz’dir.
+d
+57-66 GHz
+40 dBm (Ortalama
+güç)
+Tümleşik veya Dahili
+---
+Sadece
+bina içi ve benzeri kapalı alanlarda kullanılacaktır. Maksimum ortalama
+güç yoğunluğu 13
+dBm/ MHz’dir.
+Demiryolu telsiz güvenlik sistemleri
+MADDE 9 – (1) Demiryollarında kullanılan; demiryolları
+otomatik araç tanımlama, otomatik tren kontrol, tren koruma sistemlerinde
+kullanılacak cihazlar, Tablo-4’te belirtilen teknik kriterlere
+uygun olmak kaydıyla kullanılır.
+Tablo 4: Demiryolu telsiz güvenlik sistemleri teknik kriterleri
+Frekans Bandı
+Maksimum
+Çıkış Gücü veya Manyetik Alan Şiddeti
+Anten Tipi
+Kanal Aralığı
+Açıklama
+a
+2446-2454
+MHz
+500 mWe.i.r.p
+Tümleşik
+veya Dahili
+---
+Demiryolları otomatik araç tanımlama sistemlerinde
+kullanılacak. Sadece tren var iken verici aktif olacaktır. 2446-2454 MHz
+bandında 1.5 MHz genişliğinde 5 kanal.
+b
+27.090
+- 27.100 MHz
+10
+metrede
+42 dBmA/m
+Dahili
+---
+Otomatik tren kontrol sistemlerinde kullanılacak.
+c
+516 -
+8516 kHz
+10
+metrede
+7 dBmA/m
+Dahili
+---
+Yeni uygulamalarda kullanılmayacak olup, 2011’e
+kadar mevcut kullanımlar aşamalar halinde kaldırılacaktır. Merkez
+frekansı 4516 MHz olacaktır.
+ç
+984 –
+7484kHz
+10
+metrede
+9 dBmA/m
+Sadece bir trenin Eurobalise
+sinyal alındısı için kullanılacaktır. Merkez frekansı 4234 kHz olacaktır.
+d
+7.3 - 23.0 MHz
+10
+metrede
+-7 dBmA/m
+10 kHz’lik band genişliği için belirlenmiş maksimum alan
+şiddeti, uzaysal olarak 200 metrelik çevrime ortalaması alınmış şekilde.
+Sadece tren var iken aktif olacaktır. Merkez frekansı 13.547 MHz
+olacaktır.
+Karayolları taşımacılık ve ulaşım telematik sistemleri
+MADDE 10 – (1) Otomatik para toplama, park yeri düzenleme ve
+park yeri ücretlendirme, trafik bilgi aktarımı ve acil uyarı sistemleri,
+trafik kontrol ve trafik öncelikleri gibi karayolları taşımacılığı ve
+ulaşımında yol emniyeti, ulaşım verimliliği ve çevresel kalitenin
+geliştirilmesi amacıyla; araç sistemleri için yol başlangıçlarında, çok
+şeritli yol bağlantılarının gereksinimlerini karşılayacak şekilde ulusal bazda, araçtan araca linkler olarak, araca monteli radar
+sistemlerinde ve benzeri şekilde kullanılan karayolları taşımacılık ve
+ulaşım telematik sistemleri Tablo-5’te gösterilen
+çıkış gücünü geçmemek kaydıyla kullanılır.
+Tablo 5: Karayolları taşımacılık ve ulaşım telematik sistemleri teknik kriterleri
+Frekans
+Bandı
+Maksimum
+Çıkış Gücü
+Anten
+Tipi
+Kanal
+Aralığı
+Açıklamalar
+a
+5795 -5805 MHz
+2 We.i.r.p veya 8 We.i.r.p
+Tümleşik veya Dahili
+Bu band
+Sanayi, Bilimsel ve Tıbbi uygulamalar (SBT) için de tahsislidir.
+Yoldan araca sistemler
+için kullanılacak.
+Kanal merkez
+frekansları; 5797.5 MHz ve 5802.5 MHz için 5 MHz kanal aralığı, 5800 MHz
+için ise kanal aralığı 10 MHz .
+1 Mbit/s’lik veri hızında 8 We.i.r.p ve 500 kbit/s
+gönderme, 250 kbit/s alma veya düşük hızlarda
+(31 kbit/s) 2 We.i.r.p
+’ye izin verilmektedir.
+b
+5805 -5815 MHz
+2 We.i.r.p veya 8 We.i.r.p
+Tümleşik veya Dahili
+Bu band
+Sanayi, Bilimsel ve Tıbbi uygulamalar (SBT) için de tahsislidir
+.
+Çok şeritli yolların
+birleşimindeki sistemler
+için kullanılacak. Kanal merkez frekansları; 5807.5 MHz ve 5812.5 MHz için kanal
+aralığı 5 MHz, 5810 MHz için ise kanal
+aralığı 10 MHz..
+1 Mbit/s’lik veri hızında 8 Weve
+500 kbit/s gönderme, 250 kbit/s
+alma veya 31 kbit/s’lık
+düşük hızlarda 2 We’a izin
+verilmektedir.
+c
+76 -77 GHz
+55 dBm
+(maksimum güç)
+-23.5 dBm (sadece puls radar,
+ortalama güç)
+-50 dBm
+(ortalama güç)
+Dahili
+--
+Araç
+ve alt yapı radar sistemleri.
+ç
+21.65-26.65 GHz
+-43.3 dBm/1 MHze.i.r.p
+Maksimum 0 dBm/50 MHz. e.i.r.p
+Dahili
+--
+22 GHz’in
+altında 61.3 dBm/MHze.i.r.p
+d
+77-81 GHz
+-3 dBm/MHze.i.r.p
+Dahili
+--
+--
+RF algılayıcı (dedektör)
+ve ikaz cihazları
+MADDE 11 – (1) Kaybolması, çalınması veya belirli bir bölgeden
+geçişin önlemesi amacıyla, önceden etiketlenmiş nesneleri tespit etmeye
+yarayan RF algılayıcı (dedektör) ve ikaz
+cihazları, Tablo-6’da belirtilen teknik kriterlere
+uygun olmak kaydıyla kullanılır.
+Tablo 6: RF Algılayıcı (Dedektör) ve
+ikaz cihazları teknik kriterleri
+Frekans
+Bandı
+Maksimum
+Çıkış Gücü
+Anten
+Tipi
+Kanal
+Aralığı
+Açıklamalar
+a
+2400-2483.5 MHz
+25 mW e.r.i.p
+Tümleşik veya Dahili
+--
+--
+b
+9200-9500 MHz
+25 mW e.r.i.p
+Tümleşik veya Dahili
+---
+--
+c
+9500-9975 MHz
+25 mW e.r.i.p
+Tümleşik veya Dahili
+--
+--
+ç
+13.4-14.0 GHz
+25 mW e.i.r.p
+Tümleşik veya Dahili
+--
+--
+d
+24.05-24.25 GHz
+100 mW e.i.r.p
+Tümleşik veya Dahili
+--
+--
+e
+4.5 – 7 GHz
+-41.3dBm/MHz e.i.r.p.
+Tank/Depo seviyesi belirlenmesi amacıyla kullanılacaktır
+f
+8.5 – 10.6 GHz
+-41.3dBm/MHz e.i.r.p.
+Tank/Depo seviyesi belirlenmesi amacıyla kullanılacaktır
+g
+24.05 – 27.00 GHz
+-41.3dBm/MHz e.i.r.p.
+Tank/Depo seviyesi belirlenmesi amacıyla kullanılacaktır
+ğ
+57-64 GHz
+-41.3dBm/MHz e.i.r.p.
+Tank/Depo seviyesi belirlenmesi amacıyla kullanılacaktır
+h
+75-85 GHz
+-41.3dBm/MHz e.i.r.p.
+Tank/Depo seviyesi belirlenmesi amacıyla kullanılacaktır
+Alarm sistemleri
+MADDE 12 – (1) Güvenlik amaçlı kullanılmak üzere tasarlanmış
+genel alarm sistemleri ile hareket yeteneği sınırlı insanlara tehlike
+durumunda sinyal göndererek yardım almasına yarayan telefon hattına
+bağlantılı lokal bir birim ve bunun aracılığıyla
+otomatik çevirme sağlayan Kişisel Alarm Sistemleri, Tablo-7’de belirtilen
+teknik kriterlere uygun olmak kaydıyla kullanılır.
+Tablo 7: Alarm Sistemleri Teknik Kriterleri
+Frekans
+Bandı
+Maksimum
+Çıkış Gücü
+Anten
+Tipi
+Kanal
+Aralığı
+Açıklamalar
+a
+868.6-868.7 MHz
+10 mW e.r.p
+Tümleşik veya Dahili
+25 kHz
+Tüm frekans bandı bir
+kanal olarak yüksek hızdaki veri iletiminde de kullanılabilir.
+b
+869.25-869.30 MHz
+10 mW e.r.p
+Tümleşik veya Dahili
+25 kHz
+c
+869.65-869.70 MHz
+25 mW e.r.p
+Tümleşik veya Dahili
+25 kHz
+ç
+869.20-869.25 MHz
+10 mW e.r.p
+Tümleşik veya Dahili
+25 kHz
+Kişisel alarm
+sistemlerinde kullanılacak.
+d
+869.3-869.4 MHz
+10 mW e.r.p
+Tümleşik veya Dahili
+25 kHz
+e
+169.4750-169.4875 MHz
+10 mW e.r.p
+Tümleşik
+veya Dahili
+12.5 kHz
+Kişisel alarm sistemlerinde herkese açık olmayacak
+şekilde kullanılacak.
+f
+169.5875-169.6000 MHz
+10 mW e.r.p
+Tümleşik
+veya Dahili
+12.5 kHz
+Kişisel alarm sistemlerinde herkese açık olmayacak
+şekilde kullanılacak.
+Model araç uzaktan kumanda
+cihazları
+MADDE 13 – (1) Model araçların uzaktan kontrolünde
+kullanılacak model araç uzaktan kumanda cihazları, Tablo-8’de belirtilen
+teknik kriterlere uygun olmak kaydıyla kullanılır.
+Tablo 8: Model araç uzaktan kumanda cihazları
+teknik kriterleri
+Kanal
+Frekansı/Frekans Bandı
+Maksimum
+Çıkış Gücü
+Anten
+Tipi
+Kanal
+Aralığı
+Açıklama
+a
+26.995 MHz,
+27.045 MHz,
+27.095 MHz,
+27.145 MHz,
+27.195 MHz
+100 mW e.r.p
+Dahili
+10 kHz
+Bu cihazlar ile ses,
+devamlı veri ve kontrol sinyali gönderilemez.
+b
+34.995-35.225 MHz
+100 mW e.r.p
+Dahili
+10 kHz
+Sadece model uçak ve
+helikopterler için izin verilebilir.
+Bu cihazlar ile ses,
+devamlı veri ve kontrol sinyali gönderilemez.
+c
+40.665 MHz,
+40.675 MHz,
+40.685 MHz,
+40.695 MHz
+100 mW e.r.p
+Dahili
+10 kHz
+Bu cihazlar ile ses,
+devamlı veri ve kontrol sinyali gönderilemez.
+Endüktif sistemler
+MADDE 14 – (1) Bina içinde veya dışında ve dar bir alanda
+kullanılan, araç güvenlik sistemi, hayvan tanımlama, hırsız alarm
+sistemleri, çevre atık kontrolü, kablo dedektörü,
+kimlik tanımlama, kablosuz ses linkleri, giriş kontrolü, süreç kontrolü, sensörler, güvenlik sistemleri, otomatik madde
+tanımlama, kablosuz kontrol sistemleri, otomatik oto yol ücret toplama ve
+benzeri uygulamaları kapsayan endüktif sistemler,
+Tablo-9’da ve bu Yönetmelikteki diğer tablolarda belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+Tablo 9: Endüktif sistemler teknik
+kriterleri
+Frekans
+Bandı
+Manyetik
+Alan Şiddeti
+Anten
+Tipi
+Kanal
+Aralığı
+Açıklama
+a
+9-90 kHz
+10 metrede 72 dBµA/m
+(30 kHz ‘de 3 dB/octave)
+Tümleşik veya Dahili
+---
+Çerçeve (Loop) anten kullanılması durumunda 0. 05 m2 ve
+0.l6 m2 arasındaki alanda alan şiddeti 10xlog (alan/0.16 m2
+) olacak şekilde azalır. Anten alanı 0.05 m2
+den küçük ise, alan şiddeti 10 dB azalır.
+Harici anten olarak
+sadece çerçeve (Loop) bobin anten
+kullanılabilir.
+Çıkış gücü seviyesi 30 kHz’te 3dB/oct düşer.
+b
+90 -119 kHz
+10 metrede 42 dBµA/m
+Tümleşik veya Dahili
+---
+Harici anten olarak
+sadece çerçeve (Loop) bobin anten
+kullanılabilir.
+c
+119-135kHz
+10 metrede 66 dBµA/m
+(119 kHz’ de 3 dB/octave)
+Tümleşik veya Dahili
+---
+Harici anten olarak
+sadece çerçeve (Loop) bobin anten
+kullanılabilir.
+Çıkış gücü seviyesi 119 kHz’te 3dB/oct düşer.
+ç
+135-140 kHz
+10 metrede 42 dBµA/m
+Tümleşik veya Dahili
+---
+Harici anten olarak
+sadece çerçeve (Loop) bobin anten
+kullanılabilir.
+d
+140-148.5 kHz
+10 metrede 37.7 dBµA/m
+Tümleşik veya Dahili
+---
+Harici anten olarak
+sadece çerçeve (Loop) bobin anten
+kullanılabilir.
+e
+6765-6795 kHz
+10 metrede 42 dBµA/m
+Tümleşik veya Dahili
+---
+f
+7400-8800 kHz
+10 metrede 9 dBµA/m
+Tümleşik veya Dahili
+---
+--
+g
+13.553-13.567 MHz
+10 metrede 42 dBµA/m
+Tümleşik veya Dahili
+---
+h1
+13.553-13.567 MHz
+10 metrede 60 dBµA/m
+Tümleşik veya Dahili
+---
+Sadece RFID-radyo frekanslı
+tanımlama sistemleri ve elektronik takip sistemlerinde kullanılacaktır.
+h2
+26.957-27.283 MHz
+10 metrede 42 dBµA/m
+Tümleşik veya Dahili
+---
+---
+ı
+10.2-11 MHz
+10 metrede 9 dBµA/m
+Tümleşik veya Dahili
+---
+--
+i
+3155-3400 kHz
+10 metrede 13.5 dBµA/m
+Tümleşik veya Dahili
+---
+Harici anten olarak sadece çerçeve (Loop)
+bobin anten kullanılabilir.
+j1
+148.5 kHz-5 MHz
+10 metrede -15 dBµA/m
+Tümleşik veya Dahili
+---
+Harici anten olarak sadece
+çerçeve (Loop) bobin anten kullanılabilir.
+İzin verilen maksimum
+alan şiddeti , 10 kHz band genişliği için belirtilmiştir. Eğer band
+genişliği 10 kHz’den fazla ise, maksimum izin
+verilen toplam alan şiddeti (10 metrede) -5 dBµA/m
+olacak ancak, 10 kHz band
+genişliğindeki (10 metrede) -15 dBµA/m alan
+şiddeti korunacaktır.
+j2
+5-30 MHz
+10 metrede -20 dBµA/m
+Tümleşik veya Dahili
+---
+Harici anten olarak
+sadece çerçeve (Loop) bobin anten
+kullanılabilir.
+İzin verilen maksimum
+alan şiddeti , 10 kHz band genişliği için belirtilmiştir. Eğer band
+genişliği 10 kHz’den fazla ise, maksimum izin
+verilen toplam alan şiddeti (10 metrede) -5 dBµA/m
+olacak ancak, 10 kHz band
+genişliğindeki (10 metrede) -20 dBµA/m alan
+şiddeti korunacaktır.
+j3
+400-600 kHz
+10 metrede -8 dBµA/m
+Tümleşik veya Dahili
+---
+Harici anten olarak
+sadece çerçeve (Loop) bobin anten
+kullanılabilir.
+Sadece RFID-radyo frekanslı
+tanımlama sistemleri tarafından kullanılacaktır.
+İzin verilen maksimum alan şiddeti
+, 10 kHz band
+genişliği için belirtilmiştir. Eğer band
+genişliği 10 kHz’den fazla ise, maksimum izin
+verilen toplam alan şiddeti (10 metrede) -5 dBµA/m
+olacak ancak, 10 kHz band
+genişliğindeki (10 metrede) -8 dBµA/m alan
+şiddeti korunacaktır.
+Bu sistemler minimum 30 kHz band genişliğinde çalıştırılmalıdır.
+Kablosuz mikrofon sistemleri ve
+işitmeye yardımcı cihazlar
+MADDE 15 – (1) Kablosuz mikrofonlar, vücutta takılı olarak
+veya elde tutularak yakın ve özel kullanıma göre tasarlanmış vericiler ile
+alıcılardan oluşan sistemler ve işitmeye yardımcı cihazlar, Tablo-10’da
+belirtilen teknik kriterlere uygun olmak kaydıyla
+kullanılır.
+Tablo 10: Kablosuz mikrofon sistemleri ve işitmeye yardımcı
+cihazlar teknik kriterleri
+Frekans
+Bandı
+Maksimum
+Çıkış Gücü
+Anten
+Tipi
+Kanal
+Aralığı
+Açıklama
+a
+29.7-47.0 MHz
+10 mWe.r.p
+Tümleşik veya Dahili
+50 kHz
+Ayarlanabilir aralık
+temellidir.
+30.3-30.5
+MHz, 32.15-32.45 MHz ve 41.015-47.00 MHz bandları
+harmonize askeri bandlardır.
+b
+173.965-174.015MHz
+2 mWe.r.p
+Tümleşik veya Dahili
+50 kHz
+İşitmeye yardımcı cihazlarda
+kullanılacaktır.
+c
+863-865 MHz
+10 mWe.r.p
+Tümleşik veya Dahili
+---
+--
+ç
+174-216 MHz
+50 mWe.r.p
+Tümleşik veya Dahili
+---
+Ayarlanabilir aralık
+temellidir.
+Vücuda takılı ve elde
+kullanılan kablosuz mikrofonların çıkış gücü maksimum 50 mW
+d
+470-862 MHz
+50 mWe.r.p
+Tümleşik veya Dahili
+---
+Ayarlanabilir aralık
+temellidir.
+Vücuda takılı ve elde
+kullanılan kablosuz mikrofonların çıkış gücü maksimum 50 mW
+e
+l785-l795 MHz
+20 mWe.i.r.p
+veya
+50 mWe.i.r.p
+Tümleşik veya Dahili
+---
+Vücuda takılı ve elde
+kullanılan kablosuz mikrofonların çıkış gücü maksimum 50 mW
+f
+l795-l800 MHz
+20 mWe.i.r.p veya
+50 mWe.i.r.p
+Tümleşik veya Dahili
+---
+Vücuda takılı ve elde
+kullanılan kablosuz mikrofonların çıkış gücü maksimum 50 mW
+g1
+169.400-169.4750 MHz
+10 mW
+Tümleşik veya Dahili
+En fazla 50 kHz
+İşitmeye yardımcı cihazlarda
+kullanılacaktır.
+g2
+169.4875-169.5875 MHz
+10 mW
+Tümleşik veya Dahili
+En fazla 50 kHz
+İşitmeye yardımcı cihazlarda
+kullanılacaktır.
+h
+169.4-174.0 MHz
+10 mW
+Tümleşik veya Dahili
+En fazla 50 kHz
+İşitmeye yardımcı cihazlarda
+kullanılacaktır.
+Ayarlanabilir aralık
+temellidir. Bu banddaki diğer kullanımlardan
+meydana gelecek enterferansa dikkat edilmelidir.
+Alçak güçlü aktif tıbbi gereçler
+MADDE 16 – (1) Etkin olarak canlıların vücuduna yerleştirilen
+tıbbi cihazlardan oluşan alçak güçlü cihazlar, Tablo-11’de belirtilen
+teknik kriterlere uygun olmak kaydıyla kullanılır.
+Tablo 11: Alçak güçlü aktif tıbbi gereçler teknik kriterleri
+Frekans
+Bandı
+Maksimum Çıkış Gücü
+veya Manyetik Alan Şiddeti
+Anten
+tipi
+Kanal
+Aralığı
+Açıklama
+a
+402-405 MHz
+25 µW e.r.p
+Tümleşik veya Dahili
+25 kHz
+Band genişliğini 300 kHz'e
+kadar genişletebilmek için yan kanallar birleştirilebilir.
+Çok düşük güçlü, vücuda
+yerleştirilebilir aktif tıbbi gereçleri içindir.
+a1
+401-402 MHz
+25 µW e.r.p
+Tümleşik veya Dahili
+25 kHz
+Çok düşük güçlü, vücuda
+yerleştirilebilir aktif tıbbi gereçlerden a’da
+kapsanmayanlar içindir.
+Band genişliğini 100 kHz'e
+kadar genişletebilmek için 25 kHz’lik
+yan kanallar birleştirilebilir.
+a2
+405-406 MHz
+25 µW e.r.p
+Tümleşik veya Dahili
+25 kHz
+Çok düşük güçlü, vücuda
+yerleştirilebilir aktif tıbbi gereçlerden a’da
+kapsanmayanlar içindir.
+Band genişliğini 100 kHz'e
+kadar genişletebilmek için 25 kHz’lik yan
+kanallar birleştirilebilir.
+b
+9-315 kHz
+10 metrede 30 dBµA/m
+Tümleşik veya Dahili
+---
+Çok düşük güçlü, vücuda
+yerleştirilebilir aktif tıbbi gereçlerin telemetri amaçlı kullanılması
+halinde endüktif çevrim (loop)
+tekniği kullanılır.
+c
+315-600 kHz
+10 metrede -5 dBµA/m
+Tümleşik veya Dahili
+---
+Hayvanların vücuduna
+takılabilen tıbbi cihazlarda kullanılır.
+ç
+30-37.5 kHz
+1 mW e.r.p
+Tümleşik veya Dahili
+---
+Kan basıncı ölçme amaçlı
+olarak çok düşük güçlü, vücuda yerleştirilebilir tıbbi gereçlerde
+kullanılır.
+d
+12.5-20 MHz
+10 metrede
+-7 dBµA/m
+Tümleşik veya Dahili
+---
+Çok düşük güçlü,
+hayvanların vücuduna takılabilen aktif tıbbi gereçler sadece kapalı
+alanlarda kullanılacaktır.
+Maksimum alan şiddeti 10
+kHz band genişliği
+için belirtilmiştir.
+Çok düşük güçlü,
+hayvanların vücuduna takılabilen aktif tıbbi gereçlerin iletim maskı; 300
+kHz band genişliğinde
+3 dB,
+800 kHz
+band genişliğinde 10 dB,
+2 MHz band genişliğinde 20 dB
+olarak tanımlanmaktadır.
+Kablosuz ses sistemleri
+MADDE 17 – (1) Radyo, kaset, CD çalar, mobil telefon, radyo-TV
+ve benzeri verici ve alıcı cihazlardan oluşan kablosuz ses sistemleri,
+Tablo-12’de belirtilen teknik kriterlere uygun
+olmak kaydıyla kullanılır.
+Tablo 12: Kablosuz ses sistemleri teknik kriterleri
+Frekans
+Bandı
+Maksimum
+Çıkış Gücü
+Anten
+tipi
+Kanal
+Aralığı
+Açıklama
+a
+863-865 MHz
+10 mW e.r.p
+Tümleşik
+----
+b
+864.8-865 MHz
+10 mW e.r.p
+Tümleşik
+50 kHz
+Bebek veya kapı diyafonu gibi dar band analog ses sistemleri sadece bu bandda
+kullanılacaktır.
+c
+1795-1800 MHz
+20 mW e.i.r.p
+Tümleşik
+--
+--
+ç
+87.5-108 MHz
+50 nW e.r.p
+Tümleşik
+200 kHz
+--
+Radyo frekanslı tanımlama sistemleri
+MADDE 18 – (1) Fabrika, depo, antrepo ve büyük alışveriş
+merkezleri gibi kapalı lokal alanlarda, mülkiyeti
+kullanıcıya ait ya da kendi kullanımındaki kampus veya açık alanda frekans
+sinyalleri yoluyla, veri iletimi, dosyalama, depolama, yer belirleme, depo
+arşivleme, yakınlık sensörü, el cihazlarından
+data transferi, kablosuz etiket ve benzeri işlemleri yapan ve sadece dahili
+kullanıma izin verilen sistemler, Tablo-13’te veya bu Yönetmelikteki diğer
+tablolarda belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+Tablo 13: Radyo frekanslı tanımlama sistemleri teknik kriterleri
+Frekans
+Bandı
+Maksimum
+Çıkış Gücü
+Anten
+tipi
+Kanal
+Aralığı
+Açıklama
+a
+2446-2454 MHz
+500 mW
+e.i.r.p veya
+4 W e.i.r.p
+Tümleşik veya Dahili
+--
+500 mW
+e.i.r.p çıkış gücünün
+üzerindeki güçlerdeki cihazlar sadece bina içlerinde kullanılacaktır ve
+bu durumda görev çevrimi herhangi bir 200ms için <%15 olmalıdır (30 ms açık, 170ms kapalı).
+Çıkış gücünün 500 mW e.i.r.p ‘i üzerinde olması durumunda
+bina dışından itibaren 10 uncu metrede alan şiddeti; bina dışına kurulu
+ve 500 mW e.i.r.p çıkış
+gücündeki cihazın eşdeğer alan şiddetini geçmeyecektir.
+Çıkış gücünün 500 mW e.i.r.p ‘i üzerinde olması durumunda,
+Frekans Atlamalı Spektrum Yayılım tekniği kullanılacaktır.
+Cihazlar, otomatik güç
+kontrol özelliğine sahip olmalıdır.
+b1
+865.0-865.6
+MHz
+100 mW e.r.p
+Tümleşik veya Dahili
+200 kHz
+Merkez frekansı 864.9 MHz olmak üzere 1-3 üncü kanallar
+kullanılacaktır.
+Frekans atlama veya
+diğer spektrum yayılım teknikleri kullanılmayacaktır.
+b2
+865.6-867.6
+MHz
+2 W e.r.p
+Tümleşik veya Dahili
+200 kHz
+Merkez frekansı 864.9 MHz olmak üzere 4-13 üncü kanallar
+kullanılacaktır.
+Frekans atlama veya
+diğer spektrum yayılım teknikleri kullanılmayacaktır.
+Sadece bina içi ve
+benzeri kapalı alanlarda kullanılacaktır.
+Cihazlar, otomatik güç
+kontrol özelliğine sahip olmalıdır.
+b3
+867.6-868.0
+MHz
+500 mW e.r.p
+Tümleşik veya Dahili
+200 kHz
+Frekans atlama veya
+diğer spektrum yayılım teknikleri kullanılmayacaktır.
+Merkez frekansı 864.9 MHz olmak üzere 14-15 inci kanallar
+kullanılacaktır.
+Özel mobil telsiz 446 (PMR 446)
+MADDE 19 – (1) Ses ve veri haberleşmesine açık, çok sayıda
+kullanıcının frekans bandını ortak kullanımına yönelik kısa mesafe erişimli
+telsiz haberleşmesinde kullanılan cihazlar, Tablo-14’te belirtilen teknik kriterlere uygun olmak kaydıyla kullanılır.
+Tablo 14: Özel mobil telsiz 446 teknik kriterleri
+Frekans
+Bandı
+Maksimum
+Çıkış Gücü
+Anten
+tipi
+Kanal
+Aralığı
+Açıklama
+a
+446.000-446.100 MHz
+500 mW e.r.p
+Tümleşik
+12.5 kHz
+--
+b
+446.100-446.200 MHz
+500 mW e.r.p
+Tümleşik
+6.25/12.5 kHz
+Sadece sayısal kullanım.
+DECT (Sayısal kablosuz telefon
+sistemleri)
+MADDE 20 – (1) Lokal alanda telefon hatlarına bağlı kısa
+mesafe erişimli telsiz haberleşmesinde kullanılan DECT cihazları, Tablo -
+15’te belirtilen teknik kriterlere uygun olmak kaydıyla
+kullanılır.
+Tablo 15: Sayısal kablosuz telefon sistemleri teknik kriterleri
+Frekans
+Bandı
+Çıkış
+Gücü
+(e.r.p)
+Anten
+tipi
+Kanal
+Aralığı
+Açıklama
+a
+1880-1900 MHz
+250 mW
+Tümleşik veya Dahili
+1728 kHz
+---
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Yaptırımlar
+MADDE 21 – (1) Bu Yönetmelik kapsamındaki cihaz ve sistemlerin
+kullanıcıları, Kurum tarafından tahsis ve tescil edilmiş frekanslarda
+çalışan, öncelikle hava ve deniz seyrüsefer sistemleri olmak üzere diğer
+telsiz sistemleri ile radyo ve televizyon alıcıları üzerinde zararlı
+elektromanyetik girişim yaratmayacaklardır. Zararlı elektromanyetik girişim
+olduğunun tespiti veya bildirilmesi halinde, faaliyetleri durdurulur ve
+gerekli tedbirlerin aldırılması sağlanır.
+(2)
+Bu Yönetmelikte anılan telsiz cihaz veya sistemlerinin kurulması ve
+kullanılmasında, bu Yönetmelikte belirtilen kurma ve kullanma esaslarının
+ihlal edildiğinin tespiti halinde, söz konusu sistem veya cihazın kullanılmaması
+kaydıyla gerekli düzeltmeler için en fazla otuz (30) gün süre verilir. Süre
+sonunda Kurumca kabul edilebilir bir gerekçe belirtmeden söz konusu ihlali
+kaldırmayanların ihlale neden olan cihaz ve sistemleri mühürlenir.
+(3)
+Bu Yönetmelik hükümlerine aykırı olarak telsiz cihaz ve sistemi satan,
+kuran veya bu telsiz cihaz ve sistemlerin türlerine göre bu Yönetmelikte
+belirtilen teknik kriterler dışında değişiklik
+yapanlar hakkında Kurum tarafından Kanunun 63 üncü maddesi uyarınca
+şikâyette bulunulur.
+(4)
+Bu Yönetmelikte anılan tüm cihaz ve sistemlerin; Kurum tarafından 24/3/2007 tarihli ve 26472 sayılı Resmî Gazete’de
+yayımlanan Telsiz ve Telekomünikasyon Terminal Ekipmanları Yönetmeliği ve
+ilgili diğer düzenlemelerde yer alan teknik koşullar ile güvenlik koşullarına
+uygun olarak piyasaya arz edilir. Aksi halde, ilgili mevzuat kapsamında
+gerekli işlemler yapılır.
+Yürürlükten kaldırılan yönetmelik
+MADDE 22 – (1) 16/3/2007 tarihli ve
+26464 sayılı Resmî Gazete’de yayımlanan Kısa Mesafe Erişimli Telsiz (KET)
+Yönetmeliği yürürlükten kaldırılmıştır.
+Atıflar
+MADDE 23 – (1) Diğer mevzuattan 16/3/2007
+tarihli ve 26464 sayılı Resmî Gazete’de yayımlanan Kısa Mesafe Erişimli
+Telsiz (KET) Yönetmeliğine yapılan bütün atıflar bu Yönetmeliğe yapılmış
+sayılır.
+Uygulama
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce
+Kurum tarafından frekans tahsisi yapılmış ve ruhsata bağlanmış telsiz cihaz
+ve sistemlerinden bu Yönetmelik kapsamında olanların ruhsatnameleri iptal
+edilmiş sayılır. Söz konusu telsiz cihaz ve sistemleri bu Yönetmeliğin
+yayımı tarihinden itibaren Kanunun 36 ncı maddesi
+birinci fıkrası (b) bendi ile 37 nci maddesi
+üçüncü fıkrası kapsamında ruhsatname, kullanma izni ile frekans tahsis ve
+tesciline gerek olmaksızın kullanılmaya devam edilir.
+(2)
+Bu Yönetmelik kapsamına giren telsiz cihaz ve sistemlerini kullananlar, bu
+Yönetmeliğin yayım tarihinden itibaren 3 ay içerisinde mevcut cihaz ve
+sistemlerin frekanslarını, güçlerini ve diğer teknik özelliklerini,
+kullanım yeri ve diğer kısıtlamaları da dikkate alarak bu Yönetmelikte
+belirtilen değerlere getirmekle yükümlüdür.
+Yürürlük
+MADDE 24 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 25 – (1) Bu Yönetmelik hükümlerini Bilgi Teknolojileri
+ve İletişim Kurulu Başkanı yürütür.
