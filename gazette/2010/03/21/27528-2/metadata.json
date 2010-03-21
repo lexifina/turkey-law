@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-03-21",
+  "issue": "27528",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Enerji Piyasasında Faaliyet Gösteren Gerçek ve Tüzel Kişilerin Bağımsız Denetim Kuruluşlarınca Denetlenmesi Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100321-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100321.htm",
+  "index_sha256": "d4cf68fe90afcf69c62cc8e68af06909acd43d2f5ac32cebcef30e28cf739c97",
+  "index_header": "21 Mart 2010 ... 27528 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
