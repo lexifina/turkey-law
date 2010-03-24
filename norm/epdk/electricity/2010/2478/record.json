@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2478",
+  "decision_date": "2010-03-24",
+  "title": "1/1/2010 tarihinden itibaren uygulanmak üzere onaylanan tarife tablolarının uygulanmasına devam edilmesine ilişkin",
+  "resmi_gazete_date": "2010-04-01",
+  "resmi_gazete_number": "27539",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yUvWq13pUSM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yUvWq13pUSM="
+  ],
+  "source_sha256": "3ed20a8a9e0fd9eae251cbc273225ed4aec94ab9cfc240d797e8d4721713a565",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-03-24",
+  "law_text_complete": false
+}
