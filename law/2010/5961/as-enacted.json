@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5961",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Romanya Hükümeti Arasında Yatırımların Karşılık-lı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-24",
+  "gazette_issue": "27531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100324-4.htm",
+  "source_sha256": "20653463e1a93998ab9d5789694ad7c38184f20e7cac8c77a158028ad59c95a6",
+  "text_sha256": "5cc9c030ed4ef724d0f54337189f01b16c107e0ebdf10f00de49ac2beb4be464",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/24/27531-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100324-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
