@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5963",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Adalet Bakanlığı ile Bulgaristan Cumhuriyeti Adalet Bakanlığı Arasında İşbirliği Konusunda Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-24",
+  "gazette_issue": "27531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100324-6.htm",
+  "source_sha256": "5a4bf0b22d5f64bcf7567f7a4707c699bda678b384ce85feae10d6d8284a62b4",
+  "text_sha256": "9366aa31d015b1e53723e5a7091336ffe5a6159b3669785d7a02dc2790770018",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/24/27531-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100324-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
