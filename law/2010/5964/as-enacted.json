@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5964",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bulgaristan Cumhuriyeti Hükümeti Arasında Svilengrad-Kapıkule Demiryolu Sınır Geçişi Faaliyetlerinin ve Kapıkule Sınır Mübadele Garındaki Demiryolu Sınır Hizmetlerinin Düzenlenmesine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-24",
+  "gazette_issue": "27531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100324-7.htm",
+  "source_sha256": "e1f30bc95a526e7557a4230279d30b7524f34e614cdcb76c252bc4c14a9b978c",
+  "text_sha256": "d340dc98783c65b6c54786d0dba5966286d38d3799a6518aa884bf07ff51662d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/24/27531-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100324-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
