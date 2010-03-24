@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5958",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Slovak Cumhuriyeti Hükümeti Arasındaki Askeri Mezarlık Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-24",
+  "gazette_issue": "27531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100324-1.htm",
+  "source_sha256": "8d2b2c6ae7cd0523bcd0361756a9f82b9a8351f11fbfbdc9247da1f7321b591f",
+  "text_sha256": "c005cf8c5041b66a89fa5f2fc7771bde5a763c0351dc499d7650bdf15c83d1da",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/24/27531-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100324-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
