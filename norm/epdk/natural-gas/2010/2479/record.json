@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2479",
+  "decision_date": "2010-03-24",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 24/03/2010 tarihli toplantısında, 31/12/2009 tarihli ve 27449 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 24/12/2009 tarihli ve 2358 sayılı Kurul Kararı’nın 1 inci maddesinin (a) bendinin değiştirilmesine ilişkin karar",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=A9IjpTor4K4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=A9IjpTor4K4="
+  ],
+  "source_sha256": "836043bf72198aa0a77f3df54265a5692ee7734901678bd525a8d7e44b9547d3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-03-24",
+  "law_text_complete": false
+}
