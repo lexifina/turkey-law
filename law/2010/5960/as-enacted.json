@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5960",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti ile Umman Sultanlığı Arasında Hukuki, Ticari ve Cezai Konularda Adli Yardımlaşma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-24",
+  "gazette_issue": "27531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100324-3.htm",
+  "source_sha256": "a242de249476ad2f487ca511c3798da0199c65f6cca03b9c28a315285ad2ac4b",
+  "text_sha256": "b36ab25a0010f625cd95a8e9aa17d3e0bd2edc61884adf3fb1f8b8291ce849dd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/24/27531-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100324-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
