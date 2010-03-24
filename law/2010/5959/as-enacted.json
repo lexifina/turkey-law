@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5959",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti İçişleri Bakanlığı ve Pakistan İslam Cumhuriyeti Hükümeti İçişleri Bakanlığı Arasında Eğitim İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-24",
+  "gazette_issue": "27531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100324-2.htm",
+  "source_sha256": "0a3799da1b687ffe769afc5ae70b51a2782149ce2a8e33505bebf2d31f013a84",
+  "text_sha256": "d34d29578498dada169824fd48d43173ebc6367e866783d3fa6afc507c361ea1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/24/27531-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100324-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
