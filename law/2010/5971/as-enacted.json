@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5971",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Guyana Cumhuriyeti Hükümeti Arasında Ticaret ve Ekonomik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-25",
+  "gazette_issue": "27532",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100325-7.htm",
+  "source_sha256": "598dec2846af7cfd61a8cfe11ccca1a935d843f27249bafd311d04f9dd8bcd01",
+  "text_sha256": "5cfbac1db33d50687a3aede08b3b0829060225c2268324650103c3de188bb7f4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/25/27532-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100325-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
