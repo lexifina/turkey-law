@@ -1,0 +1,20 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Üniversite bünyesinde yer alan veya Üniversiteye tahsis edilen tarımsal alanlar, seralar ve tesislerde kısa ve uzun dönemli üretimler planlamak ve her türlü bitkisel ve hayvansal üretimi gerçekleştirmek,
+b) Üretimi yapılan bitkisel ve hayvansal ürünleri ihtiyaç duyulması halinde teknolojik işlemlerden geçirerek pazarlamak veya tüketime sunmak,
+c) Bölgenin tarımsal öncelikleri dikkate alınarak ıslah çalışmaları yürütmek ve çeşit geliştirmek, ayrıca damızlık hayvan, tohumluk, fide ve fidan üreterek bölge çiftçisinin hizmetine sunmak,
+ç) Islah programlarında ve araştırma projelerinde kullanılmak üzere nitelikli genetik materyal geliştirmek ve bu materyalin birbirini tamamlayan projelere konu olmasını sağlayarak araştırma sonuçlarının ürün geliştirmede kullanılmasını ve katma değer üretmesini sağlamak,
+d) Bitkisel ve hayvansal üretimde mekanizasyon, toprak işleme ve toprak muhafazası konularında araştırma ve uygulamalar yaparak, erozyon ile mücadelede bölge çiftçilerine önderlik etmek,
+e) Bölgede bulunan biyoçeşitlilik kaynaklarının muhafazası ve tanımlanması konusunda faaliyetlerde bulunmak,
+f) Üniversitenin diğer birimleriyle işbirliği içerisinde proje yürütmek ve araştırmacılara ve lisansüstü öğrencilere yönelik eğitim programları düzenlemek,
+g) Üniversite bünyesindeki birimlerin önlisans, lisans ve lisansüstü öğretim programlarında yer alan mesleki uygulama, pratik çalışma, staj ve tez projeleriyle araştırma projeleri için yer, materyal ve hizmet sağlamak,
+ğ) Tarımsal üretim veya sanayi ile ilgili ulusal ve uluslararası kurumlara ve özel sektöre, gerçek ve tüzel kişilere, talepleri doğrultusunda; proje ve rapor hazırlamalarında, laboratuvar analizleri, test ve deney yapma, uygulamalı araştırmalar yürütme, danışmanlık ve bilir kişilik hizmetleri verme konusunda koordinasyonu sağlamak,
+h) Hayvan ve bitki sağlığıyla ilgili araştırmalar yapmak,
+ı) Hayvansal üretimin sorunları, çayır mera, yem bitkileri ve yem teknolojileri konularında çalışmalar yapmak,
+i) Ev ve deney hayvanlarıyla ilgili araştırmalar yapmak ve ilgili kurum ve kuruluşlarla işbirliğini sağlamak,
+j) Kamu kuruluşları, tarımsal amaçlı kooperatif birlikleri, yetiştirici birlikleri ve diğer tarımsal amaçlı kuruluşlar ile işbirliğini geliştirmek,
+k) Bölgesel üretim ve araştırma projeksiyonları hazırlamak,
+l) Faaliyet ve kuruluş amacına uygun olarak yurt içi ve yurt dışında bulunan üniversiteler, araştırma kuruluşları, ulusal ve uluslararası kuruluşlar ile işbirliği imkanlarını araştırmak ve geliştirmek,
+m) Her türlü yayın çalışmalarına katılmak ve yardımcı olmak,
+n) Tarımsal arazi ve ilgili tesislerde üretilen iktisadi mal ve hizmetlerin fiyat ve tarifelerini belirlemek,
+o) Bölge çiftçisinin ihtiyaç ve talepleri doğrultusunda, eğitim-öğretim ve uygulama faaliyetlerini organize etmek veya düzenlemek.
