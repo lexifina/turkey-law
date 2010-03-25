@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5966",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Bahreyn Krallığı Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-25",
+  "gazette_issue": "27532",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100325-2.htm",
+  "source_sha256": "8648648e6c7f048cfc7fa360a0a097df88d3a89aa4cb4d9ed305b4b410d5a62b",
+  "text_sha256": "0b1500aa205a6551655d108876e2b465a6298bfb1627799a198f0e4600c02532",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/25/27532-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100325-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
