@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-03-25",
+      "25.03.2010",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27532",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2010-03-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Munzur Üniversitesi",
+  "issuer_slug": "munzur-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/munzur-universitesi/2010/13884",
+  "published": "2010-03-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13884&MevzuatTertip=5",
+  "source_bytes": 19539,
+  "source_id": "8.5.13884",
+  "source_sha256": "176b35aa9d3181577eafa51eda6aab685acd2e363bd9a6545d3368b822718d7f",
+  "text_status": "as-enacted",
+  "title": "TUNCELİ ÜNİVERSİTESİ SÜREKLİ EĞİTİM, UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 344,
+  "word_count": 745
+}
