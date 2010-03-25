@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.01-GV-10-13-5",
+  "source_id": 21703,
+  "date": "2010-03-25",
+  "title": "Resmi olmayan evlilikten doğan ve baba üzerinden kimlik kaydı bulunan ancak anne ile oturan ve anne tarafından bakılan iki çocuk için annenin asgari geçim indiriminden faydalanılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21703",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "9fbc82521c0a3a4c46c774652735271a60d4a5dc5c0426c85e3ba3ca0fc0b288",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
