@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-GVK-82-1-236",
+  "source_id": 24262,
+  "date": "2010-03-25",
+  "title": "Avukatlık faaliyetinin sona ermesi ve mükellefiyetin kapatıldığı, avukatlık yaptığı sırada açılan ve henüz sonuçlanmayan davalarla ilgili olarak bir avukat arkadaşının vekil tayin edilmesi halinde alınan paranın beyanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24262",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "da2dd5a377c1f2c585ddd8b0f92a46982f38fcbc70d5b0909c0c1d9e77cf074f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
