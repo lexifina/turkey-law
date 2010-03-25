@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5969",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Kosova Öz-Yönetim Geçici Kurumları Adına Hareket Eden Birleşmiş Milletler Kosova Geçici Yönetim Misyonu (UNMIK) Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-25",
+  "gazette_issue": "27532",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100325-5.htm",
+  "source_sha256": "e4ef33e78afd0f4ad1a782bc8dbfcbe7ddef1d43d95514d2d3986d06e24f2303",
+  "text_sha256": "fedf20d0c09d1f84ef9e3dee466fe9e13b35d157c82d80735737f9c96a5b7e27",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/25/27532-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100325-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
