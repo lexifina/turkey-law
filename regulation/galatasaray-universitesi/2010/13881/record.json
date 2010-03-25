@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-03-25",
+      "25.03.2010",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27532",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2010-03-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Galatasaray Üniversitesi",
+  "issuer_slug": "galatasaray-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/galatasaray-universitesi/2010/13881",
+  "published": "2010-03-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13881&MevzuatTertip=5",
+  "source_bytes": 19100,
+  "source_id": "8.5.13881",
+  "source_sha256": "24c9681327bd18dbf5cbbf3e08277f8894efff4974c96ec71bbf91a3e3250436",
+  "text_status": "as-enacted",
+  "title": "GALATASARAY ÜNİVERSİTESİ İKTİSADİ ARAŞTIRMALAR UYGULAMAVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 194,
+  "word_count": 684
+}
