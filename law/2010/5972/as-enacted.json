@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5972",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Burkina Faso Hükümeti Arasında Ticaretin Geliştirilmesi ve Ekonomik ve Teknik İşbirliği Mutabakat Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-26",
+  "gazette_issue": "27533",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100326-2.htm",
+  "source_sha256": "b05d36dfecd85fae0319caa0d2916317b8647f22162e6edadee433e6fa2ff7b8",
+  "text_sha256": "a04fdd75503f43cb57106e865bc918f5afde62f29be0ccf6589a5cbf9e3ead34",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/26/27533-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100326-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
