@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5976",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuveyt Devleti Hükümeti Arasında Ekonomik ve Teknik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-26",
+  "gazette_issue": "27533",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100326-6.htm",
+  "source_sha256": "87e6f943dcdd6b10ae734ab3dac146ebd5a3fddabf2cfba9a5a183257a457243",
+  "text_sha256": "a423f302b3d7c9dfe7b2ed0659862b80727b1e8b2020b68b12a127950ba79ee0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/26/27533-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100326-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
