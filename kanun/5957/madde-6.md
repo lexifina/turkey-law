@@ -1,0 +1,6 @@
+Serbest rekabet şartlarının korunması ve standardizasyon
+MADDE 6 – (1) Fiyatların, malların arz ve talebine bağlı olarak serbest rekabet şartlarına göre oluşması esastır.
+(2) Meslek mensupları, serbest rekabeti engellemek amacıyla kendi aralarında veya üreticilerle ticarî anlaşmalar yapamaz, uyumlu eylemde bulunamaz ve hâkim durumlarını kötüye kullanamaz.
+(3) Bakanlık ve belediyeler, serbest rekabetin ortadan kaldırılmasına, engellenmesine ve bozulmasına yönelik eylemleri önlemek için gereken tedbirleri almakla görevli ve yetkilidir. 7/12/1994 tarihli ve 4054 sayılı Rekabetin Korunması Hakkında Kanunun ilgili hükümleri saklıdır.
+(4) Üretici ve tüketicilerin hak ve menfaatlerinin korunması ve piyasada açıklığın sağlanması amacıyla, toptancı hallerinde alım satıma konu olan malların cins, miktar ve fiyatları ile Bakanlıkça uygun görülecek diğer hususlar, toptancı hallerince elektronik ortamda kayıtları tutularak uygun görülen sistem ve araçlarla kamuoyuna duyurulur.
+(5) Ticarete konu malların ayıklanması, sınıflandırılması, hazırlanması, ambalajlanması, işaretlenmesi ve etiketlenmesine; taşıma ve muhafazasında kullanılan kap ve nakil vasıtalarına; gıda güvenilirliğine ve kalitesine ilişkin standartlar ilgili mevzuatı çerçevesinde hazırlanıp mecburî uygulamaya konulur.
