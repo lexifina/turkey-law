@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5973",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Laos Demokratik Halk Cumhuriyeti Hükümeti Arasında Ticaret ve Ekonomik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-26",
+  "gazette_issue": "27533",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100326-3.htm",
+  "source_sha256": "1f9e19ef2157407375227c0f26fcedf5acec439b8dc3248b13779f6674425334",
+  "text_sha256": "bc9ae6ad8954d7b08e7798c9618a58a19027430dc3777716088e7b2535f4ea27",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/26/27533-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100326-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
