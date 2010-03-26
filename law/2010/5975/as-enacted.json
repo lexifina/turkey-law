@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5975",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuveyt Devleti Hükümeti Arasında Sınai İhracatın Geliştirilmesi Alanında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-26",
+  "gazette_issue": "27533",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100326-5.htm",
+  "source_sha256": "b72e69be02b3a0196b8d041a5067e4ed17d0c884ec1e2479a5813f10ba70dfee",
+  "text_sha256": "891a166762fc68086b9e60005a709ef534189359569121778c53f4d9f60aeac1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/26/27533-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100326-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
