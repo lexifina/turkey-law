@@ -1,0 +1,34 @@
+{
+  "source_id": "9.5.13886",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TABİİ AFET NEDENİYLE GELİR KAYBI VE ALT YAPI HASARINA UĞRAYAN BELEDİYELERİN VE ÖZEL İDARELERİN YAPMALARI GEREKEN İŞLEMLER HAKKINDA TEBLİĞ",
+  "number": "13886",
+  "issuer": "Afet ve Acil Durum Yönetimi Başkanı",
+  "path": "teblig/2010/13886",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13886&MevzuatTertip=5",
+  "source_sha256": "55ce63fd5b5a8601510377901139c2cc840e25f0f975c22b3924a57313892e6d",
+  "source_bytes": 13956,
+  "published": "2010-03-26",
+  "gazette": "27533",
+  "in_force": "2010-03-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.03.2010); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 522,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13886%20ek1.xls",
+    "9.5.13886%20ek2.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

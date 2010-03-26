@@ -1,0 +1,1 @@
+MADDE 5- (1) 29/03/2006 tarihli ve 26123 Sayılı Resmî Gazete’de yayımlanan “Tabii Afet Nedeniyle Gelir Kaybı ve Alt Yapı Hasarına Uğrayan Belediyelerin Yapmaları Gereken İşlemler Hakkında Tebliğ” yürürlükten kaldırılmıştır.
