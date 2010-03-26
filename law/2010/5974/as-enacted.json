@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5974",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti ile MERCOSUR Arasında Bir Serbest Ticaret Alanı Kurulmasına Yönelik Çerçeve Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-03-26",
+  "gazette_issue": "27533",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100326-4.htm",
+  "source_sha256": "ed77110d607053128f9cb4c477de467fd5c7e5989324f3690738425ad638813c",
+  "text_sha256": "c07e7a2383bed86eeb3432ae39332a583eaebb265dfcf49386bcb4366d34545a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/03/26/27533-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/03/20100326-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
