@@ -1,0 +1,1 @@
+MADDE 3 – (1) 18/2/2008 tarihli ve 26791 sayılı Resmî Gazete’de yayımlanan Meyer Uluslararası Uygunluk Değerlendirme Hizmetleri Limited Şirketi’nin Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (Tebliğ No: SGM 2008/5) yürürlükten kaldırılmıştır.
