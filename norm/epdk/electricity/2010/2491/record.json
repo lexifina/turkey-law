@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2491",
+  "decision_date": "2010-03-30",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 30/03/2010 tarihli toplantısında, perakende satış lisansına sahip dağıtım şirketlerinin; dağıtım bağlantı ve sistem kullanım, perakende satış ve perakende satış hizmeti tarifeleri ile iletim, kesme bağlama ve güvence bedellerine ilişkin ikinci uygulama döneminin 1/1/2011 (dahil)- 31/12/2015 (dahil) olarak belirlenmesine ilişkin",
+  "resmi_gazete_date": "2010-04-07",
+  "resmi_gazete_number": "27545",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ynj079ZUHZk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ynj079ZUHZk="
+  ],
+  "source_sha256": "86d61a7c61ff11964fc9f1171b3e49478177ebfc06f4e8d7bf1e2b0b94791246",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-03-30",
+  "law_text_complete": false
+}
