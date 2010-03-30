@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "DV-19/2010-1/ Nüsha ve suret",
+  "source_id": 1010,
+  "date": "2010-03-30",
+  "title": "Damga Vergisi Kanunu uygulamasında nüsha ve suret ayrımı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1010",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "9a5fb7d7a232facc81bf20fa589fb18c8ded30e85d2cb2ed03d4b05e366d0baa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
