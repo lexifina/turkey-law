@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.13898",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MECBURİ STANDARD TEBLİĞİ (TEBLİĞ NO: ÖSG–2010/6)",
+  "number": "13898",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "path": "teblig/2010/13898",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13898&MevzuatTertip=5",
+  "source_sha256": "d56385caafa9ad9f714086c924c580f956d7d55ed0a578c31f34610275757c96",
+  "source_bytes": 7358,
+  "published": "2010-03-30",
+  "gazette": "27537",
+  "in_force": "2010-03-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.03.2010); own commencement article: \"Bu Tebliğ yayımı tarihinden 6 (Altı) ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden 6 (Altı) ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 138,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13898%20ekler.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
