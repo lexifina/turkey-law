@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.27.15.01-2010-515-1",
+  "source_id": 36512,
+  "date": "2010-04-01",
+  "title": "Motorlu Kara Taşıtları Kasko Değer Listesinde yer almayan taşıt için taşıtın kasko sigortası değerine ilişkin Türkiye Sigorta ve Reasürans Şirketleri Birliğinden alınan yazıya istinaden yetkili sigorta acntesince düzenlenen Motorlu Taşıtlar Vergisi Tutarı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36512",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "27f95b42eaa96d4493fca2759d3de4a65224b0e5f3dd1acec1ecb7fecc214491",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
