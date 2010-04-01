@@ -1,0 +1,3 @@
+Faiz indirimi
+GEÇİCİ MADDE 4 – (Ek: RG-20/05/2006-26173)
+Bakanlığımızdan Tarımsal Amaçlı Kooperatiflere Kullandırılacak Kredilere İlişkin Yönetmelik ve mülga Tarımsal Kooperatiflerin Yatırım Faaliyetlerine Yapılacak Devlet Yardımı Yönetmeliği hükümlerine göre kredi alan kooperatif ve ortaklardan borçlanma sözleşmelerinde %5’in üzerinde faiz oranı uygulanmış olanlardan; halen vadelerinde ödemelerine devam edenler sözleşmelerinin yenilenmesine gerek kalmaksızın kalan anapara borç miktarlarına ve kalan vadeler için bu maddenin yürürlük tarihi itibariyle yıllık % 5 üzerinden faiz uygulanır ve tahsil edilir.

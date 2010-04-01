@@ -1,0 +1,6 @@
+Vade
+MADDE 16 - Sabit yatırım ve işletme sermayesi için kullandırılan kredilerde vade, projenin özelliğine göre aşağıdaki gibidir.
+a) Sabit yatırım için; borçlanma sözleşmesindeki vade tarihi itibariyle ilk yılı ödemesiz (ilk yıl için faiz tahakkuk ettirilmez), ikinci yılı faiz ödemeli, diğer yıllarda taksit ve faiz ödemeli olarak eşit taksitler halinde olmak üzere ve proje özelliğine göre en çok 12 yıldır. Ortakların mülkiyetindeki projelerde ise bu süre en çok 7 yıldır. Ancak çok yıllık projelerde geri ödeme işletmeye geçtikten sonra başlar.
+Özel projelere kullandırılacak kredilerin vadeleri proje özelliği dikkate alınarak Genel Müdürlükçe tespit edilir.
+b) İşletme sermayesi için; ilk yıl faiz ödemeli ikinci ve üçüncü yıllarda taksit ve faiz ödemeli olarak 3 yıldır. Taksitler eşit olarak alınır.
+Tahsis edilen kredilerin mahalli Bankaya intikalini takip eden 1 ay içinde borçlanma sözleşmesinin yapılması ve bu sözleşme tarihinden itibaren 6 ay içinde de kullanılması zorunludur. Bu sürelerde faaliyet gösterilmemesi halinde verilen kredi tenkis edilerek Bakanlık Merkez Saymanlığının T.C. Ziraat Bankası Merkez Şubesindeki hesabına aktarılır. (Tenkis edilen kredi için faiz alınmaz.) Ancak kredinin kullandırılmasında Genel Müdürlükçe uygun görülen mücbir sebeplerin bulunmasında 6 aylık süre bir defaya mahsus olmak üzere ikinci bir 6 ay daha uzatılabilir.

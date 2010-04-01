@@ -1,0 +1,3 @@
+Kredilerin Gönderilmesi
+MADDE 11 - Programa alınan ve gerekli şartları yerine getiren kooperatiflere verilecek krediler; Bakanlık Bütçe Dairesi Başkanlığı ve Merkez Saymanlığınca, tahakkuk müzekkeresi ve verile emri ekine kullandırılacak kredi tutarı, krediyi kullanacak kooperatif ve/veya kooperatif ortakları ve aktarmanın yapılacağı banka hesap numarasını belirtir Makam Onayı bağlanmak suretiyle, kooperatifin mahalli banka şubesindeki hesabına aktarılır.
+Mahalli banka şubesine intikal ettirilen bu krediler Genel Müdürlük ile T.C. Ziraat Bankası arasında yapılacak protokol hükümleri çerçevesinde İl Müdürlüğünce kontrollü olarak kullandırılır.

@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 - Bu Yönetmeliğinin yürürlüğe girmesinden önce kredi tahsis işlemi yapılmış kooperatifler 24’üncü maddeyle kaldırılan Yönetmelik hükümlerine; daha önce yatırım bütçelerinde yer almış, fakat kredi tahsis işlemi yapılmamış kooperatifler bu Yönetmelik hükümlerine tabidir.
