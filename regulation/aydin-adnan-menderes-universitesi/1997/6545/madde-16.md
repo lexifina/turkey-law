@@ -1,0 +1,3 @@
+Hemşirelik Hizmetleri Müdürü
+MADDE 16 – (Değişik:RG-1/4/2010-27539)
+Hemşirelik hizmetleri müdürü; hemşirelik eğitimi alanında lisans mezunu olan, iyi derecede sicil almış, en az beş yıllık mesleki deneyime sahip ve tercihen bu alanda lisansüstü eğitim yapmış olan hemşireler arasından, Başhekimin önerisi ile Rektör tarafından görevlendirilir. Ayrıca, Başhekimin önerisi üzerine, en az lisans eğitimi almış olan hemşireler arasından, ihtiyaç duyulan sayıda kişi hemşirelik hizmetleri müdür yardımcısı olarak üç yıl için Rektör tarafından görevlendirilir. Hemşirelik hizmetleri müdürünün görevi sona erdiğinde yardımcılarının da görevi kendiliğinden sona erer. Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil bırakır. Vekalet süresi en fazla iki aydır.
