@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2498",
+  "decision_date": "2010-04-01",
+  "title": "Boru Hatları ile Petrol Taşıma A.Ş.’nin (BOTAŞ) 2010 yılı transit doğal gaz iletimi dahil ulusal iletim şebekesi yatırım programının onaylanmasına ilişkin Karar",
+  "resmi_gazete_date": "2010-04-15",
+  "resmi_gazete_number": "27553",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IENilhlpZpM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IENilhlpZpM="
+  ],
+  "source_sha256": "ce23966730b70aadc0fc2c328cdb7ccb1c18139c0d6134e6ab21e25e76c85e80",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-04-01",
+  "law_text_complete": false
+}
