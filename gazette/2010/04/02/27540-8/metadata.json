@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-04-02",
+  "issue": "27540",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Dış Ticaret Sermaye Şirketlerine İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/04/20100402-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/04/20100402.htm",
+  "index_sha256": "b9ce0a096275891b3ffe9dd33dfdb605330d112962747ca2cd8bebe3fac2d308",
+  "index_header": "2 Nisan 2010 ... 27540 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
