@@ -1,0 +1,24 @@
+{
+  "number": "meeting-04-05-5",
+  "number_as_published": "meeting-04-05-5",
+  "year": 2010,
+  "title": "GAZİEMİR BELEDİYE MECLİSİ 05.04.2010 KARAR . İZ. MAK. MÜH. ELEK. MÜH. ODA. PROT.İ",
+  "decision_date": "2010-04-05",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=76",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/dea918d305fa1064dd933c7ba5268b9e790d4f2525d0265b024a43ab81f0672e.doc",
+  "source_sha256": "2613f689337d60a1110f7e2b6bbbb9d984040d343e66cf44c902890f65234ce6",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2010-04-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.04.2010; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "GAZİEMİR BELEDİYE MECLİSİ 05.04.2010 KARAR . İZ. MAK. MÜH. ELEK. MÜH. ODA. PROT.İ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "30.04.2010"
+}
