@@ -1,0 +1,6 @@
+ÇANKIRI KARATEKİN ÜNİVERSİTESİ AVRUPA BİRLİĞİ ÇALIŞMALARI UYGULAMA VE
+ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; Çankırı Karatekin Üniversitesi bünyesinde kurulan Avrupa Birliği Çalışmaları Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, organlarına ve bu organların görevlerine ilişkin usul ve esasları düzenlemektir.

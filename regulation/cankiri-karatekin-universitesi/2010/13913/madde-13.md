@@ -1,0 +1,2 @@
+Merkez birimleri ve çalışma grupları
+MADDE 13 – (1) Araştırma, geliştirme ve eğitim çalışmalarını iş bölümü çerçevesinde yürütmek üzere, Merkez Müdürünün önerisi ve Yönetim Kurulunun kararıyla Merkezin çalışma alanlarında birimler ve çalışma grupları oluşturulabilir. Merkez birimleri ve çalışma gruplarının kuruluş ve çalışmaları Yönetim Kurulunca belirlenen esaslara göre yürütülür. Merkez birimleri ve çalışma gruplarına her türlü akademik ve idari personel, Merkez Müdürünün önerisi ve Rektörün onayı ile görevlendirilir.
