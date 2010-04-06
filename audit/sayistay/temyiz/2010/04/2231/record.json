@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "31330",
+  "decision_date": "2010-04-06",
+  "source_id": 2231,
+  "chamber": "1",
+  "file_number": "30633",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2231/",
+  "source_sha256": "a89854a448e69d0e19da8ec5a1501af241bbd9518f456656c189b16bac42089b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
