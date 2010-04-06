@@ -200,6 +200,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)
 33) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu
 34) (Ek: 28/9/2006-5548/36 md.; İptal: Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile. )(2)
 35) (Ek: 21/9/2006-5544/31 md.) Meslekî Yeterlilik Kurumu (2)
+36 ) (Ek: 24/3/2010-5978/30 md.) Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
 ––––––––––––––
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “10) Devlet Opera ve Balesi Genel Müdürlüğü” sırasından sonra gelmek üzere “11) Orman Genel Müdürlüğü” sırası eklenmiş ve cetvelin sıra numaraları teselsül ettirilmiştir.
 (2) 28/9/2006 tarihli ve 5548 sayılı Kanunun 36 ncı maddesiyle, bu bölüme “29) Kamu Denetçiliği Kurumu “ ibaresi eklenmesinden dolayı bu kuruma ait sıra numarası yeniden teselsül ettirilmiş, daha sonra bu sıra; 4/4/2009 tarihli ve 27910 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile 28/9/2006 tarihli ve 5548 sayılı Kamu Denetçiliği Kurumu Kanununun tümüyle iptal edilmesinden dolayı yürürlükten kaldırılmıştır.
