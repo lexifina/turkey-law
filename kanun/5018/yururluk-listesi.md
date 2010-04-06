@@ -24,3 +24,4 @@ Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayıl�
 5902 | (I) Sayılı Cetvel | 17/6/2009
 5917 | 6, (III) Sayılı Cetvel (II) Sayılı Cetvel | 10/7/2009 1/1/2010
 5952 | (I) Sayılı Cetvel | 4/3/2010
+5978 | (II) Sayılı Cetvel | 6/4/2010
