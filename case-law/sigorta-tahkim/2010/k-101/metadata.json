@@ -1,0 +1,15 @@
+{
+  "number": "K-2010/101",
+  "award_date": "2010-04-09",
+  "heading_as_published": "09.04.2010 Tarih ve K-2010/101 Sayılı Hakem Heyeti Kararı",
+  "issue": "Hakem Karar Dergisi 2 Nisan - Haziran 2010",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs2.pdf",
+  "source_sha256": "0b6f5c3362a4e6af84d7521cc28b11f871713445cec235a9ec4116c04dc52144",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "mis-mapped characters in the issue text layer (font encoding; no OCR)",
+  "source_images": 9,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
