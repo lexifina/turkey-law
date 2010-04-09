@@ -1,0 +1,2 @@
+Maddenin genel ithalatı
+MADDE 26 – (1) 2004 yılında 30,1 bin ton olan soruşturma konusu tekstürize iplikler genel ithalatı 2005 yılında 57,9 bin ton, 2006 yılında 81,2 bin ton ve SD’de 118,3 bin ton olarak gerçekleşmiştir. 2004-SD arasında bu ürünün ithalatı miktar bazında yaklaşık %300 oranında artış kaydetmiştir. Aynı dönemde ithalat değer bazında 78 milyon ABD dolarından %250 oranında artarak 273,5 milyon ABD dolarına yükselmiştir.

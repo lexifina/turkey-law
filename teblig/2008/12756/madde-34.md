@@ -1,0 +1,6 @@
+Fiyat yıpranması
+MADDE 34 – (1) Dampingli ithalat nedeniyle, yerli üretim dalının satış fiyatlarını düşürmesidir.
+(2) Fiyat yıpranması analizinde, yerli üretim dalının soruşturma döneminde en fazla satışını yaptığı iki ürün tipindeki satış fiyatlarındaki yıpranma zarar inceleme dönemi için belirlenmiştir.
+(3) Yerli üretim dalının satış fiyatlarında reel anlamda yıpranma olup olmadığının tespiti amacıyla Yeni Türk Lirası esasındaki veriler için yıllık ortalama “üretici fiyat endeksi” kullanılarak hesaplanmış reel değerler kullanılmıştır.
+(4) Bu çerçevede yapılan hesaplamalar neticesinde, 2004 yılında 100 olan 75/36 poliesterlerden tekstürize ipliklerin ortalama birim satış fiyatı SD’de 90,4’e gerilemiştir. Bu söz konusu üründe reel anlamda %9,6 lık bir fiyat yıpranmasının meydana geldiğini göstermektedir. 2004 yılında 100 olan 150/48 poliesterlerden tekstürize ipliklerin ortalama birim satış fiyatı ise SD’de 97’ye gerilemiştir. Bu, söz konusu üründe reel anlamda %3 oranında bir fiyat yıpranmasının meydana geldiğini göstermektedir.
+(5) Yerli üretim dalının toplam poliesterlerden tekstürize iplik satışları esasında ise 2004 yılında 100 olan ortalama birim satış fiyatının SD’de 93,3’e gerilediği görülmektedir. Bu yerli üretim dalının zarar inceleme döneminde ortalama satış fiyatının reel anlamda %6,7 gerilediğini göstermektedir.

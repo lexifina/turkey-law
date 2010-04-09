@@ -1,0 +1,4 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Soruşturma
+MADDE 1 – (1) Yerli üretici Korteks Mensucat San. ve Tic. A.Ş. (Korteks) ile Sönmez Filament Sentetik İplik ve Elyaf Sanayi A.Ş. (Sönmez) adına Suni ve Sentetik İplik Üreticileri Birliği’nce (SUSEB) yapılan ve diğer yerli üreticiler Advansa Suni ve Sentetik Elyaf Sanayii A.Ş. (Sasa), Nergis Tekstil Sanayi ve Ticaret A.Ş. (Nergis), Sifaş Sentetik İplik Fabrikaları A.Ş. (Sifaş) ve Polyteks Tekstil A.Ş. (Polyteks) tarafından da desteklenen başvuru üzerine; Çin Halk Cumhuriyeti (ÇHC), Endonezya, Malezya ve Tayland menşeli “poliesterlerden tekstürize iplikler” için 4/12/2007 tarih ve 26720 sayılı Resmî Gazete’de yayımlanan “İthalatta Haksız Rekabetin Önlenmesine İlişkin 2007/19 sayılı Tebliğ” ile başlatılan ve Dış Ticaret Müsteşarlığı İthalat Genel Müdürlüğü tarafından yürütülen damping soruşturması tamamlanmıştır.
