@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.15.01-KVK-49-2-1-7",
+  "source_id": 27502,
+  "date": "2010-04-09",
+  "title": "Birliğinizin üyeleri için dışarıdan temin edeceği fenni yem vb. ürünlerin alımında katma değer vergisi ödenip ödenmeyeceği ve bu ürünlerin üyelerinize satışı nedeniyle düzenlenen faturada katma değer vergisi hesaplanıp hesaplanmayacağı ile kurumlar vergis",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27502",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "b5ddb99406ef3fa5dcce80f3b09d8df9b38207a396bb05e71672cc25eac926b2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
