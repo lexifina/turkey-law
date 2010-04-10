@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-KVK-2010/2-15",
+  "source_id": 28150,
+  "date": "2010-04-10",
+  "title": "İhracat gelirlerinin hangi yılın beyannamesi ile beyan edileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28150",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "36d41ecd643102d884dd2bb79b74a5ccb5c3669d53382b13be083f1d53a52983",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
