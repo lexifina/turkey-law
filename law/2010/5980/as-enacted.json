@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5980",
+  "year": 2010,
+  "title": "Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun ile Milletvekili Seçimi Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-04-10",
+  "gazette_issue": "27548",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/04/20100410-2.htm",
+  "source_sha256": "269a6f0782b6eacb97c013cafd4db9d1f9dc1245bf2d4115b98314539d80b094",
+  "text_sha256": "4085a4505d0a4c8325b76e0827717a0903efc2bb2efe295df5fa59c56c9b96d2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/04/10/27548-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/04/20100410-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
