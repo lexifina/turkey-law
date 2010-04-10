@@ -164,6 +164,7 @@ TEKNOLOJİ ENSTİTÜLERİ
 94) (Ek: 22/5/2008-5765/3 md.) Şırnak Üniversitesi
 95) (Ek: 22/5/2008-5765/3 md.) Tunceli Üniversitesi
 96) (Ek: 22/5/2008-5765/3 md.) Yalova Üniversitesi
+97) (Ek: 1/4/2010-5979/4 md.) Türk-Alman Üniversitesi
 B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
