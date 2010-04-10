@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2010/yurtdisisecmengenelge",
+  "list_number": "264",
+  "genelge_number": "Örnek: 140/II",
+  "decision_date": "2010-04-10",
+  "title": "Yurt dışı seçmen kütüğünün düzenlenmesine esas olacak Örnek: 140/II sayılı Yurt Dışı Seçmen Kütüğü Genelgesinin kabul edilerek yürürlüğe konulmasına ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1750/YurtDisiSecmenGenelge.pdf",
+  "source_sha256": "6d1b0ccd1dbfd02e46b92eea3706ded96a6abdc2e586ca2679871cee9e1ed79f",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-04-10",
+  "law_text_complete": false
+}
