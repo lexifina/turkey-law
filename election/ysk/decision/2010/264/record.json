@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/264",
+  "list_number": "264",
+  "decision_date": "2010-04-10",
+  "title": "Yurt dışı seçmen kütüğünün düzenlenmesine esas olacak Örnek: 140/II sayılı Yurt Dışı Seçmen Kütüğü Genelgesinin kabul edilerek yürürlüğe konulmasına ilişkin Yüksek Seçim Kurulunun 2010/264 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2946/2010-264.pdf",
+  "source_sha256": "003ae3ac1162e52a8f77c1626ba2dd8034523bbfa03cc35e74e08fe61bdd129d",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-04-10",
+  "law_text_complete": false
+}
