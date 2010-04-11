@@ -1,0 +1,2 @@
+Danışma kurulunun görevleri
+MADDE 13 – (1) Danışma Kurulunun görevi; Üniversite, sanayi, ticaret ve hizmet sektörleri arasında ilişkilerin düzenlenmesi ve geliştirilmesi için Yönetim Kuruluna önerilerde bulunmak, sanayiciler ve ticaretle uğraşanlar ile Merkez arasında yılda en az bir defa işbirliği konusunda yapılan çalışmaları değerlendirmeye yönelik toplantılar yapmak, problemleri belirlemek ve muhtemel çözüm yollarını araştırmaktır.

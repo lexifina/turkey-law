@@ -1,0 +1,21 @@
+Yönetim kurulunun görevleri
+MADDE 11 – (1) Yönetim Kurulunun görevleri şunlardır:
+a) Ulusal ve uluslararası işbirliği yapılacak kuruluşlarla birlikte, Üniversite öğrencilerinin niteliklerini arttıracak eğitim ve sertifika programları, paneller ve toplantılar düzenlemek; Üniversitenin değişik branşlardaki öğrencilerinin girişimci olmalarına yardımcı olmak; Türkiyenin ekonomik ve sosyal yapısı ile ilgili araştırma yapmak, proje hazırlamak ve bunları yayınlamak; Merkez bünyesinde veri bankası oluşturmak, girişimcilik ile ilgili rapor, bülten hazırlamak ve bunları yayınlamak; fizibilite etütleri hazırlanmasında, yatırım kaynaklarına ulaşılmasında girişimcilere yardımcı olmak,
+b) Risk sermayesi şirketleri ve finans merkezlerinin istemiş oldukları iş planlarının hazırlanmasına danışmanlık yapmak, hazırlanmış iş planlarını bilimsel düzeyde incelemek ve görüş vermek,
+c) Türkiyede faaliyet gösteren küçük ve orta ölçekli işletmeler (KOBİ) ile bunlarla ilgili finans faaliyet alanlarının geliştirilmesine eğitim faaliyetleriyle katkıda bulunmak,
+ç) Yurt içindeki ve yurt dışındaki benzer nitelikteki merkezlerle işbirliği yaparak bilgi alışverişinde bulunmak,
+d) KOBİ’lerin; teknoloji transferi ve yeni ürünleri geliştirme çalışmalarını teşvik etmek, vergi mevzuatı, maliyet muhasebesi, enflasyon muhasebesi, finansman, pazarlama, iş kanunu, dış ticaret işlemleri ve uygulamalarına yönelik sorunlarının çözümüne katkıda bulunmak, üretim verimliliği, kapasite kullanımı, talep analizi gibi konularda ihtiyaç duydukları araştırmaların yapılmasına katkı sağlamak,
+e) KOBİ’lerde kalite bilincinin yerleşmesi, yönetimde kalite uygulamalarının kullanımının yaygınlaşmasıyla ilgili çalışmalar yapmak. KOBİ’lerin teknolojiyi geliştirme aracı olarak Ar-Ge kaynaklarını kullanımlarına yönelik bilgilendirme ve proje yapmalarına danışmanlık yapmak,
+f) KOBİ’lere Avrupa Birliğini (AB) tanıtıcı, mali yardımlar konularında bilgilendirici portalın oluşturulması ve Merkezin bu portalda tanıtımının yapılmasını gerçekleştirmek; KOBİ’lerin bilgi teknolojilerinden yararlanabilmeleri ve bu teknolojileri kullanabilmeleri konularında eğitim programları hazırlamak ve ulusal ve uluslararası fuarlara katılım, iş görüşmeleri gibi konularda bilgilendirme toplantıları, sempozyumlar, seminerler düzenlemek; KOBİ yöneticilerine yönelik danışmanlık yapmak, eğitim toplantıları düzenlemek,
+g) Sanayi, ticaret ve hizmet sektörü mensupları tarafından önerilen konularda işbirliği tekliflerini değerlendirmek, işbirliği tekliflerini Üniversitenin ilgili kurul veya kuruluşlarına iletmek,
+ğ) Teknolojik ve bilimsel gelişmelerle ilgili eğitim ve bilgilendirme amacıyla kurs, seminer, konferans ve benzeri etkinlikler düzenlemek,
+h) Danışmanlık konusunda koordinasyonu sağlamak,
+ı) Öğretim üyelerinin, sanayi, ticaret ve hizmet sektörlerinin bilimsel ve teknik sorunlarına yönelik bilgi edinmelerini sağlamak,
+i) Öncelikli olarak Üniversite bölgesinde bulunan kuruluşlarla temasta bulunarak rekabete ilişkin kuralları tanıtıcı eğitimler yapmak, verimliliğin arttırılmasını teşvik etmek,
+j) Türk girişimcilerle yabancı girişimcileri bir araya getirecek teknolojik sistemleri kurmak,
+k) Aile şirketlerinin kurumsallaşmasına yönelik çalışmalar yapmak,
+l) Uluslar arası yatırım ve finans kuruluşlarından mali kaynak kullanımına yönelik bilgilendirme toplantıları yapmak ve söz konusu kuruluşların geliştirdiği programlara yönelik projeler yapmak,
+m) Üniversite öğrencilerine yönelik staj ve eğitim imkanları yaratmak amacıyla AB ülkeleriyle işbirliği sağlamak,
+n) İlgili kuruluşlarla birlikte teknoloji geliştirme, araştırma projeleri yapmak, üniversite-sanayi işbirliği projesi geliştirmek,
+o) İhracatın geliştirilmesi konusunda araştırmalar yapmak, bu amaçla seminer, panel ve eğitim toplantıları düzenlemek; pazarlama teknikleri ile ilgili bilimsel ve uygulamalı toplantılar yapmak,
+ö) İlgili diğer mevzuatla verilen diğer görevleri yapmak.
