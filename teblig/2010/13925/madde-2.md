@@ -1,0 +1,2 @@
+Kapsam
+Madde 2- (1) Bu Tebliğ, 4412 sayılı Kanunla Değişik 3577 Sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun (Kanun), 30/10/1999 tarihli ve 23861 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar (Karar) ve İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik (Yönetmelik) hükümleri çerçevesinde yürütülen damping soruşturması sonuçlarını içermektedir.

@@ -1,0 +1,3 @@
+Geçici önlemlerin kesin olarak tahsili
+Madde 24 – (1) Bu Tebliğ’in yürürlüğe girdiği tarihe kadar 2010/1 sayılı Tebliğ hükümlerine istinaden alınmış olan teminat şeklindeki geçici önlem, Kanun’un 14 ve 15 inci maddeleri çerçevesinde, soruşturma kapsamı dışına çıkarılan Tablo 2’de yer alan eşyalar için iade edilir.
+(2) Bu Tebliğ’in yürürlüğe girdiği tarihe kadar 2010/1 sayılı Tebliğ hükümlerine istinaden alınmış olan teminat şeklindeki geçici önlem, Tablo 1’de yer alan eşyalar için kesin önleme dönüştürülmüş olup, kesinleşen dampinge karşı önlem Kanun’un 14 ve 15 inci maddeleri çerçevesinde tahsil edilir. Kesinleşen dampinge karşı önlemin daha önce alınan geçici önlemden yüksek olduğu haller için fark tahsil edilmez, düşük olduğu haller için ise fark geri ödenir.
