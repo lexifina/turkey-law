@@ -1,0 +1,8 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Kamu personeline, yerel yönetimlerde çalışanlara, mimarlara, mühendislere, öğretmen ve öğrencilere uydu haberleşme ve uzaktan algılama konusunda eğitim verilmesini sağlamak, bu amaçla düzenlenecek seminer ve kurslarla konu hakkında elde edilen yeni teknik ve bilgileri aktarmak,
+b) Uydu haberleşme, uzaktan algılama, ileri elektronik ve bilgisayar teknolojileri konularında, eğitim ve araştırma yapmak, teknoloji geliştirmek ve uygulama yapmak,
+c) Uzaktan algılama, uydu haberleşmesi ve teknolojileri konularında ülkenin bilimsel ve operasyonel ihtiyaçlarını karşılayacak yeterliliği sağlamak, uydu haberleşmesi ve teknolojileri, uzaktan algılama ve bilgisayar teknolojileri konularındaki uygulamalarda, ulusal-uluslararası araştırma ve uygulama projeleri ile eğitim programlarını organize etmek ve yürütmek,
+ç) Merkezin ilgi alanına giren konularda faaliyette bulunan ulusal ve uluslararası, resmi veya özel kurum ve kuruluşlar ile Merkezin amacı doğrultusunda işbirliğinde bulunmak, ortak çalışmalar düzenlemek, uygulama ve araştırma projeleri hazırlamak, bu projelere kaynak yaratmak ve projeleri uygulamak ve/veya uygulanmasının takibini yapmak,
+d) Konuyla ilgili çalışmaları daha ileri düzeye çıkarabilmek için ulusal ve uluslararası nitelikte kurs, seminer, konferans, kongre ve benzeri faaliyetlerde bulunmak,
+e) Uygulama ve araştırma çalışmaları sonunda elde edilen bilimsel ve teknik bulguları ve verileri açıklayan, sorunlara çözüm önerileri getiren rapor, bülten, proje, kitap, makale, dergi ve benzeri yayınlarda bulunmak.
