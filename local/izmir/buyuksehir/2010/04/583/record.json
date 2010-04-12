@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "583",
+  "decision_date": "2010-04-12",
+  "official_id": "10079",
+  "version_label": "metadata-only",
+  "text_status": "withheld: register text appears to concern individual persons; official link only",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2010&ay=&gun=&txtSozcuk=&draw=1&start=1100&length=100&txtKararNo=",
+  "source_listing_sha256": "611f43c08eb9e11acc045f13336786f31a85f1d07f9bcd70712b4bad67e4041b",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": true
+}
