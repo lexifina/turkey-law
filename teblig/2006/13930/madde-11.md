@@ -1,0 +1,2 @@
+Maddenin genel ithalatı
+MADDE 11- (1) Esas önlem yürürlüğe girmeden önce 1999 yılında tekstürize ipliklerin genel ithalatı 14.273 ton iken önlemin yürürlüğe girdiği 2000 yılında 20.347 tona çıkmış 2001 yılında ise yaşanan ekonomik krizin de etkisiyle 10.964 tona gerilemiştir. GGD’ de ilk iki yıl ithalat artmış ve sırasıyla 37.534 ve 38.227 ton olarak gerçekleşmiş son yıl ise miktar azalarak 30.114 tona gerilemiştir. 2005 yılında ise tekrar 57.885 tona çıkmıştır.

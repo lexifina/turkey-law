@@ -1,0 +1,6 @@
+İlgili tarafların bilgilendirilmesi ve dinlenmesi
+MADDE 4- (1) Soruşturma açılmasını müteakip, soruşturma konusu ülkelerin Büyükelçilikleri veya temsilciliklerine ve bilinen üretici-ihracatçı firmalara şikayetin gizli olmayan metni ve soruşturma açılış Tebliği gönderilmiştir.
+(2) Ayrıca, ilgili taraflardan alınan bilgi ve belgelerin gizli olmayan özetleri talep eden bütün ilgili tarafların bilgisine sunulmuştur.
+(3) Yönetmelik’in 25 inci maddesi uyarınca, soruşturmanın ilgili taraflarına soruşturma sonucundaki belirlemelere esas teşkil eden verileri içeren nihai bildirimler gönderilmiş ve karşıt görüş ve değerlendirmelerini iletmeleri için makul bir süre tanınmıştır.
+(4) Nihai bildirimin ilgili taraflara gönderilmesini müteakip, Reliance Industries Limited firmasından gelen talep üzerine görüşlerini sözlü olarak ifade edebilmelerine imkan vermek amacıyla bir dinleme toplantısı düzenlenmiştir. Taipei Ekonomi ve Kültür Ofisi’nin talebi üzerine de Tayvan’dan işbirliğine gelen Lea Lea firmasının katılacağı bir dinleme toplantısı için gün ve saat tespit edilmiş ancak bahse konu firma toplantıya katılmamıştır.
+(5) Tarafların soruşturma boyunca ortaya koyduğu tüm bilgi, belge ve görüşler incelenmiş, mezkur görüşlerden mevzuat kapsamında değerlendirilebilecek olanlarına bu Tebliğin ilgili bölümlerinde yanıt verilmiştir.
