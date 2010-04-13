@@ -1,0 +1,2 @@
+Üçüncü ülkelerce uygulanan ticaret politikası önlemleri
+MADDE 11 – (1) Şikayet konusu ülkelere karşı üçüncü ülkelerin uyguladığı veya halen uygulamakta oldukları ticaret politikası önlemleri incelendiğinde, Avrupa Birliği’nin Çin Tayvanı menşeli polyester elyaflara Aralık 2006-Haziran 2007 tarihleri arasında sırasıyla %14,7 ve %29,5 oranlarında geçici önlem uyguladığı tespit edilmiştir. Geçici önlem, Haziran 2007 tarihinde topluluk menfaati şartının mevcut olmadığı gerekçesiyle yürürlükten kaldırılmıştır.

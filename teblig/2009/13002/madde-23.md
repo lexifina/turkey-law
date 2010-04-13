@@ -1,0 +1,7 @@
+Ekonomik göstergelerin değerlendirilmesi
+MADDE 23 – (1) 2005-2007 yıllarını kapsayan gözden geçirme döneminde yerli üretim dalının zarar göstergelerinde temel olarak önlemin etkisiyle düzelme görüldüğü belirlenmiş ve üretim miktarlarının istikrarlı bir seyir izlediği görülmüştür.
+(2) Kapasite kullanım oranları dikkate alındığında zarar inceleme döneminde kapasitede bir artış yaşanmaması ve üretimdeki istikrarlı seyir nedeniyle kapasite kullanım oranlarının yatay bir seyir izlediği görülmüştür.
+(3) Yurt içi satışların 2005–2007 döneminde artış kaydettiği tespit edilmiştir. Bu çerçevede yürürlükte bulunan önlemin etkisiyle üretimde olduğu gibi iç satışlarda da artış yaşandığı gözlemlenmektedir.
+(4) Maliyetler incelendiğinde ise sınai maliyetlerin zarar inceleme döneminde istikrarlı ve yatay bir seyir izlediği tespit edilmiştir. Sınai maliyetin seviyesinin ticari maliyete de etki ederek ticari maliyetin istikrarlı bir yapı arz etmesini sağladığı görülmektedir. Öte yandan, 2006 yılında finansman giderlerindeki ani artışın ticari maliyeti kısmi olarak arttırdığı anlaşılmaktadır.
+(5) Ticari maliyetlerle doğrudan bağlantılı olan ürün karının ise 2005–2007 döneminde eksi değerlerde seyretmesine karşın 2007 yılında bir önceki yıla kıyasla daha olumlu bir seviyede oluştuğu görülmektedir. 2006 yılında ürün karındaki bozulmanın ise ticari maliyette yukarıda belirtilen artıştan kaynaklandığı anlaşılmaktadır.
+(6) Stok miktarlarının incelenmesi çerçevesinde 2007 yılında stoklarda yaşanan artışın dış satışlardaki düşüşten kaynaklandığı mütalaa edilmektedir.

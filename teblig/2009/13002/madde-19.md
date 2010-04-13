@@ -1,0 +1,2 @@
+Önlem konusu ürünün Türkiye toplam tüketimi
+MADDE 19 – (1) Soruşturma konusu ürünün Türkiye toplam tüketimi hesaplanırken 2007 yılına ait şikayetçi yerli üretici ile şikayeti destekleyen yerli üreticilerden temin edilen yurtiçi satış miktarları ilgili yıla ait toplam ithalatla toplanmıştır. Bu çerçevede 2005 yılında 100 olan tüketim endeksinin 2006 yılında değişmediği, 2007 yılında ise 108 olduğu görülmüştür.

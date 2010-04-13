@@ -1,0 +1,2 @@
+Maddenin soruşturma konusu ülkelerden ithalatı
+MADDE 18 – (1) Söz konusu ülkelerden gerçekleşen ithalatın önlemin yürürlüğe girdiği 2003 senesinden sonra önlemin etkisiyle gerilediği, buna karşın 2007 yılında bir önceki yıla nazaran %168 artış kaydederek 12.402.716 Kg seviyesine ulaştığı görülmüştür. Netice itibariyle soruşturma konusu ülkelerin ithalat içindeki payı miktar temelinde 2006 yılında %8,27 iken, bu rakam 2007 yılında %18,41 olmuştur.
