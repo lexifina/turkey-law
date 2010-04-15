@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.01-40-MUK-2010/28-10",
+  "source_id": 33172,
+  "date": "2010-04-15",
+  "title": "İcra Müd.'nden alınan kullanılmış minibüsün kdv oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33172",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "ca7ddffb5fc75163d5a0822edc0be5f231158226c44216eb0be7663398223d2c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
