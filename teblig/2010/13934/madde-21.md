@@ -1,0 +1,1 @@
+MADDE 21 – (1) Bu Tebliğ’in 5’inci maddesinin 5’inci sıra numarasında bulunan ürünler için belirlenen ihracat iadesi oranları 19’uncu fasılda yer alan hububat içeren sebze konserveleri için de uygulanır.

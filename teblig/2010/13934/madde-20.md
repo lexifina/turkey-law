@@ -1,0 +1,1 @@
+MADDE 20 – (1) Bu Tebliğ’in 5’inci maddesinin 3’üncü sıra numarasında bulunan ürünler için belirlenen ihracat iadesi oranları 9’uncu fasıldaki gıda maddesi olarak kullanılan kurutulmuş biberler için de uygulanır.

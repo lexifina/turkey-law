@@ -1,0 +1,1 @@
+MADDE 25 – (1) Bu Tebliğ’in uygulama usul ve esaslarının belirlenmesinde, bu çerçevede idari müeyyidelerin tespitinde ve ortaya çıkacak ihtilafların sonuçlandırılmasında Dış Ticaret Müsteşarlığı (İhracat Genel Müdürlüğü) yetkilidir.
