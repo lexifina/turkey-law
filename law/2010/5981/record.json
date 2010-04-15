@@ -1,0 +1,103 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5981",
+  "year": 2010,
+  "title": "Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2010-04-15",
+  "adopted_as_published": "15/04/2010",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.04.2010 No: 27561",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc094/kanuntbmmc094/kanuntbmmc09405981.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 94",
+  "committee_reports": [
+    {
+      "label": "TBMM 487 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c066/tbmm23066084ss0487.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 741000,
+      "title": "Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "15/04/2010",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc094/kanuntbmmc094/kanuntbmmc09405981.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 487 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c066/tbmm23066084ss0487.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 66,
+          "sitting": 84,
+          "sitting_date": "2010-04-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c066/tbmm23066084.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c066/tbmm23066fih.pdf",
+          "pages": [
+            "73:90",
+            "93:101"
+          ]
+        },
+        {
+          "cilt": 66,
+          "sitting": 85,
+          "sitting_date": "2010-04-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c066/tbmm23066085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c066/tbmm23066fih.pdf",
+          "pages": [
+            "245:261",
+            "261:265"
+          ]
+        },
+        {
+          "cilt": 66,
+          "sitting": 86,
+          "sitting_date": "2010-04-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c066/tbmm23066086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c066/tbmm23066fih.pdf",
+          "pages": [
+            "543:571",
+            "572:585",
+            "586:604",
+            "605:616"
+          ]
+        },
+        {
+          "cilt": 66,
+          "sitting": 87,
+          "sitting_date": "2010-04-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c066/tbmm23066087.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c066/tbmm23066fih.pdf",
+          "pages": [
+            "667:672",
+            "672:698",
+            "699:713",
+            "715:723",
+            "723",
+            "724:725"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=548&v_gelecek_sayfa=201&v_kullanici_id=27483202",
+      "page_sha256": "49eecd887f3141b32ad3086ae1167bf4c8016f4a09ec748496d4beadfea50db9"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "49eecd887f3141b32ad3086ae1167bf4c8016f4a09ec748496d4beadfea50db9",
+  "issuer": "TBMM",
+  "in_force": "2010-04-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 15/04/2010; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
