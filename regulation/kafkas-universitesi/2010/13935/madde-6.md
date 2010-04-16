@@ -1,0 +1,11 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez, bu Yönetmeliğin 5 inci maddesinde belirtilen amacını gerçekleştirmek için aşağıdaki alanlarda faaliyette bulunur:
+a) Disiplinler arası araştırma ve uygulama alanı olan engellilik konusunda, Üniversitenin ilgili akademik birimlerinin eğitim, öğretim, araştırma ve geliştirme faaliyetlerine katılımını sağlamak,
+b) Öncelikle Üniversitede öğrenim gören ve çalışan engelli bireyler olmak üzere toplumun tüm kesimlerindeki engelli bireylere yönelik araştırmalar ve uygulamalar yapmak, konuya ilişkin bilimsel veri tabanı oluşturmak ve ilgili resmi ve özel sektördeki kuruluşlarla konuyla ilgili bilimsel işbirliği çerçevesinde danışmanlık faaliyetlerini sürdürmek,
+c) Farklı disiplinlerden engellilik konusunda araştırmalar yapan bilim adamları ile uzmanları bir araya getirerek, ulusal ve/veya uluslararası araştırma/geliştirme projeleri oluşturmak ve yürütülmesini sağlamak,
+ç) Engellilik konusunda ulusal ve uluslararası katılımlı kongre, panel, sempozyum, konferans gibi bilimsel aktiviteler düzenlemek,
+d) Engelliler konusunda aydınlatıcı, bilimsel nitelikte bilgilerin sözlü ve/veya yazılı olarak kamuoyuna ulaştırılmasını sağlamak için gazete, dergi, bülten, belgesel film, radyo ve televizyon programları ve benzeri çalışmalar ve yayınlar yapmak,
+e) Birimler arası işbirliği yaparak konuyla ilgili toplumsal bilinci geliştirmek için engelli olan veya olmayan bireylere eğitim hizmetleri vermek,
+f) Engelliliğin önlenmesi ve sorunların azaltılması yönünde çalışmalar yapmak, engelli bireylerin etkin ve kaliteli rehabilitasyon hizmetlerinden faydalanmasını sağlamak ve engelli bireyler ile iletişimde bulunduğu diğer bireylerin yaşam kalitesini iyileştirici çalışmalar yapmak,
+g) Engelli bireyler için önerilen her türlü araştırma, tedavi, eğitim ve rehabilitasyon hizmetlerini sunabilecek birimleri kurmak, bu birimlerin faaliyetlerini sürdürebilecekleri her türlü arsa ve binaları temin etmek, kiralamak, tahsisleri kabul ederek gerekli imar ve inşa faaliyetlerinde bulunmak, bu birimleri yönetmek ve işletmek; engellilerin araştırma, tedavi, eğitim ve rehabilitasyonu için oluşturulan birimlerde yeterli sayıda uzman, teknik ve idari personel çalıştırmak, birimin çalışması için gerekli her türlü araç gereci temin etmek,
+ğ) Engelli bireylere yönelik meslek edindirme programları hazırlamak ve uygulamak.

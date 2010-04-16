@@ -1,0 +1,2 @@
+Çalışma birimleri
+MADDE 13 – (1) Çalışma birimleri; ilgili birimin sorumlusu ve o birimin faaliyet alanıyla ilgili olarak ihtiyaç duyulan sayıda uzmandan oluşur. Birim sorumluları, ilgili alanda çalışmalarıyla tanınan Merkezde görevli Üniversite öğretim üyeleri arasından Müdür tarafından görevlendirilir. Birimlerin faaliyet alanları ile ilgili ihtiyaç duyulan uzmanlar ise birim sorumluları tarafından belirlenir.
