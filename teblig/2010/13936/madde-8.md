@@ -1,0 +1,2 @@
+Çevrimiçi işlemler
+MADDE 8 – (1) Sistem ticaret sicili işlemlerinin çevrimiçi (online) olarak yapılabilmesine imkan vermekte olup, çevrimiçi işlemler güvenli elektronik imza yerine geçen nitelikli elektronik sertifika ile yapılacaktır. Sicil işlemlerinin tamamının çevrimiçi olarak yapılabilmesi kademeli olarak gerçekleştirilecek olup, buna ilişkin usul ve esaslar ayrı bir tebliğ ile düzenlenecektir.

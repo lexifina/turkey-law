@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, Yüksek Planlama Kurulu’nun 11/7/2006 tarihli ve 2006/38 sayılı kararı ile onaylanan “Bilgi Toplumu Strateji Belgesi ve Eylem Planı”nda yer alan 56 no’lu “Merkezi Tüzel Kişilik Bilgi Sisteminin Oluşturulması” ve 16 no’lu “Çevrimiçi Şirket İşlemleri” eylemleri kapsamında oluşturulan bilgi sistemi üzerinden Ticaret Sicili Memurluklarınca yapılan tescil, tadil ve terkin işlemlerine ilişkin kayıtların elektronik ortamda merkezi bir sistemde tutulmasına ve sicil işlemlerinin çevrimiçi (online) yapılmasına ilişkin uygulamanın belirlenmesidir.
