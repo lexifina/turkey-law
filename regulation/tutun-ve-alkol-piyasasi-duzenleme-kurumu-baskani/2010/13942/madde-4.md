@@ -1,0 +1,10 @@
+İKİNCİ BÖLÜM
+Tütün Ürünleri Tüketiminin Yasaklandığı Yerlerde
+Asılması Zorunlu Yasal Uyarıların Şekli ve İçeriğine İlişkin Esaslar
+Kamu hizmet binaları ve özel hukuk kişilerine ait yerlerde asılması zorunlu yasal uyarıların şekli ve içeriği
+MADDE 4 – (1)Tütün ürünleri tüketiminin yasaklandığı; kamu hizmet binalarının kapalı alanlarında, özel hukuk kişilerine ait olan ve birden çok kişinin girebileceği her türlü eğitim, sağlık, üretim, ticaret, sosyal, kültür, sanat, spor, eğlence hizmeti verilen yerler ile benzeri diğer kapalı alanlarda, özel eğitim ve öğretim kurumları dâhil olmak üzere okul öncesi eğitim kurumlarının, ilk ve orta öğrenim kurumlarının, dershanelerin, kültür ve sosyal hizmet binalarının kapalı ve açık alanlarında ve açık havada yapılan her türlü spor, kültür, sanat ve eğlence faaliyetlerinin icra edildiği yerler ile bunların seyir yerlerinde asılması zorunlu yasal uyarılar;
+a) Asgari eni elli boyu yetmiş santimetre boyutunda, beyaz zeminli, yasal uyarı yazısı sürekli ve kalıcı olmak kaydıyla kâğıt veya süreklilik arz eden uygun bir materyal üzerinde yer alır,
+b) Köşeleri oval kırmızı renkli çerçeve ile çerçevelenir,
+c) Baskı yapılan alanın üstte kalan yüzde otuzbeşlik kısmında yer alan, ucu sağ tarafa bakan ve yanmakta olan siyah sigara figürünün, ortasından soldan sağa doğru çapraz şekilde kırmızı bir çubuk geçen kırmızı renkli bir daire içerisinde kapalı bulunduğu grafikten oluşan uluslararası sigara içilmez sembolünü içerir,
+ç) En az on santimetre büyüklüğünde ve italik olmayan Haettenschweiler yazı karakteri kullanılarak kırmızı renkli büyük harflerle yan yana yazılmış “SİGARA İÇİLMEZ” ibaresi ile en az iki santimetre büyüklüğünde italik olmayan Helvetica Heavy yazı karakteri kullanılarak siyah renkli küçük harflerle yazılan “Burada tütün ürünleri tüketilmesi yasaktır. Tüketenlere ve tüketilmesine göz yuman sorumlulara 4207 sayılı Kanun uyarınca idari para cezası uygulanır.” ve “Şikâyet için:” ibarelerini içerir,
+d) Kamu hizmet binaları ve özel hukuk kişilerine ait yerlerde asılması zorunlu yasal uyarılar, ek-1’de yer alan örneğe uygun olarak düzenlenir.

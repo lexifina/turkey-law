@@ -1,0 +1,7 @@
+Toplu taşıma araçlarında asılması zorunlu yasal uyarıların şekli ve içeriği
+MADDE 5 – (1) Taksi hizmeti verenler dâhil olmak üzere karayolu, demiryolu, denizyolu, havayolu ve benzeri toplu taşıma araçlarında asılması zorunlu yasal uyarılar;
+a) Taksi hizmeti verenlerde asgari A6, diğer toplu taşım araçlarında asgari A5 boyutunda olmak üzere, aracın büyüklüğüne uygun ebatta, beyaz zeminli, yasal uyarı yazısı sürekli ve kalıcı olmak kaydıyla kâğıt veya süreklilik arz eden uygun bir materyal üzerinde yer alır,
+b) Köşeleri oval kırmızı renkli çerçeve ile çerçevelenir,
+c) Baskı yapılan alanın üstte kalan yüzde otuzbeşlik kısmında yer alan, ucu sağ tarafa bakan ve yanmakta olan siyah sigara figürünün, ortasından soldan sağa doğru çapraz şekilde kırmızı bir çubuk geçen kırmızı renkli bir daire içerisinde kapalı bulunduğu grafikten oluşan uluslararası sigara içilmez sembolünü içerir,
+ç) En az üç santimetre büyüklüğünde ve italik olmayan Haettenschweiler yazı karakteri kullanılarak kırmızı renkli büyük harflerle yan yana yazılmış “SİGARA İÇİLMEZ” ibaresi ile baskı yapılan materyalin boyutuna uygun puntoyla siyah renkli küçük harflerle yazılan “Burada tütün ürünleri tüketilmesi yasaktır. Tüketenlere ve tüketilmesine göz yuman sorumlulara 4207 sayılı Kanun uyarınca idari para cezası uygulanır.” ve “Şikâyet için:” ibarelerini içerir,
+d) Toplu taşıma araçlarında asılması zorunlu yasal uyarılar, ek-1’de yer alan örneğe uygun olarak düzenlenir.

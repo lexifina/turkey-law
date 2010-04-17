@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.13942",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜTÜN ÜRÜNLERİNİN TÜKETİLMEMESİNE VE SATIŞINA İLİŞKİN YASAL UYARILAR HAKKINDA YÖNETMELİK",
+  "number": "13942",
+  "issuer": "Tütün ve Alkol Piyasası Düzenleme Kurumu Başkanı",
+  "issuer_slug": "tutun-ve-alkol-piyasasi-duzenleme-kurumu-baskani",
+  "path": "regulation/tutun-ve-alkol-piyasasi-duzenleme-kurumu-baskani/2010/13942",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13942&MevzuatTertip=5",
+  "source_sha256": "9632c9870865bb32dc9541a667db37bd1afd694451597a423e44055d1d1e78eb",
+  "source_bytes": 64193,
+  "published": "2010-04-17",
+  "gazette": "27555",
+  "in_force": "2010-04-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.04.2010); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1744,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.13942%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
