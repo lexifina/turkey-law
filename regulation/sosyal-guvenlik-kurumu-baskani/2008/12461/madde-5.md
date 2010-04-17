@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Kamu İdarelerinin Denetim Elemanları Tarafından Yapılacak Tespitler
+Fiili tespit veya kayıt inceleme tutanağı
+MADDE 5 – (1) Kamu idarelerinin denetim elemanları, kendi mevzuatları gereğince işyerlerinde yapacakları her türlü soruşturma, denetim ve incelemeler sırasında, işyerlerinde (Değişik ibare:RG-17/4/2010-27555) çalıştırılanların Kanun gereği sigortalı olup olmadığını tespit ederek sigortasız çalıştırılanları ve Kanuna göre sigortalı sayılanların prime esas kazançlarının veya sigortalı gün sayılarının eksik bildirilmesine ilişkin tespitlerini en geç bir ay içinde Kuruma bildirirler.
+(2) Sigortalı olması gerekenlerin sigortasız çalıştırıldığının veya sigortalı olması gerekenlerin Kuruma bildirimi yapılmadığının ya da sigortalı gün sayılarının ve prime esas kazanç tutarlarının eksik bildirildiğinin tespit edilmesi durumunda, örneği Yönetmelik ekinde bulunan fiili tespit veya kayıt inceleme tutanağı düzenlenerek, bağlı bulunduğu birimin üst yazısı ekinde tespit yapılan işyerinin bulunduğu Kurumun ilgili ünitesine intikal ettirilir.

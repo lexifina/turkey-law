@@ -1,0 +1,2 @@
+İtiraz, itirazın incelenmesi, maddi hataların değerlendirilmesi ve dava açma
+MADDE 9 – (1) Tebliğ edilen prim borcuna itiraz edilmesi, itirazın incelenerek komisyonca karara bağlanması ve maddi hataların değerlendirilmesi ile itiraz sonucunda komisyonca alınan karara karşı dava açılması işlemleri, Sosyal Sigorta İşlemleri Yönetmeliğinin ilgili maddelerinde belirtilen usul ve esaslara göre yürütülür.

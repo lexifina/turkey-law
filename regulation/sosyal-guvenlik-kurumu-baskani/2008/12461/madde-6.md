@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Ünitece Yapılacak İşlemler
+Yapılacak işlemler
+MADDE 6 – (1) Kamu idarelerinin denetim elemanlarınca 5 inci maddede belirtilen tespitler dikkate alınarak, işyerinde fiilen veya kayden çalıştırıldığı tespit edilen sigortalılar ile sigortalı sayılanların prime esas kazançlarının veya sigortalı gün sayılarının eksik bildirilmesine ilişkin fiili tespit veya kayıt inceleme tutanağı, ilgili ünite tarafından Kurum mevzuatına uygun olarak işleme alınır. Fiili tespit veya kayıt inceleme tutanağında eksiklik olması halinde, eksikliklerin kamu idaresinin denetim elemanlarınca tamamlanması amacıyla, tutanak bir yazı ekinde ilgili kamu kurum ve kuruluşuna gönderilir.
+(2) İlgili kamu kurum ve kuruluşundan gelen yazıda belirtilen tespitler hakkında ayrıca denetim yapılmaksızın işlem yapılır.
+(3) Kamu idarelerinin denetim elemanlarınca yapılan soruşturma, denetim ve incelemelerden; kayıt ve belgelere dayanmaksızın çalıştığı belirlendiği halde, prime esas gün sayıları veya prime esas kazançları Kuruma bildirilmediği anlaşılan veya eksik bildirildiği tespit edilen sigortalıların geriye yönelik hizmetlerinin veya prime esas kazançlarının, en fazla tespitin yapıldığı tarihten geriye yönelik bir yıllık süreye ilişkin kısmı Kurumca yapılacak değerlendirmeden sonra dikkate alınır.

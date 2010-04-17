@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) (Değişik:RG-17/4/2010-27555) Bu Yönetmelik, kamu idarelerinin denetim elemanlarınca 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu yönünden sigortalı olması gerekenlerin sigortalı olup olmadıklarının ve Kanuna göre sigortalı sayılanların prime esas kazançlarının ve/veya sigortalı gün sayılarının eksik bildirilmesine ilişkin tespitlerin Kuruma bildirimlerini kapsar.
