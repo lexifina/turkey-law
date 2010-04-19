@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-04-19",
+      "19.04.2010",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27557",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2010-04-19",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2010/13938",
+  "published": "2010-04-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13938&MevzuatTertip=5",
+  "source_bytes": 22749,
+  "source_id": "8.5.13938",
+  "source_sha256": "dbe46409501a22c7e1360312438d99481107635de9da11d5fe01d16c43bc9c5b",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ SOSYAL SORUMLULUK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 971
+}
