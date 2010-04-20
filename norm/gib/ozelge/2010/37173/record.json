@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-EML:30.M-2010-41-289",
+  "source_id": 37173,
+  "date": "2010-04-20",
+  "title": "Üzerinde imar yasağı bulunan parseller için kısıtlı emlak vergisi uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37173",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "2288694ad729df059b987abccb2fd65a409ab4dffba4954805e834af0ec12f9f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
