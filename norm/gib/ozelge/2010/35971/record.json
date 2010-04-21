@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-003.01-38",
+  "source_id": 35971,
+  "date": "2010-04-21",
+  "title": "Kültür ve yardım vakfının 492 sayılı Harçlar Kanunun 59/b maddesine göre tapuda yapılacak işlemlerinin tapu harcı muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35971",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "d9b99872fc386ad02149cca9f56f04288c058366991bab24f2f90627ab55464a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
