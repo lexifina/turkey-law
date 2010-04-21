@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.10.15.01-KDV-2010/107-1256/-7",
+  "source_id": 27382,
+  "date": "2010-04-21",
+  "title": "Üyelerinizin ürettiği sebzelerin pazarlanmasına aracılık ederek ürünün satış bedeli üzerinden % 1 birlik payı aldığınız, üyelerinizden teslim alıp satışını yaptığınız sebzelerin alıcılara tesliminde düzenleyeceğiniz faturalarda KDV oranının ve alacağınız",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27382",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "84b0c5d12278d33513e9d559ee709bfb45a5e4d1e8caa1ee147c55439d4d4ea2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
