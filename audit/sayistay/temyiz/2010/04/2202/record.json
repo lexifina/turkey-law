@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "31386",
+  "decision_date": "2010-04-21",
+  "source_id": 2202,
+  "chamber": "5",
+  "file_number": "30371",
+  "account_year": "1997",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2202/",
+  "source_sha256": "7681fa1e1a2ae62b168ec00460d1c48b3b3561871f1cc43018c49f01f67919a3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
