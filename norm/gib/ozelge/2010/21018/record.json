@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-176200-9",
+  "source_id": 21018,
+  "date": "2010-04-21",
+  "title": "Evde gelin çiçeği yapıp satılması halinde buradan elde edilen kazancın gelir vergisine tabi olması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21018",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e9858c501286c534ddad3eb9164c41d3975a4254d76570e5dad8154daf77a846",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
