@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-006.01-45",
+  "source_id": 36954,
+  "date": "2010-04-21",
+  "title": "Hazineye ait olan ve üst hakkı tesis edilen arsa üzerinde yapılacak binaya ilişkin emlak vergisi mükellefiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36954",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "49900de9ed0c4d42eb6626ca5058f7a0daebbc70da7a0b297385d9f87ff4076f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
