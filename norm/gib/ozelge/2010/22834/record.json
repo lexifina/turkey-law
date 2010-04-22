@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-GVK-42-9-300",
+  "source_id": 22834,
+  "date": "2010-04-22",
+  "title": "Yıllara Sari İnşaat İşlerinde İşin Bitim Tarihi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22834",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c7395619d3090abfd3a8b35c37d23370018abe66a5e2b680d9170337ba3904cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
