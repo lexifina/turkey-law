@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+Alenilik ve Gizli Oturum
+Toplantının aleniyeti ve gizli oturum kararı
+MADDE 9 – (1) Sözlü savunma toplantıları açık olarak yapılır. Genel ahlakın ve ticari sırların korunması gerekçesi ile sözlü savunma toplantısının gizli olarak yapılmasına karar verilebilir.
+(2) Gizli oturum kararı Kurul tarafından resen alınabileceği gibi, tarafların yazılı olarak başvurmaları üzerine de alınabilir.
+(3) Taraflar, sözlü savunmalarının kısmen veya tamamen gizli oturumda yapılmasına ilişkin taleplerini en geç, ispat vasıtalarının sunulmasına ilişkin sürenin sonuna kadar Kurula yazılı olarak bildirebilirler. Bu süre geçirildikten sonra yapılan gizlilik talebi kabul edilmez.
+(4) Gizlilik talebinde bulunan taraflar, sözlü savunmalarında kullanacakları ispat vasıtalarının yanı sıra, yapacakları sunumun temel unsurlarını içeren bir taslağını, toplantıdan en geç yedi gün önce Kurula iletirler. Gizlilik niteliğine sahip dokümanlar, açık ve görülebilir bir şekilde “gizlidir” ya da “ticari sır içermektedir” ifadeleri ile işaretlenir ve bu dokümanların gizlilik içeren bir nüshasıyla birlikte, yalnızca gizlilik içeren kısımlarının çıkarılmış ya da kapatılmış olduğu, gizlilik içermeyen bir nüshası da Kurula sunulur.
+(5) Ticari sırların korunması gerekçesiyle gizlilik talebinde bulunan taraf, işaretlenen bütün bilgiler bakımından, bunların neden ticari sır olarak kabul edilmesi gerektiğini, söz konusu ticari sırların açıklanmasının kendisi bakımından nasıl bir zarara yol açacağını ve bunların korunması için sunumun hangi kısımlarının gizli yapılması gerektiğini gerekçeleriyle açıklamakla yükümlüdür.
+(6) Kurul, gizlilik talebini sözlü savunma toplantısından evvel değerlendirerek karara bağlar. Kurul, bu talebi kısmen ya da tamamen kabul ya da reddedebilir. Kurulun bu talebe ilişkin olarak aldığı kararın gerekçesi, nihai kararda yer alır.

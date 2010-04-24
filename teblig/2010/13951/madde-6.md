@@ -1,0 +1,4 @@
+Şikâyetçilerin, üçüncü kişilerin ve Bakanlığın katılımı
+MADDE 6 – (1) Şikâyetçiler, Kurul tarafından belirlenen sürede yazılı talepte bulunmaları halinde toplantıya katılabilir. Toplantıya katılmak isteyen üçüncü kişiler, aynı süre içinde, toplantı konusu ile ilgili menfaat ilişkilerini ortaya koyan bilgi ve belgeleri içeren bir dilekçe ile Kurula başvurabilir. Kurulun söz konusu başvurulara ilişkin kararı, ilgili kişilere toplantıdan önce bildirilir.
+(2) Kurul, soruşturma heyetinin talebi üzerine ya da kendiliğinden ilgili gördüğü veya kendisinden bilgi almaya ihtiyaç duyduğu diğer gerçek ve tüzel kişileri de görüşlerini sunmaları için toplantıya davet edebilir.
+(3) Bakanlığın talebi üzerine başlatılan soruşturmalarda, toplantıya katılım sağlanmasını teminen Bakanlığa da bildirim yapılır.
