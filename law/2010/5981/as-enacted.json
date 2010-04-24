@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5981",
+  "year": 2010,
+  "title": "Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-04-24",
+  "gazette_issue": "27561",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/04/20100424-1.htm",
+  "source_sha256": "7e70e58839c35d5a9f66ac18f59e631a5208360d20ed29a92a24c6adb570ff03",
+  "text_sha256": "0912de2407a38a2c8f608c2f83552a5c58c77544b4c64bfb7977b91a1d824fa8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/04/24/27561-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/04/20100424-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
