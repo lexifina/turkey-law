@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-04-24",
+  "issue": "27561",
+  "edition": "regular",
+  "item": 20,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 22/4/2010 Tarihli ve 2010/25 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/04/20100424-20.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/04/20100424.htm",
+  "index_sha256": "4eb6d0a68e82aab9d779b599bfd61f89fd596ddcd74c74ddec80f51ee1cd02d4",
+  "index_header": "24 Nisan 2010 ... 27561 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
