@@ -1,0 +1,117 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 741036,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "RECEP TAYYİP ERDOĞAN (İSTANBUL) (ADALET VE KALKINMA PARTİSİ GENEL BAŞKANI VE MECLİS GRUBU BAŞKANI)",
+  "summary": "Ve 264 Milletvekilinin, 7/11/1982 Tarihli ve 2709 Sayılı Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında (2/656) (S. Sayısı: 497)",
+  "title": "Ve 264 Milletvekilinin, 7/11/1982 Tarihli ve 2709 Sayılı Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında (2/656) (S. Sayısı: 497)",
+  "first_sitting_date": "2010-04-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 68,
+      "sitting": 94,
+      "sitting_date": "2010-04-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c068/tbmm23068094.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c068/tbmm23068fih.pdf",
+      "pages": [
+        "59:78",
+        "81:100",
+        "107:112",
+        "121:137",
+        "138:142",
+        "156:164",
+        "167:173",
+        "175:176",
+        "177:199",
+        "200:212"
+      ]
+    },
+    {
+      "cilt": 68,
+      "sitting": 95,
+      "sitting_date": "2010-04-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c068/tbmm23068095.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c068/tbmm23068fih.pdf",
+      "pages": [
+        "280:284",
+        "289:296",
+        "297:301",
+        "303:313",
+        "314:328",
+        "333:349",
+        "349:358",
+        "358:366",
+        "367:371",
+        "371:387",
+        "392:403",
+        "404:417",
+        "417:445"
+      ]
+    },
+    {
+      "cilt": 68,
+      "sitting": 96,
+      "sitting_date": "2010-04-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c068/tbmm23068096.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c068/tbmm23068fih.pdf",
+      "pages": [
+        "534:591",
+        "592:625",
+        "629:650",
+        "651:652"
+      ]
+    },
+    {
+      "cilt": 68,
+      "sitting": 97,
+      "sitting_date": "2010-04-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c068/tbmm23068097.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c068/tbmm23068fih.pdf",
+      "pages": [
+        "697:748",
+        "750:760",
+        "761:765",
+        "765:788",
+        "789:792",
+        "793:802",
+        "806:820",
+        "825:861",
+        "862:871"
+      ]
+    },
+    {
+      "cilt": 68,
+      "sitting": 99,
+      "sitting_date": "2010-05-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c068/tbmm23068099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c068/tbmm23068fih.pdf",
+      "pages": [
+        "1046:1049",
+        "1058:1091",
+        "1092:1102",
+        "1102:1119",
+        "1120:1126",
+        "1126:1136"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9778ad3e006ed014ada40672e8018c4ef424a514aeeae1bfe4415432bf50a80a",
+  "in_force": "2010-04-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
