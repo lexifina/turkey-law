@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-04-26",
+  "issue": "2010",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Zorunlu Karşılıklar Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ (Sayı: 2010/5)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/04/20100426-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/04/20100426.htm",
+  "index_sha256": "aaca4222f8fc56769eb54d3cdc6f3ddb4a3df640df8bcd74db3ad0398222f346",
+  "index_header": "26 Nisan 2010 ... Sayı: 2010",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
