@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2538",
+  "decision_date": "2010-04-26",
+  "title": "İletim Sistemi Sistem Kullanım ve Sistem İşletim Tarifelerini Hesaplama Yöntem Bildiriminin 2.15, 9.2 ve 9.3 maddelerinin değiştirilmesine İlişkin Karar",
+  "resmi_gazete_date": "2010-05-01",
+  "resmi_gazete_number": "27568",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vlyO65v6aC0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vlyO65v6aC0="
+  ],
+  "source_sha256": "15af0b3230a325b8239715a7b7d662da0916c63f41d65870064a64927e99ccbd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-04-26",
+  "law_text_complete": false
+}
