@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2536",
+  "decision_date": "2010-04-28",
+  "title": "Elektrik Piyasasında İletim ve Dağıtım Sistemlerine Bağlantı ve Sistem Kullanımı Hakkında Tebliğ’in Geçici 6 ncı maddesinde öngörülen metodoloji Kurulumuzca, “Geri Ödemeye Esas Gerçekleşen Yatırım Tutarı Tespit Metodolojisi” ile ilgili Kurul Kararı",
+  "categories": [
+    "Geri Ödemeye Esas Gerçeklesen Yatırım Tutarı Tespit Metodolojisine İlişkin Mülga Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZnhtSzOGvDs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZnhtSzOGvDs="
+  ],
+  "source_sha256": "77878549f9f2341b94bd927f037367f33b1538e2c77158b6c7b1b78f61faad71",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33873,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-04-28",
+  "law_text_complete": false
+}
