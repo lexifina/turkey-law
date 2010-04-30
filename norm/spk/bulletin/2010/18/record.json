@@ -1,0 +1,61 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2010/18",
+  "date": "2010-04-30",
+  "title": "SPK Haftalık Bülteni 2010/18",
+  "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_18.pdf",
+  "source_sha256": "4ccee5492c90e8c8940b2be11fa8b4058aeb06ef7969d239f7f9403745ca66d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. DUYURU",
+    "E. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 04.01.2010 – 30.04.2010 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_18.pdf"
+    },
+    {
+      "heading": "B. 26.04.2010 – 30.04.2010 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_18.pdf"
+    },
+    {
+      "heading": "C. 26.04.2010 – 30.04.2010 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_18.pdf"
+    },
+    {
+      "heading": "D. DUYURU",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_18.pdf"
+    },
+    {
+      "heading": "E. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_18.pdf"
+    },
+    {
+      "heading": "F. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_18.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
