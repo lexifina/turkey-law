@@ -1,0 +1,8 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Diyabet alanında ulusal ve uluslararası kuruluşlarla her türlü bilimsel işbirliği, araştırma ve faaliyeti yürütebilecek bir genel alan oluşturmak, üniversitede bu konuda çalışan tüm birimleri kapsayan çok disiplinli koordinasyon ve ortak çalışma disiplinini geliştirmek,
+b) Diyabet alanında ulusal ve uluslararası bilimsel araştırma projelerine devam etmek, yeni projeler üretmek, yürütmek, SCI (science citation index) kapsamında yer alan dergilerde bilimsel yayınlara dönüştürmek, çeşitli bilimsel toplantılar düzenlemek, diyabet konusunda klinik ve temel bilimler alanında diğer özel ve kamu kurum-kuruluşları ile Merkez Yönetim Kurulunun kararları doğrultusunda çalışmalar yapmak, çalışmalara katılmak,
+c) Deneysel ve klinik langerhans adacık izolasyonu, kültürü ve transplantasyonu ile ilgili çalışmalar yapmak ve bu programı yaşama geçirmek,
+ç) Diyabetin radikal tedavisi amacıyla kök hücre laboratuarı kurmak ve çalışmaları yürütmek,
+d) Çok disiplinli bir mükemmeliyet merkezi için uluslararası kuruluşlarca belirlenen gerekli fiziki ve teknik şartları tamamlamak ve diyabet alanında bu kuruluşların mükemmeliyet merkezleri arasında yer alması ve son teknolojik araç ve gerecin Merkeze kazandırılması için gerekli çalışmaları yapmak,
+e) Merkez bünyesinde diyabet alanında hizmet veren birimlere ve sağlık görevlilerine sürekli eğitim sağlamak, kurslar, paneller, seminerler düzenlemek ve verilme koşulları Merkezin teklifiyle Senato tarafından belirlenmek üzere katılım belgesi, başarı belgesi ve benzeri belgeler vermek, eğitime yönelik el kitapları hazırlamak.

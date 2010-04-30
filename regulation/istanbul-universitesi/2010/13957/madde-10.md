@@ -1,0 +1,2 @@
+Merkez yönetim kurulu
+MADDE 10 – (1) Merkez Yönetim Kurulu; Merkez Müdürü, iki müdür yardımcısı ile Üniversite öğretim üyeleri arasından altı üye olmak üzere Rektör tarafından görevlendirilen toplam dokuz kişiden oluşur. Merkez Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyenin kalan süresini tamamlamak üzere aynı usulle yeni üye görevlendirilir. Merkez Yönetim Kurulu, Merkez Müdürünün daveti üzerine en az ayda bir kez üyelerinin salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır.
