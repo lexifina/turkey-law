@@ -1,0 +1,73 @@
+Genelge No
+: 4
+Genelge Tarihi
+: 11/05/2010
+Yüksek Seçim Kurulunca verilen 01/05/2010 tarihli, 2010/305 sayılı karar örneği
+ilişikte gönderilmiştir.
+Bilgi edinilmesi ve gereği rica olunur.
+Ali EM
+Yüksek Seçim Kurulu Başkanı
+EK
+:
+- Karar Örneği (2 Sayfa)
+DAĞITIM:
+- İl Seçim Kurulu Başkanlıklarına
+- İlçe Seçim Kurulu Başkanlıklarına
+T.C.
+YÜKSEK SEÇİM KURULU
+Karar No: 305
+Başkanlık Makamınca Kurulumuza sunulan 01/05/2010 tarihli yazıda, aynen;
+“Kurulumuzun 07/06/2008 tarihli, 2008/197 sayılı kararıyla 2820 sayılı Siyasi Partiler
+Kanununun 21. maddesinde tanımlanan her türlü organ seçimleri ile kamu kurumu
+niteliğindeki meslek kuruluşları ve benzeri kuruluşların organ seçimlerinde sandık kurulu
+başkanlarına en çok ikişer üyelere birer gündelik ödeneceği belirlenmiştir.
+Kurulumuz Başkanlığına çeşitli il ve ilçe seçim kurulu başkanlıklarından gelen
+taleplerden;
+Seçmen sayısı 2000 den fazla olan ve özel kanunlarına göre oy pusulaları elle yazılan
+yada çarşaf liste kullanılan seçimlerde, sandık kurulunda görev yapan ve kurs verilen kamu
+görevlisi üyeye 2 (iki) gündelik ödenmesi istenilmektedir.
+Konu hakkında gerekli Kurul kararının alınmasını takdirlerinize arz ederim.”denilmiş
+olmakla, konu incelenerek;
+GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ:
+Seçimler, ilgili kuruluşların özel kanunlarında belirtilen hükümlere göre yapılmaktadır.
+Yargı gözetimi altında yapılan organ seçimlerinde özel kanunları gereği ilgili oda ve
+sendikalardan sandık kurullarına, kanunlarında belirtilen sayıda üye alınmaktadır.
+Seçimlerin özelliğine, adaylık durumlarına ve oy verme şekillerine göre özellikle sayım
+döküm işlemlerinde, sandık kurulunun seçimleri sağlıklı bir biçimde sonuçlandırmasını
+sağlamak üzere sandık kurulu başkanın uyum içinde ve güvenle çalışacağı kamu görevlileri
+görevlendirilmektedir.
+Sandık kurullarında üye olarak görevlendirilen kamu görevlileri, sandık kurulu
+başkanları ile aynı işi yapmalarına rağmen, kendilerine bir (1) gündelik ödendiğinden, bu
+görevden imtina etmektedirler.
+Bu nedenle; seçmen sayısı 2000’den fazla olan ve özel kanunlarına göre oy
+pusulaları elle yazılan yada çarşaf liste kullanılan seçimlerde, sandık kurulunda görev yapan
+ve kurs verilen kamu görevlisi üyeye 2 (iki) gündelik ödenmesine karar vermek gerekmiştir.
+S O N U Ç:
+Açıklanan nedenlerle;
+1- Seçmen sayısı 2000’den fazla olan ve özel kanunlarına göre oy pusulaları elle
+yazılan yada çarşaf liste kullanılan seçimlerde, sandık kurulunda görev yapan ve kurs verilen
+kamu görevlisi üyeye 2 (iki) gündelik ödenmesine,
+2- Karar örneğinin;
+a) Kurulumuz İdari ve Mali İşler Dairesi Başkanlığı ile tüm il ve ilçe seçim
+kurulu başkanlıklarına,
+b) Adalet Bakanlığı Teftiş Kurulu Başkanlığına,
+gönderilmesine,
+01/05/2010 tarihinde oybirliği ile karar verildi.
+Başkan
+Başkanvekili
+Üye
+Ali EM
+Kırdar ÖZSOYLU
+Mehmet KILIÇ
+Üye
+Üye
+Üye
+Hüseyin EKEN
+M.Zeki ÇELEBİOĞLU
+Muharrem COŞKUN
+Üye
+Üye
+Üye
+Turan KARAKAYA
+Mehmet KÜRTÜL
+Halim AŞANER

@@ -1,0 +1,32 @@
+{
+  "number": "4",
+  "date": "2010-05-01",
+  "source_id": 1752,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1752/2010-4.pdf",
+  "source_sha256": "40ffac9cd139ef631fefc97f0a11b1c17171a881107c08b3caf1d30db958dbd8",
+  "history": "as-enacted",
+  "words": 387,
+  "in_force_basis": "Official attached YSK decision, PDF p. 3, operative closing sentence: 01/05/2010 tarihinde oybirliği ile karar verildi",
+  "catalogue_date": "2010-05-11",
+  "source_images": 1,
+  "decorative_images": 1,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "decorative_image_hashes": [
+    "40af4c953116ef2731c4a318861f6177d26abe985f1d3e7c03f1e242d0d897c2"
+  ],
+  "attached_decision_numbers": [
+    "305"
+  ],
+  "adoption_dates": [
+    {
+      "page": 3,
+      "date": "2010-05-01",
+      "quote": "01/05/2010 tarihinde oybirliği ile karar verildi"
+    }
+  ],
+  "approval_dates": [],
+  "explicit_effective_dates": [],
+  "date_kind": "decision-adoption"
+}
