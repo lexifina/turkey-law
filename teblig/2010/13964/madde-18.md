@@ -1,0 +1,3 @@
+Dampingli ithalatın yerli üretici fiyatları üzerindeki etkisi
+Madde 18 – (1) Fiyat baskısı, ithal ürünün fiyatlarının yerli üreticinin olması gereken yurt içi satış fiyatlarının ne kadar altında kaldığını belirtmektedir. Hesaplamada, CIF ithal fiyatlarının üzerine gümrük vergisi ve diğer ithalat masrafları ilave edilerek bulunan soruşturma konusu ürünün pazara giriş fiyatları, şikâyetçi yerli üreticinin maliyetlerine makul bir kâr oranı ilave edilerek bulunan fiyatlar ile karşılaştırılmıştır.
+(2) Bu çerçevede hesaplanan fiyat baskısı S.Arabistan için %1,5, Kuveyt için %10,7 ve Bulgaristan için %13,9’dur.
