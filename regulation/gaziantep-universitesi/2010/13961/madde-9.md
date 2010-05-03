@@ -1,0 +1,3 @@
+Müdür yardımcısı
+MADDE 9 – (1) Müdür, gerekli gördüğü hallerde, Üniversitenin tam zamanlı ve kadrolu öğretim elemanları ya da idari personeli arasından iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektöre önerir. Müdür yardımcıları, Rektör tarafından en fazla üç yıl için görevlendirilir. Müdürün görev süresinin dolması veya her hangi bir şekilde görevinden ayrılması halinde, müdür yardımcılarının da görevi sona erer. Müdür, gerekli gördüğü hallerde müdür yardımcılarının görevine son verilmesini Rektöre önerir.
+(2) Müdür yardımcısı; Müdüre görevlerinde yardımcı olur, Müdürün bulunmadığı zamanlarda Müdürün görevlerini yerine getirir, Müdürün verdiği yetki çerçevesinde Merkezi yönetir, temsil eder ve Merkezle ilgili diğer işlemleri yapar.
