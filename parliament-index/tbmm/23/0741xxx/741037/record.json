@@ -1,0 +1,97 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 741037,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "RECEP TAYYİP ERDOĞAN (İSTANBUL) (ADALET VE KALKINMA PARTİSİ GENEL BAŞKANI VE MECLİS GRUBU BAŞKANI)",
+  "summary": "Ve 264 Milletvekilinin, 7/11/1982 Tarihli ve 2709 Sayılı Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında (2/656) (S. Sayısı: 497 ve 497ye 1inci Ek)",
+  "title": "Ve 264 Milletvekilinin, 7/11/1982 Tarihli ve 2709 Sayılı Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında (2/656) (S. Sayısı: 497 ve 497ye 1inci Ek)",
+  "first_sitting_date": "2010-05-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 69,
+      "sitting": 100,
+      "sitting_date": "2010-05-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c069/tbmm23069100.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c069/tbmm23069fih.pdf",
+      "pages": [
+        "28",
+        "34:38",
+        "42:58",
+        "59:61",
+        "61:82",
+        "82:109",
+        "110:121"
+      ]
+    },
+    {
+      "cilt": 69,
+      "sitting": 101,
+      "sitting_date": "2010-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c069/tbmm23069101.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c069/tbmm23069fih.pdf",
+      "pages": [
+        "168:224",
+        "225:230"
+      ]
+    },
+    {
+      "cilt": 69,
+      "sitting": 102,
+      "sitting_date": "2010-05-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c069/tbmm23069102.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c069/tbmm23069fih.pdf",
+      "pages": [
+        "268:279",
+        "284:286",
+        "288:310",
+        "311:319",
+        "324",
+        "325:331",
+        "332:338",
+        "340:349",
+        "352:358",
+        "365:367",
+        "370",
+        "378:397",
+        "399:411",
+        "411:418"
+      ]
+    },
+    {
+      "cilt": 69,
+      "sitting": 103,
+      "sitting_date": "2010-05-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c069/tbmm23069103.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c069/tbmm23069fih.pdf",
+      "pages": [
+        "495:510",
+        "515:516",
+        "516:521",
+        "521:536",
+        "541:549",
+        "551:558",
+        "559:574",
+        "577:614",
+        "617:625"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9778ad3e006ed014ada40672e8018c4ef424a514aeeae1bfe4415432bf50a80a",
+  "in_force": "2010-05-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
