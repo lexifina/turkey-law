@@ -1,0 +1,24 @@
+{
+  "number": "meeting-05-03-7",
+  "number_as_published": "meeting-05-03-7",
+  "year": 2010,
+  "title": "GAZİEMİR BELEDİYE MECLİSİ 03.05.2010 KARAR . BULGARİSTAN LOZNİSTA GEZİSİ",
+  "decision_date": "2010-05-03",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=76",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/4140a2784383189547449d9080de6b1941759d11cfaccdd5a2b4d32e4eb166af.doc",
+  "source_sha256": "2613f689337d60a1110f7e2b6bbbb9d984040d343e66cf44c902890f65234ce6",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2010-05-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.05.2010; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "GAZİEMİR BELEDİYE MECLİSİ 03.05.2010 KARAR . BULGARİSTAN LOZNİSTA GEZİSİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "28.05.2010"
+}
