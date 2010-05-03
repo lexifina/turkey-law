@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-05-03",
+  "issue": "27570",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2010/278 Bazı Anlaşmaların Yürürlük Tarihlerinin Tespit Edilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/05/20100503-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/05/20100503.htm",
+  "index_sha256": "e5f8e9ea5af6c3f92b6a12e3ea5daa48e1b100606e1c0b05232433c90a5b7f20",
+  "index_header": "3 Mayıs 2010 ... 27570 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "c5f97a7d8aaef26136d651cd9da198a09507b53ceba2f29361bd32e03cd29b42",
+  "text_status": "text.txt as published"
+}
