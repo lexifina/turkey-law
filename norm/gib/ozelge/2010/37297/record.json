@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-007.01-69",
+  "source_id": 37297,
+  "date": "2010-05-04",
+  "title": "Çevre temizlik vergisinin kiracı tarafından ödenip ödenmiyeceği ve çevre temizlik ile emlak vergisinin zamanaşım süreleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37297",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "99601751188b8bdeb7f264282b97377f3a582ad62e3e790a7f9b0989c7a3d954",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
