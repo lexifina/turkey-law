@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-004.01-68",
+  "source_id": 36525,
+  "date": "2010-05-04",
+  "title": "Mahkeme kararıyla zapt edildikten sonra müsaderesine karar verilmeyerek mahkeme kararıyla taşıt sahibine iade edilen taşıttan dolayı zapt tarihi ile teslim edildiği tarihler arasında söz konusu taşıta ilişkin motorlu taşıtlar vergilerinin kimin adına taha",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36525",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "42e64c355afcd763b56ab29d3c8068e73d696a4b8a1a1cdce6b20fd54f73a506",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
