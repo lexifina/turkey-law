@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.42.16.02-KDV-2-197-7",
+  "source_id": 33167,
+  "date": "2010-05-05",
+  "title": "Tarım makineleri kesim aksam ve parçalarından olan zıpka, mastar ve çakılı mastarın (bıçaklı mastar) ithal veya tesliminin, 30/3/2009 tarihinden önce genel oranda (%18), 30/3/2009 tarihinden sonra (bu tarih dahil) indirimli oranda (%8) KDV ye tabi olduğu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33167",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "04764e80df933b3bbd8c598e8b94ef49d26a6b04967a0a83177cf5dd768a833a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
