@@ -1,0 +1,2 @@
+Meslek içi eğitimin belgelendirilmesi
+MADDE 7 – (1) Oda tarafından belirlenen uzmanlık alanlarına göre lisans eğitimi dikkate alınarak hazırlanan eğitim programları sonucunda gerçekleştirilecek sınavlarda başarılı olan üyelerle, OYK tarafından meslekî birikim ve deneyimine göre yeterliliği saptanan üyelere, meslek içi eğitim belgesi verilir. Bu belge, fizik, nükleer enerji ve matematik mühendisliği uzmanlık alanlarında hizmet alacak kişi ve girişimciler için referans niteliği taşır.

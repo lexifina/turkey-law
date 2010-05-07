@@ -1,0 +1,2 @@
+Fizik, nükleer enerji ve matematik mühendisliği uzmanlık alanları
+MADDE 6 – (1) Fizik, nükleer enerji ve matematik mühendislerinin, planlamaya, tasarlamaya, uygulamaya, kabule ve imzaya yetkili ve sorumlu olduğu uzmanlık alanları, 21/6/2007 tarihli ve 26559 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Fizik Mühendisleri Odası Serbest Müşavirlik ve Mühendislik Hizmetleri Uygulama, Büro Tescil ve Mesleki Denetim Yönetmeliğinin 6 ncı maddesinde belirtilen ihtisas konularından oluşur.
