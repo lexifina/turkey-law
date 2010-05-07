@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-05-07",
+  "issue": "27574",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Gıda Kodeksi Mikrobiyolojik Kriterler Tebliğinde Değişiklik Yapılması Hakkında Tebliğ (No: 2010/16)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/05/20100507-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/05/20100507.htm",
+  "index_sha256": "752c8cda3af38479fd8d115c947a321d9193d90f5c33c9b87990276244e0ad21",
+  "index_header": "7 Mayıs 2010 ... 27574 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
