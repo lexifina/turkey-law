@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-25",
+  "source_id": 37169,
+  "date": "2010-05-10",
+  "title": "Baraj çevre düzeni koruma planına göre mutlak koruma altına alınarak kısıtlı duruma düşen arsalar için ilgili belediyece kısıtlılık hükümleri uygulanmayarak arsaların tamamı üzerinden emlak vergisi alınması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37169",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "2a34e4ddad78330e9912fea0e0669529d59aa16decbbacf03006e2f032d5c9db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
