@@ -1,0 +1,24 @@
+{
+  "number": "237",
+  "number_as_published": "Karar No : 237",
+  "year": 2010,
+  "title": "Kocasinan Belediye Meclisinin, 06.05.2010 tarih, 109 ve 110 sayılı kararlarının incelenmesi talebi.",
+  "decision_date": "2010-05-10",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/10-mayis-2010-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "dddf210df2994ab2081eee8737233294c404b31a5cb73179dfc709da5db96b0b",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2010-05-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.05.2010 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "10 Mayıs 2010 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=17",
+  "subject_published": true
+}
