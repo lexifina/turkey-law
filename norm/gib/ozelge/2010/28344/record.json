@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.22.15.01-2010-KVK:2-2-3",
+  "source_id": 28344,
+  "date": "2010-05-11",
+  "title": "Üniversite ve dernek arasında yapılan protokol çerçevesinde inşaa edilecek fakülte için yapılacak bağış ve yardımların indirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28344",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "c5624323d70c965141652aa06856f66ddd6aa6bbaba06a0831312a22084bb4fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
