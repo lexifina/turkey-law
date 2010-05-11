@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2557/12",
+  "decision_date": "2010-05-11",
+  "title": "Elektrik Piyasası Lisans Yönetmeliğinin 10 uncu maddesinin üçüncü fıkrasının (c) bendi hükümleri çerçevesinde, ilgili tüzel kişilerden alınacak teminat tutarı hakkında",
+  "categories": [
+    "Asgari sermaye ve teminat"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=P1VCWGjebT8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=P1VCWGjebT8="
+  ],
+  "source_sha256": "fb855abdd8681bb3ea64cbf97056a4203adb2a240413919c393169e995d26f59",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33884,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-05-11",
+  "law_text_complete": false
+}
