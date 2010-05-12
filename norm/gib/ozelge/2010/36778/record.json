@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-2010/BSMV/28-02/-359",
+  "source_id": 36778,
+  "date": "2010-05-12",
+  "title": "2010/5 sayılı BKK kapsamında verilen kredilerde BSMV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36778",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "5b2319354af5de8d29cb17346ec4789b4174e59fb177de793cbdb23b02d7d138",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
