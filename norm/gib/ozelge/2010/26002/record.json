@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.46.15.01-B.07.1.GİB.4.46.15.0-2",
+  "source_id": 26002,
+  "date": "2010-05-12",
+  "title": "Özel Eğitim Kurumlarında verilen hizmet bedelinin kredi kartı ile taksitle alınması halinde KDV nin, aylık taksit miktarının kurumun banka hesabına geçtiği tarihte değil de, bir vergilendirme döneminden fazla devam eden hizmetler için takvim yılının her a",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/26002",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "0b7fc2ab9c260e42f24edefe19c4b40e657d8e96b2d34d1c92dffa8cb1e766a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
