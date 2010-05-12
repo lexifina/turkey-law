@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-05-12",
+  "issue": "27579",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "GENELGE",
+  "title": "İhracata Dönük Üretim Stratejisi Değerlendirme Kurulu ile İlgili 2010/12 Sayılı Başbakanlık Genelgesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/05/20100512-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/05/20100512.htm",
+  "index_sha256": "223719973c45d295ed79cda7c0dd2a50fba494ac05229edae2b77d43a73ff599",
+  "index_header": "12 Mayıs 2010 ... 27579 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
