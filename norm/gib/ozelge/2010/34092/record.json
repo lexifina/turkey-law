@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-ÖTV:2009-13-01-356",
+  "source_id": 34092,
+  "date": "2010-05-12",
+  "title": "Yakıt olarak motorin yerine madeni yağ kullanılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34092",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "3d53496cc5a6340a3cf1b7f3ebfa6bcdd440bfff641c25b948d4e0fa7803d567",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
