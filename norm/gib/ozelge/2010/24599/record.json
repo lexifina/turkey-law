@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-176200-27",
+  "source_id": 24599,
+  "date": "2010-05-12",
+  "title": "Serbest bölgede faaliyette bulunan üretim işletmelerinde çalışan hizmet erbaplarının gelir vergisi stopaj teşvikinden yararlanabilmelerinin, 42 Sen No lu Sm, Smmm ve Ymm Kanunu Genel Tebliği uyarınca, yeminli malı müşavir tasdik raporuna bağlandığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24599",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "a0e3fe81887329ef75140579b3f8964677da76c70cdb78e4435750d132cfeee1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
