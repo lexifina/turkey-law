@@ -1,3 +1,1 @@
-Geçici Madde 15 – 12 Eylül 1980 tarihinden, ilk genel seçimler sonucu toplanacak Türkiye Büyük Millet Meclisinin Başkanlık Divanını oluşturuncaya kadar geçecek süre içinde, yasama ve yürütme yetkilerini Türk milleti adına kullanan, 2356 sayılı Kanunla kurulu Millî Güvenlik Konseyinin, bu Konseyin yönetimi döneminde kurulmuş hükümetlerin, 2485 sayılı Kurucu Meclis Hakkında Kanunla görev ifa eden Danışma Meclisinin her türlü karar ve tasarruflarından dolayı haklarında cezaî, malî veya hukukî sorumluluk iddiası ileri sürülemez ve bu maksatla herhangi bir yargı merciine başvurulamaz.
-Bu karar ve tasarrufların idarece veya yetkili kılınmış organ, merci ve görevlilerce uygulanmasından dolayı, karar alanlar, tasarrufta bulunanlar ve uygulayanlar hakkında da yukarıdaki fıkra hükümleri uygulanır.
-(Mülga son fıkra: 3/10/2001-4709/34 md.)
+Geçici Madde 15 – (Mülga: 7/5/2010-5982/24 md.)

@@ -3,4 +3,4 @@ Madde 157 – Askeri Yüksek İdare Mahkemesi, askeri olmayan makamlarca tesis e
 Askeri Yüksek İdare Mahkemesinin askeri hakim sınıfından olan üyeleri, mahkemenin bu sınıftan olan başkan ve üyeleri tamsayısının salt çoğunluğu ve gizli oy ile birinci sınıf askeri hakimler arasından her boş yer için gösterilecek üç aday içinden; hakim sınıfından olmayan üyeleri, rütbe ve nitelikleri kanunda gösterilen subaylar arasından, Genelkurmay Başkanlığınca her boş yer için gösterilecek üç aday içinden Cumhurbaşkanınca seçilir.
 Askeri hakim sınıfından olmayan üyelerin görev süresi en fazla dört yıldır.
 Mahkemenin Başkanı, Başsavcı ve daire başkanları hakim sınıfından olanlar arasından rütbe ve kıdem sırasına göre atanırlar.
-Askerî Yüksek İdare Mahkemesinin kuruluşu, işleyişi, yargılama usulleri, mensuplarının disiplin ve özlük işleri, mahkemelerin bağımsızlığı, hâkimlik teminatı ve askerlik hizmetlerinin gereklerine göre kanunla düzenlenir.
+(Değişik son fıkra: 7/5/2010-5982/21 md.) Askerî Yüksek İdare Mahkemesinin kuruluşu, işleyişi, yargılama usulleri, mensuplarının disiplin ve özlük işleri mahkemelerin bağımsızlığı ve hâkimlik teminatı esaslarına göre kanunla düzenlenir.

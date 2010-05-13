@@ -1,2 +1,3 @@
-G. Hâkim ve savcıların denetimi
-Madde 144 – Hâkim ve savcıların görevlerini; kanun, tüzük, yönetmeliklere ve genelgelere (Hâkimler için idarî nitelikteki genelgelere) uygun olarak yapıp yapmadıklarını denetleme; görevlerinden dolayı veya görevleri sırasında suç işleyip işlemediklerini, hal ve eylemlerinin sıfat ve görevleri icaplarına uyup uymadığını araştırma ve gerektiğinde haklarında inceleme ve soruşturma, Adalet Bakanlığının izni ile adalet müfettişleri tarafından yapılır. Adalet Bakanı soruşturma ve inceleme işlemlerini, hakkında soruşturma ve inceleme yapılacak olandan daha kıdemli hâkim veya savcı eliyle de yaptırabilir.
+G. Adalet hizmetlerinin denetimi (1)
+Madde 144 – (Değişik: 7/5/2010-5982/14 md.)
+Adalet hizmetleri ile savcıların idarî görevleri yönünden Adalet Bakanlığınca denetimi, adalet müfettişleri ile hâkim ve savcı mesleğinden olan iç denetçiler; araştırma, inceleme ve soruşturma işlemleri ise adalet müfettişleri eliyle yapılır. Buna ilişkin usul ve esaslar kanunla düzenlenir.
