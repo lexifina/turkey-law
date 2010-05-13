@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5982",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-05-13",
+  "gazette_issue": "27580",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/05/20100513-1.htm",
+  "source_sha256": "e60374d31bbe91ed3f3d6bd4d5b42f0f653b8510dd339a7bcae573820935b500",
+  "text_sha256": "e421bcbcec971a16f0edffbea8cacdbf353b8c1bd09420787e3b05d24f43f349",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/05/13/27580-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/05/20100513-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
