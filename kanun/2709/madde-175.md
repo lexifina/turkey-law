@@ -71,3 +71,5 @@ Madde 2 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna sunulma
 Madde 7 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna sunulması halinde tümüyle oylanır.
 12- 9/2/2008 tarihli ve 5735 sayılı Kanunun 3 üncü Maddesi:
 Madde 3 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna sunulması halinde tümüyle oylanır.
+13- 7/5/2010 tarihli ve 5982 sayılı Kanunun 26 ncı Maddesi:
+Madde 26 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoyuna sunulması halinde tümüyle oylanır.

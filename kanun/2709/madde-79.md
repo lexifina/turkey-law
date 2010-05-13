@@ -1,4 +1,4 @@
-E. Seçimlerin genel yönetim ve denetimi (1)
+E. Seçimlerin genel yönetim ve denetimi (2)
 Madde 79 – Seçimler, yargı organlarının genel yönetim ve denetimi altında yapılır.
 Seçimlerin başlamasından bitimine kadar, seçimin düzen içinde yönetimi ve dürüstlüğü ile ilgili bütün işlemleri yapma ve yaptırma, seçim süresince ve seçimden sonra seçim konularıyla ilgili bütün yolsuzlukları, şikâyet ve itirazları inceleme ve kesin karara bağlama ve Türkiye Büyük Millet Meclisi üyelerinin seçim tutanaklarını ve Cumhurbaşkanlığı seçimi tutanaklarını kabul etme görevi Yüksek Seçim Kurulunundur. Yüksek Seçim Kurulunun kararları aleyhine başka bir mercie başvurulamaz.
 Yüksek Seçim Kurulunun ve diğer seçim kurallarının görev ve yetkileri kanunla düzenlenir.
