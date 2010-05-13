@@ -2,6 +2,8 @@ C. Suç ve cezalara ilişkin esaslar
 Madde 38 – Kimse, işlendiği zaman yürürlükte bulunan kanunun suç saymadığı bir fiilden dolayı cezalandırılamaz;
 kimseye suçu işlediği zaman kanunda o suç için konulmuş olan cezadan daha ağır bir ceza verilemez.
 Suç ve ceza zamanaşımı ile ceza mahkûmiyetinin sonuçları konusunda da yukarıdaki fıkra uygulanır.
+––––––––––––––––
+(1) 3/10/2001 tarihli ve 4709 sayılı Kanunun 14 üncü maddesiyle, bu fıkraya "savunma" ibaresinden sonra gelmek üzere "ile adil yargılanma" ibaresi eklenmiş ve metne işlenmiştir.
 Ceza ve ceza yerine geçen güvenlik tedbirleri ancak kanunla konulur.
 Suçluluğu hükmen sabit oluncaya kadar, kimse suçlu sayılamaz.
 Hiç kimse kendisini ve kanunda gösterilen yakınlarını suçlayan bir beyanda bulunmaya veya bu yolda delil göstermeye zorlanamaz.
