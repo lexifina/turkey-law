@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.02-5811-23",
+  "source_id": 24255,
+  "date": "2010-05-13",
+  "title": "Sermayeye ilave işleminin nasıl yapılması gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/459/ozelge/24255",
+  "related_law": "5811 sayılı BAZI VARLIKLARIN MİLLİ EKONOMİYE KAZANDIRILMASI HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c81fb35b167b2a243fc47d85cc2b25022d4a8fdbb9d853ca10f3ecf4bb618c67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
