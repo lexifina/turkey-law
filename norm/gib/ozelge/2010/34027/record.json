@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-ÖTV-2010-7-14/-365",
+  "source_id": 34027,
+  "date": "2010-05-14",
+  "title": "Ayıplı mal kapsamında satıcı firmaya iade edilen aracın yerine ÖTV Kanununun 7/2-a maddesi kapsamında yeni bir araç alınması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34027",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "bcb76c6cf52427e46242b7e77461f44cd1e1be2b25bb4c57658740d18d594e9e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
