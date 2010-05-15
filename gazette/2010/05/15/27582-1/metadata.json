@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-05-15",
+  "issue": "27582",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2010/382 Türkiye Cumhuriyeti Hükümeti ile Slovak Cumhuriyete Hükümeti Arasında İmzalanan \"Askeri Mezarlık Anlaşması\"nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/05/20100515-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/05/20100515.htm",
+  "index_sha256": "25780cda12423d7f68a1b3b93bb65afe2ea2b0489201e930fdbf5a9150d44821",
+  "index_header": "15 Mayıs 2010 ... 27582 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
