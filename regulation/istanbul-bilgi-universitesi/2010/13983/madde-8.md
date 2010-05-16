@@ -1,0 +1,13 @@
+Müdür ve görevleri
+MADDE 8 – (1) Müdür, Üniversitenin kadrolu öğretim üyeleri arasından Rektörün önerisi üzerine, Mütevelli Heyet tarafından üç yıl süreyle atanır. Müdür, aynı usulle görevden alınabilir. Müdürün herhangi bir nedenle görevinden ayrılması halinde, altı ay içinde yeni bir Müdür atanır. Rektör, Müdürlük görevini yeni Müdür görevlendirilinceye kadar kendisi yürütebilir veya görevi vekaleten yürütmek üzere Üniversitenin kadrolu öğretim üyeleri arasından bir vekil görevlendirir.
+(2) Müdür, Rektöre bilgi vererek, çalışmalarında kendisine yardımcı olmak üzere Enstitüde görevli Üniversitenin kadrolu öğretim elemanları arasından bir kişiyi Müdür Yardımcısı olarak en fazla üç yıl için atayabilir. Müdürün görev süresinin dolması veya görevinden ayrılması halinde, Müdür Yardımcısının da görevi sona erer. Müdür, gerekli gördüğü hallerde ve Rektöre bilgi vererek müdür yardımcısını görevden alabilir veya iş yükünü dikkate alarak iki müdür yardımcısının görevlendirilmesine karar verebilir.
+(3) Müdüre, görevi başında olmadığı hallerde, Müdürün belirlediği yardımcısı vekalet eder. Göreve vekalet altı aydan fazla sürerse yeni Müdür atanır.
+(4) Müdür, Enstitünün araştırma ve öğretim kapasitesinin rasyonel şekilde kullanılmasında ve geliştirilmesinde; Enstitüde Üniversitenin hedef ve amaçları doğrultusunda ve ilgili mevzuata göre eğitim ve öğretim yapılmasında; eğitim-öğretim, bilimsel araştırma ve yayın faaliyetlerinin düzenli bir şekilde yürütülmesinde; Enstitü birim ve çalışanları arasında koordinasyon sağlanmasında ve diğer ilgili mevzuat uyarınca verilen görevlerin yerine getirilmesinde Rektöre karşı birinci derecede sorumludur.
+(5) Müdürün görevleri şunlardır:
+a) Enstitü Kuruluna ve Enstitü Yönetim Kuruluna başkanlık etmek, bu kurullar tarafından alınan kararları uygulamak ve Enstitü birimleri arasında düzenli çalışmayı sağlamak,
+b) Üniversitenin yetkili organları tarafından alınan kararların Enstitü bünyesinde uygulanmasını sağlamak,
+c) Rektörlük tarafından talep edildiğinde veya kendisinin uygun gördüğü hallerde, Enstitünün genel durumu, işleyişi ve ihtiyaçları hakkında Rektöre rapor vermek,
+ç) Enstitünün ödenek ve kadro ihtiyaçlarını belirlemek, Enstitü bütçesi ile ilgili öneriyi Enstitü Yönetim Kurulunun da görüşünü aldıktan sonra Rektörlüğe sunmak,
+d) Enstitünün birimleri ve Enstitüde görevli her düzeydeki personel üzerinde genel gözetim ve denetim görevini yapmak,
+e) Enstitünün eğitim programlarını hazırlatarak Akademik Kurulda görüşülmek üzere Rektörlüğe sunmak,
+f) İlgili mevzuatla ve Üniversitenin yetkili organlarınca verilen diğer görevleri yapmak.

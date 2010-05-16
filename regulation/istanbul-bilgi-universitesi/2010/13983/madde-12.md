@@ -1,0 +1,2 @@
+Lisansüstü eğitim ve öğretim
+MADDE 12 – (1) Enstitü, lisansüstü eğitim ve öğretim programları açabilir. Enstitünün lisansüstü eğitim ve öğretimi, 1/7/1996 tarihli ve 22683 sayılı Resmî Gazete’de yayımlanan Lisansüstü Eğitim ve Öğretim Yönetmeliği ile 13/5/2003 tarihli ve 25107 sayılı Resmî Gazete’de yayımlanan İstanbul Bilgi Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği hükümlerine göre yürütülür.
