@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "Motorlu Taşıtlar Vergisi Kanunu-4/2010-2",
+  "source_id": 1050,
+  "date": "2010-05-17",
+  "title": "Malul ve Engellilere Ait Taşıtlarda Motorlu Taşıtlar Vergisi İstisnası Uygulamasına İlişkin Açıklamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/sirkuler/1050",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "b25bce02efc92ced8a19e5d392aab88ea99d44ce56c6cfac90d645af470ff252",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
