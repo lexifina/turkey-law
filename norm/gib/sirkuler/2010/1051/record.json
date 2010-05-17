@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "Motorlu Taşıtlar Vergisi Kanunu-3/2010-1",
+  "source_id": 1051,
+  "date": "2010-05-17",
+  "title": "Tescil edilmiş taşıtların satış ve devirleri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/sirkuler/1051",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "d30760617d3d6422a19eaa8000736e3f44a1e694866e58d190e12c1e54cc4e0a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
