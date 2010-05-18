@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "31450",
+  "decision_date": "2010-05-18",
+  "source_id": 2205,
+  "chamber": "7",
+  "file_number": "30582",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2205/",
+  "source_sha256": "8db22adb0516e3c4162cbd37ef12d5d58261e91dd3f14aa39294b8874835d1fb",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
