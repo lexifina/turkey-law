@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.05.10.00-2010/5084-3",
+  "source_id": 37616,
+  "date": "2010-05-18",
+  "title": "İşverene sağlanan gelir vergisi stopajı teşvikinin gelir olarak dikkate alınarak geçici vergi ve yıllık gelir vergisi beyannamelerine dahil edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/514/ozelge/37616",
+  "related_law": "5615 sayılı GELİR VERGİSİ KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "c0c3b2c971f5da12265bdf7997949902f551974dff32e7e895fbf0a4f609bae5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
