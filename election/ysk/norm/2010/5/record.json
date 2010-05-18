@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2010/5",
+  "list_number": "-",
+  "genelge_number": "5",
+  "decision_date": "2010-05-18",
+  "title": "Anayasa değişikliklerinin halkoyuna sunulmasına ilişkin 12 Eylül 2010 Pazar günü yapılacak Halkoylaması ile ilgili hazırlık genelgesi",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1754/2010-5.pdf",
+  "source_sha256": "0c8ec56567c44e652cf9c6f1639ac858b3ccbb894d60d6e20ada559091981d3f",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-05-18",
+  "law_text_complete": false
+}
