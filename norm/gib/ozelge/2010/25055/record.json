@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-DMG-1326-371",
+  "source_id": 25055,
+  "date": "2010-05-18",
+  "title": "Damga vergisine tabi sözleşmenin zaman aşımı süresi dolduktan sonra hükmünden yeniden faydalanılması nedeniyle damga vergisine tabi tutulup tutulmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/25055",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "0ee5e958720f68fb1a6874dc2cc6e20f4ff4d1aad529d299628976ebf691d927",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
