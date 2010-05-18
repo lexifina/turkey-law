@@ -1,2 +1,1 @@
-MADDE 8 — 19.4.1990 tarihli ve 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanununun 9 uncu maddesine aşağıdaki fıkra eklenmiştir.
-Ancak, Kamu Görevlileri Etik Kurulu mal bildirimlerini gerektiğinde inceleme yetkisine sahiptir. Mal bildirimlerindeki bilgilerin doğruluğunun kontrolü amacıyla ilgili kişi ve kuruluşlar (bankalar ve özel finans kurumları dahil) talep edilen bilgileri en geç otuz gün içinde Kurula vermekle yükümlüdürler.
+Madde 8- (19.4.1990 tarihli ve 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu ile ilgili olup yerine işlenmiştir.)
