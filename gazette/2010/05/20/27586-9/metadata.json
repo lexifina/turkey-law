@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-05-20",
+  "issue": "27586",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "HÂKİMLER VE SAVCILAR YÜKSEK KURULU KARARI",
+  "title": "Hâkimler ve Savcılar Yüksek Kuruluna Ait Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/05/20100520-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/05/20100520.htm",
+  "index_sha256": "24106a5c6b1bdb1096afc8da1b93e20b2c732b8281e05478f379a2f0146ed8b3",
+  "index_header": "20 Mayıs 2010 ... 27586 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
