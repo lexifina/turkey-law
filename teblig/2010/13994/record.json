@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.13994",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ KİMLİK NUMARASI GENEL TEBLİĞİ (SERİ NO: 4)",
+  "number": "13994",
+  "path": "teblig/2010/13994",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13994&MevzuatTertip=5",
+  "source_sha256": "2c4cc710a7c83c134bad420529161a0c2492581a675deeb38aea4d24bebefce1",
+  "source_bytes": 32858,
+  "published": "2010-05-22",
+  "gazette": "27588",
+  "in_force": "2010-05-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.05.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2127,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
