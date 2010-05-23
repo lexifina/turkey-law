@@ -1,0 +1,3 @@
+Merkez danışma kurulu ve görevleri
+MADDE 10 – (1) Merkez Danışma Kurulu; Merkezin çalışma alanlarıyla ilgili diğer üniversitelerde, istekleri halinde kamu ve özel sektör kurum ve kuruluşlarında bu alanda uzman olan temsilcilerden ve Merkezin ihtiyaç duyduğu diğer alanlardan katılan ve üç yıllığına görevlendirilen kişilerden oluşur. Merkez Danışma Kurulunun üye sayısı üç kişiden az olmamak kaydıyla, Merkez Yönetim Kurulunun kararıyla belirlenir. Merkez Danışma Kurulu üyeliğine görevlendirme ve üyeliğin sona ermesi, Merkez Yönetim Kurulunun salt çoğunluğunun kararı ve Rektörün onayına bağlıdır.
+(2) Merkez Danışma Kurulu, Merkez Müdürünün yazılı daveti üzerine yılda en az iki kez toplanır ve Merkezin etkinlik alanlarıyla ilgili konularda görüş ve tavsiyelerde bulunur.
