@@ -1,0 +1,2 @@
+Esas soruşturmada tespit edilen damping marjı
+MADDE 31 – (1) Esas soruşturma esnasında tespit edilen damping marjı, önlemin yürürlükten kalkması halinde ÇHC’deki üretici/ihracatçıların muhtemel davranışlarını yansıtacak önemli bir gösterge niteliği taşıdığından dikkate alınmıştır. Buna göre, esas soruşturma sırasında ÇHC için tespit edilen damping marjı CIF bedelin %150,55’i (0,91 ABD Doları/Kg) oranında olup önemli düzeydedir.

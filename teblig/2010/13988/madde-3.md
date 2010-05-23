@@ -1,0 +1,2 @@
+Yerli üretim dalının temsil niteliği
+MADDE 3 – (1) Mevcut veriler ışığında, şikayeti aktif olarak destekleyen iki firmanın 2008 yılı itibariyle Türkiye üretiminin %75’ini gerçekleştirdiği ve bu bağlamda başvuru aşamasında Yönetmeliğin 20’nci maddesi gereğince şikayetin yerli üretim dalı adına yapıldığı değerlendirilmiştir. Soruşturmalar esnasında da bu tespiti değiştirecek herhangi bir bilgi alınmamıştır.

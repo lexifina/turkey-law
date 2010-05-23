@@ -1,0 +1,2 @@
+Talebi etkileyen unsurlar
+MADDE 33 – (1) Soruşturma konusu ürünün ithalatçısı konumunda bulunan firmalar tarafından soru formlarına verilen yanıtlarda talebi etkileyen en önemli unsurun fiyat olduğu, fiyattan sonra ödeme şekli, satış sonrası hizmet ve teslim süresi gibi unsurların önemli olduğu ifade edilmiştir. Bu veriler ışığında diğer ülkelere göre daha düşük ihracat fiyatına sahip olan ÇHC menşeli cam kapaklara karşı önlemin ortadan kalkması durumunda ciddi talep gelebileceği ve yerli üretim dalında zararın oluşmasına yol açacağı muhtemeldir.

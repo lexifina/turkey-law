@@ -1,0 +1,2 @@
+Diğer unsurların etkisi
+MADDE 38 – (1) Yönetmeliğin 17’nci maddesi hükümleri uyarınca, dampingli ithalatın dışında yerli üretim dalının ekonomik göstergelerinde zarara neden olabilecek başka bir unsur olup olmadığına ilişkin yapılan ön incelemede, ithalatçı firmaların dampingli ithalatı tercih etmelerindeki en önemli sebebin kendileri için rekabet avantajı sağlayan düşük fiyat olduğu, zarara neden olabilecek başka bir unsurun olmadığı görülmüştür.
