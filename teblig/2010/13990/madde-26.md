@@ -1,0 +1,2 @@
+Esas soruşturmada tespit edilen damping marjı
+MADDE 26 – (1) Mevcut dampinge karşı önlemin hukuki ve idari altyapısını teşkil eden orijinal damping soruşturması esnasında tespit edilen damping marjı, soruşturma konusu ülkede yerleşik üretici/ihracatçıların önlemin yürürlükten kalkması halinde muhtemel davranışlarını yansıtacak önemli bir gösterge niteliği taşıdığından dikkate alınmıştır. Esas soruşturmada bebek arabaları için damping marjı, CIF bedelin %55’i düzeyinde hesaplanmıştır.

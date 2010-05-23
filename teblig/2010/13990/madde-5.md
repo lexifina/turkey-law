@@ -1,0 +1,2 @@
+Yerinde doğrulama soruşturması
+MADDE 5 – (1) Yönetmelik’in 21 inci maddesi çerçevesinde yerli üreticiler Rota firmasının İstanbul Beylikdüzü’ndeki üretim ve idari tesisleri ile Derya firmasının İstanbul İkitelli’deki idari ve İstanbul Silivri’deki üretim tesislerinde yerinde doğrulama soruşturması yapılmıştır. Ayrıca ithalatçı firmalardan Denge İç ve Dış Ticaret Pazarlama Ltd. Şti.’nin (Denge) İstanbul Beylikdüzü’ndeki idari ofisinde adı geçen firmanın ithalatçı soru formuna verdiği cevapların yerinde doğrulaması yapılmıştır.

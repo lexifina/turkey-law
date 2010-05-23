@@ -1,0 +1,2 @@
+İhraç fiyatı
+MADDE 10 – (1) İhraç fiyatının belirlenmesinde, işbirliğine gelen firma olmamasından dolayı eldeki veriler kullanılarak önlem konusu ülkeden gerçekleştirilen ithalatın birim fiyatına ilişkin 2008 yılına ait TÜİK ithalat istatistikleri esas alınmıştır. İstatistiklerden elde edilen CIF fiyattan, ithalatçı firmalardan gelen yanıtlar esas alınarak hesaplanan navlun ve sigorta bedelleri düşülerek FOB bazlı ihraç fiyatına ulaşılmıştır. Bulunan bu değer, fabrika çıkış aşamasında kabul edilmiştir.
