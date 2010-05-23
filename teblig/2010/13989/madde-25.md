@@ -1,0 +1,2 @@
+Üçüncü ülkelerden ithalat
+MADDE 25 – (1) Üçüncü ülkelerden gerçekleşen ithalatın 2006-2008 döneminde mutlak olarak büyük bir değişim göstermediği, ancak gerek toplam ithalat içindeki payı gerekse tüketim içindeki payının bir miktar düştüğü görülmüştür. Gerek birim fiyatlarının yerli üreticinin birim fiyatlarına yakın veya üzerinde oluşu gerekse piyasa payındaki eğilim üçüncü ülkelerden gerçekleştirilen ithalatın bu aşamada yerli üretime zarar verebilecek boyutta olmadığını göstermektedir.
