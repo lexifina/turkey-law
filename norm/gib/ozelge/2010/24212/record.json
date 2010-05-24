@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-GVK mük.80-129",
+  "source_id": 24212,
+  "date": "2010-05-24",
+  "title": "Değer artış kazancının hesaplanmasında ilk iktisap tarihinin belirlenmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24212",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c7688181cb64dad8b51c8405a0bfe2c45064be59ef5c8f55af8c9d37f3e5528e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
