@@ -1,0 +1,3 @@
+Sözleşme düzenlenmesi
+MADDE 12 – (1) Ücret ve çalışma koşulları ile karşılıklı yükümlülüklerin aracı, işveren ve işçiler arasında yazılı sözleşmelerle belirlenmesi zorunludur. Aracının olmadığı yerlerde sözleşme işveren ile işçiler arasında imzalanır. İşveren veya aracı Yönetmelik ekinde yer alan sözleşmelerin birer örneğini düzenleme tarihinden itibaren on iş günü içinde onaylanmak üzere Kuruma ulaştırmak zorundadır.
+(2) İşçilerin günlük brüt kazançları, 4857 sayılı İş Kanununun 39 uncu maddesinde belirtilen asgari ücretin altında olamaz, ücretler kararlaştırılan ödeme biçimine göre işverence her işçinin kendisine ödenir.

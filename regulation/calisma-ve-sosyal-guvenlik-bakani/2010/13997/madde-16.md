@@ -1,0 +1,4 @@
+İdari para cezası
+MADDE 16 – (1) Kurumdan izin belgesi almadan veya geçerlilik süresi sona eren aracı belgesini yeniletmeden tarımda iş ve işçi bulma aracılığı yaptığı tespit edilenler ile tarım işverenleri ve tarım işçileri ile Kurumda sözleşme imzalamayan ya da kurum dışında imzaladığı sözleşmeyi Kuruma süresi içinde ibraz etmeyenlere, eylem başka bir idari ihlal oluştursa dahi 4904 sayılı Türkiye İş Kurumu Kanununun 20 nci maddesinin birinci fıkrasının (d) bendi uyarınca idari para cezası verilir.
+(2) Kurumca istenen bilgi ve belgelerle, bu Yönetmeliğin 13 üncü maddesinde belirtilen raporu vermeyenlere aynı Kanunun 20 nci maddesinin birinci fıkrasının (e) bendi uyarınca idari para cezası verilir.
+(3) Mahalli mülki idare amirlerince verilen emre aykırı hareket edenlere ise 5326 sayılı Kabahatler Kanununun 32 nci maddesi uyarınca idari para cezası verilir.
