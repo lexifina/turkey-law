@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2010/7",
+  "list_number": "345,340\t",
+  "genelge_number": "7",
+  "decision_date": "2010-05-28",
+  "title": "Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir (Örnek: 140/I) sayılı Genelge ile Yurt Dışı Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir (Örnek: 140/II-EK) sayılı Genelge, 12 Eylül Pazar günü yapılacak olan Anayasa Değişikliğinin Halkoyuna Sunulmasında uygulanacak Seçim Takvimi",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1758/2010-7.pdf",
+  "source_sha256": "5f36cdfccd4b3ad5b5e62e3af31307a09a4e4e72a1a61e3959c6004a4213c43b",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 20,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-05-28",
+  "law_text_complete": false
+}
