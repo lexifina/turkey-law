@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-003.01-148",
+  "source_id": 36198,
+  "date": "2010-05-28",
+  "title": "Varlık yönetim şirketinin tapu müdürlükleri nezdinde yapacakları alım satım işlemlerinde harç uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36198",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "9c95e44332312b94e76697f38c21c0f650cf7025299af26bbf77f2d7c68c9b43",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
