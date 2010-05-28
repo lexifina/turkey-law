@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-KVK-10-3-400",
+  "source_id": 28342,
+  "date": "2010-05-28",
+  "title": "Bakanlar Kurulunca yardım kararı alınan doğal afetler dolayısıyla yapılan bağışların indirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28342",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "05f5a0736019ac08334a409e8d8816dc34e618718b91efb121b7f17a8c887540",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
