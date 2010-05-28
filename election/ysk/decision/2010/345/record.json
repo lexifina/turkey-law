@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/345",
+  "list_number": "345",
+  "decision_date": "2010-05-28",
+  "title": "Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir (Örnek: 140/I) sayılı genelge ile Yurt Dışı Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir (Örnek: 140/II-EK) sayılı genelge hakkında Yüksek Seçim Kurulu'nun 2010/345 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2933/2010-345.pdf",
+  "source_sha256": "35f821b5349f111792ea9e355f8cb0ab387013323ed66a4e2b4c6323b434dfcb",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 14,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-05-28",
+  "law_text_complete": false
+}
