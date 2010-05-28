@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.09.15.01-10.2010.GVK.70.MD.2.-1",
+  "source_id": 24583,
+  "date": "2010-05-28",
+  "title": "Derneklerin elde edilen kira gelirinden dolayı beyanname verme mecburiyetinizin bulunup bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24583",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "a341d4e3d96f20b218655d1243f8c5427cf093e08b4c19964bb59df8ca50f9c2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
