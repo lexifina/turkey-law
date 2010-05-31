@@ -1,0 +1,5 @@
+Dampingli ithalatın pazar payındaki değişim
+MADDE 17 – (1) Maddenin yurtiçi tüketimi, şikayetçi yerli üreticilerin yurtiçi satışları ile soruşturma konusu ürünün genel ithalatının toplanması suretiyle hesaplanmıştır.
+(2) Bu çerçevede, belirlenen toplam tüketim endeks olarak 2007 yılında 100 iken diğer ülkelerden yapılan ithalatın önemli ölçüde düşmüş olmasının da etkisiyle 2008’de 86 olmuştur.
+(3) 2007 yılında dampingli ithalatın pazar payı endeks olarak 100 iken soruşturma döneminde 186’ya yükselmiş, buna karşılık aynı dönemde yerli üretim dalının endeks olarak pazar payı 100’den, 118’e yükselmiştir. Soruşturma konusu ülkeden yapılan dampingli ithalat pazar payını önemli ölçüde arttırırken, yerli üretim dalının pazar payındaki artışın düşük seviyelerde kaldığı görülmektedir.
+(4) Yerli üretim dalı tarafından yapılan yatırımlara rağmen diğer ülkelerden yapılan ithalattaki azalmanın yerli üretim tarafından değil soruşturma konusu ülkeden yapılan ithalatla karşılanarak; pazar payının ÇHC menşeli ürünler tarafından alındığı anlaşılmaktadır.

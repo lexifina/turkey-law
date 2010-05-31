@@ -1,0 +1,2 @@
+İhraç fiyatı
+MADDE 10 – (1) İhraç fiyatı, üretici/ihracatçı firmaların cevaplarından ve işbirliği olmaması dolayısıyla eldeki en iyi verinin kullanılması prensibi çerçevesinde ithalatçı cevaplarından edinilen bilgiler üzerinden belirlenmiştir. İhraç fiyatı hesabında, normal değer belirlemesinde kullanılan ürün tipleri ile benzer tipteki ürünler dikkate alınmıştır. CIF bazda olanlarında sunulan beyannameler çerçevesinde hesaplanan navlun, sigorta ve diğer satış giderlerine ilişkin ayarlamalar yapılarak fiyatlar mümkün olduğu ölçüde fabrika çıkış aşamasına getirilmiştir.
