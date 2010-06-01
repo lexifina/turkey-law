@@ -1,0 +1,2 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür, müdür yardımcıları ve Müdür tarafından Ziraat Fakültesinin öğretim üyeleri arasından önerilen ve Rektör tarafından üç yıl süreyle görevlendirilecek dört öğretim üyesi olmak üzere yedi kişiden oluşur. Görev süresi biten üye yeniden görevlendirilebilir. Üyeliğin herhangi bir nedenle boşalması halinde kalan süreyi tamamlamak üzere yeni üye görevlendirilebilir. Müdür, Yönetim Kurulunun başkanıdır. Yönetim Kurulu, Müdürün daveti üzerine ayda en az bir kez salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır.
