@@ -1,0 +1,107 @@
+1 Haziran 2010 SALI
+Resmî Gazete
+Sayı : 27598
+TEBLİĞ
+Bankacılık
+Düzenleme ve Denetleme Kurumundan:
+BANKALARDA BİLGİ SİSTEMLERİ YÖNETİMİNDE
+ESAS ALINACAK İLKELERE İLİŞKİN TEBLİĞDE
+DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+MADDE 1 – 14/9/2007
+tarihli ve 26643 sayılı Resmî Gazete'de yayımlanan Bankalarda Bilgi
+Sistemleri Yönetiminde Esas Alınacak İlkelere İlişkin Tebliğin 3 üncü
+maddesinin birinci fıkrasına aşağıdaki tanımlar eklenmiş ve diğer bentler
+buna göre teselsül ettirilmiştir.
+“a)
+Acil ve beklenmedik durum planı: İç Sistemler Yönetmeliğinin 3 üncü
+maddesinde tanımlanan acil ve beklenmedik durum planını,”
+“d)
+Bilgi sistemleri süreklilik planı: İç Sistemler Yönetmeliğinin 3 üncü
+maddesinde tanımlanan bilgi sistemleri süreklilik planını,”
+“f)
+Birincil merkez: İç Sistemler Yönetmeliğinin 3 üncü maddesinde tanımlanan
+birincil sistemlerin tesis edildiği yapıyı,”
+“g)
+Birincil sistemler: İç Sistemler Yönetmeliğinin 3 üncü maddesinde
+tanımlanan birincil sistemleri,”
+“n)
+İkincil merkez: İç Sistemler Yönetmeliğinin 3 üncü maddesinde tanımlanan
+ikincil sistemlerin kullanıma hazır olacak şekilde tesis edildiği ve
+herhangi bir kesinti durumunda personelin çalışmasına imkan
+tanıyacak ve birincil merkez ile aynı riskleri taşımayacak şekilde
+oluşturulmuş yapıyı,”
+“o)
+İkincil sistemler: İç Sistemler Yönetmeliğinin 3 üncü maddesinde tanımlanan
+ikincil sistemleri,”
+“p)
+İş etki analizi: İç Sistemler Yönetmeliğinin 3 üncü maddesinde tanımlanan
+iş etki analizini,”
+“ş)
+Kesinti: İç Sistemler Yönetmeliğinin 3 üncü maddesinde tanımlanan
+kesintiyi,”
+MADDE 2 – Aynı Tebliğin 8 inci
+maddesinin ikinci fıkrası ve üçüncü fıkrasının (f) bendi aşağıdaki şekilde
+değiştirilmiş, üçüncü fıkrasına aşağıdaki (ğ) bendi eklenmiştir.
+“(2)
+Destek hizmeti alımının, planlananın dışında sonlanması veya kesintiye
+uğraması durumlarına ilişkin risklerin yönetilmesine uygun bir çıkış stratejisi
+belirlenir.”
+“f)
+Destek hizmeti alımının, planlananın dışında sonlanmasından veya kesintiye
+uğramasından kaynaklanacak risklerin yönetilmesine ilişkin hükümler,”
+“ğ)
+Birincil veya ikincil sistemlere ilişkin destek hizmeti alınması halinde,
+Kurul veya Kurum talimatı ile bankaların birincil veya ikincil sistemleri
+üzerinde gerçekleştirilmesi gereken her türlü değişikliğin, alınan hizmet
+kapsamında destek hizmeti kuruluşu tarafından talimat süresi içerisinde
+yerine getirilmesini sağlayacak hükümler.”
+MADDE 3 – Aynı Tebliğin 18 inci
+maddesi madde başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+“Bilgi sistemleri süreklilik planı
+MADDE 18 – (1) Bankanın faaliyetlerini destekleyen bilgi
+sistemleri servislerinin sürekliliğini sağlamak üzere İç Sistemler
+Yönetmeliğinin 13 üncü maddesinde yer alan iş sürekliliği yönetimi ve
+planının bir parçası olan bilgi sistemleri süreklilik planı hazırlanır.
+(2)
+Plan, iş süreklilik planında belirlenen hedefleri de dikkate alacak
+şekilde, önemli iş fonksiyonlarını destekleyen bilgi sistemleri
+servislerine yönelik hazırlanır. Plan hazırlanırken, iş süreklilik planı
+kapsamında yapılan çalışmalar bilgi sistemleri açısından değerlendirilir.
+(3)
+Planın hazırlanması sürecinde, bilgi sistemleri varlıklarının ve tutulan
+verilerin önem düzeyi değerlendirilerek iş etki analizi çerçevesinde
+belirlenen kesintilerin etkileri analiz edilir. Bu analizin sonuçlarına
+göre her bir servis için kabul edilebilir kesinti süreleri belirlenerek, bu
+kesinti süresi içerisinde servisin tekrar erişime açılabilmesine imkân
+tanıyacak alternatifli kurtarma prosedürleri
+geliştirilir ve buna göre gerekli önlemler alınır.
+(4)
+Plan kapsamında, performans takip teknikleri kullanılır, kapasite
+planlaması yapılır, ağ ve iletişim altyapısından kaynaklanabilecek
+kesintilere karşı uygun alternatif kanallar oluşturulur. Bilgi
+sistemlerinin sürekliliğini sağlamak amacıyla, risk değerlendirmesi, risk
+azaltma ve risk izleme faaliyetleri gerçekleştirilir, bilgi sistemleri alt
+yapısının kapasitesinin ölçeklenebilirliği, genel piyasa dinamikleri ve
+planlanmış müşteri kazanma oranı ışığında analiz edilir, işlem hacmi
+tahminleri doğrultusunda gerçekleştirilecek stres testleri ile alt yapının
+dayanıklılığı test edilir.
+(5)
+Plan kapsamında ikincil merkez tesis edilir ya da bu hizmeti destek hizmeti
+kuruluşlarından tedarik etme hususunda güvence sağlayan anlaşmalar yapılır.
+Bankaların İç Sistemleri Hakkında Yönetmeliğin 11 inci maddesinin dördüncü
+fıkrası uyarınca veri ve sistem yedekleri ikincil merkezde kullanıma hazır
+bulundurulur.
+(6)
+İkincil sistemler ile ilgili, bu Tebliğ ile getirilen hükümlere ilave yedek
+tesis edilmesi Bankaların kendi ihtiyarındadır.
+(7)
+Plan, Bankanın iş süreçlerini veya bilgi sistemlerini etkileyecek
+değişikliklerden sonra gözden geçirilerek güncellenir. Mevcut planın
+etkinliğini ve güncelliğini temin etmek üzere testler yapılır, testlere
+varsa destek hizmeti kuruluşları da dahil edilir
+ve test sonuçları üst yönetime raporlanır.”
+MADDE 4 – Aynı Tebliğin 19 uncu maddesinin beşinci fıkrası
+yürürlükten kaldırılmıştır.
+MADDE 5 – Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+MADDE 6 – Bu Tebliğ hükümlerini Bankacılık Düzenleme ve
+Denetleme Kurumu Başkanı yürütür.
