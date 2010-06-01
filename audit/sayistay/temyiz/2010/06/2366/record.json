@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "31557",
+  "decision_date": "2010-06-01",
+  "source_id": 2366,
+  "chamber": "4",
+  "file_number": "31463",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2366/",
+  "source_sha256": "3a2f5f2b8c5a059eec8ed80c3fd55bb8d976efcd31fa0a10d09ee9ea76387cac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
