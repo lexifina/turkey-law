@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-06-01",
+      "01.06.2010",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27598",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2010-06-01",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kahramanmaraş Sütçü İmam Üniversitesi",
+  "issuer_slug": "kahramanmaras-sutcu-imam-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kahramanmaras-sutcu-imam-universitesi/2010/14006",
+  "published": "2010-06-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14006&MevzuatTertip=5",
+  "source_bytes": 21180,
+  "source_id": "8.5.14006",
+  "source_sha256": "41d0dd1d31e6c137a07922d92b2afbc11a5937385b18231e33b74ec9ce0c467c",
+  "text_status": "as-enacted",
+  "title": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ EKOLOJİK TARIM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 205,
+  "word_count": 671
+}
