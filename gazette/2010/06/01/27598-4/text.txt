@@ -1,0 +1,264 @@
+1 Haziran 2010 SALI
+Resmî Gazete
+Sayı : 27598
+YÖNETMELİK
+Bankacılık
+Düzenleme ve Denetleme Kurumundan:
+BANKALARIN İÇ SİSTEMLERİ HAKKINDA YÖNETMELİKTE
+DEĞİŞİKLİK
+YAPILMASINA DAİR YÖNETMELİK
+MADDE 1 – 1/11/2006
+tarihli ve 26333 sayılı Resmî Gazete’de yayımlanan Bankaların İç Sistemleri
+Hakkında Yönetmeliğin 3 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
+“MADDE 3 – (1) Bu Yönetmelikte yer
+alan;
+a)
+Acil ve beklenmedik durum planı: Faaliyetlerde ani ve planlanmamış bir
+kesintiye, iş kaybına veya krize neden olması muhtemel bir durumda
+risklerin ve sorunların yönetilebilmesi amacıyla alınacak tedbirlerin ve
+gerçekleştirilecek öncelikli eylemlerin belirlendiği, iş sürekliliği
+planının bir parçası olan planı,
+b)
+Banka: Kanunun 3 üncü maddesinde tanımlanan bankaları,
+c)
+Bilgi sistemleri süreklilik planı: Faaliyetlerin sürdürülmesini sağlayan
+bilgi sistemleri servislerinin, bir kesinti durumunda sürekliliğinin sağlanmasına
+yönelik hazırlanan ve iş sürekliliği planının bir parçası olan planı,
+ç)
+Birincil sistemler: Bankacılık faaliyetlerinin yürütülmesini ve Kanunda,
+Kanuna ilişkin alt düzenlemelerde ve ilgili diğer mevzuatta bankalar için
+tanımlanan tüm sorumlulukların yerine getirilmesi açısından gerekli olan
+bütün bilgilerin, elektronik ortamda güvenli ve istenildiği an erişime imkan sağlayacak şekilde kaydedilmesini ve kullanılmasını
+sağlayan altyapı, donanım, yazılım ve veriden oluşan sistemin tamamını,
+d)
+Felaket: Faaliyet veya sistemlerde uzun süreli kesintiye sebep olabilecek
+düzeyde insan, doğa veya diğer faktörlerden kaynaklanan olayı,
+e)
+İcrai görevi bulunmayan yönetim kurulu üyesi:
+Kendisine bağlı icrai mahiyette faaliyet gösteren
+bir birim bulunmayan yönetim kurulu üyesini,
+f)
+İcrai mahiyette faaliyet gösteren birim: Doğrudan
+gelir getirici faaliyetlerin icra edildiği birimi,
+g)
+İç sistemler: İç denetim, iç kontrol ve risk yönetim sistemlerini,
+ğ) İkincil sistemler: Birincil sistemler aracılığı ile yürütülen
+faaliyetlerde bir kesinti olması halinde, bu faaliyetlerin iş sürekliliği
+planında belirlenen kabul edilebilir kesinti süreleri içerisinde sürdürülür
+hale getirilmesini ve Kanunda, Kanuna ilişkin alt düzenlemelerde ve ilgili
+diğer mevzuatta bankalar için tanımlanan tüm sorumlulukların yerine getirilmesi
+açısından gerekli olan bütün bilgilere kesintisiz ve istenildiği an
+erişilmesini sağlayan birincil sistem yedeklerini,
+h)
+İş etki analizi: İş süreçlerinin ve bir faaliyet kesintisinin iş süreçleri
+üzerinde yaratabileceği etkilerin analiz sürecini,
+ı)
+İş sürekliliği planı: İş sürekliliği yönetiminin bir parçası olan ve bir
+kesinti durumunda bankanın öncelikleriyle uyumlu olarak faaliyetlerin
+sürdürülmesine ve mevzuata uyum sağlanmasına yönelik politika, standart ve prosedürlerden oluşan yazılı plan veya planlar bütününü,
+i)
+İş sürekliliği yönetimi: Felaket, kriz veya kesinti durumunda etkin önlem
+alınabilmesi; itibarın, marka değerinin, değer yaratan faaliyetlerin ve
+paydaşların çıkarlarının korunabilmesi amaçlarıyla belirlenen
+operasyonların sürekliliğinin temin edilmesi veya hedeflenen zaman
+diliminde kurtarılabilmesinin sağlanması ve kriz öncesi duruma dönülmesine
+yönelik, potansiyel risklerin belirlenmesini de içeren politika, standart
+ve prosedürleri içeren bütünsel yönetim sürecini,
+j)
+Kanun: 5411 sayılı Bankacılık Kanununu,
+k)
+Kesinti: Bir bankanın faaliyetlerinde veya bir sistemin fonksiyonlarında
+sürekliliğin, planlı geçişler haricinde mücbir sebeplerle sekteye
+uğramasını,
+l)
+Kredi: Kanunun 48 inci maddesinde sayılan işlemleri,
+m)
+Kredi riski: Kredi müşterisinin yapılan sözleşme gereklerine uymayarak
+yükümlülüğünü kısmen veya tamamen zamanında yerine getirememesinden dolayı
+bankanın maruz kalabileceği zarar olasılığını,
+n)
+Kurul: Bankacılık Düzenleme ve Denetleme Kurulunu,
+o)
+Kurum: Bankacılık Düzenleme ve Denetleme Kurumunu,
+ö)
+Likidite riski: Bankanın nakit akışındaki dengesizlik sonucunda nakit
+çıkışlarını tam olarak ve zamanında karşılayacak düzeyde ve nitelikte nakit
+mevcuduna veya nakit girişine sahip bulunmaması nedeniyle ödeme yükümlülüklerini
+zamanında yerine getirememe riskini,
+p)
+Operasyonel risk: 1/11/2006
+tarih ve 26333 sayılı Resmî Gazete’de yayımlanan Bankaların Sermaye Yeterliliğinin
+Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmeliğin 3 üncü maddesinde
+tanımlanan operasyonel riski,
+r)
+Piyasa riski: Bankaların Sermaye Yeterliliğinin Ölçülmesine ve
+Değerlendirilmesine İlişkin Yönetmeliğin 3 üncü maddesinde tanımlanan
+piyasa riskini,
+s)
+Risk: Bir işleme ya da faaliyete ilişkin bir parasal kaybın ortaya çıkması
+veya bir giderin ya da zararın oluşması halinde ekonomik faydanın azalması
+ihtimalini,
+ş)
+Üst yönetim: Banka yönetim kurulu ile üst düzey yönetimi,
+t)
+Üst düzey yönetim: Banka genel müdür ve genel müdür yardımcıları, iç
+sistemler kapsamındaki birimlerin yöneticileri ile başka unvanlarla
+istihdam edilseler dahi, danışmanlık birimleri dışındaki birimlerin, yetki
+ve görevleri itibarıyla genel müdür yardımcısına denk veya daha üst
+konumlarda görev yapan yöneticileri
+ifade eder.”
+MADDE 2 – Aynı Yönetmeliğin 9 uncu
+maddesinin ikinci fıkrasının (c) bendi aşağıdaki şekilde değiştirilmiştir.
+“c)
+İş sürekliliği planı ve ilgili diğer planların hazırlanması,”
+MADDE 3 – Aynı Yönetmeliğin 11 inci maddesinin ikinci
+fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiştir.
+“a)
+Bankacılık faaliyetlerinin yürütülmesi ve Kanunda, Kanuna ilişkin alt
+düzenlemelerde ve ilgili diğer mevzuatta bankalar için tanımlanan tüm
+sorumlulukların yerine getirilmesi açısından gerekli olan bütün bilgilerin,
+elektronik ortamda güvenli ve istenildiği an erişime olanak sağlayacak
+şekilde kaydedilmesine ve kullanılmasına,”
+MADDE 4 – Aynı Yönetmeliğin 11 inci maddesinin dördüncü
+fıkrası aşağıdaki şekilde değiştirilmiş ve beşinci fıkrasından sonra gelmek
+üzere aşağıdaki altıncı fıkra eklenmiştir.
+“(4)
+Bankaların birincil ve ikincil sistemlerini yurt içinde bulundurmaları
+zorunludur.”
+“(6)
+Birincil ve ikincil sistemler kapsamında destek hizmeti alınıp alınmadığına
+bakılmaksızın, bu sistemler için iş sürekliliğini sağlamaya yetecek nitelik
+ve sayıda yurt içinde personel istihdam edilmesi zorunludur.”
+MADDE 5 – Aynı Yönetmeliğin 13 üncü maddesi madde başlığı ile
+birlikte aşağıdaki şekilde değiştirilmiştir.
+“İş sürekliliği yönetimi ve
+planı
+MADDE 13 – (1) Bankaların, bir kesinti anında faaliyetlerinin
+sürdürülmesi veya zamanında kurtarılmasını sağlamak üzere operasyonel, finansal, yasal ve itibari olumsuz
+etkileri en aza indirmeyi amaçlayan yönetim kurulu tarafından onaylanmış
+bir iş sürekliliği yönetim yapısı oluşturmaları zorunludur.
+(2)
+İş sürekliliği yönetimi kapsamında, iş sürekliliğinin gereklerini yerine
+getirmek üzere gerekli süreçler tesis edilir ve gereken tedbirler alınır.
+(3)
+İş sürekliliği planlamasına yönelik olarak iş etki analizi çalışmaları
+yapılır ve kurtarma stratejileri belirlenir. Bu çalışmalar ışığında bir iş
+sürekliliği planı oluşturulur ve bu plan yönetim kurulu tarafından
+onaylanır.
+(4)
+İş etki analizi kapsamında, ilgili çalışanların katılımıyla, iç ve dış
+bağımlılıklar belirlenir ve meydana gelebilecek bir kesinti durumunda
+gereken faaliyet düzeyini ortaya koymak üzere operasyonlar önem düzeyleri
+açısından sınıflandırılır. Farklı kesinti senaryolarının faaliyetler
+üzerinde yaratabileceği muhtemel riskler ve bunların potansiyel etkileri
+değerlendirilir.
+(5)
+İş etki analizini temel alan, kurtarma öncelikleri ve hedeflerini ortaya
+koyan bir kurtarma stratejisi geliştirilir. Kurtarma stratejisinin
+uygulanması ile ilgili detaylara iş sürekliliği planında yer verilir.
+(6)
+İş sürekliliği planının bankanın hedefleri ve öncelikleriyle uyumlu, güncel
+ve yeterli olması esastır. Risklerin açık ve net olarak tanımlandığı bu
+planda, faaliyet kesintilerinin yönetilmesi için görev ve sorumlulukların
+belirlenmesi, plan dâhilinde önemli
+göreve sahip personele ulaşılamaması durumunda yetki ve karar verme
+yapısının sürdürülebilmesi ve planın hangi koşullarda uygulamaya alınacağı
+hususlarına yer verilir. Plan geliştirilirken, varsa destek hizmeti alınan
+kuruluşlar da dikkate alınır.
+Personel, iş sürekliliği planı ile ilgileri çerçevesinde
+bilgilendirilir, görev ve sorumlulukları konusunda eğitilir.
+(7)
+Herhangi bir acil veya beklenmedik durumda öncelikli gerçekleştirilecek
+eylemleri ve alınacak tedbirleri belirlemek üzere iş sürekliliği planının
+bir parçası olarak acil ve beklenmedik durum planı oluşturulur.
+Karşılaşılan durum bu plan kapsamında çözülemediği takdirde iş sürekliliği
+planının diğer kısımları devreye alınır.
+(8)
+Acil ve beklenmedik durum planı kapsamında, ortaya çıkabilecek sorun ya da
+kriz ile başa çıkmak amacıyla gerekli önlemler alınır, gerektiğinde
+kullanılmak üzere ana hizmetlerin verildiği ortam ile aynı risklere maruz
+olmayan bir yönetim ve çalışma ortamı tesis edilir. Acil ve beklenmedik
+durum planında:
+a)
+Muhtemel acil ve beklenmedik durumlar karşısında, her banka operasyonu için
+bir öncelik sırası, yetki devri, durumun gerektirdiği personelin teminine
+ilişkin düzenlemeler, yönetim ile personelin temas düzeni, sırası ve
+yöntemi açık olarak belirlenir.
+b)
+Ödeme ve mutabakat sistemlerine ilişkin muhtemel acil ve beklenmedik bir
+duruma yönelik olarak, Türkiye Cumhuriyet Merkez Bankası yetkilileri, bankalararası ödeme, mutabakat ve takas sistemleri
+sorumluları ve Kurum ile muhtemel haberleşme düzeni; halkla ve müşterilerle
+ilişkilere yönelik kamuya açık bir haberleşme kanalı ya da ağı tesis
+edilmesi sağlanır.
+c)
+Müşteriler ve yayın organlarının zamanında ve doğru haber almasının
+teminine yönelik kullanılacak iletişim yöntemlerinin belirtildiği bir
+haberleşme stratejisi belirlenir.
+ç)
+Genel müdürlük ve şubeler arasında, buna ilaveten bilgi işlem merkezi ile
+şubeler arasında özel hatlar kullanılarak çoklu haberleşme metotlarının
+kullanımı güvence altına alınır.
+d)
+Bankanın faaliyetlerini sürdürebilmek için ihtiyaç duyabileceği tüm
+kaynaklar dikkate alınır, varlıkların korunmasına yönelik tedbirler ve
+hasar gören varlıkların değerlendirilmesine yönelik usuller belirlenir.
+e)
+Müşterilerin ve personelin güvenliğine azami önem verilir.
+(9)
+İş sürekliliği planı ve bu plan kapsamındaki diğer planlar, ilgili tüm
+birimlere görev ve sorumlulukları çerçevesinde belirlenmiş bir içerikle
+basılı halde iletilir. Personelin plan ve bu plan dahilinde
+üstlendiği sorumluluk hakkında alternatif iletişim kanalları üzerinden
+bilgi sahibi olması sağlanır. Planda belirtilen hususların eşgüdümü için
+yetkili bir birim belirlenir.
+(10)
+Bilgi sistemlerinin sürekliliği, iş sürekliliği planı kapsamında hazırlanan
+ve yönetim kurulu tarafından onaylanmış bilgi sistemleri süreklilik planı
+ve acil ve beklenmedik durum planında ele alınır. İş süreklilik planı kapsamındaki
+planlar ayrı ayrı hazırlanabileceği gibi tek bir
+planın parçası da olabilirler.
+(11) İş sürekliliği planı kapsamındaki
+planları gözden geçirecek bir sistem oluşturulur. Bankanın iş süreçlerini
+veya bilgi sistemlerini etkileyecek değişikliklerden sonra planlar gözden
+geçirilerek güncellenir. Bu planlar, otomatik ve manuel
+işleyen süreçlerde olası kısa veya uzun süreli kesintiler dikkate alınarak
+genel müdürlük ve örnek şubeler ile diğer birimlerde yılda en az bir kez
+test edilir. Testlere varsa kritik iş süreçlerine destek veren bilgi
+teknolojileri sistemlerinin ayağa kaldırılmasında rol oynayacak destek
+hizmeti kuruluşları da dahil edilir. Test
+sonuçları uygun bir değerlendirmeyi müteakip üst yönetime raporlanır ve
+gerekmesi halinde planın güncellenmesinde kullanılır.”
+MADDE 6 – Aynı Yönetmeliğe aşağıdaki geçici 2 nci madde eklenmiştir.
+“Bilgi sistemlerinin uyumlaştırılması
+süreci
+GEÇİCİ MADDE 2 – (1) Yönetmeliğin 11 inci maddesinin dördüncü fıkrası
+kapsamında sistemlerini yurt içine taşıması gereken bankalar, sistemlerini 1/5/2012 tarihine kadar bu Yönetmeliğe uygun hale
+getirerek, yapacakları çalışmaları Kurumca belirlenecek usul ve esaslara
+uygun olarak Kuruma bildirirler.”
+MADDE 7 – Aynı Yönetmeliğe aşağıdaki geçici 3 üncü madde
+eklenmiştir.
+“Destek hizmeti alımına ilişkin
+intibak süresi
+GEÇİCİ MADDE 3 – (1) Bankaların almış oldukları destek hizmetleri
+arasından, bu Yönetmeliğin 11 inci maddesinin dördüncü fıkrası hilafına
+durum teşkil edenler, Geçici 2 nci maddede
+belirtilen geçiş süresi içinde bu Yönetmeliğe uygun hale getirilir.”
+MADDE 8 – Bu Yönetmeliğin 3 üncü
+maddesi 1/5/2012 tarihinde, diğer maddeleri ise
+yayımı tarihinde yürürlüğe girer.
+MADDE 9 – Bu Yönetmelik hükümlerini Bankacılık Düzenleme ve
+Denetleme Kurumu Başkanı yürütür.
+Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+Tarihi
+Sayısı
+1/11/2006
+26333
+Yönetmelikte Değişiklik Yapan Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+Tarihi
+Sayısı
+1
+14/6/2007
+26552
+2
+30/11/2008
+27070
