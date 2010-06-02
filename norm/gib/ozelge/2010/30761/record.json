@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-2:2010-14009-11-413",
+  "source_id": 30761,
+  "date": "2010-06-02",
+  "title": "ASKİ'ye verilen su sayaçlarının okuma, sökme-takma, açma-kapama, bildirim, dağıtım, emniyet kilidi takılması ve online aktarım, abone yönetim sistemi işletimi ve barkod takılması hizmet alımı işinde KDV tevkifatı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30761",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "7d56281f84a38b2eb70c6fff8b86a494dc00677a5d45a239c8e57a6a30e76c82",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
