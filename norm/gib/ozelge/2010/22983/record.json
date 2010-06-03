@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-GVK.2010.28-49",
+  "source_id": 22983,
+  "date": "2010-06-03",
+  "title": "Babası gerçek usulde gelir vergisi mükellefi olan kişinin basit usulde mükellef olma durumu ve çocuk tabiri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22983",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "8fd0387bc4ac6f91a6cbb06f6f0c4ee6932dc4373e4b0af6ab8b89017e91eafe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
