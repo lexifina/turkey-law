@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.55.15.01-2010-KDV-ÖZE-26-103",
+  "source_id": 33152,
+  "date": "2010-06-03",
+  "title": "Düğün salonu işletmelerinde verilen salon kirası, fotoğraf ve kamera çekimi hizmeti, pasta, kuruyemiş ve meşrubat dağıtımı gibi hizmetlerin genel oranda (% 18) KDV ye tabi olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33152",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "1bf24dbba18740a76902d0e4deb91f0d2860adbbb1c62d1e226f68754ec2db9c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
