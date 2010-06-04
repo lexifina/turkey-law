@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.01.16.02-2010-808-KDV-16",
+  "source_id": 29864,
+  "date": "2010-06-04",
+  "title": "Kullanılmış tekerlekli zirai traktörler ve ormancılıkta kullanılan tekerlekli traktörlerin ticari veya zirai faaliyet kapsamında tesliminin %1 oranında KDV ye tabi olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29864",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "5b0b85fe8a68fed3004f58ae898c13133d03ba0c20e2aae1f0697121998925e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
