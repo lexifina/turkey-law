@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.14023",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK VERGİSİ ASKIYA ALINMASI VE AVRUPA BİRLİĞİ TARAFINDAN TARİFE KONTENJANI AÇILMASI PLANLANAN ÜRÜNLERE İLİŞKİN TEBLİĞ (İTHALAT: 2010/23)",
+  "number": "14023",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2010/14023",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14023&MevzuatTertip=5",
+  "source_sha256": "2392b0b217df08e59133eb0e15e0b538b0682d50e7f695af5ec5a2f51ec00569",
+  "source_bytes": 9920,
+  "published": "2010-06-06",
+  "gazette": "27603",
+  "in_force": "2010-06-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.06.2010); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 179,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14023%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
