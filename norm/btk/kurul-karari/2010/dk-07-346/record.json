@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2010/DK-07/346",
+  "date": "2010-06-08",
+  "title": "Gerçek Zamanlı İçerik Yayını Hizmeti",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2010-06-08",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=177",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/ae3f0464-72f0-4780-9fb7-2954d44a620d.pdf",
+  "source_sha256": "06ff727f5d23f7ca3cf6b94fa0dd6250f69041ba292a87a45cb429d2f7662e7d",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2010-06-08",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 08.06.2010; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
