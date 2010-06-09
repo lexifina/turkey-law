@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/365",
+  "list_number": "365",
+  "decision_date": "2010-06-09",
+  "title": "12 Eylül 2010 Pazar günü yapılacak Anayasa Değişikliklerinin Halkoyuna Sunulmasında hangi gümrük kapılarında oy verilebileceği, gümrük kapılarında yapılacak oy verme işlemleri ile İlçe Seçim ve Sandık Kurullarının Görev ve Yetkilerini gösterir Örnek: 145/I sayılı genelgeye ilişkin Yüksek Seçim Kurulu'nun 2010/365 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2923/2010-365.pdf",
+  "source_sha256": "a5a873b63743ce2b400aed5310dc8f4e5e36cc823149346331dd14df36484cbc",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 15,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-06-09",
+  "law_text_complete": false
+}
