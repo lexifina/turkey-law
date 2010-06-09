@@ -1,0 +1,40 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 741180,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "AFİF DEMİRKIRAN (SİİRT)",
+  "summary": "Ve Trabzon Milletvekili Mustafa Cumurun; Maden Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, Mersin Milletvekili Ali Rıza Öztürkün; Maden Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi ile Maden Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısı (2/670, 2/572, 1/821) (S. Sayısı: 503)",
+  "title": "Ve Trabzon Milletvekili Mustafa Cumurun; Maden Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, Mersin Milletvekili Ali Rıza Öztürkün; Maden Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi ile Maden Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısı (2/670, 2/572, 1/821) (S. Sayısı: 503)",
+  "first_sitting_date": "2010-06-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 71,
+      "sitting": 114,
+      "sitting_date": "2010-06-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c071/tbmm23071114.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c071/tbmm23071fih.pdf",
+      "pages": [
+        "541:606",
+        "606:608",
+        "609:649",
+        "649:664",
+        "664:674"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9778ad3e006ed014ada40672e8018c4ef424a514aeeae1bfe4415432bf50a80a",
+  "in_force": "2010-06-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
