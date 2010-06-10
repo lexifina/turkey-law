@@ -1,0 +1,13 @@
+{
+  "number": "10-42/756-243",
+  "type": "Rekabet İhlali",
+  "decision_date": "2010-06-10",
+  "publication_date": "2010-08-25",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=1fb7397f-6da2-4eea-a852-b88bcb229e76",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=708",
+  "pdf_sha256": "3c6964530d04ec28c7fb295e6dfba66fbbeb7c65f5af41fc4de8caf79f60098b",
+  "pdf_bytes": "386379",
+  "pages": "7",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
