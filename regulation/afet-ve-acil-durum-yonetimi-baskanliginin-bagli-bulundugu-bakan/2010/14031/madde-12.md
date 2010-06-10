@@ -1,0 +1,2 @@
+Sözlü sınavına çağrı
+MADDE 12 – (1) Yazılı Sınav yapıldığı takdirde, bu Sınavdan en az 70 puan alan adaylara, sınav sonuçlarının ilânından itibaren onbeş gün içerisinde yapılacak Sözlü Sınavının yeri ve tarihi yazılı olarak bildirilir. Sadece Sözlü Sınav yapılması hâlinde, belirlenen KPSS puan türüne göre yapılan başvurular arasından, en yüksek puana sahip olan adaydan başlanmak üzere atama yapılacak kadro sayısının en fazla dört katına kadar aday (son sıradaki adaya eşit puan alanlar dahil) Sözlü Sınava çağrılır.

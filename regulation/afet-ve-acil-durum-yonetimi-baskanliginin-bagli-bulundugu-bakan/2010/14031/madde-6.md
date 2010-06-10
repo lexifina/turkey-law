@@ -1,0 +1,2 @@
+Giriş sınavı duyurusu
+MADDE 6 – (1) Giriş Sınavına katılma şartları, sınavın yapılış şekli, KPSS puan türleri ve asgari puanlar, puan sıralamasına göre kaç adayın çağrılabileceği, son başvuru tarihi, başvuru yeri, başvuru şekli ve başvuruda istenecek belgeler, gerek görülmesi halinde öğrenim dalları ve kontenjanları, uzman yardımcısı olarak en fazla kaç kişinin atanacağı hususları sınav tarihinden en az bir ay önce Türkiye genelinde yayınlanan tirajı en yüksek ilk beş gazetenin en az birinde ve Başkanlığın internet adresinde ilân edilir.

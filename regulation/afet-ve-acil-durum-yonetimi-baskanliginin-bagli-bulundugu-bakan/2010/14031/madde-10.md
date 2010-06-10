@@ -1,0 +1,2 @@
+Giriş sınavına çağrı
+MADDE 10 – (1) Giriş Sınavı; yazılı ve sözlü olarak iki aşamalı veya sadece sözlü olmak üzere tek aşamalı yapılabilir. Giriş Sınavı iki aşamalı yapıldığı takdirde sınava, KPSS sonuçlarına göre başvuran adaylardan, en yüksek puana sahip olandan başlanarak, atama yapılacak kadro sayısının en fazla yirmi katına kadar aday (son sıradaki adaya eşit puan alanlar dâhil) çağrılabilir.

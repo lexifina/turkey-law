@@ -1,0 +1,6 @@
+Yeterlik sınavı safhaları
+MADDE 25 – (1) Yeterlik Sınavı Kurulu tarafından tez değerlendirme safhasında tezi başarılı kabul edilen uzman yardımcısı, Yönetim Hizmetleri Dairesi Başkanlığınca sözlü savunmaya çağrılır. Yönetim Hizmetleri Dairesi Başkanlığı bu çağrıyı uzman yardımcısına sözlü savunma tarihinden en az yedi gün önce yazılı olarak yapar.
+(2) Yeterlik Sınavı Kurulu tarafından tezi başarısız görülen uzman yardımcısı sözlü savunmaya çağrılmaz. Bu durumda olan uzman yardımcısı yeni bir tez hazırlamak zorundadır. İkinci defa tezi başarısız görülen uzman yardımcısı, Yeterlik Sınavına girme hakkını tamamen kaybeder.
+(3) Yeterlik Sınavı Kurulu sözlü savunma safhasında uzman yardımcısının görev yapmakta olduğu uzmanlık alanındaki bilgisini göz önüne alarak savunmayı değerlendirir.
+(4) Yeterlik Sınav Kurulu tarafından sözlü savunması başarısız görülen uzman yardımcısı açılacak başka bir sınavda, talebi halinde, doğrudan sözlü savunmaya girer. İkinci sözlü savunmasında başarısız görülen Yeterlik Sınavına girme hakkını tamamen kaybeder.
+(5) Yeterlik Sınavını tamamen kaybeden uzman yardımcıları ile adaylık dâhil sekiz yıllık süre içinde uzmanlığına atanamayan uzman yardımcıları, mükteseplerine uygun başka bir kadroya atanırlar.

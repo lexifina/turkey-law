@@ -1,0 +1,5 @@
+Uzman yardımcılarının atanması
+MADDE 15 – (1) Giriş sınavını kazananların uzman yardımcılığı kadrolarına atanmaları ve adaylıklarına ilişkin işlemler 5902 sayılı Afet ve Acil Durum Yönetimi Başkanlığının Teşkilat ve Görevleri Hakkında Kanun ve 657 sayılı Devlet Memurları Kanunu hükümlerine göre yapılır.
+(2) Sınavı kazananların uzman yardımcılığına atanmaları için atama işlemlerinin yapılmasına ilişkin olarak tebligatta belirtilen süre içinde, istenilen belgelerle birlikte Yönetim Hizmetleri Dairesi Başkanlığına müracaat etmeleri gereklidir.
+(3) Belge ile ispatı mümkün olan zorlayıcı sebepler olmaksızın belirtilen süreler içinde müracaat etmeyenlerin atama işlemleri yapılmaz. Bunlardan belge ile ispatı mümkün olan zorlayıcı sebepler nedeniyle göreve başlamama hali iki ayı aşanların atama işlemleri iptal edilir.
+(4) Giriş sınavını kazananlardan başvuru belgelerinde gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılarak atamaları yapılmaz. Ataması yapılanların ise atamaları iptal edilir.
