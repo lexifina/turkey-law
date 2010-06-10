@@ -1,0 +1,13 @@
+{
+  "number": "10-42/737-242",
+  "type": "Özelleştirme",
+  "decision_date": "2010-06-10",
+  "publication_date": "2010-09-13",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=d33cd9fb-f808-46cb-8f5d-d8e0724f8255",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=707",
+  "pdf_sha256": "5d1a5ecbb74e6a3467621eecbb78d415c4668365769546403ec583699f783e9c",
+  "pdf_bytes": "176286",
+  "pages": "7",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
