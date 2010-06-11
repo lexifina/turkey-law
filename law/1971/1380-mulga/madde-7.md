@@ -1,0 +1,2 @@
+Madde 7 – (22/3/1971 tarih ve 1380 sayılı Kanunun hükmüdür.)
+Genel, katma ve özel bütçeli idareler ile Devletin ve Kamu İktisadi Teşebbüslerinin hüküm ve tasarrufu altında bulunan istihsal yerlerine akar su bağlanması, buraların genişletilmesi, doldurulması, kurutulması, kısmen veya tamamen şeklinin değiştirilmesi gibi su ürünleri istihsaline tesir edebilecek teşebbüslerde önceden Tarım Bakanlığının mütalaası alınması lazımdır.

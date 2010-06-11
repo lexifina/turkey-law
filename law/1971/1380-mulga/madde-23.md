@@ -1,0 +1,2 @@
+Madde 23 (b) bendinin birinci fıkrası – (22/31971 tarihli ve 1380 sayılı Kanunun hükmüdür.)
+Sağlık, memleket ekonomisi, seyrüsefer, teknik, ilmi bakımlardan bölgeler, mevsimler, zamanlar, su ürünleri cinsleri, çeşitleri, ağırlık, irilik, büyüklük gibi vasıfları ve istihsali yasak olan su ürünlerinden arızi olarak istihsal olunanların deniz veya içsulara iadeleri veya bunlar için yapılacak sair muameleler yönetmelikle düzenlenir.
