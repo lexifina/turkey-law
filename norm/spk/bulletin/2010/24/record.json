@@ -1,0 +1,48 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2010/24",
+  "date": "2010-06-11",
+  "title": "SPK Haftalık Bülteni 2010/24",
+  "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_24.pdf",
+  "source_sha256": "96bb5976bb4e4ef95ac0f19b4fd43aa7a53ac3530282f9495bc519b6ec33b965",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. ÖZEL DURUMLAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 04.01.2010 – 11.06.2010 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_24.pdf"
+    },
+    {
+      "heading": "B. 07.06.2010 – 11.06.2010 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_24.pdf"
+    },
+    {
+      "heading": "C. 07.06.2010 – 11.06.2010 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_24.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_24.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
