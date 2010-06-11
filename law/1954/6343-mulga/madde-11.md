@@ -1,0 +1,7 @@
+6 – 11/6/2010 tarihli ve 5996 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:11, 27.)
+Madde 11 – fıkra iki – (9/3/1954 tarihli ve 6343 sayılı Kanunun hükmüdür.) Ancak; hayvan sağlık memurları ile hayvan sağlığı işlerinde ameli bilgi sahibi oldukları sabit olan kimseler, bu hususta hazırlanacak yönetmeliklerinde gösterilen esaslar dahilinde sanatlarını icra edebilirler.
+Madde 27 bent 7 - (3/4/1984 tarihli ve 2993 sayılı Kanunun hükmüdür.) Büyük Kongreye iştirak etmek üzere, elliye kadar üyesi olan odalardan iki, yüze kadar üyesi olan odalardan dört ve yüzden fazla üyesi olan odalardan da altı temsilci seçmek. (2)
+_____________
+(1) 24/4/2003 tarihli ve 4854 sayılı Kanunun 1 inci maddesiyle, 65 inci maddede yer alan "hekimler hakkında işledikleri suçun mahiyet ve ehemmiyetine göre 10 liradan 100 liraya kadar ağır para cezası hüküm olunur." ibaresi, "hekimlere üçyüzkırkyedimilyon lira idarî para cezası verilir."; 66 ncı maddede yer alan "edenler hakkında 100 liradan 500 liraya kadar ağır para cezası hüküm olunur." ibaresi, "edenlere altıyüzdoksandörtmilyon lira idarî para cezası verilir." olarak 6/5/2003 tarihinden geçerli olmak üzere değiştirilmiş ve metne işlenmiştir.
+(2) Bu bent, Anayasa Mahkemesi’nin 25/6/2009 tarihli ve E.: 2006/143, K.: 2009/98 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 7/10/2009 tarihinden başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.
+433

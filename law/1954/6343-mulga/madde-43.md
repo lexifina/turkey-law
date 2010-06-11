@@ -1,0 +1,3 @@
+Madde 43 – (9/3/1954 tarih ve 6343 sayılı Kanunun hükmüdür.)
+Geçici olarak meslek icrasından men kararına alakalı, kararın kendisine tebliği tarihinden itibaren 15 gün içinde Yüksek Haysiyet Divanına itirazda bulunmak hakkını haizdir. Alakalı itiraz etmemiş olsa dahi,bu kararın Yüksek Haysiyet Divanının tetkikine sunulmak üzere mahallin oda idare heyeti reisliğine imza mukabili tevdii şarttır ve oda idare heyeti reisliği en çok bir hafta içinde bu evrakı Yüksek Haysiyet Divanına göndermeye mecburdur.
+Oda haysiyet divanının meslekten men kararı ancak Yüksek Haysiyet Divanının, tasdikinden sonra tekemmül eder.
