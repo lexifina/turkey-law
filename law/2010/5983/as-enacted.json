@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5983",
+  "year": 2010,
+  "title": "Kooperatifler Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-06-13",
+  "gazette_issue": "27610",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-1.htm",
+  "source_sha256": "5fd0ecbd102e704960be0ad44b534f41ec33b774358a10f1bdfffd3dcd694628",
+  "text_sha256": "8227fdd812d5c8d35dfc3889732b6896971a688ed2ec86661b3318ead712f414",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/06/13/27610-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
