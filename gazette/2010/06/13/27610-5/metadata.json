@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-06-13",
+  "issue": "27610",
+  "edition": "regular",
+  "item": 5,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "5987 İslam Ülkeleri Standardlar ve Metroloji Enstitüsü (SMIIC) Tüzüğünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613.htm",
+  "index_sha256": "31a9459c1bb796c0e1e21452e176b70672be0dd9b6b64131caa021b06d4bb96b",
+  "index_header": "13 Haziran 2010 ... 27610 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
