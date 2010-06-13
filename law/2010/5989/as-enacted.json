@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5989",
+  "year": 2010,
+  "title": "Türk Dili Konuşan Ülkeler İşbirliği Konseyinin Kurulmasına Dair Nahçıvan Anlaşmasının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-06-13",
+  "gazette_issue": "27610",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-7.htm",
+  "source_sha256": "76686f113b6cccb13f5ba1be613e12d131c00d28a1b92497aef04fbebc95a5db",
+  "text_sha256": "0ebb0da45c602ec2f0061f2e90cedc15bfed732e6817acca291b34a5d7603c62",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/06/13/27610-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
