@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5993",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sırbistan Cumhuriyeti Hükümeti Arasında Altyapı Projelerinde İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-06-13",
+  "gazette_issue": "27610",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-11.htm",
+  "source_sha256": "2fb7dcad637add86aa8bbae64719bee7e8ece915abd1d9d45ea7c1d5381f6530",
+  "text_sha256": "bcc3285ef6b349bc9966eb03df35cc44980efc36630d0a2f303c04124fa299e3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/06/13/27610-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
