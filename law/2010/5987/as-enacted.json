@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5987",
+  "year": 2010,
+  "title": "İslam Ülkeleri Standardlar ve Metroloji Enstitüsü (SMIIC) Tüzüğünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-06-13",
+  "gazette_issue": "27610",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-5.htm",
+  "source_sha256": "19fdf93c561574b6b3410d8700211597d26b80ffb2343e808840a4436ac9d853",
+  "text_sha256": "e23069fcf3007952e2fb2e2ace26aa6673d1a738c6a70a10852ece7949d9d248",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/06/13/27610-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
