@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5988",
+  "year": 2010,
+  "title": "Milletlerarası İmar ve Kalkınma Bankasının Ana Sözleşmesinde Değişikliğin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-06-13",
+  "gazette_issue": "27610",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-6.htm",
+  "source_sha256": "75a9da1c492ec9549a64ea5855bf56fb5b68d63d70211d03dd9da4c99e016258",
+  "text_sha256": "7497eb12198c700b122e93ce3dff9d15b18a4f56c67f8672b923128b7412b6c7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/06/13/27610-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
