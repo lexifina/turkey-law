@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5991",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti ile Bosna ve Hersek Arasındaki Serbest Ticaret Anlaşmasının Değiştirilmesi Hakkında Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-06-13",
+  "gazette_issue": "27610",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-9.htm",
+  "source_sha256": "05fcddcd98e2c03a9349f50c0a2fe7e319506ee1f63d1f6317811f2a58679ae1",
+  "text_sha256": "e6846ee8fb84458d87680339c801fd7005a45ac37a255fb848b4ce0eeb425f71",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/06/13/27610-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100613-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
