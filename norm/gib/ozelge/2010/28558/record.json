@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-DMG-1280-433",
+  "source_id": 28558,
+  "date": "2010-06-14",
+  "title": "Nev'i değişikliği işlemi nedeniyle düzenlenen kağıdın damga vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/28558",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "3ded1cd24c3f20b4d56881b86229cdbbfe395f45f32745f2392b42794dcd2e87",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
