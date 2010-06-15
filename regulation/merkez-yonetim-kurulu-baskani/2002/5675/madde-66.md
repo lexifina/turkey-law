@@ -1,0 +1,2 @@
+Ölüm Yardımı
+Madde 66- Tam-gün esasına göre sürekli çalışan görevlilerden birinin ölümü halinde eş ve çocuklarına, bunlar yok ise ana ve babasına, görevlinin eş ve çocuklarının bakmakla mükellef olduğu ana-babasının her birinin ölümü halinde ise görevliye, belgelendirilmek koşulu ile benzer kamu kuruluşlarındaki ödemeler düzeyinde olmak üzere Yönetim Kurulu’nca her yıl saptanacak miktarda ölüm yardımı yapılır.

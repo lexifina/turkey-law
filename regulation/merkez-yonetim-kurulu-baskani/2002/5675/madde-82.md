@@ -1,0 +1,2 @@
+Sicil Raporlarının İlgiliye Duyurulması
+Madde 82- 80 inci madde uyarınca düzenlenecek sicil raporlarının düzenlenme biçimi, değerlendirilmesi ve ilgiliye duyurulması hususları Devlet Memurları Sicil Yönetmeliği doğrultusunda olmak üzere Yönetim Kurulunca hazırlanacak bir yönerge ile yürütülür. Personelin performans değerlendirmesi “MPM Görevlilerinin Derece Yükselmeleri İle Kıdem ve Başarı Değerlendirmeleri Hakkında Yönerge” uyarınca yapılır.

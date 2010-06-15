@@ -1,0 +1,6 @@
+Başka Bir Göreve Vekalet
+Madde 54- Merkez personeline aşağıdaki hallerde vekalet görevi verilebilir.
+a) Genel Sekreter, Genel Sekreter Yardımcısı ile mali, nakdi ve ayni sorumluluğu bulunan Mali İşler Bölüm Başkanı, Mali İşler Bölüm Şefi ve Bölge Müdürleri ile diğer Bölüm Başkanlarının çekilmesi, görevden uzaklaştırılması, geçici görev ve hastalık gibi 45 günü aşan bir süre içinde görevden ayrılması halinde yerlerine aynı veya alt derecedeki bir personele vekalet ücreti verilmek sureti ile altı aylık süre için Yönetim Kurulu Kararı ile atama yapılabilir. Ancak; bir kanun hükmü veya hükümet tasarrufu yahut Yönetim Kurulu’nca kabul edilecek başka bir mazeret sebebi ile yukarıda sayılan Makamların altı aydan fazla süre ile boş kalması halinde Yönetim Kurulu bu vekaleti gerektiği kadar uzatabilir.
+b) Bu gibi kadrolara vekalet edenlere, vekalet edilen görevin kadro ücretini geçmemek üzere Yönetim Kurulu’nca takdir edilecek vekalet ücreti ödenir. Bu bent gereğince yapılacak ödeme, vekalet görevinin fiilen başladığı tarihe itibar edilerek yapılır.
+c) Bir kimse birden fazla göreve vekalet edemez.
+d) (a) bendinde belirtilenler dışındaki görevlere vekalet edenlere herhangi bir ücret ödenmez.

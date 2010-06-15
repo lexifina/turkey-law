@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.5675",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ PRODÜKTİVİTE MERKEZİ PERSONEL YÖNETMELİĞİ",
+  "number": "5675",
+  "issuer": "Merkez Yönetim Kurulu Başkanı",
+  "issuer_slug": "merkez-yonetim-kurulu-baskani",
+  "path": "regulation/merkez-yonetim-kurulu-baskani/2002/5675",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5675&MevzuatTertip=5",
+  "source_sha256": "09b43f56f1387282b764573951c71d5a2d42f1d699eb27d75d00322acc8ad38a",
+  "source_bytes": 128250,
+  "published": "2002-12-31",
+  "gazette": "24980",
+  "in_force": "2010-06-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/6/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-06-15",
+      "RG-15/6/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-05-31",
+      "R.G.31/5/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-12-19",
+      "RG-19/12/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-12-19",
+      "R.G-19/12/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-08-24",
+      "RG-24/08/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2003-07-31",
+      "RG-31/07/2003",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2003-07-31",
+      "RG 31/7/2003",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6647,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
