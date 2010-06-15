@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/381",
+  "list_number": "381",
+  "decision_date": "2010-06-15",
+  "title": "12 Eylül 2010 Pazar günü yapılacak olan Anayasa Değişikliklerinin Halkoyuna Sunulmasında Sandık Kurullarının Görev ve Yetkilerini Gösterir Örnek: 135/1 genelgenin kabulüne ilişkin Yüksek Seçim Kurulu'nun 2010/381 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2919/2010-381.pdf",
+  "source_sha256": "75cf796a5faee2b5adb17ce65a04f208458cb6c898e62ff3737e102a9577071d",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 19,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-06-15",
+  "law_text_complete": false
+}
