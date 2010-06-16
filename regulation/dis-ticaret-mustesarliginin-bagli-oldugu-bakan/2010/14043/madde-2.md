@@ -1,0 +1,1 @@
+MADDE 2 – Sair mevzuat ile İthalatta Kota ve Tarife Kontenjanı İdaresi Yönetmeliğine yapılmış olan atıflar 14/4/2010 tarihli ve 2010/339 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Kota ve Tarife Kontenjanı İdaresi Hakkında Karara yapılmış sayılır.
