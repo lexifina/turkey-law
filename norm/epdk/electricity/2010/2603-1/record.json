@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2603/1",
+  "decision_date": "2010-06-17",
+  "title": "TEİAŞ tarafından önerilen primer frekans kontrol birim hizmet bedelinin 2010 yılı 3. çeyreğine ilişkin kurul kararı",
+  "categories": [
+    "Yan Hizmetlere İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cinWAa3PDGE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cinWAa3PDGE="
+  ],
+  "source_sha256": "7199b9ce646550b714082cf87956bd4305e5021b220addf6d9a0c4330686929a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33874,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-06-17",
+  "law_text_complete": false
+}
