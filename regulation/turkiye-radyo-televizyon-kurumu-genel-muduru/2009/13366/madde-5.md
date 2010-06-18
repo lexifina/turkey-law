@@ -1,0 +1,10 @@
+Uygulama esasları
+MADDE 5 – (1) Reklâm yayınlarında uygulanacak esaslar şunlardır:
+a) Kurum, gerektiğinde reklâm kabul etmeyebilir. Kabul ettiği reklâmın yayınını durdurabilir veya yayından kaldırabilir. Bu hallerde durumu gerekçeleriyle birlikte müşteriye bildirir.
+b) Kurum, reklâm sürelerinin bir bölümünü ya da tamamını Türkiye Radyo-Televizyon Kurumu Satış Yönetmeliği’ndeki usul ve esaslar uygulanmak suretiyle satabilir.
+c) Reklâmların biçimi ve sunuluşu ile yerleştirilmesi 3984 sayılı Kanunun 20 ve 21 inci maddelerindeki düzenleme dikkate alınmak suretiyle yapılır.
+ç) Reklâmlar, diğer yayınlardan açıkça ve kolaylıkla ayırt edilecek şekilde, başında ve sonunda yazılı, sesli veya görüntülü olarak anons ya da jenerik kullanılmak suretiyle yayınlanır.
+d) Reklâmlarda marka tescili, patent ve telif haklarıyla ilgili belgelerin temini ve bunlardan doğacak sorumluluklar müşteriye aittir.
+e) Reklâmlarda garanti, teminat veya aynı anlamı taşıyan başka sözler kullanıldığı takdirde, bu hususlarla ilgili belgelerin ibrazı şarttır.
+f) (Danıştay Onuncu Dairesinin 2/5/2013 tarihli ve E.:2009/11955; K.:2013/3966; sayılı kararı ile iptal ibare; Danıştay İDDK’nın 16/3/2017 tarihli E.:2014/451, K.:2017/1251 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.) (Danıştay Onuncu Dairesinin 13/10/2022 tarihli ve E.:2019/11877; K.:2022/4472 sayılı kararı ile iptal ibare; Danıştay İDDK’nın 18/5/2023 tarihli E.:2023/453, K.:2023/1059 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.) ilaçlar, alkollü içkiler, sigara ve tütünler, yapımı, sağlığı koruma standartlarına uymayan gıda maddeleri, eş bulma veya mektuplaşma kuruluşlarının hizmetleri ile benzeri ürün ve hizmetlerin reklâmı kabul edilemez.
+g) Özel eğitim ve öğretim kurumlarının yaptıkları eğitim ve öğretimle ilgili olarak bu kurumların adını, adresini, ücretini, konusunu, programını, kurs ve öğretim devrelerini belirten reklâmlar yalnız radyo yayınlarında yer alabilir. Televizyon da ise kurum adı verilmeden kitap, dergi ve basılı yayınlarının reklâmları yapılabilir.
