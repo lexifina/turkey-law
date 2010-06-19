@@ -1,0 +1,4 @@
+Madde 27 – (22/9/1941 tarih ve 4112 sayılı Kanunun hükmüdür.)
+Tahrire tabi nakil vasıtalarının başkalarına satılması veya herhangi bir sebeple elden çıkarılması halinde on gün içinde sahipleri kasabalarda Milli Müdafaa Mükellefiyetleri Komisyonlarına ve köylerde ihtiyar heyetlerine ve aynı zamanda belediye teşkilatı olan yerlerde lağvedilen muhtar ve ihtiyar heyetleri vazifelerinin hangi dairelerce ifa edileceğinden bahis 14/12/1933 tarihli nizamnamenin altıncı maddesinde yazılı belediye memurlarına bildirmeğe ve alanlar da kasabalarında veya köylerinde aynı makamlara yazdırmağa borçludurlar. Bu sonuncular daha evvel diğer bir mahalde elden çıkarmışlarsa o mahaldeki salahiyetli makamlara yazdırırlar.
+256
+Köy ihtiyar heyetleri ve yukarıda bahsolunan belediye memurları hazarda tahrir işlerinin ve seferde Milli Müdafaaa Mükellefiyeti işlerinin vaktinde ve doğru olarak yapılmasını takip etmeğe ve kanunun dışında hareket edenleri komisyonlara haber vermeğe mecburdurlar.

@@ -1,0 +1,2 @@
+Madde 68 – fıkra bir- (26/11/1941 tarihli ve 4130 sayılı Kanunun hükmüdür.)
+Kanunun birinci maddesinde yazılı hallerde milli müdafaa mükellefiyetine tabi tutulduğu sahiplerine tebliğ edilen her türlü nakil ve cer vasıtalarını, kabul edilebilir bir sebebe dayanmıyarak milli müdafaa mükellefiyeti komisyonunun tayin ettiği müddet zarfında bildirdiği yerde bulundurmıyanlar mükellefiyete tabi tutulan nakil vasıtasının kıymetine göre beş liradan beş yüz liraya kadar ağır para cezasiyle cezalandırılırlar.

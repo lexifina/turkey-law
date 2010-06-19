@@ -1,0 +1,2 @@
+Madde 17 – (7/6/1939 tarih ve 3634 sayılı Kanunun hükmüdür.)
+Askeri kıtaların iskan edildikleri veya konakladıkları binalarda sebep oldukları bütün zararlardan Devlet mesuldür. Sonradan ihtilal mucip olmamak için mümkün olan hallerdebinaların ne halde olduklarının, kullanılmak üzere bırakılmış eşya mevcut ise hal ve vasıflarının işgal eden kıtadan bir subay ile mal sahipleri veya mümesilleri tarafından işgalden evvel imza edilecek zabıt varakasiyle tesbiti mecburidir. Bunun bir sureti komisyona, diğer bir sureti alakalı şahsa verilir.
