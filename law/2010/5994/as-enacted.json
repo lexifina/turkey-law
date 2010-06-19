@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5994",
+  "year": 2010,
+  "title": "Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin Eki Cetvellerin Dış Ticaret Müsteşarlığına Ait Bölümünde Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-06-19",
+  "gazette_issue": "27616",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100619-1.htm",
+  "source_sha256": "26a78425c2d5395f19d2ebc91452596c606aa9c54034b4fcd51eef49fd32bac4",
+  "text_sha256": "fdd0db0bec28c24d15f0155e55ab3f9d565dcd3b31bcfb6564614be1722ac53a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/06/19/27616-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100619-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
