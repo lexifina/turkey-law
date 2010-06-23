@@ -1,0 +1,3 @@
+Müdür
+MADDE 7 – (1) Müdür; Üniversitenin Ziraat Fakültesi zootekni bölümünde tam zamanlı olarak görev yapan öğretim üyeleri arasından, bölümün akademik kurulunun önerisiyle üç yıl süreyle Rektör tarafından görevlendirilir. Görev süresi dolan Müdür tekrar görevlendirilebilir. Müdürün kesintisiz olarak altı aydan fazla görevi başında bulunmaması durumunda yeni bir Müdür görevlendirilir.
+(2) Müdür, Merkezin tam zamanlı öğretim elemanları arasından iki kişiyi müdür yardımcısı olarak görevlendirir ve Rektöre bilgi verir. Müdürün görevi başında bulunmadığı zamanlarda, müdür yardımcılarından biri yerine vekâlet eder. Vekâlet süresi altı ayı geçemez. Müdürün görev süresi sona erdiğinde müdür yardımcılarının da görevleri sona erer.
