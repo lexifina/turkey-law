@@ -1,0 +1,4 @@
+Yönetim kurulu
+MADDE 11 – (1) Yönetim Kurulu; Müdür, müdür yardımcıları ve Danışma Kurulunun önerisi üzerine üç yıl için Rektör tarafından görevlendirilen coğrafya, matematik, fizik, kimya, biyoloji, tarih, Türk dili, sosyoloji, psikoloji, resim, müzik, spor alanındaki öğretim üyesi ile bir özel eğitim uzmanından oluşur. Yönetim Kurulu en fazla onaltı üyeden oluşur. Görev süresi biten üyeler yeniden görevlendirilebilir. Süresi bitmeden üyelikten ayrılan üyelerin yerine, kalan süreyi doldurmak üzere aynı yöntemle yeniden görevlendirme yapılır.
+(2) Yönetim Kuruluna Müdür başkanlık eder.
+(3) Yönetim Kurulu en az ayda bir defa olağan, gerektiğinde olağanüstü olarak Müdür tarafından toplantıya çağrılır. Yönetim Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır, oyların eşitliği halinde Müdürün oyu yönünde çoğunluk sağlanmış sayılır.

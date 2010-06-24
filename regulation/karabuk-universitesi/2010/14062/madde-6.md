@@ -1,0 +1,23 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Türkiye’de üstün yetenekli bireylere eğitim veren kurum ve kuruluşlarda, okul öncesi, ilköğretim ve ortaöğretim kurumlarında görev yapan öğretmenlere üstün yeteneklilerin eğitimi konusunda düzenlenecek programlar kapsamında eğitim vermek,
+b) Türkiye ile diğer ülkeler arasında uluslararası düzeyde üstün yetenekli bireyler için bilim ve doğa kampları, yaz ve kış bilim okullarında etkinlikler, liderlik programları ve diğer toplantıları düzenlemek,
+c) Üstün yeteneklilik konusunda uzmanların katılımıyla ulusal veya uluslararası kongre, panel, seminer, çalıştay, konferans ve benzeri bilimsel faaliyetler düzenlemek,
+ç) Üstün yeteneklilerin eğitimi ile ilgili uluslararası kuruluşlarla işbirliği yapmak ve uluslararası projelere katılmak,
+d) Üstün yeteneklilerin eğitimlerine yönelik bilimsel nitelikteki çalışmaları yakından takip ederek bilimsel dergi ve haber bülteni çıkarmak,
+e) Üniversitenin Eğitim Fakültesi bünyesinde ilgili bölüm ve anabilim dalının açılması ve geliştirilmesi hususundaki çalışmalara destek vermek,
+f) Türkiye’nin bilim politikasına katkıda bulunmak için ilgili kamu kurum ve kuruluşları başta olmak üzere üstün yetenekli bireylerle ilgili çalışmalar yürüten sivil toplum kuruluşları ile ortak çalışmalar, ulusal ve uluslar arası projeler planlamak ve uygulamak,
+g) Üstün yetenekli bireylerin, Üniversite öğretim elemanlarının vermiş olduğu kurumsal ve uygulamalı derslere katılması için ortam hazırlamak ve yaz dönemlerinde üniversitelerde staj yapma fırsatı oluşturmak,
+ğ) Üniversitedeki akademisyenler ile ilgili eğitim kurumlarının birlikte çalışacakları projeleri oluşturmak ve gerçekleştirmek,
+h) Üstün yetenekli bireylerin yetenekleri doğrultusunda bilimsel çalışmalar yapmalarını sağlayacak imkânlar oluşturarak, özellikle disiplinler arası çalışmalardaki kazanımlarla sorunları çözmeye ya da ihtiyacı karşılamaya yönelik çeşitli projeler gerçekleştirmelerine fırsat hazırlamak ve sunmak,
+ı) Üstün yetenekli bireylere uluslararası platformlarda kendilerini geliştirmelerine yardımcı olacak dil kursları düzenlemek,
+i) Üstün yetenekli bireylerin üretken ve sorun çözen bireyler olarak yetişmelerine imkân sağlamak üzere zenginleştirilmiş, farklılaştırılmış ve bireyselleştirilmiş eğitim programları düzenlemek,
+j) Üstün yetenekli bireylere yetenek alanlarının geliştirilmesinin yanında, sosyal ve duygusal gelişimlerini bir bütünlük içerisinde ele alacak ortamlar hazırlamak ve sunmak,
+k) Üstün yetenekli bireylere sahip aileleri destekleyici, güvenlerini artırıcı, çevre ile uyumlu, kendisi ile barışık olma bilinci kazandırmak ve bu ailelere psikolojik ve sosyolojik bakımdan destek olacak eğitim programları oluşturmak,
+l) Üstün yetenekli bireylere özgü öğrenme modelleri geliştirerek bunları yayınlamak ve uygulanmasına katkıda bulunmak,
+m) Karabük İlinde ve yurt genelinde eğitime alınmayan üstün yetenekli bireylerin takibini yapmak ve onları eğitim kampları ve benzeri organizasyonlarla hayata hazırlamak,
+n) Üstün yeteneklileri, gerektiğinde burs ve kredi alabileceği kurum ve kuruluşlarla bir araya getirmek, yeteneklerine göre onlara bilimsel çalışma ortamı hazırlamak,
+o) Örgün eğitim dışında kalan üstün yetenekli bireylerin, iş alanlarındaki ihtiyaca yönelik olarak teknik buluş ve araçlar geliştirebilmelerine imkân sağlamak ve bu konuda desteklemek,
+ö) Örgün eğitim içindeki ve dışındaki üstün yetenekli bireylerden maddi sıkıntısı olanlara imkânlar ölçüsünde burs ve/veya yardım temin etmek,
+p) Üstün yetenekli bireylerin yeteneklerini tespit edici çalışmaları ve rehberlik faaliyetlerini desteklemek,
+r) Üstün yeteneklilerin tanılanmasına yönelik araç ve yöntemleri ile ilgili geliştirme, uygulama ve değerlendirme çalışmalarını koordine etmek ve desteklemek.
