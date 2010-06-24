@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-DMG-1255-458",
+  "source_id": 21495,
+  "date": "2010-06-24",
+  "title": "Site yönetimi tarafından yönetim ve denetim kurulu üyelerine ödenecek huzur hakkı, kapıcı ücreti ve serbest meslek ödemelerinin gelir vergisi ve damga vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/21495",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "449bf38f29fe2b327a39e3211ddfd181c5fd83c9997d42301051c2980cfc1b1b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
