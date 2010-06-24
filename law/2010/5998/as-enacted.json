@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5998",
+  "year": 2010,
+  "title": "Belediye Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-06-24",
+  "gazette_issue": "27621",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100624-2.htm",
+  "source_sha256": "f7196aa8c51a1e846b48b1cd12d10254a5ba017d616ff94ef6f52bf41e23ea51",
+  "text_sha256": "be9e4b4d7380a0e4ec83cef1d2b741417007fd29b973cf35ff52b5d4ea31fd8a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/06/24/27621-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100624-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
