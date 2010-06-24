@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5995",
+  "year": 2010,
+  "title": "Maden Kanununda ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-06-24",
+  "gazette_issue": "27621",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100624-1.htm",
+  "source_sha256": "bb94b6eab25a59d4d3b355e5abda75c8753e15089073b57bba1a33760c5be1de",
+  "text_sha256": "7bedd444e2bbe4d9b3c6f14e607ceb09f9c71bb4cd2208e216a229456c03ecda",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/06/24/27621-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100624-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
