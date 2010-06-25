@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.12320",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜTÜN MAMULLERİ VE ALKOLLÜ İÇKİLERDE BANDROL DENETİMİ ESASLARINA İLİŞKİN GENEL TEBLİĞİ SERİ NO: 1",
+  "number": "12320",
+  "path": "teblig/2008/12320",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12320&MevzuatTertip=5",
+  "source_sha256": "a80190e4c3c16fc593f7b930814d6a9be02a396094a35e09be4b6b1dfc3a5299",
+  "source_bytes": 43697,
+  "published": "2008-08-08",
+  "gazette": "26961",
+  "in_force": "2010-06-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/6/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-06-25",
+      "RG-25/6/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1814,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
