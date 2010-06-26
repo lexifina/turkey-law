@@ -1,0 +1,40 @@
+{
+  "source_id": "7.5.8221",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ MİMARLAR ODASI SERBEST MİMARLIK HİZMETLERİNİ UYGULAMA, TESCİL VE MESLEKİ DENETİM YÖNETMELİĞİ",
+  "number": "8221",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Mimarlar Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-mimarlar-odasi-yonetim-kurulu",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-mimarlar-odasi-yonetim-kurulu/2005/8221",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8221&MevzuatTertip=5",
+  "source_sha256": "e0109c8a84c1530c8e65e1a139d242f28265177d6bc8d8cd326160ce5526c571",
+  "source_bytes": 77418,
+  "published": "2005-06-02",
+  "gazette": "25833",
+  "in_force": "2010-06-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/6/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-06-26",
+      "RG-26/6/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-02-06",
+      "RG-6/2/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4650,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
