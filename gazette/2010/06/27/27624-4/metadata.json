@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-06-27",
+  "issue": "27624",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türk Silahlı Kuvvetleri Besleme Kanunu Temizlik Maddeleri Kullanım Esasları ve Usullerine Dair Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100627-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/06/20100627.htm",
+  "index_sha256": "37b886fe1a186f40ea999d0c31329f3d95c4f8837493920fc34d6992125025f0",
+  "index_header": "27 Haziran 2010 ... 27624 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
