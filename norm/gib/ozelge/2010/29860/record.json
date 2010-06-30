@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-KDV-2010/10-32",
+  "source_id": 29860,
+  "date": "2010-06-30",
+  "title": "SEDAŞ'a trafo tesliminde iz bedel üzerinden KDV hesaplanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29860",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "cdfcb3596f8286b063a3b4c84e838280d8f59ada571e180a9027c9fad2f231da",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
