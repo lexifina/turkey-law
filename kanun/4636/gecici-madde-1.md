@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 1 – A) Bakanlığa ait gayrimenkuller üzerinde Şirket tarafından inşa edilen ve ekonomik ömrünü tamamlamış bulunan Etimesgut deposu, bedelsiz olarak Bakanlığa devredilir.
+B) Bakanlık tarafından yapılan Merzifon tesislerinin kurulu bulunduğu 15.970 metrekare arsa, maliki olan Şirket tarafından rayiç değeri üzerinden bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay içinde Bakanlığa devredilir.

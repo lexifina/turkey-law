@@ -3,3 +3,4 @@ MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜ
 GÖSTERİR LİSTE
 Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4566 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 5758 | 32, 33 | 9/5/2008
+6000 | Geçici Madde 3 | 30/6/2010
