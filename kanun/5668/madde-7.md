@@ -10,4 +10,5 @@ f) Birlik komutanlığı tarafından askerî personele görev yaptıkları yerle
 g) Birlik veya kurumun nöbetçi personeli.
 ğ) Yurt dışında görev yapan ve besleme desteğini bünyesinde bulunduran askerî birlik personeli (Bu birliklerin yiyecek maddelerini bulundukları ülkeden karşılamaları durumunda, günlük yemek bedeli, satın alma fiyatlarına göre hesaplanır.).
 h) Eğitim ve öğrenimleri süresince askerî okullarda öğrenci olan ön sözleşmeli subay ve astsubaylar.
+ı) (Ek: 19/6/2010-6000/45 md.) Doğal afet durumlarında görev alan personel.
 10126
