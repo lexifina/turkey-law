@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-KVK-10-22",
+  "source_id": 37543,
+  "date": "2010-07-01",
+  "title": "Ar-Ge projesi kapsamında yapılan harcama listelerinin onayı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/485/ozelge/37543",
+  "related_law": "5746 sayılı ARAŞTIRMA, GELİŞTİRME VE TASARIM FAALİYETLERİNİN DESTEKLENMESİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "9d95e56cd5dd2c66b4d0acbb31bd7dc840cf22aa29cfa2befd2ab734c043dbde",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
