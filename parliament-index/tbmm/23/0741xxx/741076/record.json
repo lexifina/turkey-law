@@ -1,0 +1,80 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 741076,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Dışişleri Bakanlığının Kuruluş ve Görevleri Hakkında (1/892) (S. Sayısı: 524)",
+  "title": "Dışişleri Bakanlığının Kuruluş ve Görevleri Hakkında (1/892) (S. Sayısı: 524)",
+  "first_sitting_date": "2010-07-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 74,
+      "sitting": 127,
+      "sitting_date": "2010-07-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c074/tbmm23074127.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c074/tbmm23074fih.pdf",
+      "pages": [
+        "92:120",
+        "122:131",
+        "131:143"
+      ]
+    },
+    {
+      "cilt": 74,
+      "sitting": 128,
+      "sitting_date": "2010-07-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c074/tbmm23074128.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c074/tbmm23074fih.pdf",
+      "pages": [
+        "242:274"
+      ]
+    },
+    {
+      "cilt": 74,
+      "sitting": 129,
+      "sitting_date": "2010-07-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c074/tbmm23074129.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c074/tbmm23074fih.pdf",
+      "pages": [
+        "452:471",
+        "472:474",
+        "474:477",
+        "478:507"
+      ]
+    },
+    {
+      "cilt": 74,
+      "sitting": 130,
+      "sitting_date": "2010-07-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c074/tbmm23074130.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c074/tbmm23074fih.pdf",
+      "pages": [
+        "743:746",
+        "748:752",
+        "753:770",
+        "773:781",
+        "783:793",
+        "794:803",
+        "804:816",
+        "829:838"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=141&v_gelecek_sayfa=101&v_kullanici_id=27484632",
+  "source_sha256": "6047876f8aa51e5d627df20e817f678d35aba46fd7bd03c38d713cfa86411b18",
+  "in_force": "2010-07-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
