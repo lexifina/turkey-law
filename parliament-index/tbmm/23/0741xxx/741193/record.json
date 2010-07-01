@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 741193,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MEHMET SERDAROĞLU (KASTAMONU)",
+  "summary": "SERDAROĞLU Mehmet (Kastamonu) 657 Sayılı Devlet Memurları Kanununa Bir Madde Eklenmesi Hakkında Kanun Teklifi; 633 Sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun Bazı Maddelerinin Değiştirilmesi Hakkında Kanun Hükmünde Kararname ve Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Tasarısı (2/443, 1/833, 1/162) (S. Sayısı: 507)",
+  "title": "SERDAROĞLU Mehmet (Kastamonu) 657 Sayılı Devlet Memurları Kanununa Bir Madde Eklenmesi Hakkında Kanun Teklifi; 633 Sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun Bazı Maddelerinin Değiştirilmesi Hakkında Kanun Hükmünde Kararname ve Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Tasarısı (2/443, 1/833, 1/162) (S. Sayısı: 507)",
+  "first_sitting_date": "2010-07-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 74,
+      "sitting": 127,
+      "sitting_date": "2010-07-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c074/tbmm23074127.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c074/tbmm23074fih.pdf",
+      "pages": [
+        "64:75",
+        "76:91",
+        "146:155"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9778ad3e006ed014ada40672e8018c4ef424a514aeeae1bfe4415432bf50a80a",
+  "in_force": "2010-07-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
