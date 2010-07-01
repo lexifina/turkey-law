@@ -1,0 +1,5 @@
+İşletmeye kabul sertifikası onay işlemleri
+MADDE 14 – (1) Tanıtım dosyasında bulunan belgelerin uygun bulunması halinde, işletmeye kabulü talep edilen yük vagonunun yapım tipi kabul sertifikasına uygunluğu kontrol edilir. Kontrol sonucu uygun bulunmaz ise işletmeye kabul sertifikası verilmez.
+(2) Kontrol sonucu uygun bulunması hâlinde TCDD, Yol – Seyir – Fren testlerinin yapılabilmesi için gerekli çalışmalar ile testlerin yapılacağı güzergâh, tarih ve testlerde görev alacak teknik heyeti belirler. 100 Kilometrelik mesafede en fazla on adet vagondan oluşan tecrübe treninde iki adet vagon dolu olmak kaydıyla, testin yapılacağı tarih ve güzergâh imalatçıya bildirilerek, başvuru sahibinin gözlemci olarak katılması istenir. Test sonucu heyet tarafından hazırlanan raporla tespit edilir.
+(3) Yol-seyir-fren tecrübe sonucu uygun bulunduktan sonra vagon numarası ile işletmeye kabul sertifikası verilir.
+(4) İşletmeye kabul sertifikası TCDD hatlarında doğrudan taşıma yapma hakkı vermez. İşletmeye kabul sertifikası olan vagonlarla taşıma yapılabilmesi için, TCDD’nin ilgili mevzuatına uygun olarak ayrıca sözleşme yapılması gerekir.
