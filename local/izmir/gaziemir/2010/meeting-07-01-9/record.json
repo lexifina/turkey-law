@@ -1,0 +1,24 @@
+{
+  "number": "meeting-07-01-9",
+  "number_as_published": "meeting-07-01-9",
+  "year": 2010,
+  "title": "GAZİEMİR BELEDİYE MECLİSİ 01.07.2010 KARAR . NEVVAL SALİH İŞGÖREN DEV.HAS.",
+  "decision_date": "2010-07-01",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=75",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/8fef47707ce9cf9c4df154f65823eb9f0cbad1059ba80594a468c7a8b7c11ba3.doc",
+  "source_sha256": "e79f3e0b6b2f1538e9c8f58a3d9842e3b08a2ad845bae9b18ec73991a72bc846",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2010-07-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.07.2010; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "GAZİEMİR BELEDİYE MECLİSİ 01.07.2010 KARAR . NEVVAL SALİH İŞGÖREN DEV.HAS.",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "30.07.2010"
+}
