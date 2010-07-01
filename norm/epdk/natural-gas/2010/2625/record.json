@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2625",
+  "decision_date": "2010-07-01",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 01/07/2010 tarihli toplantısında; 15/04/2010 tarih ve 27553 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 01/04/2010 tarih ve 2498 sayılı Kurul Kararı değiştirilmiştir.",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8N7ae8Nl+yM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8N7ae8Nl+yM="
+  ],
+  "source_sha256": "e8d3ae873334623aba533115267525a128297c98230c170b8ad3482d6ae1f7f7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-07-01",
+  "law_text_complete": false
+}
