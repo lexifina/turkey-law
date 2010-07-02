@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.14072",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 398)",
+  "number": "14072",
+  "path": "teblig/2010/14072",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14072&MevzuatTertip=5",
+  "source_sha256": "5d5af425b8c3b3ec91396fa5b1959b645a04ed25078b1edfc6a4e2808334641f",
+  "source_bytes": 12587,
+  "published": "2010-07-02",
+  "gazette": "27629",
+  "in_force": "2010-07-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.07.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 610,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
