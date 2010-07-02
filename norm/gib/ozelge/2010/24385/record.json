@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-GVK-89-5-467",
+  "source_id": 24385,
+  "date": "2010-07-02",
+  "title": "Bireysel emeklilik sistemine ödenen katkı payının yıllık beyannameden indirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24385",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "4f0096fe7c98e3ccb9e17f2cbde3068dc7863d26b52448c6ab5747bcda4b4937",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
