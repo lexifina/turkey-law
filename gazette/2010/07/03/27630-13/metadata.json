@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-07-03",
+  "issue": "27630",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2010/533 Türkiye Cumhuriyeti Hükümeti ile Ukrayna Bakanlar Kurulu Arasında İmzalanan “Kanun Uygulayıcı Birimlerin İşbirliği Anlaşması”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100703-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100703.htm",
+  "index_sha256": "cd6385691fc57af5ec367729609987b7f22fe7c092730432aca0e1f5d8863060",
+  "index_header": "3 Temmuz 2010 ... 27630 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
