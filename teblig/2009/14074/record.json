@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.14074",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TARIM VE KÖYİŞLERİ BAKANLIĞI’NIN DENETİMİNE TABİ ÜRÜNLERİN İTHALATINA DAİR DIŞ TİCARETTE STANDARDİZASYON TEBLİĞİ (Tebliğ No: (2010/5)",
+  "number": "14074",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2009/14074",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14074&MevzuatTertip=5",
+  "source_sha256": "4675fee77b8b11c55c8e3690e6e4fde1945efe8e752bebf1feb1b8445cec962b",
+  "source_bytes": 941337,
+  "published": "2009-12-31",
+  "gazette": "27449 (2.mükerrer)",
+  "in_force": "2010-07-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/7/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-07-03",
+      "RG-3/7/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 01/01/2010 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11671,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "file:///F:\\2009-5\\2009-5-değişik\\2009-5-ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
