@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür (başhekim); Üniversitede tam zamanlı statüde çalışan Tıp Fakültesindeki öğretim üyeleri arasından, Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir veya süresinden önce aynı usulle görevine son verilebilir.
+(2) Müdür; kendisine çalışmalarında yardımcı olmak üzere Tıp Fakültesinde tam zamanlı statüde çalışan öğretim üyeleri arasından en çok beş öğretim üyesini Müdür yardımcısı (başhekim yardımcısı) olarak görevlendirilmek üzere Rektörün onayına sunar. Müdürün bulunmadığı zamanlarda yardımcılarından biri Rektörün onayı ile kendisine vekalet eder. Müdür yardımcılarının süresi, Müdürün görev süresi bittiğinde sona erer.
