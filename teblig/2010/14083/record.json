@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.14083",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 399)",
+  "number": "14083",
+  "path": "teblig/2010/14083",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14083&MevzuatTertip=5",
+  "source_sha256": "55739c78e376551d89ab226f9f8f9da94b00924c61d66a26e72d8143608c63a9",
+  "source_bytes": 22144,
+  "published": "2010-07-08",
+  "gazette": "27635",
+  "in_force": "2010-07-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.07.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 841,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14083-ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
