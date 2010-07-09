@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-07-09",
+  "issue": "27636",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2010/653 Türkiye Cumhuriyeti Hükümeti ile Sırbistan Cumhuriyeti Hükümeti Arasında Altyapı Projelerinde İşbirliği Anlaşması’nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100709-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100709.htm",
+  "index_sha256": "e8c288d2d2114e97fed40f88277043859c0cd47e4a6786add2da9a508158af06",
+  "index_header": "9 Temmuz 2010 ... 27636 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
