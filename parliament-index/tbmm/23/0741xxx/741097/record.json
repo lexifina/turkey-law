@@ -1,0 +1,51 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 741097,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Yükseköğretim Kurumları Teşkilatı Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Tasarısı; Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısı ve Adalet ve Kalkınma Partisi Grup Başkanvekili Kayseri Milletvekili Mustafa Elitaş ve 4 Milletvekilinin; Benzer Mahiyetteki Kanun Teklifi (1/845, 1/884, 2/701) (S. Sayısı: 506)",
+  "title": "Yükseköğretim Kurumları Teşkilatı Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Tasarısı; Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısı ve Adalet ve Kalkınma Partisi Grup Başkanvekili Kayseri Milletvekili Mustafa Elitaş ve 4 Milletvekilinin; Benzer Mahiyetteki Kanun Teklifi (1/845, 1/884, 2/701) (S. Sayısı: 506)",
+  "first_sitting_date": "2010-07-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 75,
+      "sitting": 132,
+      "sitting_date": "2010-07-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c075/tbmm23075132.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c075/tbmm23075fih.pdf",
+      "pages": [
+        "31:32",
+        "33:54",
+        "54:69"
+      ]
+    },
+    {
+      "cilt": 75,
+      "sitting": 133,
+      "sitting_date": "2010-07-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c075/tbmm23075133.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c075/tbmm23075fih.pdf",
+      "pages": [
+        "177:200",
+        "200:225",
+        "226:234",
+        "234:245"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=141&v_gelecek_sayfa=101&v_kullanici_id=27484632",
+  "source_sha256": "6047876f8aa51e5d627df20e817f678d35aba46fd7bd03c38d713cfa86411b18",
+  "in_force": "2010-07-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
