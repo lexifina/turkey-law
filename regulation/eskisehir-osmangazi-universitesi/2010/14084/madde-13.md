@@ -1,0 +1,3 @@
+Danışma kurulu
+MADDE 13 – (1) Danışma Kurulu; Üniversitenin Ziraat Fakültesinin tüm bölümlerinin, Mühendislik-Mimarlık Fakültesinin İnşaat, Jeoloji ve Kimya Mühendisliği bölümlerinin, Fen Edebiyat Fakültesinin Biyoloji, Fizik ve Kimya bölümlerinin bölüm başkanları ile ilgili anabilim dalı başkanları; Tıp Fakültesi Dahili Tıp Bilimleri Bölümü Halk Sağlığı Anabilim Dalı ile Temel Tıp Bilimleri Bölümü Tıbbı Mikrobiyoloji Anabilim Dalı başkanları; Ziraat Fakültesi Dekanı ve Dekan yardımcıları ile Rektör tarafından görevlendirilen üç öğretim üyesinden oluşur.
+(2) Danışma Kurulu, yılda en az iki kez veya gerektiğinde Müdürün çağrısı üzerine toplanır.
