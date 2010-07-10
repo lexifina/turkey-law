@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.14090",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ TEKSTİL MÜHENDİSLERİ ODASI BİLİRKİŞİLİK YÖNETMELİĞİ",
+  "number": "14090",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Tekstil Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-tekstil-muhendisleri-odasi-yonetim-kurulu",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-tekstil-muhendisleri-odasi-yonetim-kurulu/2010/14090",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14090&MevzuatTertip=5",
+  "source_sha256": "77ad2756a6a3305a18975a2a3e72ee784cdae79158c6dd68315ad63966c4e691",
+  "source_bytes": 27445,
+  "published": "2010-07-10",
+  "gazette": "27637",
+  "in_force": "2010-07-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.07.2010); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1225,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.14090-ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
