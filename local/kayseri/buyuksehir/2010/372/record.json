@@ -1,0 +1,24 @@
+{
+  "number": "372",
+  "number_as_published": "Karar No : 372",
+  "year": 2010,
+  "title": "council decision",
+  "decision_date": "2010-07-12",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/12-temmuz-2010-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "9f87a2ae3c70f910303ea07cef2d9d16c624b27cadbec863a36ce25a53121d40",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2010-07-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.07.2010 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "12 Temmuz 2010 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=17",
+  "subject_published": true
+}
