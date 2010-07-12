@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.-B.07.1.GİB.04.99.16.-25",
+  "source_id": 28572,
+  "date": "2010-07-12",
+  "title": "Şirket aktifinde kayıtlı iştirak hisselerinin kısmi bölünme suretiyle devralan şirket hisselerinin devreden şirket ortakları haricindeki ortaklara verilmesi halinde işlemin kısmi bölünme olarak değerlendirilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28572",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "339d5062c48589196278602c53510f16608538449fc21254ed1a3a47b5e1a39f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
