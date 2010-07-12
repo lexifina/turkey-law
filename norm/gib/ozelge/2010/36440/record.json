@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.25.15.01-2010-MTV-1424-01-12",
+  "source_id": 36440,
+  "date": "2010-07-12",
+  "title": "Taşıtların teknik açıdan izin verilen azami toplam ağırlıklarının tespiti için ibraz edilen araç uygunluk belgelerini imzalayan makine mühendislerinin makine mühendisleri odasından yetkili olmasının dışında uygunluk belgesinde belirtilen taşıtlara ilişkin",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36440",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "1e920c76c6b45cd2d8eaff3ce93d1e7a66b59bb40691c2158e13d624006d11e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
