@@ -1,6 +1,6 @@
 Yürütme
 MADDE 83 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-(I) SAYILI CETVEL (1)(2)(3)(4)
+(I) SAYILI CETVEL (1)(2)(3)(4)(5)
 (Değişik: 22/12/2005-5436/12 md.)
 GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 1) Türkiye Büyük Millet Meclisi
@@ -45,23 +45,25 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 40) Afet ve Acil Durum Yönetimi Başkanlığı (3)
 41) Gelir İdaresi Başkanlığı
 42) Devlet Su İşleri Genel Müdürlüğü
-43) Karayolları Genel Müdürlüğü
-44) Tapu ve Kadastro Genel Müdürlüğü
-45) Devlet Meteoroloji İşleri Genel Müdürlüğü
-46) Tarım Reformu Genel Müdürlüğü
+(…) (5)
+43) Tapu ve Kadastro Genel Müdürlüğü
+44) Devlet Meteoroloji İşleri Genel Müdürlüğü
+45) Tarım Reformu Genel Müdürlüğü
 (…) (1)
-47) Petrol İşleri Genel Müdürlüğü
-48) Basın-Yayın ve Enformasyon Genel Müdürlüğü
-49) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü
-50) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü
-51) Aile ve Sosyal Araştırmalar Genel Müdürlüğü
-52) Kadının Statüsü Genel Müdürlüğü
+46) Petrol İşleri Genel Müdürlüğü
+***Bu sayfadaki dipnotlar için devamı sayfaya bakınız.
+47) Basın-Yayın ve Enformasyon Genel Müdürlüğü
+48) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü
+49) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü
+50) Aile ve Sosyal Araştırmalar Genel Müdürlüğü
+51) Kadının Statüsü Genel Müdürlüğü
 (…) (2)
 ––––––––––––––
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “45) Orman Genel Müdürlüğü” sırası çıkarılmış ve cetvelin sıra numaraları teselsül ettirilmiştir.
 (2) 16/5/2006 tarihli ve 5502 sayılı Kanunun 42 nci maddesiyle, bu cetvelde yer alan "52-Sosyal Güvenlik Kurumu Başkanlığı" ibaresi çıkarılmıştır.
 (3) 29/5/2009 tarihli ve 5902 sayılı Kanunun 25 inci maddesiyle, bu cetvelde yer alan “38 – Türkiye İstatistik Kurumu” ibaresinden sonra gelmek üzere “39 – Afet ve Acil Durum Yönetimi Başkanlığı” ibaresi eklenmiş ve “39” rakamından sonra gelen diğer rakamlar buna göre teselsül ettirilmiştir.
 (4) 17/2/2010 tarihli ve 5952 sayılı Kanunun 18 inci maddesiyle, bu cetvele 33 üncü sırasından sonra gelmek üzere "34) Kamu Düzeni ve Güvenliği Müsteşarlığı" ibaresi eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.
+(5) 25/6/2010 tarihli ve 6001 sayılı Kanunun 43 üncü maddesiyle, bu cetvelde yer alan “43) Karayolları Genel Müdürlüğü” ibaresi çıkarılmış ve cetveldeki idarelerin sıra numaraları buna göre teselsül ettirilmiştir.
 (II) SAYILI CETVEL
 (Değişik: 22/12/2005-5436/12 md.)
 ÖZEL BÜTÇELİ İDARELER
@@ -165,7 +167,7 @@ TEKNOLOJİ ENSTİTÜLERİ
 95) (Ek: 22/5/2008-5765/3 md.) Tunceli Üniversitesi
 96) (Ek: 22/5/2008-5765/3 md.) Yalova Üniversitesi
 97) (Ek: 1/4/2010-5979/4 md.) Türk-Alman Üniversitesi
-B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)
+B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
 3) (Ek: 25/6/2009-5917/47 md.) Atatürk Araştırma Merkezi
@@ -177,35 +179,37 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)
 9) Türkiye Bilimler Akademisi
 10) Türkiye Adalet Akademisi
 11) Yükseköğrenim Kredi ve Yurtlar Kurumu
-12) Gençlik ve Spor Genel Müdürlüğü
-13) Devlet Tiyatroları Genel Müdürlüğü
-14) Devlet Opera ve Balesi Genel Müdürlüğü
-15) (Ek: 1/7/2006-5538/1 md.) Orman Genel Müdürlüğü
-16) Vakıflar Genel Müdürlüğü
-17) Hudut ve Sahiller Sağlık Genel Müdürlüğü
-18) Elektrik İşleri Etüd İdaresi Genel Müdürlüğü
-19) Maden Tetkik ve Arama Genel Müdürlüğü
-20) Sivil Havacılık Genel Müdürlüğü
-21) Türk Akreditasyon Kurumu
-22) Türk Standartları Enstitüsü
-23) Millî Prodüktivite Merkezi
-24) Türk Patent Enstitüsü
-25) Ulusal Bor Araştırma Enstitüsü
-26) Türkiye Atom Enerjisi Kurumu
-27) Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı
-28) İhracatı Geliştirme Etüt Merkezi
-29) Türk İşbirliği ve Kalkınma İdaresi Başkanlığı
-30) Özel Çevre Koruma Kurumu Başkanlığı
-31) GAP Bölge Kalkınma İdaresi
-32) Özelleştirme İdaresi Başkanlığı
-33) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu
-34) (Ek: 28/9/2006-5548/36 md.; İptal: Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile. )(2)
-35) (Ek: 21/9/2006-5544/31 md.) Meslekî Yeterlilik Kurumu (2)
-36 ) (Ek: 24/3/2010-5978/30 md.) Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
+12) (Ek: 25/6/2010-6001/43 md.) Karayolları Genel Müdürlüğü (4)
+13) Gençlik ve Spor Genel Müdürlüğü
+14) Devlet Tiyatroları Genel Müdürlüğü
+15) Devlet Opera ve Balesi Genel Müdürlüğü
+16) (Ek: 1/7/2006-5538/1 md.) Orman Genel Müdürlüğü
+17) Vakıflar Genel Müdürlüğü
+18) Hudut ve Sahiller Sağlık Genel Müdürlüğü
+19) Elektrik İşleri Etüd İdaresi Genel Müdürlüğü
+20) Maden Tetkik ve Arama Genel Müdürlüğü
+21) Sivil Havacılık Genel Müdürlüğü
+22) Türk Akreditasyon Kurumu
+23) Türk Standartları Enstitüsü
+24) Millî Prodüktivite Merkezi
+25) Türk Patent Enstitüsü
+26) Ulusal Bor Araştırma Enstitüsü
+27) Türkiye Atom Enerjisi Kurumu
+28) Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı
+29) İhracatı Geliştirme Etüt Merkezi
+30) Türk İşbirliği ve Kalkınma İdaresi Başkanlığı
+31) Özel Çevre Koruma Kurumu Başkanlığı
+32) GAP Bölge Kalkınma İdaresi
+33) Özelleştirme İdaresi Başkanlığı
+34) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu
+35) (Ek: 28/9/2006-5548/36 md.; İptal: Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile. )(2)
+36) (Ek: 21/9/2006-5544/31 md.) Meslekî Yeterlilik Kurumu (2)
+37 ) (Ek: 24/3/2010-5978/30 md.) Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
 ––––––––––––––
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “10) Devlet Opera ve Balesi Genel Müdürlüğü” sırasından sonra gelmek üzere “11) Orman Genel Müdürlüğü” sırası eklenmiş ve cetvelin sıra numaraları teselsül ettirilmiştir.
 (2) 28/9/2006 tarihli ve 5548 sayılı Kanunun 36 ncı maddesiyle, bu bölüme “29) Kamu Denetçiliği Kurumu “ ibaresi eklenmesinden dolayı bu kuruma ait sıra numarası yeniden teselsül ettirilmiş, daha sonra bu sıra; 4/4/2009 tarihli ve 27910 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile 28/9/2006 tarihli ve 5548 sayılı Kamu Denetçiliği Kurumu Kanununun tümüyle iptal edilmesinden dolayı yürürlükten kaldırılmıştır.
 (3) 25/6/2009 tarihli ve 5917 sayılı Kanunun 47 nci maddesiyle, bu bölüme “2)Atatürk Kültür, Dil ve Tarih Yüksek Kurumu” sırasından sonra gelmek üzere “3) Atatürk Araştırma Merkezi , 4) Atatürk Kültür Merkezi ,5) Türk Dil Kurumu, 6)Türk Tarih Kurumu” ibareleri eklenmiş ve sıra numaraları buna göre teselsül ettirilmiştir.
+(4) 25/6/2010 tarihli ve 6001 sayılı Kanunun 43 üncü maddesiyle, bu bölümde yer alan “11) Yükseköğrenim Kredi ve Yurtlar Kurumu” sırasından sonra gelmek üzere “12) Karayolları Genel Müdürlüğü” ibaresi eklenmiş, cetveldeki idarelerin sıra numaraları buna göre teselsül ettirilmiştir.
 (III) SAYILI CETVEL (1)
 (Değişik: 22/12/2005-5436/12 md.)
 DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR
