@@ -1,0 +1,5 @@
+Kamulaştırma ve tahsis
+MADDE 22 - (1) Genel Müdürlük, görev alanına giren her türlü karayolunun yapımı, geliştirilmesi, çevresinin korunması ve düzenlenmesi ve/veya tesislerin yapımı için gerekli taşınmazları kamulaştırma yetkisine sahiptir.
+(2) İşletme hakkı verilen veya devredilen erişme kontrollü karayollarında, ihtiyaç doğması hâlinde yapılacak kamulaştırma işlemleri Genel Müdürlükçe yapılır. Sözleşmelerde, kamulaştırma bedelinin tamamının veya bir kısmının işletici şirketçe ödenmesi hususu hükme bağlanabilir. Kamulaştırılan taşınmazlar ile üzerinde yapılan yapı ve tesisler Devlet malı hükmündedir.
+(3) Karayolu güzergâh planlarına uygun olarak yapılan kamulaştırmalarda ilgili karayolu güzergâh planı yürürlükte olduğu sürece 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun 23 üncü maddesi hükmü uygulanmaz.
+(4) Genel Müdürlüğün görev ve faaliyetlerini yerine getirirken ihtiyaç duyacağı Hazinenin özel mülkiyetinde veya Devletin hüküm ve tasarrufu altındaki taşınmazlar, Genel Müdürlüğün talebi üzerine Maliye Bakanlığınca Genel Müdürlüğe tahsis edilir.

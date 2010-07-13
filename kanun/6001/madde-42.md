@@ -1,0 +1,2 @@
+MADDE 42- (1) 21/1/1990 tarihli ve 399 sayılı Kanun Hükmünde Kararnamenin 33 üncü maddesinin sonuna aşağıdaki fıkra eklenmiştir.
+“Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğünde tren üzerinde fiili görev yapmakta olan sözleşmeli personele, tren üzerinde görev yaptığı sürelere göre belirlenmek ve günde iki öğünü geçmemek üzere, belirlenecek esaslara göre ücretsiz yemek veya kumanya verilebilir.”
