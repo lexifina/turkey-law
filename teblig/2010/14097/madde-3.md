@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanuna, 9/1/2007 tarihli ve 26398 sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Yönetmeliğinin 17’nci maddesine, 9/1/2007 tarihli ve 26398 sayılı Resmî Gazete’de yayımlanan Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğinin 15’inci maddesine ve 9/1/2007 tarihli ve 26398 sayılı Resmî Gazete’de yayımlanan Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliğinin 14’üncü maddesine dayanılarak hazırlanmıştır.

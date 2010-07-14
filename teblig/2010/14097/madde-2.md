@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, Tıbbi Cihaz Yönetmeliği, Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliği ve Vücut Dışında Kullanılan (İn Vitro) Tıbbi Tanı Cihazları Yönetmeliği kapsamındaki cihazların piyasaya arzından sonra vuku bulan olumsuz olaylara uygulanacak uyarı sistemine ilişkin usul ve esaslar ile imalatçının, yetkili temsilcinin, ithalatçının, cihazın piyasaya arz edilmesinden sorumlu gerçek veya tüzel kişinin, uygulayıcının/operatörün, kullanıcının ve Bakanlığın yürüteceği iş ve işlemleri kapsar.

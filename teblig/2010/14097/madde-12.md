@@ -1,0 +1,2 @@
+Bilgi ve belgelerin muhafazası
+MADDE 12 – (1) 9’uncu ve 11’inci maddede belirtilen durumlar ile ilgili olarak imalatçı, yetkili temsilci, ithalatçı veya cihazın piyasaya arzından sorumlu gerçek veya tüzel kişi talep halinde Bakanlığa ve/veya ilgili onaylanmış kuruluşa sunmak üzere risk yönetimi, tasarım doğrulama, cihazın güvenli hale getirilmesini sağlayacak düzeltici ve önleyici faaliyetlere ilişkin bilgi ve belgeleri Yönetmeliklerde belirtilen süreler dâhilinde muhafaza eder.

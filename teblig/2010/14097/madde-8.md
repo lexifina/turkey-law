@@ -1,0 +1,8 @@
+Uygulayıcıların/operatörlerin ve kullanıcıların sorumlulukları
+MADDE 8 – (1) Uygulayıcıların/operatörlerin ve kullanıcıların sorumlulukları şunlardır:
+a) Uygulayıcılar/operatörler ve kullanıcılar, uyarı sistemi kapsamında oluşan olumsuz olayları, Bakanlığa bildirmekle yükümlüdür.
+b) Sağlık kuruluşu yöneticileri, sağlık çalışanları, cihazın bakım, onarım ve kalibrasyonunu yapanlar ve ilgili diğer personel, uyarı sistemi sürecinde imalatçı, yetkili temsilci, ithalatçı, cihazın piyasaya arzından sorumlu gerçek veya tüzel kişiler ve Bakanlık ile işbirliği yapmakla sorumludur.
+c) Sağlık kurum ve kuruluşları, bünyelerinde görev yapan tüm personeli olumsuz olay bildirimi konusunda bilgilendirir ve bu Tebliğ kapsamındaki sorumluluklarını yerine getirmeleri için gerekli tedbirleri alır.
+ç) Sağlık kurum ve kuruluşları, olumsuz olaylarla ilgili işlemleri takip etmekle sorumlu personeli belirler ve iletişim bilgilerini elektronik ortamda Bakanlığa bildirir. Söz konusu bilgilerde meydana gelen değişiklikler Bakanlığa derhal bildirilir.
+d) Tıbbi cihaz uyarı sistemi kapsamında, bir olumsuz olay olduğunda, olaya tanık olan uygulayıcılar/operatörler ve kullanıcılar, bu olayı bir tutanak ile Bakanlığa bildirir. Tutanakta ilgili cihazın markası, modeli, imalatçı ve/veya ithalatçı, seri/lot numaralarına ait bilgiler bulunur.
+e) Uygulayıcılar/operatörler ve kullanıcılar, olaya neden olan ya da olması muhtemel olan cihazları, varsa depo stokları ile birlikte muhafaza eder. Adli soruşturma ve kovuşturma işlemlerine halel getirmeksizin, inceleme amacıyla talep edildiğinde Bakanlığa ve/veya Bakanlığın bilgisi dâhilinde imalatçı, yetkili temsilci, ithalatçı, cihazın piyasaya arzından sorumlu gerçek veya tüzel kişilere gönderir.

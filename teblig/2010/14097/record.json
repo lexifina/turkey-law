@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.14097",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TIBBİ CİHAZLAR UYARI SİSTEMİNE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "number": "14097",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2010/14097",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14097&MevzuatTertip=5",
+  "source_sha256": "4f00e8a7ecd411e7db64b5dfc0e0eccc8f34d9b37bb0ea912fbb4640853a90d9",
+  "source_bytes": 40608,
+  "published": "2010-07-14",
+  "gazette": "27641",
+  "in_force": "2010-07-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.07.2010); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2423,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
