@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-MTV:4.MD/2010-4-486",
+  "source_id": 33858,
+  "date": "2010-07-14",
+  "title": "Adınıza düzenlenen Özürlü Sağlık Kurulu Raporunda %23 olarak belirtilen sağ el üçüncü parmağınız ve sol ayağınızdaki sakatlığınız nedeniyle satın almayı düşündüğünüz taşıt için özel tüketim vergisi ve motorlu taşıtlar vergisi istisnasından faydalanılıp fa",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/33858",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "0eb80d9539b27bb2da22614db8fc95c9f426e59dfed9b09705613a63bfb39cd7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
