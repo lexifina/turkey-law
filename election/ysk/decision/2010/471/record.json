@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/471",
+  "list_number": "471",
+  "decision_date": "2010-07-14",
+  "title": "12 Eylül 2010 Pazar günü yapılacak olan Anayasa Değişikliklerinin Halkoyuna Sunulmasında her türlü harcamanın hangi usul ve esaslar doğrultusunda yapılacağına ilişkin Yüksek Seçim Kurulu'nun 2010/471 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2913/2010-471.pdf",
+  "source_sha256": "6642003e23f42fdb8f08c22ce6d9e14e978c11d187c63f32a1020858ffb2ac30",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-07-14",
+  "law_text_complete": false
+}
