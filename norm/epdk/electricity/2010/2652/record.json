@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2652",
+  "decision_date": "2010-07-15",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 15/07/2010 tarihli toplantısında; 20/02/2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanunu’nun Ek 2 nci maddesi ile 18/04/2001 tarihli ve 4646 sayılı Doğal Gaz Piyasası Kanunu’nun 4 üncü maddesi hükümleri çerçevesinde alınan kurul kararı",
+  "resmi_gazete_date": "2010-07-21",
+  "resmi_gazete_number": "27648",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dEDLwYybETg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dEDLwYybETg="
+  ],
+  "source_sha256": "54a9afcecef92e24b0665de029d8134cabe6965e590f344f80fb47a1e7ad0446",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-07-15",
+  "law_text_complete": false
+}
