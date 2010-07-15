@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2010/10",
+  "list_number": "471, 452, 451",
+  "genelge_number": "10",
+  "decision_date": "2010-07-15",
+  "title": "12 Eylül 2010 Pazar günü yapılacak olan Anayasa değişikliklerinin halkoyuna sunulmasında her türlü harcamanın hangi usul ve esaslar doğrultusunda yapılacağına ilişkin Yüksek Seçim Kurulunun 2010/471 sayılı kararı, 12 Eylül 2010 Pazar günü yapılacak olan Anayasa değişikliklerinin halkoyuna sunulmasında oy verme saatlerine ilişkin Yüksek Seçim Kurulunun 2010/452 sayılı kararı, Gündeliklere ilişkin Yüksek Seçim Kurulunun 2010/451 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1764/2010-10.pdf",
+  "source_sha256": "934284fbc11433bcab787a2156a78eec3bb00edbc567ab837566218ca03e0254",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 14,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-07-15",
+  "law_text_complete": false
+}
