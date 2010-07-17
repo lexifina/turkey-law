@@ -1,0 +1,8 @@
+Tayvan menşeli motosiklet dış ve iç lastikleri
+MADDE 8 – (1) Tayvan menşeli motosiklet dış lastikleri için dampingin devam edip etmediğini belirlemek için Hwa Fong firmasının soru formuna vermiş olduğu yanıtlar dikkate alınmıştır. Buna göre normal değer olarak, Hwa Fong firmasının ürün tipleri bazında normal ticari işlemler çerçevesinde gerçekleşen ve temsil niteliğine haiz iç piyasa fiyatları, böyle bir fiyatın olmaması halinde de firmanın maliyetlerine makul kâr marjı eklemek suretiyle bulunan oluşturulmuş değer kullanılmıştır.
+(2) Motosiklet dış lastiklerinde ihraç fiyatı olarak, firmanın Türkiye’ye satışlarında bağımsız alıcılarca fiilen ödenen fiyat esas alınmıştır.
+(3) Motosiklet dış lastikleri için adil bir karşılaştırmanın yapılabilmesini teminen, normal değer ile ihraç fiyatı fabrika çıkış aşamasına getirilerek aynı ticari aşamada karşılaştırılmıştır.
+(4) Motosiklet iç lastikleri için normal değer olarak, Eurostat istatistiklerinden Avrupa Birliği’nin 2007 yılında Tayvan’dan yapmış olduğu motosiklet iç lastiklerinin birim fiyatı kullanılmıştır.
+(5) Motosiklet iç lastiklerinde ihraç fiyatı olarak, TÜİK verileri esas alınarak Tayvan’dan yapılan ithalatın birim fiyatları kullanılmıştır. En son 2007 yılı verileri gösterge niteliği taşıyacak hacimde olduğundan 2007 yılı esas alınmıştır.
+(6) Motosiklet iç lastikleri için adil bir karşılaştırmanın yapılabilmesini teminen, hem normal değerin hem de ihraç fiyatının CIF bazlı olduğu dikkate alınarak, karşılaştırma CIF bazında yapılmış ayrıca bir ayarlama yapılmamıştır.
+(7) Motosiklet dış lastikleri için CIF değerin %6,9’u, motosiklet iç lastikleri için ise CIF değerin %44’ü oranında damping marjı tespit edilmiştir.

@@ -1,0 +1,2 @@
+Yerli üretim dalının temsil niteliği
+MADDE 3 – (1) Mevcut veriler ışığında, başvuruda bulunan yerli üreticinin Türkiye’de soruşturma konusu ürünleri üreten tek üretici olduğu ve bu nedenle Türkiye üretiminin tamamını gerçekleştirdiği görülmüştür. Bu bağlamda, Yönetmelik’in 20 nci maddesi uyarınca, başvurunun yerli üretim dalı adına yapılmış olduğu değerlendirilmiştir. Soruşturma esnasında da bu tespiti değiştirecek herhangi bir bilgi alınmamıştır.

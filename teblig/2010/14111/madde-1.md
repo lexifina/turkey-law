@@ -1,0 +1,7 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Mevcut önlem ve soruşturma
+MADDE 1 – (1) Çin Tayvanı (Tayvan) ve Vietnam menşeli “motosiklet iç ve dış lastikleri” için 27/9/2004 tarih ve 25596 sayılı Resmî Gazete’de yayımlanan 2004/21 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Tebliğ; Tayvan, Vietnam ve Sri Lanka menşeli “bisiklet iç ve dış lastikleri” için ise aynı Resmî Gazete’de yayımlanan 2004/22 sayılı Tebliğ ile dampinge karşı kesin önlemler yürürlüğe konulmuştur.
+(2) 18/12/2008 tarih ve 27084 sayılı Resmî Gazete'de yayımlanan 2008/39 sayılı Tebliğ ile söz konusu ürünlere ilişkin önlemlerin 27/9/2009 tarihinde sona ereceği, yerli üretim dalının Mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir başvuru ile nihai gözden geçirme soruşturması açılması talebinde bulunabileceği duyurulmuştur.
+(3) Anlaş Anadolu Lastik Sanayi ve Ticaret A.Ş. (Anlaş), önlemin uygulamadan kalkması halinde mezkûr ürünlerde dampingin ve zararın devam edeceği veya yeniden oluşacağı hususlarındaki iddialarını ortaya koyarak İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliğin 35 inci maddesi temelinde mezkûr ürünler için “Nihai Gözden Geçirme Soruşturması” (NGGS) açılması talebinde bulunmuştur.
+(4) Söz konusu başvuru üzerine, 17/9/2009 tarihli ve 27352 sayılı Resmî Gazete’de yayımlanan 2009/31 sayılı Tebliğ ile başlatılan nihai gözden geçirme soruşturması Dış Ticaret Müsteşarlığı (Müsteşarlık) İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülerek tamamlanmıştır.

@@ -1,0 +1,8 @@
+İlgili tarafların bilgilendirilmesi ve toplanan bilgilerin değerlendirilmesi
+MADDE 4 – (1) Soruşturma açılışını müteakip soruşturma konusu ürünlerin Müsteşarlık tarafından tespit edilen Tayvan, Vietnam ve Sri Lanka’da yerleşik bilinen üretici/ihracatçılarına, Türkiye’de yerleşik ithalatçılarına ve ayrıca soruşturmaya konu ülkelerde yerleşik diğer üretici/ihracatçılara iletilebilmesini teminen Tayvan ve Vietnam’ın Ankara’da bulunan Büyükelçiliklerine, Sri Lanka’nın ise Türkiye’de misyonu bulunmadığı için İsrail’deki Türkiye’ye akredite misyonuna ilgili soru formları, başvurunun gizli olmayan özeti ve soruşturma açılış Tebliğ’ine ulaşmalarını sağlamak için soruşturma açılışına ilişkin bildirim yapılmıştır.
+(2) Taraflara soru formunu yanıtlamaları için posta süresi dâhil 37 gün süre tanınmıştır.
+(3) Yerli üretim dalı, soruşturma süresi boyunca Müsteşarlığımız ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir.
+(4) Kendilerine soruşturma açılışına ilişkin bildirimde bulunulan 19 ithalatçı firmanın 7’sinden cevap alınmıştır.
+(5) Tayvan’da yerleşik Hwa Fong Rubber Ind. Co., Ltd. (Hwa Fong) firması sadece motosiklet dış lastikleri için soru formuna cevap vermiştir. Firmanın soru formuna vermiş olduğu cevaplar eksiklik taşımasına rağmen, cevapların dampingin soruşturma döneminde devam ettiğini göstermeye yetecek nitelikte olduğu anlaşılmıştır.
+(6) İlgili taraflara soruşturma sonucunda alınacak karara esas teşkil edecek nitelikteki bilgi ve bulguları içeren nihai bildirim raporu gönderilmiş ve görüşlerine sunulmuştur.
+(7) Tarafların soruşturma boyunca ortaya koyduğu tüm bilgi, belge ve görüşler incelenmiş, mezkûr görüşlerden mevzuat kapsamında değerlendirilebilecek olanlara bu raporun ilgili bölümlerinde değinilmiştir.

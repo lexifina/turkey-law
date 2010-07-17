@@ -1,0 +1,3 @@
+Tayvan menşeli bisiklet dış ve iç lastikleri
+MADDE 10 – (1) Tayvan için damping marjı hesabında, normal değer olarak Eurostat istatistiklerinden Avrupa Birliği’nin 2006 yılında Tayvan’dan yapmış olduğu bisiklet dış ve iç lastiklerinin birim fiyatı alınmış ve bu değer Tayvan’dan yapılan ithalatın birim fiyatları (TÜİK) ile karşılaştırılmıştır. En son 2006 yılı verileri gösterge niteliği taşıyacak hacimde olduğundan, 2006 yılı esas alınmıştır. Hem normal değer hem de ihraç fiyatı CIF bazlı ithal fiyatı olduğu için karşılaştırma CIF bazında yapılmış ayrıca bir ayarlama yapılmamıştır.
+(2) Yapılan hesaplama sonunda, Tayvan menşeli bisiklet dış lastikleri için CIF değerin %96’sı oranında, bisiklet iç lastikleri için ise %117’si oranında damping marjı tespit edilmiştir.
