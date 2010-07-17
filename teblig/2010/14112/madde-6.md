@@ -1,0 +1,3 @@
+Gümrük idaresince yapılacak işlemler
+MADDE 6 – (1) İthal lisansı kapsamında yapılan ithalata ilişkin gerekli düşümler ilgili gümrük idaresi tarafından ithal lisansının firma nüshasının arka yüzüne işlenerek imza ve mühür altına alınır. Bu sayfada yer kalmaması halinde ise yeni sayfa ilave edilerek ilave edilen sayfa adedi ithal lisansı firma nüshasının aslına derç edilerek imza ve mühür altına alınır.
+(2) İthal lisansı kapsamında yapılan her ithalata ilişkin gümrük beyannamesinin ve ithal lisansı kapsamında yapılan ithalata ilişkin gerekli düşümlerin arka yüzüne işlenerek imza ve mühür altına alınan ithal lisansı firma nüshasının bir örneği ilgili gümrük idaresi tarafından, Gümrükler Genel Müdürlüğü’ne gönderilir.
