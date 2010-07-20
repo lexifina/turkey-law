@@ -1,0 +1,8 @@
+İlgili tarafların bilgilendirilmesi ve bilgilerin değerlendirilmesi
+MADDE 4- (1) Soruşturma açılışını müteakip soruşturma konusu ürünün Müsteşarlık tarafından ÇHC’nde yerleşik bilinen üretici/ihracatçılarına, Türkiye’de yerleşik ithalatçılarına ve ayrıca soruşturmaya konu ülkede yerleşik diğer üretici/ihracatçılara iletilebilmesini teminen anılan ülkenin Ankara’da bulunan Büyükelçiliğine soruşturma açılışına ilişkin bildirim yapılmıştır.
+(2) Taraflara soru formunu yanıtlamaları için posta süresi dâhil 37 gün süre tanınmış, tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(3) Yerli üretim dalı, soruşturma süresi boyunca Müsteşarlığımız ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir.
+(4) Kendilerine soruşturma açılışına ilişkin bildirimde bulunulan 20 ithalatçı firmanın 7’sinden cevap alınmıştır.
+(5) Soruşturmaya tabi ülke olan ÇHC’nde yerleşik hiçbir üretici/ihracatçı firmadan soru formlarına yönelik herhangi bir yanıt alınamamıştır.
+(6) İlgili taraflardan alınan bilgi ve belgelerin gizli olmayan özetleri talep eden bütün ilgili tarafların bilgisine hazır tutulmuştur.
+(7) Yönetmeliğin 25 inci maddesi uyarınca, soruşturmanın ilgili taraflarına soruşturma sonucundaki belirlemelere esas teşkil edecek bilgi ve tespitleri içeren nihai bildirim gönderilmiş ve karşıt görüş ve değerlendirmelerini iletmeleri için makul bir süre tanınmıştır. Nihai bildirime ilişkin görüşler ile tarafların soruşturma boyunca ortaya koyduğu diğer tüm bilgi, belge ve görüşler incelenmiş, mezkûr görüşlerden mevzuat kapsamında değerlendirilebilecek olanlara bu Tebliğin ilgili bölümlerinde değinilmiştir.

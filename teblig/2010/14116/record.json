@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.14116",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2010/18)",
+  "number": "14116",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2010/14116",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14116&MevzuatTertip=5",
+  "source_sha256": "7c3f1056c6e5b977328065fd3cf6e0cb65fa99d423b70b11a22d0eb431be9ba4",
+  "source_bytes": 97402,
+  "published": "2010-07-20",
+  "gazette": "27647",
+  "in_force": "2010-07-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.07.2010); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4603,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2013/01/20130131-19.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,5 @@
+Soruşturma konusu ithalatın iç piyasa fiyatları üzerindeki etkisi
+MADDE 14- (1) Soruşturma konusu ithalatın yerli üretim dalının iç piyasa fiyatları üzerindeki etkisini görebilmek amacıyla önlem konusu ülkenin fiyatlarına ve fiyat kırılmasına bakılmıştır.
+(2) TÜİK istatistiklerindeki soruşturma konusu ülkenin fiyatları ile diğer ülke fiyatları karşılaştırıldığında, bu ülkenin genel ihracat stratejisinin temel olarak düşük fiyata dayalı olduğu anlaşılmıştır.
+(3) Yapılan hesaplamada soruşturma konusu ürünlerin dampinge karşı vergi dahil Türkiye piyasasına giriş fiyatları bulunmuş ve bu fiyatlar yerli üretim dalının yurt içi satış fiyatları ile karşılaştırılarak fiyat kırılmaları hesaplanmıştır. Buna göre menteşeler ve çekmece raylarında 2008 yılı için hesaplanan fiyat kırılmaları sırası ile CIF değerin %66’sı ve %48’i oranındadır.
+(4) Yürürlükteki damping önlemine rağmen soruşturma konusu ülkeden gerçekleşen ithalatın hala yerli üretim dalı fiyatlarını kırabiliyor olması mevcut önlem seviyesinin yetersiz olduğunu göstermiştir.
