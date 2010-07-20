@@ -1,0 +1,64 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 741179,
+  "assembly": "TBMM",
+  "term": 23,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "OSMAN ÇAKIR (SAMSUN)",
+  "summary": "Ve Şırnak Milletvekili Sevahir Bayındırın, Hakkari Milletvekili Hamit Geylaninin, İstanbul Milletvekili Ayşe Jale Ağırbaş ve 2 Milletvekilinin; Mardin (Eski) Milletvekili Ahmet Türk ve 20 Milletvekilinin, Bartın Milletvekili Yılmaz Tunç ve Batman Milletvekili Mehmet Emin Ekmenin; Benzer Mahiyetteki Kanun Teklifleri ile Terörle Mücadele Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Tasarısı (2/84, 2/407, 2/477, 2/508, 2/534, 2/711, 1/775) (S. Sayısı: 526)",
+  "title": "Ve Şırnak Milletvekili Sevahir Bayındırın, Hakkari Milletvekili Hamit Geylaninin, İstanbul Milletvekili Ayşe Jale Ağırbaş ve 2 Milletvekilinin; Mardin (Eski) Milletvekili Ahmet Türk ve 20 Milletvekilinin, Bartın Milletvekili Yılmaz Tunç ve Batman Milletvekili Mehmet Emin Ekmenin; Benzer Mahiyetteki Kanun Teklifleri ile Terörle Mücadele Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Tasarısı (2/84, 2/407, 2/477, 2/508, 2/534, 2/711, 1/775) (S. Sayısı: 526)",
+  "first_sitting_date": "2010-07-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 76,
+      "sitting": 137,
+      "sitting_date": "2010-07-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c076/tbmm23076137.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c076/tbmm23076fih.pdf",
+      "pages": [
+        "55",
+        "56:82",
+        "82:119",
+        "120:127",
+        "129:147",
+        "149:155",
+        "156:166",
+        "167:185",
+        "186:217"
+      ]
+    },
+    {
+      "cilt": 76,
+      "sitting": 138,
+      "sitting_date": "2010-07-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c076/tbmm23076138.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c076/tbmm23076fih.pdf",
+      "pages": [
+        "324:332",
+        "334:340",
+        "341:356",
+        "358:366",
+        "368",
+        "369:386",
+        "387:409",
+        "409:425",
+        "426:429",
+        "430:461"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9778ad3e006ed014ada40672e8018c4ef424a514aeeae1bfe4415432bf50a80a",
+  "in_force": "2010-07-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
