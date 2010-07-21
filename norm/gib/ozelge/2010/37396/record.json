@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.31.15.01-HRÇ-5-05-6",
+  "source_id": 37396,
+  "date": "2010-07-21",
+  "title": "Bakanlar Kurulu Kararıyla kamu yararına çalışan dernek statüsünde olan Derneğinizin yaptıracağı öğrenci yurdunun bina inşaat harcından istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37396",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "1c2df44bf71273fc706c8444e36ff65ce663ec65e48fafc60be8ba70d035a4e2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
