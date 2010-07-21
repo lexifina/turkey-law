@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6005",
+  "year": 2010,
+  "title": "Yükseköğretim Kurumları Teşkilatı Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-07-21",
+  "gazette_issue": "27648",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100721-32.htm",
+  "source_sha256": "a9f584b944159e77ec0f2ba7106ad04524d7644f9bf01e5c12445ed0bebac793",
+  "text_sha256": "bc0ee4804f6370c5f53183be891af03d0e99ea3d89305fefa72b27e2a23777cc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/07/21/27648-32",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100721-32.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
