@@ -1,0 +1,2 @@
+Esas soruşturmada tespit edilen damping marjları
+MADDE 13 – (1) Mevcut dampinge karşı önlemin hukuki ve idari altyapısını teşkil eden önceki damping soruşturması (esas soruşturma) nihayetinde soruşturma konusu ürün için damping marjı CIF bedelin yüzdesi olarak ÇHC için %74,57, Tayvan için %94,78, Güney Kore için %123,22, Hindistan için de %74,64 oranlarında tespit edilmiştir. Mezkur soruşturma esnasında tespit edilen damping marjları bahse konu ülkelerin önlemin kalkması halinde muhtemel davranışını yansıtması bakımından önemli bir gösterge niteliği taşımaktadır.

@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.14126",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2010/21)",
+  "number": "14126",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2010/14126",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14126&MevzuatTertip=5",
+  "source_sha256": "1e6c91d92a25c994b05971f649dec5d38960a1999c44f3d3ec01d5eee9a48d91",
+  "source_bytes": 74496,
+  "published": "2010-07-21",
+  "gazette": "27648",
+  "in_force": "2010-07-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.07.2010); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5295,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
