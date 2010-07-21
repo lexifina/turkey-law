@@ -1,0 +1,2 @@
+Gözden geçirme dönemi
+MADDE 6 – (1) Önlemin yürürlükten kalkması durumunda, dampingin ve zararın devamı veya yeniden meydana gelmesinin muhtemel olup olmadığının değerlendirilmesine esas teşkil etmek üzere 1/1/2006-31/12/2008 dönemi gözden geçirme dönemi olarak alınmıştır. Bununla birlikte, Rusya ve özellikle ÇHC’nin dünya piyasasındaki konumu ve fiyatlama eğilimine ilişkin olarak, mevcut olduğu ölçüde, 2004 yılı sonrası veriler de dikkate alınmıştır.

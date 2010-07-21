@@ -1,0 +1,2 @@
+Ekonomik göstergelerin değerlendirilmesi
+MADDE 16 – (1) Yerli üretim dalının ekonomik göstergeleri incelendiğinde, incelenen dönemde mevcut önlemin etkisiyle yerli üretim dalının, yurt içi satış seviyesinde çok düşük azalma olsa da seviyesini muhafaza ettiği, artan ihracata bağlı olarak, üretim, istihdam ve KKO’nun arttığı, bu nedenle de birçok temel ekonomik göstergenin olumlu gelişme gösterdiği görülmekle birlikte temel bazı göstergelerdeki olumsuzluğun devam ettiği tespit edilmiştir.

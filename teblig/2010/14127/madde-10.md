@@ -1,0 +1,4 @@
+Maddenin genel ithalatı
+MADDE 10 – (1) Soruşturma konusu ürünün Türkiye’ye genel ithalatı ve soruşturma konusu ülkelerden yapılan ithalatının incelenmesinde Türkiye İstatistik Kurumu (TÜİK) verileri kullanılmıştır. 2004 yılında 2.280.011 Kg olan çelik halat ithalatı sırasıyla 2005’te 3.274.635Kg, 2006’da 3.996.650Kg, 2007’de 7.102.869 Kg ve 2008 yılında da 7.756.903 Kg olarak gerçekleşmiştir. Miktar bazında 2004-2008 aralığında nispi artış ise % 340 düzeyindedir.
+(2) Bahse konu ürünün genel ithalatı değer bazında sırasıyla, 2004 yılında 3.229.681 ABD Doları, 2005’te 5.789.22, 2006’da 9.848.842 ABD Doları, 2007’de 13.672.727 ABD Doları ve 2008 yılında da 18.418.565 ABD Doları olarak gerçekleşirken değer bazında nispi artış % 570 düzeyindedir.
+(3) Birim fiyatlar ise sırasıyla, 2004’te 1,42 ABD Doları/Kg, 2005’te 1,77 ABD Doları/Kg, 2006’da 2,46 ABD Doları/Kg, 2007’de 1,92 ve 2008’de 2,37 ABD Doları/Kg olarak gerçekleşmiştir.

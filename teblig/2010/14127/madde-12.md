@@ -1,0 +1,3 @@
+Soruşturma konusu ürün ithalatının tüketime göre değişimi
+MADDE 12 – (1) Soruşturma konusu ürünün Türkiye toplam tüketimi hesaplanırken 2006-2008 dönemi için şikâyetçi yerli üretici ve şikayeti destekleyen firmalardan temin edilen yurt içi satış miktarları ile ilgili yıla ait toplam ithalat miktarları toplanmıştır. Bu çerçevede 2006 yılında 100 olan tüketim endeksinin 2007 yılında 126, 2008 yılında 131 olduğu görülmüştür.
+(2) ÇHC’nin, Türkiye pazarından aldığı pay incelendiğinde, 2006 yılında endeks değeri 100 olan pazar payının, 2007 yılında 419, 2008 yılında 280 olduğu görülmektedir. Rusya’dan ise sadece 2008 yılında 900 Kg’lik bir ithalat yapıldığı için endeksleme yapılmamıştır.
