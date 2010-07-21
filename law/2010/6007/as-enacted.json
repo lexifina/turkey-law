@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6007",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Rusya Federasyonu Hükümeti Arasında Türkiye Cumhuriyetinde Akkuyu Sahasında Bir Nükleer Güç Santralinin Tesisine ve İşletimine Dair İşbirliğine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-07-21",
+  "gazette_issue": "27648",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100721-34.htm",
+  "source_sha256": "ad389e9c7fa24aff0575c170da9ade5804fcfa9835dec0a124fa828c26f13484",
+  "text_sha256": "6e08827365450c3ba9a81475ea33c01e697c336af6651c9d09af49e4f8004436",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/07/21/27648-34",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100721-34.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
