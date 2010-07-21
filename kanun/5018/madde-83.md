@@ -167,6 +167,13 @@ TEKNOLOJİ ENSTİTÜLERİ
 95) (Ek: 22/5/2008-5765/3 md.) Tunceli Üniversitesi
 96) (Ek: 22/5/2008-5765/3 md.) Yalova Üniversitesi
 97) (Ek: 1/4/2010-5979/4 md.) Türk-Alman Üniversitesi
+98) (Ek: 14/7/2010-6005/2 md.) Yıldırım Beyazıt Üniversitesi
+99) (Ek: 14/7/2010-6005/2 md.) Bursa Teknik Üniversitesi
+100) (Ek: 14/7/2010-6005/2 md.) İstanbul Medeniyet Üniversitesi
+101) (Ek: 14/7/2010-6005/2 md.) İzmir Kâtip Çelebi Üniversitesi
+102) (Ek: 14/7/2010-6005/2 md.) Konya Üniversitesi
+103) (Ek: 14/7/2010-6005/2 md.) Kayseri Abdullah Gül Üniversitesi
+104) (Ek: 14/7/2010-6005/2 md.) Erzurum Teknik Üniversitesi
 B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
