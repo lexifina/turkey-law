@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.40.10.00-012-3",
+  "source_id": 36538,
+  "date": "2010-07-22",
+  "title": "Yanarak hurda haline geldiğine ilişkin mahkeme kararı bulunan taşıttan dolayı motorlu taşıtlar vergisi mükellefiyetinin söz konusu mahkeme kararına istinaden terkin edilip edilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36538",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "80b0f9c1d241516266c929e5f0e97d673af79afac723a9f36216b34f2e8bc988",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
