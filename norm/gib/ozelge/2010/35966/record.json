@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.45.15.01-HARÇ-63-1-18",
+  "source_id": 35966,
+  "date": "2010-07-23",
+  "title": "4081sayılı Çiftçi Mallarının Korunması Hakkındaki Kanun çerçevesinde karar ve ilam harcı muafiyeti/istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35966",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "4fbd40e914d9c70a91fb30ff96559630b130b0fc2dd0d6d5bef444f4227197b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
