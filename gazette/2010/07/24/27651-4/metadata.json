@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-07-24",
+  "issue": "27651",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu Başkanlığına Bağlı Merkezlerin Kuruluş ve İşletmesine İlişkin Çerçeve Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100724-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100724.htm",
+  "index_sha256": "0c4a1413a746d9c9645f766ec95e2544f76b830f381b8cc4b94dae4e575c37ba",
+  "index_header": "24 Temmuz 2010 ... 27651 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
