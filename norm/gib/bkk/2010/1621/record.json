@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2010/668",
+  "source_id": 1621,
+  "date": "2010-07-25",
+  "title": "ÖTV KANUNU'NA EKLİ (I) SAYILI LİSTENİN (B) CETVELİNDE YER ALAN MALLARDA UYGULANAN ÖTV TUTARLARINA İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/bkk/1621",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "0b8ae0c03bd48f8c8b9c5a4026c35e1ab8facee274a2732aa70cdefc61c5334a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
