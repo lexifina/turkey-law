@@ -9,7 +9,7 @@ Hükmün açıklanmasının geri bırakılmasına karar verilebilmesi için;
 a) Sanığın daha önce kasıtlı bir suçtan mahkûm olmamış bulunması,
 b) Mahkemece, sanığın kişilik özellikleri ile duruşmadaki tutum ve davranışları göz önünde bulundurularak yeniden suç işlemeyeceği hususunda kanaate varılması,
 c) Suçun işlenmesiyle mağdurun veya kamunun uğradığı zararın, aynen iade, suçtan önceki hale getirme veya tazmin suretiyle tamamen giderilmesi,
-gerekir.
+gerekir. (Ek cümle: 22/7/2010 - 6008/7 md.) Sanığın kabul etmemesi hâlinde, hükmün açıklanmasının geri bırakılmasına karar verilmez.
 (7) (Ek: 6/12/2006-5560/23 md.) Açıklanmasının geri bırakılmasına karar verilen hükümde, mahkûm olunan hapis cezası ertelenemez ve kısa süreli olması halinde seçenek yaptırımlara çevrilemez.
 (8) (Ek: 6/12/2006-5560/23 md.)
 Hükmün açıklanmasının geri bırakılması kararının verilmesi halinde sanık, beş yıl süreyle denetim süresine tâbi tutulur. Bu süre içinde bir yıldan fazla olmamak üzere mahkemenin belirleyeceği süreyle, sanığın denetimli serbestlik tedbiri olarak;

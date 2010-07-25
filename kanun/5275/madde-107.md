@@ -17,6 +17,7 @@ c) Bir ağırlaştırılmış müebbet hapis cezası ile süreli hapis cezasına
 d) Bir müebbet hapis cezası ile süreli hapis cezasına mahkûmiyet hâlinde en fazla otuzdört,
 e) Birden fazla süreli hapis cezasına mahkûmiyet hâlinde en fazla otuziki,
 Yıldır.
+(Ek cümle: 22/7/2010-6008/ 9 md.) Bu fıkra hükümleri çocuklar hakkında uygulanmaz.
 (5) Koşullu salıverilme süresinin hesaplanmasında, hükümlünün onbeş yaşını dolduruncaya kadar infaz kurumunda geçirdiği bir gün, iki gün olarak dikkate alınır. (1)
 (6) Koşullu salıverilen hükümlünün tâbi tutulacağı denetim süresi, yukarıdaki fıkralara göre infaz kurumunda geçirilmesi gereken sürenin yarısı kadardır. Ancak süreli hapislerde hakederek tahliye tarihini geçemez.
 (7) Hükümlü, denetim süresinde, infaz kurumunda öğrendiği meslek veya sanatı icra etmek üzere, bir kamu kurumunda veya özel olarak aynı meslek veya sanatı icra eden bir başkasının gözetimi altında, ücret karşılığında çalıştırılabilir.
