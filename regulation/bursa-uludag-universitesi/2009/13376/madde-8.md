@@ -1,0 +1,6 @@
+Müdürün görevleri
+MADDE 8 – (1) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek.
+b) Yönetim Kuruluna başkanlık etmek.
+c) Yönetim Kurulu Başkanı sıfatıyla Yönetim Kurulunu toplantıya davet etmek, bu Kurulun gündemini belirlemek ve alınan kararları uygulamak.
+ç) Merkezin çalışma alanıyla ilgili diğer görevleri yürütmek.

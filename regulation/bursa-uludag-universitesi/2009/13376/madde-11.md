@@ -1,0 +1,3 @@
+Danışma kurulu
+MADDE 11 – (1) (Değişik:RG-25/7/2010-27652) Danışma Kurulu; Müdür, Müdür Yardımcısı, Genel Sekreter, Üniversite öğretim elemanlarından bir kişi, istekleri halinde ilgili kamu kuruluşları, meslek kuruluşları ve sivil toplum kuruluşlarından beş kişi olmak üzere toplam dokuz üyeden oluşur.
+(2) Danışma Kurulu üyeleri Müdür tarafından önerilir ve Rektör tarafından görevlendirilir. Danışma Kurulu olağan olarak üç ayda bir salt çoğunlukla toplanır. Müdür Danışma Kuruluna başkanlık eder ve gerektiğinde Kurulu olağanüstü toplantıya çağırabilir. Kurulun sekreterlik işleri Merkez tarafından yürütülür.
