@@ -1,4 +1,3 @@
-24/7/2008 tarihli ve 5793 sayılı Kanununla Değişen Hali
 CEZA MUHAKEMESİ KANUNU
 Kanun Numarası : 5271
 Kabul Tarihi : 4/12/2004
