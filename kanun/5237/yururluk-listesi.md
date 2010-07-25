@@ -8,3 +8,4 @@ Değiştiren Kanun No. | Değiştiren Kanun/An. MahkemeKararının Yürürlüğe
 5739 | 1/3/2008 |  | 50
 5759 | 8/5/2008 |  | 301
 5918 | 9/7/2009 |  | 13, 55, 165, 254, 282
+6008 | 25/7/2010 |  | 79
