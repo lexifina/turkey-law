@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-007.01-282",
+  "source_id": 37267,
+  "date": "2010-07-26",
+  "title": "Telekominikasyon şirketlerinin ana sözleşmlerinde belirtilen hizmetleri yerine getirirken tükettiği elektrik için elekterik ve havagazı tüketim vergisinin hangi oranda uygulanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37267",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b25aa521b78d233f3ce4d070cf67e7577561edcbf0323f541e4a953ecf927c50",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
