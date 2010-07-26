@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.01.0-VUK-313-27",
+  "source_id": 27015,
+  "date": "2010-07-26",
+  "title": "Şirket aktifine kayıtlı olan ancak şirket ürünlerini satan bakkal ve marketler tarafından kullanılan buzdolaplarının faydalı ömrü ve amortisman oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27015",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4062e1f6f7415d165ef23e015ea4c5c1fde454b484dd84ce02a0d6924e3702ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
