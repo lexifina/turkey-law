@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Maliye Bakanlığı ile Sayıştay’ın görüşü alınan bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-07-27",
+      "27.07.2010",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 10 – (1) Maliye Bakanlığı ile Sayıştay’ın görüşü alınan bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27654",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2010-07-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Munzur Üniversitesi",
+  "issuer_slug": "munzur-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/munzur-universitesi/2010/14147",
+  "published": "2010-07-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14147&MevzuatTertip=5",
+  "source_bytes": 19395,
+  "source_id": "8.5.14147",
+  "source_sha256": "edff28b8e8279bb29ca3026f394cb47c256cbf2074028799de7885083b27c74d",
+  "text_status": "as-enacted",
+  "title": "TUNCELİ ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 344,
+  "word_count": 727
+}
