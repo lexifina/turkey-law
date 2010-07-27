@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-MTV-2010/3-39",
+  "source_id": 36543,
+  "date": "2010-07-27",
+  "title": "Tescil belgesinde belirtilen model yılından önceki yılda trafiğe çıkan taşıtın motorlu taşıtlar vergisinin hesaplanmasına esas teşkil eden krtiterlerden biri olan yaşının tespiti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36543",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "824707a55a817898f1431149e5abac84a9d56947174e19e367d0ccc48965a561",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
