@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-74",
+  "source_id": 37079,
+  "date": "2010-07-27",
+  "title": "Emeklinin ikamet ettiği meskeni haricinde, devre mülke hisseli olarak malik olması durumunda indirimli bina vergisi oranı (sıfır) uygulamasından yararlanıp yararlanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37079",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "5e2a00225fb1f10874ecf42fac3c4a409d002e7f3aeef0ed6db8f43d06ecf642",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
