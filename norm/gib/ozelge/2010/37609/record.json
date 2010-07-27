@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-73",
+  "source_id": 37609,
+  "date": "2010-07-27",
+  "title": "Yurt dışından vadeli akreditif ödeme yöntemine göre yapılan hammadde ithalatı üzerinden KKDF kesintisi yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/37609",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "a9013325f275b2cf49bb9d00ddb13147697b0dc4efbf4bc103660c7b4561ef3e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
