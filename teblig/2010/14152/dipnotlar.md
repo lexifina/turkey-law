@@ -1,0 +1,1 @@
+[1] Bu Tebliğin ekindeki Yüksek Planlama Kurulu Kararı, 3/11/2011 tarihli ve 28104 sayılı Resmî Gazete’de yayımlanan Kamu İktisadi Teşebbüslerinde 2011 Yılında Uygulanacak Ücretlerin Tespitine İlişkin Tebliğ (Tebliğ No: 2011/2)’in ekindeki 21/10/2011 tarihli ve 2011/T-20 sayılı Yüksek Planlama Kurulu Kararının 8 inci maddesi ile yürürlükten kaldırılmıştır.
