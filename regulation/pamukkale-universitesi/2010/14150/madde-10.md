@@ -1,0 +1,4 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür ve Üniversitenin Fen-Edebiyat Fakültesi veya Fen Fakültesinde görev yapan öğretim üyeleri arasından doktorasını veya yüksek lisansını bitki moleküler genetiği, bitki biyoteknolojisi, bitki embriyoloji ve morfojenezi, bitki fizyolojisi, moleküler biyoloji, sitoloji, bitki büyüme gelişme fizyolojisi ve fotosentez simulasyonları alanında yapmış olan beş kişiden oluşur.
+(2) Yönetim Kurulu üyeleri Müdürün önerisi üzerine Rektör tarafından üç yıl için görevlendirilir. Görev süresi biten üye yeniden görevlendirilebilir. Görevden ayrılan üyenin yerine kalan süreyi tamamlamak için yeni üye görevlendirilir.
+(3) Yönetim Kurulu başkanı Müdürdür. Yönetim Kurulu, Müdürün çağrısı üzerine ayda bir kez toplanır ve Merkezin çalışmalarını gözden geçirerek ilgili konularda karar alır. Yönetim Kurulu; salt çoğunlukla toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır.
