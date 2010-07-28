@@ -1,0 +1,8 @@
+Usul ve esaslar
+MADDE 4 – (1) Kanun hükümlerine göre verilen idari para cezaları Kurum tarafından genel esaslara göre tahsil edilir.
+(2) İdari para cezaları, her takvim yılı başından geçerli olmak üzere o yıl için 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükmü uyarınca tespit ve ilan edilen yeniden değerleme oranında her yıl artırılarak uygulanır.
+(3) Söz konusu idari para cezalarının tebliğ tarihinden itibaren bir ay içinde Kurum veznesine veya hesabına ödenmesi gerekmektedir. Bu süre içinde ilk taksit peşin ödenmek koşulu ile bir yıl içinde borcun tamamının 4 eşit taksitte ödenme imkanı bulunmaktadır. Bir aylık süre sonrasında yapılan taksitlendirme talepleri kabul edilmez.
+(4) Ayrıca, tebliğ tarihinden itibaren 15 gün içerisinde Kurum veznesine veya hesabına ödenmesi halinde idari para cezasından 1/4 oranında peşin ödeme indirimi uygulanacaktır. Taksitlendirme işlemi yapılması halinde 1/4 oranında peşin ödeme indirimi uygulanmaz.
+(5) 5326 sayılı Kabahatler Kanununun 27 nci maddesi gereği kararın tebliğinden itibaren 15 gün içinde karara karşı yetkili Sulh Ceza Mahkemesine başvuru hakkı bulunmaktadır. Bu sürede yargı yoluna başvurulmaması halinde karar kesinleşecektir. Yargı yoluna başvurulması halinde, durumun Kuruma bildirilmesi gerekmektedir.
+(6) Sulh Ceza Mahkemesine başvurulması halinde, 4904 sayılı Türkiye İş Kurumu Kanununun 7 nci maddesi gereği Kurumu temsil yetkisi M. Rauf İnan Sokak No: 9 Sıhhiye Ankara adresinde yerleşik Türkiye İş Kurumu Genel Müdürlüğüne ait olup, tebligatın belirtilen adrese yapılması gerekmektedir.
+(7) Ödemenin banka aracılığı ile yapılması halinde, dekontun açıklama bölümüne tebligatın tarih ve sayısı ile işyeri adı yazdırılarak, dekont örneğinin Kuruma verilmesi gerekmektedir.
