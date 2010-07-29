@@ -1,0 +1,24 @@
+3218 SAYILI SERBEST BÖLGELER KANUNU GENEL TEBLİĞİ
+(SERİ NO: 2)
+1. Giriş
+3218 sayılı Serbest Bölgeler Kanununun geçici 3 üncü maddesinin ikinci fıkrasının (b) bendinin uygulamasına ilişkin açıklamalara 12/3/2009 tarihli ve 27167 sayılı Resmî Gazete’de yayımlanan 1 Seri No.lu 3218 sayılı Serbest Bölgeler Kanunu Genel Tebliğinde yer verilmiş olup, anılan Tebliğ uyarınca mükelleflerin öngörülen şartları sağlayıp sağlamadıklarının tespit edilmesi amacıyla düzenlenmesi gereken Serbest Bölge Faaliyet Tasdik Raporunun ibraz süresine ilişkin açıklamalar bu Tebliğin konusunu oluşturmaktadır.
+2. İlgili Mevzuat ve Tasdik Raporunun İbraz Süresi
+3218 sayılı Serbest Bölgeler Kanununun geçici 3 üncü maddesinin ikinci fıkrasının (b) bendi, 12/11/2008 tarihli ve 5810 sayılı Kanunun 7 nci maddesiyle 1/1/2009 tarihinden itibaren geçerli olmak üzere aşağıdaki şekilde değiştirilmiştir.
+“Avrupa Birliğine tam üyeliğin gerçekleştiği tarihi içeren yılın vergilendirme döneminin sonuna kadar;
+...
+b) Bu bölgelerde üretilen ürünlerin FOB bedelinin en az % 85'ini yurtdışına ihraç eden mükelleflerin istihdam ettikleri personele ödedikleri ücretler gelir vergisinden müstesnadır. Bu oranı % 50’ye kadar indirmeye ve kanuni seviyesine kadar yükseltmeye Bakanlar Kurulu yetkilidir. Yıllık satış tutarı bu oranın altında kalan mükelleflerden zamanında tahsil edilmeyen vergiler cezasız olarak, gecikme zammıyla birlikte tahsil edilir.
+...
+Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir."
+Yapılan değişikliğe ilişkin açıklamalara 1 Seri No.lu 3218 sayılı Serbest Bölgeler Kanunu Genel Tebliğinde yer verilmiş olup, anılan Tebliğ uyarınca mükelleflerin öngörülen şartları sağlayıp sağlamadıklarının tespit edilmesi amacıyla düzenlenmesi gereken Serbest Bölge Faaliyet Tasdik Raporunun dispozisyonu hakkında, 31/12/2009 tarihli ve 27449 (4.Mükerrer) sayılı Resmî Gazete’de yayımlanan 42 Sıra No.lu Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Genel Tebliğinde gerekli açıklamalar yapılmıştır.
+1 Seri No.lu 3218 sayılı Serbest Bölgeler Kanunu Genel Tebliğinin “3.7.1 Raporun Konusu ve İbraz Süreleri” başlıklı bölümünde;
+“ …
+Mükellefler, istisna uygulamasına ilişkin olarak yeminli mali müşavirler tarafından düzenlenen faaliyet raporlarını en geç faaliyette bulunulan takvim yılını takip eden yılın şubat ayının 15 inci günü akşamına kadar muhtasar beyannameyi verdikleri vergi dairesine teslim edeceklerdir.
+Yıl içinde faaliyetine son veren ya da ürettiği ürünü sonraki yıl içerisinde tamamen satan veya kısmen satışla %85 şartını gerçekleştiren mükellefler ise, söz konusu raporları faaliyetlerine son verdikleri ya da ürünü sattıkları veya %85 şartını gerçekleştirdikleri ayı takip eden ikinci ayın 15 inci günü akşamına kadar muhtasar beyannameyi verdikleri vergi dairesine teslim edeceklerdir.
+Bu bölümde belirtilen YMM raporlarının süresi içerisinde ibraz edilemeyeceğine ilişkin, mükellefler veya YMM'ler tarafından makul mazeret bildirilmesi halinde, vergi dairesince 213 sayılı Vergi Usul Kanununun 17 nci maddesine göre bu Tebliğde belirlenen sürelerin bir katını geçmemek üzere ek süre verilebilecektir.
+…”
+açıklamasına yer verilmiştir.
+Yukarıda yer alan hüküm ve açıklamalar çerçevesinde, 3218 sayılı Kanunun geçici 3 üncü maddesinin ikinci fıkrasının (b) bendi kapsamındaki gelir vergisi istisnası hükümlerinden yararlanılabilmesi için YMM’ler tarafından düzenlenen Serbest Bölge Faaliyet Tasdik Raporunun en geç faaliyette bulunulan takvim yılını takip eden yılın Şubat ayının 15 inci günü akşamına kadar muhtasar beyannamenin verildiği vergi dairesine teslim edilmesi gerekmektedir.
+Söz konusu mükellefler veya YMM’ler tarafından makul bir mazeret bildirilmesi halinde yetkili vergi dairesince, 213 sayılı Vergi Usul Kanununun 17 nci maddesi uyarınca anılan Tebliğ ile belirlenen sürenin bir katını geçmemek üzere ek bir süre verilebilmektedir.
+Buna göre, YMM’ler tarafından düzenlenen Serbest Bölge Faaliyet Tasdik Raporunun, faaliyette bulunulan takvim yılını takip eden Şubat ayının 15 inci günü akşamına kadarki süreyi kapsayan birinci dönem ile mükellefler veya YMM’ler tarafından verilecek dilekçe üzerine belirlenen birinci dönem süresinin bir katını geçmemek üzere verilen ek süreden oluşan ikinci döneme ait süre içinde ibraz edilmesi mümkündür.
+Bu çerçevede, Serbest Bölge Faaliyet Tasdik Raporunun, söz konusu istisnanın uygulanacağı takvim yılını takip eden Şubat ayının 15 inci günü akşamına kadar vergi dairesine veremeyen mükellefler veya YMM’lerce herhangi bir başvuruda bulunulmaksızın, bu süreyi takip eden 46 günlük süre içinde verilmesi halinde vergi dairesince kabul edilerek, ek süre verilmesi için başvuruda bulunulmaması nedeniyle 213 sayılı Vergi Usul Kanununun 352/II-7 nci maddesi gereğince adlarına usulsüzlük cezası tatbik edilmek suretiyle işleme konulması, bu süreden sonra verilecek YMM raporlarının ise işleme konulmaması gerekmektedir.
+Tebliğ olunur.
