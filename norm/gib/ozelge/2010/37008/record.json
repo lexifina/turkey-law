@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-EVK-2010-4-41",
+  "source_id": 37008,
+  "date": "2010-07-29",
+  "title": "Tavuk kümesi ve mütemmimleri için emlak vergisi muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37008",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "3d82649e0df767d41dc4be99acb2dac97a42ba925063321bbb0a1687ae746f02",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
