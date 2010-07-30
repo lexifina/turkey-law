@@ -1,0 +1,3 @@
+Ergonomi ve insan faktörü
+MADDE 12 – (1) Tesis, insan faktörü ve insan –makine etkileşimi dikkate alınarak tasarımlanır. Normal işletme, beklenen işletme olayları ve kaza koşullarında işletme personelinin yükünü azaltmak ve insan hatalarını en aza indirmek amacıyla, tasarımda otomatik sistemlere mümkün olduğu kadar yer verilir.
+(2) Kontrol odasının ve panellerinin tasarımında ergonomi ilkeleri dikkate alınır, insan hatalarını en aza indirmek üzere işletme personelinin bilgiyi algılaması ve gerekli önlemleri alması için uygun koşullar sağlanır. Güvenlik için önemli parametrelerin izlenmesini sağlayan göstergelerdeki değişikliklerin erken fark edilebilmesi için görsel ve işitsel alarm sistemleri tasarımda yer alır.

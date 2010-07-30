@@ -1,0 +1,2 @@
+Radyoaktif atık yönetimi
+MADDE 18 – (1) Tesis tasarımında, işletme sırasında ortaya çıkabilecek radyoaktif atık miktarı Kurum tarafından belirlenen sınırların altında, mümkün ve makul olan en düşük düzeyde tutulması amacıyla gereken önlemler alınır. Radyoaktif atıkların güvenli bir şekilde toplanması, işlenmesi, taşınması, depolanması ve bertaraf edilmesi gibi işlemleri sağlayan sistemlere tasarımda yer verilir.

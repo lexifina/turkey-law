@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, cevher çıkarma, nükleer reaktörler ve nihai depolama tesisleri hariç olmak kaydıyla, nükleer yakıtlara ilişkin olarak cevher işleme, saflaştırma, dönüştürme, zenginleştirme, yakıt fabrikasyonu, kullanılmış yakıt depolama, yeniden işleme, atık işleme ve geçici depolama faaliyetlerinin gerçekleştirildiği tesisler ile bu tesislerde saha, tasarım, inşa, işletmeye alma, işletme ve işletmeden çıkarma aşamalarındaki etkinlikleri kapsar.

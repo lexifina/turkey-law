@@ -1,0 +1,3 @@
+İşletme prosedürleri ve yönergeleri
+MADDE 39 – (1) Tesis ayrıntılı, doğrulanmış ve Kurum tarafından belirlenen kurallar uyarınca onaylanmış işletme prosedürlerine uygun olarak işletilir. İşletme prosedürleri işletme deneyimleri doğrultusunda, gerektiğinde, ilgili prosedürlere uygun olarak değiştirilir. Değişiklikler ancak Kurum tarafından belirlenen kurallar uyarınca onaylandıktan ve ilgili personel eğitildikten sonra uygulanır.
+(2) İşletme yönergelerinde tesisin işletme sınır ve koşullarının içinde kalındığını gösteren bütün kontrol, test, kalibrasyon ve denetimleri içeren işletme metotları açık bir şekilde yer alır. İşletme yönergeleri belli aralıklarla gözden geçirilir, güncellenir ve gerektiğinde kullanıcının kolayca ulaşabilmesi sağlanır.

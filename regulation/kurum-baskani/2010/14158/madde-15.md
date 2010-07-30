@@ -1,0 +1,2 @@
+Bilgisayar tabanlı sistemlerin yapı, sistem ve bileşen olarak kullanımı
+MADDE 15 – (1) Bilgisayar tabanlı bir sistem; yapı, sistem ve bileşen olarak kullanılıyor veya yapı, sistem ve bileşenlerin bir parçasını oluşturuyor ise sistemin ömrü boyunca, bilgisayar donanım ve yazılımların geliştirilmesi ve testleri için uygun standart ve yöntemler saptanır ve uygulanır. Bütün geliştirme süreci, uygun kalite yönetimi programı çerçevesinde gerçekleşir.

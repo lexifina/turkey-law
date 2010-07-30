@@ -1,0 +1,9 @@
+Kaza durumları
+MADDE 16 – (1) Yapı, sistem ve bileşenler işletme koşulları ve tasarımda kapsanan kaza koşullarında ortaya çıkan aşırı çevresel koşullara dayanabilecek ve işlevini sürdürebilecek şekilde tasarımlanır.
+(2) Tesis için acil durdurma sistemi gerekli ise prosesler arasındaki etkileşim dikkate alınır. Prosesi hemen durdurmanın pratik olarak mümkün olmadığı durumda tesis güvenli ve kararlı işletme durumuna ulaşacak şekilde tasarımlanır.
+(3) Tasarım ve proses kontrol düzenlemeleri tesiste sürdürülen işlemleri güvenli ve kararlı duruma getirecek şekilde yapılır.
+(4) Tesisin tasarımında kaza başlatabilecek tüm olaylar dikkate alınarak, öngörülen başlatıcı olaylar insan hatalarını da içerecek şekilde kapsamlı olarak tanımlanır.
+(5) Tesiste yer alan güvenlik sistemleri gerektiğinde otomatik olarak devreye girecek şekilde tasarımlanır.
+(6) Bazı durumlarda kaza koşullarını takiben tesisi güvenli ve kararlı duruma getirmek için işletici personel müdahalesine ihtiyaç duyulabilir. İşletici personel müdahalesi, ancak müdahale için yeterince zaman olduğu, bilginin doğru olarak işletici personele ulaştırılabildiği, teşhisin kolay ve net bir şekilde yapılabildiği ve işletici personelden talep edilen işyükünün aşırı olmadığı gösterildiği takdirde güvenilir kabul edilebilir. Bu koşullardan herhangi birinin karşılanmadığı durumda güvenlik sistemleri tesisi güvenli duruma ulaştıracak şekilde tasarımlanır.
+(7) Tasarım kaza koşullarında tesisi durdurabilecek, kararlı durumda tutabilecek, kaza sürecinde gerekli tüm parametrelerin izlenebilmesini sağlayacak önlemleri içerir ve eğer gerekiyorsa uzaktan izleme ve durdurma olanağı sağlanır.
+(8) Yapı, sistem ve bileşenler; elektrik, ısıtma-soğutma sistemleri, sıkıştırılmış hava gibi destek sistemlerinin kaybı durumunda, güvenlik fonksiyonlarını yerine getirebilecek şekilde, bunun sağlanamadığı durumlarda ise güvenli-arıza durumuna geçebilecek şekilde tasarımlanır.

@@ -1,0 +1,2 @@
+Acil durum planlaması
+MADDE 17 – (1) Tasarımda, tesiste olabilecek potansiyel tehlikelere karşı, güvenilir acil durum aydınlatmalarına sahip kolay kaçış yolları, güvenilir iletişim yöntemleri, radyasyon ve zararlı kimyasalların izlenmesi amacıyla teçhizatların yerleştirilmesi gibi acil durum planlamasına yönelik önlemler dikkate alınır. Gerektiğinde acil durumlarda tesise müdahale etmek üzere ayrı bir acil durum merkezi tasarımlanır.
