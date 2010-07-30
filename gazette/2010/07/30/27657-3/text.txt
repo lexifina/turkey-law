@@ -1,0 +1,620 @@
+30 Temmuz 2010 CUMA
+Resmî Gazete
+Sayı : 27657
+YÖNETMELİK
+Türkiye Atom Enerjisi Kurumundan:
+NÜKLEER YAKIT ÇEVRİMİ TESİSLERİNİN GÜVENLİĞİ İÇİN
+ÖZEL İLKELER YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı, nükleer yakıt çevrimi
+tesislerinde Kurum tarafından belirlenen nükleer güvenlik hedeflerine
+ulaşılabilmesi için yetkilendirilen kişi tarafından uyulması gereken özel
+güvenlik ilkelerini belirlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, cevher çıkarma, nükleer
+reaktörler ve nihai depolama tesisleri hariç olmak kaydıyla, nükleer
+yakıtlara ilişkin olarak cevher işleme, saflaştırma, dönüştürme,
+zenginleştirme, yakıt fabrikasyonu, kullanılmış yakıt depolama, yeniden
+işleme, atık işleme ve geçici depolama faaliyetlerinin gerçekleştirildiği
+tesisler ile bu tesislerde saha, tasarım, inşa, işletmeye alma, işletme ve
+işletmeden çıkarma aşamalarındaki etkinlikleri kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik 13/7/1982
+tarihli ve 2690 sayılı Türkiye Atom Enerjisi Kurumu Kanununun 4 üncü
+maddesinin birinci fıkrasının (e) bendine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a)
+Beklenen işletme olayları: Tesisin ömrü boyunca bir ya da daha fazla kez
+meydana gelmesi beklenen ve gerçekleştiğinde tesise veya güvenlik sistemlerine
+bir zarar vermesi veya kaza koşullarına yol açması mühendislik sistemleri
+ile tasarım aşamasında engellenen normal işletmeden sapmaları,
+b)
+Çift-olasılık: Bir kritiklik kazası olasılığı ortaya çıkmadan önce işletme
+şartlarında düşük olasılıklı, bağımsız ve aynı zaman dilimine denk gelen en
+az iki değişikliğin meydana gelmesini,
+c)
+Farklılık: Belirli bir işlevi yerine getirmek üzere, ortak nedenli arıza
+olasılığını azaltmak amacıyla farklı özellikleri kullanan iki ya da daha
+fazla sayıda yedekli sistem veya bileşenlerin varlığını,
+ç)
+Fiziksel ayrılık: Ortak nedenli arıza olasılığını azaltmak amacıyla, aynı
+işlevi gören sistemlerin konum, yön gibi mekansal
+yöntemlerle, uygun bariyerlerle veya bunların kombinasyonu bir sistemle
+birbirlerinden ayrı olmasını,
+d)
+Güvenli-arıza: Tesiste kullanılan sistem veya bileşenlerin, arızalanmaları
+durumunda tesis güvenliği açısından daha kötü bir duruma geçilmesini
+engelleyecek şekilde tasarımlanmasını,
+e)
+İşletici personel: Tesisin işletiminde doğrudan görev alan yetkili
+personeli,
+f)
+İşletme koşulları: Normal işletme ile beklenen işletme olaylarını kapsayan
+durumları,
+g)
+İşletme sınır ve koşulları: Halkın ve çalışanların sağlık ve güvenliği ile
+çevreyi korumayı garanti altına alan, tesisin güvenli işletiminin bütünsel
+bir çerçevesini çizen ve işletme lisansı ile verilen yetkilerin sınırlarını
+belirleyen tüm sınır ve koşulları,
+ğ)
+Kaza koşulları: Beklenen işletme olaylarının ötesinde, tasarımda kapsanan
+ve tasarım ötesi kazaları da kapsayan normal işletme koşullarından tüm
+sapmaları,
+h)
+Kontaminasyon: İnsan vücudu da dahil
+olmak üzere herhangi bir yer veya maddenin yüzeyinde veya içinde istenmeyen
+ya da zararlı olabilen radyoaktif veya kimyasal madde birikimini,
+ı)
+Kurum: Türkiye Atom Enerjisi Kurumunu,
+i)
+Mühendislik güvenlik özellikleri: Nükleer tesislerde beklenen işletme
+olayları ve kaza koşullarının olası sonuçlarını hafifletmek amacıyla
+tasarımlanmış otomatik olarak tetiklenen özel sistem veya özelliklerini,
+j)
+Normal işletme: İşletme için sınır koşullar ihlal edilmeksizin bir nükleer
+tesisin işletilmesini,
+k)
+Ortak nedenli arıza: Birden fazla yapı, sistem ve bileşenin tek bir olay
+veya nedenle arızalanması,
+l)
+Öngörülen başlatıcı olaylar: Beklenen işletme olayları veya kaza
+koşullarına yol açabilecek tasarımda göz önünde bulundurulan olayları,
+m)
+Tasarıma esas kazalar: Tesisin tasarımı sırasında güvenlik sistemlerinin
+sınırlarını belirleyen kazaları,
+n)
+Tasarımda kapsanan kazalar: Radyoaktif madde salınması uygun tasarım
+özellikleri sayesinde kabul edilebilir düzeyde tutulan normal işletme
+koşullarından sapmalar sonucu meydana gelen ve tasarıma esas kazaları
+kapsayan kazaları,
+o)
+Tasarım ötesi kazalar: Tasarımda kapsanan kazalardan daha ciddi kaza
+koşullarını,
+ö)
+Tesis: Cevher çıkarma, nükleer reaktörler ve nihai depolama tesisleri hariç
+olmak kaydıyla, nükleer yakıtlara ilişkin olarak cevher işleme,
+saflaştırma, dönüştürme, zenginleştirme, yakıt fabrikasyonu, kullanılmış
+yakıt depolama, yeniden işleme, atık işleme ve geçici depolama
+faaliyetlerinin gerçekleştirildiği tesisleri,
+p)
+Test edilebilirlik: Yapı, sistem ve bileşenlerin güvenlik fonksiyonlarının
+denetlenip, test edilmelerine olanak verecek şekilde tasarımlanması ve
+yerleştirilmesi ilkesini,
+r)
+Yedeklilik: Sistem ve bileşenlerin işlevlerinin her koşulda yerine
+getirildiğinin güvence altına alınmasını sağlamak amacıyla aynı işlevi
+gören aynı ya da farklı nitelikte yedek sistem veya bileşenlerin
+bulunmasını,
+s)
+Yetkilendirilen kişi: Tesise ilişkin yetki gerektiren herhangi bir
+faaliyeti yerine getirmek üzere prosedürler
+uyarınca Kurum tarafından yetkilendirilmiş gerçek veya tüzel kişiyi,
+tanımlar.
+İKİNCİ BÖLÜM
+Saha
+Tesisi etkileyebilecek dış olaylar
+MADDE 5 – (1) Tesis sahası ve çevresi, tesisin güvenliğini
+etkileyebilecek doğal veya insan kaynaklı bütün dış olaylar açısından
+ayrıntılı olarak incelenir. Sahanın, tesisin güvenliğini etkileyebilecek
+dış olaylara karşı yeterli güvenlik önlemlerinin alınabilmesi için uygun
+olduğu ve Kurum tarafından belirlenen kriterleri
+sağladığı belgelerle gösterilir.
+Tesisin radyolojik ve kimyasal etkileri
+MADDE 6 – (1) Tesis sahası normal işletme ve kaza
+koşullarında birey, toplum ve çevre üzerindeki radyolojik ve kimyasal
+etkileri açısından incelenir. Radyoaktif ve kimyasal maddelerin hava, gıda
+zinciri ve su kaynakları gibi olası yollarla insana taşınmasını
+etkileyebilecek saha özellikleri dikkate alınır. Olası radyolojik etkilerin
+Kurum tarafından belirlenmiş olan limitlerin altında olduğu belgelerle
+gösterilir.
+(2)
+Tesis sahası radyoaktif ve kimyasal maddeler ile bunların atıklarının,
+depolanması ve taşınmasına uygunluğu yönünden değerlendirilir.
+Acil durum planlarının
+uygulanabilirliği
+MADDE 7 – (1) Saha değerlendirmesinde halk sağlığını ve
+çevreyi tehdit edebilecek kazalara karşı hazırlanacak olan acil durum
+planlarının uygulanabilir olduğu belgelerle gösterilir.
+ÜÇÜNCÜ BÖLÜM
+Tasarımda Genel Güvenlik Esasları
+Tasarım için genel esaslar
+MADDE 8 – (1) Tesis, normal işletme, beklenen işletme
+olayları ve kaza koşullarında güvenlik hedeflerinden sapmayacak şekilde
+tasarımlanır.
+(2)
+Tesiste yer alan yapı, sistem ve bileşenler fonksiyonları ve güvenlik
+açısından önemlerine göre sınıflandırılarak ilgili standartlara uygun
+olarak tasarımlanır. Normal işletme ve beklenen işletme olayları sırasında
+güvenlik açısından önemli yapı, sistem ve bileşenlere bir zarar gelmemesi
+tasarımda garanti altına alınır. Kazaların önlenmesi ve kaza koşullarında
+sonuçlarının hafifletilmesi için güvenlik sistemleri tasarımlanır.
+(3)
+Tesisin tasarım ve güvenliği, yalnızca tesisin kendisini değil, aynı
+zamanda güvenliğini etkileyebilecek diğer tesislerle etkileşimini de
+dikkate alır.
+Tasarım kriterleri
+MADDE 9 – (1) Her bir işletme koşulu ve tasarımda kapsanan
+kaza durumu için ilgili tüm parametrelerin tasarım kriterleri
+güvenlik paylarını da içerecek şekilde belirlenir. Yapı, sistem ve
+bileşenler için tasarım kriterleri, ulusal ve
+uluslararası kod ve standartlar ve mühendislik güvenlik özellikleri göz
+önüne alınarak belirlenir.
+Kod ve standartlar
+MADDE 10 – (1) Tesis tasarımında yapı, sistem ve bileşenlere
+uygulanacak kod ve standartlar belirlenir ve kullanımları doğrulanır. Aynı
+sistemin farklı durumları için farklı kod ve standartlar kullanılması
+durumunda bu kod ve standartlar arasında bir uyum ve tutarlılık olduğu gösterilir.
+Kullanılabilirlik ve güvenilirlik
+MADDE 11 – (1) Tesiste yer alan yapı, sistem ve bileşenler
+işletme ve kaza koşullarında kullanılabilirliği ve güvenilirliği sağlamak
+amacıyla yedeklilik, fiziksel ayrılık, farklılık, çift-olasılık, güvenli –arıza
+ve test edilebilirlik gibi ilkelere uygun olarak tasarımlanır.
+Ergonomi ve insan faktörü
+MADDE 12 – (1) Tesis, insan faktörü ve insan –makine
+etkileşimi dikkate alınarak tasarımlanır. Normal işletme, beklenen işletme
+olayları ve kaza koşullarında işletme personelinin yükünü azaltmak ve insan
+hatalarını en aza indirmek amacıyla, tasarımda otomatik sistemlere mümkün
+olduğu kadar yer verilir.
+(2)
+Kontrol odasının ve panellerinin tasarımında ergonomi ilkeleri dikkate
+alınır, insan hatalarını en aza indirmek üzere işletme personelinin bilgiyi
+algılaması ve gerekli önlemleri alması için uygun koşullar sağlanır.
+Güvenlik için önemli parametrelerin izlenmesini sağlayan göstergelerdeki
+değişikliklerin erken fark edilebilmesi için görsel ve işitsel alarm sistemleri
+tasarımda yer alır.
+Malzeme seçimi ve yaşlanma
+MADDE 13 – (1) Tasarımda, işletme koşulları ve kaza
+koşullarında malzemenin maruz kalabileceği radyolojik, kimyasal ve fiziksel
+etkiler göz önüne alınır. Malzemenin tesisteki kullanım ömrü sonunda sahip
+olacağı özellikler dikkate alınarak tasarımda güvenlik payları bırakılır.
+(2)
+Malzeme özelliklerinin bilinmediği durumlarda, uygun malzeme gözetim
+programı uygulanır. Bu programdan elde edilen sonuçlar, belirli aralıklarla
+tasarımın yeterliliğinin gözden geçirilmesinde kullanılır.
+Bakım, onarım, denetim ve testler
+MADDE 14 – (1) Yapı, sistem ve bileşenler, tesisin işletmede
+bulunduğu süre içinde bakım, onarım, denetim ve testlerin yapılmasını
+kolaylaştıracak şekilde tasarımlanır.
+(2)
+Yapı sistem ve bileşenlerin yerleşimi ve tasarımı bakım, onarım, test ve
+denetimler sırasında maruz kalınabilecek radyasyon dozunun en aza
+indirilmesini sağlayacak şekilde gerçekleştirilir.
+Bilgisayar tabanlı sistemlerin yapı,
+sistem ve bileşen olarak kullanımı
+MADDE 15 – (1) Bilgisayar tabanlı bir sistem; yapı, sistem ve
+bileşen olarak kullanılıyor veya yapı, sistem ve bileşenlerin bir parçasını
+oluşturuyor ise sistemin ömrü boyunca, bilgisayar donanım ve yazılımların
+geliştirilmesi ve testleri için uygun standart ve yöntemler saptanır ve
+uygulanır. Bütün geliştirme süreci, uygun kalite yönetimi programı
+çerçevesinde gerçekleşir.
+Kaza durumları
+MADDE 16 – (1) Yapı, sistem ve bileşenler işletme koşulları
+ve tasarımda kapsanan kaza koşullarında ortaya çıkan aşırı çevresel
+koşullara dayanabilecek ve işlevini sürdürebilecek şekilde tasarımlanır.
+(2)
+Tesis için acil durdurma sistemi gerekli ise prosesler
+arasındaki etkileşim dikkate alınır. Prosesi hemen durdurmanın pratik
+olarak mümkün olmadığı durumda tesis güvenli ve kararlı işletme durumuna
+ulaşacak şekilde tasarımlanır.
+(3)
+Tasarım ve proses kontrol düzenlemeleri tesiste
+sürdürülen işlemleri güvenli ve kararlı duruma getirecek şekilde yapılır.
+(4)
+Tesisin tasarımında kaza başlatabilecek tüm olaylar dikkate alınarak,
+öngörülen başlatıcı olaylar insan hatalarını da içerecek şekilde kapsamlı
+olarak tanımlanır.
+(5)
+Tesiste yer alan güvenlik sistemleri gerektiğinde otomatik olarak devreye
+girecek şekilde tasarımlanır.
+(6)
+Bazı durumlarda kaza koşullarını takiben tesisi güvenli ve kararlı duruma
+getirmek için işletici personel müdahalesine ihtiyaç duyulabilir. İşletici
+personel müdahalesi, ancak müdahale için yeterince zaman olduğu, bilginin
+doğru olarak işletici personele ulaştırılabildiği, teşhisin kolay ve net bir
+şekilde yapılabildiği ve işletici personelden talep edilen işyükünün aşırı olmadığı gösterildiği takdirde
+güvenilir kabul edilebilir. Bu koşullardan herhangi birinin karşılanmadığı
+durumda güvenlik sistemleri tesisi güvenli duruma ulaştıracak şekilde tasarımlanır.
+(7)
+Tasarım kaza koşullarında tesisi durdurabilecek, kararlı durumda
+tutabilecek, kaza sürecinde gerekli tüm parametrelerin izlenebilmesini
+sağlayacak önlemleri içerir ve eğer gerekiyorsa uzaktan izleme ve durdurma
+olanağı sağlanır.
+(8)
+Yapı, sistem ve bileşenler; elektrik, ısıtma-soğutma sistemleri,
+sıkıştırılmış hava gibi destek sistemlerinin kaybı durumunda, güvenlik
+fonksiyonlarını yerine getirebilecek şekilde, bunun sağlanamadığı
+durumlarda ise güvenli-arıza durumuna geçebilecek şekilde tasarımlanır.
+Acil durum planlaması
+MADDE 17 – (1) Tasarımda, tesiste olabilecek potansiyel
+tehlikelere karşı, güvenilir acil durum aydınlatmalarına sahip kolay kaçış
+yolları, güvenilir iletişim yöntemleri, radyasyon ve zararlı kimyasalların
+izlenmesi amacıyla teçhizatların yerleştirilmesi gibi acil durum
+planlamasına yönelik önlemler dikkate alınır. Gerektiğinde acil durumlarda
+tesise müdahale etmek üzere ayrı bir acil durum merkezi tasarımlanır.
+Radyoaktif atık yönetimi
+MADDE 18 – (1) Tesis tasarımında, işletme sırasında ortaya
+çıkabilecek radyoaktif atık miktarı Kurum tarafından belirlenen sınırların
+altında, mümkün ve makul olan en düşük düzeyde tutulması amacıyla gereken
+önlemler alınır. Radyoaktif atıkların güvenli bir şekilde toplanması,
+işlenmesi, taşınması, depolanması ve bertaraf edilmesi gibi işlemleri
+sağlayan sistemlere tasarımda yer verilir.
+Gaz ve sıvı salımı
+MADDE 19 – (1) Çevreye radyoaktif gaz ve sıvı salımı
+durumunda maruz kalınan radyasyonun Kurum tarafından belirlenen sınırların
+altında ve mümkün ve makul olan en düşük düzeyde tutulması ve izlenmesi
+için gerekli olan özellikler tasarımda dikkate alınır.
+İşletmeden çıkarma
+MADDE 20 – (1) Tesisin tasarımında, işletmeden çıkarma
+işlemini kolaylaştırmak, işletmeden çıkarma işlemi sırasında çalışanlar ve
+toplumun maruz kalacağı radyasyonu mümkün ve makul olan en düşük seviyede
+tutmak, çevre için uygun korumayı sağlamak ve ortaya çıkan radyoaktif atığı
+en aza indirmek ve depolamak için gerekli önlemler dikkate alınır.
+DÖRDÜNCÜ BÖLÜM
+Radyolojik Tehlikelere Karşı Tasarımda Güvenlik
+Esasları
+Kontaminasyon kontrolü ve iç ışınlama
+MADDE 21 – (1) Tasarımda işletme ve kaza koşullarında
+çalışanların, toplumun ve çevrenin zararlı maddelerin salımından
+korunmasına yönelik önlemlere yer verilir.
+(2)
+Radyoaktif maddelerin hapsedilmesi ve kaçak tespitine yönelik olarak kontaminasyon kontrolu için
+gerekli önlemler dikkate alınır.
+(3)
+Tasarımda kontamine olabilecek alanlar öngörülen
+yüzey ve atmosferik kontaminasyon seviyelerine
+göre sınıflandırılır ve bu sınıflandırmaya göre donatılır. Tasarımda
+atmosferik kontaminasyon için izleme ve uygun
+alarm sistemleri yer alır.
+Dış ışınlama
+MADDE 22 – (1) İyonlaştırıcı radyasyondan korunmak amacıyla
+uygun zırhlama ve uzaktan kumandalı ekipmanlar gibi mühendislik yöntemleri tasarımda yer
+alır.
+(2)
+Tasarımda normal ışınlamanın büyüklüğü, potansiyel ışınlama büyüklük ve
+olasılığı, güvenlik prosedürleri ve gerekli
+korumanın kapsamı dikkate alınarak alanlar sınıflandırılır.
+(3)
+Gerektiğinde çalışanların tahliyesini sağlamak amacıyla iyonlaştırıcı
+radyasyon seviyesinin izlenmesi ve olağandışı durumların algılanması için
+uyarıcı sistemlere tasarımda yer verilir.
+Kritiklik
+MADDE 23 – (1) Bölünebilir maddelerle ilgili bütün işlemler
+kritiklik kazasını önleyecek şekilde ve çift-olasılık ilkesi dikkate
+alınarak tasarımlanır.
+(2)
+Kritiklik değerlendirmesi ve hesaplaması tutucu varsayımlar kullanılarak
+yapılır.
+(3)
+Gerektiğinde çalışanların tahliyesini sağlamak amacıyla kritiklik algılama
+ve alarm sistemlerine tasarımda yer verilir.
+Radyoaktif bozunum ısısı ve radyoliz
+MADDE 24 – (1) Radyoaktif bozunum ısısı ve radyolizin etkilerine karşı önlemler tesisin
+tasarımında dikkate alınır.
+BEŞİNCİ BÖLÜM
+Radyolojik Olmayan Tehlikelere Karşı Tasarımda
+Güvenlik Esasları
+Radyolojik olmayan tehlikelere karşı
+güvenlik
+MADDE 25 – (1) Kimyasal, zehirli, yanıcı ve patlayıcı
+maddelerin, nükleer güvenliğe olumsuz etkilerini önleyebilmek amacıyla, proseslerde kullanılacak tehlikeli maddelerin güvenli
+depolanması, prosesin başlangıç şartları ve/veya bunların kimyasal ve
+zehirli madde salımı, yangınlara veya patlamalara neden olan değişimleri,
+kimyasal ve zehirli maddelerin algılanması ve uyarı sistemleri, personelin
+kimyasal ve zehirli maddelere maruz kalmasını önleyen korunma ekipmanları
+gibi önlemler tasarımda yer alır.
+ALTINCI BÖLÜM
+İnşa ve İşletmeye Alma
+İnşa
+MADDE 26 – (1) Tesisinin inşası başlamadan önce, tesisin
+tasarımında temel güvenlik gereksinimlerinin yeterli düzeyde sağlandığı
+gösterilir.
+(2)
+Tesisin tasarıma uygun inşa edilmesini sağlamak üzere görev, yetki ve
+sorumlulukların net bir şekilde tanımlandığı inşaat organizasyonu
+oluşturulur.
+(3)
+Tasarımda yer alan tüm yapı, sistem ve bileşenler kanıtlanmış ve kabul
+görmüş teknik yöntem ve prosedürler kullanılarak
+güvenlik sınıflarına uygun kalitede inşa edilir.
+(4)
+İnşa sırasında tesis tasarımında güvenliğe ilişkin değişiklik yapılması
+gerektiğinde Kurumun belirlediği prosedürler
+çerçevesinde onay alınır.
+İşletmeye alma programı
+MADDE 27 – (1) Tesisin güvenlikle ilgili elemanlarının
+tasarıma uygun şekilde inşa edildiğini ve amacına uygun şekilde çalıştığını
+göstermek ve yetersizliklerin belirlenip giderilmesini sağlamak için bir
+işletmeye alma programı oluşturulur.
+(2)
+İşletmeye alma programında, uygunluk değerlendirmeleri, gözden geçirme ve
+değerlendirmeler yolu ile testlerin planlandığı şekilde tamamlandığı
+gösterilir.
+Organizasyon ve sorumluluk
+MADDE 28 – (1) Yetkilendirilen kişi, işletmeye alma öncesinde
+işletme organizasyonu oluşturur ve bu organizasyon inşaat organizasyonu ile
+birlikte işletmeye alma programının hazırlanması ve uygulanmasında fiilen
+yer alır.
+(2)
+İşletmeye alma aşamasında işletme organizasyonunda görev alan kişilerin
+görev, yetki ve sorumluluk dağılımının açık ve net olması sağlanır. İşletici
+personelin işletmeye alma sırasında tesise özel eğitimleri almaları
+sağlanır.
+İşletmeye alma testleri ve aşamaları
+MADDE 29 – (1) İşletmeye alma, aşamalar halinde yürütülür,
+aşamalardan biri başarı ile bitirilmeden diğerine geçilmez. Her aşamada yer
+alan testlerin gereken ayrıntıdaki sonuçları dokümante
+edilir ve tesisin ömrü boyunca korunur.
+(2)
+İşletmeye alma testleri tesisteki tüm sistem ve bileşenleri kapsayacak
+şekilde ve mümkün olduğunca işletmede karşılaşılabilecek koşullara uygun
+olarak işletici personelin katılımıyla gerçekleştirilir.
+İşletmeye alma prosedürleri
+ve raporları
+MADDE 30 – (1) İşletmeye alma faaliyetleri prosedürlere
+uygun olarak yapılır. Prosedürler; testlerin amacını, beklenen sonuçları,
+testler için doğruluk kriterlerini, test
+aşamasında gerekli güvenlik önlemlerini, önkoşulları ve test talimatlarını
+kapsar.
+(2)
+İşletme sırasında takip edilecek prosedürler,
+tasarımcıların ve imalatçıların sağladığı bilgilere dayanılarak, işletmeye
+almadan önce ve işletmeye alma sırasında hazırlanır. Hazırlanan prosedürler doğrulanmak ve gerekli görülen değişiklikler
+yapılmak üzere işletmeye alma sırasında test edilir.
+(3)
+İşletmeye alma sırasında, güvenlik açısından önemli bileşenler ve işletme
+durumunda rutin olarak izlenen ve ölçülen güvenlikle ilgili tüm
+parametreler için temel veriler toplanır.
+(4)
+İşletmeye alma sırasında tesis tasarımında güvenliğe ilişkin değişiklik
+yapılması gerektiğinde Kurumun belirlediği prosedürler
+çerçevesinde onay alınır.
+Güvenliğin doğrulanması
+MADDE 31 – (1) Tesisin güvenlik analiz raporu, inşaat ve
+işletmeye alma aşamalarında tasarım değerlerinden farklılaşan tüm
+parametreler dikkate alınarak güncellenir ve tesisin kurulduğu şekliyle de
+güvenli olduğu ve güvenli bir şekilde işletilebileceği gösterilir.
+YEDİNCİ BÖLÜM
+Genel İşletme Özellikleri
+Yapılanma, sorumluluklar ve personel
+MADDE 32 – (1) Yetkilendirilen kişi, tüm işletme sürecinde
+tesisin güvenli işletilmesi sorumluluğunu yerine getirmek üzere tesis
+yönetiminin doğrudan otoritesi altında güçlü bir işletme organizasyonu
+kurar ve tesis yönetimine işletme için gerekli mali, teknik, malzeme ve
+işgücü kaynaklarını sağlama ve kullanma yetkisi tanır. İşletme organizasyonunun
+bütün seviyelerindeki birim ve bireylerin fonksiyonları ve güvenliğe
+ilişkin sorumlulukları görev tanımında açıkça belirtilir. İşletme
+organizasyonu için tanımlanan yetki ve sorumluluklar yetkilendirilen
+kişinin nihai sorumluluğunu ortadan kaldırmaz.
+(2)
+İşletme ve kaza koşullarında güvenli bir tesis işletiminin gereğince yerine
+getirilmesi için yeterli sayıda deneyimli personel istihdam edilir.
+Tesisler arası arayüz
+düzenlemeleri
+MADDE 33 – (1) Aynı saha içerisinde, birden fazla tesis
+varsa, bu tesisler arasındaki güvenlikle ilgili bağlantılar belirlenir,
+sorumluluk sınırları açıkça tanımlanır ve etkin iletişim sistemleri
+oluşturulur.
+(2)
+Saha içi taşımacılık yetkili kişi veya kuruluşlar aracılığıyla ve Kurum
+tarafından belirlenen prosedürlere uygun olarak
+yapılır.
+Personelin nitelik ve eğitimi
+MADDE 34 – (1) İşletme personeline hem normal hem de acil
+durum koşullarında kendilerinden beklenen görevleri istenilen seviye ve
+nitelikte yapabilmelerini sağlayacak beceri ve bilgiyi kazandıran bir
+eğitim programı oluşturulur ve uygulanır. Bu program işletme tecrübeleri ve
+yeni bilgiler ışığında gerektikçe geliştirilir.
+(2)
+Personel, kazanılmış bilgi ve becerilerin korunması ve tesisin işletilmesi
+sırasında edinilen tecrübelerin ışığında bu bilgi ve becerilerin
+geliştirilmesini sağlamak amacıyla belirli aralıklarda yeniden eğitime tabi
+tutulur.
+(3)
+Özellikle patlama ve yangın durumları için hızlı ve etkin müdahaleyi
+sağlamak üzere işletme personeli yeterli ve düzenli aralıklarla eğitime ve
+tatbikata tabi tutulur.
+(4)
+Eğitimde personelin yerine getirdiği görevin sorumluluklarının ve tehlikelerinin
+farkında olmasına özel önem verilir.
+İşletme deneyiminin aktarılması
+MADDE 35 – (1) Tesiste veya benzer bir tesiste gerçekleşen
+olağandışı olaylar ve kazaların tekrar yaşanmaması amacıyla bu olaylardan
+çıkarılan derslerin ve kazanılan işletme deneyimlerinin işletme personeline
+aktarılması için gerekli düzenlemeler yapılır.
+Değişiklikler
+MADDE 36 – (1) Tesiste yapılacak güvenlikle ilgili tüm
+değişiklikler için Kurumun belirlediği prosedürler
+çerçevesinde onay alınır.
+Olağandışı olaylar
+MADDE 37 – (1) Tesis yönetimi güvenlik açısından önemli
+olayların belirlenmesini, değerlendirilmesini, gerekli düzeltici önlemlerin
+alınmasını sağlar ve ilgili prosedürler uyarınca
+Kuruma bildirimde bulunur.
+(2)
+Olağandışı olayın etkileri uygun bir şekilde analiz edilir ve nedenleri
+saptanır. Tesis yönetimi aynı olayın tekrarlanmaması veya tekrarının bir
+kazaya yol açmaması için gerekli önlemleri almakla yükümlüdür.
+SEKİZİNCİ BÖLÜM
+Özel İşletme Özellikleri
+İşletme sınır ve koşulları
+MADDE 38 – (1) Tesis işletmeye başlamadan önce güvenli
+işletme sınırlarını belirleyen işletme sınır ve koşulları hazırlanır ve bu
+sınır ve koşullar içerisinde çalıştırılır.
+(2)
+İşletme sınır ve koşulları, tesisin normal işletmesinde yer alan tüm
+durumlar için belirlenir. Kurum tarafından onaylı prosedürlerce
+izin verilen durumlar dışında işletme sınır ve koşulları kasıtlı olarak
+aşılamaz.
+İşletme prosedürleri
+ve yönergeleri
+MADDE 39 – (1) Tesis ayrıntılı, doğrulanmış ve Kurum
+tarafından belirlenen kurallar uyarınca onaylanmış işletme prosedürlerine uygun olarak işletilir. İşletme prosedürleri işletme deneyimleri doğrultusunda,
+gerektiğinde, ilgili prosedürlere uygun olarak değiştirilir. Değişiklikler
+ancak Kurum tarafından belirlenen kurallar uyarınca onaylandıktan ve ilgili
+personel eğitildikten sonra uygulanır.
+(2)
+İşletme yönergelerinde tesisin işletme sınır ve koşullarının içinde
+kalındığını gösteren bütün kontrol, test, kalibrasyon
+ve denetimleri içeren işletme metotları açık bir şekilde yer alır. İşletme
+yönergeleri belli aralıklarla gözden geçirilir, güncellenir ve gerektiğinde
+kullanıcının kolayca ulaşabilmesi sağlanır.
+Bakım, onarım, test ve denetim
+MADDE 40 – (1) Yapı, sistem ve bileşenlerin tasarım
+amaçlarına ve güvenlik gereklerine uygunluğunu tesisin tüm ömrü boyunca
+sürdürebilmek için koruyucu ve önleyici bakım, onarım, periyodik test ve
+denetimler yapılır. Bakım, onarım ve periyodik testler saha içinde acil
+durum planının yerine getirilmesini sağlayan ekipmanları
+da kapsar.
+(2)
+Bütün bakım, onarım, periyodik test ve denetimler ayrıntılı, doğrulanmış,
+yazılı ve onaylı prosedürlere uygun ve düzenli
+olarak yetkin personel tarafından bir program çerçevesinde
+gerçekleştirilir.
+(3)
+Bakım, onarım, test ve denetim programı düzenli aralıklarla gözden
+geçirilir, işletme deneyimleri doğrultusunda geliştirilir.
+(4)
+Bakım, onarım, test ve denetim sonuçları değerlendirme amacıyla kaydedilir
+ve saklanır.
+Değişiklikler
+MADDE 41 – (1) Tesiste gerçekleştirilecek değişiklikler
+uygulanmadan önce güvenlik açısından değerlendirilir ve tüm değişiklikler
+için Kurum tarafından belirlenen prosedürler
+çerçevesinde onay alınır.
+Radyasyondan korunma
+MADDE 42 – (1) Tesiste radyasyona maruz kalınabilecek tüm
+faaliyetlerin planlanması, yönetilmesi ve uygulanmasının temel radyasyondan
+korunma ilkeleri çerçevesinde gerçekleştirilmesini sağlamak üzere
+oluşturulan radyasyondan korunma programı uygulanır.
+(2)
+Radyasyondan korunma programı kapsamındaki kayıtlar ilgili mevzuatta
+belirtilen ayrıntıda tutulur ve belirtilen süre boyunca saklanır.
+(3)
+Radyasyondan korunma programında yer alan faaliyetler radyasyondan korunma prosedürleri çerçevesinde radyasyondan korunma personeli
+tarafından yürütülür. Radyasyondan korunma personeline prosedürlere
+uyulduğunu garanti altına almak ve gerektiğinde tavsiyelerde bulunmak
+amacıyla tesis yönetimine doğrudan ulaşabilme olanağı sağlanır.
+(4)
+Radyasyonlu alanda çalışan işletme personelinin aldığı dozlar gerektiği
+şekilde ölçülür, kaydedilir ve değerlendirilir.
+(5)
+Radyoaktif kontaminasyonun yayılması uygulanabildiği
+ölçüde kontrol altında tutulur ve en aza indirgenir. Kontaminasyon
+seviyesine göre kontrollü alanlar oluşturulur ve bu alanlara erişim
+sınırlandırılır.
+(6)
+Radyasyonlu alanlarda çalışan personel için radyasyondan korunmak amacıyla
+gerekli ekipman sağlanır.
+Kritiklik kontrolü
+MADDE 43 – (1) Tesiste bölünebilir maddelere ilişkin tüm
+işlemler kritiklik kazasına neden olmayacak şekilde gerçekleştirilir.
+(2)
+Kritikliğin önlenmesine ilişkin tüm işlemler yazılı prosedürler
+çerçevesinde yerine getirilir. Bu prosedürlerde
+kontrol edilmesi gereken tüm parametreler belirtilir.
+(3)
+Prosedürlerden sapma ve proses koşullarında
+öngörülemeyen değişimler gibi kritikliğin kontrolünü etkileyen olaylar
+ilgili prosedürler uyarınca Kuruma bildirilir. Olayların tekrarlanmasını
+önleyecek tedbirler alınır.
+(4)
+Tesis işletiminde kritiklik konusunda personel eğitimine yardımcı olma,
+işletme prosedürlerinin geliştirilmesinde teknik
+yardım ve uzmanlık sağlama, kritiklik kontrolü gerektiren bütün
+uygulamaları kontrol etme ve onaylama görevlerini yerine getiren konusunda
+uzman ve yetkili personel yer alır.
+Radyoaktif atık yönetimi
+MADDE 44 – (1) Tesiste üretilen tüm radyoaktif atıklar
+radyoaktif atık yönetimi çerçevesinde ele alınır. Radyoaktif atık yönetimi,
+her çeşit radyoaktif atık üretimini uygulanabilir yöntemlerle en aza
+indirecek ve kontrol edecek, çevreye radyoaktif madde salımı mümkün ve
+makul olan en düşük seviyede olacak, atıkların tasfiyesini, işlenmesini ve
+tesisin işletmeden çıkarılmasını kolaylaştıracak şekilde gerçekleştirilir.
+(2)
+Radyoaktif ve zararlı kimyasal atıklara ilişkin tüm faaliyetler bir atık
+yönetimi programı kapsamında Kurumun belirlediği esaslara uygun şekilde
+yürütülür.
+(3)
+Tüm radyoaktif ve zararlı kimyasal atık salımları
+izlenir ve kaydedilir.
+Endüstriyel ve kimyasal güvenlik yönetimi
+MADDE 45 – (1) Tesiste meydana gelebilecek kimyasal ve
+endüstriyel tehlikelerin çalışanlar, halk ve çevreye olan risklerinin en
+aza indirilmesi için gerekli düzenlemeler yapılır ve güvenlik önlemleri
+alınır.
+(2)
+Nükleer güvenliği tehlikeye atabilecek yangın ve patlama tehlikelerine
+ilişkin tüm faaliyetler belirli aralıklarla gözden geçirilip güncellenen
+yangından korunma programı çerçevesinde ele alınır.
+(3)
+Nükleer güvenliği tehlikeye atabilecek kimyasal tehlikelere ilişkin tüm
+faaliyetler belirli aralıklarla gözden geçirilip güncellenen bir program
+çerçevesinde ele alınır.
+Acil durum planlaması
+MADDE 46 – (1) Tesiste olabilecek kazalar sırasında
+uygulanmak üzere Kurum tarafından onaylı bir acil durum planı bulunur ve bu
+planın uygulanabilirliğinden emin olmak için periyodik tatbikatlar yapılır.
+Acil durum planı, kazanılan deneyimler doğrultusunda gözden geçirilir ve
+güncellenir.
+(2)
+Acil durum planında acil durum organizasyonu, kazaların radyolojik sonuçlarına
+göre sınıflandırılması, acil durum planlama bölgesinin tanıtılması, acil
+durumlarda müdahale ve koruyucu önlemler, ilgili ekipman,
+tesis ve prosedürler, acil durumun sonlandırılması koşulları ile tesisteki
+acil durum hazırlıkları tanımlanır.
+(3)
+Acil durumlarda kullanılacak tüm ekipman, cihaz,
+dokümantasyon ve iletişim sistemleri her an kullanıma hazır tutulur.
+Güvenliğin doğrulanması
+MADDE 47 – (1) Tesisin periyodik güvenlik değerlendirmesi
+teknik gelişmeler, işletme deneyimi, yaşlanma ve saha özelliklerindeki
+değişimler de gözönüne alınarak belirli
+aralıklarla yapılır.
+(2)
+Periyodik güvenlik değerlendirmesi sonuçları rapor halinde Kuruma sunulur
+ve değerlendirme ışığında ilgili tesis dokümanları güncellenir.
+DOKUZUNCU BÖLÜM
+İşletmeden Çıkarma
+İşletmeden çıkarma programı
+MADDE 48 – (1) Tesisin tasarımı aşamasından işletmeden
+çıkarılmasına kadar olan tüm faaliyetlerde tesisin işletmeden çıkarılacağı
+ve atıkların depolanacağı dikkate alınır ve işletme sırasında ortaya
+çıkacak olan radyoaktif atık miktarı mümkün ve makul olan en düşük düzeyde
+tutulur.
+(2)
+İşletmeden çıkarma sürecinde çalışanların ve halkın radyasyondan korunması
+sağlanır. Tesisi işletmekle yetkilendirilen kişi çalışanların ve halkın
+radyasyondan korunmasını ön plana alan bir işletmeden çıkarma programı
+hazırlamak ve Kurumun onayını aldıktan sonra uygulamakla yükümlüdür.
+ONUNCU BÖLÜM
+Son Hükümler
+Yürürlük
+MADDE 49 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 50
+– (1) Bu Yönetmelik hükümlerini
+Kurum Başkanı yürütür.
