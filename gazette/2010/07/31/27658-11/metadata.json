@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-07-31",
+  "issue": "27658",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Radyasyon Güvenliği Denetimleri ve Yaptırımları Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100731-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100731.htm",
+  "index_sha256": "21b9045d1d6dfad0412e9652bab3992ef381a13022b1fafecbad131285bbe211",
+  "index_header": "31 Temmuz 2010 ... 27658 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
