@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6012",
+  "year": 2010,
+  "title": "Uluslararası Telekomünikasyon Birliği (ITU) 2003 Dünya Radyokomünikasyon Konferansı Sonuç Belgelerinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-07-31",
+  "gazette_issue": "27658",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100731-3.htm",
+  "source_sha256": "356a464927a88a7dfb6f1849f3f2daafe0eb2344ad80d551d18c3d21973cc126",
+  "text_sha256": "401c336a003f23286cec91e46121d1c814b0dd02d045d8feec1ebbcf0a32e4ed",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/07/31/27658-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100731-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
