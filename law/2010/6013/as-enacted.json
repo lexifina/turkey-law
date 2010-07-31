@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6013",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Suriye Arap Cumhuriyeti Hükümeti Arasında Elektrik, Petrol, Gaz ve Maden Kaynakları Alanlarında İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-07-31",
+  "gazette_issue": "27658",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100731-4.htm",
+  "source_sha256": "f8cfef29296c2c56a57e4d9f63a2ea1328fb150207da161f2d90967ed88940fb",
+  "text_sha256": "d7394c082e46f387ed75fcafa22ab40a54efe37467867f0b095b729ee4d3c0b7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/07/31/27658-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100731-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
