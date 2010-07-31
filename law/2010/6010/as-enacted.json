@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6010",
+  "year": 2010,
+  "title": "Güneydoğu Asyada Dostluk ve İşbirliği Andlaşması ile Andlaşmada Değişiklik Yapan Protokollere Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-07-31",
+  "gazette_issue": "27658",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100731-1.htm",
+  "source_sha256": "4e49c02301f36824bca8e71046e1d194ed37e99731cc556f76b0282d2a659840",
+  "text_sha256": "cab9306aec9614723d65375bc6462027494cf7c8802da5affde5adf64f479e5e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/07/31/27658-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/07/20100731-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
