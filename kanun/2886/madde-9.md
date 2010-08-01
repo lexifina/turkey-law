@@ -1,0 +1,8 @@
+İKİNCİ KISIM
+İhale İşlemleri
+BİRİNCİ BÖLÜM
+İhaleye Hazırlık
+Tahmin edilen bedelin tespiti:
+Madde 9 – Tahmin edilen bedel, idarelerce tespit edilir veya ettirilir. İşin özelliğine göre gerektiğinde bu bedel veya bu bedelin hesabında kullanılacak fiyatlar bedeliye, ticaret odası, sanayi odası, borsa gibi kuruluşlardan veya bilirkişilerden soruşturulur. Tahmin edilen bedel, bunun dayanaklarının da eklendiği bir hesap tutanağında gösterilir ve asıl evrak arasında saklanır. Bu be-
+del gerektiğinde ihale komisyonlarınca tahkik ettirilir.
+Ancak, yapım işlerinde bu işler için kanunların verdiği yetkiye dayanılarak ilgili dairelerce tespit edilmiş birim fiyatları varsa, bunlar uygulanır.
