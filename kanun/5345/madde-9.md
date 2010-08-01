@@ -8,4 +8,4 @@ e) Gelirleri etkileyen her türlü kanun tasarı ve tekliflerini, vergi tekniği
 f) Mahalli idare gelirleri politikası ile Devlet gelirleri politikasının uygulanmasında uyumu sağlayıcı tedbirler almak.
 g) Vergi beyannameleri ve mükelleflerce kullanılacak formların şekil ve içeriği konusunda görüş bildirmek.
 h) Başkanlıkça verilecek diğer görevleri yapmak.
-(Ek fıkra: 22/12/2005-5436/14 md.) Bu görevler, vergi türleri veya mükellef grupları itibarıyla üç ayrı daire başkanlığı tarafından yürütülür.
+(Ek fıkra: 22/12/2005-5436/14 md.; Mülga fıkra: 23/7/2010-6009/38 md.)
