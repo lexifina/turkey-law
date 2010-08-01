@@ -10,3 +10,4 @@ Anayasa Mah.’nin E.: 2001/382, K.: 2002/21 sayılı Kararı | 3 | 4/10/2002
 5838 | 4, 6, EK MADDE 3, GEÇİCİ MADDE 11 | 28/2/2009
 5917 | GEÇİCİ MADDE 2 | 10/7/2009
 6001 | EK MADDE 2 | 13/7/2010
+6009 | 4, 5, EK MADDE 2, GEÇİCİ MADDE 12 | 1/8/2010

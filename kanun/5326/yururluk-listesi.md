@@ -6,3 +6,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5348 | EK MADDE 1 | 18/5/2005
 5560 | 3, 17, 20, 27, 28, GEÇİCİ MADDE 1 | 19/12/2006
 5918 | 43/A | 9/7/2009
+6009 | 21 | 1/8/2010
