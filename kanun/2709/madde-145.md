@@ -8,4 +8,4 @@ Askerî mahkemelerin savaş halinde hangi suçlar ve hangi kişiler bakımından
 Askerî yargı organlarının kuruluşu, işleyişi, askerî hâkimlerin özlük işleri, askerî savcılık görevlerini yapan askerî hâkimlerin görevli bulundukları komutanlıkla ilişkileri, mahkemelerin bağımsızlığı ve hâkimlik teminatı esaslarına göre kanunla düzenlenir.
 II. Yüksek mahkemeler
 A. Anayasa Mahkemesi
-1. Kuruluşu
+1. Kuruluşu (1)
