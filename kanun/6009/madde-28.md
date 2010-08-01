@@ -1,0 +1,1 @@
+MADDE 28-25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun 17 nci maddesinin (2) numaralı fıkrasının (a) bendinin sonunda yer alan “teslim ve hizmetleri” ibaresi “teslim ve hizmetleri ile bunlardan sağlık hizmeti sunanların teşhis ve tedaviye yönelik olarak birbirlerine yapacakları teslim ve hizmetler” şeklinde değiştirilmiştir.

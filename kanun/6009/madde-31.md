@@ -1,0 +1,4 @@
+Yol giderleri ilgili kişiler tarafından karşılanır. Görülen işler birden fazla ise ödenecek yol gideri uzaklıkla orantılı şekilde hesaplanır.”
+MADDE 31-3717 sayılı Kanuna aşağıdaki geçici maddeler eklenmiştir.
+“GEÇİCİ MADDE 2- 21/11/2008 tarihinden bu maddenin yürürlüğe girdiği tarihe kadar bu Kanunun 2 nci maddesi uyarınca banka hesaplarına yatırılan paralar, bu süreler içinde çalışan personele çalışma süresi dikkate alınarak 21/11/2008 tarihinden önce yürürlükte bulunan Kanun hükümlerine göre dağıtılır. Bu şekilde yapılacak ödemelerin Kanunda öngörülen üst sınırı aşması durumunda, artan miktar Hazineye gelir kaydedilir.
+GEÇİCİ MADDE 3- Bu Kanunun 2 nci maddesi uyarınca Adalet Bakanlığı bütçesinden yapılacak giderler için kullanılmak amacıyla, 2009 yılı yargı harçları gelir gerçekleşmesinin yüzde beşini geçmemek üzere Adalet Bakanlığı 2010 yılı bütçesine ödenek eklemeye Maliye Bakanlığı yetkilidir.”

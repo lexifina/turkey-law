@@ -1,0 +1,2 @@
+MADDE 60-14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 79 uncu maddesinin ikinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+“Kurumlarınca gönderilenlerden, uluslararası kuruluşlarda staj yapan ve çalışma esas ve usulleri ile misyon şeflikleriyle ilişkileri Devlet Personel Başkanlığının görüşü üzerine Dışişleri Bakanlığınca belirlenen memurlara, gittikleri ülkelerde sürekli görevle bulunan ve dokuzuncu derecenin birinci kademesinden aylık alan meslek memurlarına ödenmekte olan yurtdışı aylığı tutarı, diğerlerine bu tutarın 2/3’ü ödenir.”

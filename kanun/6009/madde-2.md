@@ -1,0 +1,1 @@
+MADDE 2-6802 sayılı Kanunun 29 uncu maddesinin birinci fıkrasının (p) bendinde yer alan “Arbitraj muameleleri” ibaresi “Arbitraj muameleleri ile Türkiye’de kurulu borsalarda gerçekleştirilen vadeli işlem ve opsiyon sözleşmelerine ilişkin muameleler” şeklinde değiştirilmiştir.

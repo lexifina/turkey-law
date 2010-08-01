@@ -1,0 +1,2 @@
+MADDE 53- 13/10/1983 tarihli ve 2919 sayılı Türkiye Büyük Millet Meclisi Genel Sekreterliği Teşkilat Kanununun 14 üncü maddesinin ikinci fıkrasının birinci cümlesi aşağıdaki şekilde değiştirilmiştir.
+“Türkiye Büyük Millet Meclisi harcamalarının dış denetimi, her yıl Sayıştay tarafından görevlendirilen üç denetçiden oluşan bir komisyonca, yalnızca hesaplar ve bunlara ilişkin belgeler esas alınarak yapılır.”
