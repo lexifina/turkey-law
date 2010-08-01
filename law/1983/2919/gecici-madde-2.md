@@ -1,0 +1,3 @@
+Geçici Madde 2 – Milli Güvenlik Konseyi Genel Sekreterliği ve Danışma Meclisi Genel Sekreterliği kadrolarında görevli memurların; bu Kanuna ekli kadrolara atanma ve intibakları, Milli Güvenlik Konseyi Genel Sekreterinin onayı ile bu Kanunun yayımı tarihinden itibaren iki ay içinde yapılır.
+Bu Kanuna göre yapılacak yeni düzenlemeler nedeniyle yeni kadroları eski kadrolarından daha aşağıda olan görevlilerin eski kadrolarına ait aylık, ek gösterge ve her türlü zam ve tazminat hakları Türkiye Büyük Millet Meclisi Genel Sekreterliği görevlerinde kaldıkları sürece şahıslarına bağlı olarak saklı tutulur.
+Atama işlemleri tamamlanıncaya kadar personelin mali, sosyal ve her türlü özlük haklarına ilişkin eski hükümlerin uygulanmasına devam olunur.

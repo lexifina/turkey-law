@@ -1,0 +1,2 @@
+Geçici Madde 4 – İlk genel seçimler sonucu Türkiye Büyük Millet Meclisi toplanıp Başkanlık Divanı oluşuncaya kadar bu Kanunun uygulanması Milli Güvenlik Konseyi Genel Sekreterliğince yürütülür. Türkiye Büyük Millet Meclisi Genel Sekreterliğı, Milli Güvenlik Konseyi Genel Sekreterliği bünyesi içinde görevine devam eder.
+Danışma Meclisinin faaliyetleri devam ettiği sürece idari hizmetleri için memur ihtiyacı Türkiye Büyük Millet Meclisi Genel Sekreterliğince karşılanır.

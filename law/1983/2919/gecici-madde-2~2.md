@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 2 – Mesleğe özel yarışma sınavına tâbi tutulmak suretiyle alınan ve yönetmeliklerine göre yapılan yeterlik sınavında başarı gösterip uzman kadrolarına atanarak halen Türkiye Büyük Millet Meclisinde çalışanlara hiçbir işleme gerek kalmaksızın, bir defaya mahsus olmak üzere haklarında ilave bir derece yükselmesi uygulanır.
+2) 23/7/2010 tarihli ve 6009 sayılı Kanunun 54 üncü Maddesi: (1)

@@ -1,0 +1,1 @@
+Geçici Madde 6 – Bu Kanun hükümlerine göre hazırlanacak yönetmelikler yürürlüğe girinceye kadar halen yürürlükte bulunan Millet Meclisi idari teşkilatına ait yönetmeliklerin bu Kanun hükümlerine aykırı olmayan hükümleri uygulanmaya devam olunur.

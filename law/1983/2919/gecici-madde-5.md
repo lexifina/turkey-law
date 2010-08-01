@@ -1,0 +1,2 @@
+Geçici Madde 5 – Bu Kanunun yürürlüğe girdiği tarihten itibaren, Danışma Meclisi Genel Sekreterliği memurlarına, 1983 yılı Danışma Meclisi Bütçesinde tahsis edilmiş olan ödenekleri kullanmaya, Milli Güvenlik Konseyi Genel Sekreterliği;
+İlk genel seçimler sonucu Türkiye Büyük Millet Meclisi toplanıp Başkanlık Divanı oluştuktan sonra Danışma Meclisi ve Milli Güvenlik Konseyi (Milli Güvenlik Konseyi Genel Sekreterliği) bütçelerindeki ödenekleri kullanmaya Türkiye Büyük Millet Meclisi Başkanı yetkilidir.

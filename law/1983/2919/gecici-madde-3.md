@@ -1,0 +1,1 @@
+Geçici Madde 3 – Cumhurbaşkanlığı Genel Sekreterliği; Cumhurbaşkanlığı Dairesi inşaatı bitinceye kadar, Türkiye Büyük Millet Meclisinde Milli Güvenlik Konseyi Genel Sekreterliğinin halen kullandığı bölümden ve Türkiye Büyük Millet Meclisinin diğer bölüm ve kolaylıklarından faydalanır.

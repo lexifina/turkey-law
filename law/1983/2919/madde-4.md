@@ -1,0 +1,5 @@
+Personel hükümleri
+Madde 4 – (Değişik: 21/12/1989 - 3594/1 md.)
+Türkiye Büyük Millet Meclisi Genel Sekreterliği Teşkilatının kadroları ekli cetvellerde gösterilmiştir. Bu kadrolarda çalışan personel hakkında 657 sayılı Devlet Memurları Kanununun istisnai memurluklarla ilgili hükümleri uygulanır.
+Yasama faaliyetiyle ilgili idari hizmetleri yürüten uzman, uzman yardımcısı ve raportörlerle stenograflar, yükseköğrenim görmüş kişiler arasından özel yarışma sınavı ile alınırlar. Bunlarda aranacak nitelikler, hizmete alınmaları, yetiştirilmeleri,yeterliliklerinin tespiti ve meslek içi ilerlemeleri ile istisnai memurluklara atanacaklarda aranacak özel şartlar ve atamalarda uygulanacak esaslar Türkiye Büyük Millet Meclisi Başkanlığınca çıkarılacak bir yönetmelikle belirlenir.
+(Ek fıkra: 29/11/2006 – 5559/2 md.) Özel yarışma sınavına tâbi tutulmak suretiyle alınan Türkiye Büyük Millet Meclisi Uzman Yardımcılarının özel yeterlik sınavı yönetmeliklerine göre yapılacak yeterlik sınavlarında başarı göstererek Türkiye Büyük Millet Meclisi Uzmanlığına atanmaları sırasında ve bir defaya mahsus olmak üzere haklarında ayrıca bir derece yükselmesi uygulanır.

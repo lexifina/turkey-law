@@ -1,0 +1,2 @@
+Geçici hükümler
+Geçici Madde 1 – Bu Kanunun yayımı tarihinde Milli Güvenlik Konseyi Genel Sekreterliği ve Danışma Meclisi kadrolarında gösterilen emniyet personeli kadroları ile bu kadrolarda görevli emniyet personeli ve Emniyet Teşkilatına tahsis edilmiş her türlü araç, gereç, silah ve mühimmat Emniyet Genel Müdürlüğüne devredilir. Emniyet Genel Müdürlüğüne devredilecek bu kadrolar, işgal etmekte olan personelin aylıkları bakımından kazanılmış hakları saklı kalmak kaydıyla, aynen intikal eder.
