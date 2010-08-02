@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/522",
+  "list_number": "522",
+  "decision_date": "2010-08-02",
+  "title": "Anayasa Mahkemesi'nin 07.07.2010 gün ve 49-87 sayılı kısmi iptal kararı sonrasında, takvimi yürütülmekte olan halkoylaması ile ilgili Yüksek Seçim Kurulu'nun 2010/522 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2903/2010-522.pdf",
+  "source_sha256": "a1f982441c71b866e62e1afac3121edacd5c78925889de9949cc0d86440241a3",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-08-02",
+  "law_text_complete": false
+}
