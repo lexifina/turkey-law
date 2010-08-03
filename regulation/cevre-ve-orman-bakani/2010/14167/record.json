@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.14167",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EVSEL VE KENTSEL ARITMA ÇAMURLARININ TOPRAKTA KULLANILMASINA DAİR YÖNETMELİK",
+  "number": "14167",
+  "issuer": "Çevre ve Orman Bakanı",
+  "issuer_slug": "cevre-ve-orman-bakani",
+  "path": "regulation/cevre-ve-orman-bakani/2010/14167",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14167&MevzuatTertip=5",
+  "source_sha256": "1f37fa4777a26f3beab02fff7ae88ff26e92100f4334f71d167f649e37aee407",
+  "source_bytes": 139989,
+  "published": "2010-08-03",
+  "gazette": "27661",
+  "in_force": "2010-08-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.08.2010); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2328,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Stabilize arıtma çamuru kullanımı izin belgesi yükümlülüğü
+GEÇİCİ MADDE 1 – (1) 31/5/2005 tarih ve 25831 sayılı Resmî Gazete’de yayımlanan Toprak Kirliliğinin Kontrolü Yönetmeliği’nin 10 uncu maddesi gereğince verilen "Stabilize Arıtma Çamuru Kullanımı İzin Belgesi" izin süresi bitimine kadar geçerli olup, tekrar Stabilize Arıtma Çamuru Kullanımı İzin Belgesi almak isteyen özel ve resmi kuruluşlar bu Yönetmeliğe göre başvuruda bulunmak zorundadırlar.
