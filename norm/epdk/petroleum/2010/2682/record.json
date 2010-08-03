@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "2682",
+  "decision_date": "2010-08-03",
+  "title": "Opet Petrolcülük Anonim Şirketinin tadiline ilişkin kurul kararı",
+  "categories": [
+    "Petrol Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=68c0fe77cbE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=68c0fe77cbE="
+  ],
+  "source_sha256": "4d15ab5b74614cfd52e5aecf526c39c9ae882f9cfa9b2440304f48f3adfedaa6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14725,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-08-03",
+  "law_text_complete": false
+}
