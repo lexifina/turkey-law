@@ -1,0 +1,4 @@
+Karar ve işlemler
+MADDE 5 – (1) Bir nihai gözden geçirme soruşturmasının açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulu tarafından ÇHC menşeli söz konusu madde için Yönetmelik’in 35 inci maddesi çerçevesinde nihai gözden geçirme soruşturması açılmasına karar verilmiştir.
+(2) Soruşturma, Dış Ticaret Müsteşarlığı İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülecektir.
+(3) ÇHC menşeli soruşturmaya konu mevcut önlem, Yönetmelik’in 35 inci maddesi gereğince soruşturma sonuçlanıncaya kadar yürürlükte kalmaya devam eder.

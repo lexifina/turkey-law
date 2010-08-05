@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 4 – (1) 11/12/2009 tarihli ve 27429 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2009/38 sayılı Tebliğ ile söz konusu maddenin yerli üreticilerinin, bir nihai gözden geçirme soruşturması açılması talebinde bulunulabilecekleri ilan edilmiştir.
+(2) Bu çerçevede gerçekleştirilen başvurunun incelenmesi neticesinde, ÇHC menşeli bahse konu maddeye uygulanan dampinge karşı önlemin yürürlükten kalkması halinde, dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir nihai gözden geçirme soruşturması açılması için yeterli delillerin bulunduğu anlaşılmıştır.
