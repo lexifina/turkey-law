@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.14180",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "UÇUCU MADDELERİN ZARARLARINDAN İNSAN SAĞLIĞININ KORUNMASI HAKKINDA YÖNETMELİK",
+  "number": "14180",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2010/14180",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14180&MevzuatTertip=5",
+  "source_sha256": "7bc0aea412dc44de185e0d40342bc142197d3896e3308d9998155674c44dfede",
+  "source_bytes": 23170,
+  "published": "2010-08-05",
+  "gazette": "27663",
+  "in_force": "2010-08-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.08.2010); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1106,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.14180-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

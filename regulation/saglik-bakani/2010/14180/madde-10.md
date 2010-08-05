@@ -1,0 +1,4 @@
+Önleme, tedavi ve rehabilitasyon
+MADDE 10 – (1) Uçucu maddelerin ve ürünlerin yarattığı sağlık riskleri konusunda toplumu bilinçlendirmek üzere Bakanlıkça önleme çalışmaları yapılır.
+(2) Bu alanda kişiye yönelik koruyucu sağlık hizmetleri ile birinci basamak teşhis, tedavi ve rehabilite edici sağlık hizmetleri aile hekimlerince, topluma yönelik okul sağlığı hizmetleri ile diğer koruyucu sağlık hizmetleri toplum sağlığı merkezlerince verilir.
+(3) Uçucu madde bağımlılarının ikinci basamak tedavi ve rehabilitasyonları, bünyesinde ruh sağlığı ve hastalıkları uzmanı ile psikolog bulunan devlet hastanelerinde sağlanır. İleri tetkik ve tedavi ise, 16/2/2004 tarihli ve 25375 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Madde Bağımlılığı Tedavi Merkezleri Yönetmeliği hükümlerine göre hizmet veren madde bağımlılığı tedavi merkezlerinde yapılır.
