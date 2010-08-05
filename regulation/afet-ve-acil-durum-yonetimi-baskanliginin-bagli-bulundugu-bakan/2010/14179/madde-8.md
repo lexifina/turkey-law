@@ -1,0 +1,2 @@
+Sivil savunma amiri
+MADDE 8 – (1) Sivil savunma uzmanı kadrosu bulunmayan kamu kurum ve kuruluşlarında kurumun üst yöneticisi tarafından bir personel 5/6/1964 tarihli ve 6/3150 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Sivil Savunma ile İlgili Şahsi Mükellefiyet, Tahliye ve Seyrekleştirme, Planlama ve Diğer Hizmetler Tüzüğünün 67 nci maddesi gereğince sivil savunma amiri olarak görevlendirilir. Bu Yönetmelik hükümlerince sivil savunma, seferberlik ve savaş hali hizmetleri ile afet ve acil durum hizmetlerinin koordinasyonu sivil savunma amirince yürütülür.
