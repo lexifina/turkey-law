@@ -1,0 +1,4 @@
+Danışma kurulu
+MADDE 13 – (1) Danışma Kurulu; Üniversiteye bağlı fakülteler, meslek yüksekokulları, enstitüler ve Karabük Üniversitesi Sürekli Eğitim, Uygulama ve Araştırma Merkezi Yönetim Kurulu ve Rektörlüğe bağlı bölüm başkanlarının seçeceği birer üye ile Bilgi İşlem Dairesi Başkanından oluşur. Müdür, Kurulun başkanıdır.
+(2) Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyelerin yerine o üyelerin ait olduğu birimden olmak üzere kalan süreyi tamamlamak üzere yenileri seçilir.
+(3) Danışma Kurulu, Müdürün daveti üzerine olağan olarak yılda en az bir kere, gerekli hallerde daha sık olmak üzere toplanır ve Merkezin faaliyetlerini gözden geçirerek ilgili konularda gerekli kararları alır. Danışma Kurulu toplantısı ve kararları için salt çoğunluk aranır.
