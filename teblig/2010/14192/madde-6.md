@@ -1,0 +1,21 @@
+Yürütme
+MADDE 6 – (1) Bu Tebliğ hükümlerini Bayındırlık ve İskân Bakanı yürütür.
+EK-1
+YİG/ 2010-07 Numaralı Tebliğ Çerçevesinde
+SZUTEST Teknik Kontrol Ve Belgelendirme Hizmetleri Tic. Ltd. Şti.’nin
+Görevlendirme Kapsamı
+Komisyon Karar No. | Ürün(ler)/ Kullanım Amacı | Uygunluk Teyit Sistemi | Şartnameler | Görevler
+97/176/EC | Masif taşıyıcı ahşap malzemeler Elemanlar Köprü elemanları, makas elemanları, demiryolu traversleri (tabanlıklar), döşeme elemanları, duvar elemanları, çatı elemanları.( kirişler, kemerler, mertekler, dikmeler, direkler, kazıklar gibi) (Köprüler, demiryolları ve yapılar için) | Sistem 2+ | TS EN 14081-1 TS EN 14250 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+97/462/EC | Yontulup düzeltilmemiş, kaplama, cilalı veya kaplanmış ahşap esaslı paneller. (İç ve dış uygulamalardaki strüktürel elemanlar için) | Sistem 2+ | TS EN 13986 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+97/740/EC | Duvarcılık birimleri I. Kategori (Duvarda, kolonlarda ve bölücü elemanlarda) | Sistem 2+ | TS EN 771-1 TS 808 EN 771-2 TS EN 771-3 TS EN 771-4 TS EN 771-5 TS EN 771-6 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/214/EC | Strüktürel metalik kesitler/profiller Sıcak haddelenmiş, soğuk şekillendirilmiş veya başka şekilde üretilmiş çeşitli şekillerdeki kesitler/profiller(T, L, H, U, Z, I, kanallar, köşebent, oluk, boru) ,yassı ürünler (tabaka, levha, şerit) çeşitli metal malzemelerden yapılmış, korozyona karşı astarlanarak (kaplanarak) korunmuş yada korunmamış dökme, dövme ve çubuk demirler. (Metal yapılarda veya metal ve beton karma yapılarda kullanılmak üzere) | Sistem 2+ | TS EN 10025-1 TS EN 10210-1 TS EN 10219-1 TS EN 15048-1 TS EN 15088 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/214/EC | Kaynak malzemeleri (Strüktürel metal yapı işlerinde kullanmak için) | Sistem 2+ | TS EN 13479 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/214/EC | Strüktürel bağlayıcılar Metal perçinler, cıvatalar (somunlar ve pullar) ve H. R. Cıvataları (yüksek mukavemetli öngerilimli cıvatalar-High Resistance), başlı çiviler, vidalar, demiryolu sürgüleri. (Strüktürel metal yapı işlerinde kullanmak için) | Sistem 2+ | TS EN 14399-1 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC | Beton, harç ve enjeksiyon için agregalar ve dolgu malzemeleri (Yapılar , yollar ve diğer altyapı işlerinde) | Sistem 2+ | TS 706 EN 12620 TS 1114 EN 13055-1 TS EN 13055-2 TS 2717 EN 13139 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC | Agregalar - Bitümlü karışımlar, yüzeye uygulamaları (Yollar ve diğer altyapı işlerinde) | Sistem 2+ | TS EN 13043 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC | Agregalar - Bağlı olmayan ve hidrolik bağlı olan karışımlar için (Yol ve diğer altyapı işlerinde) | Sistem 2+ | TS EN 13242 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC | Koruma tabakası taşları (Zırh taşı) (Su yapıları ve diğer altyapı inşaatları için) | Sistem 2+ | TS EN 13383-1 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC | Demiryolu balastı (Demiryolu işlerinde) | Sistem 2+ | TS 7043 EN 13450 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/601/EC | Yüzey işlemleri (Yolların yapımı ve yüzey uygulamaları için) | Sistem 2+ | TS EN 12271 TS EN 12273 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/601/EC | Bitümlü karışımlar (Yolların yapımı ve yüzey uygulamaları için) | Sistem 2+ | TS EN 13108-1 TS EN 13108-2 TS EN 13108-3 TS EN 13108-4 TS EN 13108-5 TS EN 13108-7 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+1 Standardın nihai versiyonu dikkate alınarak Belgelendirme faaliyeti gerçekleştirilecektir. Ancak, Standardın yeni bir versiyonunun Türk Standartları Enstitüsü (TSE) tarafından yayımlanması halinde imalatçı, Onaylanmış Kuruluş ile temasa geçerek yeni bir değerlendirme gerekip gerekmeyeceğini danışmalıdır. Onaylanmış Kuruluşun görevlendirme kapsamında bulunan Standartlarda meydana gelen değişiklikler TSE’nin web sitesinden ve Bayındırlık ve İskan Bakanlığı tarafından 02/05/2010 tarih ve 27569 sayılı Resmi Gazete’de yayımlanan YİG/2010-07 numaralı “Yapı Malzemeleri Yönetmeliği (89/106/EEC) Kapsamında Uygulanacak Teknik Şartnamelerin Yayımlanması Hakkında Tebliğ”den ve Tebliğin güncellemesinden oluşan Tebliğ değişikliklerinden takip edilmelidir.

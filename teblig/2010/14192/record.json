@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.14192",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİ YÖNETMELİĞİ (89/106/EEC) KAPSAMINDA SZUTEST TEKNİK KONTROL VE BELGELENDİRME HİZMETLERİ TİC. LTD. ŞTİ.’NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (TEBLİĞ NO: YİG/2010-11)",
+  "number": "14192",
+  "issuer": "Bayındırlık ve İskân Bakanı",
+  "path": "teblig/2010/14192",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14192&MevzuatTertip=5",
+  "source_sha256": "1f4b2f84bfae09bc3f30703767e9d4398c14a615875b0c1098464dc98095b69a",
+  "source_bytes": 39621,
+  "published": "2010-08-07",
+  "gazette": "27665",
+  "in_force": "2010-08-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.08.2010); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 858,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://ec.europa.eu/enterprise/newapproach/nando/index.cfm?fuseaction=notification.html&dir_id=3&ntf_id=156852&version_no=4&lst_version_no=4,3,2,1&max_version=4&history_flg=Y##"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
