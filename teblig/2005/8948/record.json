@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.8948",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "PETROL PİYASASINDA SİGORTA YÜKÜMLÜLÜKLERİ HAKKINDA TEBLİĞ",
+  "number": "8948",
+  "issuer": "Başkan",
+  "path": "teblig/2005/8948",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8948&MevzuatTertip=5",
+  "source_sha256": "0c543aa1310fe88056e440b4268e551500c69a93011e9940a18190064acdd412",
+  "source_bytes": 19540,
+  "published": "2005-06-15",
+  "gazette": "25846",
+  "in_force": "2010-08-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/8/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-08-10",
+      "RG-10/8/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 596,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
