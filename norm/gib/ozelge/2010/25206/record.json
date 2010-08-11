@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.02-VUK-21-176-29",
+  "source_id": 25206,
+  "date": "2010-08-11",
+  "title": "Hammadde alımında firmanın serbest bölgede olması halinde Ba formunun nasıl düzenleneceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25206",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "5ac3bf64f68b25b24efbdf9a26174a70d0e59f129b08bc6c438b0b45776fb658",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
