@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.33.15.01-2010-705-9-20",
+  "source_id": 35884,
+  "date": "2010-08-11",
+  "title": "İzale-i şuyu yoluyla yapılan satışlarda tapu harcının matrahı olarak satın alınan hisse ihale bedelinin mi, toplam satış bedelinin mi alınacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35884",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "f8d15426e24e0029550a0a60e3668c875c8b4f7cc20ba5cb4ffa8d04b66ab488",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
