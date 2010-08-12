@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-3-2010-14028-25-544",
+  "source_id": 29852,
+  "date": "2010-08-12",
+  "title": "30.04, 3821.00.00.00.00, 3822.00 tarife pozisyonlarında yer alan eşyaların Sağlık Bakanlığı tarafından ruhsatlandırılan veya ithaline izin verilen beşeri tıbbi ürün mahiyetinde olanlarının ithali veya yurt içi teslimleri ile 3821.00.00.00.00 ve 3822.00 po",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29852",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "62f0165bdc44dd3bab531c4a6ac94c57426e1b6b36ebd9cd70da6a5e33cb308e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
