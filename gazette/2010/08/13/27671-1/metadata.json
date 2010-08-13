@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-08-13",
+  "issue": "27671",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2010/756 İthalat Rejimi Kararına Ek Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/08/20100813-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/08/20100813.htm",
+  "index_sha256": "883ba505cbcec2fe3fe5a84f78fd1d4c3672a2c76465da11819938e1ff8878b9",
+  "index_header": "13 Ağustos 2010 ... 27671 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "a00f0b9be89e961a4c75825932aa8ba68c3cee01282fcd26e01c3592ccd2387a",
+  "text_status": "text.txt as published"
+}
