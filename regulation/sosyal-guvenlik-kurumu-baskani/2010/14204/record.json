@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.14204",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL GÜVENLİK KURUMU İCRA MEMURLARI YÖNETMELİĞİ",
+  "number": "14204",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "issuer_slug": "sosyal-guvenlik-kurumu-baskani",
+  "path": "regulation/sosyal-guvenlik-kurumu-baskani/2010/14204",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14204&MevzuatTertip=5",
+  "source_sha256": "7d610fcd3d28190bec1b24515922c34e6dfd27d37e22b306d8e3a12793050b67",
+  "source_bytes": 37364,
+  "published": "2010-08-13",
+  "gazette": "27671",
+  "in_force": "2010-08-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.08.2010); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2171,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Görevlendirme yetkisi
+MADDE 11 – (1) 6183 sayılı Kanuna göre yürütülecek işlemlerde, ünitedeki icra memurları haricinde personel görevlendirilmesi halinde ilgili personel için, Sosyal Güvenlik İl Müdürü tarafından görevlendirme süresini de belirten geçici icra memuru görev ve yetki belgesi düzenlenir. Yapılan bu görevlendirmeler ile ilgili olarak Genel Müdürlüğe on beş gün içinde yazılı bilgi verilir.
