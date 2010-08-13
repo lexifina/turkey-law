@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-08-13",
+  "issue": "27671",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kadir Has Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/08/20100813-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/08/20100813.htm",
+  "index_sha256": "883ba505cbcec2fe3fe5a84f78fd1d4c3672a2c76465da11819938e1ff8878b9",
+  "index_header": "13 Ağustos 2010 ... 27671 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
