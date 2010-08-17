@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV 28-301",
+  "source_id": 33145,
+  "date": "2010-08-17",
+  "title": "Ayçiçeği çekirdeğinin sertifikasız tohumunun toptan tesliminin % 1,perakende tesliminin % 8; ayçiçeği, fiğ, şeker pancarı ve yoncanın sertifikalı tohumlarının ithal veya tesliminin % 1; trikale tohumunun sertifikalı ve sertifikasız olanlarının; şeker panc",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33145",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "f06dceef4872065e71b6d0d99876e296e38ae751bbbe00c97b583843f507dd9c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
