@@ -1,0 +1,3 @@
+Müfettişlik kıdeminin uygulanması
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin 17 nci maddesinde belirtilen müfettişlik kıdemine esas sürenin belirlenmesinde, Teftiş Kurulu Başkanlığı’nın Gözetim Müdürlüğü ile birleşmesi öncesinde Gözetim Müdürlüğünde görevli olan ve bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla Kurulda görev yapan Müfettişlerin, uzman personel olarak Borsada geçirdikleri süre müfettişlik kıdeminin belirlenmesinde Kurulda geçmiş gibi sayılır.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarih itibariyle Başmüfettiş olanlar arasındaki kıdem sırasının tespitinde, Başmüfettişliğe atanma tarihi değil, bu Yönetmeliğin 17 nci maddesi birinci ve ikinci fıkrasında tanımlanan müfettişlik kıdemine esas süre dikkate alınır.

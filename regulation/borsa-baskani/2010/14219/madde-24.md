@@ -1,0 +1,2 @@
+Gözetim
+MADDE 24 – (1) Borsa mevzuatı ve ilgili mevzuat çerçevesinde, Borsa bünyesinde kurulan gözetim sistemi üzerinden yürütülen Borsa işlemlerine ilişkin piyasa izleme ve rutin gözetim faaliyeti ile bu faaliyet sonucuna göre gerekli görülürse şüpheli işlemlerin detaylı olarak incelenmesi ile Sermaye Piyasası Kurulu tarafından verilen gözetim faaliyetlerinin yerine getirilmesi faaliyetinden oluşur.

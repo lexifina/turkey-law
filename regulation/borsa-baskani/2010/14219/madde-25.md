@@ -1,0 +1,4 @@
+Soruşturma
+MADDE 25 – (1) Borsa birimleri ve Borsa personeli ile Borsa üye ve üye temsilcilerinin Borsa mevzuatı ve ilgili mevzuat hükümlerine göre cezaya konu olan fiil ve hareketlerinin olup olmadığının incelenmesine yönelik faaliyetleri ifade eder.
+(2) Müfettişler; kimliği belli şahıslar tarafından açık adresli ve imzalı ihbar yapılması, kimlik ve adres belirtilmeden yazılı, sözlü veya telefonla yapılmış ihbarların dayandığı maddi delil ve evrakların geçerli bulunması, Kurul faaliyetleri sırasında suç niteliğinde bir fiilden haberdar veya bir fiile şahit olunması, Disiplin Kurulu ve Disiplin Komitesi tarafından talepte bulunulması gibi hallerde Kurul Başkanının onayı/talimatı üzerine soruşturmaya başlayabilirler.
+(3) Suç delillerinin ortadan kaldırılma olasılığının bulunması halinde veya işin mahiyeti gereği acil durumlarda Müfettişlikçe doğrudan soruşturmaya başlanmakla beraber durum, derhal Kurul Başkanına bildirilir.

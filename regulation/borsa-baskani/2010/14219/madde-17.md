@@ -1,0 +1,4 @@
+Müfettişlerin kıdemi
+MADDE 17 – (1) Müfettişlerin kıdemi, kıdeme esas sürelere göre saptanır.
+(2) Müfettişlik kıdemine esas süre, Müfettiş Yardımcılığında, Müfettişlikte ve Müfettişlik sıfat ve kadrosu muhafaza edilmek şartıyla yapılan görevlendirmelerde, ücretli yasal izinlerde ve askerlik hizmeti ile yurtdışında eğitim ve staj amacıyla alınan ücretsiz izinlerde geçirilen süredir.
+(3) Müfettişlik kıdemine esas süreleri aynı olanlar için kıdem sırası, Müfettiş Yardımcıları açısından giriş sınavındaki; Müfettişler için ise yeterlik sınavındaki başarı derecelerine göre tespit edilir. Başmüfettişlerin kıdem sırası, Müfettişlerden öncedir. Başmüfettişler arasındaki kıdem sırasının tespitinde Başmüfettişliğe atanma tarihi, aynı tarihte atananlar için müfettişlik kıdemi, müfettişlik kıdemi de aynı olanlar için yeterlik sınavındaki başarı derecesi esas alınır.

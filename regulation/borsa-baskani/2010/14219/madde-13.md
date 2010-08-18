@@ -1,0 +1,2 @@
+Müfettişlerin görevlendirilmesi
+MADDE 13 – (1) Müfettişler Borsa Başkanı adına Kurul Başkanından aldıkları talimatla görev yaparlar. Kurul Başkanı dışında bir yerden görev ya da talimat almazlar. Müfettişlerin gözetim, inceleme, denetim ve soruşturma ile görevlendirilmesi ancak Kurul Başkanı tarafından yapılabilir. Müfettişler bu Yönetmelik ve diğer Borsa mevzuatında kendilerine verilen yetkileri görevlendirildikleri her yerde Borsa Başkanı adına kullanırlar.

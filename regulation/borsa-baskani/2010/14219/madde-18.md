@@ -1,0 +1,3 @@
+Müfettişlik güvencesi
+MADDE 18 – (1) Müfettişler, Personel mevzuatının görevden çıkarmaya ilişkin disiplin hükümleri ile bu Yönetmeliğin 12 nci maddesindeki düzenleme haricinde, teftiş hizmetlerinin gerekleriyle bağdaşmayan sıhhi veya mesleki yetersizlikleri tespit edilmedikçe görevden alınamaz. Müfettişler, Kurul Başkanının önerisi ve Borsa Başkanının onayı olmadıkça hizmet ihtiyacı gerekçesiyle başka birimlerde görevlendirilmez, diğer idari görevlere atanamazlar.
+(2) Sıhhi veya mesleki yetersizlik halleri ile disiplin cezası gerektiren fiillerin; yargı kararı, sağlık kurulu raporu, müfettiş raporu gibi belgelerle tevsiki esastır.

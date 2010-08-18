@@ -1,0 +1,2 @@
+İnceleme ve araştırma
+MADDE 27 – (1) İç denetim, dış denetim, gözetim ve soruşturma faaliyeti dışında, Borsa Başkanı’nca veya Kurul Başkanı’nca incelenmesi istenen diğer konular ile Kurul’un diğer faaliyetleri sonucunda düzenlenen raporlarda belirtilmesi uygun görülmeyen eleştiri, öneri, görüş ve düşüncelerin veya Müfettişlerce önemli görülen diğer konuların incelemesi ve araştırılması faaliyetidir.
