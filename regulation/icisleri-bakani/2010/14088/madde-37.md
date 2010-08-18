@@ -1,0 +1,3 @@
+İmha edilecek malzemede sınır
+MADDE 37 – (1) İleride kullanılmasına ve muhafazasına lüzum görülmeyen, arşiv malzemesi ve arşivlik malzeme dışında kalan, hukukî kıymetini ve delil olma özelliğini kaybetmiş olan malzeme imha edilir, imha edilecek malzemenin ayırım ve imha işlemleri ayıklama ve imha komisyonunca yapılır.
+(2) Belli sürelerle saklanmaları mevzuatla belirlenen malzeme, güncel işlemlerde kullanılması ihtimali bulunan malzeme ve herhangi bir ön inceleme, soruşturma veya davaya konu olan malzeme 38 inci maddede sayılan malzeme içerisinde bulunsalar dahi, belirtilen süreler içerisinde ayıklama ve imha işlemine tâbi tutulmaz.

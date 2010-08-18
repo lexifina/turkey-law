@@ -1,0 +1,16 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen:
+a) Alt birim: Merkezde, genel müdürlük, kurul başkanlığı ve hukuk müşavirliğine bağlı daire başkanlığı ve şube müdürlüklerini; taşrada, müdürlüklere bağlı şeflik ve memurlukları,
+b) Alt birim arşivi: Merkezde genel müdürlük, kurul başkanlığı ve hukuk müşavirliğine bağlı daire başkanlığı ve şube müdürlüklerinin arşivlerini,
+c) Arşiv malzemesi: Türk Devlet ve millet hayatını ilgilendiren ve en son işlem tarihi üzerinden otuz yıl geçmiş veya üzerinden on beş yıl geçtikten sonra kesin sonuca bağlanmış ve ikinci maddede belirtilen birimlerin işlemleri sonucunda meydana gelen Türk Milletinin geleceğine tarihi, siyasî, sosyal, kültürel, hukukî ve teknik değer olarak intikal etmesi gereken belgeler ile Devlet ve uluslararası nitelikteki hakları belgelemeye, korumaya, tarihî, hukukî, idarî, askerî, iktisadî, dinî, ilmî, edebî, estetik, kültürel, biyografik, jenealojik ve teknik herhangi bir konuyu aydınlatmaya, düzenlemeye ve belirlemeye yarayan, ait olduğu dönemin ahlâk, örf ve adetlerini ve diğer çeşitli sosyal özelliklerini belirten yazılmış, çizilmiş, resmedilmiş, görüntülü, sesli veya elektronik ortamda üretilmiş belgeleri ve malzemeyi,
+ç) Arşivlik malzeme: (c) bendinde geçen her türlü belge ve malzemeden zaman bakımından henüz arşiv malzemesi özelliğini kazanmayanlarla, son işlem tarihi üzerinden yüz bir yıl geçmemiş memuriyet sicil dosyaları, Bakanlığın gerçek ve tüzel kişilerle veya yabancı devlet ve milletlerarası kuruluşlarla akdettiği ikili veya çok taraflı milletlerarası antlaşmalar, nüfus kayıtları ve il, ilçe, köy ve belediyelere ait sınır evrakı gibi belgeleri,
+d) Arşiv uzmanı: Üniversitelerin bilgi ve belge yönetimi bölümü veya arşivcilik ve kütüphanecilik alanında eğitim veren diğer bölümlerinden mezun ve kurum arşivinde istihdam edilen uzman personeli,
+e) Bakanlık: İçişleri Bakanlığını,
+f) Birim arşivi: (Değişik:RG-18/8/2010-27676) Merkezde; Müsteşarlığın, genel müdürlüklerin, kurul başkanlığının, Strateji Geliştirme Başkanlığının, hukuk müşavirliğinin, müstakil daire başkanlıklarının, özel kalem müdürlüğünün, bakan müşavirliklerinin ve geçici olarak kurulmuş hizmet birimlerinin görev ve faaliyetleri sonucunda kendiliğinden meydana gelen ve Bakanlığın çeşitli birimlerinde henüz güncelliğini kaybetmeyerek güncel iş akışı içinde kullanılan arşivlik malzemenin saklandığı arşivleri,
+g) Devlet Arşivi: Devlet Arşivleri Genel Müdürlüğünü,
+ğ) Kurum arşivi: Bakanlığın merkez teşkilatı içinde yer alan ve arşiv malzemesi ile arşivlik malzemenin birim arşivine göre daha uzun süreli saklandığı Bakanlık merkez arşivini,
+h) Kurum arşiv sorumlusu: Kurum arşivi müdürünü,
+ı) Merkez ve taşra birim arşiv sorumluları: Merkezde birim amirleri, taşrada ise vali ve kaymakam tarafından görevlendirilen personeli,
+i) Taşra alt birim arşivi: Müdürlüklere bağlı şeflik veya memurlukların arşivlerini,
+j) Taşra birim arşivi: Valilikler, kaymakamlıklar ve bunlara bağlı İçişleri Bakanlığının taşra kuruluşu niteliğindeki müdürlüklerin görev ve faaliyetleri sonucunda kendiliğinden meydana gelen, henüz güncelliğini kaybetmeyerek güncel iş akışı içinde kullanılan arşivlik malzemenin belirli bir süre saklandığı arşivleri,
+ifade eder.

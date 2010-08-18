@@ -1,0 +1,2 @@
+Malzemenin ayırımı
+MADDE 34 – (1) Kurum arşivinde, arşiv malzemesi ile bir dönemde değere sahip olduğu halde hukuki kıymetini ve delil olma özelliğini kaybetmiş, ileride kullanılmasına ve korunmasına gerek görülmeyen her türlü malzemenin ve ileride arşiv malzemesi vasfını kazanacak olan arşivlik malzemenin ayırımı yapılır. Bu işlem 13 üncü madde hükümlerine göre ayıklama ve imha komisyonunca yerine getirilir.

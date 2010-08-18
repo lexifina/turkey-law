@@ -1,0 +1,23 @@
+Kurum arşivinin görevleri
+MADDE 8 – (1) Kurum arşivinin görevleri şunlardır:
+a) Milli arşiv politikası çerçevesinde Bakanlık arşiv politikasını oluşturmak, geliştirmek ve gerektiğinde değiştirmek, bunlara ilişkin esasları belirleyerek Bakanlık Makamının onayına sunmak ve izlemek,
+b) Birimlerden arşivlik malzeme ile arşiv malzemesini teslim almak,
+c) Birimlerden teslim alınan malzemeyi uygun koşullarda muhafaza etmek, kayba uğramalarını önlemek,
+ç) Birimlerden teslim alınan malzemeyi asli düzenleri içerisinde aidiyetlerini bozmadan yerleştirmek,
+d) Depo yerleşim planını hazırlamak,
+e) Ayıklama ve imha komisyonlarını oluşturmak,
+f) Malzemenin niteliğini belirterek tespit ve değerlendirmesini yapmak,
+g) Bakanlığın merkez ve taşra birim arşivlerinde ayıklama, saklama, imha ve diğer arşiv faaliyetlerine rehberlik etmek, denetlemek veya denetlenmesini sağlamak,
+ğ) Birimlerce tespit edilen imhalık malzeme ile kurum arşivinde yapılan ayıklama sonucunda imha komisyonunca belirlenen imhalık malzemenin imhasını sağlamak,
+h) Ayıklama ve imha komisyonunun çalışmaları sonucunda Devlet Arşivine devredilmesi uygun görülen arşiv malzemesini tasnif ederek envanterleriyle (EK– 8) Devlet Arşivine teslim etmek ve devredilmeyecek olanların korunmasını sağlamak,
+ı) Arşivlik malzemenin tamir ve restorasyonunu yapmak veya yaptırmak,
+i) Arşivlik malzemenin kopyalarını çıkararak devamlılığını sağlamak ve bunları küçük hacimlere dönüştürmek için film, mikrofilm ve gerektiğinde diğer ileri teknikleri uygulamak,
+j) Araştırmaya açık malzeme için tanıtıcı rehber ve katalog hazırlamak,
+k) Birim ve kurum arşivlerinden yararlanma taleplerini karşılamak, kolaylaştırıcı tedbirleri almak,
+l) Araştırma taleplerini değerlendirmek ve gerektiğinde yerine getirmek,
+m) Yurt içi ve yurt dışı arşivcilik ve bilimsel gelişmeleri izlemek, bu alandaki eserleri derlemek,
+n) Arşivcilik ve arşiv faaliyetlerine yönelik seminer, kurs, konferans ve toplantılar düzenlemek veya bu tür faaliyetlere katılmak,
+o) Standart Dosya planına uygun olarak arşivleme işlemi yapılmasını izlemek,
+ö) Birim arşivlerinden gelen yıllık faaliyet raporlarını değerlendirmek,
+p) Her türlü arşiv bilgisi ve belgesiyle ilgili olarak Devlet Arşiviyle işbirliği yapmak,
+r) Verilecek diğer görevleri yapmak.

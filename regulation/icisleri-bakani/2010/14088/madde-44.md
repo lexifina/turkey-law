@@ -1,0 +1,4 @@
+Yararlanma
+MADDE 44 – (1) Birimlerce, ihtiyaç halinde ancak kuruluş dışına çıkarılmamak kaydıyla Kurum Arşivinden malzeme alınabilir. Taşra birim arşivlerine malzemenin aslı değil, örneği gönderilir. Malzeme almak için merkezde birim amirleri, taşrada valiler ve kaymakamlar veya görevlendirecekleri sorumlular tarafından imzalanan “Arşivden Malzeme İsteme Fişi” kullanılır (EK– 4).
+(2) Merkez birim arşivleri, malzemeden 26 ncı madde hükümleri çerçevesinde yararlanır.
+(3) Kurum arşivinde arşiv malzemesi olarak saklanan malzemenin aslı hiçbir şekilde arşivlerden dışarı çıkarılamaz. Ancak Devlete; gerçek veya tüzel kişilere ait bir hizmetin görülmesi, bir hakkın korunması ve ispatı gerektiğinde usulüne göre çıkarılmış örnekler verilebilir ya da mahkemelerce tayin edilecek bilirkişiler veya ilgili dairelerce görevlendirilecek yetkililerce yerinde inceleme yapılması sağlanabilir.
