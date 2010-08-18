@@ -1,0 +1,2 @@
+Yok Etme Usulü
+Madde 6- (Değişik birinci cümle:RG-18/8/2010-27676) Valilik ve Kaymakamlıklarda toplanan bayrakları yok etme işlemi; Valinin ve Kaymakamın belirleyeceği üç kişilik bir komisyon gözetiminde, ay-yıldız ile kırmızı kumaşların kesilerek ayrılmasından sonra kırpma makinesinde veya kapalı alanda yakılmak suretiyle yapılır. Yurt dışında yok etme işlemi büyükelçiliklerde ve başkonsolosluklarda, Dışişleri Bakanlığının uygun göreceği bir yöntemle yapılır.
