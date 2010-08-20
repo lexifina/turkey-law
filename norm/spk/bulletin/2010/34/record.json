@@ -1,0 +1,72 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2010/34",
+  "date": "2010-08-20",
+  "title": "SPK Haftalık Bülteni 2010/34",
+  "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_34.pdf",
+  "source_sha256": "e2dfc5c79a33b816a474a74e364b017d27a1c6806fd61ac406e1f16f14fc0372",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 04.01.2010 – 20.08.2010 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Bakınız Özel Durumlar",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_34.pdf"
+    },
+    {
+      "heading": "B. 16.08.2010 – 20.08.2010 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_34.pdf"
+    },
+    {
+      "heading": "C. 16.08.2010 – 20.08.2010 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_34.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_34.pdf"
+    },
+    {
+      "heading": "E. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_34.pdf"
+    },
+    {
+      "heading": "A. 21/655 sayılı kararın (a) bendinin aşağıda yer verildiği şekilde değiştirilmesine,",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_34.pdf"
+    },
+    {
+      "heading": "B. 21/655 sayılı kararın (b) bendinin aşağıda yer verildiği şekilde değiştirilmesine,",
+      "status": "metadata-only",
+      "reason": "named-person-decision",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_34.pdf"
+    },
+    {
+      "heading": "C. 21/655 sayılı karara,“Şirket kurucuları, ilişkili kuruluşlar, şirket Yönetim Kurulu ve Denetim Kurulu Üyeleri ile üst düzey",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_34.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
