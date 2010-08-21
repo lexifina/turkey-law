@@ -1,0 +1,124 @@
+Genelge No
+: 11
+Genelge Tarihi
+: 21/08/2010
+Yüksek Seçim Kurulunca verilen 21/08/2010 tarihli, 2010/609 sayılı karar örneği ilişikte
+gönderilmiştir.
+Bilgi edinilmesi ve gereği rica olunur.
+Ali EM
+Yüksek Seçim Kurulu Başkanı
+EK
+:
+- Karar Örneği (3 Sayfa)
+T.C.
+YÜKSEK SEÇİM KURULU
+Karar No : 609
+- K A R A R -
+Cumhurbaşkanlığınca Kurulumuz Başkanlığına gönderilen 12/05/2010 tarihli, B.01.0.KKB.01-18/D-
+1-296 sayılı yazı ile; Türkiye Büyük Millet Meclisi Genel Kurulu’nca 07/05/2010 tarihinde kabul edilen 5982
+sayılı “Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun”un,
+Anayasa’nın 175. maddesinin dördüncü fıkrası uyarınca, halkoyuna sunulmak üzere Resmi Gazetede
+yayımlanması için Başbakanlığa gönderildiği belirtilerek, Anayasanın 175. maddesi ve 3376 sayılı Kanun
+uyarınca gereğinin yapılması istenilmiş olup, 5982 sayılı Kanun 13/05/2010 tarihli Resmi Gazetenin 27580
+sayılı nüshasında yayımlanmıştır.
+Yüksek Seçim Kurulunun;
+13/05/2010 tarihli, 2010/317 sayılı kararı ile; Anayasa Değişikliklerinin Halkoyuna Sunulması
+Hakkında Kanun, Anayasanın 67. maddesinin son fıkrasında ifade edilen seçim kanunları kapsamında
+olduğundan, Anayasanın 67.maddesinin son fıkrası hükmü gereği seçim kanunlarındaki değişiklikler
+yürürlüğe girdiği tarihten itibaren bir yıl içinde yapılacak seçimlerde uygulanmayacağından; Türkiye
+Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında 5982 sayılı Kanunun,
+Anayasanın 175 ve 3376 Sayılı Kanunun 2. maddesi hükümleri gereği halkoylamasında uygulanacak
+sürenin 120 gün olmasına ve halkoylamasının 12/09/2010 Pazar günü yapılmasına,
+20/05/2010 tarihli, 2010/332 sayılı kararı ile; Anayasa değişikliğinin halkoyuna sunulmasında oy
+verme günü uygulanacak seçim yasaklarını belirlemek üzere bir komisyon oluşturulmasına,
+karar verilmiştir.
+Komisyon 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 79.
+maddesinde yer alan içki ve silah taşıma yasağı ile 80. maddesinde öngörülen yayın yasağının uygulama
+usul ve esaslara, ilişkin çalışmasını tamamlamış olmakla, komisyonca hazırlanan rapor incelenerek;
+GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ:
+Anayasanın 79 uncu maddesiyle; seçimlerin başlamasından bitimine kadar, seçimin düzen içinde
+yönetilmesi ve dürüstlüğü ile ilgili bütün işlemleri yapma ve yaptırma seçim süresince ve seçimden sonra
+seçim konuları ile ilgili bütün yolsuzlukları, şikayet ve itirazları inceleme ve kesin karara bağlama ... görev
+ve yetkisi Yüksek Seçim Kuruluna verilmiş, anılan madde diğer seçim kurullarının görev ve yetkilerinin de
+kanunla düzenleneceği,
+Anayasanın 79 uncu maddesinin son fıkrasında; Anayasa değişikliklerine ilişkin kanunların
+halkoyuna sunulması işlemlerinin genel yönetim ve denetimi de milletvekili seçimlerinde uygulanan
+hükümlere göre olur,
+düzenlemesine yer verilmiştir.
+298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 1. maddesinde;
+Özel kanunlarına göre yapılacak milletvekili, il genel meclisi üyeliği, belediye başkanlığı, belediye meclisi
+üyeliği, muhtarlık, ihtiyar meclisi üyeliği, ihtiyar heyeti üyeliği seçimlerinde ve Anayasa değişikliklerine ilişkin
+kanunların halk oyuna sunulmasında bu Kanun hükümlerinin uygulanacağı,
+3376 sayılı Anayasa Değişikliklerinin Halkoyuna Sunulması Hakkında Kanunun 1. maddesinde;
+Anayasa gereğince yapılacak olan halkoylamasında bu Kanun hükümlerinin uygulanacağı, bu Kanunda
+hüküm bulunmayan hallerde 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında
+Kanunun bu Kanuna aykırı olmayan hükümlerinin tatbik edileceği,
+aynı Kanunun 3. maddesinde ise; Yüksek Seçim Kurulunun, Anayasa değişikliklerinin halkoyuna
+sunulması için bütün tedbirleri alıp hazırlıkları yapacağı, halkoylamasının sağlıklı ve düzenli bir şekilde
+gerçekleştirilmesini sağlamak amacıyla gerekli ilke kararlarını almaya yetkili olduğu,
+öngörülmüştür.
+12 Eylül 2010 tarihinde yapılacak halkoylaması da seçim gibi mütalaa edildiğine göre; 298 sayılı
+Kanunun aykırı olmayan hükümlerinin yapılacak olan Anayasa değişikliğinin halkoyuna sunulmasında da
+uygulanması yoluna gidilmelidir.
+Bu çerçevede;
+298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 79 uncu
+maddesinde; “Oy verme günü, her ne suretle olursa olsun, ispirtolu içki satılması, içkili yerlerle umumi
+mahallerde her çeşit ispirtolu içki satılması, verilmesi, içilmesi yasaktır.
+Oy verme günü, bütün umumi eğlence yerleri oy verme süresince kapalı kalır. Eğlence yeri niteliğine
+haiz lokantalarda yalnız yemek verilir.
+Oy verme günü, emniyet ve asayişi korumakla görevli olanlardan başka hiçbir kimse, köy, kasaba ve
+şehirlerde silah taşıyamaz.
+Bu Kanunun uygulanmasında silahtan maksat Türk Ceza Kanununun 6/f bendinin (1), (2), (3) ve (5)
+numaralı alt bendinde gösterilenlerdir. ” hükmü yer almıştır.
+Aynı Kanunun 80 inci maddesinde ise; “Seçim günü saat 18.00’e kadar radyolar ve her türlü yayın
+organları tarafından seçim ve seçim sonuçları ile ilgili haber, tahmin ve yorum yapılması yasaktır.
+Saat 18.00 ile 21.00 arasında ancak radyolarda Yüksek Seçim Kurulu tarafından seçim ile ilgili
+olarak verilecek haber ve tebliğler yayınlanabilir.
+Saat 21.00’den sonra bütün yayınlar serbesttir.” denilerek yayınlarla ilgili yasak kapsamı
+belirlenmiştir.
+Anayasa değişikliğinin halkoyuna sunulmasına ilişkin olarak 12 Eylül 2010 Pazar günü yapılacak
+halkoylamasında anılan maddelerde öngörülen yasakların uygulanması gerekmektedir.
+S O N U Ç:
+1- 298 sayılı Kanunun 79 uncu maddesi gereğince;
+a) Oy verme günü olan 12 Eylül 2010 Pazar günü sabah saat 06.00’dan gece saat 24.00’e kadar;
+Her ne suretle olursa olsun alkollü içki satılmasının, içkili yerlerde umumi mahallerde her çeşit alkollü içki
+verilmesinin, içilmesinin yasak olduğuna,
+b) Oy verme günü oy verme süresince bütün umumi eğlence yerlerinin kapalı kalacağına, eğlence
+yeri niteliğini taşıyan lokantalarda yalnız yemek verilebileceğine,
+c) Oy verme günü olan 12 Eylül 2010 Pazar günü sabah saat 06.00’dan gece saat 24.00’e kadar;
+emniyet ve asayişi korumakla görevli olanlardan başka hiçbir kimsenin, 5237 sayılı Türk Ceza Kanununun
+6/f maddesinde sayılan silahları köy, kasaba ve şehirlerde taşıyamayacağına,
+2- 298 sayılı Kanunun 80 inci maddesi gereğince;
+a) Oy verme günü saat 18.00’e kadar radyolar ve her türlü yayın organları tarafından halkoylaması
+ve halkoylaması sonuçları ile ilgili haber, tahmin ve yorum yapılmasının yasak olduğuna,
+b) Saat 18.00 ila 21.00 arasında radyolarda ve her türlü yayın organlarında ancak Yüksek Seçim
+Kurulu tarafından halkoylaması ile ilgili olarak verilecek haber ve tebliğlerin yayınlanabileceğine,
+c) Saat 21.00’den sonra bütün yayınların serbest olduğuna, ancak Yüksek Seçim Kurulunca gerek
+görülmesi halinde saat 21.00’den önce de yayınların serbest bırakılmasına karar verilebileceğine,
+3- Karar örneğinin tüm il ve ilçe seçim kurulu başkanlıklarına, siyasi partiler genel başkanlıklarına,
+Cumhuriyet Başsavcılıklarına iletilmek üzere Adalet Bakanlığına, Valiliklere bildirilmek üzere İçişleri
+Bakanlığına, Türkiye Radyo ve Televizyon Kurumu Genel Müdürlüğüne ve Radyo ve Televizyon Üst Kurulu
+Başkanlığına gönderilmesine,
+4- Kararın Resmi Gazetede yayımlanmasına,
+5- Kararın sonuç kısmının TRT bildirisi halinde yayınlanmasına,
+21/08/2010 tarihinde oybirliği ile karar verildi.
+Başkan
+Başkanvekili
+Üye
+Üye
+Ali EM
+Kırdar ÖZSOYLU
+Mehmet KILIÇ
+Bahadır DOĞUSOY
+Üye
+Üye
+Üye
+Hüseyin EKEN
+Muharrem COŞKUN
+Turan KARAKAYA
+Üye
+Üye
+Üye
+Mehmet KÜRTÜL
+Nilgün İPEK
+Halim AŞANER
