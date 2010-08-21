@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-08-21",
+  "issue": "27679",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sağlık Bakanlığı Sertifikalı Eğitim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/08/20100821-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/08/20100821.htm",
+  "index_sha256": "cb3c83b73819083f6a9b814f5e25916626b8134e1dabf69963b16589e44cdec9",
+  "index_header": "21 Ağustos 2010 ... 27679 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
