@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-08-22",
+  "issue": "27680",
+  "edition": "regular",
+  "item": 16,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "İDARÎ BAĞLILIĞIN DEĞİŞTİRİLMESİNE DAİR KARAR",
+  "title": "İdarî Bağlılığın Değiştirilmesine Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/08/20100822-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/08/20100822.htm",
+  "index_sha256": "e58e2306b9467ce65ee709552b79663c1b16ca31b51c1d8915a17e520a43f62e",
+  "index_header": "22 Ağustos 2010 ... 27680 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
