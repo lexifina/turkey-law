@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-GVK 65-331",
+  "source_id": 24261,
+  "date": "2010-08-26",
+  "title": "Orkestrada birkaç kez görev alıp yapılan ödemeler arızi serbest meslek kazancı niteliğinde olup Gelir Vergisi Kanununun 94/2-b maddesi uyarınca tevkifat yapılmak suretiyle vergilenmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24261",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "f568630ee1a000ccbbee8a6b0ea3ffd0ae5a892077b6554b257763fd2a3e4068",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
