@@ -1,0 +1,2 @@
+Komisyonun görevi
+MADDE 5 – (1) Komisyon, mükelleflerin ve vergi sorumlularının özelge taleplerine uygun olarak özelge tayinine yetkili makamlarca hazırlanan özelge taslaklarını değerlendirerek tayin edilecek özelgeleri ve gerekli görmesi halinde vergi uygulamalarına ilişkin olarak tüm mükellefler bakımından uygulamaya yön vermek ve tereddüt edilen hususlara açıklık getirmek amacıyla yayımlanacak sirkülerleri oluşturur.
