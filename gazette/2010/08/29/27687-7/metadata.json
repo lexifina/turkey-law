@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-08-29",
+  "issue": "27687",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Dicle Üniversitesi Diş Hekimliği Fakültesi Öğretim Sınav ve Staj Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/08/20100829-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/08/20100829.htm",
+  "index_sha256": "d64e15fd4f7d3fe209838c3e2a6130acd3c63f9b85352b4b1ffa98984b4c0124",
+  "index_header": "29 Ağustos 2010 ... 27687 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
