@@ -1,0 +1,29 @@
+{
+  "number": "72",
+  "number_as_published": "72",
+  "year": 2010,
+  "month": 8,
+  "title": "72. KARAR AĞUSTOS 10 (56ad.his.par.40ad.his.par. satışı)",
+  "decision_date": null,
+  "index_date": "2010-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2010",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=74",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=74",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/af3d7a8616bc95b1f2eb56abcefdb49f5a4a7451fbafd22b7367ad1f06af8d3d.doc",
+  "source_sha256": "ddaf43be99af68c4643d25e7af241cb6f9623f19d737c30ce7e75794b6cb7b8e",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2010-08-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ağustos 2010); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "31.08.2010",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
