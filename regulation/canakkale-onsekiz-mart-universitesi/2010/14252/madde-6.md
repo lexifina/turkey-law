@@ -1,0 +1,2 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları; bu Yönetmeliğin 5 inci maddesinde belirtilen amaçları gerçekleştirmek üzere Türklerin tarih içerisinde yaşadığı bütün eski ve yeni yurtlarını, bu yurtlarda yaşamış ve yaşamakta olan tüm Türk topluluklarını, Türklerin bu yurtlarda tarih, dil ve edebiyat eserleri başta olmak üzere meydana getirdikleri kültür eserlerini ve Türk kültürünün çevre kültürlerle olan münasebetleri ile bu alanda gerçekleştirilecek her türlü faaliyetleri oluşturur.
