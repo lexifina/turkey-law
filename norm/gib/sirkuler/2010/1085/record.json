@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "3218 SBK-3 /2010-3/ Ücretler",
+  "source_id": 1085,
+  "date": "2010-09-01",
+  "title": "SERBEST BÖLGELER KANUNU SİRKÜLERİ 3",
+  "source": "https://gib.gov.tr/mevzuat/kanun/471/sirkuler/1085",
+  "related_law": "3218 sayılı SERBEST BÖLGELER KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "f44e013bb1ae2d0e44d8eca0a0c5d62ff6e9a0c0e3a40ed9c1c81deda404e42a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
