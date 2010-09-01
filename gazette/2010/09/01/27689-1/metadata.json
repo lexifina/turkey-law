@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-09-01",
+  "issue": "27689",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2010/735 Türkiye Cumhuriyeti Hükümeti Sağlık Bakanlığı ile Makedonya Cumhuriyeti’nin Ankara Büyükelçiliği Arasında Sağlık Alanında Hibe Yapılmasına Dair Anlaşmanın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/09/20100901-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/09/20100901.htm",
+  "index_sha256": "0cb6d2b532f0b70eafd6e9eeafd6ab1bcf6eb2c31713b85c809c23d808f1edec",
+  "index_header": "1 Eylül 2010 ... 27689 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
