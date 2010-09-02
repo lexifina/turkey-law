@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2749",
+  "decision_date": "2010-09-02",
+  "title": "BOTAŞ İletim Şebekesi İşleyiş Düzenlemelerine İlişkin Esaslar’ın (ŞİD) 1.Kısım F Bölümünde yer alan, Gaz Yılı öncesinde sisteme giriş için kapasite rezervasyon talebinde bulunacakların, bu taleplerini Taşıyıcı’ya sunması için belirlenen son tarihe ilişkin Karar",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pb46OHNH1qM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pb46OHNH1qM="
+  ],
+  "source_sha256": "d3c4fde7177935ecd4456fefd9018c17e3483e357674240e93ce6c062528d127",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-09-02",
+  "law_text_complete": false
+}
