@@ -1,0 +1,38 @@
+{
+  "source_id": "9.5.13636",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AVUKATLIK ASGARİ ÜCRET TARİFESİ",
+  "number": "13636",
+  "path": "teblig/2009/13636",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13636&MevzuatTertip=5",
+  "source_sha256": "b13709e9586fad6a7ea937f4159422f1ee7bb6f5996401b31156c959610d794d",
+  "source_bytes": 121983,
+  "published": "2009-12-24",
+  "gazette": "27442",
+  "in_force": "2010-09-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/9/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-09-02",
+      "RG-2/9/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-06-04",
+      "RG-4/6/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2171,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

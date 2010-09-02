@@ -1,0 +1,7 @@
+İcra ve iflas müdürlükleri ile icra mahkemelerinde ücret
+MADDE 11 – (1) (Değişik:RG-4/6/2010-27601) İcra ve İflas Müdürlüklerindeki hukuki yardımlara ilişkin avukatlık ücreti, takip sonuçlanıncaya kadar yapılan bütün işlemlerin karşılığıdır. Konusu para veya para ile değerlendirilebiliyor ise avukatlık ücreti, bu Tarifenin üçüncü kısmına göre belirlenir. Şu kadar ki asıl alacak miktarı 1.333,33 TL’ye kadar olan icra takiplerinde avukatlık ücreti, tarifenin ikinci kısmının, ikinci bölümünde, icra dairelerindeki takipler için öngörülen maktu ücrettir. Ancak bu ücret asıl alacağı geçemez.
+(2) Aciz belgesi alınması, takibi sonuçlandıran işlemlerden sayılır. Bu durumda avukata tam ücret ödenir.
+(3) İcra mahkemelerinde duruşma yapılırsa Tarife gereğince ayrıca avukatlık ücreti hükmedilir. Şu kadar ki bu ücret, Tarifenin ikinci kısmının ikinci bölümünün iki ve üç sıra numaralarında gösterilen iş ve davalarla ilgili hukuki yardımlara ilişkin olup, Tarifenin üçüncü kısmına göre belirlenecek avukatlık ücreti bu sıra numaralarında yazılı miktarları geçemez.
+(4) Tahliyeye ilişkin icra takiplerinde bir yıllık kira bedeli tutarı, Nafakaya ilişkin icra takiplerinde nafakanın bir yıllık tutarı üzerinden, icra mahkemelerinde açılan istihkak davalarında üçüncü kısım gereğince hesaplanacak ücretlere hükmolunur.
+(5) Borçlu itiraz süresi içerisinde borcunu öderse tarifeye göre belirlenecek ücretin dörtte üçü takdir edilir. Maktu ücreti gerektiren işlerde de bu hüküm uygulanır.
+(6) (Mülga:RG-2/9/2010-27690)
