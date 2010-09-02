@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2750",
+  "decision_date": "2010-09-02",
+  "title": "20/02/2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanunu’nun Ek 2 nci maddesi ile 18/04/2001 tarihli ve 4646 sayılı Doğal Gaz Piyasası Kanunu’nun 4 üncü maddesi hükümleri çerçevesinde Karar",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=X2UIi6rygck=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=X2UIi6rygck="
+  ],
+  "source_sha256": "33408a9e9b2d3d8196ce35bceb1786ccae7f4450c93e3b3f540e7711aabf3630",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-09-02",
+  "law_text_complete": false
+}
