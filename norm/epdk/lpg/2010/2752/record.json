@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "2752",
+  "decision_date": "2010-09-02",
+  "title": "Sıvılaştırılmış Petrol Gazları (LPG) Piyasasında Lisans Başvurusu ve Bildirim Açıklamalarına İlişkin",
+  "resmi_gazete_date": "2010-09-08",
+  "resmi_gazete_number": "27696",
+  "categories": [
+    "LPG Piyasası Mülga Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=j+l0nf0t0Xk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=j+l0nf0t0Xk="
+  ],
+  "source_sha256": "3dc18c96887db1aa8bc9a78efea334610c7465a4cb003ac4781e6bfcfefb2bcf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5102,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-09-02",
+  "law_text_complete": false
+}
