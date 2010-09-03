@@ -1,0 +1,2 @@
+Bakım ve rehabilitasyon merkezlerine kabul edilemeyecek özürlü bireyler
+MADDE 21 – (1) Kontrol altına alınamayan bulaşıcı bir hastalığı olan, uyuşturucu madde veya alkol bağımlısı olan, şok ve reaksiyon döneminde olan ve psikiyatrik hastalığından dolayı atak dönemde olan veya kendisine ve çevresine zarar verme durumu olup bu durumu kontrol altına alınamayan özürlü bireyler merkeze kabul edilmezler. Bu tür bireyler ilgili sağlık kuruluşlarına yönlendirilir.

@@ -1,0 +1,2 @@
+Evde bakıma destek hizmetine ilişkin kayıtlar
+MADDE 40 – (1) Hizmet götürülen her özürlü için, özürlü ile ilgili tüm bilgileri içeren bir dosya düzenlenir. Kuruluş müdürlüklerinin koordinasyonunda evde bakıma destek hizmeti birimi; evde bakıma destek hizmeti verilen özürlülerin isim, adres, hizmete başlama tarihi ve bakım hizmetini veren bakıcı personelin ismi gibi bilgileri içeren kayıtları düzenli olarak tutar.

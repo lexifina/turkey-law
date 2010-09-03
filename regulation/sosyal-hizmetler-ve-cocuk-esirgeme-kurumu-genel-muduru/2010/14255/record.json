@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.14255",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL HİZMETLER VE ÇOCUK ESİRGEME KURUMU GENEL MÜDÜRLÜĞÜ ÖZÜRLÜLERİN BAKIMI, REHABİLİTASYONU VE AİLE DANIŞMANLIĞI HİZMETLERİNE DAİR YÖNETMELİK",
+  "number": "14255",
+  "issuer": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürü",
+  "issuer_slug": "sosyal-hizmetler-ve-cocuk-esirgeme-kurumu-genel-muduru",
+  "path": "regulation/sosyal-hizmetler-ve-cocuk-esirgeme-kurumu-genel-muduru/2010/14255",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14255&MevzuatTertip=5",
+  "source_sha256": "326759ae02e1f2ab7b387af00edc74ed22275f51b5daa6ef49345e35f5077706",
+  "source_bytes": 138866,
+  "published": "2010-09-03",
+  "gazette": "27691",
+  "in_force": "2010-09-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.09.2010); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8740,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://rega.basbakanlik.gov.tr/eskiler/2010/09/20100903-4-1.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,17 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Aile danışma ve rehabilitasyon merkezleri: Özürlüleri kendi kendine yeterli düzeye getirmek, okul eğitimine hazırlamak ve aile içi uyumu sağlamak amacıyla özürlülere ve ailelerine hizmet sunan gündüzlü sosyal hizmet kuruluşlarını,
+b) Bakım: Durumları gereği bağımsız yaşama becerilerini kazanamayan veya rehabilitasyondan yararlandığı hâlde özel ilgi, destek ve korunmaya gereksinim duyan bireylere verilen hizmetleri,
+c) Bakım ve rehabilitasyon merkezleri: Bedensel, zihinsel ve ruhsal özürleri nedeniyle normal yaşamın gereklerine uyamama durumunda olan kişilerin, fonksiyon kayıplarını gidermek ve toplum içinde kendi kendilerine yeterli olmasını sağlayan beceriler kazandırmak veya bu becerileri kazanamayanlara devamlı bakmak üzere kurulan yatılı sosyal hizmet kuruluşlarını,
+ç) Bireysel bakım planı: Özürlünün bakımına ilişkin zihinsel, fiziksel, psiko-sosyal, gelişimsel ve benzeri alanlarda yaşanan sorunları, bu sorunların sebepleri ve tespit edilen veriler dikkate alınarak hangi alanlarda ve süreçte bakıma ihtiyaçlarının olduğunun belirlenmesi, belirlenen ihtiyaçlar doğrultusunda yapılabilecek çalışmaları içeren ve genel çerçevesi Genel Müdürlükçe belirlenen planı,
+d) Bireysel rehabilitasyon planı: Özürlünün rehabilitasyonuna ilişkin olarak yapılan zihinsel, fiziksel, psiko-sosyal, gelişimsel ve benzeri alanlara ilişkin değerlendirme sonucunda, ortaya çıkan bulgulara göre özürlüye uygulanacak rehabilitasyon ve çalışma programlarının tespit edilmesini, süresini ve amaçlarını belirleyen planı,
+e) Evde bakıma destek hizmeti: Meslek elemanlarının önerileri doğrultusunda, özürlüye bakıcı personel tarafından ikametgâhında bakım hizmeti verilmesi ile özürlüye ve ailesine psiko-sosyal destek hizmetleri sunulmasını,
+f) Genel Müdürlük: Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğünü,
+g) İl müdürlüğü: İl Sosyal Hizmetler Müdürlüklerini,
+ğ) İlçe müdürlüğü: İlçe Sosyal Hizmetler Müdürlüklerini,
+h) Merkez: Bakım ve rehabilitasyon merkezleri ile aile danışma ve rehabilitasyon merkezlerini,
+ı) Meslek elemanı/Mesleki personel: Lisans eğitimi ile aldığı mesleki unvanına uygun olarak merkezde görevlendirilen personeli,
+i) Özürlü: Doğuştan veya sonradan herhangi bir nedenle bedensel, zihinsel, ruhsal, duyusal ve sosyal yeteneklerini çeşitli derecelerde kaybetmesi nedeniyle toplumsal yaşama uyum sağlama ve günlük gereksinimlerini karşılama güçlükleri olan ve korunma, bakım, rehabilitasyon, danışmanlık ve destek hizmetlerine ihtiyaç duyan kişiyi,
+j) Rehabilitasyon: Münhasıran bu Yönetmeliğin uygulanmasında; doğuştan veya sonradan herhangi bir nedenle oluşan özrü ortadan kaldırmak veya özürlülüğün etkilerini mümkün olan en az düzeye indirmek, özürlüye yeniden fiziksel, zihinsel, psikolojik, ruhsal, sosyal, mesleki ve ekonomik yararlılık alanlarında başarabileceği en üst düzeyde yetenekler kazandırarak; evinde, işinde ve sosyal yaşamında kendine ve topluma yeterli olabilmesi ve özürlünün toplum ile bütünleşmesi, ayrımcılığa karşı tüm tedbirlerin alınması amacıyla verilen psiko-sosyal hizmetler bütününü,
+k) Stajyer öğrenci: Gelecekte özürlülük alanında çalışması olası, lise ve yüksek öğrenim kurumlarına devam eden, kendi okul yönetiminin istemi ile başvuruda bulunan, merkezde mesleki personelin denetimi ve gözetiminde, bakım ve rehabilitasyon hizmetlerine katkıda bulunarak mesleki gelişimlerini sağlamak amacıyla çalışan öğrenciyi
+ifade eder.

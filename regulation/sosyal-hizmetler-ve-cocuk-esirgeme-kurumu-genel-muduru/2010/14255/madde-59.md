@@ -1,0 +1,2 @@
+Personelin giyimi
+MADDE 59 – (1) Merkez personelinin, hizmet verilen özürlülere yönelik faaliyet ve çalışmaların uygulanması sürecinde, hizmetin özelliği ve gereği ile 16/7/1982 tarihli ve 8/5105 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Çalışan Personelin Kılık ve Kıyafetine Dair Yönetmelik esas alınarak çalışmalarını kolaylaştıracak nitelikte giyinmelerine izin verilir.

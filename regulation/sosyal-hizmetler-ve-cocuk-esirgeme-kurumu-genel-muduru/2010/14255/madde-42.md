@@ -1,0 +1,6 @@
+Personelin çalışma esasları
+MADDE 42 – (1) Merkezde görev yapan tüm personel görev tanımlarına uygun olarak görevlerini yürütmekle yükümlü olup kuruluş müdürüne karşı sorumludur.
+(2) Merkezde görevli meslek elemanları görevini yaparken ekip çalışması içerisinde, mesleğinin gerektirdiği bilimsel yöntemleri uygulamak, bilimsel gelişmeleri izlemek, gerekli araştırmaları yapmak, gerektiğinde bakım ve rehabilitasyon sürecine ilişkin öneriler getirmek sorumluluğundadır.
+(3) Merkezde görevli memur, bakıcı, taşınır kayıt kontrol yetkilisi (ayniyat saymanı, ambar memuru), satın alma memuru, teknisyen ve teknisyen yardımcısı, aşçı, şoför, berber, terzi, hizmetli ve diğer personel kanun, tüzük, yönetmelik, genelge ve talimatlara uygun olarak kendi alanlarıyla ilgili iş ve işlemler ile kuruluş müdürlüğü tarafından verilecek görevleri yapmakla sorumludur. Bu personelin çalışma usul ve esasları kuruluş müdürü tarafından belirlenir.
+(4) Merkezlerde görevli tüm personelin hizmet verilen özür grubunun ihtiyaç ve özelliklerine göre konunun uzmanı kişi ve kuruluşların desteği ile hizmet içi eğitim programlarına katılması sağlanır.
+(5) Stajyer öğrencilerin merkezlerde çalışması teşvik edilir. Öğrencilerin çalışma süre ve şekilleri çalışma izninde belirtilir. Stajyer öğrenciler kuruluş müdürünün veya görevlendireceği personelin gözetiminde çalışır.

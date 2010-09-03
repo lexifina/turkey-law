@@ -1,0 +1,3 @@
+Personelin çalışma gün ve saatleri
+MADDE 44 – (1) Merkezde çalışan personel 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu hükümlerine tabi olarak görev yapar. Devlet Memurları Kanununun 99 ve 100 üncü maddeleri doğrultusunda personelin çalışma gün ve saatleri, özürlülerin günlük yaşam aktivitelerine göre kuruluş müdürlüğünce düzenlenir, il müdürlüğünün teklifi, valilik makamının onayından sonra uygulanır.
+(2) Dini, millî bayramlar ile sosyal etkinliklerin düzenlendiği günlerde kuruluş müdürü gerekli gördüğü personeli görevlendirebilir. Görevlendirilen personelin izinleri daha sonra kuruluş müdürlüğünün uygun göreceği bir zamanda verilir.

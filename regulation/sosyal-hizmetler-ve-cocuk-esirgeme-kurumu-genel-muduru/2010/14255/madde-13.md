@@ -1,0 +1,5 @@
+Özürlü bireylerin incelenmesi
+MADDE 13 – (1) Özürlü bireylerin yatılı kurum bakımı taleplerine ilişkin incelenmesi, il veya ilçe müdürlüklerinin sorumluluğunda olup il veya ilçe müdürlüğüne bildirimi yapılan özürlü birey ve ailesi hakkında, sosyal inceleme raporu düzenlenir. İl veya ilçe müdürlüğü sosyal inceleme raporu ve ilgili mevzuat dâhilinde gerekli bilgi ve belgeleri toplayarak özürlü birey hakkında gerekli işlemleri gerçekleştirir.
+(2) Gündüzlü bakım ve rehabilitasyon hizmetlerine ilişkin müracaatların incelenmesi ve işlemlerinin tamamlanması aile danışma ve rehabilitasyon merkezi kuruluş müdürlükleri tarafından gerçekleştirilir.
+(3) Özürlü bireylere yönelik hizmet taleplerinin incelenmesi sürecinde özürlünün T.C. kimlik numarası üzerinden nüfus cüzdanı ve aile nüfus kayıt örneği ve adres bilgilerine ulaşılarak müracaat konusu değerlendirilir.
+(4) Sosyal inceleme raporunun hazırlanması sürecinde, sürekli yatılı kurum bakımı hizmeti alması öngörülen özürlülere bakmakla yükümlü olan kişilerden ekonomik durumu nafaka alınmasına uygun olanların tespiti hâlinde, özürlünün bakım ve rehabilitasyon merkezine kabulünü müteakiben yasal işlem başlatılır.

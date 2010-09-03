@@ -1,0 +1,2 @@
+Tedavi yardımı
+MADDE 51 – (1) Sürekli, geçici veya dönemler hâlinde yatılı merkezlerde bakılan özürlüler ve Genel Müdürlüğün izni ile açılan ve Bakıma Muhtaç Özürlülerin Tesbiti ve Bakım Hizmeti Esaslarının Belirlenmesine İlişkin Yönetmelik çerçevesinde, il müdürlüğünce bakım onayı verilerek özel bakım merkezine yerleştirilen ve herhangi bir sosyal güvenlik kurumuna tâbi olmayan bakıma muhtaç özürlünün tedavi giderleri Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu hükümleri çerçevesinde genel sağlık sigortasından karşılanır.
