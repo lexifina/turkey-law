@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/707",
+  "list_number": "707",
+  "decision_date": "2010-09-06",
+  "title": "Oy kullanma kabininde cep telefonu ve fotoğraf makinesi gibi cihazlarla oy pusulasını görüntülemeye teşebbüs edilmesi durumunda sandık kurulu başkanınca yapılacak işlemler hakkında Yüksek Seçim Kurulu'nun 2010/707 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2881/2010-707.pdf",
+  "source_sha256": "320e360853cde353d57ef7c460162906b24803002ce3d83afefae3ae11aeb517",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-09-06",
+  "law_text_complete": false
+}
