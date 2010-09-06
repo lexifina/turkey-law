@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "2759",
+  "decision_date": "2010-09-06",
+  "title": "Ulusal Marker Konsantrasyon Aralığına İlişkin",
+  "categories": [
+    "Ulusal Marker/Denetim Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=P8h72MpTLL8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=P8h72MpTLL8="
+  ],
+  "source_sha256": "63ac3f25b818413206cc7c65998a2a378cba78f029435a8da5de780ac5c8e6d7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5127,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-09-06",
+  "law_text_complete": false
+}
