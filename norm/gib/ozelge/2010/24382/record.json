@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-176300-83",
+  "source_id": 24382,
+  "date": "2010-09-07",
+  "title": "Üniversiteye yapılan nakdi ve ayni bağışların indirim konusu yapılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24382",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "1c33b2d4b62567d7114facf8970e5042dd1e71d4de7180b3fe5cf297c1ea2043",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
