@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/129atutanak",
+  "list_number": "-",
+  "decision_date": "2010-09-07",
+  "title": "Sandık Kurullarınca Düzenlenecek Tutanak (Örnek No: 129/A) ile ilgili Yüksek Seçim Kurulu'nun İlçe Seçim Kurulu Başkanlıklarına gönderdiği yazı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2877/129ATutanak.jpg",
+  "source_sha256": "83f70cbad449c607e8e4e81bf8c3b7c9ade8d2cc3be84eb18976137d6fac9fa4",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official file is .jpg (not transcribed)",
+  "in_force": "2010-09-07",
+  "law_text_complete": false
+}
