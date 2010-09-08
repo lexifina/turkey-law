@@ -1,0 +1,15 @@
+{
+  "number": "K-2010/393",
+  "award_date": "2010-09-08",
+  "heading_as_published": "08.09.2010 Tarih ve K-2010/393 Sayılı Hakem Heyeti Kararı (İşyeri",
+  "issue": "Hakem Karar Dergisi 3 Temmuz - Eylül 2010",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs3.pdf",
+  "source_sha256": "47c5e6b4da991c40f05468e6f797ed24afa6ffe1acdcc09ea81217c49545f457",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "mis-mapped characters in the issue text layer (font encoding; no OCR)",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
