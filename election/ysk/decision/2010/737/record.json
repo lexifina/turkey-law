@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/737",
+  "list_number": "737",
+  "decision_date": "2010-09-09",
+  "title": "İl içerisinde (seçim çevresinde) herhangi bir muhtarlık bölgesi askı listesinde kayıtlı olan ve sandık kurullarında görevlendirilen güvenlik görevlilerinin mükerrer oy vermeye teşebbüs etmesi ile ilgili Yüksek Seçim Kurulunun 2010/737 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2871/2010-737.pdf",
+  "source_sha256": "149a55a55201b775e77d9dc16ce8e274ee40b81b5bad3672aabfbbcb48b8e4cd",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-09-09",
+  "law_text_complete": false
+}
