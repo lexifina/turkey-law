@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.14267",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 328)",
+  "number": "14267",
+  "path": "teblig/2010/14267",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14267&MevzuatTertip=5",
+  "source_sha256": "4822c94cc69e462ae3be71ca5ef4e1fdf3bda3e7e3cd4c2231028c77b76b79e2",
+  "source_bytes": 15391,
+  "published": "2010-09-12",
+  "gazette": "27697",
+  "in_force": "2010-09-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.09.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 977,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
