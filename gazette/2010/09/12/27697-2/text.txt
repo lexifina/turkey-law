@@ -1,0 +1,412 @@
+12 Eylül 2010 PAZAR
+Resmî Gazete
+Sayı : 27697
+YÖNETMELİK
+Bilgi Teknolojileri ve İletişim
+Kurumundan:
+ELEKTRONİK HABERLEŞME SEKTÖRÜNDE
+HİZMET KALİTESİ
+YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı işletmecilerin ulusal ve
+uluslararası hizmet kalitesi standartlarında hizmet sunmalarına ve/veya
+altyapı işletmelerine ilişkin usul ve esasları belirlemektir.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 5/11/2008
+tarihli ve 5809 sayılı Elektronik Haberleşme Kanununun 4 üncü, 6 ncı, 12 nci, 48 inci, 49 uncu
+ve 52 nci maddelerine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen tanımlardan;
+a)
+Abone: Bir işletmeci ile elektronik haberleşme hizmetinin sunumuna yönelik
+olarak yapılan bir sözleşmeye taraf olan gerçek ya da tüzel kişiyi,
+b)
+Arama başarısızlık oranı: Başarılı olarak kurulan ancak abonenin isteği
+dışında herhangi bir nedenle sonlanan arama sayısının toplam başarılı arama
+sayısına oranını,
+c)
+Arama blokaj oranı: Mobil şebekeler için kapsama
+alanı içinde olmak şartıyla, sabit şebekelerde ise her durumda yapılan
+aramalarda, radyo link, transmisyon, anahtarlama gibi sistemlerdeki kaynak
+yetersizliğinden dolayı bağlantı kurulamayan arama girişimi sayısının
+toplam arama girişimi sayısına oranını,
+ç)
+Aramanın kurulma süresi: Aramanın sağlanması için gerekli adres bilgisinin
+şebeke tarafından alınması ile başlayan ve aranan taraftan meşgul sesi,
+çalma sesi veya cevap sinyalinin alınması ile biten ve saniye cinsinden ölçülen
+zaman aralığını,
+d)
+Arıza bildirme oranı: Kullanıcı tarafından işletmecinin irtibat birimine
+bildirilen ve işletmeciden kaynaklanan bozulma veya kalite seviyesindeki
+düşme gibi aksaklıklara ilişkin geçerli arıza sayısının toplam kullanılan
+abone hattı sayısına oranını,
+e)
+Arıza giderme süresi: Arızanın bildirildiği andan hizmetin tam olarak
+sunulmaya başlandığı ana kadar geçen ve saat cinsinden ölçülen süreyi,
+f)
+Bağlantı süresi: İşletmecinin geçerli bir bağlantı talebi aldığı andan,
+aboneye hizmetin çalışır durumda verildiği ana kadar geçen, takvim günü
+cinsinden ölçülen ve iptal edilmiş taleplerin ölçümlere dahil
+edilmediği süreyi,
+g)
+Çalışır durumdaki ankesörlü telefonların oranı: Bir günde yirmi dört saat
+boyunca çalışır durumdaki ankesörlü telefon sayısının, toplam ankesörlü
+telefon sayısına oranını,
+ğ)
+Fatura şikâyeti oranı: Geçerli olup olmamasına bakılmaksızın, faturada yer
+alan konuşma süresi, tarife, hizmet, indirimler, kampanyalar, vergiler gibi
+ücrete ilişkin hususların doğruluğuna ilişkin bildirilen şikayet
+sayısının toplam fatura sayısına oranını,
+h)
+KMH (SMS): Kısa mesaj hizmetini,
+ı)
+KMH tamamlanma oranı: Kapsama alanı içerisinde aktif durumda bulunan
+aboneler arasında üretilen ve uçtan uca KMH teslim süresi içerisinde bir
+terminal cihazından diğer bir terminal cihazına başarılı bir şekilde
+iletilen toplam KMH sayısının gönderilen toplam KMH sayısına oranını,
+i)
+Kullanıcı: Aboneliği olup olmamasına bakılmaksızın elektronik haberleşme
+hizmetlerinden yararlanan gerçek veya tüzel kişiyi,
+j)
+Kurul: Bilgi Teknolojileri ve İletişim Kurulunu,
+k)
+Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+l)
+Müşteri hizmetleri: İşletmecinin sunmuş olduğu hizmetlere ilişkin olarak
+bilgilendirme ve yönlendirme konularında kullanıcılara yardımcı olan çağrı
+merkezi hizmetlerini,
+m)
+Müşteri hizmetleri için cevap verme süresi: Çağrı merkezindeki gerçek kişiye
+bağlanmak üzere sesli yanıt sisteminde yapılan son tuşlamadan çağrı
+merkezindeki gerçek kişinin hizmet talep eden kullanıcıyı cevapladığı ana
+kadar geçen ve saniye cinsinden ölçülen süreyi,
+n)
+OKD (MOS): Uçtan uca ses kalitesi ölçümlerinde kullanılan ve ölçüm yöntemi
+ITU-T P.862 tavsiye kararında tanımlanan ortalama kanaat değerini,
+o)
+Ön ödemeli hatlarda kredi şikayeti oranı: Geçerli
+olup olmamasına bakılmaksızın, ön ödemeli hat kullanan abonenin konuşma
+süresi, tarife, hizmet, indirimler, kampanyalar, vergiler gibi hususlar ile
+ilgili kredi doğruluğuna ilişkin bildirilen şikayet sayısının toplam ön
+ödemeli abone sayısına oranını,
+ö)
+Sesli yanıt sisteminde geçen süre: Kullanıcının müşteri hizmetlerine
+bağlandıktan sonra ana menüde işlem yapmak istediği konuya ait tuşlamayı
+gerçekleştirdiği andan, alt menüde, çağrı merkezindeki gerçek kişiye
+bağlanma seçeneğinin sunulduğu ana kadar geçen ve saniye cinsinden ölçülen
+süreyi,
+p)
+Tüketici şikâyetleri çözüm süresi: Şikâyetin alındığı andan çözümlendiği
+ana kadar geçen, geçerli olmayan şikâyetlerin dâhil olmadığı ve saat
+cinsinden ölçülen süreyi,
+r)
+Tüketici şikâyeti sıklığı: Konusuna ve geçerliliğine bakılmaksızın
+işletmecilere iletilmiş tüm şikayetlerin dahil
+olduğu abone başına düşen aylık şikayet sayısını,
+s)
+Uçtan uca KMH teslim süresi: KMH’nin kapsama
+alanı içerisinde aktif durumda bulunan bir terminal cihazından gönderildiği
+andan aynı KMH’nin diğer bir terminal cihazı
+tarafından alındığı ana kadar geçen ve saniye cinsinden ölçülen süreyi,
+ş)
+Veri aktarım hızı: Kullanıcı ekipmanı ile test
+amaçlı belirlenmiş internet sayfasından test dosyasının indirilmesi ve/veya
+gönderilmesinde tespit edilen hızı,
+ifade eder.
+İKİNCİ BÖLÜM
+İlkeler, Yükümlü İşletmeciler ve Bildirim
+İlkeler
+MADDE 4 – (1) Bu Yönetmelik hükümlerinin uygulanmasında
+aşağıdaki temel ilkeler göz önünde bulundurulur:
+a)
+Hizmet kalitesi ölçütlerinin anlaşılabilir, uygulanabilir ve güncel olması.
+b)
+Hizmet kalitesi standartlarına ilişkin güncel bilgilerin yeterli,
+kıyaslanabilir ve erişilebilir olması.
+c)
+Elektronik haberleşme hizmetlerinin değişen şartlar çerçevesinde
+uluslararası standartlarda ve ölçütlerde olması.
+ç)
+Kullanıcı memnuniyetini artırıcı ve şikâyetleri giderici uygulamaların
+teşvik edilmesi.
+d)
+Benzer konumdaki kullanıcılar arasında ayrım gözetilmemesi ve aynı hizmetin
+benzer konumdaki kullanıcılara aynı hizmet kalitesi seviyesinde sunulması.
+e)
+Hizmet kalitesi ölçütlerinin geliştirilmesinde acil numaralara erişim ve
+engelli kullanıcıların ihtiyaçları gibi özel durumların dikkate alınması.
+Hizmet kalitesi ölçütleri ve yükümlü
+işletmeciler
+MADDE 5 – (1) İşletmeciler, yetkilendirme kapsamında ve
+ilgili mevzuatta belirtilen hizmet kalitesine ilişkin hükümlere uymakla ve
+hizmetin kesintisiz olarak sunulması için gereken özeni göstermekle
+yükümlüdür.
+(2) Evrensel hizmet yükümlüsü sabit telefon hizmeti sunan
+işletmeciler Ek-1’deki, GSM mobil telefon hizmeti sunan işletmeciler
+Ek-2’deki, internet servis sağlayıcılığı hizmeti sunan işletmecilerden
+tebliğ veya Kurul kararı ile belirlenenler Ek-3’teki, son kullanıcılara
+hizmet veren bütün işletmeciler Ek-4’teki ölçütlere ilişkin hedeflere
+uymakla ve verileri Kuruma göndermekle yükümlüdür.
+Hizmet seviyesi taahhütleri
+MADDE 6 – (1) Kiralık hat sunumunda etkin piyasa gücüne sahip
+işletmeciler, kiralık hatlara ilişkin asgari olarak aşağıdaki bilgileri
+içeren hizmet seviyesi taahhütlerini, Kurumun onayını almalarından itibaren
+bir hafta içerisinde asgari olarak internet sitelerinde ve belirlenebilecek
+diğer yöntemlerle kolay erişilebilir bir şekilde yayımlamakla yükümlüdür:
+a)
+Başvuru usulü.
+b)
+Hız bazında standart sunum süresi.
+c)
+Hız bazında sözleşme süresi.
+ç)
+Standart arıza giderme süresi.
+d)
+Geri ödemeye ilişkin usul.
+(2)
+Kurum işletmecilerden hizmet seviyesi taahhütlerinde ilgili mevzuat
+çerçevesinde değişiklik, iyileştirme ve düzeltme yapmasını talep edebilir.
+İşletmeci, söz konusu değişiklik, iyileştirme ve düzeltmeleri Kurum
+tarafından belirtilen sürede yerine getirmekle yükümlüdür.
+Raporların bildirilmesi ve yayımlanması
+MADDE 7 – (1) İşletmeciler sundukları hizmet kapsamında bu
+Yönetmelikte belirtilen hizmet kalitesi ölçütlerine ilişkin ölçümleri
+içeren ve aylık olarak tasnif edilmiş şekilde geriye dönük üç aylık
+bilgileri içeren raporları her yıl Ocak, Nisan, Temmuz ve Ekim ayının
+sonuna kadar Kuruma göndermekle yükümlüdür. Kurum ayrıca gerekli gördüğü
+her türlü bilgi ve belgeyi talep edebilir.
+(2)
+İşletmeciler, bu maddenin birinci fıkrasında belirtilen raporları Kuruma
+gönderirken müteakip iki raporlama dönemi arasındaki verilere ilişkin
+farklılıkları gerekçeleri ile birlikte Kuruma sunar.
+(3)
+İşletmeciler hizmet kalitesi ölçütlerine ilişkin bütün veri ve ilgili
+kayıtları raporlama tarihlerinden itibaren en az on iki ay süreyle
+saklamakla yükümlüdür.
+(4)
+Kurum, işletmeciler tarafından gönderilen hizmet kalitesi ölçütlerine
+ilişkin bilgileri yayımlayabileceği gibi, işletmecilere yayımlama
+yükümlülüğü de getirebilir.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Denetim
+MADDE 8 – (1) Kurum, işletmeciler tarafından bildirilen
+hizmet kalitesi ölçütlerine ilişkin bilgilerin doğruluğunu ve
+işletmecilerin hizmet kalitesi standartlarına uyup uymadığını re’sen veya şikâyet üzerine denetleyebilir veya
+denetletebilir.
+İdari para cezaları ve diğer
+yaptırımlar
+MADDE 9 – (1) İşletmecinin bir raporlama döneminde hizmet
+kalitesi ölçütlerine ilişkin bir veya daha fazla hedef değeri sağlayamaması
+durumunda, işletmeci yazılı olarak uyarılır ve ilgili raporlama döneminde
+hizmet kalitesi yükümlülüklerini yerine getirmediği Kurum internet sayfasında
+bir ay süreyle duyurulur.
+(2)
+İşletmecinin hizmet kalitesi ile ilgili olarak bildirdiği veriler ve/veya
+tuttuğu kayıtların eksik veya yanlış olduğunun tespit edilmesi veya bu
+Yönetmelikte yer alan bilgi ve belgelerin süresi içinde verilmemesi
+halinde, ilgili işletmeci yazılı olarak uyarılır. Söz konusu veri ve/veya
+hatanın düzeltilmesi veya bilgi ve belgelerin verilmesi için Kurum
+tarafından süre verilir.
+(3)
+İşletmecinin bir takvim yılı içinde iki defa aynı veya farklı hizmet
+kalitesi ölçütlerine ilişkin herhangi bir hedef değeri sağlayamaması veya
+ikinci fıkraya göre Kurum tarafından verilen süre içerisinde gerekli
+düzeltmeleri yapmaması veya bilgi ve belgeleri vermemesi durumunda 5/9/2004 tarihli ve 25574 sayılı Resmî Gazete’de yayımlanan
+Telekomünikasyon Kurumu Tarafından İşletmecilere Uygulanacak İdari Para
+Cezaları ile Diğer Müeyyide ve Tedbirler Hakkında Yönetmelik hükümleri
+uygulanır.
+Hüküm bulunmayan haller
+MADDE 10 – (1) Kurum tarafından gerekli görülmesi halinde bu
+Yönetmeliğin uygulanmasına ilişkin olarak alt düzenleyici işlem
+yapılabilir.
+Yürürlükten kaldırılan yönetmelik
+MADDE 11 – (1) 3/3/2005 tarihli ve
+25744 sayılı Resmî Gazete’de yayımlanan Telekomünikasyon Sektöründe Hizmet
+Kalitesi Yönetmeliği yürürlükten kaldırılmıştır.
+Yürürlük
+MADDE 12 – (1) Bu Yönetmelik yayımı tarihinden 6 ay sonra
+yürürlüğe girer.
+Yürütme
+MADDE 13 – (1) Bu Yönetmelik hükümlerini Bilgi Teknolojileri
+ve İletişim Kurulu Başkanı yürütür.
+EK 1 - EVRENSEL HİZMET
+YÜKÜMLÜSÜ SABİT TELEFON HİZMETİ SUNAN İŞLETMECİLER
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI - UNVANI :
+İŞLETMECİNİN YETKİLENDİRME TÜRÜ :
+Hizmet Kalitesi Ölçütü
+İlgili Veriler
+Ölçüm Değeri
+Hedef Değerler
+Bağlantı süresi
+Tüm taleplerin en hızlı
+karşılanan %95’inin yerine getirilmesinde geçen süre
+…Gün
+≤ 4
+Arıza bildirme oranı
+Geçerli arıza sayısının
+toplam kullanılan abone hattı sayısına oranı
+%...
+≤ 1.8
+Arıza giderme süresi
+Tüm geçerli arızaların en
+hızlı karşılanan % 95’inin giderildiği süre
+…Saat
+≤ 48
+Arama blokaj
+oranı
+Ulusal aramalarda arama blokaj oranı
+%…
+≤ 1
+Uluslararası aramalarda
+arama blokaj oranı
+%...
+≤ 2
+Aramanın kurulma süresi
+Ulusal aramalar için
+ortalama kurulma süresi
+… Saniye
+≤ 2
+Uluslararası
+aramalar için ortalama kurulma süresi
+… Saniye
+≤ 3
+Çalışır durumdaki ankesörlü
+telefonların oranı
+Çalışır durumdaki
+ankesörlü telefon oranı
+%...
+≥ 95
+Fatura şikâyeti oranı
+Abone şikâyetlerinin
+olduğu fatura sayısının toplam fatura sayısına oranı
+%…
+≤ 1
+EK 2 - GSM MOBİL
+TELEFON HİZMETİ SUNAN İŞLETMECİLER
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI - UNVANI :
+İŞLETMECİNİN YETKİLENDİRME TÜRÜ :
+Hizmet Kalitesi Ölçütü
+İlgili Veriler
+Ölçüm Değeri
+Hedef Değerler
+Arama başarısızlık oranı
+Arama başarısızlık
+sayısının toplam başarılı arama girişimi sayısına oranı
+%...
+≤ 2
+Arama blokaj
+oranı
+Bloke edilmiş
+aramaların, toplam aramalara oranıdır
+%...
+≤ 5
+Aramanın kurulma süresi
+En kısa sürede kurulan
+%95’lik aramanın kurulum süresi
+… Saniye
+≤ 10
+Ortalama kanaat değeri
+Kullanıcı tarafından
+algılanan ses kalitesi değeri
+MOS
+≥ 3,5/5
+Fatura şikâyeti oranı
+Abone şikayetlerinin
+olduğu fatura sayısının toplam fatura sayısına oranı
+%…
+≤ 1
+Ön ödemeli hatlarda
+kredi şikayeti oranı
+Abone şikayetlerinin
+olduğu ön ödemeli abone sayısının toplam ön ödemeli abone sayısına oranı
+%…
+≤ 1
+KMH tamamlanma oranı
+Uçtan uca kısa mesaj
+teslim süresi içerisinde başarılı bir şekilde iletilen KMH sayısının
+gönderilen toplam KMH sayısına oranı
+%…
+≥ 95
+KMH için yapılan gözlem
+sayısı ve gözlemin yapıldığı zaman aralığı
+… Adet
+… Dönem
+Uçtan uca KMH teslim
+süresi
+Uçtan uca en kısa sürede
+gönderilen %99’luk KMH’nin teslim süresi
+… Saniye
+≤ 15
+EK 3 - İNTERNET
+SERVİS SAĞLAYICILIĞI HİZMETİ SUNAN İŞLETMECİLER
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI - UNVANI :
+İŞLETMECİNİN YETKİLENDİRME TÜRÜ :
+Hizmet Kalitesi Ölçütü
+İlgili Veriler
+Ölçüm Değeri
+Hedef Değerler
+Veri aktarım hızı
+Ortalama veri aktarım hızı
+…(kbit/sn)
+≥ Duyurulan Bağlantı hızının %75’i
+Bağlantı süresi
+Tüm taleplerin en hızlı
+karşılanan %95’inin yerine getirilmesinde geçen süre
+…Gün
+≤ Taahhüt edilen bağlantı süresi
+Fatura şikâyeti oranı
+Abone şikâyetlerinin olduğu fatura sayısının
+toplam fatura sayısına oranı
+%…
+≤ 1
+EK 4 - SON
+KULLANICILARA HİZMET VEREN BÜTÜN İŞLETMECİLER
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI :
+İŞLETMECİNİN UNVANI :
+Hizmet Kalitesi Ölçütü
+İlgili Veriler
+Ölçüm Değeri
+Hedef Değerler
+Ana menüde geçen süre1
+Sesli yanıt sistemi ana
+menüsünün toplam süresi.
+… Saniye
+≤ 45
+Sesli yanıt sisteminde
+geçen süre
+Alt menüde çağrı
+merkezindeki gerçek kişiye bağlanma seçeneğinin sunulduğu ana kadar geçen
+azami süre.
+… Saniye
+≤ 20
+Müşteri hizmetleri için
+cevap verme süresi
+20 saniye içinde
+cevaplanan aramaların yüzdesi
+%…
+≥ 80
+Tüketici şikâyeti
+sıklığı
+Aylık toplam şikâyet
+sayısının toplam abone sayısına oranı
+%…
+Tüketici şikâyetleri
+çözüm süresi
+En kısa sürede
+sonuçlandırılan % 80’lik dilim içerisindeki şikâyetlerin çözüm süresi
+… Saat
+≤ 24
+İşletmeci tarafından
+taahhüt edilen sürede çözümle sonuçlandırılan şikâyetlerin yüzdesi
+%...
+≥ 90
+_________________________________
+1 Sesli yanıt sistemi kullanan işletmeci için geçerli
+ölçüt ve değerdir.
