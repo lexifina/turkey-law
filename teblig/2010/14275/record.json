@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.14275",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MECBURİ STANDARD TEBLİĞİ (TEBLİĞ NO: ÖSG-2010/25)",
+  "number": "14275",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "path": "teblig/2010/14275",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14275&MevzuatTertip=5",
+  "source_sha256": "ea3e9142ec31b5e741b312bb5a4ded145f9d3f691d6a7b25d8b9084598b53c5d",
+  "source_bytes": 10032,
+  "published": "2010-09-14",
+  "gazette": "27699",
+  "in_force": "2010-09-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.09.2010); own commencement article: \"Bu Tebliğ yayımı tarihinden 6 (altı) ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden 6 (altı) ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 129,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14275-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

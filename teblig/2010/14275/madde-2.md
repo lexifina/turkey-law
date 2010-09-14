@@ -1,0 +1,1 @@
+MADDE 2 – (1) Türk Standardları Enstitüsü tarafından hazırlanan ekli TS 11827 “Yangın Söndürme Cihazları - Satış ve/veya Servis Hizmeti Veren İş Yerleri İçin-Genel Kurallar” standardı üretim ve satış safhalarında mecburi olarak uygulanacaktır.
