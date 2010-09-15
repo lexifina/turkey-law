@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-GVK-98-32",
+  "source_id": 24573,
+  "date": "2010-09-15",
+  "title": "Her şube için ayrı muhtasar beyanname verilmesi yerine, tek bir muhtasar beyanname düzenlenerek genel müdürlüğün bağlı bulunduğu vergi dairesine verilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24573",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c0e17058d2bee75f61a72dc7688276c5a48bb29654de9b1eb164d6911b198a4a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
