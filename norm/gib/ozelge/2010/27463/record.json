@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-KVK.2010.22-86",
+  "source_id": 27463,
+  "date": "2010-09-16",
+  "title": "Dernek tüzüğünde belirtilen hizmetlerin bir bedel alınmadan yapılması halinde iktisadi işletme oluşmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27463",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "a2f47be8f3cf207bca1025322e4af032a9ed3a1c7c3b13f5643af81f1242e2ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
