@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": ".4.35.16.01-176300-86",
+  "source_id": 28200,
+  "date": "2010-09-16",
+  "title": "Devralınan şirketin zararlarının devralan şirketin karından mahsubu hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28200",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "13c24af35a0e29d2ac0bc5997e3c4c5db7e88879323eacb8ecbd389ecf91cbc6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
