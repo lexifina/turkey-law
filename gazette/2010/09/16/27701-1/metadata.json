@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-09-16",
+  "issue": "27701",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Borsa Dışı Teşkilatlanmış Menkul Kıymetler Piyasalarının Kuruluş ve Çalışma Esasları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/09/20100916-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/09/20100916.htm",
+  "index_sha256": "77f2e7c31e37be18bc1f9dd9d851fe4624889a88e51c05404e146173de04e6ce",
+  "index_header": "16 Eylül 2010 ... 27701 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
