@@ -1,0 +1,2 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Yönetim Kurulu tarafından önerilen gen ve hücre tedavisi alanında projeler yapmış, bu alanda uluslararası yayınları olan ve Üniversitenin bu konudaki çalışmalarına destek verebilecek olan yurt içindeki ve yurt dışındaki öğretim elemanları arasından Rektör tarafından belirlenen en az on kişi ile proje çalışma gruplarından gelen üyelerden oluşur. Danışma Kurulu üyelerinin görev süresi iki yıldır. Danışma Kurulu, Müdürün başkanlığında yılda en az iki kez toplanır.
