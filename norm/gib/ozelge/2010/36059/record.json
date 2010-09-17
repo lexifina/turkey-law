@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.21.15.01-HK-2010/35-10",
+  "source_id": 36059,
+  "date": "2010-09-17",
+  "title": "Kooperatif adına alınacak silah bulundurma ruhsatına ilişkin harç uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36059",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "6747e70cc3be2ad21b7ef4268e76365271c1b1d9a0a86ace0619362d6e5b7811",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
