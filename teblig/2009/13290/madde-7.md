@@ -1,0 +1,1 @@
+MADDE 7 – (1) Kontrolörler Kurulu Başkanlığınca sınıflandırma çalışması yapılması öngörülen yöre ve tarihler sektöre yazılı olarak bildirilir. Sektör temsilcisinin katılacağının verilen süre içerisinde Bakanlığa yazılı bildirilmemesi halinde, sınıflandırma çalışması üç kontrolör vasıtasıyla yapılır.

@@ -1,0 +1,1 @@
+MADDE 9 – (1) Yönetmelikte belirlenmiş olan türleri veya nitelikleri sağlayamayan ancak Bakanlıkça desteklenmeleri uygun görülerek belgelendirilen özel tesislerde değerlendirme formu uygulanmaz. Bu tesislerin 4. madde kapsamındaki değerlendirmeleri denetimlerle yapılır.

@@ -1,0 +1,1 @@
+MADDE 6 – (1) Sektör tarafından seçilen temsilcilerin; ismi, görevi ve görevli olduğu turizm işletmesinin adı yazılı olarak Bakanlığa bildirilir. Bakanlıkça uygun görülen temsilciler için, sınıflandırma çalışmalarına üye olarak katılmak üzere, Genel Müdürlükçe onay alınır.

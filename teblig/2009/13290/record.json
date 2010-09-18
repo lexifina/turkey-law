@@ -1,0 +1,61 @@
+{
+  "source_id": "9.5.13290",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SINIFLANDIRMA ÇALIŞMALARINA İLİŞKİN DEĞERLENDİRME FORMLARININ HAZIRLANMASINA VE UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "13290",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "path": "teblig/2009/13290",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13290&MevzuatTertip=5",
+  "source_sha256": "254bc17e8bb38560fcf9462a95851e31abadfe373f9aa829d646d11886e79a5d",
+  "source_bytes": 27010,
+  "published": "2009-08-07",
+  "gazette": "27312",
+  "in_force": "2010-09-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/9/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-09-18",
+      "RG-18/9/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 527,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13290%20ek1.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-12.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-2.rtf",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-13.doc",
+    "9.5.13290%20ek3.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-14.doc",
+    "9.5.13290%20ek4.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-15.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-5.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-16.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-6.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-17.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-7.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-18.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-8.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-19.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-9.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-20.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-10.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-21.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-11.doc",
+    "http://rega.basbakanlik.gov.tr/eskiler/2009/08/20090807-4-22.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

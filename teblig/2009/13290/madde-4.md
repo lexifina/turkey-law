@@ -1,0 +1,1 @@
+MADDE 4 – (1) Tesis türlerine ve sınıflarına ilişkin puan barajlarının belirlenmesinde, Turizm Tesislerinin Belgelendirilmesine ve Niteliklerine İlişkin Yönetmelikte belirtilen asgari nitelikler, hizmet artırıcı unsurlar ve turizm sektöründeki teknolojik gelişmeler dikkate alınır.

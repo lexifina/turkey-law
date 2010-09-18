@@ -1,0 +1,1 @@
+MADDE 8 – (1) Sınıflandırma çalışması sonunda her üyenin verdiği puanların ortalaması alınır. Oteller ve Motellerin sınıfları, birinci bölümden alacağı ortalama puanları ile belirlenir. Sınıflandırma çalışması, düzenlenecek Sınıflandırma Komisyonu Raporu ile sonuca bağlanır.

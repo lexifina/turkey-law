@@ -1,0 +1,1 @@
+MADDE 5 – (1) Sınıflandırma Komisyonuna üye olarak katılacak sektör temsilcileri, turizm sektöründe deneyimli, tesis işletmeciliğinde bilgili olan ve Bakanlıktan işletme belgeli tesis işletmecileri veya genel müdürlerinden seçilir.
