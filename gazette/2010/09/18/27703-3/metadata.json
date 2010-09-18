@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-09-18",
+  "issue": "27703",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Yükseköğretim Kurumları Devlet Konservatuvarları Müzik ve Bale İlköğretim Okulu ile Müzik ve Sahne Sanatları Liseleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/09/20100918-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/09/20100918.htm",
+  "index_sha256": "9d0d8c86f809d0996812e3242b04ddbbca6408b8663b7c9026216e169ac7786e",
+  "index_header": "18 Eylül 2010 ... 27703 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
