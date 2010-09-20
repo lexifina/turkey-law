@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.42.16.02-HARÇ-2/485--29",
+  "source_id": 35880,
+  "date": "2010-09-20",
+  "title": "Bakanlar Kurulunca kamuya yararlı dernek kapsamına alınan Derneğin ayni hak iktisabında harç uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35880",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "8b9b76655405b836c3b3b3f601dcc20ee11ca2ae88fcd1ae7014afb94b843e3e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
