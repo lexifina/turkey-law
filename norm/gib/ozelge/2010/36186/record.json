@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.27.15.01-10-515-30-10",
+  "source_id": 36186,
+  "date": "2010-09-20",
+  "title": "4691 Sayılı Teknoloji Geliştirme Bölgeleri Kanununa göre",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36186",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "c9d9e13025cfe1e068c13252eb1f6c3d09bd2dbf09ac818565e72c36172c2bf8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
