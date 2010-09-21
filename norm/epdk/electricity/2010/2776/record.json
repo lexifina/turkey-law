@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2776",
+  "decision_date": "2010-09-21",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 21/09/2010 tarihli toplantısında, Elektrik dağıtım sektörünün 2011-2015 yıllarını kapsayan ikinci uygulama dönemi için geçerli olacak Kurul Kararı",
+  "resmi_gazete_date": "2010-09-29",
+  "resmi_gazete_number": "27714",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=V+j65tIxH/M=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=V+j65tIxH/M="
+  ],
+  "source_sha256": "a099593303577f8cdf11b8e462954b40054d0ba65f947522fd0f516e845e85a2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-09-21",
+  "law_text_complete": false
+}
