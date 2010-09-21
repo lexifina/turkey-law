@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "31623",
+  "decision_date": "2010-09-21",
+  "source_id": 2408,
+  "chamber": "6",
+  "file_number": "31142",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2408/",
+  "source_sha256": "f6fac4c462454c365b8da6f654cb7d3e3e162c9f56333360646eb13138b3cac9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
