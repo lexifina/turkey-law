@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/resmigazete",
+  "list_number": "846",
+  "decision_date": "2010-09-22",
+  "title": "12 Eylül 2010 Pazar günü yapılan halkoylaması kesin sonuçlarına ilişkin Yüksek Seçim Kurulu'nun 2010/846 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2863/ResmiGazete.pdf",
+  "source_sha256": "83770d0cf06cbcff80c99b8d4ce253218c350be932736b89c055a73fcd082cd9",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 7,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-09-22",
+  "law_text_complete": false
+}
