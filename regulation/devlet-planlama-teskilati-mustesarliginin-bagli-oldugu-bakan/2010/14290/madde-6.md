@@ -1,0 +1,3 @@
+Mali destek için başvuru
+MADDE 6 – (1) Müsteşarlık bütçesine konulan ödenekten, işbirliği programı kapsamında yer alan illerdeki, kamu kurum ve kuruluşları, mahalli idareler ile 5355 sayılı Mahalli İdare Birlikleri Kanunu kapsamında kurulan mahalli idare birlikleri, kamu kurumu niteliğindeki meslek kuruluşları, üniversiteler, sivil toplum kuruluşları ve diğer gerçek veya tüzel kişilere, işbirliği programı çerçevesinde olmak şartıyla, destek sağlanabilir.
+(2) Mali destek için başvuruda bulunabileceklerin kapsamı, Müsteşarlık tarafından hizmetin gerektirdiği hal ve belirli teklif çağrıları için il ve kuruluş bazında sınırlandırılabilir.

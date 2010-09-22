@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 19/6/1994 tarihli ve 540 sayılı Devlet Planlama Teşkilatı Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 16 ncı maddesi, 26/1/2006 tarihli ve 5451 sayılı Türkiye Cumhuriyeti Devlet Planlama Teşkilatı ile Suriye Arap Cumhuriyeti Devlet Planlama Komisyonu Arasında Anlayış Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun ve 25/1/2006 tarihli ve 5449 sayılı Kalkınma Ajanslarının Kuruluşu, Koordinasyonu ve Görevleri Hakkında Kanun hükümlerine dayanılarak hazırlanmıştır.

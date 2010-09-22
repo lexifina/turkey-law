@@ -1,0 +1,4 @@
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; Suriye ile yürütülen Bölgelerarası İşbirliği Programı kapsamında yer alan ve Uygulama Rehberlerinde belirtilen illerdeki kamu kurum ve kuruluşları, mahalli idareler ile 26/5/2005 tarihli ve 5355 sayılı Mahalli İdare Birlikleri Kanunu kapsamında kurulan mahalli idare birlikleri, kamu kurumu niteliğindeki meslek kuruluşları, üniversiteler, sivil toplum kuruluşları ve diğer gerçek veya tüzel kişilerin bu Yönetmelikte gösterilen öncelikler kapsamındaki projelerinin desteklenmesine ve Suriye ile yürütülen Bölgelerarası İşbirliği Programının yürütülmesine ilişkin diğer harcamaları karşılamak için Devlet Planlama Teşkilatı Müsteşarlığı bütçesine konulan ödeneğin dağıtılması ve kullanılmasına ilişkin usul ve esasları düzenlemektir.

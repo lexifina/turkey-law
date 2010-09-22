@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik Suriye ile yürütülen Bölgelerarası İşbirliği Programı kapsamında yer alan; Gaziantep, Kilis, Şanlıurfa ve Mardin illerinde yer alan kamu kurum ve kuruluşları, mahalli idareler ile 5355 sayılı Mahalli İdare Birlikleri Kanunu kapsamında kurulan mahalli idare birlikleri, kamu kurumu niteliğindeki meslek kuruluşları, üniversiteler, sivil toplum kuruluşları ve diğer gerçek veya tüzel kişilerin bu Yönetmelikte öngörülen öncelikler kapsamındaki projelerini kapsar.
