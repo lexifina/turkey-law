@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 9-362",
+  "source_id": 28146,
+  "date": "2010-09-22",
+  "title": "Serbest bölgede faaliyet gösteren şirketin bölge dışındaki şubelerinden doğan zararlarının mahsubu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28146",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "f654ef58874813fa09d3c2ae4a8d71dc71d019f447e8eb72435bac1a4b7a6c49",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
