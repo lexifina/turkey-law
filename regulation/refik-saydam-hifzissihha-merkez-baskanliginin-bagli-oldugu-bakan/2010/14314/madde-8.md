@@ -1,0 +1,6 @@
+Taşıma faaliyetlerinde kurallar
+MADDE 8 – (1) Kategori A ve kategori B’ de yer alan maddelerin paketleme ve taşınmasında UN sertifikasına sahip kaplar kullanılır.
+(2) Kategori A ve kategori B’de yer alan enfeksiyöz madde ve enfeksiyöz tanı örnekleri; havayolu, denizyolu, demiryolu ve kamuya açık karayolunda bu Yönetmelik, ADR veya IATA hükümlerine uygun olarak kontrollü, seri, güvenli, insan sağlığına ve çevreye zarar vermeden taşınmak zorundadır.
+(3) Kategori A ve kategori B’de yer alan enfeksiyöz madde ve enfeksiyöz tanı örneklerinin taşınmasında yer alan taraflar tehlike, hasar ve yaralanmaları önleyebilmek ve gerekirse bunların etkisini en aza indirebilmek için ön görülebilen risklerin yapısını ve boyutunu göz önünde bulundurarak bu Yönetmeliğe uygun tedbirleri almak zorundadır.
+(4) Paketleme veya gönderici EK-4’de yer alan ve UN kodu 2814 olan maddelerin taşınmasında Bakanlık veya il sağlık müdürlüklerinden, UN kodu 2900 olan maddelerin taşınmasında ise Tarım ve Köyişleri Bakanlığı veya tarım il müdürlüklerinden izin alması zorunludur.
+(5) Bu Yönetmelik hükümlerine tabi örneklerin taşınmasına dahil olan taraflar Bakanlıkça yayımlanan tebliğ, genelge ve yazılı talimatlara uymak zorundadır.

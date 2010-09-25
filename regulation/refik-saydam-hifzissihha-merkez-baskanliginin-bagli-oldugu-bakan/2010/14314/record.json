@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.14314",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ENFEKSİYÖZ MADDE İLE ENFEKSİYÖZ TANI VE KLİNİK ÖRNEĞİ TAŞIMA YÖNETMELİĞİ",
+  "number": "14314",
+  "issuer": "Refik Saydam Hıfzıssıhha Merkez Başkanlığının bağlı olduğu Bakan",
+  "issuer_slug": "refik-saydam-hifzissihha-merkez-baskanliginin-bagli-oldugu-bakan",
+  "path": "regulation/refik-saydam-hifzissihha-merkez-baskanliginin-bagli-oldugu-bakan/2010/14314",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14314&MevzuatTertip=5",
+  "source_sha256": "89965e22b30780f95f8b5cf4926e892dd9cadc41c18fe8ed1b756bbf950a9c59",
+  "source_bytes": 43432,
+  "published": "2010-09-25",
+  "gazette": "27710",
+  "in_force": "2010-09-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.09.2010); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2578,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.14314%20ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
