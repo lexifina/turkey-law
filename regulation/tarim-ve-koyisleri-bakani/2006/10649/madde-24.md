@@ -1,0 +1,2 @@
+Naklen atamalar
+MADDE 24 – (1) Diğer kamu kurum ve kuruluşlarında görevli personelden; bu Yönetmelikte belirtilen görevde yükselme kapsamındaki unvanları taşıyanlar aynı unvana veya bu unvanın bulunduğu grupta ya da alt grupta yer alan diğer unvanlara veya daha alt unvanlara veya daha önce bulunulan diğer unvanlara, bu Yönetmelik hükümlere bağlı kalmaksızın genel hükümlere göre naklen atanabilirler.

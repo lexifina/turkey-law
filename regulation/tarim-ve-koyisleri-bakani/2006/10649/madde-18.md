@@ -1,0 +1,2 @@
+Değerlendirme ve sınav sonuçlarının açıklanması
+MADDE 18 – (1) Sınavı gerçekleştiren kurumdan Genel Müdürlüğe ulaşan sınav sonuçları, sınav tutanağı hazırlamak suretiyle Sınav Kurulu Başkan ve üyelerince imzalanır. Sınav tutanağına başarılı ve başarısız olanların notları yazılır. Tutanakta, değerlendirme sonuçları en yüksek puandan başlayarak gösterilir. Sınav sonuçları Sınav Kurulunca sınav tarihinden itibaren 15 gün içerisinde ilan edilir ve ilgililere yazılı olarak bildirilir.

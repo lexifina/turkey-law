@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 19 – (Değişik:RG-25/9/2010-27710)
+(1) Sınava katılanlar, birimleri kanalıyla Personel ve Eğitim Dairesi Başkanlığına yazılı olarak kendilerine tebliğ edilmesinden itibaren beş iş günü içerisinde sınav sonuçlarına itiraz edebilir. Yapılan sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır. Ancak, soruların yüzde beşinden fazlasının hatalı olduğunun 16 ncı maddenin üçüncü fıkrasında belirtilen süre içinde yapılan itirazlar üzerine veya herhangi bir şekilde tespit edilmesi hâlinde, sınav iptal edilir ve en kısa sürede yeni sınav yapılır.

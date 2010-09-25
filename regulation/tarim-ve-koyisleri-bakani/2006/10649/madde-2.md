@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Tarım Reformu Genel Müdürlüğünün merkez ve taşra teşkilatında 657 sayılı Devlet Memurları Kanununa tabi olarak görev yapan personelden bu Yönetmeliğin 5 inci maddesinde belirtilen kadrolara görevde yükselme veya unvan değişikliği suretiyle atanacakları kapsar.
+(2) (Ek:RG-25/9/2010-27710) Bu Yönetmelik kapsamında bulunan ve doktora öğrenimini bitiren personelden, atanılacak görev için aranan ve 7 nci maddenin birinci fıkrasına göre hesaplanacak toplam hizmet süresine sahip olmaları ve bu Yönetmelikte aranan öğrenim şartını taşımaları kaydıyla, uzman veya aynı düzeydeki görevler ile daha alt görevlere, yapılacak atamalarda bu Yönetmelik hükümleri uygulanmaz.

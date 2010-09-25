@@ -1,0 +1,2 @@
+Duyuru
+MADDE 11 – (1) Görevde yükselme eğitimleri Genel Müdürlüğün ihtiyacı ve atama yapılacak boş kadro durumuna göre planlanarak; kadroların unvanı, yeri, sayısı, derecesi, sınıfı ile başvuru şartları da belirlenerek, form dilekçe ve diğer ilgili tüm bilgiler birimlere eğitim tarihinden en az 1 ay önce, eğitimin yeri ve zamanı ise eğitime katılacaklara en az 15 gün önce yazılı olarak bildirilir.
