@@ -1,0 +1,10 @@
+Kurul kararları
+MADDE 8 – (1) Kurul, her bir başvuru için ayrı karar alır. Kurulun aldığı bir karar başka bir başvuru için emsal teşkil etmez.
+(2) Kurulun karar alma süresi, her bir başvuru için 7 nci maddenin birinci fıkrasının (d) bendine göre aldığı kararın Bakanlık tarafından başvuru sahibine bildirilmesinden sonra başlar ve iki yüz yetmiş günü geçemez. Bu sürenin hesaplanmasında ek bilgi ve belge istenmesi ve temini için geçen süre, Bakanlığa bildirim ve kararın Resmî Gazete’de yayımlanması süreci hesaba katılmaz. Başvuru sahibinden yeniden deney, test, analiz ve araştırma yapılması istenildiğinde bunların yaptırılması ve sonuçlarının alınması, bilimsel yayınlar ve yapılmış araştırmaların sonuçları, Kurul tarafından belirlenecek diğer bilgiler ek bilgi kapsamında değerlendirilir.
+(3) Kurul kararını, her bir başvuru için hazırlanan değerlendirme raporlarını ve Komite kararları ile kamuoyundan gelecek görüşleri de dikkate alarak oluşturur.
+(4) Kurul, Komitenin kararına uymak zorunda değildir. Kurul, Komite kararına uymaması durumunda bu durumu gerekçeli olarak açıklar.
+(5) Kurul, kararın olumlu olması hâlinde en son toplantı tarihinden itibaren en geç otuz gün içinde gerekçeleri, varsa karşı oy gerekçeleri ve imzaları ile birlikte tekemmül ettirir ve Bakanlığa bildirir. Bakanlık en geç on beş gün içinde kararı yayımlanmak üzere Resmî Gazeteye gönderir.
+(6) Kurul, kararın olumsuz olması durumunda, başvuru sahibine yazılı olarak bildirilmek üzere, otuz gün içerisinde gerekçeleri ile birlikte Bakanlığa iletir. Bakanlık olumsuz kararı en geç on beş gün içinde başvuru sahibine bildirir.
+(7) Başvuru sahibi, olumsuz kararın değiştirilmesi için altmış gün içinde yeni bilgi ve belgeler sunarak itiraz edebilir.
+(8) Kurul, olumsuz kararın değiştirilmesi için yapılan başvurularla ilgili kararı, Komitelere danışarak, altmış gün içinde verir ve sonuçlarını başvuru sahibine bildirilmek üzere Bakanlığa iletir.
+(9) Kurul, kararda belirtilen koşulların ihlali veya GDO ve ürünleriyle ilgili olarak herhangi bir riskin ortaya çıkabileceği yönünde yeni bilimsel bilgilerin ortaya çıkması durumunda, kararı iptal edebilir.
