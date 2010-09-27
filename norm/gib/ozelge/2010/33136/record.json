@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-KDV-300-55",
+  "source_id": 33136,
+  "date": "2010-09-27",
+  "title": "Fabrika ve iş yerlerinde çalışan personele verilen ilk yardım ve iş güvenliği eğitimi, iş ve işçi sağlığı, işyeri hekimliği eğitiminde %18 oranında KDV uygulanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33136",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "8ddc6aba7fef00dea092bcb48be344669abe946c0b7b0076d3fbf29dc6ff7b7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
