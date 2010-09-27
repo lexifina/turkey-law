@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/870",
+  "list_number": "870",
+  "decision_date": "2010-09-27",
+  "title": "Askerlik hizmetini yapan hakim ve savcıların Hakimler ve Savcılar Yüksek Kurulu Üyeliği seçimlerinde oy kullanıp kullanamayacakları ile ilgili Yüksek Seçim Kurulu'nun 2010/870 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2859/2010-870.pdf",
+  "source_sha256": "cd1ef7a05a7452cf167747155b57a64996e3648125a009a46b8e49be4c954afe",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-09-27",
+  "law_text_complete": false
+}
