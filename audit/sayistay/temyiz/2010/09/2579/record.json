@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "31680",
+  "decision_date": "2010-09-28",
+  "source_id": 2579,
+  "chamber": "8",
+  "file_number": "30355",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2579/",
+  "source_sha256": "a33fda89ca0064e6d2d86c86c68ab83f9357bc9376713f10906e322cc386df7f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
