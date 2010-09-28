@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "31626",
+  "decision_date": "2010-09-28",
+  "source_id": 2525,
+  "chamber": "1",
+  "file_number": "30813",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2525/",
+  "source_sha256": "e21586e27ab444d397fd1747a30e046a6a75c0f25deb1b2a4f6c1be1491d4edf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
