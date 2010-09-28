@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-09-28",
+      "28.09.2010",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27713",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2010-09-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bezm-i Alem Vakıf Üniversitesi",
+  "issuer_slug": "bezm-i-alem-vakif-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bezm-i-alem-vakif-universitesi/2010/14318",
+  "published": "2010-09-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14318&MevzuatTertip=5",
+  "source_bytes": 27409,
+  "source_id": "8.5.14318",
+  "source_sha256": "a5611938c8a8f2a9ce06e4d279ad5b8f94171ec425c33b11a47a35328d686568",
+  "text_status": "as-enacted",
+  "title": "BEZMİALEM VAKIF ÜNİVERSİTESİ SAĞLIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 358,
+  "word_count": 1424
+}
