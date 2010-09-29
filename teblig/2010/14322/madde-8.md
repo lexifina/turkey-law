@@ -1,0 +1,8 @@
+Ortak yardımcı hesaplar ve kayıt önceliği
+MADDE 8 – (1) Bünyesinde döner sermaye işletmesi bulunan kamu idarelerinin her biri tüm işletmelerinde kullanılmak üzere işletme detaylı hesap planı hazırlayacaklardır.
+(2) İşletme detaylı hesap planlarının hazırlanmasında esas alınmak üzere EK:5’de yer alan “Detaylı Hesap Planı Ortak Yardımcı Hesaplar Tablosu” oluşturulmuştur.
+(3) Ortak yardımcı hesaplara, işletme detaylı hesap planlarında yer verilmesi ve en az bu detayda kayıt ve raporlama yapılması zorunludur.
+(4) Bütçe hesaplarında, işletme bütçelerinde yer alan bütçe gelirleri ve bütçe giderlerinin sınıflandırılmasına paralel şekilde yardımcı hesaplar açılacaktır. Ödenek hesaplarının detaylarında kesin hesabın çıkarılmasına yönelik olarak oluşturulan kodlar ile bütçe giderlerine ilişkin olarak işletme bütçelerinde yer alan kodlar bir arada kullanılacaktır.
+(5) Gelir tablosu ve maliyet hesapları ile bilanço hesaplarından bütçe ile ilişkisi olan hesapların detayları, bütçe hesaplarına yansıtmada ve uygulamada kolaylık sağlamak amacıyla bütçe hesaplarında yer alan yardımcı hesaplara uyum gözetilerek açılacaktır.
+(6) Mali işlemler; gerçekleştiğinde tahakkuk esasına göre bilanço, gelir tablosu ve maliyet hesaplarına, müteakiben işlemin bütçe hesapları ile ilişkilendirilmesi gerekli ise nakit esasına göre bütçe hesaplarına yansıtma hesapları aracılığıyla kaydedilecektir.
+(7) Ekte yer alan Detaylı Hesap Planı Ortak Yardımcı Hesaplar Tablosunun (EK:5) beş numaralı dipnotunda açıklanan hesaplara kayıt yapılırken yardımcı hesap kodları ile birlikte bütçe sınıflandırmasında yer alan kurumsal ve fonksiyonel kodlar da kullanılacaktır.

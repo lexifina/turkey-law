@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.14322",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MUHASEBAT GENEL MÜDÜRLÜĞÜ GENEL TEBLİĞİ (SIRA NO: 31) DÖNER SERMAYELİ İŞLETMELER DETAYLI HESAP PLANI",
+  "number": "14322",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2010/14322",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14322&MevzuatTertip=5",
+  "source_sha256": "074e84514d3593fc23a92c9fa671fd462b0b6ad19dddc8c9e976baa2f464dc57",
+  "source_bytes": 39301,
+  "published": "2010-09-29",
+  "gazette": "27714",
+  "in_force": "2010-09-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.09.2010); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1885,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14322-ek-1.xls",
+    "9.5.14322-ek-2.xls",
+    "9.5.14322-ek-3.xls",
+    "9.5.14322-ek-4.xls",
+    "9.5.14322-ek-5.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
