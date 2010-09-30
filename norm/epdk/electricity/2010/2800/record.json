@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2800",
+  "decision_date": "2010-09-30",
+  "title": "TEİAŞ tarafından önerilen primer frekans kontrol birim hizmet bedelinin 2010 yılı 4. çeyreği için 2,71 TL/MWh olarak onaylanmasına ilişkin",
+  "resmi_gazete_date": "2010-10-09",
+  "resmi_gazete_number": "27724",
+  "categories": [
+    "Yan Hizmetlere İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JS+IO7LkOtM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JS+IO7LkOtM="
+  ],
+  "source_sha256": "ab39a8729a2565409e0723ef8fd8aaf8000937972689a9a02c7f07dbb19ba44d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33874,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-09-30",
+  "law_text_complete": false
+}
