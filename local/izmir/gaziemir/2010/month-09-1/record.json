@@ -1,0 +1,28 @@
+{
+  "number": "month-09-1",
+  "year": 2010,
+  "month": 9,
+  "title": "KARAR EYLÜL 10 (41676ada, 22par.his.sat)",
+  "decision_date": null,
+  "index_date": "2010-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2010",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=74",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=74",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/c60279a377ce6b27e0bdac2b78245ffaaa56107399be8bbb879d8bacdfd766a9.doc",
+  "source_sha256": "ddaf43be99af68c4643d25e7af241cb6f9623f19d737c30ce7e75794b6cb7b8e",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2010-09-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Eylül 2010); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "30.09.2010",
+  "record_scope": "one council decision without a listed number (month as listed; year from the posting date)"
+}
