@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.33.15.01-2010-721-2-23",
+  "source_id": 37482,
+  "date": "2010-09-30",
+  "title": "Teknoloji Geliştirme Bölgelerinde Kazanç İstisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/476/ozelge/37482",
+  "related_law": "4691 sayılı TEKNOLOJİ GELİŞTİRME BÖLGELERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "127b383ccbbc26d5adae120c3f77efec62f87b0a8d4756db65d1f8553fe40261",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
