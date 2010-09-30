@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/896",
+  "list_number": "896",
+  "decision_date": "2010-09-30",
+  "title": "Hakimler ve Savcılar Yüksek Kurulu üyeliği seçiminde, askı süresi içerisinde görev yerinden başka bir İl'de bulunacak olanların geçerli mazeretlerini belgelendirmek suretiyle, bulunacakları il seçim kurulu başkanlığına müracaat edip seçmen listelerine kayıtlarını yaptırılabileceği konusunda Yüksek Seçim Kurulu'nun 2010/896 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2857/2010-896.pdf",
+  "source_sha256": "43c51a59653b5815b7fa019e3479d9cf757f3d55aecaf31686f575f2cf331f34",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-09-30",
+  "law_text_complete": false
+}
