@@ -1,0 +1,60 @@
+GELİR VERGİSİ GENEL TEBLİĞİ
+(SERİ NO: 276)
+23/7/2010 tarihli ve 6009 sayılı Gelir Vergisi Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunla1 193 sayılı Gelir Vergisi Kanununun2 geçici 69 uncu maddesinde yapılan değişiklik üzerine, yatırım indirimi istisnası uygulamasına ilişkin açıklamalar bu Tebliğin konusunu oluşturmaktadır.
+1. Yasal Düzenleme
+30/3/2006 tarihli ve 5479 sayılı Kanunun3 2 nci maddesiyle Gelir Vergisi Kanununun “Ticari ve Zirai Kazançlarda Yatırım İndirimi İstisnası” başlıklı 19 uncu maddesi 1/1/2006 tarihinden geçerli olmak üzere yürürlükten kaldırılmış olup anılan Kanunun 3 üncü maddesiyle de Gelir Vergisi Kanununa geçici 69 uncu madde eklenmek suretiyle “Yatırım İndirimi İstisnası”nın kaldırılmasına ilişkin geçiş hükümleri düzenlenmiştir.
+Anayasa Mahkemesinin 15/10/2009 tarihli ve 2006/95 Esas, 2009/144 Karar sayılı Kararıyla4 da 5479 sayılı Kanunun;
+“B- 3. maddesiyle 193 sayılı Yasaya eklenen 69 uncu maddenin birinci fıkrasının sonunda yer alan;
+…
+2- “… sadece 2006, 2007 ve 2008 yıllarına ait …” ibaresinin Anayasa’ya aykırı olduğuna ve İPTALİNE,
+C- 15. maddesinin;
+…
+2- (2) numaralı bendindeki “2” rakamının Anayasa’ya aykırı olduğuna ve İPTALİNE,”
+karar verilmiştir.
+Öte yandan, 6009 sayılı Kanunun 5 inci maddesiyle Gelir Vergisi Kanununun geçici 69 uncu maddesinde değişiklik yapılmış olup söz konusu değişiklik sonrasında anılan geçici maddenin son hali aşağıda yer almaktadır.
+“Geçici Madde 69 - Gelir ve kurumlar vergisi mükellefleri; 31/12/2005 tarihi itibarıyla mevcut olup, 2005 yılı kazançlarından indiremedikleri yatırım indirimi istisnası tutarları ile;
+a) 24/4/2003 tarihinden önce yapılan müracaatlara istinaden düzenlenen yatırım teşvik belgeleri kapsamında, 193 sayılı Gelir Vergisi Kanununun 9/4/2003 tarihli ve 4842 sayılı Kanunla yürürlükten kaldırılmadan önceki ek 1, 2, 3, 4, 5 ve 6 ncı maddeleri çerçevesinde başlanılmış yatırımları için belge kapsamında 1/1/2006 tarihinden sonra yapacakları yatırımları,
+b) 193 sayılı Gelir Vergisi Kanununun mülga 19 uncu maddesi kapsamında 1/1/2006 tarihinden önce başlanan yatırımlarla ilgili olarak, yatırımla iktisadi ve teknik bakımdan bütünlük arz edip bu tarihten sonra yapılan yatırımları,
+nedeniyle, 31/12/2005 tarihinde yürürlükte bulunan mevzuat hükümlerine göre hesaplayacakları yatırım indirimi istisnası tutarlarını, yine bu tarihteki mevzuat hükümleri (bu Kanunun geçici 61 inci maddesinin ikinci fıkrasında yer alan vergi oranına ilişkin hüküm dâhil) çerçevesinde kazançlarından indirebilirler. Şu kadar ki, vergi matrahlarının tespitinde yatırım indirimi istisnası olarak indirim konusu yapılacak tutar, ilgili kazancın % 25’ini aşamaz. Kalan kazanç üzerinden yürürlükteki vergi oranına göre vergi hesaplanır.
+Bu maddenin uygulanmasına ilişkin usûl ve esasları belirlemeye Maliye Bakanlığı yetkilidir.”
+Söz konusu değişiklik hükmü, 2010 takvim yılı kazançlarından itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girmiş bulunmaktadır.
+2. Yatırım İndirimi İstisnasına Konu Yatırım Harcamaları
+6009 sayılı Kanunla Gelir Vergisi Kanununun geçici 69 uncu maddesinde yapılan değişiklik sonrasında, yatırım indirimi istisnasına konu harcamalara ilişkin açıklamalar aşağıda yer almaktadır.
+2.1. 31/12/2005 tarihi itibarıyla mevcut olup devreden yatırım indirimi istisnası tutarları
+Gelir ve kurumlar vergisi mükellefleri, 31/12/2005 tarihi itibariyle mevcut olup, kazancın yetersiz olması nedeniyle indiremedikleri devreden yatırım indirimi istisnası tutarlarını (2006, 2007 ve 2008 yıllarında yararlandıkları tutarlardan kalan kısmı), Tebliğin (3) numaralı bölümünde yapılan açıklamaları da dikkate alarak ve endekslenmiş değerleri ile birlikte 2010 ve müteakip yıllarda elde ettikleri kazançlarından indirebileceklerdir.
+2.2. 1/1/2006 tarihinden sonra yapılan yatırımlar için yatırım indirimi istisnası
+2.2.1. 24/4/2003 tarihinden önce yapılan müracaatlara istinaden düzenlenen teşvik belgeleri kapsamında yapılan yatırımlar için yatırım indirimi istisnası uygulaması
+Gelir ve kurumlar vergisi mükellefleri,
+- 24/4/2003 tarihinden önce yapılan müracaatlara istinaden düzenlenen yatırım teşvik belgeleri kapsamında, Gelir Vergisi Kanununun 4842 sayılı Kanunla yürürlükten kaldırılmadan önceki ek 1-6 ncı maddeleri çerçevesinde başlanılmış yatırımları için, belge kapsamında 1/1/2006 tarihinden sonra yapmış oldukları yatırım harcamaları dolayısıyla 31/12/2005 tarihinde yürürlükte bulunan mevzuat hükümlerine göre hesaplayacakları yatırım indirimi istisnası tutarlarından, 31/12/2008 tarihi itibarıyla mevcut olup kazancın yetersizliği nedeniyle indiremedikleri yatırım indirimi istisnası tutarları ile
+- Bu yatırımlar kapsamında olup halen devam eden yatırım harcamaları dolayısıyla 31/12/2005 tarihinde yürürlükte bulunan mevzuat hükümlerine göre hesaplayacakları yatırım indirimi istisnası tutarlarını
+Tebliğin (3) numaralı bölümünde yapılan açıklamaları da dikkate alarak ve endekslenmiş değerleri ile birlikte 2010 ve müteakip yıllarda elde ettikleri kazançlarından indirebileceklerdir.
+2.2.2. Gelir Vergisi Kanununun mülga 19 uncu maddesi kapsamında yapılan yatırımlar için yatırım indirimi istisnası uygulaması
+- Gelir Vergisi Kanununun mülga 19 uncu maddesi kapsamında 1/1/2006 tarihinden önce yatırıma başladığını belgeleyen gelir ve kurumlar vergisi mükellefleri, komple ya da entegre tesisler gibi tamamlanması belli bir süreci gerektiren yatırımlar ile ilgili ve bu yatırımlarla iktisadi ve teknik bakımdan bütünlük arz edip bu tarihten sonra yaptıkları yatırım harcamaları için, 31/12/2005 tarihinde yürürlükte bulunan mevzuat hükümleri çerçevesinde hesapladıkları yatırım indirimi istisnası tutarlarından 31/12/2008 tarihi itibarıyla mevcut olup kazancın yetersizliği nedeniyle indiremedikleri yatırım indirimi istisnası tutarları ile
+- Bu yatırımlar kapsamında olup bu yatırımlarla iktisadi ve teknik bakımdan bütünlük arz edip halen devam eden yatırım harcamaları dolayısıyla 31/12/2005 tarihinde yürürlükte bulunan mevzuat hükümlerine göre hesaplayacakları yatırım indirimi istisnası tutarlarını
+Tebliğin (3) numaralı bölümünde yapılan açıklamaları da dikkate alarak ve endekslenmiş değerleri ile birlikte 2010 ve müteakip yıllarda elde ettikleri kazançlarından indirebileceklerdir.
+2.3. 1/1/2006–8/4/2006 tarihleri arasında yeni başlamış yatırımların durumu
+Anayasa Mahkemesinin 15/10/2009 tarihli ve 2006/95 Esas, 2009/144 Karar sayılı Kararıyla, 5479 sayılı Kanunun 15 inci maddesinin (2) numaralı bendindeki “2” rakamı iptal edilmiş bulunmaktadır.
+Bu çerçevede, 1/1/2006–8/4/2006 tarihleri arasında Gelir Vergisi Kanununun mülga 19 uncu maddesi kapsamında yeni başlayan ve bu tarihler arasında yapılan yatırımlar nedeniyle hesaplanan yatırım indirimi tutarları da yatırım indirimi istisnasından yararlanabilecektir. Bu kapsamda olan yatırım harcamaları nedeniyle hesaplanan yatırım indirimi istisnası tutarlarının, ilgili dönemlerde kazancın bulunup bulunmadığına bakılmaksızın, 2010 hesap döneminden itibaren Tebliğin (3) numaralı bölümünde yapılan açıklamalar da dikkate alınarak ve endekslenmiş değerleri ile birlikte indirim konusu yapılması mümkün bulunmaktadır.
+Ancak, 8/4/2006 tarihinden sonra yeni başlayan yatırımlar nedeniyle yapılan harcamaların ya da 1/1/2006-8/4/2006 tarihinde başlamakla birlikte bu süre içinde tamamlanmayıp devam eden yatırımlar için 8/4/2006 tarihinden sonra yapılan harcamaların, yatırım indiriminden yararlanması mümkün değildir.
+3. Yatırım İndirimi İstisnası Uygulaması
+3.1. İndirime konu yatırım indirimi istisnasının hesaplanması
+Bu Tebliğin (2) numaralı bölümünde yer alan yatırım indirimi tutarları, 31/12/2005 tarihinde yürürlükte bulunan mevzuat hükümleri (Gelir Vergisi Kanununun geçici 61 inci maddesinin ikinci fıkrasında yer alan vergi oranına ilişkin hüküm dâhil) çerçevesinde 2010 ve müteakip yılların kazançlarından indirilebilecektir.
+Şu kadar ki, vergi matrahlarının tespitinde yatırım indirimi istisnası olarak indirim konusu yapılacak tutar, ilgili kazancın % 25’ini aşamayacaktır. İlgili dönemde yatırım indirimi istisnası uygulanacak kazanç ise yatırım indirimi uygulanmadan önceki zarar mahsubu ile tüm indirim ve istisnalar düşüldükten sonraki tutar olacaktır.
+3.2. Yatırım indirimi istisnası uygulayan mükelleflerin kazançlarına uygulanacak vergi oranı
+İlgili dönemler itibarıyla yatırım indirimi istisnası uygulayan mükelleflerin, istisna uygulaması sonucu kalan kazançları üzerinden yürürlükteki vergi oranına göre vergi hesaplanacaktır.
+Dolayısıyla, yatırım indirimi istisnası uygulaması sonucunda kalan kazanç tutarına gelir vergisi mükellefleri, yatırım indirimi istisnası uygulayacakları dönemde yürürlükte bulunan vergi tarifesini; kurumlar vergisi mükellefleri ise 5520 sayılı Kurumlar Vergisi Kanununun5 32 nci maddesinde yer alan % 20 kurumlar vergisi oranını uygulamak suretiyle yatırım indirimi istisnasından yararlandıkları dönemlere ait gelir veya kurumlar vergilerini hesaplayacaklardır.
+Diğer taraftan, 24/4/2003 tarihinden önce yapılan müracaatlara istinaden düzenlenen teşvik belgeleri kapsamında Gelir Vergisi Kanununun 4842 sayılı Kanunla yürürlükten kaldırılmadan önceki ek 1-6 ncı maddeleri çerçevesinde yapılan yatırımlar için yatırım indirimi istisnasından yararlanılması halinde, Gelir Vergisi Kanununun geçici 61 inci maddesi uyarınca yatırım indiriminden yararlanan kazançlar üzerinden dağıtılsın dağıtılmasın %19,8 oranında vergi kesintisi yapılacağı tabiidir.
+4. 2010 Hesap Dönemi I. ve II. Geçici Vergi Dönemlerinde Uygulanan Yatırım İndirimi İstisnası Sonucunda Yapılacak İşlemler
+Anayasa Mahkemesince verilen 15/10/2009 tarihli ve 2006/95 Esas, 2009/144 Karar sayılı Karar sonrasında, 2010 hesap döneminin I. ve II. geçici vergi dönemlerinde yatırım indirimi istisnasından yararlanan gelir ve kurumlar vergisi mükellefleri, geçici vergi beyannamelerinde beyan etmiş oldukları kazançlarının tamamı üzerinden yatırım indirimi istisnasından yararlanıp, istisna uygulaması sonucunda kalan kazanç tutarı üzerinden ise 31/12/2005 tarihinde yürürlükte bulunan vergi oranları üzerinden vergilendirilmiş bulunmaktadırlar.
+Anılan dönemlerde bu şekilde yatırım indirimi istisnasından yararlanan mükelleflerin ilgili geçici vergi beyanlarını düzeltmeleri söz konusu değildir. Söz konusu mükellefler, 2010 hesap döneminin III. geçici vergi dönemiyle birlikte, bu dönemde beyan etmiş oldukları kazançları üzerinden Tebliğin (3) numaralı bölümünde yapılan açıklamalar çerçevesinde yatırım indirimi istisnasından yararlanabileceklerdir.
+5. Kazancın Bulunmasına Rağmen Herhangi Bir Dönemde Yatırım İndirimi İstisnasından Yararlanılmaması Durumu
+Yatırım indirimi istisnasından, kazancın elverişli olduğu yılda yararlanılabilmekte, ilgili yıl kazancı elverişli olduğu halde yatırım indirimi istisnasından yararlanılmaması halinde, mükelleflerce yararlanılmayan bu indirim tutarlarının daha sonraki yıllara ait kazançlardan indirilmesi mümkün bulunmamaktadır.
+Bu nedenle, mükelleflerin önceki yıllarda (2006, 2007 ve 2008) kendi istekleriyle yararlanmadıkları yatırım indirimi istisnası tutarlarını, yatırım indirimi uygulamasının tercih edildiği diğer yıllarda indirim konusu yapabilmeleri mümkün değildir. Kazanç yetersizliği nedeniyle indirimi fiilen mümkün olmayan kısmın ise müteakip dönemlerde indirilebileceği tabiidir.
+Ancak, 2009 hesap dönemine ilişkin olarak kazanç beyan etmekle birlikte önceki yıllardan devreden yatırım indirimi istisnası tutarlarından yararlanamayan mükelleflerin, bu kazanç tutarlarına isabet eden yatırım indirimi tutarlarını, endekslenmiş değerleri ile birlikte daha sonraki dönemlerin kazançlarından indirebilmeleri mümkün bulunmaktadır.
+Tebliğ olunur.
+‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑
+1 1/8/2010 tarihli ve 27659 sayılı Resmi Gazete’de yayımlanmıştır.
+2 6/1/1961 tarihli ve 10700 sayılı Resmi Gazete’de yayımlanmıştır.
+3 8/4/2006 tarihli ve 26133 sayılı Resmi Gazete’de yayımlanmıştır.
+4 8/1/2010 tarihli ve 27456 sayılı Resmi Gazete’de yayımlanmıştır.
+5 21/6/2006 tarihli ve 26205 sayılı Resmi Gazete’de yayımlanmıştır.
