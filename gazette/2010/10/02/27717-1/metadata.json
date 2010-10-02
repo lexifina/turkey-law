@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-10-02",
+  "issue": "27717",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2010/817 Türkiye Cumhuriyeti Hükümeti Sağlık Bakanlığı ile Kuzey Kıbrıs Türk Cumhuriyeti’nin Ankara Büyükelçiliği Arasında Sağlık Alanında Hibe Yapılmasına Dair Anlaşma'nın Yürürlüğe Girmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/10/20101002-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/10/20101002.htm",
+  "index_sha256": "37dede0179ede858a46d28e96d7fc461cd8ebdc0651863f6ea2602f9d3bde8b2",
+  "index_header": "2 Ekim 2010 ... 27717 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
