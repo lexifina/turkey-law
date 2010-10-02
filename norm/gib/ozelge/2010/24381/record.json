@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.09.15.01-3.2010.7.GVK.89.Md.-2",
+  "source_id": 24381,
+  "date": "2010-10-02",
+  "title": "Geçmiş Dönemlere Ait Bağ-kur Prim Ödemeleri hangi yıla ait olduğuna bakılmaksızın gelirin elde edildiği yılda ödenmiş olduğunun tevsik edilmesi kaydıyla gelir vergisi matrahından indirilebileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24381",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "fd82c4efe7eb021b0540eb913ded8cd9fcbaa7cfa7de3dac7dc3f2023f6b728d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
