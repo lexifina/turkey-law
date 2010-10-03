@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/909",
+  "list_number": "909",
+  "decision_date": "2010-10-03",
+  "title": "Radyo ve televizyon kuruluşlarının (Türkiye Radyo ve Televizyon Kurumu dahil), Hakimler ve Savcılar Yüksek Kurulu üyeliği seçiminde adayların lehinde veya aleyhindeki propagandaya hiçbir şekilde yer vermeden yayınlarını sürdürmeleri gerektiği konusunda Yüksek Seçim Kurulu'nun 2010/909 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2855/2010-909.pdf",
+  "source_sha256": "8dabe7538b703fb8744884a152b6d392d754a0ed2804ee4fe9157f1ad2f536fe",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-10-03",
+  "law_text_complete": false
+}
