@@ -1,0 +1,24 @@
+{
+  "number": "99",
+  "number_as_published": "99",
+  "year": 2010,
+  "title": "Hukuk Komisyonunun hazırlamış olduğu Bursa İli Nilüfer Belediyesi ile Adalar Belediyesi Arasında Kardeş Belediye İlişkisi Kurulması hakkındaki rapor görüşülerek yapılan müzakere sonucu oybirliği ile kabulüne karar verildi.",
+  "decision_date": "2010-10-04",
+  "source": "https://adalar.bel.tr/meclis-kararlari/2010-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-karari/",
+  "official_document": null,
+  "source_sha256": "feadfe6dcd1f6044ddb4b4b16fc6b518b375077108fdec09eaf44cedb357b548",
+  "issuer": "Adalar Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2010-10-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.10.2010 (Karar Tarihi printed above the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and subject as published in the year's official decisions post)",
+  "decision_number": "2010/99",
+  "official_page": "https://adalar.bel.tr/meclis-kararlari/2010-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-karari/"
+}
