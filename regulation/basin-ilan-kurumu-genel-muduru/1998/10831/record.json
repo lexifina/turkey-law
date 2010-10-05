@@ -1,0 +1,40 @@
+{
+  "source_id": "7.5.10831",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BASIN İLÂN KURUMU EĞİTİM, ARAŞTIRMA, YAYIN VE DOKÜMANTASYON HİZMETLERİ YÖNETMELİĞİ",
+  "number": "10831",
+  "issuer": "Basın İlân Kurumu Genel Müdürü",
+  "issuer_slug": "basin-ilan-kurumu-genel-muduru",
+  "path": "regulation/basin-ilan-kurumu-genel-muduru/1998/10831",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10831&MevzuatTertip=5",
+  "source_sha256": "68a9bf19aea5732e0fe8c062e6d027a057a5cf870db71d47e81b2ecd0fc303ae",
+  "source_bytes": 49694,
+  "published": "1998-12-19",
+  "gazette": "23558",
+  "in_force": "2010-10-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/10/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-10-05",
+      "RG-5/10/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-08-26",
+      "RG-26/8/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 904,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Basın ve halkla ilişkiler yetkililerinin eğitimi
+Madde 12 - Şubelerinin bulunmadığı yerlerde Basın İlân Kurumu mevzuatını, uygulamakla görevli İl Basın ve Halkla İlişkiler Müdürlükleri personeli ile Kurum'un Kanunî Müşterisi olan Kurum ve Kuruluşların Basın ve Halkla İlişkiler mensupları ve özel sektörün benzer işleri yapan mensupları için, ilgileri oranında Kurum mevzuatının uygulanması hakkında eğitim seminerleri düzenlenebilir.

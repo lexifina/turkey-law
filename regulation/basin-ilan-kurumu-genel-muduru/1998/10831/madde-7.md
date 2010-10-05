@@ -1,0 +1,2 @@
+Eğitimin uygulanacağı yerler ve süreleri
+Madde 7 - Kurum Bayramoğlu Tatil Köyü'nün, tatil hizmeti verdiği dönemlerin dışında iklim şartlarının imkân verdiği sürelerde bu mekanda ve Kurum Merkez binasında, Basın Müzesi veya İletişim Fakültesi gibi eğitim müesseselerinde, meslek kuruluşlarında ve uygun görülecek diğer yerlerde verilebilecek olan eğitim hizmetleri; günlük, haftalık ve aylık dönemler halinde yapılabilir.
