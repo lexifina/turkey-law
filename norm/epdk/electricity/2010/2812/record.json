@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2812",
+  "decision_date": "2010-10-06",
+  "title": "2011 yılında uygulanacak iletim ek ücretine ilişkin",
+  "resmi_gazete_date": "2010-10-13",
+  "resmi_gazete_number": "27728",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OzHlrDn1U5w=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OzHlrDn1U5w="
+  ],
+  "source_sha256": "02f140916c98f28c5575f8c6e06707c61603a198ed6b135fd5aad6c3071c19b1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-10-06",
+  "law_text_complete": false
+}
