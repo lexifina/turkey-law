@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "31694",
+  "decision_date": "2010-10-07",
+  "source_id": 2247,
+  "chamber": "1",
+  "file_number": "30695",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2247/",
+  "source_sha256": "105a1424aecdc6d8954104fa1490d7525d2138a884f9c1968b5cd5403ec23ef3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
