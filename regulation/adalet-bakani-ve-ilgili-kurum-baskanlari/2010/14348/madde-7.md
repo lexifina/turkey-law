@@ -1,0 +1,6 @@
+Kullanıcının sorumluluğu
+MADDE 7 – (1) Dizüstü bilgisayarın, kullanıcıya teslimi tarihinden terkin işlemi yapılıncaya kadar bakım onarım ve idamesi ile bunlar için gerekli olan sarf malzemeleri ilgili kurum tarafından karşılanır.
+(2) Dizüstü bilgisayarın kullanıcıya teslim tarihinden, terkin işlemi yapılıncaya kadar kullanıcının kasıt, kusur, ihmal, tedbirsizlik veya dikkatsizliğinden kaynaklanmayan arıza ve hasarlar ilgili kurum tarafından giderilir ya da arıza ve hasarın niteliği dikkate alınarak kullanıcıya yeni bir dizüstü bilgisayar verilebilir. Yeni bir dizüstü bilgisayar verilmesi durumunda eski dizüstü bilgisayar geri alınır ve sağlam parçaları bakım ve onarım kapsamında değerlendirilir.
+(3) Kullanıcının kasıt, kusur, ihmal, tedbirsizlik veya dikkatsizliğinden kaynaklanan arıza ve hasarlar kullanıcısı tarafından giderilir. Ancak dizüstü bilgisayarın tamirinin mümkün ya da ekonomik olmaması durumunda, bu dizüstü bilgisayarın rayiç değeri kullanıcıdan tahsil edilir ve yeni bir dizüstü bilgisayar verilebilir.
+(4) Bu madde kapsamında yeni bir dizüstü bilgisayar verilinceye kadar geçici olarak dizüstü bilgisayar verilebilir. Yeni dizüstü bilgisayar verildiğinde geçici olarak verilen dizüstü bilgisayar geri alınır.
+(5) Demirbaştan terkin işlemi yapıldıktan sonra kullanıcıya bırakılan dizüstü bilgisayarın tamiri kurumları tarafından yapılmaz.
