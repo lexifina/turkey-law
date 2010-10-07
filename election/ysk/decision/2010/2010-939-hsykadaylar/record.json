@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/2010-939-hsykadaylar",
+  "list_number": "939",
+  "decision_date": "2010-10-07",
+  "title": "17 Ekim 2010 Pazar günü yapılacak Hakimler ve Savcılar Yüksek Kurulu Üyeliği seçimleri kesin aday listeleri ile ilgili Yüksek Seçim Kurulu'nun 2010/939 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2846/2010-939-HSYKAdaylar.pdf",
+  "source_sha256": "6d7349a803368e22f2c8431aa9ee84d305ded6eb1cf5cef0e5e2ce04696180a1",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 11,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-10-07",
+  "law_text_complete": false
+}
