@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-10-07",
+      "07.10.2010",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27722",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2010-10-07",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Galatasaray Üniversitesi",
+  "issuer_slug": "galatasaray-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/galatasaray-universitesi/2010/14350",
+  "published": "2010-10-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14350&MevzuatTertip=5",
+  "source_bytes": 55449,
+  "source_id": "8.5.14350",
+  "source_sha256": "144fa27c26aa39ca443271da06a56f7d614695e6a6a12892f9440f2080c6a2a8",
+  "text_status": "as-enacted",
+  "title": "GALATASARAY ÜNİVERSİTESİ KARAR ANALİZİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 194,
+  "word_count": 663
+}
