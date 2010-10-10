@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.14359",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2011-2013 DÖNEMİ BÜTÇE ÇAĞRISI",
+  "number": "14359",
+  "path": "teblig/2010/14359",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14359&MevzuatTertip=5",
+  "source_sha256": "038128c2cce2be62fdff7d6ebbe6de41acc0abb1111a07d9905b92fba9ec0754",
+  "source_bytes": 124464,
+  "published": "2010-10-10",
+  "gazette": "27725",
+  "in_force": "2010-10-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.10.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5963,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
