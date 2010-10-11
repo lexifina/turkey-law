@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 9-405",
+  "source_id": 28198,
+  "date": "2010-10-11",
+  "title": "2004 dönem zararının 2005 dönem beyannamesinde yazılmamış olması nedeniyle sözü edilen zarar tutarından feragat edildiğinin kabul edilmesi, dolayısıyla ilgili zarar tutarının 2006 beyannamesinde mahsup edilmemesi gerektiğinin bildirildiği belirtilerek, 20",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28198",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "2275334c128e1186752da30bec9efa14a14fb46d349786bd7f5ad6ca69f2f841",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
