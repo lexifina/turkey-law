@@ -1,0 +1,3 @@
+Yönetim kurulu
+MADDE 9 – (1) Yönetim Kurulu; Başkan, Sağlık Kültür ve Spor Daire Başkanı, Beden Eğitimi ve Spor Yüksekokulu Müdürü ile Basın Halkla İlişkiler Müdürü dışında, görevlendirilen toplam onbir kişiden oluşur. Yönetim Kurulu üyeleri öğretim elemanları arasından Başkanın önerisi üzerine Rektör tarafından üç yıllığına görevlendirilir. Sağlık Kültür ve Spor Daire Başkanı, Beden Eğitimi ve Spor Yüksekokulu Müdürü ile Basın Halkla İlişkiler Müdürü görev süreleri ile sınırlı olarak Yönetim Kurulu üyeliği yapar.
+(2) Yönetim Kurulu ayda bir kez olağan olarak toplanır. Yapılan görev taksimi sonunda görev alan tüm Yönetim Kurulu üyelerinin yetki ve sorumlulukları Yönetim Kurulu toplantısında belirlenir ve karar defterine işlenir.

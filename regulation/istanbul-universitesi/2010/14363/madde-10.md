@@ -1,0 +1,21 @@
+Yönetim kurulunun görevleri
+MADDE 10 – (1) Yönetim Kurulunun görevleri şunlardır:
+a) Kulübün amaçlarını gerçekleştirmek ve Genel Kurul kararlarını uygulamak,
+b) Çalıştırıcı, sporcu ve Kulüp görevlilerinin ödentilerinin miktarlarını belirlemek ve bu miktarın uygun bütçelerden sağlanmasını Rektörlüğe teklif etmek,
+c) Spor müsabaka ve organizasyonlarında Kulüp yararına olacak sporcuların transferlerinin yapılması veya Kulüp sporcularının başka kulüplere kiralanması ya da satılmasına karar vermek,
+ç) Spor müsabaka ve organizasyonlarına katılan görevli veya izinli sayılması gereken yönetici, çalıştırıcı, sporcu ve görevlilerin isimlerini belirlemek ve Rektörlüğe bildirmek,
+d) Fakülteler ve yüksekokullar arası müsabakalar düzenlemek,
+e) Kulübün sevk ve idaresini yapmak,
+f) Çalışma programlarının hazırlanması ve uygulanmasını organize etmek, karar vermek ve takip etmek,
+g) Kulübün defterlerinin ve kayıtlarının tutulması ve saklanmasını sağlamak,
+ğ) Gelir ve gider hesaplarının tutulmasını, bütçe hazırlanmasını sağlamak,
+h) Yetkili kişilere avans tahsis edilmesini sağlamak,
+ı) Demirbaş eşya ve Kulüp mallarının envanterinin yapılması, ödüllerin ve kupaların kayda alınması, Kulüp mallarının ve eşyalarının düzgün ve en iyi şekilde muhafaza edilmesini temin etmek,
+i) Herhangi bir sebeple Kulüple ilişkisi kesilen sporcuların durumunun ilgili kamu kurum ve kuruluşları ile benzeri kuruluşlara bildirilmesini sağlamak,
+j) Kulübe gelir sağlamak amacı ile girişimlerde bulunmak, sözleşmeler yapmak,
+k) Dönem başında çalışma programını belirlemek,
+l) Çalışma dönemi sonunda faaliyet raporu ile bilançoyu ve gelecek dönem bütçesini hazırlamak,
+m) Genel Kurul toplantılarının gün, saat, yer ve gündemini belirleyerek Genel Kurulda alınan kararları üyelere ve ilgili yerlere duyurmak,
+n) İlgili düzenleyici işlemlerin hazırlanması ya da değişiklik önerilerinin düzenlenmesi yönünde çalışmalar yapıp Genel Kurulun onayına sunmak,
+o) Kulübün personel ihtiyacının karşılanması için Rektörlüğe talepte bulunmak,
+ö) Kulübün gelir ve giderlerinden sorumlu olmak.
