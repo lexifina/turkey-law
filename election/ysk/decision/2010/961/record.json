@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/961",
+  "list_number": "961",
+  "decision_date": "2010-10-12",
+  "title": "YSK kararı 2010/961",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2842/2010-961.pdf",
+  "source_sha256": "1631d9bb2c29e32532ecb31e11b09a5202ff38aaa69dbf35f278a7e8295a821e",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-10-12",
+  "law_text_complete": false
+}
