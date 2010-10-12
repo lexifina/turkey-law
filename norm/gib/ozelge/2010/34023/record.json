@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.43.10.00-5050/2895-8",
+  "source_id": 34023,
+  "date": "2010-10-12",
+  "title": "ÖTV Kanununun 7/2. maddesindeki istisnadan yararlanılarak ilk iktisabı yapılan aracın beş yıl geçmeden ya da geçtikten sonra satılabilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34023",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "ee415fc3289ce820083f768db62dc274d9167e023fd4b3e86dabb34c21c5190b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
