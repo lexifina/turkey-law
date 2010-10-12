@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.15.01-GVK 40-2/7--48",
+  "source_id": 23393,
+  "date": "2010-10-12",
+  "title": "Tavan ücretini aşan sosyal güvenlik priminin iadesi sırasında tevkifat yapılmadığı için ücret kabul edilerek yıllık gelir vergisi beyannamesi ile beyan edilmesi gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23393",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "638c1a9b3c9c62608177bbecf10a93bc797cb3dafd649e4fafd459ba9ff22bb6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
