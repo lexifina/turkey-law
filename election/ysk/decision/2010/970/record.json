@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/970",
+  "list_number": "970",
+  "decision_date": "2010-10-13",
+  "title": "YSK kararı 2010/970",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2840/2010-970.pdf",
+  "source_sha256": "70b7b290554c37a82cba025e0d7e081035745883cd89f8cc4eb622477b6324d0",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-10-13",
+  "law_text_complete": false
+}
