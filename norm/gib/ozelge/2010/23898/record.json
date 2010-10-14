@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.02.10.00-2010/3-3",
+  "source_id": 23898,
+  "date": "2010-10-14",
+  "title": "Verilen hizmet karşılığı elde edilen kazancın gayrimenkul sermaye iradı olarak değerlendirilmesi nedeniyle %20 oranında vergi kesintisi yapılarak kazancın gayrimenkul sermaye iradı olmayıp kurum kazancı olması nedeniyle anılan vergi kesintisinin yapılıp y",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23898",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "90d5751675eefbd43f2825bc36f293031f765c26c6eadc3629b15a91e7245d3e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
