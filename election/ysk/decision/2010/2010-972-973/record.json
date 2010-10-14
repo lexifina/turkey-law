@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/2010-972-973",
+  "list_number": "972-973",
+  "decision_date": "2010-10-14",
+  "title": "17 Ekim 2010 Pazar günü yapılacak olan Hakimler ve Savcılar Yüksek Kurulu üyelikleri seçiminde, seçmenlerin oy pusulası üzerinde yapacakları işaretlemede kullanacakları kalemlerle ile ilgili Yüksek Seçim Kurulu'nun 2010/972 ve 2010/973 sayılı kararları",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2836/2010-972-973.pdf",
+  "source_sha256": "bde8f54b2bcd9655f422a7e3fc122c3700ab39625494e16270fd13a87b1bcd69",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-10-14",
+  "law_text_complete": false
+}
