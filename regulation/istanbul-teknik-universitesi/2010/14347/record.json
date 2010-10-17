@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-10-06",
+      "06.10.2010",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2010-10-17",
+      "RG-17/10/2010-27732",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2010-10-17",
+      "17/10/2010",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-17/10/2010-27732",
+  "first_law": null,
+  "gazette": "27721",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2010-10-17",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/2010/14347",
+  "published": "2010-10-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14347&MevzuatTertip=5",
+  "source_bytes": 32183,
+  "source_id": "8.5.14347",
+  "source_sha256": "450edadb5e6880fb7c2b4a5f8a2296979d4dd6516d14b030ad825a2f2adc8a34",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ DEPREM MÜHENDİSLİĞİ VE AFET YÖNETİMİ ENSTİTÜSÜ YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 977
+}
