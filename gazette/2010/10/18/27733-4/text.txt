@@ -1,0 +1,134 @@
+18 Ekim 2010 PAZARTESİ
+Resmî Gazete
+Sayı : 27733
+TEBLİĞ
+Dış Ticaret Müsteşarlığından:
+DIŞ TİCARET VERİ SİSTEMİNE İLİŞKİN DIŞ TİCARETTE
+STANDARDİZASYON TEBLİĞİ
+TEBLİĞ NO: (2010/41)
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Mevzuatı uyarınca gerçekleştirilen izin ve uygunluk işlemlerinin Dış Ticaret Veri Sistemi aracılığıyla yerine getirilmesini sağlamak üzere, firmaların elektronik ortamda tanımlanmasına ve firmalar adına işlem yapması öngörülen kullanıcıların yetkilendirilmesine dair usul ve esasları belirlemektir.
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 13/10/2005 tarihli ve
+25965 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 7/9/2005 tarihli ve 2005/9454 sayılı Bakanlar Kurulu Kararı eki Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Rejimi Kararı’nın 4 üncü maddesinin (f) bendine istinaden hazırlanmıştır.
+Tanım ve kısaltmalar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a)
+DTVS: Dış Ticarette Teknik
+Düzenlemeler ve
+Standardizasyon mevzuatı uyarınca gerçekleştirilen izin ve uygunluk işlemlerinin elektronik ortamda ve risk esaslı yerine getirilmesi amacıyla oluşturulan web tabanlı Dış Ticaret Veri Sistemi uygulamasını,
+b)
+Elektronik İmza: Kanunda tanımlanan şekilde başka bir elektronik veriye eklenen veya elektronik
+veriyle mantıksal bağlantısı bulunan ve kimlik
+doğrulama amacıyla kullanılan elektronik veriyi,
+c)
+ESHS: Kanun uyarınca Bilgi Teknolojileri ve İletişim Kurumuna bildirimini yapmış, elektronik sertifika, zaman damgası ve elektronik imzalarla ilgili hizmetleri sağlayan kamu kurum ve kuruluşları ile gerçek veya özel hukuk tüzel kişiler olan Elektronik Sertifika Hizmet Sağlayıcılarını,
+ç) Firma: Dış Ticarette Teknik Düzenlemeler ve Standardizasyon Yönetmeliği’nin İhracatta Zorunlu Standart Denetimiyle ilgili hükümleri ile (2009/33), (2010/2), (2010/8), (2010/10),
+(2010/11), (2010/14), (2010/15) ve (2010/16) sayılı Dış Ticarette Standardizasyon Tebliğleri uyarınca Müsteşarlığa izin ve uygunluk işlemi için başvuran, kamu kurumları dahil, tüm gerçek ve tüzel kişileri,
+d)
+Grup Başkanlıkları: Müsteşarlık Bölge Müdürlüklerine bağlı Dış Ticarette Standardizasyon Denetmenleri
+Grup Başkanlıklarını,
+e)
+Kamu kurumu kullanıcıları: DTVS kapsamında firmaların izin ve uygunluk işlemlerinde görev alan ve Müsteşarlık personeli hariç olmak üzere kamu kurumları adına işlem yapan kişi veya kişileri,
+f)
+Kanun: 23/1/2004 tarihli ve 25355 sayılı Resmî Gazete’de yayımlanan 5070 sayılı Elektronik İmza Kanunu ile bu Kanuna istinaden yürürlüğe konulan tüm mevzuat düzenlemelerini,
+g)
+Kullanıcı: DTVS aracılığıyla firmalar adına işlem yapmak üzere yetkilendirilmiş kişi veya kişileri,
+ğ) Mobil Elektronik İmza: Müsteşarlık ile mobil elektronik imza kullanımına ilişkin sözleşmesi bulunan GSM Operatörlerince verilen SIM Kartı kullanarak yaratılan ve Kanunca tanımlanan güvenli elektronik imza niteliğindeki elektronik sertifikayı,
+h)
+Müsteşarlık: Başbakanlık Dış Ticaret Müsteşarlığını,
+ı) Müsteşarlık web sayfası: Müsteşarlığın internet üzerinden hizmet verdiği www.dtm.gov.tr
+adresinden girilen web sayfasını,
+i)
+Nitelikli Elektronik Sertifika: Kanunun 9 uncu maddesinde sayılan nitelikleri haiz elektronik sertifikayı,
+ifade eder.
+Nitelikli elektronik sertifika
+veya mobil elektronik imza temini
+MADDE 4 – (1) Kullanıcılar, ESHS’lerden alınan Nitelikli Elektronik Sertifikaya ya da Mobil
+Elektronik İmzaya sahip olmalıdır.
+(2)
+Başka amaçlarla daha önce temin edilen ve geçerlilik süresi dolmamış veya geçerlilik süresi dolmuş olmakla birlikte yenilenen Nitelikli Elektronik
+Sertifika ya da Mobil Elektronik İmza DTVS uygulaması için kullanılabilir.
+Firmaların tanımlanması
+MADDE 5 – (1) Firmalar, İnternet üzerinden Müsteşarlık web sayfasındaki “DTM E-İmza Uygulamaları” bölümünde yer alan “Firma Tanımlama” uygulamasında açılan ekranda istenen bilgileri girer.
+(2)
+Firma tanımlaması, firmanın imza sirkülerinde yer alan ve firmayı temsil ve ilzama yetkili kişiler ya da bunların noter kanalıyla düzenlenmiş taahhütname çerçevesinde görevlendirdiği kişiler tarafından yapılır.
+Kullanıcıların
+yetkilendirilmesi
+MADDE 6 – (1) Firma tanımlaması yapılmış firmalar adına DTVS vasıtasıyla işlem yapmak isteyen kişiler kullanıcı olarak yetkilendirilir. Bu kapsamda, söz konusu kişiler sahip oldukları Nitelikli Elektronik Sertifikayı ya da Mobil Elektronik İmzayı kullanarak, internet üzerinden Müsteşarlık web sayfasındaki “DTM E-İmza Uygulamaları” bölümünde yer alan “Yetkilendirme Başvurusu” uygulaması ile başvuruda bulunur.
+(2)
+İnternet üzerinden bir firmaya ilişkin olarak yapılan ilk yetkilendirme başvurusunda; aşağıda sıralanan belgeler dilekçe ekinde Grup Başkanlıklarından yalnız birine iletilir. Başvuru bir veya birden fazla kişinin yetkilendirilmesi için yapılabilir. Söz konusu belgeler arasında yer alan taahhütname, başvuru yapan her bir kişi için ayrı ayrı olmak üzere düzenlenir. Taahhütnamenin geçerli olacağı süre firma tarafından belirlenir ve taahhütname üzerinde belirtilir.
+a)
+İmza Sirküleri: Ana sözleşmede firmayı temsil ve ilzama yetkili kılınan kişi/kişiler için düzenlenmiş imza sirkülerinin aslı veya noter tasdikli sureti,
+b)
+Ticaret Sicili Gazetesi: Türkiye Ticaret Sicili Gazetesi’nin aslı ya da noter veya Ticaret ve/veya Sanayi Odaları ile Ticaret Sicil Memurluklarından tasdikli örneği (kuruluş ve varsa ana sözleşme değişiklikleri ile son durumu gösterir Türkiye Ticaret Sicili Gazetelerinin her biri),
+c)
+Taahhütname: Firmayı temsil ve ilzama yetkili kişilerce imzalanarak Müsteşarlık web sayfasındaki “DTM E-İmza Uygulamaları” bölümünde yer alan örneğe uygun olarak noterde her bir kişi için ayrı ayrı düzenlenecek olan taahhütnamenin aslı.
+(3)
+Aynı firmaya yönelik olarak başka kişiler için sonradan yetkilendirme başvurusu yapılabilir. Bu durumda, geçerli oldukları sürece İmza Sirküleri ve Ticaret Sicili Gazetesi’nin tekrar ibrazı gerekmez.
+(4)
+Yetkilendirme başvurusu üzerine, firma tarafından sunulan belgelerin usulüne uygun olup olmadığı kontrol edildikten sonra, Grup Başkanlıklarınca DTVS aracılığıyla onay işlemi başlatılır. Usulüne uygun hazırlanmamış belgeleri içeren başvurular işleme alınmaz.
+(5)
+Grup Başkanlıklarına sunulan belgelerin eksik ya da usulüne uygun şekilde hazırlanmamış olması ya da internet üzerinden girilen bilgilerin söz konusu belgelere uygun olmaması durumunda, firma tarafından eksik ve/veya usulüne uygun olmayan belgeler tamamlanır ve/veya firma tanımlamasına dair bilgilerde gerekli değişiklikler yapılır.
+(6)
+Grup Başkanlıkları, dilekçe ekinde sunulan belgeler doğrultusunda ve/veya ilgili mevzuat hükümleri çerçevesinde firma tanımlamasına ilişkin bilgi ve belgelerde değişiklik ve güncelleme yapılmasını isteme, ek bilgi ve belge talep etme ya da firmanın tanımlama başvurusunu reddetme hakkına sahiptir. Söz konusu değişiklik ve güncelleme talepleri firmaya elektronik posta yoluyla
+bildirilir.
+(7)
+Müsteşarlık Ekonomik Araştırmalar ve Değerlendirme Genel Müdürlüğü Bilgi İşlem Merkezi, onaylanan yetkilendirme talebinin
+sonucunu başvuru sahibinin “Yetkilendirme Başvurusu” uygulamasında beyan ettiği elektronik posta adresine bildirir. Başvuru sonucuna ilişkin ulaşmayan bildirimlerden Müsteşarlık sorumlu değildir.
+(8)
+Kullanıcıların, geçerlilik süresi dolmuş olan sertifikalarını yenilemesi veya başka bir Nitelikli Elektronik Sertifika ya da Mobil
+Elektronik İmza temin etmesi durumlarında yeniden yetkilendirme başvurusu yapması gerekmez.
+Yetki süresinin uzatılması
+MADDE 7 – (1) Kullanıcıların yetkileri taahhütnamede belirtilen süreyle sınırlıdır. Yetki süresi dolan kullanıcıların, sürenin uzatılması için ilgili Grup Başkanlığına taahhütname ile tekrar başvurması gerekir. Söz konusu taahhütname, süre uzatımı başvurusu yapan her bir kişi için yine ayrı ayrı olmak üzere verilir.
+(2)
+Yetki süresinin uzatılması sırasında, daha önce firma tarafından sunulan İmza Sirküleri ve Ticaret Sicili Gazetesi tekrar istenmez.
+Ancak, söz konusu
+belgelerin geçerlilik süresinin dolması, belgelerde değişiklik olması veya belgeler üzerindeki bilgilerin taahhütname ile farklı hale gelmesi durumunda belgelerin yeniden ibrazı zorunludur.
+(3)
+İflas etmiş ya da iflas süreci devam eden firmalar adına işlem yapan kullanıcıların, yetki süresinin uzatılması ya da yeni bir kişinin yetkilendirilmesi için gereken taahhütnameyi noter kanalıyla temin edememesi durumunda, iflas idaresinin
+kararına dayanarak İflas Müdürlüklerince usulüne uygun olarak düzenlenen taahhütname kabul edilir.
+Yetkinin iptali
+MADDE 8 – (1) Kullanıcıların yetkisi, firmanın ilgili Grup Başkanlığına yazılı olarak başvurması halinde iptal edilir. Başvuru sırasında, firmayı temsil ve ilzama yetkili kişilerce noter kanalıyla düzenlenmiş ve Müsteşarlık web sayfasındaki “DTM E-İmza Uygulamaları” bölümünde yer alan örneğe uygun olarak düzenlenmiş azilname aranır.
+(2)
+Yetki sahibi kişinin yetkisini kullanmaktan vazgeçmesi halinde, firmaya yapılan bildirim ile bu bildirimin noter kanalıyla veya iadeli taahhütlü olarak firmaya gönderildiğini tevsik eden belgelerin ilgili Grup Başkanlığına sunulması gerekir.
+(3)
+Firma tanımlaması iptal edilen veya vergi numarası değişen firmanın DTVS için verilmiş olan tüm kullanıcı yetkileri Müsteşarlık tarafından re’sen iptal
+edilir.
+Yetkinin askıya alınması
+MADDE 9 – (1) Firmanın Müsteşarlık web sayfası “DTM E-İmza Uygulamaları” bölümünde yer alan telefon numaralarını arayarak yapacağı başvuru ile firma adına işlem yapan kullanıcıların DTVS’yi kullanma
+yetkisi geçici süreyle askıya alınabilir.
+(2)
+Askıya alınan kullanım yetkisinin iptal edilebilmesi için 7 (yedi) iş günü içinde Müsteşarlık web sayfasındaki “DTM E-İmza Uygulamaları” bölümünde yer alan örneğe uygun olarak düzenlenmiş azilname ile birlikte
+ilgili Grup Başkanlığına başvurulur. Aksi durumda, yetkinin askıya alınması işlemi kaldırılır ve kişinin DTVS kullanım yetkisi tekrar açılır.
+Güncelleme
+işlemleri
+MADDE 10 – (1) Firma bilgilerinin değiştirilmesi, güncellenmesi ya da firma tanımlamasının tamamıyla kayıttan düşürülmesi “Firma Tanımlama” uygulaması aracılığıyla yapılır. Bu işlemler, Nitelikli Elektronik Sertifika ya da Mobil
+Elektronik İmza ile imzalanarak gerçekleştirilir.
+(2)
+Vergi numarası ve/veya firma unvanı dışında yapılan değişiklikler için ayrıca belge ibrazı gerekmez.
+(3)
+Firma unvanında değişiklik yapılması durumunda, firma kullanıcılarının yetkileri askıya alınır. Söz konusu değişikliğe dair 6 ncı
+maddenin ikinci fıkrası uyarınca aranan belgelerin, usulüne uygun şekilde firma tarafından dilekçe ekinde ilgili Grup Başkanlığına sunulması sonrasında, askıya alınan kullanıcı yetkilerinin tekrar kullanıma açılması için onay işlemi DTVS aracılığıyla başlatılır.
+(4)
+Vergi numarası değişikliği durumunda, firma tarafından bu durumu tevsik eden belgeler ilgili Grup Başkanlığına sunulur. Firmanın önceki vergi numarası ile yaptığı firma tanımlamasının kayıttan düşürülmesi ve bu firmanın kullanıcı yetkilerinin iptali için Grup Başkanlığınca onay işlemi başlatılır. Bu Tebliğin ilgili maddelerince yeni vergi numarasına sahip firmanın tanımlanması, ayrıca kullanıcılar için yeniden yetkilendirme başvurusunda bulunulması gerekir. Vergi numarası değişikliği sonrasında önceki vergi numarasına sahip firmanın faaliyetine devam etmesi halinde, Tebliğin diğer hükümleri saklı kalmak kaydıyla, firma tanımı düşürülmez ve kullanıcı yetkileri iptal edilmez.
+(5)
+Firmanın faaliyetine son
+vermesi durumunda, firma tarafından bu durumu tevsik eden belgeler ilgili Grup Başkanlığına sunulur. Bu çerçevede, firmanın kayıttan düşürülmesi ve bu firmanın kullanıcı yetkilerinin iptali için Grup Başkanlığınca onay işlemi başlatılır.
+(6)
+Firma tanımlaması ile kullanıcılara dair bilgi ve belgelerde meydana gelecek değişiklikler bu Tebliğ hükümleri çerçevesinde firma tarafından en geç 5 (beş) iş günü içerisinde bildirilir. Bildirimin yapılmaması ve bu değişikliklerin Müsteşarlık tarafından öğrenilmesi durumunda, diğer mevzuat hükümleri saklı kalmak kaydıyla, firmanın DTVS kapsamındaki işlemleri ve kullanıcı yetkileri askıya alınır.
+Grup başkanlıklarına yapılacak başvurular
+MADDE 11 – (1) Bir firmaya yönelik firma tanımlaması, yetki süresinin uzatılması ve yetkinin iptaline ilişkin değişiklik ve güncelleme işlemleri aynı Grup Başkanlığı tarafından gerçekleştirilir. Bu kapsamda, söz konusu işlemlere ilişkin yazılı tüm başvurular, kullanıcıların yetkilendirilmesi için ilk kez müracaat edilen Grup Başkanlığına yapılır.
+Yetki
+MADDE 12 – (1) Müsteşarlık bu Tebliğde yer alan hususlarda uygulamaya yönelik önlemleri almaya ve düzenlemeleri yapmaya, özel ve zorunlu durumları inceleyip sonuçlandırmaya, uygulamada ortaya çıkacak ihtilafları idari yoldan çözümlemeye ve DTVS ile ilgili yaşanacak teknik düzeydeki aksaklıklar nedeniyle uygulamada yaşanabilecek sorunları gidermeye yönelik uygulama usul ve esaslarını belirlemeye yetkilidir.
+(2)
+DTVS’nin uygulamaya geçmesini müteakip, Müsteşarlıktan kaynaklanmayan nedenlerle elektronik iletişimde yaşanan aksaklıklardan Müsteşarlık sorumlu değildir.
+(3)
+Nitelikli Elektronik Sertifika ya da Mobil Elektronik İmza sahibinin fiil ehliyetinin sınırlandığının, gaipliğinin, ölümünün veya adına işlem yaptığı firmanın tüzel kişiliğini kaybettiğinin öğrenilmesi halinde, bu kişinin ya da firmaların yetkilendirdiği kişilerin uygulamaya giriş yetkileri Müsteşarlıkça iptal edilir.
+(4)
+Kamu kurumu kullanıcılarının yetkilendirilmesine ilişkin usul ve esaslar ilgili kurumlarca yapılacak protokoller çerçevesinde Müsteşarlıkça ayrıca belirlenir.
+Yürürlük
+MADDE 13 – (1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 14 – (1) Bu Tebliğ hükümlerini Dış Ticaret Müsteşarlığının bağlı olduğu Bakan yürütür.
