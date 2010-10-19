@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/982",
+  "list_number": "982",
+  "decision_date": "2010-10-19",
+  "title": "Uşak İl Seçim Kurulu Başkanlığı tarafından düzeltilerek gönderilen sonuç tutanağı ile ilgili Yüksek Seçim Kurulu'nun 2010/982 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2830/2010-982.pdf",
+  "source_sha256": "82be27cbcc4a84c7786152d9b28a948b343a0ae4b5bf24287804336eb8b06e47",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-10-19",
+  "law_text_complete": false
+}
