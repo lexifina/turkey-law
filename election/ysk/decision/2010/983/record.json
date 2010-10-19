@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/983",
+  "list_number": "983",
+  "decision_date": "2010-10-19",
+  "title": "İstanbul İl Seçim Kurulu Başkanlığı tarafından düzeltilerek gönderilen sonuç tutanağı ile ilgili Yüksek Seçim Kurulu'nun 2010/983 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2832/2010-983.pdf",
+  "source_sha256": "186731a71c21f4d20d9881a5407dce1edee245ddda4c1a9b30d206dec8142625",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-10-19",
+  "law_text_complete": false
+}
