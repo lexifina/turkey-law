@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/984",
+  "list_number": "984",
+  "decision_date": "2010-10-19",
+  "title": "Yalova İl Seçim Kurulu Başkanlığı tarafından düzeltilerek gönderilen sonuç tutanağı ile ilgili Yüksek Seçim Kurulu'nun 2010/984 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2834/2010-984.pdf",
+  "source_sha256": "3a7a0db9ea5a52bd8c81e9ca610c39f88e053fa94a8b0acf7a3c33935a7a54c9",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-10-19",
+  "law_text_complete": false
+}
