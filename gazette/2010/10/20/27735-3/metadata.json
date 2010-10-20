@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-10-20",
+  "issue": "27735",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sahil Güvenlik Kantin Yönetmeliğinde Değişiklik Yapılmasına İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/10/20101020-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/10/20101020.htm",
+  "index_sha256": "302a06d53ae25a6018878c84d097b2c3203a132e176b4c5fb9d285b16f416eba",
+  "index_header": "20 Ekim 2010 ... 27735 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
