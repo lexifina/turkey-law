@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.14378",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TAHSİLAT GENEL TEBLİĞİ SERİ: C SIRA NO: 2",
+  "number": "14378",
+  "path": "teblig/2010/14378",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14378&MevzuatTertip=5",
+  "source_sha256": "d9132791a55ed3a302bfb926c50844c5296d955c2c3edb4741bbade2827e2f87",
+  "source_bytes": 16864,
+  "published": "2010-10-21",
+  "gazette": "27736",
+  "in_force": "2010-10-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.10.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 852,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
