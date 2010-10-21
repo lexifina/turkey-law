@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-2010-KVK-30-41",
+  "source_id": 23389,
+  "date": "2010-10-21",
+  "title": "Geçici Süre ile yurtdışındaki grup firmasında görevlendirilen personele Türkiye'den ödenen ücretler üzerinden tevkifat yapılabileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23389",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "8205c5f813257fe64df59dadf9599b8eaf5832340d1954529f5aada2982900c8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
