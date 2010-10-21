@@ -1,0 +1,7 @@
+Nakil işlemleri
+MADDE 19 – (1) Merkezin başka bir binaya taşınmak istenmesi hâlinde;
+a) Merkezin yeni binasının adresini bildiren bir dilekçe ile il müdürlüğüne başvurulur,
+b) İl müdürlüğünün görevlendirdiği en az iki mesleki personel otuz iş günü içinde merkez binasının fiziki özelliklerini adrese giderek inceler. Merkez binasının uygun görülmesi hâlinde tutanak düzenlenir. Tutanağın bir nüshası merkezin nakline ilişkin diğer işlemlerin başlatılması ve dosyanın tamamlanması için resmî yazı ekinde resmî kurum veya kuruluş yetkilisine verilir. Ayrıca merkezin yeni adresinde de geçici faaliyet gösterebilmesi için geçici çalışma izin belgesi düzenlenerek merkeze resmî yazı ekinde gönderilir,
+c) Geçici çalışma izin belgesinin düzenlendiği tarihten itibaren iki ay içinde 11 inci maddede belirtilen belgeler tamamlanarak iki dosya hâlinde, incelenmek üzere resmî kurum veya kuruluş yetkilisi tarafından il müdürlüğüne teslim edilir,
+ç) (Değişik:RG-31/7/2009-27305) Tüm belgelerin belirlenen esaslara uygun olması hâlinde, merkezin yeni adresine nakline ilişkin olarak il müdürlüğü onayı alınır. İl müdürlüğü tarafından yeniden açılış izin belgesi düzenlenir.
+d) Tüm belgelerin, il müdürlüğünce onaylanan iki dosyadan aslı il müdürlüğünde kalır. Dosyanın diğer nüshası ve açılış izin belgesi imza karşılığı resmî kurum veya kuruluş yetkilisine verilir. Nakil onayı ve açılış izin belgesinin tasdikli örneği bilgi için Genel Müdürlüğe gönderilir.

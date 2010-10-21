@@ -1,0 +1,3 @@
+Yangından korunma ve ısıtma
+MADDE 33 – (1) Merkezde yangından korunma için yeterli sayıda yangın söndürme cihazı ve malzemesi ile sesli ve ışıklı alarm sistemi bulunmalı, yangın için gerekli önlemler alınmalıdır. Merkezde bakıma muhtaç özürlülerin kullanımına uygun yangın tahliye sistemi bulundurulması zorunludur.
+(2) Merkezde ısıtma kaloriferle yapılmalıdır. Ancak, bölgesel farklılıklar göz önüne alınarak kalorifer sisteminin olmadığı yerlerde ısıtma, bakıma muhtaç özürlüye risk oluşturmayacak klima veya merkezi ısıtma sistemi ile yapılmalıdır. Isıtmanın elektrikli araçlarla yapılması hâlinde il elektrik idaresinden elektrik tesisatının uygunluğuna dair belge alınması zorunludur.

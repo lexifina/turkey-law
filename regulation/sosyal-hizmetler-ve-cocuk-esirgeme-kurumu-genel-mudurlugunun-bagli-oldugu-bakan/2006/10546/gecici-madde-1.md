@@ -1,0 +1,2 @@
+Merkezin bulunduğu yer
+Geçici Madde 1 – (Ek:RG-23/10/2007-26679) 23/10/2007 tarihinden önce açılış izni alan veya açılış işlemlerini sürdürmesi için izin verilen merkezlerden 31 inci maddeye uygun yerde bulunmadığı tespit edilen ve durumu il müdürlüğünce tebliğ edilen merkezler, 23/10/2009 tarihine kadar 31 inci maddede belirlenen ölçütlere uygun olarak düzenleme yaparlar veya merkez uygun yere nakil edilir.

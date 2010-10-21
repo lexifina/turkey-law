@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.10546",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BAKIMA MUHTAÇ ÖZÜRLÜLERE YÖNELİK RESMÎ KURUM VE KURULUŞLAR BAKIM MERKEZLERİ YÖNETMELİĞİ",
+  "number": "10546",
+  "issuer": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğünün bağlı olduğu Bakan",
+  "issuer_slug": "sosyal-hizmetler-ve-cocuk-esirgeme-kurumu-genel-mudurlugunun-bagli-oldugu-bakan",
+  "path": "regulation/sosyal-hizmetler-ve-cocuk-esirgeme-kurumu-genel-mudurlugunun-bagli-oldugu-bakan/2006/10546",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10546&MevzuatTertip=5",
+  "source_sha256": "c04970c1169a2c3c2a78fd8fb92ec2f281d65cc36b4678447bf6325ac611720a",
+  "source_bytes": 116453,
+  "published": "2006-07-30",
+  "gazette": "26244",
+  "in_force": "2010-10-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/10/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-10-21",
+      "RG-21/10/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-10-21",
+      "21/10/2010",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-07-31",
+      "RG-31/7/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-07-31",
+      "31/7/2009",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2007-10-23",
+      "RG:23/10/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-10-23",
+      "RG-23/10/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-10-23",
+      "23/10/2007",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6205,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
