@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.01-GV-10-46-60",
+  "source_id": 23387,
+  "date": "2010-10-22",
+  "title": "Genel Kurul Kararı ile şirket yönetimine seçilen ve bölgedeki şube işyerinde çalışan yönetim kurulu üyelerine ödenecek ücretlerin 3218 sayılı Kanun kapsamında gelir vergisi istisnasından yararlanıp yararlanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23387",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "dd1169e628b06b67ea50c4737b534bbd72fb38d116322febc05eafaf46d443b4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
