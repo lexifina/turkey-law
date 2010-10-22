@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.14381",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GİDER VERGİLERİ GENEL TEBLİĞİ SERİ NO: 87",
+  "number": "14381",
+  "path": "teblig/2010/14381",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14381&MevzuatTertip=5",
+  "source_sha256": "5b755adbedb19f1ad20d98b22a5005360b6325f758908e36053294a3d45af2c3",
+  "source_bytes": 27758,
+  "published": "2010-10-22",
+  "gazette": "27737",
+  "in_force": "2010-10-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.10.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1840,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
