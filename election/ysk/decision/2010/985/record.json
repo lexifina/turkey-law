@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2010/985",
+  "list_number": "985",
+  "decision_date": "2010-10-23",
+  "title": "YSK kararı 2010/985",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2826/2010-985.pdf",
+  "source_sha256": "72b3adf81e8ffb85ac18c3169e4e69d28f0ea3a1aa82c529a484cf9c206788e4",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2010-10-23",
+  "law_text_complete": false
+}
