@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.14386",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI DENETİMİ UYGULAMA YÖNETMELİĞİ'NİN GEÇİCİ 9. MADDESİNE GÖRE YAPILAN YAPI DENETİMİ İZİN BELGESİ MÜRACAATLARININ DEĞERLENDİRİLMESİNE DAİR TEBLİĞ",
+  "number": "14386",
+  "issuer": "Bayındırlık ve İskân Bakanı",
+  "path": "teblig/2010/14386",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14386&MevzuatTertip=5",
+  "source_sha256": "33a9831b26565d4b5b6abe2c94f21f629065dc259f2b529ca97dd77a1c210a97",
+  "source_bytes": 12212,
+  "published": "2010-10-23",
+  "gazette": "27738",
+  "in_force": "2010-10-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.10.2010); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 497,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

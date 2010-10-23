@@ -1,0 +1,1 @@
+MADDE 5 – (1) Müracaat sayıları itibariyle kuraya tabi olmayacak illerde, kurucu ortağının birden fazla yapı denetim kuruluşunda ortak olduğu tespit edilen kuruluşlardan yalnızca birine izin belgesi verilerek, diğer müracaatlar işleme alınmaz.

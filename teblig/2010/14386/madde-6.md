@@ -1,0 +1,1 @@
+MADDE 6 – (1) Noter huzurunda çekilecek kura işlemleri ile kuraya katılacak ve katılamayacak aday kuruluşlara ilişkin tüm duyurular, Bakanlık uygun görüşünü müteakip, http://ydk.yigm.gov.tr adresli web sitesi üzerinden yapılır. Bu duyurular, aday kuruluşların yasal tebligat adreslerine tebliğ edilmiş sayılır.
