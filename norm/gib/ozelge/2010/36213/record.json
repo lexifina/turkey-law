@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.19.10.00-Rh-2010-1-5",
+  "source_id": 36213,
+  "date": "2010-10-25",
+  "title": "Gazi olan kişilerden ana, baba, eş ve çocuklara intikal eden silahlar için ruhsat harcı alınması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36213",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "99b9eb20d9b690c93ed3138f0ba1f73b532384a088df35d782d06accf538d0b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
