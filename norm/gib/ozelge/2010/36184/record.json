@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.02-DH-2010-31-99",
+  "source_id": 36184,
+  "date": "2010-10-26",
+  "title": "Kısmi bölünme işlemi devam eden şirket aktifinde kayıtlı Otel Binasının devir alan şirkete ayni sermaye olarak konulması işleminde tapu harcı istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36184",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "a6dfb421f989029ed3b7c9cd9347e147d901d893f9d0b570e8680293d3f84851",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
