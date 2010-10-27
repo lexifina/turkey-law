@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-10-27",
+  "issue": "27742",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İnsan Doku ve Hücreleri ile Bunlarla İlgili Merkezlerin Kalite ve Güvenliği Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/10/20101027-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/10/20101027.htm",
+  "index_sha256": "0636d4dfee73aec9df663df99d0ff6116d96dfd92f78997b77bb9f0230b8ee42",
+  "index_header": "27 Ekim 2010 ... 27742 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
