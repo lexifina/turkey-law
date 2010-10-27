@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.18.02-32234-7898-675",
+  "source_id": 21033,
+  "date": "2010-10-27",
+  "title": "Poşet katlama faaliyetinde bulunan mükellefin bu faaliyet kapsamında hizmet aldığı ev hanımlarına ödeyeceği bedel için düzenleyeceği belge hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/21033",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "31a2ed200140126ac327dec627912aaaa98f16469fc7b512dc4defa839feb12c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
