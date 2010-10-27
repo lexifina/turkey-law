@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-EVK-2010-3-58",
+  "source_id": 27186,
+  "date": "2010-10-27",
+  "title": "Bina vergisi bildirimin geç verilmesinden dolayı kesilecek ceza ve geçici emlak vergisi muafiyetin uygulanıp uygulanamayacağı ile binanın gireceği sınıf hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/27186",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "29c5dbbce6d3bf6681f0c2faec98f4ed45bd82d907cf1e8c136b3f22b11f8a71",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
