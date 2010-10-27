@@ -1,0 +1,6 @@
+BÖLÜM 3
+Tarife Bilgisi İçin Başvuru
+MADDE 6 – (1) Tarife bilgisi başvurusu, tasarlanan bir ithalat veya ihracat işlemine dayanan durumlarda ithalat veya ihracatın yapılacağı gümrük müdürlüğünün bağlı bulunduğu Gümrük ve Muhafaza Başmüdürlüğüne, diğer durumlarda kişinin bağlı olduğu vergi dairesinin bulunduğu ildeki Gümrük ve Muhafaza Başmüdürlüğüne, yoksa en yakın Gümrük ve Muhafaza Başmüdürlüğüne Ek-1’de yer alan örneğe uygun bir form ile yapılır.
+(2) BTB başvurusuna konu olabilecek eşya için BTB başvurusu yapılması esastır. Ancak, başvuru konusu eşyanın BTB kapsamına girmediğinin sonradan anlaşılması halinde, mevcut BTB başvurusu tarife bilgisi başvurusu olarak değerlendirilir ve ilgilisine yapılacak bildirimde bu hususa da yer verilir.
+(3) Başvurunun yapıldığı Başmüdürlük, bilgi talebi konusu eşyanın gümrük işlemlerinin kendi bağlantısı olmayan ihtisas gümrüğü görev alanına girdiğini tespit ederse, söz konusu başvuruyu ilgili en yakın gümrük idaresinin bulunduğu Başmüdürlüğe gönderir.
+(4) Bir kişi, aynı eşya için sadece bir tarife bilgisi talebinde bulunabilir. Bir kişi adına aynı eşya için birden fazla bilgi verildiği tespit edilirse konu hakkında Müsteşarlığa ve tasarlanan bir ithalat veya ihracat işlemine dayanmayan bilgi taleplerinde kişinin bağlı olduğu vergi dairesine bilgi verilir.

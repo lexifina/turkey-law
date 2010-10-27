@@ -1,0 +1,1 @@
+MADDE 7 – (1) Gümrükte işlem görmüş veya görmekte olan eşya ile aynı partiyi teşkil eden eşya için bilgi talebinde bulunulamaz. Bu çeşit eşyaya ait belgeler kullanılarak başvuruda bulunanlara verildiği sonradan tespit edilen bilgilerin başvuru sahibi için 4458 sayılı Gümrük Kanununun 241 inci maddesi birinci fıkrası hükmü uygulanır.

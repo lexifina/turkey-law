@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.12579",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE) (SERİ NO:11)",
+  "number": "12579",
+  "issuer": "Gümrük Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2008/12579",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12579&MevzuatTertip=5",
+  "source_sha256": "32d334b0157208571800df865f6982046ec7b2d13e4576ccf2ec0ad4b4eb1994",
+  "source_bytes": 29954,
+  "published": "2008-11-07",
+  "gazette": "27047",
+  "in_force": "2010-10-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/10/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-10-27",
+      "RG-27/10/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1216,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.12579-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
