@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6019",
+  "year": 2010,
+  "title": "Birleşmiş Milletler Nüfus Fonu ve Türkiye Cumhuriyeti Hükümeti Arasında İstanbul, Türkiyede Birleşmiş Milletler Nüfus Fonu Doğu Avrupa ve Orta Asya Bölgesel Ofisi Kurulması Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-10-30",
+  "gazette_issue": "27744",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/10/20101030-1.htm",
+  "source_sha256": "cd7a3bf6f3c6cce1020699c32bc6426b2ba94b4d949c68d4d8829e9ae3f056fc",
+  "text_sha256": "a976e7dc29dd057334583c6e5beedd5140dd9c7d00eb8bb1501db9acf3851238",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/10/30/27744-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/10/20101030-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
