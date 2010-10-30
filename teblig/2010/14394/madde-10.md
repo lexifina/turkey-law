@@ -1,0 +1,4 @@
+Maddenin genel ithalatı
+MADDE 10- (1) Önlem konusu ürünün Türkiye’ye genel ithalatı ve önleme konu ülkeden yapılan ithalatın incelenmesinde Türkiye İstatistik Kurumu (TÜİK) verileri kullanılmıştır. 2005’te 161.995.645 metre(m) olan fermuar ithalatı, 2006’da 108.248.721 m, 2007’de 66.812.684 m ve 2008 yılında da 37.398.018 m, 2009 yılında 21.912.707 m olarak gerçekleşmiştir. Miktar bazında azalma 2005-2009 aralığında %86 düzeyindedir.
+(2) Bahse konu ürünün genel ithalatı değer bazında sırasıyla, 2005 yılında 31.996.716 ABD Doları, 2006’da 34.903.687, 2007’de 36.318.376 ABD Doları, 2008’de 14.713.628 ABD Doları ve 2009 yılında da 9.241.781 ABD Doları olarak gerçekleşmiştir.
+(3) Birim fiyatlar ise sırasıyla, 2005’te 0,198 ABD Doları/m, 2006’da 0,322 ABD Doları/m, 2007’de 0,544 ABD Doları/m, 2008’de 0,393 ABD Doları/m ve 2009 yılında da 0,422 ABD Doları/m olarak gerçekleşmiştir.

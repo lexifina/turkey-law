@@ -1,0 +1,3 @@
+Soruşturma konusu madde ithalatının tüketim içindeki payının seyri
+MADDE 12- (1) Soruşturma konusu ürünün Türkiye toplam tüketimi hesaplanırken 2007-2009 dönemi için şikâyetçi yerli üretici ve şikayeti destekleyen firmalardan temin edilen yurt içi satış miktarları ile ilgili yıla ait toplam ithalat miktarları toplanmıştır. Bu çerçevede 2007 yılında 100 olan tüketim endeksinin 2008 yılında 91, 2009 yılında 98 olduğu görülmüştür.
+(2) ÇHC’nin Türkiye tüketimi içindeki payı incelendiğinde, 2007 yılında 100 olan pazar payı endeksinin 2008 yılında 123’e çıktığı, 2009 yılında ise 92’ye gerilediği görülmüştür.
