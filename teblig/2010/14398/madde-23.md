@@ -1,0 +1,3 @@
+İthalatın muhtemel seyri ve yerli üretim dalı üzerindeki etkisi
+MADDE 23- (1) Önlemin yürürlükten kalkması durumunda soruşturma konusu ülkeden ithalatın artmasının muhtemel olduğu, bu durumda yerli üretim dalının ekonomik göstergelerinden üretim ve satışlardaki gerilemenin olacağı, azalan üretimin maliyetleri arttırabileceği ve karlılıktaki bozulmanın tüm ekonomik göstergeleri olumsuz etkileyeceği değerlendirilmektedir.
+(2) Diğer taraftan 2009 yılındaki global krize bağlı olarak azalan talebin 2010 yılında tekrar artışa geçmesiyle oluşacak talebin de soruşturma konusu ülkeden talebi arttıracağı değerlendirilmektedir.

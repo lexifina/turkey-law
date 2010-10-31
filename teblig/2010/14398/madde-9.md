@@ -1,0 +1,2 @@
+Normal değer
+MADDE 9- (1) Normal değer hesabında, yerli üretim dalının yerinde doğrulama çalışmaları çerçevesinde teyit edilen direkt ilk madde ve malzeme giderlerine, direkt işçilik, genel üretim giderleri, faaliyet ve finansman giderleri eklenmiş ve birim ticari maliyet bulunmuştur. Elde edilen birim ticari maliyete ise makul bir kar eklenerek fabrika çıkış aşamasında oluşan fiyat bulunmuştur. Bulunan bu değer oluşturulmuş normal değer olarak kabul edilmiştir.

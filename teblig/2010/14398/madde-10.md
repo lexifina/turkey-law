@@ -1,0 +1,2 @@
+İhraç fiyatı
+MADDE 10- (1) İhraç fiyatının belirlenmesinde, soruşturma konusu ülkeden gerçekleştirilen ithalatın birim fiyatına ilişkin 2009 yılına ait TÜİK ithalat istatistikleri esas alınmıştır. İstatistikler temelinde saptanan CIF fiyat, navlun ve sigorta masraflarına ilişkin somut ve doğrulanabilir verilere ulaşılamadığından ihracatçılar lehine fabrika çıkış aşamasındaki değer olarak kabul edilmiştir.

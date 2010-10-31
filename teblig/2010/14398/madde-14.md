@@ -1,0 +1,3 @@
+Soruşturma konusu ürünün ithalatının tüketime göre değişimi
+MADDE 14- (1) Soruşturma konusu ithalatın nispi olarak değişimini görebilmek amacıyla, söz konusu ithalatın toplam Türkiye tüketimi içindeki payı incelenmiştir. Soruşturma konusu ürünün Türkiye toplam tüketimi hesaplanırken, 2006- 2009 yıllarına ait, metre bazında yerli üretim dalı yurtiçi satış miktarları ile ilgili yıla ait genel ithalat toplanmıştır. Bu çerçevede, 2007 yılında 100 olan tüketim endeksinin 2008 ve 2009 yıllarında sırasıyla 93 ve 72 olduğu görülmüştür.
+(2) Soruşturma konusu ülkenin Türkiye pazarından aldığı payın endeks incelendiğinde, 2007 yılında 100 iken 2008’de 118 çıktığı 2009 yılında ise 93’e gerilediği görülmektedir.

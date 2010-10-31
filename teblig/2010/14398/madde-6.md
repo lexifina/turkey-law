@@ -1,0 +1,2 @@
+Gözden geçirme dönemi
+MADDE 6- (1) Önlemin yürürlükten kalkması durumunda, dampingin ve zararın devamı veya yeniden meydana gelmesinin muhtemel olup olmadığının değerlendirilmesine esas teşkil etmek üzere, 01.01.2007 - 31.12.2009 tarihleri arası, gözden geçirme dönemi olarak alınmıştır. Bununla birlikte, önlemin etkisini daha sağlıklı görebilmek amacıyla, ithalat verileri incelenirken önlemin yürürlüğe girdiği 2005 yılını kapsayan 2005-2009 dönemi de dikkate alınmıştır.

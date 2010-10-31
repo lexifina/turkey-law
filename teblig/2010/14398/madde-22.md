@@ -1,0 +1,2 @@
+Talebi etkileyen unsurlar
+MADDE 22- (1) Soruşturma kapsamındaki ithalatçı firmadan alınan yanıtların incelenmesi çerçevesinde soruşturma konusu ürüne ilişkin talebi belirleyen temel unsurun öncelikle fiyat, ikinci safhada kalite ve ürün/desen çeşitliliği olduğu görülmüştür. Bu durum, önlemin ortadan kalkması halinde, talebin daha düşük fiyatlı ithalata yönelerek yerli üretim dalında zararın tekrarlanmasının muhtemel olduğuna işaret etmektedir.

@@ -1,0 +1,5 @@
+DÖRDÜNCÜ KISIM
+Maddi Zararın Varlığı ve Devamı
+Maddenin genel ithalatı
+MADDE 12- (1) Soruşturma konusu maddenin tüm ülkelerden gerçekleşen ithalatına ilişkin rakamlar incelendiğinde, 2005 yılında 8.293.719 metre (m) olan toplam ithalat miktarının 2006 yılında 9.323.291 m.’ye çıktığı; 2007’de 9.218.321 m.’ye, 2008’de ise 8.538.763 m.’ye gerilediği, 2009’da ise azalmaya devam ederek ekonomik krizin de etkisiyle 6.754.897 m. olarak gerçekleştiği görülmüştür. Tüm ülkelerden gerçekleşen ithalatın toplam değerinin ise 2005 yılında 46.196.593 ABD doları iken 2009 yılında 41.774.270 ABD dolarına gerilediği tespit edilmiştir.
+(2) 2005–2009 döneminde soruşturma konusu GTİP’lerden gerçekleşen toplam ithalatın miktar temelinde %33 oranında, değer temelinde ise %10 oranında düşüş gösterdiği tespit edilmiştir. Söz konusu düşüşün 2008 yılının son çeyreğinde ortaya çıkan ancak sonuçları 2009 yılında daha yoğun hissedilen küresel ekonomik krizin piyasa üzerindeki etkisinden kaynaklandığı düşünülmektedir.
