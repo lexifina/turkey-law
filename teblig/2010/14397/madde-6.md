@@ -1,0 +1,2 @@
+Gözden geçirme dönemi
+MADDE 6- (1) Önlemin yürürlükten kalkması durumunda, dampingin ve zararın devamı veya yeniden meydana gelmesinin muhtemel olup olmadığının değerlendirilmesine esas teşkil etmek üzere, 01/01/2007–31/12/2009 tarihleri arası gözden geçirme dönemi olarak alınmıştır. Bununla birlikte, ÇHC’nin dünya piyasasındaki konumu ve fiyatlama eğilimine ilişkin olarak, mevcut olduğu ölçüde, 2003 sonrası veriler de dikkate alınmıştır.

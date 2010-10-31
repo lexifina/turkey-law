@@ -1,0 +1,3 @@
+Esas soruşturmada tespit edilen damping marjı
+MADDE 23- (1) Soruşturma konusu ülkede yerleşik üretici/ihracatçıların önlemin yürürlükten kalkması halinde muhtemel davranışlarını yansıtması bakımından önemli bir gösterge olan, mevcut dampinge karşı önlemin hukuki ve idari altyapısını teşkil eden orijinal damping soruşturmasında ve ilk nihai gözden geçirme soruşturmasında tespit edilen damping marjlarına bakılmıştır.
+(2) Buna göre, 1998 yılında sona eren esas soruşturmada ÇHC menşeli doldurulabilen çakmaklar için damping marjı CIF bedelin %556,4’ü olarak hesaplanmıştır. 2004 yılında bitirilen ilk nihai gözden geçirme soruşturmasında ise damping marjı CIF bedelin %262’si olarak hesaplanmıştır.

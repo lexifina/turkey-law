@@ -1,0 +1,3 @@
+Maddenin soruşturma konusu ülkeden ithalatı
+MADDE 11- (1) Soruşturmaya konu ülkeden gerçekleşen çakmak ithalatının miktar olarak genel çakmak ithalatı içindeki payı, ilk nihai gözden geçirme soruşturmasının açıldığı yıl olan 2003 yılında %4,43 seviyesindeyken 2004 yılında %8,04 seviyesine çıkmıştır. 2005, 2006 ve 2007 yıllarında 2004 yılındaki oranla hemen hemen aynı seviyelerde seyreden söz konusu oran, 2008 yılında %23,48 olarak gerçekleşmiştir. 2009 yılında ise söz konusu oran %10,63’e gerilemiştir.
+(2) ÇHC menşeli ithalata değer olarak bakıldığında ise 2003 yılında, 215.844 ABD Doları seviyesinde olan ithalatın 2008 yılında 1.052.932 ABD Doları seviyesine çıktığı, 2009 yılında ise 713.382 ABD Doları olarak gerçekleştiği görülmektedir.
