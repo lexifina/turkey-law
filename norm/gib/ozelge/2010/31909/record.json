@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-3:2010/14017-15-680",
+  "source_id": 31909,
+  "date": "2010-11-01",
+  "title": "Belediye adına kayıtlı gayrimenkullerin ticari nitelikli satışında KDV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31909",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "fd4ca6928ddee1fcf7a7be0e4bd906deb663537090bd474824b6f877c092feb9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
