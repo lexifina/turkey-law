@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-11-02",
+  "issue": "27747",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Hacettepe Üniversitesi Uyku Bozuklukları Tanı ve Tedavi Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101102-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101102.htm",
+  "index_sha256": "925d485099a8225db229d1d7bb7a7d02bcb424fb296c72d646548a4773874130",
+  "index_header": "2 Kasım 2010 ... 27747 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
