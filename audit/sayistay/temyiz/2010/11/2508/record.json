@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "32323",
+  "decision_date": "2010-11-02",
+  "source_id": 2508,
+  "chamber": "3",
+  "file_number": "31339",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2508/",
+  "source_sha256": "64ea20a821d833078ecaaa1e588e0016377301e1c192a95e304a6f8ccb0d6003",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
