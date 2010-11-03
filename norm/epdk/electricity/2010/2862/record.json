@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2862",
+  "decision_date": "2010-11-03",
+  "title": "1/1/2011 tarihinden itibaren uygulanan kesme bağlama bedelleri",
+  "categories": [
+    "Kesme-Bağlama Bedelleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ttNnu2HGWRM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ttNnu2HGWRM="
+  ],
+  "source_sha256": "cb07405be6a418d1de524d51b98ebf9482c52f59926fd43deca2595ce8a65ac8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1850,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-11-03",
+  "law_text_complete": false
+}
