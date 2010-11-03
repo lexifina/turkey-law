@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2864",
+  "decision_date": "2010-11-03",
+  "title": "Elektrik Piyasasında, Enerji Piyasası Düzenleme Kurulunun 03/11/2010 tarihli toplantısında; perakende satış lisansına sahip dağıtım şirketlerinin ikinci uygulama döneminde (1/1/2011 (dahil)- 31/12/2015 (dâhil)) kurul kararı",
+  "resmi_gazete_date": "2010-11-15",
+  "resmi_gazete_number": "27760",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iOcSdr1PFp0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iOcSdr1PFp0="
+  ],
+  "source_sha256": "55d66a71f028ecf7e20ce66683fed56c1700834282a511f77b0fc90b78ecf20a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-11-03",
+  "law_text_complete": false
+}
