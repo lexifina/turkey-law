@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2860/1",
+  "decision_date": "2010-11-03",
+  "title": "1/1/2011 tarihinden itibaren uygulanan güvence bedelleri",
+  "resmi_gazete_date": "2010-11-15",
+  "resmi_gazete_number": "27760",
+  "categories": [
+    "Güvence Bedelleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qDtoPo3M4XY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qDtoPo3M4XY="
+  ],
+  "source_sha256": "39ba09c600a9343f86b06ac6d6e5982e21ea15316c5ae6d0b0cfcd96d697cb50",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1331,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-11-03",
+  "law_text_complete": false
+}
