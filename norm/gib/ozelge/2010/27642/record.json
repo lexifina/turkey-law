@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-2/2010-14001-22-690",
+  "source_id": 27642,
+  "date": "2010-11-04",
+  "title": "Yurt dışından alınan eğitim hizmetinin serbest meslek faaliyeti olarak değerlendirilip tevkifata tabii tutulması ve sorumlu sıfatıyla KDV'ye tabi olması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27642",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "423cb612006f35baac3ee01f7fc7464a98f748a0c2bdd894516230da4f8e02db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
