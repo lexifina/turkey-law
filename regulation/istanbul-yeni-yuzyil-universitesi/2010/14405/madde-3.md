@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) CAE: Certificate in Advanced English Sınavını,
+b) CPE: Certificate of Proficiency in English Sınavını,
+c) DALF: Diplôme Approfondi de Langue Française Sınavını,
+ç) Dil Hazırlık Okulu: Yeni Yüzyıl Üniversitesinde yabancı dil hazırlık eğitim-öğretimini veren okulu,
+d) Dil Hazırlık Okulu Müdürü: Yeni Yüzyıl Üniversitesi Dil Hazırlık Okulu Müdürünü,
+e) FCE: First Certificate in English Sınavını,
+f) IELTS: International English Language Testing System Sınavını,
+g) KPDS: Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+ğ) Lisans: En az sekiz yarıyıllık bir programı kapsayan bir yükseköğretimi,
+h) Lisansüstü: Yüksek lisans ve doktora eğitimini,
+ı) Ön Lisans: En az dört yarıyıllık bir programı kapsayan bir yüksek öğretimi,
+i) PNDS: Prüfung für die Nachweis Deutcher Sprache Sınavını,
+j) Rektör: Yeni Yüzyıl Üniversitesi Rektörünü,
+k) Rektörlük: Yeni Yüzyıl Üniversitesi Rektörlüğünü,
+l) Senato: Yeni Yüzyıl Üniversitesi Senatosunu,
+m) TOEFL: Test of English as a Foreign Language Sınavını,
+n) ÜDS: Üniversitelerarası Kurul Yabancı Dil Sınavını,
+o) Üniversite: Yeni Yüzyıl Üniversitesini,
+ö) Yaz Okulu: Yeni Yüzyıl Üniversitesi Dil Hazırlık Yaz Okulunu,
+p) Yönetim Kurulu: Dil Hazırlık Okulu Yönetim Kurulunu,
+ifade eder.
