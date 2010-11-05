@@ -1,0 +1,2 @@
+Yönetim kurulu
+MADDE 8 – (1) Yönetim Kurulu, Müdürün önerisi üzerine Üniversitenin Fen, Mühendislik ve Sağlık ve Temel Bilimler alanlarındaki öğretim üyeleri arasından üç yıl süre ile Rektör tarafından görevlendirilen iki kişi, Müdür ve Müdür Yardımcısı olmak üzere toplam dört kişiden oluşur. Süresi dolan üyeler tekrar görevlendirilebilir. Yönetim Kurulu, üç ayda bir veya Müdürün daveti üzerine salt çoğunluk ile toplanır ve kararlar çoğunlukla alınır. Oyların eşitliği halinde, Müdürün oyu yönünde çoğunluk sağlanmış kabul edilir.
