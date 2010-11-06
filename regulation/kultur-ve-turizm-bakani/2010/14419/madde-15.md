@@ -1,0 +1,2 @@
+Bağlantı kontrol sistemi
+MADDE 15 – (1) Güvenli ağ bağlantısı; ortak veri tabanına bağlanmak isteyen yararlanıcı kurum ve kuruluşa ait güvenlik kodları kontrol edildikten sonra, yararlanıcılar ve Genel Müdürlük arasında özel şifrelenmiş bir ağ bağlantısı olarak kurulur. Bu özel ve güvenli bağlantı kurulduktan sonra kullanıcının adı ve şifresinin doğruluğu kontrol edilerek sisteme giriş yapmasına izin verilir.

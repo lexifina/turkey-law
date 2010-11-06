@@ -1,0 +1,4 @@
+Ortak veri tabanı kullanıcıları ve bilgilere erişim
+MADDE 13 – (1) Yararlanıcı kurum ve kuruluşların yapabileceği sorgulamalar, sorgulama sonucu gönderilecek bilgiler veya kendi yazılım uygulamaları içerisine ekleyebilecekleri bölümler Genel Müdürlükçe belirlenir.
+(2) Yararlanıcı kurum ve kuruluşlar tarafından yapılabilecek sorgulamalar, bilgilere ulaşılması için yetkilendirme ve güvenlik düzeyi, Bakanlık ile yararlanıcı kurum ve kuruluş arasında yapılacak protokolle belirlenir.
+(3) Genel Müdürlükçe belirlenecek bilgilere erişilebilmesi için ortak veri tabanından faydalanmak isteyen ilgili kişiler sistem içinde tanımlanabilir. Belli kriterler çerçevesinde tanımlanan ilgili kişilerin sisteme kendini tanıtabilmesi ve güvenli giriş yapabilmesi için Genel Müdürlük tarafından güvenlik kodları, kullanıcı adı ve şifreleri tahsis edilir.

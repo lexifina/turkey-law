@@ -1,0 +1,2 @@
+Eserlerin dolum ve çoğaltımını yapan tesisler tarafından bildirilecek bilgiler
+MADDE 10 – (1) Dolum tesisleri; bandrol bilgileri ve bu bandrollerin hangi eserlere yapıştırıldığını gösterir detaylı raporlar ile dolum talebinde bulunanlara ait tanıtıcı bilgileri, matbaalar ise çoğaltım yapılan esere ilişkin bilgiler ile baskı adedini ve çoğaltım talebinde bulunanlara ait tanıtıcı bilgileri, aylık olarak, müteakip ayın on beşine kadar ortak veri tabanına aktarılmak üzere Genel Müdürlüğe bildirirler.
