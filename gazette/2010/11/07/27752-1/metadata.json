@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-11-07",
+  "issue": "27752",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2010/970 Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü Tarafından 4734 Sayılı Kamu İhale Kanununun 3 üncü Maddesinin (f) Bendi Kapsamında Yapılacak İhalelere İlişkin Esaslar Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101107-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101107.htm",
+  "index_sha256": "ba9888676ba091ec5fc98296d01eff5dd9708dbd3bec001869f62aa1c50106bd",
+  "index_header": "7 Kasım 2010 ... 27752 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
