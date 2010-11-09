@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6077",
+  "year": 2010,
+  "title": "2007 Uluslararası Kahve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2010-11-09",
+  "adopted_as_published": "09/11/2010",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.11.2010 No: 27771",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc095/kanuntbmmc095/kanuntbmmc09506077.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 95",
+  "committee_reports": [
+    {
+      "label": "TBMM 425 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c081/tbmm23081016ss0425.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 520063,
+      "title": "2007 Uluslararası Kahve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "09/11/2010",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc095/kanuntbmmc095/kanuntbmmc09506077.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 425 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c081/tbmm23081016ss0425.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 81,
+          "sitting": 16,
+          "sitting_date": "2010-11-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c081/tbmm23081016.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c081/tbmm23081fih.pdf",
+          "pages": [
+            "342:343",
+            "395:410"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=548&v_gelecek_sayfa=301&v_kullanici_id=27483202",
+      "page_sha256": "d4bbbc863a6cfdb0597ab6a9e92a02ed9405b98809e6d7e4ee63f4bd5257f5c5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d4bbbc863a6cfdb0597ab6a9e92a02ed9405b98809e6d7e4ee63f4bd5257f5c5",
+  "issuer": "TBMM",
+  "in_force": "2010-11-09",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 09/11/2010; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
