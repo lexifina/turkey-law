@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-KVK-32/A-46",
+  "source_id": 28773,
+  "date": "2010-11-10",
+  "title": "Tevsi yatırım kapsamında bazı ünitelerin tamamlama vizesinden önce üretime başlaması halinde indirimli kurumlar vergisinden yararlanmaya ne zaman başlanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28773",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "70a82a0bb5aa3f1c20d7eb850dde1fc444409258b18f872102b70d24332b15ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
