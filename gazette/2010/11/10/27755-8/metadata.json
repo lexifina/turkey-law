@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-11-10",
+  "issue": "27755",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Yabancı Ülke ve Kuruluşlara Yapılacak Savunma ve Güvenlik Amaçlı Hibe ve Yardım Ödemelerine İlişkin Esaslar Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101110-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101110.htm",
+  "index_sha256": "0a06bddbeaf5e91c9a2cddff905b7c20c79e56c435aad7d76bc934fb2d90f941",
+  "index_header": "10 Kasım 2010 ... 27755 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
