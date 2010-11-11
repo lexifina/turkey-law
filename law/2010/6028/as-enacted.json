@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6028",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Fas Krallığı Hükümeti Arasında Veterinerlik Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-11",
+  "gazette_issue": "27756",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-9.htm",
+  "source_sha256": "be274bb6fdfc580da603903bff1bb4c768dbbf008b587ac17cd099f7cd3cbb3d",
+  "text_sha256": "c3ab3cd32a387fa015cb249738a057aa0519ebf8f4d2ce91dd48f334fcebd0f7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/11/27756-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
