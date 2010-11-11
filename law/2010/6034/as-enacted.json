@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6034",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Letonya Cumhuriyeti Hükümeti Arasında, Eğitim, Bilim, Kültür ve Spor Alanlarında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-11",
+  "gazette_issue": "27756",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-15.htm",
+  "source_sha256": "0c40f5e5b57bde6c10b1c5528eecc69eb69b7f1e04f198fba1e2ccf7b93489ad",
+  "text_sha256": "ed0f9112231bbbfdbbae45793aa2ae567c53c5a1e7e5673754f1b184e150c715",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/11/27756-15",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-15.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
