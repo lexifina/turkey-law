@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6039",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Adalet Bakanlığı ile Arnavutluk Cumhuriyeti Adalet Bakanlığı Arasında İşbirliği Konusunda Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-11",
+  "gazette_issue": "27756",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-20.htm",
+  "source_sha256": "9820f28813b0fed8054d5e8ee06f6d5af32ffc95d14f26440e2f786df0c917e3",
+  "text_sha256": "15fd1d6bd4917ffe923eb98c8f9a2183d8e1a585c121865abb3d4794e3bd22f5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/11/27756-20",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-20.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
