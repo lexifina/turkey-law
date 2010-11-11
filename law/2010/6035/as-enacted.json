@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6035",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Slovenya Cumhuriyeti Hükümeti Arasında Diplomatik Misyon ve Konsolosluk Üyelerinin Yakınlarının Kazanç Getirici Bir İşte Çalışmalarına Olanak Sağlayan Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-11",
+  "gazette_issue": "27756",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-16.htm",
+  "source_sha256": "3a21b9f88e2ac45a357b76acd44ff3ba72767f499aa54ce73c7082b21558823e",
+  "text_sha256": "827249fbd575a814984141b40ed7f32200c28136484f81131e33d24d89208dd9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/11/27756-16",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-16.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
