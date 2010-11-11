@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6032",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Moğolistan Hükümeti Arasında Çevre Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-11",
+  "gazette_issue": "27756",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-13.htm",
+  "source_sha256": "dbbfc7289f87e47af63eeea4e273ad18263222a9fd07214c1707500bba7aa00a",
+  "text_sha256": "f78a5d1d8418c296cbe493f80bab0227a26cc22e3166eadaba16bba09cd45dc1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/11/27756-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
