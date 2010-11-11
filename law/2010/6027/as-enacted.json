@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6027",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Yemen Cumhuriyeti Balıkçılık Bakanlığı Arasında Balıkçılık ve Su Ürünleri Alanlarında Teknik, Bilimsel ve Ekonomik İşbirliği Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-11",
+  "gazette_issue": "27756",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-8.htm",
+  "source_sha256": "1ab7c05194431d0c75530ec833a71849f0db75f11574aab099d3ecb935404b7a",
+  "text_sha256": "2746b194bf3dbca7aab99ac203568c1eb0b4de37483a29d4d09a66fe4ccabb1c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/11/27756-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
