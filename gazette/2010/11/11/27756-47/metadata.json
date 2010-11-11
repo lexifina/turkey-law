@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-11-11",
+  "issue": "27756",
+  "edition": "regular",
+  "item": 47,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "GENELGE",
+  "title": "Uluslararası Denizcilik Örgütü Stratejisi 2010/23 Sayılı Başbakanlık Genelgesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-47.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111.htm",
+  "index_sha256": "007796a36606d1d9cb121c6435de32229c412dd6e1f30dfc420c2c7b506b739a",
+  "index_header": "11 Kasım 2010 ... 27756 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
