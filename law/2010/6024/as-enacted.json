@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6024",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kosova Cumhuriyeti Hükümeti Arasında Askeri Alanda Eğitim, Teknik ve Bilimsel İş Birliği Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-11",
+  "gazette_issue": "27756",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-5.htm",
+  "source_sha256": "dcf11d3b4f5345fa6e86db0cb3da152839b00be7f230105f13d5917c43dc1571",
+  "text_sha256": "7c989f0b280e6bde7ac1339178f9863de8251365db450544a615b05685ebc69c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/11/27756-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
