@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "945",
+  "decision_date": "2010-11-11",
+  "title": "council decision (subject withheld: may concern individual persons)",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/6358_MEC2010-23_945.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=2010",
+  "listing_sha256": "3c57c6233e4168b105f3c449a8f447f3b0cb7ad6c2a5f60b406080ea58c3c4ce",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": true
+}
