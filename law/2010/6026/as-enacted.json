@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6026",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Başbakanlık Türk İşbirliği ve Kalkınma İdaresi Başkanlığı ile Özbekistan Cumhuriyeti Dış Ekonomik İlişkiler Ajansı Arasında İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-11",
+  "gazette_issue": "27756",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-7.htm",
+  "source_sha256": "5208a510e58125f595206a5cb1c2074e3f6df295bde8b7e2011f9c5eb17c7cab",
+  "text_sha256": "9a4113287fae3da6ad8eaa76e293c0ee74ff190ec6e5d00054d39b7a6651d03c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/11/27756-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
