@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.01.0-VUK 257-47",
+  "source_id": 25200,
+  "date": "2010-11-11",
+  "title": "Gerçek kişilere yapılan kira ödemelerinde belirlenen haddin aşılması halinde Form Ba ile bildirilme zorunluluğunun bulunduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25200",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "e455de681dcb8da826d07b0338bd9de99b64ce7b059bfcdbb9706ae32b528912",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
