@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6031",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Guatemala Cumhuriyeti Hükümeti Arasında Ticaret ve Ekonomik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-11",
+  "gazette_issue": "27756",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-12.htm",
+  "source_sha256": "ff5eb04204cb2ef84c801b9771431302cb9aa0930c80db1200142c16d3f374b6",
+  "text_sha256": "9414dc8a0c481ffb4f1421ba0736f852870fbb1317b01995b896d17e0fe310c9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/11/27756-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
