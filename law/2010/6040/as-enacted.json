@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6040",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti ile Suriye Arap Cumhuriyeti Arasında Hukuki ve Ticari Konularda Adli Yardımlaşma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-11",
+  "gazette_issue": "27756",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-21.htm",
+  "source_sha256": "1411ed48783ae0eebd86a81f0f389828d5cf2e4cee1f4ab5fcd73860c1c72bf0",
+  "text_sha256": "d1f43a1e7ce7e9b3187c9d15c559aeaf19727b8253c61f43c8152783c4382736",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/11/27756-21",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101111-21.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
