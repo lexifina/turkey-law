@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV 28-512",
+  "source_id": 32025,
+  "date": "2010-11-11",
+  "title": "8424.81.10.00.00 Sulama cihazları\" GTİP No'sunda yer alan ve damlama sulama sistemi ile yağmurlama ve sulama başlığı (spring)- tabanca olarak isimlendirilen sistemin tesliminin %8 oranında,söz konusu sulama sistemlerinin aksam ve parçaların tesliminin ise",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32025",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "5739db2fbedf0f0d27d15e663bbe6f428b15cf18a132953d6072086ca2c57333",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
