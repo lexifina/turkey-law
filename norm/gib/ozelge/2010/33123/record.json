@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.43.10.00-4081-7110-12",
+  "source_id": 33123,
+  "date": "2010-11-12",
+  "title": "Poşetlenerek satılan dergilerin tesliminde %18 oranında KDV uygulanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33123",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "67b2226559f31ade57dc26d82f6e568682c9f0ea37787b02d88f0af8f47832ae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
