@@ -1,0 +1,28 @@
+{
+  "title": "2010/988 Bazı Kamu Kurum ve Kuruluşlarına Ait Kadrolarda Düzenleme Yapılması Hakkında Karar",
+  "decision_number": "2010/988",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101113-5.htm",
+  "source_sha256": "dc91d4c86c98920a7f7b81d3593c617df6d1de1601464503b6b19c25508d435f",
+  "publication_date": "2010-11-13",
+  "in_force": "2010-11-13",
+  "in_force_basis": "Own commencement: MADDE 2 – (1) Bu Karar yayımı tarihinde yürürlüğe girer.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "shard": "mevzuat-bkk-yonetmelik-cont6",
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "notes": [],
+  "annexes": [
+    {
+      "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101113-5-1.xls",
+      "sha256": "a885ea5885e7af372e431c48ed8bbe29a67806717525c57d5a7ee1eaef1ba936",
+      "file": "annexes/a885ea5885e7af372e431c48ed8bbe29a67806717525c57d5a7ee1eaef1ba936.xls",
+      "text_inventory": "annex-cells.json",
+      "original_format": "xls",
+      "complete_original": true,
+      "source_images": 0
+    }
+  ]
+}
