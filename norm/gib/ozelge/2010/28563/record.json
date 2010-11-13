@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-HÇ-:123.M-2010-133-716",
+  "source_id": 28563,
+  "date": "2010-11-13",
+  "title": "Tam bölünme işleminde bölünen şirkete ait taşınmazın devrinde tapu harcı muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/28563",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "cdaf40bd2eb5931244fb8327a65a31ba4f9f94ac83832a859013d5f7826e118c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
