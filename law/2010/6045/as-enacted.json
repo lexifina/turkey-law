@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6045",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ve Suriye Arap Cumhuriyeti Hükûmeti Arasında Konut ve İnşaat Alanında İşbirliği Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-14",
+  "gazette_issue": "27759",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-29.htm",
+  "source_sha256": "78a5ddeda41de90e8574e7f9e95b35f73df3a2077a13ef35f0b96b4ec96b2219",
+  "text_sha256": "b0b93b052ac5b2cc2ff59d3c5839f6c8bc472cfab76ffb18206a34a36dca3fea",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/14/27759-29",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-29.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
