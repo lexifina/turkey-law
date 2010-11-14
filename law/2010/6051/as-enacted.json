@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6051",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ve Kore Cumhuriyeti Hükûmeti Arasında Turizm Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-14",
+  "gazette_issue": "27759",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-35.htm",
+  "source_sha256": "a076dd0a5abb3fc8266b3c157f9c1eb016d551cbf51f36c7c663fa199f090a84",
+  "text_sha256": "42ed850c435d6a42726e533aa0f27a52c0c20966d4d8c691bac4ec43aaaf1a39",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/14/27759-35",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-35.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
