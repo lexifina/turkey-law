@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6049",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Kolombiya Cumhuriyeti Hükûmeti Arasında Kültür Anlaşması ile Notaların Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-14",
+  "gazette_issue": "27759",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-33.htm",
+  "source_sha256": "5183f164248560dd7851255c12c4c260493e5076b86be7bd3c388928b74491bd",
+  "text_sha256": "1d6496724bb8e3e86a99f381dc7da8680b85547617d04483da982a54bdbf1d99",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/14/27759-33",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-33.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
