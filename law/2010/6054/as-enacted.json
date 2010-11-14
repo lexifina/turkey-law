@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6054",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Somali Hükûmeti Arasında Askeri Alanda Eğitim, Teknik ve Bilimsel İş Birliği Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-14",
+  "gazette_issue": "27759",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-38.htm",
+  "source_sha256": "f337aef58ff9ddf5c3d23340d5daf6c283b0c6d3d8ad1390fc7a0b62708acae8",
+  "text_sha256": "65b9c5a25afbe6be46b292c063a9c33e0781cbb8752fb2ecceabeda75cc58711",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/14/27759-38",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-38.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
