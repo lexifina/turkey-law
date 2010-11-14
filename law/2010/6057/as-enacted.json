@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6057",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Rusya Federasyonu Hükûmeti Arasında Nükleer Bir Kazanın Erken Bildirimine ve Nükleer Tesisler Hakkında Bilgi Değişimine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-14",
+  "gazette_issue": "27759",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-41.htm",
+  "source_sha256": "09d6005d4593b4009091648a652e7bcbebd657983424a482a3877d57daa557dc",
+  "text_sha256": "e631d10cc394791c05f97ae7910f5ddda9218022ba70de94c8312ab1a512f6d7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/14/27759-41",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-41.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
