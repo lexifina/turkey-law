@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6055",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Suriye Arap Cumhuriyeti Hükûmeti Arasında Eğitim Alanında İşbirliğinin Güçlendirilmesine Dair Mutabakat Zaptının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-14",
+  "gazette_issue": "27759",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-39.htm",
+  "source_sha256": "23a8465a97a897ed0471a88976617b2a7977df9be1dfa51c083a30d6a2409782",
+  "text_sha256": "f1f36b803782f400ca0f3480719bc78820d87637b19dcef6667a17f1ff02e346",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/14/27759-39",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-39.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
