@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6047",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ve Paraguay Cumhuriyeti Hükûmeti Arasında Ticari İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-14",
+  "gazette_issue": "27759",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-31.htm",
+  "source_sha256": "66cecce2adbabda0a3c0e874125e238404ef6798896aa7e5b964ac89dbe1a65d",
+  "text_sha256": "14d6e422a9e5a10dd11d5f86f1a2d1db39beeace761ffec182bb8406fbb5958f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/14/27759-31",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-31.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
