@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6043",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti ve Suriye Arap Cumhuriyeti Arasında Hükümlülerin Nakline Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-14",
+  "gazette_issue": "27759",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-27.htm",
+  "source_sha256": "75a533719e632c6c5f0eabe4d9b93acf09f6f10f1a3eedf856152b06962ebfc3",
+  "text_sha256": "a0a8c7085d4aec5abe71dfb95b18ab047225a11febb181a9745dc87353e1994b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/14/27759-27",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-27.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
