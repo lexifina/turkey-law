@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6048",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti ile Bolivarcı Venezuela Cumhuriyeti Arasında İşbirliği Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-14",
+  "gazette_issue": "27759",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-32.htm",
+  "source_sha256": "d47e81a68e3dc6ffe91faa48b84d1ca1b05f5b8201501b753b776c994ec10ac6",
+  "text_sha256": "860627ef98ed2b151cc3897df6e550ec3c21033f32303d7e13080dca34028bd9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/14/27759-32",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101114-32.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
