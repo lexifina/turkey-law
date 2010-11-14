@@ -1,0 +1,10 @@
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Genel Hükümler
+Ödeme esasları
+MADDE 8 – (1) Bu Tebliğde belirtilen faaliyetlerin desteklerden yararlanabilmesi için, fatura ve bankacılık sistemi çerçevesinde düzenlenen ödeme belgeleri ile tevsik edilmesi zorunludur.
+(2) Tebliğ kapsamındaki desteklerden faydalanmak isteyen işletmelerin bireysel veya ilgili sektör meslek birliğinin/derneğinin öncülüğünde grup olarak katılacakları turizm fuarı ya da gerçekleştirecekleri faaliyete ilişkin projeyi yurtdışından temin ettikleri döviz miktarına ilişkin belgeler ile birlikte fuar ya da faaliyetin başlamasından en az 3 ay öncesinde Bakanlığa sunmaları gerekmektedir.
+(3) Bakanlık söz konusu başvuruları inceleyerek, uygun gördüğü talepleri ilgili işletmeye/sektör meslek birliğinin/derneğinin öncülüğünde katılan gruba bildirir. Yıl içerisinde uygun görülen talep miktarları toplamı bu amaçla yılı bütçesine konacak ödenek miktarını geçemez.
+(4) a) İşletmelerce gerçekleştirilen faaliyetler sona erdikten sonra, gerçekleşen harcamalara ilişkin, 9 uncu maddede belirtilen belgeler, faaliyetin bitiş tarihini müteakip en geç 2 (iki) ay içerisinde hizmetin gerçekleştiği ülkede bulunan Bakanlık yurtdışı temsilciliğine intikal ettirilir. İlgili yurtdışı temsilciliğince gerekli incelemenin yapılmasını müteakip uygun görülenlerin ödemesi Bakanlık yurtdışı temsilcilikleri tarafından işletmelere/ilgili sektör meslek birliğine/derneğine yapılır.
+b) Bakanlık yurtdışı temsilciliğinin bulunmadığı ülkelerde yapılan harcamalara ilişkin yurtdışı ödemeleri, faaliyetin yapıldığı ülkeye akredite olan Bakanlık yurtdışı temsilciliklerince yapılır.
+(5) a) İbraz edilen belgelerdeki giderler fatura tarihindeki TCMB çapraz kurları ve döviz alış kuru esas alınarak Bakanlık yurtdışı temsilciliğinin bulunduğu ülke parası cinsinden ödenir.
+b) Bakanlık yurtdışı temsilciliği tarafından ilgili yurtdışı temsilciliğinin bulunduğu ülke parası cinsinden yapılacak ödemelerle ilgili olarak; TCMB’nin her döviz cinsi için bir çapraz kur açıklamadığı durumlarda ödemeler ABD Doları veya Euro olarak Bakanlık yurtdışı temsilcilikleri tarafından işletmelere/ilgili sektör meslek birliğine/derneğine yapılır.

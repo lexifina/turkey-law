@@ -1,0 +1,2 @@
+Müeyyide
+MADDE 10 – (1) Bu Tebliğ kapsamında katılımcılar tarafından yanıltıcı ve/veya gerçeğe aykırı bilgi ve belge verilmesinden dolayı haksız ödeme yapıldığının, katılımcının ülkemiz imajına zarar verdiğinin tespiti halinde geri alma işlemi için 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır. Cezai müeyyide gerektiren diğer hallerde ise, ilgililer hakkında ayrıca gerekli takibat yapılır.

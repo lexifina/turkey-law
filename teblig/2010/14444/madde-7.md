@@ -1,0 +1,5 @@
+Yurtdışında gerçekleştirilecek tanıtım ve pazarlama faaliyetleri
+MADDE 7 – (1) İşletmelerin;
+a) Bireysel veya ilgili sektör meslek birliğinin/derneğinin öncülüğünde grup olarak, tesisleri ile birlikte bölge tanıtımı amacıyla yurtdışında gerçekleştirecekleri, kokteyl, çalıştay, sergi ve benzeri etkinliklere ilişkin yer kirası, ikram ve organizasyon giderlerinin Bakanlık tarafından uygun görülmesi halinde %50’si ödenir. Ödenecek destek miktarı her bir etkinlik için bireysel faaliyetlerde 10.000 (onbin), grup faaliyetlerinde 25.000 (yirmibeşbin) ABD Dolarını geçemez.
+b) Bölge tanıtımı için hazırlanan projeleri kapsamındaki reklam giderlerinin Bakanlık tarafından uygun görülmesi halinde %50’si ödenir. Reklam faaliyetlerinde ödenecek destek miktarı her bir etkinlik için bireysel faaliyetlerde 40.000 (kırkbin), grup faaliyetlerinde 150.000 (yüzellibin) ABD Dolarını geçemez.
+(2) Mali yıl içinde yapılacak ödemeler toplamı, bireysel işletmeler için 150.000 (yüzellibin), grup faaliyetlerinde 750.000 (yediyüzellibin) ABD Dolarını geçemez.
