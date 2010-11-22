@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-11-22",
+  "issue": "27763",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul 29 Mayıs Üniversitesi Satın Alma ve İhale Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101122-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101122.htm",
+  "index_sha256": "82d34e8b8cc247340c8cc7df306e85c54f4d0d22576e60b0d77aaafd0aa98a82",
+  "index_header": "22 Kasım 2010 ... 27763 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
