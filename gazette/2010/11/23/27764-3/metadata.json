@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-11-23",
+  "issue": "27764",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Boru Hatları ile Petrol Taşıma A.Ş. (BOTAŞ) Genel Müdürlüğüne Ait Taşınmazların Satışı ve Kiraya Verilmesine İlişkin Usul ve Esaslara Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101123-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101123.htm",
+  "index_sha256": "d58594f6cd7cace61f5dc80e32dfc42cc58d916f7fe8b9ebca68ecf8b57e180b",
+  "index_header": "23 Kasım 2010 ... 27764 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
