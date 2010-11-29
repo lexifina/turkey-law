@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-74/2010-1/ Serbest meslek erbabı muafiyeti-1",
+  "source_id": 583,
+  "date": "2010-11-29",
+  "title": "Gezici olarak şarkı söyleyen ve müzik icra edenlerin mükellefiyeti hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/583",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "2be124b23338b0f91d79e2fee60b336ae84ac7f39288efacc09c44bb0da97b98",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
