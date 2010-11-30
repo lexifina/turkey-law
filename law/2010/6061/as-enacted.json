@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6061",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Tunus Cumhuriyeti Hükûmeti Arasında Madencilik ve Jeoloji Alanlarında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-3.htm",
+  "source_sha256": "cee9e34e61b24a0ec578758b1c18a9a64ddf7f8e87882c78de19b684969a65e6",
+  "text_sha256": "917000570c95c224f80e31dc9b37d0b05de337f963d7c996af6325930490385c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
