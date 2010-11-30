@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6064",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Başbakanlık Devlet Arşivleri Genel Müdürlüğü ile Tunus Cumhuriyeti Milli Arşivi Arasında İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-6.htm",
+  "source_sha256": "bda1d9e27ea1a7c32032decf2f790bdd59854884e78b552172a1d87703255738",
+  "text_sha256": "cf394d000ef324eaf59061f05b5847263dc9f9289100a5de782a88eaccb1133b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
