@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6080",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Kuveyt Devleti Hükûmeti Arasında Gümrük Konularında Karşılıklı Yardım ve İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-22.htm",
+  "source_sha256": "68537fae3fa92508fb2b0aa4e1ecaf2ed2810a0aa7101974618e4dfcb3bd361f",
+  "text_sha256": "a5628c093e65d6ca1e0d25dc659d8d9200fd3e1773bd46dc83da8324c0cbb218",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-22",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-22.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
