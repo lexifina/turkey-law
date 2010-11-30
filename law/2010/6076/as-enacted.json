@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6076",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Kültür ve Turizm Bakanlığı ile Makedonya Cumhuriyeti Kültür Bakanlığı Arasında Makedonya Cumhuriyetinde Yer Alan Bazı Osmanlı Dönemi Eserlerinin Onarımı ve Rekonstrüksiyonuna Yönelik Yapılan Görüşmelere İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-18.htm",
+  "source_sha256": "af7a8ade836f08c9fc7a75a4a6230415bbd477ec307301881314b89e71a2212d",
+  "text_sha256": "352e8e322168099285f0f5a877353a7d6b0f1d2979c796d2309b7b8b8bc66577",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-18",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-18.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
