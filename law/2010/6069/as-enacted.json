@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6069",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti ile Slovakya Cumhuriyeti Arasında Sosyal Güvenlik Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-11.htm",
+  "source_sha256": "36d43a0e581741c4c7f91b579b255c84f866a2d5031788388bb4c0437f68ce21",
+  "text_sha256": "2bea581942c76dd1ad4527dd2a7e818d31b4e196d176daa48ef9d089bb1169fd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
