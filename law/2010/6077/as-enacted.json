@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6077",
+  "year": 2010,
+  "title": "2007 Uluslararası Kahve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-19.htm",
+  "source_sha256": "a96ba699c9c73b5507d5f98854d4acaf06eb3f1248cba5857c7ba02ccc124d36",
+  "text_sha256": "6262ae9adb79e2fba7e3c509658cb3bb4b417993d9bbc5bbfe75be604076f88d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-19",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-19.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
