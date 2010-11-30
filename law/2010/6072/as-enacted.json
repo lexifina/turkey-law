@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6072",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti ile Hırvatistan Cumhuriyeti Arasında Sosyal Güvenlik Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-14.htm",
+  "source_sha256": "7e5a3f75929798964a8873daa6223441d63a92b6ef075d83c2cbc90e80d7073c",
+  "text_sha256": "bef32843481bf26dc0676fce2cbd88fd9d3da97b021c205337079b8e36043741",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-14",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-14.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
