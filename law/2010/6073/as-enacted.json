@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6073",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti ile Kırgız Cumhuriyeti Arasında Hukuki, Ticari ve Cezai Konularda Adli İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-15.htm",
+  "source_sha256": "6002ea882c698db7e7924572013de03999c2d7bd297ad3c63488339a02d6fa3d",
+  "text_sha256": "c8e3ed704987189dbe7945a3dc1f4dba6304af2b96a6a2ab02e7744009fd35ca",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-15",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-15.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
