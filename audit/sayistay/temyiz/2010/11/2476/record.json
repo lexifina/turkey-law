@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "32360",
+  "decision_date": "2010-11-30",
+  "source_id": 2476,
+  "chamber": "1",
+  "file_number": "30693",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2476/",
+  "source_sha256": "b78506fd1f80b4f54b73190f641129ecb916ea5d64b3ac79d0bbf3c21c74b8c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
