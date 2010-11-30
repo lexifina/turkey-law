@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6070",
+  "year": 2010,
+  "title": "Karadeniz Çevre Karayolunun Koordineli Olarak Geliştirilmesine Dair Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-12.htm",
+  "source_sha256": "aa1a21c1f546ea8ba471e578a1bbe62922dffcb708cab83849fa1e38235f86cc",
+  "text_sha256": "5d46429e5b37688ec46627e81cd4486048ba58e436d8fb0ec85a6c9163613ea0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
