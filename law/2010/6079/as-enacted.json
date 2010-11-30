@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6079",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Gelişen Sekiz Ülke Sekretaryası Arasında Merkez Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-21.htm",
+  "source_sha256": "b3b3aa125838914ea7c4f3ec01dfe2dd97bb897a35b2d1b459fd0e732ff4a263",
+  "text_sha256": "0d0a5a645fabafeee87c8341e1495af7e6d9397ede63a32a92e34c5266cfac49",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-21",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-21.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
