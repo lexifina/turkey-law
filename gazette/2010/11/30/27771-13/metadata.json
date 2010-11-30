@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-11-30",
+  "issue": "27771",
+  "edition": "regular",
+  "item": 13,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "6071 Karadenize Sahildar Devletlerin Sınır/Sahil Güvenlik Makamları Arasındaki İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130.htm",
+  "index_sha256": "9a4c151b4a69bee1fcca619acad11219b0ee4541a1765d102ce7acea320c431e",
+  "index_header": "30 Kasım 2010 ... 27771 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
