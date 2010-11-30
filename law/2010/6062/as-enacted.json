@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6062",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Tunus Cumhuriyeti Hükûmeti Arasında Kadının, Ailenin ve Çocukların Statülerinin Geliştirilmesi Üzerine İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-4.htm",
+  "source_sha256": "4c1d896be435b6253e6b95b69416fcf6993425ebb4a54101d7145c8792c21dbf",
+  "text_sha256": "cb8627b7852ff727b28f646f03e839b5430238dbe6a72fb6162388b61989b683",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
