@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6066",
+  "year": 2010,
+  "title": "Çocuklarla Kişisel İlişki Kurulmasına Dair Avrupa Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-8.htm",
+  "source_sha256": "caf2cab2eaade11ba1e2aee69e592237d7285e244dfc0f8ef4c91bb7c50d5990",
+  "text_sha256": "e7db01a54424eedd94a0660d6f6b517aa5d2387702e8aeda34ccc21f50fca398",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
