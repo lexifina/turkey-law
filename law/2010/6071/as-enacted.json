@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6071",
+  "year": 2010,
+  "title": "Karadenize Sahildar Devletlerin Sınır/Sahil Güvenlik Makamları Arasındaki İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-11-30",
+  "gazette_issue": "27771",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-13.htm",
+  "source_sha256": "651d70f028e81d41c310b262c4a491fad9b4881e0280ca07cab56efb06c06c96",
+  "text_sha256": "b6c32b60c5b6bab09b99c6ecbd7eca67b0aa61054dfe545f2590503fec96ccee",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/11/30/27771-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/11/20101130-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
