@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.63.15.01-015-11",
+  "source_id": 31382,
+  "date": "2010-12-01",
+  "title": "Yatırım teşvik belgesi düzenlenmeden önce alınan makine ve teçhizat için ödenen KDV tutarlarının, sonradan alınan YTB de söz konusu makine ve teçhizata yer verilmiş olması nedeniyle iadesinin mümkün bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31382",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "4da4b5e052fe6930511ef53f97b54e2b258596162dd455feed21432dcfac2022",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
