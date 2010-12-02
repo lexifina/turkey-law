@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2010/DK/665",
+  "date": "2010-12-02",
+  "title": "Kayıtların Saklanma Süresi",
+  "relevant_unit": "Sektörel Denetim Dairesi Başkanlığı",
+  "publication_date": "2010-12-02",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=172",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/74e4acd9-925f-4139-af90-02eb102a2e41.pdf",
+  "source_sha256": "5e63f9119bef475a442450843b8589eedf1f267f8647f0353005e7d1c17a7d45",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2010-12-02",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 02.12.2010; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
