@@ -1,0 +1,15 @@
+{
+  "number": "K-2010/557",
+  "award_date": "2010-12-02",
+  "heading_as_published": "02.12.2010 Tarih ve K-2010/557 Sayılı Hakem Heyeti Kararı",
+  "issue": "Hakem Karar Dergisi 4 Ekim - Aralık 2010",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardergisisayi4.pdf",
+  "source_sha256": "47a7bf28ef6a1c12210f9dbd6e120cf59f183993dd7a4aef95a2899f3f4b85a4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "mis-mapped characters in the issue text layer (font encoding; no OCR)",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
