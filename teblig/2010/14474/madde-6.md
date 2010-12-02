@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Ortak Yerleşim
+Ortak yerleşim yükümlülüğü
+MADDE 6 – (1) Yönetmeliğin 7 nci maddesi çerçevesinde getirilen yükümlülükler saklı kalmak kaydıyla, Kurum, bir işletmecinin ortak yerleşime izin vermemesinin veya aynı sonucu doğuracak şekilde makul olmayan süre ve şartlar ileri sürmesinin, rekabet ortamının oluşumunu engelleyeceğine veya ortaya çıkacak durumun son kullanıcıların aleyhine olacağına karar vermesi durumunda söz konusu işletmeciye ortak yerleşim sağlama yükümlülüğü getirebilir.
+(2) Fiziksel ortak yerleşimin zarurî olmadığı, teknik imkânsızlığın mevcut olduğu veya kapasite yetersizliğinin bulunduğu ve kapasite artırım imkânının olmadığı hususlarından birinin ortak yerleşim yükümlüsü tarafından objektif kriterlerle kanıtlanması halinde Kurum, söz konusu olaya özgü olmak kaydıyla fiziksel ortak yerleşim yükümlülüğünü kısmen veya tamamen kaldırabilir. Bu durumda Kurum, alternatif olarak ortak yerleşim yükümlüsüne birlikte ortak yerleşim, sanal ortak yerleşim, uzaktan ortak yerleşim veya hüküm ve şartları söz konusu duruma göre farklılaştırılmış bir ortak yerleşim yükümlülüğü getirebilir.

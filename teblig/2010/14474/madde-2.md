@@ -1,0 +1,4 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, işletmecilerin ortak yerleşim ve tesis paylaşımına ilişkin hak ve yükümlülükleri ile söz konusu hakların kullanılması ve yükümlülüklerin yerine getirilmesinde uygulanacak usul ve esasları kapsar.
+(2) 5809 sayılı Elektronik Haberleşme Kanunu’nun 17 nci maddesi kapsamında radyo ve televizyon yayınlarını da içeren her türlü yayının belirlenmiş emisyon noktalarından yapılabilmesini teminen ortak anten sistem ve tesisleri kurulmasına yönelik düzenlemelerde yer alan hükümler saklıdır.
+(3) Bu Tebliğin 9 uncu maddesinin 1 inci fıkrası saklı kalmak kaydıyla, ilgili pazar analizinin, referans erişim teklifinin veya erişim yükümlülüğü öngören bir Kurul Kararı’nın konusu olmadığı takdirde bir ortak yerleşim ve tesis paylaşımı talebinin karşılanması bu Tebliğin kapsamı dışındadır.

@@ -1,0 +1,2 @@
+Genel esaslar
+MADDE 19 – (1) Ortak yerleşim veya tesis paylaşımına ilişkin olarak referans erişim teklifinin hazırlanması ve onaylanmasına; sözleşmelerin müzakeresi, Kuruma sunulması ve aleniyetine; mevzuata aykırı olduğu belirlenen sözleşme hükümlerinin düzeltilmesine; uzlaşmazlıkların çözümüne; erişim yükümlülüğünün sınırlandırılmasına; bilgilerin gizliliğine ve yükümlülüklerin yerine getirilmemesi durumunda uygulanacak yaptırımlara ilişkin olarak Yönetmeliğin ilgili hükümleri uygulanır.

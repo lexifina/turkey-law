@@ -1,0 +1,4 @@
+Ortak yerleşim alanı ve tesislere erişim
+MADDE 15 – (1) İşletmeciler ortak yerleşim veya tesis paylaşımına konu sistem, cihaz veya kabloların bulunduğu bina veya tesislere ortak yerleşim veya tesis paylaşımı yükümlüsünün bilgi ve gözetiminde yirmi dört (24) saat erişim hakkına sahiptir.
+(2) Ortak yerleşim veya tesis paylaşımı yükümlüsü; işletmeciyi onbeş (15) gün önceden bilgilendirmek şartı ile ilgili standartlara, mevzuata ve teknik gerekliliklere uygunluğunun incelenmesi amacıyla işletmecinin sistem, cihaz veya kablolarına erişebilir. Haberleşmeyi kesintiye uğratabilecek acil durumlarda önceden bilgilendirme zorunluluğu yoktur.
+(3) Ortak yerleşim veya tesis paylaşımı yükümlüsü ile işletmeciler, bu maddede belirtilen hakların kullanımından kaynaklanan ve kendi kusurları sonucunda oluşan zararları tazmin etmekle yükümlüdür.

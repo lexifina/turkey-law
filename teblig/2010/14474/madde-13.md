@@ -1,0 +1,2 @@
+Kapasite arttırımı ve kullanımı
+MADDE 13 – (1) Ortak yerleşim veya tesis paylaşımı yükümlüsü; taleplerin karşılanabilmesi için direk ve kulelerin yükseltilmesi, güçlendirilmesi, boru ve kanallara göz çoklayıcı eklenmesi gibi kapasite arttırımı veya mevcut kapasitenin daha etkin kullanılabilmesi için gerekli tüm işlemleri yapar. Bu madde kapsamında yükümlü işletmeci tarafından yerine getirilen hususlara ilişkin maliyetler bu Tebliğin 12 nci maddesinin (c) bendi kapsamında değerlendirilir.
