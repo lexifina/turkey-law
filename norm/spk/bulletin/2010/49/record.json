@@ -1,0 +1,48 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2010/49",
+  "date": "2010-12-03",
+  "title": "SPK Haftalık Bülteni 2010/49",
+  "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_49.pdf",
+  "source_sha256": "5007193384441281a5cdeb769282f19a1f422a84d18192a3916c48b4e9617f5f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "E. ÖZEL DURUMLAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 04.01.2010 – 03.12.2010 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_49.pdf"
+    },
+    {
+      "heading": "B. 29.11.2010 – 03.12.2010 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_49.pdf"
+    },
+    {
+      "heading": "C. 29.11.2010 – 03.12.2010 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltme",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_49.pdf"
+    },
+    {
+      "heading": "E. ÖZEL DURUMLAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4431b41c613a0d633c9/2010_49.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
