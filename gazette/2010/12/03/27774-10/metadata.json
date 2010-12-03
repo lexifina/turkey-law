@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-12-03",
+  "issue": "27774",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Basın İlân Kurumu Teşkiline Dair 195 Sayılı Kanun Uyarınca Yayınlanacak İlân ve Reklâmlar ile Bunları Yayınlayacak Mevkuteler Hakkında 15/2/1977 Tarihli ve 67 Sayılı Genel Kurul Kararı’nın Bazı Maddelerinin Değiştirilmesine Dair Genel Kurul Kararı (No: 189)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101203-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101203.htm",
+  "index_sha256": "2a7e8b8470b6aee9d3c86dc4e50b53e96badc4f4e917f3c4799d7c6be1eed9a3",
+  "index_header": "3 Aralık 2010 ... 27774 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
