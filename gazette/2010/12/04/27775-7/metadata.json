@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-12-04",
+  "issue": "27775",
+  "edition": "regular",
+  "item": 7,
+  "section": "BÖLÜMÜ",
+  "heading": "ANAYASA MAHKEMESİ KARARLARI",
+  "title": "Anayasa Mahkemesinin E: 2010/29, K: 2010/90 Sayılı Kararı (Bazı Kanunlarda Değişiklik Yapan 21/1/2010 Tarihli ve 5947 Sayılı Kanun ile İlgili)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101204-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101204.htm",
+  "index_sha256": "ee6f06feb371cd75c1a60cd4b3188aaf1e2e8b779da0c237f1a4a0aa6ebdfed9",
+  "index_header": "4 Aralık 2010 ... 27775 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
