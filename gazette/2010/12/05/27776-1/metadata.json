@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-12-05",
+  "issue": "27776",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi Çalışma ve Sosyal Güvenlik Eğitim Uzman Yardımcılığı Giriş ve Uzmanlık Yeterlik Sınavları Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101205-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101205.htm",
+  "index_sha256": "be51445086114e35679348a5e685dbcee27dd308a6ba27c569dbf431680f48ce",
+  "index_header": "5 Aralık 2010 ... 27776 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
