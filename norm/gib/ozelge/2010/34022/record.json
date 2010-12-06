@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-ÖTV-2010-7-8-735",
+  "source_id": 34022,
+  "date": "2010-12-06",
+  "title": "ÖTV Kanununun 7/2. maddesi kapsamında sakatlık derecesi % 90'nın altında olan malul ve engellilerden sakatlıkları sol kol ve sol bacakta olan engellilerin ÖTV istisnasından yararlanıp yararlanamayacakları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34022",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "1678ce88a0fb925445379ea991de06d8c18263a3f0841e3d88aaafb2cedd12cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
