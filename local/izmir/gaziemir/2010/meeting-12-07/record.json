@@ -1,0 +1,24 @@
+{
+  "number": "meeting-12-07",
+  "number_as_published": "meeting-12-07",
+  "year": 2010,
+  "title": "GAZİEMİR BELEDİYE MECLİSİ 07.12.2010 KARAR ÖZETLERİ",
+  "decision_date": "2010-12-07",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=73",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/491522f43c1e4d46296e5d224b15dec065a4a890be6d7699c054b1469fd709dd.doc",
+  "source_sha256": "92be993c6d4af168e4d8d8e5500e78d71d0fe42be4b7fdebcf75e04f69aae496",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2010-12-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.12.2010; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "GAZİEMİR BELEDİYE MECLİSİ 07.12.2010 KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "30.12.2010"
+}
