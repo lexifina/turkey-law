@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.02-KDV-2010-75-133",
+  "source_id": 31057,
+  "date": "2010-12-07",
+  "title": "Yurtdışında yerleşik firmaların gönderdiği turist gruplarından Türkiye'de verilen konaklama v.b. hizmet bedelleri dışında alınan ücret için KDV hesaplanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31057",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "c6a28072c8a03fa2de0b0106e51d677bac2cc4ce7396f44c6173fb708213ea7f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
