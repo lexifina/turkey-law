@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2911",
+  "decision_date": "2010-12-09",
+  "title": "2011 yılı dağıtım, perakende satış hizmeti ve iletim bedeli gelir gereksinimlerine yansıtılacak,2009 yılı dağıtım, perakende satış hizmeti ve iletim bedeli gelir farkları",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LKvDDMRIPhs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LKvDDMRIPhs="
+  ],
+  "source_sha256": "b8a8fcfca2721d3be8d75963abd8a6662a651966810a9b34cb5312473da07175",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-12-09",
+  "law_text_complete": false
+}
