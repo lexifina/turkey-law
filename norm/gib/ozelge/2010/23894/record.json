@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.22.15.01-2010/GVK:1-2/-18",
+  "source_id": 23894,
+  "date": "2010-12-09",
+  "title": "Düzeltme beyannamesi vererek götürü gider usulünden gerçek gider usulüne geçilip geçilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23894",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "ae66469a0d64a58db174c04e96eaaccf069d336c70fde83db5ba3fc6126ed4b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
