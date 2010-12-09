@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2914",
+  "decision_date": "2010-12-09",
+  "title": "Elektrik dağıtım şirketleri için ikinci uygulama döneminin ilk iki yılı olan 2011-2012 yılları için geçerli olacak Brüt Kar Marjı Tavanı Hakkında 2914 sayılı Kurul kararı",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gaouUlvU9F0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gaouUlvU9F0="
+  ],
+  "source_sha256": "346e38000dd587241f8aa0a61ccd3c3bd28706a103f406e7305b2637b45c79a1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1920,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-12-09",
+  "law_text_complete": false
+}
