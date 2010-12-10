@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6082",
+  "year": 2010,
+  "title": "Yüksek Öğrenim Kredi ve Yurtlar Kurumu Kanunu ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-12-10",
+  "gazette_issue": "27781",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101210-1.htm",
+  "source_sha256": "7f47be4e894ba99a87bec42761d2a65eb37b86b8ce0099ca28d6543777841552",
+  "text_sha256": "23dc8c227739f6c1f0d6178a5a672f1bfe9a4e04bc630e3d90656b3d818ffb1a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/12/10/27781-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101210-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
