@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6084",
+  "year": 2010,
+  "title": "Avrupa Konseyi Çocukların Cinsel Sömürü ve İstismara Karşı Korunması Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2010-12-10",
+  "gazette_issue": "27781",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101210-3.htm",
+  "source_sha256": "2073f04655c480f11bffcd3c3458ebce1dbbc05b9c0e7683a08049fb527953d7",
+  "text_sha256": "e87bbfbe951d08c1d47b96a6cea22dead3cfe73ee5e7488bb7b99c5cd52869fc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2010/12/10/27781-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101210-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
