@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-12-12",
+  "issue": "27783",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2010/1122 Milli Savunma Bakanlığı (MSB) Tarafından Temsil Edilen Türkiye Cumhuriyeti ile NATO Danışma, Komuta ve Kontrol Ajansı (NC3A) Tarafından Temsil Edilen NATO Danışma, Komuta ve Kontrol Teşkilatı (NC3O) Arasında NC3A Bünyesinde Ulusal Uzmanlık Ofisinin Devamı Konusunda Mutabakat Muhtırasının Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101212-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101212.htm",
+  "index_sha256": "24359ffc674648461dd737695f971f98283b0339c11302217fc3f87af68fa435",
+  "index_header": "12 Aralık 2010 ... 27783 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
