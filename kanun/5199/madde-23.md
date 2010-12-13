@@ -1,2 +1,2 @@
 Yasak ve izinler
-MADDE 23. — Bu Kanun kapsamında olan ev ve süs hayvanlarının ticaretinin yapılması, ithalatı ve ihracatı ile her ne şekilde olursa olsun, ülkeden çıkarılması ve sokulması ile ilgili her türlü izin ve işlemlerde Bakanlığın görüşü alınmak kaydıyla Tarım ve Köyişleri Bakanlığı yetkilidir. Tarım ve Köyişleri Bakanlığının ilgili birimlerince, yıl içinde yapılan ithalat ve ihracat ile ilgili bilgiler Bakanlığa bildirilir.
+Madde 23- (Mülga: 11/6/2010-5996/47 md.)
