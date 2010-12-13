@@ -1,0 +1,24 @@
+{
+  "number": "600",
+  "number_as_published": "Karar No : 600",
+  "year": 2010,
+  "title": "Hacılar Belediyesi, Karpuzsekisi Orman Köyü, Gelbula Mevkii, 490 ve 1028 parselde NİP değişikliği.",
+  "decision_date": "2010-12-13",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/13-aralik-2010-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "9ccc615c59c7663a61f8603956a1f0fd0bec06335b587226b6e84285ff8c339e",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2010-12-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.12.2010 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "13 Aralık 2010 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=17",
+  "subject_published": true
+}
