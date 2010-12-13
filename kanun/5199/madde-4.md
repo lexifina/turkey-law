@@ -1,5 +1,5 @@
 İlkeler
-MADDE 4. — Hayvanların korunmasına ve rahat yaşamalarına ilişkin temel ilkeler şunlardır:
+Madde 4- Hayvanların korunmasına ve rahat yaşamalarına ilişkin temel ilkeler şunlardır:
 a) Bütün hayvanlar eşit doğar ve bu Kanun hükümleri çerçevesinde yaşama hakkına sahiptir.
 b) Evcil hayvanlar, türüne özgü hayat şartları içinde yaşama özgürlüğüne sahiptir. Sahipsiz hayvanların da, sahipli hayvanlar gibi yaşamları desteklenmelidir.
 c) Hayvanların korunması, gözetilmesi, bakımı ve kötü muamelelerden uzak tutulması için gerekli önlemler alınmalıdır.
@@ -11,3 +11,4 @@ h) Hayvanların türüne özgü şartlarda bakılması, beslenmesi, barındırı
 ı) Hayvanları taşıyan ve taşıtanlar onları türüne ve özelliğine uygun ortam ve şartlarda taşımalı, taşıma sırasında beslemeli ve bakımını yapmalıdırlar.
 j) Yerel yönetimlerin, gönüllü kuruluşlarla işbirliği içerisinde, sahipsiz ve güçten düşmüş hayvanların korunması için hayvan bakımevleri ve hastaneler kurarak onların bakımlarını ve tedavilerini sağlamaları ve eğitim çalışmaları yapmaları esastır.
 k) Kontrolsüz üremeyi önlemek amacıyla, toplu yaşanan yerlerde beslenen ve barındırılan kedi ve köpeklerin sahiplerince kısırlaştırılması esastır. Bununla birlikte, söz konusu hayvanlarını yavrulatmak isteyenler, doğacak yavruları belediyece kayıt altına aldırarak bakmakla ve/veya dağıtımını yapmakla yükümlüdür.
+8861

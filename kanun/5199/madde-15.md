@@ -3,7 +3,7 @@ Hayvan Koruma Yönetimi
 BİRİNCİ BÖLÜM
 Mahallî Hayvan Koruma Kurulları Teşkilât, Görev ve Sorumluluklar
 İl hayvanları koruma kurulu
-MADDE 15. — Her ilde il hayvanları koruma kurulu, valinin başkanlığında, sadece hayvanların korunması ve mevcut sorunlar ile çözümlerine yönelik olmak üzere toplanır.
+Madde 15- Her ilde il hayvanları koruma kurulu, valinin başkanlığında, sadece hayvanların korunması ve mevcut sorunlar ile çözümlerine yönelik olmak üzere toplanır.
 Bu toplantılara;
 a) Büyükşehir belediyesi olan illerde büyükşehir belediye başkanları, büyükşehire bağlı ilçe belediye başkanları, büyükşehir olmayan illerde belediye başkanları,
 b) İl çevre ve orman müdürü,

@@ -1,2 +1,2 @@
 Yürürlük
-MADDE 32. — Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 32- Bu Kanun yayımı tarihinde yürürlüğe girer.

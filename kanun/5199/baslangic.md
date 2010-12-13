@@ -1,3 +1,4 @@
+8859
 HAYVANLARI KORUMA KANUNU
 Kanun Numarası : 5199
 Kabul Tarihi : 24/6/2004

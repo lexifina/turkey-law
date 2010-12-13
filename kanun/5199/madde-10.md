@@ -1,7 +1,7 @@
 ÜÇÜNCÜ BÖLÜM
 Hayvanların Ticareti ve Eğitilmesi
 Hayvanların ticareti
-MADDE 10. — Satılırken; hayvanların sağlıklarının iyi, barındırıldıkları yerin temiz ve sağlık şartlarına uygun olması zorunludur.
+Madde 10- Satılırken; hayvanların sağlıklarının iyi, barındırıldıkları yerin temiz ve sağlık şartlarına uygun olması zorunludur.
 Çiftlik hayvanlarının bakımı, beslenmesi, nakliyesi ve kesimi esnasında hayvanların refahı ve güvenliğinin sağlanması hususundaki düzenlemeler Tarım ve Köyişleri Bakanlığınca çıkarılacak yönetmelikle belirlenir.
 Yabani hayvanların ticaretine ilişkin düzenlemeler Bakanlıkça çıkarılacak yönetmelikle belirlenir.
 Ev ve süs hayvanlarının üretimini ve ticaretini yapanlar, annenin ve yavrularının sağlığını tehlikeye atmamak için gerekli anatomik, fizyolojik ve davranış karakteristikleri ile ilgili önlemleri almakla yükümlüdür.
