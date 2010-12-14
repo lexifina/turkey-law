@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "32638",
+  "decision_date": "2010-12-14",
+  "source_id": 2239,
+  "chamber": "5",
+  "file_number": "31019",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2239/",
+  "source_sha256": "8b13e5916991b382c79560e87c2687da26549e4cccad20b663f546f83cd15894",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
