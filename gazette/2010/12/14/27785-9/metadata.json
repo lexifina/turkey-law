@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-12-14",
+  "issue": "27785",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 13/12/2010 Tarihli ve 2010/109 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101214-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101214.htm",
+  "index_sha256": "37635d45b0389bb2ffad072eadb993201aeb6a8af2649681eb8013e05ff093cd",
+  "index_header": "14 Aralık 2010 ... 27785 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
