@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-GVK-18-37-760",
+  "source_id": 21187,
+  "date": "2010-12-15",
+  "title": "Kitap yazan kişinin Gelir Vergisi Kanununun 18. maddesinde belirtilen Serbest Meslek Kazanç istisnasından yararlanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21187",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "751ae1d10cb514c99b412526f0164f1e2a7499c7e776a583987dd72b6cad2aac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
