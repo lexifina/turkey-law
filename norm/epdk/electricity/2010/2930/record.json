@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2930",
+  "decision_date": "2010-12-16",
+  "title": "Türkiye Ortalama Elektrik Toptan Satış Fiyatı (2011'de geçerli olacaktır.)",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iZyi0wRuNpk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iZyi0wRuNpk="
+  ],
+  "source_sha256": "5ee7039dbba958c5dbde88cc59825f34f4be33535fffca548a37afeeefaeda4b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-12-16",
+  "law_text_complete": false
+}
