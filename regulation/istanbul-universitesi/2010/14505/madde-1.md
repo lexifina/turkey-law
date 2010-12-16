@@ -1,0 +1,6 @@
+İSTANBUL ÜNİVERSİTESİ EKONOMİ POLİTİKALARI UYGULAMA VE ARAŞTIRMA MERKEZİ
+YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; İstanbul Üniversitesi Ekonomi Politikaları Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, organlarına ve organlarının görevlerine ilişkin usul ve esasları düzenlemektir.
