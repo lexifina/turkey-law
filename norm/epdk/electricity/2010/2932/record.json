@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2932",
+  "decision_date": "2010-12-16",
+  "title": "2011- 2015 uygulama dönemine ilişkin dağıtım faaliyeti kayıp kaçak hedefi (KKH) oranları",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8B1tUo73514=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8B1tUo73514="
+  ],
+  "source_sha256": "598e0db794ca4f10d0b6225624b44a3d2d320b4753353b92e7e2e5bad43653c1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-12-16",
+  "law_text_complete": false
+}
