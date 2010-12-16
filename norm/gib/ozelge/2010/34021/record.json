@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-ÖTV.7-542",
+  "source_id": 34021,
+  "date": "2010-12-16",
+  "title": "Geçici ithal yoluyla satın alınan 8703.90.10.00.00 G.T.İ.P. no.lu elektrikli otomobillerin ÖTV'ye tabi olmakla birlikte, söz konusu elektrikli otomobillerin 4458 sayılı Gümrük Kanununun 167 nci maddesi hükmü uyarınca geçici ithalat rejimi kapsamında gümrü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34021",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "9d3a37415d609d615cbc8a8f75c00e452b2deb81e126a676a034de9b7ceeffc3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
