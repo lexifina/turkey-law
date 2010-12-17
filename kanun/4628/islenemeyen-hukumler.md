@@ -7,11 +7,11 @@ GEÇİCİ MADDE 1 – Bu Kanun gereği olarak, 4628 sayılı Elektrik Piyasası 
 GEÇİCİ MADDE 2 – Bu Kanunun yürürlüğe girdiği tarihte Enerji Piyasası Düzenleme Kurumunda yerli ve yabancı uzman statüsünde görev yapmakta olanlardan, 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin (A) bendinde belirtilen şartları taşıyanlar, bu Kanunun yürürlüğe girdiği tarihten itibaren bir ay içerisinde başvurmaları halinde, 657 sayılı Kanunun sınav ve adaylık hükümlerine tabi olmaksızın Enerji Piyasası Düzenleme Kurumunda durumlarına uygun boş kadrolarına atanırlar.
 Birinci fıkra uyarınca ataması yapılanların, daha önceki 657 sayılı Devlet Memurları Kanununa tabi olmayan hizmet süreleri kazanılmış hak aylık derece ve kademelerinin tespitinde değerlendirilir. Atama sebebiyle boşalacak yerli ve yabancı uzman pozisyonları kendiliğinden iptal edilmiş sayılır.
 4628 sayılı Kanunun 11 inci Maddesindeki Cezalarla İlgili Çizelge
-4628 sayılı Kanunun 11 inci maddesinde yer alan para cezası miktarları uygulanması ile ilgili 5/12/2009 tarihli ve 27423 sayılı Resmi Gazete'de yayımlanan Enerji Piyasası Düzenleme Kurumu'nun Tebliği ile 1/1/2010 tarihinden itibaren belirlenen para cezası miktarları ile uygulanacağı yılı gösteren çizelge
-İLGİLİ KANUN MADDESİ | KANUNDA ÖNGÖRÜLEN PARA CEZALARI (YTL) | 2009 YILINDA UYGULANACAK PARA CEZALARI (TL | 2010 YILINDA UYGULANACAK PARA CEZALARI (TL)
-11 inci Maddenin Birinci Fıkrasının (a) Bendi | 250.000,- | 280.000,- | 286.160,-
-11 inci Maddenin Birinci Fıkrasının (b) Bendi | 250.000,- | 280.000,- | 286.160,-
-11 inci Maddenin Birinci Fıkrasının (c) Bendi | 300.000,- | 336.000,- | 343.392,-
-11 inci Maddenin Birinci Fıkrasının (d) Bendi | 400.000,- | 448.000,- | 457.856,-
-11 inci Maddenin Birinci Fıkrasının (e) Bendi | 450.000,- | 504.000,- | 515.088,-
-11 inci Maddenin Birinci Fıkrasının (f) Bendi | 500.000,- | 560.000,- | 572.320,-
+4628 sayılı Kanunun 11 inci maddesinde yer alan para cezası miktarları uygulanması ile ilgili 17/12/2010 tarihli ve 27788 sayılı Resmi Gazete'de yayımlanan Enerji Piyasası Düzenleme Kurumu'nun Tebliği ile 1/1/2011 tarihinden itibaren belirlenen para cezası miktarları ile uygulanacağı yılı gösteren çizelge
+İLGİLİ KANUN MADDESİ | KANUNDA ÖNGÖRÜLEN PARA CEZALARI (YTL) | 2010 YILINDA UYGULANACAK PARA CEZALARI (TL) | 2011 YILINDA UYGULANACAK PARA CEZALARI (TL)
+11 inci Maddenin Birinci Fıkrasının (a) Bendi | 250.000,- | 286.160,- | 308.194,-
+11 inci Maddenin Birinci Fıkrasının (b) Bendi | 250.000,- | 286.160,- | 308.194,-
+11 inci Maddenin Birinci Fıkrasının (c) Bendi | 300.000,- | 343.392,- | 369.833,-
+11 inci Maddenin Birinci Fıkrasının (d) Bendi | 400.000,- | 457.856,- | 493.110,-
+11 inci Maddenin Birinci Fıkrasının (e) Bendi | 450.000,- | 515.088,- | 554.749,-
+11 inci Maddenin Birinci Fıkrasının (f) Bendi | 500.000,- | 572.320,- | 616.388,-

@@ -20,3 +20,4 @@ TEBLİĞ 26/4/2005 tarihli ve 25797 sayılı R.G | 11 | 2005 yılı için
 5784 | 1, 2, 3, 14, 15, Ek Madde 3, Geçici Madde 9, 10,13, 14, 15, 16, 17 ve İşlenemeyen Hükümler | 26/7/2008
 TEBLİĞ 5/12/2008 tarihli ve 27075 sayılı R.G. | 11 | 1/1/2009
 TEBLİĞ 5/12/2009 tarihli 27423 sayılı R.G. | 11 | 1/1/2010
+TEBLİĞ 17/12/2010 tarihli ve 27788 sayılı R.G. | 11 | 1/1/2011
