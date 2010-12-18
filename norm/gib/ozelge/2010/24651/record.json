@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.02-15.02/VUK-2-40",
+  "source_id": 24651,
+  "date": "2010-12-18",
+  "title": "Derneğin gayrimenkul kira gelirinin nasıl vergilendirileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24651",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "639dd795a6ac12f8e5f48b1e3a51460514ff785526ce503485c6f9efe6cba50c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
