@@ -1,6 +1,6 @@
 Yürütme
 MADDE 83 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-(I) SAYILI CETVEL (1)(2)(3)(4)(5)
+(I) SAYILI CETVEL (1)(2)(3)(4)(5)(6)
 (Değişik: 22/12/2005-5436/12 md.)
 GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 1) Türkiye Büyük Millet Meclisi
@@ -9,54 +9,55 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 4) Anayasa Mahkemesi
 5) Yargıtay
 6) Danıştay
-7) Sayıştay
-8) Adalet Bakanlığı
-9) Millî Savunma Bakanlığı
-10) İçişleri Bakanlığı
-11) Dışişleri Bakanlığı
-12) Maliye Bakanlığı
-13) Millî Eğitim Bakanlığı
-14) Bayındırlık ve İskân Bakanlığı
-15) Sağlık Bakanlığı
-16) Ulaştırma Bakanlığı
-17) Tarım ve Köyişleri Bakanlığı
-18) Çalışma ve Sosyal Güvenlik Bakanlığı
-19) Sanayi ve Ticaret Bakanlığı
-20) Enerji ve Tabiî Kaynaklar Bakanlığı
-21) Kültür ve Turizm Bakanlığı
-22) Çevre ve Orman Bakanlığı
-23) Millî Güvenlik Kurulu Genel Sekreterliği
-24) Millî İstihbarat Teşkilatı Müsteşarlığı
-25) Jandarma Genel Komutanlığı
-26) Sahil Güvenlik Komutanlığı
-27) Emniyet Genel Müdürlüğü
-28) Diyanet İşleri Başkanlığı
-29) Devlet Planlama Teşkilatı Müsteşarlığı
-30) Hazine Müsteşarlığı
-31) Dış Ticaret Müsteşarlığı
-32) Gümrük Müsteşarlığı
-33) Denizcilik Müsteşarlığı
-34) (Ek: 17/2/2010-5952/18 md.) Kamu Düzeni ve Güvenliği Müsteşarlığı (4)
-35) Avrupa Birliği Genel Sekreterliği
-36) Başbakanlık Yüksek Denetleme Kurulu
-37) Devlet Personel Başkanlığı
-38) Özürlüler İdaresi Başkanlığı
-39) Türkiye İstatistik Kurumu
-40) Afet ve Acil Durum Yönetimi Başkanlığı (3)
-41) Gelir İdaresi Başkanlığı
-42) Devlet Su İşleri Genel Müdürlüğü
+7) (Ek: 11/12/2010-6087/46 md.) Hâkimler ve Savcılar Yüksek Kurulu (6)
+8) Sayıştay
+9) Adalet Bakanlığı
+10) Millî Savunma Bakanlığı
+11) İçişleri Bakanlığı
+12) Dışişleri Bakanlığı
+13) Maliye Bakanlığı
+14) Millî Eğitim Bakanlığı
+15) Bayındırlık ve İskân Bakanlığı
+16) Sağlık Bakanlığı
+17) Ulaştırma Bakanlığı
+18) Tarım ve Köyişleri Bakanlığı
+19) Çalışma ve Sosyal Güvenlik Bakanlığı
+20) Sanayi ve Ticaret Bakanlığı
+21) Enerji ve Tabiî Kaynaklar Bakanlığı
+22) Kültür ve Turizm Bakanlığı
+23) Çevre ve Orman Bakanlığı
+24) Millî Güvenlik Kurulu Genel Sekreterliği
+25) Millî İstihbarat Teşkilatı Müsteşarlığı
+26) Jandarma Genel Komutanlığı
+27) Sahil Güvenlik Komutanlığı
+28) Emniyet Genel Müdürlüğü
+29) Diyanet İşleri Başkanlığı
+30) Devlet Planlama Teşkilatı Müsteşarlığı
+31) Hazine Müsteşarlığı
+32) Dış Ticaret Müsteşarlığı
+33) Gümrük Müsteşarlığı
+34) Denizcilik Müsteşarlığı
+35) (Ek: 17/2/2010-5952/18 md.) Kamu Düzeni ve Güvenliği Müsteşarlığı (4)
+36) Avrupa Birliği Genel Sekreterliği
+37) Başbakanlık Yüksek Denetleme Kurulu
+38) Devlet Personel Başkanlığı
+39) Özürlüler İdaresi Başkanlığı
+40) Türkiye İstatistik Kurumu
+41) Afet ve Acil Durum Yönetimi Başkanlığı (3)
+42) Gelir İdaresi Başkanlığı
+43) Devlet Su İşleri Genel Müdürlüğü
 (…) (5)
-43) Tapu ve Kadastro Genel Müdürlüğü
-44) Devlet Meteoroloji İşleri Genel Müdürlüğü
-45) Tarım Reformu Genel Müdürlüğü
+44) Tapu ve Kadastro Genel Müdürlüğü
+45) Devlet Meteoroloji İşleri Genel Müdürlüğü
+46) Tarım Reformu Genel Müdürlüğü
 (…) (1)
-46) Petrol İşleri Genel Müdürlüğü
+47) Petrol İşleri Genel Müdürlüğü
 ***Bu sayfadaki dipnotlar için devamı sayfaya bakınız.
-47) Basın-Yayın ve Enformasyon Genel Müdürlüğü
-48) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü
-49) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü
-50) Aile ve Sosyal Araştırmalar Genel Müdürlüğü
-51) Kadının Statüsü Genel Müdürlüğü
+48) Basın-Yayın ve Enformasyon Genel Müdürlüğü
+49) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü
+50) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü
+51) Aile ve Sosyal Araştırmalar Genel Müdürlüğü
+52) Kadının Statüsü Genel Müdürlüğü
 (…) (2)
 ––––––––––––––
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “45) Orman Genel Müdürlüğü” sırası çıkarılmış ve cetvelin sıra numaraları teselsül ettirilmiştir.
@@ -64,6 +65,7 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 (3) 29/5/2009 tarihli ve 5902 sayılı Kanunun 25 inci maddesiyle, bu cetvelde yer alan “38 – Türkiye İstatistik Kurumu” ibaresinden sonra gelmek üzere “39 – Afet ve Acil Durum Yönetimi Başkanlığı” ibaresi eklenmiş ve “39” rakamından sonra gelen diğer rakamlar buna göre teselsül ettirilmiştir.
 (4) 17/2/2010 tarihli ve 5952 sayılı Kanunun 18 inci maddesiyle, bu cetvele 33 üncü sırasından sonra gelmek üzere "34) Kamu Düzeni ve Güvenliği Müsteşarlığı" ibaresi eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.
 (5) 25/6/2010 tarihli ve 6001 sayılı Kanunun 43 üncü maddesiyle, bu cetvelde yer alan “43) Karayolları Genel Müdürlüğü” ibaresi çıkarılmış ve cetveldeki idarelerin sıra numaraları buna göre teselsül ettirilmiştir.
+(6) 11/12/2010 tarihli ve 6087 sayılı Kanunun 46 ncı maddesiyle, bu cetvele 6 ncı sırasından sonra gelmek üzere “7) Hâkimler ve Savcılar Yüksek Kurulu” ibaresi eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.
 (II) SAYILI CETVEL
 (Değişik: 22/12/2005-5436/12 md.)
 ÖZEL BÜTÇELİ İDARELER
