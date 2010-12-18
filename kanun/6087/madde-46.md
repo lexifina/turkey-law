@@ -1,0 +1,8 @@
+Değişiklik yapılan ve yürürlükten kaldırılan hükümler ile atıflar
+MADDE 46 –(1) 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 33 üncü maddesinin (b) fıkrasında yer alan “Başbakanlık Yüksek Denetleme Kurulu Başkan, Üye, Uzman Müşavir, Uzman ve Uzman Yardımcıları,” ibaresinden sonra gelmek üzere “Hâkimler ve Savcılar Yüksek Kurulu Müfettişleri,” ibaresi eklenmiştir.
+(2) 5/1/1961 tarihli ve 237 sayılı Taşıt Kanununun (1) sayılı cetvelinde yer alan “Yüksek Hâkimler Kurulu Başkanı” ibaresi “Hâkimler ve Savcılar Yüksek Kurulu Başkanvekili” olarak değiştirilmiştir.
+(3) 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 3 üncü maddesinin birinci fıkrasında yer alan “Danıştay,” ibaresinden sonra gelmek üzere “Hâkimler ve Savcılar Yüksek Kurulu,” ibaresi eklenmiştir.
+(4) 8/5/1991 tarihli ve 3717 sayılı Adlî Personel ile Devlet Davalarını Takip Edenlere Yol Gideri ve Tazminat Verilmesi ile 492 Sayılı Harçlar Kanununun Bir Maddesinin Yürürlükten Kaldırılması Hakkında Kanunun 2/A maddesinin birinci fıkrasının birinci cümlesinde yer alan “Danıştay” ibaresinden sonra gelmek üzere “, Hâkimler ve Savcılar Yüksek Kurulu” ibaresi eklenmiştir.
+(5) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I) sayılı cetvele 6 ncı sırasından sonra gelmek üzere “7) Hâkimler ve Savcılar Yüksek Kurulu” ibaresi eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.
+(6) 13/5/1981 tarihli ve 2461 sayılı Hâkimler ve Savcılar Yüksek Kurulu Kanunu ile ek ve değişiklikleri yürürlükten kaldırılmıştır.
+(7) Mevzuatta, bu Kanunla yürürlükten kaldırılan 2461 sayılı Kanuna yapılan atıflar, bu Kanunun ilgili hükümlerine yapılmış sayılır.
