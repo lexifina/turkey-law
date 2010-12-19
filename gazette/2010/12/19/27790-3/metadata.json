@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-12-19",
+  "issue": "27790",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Millî Eğitim Bakanlığına Bağlı Fen Liseleri ve Sosyal Bilimler Liselerinin Öğretmenleri ile Güzel Sanatlar ve Spor Liselerinin Beden Eğitimi, Müzik ve Görsel Sanatlar/Resim Öğretmenlerinin Seçimi ve Atamalarına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101219-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101219.htm",
+  "index_sha256": "1d2d50ee1166e6fa007f24b0b9aeabc71c9eb34ce899d862226d1887ac789caf",
+  "index_header": "19 Aralık 2010 ... 27790 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
