@@ -1,0 +1,3 @@
+Laboratuarlar
+Madde 14-(2) Gruplar ve Alt Gruplara hizmet eden birimler olup, merkezin faaliyetleri içerisinde yer alan çeşitli analiz test, ölçüm ve üretimlerin gerçekleştirildiği yerlerdir. Merkez Yönetim Kurulu’nun önerisi ve Üniversite Yönetim Kurulu kararıyla kurulur. Laboratuarlar Merkez Müdürüne karşı sorumlu olan Laboratuar Şefi tarafından yönetilir.
+Laboratuar Şeflerinin Görevleri: laboratuarın yönetim ve denetimini sağlamak, çalışmaları planlamak, sağlıklı bir biçimde yürütmek, aletlerin bakım ve onarımını yaparak bunların çalışmalarını sağlamak, yeni makine techizat alımlarını planlamak ve tekliflerini hazırlamak, ihtiyaç duyulan malzemelerin temini için çalışmak.
