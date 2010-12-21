@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-12-21",
+  "issue": "27792",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2011 Yılı Tanıklık Ücret Tarifesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101221-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101221.htm",
+  "index_sha256": "66ddc4556b02dceb8a6e78886d4c2b7cc3bb5a992ff4e8ec42df454c165b8392",
+  "index_header": "21 Aralık 2010 ... 27792 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
