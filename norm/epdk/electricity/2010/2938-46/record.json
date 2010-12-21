@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2938/46",
+  "decision_date": "2010-12-21",
+  "title": "Elektrik Piyasası Kanunu Geçici 13 üncü maddesi kapsamında, ülke içerisinde oluşturulacak izole bölge besleme yöntemiyle elektrik enerjisi ithal edilebilmesine ilişkin sürenin 31/12/2012 tarihine kadar uzatılmasına",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NOEQSBZHb8U=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NOEQSBZHb8U="
+  ],
+  "source_sha256": "61805a4903aab9dcbb502ce0d22603fd51dbc8b3a7c172b16dab116208c6d0fe",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-12-21",
+  "law_text_complete": false
+}
