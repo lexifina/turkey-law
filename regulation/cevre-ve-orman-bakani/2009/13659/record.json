@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.13659",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖMRÜNÜ TAMAMLAMIŞ ARAÇLARIN KONTROLÜ HAKKINDA YÖNETMELİK",
+  "number": "13659",
+  "issuer": "Çevre ve Orman Bakanı",
+  "issuer_slug": "cevre-ve-orman-bakani",
+  "path": "regulation/cevre-ve-orman-bakani/2009/13659",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13659&MevzuatTertip=5",
+  "source_sha256": "7854fb20aeada650e3f50a3bcb06b502625cd908d0ca4f822ddbee781c584ffd",
+  "source_bytes": 86868,
+  "published": "2009-12-30",
+  "gazette": "27448",
+  "in_force": "2010-12-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/12/2010\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2010-12-21",
+      "RG-21/12/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-12-21",
+      "21/12/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3083,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.13659-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
