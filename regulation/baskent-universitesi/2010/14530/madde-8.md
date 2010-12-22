@@ -1,0 +1,3 @@
+Merkez müdürü
+MADDE 8 – (1) Merkez Müdürü; Rektör tarafından, Üniversitenin Nöroloji, Nöroşirürji veya Psikiyatri Anabilim Dalı öğretim üyeleri arasından üç yıl için seçilir ve görevlendirilir. Süresi biten Merkez Müdürü yeniden görevlendirilebilir. Merkez Müdürü, ihtiyaç halinde Yönetim kurulu üyelerinden birini Müdür Yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdürün görevi sona erdiğinde yardımcısının da görevi sona erer.
+(2) Merkez Müdürü; Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden ve sonuçların alınmasından, Rektöre karşı birinci derecede sorumludur.
