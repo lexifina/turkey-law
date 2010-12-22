@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.51.10.00-001.03-12",
+  "source_id": 29814,
+  "date": "2010-12-22",
+  "title": "İl Özel idaresi tarafından kaynak suyunun kiralanması işleminin genel oranda KDV'ye tabi olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29814",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "5c5cea7eecdc47f3144b945e1b94be4530a2001077a7aa6d20c06a6864391fea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
