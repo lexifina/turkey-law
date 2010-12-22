@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-12-22",
+  "issue": "27793",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "6088 Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunda Değişiklik Yapılması Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101222-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101222.htm",
+  "index_sha256": "ca30472e55c8141fee0c64708bd8c86faa7e1b6c3f3624ab78d1e8220b81644f",
+  "index_header": "22 Aralık 2010 ... 27793 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
