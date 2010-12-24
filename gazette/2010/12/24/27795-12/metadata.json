@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-12-24",
+  "issue": "27795",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "4703 Sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanunla Düzenlenmiş Olan İdari Para Cezalarının Yeni Değerlerinin Duyurulmasına İlişkin Tebliğ (No: 2011/13)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101224-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101224.htm",
+  "index_sha256": "c628fa0ba71eef369685d1774abcd02a917c38c864742219e7732fec7e4ac002",
+  "index_header": "24 Aralık 2010 ... 27795 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
