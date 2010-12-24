@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.14544",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TARIMSAL ÜRÜNLERDE İHRACAT İADESİ YARDIMLARINA İLİŞKİN PARA-KREDİ VE KOORDİNASYON KURULU TEBLİĞİ (TEBLİĞ NO: 2010/10)",
+  "number": "14544",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2010/14544",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14544&MevzuatTertip=5",
+  "source_sha256": "89221a54f7339ea54ff029e68ecf9e6ee972c7e4f72c34e96ebcf6ebd1fd0fe8",
+  "source_bytes": 120565,
+  "published": "2010-12-24",
+  "gazette": "27795",
+  "in_force": "2010-12-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.12.2010); own commencement article: \"Bu Tebliğ 01/01/2011 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 01/01/2011 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2529,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
