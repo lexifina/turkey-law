@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.14555",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE'DE ÜRETİLEN, İMAL EDİLEN VEYA MONTAJI YAPILAN CİHAZLARIN BİLDİRİMİNE DAİR TEBLİĞ",
+  "number": "14555",
+  "issuer": "Kurul Başkanı",
+  "path": "teblig/2010/14555",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14555&MevzuatTertip=5",
+  "source_sha256": "8a2d8b89d78d234720f660bfea3d68a83dc90a57894d1f0ad69bdaa788a465d3",
+  "source_bytes": 23312,
+  "published": "2010-12-25",
+  "gazette": "27796",
+  "in_force": "2010-12-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.12.2010); own commencement article: \"Bu Tebliğ hükümleri yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1152,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14555%20EKLER.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
