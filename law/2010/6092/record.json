@@ -1,0 +1,214 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6092",
+  "year": 2010,
+  "title": "2009 Yılı Merkezî Yönetim Kesin Hesap Kanunu",
+  "adopted": "2010-12-26",
+  "adopted_as_published": "26/12/2010",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "31.12.2010 No: 27802 (mük.)",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc095/kanuntbmmc095/kanuntbmmc09506092.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 95",
+  "committee_reports": [
+    {
+      "label": "TBMM 576 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c085/tbmm23085031ss0576.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 520084,
+      "title": "2009 Yılı Merkezî Yönetim Kesin Hesap Kanunu",
+      "adopted_as_published": "26/12/2010",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc095/kanuntbmmc095/kanuntbmmc09506092.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 576 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c085/tbmm23085031ss0576.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 85,
+          "sitting": 31,
+          "sitting_date": "2010-12-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c085/tbmm23085031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c085/tbmm23085fih.pdf",
+          "pages": [
+            "14:93",
+            "94:115",
+            "116:118"
+          ]
+        },
+        {
+          "cilt": 86,
+          "sitting": 32,
+          "sitting_date": "2010-12-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c086/tbmm23086032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c086/tbmm23086fih.pdf",
+          "pages": [
+            "7:29",
+            "34:38",
+            "40:96",
+            "97:108",
+            "109:199",
+            "200:222"
+          ]
+        },
+        {
+          "cilt": 86,
+          "sitting": 33,
+          "sitting_date": "2010-12-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c086/tbmm23086033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c086/tbmm23086fih.pdf",
+          "pages": [
+            "244:325",
+            "326:365",
+            "365:375"
+          ]
+        },
+        {
+          "cilt": 86,
+          "sitting": 34,
+          "sitting_date": "2010-12-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c086/tbmm23086034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c086/tbmm23086fih.pdf",
+          "pages": [
+            "423:474",
+            "477:529",
+            "529:559",
+            "559:568"
+          ]
+        },
+        {
+          "cilt": 86,
+          "sitting": 35,
+          "sitting_date": "2010-12-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c086/tbmm23086035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c086/tbmm23086fih.pdf",
+          "pages": [
+            "606:710",
+            "711:721",
+            "722:740"
+          ]
+        },
+        {
+          "cilt": 86,
+          "sitting": 36,
+          "sitting_date": "2010-12-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c086/tbmm23086036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c086/tbmm23086fih.pdf",
+          "pages": [
+            "748:871",
+            "872:884"
+          ]
+        },
+        {
+          "cilt": 87,
+          "sitting": 37,
+          "sitting_date": "2010-12-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c087/tbmm23087037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c087/tbmm23087fih.pdf",
+          "pages": [
+            "12:23",
+            "26:68",
+            "72:73",
+            "74:81",
+            "81:165"
+          ]
+        },
+        {
+          "cilt": 87,
+          "sitting": 38,
+          "sitting_date": "2010-12-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c087/tbmm23087038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c087/tbmm23087fih.pdf",
+          "pages": [
+            "205:231",
+            "232:245",
+            "247:376"
+          ]
+        },
+        {
+          "cilt": 87,
+          "sitting": 39,
+          "sitting_date": "2010-12-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c087/tbmm23087039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c087/tbmm23087fih.pdf",
+          "pages": [
+            "382:384",
+            "384:503",
+            "504:512",
+            "513:541 542:544"
+          ]
+        },
+        {
+          "cilt": 87,
+          "sitting": 40,
+          "sitting_date": "2010-12-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c087/tbmm23087040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c087/tbmm23087fih.pdf",
+          "pages": [
+            "565:587",
+            "592:623",
+            "624:644",
+            "644:680",
+            "688:708",
+            "709:738"
+          ]
+        },
+        {
+          "cilt": 87,
+          "sitting": 41,
+          "sitting_date": "2010-12-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c087/tbmm23087041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c087/tbmm23087fih.pdf",
+          "pages": [
+            "803:814",
+            "819:926",
+            "927:933"
+          ]
+        },
+        {
+          "cilt": 87,
+          "sitting": 42,
+          "sitting_date": "2010-12-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c087/tbmm23087042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c087/tbmm23087fih.pdf",
+          "pages": [
+            "1005:1042",
+            "1049:1103",
+            "1105:1114"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=548&v_gelecek_sayfa=401&v_kullanici_id=27483202",
+      "page_sha256": "9a33a98a23ad863f11c5b852137758cb7a0d4d0e3313a8f9dcfa3a69cfaa44aa"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9a33a98a23ad863f11c5b852137758cb7a0d4d0e3313a8f9dcfa3a69cfaa44aa",
+  "issuer": "TBMM",
+  "in_force": "2010-12-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 26/12/2010; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
