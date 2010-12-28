@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "2967/5",
+  "decision_date": "2010-12-28",
+  "title": "Dağıtıcı Lisansı Sahiplerinin Bayi Denetim Sistemine İlişkin Usul ve Esaslar Hakkındaki 27/06/2007 tarihli ve 1240 sayılı Kurul Kararı’nda Değişiklik Yapılmasına İlişkin Kurul Kararı",
+  "resmi_gazete_date": "2010-12-31",
+  "resmi_gazete_number": "27802",
+  "categories": [
+    "Petrol Piyasasında Dağıtıcı Lisansı Sahiplerinin Bayi Denetim Sistemine İlişkin Usul ve Esaslar Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FAOTg94LNqY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FAOTg94LNqY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sx57Si6HiCE="
+  ],
+  "source_sha256": "00398431c21aaca1be6da7c98cea5a7c98cf94894eb3e153ebda73fbd8869445",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 27577,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-12-28",
+  "law_text_complete": false
+}
