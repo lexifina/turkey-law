@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-12-28",
+  "issue": "27799",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Milli Emlak Genel Tebliği (Sıra No: 332)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101228-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101228.htm",
+  "index_sha256": "6e19cdba1c598d5869db77ee5585b868c2eddde05cc31acde63d5b0302646d88",
+  "index_header": "28 Aralık 2010 ... 27799 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
