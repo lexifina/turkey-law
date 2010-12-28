@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2989",
+  "decision_date": "2010-12-28",
+  "title": "ADM EDAŞ",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OGUj11LDqkw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OGUj11LDqkw="
+  ],
+  "source_sha256": "91862f6f9c044661b889e22d25006611e2b67f3be61299346e0e45fe55960557",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-12-28",
+  "law_text_complete": false
+}
