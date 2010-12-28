@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2974",
+  "decision_date": "2010-12-28",
+  "title": "01/01/2011 tarihinden itibaren uygulanmak üzere 03/11/2010 tarihi ve 2860 sayılı Kurul Kararı ile kabul edilen “Güvence Bedelleri ile Uygulamaya İlişkin Usul ve Esaslar”",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yyBRqTZk9EM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yyBRqTZk9EM="
+  ],
+  "source_sha256": "1cea450c4c8512055e9f217965cf475cd38d9e72788a59a0fb8ee5058a89c7cd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-12-28",
+  "law_text_complete": false
+}
