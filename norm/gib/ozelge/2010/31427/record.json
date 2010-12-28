@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.13-588",
+  "source_id": 31427,
+  "date": "2010-12-28",
+  "title": "Atik için ödenen vergilerden iade hakkı doğuran işlemlere istisna kapsamında kalan bölümüne pay verilebileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/596/ozelge/31427",
+  "related_law": "3316 sayılı 3065 SAYILI KATMA DEĞER VERGİSİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "22ec31d4b5e214be29b8510d2134955f7548a3741124283625f461607e37874d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
