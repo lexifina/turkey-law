@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2975",
+  "decision_date": "2010-12-28",
+  "title": "2011 Lisanssız Üretim Başvuru Bedeli",
+  "categories": [
+    "Geçiş Dönemi vb. Eski Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zBVsiibum78=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zBVsiibum78="
+  ],
+  "source_sha256": "bcc9f342c41ea3c873cc55a6b77719c7f60dcfb6044a8978ce58e8eab6ae3a68",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1913,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-12-28",
+  "law_text_complete": false
+}
