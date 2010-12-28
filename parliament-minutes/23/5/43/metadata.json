@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 23,
+  "legislative_year": 5,
+  "sitting": 43,
+  "sitting_date": "2010-12-28",
+  "listed_date": "28 Aralık 2010 Salı",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/23/5/43/5b8a9d66-f9f0-4d74-a376-adbc98a44994.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=bc61d182-94fe-476b-86fc-0185ceac6ff0",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=23&YasamaYili=5",
+  "source_sha256": "2b1fb9e17ec6d8b478033797ad323f544a07a4d82872ca5264c5dd5c3824cbb1",
+  "source_bytes": 763602,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
