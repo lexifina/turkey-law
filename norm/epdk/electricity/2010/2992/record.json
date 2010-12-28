@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "2992",
+  "decision_date": "2010-12-28",
+  "title": "EPDK Kurul Kararı 2992",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VdmfEbWY7LM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VdmfEbWY7LM="
+  ],
+  "source_sha256": "9e96aea547f0fe3b612f4c4c384fa761206ddec618e3f89c61236276e4a88abf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-12-28",
+  "law_text_complete": false
+}
