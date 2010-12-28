@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "2971",
+  "decision_date": "2010-12-28",
+  "title": "2011 yılı boyunca uygulanmak üzere, doğal gaz piyasası ile ilgili toptan satış tarifesi",
+  "resmi_gazete_date": "2010-12-31",
+  "resmi_gazete_number": "27802",
+  "categories": [
+    "Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y5z1zuro8+w=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y5z1zuro8+w="
+  ],
+  "source_sha256": "b942573d4b4d16a00287b71c89b4851d267f7236595a5200ae14c65ca16168da",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7233,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-12-28",
+  "law_text_complete": false
+}
