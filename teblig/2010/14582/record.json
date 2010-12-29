@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.14582",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 402)",
+  "number": "14582",
+  "path": "teblig/2010/14582",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14582&MevzuatTertip=5",
+  "source_sha256": "cf377b983cfc0c2bdee0b4e71e475152c11214c4411380edec4357556e8d101e",
+  "source_bytes": 7441,
+  "published": "2010-12-29",
+  "gazette": "27800 (6. Mükerrer)",
+  "in_force": "2010-12-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.12.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 169,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14582%20ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
