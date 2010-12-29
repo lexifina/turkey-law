@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.14575",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MOTORLU TAŞITLAR VERGİSİ GENEL TEBLİĞİ SERİ NO: 37",
+  "number": "14575",
+  "path": "teblig/2010/14575",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14575&MevzuatTertip=5",
+  "source_sha256": "c39c9763ef5c6fcb4cf80b17b8bd5c5cc3aea88c5b76b9bc9d282341a220b23a",
+  "source_bytes": 72397,
+  "published": "2010-12-29",
+  "gazette": "27800 (6. Mükerrer)",
+  "in_force": "2010-12-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.12.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 742,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
