@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3002",
+  "decision_date": "2010-12-29",
+  "title": "21 Dağıtım Şirketi İçin Tarife Uygulamalarına İlişkin Usul ve Esaslar",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Mn4HvUVlZNQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Mn4HvUVlZNQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/OwiExGZI7Y="
+  ],
+  "source_sha256": "75753498330d4fdaeb3985dd9ad9b5dbaff68030c7521df811f6c060daa963e0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2010-12-29",
+  "law_text_complete": false
+}
