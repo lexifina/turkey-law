@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.14579",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO : 63)",
+  "number": "14579",
+  "path": "teblig/2010/14579",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14579&MevzuatTertip=5",
+  "source_sha256": "08a5b44967f31123eb71c7c6408d16566d27cea34b65921cbd45bd773dbe0413",
+  "source_bytes": 12390,
+  "published": "2010-12-29",
+  "gazette": "27800 (6. Mükerrer)",
+  "in_force": "2010-12-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.12.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 239,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14579%20ekler.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
