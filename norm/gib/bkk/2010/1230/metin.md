@@ -1,0 +1,4 @@
+<p><strong><u>Karar Sayısı : 2010/1182</u>&nbsp; </strong></p>
+<p>193 sayılı Gelir Vergisi Kanununun 94 &uuml;nc&uuml; ve ge&ccedil;ici 67 nci maddelerinde ve 5520 sayılı Kurumlar Vergisi Kanununun 15 inci ve 30 uncu maddelerinde yer alan tevkifat oranları ile 6802 sayılı Gider Vergileri Kanununun 33 &uuml;nc&uuml; maddesinde yer alan banka ve sigorta muameleleri vergisi nispetleri hakkındaki ekli Kararın y&uuml;r&uuml;rl&uuml;ğe konulması; Maliye Bakanlığının 16/12/2010 tarihli ve 112954 sayılı yazısı &uuml;zerine, adı ge&ccedil;en Kanunların anılan maddelerine g&ouml;re, Bakanlar Kurulu'nca 20/12/2010 tarihinde kararlaştırılmıştır.</p>
+<p>&nbsp;</p>
+<p><a href="https://cdn.gib.gov.tr/api/gibportal-file/file/getFile?objectKey=MEVZUAT_BKK/2025/BKK_2010_1182.pdf" target="_blank" rel="noopener">Kararnamenin eki i&ccedil;in tıklayınız.</a></p>
