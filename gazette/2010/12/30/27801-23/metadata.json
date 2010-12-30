@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-12-30",
+  "issue": "27801",
+  "edition": "regular",
+  "item": 23,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2010/100)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101230-23.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101230.htm",
+  "index_sha256": "765587c2196cd8a6b3d2ad5d2404b6b165e4921ba2ce734a027646a05950bd8a",
+  "index_header": "30 Aralık 2010 ... 27801 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
