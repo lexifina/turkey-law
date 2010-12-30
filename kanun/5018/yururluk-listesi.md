@@ -30,3 +30,4 @@ Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayıl�
 6005 | (II) Sayılı Cetvel | 21/7/2010
 6009 | 69 | 1/8/2010
 6087 | (I) Sayılı Cetvel | 18/12/2010
+6093 | (II) Sayılı Cetvel | 30/12/2010
