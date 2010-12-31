@@ -1,0 +1,3 @@
+Müdür ve müdür yardımcısı
+MADDE 7 – (1) Müdür, Rektör tarafından Merkezin kuruluş amacına uygun bir bilim dalında tam gün çalışan Üniversite öğretim üyeleri arasından üç yıl süre ile görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir.
+(2) Rektör, Müdürün önerisi ile Müdüre çalışmalarında yardımcı olmak üzere Üniversite öğretim üyeleri arasından bir öğretim üyesini Müdür Yardımcısı olarak görevlendirir. Müdür Yardımcısı Merkezin Fakülteyi ilgilendiren faaliyetlerinin koordinasyonundan, yürütülmesinden, sonuçlandırılmasından ve yıllık faaliyet raporları başta olmak üzere Merkezle ilgili raporların hazırlanmasından Müdüre karşı sorumludur.
