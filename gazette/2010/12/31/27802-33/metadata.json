@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2010-12-31",
+  "issue": "27802",
+  "edition": "regular",
+  "item": 33,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 30/12/2010 Tarihli ve 2010/110 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101231-33.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2010/12/20101231.htm",
+  "index_sha256": "ed2e2e8d33e9074070490bdd6973602a46f1a447586b18a8cdcaebc6119c0744",
+  "index_header": "31 Aralık 2010 ... 27802 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
