@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.14608",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DEĞERLİ KAĞITLAR KANUNU GENEL TEBLİĞİ (SAYI: 2010/2)",
+  "number": "14608",
+  "path": "teblig/2010/14608",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14608&MevzuatTertip=5",
+  "source_sha256": "782914e2837c719b07283f79bf11397e3e888297f04ba97845dbea3bf7f4b40e",
+  "source_bytes": 22246,
+  "published": "2010-12-31",
+  "gazette": "27802",
+  "in_force": "2010-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2010)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 229,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
