@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.14605",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO:77)",
+  "number": "14605",
+  "issuer": "Gümrük Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2010/14605",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14605&MevzuatTertip=5",
+  "source_sha256": "56656ebaf80c792c0b234e2edeba49dfe7effdb2a84e38dcfb2829d751514598",
+  "source_bytes": 9176,
+  "published": "2010-12-31",
+  "gazette": "27802",
+  "in_force": "2011-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2011 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2011 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 285,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
