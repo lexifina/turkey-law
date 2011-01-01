@@ -1,0 +1,4 @@
+MADDE 1 – (1) 4077 sayılı Tüketicinin Korunması Hakkında Kanun’un değişik 22 nci maddesinde belirlenen usule göre Başbakanlık Türkiye İstatistik Kurumu tarafından bildirilen Üretici Fiyatları Endeksinde meydana gelen ortalama % 9,92 (dokuz virgül doksaniki) oranında artış esas alınarak 1/1/2011 tarihinden itibaren geçerli olmak üzere:
+a) 4077 sayılı Tüketicinin Korunması Hakkında Kanun’un değişik 22 nci maddesinin 5 ve 6 ncı fıkrasındaki tüketici sorunları hakem heyetlerinin kararlarının bağlayıcı olacağına ilişkin üst veya tüketici mahkemelerinde delil olacağına ilişkin alt parasal sınır 1.031,87 TL,
+b) 1/8/2003 tarihli ve 25186 sayılı Resmî Gazete’de yayımlanan Tüketici Sorunları Hakem Heyetleri Yönetmeliği’nin 5 inci maddesinin üçüncü fıkrasında, büyükşehir statüsünde bulunan illerde faaliyet gösteren il hakem heyetlerinin uyuşmazlıklara bakmakla görevli ve yetkili olmalarına ilişkin alt parasal sınır 2.693,78 TL,
+olarak tespit edilmiştir.
