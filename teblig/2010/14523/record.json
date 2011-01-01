@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.14523",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4077 SAYILI TÜKETİCİNİN KORUNMASI HAKKINDA KANUN’UN 25 İNCİ MADDESİNE GÖRE 2011 YILINDA UYGULANACAK OLAN İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ (TEBLİĞ NO : TRKGM-2010/2)",
+  "number": "14523",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "path": "teblig/2010/14523",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14523&MevzuatTertip=5",
+  "source_sha256": "a9490dff4352b7da41bec643bf60b455952ce14cb2e7d43e8d826b17607ab08d",
+  "source_bytes": 23336,
+  "published": "2010-12-18",
+  "gazette": "27789",
+  "in_force": "2011-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2011 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2011 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 193,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
