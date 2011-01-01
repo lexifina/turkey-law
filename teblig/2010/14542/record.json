@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.14542",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TEK TARAFLI KONTROL SİSTEMİ KAPSAMINDA KOTAYA TABİ TEKSTİL ÜRÜNLERİNE AİT KOTALARIN DAĞITIMI VE YÖNETİMİNE İLİŞKİN TEBLİĞ (2011/1)",
+  "number": "14542",
+  "issuer": "Dış Ticaret Müsteşarlığı'nın bağlı olduğu Bakan",
+  "path": "teblig/2010/14542",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14542&MevzuatTertip=5",
+  "source_sha256": "5d10dc8686cacad19bd5cf3290533d9947af8a8f86604bd9f9e4963e49cb5ce3",
+  "source_bytes": 10609,
+  "published": "2010-12-24",
+  "gazette": "27795",
+  "in_force": "2011-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2011 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2011 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 367,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14542%20ekler.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
