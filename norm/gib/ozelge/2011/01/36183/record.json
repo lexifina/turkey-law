@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-775 SK. 33. MD. 2010-53-8",
+  "source_id": 36183,
+  "date": "2011-01-06",
+  "title": "Kooperatif ile taşeron ve müteahhitler arasında düzenlenecek sözleşmelerin 775 sayılı Kanunun 33. Maddesi hükmü gereği damga vergisi ve noter harcı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36183",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "d50e0c9a59da457e0338b9dea454998d175d55ef582ce05a7c2848bf2f5d4ebc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
