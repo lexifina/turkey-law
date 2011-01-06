@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-01-06",
+  "issue": "27807",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2011/1239 Türkiye Halk Bankası Anonim Şirketince Esnaf ve Sanatkarlar Kredi ve Kefalet Kooperatifleri Kefaletiyle Esnaf ve Sanatkarlara Kredi Kullandırılmasına Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110106-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110106.htm",
+  "index_sha256": "a4a2dfc5466942571d0e69957e4ae5d9f6697de8bf37ea07c05bb3b98a947622",
+  "index_header": "6 Ocak 2011 ... 27807 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "aaf35fd520ecb8c520097010a78f4c7ae3d5062892508d2beb3ae504f10d0b8d",
+  "text_status": "text.txt as published"
+}
