@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "3007",
+  "decision_date": "2011-01-06",
+  "title": "31/01/2011 tarihinden itibaren LPG otogaz satışlarında; hizmet ve finansal promosyonlar hariç, hediye, eşantiyon, kampanya ve sair adlarla promosyon yapılmamasına ilişkin",
+  "resmi_gazete_date": "2011-01-13",
+  "resmi_gazete_number": "27814",
+  "categories": [
+    "LPG Piyasası Mülga Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ym5nD62fc/Y=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ym5nD62fc/Y="
+  ],
+  "source_sha256": "7253cc762393c6e12eac43b7dd8370758c228b0990dae3a2f632eb0a905f5549",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5102,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-01-06",
+  "law_text_complete": false
+}
