@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-01-07",
+  "issue": "27808",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2010/108)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110107-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110107.htm",
+  "index_sha256": "ab3bf9ac710b4107f0f46defe6ee8e3e955a2bf9d60eb809b9e8e9dd57e2c19b",
+  "index_header": "7 Ocak 2011 ... 27808 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
