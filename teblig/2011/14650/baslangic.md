@@ -1,0 +1,2 @@
+TÜRK GIDA KODEKSİ PİRİNÇ TEBLİĞİ
+(TEBLİĞ NO: 2010/60)
