@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6089",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Arap Devletleri Ligi Arasında Türkiyede Bir Misyon İhdas Edilmesine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-01-08",
+  "gazette_issue": "27809",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110108-1.htm",
+  "source_sha256": "d3b73ff477f84f96cff8f62141ef9373c9c39b0b48dfff4bdfb0991fb83cab8d",
+  "text_sha256": "d604ae78cc8ae2a9535992b0459ce4c7f73b1baf6ca13e15fc4b038bdb48b694",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/01/08/27809-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110108-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
