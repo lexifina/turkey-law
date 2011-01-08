@@ -1,3 +1,3 @@
 Yaptırımlar
-MADDE 10 — Bu Kanunun 6 ncı maddesi hükümlerine aykırı faaliyet gösteren perakende satış lisans sahibi tüzel kişilere EPDK tarafından ikiyüzelli milyar TL idari para cezası verilir ve aykırılığın altmış gün içinde giderilmesi ihtar edilir.
-Yukarıdaki para cezasını gerektiren fiillerin ihtara rağmen düzeltilmemesi veya tekrarlanması halinde para cezaları her defasında bir önceki cezanın iki katı oranında artırılarak uygulanır. Bu cezaların verildiği tarihten itibaren iki yıl içinde idarî para cezası verilmesini gerektiren aynı fiil işlenmediği takdirde önceki cezalar tekrarda esas alınmaz. Ancak aynı fiil iki yıl içinde işlendiği taktirde artırılarak uygulanacak para cezasının tutarı cezaya muhatap tüzel kişinin bir önceki mali yılına ilişkin bilançosundaki gayrisafi gelirinin yüzde onunu aşamaz. Cezaların bu düzeye ulaşması halinde EPDK, lisansı iptal edebilir.
+MADDE 10 — (Değişik: 29/12/2012-6094/6 md.)
+Bu Kanunun 6 ve 6/A maddelerine aykırı faaliyet gösterdiği tespit edilenler hakkında, 4628 sayılı Kanunun 11 inci maddesi hükümleri uygulanır.
