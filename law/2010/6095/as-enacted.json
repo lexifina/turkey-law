@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6095",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti ile Filipinler Cumhuriyeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-01-08",
+  "gazette_issue": "27809",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110108-4.htm",
+  "source_sha256": "adf06cb3d5829cada9ed88733ee0a964e759ec98699d17b866f3dcddb94e3e1d",
+  "text_sha256": "c1c9a0a5b57f33bad44ea8a91d8188fef965603401533fbf10b1e41454d9b9f5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/01/08/27809-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110108-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
