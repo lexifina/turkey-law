@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 − (1) Bu Yönetmelikte geçen;
+a) AB: Avrupa Birliğini,
+b) Başkan: Tarım ve Kırsal Kalkınmayı Destekleme Kurumu Başkanını,
+c) Bütçe yılı: Her yılın Ocak ayının birinci gününden, Aralık ayının son gününe kadar geçen zaman dilimini,
+ç) Çerçeve Anlaşma: Avrupa Komisyonu ve Türkiye Cumhuriyeti arasında imzalanan, AB Katılım Öncesi Yardım Aracının tüm bileşenlerine ilişkin ve bu araca ilişkin Uygulama Tüzüğü temelinde taraflar arasındaki işbirliği prensiplerini ortaya koyan anlaşmayı,
+d) Çok Yıllık Gösterge Planlama Belgesi: Türkiye Cumhuriyeti Hükümeti ve Avrupa Komisyonu tarafından işbirliği içerisinde hazırlanan ve Türkiye Cumhuriyeti için ayrılan yardım fonunun AB Katılım Öncesi Yardım Aracı bileşenleri altında gerçekleştirilecek faaliyetler ve temel önceliklere göre dağılımını gösteren belgeyi,
+e) Denetim Otoritesi: Katılım Öncesi Yardım Aracının yönetim ve kontrol mekanizmalarının işlerliği ve etkinliğini denetlemek üzere görevlendirilen Hazine Kontrolörleri Kurulunu,
+f) Faydalanıcı: Proje başvurusu kabul edilen başvuru sahibini,
+g) IPA: AB Katılım Öncesi Yardım Aracını,
+ğ) IPARD: AB Katılım Öncesi Yardım Aracının Kırsal Kalkınma Bileşenini,
+h) IPARD avro hesabı: Avrupa Komisyonunun gönderdiği ödemeleri almak ve sadece IPARD Programına ilişkin işlemlerde kullanılmak üzere, Ulusal Fon tarafından Türkiye Cumhuriyeti adına, IPA Kırsal Kalkınma Bileşeni için açılan faiz işleten banka hesabını,
+ı) Kurum: Tarım ve Kırsal Kalkınmayı Destekleme Kurumunu,
+i) Ortak finansman: AB ve Türkiye Cumhuriyetinin bir proje için öngörülen kamu katkısını birlikte finanse etmesini,
+j) Program: IPARD Programını,
+k) Sektörel Anlaşma: Türkiye Cumhuriyeti Hükümeti ve Avrupa Komisyonu arasında Türkiye Cumhuriyetine yönelik AB mali yardımına ilişkin işbirliği ve katılım öncesi yardım aracı beşinci bileşeni-kırsal kalkınma bileşeni- kapsamındaki yardımın uygulanması için kurallar hakkında anlaşmayı,
+l) Sözleşme: Faydalanıcı ile Kurum arasında yapılan hibe sözleşmesini,
+m) Ulusal Fon: Ulusal Yetkilendirme Görevlisinin sorumluluğu altında, Katılım Öncesi Yardım Aracı çerçevesinde sağlanacak yardımların mali yönetimi ile görevli olan Hazine Müsteşarlığı birimini,
+n) Ulusal Yetkilendirme Görevlisi: AB’den sağlanacak fonların mali yönetimi, işlemlerin mevzuata uygunluğu ile yönetim ve kontrol sistemlerinin etkin işlemesinden sorumlu olan Hazine Müsteşarını,
+ifade eder.

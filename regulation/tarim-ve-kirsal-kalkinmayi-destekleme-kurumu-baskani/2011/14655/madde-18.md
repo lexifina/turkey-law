@@ -1,0 +1,3 @@
+Finansman kesinti usulü
+MADDE 18 − (1) Finansman kesintisi konusunda herhangi bir karar alınmadan önce, Ulusal Yetkilendirme Görevlisi bilgilendirilir ve iki ay içinde konuya ilişkin görüşünü bildirmesi talep edilir.
+(2) Türkiye Cumhuriyetine, ilgili dokümanların incelenmesi yoluyla düzensizliğin gerçek boyutunu ortaya koyması için imkan tanınır. Avrupa Komisyonu ile yapılacak anlaşma çerçevesinde Türk tarafı, incelenecek dokümanların belirli bir oran ile sınırlandırılması ya da örnekleme yapılması yoluyla, incelemenin belli bir düzeyde tutulmasını sağlayabilir. Usulünce gerekçelendirilen durumların haricinde, sözkonusu inceleme için izin verilen süre, birinci fıkrada belirtilen iki aylık süreyi takip eden iki ayı geçemez.
