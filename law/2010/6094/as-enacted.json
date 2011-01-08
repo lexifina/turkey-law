@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6094",
+  "year": 2010,
+  "title": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanunda Değişiklik Yapılmasına Dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-01-08",
+  "gazette_issue": "27809",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110108-3.htm",
+  "source_sha256": "cde3203b634037552ecf77dd023dedcb377336158af9550f75e2d9293eac6659",
+  "text_sha256": "ab54535c4da8d3befd756099f05dce7f7d23214c9c03c91496cdfd4488b7fc41",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/01/08/27809-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110108-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
