@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6096",
+  "year": 2010,
+  "title": "Türkiye Cumhuriyeti ile Kanada Arasında Gelir ve Servet Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-01-08",
+  "gazette_issue": "27809",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110108-5.htm",
+  "source_sha256": "0741607e61585f8844b975c4cbad25f568eed77dd5c9f84e7af2c7d102031edb",
+  "text_sha256": "8cefcd01e01db5d87b3c6911cb5451effe07f746f2fb6abadec2752a8946330a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/01/08/27809-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110108-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
