@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.14654",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIM VE KIRSAL KALKINMAYI DESTEKLEME KURUMUNUN AKREDİTASYONU VE AKREDİTASYON KRİTERLERİNİN UYGULANMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "14654",
+  "issuer": "Tarım ve Kırsal Kalkınmayı Destekleme Kurumu Başkanı",
+  "issuer_slug": "tarim-ve-kirsal-kalkinmayi-destekleme-kurumu-baskani",
+  "path": "regulation/tarim-ve-kirsal-kalkinmayi-destekleme-kurumu-baskani/2011/14654",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14654&MevzuatTertip=5",
+  "source_sha256": "88e978afe9387c3356f662d8596aa1e0e31ce04d83e945e5809d15cb01b68bd5",
+  "source_bytes": 67740,
+  "published": "2011-01-08",
+  "gazette": "27809",
+  "in_force": "2011-01-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.01.2011); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4402,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

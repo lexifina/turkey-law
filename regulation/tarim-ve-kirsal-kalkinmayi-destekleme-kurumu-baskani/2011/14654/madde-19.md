@@ -1,0 +1,4 @@
+Bilgi sisteminin güvenliği
+MADDE 19 – (1) Tüm verilerin gizlilik, bütünlük ve ulaşılabilirliğini sağlamak üzere, bilgi ve iletişim teknolojisi konusunda onaylanmış bir strateji temeline dayanan geniş kapsamlı bir bilgi teknolojileri güvenlik politikası geliştirilir:
+a) Bilgi sistemleri güvenliği, ISO 17799 sayılı Uluslararası Standardizasyon Örgütü ISO/7799 sayılı İngiliz Standardı: Bilgi Güvenliği Yönetimi BS ISO/IEC 17799 kriterlerinin söz konusu yılda uygulanan sürümüne ve Avrupa Komisyonu tarafından bu standartların uygulamasına yönelik olarak çıkarılan rehberlere dayanır.
+b) Güvenlik önlemleri, yönetim ve kontrol sistemlerinin her bir yapısına, yetkilisine veya biriminin idari yapısına, personeline ve teknolojik yapısına uyarlanır. Finansal ve teknolojik çaba maruz kalınan riskler ile orantılı olur.
