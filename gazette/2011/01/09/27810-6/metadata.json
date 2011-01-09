@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-01-09",
+  "issue": "27810",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Ağaçlandırma, Erozyon Kontrolü ve Silvikültür İşlerinde Birim Fiyat Usulü ile Hizmet Alımlarına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110109-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110109.htm",
+  "index_sha256": "f8b57d69402cc53a9f4e8a2a45f7a938a9b4760a050db56f74c9a12898b2180e",
+  "index_header": "9 Ocak 2011 ... 27810 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
