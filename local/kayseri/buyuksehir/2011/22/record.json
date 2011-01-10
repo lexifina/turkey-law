@@ -1,0 +1,24 @@
+{
+  "number": "22",
+  "number_as_published": "Karar No : 22",
+  "year": 2011,
+  "title": "Talas Belediyesinin, Reşadiye Mahallesi, 14 pafta, 2575 parselde NİP.",
+  "decision_date": "2011-01-10",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/10-ocak-2011-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "f4962be55d7dbcac07754892d59bea5c30308049a0bfac435a3552461837020f",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2011-01-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.01.2011 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "10 Ocak 2011 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=16",
+  "subject_published": true
+}
