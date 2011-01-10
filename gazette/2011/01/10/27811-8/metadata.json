@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-01-10",
+  "issue": "27811",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "2011 Yılı Merkezi Yönetim Bütçe Uygulama Tebliği (Sıra No: 3)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110110-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110110.htm",
+  "index_sha256": "b4427b4a4252013e2296fcb9f5da6533880c7bf8e5e6851d5ffab59bfa8ffa13",
+  "index_header": "10 Ocak 2011 ... 27811 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
