@@ -1,0 +1,2 @@
+Madde 199 – Hayvan alım satımında kefalet müddeti tahirren tayin edilmemiş olupta kefalet hayvanın bir vasfına müteallik değil ise mebide keşfedilen ayıptan bayiin mesuliyeti, teslim vakı olduğu veya müşterinin kabızda temerrüdü tahakkuk ettiği günden itibaren dokuz gün içinde bayie ihbar edilmekle beraber hayvanın ehli vukuf marifetiyle muayenesinin icrası yine bu müddet zarfında merciinden talep olunmasına mütevakkıftır.
+Hakim, ehli vukuf raporunu serbestçe takdir eder.

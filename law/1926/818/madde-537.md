@@ -1,0 +1,3 @@
+II - Hitamın şirket işlerine tesiri
+Madde 537 – Şirket ihbardan başka bir suretle fesih edilirse,bir şerikin şirket işlerini idare hususundaki selahiyeti,feshe muttali olduğu yahut halin icabettiği itinayı sarfettiği halde muttali olması lazımgelen zamana kadar, kendi hakkında devam eder. Şirket şeriklerinden birinin ölümiyle münfesih olursa ölen şerikin mirasçısı, diğer şerikleri derhal bundan haberdar etmekle mükelleftirler. Mirasçı lüzumlu olan tedbirlerin ittihazına kadar ölen şerikin evvelce de idare etmekte olduğu işlere hüsnüniyet kaideleri dairesinde devam eder.
+Diğer şerikler dahi muvakkaten şirket işlerini aynı suretle idarede devam ederler.

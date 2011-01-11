@@ -1,0 +1,2 @@
+2 – Kıymetli eşya
+Madde 479 – Kıymetli eşya veya oldukça ehemmiyetli miktarda para veya kıymetli evrak, otelci veya hancıya emanet edilmemiş ise otelci veya hancı ancak kendisinin veya müstahdemlerinin kusuru halinde mesul olur. Emaneten kabul etmiş veya kabulden imtina etmiş ise mesuliyeti mahdut değildir. Yolcunun kendi nezdinde saklayabilmesi lazımgelen eşya veya nakit ve emsalinde, yolcunun sair eşyası hakkındaki mesuliyet kaidesi tatbik olunur.

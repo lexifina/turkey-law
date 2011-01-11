@@ -1,0 +1,4 @@
+Madde 360 – Yapılan şey iş sahibinin kullanamıyacağı ve nısfet kaidesine göre kabule icbar edilemiyeceği derecede kusurlu veya mukavele şartlarına muhalif olursa, iş sahibi, o şeyi kabulden imtina edebilir; bu hususta mütaahhidin taksiri bulunursa zarar ve ziyan da isteyebilir.
+İşin kusurlu olması veya mukaveleye muhalif bulunması yukarıki derecede ehemmiyeti haiz değil ise iş sahibi, işin kıymetinin noksanı nispetinde fiatı tenzil ve eğer o işin ıslahı büyük bir masrafı mucip değil ise mütaahhidi tamire mecbur edebilir. Bu hususta mütaahhidin taksiri varsa iş sahibi zarar ve ziyan da istiyebilir.
+Yapılan şey iş sahibinin arsası üzerine yapılmış olup da mahiyeti itibariyle refi ve kal'ı fazla bir zararı mucip ise iş sahibi, ancak ikinci fıkra mucibince muamele yapar.
+c) İş sahibinin mesuliyeti

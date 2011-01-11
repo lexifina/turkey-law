@@ -1,0 +1,3 @@
+3 – İkrahın şartları
+Madde 30 – İkrah olunan taraf, hal ve mevkiine nazaran kendisinin yahut yakın akrabasından birinin hayat veya şahıs veya namus yahut malları ağır ve derhal vukubulacak bir tehlikeye maruz olduğuna kanaat getirdiği takdirde ikrah, muteber addolunur.
+Bir hakkın veya kanuni salahiyetin isteneceği ve kullanılacağı tehdidi ile müzayakaya düçar olan kimsenin yaptığı akit, tehdit eden için fahiş menfaatler temin etmiyorsa; bu tehdit, ikrahı muteber addolunmaz. Fakat fahiş menfaatler istihsali için tehdit olunan tarafın müzayaka halinde bulunmasından istifade olunmuş olursa bu korku nazara alınır.

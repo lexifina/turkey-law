@@ -1,0 +1,2 @@
+III - Sükut ile tecdit :
+Madde 287 – İcar, muayyen bir müddet için akdolunupta bu müddetin hitamında mucirin malumatiyle ve muhalefeti olmaksızın mecurun istimaline devam olunduğu yahut mukavelede fesih hakkında gösterilen ihbarı iki taraftan hiç biri yapmadığı takdirde; hilafına mukavele yok ise, bir senelik bir müddetin hitamından altı ay evvel ihbar suretiyle fesholununcaya kadar seneden seneye akit tecdit edilmiş sayılır.

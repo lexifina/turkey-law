@@ -1,0 +1,3 @@
+I - Adi kefalet:
+Madde 486 – Adi kefaletten kefilin borç ile mutalip olması ancak kefalet akdinden sonra borçlunun iflas etmesi veya hakkında takibat icra olunupta alacaklının hatası olmaksızın semeresiz kalması yahut borçlu aleyhinde Türkiye'de takibat icrasının imkansız hale gelmesi ile meşruttur.
+Alacaklının alacağı kefaletten evvel yahut aynı zamanda rehin ile temin olunmuş olduğu takdirde, adi kefalette kefil borcun evvelemirde merhundan istifa olunmasını talep edebilir. Fakat borçlu müflis ise yahut borçlunun iflası ilan olunmadıkça rehenin nakde tahvili kabil olmazsa bu hüküm cerayan etmez.

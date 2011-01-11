@@ -1,0 +1,3 @@
+II - Masraftan mütevellit haklar
+Madde 64 – Müddeaaleyhin, yaptığı zaruri yahut faideli masrafları istirdada salahiyeti vardır. Müddeaaleyh, o şeyi kabzettiği zaman suiniyet ile hareket etmiş ise yaptığı faideli masraflardan iade zamanında halen mevcut olan fazlalık nisbetindeki miktarı kendisine tediye olunur. Diğer masraflardan dolayı müddeaaleyhin, bir güna tazminat talebine hakkı yoktur. Fakat iadeden evvel kabzolunan şey ile birleştirilmiş olan ziyadeyi, o şeye zarar vermeksizin tefrik kabil olduğu ve müddeide masrafların bedelini teklif etmediği takdirde ilave olunan ziyadeyi ref edebilir.
+(C) İSTİRDADIN CAİZ OLMAMASI

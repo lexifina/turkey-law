@@ -1,0 +1,1 @@
+Madde 414 – Kendi menfaati için yapılmamış olsa bile iş sahibi yapılan işten hasıl olan faydaları temellük etmek hakkını haizdir. Temellük ettiği faydalara göre, işi yapan kimsenin masrafını tazmin ve yapmış olduğu taahhütlerden onu tahlis eder.

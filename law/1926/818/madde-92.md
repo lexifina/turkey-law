@@ -1,0 +1,2 @@
+Madde 92 – Akdin mevzuu olan şeyin mahiyeti veya işin nevi tevdia mani olur veya verilecek şey bozulmağa maruz veya muhafazası masrafı mucip veya tevdii büyük masrafları müstelzim olur ise borçlu evvelen ihtarda bulunduktan sonra hakimin izniyle onu alenen sattırarak bedelini tevdi edebilir. Verilecek şey borsada mukayyet veya cari fiatı mevcut veya masraflarına nispetle kıymeti az ise satışın aleni olması lazım olmadığı gibi ihtara lüzum görmeksizinde hakim, satışa müsaade edebilir.
+c) Tevdi edilen şeyin isdirdadı

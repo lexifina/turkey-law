@@ -1,0 +1,1 @@
+Madde 309 – Ödünç alan kimsenin verilecek şeyin teslim edilmesine ve ödünç verenin dahi o şeyin tesellüm edilmesine dair olan iddiaları, diğer tarafın bu baptaki temerrüdünden itibaren altı ay geçmekle müruru zamana uğrar.

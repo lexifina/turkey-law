@@ -1,0 +1,2 @@
+IV - İtiraz ve tenkis
+Madde 515 – Kaydıhayat ile bakma mukavelesi alacaklının kanunen infaka mecbur olduğu kimselere karşı bu mükellefiyetin ifasını temin eden vasıtaların elinden çıkmasını mucip olursa bu kimseler tarafından mezkür mukaveleye itiraz olunabilir. Hakim, bu mukaveleyi feshedeceği yerde borçluyu hak sahiplerine nafaka vermeğe icbar edebilir ve bunlara verilen nafakalar alacaklıya verilmesi lazım gelen şeylerle mahsup edilir. Bundan maada mirasçıların tenkıs talepleri ve alacaklıların fesih davaları hakkı mahfuzdur.

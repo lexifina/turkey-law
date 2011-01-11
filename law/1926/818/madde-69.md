@@ -1,0 +1,2 @@
+2 – Taksim kabil olmıyan borç
+Madde 69 – Borç, taksim edilemediği ve alacaklılar birden ziyade olduğu takdirde bunlardan her biri borcun tamamen ifasını isteyebilir. Borçlu hepsine karşı borcunu vermeye mecburdur. Borçlular birden ziyade ise her biri taksimi kabil olmayan borcun tamamını vermekle mükelleftir. Halin icabından hilafı anlaşılmadıkça, veren borçlu, kendisiyle müştereken borçlu olanlara hisseleriyle rücu hakkını haiz ve bu nispette alacaklının haklarına halef olur.

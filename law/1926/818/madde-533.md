@@ -1,0 +1,2 @@
+I - Temsil
+Madde 533 – Şirket hesabına ve kendi namına bir üçüncü şahıs ile muameleye girişen şerik, bu üçüncü şahsa karşı yalnız kendisi alacaklı ve borçlu olur. Şirket veya bütün şerikler namına üçüncü bir şahıs ile şeriklerden biri muameleye giriştiği halde diğer şerikler ancak temsil hakkındaki hükümlere tevfikan üçüncü şahsın alacaklı veya borçlusu olurlar. Kendisine idare vazifesi tahmil edilen şerik şirketi ve bütün şerikleri üçüncü şahıslara karşı temsil etmek hakkını haiz sayılır.

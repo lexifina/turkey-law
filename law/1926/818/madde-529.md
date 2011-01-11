@@ -1,0 +1,2 @@
+VI - İdare salahiyetinin nezi ve tahdidi
+Madde 529 – Şirket mukavelesiyle şeriklerden birine verilen idare salahiyeti, muhik bir sebep olmaksızın diğer şerikler tarafından ne nezi ne de tahdit olunabilir. Şirket mukavelesinde diğer bir hüküm mevcut olsa bile haklı bir sebep bulunduğu takdirde, diğer şeriklerden herbiri, idare salahiyetini nezi ettirebilir. Hususiyle şirketi idare eden şerikin vazifelerini fahiş bir surette ihmal etmesi yahut iyi idare için lazım olan ehliyeti zayi eylemesi keyfiyetleri haklı sebep olmak üzere nazara alınabilir.

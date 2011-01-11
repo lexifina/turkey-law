@@ -1,0 +1,1 @@
+Madde 15 – İmza vaz'ına muktedir olmıyan bir şahıs, imza yerine usulen tasdik olunmuş ve el ile yapılmış bir alamet vazetmeğe yahut resmi bir şahadetname kullanmağa mezundur. Kambiyo poliçesine müteallik hükümler mahfuzdur.
