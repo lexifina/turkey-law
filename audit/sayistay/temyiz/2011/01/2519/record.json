@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "32728",
+  "decision_date": "2011-01-11",
+  "source_id": 2519,
+  "chamber": "3",
+  "file_number": "30943",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2519/",
+  "source_sha256": "1775a98a91ddb028841c8c4d6456bb41cf6650e01f4d39deacae72fd95624219",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
