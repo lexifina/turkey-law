@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.14668",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2011/1)",
+  "number": "14668",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2011/14668",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14668&MevzuatTertip=5",
+  "source_sha256": "a233576a3b60e7c04721f3e511018eb53784d873e8559217975f73af68a88adc",
+  "source_bytes": 18875,
+  "published": "2011-01-13",
+  "gazette": "27814",
+  "in_force": "2011-01-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.01.2011); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 774,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14668%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
