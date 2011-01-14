@@ -1,0 +1,61 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2011/2",
+  "date": "2011-01-14",
+  "title": "SPK Haftalık Bülteni 2011/2",
+  "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_2.pdf",
+  "source_sha256": "126fa4eb214cb3fb89080364c150d94bbcc05197c803b90f073f4dce95ca393e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. YENİ FAALİYET İZNİ",
+    "F. ÖZEL DURUMLAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 03.01.2011 – 14.01.2011 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_2.pdf"
+    },
+    {
+      "heading": "B. 03.01.2011 – 14.01.2011 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_2.pdf"
+    },
+    {
+      "heading": "C. 10.01.2011 – 14.01.2011 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Açılmanın Türü",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_2.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_2.pdf"
+    },
+    {
+      "heading": "E. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_2.pdf"
+    },
+    {
+      "heading": "F. ÖZEL DURUMLAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_2.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
