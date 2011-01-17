@@ -1,0 +1,3 @@
+Çalışma ve uygulama birimleri
+MADDE 13 – (1) Merkezde kurulacak çalışma ve uygulama birimleri ve bunların çalışmalarında kullanılacak laboratuvar, atölye ve benzeri alt birimler, Merkez Müdürünün önerisi, Üniversite Yönetim Kurulunun olumlu görüşü ile Rektör tarafından belirlenir.
+(2) Birimlerde görev alacak öğretim ve araştırma elemanlarının görevlendirilmesi Merkez Müdürünün önerisi, Üniversite Yönetim Kurulunun olumlu görüşü ile Rektör tarafından yapılır. Merkez Müdürü bu elemanlardan birinin birim yöneticisi olmasını Rektöre önerir. Birim yöneticileri bağlı olduğu Merkez Müdürüne ve Merkez Yönetim Kuruluna karşı planlanmış ve onaylanmış birim çalışmalarından dolayı sorumludur.
