@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "32781",
+  "decision_date": "2011-01-18",
+  "source_id": 3138,
+  "chamber": "7",
+  "file_number": "31935",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/3138/",
+  "source_sha256": "ff704a1005ced8f3cfe285402d16edb93620dc79aaabd90fad267478480d6cf3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
