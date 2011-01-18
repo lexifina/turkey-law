@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.14681",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU SOSYAL TESİSLERİNE İLİŞKİN TEBLİĞ (SAYI: 2011-4)",
+  "number": "14681",
+  "path": "teblig/2011/14681",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14681&MevzuatTertip=5",
+  "source_sha256": "e65df33c0e817171599353cd888e4c77da89ca04022ed39e581d8b6a83799b84",
+  "source_bytes": 30137,
+  "published": "2011-01-18",
+  "gazette": "27819",
+  "in_force": "2011-01-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.01.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1808,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
