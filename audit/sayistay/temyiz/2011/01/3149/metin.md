@@ -1,0 +1,69 @@
+TEMYİZ KURULU KARARI
+
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü:
+
+1) 862 sayılı ilamın 1’inci maddesinde, Belediyenin ihtiyacı olan Belediyesinin ihtiyacı olan 3 adet yol süpürme aracının Devlet Malzeme Ofisi aracılığıyla satın alınması sırasında %4 oranında Özel Tüketim Vergisinin (ÖTV) de ödenmesi suretiyle kamu zararına sebebiyet verildiği için  toplam 32.237,70 –YTL’na tazmin hükmolunmuştur.
+
+Dilekçi dilekçesinde, Belediyece ihtiyaç duyulan 3 adet Johnston VT650 yol süpürme aracı alımı için Devlet Malzeme Ofisinden talepte bulunulduğunu,  DMO’ nun bildirdiği meblağı yatırmak suretiyle bu alımın gerçekleştiğini,  Devlet Malzeme Ofislerinden alınan tüm benzeri alım işlerinin bu şekilde yapılmakta olup önceden yatırılan meblağda hangi unsurların yer aldığı detayı yer almadığını,  Dolayısıyla söz konusu satış işleminde, yatırılan meblağda ÖTV bedelinin yer aldığı hususu ancak sonradan bildirilen fiyat tablosundan anlaşılabildiğini, bu hususun öğrenilmesi ile ilgili kurum ile Belediye arasında defalarca yazışmalar olduğunu, ÖTV Bedelinin ödenmemesi gerektiği, ödenen bu miktarın Belediye hesaplarına yatırılmasının talep edildiğini, Ancak DMO. nun ekteki 08.02.2007 tarih ve 957 sayılı yazısından da anlaşılacağı üzere tarafımızca alınan araçların kamyona monteli olmaları gerekçe gösterilerek söz konusu araçların ÖTV bedelinin ödenmesinin zorunlu olması nedeniyle tahakkuk ettirildiğinin açıklandığını,  Kaldı ki konu hakkında DMO ile oluşan bu anlaşmazlığın yargı alanına taşındığını ve  halen hukuksal sürecin devam ettiğini,  Dolayısıyla hukuki bir tartışmanın konusu olan ilama konu olayda, yargı sürecinin beklenmesi dikkate alınmayarak kişi borcu çıkarılmasının  haksız olduğunu belirterek tazmin hükmünün kaldırılmasını talep etmektedir.
+
+Sayıştay Savcılığı, “İleri sürülen gerekçeler doğrultusunda Daire Kararının bozularak ilgililerin aklanması” şeklinde görüş bildirmiştir.
+
+4760 sayılı Özel Tüketim Vergisi Kanununun ilamda da yeralan hükümleri uyarınca trafik siciline kayıt ve tescil zorunluluğu bulunmayan yol süpürme araçları özel tüketim vergisine dahil olmamakla birlikte DMO’ nun yazısında alınan araçların kamyona monteli olmaları gerekçe gösterilerek söz konusu araçların ÖTV bedelinin ödenmesinin zorunlu olması nedeniyle tahakkuk ettirildiği belirtilmektedir. Bunun yanısıra, dilekçiler tarafından sorgu konusu yapıldıktan sonra özel tüketim vergisinin iadesi için gerekli girişimlerde bulundukları ve DMO ile anlaşamayınca konunun yargıya taşındığı belirtilmektedir. Açıklanan  nedenlerle dilekçi iddialarının kabulü ile 862 sayılı ilamın 1’inci maddesinde,  toplam 32.237,70 –YTL’na dair tazmin hükmünün KALDIRILMASINA,
+
+2) 862 sayılı ilamın 2’nci maddesinde, Sincan Belediyesi Spor Kulübüne belediye bütçesinden nakdi yardımda bulunulması suretiyle kamu zararına sebebiyet verildiği için  toplam 150.000 –YTL’na tazmin hükmolunmuştur.
+
+Dilekçi dilekçesinde, Sincan Belediye spor kulübünün amatör olarak futbol, boks halter ve badminton spor dallarında faaliyet gösterdiğini,  Her yıl bu branşlarda yazın yaz spor okulları açılarak çocukların kötü alışkanlıklardan kurtarıp sağlıklı bir toplum olmalarına yardımcı olduklarını,  Yıllık bütçede belirtilen oranları aşmamak kaydıyla kulübün ihtiyacı olan yiyecek, içecek ve gerekli malzemelerin Belediye tarafından karşılandığını, Belediye bünyesinde Sincan'ın tek amatör kulübü olarak kurulduğunu,  profesyonel olmadığını,  5393 sayılı Belediye Kanunun unda Belediyenin görev, Yetki ve sorumlulukları arasında olan ve 14.maddesinin a)bendinde Belediye gençlik ve spor; sosyal hizmet ve yardım, nikah, meslek ve beceri kazandırma; ekonomi ve ticaretin geliştirilmesi hizmetlerini yapar. b)bendinde Gerektiğinde, öğrencilere, amatör spor kulüplerine malzeme verir ve gerekli desteği sağlar, her türlü amatör spor karşılaşmaları düzenler, yurt içi ve yurt dışı müsabakalarda üstün başarı gösteren veya derece alan sporculara belediye meclisi kararıyla ödül verebilir, denildiğini,  destek olma fiilinin ayni ve nakdi yardım şeklinde olabileceğini, Yine aynı kanunun Belediyenin giderleri başlıklı 60.maddesinin p bendinde Kanunla verilen görevler ve hizmetlerin yürütülmesi için yapılan diğer giderler "hükmüne yer verilmiş olup, spor kulüplerine nakdi yardımın giderler arasında açıkça sayılmamış olmasının da bu tür giderin yapılamayacağı şeklinde yorumlanması anlamına gelmeyeceğini,  5018 sayılı Kanunun 29.maddesinin ilk fıkrasının "Ancak..."ile başlayan ikinci cümlesi kanuni dayanak olmasa da yardım yapılabilmesine izin verdiğini, 2006/10656 Karar sayılı Dernek, Vakıf. Birlik. Kurum, Kuruluş. Sandık ve Benzeri Teşekküllere Genel Yönetim Kapsamındaki Kamu İdarelerinin Bütçelerinden Yardım Yapılması Hakkında Yönetmeliğin 4.maddesinin c bendinde "Yardım: İdare bütçelerinden teşekküllere yapılacak nakdi yardımı, ifade eder" denildiğini, Ayrıca soru kâğıdında belirtmiş olunan İçişleri Bakanlığı'nın görüşünün yukarıda belirtilen yönetmelikle çeliştiğini,  Kaldı ki; yerleşik Sayıştay içtihatlarında da sadece profesyonel spor klüplerine yapılan nakdi yardımların yasal olmadığı görüşüne yer verildiğini, Buna göre Belediyemizce kurulmuş ve belediye adını taşıyan ve Sincan halkının sportif ihtiyaçlarını karşılayan spor kulüplerine nakdi yardımın yapılmasında kamu yararı olduğu göz önünde bulundurularak 5393 sayılı Belediye Kanununa, 5018 sayılı kanunun 29.maddesi ve buna dayalı çıkarılan yönetmeliğe (17.07.2006 tarih ve 26231 sayılı resmi gazete) aykırı bir husus bulunmadığından herhangi bir kamu zararı oluşmadığını belirterek tazmin hükmünün kaldırılmasını talep etmektedir.
+
+Sayıştay Savcılığı “yasal dayanağı bulunmayan talebin reddedilerek Daire Kararının onanması” şeklinde görüş bildirmiştir.
+
+5393 sayılı Belediye Kanununun 14 üncü maddesinde:
+
+“…………
+
+b)……………… Gerektiğinde, öğrencilere, amatör spor kulüplerine malzeme verir ve gerekli desteği sağlar, her türlü amatör spor karşılaşmaları düzenler, yurt içi ve yurt dışı müsabakalarda üstün başarı gösteren veya derece alan sporculara belediye meclisi kararıyla ödül verebilir. Gıda bankacılığı yapabilir.
+
+Belediye, kanunlarla başka bir kamu kurum ve kuruluşuna verilmeyen mahalli müşterek nitelikteki diğer görev ve hizmetleri de yapar veya yaptırır.
+
+Hizmetlerin yerine getirilmesinde öncelik sırası, belediyenin mali durumu ve hizmetin ivediliği dikkate alınarak belirlenir.” denilmekte,
+
+5393 Sayılı Belediye Kanunlarının yukarıda bahsedilen maddelerinde görüldüğü üzere, belediyeler mahalli ve müşterek nitelikte olmak şartıyla gençlik ve spor hizmetlerini yapmak veya yaptırmakla, amatör spor kulüplerine malzeme vermek ve gerekli desteği sağlamakla görevli ve sorumlu kılınmıştır. Gerekli desteği sağlamak tabiri aynı zamanda nakdi yardımı da kapsamaktadır.
+
+5018 sayılı kanunun 29’uncu maddesinde;
+
+“ Gerçek veya tüzel kişilere kanuni dayanağı olmadan kamu kaynağı kullandırılamaz, yardımda bulunulamaz veya menfaat sağlanamaz. Ancak, genel yönetim kapsamındaki kamu idarelerinin bütçelerinde öngörülmüş olmak kaydıyla; kamu yararı gözetilerek dernek, vakıf, birlik, kurum, kuruluş, sandık ve benzeri teşekküllere yardım yapılabilir.
+
+Bu yardımların yapılması, kullanılması, izlenmesi, denetlenmesi ve kamuoyuna açıklanmasına ilişkin esas ve usuller Maliye Bakanlığınca hazırlanarak Bakanlar Kurulunca çıkarılacak yönetmelikle belirlenir.” Hükmü yer almaktadır.
+
+Anılan hükme dayanılarak çıkarılan 2006/10656 Karar sayılı Dernek, Vakıf. Birlik. Kurum, Kuruluş. Sandık ve Benzeri Teşekküllere Genel Yönetim Kapsamındaki Kamu İdarelerinin Bütçelerinden Yardım Yapılması Hakkında Yönetmeliğin 4.maddesinin c bendinde de "Yardım: İdare bütçelerinden teşekküllere yapılacak nakdi yardımı, ifade eder" denilmek suretiyle nakdi yardıma imkan tanınmaktadır.
+
+Bu itibarla dilekçilerin iddialarının kabulü ile 862 sayılı ilâmın 2.maddesi ile 150.000,00- YTL’ye ilişkin olarak verilen tazmin hükmünün KALDIRILMASINA,
+
+3) 20.06.2006 tarihinde bağıtlanan sözleşme uyarınca 198.000.-YTL bedel ile yüklenici Belko Ltd.Şti.’ne ihale edilen ”6.000 Ton Bitümlü Sıcak Karışım Asfalt Beton Malzemesi Alım” işinde; mal tesliminin geç yapılmasından kaynaklanan gecikme cezasının kesilmemesi suretiyle kamu zararına sebebiyet verildiği için  toplam 2.400–YTL’na tazmin hükmolunmuştur.
+
+Dilekçiler özetle, Söz konusu işin yüklenici firma tarafından üretilen malın satışı olup; malın teslimi idareye ait kamyonlarla asfalt şantiyesindeki plent altından yapıldığını,  Yüklenici firma tarafından verilmiş olan 10.11.2006 tarihli dilekçe ile sözleşme süresi içerisinde idarece çekilen asfalt hesaplanarak (01.11.2006 tarihine kadar 4.917.18 ton) kalan süre içerisinde idarece nakledilmesinin mümkün olmadığından bahisle süre uzatımı talep ettiğini,  alınan asfaltın yama için kullanmakta olup; asfalt nakledebilecek kamyonlar ile iş programı göz önüne alınarak 11.11.2006 tarih ve 3190-605 sayılı Başkanlık Oluru ile 32 günlük süre uzatımı verildiğini ve iş bitim tarihinin 17.12.2006 olarak belirlendiğini,  Süre uzatımının yüklenicinin malı teslim etmediğinden değil idarece teslim alınamadığından kaynaklandığını belirterek tazmin hükmünün kaldırılmasını talep etmektedir.
+
+Sayıştay Savcılığı , “yasal dayanağı bulunmayan talebinin reddi uygun olur” şeklinde görüş bildirmiştir.
+
+Açık İhale Usulü İle İhale Edilen Mal Alımlarında Uygulanacak  Tip İdari Şartname’nin  Süre uzatımı verilebilecek haller ve şartları  başlıklı 50’nci maddesinde;”….. idarenin sözleşme tasarısında yer alan ve  sözleşmenin ifasına ilişkin yükümlülüklerini yüklenicinin kusuru olmaksızın, öngörülen süreler içinde  yerine getirmemesi (ödenek yetersizliği, yer tesliminin, projelerin onaylanmasının gecikmesi, gibi) ve bu sebeple sorumluluğu yükleniciye ait olmayan gecikmeler meydana gelmesi  ve işin süresinde bitirilememesi halinde, bu durumun taahhüdün yerine getirilmesine engel olması ve yüklenicinin bu engeli ortadan kaldırmaya gücünün yetmemiş bulunması kaydıyla yüklenicinin başvurusu üzerine durum idarece incelenerek yapılacak işin niteliğine göre işin bir kısmına veya tamamına ilişkin süre uzatımı verilebilir.” Denilmektedir.  Dilekçiler tarafından 11.11.2006 tarih ve 3190-605 sayılı Başkanlık Oluru ile 32 günlük süre uzatımı verildiği belirtilmekte ise de,  usulüne uygun olarak süre uzatımının verilmediği anlaşılmaktadır. Herhangi bir yasal gerekçesi olmadan sadece sözleşme konusu malı teslim edemeyeceğini ifade eden firmanın, süre uzatımı talebinin yerinde görülerek süre uzatımında bulunulması mümkün değildir.
+
+    Açıklanan nedenlerle dilekçi iddialarının reddi ile 862 sayılı ilamın 3’üncü maddesiyle toplam 2.400–YTL’na  ilişkin olarak verilen tazmin hükmünün TASDİKİNE,
+
+4) 862 sayılı ilamın 4’üncü maddesinde,  16.11.2005 tarihinde 2.696.400.-YTL bedelle yüklenici Sinkent Ltd.Şti.’ne ihale edilen ”Park, Bahçe ve Yeşil Alanların Bakım İşi”ne ait sözleşmenin (2) nüsha düzenlenmesine rağmen, sadece (1) nüsha üzerinden damga vergisi suretiyle kamu zararına sebebiyet verildiği için  toplam 20.223,00–YTL’na tazmin hükmolunmuştur.
+
+Dilekçi dilekçesinde, İhalesi tamamlanan tüm ihalelere ait sözleşmelerin kullanmış paket programca hazırlandığını, Sözleşme çıktısı alınmadan önce iki nüsha olarak hazırlandığını,  Yazan ve programın kırmızı ile işaretlemiş olan kısmın silinerek tek nüsha olarak çıktı alındığını,  bu sözleşme hazırlanırken aynı uygulamanın yapıldığını fakat kaydedilmediğinden dolayı sehven iki nüsha olarak hazırlanmış gibi çıktı alındığını, tüm ihalelerde sözleşmelerin tek nüsha hazırlanıp yüklenici firmaya sözleşmenin fotokopisinin verildiğini,  Resmiyette tek nüshanın  işlem gördüğünü belirterek tazmin hükmünün kaldırılmasını talep etmektedir.
+
+Savcılık, verilen tazmin hükmünün kaldırılması yönünde görüş bildirmiştir.
+
+488 Sayılı Damga Vergisi Kanunu'nun 1. maddesinde; "Bu Kanuna ekli (1) sayılı tabloda yazılı kağıtlar Damga Vergisine tabidir. Bu kanundaki kağıtlar terimi, yazılıp imzalanmak veya imza yerine geçen bir işaret konmak suretiyle düzenlenen ve herhangi bir hususu ispat veya belli etmek için ibraz edilebilecek olan (Değişik: 5228/59-4/a md.) (Yürürlük: 31.7.2004) belgeler ile elektronik imza kullanılmak suretiyle manyetik ortamda ve elektronik veri şeklinde oluşturulan belgeleri ifade eder........"
+
+Kanun’un 3 . maddesinde; " Damga Vergisinin mükellefi kağıtları imza edenlerdir. Resmi dairelerle kişiler arasındaki işlemlere ait kağıtların Damga Vergisini kişiler öder........."
+
+Aynı kanunun 5. maddesinde ise; "Bir nüshadan fazla olarak düzenlenen kağıtların her nüshası ayrı ayrı aynı miktar veya nispette Damga Vergisine tabidir. Şu kadar ki, poliçe ve emre yazılı ticari senetlerin yalnız tedavüle çıkarılan nüshaları vergiye tabi tutulur.
+
+26. maddesinde de, Resmi dairelerin ilgili memurları kendilerine ibraz edilen kağıtların Damga vergisini aramaya ve vergisi hiç ödenmemiş olanları bir tutanakla tespit etmeye veya bunları tutanağı düzenlemek üzere ,vergi dairesine göndermeye mecburdurlar "Denilmektedir.
+
+Damga Vergisi Kanunu’nun resmi dairelerin mecburiyeti başlığını taşıyan 26. maddesinde, resmi dairelerin ilgili memurlarının kendilerine ibraz edilen kağıtların damga vergisini aramaya ve vergisi hiç ödenmemiş olanları bir tutanakla tespit etmeye veya bunları tutanağı düzenlemek üzere ,vergi dairesine göndermeye mecbur oldukları ifade edilmiştir. Dolayısıyla, anılan işte her ne kadar sözleşme iki nüsha düzenlenmişse de, resmi daireye bir nüshası ibraz edildiğinden ve ibraz edilen belgeye ait Damga Vergisinin de tahsil edildiği anlaşıldığından, ibraz edilmeyen nüshalar dolayısıyla tazmin hükmü verilmesi mümkün değildir.
+
+Yukarıda açıklanan sebeplerle, dilekçilerin iddialarının kabulüyle, 862 nolu ilamın 4.maddesiyle tazminine karar verilen 20.223,00–YTL’na ilişkin tazmin hükmünün KALDIRILMASINA,
+
+Karar verildiği  18.01.2011 tarih ve 32792 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
