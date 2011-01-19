@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3035",
+  "decision_date": "2011-01-19",
+  "title": "27/12/2006 tarihli ve 1040 sayılı Kurul Kararının a) Maddesinde belirlenmiş olan Dağıtım Bölgeleri Dağıtım Kayıp Katsayıları tablosundaki \"Dağıtım Kayıp Katsayıları (DKK)\"nın 01/01/2011 tarihinden itibaren geçerli olmak üzere 0 (sıfır) olarak uygulanmasına ilişkin",
+  "resmi_gazete_date": "2011-02-01",
+  "resmi_gazete_number": "27833",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=egTNjylPBYI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=egTNjylPBYI="
+  ],
+  "source_sha256": "5d222f5bb4bde328b3faad1e164027713219ec3b20589a2e45e7c295f3250139",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-01-19",
+  "law_text_complete": false
+}
