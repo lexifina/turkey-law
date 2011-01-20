@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.54.15.01-122-2010-4-1",
+  "source_id": 29808,
+  "date": "2011-01-20",
+  "title": "Kurumun aktifinde bulunan gayrimenkulün satışında kurumlar vergisi ve katma değer vergisi istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29808",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "fb47c780e0d38e4dc0c3ec2243f1b4e83d99d30910f3895675fdc90477af8262",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
