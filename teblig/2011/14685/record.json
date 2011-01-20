@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.14685",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 404)",
+  "number": "14685",
+  "path": "teblig/2011/14685",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14685&MevzuatTertip=5",
+  "source_sha256": "4d2f9c25ffe4a3312c1b45f8df663afce5a271704918b76dfd62dbc8ffc2b812",
+  "source_bytes": 9685,
+  "published": "2011-01-20",
+  "gazette": "27821",
+  "in_force": "2011-01-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.01.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 193,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14685%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
