@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Arıza/Hastalık Listesi: Sigortalıların çalışma gücünün en az %60’ını veya vazifelerini yapamayacak şekilde meslekte kazanma gücünü kayıp ettiklerinin tespitine esas listeyi,
+b) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını,
+c) Balthazard Formülü: Birden fazla iş kazası veya meslek hastalığı sonucu sürekli iş göremezlik dereceleri veya birden fazla özürlülük derecelerinin birleştirilmesinde kullanılan hesaplama şeklini,
+ç) Cetveller: Hastalık ya da arızanın vücudun hangi uzvunu veya kısmını kapsadığı, çalışılan işin niteliği, sigortalının yaşı dikkate alınarak iş kazası veya meslek hastalığının tespitinde kullanılan listeleri,
+d) Genel Müdürlük: Genel Sağlık Sigortası Genel Müdürlüğünü,
+e) Hak sahibi: Sigortalının veya sürekli iş göremezlik geliri ile malullük, vazife malullüğü veya yaşlılık aylığı almakta olanların ölümü hâlinde, gelir veya aylık bağlanmasına veya toptan ödeme yapılmasına hak kazanan eş, çocuk, ana ve babasını,
+f) İş kazası: Kanunun 13 üncü maddesinin birinci fıkrasında belirtilen sigortalıyı hemen veya sonradan, bedenen ya da ruhen özüre uğratan olayları,
+g) Kanun: 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununu,
+ğ) Kontrol muayenesi: Kanunun 94 üncü maddesinin birinci fıkrasının (b) bendinde belirtilen hâllerde istenilen muayeneyi,
+h) Kurum: Sosyal Güvenlik Kurumunu,
+ı) Kurum Sağlık Kurulu: Kurumca yetkilendirilen sağlık hizmeti sunucularının sağlık kurullarınca düzenlenecek raporlardaki teşhis ve bu teşhise dayanak teşkil eden belgeleri incelemek suretiyle, çalışma gücü kaybı ve meslekte kazanma gücü kaybı oranlarını, erken yaşlanma hâlini, vazifelerini yapamayacak şekilde meslekte kazanma gücü kaybını ve malullük derecelerini belirlemeye yetkili hekimlerden ve/veya diş hekimlerinden oluşan kurullarını,
+i) Meslek hastalığı: Sigortalının çalıştığı veya yaptığı işin niteliğinden dolayı tekrarlanan bir sebeple veya işin yürütüm şartları yüzünden uğradığı geçici veya sürekli hastalık, bedensel veya ruhsal özürlülük hâllerini,
+j) Sağlık kurulu raporu: Kurumca yetkilendirilen sağlık hizmeti sunucularının sağlık kurullarınca düzenlenen sağlık kurulu raporlarını,
+k) Sigortalı: Kısa ve/veya uzun vadeli sigorta kolları bakımından adına prim ödenmesi gereken veya kendi adına prim ödemesi gereken kişiyi,
+l) Tam teşekküllü hastane: 10/9/1982 tarihli ve 8/5319 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yataklı Tedavi Kurumları İşletme Yönetmeliğinde tanımlanan tam teşekküllü hastaneleri,
+m) Vazife ve harp malullüğü: Kanunun 47 nci maddesinde tanımlanan vazife ve/veya harp malullüğü hâllerini,
+n) Yükümlülük süresi: Sigortalının meslek hastalığına sebep olan işinden fiilen ayrıldığı tarih ile meslek hastalığının meydana çıktığı tarih arasında geçen en uzun süreyi,
+ifade eder.

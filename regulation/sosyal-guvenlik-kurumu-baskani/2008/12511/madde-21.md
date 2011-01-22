@@ -1,0 +1,4 @@
+Sigortalının mesleği
+MADDE 21 – (1) İş kazasının meydana geldiği veya meslek hastalığının başladığı tarihte Kanunun 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentleri kapsamında çalışmakta olanların yapmakta olduğu iş sigortalının mesleği sayılır.
+(2) Kurum, bu mesleğin tespitinde sigortalının çalıştığı iş yerinden alınacak belgeyi esas tutabileceği gibi, bu hususu Kurumun kontrol ve denetimle görevli memurları aracılığı ile inceletmeye ve buna göre karar vermeye yetkilidir.
+(3) Hizmet akdine göre, Meslekte Kazanma Gücü Kayıp Oranı Tespit Cetvellerinin (Ek-3) "B Cetveli"nde gösterilen mesleklerden birden fazlasını yapmakta olan sigortalının, iş kazası veya meslek hastalığı yönünden sürekli iş göremezlik durumuna girmesi hâlinde, sürekli iş göremezlik derecesinin en yükseğine karşılık gelen meslek, "sigortalının mesleği" sayılır.
