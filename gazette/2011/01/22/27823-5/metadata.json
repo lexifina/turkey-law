@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-01-22",
+  "issue": "27823",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Koruma, Uygulama ve Denetim Büroları, Proje Büroları ile Eğitim Birimlerinin Kuruluş, İzin, Çalışma Usul ve Esaslarına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110122-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110122.htm",
+  "index_sha256": "6c8861cb1b579745c33f66e4f69d95e41229b7dd60f5f941917a8ba386afa490",
+  "index_header": "22 Ocak 2011 ... 27823 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
