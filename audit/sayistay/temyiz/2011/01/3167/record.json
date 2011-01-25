@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "32810",
+  "decision_date": "2011-01-25",
+  "source_id": 3167,
+  "chamber": "4",
+  "file_number": "30612",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/3167/",
+  "source_sha256": "7de50d275f3fe8a611731119e08e39ad7a10e8cbd0c65ad15640664e8b42e1ae",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
