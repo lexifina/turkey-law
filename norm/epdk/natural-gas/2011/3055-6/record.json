@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3055/6",
+  "decision_date": "2011-01-26",
+  "title": "2011 yılı ulusal doğal gaz tüketim tahminine ilişkin",
+  "resmi_gazete_date": "2011-02-04",
+  "resmi_gazete_number": "27863",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Kk/9XfjjyPQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Kk/9XfjjyPQ="
+  ],
+  "source_sha256": "8319d2274c23670c838f00d88d698115aa88f3cc4d0d483581b5ffdcd891461e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-01-26",
+  "law_text_complete": false
+}
