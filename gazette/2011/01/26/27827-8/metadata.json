@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-01-26",
+  "issue": "27827",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "5201 Sayılı Kanun Gereğince Kontrole Tâbi Tutulacak Harp Araç ve Gereçleri ile Silah, Mühimmat ve Bunlara Ait Yedek Parçalar, Askerî Patlayıcı Maddeler, Bunlara Ait Teknolojilere İlişkin Liste (2011 Yılı Listesi)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110126-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110126.htm",
+  "index_sha256": "f78139007666d8c696496a195a27319938d660ebf7a697e399748732fd1029ab",
+  "index_header": "26 Ocak 2011 ... 27827 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
