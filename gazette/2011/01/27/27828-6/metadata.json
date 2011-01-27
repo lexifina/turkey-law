@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-01-27",
+  "issue": "27828",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Teknik Üniversitesi Bilim, Mühendislik ve Teknolojide Kadın Araştırmaları Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110127-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/01/20110127.htm",
+  "index_sha256": "92a381160de1b827afecd92070a1eeb5c357780608a99dc8e85bc51cec9e92cd",
+  "index_header": "27 Ocak 2011 ... 27828 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
