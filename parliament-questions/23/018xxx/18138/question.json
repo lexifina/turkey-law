@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 23,
+  "legislative_year": 5,
+  "esas_no": "7/18138",
+  "submitted": "2011-01-27",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hüseyin YILDIZ",
+  "province": "Antalya",
+  "summary": "Mahkeme kararıyla görevine dönen personele ve sendika seçimi konusunda personele baskı yapıldığı iddiasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877be-9c7a-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "8c7e694894669e51b91db458e4fdf6684858d9490e306112014ab43c44f3f05b",
+  "in_force": "2011-01-27",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
