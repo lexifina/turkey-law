@@ -1,0 +1,4 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Disiplin
+MADDE 46 – (1) Üniversitedeki öğretim elemanları ve idari personelin disiplin iş ve işlemlerinde; 2547 sayılı Kanun hükümleri ile 21/8/1982 tarihli ve 17789 sayılı Resmî Gazete’de yayımlanan Yüksek Öğretim Kurumları Yönetici, Öğretim Elemanı ve Memurları Disiplin Yönetmeliği hükümleri uygulanır.

@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 51 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-01-28",
+      "28.01.2011",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 51 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27829",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-01-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Avrasya Üniversitesi",
+  "issuer_slug": "avrasya-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/avrasya-universitesi/2011/14702",
+  "published": "2011-01-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14702&MevzuatTertip=5",
+  "source_bytes": 89961,
+  "source_id": "8.5.14702",
+  "source_sha256": "e7d6dbeeebf7c0fe0f29d460328a9c50c28af61ea561cc3be6a83ef5d0240e5e",
+  "text_status": "as-enacted",
+  "title": "AVRASYA ÜNİVERSİTESİ ANA YÖNETMELİĞİ",
+  "university_id": 363,
+  "word_count": 4584
+}

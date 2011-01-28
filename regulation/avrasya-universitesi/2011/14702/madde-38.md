@@ -1,0 +1,6 @@
+Öğrenci alınması
+MADDE 38 – (1) Üniversiteye aşağıdaki koşullarda öğrenci kabul edilir:
+a) Üniversiteye kaydedilecek öğrenci kontenjanları, Senatonun kararı ve Mütevelli Heyetin onayı ile YÖK’e sunulur ve YÖK’ün onayı ile kesinleşir.
+b) Üniversitenin lisans ve ön lisans programlarına öğrenciler, merkezi yerleştirme sistemi ile alınır. Ancak, YÖK tarafından düzenlenen esaslara göre, Öğrenci Seçme ve Yerleştirme Merkezince (ÖSYM) yapılan sınavdan YÖK’ce belirlenen puanların üzerinde puan alan ve belli sanat ve spor dallarında üstün kabiliyeti olduğu tespit edilen öğrenciler; ilgili dalda eğitim yapmak kaydıyla, yine bu esaslar içerisinde Üniversitenin yapacağı özel yetenek sınavı ile Üniversiteye alınırlar. Ayrıca yabancı uyruklu öğrenciler, yabancı uyruklu öğrenci sınavı (YÖS) sonuçlarına göre alınabilir.
+c) Mesleki ve teknik ortaöğretim kurumlarından mezun olan öğrenciler istedikleri takdirde bitirdikleri programı devamı niteliğinde veya buna en yakın programların uygulandığı, öncelikle kendi mesleki ve teknik eğitim bölgesi (METEB) içindeki veya dışındaki meslek yüksekokullarına YÖK’ün tespit edeceği usul ve esaslar çerçevesinde, ÖSYM tarafından sınavsız olarak yerleştirilebilir.
+ç) İlgili mevzuat hükümleri çerçevesinde Üniversiteye, Üniversite içinden veya dışından yatay ve dikey geçiş yoluyla öğrenci alınabilir.
