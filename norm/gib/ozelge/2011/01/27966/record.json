@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-KVK-5-10-34",
+  "source_id": 27966,
+  "date": "2011-01-28",
+  "title": "Yurtdışı inşaat kazancının Türkiye'de genel netice hesaplarına intikal ettirilmesi halinde kurumlar vergisinden istisna olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27966",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4234a7bed0e5651936aef90b57ec0aff5ada9228daf48a2f6f3b9df02029b749",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
