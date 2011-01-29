@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.14708",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2011 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ (SIRA NO: 5)",
+  "number": "14708",
+  "path": "teblig/2011/14708",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14708&MevzuatTertip=5",
+  "source_sha256": "b76c2183868a7a4acc35a0841ae2de7cd24c912301cb3986b4f431b4de3aeb82",
+  "source_bytes": 15148,
+  "published": "2011-01-29",
+  "gazette": "27830",
+  "in_force": "2011-01-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.01.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 761,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
