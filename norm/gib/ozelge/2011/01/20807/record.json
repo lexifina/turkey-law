@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-GVK-23-3-42",
+  "source_id": 20807,
+  "date": "2011-01-29",
+  "title": "Merkezi yurtdışında bulunan firmaların irtibat bürolarındaki çalışanlarına yapılan ödemelerinden tevkifat yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20807",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "fd8a92a5329d3fd5d322bb5d0c5213087587b13acf0254ca742ea7cd475adee0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
