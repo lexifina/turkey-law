@@ -11,3 +11,6 @@ Anayasa Mahkemesi’nin 15/12/2006 tarihli, E.:2006/111, K.:2006/112 sayılı Ka
 5917 | 68, 100, 102 | 10/7/2009
 5921 | Ek Madde 2 | 18/8/2009
 5951 | Geçici Madde 26 | 1/1/2010 tarihinden geçerli olmak üzere 5/2/2010
+5947 | 73 Ek Madde 3 | 30/1/2011 30/8/2010
+Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5510 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+5997 | 40, 67, 106, Geçici Madde 12/4 Geçici Madde 4, Geçici Madde 12/4,12/5, Geçici Madde 18 Geçici Madde 27 | 19/6/2010 1/10/2008 tarihinden geçerli olmak üzere 19/6/2010 1/4/2002 tarihinden geçerli olmak üzere 19/6/2010
