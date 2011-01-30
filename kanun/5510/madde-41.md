@@ -4,6 +4,8 @@ a) (Değişik: 17/4/2008-5754/67 md.) Kanunları gereği verilen ücretsiz doğu
 b) Er veya erbaş olarak silâh altında veya yedek subay okulunda geçen süreleri,
 c) 4 üncü maddenin birinci fıkrasının (c) bendi kapsamında olanların, personel mevzuatına göre aylıksız izin süreleri,
 d) Sigortalı olmaksızın doktora öğrenimi veya tıpta uzmanlık için yurt içinde veya yurt dışında geçirdikleri normal doktora veya uzmanlık öğrenim süreleri,
+––––––––––––––
+(1) 16/6/2010 tarihli ve 5997 sayılı Kanunun 6 ncı maddesiyle, bu bentte yer alan “polis,” ibaresi “polis memuru, başpolis memuru ve kıdemli başpolis memuru,” olarak değiştirilmiş ve metne işlenmiştir.
 e) Sigortalı olmaksızın avukatlık stajını yapanların normal staj süreleri,
 f) Sigortalı iken herhangi bir suçtan tutuklanan veya gözaltına alınanlardan bu suçtan dolayı beraat edenlerin tutuklulukta veya gözaltında geçen süreleri,
 g) Grev ve lokavtta geçen süreleri (…) (1) ,
