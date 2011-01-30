@@ -10,3 +10,5 @@ Anayasa Mahkemesi’nin 15/12/2006 tarihli, E.:2006/111, K.:2006/112 sayılı Ka
 5838 | 5, Geçici Madde 14 93, 97, 100 102 ve Ek Madde 1 | 1/10/2008 tarihinden geçerli olmak üzere 28/2/2009 28/2/2009 1/8/2009
 5917 | 68, 100, 102 | 10/7/2009
 5921 | Ek Madde 2 | 18/8/2009
+5951 | Geçici Madde 26 | 1/1/2010 tarihinden geçerli olmak üzere 5/2/2010
+5947 | 73 Ek Madde 3 | 30/1/2011 30/8/2010
