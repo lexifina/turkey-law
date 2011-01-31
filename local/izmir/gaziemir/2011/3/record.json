@@ -1,0 +1,29 @@
+{
+  "number": "3",
+  "number_as_published": "3",
+  "year": 2011,
+  "month": 1,
+  "title": "council decision",
+  "decision_date": null,
+  "index_date": "2011-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2011",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=72",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=72",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/d30c13417eda12688600b02a0d89bd22c2589789519135e5db7d8f60a0839c3b.doc",
+  "source_sha256": "5241cba63a2d3c37c20e108264b337731ab3cb3c4eaa0b6af97e31a9976ecffd",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2011-01-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ocak 2011); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "posting_date": "28.01.2011",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
