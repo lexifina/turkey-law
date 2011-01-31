@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-GVK-Mük.80-11-46",
+  "source_id": 23883,
+  "date": "2011-01-31",
+  "title": "2010-GVK-Mük.80-11 Trampa usulü takas edilen arsanın satılması durumunda ilk iktisap tarihi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23883",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "bfe811069ff20093c7b3c5e6a1db2baf762f3d93ada5615e53c0fc2df9137a76",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
