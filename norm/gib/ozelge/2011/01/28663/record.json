@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-KVK-30-7",
+  "source_id": 28663,
+  "date": "2011-01-31",
+  "title": "Yurtdışına yapılan tevkifata tabi ödemelerden kaynaklanan döviz transferlerinde bankanın tevkifat sorumluluğunun olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28663",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "09922c04e5279ecff7869b1afd8ea0bfcd6e960f5c39c4e1d9c0a773a6702ccc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
