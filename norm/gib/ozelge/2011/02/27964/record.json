@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 5-86",
+  "source_id": 27964,
+  "date": "2011-02-01",
+  "title": "Ana faaliyet konusu; alış veriş merkezleri, ticaret ve iş merkezleri, turistik ve sportif tesisler kurmak, işletmek olan şirketin gayrimenkul satışında istisnadan yararlanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27964",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7ba910ee28f6ef130b57a5d3e150c3c3be3d395b9dc8cd80a2ad38bf01c0098d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
