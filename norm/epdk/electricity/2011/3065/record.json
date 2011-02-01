@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3065",
+  "decision_date": "2011-02-01",
+  "title": "Nihai tüketiciye elektrik enerjisi satışı yapan lisans sahibi tüzel kişiler tarafından; iletim, dağıtım, sayaç okumaya ilişkin perakende satış hizmeti ve kayıp enerjiye ilişkin bedeller hariç olmak üzere, net enerji ve sayaç okuma dışındaki perakende satış hizmet bedelleri toplamının TRT Payının hesaplanmasında dikkate alınmasına ilişkin",
+  "resmi_gazete_date": "2011-02-12",
+  "resmi_gazete_number": "27844",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GQDjZfjbc4Y=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GQDjZfjbc4Y="
+  ],
+  "source_sha256": "0932ec71f09a66e8a037d11d1b497d717f1c21807781b6bb18022fe76d87d32f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-02-01",
+  "law_text_complete": false
+}
