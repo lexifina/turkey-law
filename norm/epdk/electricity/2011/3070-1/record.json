@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3070/1",
+  "decision_date": "2011-02-01",
+  "title": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinin Geçici 5 inci Maddesi uyarınca Gün Öncesi Piyasasının işlerlik kazanacağı tarihin 01/05/2011 olarak belirlenmesine ve söz konusu tarihe kadar Gün Öncesi Piyasasının sanal olarak işletilmesine ve Kurul Kararının Kurum internet sayfasında ilan edilerek piyasa katılımcılarına duyurulmasına ilişkin",
+  "resmi_gazete_date": "2011-02-12",
+  "resmi_gazete_number": "27844",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1dI4syQYqRk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1dI4syQYqRk="
+  ],
+  "source_sha256": "019ca7bfdbd9ac6d6fb575e4593b0ab79abde4365491cf3244cdfe1b7692accd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-02-01",
+  "law_text_complete": false
+}
