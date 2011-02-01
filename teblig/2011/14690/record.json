@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.14690",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU İHALE TEBLİĞİ (TEBLİĞ NO: 2011/1)",
+  "number": "14690",
+  "issuer": "Kamu İhale Kurumu Başkanı",
+  "path": "teblig/2011/14690",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14690&MevzuatTertip=5",
+  "source_sha256": "5069eb93fe6c6d8d2ef6f210e08ba63d9f4e4a0730bdbb78dc80b356c5a1ae51",
+  "source_bytes": 32818,
+  "published": "2011-01-23",
+  "gazette": "27824",
+  "in_force": "2011-02-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/2/2011 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/2/2011 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 673,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
