@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.09.15.01-3.2010.8.KVK.GEÇ.1.M-2",
+  "source_id": 27524,
+  "date": "2011-02-03",
+  "title": "Kredi kooperatiflerine ait kira gelirleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27524",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "fff672b987565c6df519a775bcb9f0346dfb81325c39febf539f1aa20d37524e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
