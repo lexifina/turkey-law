@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-ÖTV 01.MADDE GENEL-96",
+  "source_id": 34154,
+  "date": "2011-02-03",
+  "title": "PBCA (anakart) ithal edilerek, yazılım, tasarım vb. mühendislik çalışmaları Türkiye'de gerçekleştirilmek suretiyle imal edilen cep telefonlarının tesliminde ÖTV'nin ne şekilde hesaplanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34154",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "a185c443960d069875f338c34121de2c71e6baf7f5f211ef547595977b95c377",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
