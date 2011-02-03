@@ -1,0 +1,16 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Kapalı Oturumu (Gizli Celse)",
+  "assembly": "KAPALI OTURUM ( GİZLİ CELSE )",
+  "term_label": "23. Dönem",
+  "cilt": 91,
+  "sitting": 58,
+  "label": "58. Birleşim",
+  "sitting_date": "2011-02-03",
+  "date_as_published": "03 Şubat 2011",
+  "weekday": "Perşembe",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/GZC/d23/c091/gcz23091058.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_gc?v_meclis=11&v_donem=23",
+  "source_sha256": "9608f00346826d23c1c597879f178c9595e6b6fa9960073aca459771ca2e4f01",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
