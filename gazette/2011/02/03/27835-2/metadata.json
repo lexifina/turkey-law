@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-02-03",
+  "issue": "27835",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2011/1258 Türkiye Cumhuriyeti Hükümeti ile Yeni Zelanda Hükümeti Arasında Çalışarak Tatil Programı Hakkında Anlaşmanın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/02/20110203-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/02/20110203.htm",
+  "index_sha256": "04c6f82149107a0364c999e8f83b9a7e1e8a5ce0a971f26feb8887f38d39e4a0",
+  "index_header": "3 Şubat 2011 ... 27835 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
