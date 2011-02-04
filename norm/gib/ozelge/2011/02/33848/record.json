@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.68.10.00-068-ÖTV-1",
+  "source_id": 33848,
+  "date": "2011-02-04",
+  "title": "ÖTV ödenerek satın alınan kamyonun kayıt ve tescil edilmeden önce tadil edilerek beton karıştırıcıya dönüştürülmesinde ÖTV farkı aranıp aranmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33848",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "f6a498dd0326a11050c0e813e572dc7b7642d7b3aebaac6d551951e4e2fd0a67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
