@@ -1,0 +1,6 @@
+ONÜÇÜNCÜ BÖLÜM
+Diğer Hayvan Türlerinde Şap Hastalığı
+Şap hastalığının önlenmesi ve kontrolüne yönelik ek önlemler
+MADDE 66 – (1) Yiyecek artıklarının hayvanların beslenmesi için kullanılması, söz konusu hayvanların kullanımı ve barındığı yer neresi olursa olsun, tüm hayvanlar için yasaktır.
+(2) Resmi veteriner hekim duyarlı türlerden olan çift tırnaklılar takımının geviş getirenler, domuzumsular ve topuk tabanlılardan deve, lama alttakımında olan evcil ve yaban hayvanlar, kemiriciler veya hortumlular takımında yer alan şap hastalığına duyarlı hayvanların şap hastalığı ile enfekte olduklarına dair bilgi alır almaz, vurulan ya da ölü bulunan tüm yaban hayvanlarının laboratuvar testlerinin yapılması da dahil olmak üzere incelenerek hastalığın varlığını ya da yokluğunu teyit edecek tüm uygun önlemleri alır. Hastalığa karşı hassas hayvan türlerinin sahiplerini ve avcıları bu hastalık konusunda bilgilendirir.
+(3) Resmi veteriner hekim yabani hayvanların şap hastalığı ile enfekte olduğundan kuşkulanıldığına dair bilgilendirildiği anda, hastalığın yayılmasını sınırlandırmak için Ek-14’te yer alan konuları derhal uygular ve şap hastalığını, Ek-14’ün (B) bölümüne uygun şekilde eradike edebilmek için bir plan hazırlar. Yetkili kurum, duyarlı hayvan türleri yetiştiren çiftçileri ve avcıları, doğrulanan hastalık olgusu ile ilgili olarak bilgilendirir.

@@ -1,0 +1,6 @@
+Aşılama bölgesinde klinik ve serolojik tetkikler
+MADDE 52 – (1) Yetkili birim, aşılama bölgesinde, acil aşılamanın tamamlanmasının üzerinden en az otuz gün geçtikten sonra başlayan ve klinik ve serolojik tetkiklerin tamamlanması ile sonlanan dönem içerisinde ikinci ve üçüncü fıkralarda öngörülen önlemleri uygular.
+(2) Belirgin bir klinik semptom göstermeden, şap virüsü ile temasta olan, duyarlı türden hayvan sürülerinin tespit edilebilmesi amacıyla bir tetkik yürütür. Söz konusu tetkik, aşılama bölgesindeki tüm sürülerde, duyarlı türden olan tüm hayvanlarda klinik muayene ile üçüncü fıkraya uygun olarak yapılan laboratuvar testlerini kapsar.
+(3) Laboratuvar testleri, Ek-11’de tanı testleri için ortaya konan kriterlere uygun olan testlerin kullanılmasıyla gerçekleştirilmeli ve aşağıdaki koşullarından en az birisini karşılamalıdır.
+a) Şap virüsü enfeksiyonunun tespit edilmesine yönelik olarak ya şap virüsünün yapısal olmayan proteinlerine karşı oluşan antikorların tespitine yönelik bir test veya diğer bir onaylanmış metot uygulanmalıdır. Testlerin uygulanacağı işletmelerde yapılacak örneklemelerde Ek-2’nin altıncı fıkrasında belirtilen kriterlere uyulmalıdır.
+b) Yetkili birimlerin ilaveten gözlem hayvanı kullanması durumunda, Ek-4’te belirtilen, enfekte işletmelere yeniden hayvan girişi için gerekli olan, koşullar da dikkate alınır.

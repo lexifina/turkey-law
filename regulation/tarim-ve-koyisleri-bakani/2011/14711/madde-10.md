@@ -1,0 +1,3 @@
+Koruyucu eradikasyon programı
+MADDE 10 – (1) Yetkili birim, epidemiyolojik bilgiler veya diğer bulgular gerektirdiğinde, kontamine olma ihtimali olan duyarlı türden hayvanların ve epidemiyolojik olarak bağlı üretim birimlerindeki veya bitişik işletmelerdeki hayvanların, koruyucu amaçlı öldürülmesi de dahil olmak üzere, bir koruyucu eradikasyon programı uygulayabilir.
+(2) Böyle bir durumda, örneklerin alınması ve duyarlı türden olan hayvanların klinik açıdan muayene edilmesi, en azından Ek-2’nin birinci, ikinci, üçüncü ve dördüncü fıkraları ile beşinci fıkrasının (a) bendinin (1) numaralı alt bendine uygun olarak yürütülür.

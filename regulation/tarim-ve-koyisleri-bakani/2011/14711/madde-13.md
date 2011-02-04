@@ -1,0 +1,5 @@
+Temizlik ve dezenfeksiyon
+MADDE 13 – (1) Yetkili birim tarafından, bu Yönetmelik ile öngörülen önlemlerin ayrılmaz bir parçası olarak, temizlik ve dezenfeksiyon işlemleri belgelendirilir. Dezenfeksiyon işlemi şap virüsünün imha edilmesini temin etmek için, resmi veteriner hekim talimatları doğrultusunda ve resmi gözetim altında ve Bakanlık tarafından veteriner hijyenik ürünler mevzuatına uygun olarak resmi olarak izin verilmiş dezenfektanlar ve bu dezenfektanların uygun çalışma konsantrasyonları kullanılarak yürütülür.
+(2) Yetkili birim, uygun zararlı kontrolü de dahil olmak üzere, temizlik ve dezenfeksiyon işlemlerinin çevre üzerine olumsuz etkilerini mümkün olduğunca azaltacak şekilde uygulanmasını temin eder.
+(3) Yetkili birim, kullanılan herhangi bir dezenfektanın, etkin bir şekilde dezenfekte edebilmesinin yanı sıra mevcut en iyi teknolojiye uygun olarak, çevre ve halk sağlığı üzerindeki olumsuz etkilerinin asgari düzeyde olmasını temin etmek için çaba sarf eder.
+(4) Yetkili birim, temizlik ve dezenfeksiyon işlemlerini Ek-3’e uygun olarak yürütür.

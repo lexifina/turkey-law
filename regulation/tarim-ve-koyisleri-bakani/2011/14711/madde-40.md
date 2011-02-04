@@ -1,0 +1,6 @@
+Gözetim bölgesinde duyarlı türden olan hayvanlar tarafından üretilen gübre ve dışkıların nakledilmesi ve dağıtılması
+MADDE 40 – (1) Duyarlı türden olan hayvanların barındırıldığı gözetim bölgesinde yerleşik olan ve 18 inci maddede yer alan işletme ve diğer tesislerden dışkı veya gübrenin gözetim bölgesi içine ve dışına nakledilmesi ve dağıtılması yasaktır.
+(2) Birinci fıkrada öngörülen yasağın istisnası olarak, resmi veteriner hekimi istisnai durumlarda, dışkı ve gübrelerin, kullanımdan önce ve sonra iyice temizlenen ve dezenfekte edilen nakil araçları ile gözetim bölgesi dahilinde, duyarlı türden olan hayvanların barındırıldığı işletmelere yeterli uzaklıkta olan, belirlenen alanlara dağıtılması için nakline aşağıdaki koşullar altında izin verebilir.
+a) İşletmedeki tüm hayvanlarda, resmi veteriner hekim tarafından yapılan muayene sonunda şap virüsü ile enfekte hayvan şüphesi bulunmuyorsa, gübre ve dışkı, aerosollerin oluşumunun engellenmesi için zemine yakın olarak dağıtılacak ve hemen ardından toprakla karıştırılacaksa.
+b) İşletmedeki duyarlı türden olan hayvanların, resmi veteriner hekimi tarafından klinik muayenesinin yapılması sonucunda negatif sonuç elde edilmiş ve gübre toprağa enjekte edilecekse.
+c) Gübre, 29 uncu maddenin ikinci fıkrasındaki hükme tabi ise.

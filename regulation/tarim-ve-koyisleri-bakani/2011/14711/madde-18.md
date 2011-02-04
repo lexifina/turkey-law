@@ -1,0 +1,11 @@
+Kesimevlerinde, sınır kontrol noktalarında ve nakil araçlarında uygulanacak önlemler
+MADDE 18 – (1) Bir kesimevinde, bir sınır kontrol noktasında veya bir nakil aracında şap hastalığı vakası doğrulandığında, yetkili birim etkilenen kesimevleri, sınır kontrol noktaları ve nakil araçları ile ilgili olarak aşağıdaki önlemlerin uygulanmasını sağlar.
+a) Bu tesislerdeki veya nakil araçlarındaki tüm duyarlı türden olan hayvanlar derhal itlaf edilir.
+b) (a) bendinde yer alan hayvanların karkasları, şap virüsünün yayılması riskini önleyecek şekilde, resmi gözetim altında işleme tabi tutulur.
+c) Enfekte olan veya enfekte olduğundan şüphelenilen hayvanların ve kontamine hayvanların, sakatat da dahil olmak üzere, diğer hayvansal atıkları, şap virüsünün yayılması riskini önleyecek şekilde, resmi gözetim altında işleme tabi tutulur.
+ç) Bu tesislerdeki veya nakil araçlarında gübre, dışkı ve sıvı ahır gübresi resmi gözetim altında dezenfeksiyona tabi tutulur. Bu yerlerden sadece Bakanlık tarafından insan tüketimine yönelik olmayan çıkarılacak hayvansal yan ürünlere ilişkin mevzuat hükümlerine göre işleme tabi tutulmak üzere uzaklaştırılır.
+d) Vasıtalar veya nakil araçları da dahil olmak üzere, binaların ve ekipmanın temizliği ve dezenfeksiyonu, yetkili birim tarafından ortaya konan talimatlar doğrultusunda, 13 üncü maddeye uygun olarak, resmi veteriner hekiminin gözetimi altında gerçekleştirilir.
+e) Epidemiyolojik araştırmalar 15 inci maddeye uygun olarak yürütülür.
+(2) 20 nci maddede öngörülen önlemler, yetkili birim tarafından temas halinde olan işletmelerde de uygulanır.
+(3) Yetkili birim tarafından, birinci fıkrada yer alan tesislere veya nakil araçlarına, birinci fıkranın (d) bendinde yer alan temizlik ve dezenfeksiyon işlemlerinin tamamlanmasından en az yirmidört saat sonrasına kadar kesim, muayene veya nakil için yeniden hayvan girişine izin verilmez.
+(4) Epidemiyolojik olarak gerek duyulduğu, özellikle birinci fıkrada yer alan tesislere veya nakil araçlarına bitişik olan işletmelerdeki duyarlı türden olan hayvanların kontamine olduğundan şüphelenildiği durumlarda, yetkili birim tarafından 4 üncü maddenin birinci fıkrasının (j) bendinin (2) numaralı alt bendinin istisnası olarak, birinci fıkrada yer alan tesislerde ve nakil araçlarında, salgın bildirimi yapılması, 12 nci ve 21 inci maddelerde öngörülen önlemlerin uygulanması sağlanır.

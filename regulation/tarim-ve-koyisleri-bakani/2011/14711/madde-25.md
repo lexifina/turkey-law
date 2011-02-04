@@ -1,0 +1,12 @@
+Koruma bölgesinde üretilmiş taze ete ilişkin önlemler
+MADDE 25 – (1) Menşei koruma bölgesi olan duyarlı türden olan hayvanlardan elde edilen taze et, kıyma ve hazır et ürünlerinin pazara sürülmesi yasaktır.
+(2) Koruma bölgesinde yerleşik olan tesislerde duyarlı türden olan hayvanlardan elde edilen taze et, kıyma ve hazır et ürünlerinin pazara sürülmesi yasaktır.
+(3) Birinci fıkrada yer alan taze et, kıyma ve hazır et ürünleri resmi veteriner hekim tarafından ilgili mevzuat uyarınca damgalanır. Bunu takiben, kapalı konteynırlarda Ek 6’nın (A) bölümüne uygun olarak işleme tabi tutulan et ürünlerine dönüştürülmesi için, yetkili birim tarafından belirlenen bir tesise nakledilir.
+(4) Koruma bölgesindeki bir işletmede enfeksiyonun tahmini başlangıç tarihinden en az yirmibir gün öncesinde üretilen ve bu tarihten sonra üretilen benzeri etlerden ayrı bir şekilde depolanıp nakledilmiş taze et, kıyma ve hazır et ürünlerine birinci fıkra hükümleri uygulanmaz.
+(5) İkinci fıkrada sözü edilen yasak, aşağıda belirtilen koşulların karşılanması halinde, koruma bölgesinde yerleşik bir tesisten elde edilen taze et, kıyma ve hazır et ürünlerine uygulanmaz.
+a) Tesis sıkı bir veteriner hekim kontrolü altında faaliyet göstermelidir.
+b) Tesiste sadece dördüncü fıkrada anlatılan taze et, kıyma veya hazır et ürünleri veya koruma alanı dışında beslenen ve kesilen hayvanlardan veya tesise 24 üncü maddenin ikinci fıkrasının (b) bendindeki hükümlere uygun olarak nakledilen ve orada kesilen hayvanlardan elde edilen taze et, kıyma veya hazır et ürünleri işlenmelidir.
+c) Bu şekilde elde edilen taze et, kıyma ve hazır et ürünleri resmi veteriner hekim tarafından ilgili mevzuat uyarınca damgalanır.
+ç) Tüm üretim sürecinde, bu şekilde elde edilen tüm taze et, kıyma veya hazır et ürünleri açıkça tanımlanmalı ve bu Yönetmeliğe uygun olarak koruma bölgesinin dışına dağıtımı uygun olmayan taze et, kıyma veya et karışımlarından ayrı tutularak nakledilmeli ve depolanmalıdır.
+(6) Beşinci fıkra kapsamındaki taze et, kıyma ve hazır et ürünlerinin dış ticarete sunulacak olması durumunda, beşinci fıkrada yer alan koşullara uygun olduğu resmi veteriner hekim tarafından belgelendirilir. Bakanlık ya da yetkili birim, resmi veteriner hekim tarafından yürütülen uygunluk kontrolünü denetler ve bu tür belgelendirme amacıyla onaylanan tesislerin bir listesini tutar.
+(7) Bakanlık birinci fıkrada öngörülen yasaklamaya belirli koşullarda muafiyet getirebilir. Bu muafiyet özellikle koruma bölgesinde otuz günden daha uzun süre ile kalmış hayvanlardan elde edilen etleri kapsar.

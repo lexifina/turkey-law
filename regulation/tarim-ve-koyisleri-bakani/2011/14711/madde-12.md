@@ -1,0 +1,13 @@
+ÜÇÜNCÜ BÖLÜM
+Şap Hastalığı Salgınının Doğrulanması ve Alınacak Önlemler
+Alınacak önlemler
+MADDE 12 – (1) Şap hastalığı salgını doğrulandığı anda yetkili birim gecikmeksizin, işletmede 6 ncı, 7 nci ve 8 inci maddelerde öngörülen önlemlere ilaveten, aşağıdaki önlemleri de uygular.
+a) Duyarlı türden olan tüm hayvanlar yerinde itlaf edilir. İstisnai durumlarda duyarlı türlerden olan hayvanlar, nakil ve itlaf etme esnasında şap virüsünün yayılması riskini önleyecek şekilde ve resmi gözetim altında, bu amaca uygun olan en yakın bir yerde öldürülür.
+b) Duyarlı türlerden olan hayvanların itlaf edilmesinden önce veya itlaf edilmesi esnasında resmi yetkili birim, 15 inci maddede yer alan epidemiyolojik araştırmalar için gerekli tüm uygun örneklerin Ek-2’nin beşinci fıkrasının (a) bendinin (1) numaralı alt bendine uygun olarak gereken miktarlarda alınmasını sağlar. Yetkili birim, epidemiyolojik olarak birincil kaynağa bağlı ikincil bir kaynak görülmesi durumunda ve birincil kaynaktan 15 inci maddede yer alan epidemiyolojik araştırmalar için ihtiyaç duyulan yeterli miktarda örnek, 6 ncı maddenin ikinci fıkrasına uygun olarak alındı ise aynı maddenin uygulanmaması kararını alabilirler.
+c) İşletmede ölen veya birinci fıkranın (a) bendine uygun olarak itlaf edilen duyarlı türden olan hayvanların karkasları, şap virüsünün yayılma riskinin olmayacağı bir şekilde, resmi gözetim altında, vakit kaybetmeden işleme tabi tutulur. Özel durumlar, karkasların yerinde veya işletme dışında gömülmesini veya yakılmasını gerektiriyor ise, benzeri işlemler 57 nci maddede yer alan acil eylem planları çerçevesinde, önceden hazırlanmış olan talimatlara uygun olarak yürütülür.
+ç) Kontaminasyon şüphesi ortadan kaldırılana kadar, 6 ncı maddenin ikinci fıkrasının (c) bendinde yer alan tüm ürün ve maddeler izole edilir veya resmi veteriner hekimin talimatları doğrultusunda şap virüsünün imha edilmesini sağlayacak şekilde bir işleme tabi tutulur.
+(2) Yetkili birim, duyarlı türden hayvanların öldürülmesinden, işlenmesinden ve birinci fıkranın (ç) bendinde öngörülen önlemlerin alınmasının tamamlanmasından sonra;
+a) Duyarlı türden hayvanların barındırıldığı binalar, çevreleri ve nakil için kullanılan araçlar ile kontamine olması muhtemel diğer binalar ve ekipmanların 13 üncü maddeye uygun olarak temizlenmesini ve dezenfekte edilmesini,
+b) Buna ilaveten insanların yaşama alanlarının veya işletmedeki ofis alanların şap virüsü ile kontamine olduğuna dair makul bir şüphe varsa bu alanların da uygun yöntemlerle dezenfekte edilmesini,
+c) İşletmeye yeni hayvan girişinin Ek-4’e uygun olarak yürütülmesini,
+sağlar.

@@ -1,0 +1,2 @@
+Gözetim bölgesinde uygulanan ek önlemler
+MADDE 42 – (1) 36 ncı ile 41 inci maddeler arasında öngörülen önlemlere ilaveten, yetkili birim özellikle etkilenen epidemiyolojik alanda hakim olan, hayvan yetiştiriciliği, ticari ve sosyal koşulları dikkate alarak, şap virüsünü sınırlamak için gerekli olduğu düşünülen ek özel önlemleri alabilir. Tek tırnaklı hayvanların hareketlerini kısıtlamak gerekli ise, alınacak önlemler Ek-5’te yer alan hükümler göz önünde bulundurularak alınır.
