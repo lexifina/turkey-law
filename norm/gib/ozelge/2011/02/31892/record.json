@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-1-2010-14001-07-60",
+  "source_id": 31892,
+  "date": "2011-02-04",
+  "title": "Mesleki eğitim kursunda verilen hizmetlerde KDV istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31892",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "e8d27856be2d514ce0b8b38f00ded669d9322c013f40c155cb7af9bf4692e9fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
