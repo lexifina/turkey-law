@@ -1,0 +1,2 @@
+Enformasyon memurluğuna atanma
+MADDE 13 – (1) Enformasyon memurluğuna atanmada, 657 sayılı Kanunun 48 inci maddesinde belirtilen genel şartların yanı sıra, tercihen acil yardım ve afet yönetimi bölümü mezunu, yabancı dil bilgisine sahip olanlara öncelik tanınmak üzere, en az dört yıllık yükseköğretim kurumlarından veya bunlara denkliği kabul edilen yurt dışındaki yükseköğretim kurumlarından mezun olmak şartı aranır.

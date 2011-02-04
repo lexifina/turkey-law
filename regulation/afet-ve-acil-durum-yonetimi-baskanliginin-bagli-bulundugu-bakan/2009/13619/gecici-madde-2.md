@@ -1,0 +1,2 @@
+Kadro kütüğünde yer almayan kadro unvanları
+GEÇİCİ MADDE 2 – (1) Bu Yönetmelik ekindeki EK-3 Memur Kadro Kütüğünde yer almayan kadro unvanlarından dolu olanlarda yapılacak derece değişiklikleri, 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname eki cetvellerde aynı veya benzer unvanlı kadrolar için tespit olunan en üst dereceyi aşmamak kaydıyla, ilgilinin öğrenim durumu itibariyle 657 sayılı Kanunun 36 ncı maddesi çerçevesinde yükselebileceği en üst derece geçmeyecek şekilde belirlenir.
