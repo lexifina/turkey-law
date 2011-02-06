@@ -1,0 +1,4 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Merkezin çalışmalarına yön vermek ve özel uzmanlık alanlarında katkı sağlamak amacıyla yurt içi ve yurt dışı üniversitelerden konusunda uzman olan öğretim elemanları ve istekleri halinde Merkezin amaçları ile ilgili uzman kişilerden olmak üzere en az beş kişiden oluşur. Danışma Kurulu üyeleri, Yönetim Kurulunun önerisi ve Müdürün teklifi üzerine Rektörün onayı ile görevlendirilir.
+(2) Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir.
+(3) Danışma Kurulu; üniversitelerde görev yapan Hititoloji, tarih, arkeoloji, sanat tarihi bölümleri ve Merkezin faaliyet alanlarına katkıda bulunabilecek öğretim elemanlarından oluşur. Danışma Kuruluna Müdür başkanlık eder. Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir defa toplanır. Bir yıl önceki işler hakkında bilgi alır, yıllık çalışma planını görüşür ve gerekli önerilerde bulunur.
