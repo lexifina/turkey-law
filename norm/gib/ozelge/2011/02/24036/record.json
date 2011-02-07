@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.25.15.01-2010-GVK-1777-3-1",
+  "source_id": 24036,
+  "date": "2011-02-07",
+  "title": "Kamuya yararlı derneklere ait vadeli mevduat hesabına tahakkuk eden faiz gelirleri üzerinden tevkifat yapılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24036",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "069e7d1dc68a40780a26e9c7f8925c9d1e26bd4e04c252d17c3ebdb6d2631024",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
