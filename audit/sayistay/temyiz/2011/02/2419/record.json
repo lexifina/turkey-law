@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "32858",
+  "decision_date": "2011-02-08",
+  "source_id": 2419,
+  "chamber": "7",
+  "file_number": "30751",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2419/",
+  "source_sha256": "ba9b9959aac3adf1ad4608522b1d73884b888e575a4389a8dbcfe182916103a6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
