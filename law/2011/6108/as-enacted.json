@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6108",
+  "year": 2011,
+  "title": "Askerlik Kanunu ile Yedek Subaylar ve Yedek Askeri Memurlar Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-02-08",
+  "gazette_issue": "27840",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/02/20110208-2.htm",
+  "source_sha256": "dc26fd5a4dfa98138e9590d52ff785e51817962df10a2c6796cdfcc59e0556d5",
+  "text_sha256": "06a2d0a80cc9152542fa79582926b2a14c2d38eccb6e993588ce3ca62a731f2c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/02/08/27840-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/02/20110208-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
