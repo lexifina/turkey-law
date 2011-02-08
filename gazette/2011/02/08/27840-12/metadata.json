@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-02-08",
+  "issue": "27840",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Uluslararası Gözetim Şirketi Statüsüne İlişkin Dış Ticarette Standardizasyon Tebliği (No: 2011/25)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/02/20110208-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/02/20110208.htm",
+  "index_sha256": "b98dd97a019045a4ae8b77b4b80d523545dcbe2ff0c8b54bb41df689953e7402",
+  "index_header": "8 Şubat 2011 ... 27840 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
