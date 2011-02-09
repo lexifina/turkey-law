@@ -1,0 +1,87 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6110",
+  "year": 2011,
+  "title": "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2011-02-09",
+  "adopted_as_published": "09/02/2011",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.02.2011 No: 27846",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc095/kanuntbmmc095/kanuntbmmc09506110.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 95",
+  "committee_reports": [
+    {
+      "label": "TBMM 610 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c092/tbmm23092061ss0610.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 520108,
+      "title": "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "09/02/2011",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc095/kanuntbmmc095/kanuntbmmc09506110.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 610 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c092/tbmm23092061ss0610.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 92,
+          "sitting": 61,
+          "sitting_date": "2011-02-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c092/tbmm23092061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c092/tbmm23092fih.pdf",
+          "pages": [
+            "291:326",
+            "326:339",
+            "340:350",
+            "350:359",
+            "361:368",
+            "370:372"
+          ]
+        },
+        {
+          "cilt": 92,
+          "sitting": 62,
+          "sitting_date": "2011-02-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c092/tbmm23092062.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c092/tbmm23092fih.pdf",
+          "pages": [
+            "447:457",
+            "458:462",
+            "464:473",
+            "474:493",
+            "494:505",
+            "505:509",
+            "509:512",
+            "513:528",
+            "529:533",
+            "541:544",
+            "545:553",
+            "555:564"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=548&v_gelecek_sayfa=401&v_kullanici_id=27483202",
+      "page_sha256": "9a33a98a23ad863f11c5b852137758cb7a0d4d0e3313a8f9dcfa3a69cfaa44aa"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9a33a98a23ad863f11c5b852137758cb7a0d4d0e3313a8f9dcfa3a69cfaa44aa",
+  "issuer": "TBMM",
+  "in_force": "2011-02-09",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 09/02/2011; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
