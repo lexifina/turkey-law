@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-02-10",
+  "issue": "27842",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "984 Türk Silahlı Kuvvetleri Deniz Unsurlarının; Korsanlık/Deniz Haydutluğu ve Silahlı Soygun Eylemleriyle Mücadele Amacıyla Yürütülen Uluslararası Çabalara Destek Vermek Üzere, Gereği, Kapsamı, Zamanı ve Süresi Hükümetçe Belirlenecek Şekilde Aden Körfezi, Somali Karasuları ve Açıkları, Arap Denizi ve Mücavir Bölgelerde Görevlendirilmesi ve Bununla İlgili Gerekli Düzenlemelerin Hükümet Tarafından Belirlenecek Esaslara Göre Yapılması İçin Türkiye Büyük Millet Meclisinin 10/2/2009 Tarihli ve 934 Sayılı Kararıyla Hükümete Verilen ve 2/2/2010 Tarihli ve 956 Sayılı Kararıyla Bir Yıl Uzatılan İzin Süresinin Anayasanın 92 nci Maddesi Uyarınca 10/2/2011 Tarihinden İtibaren Bir Yıl Daha Uzatılmasına Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/02/20110210-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/02/20110210.htm",
+  "index_sha256": "bc7aaa5fbea96e57792b6a95bec343c0f95936d059c0341b62506844aab980ef",
+  "index_header": "10 Şubat 2011 ... 27842 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
