@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.13590",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ELEKTRİK PİYASASI KANUNUNUN 11 İNCİ MADDESİ UYARINCA 2010 YILINDA UYGULANACAK PARA CEZALARI HAKKINDA TEBLİĞ",
+  "number": "13590",
+  "path": "teblig/2009/13590",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13590&MevzuatTertip=5",
+  "source_sha256": "7280759c146b785e8b30e1c9cfc0c56d5cf07b89445c9757e2cafe7dab0802c6",
+  "source_bytes": 40334,
+  "published": "2009-12-05",
+  "gazette": "27423",
+  "in_force": "2011-02-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/2/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-02-10",
+      "RG-10/2/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 258,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
