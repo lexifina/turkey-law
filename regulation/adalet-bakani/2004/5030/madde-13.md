@@ -1,0 +1,2 @@
+Yıllık Eğitim ve Öğretim Programı Değişikliği
+Madde 13 — Yıllık eğitim ve öğretim programında hangi derslerin ve konuların verileceği açıkça belirtilir. Faaliyetin türü ne olursa olsun, program dışına çıkılamaz; ancak gerekli görüldüğü takdirde program yöneticisi ve ilgili öğretim görevlilerinin birlikte vereceği teklif ile Öğretim Kurulunun uygun görmesi, Eğitim Kurulunun onayının alınması koşuluyla değişiklik yapılabilir.

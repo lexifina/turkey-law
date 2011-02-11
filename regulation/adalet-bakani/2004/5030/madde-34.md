@@ -1,0 +1,2 @@
+Sınav Belgelerinin Saklanması
+Madde 34 — Sorular, soruların cevap anahtarları, tutanaklar, değerlendirme fişleri ve cevap kâğıtları iki yıl, kanunî süresi içinde yargı yoluna başvuranların evrakı ise yargılama sonuçlanıncaya kadar saklanır. Diğer belgelerin saklanması hakkında 22/8/1989 tarihli ve 20116 sayılı Resmî Gazete’de yayımlanan Adalet Bakanlığı Merkez ve Taşra Teşkilâtı ile Bağlı Kuruluşları Arşiv Yönetmeliği hükümleri uygulanır.

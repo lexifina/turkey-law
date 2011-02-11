@@ -1,0 +1,2 @@
+Sınavlara İtiraz
+Madde 25 — Sınavlara itiraz, resmî sınav sonuçlarının açıklanmasından sonra, yedi gün içerisinde Sınav İtiraz Komisyonuna yazılı olarak yapılır. Sınav İtiraz Komisyonu, öğrenci işleri sorumlularından sınavla ilgili belgeleri alarak gerektiğinde itiraz edilen ders veya derslerin öğretim görevlisini de komisyona davet etmek suretiyle karar verir. Sınav tekrar değerlendirildikten sonra sonuç on gün içerisinde Sınav ve Değerlendirme Komisyonuna verilir ve ilgilisine tebliğ edilir.
