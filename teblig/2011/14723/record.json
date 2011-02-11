@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.14723",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2011 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ (SIRA NO: 6)",
+  "number": "14723",
+  "path": "teblig/2011/14723",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14723&MevzuatTertip=5",
+  "source_sha256": "7575b13835158735a28c453191256835b1d45cb93c1b58fdc268f33ecca36e31",
+  "source_bytes": 9370,
+  "published": "2011-02-11",
+  "gazette": "27843",
+  "in_force": "2011-02-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.02.2011); own commencement article: \"Bu Tebliğ, 1/1/2011 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 1/1/2011 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 308,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
