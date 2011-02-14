@@ -1,0 +1,24 @@
+{
+  "number": "65",
+  "number_as_published": "Karar No : 65",
+  "year": 2011,
+  "title": "Melikgazi Belediye Meclisinin, 06.12.2010 tarih, 261 ve 262 sayılı kararlarının incelenmesi.",
+  "decision_date": "2011-02-14",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/14-subat-2011-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "42d968e6714d236e8bb07d00600f283862e9e6a778ac44c18f42415dc6d22115",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2011-02-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.02.2011 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "14 Şubat 2011 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=16",
+  "subject_published": true
+}
