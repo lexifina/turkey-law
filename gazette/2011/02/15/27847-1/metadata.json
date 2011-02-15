@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-02-15",
+  "issue": "27847",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2011/1269 Türkiye Cumhuriyeti Çalışma ve Sosyal Güvenlik Bakanlığı ile Sırbistan Cumhuriyeti Çalışma ve Sosyal Politika Bakanlığı Arasında İşbirliği Anlaşması’nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/02/20110215-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/02/20110215.htm",
+  "index_sha256": "16626446fd4cd6223731e6987162d4c0429bd5fc8e184bc7d14768dbf1fbd2fe",
+  "index_header": "15 Şubat 2011 ... 27847 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
