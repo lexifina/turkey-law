@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.18.02-32229-7763--77",
+  "source_id": 26079,
+  "date": "2011-02-15",
+  "title": "Gelir veya kurumlar vergisi mükelleflerinin işletmelerinde kayıtlı olan ve noter satış senedi ile alınan araçlara fatura düzenleneceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26079",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "98a57983d16924d0c08b9f68c7a572be365145664588c7393d4a97abc08ae126",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
