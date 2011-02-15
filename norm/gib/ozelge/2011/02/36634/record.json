@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.18.02-323100-7838/-72",
+  "source_id": 36634,
+  "date": "2011-02-15",
+  "title": "Elektrik bağlantısı bulunmayan işyerinde ÖKC kullanma mecburiyetinin bulunup bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36634",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "be425542d40d15447ed5768b9c61e97b35428a7c6f65e5da91a5a814adc3243c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
