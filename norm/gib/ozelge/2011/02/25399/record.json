@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.45.15.02-VUK-27-9-14",
+  "source_id": 25399,
+  "date": "2011-02-15",
+  "title": "Satın alınan madde ve malzemeleri imalat ile mamul hâline getirerek satılması durumunda, yapılan bu işin mal alım-satım ve imalat işi olarak mı yoksa hizmet işletmesi olarak mı değerlendirilmesi gerektiği ve bilanço usulüne göre mi yoksa işletme hesabı es",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25399",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "7161943d16d7288d50fb737a0203f05e71a635c757f2bfcabc437fff3aa2bb54",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
