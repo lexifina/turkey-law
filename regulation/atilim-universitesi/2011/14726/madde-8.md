@@ -1,0 +1,4 @@
+Müdür
+MADDE 8 – (1) Müdür, savunma sanayii ve savunma teknolojileri konusunda akademik bilgi birikimine sahip tam zamanlı Üniversite öğretim üyeleri ve/veya görevlileri arasından Rektör tarafından bir yıl süreyle görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Lüzum görülmesi halinde Müdür görev süresi dolmadan Rektör tarafından görevden alınabilir.
+(2) Müdürün talebi üzerine kendisine yardımcı olmak üzere Yönetim Kurulu üyeleri arasından önereceği bir kişi Müdür Yardımcısı olarak Rektör tarafından görevlendirilebilir. Müdür Yardımcısı Müdürün kendisine vereceği görevleri yerine getirir.
+(3) Müdür; Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden, Merkezin bütün etkinliklerinin gözetim ve denetiminin yapılmasından ve sonuçlarının alınmasından Rektöre karşı birinci derecede sorumludur.
