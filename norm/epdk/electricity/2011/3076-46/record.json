@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3076/46",
+  "decision_date": "2011-02-17",
+  "title": "Aynı bölge ve/veya aynı trafo merkezi için birden fazla başvurunun bulunması durumunda başvuruların Elektrik Piyasası Kanunun 3 üncü maddesinin 5 inci fıkrası hükmü uyarınca Türkiye Elektrik İletim A.Ş.ye gönderilmesine ilişkin alınan Kurul Kararını müteakip gelen geri çekme başvurularının yarışma sürecinin sonuçlanmasından sonra değerlendirilmesine ilişkin alınan Kurul Kararı",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZEc7/BFHNcw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZEc7/BFHNcw="
+  ],
+  "source_sha256": "026abacaa14320585df30461f9bc8a950ef74d66fedc56c349ec91597f0cd449",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-02-17",
+  "law_text_complete": false
+}
