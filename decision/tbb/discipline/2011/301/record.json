@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "301",
+  "date": "2011-02-18",
+  "title": "T. 18.02.2011 E. 2010/590 K. 2011/100",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/301",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=5&yil=2011",
+  "listing_sha256": "af6553997d65fa330de05ebd5fd2585e41eb254601782c2cc7d7d7051a32568c",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
