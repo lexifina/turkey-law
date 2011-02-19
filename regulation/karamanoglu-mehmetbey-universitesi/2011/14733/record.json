@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-02-19",
+      "19.02.2011",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27851",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-02-19",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Karamanoğlu Mehmetbey Üniversitesi",
+  "issuer_slug": "karamanoglu-mehmetbey-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/karamanoglu-mehmetbey-universitesi/2011/14733",
+  "published": "2011-02-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14733&MevzuatTertip=5",
+  "source_bytes": 21774,
+  "source_id": "8.5.14733",
+  "source_sha256": "6da15986006395a78f4fa01123f7da84882f353ef4b9a78f0b6e24a9b8e7bd37",
+  "text_status": "as-enacted",
+  "title": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ TÜRK DİLİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 311,
+  "word_count": 934
+}
