@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "302",
+  "date": "2011-02-19",
+  "title": "T. 19.02.2011 E. 2010/614 K. 2011/111",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/302",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=4&yil=2011",
+  "listing_sha256": "22920619052b1f3d75330f4c6f373b953dee733aa0b081e18e2cde1b3fd37a26",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
