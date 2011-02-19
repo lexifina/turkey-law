@@ -1,0 +1,43 @@
+{
+  "source_id": "9.5.6153",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 340)",
+  "number": "6153",
+  "path": "teblig/2004/6153",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6153&MevzuatTertip=5",
+  "source_sha256": "4940a65200189211543bcad8c1e5ba5c77116faed7f27c99ed85e41f238f9aba",
+  "source_bytes": 103155,
+  "published": "2004-09-30",
+  "gazette": "25599",
+  "in_force": "2011-02-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/2/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-02-19",
+      "RG-19/2/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-08-22",
+      "RG-22/8/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3591,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.gib.gov.tr/?id=988&no_cache=1&tx_CSTeblig_pi1%5belement%5d=LeVx6iV3O22tYGbL&tx_CSTeblig_pi1%5bupdate%5d=1&tx_CSTeblig_pi1%5bkanun%5d=NZU91etB5D3k3Kii#_ftn1",
+    "https://intvd.gib.gov.tr/",
+    "9.5.6153%20ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
