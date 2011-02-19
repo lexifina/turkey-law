@@ -1,0 +1,2 @@
+İhale onay belgesi
+MADDE 12 – (1) İhalesi yapılacak her iş için bir onay belgesi hazırlanır ve bu belge ihale yetkilisi tarafından imzalanır. Bu belgede; ihale konusu olan işin nevi, niteliği, miktarı, varsa tahmini bedeli, ihalede uygulanacak usul, yapılacak ise ilanın şekli ve adedi, alınacak ise geçici teminat miktarı belirtilir. Onay belgesinde ayrıca, ihale dokümanının bir bedel karşılığında verilip verilmeyeceği, bedel karşılığında verilecekse bedelin ne kadar olacağı belirtilir.

@@ -1,0 +1,2 @@
+Teminat alınması zorunlu olmayan hâller
+MADDE 24 – (1) Bu Yönetmelik kapsamında yapılacak ihalelerde 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununda yer alan genel yönetim kapsamındaki kamu idareleri, özel kanunla kurulmuş kamu kurum, kurul, üst kurul ve kuruluşları, kamu iktisadi teşebbüsleri ve bunların bağlı ortaklıkları, müessese, işletme ve birliklerinden teminat alınmayabilir.

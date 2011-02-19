@@ -1,0 +1,2 @@
+Açık teklif usulünün uygulanması
+MADDE 31 – (1) Açık teklif usulüne göre ihaleler, isteklilerin ihale komisyonu önünde tekliflerini sözlü olarak belirtmeleri suretiyle yapılır. Ancak istekliler, ilanda veya ihale dokümanında belirtilen ihale saatine kadar ihale komisyonu başkanlığına ulaşması şartıyla, 26 ncı madde hükümlerine uygun olarak düzenleyecekleri tekliflerini iadeli taahhütlü mektupla da gönderebilirler. İstekli ihalede hazır bulunmadığı takdirde posta ile gönderdiği teklifi son ve kesin teklifi olarak kabul edilir.

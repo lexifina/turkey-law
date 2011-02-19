@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Maliye Bakanlığını,
+b) Genel Müdür: Milli Piyango İdaresi Genel Müdürünü,
+c) İdare: Milli Piyango İdaresi Genel Müdürlüğünü,
+ç) İhale: Bu Yönetmelikte yazılı esas ve usuller çerçevesinde, işin istekliler arasından seçilecek birisi üzerine bırakıldığını gösteren ve ihale yetkilisinin onayını müteakip sözleşmenin imzalanması ile tamamlanan işlemleri,
+d) İhale dokümanı: İhale konusu işe ilişkin idari, teknik, özel şartnameler ile gerekli diğer belge ve bilgileri,
+e) İhale onay belgesi: İhaleye çıkılması hususunun ihale yetkilisince onaylandığını gösteren belgeyi,
+f) İhale yetkilisi: Yönetim Kurulunu,
+g) İstekli: İhaleye katılan gerçek ve tüzel kişileri veya ortak girişimleri,
+ğ) Kira: Taşınır ve taşınmazlar ile hakların belli bir bedel ve süre karşılığında kullandırılmasını,
+h) Kiracı: Kira ihalesi üzerinde kalan ve kendisi ile sözleşme imzalanan isteklileri,
+ı) Müşteri: Üzerine ihale yapılan istekliyi,
+i) Ortak girişim: İhaleye katılmak üzere birden fazla gerçek veya tüzel kişinin aralarında yaptıkları anlaşma ile oluşturulan iş ortaklığını,
+j) Reklam: Taşınır ve taşınmazlar üzerinde veya internet sayfasında bir ürünün, hizmetin, faaliyetin, kurumsal kimliğin sesli, görüntülü veya yazılı olarak tanıtımını,
+k) Satış: Taşınır ve taşınmazlar ile hakların satışını,
+l) Sözleşme: İdare ile ihale üzerinde kalan istekli arasında yapılan yazılı anlaşmayı,
+m) Şartname: Yapılacak işlerin genel, özel, teknik ve idari esas ve usullerini gösteren belge veya belgeleri,
+n) Teklif: Bu Yönetmeliğe göre yapılacak ihalelerde isteklinin İdareye sunduğu fiyat teklifi ile değerlendirmeye esas bilgi ve belgeleri,
+o) Tahmini bedel: İhale konusu olan işlerin tahmin edilen bedelini,
+ö) Uygun bedel: Bedeli tahmin edilen ihalelerde tahmin edilen bedelden aşağı olmamak üzere teklif edilen bedellerin en yükseğini, bedel tahmini yapılamayan ihalelerde ise teklif edilen bedellerin en yükseğini,
+p) Yönetim Kurulu: İdare Yönetim Kurulunu,
+ifade eder.

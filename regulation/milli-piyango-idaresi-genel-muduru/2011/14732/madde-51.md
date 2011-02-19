@@ -1,0 +1,2 @@
+Müşterinin sözleşmenin feshine neden olması
+MADDE 51 – (1) Sözleşme yapıldıktan sonra müşterinin; taahhüdünden vazgeçmesi veya taahhüdünü, şartname ve sözleşme hükümlerine uygun olarak yerine getirmemesi üzerine İdarenin en az on gün süreli ve gerekçeleri açıkça belirtilen ihtarına rağmen aynı durumu devam ettirmesi hâlinde, ayrıca protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatı İdareye gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir. Gelir kaydedilen teminatlar müşterinin borcuna mahsup edilmez.

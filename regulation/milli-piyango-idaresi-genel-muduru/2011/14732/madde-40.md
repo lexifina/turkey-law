@@ -1,0 +1,3 @@
+İhale kararlarının onayı veya iptal edilmesi
+MADDE 40 – (1) İhale komisyonu tarafından alınan ihale kararları ihale yetkilisince, karar tarihini izleyen en geç on iş günü içinde onaylanır veya gerekçesi belirtilmek suretiyle iptal edilir. İhale; kararın onaylanması hâlinde geçerli, iptal edilmesi hâlinde hükümsüz sayılır.
+(2) İhale kararları ihale yetkilisince onaylanmadan önce İdare, ihale üzerinde kalan istekli ile varsa en yüksek ikinci teklif sahibi isteklinin ihalelere katılmaktan yasaklı olup olmadığını teyit ettirerek buna ilişkin belgeyi ihale kararına eklemek zorundadır. İki isteklinin de yasaklı çıkması durumunda ihale iptal edilir.

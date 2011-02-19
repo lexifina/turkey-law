@@ -1,0 +1,4 @@
+İlanın uygun olmaması ve düzeltme ilanı
+MADDE 17 – (1) 16 ncı madde hükümlerine uygun olmayan ilanlar geçersizdir. Bu durumda, ilan yenilenmedikçe ihale yapılamaz. İlanda değişiklik yapılması zorunlu görülürse, değişiklikler ve nedenleri bir tutanakla tespit edilir. Yeni ilan veya düzeltme ilanı ihale tarihinden en az bir hafta önce yapılır. Gerektiğinde ihale tarihi yeniden belirlenebilir. Bu durumda, ilk ilan nedeniyle istekliler İdareden herhangi bir hak ve masraf talebinde bulunamazlar.
+(2) İlanların geçersizliği ihale yapıldıktan sonra anlaşılırsa, ihale yetkilisinin kararıyla ihale iptal edilir, ayrıca imzalanmış ise sözleşme feshedilir. Ancak işin ivediliği ve ihalede İdare yararının bulunması durumunda, ihale ve imzalanmış ise sözleşme Genel Müdürün önerisi ve Yönetim Kurulu kararı ile geçerli sayılabilir.
+(3) Sözleşmenin feshi hâlinde, müşterinin fesih tarihine kadar yapmış olduğu gerçek masrafları iade edilir.

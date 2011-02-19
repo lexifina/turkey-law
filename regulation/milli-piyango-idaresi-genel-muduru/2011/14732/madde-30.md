@@ -1,0 +1,2 @@
+Kapalı teklif usulünde tekliflerin geçerlilik süresi
+MADDE 30 – (1) Kapalı teklif usulünde, tekliflerin asgari geçerlilik süresi ihale dokümanında belirtilir. İdare bu sürenin, sözleşme koşulları değiştirilmemek kaydıyla en fazla ihale dokümanında belirtilen teklif geçerlilik süresi kadar uzatılmasını teklif sahiplerinden yazılı olarak isteyebilir. İstekliler cevaplarını belirtilen süre içinde yazılı olarak bildirirler. Kabul etmeyen istekliler geçici teminatları iade edilmek suretiyle ihale dışı bırakılır.

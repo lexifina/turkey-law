@@ -1,0 +1,7 @@
+YEDİNCİ BÖLÜM
+Sözleşme, Görev ve Sorumluluklar
+İhalenin sözleşmeye bağlanması
+MADDE 45 – (1) Bu Yönetmelik hükümlerine göre yapılan ve onaylanan ihalelerin, belirtilen istisnalar dışında sözleşmeye bağlanması esastır. Sözleşmeler İdare adına Genel Müdür veya yetkili kıldığı personel tarafından müşteri ile birlikte imzalanır. İsteklinin ortak girişim olması hâlinde, sözleşmeler ortak girişimin bütün ortakları tarafından imzalanır. İhale dokümanında aksi belirtilmedikçe sözleşmelerin notere tescili ve onaylattırılması zorunlu değildir.
+(2) Sözleşme imzalanması için verilen süre içinde ihale bedelinin peşin ödenmesi hâlinde sözleşme yapılması zorunlu değildir.
+(3) İhale dokümanında belirtilen şartlara aykırı sözleşme düzenlenemez.
+(4) Sözleşmelerde; işin konusu, tarafların adı ve unvanı ile tebligata esas adresleri, sözleşme bedeli ve süresi ile ödeme şartları, ulaşım, sigorta, vergi, resim ve harç giderlerinden hangisinin sözleşme bedeline dâhil olacağı, vergi, resim ve harçlar ile sözleşmeyle ilgili diğer giderlerin kimin tarafından ödeneceği, kesin teminat miktarı ile kesin teminatın iadesine ait şartlar, işe konu taşınır veya taşınmazın yeri, teslim etme ve teslim alma şekil ve şartları, cezai şartlar, mücbir sebepler ve süre uzatımı verilebilme şartları, sözleşmede değişiklik yapılma şartları, sözleşmenin feshine ilişkin şartlar, ihale dokümanında yer alan bütün belgelerin sözleşmenin eki olduğu, anlaşmazlıkların çözümü ile İdare tarafından gerekli görülebilecek diğer hususlar bulunur.

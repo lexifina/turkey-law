@@ -1,0 +1,2 @@
+Kesinleşen ihale kararlarının bildirilmesi
+MADDE 41 – (1) İhale yetkilisince onaylanan ihale kararları, onay tarihini izleyen en geç beş iş günü içinde üzerine ihale yapılan dâhil olmak üzere, ihaleye teklif veren bütün isteklilere imza karşılığı elden tebliğ edilir veya tebligat adreslerine iadeli taahhütlü mektupla bildirilir. Mektubun postaya verilmesini takip eden yedinci gün kararın tebliğ tarihi sayılır. İhale kararlarının ihale yetkilisince iptal edilmesi hâlinde de, durum bütün isteklilere aynı şekilde bildirilir.

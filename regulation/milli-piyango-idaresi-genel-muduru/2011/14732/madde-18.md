@@ -1,0 +1,5 @@
+İhale dokümanında değişiklik yapılması
+MADDE 18 – (1) İlan yapıldıktan sonra ihale dokümanında değişiklik yapılmaması esastır. Ancak, tekliflerin hazırlanmasını veya işin gerçekleştirilmesini etkileyebilecek maddi veya teknik hatalar veya eksikliklerin İdarece tespit edilmesi veya isteklilerce yazılı olarak bildirilmesi hâlinde, ihale tarihinden on gün öncesine kadar zeyilname düzenlenmek suretiyle ihale dokümanında değişiklik yapılabilir.
+(2) Zeyilname, ihale dokümanı alanların tümüne iadeli taahhütlü mektup yolu ile gönderilir veya imza karşılığı elden verilir.
+(3) Yapılan değişiklik nedeniyle tekliflerin hazırlanabilmesi için ek süreye ihtiyaç duyulması hâlinde İdare ihale tarihini, bir defaya mahsus olmak üzere en fazla yirmi gün süreyle zeyilname ile erteleyebilir. Erteleme süresince ihale dokümanı satılmasına ve teklif alınmasına devam edilir.
+(4) Şartnamelerde zeyilname ile düzeltilemeyecek hususlar varsa ihale, ilan edilmek suretiyle iptal edilir. Gerekli düzeltmeler yapıldıktan sonra yeniden ihaleye çıkılır.
