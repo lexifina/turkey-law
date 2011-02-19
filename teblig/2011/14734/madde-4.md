@@ -1,0 +1,4 @@
+Damping iddiası
+MADDE 4- (1) Şikayet konusu üründe Romanya iç piyasa fiyatlarına ulaşılamamış olması nedeniyle şikayet konusu ülkenin AB üyesi ülkelere ilişkin FOB ortalama satış fiyatı normal değer olarak alınmıştır.
+(2) İhraç fiyatı olarak Romanya’dan Türkiye’ye gerçekleşen satışların EUROSTAT’tan elde edilen FOB ihraç fiyatları kullanılmıştır. Şikâyet konusu ülkeden Türkiye’ye gerçekleştirilen satışların ortalama CIF fiyatının belirlenmesinde ise iki ayrı metoda başvurulmuştur. Birinci metodda, EUROSTAT’tan elde edilen FOB fiyatlara makul oranda navlun ve sigorta eklenerek; ikinci metodda TÜİK ithalat istatistikleri kullanılarak hesaplama yapılmıştır. Her iki hesaplamada aynı CIF değeri vermiştir.
+(3) Normal değer ile Türkiye’ye ihraç fiyatının mümkün olduğu ölçüde aynı ticari aşamada (FOB fiyatlar) karşılaştırılması yoluyla hesaplanan damping marjının şikayete konu ülke menşeli ürün için önemli oranda olduğu görülmüştür.
