@@ -1,0 +1,4 @@
+Adres ve çağrı işareti değişiklikleri
+MADDE 10 – (1) İkamet adresi değişen amatör telsizciler ile organizasyonlar yeni adreslerini üç ay içinde KEGM’ne bildirmek zorundadır.
+(2) Amatör telsizcilik belgesi için yapılan başvuruda beyan edilen ikamet adresi farklı bir bölge içinde kalacak şekilde değişen amatör telsizciler/organizasyonlar ile faaliyet konusu değişen organizasyonlar amatör telsizcilik faaliyetlerine devam edebilmek için üç ay içerisinde müracaat ederek yeni çağrı işareti tahsisi ve belge yenilenmesi talebinde bulunmak zorundadır. Ancak mevcut çağrı işaretlerini değiştirmek istememeleri halinde ise; KEGM’ne bildirilmek kaydıyla, değişen bölge rakamını (/) işaretinden sonra eklemek koşulu ile mevcut çağrı işaretini kullanabilirler.
+(3) Çağrı işaret değişikliği talepleri, bu madde ile bu Yönetmeliğin 6 ncı maddesinin birinci, ikinci, üçüncü, dördüncü, altıncı ve yedinci fıkra hükümleri gözetilerek karşılanır.
