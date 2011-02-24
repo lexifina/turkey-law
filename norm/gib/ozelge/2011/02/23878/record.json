@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.02-190-3/8-19",
+  "source_id": 23878,
+  "date": "2011-02-24",
+  "title": "Serbest avukatlık faaliyetinde bulunan kişinin mükellefiyet kaydından önceki aya ait kira bedeli üzerinden tevkifat yapıp yapmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23878",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "989533055b1fbee9280e7fef5ec2f7cbeb0fd6d94f0dd4366002bf6d4872bc36",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
