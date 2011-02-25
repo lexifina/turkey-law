@@ -4,4 +4,4 @@ Genel müdür yardımcılarının en az yedi yıllık meslekî deneyime sahip ve
 Genel müdürlüğe ve yardımcılıklarına atanacakların, bu maddede aranan şartları taşıdıklarını gösteren belgelerle birlikte Kuruma bildirilmesi şarttır. Bildirimden itibaren yedi iş günü içinde Kurumca olumsuz görüş bildirilmemesi durumunda ilgili kişilerin atamaları yapılabilir.
 Herhangi bir nedenle görevden ayrılan genel müdür ve yardımcılarının görevden ayrılma nedenleri, ilgili banka ve görevden ayrılan tarafından yedi iş günü içinde Kuruma bildirilir.
 Bu madde uygulamasında, genel müdürün sahip olması gereken nitelikler ve atanmalarına veya görevden ayrılmalarına ilişkin yükümlülükler bakımından, yurt dışında kurulu bankaların Türkiye'deki merkez şubesi müdürü, genel müdür gibi değerlendirilir.
-Genel müdür ve genel müdür yardımcıları, konsolide denetime tâbi ortaklıklar hariç başka bir ticari kuruluşta tam veya yarı zamanlı olarak görev alamaz.
+(Mülga altıncı fıkra: 13/2/2011-6111/144 md.)
