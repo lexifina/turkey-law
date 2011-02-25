@@ -78,8 +78,8 @@ Bakanlar Kurulu, bu madde uyarınca eksik hesaplanacak özel tüketim vergisi tu
 Bu maddenin uygulamasına ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.
 GEÇİCİ MADDE 4 — (Ek: 21/4/2005-5335/20 md.)
 24.11.1994 tarihli ve 4046 sayılı Kanun kapsamına alınan kuruluşlara ait malların, aynı Kanun hükümleri kapsamında devredilmesi halinde vergiyi doğuran olay, bu malların devralanlar tarafından tesliminde gerçekleşir ve özel tüketim vergisinin mükellefi bu teslimi gerçekleştirenlerdir.
-GEÇİCİ MADDE 5 – (Ek: 9/7/2008-5784/10 md.)
-31/12/2012 tarihine kadar, Kanuna ekli (I) sayılı listenin (A) cetvelinde yer alan 2710.19.61.00.11, 2710.19.61.00.19, 2710.19.63.00.11, 2710.19.63.00.19, 2710.19.65.00.11, 2710.19.65.00.19, 2710.19.69.00.11 ve 2710.19.69.00.99 G.T.İ.P. numaralı malların yalnızca elektrik üretiminde kullanılmak üzere teslimi ile birincil yakıtı doğalgaz ve ikincil yakıtı akaryakıt olan santrallara Enerji ve Tabii Kaynaklar Bakanlığı talimatı veya onayı ile Kanuna ekli (I) sayılı listenin (A) cetvelinde yer alan 2710.19.41.00.11, 2710.19.41.00.18, 2710.19.45.00.11, 2710.19.45.00.12 ve 2710.19.49.00.11 G.T.İ.P. numaralı malların aynı amaçla kullanılmak üzere teslimi vergiden müstesnadır.
+GEÇİCİ MADDE 5 – (Ek: 9/7/2008-5784/10 md.) (1)
+31/12/2012 tarihine kadar, Kanuna ekli (I) sayılı listenin (A) cetvelinde yer alan 2710.19.61.00.11, 2710.19.63.00.11, 2710.19.65.00.11 ve 2710.19.69.00.11 G.T.İ.P. numaralı malların yalnızca elektrik üretiminde kullanılmak üzere teslimi ile birincil yakıtı doğalgaz ve ikincil yakıtı akaryakıt olan santrallara Enerji ve Tabii Kaynaklar Bakanlığı talimatı veya onayı ile Kanuna ekli (I) sayılı listenin (A) cetvelinde yer alan 2710.19.41.00.11, 2710.19.41.00.13 ve 2710.19.45.00.12 G.T.İ.P. numaralı malların aynı amaçla kullanılmak üzere teslimi vergiden müstesnadır.
 Bu maddenin uygulanmasına ilişkin usul ve esasları Maliye Bakanlığı belirlemeye yetkilidir.
 GEÇİCİ MADDE 6 – (Ek: 16/6/2009-5904/19 md.)
 31/12/2013 tarihine kadar, bu Kanuna ekli (IV) sayılı listede yer alan 8517.12.00.00.11 G.T.İ.P. numaralı malların karşısında gösterilen orana göre hesaplanan verginin, bu malların her bir adedi için 40 Türk Lirasından az olması halinde, orana göre hesaplanan vergi yerine her bir adet için 40 Türk Lirası vergi alınır. Bakanlar Kurulu bu tutarı sıfıra kadar indirmeye, üç katına kadar artırmaya yetkilidir.
@@ -91,3 +91,5 @@ c) Diğer hükümleri 1.8.2002 tarihinden geçerli olmak üzere yayımı tarihin
 Yürürlüğe girer.
 Yürütme
 MADDE 20 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+––––––––––––––––––
+(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 89 uncu maddesiyle, bu maddede yer alan “2710.19.61.00.11, 2710.19.61.00.19, 2710.19.63.00.11, 2710.19.63.00.19, 2710.19.65.00.11, 2710.19.65.00.19, 2710.19.69.00.11 ve 2710.19.69.00.99 G.T.İ.P. numaralı” ibaresi “2710.19.61.00.11, 2710.19.63.00.11, 2710.19.65.00.11 ve 2710.19.69.00.11 G.T.İ.P. numaralı” olarak; “2710.19.41.00.11, 2710.19.41.00.18, 2710.19.45.00.11, 2710.19.45.00.12 ve 2710.19.49.00.11 G.T.İ.P. numaralı” ibaresi “2710.19.41.00.11, 2710.19.41.00.13 ve 2710.19.45.00.12 G.T.İ.P. numaralı” olarak değiştirilmiştir.

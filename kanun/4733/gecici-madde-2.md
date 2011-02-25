@@ -1,0 +1,2 @@
+Geçici Madde 2- (Ek: 24/7/2003-4955/1 md.)
+2002 yılı ürünü ekici tütünlerinden, bu Kanunun 6 ncı maddesi çerçevesinde yazılı sözleşme yapılmaksızın üretilip, açık artırma merkezlerinde alıcısı çıkmadığı için açık artırma yöntemiyle satılma imkânı da bulunamayan tütünler, bir defaya mahsus olmak üzere ve Kurul tarafından belirlenip tebliğ edilmiş açık artırma başlangıç fiyatlarının % 50’sinden aşağı olmamak kaydıyla Genel Müdürlükçe satın alınabilir.

@@ -4,6 +4,7 @@ a) Otoyol, Devlet ve il yolları ağına giren karayolları güzergâhları ile 
 b) Hazırlayacağı programlar uyarınca karayollarını yapmak, yaptırmak, emniyetle kullanılmalarını sağlayacak şekilde sürekli bakım altında bulundurmak, bakımını yaptırmak, onarmak, onarımını yaptırtmak, işletmek, işlettirmek.
 c) Görev alanına giren karayolu ağlarının yapımı, bakımı, onarımı ve diğer hususlar hakkında teknik nitelik ve şartları tespit etmek veya ettirmek ve gerekli şartnameleri hazırlamak.
 ç) Otoyollar ve bunların üzerinde bulunan bakım ve işletme tesisleri ile hizmet tesislerinin, diğer mal ve hizmet üretim birimleri ile varlıklarının yapımını ve/veya bakım ve onarımını ve/veya işletmesini yapmak veya yaptırmak ve denetlemek.
+10609
 d) Karayollarının kullanılmasına, teknik emniyet ve korunmasına yönelik kurallar ile tüm karayollarındaki işaretleme standartlarını uluslararası uygulamaları da dikkate alarak tespit etmek, yayımlamak ve kontrol etmek.
 e) Görev alanına giren karayollarında, uygun göreceği yol işaretlerini belirlemek, uygun yerlere koymak ve bu kapsama giren işleri yapmak veya yaptırmak.
 f) Görev alanına giren işler için gerekli plan, harita, etüt ve proje işleri ile araştırma- geliştirme çalışmaları yapmak veya yaptırmak.
@@ -16,5 +17,6 @@ j) Otoyol, Devlet ve il yollarında karayolu sınır çizgisi içinde kalan uygu
 k) Görev alanındaki karayolları güzergâhlarındaki taşınmazlarla ilgili olarak tahsis, devir, kamulaştırma veya ilgili diğer hukuki süreçlerin tamamlanmasını müteakip ilgili taşınmazların tapu sicillerinde terkin ve diğer işlemlerini yapmak veya yaptırmak.
 l) Talep halinde ve ücret karşılığında kamu kurum ve kuruluşları ile yerli ve yabancı özel sektörden ilgililere faaliyet konuları ile ilgili eğitim hizmeti vermek.
 m) İş ve faaliyetlerine ilişkin veri ve bilgileri derlemek, basmak, yayımlamak veya yayımlatmak.
+10610
 n) 8/6/1994 tarihli ve 3996 sayılı Bazı Yatırım ve Hizmetlerin Yap-İşlet-Devret Modeli Çerçevesinde Yaptırılması Hakkında Kanun ve 28/5/1988 tarihli ve 3465 sayılı Karayolları Genel Müdürlüğü Dışındaki Kuruluşların Erişme Kontrollü Karayolu (Otoyol) Yapımı, Bakımı ve İşletilmesi ile Görevlendirilmesi Hakkında Kanun kapsamında gerçekleştirilecek yatırım ve hizmetlerle ilgili görevlendirilen şirketlere, ihale aşamasında ilan edilmek kaydıyla, gerektiğinde ortak olmak ve bununla ilgili işlemleri yapmak.
 o) Görev alanına giren konularda kanunlarla verilen diğer işleri yapmak veya yaptırmak.

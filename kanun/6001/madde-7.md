@@ -11,6 +11,7 @@ f) Makine ve İkmal Dairesi Başkanlığı
 g) Sanat Yapıları Dairesi Başkanlığı
 ğ) Taşınmazlar Dairesi Başkanlığı
 h) Program ve İzleme Dairesi Başkanlığı
+10611
 (3) Danışma ve denetim birimleri aşağıdaki birimlerden oluşur:
 a) Teftiş Kurulu Başkanlığı
 b) Hukuk Müşavirliği

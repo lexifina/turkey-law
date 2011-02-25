@@ -1,5 +1,8 @@
 Yürütme
 MADDE 49- (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+––––––––––––––
+(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 189 uncu maddesiyle bu fıkrada yer alan “altı ay” ibaresi “bir yıl” olarak değiştirilmiş ve metne işlenmiştir.
+10625
 (I) SAYILI CETVEL
 KARAYOLLARI GENEL MÜDÜRLÜĞÜ
 MERKEZ TEŞKİLATI

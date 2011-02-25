@@ -1,2 +1,2 @@
 Tarımsal destekleme
-MADDE 7 — (Mülga: 24/7/2008-5793/47 md.)
+Madde 7 — (Mülga: 24/7/2008-5793/47 md.)

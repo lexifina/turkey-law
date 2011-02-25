@@ -15,3 +15,4 @@ h) İşletme hakkı verilen hizmet tesislerinden elde edilen gelirler.
 ı) Kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerden gelen hizmet talepleri çerçevesinde elde edilen gelirler.
 i) Her türlü bağış, yardım ve nema gelirleri ile diğer gelirler.
 (2) Genel Müdürlüğün her türlü iç ve dış borçlanması Hazine Müsteşarlığının iznine bağlıdır.
+10613
