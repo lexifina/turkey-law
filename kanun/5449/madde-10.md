@@ -1,0 +1,12 @@
+Yönetim kurulu
+Madde 10 — Yönetim kurulu, ajansın karar organıdır.
+Yönetim kurulu, tek ilden oluşan bölgelerde vali, büyükşehir belediye başkanı, il genel meclisi başkanı, sanayi odası başkanı, ticaret odası başkanı ile kalkınma kurulu tarafından özel kesim ve/veya sivil toplum kuruluşlarından seçilecek üç temsilciden; birden fazla ilden oluşan bölgelerde il valileri, büyükşehir belediye başkanları veya büyükşehir olmayan illerde il merkez belediye başkanları, il genel meclisi başkanları ve her ilden birer kişi olmak kaydıyla ticaret ve sanayi odası başkanlarından oluşur. Ancak, birden fazla ilden oluşan bölgelerdeki illerde; ticaret ve sanayi odalarının ayrı ayrı kurulmuş bulunması halinde, yönetim kurulunda yer alacak temsilci Türkiye Odalar ve Borsalar Birliği Yönetim Kurulu tarafından belirlenir.
+Ajansı, yönetim kurulu başkanı temsil eder. Yönetim kurulunun başkanı validir. Yönetim kurulu ilk toplantısında üyeleri arasından bir başkan vekili seçer.
+Birden fazla ilden oluşan bölgelerde yönetim kurulu başkanlığı; ilk yıl ajans merkezi olarak tespit edilen ilin valisi tarafından, müteakip yıllarda illerin alfabetik sırasına göre bölgedeki valiler tarafından birer yıl süreyle dönüşümlü olarak yürütülür.
+Tek ilden oluşan bölgelerde kalkınma kurulu tarafından seçilen yönetim kurulu üyelerinin görev süresi iki yıl olup görev sürelerini tamamlamadan herhangi bir şekilde üyeliklerinin sona ermesi halinde, kalan süreleri sırasına göre yedek üyelerce tamamlanır. Görevi sona eren üyeler tekrar seçilebilir. Yönetim kurulu üyeliği, üyelerin temsil ettikleri kurum ve kuruluşlardaki görevlerini sürdürmelerine engel teşkil etmez.
+9689
+Yönetim kurulu üyeleri ajans ile ilgili gizlilik taşıyan bilgileri ve bu Kanunun uygulanması sırasında öğrendikleri çalışma alanlarındaki sırları, görevlerinden ayrılmış olsalar bile ifşa edemezler, kendilerinin veya başkalarının menfaatine kullanamazlar.
+Yönetim kurulu üyeleri, kendileri, eşleri ve ikinci dereceye kadar kan ve kayın hısımlarını doğrudan ilgilendiren konular ile sahibi ya da ortağı oldukları ticarî işletmelere ilişkin toplantıya ve oylamaya katılamaz.
+Yönetim kurulu, başkanın daveti üzerine üye tamsayısının yarısından bir fazlası ile her ay en az bir kere toplanır. Yönetim kurulu toplantılarına başkanın yokluğunda başkan vekili başkanlık eder.
+Yönetim kurulu, toplantıya katılanların oy çokluğu ile karar alır. Eşitlik durumunda, başkanın oyu yönünde karar alınır.
+Ajans genel sekreteri, oy hakkı olmamak kaydı ile yönetim kurulu toplantılarına katılır.

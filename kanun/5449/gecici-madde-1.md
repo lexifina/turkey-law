@@ -1,0 +1,1 @@
+Geçici Madde 1 — Bütün ajanslar kurulup faaliyete geçene kadar 19 uncu maddenin birinci fıkrasının (a) bendi uyarınca tahsis edilecek transfer ödeneği, kurulmuş ajans sayısı dikkate alınarak belirlenir. Ajanslar kuruldukları tarih itibarıyla yılın geri kalanı için kendilerine düşen payı kullanma hakkını kazanır.
