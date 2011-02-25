@@ -1,0 +1,5 @@
+Kaçakçılığı önleme, izleme ve araştırmakla görevli olanlar
+MADDE 19 – (1) Mülkî amirler, Gümrük Müsteşarlığı personeli ile Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığına bağlı personel, bu Kanunla yaptırım altına alınan fiilleri önleme, izleme ve araştırmakla yükümlüdür.
+(2) Kaçakçılığı önleme, izleme ve soruşturmakla görevli olanlar, operasyon gerektiren kaçakçılık olaylarından haberdar olduklarında kanunî görevlerini yapmaya başlar ve aynı zamanda mahallin en büyük mülkî amirine de bilgi verirler.
+(3) Kaçakçılığı önleme, izleme ve soruşturmakla görevli olanların bu Kanun kapsamına giren suçlarla ilgili bilgi ve belge talepleri, kamu veya özel, gerçek veya tüzel kişilerce, savunma hakkına ilişkin hükümler saklı kalmak kaydıyla eksiksiz olarak karşılanmak zorundadır.
+(4) Kaçakçılık olaylarını ihbar edenlerin kimlikleri, izinleri olmadıkça veya ihbarın niteliği haklarında suç oluşturmadıkça açıklanamaz. Bu kişiler hakkında tanıkların korunmasına ilişkin hükümler uygulanır.
