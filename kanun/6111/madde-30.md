@@ -1,0 +1,4 @@
+MADDE 30-5510 sayılı Kanunun 41 inci maddesinin birinci fıkrasına aşağıdaki bent ile aynı fıkraya aşağıdaki cümle eklenmiş ve dördüncü fıkrasının (b) bendi aşağıdaki şekilde değiştirilmiştir.
+“i) Bu bendin yürürlüğe girdiği tarihten sonraki sürelere ilişkin olmak üzere, 4857 sayılı Kanuna göre kısmi süreli iş sözleşmesi ile çalışan sigortalıların, kısmi süreli çalıştıkları aylara ait eksik süreleri,”
+“(i) bendi kapsamında borçlanılacak sürelere ilişkin genel sağlık sigortası primlerinin ödenmiş olması halinde, genel sağlık sigortası primi ödenmiş bu sürelere ilişkin borçlanma tutarı % 20 oranı üzerinden hesaplanır.”
+“b) Birinci fıkranın (c) ve (ı) bentleri gereği borçlananlar, 4 üncü maddenin birinci fıkrasının (c) bendine, (i) bendine göre borçlananlar ise 4 üncü maddenin birinci fıkrasının (a) bendine göre,”

@@ -1,0 +1,2 @@
+MADDE 31-5510 sayılı Kanunun 45 inci maddesinin dördüncü fıkrasına aşağıdaki cümleler eklenmiştir.
+“Bu durumdaki sigortalıların aylıksız izinli oldukları süreler için prime esas kazanç alt sınırının altında olmamak kaydıyla aylıksız izne ayrıldıkları tarihteki prime esas kazançları üzerinden % 12 oranında genel sağlık sigortası primi işverenlerince ödenir. Ancak askerlik hizmeti nedeniyle aylıksız izne ayrılanların genel sağlık sigortası priminin ödenmesinde, bir yıllık süre sınırı uygulanmaz.”
