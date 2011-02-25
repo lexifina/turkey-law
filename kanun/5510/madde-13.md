@@ -1,5 +1,6 @@
 ÜÇÜNCÜ BÖLÜM
-Hizmet Akdiyle veya Kendi Adına ve Hesabına Bağımsız Çalışan Sigortalıların Tabi Olduğu Kısa Vadeli Sigorta Hükümleri (3)
+Hizmet Akdiyle veya Kendi Adına ve Hesabına Bağımsız Çalışan Sigortalıların Tabi Olduğu Kısa Vadeli
+Sigorta Hükümleri (3)
 İş kazasının tanımı, bildirilmesi ve soruşturulması
 MADDE 13- İş kazası;
 a) Sigortalının işyerinde bulunduğu sırada,

@@ -29,8 +29,11 @@ GEÇİCİ MADDE 3 – 4760 sayılı Özel Tüketim Vergisi Kanununa ekli (II) sa
 (7) Bu maddede yer alan listelerle ilgili olarak 28/2/2009 tarihli ve 27155 (Mükerrer) sayılı Resmi Gazete’de yayımlanan 5838 sayılı Kanunun ekine bakınız.
 9- 16/6/2009 tarihli ve 5904 sayılı Kanunun 17 nci maddesi:
 MADDE 17 – 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununun Eki (I) sayılı listesinin (B) cetveline, bu Kanuna ekli (1) sayılı cetvelde yer alan G.T.İ.P. numaralı mal, vergi tutarı ile birlikte eklenmiştir. (1)
+10- 13/2/2011 tarihli ve 6111 sayılı Kanunun 87 nci maddesi:
+MADDE 87- 6/6/2002 tarihli ve 4760 sayılı Özel Tüketim Vergisi Kanununun ekinde yer alan (I), (II), (III) ve (IV) sayılı listeler; ekli (1), (2), (3) ve (4) sayılı cetvellerde gösterildiği şekilde değiştirilmiştir. (2)
 ––––––––––––––––––
 (1) Bu maddede yer alan listelerle ilgili olarak 3/7/2009 tarihli ve 27277 sayılı Resmi Gazete’de yayımlanan 5904 sayılı Kanunun ekine bakınız.
+(2) Bu maddede yer alan listelerle ilgili olarak 25/2/2011 tarihli ve 27857 (Mükerrer) sayılı Resmi Gazete’de yayımlanan 6111 sayılı Kanunun ekine bakınız
 Mevzuatın | Yayımlandığı Resmi Gazete’nin
 Türü | Numarası | Tarihi | Numarası
 B.K.K | 2002/4481 | 30/7/2002 | 24831

@@ -12,3 +12,4 @@ Anayasa Mah.’nin E.: 2005/139, K.: 2007/33 sayılı Kararı | 92, 121, Geçici
 5510 (5754 sayılı Kanun ile değişik) | Geçici Madde 23 | 1/10/2008
 5766 | Geçici Madde 26 ve 27 | 6/6/2008
 Anayasa Mah.’nin E.: 2008/66, K.: 2008/131 sayılı Kararı | 132 | 13/11/2008
+6111 | 3, 15, 25, 35, 36, 73, 82, 95, Ek Madde 1, Geçici Madde 28 ve 29 | 25/2/2011
