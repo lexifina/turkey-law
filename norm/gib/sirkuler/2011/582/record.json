@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-75/2011-1 Vergi Tarifesi",
+  "source_id": 582,
+  "date": "2011-02-25",
+  "title": "Yıllık gelir vergisi beyannamesinde ücretler ile birlikte diğer gelir unsurlarınında beyan edilmesi ve beyannamedeki toplam gelirin 50.000 TL yi aşması durumunda gelir vergisinin hesaplanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/582",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "ada12e3e4f6d59c92f5b4c44fe1218c483f2386d948c30b748e32ec4dd147337",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
