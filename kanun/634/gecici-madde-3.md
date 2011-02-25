@@ -1,0 +1,5 @@
+Geçici Madde 3 – Bu Kanunun yürürlüğe girmesinden önce kurulan toplu yapılara ait yönetim plânları, yürürlük tarihinden itibaren en geç altı ay içinde bu Kanun hükümlerine uyarlanır. Yönetim plânında bu yönde değişiklik yapılması için mevcut kat malikleri kurulunun salt çoğunluğu yeterlidir. Mevcut toplu yapı yönetimleri, yönetim plânı değişip buna göre yönetici seçilene kadar geçici yönetim olarak görevini sürdürür. Toplu yapı yöneticisi seçimi, en geç yönetim plânının değişimini takip eden üç ay içinde yapılır.
+——————————
+(1) 10/6/1985 tarih ve 3227 sayılı Kanunun 1 inci maddesiyle “Yürürlük tarihi” ile ilgili 57 nci madde 66, “Yürütme makamı” ile ilgili 58 inci madde de 67 nci madde olarak, numaralandırılmıştır.
+(2) 14/11/2007 tarihli ve 5711 sayılı Kanunun 22 nci maddesiyle; 65 inci maddeden sonra gelmek üzere "Toplu Yapılara İlişkin Özel Hükümler" başlıklı "Dokuzuncu Bölüm" altında 66, 67, 68, 69, 70, 71, 72, 73, 74 üncü maddeler eklenmiş, mevcut 66 ve 67 nci maddeler, 75 ve 76 ncı maddeler olarak teselsül ettirilmiştir.
+4155-4177

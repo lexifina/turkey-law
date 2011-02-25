@@ -1,0 +1,1 @@
+Madde 62 – Kat mülkiyetine çevrilmiş birden fazla bağımsız bölümlerden bazılarının üzerinde devre mülk hakkı kurulması, aksi yönetim planında kararlaştırılmamışsa, diğer bağımsız bölüm maliklerinin muvafakatlarına bağlı değildir.

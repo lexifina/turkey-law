@@ -1,0 +1,8 @@
+Madde 46 – Kat mülkiyeti, kat mülkiyeti kütüğündeki sicil kaydının silinmesiyle sona erer.
+Anagayrimenkulün bütün bağımsız bölümlerinin bir tek kişinin mülkiyetinde toplanmasiyle kat mülkiyeti kendiliğinden sona ermez.
+Sicil kaydı, bütün kat maliklerinin veya bütün bağımsız bölümleri kendi mülkiyetinde toplamış bulunan malikin, anagayrimankuldeki kat mülkiyetinin adi mülkiyete çevrilmesine ait yazılı istemi üzerine silinir ve o gayrimenkul, müstakil bölümlere bağlı arsa paylarına göre, genel kütükte yeni bir sayfaya gaçirilerek ve eski kayıtlariyle bağlantı sağlanmak suretiyle tescil olunur. Anagayrimenkulün niteliğinde kat mülkiyetinin kurulmasından sonra değişiklikler olmuşsa, yeni sicil kaydına bunlar da yazılır.
+Bağımsız bölümlerden biri bir ayni hakla veya sicile şerh verilen bir şahsi hakla kayıtlanmış bulunuyorsa, hak sahibinin muvafakatiyle o hak kütükten silinmedikçe, anagayrimenkul üzerindeki kat mülkiyetinin adi mülkiyete çevrilmesi ve kat mülkiyeti kütüğündeki sicil kaydının silinmesi istenemez.
+Kayıtlayıcı hakkın sahibi, sicil kaydının silinmesine muvafakat etmemekle beraber hakkının yalnız borçluya ait mülkiyet payına veya hakkın niteliğine göre, bütün ortak mülkiyet paylarına aktarılmasına muvafakat ederse bu hak sicilden silinmeksizin yalnız borçlunun, adi mülkiyet gayrimenkuldeki bütün ortak mülkiyet payları üzerine geçirilmek suretiyle genel kütüğe tescil olunur.
+Anagayrimenkulün arsasiyle birlikte tamamen yok olması veya kamulaştırılması halinde sicil kaydının silinmesi genel hükümlere göre yapılır.
+Anagayrimenkul kamulaştırılırsa, her bağımsız bölümün kamulaştırma bedeli bağlantılı bulunduğu arsa payı ve eklentileri de gözönünde tutularak ayrı ayrı takdir olunur ve o bölümün malikine ödenir.
+4148

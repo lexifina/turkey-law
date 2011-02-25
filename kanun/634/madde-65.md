@@ -1,0 +1,1 @@
+Madde 65 – Devre mülk hakkı sahiplerinin hak ve borçları, yetki ve sorumluluklarının tespit ve uyuşmazlıkların çözümlenmesinde bu Kanunda, sözleşmede veya yönetim planında hüküm bulunmayan hallerde Türk Medeni Kanunu ve ilgili diğer kanun hükümleri uygulanır.

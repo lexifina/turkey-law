@@ -1,0 +1,6 @@
+D) Kat irtifakının kurulması:
+Madde 14 – (Değişik birinci fıkra: 23/6/2009-5912/3 md.) Henüz yapı yapılmamış veya yapısı tamamlanmamış bir arsa üzerinde kat irtifakının kurulması ve tapu siciline tescil edilmesi için o arsanın malikinin veya bütün paydaşlarının buna ait istem ile birlikte 12 nci maddenin (a) bendine uygun olarak düzenlenen proje ile (b) bendindeki yönetim plânını tapu idaresine vermeleri lazımdır. Kat mülkiyetine geçişte ayrıca yönetim plânı istenmez.
+Bir arsa üzerinde kat irtifakları ancak sözleşmede veya dilekçede her kat irtifakının ilgili bulunduğu bağımsız bölüme tahsisi istenen arsa payı, arsanın kayıtlı olduğu kütüğün (Beyanlar) hanesinde belirtilmek suretiyle kurulur ve yapının, verilen projeye göre tamamlanmasından sonra kat mülkiyetine konu olacak bağımsız bölümlerinin numarası ve bu bölümlere bağlı eklentiler kütüğün beyanlar hanesinde belirtilir.
+(Değişik üçüncü fıkra: 23/6/2009-5912/3 md.) Yapının tamamlanmasından sonra kat irtifakının kat mülkiyetine çevrilmesi, kat irtifakının tesciline ait resmi senede ve 12 nci maddede yazılı belgelere dayalı olarak, yetkili idarece yapı kullanma izin belgesinin verildiği tarihten itibaren altmış gün içinde ilgili tapu idaresine gönderilmesi üzerine resen yapılır.
+4138
+(Ek fıkra: 14/11/2007-5711/7 md.; Mülga: 23/6/2009-5912/3 md.)

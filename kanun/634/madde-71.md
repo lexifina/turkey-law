@@ -1,0 +1,4 @@
+Yönetici ve denetçi atama
+Madde 71 – (Ek: 14/11/2007-5711/22 md.)
+Yönetim plânında başka türlü düzenlenmedikçe, blok kat malikleri kurulu blok için, blok niteliğinde olmayan yapıların yer aldığı parseldeki kat malikleri kendilerine özgülenen ortak yer ve tesisler için, toplu yapı temsilciler kurulu ise toplu yapı kapsamındaki bütün ortak yapı, yer ve tesisler için yönetici ve denetçi atar.
+Blok yöneticisi ve denetçisi, bloktaki kat maliklerinin; blok niteliğinde olmayan yapıların ortak yer ve tesisleri için yönetici ve denetçi, bu yapılardaki kat maliklerinin sayı ve arsa payı bakımından çoğunluğu tarafından seçilir. Toplu yapı kapsamındaki bütün ortak yapı, yer ve tesisler için yönetici ve denetçi ise, toplu yapı temsilciler kuruluna katılan yönetici ve temsilcilerin, yönettikleri ve temsil ettikleri bağımsız bölüm sayısının salt çoğunluğunun oyu ile atanır.

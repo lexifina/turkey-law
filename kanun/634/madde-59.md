@@ -1,0 +1,1 @@
+Madde 59 – Devre mülk hakkının yılın belirli dönemlerine ayrılması ve 15 günden daha az süreli olmaması gerekir. Sözleşmede aksi kararlaştırılmamışsa devre mülk hakkı sahibi bu hakkın kullanımını başkalarına bırakabilir.

@@ -1,0 +1,1 @@
+Madde 60 – Ana taşınmaz mal ile bağımsız bölümlerin ve müstakil yapıların tapu kütüklerinin beyanlar hanesine, bağımsız bölüm veya yapı üzerinde devre mülk hakkı kurulduğu işaret edilir ve düzenlenecek tapu senedinde de bu husus belirtilir.
