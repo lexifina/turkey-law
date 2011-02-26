@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2011/120",
+  "list_number": "120",
+  "decision_date": "2011-02-26",
+  "title": "2011 yılı içinde yapılacak XXIV. Dönem Milletvekili Genel Seçimlerinde Yurt Dışı Seçmen Kütüğüne kayıtlı seçmenlerin oy kullanma yöntemlerine ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2816/2011-120.pdf",
+  "source_sha256": "5e4c209f76af5c5e4811dc6f1eac3428de7d24484b751a9d3181103f5ac37a96",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 10,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-02-26",
+  "law_text_complete": false
+}
