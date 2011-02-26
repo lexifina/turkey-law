@@ -1,0 +1,4 @@
+Sözleşme yapılmasında müşterinin görev ve sorumluluğu
+MADDE 33 – (1) Sözleşme yapılması gerekli olan hallerde müşteri, onaylanan ihale kararının bildirilmesini izleyen günden itibaren on gün içinde varsa geçici teminatı kesin teminata çevirerek istenen belgeleri vermek suretiyle sözleşmeyi imzalamak zorundadır.
+(2) Satış ve trampa ihalelerinde müşterinin aynı süre içinde ihale bedelini, varsa müşteriye ait trampa bedel farkını ve müşteriye ait bulunan vergi, resim ve harçları yatırması, diğer giderleri ödemesi gerekir.
+(3) Bu zorunluluklara uyulmadığı takdirde, protesto çekmeye ve hüküm almaya gerek kalmaksızın ihale bozulur ve varsa geçici teminat gelir kaydedilir. Bu durumda İdare, ikinci uygun bedel teklif fiyatının ihale yetkilisince uygun görülmesi kaydıyla, bu teklif sahibi istekli ile de bu Yönetmelikte belirtilen usullere göre sözleşme imzalayabilir.

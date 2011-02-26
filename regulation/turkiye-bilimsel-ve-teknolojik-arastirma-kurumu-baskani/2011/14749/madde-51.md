@@ -1,0 +1,4 @@
+Büfe, kantin, çay ocağı gibi yerler
+MADDE 51 – (1) Kurumun özel mülkiyetinde olan taşınmaz mallarda görev yapan personelin ihtiyacının giderilmesine yardımcı olmak amacıyla, İdarenin teklifi ile uygun görülen bir yer, büfe, kantin, çayocağı gibi bir amaç için ayrılabilir. Bu yerlerin elektrik, su, havagazı, ısıtma tesisatı mümkün olduğu kadar kuruluşça binanın genel tesisatından ayrılır. Bu tesisatın teknik bakımından müstakil hale getirilmesi mümkün olmaması halinde tahmin edilen bedelin tesbit ve hesaplanmasında elektrik, su, havagazı, ısıtma giderleri de gösterilir.
+(2) İşletme hakkı verilen büfe, kantin, çayocağı gibi yerlerin işletme hakkına ait tahmini bedel, hesap tutanağında gösterilir.
+(3) İşletme hakkı verilen şahıs veya kuruluş ile İdare arasında sözleşme düzenlenir. Bünyesinde büfe, kantin, çayocağı gibi yerler açılan İdarenin gerekli gördüğü kurallar bu sözleşmenin özel şartlar bölümünde gösterilir.

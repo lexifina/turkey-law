@@ -1,0 +1,3 @@
+Tekliflerin alınması ve açılması
+MADDE 21 – (1) İhale komisyonunca ihale saatine kadar kaç teklif verilmiş olduğu bir tutanakla tespit edilerek, hazır bulunanlara duyurulur ve derhal ihaleye başlanır.
+(2) İsteklilerin belgelerinin eksik olup olmadığı teklif mektubu ile isteniyorsa geçici teminata ilişkin belgelerin usulüne uygun olup olmadığı kontrol edilir. Belgeleri eksik veya teklif mektubu ile geçici teminatı usulüne uygun olmayan istekliler tutanakla tespit edilir. İstekliler ve teklif fiyatları açıklanır. Bu işlemlere ilişkin hazırlanan tutanak ihale komisyonunca imzalanır. Bu aşamada; hiçbir teklifin reddine veya kabulüne karar verilmez, teklifi oluşturan belgeler düzeltilemez ve tamamlanamaz. Teklifler ihale komisyonunca değerlendirilmek üzere oturum kapatılır.

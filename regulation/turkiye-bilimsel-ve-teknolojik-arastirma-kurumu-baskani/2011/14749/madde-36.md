@@ -1,0 +1,3 @@
+Müşterinin sözleşmenin bozulmasına neden olması
+MADDE 36 – (1) Sözleşme yapıldıktan sonra müşterinin taahhüdünden vazgeçmesi veya taahhüdünü, şartname ve sözleşme hükümlerine uygun olarak yerine getirmemesi üzerine, İdarenin en az on gün süreli ve nedenleri açıkça belirtilen ihtarına rağmen aynı durumun devam etmesi halinde, ayrıca protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatı gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir ve hakkında 69 uncu madde gereğince işlem yapılır.
+(2) Gelir kaydedilen kesin teminat, müşterinin borcuna mahsup edilemez.

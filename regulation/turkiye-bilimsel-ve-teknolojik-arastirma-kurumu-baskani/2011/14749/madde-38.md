@@ -1,0 +1,2 @@
+Sözleşmenin devri
+MADDE 38 – (1) Büfe, kantin ve çay ocaklarının kiraya verilmesine ilişkin sözleşme ile taşınır mal ve hakların satışı ile ilgili sözleşme düzenlenmiş ise sözleşmeler ihale süresi ile sınırlı olarak ihale yetkilisinin izni ile başkasına devredilebilir veya ortak alınabilir. Ancak, devir alacaklarda ve ortak olacaklarda ilk ihaledeki şartlar aranır. İzinsiz devir yapılması halinde sözleşme bozulur ve müşteri hakkında 36 ncı madde hükümleri uygulanır.

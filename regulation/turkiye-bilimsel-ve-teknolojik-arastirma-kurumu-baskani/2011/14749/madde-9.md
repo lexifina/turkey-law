@@ -1,0 +1,6 @@
+Tahmin edilen bedel tespiti
+MADDE 9 – (1) Tahmin edilen bedel, ihale yetkilisi tarafından, birisi başkan olmak üzere en az üç kişiden oluşturulacak kıymet takdir komisyonu tarafından tespit edilir veya ettirilir. İdarece ilgili mevzuat çerçevesinde bedeli tespit edilmiş veya etiketlenmiş mal, malzeme, kitap dergi gibi ürünler için yeniden kıymet takdir komisyonu kurulmaz.
+(2) Ön izin bedeli, irtifak hakkı ihale bedelinin yüzde yirmisidir. Fiilî kullanım olması halinde ön izin bedeli, irtifak hakkı veya kullanma izni ihale bedelidir.
+(3) Ön izin verilen hallerde, ilk yıl irtifak hakkı bedeli; ihale ile belirlenen bedelin ön izinde geçen süre dikkate alınarak Türkiye İstatistik Kurumunca yayımlanan Üretici Fiyatları Endeksi (ÜFE – bir önceki yılın aynı ayına göre yüzde değişim) oranında artırılması suretiyle tespit edilecek bedeldir.
+(4) Tespitin İdarece doğrudan yapılması halinde de gerekirse bedel veya bedelin hesabında kullanılacak fiyatlar ilgili kurum, kuruluş veya bilirkişilerden de soruşturulabilir.
+(5) Tespit ve hesaplamalar bunun dayanaklarının da eklendiği tutanakta gösterilir, tutanak asıl evrak arasında saklanır. Bu bedel, gerektiğinde ihale komisyonunca tahkik ettirilir.

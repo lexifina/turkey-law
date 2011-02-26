@@ -1,0 +1,3 @@
+İhale saatinden önce veya sonra ihalenin iptali
+MADDE 28 – (1) İdare tarafından gerekli görülen veya ihale dokümanında yer alan belgelerde ihalenin yapılmasına engel olan ve düzeltilmesi mümkün bulunmayan hususların tespit edildiği hallerde, ihale saatinden önce ihale iptal edilebilir.
+(2) İhale yetkilisinin onayından önceki herhangi bir aşamada, ihale komisyonu kararı üzerine İdare, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere derhal bildirilir. İdare, bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Ancak, İdare isteklilerin talepte bulunması halinde, ihalenin iptal edilme gerekçelerini talep eden isteklilere bildirir.
