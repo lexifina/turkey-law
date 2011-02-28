@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.17.4-140",
+  "source_id": 31890,
+  "date": "2011-02-28",
+  "title": "Adi ortaklığın sermaye şirketine dönüşmesi halinde KDV ve KV açısından yapılacak işlem hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31890",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "5fd93d402577005a3fa64bd799b0bf635ac54e7b0df78cf55db19d62e155d023",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
