@@ -1,0 +1,3 @@
+Merkez müdürü
+MADDE 8 – (1) Merkez Müdürü; konuyla ilgili ODTÜ öğretim elemanları arasından Rektör tarafından üç yıllığına görevlendirilir. Süresi sona eren Merkez Müdürü tekrar görevlendirilebilir.
+(2) Merkezin faaliyet alanlarıyla ilgili alanlarda uzman ODTÜ öğretim elemanlarından bir veya daha fazla kişi Merkez müdür yardımcısı olarak görevlendirilir. Müdür yardımcıları, Merkez Müdürünün önerisi üzerine Rektör tarafından görevlendirilir. Merkez Müdürü görevi başında olmadığı zaman Merkez müdür yardımcılarından birini vekil bırakır. Göreve vekâlet dört aydan fazla sürerse yeni bir Merkez Müdürü görevlendirilir. Müdür yardımcılarının görev süresi, Merkez Müdürünün görev süresiyle sınırlıdır.
