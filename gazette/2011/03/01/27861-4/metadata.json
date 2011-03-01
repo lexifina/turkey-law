@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-03-01",
+  "issue": "27861",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2011/1427 İthalat Rejimi Kararına Ek Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110301-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110301.htm",
+  "index_sha256": "5bb036705b13de67cc37a0fc3561c1eadb00b81358c5941ff86ff351f7680f59",
+  "index_header": "1 Mart 2011 ... 27861 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "f4479c73c189abcd2e8e879b099ad6dc0ce9c1e2e4af59bf89890bc1cef32bd1",
+  "text_status": "text.txt as published"
+}
