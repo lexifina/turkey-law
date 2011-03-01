@@ -1,0 +1,2 @@
+Dış temsilciliklerde görevli personel ile ilgili protokol esasları
+MADDE 9 – (1) Dış temsilciliklerde uygulanacak öndegelim esaslarından bu Yönetmelikte düzenlenmemiş olanlar hakkında 12/2/1986 tarihli ve 19017 sayılı Resmî Gazete’de yayımlanan Diplomatik Temsilciliklerde Diplomatik Statüyü, Konsolosluklarda Konsolosluk Memuru Statüsünü Haiz Personel ile İlgili Protokol Esasları Hakkında Yönetmelik hükümleri uygulanır.

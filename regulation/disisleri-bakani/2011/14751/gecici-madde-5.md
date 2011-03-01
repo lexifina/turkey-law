@@ -1,0 +1,2 @@
+Aynı tarihte başkâtiplik ve konsolosluk yeterlilik sınavına girecekler
+GEÇİCİ MADDE 5 – (1) 6004 sayılı Kanunun geçici 2 nci maddesi kapsamında olup aynı tarihte başkâtiplik ve konsolosluk yeterlilik sınavına girecek meslek memurlarından dördüncü ve daha üst unvan grubuna aynı tarihte geçenler için, öndegelim sıralamasının belirlenmesinde meslek memuru statüsüne giriş tarihleri, bu statüye aynı tarihte girmiş olanlar için ise başkatiplik ve konsolosluk yeterlilik sınavındaki başarı sırası dikkate alınır.
