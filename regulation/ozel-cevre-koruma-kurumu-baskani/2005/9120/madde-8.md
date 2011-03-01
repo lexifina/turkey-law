@@ -1,0 +1,9 @@
+Duyuru ve görevde yükselme eğitimine alınma
+Madde 8 — (Başlığı ile birlikte değişik:RG-1/3/2011-27861)
+Görevde yükselme veya unvan değişikliği suretiyle atama yapılacak kadrolar sınavlardan en az kırkbeş gün önce kurum personeline duyurulur. Başvuru süresi en az beş iş günü olarak belirlenir. İlan edilen kadrolar için belirlenen başvuru süresinin son günü itibarıyla aranan nitelikleri taşıyan personel, duyuruda belirtilen şekilde kurumuna başvuruda bulunabilir. Aylıksız izinde bulunanlar da dahil olmak üzere, ilgili mevzuatı uyarınca verilmesi zorunlu olan izinleri kullanmakta olan kurum personelinin, görevde yükselme eğitimi ve sınavına katılmaları mümkündür. Ancak, başvuru süresinin son günü ile sınav tarihi arasındaki sürede yıllık izin kullanılamaz. Duyurudan önce yıllık izinde bulunanlar, en geç eğitimin başlangıç tarihine kadar izinlerini sona erdirmek kaydıyla, başvuruda bulunabilirler.
+Görevde yükselme eğitimine katılacakların sayısı, duyurulan boş kadro sayısının üç katını geçemez. Üç katından az istekli bulunması halinde, başvuru şartlarını taşıyan başvuru sahibi tüm personelin eğitime alınması sağlanır. Duyurulan kadro sayısının üç katından fazla personelin başvurması hâlinde, 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin ekinde yer alan Personel Değerlendirme Formunda belirtildiği şekilde puanlama yapılmak suretiyle, toplam puanı en fazla olandan başlamak üzere, kadro sayısının üç katı kadar personel belirlenerek eğitime alınır. Ancak, yapılan puanlama sonunda eşitlik olması hâlinde, sırasıyla;
+a) Hizmet süresi fazla olanlara,
+b) Daha üst öğrenimi bitirmiş olanlara,
+c) Üst öğrenim mezuniyet notu yüksek olanlara,
+öncelik verilir.
+Görevde yükselme eğitimini tamamlayanlar, görevde yükselme sınavına katılmaya hak kazanırlar.

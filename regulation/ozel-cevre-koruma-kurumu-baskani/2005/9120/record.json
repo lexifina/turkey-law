@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.9120",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL ÇEVRE KORUMA KURUMU BAŞKANLIĞI GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "9120",
+  "issuer": "Özel Çevre Koruma Kurumu Başkanı",
+  "issuer_slug": "ozel-cevre-koruma-kurumu-baskani",
+  "path": "regulation/ozel-cevre-koruma-kurumu-baskani/2005/9120",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9120&MevzuatTertip=5",
+  "source_sha256": "8ac56f5bc9b307e0a79726446e56ba0aaccde4b59ccee44ea31f05307aec6800",
+  "source_bytes": 71380,
+  "published": "2005-07-21",
+  "gazette": "25882",
+  "in_force": "2011-03-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/3/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-03-01",
+      "RG-1/3/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-08-15",
+      "R.G.-15/8/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3440,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,3 @@
+Kazanılmış haklar
+Madde 27 — Bu Yönetmelik kapsamına giren unvanları, ilgili mevzuatları uyarınca kazananların hakları saklıdır. 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin Resmî Gazete’de yayımlandığı 18/4/1999 tarihinde görevde bulunanlardan o tarihte iki yıllık yüksek öğrenimi tamamlayanlar, diğer şartlara sahip oldukları takdirde bu Yönetmeliğin uygulanması bakımından dört yıllık yüksek öğrenim görmüş kabul edilirler.
+Yukarıda adı geçen Yönetmeliğin yürürlüğe girdiği tarihte Kurumda görevde bulunan personel bakımından bu Yönetmelikte unvanlar itibarıyla öngörülen öğrenim düzeylerinin bir alt öğrenim düzeyi belirlenebilir.

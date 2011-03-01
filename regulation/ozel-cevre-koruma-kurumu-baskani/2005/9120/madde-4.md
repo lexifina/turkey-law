@@ -1,0 +1,22 @@
+Tanımlar
+Madde 4 — Bu Yönetmelikte geçen;
+Bakanlık: Çevre ve Orman Bakanlığını,
+Bakan: Çevre ve Orman Bakanını,
+Kurum: Özel Çevre Koruma Kurumu Başkanlığını,
+Kurum Başkanı: Özel Çevre Koruma Kurumu Başkanını,
+Birim: Özel Çevre Koruma Kurumu Başkanlığı Merkez ve Taşra Teşkilatı birimlerini,
+Ana Hizmet Birimi: 19/10/1989 tarihli ve 383 sayılı Özel Çevre Koruma Kurumu Başkanlığı Kurulmasına Dair Kanun Hükmünde Kararnamenin 11 inci maddesinde belirtilen birimleri,
+Birim Yöneticisi: I. Hukuk Müşaviri, Daire Başkanı ve Özel Çevre Koruma Müdürünü,
+Görev grupları: Benzer veya eşit düzeydeki unvanların gruplandırılmasını,
+Görev unvanı: Bu Yönetmeliğin 5 inci maddesinde sayılan görev grupları içinde belirtilen görev unvanlarını,
+Hizmet süresi: 657 sayılı Devlet Memurları Kanununun 68 inci maddesi çerçevesinde; ücretsiz izinli geçen süreler hariç, Kurumda çalışılan süreler ile genel ve katma bütçeli idareler, mahalli idareler, kamu kurum ve kuruluşlarında fiilen çalışılan süreler, resmi veya özel müesseseler ve meslekleriyle ilgili serbest çalışılan süreler ile muvazzaf askerlikte geçen süreleri,
+Görevde yükselme: Bu Yönetmelikte belirtilen görevlere aynı veya başka hizmet sınıflarından yapılacak atamaları,
+Görevde yükselme eğitimi: Görevde yükselmeye ilişkin olarak görevlerin özelliklerine göre verilecek hizmet içi eğitimi,
+Görevde yükselme sınavı: Görevde yükselme eğitimini tamamlayanların tabi tutulacağı yazılı sınavı,
+Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+Üst görev: 27/9/1984 tarihli ve 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+Alt görev: 27/9/1984 tarihli ve 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılan atamaları,
+(Ek:RG-1/3/2011-27861) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde meslekî veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanabilmek için, eğitime tabi tutulmaksızın yapılan yazılı sınavı,
+(Ek:RG-1/3/2011-27861) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç, diğer günleri,
+ifade eder.
