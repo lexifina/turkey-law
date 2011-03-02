@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-002.01-151",
+  "source_id": 21492,
+  "date": "2011-03-02",
+  "title": "Sitede çalıştırılan güvenlik görevlisi ve kapıcılara ödenen ücretlere ilişkin gelir vergisi ve damga vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/21492",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "14d883c3dfc31f3b728702e740f2a0ef89773be16fe7695d13fc839200eabaf2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
