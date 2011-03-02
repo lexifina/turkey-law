@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-VRS:5.MD-2010-47-110",
+  "source_id": 36535,
+  "date": "2011-03-02",
+  "title": "Mirasçılara intikal eden özürlü aracı ile ilgili olarak ÖTV-MTV-VİV mükellefiyeti.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36535",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "d98e0a9dde5c75d0f27f4462b9726635b33e0cfea0bd0690de3a9469f2807230",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
