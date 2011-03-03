@@ -5,6 +5,8 @@ b) Öğretim bölümleri ile yönetim birimleri arasında düzenli çalışmayı
 c) Akademi birimleri ve öğretim elemanları dahil her düzeydeki personel üzerinde genel gözetim ve denetim görevini yapmak,
 d) Her eğitim-öğretim yılı sonunda Akademinin eğitim-öğretim, bilimsel araştırma ve yayın faaliyetleri hakkında dekandan aldığı rapora, varsa görüşlerini de eklemek suretiyle Genel Müdürlüğe vermek,
 e) Akademinin, fakültenin, enstitünün ve polis meslek yüksek okullarının yatırım programlarını ve bütçe tekliflerini, kadro ihtiyaçlarını Genel Müdürlüğe bildirmek ve verilecek emirler doğrultusunda uygulamak,
+––––––––––––––––––––
+(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “genel lise, erkek teknik öğretim, kız teknik öğretim ve ticaret ve turizm öğretimine bağlı okul mezunları” ibaresi “lise ve dengi okulları bitirenler” şeklinde değiştirilmiştir.
 f) Gerekli gördüğü hallerde Akademide görevli öğretim elemanlarının Akademideki görevlerine son verilmesi veya görev yerlerinin değiştirilmesi hususunda Genel Müdürlüğe teklifte bulunmak,
 g) Bu Kanunla ve diğer kanunlarla belirlenen görevleri yapmak,
 İle görevli ve bunlarla ilgili çalışma düzeni kurmaya yetkilidir.

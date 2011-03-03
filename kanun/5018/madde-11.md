@@ -5,3 +5,4 @@ MADDE 11 - Bakanlıklarda müsteşar, diğer kamu idarelerinde en üst yönetici
 ––––––––––––––––––
 (1) 22/12/2005 tarihli ve 5436 sayılı Kanunun 10 uncu maddesiyle, bu maddenin son fıkrasında yer alan "planları" ibaresi "programları" şeklinde değiştirilmiş ve metne işlenmiştir.
 (2) 22/12/2005 tarihli ve 5436 sayılı Kanunun 10 uncu maddesiyle, bu maddenin son fıkrasında yer alan ", malî kontrol yetkilisi" ve "ile muhasebe yetkilisi" ibareleri yürürlükten kaldırılmıştır.
+(3) 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu maddede yer alan “Yükseköğretim Kurulu,” ibaresinden sonra gelmek üzere “Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı,” ibaresi eklenmiş ve metne işlenmiştir.

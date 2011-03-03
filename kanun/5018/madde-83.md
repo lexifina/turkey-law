@@ -66,14 +66,14 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 (4) 17/2/2010 tarihli ve 5952 sayılı Kanunun 18 inci maddesiyle, bu cetvele 33 üncü sırasından sonra gelmek üzere "34) Kamu Düzeni ve Güvenliği Müsteşarlığı" ibaresi eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.
 (5) 25/6/2010 tarihli ve 6001 sayılı Kanunun 43 üncü maddesiyle, bu cetvelde yer alan “43) Karayolları Genel Müdürlüğü” ibaresi çıkarılmış ve cetveldeki idarelerin sıra numaraları buna göre teselsül ettirilmiştir.
 (6) 11/12/2010 tarihli ve 6087 sayılı Kanunun 46 ncı maddesiyle, bu cetvele 6 ncı sırasından sonra gelmek üzere “7) Hâkimler ve Savcılar Yüksek Kurulu” ibaresi eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.
-(II) SAYILI CETVEL
+(II) SAYILI CETVEL (1)
 (Değişik: 22/12/2005-5436/12 md.)
 ÖZEL BÜTÇELİ İDARELER
 A) YÜKSEKÖĞRETİM KURULU,
 ÜNİVERSİTELER VE YÜKSEK
 TEKNOLOJİ ENSTİTÜLERİ
 1) Yükseköğretim Kurulu
-2) Öğrenci Seçme ve Yerleştirme Merkezi
+2) Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı (1)
 3) İstanbul Üniversitesi
 4) İstanbul Teknik Üniversitesi
 5) Ankara Üniversitesi
@@ -117,6 +117,8 @@ TEKNOLOJİ ENSTİTÜLERİ
 43) Kahramanmaraş Sütçü İmam Üniversitesi
 44) Kırıkkale Üniversitesi
 45) Kocaeli Üniversitesi
+–––––––––––––––––––
+(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu cetvelde yer alan “2 – Öğrenci Seçme ve Yerleştirme Merkezi” ibaresi yerine “2 – Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı” ibaresi eklenmiştir.
 46) Mersin Üniversitesi
 47) Muğla Üniversitesi
 48) Mustafa Kemal Üniversitesi
