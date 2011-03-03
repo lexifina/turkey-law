@@ -1,7 +1,7 @@
 BEŞİNCİ BÖLÜM
 Fakülte Öğrencileri
 Öğrenci kaynağı, öğrencilerin istihkakları, özlük işlemleri ve mecburi hizmet yükümlülüğü ile evlenme yasağı
-MADDE 15 — Fakültenin esas öğrenci kaynağı polis kolejidir. İhtiyaç halinde, genel lise, erkek teknik öğretim, kız teknik öğretim ve ticaret ve turizm öğretimine bağlı okul mezunları arasından yönetmelikle belirtilecek şartları taşıyan öğrenciler de fakülteye alınabilirler.
+MADDE 15 — Fakültenin esas öğrenci kaynağı polis kolejidir. İhtiyaç halinde, lise ve dengi okulları bitirenler arasından yönetmelikle belirtilecek şartları taşıyan öğrenciler de fakülteye alınabilirler. (1)
 İlgili devletlerle yapılacak ikili anlaşmalara bağlı olarak yabancı uyruklu öğrencilerin Akademiye kabul edilmeleri Bakanın onayı ile olur.
 Yabancı uyruklu öğrenciler eğitim-öğretimi izleyebilecek Türkçe dil yeterliklerinin sınav ile tespit edilmesinden sonra öğretime başlatılır.
 Yabancı uyruklu öğrenciler Akademi öğrencilerine uygulanan kurallara uymakla yükümlüdür.
