@@ -1,0 +1,8 @@
+Perakende satış hizmeti faaliyetine ait destek tutarın tespiti
+MADDE 8- (Değişik:RG-29/12/2010-27800 - 6. Mükerrer)
+(1) Perakende satış lisansı sahibi tüzel kişinin t tarife dönemine ait perakende satış hizmeti gelir tavanı (1/1/2011 tarihi itibarıyla sayaç okuma ve sayaç okuma gideri dışındaki gelir ihtiyacı) ile t tarife dönemi için onaylanmış ulusal perakende hizmet birim bedelleri esas alınarak dağıtım sistemi kullanıcısı tüketicilerden (1/1/2011 tarihi itibarıyla sayaç okuma giderine karşılık tüm dağıtım sistemi kullanıcılarından, sayaç okuma gideri dışındaki gelir ihtiyacı için tedarikçisi perakende satış lisansı sahibi dağıtım şirketi olan dağıtım sistemi kullanıcılarından) elde etmesi öngörülen perakende satış hizmeti geliri arasındaki fark aşağıda yer alan formüle göre hesaplanır.
+PSHDTt = (PSHGTt −UPSFGTt) | (4)
+PSHDTt | Perakende satış lisansı sahibi tüzel kişinin t tarife dönemine ait perakende satış hizmeti faaliyetine özgü öngörülen desteklenecek tutarı (TL),
+PSHGTt | İlgili mevzuata göre hesaplanan perakende satış lisansı sahibi tüzel kişinin t tarife dönemine ait perakende satış hizmeti gelir tavanını (1/1/2011 tarihi itibarıyla sayaç okuma ve sayaç okuma gideri dışındaki gelir ihtiyacı) (TL),
+UPSFGTt | Perakende satış lisansı sahibi tüzel kişinin t tarife dönemine ait ulusal perakende satış hizmet birim bedelleri esas alınarak dağıtım sistemi kullanıcısı tüketicilerden (1/1/2011 tarihi itibarıyla sayaç okuma giderine karşılık tüm dağıtım sistemi kullanıcılarından, sayaç okuma gideri dışındaki gelir ihtiyacı için tedarikçisi perakende satış lisansı sahibi dağıtım şirketi olan dağıtım sistemi kullanıcılarından) elde etmesi öngörülen perakende satış hizmet geliri (TL),
+ifade eder.
