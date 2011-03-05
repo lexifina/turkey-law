@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.14775",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2011/3)",
+  "number": "14775",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2011/14775",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14775&MevzuatTertip=5",
+  "source_sha256": "2e94992188afb114a45fef1994742bc1680203eedd1cce75cc98c117a6674d77",
+  "source_bytes": 44237,
+  "published": "2011-03-05",
+  "gazette": "27865",
+  "in_force": "2011-03-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.03.2011); own commencement article: \"Bu Tebliğ, 4/3/2011 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 4/3/2011 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 642,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14775%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
