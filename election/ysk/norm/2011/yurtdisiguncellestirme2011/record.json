@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2011/yurtdisiguncellestirme2011",
+  "list_number": "158",
+  "genelge_number": "Örnek: 140/II",
+  "decision_date": "2011-03-07",
+  "title": "12 Haziran 2011 tarihinde yapılacak olan XXIV. Dönem Milletvekili Genel Seçiminde Yurt Dışı Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1776/YurtdisiGuncellestirme2011.pdf",
+  "source_sha256": "454076cad8791c52b9cff5002c562c2f5f8ffaa4c9a87c301dcdd6acf152a0c3",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-03-07",
+  "law_text_complete": false
+}
