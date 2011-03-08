@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2011/169",
+  "list_number": "169",
+  "decision_date": "2011-03-08",
+  "title": "XXIV. Dönem Milletvekili Genel Seçiminde Sandık Kurullarının Görev ve Yetkilerini Gösterir Örnek: 135 sayılı Genelge hakkında Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2796/2011-169.pdf",
+  "source_sha256": "0a27adc6599f07752fd324da1c93cc78f71dad96692878aaefb6c5643af34330",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 23,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-03-08",
+  "law_text_complete": false
+}
