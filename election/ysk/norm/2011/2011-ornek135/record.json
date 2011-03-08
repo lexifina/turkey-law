@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2011/2011-ornek135",
+  "list_number": "169",
+  "genelge_number": "Örnek: 135",
+  "decision_date": "2011-03-08",
+  "title": "12 Haziran 2011 tarihinde yapılacak olan XXIV. Dönem Milletvekili Genel Seçiminde Sandık Kurullarının Görev ve Yetkilerini Gösterir Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1780/2011-Ornek135.pdf",
+  "source_sha256": "be9dbf14a86b153b0f94cdfa74f62ef3f6a3a40ba180b825d6e102b8294cd981",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 22,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-03-08",
+  "law_text_complete": false
+}
