@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2011/2011-ornek139",
+  "list_number": "164",
+  "genelge_number": "Örnek: 139",
+  "decision_date": "2011-03-08",
+  "title": "12 Haziran 2011 tarihinde yapılacak olan XXIV. Dönem Milletvekili Genel Seçiminde İl, İlçe, Yurt Dışı İlçe ve Geçici İlçe Seçim Kurullarının Görev ve Yetkilerini Gösterir Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1782/2011-Ornek139.pdf",
+  "source_sha256": "877947146d4622f0f192df4b570b53f27e9606517d9b681f0299e785e9ba1a44",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 8,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-03-08",
+  "law_text_complete": false
+}
