@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2011/2011-ornek125",
+  "list_number": "170",
+  "genelge_number": "Örnek: 125\t",
+  "decision_date": "2011-03-09",
+  "title": "12 Haziran 2011 Pazar günü yapılacak XXIV. Dönem Milletvekili Genel Seçiminde önseçim ve aday yoklaması yöntemiyle aday tespitine ilişkin Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1784/2011-Ornek125.pdf",
+  "source_sha256": "d5c08457435c134516fe801b3c7e13557e4cc718ed0f2dbbf83bba2ec9949717",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 7,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-03-09",
+  "law_text_complete": false
+}
