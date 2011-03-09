@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2011/DK-07/111",
+  "date": "2011-03-09",
+  "title": "Metro Ethernet İnternet Yeni Hız Tarifeleri",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2011-03-09",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=168",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/bf6b5954-cfbd-4eaf-a9ca-48d9d475b93b.pdf",
+  "source_sha256": "ba655b723747ce653c71ca192001e1af40d9cc757bb0e38623130b1e14ae3c29",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2011-03-09",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 09.03.2011; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
