@@ -1,0 +1,1 @@
+Madde 1- Cumhuriyet Üniversitesi Yurtları bu yönetmelik çerçevesinde yönetilir. Cumhuriyet Üniversitesi Yurtları deyimi, Üniversiteyi bağlı Fakülte, Yüksekokul, kız ve erkek öğrenci yurtlarının tamamını kapsar.

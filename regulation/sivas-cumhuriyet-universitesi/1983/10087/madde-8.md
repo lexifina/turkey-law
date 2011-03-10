@@ -1,0 +1,20 @@
+YURTLARDA YAŞAM VE UYULMASI GEREKEN KURULLAR
+Madde 8- Yurtlarda barınan her öğrenci aşağıdaki kurallara uymak zorundadır.
+a)Yurdun sükûnetini ve ciddiyetini bozacak davranışlarda bulunmamak,
+b)Yurt zaman çizelgesine ve bütün bildirilerine uymak,
+c)Yurdun temizliğine dikkat etmek,
+d)Yurt yönetiminin saptadığı yer ve saatler dışında ziyaretçi kabul etmemek,
+e)İzinsiz oda değiştirmek, yurt yönetiminin saptadığı eşyalar dışında demirbaş eşyayı odaya izinsiz almamak, yurt binası dışına çıkarmamak, tahrip etmemek,
+f)Yönetimce izin verilmiş yerler dışında çay, kahve, yemek pişirmemek ya da gaz elektrik ocağı, ütüsü ve sobası kullanmamak,
+g)İzinsiz geceyi dışarıda geçirmemek,
+h)Yurt yönetiminin çalışmalarını güçleştirmemek, yurt amir ve memurlarına karşı saygı kurallarına uygun olmayan davranışlarda bulunmak ve tartışmamak. Yurt hizmetlerini özel işlerde kullanmamak,
+ı)Yurtta kumar oynamamak ve kumar aletleri bulundurmamak, içki içmemek ve bulundurmamak, alkollü olarak yurda gelmemek,
+i)Yurt yaşamını ve yurt yönetimini küçük düşürücü beyanda bulunmamak, asılsız söylentiler yaymamak,
+j)Yasalarda açıkça belirtilen suç aletlerini bulundurmak, yasalara karşı davranışlara girişmemek,
+k)Yurt odalarını sürekli açık bulundurmamak, emniyet makamları ve yurt yönetime karşı özel eşyalarının aranmasını engellememek,
+l)Yurt yönetiminin izni dışında telefonlarla konuşmamak, duyuru ve bildiriler asmamak, yasaklanmış yayınları dağıtmamak, duvarlara resim yapmamak veya asmamak,
+m)Disiplin yönünden soruşturmayı güçleştirecek davranışlardan sakınmak yönetimin çağrılarına uymak, ilgili duyuruları tahrip etmemek,
+n)Yurtlarda çalışanların onurunu kırıcı davranışlarda bulunmamak, kavga ve saldırılarda bulunmamak, tehdit etmemek, kışkırtıcı davranışlarda bulunmamak,
+o)Yurtlarda ahlâk dışı söz ve davranışlarda bulunmamak, resimler asmamak,
+ö)Öğrenciliğe yaraşır giyinmek, Atatürk İlkeleri ve Rektörlük giyim kuşam kurallarına aykırı düşmemek,
+p)Hırsızlık yapmamak, yurt demirbaşını ve binalarını tahrip etmemek.
