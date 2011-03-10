@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2011/3",
+  "list_number": "-",
+  "genelge_number": "3",
+  "decision_date": "2011-03-10",
+  "title": "Seçime Hazırlık Genelgesi",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1786/2011-3.pdf",
+  "source_sha256": "39c260857bd74243e57ad252710d177a4976a4b3b3f011c59646446f504c0f77",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-03-10",
+  "law_text_complete": false
+}
