@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, tütün üretiminden vazgeçerek alternatif ürün yetiştirmeyi tercih eden ve TEKEL İdaresi ile 2008 ürün yılında Tütün Üretim ve Alım-Satım Sözleşmesi imzalamış olan, Adıyaman, Batman, Bitlis, Burdur, Diyarbakır, Hatay, Mardin, Muş ve Trabzon illerindeki tütün üreticilerinin seçiminin esaslarını, uygulamada görev alan kurum ve kuruluşların belirlenmesini, ödeme tutarının tespitine ilişkin kriterleri, ödemeye ilişkin usul ve esasları kapsamaktadır.
