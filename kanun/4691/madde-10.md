@@ -1,4 +1,3 @@
 Uygulanmayacak hükümler
-MADDE 10 — Bu Kanun kapsamı Bölgelerdeki faaliyetlerde; 1050 sayılı Muhasebei Umumiye Kanunu, 832 sayılı Sayıştay Kanunu ve 2886 sayılı Devlet İhale Kanunu hükümleri uygulanmaz.
-Geçici hükümler
-GEÇİCİMADDE 1— Bu Kanunun yürürlüğe girdiği tarihten önce kuruluşu Bakanlıkça onaylanmış teknoparklar, bu Kanun hükümlerine uymak kaydıyla, bu Kanunun yürürlüğe girmesiyle Bölge olarak kabul edilir ve Kanunun sağladığı tüm muafiyet ve desteklerden istifade ederler.
+Madde 10 – (Değişik: 2/3/2011-6170/6 md.)
+Bu Kanun kapsamına giren Bölgelerdeki faaliyetlerde; 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, 3/12/2010 tarihli ve 6085 sayılı Sayıştay Kanunu, 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu ile 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu hükümleri uygulanmaz.
