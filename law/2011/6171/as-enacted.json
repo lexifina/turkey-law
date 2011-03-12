@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6171",
+  "year": 2011,
+  "title": "Sulama Alanlarında Arazi Düzenlenmesine Dair Tarım Reformu Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-03-12",
+  "gazette_issue": "27872",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110312-3.htm",
+  "source_sha256": "d9de9e69c7e3b0db8d75ad42c86da82fac3e834e256d84f822ee6da6286a990c",
+  "text_sha256": "42a26d95f2da9583acf694860cfdd1dfdb2f4876e460c8d95a85a26304771dc1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/03/12/27872-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110312-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
