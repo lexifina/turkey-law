@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2011/201",
+  "list_number": "201",
+  "decision_date": "2011-03-14",
+  "title": "Siyasi Partilerin seçime katılacakları seçim çevrelerine ilişkin aday listelerini vermelerinde uyulması zorunlu usullerle ilgili Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2786/2011-201.pdf",
+  "source_sha256": "c4739c1a96bc15608d891c29b6694eb78774f8b939c713cf2dcb112a0476c8d3",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-03-14",
+  "law_text_complete": false
+}
