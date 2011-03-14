@@ -1,0 +1,25 @@
+{
+  "number_in_summary": 32,
+  "number_basis": "item number printed in the summary",
+  "official_decision_number": null,
+  "title": "Selçuklu İlçesi, Işık Mahallesi 21 K-III pafta, 2704 ada, 288 nolu parsel ile ilgili plan tadilatına dair İmar ve Bayındırlık Komisyonu raporunun aynen kabulüne,",
+  "decision_date": "2011-03-14",
+  "meeting_date": "2011-03-14",
+  "summary_heading": null,
+  "summary_title": "KARAR ÖZETİ (14.03.2011)",
+  "source": "https://www.konya.bel.tr/meclis/icerik-getir?tarih=2011-03-14&tur=2",
+  "source_page": "https://www.konya.bel.tr/meclis-encumen/meclis-gundemi-ve-kararlari?karar_yil=2011&karar_ay=3",
+  "source_sha256": "acc654a8b92b0b2429ed1a0c4cc41ee83f4d42385914349ff3e2340f5a7f4ffc",
+  "issuer": "Konya Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary item as published in the council's Karar Özeti; complete decision text is not published in this register",
+  "in_force": "2011-03-14",
+  "in_force_basis": "Official toplantı tarihi 2011-03-14 (the summary prints no dated heading); adoption date for the summary item; legal commencement not asserted",
+  "missing": [
+    "official decision number (not printed in the summary)",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
