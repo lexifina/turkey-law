@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2011/2011-ornek136",
+  "list_number": "199",
+  "genelge_number": "Örnek: 136",
+  "decision_date": "2011-03-14",
+  "title": "XXIV. Dönem Milletvekili Genel Seçiminde uygulanacak İl Seçim Kurullarının Seçim Sonuçlarına İlişkin Görevleri ile Türkiye Geneli Seçim Sonuçlarının Belirlenmesinde Uygulanacak Esas ve İlkelere ilişkin genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1789/2011-Ornek136.pdf",
+  "source_sha256": "cd87d4ea7f7553186be17518ab4c2d166435736a19424377c3d5c6d222964795",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-03-14",
+  "law_text_complete": false
+}
