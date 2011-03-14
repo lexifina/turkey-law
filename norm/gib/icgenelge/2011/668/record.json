@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": null,
+  "source_id": 668,
+  "date": "2011-03-14",
+  "title": "6111 SAYILI KANUN İÇ GENELGESİ SIRA NO: 2011/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/460/icgenelge/668",
+  "related_law": "6111 sayılı BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU VE DİĞER BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/icGenelge/list",
+  "source_listing": "evidence/list/2026-11-16/icGenelge-p000.json",
+  "source_listing_sha256": "f67e0a2102f72bb235e1a5040899d9489b05b3d457ed0145b7ee616be10187e7",
+  "source_sha256": "e33d8ed14746ee043c130f358d4f11fa1c5094c01bb9d1d7377a708da2a59b0c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
