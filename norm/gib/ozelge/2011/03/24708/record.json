@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-GVK-GEÇ.67-16",
+  "source_id": 24708,
+  "date": "2011-03-15",
+  "title": "Birleşme halinde münfesih kurumun kıst döneme ilişkin Geçici 67 nci madde kapsamında gerçekleştireceği işlemlerin birleşilen kurumun muhtasar beyannamesine dahil edilerek beyan edilip edilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24708",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "c7b472de8c1c351a24d341ebf37507d55492d6520f1b83507f94727e141b7a72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
