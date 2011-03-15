@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-03-15",
+  "issue": "27875",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı Disiplin Amirleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110315-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110315.htm",
+  "index_sha256": "8f1b0d72eceeab7af80aa65b451c6608195ff8a31e945836c307d6e9d0bfa569",
+  "index_header": "15 Mart 2011 ... 27875 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
