@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "32989",
+  "decision_date": "2011-03-15",
+  "source_id": 2649,
+  "chamber": "5",
+  "file_number": "30895",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/2649/",
+  "source_sha256": "5aac5f7ed43a58503226306ee4db5fb41f7479ce4e3d53f7f649a4dcdfab7352",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
