@@ -1,0 +1,2 @@
+Genel direktör
+MADDE 9 – (1) Genel Direktör; en az lisans düzeyinde eğitim almış kişiler arasından Rektörün teklifi ve Mütevelli Heyetinin onayı ile iki yıl için görevlendirilir. Görev süresi biten Genel Direktör yeniden görevlendirilebilir. Genel Direktör sağlıkla ilgili bağlı birimlerin de yöneticisidir. Genel Direktör, gerektiğinde Rektörün teklifi ve Mütevelli Heyetinin onayı ile iki yıllık süre dolmadan da görevinden alınabilir. Genel Direktörün önerisi ve Mütevelli Heyetinin onayı ile genel direktör yardımcıları görevlendirilebilir.

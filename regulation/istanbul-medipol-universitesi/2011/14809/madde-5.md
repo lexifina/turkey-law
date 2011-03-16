@@ -1,0 +1,10 @@
+Merkezin faaliyet alanları
+MADDE 5 – (1) Merkez amaçlarını gerçekleştirmek üzere aşağıdaki faaliyetlerde bulunur:
+a) Halk sağlığının geliştirilmesi, sağlık bilincinin ve sağlık okuryazarlığının artırılması için projeler geliştirmek, ulusal sağlık politikalarına katkı yapmak,
+b) Toplum sağlığının korunması ve geliştirilmesi için ilgili kurum ve kuruluşlarla işbirliği yapmak, bu kurum ve kuruluşlara bilimsel destek sağlamak,
+c) Türkiye’deki ve diğer ülkelerdeki sağlık ve araştırma standartlarını izleyerek, nitelikli sağlık hizmeti sunmak,
+ç) Merkeze bağlı olarak çalışan, kapsamlı sağlık hizmeti vermek üzere yataklı tedavi hizmetlerinin yanı sıra, ağız ve diş sağlığı, fizik tedavi ve rehabilitasyon, göz hastalıkları, kulak burun boğaz, çocuk sağlığı ve hastalıkları, kadın hastalıkları ve doğum gibi bütün tıbbi anabilim ve bilim dallarında ve sağlıkla ilgili diğer alanlarda Merkez ünite ve poliklinik birimleri kurmak ve işletmek, bu tesisleri satın almak, bağış veya sair suretlerde devir almak ve işletmek, sağlıkla ilgili bakım evi, kreş, huzurevi gibi çeşitli sosyal hizmet birimlerinin ve benzeri işletmelerin kurulmasını ve işletilmesini desteklemek, gerekirse işletmek, evde bakım hizmetleri sunmak ya da bu konuda hizmet satın almak,
+d) Üniversite bünyesinde faaliyet gösteren tıp ve sağlık personeli yetiştiren fakülte ve yüksekokullar başta olmak üzere, eğitim ve öğretim birimlerinin ihtiyaç duyduğu sağlık uygulama ve araştırma faaliyetlerine ilişkin alt yapıyı hazırlamak, ulusal ve uluslararası bilimsel kongre, çalıştay, kurs ve seminerler düzenlemek,
+e) Üniversite öğrencilerinin sağlıklı yaşam bilinci kazanmalarını ve Merkez projelerinde etkin görev almalarını sağlamak, bu amaçla özendirici eğitsel faaliyetlerde bulunmak,
+f) Merkezin amaçları doğrultusunda projeler hazırlamak, süreli ve süresiz yayınlar yapmak, yazılı ve görsel basında programlar düzenlemek, bilimsel görüş sunmak,
+g) Mütevelli Heyetinin, Rektörün ve Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunmak.

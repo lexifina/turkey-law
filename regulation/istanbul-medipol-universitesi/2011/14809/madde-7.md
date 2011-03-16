@@ -1,0 +1,4 @@
+Yönetim kurulu
+MADDE 7 – (1) Yönetim Kurulu; Genel Direktör, Tıbbi Direktör, İdari Direktör ile Rektörün teklifi ve Mütevelli Heyetinin onayı üzerine görevlendirilen Üniversitede görevli iki öğretim üyesinden oluşur. Yönetim Kurulu üyesi olarak görevlendirilen öğretim üyelerinin görev süresi iki yıldır. Mütevelli Heyet gerektiğinde süresi sona eren üyeleri tekrar görevlendirebilir.
+(2) Yönetim Kurulu, Genel Direktörün başkanlığında ayda bir kez, önceden belirlenen gündem ile toplanır. Genel Direktör, Yönetim Kurulunu olağanüstü toplantıya çağırabilir. Genel Direktörün olmadığı durumlarda Tıbbi Direktör başkanlığa vekalet eder. Yönetim Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır. Oyların eşitliği halinde Başkanın oyu yönünde çoğunluk sağlanmış sayılır.
+(3) Yönetim Kurulu, çalışmalarında, Rektör ve Mütevelli Heyetine karşı sorumludur.
