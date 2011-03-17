@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-KVK-32/A-18",
+  "source_id": 27729,
+  "date": "2011-03-17",
+  "title": "İndirimli oranda kurumlar vergisi ve yatırıma katkı payı uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27729",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "5ef3161d5ffc362aefbe0cf792e913a26624ad881fb825f5478ec106d3135141",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
