@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-GVK-89-6-139",
+  "source_id": 24373,
+  "date": "2011-03-17",
+  "title": "Sosyal Güvenlik Kurumu Başkanlığı'ndan alınan belgede yer alan ve emekli maaşınızdan yapılan SUT(Sağlık Uygulama Tebliği) reçete kesintisi ile muayene iştirak kesintisi tutarlarının elde ettiğiniz gayrimenkul sermaye iradından indirim konusu yapılıp yapıl",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24373",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "3f2b9b2dc13a48a9b16ae99522ffaf0e0ddbb8350cc5f4809709bb84ee749bfd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
