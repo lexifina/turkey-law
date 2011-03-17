@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 23,
+  "legislative_year": 5,
+  "esas_no": "7/18988",
+  "submitted": "2011-03-17",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Alim IŞIK",
+  "province": "Kütahya",
+  "summary": "Kütahya'ya yapılan yatırımlara, yeni istihdama, personel atamalarına ve meydana gelen göçe ilişkin",
+  "status": "Yasama Dönemi Sona Erdiğinden Hükümsüz Sayıldı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877be-b3de-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "4e39d50928b24a6a6559dd95237048717f33e6e2a222a88af7c6e2b5b0134aa8",
+  "in_force": "2011-03-17",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
