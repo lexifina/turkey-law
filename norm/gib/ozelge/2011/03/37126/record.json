@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-EMLAK:12.M-2010-52-156",
+  "source_id": 37126,
+  "date": "2011-03-18",
+  "title": "Özel imarla parsellenerek arsaya dönüştürülen ve tapu senedinde de arsa olarak yer alan taşınmazın emlak vergisi karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37126",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "8973984ba0f10d00392efeb393bb7e6bfc229e8217deb8caab301aa9c01781e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
