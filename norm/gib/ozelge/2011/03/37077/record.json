@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-EML:8.M.2010-50-155",
+  "source_id": 37077,
+  "date": "2011-03-18",
+  "title": "Harp malülünün eşine ait evde ikamet etmesi durumunda kirada olan adına kayıtlı evin emlak vergisinden muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37077",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "74e36e2d31ff046b0d6bb422b717ecd3cf3a1ea5973b78b8b8ea0b93ad9ad178",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
