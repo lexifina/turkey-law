@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-EML:12.MD-2010-51-152",
+  "source_id": 37124,
+  "date": "2011-03-18",
+  "title": "Parsellenmemiş arazinin arsa olarak vergilendirilip vegilendirilmiyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37124",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "66c8986d0e819130f9c5ad7a757360036d74707cd88306fd83faa0c8ae435204",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
