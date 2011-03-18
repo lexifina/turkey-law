@@ -1,0 +1,24 @@
+{
+  "number": "212",
+  "number_as_published": "Karar No : 212",
+  "year": 2011,
+  "title": "council decision",
+  "decision_date": "2011-03-18",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/18-mart-2011-tarihli-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "6151a40d8e61a79fe59136487fb32829dd6e1099654878d04cbab2b1d712a2e6",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2011-03-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18.03.2011 (Top. Tarihi printed with the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "18 Mart 2011 Tarihli Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=16",
+  "subject_published": true
+}
