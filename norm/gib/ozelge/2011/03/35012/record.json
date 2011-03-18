@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.15.01-DMG-62-2-8-13",
+  "source_id": 35012,
+  "date": "2011-03-18",
+  "title": "4691 sayılı Kanun kapsamında teknoloji geliştirme bölgesinde faaliyette bulunan ancak yönetici şirket statüsünde bulunmayan firma tarafından verilen sigorta prim bildirgelerinin damga vergisine tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35012",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "009b0398f981bf3215a4958b769fb3bf2ed6e79356329b4f121697352a9c03af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
