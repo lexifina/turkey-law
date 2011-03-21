@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-48",
+  "source_id": 36970,
+  "date": "2011-03-21",
+  "title": "Jeolojik sakıncalı alan içerisinde yer alan parsellerin 1319 sayılı Emlak Vergisi Kanunu'nun 19'uncu maddesine göre tasarrufu yasak edilen arazi vasfında değerlendirilip değerlendirilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36970",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "e7232eb169823297cd359599343787a9f1ad7ea1d784a61093f1ae9d12fcf9ed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
