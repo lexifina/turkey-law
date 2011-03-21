@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.10.15.01-2010-MTV-660-22",
+  "source_id": 36439,
+  "date": "2011-03-21",
+  "title": "Noter satış senedi ile satılan amatör balıkçı teknesinden dolayı satıcının motorlu taşıtlar vergisi mükellefiyetinin terkini hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36439",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "10a43cb7b40692dde7ee65ea2fca155b2432f8703cd721912c551895e301e542",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
