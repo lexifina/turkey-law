@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.54.15.01-121-2010-3-4",
+  "source_id": 23084,
+  "date": "2011-03-21",
+  "title": "Ormandaki toprak zemin üzerine dökülen yaprakların çürümesi ve döküntülerin birikmesiyle oluşan, çiçek ve bitki yetiştiriciliğinde kullanılmak üzere toplanarak biriktirilen doğal gübrenin satışının ne şekilde vergilendirileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23084",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "0567c9d61bd3d812420644da291327df75f626445c7098e9afac6a3224ff3fe8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
