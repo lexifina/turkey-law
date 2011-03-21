@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-EMLAK-20-25-19",
+  "source_id": 36951,
+  "date": "2011-03-21",
+  "title": "Emeklinin , lojmanda oturup 150 m²'den küçük olan meskeninin boş tutması halinde bu mesken için indirimli bina vergisi oranı (sıfır) uygulamasından faydalanıp faydalanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36951",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b78655944e7efcf4743f339ee2268b43623a81b839bd92903fa4284b2608edb8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
