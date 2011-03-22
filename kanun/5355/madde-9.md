@@ -1,5 +1,5 @@
 Meclisin görev ve yetkileri
-MADDE 9 — Birlik meclisinin görev ve yetkileri şunlardır:
+Madde 9- Birlik meclisinin görev ve yetkileri şunlardır:
 a) Yatırım plânı ve çalışma programını görüşmek ve kabul etmek.
 b) Bütçe ve kesinhesabı kabul etmek, bütçede kurumsal kodlama yapılan birimler ile fonksiyonel sınıflandırmanın birinci düzeyleri arasında aktarma yapmak.
 c) Borçlanmaya karar vermek.

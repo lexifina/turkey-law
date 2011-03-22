@@ -1,5 +1,5 @@
 Birlik başkanı
-MADDE 14 — Birlik başkanı, birlik idaresinin başı ve tüzel kişiliğinin temsilcisidir. Birlik başkanının görev ve yetkileri şunlardır:
+Madde 14- Birlik başkanı, birlik idaresinin başı ve tüzel kişiliğinin temsilcisidir. Birlik başkanının görev ve yetkileri şunlardır:
 a) Birliği yönetmek ve birliğin hak ve menfaatlerini korumak.
 b) Yatırım plânı ve çalışma programı ile bütçeyi ve kesinhesabı hazırlamak, uygulamak, izlemek, değerlendirmek ve bunlarla ilgili olarak hazırlayacağı yıllık faaliyet raporunu meclise sunmak.
 c) Birliği temsil etmek veya vekil tayin etmek.

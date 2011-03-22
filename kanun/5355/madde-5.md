@@ -1,5 +1,5 @@
 Birlik tüzüğü
-MADDE 5 — Birlik tüzüğü, birliği kuracak mahallî idarelerin meclislerinde üye tam sayısının üçte iki çoğunluğuyla kabul edildikten sonra valinin; birlik birden fazla ildeki mahallî idarelerin katılımı ile kuruluyorsa İçişleri Bakanının onayı ile kesinleşir. Tüzük değişikliğinin nasıl yapılacağı birlik tüzüğünde gösterilir ve onaylanması hakkında tüzüğün onaylanmasına ilişkin usûl uygulanır.
+Madde 5- Birlik tüzüğü, birliği kuracak mahallî idarelerin meclislerinde üye tam sayısının üçte iki çoğunluğuyla kabul edildikten sonra valinin; birlik birden fazla ildeki mahallî idarelerin katılımı ile kuruluyorsa İçişleri Bakanının onayı ile kesinleşir. Tüzük değişikliğinin nasıl yapılacağı birlik tüzüğünde gösterilir ve onaylanması hakkında tüzüğün onaylanmasına ilişkin usûl uygulanır.
 Birlik tüzüğünde aşağıdaki hususların bulunması zorunludur:
 a) Birliğin adı ve amacı.
 b) Birlik üyesi mahallî idarelerin adları.

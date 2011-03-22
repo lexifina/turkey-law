@@ -1,5 +1,5 @@
 Birliğin giderleri
-MADDE 16 — Birliğin giderleri şunlardır:
+Madde 16- Birliğin giderleri şunlardır:
 a) Birlik hizmetlerinin yürütülmesi için yapılacak giderler.
 b) Birliğin personeline ve seçilmiş organlarının üyelerine ödenen maaş, ücret, ödenek, huzur hakkı, yolluk, hizmete ilişkin eğitim harcamaları ile diğer giderler.
 c) Hizmet karşılığı alınacak ücretler ve diğer gelirlerin takip ve tahsili için yapılacak giderler.

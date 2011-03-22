@@ -5,7 +5,8 @@ b) Er veya erbaş olarak silâh altında veya yedek subay okulunda geçen sürel
 c) 4 üncü maddenin birinci fıkrasının (c) bendi kapsamında olanların, personel mevzuatına göre aylıksız izin süreleri,
 d) Sigortalı olmaksızın doktora öğrenimi veya tıpta uzmanlık için yurt içinde veya yurt dışında geçirdikleri normal doktora veya uzmanlık öğrenim süreleri,
 ––––––––––––––
-(1) 16/6/2010 tarihli ve 5997 sayılı Kanunun 6 ncı maddesiyle, bu bentte yer alan “polis,” ibaresi “polis memuru, başpolis memuru ve kıdemli başpolis memuru,” olarak değiştirilmiş ve metne işlenmiştir.
+(1) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu bentte yer alan “ve uzman erbaşlar” ibaresi “, uzman erbaşlar ve sözleşmeli erbaş ve erler” şeklinde değiştirilmiş ve metne işlenmiştir.
+(2) 16/6/2010 tarihli ve 5997 sayılı Kanunun 6 ncı maddesiyle, bu bentte yer alan “polis,” ibaresi “polis memuru, başpolis memuru ve kıdemli başpolis memuru,” olarak değiştirilmiş ve metne işlenmiştir.
 e) Sigortalı olmaksızın avukatlık stajını yapanların normal staj süreleri,
 f) Sigortalı iken herhangi bir suçtan tutuklanan veya gözaltına alınanlardan bu suçtan dolayı beraat edenlerin tutuklulukta veya gözaltında geçen süreleri,
 g) Grev ve lokavtta geçen süreleri (…) (1) ,

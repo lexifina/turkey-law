@@ -61,7 +61,7 @@ Malûllük Derecesi Zam nispeti
 4 % 7
 5 % 3
 6 % 2
-Subay, astsubay, uzman jandarma, uzman erbaş ile Türk Silâhlı Kuvvetlerince görevlendirilen 4 üncü maddenin birinci fıkrasının (c) bendi kapsamındaki sigortalılardan;
+Subay, astsubay, uzman jandarma, uzman erbaş, sözleşmeli erbaş ve er ile Türk Silâhlı Kuvvetlerince görevlendirilen 4 üncü maddenin birinci fıkrasının (c) bendi kapsamındaki sigortalılardan; (1)
 a) Harpte fiilen ateş altında,
 b) Harpte, harp bölgelerindeki harp harekât ve hizmetleri sırasında, bu harekât ve hizmetlerin sebep ve etkileriyle,
 c) Harpte veya harbe hazırlık devresinde her çeşit düşman silâhlarının etkisiyle,
@@ -69,7 +69,7 @@ d) Askerî harekâtı gerektiren iç tedip ve sınır hareketleri sırasında, b
 e) Barışta veya olağanüstü hallerde, emir veya görev ile uçuş yapan uçucularla hangi meslek ve sınıftan olursa olsun emirle görevli olarak uçakta bulunanlardan uçuşun havadaki ve yerdeki sebepleriyle ve yine emir ve görev ile dalış yapan dalgıçlarla, hangi meslek ve sınıftan olursa olsun emirle görevli olarak denizaltı gemisinde veya dalgıç kıtasında bulunanlardan denizaltıcılığın veya dalgıçlığın çeşitli sebep ve etkileriyle,
 f) Anayasanın 92 nci maddesi veya Türkiye'nin taraf olduğu uluslararası sözleşmeler uyarınca Türk Silâhlı Kuvvetlerinin yabancı ülkelere gönderilmesini gerektiren durumlarda, birliklerin bulundukları yerlerden hareketlerinden itibaren yurt içinde, yurt dışında, yabancı ülkelerde veya yurda dönüş sırasında,
 vazife malûlü olanlara harp malûlü denir.
-Bunlardan uzman erbaşlara bulundukları kademenin üç ilerisindeki kademenin, uzman jandarmalara bulundukları rütbenin bir üst rütbesinin aynı kademesinin; astsubaylarla yarbay rütbesine kadar (yarbay hariç) bir üst rütbenin aynı kademesinin, yarbaylara albay, albaylara kıdemli albay, kıdemli albay ile general ve amirallere bir üst rütbenin, bu Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında bulunan sigortalılara ise bir üst derecesine veya kademesine karşılık gelen prime esas kazancı üzerinden aylık bağlanır.
+Bunlardan uzman erbaş ve sözleşmeli erbaş ve erlere bulundukları kademenin üç ilerisindeki kademenin, uzman jandarmalara bulundukları rütbenin bir üst rütbesinin aynı kademesinin; astsubaylarla yarbay rütbesine kadar (yarbay hariç) bir üst rütbenin aynı kademesinin, yarbaylara albay, albaylara kıdemli albay, kıdemli albay ile general ve amirallere bir üst rütbenin, bu Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında bulunan sigortalılara ise bir üst derecesine veya kademesine karşılık gelen prime esas kazancı üzerinden aylık bağlanır. (1)
 Bulundukları derecenin bir üst derecesi olmayanlar için o derecenin üç ilerisindeki kademe göstergesi, üç ilerisindeki kademe göstergesi olmayanlar için de o derecenin son kademe göstergesinin prime esas kazancı esas alınır.
 Harp malûllerinin, malûllük derecesine göre aşağıdaki yazılı göstergelerin, memur aylık katsayısı ile çarpımı sonucu bulunacak miktar "Harp malûllüğü zammı" olarak ayrıca eklenir.
 Malûllük Derecesi Göstergeler
@@ -81,6 +81,8 @@ Malûllük Derecesi Göstergeler
 6 400
 Harp malûlü sayılanlardan bir harekâtın başarıyla sonuçlanmasını şahsen sağladığı ve örnek tutulacak cesaret ve fedakârlık gösterdiği sıralarda bu malûllüğe uğradıkları usûlüne göre sıralı üstlerince saptanan Türk Silâhlı Kuvvetleri mensupları ile Türk Silâhlı Kuvvetlerince görevlendirilen sivil görevlilere, Genelkurmay Başkanlığının uygun görmesi ve Millî Savunma Bakanının onayı ile harp malûllüğü zamları % 25 fazlasıyla bağlanır.
 Bu madde gereğince vazife malûllüğü aylığı almakta iken veya vazife malûllüğü aylığı bağlanması gerekirken ölenlerin, hak sahiplerine, müstahak olmaları halinde harp malûllüğü zammı da dahil olmak üzere prim ödeme gün sayısına bakılmaksızın ölüm aylığı bağlanır.
+––––––––––––––
+(1) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, 47 nci maddenin sekizinci fıkrasında yer alan “uzman erbaş” ibaresinden sonra gelmek üzere “, sözleşmeli erbaş ve er” ibaresi eklenmiş ve dokuzuncu fıkrasında yer alan “uzman erbaşlara” ibaresi “uzman erbaş ve sözleşmeli erbaş ve erlere” şeklinde değiştirilmiş ve metne işlenmiştir.
 Harp malûlü olanlara verilecek harp malûllüğü zammı tutarının Kurumca belirlenecek peşin sermaye değeri toplamı en geç bir ay içinde Millî Savunma Bakanlığı veya İçişleri Bakanlığı tarafından Kurumun göstereceği hesaplara yatırılır. Süresinde yatırılmayan tutarlar için 89 uncu madde hükümleri uygulanır.
 Vazife malûllüğü aylığı bağlananlardan;
 a) 5 inci maddenin (c) bendi hükmü saklı kalmak kaydıyla vazife malûllüğü aylığı bağlanmış olanlardan harp malûllüğü zammı hariç Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında çalışmaya başlayanların aylıkları, çalışmaya başladıkları tarihi takip eden ödeme dönemi başından itibaren kesilir ve bunlar hakkında uzun vadeli sigorta kolları uygulanır. Bunlardan çalıştıkları süre zarfında 80 inci maddeye göre belirlenen prime esas kazançları üzerinden 81 inci madde gereğince kısa ve uzun vadeli sigorta kolları ile genel sağlık sigortasına ait prim alınır. Bunlar ile 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında çalışmaları nedeniyle istekleri üzerine haklarında uzun vadeli sigorta kolları uygulananlardan; yeniden aylık bağlanması için yazılı istekte bulunan ya da emekliye ayrılan veya herhangi bir nedenle görevi sona erenler hakkında sonraki çalışmaları karşılığında aylığa hak kazanmaları halinde bu süre için, 29 uncu maddeye göre aylık hesaplanır. Sonradan geçen çalışmalarından dolayı yaşlılık aylığına hak kazanamayanların kendilerine toptan ödeme, vefatı halinde ise hak sahiplerine ölüm aylığı bağlanır veya toptan ödeme yapılır.
@@ -100,10 +102,10 @@ e) Danıştay Başkanının istek, malûliyet ve yaş haddi hallerinde Başbakan
 onayı ile tekemmül eder.
 Özel kanun hükümleri hariç olmak üzere yetkili makamın emekliye sevk onayı, talep tarihinden itibaren bir ayı geçemez. Bakanlar Kurulu kararı veya müşterek kararname ile atananların görevleriyle ilişiklerinin kesilmesi ilgili bakanın onayı ile tekemmül eder.
 Özelleştirilmeleri sonucu sermayesindeki kamu payı % 50'nin altına düşen kuruluşlar ile satış veya devri yapılmış olan kuruluşlarda çalışmakta iken emekliye ayrılanlar için emekliye sevk onayı aranmaz. Birinci fıkranın (b) bendine göre emekliye ayrılmak isteyenler için her durumda, istek tarihinden itibaren bir aylık süre sonunda ilişikleri kesilmiş sayılır.
-İtibarî hizmet süreleri ve itibarî hizmet süresi primi
+İtibarî hizmet süreleri ve itibarî hizmet süresi primi (1)
 MADDE 49- (Değişik: 17/4/2008-5754/29 md.)
 İtibarî hizmet süresi, bu Kanuna göre bağlanacak aylıklar ve yapılacak toptan ödemelerin hesabında dikkate alınan ancak hiçbir şekilde bu Kanunla tanınan hakları kazanma bakımından gerekli prim ödeme gün sayısı, yaş ve emeklilik ikramiyesinin hesabında nazara alınmayan süredir. Sigortalıların aşağıda yazılı görevlerde geçen zamlar hariç, fiilî hizmet sürelerinin her yılı için;
-a) Subay (yedek subay dahil), astsubay, uzman jandarma ve uzman erbaşlardan;
+a) Subay (yedek subay dahil), astsubay, uzman jandarma, uzman erbaş ve sözleşmeli erbaş ve erlerden;
 1) Harbi doğuran genel ve kısmî seferberliğe katılanların, harbin ilânından seferberliğin bitim tarihine,
 2) Seferberliği gerektiren iç tedip hareketlerine fiilen katılan birliklerde görevli olanların, çarpışmaların başlangıcından seferberliğin sona erdiği tarihe,
 3) Harp veya seferberlik ilân edilmeden, Anayasanın 92 nci maddesi veya Türkiye'nin taraf olduğu uluslararası sözleşmeler uyarınca, yabancı ülkelere gönderilen Türk Silâhlı Kuvvetlerinde görev yapanların çarpışma meydana gelmesi halinde, çarpışma süresince veya çarpışma bitmeden dönenler için Türkiye'ye dönüş tarihine,
@@ -126,6 +128,8 @@ d) İsteğe bağlı sigorta talep dilekçesiyle Kuruma başvuruda bulunmak,
 İsteğe bağlı sigorta başlangıcı ve sona ermesi
 MADDE 51- (Değişik birinci fıkra: 17/4/2008-5754/31 md.) İsteğe bağlı sigortalılık, müracaatın Kurum kayıtlarına intikal ettiği tarihi takip eden günden itibaren başlar.
 İsteğe bağlı sigortalı olarak prim ödenen tarihlerde, 4 üncü maddeye göre sigortalı olmayı gerektirecek çalışması bulunduğu tespit edilenlerin, zorunlu sigortalılıkla çakışan isteğe bağlı prim ödenen süreleri iptal edilerek, bu süreye ilişkin ödedikleri primler ilgililere iade edilir.
+––––––––––––––––––
+(1) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu maddenin birinci fıkrasının (a) bendinde yer alan “ve uzman erbaşlardan” ibaresi “, uzman erbaş ve sözleşmeli erbaş ve erlerden” şeklinde değiştirilmiş ve metne işlenmiştir.
 (Ek fıkra: 17/4/2008-5754/31 md.) Ay içerisinde 30 günden az çalışan veya 80 inci madde uyarınca prim ödeme gün sayısı, ay içindeki toplam çalışma saatinin 4857 sayılı Kanuna göre belirlenen günlük normal çalışma saatine bölünmesi suretiyle hesaplanan sigortalıların aynı ay içerisinde isteğe bağlı sigortaya prim ödemeleri halinde, primi ödenen süreler zorunlu sigortalılığa ilişkin prim ödeme gün sayısına otuz günü geçmemek üzere eklenir ve eklenen bu süreler, 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında sigortalılık süresi olarak kabul edilir. (1)
 İsteğe bağlı sigortalılık;
 a) İsteğe bağlı sigortalılığını sona erdirme talebinde bulunanların, primi ödenmiş son günü takip eden günden,
