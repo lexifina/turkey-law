@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.18.02-323100-8035-166",
+  "source_id": 36626,
+  "date": "2011-03-22",
+  "title": "Perakende ve toptan olarak yapılan satışların faturalı olduğu gerekçesiyle kullanılan ödeme kaydedici cihazın iptal edilmesinin mümkün olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36626",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "ad96316a145448bc18e007a1128c46830d46978c10ee4c1b84d84e134ff85c5d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
