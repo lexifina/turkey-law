@@ -1,4 +1,2 @@
 Sulama birlikleri
-MADDE 19 — (Değişik: 29/12/2005-5445/2 md.)
-Sadece sulama amaçlı olarak kurulan mahallî idare birliklerinde birlik meclisi, 8 inci maddede belirtilen doğal üyeler ile belediye meclisi üyeliğine seçilme şartlarına sahip olan ve birliğin sulama faaliyetinden faydalanan mülk sahibi çiftçiler arasından birlik tüzüğünde gösterilen sayıda seçilecek üyelerden oluşur. Seçim, üye mahallî idare sınırları içinde birliğin sulama faaliyetinden faydalanan çiftçilerin katılımıyla o mahallî idare meclisinin gözetiminde yapılır. Arazinin beş yıldan fazla kiralanması halinde birlik meclis üyeliğine seçilme ve birlik meclisi üye seçimlerinde oy kullanma hakkı kiracıya aittir. Birlik üyesi mahallî idarelerin birlik meclisinde kaç üye ile temsil edilecekleri, o mahallî idare sınırları içindeki sulanan alanların birliğin sulama faaliyetinden faydalanan toplam alana oranına göre tespit edilir.
-Bu birliklerde birlik başkanı, ilk mahallî idareler genel seçimlerine kadar görev yapmak üzere seçilir.
+Madde 19- (Mülga: 8/3/2011 – 6172/21 md.)
