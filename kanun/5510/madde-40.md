@@ -107,14 +107,14 @@ gerektiren işler 2-3,5 kg/cm2 basınçta yapılan işlerde çalışanlar. 60
 işlerden 35-40 (40 hariç) m. derinlik veya 3,5-4 90
 (3,5 hariç) kg/cm2 basınçta yapılan işlerde çalışanlar.
 3) Dalgıçlık işinde çalışanlar.
-13) Türk Silâhlı Kuvvetlerinde Subay, yedek subay, astsubay, uzman jandarma
-ve uzman erbaşlar. 90
+13) Türk Silâhlı Kuvvetlerinde (1) Subay, yedek subay, astsubay, uzman jandarma,
+uzman erbaşlar ve sözleşmeli erbaş ve erler. (1) 90
 14) Emniyet ve polis mesleğinde, Asaleti onaylanmış olmak şartıyla adaylıkta geçirilen
-Milli İstihbarat Teşkilâtında (1) süreler dahil polis memuru, başpolis memuru ve
+Milli İstihbarat Teşkilâtında (2) süreler dahil polis memuru, başpolis memuru ve
 kıdemli başpolis memuru, komiser yardımcısı, komiser,
 baş komiser, emniyet amiri, emniyet müdürleri ile 90
 bu ve daha yukarı maaş ve derecelerdeki emniyet
-mensupları, Milli İstihbarat Teşkilâtı mensupları.(1)
+mensupları, Milli İstihbarat Teşkilâtı mensupları.(2)
 15) İtfaiye veya yangın Yangın söndürme işlerinde çalışanlar. 60
 söndürme işleri
 Bu maddenin birinci fıkrası hükmüne göre hesaplanan fiilî hizmet süresi zammı, yukarıdaki tablonun (13) ve (14) numaralı sırasında yer alan sigortalılar için sekiz, diğer sigortalılar için beş yılı geçmemek üzere uzun vadeli sigorta kolları uygulamasında prim ödeme gün sayısına eklenir. Bu sürelerin, üç yılı geçmemek üzere yarısı emeklilik yaş hadlerinden indirilir. Tablonun (10) numaralı sırasında yer alan sigortalılar için bu fıkradaki süre sınırı uygulanmaz.

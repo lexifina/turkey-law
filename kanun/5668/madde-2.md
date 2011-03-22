@@ -1,7 +1,7 @@
 Tanımlar
 MADDE 2 – (1) Bu Kanunun uygulanmasında;
 a) Türk Silahlı Kuvvetleri: Kara, Deniz ve Hava Kuvvetleri ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığını,
-b) Askerî personel: Subay, astsubay, uzman jandarma, uzman erbaş, askerî öğrenci, sivil memur, işçi, erbaş ve erleri,
+b) Askerî personel: Subay, astsubay, uzman jandarma, uzman erbaş, sözleşmeli erbaş ve er, askerî öğrenci, sivil memur, işçi, erbaş ve erleri, (1)
 c) Kazandan besleme: Yükümlülük ve zorunluluktan dolayı toplu olarak sıcak veya kumanya olarak bütün giderleri Devlet tarafından karşılanan beslemeyi,
 ç) Tayın bedeli: Kazandan beslemeye alınamayanlara, 22/6/1978 tarihli ve 2155 sayılı Bazı Kamu Personeline Tayın Bedeli Verilmesi Hakkında Kanun kapsamında ödenen aylık yemek parasını,
 d) Günlük yemek bedeli: En az üç öğün ve gerektiğinde de ara öğünleri içeren, yemek çizelgesinin hazırlanmasında ölçüt olarak kullanılan harcamaya esas paranın üst miktarını,
@@ -9,4 +9,6 @@ e) Güçlendirilmiş yemek bedeli: Normal çalışma koşullarından daha yoğun
 f) Ara öğün: Günlük üç öğün yemeğin dışında; meyve, çerez, tatlı, ikramlık gibi gerektiğinde soğuk veya sıcak olarak verilen yiyecek ve içecekleri,
 g) Günlük yemek çizelgesi: Besleneceklere verilecek yemeklerin öğün bazında dağılımını, yemeklerin içeriklerini, kalorisini, parasal değerini ve kullanılacak yiyecek maddelerinin miktarı gibi bilgileri içeren denetime bağlı tüketim belgesini,
 ifade eder.
+–––––––––––––––––––
+(1) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu bentte yer alan “uzman erbaş,” ibaresinden sonra gelmek üzere “sözleşmeli erbaş ve er,” ibaresi eklenmiş ve metne işlenmiştir.
 10124
