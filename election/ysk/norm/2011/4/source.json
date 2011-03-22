@@ -1,0 +1,33 @@
+{
+  "number": "4",
+  "date": "2011-03-22",
+  "source_id": 1791,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1791/2011-4.pdf",
+  "source_sha256": "0c3bc536645574f5f637a2cbcf8f186b1a0874725a47670d53814a85c3cec247",
+  "history": "as-enacted",
+  "words": 980,
+  "in_force_basis": "Official attached YSK decision, PDF p. 4, operative closing sentence: 22/3/2011 tarihinde oybirliği ile karar verildi",
+  "catalogue_date": "2011-03-29",
+  "source_images": 2,
+  "decorative_images": 2,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "decorative_image_hashes": [
+    "40af4c953116ef2731c4a318861f6177d26abe985f1d3e7c03f1e242d0d897c2",
+    "ab1516bbc08927178e521ec57b3f1318952dca0c871313b7adf950ed30544b51"
+  ],
+  "attached_decision_numbers": [
+    "230"
+  ],
+  "adoption_dates": [
+    {
+      "page": 4,
+      "date": "2011-03-22",
+      "quote": "22/3/2011 tarihinde oybirliği ile karar verildi"
+    }
+  ],
+  "approval_dates": [],
+  "explicit_effective_dates": [],
+  "date_kind": "decision-adoption"
+}
