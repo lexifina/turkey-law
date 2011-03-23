@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.67.15.01-2010-EMLV-8-8",
+  "source_id": 37073,
+  "date": "2011-03-23",
+  "title": "Emekli aylığınız dışında başka bir geliri olmayan kişinin, eşinin hiçbir geliri yok, her ikisinin de 130 m² olan birer evinin bulunması ve eşinine ait meskenini kiraya verilmesi halinde eşlerin her ikisinin de indirimli bina vergisi oranı (sıfır) uygulama",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37073",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "5f0cd23b21353f0ebeffdd6c31d798547e50fe65c84e98af7ecd0eb59f2d5ed0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
