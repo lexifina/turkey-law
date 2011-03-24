@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3133/2",
+  "decision_date": "2011-03-24",
+  "title": "EPDK Kurul Kararı 3133/2",
+  "resmi_gazete_date": "2011-04-03",
+  "resmi_gazete_number": "27894",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=83Dapznt4G0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=83Dapznt4G0="
+  ],
+  "source_sha256": "4ee05e7b583a11770b3a184f7867182f00cbd387347b3734208556f7576d621d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-03-24",
+  "law_text_complete": false
+}
