@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-HARÇ-20-276-24",
+  "source_id": 37334,
+  "date": "2011-03-24",
+  "title": "Mahalli idare birliğinin kamu yatırımı sebze ve meyve kurutma tesisi binası yapımı ile ilgili olarak bina inşaat harcından istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37334",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b2773fcbfda4fcc47e1fe484af213de21a24b725cd4f3572f1093ce8742af564",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
