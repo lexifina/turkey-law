@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-03-24",
+  "issue": "27884",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2011/1476 İthalat Rejimi Kararına Ek Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110324-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110324.htm",
+  "index_sha256": "54d703ccb477a9fd35d0fb28fb0a484c0524716721489333ecddf08d526cf9c4",
+  "index_header": "24 Mart 2011 ... 27884 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "996f1eaa6650c2c656b2d1bbb28305e1b07dfb9e7f36e1a14776c32cd794af4a",
+  "text_status": "text.txt as published"
+}
