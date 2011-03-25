@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 8-198",
+  "source_id": 22255,
+  "date": "2011-03-25",
+  "title": "İfa edilen para taşımacılığı hizmeti esnasında kaybolan/çalınan paralar için müşteri ile yapılan sözleşme uyarınca ödenen tazminatların kurum kazancının tespitinde gider olarak dikkate alınabileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22255",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "17a06661172e98feb8cfd08d7264761156c50886678ec99301fa474c67ce3fe2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
