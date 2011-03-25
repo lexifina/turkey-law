@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.45.15.02-VUK-27-9-28",
+  "source_id": 26190,
+  "date": "2011-03-25",
+  "title": "Özel matrah şeklinde ve kdv dahil sigara satışlarının sona ermesi nedeniyle elde kalan faturalar üzerlerindeki \"T.C.Maliye Bakanlığı'nın 18.07.1994 gün ve B.07.0.GEL.0.79/60-39/48327 sayılı müktezası gereğince özel matrah şekline tabidir\" ve \"KDV dahil\" i",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26190",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "49c3bf36a414f54dc5cd37daec8069d75e417aaeda98be8eb2bc62dfe2b9b920",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
