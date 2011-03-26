@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-55",
+  "source_id": 37624,
+  "date": "2011-03-26",
+  "title": "Oto kurtarma ve çekici işi ile iştigal edenlerin, 5838 sayılı Kanunun Geçici 2 nci maddesinin birinci fıkra hükmünden faydalanabileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/37624",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "2f2ce102f6d5b3038d4dde72751d280c048230bccc9172106fe23e385be8c68d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
