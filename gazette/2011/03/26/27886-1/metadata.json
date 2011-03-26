@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-03-26",
+  "issue": "27886",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "988 Libya’da Ortaya Çıkan Şiddet Ortamının Sona Erdirilmesini Teminen Birleşmiş Milletler Güvenlik Konseyi Tarafından Alınan Kararlar Çerçevesinde; Lüzum, Sınır, Kapsam, Şekil, Yöntem ve Zamanı Hükümetçe Takdir ve Tespit Edilmek Kaydıyla Türk Silahlı Kuvvetleri Unsurlarının Yabancı Ülkelere Gönderilmesi ve Gerekli Düzenlemelerin Hükümet Tarafından Yapılmasına Anayasanın 92 nci Maddesi Uyarınca Bir Yıl Süreyle İzin Verilmesine Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110326-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110326.htm",
+  "index_sha256": "417bb1f8059554bb9b54a9c489ee0bf39abc223e481d26b393ac72c47c52ae7c",
+  "index_header": "26 Mart 2011 ... 27886 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
