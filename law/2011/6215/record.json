@@ -1,0 +1,98 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6215",
+  "year": 2011,
+  "title": "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2011-03-29",
+  "adopted_as_published": "29/03/2011",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.04.2011 No: 27903",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc095/kanuntbmmc095/kanuntbmmc09506215.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 95",
+  "committee_reports": [
+    {
+      "label": "TBMM 698 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c096/tbmm23096077ss0698.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 23,
+      "kayit_no": 520218,
+      "title": "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "29/03/2011",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc095/kanuntbmmc095/kanuntbmmc09506215.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 698 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c096/tbmm23096077ss0698.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 96,
+          "sitting": 77,
+          "sitting_date": "2011-03-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c096/tbmm23096077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c096/tbmm23096fih.pdf",
+          "pages": [
+            "290:293"
+          ]
+        },
+        {
+          "cilt": 96,
+          "sitting": 78,
+          "sitting_date": "2011-03-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c096/tbmm23096078.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c096/tbmm23096fih.pdf",
+          "pages": [
+            "393:420"
+          ]
+        },
+        {
+          "cilt": 96,
+          "sitting": 79,
+          "sitting_date": "2011-03-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c096/tbmm23096079.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c096/tbmm23096fih.pdf",
+          "pages": [
+            "458:508",
+            "512:535",
+            "537:554"
+          ]
+        },
+        {
+          "cilt": 97,
+          "sitting": 83,
+          "sitting_date": "2011-03-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c097/tbmm23097083.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c097/tbmm23097fih.pdf",
+          "pages": [
+            "667:700",
+            "702",
+            "703:716",
+            "724:733"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=548&v_gelecek_sayfa=501&v_kullanici_id=27483202",
+      "page_sha256": "0a529251767c9819b30244b2fc83b388a21aeb2cdedaf34af5c1acf453a17ed0"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=23&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0a529251767c9819b30244b2fc83b388a21aeb2cdedaf34af5c1acf453a17ed0",
+  "issuer": "TBMM",
+  "in_force": "2011-03-29",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 29/03/2011; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
