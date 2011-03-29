@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6214",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti Anayasasında Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-03-29",
+  "gazette_issue": "27889",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110329-3.htm",
+  "source_sha256": "9f1950dbea92b5c6e56d78fa93da870418a815fbc30fe3d08980e1670bd9580b",
+  "text_sha256": "d7a653ce2c05b27c827ad86e8a76a6079d01f5c1b2d291243e322c40a7d2698e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/03/29/27889-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110329-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
