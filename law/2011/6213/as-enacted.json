@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6213",
+  "year": 2011,
+  "title": "Çiftçi Mallarının Korunması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-03-29",
+  "gazette_issue": "27889",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110329-2.htm",
+  "source_sha256": "789e33b30edad0905202b3bab9f22ab01c7ce3be31743e4305c345c0caf7407f",
+  "text_sha256": "b3e7cf4bc3ad10326d485c41904487b100fa1e9f26b12a0b01f8016e5336d57e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/03/29/27889-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110329-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
