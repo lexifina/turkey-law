@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2011/278",
+  "list_number": "278",
+  "decision_date": "2011-03-30",
+  "title": "XXIV. Dönem Milletvekili Genel Seçiminde Yurtdışı Seçmen Kütüğüne kayıtlı seçmenlerin hangi gümrük kapılarında oy kullanacağı ve Örnek: 145/I sayılı genelgeye ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2763/2011-278.pdf",
+  "source_sha256": "308be6ae1a2d33328aba2ed80ea13f89047f93f58b248169b81d9abbe6b00c65",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 14,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-03-30",
+  "law_text_complete": false
+}
