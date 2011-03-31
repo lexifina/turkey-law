@@ -1,0 +1,2 @@
+Madde 665- (22/11/2001 tarihli ve 4721 sayılı Kanunun hükmüdür.) Kendisine işletme özgülenen mirasçı, aşırı borçlanma zorunda kalmaksızın diğer mirasçıların paylarının karşılığını ödeyecek duruma gelirse; mirasçılardan her biri, ortaklıktan çıktığını bildirerek payının karşılığının kendisine ödenmesini isteyebilir.
+Aksi kararlaştırılmış olmadıkça, kendisine özgülenme yapılan mirasçı ortaklığın sona erdirilmesini her zaman isteyebilir.

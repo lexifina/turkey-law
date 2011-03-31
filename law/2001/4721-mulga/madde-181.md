@@ -1,0 +1,2 @@
+Madde 181- ikinci fıkra - (22/11/2001 tarihli ve 4721 sayılı Kanunun hükmüdür.) Boşanma davası devam ederken, ölen (…) (1) mirasçılarından birisinin davaya devam etmesi ve (…) (1) kusurunun ispatlanması hâlinde de yukarıdaki fıkra hükmü uygulanır. (1)
+8- Anayasa Mahkemesi’nin Anayasa Mahkemesi’nin 27/10/2011 tarihli ve E.: 2010/71, K.: 2011/143 sayılı Kararı ile yürürlükten kaldırılmış metni.(Madde Numarası: 303.)

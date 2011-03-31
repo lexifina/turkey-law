@@ -1,0 +1,1 @@
+Madde 668- (22/11/2001 tarihli ve 4721 sayılı Kanunun hükmüdür.) Mirasçılardan hiç biri tarımsal işletmenin bir bütün olarak kendisine özgülenmesini istemez veya özgülenme istemi reddedilirse, mirasçılardan her biri işletmenin bir bütün olarak satılmasını isteyebilir.

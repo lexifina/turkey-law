@@ -1,0 +1,71 @@
+{
+  "source_id": "5.5.4721",
+  "path": "law/2001/4721-mulga",
+  "number": "4721",
+  "tertip": "5",
+  "title": "TÜRK MEDENİ KANUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "document": "repealed-provisions",
+  "companion_of": "law/2001/4721",
+  "enacted": "2001-11-22",
+  "enacted_as_printed": "22.11.2001",
+  "published": "2001-12-08",
+  "gazette": "24607",
+  "in_force": "2011-03-31",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"7- 31/3/2011 tarihli ve 6217 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numarası: 181.)\"",
+  "date_evidence": [
+    [
+      "2011-03-31",
+      "7- 31/3/2011 tarihli ve 6217 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numarası: 181.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2008-02-20",
+      "5- 20/2/2008 tarihli ve 5737 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numarası: 111.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2005-07-03",
+      "4 - 3/7/2005 tarihli ve 5399 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numarası: 313)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2005-07-01",
+      "3 - 1/7/2005 tarihli ve 5378 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numarası: 348)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2004-11-04",
+      "2 - 4/11/2004 tarihli ve 5253 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 61, 62, 74 ve 79)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2003-01-02",
+      "1 - 2/1/2003 tarihli ve 4778 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları:91,92)",
+      "a repeal note (enactment date of the repealing act)"
+    ]
+  ],
+  "repeal_notes": [
+    "1 - 2/1/2003 tarihli ve 4778 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları:91,92)",
+    "2 - 4/11/2004 tarihli ve 5253 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 61, 62, 74 ve 79)",
+    "3 - 1/7/2005 tarihli ve 5378 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numarası: 348)",
+    "4 - 3/7/2005 tarihli ve 5399 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numarası: 313)",
+    "5- 20/2/2008 tarihli ve 5737 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numarası: 111.)",
+    "6- Anayasa Mahkemesi’nin 17/4/2008 tarihli ve E.: 2005/14, K.: 2008/92 sayılı Kararı ile yürürlükten kaldırılmış hükmün metni: ( Madde numarası : 101.)",
+    "7- 31/3/2011 tarihli ve 6217 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numarası: 181.)",
+    "8- Anayasa Mahkemesi’nin Anayasa Mahkemesi’nin 27/10/2011 tarihli ve E.: 2010/71, K.: 2011/143 sayılı Kararı ile yürürlükten kaldırılmış metni.(Madde Numarası: 303.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=4721&MevzuatTertip=5",
+  "source_sha256": "2e44f6cdd75190d146d01ed98ef1f810b4e1a3cc48471610c5799fbae6b110cb",
+  "source_bytes": 33894,
+  "words": 1180,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

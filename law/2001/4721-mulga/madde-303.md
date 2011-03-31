@@ -1,0 +1,1 @@
+Madde 303- ikinci fıkra - (22/11/2001 tarihli ve 4721 sayılı Kanunun hükmüdür.) Çocuğa doğumdan sonra kayyım atanmışsa, çocuk hakkında bir yıllık süre, atamanın kayyıma tebliği tarihinde; hiç kayyım atanmamışsa çocuğun ergin olduğu tarihte işlemeye başlar.

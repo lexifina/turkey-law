@@ -1,0 +1,1 @@
+Madde 663- (22/11/2001 tarihli ve 4721 sayılı Kanunun hükmüdür.) Mirasçılar arasında ergin olmayan ayırt etme gücüne sahip altsoy varsa; paylaşma, bunlar ergin oluncaya kadar ertelenebilir veya mirasçılar arasında özgülemeye karar verilebilecek tarihe kadar aile malları ortaklığı kurulur.
