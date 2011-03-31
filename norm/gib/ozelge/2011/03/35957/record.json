@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.66.10.00-6600-1",
+  "source_id": 35957,
+  "date": "2011-03-31",
+  "title": "Resmi binaların imarla ilgili harçlardan muaf olup olmaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35957",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "ae66477116f75169372ef174a5d5c6eb3d73215b423f1c1fc9102f5d51e6c5c7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
