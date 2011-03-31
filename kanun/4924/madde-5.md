@@ -8,4 +8,4 @@ Sözleşmeli personelin, istihdam edildikleri hizmet birimlerinin bulundukları 
 Sözleşmeli personelin izinleri hususunda 657 sayılı Devlet Memurları Kanunu uygulanır. Ancak, otuz günü aşan hastalık izinlerinde sözleşmeli personele yarım sözleşme ücreti ödenir. Ayrıca, sözleşmeli personelin yıllık izinleri birleştirilemez ve bu personele yıllık izinden düşülmek üzere mazeret izni verilemez.
 ––––––––––––––
 (1) 28/3/2007 tarihli ve 5614 sayılı Kanunun 8 inci maddesiyle, bu maddenin üçüncü fıkrasında yer alan "boş diğer pozisyona nakilleri" ibaresinden sonra gelmek üzere "ve hizmet puanı" ibaresi eklenmiştir.
-(Ek fıkra: 20/10/2005-5413/2 md.) Sözleşmeli personel, istihdam edildiği hizmet biriminde gereği halinde başhekim, başhekim yardımcısı ve başhemşire olarak görevlendirilebilir. Bu görevleri yürüttükleri sürece kendilerine bu görevlerine istinaden başka bir ücret ödenmez.
+(Ek fıkra: 20/10/2005-5413/2 md.) (İptal birinci cümle: Anayasa Mahkemesi’nin 23/7/2009 tarihli ve E.: 2005/145, K.: 2009/112 sayılı Kararı ile.) (…) (1) Bu görevleri yürüttükleri sürece kendilerine bu görevlerine istinaden başka bir ücret ödenmez. (1)
