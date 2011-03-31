@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-03-31",
+  "issue": "27891",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Standardları Enstitüsü'nün Ölçü Aletleri Yönetmeliği (2004/22/AT) Kapsamında Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (No: ÖSG-2011/07)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110331-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/03/20110331.htm",
+  "index_sha256": "c478949789c98a530cc871c76070b44009a88ef50929aafaf9d9e9ca3b6690cc",
+  "index_header": "31 Mart 2011 ... 27891 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
