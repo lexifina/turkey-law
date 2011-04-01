@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.17.02-VUK-10-78-27",
+  "source_id": 27144,
+  "date": "2011-04-01",
+  "title": "Grup şirketinin bankaya olan borcunun kefalet nedeniyle ödenmesi durumunda, söz konusu kefaletin tiacri nitelik taşımamasından dolayı şüpheli alacak karşılığı ayrılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27144",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "9f413ad23a9fd48f47aa308f9776c07a36a20d148d1a92af205af476d1150550",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
