@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2011/289",
+  "list_number": "289",
+  "decision_date": "2011-04-01",
+  "title": "XXIV. Dönem Milletvekili Genel Seçiminde görev alacak kişilere ödenecek gündelik miktarı ile sair harcamalara ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2760/2011-289.pdf",
+  "source_sha256": "8149ce40341728a5c3dd8f53cb6cc0e9f0c27aaa1a836df41be39d8439570222",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 7,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-04-01",
+  "law_text_complete": false
+}
