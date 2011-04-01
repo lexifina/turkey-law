@@ -1,0 +1,2 @@
+Başkan
+MADDE 6 – (1) Mütevelli Heyet üyeleri kendi aralarından bir Başkan seçer. Başkanın görev süresi dört yıldır. Başkan, Mütevelli Heyet üyeleri arasından bir Başkan Yardımcısı seçer. Başkan Yardımcısının görev süresi, Başkanın görev süresiyle sınırlıdır. Başkan ve Başkan Yardımcısı görev sürelerinin bitiminde yeniden seçilebilir. Başkanın görev başında olmadığı sürelerde, Başkan Yardımcısı kendisine vekalet eder.

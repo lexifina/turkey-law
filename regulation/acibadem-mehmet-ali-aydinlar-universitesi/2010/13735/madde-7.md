@@ -1,0 +1,4 @@
+Mütevelli heyet toplantıları
+MADDE 7 – (1) Mütevelli Heyet ayda en az bir defa toplanır. Mütevelli Heyetin toplantı nisabı üye tam sayısının yarısından bir fazladır. Kararlar toplantıya katılanların salt çoğunluğu ile alınır. Her üye kabul veya red olarak oyunu kullanmak zorundadır. Çekimser oy kullanılmaz.
+(2) Mütevelli Heyet kararları usulüne uygun olarak karar defterine yazılarak Başkan ve üyeler tarafından imzalanır.
+(3) Mütevelli Heyet üyeliği fahridir. Ancak; Vakıf Yönetim Kurulu kararı ile Mütevelli Heyet üyelerine; toplantıya katılma, yol ve huzur hakkı verilebilir. Verilecek miktar bir yılda onikiyi geçmemek üzere katılacakları her toplantı için 2547 sayılı Kanunun 6 ncı maddesinde Yükseköğretim Genel Kurulu üyeleri için öngörülen ücreti aşamaz. Mütevelli Heyet Başkan ve üyelerine bunun dışında ödeme yapılmaz.

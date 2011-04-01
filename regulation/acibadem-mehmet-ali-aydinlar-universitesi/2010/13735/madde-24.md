@@ -1,0 +1,4 @@
+Öğretim elemanları ve görevleri
+MADDE 24 – (1) Üniversitenin öğretim elemanları; öğretim üyeleri, öğretim görevlileri, okutmanlar ile öğretim yardımcılarıdır. Öğretim elemanlarının nitelikleri Devlet yükseköğretim kurumlarındaki öğretim elemanlarının nitelikleriyle aynıdır. Devlet yükseköğretim kurumlarında çalışmaları yasaklanmış veya disiplin yoluyla bu kurumlardan çıkarılmış kişiler, Üniversitenin yükseköğretim kurumlarında görev alamazlar. Üniversite öğretim elemanlarının seçiminde; Devlet yükseköğretim kurumlarındaki öğretim elemanlarının niteliklerine ek olarak, akademik ve bilimsel yönden Üniversitenin gerekli gördüğü Senato tarafından kabul edilecek diğer şartlar da aranır.
+(2) Öğretim elemanlarının görevlerini yapmaları öncelikle bağlı bulundukları bölüm başkanı ile dekan, enstitü ve yüksekokul müdürleri ve Rektör tarafından izlenir ve denetlenir.
+(3) Öğretim elemanları; 2547 sayılı Kanun ve bu Yönetmelikle verilen görevleri yaparlar.

@@ -1,0 +1,3 @@
+Okutmanlar ve görevleri
+MADDE 27 – (1) Okutmanlar, eğitim-öğretim süresince çeşitli öğretim programlarında ortak zorunlu ders olarak belirlenen dersleri ve yabancı dil hazırlık derslerini okutan veya uygulayan Rektörlüğe bağlı öğretim elemanlarıdır. Rektör okutmanlar arasından birini hazırlık okulu/hazırlık sınıfı koordinasyon sorumlusu olarak Mütevelli Heyete önerir. Koordinasyon sorumlusu Mütevelli Heyet tarafından atanır.
+(2) Okutmanlar seçme sınavı ve mülakatla alınır. Sınav ve mülakat aşamalarında başarılı bulunan okutman adayları; koordinasyon sorumlusunun teklifi, Rektörün onayı ile Mütevelli Heyet tarafından atanırlar.

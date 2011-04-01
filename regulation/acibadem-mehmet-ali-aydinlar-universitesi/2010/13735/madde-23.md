@@ -1,0 +1,3 @@
+Bölüm başkanı ve görevleri
+MADDE 23 – (1) Bölüm başkanı; ilgili bölümün tam zamanlı profesörleri, bulunmadığı takdirde tam zamanlı doçentleri, bulunmadığı takdirde yardımcı doçentleri arasından fakültelerde dekanın, yüksek okullarda müdürün önerisi üzerine Rektörce üç yıl için atanır. Süresi biten bölüm başkanı yeniden atanabilir. Bölüm başkanı bulunmadığı zamanlarda öğretim üyelerinden birini vekil bırakır. Başkanın altı aydan fazla görevi başında bulunmaması durumunda yeni bir başkan atanır.
+(2) Bölüm başkanı, bölümün her düzeyde eğitim-öğretimi ve araştırmalarından ve bölüme ait her türlü faaliyetin düzenli ve verimli bir şekilde yürütülmesinden sorumludur.
