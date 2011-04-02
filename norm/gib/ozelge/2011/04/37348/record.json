@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-BGK:EK 2 MD 2010-55-194",
+  "source_id": 37348,
+  "date": "2011-04-02",
+  "title": "Askeri güvenlik sahası içerisinde bulunan lojman inşaatı için alınacak inşaat ruhsatının bina inşaat harcından muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37348",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "17e6ee3074485966ca028dbd61408160dea7f5544eb45d9604f54cf48a581b68",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
