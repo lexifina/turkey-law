@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2011/5",
+  "list_number": "289",
+  "genelge_number": "5",
+  "decision_date": "2011-04-02",
+  "title": "XXIV. Dönem Milletvekili Genel Seçiminde görev alacak kişilere ödenecek gündelik miktarı ile sair harcamalara ilişkin genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1795/2011-5.pdf",
+  "source_sha256": "553516bec62d2adb618b5b80754cf3d11a0fa7c9a94d51d4d0671f3a4159ae3f",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 8,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-04-02",
+  "law_text_complete": false
+}
