@@ -1,0 +1,4 @@
+Yabancı ülkelere gönderilme
+MADDE 73- (1) Raportörler ve raportör yardımcıları bilgi ve görgülerini artırma, lisansüstü eğitim, bilimsel araştırma ya da karşılıklı iş birliği çerçevesinde yabancı ülke mahkemeleri, üniversiteler veya uluslararası kuruluşlarda çalışmak veya öğrenim görmek üzere Başkanlıkça iki yıla kadar yurt dışında görevlendirilebilirler. Başkanlıkça gerekli görüldüğü takdirde bu süreler bir katına kadar uzatılabilir.
+(2) Bu kapsamda yurt dışında görevlendirilenlerin; mali hakları, yükümlülükleri, mecburî hizmetleri, giderlerinin karşılanması, aylık ve ödeneklerinin transferi konularında Devlet memurlarına ilişkin hükümler uygulanır.
+(3) Bu Kanun hükümlerine göre yabancı ülkelere gönderilenlerin derece yükselmeleri, kademe ilerlemeleri, emeklilik, aylık, ödenek ve diğer bütün özlük hakları ile yükümlülükleri devam eder.
