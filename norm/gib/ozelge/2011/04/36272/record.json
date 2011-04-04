@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-VİVK-1-22",
+  "source_id": 36272,
+  "date": "2011-04-04",
+  "title": "Engelli yakınının yaptırdığı hayat sigorta poliçesinde, kendisinin ölümünden sonra ödenecek sigorta tazminatının, engellinin ömür boyu bakımını üstlenen vakfa yapılması halinde VİV ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36272",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "e2229697b9f14aef5c9aea46e9bfb2d5fed45129ed4456960ece2960a70614aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
