@@ -1,0 +1,9 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez, bu Yönetmeliğin 5 inci maddesinde belirtilen amacını gerçekleştirmek için, çalışma alanına giren konularla ilgili olarak aşağıdaki faaliyetleri yapar:
+a) Afrika kıtası ile ilgili bilimsel araştırmalar ve incelemeler yapmak, araştırma sonuçlarını yayınlamak, Afrika kıtası konusunda araştırmacılar yetiştirilmesine katkıda bulunmak,
+b) Bölgesel kalkınma, işgücü piyasası, iktisadi kalkınma ve yoksulluk gibi Türkiye ve Afrika kıtasını ilgilendiren konularda işbirliği projeleri yapmak, Afrika kıtası hakkında araştırma yapmak isteyen bilim adamlarının projelerini desteklemek,
+c) Uluslararası düzeyde girişimciliğin ve işbirliğinin gelişmesi, Afrika ülkelerinde faaliyet gösteren benzer enstitü ve merkezlerin deneyimlerinin kazanılması ile ortak projeler geliştirerek hem Türkiye hem de Afrika ülkelerinin lojistik altyapısı ve lojistik sistemine ilişkin problemlere ortak bir şekilde çözüm aramak,
+ç) Afrika kıtasında yer alan ülkeler ile Türkiye arasındaki ticari ilişkilerin lojistik yönetimi açısından değerlendirilmesi ve bu konuda araştırma ve iyileştirme çalışmaları yapmak,
+d) Az gelişmiş ve gelişmekte olan ülkelerde uluslararası sermaye ve ticaret akımının genel ekonomik ve hukuki prensipler ışığında nasıl ilerletilebileceğinin belirlenerek Afrika ülkelerinin ticaret ve sermaye akımlarının geliştirilmesi ile ilgili araştırma ve analizler yapmak,
+e) Gerekli hallerde bölgede bilimsel kazı çalışmaları planlamak ve ilgili kurumların işbirliğini sağlayarak arkeolojik kazı, yüzey ve saha araştırması yapmak, arşiv, müze ve kütüphanelerinde araştırma ve incelemelerde bulunmak,
+f) Belli aralıklarla ulusal ve uluslararası kongreler ve Merkezin amaçları ile ilgili konularda konferans, seminer, bilgi şöleni, panel, kurs ve sergi düzenlemek, Türkiye’yi tanıtıcı bilimsel geziler yapmak.
