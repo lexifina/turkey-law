@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-EMLAK-20-24-25",
+  "source_id": 36950,
+  "date": "2011-04-04",
+  "title": "Brüt 200 m²'yi geçmeyen tek meskeni olan ve emekli olduklarını geç bildiren emeklilerin geçmişe dönük olarak indirimli emlak vergisinden faydalanıp faydalanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36950",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "5a12208bcbe040ccdde96e0ade5ec170d3fd18b3ec8f1fea90d36619aa2948bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
