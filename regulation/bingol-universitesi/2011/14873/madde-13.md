@@ -1,0 +1,2 @@
+Proje grupları ve alt birimler
+MADDE 13 – (1) Merkezde araştırma, geliştirme ve eğitim çalışmalarını iş bölümü çerçevesinde yürütmek üzere Müdürün önerisi ve Yönetim Kurulu kararıyla, Merkezin çalışma alanlarında Merkez alt birimleri ve proje grupları kurulabilir. Alt birimler ve proje gruplarının kuruluş ve çalışmaları Yönetim Kurulunca belirlenen esaslar uyarınca yürütülür. Alt birimlerde personel görevlendirilmesi Müdürün önerisi ve Rektörün onayı ile yapılır.
