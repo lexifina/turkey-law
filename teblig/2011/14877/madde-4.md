@@ -1,0 +1,2 @@
+Karar
+MADDE 4 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, yapılan başvuruyla ilgili olarak 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği (Yönetmelik) hükümleri çerçevesinde 70.13 gümrük tarife istatistik pozisyonunda sınıflandırılan cam eşya ithalatında uygulanmakta olan ek mali yükümlülüğün etkilerinin değerlendirilmesi ve söz konusu önlem uygulamasının devamının gerekli olup olmadığının incelenmesi amacıyla gözden geçirme soruşturması açılmasına karar vermiştir.

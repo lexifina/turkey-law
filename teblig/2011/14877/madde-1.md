@@ -1,0 +1,4 @@
+Korunma önlemi
+MADDE 1 – (1) 9/5/2002 tarihli ve 24750 sayılı Resmî Gazete’de yayımlanan İthalatta Gözetim ve Korunma Önlemlerine İlişkin 2002/3 sayılı Tebliğ ile 70.13 Gümrük Tarife İstatistik Pozisyonlu (GTP) “sofra, mutfak, tuvalet, yazıhane, ev tezyinatı ve benzeri işler için cam eşya”nın İran İslam Cumhuriyeti (İran) menşeli olanlarının ithalatı 3 (üç) yıl süre ile miktar kısıtlamasına tabi tutulmuştur.
+(2) 9/5/2005 tarihli ve 25810 sayılı Resmî Gazete’de yayımlanan İthalatta Gözetim ve Korunma Önlemlerine İlişkin 2005/4 sayılı Tebliğ ile söz konusu korunma önlemi 9/5/2005 tarihinden itibaren 3 yıl süre ile uzatılmıştır.
+(3) 14/6/2008 tarihli ve 26906 sayılı Resmî Gazete’de yayımlanan İthalatta Gözetim ve Korunma Önlemlerine İlişkin 2008/13711 sayılı Bakanlar Kurulu Kararı çerçevesinde söz konusu korunma önleminin uygulama süresinin 3 (üç) yıl uzatılmasına ve önlemin ek mali yükümlülük şeklinde uygulanmasına karar verilmiştir.

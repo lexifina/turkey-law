@@ -1,0 +1,3 @@
+Ön inceleme
+MADDE 3 – (1) Başvuru konusu eşyanın genel ithalatı ek mali yükümlülük uygulamasının yürürlüğe konulduğu 2008 yılında bir önceki yıla göre % 33 oranında artmış, 2009 yılında düşüş göstermiş, 2010 yılında ise bir önceki yıla göre % 38 oranında artmıştır. Söz konusu ithalat miktarı 2008-2010 yılları için sırasıyla 217.130.705, 179.252.820 ve 248.109.388 adet seviyesinde gerçekleşmiştir. İran menşeli ithalat ise 2008-2010 yılları için sırasıyla 2.641.069, 3.326 ve 573 adet seviyesinde gerçekleşmiştir.
+(2) Başvuru konusu eşyanın ithalatında korunma önlemi uygulanan dönemde yerli üreticilerin ekonomik göstergeleri düzelme eğilimi göstermiştir.
