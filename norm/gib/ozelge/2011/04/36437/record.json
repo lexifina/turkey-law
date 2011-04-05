@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.54.15.01-155-2010-9-6",
+  "source_id": 36437,
+  "date": "2011-04-05",
+  "title": "4 tekerlekli ATV tipi taşıtın hangi tarifeye göre motorlu taşıtlar vergisine tabi tutulacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36437",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "54aec4c9fefa4a99097339cab67ccd7cd06dae8038b2386066163a13a8ca796a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
