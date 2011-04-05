@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2011/305",
+  "list_number": "305",
+  "decision_date": "2011-04-05",
+  "title": "Milletvekilliği adaylık başvuruları sırasında erkek adayların askerlik belgesi ibraz etme zorunluluğu ile ilgili Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2753/2011-305.pdf",
+  "source_sha256": "ab7c05fdafb27646c1ff5d7f2602bedf9e81b47463c8730ac7b860eb3bd44a85",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-04-05",
+  "law_text_complete": false
+}
