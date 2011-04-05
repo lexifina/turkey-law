@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-EML:5.M-2010-48-203",
+  "source_id": 37035,
+  "date": "2011-04-05",
+  "title": "Organize sanayi bölgeleri ile sanayi ve küçük sanat sitelerindeki binalar, inşalarının sona erdiği tarihi takip eden bütçe yılından itibaren 5 yıl süre ile geçici muafiyetten faydalanmaları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37035",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "65e0a86bc445ae7545a9c98cee74682c8d9b28330c4145c1e2cfb62e94ca9f43",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
