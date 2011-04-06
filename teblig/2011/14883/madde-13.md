@@ -1,0 +1,1 @@
+MADDE 13 – (1) İşbu Tebliğ kapsamında öngörülen hedeflere ne ölçüde erişildiğine ilişkin olarak Dış Ticaret Müsteşarlığı tarafından bir değerlendirme raporu hazırlanarak, uygulama dönemini takip eden üç ay içerisinde Kurul üyelerini bilgilendirmek üzere Para-Kredi ve Koordinasyon Kurulu Sekreteryası’na gönderilir.

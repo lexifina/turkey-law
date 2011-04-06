@@ -1,0 +1,1 @@
+MADDE 9 – (1) Bu Tebliğ kapsamında yapılan konsinye ihracat kapsamında kesin satış faturasında belirtilen FOB birim ihraç fiyatının gümrük beyannamesinde belirtilen FOB birim ihraç fiyatının % 50’sinin altında olması halinde söz konusu ihracat mahsup işlemlerinden yararlandırılmaz.
