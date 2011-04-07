@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.59.15.01-KDV-25-2010-11",
+  "source_id": 31055,
+  "date": "2011-04-07",
+  "title": "İhraç kayıtlı satışta Gümrük Beyannamesinde imalatçı firmanın yanlış yazılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31055",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "bd7bc80f117e7d3126970244be0425fa39f424e2938ce39c7d6e65382cee0de5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
