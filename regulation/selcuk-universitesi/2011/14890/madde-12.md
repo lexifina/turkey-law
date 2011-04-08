@@ -1,0 +1,4 @@
+Danışma kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu; Üniversitenin Rektör Yardımcıları, Hukuk Fakültesi Dekanı ve Sosyal Bilimler Enstitüsü Müdürü ile Yönetim Kurulu tarafından belirlenen istekleri halinde kamu kurum ve kuruluşları, üniversiteler, yerel yönetimler, Türkiye Bilimler Akademisi, sivil toplum örgütleri ve meslek kuruluşlarından insan hakları alanında çalışmaları olan kişiler arasından seçilecek üyelerden ve insan hakları alanında çalışmaları olan yabancı akademisyenlerden oluşur. Danışma Kurulu üyeleri üç yıllık bir süre için seçilir. Üyelik süresi sona erenler yeniden seçilebilir.
+(2) Danışma Kurulu, her yıl en az bir kez Müdür tarafından belirlenen tarihte, Müdürün başkanlığında çoğunluk koşulu aranmadan toplanır.
+(3) Danışma Kurulu, Merkezin çalışmalarıyla ilgili öneri ve eleştiriler geliştirir.

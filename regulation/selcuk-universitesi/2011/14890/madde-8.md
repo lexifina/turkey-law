@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Müdür; insan hakları konusunda araştırmaları ve yayınları olan Üniversitenin Hukuk Fakültesi öğretim üyeleri arasından, Rektör tarafından üç yıl için görevlendirilir. Görev süresi biten Müdür aynı usulle tekrar görevlendirilebilir. Yönetim Kurulu üyelerinden birisi, Müdürün teklifi üzerine Müdür yardımcısı olarak görevlendirilir. Müdürün görevi başında bulunmadığı zamanlarda yardımcısı vekâlet eder. Müdüre vekalet altı aydan fazla sürerse yerine aynı usulle yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcısının da görevi sona erer.
