@@ -1,0 +1,84 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 14 - Bu Yönetmelik Resmi Gazete’de yayımlandığı tarihten itibaren yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1988-01-13",
+      "13.01.1988",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2011-04-08",
+      "RG-8/4/2011-27899",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-04-08",
+      "RG-8/4/2011-27899",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-04-08",
+      "RG-8/4/2011-27899",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-04-08",
+      "RG-8/4/2011-27899",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-04-08",
+      "RG-8/4/2011-27899",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-04-08",
+      "RG-8/4/2011-27899",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-04-08",
+      "RG-8/4/2011-27899",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-04-08",
+      "RG-8/4/2011-27899",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-04-08",
+      "RG-8/4/2011-27899",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-8/4/2011-27899",
+  "first_law": null,
+  "gazette": "19693",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-04-08",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Erciyes Üniversitesi",
+  "issuer_slug": "erciyes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/erciyes-universitesi/1988/7620",
+  "published": "1988-01-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7620&MevzuatTertip=5",
+  "source_bytes": 22836,
+  "source_id": "8.5.7620",
+  "source_sha256": "4f3f3fe0aec104ac3085851b5159c1be54b565c1bdebc42b5d2412bbe3372a76",
+  "text_status": "current-consolidated",
+  "title": "ERCİYES ÜNİVERSİTESİ ATATÜRK İLKELERİ ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 192,
+  "word_count": 726
+}
