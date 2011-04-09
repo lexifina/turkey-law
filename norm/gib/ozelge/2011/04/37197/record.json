@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.65.10.00-Bina İnşaat Harcı-3",
+  "source_id": 37197,
+  "date": "2011-04-09",
+  "title": "Bina inşaat harcı matrahının tespitinde her bir bağımsız bölümün ayrı ayrı olarak mı, yoksa binanın toplam yüzölçümü üzerinden mi hesaplanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37197",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "8a0ccb8070ca704eec2afc74c191978ecfcdf93f2235dcfc7c547ffc2a70da98",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
