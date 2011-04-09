@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6224",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti ile Libya Arap Halk Sosyalist Büyük Cemahiriyesi Arasında Yatırımların Karşılıklı Teşviki ve Korunması Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-04-09",
+  "gazette_issue": "27900",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/04/20110409-1.htm",
+  "source_sha256": "1e5ffa3a5e4cb25a78ec4daea95e5fc958c865da4e2d22e7458744ab60e8f3f0",
+  "text_sha256": "01bcd978417cd657826689b577cf71807f210834b0f96e6193dcfe30e59352d4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/04/09/27900-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/04/20110409-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
