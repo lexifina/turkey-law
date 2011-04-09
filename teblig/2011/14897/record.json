@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.14897",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "18 YAŞINI DOLDURMAYANLARA ALKOLLÜ İÇKİLERİN SATIŞ VE SUNUMUNUN YAPILAMAYACAĞINA İLİŞKİN UYARI YAZILARININ ŞEKLİ VE İÇERİĞİNE İLİŞKİN TEBLİĞ",
+  "number": "14897",
+  "issuer": "Tütün ve Alkol Piyasası Düzenleme Kurumu Başkanı",
+  "path": "teblig/2011/14897",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14897&MevzuatTertip=5",
+  "source_sha256": "17353b10b802fe9af811a24e73b973d31f89ea07b91a4a35cc494402ce18418d",
+  "source_bytes": 10198,
+  "published": "2011-04-09",
+  "gazette": "27900",
+  "in_force": "2011-04-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.04.2011); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 331,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14897%20ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

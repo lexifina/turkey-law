@@ -1,0 +1,9 @@
+18 YAŞINI DOLDURMAYANLARA ALKOLLÜ İÇKİLERİN SATIŞ VE SUNUMUNUN YAPILAMAYACAĞINA İLİŞKİN UYARI YAZILARININ ŞEKLİ VE İÇERİĞİNE İLİŞKİN TEBLİĞ
+MADDE 1 – (1) 7/1/2011 tarihli ve 27808 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren, Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelik kapsamına giren işyerlerinden, müşterilerin içeri girmek suretiyle alkollü içkileri alabildiği yerlerde, bu ürünlerin satış noktaları ve ödeme noktalarına, diğer işyerlerinde ise müşterilerin görebileceği yerlere asılması zorunlu yasal uyarılar;
+a) Asgari A4 boyutunda, beyaz zeminde, yasal uyarı yazısı sürekli ve kalıcı olmak kaydıyla kâğıt veya süreklilik arz eden uygun bir materyal üzerinde yer alır,
+b) Köşeleri oval kırmızı renkli çerçeve ile çerçevelenir,
+c) Baskı yapılan alanın üstte kalan yüzde yirmibeşlik kısmında; siyah renkli “18” ibaresi ile bu ibarenin altında büyük harflerle yazılmış “YAŞ ALTI” ibaresinin, ortasından soldan sağa doğru çapraz şekilde bir kırmızı çubuk geçen kırmızı renkli bir daire içerisinde kapalı bulunduğu grafikten oluşan onsekiz yaş altına satış yapılamaz sembolünü içerir,
+ç) En az iki santimetre büyüklüğünde, kırmızı renkli büyük harflerle yazılan “YASAL UYARI:” ibaresi ile siyah renkli büyük harflerle yazılan ve Ek-1’de gösterilen “18 YAŞINI DOLDURMAYANLARA ALKOLLÜ İÇKİLERİN SATIŞI VEYA SUNUMU YAPILAMAZ; YAPANLAR HAKKINDA YASAL İŞLEM UYGULANIR.” ibaresini içerir,
+d) İtalik olmayan ve Haettenschweiler yazı karakteri kullanılarak Türkçe olarak yazılır ve yukarıda belirtilenlerin dışında başkaca işaret ve ibare içermez,
+e) Kırmızı renk kullanılması gereken yerlerde bayrak kırmızı kullanılır,
+f) Alkollü içkilerin satışının yapıldığı yerlerde asılması zorunlu yasal uyarılar, yukarıda yer alan örneğe uygun olarak düzenlenir.

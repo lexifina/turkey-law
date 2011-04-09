@@ -1,0 +1,1 @@
+MADDE 3 – (1) Kültür ve Turizm Bakanlığı’ndan ve diğer kurumlardan işletme belgesi almış turistik amaçlı ve benzeri tesislere, havaalanları gibi yabancıların yoğun olarak alışveriş yaptığı işyerlerine, Türkçe uyarılara ilaveten birer örneği Ek-2’de yer alan en çok konuşulan yabancı dillerde uyarılar da asılabilir.
