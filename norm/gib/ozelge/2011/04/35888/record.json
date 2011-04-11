@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-007.01-257",
+  "source_id": 35888,
+  "date": "2011-04-11",
+  "title": "Gecekondu önleme bölgesi olarak ilan edilen alanda inşa edilecek yapıların 2464 sayılı Bel. Gel. Kan. ve 492 sayılı Kanun kapsamında hangi harçlardan muaf olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/35888",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "cdd2c33e7c64014904b0667d50e810ad7b061482d10a414d17129820582af4f0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
