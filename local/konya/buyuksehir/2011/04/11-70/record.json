@@ -1,0 +1,25 @@
+{
+  "number_in_summary": 70,
+  "number_basis": "item number printed in the summary",
+  "official_decision_number": null,
+  "title": "(Büyükşehir Belediyesi) Meram İlçesi, Gazi lisesi yanı, Hoca Hasan Camii arkasına yeraltı katlı otopark yapılması ile ilgili imar plan tadilatına dair İmar ve Bayındırlık Komisyonu raporunun aynen kabulüne,",
+  "decision_date": "2011-04-11",
+  "meeting_date": "2011-04-11",
+  "summary_heading": null,
+  "summary_title": "KARAR ÖZETİ (11.04.2011)",
+  "source": "https://www.konya.bel.tr/meclis/icerik-getir?tarih=2011-04-11&tur=2",
+  "source_page": "https://www.konya.bel.tr/meclis-encumen/meclis-gundemi-ve-kararlari?karar_yil=2011&karar_ay=4",
+  "source_sha256": "46d64d3fcd44ec9254505b96c474d6cd3679a871882bd8bd3c5ab83a267c3717",
+  "issuer": "Konya Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary item as published in the council's Karar Özeti; complete decision text is not published in this register",
+  "in_force": "2011-04-11",
+  "in_force_basis": "Official toplantı tarihi 2011-04-11 (the summary prints no dated heading); adoption date for the summary item; legal commencement not asserted",
+  "missing": [
+    "official decision number (not printed in the summary)",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
