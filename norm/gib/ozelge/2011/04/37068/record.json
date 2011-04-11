@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-006.01-265",
+  "source_id": 37068,
+  "date": "2011-04-11",
+  "title": "Emeklinin kendine ait evi kiraya verip eşine ait evde oturması halinde indirimli Emlak Vergisi oranından yararlanıp yararlanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37068",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "9d45b9ed65fc347cab66ac1be9ecca0f72290baafd68b909e86b21ca5cfc1e3e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
