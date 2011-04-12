@@ -1,0 +1,1 @@
+Geçici Madde 4 – Bakanlık taşra ve yurt dışı teşkilatı bu Kanunun 53 ve 54 üncü maddelerinde belirtilen esaslara göre yeniden düzenleninceye kadar görev ve hizmetler, mevcut taşra ve yurt dışı teşkilatı tarafından yürütülmeye devam olunur.

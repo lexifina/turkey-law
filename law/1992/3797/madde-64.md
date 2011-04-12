@@ -1,0 +1,2 @@
+Yürürlükten Kaldırılan Hükümler
+Madde 64 – 22 Mart 1926 tarih ve 789 sayılı Maarif Teşkilatına Dair Kanun, 21 Mayıs 1928 tarih ve 1246 sayılı Türkiye'de Gençlik Teşkilatının Türk Vatandaşlarına Hasrı Hakkında Kanun, 22 Haziran 1933 tarih ve 2287 sayılı Maarif Vekaleti Merkez Teşkilatı ve Vazifeleri Hakkında Kanun ile bu kanunların ek ve tadilleri ve diğer kanunların bu Kanuna aykırı hükümleri yürürlükten kaldırılmıştır.

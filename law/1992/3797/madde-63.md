@@ -1,0 +1,2 @@
+İntikal Eden Yetkiler
+Madde 63 – 356 sayılı Kanun Hükmünde Kararnamenin yayımı tarihinden önce Milli Eğitim Gençlik ve Spor Bakanına ve Bakanlığına çeşitli mevzuatla verilen her türlü görev, yetki, sorumluluk ile hak ve muafiyetlerden Milli Eğitim Bakanlığı ile ilgili olanlar Milli Eğitim Bakanına ve Bakanlığına, Başbakanlık Gençlik ve Spor Genel Müdürlğü ile ilgili olanlar da bu Genel Müdürlüğüne intikal eder.

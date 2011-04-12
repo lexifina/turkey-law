@@ -1,0 +1,1 @@
+Geçici Madde 6 – Bu Kanunla kaldırılmış birimlerde görevli personel durumlarına uygun kadrolara atanırlar. Bunların aylık, ek gösterge ve her türlü hakları yeni görevlerinde kaldıkları sürece şahsa bağlı olarak saklı tutulur.

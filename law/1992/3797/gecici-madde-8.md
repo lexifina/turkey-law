@@ -1,0 +1,2 @@
+Geçici Madde 8 – (Ek: 25/6/2009-5917/29 md.)
+Bakanlığa bağlı her derece ve türdeki örgün ve yaygın eğitim kurumlarında görev yapan yönetici ve öğretmenlerden Bakanlık merkez ve taşra teşkilatı ile Bakanlığa verilmiş bir görevi yürütmek üzere diğer kurumlarda ilgili mevzuatına göre geçici olarak görevlendirilenlere, 1/7/2006 ile 23/1/2009 tarihleri arasında 375 sayılı Kanun Hükmünde Kararnamenin ek 3 üncü maddesi kapsamında yapılmış olan ek ödemeler nedeniyle borç çıkarılmaz, çıkarılmış olan borç tutarlarının tahsilinden vazgeçilerek borç takibi işlemine son verilir.

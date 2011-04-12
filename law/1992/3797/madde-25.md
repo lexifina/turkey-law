@@ -1,0 +1,3 @@
+Okuliçi Bedeneğitimi, Spor ve İzcilik Dairesi Başkanlığı
+Madde 25 – Okuliçi Bedeneğitimi, Spor ve İzcilik Dairesi Başkanlığı, Bakanlığa bağlı örgün ve yaygın eğitim kurumlarındaki bedeneğitimi, spor ve izcilik faaliyetleriyle ilgili bütün görev ve hizmetleri yürütmekle görevlidir.
+Milli Eğitim Bakanlığına bağlı Gençlik ve İzcilik Tesisleri, Okul Spor Tesisleri ve Salonlarının, eğitim ve öğretim hizmetlerini aksatmamak ve kullandıkları sürece her türlü giderleri ilgili kurum ve kuruluşlarca karşılanmak şartıyla sosyal, kültürel ve sportif etkinlikler için il milli eğitim müdürlükleri ile yapılacak protokollerle bu amaçlara dönük etkinliklerde bulunan kurum ve kuruluşların kullanımına sunulabilir.

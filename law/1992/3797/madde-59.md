@@ -1,0 +1,2 @@
+Bakanlığın Düzenleme Görev ve Yetkisi
+Madde 59 – Bakanlık, her türdekiAnadolu liselerinde eğitim ve öğretim faaliyetlerini öğrenci velilerinin maddi katkıları sağlanmak suretiyle düzenleyebilir. Maddi katkının türü, miktarı, sağlanması, sarfı ve benzeri diğer hususlar yönetmelikle, ayrıca kanunla yerine getirmekle yükümlü olduğu diğer hizmetleri tüzük, yönetmelik, tebliğ, genelge ve diğer idari metinlerle düzenlemekle görevli ve yetkilidir.

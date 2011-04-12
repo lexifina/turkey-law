@@ -1,0 +1,1 @@
+Geçici Madde 7 – EK-2 sayılı listede yeralan kadrolar 190 sayılı Kanun Hükmünde Kararnameye bağlı (I) sayılı cetvelin Milli Eğitim Bakanlığı bölümünden çıkarılmış EK-3 ve EK-4 sayılı listede yeralan kadrolar adı geçen Kanun Hükmünde Kararnameye bağlı (I) ve (IV) sayılı cetvelin adı geçen Bakanlığa ait bölümüne eklenmiştir.

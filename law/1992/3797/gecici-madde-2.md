@@ -1,0 +1,1 @@
+Geçici Madde 2 – 179,208,356,385 ve 454 sayılı Kanun Hükmünde Kararnamelerle yapılan düzenlemelerden dolayı kadro ve görev unvanı değişen, kaldırılan ve şahsa bağlı kadrolarda bulunanların bu Kanun Hükmünde Kararnamelerin geçici maddeleri gereğince kazanılmış hakları saklıdır.

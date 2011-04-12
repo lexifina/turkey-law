@@ -1,0 +1,7 @@
+Kadrolar
+Madde 62 – (Değişik: 3/4/1998 - 4359/12 md.)
+Milli Eğitim Bakanlığına tahsis edilmiş bulunan serbest kadrolar; Milli Eğitim Bakanlığı, maliye Bakanlığı ve Devlet Personel Başkanlığınca birlikte hazırlanacak norm kadro sayılarının tespit edildiği yönetmeliğe uygun olarak merkez ve taşra birimleri, öğretmen kadroları ise branşlar bazında okul ve kurumlar itibariyle dağıtılır. Bu yönetmelikte, dağıtım cetvellerinin vizesine ilişkin usul ve esaslar ayrıca belirtilir. İl milli eğitim müdürlüklerine, 61 inci madde çerçevesinde aylıksız izne ayrılma talebinde bulunan öğretmenlerin izin verilmeden önce atamalarında kullanılmak amacıyla yeterli sayıda boş öğretmen kadrosu tahsis edilir. Kapatılan veya norm kadro sayısı azalan okul ve kurumların ihtiyaç fazlası boş öğretmen kadroları il milli eğitim müdürlüklerine aktarılır. Diğer kamu kurum ve kuruluşlarındaki emsallerine aykırı olmamak kaydıyla kadrolar birden fazla dereceyi ihtiva edebilir. Bu durumda, personelin özlük haklarının belirlenmesinde kazanılmış hak aylıkları esas alınır. 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) fıkrası hükmü saklıdır.
+(Ek ikinci fıkra: 30/4/2003-4855/3 md. Mülga: 2/7/2005-5381/2 md.)
+Norm kadro sayısının değişmesi dışında kadroların dağılımı değiştirilemez.
+7286
+Kadrolara ilişkin olarak bu maddede belirtilmeyen hususlar hakkında 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin 7 nci maddesinin son fıkrası hariç olmak üzere diğer hükümleri uygulanır. (1)
