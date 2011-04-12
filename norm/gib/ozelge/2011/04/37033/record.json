@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-EVK-2010/6-32",
+  "source_id": 37033,
+  "date": "2011-04-12",
+  "title": "4562 sayılı Organize Sanayi Bölgeleri Kanununun 21 inci maddesinde yer alan vergi, resim ve harç muafiyeti kapsamında organize sanayi bölgesi bünyesindeki parsellerden emlak vergisi alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37033",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "7b3fc87bd77590aee437cebae045509e11f0b6ae74da8ce93464365db1efc5af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
