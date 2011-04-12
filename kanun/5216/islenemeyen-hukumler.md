@@ -18,3 +18,4 @@ Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Deği�
 5779 | 1/7/2008 tarihinden itibaren geçerli olmak üzere 15/7/2008 tarihinde | 15/7/2008 |  | 23
  | 17/7/2008 | 17/1/2008 | 25/1/2007 tarihli ve E.:2004/79 K.:2007/6 sayılı Karar | 24
 5951 | 5/2/2010 | 5/2/2010 |  | Geçici Madde 5
+6215 | 12/4/2011 | 12/4/2011 |  | 26
