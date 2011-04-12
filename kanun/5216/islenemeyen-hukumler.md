@@ -19,3 +19,4 @@ Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Deği�
  | 17/7/2008 | 17/1/2008 | 25/1/2007 tarihli ve E.:2004/79 K.:2007/6 sayılı Karar | 24
 5951 | 5/2/2010 | 5/2/2010 |  | Geçici Madde 5
 6215 | 12/4/2011 | 12/4/2011 |  | 26
+ | 22/6/2011 | 22/6/2010 | 4//2010 tarihli ve E.:2008/28 K.:2010/30 sayılı Karar | 14
