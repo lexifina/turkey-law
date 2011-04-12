@@ -1,0 +1,3 @@
+Madde 1 – Bu Kanunun amacı:
+a) Ülkenin sanayi politikasının günün şartlarına ve teknolojinin gereklerine göre tespitine yardımcı olmak, kalkınma plan ve programlarında yer alan ilke ve hedefler doğrultusunda sanayinin dengeli ve süratli şekilde gelişmesini sağlamak ve teşvik etmek.
+b) Milli kalkınma plan ve programları doğrultusunda, iç ticaret hizmetlerine ilişkin anahedef ve politikaların belirlenmesine yardımcı olmak, bu politikalar doğrultusunda faaliyetlerin düzenlenmesi, uygulanması ve geliştirilmesini sağlamak için, Sanayi ve Ticaret Bakanlığının kurulmasına, teşkilat ve görevlerine dair esasları düzenlemektir.
