@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-EMLAK-12.M-2010-49-222",
+  "source_id": 37122,
+  "date": "2011-04-12",
+  "title": "Kooperatif adına kayıtlı taşınmazların 83/6122 sayılı Bakanlar Kurulu Kararı kapsamında arsa mı yoksa arazi mi olarak vergilendirileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37122",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "c1385396f662ab9cc7b4672ceccbaf905b3a86ecd5147ceac10aafd0b430ec65",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
