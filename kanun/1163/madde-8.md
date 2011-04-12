@@ -1,0 +1,4 @@
+Madde 8 – (Değişik: 6/10/1988 - 3476/2 md.)
+Kooperatif ortaklığına girmek için gerçek kişilerin medeni hakları kullanma yeterliliğine sahip olmaları gerekir. Ortak olmak isteyen gerçek ve tüzelkişiler, kooperatif anasözleşmesi hükümlerini bütün hak ve ödevleriyle birlikte kabul ettiklerini belirten bir yazı ile kooperatif yönetim kuruluna başvururlar. Kooperatif, ortaklarına kendi varlığı dışında şahsi bir sorumluluk veya ek ödemeler yüklüyor ise ortak olmak isteği, bu yükümlerin yazılı olarak kabul edilmesi halinde değer taşır.
+Yönetim Kurulu; ortaklar ile ortak olmak için müracat edenlerin anasözleşmede gösterilen ortaklık şartlarını taşıyıp taşımadıklarını araştırmak zorundadır.
+Yapı kooperatiflerinde konut, işyeri ve ortak sayısı genel kurulca belirlenir. Yönetim Kurulu, genel kurulca kararlaştırılan sayının üzerinde ortak kaydedemez.
