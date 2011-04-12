@@ -1,6 +1,7 @@
 Üretici örgütleri, komisyoncular, alıcı ve satıcılar
 MADDE 5 – (1) Üreticilerce kurulan tüzel kişilikler, Bakanlıktan üretici örgütü belgesi almak kaydıyla üretici örgütü olarak kabul edilir.
 (2) Üretici örgütleri, ortak veya üyeleri ile ortak veya üyeleri dışındaki üreticiler ile diğer üretici örgütlerine ait malların toptan veya perakende olarak alım ve satımını yapabilirler.
+10517
 (3) Komisyoncular, alıcı ve satıcı arasında aracılık etmek, onların haklarını gözetmek, meslekî bilgi ve deneyimlerine dayanarak piyasanın durumu hakkında en doğru bilgileri aktarmak ve piyasanın oluşumuna katkı sağlamakla görevlidir.
 (4) Komisyoncular aracılık faaliyetleri sırasında kendi kusurlarından kaynaklanan veya kötü niyete dayanan her türlü eylemlerinden sorumludur. Komisyoncuların sorumluluklarını düzenleyen diğer mevzuat hükümleri saklıdır.
 (5) Komisyoncuların satış bedeli üzerinden alacakları komisyon oranı, yüzde sekizi aşmamak üzere taraflarca serbestçe tespit edilir. Bakanlık bu oranı yarıya kadar indirmeye yetkilidir. Fiilen aracılık hizmeti verilmedikçe komisyon ücreti alınamaz.
@@ -13,3 +14,4 @@ MADDE 5 – (1) Üreticilerce kurulan tüzel kişilikler, Bakanlıktan üretici 
 (12) Mal bedelinin tam ve zamanında üreticiye ve üretici örgütüne ödenmesine ilişkin ispat yükümlülüğü meslek mensuplarına aittir.
 (13) Bakanlık, gerekli görülmesi hâlinde, tarafların haklarının korunması ve yükümlülüklerinin tespit edilmesi, sözleşmelerin tarafların aleyhine dengesizliğe yol açmayacak ve iyi niyet kurallarına uygun düşecek biçimde düzenlenmesinin sağlanması amacıyla, üreticiler ile meslek mensupları arasında veya meslek mensuplarının kendi aralarında yaptığı alım satım işlemlerini düzenleyen sözleşmelerde bulunması gerekli asgarî şartları ve bilgileri belirlemeye yetkilidir.
 (14) Üretici örgütlerinin asgarî ortak veya üye sayıları ile bunların niteliklerine, taşıması gereken asgarî şartlara, ilgilendirilecekleri toptancı hallerine, yapacakları satışlara, sorumluluklarına, üretici örgütü belgesinin verilmesine ve iptaline, meslek mensuplarında aranılacak niteliklere, aracılık faaliyetlerine, haklarına, uymakla yükümlü oldukları kurallara ve üretici örgütleri ile meslek mensuplarına dair diğer hususlara ilişkin usul ve esaslar ilgili bakanlıkların uygun görüşleri ve meslek kuruluşlarının görüşleri alınarak Bakanlıkça çıkarılacak yönetmelikle düzenlenir.
+10518

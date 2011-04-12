@@ -8,6 +8,7 @@ d) Hal rüsumu: Malları satın alanlarca toptan satış bedeli üzerinden öden
 e) İlgili bakanlıklar: İçişleri Bakanlığı ile Tarım ve Köyişleri Bakanlığını,
 f) Komisyoncu: Malların toptan satışı amacıyla kendi adına ve başkası hesabına komisyon esası üzerinden çalışan meslek mensuplarını,
 g) Künye: Malların üretim yerini, cinsini, miktarını, hangi üretici ve işletmeye ait olduğunu, varsa sertifika bilgilerini ve Bakanlık ile Tarım ve Köyişleri Bakanlığınca uygun görülecek diğer hususları ihtiva eden barkodlu etiketi veya bu bilgileri içeren belgeyi,
+10514
 ğ) Mal: Ticarete konu sebze ve meyveler ile arz ve talep derinliğine göre belirlenecek et ve et ürünleri, süt ve süt ürünleri, su ve su ürünleri, bal ve yumurta gibi diğer gıda maddeleri ile kesme çiçek ve süs bitkilerini,
 h) Meslek kuruluşları: Türkiye Odalar ve Borsalar Birliği, Türkiye Esnaf ve Sanatkârları Konfederasyonu ile Türkiye Ziraat Odaları Birliğini,
 ı) Meslek mensubu: Malların ticaretiyle iştigal eden ilgili meslek odalarına kayıtlı kişileri,

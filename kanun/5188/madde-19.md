@@ -1,7 +1,11 @@
-Suçlar ve cezalar (1)
-MADDE 19- (Değişik: 23/1/2008-5728/546 md.)
+Suçlar ve cezalar (2)
+Madde 19- (Değişik: 23/1/2008 – 5728/546 md.)
 Bu Kanunda öngörülen adlî suçlar ve cezalar şunlardır:
 a) Bu Kanunun 3 üncü maddesinde belirtilen özel güvenlik iznini almadan özel güvenlik görevlisi istihdam eden kişiler veya kuruluşların yöneticileri üç aydan bir yıla kadar hapis veya adlî para cezası ile cezalandırılır.
+––––––––––––––––––
+(1) Bu fıkrada yer alan "belirlenmesine" ibaresinden sonra gelmek üzere; 21/4/2005 tarihli ve 5335 sayılı Kanunun 23 üncü maddesiyle,"ve sınavlarda görevlendirileceklere yapılacak ödemelere" ibaresi eklenmiş ve metne işlenmiştir.
+(2) 23/1/2008 tarihli ve 5728 sayılı Kanunun 546 ncı maddesiyle bu maddenin “Adlî suçlar ve cezalar” olan başlığı “Suçlar ve cezalar” olarak değiştirilmiş ve metne işlenmiştir.
+8848
 b) Bu Kanunun 5 inci maddesinde belirtilen faaliyet iznini almadan özel güvenlik faaliyetinde bulunan şirketlerin kurucu ve yöneticilerine, bu Kanunun 3 üncü maddesinde belirtilen izni almadan özel güvenlik birimi oluşturan kurum ve kuruluşların yöneticileri, bu Kanunun 14 üncü maddesinde belirtilen izni almadan özel güvenlik eğitimi veren kurum ve kuruluşların yöneticileri, üç aydan bir yıla kadar hapis ve beşbin güne kadar adlî para cezası ile cezalandırılır. Bu şekilde cezalandırılan kişiler, özel güvenlik şirketlerinde ve özel güvenlik eğitimi veren kurumlarda kurucu ve yönetici olamazlar.
 c) Bu Kanunun 11 inci maddesine göre çalışma izni verilmeyen kişileri özel güvenlik görevlisi olarak istihdam eden kişi, kurum, kuruluş veya şirketlerin yetkilileri, üç aydan bir yıla kadar hapis cezası ile cezalandırılır. Bu kişilerin silâhlı olarak çalıştırılmış olması hâlinde, verilecek ceza bir kat artırılır. Bu suçun bir tüzel kişinin faaliyeti çerçevesinde işlenmesi hâlinde ayrıca bunlara özgü güvenlik tedbirlerine hükmolunur.
 d) Bu Kanunun 21 inci maddesinde belirtilen özel güvenlik malî sorumluluk sigortasını yaptırmadan özel güvenlik görevlisi istihdam eden kişi; kurum, kuruluş veya şirketlerin yöneticileri istihdam ettikleri her kişi için yüzelli gün adlî para cezası ile cezalandırılır.

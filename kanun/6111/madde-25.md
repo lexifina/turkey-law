@@ -1,1 +1,0 @@
-MADDE 25- 5510 sayılı Kanunun 6 ncı maddesinin birinci fıkrasının (ı) bendinde yer alan “Kamu idareleri” ibaresi “Kamu idarelerinde ve Kanunun ek 5 inci maddesi kapsamında sayılanlar” şeklinde ve “belgeleyenler,” ibaresi “belgeleyenler ile 65 yaşını dolduranlardan talepte bulunanlar,” şeklinde değiştirilmiştir.

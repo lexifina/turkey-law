@@ -1,1 +1,0 @@
-MADDE 32- 5510 sayılı Kanunun 51 inci maddesinin üçüncü fıkrasında yer alan “(b) bendi” ibaresi “(a) bendi”, beşinci fıkrasında yer alan “bu süreler” ibaresi “söz konusu süreler, bu maddenin üçüncü fıkrası hükmü saklı olmak üzere” şeklinde değiştirilmiştir.

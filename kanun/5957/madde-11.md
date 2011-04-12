@@ -1,5 +1,6 @@
 Toptancı hallerindeki işyerleri ile pazar yerlerindeki satış yerlerinin işletilmesi
 MADDE 11 – (1) Belediye toptancı hallerindeki işyerleri, kiralama veya satış yoluyla işletilir. Ancak satılan işyeri sayısı, o haldeki toplam işyeri sayısının yüzde ellisini geçemez. Bu maddenin altıncı fıkrasındaki eylemlerin tespiti halinde satış işlemlerinin iptal edilip işyerlerinin geri alınacağına ilişkin olarak tapu kütüğüne şerh konulur ve bu şartların gerçekleşmesi durumunda taşınmazlar geri alınır. İşyerlerinin kiralanması veya satılması 8/9/1983 tarihli ve
+10523
 2886 sayılı Devlet İhale Kanunu hükümlerine göre yapılır. Kira süresi en fazla on yıldır. Bakanlıkça belirlenen esaslara uygun olması kaydıyla, kira süresi sona erenlerle ihaleye çıkılmaksızın yeniden kira sözleşmesi yapılabilir. Kira süresi sona erenler açılacak kiralama ihalelerine tekrar katılabilir. Bir yıldan uzun süreli kira sözleşmelerinde ikinci ve izleyen yıllar kira bedelleri, Üretici Fiyatları Endeksi oranında arttırılır.
 (2) Gerçek veya tüzel kişiler tarafından kurulan toptancı hallerindeki işyerleri, kiralama veya satış yoluyla işletilir ve bunlara ilişkin işlemler yetkili kişi veya organlarınca yürütülür.
 (3) Pazar yerlerindeki satış yerleri tahsis yoluyla işletilir. Tahsis, satış yeri bulunmayanlara öncelik verilmek suretiyle belediye encümeni tarafından yapılır ve belediye meclisince her yıl belirlenecek tarifeye göre ücret tahsil edilir.
@@ -17,6 +18,7 @@ g) Bir takvim yılı içinde üretici alacağını, süresi içinde üç kez öd
 ğ) Halde yaptığı satışlarda, bir takvim yılında iki kez fatura düzenlemeyenlerin veya noksan fatura düzenleyenlerin,
 h) Semt veya üretici pazarlarında, kendi ürettiği malların dışında veya belirlenen miktarın üzerinde bir takvim yılında üç kez satış yapan üreticilerin,
 ı) Kiraladıkları işyerlerini Bakanlıkça belirlenen sebepler dışında başkasına devredenlerin ya da kiraladıkları veya satın aldıkları işyerlerini herhangi bir şekilde kullandıranların,
+10524
 i) Tahsis edilen satış yerlerini başkasına devredenlerin veya herhangi bir şekilde kullandıranların,
 j) Belediyenin yazılı uyarısına rağmen, kira sözleşmesine aykırılığı yirmi gün içinde gidermeyenlerin,
 k) Doğrudan veya dolaylı olarak aynı toptancı halinde birden fazla işyeri kiraladığı veya satın aldığı ya da aynı pazar yerinde ikiden fazla satış yeri tahsis edildiği anlaşılanların,

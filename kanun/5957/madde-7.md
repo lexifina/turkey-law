@@ -5,3 +5,4 @@ MADDE 7 – (1) Semt pazarları, tüketici piyasasının büyüklüğü, ulaşı
 (4) Üreticiler, pazar yerlerinde kendi ürettikleri mallar dışında ve toptan satış miktarının iki katından az olmamak üzere belediyelerce belirlenen miktarın üzerinde satış yapamaz.
 (5) Belediyeler, modern pazar yerleri kurmak, pazar yerlerinde malların hijyenik şartlarda satışa sunulmasını sağlayıcı uygun çalışma ortamını oluşturmak ve altyapı ile çevre düzenlemelerini yapmak, tüketicinin korunmasına yönelik tedbirleri almak ve gerekli denetimleri yapmakla görevlidir.
 (6) Pazar yerlerinin kurulması ve kapatılmasına, işleyiş, yönetim ve denetimine, üretici ve pazarcılarda aranılacak niteliklere, bunların çalışmalarına, yapacakları satışlara, haklarına, uymakla yükümlü bulundukları kurallara ve faaliyetlerinin yürütülmesine dair diğer hususlara ilişkin usul ve esaslar ilgili bakanlıkların uygun görüşleri alınarak Bakanlıkça çıkarılacak yönetmelikle düzenlenir.
+10519

@@ -11,6 +11,7 @@ a) Toptancı haline bildirilmeden toptancı hali dışında toptan alınıp sat�
 b) Sınaî üretimde kullanılmak veya ihraç edilmek üzere satın alınıp bu maddenin ikinci fıkrasına aykırı olarak iç piyasada satışa sunulan,
 c) Toptancı halinden satın alınmadan veya toptancı haline bildirilmeden perakende satılan,
 ç) Miktarına, değerine, üretim şekline veya künyesinde belirtilen diğer hususlara ilişkin gerçeğe aykırı beyanda bulunulan,
+10520
 mallar için hal rüsumu, tespitin yapıldığı yerdeki toptancı halinde bir önceki gün o mallar için oluşan birim fiyatların en yükseği esas alınarak belirlenen toptan satış bedelinin yüzde yirmi beşi oranında cezalı olarak alınır. Hal rüsumunun cezalı olarak alınmasına belediye encümenince karar verilir. Cezalı hal rüsumu tahsil edilen mallar için önceden ödenen hal rüsumu varsa cezalı tahsil edilecek hal rüsumundan mahsup edilir.
 (9) Cezalı hal rüsumundan, malları taşıyan nakliyeciler ya da depolayanlar mal sahibiyle birlikte müteselsilen sorumludur.
 (10) Cezalı tahsil edilen hal rüsumları belediyece ayrı bir hesapta tutulur. Bu hesapta toplanan tutarın yarısı her ayın sonunda tespit ve/veya yakalama eylemine bizzat ve fiilen katılan kamu görevlilerine ikramiye olarak ödenir. Ancak, kamu görevlisine ödenen ikramiyenin tutarı olay başına (2.000) ve yılda (90.000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucunda bulunacak tutarı geçemez. Hesapta kalan kısım ise belediyeye gelir olarak kaydedilir.

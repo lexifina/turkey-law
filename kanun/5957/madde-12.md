@@ -4,3 +4,4 @@ MADDE 12 – (1) Ticarî güvenin sağlanması ve tarafların haklarının korun
 (3) Teminatlar amacı dışında kullanılamaz, üzerine ihtiyati tedbir konulamaz ve haczedilemez.
 (4) Yerine getirilmesi gereken bir yükümlülüğün bulunmadığı tespit edildikten sonra teminatlar ilgililere iade edilir.
 (5) Bu madde kapsamında alınacak asgari teminatlara, bunların muhafazası, nakde çevrilmesi ve tamamlattırılmasına, zarar görene ödenmesine, toplam teminat tutarı içinde gayrimenkul rehni oranına, teminatın iadesine ve teminatlarla ilgili diğer hususlara ilişkin usul ve esaslar Bakanlıkça belirlenir.
+10525

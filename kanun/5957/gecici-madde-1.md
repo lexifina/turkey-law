@@ -8,5 +8,6 @@ Bakanlık tarafından yüz bin Türk Lirası idarî para cezası verilir. Bakanl
 (4) Toptancı hallerinde tahsisli işyerleri, mevcut tahsis sahiplerine Kanunun yürürlüğe girdiği tarihten itibaren hiçbir işleme gerek kalmaksızın on iki yıl süreyle kiralanmış sayılır.
 (5) Bu Kanunun yürürlüğe girdiği tarihten itibaren, toptancı hallerde boşalan işyerleri 11 inci maddenin dördüncü fıkrasında belirtilen orana ulaşılana kadar üretici örgütlerine öncelik verilmek suretiyle kiralanır veya satılır.
 (6) Bu Kanunun yürürlüğe girdiği tarihten itibaren, semt pazarlarında boşalan satış yerleri 7 nci maddenin ikinci fıkrasında belirtilen orana ulaşılana kadar üreticilere öncelik verilmek suretiyle tahsis edilir.
+10530
 (7) Bu Kanunda öngörülen yönetmelikler ile diğer düzenlemeler, bu Kanunun 19 uncu maddesinin (c) bendinde belirtilen yürürlük tarihinden itibaren altı ay içinde yürürlüğe konulur. Anılan düzenlemeler yürürlüğe girinceye kadar 552 sayılı Yaş Sebze ve Meyve Ticaretinin Düzenlenmesi ve Toptancı Halleri Hakkında Kanun Hükmünde Kararnameye dayanılarak çıkarılan yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam edilir.
 (8) Bu Kanunun 4 üncü maddesinin dokuzuncu fıkrasına göre Bakanlıkça belirleme yapılıncaya kadar, 1380 sayılı Su Ürünleri Kanununun 26 ncı maddesine istinaden çıkarılan ikincil mevzuatın uygulanmasına devam edilir.

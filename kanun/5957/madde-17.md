@@ -5,3 +5,4 @@ MADDE 17 – (1) Bakanlık, denetim elemanları aracılığıyla toptancı halle
 (4) Tarım ve Köyişleri Bakanlığı, bu Kanun kapsamında malların kalitesine, standardına ve gıda güvenilirliğine ilişkin gerekli denetimleri yapmakla görevli ve yetkilidir. Sağlık Bakanlığının, genel sağlığın korunması ve hijyen ile ilgili olarak diğer mevzuattan kaynaklanan görev ve yetkileri saklıdır.
 (5) Belediyeler, yetki alanlarıyla sınırlı olmak kaydıyla bu Kanun ve ilgili yönetmelik hükümleri ile Bakanlık düzenlemeleri çerçevesinde gerekli denetim ve uygulamaları yapmakla görevli ve yetkilidir. Denetim yapmakla görevli, yetkili belediye personelinin talebi üzerine, kolluk kuvvetlerince gerekli yardım sağlanır.
 (6) İl ve ilçe merkezlerinin giriş ve çıkışları ile şehirlerarası yollarda kontrol ve denetim noktası kurulması ve işletilmesine ilişkin usul ve esaslar Bakanlık ve İçişleri Bakanlığınca birlikte belirlenir.
+10529

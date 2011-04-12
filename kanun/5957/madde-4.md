@@ -3,6 +3,7 @@ MADDE 4 – (1) Aşağıda belirtilen mallar bildirime tabidir:
 a) Sınaî üretimde kullanılmak üzere satın alınan mallar.
 b) İhraç edilmek üzere satın alınan mallar.
 c) İlgili mevzuatı çerçevesinde ithal edilen mallar.
+10516
 ç) 1/12/2004 tarihli ve 5262 sayılı Organik Tarım Kanunu kapsamında organik tarım faaliyetleri esaslarına uygun olarak üretilen ham, yarı mamul veya mamul haldeki sertifikalı ürünler.
 d) Üretici örgütlerince toptancı hali dışında satılan mallar.
 e) Üreticilerce perakende olarak doğrudan tüketicilere satılan mallar.
