@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-BGK-2010/3-31",
+  "source_id": 37279,
+  "date": "2011-04-12",
+  "title": "4562 sayılı Organize Sanayi Bölgeleri Kanununun 21 inci maddesinde yer alan vergi resim ve harç muafiyeti kapsamında organize sanayi bölgesindeki binalar için çevre temizlik vergisinin ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37279",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "de4cdc2e3cb0beefbf8c8806d5acad0c4b49c88689ef263f1514f2ad58d75172",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
