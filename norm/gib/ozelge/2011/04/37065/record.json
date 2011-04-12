@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-86",
+  "source_id": 37065,
+  "date": "2011-04-12",
+  "title": "İndirimli bina vergisi oranının (sıfır) uygulanmasında binanın brüt mü yoksa net alanının mı esas alınacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37065",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "d41b17165d12ce902f23846561165c451624b0f2fff1f5c54b038e64393958fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
