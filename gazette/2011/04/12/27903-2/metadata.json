@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-04-12",
+  "issue": "27903",
+  "edition": "regular",
+  "item": 2,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARLARI",
+  "title": "990 İnsan Haklarını İnceleme Komisyonunun Türkiye Büyük Millet Meclisinin Tatili Sırasında Çalışabilmesine İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/04/20110412-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/04/20110412.htm",
+  "index_sha256": "3ede928566d2bb13ec4400b58cb6dc9df01d89c766401976293e91767e3f01c0",
+  "index_header": "12 Nisan 2011 ... 27903 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
