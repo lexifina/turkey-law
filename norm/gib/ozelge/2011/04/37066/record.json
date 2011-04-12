@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-EVK-2010-5-30",
+  "source_id": 37066,
+  "date": "2011-04-12",
+  "title": "Emekli ve ev hanımı eşinin maliki oldukları meskenlerden dolayı ayrı ayrı indirimli bina vergisi oranı (sıfır) uygulamasından yararlanıp yararlamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37066",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "1ab90fd605be2bffa6edc4a072c8aa90835c4c776fa3dc6bdf5f031181fbc566",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
