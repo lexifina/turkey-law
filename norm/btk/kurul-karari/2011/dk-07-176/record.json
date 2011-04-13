@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2011/DK-07/176",
+  "date": "2011-04-13",
+  "title": "Uluslararası Ethernet Tarifeleri",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2011-04-13",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=166",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/3cc3d886-ee97-47c4-8eaf-6e4e5502fbf6.pdf",
+  "source_sha256": "15bdf5aa35eba2fbb048105d56f5d65c5e2ee94fa84de5be17c85f0406217621",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2011-04-13",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 13.04.2011; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
