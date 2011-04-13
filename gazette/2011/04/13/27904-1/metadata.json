@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-04-13",
+  "issue": "27904",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Bankaların Üst Yönetimine Atanacakların Bildirimi, Yemin ve Mal Beyanında Bulunulması ve Karar Defterlerinin Tutulmasına İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/04/20110413-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/04/20110413.htm",
+  "index_sha256": "d7030d20d46e7fde15e2d682eac3d65c907c8f00057b12ca414e42a2de0a49e5",
+  "index_header": "13 Nisan 2011 ... 27904 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
