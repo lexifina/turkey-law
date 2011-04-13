@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-04-13",
+      "13.04.2011",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "27904",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-04-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Harran Üniversitesi",
+  "issuer_slug": "harran-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/harran-universitesi/2011/14902",
+  "published": "2011-04-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14902&MevzuatTertip=5",
+  "source_bytes": 22606,
+  "source_id": "8.5.14902",
+  "source_sha256": "b54f3b6577e6aeee6a309370cbd5ed62b3c32235f6812595760a24603d64a2e0",
+  "text_status": "as-enacted",
+  "title": "HARRAN ÜNİVERSİTESİ BİLGİ TEKNOLOJİLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 200,
+  "word_count": 876
+}
