@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.18.02-32231-7875--228",
+  "source_id": 26064,
+  "date": "2011-04-13",
+  "title": "Devam eden inşaatta tapu senedi ile yapılan arsa paylı daire satışlarında faturanın düzenleneceği süre hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26064",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "33c2c89205a2ad4fee9313b044ecba71db2dbb068473a9552a0d0ad2b4d0e603",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
