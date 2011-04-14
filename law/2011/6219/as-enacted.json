@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6219",
+  "year": 2011,
+  "title": "Türkiyede Yapılan Birleşmiş Milletler Konferansları ve Toplantılarına Dair Ayrıcalık, Bağışıklık ve Diğer Bazı Hususlara İlişkin Düzenlemeler Hakkında Birleşmiş Milletler ve Türkiye Arasındaki Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-04-14",
+  "gazette_issue": "27905",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/04/20110414-3.htm",
+  "source_sha256": "4e1267d3e3378785de3d92de022d8c1eb87bd093652ad2d35b8818229fa5847f",
+  "text_sha256": "44398141987a36c0def763a7081a5fb2e6c1a279ec2b2279b8ec12a4110f3cdc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/04/14/27905-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/04/20110414-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
