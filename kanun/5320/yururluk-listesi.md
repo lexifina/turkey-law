@@ -6,3 +6,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5560 | 8, 13 | 19/12/2006
 Anayasa Mahkemesi’nin 5/4/2007 tarihli ve E.: 2005/127, K.: 2007/42 sayılı Kararı | 8 inci maddenin ikinci fıkrası | 7/11/2007
 5739 | 12 | 1/3/2008
+6217 | GEÇİCİ MADDE 2, 3, 4 | 14/4/2011

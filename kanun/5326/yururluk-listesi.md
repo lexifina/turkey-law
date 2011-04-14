@@ -8,3 +8,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5918 | 43/A | 9/7/2009
 6009 | 21 | 1/8/2010
 6111 | 20 | 25/2/2011
+6217 | 20, 28, 29, 31 | 14/4/2011
