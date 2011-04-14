@@ -9,3 +9,5 @@ Yıldır.
 (3) Mülkiyetin kamuya geçirilmesine ilişkin zamanaşımı süresi on yıldır.
 (4) (Değişik: 23/7/2010-6009/37 md.) Zamanaşımı süresi, kararın kesinleşmesinin rastladığı takvim yılını takip eden takvim yılı başından itibaren işlemeye başlar.
 (5) Kanun hükmü gereği olarak idarî yaptırımın yerine getirilmesine başlanamaması veya yerine getirilememesi halinde zamanaşımı işlemez.
+–––––––––––––––––––––––
+(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 27 nci maddesiyle, bu fıkrada yer alan “Ancak” ibaresinden sonra gelmek üzere “, 89 uncu maddesi hariç olmak üzere” ibaresi eklenmiştir.
