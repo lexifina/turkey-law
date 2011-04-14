@@ -178,6 +178,7 @@ TEKNOLOJİ ENSTİTÜLERİ
 102) (Ek: 14/7/2010-6005/2 md.) Konya Üniversitesi
 103) (Ek: 14/7/2010-6005/2 md.) Kayseri Abdullah Gül Üniversitesi
 104) (Ek: 14/7/2010-6005/2 md.) Erzurum Teknik Üniversitesi
+105) (Ek: 31/3/2011-6218/2 md.) Adana Bilim ve Teknoloji Üniversitesi
 B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
