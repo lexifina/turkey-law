@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6221",
+  "year": 2011,
+  "title": "Milletlerarası Para Fonu ile Milletlerarası İmar ve Kalkınma Bankasına Katılmak İçin Hükûmete Yetki Verilmesine Dair Kanun, Avrupa İmar ve Kalkınma Bankasının Kuruluş Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun ile Asya Kalkınma Bankası Kuruluş Anlaşmasına Katılmamızın Onaylanmasının Uygun Bulunduğuna Dair Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-04-14",
+  "gazette_issue": "27905",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/04/20110414-5.htm",
+  "source_sha256": "65e3e6824511ca29dd9d0527d7f0d466a81fa678aeff4ecc413f9e4d5260eb8c",
+  "text_sha256": "365d73a3f7858716dced50c8aa0638d9d8f0ec3828f8c958b873bd7dd289412b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/04/14/27905-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/04/20110414-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
