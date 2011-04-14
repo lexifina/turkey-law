@@ -15,4 +15,4 @@ a) Hukuka uygun olması nedeniyle, "başvurunun reddine",
 b) Hukuka aykırı olması nedeniyle, "idarî yaptırım kararının kaldırılmasına",
 Karar verir.
 (9) (Ek: 6/12/2006-5560/35 md.) İdarî para cezasının alt ve üst sınırının kanunda gösterildiği kabahatler dolayısıyla verilmiş idarî para cezasına karşı başvuruda bulunulması halinde, mahkeme idarî para cezasının miktarında değişiklik yaparak da başvurunun kabulüne karar verebilir. (1)
-(10) İkibin Türk Lirası dahil idarî para cezalarına karşı başvuru üzerine verilen kararlar kesindir. (1)
+(10) Üçbin Türk Lirası dahil idarî para cezalarına karşı başvuru üzerine verilen kararlar kesindir. (1)(2)
