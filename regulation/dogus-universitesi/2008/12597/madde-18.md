@@ -1,0 +1,5 @@
+Akademik kurullar ve görevleri
+MADDE 18 – (1) Akademik kurullar; Akademik Genel Kurul ve Akademik Bölüm Kuruludur. Bunlardan;
+a) Akademik Genel Kurulu; Üniversitede fiilen eğitim-öğretimle görevlendirilmiş bulunan öğretim üyeleri, öğretim görevlileri ve okutmanlardan oluşur. Kurulun başkanı Rektördür. Kurul her eğitim-öğretim yılının sonunda başkanın çağrısı üzerine olağan olarak toplanır.
+b) Akademik Bölüm Kurulu; Üniversitede ilgili bölümde fiilen eğitim-öğretim görevi yapmakta olan öğretim üyeleri, öğretim görevlisi ve okutmanlardan oluşur. Kurulun başkanı ilgili bölüm Başkanıdır. Kurul her iki ayda bir başkanın çağrısı üzerine olağan olarak toplanır.
+(2) Akademik kurulların görevleri; ilgili birimlerin eğitim-öğretim ve araştırma konuları başta olmak üzere bilimsel faaliyetlerini gözden geçirir, çalışmaların daha verimli olması için konuları tartışarak önerileri bir tutanakla belirler. Kurul başkanı toplantıda yapılan önerileri de dikkate alarak çalışmaların daha verimli olması için gerekli tedbirleri alır ve sonuçları gelecek akademik kurul toplantısında sunar.

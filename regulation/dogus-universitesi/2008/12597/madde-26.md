@@ -1,0 +1,2 @@
+Kurumlararası yardımlaşma
+MADDE 26 – (1) Üniversitede görevli öğretim üyeleri ile ders vermekle görevli öğretim yardımcıları bağlı bulundukları fakülte veya yüksekokulda haftalık ders yükünü dolduramadıkları takdirde, Üniversitenin diğer birimlerinde veya o şehirdeki başka yükseköğretim kurumlarında ders yükünü doldurmak üzere Rektör tarafından görevlendirilebilirler. Görevlendirmeler Senato tarafından belirlenen esaslara göre yapılır.

@@ -1,0 +1,2 @@
+Okutmanlar
+MADDE 21 – (1) Akademik bir unvana sahip olmadıkları halde uygulama alanında başarılı olmuş ve ders verme sorumluluğuna sahip kişiler, ortak zorunlu dersleri vermek üzere ilgili kurumların görüşü alınarak fakültelerde ve fakülteye bağlı birimlerde Dekanın, Rektörlüğe bağlı enstitü veya yüksekokullarda Müdürün önerisi ve Rektörün onayı ile süreli veya sürekli okutman olarak atanırlar. Okutmanların atanma süresi sonunda görevleri kendiliğinden sona erer. Okutmanların atamaları aynı usulle yeniden yapılabilir.

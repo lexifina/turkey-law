@@ -1,0 +1,5 @@
+Personele ilişkin hükümler
+MADDE 32 – (1) Üniversitede görev alacak akademik ve idari personelin çalışma esasları, 2547 sayılı Kanunda öngörülen hükümlere tabidir. Bu personele, aylık ve diğer özlük hakları bakımından ise 22/5/2003 tarihli ve 4857 sayılı İş Kanunu hükümleri uygulanır.
+(2) Akademik ve idari personelin izin iş ve işlemleri, 4857 sayılı Kanun hükümlerine göre yürütülür. Akademik personelin izin kullanma tarihleri, kural olarak akademik takvime uygun şekilde belirlenir.
+(3) Rektörün izni Mütevelli Heyet Başkanı, dekan ve yüksekokul müdürlerinin izinleri Rektör, diğer akademik personelin izni ilgili birim amirinin önerisi ile Rektör tarafından verilir. Öğretim elemanları dışındaki personelin izinleri ise ilgili birim yöneticisinin önerisi ve Rektörün onayı ile verilir.
+(4) Öğretim elemanları ve idari personelin disiplin iş ve işlemlerinde, 2547 sayılı Kanun hükümleri ile 21/8/1982 tarihli ve 17789 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Yönetici, Öğretim Elemanı ve Memurları Disiplin Yönetmeliği hükümleri uygulanır.

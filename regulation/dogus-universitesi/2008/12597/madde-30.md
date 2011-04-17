@@ -1,0 +1,2 @@
+Fakülte ve yüksekokul/meslek yüksekokulu sekreterlikleri
+MADDE 30 – (1) Fakülte ve yüksekokul/meslek yüksekokulu sekreterlikleri; ihtiyaca göre kurulacak öğrenci işleri, personel, kütüphane, mali işler ve destek hizmet birimleri ile yeterli sayıda uzman ve personelden oluşur ve fakülte veya yüksekokulun/meslek yüksekokulunun idari işlerini yürütür. Fakülte ve yüksekokul/meslek yüksekokulu sekreterleri, Rektörün görüşü alınarak Mütevelli Heyet tarafından atanır ve aynı usulle görevden alınır.

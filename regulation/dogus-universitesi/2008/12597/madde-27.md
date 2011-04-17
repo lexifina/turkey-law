@@ -1,0 +1,3 @@
+Akademik değerlendirme ve kalite geliştirme kurulu
+MADDE 27 – (1) Akademik değerlendirme ve kalite geliştirme kurulu; Rektör başkanlığında, rektör yardımcıları, Üniversite Genel Sekreteri, öğrenci konseyi temsilcisi ve Senatonun seçtiği en az beş öğretim üyesinden oluşur. Akademik değerlendirme ve kalite geliştirme kurulu, her yıl en az üç defa toplanır. Rektör gerekli gördüğü hallerde bu kurulu toplantıya çağırabilir.
+(2) Akademik değerlendirme ve kalite geliştirme kurulunun çalışma şekline ve görevlerine ilişkin olarak; Yükseköğretim Kurulu tarafından çıkarılan, 20/9/2005 tarihli ve 25942 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Akademik Değerlendirme ve Kalite Geliştirme Yönetmeliği hükümleri uygulanır.

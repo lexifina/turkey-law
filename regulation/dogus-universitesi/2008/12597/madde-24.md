@@ -1,0 +1,2 @@
+Yurt içinde ve yurt dışında görevlendirme
+MADDE 24 – (1) Öğretim elemanlarının yurt içinde ve yurt dışında; kongre, konferans, sempozyum, seminer ve benzeri bilimsel ve mesleki toplantılarla, bilim ve meslekleri ile ilgili diğer toplantılara katılmaları, araştırma ve inceleme gezileri yapmaları, araştırma ve incelemenin gerektirdiği yerde görevlendirilmeleri 2547 sayılı Kanun hükümlerine göre yapılır.
