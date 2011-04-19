@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21273",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MECBURİ STANDARD TEBLİĞİ (TEBLİĞ NO: ÖSG-2011/09)",
+  "number": "21273",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "path": "teblig/2011/21273",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21273&MevzuatTertip=5",
+  "source_sha256": "5c5fe3b5e7e93e217ef54052e0f5087e2688125b1a86cc36e4f0ae91153b2c9e",
+  "source_bytes": 7813,
+  "published": "2011-04-19",
+  "gazette": "27910",
+  "in_force": "2011-04-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.04.2011); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 155,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21273-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
