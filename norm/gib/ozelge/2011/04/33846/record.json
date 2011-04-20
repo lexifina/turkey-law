@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.01-35-03-103",
+  "source_id": 33846,
+  "date": "2011-04-20",
+  "title": "Konsantre malların ithalinde ödediğiniz özel tüketim vergisinin, yine aynı listede yer alan malların üretiminde kullanmış olmanız nedeniyle ithalde ödenen ÖTV'nin, tahsil etmiş olduğunuz ÖTV'den indiriminin mümkün olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33846",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "0150545cc64c571ac0c1d3edd50ca8cb4f62d98e639dc4582eb519659cb49bf2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
