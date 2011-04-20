@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-ÖTV-4/2-25",
+  "source_id": 33897,
+  "date": "2011-04-20",
+  "title": "Yakıt masrafı kiracıya ait olmak üzere kiralanan tankerin üzerinde bulunan yakıtın tankerle birlikte kiracıya satılması durumunda ÖTV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33897",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "6086db03053ebe473d2b2688612d2de6340d5cdaa8c7f153525d172f8ee99dea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
