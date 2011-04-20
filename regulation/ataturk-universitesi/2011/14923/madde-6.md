@@ -1,0 +1,10 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Akupunktur ve diğer tamamlayıcı tıp yöntemlerini çeşitli kullanım alanları açısından hasta ya da sağlıklı bireylere korunma, teşhis ve tedavi amacıyla uygulamak,
+b) Akupunktur ve diğer tamamlayıcı tıp yöntemlerinin etkilerini, etki mekanizmalarını, optimal etki sürelerini ve diğer yönlerini ortaya koymak için bilimsel araştırmalar planlamak ve uygulamak, yurtiçi ve yurtdışı araştırma projelerine katkıda bulunmak,
+c) Çalışmalarını ve araştırmalarını yürütürken, gerektiğinde tıbbi laboratuar, görüntüleme yöntemleri, bilgi işlem, basımevi, ulaşım, atölyeler, toplantı salonları gibi Üniversitenin mevcut imkanlarından yararlanmak,
+ç) Akupunktur ve diğer tamamlayıcı tıp yöntemlerinin hekimler ve halk arasında doğru bir şekilde ve yeterince bilinmesini sağlamak için, gerek hekimlere gerekse topluma yönelik bilgilendirme toplantıları, seminerler düzenlemek,
+d) Akupunktur ve diğer tamamlayıcı tıp yöntemlerinin kullanımı ve bu yöntemlerle ilgili bilimsel çalışmalar için gereken teçhizat ve malzemelerin teminine çalışmak, desteklemek ve destek almak,
+e) Merkezin çalışmalarında etkinliği artırmak için ulusal ve uluslar arası bilimsel, kültürel ve teknolojik çalışmalara katılmak; eğitim programları, kurslar, kongreler, sempozyumlar, paneller, sergiler, fuarlar ve benzeri programlar düzenlemek veya düzenlenmesine katkıda bulunmak; konusuyla ilgili alanlarda yarışmalar düzenlemek,
+f) Çağdaş teknolojik imkanlardan yararlanarak; konusuyla ilgili ulusal ve uluslar arası kişi ve kuruluşlarla yazışmalar ve görüşmeler yapmak, konusuna giren alanlarda her türlü yazılı, basılı, görsel ve işitsel belge ve eserlerden oluşan arşiv, kitaplık dökümantasyon ve enformasyon birimlerini oluşturmak,
+g) Merkezin ürettiği her türlü bilimsel ve teknik verileri, buluşları, yenilikleri, üretim, araştırma ve benzeri faaliyetleri ve önerileri bilimsel rapor, bülten, kitap, dergi, broşür, makale, tebliğ, film, resim, fotoğraf, slayt, multimedya ürünü ve benzeri eserler şeklinde yayınlamak.
