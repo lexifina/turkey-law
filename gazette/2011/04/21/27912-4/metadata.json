@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-04-21",
+  "issue": "27912",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Elektronik Haberleşme Cihazlarından Kaynaklanan Elektromanyetik Alan Şiddetinin Uluslararası Standartlara Göre Maruziyet Limit Değerlerinin Belirlenmesi, Kontrolü ve Denetimi Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/04/20110421-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/04/20110421.htm",
+  "index_sha256": "f2ed716764574aa54cb4c7d6f1793eb4988b6d60bd68aaff53589d6d67898d5d",
+  "index_header": "21 Nisan 2011 ... 27912 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
