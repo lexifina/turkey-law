@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3180",
+  "decision_date": "2011-04-21",
+  "title": "Aydem Elektrik Dağıtım A.Ş.’nin dağıtım lisansına 31/12/2015 tarihinde sona erecek ikinci uygulama döneminin her yılı için derç edilmesine karar verilen parametrelerin, revizesine ilişkin...",
+  "resmi_gazete_date": "2011-05-02",
+  "resmi_gazete_number": "27922",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PKc064T0y0A=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PKc064T0y0A="
+  ],
+  "source_sha256": "de575aa2f36eebebf4631f848450c01e4660daf786c27d0c874445d4ca9e2898",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-04-21",
+  "law_text_complete": false
+}
