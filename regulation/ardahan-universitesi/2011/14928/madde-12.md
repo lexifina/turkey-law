@@ -1,0 +1,3 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Üniversite içinden ve istekleri halinde dışından, çevre ve doğal hayat konusunda özellikle Ardahan ve çevresinde çevre ve doğal hayat ile ilgili çalışmalar yapan, bu alanla ilgili çalışmaları destekleyen, sivil toplum örgütleri, kişi ve kurum temsilcileri olmak üzere Yönetim Kurulu tarafından belirlenerek Rektör tarafından üç yıl için görevlendirilen en fazla onbeş kişiden oluşur.
+(2) Danışma Kurulu, Merkezin danışma organı olup kararları istişari niteliktedir. Kurul gerektiğinde Müdürün teklifi üzerine Yönetim Kurulu ile ortak toplantılara katılabilir.
