@@ -1,0 +1,8 @@
+YEDİNCİ BÖLÜM
+Süresinde Ödenmeyen Taksitler
+Süresinde ödenmeyen taksitler
+Madde 18- (1) Kanuna göre ödenmesi gereken taksitlerden; bir takvim yılında iki veya daha az taksitin, süresinde ödenmemesi veya eksik ödenmesi halinde, ödenmeyen veya eksik ödenen taksit tutarlarının taksitlendirme süresinin son taksidini izleyen ayın sonuna kadar gecikilen her ay ve kesri için 6183 sayılı Kanunun 51 inci maddesine göre belirlenen gecikme zammı oranında hesaplanacak geç ödeme zammı ile birlikte ödenmesi şartıyla Kanun hükümlerinden yararlanılır.
+(2) Süresinde ödenmeyen veya eksik ödenen taksitlerin birinci fıkrada belirtilen şekilde de ödenmemesi veya bir takvim yılında ikiden fazla taksitin süresinde ödenmemesi veya eksik ödenmesi halinde kendiliğinden yapılan beyana ilişkin hükümler saklı kalmak kaydıyla Kanun hükümlerinden yararlanma hakkı kaybedilir. Bu hüküm taksitlendirilen alacaklar için ayrı ayrı uygulanır.
+(3) Taksit tutarının % 10’unu aşmamak şartıyla 5 liraya (bu tutar dahil) kadar yapılmış eksik ödemeler için bu Kanun hükümleri ihlal edilmiş sayılmaz.
+(4) Kanun kapsamına giren alacakların birinci fıkrada belirtilen şekilde tamamen ödenmemiş olması halinde borçlular ödedikleri tutarlar kadar Kanun hükümlerinden yararlanırlar.
+(5) Kanun hükmünden yararlanan yükümlülerin yaptıkları ödemeler, vadesi önce gelen borçlardan başlanarak her bir taksit dönemi itibarıyla mahsup edilir. Yapılan ödemelerle belirtilen şekilde yapılan mahsup sonucu tamamen tahsil edilemeyen dönemlerde Kanun hükmü ihlal edilmiş sayılır ve kısmi ödeme olan döneme ilişkin vergiler için yapılmış ödemeler kadar Kanun hükmünden yararlandırılır.

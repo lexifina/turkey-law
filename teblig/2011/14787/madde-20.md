@@ -1,0 +1,2 @@
+Cebren tahsil edilen tutarların mahsubu
+Madde 20- (1) Kanunun yayımlandığı tarihten önce tatbik edilen hacizlere dayanılarak, Kanunun yayımlandığı tarihten sonra cebren yapılan tahsilatlar; yükümlülerin Kanun hükmünden yararlanmak üzere süresinde başvuruda bulunması halinde, başvuru tarihine bakılmaksızın, Kanun hükmüne göre ödenmesi gereken tutara, ilk taksitten başlamak üzere mahsup edilir. Fazla tutarın bulunması halinde ise 4458 sayılı Gümrük Kanununun ilgili maddeleri uyarınca geri verilir.

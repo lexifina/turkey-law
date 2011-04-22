@@ -1,0 +1,2 @@
+Kesinleşmiş para cezaları
+Madde 5- (1) 31/12/2010 tarihinden önce gümrük yükümlülüğü doğan ve Gümrük İdarelerince takip edilen amme alacaklarından, 25/2/2011 tarihinde kesinleşen para cezalarına ilişkin olarak, vadesi geldiği halde ödenmemiş olan ya da ödeme süresi henüz geçmemiş bulunan 4458 sayılı Kanun ve ilgili diğer kanunlar kapsamında gümrük yükümlülüğü nedeniyle gümrük vergileri asıllarına bağlı olmaksızın kesilmiş olan idari para cezalarının % 50’sinin, Kanunda belirtilen süre ve şekilde tamamen ödenmesi şartıyla cezaların kalan % 50’sinin tahsilinden vazgeçilir.

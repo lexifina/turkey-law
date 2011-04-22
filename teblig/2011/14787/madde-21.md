@@ -1,0 +1,4 @@
+Davadan vazgeçme
+Madde 21- (1) Kanun hükümlerinden yararlanmak üzere başvuruda bulunan ve ilgili maddeler uyarınca dava açmamaları veya açılan davalardan vazgeçmeleri gereken borçluların, Kanun hükümlerinden yararlanabilmeleri için ilgili maddelerde belirlenen başvuru sürelerinde, yazılı olarak bu iradelerini belirtmeleri şarttır.
+(2) Davadan vazgeçme dilekçeleri EK-4 de yer alan forma uygun olarak ilgili gümrük idaresine verilir ve bu dilekçelerin gümrük idarelerine verildiği tarih, ilgili yargı merciine verildiği tarih sayılarak dilekçeler ilgili yargı merciine gönderilir.
+(3) Kanun hükümlerinden yararlanmak üzere başvuruda bulunan ve açtıkları davalardan vazgeçen borçluların bu ihtilaflarıyla ilgili olarak Kanunun yayımlandığı tarihten sonra tebliğ edilen kararlar uyarınca işlem yapılmaz ve bu kararlar ile idare aleyhine hükmedilmiş yargılama giderleri ve vekâlet ücreti bulunması halinde bunlar talep edilemez.
