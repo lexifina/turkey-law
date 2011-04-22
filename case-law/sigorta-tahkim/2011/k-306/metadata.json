@@ -1,0 +1,15 @@
+{
+  "number": "K-2011/306",
+  "award_date": "2011-04-22",
+  "heading_as_published": "22.04.2011 tarih ve K-2011/306 sayılı Hakem Heyeti Kararı (Elektronik Cihaz Sigorta",
+  "issue": "Hakem Karar Dergisi 6 Nisan - Haziran 2011",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs6.pdf",
+  "source_sha256": "d350184ea85ee456f666f23f427914df619d48d7d2e51795964b4a9f6465c6d5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 6,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
