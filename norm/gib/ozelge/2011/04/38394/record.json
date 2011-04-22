@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68./6802-2",
+  "source_id": 38394,
+  "date": "2011-04-22",
+  "title": "Belediye hizmetlerinde kullanılmak üzere yurt içi bankalardan sağlanacak kredilerin istisna kapsamında olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38394",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "1bb8d0396ff6942d4a6b019f5b90731161c73204c59b9d59bd40af77a484b0b0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
