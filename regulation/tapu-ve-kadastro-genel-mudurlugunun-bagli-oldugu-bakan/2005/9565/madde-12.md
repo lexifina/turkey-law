@@ -1,0 +1,3 @@
+Birden fazla müdürlük bulunan yerlerde uygulama
+Madde 12 — Belediye sınırları içerisinde birden fazla tapu (Mülga ibare:RG-24/4/2011-27914) (…) müdürlüğü bulunan yerlerde o şehir belediye sınırları içinde kalmak kaydı ile müdürlükler kendi bölgeleri dahilinde daire dışında işlem yapabilirler.
+Büyük şehir statüsüne tabi metropoliten alan veya birden fazla tapu (Mülga ibare:RG-24/4/2011-27914) (…) müdürlüğü bulunan il veya ilçe sınırları içerisinde kalan taşınmaz mallara ilişkin taksim, trampa, müşterek ipotek ve benzeri işlemler, taşınmaz malların bulunduğu tapu sicil müdürlüklerinden talep edilen herhangi birisinde karşılanır.

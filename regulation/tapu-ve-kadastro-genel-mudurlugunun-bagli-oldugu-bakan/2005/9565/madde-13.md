@@ -1,0 +1,2 @@
+Takyidatların durumu
+Madde 13 — İşlem yapmak üzere daire dışına gidildiğinde, gidilecek yerin adresi ve varsa telefon numarası dairece bilinmelidir. Daire dışına çıkıldıktan sonra işleme konu taşınmaza ilişkin her hangi bir takyit geldiğinde yevmiye defterine kaydedilip, telefon edilerek veya memur gönderilerek durum en seri şekilde istem için daire dışına giden görevlilere duyurulur. Takyit, işleme engel ise işlem yapılmayacak, engel değil ise, ilgililerin bilgisine sunularak işlem ikmal edilecektir.

@@ -1,0 +1,4 @@
+Tazminatın tahakkuk ve tahsili
+Madde 19 — Tazminatın tahsili için müdürlükçe 3 nüsha tahakkuk fişi düzenlenerek mal sandığına yatırılması temin edildikten sonra, bir nüshası iş sahibinde kalacak, diğer nüshası ve vezne alındısı dairede bırakılacak, bunlardan tahsilat fişi işlemli evrak arasına konulacak, vezne alındısı ise tazminatın dağıtımına esas olmak üzere ayrı bir klasörde muhafaza edilecektir.
+Tahsil edilen tazminata ait vezne alındıları işlemin tamamlanmasını müteakip özel defterine kaydedilir.
+Toplanan tazminatın dağıtılmak üzere mal sandığından çekilmesi sırasında defterdeki kayıt listeye dönüştürülerek listenin bir sureti ve klasördeki vezne alındıları bir yazıya bağlı olarak saymanlığa götürülür. Herhangi bir nedenle tahsil edilen tazminatın iade edilmesi durumunda tahsilat fişinin bir nüshası saymanlığa yönelik iade yazısına bağlanarak imza karşılığında ilgilisine verilir.

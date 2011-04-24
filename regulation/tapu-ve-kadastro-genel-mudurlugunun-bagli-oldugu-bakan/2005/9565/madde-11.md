@@ -1,0 +1,2 @@
+Çalışma saatleri yönünden uygulama
+Madde 11 — Daire dışında işlem yapılması çalışma saatleri içerisinde olmalıdır. Bu husus düzenlenen resmi senet veya tescil belgesinde belirtilir. Uzak yere gidilmesi sebebiyle çalışma saatleri içerisinde daireye dönülmez ise ertesi çalışma günü açılan yevmiye defterinin ilk sırasına kaydedilmekle birlikte yevmiye defterinin düşünceler kısmında işlemin yapıldığı tarih ve saat belirtilir.
