@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-04-14",
+      "14.04.2011",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2011-04-25",
+      "R.G-25/4/2011-27915",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-04-25",
+      "25/4/2011",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "R.G-25/4/2011-27915",
+  "first_law": null,
+  "gazette": "27905",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-04-25",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ege Üniversitesi",
+  "issuer_slug": "ege-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ege-universitesi/2011/14906",
+  "published": "2011-04-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14906&MevzuatTertip=5",
+  "source_bytes": 31899,
+  "source_id": "8.5.14906",
+  "source_sha256": "2c0b03ace23bb196db170aa72a48f7fded33ebaae5705c5cbca2f6f20ad2d0dc",
+  "text_status": "current-consolidated",
+  "title": "EGE ÜNİVERSİTESİ PALYATİF BAKIM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 191,
+  "word_count": 1177
+}

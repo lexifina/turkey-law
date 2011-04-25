@@ -1,0 +1,4 @@
+Müdür
+MADDE 8 – (1) Müdür; palyatif bakım konusunda deneyim sahibi olan Üniversitenin Tıp Fakültesi psikiyatri ana bilim dalı konsültasyon ve liyazon, tıbbi onkoloji, algoloji bilim dallarından veya fizik tedavi ve rehabilitasyon ana bilim dalı öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesinden ve geliştirilmesinden doğrudan Rektöre karşı sorumludur ve aynı zamanda Yönetim Kurulunun başkanıdır.
+(2) Müdür, kısa süreli ayrılmalarda, yardımcılarından birisini vekil bırakır. Müdürlüğe vekâlet altı aydan fazla süremez. Vekâletin altı aydan fazla sürmesi durumunda, Müdürün görevi sona erer.
+(3) Müdürün görevden alınmasında veya Müdürün süresini doldurmadan görevden ayrılması durumunda, görevlendirilmesindeki yol izlenerek, ayrılan Müdürün süresini doldurmak üzere yeni bir Müdür görevlendirilir.
