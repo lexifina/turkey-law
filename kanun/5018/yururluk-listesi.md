@@ -33,3 +33,4 @@ Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayıl�
 6093 | (II) Sayılı Cetvel | 30/12/2010
 6114 | 10, (II) Sayılı Cetvel | 3/3/2011
 6218 | (II) Sayılı Cetvel | 14/4/2011
+6225 | Geçici Madde 19 | 26/4/2011
