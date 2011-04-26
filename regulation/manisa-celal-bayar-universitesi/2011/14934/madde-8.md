@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Müdür, Tıp Fakültesinin kadın hastalıkları ve doğum anabilim dalında görevli ve infertilite ve yardımcı üreme teknikleri konusunda deneyimli öğretim elemanları arasından Rektör tarafından üç yıl süre ile görevlendirilir. Görev süresi dolan Müdür tekrar görevlendirilebileceği gibi görev süresi dolmadan aynı şekilde görevden alınabilir. Müdür, görevi başında bulunmadığı zaman yardımcısını vekil olarak bırakır. Göreve vekalet altı aydan uzun sürerse yeni bir Müdür görevlendirilir.
