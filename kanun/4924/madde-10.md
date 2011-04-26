@@ -1,1 +1,1 @@
-MADDE 10 — 7.5.1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununa aşağıdaki madde eklenmiştir.
+Madde 10 - (7.5.1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanunu ile ilgili olup yerine işlenmiştir.)

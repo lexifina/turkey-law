@@ -1,1 +1,2 @@
-MADDE 12 — 657 sayılı Devlet Memurları Kanununa 43 üncü maddesi ile eklenen ve 527 sayılı Kanun Hükmünde Kararname ile yeniden düzenlenen Ekli (I) sayılı cetvelin "III- Sağlık Hizmetleri Sınıfı" kısmı ekteki şekilde yeniden düzenlenmiştir.
+Madde 12 - (14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.)
+8526

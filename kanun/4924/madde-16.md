@@ -1,5 +1,6 @@
 Yürütme
-MADDE 16 — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Madde 16 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+8526-1
 (1) SAYILI CETVEL
 SÖZLEŞMELİ PERSONEL POZİSYON UNVANLARI VE BU POZİSYONLARDA İSTİHDAM EDİLECEKLERDE ARANACAK NİTELİKLER
 UNVANI | NİTELİĞİ
@@ -34,3 +35,4 @@ Tabip - Diş Tabibi | 1,2 | 2,2
 4 yıl ve üzeri fakülte mezunu | 0,9 | 1,9
 2-3 yıllık yüksek okul mezunu | 0,8 | 1,7
 Lise ve dengi okul mezunu | 0,7 | 1,5
+8526-2

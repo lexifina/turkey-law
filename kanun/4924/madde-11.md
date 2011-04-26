@@ -1,2 +1,1 @@
-MADDE 11 — 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 36 ncı maddesinin "III-SAĞLIK HİZMETLERİ VE YARDIMCI SAĞLIK HİZMETLERİ SINIFI" başlıklı bendine aşağıdaki paragraf eklenmiştir.
-Bu sınıfa dahil personel tarafından yerine getirilmesi gereken hizmetler, lüzumu halinde bedeli döner sermaye gelirlerinden ödenmek kaydıyla, Bakanlıkça tespit edilecek esas ve usullere göre hizmet satın alınması yoluyla gördürülebilir.
+Madde 11 - (14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.)

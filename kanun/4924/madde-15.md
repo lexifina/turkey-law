@@ -1,2 +1,2 @@
 Yürürlük
-MADDE 15 — Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 15 - Bu Kanun yayımı tarihinde yürürlüğe girer.
