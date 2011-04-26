@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.01-35-03-110",
+  "source_id": 33888,
+  "date": "2011-04-26",
+  "title": "Sanayi sicil belgesine sahip mükellefin şase araç üzerine imal ettiği yol süpürme aracı,konteyner yıkama aracı, çöp toplama aracı, kanal temizleme aracı, kar temizleme aracını satışında ÖTV'ye tabi olup olmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33888",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "917ac4a1f37877c47163dc48d910d556f2e1944e2752de1152e1101fb5a0c401",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
