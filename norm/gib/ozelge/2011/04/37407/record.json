@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 6-388",
+  "source_id": 37407,
+  "date": "2011-04-28",
+  "title": "5811 sayılı kanun kapsamında, mahsup uygulamasından faydalanabilmek için beyanın tarhiyattan önce yapılması gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37407",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "608a845d7db8c6b6a0bce6bba45fb14473c763c3bb6a5c4a5eae2e1677f49ecb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
