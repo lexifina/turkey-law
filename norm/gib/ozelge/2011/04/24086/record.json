@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.15.01-KVK-49-2-3-22",
+  "source_id": 24086,
+  "date": "2011-04-28",
+  "title": "Birleşme öncesi dönemine ait kârın, birleşmeden sonra dağıtımı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24086",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "6da4990693f402f8c8dec2d71e7f7d7cd3a4c47363f5890de3eb2b377ee1e065",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
