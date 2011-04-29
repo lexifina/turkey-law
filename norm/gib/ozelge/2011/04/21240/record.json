@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.01-48.15.01/GVK-5-34",
+  "source_id": 21240,
+  "date": "2011-04-29",
+  "title": "2009 yılı için Mart ayında beyan edilecek olan gelir vergisi veya 2010 yılında beyan edilecek geçici vergi ve gelir vergisi beyannamelerinde indirimli gelir vergisi uygulamasından yararlanıp yararlanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/21240",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "797b6172c92c4e6412e05b6b7243046814ba3edf51d5a8aa443f0c19daffb733",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
