@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.61.15.01-621-43-2010-28",
+  "source_id": 28335,
+  "date": "2011-04-29",
+  "title": "Okullara yapılan mobilya,mefruşat akıllı yazı tahtası gibibağış ve yardımların kurum kazancndan indirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28335",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "8edd023fa2656e56e3155f9afd540155a8a3ea75d58c6147a550592bbd3f94a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
