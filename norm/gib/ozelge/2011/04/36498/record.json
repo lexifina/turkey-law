@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-117",
+  "source_id": 36498,
+  "date": "2011-04-30",
+  "title": "Özürlü Sağlık Kurulu Raporunda özürü % 64 olarak belirtilen malul ve engellinin özrüne uygun olarak taşıtın sinyal kolunun soldan sağa uzatılarak tadil ettirilmesi sonucunda, söz konusu taşıtın motorlu taşıtlar vergisinden istisna tutulup tutulmayacağı hk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36498",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "4999c9dff5fd25d98195eae21f054fcf99f754934d5f184a3e37aca21819ccaf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
