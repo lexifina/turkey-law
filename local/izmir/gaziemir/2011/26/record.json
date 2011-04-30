@@ -1,0 +1,29 @@
+{
+  "number": "26",
+  "number_as_published": "26",
+  "year": 2011,
+  "month": 4,
+  "title": "26.KARAR NİSAN 11 (Irmak Mah. 2242 ada,1 pars.bulunan Trafo yeri )",
+  "decision_date": null,
+  "index_date": "2011-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2011",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=71",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=71",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/72a249d75faba43b17d456de950b83d7183b3bf2fde4a7b663737c406edf3a9f.doc",
+  "source_sha256": "ed0298debdffdd0c106f4be1e47fd40f725e6a1e2be49388931f16cea385f67b",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2011-04-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Nisan 2011); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "28.04.2011",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
