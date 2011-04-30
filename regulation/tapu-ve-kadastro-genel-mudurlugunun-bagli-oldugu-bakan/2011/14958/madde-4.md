@@ -1,0 +1,4 @@
+Kurulun oluşumu
+MADDE 4 – (1) Kurul, Genel Müdürün veya incelenen konunun niteliğine göre görevlendireceği bir genel müdür yardımcısının başkanlığında, Teftiş Kurulu Başkanı, Birinci Hukuk Müşaviri, Tapu Dairesi Başkanı, Kadastro Dairesi Başkanı ile Genel Müdür tarafından görevlendirilecek, ikisi kadastro ve teknik, ikisi de tapu ve hukuk konularında en az 10 yıllık mesleki bilgi ve deneyime sahip kişilerden oluşur.
+(2) Genel Müdür tarafından görevlendirilen kişiler hariç olmak üzere, Kurul üyelerinin görevlerinin başında bulunmadıkları durumlarda yerlerine vekâlet edenler, Kurul üyesi olarak toplantıya katılırlar.
+(3) Kurul, ihtiyaç duyulduğu takdirde görüşlerine başvurmak üzere, inceleme konusunu Kurula intikal ettiren daire başkanı, konusunda uzman Genel Müdürlük personeli veya diğer kişileri toplantılara çağırabilir. Ancak bu kişilerin oy kullanma hakları yoktur.

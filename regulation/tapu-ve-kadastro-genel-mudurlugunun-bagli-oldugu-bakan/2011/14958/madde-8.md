@@ -1,0 +1,3 @@
+Toplantı ve karar yeter sayısı
+MADDE 8 – (1) Kurul, Genel Müdür veya Genel Müdürün görevlendireceği genel müdür yardımcısının başkanlığında üye tam sayısının en az üçte ikisi ile toplanır. Başkanın Kurul toplantısında bulunamaması durumunda, görevlendireceği bir üye Kurula başkanlık eder. Başkan, toplantı yeter sayısı sağlanamadığı durumlarda, belirleyeceği bir tarihte Kurulu yeniden toplantıya çağırır.
+(2) Kurul, gündemindeki konuları görüşerek karara bağlar. Kararlar, üye tamsayısının salt çoğunluğu ile alınır. Çekimser oy kullanılamaz. Başkan, Kurul toplantılarının yapılmasını ve kararların tutanağa geçirilmesini sağlar.
