@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-KVK-15-5-268",
+  "source_id": 28441,
+  "date": "2011-05-02",
+  "title": "Özel fidanlık projesi kapsamında tahsis edilen kredi ödemesinde tevkifat hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28441",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "b5c6b1eea7b2ad775ac171ae084d848af9cccabbc33e51e8b50595e92a7d1a82",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
