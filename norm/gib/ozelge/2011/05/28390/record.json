@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-KVK-12-2-265",
+  "source_id": 28390,
+  "date": "2011-05-02",
+  "title": "Şirketin ortağı olan firmaya taahhüt edilen inşaat işi dolayısıyla alınan avansların örtülü sermaye hesabında dikkate alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28390",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "009655b057df0bd47bd8fcbbed091d3d6593a11acaf81f31da9bebb91677988f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
