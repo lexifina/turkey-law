@@ -1,0 +1,3 @@
+Çalışma birimleri ve görevleri
+MADDE 11 – (1) Merkezde; nanofotonik, nanoelektronik, nanomanyetizma, nanomalzeme, nanokarekterizasyon, nanofabrikasyon, nano ölçekte kuantum bilgi işleme gibi nanobilim ve nanoteknoloji ile ilgili öncelikli alanlarda çalışmalar yapmak üzere çalışma birimleri oluşturulur.
+(2) Çalışma birimlerinde faaliyetler, alanında doktora derecesine sahip ve Üniversitede tam gün statülü öğretim üyesi olan birim sorumlularının denetiminde yürütülür. Birim sorumluları, Yönetim Kurulu tarafından üç yıl süreyle görevlendirilir. Birim sorumluları bu sürenin sonunda tekrar görevlendirilebilir veya süresinden önce görevlerine son verilebilir. Birim sorumluları çalışma biriminin ihtiyaçlarını zamanında tespit eder ve Müdüre bildirir.
