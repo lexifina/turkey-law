@@ -1,0 +1,3 @@
+Maddenin soruşturma konusu ülkeden ithalatı
+MADDE 11- (1) Soruşturma konusu ürünün ÇHC’den gerçekleşen ithalatı incelendiğinde, yürürlükteki önlemin etkili olduğu gözlenmektedir. Önlem öncesi 2004 yılında ÇHC’den 4.124.115 ABD $’ı, 2005 yılında ise 1.728.285 ABD $’ı değerinde ithalat yapılırken, 2006 yılından itibaren söz konusu ülkeden ithalatın durduğu görülmektedir.
+(2) Bu çerçevede, ÇHC menşeli patinaj zinciri ithalatı, 2004 yılında 2.873 Ton ve en son 2005 yılında 1.211 Ton olarak gerçekleşmiştir. Maddenin birim fiyatı açısından yapılan incelemede ise 2005 yılında 1,43 ABD $ /Kg olduğu tespit edilmiştir.

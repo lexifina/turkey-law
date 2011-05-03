@@ -1,0 +1,6 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Mevcut önlem ve soruşturma
+MADDE 1- (1) 20/08/2005 tarihli ve 25912 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2005/19 sayılı Tebliğ ile Çin Halk Cumhuriyeti (ÇHC) menşeli “patinaj zincirleri”nin ithalinde dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) Bahse konu eşyaya yönelik mevcut önlemin yürürlük süresinin bitiminden önce, 11/12/2009 tarihli ve 27429 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2009/38 sayılı Tebliğ ile yerli üretim dalının önleme konu ürün ve ülke kapsamında bir nihai gözden geçirme soruşturması açılması talebinde bulunabileceği ilan edilmiştir.
+(3) Dampinge karşı önlemin sona ermesinin damping ve zararın devamına veya yeniden meydana gelmesine yol açacağı iddiasıyla 7315.20.00.00.00 GTİP altında yer alan ÇHC menşeli, “patinaj zincirleri”ne yönelik olarak yerli üretici Atlı Zincir, İğne ve Makine Sanayi A.Ş. tarafından yapılan başvuru çerçevesinde 05/08/2010 tarihli ve 27663 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2010/23 sayılı Tebliğ ile nihai gözden geçirme soruşturması başlatılmıştır. Söz konusu soruşturma Dış Ticaret Müsteşarlığı (Müsteşarlık) İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülerek tamamlanmıştır.

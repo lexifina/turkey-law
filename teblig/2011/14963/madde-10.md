@@ -1,0 +1,4 @@
+Maddenin genel ithalatı
+MADDE 10- (1) Önlem konusu ürünün Türkiye’ye genel ithalatı ve önleme konu ülkeden yapılan ithalatın incelenmesinde Türkiye İstatistik Kurumu (TÜİK) verileri kullanılmıştır. Maddenin 2004-2009 döneminde genel ithalat rakamları incelendiğinde, 2004 yılında 2.926 ton olan patinaj zinciri ithalatının takip eden yıllarda sırasıyla 1.482 ton, 1.823 ton, 1.366 ton, 385 ton ve 2009 yılına gelindiğinde 349 ton seviyesine indiği görülmüştür.
+(2) Bahse konu ürünün genel ithalatı değer bazında sırasıyla, 2004 yılında 4.274.128 ABD $’ı, 2005’te 3.366.401 ABD $’ı, 2006’da 3.377.600 ABD $’ı, 2007’de 3.088.688 ABD $’ı, 2008’de 1.230.546 ABD $’ı ve 2009 yılında da 797.865 ABD $’ı olarak gerçekleşmiştir.
+(3) 2004 yılında ton başına 1,46 ABD $/Kg olan birim fiyatın ise 2009 yılında 2,28 ABD $/ Kg’a yükselmiş olduğu görülmektedir.
