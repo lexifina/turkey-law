@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.68.10.00-068-5811/1-3",
+  "source_id": 25281,
+  "date": "2011-05-03",
+  "title": "5811 sayılı kanunua göre resen terk durumdaki şirketin sermaye artırımı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/25281",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "b1563859d201a438b1eb3f79a3d4f498b7871911792e7927b28902ce068b676d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
