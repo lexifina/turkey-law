@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.01-35-03-120",
+  "source_id": 38127,
+  "date": "2011-05-03",
+  "title": "2003/5868 sayılı Kararname kapsamında sıfır vergili yakıt satın alınmaması durumunda, YMM raporu düzenlettirilmesine gerek olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38127",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "27df6874572f9a091f6d61d05372cd7aa7ffe8a36f5d379a71941066d16bea4f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
