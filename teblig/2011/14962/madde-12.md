@@ -1,0 +1,2 @@
+Fiyat yıpranması
+Madde 12- (1) Soruşturma konusu maddenin nispi olarak değişimini görebilmek amacıyla, söz konusu ithalatın toplam Türkiye tüketimi içindeki payı incelenmiştir. Soruşturma konusu ürünün Türkiye toplam tüketimi hesaplanırken, 2006- 2009 yıllarına ait, ton bazında yerli üretim dalı yurtiçi satış miktarları ile ilgili yıla ait genel ithalat toplanmıştır. Bu çerçevede, 2006 yılında 100 olan tüketim endeksinin takip eden yıllarda sırasıyla 100; 75 ve 80 olduğu görülmüştür.

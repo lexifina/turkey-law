@@ -1,0 +1,2 @@
+Maddenin genel ithalatı
+Madde 10- (1) Maddenin 2005-2009 döneminde genel ithalat rakamları incelendiğinde 2005’de 2.010 ton olan pentaeritritol ithalatının takip eden yıllarda sırasıyla; 1.390 ton, 581 ton, 877 ton ve 2009 yılına gelindiğinde 820 ton seviyesine indiği görülmektedir. Tüm ülkelerden gerçekleşen ithalatın toplam değerinin ise 2005 yılında 2.490.303 ABD doları iken 2009 yılında 1.093.326 ABD dolarına gerilediği tespit edilmiştir.

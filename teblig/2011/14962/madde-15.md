@@ -1,0 +1,4 @@
+Ekonomik göstergelerin değerlendirilmesi
+Madde 15- (1) Yerli üretim dalından temin edilen veriler ışığında yapılan incelemeler sonucunda, 2007-2009 döneminde üretim miktarında ve kapasite kullanım oranında azalma; ve yurt içi ve yurt dışı satış rakamlarında düşüş görülmekte olup stoklarda artış meydana gelmiştir.
+(2)Her ne kadar ürünün ticari maliyetlerinde son yılda bir miktar azalma görülse de, ürünün yurt içi ve yurt dışı birim satış fiyatlarında görülen düşüş maliyetlerdeki azalmadan daha fazla gerçekleşmiş bu sebeple de ürünün yurt içi satışlarından ürün karlılığı giderek azalmış ve bu değer son yılda zarara dönüşmüştür. Azalan karlılığa bağlı olarak ürün nakit akışında olumsuzluk meydana gelmiştir. Firmanın, ürün nakit akışında da ciddi bir azalma görülmektedir.
+(3) Yukarıdaki veriler ışığında yürürlükteki önleme rağmen yerli üretim dalında zararın halen devam etmekte olduğu anlaşılmıştır.

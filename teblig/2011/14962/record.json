@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.14962",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2011/6)",
+  "number": "14962",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2011/14962",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14962&MevzuatTertip=5",
+  "source_sha256": "d0c91d13ef725652b436b5b00ce69707fe80e6458c332d8e88a1d916ae48a6e2",
+  "source_bytes": 67235,
+  "published": "2011-05-03",
+  "gazette": "27923",
+  "in_force": "2011-05-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.05.2011); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2469,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
