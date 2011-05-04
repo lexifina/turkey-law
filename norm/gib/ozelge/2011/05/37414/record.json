@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 6-438",
+  "source_id": 37414,
+  "date": "2011-05-04",
+  "title": "5811 sayılı Kanun kapsamında beyan edilen taşınmazın şirket adına tescil edilemesi halinde mahsup imkanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37414",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "f9e3e50edcaff9cbefd36f43248d6b32e1ad96cd17d080bbfcc35e0934d82235",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
