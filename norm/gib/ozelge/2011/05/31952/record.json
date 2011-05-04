@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-019.01-433",
+  "source_id": 31952,
+  "date": "2011-05-04",
+  "title": "Türkiye Kızılay Derneğinin sağlık hizmetlerine yönelik iktisadi işletmelerinde ökc. kullanma mecburiyetinin bulunup bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/31952",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "6c077f5c1678752183f898c546c482dbcc2e60a95a9619bd98bc28d15ef1cbfa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
