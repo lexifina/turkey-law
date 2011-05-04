@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 5-441",
+  "source_id": 27960,
+  "date": "2011-05-04",
+  "title": "Yurtdışıda bulunan şubenin elde ettiği kazancın Türkiye'de vergilendirilip vergilendirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27960",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "83a6f5ae0bff83a0f726dbbea84de77a0af55d4a7426d29fc82a809915eac7d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
