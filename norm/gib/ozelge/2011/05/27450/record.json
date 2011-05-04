@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.02.10.00-2010/2-3",
+  "source_id": 27450,
+  "date": "2011-05-04",
+  "title": "Meslek Odasının bağlı iktisadi işletmenin kurumlar vergisi mükellefiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27450",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "fbd9da1f5bf839baf809f114401caf835ab8e0806ba6b05d05ca398720a1c871",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
