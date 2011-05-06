@@ -1,0 +1,24 @@
+{
+  "number": "44",
+  "number_as_published": "44",
+  "year": 2011,
+  "title": "Plan ve Bütçe Komisyonunun hazırladığı Serada Bulunan Bitkilerin Ücret Tarifesi hakkındaki raporu görüşülerek, yapılan müzakere sonucu raporun kabulüne oybirliği ile karar verildi.",
+  "decision_date": "2011-05-06",
+  "source": "https://adalar.bel.tr/meclis-kararlari/2011-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-karari/",
+  "official_document": null,
+  "source_sha256": "7138ddd244897b16d939435a802bc75ba0b19aeeef6a93ee4c06d98017e1e750",
+  "issuer": "Adalar Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2011-05-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.05.2011 (Karar Tarihi printed above the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and subject as published in the year's official decisions post)",
+  "decision_number": "2011/44",
+  "official_page": "https://adalar.bel.tr/meclis-kararlari/2011-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-karari/"
+}
