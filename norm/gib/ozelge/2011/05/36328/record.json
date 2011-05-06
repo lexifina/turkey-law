@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.77.10.00-V.İ.V 2010-1",
+  "source_id": 36328,
+  "date": "2011-05-06",
+  "title": "Kiraya verilmiş gayrimenkul üzerinde yapılan alışveriş merkezinin kiralayanın vefatı üzerine mirasçılarına intikal edip etmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36328",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "c7e38bd1de4748346ed1c9999420f62fab902a6b8ad752fc9198668a0b62d34d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
