@@ -1,0 +1,2 @@
+Kaldırılan Hükümler
+Madde 15- 5/1/1993 tarih ve 21456 sayılı Resmi Gazete’de yayımlanan “İşverenlerin Çalıştırdıkları İşçileri Çalışma ve Sosyal Güvenlik Bakanlığı’na ve Bölge Müdürlüğü’ne Bildirmeleri ile Sendika ve Konfederasyonlarca Düzenlenecek Üye Kayıt Fişleri ve Defterlerinin Şekli ve İhtiva edeceği Bilgiler Hakkında Yönetmelik” ile 7/3/1993 tarih ve 21517 sayılı Resmi Gazete’de yayımlanan EK(6) ve EK(8) Formlarında Değişiklik Yapan Yönetmelik, ekleri ile birlikte yürürlükten kaldırılmıştır.
