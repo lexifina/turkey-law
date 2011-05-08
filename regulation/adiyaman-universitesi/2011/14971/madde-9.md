@@ -1,0 +1,2 @@
+Merkez müdür yardımcıları
+MADDE 9 – (1) Merkez Müdürünün önerisiyle Rektör tarafından Üniversitenin öğretim üyeleri arasından iki Merkez müdür yardımcısı görevlendirilir. Merkez Müdürünün görev süresinin dolması ya da herhangi bir sebeple görevinden ayrılması halinde Merkez müdür yardımcılarının da görevi sona erer. Merkez müdür yardımcıları Merkezin çalışmaları konusunda Merkez Müdürüne yardımcı olmak üzere görevlendirilir. Merkez Müdürünün görevi başında olmadığı durumlarda Merkez müdür yardımcılarından biri göreve vekalet eder.
