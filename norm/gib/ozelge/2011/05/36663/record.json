@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV 12-473",
+  "source_id": 36663,
+  "date": "2011-05-09",
+  "title": "Yurt dışında mukim aracı kuruluşlara,Türkiye'den ve diğer ülkelerden müşteri bulma şeklinde verilen aracılık hizmetlerinde KDV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/36663",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "fe500bbb47ffcce63426f10f9859782280b697c359df1b6dc07adb0f27ea0b7a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
