@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "33225",
+  "decision_date": "2011-05-10",
+  "source_id": 3409,
+  "chamber": "7",
+  "file_number": "32745",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/3409/",
+  "source_sha256": "d2f2a4736d70f09ad9680ff4353445a7759b04d1c157cd78a1be4d1f3aa3ad9e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
