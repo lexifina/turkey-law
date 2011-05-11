@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.14974",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÖLÇÜ VE ÖLÇÜ ALETLERİNİN İTHALAT VE İHRACATINDA UYGULANACAK İŞLEMLERE DAİR YÖNETMELİK KAPSAMINDA ÖLÇÜ VE ÖLÇÜ ALETLERİNİN İTHALAT DENETİMİNE DAİR TEBLİĞ (TEBLİĞ NO: ÖSGM/2011-6)",
+  "number": "14974",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "path": "teblig/2011/14974",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14974&MevzuatTertip=5",
+  "source_sha256": "7543cf6aaf21384be4769bf9696218c48a14423e5bca7a052f6be83199cb2668",
+  "source_bytes": 9137,
+  "published": "2011-05-11",
+  "gazette": "27931",
+  "in_force": "2011-05-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.05.2011); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 191,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14974%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
