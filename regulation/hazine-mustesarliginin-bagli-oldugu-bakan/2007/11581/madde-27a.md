@@ -1,0 +1,3 @@
+Müşteri memnuniyetine ilişkin politika tespiti
+MADDE 27/A – (Ek:RG-12/5/2011-27932)
+(1) Sigorta şirketleri ile Türkiye'de şube açmak suretiyle faaliyette bulunan yabancı sigorta şirketleri, sigorta sözleşmesi ile ilgili kişilere adil bir şekilde davranılmasını sağlamaya yönelik politikaları tespit eder ve buna ilişkin sistemleri oluşturur. Sigorta şirketleri ile Türkiye'de şube açmak suretiyle faaliyette bulunan yabancı sigorta şirketleri, kendi çalışanları ile acentelerine kapsamı SEGEM tarafından belirlenen ve talep edilmesi halinde SEGEM tarafından temin edilen eğitimleri sağlamak zorundadır.

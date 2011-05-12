@@ -1,0 +1,59 @@
+{
+  "source_id": "7.5.11581",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTA ŞİRKETLERİ VE REASÜRANS ŞİRKETLERİNİN KURULUŞ VE ÇALIŞMA ESASLARINA İLİŞKİN YÖNETMELİK",
+  "number": "11581",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-oldugu-bakan/2007/11581",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11581&MevzuatTertip=5",
+  "source_sha256": "518291e09dbab5e82b07e225e418fa6a8e4c609e01727ad8540f4499ef1767d8",
+  "source_bytes": 82888,
+  "published": "2007-08-24",
+  "gazette": "26623",
+  "in_force": "2011-05-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/5/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-05-12",
+      "RG-12/5/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-05-12",
+      "12/5/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-07-31",
+      "RG-31/7/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-07-31",
+      "31/7/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4410,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11581-ek%201.doc",
+    "7.5.11581-ek%202.doc",
+    "7.5.11581-ek%203.doc",
+    "7.5.11581-ek%204.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

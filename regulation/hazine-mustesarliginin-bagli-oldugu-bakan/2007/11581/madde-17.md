@@ -1,0 +1,3 @@
+Ruhsat iptali ve ruhsat iptalinin ilanı
+MADDE 17 – (1) Kanunun 7 nci maddesinin birinci fıkrasında sayılan hâllerden en az birinin gerçekleşmesi sonucunda şirketin ilgili branş veya tüm branşlardaki ruhsatları geçici veya sürekli olarak Müsteşarlıkça iptal edilebilir. Bu durumda keyfiyet, Müsteşarlığın bildirimi üzerine şirketçe veya gerekli görülürse Türkiye Sigorta ve Reasürans Şirketleri Birliği tarafından, Ticaret Siciline işlenmek üzere ilgili sicil memurluğuna bildirilerek Ticaret Sicil Gazetesi ile Türkiye çapında dağıtımı yapılan ve tiraj bakımından ilk on sırada yer alan günlük gazetelerden ikisinde ilan ettirilir.
+(2) Yabancı sigorta şirketi ve reasürans şirketinin Türkiye’deki şubeleri hakkında da birinci fıkra hükmü uygulanır.
