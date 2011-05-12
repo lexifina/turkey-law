@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-05-12",
+  "issue": "27932",
+  "edition": "regular",
+  "item": 22,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Gözetim Uygulanmasına İlişkin Tebliğ (No: 2011/5)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/05/20110512-22.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/05/20110512.htm",
+  "index_sha256": "6250a6aef6c6c50fdc6c8ef9d1e4b14322a11c7c62ee70e90cdcb411250a083b",
+  "index_header": "12 Mayıs 2011 ... 27932 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
