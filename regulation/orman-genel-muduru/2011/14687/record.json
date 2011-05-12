@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.14687",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN GENEL MÜDÜRLÜĞÜ TAŞRA TEŞKİLATI KURULUŞ VE GÖREV YÖNETMELİĞİ",
+  "number": "14687",
+  "issuer": "Orman Genel Müdürü",
+  "issuer_slug": "orman-genel-muduru",
+  "path": "regulation/orman-genel-muduru/2011/14687",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14687&MevzuatTertip=5",
+  "source_sha256": "d72061ecbc8a079b4944a05f102228c0c8d0f3d370d94444e2dc4225edd41138",
+  "source_bytes": 138323,
+  "published": "2011-01-24",
+  "gazette": "27825",
+  "in_force": "2011-05-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/5/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-05-12",
+      "RG-12/5/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-05-12",
+      "12/5/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6001,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.14687-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
