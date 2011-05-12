@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "EVK-2/2011-1",
+  "source_id": 1079,
+  "date": "2011-05-12",
+  "title": "Turizm işletmelerine dâhil binalar için geçici emlak (bina) vergisi muafiyetinin uygulanmasında geçerli olan belgeler ve süreler.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/sirkuler/1079",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "287fe2bc2e0063f9d8f468dee2bc9b3eb94ce739288c2d10e4e1a3046fbef44f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
