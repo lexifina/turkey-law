@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2007-02-25",
+      "25.02.2007",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2011-05-13",
+      "RG-13/5/2011-27933",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-05-13",
+      "13/5/2011",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-13/5/2011-27933",
+  "first_law": null,
+  "gazette": "26445",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-05-13",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Çukurova Üniversitesi",
+  "issuer_slug": "cukurova-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/cukurova-universitesi/2007/11136",
+  "published": "2007-02-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=11136&MevzuatTertip=5",
+  "source_bytes": 31709,
+  "source_id": "8.5.11136",
+  "source_sha256": "7426da1ff476453df47f30ca4e6e9b377d2bb293481d01199f7d913eb3e86363",
+  "text_status": "current-consolidated",
+  "title": "ÇUKUROVA ÜNİVERSİTESİ TIP FAKÜLTESİ BALCALI HASTANESİ SAĞLIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 187,
+  "word_count": 1048
+}

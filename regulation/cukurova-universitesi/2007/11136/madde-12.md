@@ -1,0 +1,2 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Rektör başkanlığında, Dekan, Merkez Müdürü, Merkez müdür yardımcıları, Tıp Fakültesinin Cerrahi Tıp, Dahili Tıp, Temel Tıp Bilimleri bölüm başkanları, anabilim dalı başkanları ile Tıp Fakültesi araştırma görevlilerinin kendi aralarından seçeceği ve Rektör tarafından üç yıl için görevlendirilecek bir temsilciden oluşur. Danışma Kurulu, yılda en az iki defa toplanır.
