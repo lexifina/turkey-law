@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-05-15",
+  "issue": "27935",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2011/77)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/05/20110515-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/05/20110515.htm",
+  "index_sha256": "aecb55ca3ef5227d456416c554fa8ad82fa6eb1c1dc7c662496c93fda5a6215e",
+  "index_header": "15 Mayıs 2011 ... 27935 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
