@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.76.10.00-009-1",
+  "source_id": 36524,
+  "date": "2011-05-16",
+  "title": "Geçici ihraç izni ile yurt dışına çıkan taşıtların yurt dışında olduğu süreler içerisinde motorlu taşıtlar vergisi karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36524",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "5adcfe6de1fd39a8f0d2308fd4404af993343172e25fc410980b195e906f4903",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
