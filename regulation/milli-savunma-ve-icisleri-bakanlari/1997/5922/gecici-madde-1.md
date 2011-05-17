@@ -1,0 +1,1 @@
+Geçici Madde 1 - Bu Yönetmelik kapsamında olup ta, 13/10/1996 tarihi itibariyle Türk silahlı Kuvvetlerinden henüz ilişiği kesilmemiş olanlar hakkında da, 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun 3/10/1996 tarihli ve 4185 sayılı Kanun ile eklenen Ek Geçici 71 inci Maddesi hükümleri çerçevesinde bu Yönetmelik hükümleri uygulanır.

@@ -1,0 +1,4 @@
+Dilekçe ve Belgelerin İncelenmesi
+Madde 5 – (Değişik birinci fıkra:RG-23/7/2002-24824) Sıralı sicil amirleri, yabancı uyruklu kişi ile evlenen personelin dilekçe ile müracaat etmesinden, belgelerin tamamlatılmasından ve birinci sicil amiri, örneğine EK-C’de yer verilen “Yabancı Uyruklu Kişiyle Evlenen Personel İle Yapılacak Mülakat Formu”nun doldurulmasından sorumludur.
+(Değişik ikinci fıkra: RG-2/11/2004-25631) Yabancı uyruklu kişi ile evlenmiş olan personelin başvuru dilekçe ve belgeleri Genelkurmay Personel Başkanlığınca incelenir. Genelkurmay Personel Başkanlığınca incelenen dilekçe ve belgelerin bir sureti ve personelin 4 adet fotoğrafı Genelkurmay İstihbarat Başkanlığına gönderilir, Genelkurmay İstihbarat Başkanlığınca gerekli inceleme yapılır.
+(Mülga üçüncü fıkra: RG-2/11/2004-25631)

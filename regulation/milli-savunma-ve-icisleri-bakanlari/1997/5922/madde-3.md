@@ -1,0 +1,3 @@
+Hukuki Dayanak
+Madde 3- (Değişik: RG-17/5/2011-27937)
+Bu Yönetmelik, 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 112 nci maddesinin üçüncü fıkrasının (a) bendi, 13/6/2001 tarihli ve 4678 sayılı Türk Silâhlı Kuvvetlerinde İstihdam Edilecek Sözleşmeli Subay ve Astsubaylar Hakkında Kanunun 13 üncü maddesinin üçüncü fıkrasının (ı) bendi, 28/5/1988 tarihli ve 3466 sayılı Uzman Jandarma Kanununun 7 nci maddesinin ikinci fıkrası, 18/3/1986 tarihli ve 3269 sayılı Uzman Erbaş Kanununun 12 nci maddesinin dördüncü fıkrasının (e) bendi, 10/3/2011 tarihli ve 6191 sayılı Sözleşmeli Erbaş ve Er Kanununun 6 ncı maddesinin dördüncü fıkrasının (e) bendine dayanılarak hazırlanmıştır.
