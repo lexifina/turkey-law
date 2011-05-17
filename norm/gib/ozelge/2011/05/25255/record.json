@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.02-48.15.02/VUK9-43",
+  "source_id": 25255,
+  "date": "2011-05-17",
+  "title": "İki ayrı pansiyon işletilmesi ve her iki pansiyonun müşteri giriş ve çıkış işlemlerinin yeni açılacak pansiyonda yapılması halinde ortak müşteri listesi ve fatura kullanılıp kullanılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25255",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "584388c3d3f75902e7dac364d0c45b93ee0c754256b97907f5a6024cc7730d20",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
