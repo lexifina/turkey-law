@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.65.10.00-Ö.T.V.-4",
+  "source_id": 34063,
+  "date": "2011-05-18",
+  "title": "Tecil-terkin uygulaması ve 2002/4930 sayılı BKK uygulamasına ilişkin vergi beyanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34063",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "fd8e3510a5037f3caab1cdbca9c11f552b8fe00c747d5d040520bd7383cb5823",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
