@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-160",
+  "source_id": 37237,
+  "date": "2011-05-18",
+  "title": "Atari, Oyun Makinesi ve Bilgisayar Oyunlarının Oynatıldığı Playstation Oyun Salonlarının İşleticilerinden Eğlence Vergisinin Alınacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37237",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "e59857ce825fe8035e1f92fe10c18a74027ae118bec5d69ff879717a8f49137f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
