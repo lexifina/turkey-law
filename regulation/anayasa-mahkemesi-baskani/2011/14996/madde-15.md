@@ -1,0 +1,3 @@
+Yedeklerin çağrılması
+MADDE 15 – (1) Giriş sınavını kazandığı kendilerine bildirilmesine rağmen Başkanlıkça verilen süre içinde başvurmayanlar ile ataması yapıldığı halde görevine başlamayanlar için giriş sınavı sonucu kazanılmış hak oluşturmaz.
+(2) Giriş sınavını kazandığı kendilerine bildirilenlerden idarece verilen süre içinde başvurmayanların, ataması yapıldığı halde göreve başlamayanların veya göreve başlamakla birlikte iki ay içerisinde ayrılanların yerine, yedek listede yer alanlar başarı sırasına göre atanmak üzere çağrılır. Yedek aday adaylarının hakları sınav sonucunun ilan tarihinden itibaren altı ay geçmesiyle sona erer.

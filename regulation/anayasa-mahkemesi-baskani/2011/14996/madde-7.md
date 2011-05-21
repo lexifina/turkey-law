@@ -1,0 +1,2 @@
+Giriş sınavı duyurusu
+MADDE 7 – (1) Giriş sınavına katılma şartları, atama yapılacak raportör yardımcısı adayı kadro sayısı, sınav konuları, sınavın değerlendirme yöntemi, sınava ilk ve son başvuru tarihleri, başvuru yeri, başvuru sırasında istenecek belgeler, sınavın yeri ve sınava ilişkin diğer hususlar son başvuru tarihinden en az 30 gün önce Resmî Gazete’de, Mahkemenin internet sitesinde ve Türkiye genelinde yayımlanan tirajı en yüksek ilk beş gazeteden en az ikisinde ilan verilmek suretiyle duyurulur.

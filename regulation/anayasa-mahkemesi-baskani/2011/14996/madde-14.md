@@ -1,0 +1,4 @@
+Sınavın değerlendirilmesi
+MADDE 14 – (1) Yazılı sınav puanı ile mülakat puanının aritmetik ortalamasına göre, en yüksek puan alandan başlamak üzere sıralama yapılır ve giriş sınav sonuç listesi hazırlanır. Not sıralamasında virgülden sonraki üç basamak dikkate alınır. Puanların eşit olması halinde mülakat puanı dikkate alınarak sıralama yapılır. En yüksek puandan başlanılarak sınav ilanında belirtilen kadro sayısınca aday adayına ataması yapılmak üzere tebligat yapılır. Ayrıca asıl olarak atanmaya hak kazanamayan aday adaylarından, en yüksek puan alanından başlanmak üzere ilan edilen kadro sayısının yüzde yirmisi oranında yedek belirlenir.
+(2) Sınav sonuçları Mahkemenin internet sitesinde ilan edilir. Giriş sınavını kazanan asıl ve yedek aday adaylarına sınav sonuçları yazılı olarak bildirilir.
+(3) Sınava ilişkin belgeler Genel Sekreterlikte saklanır.
