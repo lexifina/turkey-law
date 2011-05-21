@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2011/734",
+  "list_number": "734",
+  "decision_date": "2011-05-21",
+  "title": "Yüksek Seçim Kurulunun seçim propagandalarına ilişkin kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2706/2011-734.pdf",
+  "source_sha256": "2f19e746d1e0519406cd218a47ffbffe29f6d2c8249cbe88f3b470f22e80e1db",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-05-21",
+  "law_text_complete": false
+}
