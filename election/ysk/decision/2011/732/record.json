@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2011/732",
+  "list_number": "732",
+  "decision_date": "2011-05-21",
+  "title": "Yüksek Seçim Kurulunun seçim propagandalarına ilişkin kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2704/2011-732.pdf",
+  "source_sha256": "4696c384e9e46af64cdc9833633f778ad5c98e294f4e3233573c5c0684e834d4",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-05-21",
+  "law_text_complete": false
+}
