@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.15004",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK VERGİSİ ASKIYA ALINMASI VE AVRUPA BİRLİĞİ TARAFINDAN TARİFE KONTENJANI AÇILMASI PLANLANAN ÜRÜNLERE İLİŞKİN TEBLİĞ (İTHALAT: 2011/22)",
+  "number": "15004",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2011/15004",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15004&MevzuatTertip=5",
+  "source_sha256": "25ab2047fe4ed55d833af3b572933fb10be659dc3d9b4dc2c10e53a47732a238",
+  "source_bytes": 317434,
+  "published": "2011-05-25",
+  "gazette": "27944",
+  "in_force": "2011-05-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.05.2011); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4187,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
