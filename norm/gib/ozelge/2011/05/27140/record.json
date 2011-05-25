@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.18.02-1744-179",
+  "source_id": 27140,
+  "date": "2011-05-25",
+  "title": "Tahsil edilemeyen alacaklara ilişkin olarak icra takibine başlandığı tarih itibariyle mi yoksa mahkemeden söz konusu alacağın tahsil edilemeyeceğine ilişkin karar alınmasını takiben mi şüpheli alacak karşılığı ayrılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27140",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "fec406b19c42a604020965e16aa758919d507f121f29f73b834edbf9f30da8b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
