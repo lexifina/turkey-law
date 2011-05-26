@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.17.02-VUK-123",
+  "source_id": 25398,
+  "date": "2011-05-26",
+  "title": "Bayan kuaförlüğü faaliyetinin yanı sıra lokanta işletmesi bulunan mükellefin V.U.K. nun 177 nci maddesinin hangi bendine tabi olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25398",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "8ebd2132bd20598eb6c83ea5e9e221fa615fc4f5ad9428f06214ad8d9053f6ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
