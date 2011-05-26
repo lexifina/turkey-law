@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3236",
+  "decision_date": "2011-05-26",
+  "title": "ŞİD’in 11.2.5 ve 11.2.6 bentleri uyarınca ödenecek bedellerine İlişkin",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aF798lr0bDM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aF798lr0bDM="
+  ],
+  "source_sha256": "7dbf6a0c26e187d8e7361fbf34cbe9f66a7a24e0bb344ea2e4d5a5ab20879ae9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-05-26",
+  "law_text_complete": false
+}
