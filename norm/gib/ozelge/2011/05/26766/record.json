@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.31.15.01-ÖTV-5-02-31",
+  "source_id": 26766,
+  "date": "2011-05-27",
+  "title": "Beton Pompası Monte Edilerek Tadil Edilen Araçta ÖTV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/26766",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7accc4ddd7b7c10d51adf4de7cb4f0150c68df7b1959ee09aa918bc6a91f3c0f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
