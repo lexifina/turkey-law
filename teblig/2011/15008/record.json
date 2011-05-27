@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.15008",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 408)",
+  "number": "15008",
+  "path": "teblig/2011/15008",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15008&MevzuatTertip=5",
+  "source_sha256": "dbeb5297d91de24bda40e85d33b9f802bc456834529e0d8661bdd9714caf19fe",
+  "source_bytes": 44995,
+  "published": "2011-05-27",
+  "gazette": "27946",
+  "in_force": "2011-05-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.05.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1672,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
