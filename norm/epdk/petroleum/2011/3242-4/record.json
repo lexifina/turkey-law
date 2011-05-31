@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "3242/4",
+  "decision_date": "2011-05-31",
+  "title": "Petrol Piyasasında Lisans Süre Uzatımı Başvurularında Aranacak Bilgi ve Belgelere İlişkin Kurul Kararı",
+  "resmi_gazete_date": "2011-06-09",
+  "resmi_gazete_number": "27959",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qfJaUPIldXI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qfJaUPIldXI="
+  ],
+  "source_sha256": "cd96db50ffd516db310ee5af9666bdc050dc9d1d72e9099a0febce61011d9652",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4870,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-05-31",
+  "law_text_complete": false
+}
