@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.17.02-VUK-11-40-84",
+  "source_id": 25431,
+  "date": "2011-06-01",
+  "title": "Taşıma irsaliyesine taşıma ücretinin yazılıp yazılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25431",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "c8774cdcaf7e964ce92f2c02f18f871fcb29afddee69358e20f2996ada4b7e4b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
