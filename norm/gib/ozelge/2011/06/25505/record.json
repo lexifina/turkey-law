@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.18.02-32225-8373-338",
+  "source_id": 25505,
+  "date": "2011-06-01",
+  "title": "Serbest meslek kazanç defterinin A4 kağıdına müteharrik yapraklı olarak tasdik ettirilebileceği ve bilgisayar ortamında tutulabileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25505",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "c6712d3f7bc30d33a7510a98c5caa921574d9203e854d21cc70a6cd4b5080662",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
