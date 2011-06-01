@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-06-01",
+  "issue": "27951",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Su Ürünleri Yetiştiriciliği Yatırımlarında İhtiyaç Duyulan Su ve Su Alanları ile Deniz ve İç Sulardaki Su Ürünleri İstihsal Hakkının Kiraya Verilmesi Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/06/20110601-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/06/20110601.htm",
+  "index_sha256": "967165418e8122eff386a83acc1aef19c1de5dfb7fe9312b22dc7f34cf0f8b3b",
+  "index_header": "1 Haziran 2011 ... 27951 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
