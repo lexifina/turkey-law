@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.33.15.02-2010/720-16-17",
+  "source_id": 25186,
+  "date": "2011-06-02",
+  "title": "Sebze ve Meyve Komisyoncularının Ba-Bs bildirim formunu ne şekilde düzenlemesi gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25186",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "f4b95925b271ae72bc5070117150d708f6c5aeca6922dbf79d00e6aa4e5d80c2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
