@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3253",
+  "decision_date": "2011-06-02",
+  "title": "İletim sistem kullanım ve işletim gideri 2012- 2015 yıllarına esas tutarların aşağıdaki revize edilmesi",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DpMiEsDb9HA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DpMiEsDb9HA="
+  ],
+  "source_sha256": "f484c3cb38c5bc5db3559164f550d927c22e809b08728fa9dbe1d6121459f973",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-06-02",
+  "law_text_complete": false
+}
