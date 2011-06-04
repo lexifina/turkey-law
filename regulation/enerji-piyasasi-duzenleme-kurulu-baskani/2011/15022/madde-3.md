@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Depolama: Günlük ve mevsimlik değişiklikleri karşılamak ve doğal gaz temininin azalması veya durması ile meydana gelen doğal gaz açığını gidermek amacıyla doğal gazın gaz olarak depolanmasını,
+b) Depolama Hizmeti: Yer Altı Doğal Gaz Depolama Tesisi Temel Kullanım Usul ve Esaslarında tanımlanan hizmet ya da hizmetleri,
+c) Depolama Şirketi: Doğal gaz depolama faaliyetini gerçekleştirmek üzere yetkilendirilen tüzel kişiyi,
+ç) Depolama Yılı: Takvimi temel kullanım usul ve esaslarında belirlenen ve birbirini takip eden her 12 aylık süreyi,
+d) Depolanan Hacim: Depolama şirketi tarafından hizmet alanın hesabına depolama tesislerinde tutulan doğal gaz miktarını,
+e) Elektronik Bülten Tablosu (EBT): Hizmet alanların depolama tesisi hareketlerini takip edebilmelerini sağlayan ve depolama şirketi tarafından işletilen elektronik duyuru panosunu,
+f) Hizmet Alan: Depolama şirketi ile hizmet sözleşmesi imzalamış olan tedarikçi veya tedarikçi sıfatıyla kendisini,
+g) Hizmet Sözleşmesi: Depolama hizmetlerine ilişkin depolama şirketi ile hizmet alan arasında akdedilen sözleşmeyi,
+ğ) İlgili Mevzuat: Doğal Gaz Piyasasına İlişkin Kanun, yönetmelik, tebliğ, genelge, Kurul kararları ile ilgili tüzel kişinin sahip olduğu lisans veya lisansları,
+h) Kanun: 18/4/2001 tarihli ve 4646 sayılı Doğal Gaz Piyasası Kanununu,
+ı) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+i) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+j) Sistem: Doğal gazın üretimi, iletimi, depolanması ve dağıtımı işlevlerini yerine getirmek üzere kurulan tesis ve teçhizatı,
+k) Sistem Günü: Saat 08:00’de başlayıp ertesi gün saat 08:00’de sona eren 24 saatlik zaman dilimini,
+l) Tedarikçi: Serbest tüketicilere, toptan satış şirketlerine, ithalatçı şirketlere, ihracatçı şirketlere, dağıtım şirketlerine ve CNG satış şirketlerine doğal gaz satan ithalatçı şirketleri ve toptan satış şirketlerini,
+m) Temel Kullanım Usul ve Esasları (KUE): Depolama hizmeti ile ilgili tarafların hak ve yükümlülüklerinin belirlenmesi amacıyla depolama şirketi tarafından hazırlanarak Kurul onayına sunulan usul ve esasları,
+n) Yer Altı Doğal Gaz Depolama Tesisi: Bir tüzel kişinin mülkiyet veya işletmesinde bulunan ve doğal gazı yer altında depolamaya mahsus tesisi,
+ifade eder.

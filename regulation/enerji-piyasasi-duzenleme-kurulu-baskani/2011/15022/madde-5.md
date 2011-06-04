@@ -1,0 +1,5 @@
+Temel kullanım usul ve esasları
+MADDE 5 – (1) Depolama şirketleri sahip oldukları her depolama tesisi için KUE hazırlayarak internet sitelerinde ilgili tarafların görüşüne açar. Depolama şirketleri gelen görüş ve önerileri de dikkate alarak hazırladıkları temel kullanım usul ve esaslarını gelen görüş ve önerilerle birlikte lisansına kayıtlı faaliyete başlama tarihinden önce Kurul onayına sunar. Kurul, Depolama şirketlerince onaya sunulan KUE’yi aynen veya ilgili mevzuat çerçevesinde değişiklik yaparak onaylar. KUE, Kurul onayıyla yürürlüğe girer.
+(2) Depolama şirketleri, ilgili mevzuat ve kendilerine ait KUE’lerdeki düzenlemelere göre hizmet verir.
+(3) Temel kullanım usul ve esaslarında yapılacak değişiklikler temel kullanım usul ve esaslarında yer alacak değişiklik prosedürü çerçevesinde piyasanın görüşleri alınarak oluşturulur ve Kurul onayına sunulur. Kurul, sunulan değişiklik önerilerini aynen veya sunulan görüş ve ilgili mevzuat çerçevesinde üzerinde değişiklik yaparak onaylar.
+(4) Kurum, gerek gördüğü hallerde piyasada faaliyet gösteren ilgili kişilerin görüşünü alarak düzenlemelerde değişiklik yapabilir.

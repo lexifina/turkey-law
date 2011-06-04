@@ -1,0 +1,3 @@
+Bedeller
+MADDE 10 – (1) Depolama şirketi, KUE’sinde öngörülen kapasitelere ilişkin rezervasyon ve tahsis yöntemi doğrultusunda; depolama hizmeti bedellerinin tanımlarını ve hesaplama yönteminde baz alınacak kriterleri, bedellere konu faturaların ödeme tarihleri, içeriği, ödemelerin ne şekilde ve nasıl yapılacağı, ödeme yapılmaması durumuna ilişkin uygulamaları KUE’de belirtir.
+(2) Depolama şirketinin ve hizmet alanın yükümlülüklerini yerine getiremediği durumlardaki bedeller; objektif kriterler baz alınarak, oransal, ayrım gözetmeden, şeffaf, uygun kapasite kullanımını teşvik edici ve maliyet bazlı ilkeler çerçevesinde KUE’de belirlenir.
