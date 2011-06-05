@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-06-05",
+  "issue": "27955",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "GENELGE",
+  "title": "Avrupa Küçük İşletmeler Yasası Prensipleri ile İlgili 2011/6 Sayılı Başbakanlık Genelgesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/06/20110605-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/06/20110605.htm",
+  "index_sha256": "5eaa4b7ade479265fb9f981b6d69f2c513362a6ab9c9e05611f139d7fae94b50",
+  "index_header": "5 Haziran 2011 ... 27955 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
