@@ -1,0 +1,2 @@
+Öğrenci Kabulü
+Madde 8- Üniversitenin lisans ve önlisans programlarına eşdeğer eğitim veren diğer üniversitelerin Lisans ve Önlisans öğrencileri, üniversitede açılacak yaz öğretimine kabul edilebilir. Üniversite öğrencileri de eşdeğer eğitim veren diğer üniversitelerde açılacak yaz okullarına devam edebilirler. Üniversite öğrencilerinin diğer kurumlarda aldıkları derslerin eşdeğerliliği ve öğrenci kabulü konularında İlgili Birim Yönetim Kurulu yetkilidir.
