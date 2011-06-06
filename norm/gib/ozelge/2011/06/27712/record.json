@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.14.10.00-VUK-490-27",
+  "source_id": 27712,
+  "date": "2011-06-06",
+  "title": "Tarım Kredi Kooperatifi olarak kurumlar vergisinden muaf bir şekilde faaliyetini devam Ba-Bs bildirim formlarının verilip verilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27712",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "5ed99fab8c8090c2c052dae20100c6e8ca49ae507ff1870789924e109f42b9f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
