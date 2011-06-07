@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-GVK-23-2-361",
+  "source_id": 21466,
+  "date": "2011-06-07",
+  "title": "GVK nın ücretlerde istisna uygulaması ile ilgili 23 üncü maddesinin 14 numaralı bendi gereğince, ücretlerin istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21466",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "c22b934c85e37f9540a9d1b68ca62cbaeab8e8e0bf093653d92e9d02f5ac7ee1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
