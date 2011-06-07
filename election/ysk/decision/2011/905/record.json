@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2011/905",
+  "list_number": "905",
+  "decision_date": "2011-06-07",
+  "title": "Seçmenlerin, görüntü kaydedici veya haberleşme sağlayıcı cihazlarla kapalı oy verme yerine giremeyeceği hususunda Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2693/2011-905.pdf",
+  "source_sha256": "a3f99cbc5856b1801f46d0568b0829aedab6d118a75c4ca0fdcd4461d170219d",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2011-06-07",
+  "law_text_complete": false
+}
