@@ -1,5 +1,5 @@
 Üyelik şartları, aidat ve üyelikten çıkarılma
-MADDE 10. — Birliğe üye olmak isteyen tarım üreticilerinde aşağıdaki genel şartlar aranır:
+Madde 10- Birliğe üye olmak isteyen tarım üreticilerinde aşağıdaki genel şartlar aranır:
 a) Üye olacağı birliğin iştigal ettiği ürün veya ürün grubu ile ilgili pazara yönelik üretimde bulunmak.
 b) Çiftçi belgesi sahibi olmak.
 c) Gerçek kişiler bakımından, onsekiz yaşını doldurmuş olmak.

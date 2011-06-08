@@ -1,5 +1,5 @@
 Tanımlar
-MADDE 2. — Bu Kanunda geçen;
+Madde 2- Bu Kanunda geçen;
 a) Bakanlık: Tarım ve Köyişleri Bakanlığını,
 b) Tarım üreticisi: Her türlü bitkisel ve hayvansal ürünler ile avcılık ve yetiştiricilik yoluyla su ürünleri üretimini yaparak, bunları pazara sunan gerçek ve tüzel kişileri,
 c) Birlik: Tarım üreticilerinin, ürün veya ürün grubu bazında ve gönüllülük esasına dayalı olarak kurdukları, tüzel kişiliği haiz tarımsal üretici birliklerini,

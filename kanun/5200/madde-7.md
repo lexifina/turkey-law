@@ -1,5 +1,5 @@
 Genel kurul, görev ve yetkileri
-MADDE 7. — Genel kurul, birlik üyelerinden oluşur.
+Madde 7- Genel kurul, birlik üyelerinden oluşur.
 Genel Kurulun görev ve yetkileri şunlardır:
 a) Yönetim ve denetim kurulu üyelerini seçmek.
 b) Çalışma raporlarını incelemek.
@@ -8,6 +8,7 @@ d) Kesin hesapları kabul veya reddetmek.
 e) Yönetim kurulunun teklif edeceği bütçe ve çalışma programını görüşerek onaylamak.
 f) Personel işlemleri, taşınır ve taşınmaz mal alım veya satımı ile üyelik aidatlarının belirlenmesi hususunda yönetim kuruluna yetki vermek.
 g) Birlik aracılığı ile pazarlanan ürünlerin satış bedelinin binde ikisini aşmamak üzere kesilecek hizmet payını tespit etmek.
+8881
 h) Merkez birliğine temsilci seçmek.
 ı) Üyelikten çıkarılmayı onaylamak.
 i) Diğer karar ve tedbirleri almak.

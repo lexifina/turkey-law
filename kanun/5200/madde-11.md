@@ -1,5 +1,5 @@
 Birliğin gelirleri
-MADDE 11. — Birliğin gelirleri şunlardır:
+Madde 11- Birliğin gelirleri şunlardır:
 a) Üyelik aidatları.
 b) Üyelere sağlanan danışmanlık hizmetleri karşılığında alınan ücretler.
 c) Yurt içi ve yurt dışından sağlanan bağış, fon ve yardımlar.

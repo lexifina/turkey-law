@@ -1,5 +1,5 @@
 Birliğin görevleri
-MADDE 5. — Birlikler, bu Kanunun amacına uygun olarak aşağıdaki görevleri yapar:
+Madde 5- Birlikler, bu Kanunun amacına uygun olarak aşağıdaki görevleri yapar:
 a) Üyelerinin ürettikleri ürünlerle ilgili piyasa araştırmaları yapmak ve yaptırmak.
 b) Üyelerinin ürünlerine pazar bulmak, ürünlerin pazara arzını düzenlemek.
 c) Üyelerine üretim teknikleri, hasat, depolama, paketleme konularında teknik destek sağlamak.
