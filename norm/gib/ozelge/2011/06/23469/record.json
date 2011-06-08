@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-GVK-63-2-386",
+  "source_id": 23469,
+  "date": "2011-06-08",
+  "title": "Net ücret ve şahıs sigorta pimleri ile bireysel emeklilik katkı paylarının ücret matrahından indirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23469",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "ca8824924279722c47065c00297b0033c03eb0aa3b60b3c7c0aac2c1be31af0c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
