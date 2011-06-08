@@ -1,0 +1,2 @@
+Yaptırılacak İşyerlerinin Tahsisi
+Madde 7 - İdare tarafından toplu olarak işyeri yaptırılması halinde, yaptırılacak işyerleri; 4123 sayılı Kanunun Geçici 1 inci maddesi gereğince işyeri yardımı yapılması için ilan edilen yasal süre içerisinde müracaat eden ve işyerleri yıkık-ağır derecede hasar gören Afetzede ailelerden mülk sahibi olanlarla, bunların hissedarlarından işyeri almaya hak kazananlara, noter kurasıyla dağıtılır. İdarece yaptırılacak işyerlerinin tahsisine ilişkin usul ve esaslar İdarenin bağlı olduğu Bakanın onayı ile belirlenir.
