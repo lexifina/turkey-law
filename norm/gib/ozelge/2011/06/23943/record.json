@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.01.0-VUK-233-38",
+  "source_id": 23943,
+  "date": "2011-06-08",
+  "title": "Sera gazı salınımının azaltılması ile ilgili gönüllülük esasına göre yolculardan alınacak bedellerin vergisel durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/23943",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c486bb0fc46043e819ec33f1d0ebb731d062b666f9c54d394f75b3ce48768b29",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
