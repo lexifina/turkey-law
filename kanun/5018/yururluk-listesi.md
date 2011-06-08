@@ -1,7 +1,7 @@
 5018 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
 MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
 GÖSTERİR LİSTE
-Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5018 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5018 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 5263 | I Sayılı Cetvel | 9/12/2004
 5273 | II Sayılı Cetvel | 15/12/2004
 5286 | I Sayılı Cetvel | 28/1/2005
@@ -34,3 +34,4 @@ Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayıl�
 6114 | 10, (II) Sayılı Cetvel | 3/3/2011
 6218 | (II) Sayılı Cetvel | 14/4/2011
 6225 | Geçici Madde 19 | 26/4/2011
+KHK/643 | (I) ve (II) Sayılı Cetvel | 12/6/2011 tarihinde yapılan milletvekili seçiminden sonra kurulan ilk Bakanlar Kurulu üyelerinin atandığı tarihte
