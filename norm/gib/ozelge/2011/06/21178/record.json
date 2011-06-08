@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2011-GVK-18-3-384",
+  "source_id": 21178,
+  "date": "2011-06-08",
+  "title": "Heykel, anıt, rölyef, büst, mask, resim, seramik, anıtsal ve mimari tasarım çalışmalarının GVK 18'inci maddesindeki istisna kapsamında değerlendirilip değerlendirilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21178",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "f060ea6a1ca3b69a1845e8d51d54d0d50a0d047bc51ea05ec9f10ac8b8460ec3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
