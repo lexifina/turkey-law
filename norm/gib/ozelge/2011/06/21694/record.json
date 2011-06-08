@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-GVK 32-657",
+  "source_id": 21694,
+  "date": "2011-06-08",
+  "title": "Emekli öğretmenin ilk öğretim okulunda ücretli olarak çalışması durumunda asgari geçim indiriminden yaralanıp yararlanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21694",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e6ff90bfc49e8a1178ad90a4df81e168c594d1671fb0954294aac4bf7820d079",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
