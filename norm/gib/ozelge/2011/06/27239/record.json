@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 5-683",
+  "source_id": 27239,
+  "date": "2011-06-09",
+  "title": "Şirketin aktifinde kayıtlı taşınmazın satılmasından doğan zararın KVK-5/1(e) maddesi kapsamında değerlendirilerek gider yazılıp yazılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27239",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "b6662261a77ee07800c135407a60d7d4eaad27f9adf83319ce2fc63c46d5d83f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
