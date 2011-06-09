@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-GVK- GEÇ.78-41",
+  "source_id": 24910,
+  "date": "2011-06-09",
+  "title": "GVK Geçici 78 inci maddeye istinaden yapılacak düzeltme işlemleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24910",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "8d54ca3fe8279f846907ede9d234d1a130a1b46b5dc445d72c9737c69e676c95",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
