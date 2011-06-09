@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-KVK.2010.68-150",
+  "source_id": 27721,
+  "date": "2011-06-09",
+  "title": "Türkiye Futbol Federasyonuna tescilli olarak sadece idman ve spor faaliyetinde bulunan A.Ş.in vergi muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27721",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7d15506f9ff372f6d7352d15dde4a1dfeb8341216e054d58f9772b808abc4e5e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
