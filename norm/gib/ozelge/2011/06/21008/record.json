@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.01-30-MUK-2010-91-134",
+  "source_id": 21008,
+  "date": "2011-06-09",
+  "title": "İki adet büyükbaş hayvan (deve) için zirai kazanç mükellefi olunup olunmayacağı ile ara sıra yük ve insan taşınması halinde gelir vergisinden muaf olunup olunmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21008",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "8010411b1f692e812a7bf98f5e66c28f91c83a24837d703c7a553c1e65f46a25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
