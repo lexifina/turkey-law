@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 15-693",
+  "source_id": 22780,
+  "date": "2011-06-09",
+  "title": "Yıllara sari inşaat işlerinde hak edişler üzerinden yapılacak vergi kesintisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22780",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c47eb6defcd8db5240d46a044efaac38d97e45f0e062ef88738768d13028904b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
