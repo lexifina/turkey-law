@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Serbest gıda mühendisliği hizmeti veren bürolar ile gıda mühendisleri bu Yönetmeliğin yayımlanmasından itibaren 6 ay içersinde SMM belgesi ve büro tescil belgesi almak için gerekli koşulları yerine getirerek Odaya başvurmak zorundadırlar.

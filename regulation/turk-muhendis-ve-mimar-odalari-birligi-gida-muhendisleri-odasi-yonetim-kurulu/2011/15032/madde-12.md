@@ -1,0 +1,3 @@
+Asgari ücret
+MADDE 12 – (1) SMMH ve ücretli çalışan SMM’lerin asgari ücretleri Oda Yönetim Kurulu tarafından her yıl Ocak ayında belirlenerek, Oda yayınlarında ilan edilir. Asgari ücretlere KDV dâhil olmayıp, fatura veya makbuzda ayrıca gösterilip tahsil edilir. Bilirkişilik, hakemlik, ekspertizlik ve teknik müşavirlik hizmetleri ile ilgili asgari ücretler TMMOB tarafından belirlenen tarifeye uygun olarak yürütülür.
+(2) SMMH’nin tümünün yaptırılmasından vazgeçilip bir bölümünün yaptırılmasının istenmesi halinde buna ait SMMH ücretleri bu bölümün asgari ücretine göre alınır. SMM hizmetlerinin ücreti tahsilâtın yapıldığı yılın asgari ücret tarifesine göre hesaplanır.
