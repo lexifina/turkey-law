@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-GVK.2010.64-153",
+  "source_id": 23373,
+  "date": "2011-06-09",
+  "title": "Ödenen emeklilik prim tutarının indirim konusu yapıp yapamayacağınız hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23373",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "0d2bba30c747daa2dd061b139bb5c9bc240587ec3044caa2c231b8fbbaf04a1d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
