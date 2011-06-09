@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-KVK-4-21-396",
+  "source_id": 27723,
+  "date": "2011-06-09",
+  "title": "Türk el sanatlarını yaymak, geliştirmek ve teşvik etmek amacıyla el sanatları ustalarından satın alınan ürünleri tüketicilere sunan Döner sermaye işletmesinin kurumlar vergisinden muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27723",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4159319b43c2ac2a7044b405a4c62f7ac1007831dc0bb0532ee2b5f0adb987a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
