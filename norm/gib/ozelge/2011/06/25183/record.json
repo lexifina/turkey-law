@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.02.10.00-2010/3-7",
+  "source_id": 25183,
+  "date": "2011-06-09",
+  "title": "Şehirler Arası Otobüs İşletmelerinde Belge Düzeni ve BA BS Formu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25183",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "fe9d4f13b943e8379fb1ecfb2f421fe052fd8ff7283c67f53f81a51759101031",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
