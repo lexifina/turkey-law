@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-176200-235",
+  "source_id": 21352,
+  "date": "2011-06-10",
+  "title": "Kamu tarafından kiralanan konuta tevkifat kesilmesi belirtilip, bahsi geçen konutun mesken mi yoksa işyeri olarak mı değerlendirilmesi ve beyannanmenin ne şekilde tanzim edileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21352",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ca0d6b0593639592e23e7689818e5e99700990703f93666e1e73f55dadbbdb8e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
