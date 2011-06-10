@@ -1,0 +1,3 @@
+Kurul kararları
+MADDE 19 – (1) Başkan tarafından belirli bir konuda görüşlerini bildirmeleri istenen gerçek ve tüzel kişiler gerektiğinde toplantılara davet edilebilirler. Ancak, Kurul kararları; ön değerlendirme, inceleme ve rapor çalışmaları ile sekretarya hizmetlerinde görevlendirilen Genel Müdürlük personeli dışında toplantıya davet edilen diğer kişilerin yanında alınmaz.
+(2) Kurul üyeleri, kendileri, eşleri ve üçüncü dereceye kadar kan ve kayın hısımları hakkındaki toplantılara katılamaz ve oy kullanamaz. Başkan hariç, Başkana vekâlet eden Kurul üyeleri de dâhil olmak üzere diğer Kurul üyeleri kendi kuruluşları tarafından hazırlanan devlet destekleri ile ilgili kararlarda oy kullanamaz.
