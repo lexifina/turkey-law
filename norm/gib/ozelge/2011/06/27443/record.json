@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-KVK-2010/3-61",
+  "source_id": 27443,
+  "date": "2011-06-10",
+  "title": "Belediye döner sermaye işletmesinin üyelerine konut inşa etmesinin iktisadi işletme oluşturup oluşturmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27443",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "1367ecb03011393f217bddaeaec77c0e90065859161b0bf163a3e914f82eab13",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
