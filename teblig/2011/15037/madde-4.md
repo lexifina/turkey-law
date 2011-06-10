@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 4 – (1) 24/12/2010 tarihli ve 27795 sayılı Resmî Gazete’de yayımlanan 2010/30 sayılı Tebliğ ile mevcut önlemlerin yürürlükte kalma sürelerinin sona ereceği ve ilgili ürünün yerli üreticilerinin mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir başvuru ile bir nihai gözden geçirme soruşturması açılması talebinde bulunulabileceği ilan edilmiştir.
+(2) Bu çerçevede yapılan başvurunun incelenmesi neticesinde ÇHC, Brezilya, Bulgaristan, Endonezya, Hindistan ve Tayland menşeli bahse konu ürüne uygulanan dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir nihai gözden geçirme soruşturması açılması için yeterli delillerin bulunduğu anlaşılmıştır.
