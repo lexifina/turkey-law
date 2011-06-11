@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2011/1819",
+  "source_id": 1492,
+  "date": "2011-06-11",
+  "title": "İHRAÇ MALI TAŞIYAN ARAÇLARA MOTORİN TESLİMİNDE ÖZEL TÜKETİM VERGİSİ VE KATMA DEĞER VERGİSİ İSTİSNASI UYGULANACAK SINIR KAPILARINA İLİŞKİN KARARDA DEĞİŞİKLİK YAPILMASI HK.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/bkk/1492",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "008662f18381567d916ae81467d15b073409c658ac781da05678b30f6b8c78e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
