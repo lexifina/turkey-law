@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-242",
+  "source_id": 34981,
+  "date": "2011-06-13",
+  "title": "İki Farklı Tarihte Aynı Taşınmaza İlişkin Düzenlenen Kira Sözleşmesinde Damga Vergisinin Ne Şekilde Alınacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34981",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "5b4f29add8ad59bb9b99d85a7e3d874ca0eaa26c5f153acf8cb28ead3ee7903e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
