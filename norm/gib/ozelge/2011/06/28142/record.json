@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.15.01-KVK-49-2-7-40",
+  "source_id": 28142,
+  "date": "2011-06-13",
+  "title": "TÜBİTAK tarafından hibe olarak verilecek destek tutarlarının ilgili yılın kurumlar vergisi beyanname verme süresi geçtikten sonra belirlenmesi halinde Ar-Ge indirimi uygulamasının nasıl olacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28142",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "2b7a420f77a79774512c5fb560d7b0bdc532ab74a58493af9cf0e71eff2ba011",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
