@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "3274/3",
+  "decision_date": "2011-06-14",
+  "title": "Petrol Piyasasında İhrakiyenin İhracat Veya Transit Rejimi Kapsamında Deniz Ve Hava Taşıtlarına İkmalinde Tahsilat Aracılık Hizmeti Verilmesine İlişkin Usul Ve Esaslar",
+  "resmi_gazete_date": "2011-06-23",
+  "resmi_gazete_number": "27973",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kAinDHTuK5g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kAinDHTuK5g="
+  ],
+  "source_sha256": "89dc79553176638272ddb6810ce44fde256d0e33bdf8c7884654812fcfa8b915",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4870,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-06-14",
+  "law_text_complete": false
+}
