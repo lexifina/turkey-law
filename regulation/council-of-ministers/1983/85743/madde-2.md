@@ -1,0 +1,3 @@
+Kapsam:
+Madde 2 – Bu Yönetmelik hükümleri 657 sayılı Devlet Memurları Kanununun değişik birinci fıkrasında sayılan kurum ve kuruluşlarda çalışan memurlar hakkında uygulanır.
+Türk Silahlı Kuvvetlerinde görevli subay, astsubay, sivil memur, sözleşmeli ve yevmiyeli personel; Anayasa ve Uyuşmazlık Mahkemesi Üye ve Yedek Üyeleri ile raportörleri; 2656 sayılı Hakimler Kanununun 2661 sayılı Kanunla değiştirilen 18 ve 19 uncu maddeleri uyarınca bu Kanuna eklenen (1) ve (2) sayılı cetvellerde gösterilen Adli ve İdari Yargı mensupları; Danıştay ve Sayıştay meslek mensupları ve Sayıştay Savcı ve Savcı Yardımcıları; 2547 sayılı Yükseköğretim Kanununa tabi kurumlarda çalışan öğretim elemanları hakkında bu Yönetmelik hükümleri uygulanmaz.

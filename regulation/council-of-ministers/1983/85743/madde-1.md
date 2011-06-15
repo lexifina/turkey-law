@@ -1,0 +1,1 @@
+Madde 1 – Bu Yönetmelik, Devlet Memurlarının Şikayet ve Müracaatları ile ilgili usul ve esasları belirlemek amacıyla 657 sayılı Devlet Memurları Kanununun değişik 21 inci maddesine dayanılarak hazırlanmıştır.
