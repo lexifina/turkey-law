@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.01-GV-10-51-110",
+  "source_id": 23981,
+  "date": "2011-06-16",
+  "title": "Gayrimenkul sermaye iradından kaynaklanan gider fazlalığının serbest meslek kazancından indirim konusu yapılıp yapılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23981",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c1c388abb9941a37ac1a9021b43fdc244933e74fd43d8916a1729f38410906fb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
