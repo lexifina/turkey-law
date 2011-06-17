@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.17.10.00-DMG-2010-8",
+  "source_id": 34970,
+  "date": "2011-06-17",
+  "title": "657 sayılı Kanunun 4/c maddesi uyarınca çalışan personele yapılan ödemelerden damga vergisi kesintisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34970",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "a8e0ce2bc11952333358cb19d990fde93a9baf6bcdebaa089d7e7719f7e6661c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
