@@ -1,0 +1,3 @@
+Vali veya kaymakamın doğrudan soruşturma yaptırması
+Madde 19 - Vali ve kaymakamlar görev alanları içinde bulunan kamu idarelerine, kamu kurumlarına ve kuruluşlarına ait veya bunlar tarafından idare olunan veya Devletin hüküm ve tasarrufu altında bulunan sahipsiz yerlere veya menfaati umuma ait olan taşınmaz mallara tecavüz veya müdahalede bulunulduğu öğrendiklerinde, soruşturmayı doğrudan doğruya yapar veya yaptırırlar ve sonucu karara bağlarlar.
+Kamu idarelerine, kamu kurumlarına ve kuruluşlarına ait veya bunlar tarafından idare olunan ve özel hukuk hükümlerine tabi bulunan taşınmaz mallara tecavüz veya müdahalede bulunulması halinde, bu idarelerin yetkilerinin başvurması esastır.

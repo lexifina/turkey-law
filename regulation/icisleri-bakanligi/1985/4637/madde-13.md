@@ -1,0 +1,3 @@
+Müşterek veya iştirak halinde mülkiyetten doğan zilyetlik
+Madde 13 - Bir taşınmaz mal üzerinde birden fazla kişilerin bir arada zilyet oldukları müşterek veya iştirak halinde mülkiyet hallerinde, yani anlaşmazlığa düşenlerin taşınmazda hissedar olmaları halinde, o taşınmazı fiilen tasarruf edenin zilyetliğinin hem diğer hissedarlara, hem de üçüncü şahıslara karşı korunması esastır. Bu gibi durumlarda "müşterek hissedarlıktan" söz edilerek 3091 sayılı Kanunun olaya uygulanmaması yoluna gidilemez.
+Taşınmazın miras yoluyla birden çok mirasçıya kalması halinde de bu Kanuna göre tecavüz veya müdahalenin önlenmesi ile ilgili başvurular kabul edilir ve eylemli olarak zilyetliklerini sürdürenleri zilyetlikleri hem diğer mirasçılara hem de üçüncü şahıslara karşı korunur.

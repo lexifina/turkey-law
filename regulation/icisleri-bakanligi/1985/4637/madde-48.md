@@ -1,0 +1,3 @@
+İkinci tecavüz halinde soruşturma ve karar
+Madde 48 - Mahkeme kararı ile kendisine teslim edilmeksizin, taşınmaz mala aynı mütecaviz tarafından ikinci defa veya mütecaviz yararına başkaları tarafından bilerek ilk defa yapılan tecavüz veya müdahalelerin önlenmesi ile ilgili başvurularda da ilk başvuruda olduğu gibi, bu Yönetmelik hükümlerine göre soruşturma yapılır ve sonucu karara bağlanır.
+Soruşturma memuru soruşturma sırasında, karar vermeye yetkili makamlar ise evrak üzerinde yapacakları incelemede; ilk kararı 47 inci maddede belirtilen esaslara göre geçerliliğini koruyup koruyamadığını araştırırlar.

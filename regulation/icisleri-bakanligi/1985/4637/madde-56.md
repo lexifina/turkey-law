@@ -1,0 +1,3 @@
+Sınır anlaşmazlıkları
+Madde 56 - Taşınmaz mal aynı ile bağlı ilçeler arası sınır anlaşmazlığı bulunan bir yerde ise yetkili kaymakamlığı vali; iller arası sınır anlaşmazlığı bulunan bir yerde ise yet-kili valiliği veya kaymakamlığı İçişleri Bakanlığı belirler.
+Kanunun amacı tasarrufa ilişkin güvenliği ve kamu düzenini sağlamak olduğundan, taşınmaz malın sınır anlaşmazlığı olan bir yerde bulunması halinde; vali veya İçişleri Bakanlığı "Sınır, Mülki Ayrılma -Birleşme ve Köy Kurulması - Kaldırılmasına İlişkin Yönetmelik" hükümlerine bağlı kalmaksızın yetkili vali veya kaymakamlığı en süratli şekilde belirler. Sınır anlaşmazlığına ait işlemler daha sonra ilgili mevzuatına göre yürütülür.

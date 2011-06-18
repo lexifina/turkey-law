@@ -1,0 +1,5 @@
+Tebligat
+Madde 24 - Kanun, soruşturmanın 15 gün içerisinde yaptırılarak karara bağlanmasını öngördüğünden; soruşturma emrini alan memur, soruşturmanın yapılacağı yer, gün ve saati; tarafların tanık ve diğer delilleri ile hazır bulunmaları, aksi halde sonradan tanık dinletemeyecekleri hususunu her türlü imkandan yararlanarak tebliğ eder ya da köy veya mahalle muhtarları vasıtasıyla tebliğ ettirir ve tutanağını dosyasına koyar.
+Taraflara tebligat yapılmadan veya 25 inci maddede belirtilen ilan yaptırılmadan mahallinde soruşturmaya başlanamaz.
+Zorunlu ve acele hallerde bu konu ile ilgili bildirimler, Tebligat Kanunu ve Tüzüğü esaslarına göre valilik veya kaymakamlık emri ile yollukları ödenmek suretiyle güvenlik kuvvetlerine yaptırılır.
+Köye ait taşınmaz mallara yapılan tecavüz ve müdahalelerde köy halkından biri tarafından başvuruda bulunulmuş ise, soruşturma sırasında muhtar veya ihtiyar kurulu üyelerinden birinin mahallinde hazır bulunması zorunlu olduğundan, yukarıdaki usullere göre bunlara da gerekli tebligat yapılır.

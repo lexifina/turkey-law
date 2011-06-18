@@ -1,0 +1,4 @@
+Yevmiyelerin tam olarak ödenmesi
+Madde 54 - Soruşturma ve infaz memurları ile gerektiğinde görevlendirilecek teknik eleman ve yardımcı personele, göreve gittikleri günler için sürelerine ve görevin belediye sınırları içinde veya dışında yapılmış olmasına bakılmaksızın, Harcırah Kanuna göre verilmesi gereken yevmiyeler tam olarak ödenir.
+Kamu idareleri, kamu kurumları ve kamu kuruluşlarının talebi üzerine veya vali ve kaymakamlarca doğrudan yapılacak soruşturmalarda, soruşturma ve infazla görevlendirilecek personelin yevmiyeleri taşınmaz malın ait olduğu kamu idareleri, kamu kurum ve kuruluşlarınca karşılanır.
+Birden çok iş, mümkün oldukça aynı günde yapılır. Bu durumda görülen işler aynı yerde ise yevmiyeler ve taşıt ücreti başvuranlar arasında eşit olarak paylaştırılır. İşler ayrı yerlerde ise, yevmiyeler eşit olarak paylaştırılmakla birlikte taşıt ücreti uzaklıkla orantılı olarak bölüştürülür.

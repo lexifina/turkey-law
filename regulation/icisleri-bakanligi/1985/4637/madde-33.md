@@ -1,0 +1,2 @@
+Soruşturma evrakı ile fezlekenin yetkili makama verilmesi
+Madde 33 - Soruşturma memuru, soruşturma bittikten sonra soruşturma evrakındaki bilgiler ile şikayetçi, mütecaviz ve tanık ifadelerinin, bilirkişilerin görüşlerinin özetlerinin bulunacağı bir fezleke düzenler. Fezlekede bu ifade ve görüşleri ve diğer delilleri değerlendirerek durumun tartışmasını yapar ve verilecek karara esas olacak görüşünü belirterek fezlekeyi soruşturma evrakı ile birlikte en kısa zamanda valilik veya kaymakamlığa verir.

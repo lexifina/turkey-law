@@ -1,0 +1,2 @@
+Evrakın soruşturma memuruna verilmesi
+Madde 23 - Yetkili makam tarafından soruşturma memuru ve gerektiğinde teknik eleman veya yardımcı görevlendirilerek valilik veya kaymakamlık bürolarına havale edilen dilekçeler, havale tarihi itibariyle kaydedilir. Başvuru sahibine soruşturma ve infaz memurları yollukları ile taşıtı kendi sağlamayacaksa taşıt ücretleri maliye veznesine yatırılarak makbuzu dosyasına bağlanır ve evrak bir yazı ile soruşturma görevlisine verilir.

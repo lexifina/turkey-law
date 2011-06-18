@@ -1,0 +1,2 @@
+Devletin hüküm ve tasarrufu altında olan taşınmaz mallar
+Madde 9 - Devletin hüküm ve tasarrufu altında olan taşınmaz mallar, herkesin istifadesine açık olan denizler, göller, nehirler, tarıma elverişli olmayan yerler, kayalar, tepeler ve dağlar gibi sahipsiz şeyler ile Devlet veya bir kamu hukuku tüzel kişisi tarafından umumun yahut bir kısım halkın yararlanmasına terk ve tahsis edilen umumi yollar, köprüler, parklar, meydanlar, mer'alar, yaylak ve kışlaklar gibi menfaati umuma ait olan taşınmaz mallardır.

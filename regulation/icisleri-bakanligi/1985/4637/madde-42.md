@@ -1,0 +1,9 @@
+İnfaz
+Madde 42 - İnfaz, üzerinde anlaşmazlık bulunun taşımaz malın bulunduğu yerde, mütecavizin taşınmaz mal üzerindeki tecavüz veya müdahalesi men edilerek taşınmaz malı o andaki durumu ile zilyetine teslim etmek suretiyle yapılır.
+Bu amaçla, infaz memuru önceden tespit ve taraflara tebliğ edilen gün ve saatte, görevlendirilmiş ise teknik elemanlar ve güvenlik görevlileri ile birlikte taşınmaz malın bulunduğu yerde hazır bulunur. Tarafların gelip gelmediğini kontrol eder. mütecavizin gelmemesi halinde durumu tutanağa geçirerek infaz sırasında hazır bulunmak üzere yöre halkından iki kişi seçer. İnfazı güçleştirecek veya engelleyecek bir durum olması halinde güvenlik kuvvetlerinin gerekli önlemleri alarak güvenliğin sağlanmasından sonra infaz işle-mine başlar.
+Yetkili makamca verilen kararı okur ve kararın birer örneğini taraflara vererek gerekirse kararın mahiyeti hakkında açıklamalarda bulunur.
+Mütecavizin tecavüzü veya müdahalesi defedilerek taşınmaz mal mahallinde zilyet veya zilyetlere teslim edilir.
+Zilyede teslim edilecek taşınmaz mal kilitli veya kapalı ise, açılması zorunludur.
+İnfaz mahallinde hazır bulunan mütecaviz veya vekilinden, bunlar yoksa aile efradından veya işçilerinden reşit olan kişilerden taşınmaz malı açması istenir, gerekirse zorla açtırılır. Bunların mümkün olmaması halinde, infaz memuru tarafından tutanağa geçirilmek suretiyle kilit ve her türlü tertibin kırılarak açtırılması temin edilir.”
+İnfaz sırasında mütecaviz, anlaşmazlık konusu taşınmaz mal üzerinde üstün bir hakkı bulunduğunu ileri sürse bile, kararda da belirtilmiş olduğu üzere yargı yoluna başvurması gerektiği bir kez de sözlü olarak kendisine duyurulur.
+Taşınmaz mala mütecavizin ikinci defa veya onun yararına başkaları tarafından bilerek yapılacak tecavüz veya müdahalenin suç teşkil edeceği ve Kanunun 15 ini maddesi uyarınca cezalandırılacağı belirtilir ve infaz tutanağı düzenlenerek imza altına alınır.

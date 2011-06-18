@@ -1,0 +1,2 @@
+Ortaklık ve kira sözleşmeleri
+Madde 14 - Taşınmaz mal üzerindeki anlaşmazlığın ortaklıktan veya kira sözleşmesinden kaynaklanmış olması idarenin taşınmaza eylemli olarak kimin veya kimlerin zilyet olduklarını araştırarak karar vermesine engel değildir. Ortaklığın veya kira sözleşmesinin sona erip ermediği, bulunduğu aşamada geçerliliği olup olmadığı adli yargının çözümleyeceği üstün hak iddiası niteliğindedir.

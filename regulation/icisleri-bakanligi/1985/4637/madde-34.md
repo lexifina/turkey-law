@@ -1,0 +1,6 @@
+Anlaşmazlığın dava konusu olması
+Madde 34 - Başvuru sırasında, taraflar arasındaki taşınmaz mal anlaşmazlığı hakkında mahkemece bir ihtiyati tedbir kararı verilmiş veya anlaşmazlık dava konusu yapılmış ise 3091 sayılı Kanun hükümleri uygulanmaz.
+Soruşturma memuru soruşturma öncesinde, soruşturma sırasında ve gerek görürse yetkili makamın emri ile soruşturma sonrasında taşınmaz malla ilgili anlaşmazlığın taraflar arasında Medeni Kanuna göre mülkiyet hakkında dayalı bir müdahalenin men'i veya zilyetliğin ihlali nedeniyle açılmış bir tecavüzün ref'i davasına konu olup olmadığını, taşınmaz mal anlaşmazlığı hakkında mahkemelerce verilmiş bir ihtiyati tedbir kararı bulunup bulunmadığını araştırır.
+Bu tür bir davanın açılmış olduğunun veya bir ihtiyati tedbir kararının verilmiş bulunduğunun anlaşılması halinde soruşturma hangi aşamada ise işlemler durdurulur ve bu Kanuna göre karar verilemeyeceği gerekçesi ile birlikte şikayetçiye yazılı olarak duyurulur.
+Mahkemeye yapılan taşınmaz malla ilgili başvuru Medeni Kanuna göre müdahalenin men'i veya tecavüzün ref'i talebi dışında ise bu durum idarenin soruşturma yapmasına ve karar vermesine engel değildir.
+3091 sayılı Kanuna göre idari makam tarafından verilmiş bir önleme kararı varken, taraflarca taşınmaz mal anlaşmazlığına ilişkin dava açılmadan adli mercilerce ihtiyati tedbir kararı verilemez.

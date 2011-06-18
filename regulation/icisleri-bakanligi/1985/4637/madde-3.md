@@ -1,0 +1,2 @@
+Kanunun uygulama alanı
+Madde 3- 3091 sayılı Kanun gerçek ve tüzelkişilerin zilyed bulunduğu taşınmaz mallarla, kamu idareleri, kamu kurumları ve kuruluşları veya bunlar tarafından idare olunan veya Devlete ait veya Devletin hüküm ve tasarrufu altında bulunan sahipsiz yerlere veya menfaati umuma ait olan taşınmaz mallara yapılan tecavüz veya müdahalelerin, idari makamlar tarafından önlenmesi suretiyle tasarrufa dair güvenliği ve kamu düzenini sağlar.

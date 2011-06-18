@@ -1,0 +1,3 @@
+Tebligat
+Madde 41 - Kararın, evrakın infaz memuruna verildiği tarihten itibaren en geç beş gün içinde infaz edilmesi zorunludur. Emri alan infaz memuru infazın yapılacağı yeri, günü ve saati her türlü imkândan yararlanarak en süratli bir şekilde taraflara tebliğ eder veya ettirir ve tebliğ tutanağını dosyasına koyar. Bu bildirimler Tebligat Kanunu ve Tüzüğü esaslarına göre valilik veya kaymakamlık emri ile yollukları ödenmek suretiyle güvenlik kuvvetlerine de yaptırılabilir.
+Mütecavize tebligat yapılamaması halinde, infazın yapılacağı yer, gün ve saat infaz memuru tarafından üç gün önceden, alışılmış usullerle taşınmaz malın bulunduğu köy veya belediyede ilan ettirilir. Mütecaviz gelmezse bu ilan tutanağı dosyasına konularak infaz mütecavizin yokluğunda yapılır.

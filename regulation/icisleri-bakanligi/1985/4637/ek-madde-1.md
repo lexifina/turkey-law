@@ -1,0 +1,9 @@
+Taşınmaz Mal İçinde Bulunan Mütecavize Ait Eşyalar
+Ek Madde 1 — Üzerindeki tecavüz veya müdahale men edilen taşınmaz mal içinde bulunan mütecavize ait eşya çıkarılarak mütecavize, vekiline veya bunlar hazır değilse mütecavizin aile efradından veya işçilerinden reşit bir kişiye tutanakla teslim edilir.
+Bunlardan hiç birinin bulunmaması halinde anılan eşya, tutanak düzenlenmek suretiyle yediemin olarak zilyedin uhdesinde muhafaza altına alınır. Mütecavize hemen tebligat yapılarak eşyanın bulunduğu mahalde ise beş, değilse otuz gün içinde eşyayı teslim alması; aksi halde eşyanın açık artırma yolu ile satılacağı bildirilir.
+Mütecavize tebligat yapılamaması halinde mütecavize, eşyanın otuz gün içinde alınması için genel hükümlere göre taşınmaz malın bulunduğu köy veya belediyede ilan ettirilir.
+Süresi içinde müracaatı halinde eşya, mütecavize veya vekiline infaz memuru tarafından yerinde tutanakla teslim edilerek, tutanak dosyasına konur.
+Varsa muhafazaya ilişkin masraflar ile infaz memuru yolluğu ve araç ücreti ile teslime ilişkin diğer masraflar eşyanın tesliminden önce mütecavizden tahsil edilir.
+Verilen süre içinde teslim alınmayan eşyanın niteliği ve miktarı da göz önüne alınarak bedel takdiri yapmak, satış ilanı ve satışla ilgili işlemleri yürütmek için kaymakam, vali veya yetkili vali yardımcısı tarafından en az bir memur ve yeteri kadar bilirkişi görevlendirilir. İş ve işlemler tamamlandıktan sonra eşya açık artırma yoluyla satılır.
+Muhafaza ve satışla ilgili bütün giderler belgelendirmek suretiyle satış bedelinden karşılanır. Artan para, mütecaviz hesabına Ziraat Bankasına yatırılır ve durum kendisine tebliğ edilir.
+Bozulması ihtimali bulunan eşya, ilgili mülki idare amirinin onayı alınmak suretiyle tebligat yapılmaksızın, miktar tespiti ve bedel takdiri yapıldıktan sonra satılır.

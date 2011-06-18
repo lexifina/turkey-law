@@ -1,0 +1,2 @@
+Mütecavize tebligat yapılamaması
+Madde 25 - Adresinin tespit edilememesi, gösterilen adreste bulunamaması gibi nedenlerle mütecavize tebligat yapılamaması halinde soruşturmanın yapılacağı yer, tarih ve saat soruşturma memuru tarafından 3 gün önceden alışılmış usullerle taşınmaz malın bulunduğu köy veya beldede ilan ettirilir ve durum tutanakla belgelenir. Bu duyuruya rağmen mütecavizin soruşturma mahalline gelmemesi halinde ilân tutanağı dosyasına konularak soruşturma mütecavizin yokluğunda yapılır.

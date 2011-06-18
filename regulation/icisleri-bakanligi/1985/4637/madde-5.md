@@ -1,0 +1,3 @@
+Özel kanunlar
+MADDE 5 – (Değişik:RG-18/6/2011-27968)
+3091 sayılı Kanuna göre özel kanun durumunda olan 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu, 3/5/1985 tarihli ve 3194 sayılı İmar Kanunu, 31/8/1956 tarihli ve 6831 sayılı Orman Kanunu, 4/6/1985 tarihli ve 3213 sayılı Maden Kanunu ile diğer özel kanunlar kapsamına giren taşınmazlara tecavüz veya müdahalelerin olması halinde, ilgililerin başvurması ya da vali veya kaymakamın tecavüz veya müdahaleyi öğrenmeleri halinde 3091 sayılı Kanuna göre soruşturma yaptırarak tecavüz veya müdahale önlenmekle birlikte, ayrıca ilgili kanunlarına göre de gereği yapılmak üzere ait olduğu kamu kuruluşlarına bildirir.
