@@ -1,0 +1,280 @@
+18 Haziran 2011 CUMARTESİ
+Resmî Gazete
+Sayı : 27968
+YÖNETMELİK
+Maliye Bakanlığından:
+GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİNİN ÖDEME
+VE TAHSİLAT İŞLEMLERİNİN ELEKTRONİK ORTAMDA
+GERÇEKLEŞTİRİLMESİNE İLİŞKİN USUL VE ESASLAR
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve kapsam
+MADDE 1 – (1) Bu Usul ve Esasların amacı, genel bütçe kapsamındaki kamu idarelerinin nakit ihtiyaçlarının belirlenmesine, karşılanmasına, ödemelerin gerçekleştirilmesine ve tahsilatın Tek Hazine Hesabına aktarılmasına ilişkin işlemlerin elektronik ortamda verilecek talimatlarla yapılmasını düzenlemektir.
+Dayanak
+MADDE 2 – (1) Bu Usul ve Esaslar, 10/12/2003 tarihli ve 5018
+sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 6 ncı maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Usul ve Esaslarda geçen;
+a) Alıcı Banka: İlgili mevzuatına istinaden kendisine ödeme yapılacak kişinin hesabının bulunduğu bankayı,
+b) Bakanlık: Maliye Bakanlığını (Muhasebat Genel Müdürlüğü),
+c) Banka: Türkiye Cumhuriyet Merkez Bankasını,
+ç) Başkanlık: Gelir İdaresi Başkanlığını,
+d) EFT: Bankaca
+kurulan ve işletilen Elektronik Fon Transfer sistemini,
+e) Fon Aktarımı: EFT, havale veya virman yoluyla gerçekleştirilen para transferlerini,
+f) Genel Bütçeli İdareler: 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I) sayılı cetvelde yer alan kamu idarelerini,
+g) Gönderme Emri: Muhasebe birimleri tarafından Banka
+nezdindeki hesaplarından ödeme yapılacak kişilerin hesaplarına aktarılacak tutarlara ilişkin bilgileri gösteren talimatı,
+ğ) Güvenli Elektronik İmza: 15/1/2004
+tarihli ve 5070 sayılı Elektronik İmza Kanununda tanımlanan güvenli elektronik imzayı,
+h) IBAN:
+Uluslararası banka hesap numarasını,
+ı) Kamu Elektronik Ödeme Sistemi (KEÖS): Bakanlık ve Banka tarafından kamu ödemelerinin elektronik ortamda gerçekleştirilmesini sağlayan bilişim sistemini,
+i) KBS: Bakanlıkça işletilen Kamu Harcama ve Muhasebe Bilişim Sistemini,
+j) KBS-KEÖS: Bakanlıkça işletilen Kamu Harcama ve Muhasebe Bilişim Sisteminde yer alan ve gönderme emirlerinin
+elektronik ortamda Bankaya aktarılmasını sağlayan uygulamayı,
+k) Kullanıcılar: Kurum sorumlusunu, birim sorumlusunu, talimat
+aktarma yetkilisini ve talimat aktarma yetkilisi yardımcısını,
+l) Muhabir
+Banka: Merkez dışı muhasebe birimlerinin tahsilat hesaplarının bulunduğu bankayı,
+m) Muhabir
+Banka Tek Hazine Tahsilat Hesabı: Muhabir banka
+nezdinde Hazine İç Ödemeler Muhasebe Birimi adına açılan, merkez dışı muhasebe
+birimlerinin tahsilat hesap bakiyelerinin aktarılacağı vadesiz mevduat hesabını,
+n) Muhasebe
+Birimi: Müsteşarlık muhasebe birimleri hariç olmak üzere genel bütçeli idarelerin muhasebe hizmetlerinin yapıldığı birimini,
+o) Müsteşarlık: Hazine Müsteşarlığını,
+ö) Ödeme Belgesi: İdarelerce, bütçeden yapılacak kesin ödemeler için düzenlenen Genel Yönetim Muhasebe Yönetmeliği eki Örnek: 1 numaralı Ödeme Emri Belgesini; ön ödeme suretiyle yapılacak ödemelerde ise anılan Yönetmelik eki Örnek: 2 numaralı Muhasebe İşlem Fişini,
+p) Sertifika:
+Banka tarafından üretilen ve kullanıcıların KEÖS’e erişebilmeleri için gerekli olan elektronik yetki belgesini,
+r) Talimat
+Aktarma Yetkilisi: Bankaya talimat vermeye yetkili kılınan kişiyi,
+s) Talimat
+Aktarma Yetkilisi Yardımcısı: Gönderme emirlerini talimat aktarma yetkilisinin onayına sunan kişiyi,
+ş) TCKN: Türkiye Cumhuriyeti
+kimlik numarasını,
+t) Tek Hazine
+Hesabı: Tek Hazine Tahsilat ve Tek Hazine Ödeme Hesaplarının üst hesabını,
+u) Tek Hazine
+Tahsilat Hesabı: Banka nezdinde Hazine İç Ödemeler Muhasebe Birimi adına açılan vadesiz mevduat hesabını,
+ü) Tek Hazine Ödeme Hesabı: Banka nezdinde Hazine İç Ödemeler Muhasebe Birimi adına açılan vadesiz mevduat hesabını,
+v) TIC-KEÖS: Banka tarafından kamu ödemelerinin
+elektronik ortamda gerçekleştirilmesi amacı ile kurulan ve işletilen sistemi,
+y) VEDOP: Gelir
+İdaresi Başkanlığı otomasyon sistemlerini,
+z) VKN: Vergi
+Kimlik Numarasını,
+ifade eder.
+İKİNCİ BÖLÜM
+Kullanıcılar ve Sertifika
+Kullanıcılar
+MADDE 4 – (1) Genel bütçe kapsamındaki kamu idarelerinin, elektronik ortamda nakit
+ihtiyaçlarının belirlenmesi, karşılanması, ödemelerin gerçekleştirilmesi ve tahsilat işlemleri bu Usul ve
+Esaslarda belirlenen kullanıcılar tarafından yerine getirilir.
+(2) Kullanıcılar, şifreleri,
+sertifikaları ve güvenli elektronik
+imzaları ile yapacakları işlemlerden sorumludurlar.
+Kurum sorumlusu
+MADDE 5 – (1) Kurum Sorumlusu görevli olduğu merkez veya il düzeyindeki birim
+sorumlularını yetkilendirmekle görevli personel
+olup Bakanlık tarafından belirlenerek
+Bankaya bildirilir.
+(2) Kurum
+sorumlusu; kendisinin veya birim sorumlusunun izin, rapor gibi nedenlerle
+geçici olarak görevden ayrılması durumunda vekalet edecek personeli yetkilendirir;
+vekalet bitimi ile birim sorumlusunun görevinden sürekli ayrılması durumlarında ise yetkileri
+derhal iptal eder.
+(3) Yetki
+devredebilecek kurum sorumluları ve buna ilişkin hususlar Bakanlıkça belirlenir.
+(4) Kurum
+sorumlusunun görevinden sürekli ayrılması durumunda Bakanlık yeni bir kurum
+sorumlusu belirleyerek Bankaya bildirir.
+Birim sorumlusu ve talimat aktarma yetkilisi
+MADDE 6 – (1) Birim sorumlusu, muhasebe hizmetlerinin yürütülmesinden ve muhasebe biriminin yönetiminden sorumlu olan kişidir.
+(2) Birim
+sorumlusu, aynı zamanda talimat aktarma yetkilisidir.
+(3) Birim
+sorumlusu, gerektiğinde ilgili mevzuatı uyarınca belirlenmiş yardımcısını veya yardımcılarını talimat aktarma yetkilisi olarak, biriminde görevli en az bir personeli de talimat aktarma yetkilisi yardımcısı olarak yetkilendirmeye ve gerekli hallerde bu
+yetkileri iptal etmeye yetkili ve görevlidir.
+(4) Aynı muhasebe biriminde aynı kişi hem talimat aktarma yetkilisi hem yardımcısı olarak yetkilendirilemez.
+Sertifika
+MADDE 7 – (1) Kullanıcıların sertifikaları Bankaca üretilir.
+(2) Kurum
+sorumluları sertifikalarını Bankadan elden teslim alırlar. Birim
+sorumluları, talimat aktarma yetkilileri ve talimat aktarma
+yetkilisi yardımcıları ise KEÖS üzerinden elektronik ortamda alırlar.
+(3) Kurum
+sorumlusu ve birim sorumlusunun izin, rapor gibi nedenlerle geçici olarak görevden ayrılmaları durumunda yerlerine vekaleten görevlendirilenler
+sertifikalarını elektronik ortamda alırlar.
+ÜÇÜNCÜ BÖLÜM
+Ödeme ve Tahsilat İşlemleri
+Banka hesapları
+MADDE 8 – (1) Yurt içi ödemeler için Banka nezdinde muhasebe birimleri adına ödeme hesabı ve tahsilat için Banka veya muhabir banka nezdinde tahsilat hesabı açılır. Vergi daireleri adına sadece tahsilat
+hesabı açılır.
+(2) Her hangi
+bir banka şubesi bulunmayan yerlerde muhasebe birimlerinin
+kasa nakit ihtiyacını teminen muhabir banka nezdinde ayrıca ödeme hesabı açılır.
+(3) Yurt dışı ödemeler için Merkez muhasebe
+birimleri adına ayrıca Bankanın Ankara Şubesi nezdinde yurt dışı ödeme hesabı açılır.
+(4) Muhasebe
+birimleri ve vergi daireleri adına bu hesapları açmaya ve kapatmaya Bakanlık yetkilidir.
+(5) Ödeme hesaplarından para çekilemez, yapılan ödemelerden iadeler hariç tahsilat için kullanılamaz. Tahsilat
+hesaplarından ödeme yapılamaz. Ödeme ve tahsilat hesapları arasında hiçbir şekilde aktarım yapılamaz. Ödeme hesaplarına Müsteşarlıktan yapılan nakit aktarımları hariç olmak üzere diğer kaynaklardan hiçbir şekilde nakit aktarımı yapılamaz.
+(6) Yurt dışı ödemeleri sadece yurt dışı ödeme hesabından yapılır.
+(7) 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 41
+inci maddesine istinaden aracı bankalarda açılmış ve açılacak hesaplar için bu madde hükümleri uygulanmaz.
+(8) İlgili mevzuatı uyarınca ayrı hesaplarda izlenmesi gereken ödeme ve tahsilat işlemleri için bu Usul ve Esaslar hükümleri uygulanmamak üzere muhasebe
+birimi adına hesap açılmasına Müsteşarlığın uygun görüşü üzerine Bakanlıkça izin verilebilir.
+Nakit talep ve tahsisleri hesabı
+MADDE 9 – (1) Muhasebe birimlerince yapılacak ödemelere ilişkin nakit ihtiyacının belirlenebilmesi ve Müsteşarlıkça karşılanabilmesi amacıyla, Genel Yönetim Muhasebe Yönetmeliği ile Merkezi Yönetim Muhasebe Yönetmeliğinde Bakanlığa verilen yetki çerçevesinde açılan 325- Nakit Talep ve Tahsisleri Hesabı kullanılır.
+(2) İlgili mevzuatı uyarınca belirli bir sürede veya günde ödenmesi zorunlu olan vadeye bağlı ödemeler, cari veya sermaye nitelikli mal ve hizmet
+alımlarının finansmanı amacıyla karşılıksız olarak yapılan transfer ödemeleri ile bunlar dışında kalan diğer ödemeler için bu hesabın ilgili yardımcı hesap kodları kullanılır.
+(3) Yapılacak ödemelerin yardımcı hesap kodları ile ilişkilendirilmesi Müsteşarlığın görüşü alınarak Bakanlıkça yapılır ve KBS’de tanımlanır.
+Nakit ihtiyacı, talebi
+ve karşılanması
+MADDE 10 – (1) Harcama birimleri tarafından muhasebe birimlerine gönderilen ödeme belgelerinin ilgili mevzuatına göre kontrolü sonucunda ödenebilir olanlar
+ile muhasebe birimince yapılacak diğer ödemeler muhasebe birimi tarafından KBS’de muhasebeleştirilir.
+(2) Muhasebe
+kaydındaki 325- Nakit Talep ve Tahsisleri Hesabının alacak tutarı nakit ihtiyacı olarak KBS aracılığıyla Müsteşarlığa iletilerek karşılanması talep edilir.
+(3) Nakit
+talepleri, tam iş günlerinde saat 15:30’a kadar, yarım iş günlerinde saat 10:30’a kadar yapılır.
+(4) Müsteşarlık gelen nakit taleplerini aynı gün, nakit programını, vadeye bağlı ödemelere ait nakit taleplerinin vade tarihini de
+dikkate alarak inceler ve karşıladıklarını, tam iş günlerinde saat 16:30’da, yarım iş günlerinde saat 11:00’da; yurt dışı ödemelerinde ise tam iş günlerinde ayrıca saat 12:00’da, KBS aracılığıyla muhasebe birimlerine gönderir.
+(5) Müsteşarlıkça karşılanan nakit
+talepleri için aynı gün Hazine İç Ödemeler Muhasebe Birimi tarafından KBS’de gönderme emri düzenlenerek
+elektronik ortamda Bankaya gönderilir.
+(6) Banka takip
+eden iş günü saat 09:00’a kadar Tek Hazine
+Ödeme Hesabından muhasebe
+birimlerinin ödeme hesaplarına nakit aktarımı yapar.
+(7) Ortaya çıkan istisnai durumlarda Bakanlık ve Müsteşarlığın mutabakatı ile nakdin talep
+edilmesi, karşılanması ve aktarımı yukarıda belirtilen
+saatlere bağlı kalmaksızın aynı gün gerçekleştirilebilir.
+Gönderme emri kayıtlarının oluşturulması ve
+bankaya aktarılması
+MADDE 11 – (1) Muhasebe birimleri, Müsteşarlıkça karşılanan nakit tutarını esas alarak ödeme yapılacak kişilerin hesabına aktarma yapılmak üzere KBS üzerinden her bir
+talimat için otomatik gönderme emri
+numarası almak suretiyle nakit talebinin karşılandığı gün gönderme emri kayıtlarını oluştururlar.
+(2) Aynı gün talimat aktarma yetkilisi yardımcısı oluşturulan gönderme emri kayıtlarını, ödeme yapılacak kişinin TCKN/VKN’si, adı-soyadı, hesap numarası/IBAN ile ilgili mevzuat uyarınca yapılması gereken diğer kontrolleri
+yaparak KBS-KEÖS uygulaması üzerinden talimat aktarma yetkilisinin onayına hazır hale getirir.
+(3) Talimat
+aktarma yetkilisi, onayına sunulan gönderme emirlerini
+2’nci fıkrada belirtilen
+kontrolleri yaparak elektronik ortamda aynı gün, tam iş günlerinde saat 17:30’a, yarım iş günlerinde saat 13:00’a kadar KBS-KEÖS üzerinden onaylayarak Bankaya aktarır. Bankaya aktarılmasında engel bir durumu olanları talimat aktarma yetkilisi yardımcısına iade eder.
+(4) Bankaya
+aktarılan gönderme
+emirlerinden ödenmesine engel bir durumu sonradan tespit edilen
+ve Banka tarafından henüz gerçekleştirilmeyenler talimat aktarma yetkilisi tarafından geri çekilir.
+(5) Yukarıda belirtilen saatlere kadar Bankaya aktarılamayan gönderme emirlerinin bu saatler dışında Bankaya aktarılmasına ilişkin hususlar
+Bakanlık ve Banka tarafından birlikte
+belirlenir.
+Bankaca gönderme
+emirlerinin yerine getirilmesi
+MADDE 12 – (1) Banka, kendisine aktarılan gönderme emrindeki alıcı banka kodu, alıcı şube kodu, alıcı hesap numarası/IBAN, alıcının TCKN/VKN’si, adı-soyadı, ödeme tutarı ve diğer unsurlara hiçbir şekilde müdahale edemez.
+(2) Banka gelen
+gönderme emirlerini, aktarılma sırası ve muhasebe biriminin ödeme hesabındaki tutarı dikkate alarak
+ilgili alıcı bankaya fon aktarımı yapmak suretiyle yerine getirir.
+(3) Tam iş günlerinde saat 17:00’a kadar, yarım iş günlerinde 12:30’a kadar nakdi
+gelmeyen gönderme emirleri Bankaca gerçekleştirilmez.
+Alıcı bankaca
+yapılacak işlemler
+MADDE 13 – (1) Alıcı banka Bankadan gelen fon aktarımını, aktarımdaki alıcıya ait TCKN/VKN ile hesap numarası/IBAN bilgilerini kendi kayıtlarında yer alan bilgilerle kontrol ederek birebir tutması halinde kabul eder.
+(2) Banka dışındaki diğer alıcı bankalar, kendi kayıtlarında yer alan bilgilerle tutmayan fon aktarımını, saat 13:30’a kadar gelen
+aktarımlarda aynı gün, bu saatten sonra gelen aktarımlarda bir sonraki
+iş günü, “İADE” mesajı ile Bankaya iade
+eder. Banka, alıcı banka sıfatıyla kendi kayıtlarında yer alan bilgilerle tutmayan fon aktarımını aynı gün ilgili hata kodu ile akıbet bilgilerinde gösterir.
+Gönderme emri kayıtlarının kapatılması
+MADDE 14 – (1) Banka, muhasebe birimlerine KEÖS aracılığıyla elektronik ortamda gönderme emirlerinin akıbetini, hesap hareketleri ve bakiyelerinin görüntülenmesini, dekont ve hesap özeti alınmasını sağlar.
+(2) Banka, gerçekleştirilen gönderme emirleri
+ile gerçekleştirilemeyen emirleri, gerçekleştirilememe sebepleri ile birlikte KEÖS üzerinde gösterir.
+(3) Banka, alıcı banka tarafından iade edilen gönderme emirlerine ilişkin iade nedenini banka hesap özet cetvelinde gösterir.
+(4) Bakanlıkça talep edilmedikçe bu bilgi ve
+belgeler kağıt ortamında gönderilmez.
+(5) Muhasebe
+birimi, gönderme emirlerinin akıbetini KEÖS üzerinden takip ederek akıbet bilgisi ile banka hesap özet cetvelini alır ve gerekli muhasebe kayıtlarını yapar.
+Vergi dairelerinin ret ve iade ödemeleri
+MADDE 15 – (1) Vergi dairelerinin ret ve iade ödemelerinde, nakit talebi, gönderme emri oluşturulması ve Bankaya aktarılması işlemleri, Bakanlıkça belirlenen muhasebe birimlerince yapılır.
+(2) Vergi
+daireleri, bu ödemelerine ilişkin gerekli
+bilgileri ödeme gününden en az bir iş günü öncesi tam iş günlerinde saat 12:30’a kadar, yarım iş günlerinde 09:30’a kadar 511-
+Muhasebe Birimleri Arası İşlemler Hesabı kullanılarak VEDOP üzerinden elektronik ortamda muhasebe birimine gönderirler. Ödeme bilgilerine ilişkin ıslak imzalı muhasebe işlem fişleri de ekleri olmaksızın aynı gün tam iş günlerinde saat 14:30’a kadar, yarım iş günlerinde 10:00’a kadar muhasebe
+birimine tutanakla teslim edilir.
+(3) Muhasebe
+birimi, elektronik ve ıslak imzalı gelen bilgiler üzerinde hiçbir şekilde değişiklik yapamaz.
+(4) Muhasebe
+birimi, elektronik ortamda gelen ödeme bilgileri ile
+muhasebe işlem fişindeki ödeme bilgilerini aynı gün karşılaştırarak uyumlu olanlar için 10’uncu maddeye göre nakit talebini
+yapar. Uyumsuz olanları elektronik ortamda aynı gün, muhasebe işlem fişini ise en geç ertesi iş günü saat 9:30’a kadar vergi
+dairesine tutanakla iade eder.
+(5) Muhasebe
+birimi gönderme emirlerinden, gerçekleştirilenleri elektronik ortamda; gerçekleştirilmeyenleri ise emanet hesabına aldıktan sonra 511- Muhasebe Birimleri Arası İşlemler Hesabını kullanarak elektronik ortamda ve ıslak imzalı muhasebe işlem fişi de tutanakla
+teslim edilmek suretiyle, Bankaca işlemin yapıldığı tarihi izleyen iş günü mesai saati bitimine kadar vergi dairesine bildirir.
+(6) Islak imzalı muhasebe işlem fişi uygulamasına Başkanlığın görüşü alınarak Bakanlıkça son verilebilir.
+Ödeme hesabı bakiyesinin tek hazine hesabına aktarılması
+MADDE 16 – (1) Müsteşarlıkça yapılan aktarımlardan, teknik arızalar sebebiyle gönderme emrine bağlanamayan tutarlar Bakanlığın bildirimi üzerine arıza giderilinceye kadar; maaş, ücret, sosyal güvenlik yükümlülükleri ile ret ve iadelere ilişkin tutarlar ise ödemeler gerçekleştirilinceye kadar, muhasebe birimi ödeme hesaplarında bekletilir.
+(2) Birinci fıkrada belirtilen durumlar dışında herhangi bir
+sebeple;
+a) Yurt içi ödeme hesabından ilgilisinin
+hesabına aktarılamayan tutarlar
+ile bu hesaba geri dönen tutarlar muhasebe birimlerinden ayrıca bir talimat beklenilmeksizin aynı gün 17:30’da Banka tarafından geri çekilerek Tek Hazine Ödeme Hesabına aktarılır.
+b) Yurt dışı ödeme hesabından ilgilisinin
+hesabına aktarılamayan tutarlar
+ile bu hesaba geri dönen tutarlar muhasebe biriminin talimatı ile Banka tarafından Tek Hazine Ödeme Hesabına aktarılır.
+(3) Tek Hazine Ödeme Hesabının bakiyesi gün sonunda Bankaca
+Tek Hazine Hesabına aktarılır.
+Tahsilat hesabı
+MADDE 17 – (1) Muhasebe birimlerinin ve vergi dairelerinin bütün tahsilatı Banka veya
+muhabir banka nezdindeki tahsilat hesaplarında toplanır.
+(2) Banka, KEÖS aracılığıyla muhasebe birimlerine tahsilat hesaplarına ilişkin hareket ve bakiye bilgilerinin görüntülenmesini, dekont ve banka hesap özet cetveli alınmasını sağlar. Bakanlık ya da Müsteşarlık tarafından talep
+edilmedikçe bu bilgi ve belgeler kağıt ortamında gönderilmez.
+(3) Muhabir
+banka muhasebe birimi ve vergi dairelerine, Banka ise vergi dairelerine,
+tahsilat hesaplarına ilişkin dekont ve
+banka hesap özet cetvelini Merkezi Yönetim Muhasebe Yönetmeliği hükümleri çerçevesinde verir.
+Tahsilatın tek
+hazine hesabına aktarılması
+MADDE 18 – (1) Muhasebe birimlerinin ve vergi dairelerinin
+Banka nezdindeki tahsilat hesaplarındaki tutar
+Bankaca Tek Hazine Tahsilat Hesabına, Muhabir Banka
+nezdindeki tahsilat hesaplarındaki tutarlar ise Muhabir Bankaca Muhabir Banka
+Tek Hazine Tahsilat Hesabına, aynı gün aktarılır.
+DÖRDÜNCÜ BÖLÜM
+Son Hükümler
+Güvenlik
+MADDE 19 – (1) Bakanlık KBS’nin, Başkanlık VEDOP’un, Banka TIC-KEÖS’un çalışır durumda olmasını temin eder; sistem ve veri güvenliğini sağlarlar.
+(2) Bakanlık ve Banka arasındaki sistem iletişiminde sertifika,
+gizli anahtar, şifre gibi güvenlikle ilgili
+hususlarda Bankaca belirlenen Web Servisleri Güvenlik Poliçesinde yer alan kriterler esas alınır.
+(3) Kullanıcıların şifreleri, sertifikaları ve güvenli elektronik imzaları gizli olup bu gizliliği ve güvenliği sağlamak, kendilerinden başkalarının kullanmasına veya öğrenmesine imkan vermemek üzere gerekli
+tedbirleri almak zorundadırlar.
+(4) İlgili birim amirleri, kullanıcıların yetkilendirme işlemlerine ilişkin tüm yazışma ve tutanakları gerekli güvenliğin sağlandığı ayrı bir dosyada muhafaza ederler.
+Uygulama kılavuzları
+MADDE 20 – (1) Bu Usul ve Esaslarda belirtilen işlemlere ve teknik aksaklıklar, veri hatlarındaki arızalar ile doğal afet, harp,
+seferberlik, yangın, grev ve lokavt gibi olağanüstü durumlarda ne yapılacağına ilişkin ayrıntılı hususlar ilgisine göre Müsteşarlık, Başkanlık ve Bankanın uygun görüşleri de alınarak Bakanlıkça çıkarılacak Uygulama Kılavuzlarında belirtilir.
+Yetki
+MADDE 21 – (1) Bakanlık;
+a) Müsteşarlık, Başkanlık ve Bankanın uygun görüşleri alınmak suretiyle bu Usul ve Esaslarda belirtilen süre ve saatlerde yer ve zaman bakımından değişiklik yapmaya,
+b) Sertifika
+yerine güvenli elektronik imza kullanılmasına,
+c) Bu Usul ve
+Esasların uygulanması sırasında ortaya çıkan tereddütleri gidermeye,
+yetkilidir.
+Uygulamaya geçiş ve hesapların kapatılması
+GEÇİCİ MADDE 1 – (1) Bu Usul
+ve Esasların yayımlandığı tarihten itibaren 6 ay içerisinde vergi
+daireleri ve muhasebe birimleri uygulama kapsamına alınır. Bakanlık, gerektiğinde bu süreyi Müsteşarlık, Başkanlık ve Bankanın görüşlerini almak suretiyle 6 aya kadar uzatabilir.
+(2) Uygulama
+kapsamına alınan muhasebe
+birimleri ve vergi daireleri adına bu Usul ve
+Esaslar çerçevesinde açtırılacak hesaplar dışındaki mevcut
+hesaplar Bakanlıkça kapattırılır.
+Merkez muhasebe birimlerinin yurt dışı ödeme hesapları
+GEÇİCİ MADDE 2 – (1) Merkez
+muhasebe birimlerinin yurt dışı ödeme hesabından yapılacak ödemeler için düzenlenen gönderme emirlerinin elektronik ortamda Bankaya aktarılmasına ilişkin çalışmalar tamamlanıncaya kadar söz konusu gönderme emirleri için bu Usul ve
+Esasların gönderme emirlerinin Bankaya aktarılmasına ilişkin hükümleri uygulanmaz.
+Yürürlük
+MADDE 22 – (1) Sayıştay, Hazine Müsteşarlığı ve Türkiye Cumhuriyet
+Merkez Bankasının görüşleri alınan bu Usul ve
+Esaslar yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 23 – (1) Bu Usul ve Esasları Maliye Bakanı yürütür.
