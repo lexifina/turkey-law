@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-BSMV-773",
+  "source_id": 36681,
+  "date": "2011-06-20",
+  "title": "KKDF kesintisine tabi tutulan ithal mallarının sel felaketi nedeniyle antrepoda hasara uğraması halinde serbest dolaşıma giriş beyannamesinin iptali suretiyle ödenen fon kesintilerinin iadesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36681",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "e4836b801f4991ccd7be992589e2f7c9d6b385960b4f2786ed0f8ca938da0ba8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
