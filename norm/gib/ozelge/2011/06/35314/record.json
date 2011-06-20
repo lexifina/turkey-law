@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.02.10.00-2010/1-8",
+  "source_id": 35314,
+  "date": "2011-06-20",
+  "title": "Kollektif Şirket ve Ortağı ünvanlı şirketin nev'i değiştirerek, A.Ş.'ne dönüşmesi işleminden ne şekilde damga vergisi ve harç alınması gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35314",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "223a81e1f0cafed2bb5821ca95b4eeea755dc9b8dd3f0d95939f95ec2838088f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
