@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.65.10.00-Özel Tüketim Vergisi-5",
+  "source_id": 34132,
+  "date": "2011-06-21",
+  "title": "Kapalı kasa kamyonetin minibüse dönüştürülmesinde ÖTV hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34132",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "619da6c7c5c29d7db2f9c0824dad77b1389bc5aa0a255d2db338074b38ff3fbe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
