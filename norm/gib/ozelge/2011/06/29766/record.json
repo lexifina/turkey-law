@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.1-787",
+  "source_id": 29766,
+  "date": "2011-06-21",
+  "title": "İcrada hisse senedi satışı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29766",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "92e32c50144908f1a176eb5376bc35eae972056d22bd94fcef7f19f93bfbaa9e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
