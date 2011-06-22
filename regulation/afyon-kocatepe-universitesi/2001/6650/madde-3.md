@@ -1,0 +1,2 @@
+Amaç
+Madde 3 — Afyon Kocatepe Üniversitesi Gıda Kontrol Araştırma ve Uygulama Merkezi, Üniversiteye bağlı fakülte/yüksekokul ve meslek yüksekokullarındaki öğretim elemanları ile öğrencilere araştırma ve uygulama imkanı sunmak, Üniversitenin etki alanındaki gıda endüstrisi ile uğraşanlara eğitim vermek, isteyen tüm kurum ve kuruluşlar ile tüzel kişilerin ürettiği ve/veya tükettiği gıdaların analizini ve 2547 sayılı Kanunun 37 nci maddesinde ifade edilen faaliyetleri yapmak amacıyla kurulmuştur.
