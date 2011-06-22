@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3285",
+  "decision_date": "2011-06-22",
+  "title": "\"Boru Hatları İle Petrol Taşıma A.Ş. (BOTAŞ) tarafından mevcut doğal gaz alım veya satış sözleşmelerinin kısmi veya bütün olarak tüm hak ve yükümlülükleri ile birlikte devredilmesi amacıyla yapılacak ihaleler için, ithalat lisans yeterlik sahibi şirketlerin belirlenmesi ve ihale neticesi Kuruma yapılacak ithalat lisans başvuruları hakkında\"",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IiDtoeYxRUA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IiDtoeYxRUA="
+  ],
+  "source_sha256": "f4c803b377e7c20ff4edb62f1b6fa75c1687a88bf356ea5e7474a4b8fe8ed18d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-06-22",
+  "law_text_complete": false
+}
