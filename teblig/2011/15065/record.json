@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.15065",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "632 SAYILI KANUN HÜKMÜNDE KARARNAMENİN UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "15065",
+  "path": "teblig/2011/15065",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15065&MevzuatTertip=5",
+  "source_sha256": "3058bd425498ce32e0fbbd1d4e0c77a93c7ba09325f1ec2bf778dca509393255",
+  "source_bytes": 9255,
+  "published": "2011-06-22",
+  "gazette": "27972",
+  "in_force": "2011-06-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.06.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 313,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15065%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
