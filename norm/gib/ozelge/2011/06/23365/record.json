@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.08.10.00-08-OZELGE-001-5",
+  "source_id": 23365,
+  "date": "2011-06-23",
+  "title": "Asgari geçim indiriminin hesaplanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23365",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "70594627b1918544e7c7aa26bda65c6db14cd7def7f29f4e4d3d6319d3764f74",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
