@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.36.10.00-KURUMLAR VERGİSİ MUA-2",
+  "source_id": 37680,
+  "date": "2011-06-23",
+  "title": "Bakü-Tiflis-Ceyhan Petrol Boru Hattı Projesi kapsamında Kurumlar Vergisi Muafiyeti Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37680",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "fad1de6d162a7dc59a0f5b5fda73b3b9336e5af0b0e4538000bf8c61c2e8f802",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
