@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-BGK:EK 2.MD-2010-66-454",
+  "source_id": 37346,
+  "date": "2011-06-23",
+  "title": "Camii inşaatı nedeniyle bina inşaat harcından muaf olup olunmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37346",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "8ab5d533549ddf98546347e333bad16a3d222974e9bcd8cccf659e26541511ac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
