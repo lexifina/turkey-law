@@ -1,0 +1,6 @@
+Yurtların Olağanüstü Kapatılması
+Madde 12 — a)Yurtta kalan öğrencilerin huzur ve güvenliğini sarsıcı ya da yok edici olayların çıkması.
+b) Yurdun bir bölümünün dahi olsa yasa, tüzük ve yönetmeliklere aykırı amaçlarla ya da yurt yönetiminin izni olmayan faaliyetler için kullanılması.
+c) Yurtta yurt öğrencisi olmayan kişilerin uyarıya karşın kalmayı sürdürmeleri.
+d) Yetkili mercilerin emirlerini dinlemeyerek bir kısım öğrenciler tarafından da olsa, yurdun işgâl edilmesi ya da toplu direnişe geçilmesi hallerinde, yurt süreli veya süresiz kapatılır. Kapatma kararı vermeye ve süresini tespit etmeye "Yurt Yönetim Kurulu"nun önerisi üzerine "Üniversite Yönetim Kurulu" yetkilidir. Gecikmesinde sakınca görülen hallerde Rektör de kapatma kararı verebilir. Ancak, bu halde Rektör kapatma kararını bir hafta içinde Yönetim Kurulunun onayına sunmak zorundadır. "Üniversite Yönetim Kurulu"nun kararı kesindir.
+Yurdun bu şekilde kapatılması halinde, tüm öğrenciler yurdu terk etmek zorundadırlar. Öğrencilerin yurdu kendiliklerinden boşaltmamaları halinde, yurt, güvenlik kuvvetlerince boşaltılır. Yukarıda belirtilen haller nedeniyle, yurtların kapatılması halinde yurdu terk etmek zorunda kalan öğrenciler bundan dolayı, yurt yönetimine veya Üniversiteye karşı herhangi hak ve talebinde bulunamazlar.
