@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-002.01-827",
+  "source_id": 34966,
+  "date": "2011-06-25",
+  "title": "Enerji Piyasası Düzenleme Kurumundan üretim lisansı alınan yapım işinde 4628 sayılı Kanun kapsamında damga vergisi ve harç uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34966",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "4a402ccad628aaf711587596933bacbc1f7c4941faac4068ee1fd5256174bdf2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
