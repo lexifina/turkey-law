@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-06-27",
+  "issue": "27977",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Mecburi Standardların Yürürlükten Kaldırılmasına Dair Tebliğ (No: ÖSM-2011/13)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/06/20110627-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/06/20110627.htm",
+  "index_sha256": "476d206d9ae28353912e1892d4baf6b391271b2c7d48578447f117e87b758c92",
+  "index_header": "27 Haziran 2011 ... 27977 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
