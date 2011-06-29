@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelik
+MADDE 16 – (1) 7/2/1990 tarihli ve 20426 sayılı Resmî Gazete’de yayımlanan Ankara Üniversitesi TÖMER Türkçe Öğretim Araştırma ve Uygulama Merkezi Eğitim Öğretim ve Sınav Yönetmeliği ile 7/12/2001 tarihli ve 24606 sayılı Resmî Gazete’de yayımlanan Ankara Üniversitesi Türkçe ve Yabancı Dil Araştırma ve Uygulama Merkezi (TÖMER) Yönetmeliği yürürlükten kaldırılmıştır.

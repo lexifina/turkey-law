@@ -1,0 +1,21 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amacı ve faaliyet alanları
+MADDE 5 – (1) Merkezin amaçları ve faaliyet alanları şunlardır:
+a) Yurtiçinde ve yurtdışında Türkçeyi ve yabancı dilleri öğretmek, dil öğretme faaliyetlerine destek olmak üzere Türkiye'yi ve Türk kültürünü tanıtmak ve bu amaçla ilgili mevzuat hükümlerine göre şubeler açmak,
+b) Türkçe ve yabancı dillerin öğretimi konusunda uygulamalar ve araştırmalar yaparak programlar hazırlayıp yöntemler geliştirmek, bu konu ile ilgili yurtiçindeki ve yurtdışındaki çeşitli kurum ve kuruluşlarla ortak çalışmalar yapmak,
+c) Uluslararası ikili anlaşmalar çerçevesinde ilgili kamu kurum ve kuruluşları ile özel sektör kuruluşları ve Türkiye’deki üniversitelerin ilgili birimleri ile Türkçe ve yabancı dillerin öğretimi konusunda çalışmalar yaparak ortak eğitim-öğretim, araştırma, uygulama ve yayın faaliyetlerinde bulunmak,
+ç) Türkçe ve yabancı dillerin öğretimi ile ilgili araştırma ve uygulamaları teşvik etmek, yapılan araştırmaları duyurmak için seminer, kurs ve toplantılar düzenlemek,
+d) Türkçeyi ve yabancı dilleri öğretmek, yabancılara Türkiye'yi ve Türk kültürünü tanıtmak amacıyla yurtiçi ve yurtdışında geziler düzenlemek, öğretim elemanlarına ve öğrencilere ödüller vermek, dil öğrenimini teşvik etmek amacıyla kursiyerlere burs vermek,
+e) Türkçe ve yabancı dil öğretimine yönelik öğretim araçlarını hazırlamak; kitap, dergi, bülten, rapor, proje, broşür yayınlamak, bu amaçla yurtiçi ve yurtdışındaki çeşitli fuarlara katılarak tanıtım masaları açmak,
+f) Türkçe ve yabancı dil öğretimi konusundaki gelişmeleri yakından izlemek amacıyla yurtiçinde ve yurtdışında çeşitli seminer, çalıştay ve benzeri etkinlikler düzenlemek ve bu tür çalışmalara katılmak,
+g) Yurtdışındaki üniversitelerin Türkoloji bölümü öğrencilerine ve Türkiye'deki üniversitelerin Türk Dili, dil bilim ve yabancı diller son sınıf öğrencilerine ve mezunlarına mesleki tecrübeye yönelik uygulama programları düzenlemek, gerektiğinde bu çalışmalarla ilgili sertifikalar vermek,
+ğ) Türkçe ve yabancı dil öğretimini yaygınlaştırmak için uzaktan eğitim programlarını ve sınavlarını hazırlamak, bunları yurtiçinde ve yurtdışında uygulamak, yurtdışındaki çeşitli üniversite ve dil merkezleriyle işbirliği yaparak öğrenci ve öğretim elemanı değişimini ve eğitim araçlarının paylaşımını sağlamak,
+h) Türkçe ve yabancı dil öğretiminin verimli hale getirilmesi için bu dillerin öğretimi arasında karşılaştırmalı çalışmalar yapmak,
+ı) Yurtdışında yaşayan ve/veya ülkeye dönen Türk çocuklarına ve yetişkinlere Türkçe öğretmek,
+i) Yurtdışında yaşayan Türk çocuklarının ve yetişkinlerin içinde yaşadıkları topluma uyum sağlayabilmeleri, okullarında ve işlerinde başarılı olabilmeleri için onlara yaşadıkları ülkenin dilini öğretmek,
+j) Bilimsel çalışmaları desteklemek; kurum ve kuruluşların isteklerini karşılamak amaçlarıyla çeşitli dillerde çeviriler yapmak,
+k) Kurum ve kuruluşların istekleri doğrultusunda dil sınavları düzenlemek,
+l) İlk ve ortaöğretim düzeyindeki öğrencilerin yabancı dillerini geliştirmeye yönelik sosyal ve kültürel destekli kurslar açmak,
+m) Türkçe ve yabancı dil öğretimiyle ilgili projeler geliştirmek, bu alanda hazırlanan ulusal ve uluslararası projelere ortaklık etmek,
+n) TÖMER'de Türkçe öğrenen yabancı uyruklu öğrencilerin Türk öğrencilerle tanışıp kaynaşmalarını sağlamak amacıyla sosyal ve kültürel etkinlikler düzenlemek, koro, konuşma kulübü, gösteri gibi çeşitli çalışma grupları oluşturmak.

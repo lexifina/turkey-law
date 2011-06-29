@@ -1,0 +1,4 @@
+Müdür ve görevleri
+MADDE 8 – (1) Müdür, Rektör tarafından Üniversitenin öğretim üyeleri arasından üç yıl süreyle görevlendirilir. Süresi sona eren Müdür aynı yöntemle yeniden görevlendirilebilir.
+(2) Müdürün görevleri; Merkezi temsil etmek, kurullara başkanlık etmek ve kurullarda alınan kararları uygulamak, TÖMER'in Merkez ve şubelerindeki işler ile her düzeydeki personelin görev ve sorumlulukları üzerinde genel gözetim ve denetim görevini yapmak, TÖMER'in araştırma ve uygulama faaliyetleri için ortaya çıkan genel ihtiyaçları ve bunlarla ilgili önerilerini Rektöre iletmektir.
+(3) Müdür; Merkezin temsil edilmesinden, öğretim kapasitesinin verimli bir şekilde kullanılmasından ve geliştirilmesinden, eğitim-öğretim, araştırma, uygulama, yayın faaliyetleri ve sınavların düzenli bir şekilde yürütülmesinden, bütün faaliyetlerin gözetim ve denetiminin yapılmasından ve sonuçlarının alınmasından Rektöre karşı birinci derecede sorumludur.
