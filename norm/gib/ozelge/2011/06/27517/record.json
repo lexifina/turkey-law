@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 2-859",
+  "source_id": 27517,
+  "date": "2011-06-30",
+  "title": "Dava konusu yapılan iş ortaklığının mükellefiyetinin devam edip etmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27517",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "61b805ab333b8e315ba5a519ee6c48c15ebef692e3881d74b1c4197b8b0c1c23",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
