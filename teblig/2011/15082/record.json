@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.15082",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 409)",
+  "number": "15082",
+  "path": "teblig/2011/15082",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15082&MevzuatTertip=5",
+  "source_sha256": "0de0b86a15be1c1aa4d77939907ecd583d653bdd1e446affd9ae722d83466706",
+  "source_bytes": 13436,
+  "published": "2011-06-30",
+  "gazette": "27980",
+  "in_force": "2011-06-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.06.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 653,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
