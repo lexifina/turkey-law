@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 2-858",
+  "source_id": 27518,
+  "date": "2011-06-30",
+  "title": "Bedelsiz olarak derneğin kullanımına bırakılan gayrimenkulden tevkifat yapılıp yapılmayacağı ve emsal kira bedeli uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27518",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "2a1558b8fdff066736f8e352b1b192f96ddc03679cb705660cc6ea1a89aa3b04",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
