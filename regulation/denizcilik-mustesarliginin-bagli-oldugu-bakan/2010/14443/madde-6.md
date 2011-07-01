@@ -1,0 +1,4 @@
+Bildirim
+MADDE 6 − (1) Türk deniz yetki alanında bulunan liman tesislerine gelen veya Türk karasuları dâhilinde bir yükleme, boşaltma veya demirleme yerine gelen gemiler, Türk karasularına girişten önce poliçelerinin bir suretini Türkiye'de mukim bir gemi acentesi vasıtasıyla gidecekleri veya geçecekleri en yakın liman başkanlığına talep halinde ulaştırır.
+(2) Liman tesisleri sınırlan içerisinde, herhangi bir sebepten dolayı sigorta poliçesi battal olmuş gemilere, donatanları tarafından bu Yönetmeliğin hükümleri gereğince yeniden koruma ve tazmin sigortası yaptırılır ve liman tesisinden ayrılmadan ve Türk karasularını terk etmeden önce poliçelerinin bir suretinin Türkiye'de mukim bir gemi acentesi vasıtasıyla en yakın liman başkanlıklarına talep halinde ulaştırılması sağlanır.
+(3) Bu maddede belirtilen bildirim zorunluluğuna uymayan gemilere, liman başkanlıklarınca yanaşma/demirleme ordinosu ve yola elverişlilik belgesi verilmez.
