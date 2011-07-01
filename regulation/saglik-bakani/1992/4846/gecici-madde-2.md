@@ -1,0 +1,1 @@
+Geçici Madde 2 - 3816 sayılı Kanun'un yürürlüğe girmesinden önce verilmiş bulunan Yeşil Kartların sahiplerine Kanun'un yürürlüğe girmesinden sonra sunulmuş ve henüz bedelleri ödenmemiş olan sağlık hizmetleri de, bu Yönetmelik ile belirlenen esaslara göre fatura edilir ve bedelleri ödenir.

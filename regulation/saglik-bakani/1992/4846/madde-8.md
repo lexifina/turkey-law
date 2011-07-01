@@ -1,0 +1,3 @@
+Başvuruların Kurul'da Görüşülmesinin Usulü
+Madde 8 — Kurullar, Kanun'dan yararlanmak isteyenlerin başvurularını en az ayda bir defa görüşürler.
+Kurullar; taleplerin sağlıklı olarak değerlendirilebilmesi için, Kanun'un 7 nci maddesi uyarınca, Yeşil Kart almak isteyenlerin ve aynı hane halkının durumlarını, sosyal güvenlik kuruluşları, tarım kredi ve satış kooperatifleri, bankalar, kanunla kurulmuş meslek teşekkülleri ve diğer resmi ve Özel kurum ve kuruluşlardan bilgi ve belge isleyerek araştırabilirler. Kurullar, başvuru sahiplerinin ikamet ettikleri köy veya mahallelerin muhtarlarını, kurul toplantılarına çağırarak da gerekli bilgileri alabilirler.

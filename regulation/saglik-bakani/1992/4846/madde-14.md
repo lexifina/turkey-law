@@ -1,0 +1,5 @@
+Yeşil Kart Sağlık Cüzdanı
+Madde 14 —(Değişik:RG-13/6/2003-25137)
+Sağlık cüzdanı 11.4 cm x16.2 cm ebadında karton kapak dışında kendinden kopyalı 50 sayfadan oluşur. Sağlık cüzdanının ön kapağında EK:III-1 Yeşil Kart logosu ön kapak iç yüzünde EK:III-2 vize işlemlerinin yapıldığını gösterir bölümler yer alır.
+Cüzdanın 1-50 nci sayfalarında; EK:III-5 sayfa no, Yeşil Kart sahibine sunulan sağlık hizmeti sırasında sağlık kurum veya kuruluşunun yetkili hekimi tarafından doldurulmak üzere muayenenin tarih ve protokol numarasını, hekimin adı, soyadı ve diploma numarasını, hastanın adı soyadı, sağlık kurumunun adı, tanı, yapılan tetkik ve tedavi, ilaç, protez ve diğer iyileştirme araçları, karar, imza ve mühür, ilaçları alanın adı soyadı ile yapılan tetkik, tedavi ve verilen bütün ilaç, protez ve diğer iyileştirme araçlarının okunaklı olarak yazılmasının gerektiğine dair ibare bulunur.
+13 üncü maddede tarif edilen kart ön kapaktan sonra gelmek üzere sağlık cüzdanı ile birleştirilir ve Yeşil Kart ve Sağlık Cüzdanı’nın bütün sayfalarında 1 den 50 ye kadar olan sayfa numarası ve seri numarası yer alır.

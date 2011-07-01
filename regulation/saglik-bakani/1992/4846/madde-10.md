@@ -1,0 +1,2 @@
+Kurul Kararlarının Sosyal Yardımlaşma ve Dayanışma Vakfına Bildirilmesi
+Madde 10 - Kendilerine Yeşil Kart verilenler ve haklarında alınan kararlar, 3816 sayılı Kanun'un, kapsam dışında kalan sağlık hizmetlerinin ücret ve bedellerinin 3294 sayılı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanunu hükümleri uygulanarak ödenmesine devam edilmesini öngören 11 inci maddesi uyarınca işlem yapılmasına esas olmak üzere, kurullar tarafından mahallin Sosyal Yardımlaşma ve Dayanışma Vakfına bildirirler.

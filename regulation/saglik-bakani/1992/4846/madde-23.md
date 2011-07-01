@@ -1,0 +1,4 @@
+Yersiz ödenen Meblağın Geri Alınması ve Cezai Kovuşturma
+Madde 23 - Yeşil Kartın düzenlenmesine esas alınan hususların gerçeğe uymadığı tespit edildiği takdirde, Yeşil Karta dayanılarak ödenmiş olan meblağ, iki katı olarak genel hükümlere göre sorumlularından (Yeşil Karta ilişkin hizmetlerden yararlananlardan, bunların velilerinden, vasilerinden veya kanunen bakmakla yükümlü bulunan yakınlarından) tahsil edilmek üzere muhakemat veva malmûdürlüklerine bildirilir.
+(Ek Fıkra:RG-22/12/2004 - 25678) Yeşil Kart sahibine verilen tedavi hizmet bedellerini gösteren fatura ve benzeri belgelerin gerçeğe aykırı olarak düzenlenmesi suretiyle fazladan ödemeye sebebiyet verilmesi halinde, fazladan ödenen meblağ, fatura veya belgeyi tanzim edenlerden iki misli olarak geri alınır.
+Gerçeğe uygun olmayan belgeleri düzenleyen ve kullananlar, haklarında genel hükümlere göre ceza kovuşturması yapılmak üzere, cumhuriyet savcılığına bildirilirler.

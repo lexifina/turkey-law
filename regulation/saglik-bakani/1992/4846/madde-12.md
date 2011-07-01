@@ -1,0 +1,2 @@
+Yeşil Kart Uygulaması Kayıt Defteri
+Madde 12 — Yeşil Kart talebinde bulunanların kayıtlarının yapılması için tutulacak olan Yeşil Kart Uygulaması Kayıt Defterinde; başvuru sıra numarası ve tarihi, Yeşil Kart almak üzere başvuran kimselerin soyadı, adı, baba adı, doğum yeri ve yılı nüfus cüzdanının serisi ve numarası, ikametgah adresi, verilmiş ise Yeşil Kartın numarası, Yeşil Kart evrak numarası ve Yeşil Kartın verildiğini belgeleyen imza bulunur. Yeşil Kart verilmeyenlerin son üç hanesine, kırmızı kalem ile "RED" yazılır.
