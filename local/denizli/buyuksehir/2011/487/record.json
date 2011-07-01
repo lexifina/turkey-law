@@ -1,0 +1,23 @@
+{
+  "number": "487",
+  "number_as_published": "487",
+  "year": 2011,
+  "title": "İmar konuları",
+  "decision_date": "2011-07-01",
+  "source": "https://www.denizli.bel.tr/kurumsal/belgeler/meclis-kararlari (form POST yil=2011&ay=07)",
+  "official_document": null,
+  "source_sha256": "9c2b9cc2cf6eb2b36853de743a2624173b52c809831e0f4c8a91d3770b329e4b",
+  "issuer": "Denizli Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2011-07-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01-07-2011; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.denizli.bel.tr/kurumsal/belgeler/meclis-kararlari",
+  "subject_heading": "İmar konuları"
+}
