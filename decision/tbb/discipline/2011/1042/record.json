@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1042",
+  "date": "2011-07-01",
+  "title": "T. 1.07.2011 E. 2011/156 K. 2011/426",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1042",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?yil=2011",
+  "listing_sha256": "0674d687787a3761c9c71cfea8403b735bb9c6d5fad09117272486138ea27536",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
