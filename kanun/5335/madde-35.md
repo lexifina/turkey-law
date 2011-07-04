@@ -1,4 +1,4 @@
-MADDE 35 — Bu Kanunun;
+Madde 35- Bu Kanunun;
 a) 1. 4 üncü maddesinin (e) bendi 23.7.2004,
 2. 21 inci maddesinin (b) bendiyle 4925 sayılı Kanunun 33 üncü maddesine eklenen ikinci fıkranın (1) numaralı bendi 1.1.2003,
 3. 28 inci maddesinin (b) fıkrasının (3) numaralı bendi 15.1.2005,
