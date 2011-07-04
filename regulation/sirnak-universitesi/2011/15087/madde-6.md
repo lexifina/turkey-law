@@ -1,0 +1,2 @@
+Yönetim organları
+MADDE 6 – (1) İşletmenin yönetim organı olan Yönetim Kurulu, Üniversite Yönetim Kuruludur. Yönetim Kurulu, yetkilerini uygun gördüğü ölçüde, kurulacak Yürütme Kuruluna devredebilir. Yürütme Kurulu; Yönetim Kurulunca seçilecek bir rektör yardımcısı, dekan, yüksekokul müdürü ve diğer öğretim üyeleri arasından seçilecek üç öğretim üyesi ve bir muhasebe yetkilisi olmak üzere beş kişiden oluşur.
