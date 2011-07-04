@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-019.01-871",
+  "source_id": 26886,
+  "date": "2011-07-04",
+  "title": "Enflasyon düzeltmesine tabi tutulan demirbaşların satılması sonucunda satış bedeli ile düzeltilmiş değerleri arasındaki fark dolayısıyla ortaya çıkacak zararın kabul edilip edilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26886",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "551e350f119ef19144944f1fa4bbc38b8bfdc8d41eff31df337a2e4d68ab0d96",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
