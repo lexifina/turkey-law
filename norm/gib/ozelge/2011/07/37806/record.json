@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.52.10.00-002-10",
+  "source_id": 37806,
+  "date": "2011-07-06",
+  "title": "5084 sayılı kanunun 7/h bendine göre Gelir Vergisi Stopaj Teşvikinden faydalanan Ana Firmanın alt taşeronunun aynı teşvik kapsamından faydalanıp faydalanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37806",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "e518b4e46a267e1ee681ba1388acae08e8ef7ef995cd98cd424e09180cd3ee41",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
