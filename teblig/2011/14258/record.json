@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.14258",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KIYI YAPI VE TESİSLERİNDE PLÂNLAMA VE UYGULAMA SÜRECİNE İLİŞKİN TEBLİĞ",
+  "number": "14258",
+  "issuer": "Bayındırlık ve İskân Bakanı",
+  "path": "teblig/2011/14258",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14258&MevzuatTertip=5",
+  "source_sha256": "55d2a9b9a2a8f1229904aa75e5710d6f6f18f87b2c6a6d626308fe7e98487a2a",
+  "source_bytes": 70970,
+  "published": "2011-07-06",
+  "gazette": "27986",
+  "in_force": "2011-07-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.07.2011); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3865,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,3 @@
+İstisnalar
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin yürürlüğe girmesiyle 4/9/2010 tarih ve 27692 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren “Kıyı Yapı ve Tesislerinde Plânlama ve Uygulama Sürecine İlişkin Tebliğ” yürürlükten kaldırılmıştır.
+(2) Bu Tebliğ hükümleri, 4/9/2010 tarihinden önce ilgili Bayındırlık ve İskân İl Müdürlüğü’ne veya Bakanlığa gönderilen imar plânı teklifleri ile ihalesi yapılmış olan kamu yatırımlarına ilişkin teklifler hakkında uygulanmaz. 4/9/2010 tarihinden önce Bayındırlık ve İskân İl Müdürlüğü’ne veya Bakanlığa gönderilen imar plânı teklifleri müracaatın yapıldığı tarihteki mevzuata göre, 4/9/2010 tarihinden sonra yapılan müracaatlar ise bu Tebliğ kapsamında değerlendirilir.

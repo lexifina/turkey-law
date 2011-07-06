@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ; kıyı ve sahil şeridinde 4/4/1990 tarihli ve 3621 sayılı Kıyı Kanunu ve ilgili mevzuatı uyarınca yapı ve tesis yapmak için; imar plânı ve uygulama projesi onaylanmasına, kullanma izni veya irtifak hakkı alınmasına, yapı ruhsatına, inşaat ve uygulama safhasına, yapı kullanma izni, yatırım veya işletme belgesi ve işletme-geçici işletme - kısmi işletme izni verilmesine ilişkin iş ve işlemleri ve bu süreçlerdeki bütün kurum ve kuruluşları kapsar.

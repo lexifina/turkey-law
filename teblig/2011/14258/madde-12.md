@@ -1,0 +1,2 @@
+İnşaat ve uygulama
+MADDE 12 – (1) Kıyı yapılarındaki altyapı tesislerine ait onaylı projelerin uygulanması safhasında denetim; sorumluluk yatırımcıya ait olmak üzere, DLHİGM’nce yürütülür. DLHİGM’nce inşaatın tamamlanması ve yatırımcının müracaatı üzerine, yatırımın, onaylı uygulama projesine uygun olarak tamamlandığı, onaylı imar plânına paralel bir vaziyet plânında inşaatı tamamlanan kısımlar işaretlenmek suretiyle, ilgili kurumlara bildirilir.
