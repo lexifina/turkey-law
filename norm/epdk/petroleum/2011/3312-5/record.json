@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "3312/5",
+  "decision_date": "2011-07-06",
+  "title": "Bayilik lisansına kayıtlı Sabit Köy Pompası veya Tarımsal Satış Amaçlı Tankerlerine Otomasyon Sistemi kurulumunun ertelenmesine ilişkin...",
+  "resmi_gazete_date": "2011-07-16",
+  "resmi_gazete_number": "27996",
+  "categories": [
+    "Ulusal Marker/Denetim Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=z5Y8VIvwsG4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=z5Y8VIvwsG4="
+  ],
+  "source_sha256": "191d6987f8b4c332a27a3e37a9cb371b97a9e70af42fee215885ee6eb4a22f3d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5127,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-07-06",
+  "law_text_complete": false
+}
