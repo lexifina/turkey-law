@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-07-06",
+  "issue": "27986",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Radyo ve Televizyon Üst Kurulu Disiplin Amirleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/07/20110706-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/07/20110706.htm",
+  "index_sha256": "2973e376d39577f6723b652494e483cafdd9b59e71bfb9bc784b23b8120a29a7",
+  "index_header": "6 Temmuz 2011 ... 27986 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
