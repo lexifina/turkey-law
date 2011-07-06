@@ -1,0 +1,2 @@
+İşaretleme ve etiketleme
+MADDE 16-(1) Tesisten kaynaklanacak atıkların depolandığı tanklar ve konteynerler, 5/7/2008 tarihli ve 26927 sayılı Resmi Gazetede yayımlanan Atık Yönetiminin Genel Esaslarına İlişkin Yönetmeliğe uygun olarak, içerdiği atıkların kodlarına göre kodlanır ve bu Yönetmeliğe göre atığın tehlikeli özellikleri bu ekipman üzerinde belirtilir. Kodlama ve işaretlemede kullanılacak levhalar üzerindeki ibareler, yirmi metre mesafeden kolaylıkla okunacak şekilde tasarlanır.

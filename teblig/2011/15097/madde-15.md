@@ -1,0 +1,2 @@
+Alev sızdırmazlık
+MADDE 15-(1) Atölye ve atık depolama alanında parlayıcı ve patlayıcı sıvı ve gazlar için kullanılan pompalar, vanalar, fanlar, bağlantı kutuları gibi alevlenme ihtimali bulunan ekipmanlar, 30/12/2006 tarihli ve 26392 sayılı (4 üncü Mükerrer) Resmi Gazetede yayımlanan Muhtemel Patlayıcı Ortamda Kullanılan Teçhizat ve Koruyucu Sistemler ile İlgili Yönetmelikte belirlenen niteliklere uygun olarak seçilir.

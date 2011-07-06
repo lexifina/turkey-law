@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 1- (1) Tebliğin 18 inci maddesinde belirtilen münferit depolar, tebliğin yayımını takip eden onikinci ayın sonuna kadar bu tebliğ şartlarını sağlar.
+(2) 1/1/2011 tarihinden önce hurdaya ayrılmış olan münferit depolarda ve geçici depolama alanlarında bulunan araçlar, tebliğin yayımını takip eden onsekizinci ayın sonuna kadar arındırma ve söküm işlemleri tamamlanarak işleme tesislerine gönderilir.
