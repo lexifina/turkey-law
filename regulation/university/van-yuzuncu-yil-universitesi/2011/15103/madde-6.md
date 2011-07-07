@@ -1,0 +1,23 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Morfolojik çalışmalar ile desteklenecek moleküler teknikler sayesinde arı ırkı ve ekotip tescil standardı geliştirmek ve ekotip tescili yapmak,
+b) Van İli ve çevresi başta olmak üzere Türkiye’deki yerli arı ırkı, ekotip ve hatlarını korumak, uygun alanlarda gen kaynakları koruma bölgeleri oluşturmak ve konuyla ilgili çalışmalar yapmak,
+c) Van İli ve yakın bölgelerinin arı ekotiplerini kullanarak verimli damızlık ana arı üretmek, yöreye uyumsuz arı ırklarını saf olarak kullanmak yerine yerli gen kaynakları ile melezleri üzerinde çalışmak, konuya ilişkin diğer üniversite, kamu kurum ve kuruluşları ile işbirliği yapmak,
+ç) Teknik arı yetiştiriciliği için yeni yöntemler geliştirmek, modern arıcılık yöntemlerinin uygulanması için üreticileri aydınlatmak, üretici koşullarında verimli kaynak kullanımını sağlamak, bu amaçla üreticilere yönelik eğitim faaliyetleri düzenlemek,
+d) Arı hastalık ve zararlıları konusunda üretici sorunlarına çözüm getirecek çalışmalar yapmak, yeni mücadele yöntemleri geliştirmek ve bu mücadelede biyolojik çalışmalar yürütmek,
+e) Arı ürünlerinde kalıntı analizleri yaparak halk sağlığını olumsuz etkileyen kimyasalların kullanımını engelleyecek faaliyetlerde bulunmak,
+f) Başta bal olmak üzere polen, balmumu, propolis, arı sütü ve arı zehiri için yeni üretim metotları geliştirmek, arı ürünlerinin organik/ekolojik tarım yoluyla elde edilmesini sağlamak, yöre insanının arıcılıktan sağladığı geliri artırabilmesi için ürün çeşitliliğine yönelmesine katkıda bulunmak,
+g) Bilimsel çalışmalarla arı ürünlerinin insan sağlığı üzerindeki etkilerine yönelik olarak kamuyu aydınlatmak, arıcılık ürünlerine ilişkin doğru bilgilenmelerini sağlamak, arı ürünleri tüketimini artıracak yayım faaliyetlerinde bulunmak,
+ğ) Arı ürünleri bileşimlerine ve standartlarına ilişkin laboratuarlar oluşturarak analizlerinde bölgesel ve ulusal alanda referans merkezi görevi üstlenmek,
+h) Yörenin arıcılık açısından bitki örtüsü zenginliğini ortaya çıkaracak floristik çalışmalar yürütmek, çiçeklenme dönemlerinin de ortaya koyulmasıyla uygun arılık alanları belirlemek, biyolojik çeşitlilik ve ekolojik dengenin korunmasını sağlamak,
+ı) Arıcılıkta verimliliği artırmak ve var olan kaynaklardan en üst düzeyde yararlanmak amacıyla gezginci arıcılık faaliyetlerini kontrol altına alacak programlar geliştirmek,
+i) Başta yöre olmak üzere çeşitli ekolojik koşullara uygun kışlatma ve koloni idaresine yönelik çalışmalar yürütmek, farklı iklim koşulları için uygun kovan ve arıcılık malzemeleri araştırma-geliştirme ve üretim çalışmaları yapmak,
+j) Tüm arıcılık faaliyetlerine ilişkin bilimsel araştırma, geliştirme, inceleme ve yayım faaliyetlerinde bulunmak, bu amaçla periyodik yayınlar çıkarmak, diğer kurum ve kuruluşlarca yürütülecek faaliyetlere destek vermek,
+k) Üniversite ve üreticiler arasındaki ilişkiyi güçlendirmek ve üreticilerin karşılaştıkları sorunların çözümüne katkıda bulunacak ulusal ve uluslar arası bilimsel toplantılar düzenlemek, düzenlenen toplantılara katılmak, yerli ve yabancı araştırıcılar ile üreticileri buluşturmak,
+l) Arıcılık alanındaki yenilikleri üreticilere aktarmak; gerek arıcılıkla uğraşanların, gerekse ilgili sivil toplum kuruluşları ve özel sektörün isteği doğrultusunda periyodik aralıklarla kurs ve eğitim faaliyetleri düzenlemek,
+m) Araştırma faaliyetleri sonucunda elde edilen sonuçları ulusal ve uluslararası platformlarda yayınlamak, arıcılığa yönelik ulusal ve uluslararası yayınları toplayarak bir arıcılık kütüphanesi kurmak,
+n) Bitkisel üretimde arıcılığın önemini ortaya koyarak özellikle meyve üreticilerinin çiçeklenme dönemlerinde polinasyon faaliyetlerine ağırlık vermelerini sağlamak, seracılık faaliyetlerinde kullanımı yaygınlaşan diğer polinatör arılara yönelik araştırma ve üretim faaliyetlerinde bulunmak,
+o) Saha çalışmaları sonucunda elde edilecek üretim farklılıklarını ve arıcılığın gelişim sürecini ortaya koyabilecek bir arıcılık müzesi oluşturmak, her yıl düzenlenecek festivallerle kaliteli üretimi teşvik etmek, üreticileri tüketicilerle buluşturmak,
+ö) Ulusal ve uluslararası fonlardan yararlanmak için projeler hazırlamak ve mevcut projelere ortak olmak suretiyle yöre ve ülke arıcılığının geliştirilmesine katkıda bulunmak,
+p) Merkezin amaçları ve faaliyet alanları doğrultusunda yürütülecek çalışmalarla yöresel, ulusal ve uluslararası alanda arıcılığın geliştirilmesine katkıda bulunmak,
+r) Merkezin amacı doğrultusunda diğer faaliyetlerde bulunmak.
