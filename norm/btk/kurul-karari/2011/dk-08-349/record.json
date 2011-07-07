@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2011/DK-08/349",
+  "date": "2011-07-07",
+  "title": "STH Denetimi",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2011-07-07",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=165",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/cb4164aa-7256-460d-83dd-4924fdcb67ff.pdf",
+  "source_sha256": "055a7caafb1d28ab9c739630a7e7ef455f61f228fc6de589f9d759262d5338d0",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2011-07-07",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 07.07.2011; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
