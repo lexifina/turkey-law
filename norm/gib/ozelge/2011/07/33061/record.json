@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.32.10.00-08-2",
+  "source_id": 33061,
+  "date": "2011-07-08",
+  "title": "Kullanma Suyu Satışı ile Atıksu Arıtım Hizmetinde Uygulanacak KDV Oranı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33061",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "7d8d8859103b25b0f34d5946428c6725756c76030d72dc462a607c52ee4f3770",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
