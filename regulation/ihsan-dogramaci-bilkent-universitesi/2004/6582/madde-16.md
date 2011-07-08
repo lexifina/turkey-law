@@ -1,0 +1,4 @@
+Araştırma ve Geliştirme Projeleri ve Danışmanlık Hizmetleri
+Madde 16 —Üniversite öğretim elemanlarının ve yöneticilerinin girişimleriyle elde edilecek araştırma ve geliştirme projeleri, "Proje Değerlendirme Komitesi"nce incelenir, değerlendirilir ve karara bağlanır. Değerlendirme yapılırken, projenin, Üniversite’nin eğitim ve araştırmalarına üst düzeyde katkısı, Üniversite’ye sağlayacağı gelir ve diğer hususlar göz önünde bulundurulur.
+Tam zamanlı öğretim üyelerinin Üniversite içinde veya dışında danışmanlık yapmaları "Proje Değerlendirme Komitesi"nin iznine bağlıdır.
+Üniversitede görevli tam zamanlı personelin projelerden veya danışmanlık hizmetlerinden elde edilecek gelirlerden ne ölçüde yararlandırılacakları (telif hakları dahil) ile ilgili esaslar, Mütevelli Heyet tarafından tespit edilen ilkeler doğrultusunda, Akademik İşlerden Sorumlu Rektör Yardımcısı ve Rektör’ün birlikte önerileri de göz önünde tutularak Başkan tarafından karara bağlanır.

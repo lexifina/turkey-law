@@ -1,0 +1,2 @@
+Bölüm Başkanlığı
+Madde 14 —Dekan, görevlendireceği bir komite aracılığıyla Bölüm Başkanlığı için adayları tespit eder, tercihini onaylamak üzere Rektörlüğe bildirir. Bölüm Başkanlarının görev süresi üç yıldır. Süresi sona eren Bölüm Başkanının her seferinde üç yıl olmak üzere yeniden atanması mümkündür. Süresinin bitimine üç ay kala, ilgiliye aksi bildirilmediği takdirde görev süresi her defasında bir yıl uzatılmış sayılır.
