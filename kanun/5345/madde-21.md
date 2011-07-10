@@ -1,5 +1,5 @@
 İnsan Kaynakları Daire Başkanlığı
-MADDE 21- İnsan Kaynakları Daire Başkanlığının görevleri şunlardır:
+Madde 21- İnsan Kaynakları Daire Başkanlığının görevleri şunlardır:
 a) Başkanlığın fonksiyonlarının gerektirdiği yetkinlikleri tanımlamak, bu yetkinliklere uygun insan gücü politikası ve planlaması konusunda çalışmalar yapmak ve önerilerde bulunmak.
 b) Başkanlığın her seviyede çalışanının kariyer ve eğitim planlarını hazırlamak, uygulamak ve değerlendirmek.
 c) Performans değerlendirmelerini koordine etmek.

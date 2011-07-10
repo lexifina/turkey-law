@@ -1,5 +1,5 @@
 Tahsilat ve İhtilaflı İşler Daire Başkanlığı
-MADDE 12- Tahsilat ve İhtilaflı İşler Daire Başkanlığının görevleri şunlardır:
+Madde 12- Tahsilat ve İhtilaflı İşler Daire Başkanlığının görevleri şunlardır:
 a) Amme alacaklarının süresinde ve kanunlara uygun bir şekilde tahsili için gerekli tedbirleri almak ve uygulanmasını sağlamak.
 b) 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun uygulanması ve sorunların çözümü konusunda mükelleflere ve ilgili birimlere görüş bildirmek.
 c) İhtilaflı konuları analiz ederek mükelleflerle anlaşmazlıkları en aza indirecek tedbirler almak.

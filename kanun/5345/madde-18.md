@@ -1,9 +1,10 @@
 Hukuk Müşavirliği
-MADDE 18- Hukuk Müşavirliğinin görevleri şunlardır:
+Madde 18- Hukuk Müşavirliğinin görevleri şunlardır:
 a) Başkan, Başkanlık birimleri ve bakanlıklar tarafından gönderilen kanun, tüzük ve yönetmelik tasarı ve taslakları ile diğer hukuki konular hakkında görüş bildirmek.
 b) Başkanlığın menfaatlerini koruyucu ve anlaşmazlıkları önleyici hukuki tedbirleri zamanında almak, anlaşma ve sözleşmelerin bu esaslara uygun olarak yapılmasına yardımcı olmak.
 c) (Değişik: 23/7/2010-6009/41 md.) 8/1/1943 tarihli ve 4353 sayılı Kanun hükümlerine göre adli davalarda gerekli bilgileri hazırlamak, Başkanlık merkez ve taşra birimlerinin veya Başkanlığın görev alanıyla ilgili işlemlerden dolayı Bakanlığın taraf bulunduğu idari yargı mercilerindeki davaları avukat sıfatını haiz hukuk müşavirleri ve avukatları vasıtasıyla ait olduğu makam ve mercilerde ikame, takip ve müdafaa ettirmek, Başkanlıkça hizmet satın alma yoluyla takip ve müdafaa ettirilen davaları takip ve koordine etmek.
 d) Başkan tarafından verilecek diğer görevleri yapmak.
+9374
 (Ek fıkra: 23/7/2010-6009/41 md.) İdari yargı mercilerindeki davaları ikame, takip ve müdafaa görev ve yetkisi, ilgisine göre daire amiri, avukat sıfatını haiz hukuk müşavirleri ve avukatlar tarafından kullanılır.
 (Ek fıkra: 23/7/2010-6009/41 md.) Hukuk müşavirlerinin temsil yetkisi, Başkanlık merkez ve taşra birimleri ile Başkanlığın görev alanı ile ilgili işlemlerden dolayı Bakanlık husumetiyle açılan bütün dava takiplerini, avukatların temsil yetkisi ise atandıkları veya görevlendirildikleri iller ile bu illerle ilişkilendirilen yerlerdeki dava takiplerini kapsar.
 (Ek fıkra: 23/7/2010-6009/41 md.) Davalarda temsil yetkisi bulunan hukuk müşavirleri ve avukatların bir listesi merkezde Başkanlık, diğer yerlerde vergi dairesi başkanlıklarınca o yerin bölge idare mahkemesi başkanlığına verilir. Bu listelerin birer nüshası, mahkeme başkanlığınca yargı çevresinde bulunan mahkemelere gönderilir. Danıştaydaki duruşmalarda temsil yetkisini kullanacakların isimleri ayrıca Danıştay Başsavcılığına bildirilir. Listede isimleri yer alan hukuk müşavirleri ve avukatlar, Baroya kayıt ve vekâletname ibrazı gerekmeksizin temsil yetkilerini kullanırlar. Temsil yetkisi sona erenlerin isimleri yukarıda yazılı mercilere derhal bildirilir.

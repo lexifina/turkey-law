@@ -1,5 +1,5 @@
 Tanımlar
-MADDE 2- Bu Kanunda geçen;
+Madde 2- Bu Kanunda geçen;
 a) Bakanlık: Maliye Bakanlığını,
 b) Bakan: Maliye Bakanını,
 c) Başkanlık: Gelir İdaresi Başkanlığını,
