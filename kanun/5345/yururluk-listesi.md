@@ -7,3 +7,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5615 | 4, 24, 33 | 4/4/2007
 5838 | 11, 18, 24, 29 | 28/2/2009
 6009 | 6, 8, 9, 13, 14, 18, 28, 29 | 1/8/2010
+KHK/646 | 4, 8, 13, 14, 28, 29, 31 ve (1) sayılı cetvel | 10/7/2011
