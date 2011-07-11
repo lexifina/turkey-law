@@ -36,3 +36,4 @@ Kadro Derecesi 6 ve Diğerleri | 959,00 | 1498,00
 Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Değiştiren Kanun Resmi Gazete Tarihi | Anayasa Mahkemesi Karar Tarih/No. | 5737 sayılı Kanunun değiştirilen maddeleri
 5917 | 1/7/2009 | 10/7/2009 |  | (III) Sayılı Cetvel
 6111 | 25/2/2011 | 25/2/2011 |  | 7, Geçici Madde 10
+ | 11/7/2011 | 11/1/2011 | 17/6/2010 tarihli ve E.: 2008/22, K.: 2010/82 sayılı Karar | 68
