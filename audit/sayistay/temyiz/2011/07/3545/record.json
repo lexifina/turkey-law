@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "33519",
+  "decision_date": "2011-07-12",
+  "source_id": 3545,
+  "chamber": "1",
+  "file_number": "32987",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/3545/",
+  "source_sha256": "9c7cd5876aed66d6c7a342ba76c528515b4b3a7ff95abfcf2420cff6679e027d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
