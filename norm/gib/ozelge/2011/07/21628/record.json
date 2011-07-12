@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-GVK-31-2-509",
+  "source_id": 21628,
+  "date": "2011-07-12",
+  "title": "Sakatlık İndiriminin kıst dönem maaşlara uygulanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21628",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "4f5f3144fd5e79f98913f2ea1e3bf1e621ac40bddf3c29b315cf0e64efc302f5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
