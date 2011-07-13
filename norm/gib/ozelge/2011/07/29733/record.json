@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.53.10.00-KDV-168-9",
+  "source_id": 29733,
+  "date": "2011-07-13",
+  "title": "Katma Değer Vergisi İstisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29733",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "40af3dadf9d816ac22a779aa0668b1a6d20efa5f23de76efee1f1569c0ad01d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
