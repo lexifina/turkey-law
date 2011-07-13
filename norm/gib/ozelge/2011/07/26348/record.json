@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-KDV-20-876-69",
+  "source_id": 26348,
+  "date": "2011-07-13",
+  "title": "Kullanılmış daire alışlarında düzenlenen gider pusulasında KDV hesaplanıp hesaplanmayacağı,net kullanım alanı 150 m² nin altındaki dairelerin satışında KDV oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/26348",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "ef0cf2b0c90278d99dc57a5e8b61df8c325f81de34071f79bd2ea5e5b72bdea8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
