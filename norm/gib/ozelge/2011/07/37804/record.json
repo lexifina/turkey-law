@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-GVK 94-955",
+  "source_id": 37804,
+  "date": "2011-07-13",
+  "title": "5084 sayılı Kanun kapsamında, gelir vergisi stopajı teşviğinden ne zamana kadar ve hangi illerde yararlanılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37804",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "7bc3c625ab93d142a79884c5b9b6a428e692961e03b5eed9446261c0c07c7a62",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
