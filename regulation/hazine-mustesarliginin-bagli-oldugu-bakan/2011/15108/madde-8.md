@@ -1,0 +1,2 @@
+Büro tarafından akdedilen anlaşmaların asgari içeriği
+MADDE 8 – (1) Büro tarafından bu Yönetmelik çerçevesinde akdedilen anlaşmalarda karşılıklı olarak sigorta yükümlülüğünün kaldırılması, tazminat ödemelerinin garanti altına alınması, hasar tedvir ve tasfiyesi, tazminat bedellerinin transferi ve bu bağlamda tazminat bedellerinin serbest transfer edilebilirliğini tevsik eden ilgili kurumların taahhütleri ve gerekli görülen diğer hususlar yer alır.
