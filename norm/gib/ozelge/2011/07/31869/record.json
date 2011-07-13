@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-KDV-20-902-62",
+  "source_id": 31869,
+  "date": "2011-07-13",
+  "title": "Serbest bölgede faaliyet gösteren firmalara, giriş izin belgesine istinaden verilen muhasebe ve müşavirlik hizmetlerinin KDV'ye tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31869",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "7db4b1268348135c94df27f942385cb0a5b89ffdbfee7bc5852bedaea2bd900b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
