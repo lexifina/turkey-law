@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.55.15.01-2010-KVK-ÖZE-08-312",
+  "source_id": 27672,
+  "date": "2011-07-13",
+  "title": "Personel misafirlerinin konaklaması halinde konukevinin KVK ve KDV mükellefiyeti, üniversiteye yapılacak bağışta indirim tutarı ve mal ve hizmet alımlarında damga vergisi kesintisi yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27672",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "6d9d45b000009c9183860a60b88e7780d18186e91b16b70716d82f6f017bfb53",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
