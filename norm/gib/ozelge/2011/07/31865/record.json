@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-1-2010-14017-31-525",
+  "source_id": 31865,
+  "date": "2011-07-13",
+  "title": "İşitme cihazlarına ilişkin yedek parçaların tesliminde ve bakım onarımında Kdv Oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31865",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "1394fb08b72cfa5b12dd72e766bd8fa7abb810eb721ac3b2956bf2bce8c69d48",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
