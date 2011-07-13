@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-GVK 61-959",
+  "source_id": 23442,
+  "date": "2011-07-13",
+  "title": "Ar-Ge personeli olarak emekli olduktan sonra yeniden Ar-Ge de çalışılması halinde 5746 sayılı kanun kapsamında gelir vergisi stopajı ve damga vergisi teşviğinden faydalanıp faydalanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/23442",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "bb42cf7482f89b5558128755197acad7048c5e3b0c2bb3559536643ca8921880",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
