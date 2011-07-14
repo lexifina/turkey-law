@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.02-ÖKC-2011/1-201",
+  "source_id": 36621,
+  "date": "2011-07-14",
+  "title": "Limited'den Anonim Şirkete dönüşen Şirkette bulunan ödeme kaydedici cihazın mali hafızasının değişip değişmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36621",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "8f5ccbfb5447d0d25c2417e204c4617ebb88d08f480d99e8ca49a338c061c06d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
