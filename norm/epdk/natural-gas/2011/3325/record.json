@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3325",
+  "decision_date": "2011-07-14",
+  "title": "Egegaz ve BLNG KUE'si Başvuru Ötelemesi",
+  "resmi_gazete_date": "2011-07-24",
+  "resmi_gazete_number": "28004",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Scz19X89M/0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Scz19X89M/0="
+  ],
+  "source_sha256": "e13ee41bf59903c35ac9db006aa8f4476fe5d93ee19732b42d2bd0af9a618cc3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-07-14",
+  "law_text_complete": false
+}
