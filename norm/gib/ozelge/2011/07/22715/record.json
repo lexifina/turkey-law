@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-KVK-2011/4-82",
+  "source_id": 22715,
+  "date": "2011-07-14",
+  "title": "İş kazası geçiren çalışana mahkeme kararı olmadan ödenen tazminat hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22715",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "6b282681d24e570b86d0142cd53a73c754116cbf70457f680ddb4991009c1ae3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
