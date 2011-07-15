@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-019.01-1000",
+  "source_id": 25838,
+  "date": "2011-07-15",
+  "title": "Çağrı merkezi yoluyla belirli bir bedel karşılığında anlaşma yapılan hastanelerden checkup hizmeti almaları için yönlendirilmede uygulanacak KDV oranı ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25838",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "bc207811e2c50dbdf3c338d5909ffd784f7346a7d738ba47451adad5a1e55d75",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
