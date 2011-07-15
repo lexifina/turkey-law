@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-019.01-995",
+  "source_id": 26277,
+  "date": "2011-07-15",
+  "title": "Kooperatifin ortak giderlerini karşılamak üzere işyeri sahipleri ve kiracılardan tahsil edilen aidatlar hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26277",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "4da9cc73ca2e6743b6d9c2b3b091d18727dd25e4ba014c26bc650bbaf223c9d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
