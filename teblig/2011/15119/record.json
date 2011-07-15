@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.15119",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2011/17)",
+  "number": "15119",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2011/15119",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15119&MevzuatTertip=5",
+  "source_sha256": "22513c4d8384ae338aa6c6e50abf85bd464a382dfa35fa4d3bf2096800f6323d",
+  "source_bytes": 16582,
+  "published": "2011-07-15",
+  "gazette": "27995",
+  "in_force": "2011-07-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.07.2011); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 747,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
