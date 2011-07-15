@@ -1,0 +1,66 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2011/28",
+  "date": "2011-07-15",
+  "title": "SPK Haftalık Bülteni 2011/28",
+  "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_28.pdf",
+  "source_sha256": "1bd49f80be9d8cdf31226aaefe08ae222cca8d9aa1cb34e6f19db5c9f1efbf42",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "E. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 03.01.2011 – 15.07.2011 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_28.pdf"
+    },
+    {
+      "heading": "B. 11.07.2011 – 15.07.2011 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_28.pdf"
+    },
+    {
+      "heading": "C. 11.07.2011 – 15.07.2011 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_28.pdf"
+    },
+    {
+      "heading": "D. DUYURU",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_28.pdf"
+    },
+    {
+      "heading": "E. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_28.pdf"
+    },
+    {
+      "heading": "F. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_28.pdf"
+    },
+    {
+      "heading": "G. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_28.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
