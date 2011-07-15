@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.33.15.01-2010-701-59-33",
+  "source_id": 21050,
+  "date": "2011-07-15",
+  "title": "İkinci el araç alım satım faaliyetlerinin VUK ve KDV karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21050",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "373ff373f3f728fa1e80ed5d091c7c1e1d96c6336757cdcf80c1293289643943",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
