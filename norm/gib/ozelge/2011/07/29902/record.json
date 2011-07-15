@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.54.15.01-124-2010-29-21",
+  "source_id": 29902,
+  "date": "2011-07-15",
+  "title": "Özel sürücü kursu faaliyetinde, Kasım 2010 ayında başlayan kurs hizmetinin Ocak 2011 ayında direksiyon sınavıyla tamamlanması halinde faturanın ne zaman düzenlenmesi gerektiği ve vergiyi doğuran olayın ne zaman gerçekleştiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/29902",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "3305de1187e2d20225acb17f083b73da352167dea93d35ec4326053332868625",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
