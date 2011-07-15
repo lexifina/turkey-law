@@ -1,0 +1,28 @@
+SMMH’nin Yapılmasında Uyulacak Kurallar
+Madde 10- SMMH’nin yapılmasında uygulanacak kurallar aşağıda belirtilmiştir.
+a) SMM Bürosu bu Yönetmelik çerçevesinde SMMH yaptırmak isteyen bir İSVEREN ile (varsa ODA tarafından hazırlanmış örneğe uygun) sözleşme imzalamak zorundadır.
+b) SMM Bürosu, İSVEREN ile yaptığı sözleşmeyi istenildiğinde ODA’ya onaylatarak bir örneğini vermek zorundadır. SMMH’nin ayrı yıllarda yapılması durumunda uygulanacak asgari ücretin saptanmasında, sözleşmenin ODA’dan onay tarihi geçerlidir.
+c) İŞVEREN, SMMH’nin durumuna göre birden fazla SMM Bürosu ile sözleşme yapabilir. Ancak sözleşmelerde buna ilişkin hükümler yer almalıdır.
+Bir sözleşme ile İŞVEREN tarafından SMM Bürosuna verilmiş SMMH’nin bazı bölümleri başka SMM Bürosuna veya Bürolarına verilirse ilk sözleşme yapan SMM Bürosunun hakkı saklıdır.
+İlk sözleşmenin saptanmasında sözleşme noterden yapılmışsa, noterden onay tarihi, aksi durumlarda ODA’dan onay tarihi geçerlidir.
+d) SMMH’nin tümünden veya bir bölümünden vazgeçilir veya belirsiz bir süreye ertelenir veya mücbir nedenlerle, SMM Bürosu ile İŞVEREN arasında sözleşme bozulursa, o ana dek yapılan SMMH’ye orantılı olarak ücret ve yapılan diğer masraflar ödenir. SMMH’nin bir bölümünün yeniden yapılmasına ve tadil edilmesine karar verilmesi durumunda, SMMH, ilk sözleşme yapılan SMM Bürosu tarafından yapılır veya o SMMH’nin başka bir SMM Bürosu tarafından yapılması için ilk sözleşme yapılan SMM Bürosunun onayı gereklidir. Ancak tümüyle yeniden yapılması halinde bu koşul aranmaz.
+e) SMMH’nin yapılmasında, sözleşmeye aykırı işler ve işlemler yapılması durumunda karşı taraf bu davranışlarda bulunan tarafa noter aracılığıyla belirli bir süreli bildirim yapar. Bu süre, işin yapılmasına yeterli olmalıdır. Bu süre içinde, bildirimde ileri sürülen hususlar düzeltilmez ve yerine getirilmezse, sözleşmeyi tek yanlı bozma hakkı doğar. Bu sıra düzeni izlenmeden İŞVEREN tarafından bozulan sözleşme konusu SMMH, başka bir SMM bürosuna yaptırılamaz.
+f) Herhangi bir nedenle SMMH’yi yapan SMM Bürosunun değişmesi durumunda onun yerini alan SMM Bürosuna, o güne değin yapılmış olan SMMH saptanarak, tüm teknik uygulama sorumluluğu (fenni mesuliyet) ile birlikte devredilir. Bu durum sözleşmede belirtilir. Bir SMMH yapımı sürerken SMM Bürosunda SMM değişmesi durumunda da gerekli ise İŞVEREN’le sözleşme yenilenir.
+g) İŞVEREN, sözleşme konusu SMMH için, SMM Bürosu tarafından hazırlanan proje, plan vb. dökümanları sözleşmede yer alan amaçlar dışında kullanamaz ve bunların ticaretini yapamaz.
+Ancak TMMOB ve Oda Yönetmeliklerine aykırı olmamak koşuluyla, sözleşmede yer alan özel hükümler saklıdır.
+h) SMM Bürosu, İŞVEREN tarafından verilen belgelerin gizliliğine uymak zorundadır.
+i) SMM Bürosu sözleşme konusu SMMH için, SMM Bürosu tarafından hazırlanan proje, plan ve dökümanları İŞVEREN istediği zaman bu isteğe uymak zorundadır. Ancak ücreti ve sözleşmede belirtilen yapmış olduğu diğer giderler tamamen ödenmedikçe SMM Bürosu bu zorunluluğa uymakla yükümlü değildir.
+j) SMM Bürosu, SMMH için verilen evrak, belgeler ile hazırladığı dökümanları isin sona ermesinden sonra iki yıl süre ile saklamak zorundadır. SMM Bürosu bunlardan İŞVEREN’e verilecek olanları, noter aracılığıyla yazı ile bildirerek, almasını önerir. İŞVEREN bunları almadığı taktirde, saklama zorunluluğu, bildirim tarihinden itibaren üç ay içinde sona erer.
+k) SMM Bürosu, proje ve teknik uygulama sorumluluğu (fenni mesuliyet)içinde) için gerekli belgelerin bir örneğini alıkoyacaktır. Yaptığı SMMH ile ilgili herhangi yetkili bir makamın talebi üzerine, bu belgeleri ortaya koyacaktır..
+l) SMM Bürosu;
+1) Önerilen SMMH’de, SMM Bürosu veya SMM Bürolarında çalışan SMM’ler önceden teknik uygulama sorumlusu (fenni mesul) kontrolör veya benzeri gibi katkıda bulunan çalışmalar yapmışsa ve bundan dolayı bir sakınca görüyorsa,
+2) İŞVEREN, SMM Bürosuna veya SMM Bürosunda çalışan SMM’lere karsı bir suç islemiş veya mahkemeye intikal etmiş bir ihtilafa düşmüşse,
+3) İŞVEREN ile SMM Bürosunda çalışan SMM’ler arasında yakın akrabalıktan dolayı bir sakınca görüyorsa,
+4) Herhangi bir gerekçe göstermeden SMMH’yi yapmak istemiyorsa,
+İŞVEREN’in önerisini reddedebilir. Ancak SMM Bürosu, İŞVEREN’in öngördüğü süre içinde bu durumu İŞVEREN’e bildirmekle yükümlüdür.
+Gördüreceği SMMH en az iki SMM Bürosu tarafından red olunan İŞVEREN kendisine SMM Bürosu bulunmasını ODA’dan isteyebilir.
+m) SMM Bürosu, yapılması önerilen SMMH’ni;
+1) Usule aykırı, yanlış, teknik ve bilimle bağdaşmaz olduğunu görür veya bu kanıya varırsa,
+2) Bu Yönetmeliğe veya mesleki dayanışma ve gereklerine aykırı buluyorsa, İŞVEREN’in önerisini reddetmek zorundadır.
+n) İmar Kanunu uyarınca teknik uygulama sorumluluğunu (fenni mesuliyet) üzerilerine alan SMM Büroları veya çalışan SMM’ler uygulamayı ruhsat ve eklerine, teknik kurallara uygun yaptırmakla, İŞVEREN’in ruhsatıyla ve ekleri ile teknik kurallara aykırı yaptırdığı uygulamaları da 15 gün içinde yazı ile Belediye’ye ve ODA’ya bildirmekle yükümlüdürler. (Ek cümle:RG-7/6/2009-27251) Çalışan SMM’ler üzerlerinde bulunan Teknik Uygulama Sorumluluklarını (TUS) bir başka SMM’e devretmeden ya da sorumluluklarını yerine getirmeden görevinden ayrılamaz.
+o) SMM Bürosu ile İŞVEREN arasında yapılmakta olan SMMH’dan dolayı çıkacak anlaşmazlıklar, taraflar arasında çözümlenmediği taktirde, taraflardan birinin isteği üzerine anlaşmazlık konusu ODA’nın atayacağı hakem tarafından çözümlenir. Hakem ücreti, TMMOB Bilirkişilik, Ekspertizlik Hakemlik ve Teknik Müşavirlik Yönetmeliğine göre talep sahibi tarafından ODA’ya peşinen ödenir. SMM Bürosu, bu durumda ODA’nın vereceği karara uymakla yükümlüdür.

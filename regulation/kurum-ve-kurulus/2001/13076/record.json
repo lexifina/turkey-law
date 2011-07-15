@@ -1,0 +1,44 @@
+{
+  "source_id": "7.5.13076",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ MAKİNA MÜHENDİSLERİ ODASI SERBEST MÜŞAVİRLİK MÜHENDİSLİK BÜROLARI TESCİL VE MESLEKİ DENETİM YÖNETMELİĞİ",
+  "number": "13076",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2001/13076",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13076&MevzuatTertip=5",
+  "source_sha256": "5cf2b2f6597d2a0f9c5052dd48b765b07091ab3c956c4872e18c5056b4ef0b22",
+  "source_bytes": 76427,
+  "published": "2001-11-22",
+  "gazette": "24591",
+  "in_force": "2011-07-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/7/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-07-15",
+      "RG-15/7/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-06-07",
+      "RG-7/6/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-09-03",
+      "RG-3/9/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4984,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Kapsam
+Madde 2- Bu Yönetmelik, TMMOB Makine Mühendisleri Odası Serbest Mühendislik ve Müşavirlik Hizmetleri ve Asgari Ücretleri Yönetmeliğinde belirtilen makine mühendisliği hizmetleri üreten kişi veya kuruluşlara büro tescil belgesi verilmesi, tescil belgesi verilen serbest müşavirlik ve mühendislik bürolarının hak ve sorumlulukları ile büroların mesleki etkinliklerinin denetim kurallarını, serbest müşavirlik ve mühendislik hizmetlerinin yapılmasında uyulacak kuralları ve cezai yaptırımları ve uygulamalarını kapsar.
