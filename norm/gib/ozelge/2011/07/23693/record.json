@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-019.01-987",
+  "source_id": 23693,
+  "date": "2011-07-15",
+  "title": "Seyahat acenteleri tarafından turist rehberlerine yapılan ödemelerin vergilendirilmesi ve kullanılacak belgeler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/23693",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "ba2849d2911600495b377119193b8374c645dd928cec8060088596c13f0e11bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
