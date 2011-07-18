@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-019.01-1003",
+  "source_id": 27504,
+  "date": "2011-07-18",
+  "title": "Derneğin iktisadi işletme olarak limited şirket kurup kuramayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27504",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "0ac6b22916bf8197ae18819a6c0d4b7fc82dd484675023daae94dadf6ec531e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
