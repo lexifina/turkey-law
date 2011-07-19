@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.01-KV-10-37-142",
+  "source_id": 22238,
+  "date": "2011-07-19",
+  "title": "İstimlak edilen gayrimenkulden elde edilen kazancın, istisna kapsamına girmeyen kısmının ne hangi tarihte beyan edileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22238",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "01dbd36dacb0496241c534fe920c938a4cb506541ccfaf5ee29fe1f4d2edc687",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
