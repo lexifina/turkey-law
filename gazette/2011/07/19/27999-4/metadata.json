@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-07-19",
+  "issue": "27999",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasında Kurum Katkısına İlişkin Usul ve Esaslara Dair Tebliğ ile Yayımlanan Tarife ve Talimat ile Genel Şartlar’da Değişiklik Yapılmasına İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/07/20110719-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/07/20110719.htm",
+  "index_sha256": "a0c07a9aa8fcd1cbe5fb943ca31b705795c02a5021e39b30cde0a3b499b6d028",
+  "index_header": "19 Temmuz 2011 ... 27999 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
