@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-07-20",
+  "issue": "28000",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Standardları Enstitüsü Tarafından Uygunluk Değerlendirmesi Yapılan Ürünlerin İthalatına Dair Dış Ticarette Standardizasyon Tebliğinde Değişiklik Yapılması Hakkında Tebliğ (No: 2011/44)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/07/20110720-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/07/20110720.htm",
+  "index_sha256": "1cc35fc169880a68b875c9b1b03b1e9a9edc58a0920874ec0c43ffa4b7685c3b",
+  "index_header": "20 Temmuz 2011 ... 28000 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
