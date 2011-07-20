@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-2:2010-14011-17-573",
+  "source_id": 31049,
+  "date": "2011-07-20",
+  "title": "İhraç edilen mala ilişkin navlun ve sigorta gibi ödemelerin daha sonra alıcıya yansıtılmasında ve vade farkında KDV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31049",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "1ad2171aeedf9052ae57e1e7398fd2fb1cb8d64e43fba38eaa6784adaa75bc4d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
