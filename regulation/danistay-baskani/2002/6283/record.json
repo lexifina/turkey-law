@@ -1,0 +1,45 @@
+{
+  "source_id": "7.5.6283",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YURT DIŞINA GÖNDERİLECEK DANIŞTAY MESLEK MENSUPLARININ SEÇİMLERİ İLE DİĞER ESASLARIN BELİRLENMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "6283",
+  "issuer": "Danıştay Başkanı",
+  "issuer_slug": "danistay-baskani",
+  "path": "regulation/danistay-baskani/2002/6283",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6283&MevzuatTertip=5",
+  "source_sha256": "1da2cd9e6c1adf2faa20fa315e5c9de1a3721b0f3e0662beb279f38a404f5aae",
+  "source_bytes": 21888,
+  "published": "2002-01-31",
+  "gazette": "24657",
+  "in_force": "2011-07-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/7/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-07-20",
+      "RG-20/7/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-01-04",
+      "RG-4/1/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-01-04",
+      "RG 4/1/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 657,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

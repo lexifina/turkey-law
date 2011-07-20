@@ -1,0 +1,6 @@
+Seçimde uygulanacak esaslar
+Madde 10- Seçim, Danıştay üyeliğine seçilme tarihinden sonra bilimsel araştırmalarda veya mesleki incelemelerde bulunmak üzere yabancı ülkelere gönderilmemiş olanlar arasından, kıdemli meslek mensuplarından başlanarak yapılır. Meslek mensuplarının tümünün gönderilmiş olması durumunda ise, en az gidenler arasından aynı esasa göre seçilenler gönderilir.
+Kıdemin tespitinde, Danıştay üyeliğine seçilme tarihi esas alınır. Aynı tarihte seçilenlerden doğum tarihi eski olan kıdemli sayılır.
+(Değişik:RG-4/1/2005-25690) (Değişik cümle:RG-20/7/2011-28000) Son gönderilme tarihinden itibaren iki tam yıl geçmedikçe, meslek mensupları bu madde uygulamasından yararlanamazlar. Ancak, yeterli sayıda istekli bulunmaması halinde iki yıl şartı aranmaz.
+(Ek: RG 4/1/2005-25690) Ayrıca,Başkanlar Kurulu, her yurt dışına gönderilmelerde en fazla iki kişiyi, mesleki incelemenin amacı, hizmet gerekleri ve meslek mensuplarının durumlarını dikkate alarak yukarıdaki hükümlere bağlı olmaksızın tespit edebilir.
+Geçici Madde — (Ek:RG-4/1/2005-25690) Bu Yönetmeliğin yayımlandığı tarih itibarıyla mesleki inceleme amaçlı yurt dışına gönderilmemiş ve üyeliğe seçilme tarihinden itibaren iki tam yıl geçmemiş meslek mensupları için 10 uncu maddede öngörülen seçilme tarihinden itibaren iki yıllık süre koşulu aranmaz.

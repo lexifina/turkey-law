@@ -1,0 +1,3 @@
+Seçim ve yabancı dil düzeyinin tespiti
+Madde 5- Yurt dışına gönderilecek Danıştay meslek mensupları, araştırmanın yapılacağı ülkenin dilini yeterli düzeyde bilenler arasından, Danıştay Başkanlar Kurulunca seçilir. Yabancı dil düzeyi, Kamu Personeli Dil Sınavı sonuçlarına göre belirlenir.
+Adayların yurt dışına gönderilebilmeleri için, son iki yıl içindeki sınavlarda, en az 70 (yetmiş) puan almış olmaları gerekir. Puanda eşitlik halinde, sırasıyla aynı düzeyde ikinci yabancı dil (İngilizce, Fransızca, İspanyolca, Almanca ve İtalyanca) bilmek ve Danıştay üyeliğindeki kıdem sırası öncelik nedenidir.
