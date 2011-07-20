@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-GVK 68-1020",
+  "source_id": 23731,
+  "date": "2011-07-20",
+  "title": "Banka kredisiyle alınan aktife kayıtlı aracın kredi türünde değişiklik yapılması halinde faizlerinin gider kaydedilip kaydedilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23731",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "f45f94061f8d6cad6a7aa5559377acc32b68c90f89fe656493f6130b96b63ef5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
