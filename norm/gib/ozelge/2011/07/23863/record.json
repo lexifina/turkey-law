@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-3-2010-14001-88-574",
+  "source_id": 23863,
+  "date": "2011-07-20",
+  "title": "Gayrimenkullerin kiraya verilmesinde istisnadan yararlanma hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/23863",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "10be90ebd0a9c696c91ca5b56dea317dadd4cdb8d7e68ac735400358b8bb968a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
