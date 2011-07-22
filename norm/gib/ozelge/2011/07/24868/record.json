@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-GVK Geç.67-1079",
+  "source_id": 24868,
+  "date": "2011-07-22",
+  "title": "Üniversitenin elde ettiği her nevi tahvil ve Hazine bonosu faizleri, mevduat faizleri, repo gelirleri ile kar ve zarar ortaklığı belgesi karşılığı ödenen kar payları üzerinden gelir vergisi tevkifatı yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24868",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "5ee85c4377bef7ae3946677683a668a628630781a2f48d8f8d73d02187776daa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
