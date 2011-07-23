@@ -1,5 +1,5 @@
 B. Dava hakkı
-MADDE 365.- Nafaka davası, mirasçılıktaki sıra göz önünde tutularak açılır.
+Madde 365- Nafaka davası, mirasçılıktaki sıra göz önünde tutularak açılır.
 Dava, davacının geçinmesi için gerekli ve karşı tarafın malî gücüne uygun bir yardım isteminden ibarettir.
 Nafakanın, yükümlülerin bir veya bir kaçından istenmesi hakkaniyete aykırıysa hâkim, onların nafaka yükümlülüğünü azaltabilir veya kaldırabilir.
 Dava, nafaka alacaklısına bakmakta olan resmî veya kamuya yararlı kurumlar tarafından da açılabilir.

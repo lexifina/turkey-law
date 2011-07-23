@@ -1,2 +1,2 @@
-MADDE 127.- Kısıtlı, yasal temsilcisinin izni olmadıkça evlenemez.
+Madde 127- Kısıtlı, yasal temsilcisinin izni olmadıkça evlenemez.
 3. Mahkemeye başvurma

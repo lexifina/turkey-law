@@ -1,2 +1,2 @@
 b. Sıra
-MADDE 896.- Hakları değişik tarihlerde tescil edilmiş olsa bile zanaatkârlar ve yükleniciler, kanunî ipotekten yararlanma bakımından kendi aralarında aynı sırada sayılırlar.
+Madde 896- Hakları değişik tarihlerde tescil edilmiş olsa bile zanaatkârlar ve yükleniciler, kanunî ipotekten yararlanma bakımından kendi aralarında aynı sırada sayılırlar.

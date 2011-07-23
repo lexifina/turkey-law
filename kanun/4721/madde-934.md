@@ -1,5 +1,5 @@
 IV. Tescil
-MADDE 934.- Senetler, sayıları gösterilmek suretiyle tapu kütüğüne tescil olunur; ödüncün tamamı için bir tescil yapılır.
+Madde 934- Senetler, sayıları gösterilmek suretiyle tapu kütüğüne tescil olunur; ödüncün tamamı için bir tescil yapılır.
 Senet sayısı az ise, her senet ayrı tescil edilebilir.
 V. Hükmü
 1. Senedi çıkaran aracı kurum

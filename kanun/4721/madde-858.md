@@ -1,5 +1,5 @@
 II. Rehnin sona ermesi
-MADDE 858.- Taşınmaz rehni, tescilin terkini veya taşınmazın tamamen yok olmasıyla sona erer.
+Madde 858- Taşınmaz rehni, tescilin terkini veya taşınmazın tamamen yok olmasıyla sona erer.
 Kamulaştırmaya ilişkin kanun hükümleri saklıdır.
 III. Taşınmazların birleştirilmesi
 1. Rehnin başka taşınmaz üzerine geçmesi

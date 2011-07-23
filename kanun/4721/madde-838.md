@@ -1,4 +1,5 @@
 E. Diğer irtifak hakları
-MADDE 838.- Malik, taşınmazı üzerinde herhangi bir kişi veya topluluk lehine atış eğitimi veya spor alanı ya da geçit olarak kullanılmak gibi belirli bir yararlanmaya hizmet etmek üzere başka irtifak hakları da kurabilir.
+Madde 838- Malik, taşınmazı üzerinde herhangi bir kişi veya topluluk lehine atış eğitimi veya spor alanı ya da geçit olarak kullanılmak gibi belirli bir yararlanmaya hizmet etmek üzere başka irtifak hakları da kurabilir.
+8181
 Bu haklar, aksi kararlaştırılmış olmadıkça, başkasına devredilemez ve mirasçılara geçmez. Bu hakların kapsamı, hak sahibinin olağan ihtiyaçlarına göre belirlenir.
 Taşınmaz lehine irtifaklara ilişkin hükümler, bu tür irtifak haklarına da uygulanır.

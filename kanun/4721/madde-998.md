@@ -1,5 +1,5 @@
 a. Kaydedilecek taşınmazlar
-MADDE 998.- Tapu siciline taşınmaz olarak şunlar kaydedilir:
+Madde 998- Tapu siciline taşınmaz olarak şunlar kaydedilir:
 1. Arazi,
 2. Taşınmazlar üzerindeki bağımsız ve sürekli haklar,
 3. Kat mülkiyetine konu olan bağımsız bölümler.

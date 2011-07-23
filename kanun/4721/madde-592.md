@@ -1,6 +1,6 @@
 D. Terekenin resmen yönetilmesi
 I. Genel olarak
-MADDE 592.- Aşağıdaki hâllerde sulh hâkimi re'sen mirasın resmen yönetilmesine karar verir:
+Madde 592- Aşağıdaki hâllerde sulh hâkimi re'sen mirasın resmen yönetilmesine karar verir:
 1. Mirasçılardan birinin uzun süreden beri bulunamaması ve temsilci de bırakmaması hâlinde menfaati gerektiriyorsa,
 2. Mirasta hak sahibi olduğunu ileri sürenlerden hiçbiri mirasçılık sıfatını yeterince ispatlayamazsa veya bir mirasçı bulunup bulunmadığı şüpheli olursa,
 3. Mirasçıların tamamı bilinmiyorsa,

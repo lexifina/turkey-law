@@ -1,3 +1,3 @@
 b. Terkin ve değişiklik için
-MADDE 1014.- Bir tescilin terkin edilmesi veya değiştirilmesi, ancak bu kaydın kendilerine hak sağladığı kimselerin yazılı beyanı üzerine yapılabilir.
+Madde 1014- Bir tescilin terkin edilmesi veya değiştirilmesi, ancak bu kaydın kendilerine hak sağladığı kimselerin yazılı beyanı üzerine yapılabilir.
 2. Yetkinin ve sebebin belirlenmesi

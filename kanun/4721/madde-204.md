@@ -1,3 +1,3 @@
 II. Sözleşme ehliyeti
-MADDE 204.- Mal rejimi sözleşmesi, ancak ayırt etme gücüne sahip olanlar tarafından yapılabilir.
+Madde 204- Mal rejimi sözleşmesi, ancak ayırt etme gücüne sahip olanlar tarafından yapılabilir.
 Küçükler ile kısıtlılar, yasal temsilcilerinin rızasını almak zorundadırlar.

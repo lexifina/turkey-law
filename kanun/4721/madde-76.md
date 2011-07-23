@@ -1,4 +1,4 @@
 c. Toplantısız veya çağrısız alınan kararlar
-MADDE 76.- Bütün üyelerin bir araya gelmeksizin yazılı katılımıyla alınan kararlar ile dernek üyelerinin tamamının kanunda yazılı çağrı usulüne uymaksızın bir araya gelerek aldığı kararlar geçerlidir.
+Madde 76- Bütün üyelerin bir araya gelmeksizin yazılı katılımıyla alınan kararlar ile dernek üyelerinin tamamının kanunda yazılı çağrı usulüne uymaksızın bir araya gelerek aldığı kararlar geçerlidir.
 Bu şekilde karar alınması olağan toplantı yerine geçmez.
 3. Toplantıya çağrı

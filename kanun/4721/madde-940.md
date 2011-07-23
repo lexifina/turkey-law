@@ -1,3 +1,3 @@
-MADDE 940.- Yetkili makamlar tarafından izin verilen kuruluşlar ile kooperatiflerin alacaklarının güvence altına alınması için, zilyetlik devredilmeden de, icra dairesinde tutulacak özel sicile yazılmak suretiyle hayvanlar üzerinde rehin kurulabilir. Bu amaçla tutulacak sicil tüzükle belirlenir.
+Madde 940- Yetkili makamlar tarafından izin verilen kuruluşlar ile kooperatiflerin alacaklarının güvence altına alınması için, zilyetlik devredilmeden de, icra dairesinde tutulacak özel sicile yazılmak suretiyle hayvanlar üzerinde rehin kurulabilir. Bu amaçla tutulacak sicil tüzükle belirlenir.
 Gerçek veya tüzel kişilerin alacaklarının güvence altına alınması için, kanun gereğince bir sicile tescili zorunlu olan taşınır mallar üzerinde, zilyetlik devredilmeden de, taşınır malın kayıtlı bulunduğu sicile yazılmak suretiyle rehin kurulabilir. Rehnin kurulmasına ilişkin diğer hususlar tüzükle belirlenir.
 3. Art rehin

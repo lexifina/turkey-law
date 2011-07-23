@@ -1,6 +1,6 @@
 D. Sona erme
 I. Kendiliğinden
-MADDE 87.- Dernekler, aşağıdaki hâllerde kendiliğinden sona erer:
+Madde 87- Dernekler, aşağıdaki hâllerde kendiliğinden sona erer:
 1. Amacın gerçekleşmesi, gerçekleşmesinin olanaksız hâle gelmesi veya sürenin sona ermesi,
 2. İlk genel kurul toplantısının kanunda öngörülen sürede yapılmamış ve zorunlu organların oluşturulmamış olması,
 3. Borç ödemede acze düşmüş olması,

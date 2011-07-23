@@ -1,4 +1,5 @@
 II. Yönetimin ana ve babadan alınması
-MADDE 361.- Çocuğun mallarının tehlikeye düşmesi başka bir şekilde önlenemiyorsa hâkim, yönetimin bir kayyıma devredilmesine karar verebilir.
+Madde 361- Çocuğun mallarının tehlikeye düşmesi başka bir şekilde önlenemiyorsa hâkim, yönetimin bir kayyıma devredilmesine karar verebilir.
+8103
 Çocuğun, yönetimi ana ve babaya ait olmayan malları tehlikeye düştüğünde hâkim, aynı önlemlerin alınmasını kararlaştırabilir.
 Çocuk mallarının gelirlerinin veya bu mallardan ayrılmış belirli miktarların kanuna uygun şekilde sarfedileceğinden kuşku duyulursa hâkim, bunların da yönetimini bir kayyıma bırakabilir.

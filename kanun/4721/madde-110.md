@@ -1,5 +1,5 @@
 II. Çalıştırılanlara ve işçilere yardım vakfı
-MADDE 110.- Çalıştırılanlara ve işçilere yardım vakıflarının yöneticileri, yararlananlara, vakfın örgütü, işleyişi ve malî durumu hakkında gerekli bilgiyi vermekle yükümlüdürler.
+Madde 110- Çalıştırılanlara ve işçilere yardım vakıflarının yöneticileri, yararlananlara, vakfın örgütü, işleyişi ve malî durumu hakkında gerekli bilgiyi vermekle yükümlüdürler.
 Vakfa ödenti veren çalıştırılanlar ve işçiler en az yapmış oldukları ödeme oranında yönetime katılırlar ve temsilcilerini olabildiğince kendi aralarından seçerler.
 Vakfın malvarlığının çalıştırılanların ve işçilerin yapacakları ödemelerle sağlanacak bölümünün işverene karşı vakfın bir alacağından ibaret olması, ancak bu alacak için yeterli güvence sağlanmış olmasına bağlıdır.
 Yararlananların, vakfın edimlerinin yerine getirilmesini dava yoluyla isteyebilmeleri, ödenti vermiş olmalarına veya vakfı düzenleyen hükümlerin kendilerine bu hakkı tanımış bulunmasına bağlıdır.

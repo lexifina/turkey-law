@@ -1,2 +1,2 @@
-MADDE 324.- Ana ve babadan her biri, diğerinin çocuk ile kişisel ilişkisini zedelemekten, çocuğun eğitilmesi ve yetiştirilmesini engellemekten kaçınmakla yükümlüdür.
+Madde 324- Ana ve babadan her biri, diğerinin çocuk ile kişisel ilişkisini zedelemekten, çocuğun eğitilmesi ve yetiştirilmesini engellemekten kaçınmakla yükümlüdür.
 Kişisel ilişki sebebiyle çocuğun huzuru tehlikeye girer veya ana ve baba bu haklarını birinci fıkrada öngörülen yükümlülüklerine aykırı olarak kullanırlar veya çocuk ile ciddî olarak ilgilenmezler ya da diğer önemli sebepler varsa, kişisel ilişki kurma hakkı reddedilebilir veya kendilerinden alınabilir.

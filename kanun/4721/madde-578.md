@@ -1,5 +1,5 @@
 a. Sebepleri
-MADDE 578.- Aşağıdaki kimseler, mirasçı olamayacakları gibi; ölüme bağlı tasarrufla herhangi bir hak da edinemezler:
+Madde 578- Aşağıdaki kimseler, mirasçı olamayacakları gibi; ölüme bağlı tasarrufla herhangi bir hak da edinemezler:
 1. Mirasbırakanı kasten ve hukuka aykırı olarak öldüren veya öldürmeye teşebbüs edenler,
 2. Mirasbırakanı kasten ve hukuka aykırı olarak sürekli şekilde ölüme bağlı tasarruf yapamayacak duruma getirenler,
 3. Mirasbırakanın ölüme bağlı bir tasarruf yapmasını veya böyle bir tasarruftan dönmesini aldatma, zorlama veya korkutma yoluyla sağlayanlar ve engelleyenler,

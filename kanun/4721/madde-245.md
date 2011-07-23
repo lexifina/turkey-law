@@ -1,3 +1,4 @@
 II. İspat
-MADDE 245.- Belirli bir malın eşlerden birine ait olduğunu iddia eden kimse, iddiasını ispat etmekle yükümlüdür.
+Madde 245- Belirli bir malın eşlerden birine ait olduğunu iddia eden kimse, iddiasını ispat etmekle yükümlüdür.
 Eşlerden hangisine ait olduğu ispat edilemeyen mallar onların paylı mülkiyetinde sayılır.
+8085

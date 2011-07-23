@@ -1,4 +1,4 @@
-MADDE 380.- Aşağıdaki hâllerde ortaklık sona erer:
+Madde 380- Aşağıdaki hâllerde ortaklık sona erer:
 1. Bütün ortakların anlaşması veya feshin bildirilmesiyle,
 2. Ortaklık süresi açıkça veya örtülü olarak uzatılmadığı takdirde sürenin bitmesiyle,
 3. Ortaklardan birinin payının haczedilmesi ve satışının istenmesiyle,

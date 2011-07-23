@@ -1,2 +1,2 @@
 c. Malvarlığı intifaında borçların faizi
-MADDE 814.- Malvarlığı intifaında, intifa hakkı sahibi bu malvarlığındaki borçların faizlerini ödemekle yükümlüdür. Ancak, durum ve koşullar haklı gösteriyorsa, intifa hakkı sahibi bu yükümlülükten kurtarılmasını isteyebilir. Bu takdirde intifa hakkı, borçların ödenmesinden sonra kalan kısım üzerinde devam eder.
+Madde 814- Malvarlığı intifaında, intifa hakkı sahibi bu malvarlığındaki borçların faizlerini ödemekle yükümlüdür. Ancak, durum ve koşullar haklı gösteriyorsa, intifa hakkı sahibi bu yükümlülükten kurtarılmasını isteyebilir. Bu takdirde intifa hakkı, borçların ödenmesinden sonra kalan kısım üzerinde devam eder.

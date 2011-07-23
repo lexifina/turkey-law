@@ -1,2 +1,2 @@
 B. Hükümlülerde
-MADDE 471.- Özgürlüğü bağlayıcı cezaya mahkûmiyet sebebiyle kısıtlı bulunan kişi üzerindeki vesayet, hapis hâlinin sona ermesiyle kendiliğinden ortadan kalkar.
+Madde 471- Özgürlüğü bağlayıcı cezaya mahkûmiyet sebebiyle kısıtlı bulunan kişi üzerindeki vesayet, hapis hâlinin sona ermesiyle kendiliğinden ortadan kalkar.

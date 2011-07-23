@@ -1,5 +1,5 @@
 IV. Kazandırıcı zamanaşımından yararlanma
-MADDE 996.- Kazandırıcı zamanaşımından yararlanma hakkına sahip olan zilyet, zilyetliği kendisine devreden aynı yetkiye sahip idiyse onun zilyetlik süresini kendi süresine ekleyebilir.
+Madde 996- Kazandırıcı zamanaşımından yararlanma hakkına sahip olan zilyet, zilyetliği kendisine devreden aynı yetkiye sahip idiyse onun zilyetlik süresini kendi süresine ekleyebilir.
 İKİNCİ BÖLÜM
 TAPU SİCİLİ
 A. Kurulması

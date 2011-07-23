@@ -1,5 +1,5 @@
 II. Denetim makamından
-MADDE 463.- Aşağıdaki hâllerde vesayet makamının izninden sonra denetim makamının da izni gereklidir:
+Madde 463- Aşağıdaki hâllerde vesayet makamının izninden sonra denetim makamının da izni gereklidir:
 1. Vesayet altındaki kişinin evlât edinmesi veya evlât edinilmesi,
 2. Vesayet altındaki kişinin vatandaşlığa girmesi veya çıkması,
 3. Bir işletmenin devralınması veya tasfiyesi, kişisel sorumluluğu gerektiren bir ortaklığa girilmesi veya önemli bir sermaye ile bir şirkete ortak olunması,

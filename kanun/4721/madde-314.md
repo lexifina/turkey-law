@@ -1,5 +1,5 @@
 C. Hükümleri
-MADDE 314.- Ana ve babaya ait olan haklar ve yükümlülükler evlât edinene geçer.
+Madde 314 - Ana ve babaya ait olan haklar ve yükümlülükler evlât edinene geçer.
 Evlâtlık, evlât edinenin mirasçısı olur.
 Evlâtlık küçük ise evlât edinenin soyadını alır. Evlât edinen isterse çocuğa yeni bir ad verebilir. Ergin olan evlâtlık, evlât edinilme sırasında dilerse evlât edinenin soyadını alabilir.
 Eşler tarafından birlikte evlât edinilen ve ayırt etme gücüne sahip olmayan küçüklerin nüfus kaydına ana ve baba adı olarak evlât edinen eşlerin adları yazılır.

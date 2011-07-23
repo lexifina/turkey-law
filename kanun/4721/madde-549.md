@@ -1,2 +1,2 @@
 C. Tasarruf edilebilir kısmın daralması
-MADDE 549.- Miras sözleşmesi veya vasiyetnameyle yapılan ölüme bağlı kazandırmalar, mirasbırakanın tasarruf edebileceği kısmın sonradan daralması yüzünden hükümsüz olmaz; sadece tenkis edilebilir.
+Madde 549- Miras sözleşmesi veya vasiyetnameyle yapılan ölüme bağlı kazandırmalar, mirasbırakanın tasarruf edebileceği kısmın sonradan daralması yüzünden hükümsüz olmaz; sadece tenkis edilebilir.

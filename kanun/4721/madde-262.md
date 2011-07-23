@@ -1,3 +1,4 @@
-MADDE 262.- Eşler, ortaklık mallarını evlilik birliğinin yararına uygun olarak yönetirler.
+Madde 262- Eşler, ortaklık mallarını evlilik birliğinin yararına uygun olarak yönetirler.
 Olağan yönetim sınırları içinde her eş, ortaklığı yükümlülük altına sokabilir ve ortak mallarda tasarrufta bulunabilir.
+8088
 2. Olağanüstü yönetim

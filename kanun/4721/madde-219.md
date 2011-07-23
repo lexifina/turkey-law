@@ -1,5 +1,5 @@
 II. Edinilmiş mallar
-MADDE 219.- Edinilmiş mal, her eşin bu mal rejiminin devamı süresince karşılığını vererek elde ettiği malvarlığı değerleridir.
+Madde 219- Edinilmiş mal, her eşin bu mal rejiminin devamı süresince karşılığını vererek elde ettiği malvarlığı değerleridir.
 Bir eşin edinilmiş malları özellikle şunlardır:
 1. Çalışmasının karşılığı olan edinimler,
 2. Sosyal güvenlik veya sosyal yardım kurum ve kuruluşlarının veya personele yardım amacı ile kurulan sandık ve benzerlerinin yaptığı ödemeler,

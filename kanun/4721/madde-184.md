@@ -1,5 +1,5 @@
 D. Boşanmada yargılama usulü
-MADDE 184.- Boşanmada yargılama, aşağıdaki kurallar saklı kalmak üzere Hukuk Usulü Muhakemeleri Kanununa tâbidir:
+Madde 184- Boşanmada yargılama, aşağıdaki kurallar saklı kalmak üzere Hukuk Usulü Muhakemeleri Kanununa tâbidir:
 1. Hâkim, boşanma veya ayrılık davasının dayandığı olguların varlığına vicdanen kanaat getirmedikçe, bunları ispatlanmış sayamaz.
 2. Hâkim, bu olgular hakkında gerek re'sen, gerek istem üzerine taraflara yemin öneremez.
 3. Tarafların bu konudaki her türlü ikrarları hâkimi bağlamaz.

@@ -4,4 +4,4 @@ VESAYET DÜZENİ
 BİRİNCİ AYIRIM
 VESAYET ORGANLARI
 A. Genel olarak
-MADDE 396.- Vesayet organları, vesayet daireleri ile vasi ve kayyımlardır.
+Madde 396- Vesayet organları, vesayet daireleri ile vasi ve kayyımlardır.

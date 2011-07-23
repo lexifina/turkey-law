@@ -1,5 +1,5 @@
 B. Yasal danışmanlık
-MADDE 429.- Kısıtlanması için yeterli sebep bulunmamakla beraber korunması bakımından fiil ehliyetinin sınırlanması gerekli görülen ergin bir kişiye aşağıdaki işlerde görüşü alınmak üzere bir yasal danışman atanır:
+Madde 429- Kısıtlanması için yeterli sebep bulunmamakla beraber korunması bakımından fiil ehliyetinin sınırlanması gerekli görülen ergin bir kişiye aşağıdaki işlerde görüşü alınmak üzere bir yasal danışman atanır:
 1. Dava açma ve sulh olma,
 2. Taşınmazların alımı, satımı, rehnedilmesi ve bunlar üzerinde başka bir aynî hak kurulması,
 3. Kıymetli evrakın alımı, satımı ve rehnedilmesi,

@@ -1,3 +1,3 @@
 D. Eğitim ve öğrenim giderleri
-MADDE 674.- Çocukların eğitim ve öğrenimi için yapılan giderler sebebiyle geri verme yükümlülüğü, mirasbırakanın aksini arzu ettiği ispat edilmedikçe, ancak alışılmış ölçüleri aşan kısım için mevcuttur.
+Madde 674- Çocukların eğitim ve öğrenimi için yapılan giderler sebebiyle geri verme yükümlülüğü, mirasbırakanın aksini arzu ettiği ispat edilmedikçe, ancak alışılmış ölçüleri aşan kısım için mevcuttur.
 Eğitim ve öğrenimini tamamlamamış olan veya sakatlıkları bulunan çocuklara, paylaşmada hakkaniyete uygun bir ödeme yapılır.
