@@ -1,4 +1,4 @@
-Anayasa Mahkemesi’nin 2/7/2009 tarihli ve E.: 2005/114, K.: 2009/105 sayılı Kararı ile değişik
+Anayasa Mahkemesi’nin 17/3/2011 tarihli ve E.: 2009/58, K.: 2011/52 sayılı Kararıyla değişik
 TÜRK MEDENÎ KANUNU
 Kanun Numarası | : 4721
 Kabul Tarihi | : 22/11/2001
