@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-07-25",
+      "25.07.2011",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28005",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-07-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Altınbaş Üniversitesi",
+  "issuer_slug": "altinbas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/altinbas-universitesi/2011/15131",
+  "published": "2011-07-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15131&MevzuatTertip=5",
+  "source_bytes": 24464,
+  "source_id": "8.5.15131",
+  "source_sha256": "960f420058a795abc29846e4e216db5ab3dd461354d7c96fddb2121da16c4dbc",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL KEMERBURGAZ ÜNİVERSİTESİ SÜREKLİ EĞİTİM  UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 342,
+  "word_count": 1027
+}
