@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.1-1102",
+  "source_id": 29684,
+  "date": "2011-07-25",
+  "title": "Sigorta şirketince şirket ortağından kiralanan araçla ilgili KDV mükellefiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29684",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "04d6c00cb00e188e2af9fc8994f1cc7d5748d651c3f34c03ee4a8422bf1da2a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
