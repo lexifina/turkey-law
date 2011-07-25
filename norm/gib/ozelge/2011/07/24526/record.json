@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.31.15.01-GVK-5-05-43",
+  "source_id": 24526,
+  "date": "2011-07-25",
+  "title": "Basit Usulde vergilendirilen mükelleflerde kira stopajı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24526",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "62fd372b517e30675134be039fcaf9c9f195d4cef63d6f8da2c0662ac18dc3c3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
