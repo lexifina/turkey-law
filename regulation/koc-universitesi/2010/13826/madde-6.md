@@ -1,0 +1,6 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez; bu Yönetmeliğin 5 inci maddesinde belirtilen amaçları gerçekleştirmek üzere, aşağıdaki faaliyetlerde bulunur:
+a) Uluslararası ticarette özellikle satış, hizmetler ve müteahhitlik olmak üzere en çok rastlanan akit türleri, uluslararası şirketler hukuku, uluslararası kara, deniz, hava ulaşımı, uluslararası sigorta hukuku, uluslararası banka hukuku, uluslararası vergi hukuku, uluslararası iş hukuku, uluslararası usul hukuku, fikrî ve sınaî haklar, uluslararası tahkim, uluslararası özel hukuk, elektronik hukuk, rekabet hukuku, teminat hukuku, karşılaştırmalı ticaret hukuku, yabancı sermaye yatırımları gibi konularda araştırma ve incelemelerde bulunmak,
+b) Uluslararası ticareti ilgilendiren bilimsel toplantı ve konferanslar düzenlemek, bu alanda yayınlar yapmak ve çıkan yayınları izleyip dokümantasyon çalışmalarında bulunmak,
+c) Hukuk Fakültesi öğretim elemanlarının uluslararası ticaret hukuku alanında yurt dışında yapılan toplantılara katılmalarına imkan sağlamak ve yurt dışındaki bilim kuruluşları ve bilim insanlarıyla işbirliği yapmak,
+ç) Uluslararası ticaret hukuku alanındaki gelişmeler, ülkenin ihtiyaçları ve Merkezin imkanları doğrultusunda eğitim-öğretim ve benzeri konularda faaliyetlerde bulunmak.
