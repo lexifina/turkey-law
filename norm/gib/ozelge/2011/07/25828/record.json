@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.01.16.02-2011-2921-KDV-57",
+  "source_id": 25828,
+  "date": "2011-07-26",
+  "title": "Vergi mükellefi olmayan kişilerden alınan gayrimenkullerin satışında uygulanacak kdv oranı ve tevkifat yapılıp yapılmaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25828",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "907cb2f09a6839132c5be5ab4a21e0e5763b57af7d8b672fb442932dd54d1d63",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
