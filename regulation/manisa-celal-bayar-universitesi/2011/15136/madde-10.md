@@ -1,0 +1,4 @@
+Danışma kurulu ve görevleri
+MADDE 10 – (1) Danışma Kurulu; Rektör tarafından belirlenen fakülte ve yüksekokullardan birer, meslek yüksekokullarından toplam üç temsilci ile yine Rektör tarafından davet edilen üniversite dışından en az beş temsilcinin iştirakiyle oluşur. Görev süreleri üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir. Süreleri bitmeden herhangi bir nedenle ayrılan üyenin yerine, kalan süreyi doldurmak üzere aynı usulle yenileri görevlendirilir.
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az iki defa toplanır ve oyçokluğu ile karar alır.
+(3) Danışma Kurulu; Merkezin faaliyetleri ile ilgili olarak değerlendirmede bulunan ve istişari nitelikte görüş bildiren bir kuruldur. Toplantılarda merkez çalışmaları değerlendirilir, öneriler geliştirilir ve bir sonraki çalışma yılına ait program değerlendirilir.
