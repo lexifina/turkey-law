@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-07-26",
+      "26.07.2011",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28006",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-07-26",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Sabahattin Zaim Üniversitesi",
+  "issuer_slug": "istanbul-sabahattin-zaim-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-sabahattin-zaim-universitesi/2011/15141",
+  "published": "2011-07-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15141&MevzuatTertip=5",
+  "source_bytes": 17830,
+  "source_id": "8.5.15141",
+  "source_sha256": "5870d3801bf0bbb495dfdb817c35c8d6dc1071a87648b5e4ef0d1082cb2891d5",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ GIDA VE TARIM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 360,
+  "word_count": 604
+}
