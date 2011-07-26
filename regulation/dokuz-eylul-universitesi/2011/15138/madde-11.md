@@ -1,0 +1,2 @@
+Danışma kurulu
+MADDE 11 – (1) Danışma Kurulu, en az beş en çok on üyeden oluşur. Bu üyeler; üniversitenin öğretim elemanları, mezunları, kamu kurum ve kuruluşları ile özel sektördeki merkezin faaliyetleri ile ilgili konularda uzman kişiler arasından Yönetim Kurulunun önerisi ile üç yıllığına görevlendirilir. Rektör, Danışma Kurulunun doğal başkanıdır. Danışma Kurulu üyeleri görevlendirme tarihinden itibaren bir ay içinde toplanır ve bir başkan yardımcısı ve bir raportör seçerler. Merkez Müdürü Danışma Kurulu toplantılarına katılır.
