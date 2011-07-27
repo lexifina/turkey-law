@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.15148",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLÂK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 57)",
+  "number": "15148",
+  "path": "teblig/2011/15148",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15148&MevzuatTertip=5",
+  "source_sha256": "4822bbe31d5f704780a0593c7d6f89efa2b509ffb1875211a544cb01ef2c1161",
+  "source_bytes": 30482,
+  "published": "2011-07-27",
+  "gazette": "28007",
+  "in_force": "2011-07-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.07.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1241,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15148%20ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
