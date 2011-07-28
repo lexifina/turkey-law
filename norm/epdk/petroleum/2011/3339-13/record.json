@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "3339/13",
+  "decision_date": "2011-07-28",
+  "title": "Petrol Piyasasında Akaryakıt Kalitesi İzleme Sistemine İlişkin Usul Ve Esaslar",
+  "resmi_gazete_date": "2011-08-05",
+  "resmi_gazete_number": "28016",
+  "categories": [
+    "Teknik Düzenleme Faaliyetleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OfTnsptd/2I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OfTnsptd/2I="
+  ],
+  "source_sha256": "a0794bd443791730b81be41f7143077540d746738abcfa3df05b9aadac5b3c6f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4979,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-07-28",
+  "law_text_complete": false
+}
