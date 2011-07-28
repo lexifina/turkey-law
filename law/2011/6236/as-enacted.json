@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6236",
+  "year": 2011,
+  "title": "Toplu İş Sözleşmesi, Grev ve Lokavt Kanununa Bir Geçici Madde Eklenmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-07-28",
+  "gazette_issue": "28008",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/07/20110728-1.htm",
+  "source_sha256": "adfaed9883cb8c70e437ea56ea13d6cd58ab414a4b9697bc20bdfb50f2670e27",
+  "text_sha256": "497116dfb0f7f4a165aa9ff65003f70b7ae00d6518399c53728ebc882d89b1b2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/07/28/28008-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/07/20110728-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
