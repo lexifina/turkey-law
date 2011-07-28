@@ -1,0 +1,3 @@
+Üçüncü ülkelerden ithalat
+MADDE 20 – (1) Zarar inceleme döneminde, üçüncü ülkelerden yapılan ithalatın birim fiyatları ile soruşturma konusu ülke menşeli ithalatın birim fiyatları karşılaştırılmıştır. Buna göre, ÇHC menşeli ithalatın birim fiyatının diğer ülkelerden gerçekleştirilen ithalatın birim fiyatlarının oldukça altında olduğu görülmüştür. Diğer taraftan, soruşturma döneminde ÇHC’nin payı ile karşılaştırıldığında, diğer ülkelerin toplam ithalat içindeki payı oldukça düşük seviyelerdedir.
+(2) Diğer ülkeler kaynaklı soruşturma konusu ürünün ithalatı, gerek miktar ve piyasa payındaki eğilimi, gerekse fiyatları itibariyle bu dönemde yerli üretime zarar verebilecek boyutta görülmemiştir.

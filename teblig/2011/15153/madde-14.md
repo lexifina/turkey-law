@@ -1,0 +1,3 @@
+Dampingli ithalatın miktar ve fiyatlarının gelişimi
+MADDE 14 – (1) Soruşturma konusu maddenin ÇHC'den ithalatı 2007 yılında 5.416.042 Kg iken, 2008 yılında 5.133.577 Kg'a düşmüş, soruşturma dönemi olan 2009'da 2.618.415 Kg seviyesinde gerçekleşmiştir.
+(2) Soruşturma konusu maddenin ÇHC'den ithalatının ağırlıklı ortalama birim fiyatlarına bakıldığında ise 2007 yılında 1,40 ABD Doları/Kg olan birim fiyatın, 2008'de 1,66'ya çıktığı, soruşturma döneminde ise 1,40'a düştüğü tespit edilmiştir. Aynı dönemde soruşturma konusu ürünün genel ithalat verileri incelendiğinde birim fiyatın sırasıyla 2007 yılı için 2,80 ABD Doları/Kg, 2008'de 3,19 ABD Doları/Kg ve 2009 yılında 2,95 ABD Doları/Kg olarak gerçekleştiği görülmektedir.
