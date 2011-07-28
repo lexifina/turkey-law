@@ -1,0 +1,5 @@
+Gözetim belgesine ve gözetim belgesinin kullanımına ait bilgiler
+Madde 4- Gözetim belgelerinin geçerlilik süresi 6 (altı) aydır.
+Gözetim belgesi, Gümrük Kanunu'nun "Eşyanın Gümrük Kıymeti"ne ilişkin hükümlerinin uygulanmasını engellemez. Bu Tebliğ’in 1 inci maddesinde belirtilen kıymetler Gümrük Kanunu'nun "Eşyanın Gümrük Kıymeti"ne ilişkin hükümlerinin uygulanmasına esas teşkil etmez.
+Gümrük beyannamesinin tescili sırasında gümrüklerce tespit ve kabul edilen kıymet veya miktarın, gözetim belgesinde kayıtlı kıymet veya miktarı, toplam %5'ten (%5 dahil) daha az bir oranda aşması ithalatın yapılmasını engellemez.
+Gözetim belgesi üçüncü kişilere devredilemez. Gözetim belgesi kapsamı maddenin ithalatı ile ilgili belgelerin (gözetim belgesinin aslı, ayrıca ithalat gerçekleştirilmiş ise ticari fatura ve gümrük beyannamesinin fotokopisi) gözetim belgesinin geçerlilik süresinin bitiminden itibaren 10 (on) işgünü içerisinde belge sahibi tarafından Genel Müdürlüğe iletilmesi zorunludur.
