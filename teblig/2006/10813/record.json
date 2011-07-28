@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.10813",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/19)",
+  "number": "10813",
+  "issuer": "Dış Ticaret Müsteşarlığı'nın bağlı olduğu Bakan",
+  "path": "teblig/2006/10813",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10813&MevzuatTertip=5",
+  "source_sha256": "2c784fc2c20eb86ee9d16f61cf5ff52fbf697d7094af05993a2a0d6253ea618a",
+  "source_bytes": 46726,
+  "published": "2006-11-29",
+  "gazette": "26361",
+  "in_force": "2011-07-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/7/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-07-28",
+      "RG-28/7/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımını takip eden 30 uncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 675,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
