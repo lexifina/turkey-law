@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.12228",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2008/15)",
+  "number": "12228",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2008/12228",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12228&MevzuatTertip=5",
+  "source_sha256": "dbd9cf074a0bb7b09a1109d7c4498158d2733346021d16c5ef78978eae6b9dcd",
+  "source_bytes": 72871,
+  "published": "2008-06-28",
+  "gazette": "26920",
+  "in_force": "2011-07-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/7/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-07-28",
+      "RG-28/7/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımını takip eden 30 uncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 829,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
