@@ -1,0 +1,2 @@
+Yürütme
+MADDE 26 – (1) Bu Tebliğ hükümlerini Ekonomi Bakanı yürütür.
