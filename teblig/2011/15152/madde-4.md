@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 4 – (1) 24/12/2010 tarih ve 27795 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2010/30 sayılı Tebliğ ile Güney Kore ve Endonezya menşeli “poliester elyaf”a yönelik bir nihai gözden geçirme soruşturması açılması talebinde bulunulabileceği ilan edilmiştir.
+(2) Bu çerçevede yapılan başvurunun incelenmesi neticesinde, Güney Kore ve Endonezya menşeli bahse konu ürüne uygulanan dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir nihai gözden geçirme soruşturması açılması için yeterli delillerin bulunduğu anlaşılmıştır.
