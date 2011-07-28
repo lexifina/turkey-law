@@ -1,0 +1,43 @@
+{
+  "source_id": "9.5.9026",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2005/12)",
+  "number": "9026",
+  "issuer": "Dış Ticaret Müsteşarlığı'nın bağlı olduğu Bakan",
+  "path": "teblig/2005/9026",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9026&MevzuatTertip=5",
+  "source_sha256": "59327ba5194be116ab7a1979259359d3bb2c361d392cd4cf9bd984744121c04e",
+  "source_bytes": 47362,
+  "published": "2005-07-08",
+  "gazette": "25869",
+  "in_force": "2011-07-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/7/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-07-28",
+      "RG-28/7/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-10-31",
+      "RG:31/10/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımını takip eden 30 uncu gün yürürlüğe girer",
+    "bu Tebliğ yayımını takip eden 15 inci gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 717,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
