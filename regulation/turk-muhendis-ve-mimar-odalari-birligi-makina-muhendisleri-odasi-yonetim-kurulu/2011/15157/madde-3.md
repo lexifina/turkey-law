@@ -1,0 +1,14 @@
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Asansör avan projesi: Binaya tesis edilecek olan asansörün kullanım amacına göre kapasite, hız, kumanda ve kullanım şekli gibi temel özelliklerinin belirlenmesi için hazırlanan projeyi,
+b) Asansör mekanik tadilat projesi: Binaya tesis edilecek olan ve avan projede asgari koşulları belirlenen asansörün makina mühendisince hazırlanan tasarım sonucu imalat ve montaj detay bilgilerinde ve hesaplamalarında yapılan değişiklik sonucu hazırlanan projeyi,
+c) Asansör mekanik uygulama projesi: Binaya tesis edilecek olan ve avan projede asgari koşulları belirlenen asansörün tasarım sonucu imalat ve montaj detay bilgilerinin ve hesaplamalarının yer aldığı projeyi,
+ç) Asansör mekanik yenileme projesi: Mevcut binada bulunan asansörün yenilenmesi amacıyla avan projesinde asgari koşulları belirlenmiş asansörün tasarım sonucu imalat ve montaj detay bilgilerinin ve hesaplamalarının yer aldığı yenileme projesini,
+d) İşletme ve bakım sorumluluğu: Binaya tesis edilen asansörün tasarlandığı biçimde kullanım ömrü boyunca kendisinin ve bileşenlerinin, fonksiyonlarının ve güvenlik gereklerinin devamlılığını sağlamaya yönelik işletilmesi ve bakımının sağlanması, işletmeye yönelik kayıpların en aza indirgenmesi konusunda SMM’ler tarafından üstlenilen sorumluluğu,
+e) İşletme ve bakım sorumlusu: Binaya tesis edilen asansörün tasarlandığı biçimde kullanım ömrü boyunca kendisinin ve bileşenlerinin, fonksiyonlarının ve güvenlik gereklerinin devamlılığını sağlamaya yönelik işletilmesi ve bakımının sağlanması, işletmeye yönelik kayıpların en aza indirgenmesi konusunu üstlenen SMM makina mühendisini,
+f) Montaj sorumluluğu: Binaya tesisi tamamlanan asansörün tesisatı ve malzemeleri ile birlikte, 3/5/1985 tarihli ve 3194 sayılı İmar Kanunu ve ilgili diğer mevzuata, asansör avan ve uygulama projelerine, standartlara ve teknik şartnamelere, fen, sağlık ve iş güvenliği kurallarına uygun olarak tesis edilmesi için SMM adına ilgili idareye karşı makina mühendisi tarafından üstlenilen sorumluluğu,
+g) Montaj sorumlusu: Proje müellifi kendisi olsun veya olmasın asansörün tesisatı ve malzemeleri ile birlikte, 3194 sayılı İmar Kanunu ve ilgili diğer mevzuata, asansör avan ve uygulama projelerine, standartlara ve teknik şartnamelere, fen, sağlık ve iş güvenliği kurallarına uygun olarak tesis edilmesi için SMM bürosu adına ilgili idareye karşı sorumlu olan makina mühendislerini,
+ğ) Oda: Türk Mühendis ve Mimar Odaları Birliği Makina Mühendisleri Odasını,
+h) SMM: Serbest mühendis ve müşavir mühendisi,
+ı) Yıllık kontrol: Asansörlerin, 18/11/2008 tarihli ve 27058 sayılı Resmî Gazete’de yayımlanan Asansör Bakım ve İşletme Yönetmeliğinde belirtilen sürelerde ilgili meslek odalarınca yetkilendirilen mühendisler tarafından kontrol edilmesini,
+ifade eder.
