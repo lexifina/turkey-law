@@ -1,0 +1,3 @@
+TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ELEKTRİK MÜHENDİSLERİ ODASI ASANSÖRLERE AİT ELEKTRİK MÜHENDİSLİĞİ HİZMETLERİ YÖNETMELİĞİ
+Amaç ve kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı; insanların, insan ve yüklerin veya sadece yüklerin taşınmasında kullanılan asansörlerin projelendirilmesi, imalatı, montajı, montaj sorumluluğu, son kontrolü, ruhsatlandırılması (tescil), işletme ve bakımı, işletme ve bakım sorumluluğu, yenilenmesi, yıllık kontrollerine ilişkin elektrik mühendisliği hizmetlerinin tanımlanması ve bu hizmetleri yürütecek EM’lerin görev, yetki ve sorumlulukları ile bu hizmetlerin EMO tarafından denetlenmesine ilişkin usul ve esasları düzenlenmektir.
