@@ -1,0 +1,29 @@
+{
+  "number": "month-07",
+  "year": 2011,
+  "month": 7,
+  "title": "Temmuz Ayı Kararları için tıklayınız.",
+  "decision_date": null,
+  "index_date": "2011-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2011",
+  "source": "https://www.sirnakozelidare.gov.tr/2011-meclis-kararlari",
+  "official_page": "https://www.sirnakozelidare.gov.tr/2011-meclis-kararlari",
+  "official_document": "https://www.sirnakozelidare.gov.tr/kurumlar/sirnakozelidare.gov.tr/dosyalar/il_genel_meclisi/meclis_kararlari/2011/2011.temmuz.pdf",
+  "source_sha256": "6d21c3c20cf0185f97476ff91db506023a2beb1a52ac830c93064e5365eea650",
+  "issuer": "Şırnak İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2011-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2011); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Temmuz Ayı Kararları için tıklayınız.",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2011 Meclis Kararları"
+}
