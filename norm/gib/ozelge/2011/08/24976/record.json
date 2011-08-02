@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.18.02-32005-5792-590",
+  "source_id": 24976,
+  "date": "2011-08-02",
+  "title": "Araç kiralama faaliyetinde bulunan mükellefin kiraladığı araçlarda vergi levhası bulundurma zorunluluğu olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24976",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "75b4a47d47807c742e864ca27f5be7a4431428f107a478517360d6cf2ad894a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
