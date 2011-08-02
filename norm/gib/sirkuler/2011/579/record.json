@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-78/2011-4//Yıllık Beyanname",
+  "source_id": 579,
+  "date": "2011-08-02",
+  "title": "Aile hekimleri tarafından yapılan mal ve hizmet alımlarına ilişkin ödemelerin vergilendirilmesi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/579",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "a07da6606b422eafaf87d6a4fc1cc3098f158e89c6b3e859c730ce62356f8c04",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
