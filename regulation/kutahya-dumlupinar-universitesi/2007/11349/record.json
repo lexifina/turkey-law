@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 25 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2007-05-30",
+      "30.05.2007",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2011-08-03",
+      "RG-3/8/2011-28014",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-08-03",
+      "3/8/2011",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-3/8/2011-28014",
+  "first_law": null,
+  "gazette": "26537",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-08-03",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/2007/11349",
+  "published": "2007-05-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=11349&MevzuatTertip=5",
+  "source_bytes": 58295,
+  "source_id": "8.5.11349",
+  "source_sha256": "9101d12ef759d5cb622e2ef694996bcc80d903bd097a357f8bbe3f59a9e78591",
+  "text_status": "current-consolidated",
+  "title": "DUMLUPINAR ÜNİVERSİTESİ ÖĞRENCİ YURTLARI YÖNETMELİĞİ",
+  "university_id": 190,
+  "word_count": 1784
+}
