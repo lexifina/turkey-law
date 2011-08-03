@@ -1,0 +1,13 @@
+{
+  "number": "11-44/987-333",
+  "type": "Rekabet İhlali",
+  "decision_date": "2011-08-03",
+  "publication_date": "2011-10-12",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=ddedd8e4-f82e-4ece-9d33-a045b2addee2",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=632",
+  "pdf_sha256": "039f81e90366e98844e465ede0a37263dc0b078f2d49a049a73f4d08538994c9",
+  "pdf_bytes": "271670",
+  "pages": "3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
