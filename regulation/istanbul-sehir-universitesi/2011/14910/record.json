@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-04-14",
+      "14.04.2011",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2011-08-07",
+      "RG-7/8/2011-28018",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-08-07",
+      "RG-7/8/2011-28018",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-08-07",
+      "7/8/2011",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-7/8/2011-28018",
+  "first_law": null,
+  "gazette": "27905",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-08-07",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Şehir Üniversitesi",
+  "issuer_slug": "istanbul-sehir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-sehir-universitesi/2011/14910",
+  "published": "2011-04-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14910&MevzuatTertip=5",
+  "source_bytes": 31140,
+  "source_id": "8.5.14910",
+  "source_sha256": "c782f35123a4fb094da739cbdd39917098498bb468c1f6faf6c152b57d470eb0",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL ŞEHİR ÜNİVERSİTESİ ŞEHİR ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 341,
+  "word_count": 1067
+}
