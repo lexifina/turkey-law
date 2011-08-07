@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-08-07",
+  "issue": "28018",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çay İşletmeleri Genel Müdürlüğü Çay Eksperi Yetiştirme, Atama, Görev, Yetki, Çalışma Sorumluluk ve İş İlişkileri Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/08/20110807-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/08/20110807.htm",
+  "index_sha256": "cdb2e4cd6139894f137e8665ffeea78df72ab802fe65b24247c60bbeace0b64c",
+  "index_header": "7 Ağustos 2011 ... 28018 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
