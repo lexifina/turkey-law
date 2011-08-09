@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; gıda mühendisliği alanında akademik faaliyetleri, araştırma ve laboratuar çalışmaları olan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Gerekli görüldüğü hallerde Müdür, bu süre tamamlanmadan Rektör tarafından görevden alınabilir.
+(2) (Değişik:RG-9/8/2011-28020) Müdür, Yönetim Kurulu üyeleri arasından iki müdür yardımcısı belirler. Müdürün görevi başında bulunmadığı hallerde, yerine müdür yardımcılarından birisi veya Yönetim Kurulu üyelerinden birisi vekalet eder. Müdürün altı aydan uzun süreli Üniversite dışında görevlendirilmesi halinde, Rektör tarafından yerine yeni Müdür görevlendirilebilir.

@@ -1,0 +1,3 @@
+Danışma kurulu ve görevleri
+MADDE 14 – (1) Danışma Kurulu; Yönetim Kurulu üyeleri ile Yönetim Kurulunca belirlenen Üniversitenin Ziraat Fakültesinin ilgili bölümleri, Çevre Mühendisliği Bölümü, Kimya Bölümü, Biyoloji Bölümü, Elektrik Elektronik Mühendisliği Bölümü gibi ilgili bölümlerden en az birer kişi ve istekleri halinde bu alanda çalışmaları ve deneyimi olan Üniversite dışından dört kişi olmak üzere en fazla yirmi kişiden oluşur. Danışma Kurulu üyeleri üç yıl için seçilir. Danışma Kurulu, Müdürün yazılı daveti üzerine yılda en az bir kez toplanır.
+(2) Danışma Kurulu, Merkezin çalışma programının hazırlanmasına katkı sağlar ve çalışma önceliklerinin belirlenmesinde Yönetim Kuruluna tavsiyelerde bulunur.
