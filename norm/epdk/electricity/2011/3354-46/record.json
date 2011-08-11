@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3354/46",
+  "decision_date": "2011-08-11",
+  "title": "Elektrik Piyasası Lisans Yönetmeliğinin 10 uncu maddesinin üçüncü fıkrasının (c) bendi hükmü çerçevesinde, banka teminat mektubu tutarına ilişkin üst sınırın 157.200.000 (yüzelliyedimilyonikiyüzbin) TL olarak belirlenmesine ilişkin",
+  "resmi_gazete_date": "2011-09-20",
+  "resmi_gazete_number": "28060",
+  "categories": [
+    "Asgari sermaye ve teminat"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=n0O+g4ESZqg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=n0O+g4ESZqg="
+  ],
+  "source_sha256": "b9ab9429d4756f667dfca2be2e515fdc38b7efd6c3fcd1e4375aa96684f0ec5c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33884,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-08-11",
+  "law_text_complete": false
+}
