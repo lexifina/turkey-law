@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, 52.05 gümrük tarife pozisyonunda yer alan pamuk ipliği (dikiş ipliği hariç) (ağırlık itibariyle % 85 veya daha fazla pamuk içeren ve perakende olarak satılacak hale getirilmemiş olanlar) ithalatında 4/8/2011 tarihli ve 28015 sayılı Resmî Gazete’de yayımlanan 2011/2041 sayılı Bakanlar Kurulu Kararı çerçevesinde açılan tarife kontenjanının başvuru ve dağıtım ile kullanım usul ve esaslarını içermektedir.
