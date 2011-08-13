@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-08-13",
+  "issue": "28024",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Mesleki Eğitim Merkezlerinde Parasız Yatılı Çırak Öğrenci Okutma ve Bunlara Yapılacak Sosyal Yardımlar ile Pansiyonların Yönetimi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/08/20110813-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/08/20110813.htm",
+  "index_sha256": "4c783b36d3d2215be20ced7c04cffa6a83ece9c676acc789351dbd8808b1af14",
+  "index_header": "13 Ağustos 2011 ... 28024 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
