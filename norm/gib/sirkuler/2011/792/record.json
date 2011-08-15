@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-49/2011-7",
+  "source_id": 792,
+  "date": "2011-08-15",
+  "title": "Vergi Usul Kanununun tekerrür ile ilgili hükmünün uygulanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/792",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "c855df896def473b09961f4ba20e25c022025809fa932623fee14071641c942b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
