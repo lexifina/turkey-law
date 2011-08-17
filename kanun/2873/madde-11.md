@@ -1,0 +1,2 @@
+Madde 11 – Bu Kanun kapsamına giren yerlerde maden ve petrol kanunları gereğince araştırma ve işletme ruhsatnamesi veya imtiyazı, 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununun ilgili hükümleri saklı kalmak kaydıyla Bakanlar Kurulu kararı ile verilebilir.
+Araştırma ve işletme faaliyetlerinde bu yerlerin korunması amacıyla riayet edilecek hususlar Orman ve Su İşleri Bakanlığınca belirlenir.

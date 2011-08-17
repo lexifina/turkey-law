@@ -1,0 +1,3 @@
+Tescil yasağı:
+Madde 15 – Bu Kanun kapsamına giren yerlerdeki kamu idareleri, kamu kurum ve kuruluşları ve Hazineye ait taşınmaz mallar ile Devletin hüküm ve tasarrufu altında bulunan yerlerdeki mevcut açıklıkların ve var olan ağaçların, bitki örtüsünün yanması, her ne sebeple olursa olsun kesilmesi, sökülmesi, boğulması, budanması sonunda oluşacak açıklıkların ve arazinin çeşitli şekillerde düzeltilmesi suretiyle elde edilecek sahaların işgali, kullanılması, bu yerlere her türlü yapı ve tesis yapılması, bu yapı ve tesislerin tapuya tescili yasaktır.
+Bu gibi yapı ve tesislere hiçbir kayıt ve şart aranmadan doğrudan doğruya Orman ve Su İşleri Bakanlığınca el konulur.

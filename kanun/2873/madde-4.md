@@ -1,0 +1,5 @@
+İşletme(1)
+Madde 4 – Bu Kanun hükümlerine göre milli park olarak belirlenen yerlerin özellik ve nitelikleri gözönünde tutularak, koruma ve kullanma amaçlarını gerçekleştirmek üzere, kuruluş, geliştirme ve işletilmelerini kapsayan gelişme planı, ilgili bakanlıkların olumlu görüşleri ve gerektiğinde fiili katkılarıyla, Orman ve Su İşleri Bakanlığınca hazırlanır ve yürürlüğe konur.
+Gelişme planı uyarınca iskan ve yapılaşmaya konu olacak yerler için, imar mevzuatına göre imar uygulama planları, milli park gelişme planı hüküm ve kararlarına uygun olarak hazırlanır veya hazırlattırılarak Çevre ve Şehircilik Bakanlığının onayı ile yürürlüğe konulur. (2)
+Üçüncü madde hükümleri uyarınca tabiat parkı, tabiat anıtı ve tabiatı koruma alanı olarak belirlenen yerler için gerekli projeler, Kültür ve Turizm Bakanlığının görüşü alınarak Orman ve Su İşleri Bakanlığınca hazırlanır ve yürürlüğe konur. (3)
+Bu Kanun kapsamına giren yerlerdeki turizm bölge, alan ve merkezlerinde, turizm yatırımlarına ilişkin plan kararları Çevre ve Şehircilik ile Orman ve Su İşleri Bakanlıklarının görüşü alınarak sonuçlandırılır. (4)
