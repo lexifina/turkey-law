@@ -190,7 +190,7 @@ TEKNOLOJİ ENSTİTÜLERİ
 103) (Ek: 14/7/2010-6005/2 md.) Kayseri Abdullah Gül Üniversitesi
 104) (Ek: 14/7/2010-6005/2 md.) Erzurum Teknik Üniversitesi
 105) (Ek: 31/3/2011-6218/2 md.) Adana Bilim ve Teknoloji Üniversitesi
-B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)
+B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
 3) (Ek: 25/6/2009-5917/47 md.) Atatürk Araştırma Merkezi
@@ -214,7 +214,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)
 21) Sivil Havacılık Genel Müdürlüğü
 22) Türk Akreditasyon Kurumu
 23) Türk Standartları Enstitüsü
-24) Millî Prodüktivite Merkezi
+(…) (7)
 25) Türk Patent Enstitüsü
 26) Ulusal Bor Araştırma Enstitüsü
 27) Türkiye Atom Enerjisi Kurumu
@@ -231,6 +231,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)
 38) (Ek: 28/12/2010-6093/14 md.) Türkiye Yazma Eserler Kurumu Başkanlığı
 39) (Ek: 6/3/2011-KHK-643/13 md.) Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı
 40) (Ek: 6/3/2011-KHK-643/13 md.) Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı
+41) (Ek: 8/8/2011-KHK-648/60 md.) Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı
 *** Bu cetvelde yer alan dipnotlar için devamı sayfaya bakınız.
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “10) Devlet Opera ve Balesi Genel Müdürlüğü” sırasından sonra gelmek üzere “11) Orman Genel Müdürlüğü” sırası eklenmiş ve cetvelin sıra numaraları teselsül ettirilmiştir.
 (2) 28/9/2006 tarihli ve 5548 sayılı Kanunun 36 ncı maddesiyle, bu bölüme “29) Kamu Denetçiliği Kurumu “ ibaresi eklenmesinden dolayı bu kuruma ait sıra numarası yeniden teselsül ettirilmiş, daha sonra bu sıra; 4/4/2009 tarihli ve 27910 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile 28/9/2006 tarihli ve 5548 sayılı Kamu Denetçiliği Kurumu Kanununun tümüyle iptal edilmesinden dolayı yürürlükten kaldırılmıştır.
@@ -238,6 +239,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)
 (4) 25/6/2010 tarihli ve 6001 sayılı Kanunun 43 üncü maddesiyle, bu bölümde yer alan “11) Yükseköğrenim Kredi ve Yurtlar Kurumu” sırasından sonra gelmek üzere “12) Karayolları Genel Müdürlüğü” ibaresi eklenmiş, cetveldeki idarelerin sıra numaraları buna göre teselsül ettirilmiştir.
 (5) 6/3/2011 tarihli ve 643 sayılı KHK’nin 13 üncü maddesiyle, “29) İhracatı Geliştirme Etüt Merkezi” sırası yürürlükten kaldırılmıştır.
 (6) 8/8/2011 tarihli ve 648 sayılı KHK’nin 19 uncu maddesiyle, bu bölümde yer alan “31) Özel Çevre Koruma Kurumu Başkanlığı” sırası yürürlükten kaldırılmıştır.
+(7) 8/8/2011 tarihli ve 649 sayılı KHK’nin 60 ncı maddesiyle, bu bölümde yer alan “24) Millî Prodüktivite Merkezi” sırası yürürlükten kaldırılmıştır.
 (III) SAYILI CETVEL (1)
 (Değişik: 22/12/2005-5436/12 md.)
 DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR
