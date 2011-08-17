@@ -1,7 +1,7 @@
 Yapı denetim kuruluşları ve görevleri
 MADDE 2 — Bu Kanun kapsamına giren her türlü yapı; Bakanlıktan aldığı izin belgesi ile çalışan ve münhasıran yapı denetimi ile uğraşan tüzel kişiliğe sahip yapı denetim kuruluşlarının denetimine tabidir. Yapı denetim hizmeti; yapı denetim kuruluşu ile yapı sahibi veya vekili arasında akdedilen hizmet sözleşmesi hükümlerine göre yürütülür. Yapı sahibi, yapım işi için anlaşma yaptığı yapı müteahhidini vekil tayin edemez.
 Yapı denetim kuruluşlarının nama yazılı ödenmiş sermayelerinin tamamının, mimar veya mühendislere ait olması zorunludur. Yapı denetim kuruluşları; denetçi mimar ve mühendisler ile yardımcı kontrol elemanları istihdam eder.
-Yapı denetim kuruluşunda görev alacak denetçi mimar ve mühendisler ile yardımcı kontrol elemanlarında ve laboratuvar görevlilerinde aranacak nitelik ve deneyim ile bu kişilere belge verilmesi, yapı denetim kuruluşunun ve laboratuvarların çalışma usul ve esasları Bakanlıkça hazırlanacak yönetmelikle düzenlenir.
+(Mülga üçüncü fıkra: 8/8/2011-KHK-648/25 md.)
 Yapı denetim kuruluşları aşağıda belirtilen görevleri yerine getirmekle yükümlüdür:
 a) Proje müelliflerince hazırlanan, yapının inşa edileceği arsa veya arazinin zemin ve temel raporları ile uygulama projelerini ilgili mevzuata göre incelemek, proje müelliflerince hazırlanarak doğrudan kendilerine teslim edilen uygulama projesi ve hesaplarını kontrol ederek, ilgili idareler dışında başka bir kurum veya kuruluşun vize veya onayına tabi tutulmadan, ilgili idareye uygunluk
 görüşünü bildirmek.
