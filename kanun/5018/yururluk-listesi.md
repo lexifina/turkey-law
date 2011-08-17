@@ -37,3 +37,4 @@ Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayıl�
 KHK/643 | (I) ve (II) Sayılı Cetvel | 12/6/2011 tarihinde yapılan milletvekili seçiminden sonra kurulan ilk Bakanlar Kurulu üyelerinin atandığı tarihte
 KHK/644 | (I) Sayılı Cetvel | 12/6/2011 tarihinde yapılan milletvekili seçiminden sonra kurulan ilk Bakanlar Kurulu üyelerinin atandığı tarihte
 KHK/648 | (II) Sayılı Cetvel | 17/8/2011
+KHK/649 | (II) Sayılı Cetvel | 17/8/2011
