@@ -26,43 +26,44 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 21) Enerji ve Tabiî Kaynaklar Bakanlığı
 22) Kültür ve Turizm Bakanlığı
 (…) (7)
-24) Aile ve Sosyal Politikalar Bakanlığı, (7)
-25) Avrupa Birliği Bakanlığı , (7)
-26) Bilim, Sanayi ve Teknoloji Bakanlığı, (7)
-27) Çevre, Orman ve Şehircilik Bakanlığı, (7)
-28) Ekonomi Bakanlığı, (7)
-29) Gençlik ve Spor Bakanlığı, (7)
-30) Gıda, Tarım ve Hayvancılık Bakanlığı, (7)
-31) Gümrük ve Ticaret Bakanlığı, (7)
-32) Kalkınma Bakanlığı, (7)
-33) Millî Güvenlik Kurulu Genel Sekreterliği
-34) Millî İstihbarat Teşkilatı Müsteşarlığı
-35) Jandarma Genel Komutanlığı
-36) Sahil Güvenlik Komutanlığı
-37) Emniyet Genel Müdürlüğü
-38) Diyanet İşleri Başkanlığı
+24) Aile ve Sosyal Politikalar Bakanlığı(7)
+25) Avrupa Birliği Bakanlığı(7)
+26) Bilim, Sanayi ve Teknoloji Bakanlığı(7)
+27) Çevre ve Şehircilik Bakanlığı(7)
+28) Ekonomi Bakanlığı(7)
+29) Gençlik ve Spor Bakanlığı(7)
+30) Gıda, Tarım ve Hayvancılık Bakanlığı(7)
+31) Gümrük ve Ticaret Bakanlığı(7)
+32) Kalkınma Bakanlığı(7)
+33) Orman ve Su İşleri Bakanlığı (7)
+34) Millî Güvenlik Kurulu Genel Sekreterliği
+35) Millî İstihbarat Teşkilatı Müsteşarlığı
+36) Jandarma Genel Komutanlığı
+37) Sahil Güvenlik Komutanlığı
+38) Emniyet Genel Müdürlüğü
+39) Diyanet İşleri Başkanlığı
 (…) (7)
-39) Hazine Müsteşarlığı
+40) Hazine Müsteşarlığı
 (…) (7)
 (…) (7)
-40) Denizcilik Müsteşarlığı
-41) (Ek: 17/2/2010-5952/18 md.) Kamu Düzeni ve Güvenliği Müsteşarlığı (4)
+41) Denizcilik Müsteşarlığı
+42) (Ek: 17/2/2010-5952/18 md.) Kamu Düzeni ve Güvenliği Müsteşarlığı (4)
 (…) (7)
 ***Bu sayfadaki dipnotlar için devamı sayfaya bakınız.
-42) Başbakanlık Yüksek Denetleme Kurulu
-43) Devlet Personel Başkanlığı
+43) Başbakanlık Yüksek Denetleme Kurulu
+44) Devlet Personel Başkanlığı
 (…) (7)
-44) Türkiye İstatistik Kurumu
-45) Afet ve Acil Durum Yönetimi Başkanlığı (3)
-46) Gelir İdaresi Başkanlığı
-47) Devlet Su İşleri Genel Müdürlüğü
+45) Türkiye İstatistik Kurumu
+46) Afet ve Acil Durum Yönetimi Başkanlığı (3)
+47) Gelir İdaresi Başkanlığı
+48) Devlet Su İşleri Genel Müdürlüğü
 (…) (5)
-48) Tapu ve Kadastro Genel Müdürlüğü
-49) Devlet Meteoroloji İşleri Genel Müdürlüğü
+49) Tapu ve Kadastro Genel Müdürlüğü
+50) Devlet Meteoroloji İşleri Genel Müdürlüğü
 (…) (7)
 (…) (1)
-50) Petrol İşleri Genel Müdürlüğü
-51) Basın-Yayın ve Enformasyon Genel Müdürlüğü
+51) Petrol İşleri Genel Müdürlüğü
+52) Basın-Yayın ve Enformasyon Genel Müdürlüğü
 (…) (7)
 (…) (7)
 (…) (7)
@@ -75,7 +76,7 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 (4) 17/2/2010 tarihli ve 5952 sayılı Kanunun 18 inci maddesiyle, bu cetvele 33 üncü sırasından sonra gelmek üzere "34) Kamu Düzeni ve Güvenliği Müsteşarlığı" ibaresi eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.
 (5) 25/6/2010 tarihli ve 6001 sayılı Kanunun 43 üncü maddesiyle, bu cetvelde yer alan “43) Karayolları Genel Müdürlüğü” ibaresi çıkarılmış ve cetveldeki idarelerin sıra numaraları buna göre teselsül ettirilmiştir.
 (6) 11/12/2010 tarihli ve 6087 sayılı Kanunun 46 ncı maddesiyle, bu cetvele 6 ncı sırasından sonra gelmek üzere “7) Hâkimler ve Savcılar Yüksek Kurulu” ibaresi eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.
-(7) 3/6/2011 tarihli ve 643 sayılı KHK’nin 13 üncü maddesiyle; bu cetvelde yer alan “15) Bayındırlık ve İskân Bakanlığı”,”18) Tarım ve Köyişleri Bakanlığı”,”20) Sanayi ve Ticaret Bakanlığı”,”23) Çevre ve Orman Bakanlığı”, “30) Devlet Planlama Teşkilatı Müsteşarlığı “, “32) Dış Ticaret Müsteşarlığı “,”33) Gümrük Müsteşarlığı”,”36) Avrupa Birliği Genel Sekreterliği”,“39) Özürlüler İdaresi Başkanlığı”,”46) Tarım Reformu Genel Müdürlüğü”,”49) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü”,”50) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü, 51) Aile ve Sosyal Araştırmalar Genel Müdürlüğü, 52) Kadının Statüsü Genel Müdürlüğü” sıraları yürürlükten kaldırılmış olup, aynı cetvele 23 üncü sırasından sonra gelmek üzere “24) Aile ve Sosyal Politikalar Bakanlığı, 25) Avrupa Birliği Bakanlığı ,26) Bilim, Sanayi ve Teknoloji Bakanlığı , 27) Çevre, Orman ve Şehircilik Bakanlığı ,28) Ekonomi Bakanlığı, 29) Gençlik ve Spor Bakanlığı, 30) Gıda, Tarım ve Hayvancılık Bakanlığı, 31) Gümrük ve Ticaret Bakanlığı, 32) Kalkınma Bakanlığı” sıraları eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.
+(7) 3/6/2011 tarihli ve 643 sayılı KHK’nin 13 üncü maddesiyle; bu cetvelde yer alan “15) Bayındırlık ve İskân Bakanlığı”,”18) Tarım ve Köyişleri Bakanlığı”,”20) Sanayi ve Ticaret Bakanlığı”,”23) Çevre ve Orman Bakanlığı”, “30) Devlet Planlama Teşkilatı Müsteşarlığı “, “32) Dış Ticaret Müsteşarlığı “,”33) Gümrük Müsteşarlığı”,”36) Avrupa Birliği Genel Sekreterliği”,“39) Özürlüler İdaresi Başkanlığı”,”46) Tarım Reformu Genel Müdürlüğü”,”49) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü”,”50) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü, 51) Aile ve Sosyal Araştırmalar Genel Müdürlüğü, 52) Kadının Statüsü Genel Müdürlüğü” sıraları yürürlükten kaldırılmış olup, aynı cetvele 23 üncü sırasından sonra gelmek üzere “24) Aile ve Sosyal Politikalar Bakanlığı, 25) Avrupa Birliği Bakanlığı ,26) Bilim, Sanayi ve Teknoloji Bakanlığı , 27) Çevre, Orman ve Şehircilik Bakanlığı ,28) Ekonomi Bakanlığı, 29) Gençlik ve Spor Bakanlığı, 30) Gıda, Tarım ve Hayvancılık Bakanlığı, 31) Gümrük ve Ticaret Bakanlığı, 32) Kalkınma Bakanlığı” sıraları eklenmiş ve diğer sıralar buna göre teselsül ettirilmiş, daha sonra bu sıra 29/6/2011 tarihli ve 644 sayılı KHK’nin 37 nci maddesiyle cetvelde yer aldığı şekilde değiştirilmiş ve teselsül ettirilmiştir.
 (II) SAYILI CETVEL (1)
 (Değişik: 22/12/2005-5436/12 md.)
 ÖZEL BÜTÇELİ İDARELER
@@ -189,7 +190,7 @@ TEKNOLOJİ ENSTİTÜLERİ
 103) (Ek: 14/7/2010-6005/2 md.) Kayseri Abdullah Gül Üniversitesi
 104) (Ek: 14/7/2010-6005/2 md.) Erzurum Teknik Üniversitesi
 105) (Ek: 31/3/2011-6218/2 md.) Adana Bilim ve Teknoloji Üniversitesi
-B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)
+B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
 3) (Ek: 25/6/2009-5917/47 md.) Atatürk Araştırma Merkezi
@@ -220,7 +221,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)
 28) Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı
 (…) (5)
 30) Türk İşbirliği ve Kalkınma İdaresi Başkanlığı
-31) Özel Çevre Koruma Kurumu Başkanlığı
+(…) (6)
 32) GAP Bölge Kalkınma İdaresi
 33) Özelleştirme İdaresi Başkanlığı
 34) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu
@@ -236,6 +237,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)
 (3) 25/6/2009 tarihli ve 5917 sayılı Kanunun 47 nci maddesiyle, bu bölüme “2)Atatürk Kültür, Dil ve Tarih Yüksek Kurumu” sırasından sonra gelmek üzere “3) Atatürk Araştırma Merkezi , 4) Atatürk Kültür Merkezi ,5) Türk Dil Kurumu, 6)Türk Tarih Kurumu” ibareleri eklenmiş ve sıra numaraları buna göre teselsül ettirilmiştir.
 (4) 25/6/2010 tarihli ve 6001 sayılı Kanunun 43 üncü maddesiyle, bu bölümde yer alan “11) Yükseköğrenim Kredi ve Yurtlar Kurumu” sırasından sonra gelmek üzere “12) Karayolları Genel Müdürlüğü” ibaresi eklenmiş, cetveldeki idarelerin sıra numaraları buna göre teselsül ettirilmiştir.
 (5) 6/3/2011 tarihli ve 643 sayılı KHK’nin 13 üncü maddesiyle, “29) İhracatı Geliştirme Etüt Merkezi” sırası yürürlükten kaldırılmıştır.
+(6) 8/8/2011 tarihli ve 648 sayılı KHK’nin 19 uncu maddesiyle, bu bölümde yer alan “31) Özel Çevre Koruma Kurumu Başkanlığı” sırası yürürlükten kaldırılmıştır.
 (III) SAYILI CETVEL (1)
 (Değişik: 22/12/2005-5436/12 md.)
 DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR
