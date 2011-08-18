@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.05.10.00-2010/GVK-65-23",
+  "source_id": 22070,
+  "date": "2011-08-18",
+  "title": "Serbest Meslek Faaliyeti Sonucu Tanzim Edilecek Belge hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22070",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "6e3a40b10438dc66de268c4f212ba1f9b1d318ac20d1fbfac563c1c0a7b57e30",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
