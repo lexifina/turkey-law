@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 6-1332",
+  "source_id": 24079,
+  "date": "2011-08-18",
+  "title": "Kurumlar vergisi mükellefi olan kooperatifin üyelerinden topladığı aidatları bankada değerlendirilmesi sonucu elde edilen faiz ve fon gelirlerinin vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24079",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "cdc9f81c92fe95ddb159115c9b77205699a18ca534a04625c72d58ec08d67341",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
