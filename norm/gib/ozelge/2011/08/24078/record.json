@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.54.15.01-121-2010-2-31",
+  "source_id": 24078,
+  "date": "2011-08-18",
+  "title": "Kooperatifin elde ettiği kira gelirinin ve bankada işletilmesi sonucu elde edilen faiz gelirinin üyelerine dağıtılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24078",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c1efb3484e6636f08660e8dd276685ff95452f85d9e8c672daaa41f7da0f46c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
