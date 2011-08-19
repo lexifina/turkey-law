@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-019.01-1358",
+  "source_id": 26786,
+  "date": "2011-08-19",
+  "title": "İşletme aktifine kayıtlı binaların değerlemesi, Yeniden Değerleme ve Değer Artış Fonu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26786",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "c7a00c873eb158869bc3517c485d58b4071a396ba2641bd8b16e0f5f28678150",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
