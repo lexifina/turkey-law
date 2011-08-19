@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 6-1352",
+  "source_id": 37501,
+  "date": "2011-08-19",
+  "title": "4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu kapsamında istisna kapsamına giren ve girmeyen faaliyetlerin birlikte yapılması halinde müşterek genel giderlerin dağıtılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37501",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "5ef862fc9ae18a2f654d75fe6f1fea163054f898f1794203efe432deb234522f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
