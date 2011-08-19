@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.03.10.00-KVK.MUK.196-33",
+  "source_id": 28140,
+  "date": "2011-08-19",
+  "title": "İş kazasında ölen işçinin varislerine ödenen tutarların safi kurum kazancının tespitinde gider olarak yazılıp yazılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28140",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "9e71782f56400e7c191f377090f9b6a0a1a9018d6645a03c0c1da07811504adb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
