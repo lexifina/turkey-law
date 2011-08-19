@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 8-1348",
+  "source_id": 22713,
+  "date": "2011-08-19",
+  "title": "Özel matrah şekline tabi kontör satışı işiyle iştigal eden mükellefin genel giderleri ile indirim konusu yapamadığı KDV'sini gider yazıp yazamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22713",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "ffc86aabe4fd9a78d28665aad98e3c7ec5ff36246b350bde9840e62727eb8e52",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
