@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.14019",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE TARIM HAVZALARI ÜRETİM VE DESTEKLEME MODELİNE GÖRE 2010 YILI ÜRÜNÜ YAĞLI TOHUMLU BİTKİLER FARK ÖDEMESİ DESTEĞİNE İLİŞKİN BAKANLAR KURULU KARARI UYGULAMA TEBLİĞİ (TEBLİĞ NO: 2010/23)",
+  "number": "14019",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2010/14019",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14019&MevzuatTertip=5",
+  "source_sha256": "4f7e0288955d41a3b1edbada5760e0822893b025601b5d7db9c62b8fc0637a54",
+  "source_bytes": 73697,
+  "published": "2010-06-05",
+  "gazette": "27602",
+  "in_force": "2011-08-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/8/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-08-20",
+      "RG-20/8/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2514,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
