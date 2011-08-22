@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.03.49-010.01-15",
+  "source_id": 28798,
+  "date": "2011-08-22",
+  "title": "Kobi birleşmesi istisnasında istihdam şartı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28798",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "ba14df6fb0ae63383edab21aa5ad9ae17ff82ce533d4bb06debd5114f50d3ce7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
