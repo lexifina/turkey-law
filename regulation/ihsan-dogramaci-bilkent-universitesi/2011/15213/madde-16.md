@@ -1,0 +1,2 @@
+Ulusal merkez gelirleri
+MADDE 16 – (1) Ulusal Merkezin gelirleri; Devlet bütçesinden Ulusal Merkez tarafından kullanılmak üzere her yıl tahsis edilen ödeneklerden, Ulusal Merkezin sunduğu hizmetler ve yapılan projelerden elde edilen gelirlerden, bağışlar, dış destekler, patent hakları ve Üniversitece sağlanan gelirlerden oluşur. Ulusal Merkezin personel giderleri ve ısınma, elektrik, su, temizlik, güvenlik, kırtasiye gibi cari masrafları ve yatırım harcamaları kendi kaynaklarından karşılanır. Ulusal Merkez mali işlemlerinde ilgili mevzuat hükümlerine uymakla yükümlüdür.
