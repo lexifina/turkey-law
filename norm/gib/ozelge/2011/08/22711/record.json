@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.01-KV-10-60-178",
+  "source_id": 22711,
+  "date": "2011-08-22",
+  "title": "Uzlaşma sonucuna göre kesinleşen kurumlar ve damga vergilerinin kurum kazancının tespitinde gider olarak indirim konusu yapılıp yapılmayacağı ve kayıtlara alınacağı dönem hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22711",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "7d41c4d0a0d1355e992a9cc96650cb92ab23e98934313563a4ee68b059beb7c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
