@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-KDV-11/1-a-c-96",
+  "source_id": 31046,
+  "date": "2011-08-22",
+  "title": "Katma Değer Vergisi Kanununun 11/1-a ve c maddelerine istinaden yapılan ihracatın TL'sı cinsinden yapılmasının iade işlemlerine engel teşkil edip etmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31046",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "af98d4e045409906e0152c946ea0476f85c6e8d27ee6694e02a4ad3bb5d238c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
