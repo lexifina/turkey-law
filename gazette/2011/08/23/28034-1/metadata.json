@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-08-23",
+  "issue": "28034",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2011/2069 Bazı Anlaşmaların Yürürlük Tarihlerinin Tespit Edilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/08/20110823-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/08/20110823.htm",
+  "index_sha256": "990708b94ce9d7320f64600fc0af1a925fddb92e90d5e0c8db72b2aec8ad613a",
+  "index_header": "23 Ağustos 2011 ... 28034 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "412e8c5d1403b0a0eb0cf6cda40925a8202555b7fbb28ed11d1c626ea3a5adea",
+  "text_status": "text.txt as published"
+}
