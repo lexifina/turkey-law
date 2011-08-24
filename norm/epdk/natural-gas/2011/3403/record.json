@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3403",
+  "decision_date": "2011-08-24",
+  "title": "Adapazarı Gaz Dağıtım A.Ş.için Kurul Kararı",
+  "resmi_gazete_date": "2011-09-09",
+  "resmi_gazete_number": "28049",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=A0IK4VUV3z4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=A0IK4VUV3z4="
+  ],
+  "source_sha256": "c481a62fddd0b9f65652380416c0ac31fe2c486342ce946597efedc64ed1ac72",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-08-24",
+  "law_text_complete": false
+}
