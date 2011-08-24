@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.59.15.01-KDV-174-2010-33",
+  "source_id": 30732,
+  "date": "2011-08-24",
+  "title": "Polietilen ile Plastik Granülü İşlemden Geçirmek Suretiyle Üretilen Mamülün KDV Tevkifatı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30732",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "a683b61af305c90961e82cf1da757ded88777e6ca1d378f8ab7010916c3c68a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
