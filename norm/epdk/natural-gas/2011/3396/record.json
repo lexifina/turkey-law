@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3396",
+  "decision_date": "2011-08-24",
+  "title": "ŞİD 1. Kısmı F Bölümünde, Gaz Yılı öncesinde sisteme giriş için kapasite rezervasyon talebinde bulunacakların, bu taleplerini Taşıyıcı’ya sunacağı son tarih olan 30 Eylül, 2012 Gaz Yılına mahsus olmak üzere, 18 Kasım 2011 tarihine ötelenmesine ilişkin",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=O8BuwkoqE4k=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=O8BuwkoqE4k="
+  ],
+  "source_sha256": "e3056826d72d2309d511173302922d181e337310c75946b648233a81524a7a8f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-08-24",
+  "law_text_complete": false
+}
