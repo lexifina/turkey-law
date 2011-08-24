@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[89-11/1]-666",
+  "source_id": 24362,
+  "date": "2011-08-24",
+  "title": "Eğitim görülen okul tarafından alınması ve kullanılması zorunlu kılınan, faturalı olarak okulda satışı yapılan, okulun logosunu taşıyan ve haricen başka yerde kullanılamayacak olan tek tip okul kıyafetlerine yapılan harcamaların indirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24362",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "6976159081acd1a82b5562efddaeef024409cee78d0abe8bec014d35b11fd0aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
