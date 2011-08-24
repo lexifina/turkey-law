@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.01-40-MUK-2010-65-251",
+  "source_id": 30733,
+  "date": "2011-08-24",
+  "title": "Yapı Denetim Firmalarınca Konut Yapı Koop. verilen hizmetlerde tevkifat uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30733",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "8e46f890239ad0768de4a80cc9b7e04e45d9ea2fafab8ac0b0c6f4ee15a34d5a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
