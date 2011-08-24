@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 - (1) Bu Tebliğ, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunun 90 ıncı maddesine 17/4/2008 tarihli ve 5754 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun 54 üncü maddesi ile eklenen altıncı fıkrasının uygulanmasına ilişkin usul ve esasları düzenlemekte; devlet yardımı, teşvik ve desteklerden yararlanacak olanları kapsamaktadır.
