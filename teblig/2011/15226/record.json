@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.15226",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAYITLI ELEKTRONİK POSTA SİSTEMİ İLE İLGİLİ SÜREÇLERE VE TEKNİK KRİTERLERE İLİŞKİN TEBLİĞ",
+  "number": "15226",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "path": "teblig/2011/15226",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15226&MevzuatTertip=5",
+  "source_sha256": "c20c3b8ad5a38fdaa5ac45733637bebc653062306f2fd63667cbdca37d5c52b4",
+  "source_bytes": 15941,
+  "published": "2011-08-25",
+  "gazette": "28036",
+  "in_force": "2011-08-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.08.2011); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 482,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
