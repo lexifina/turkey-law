@@ -1,0 +1,591 @@
+25 Ağustos 2011 PERŞEMBE
+Resmî Gazete
+Sayı : 28036
+YÖNETMELİK
+Bilgi
+Teknolojileri ve İletişim Kurumundan:
+KAYITLI
+ELEKTRONİK POSTA SİSTEMİNE İLİŞKİN USUL
+VE ESASLAR
+HAKKINDA YÖNETMELİK
+BİRİNCİ
+BÖLÜM
+Amaç,
+Kapsam, Dayanak, Tanımlar ve Kısaltmalar ile İlkeler
+Amaç
+MADDE 1 – (1) Bu
+Yönetmeliğin amacı; kayıtlı elektronik posta sisteminin hukukî ve teknik
+yönleri ile işleyişine ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu
+Yönetmelik; kayıtlı elektronik posta sistemine, bu sistemle yapılacak
+işlemler ile bu işlemlerin sonuçlarına, kayıtlı elektronik posta adresine
+sahip gerçek ve tüzel kişilere, kayıtlı elektronik posta hizmet
+sağlayıcılarının hak ve yükümlülüklerine, yetkilendirilmelerine ve
+denetimlerine ilişkin usul ve esasları kapsar.
+Dayanak
+MADDE 3 – (1) Bu
+Yönetmelik 13/1/2011 tarihli ve 6102 sayılı Türk
+Ticaret Kanununun 1525 inci maddesine dayanılarak hazırlanmıştır.
+Tanımlar ve
+kısaltmalar
+MADDE 4 – (1) Bu
+Yönetmelikte geçen;
+a) Alıcı: Orijinal iletinin alıcısı durumundaki hesap
+sahibini veya işlem yetkilisini,
+b) Arşiv: 16 ncı maddenin
+birinci fıkrasının (ı) bendinde belirtilen ve kayıtlı elektronik posta
+hizmet sağlayıcısının saklamakla yükümlü olduğu bilgi, belge ve elektronik
+verileri,
+c) Elektronik imza: Başka bir elektronik veriye eklenen
+veya elektronik veriyle mantıksal bağlantısı bulunan ve kimlik doğrulama
+amacıyla kullanılan elektronik veriyi,
+ç) Elektronik sertifika: İmza sahibinin imza doğrulama
+verisini ve kimlik bilgilerini birbirine bağlayan elektronik kaydı,
+d) Elektronik veri: Elektronik, optik veya benzeri
+yollarla üretilen, taşınan veya saklanan ya da elektronik, optik veya
+benzeri ortamlara aktarılan kayıtları,
+e) ESHS: Elektronik Sertifika Hizmet Sağlayıcısını,
+f) Gönderici: Orijinal iletinin göndericisi durumundaki
+hesap sahibini veya işlem yetkilisini,
+g) Güvenli elektronik imza: 15/1/2004
+tarihli ve 5070 sayılı Elektronik İmza Kanununun 4 üncü maddesinde
+tanımlanan elektronik imzayı,
+ğ) Hesap sahibi: Adına KEP hesabı tahsis edilen gerçek
+kişiyi veya kamu veya özel hukuk tüzel kişisini,
+h) İşlem sertifikası: Kayıtlı elektronik posta hizmet
+sağlayıcısının hizmetlerine ilişkin işlem verilerini imzalamak için
+kullandığı elektronik sertifikayı,
+ı) İşlem yetkilisi: Hesap sahibinin tüzel kişi olduğu
+durumlarda ilgili KEP hesabına ilişkin işlemleri tüzel kişi nam ve hesabına
+yapan gerçek kişi veya kişileri,
+i) Kayıtlı elektronik posta (KEP): Elektronik
+iletilerin, gönderimi ve teslimatı da dâhil olmak üzere kullanımına ilişkin
+olarak hukukî delil sağlayan, elektronik postanın nitelikli şeklini,
+j) Kayıtlı elektronik posta hizmet sağlayıcısı (KEPHS): 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu
+kapsamındaki yetkilendirme çerçevesinde KEP sistemi kurmak ve işletmek için
+kurulan anonim şirket ile başvuru yapması ve gerekli koşulları sağlaması
+hâlinde 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun hükümlerine
+göre elektronik ortamda tebligat yapmaya yetkili kılınmış idareyi,
+k) KEP delili: Belirli bir işlemin belirli bir zamanda
+meydana geldiğini gösteren, KEP sisteminde üretilen ve KEPHS’nin
+işlem sertifikası ile imzalanmış veriyi,
+l) KEP hesabı: Orijinal ileti gönderme ve alma ile KEP
+iletisi alma yeteneğine sahip KEP sisteminde oluşturulan elektronik posta hesabını,
+m) KEP iletisi: KEP sistemi içerisinde KEPHS tarafından
+üretilen KEP delilini içeren ve KEPHS’nin işlem
+sertifikası ile imzalanmış iletiyi,
+n) KEP rehberi: KEP hesabı bilgilerinin doğruluğunun ve
+güncelliğinin sorgulanabilmesi amacıyla işletilen bilgi ve sorgu sistemini,
+o) KEP sistemi: Elektronik iletişim platformları
+aracılığıyla gerçekleşen, gönderildi ve alındı onayları da dâhil olmak
+üzere KEP iletilerinin tüm süreçlerine ilişkin olarak KEP delili
+oluşturulması, güvenli bir şekilde kimlik tespiti yapılması, KEP hesabı,
+KEP rehberi ve arşiv hizmetleri verilmesi gibi işlevlere sahip sistemi,
+ö) Kurul: Bilgi Teknolojileri ve İletişim Kurulunu,
+p) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+r) MERSİS: Ticaret sicili kayıtlarını da içeren, Gümrük
+ve Ticaret Bakanlığı tarafından oluşturulan ve yönetilen Merkezi Sicil
+Kayıt Sistemini,
+s) MERSİS No: MERSİS tarafından Ticaret Siciline kayıtlı
+tüzel kişilere verilen tekil numarayı,
+ş) Orijinal ileti: Gönderici tarafından üretilen ve
+göndericinin güvenli elektronik imzasını taşıyan iletiyi,
+t) Tebliğ: Kayıtlı Elektronik Posta Sistemi ile İlgili
+Süreçlere ve Teknik Kriterlere İlişkin Tebliği,
+u) Sakla-ilet: KEP iletilerinin, alıcının veya
+göndericinin KEP hesaplarına doğrudan ulaştırıldığı KEP çalışma modelini,
+ü) Sakla-bildir: KEP iletilerinin KEPHS’nin
+sistemlerinde tutulduğu ve alıcının ya da göndericinin söz konusu iletilere
+erişebilmesini temînen KEP hesaplarına bir
+bağlantı adresinin ulaştırıldığı KEP çalışma modelini,
+v) Zaman damgası: 5070 sayılı Elektronik İmza Kanununun
+3 üncü maddesinde tanımlanan zaman damgasını,
+ifade eder.
+İlkeler
+MADDE 5 – (1) Bu
+Yönetmeliğin uygulanmasında aşağıdaki ilkeler göz önüne alınır;
+a) Niceliksel ve niteliksel devamlılık, güvenilirlik,
+ayrımcı olmama, düzenlilik, verimlilik, açıklık, şeffaflık ve kaynakların
+etkin kullanılması,
+b) Alıcı ve göndericinin haklarının korunması,
+c) Hizmet kalitesinin sağlanması,
+ç) Birlikte çalışabilirlik ilkelerine riayet edilmesi,
+d) Etkin ve sürdürülebilir rekabet ortamının sağlanması,
+e) Uluslararası standartların dikkate alınması,
+f) Bilgi güvenliğinin sağlanması,
+g) Kişisel verilerin korunması için gerekli tedbirlerin
+alınması.
+İKİNCİ
+BÖLÜM
+Kayıtlı
+Elektronik Posta Hizmet Sağlayıcıların Yetkilendirilmesi
+Başvurunun
+yapılması
+MADDE 6 – (1) KEPHS
+olmak isteyenler, yapacağı başvuruda KEPHS olma talebini içeren dilekçeyi
+ve bu Yönetmelik Ek’inde yer alan bilgi ve belgeleri eksiksiz olarak Kuruma
+sunar.
+(2) Sunulan bilgi ve belgelerde Kurum tarafından
+eksiklik tespit edilmesi hâlinde, eksikliğin giderilmesi için başvuru
+sahibine en fazla on beş gün süre verilir. Tespit edilen eksikliklerin
+giderilmesi hâlinde başvuru Kurum tarafından kabul edilir.
+(3) Kurum tarafından verilmiş olan sürenin sonuna kadar
+söz konusu eksiklikleri gidermeyen başvuru sahibinin başvurusu işlemden
+kaldırılır.
+(4) ESHS olarak veya 5/11/2008
+tarihli ve 5809 sayılı Elektronik Haberleşme Kanunu kapsamında işletmeci
+olarak faaliyet gösterenler KEPHS olmak için başvuruda bulunamaz.
+Başvurunun
+incelenmesi ve yetkilendirme
+MADDE 7 – (1) Kurum
+tarafından kabul edilen başvuru incelemeye alınır ve inceleme iki ay içinde
+sonuçlandırılır.
+(2) Başvuruda istenen bilgi ve belgelerde yer alan
+hususları eksiksiz olarak yerine getirdiği tespit edilen başvuru sahipleri
+Kurum tarafından KEPHS olarak yetkilendirilir ve faaliyete başlar.
+(3) Kurum tarafından yapılan inceleme sonucunda,
+başvuruda istenen bilgi ve belgelerde yer alan hususlarından bir veya
+birkaçının eksikliği veya yerine getirilmediği tespit edilirse, durum
+gerekçeleriyle birlikte yazılı olarak başvuru sahibine bildirilir ve bu
+eksikliklerin giderilmesi için en fazla bir ay süre verilir.
+(4) Kurum tarafından verilen sürenin sonuna kadar
+başvuruda istenen bilgi ve belgelerde yer alan hususlardaki eksiklikleri
+gidermeyen başvuru sahibinin başvurusu işlemden kaldırılır.
+Başvuru
+bilgilerinde değişiklik
+MADDE 8 – (1) KEPHS,
+faaliyete başladıktan sonra, yapmış olduğu başvuruda verdiği bilgi ve
+belgelerde herhangi bir değişiklik meydana gelmesi hâlinde, bu
+değişiklikleri yedi gün içinde Kuruma bildirir.
+ÜÇÜNCÜ
+BÖLÜM
+Kayıtlı
+Elektronik Posta Sistemi İşlemleri ve Sonuçları
+Kayıtlı
+elektronik posta hesabı başvurusu
+MADDE 9 – (1) KEP
+hesabı almak isteyen gerçek veya tüzel kişiler KEPHS’ye
+başvuruda bulunur.
+(2) KEPHS başvuru sahibinin kimliğini aşağıdaki şekilde
+tespit eder:
+a) Gerçek kişiler için nüfus cüzdanı, pasaport, sürücü
+belgesi gibi fotoğraflı ve kimlik yerine geçen geçerli resmî belgelerle
+veya güvenli elektronik imza ile,
+b) Tüzel kişiler tarafından sunulan bilgi ve belgeler
+için MERSİS vasıtasıyla MERSİS No ile.
+(3) Tüzel kişiler, işlem yetkilisi olarak belirledikleri
+kişilerin kimlik bilgilerini ve yetkili olduklarını gösteren bilgi ve
+belgeleri başvuru sırasında KEPHS’ye bildirir.
+(4) KEPHS gerekli kontrollerden geçen KEP hesabı
+başvurusunu kabul eder ve KEP hesabını oluşturur.
+(5) KEPHS, oluşturulan KEP hesabına ilişkin bilgileri
+başvuru sahibine güvenli bir şekilde teslim eder.
+(6) KEP hesabı adreslerine ilişkin usul ve esaslar Kurum
+tarafından belirlenir.
+Kayıtlı
+elektronik posta hesabının kullanıma açılması
+MADDE 10 – (1)
+KEPHS, başvuru sahibi ile sözleşme
+veya taahhütname imzalar.
+(2) KEPHS, başvuru sahibinin;
+a) Gerçek kişi olduğu durumda, başvuru sahibinin
+onayını,
+b) Tüzel kişi olduğu durumda, KEPHS başvuru formunda
+belirtilen işlem yetkilisinin onayını,
+güvenli elektronik
+imza ile aldıktan sonra ilgili KEP hesabını kullanıma açar.
+(3) Gerçek kişinin, KEP hesabını sadece ileti almak
+amacıyla kullanacağını belirtmesi hâlinde KEP hesabı açılışı için gerekli
+olan onay güvenli elektronik imzalı veya ıslak imzalı olarak alınabilir.
+Kayıtlı
+elektronik posta sisteminin kullanımı
+MADDE 11 – (1) KEP
+sistemi, bir elektronik iletinin tarafları veya muhatapları arasında KEP
+hesabı vasıtasıyla hukukî ve teknik güvenliğe sahip bir şekilde gönderilip
+alınmasını sağlamak ve güvenli iletişimde bulunmak gibi amaçlarla
+kullanılır.
+(2) KEP hesabının, hesap sahibi tarafından kendi nam ve
+hesabına kullanılması esastır. Hesap sahibinin tüzel kişi olduğu
+durumlarda; KEP hesabı, bu Yönetmelik hükümlerinde belirtilen şekilde yetki
+verilmiş olan işlem yetkilisi tarafından hesap sahibinin nam ve hesabına
+kullanılır.
+(3) KEP hesabı kullanılarak yapılabilecek işlemler ve
+sonuçları KEPHS ile hesap sahibi arasında imzalanan sözleşme veya taahhütname
+ile belirlenir.
+(4) Hesap sahibi olan tüzel kişi istediği zaman işlem
+yetkilisini değiştirebilir.
+Kayıtlı
+elektronik posta hesabının kontrol edilmesi
+MADDE 12 – (1) Hesap
+sahibinin ya da işlem yetkilisinin, KEP hesabına erişerek gelen iletileri
+kontrol etmesi esastır.
+(2) Mücbir sebep hâlleri dışında KEP hesabına
+erişilmemesi durumunda o işgünü içinde gelen iletinin ertesi işgünü hesap
+sahibine ulaştığı ve okunduğu kabul edilir.
+Kayıtlı
+elektronik posta hesabının kullanıma kapatılması
+MADDE 13 – (1) KEP
+hesabı, hesap sahibinin talebi veya ölümü, sözleşme veya taahhütname ile
+belirlenen kullanıma kapatma durumlarının gerçekleşmesi veya KEPHS’nin faaliyetine son vermesi veya verilmesi
+hâllerinde kullanıma kapatılır.
+(2) KEP hesabının kullanıma kapatılmasına ilişkin
+talepler hesap sahibi veya sözleşme ya da taahhütname ile belirlenen
+kişiler tarafından yapılır.
+(3) KEPHS, kullanıma kapatılma talebini hesap sahibinin,
+işlem yetkilisinin veya sözleşme veya taahhütname ile kapatma talebinde
+bulunma yetkisi verilenlerin kimlik bilgilerini doğrulayarak alır ve ilgili
+KEP hesabının kullanıma kapatılma işlemini gerçekleştirir.
+(4) Kullanıma kapatılan KEP hesabından ileti gönderimi
+ve alımı engellenir. Ancak KEP hesabı en az üç ay erişime açık tutulur. Bu
+sürenin sonunda KEPHS ilgili KEP hesabını tamamen kullanıma kapatır.
+(5) KEPHS, kullanıma kapatmaya ilişkin taleplerin
+alınmasını yedi gün yirmidört saat kesintisiz
+olarak sağlar.
+(6) Kullanıma kapatılan KEP hesabına ilişkin tüm bilgi,
+belge ve KEP delilleri 16 ncı maddenin birinci
+fıkrasının (ı) bendinde belirtilen arşiv süresi boyunca güvenliği ve veri
+bütünlüğü sağlanarak saklanır.
+(7) KEP hesabı geçmişe yönelik olarak hiçbir şekilde
+kullanıma kapatılamaz veya silinemez.
+(8) Kullanıma kapatılan bir KEP hesabı yeniden tahsis
+edilemez. Kullanıma kapatılan KEP hesabı, ancak hesap sahibinin talep
+etmesi ve kimlik tespitine ilişkin gerekli işlemleri yaptırması hâlinde
+yeniden kullanıma açılabilir.
+Kayıtlı
+elektronik posta sisteminde yapılabilecek diğer işlemler
+MADDE 14 – (1) KEPHS,
+KEP sistemi içerisinde bir elektronik iletinin gönderilmesi ve alınması
+dışında elektronik belgelerin saklanması, güvenli iletişim ve elektronik
+ortamda güvenilir üçüncü taraf hizmetleri gibi katma değerli hizmetler
+sunabilir.
+Hukukî
+sonuçlar
+MADDE 15 – (1) KEPHS’nin KEP sistemi üzerinden sunduğu hizmetlere
+ilişkin olarak oluşturduğu kayıtlar ile KEP delilleri senet hükmündedir ve
+aksi ispat edilinceye kadar kesin delil sayılır.
+(2) KEP hesabı kullanılarak gerçekleştirilen tüm işlemlere
+ilişkin hukukî sonuçlar hesap sahibi üzerinde doğar.
+DÖRDÜNCÜ
+BÖLÜM
+Yükümlülükler
+KEPHS’nin yükümlülükleri
+MADDE 16 – (1) KEPHS;
+a) Sakla-ilet ve sakla-bildir çalışma modellerinin biri
+veya her ikisi ile hizmet vermekle,
+b) Sunmakta olduğu hizmetler için, bu Yönetmelikte
+belirlenen kriterlere uygun olarak bu hizmetlerin
+gerektirdiği güvenlik seviyelerine uygun ve güvenilir bir kimlik doğrulama
+mekanizması tesis etmekle,
+c) KEP hesabının kullanıma kapatılmasına ilişkin
+taleplerin alınması ve derhâl gerçekleştirilebilmesi için yedi gün yirmidört saat erişilebilir bir hizmeti sunmakla,
+ç) KEP hesabının ve bu hesap üzerinden verilen
+hizmetlerin güvenliğini, gizliliğini ve bütünlüğünü sağlamakla,
+d) Kişisel verilerin korunması için gerekli tedbirleri almakla,
+e) KEP sisteminin tüm süreçlerine ilişkin günlük
+kayıtlarını güvenliğini, gizliliğini ve bütünlüğünü sağlayarak kayıt altına
+almakla,
+f) KEP sisteminin tüm süreçlerinde oluşturulan KEP
+iletilerini ve KEP delillerini ilgili KEP hesabına anlaşılabilir ve
+okunabilir bir şekilde iletmekle, hesap sahibinin talebi hâlinde, KEP
+hesabına gelen iletilerin teslim alınmasına ilişkin bilgileri, alternatif
+iletişim kanalları üzerinden bildirmekle,
+g) KEP hesabına bir web ara yüzü veya elektronik posta
+istemci programları üzerinden güvenli bir şekilde erişilebilmesini,
+iletilerin okunabilmesini ve gönderilebilmesini sağlamakla,
+ğ) Hesap sahibinin önceden
+onayını almak kaydıyla kendisine ait bilgiler ile KEP hesabı bilgilerinden
+oluşan KEP rehberini tüm hesap sahipleri ve işlem yetkililerinin erişimine
+yedi gün yirmidört saat kesintisiz olarak açık tutmakla,
+kendi sistemleri üzerinde bulunan KEP hesaplarına ilişkin değişiklikleri
+ilgili KEP rehberine gerçek zamanlı olarak işleyerek güncellemekle ve diğer
+KEPHS’lerle birlikte KEP rehberini gerçek zamanlı
+olarak güncel tutmak için gerekli teknik altyapıyı kurmak ve işletmekle,
+h) KEP hesabının kullanılmasını sağlayan ara yüzleri
+engelli kişilerin de erişimlerini sağlayacak şekilde Tebliğ’de belirtilen
+standartlara uygun olarak hazırlamakla,
+ı) KEP sisteminin tüm süreçlerine ve işleyişine ilişkin
+bilgi, belge ve elektronik veriler ile, işlemlerin
+yapıldığı zamana ve işlemleri yapan kişiye veya kişilere ait bilgileri
+içeren kayıtları gizliliğini, bütünlüğünü ve erişilebilirliğini koruyarak
+en az yirmi yıl süreyle saklamakla,
+i) KEP hesabının ilk kullanımından önce hesap sahibini
+ve varsa işlem yetkilisini KEP sistemine ilişkin tüm süreçler hakkında
+bilgilendirmekle,
+j) Sözleşmenin veya taahhütnamenin yenilenmemesi durumunda
+KEP hesabının kullanıma kapatılacağına ilişkin hesap sahibini ve işlem
+yetkilisini sözleşme veya taahhütname süresinin sona ermesinden üç ay önce
+uygun iletişim kanallarından en az birisi ile bilgilendirmekle,
+k) KEP hesabının kapatılması sürecinde, herhangi bir
+mağduriyetin yaşanmamasını temînen gerekli
+tedbirleri almakla,
+l) KEP sistemine ilişkin ana ve yedek sistemlerini
+Türkiye Cumhuriyeti sınırları içerisinde bulundurmakla,
+m) KEP sistemindeki tüm imzalama süreçlerinde ESHS’ler tarafından KEPHS için oluşturulan işlem
+sertifikasını kullanmakla,
+n) Hesap sahibinin veya işlem yetkilisinin talep etmesi
+hâlinde KEP delillerinin gerçek zamanlı olarak doğrulanması hizmetini
+sunmakla,
+yükümlüdür.
+Hesap
+sahibinin yükümlülükleri
+MADDE 17 – (1) Hesap
+sahibi;
+a) KEP hesabı başvurusu için gerekli olan bilgi ve
+belgeleri tam ve doğru olarak KEPHS’ye vermekle,
+b) Başvurusunda KEP hesabını sadece alıcı veya hem alıcı
+hem gönderici olarak kullanacağını KEPHS’ye
+açıkça belirtmekle,
+c) Başvurusunda sakla-ilet ve sakla-bildir çalışma
+modellerinden hangisi ile hizmet alacağını açıkça KEPHS’ye
+belirtmekle,
+ç) KEP hesabı bilgilerinde olan değişiklikleri, KEPHS’ye derhâl bildirmekle,
+d) KEPHS ile imzaladığı sözleşmede veya taahhütnamede
+belirtilen hüküm ve koşullara uygun hareket etmekle,
+e) Kimlik doğrulama amacıyla kendisine verilen bilgileri
+korumakla, üçüncü kişilerle paylaşmamakla ve başkasına kullandırmamakla,
+yükümlüdür.
+Kurumun
+yükümlülükleri
+MADDE 18 – (1) Kurum;
+a) KEPHS’lerin Kuruma başvuru
+sürecine ve faaliyet durumuna ilişkin bilgileri,
+b) KEP sistemine ilişkin yaptığı çalışmalarla ve
+sektörün durumuyla ilgili hazırlayacağı yıllık durum raporunu,
+internet sayfasında
+yayımlar.
+BEŞİNCİ
+BÖLÜM
+Malî
+Hususlar
+Kayıtlı
+elektronik posta sistemi ile ilgili ücretler
+MADDE 19 – (1) KEPHS,
+sunduğu hizmetlere ilişkin ücretleri belirlemekte serbesttir. Ancak Kurum
+rekabetçi ortam gerekleri veya tüketici haklarının korunması amacıyla KEP
+sistemi ile ilgili hizmetlere ait tarifeler için ilgili Kurum mevzuatı
+çerçevesinde onaylama süreci işletebilir, ücretlere alt ve üst sınır
+getirebilir.
+İdari ücret
+MADDE 20 – (1) Kurum,
+KEPHS’den bir önceki yıla ait net satışlarının
+binde dördü (% 0,4) kadar idarî ücret alır. KEPHS bu ücretin tespit
+edilebilmesini temînen, sunmuş olduğu hizmetler
+ile bu hizmetlere ilişkin hesapları ayrıştırır.
+(2) İdari ücretin tamamı her takvim yılı Nisan ayının
+sonuna kadar Kuruma ödenir.
+ALTINCI
+BÖLÜM
+Faaliyetin
+Sona Ermesi
+Kurum
+tarafından kayıtlı elektronik posta hizmet sağlayıcısının faaliyetine son verilmesi
+MADDE
+21 –
+(1) KEPHS’nin faaliyetinin devamı sırasında
+başvuruda istenen bilgi ve belgelerde yer alan hususlardan birini veya
+birkaçını kaybettiğinin tespit edilmesi hâlinde KEPHS’ye
+bu eksikliğin giderilmesi için Kurum tarafından bir aya kadar süre verilir
+ve KEP sisteminin güvenliğinin tehlikeye düşmesi, alıcı ve gönderici
+haklarının yaygın ihlali, birlikte çalışabilirlik ilkelerine riayet
+edilmemesi gibi durumlarda bu süre içinde KEPHS’nin
+faaliyeti durdurulur. Verilen sürenin sonunda eksikliğin
+giderilmemesi hâlinde KEPHS’nin faaliyetine Kurum
+tarafından son verilir ve yetkilendirilmesi iptal edilir.
+(2) Birinci fıkrada belirtilen faaliyete son verme
+hâllerinden birinin gerçekleşmesiyle faaliyetine son verilen KEPHS,
+faaliyete son verme kararının tebliğ tarihinden itibaren onbeş gün içinde faaliyette bulunan
+herhangi bir KEPHS ile KEP hesaplarının, ilgili KEP delillerinin ve KEP
+sistemi kayıtlarının devri konusunda anlaşabilir. Kurum, taraflar arasında
+anlaşma sağlanması durumunda, faaliyetine son verilen KEPHS’nin
+oluşturduğu KEP hesaplarının, ilgili KEP delillerinin ve KEP sistemi
+kayıtlarının anlaşma sağlanan KEPHS’ye
+devredilmesine karar verir. Faaliyetine son verilen KEPHS ile faaliyette
+bulunan herhangi bir KEPHS arasında onbeş gün
+içinde anlaşma sağlanamaması durumunda Kurum, devir işleminin faaliyette
+olan herhangi bir KEPHS’ye yapılmasına re’sen karar verir. KEP hesaplarını, ilgili KEP
+delillerini ve KEP sistemi kayıtlarını devralan KEPHS gerekli işlemleri
+başlatır ve bir ay içinde bu işlemleri tamamlar. Kurum, uygun görmesi
+hâlinde, bir ayı geçmemek üzere ek süre verebilir.
+(3) KEPHS, Kurumun faaliyete son verme kararının
+tebliğinden itibaren KEP hizmeti sunamaz.
+(4) Faaliyetine son verilen KEPHS, KEP sistemine ilişkin
+tüm bilgi ve belgeleri devralan KEPHS’ye devreder
+ve kendi işlem sertifikasını iptal ettirerek imza oluşturma verisini ve
+yedeklerini imha eder.
+(5) Kurum, devir işleminin re’sen
+yapılacağı herhangi bir KEPHS’nin bulunmaması
+durumunda, faaliyetine son verdiği KEPHS’nin oluşturduğu
+KEP hesaplarının kullanıma kapatılmasına karar verir. Faaliyetine son
+verilen KEPHS bu işlemleri tamamladıktan sonra kendi işlem sertifikasını
+iptal ettirerek imza oluşturma verisini ve yedeklerini imha eder ve KEP
+sisteminin tüm süreçlerine ve işleyişine ilişkin bilgi, belge ve elektronik
+verileri en az yirmi yıl süreyle saklar.
+(6) Kurum, KEP hesaplarının, ilgili KEP delillerinin ve
+KEP sistemi kayıtlarının devrine ilişkin kararı internet sayfasında
+yayımlar. Faaliyetine son verilen KEPHS, devir işlemine ilişkin kararları
+hesap sahiplerine ve işlem yetkililerine duyurur ve internet sayfasında
+yayımlar.
+Kayıtlı
+elektronik posta hizmet sağlayıcısının faaliyetine son vermesi
+MADDE 22 – (1) KEPHS
+faaliyetine son vereceği tarihten en az üç ay önce durumu Kuruma yazılı
+olarak bildirir. KEPHS, faaliyetine son verme kararının Kuruma
+bildirilmesinden itibaren KEP hesabı başvurusu kabul edemez.
+(2) KEPHS bu maddenin birinci fıkrası uyarınca Kuruma
+yaptığı yazılı bildirimden sonra faaliyetine son verme kararını internet
+sayfasından yayımlar, hesap sahiplerine ve işlem yetkililerine bildirir.
+(3) KEPHS mevcut KEP hesaplarını, ilgili KEP delillerini
+ve KEP sistemi kayıtlarını faaliyete son verme tarihinden bir ay öncesine
+kadar faaliyette bulunan herhangi bir KEPHS’ye
+devredebilir. Faaliyetine son veren KEPHS devir hususunda Kurumu, hesap
+sahiplerini ve işlem yetkililerini bilgilendirir. KEP hesaplarını, ilgili
+KEP delillerini ve KEP sistemi kayıtlarını devralan KEPHS gerekli işlemleri
+başlatır ve bir ay içinde bu işlemleri tamamlar. Kurum, uygun görmesi
+hâlinde, bir ayı geçmemek üzere ek süre verebilir.
+(4) Faaliyetine son veren KEPHS, KEP sistemine ilişkin
+tüm bilgi, belge ve elektronik verileri devralan KEPHS’ye
+devreder ve kendi işlem sertifikasını iptal ettirerek imza oluşturma
+verisini ve yedeklerini imha eder.
+(5) Faaliyetine son verme tarihinden bir ay öncesine
+kadar devir işleminin gerçekleştirilememesi veya faaliyette bulunan
+herhangi bir KEPHS tarafından hizmet sağlanamaması durumunda, faaliyetine
+son vermek isteyen KEPHS, hesap sahiplerini ve işlem yetkililerini
+bilgilendirerek KEP hesaplarını faaliyete son verme tarihinde kullanıma
+kapatır. Faaliyetine son veren KEPHS kullanıma kapatma işlemlerini
+tamamladıktan sonra kendi işlem sertifikasını iptal ettirerek imza
+oluşturma verisini ve yedeklerini imha eder ve KEP sisteminin tüm
+süreçlerine ve işleyişine ilişkin bilgi, belge ve elektronik verileri en az
+yirmi yıl süreyle saklar.
+YEDİNCİ
+BÖLÜM
+Teknik
+Hususlar ve Güvenlik
+Güvenlik kriterleri
+MADDE
+23 –
+(1) KEPHS’nin ortakları, yöneticileri ve istihdam
+ettiği veya ettirdiği personeli; Türk Ceza Kanununun 53 üncü maddesinde
+belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı bir
+yıl veya daha fazla süreyle hapis cezası almamış ya da affa uğramış olsa
+bile devletin güvenliğine karşı suçlardan, Anayasal düzene ve bu düzenin
+işleyişine karşı suçlardan, zimmet, irtikâp, rüşvet, hırsızlık,
+dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye
+fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan
+malvarlığı değerlerini aklama veya kaçakçılık suçlarından hüküm giymemiş
+olmalıdır.
+(2) Bu maddenin birinci fıkrasında belirtilen kriterler, KEPHS’nin tüzel
+kişi ortaklarının yöneticileri için de aranır.
+(3) KEPHS; bilgi güvenliği, veri tabanı yönetimi,
+bilgisayar ağları ve veri koruması gibi alanlarda yeteri kadar teknik
+personel istihdam eder veya ettirir. Teknik personel, konusunda yeterli
+meslekî deneyime sahip ya da ilgili alanlarda eğitim almış olmalıdır. KEPHS
+organizasyon şemasında istihdam ettiği veya ettirdiği tüm personelinin
+görev tanımını ve dağılımını gösterir.
+(4) KEPHS; güvenli sistem ve cihazlar kullanır, bu
+sistem ve cihazlar ile bunların bulunduğu bina veya alanın korunmasını
+sağlar.
+Kayıtlı
+elektronik posta rehberi
+MADDE 24 – (1) KEP
+hesaplarına ilişkin bilgiler hesap sahibinin onayının alınması şartıyla KEP
+rehberinde yayımlanır.
+(2) KEPHS’ler KEP rehberini
+gerçek zamanlı olarak günceller.
+(3) KEPHS’ler KEP rehberini
+tüm KEP sisteminden hizmet alan tüm hesap sahipleri ile işlem
+yetkililerinin erişimine açık tutar.
+(4) KEP rehberine ilişkin usul ve esaslar Kurum
+tarafından belirlenir.
+Teknik
+hususlara ilişkin tebliğ
+MADDE 25 – (1) KEP
+sisteminin tüm süreçlerine ve işleyişine, KEPHS’nin
+faaliyetleri için kullandığı sistemlere ve cihazlara, fizikî güvenliğe ve
+personeline ilişkin uyulması gereken teknik kriterler
+Tebliğ ile belirlenir.
+SEKİZİNCİ
+BÖLÜM
+Diğer
+Hükümler
+Denetim
+MADDE
+26 –
+(1) Kurum, KEPHS’lerin bu Yönetmeliğe uygun
+hizmet verip vermediğini iki yılda en az bir defa re’sen
+veya şikâyet üzerine 5809 sayılı Elektronik Haberleşme Kanununun 6 ncı ve 59 uncu maddelerine dayanılarak hazırlanan Bilgi
+Teknolojileri ve İletişim Kurumunun Denetim Çalışmalarına İlişkin Usul ve
+Esaslar Hakkında Yönetmelik uyarınca denetleyebilir veya denetletebilir.
+İdarî para
+cezaları
+MADDE 27 – (1) Bu
+Yönetmeliğe ve ilgili diğer mevzuata uygun hizmet vermeyen KEPHS’lere verilecek idarî para cezaları 5809 sayılı
+Elektronik Haberleşme Kanununun 9 uncu, 60 ıncı
+ve 61 inci maddelerine göre Kurum tarafından hazırlanan İdari Para Cezaları
+ve Tedbirler Hakkında Yönetmelik çerçevesinde belirlenir.
+Faaliyet
+raporu
+MADDE 28 – (1) KEPHS,
+her yıl Ocak ayının sonuna kadar bir önceki yıla ilişkin Kuruma rapor
+verir. Rapor asgari aşağıdaki unsurları içerir;
+a) Oluşturulan KEP hesabı türleri ve sayıları,
+b) Kullanıma kapatılan KEP hesabı sayısı ve kullanıma
+kapatma nedenleri,
+c) KEPHS’nin geçmiş yıla ait
+malî durumunu gösterir bilgi ve belgeler,
+ç) Varsa kendisine devredilen KEP hesaplarına, ilgili
+KEP delillerine ve KEP sistemi kayıtlarına ilişkin bilgiler,
+d) KEPHS’nin bir sonraki yıla
+ait pazar öngörüleri,
+e) Kurum tarafından istenecek diğer bilgi ve belgeler.
+DOKUZUNCU
+BÖLÜM
+Geçici ve
+Son Hükümler
+Geçici
+hükümler
+GEÇİCİ
+MADDE 1 – (1) 9 uncu maddenin ikinci fıkrasının (b) bendi
+uyarınca başvuru sırasında henüz verileri MERSİS’e
+aktarılmamış ve işlemlerini uygulama üzerinden gerçekleştirmeyen ticaret
+sicil memurluklarına bağlı MERSİS No’su olmayan
+tüzel kişilerin kimlikleri KEPHS tarafından, Ticaret Sicil Memurluklarından
+alınacak Ticaret Sicil Tasdiknamesi veya Faaliyet Belgesi ile tespit
+edilir.
+Kuruma
+başvuru
+GEÇİCİ
+MADDE 2 – (1) KEPHS olmak isteyenler 1/5/2012
+tarihinden itibaren Kuruma başvuruda bulunabilir.
+Yürürlük
+MADDE 29 – (1) Bu
+Yönetmelik 1/7/2012 tarihinde yürürlüğe girer.
+Yürütme
+MADDE 30 – (1) Bu
+Yönetmelik hükümlerini Bilgi Teknolojileri ve İletişim Kurulu Başkanı
+yürütür.
+EK
+Başvuruda
+Sunulacak Bilgi ve Belgeler
+KEPHS olmak isteyenler yapacakları başvuruda aşağıdaki
+bilgi ve belgeleri Kuruma sunar:
+1) İletişim bilgileri: (Adı veya ünvanı
+ve tüm birimlerine ait iletişim bilgileri (adres, telefon, faks, elektronik
+posta adresi, internet adresi).
+2) Şirket ile ilgili belgeler: Şirketin kuruluş Ticaret
+Sicil Gazetesi, vergi levhası, şirketin imza sirküleri, ticaret sicil
+belgesi ve şirketi temsile yetkili kişi veya kişilerin adli sicil kayıtları
+ve iletişim bilgileri.
+3) Personel: Organizasyon şeması, istihdam ettiği
+kişilerin KEPHS personeli olduğunu gösterir sosyal güvenlik kuruluşundan
+alınmış belgeler, istihdam ettiği ve ettirdiği tüm personelin adli sicil
+kaydı olmadığına dair beyan belgesi ile teknik personelin özgeçmişi ve
+uzmanlığını ispatlayan belgeleri.
+4) ESHS tarafından adına üretilmiş işlem sertifikasının
+bir örneği.
+5) KEP uygulama esasları.
+6) Hizmet sözleşmesi: Hizmet alması durumunda, hizmet
+aldığı taraf ile imzaladığı sözleşmenin bir örneği.
+7) Tebliğ ile istenilen bilgi ve belgeler.
+8) Sözleşme veya Taahhütname: KEP hesabı almak isteyen
+başvuru sahibi ile imzalayacağı sözleşmenin veya taahhütnamenin bir örneği.
