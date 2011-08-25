@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 15-1425",
+  "source_id": 22887,
+  "date": "2011-08-25",
+  "title": "Başlangıçta yıllara sari olmayıp daha sonra yıllara sari inşaat vasfını kazanan inşaat işlerinde tevkifat uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22887",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "efec63e1cbf272a1379a0e6bbf1df312dc695aafd0dfbdf0c9eb5b44fe13d149",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
