@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-08-25",
+  "issue": "28036",
+  "edition": "regular",
+  "item": 21,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Kayıtlı Elektronik Posta Sistemi ile İlgili Süreçlere ve Teknik Kriterlere İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/08/20110825-21.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/08/20110825.htm",
+  "index_sha256": "15ae478fed7032c4f41066ebc2e4eb30d6f1104f29eb8c3620e0f1eee4566deb",
+  "index_header": "25 Ağustos 2011 ... 28036 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
