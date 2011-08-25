@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-176300-420",
+  "source_id": 22707,
+  "date": "2011-08-25",
+  "title": "Şirkette çalışan kamyon sürücüsünün kusuru nedeniyle mahkeme kararına göre ödenen tazminatın gider yazılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22707",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "8a4605ba3a7f20ad5669448dec15b0acabcdf01934480acae148d59f66828443",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
