@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-KVK.ÖZ.2011.42-265",
+  "source_id": 22706,
+  "date": "2011-08-26",
+  "title": "Alıcının, satıcı adına tapu masrafı ve alım satım vergisini ödediği durumlarda, alıcı şirketin, yapılan bu masrafları matrahın tespitinde gider olarak dikkate alıp alamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22706",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "39453d3f2414d73bc467b277d41daac9c0e83db8ea80c48da461901b2d28e66d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
