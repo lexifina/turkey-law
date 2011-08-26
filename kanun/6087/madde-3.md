@@ -1,7 +1,7 @@
 İKİNCİ BÖLÜM
 Kuruluş ve Görev
 Kuruluş ve Kurulun bağımsızlığı
-MADDE 3 –(1) Hâkimler ve Savcılar Yüksek Kurulu yirmiiki asıl ve oniki yedek üyeden oluşur.
+MADDE 3 – (1) Hâkimler ve Savcılar Yüksek Kurulu yirmiiki asıl ve oniki yedek üyeden oluşur.
 (2) Kurul üç daire hâlinde çalışır.
 (3) Kurulun Başkanı, Bakandır.
 (4) Adalet Bakanlığı Müsteşarı Kurulun tabiî üyesidir. Müsteşar bulunmadığı zaman kendisine vekâlet etmekte olan, Kurul toplantılarına katılır.

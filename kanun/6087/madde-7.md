@@ -1,5 +1,5 @@
 Genel Kurulun oluşumu ve görevleri
-MADDE 7 –(1) Genel Kurul, Kurulun yirmiiki asıl üyesinden oluşur.
+MADDE 7 – (1) Genel Kurul, Kurulun yirmiiki asıl üyesinden oluşur.
 (2) Genel Kurulun görevleri şunlardır:
 a) Başkanvekilini ve daire başkanlarını seçmek.
 b) Dairelerin kararlarına karşı yapılan itirazları inceleyip karara bağlamak.

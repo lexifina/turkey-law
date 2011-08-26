@@ -1,5 +1,5 @@
 Yeniden inceleme, itiraz ve yargı yolu
-MADDE 33 –(1) Genel Kurulun ilk defa aldığı kararlara karşı, Başkan veya ilgililer, tebliğ tarihinden itibaren on gün içinde, Genel Kuruldan yeniden inceleme talebinde bulunabilir; yeniden inceleme talebi üzerine verilen kararlar kesindir.
+MADDE 33 – (1) Genel Kurulun ilk defa aldığı kararlara karşı, Başkan veya ilgililer, tebliğ tarihinden itibaren on gün içinde, Genel Kuruldan yeniden inceleme talebinde bulunabilir; yeniden inceleme talebi üzerine verilen kararlar kesindir.
 (2) Dairelerin kararlarına karşı, Başkan veya ilgililer, tebliğ tarihinden itibaren on gün içinde, kararı veren daireden yeniden inceleme talebinde bulunabilir.
 (3) Dairelerin yeniden inceleme talebi üzerine verdiği kararlara karşı, Başkan veya ilgililer tebliğ tarihinden itibaren on gün içinde, Genel Kurula itiraz edebilir. İtiraz üzerine verilen kararlar kesindir.
 (4) Disipline ilişkin kararlara karşı şikâyetçilerin de yeniden inceleme ve itiraz hakları vardır.

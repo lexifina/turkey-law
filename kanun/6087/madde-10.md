@@ -1,7 +1,7 @@
 İKİNCİ BÖLÜM
 Genel Sekreterlik
 Genel Sekreterliğin oluşumu ve görevleri
-MADDE 10 –(1) Kurulun idarî ve malî işleri ile sekreterya hizmetlerini yerine getirmek üzere kurulan Genel Sekreterlik; Genel Sekreter, dört genel sekreter yardımcısı ile yeteri kadar tetkik hâkimi ve bürolardan oluşur.
+MADDE 10 – (1) Kurulun idarî ve malî işleri ile sekreterya hizmetlerini yerine getirmek üzere kurulan Genel Sekreterlik; Genel Sekreter, dört genel sekreter yardımcısı ile yeteri kadar tetkik hâkimi ve bürolardan oluşur.
 (2) Genel Sekreterliğin görevleri şunlardır:
 a) Kurulun büro işlemlerini yürütmek.
 b) Kurulun taraf olduğu adlî ve idarî davalar ile icra takiplerinde avukatlar vasıtasıyla Kurulu temsil etmek, davaları takip etmek, ettirmek, hukukî hizmetleri yürütmek.

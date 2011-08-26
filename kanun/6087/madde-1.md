@@ -3,4 +3,4 @@ Genel Hükümler
 BİRİNCİ BÖLÜM
 Amaç, Kapsam ve Tanımlar
 Amaç ve kapsam
-MADDE 1 –(1) Bu Kanunun amacı, mahkemelerin bağımsızlığı ile hâkimlik ve savcılık teminatı esaslarına göre Hâkimler ve Savcılar Yüksek Kurulunun kuruluşu, teşkilâtı, görev ve yetkileri ile çalışma usul ve esaslarını düzenlemektir.
+MADDE 1 – (1) Bu Kanunun amacı, mahkemelerin bağımsızlığı ile hâkimlik ve savcılık teminatı esaslarına göre Hâkimler ve Savcılar Yüksek Kurulunun kuruluşu, teşkilâtı, görev ve yetkileri ile çalışma usul ve esaslarını düzenlemektir.
