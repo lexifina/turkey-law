@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-DMG-1197-673",
+  "source_id": 34957,
+  "date": "2011-08-26",
+  "title": "Kuzey Ankara Kentsel Dönüşüm Kanunu çerçevesinde Toplu Konut İdaresi Başkanlığı tarafından ihale edilen işe ilişkin olarak yapılacak hakediş ödemeleri nedeniyle düzenlenecek kağıtların 775 sayılı Kanun Kapsamında istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34957",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "7f778cfa0c26e80d8a03a441b40699084d7b050d1b1dbe37496b043ad95f6835",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
