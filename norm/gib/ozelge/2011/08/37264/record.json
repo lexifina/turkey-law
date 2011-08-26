@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-BGK-2010/1-123",
+  "source_id": 37264,
+  "date": "2011-08-26",
+  "title": "Belediyeye ait resmi daire, ticarethane ve bunun gibi abone tiplerinde elektrik faturası içerisinde elektrik ve havagazı tüketim vergisi tahsil edilip edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37264",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "f829cce5d13d5a8703aeef0205b107a14101ed956997c2964270d8db964cd48c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
