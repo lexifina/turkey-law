@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.01-37-MUK-2010-107-260",
+  "source_id": 35859,
+  "date": "2011-08-26",
+  "title": "Organize sanayi bölgesi tarafından sanayi odasına devredilen gayrimenkulün tapu harcı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35859",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "8d0efd56c1a4f7076acfc27d6dbdd9bdcc879af29d33a6528912df302835f64d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
