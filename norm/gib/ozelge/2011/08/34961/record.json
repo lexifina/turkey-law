@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-002.01-1440",
+  "source_id": 34961,
+  "date": "2011-08-26",
+  "title": "4628 sayılı Elektrik Piyasası Kanununa 5784 sayılı Kanunla eklenen Geçici 14/c maddesi çerçevesinde üretim lisansı sahibi firma ile taşeron firma arasında düzenlenen sözleşmenin damga vergisine ve harca tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34961",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "55bb8da95852fc1d4b0de44a35ea1fb65bfbdfc357d728838d10f3d6a6a82e52",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
