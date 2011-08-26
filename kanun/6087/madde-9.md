@@ -1,5 +1,5 @@
 Dairelerin görevleri
-MADDE 9 –(1) Birinci Dairenin görevleri şunlardır:
+MADDE 9 – (1) Birinci Dairenin görevleri şunlardır:
 a) Hâkim ve savcılarla ilgili olarak;
 1) Atama ve nakletme,
 2) Geçici yetki verme,
@@ -21,6 +21,7 @@ b) Genel Kurul tarafından verilen diğer işleri yapmak.
 (3) Üçüncü Dairenin görevleri şunlardır:
 a) Hâkim ve savcı adaylarını mesleğe kabul etmek.
 b) Hâkim ve savcıların görevlerini; kanun, tüzük, yönetmelik ve genelgelere (hâkimler için idarî nitelikteki genelgelere) uygun olarak yapıp yapmadıklarına ilişkin denetleme işlemlerini Teftiş Kuruluna yaptırmak.
+10690
 c) Hâkim ve savcılar hakkındaki ihbar ve şikâyetleri inceleyip gereğini yapmak.
 ç) Hâkim ve savcıların görevlerinden dolayı veya görevleri sırasında suç işleyip işlemediklerini, hâl ve eylemlerinin sıfat ve görevleri icaplarına uyup uymadığını Kurul müfettişleri veya müfettiş yetkilerini haiz kıdemli hâkim veya savcı eliyle araştırma ve gerektiğinde haklarında inceleme ve soruşturma işlemleri için teklifte bulunmak.
 d) Hâkimlik ve savcılık görevine tekrar atanma ile diğer hizmetlerden mesleğe atanma talepleri hakkında karar vermek.

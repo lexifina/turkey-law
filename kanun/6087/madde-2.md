@@ -1,5 +1,5 @@
 Tanımlar
-MADDE 2 –(1) Bu Kanunun uygulanmasında;
+MADDE 2 – (1) Bu Kanunun uygulanmasında;
 a) Bakan: Adalet Bakanını,
 b) Bakanlık: Adalet Bakanlığını,
 c) Başkan: Hâkimler ve Savcılar Yüksek Kurulu Başkanını,
@@ -13,6 +13,7 @@ h) Hâkim: 24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanununda t
 ı) Kurul: Hâkimler ve Savcılar Yüksek Kurulunu,
 i) Kurul müfettişi: Hâkimler ve Savcılar Yüksek Kurulu Teftiş Kurulu Başkanlığında görev yapan Başkan, başkan yardımcıları, başmüfettiş ve müfettişleri,
 j) Kurulun seçimle gelen üyesi: Hâkimler ve Savcılar Yüksek Kurulunun, Adalet Bakanı ve Adalet Bakanlığı Müsteşarı dışındaki asıl üyelerinden her birini,
+10686
 k) Kurul üyesi: Hâkimler ve Savcılar Yüksek Kurulunun asıl üyelerinden her birini,
 l) Savcı: 2802 sayılı Kanunda tanımlanan savcı ile geçici yetki veya herhangi bir görevlendirmeyle başka bir kurum veya kuruluşta görev yapan savcıyı,
 m) Teftiş Kurulu: Hâkimler ve Savcılar Yüksek Kurulu Teftiş Kurulunu,

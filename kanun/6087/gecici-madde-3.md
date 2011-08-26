@@ -1,6 +1,7 @@
 Hakkında meslekten çıkarma kararı verilmiş olanların durumu
 GEÇİCİ MADDE 3 – (1) 2461 sayılı Kanun ile kurulan Hâkimler ve Savcılar Yüksek Kurulunca, haklarında meslekten çıkarma cezası verilen hâkim ve savcıların, bu cezanın kaldırılması için idarî dava açmadan önce, bu Kanunun yürürlüğe girdiği tarihten itibaren altmış gün içinde Kurula başvurmaları gerekir.
 (2) Genel Kurul, usulüne uygun yapılan başvurular üzerine, dosya üzerinden yapacağı inceleme sonunda, talep halinde, başvuranın bizzat veya vekili aracılığıyla yazılı ya da sözlü savunmasını da almak suretiyle, başvurunun kabulüne veya reddine karar verir.
+10706
 (3) Başvurunun kabulü halinde;
 a) Önceki kararın kaldırılmasına,
 b) Hâkimlik ve savcılık mesleğine kabulde aranan niteliklerin kaybedilmemiş olması şartıyla ilgilinin hâkimlik ve savcılık mesleğine tekrar atanmasına,

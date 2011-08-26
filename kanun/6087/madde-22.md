@@ -1,7 +1,8 @@
 Seçimlerin yönetim ve denetimi
-MADDE 22 –(1) Seçimler, Yüksek Seçim Kurulunun yönetim ve denetiminde yapılır.
+MADDE 22 – (1) Seçimler, Yüksek Seçim Kurulunun yönetim ve denetiminde yapılır.
 (2) Adlî yargı hâkim ve savcılarının Kurula üye seçmesi için, her ilde, il seçim kurulunun yönetim ve denetimi altında yapılacak seçimlerde, o ilde ve o ilin ilçelerinde görev yapan hâkim ve savcılar oy kullanır.
 (3) İdarî yargı hâkim ve savcılarının Kurula üye seçmesi için, bölge idare mahkemelerinin bulunduğu illerde, o il seçim kurulunun yönetim ve denetimi altında yapılacak seçimlerde, o bölge idare mahkemesinde ve yargı çevresi içerisinde kalan yerlerde görev yapan idarî yargı hâkim ve savcıları oy kullanır.
+10695
 (4) Yapılacak seçimlerde sandık alanında, sandığın konulacağı yer il seçim kurulunun denetiminde sandık kurulunca kararlaştırılır. Sandığın konulacağı yerlerin belirlenmesinde, seçmenin oyunu kolaylıkla, serbestçe ve gizli şekilde verebilmesi göz önünde bulundurulur. Sandıklar; adliye binalarının oy kullandırmaya elverişli kısımlarına konulur.
 (5) Kurula üye seçimlerinde, 26/4/1961 tarihli ve 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 17 nci maddesi hükmü uygulanmaz.
 (6) İl seçim kurulları, oy kullanacak hâkim ve savcı sayısına göre, kamu görevlileri arasından seçilecek bir başkan, dört asıl ve iki yedek üyeden oluşan sandık kurulları oluşturur. Sandık kurullarının işlem, tedbir ve kararlarına karşı yapılan şikâyet ve itirazlar il seçim kurulunca karara bağlanır.

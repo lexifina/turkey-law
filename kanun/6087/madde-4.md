@@ -1,5 +1,5 @@
 Kurulun görevleri
-MADDE 4 –(1) Kurulun görevleri şunlardır:
+MADDE 4 – (1) Kurulun görevleri şunlardır:
 a) Bakanlığın, bir mahkemenin kaldırılması veya yargı çevresinin değiştirilmesi konusundaki tekliflerini karara bağlamak.
 b) Hâkim ve savcılarla ilgili olarak;
 1) Mesleğe kabul etme,
@@ -11,6 +11,7 @@ b) Hâkim ve savcılarla ilgili olarak;
 7) Disiplin cezası verme,
 8) Görevden uzaklaştırma,
 işlemlerini yapmak.
+10687
 c) Aşağıdaki alt bentlerde belirtilen hâkim ve savcılar hariç olmak üzere, hâkim ve savcıların görevlerini; kanun, tüzük, yönetmelik ve genelgelere (hâkimler için idarî nitelikteki genelgelere) uygun olarak yapıp yapmadıklarını denetlemek; görevlerinden dolayı veya görevleri sırasında suç işleyip işlemediklerini, hâl ve eylemlerinin sıfat ve görevleri icaplarına uyup uymadığını araştırmak ve gerektiğinde haklarında inceleme ve soruşturma işlemlerini yürütmek.
 1) Bakanlık merkez, bağlı ve ilgili kuruluşları ile uluslararası mahkemeler veya kuruluşlarda görev yapan hâkim ve savcılar.
 2) Geçici yetki veya görevlendirme ile başka bir kurum, kurul veya kuruluşta çalışan hâkim ve savcılar.

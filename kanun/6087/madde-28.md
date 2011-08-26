@@ -1,6 +1,7 @@
 Üyeliğin sona ermesi
-MADDE 28 –(1) Başkan dışındaki Kurul üyeleri ile yedek üyelerin;
-a) Hâkimler ve Savcılar Kanununa göre hâkimlik ve savcılık mesleğinden çıkarılmayı gerektiren bir suçtan dolayı kesin hüküm giymesi, çekilmesi veya altmışbeşyaşını doldurması hallerinde kendiliğinden,
+MADDE 28 – (1) Başkan dışındaki Kurul üyeleri ile yedek üyelerin;
+a) Hâkimler ve Savcılar Kanununa göre hâkimlik ve savcılık mesleğinden çıkarılmayı gerektiren bir suçtan dolayı kesin hüküm giymesi, çekilmesi veya altmışbeş yaşını doldurması hallerinde kendiliğinden,
+10697
 b) Kurul üyesi olabilme şartlarından herhangi birini taşımadığının sonradan anlaşılması veya Kurul üyeliği sırasında bu şartlardan herhangi birini kaybetmesi hâlinde Genel Kurulun üye tamsayısının üçte iki çoğunluğunun, bu durumu tespit eden kararıyla,
 Kurul üyeliği sona erer.
 (2) Kurulun seçimle gelen üyelerinin, görevlerini yerine getiremeyeceklerinin sağlık kurulu raporuyla kesin olarak anlaşılması veya görevlerine izinsiz, mazeretsiz ve kesintisiz olarak onbeş gün ya da bir yılda toplam otuz gün süre ile devam etmemeleri hâlinde, Genel Kurul üye tamsayısının üçte iki çoğunluğunun kararıyla, Kurul üyeliği sona erer.
