@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-431",
+  "source_id": 34958,
+  "date": "2011-08-26",
+  "title": "Aynı işe ilişkin olarak alınan iki ayrı ihale kararı ile işe ilişkin düzenlenen sözleşmenin hangi tutar üzerinden damga vergisine tabi olacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34958",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "02089b987abf68fd07e17ec62a4b51a015039a3743d993cc2dd2f5ac97ac822f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
