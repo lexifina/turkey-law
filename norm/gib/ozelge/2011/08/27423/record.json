@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-300.10.84-187",
+  "source_id": 27423,
+  "date": "2011-08-26",
+  "title": "Tarımsal Kalk. Koop. tarafından yapılan ortak içi ve ortak dışı işlemlerin KDV ve KV mükellefiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27423",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "6729afb14c8c3ee112064406f5a0df0bda32796c6d4c0af8eb531bbd74ca6817",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
