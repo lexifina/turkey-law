@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-KVK.2010.14-275",
+  "source_id": 27420,
+  "date": "2011-08-26",
+  "title": "Birlik tarafından İl Özel idaresinden kiralanarak işletilen soğuk hava deposu nedeniyle mükellef olup olmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27420",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "28da1df02d95cd21838e3325a165e3d544ba39ea55d63a5d335bedd2d5d55847",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
