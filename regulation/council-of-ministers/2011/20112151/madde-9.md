@@ -1,0 +1,2 @@
+Mücbir sebepler
+MADDE 9- (1) Karma OSB’lerde arıtma tesisleri hariç, ihtisas OSB’lerde ise arıtma tesisleri dahil olmak üzere altyapı yatırımlarının tamamlanamaması ve bu durumun katılımcının üretime geçmesine engel olduğunun OSB’ce karara bağlanması hali ile yangın, doğal afet, kısmi ve genel seferberlik hali gibi nedenler mücbir sebep olarak kabul edilir. Bu durumda bu Yönetmeliğin 8 inci maddesinde belirtilen süre ve yatırım şartları, mücbir sebebin sona erdiği tarihten itibaren dikkate alınır.

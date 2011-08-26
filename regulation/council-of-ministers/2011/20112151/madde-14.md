@@ -1,0 +1,3 @@
+Tapu kaydına konulacak şerh
+MADDE 14- (1) Tamamen veya kısmen bedelsiz tahsis edilen parselde üretime geçilmeden tapu talep edilmesi halinde, tapu kütüğünün beyanlar hanesine devir işlemi sırasında aşağıdaki şerh konulur:
+“12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanununun geçici 9 uncu maddesine göre, ..... ada.....parselde kayıtlı taşınmazı devralan gerçek veya tüzel kişiler, söz konusu Kanun ve bu Kanunun uygulanması ile ilgili çıkarılan yönetmelik ile taahhütnamede belirtilen devir amaç ve koşullarına uymak zorundadır. Bu şerh kaldırılmadığı sürece taşınmaz hiçbir şekilde başkalarına devredilemez, haczedilemez, ipotek edilemez, teminat verilemez. İflas ve konkordato ile diğer ayni ve şahsi haklara da konu edilemez.”
