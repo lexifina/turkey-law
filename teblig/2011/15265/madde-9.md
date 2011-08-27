@@ -1,0 +1,2 @@
+Karşılaştırmalı değerlendirmeler
+MADDE 9 – (1) Bu Tebliğ yayımlandığında, piyasada mevcut en yüksek performanslı ürün ve teknolojilere ait karşılaştırmalı göstergeler, entegre balastsız flüoresan lambaların, yüksek yoğunluklu boşalmalı lambaların ve bu lambaları çalıştırabilen balast ve aydınlatma armatürleri için Ek-V’te, ofis aydınlatmasında veya cadde aydınlatmasında kullanılacak ürünler için Ek-VI ve Ek-VII’de verilmiştir.

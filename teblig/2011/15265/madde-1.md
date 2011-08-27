@@ -1,0 +1,3 @@
+DAİR TEBLİĞ (SGM-2011/10)
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, 7/10/2010 tarihli ve 27722 sayılı Resmî Gazete’de yayımlanan Enerji İle İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin uygulanmasına yönelik olarak, başka enerji tüketen ürünlere entegre edilmiş olsa dahi, entegre balastsız flüoresan lambaların, yüksek yoğunluklu boşalmalı lambaların ve bu lambaları çalıştırabilen balast ve aydınlatma armatürlerinin piyasaya arz edilmeleri ile ilgili çevreye duyarlı tasarım gereklerini belirlemek ve ofis ve cadde aydınlatmasında kullanılan ürünlere ait karşılaştırmalı göstergeleri sağlamaktır.
