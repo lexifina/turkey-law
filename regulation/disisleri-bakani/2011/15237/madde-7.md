@@ -1,0 +1,3 @@
+Genel faaliyet planları
+MADDE 7 – (1) Diplomasi Akademisinin bütçesi ve çalışmaları genel faaliyet planları çerçevesinde hazırlanır ve yürütülür. Genel faaliyet planları, Danışma Kurulunca belirlenen temel hedef ve öncelikler doğrultusunda, müteakip yıl veya yılları kapsayacak şekilde oluşturulur ve gerekli hallerde güncellenir.
+(2) Genel faaliyet planları, performans ölçütlerini de içerir. Planın kapsadığı dönem içinde gerçekleştirilen faaliyetlerin Danışma Kurulunca belirlenen temel hedeflere ulaşılmasını sağlayıp sağlamadığı, bu ölçütler ışığında değerlendirilir ve rapor halinde yayımlanır.
