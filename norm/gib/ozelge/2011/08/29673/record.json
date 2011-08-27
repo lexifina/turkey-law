@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.58-1443",
+  "source_id": 29673,
+  "date": "2011-08-27",
+  "title": "İşin bırakılması ya da şirketin tasfiyesi sonucunda indirim yoluyla giderilemeyen KDV'nin gelir ya da kurumlar vergisi matrahının tespitinde gider veya maliyet unsuru olarak dikkate alınıp alınamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29673",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "f7e2a644a8211858389df3e136e073e81016eb858a9b288487ec8fbc001d5d4c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
