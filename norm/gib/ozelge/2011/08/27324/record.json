@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.06.-1448",
+  "source_id": 27324,
+  "date": "2011-08-27",
+  "title": "Yurt Dışında Faaliyette Bulunan Bir Şirketten Alınan Makine Tamir Hizmeti Karşılığında Bu Firmaya Yapılan Ödemeler Üzerinden KDV ve Stopaj Kesintisi Uygulanıp Uygulanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27324",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "2234285ef24e671b87a9edd73b4983091499ac801c7b75d0990e95e889a496d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
