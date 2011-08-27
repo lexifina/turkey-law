@@ -12,3 +12,4 @@ Yapılacak yarışma ve yeterlik sınavının şekli ve uygulama esasları yöne
 Yapılacak meslekî yeterlik sınavına girmeye hak kazandığı halde geçerli mazereti olmaksızın sınava girmeyenler, yapılan iki sınavda da başarılı olamayanlar veya Müfettiş Yardımcılığı süresi içerisinde olumsuz sicil alanlar bu unvanlarını kaybederler ve durumlarına uygun memur kadrolarına atanırlar.
 ______________________
 (1) Anayasa Mahkemesi’nin 17/6/2010 tarihli E.:2008/22 K.: 2010/82 sayılı Kararı ile Bu maddede yer alan “… Rehberlik ve Teftiş Başkanı ile …” ibaresi iptal edilmiştir.
+(2) 22/8/2011 tarihli ve 651 sayılı KHK’nin 16 ncı maddesi ile bu fıkrada yer alan “I. Hukuk Müşaviri” ibaresinden sonra gelmek üzere “, Rehberlik ve Teftiş Başkanı” ibaresi eklenmiş ve aynı fıkrada yer alan “Devlet Bakanının” ibaresi “Başbakan Yardımcısının” şeklinde değiştirilmiştir.

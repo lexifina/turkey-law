@@ -37,3 +37,4 @@ Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Deği�
 5917 | 1/7/2009 | 10/7/2009 |  | (III) Sayılı Cetvel
 6111 | 25/2/2011 | 25/2/2011 |  | 7, Geçici Madde 10
  | 11/7/2011 | 11/1/2011 | 17/6/2010 tarihli ve E.: 2008/22, K.: 2010/82 sayılı Karar | 68
+KHK/651 | 27/8/2011 | 27/8/2011 |  | 35, 52, 68, Geçici Madde 11

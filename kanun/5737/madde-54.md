@@ -7,3 +7,4 @@ d) Genel Müdürlüğe yapılacak taşınmaz mal bağış işlemlerini yürütme
 e) Tavize tâbi olan taşınmaz malların tespiti ile taviz bedellerinin tahsilini sağlamak.
 f) Görev ve faaliyetlerinin gerektirdiği alt yapı çalışmalarını yapmak veya yaptırmak.
 g) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
+_____________________ (1) 22/8/2011 tarihli ve 651 sayılı KHK’nin 15 inci maddesi ile bu maddenin birinci fıkrasına (d) bendi eklenmiş ve mevcut bentler buna göre teselsül ettirilmiştir yer alan
