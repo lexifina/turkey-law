@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-08-27",
+  "issue": "28038",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2011/2150 Arazi Toplulaştırması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/08/20110827-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/08/20110827.htm",
+  "index_sha256": "164395280162cf7bd8d721da2fbc99a6057300bea7dc69843dff1309fa10bc90",
+  "index_header": "27 Ağustos 2011 ... 28038 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "cf712d428aff2db391df9256803575c934088249a3f381d8d9e43e92b739e51c",
+  "text_status": "text.txt as published"
+}
