@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (Ek:RG-27/8/2011-28038) (Danıştay Beşinci Dairesinin 14/10/2014 tarihli ve E.:2011/7044, K.:2014/6731 sayılı kararı ile iptal madde; Danıştay İDDK’nın 14/12/2017 tarihli E.:2015/2531, K.:2017/4303 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.)

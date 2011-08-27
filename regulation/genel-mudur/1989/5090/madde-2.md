@@ -1,0 +1,2 @@
+Kapsam
+Madde 2- Bu Yönetmelik, Yüksek Öğrenim Kredi ve Yurtlar Kurumu Genel Müdürlüğü Teftiş Kurulu’nun görevleri ile Teftiş Kurulu Başkanı, Müfettişler, Müfettiş Yardımcıları ve Teftiş Kurulu büro personelinin görev, yetki ve sorumluluklarını, Teftiş edilenlerin sorumluluklarını, Teftiş Kurulu Başkanı ile Müfettiş ve Müfettiş Yardımcılarının atanmalarını, özlük haklarını ve Teftiş Kurulu ile Müfettiş ve Müfettiş Yardımcılarının çalışma esas ve usullerini kapsar.

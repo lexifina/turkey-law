@@ -1,0 +1,2 @@
+Teftişe Yardım Hükmü
+Madde 15- Müfettişler görevlerini yaparlarken gerekli gördüklerinde evrak, kayıt ve belgelerin örneklerini, herhangi bir yolsuzluğun delillerini gerektiğinde bunların asıllarını genel müdürlüğe bağlı olsun, olmasın bütün resmi daire ve kurumlarla Devlet denetimine tabi bütün kuruluş, kurum ve ortaklıklardan, kamu yararına çalışan derneklerden, gerçek ya da tüzel kişilerden istemek yetkisindedirler.

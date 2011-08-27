@@ -1,0 +1,1 @@
+EK MADDE 1 – (Ek:RG-6/2/2011-27838) (Danıştay Beşinci Dairesinin 8/4/2014 tarihli ve E.:2011/1711, K.:2014/2990 sayılı kararı ile iptal madde; Danıştay İDDK’nın 23/12/2015 tarihli E.:2014/4141, K.:2015/5537 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.)

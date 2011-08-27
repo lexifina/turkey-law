@@ -1,0 +1,5 @@
+Tek ve Müşterek Çalışmalar
+Madde 12- Müfettişler, işin hacim ve önemine göre tek ya da müşterek olarak görevlendirilirler.
+Yıllık, teftiş, inceleme ve soruşturma programlarının gruplar halinde uygulamasında her gruba dahil müfettişlerden en kıdemlisi o grubun başkanı sıfatıyla çalışmaları düzenler. Grup başkanları işe başlarken ve çalışmaların devam sırasında teftiş ve incelemelere verilecek en uygun yönü tayin, işlerin seyrini takip, sonuç alınmasını sağlayabilecek fikir ve tedbirlerin uygulanmasını temin ederler.
+Başkana yardımla görevlendirilen Refakat müfettişinin müşterek çalışmalarda görev alması halinde, grup koordinatörü “Refakat Müfettişidir”
+Müşterek çalışmalarda raporlar birlikte düzenlenir, çalışmaya katılan müfettişlerce imzalanır. Sonuçlar üzerinde görüş ya da kanaat birliğine varılmazsa sonuçlara katılmayan müfettişler görüş ve kanaatlarını gerekçeleriyle birlikte raporla belirtirler. Grup başkanı grup çalışmalarına katılmakla beraber grup adına yapılan yazışmaları yapar.

@@ -1,0 +1,2 @@
+Sınav Sorularının Hazırlattırılması ve Sınav Notlarının Değerlendirilmesi
+Madde 28- Sınavların sevk ve idare sorumluluğu Sınav Kuruluna ait olmakla birlikte, gerektiğinde 27 nci maddede belirtilen gruplara göre yazılı sınav soruları, Kurulca tespit edilen, Üniversite Öğretim üyelerine hazırlatırı Sınav Kurulunca gruptan kaç tane ve hangi soruların sorulacağı sınav sabahı tespit edilerek, aday sayısına göre teksir edilip, durum zapta bağlanır ve teksir edilen sorular muhafazaya alınır.

@@ -1,0 +1,10 @@
+Müfettiş Yardımcılarını Yetiştirme Programı
+Madde 32- Müfettiş Yardımcıları, 3 yıllık yardımcılık döneminde de aşağıdaki programa göre yetiştirilirler. Hastalık ve askerlik gibi zorunlu sebeplerle 3 yıl süreli staj yapamamış olanların staj seneleri görevlerinden ayrı kaldıkları süreler kadar uzatılır.
+a) Birinci Dönem Çalışmaları:
+Bu dönem çalışmaları, Teftiş Kurulu Başkanlığınca Kurul yetki alanına giren teftiş, denetim, inceleme, araştırma ve soruşturma ile ilgili mevcut yürürlükteki mevzuatın yardımcılara öğretilmesi amacıyla hizmet içi eğitim şeklinde düzenlenir. Bu dönem en fazla 6 ay sürelidir.
+b) İkinci Dönem Çalışmaları:
+Bu dönem çalışmaları, Genel Müdürlük Merkez ve Taşra Teşkilat teftişinde grup halinde yapılır. Bu teftişler, müfettiş yardımcılarını yetiştirmeye yönelik özel gayeli teftişlerdir. Yetiştirme görevi, müfettiş yardımcılarının sayısına göre bir veya birkaç Müfettişe verilir.
+Grup başkanları ve müfettişler programlarını; müfettiş yardımcılarının, mevzuat ve tatbikatını, teftiş ve soruşturma usullerini yeterli derecede öğrenmelerini ve en iyi şekilde yetişmelerini sağlayacak tarzda düzenlerler.
+İkinci dönem çalışmaları 6 ay sürelidir.
+c) Üçüncü Dönem Çalışmaları:
+Birinci ve ikinci dönem çalışmalarını kapsayan 1 yıllık staj dönemi sonunda müfettiş yardımcılarının durumları gözden geçirilir. Olumlu tezkiye alamayanların ve görev ile uyum sağlayamayacakları kanaatına varılanların Teftiş Kurulu ile ilişkisi kesilir. Ancak kişilik ve nitelikleri yönünden müfettişlik göreviyle uyum sağlamayacaklar için bu süre aranmaz. Kendilerine Kurum’da durumlarına uygun bir görev verilir. Müfettiş yardımcılığına devamı uygun görülenler, müfettişler eşliğinde 1 sene teftiş, inceleme ve soruşturma usulleri hakkında bilgi ve tecrübelerini geliştirmek ve bağımsız olarak görev yapabilecek duruma gelmelerini sağlamak üzere çalıştırılır. Bu dönemde yanında en çok çalıştığı en az 2 Müfettiş ve Teftiş Kurulu Başkanı tarafından olumlu tezkiye alan Müfettiş yardımcıları 2 nci yılın sonunda bağımsız teftiş, inceleme ve soruşturma görevleri verilebilir. Henüz yetişmemiş olanlar 1 sene daha müfettişler eşliğinde çalıştırılırlar.

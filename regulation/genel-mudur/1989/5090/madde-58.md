@@ -1,0 +1,3 @@
+İstihkakların Alınma Şekli
+Madde 58- Müfettişlere birer kredi cüzdanı ve çek cildi verilir. Kredi cüzdanına müfettişlerin 1 ay içinde birimlerden alabileceği paranın azami miktarı yazılır. Müfettişler aylık, yevmiye, yol masrafı ve PTT gideri gibi istihkakları karşılığında maaşa esas tarihlerde, merkez muhasebesi ve muhasebecisi olan teşekküllerle bu cüzdana kaydetmek suretiyle, muhasebesi olmayan birimlerde (yurtlarda) ise çek düzenleyip ve kredi cüzdanına da kaydettirmek suretiyle masraflarını çekerler.
+İstihkaktan fazla para alınmaması asıldır. Ancak maaşa esas ayın son günlerinde görevle ilgili yolculuk yapılması durumunda iade edilmeyen fazlalık ertesi ay içerisinde, çekilecek istihkaktan mahsup edilir.

@@ -1,0 +1,2 @@
+Sorumluluk ve Görev
+Madde 55- Teftiş dosyalarının düzenli tutulmasından, korunmasından ve teftiş defteri içindeki yazıların doğruluğundan ünite yetkilileri sorumludurlar. Bunlar teftiş defteri ile birlikte en az 5 yıllık teftiş raporlarını ve bunlar üzerine emir ve talimatı saklamak, her devralışta teftiş defterini, rapor ve dosyalarını önceki görevliden isteyip teslim almak ve alamadıklarını da üst makama bildirmekle sorumludurlar.
