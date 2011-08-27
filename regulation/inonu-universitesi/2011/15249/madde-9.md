@@ -1,0 +1,7 @@
+İlaç ve hastane giderleri
+MADDE 9 – (1) Bu Yönetmelik kapsamındaki öğrencilerin sağlık giderleri, ilgili mevzuat hükümleri ve bütçe olanakları çerçevesinde karşılanır.
+(2) Öğrenci harcını yatırmayan öğrenci sağlık hizmetlerinden faydalanamaz. Yüksek Öğretim Kanununun 44 üncü maddesine göre azami öğrencilik süresini doldurmuş öğrenci sağlık hizmetlerinden faydalanamaz.
+(3) İlaçlar, Öğrenci Sosyal Hizmetler Birimince anlaşma yapılmış eczanelerden tedarik edilebilir. Acil olarak mesai saatleri dışında gereken ilaçlar, herhangi bir eczaneden fatura karşılığı alınıp, Sağlık, Kültür ve Spor Dairesi satın alma bürosunca, Devlet Memurlarının Tedavi Yardımı ve Cenaze Giderleri Yönetmeliğine uygun olarak evrakları tamamlandıktan sonra tutarı, Öğrenci Sosyal Hizmetler Birimince ödenir.
+(4) Ortez, protez ve gözlük reçeteleri, öğrenci sağlık karnesine yazdırıldıktan sonra, Sağlık, Kültür ve Spor Daire Başkanlığına bağlı Sağlık Hizmetleri Şube Müdürlüğünden onaylatılır.
+(5) İlaç bedellerinin öğrenciler tarafından karşılanması gereken oranı, Devlet Memurlarının Tedavi Yardımı ve Cenaze Giderleri Yönetmeliği gereği her yıl çıkarılan bütçe uygulama talimatında belirtilen oranları aşmamak şartıyla, Üniversite Yönetim Kurulunca tespit edilir.
+(6) Karşılanmasında tereddüt edilen diğer sağlık giderlerinin ödenmesi konusunda, Sağlık Bakanlığından alınacak görüş sonunda karar vermeye, Üniversite Yönetim Kurulu yetkilidir.

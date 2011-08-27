@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Sağlık İşleri ve Sağlık Raporlarıyla İlgili Esaslar
+Sağlık karnesine başvuru usulü
+MADDE 5 – (1) Öğrencilerin bedensel ve ruhsal sağlık sorunları ile ilgili olarak başvuracakları ilk yer Sağlık, Kültür ve Spor Daire Başkanlığıdır. Öğrencilerden; kendisinin, evli ise eşinin, anne ve babasının sosyal güvencesi olmadığını belgeleyenler ve gerekli diğer belgeleri tamamlayanlar Sağlık, Kültür ve Spor Daire Başkanlığına başvurarak sağlık karnesini alırlar. Üniversite tarafından sağlık karnesi verilen öğrenciler, sağlık karnelerinin vizelerini yaptırmak üzere her eğitim ve öğretim yılının başlangıcından itibaren Ekim ayının sonuna kadar Öğrenci İşleri Daire Başkanlığına başvururlar. Vizesi yaptırılmayan sağlık karneleri geçersiz sayılır. İlk defa sağlık karnesi alacaklar için bu süreler dikkate alınmaz.
+(2) Öğrenciler almış oldukları sağlık karnelerini öğrenimleri süresince muhafaza etmek, istenildiğinde veya mezun olmaları durumunda Sağlık, Kültür ve Spor Daire Başkanlığına teslim etmek zorundadır. Sağlık karnesini teslim etmeyen öğrencilerin mezuniyet sırasında ilişikleri kesilmez.

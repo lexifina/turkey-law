@@ -1,0 +1,5 @@
+Raporlar üzerinde yapılacak işlemler
+MADDE 8 – (1) Sağlık kuruluşlarından alınan raporların aslı, öğrenci tarafından bağlı olduğu bölüm başkanlığına ve bir örneği de Öğrenci İşleri Daire Başkanlığına gönderilir. Bunlardan;
+a) Geçerli raporu olan öğrencinin, raporlu olduğu süreler içindeki rahatsızlığı mazeret olarak kabul edilir. Durum ilgili bölüm başkanlığınca öğretim elemanlarına duyurulur.
+b) Geçerli raporu olan öğrencinin, raporlu olduğu süre içinde yapılan ve bu nedenle giremediği ara sınavları yerine, mazeret sınavına girme hakkı vardır. Mazeret sınavı ilgili bölüm tarafından belirlenen günde yapılır. Ancak, mazeret sınav tarihleri öğrencilerin diğer sınavlarına girmelerini engellemeyecek şekilde düzenlenir.
+(2) Raporlar, verildiği tarih ve saatten itibaren geçerli kabul edilir. Raporların niteliğinin tam olarak belli olmaması, istirahat süresinin kesin olarak belirlenmemesi ve raporun geriye dönük olması gibi hallerde ilgili bölüm başkanlığı, yüksekokul müdürlüğü veya dekanlık raporu veren sağlık kuruluşundan tıbbi görüş isteyebilir.

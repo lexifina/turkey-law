@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-08-27",
+      "27.08.2011",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28038",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-08-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İnönü Üniversitesi",
+  "issuer_slug": "inonu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/inonu-universitesi/2011/15249",
+  "published": "2011-08-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15249&MevzuatTertip=5",
+  "source_bytes": 21034,
+  "source_id": "8.5.15249",
+  "source_sha256": "f18302cf4fa28cb13468a400653a02331bd803ea81c4418032a0f94d44100391",
+  "text_status": "as-enacted",
+  "title": "İNÖNÜ ÜNİVERSİTESİ ÖĞRENCİ SAĞLIK İŞLERİ VE SAĞLIK RAPORLARI YÖNETMELİĞİ",
+  "university_id": 201,
+  "word_count": 1053
+}
