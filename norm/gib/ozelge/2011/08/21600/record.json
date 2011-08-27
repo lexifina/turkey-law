@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.55.15.01-2010-GVK-ÖZE-60-371",
+  "source_id": 21600,
+  "date": "2011-08-27",
+  "title": "Kadın çiftçilere verilecek nakdi ödülün vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/21600",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "78da9770dbfae358d0760b3d8dc77da8ba7c8c12d4622465f8e45d8c60befc13",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
