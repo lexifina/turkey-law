@@ -1,0 +1,29 @@
+{
+  "number": "54",
+  "number_as_published": "54",
+  "year": 2011,
+  "month": 8,
+  "title": "54.KARAR AĞUSTOS 11 (1509 ada 8 pars.his.satışı)",
+  "decision_date": null,
+  "index_date": "2011-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2011",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=70",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=70",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/620c62c71ba6d38b53c3b8c5738ed867642f4edfac1524a203ade3f423c436b9.doc",
+  "source_sha256": "bb954861000cb4a3365aad976d4560c89ea71ec087f7428b293ccc8200fd60f1",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2011-08-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ağustos 2011); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "26.08.2011",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
