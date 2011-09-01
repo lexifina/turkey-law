@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 34 – (1) Bu Yönetmelik 1/9/2011 tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-07-28",
+      "28.07.2011",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 34 – (1) Bu Yönetmelik 1/9/2011 tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28008",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-09-01",
+  "in_force_basis": "explicit source commencement date",
+  "issuer": "Sinop Üniversitesi",
+  "issuer_slug": "sinop-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sinop-universitesi/2011/15149",
+  "published": "2011-07-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15149&MevzuatTertip=5",
+  "source_bytes": 61232,
+  "source_id": "8.5.15149",
+  "source_sha256": "5890136880ae1a967ba29e4d38740792d6d1132101f4926e58505b63914c4c97",
+  "text_status": "current-consolidated",
+  "title": "SİNOP ÜNİVERSİTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 312,
+  "word_count": 3653
+}

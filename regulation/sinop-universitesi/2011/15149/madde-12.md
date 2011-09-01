@@ -1,0 +1,2 @@
+Öğrenci katkı payı/öğrenim ücreti
+MADDE 12 – (1) Üniversiteye bağlı birimlerde, öğrencilerden 2547 sayılı Kanun ve ilgili diğer mevzuatla belirlenen esaslara göre katkı payı/öğrenim ücreti alınır. Katkı payı/öğrenim ücretini yatırmayan öğrencinin ders kaydı ve öğrencilikle ilgili diğer işlemleri yapılmaz. Öğrencinin kendi isteği ile kaydını sildirmesi halinde, alınan katkı payı/öğrenim ücreti iade edilmez.
