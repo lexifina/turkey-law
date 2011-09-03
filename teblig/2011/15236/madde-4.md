@@ -1,0 +1,3 @@
+Gerekçe
+Madde 4 – (1) Uygulanmakta olan önlemin yürürlükten kalkma süresinin bitiminden önce 24/12/2010 tarihli ve 27795 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2010/30 sayılı Tebliğ ile bir nihai gözden geçirme soruşturması açılması talebinde bulunulabileceği ilan edilmiştir.
+(2) Bu çerçevede yapılan başvurunun incelenmesi neticesinde, ÇHC menşeli önleme konu ürün için uygulanan dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir nihai gözden geçirme soruşturması açılması için yeterli delillerin bulunduğu anlaşılmıştır.
