@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-09-03",
+  "issue": "28043",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2011/18)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/09/20110903-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/09/20110903.htm",
+  "index_sha256": "765e81dc84879fb62bc799c97b34484810583ea447e136cdd1f5563eaa04aedb",
+  "index_header": "3 Eylül 2011 ... 28043 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
