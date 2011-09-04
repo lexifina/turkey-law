@@ -1,0 +1,3 @@
+İlave biyogüvenlik önlemleri
+MADDE 36 – (1) Avian influenzanın yayılmasını önlemek için, yetkili otorite İkinci Kısmın üçüncü, dördüncü ve beşinci bölümlerinde belirtilen önlemlere ek olarak; koruma, gözetim ve diğer kısıtlı alanlardaki işletmelerdeki kümes hayvanları ve kapalı alanda beslenen diğer kanatlı bölümlerinde ek biyogüvenlik önlemlerinin alınmasını isteyebilir. Bu önlemler; yem sağlanması, yumurta toplanması, kümes hayvanlarının kesimhaneye taşınması, imha edilen karkasların toplanması, personel, çiftlik malzemesi tedarik eden kişiler ve veteriner hekimler için araçların hareketinin kısıtlanmasını içerebilir.
+(2) Birinci fıkrada belirtilen önlemleri uygulayan yetkili otorite derhâl Bakanlığı bilgilendirir.

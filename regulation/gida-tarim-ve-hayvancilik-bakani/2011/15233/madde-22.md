@@ -1,0 +1,2 @@
+İşletmelerdeki kullanılmış altlık, gübre ve sulu çamurun nakli
+MADDE 22 – (1) Yetkili otorite tarafından izin verilmediği sürece işletmelerdeki kullanılmış altlık, gübre ve sulu çamurun çıkarılması veya nakliyatı yasaktır. Ancak yetkili otorite, bunların işletmelerden taşınmasına, işlenmek üzere belirlenmiş işletmeye veya olası avian influenza virüsünün imha edileceği işletmeye götürülmek üzere depolandığı yere, biyogüvenlik önlemleri altında veya Bakanlıkça belirlenen prosedürlere uygun olarak izin verebilir.

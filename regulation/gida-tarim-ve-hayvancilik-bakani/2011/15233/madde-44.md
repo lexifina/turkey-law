@@ -1,0 +1,6 @@
+Kontak işletmelerde alınacak önlemler
+MADDE 44 – (1) Yetkili otorite, yapılan epidemiyolojik araştırmalara dayanarak bir işletmenin kontak işletme olup olmadığına karar verir ve işletmelerde aşağıdaki önlemleri alır.
+a) Teşhis kılavuzuna uygun olarak LPAI ortadan kalkana kadar kontak işletmelerde, 9 uncu maddenin ikinci fıkrasında belirtilen önlemlerin uygulanmasını sağlar.
+b) Epidemiyolojik araştırmalara dayanarak, 41 inci maddede belirtilen önlemleri özellikle kontak işletme kanatlı popülasyonunun fazla olduğu bir bölgede ise uygulayabilir. Kontak işletmede, 41 inci maddede belirtilen önlemlerin uygulanması sırasında göz önünde tutulması gereken ana kriterler Ek-5’te yer almaktadır.
+c) Kontak işletmelerden LPAI varlığını veya yokluğunu doğrulamak için öldürülen kanatlılardan teşhis kılavuzuna göre örneklerin alınmasını sağlar.
+ç) Kümes hayvanlarının veya kapalı alanlarda beslenen kuşların kesildiği, öldürüldüğü veya imha edildiği herhangi bir işletmede LPAI varlığı doğrulanırsa, kanatlıların bulunduğu binalar, otlaklar, çiftlik, kontamine olması muhtemel ekipman, kümes hayvanları veya kapalı alanlarda beslenen kuşlar, karkaslar, et, yem, altlık, gübre ve kontamine olması muhtemel diğer materyalleri taşıyan araçların, 50 nci maddede belirtilen prosedürlere göre gereği yapılır.

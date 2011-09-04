@@ -1,0 +1,4 @@
+Hastalığın bildirimi
+MADDE 7 – (1) Avian influenza hastalığından şüpheli veya varlığından haberdar olan hayvan sahipleri ve bakıcıları, veteriner hekimler ile muhtarlar, köy korucuları, celepler, çobanlar, gemi kaptanları, istasyon ya da gümrük memur veya idarecileri gibi ilgililer tarafından yetkili otoritelere, yetkili otoriteler tarafından da derhal Bakanlığa bildirilir.
+(2) Ayrıca il/ilçe müdürlüklerince kesimhanelerde/kombinalarda, taşıma araçlarında, sınır kontrol noktalarında, diğer sınır yerlerinde, karantina tesislerinde ve diğer mekânlarda kümes hayvanları veya diğer kapalı alanlarda beslenen kuşlarda avian influenza hastalığının teşhis edilmesi durumunda Ek-3’e uygun olarak Bakanlığa hastalık bildirimi yapılır.
+(3) İl/ilçe müdürlüklerince avian influenza nedeniyle şüphe sonucunda izlemeye alınan memeli hayvanlarda yapılan gözlem sonuçları hakkında da Bakanlığa bilgi verilir.

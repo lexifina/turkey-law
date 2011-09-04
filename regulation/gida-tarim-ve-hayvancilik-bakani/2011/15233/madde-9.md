@@ -1,0 +1,15 @@
+ÜÇÜNCÜ BÖLÜM
+Şüpheli Mihraklar
+Şüpheli mihraklarda alınacak önlemler
+MADDE 9 – (1) Şüpheli mihraklarda, resmî veteriner hekim tarafından avian influenza hastalığının varlığını doğrulamak için hemen araştırmaya başlanır. Yapılan araştırma sonucunda avian influenza hastalığından şüphe edilmesi durumunda usulüne uygun olarak marazi madde alınarak, işletmeye geçici kordon konur ve karantina tedbirleri alınır. Ayrıca ikinci ve üçüncü fıkrada belirtilen önlemlerin uygulanması sağlanır.
+(2) Resmî veteriner hekim tarafından şüpheli mihraklarda aşağıdaki önlemler alınır.
+a) Kümes hayvanları veya diğer kapalı alanlarda beslenen kuşlar ve bütün memeliler sayılır ve türlerine göre sayıları belirlenir.
+b) İşletmelerde bulunan hasta, ölü veya enfekte olma şüphesi bulunan kümes hayvanları, diğer kapalı alanda beslenen kuşların ve evcil memelilerin sayısını gösteren bir liste hazırlanır. Bu liste, işletmeler tarafından şüpheli hastalık süresi boyunca yumurtlama, kuluçkadan çıkan civcivler, çıkım ve ölümleri içerecek şekilde güncellenir ve resmî veteriner hekim tarafından yapılan kontrollerde istenmesi durumunda resmî veteriner hekime sunulur.
+c) İşletmede bulunan kümes hayvanları veya diğer kapalı alanlarda beslenen kuşlar barındıkları binalara alınır ve kapalı şekilde tutulur. Bu durumun uygulanamadığı durumlarda veya hayvan refahı söz konusu olduğunda bu hayvanlar aynı işletmede bulunan diğer kümes hayvanları veya diğer kapalı alanlarda beslenen kuşlarla temas etmeyecekleri başka bir kapalı bölümde tutulur. Bu hayvanların yabani kuşlarla temas etmemesi için uygun bütün önlemler alınır.
+ç) İşletmeye, kümes hayvanı veya diğer kapalı alanlarda beslenen kuşların giriş çıkışına izin verilmez.
+d) İşletmede bulunan kümes hayvanları, diğer kapalı alanlarda beslenen kuşlar, ölü hayvan karkasları, kümes hayvanı eti, kümes hayvanı yemi, aletler, çöp, dışkı, kümes hayvanları veya diğer kapalı alanlarda beslenen kuşların gübresi, kullanılmış altlık veya hastalık taşıması muhtemel herhangi bir malzeme, avian influenza hastalığı riskini minimuma indirmek için uygun biyogüvenlik tedbirlerini takip eden resmî veteriner hekimin izni olmadan işletme dışına çıkarılamaz.
+e) Yumurtaların işletme dışına çıkarılmasına izin verilmez.
+f) İnsanlar, evcil memeli hayvanlar, araçlar, alet ve malzemelerin işletmeye giriş ve çıkışları şartlara ve yetkili otoritenin iznine bağlıdır.
+g) İşletmede kümes hayvanları veya diğer kapalı alanlarda beslenen kuşların bulunduğu binaların giriş ve çıkışlarında resmî veteriner hekimin talimatına uygun olarak dezenfeksiyon yapılır.
+(3) Resmî veteriner hekim tarafından bu Yönetmeliğin 8 inci maddesinde belirtilen epidemiyolojik çalışmalar eksiksiz olarak gerçekleştirilir.
+(4) Resmî veteriner hekim tarafından birinci fıkra ile çelişmeyecek şekilde, daha sonra aynı işletmede çıkabilecek diğer vakalardan da numune alınıp gönderilebilir. Böyle durumlarda resmî veteriner hekim, ikinci fıkrada alınan önlemler devam ederken tekrar bu önlemlerin alınmasına gerek olmadığını dikkate alarak, hepsini veya bir kısmını göz ardı ederek uygulamalara devam edebilir.

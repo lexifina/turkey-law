@@ -1,0 +1,22 @@
+DÖRDÜNCÜ BÖLÜM
+Gözetim Alanlarında Alınacak Önlemler
+Gözetim alanlarında alınacak önlemler
+MADDE 32 – (1) Yetkili otorite gözetim alanlarında aşağıdaki önlemlerin alınmasını sağlar.
+a) Bütün ticari kanatlı işletmeler belirlenerek en kısa zamanda işletmelerde hayvanların sayımı yapılır.
+b) Avian influenzanın yayılmasını önlemek için gereken biyogüvenlik önlemlerinin alınacağını garanti eden yetkili otoritenin izni olmaksızın gözetim alanındaki kümes hayvanları, yumurtlamaya hazır tavukların, günlük civcivlerin ve yumurtaların taşınması yasaklanır. Bu yasak gözetim alanında durmadan ve yükleme yapmadan doğrudan geçişler için geçerli değildir.
+c) Kümes hayvanları, yumurtlamaya hazır tavukların, günlük civcivlerin ve yumurtaların gözetim alanı dışındaki işletmelere, kesimhanelere, paketleme merkezlerine veya yumurta ürünlerinin üretildiği yerlere taşınması yasaktır. Yetkili otorite; kümes hayvanlarının 25 inci maddenin birinci fıkrasının (a), (b) ve (d) bentlerine göre acil olarak kesilmeleri amacıyla belirli kesimhanelere gönderilmesine izin verebilir. Ayrıca yetkili otorite;
+1) Koruma ve gözetim alanlarından, gözetim alanında bulunan kesimhanelere kümes hayvanlarının acil kesim için gönderilmesine ve bu hayvanlardan elde edilen etin taşınmasına,
+2) Yumurtlamaya hazır tavukların bu işletmeye yerleştirilmesinin resmî gözetim altında yapılması ve yumurtlamaya hazır tavukların işletmede en az yirmibir gün süreyle karantina altında tutulması kaydıyla kümes hayvanının bulunmadığı başka bir işletmeye gönderilmesine,
+3) Günlük civcivlerin bulunduğu işletmelerde uygun biyogüvenlik önlemleri alınıyor ve işletme resmî gözetim altında tutuluyorsa, günlük civcivler işletmeye alındıktan sonra en az yirmibir gün süreyle işletmede kaldıkları takdirde, ülke içindeki başka bir işletmeye gönderilmesine,
+4) Gözetim ve koruma alanlarının dışında yer alan kanatlı işletmelerinden orijin alan kuluçkalık yumurtalar ve bu yumurtalardan çıkan civcivler, gözetim ve koruma alanlarındaki kümeslerde bulunan diğer yumurtalarla veya günlük civcivlerle temas etmemişse ve bunun için gerekli biyogüvenlik önlemleri alınmışsa, bu yumurta veya civcivlerin gözetim alanı içinde veya dışında bulunan bir kuluçkahaneye veya işletmeye yumurtaların ve ambalajlarının dezenfekte edilmesi, yumurtaların ve civcivlerin gittikleri yerlerde izlenebilmesi hâlinde gönderilmesine,
+5) Yetkili otoritenin istediği bütün biyogüvenlik önlemleri alınması şartıyla ve sofralık yumurtaların tek kullanımlık ambalajlarla paketlenmesi durumunda, bu yumurtaların belirli paketleme merkezlerine gönderilmesine,
+6) Yumurtaların, yürürlükteki ilgili mevzuat çerçevesinde gözetim alanı içinde veya dışında üretim yapan yumurta ürünleri üretim merkezine gönderilmesine,
+7) Yumurtaların imhasına,
+izin verebilir.
+ç) Gözetim alanı içerisinde bulunan işletmelere giren ve çıkan kişiler, avian influenzanın yayılmasını önlemek amacıyla alınan biyogüvenlik önlemlerine uymak zorundadır.
+d) Yetkili otoritenin izni olmaksızın, kanatlıların bulunduğu işletmeye kümes hayvanları, kapalı alanlarda beslenen kuşlar veya evcil memeliler giremez veya çıkamaz. Bu kısıtlama sadece insanların bulunduğu yerleşim yerlerinden geçen kümes hayvanları veya kapalı alanlarda beslenen kuşlar ile teması olmayan ve bunların bulunduğu kafes veya bölgelere girmeyen memeliler için geçerli değildir.
+e) Morbidite veya mortalitedeki herhangi bir artış veya işletmenin üretim verilerindeki belirgin bir düşüş hemen yetkili otoriteye bildirilir ve yetkili otorite tarafından teşhis kılavuzuna uygun olarak gereken araştırmalar gerçekleştirilir.
+f) Yetkili otoritenin izni olmadan altlık ve gübrenin taşınması yasaktır. Yetkili otorite gözetim alanındaki bir işletmeden altlık ve gübrenin taşınmasına ancak Ek-6’nın üçüncü fıkrasının (a) bendinde belirtilen işlemlerden biri yapıldığı takdirde ve Bakanlık talimatlarına uygun biyogüvenlik önlemleri altında taşınması durumunda izin verebilir.
+g) Bu bölgede kümes hayvanları veya kapalı alanlarda beslenen kuşlar ile ilgili fuar, sergi, yarış ve pazar alanlarının kurulması yasaktır.
+ğ) Av amacıyla yetiştirilen kümes hayvanları kapalı tutulur ve sürüye yeni hayvan girişine müsaade edilmez.
+h) Canlı kanatlı ve diğer kapalı alanlarda beslenen kuşların, karkasların, gübrelerin, çamurların, altlığın ve diğer materyal veya maddelerin taşınmasında kullanılan muhtemelen kontamine olmuş araçlar ve aletler, kontaminasyondan sonra gecikmeksizin Ek-6’da belirtilen prosedürlerin biri veya birkaçına göre dezenfekte edilir.
