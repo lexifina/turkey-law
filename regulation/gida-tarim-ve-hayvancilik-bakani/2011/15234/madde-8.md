@@ -1,0 +1,2 @@
+Bir işletmede birkaç ayrı sürü bulunması
+MADDE 8 – (1) İki veya daha fazla ayrı sürü barındıran işletmelerde yetkili otorite, enfekte bir işletmenin sağlıklı sürülerine yönelik olarak, resmi veteriner hekimin bu işletmede, sürüleri barındırma, bakım ve besleme hususunda işlemlerin tamamen ayrı yürütüldüğünü ve böylece virüsün bir sürüden diğerine yayılmasının mümkün olmadığını teyit etmesi koşuluyla, 7 nci maddenin birinci fıkrasında belirtilen şartlardan istisna tutabilir.

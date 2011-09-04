@@ -1,0 +1,4 @@
+Hareketlerin izlenmesi
+MADDE 12 – (1) Yetkili otorite; yumurtaların, kümes hayvanlarının ve kapalı beslenen diğer kuşların hareketlerinin izlenmesine izin veren düzenlemeleri yapar.
+(2) Kümes hayvanlarının ve/veya yarış güvercinlerinin ve/veya kapalı beslenen diğer kuşların sahipleri veya bakıcıları; yetkili otoritenin talep etmesi halinde, işletmesine giren ya da çıkan kümes hayvanları ve yumurtalarla ilgili bilgi ve bunun yanı sıra yarış güvercinlerinin katıldıkları yarışlara ya da gösterilere ilişkin bilgileri verir.
+(3) Kümes hayvanlarının, yumurtaların, yarış güvercinlerinin ve kapalı beslenen diğer kuşların nakliyesi ya da pazarlamasıyla uğraşan kişiler; naklettikleri ya da pazarladıkları kümes hayvanlarının, yumurtaların, yarış güvercinlerinin ve kapalı beslenen diğer kuşların hareketine ilişkin olarak yetkili otoriteye bilgi verir.

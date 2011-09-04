@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.15234",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YALANCI TAVUK VEBASI HASTALIĞINA KARŞI KORUNMA VE MÜCADELE YÖNETMELİĞİ",
+  "number": "15234",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2011/15234",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15234&MevzuatTertip=5",
+  "source_sha256": "873581d918b83376031747eaddaa5b3264227a3edc7f0237f91de8c190027434",
+  "source_bytes": 82072,
+  "published": "2011-09-04",
+  "gazette": "28044",
+  "in_force": "2011-09-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.09.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5301,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
