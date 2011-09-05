@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.11-1469",
+  "source_id": 31044,
+  "date": "2011-09-05",
+  "title": "Serbest bölgede faaliyet gösteren firmanın Türkiye içinden fason iş almasının Gelir Vergisi ve KDV Kanunu açısından durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31044",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "504b8137617d3e6cc6b201767e751ecbd94fee3fc69a5a85866c6ae3abd646b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
