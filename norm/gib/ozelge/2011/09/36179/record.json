@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.27.15.01-10-515-59-39",
+  "source_id": 36179,
+  "date": "2011-09-05",
+  "title": "Kredi borç devir sözleşmesinin, noter harcı ve damga vergisine tabi tutulması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36179",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "3901885947fa0c3adb49ae18d08875a16c49c106a39c1c408f694d4304e6de63",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
