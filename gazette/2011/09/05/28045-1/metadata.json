@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-09-05",
+  "issue": "28045",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Karayolları Genel Müdürlüğü Görev, Yetki ve Sorumluluk Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/09/20110905-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/09/20110905.htm",
+  "index_sha256": "bd62d2821ffcd54ffeebb6c40431cb77f957b68f1ebaca684f845f7841fb2a18",
+  "index_header": "5 Eylül 2011 ... 28045 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
