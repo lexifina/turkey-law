@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-GVK-70-20-692",
+  "source_id": 23850,
+  "date": "2011-09-06",
+  "title": "Ortak Mülkiyete Konu Olan Gayrimenkulden Elde Edilen Kira Gelirinin Beyanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23850",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "073b92401e91608626300d3bb48dbd385d660b2ec0183c9d82774e83fb22df02",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
