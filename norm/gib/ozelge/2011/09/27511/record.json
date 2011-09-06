@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-300.11.36-195",
+  "source_id": 27511,
+  "date": "2011-09-06",
+  "title": "Tarımsal Kalkınma Kooperatifinin KV ve KDV muafiyetinden faydalanıp faydalanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27511",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "0f8621213ecc1b68203f418d1535f34c0020bd3b8dc0dabfb8f4e0f9ea0c5d10",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
