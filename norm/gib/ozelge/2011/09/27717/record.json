@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.60.10.00-010-KURUMLAR-1",
+  "source_id": 27717,
+  "date": "2011-09-08",
+  "title": "Belde belediyesince yapılan yolcu taşımacılığı faaliyetinin kurumlar vergisinden muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27717",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "1860000845faa05e84764e05e1d47a90e4c03cd720ca236d9eb04e639be64676",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
