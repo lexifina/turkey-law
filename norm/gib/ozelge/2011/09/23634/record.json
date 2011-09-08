@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[65-11/3]-701",
+  "source_id": 23634,
+  "date": "2011-09-08",
+  "title": "Üniversitesi Hastanesinde öğretim üyesi olan ayrıca özel muayenehane nedeniyle mükellefiyeti bulunan kişinin üyesi olduğu ve merkezi yurtdışında bulunan bir derneğe yaptığı aidat ödemeleri ile ek ödemenin serbest meslek kazancınızın tespitinde indirim ola",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23634",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "2ccb058ea8e0c3207159268bcc0771990c8fda98da46b38c0c310d914c71d550",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
