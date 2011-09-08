@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.04-1523",
+  "source_id": 30078,
+  "date": "2011-09-08",
+  "title": "Olumsuz mükelleften temin edilen hizmete ilişkin bedelin gümrük komisyoncusu adına banka yoluyla ödenmesinin, olumsuz mükellefe müteselsil sorumluluk kapsamında yapılan ödeme olarak değerlendirilip değerlendirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30078",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "17b963e3aa97587e174a8df05139f6a68a63e697642ddfd744f22008a5bba0ed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
