@@ -1,0 +1,2 @@
+Yurtlara kayıt ve kabul
+MADDE 11 – (1) Yurtlara kesin kayıt; yurtların kapasitesi ve başvurular dikkate alınarak Yurtlar Yönetim Kurulunca hazırlanıp, Rektör tarafından onaylanacak puanlama sistemine göre yapılır. (Ek cümle:RG-29/3/2011-27889) Kayıtlarda istenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. (Ek cümle:RG-29/3/2011-27889) Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır.

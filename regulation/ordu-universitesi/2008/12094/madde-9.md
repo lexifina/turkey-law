@@ -1,0 +1,2 @@
+Yurt sorumluları ve görevleri
+MADDE 9 – (1) Rektör tarafından Şube Müdürünün görüşü alınarak görevlendirilen yurt sorumluları; Yurtlar Yönetim Kurulu ve Şube Müdürünce alınan kararları uygular, sorumlu olduğu yurtta öğrencilerin barınma ve çalışma koşullarının düzenlenmesi ve geliştirilmesi için gerekli önlemleri alır, yurdun sekretarya hizmetlerini yürütür ve bu Yönetmelik ile verilen diğer görevleri yapar.
