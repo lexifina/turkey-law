@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-GVK 61-1531",
+  "source_id": 24905,
+  "date": "2011-09-08",
+  "title": "5746 sayılı Kanun kapsamında terkin edilen gelir vergisi stopajının personele ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24905",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "cfc933568db7fd2f91428dae57ce0a6b4ace308d3d96fe3bb7bfa8f9dee1cc63",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
