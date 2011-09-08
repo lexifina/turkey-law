@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.60.10.00-010-KURUMLAR-KDV-2",
+  "source_id": 23846,
+  "date": "2011-09-08",
+  "title": "Malmüdürlüğü tarafından yapılan kantin kiralamasında tevkifat hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/23846",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "4379605e106c767b8bfe3a815b7a304fc51b6192bf98d1a18b83c08d4ba06700",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
