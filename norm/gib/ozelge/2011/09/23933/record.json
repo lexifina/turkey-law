@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[94-11/3]-707",
+  "source_id": 23933,
+  "date": "2011-09-09",
+  "title": "Dernek tarafından irtibat ve yazışma adresi olarak kullanılan taşınmaza ilişkin gelir vergisi tevkifatı ve emsal kira uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/23933",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "3c913d24398c8a215c68297fee136ab6c3f0c1305376f86234036e8a5f5a3b2f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
