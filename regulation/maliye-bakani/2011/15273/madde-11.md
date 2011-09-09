@@ -1,0 +1,4 @@
+Sınav duyurusu ve başvuru
+MADDE 11 – (1) Sınava katılma şartları, sınav açılan görevin kadro unvanı, atama yapılacak kadro sayısı, atama yapılacak yerler, sınav konuları, sınav tarihi ve başvuru süresi gibi hususlar İnsan Kaynakları Daire Başkanlığınca ilan edilir. Sınavda başarılı olanların eğitime tabi tutulacak olması halinde, duyuruda ayrıca belirtilir.
+(2) Sınav duyurusu, Başkanlık internet sitesinde ilan edilir ve sınav tarihinden en az otuz gün önce merkez ve taşra birimlerine gönderilir.
+(3) Son başvuru tarihi ile sınav tarihi arasındaki süre on beş iş gününden az olamaz. Sınav başvuruları, sınava katılacak personelin görev yaptığı birime yapılır. Başvurular, son başvuru tarihinden itibaren beş iş günü içinde elden veya postayla İnsan Kaynakları Daire Başkanlığına gönderilir. Sınav başvuruları, ilanda belirtilmesi şartıyla elektronik ortamda da yaptırılabilir.
