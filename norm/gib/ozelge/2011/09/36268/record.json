@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.01-V.İ.V/1-90",
+  "source_id": 36268,
+  "date": "2011-09-09",
+  "title": "Sosyal Güvenlik Kurumu tarafından ödenen kıdem tazminatının anne ve babaya isabet eden kısmın viv den istisna tutulması ve kardeşlere yapılan ödemelerin ise vergiye tabi tutulması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36268",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "08eab0e37391e87eed7f2f0ca3a0fc0eb5f8b7811850c1e56ac94d5894b24ddc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
