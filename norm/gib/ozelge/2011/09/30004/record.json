@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-2 2010-ÖİV-1-708",
+  "source_id": 30004,
+  "date": "2011-09-09",
+  "title": "Her türlü vergi, resim ve harçtan muaf tutulan kurumların aldıkları elektronik haberleşme hizmeti karşılığında düzenlenecek faturalarda ÖİV hesaplanıp hesaplanmayacağı ve bu kurumlarla düzenlenen kağıtların damga vergisi karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/30004",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "90455f5c616c86affb5a0081cdb7d564a2d01194bde7de01f18825092b1fd59f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
