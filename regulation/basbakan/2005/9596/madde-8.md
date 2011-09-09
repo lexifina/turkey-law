@@ -1,0 +1,2 @@
+Yazılı emir
+MADDE 8- Gecikmesinde sakınca bulunan hâllerde; Millî İstihbarat Teşkilatı Müsteşarı veya yardımcısı, Emniyet Genel Müdürü veya İstihbarat Dairesi Başkanı ve Jandarma Genel Komutanı veya İstihbarat Başkanı tarafından telekomünikasyon yoluyla yapılan iletişimin tespiti, dinlenmesi, sinyal bilgilerinin değerlendirilmesi ve kayda alınması için verilen yazılı emir, yirmidört saat içinde 26 ncı maddenin birinci fıkrasında belirtilen yetkili ve görevli hâkimin onayına sunulur. Hâkim, kararını en geç yirmidört saat içinde verir.

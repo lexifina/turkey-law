@@ -1,0 +1,3 @@
+Yetkili ve görevli hâkim
+MADDE 26- Bu Yönetmeliğin İkinci Bölümü çerçevesinde iletişimin tespiti, dinlenmesi, sinyal bilgilerinin değerlendirilmesi ve kayda alınması konularında yetkili ve görevli hakim, ilgili kurumların talepte bulunan biriminin bulunduğu yer itibarıyla yetkili olan ve 5271 sayılı Kanunun 250 nci maddesinin birinci fıkrasına göre kurulan ağır ceza mahkemesinin üyesidir.
+Bu Yönetmeliğin Üçüncü Bölümü çerçevesinde iletişimin tespiti, dinlenmesi, sinyal bilgilerinin değerlendirilmesi ve kayda alınması konularında yetkili ve görevli hakim, 5271 sayılı Kanun hükümlerine göre belirlenir.

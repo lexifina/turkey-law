@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1- Başkanlığın kuruluşu ile ilgili her türlü mal ve hizmet alımları ile yapım işleri, ceza ve ihalelerden yasaklama işleri hariç 4734 sayılı Kamu İhale Kanunu ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu hükümlerinden muaftır; söz konusu mal ve hizmet alımları ile yapım işleri Ulaştırma Bakanlığınca belirlenecek usul ve esaslara göre yürütülür.

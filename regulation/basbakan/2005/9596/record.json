@@ -1,0 +1,70 @@
+{
+  "source_id": "7.5.9596",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TELEKOMÜNİKASYON YOLUYLA YAPILAN İLETİŞİMİN TESPİTİ, DİNLENMESİ, SİNYAL BİLGİLERİNİN DEĞERLENDİRİLMESİ VE KAYDA ALINMASINA DAİR USUL VE ESASLAR İLE TELEKOMÜNİKASYON İLETİŞİM BAŞKANLIĞININ KURULUŞ, GÖREV VE YETKİLERİ HAKKINDA YÖNETMELİK",
+  "number": "9596",
+  "issuer": "Başbakan",
+  "issuer_slug": "basbakan",
+  "path": "regulation/basbakan/2005/9596",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9596&MevzuatTertip=5",
+  "source_sha256": "1e904e42d800466b23b5a866da7ae7424ccc10da57f711d8e7aa691bfc3917c3",
+  "source_bytes": 175505,
+  "published": "2005-11-10",
+  "gazette": "25989",
+  "in_force": "2011-09-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/9/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-09-09",
+      "RG-9/9/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-09-09",
+      "9/9/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-08-07",
+      "RG-7/8/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-08-07",
+      "7/8/2009",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2007-07-04",
+      "RG-04/07/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-07-04",
+      "4/7/2007",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2006-02-24",
+      "RG-24/02/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-02-24",
+      "24/2/2006",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4650,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
