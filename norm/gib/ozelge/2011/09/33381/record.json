@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV- 4 -14029-05-713",
+  "source_id": 33381,
+  "date": "2011-09-10",
+  "title": "Basit usule tabi iken alınan araç alımına ilişkin yüklenilenKDVnin, gerçek usule geçildiğinde indirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33381",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "90ec6ffac62c06aebbbbe537c63e34369898b0d419e3060520eab75844372c32",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
