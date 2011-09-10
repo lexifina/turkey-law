@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.01.16.01-2010-3161-KV-71",
+  "source_id": 22881,
+  "date": "2011-09-10",
+  "title": "Yıllara Sari İnşaat ve Onarım İşlerinde İşin Başlama ve Bitiş Tarihlerinin Tespiti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22881",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "6524561ea1e402642768eb1c2ef99338a7e5c6257a2ceafa768a43a550b66a5c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
