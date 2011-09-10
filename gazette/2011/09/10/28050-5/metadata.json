@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-09-10",
+  "issue": "28050",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2011/2184 Bazı Anlaşmaların Yürürlük Tarihlerinin Tespit Edilmesine Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/09/20110910-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/09/20110910.htm",
+  "index_sha256": "142028d7770ec75dfe507925728db9c6f06bfeb443faf37862428cd820969aa5",
+  "index_header": "10 Eylül 2011 ... 28050 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "eb8289f76cdc06e5cfa53dbf13de03b5a64f68ed3b107c228b7270586dc5c061",
+  "text_status": "text.txt as published"
+}
