@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.01.16.01-2011-1517-GV-69",
+  "source_id": 22047,
+  "date": "2011-09-10",
+  "title": "Ticari kazancın tespitinde İhracat iadesi yardımlarının hangi dönemde beyan edileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22047",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "a3f0fe64b0cf306a0c97a3f4d8275add44365bf5754b252a52a50b0188984b3f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
