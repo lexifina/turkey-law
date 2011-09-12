@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-KVK.2011.ÖZ.7.-299",
+  "source_id": 37465,
+  "date": "2011-09-12",
+  "title": "Birden fazla tekne üretiminin farklı yıllarda tamamlanarak yurt dışına ihraç edilmesi halinde, gelir vergisi stopaj istisnası uygulamasındaki tecil-terkin işlemi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37465",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "45dd5c7fc5dfee05e02020d19033af3b3cc4c53a6e6f7fcd450a046673f43ecb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
