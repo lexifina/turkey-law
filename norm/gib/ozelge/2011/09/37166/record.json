@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-006.01-1575",
+  "source_id": 37166,
+  "date": "2011-09-12",
+  "title": "Boğaziçi Öngörünüm Bölgesinde bulunan ve belediyece kısıtlı emlak vergisi uygulaması yapılan taşınmazın mevcut haliyle kullanılmak şartıyla kiraya verilmesi halinde emlak vergisi ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37166",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "9273d04784c09a2ab5b0fbc280bec9e7dc2cae6ada28cf8f42adc0bbb0c8983c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
