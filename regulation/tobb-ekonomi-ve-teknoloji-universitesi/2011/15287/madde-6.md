@@ -1,0 +1,7 @@
+Öğrenim ücreti
+MADDE 6 – (1) Üniversitede eğitim-öğretim ücretlidir. Öğrenciler belirlenen miktarda ve zamanda öğrenim ücretini ödemekle yükümlüdür. Öğrenim ücretini belirlenen süreler içinde ödemeyen öğrencinin ders programı ve ders kayıt işlemleri yapılmaz.
+(2) Öğrenim ücreti, özel kurs ve uygulamalar ile bu Yönetmeliğin 36 ncı maddesi kapsamındaki sınavlara ait ücretleri kapsamaz.
+(3) Özel öğrenciler, misafir öğrenciler, değişim programı öğrencileri ve benzeri kategorilerde kabul edilen öğrenciler, Mütevelli Heyet tarafından belirlenen esaslara göre öğrenim ücretini öderler ve Üniversitenin diğer öğrencilerine uygulanan idari ve akademik kurallara tabidirler.
+(4) Süreye sayılarak izin alan öğrenciler, bu Yönetmelikte aksine bir hüküm bulunmadıkça, izinli olacakları süreye tekabül eden öğrenim ücretinin yarısını ödemekle yükümlüdür. Süreye sayılmadan izin alan öğrenciler ise izinli oldukları dönem için öğrenim ücreti ödemez.
+(5) Mezuniyet için, Üniversite Yönetim Kurulunun belirleyeceği sayıda dersi kalan öğrencilerin ödeyecekleri öğrenim ücretleri bu kurulun önerisi ve Mütevelli Heyet Başkanının onayı ile belirlenir.
+(6) Kayıtlı olduğu lisans programındaki mezuniyet koşullarını tamamladıkları halde, azami mezuniyet süresi sınırları içinde lisans programına sayılmak üzere ders alma talepleri ilgili fakülte yönetim kurulu tarafından kabul edilen öğrencilerin ödeyecekleri öğrenim ücretlerine ilişkin esaslar Üniversite Yönetim Kurulunun önerisi ve Mütevelli Heyet Başkanının onayı ile belirlenir.

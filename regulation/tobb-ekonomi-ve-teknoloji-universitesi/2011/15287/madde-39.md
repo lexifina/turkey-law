@@ -1,0 +1,5 @@
+Özel öğrenci
+MADDE 39 – (1) Bir yükseköğretim kurumu mezunu veya öğrencisi olanlar, belirli bir konuda bilgi ve becerilerini geliştirmek amacıyla, diploma adayı olmadan her ders döneminde lisans düzeyinde verilen en fazla iki derse özel öğrenci olarak kabul edilebilir.
+(2) Özel öğrenci kabulü, dersi veren öğretim elemanının olumlu görüşü üzerine ilgili fakülte yönetim kurulu kararıyla yapılır. Bu kararda öğrencinin hangi dersleri almasına izin verildiği belirtilir. Süre sonunda özel öğrenci statüsünün devamı için adayın yeniden başvurması ve başvurunun ilgili fakülte yönetim kurulu kararı ile kabul edilmesi gerekir.
+(3) Özel öğrenciler, katıldıkları dersler esas alınarak Üniversite tarafından belirlenen öğrenim ücretini öder. Özel öğrenciler, Üniversitenin öğrencisi sayılmaz ve öğrencilik haklarından yararlanamaz. Ancak Üniversitenin öğrencilerine uygulanan akademik ve idari kurallara tabidirler. Bu öğrencilere diploma veya derece verilmez; istekleri üzerine kayıtlı oldukları dersleri ve aldıkları notları gösteren bir belge verilir.
+(4) Üniversitenin lisans programlarında kayıtlı öğrenciler, Üniversitede verilen dersleri özel öğrenci statüsünde alamaz.

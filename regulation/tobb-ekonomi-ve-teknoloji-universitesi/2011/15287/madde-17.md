@@ -1,0 +1,2 @@
+Öğrenci danışmanlığı
+MADDE 17 – (1) İlgili bölüm başkanı, her öğrenci için öğretim elemanları arasından bir danışman görevlendirir. Öğrencinin kayıt yenileme, ders alma ve bırakma işlemleri öğrenci tarafından yapılır. Danışman; öğrenciyi izler, eğitim-öğretim çalışmaları ve Üniversite yaşamı ile ilgili sorunlarının çözümünde kendisine yardımcı olur ve öğrenciye ilişkin varsa görüş, rapor ve diğer belgeleri bölümdeki öğrenci dosyasına eklenmek üzere bölümüne teslim eder.

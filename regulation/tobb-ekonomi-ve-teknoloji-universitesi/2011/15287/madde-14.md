@@ -1,0 +1,3 @@
+Yabancı dil ve Türkçe hazırlık programları
+MADDE 14 – (1) Zorunlu yabancı dil hazırlık programının uygulandığı lisans programlarına yerleştirilen öğrenciler Üniversiteye ilk kayıttan sonra, ilan edilen tarih ve saatte Yabancı Dil Muafiyet ve Düzey Belirleme Sınavına girerler. Senato tarafından belirlenen esaslar çerçevesinde Yabancı Dil Muafiyet ve Düzey Belirleme Sınavını başaranlar ya da yabancı dil hazırlık programından muaf olanlar, kayıtlı oldukları eğitim-öğretim programına başlarlar; diğerleri, yabancı dil hazırlık programına devam ederler.
+(2) Yabancı uyruklu öğrencilerden Türkçe dil düzeyi yeterli görülmeyenler Türkçe hazırlık programına, ayrıca yabancı dil bilgisi yeterli görülmeyenler yabancı dil hazırlık programına devam ederler.

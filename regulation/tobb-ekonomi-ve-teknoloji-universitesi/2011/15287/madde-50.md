@@ -1,0 +1,6 @@
+İlişik kesme işlemleri
+MADDE 50 – (1) Üniversiteden kendi isteği ile ayrılmak isteyen öğrencinin ilişiği, yazılı talebi üzerine ilgili fakülte dekanlığı onayıyla kesilir. Kendi isteğiyle ayrılma ve mezuniyet dışındaki nedenlerle ilişik kesilmesi için ilgili fakülte yönetim kurulunun kararı gerekir.
+(2) Üniversiteden mezuniyet, kendi isteğiyle ayrılma veya diğer nedenlerle ilişiği kesilen öğrencilerin öğrencilik veya mezuniyet durumlarına ilişkin belgelerini alabilmeleri için ilişik kesme işlemlerini tamamlamaları gerekir. İlişik kesme, öğrencinin Üniversiteye borcunun olmadığını ve Üniversiteye ait malzeme, ekipman ve öğrenci kimlik belgesi varsa bunları iade ettiğini belgeleyerek, ayrılma sebebini ve ayrılma tarihini kayıtlara geçirme işlemidir.
+(3) Derslerin başlamasını takip eden üçüncü haftanın, Cumartesi hariç, son iş gününe kadar Üniversiteden ilişiği kesilme durumuna gelen öğrencinin, ilgili dönemde kayıt yaptırmış olduğu dersler dönem kaydından düşürülür.
+(4) Üniversiteden ayrılan öğrencilere, Üniversiteye girişte alınan lise diplomasının aslı, bir kopyası Üniversitedeki dosyasında saklanmak üzere, iade edilir.
+(5) Üniversiteden ayrılan öğrenciler bu Yönetmeliğin 4 üncü ve 5 inci maddelerinde belirtilen esaslara göre Üniversiteye tekrar kayıt yaptırma hakkına sahiptir.

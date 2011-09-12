@@ -1,0 +1,2 @@
+Ders ekle-sil işlemleri
+MADDE 19 – (1) Ders kayıt süresi bitiminden sonra akademik takvimde belirtilen ders ekle-sil süresi içinde öğrenciler, danışmanlarının onayını almak ve dönem normal kredi yükü aralığında kalmak kaydıyla ders değişiklikleri yapabilirler. Ders ekle-sil süresinden sonra, bu Yönetmeliğin 20 nci maddesinde belirtilen dersten vazgeçme durumu dışındaki gerekçelerle istenen tüm ders değişiklikleri ancak ilgili fakülte yönetim kurulunun öğrencinin mazeretini kabul etmesi halinde yapılabilir.

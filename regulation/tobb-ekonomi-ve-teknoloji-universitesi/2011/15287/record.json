@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.15287",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "15287",
+  "issuer": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ",
+  "issuer_slug": "tobb-ekonomi-ve-teknoloji-universitesi",
+  "path": "regulation/tobb-ekonomi-ve-teknoloji-universitesi/2011/15287",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15287&MevzuatTertip=5",
+  "source_sha256": "1710f9f9f8b2c04fd735f6d4ee5efa449f59f34fba313ea0958bedf800a81ad9",
+  "source_bytes": 127993,
+  "published": "2011-09-12",
+  "gazette": "28052",
+  "in_force": "2011-09-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.09.2011); own commencement article: \"Bu Yönetmelik 2011-2012 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2011-2012 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7226,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

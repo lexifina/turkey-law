@@ -1,0 +1,2 @@
+Notlarda maddi hata
+MADDE 29 – (1) Bir dersin ilan edilmiş başarı notunun maddi hata nedeniyle değiştirilmesi, öğrencinin notların ilanını takip eden yedi iş günü, Cumartesi hariç, içinde Bölüm Başkanlığına yazılı itirazı veya ilgili öğretim elemanının bildirimi üzerine ilgili bölüm tarafından oluşturulan komisyonca incelendikten sonra ilgili fakülte yönetim kurulu, hazırlık programı için Üniversite Yönetim Kurulu kararıyla gerçekleşir.

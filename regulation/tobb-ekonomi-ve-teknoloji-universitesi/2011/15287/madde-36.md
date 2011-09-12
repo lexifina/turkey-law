@@ -1,0 +1,2 @@
+Yandal programları
+MADDE 36 – (1) Lisans programlarına kayıtlı öğrenciler Üniversite içinde başka bir diploma programı kapsamında belirlenmiş dersleri almak suretiyle diploma yerine geçmeyen bir belge alabilmek için bir yandal programına kayıt yaptırabilir. Yandal programı, ilgili iki bölümün talebi, ilgili fakülte kurullarının önerisi ve Senatonun kararı ile açılır. Yandal programına öğrenci kabulü ve yandal programının yürütülmesine ilişkin esaslar Yükseköğretim Kurulunun ilgili mevzuatı çerçevesinde Senato tarafından belirlenir.
