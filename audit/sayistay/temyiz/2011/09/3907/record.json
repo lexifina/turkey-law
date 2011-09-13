@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "33611",
+  "decision_date": "2011-09-13",
+  "source_id": 3907,
+  "chamber": "4",
+  "file_number": "32921",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/3907/",
+  "source_sha256": "cf08df90a03d8f49aae5b7969e23709f9a6a3fe34c27a813912ae589a66fd556",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
