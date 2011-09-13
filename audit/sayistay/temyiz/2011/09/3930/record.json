@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "33634",
+  "decision_date": "2011-09-13",
+  "source_id": 3930,
+  "chamber": "8",
+  "file_number": "33146",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/3930/",
+  "source_sha256": "36118927a8574ed33d137702602b10870a0dce4fed2d53019974289bbc112a08",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
