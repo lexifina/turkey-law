@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-09-14",
+  "issue": "28054",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Uludağ Üniversitesi Önlisans ve Lisans Öğretim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/09/20110914-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/09/20110914.htm",
+  "index_sha256": "13783aa347a2089ec999f34249932c6aa1c3762f7fcd37648a57aa0145dd31aa",
+  "index_header": "14 Eylül 2011 ... 28054 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
