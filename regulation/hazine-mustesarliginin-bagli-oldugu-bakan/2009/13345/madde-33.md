@@ -1,0 +1,4 @@
+Yazılı sınav sorularının hazırlanması ve cevap kağıtlarının değerlendirilmesi
+MADDE 33 – (1) Giriş sınavının yazılı bölüm soruları, bu Yönetmeliğin 32 nci maddesinde belirtilen konularda Sınav Komisyonu veya üniversitelerde öğretim üyeliği yapan kişiler arasından Sınav Komisyonu tarafından seçilecek Komiteler tarafından hazırlanır.
+(2) Sınav Komisyonu tarafından seçilecek Komiteler, her bir sınav grubu için asgari 10 adet soru hazırlayarak bunları yazılı sınav tarihinden en az bir gün önce bir yazı ile Sınav Komisyonu Başkanlığına verirler. Sınav Komisyonu, yazılı sınavda adaylara yöneltilecek soruları, hazırlanan bu sorular arasından seçerek saptar.
+(3) Yazılı sınav sonuçlarının değerlendirilmesi soruları hazırlayan Sınav Komisyonu veya Komiteler tarafından yapılır ve sonuçlar bir tutanak ekinde Sınav Komisyonu Başkanlığına iletilir.

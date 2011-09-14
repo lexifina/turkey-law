@@ -1,0 +1,4 @@
+Yetki etüdü raporu
+MADDE 42 – (1) Denetim elemanları, tek başlarına inceleme ve denetim yapma yetkisi verilmeden önce kendilerinin belirlediği ya da Başkanlıkça uygun görülen ve mesleği ile ilgili bir konuda yetki etüdü raporu hazırlarlar. Bu raporlar, tek başına inceleme ve denetim yapma yetkisi verilmesi kararında dikkate alınmak üzere Başkanlıkça değerlendirilir.
+(2) Yetki etüdü raporları, raporu hazırlayan denetim elemanı tarafından, gerektiğinde tüm denetim elemanlarının katıldıkları toplantılarda takdim edilir.
+(3) Kurul Başkanı, denetim elemanlarına tek başlarına inceleme ve denetim yapma yetkisi verilmesinde dikkate alınmak üzere bu Yönetmeliğin 47 nci maddesinde belirtilen konulardan yazılı ve sözlü sınav yapılmasına karar verebilir. Bu sınav, yetki etüdü raporu hazırlanması zorunluluğunu ortadan kaldırmaz.

@@ -1,0 +1,4 @@
+Sınav notu, derecelendirme ve sınav sonrası işlemler
+MADDE 35 – (1) Giriş sınavı notu; yazılı ve sözlü sınav notlarının ortalamasıdır. Sınavda başarı gösterenlerin sayısının atama yapılacak boş kadro sayısından fazla olması durumunda giriş sınav notu üstün olanlar tercih edilir. Giriş sınav notunun eşitliği halinde KPSS puanı üstün olan aday öncelik kazanır. Diğerleri için sınav sonuçları kazanılmış hak sayılmaz. Sınav Komisyonu, atama yapılacak kadro sayısının yarısını geçmemek üzere yedek liste açıklayabilir.
+(2) Sınav sonuçları, Sınav Komisyonu tarafından bir tutanakla tespit edilir. Sınavı başaranların listesi uygun görülen yerlere asılır ve Müsteşarlık internet sitesinde ilan edilir. Sınavı kazanan adaylara Kurul Başkanlığı tarafından ayrıca yazılı bildirim yapılır.
+(3) Giriş sınavını kazanmış oldukları halde kadro yetersizliği nedeniyle atanamamış olanlar, 24 üncü maddenin üçüncü fıkrasının uygulanması bakımından sınava girmemiş sayılırlar.

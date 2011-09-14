@@ -1,0 +1,4 @@
+Müsteşarlık birimleri ile ilişkiler
+MADDE 8 – (1) Yetkilerini kendi sorumluluğu altında kullanan Kurul, görev ve yetki alanına giren konularla ilgili her türlü bilgi ve belgeyi Müsteşarlığın diğer birimlerinden isteyebilir.
+(2) Kurulun görev alanına giren konularda Müsteşarlığın diğer birimlerine herhangi bir şekilde ulaşmış olan bilgi ve belgeler, ilgili birim tarafından bir yazı ekinde Kurul Başkanlığına intikal ettirilir. Müsteşarlığın diğer birimlerinin görev alanına giren konularda herhangi bir şekilde Kurula ulaşmış olan bilgi ve belgeler de Kurul Başkanlığı tarafından bir yazı ekinde ilgili birime intikal ettirilir.
+(3) Müsteşarlık birimlerinin görev alanlarını ilgilendiren konulardan Kurulca incelenmesi istenenler; Kurulun çalışma programı ve denetim hizmetlerini aksatmayacak şekilde yürütülmek üzere ilgili birimler tarafından Kurul Başkanlığının bilgilendirilmesi ve bu çerçevede koordinasyonun sağlanması suretiyle Müsteşarlık Onayına bağlanarak incelenir.

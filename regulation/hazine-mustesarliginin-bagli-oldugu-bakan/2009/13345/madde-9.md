@@ -1,0 +1,2 @@
+Diğer kuruluşlarla ilişkiler
+MADDE 9 – (1) Kurul, görevlerini yerine getirmek amacıyla sigortacılıkla ve bireysel emeklilikle ilgili resmi ve özel kişi ve kuruluşlardan bilgi ve görüş isteyebilir, daha verimli ve etkin denetim yapmak amacıyla sigortacılıkla ve bireysel emeklilikle ilgili kamu örgütleri arasında gerekli işbirliği ve koordinasyonu sağlar ve kanunen başka merciler tarafından uygulanması, takibi ve sonuçlandırılması gereken hususları ilgili mercilere intikal ettirir.

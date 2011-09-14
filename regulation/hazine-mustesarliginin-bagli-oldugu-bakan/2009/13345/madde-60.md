@@ -1,0 +1,4 @@
+İşe başlayış ve ayrılışlar ile turne yerine hareket
+MADDE 60 – (1) Denetim elemanları, inceleme, denetim, araştırma ve soruşturmaların başlayış ve bitiş tarihleri ile belirlenecek diğer bilgileri Kurul Başkanlığına bildirmek zorundadırlar.
+(2) Başkanlıktan aldığı emir üzerine bir yerden diğer bir yere hareket eden denetim elemanı, gidişini yola çıkmadan önceki son işgünü, varışını da aynı ya da takip eden iş günü uygun bir haberleşme aracıyla Kurul Başkanlığına bildirir. Müşterek incelemelerde bildirim görevi ekip başkanı tarafından yerine getirilir.
+(3) Kurul Başkanlığı, denetim elemanlarına yapılacak bildirimler ile denetim elemanları tarafından Kurul Başkanlığına yapılacak bildirimlerin esas ve usullerini belirlemeye ve bu bildirimlerin teknolojik imkanlar kullanılmak suretiyle elektronik ortamda ya da benzer şekillerde yapılmasına karar vermeye yetkilidir.

@@ -1,0 +1,2 @@
+Sözlü sınav
+MADDE 34 – (1) Yazılı sınavda başarılı olanlar sözlü sınava alınırlar. Sözlü sınav, Sınav Komisyonu tarafından yazılı sınav konularından yapılır. Bu sınavda ayrıca, adayların genel kültür bilgilerinin yoklanması yanında, zeka, ifade yeteneği, tavır, hareket ve temsil kabiliyeti gibi kişisel niteliklerine de dikkat edilir. Sözlü sınav notu 100 tam puan üzerinden verilir ve en az 70 puan alanlar başarılı sayılır.

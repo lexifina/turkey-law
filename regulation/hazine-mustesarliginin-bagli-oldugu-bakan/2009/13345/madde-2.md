@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Kurulun teşkilat ve görevlerini, Kurul Başkanı, denetim elemanları ile Şube Müdürlüğünün görev, yetki ve sorumluluklarını, Kurul Başkanı, sigorta denetleme uzman ve aktüerleri ile sigorta denetleme uzman ve aktüer yardımcılarının atanma ve özlük hakları ile çalışma ve yurtdışına gönderilme usul ve esaslarıyla denetime tabi olanların görev ve sorumluluklarını kapsar ve düzenler.

@@ -1,0 +1,2 @@
+Görev izleme çizelgesi
+MADDE 62 – (1) Denetim elemanları, belirlenecek dönemler itibariyle Kurul Başkanlığına görev izleme çizelgesi sunmak zorundadırlar. Görev izleme çizelgesinde denetim elemanlarının anılan dönemde kendilerine verilen görevin tarih ve sıra numarası, konusu, görevin başlama ve tamamlanma tarihi ile henüz tamamlanamayan işlerin yaklaşık olarak ne kadar sürede sonuçlandırılacağı gibi hususlar yer alır. Görev izleme çizelgesinde yer verilecek hususlar ve çizelgenin şekli Kurul Başkanı tarafından belirlenir.

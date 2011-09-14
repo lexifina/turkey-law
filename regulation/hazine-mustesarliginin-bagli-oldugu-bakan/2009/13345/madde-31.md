@@ -1,0 +1,6 @@
+Yazılı sınav
+MADDE 31 – (1) Giriş sınavının yazılı bölümü bu Yönetmeliğin 32 nci maddesinde belirtilen konulardan yapılır. Sınav gruplarının her biri için hazırlanan sorular ve soruların puan değerleri birer tutanakla belirlenir. Zarflar, kapatma yerlerinin üstleri mühürlendikten sonra Sınav Komisyonu tarafından saklanır.
+(2) Yazılı sınav, Kurul Başkanlığı tarafından görevlendirilen personelin gözetim ve denetimi altında yapılır. Sınav görevlilerince yazılı sınava girenlerin belgeleri incelenir. Sınava katılması uygun olmayanlar sınava kabul edilmezler.
+(3) Sınav sorularını içeren mühürlü zarflar, sınava giren adaylar önünde açılır ve durum bir tutanakla tespit edildikten sonra sorular dağıtılarak sınava başlanır.
+(4) Adayların sınav kâğıtları, sınav sonunda veriliş sırasına göre numaralandırılarak soru kâğıtları ile birlikte bir zarf içine konulur. Kapatılan zarf mühürlendikten sonra durum bir tutanakla tespit olunur ve mühürlü zarf Sınav Komisyonu Başkanına teslim edilir.
+(5) Yazılı sınavda, her sınav grubunun tam notu 100 puandır. Sınavın kazanılabilmesi için sınav yapılan her bir gruptan en az 60 puan alınması ve grupların ortalamasının 70 puandan aşağı olmaması şarttır. Bu ortalama, giriş sınavı notunun hesaplanmasında yazılı sınav notu olarak dikkate alınır.

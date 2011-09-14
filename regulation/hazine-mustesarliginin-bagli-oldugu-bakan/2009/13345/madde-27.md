@@ -1,0 +1,3 @@
+Giriş sınavı koşulları ve adaylık belgesi
+MADDE 27 – (1) Giriş sınavına katılacak adaylara, Kurul Başkanlığı tarafından, fotoğraflı ve onaylı bir "Adaylık Belgesi" verilir. Adaylar, yazılı ve sözlü sınavlara, Adaylık Belgesi ve geçerli bir kimlik belgesinin gösterilmesi suretiyle katılırlar.
+(2) Sınav Komisyonu, giriş sınavına müracaat edecek adaylar için KPSS puan türlerini ve taban puanları belirleyebilir ve açıktan atama izni alınmış kadro ve pozisyon kontenjanının en fazla 20 katına kadar KPSS sonuçlarına göre belirlenen aday çağırabilir. Sınav Komisyonu, mezun olunan lisans programı ya da programları için ihtiyaca göre kontenjan tanıyabilir. Bu durumda aday sayısı her bir kontenjan için ayrı ayrı belirlenir.

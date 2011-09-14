@@ -1,0 +1,4 @@
+Tek başına inceleme ve denetim yapma yetkisinin verilmesi
+MADDE 43 – (1) Ön eğitim programını, yetki etüdü raporunu ve refakat dönemini başarı ile tamamlayan denetim elemanlarına, refakatlerinde çalıştıkları denetim elemanlarının da görüşleri alınarak ikinci yılın sonunda Kurul Başkanlığınca tek başına inceleme ve denetim yapma yetkisi verilebilir. Bu süre, tek başına inceleme ve denetim yapmaya henüz hazır olmadığı tespit edilen denetim elemanları için en az üç ay uzatılır. Bu durumda Yönetmeliğin 37 ve 44 üncü maddelerinde belirtilen üç yıllık süre aynı miktarda uzatılmış sayılır.
+(2) Denetim elemanları, Başkanlığın yetki verildiğini belirten yazısından sonra, sigorta denetleme uzman veya aktüeri görev, yetki ve sorumluluklarına sahip olarak bağımsız görev yaparlar.
+(3) Tek başına inceleme ve denetim yapma yetkisine sahip denetim elemanları, tek başlarına veya gerekli hallerde diğer denetim elemanları ile birlikte müşterek inceleme ve denetim yaparlar.

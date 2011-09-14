@@ -1,0 +1,3 @@
+Hakediş bildirimi
+MADDE 64 – (1) Her ay tahakkuk eden gündeliklerle yol, taşıt, konaklama ve haberleşme giderleri için “Yurtiçi Geçici Görev Yolluğu Bildirimi” düzenlenir. Bu bildirime harcamalara ilişkin gerekli belgeler eklenir ve takip eden ayın 7 nci iş günü akşamına kadar Başkanlığa elden teslim edilir ya da gönderilir.
+(2) İlgili Saymanlıklardan peşin olarak harcırah çeken denetim elemanları, çekilen tutar ile ilgili aya ait Geçici Görev Yolluğu Bildiriminde yer alan tutar arasında fark olması halinde bu tutarı takip eden ayın 15 inci günü akşamına kadar ilgili Saymanlıklara iade etmek zorundadırlar.

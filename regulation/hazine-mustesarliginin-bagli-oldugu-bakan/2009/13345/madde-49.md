@@ -1,0 +1,4 @@
+Yeterlik sınavının değerlendirilmesi ve yeterlik notu
+MADDE 49 – (1) Denetim elemanlarının yeterlik notu; yetişme notu ile yazılı ve sözlü sınav notlarının ortalamasından oluşur.
+(2) Yazılı sınav kağıtları, Yeterlik Sınav Komisyonu üyeleri tarafından 100 tam puan üzerinden değerlendirilir. Yazılı sınavda başarılı sayılabilmek için yazılı sınav gruplarının her birinden en az 60 puan alınması ve sınav ortalamasının da 70 puandan aşağı olmaması şarttır.
+(3) Yazılı sınavda başarılı olan denetim elemanları, Yeterlik Sınav Komisyonu tarafından yazılı sınav konularından ayrıca sözlü sınava tabi tutulurlar. Sözlü sınavda, Komisyon üyeleri tarafından denetim elemanlarına 100 tam puan üzerinden not verilir. Sözlü sınavda başarılı sayılabilmek için Komisyon üyeleri tarafından verilen notların ortalamasının en az 70 puan olması şarttır.

@@ -1,0 +1,2 @@
+Sigorta Denetleme Uzmanlığı ile Sigorta Denetleme Aktüerliği güvencesi
+MADDE 53 – (1) Denetim elemanlığı mesleği, diğer idari görevlerden ayrı bir kariyer olarak düzenlendiğinden, Sigorta Denetleme Uzman ve Aktüerleri; denetim hizmetlerinin gerekleriyle bağdaşmayan sıhhi, ahlaki veya mesleki yetersizlikleri tespit edilmedikçe, kendi istekleri dışında görevden alınamaz ve diğer idari görevlere atanamazlar.
