@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV. 28-1589",
+  "source_id": 31040,
+  "date": "2011-09-14",
+  "title": "Altı zift kaplı sentetik çim halının tesliminde uyuglanacak KDV oranı ile ihraç kayıtlı teslime konu edilip edilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31040",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "1f2a29ba67be84c9d81ddc2053ef8e0ab60967f98a4c1bd685831a4c8e456941",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
