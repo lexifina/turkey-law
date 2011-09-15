@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.27.15.01-10-515-14-42",
+  "source_id": 28767,
+  "date": "2011-09-15",
+  "title": "Teşvik belgesine bağlanmış yatırımlar çerçevesinde finansal kiralama yoluyla iktisap edilen makineler dolayısıyla indirimli kurumlar vergisi uygulamasından faydalanıp faydalanılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28767",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "16f6fc8117ef64b50cbe8bed7da3ecd7f242075bfcc50f34c238a97269741ca7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
