@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, 26/1/1995 tarihli ve 4067 sayılı Kanunla onaylanan Dünya Ticaret Örgütü Kuruluş Anlaşması’nın eki Korunma Tedbirleri Anlaşması kapsamı dışında olmak üzere, Bakanlar Kurulunca 10/5/2004 tarihinde kararlaştırılan 2004/7305 sayılı İthalatta Korunma Önlemleri Hakkında Karar çerçevesinde 13/1/2011 tarihli ve 27814 sayılı Resmî Gazete’de yayımlanan 2011/1 ve 2011/2 sayılı Tebliğler ile başlatılan soruşturma sonucunda alınan kararı içermektedir.
