@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.01-GVK-43-91",
+  "source_id": 20990,
+  "date": "2011-09-15",
+  "title": "Ev hanımlarının yaptığı ürünlerle birlikte ürettiğiniz ürünlerin belediye standında satılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20990",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "f9e9be895b6bb8f5e1c0bd45614131d76ed8a80439177dcb72c2c1749aa65b9c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
