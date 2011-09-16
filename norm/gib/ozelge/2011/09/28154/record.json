@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-14017-67-731",
+  "source_id": 28154,
+  "date": "2011-09-16",
+  "title": "Kredi kefaleti sağlama işlemlerinde ekspertiz hizmetlerinin değerlendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28154",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "b3ce86f17fc0bcf4828ed7c1e0daec6ffb40684a0d1cd5794d2e5c55785476a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
