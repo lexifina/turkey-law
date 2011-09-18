@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 25 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-09-18",
+      "18.09.2011",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 25 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28058",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-09-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ardahan Üniversitesi",
+  "issuer_slug": "ardahan-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ardahan-universitesi/2011/15308",
+  "published": "2011-09-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15308&MevzuatTertip=5",
+  "source_bytes": 39317,
+  "source_id": "8.5.15308",
+  "source_sha256": "0de18b3e0206f8919de3c9e9d138a10e847afc9dafccdcbf39917629f931d8b7",
+  "text_status": "as-enacted",
+  "title": "ARDAHAN ÜNİVERSİTESİ ÖĞRENCİ YURTLARI YÖNETMELİĞİ",
+  "university_id": 325,
+  "word_count": 1814
+}

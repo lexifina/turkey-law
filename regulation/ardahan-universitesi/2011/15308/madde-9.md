@@ -1,0 +1,2 @@
+Yurt amirleri ve görevleri
+MADDE 9 – (1) Rektör tarafından Yurt Müdürünün görüşü alınarak görevlendirilen Yurt Amirleri; Yurt Yönetim Kurulu ve Yurt Müdürünce alınan kararları uygular, sorumlu olduğu yurtta öğrencilerin barınma ve çalışma koşullarının düzenlenmesi ve geliştirilmesi için gerekli önlemleri alır, yurdun sekreterya hizmetlerini yürütür ve bu Yönetmelik ile verilen diğer görevleri yapar.
