@@ -1,0 +1,2 @@
+Disiplin ve uçuşa uyumsuzluk
+MADDE 21 – (1) KMYO UEO bünyesinde eğitim gören öğrencilere, yüksekokul yerleşkesinde, balon kalkış alanında, balon iniş alanında veya balon içerisinde 13/1/1985 tarihli ve 18634 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümleri uygulanır. Öğrencilerin disiplin iş ve işlemleri Yönetim Kurulu tarafından karara bağlanır. Uçuş disiplinsizliği ve uçuşa uyumsuzluk halleri, Uçuş Değerlendirme Kurulunca değerlendirilir.

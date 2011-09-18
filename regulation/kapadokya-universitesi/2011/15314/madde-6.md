@@ -1,0 +1,2 @@
+Öğretim esasları
+MADDE 6 – (1) Dersler, teorik derslerden, atölye, laboratuvar, pratik çalışma gibi uygulamalardan ve uygulamalı derslerden oluşur. Derslerin yarıyıl esasına göre veya yıl esasına göre planlanması Yüksekokul Kurulu tarafından gerçekleştirilir. Yönetim Kurulunun kararı ile dersler, Yüksekokul ve/veya Nevşehir ili dışında da yapılabilir. Bu derslerin planlanmasına ilişkin esaslar, Yönetim Kurulu tarafından kararlaştırılır Müdürlük tarafından yürütülür.
