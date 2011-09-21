@@ -1,0 +1,15 @@
+Hukuk müşavirliği
+MADDE 13 – (1) Hukuk müşavirliğinin görevleri şunlardır:
+a) Üst Kurul Başkanının talimatı üzerine, Üst Kurul ve teşkilatının görevlerine ilişkin hususlarla ilgili olarak hukuki görüş bildirmek.
+b) Üst Kurulun görev alanına giren konularda mevzuat çalışmalarında bulunmak, yapılacak ikincil düzenlemeleri mevzuata uygunluk açısından incelemek, mevzuat değişikliği konularında önerilerde bulunmak, mevzuat değişikliklerini takip ederek zamanında Üst Kurul Başkanı ve üyeleri ile ilgili hizmet birimlerini bilgilendirmek ve diğer kurum ve kuruluşlarca hazırlanarak Üst Kurula gönderilen kanun, tüzük ve yönetmelik tasarıları ile ilgili konularda görüş bildirmek.
+c) Üst Kurulun görevlerini yapmasına yardımcı ve yararlı hukuki incelemelerde bulunarak, Üst Kurulu bilgilendirmek, gerektiğinde komisyon çalışmalarına katılmak.
+ç) Üst Kurul ve Üst Kurul Başkanının gerekli gördüğü konularda hukuki mütalaa bildirmek.
+d) Üst Kurul Başkanının tensibi ile birimlerin görev alanlarıyla ilgili hukuki, mali ve cezai sonuçlar doğuracak işlemler hakkında, mevcut bilgi ve belgeler ile birlikte ilgili birimin görüşü alınarak intikal eden konularda hukuki görüş bildirmek.
+e) Üçüncü şahıslarla Üst Kurul arasında vuku bulacak hukuki nitelikteki işlemleri yürütmek, Üst Kurulun görevleri ile ilgili hususlarda gerektiğinde yasal yollara başvurmak ve Kurul aleyhine açılacak davalar ve icra takiplerinde Üst Kurul ve teşkilatını temsil etmek.
+f) Adli ve idari yargı mercilerinden, icra dairelerinden ve noterlerden Üst Kurula yapılacak bildirimlere, ihbar ve ihtarlara cevap hazırlayıp göndermek veya hukuki gereklerini yerine getirmek ya da bu bildirimlerin yerine getirilmesi için ilgili birimlere göndermek. Mahkemelerden gelen tüm kararların üzerine tebliğ tarihini yazarak süresi içinde Üst Kurula sunmak.
+g) Açılması gereken davalar için Üst Kuruldan süresi içerisinde izin alarak dava açmak; Üst Kurula karşı açılan davalarda dava dilekçesine süresinde cevap vermek, cevaba cevap vermek, bilirkişi raporlarına itiraz etmek, Üst Kurul aleyhine mahkemelerce verilen kararları süresi içinde temyiz etmek, gerekirse karar düzeltilmesi talebinde bulunmak, yargılama aşamasında gereken tüm titizliği göstermek ve bu konuda yapılanları aylık periyotlarla Üst Kurula sunmak.
+ğ) Anlaşma, sözleşme ve protokoller hakkında istişari mahiyette hukuki görüş vermek.
+h) Üst dereceli yargı mercilerine intikalinde yarar görülmeyen davalardan vazgeçilmesi konusunda Üst Kurula öneri sunmak.
+ı) Üst Kurul Başkan ve üyelerinin, görevden ayrılmış olsalar dahi, görevleriyle bağlantılı olarak işledikleri iddia edilen suçlardan dolayı başlatılan soruşturma ve kovuşturmaların, ilgililerin talepleri üzerine vekalet akdi yapmak suretiyle görevlendirilecek avukatlar tarafından takip edilmesi halinde, söz konusu davalara ilişkin dava giderleri ve avukatlık vekalet ücretlerinin Üst Kurul bütçesinden karşılanmasına ilişkin gereken işlemleri yürütmek.
+i) Üst Kurul tarafından verilen müeyyide kararlarının tebligat işlemlerini yapmak.
+j) Üst Kurul ve Üst Kurul Başkanı tarafından verilen diğer görevleri yapmak.
