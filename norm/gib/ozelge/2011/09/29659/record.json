@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.28.10.00-043-1-2",
+  "source_id": 29659,
+  "date": "2011-09-22",
+  "title": "Sorumlu Sıfatıyla Verilecek Katma Değer Beyannamesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29659",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "96394a366ba6c1e8ccf8266e7b4041fbf3f12acfecd36f47153fd05c3f0405be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
