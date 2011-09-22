@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-09-22",
+  "issue": "28062",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Mevlana Üniversitesi Ana Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/09/20110922-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/09/20110922.htm",
+  "index_sha256": "6dd9a77f2a49cdb1571d3c87d9f44a9f8d02ed2a74c9c25880751777cf07c279",
+  "index_header": "22 Eylül 2011 ... 28062 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
