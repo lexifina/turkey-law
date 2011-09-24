@@ -1,0 +1,94 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 28. Bu yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1998-08-24",
+      "24.08.1998",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2011-09-24",
+      "RG-24/9/2011-28064",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-09-24",
+      "RG-24/9/2011-28064",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-09-24",
+      "RG-24/9/2011-28064",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-09-24",
+      "RG-24/9/2011-28064",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-09-24",
+      "RG-24/9/2011-28064",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-09-24",
+      "RG-24/9/2011-28064",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-07-24",
+      "RG-24/07/2002-24825",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-07-24",
+      "RG-24/07/2002-24825",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2007-10-05",
+      "RG-05/10/2007-26664",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-09-24",
+      "RG-24/9/2011-28064",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-09-24",
+      "RG-24/9/2011-28064",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-24/9/2011-28064",
+  "first_law": null,
+  "gazette": "23443",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-09-24",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İzmir Yüksek Teknoloji Enstitüsü",
+  "issuer_slug": "izmir-yuksek-teknoloji-enstitusu",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/izmir-yuksek-teknoloji-enstitusu/1998/7767",
+  "published": "1998-08-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7767&MevzuatTertip=5",
+  "source_bytes": 68216,
+  "source_id": "8.5.7767",
+  "source_sha256": "ae22447a47d01052dabc570c6c574219433a71e532d9d2e5c47afa2fb4978803",
+  "text_status": "current-consolidated",
+  "title": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ ÖĞRENCİ KAYIT-KABUL İŞLERİ YÖNETMELİĞİ",
+  "university_id": 204,
+  "word_count": 1864
+}

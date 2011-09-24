@@ -1,0 +1,3 @@
+Not Belgeleri
+Madde 13. Enstitüde öğrenim gören bütün öğrencilerin kayıt oldukları tarihten Enstitüden ayrılıncaya kadar aldıkları dersler ve bu derslerden aldıkları notlar, Öğrenci İşleri Dairesi Başkanlığınca öğrencinin not belgesine geçirilir. Öğrencinin isteği üzerine, not belgelerinin onaylı kopyaları öğrenciye elden verilir veya bildireceği adreslere posta ile gönderilir. Resmi kuruluşların isteği üzerine de onaylı not belgeleri bu kuruluşlara gönderilir.
+Not belgelerinin düzenlenmesi, öğrenciye verilmesi veya ilgili kuruluşlara gönderilme işlemi Öğrenci İşleri Dairesi Başkanlığınca yapılır.

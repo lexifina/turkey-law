@@ -1,0 +1,10 @@
+Diplomalar
+Madde 14. Öğrenimlerini yönetmeliklerde belirlenen esaslara göre başarı ile tamamlayanlara aşağıda belirtilen diploma ve sertifikalar verilir.
+a ) Önlisans Diploması: Lisans programı uygulayan fakülte bölümlerinde önlisans diploması almaya hak kazananlara verilen diplomalarda ilgili Bölüm Başkanı, Dekan ve Rektörün imzaları bulunur. Verilen diplomalarda öğrencinin görmüş sayıldığı öğrenim süresi belirtilir.
+b ) (Değişik: RG-24/07/2002-24825) Lisans Diploması: İlgili Dekan ve Rektör tarafından imzalanır. Diploma üzerinde öğrencinin fakültesi, bölümü varsa programı belirtilir.
+c ) Çift Ana Dal Diploması: Çift ana dal programı uygulayan fakülte bölümlerinde çift ana dal diploması almaya hak kazananlara verilen diplomalarda, ilgili Bölüm Başkanı, Dekan ve Rektörün imzaları bulunur. Diploma üzerinde öğrencinin izlemiş olduğu programının adı belirtilir.
+d ) Yan Dal Sertifikası: Yan dal programı uygulayan fakülte bölümlerinde yan dal sertifikası almaya hak kazananlara verilen sertifikalarda ilgili Bölüm Başkanı, Dekan ve Rektörün imzaları bulunur. Sertifika üzerinde öğrencinin izlemiş olduğu yan dal programının adı belirtilir.
+e ) (Değişik: RG-24/07/2002-24825) Lisansüstü Diploması: İlgili Enstitü Müdürü ve Rektör tarafından imzalanır. Lisansüstü diplomalarda öğrencinin Enstitüsü, Enstitü Anabilim Dalı ve izlemiş olduğu programın adı bulunur.
+Bütün diplomaların şekli, ölçüleri ve diplomalara yazılacak bilgiler Senato tarafından belirlenir.
+(Mülga:RG-05/10/2007-26664 Mükerrer)
+Diplomalar hazırlanıncaya kadar ve bir defaya mahsus olmak üzere ilgili Dekan/Mühendislik ve Fen Bilimleri Enstitüsü Müdürü ve Öğrenci İşleri Daire Başkanının imzalarını taşıyan geçici bir mezuniyet belgesi verilebilir. Diplomaların kaybı durumunda bir defaya mahsus olmak üzere, Türkiye baskısı olan bir gazetede ilan edilmesi, gerekli harcın yeniden ödenmesi ve durumun dilekçe ile beyan edilmesi koşulu ile, yeni bir diploma verilir. İkinci olarak verilen bu diploma üzerine “İkinci Nüsha” ibaresi konur.

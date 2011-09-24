@@ -1,0 +1,2 @@
+Önlisans
+Madde 12. Lisans programlarına kayıtlı öğrencilerden, ilk dört yarıyılın derslerini başarılı olarak tamamladıkları halde lisans diplomasını alamayacak duruma düşenlerle, aynı durumda olup meslek yüksek okullarına devam etmek isteyenlere verilecek “Önlisans Diploması” ile ilgili esaslar, Yükseköğretim Kurulu Kararları çerçevesinde Senato tarafından düzenlenir. Bu durumdaki öğrencilerin lisans programlarındaki kayıtları silinir.
