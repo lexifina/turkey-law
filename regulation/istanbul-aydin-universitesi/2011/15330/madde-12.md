@@ -1,0 +1,2 @@
+Tıbbi direktör
+MADDE 12 – (1) Tıbbi Direktör; Diş Hekimliği Fakültesi öğretim elemanları arasından, Rektörün ve Merkez Müdürünün (Başhekim) önerisi üzerine Mütevelli Heyet Başkanı tarafından bir yıllık bir süre için görevlendirilir. Görev süresi biten Tıbbi Direktör yeniden görevlendirilebilir. Tıbbi Direktör, gerektiğinde Rektörün ve Merkez Müdürünün (Başhekim) teklifi üzerine, Mütevelli Heyetinin onayı ile bir yıllık süre dolmadan da görevinden alınabilir. Tıbbi Direktör görevi başında olmadığı zaman Merkez bünyesinde kendisinin belirleyeceği bir hekim vekalet eder.
