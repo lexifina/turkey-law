@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-300-11-13-214",
+  "source_id": 32955,
+  "date": "2011-09-26",
+  "title": "İplik Düğümleme (İş bağı) hizmetinde KDV Oranı ve Tevkifat Yapılıp Yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32955",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "804751e03c8f23150d4226e0cbe89d8531f05044218d14c605d3805a21d08a7a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
