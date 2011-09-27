@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.15.01-DMG-62-2-11-85",
+  "source_id": 34945,
+  "date": "2011-09-27",
+  "title": "İşçilere ödenecek yıllık izin ücretlerinden mahsup edilmek üzere yapılan avans ödemeleri nedeniyle düzenlenen kağıtlar ile takip eden ayda yıllık izin ücretlerinin ödenmesi sırasında düzenlenen kağıtların damga vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34945",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "47a2091a3b4c9262e28c41133a21258744af50b690f5e5b5cf5e7c86d301590a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
