@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-002.01-1645",
+  "source_id": 27948,
+  "date": "2011-09-27",
+  "title": "5520 sayılı Kurumlar Vergisi Kanununun 5/1-e fıkrası kapsamında yapılacak hisse devrine ilişkin düzenlenen kağıtta, şirkette hissesi bulunan şahıs ortaklara ait hissenin de devrinin de söz konusu olması durumunda damga vergisi uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/27948",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "c63b0496704906bffb1d393642ecdbd4c0d4fff4792811b654914781d3afee5e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
