@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-002.01-1646",
+  "source_id": 34935,
+  "date": "2011-09-27",
+  "title": "Gümrük Müdürlüğünden tescil edilen ancak sel felaketi sonucu yapılamayan ihracatın başka bir Gümrük Müdürlüğünden yapılmış olması nedeniyle, iptal edilen beyannamelerin damga vergisine tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34935",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "92f805badfd2bacc6f02a407abb6795f7b26e39f5eed04abb9bd98fee32ca7dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
