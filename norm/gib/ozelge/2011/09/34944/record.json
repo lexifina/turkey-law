@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-DAMGA-1-116",
+  "source_id": 34944,
+  "date": "2011-09-27",
+  "title": "Ücretlerden mahsup edilmek üzere yapılacak avans ödemeleri nedeniyle düzenlenen kağıtların damga vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34944",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "456f74388749dd1174d4ea6360ae0010c7b701b4f673bcf39d2d055f1c23f3cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
