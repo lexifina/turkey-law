@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.79.10.00-B.07.4.DEF.79.10-1",
+  "source_id": 31038,
+  "date": "2011-09-27",
+  "title": "İthalat sırasında fatura bedeli dikkate alınmaksızın gümrük idaresi tarafından belirlenen istatistiki değer üzerinden hesaplanan katma değer vergisinin indirim yoluyla giderilemediği durumlarda, malın maliyetine dahil edilerek muhasebeleştirilip muhasebel",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31038",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "bcacdef1783a20094bf2799124432654ae662e994d27a396b7c48d9650a6eafa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
