@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3433/33",
+  "decision_date": "2011-09-29",
+  "title": "Yenilenebilir enerji kaynaklarından elektrik enerjisi üreten tesislerin lisanslarına derç edilecek yıllık azami üretim miktarına ilişkin karar",
+  "categories": [
+    "Yenilenebilir Enerji Kaynaklarından Elektrik Enerjisi Üreten Tesislerin Önlisans veya Üretim Lisanslarına Derç Edilecek Yıllık Elektrik Enerjisi Üretim Miktarına İlişkin Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iKtRGhe5YZQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iKtRGhe5YZQ="
+  ],
+  "source_sha256": "868dfae53a4c2da0b74429c0179409b9d0a8ad41e6232f7a625b82a458dcaebc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33880,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-09-29",
+  "law_text_complete": false
+}
