@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV GENEL-1687",
+  "source_id": 32951,
+  "date": "2011-09-30",
+  "title": "Finansal kiralama sözleşmesi kapsamındaki haklardan biri olan satın alma hakkının temlik sözleşmesiyle üçüncü kişilere devredilmesinde KDV hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32951",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "8f62fbc2ca4d776f409746df6689e1f8ba695d0c32f6720f9eb9735336c8504b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
