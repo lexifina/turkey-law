@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.22.15.01-2010/DVK:9-2-23",
+  "source_id": 34930,
+  "date": "2011-09-30",
+  "title": "Vakıflar Bölge Müdürlüğü ile müteahhit arasında sinagog onarım işi için düzenlenecek sözleşmenin, 5737 sayılı Vakıflar Kanununun 77 nci maddesine göre damga vergisi ve harçtan istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34930",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "93c3306502d72dc4cf0191c078b774520e8c3f59a9c7b7d5855c4adae64e2bfb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
