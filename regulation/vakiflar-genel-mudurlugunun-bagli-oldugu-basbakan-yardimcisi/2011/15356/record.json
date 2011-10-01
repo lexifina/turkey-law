@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.15356",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "5737 SAYILI VAKIFLAR KANUNUNUN GEÇİCİ 11 İNCİ MADDESİNİN UYGULANMASINA İLİŞKİN YÖNETMELİK",
+  "number": "15356",
+  "issuer": "Vakıflar Genel Müdürlüğünün bağlı olduğu Başbakan Yardımcısı",
+  "issuer_slug": "vakiflar-genel-mudurlugunun-bagli-oldugu-basbakan-yardimcisi",
+  "path": "regulation/vakiflar-genel-mudurlugunun-bagli-oldugu-basbakan-yardimcisi/2011/15356",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15356&MevzuatTertip=5",
+  "source_sha256": "6884dc311323553a6213459b34fbc1cf1c04d6013716df2ba37f212e0417ef4c",
+  "source_bytes": 75422,
+  "published": "2011-10-01",
+  "gazette": "28071",
+  "in_force": "2011-10-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.10.2011); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 914,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
