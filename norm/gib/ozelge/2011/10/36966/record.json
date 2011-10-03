@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.67.15.01-2010-EMLV-3-40",
+  "source_id": 36966,
+  "date": "2011-10-03",
+  "title": "Kooperatif adına tescilli olan bina ile ilgili olarak üyelerin kendi adlarına emlak vergisi bildirimi verip vermeyecekleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36966",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b7d9770fc67571dc01e0b62de9ad4945cdb32af652579ce8971f071b99122f2b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
