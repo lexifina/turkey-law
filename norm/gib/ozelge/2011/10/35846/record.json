@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.09.15.01-8.2010.3/HK.59.MD.-7",
+  "source_id": 35846,
+  "date": "2011-10-04",
+  "title": "3713 sayılı Terörle Mücadele Kanunu kapsamında malulen emekliye ayrılan mükellefe ait gayrimenkulün satışından ne şekilde harç ve damga vergisi aranılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35846",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "700c6cb514feee2e76decfd487fd8275c6935672a82e941f30afb2a259ac9114",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
