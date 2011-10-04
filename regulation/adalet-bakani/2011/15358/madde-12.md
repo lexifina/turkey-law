@@ -1,0 +1,3 @@
+Belgelerin saklanması ve mahkemeye gönderilmesi
+MADDE 12 – (1) Noterlik Kanununun 71/A maddesi uyarınca düzenlenen evrak, genel usullere göre saklanır. Bu evrakın imzalı örneği 13/7/1976 tarihli ve 15645 sayılı Resmî Gazete’de yayımlanan Noterlik Kanunu Yönetmeliğinin 56 ncı maddesinde belirtilen dosya ve kartonların dışında ayrıca özel bir dosyada tutulur. Bu dosyanın oluşturulmasına ilişkin usul Türkiye Noterler Birliği tarafından belirlenir.
+(2) Mirasçılık belgesine itiraz edilmesi halinde mirasçılık belgesi veya terke dayalı boşanma davası açılması durumunda ihtarname, ilgili mahkemenin talebi halinde özel dosyasından çıkartılıp mahkemeye doğrudan gönderilir.

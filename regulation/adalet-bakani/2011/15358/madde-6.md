@@ -1,0 +1,2 @@
+İtiraz
+MADDE 6 – (1) Noterlikçe verilen mirasçılık belgesi hakkında, başvuruyu yapan ya da bu belge sebebiyle menfaatinin ihlâl edildiğini iddia edenler tarafından, 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununa göre yetkili sulh hukuk mahkemesine itirazda bulunulabilir. İtiraz üzerine verilen kararın bir örneği mirasçılık belgesini veren noterliğe ve Türkiye Noterler Birliğine bildirilir.
