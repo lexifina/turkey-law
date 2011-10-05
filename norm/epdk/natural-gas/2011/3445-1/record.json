@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3445/1",
+  "decision_date": "2011-10-05",
+  "title": "Doğal gaz dağıtım şirketlerinin; perakende satış tarifelerine ilişkin birinci uygulama döneminin 01/01/2012 (dahil)-31/12/2016 (dahil) olmak üzere 5 (beş) yıl olarak belirlenmesine ilişkin",
+  "resmi_gazete_date": "2011-10-28",
+  "resmi_gazete_number": "28098",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Mg2ILRzusYE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Mg2ILRzusYE="
+  ],
+  "source_sha256": "cdad2c95034e5a21ffcd4c823aeae87a5c6ac26f4a0accb071e3853a4b294fae",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-10-05",
+  "law_text_complete": false
+}
