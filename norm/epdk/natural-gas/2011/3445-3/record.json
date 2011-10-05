@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3445/3",
+  "decision_date": "2011-10-05",
+  "title": "Doğal gaz dağıtım şirketlerinin uygulayacakları sistem kullanım bedellerinin hesaplanmasında birinci uygulama dönemi için Reel Makul Getiri Oranı’nın %11,83 (reel ve vergi öncesi) olarak dikkate alınmasına ilişkin",
+  "resmi_gazete_date": "2011-10-28",
+  "resmi_gazete_number": "28098",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zXJblpDbDG4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zXJblpDbDG4="
+  ],
+  "source_sha256": "df4e85b80851e6d04446a4c19f902e30f5a2228c2d834db0d048625431f8ceff",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-10-05",
+  "law_text_complete": false
+}
