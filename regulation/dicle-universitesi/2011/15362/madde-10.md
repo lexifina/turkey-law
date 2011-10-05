@@ -1,0 +1,3 @@
+Danışma kurulu ve görevleri
+MADDE 10 – (1) Merkezin çalışmalarında etkinlik ve verimliliği artırmak, yeni görüşleri çalışmalara kazandırmak ve Merkez yönetiminin ihtiyaç duyduğu konularda hizmetlerinden yararlanmak üzere, Merkezin amaç ve faaliyet alanlarında Müdürle birlikte en fazla onbeş üyeden oluşan Danışma Kurulu oluşturulabilir.
+(2) Danışma Kurulu üyeleri, Müdür tarafından önerilen Üniversite içinden ve istekleri halinde Üniversite dışından konu ile ilgili uzman kişiler ve turizm sektörü temsilcileri arasından Yönetim Kurulunca seçilir. Danışma Kurulu üyelerinin görev süresi üç yıldır. Gerektiğinde, seçilen üyelerin görev süresi uzatılabilir. Danışma Kurulu, Müdürün çağrısı üzerine toplanır. Danışma Kurulu toplantılarına Müdür başkanlık eder.
