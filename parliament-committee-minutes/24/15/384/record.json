@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KAMU İKTİSADİ TEŞEBBÜSLERİ KOMİSYONU",
+  "committee_id": 15,
+  "meeting_date": "2011-10-05",
+  "meeting_date_as_published": "05/10/2011",
+  "agenda": [
+    "DENETİM FAALİYETLERİNİN USUL VE ESASLARI VE SAYIŞTAY RAPORLARININ HAZIRLANMA SÜRECİ"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/384",
+  "pdf_sha256": "38a029a12400d95a93705901504276b90493e2be79e422f497229dea8a585ec0",
+  "pdf_pages": 32,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=15)",
+  "listing_sha256": "0dc889625a43960f41a70f9bc21885fb2bc2789f7a2feaf357be8aa9f141f856",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-10-05",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
