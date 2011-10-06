@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-515",
+  "source_id": 36424,
+  "date": "2011-10-06",
+  "title": "1.Derece Doğal Sit Alanı İçerisinde Kalan Arsaların Emlak Vergisi ve Veraset ve İntikal Vergisinden İstisna Olduğu Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36424",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "a4dd1b884e43cbabd1d8f8000725134af8809132c34d75c641377a0ca5d5a543",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
