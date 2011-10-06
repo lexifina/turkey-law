@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-DMG-203-814",
+  "source_id": 34922,
+  "date": "2011-10-06",
+  "title": "Yurt dışı kredi kuruluşu tarafından kullandırılmış ve/veya kullandırılacak nakdi ve/veya gayrinakdi krediler nedeniyle düzenlenecek alacağın temlikine ilişkin kağıdın, damga vergisi ve noter harcından istisna tutulup tutulmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34922",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "23634484f99f178086de2167c54a813d1d360315f34de60c878d2364ba97cdde",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
