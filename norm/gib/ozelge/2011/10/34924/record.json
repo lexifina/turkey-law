@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.37.10.00-488-1-19",
+  "source_id": 34924,
+  "date": "2011-10-06",
+  "title": "Pansiyonlu İlköğretim Okulunda, Okul pansiyonu için mal/malzeme, hizmet alımları ile yapım işlerine ilişkin olarak yapılacak ihalelerde düzenlenen ihale kararı ve sözleşmelerin, 222 sayılı İlköğretim ve Eğitim Kanununun 78 ve 83 üncü maddeleri kapsamında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34924",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "79a3bf7910de8aef5737a6d90d4f57b94a2f32ae66c3e5d50c402edfb8aea2a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
