@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-002.01-1731",
+  "source_id": 34920,
+  "date": "2011-10-07",
+  "title": "Vakıf Üniversitesi ile kişiler arasında düzenlenen sözleşmelerde damga vergisi mükellefiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34920",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "72f688f19cbe0b82f39f21c7df10e9ba5691541bfb2cb7cabc375d02c0cc4d6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
