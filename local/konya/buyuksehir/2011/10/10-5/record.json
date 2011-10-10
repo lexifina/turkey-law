@@ -1,0 +1,25 @@
+{
+  "number_in_summary": 5,
+  "number_basis": "item number printed in the summary",
+  "official_decision_number": null,
+  "title": "Karatay İlçesi, Saraçoğlu Mahallesi, M29A17C3C, M29A17C3D, M29A22B2A ve M29A22B2B paftalar, 5717 ada, 30, 54, 55, 56, 61, 63, 64, 65, 66, 67, 72, 75, 76, 77, 78, 79, 80, 81, 82 ve 100 nolu parsellere isabet eden alanda uygulama imar planın görüşülmesine dair İmar ve Bayındırlık Komisyonu raporunu...",
+  "decision_date": "2011-10-10",
+  "meeting_date": "2011-10-10",
+  "summary_heading": null,
+  "summary_title": "KARAR ÖZETİ (10.10.2011)",
+  "source": "https://www.konya.bel.tr/meclis/icerik-getir?tarih=2011-10-10&tur=2",
+  "source_page": "https://www.konya.bel.tr/meclis-encumen/meclis-gundemi-ve-kararlari?karar_yil=2011&karar_ay=10",
+  "source_sha256": "5bd4bc32dfaf35d16a85325c7eb6774098a3ac89012e07e0169c0b28730d7db9",
+  "issuer": "Konya Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary item as published in the council's Karar Özeti; complete decision text is not published in this register",
+  "in_force": "2011-10-10",
+  "in_force_basis": "Official toplantı tarihi 2011-10-10 (the summary prints no dated heading); adoption date for the summary item; legal commencement not asserted",
+  "missing": [
+    "official decision number (not printed in the summary)",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
