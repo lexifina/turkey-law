@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-10-10",
+      "10.10.2011",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28080",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-10-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Afyon Kocatepe Üniversitesi",
+  "issuer_slug": "afyon-kocatepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/afyon-kocatepe-universitesi/2011/15369",
+  "published": "2011-10-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15369&MevzuatTertip=5",
+  "source_bytes": 33774,
+  "source_id": "8.5.15369",
+  "source_sha256": "0c9b382643dc48e6c31af6412ace8461f160fd2e116114e239e1470cdd5c55b5",
+  "text_status": "as-enacted",
+  "title": "AFYON KOCATEPE ÜNİVERSİTESİ SOSYAL ARAŞTIRMALAR UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 177,
+  "word_count": 1073
+}
