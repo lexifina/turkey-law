@@ -1,0 +1,3 @@
+Müdür ve müdür yardımcıları
+MADDE 9 – (1) Müdür; Üniversitenin fotonik cihazlar geliştirme alanında tecrübeye sahip, ileri yarıiletken malzeme geliştirme-üretim deneyimine sahip profesör unvanlı öğretim üyeleri arasından, Rektör tarafından dört yıllık süre için görevlendirilir. Müdür, görev süresi bittiğinde yeniden görevlendirilebilir.
+(2) Müdür, Yönetim Kurulu üyeleri arasından iki üyeyi Müdür Yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür yardımcılarından biri, Müdürün görevi başında bulunmadığı zamanlarda Müdüre vekalet eder. Müdürün görev süresi bitince müdür yardımcılarının da görevi sona erer. Müdürün istifa etmesi veya altı aydan fazla bir süre görevi başında bulunmaması durumunda aynı usulle yeni Müdür görevlendirilir.
