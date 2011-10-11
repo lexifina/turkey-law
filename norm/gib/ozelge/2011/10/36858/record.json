@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-BSMV-2011/1-159",
+  "source_id": 36858,
+  "date": "2011-10-11",
+  "title": "Türkiye Uluslar arası Gemi Siciline kayıtlı yolcu gemilerine ait sigorta poliçelerinde BSMV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36858",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "8b7f2c77f0545fd40a3ac6d973b8266a230601a628ccad6409af7a68f1a969cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
