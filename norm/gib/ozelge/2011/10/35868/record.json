@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-006.01-1786",
+  "source_id": 35868,
+  "date": "2011-10-11",
+  "title": "Kooperatifin Emlak Vergisi ile Belediye Gelirleri ve Harçlar Kanununa göre alınan harçlardan muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/35868",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "bc69b17ce4b936cafbdd74fbcad6baf90ba66e5c516f9e201a31f9dcfc290175",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
