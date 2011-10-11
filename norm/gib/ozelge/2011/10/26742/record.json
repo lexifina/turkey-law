@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.25.15.01-2011-VİV-2845-1-9",
+  "source_id": 26742,
+  "date": "2011-10-11",
+  "title": "İntikale Konu Taşıtların Değerlemesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/26742",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7116cf83e4d6bebdc28335a16eab74ff19b92b45b740f78b08f25a96f26f644a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
