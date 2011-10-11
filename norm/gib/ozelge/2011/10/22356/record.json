@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-176300-526",
+  "source_id": 22356,
+  "date": "2011-10-11",
+  "title": "Kalkınma ajansından alınan hibe tutarının hangi hesaba kaydedileceği ve hangi dönemin geliri sayılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22356",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "1f5174e64193ae45f7cbaccd121b5e4e8aeb03d869f3fed2f32d48bd48757c25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
