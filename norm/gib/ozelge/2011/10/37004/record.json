@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.15.01-EVK-66-2/4-91",
+  "source_id": 37004,
+  "date": "2011-10-11",
+  "title": "Büyükşehir Belediyesi mücavir alan sınırları dışında kalan merkez ilçeye bağlı köydeki bina ve arazilerin emlak vergisi muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37004",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "0b2fb9e922cd57d111b9b371c1751e63468199c2a765bd4a3d8c8f0a44336250",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
