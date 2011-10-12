@@ -1,0 +1,2 @@
+Bilirkişiden yararlanma
+MADDE 36 – (1) Denetim, inceleme ve soruşturma esnasında, inceleme ve değerlendirilmesi uzmanlık bilgi ve tecrübesini gerektiren konuların varlığı halinde, denetçinin önerisi ve Kurul Başkanının talebi üzerine konu, Enstitü tarafından, uzman kurum veya kişilere incelettirilir. Düzenlenen bilirkişi raporu kanıtlayıcı belge olarak soruşturma raporuna eklenir. Uzman kurum veya kişilerin ücretleri ile inceleme giderleri, denetçi tarafından düzenlenecek yazıya istinaden Kurulca ödenir.

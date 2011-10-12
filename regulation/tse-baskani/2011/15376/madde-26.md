@@ -1,0 +1,2 @@
+Yetki verilmesi
+MADDE 26 – (1) Birinci ve ikinci dönem çalışmalarını başarı ile tamamlayan, iki senelik hizmet süresi sonunda Kurul Başkanından olumlu sicil ve refakatinde çalıştıkları denetçilerin çoğundan olumlu mütalâa alan denetçi yardımcıları, Kurul Başkanının teklifi ve Başkan onayı ile yetkili kılınmaları halinde denetçilerin görev, yetki ve sorumluluklarına sahip olarak görev yaparlar. Ancak, yetkili denetçi yardımcıları, düzenledikleri suç duyurusu raporlarını doğrudan Cumhuriyet Savcılığına gönderemezler.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Türk Standardları Enstitüsü Rehberlik ve Denetim Kurulu Başkanlığının kuruluş, görev ve yetkileri ile Rehberlik ve Denetim Kurulu Başkanının, başdenetçilerin, denetçilerin ve denetçi yardımcıları ile Rehberlik ve Denetim Hizmetleri Müdürlüğünün görev, yetki ve sorumluluklarını, denetlenenlerin sorumluluklarını, Rehberlik ve Denetim Kurulu Başkanı ile başdenetçi, denetçi ve denetçi yardımcılarının atanmaları ile ilgili usul ve esasları kapsar.

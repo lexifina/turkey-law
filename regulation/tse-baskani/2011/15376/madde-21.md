@@ -1,0 +1,4 @@
+Sözlü sınav
+MADDE 21 – (1) Yazılı sınavda başarılı olanlar ya da giriş sınavının sadece sözlü sınav olarak yapılması durumunda sınava girmeye hak kazanan adaylar, 16 ncı maddede belirtilen sınav komisyonu tarafından sözlü sınava alınırlar.
+(2) Sözlü sınavda 15 inci maddede belirtilen konuların yanında, adayların genel kültür bilgilerinin ölçülmesi, zekâ, anlama, algılama, anlatım ve temsil yeteneği gibi özellikleri de değerlendirilerek sözlü sınav notu belirlenir.
+(3) Sonuçlar; sözlü sınav tutanağında, sınav komisyonunun her üyesince ayrı ayrı verilen notlar da belirtilmek kaydıyla tek bir ortalama not olarak kaydedilir ve sınav komisyonu üyeleri tarafından imzalanır. Adayın bu sınavdan başarılı sayılması için 100 tam puan üzerinden verilen sözlü sınav notu ortalamasının en az 70 olması şarttır.

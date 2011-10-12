@@ -1,0 +1,4 @@
+Haberleşme ve yazışmalar
+MADDE 37 – (1) Denetçiler görevli gittikleri yerlere varış ve buradan ayrılışlarını Kurula yazılı olarak bildirirler. Birlikte çalışmalarda yazışma ve haberleşmeler kıdemli denetçi tarafından yapılır.
+(2) Denetçiler tarafından Kurula gönderilecek her türlü yazının mümkün olduğu kadar açık ve resmi ifade tarzına uygun olması zorunludur. Faksla iletilen yazıların asılları, takip eden ilk iş gününde Kurula iletilir. Ancak görev yerlerinden ayrılış veya görev yerlerine varışa ilişkin faksların asılları intikal ettirilmez.
+(3) Denetçiler, görevlerine ilişkin konularda kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerle doğrudan yazışma yapabilirler. Başbakanlığa, bakanlıkların merkez ve yurt dışı kuruluşlarına ve yabancı ülkelere yönelik yazışmalar ise Kurul Başkanı aracılığıyla yapılır.

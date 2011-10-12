@@ -1,0 +1,2 @@
+Raporların numaralandırılması
+MADDE 40 – (1) Denetçiler düzenledikleri raporlara her takvim yılı itibarıyla birden başlayan ve sıra takip eden genel bir numara verirler. Ayrıca, rapor çeşidine göre raporun türünü ve bu türdeki rapor numarasını belirten her takvim yılı itibarıyla birden başlayan ve sıra takip eden özel bir numara daha verilir. Birden fazla denetçi tarafından düzenlenen raporlara, kıdemli denetçi tarafından numara verilir.

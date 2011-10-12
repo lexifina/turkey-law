@@ -1,0 +1,5 @@
+Yeterlik sınavı notları, itiraz ve denetçiliğe atanma
+MADDE 29 – (1) Yeterlik sınavı notu; yetişme notu ve sözlü sınav notunun ortalamasından oluşur. Sözlü sınavda denetçi yardımcılarına yeterlik sınav komisyonu üyelerinin her biri tarafından 100 tam puan üzerinden not verilir. Verilen notların ortalaması sözlü sınav notunu teşkil eder. Sözlü sınavda başarılı sayılabilmek için bu notun en az 70 olması şarttır.
+(2) Sınav sonuçlarına itirazlar, sınav sonuçlarının açıklanmasından itibaren beş iş günü içinde bir dilekçe ile Kurula yapılır. İtirazlar, yeterlik sınav komisyonu tarafından en geç on iş günü içinde incelenir ve sonuç ilgiliye yazılı olarak bildirilir.
+(3) Yeterlik sınavında başarı gösteremeyenlere yeterlik sınavından itibaren bir yıl içinde bir hak daha verilir. Bu süre sonunda da yeterlik sınavında başarı gösteremeyenler ile geçerli bir nedeni olduğunu belgeleyenler hariç, yeterlik sınavına girmeyenler, Kurul dışında Enstitü içerisinde öğrenim durumuna ve hizmet süresine uygun kadrolara atanırlar.
+(4) Yeterlik sınavlarında başarılı olanlar, başarı sırasına göre denetçi kadrolarına atanırlar. Notlarda eşitlik halinde yetişme notu esas alınır.

@@ -1,0 +1,2 @@
+Yönergeler
+MADDE 47 – (1) Bu Yönetmeliğin uygulanmasında ortaya çıkabilecek tereddütlerin giderilmesi, raporların düzenlenme şekli ile içerik ve bölümleri, denetçiler için belirlenecek denetim rehberi, Başkan tarafından Kurul Başkanına devredilecek görevlendirilmeler, denetçilerin turne süreleri, hizmet içi eğitimin şekli ve yabancı dil kurslarına katılacak olanların tespiti gibi hususlar, Kurul Başkanının teklifi üzerine Yönetim Kurulunca yürürlüğe konulacak yönergeler ile düzenlenir.

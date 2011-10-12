@@ -1,0 +1,9 @@
+Denetçilerin uyacakları kurallar
+MADDE 9 – (1) Denetçiler, görev ve sıfatlarının gerektirdiği saygınlığı ve güven duygusunu sarsacak nitelikte davranışlarda bulunamazlar. Denetçiler:
+a) Görevin başarıyla yerine getirilmesi, adil ve nesnel bir sonucun ortaya çıkması amacıyla dürüstlük, bağımsızlık, tarafsızlık, güvenilirlik ve yeterlik ilkelerini gözeten bir yaklaşım içinde olmak zorundadırlar.
+b) İşlemlerin denetlendiğini göstermek için tarih ve imza koymak suretiyle yaptıkları açıklamalar dışında evrak, defter ve kayıtlar üzerine şerh düşemezler; ilave ve düzeltme yapamazlar; elektronik, manyetik ve benzeri bilgi işlem ortamlarındaki bilgi ve kayıtları değiştiremezler.
+c) Denetime gidecekleri yerleri, yapacakları işleri, görevleri dolayısıyla edindikleri gizli bilgi ve belgeleri, öğrenmiş oldukları mesleki sırları, ekonomik, ticari hal ve durumları açıklayamazlar.
+ç) Hakkında denetim, inceleme ve soruşturma yaptıkları personelden ya da denetimini yaptıkları işyeri sahiplerinden ve yetkililerinden veya görevleri sırasında diğer kişilerden, özel hizmet ve alışılmış olmayan ikramlar kabul edemezler; bu kişilerle denetçiliğin gerektirdiği iş münasebetinden farklı münasebet kuramazlar; borç alamazlar ve veremezler.
+d) Görevleri sırasında ve çalışmaları esnasında giyimleri, davranışları ve hareketleri ile saygı ve itibar telkin etmek zorundadırlar.
+e) Aralarında üçüncü dereceye kadar kan (üçüncü derece dâhil) ve ikinci dereceye kadar kayın (ikinci derece dâhil) hısımlık veya çıkar birliği bulunan yahut tarafsızlığı hakkında kuşku uyandıracak derecede uyuşmazlık halleri var olan kişiler hakkındaki işlere bakamazlar; kendilerine bu tür işlerin verilmesi halinde durumu yazılı olarak Kurul Başkanına bildirirler.
+f) Rapor, yazışma ve dosyaları, Kurul Başkanının izni olmadan kimseye gösteremez ve veremezler.

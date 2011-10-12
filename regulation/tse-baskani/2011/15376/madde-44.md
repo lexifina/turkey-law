@@ -1,0 +1,7 @@
+Görevden uzaklaştırma
+MADDE 44 – (1) Denetçiler, görevlendirildikleri hususlarla ilgili olarak, denetim, inceleme ve soruşturmanın her aşamasında görevi başında kalmaları sakıncalı olan kişilerin, gerekçesini açık bir biçimde ortaya koymak suretiyle görevden uzaklaştırılmalarını teklif ederler. Görevden uzaklaştırma ile ilgili olarak bu Yönetmelikte yer alan hükümler dışında, Personel Yönetmeliğinin 130 ilâ 139 uncu maddelerinde yer alan hükümler uygulanır.
+(2) Herhangi bir personelin görevden uzaklaştırılması sebebiyle işlerin aksamaması için gereken tedbirler birim amirince alınır. Görevden uzaklaştırma keyfiyeti, Kurul Başkanı tarafından gerekçesi ile birlikte görevden uzaklaştırılana, Enstitü Genel Sekreterine ve gerek görülüyorsa diğer ilgililere yazı ile hemen bildirilir.
+(3) Görevden uzaklaştırıldığı halde işini devretmeyip, görevi başında kalmakta ısrar ettiği tutanakla belgelenen personel hakkında, o yerin Cumhuriyet Savcılığına müracaat edilir ve düzenlenen tutanak da bu yazıya eklenir.
+(4) Görevden uzaklaştırılan personel hakkında işledikleri suçların türü ve mahiyetine göre kanuni esaslar dâhilinde takibat yapılır.
+(5) Görevden uzaklaştırılan personele ilişkin soruşturma ile merkezdeki birimlerce bu soruşturmaya ait rapor üzerinde yapılacak işlemlerin, diğer işlerden öncelikle tamamlanması ve sonuçlandırılması zorunludur.
+(6) Görevden uzaklaştırma tedbirinin kaldırılmasını gerektiren hallerde, durum denetçi tarafından derhal Kurula bildirilir.

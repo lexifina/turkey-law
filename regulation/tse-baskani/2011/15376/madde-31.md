@@ -1,0 +1,6 @@
+Denetçilerin kıdemi
+MADDE 31 – (1) Denetçilik kıdeminde esas alınan süre, denetçi yardımcılığında, denetçilikte, denetçilik sıfat ve kadrosu muhafaza edilmek şartıyla idari görevlerde ve ücretli tüm kanuni izinlerde geçirilen süredir. Denetçilik kıdemine esas süreleri aynı olanlar için kıdem sırası; denetçi yardımcıları açısından giriş sınavındaki, denetçiler için yeterlik sınavındaki başarı derecelerine göre tespit edilir.
+(2) Başdenetçilerin kıdem sırası, denetçilerden öncedir. Başdenetçiler arasındaki kıdem sırasının tespitinde başdenetçiliğe atanma tarihi, aynı tarihte atananlar için denetçilik kıdemi, denetçilik kıdemi de aynı olanlar için yeterlik sınavındaki başarı derecesi esas alınır.
+(3) Kurul Başkanlığı yaptıktan sonra bu görevden ayrılanlar, istekleri halinde başdenetçiliğe dönerler ve dönemlerinin en kıdemlisi sayılırlar. Aynı dönemde bu durumda birden fazla denetçi olması durumunda, bunların kıdem sırasının tespitinde denetçilik kıdemi esas alınır.
+(4) Aynı giriş sınavı ile Kurulda göreve başlayan denetçi yardımcılarından, 30 uncu maddenin üçüncü fıkrasındaki nedenler ile denetçiliğe geç atananların kıdemleri, kendi dönemlerinden olan denetçilerden sonra gelir.
+(5) Geçici 1 inci madde gereğince denetçiliğe açıktan atananların kıdemleri, geldikleri kurumlardaki kıdemleri göz önüne alınarak tespit edilir.

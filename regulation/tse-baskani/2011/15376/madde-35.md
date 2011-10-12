@@ -1,0 +1,3 @@
+Denetçilerin birlikte çalışmaları ve işin devri
+MADDE 35 – (1) Denetim, inceleme ve soruşturma işlerinde birden fazla denetçi görevlendirilmesi halinde, denetçilerden en kıdemlisi tarafından çalışmaların koordinasyonu sağlanır.
+(2) Denetçilere verilen işin devredilmemesi asıldır. Devir zorunluluğu halinde, denetçiler ellerindeki işleri Kurul Başkanının talimatı ile bir başka denetçiye devredebilirler. Devre konu işe başlanılmış ise devri yapacak olan denetçi, devir tarihine kadar yapılan işlerin neler olduğuna ilişkin hazırlayacağı bir özetle birlikte, işle ilgili tüm belgeleri, işe başlanılmamış ise sadece işle ilgili kendisine tevdi edilen belgeleri bir yazı ekinde devreder.

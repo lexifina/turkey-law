@@ -1,0 +1,3 @@
+Denetçi yardımcılığına atanma
+MADDE 23 – (1) Giriş sınavında başarılı olan asıl adaylar denetçi yardımcısı kadrosuna atanırlar. Asıl adaylardan atanmadan sarfınazar edenlerin, aranan şartlardan herhangi birini taşımadığının anlaşılması üzerine ataması yapılmayanların ve ataması yapıldığı halde başlamayanların yerine, yedek listedeki adaylardan başarı sırasına göre atama yapılabilir.
+(2) Atama işlemi tamamlananlara, en geç onbeş gün içinde göreve başlamak zorunda olduğu, belge ile ispatı mümkün zorlayıcı sebep veya Enstitüce kabul edilebilir bir mazereti olmaksızın bu süre içinde göreve başlamaması durumunda atamasının iptal edileceği, yapılacak tebligatla bildirilir. Ataması yapılamayan yedek adaylar için sınav sonucu kazanılmış hak sayılmaz.

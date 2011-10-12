@@ -1,0 +1,2 @@
+Yetişme notu
+MADDE 25 – (1) Yetişme notu; birinci, ikinci ve üçüncü dönem çalışma notları ile Kurul Başkanı tarafından, denetçi yardımcılarının nitelikleri, tutum ve davranışları, görev ve sorumluluk duyguları, mesleki bilgileri, çalışkanlıkları ve mesleki liyakatleri hakkında yanlarında çalıştıkları denetçilerden talep edilen gizli yazılardaki görüşler de dikkate alınarak, 100 tam puan üzerinden verilecek notun ortalamasıdır. Yetişme notunun 70 puandan az olmaması gerekir.
