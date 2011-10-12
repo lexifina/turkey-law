@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.15384",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2011/13)",
+  "number": "15384",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2011/15384",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15384&MevzuatTertip=5",
+  "source_sha256": "d74b3b69f2e7edb797a1e0cb763e7f70492f60e2b8e3dec4d6f0c785d5c368cd",
+  "source_bytes": 20547,
+  "published": "2011-10-12",
+  "gazette": "28082",
+  "in_force": "2011-10-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.10.2011); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 211,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15384%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
