@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KAMU İKTİSADİ TEŞEBBÜSLERİ KOMİSYONU",
+  "committee_id": 15,
+  "meeting_date": "2011-10-13",
+  "meeting_date_as_published": "13/10/2011",
+  "agenda": [
+    "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI ANONİM ŞİRKETİ 2009 YILINA AİT BİLANÇO VE NETİCE HESAPLARI GÖRÜŞMELERİ VE DÜNYA SU FORMU ORGANİZASYONU İLE İSTANBUL 2010 TURPA KÜLTÜR BAŞKENTİ AJANSININ 2009 YILINA AİT BİLANÇO VE NETİCE HESAPLARI GÖRÜŞMELERİ."
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/385",
+  "pdf_sha256": "58ba6347bc24bbdd3caf5bc8060a8c6e147cbe148decee382047860e2064f304",
+  "pdf_pages": 107,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=15)",
+  "listing_sha256": "0dc889625a43960f41a70f9bc21885fb2bc2789f7a2feaf357be8aa9f141f856",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-10-13",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
