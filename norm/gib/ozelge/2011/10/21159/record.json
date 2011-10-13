@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.05.10.00-2011/GVK-Mük18-27",
+  "source_id": 21159,
+  "date": "2011-10-13",
+  "title": "PTT Acentelerinin Vergisel Yükümlülükleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21159",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "861a41712d653257dfb551946c2d9d51c018864516f0f43af63e2797df3f9025",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
