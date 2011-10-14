@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, deniz ve hava bandı telsiz haberleşme sistem veya cihazları ile seyrüsefer cihazlarını kurma, kullanma, ruhsatlandırma iş ve işlemlerini kapsar.
+(2) Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ile Sahil Güvenlik Komutanlığı ve kuruluş kanunlarında belirtilen görev sahaları ile ilgili konularda olmak üzere Dışişleri Bakanlığı, Telekomünikasyon İletişim Başkanlığı, Millî İstihbarat Teşkilatı Müsteşarlığı ve Emniyet Genel Müdürlüğünün telsiz haberleşme cihaz, sistem ve şebekeleri ile bedeli bu kurumlar tarafından ödenerek işletmeciler tarafından kurulan veya kurulacak telsiz haberleşme cihaz, sistem ve şebekeleri bu Yönetmelik kapsamı dışındadır.

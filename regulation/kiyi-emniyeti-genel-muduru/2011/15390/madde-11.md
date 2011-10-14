@@ -1,0 +1,10 @@
+Devir ve nakil işlemleri
+MADDE 11 – (1) Hava aracı ile birlikte telsiz haberleşme sistem veya cihazları ile seyrüsefer cihazlarının satışı hâlinde Sivil Havacılık Genel Müdürlüğünden alınacak tescil yazısı, ruhsatname aslı ve TİM-02 formu ile birlikte TİM’e başvurulur.
+(2) Telsiz haberleşme sistem veya cihazları ile seyrüsefer cihazlarının bir kısmının hava aracı ile birlikte satışı hâlinde birinci fıkradaki belgeler ile birlikte başvurulur.
+(3) Telsiz haberleşme sistem veya cihazları ile seyrüsefer cihazlarının tamamının veya bir kısmının hava aracından bağımsız satışı hâlinde ruhsatname aslı, satış sözleşmesi veya fatura ve TİM-02 formu ile birlikte TİM’e başvurulur.
+(4) Hava aracının satışı sırasında telsiz haberleşme sistem veya cihazları ile seyrüsefer cihazlarının satıcıda kalması hâlinde ruhsatname aslı, satış sözleşmesi veya fatura ve TİM-02 formu ile birlikte TİM’e başvurulur.
+(5) Karada olup da hava bandında kullanılan telsiz sistem ve cihazları ile seyrüsefer cihazlarının satışı halinde ruhsatname aslı, satış sözleşmesi veya fatura ve TİM-02 formu ile birlikte TİM’e başvurulur.
+(6) Hava araçları ile birlikte telsiz haberleşme sistem veya cihazları ile seyrüsefer cihazlarının hibe edilmesi hâlinde; hava aracı tescil sertifikası, ruhsatname aslı ve TİM-02 formu ile birlikte TİM’e başvurulur.
+(7) Satış, hibe ve benzeri nedenlerle devir ve nakil işlemlerinin gerçekleşme tarihinden itibaren bir ay içinde TİM’e başvurulur. Başvuru 9 uncu ve 10 uncu maddeler ile 14 üncü maddenin birinci fıkrası uyarınca değerlendirilerek neticelendirilir.
+(8) Aynı gerçek veya tüzel kişiliğe ait telsiz haberleşme sistem veya cihazları ile seyrüsefer cihazlarının hava araçları arasında nakli hâlinde; ruhsatname aslı ve hava araçları arasında nakil yapılacağına ilişkin beyanı içeren TİM-02 formu ile TİM’e başvurulur.
+(9) İkinci fıkra uygulamasında satıcıda kalan cihazlar için, üçüncü, dördüncü, beşinci ve altıncı fıkralardaki işlemlerden sonra telsiz haberleşme sistem ve cihazları ile seyrüsefer cihazları 9 uncu ve 10 uncu maddeler uyarınca kurma, kullanma izni ve ruhsatname alınmadan kullanılamaz.
