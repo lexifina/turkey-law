@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-10-14",
+  "issue": "28084",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kıyı Emniyeti Genel Müdürlüğü Deniz ve Hava Bandı Telsiz Haberleşme Sistem veya Cihazları ile Seyrüsefer Cihazlarına Kurma ve Kullanım İzni Verilmesi, Ruhsatlandırılması ile Tarifelerinin Düzenlenmesine Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111014-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111014.htm",
+  "index_sha256": "f98a8ebbb9cb150ca43b0c956cb1fff5300c349e036a14fdfd03380c73cd838e",
+  "index_header": "14 Ekim 2011 ... 28084 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
