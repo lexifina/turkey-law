@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-10-15",
+  "issue": "28085",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "İç Denetim Kalite Güvence ve Geliştirme Programı ile İlgili Maliye Bakanlığı İç Denetim Koordinasyon Kurulu Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111015-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111015.htm",
+  "index_sha256": "703ac04906c92029d94fb24699ed0b974bcee12762fc0659646fd000e350382a",
+  "index_header": "15 Ekim 2011 ... 28085 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
