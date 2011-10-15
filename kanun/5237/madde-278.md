@@ -1,4 +1,2 @@
 Suçu bildirmeme
-MADDE 278. - (1) İşlenmekte olan bir suçu yetkili makamlara bildirmeyen kişi, bir yıla kadar hapis cezası ile cezalandırılır.
-(2) İşlenmiş olmakla birlikte, sebebiyet verdiği neticelerin sınırlandırılması hâlen mümkün bulunan bir suçu yetkili makamlara bildirmeyen kişi, yukarıdaki fıkra hükmüne göre cezalandırılır.
-(3) Mağdurun onbeş yaşını bitirmemiş bir çocuk, bedensel veya ruhsal bakımdan özürlü olan ya da hamileliği nedeniyle kendisini savunamayacak durumda bulunan kimse olması hâlinde, yukarıdaki fıkralara göre verilecek ceza, yarı oranında artırılır.
+MADDE 278. - (İptal: Anayasa Mahkemesinin 30/6/2011 tarihli ve E.:2010/52, K.:2011/113 sayılı Kararı ile.)
