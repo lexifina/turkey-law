@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-10-16",
+  "issue": "28086",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İyi Tarım Uygulamaları Destekleme Ödemesi Yapılmasına Dair Tebliğ (No: 2011/46)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111016-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111016.htm",
+  "index_sha256": "8f5220dd79bb8b0b5fc9d1b4ff3c61091c4fb3450184b4164457ebc031217bd0",
+  "index_header": "16 Ekim 2011 ... 28086 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
