@@ -1,0 +1,5 @@
+Telif hakkı hesaplanması
+MADDE 10 – (1) Telif hakkı hesaplanmasında, 200 kelime bir itibari sayfa olarak işlem görür; itibari sayfanın hesaplanması için aşağıdaki işlem yapılır:
+a) Yazarın emeği sonucu yapılan resim, harita, grafik, fotoğraf, cetvel, formül, sorular ve testler gibi özgün kısımlar itibari sayfanın hesaplanmasında kapladığı alanın santimetre karesine düşen kelime sayısı telif ücreti ödenmesinde esas alınır.
+b) Literatür, indeks ve benzeri sayfalar özgün olmaları halinde metin sayfaları gibi değerlendirilir.
+c) Çeviri eserlerde fotoğraf, resim, grafik, harita, cetvel, formül, sorular ve testler gibi kısımlar için telif hakkı hesap edilmez. Bu esaslara göre, önce eserlerdeki tüm sayfa sayısı belirlenir, sonra gelişigüzel 10 adet tam metin ile dolu sayfalardaki kelime sayıları sayılıp, 10’a bölünerek bir sayfadaki ortalama kelime adedi bulunur. Bunun tam sayfa sayısı ile çarpılması sonucunda, eserin tüm kelime sayısı ortaya çıkar. Bu sayının da 200’e bölünmesi ile eserin itibari sayfa sayısı bulunur.

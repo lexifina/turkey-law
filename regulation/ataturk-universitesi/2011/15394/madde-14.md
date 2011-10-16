@@ -1,0 +1,4 @@
+Öğretim malzemesinin basım, yayım ve satılması
+MADDE 14 – (1) Açıköğretim yolu ile hizmet verecek olan birimler basılı öğretim materyali kullanmaları gerekmesi halinde bu malzemeleri imkânlar ölçüsünde Üniversitenin kendi tesislerinde bastırır. Teknik, kapasite ve iş hacmi bakımından basılma imkanı bulunmaması ya da ivedi yayınlanması gereken eserler Fakülte Yönetim Kurulu kararı ile başka matbaalarda dizdirilip, bastırılabilir.
+(2) Fakülte Yönetim Kurulu gerekli gördüğünde, açıköğretim programları için hazırlanan veya eğitim-öğretim ve uygulamalar kapsamında oluşturulacak olan basılı, görsel ve işitsel eserleri, ücreti maliyet değerinden aşağı olmamak koşulu ile bu eserlerden yararlanmak isteyenlere satabilir.
+(3) Dekanlık gerekli gördüğü takdirde, eğitimlerine yardım amacı ile ve yayın komisyonu kararıyla, elindeki basılı malzemeleri, öğrencilerine maliyetine veya maliyetinden düşük bir ücretle ya da bedelsiz olarak verebilir.

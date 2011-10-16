@@ -1,0 +1,7 @@
+Telif hakkı ödenmesi
+MADDE 11 – (1) Telif hakkı karşılığı ilk baskı ücreti, eserin itibari sayfa tutarının bu Yönetmeliğin 9 uncu maddesinde yer alan itibari sayfa karşılığı ücretle çarpılarak bulunur ve daha sonraki baskılarda telif hakkı aynı madde kapsamında belirlenen rakamların % 60’ı ödenir. Ancak aynı öğretim yılı içinde yapılan ikinci ve daha sonraki baskılar için telif ücreti ödenmez.
+(2) Telif ücreti eserin tamamının basıldığı tarihteki Bütçe Kanunu ile belirlenen memur aylık katsayısına göre hesaplanır ve baskısı yapıldıktan sonra ödenir.
+(3) Bu Yönetmeliğin 9 uncu maddesi kapsamında belirlenen gösterge rakamları beşbin ile elli bin arası basılan kitaplarda, % 15, ellibinden fazla basılan kitaplarda ise % 20 oranında Fakülte Yönetim Kurulunca arttırılır.
+(4) Eserin tamamında veya toplam sayfa sayısının en az % 50’sinde değişiklik yapılmış ve bu değişiklik Yayın Komisyonunca kabul edilmiş ise ilk baskı esaslarına göre telif ücreti ödenir. Eserin kapsamında değişiklik yapılmadan sadece bölüm ve konu itibariyle sıra değişikliği yapılmışsa bu hüküm uygulanmaz.
+(5) Belirli bir öğretim yılı için hazırlanan televizyon, radyo ve internet sunum ve programlarının sonraki öğretim yıllarında yayınlanmasında telif hakkı, Bu Yönetmeliğin 9 uncu madde kapsamında belirlenen rakamların 3/5’i olarak ödenir. Televizyon, radyo ve internet sunum ve programları değiştirilerek kullanıldığında bu Yönetmeliğin 9 uncu maddesi kapsamında belirlenen rakamların 1/6’sı ödenir.
+(6) Elektronik kitaplar için ödenecek telif ücretleri de bu madde kapsamında değerlendirilir.
