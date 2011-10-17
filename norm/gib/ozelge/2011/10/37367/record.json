@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-007.01-1825",
+  "source_id": 37367,
+  "date": "2011-10-17",
+  "title": "Vakıf üniversitesinin inşa edeceği binaların yapı kullanma izni harcı ve muayene ücretinden istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37367",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "0df8236e40c4d3971c816e1f15136664c7f50aa90e6b774c36ef7e38983cd9a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
