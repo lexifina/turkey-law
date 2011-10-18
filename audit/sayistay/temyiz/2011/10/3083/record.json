@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "33847",
+  "decision_date": "2011-10-18",
+  "source_id": 3083,
+  "chamber": "6",
+  "file_number": "32576",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/3083/",
+  "source_sha256": "4079519dd6e98bd7bc9908f5ac237ef038b94b4135e8306a8f169f313af061ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
