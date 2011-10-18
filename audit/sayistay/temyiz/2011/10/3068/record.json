@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "33817",
+  "decision_date": "2011-10-18",
+  "source_id": 3068,
+  "chamber": "6",
+  "file_number": "32766",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/3068/",
+  "source_sha256": "ab30dbce52bf5e0ed211b19130e4869a478675c45ae877f471c2e52ad3cfe8e2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
