@@ -1,0 +1,6 @@
+Genel müdür ve yardımcılarına ilişkin bildirimler
+MADDE 6- (1) Banka genel müdürlüğüne veya merkez şube müdürlüğüne ve genel müdür yardımcılığı veya merkez şube müdür yardımcılığına atanacaklar için 4 üncü maddenin birinci fıkrasında belirtilen belgelerin atanmalarından önce ilgili banka tarafından Kuruma hitaben düzenlenecek bir yazı ekinde gönderilmesi zorunludur.
+(2) Birinci fıkrada belirtilen evrakların Kuruma intikalini izleyen yedi iş günü içinde Kurumca olumsuz görüş bildirilmemesi durumunda ilgili kişilerin atamaları yapılabilir.
+(3) Yabancı uyruklu kişiler tarafından birinci fıkra uyarınca verilecek belgeler için 7 nci madde uygulanır.
+(4) Genel müdür veya merkez şube müdürü ya da genel müdür yardımcısı veya merkez şube müdürü yardımcısı olarak görev yapanların herhangi bir nedenle görevden ayrılmaları halinde ilgili bankaca ve görevden ayrılan kişi tarafından Kuruma hitaben düzenlenecek bir yazı ile görevden ayrılma nedenlerinin ayrılış tarihinden itibaren yedi iş günü içinde bildirilmesi zorunludur.
+(5) (Değişik:RG-13/4/2011-27904) Kanunun 23 üncü maddesinin birinci fıkrası uyarınca, genel müdürün bulunmadığı hallerde genel müdür ile aynı nitelikleri haiz olmak kaydıyla yönetim kurulu toplantılarına genel müdür vekili olarak katılacaklar ve hangi hallerde bu toplantılara katılacakları bankaların yönetim kurullarınca belirlenir.

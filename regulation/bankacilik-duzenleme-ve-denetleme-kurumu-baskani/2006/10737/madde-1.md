@@ -1,0 +1,4 @@
+BİRİNCİ BÖLÜM
+Amaç ve Kapsam, Dayanak ve Tanımlar
+Amaç ve kapsam
+MADDE 1- (1) Bu Yönetmeliğin amacı, Türkiye’de kurulu bankaların yönetim kurulu üyelikleri ile Türkiye’de şube açmak suretiyle faaliyette bulunan yurt dışında kurulu bankaların Türkiye’deki yönetim merkezlerinde oluşturulan müdürler kurulu üyeliklerine ve denetim komitesi üyeliklerine seçilenlerin, genel müdür ve merkez şube müdürü ile yardımcılıklarına atanacakların ve bu görevlerden ayrılacakların Kuruma bildirilmesine, yönetim kurulu ile müdürler kurulu başkan ve üyelerinin yemin etmesine, bu kişiler ile imza yetkisine sahip mensuplarından bölge müdürleri, şube müdürleri ve genel müdürlük merkez teşkilatında yer alan bölüm, kısım, grup ve bunlara eşdeğer isimler altında faaliyet gösteren birimlerin yöneticilerinin mal beyanında bulunmasına ve yönetim kurulu, müdürler kurulu, denetim komitesi ve kredi komitesi kararlarının tutulmasına ilişkin usul ve esasları düzenlemektir.
