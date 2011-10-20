@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-DAMGA-1-127",
+  "source_id": 34905,
+  "date": "2011-10-20",
+  "title": "Banka ile üçüncü kişiler arasında imzalanan, ciro hedefi ve firmalara bu hedeflerin gerçekleştirilmesine bağlı olarak ödeme yapılması hususlarını içeren sözleşmeler ile banka aleyhine açılmış olan davaların ilgili avukatlarca takibi hizmeti karşılığında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34905",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "f58bad00711bc93a0b882f724b62437d85a57fd9d3395e1b1bf53daace93efc1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
