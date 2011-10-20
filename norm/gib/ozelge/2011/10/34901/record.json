@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-DAMGA-1-129",
+  "source_id": 34901,
+  "date": "2011-10-20",
+  "title": "Varlık finansmanı fonunun kuruluşuna, varlığa dayalı menkul kıymet ihracına ve ticari alacakların fona devrine ilişkin düzenlenen kağıtların damga vergisine tabi olup olmadığı, fonun 492 sayılı Harçlar Kanunu yönünden muafiyetinin olup olmadığı ile fonun",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34901",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "17f1a7d23e2be902f53f7742990d9f076079ce7d6d36a45db7cd2407e7a3b697",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
