@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-10-21",
+  "issue": "28091",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kıyı Tesislerine İşletme İzni Verilmesine İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111021-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111021.htm",
+  "index_sha256": "c281d0cafffa2ab7c3e5781210b995a330ff347c0991294ab8a41df1b8e76748",
+  "index_header": "21 Ekim 2011 ... 28091 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
