@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6241",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti ile Çek Cumhuriyeti Arasında Yatırımların Karşılıklı Teşviki ve Korunması Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-10-22",
+  "gazette_issue": "28092",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111022-5.htm",
+  "source_sha256": "a36864ef8bd9e68ff86bd1efcb2433a75eceaad19ffd7593ec50891a35c27634",
+  "text_sha256": "97997838eb7b23c46d4b30fe8ec45afaafe1be07c616c870c388fb8e1301b880",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/10/22/28092-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111022-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
