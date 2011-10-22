@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6240",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti ile İsviçre Konfederasyonu Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme Anlaşması ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-10-22",
+  "gazette_issue": "28092",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111022-4.htm",
+  "source_sha256": "975ee9a3d163aa67af79c8c089942b820237f4bcb0369155f3e6b1a26fed27b5",
+  "text_sha256": "e13a94ea2223beb7106f57da9d655fcee654a1c1ee94447b13dc3b3c5085c73e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/10/22/28092-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111022-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
