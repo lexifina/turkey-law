@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6238",
+  "year": 2011,
+  "title": "Güneydoğu Avrupa Kanun Uygulama Merkezi Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-10-22",
+  "gazette_issue": "28092",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111022-2.htm",
+  "source_sha256": "ed07fab006cadeadddbea35ee7c7ed510bda8adabfa183dda20eb2b30aef69bb",
+  "text_sha256": "9c3842fadfd8109563e625e699a0cf20e5ed101d23906941161a4669ab89ece6",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/10/22/28092-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/10/20111022-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
