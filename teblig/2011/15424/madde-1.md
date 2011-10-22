@@ -1,0 +1,1 @@
+MADDE 1 – (1) Merkezi Ankara'da olmak ve sekretarya hizmetleri Orta Anadolu İhracatçı Birlikleri Genel Sekreterliği tarafından yürütülmek üzere, İklimlendirme Sanayi İhracatçıları Birliği kurulmuştur.
