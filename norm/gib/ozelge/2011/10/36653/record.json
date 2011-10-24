@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-565",
+  "source_id": 36653,
+  "date": "2011-10-24",
+  "title": "Biletle Girilen Sinema,HD-3D Flight Simulators ve Küre İşletmelerinin Eğlence Vergisine Tabi Olup Olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/36653",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "730ed1de4da90528de75575c575ce8a9a4d8ef17b74832220c6feb10149649b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
