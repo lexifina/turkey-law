@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.18.02-32Mük257-7651-909",
+  "source_id": 26590,
+  "date": "2011-10-24",
+  "title": "Şirket ortaklarının ayni sermaye artırımını ne şekilde yapabileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26590",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "f908f23ecf4a8b359907567abc01ce1e6288e641024df5da338e8953e0c2d5a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
