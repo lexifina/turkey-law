@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.80.10.00-080-34-12",
+  "source_id": 35829,
+  "date": "2011-10-25",
+  "title": "Derneğe ait gayrimenkulün devir işleminde tapu harcı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35829",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "6049447419e5554c3c4930e7d5f1d1eb9228c569555381b03ec2b8663761b457",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
