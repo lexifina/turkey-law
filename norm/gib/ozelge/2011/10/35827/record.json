@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-003.01-1893",
+  "source_id": 35827,
+  "date": "2011-10-25",
+  "title": "Belediye adına bedelsiz yola terk işleminden sonra yapılacak ifraz işleminin harçtan muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35827",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "16c9cef2817083cfc5ad2b3b2f7968ad659061996cda60b21e63507d48b2d8d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
