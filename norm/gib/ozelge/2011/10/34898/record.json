@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-567",
+  "source_id": 34898,
+  "date": "2011-10-25",
+  "title": "Sanayi ve Ticaret Bakanlığı Araştırma ve Geliştirme Genel Müdürlüğünden teknogirişim sermayesi desteği alan şirket tarafından vergi dairesine verilecek gelir vergisi, geçici vergi, KDV ve muhtasar beyannamelerin 5746 sayılı Kanun kapsamında damga vergisin",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34898",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "a2ec112fe1e46d1341d5f10bf37c1a7cb290ce52f6a99164094646a35bbb6fac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
