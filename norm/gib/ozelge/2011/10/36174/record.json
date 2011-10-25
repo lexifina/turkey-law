@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-003.01-1896",
+  "source_id": 36174,
+  "date": "2011-10-25",
+  "title": "Eski Sigara Fabrikası ve müştemilatının yenilenmesi, üst hakkı sahibi tarafından işletilmesi ve Belediyeye devredilmesine ilişkin işlemin 2863 ve 5366 sayılı Kanun kapsamında harçtan istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36174",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "203b682ea0ff548f0eb3acd9ec725b4abcbbe064845cc67d6e1ff246e2350811",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
