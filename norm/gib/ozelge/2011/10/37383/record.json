@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.55.15.01-2011-BGK-ÖZE-01-437",
+  "source_id": 37383,
+  "date": "2011-10-25",
+  "title": "Vakıf üniversitesinden harcamalara katılma payının alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37383",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "43a071bad6ed75a053bad58d4ae37eaa3d2322001e32c4b5a4d842d1bb3d5f27",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
