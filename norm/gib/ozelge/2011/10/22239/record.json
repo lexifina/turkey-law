@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.37.10.00-037.02-21",
+  "source_id": 22239,
+  "date": "2011-10-25",
+  "title": "Kat karşılığı inşaat işinde, arsa sahiplerince Müteahhide devri yapılacak gayrimenkullerin müteahhide devredilmeksizin müteahhidin göstereceği 3 üncü kişilere satışı işleminden ne şekilde tapu harcı aranılacağı hususu ile konunun 213 sayılı ve 193 sayıl",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/22239",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "cd84cf26c26fe0dc6d31e9017338710d056ca1ecfadcc9d7e171e4cf5cb81931",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
