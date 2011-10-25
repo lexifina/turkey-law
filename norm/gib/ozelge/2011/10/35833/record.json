@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.45.15.01-HARÇ-63-16-99",
+  "source_id": 35833,
+  "date": "2011-10-25",
+  "title": "İzale-i şuyu davası sonucunda alınan Mahkeme Kararına göre tapuda yapılacak tescil işleminden ne şekilde harç alınacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35833",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "1718ed27f594f8e0e493a16d156435e0022dfe35e901636691997d8c42574e9a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
