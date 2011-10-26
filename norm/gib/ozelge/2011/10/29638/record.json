@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.1-1906",
+  "source_id": 29638,
+  "date": "2011-10-26",
+  "title": "Elektronik ortamda yurtdışından kısa mesaj (SMS) ve kontör ithalatının KDV ve ÖİV karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29638",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "04bc56bc51573b1320acf5940d6df91f308c993cf2d7750ae5360981de27e424",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
