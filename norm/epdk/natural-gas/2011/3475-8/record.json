@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3475/8",
+  "decision_date": "2011-10-26",
+  "title": "Boru Hatları ile Petrol Taşıma A.Ş.’nin 18/04/2003 tarihli ve DİT/131-9/012 numaralı lisansının sona erdirilmesine ilişkin",
+  "resmi_gazete_date": "2011-10-28",
+  "resmi_gazete_number": "28098",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IL6rIigVxSU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IL6rIigVxSU="
+  ],
+  "source_sha256": "df0add929df9ee67fde26b073c90eeb2569bc650671c74709c254fd392476418",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-10-26",
+  "law_text_complete": false
+}
