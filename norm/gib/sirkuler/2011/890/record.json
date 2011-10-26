@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-21/2011-3 / Yatırım İndirimi - 15",
+  "source_id": 890,
+  "date": "2011-10-26",
+  "title": "Geçici Vergi Dönemlerinde Yeniden Değerleme Oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/890",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "a5174e3c938cfee530fd557c70d4c5322be70a42dbb9ee3b1429d7567121a2ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
