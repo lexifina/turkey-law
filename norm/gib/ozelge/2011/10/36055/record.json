@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-HÇ-8.ST-2010-127-931",
+  "source_id": 36055,
+  "date": "2011-10-26",
+  "title": "Sürücü kursu ruhsat harcı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36055",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "45e1017a8f07353c8608b5b43d51c4a2e856c5bdce4d8a635b460d597d4676a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
