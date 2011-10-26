@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.31.15.01-HRÇ-5-04-59",
+  "source_id": 36171,
+  "date": "2011-10-26",
+  "title": "Banka lehine ipotekli olmasından dolayı İcra Müdürlüğünce başka bir gerçek şahsa ihaleyle satılmasında ipotek lehdarının banka olması nedeniyle tapu harcının her iki taraftan alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36171",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "34ab2130a0f5569a765343d15f1dc526d438ccfb814503d3a8afe36846f879b6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
