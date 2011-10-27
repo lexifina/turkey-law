@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.18.02-32278-7774/-940",
+  "source_id": 24623,
+  "date": "2011-10-27",
+  "title": "Geri dönüşüm kapsamında kamu kurum ve kuruluşları ile evlerden alınan ambalaj atıklarının değerlemesi ve belgelendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24623",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "f1bf13cc191155b2c5b0b671e7c2d7a1af4aa0faf3c36d8da7a0a97a5cdf834c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
