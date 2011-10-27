@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.5497",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ŞEKER FABRİKALARI A.Ş. GENEL MÜDÜRLÜĞÜ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "5497",
+  "issuer": "Genel Müdür",
+  "issuer_slug": "genel-mudur",
+  "path": "regulation/genel-mudur/1993/5497",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5497&MevzuatTertip=5",
+  "source_sha256": "bbed15a7e44cc5a6846045b2971bcea7e1e6ac44220c522ff45b8d5d5a356806",
+  "source_bytes": 127107,
+  "published": "1993-11-07",
+  "gazette": "21751",
+  "in_force": "2011-10-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/10/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-10-27",
+      "RG-27/10/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4584,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

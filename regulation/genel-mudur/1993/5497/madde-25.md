@@ -1,0 +1,2 @@
+Müfettiş Yardımcılığı Giriş Sınavı Konuları
+Madde 25- Müfettiş Yardımcılığı giriş sınavına katılacaklara 19 uncu maddede belirtilen sınav kurulu tarafından; Ticari ve Sınai Muhasebe, İktisat, Hukuk, Maliye, Matematik, Türkçe Kompozisyon, Mesleki Bilgiler, Yabancı Dil İngilizce-Almanca-Fransızca konularından ihtiyaca ve branşlara göre sınav soruları tespit edilir ve Genel Müdürün onayını müteakip uygulanır.

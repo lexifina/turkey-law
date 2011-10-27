@@ -1,0 +1,2 @@
+Kapsam
+Madde 2- Bu Yönetmelik Türkiye Şeker Fabrikaları A.Ş. Genel Müdürlüğü Teftiş Kurulunun görevleri ile Teftiş Kurulu Başkanı, müfettişler, müfettiş yardımcıları ve Teftiş Kurulu büro personelinin görev, yetki ve sorumluluklarını, teftiş edilenlerin sorumluluklarını, Teftiş Kurulu Başkanı ile müfettiş ve müfettiş yardımcılarının atanmalarını, özlük haklarını, çalışma esas ve usullerini kapsar.

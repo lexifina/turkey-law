@@ -1,0 +1,3 @@
+Müşterek Çalışmalar
+Madde 12- Yıllık teftiş, inceleme ve soruşturma programlarının grup halinde uygulanmasında her gruba dahil müfettişlerden en kıdemlisi o grubun başkanı sıfatıyla çalışmaları düzenler. Grup Başkanları işe başlarken ve çalışmaların devamı sırasında teftiş, inceleme ve soruşturmaya verilecek en uygun yönü tayin, işlerin seyrini takip ve sonuç alınmasını sağlayabilecek fikir ve tedbirlerin uygulanmasını temin ederler.
+Grup Başkanları, çalışmaların seyri hakkında zaman zaman veya talep halinde Başkanlığa özet bilgi veya ara rapor verirler. Ayrıca grup faaliyetlerinin sona ermesini takip eden bir ay içinde çalışmaların sonuçlarını düzenleyecekleri raporlarda belirtirler.
