@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV 2:2010-14011-21-937",
+  "source_id": 31033,
+  "date": "2011-10-27",
+  "title": "İhraç kayıtlı teslimden doğan KDV iadesi alacağına ilişkin iade hakkının indirim yoluyla kullanılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31033",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "90143516fd534bfd32ac68364c1e3a116f0a9ac6196a2c325ef4d58e4fa4435b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
