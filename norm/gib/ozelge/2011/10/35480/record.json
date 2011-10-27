@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-HÇ:9 ST-2010-143-944",
+  "source_id": 35480,
+  "date": "2011-10-27",
+  "title": "Genel müdürlükçe alınacak geçici trafik belgelerinden 6200 sayılı Devlet Su İşleri Genel Müdürlüğü Kuruluş Kanunu'nun 49'uncu maddesi hükmü kapsamında geçici trafik belgesi harcı aranlıp aranılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35480",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "fe55766da3b9bb385286a4951c082dd4e5a0f60d1f839376ff10384989cea0e3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
