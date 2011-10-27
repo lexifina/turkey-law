@@ -1,0 +1,48 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6246",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ve Pakistan İslam Cumhuriyeti Hükûmeti Arasında Planlama Alanında İşbirliğine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2011-10-27",
+  "adopted_as_published": "27/10/2011",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.11.2011 No: 28110",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc096/kanuntbmmc096/kanuntbmmc09606246.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 96",
+  "committee_reports": [
+    {
+      "label": "TBMM 37 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c003/tbmm24003013ss0037.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 24,
+      "kayit_no": 4161046,
+      "title": "Türkiye Cumhuriyeti Hükûmeti ve Pakistan İslam Cumhuriyeti Hükûmeti Arasında Planlama Alanında İşbirliğine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "27/10/2011",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc096/kanuntbmmc096/kanuntbmmc09606246.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 37 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c003/tbmm24003013ss0037.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "b76119a4b58ffb6b21b1bc0f04d14a3f390d77dea1defef11f4e17b3eed5b6fc"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b76119a4b58ffb6b21b1bc0f04d14a3f390d77dea1defef11f4e17b3eed5b6fc",
+  "issuer": "TBMM",
+  "in_force": "2011-10-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/10/2011; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
