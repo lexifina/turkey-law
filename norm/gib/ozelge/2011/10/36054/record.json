@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.03.10.00-HARÇ MUK-356-44",
+  "source_id": 36054,
+  "date": "2011-10-28",
+  "title": "25/02/2010 tarihinde Valilik oluru ile izin alarak eğitim faaliyetine başlayan şirketin 2009 yılına ilişkin eğitim ruhsat harcı yükümlülüğü bulunup bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36054",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "161e7e0544a171300bd53c83baf165649304c813affebe3f898754763ef9505e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
