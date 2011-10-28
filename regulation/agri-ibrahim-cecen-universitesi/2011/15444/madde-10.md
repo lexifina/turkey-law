@@ -1,0 +1,2 @@
+Merkez müdür yardımcıları
+MADDE 10 – (1) Merkez Müdür yardımcıları Üniversite öğretim üyeleri arasından Merkez Müdürü tarafından en fazla iki kişi olarak görevlendirilir. Merkez Müdür yardımcıları Merkez Müdürünün görevlerini yerine getirmesinde ona yardım eder. Merkez Müdürü görev başında olmadığı zamanlar yardımcılarının biri Merkez Müdürüne vekâlet eder. Merkez Müdürü gerekli gördüğünde yardımcılarını değiştirebilir. Merkez Müdürünün görev süresi bitince yardımcılarının da görevi sona erer.
