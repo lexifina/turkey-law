@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[42-11/3]-949",
+  "source_id": 22870,
+  "date": "2011-10-28",
+  "title": "Klimalı yolcu vagonlarının periyodik bakım onarımı ile soğutma sisteminde meydana gelen arızaların onarımı işinin yıllara sari inşaat ve onarım işi kapsamında olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22870",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "7b23a5f68d7842d9d33c59a279b3c744df880552822592cac616c881a99f6e02",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
