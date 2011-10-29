@@ -1,0 +1,4 @@
+Hastalık raporlarının verilmesi
+MADDE 5- (1) Memurların hastalık raporlarının, 5510 sayılı Kanun ve ilgili mevzuatında belirtilen usûl ve esaslar çerçevesinde kendilerini tedavi eden kurum tabipliği, aile hekimliği veya SGK ile sözleşmeli sağlık hizmeti sunucuları tarafından düzenlenmesi esastır.
+(2) SGK ile sözleşmesi bulunmayan sağlık hizmeti sunucuları tarafından verilen ve istirahat süresi on günü geçmeyen raporlar, SGK ile sözleşmeli sağlık hizmeti sunucusu hekim tarafından, istirahat süresi on günü aşan raporlar ise SGK ile sözleşmeli sağlık hizmeti sunucusu sağlık kurulunca onandığı takdirde geçerli olur.
+(3) Yurt dışında sürekli görevli memurlar ile geçici görevle veya bilgi ve görgüsünü artırmak, staj yapmak gibi sebeplerle yurt dışına gönderilen ya da yıllık izinlerini yurt dışında kullanırken hastalanan memurların hastalık raporları ilgili ülkenin mahallî mevzuatına göre düzenlenir.
