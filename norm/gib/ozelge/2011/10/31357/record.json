@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.13-1957",
+  "source_id": 31357,
+  "date": "2011-10-31",
+  "title": "48 Seri No lu KDV Genel Tebliğinin 107 Seri No lu KDV Genel Tebliği ile değiştirilmeden önceki (A/2-b) bölümüne istinaden alınan istisna belgesinin geçerliliği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31357",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "e853edfd54799b9a3d77367ecac0e15d732265eb2b26da160b5aebff473529e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
