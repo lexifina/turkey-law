@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-300-10-131-238",
+  "source_id": 27481,
+  "date": "2011-10-31",
+  "title": "Market işletmeciliği yapan kooperatifin ortakdışı faaliyetrinde KDV ve Kurumlar Vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27481",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "8ee64ed92752a1388f6a77640fe71e678ca256bd81887637c55050d6a6a5d7bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
