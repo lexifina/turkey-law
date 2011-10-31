@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.03.10.00-KVK.MUK.200-45",
+  "source_id": 27716,
+  "date": "2011-10-31",
+  "title": "Köy tüzel kişiliği tarafından alınan araç ile il sınırları içerisinde yolcu taşımacılığı yapılmasının vergisel durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27716",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "5f08b6690c199d34835677010ea254c1c0ffcca7c5bc6edcc436a26dae2b9f25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
