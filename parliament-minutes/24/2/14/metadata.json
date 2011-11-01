@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 24,
+  "legislative_year": 2,
+  "sitting": 14,
+  "sitting_date": "2011-11-01",
+  "listed_date": "01 Kasım 2011 Salı",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/24/2/14/91faf207-4e2d-4de4-a53f-ae1c1a3bc61c.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=bd0ec662-160d-4082-8a60-0185ceac6f3a",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=24&YasamaYili=2",
+  "source_sha256": "e853b97b1acebf6a96af5ab3a6f2a0b9e3b4d4a859e230481533fbc890d3f6cf",
+  "source_bytes": 658290,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
