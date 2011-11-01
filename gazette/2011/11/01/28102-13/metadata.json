@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-11-01",
+  "issue": "28102",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Yatırım Fonlarına İlişkin Esaslar Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri: VII, No: 41)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111101-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111101.htm",
+  "index_sha256": "c976760b890172ef7570ecffb365e892cf43d1abe3489f31c96d89a86d7f1e77",
+  "index_header": "1 Kasım 2011 ... 28102 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
