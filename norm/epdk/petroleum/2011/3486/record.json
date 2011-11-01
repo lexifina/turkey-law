@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "3486",
+  "decision_date": "2011-11-01",
+  "title": "Ambarlı Depolama Hizmetleri Ltd. Şti.’nin Depolama ve Dolum Tesisine ilişkin depolama tarifesinin tadiline ilişkin",
+  "resmi_gazete_date": "2011-11-22",
+  "resmi_gazete_number": "28120",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=r9q79dHQqIg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=r9q79dHQqIg="
+  ],
+  "source_sha256": "ac188b9e95b533c99ef93675ab3d323e30ed76c93a609c1754f44f473d91c64d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-11-01",
+  "law_text_complete": false
+}
