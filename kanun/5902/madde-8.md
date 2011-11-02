@@ -6,11 +6,11 @@ c) Zarara uğraması muhtemel yerlerin plan, proje ve imar esaslarını belirlem
 ç) Ayni, nakdi ve insani yardım esaslarını belirlemek.
 d) Afet ve acil durumlar hakkında halkı bilgilendirme, bilinçlendirme ve eğitim çalışmaları yapmak.
 e) Yurtiçi ve yurtdışında meydana gelen afet ve acil durumlarla ilgili bilgileri toplamak ve değerlendirmek.
-f) Afet ve acil durum yönetim merkezlerinin, ortak haberleşme ve bilgi sistemlerinin standardını belirlemek ve denetlemek.
+f) (Mülga: 24/10/2011-KHK-661/90 md.)
 g) Afet ve Acil Durum Eğitim Merkezinin iş ve işlemlerini yürütmek.
 ğ) Afet ve acil durumlara ilişkin;
 1) Yönetim stratejilerini belirlemek.
-2) Her türlü bilgi, haberleşme, tahmin ve erken uyarı sistemlerini kurmak ve işletmek.
+2) (Mülga: 24/10/2011-KHK-661/90 md.)
 3) Kamu yatırımları ile personel ihtiyacı konusunda ilgili kurumlara öneride bulunmak.
 4) Eğitim faaliyetleri ve tatbikatları yapmak veya yaptırmak.
 5) Sigorta hizmetlerinin geliştirilmesi ve yaygınlaştırılmasını sağlamak.
