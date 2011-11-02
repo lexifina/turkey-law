@@ -8,3 +8,4 @@ Değiştiren Kanunun/KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numa
 5763 | 13, 17, 20 | 26/5/2008
 5951 | 13 | 5/2/2010
 KHK/665 | 3, 6, 7, 8, 9, 10, 11, 12, 13, 15, (I) Sayılı Liste | 2/11/2011
+KHK/666 | 15 inci maddesinin yedinci fıkrası 15 inci maddesinin sekizinci ve dokuzuncu fıkraları | 31/12/2011 tarihinden geçerli olmak üzere 2/11/2011 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
