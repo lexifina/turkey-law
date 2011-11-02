@@ -1,2 +1,0 @@
-Toplatma ve yok etme
-MADDE 61. — 1593 sayılı Umumi Hıfzıssıhha Kanunu hükümleri saklı kalmak üzere, il özel idaresi tarafından satışı ve kullanılması yasaklanmış bulunan maddeler toplattırılır. Yapılan inceleme ve tahlil sonucunda, sağlığa zararlı olanlar imha edilir. Diğerleri sahibine teslim edilir. Otuz gün içinde sahipleri tarafından teslim alınmayan mallar, il özel idaresi tarafından uygun biçimde değerlendirilir.

@@ -1,5 +1,0 @@
-Denetim komisyonu
-MADDE 17. — İl genel meclisi, her yılın ocak ayında yapılacak toplantısında il özel idaresinin bir önceki yıl gelir ve giderleri ile hesap ve işlemlerinin denetimi için kendi üyeleri arasından gizli oyla ve üye sayısı üçten az, beşten çok olmamak üzere bir denetim komisyonu oluşturur. Komisyon, her siyasî parti grubunun ve bağımsız üyelerin il genel meclisindeki üye sayısının meclis üye tam sayısına oranlanması suretiyle oluşur.
-Komisyon, vali tarafından il özel idare binası içinde belirlenen yerde çalışır ve çalışmalarında uzman kişi ve kuruluşlardan yararlanabileceği gibi valinin onayıyla kamu kuruluşları personelinden de yararlanabilir. Komisyon tarafından istenen bilgi ve belgelerin iade edilmek üzere verilmesi zorunludur.
-Komisyon, çalışmasını şubat ayı sonuna kadar tamamlar ve buna ilişkin raporunu, izleyen ayın onbeşine kadar meclis başkanlığına sunar.
-Konusu suç teşkil eden hususlarla ilgili olarak meclis başkanlığı tarafından yetkili mercilere suç duyurusunda bulunulur.

@@ -1,1 +1,0 @@
-GEÇİCİ MADDE 3. — Bu Kanunun 31 inci maddesinde öngörülen stratejik plânların hazırlanmasına dair altı aylık süre Kanunun yürürlüğünü müteakip hazırlanması gereken ilk stratejik plânlar için bir yıl olarak uygulanır.
