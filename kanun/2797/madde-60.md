@@ -1,0 +1,2 @@
+Hukuk dava dosyalarının Yargıtaya gönderilmesi:
+Madde 60 – Adliye mahkemelerinden Yargıtay hukuk dairelerine temyiz incelemesi yapılmak üzere gönderilecek dava dosyalarının temyiz dilekçesinde gösterilen daire ismiyle bağlı kalınmaksızın mahkeme hakimi tarafından Başkanlar Kurulunun bu konuda yayımlanan kararları da gözetilmek suretiyle, bu Kanunun 14 üncü maddesinde belirtilen görevli daireye gönderilmesi sağlanır.
