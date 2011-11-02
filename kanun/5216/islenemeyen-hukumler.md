@@ -20,3 +20,4 @@ Değiştiren Kanun No. | Değiştiren Kanun Yürürlüğe giriş tarihi | Deği�
 5951 | 5/2/2010 | 5/2/2010 |  | Geçici Madde 5
 6215 | 12/4/2011 | 12/4/2011 |  | 26
  | 22/6/2011 | 22/6/2010 | 4//2010 tarihli ve E.:2008/28 K.:2010/30 sayılı Karar | 14
+KHK/661 | 2/11/2011 | 2/11/2011 |  | 21, 22

@@ -10,6 +10,8 @@ Kurum, tasarruf sahiplerinin haklarını ve bankaların düzenli ve emin bir şe
 Kurum; her türlü faaliyetinde, kuruluş kanununda verilen yetkiler saklı kalmak kaydıyla kalkınma plânı, programlar ve hükûmet programında yer alan ilke, strateji ve politikalara uyar.
 (Değişik birinci cümle: 8/3/2006- 5472/1 md.) Kurum, bu Kanun ve ilgili diğer mevzuat hükümleri çerçevesinde kendisine verilen yetkilerini, Kurulca tesis edilecek düzenleyici işlemler veya alınacak özel nitelikli kararlar ile kullanır. Kurum, Kurul kararıyla bu Kanunun uygulanmasına ilişkin yönetmelikler ve tebliğler çıkarmaya yetkilidir.
 Kurum, iç düzenlemeleri dışındaki düzenleyici işlemlerini yürürlüğe koymadan önce sektör stratejisi ve politikaları ile ilişkisinin kurulması bakımından ilişkili Bakanlığın, kalkınma plânı ve yıllık programla ilişkisinin kurulması açısından Devlet Plânlama Teşkilatı Müsteşarlığının ve diğer ilgili kurum ve kuruluşların görüşünü alır. İlişkili Bakanlık ve Devlet Plânlama Teşkilatı Müsteşarlığı en geç yedi gün içinde cevap vermezse olumlu görüş verilmiş sayılır.
+–––––––––––––––––––––––
+(1) Bu fıkrada yer alan “... nitelikleri ile ...” ibaresi, 15/12/2007 tarihli ve 26731 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 22/3/2007 tarihli ve E.: 2005/139, K.: 2007/33 sayılı Kararı ile iptal edilmiştir.
 Kurumun hazırlayacağı ikincil düzenleme taslakları en az yedi gün süreyle Kurumun internet sayfası başta olmak üzere uygun vasıtalarla kamuoyunun bilgisine sunulur.
 Özel nitelikli kararlardan gerekli görülenler doğrudan ilgili kişi ve kuruluşlara ve uygun görüldüğü takdirde Kurumun haftalık bülteni ile duyurulur.
 Kamu kurum ve kuruluşları, Kanun ile belirlenmiş görev alanlarında Kuruma gerekli yardımı sağlamakla yükümlüdür.

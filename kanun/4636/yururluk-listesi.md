@@ -3,3 +3,4 @@ MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜ
 GÖSTERİR LİSTE
 Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4636 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6000 | 4, 6, EK MADDE 1, GEÇİCİ MADDE 6, EK (I) sayılı cetvel | 30/6/2010
+KHK/666 | 10 | 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
