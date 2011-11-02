@@ -1,0 +1,8 @@
+İNTERNET ORTAMINDA YAPILAN YAYINLARIN
+DÜZENLENMESİ VE BU YAYINLAR YOLUYLA
+İŞLENEN SUÇLARLA MÜCADELE EDİLMESİ
+HAKKINDA KANUN
+Kanun Numarası : 5651
+Kabul Tarihi : 4/5/2007
+Yayımlandığı R.Gazete : Tarih : 23/5/2007 Sayı : 26530
+Yayımlandığı Düstur : Tertip : 5 Cilt : 46
