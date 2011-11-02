@@ -1,0 +1,10 @@
+Sermaye piyasası araçlarının kaydileştirilmesi
+Madde 10/A – (Ek: 15/12/1999 - 4487/1 md.) (1)
+Sermaye piyasası araçları ve bunlara ilişkin haklar; özel hukuk tüzel kişiliğini haiz bir Merkezi Kayıt Kuruluşu tarafından kayden izlenir. Bu Kuruluş, Kurulun gözetim ve denetimi altındadır. Merkezi Kayıt Kuruluşunun kuruluş, faaliyet, çalışma ve denetim esasları Bakanlar Kurulunca çıkarılacak bir yönetmelikte belirlenir.
+Kayıtlar, Merkezi Kayıt Kuruluşu tarafından, bilgisayar ortamında, ihraçcılar, aracı kuruluşlar ve hak sahipleri itibariyle tutulur. Kayıt edilen haklar bu Kanunun 7 nci maddesi uyarınca senede bağlanmaz. Sermaye piyasası araçlarının nama veya hamiline yazılı hesaplarda kayıt esasları ile kayıtların nasıl tutulacağı ve kayıtların tutulmasında yapılacak işlemlere ilişkin usul ve esaslar Kurulca bir tebliğ ile belirlenir.
+Kayden izlenen sermaye piyasası araçları üzerindeki hakların üçüncü kişilere karşı ileri sürülebilmesinde, Merkezi Kayıt Kuruluşuna yapılan bildirim tarihi esas alınır.
+Kurul bu madde kapsamında kaydı tutulacak hakları, bu hakların bağlı olduğu sermaye piyasası araçlarını, türleri ve ihraçcıları itibariyle belirleyebilir.
+(Ek beşinci fıkra:13/2/2011-6111/151 md.) Kayden izlenen sermaye piyasası araçlarına ilişkin tedbir, haciz ve benzeri her türlü idari ve adli talep münhasıran Merkezi Kayıt Kuruluşunun üyeleri tarafından yerine getirilir. İlgili kanunlar uyarınca elektronik ortamda tebligatı yapılan alacakların takip ve tahsiline ilişkin hükümler saklıdır(2).
+Payların devrinin, Türk Ticaret Kanununun 417 nci maddesi çerçevesinde ortaklıklar tarafından pay defterine kaydında, ilgililerin başvurusuna gerek kalmaksızın Merkezi Kayıt Kuruluşu nezdinde ihraçcılar itibariyle tutulan kayıtlar esas alınır.
+Merkezi Kayıt Kuruluşu, ihraçcılar ve aracı kuruluşlar, kendi tuttukları kayıtların yanlış tutulmasından dolayı hak sahiplerinin uğrayacağı zararlardan kusurları oranında sorumludur.
+Merkezi Kayıt Kuruluşunun personeli hakkında, Kanunun 25 inci maddesi hükmü uygulanır.

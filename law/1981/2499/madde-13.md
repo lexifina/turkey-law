@@ -1,0 +1,8 @@
+Tahvil ve diğer borçlanma senetleri ihracı
+Madde 13 – (Değişik: 29/4/1992 - 3794/11 md.)
+Halkı açık anonim ortaklıkların ihraç edebilecekleri tahvil ve sermaye piyasası aracı niteliğindeki diğer borçlanma senetlerinin toplam tutarı, Kurula gönderilen bağımsız denetimden geçmiş son mali tabloda yer alan çıkarılmış sermaye veya ödenmiş sermaye ile genel kurulca onaylanan son mali tabloda görülen yedek akçelerin ve yeniden değerleme değer artış fonunun toplamından, varsa zararların indirilmesinden sonra kalan miktarı geçemez.
+Mahalli İdareler ve bunlarla ilgili özel mevzuatları uyarınca faaliyet gösteren kuruluş, idare ve işletmeler, mevzuata göre özelleştirme kapsamına alınanlar dahil kamu iktisadi teşebbüslerinin tahvil ve sermaye piyasası aracı niteliğindeki diğer borçlanma senedi ihraç limitleri Bakanlar Kurulunca belirlenir. Bu durumda, özel kanunlarda belirlenen limitler uygulanmaz.
+Tahvil ve sermaye piyasası aracı niteliğindeki diğer borçlanma senetleri ihraç limitleri ile Türk Ticaret Kanununun 422 nci maddesinde tespit edilmiş olan anonim ortaklıkların çıkabilecekleri tahvil miktarına dair sınırlar gerektiğinde Bakanlar Kurulunca genel olarak veya sektörler itibariyle arttırılabilir.
+Hazine garantisi ihtiva eden ihraçlarda, mevzuatta öngörülen ihraç limitlerine uyulmaz.
+Çıkarılan tahvil ve sermaye piyasası aracı niteliğindeki diğer borçlanma senetleri tamen satılmadıkça veya satılmayanlar iptal edilmedikçe, aynı türden yeni tahvil ve sermaye piyasası aracı niteliğindeki diğer borçlanma senetleri çıkarılamaz.
+Tahvil ve sermaye piyasası aracı niteliğindeki diğer borçlanma senedi ihraç yetkisi, esas sözleşme ile yönetim kuruluna devredilebilir. Bu takdirde Türk Ticaret Kanununun 423 ve 424 üncü maddeleri uygulanmaz.

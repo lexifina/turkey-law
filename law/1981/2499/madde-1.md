@@ -1,0 +1,1 @@
+Madde 1 – Bu Kanunun konusu,tasarrufların menkul kıymetlere yatırılarak halkın iktisadi kalkınmaya etkin ve yaygın bir şekilde katılmasını sağlamak amacıyla; sermaye piyasasının güven, açıklık ve kararlılık içinde çalışmasını, tasarruf sahiplerinin hak ve yararlarının korunmasını,düzenlemek ve denetlemektir.
