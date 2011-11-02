@@ -1,0 +1,2 @@
+Geçici Madde 2 – Özel Çevre Koruma Kurumu Başkanlığında 21/8/1991 tarihinden önce görevlendirilmiş olan diğer kamu kurum ve kuruluşlarının personeli ile özel uzmanlık isteyen hizmetlerde çalıştırılanların sözleşmeleri 31/12/1991 tarihine kadar devam eder. Mülga 389 sayılı Kanun Hükmünde Kararnamenin 31 inci maddesine göre sözleşmeli olarak çalıştırılan personelin sözleşmeleri de 31/12/1991 tarihine kadar geçerlidir.
+2.10/10/2011 tarihli ve 657 sayılı KHK’nın 33 ve 37 nci maddesi

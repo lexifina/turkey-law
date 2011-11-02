@@ -1,0 +1,1 @@
+Geçici Madde 1 – Genel Müdürlük teşkilatı bu Kanun esaslarına göre yeniden düzenleninceye ve bu düzenleme uyarınca Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname hükümlerine göre yeni kadrolar tespit ve ihdas edilinceye kadar bu Kanunun yürürlüğe girdiği tarihte uygulanmakta olan mevcut kadroların kullanımına devam olunur.

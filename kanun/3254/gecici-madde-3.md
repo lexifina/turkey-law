@@ -1,0 +1,1 @@
+Geçici Madde 3 – Bu Kanunun uygulanmasını göstermek üzere hazırlanacak tüzük ve yönetmelikler yürürlüğe girinceye kadar mevcut tüzük ve yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.

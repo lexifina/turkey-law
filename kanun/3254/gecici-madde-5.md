@@ -1,0 +1,1 @@
+Geçici Madde 5 – Yurt dışından ithal edilmesi mecburi araç ve gereçlerin her türlü vergi, resim ve harçtan muaf tutulması hususu ilgili kanunlarla yeniden düzenleninceye kadar Genel Müdürlüğe muafiyet tanıyan mevzuat hükümlerinin uygulanmasına devam olunur.
