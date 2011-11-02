@@ -1,0 +1,2 @@
+Madde 3 – Bu Kanuna ekli cetvellerde yer almayan unvanları taşıyan kadro ve görevlere yapılacak atama ve nakillerde, bu Kanunun kapsamına giren kuruluşların teşkilat kanunlarında veya özel kanunlarındaki hükümlerin uygulanmasına devam olunur. Ancak bunlardan bu Kanunun yürürlüğe girmesinden önce Bakanlar Kurulu kararı ile atanmaları öngörülenler müşterek kararla, müşterek kararla atanmaları öngörülenler ise Bakan onayı ile atanırlar.
+Bakanlar atama yetkilerini bu konuda hazırlanacak yönetmeliklerde belirtilecek esaslara göre alt kademelere devredebilirler.

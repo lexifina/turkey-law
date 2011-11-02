@@ -1,0 +1,3 @@
+Madde 2 – Bu Kanuna ekli (1) sayılı cetvelde gösterilen unvanları taşıyan görevlere Bakanlar Kurulu kararı ile, (2) sayılı cetvelde gösterilen unvanları taşıyan görevlere müşterek kararla atama yapılır.
+Bunların nakilleri ve görevden alınmaları da aynı usule göre olur.
+Dışişleri Bakanı, gecikmesinde sakınca bulunan hallerde, Başbakanın ve Devlet Başkanının şifahi muvafakatlarını almak kaydıyle, dışişleri memurlarını, dış teşkilattan merkeze, merkezden dış teşkilata, dış teşkilatta bir memleketten diğer bir memlekete daimi görevle gönderebilir. Bunlarla ilgili kararname derhal Başbakanlığa gönderilir.

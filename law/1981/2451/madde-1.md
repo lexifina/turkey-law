@@ -1,0 +1,2 @@
+Madde 1 – Başbakanlık ve bakanlıklarla, bunlara bağlı kuruluşlarda, teşkilat kanunu bulunup bulunmadığına bakılmaksızın, atama ve nakiller bu Kanunda belirtilen usullere göre yapılır.
+Türk Silahlı Kuvvetleri (Jandarma Genel Komutanlığı dahil) ve Milli Savunma Bakanlığı ile birinci fıkra kapsamı dışında kalan diğer kamu kuruluşlarının kendi özel kanunlarındaki atama ve nakillere ilişkin hükümlerin uygulanmasına devam olunur.
