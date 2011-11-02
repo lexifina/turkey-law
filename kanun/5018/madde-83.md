@@ -1,6 +1,6 @@
 Yürütme
 MADDE 83 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-(I) SAYILI CETVEL (1)(2)(3)(4)(5)(6)(7)(8)(9)
+(I) SAYILI CETVEL (1)(2)(3)(4)(5)(6)(7)(8)(9)(10)
 (Değişik: 22/12/2005-5436/12 md.)
 GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 1) Türkiye Büyük Millet Meclisi
@@ -56,13 +56,13 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 45) Türkiye İstatistik Kurumu
 46) Afet ve Acil Durum Yönetimi Başkanlığı (3)
 47) Gelir İdaresi Başkanlığı
-48) Devlet Su İşleri Genel Müdürlüğü
+(…) (10)
 (…) (5)
 49) Tapu ve Kadastro Genel Müdürlüğü
 50) Meteoroloji Genel Müdürlüğü (9)
 (…) (7)
 (…) (1)
-51) Petrol İşleri Genel Müdürlüğü
+(…) (10)
 52) Basın-Yayın ve Enformasyon Genel Müdürlüğü
 (…) (7)
 (…) (7)
@@ -79,6 +79,7 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 (7) 3/6/2011 tarihli ve 643 sayılı KHK’nin 13 üncü maddesiyle; bu cetvelde yer alan “15) Bayındırlık ve İskân Bakanlığı”,”18) Tarım ve Köyişleri Bakanlığı”,”20) Sanayi ve Ticaret Bakanlığı”,”23) Çevre ve Orman Bakanlığı”, “30) Devlet Planlama Teşkilatı Müsteşarlığı “, “32) Dış Ticaret Müsteşarlığı “,”33) Gümrük Müsteşarlığı”,”36) Avrupa Birliği Genel Sekreterliği”,“39) Özürlüler İdaresi Başkanlığı”,”46) Tarım Reformu Genel Müdürlüğü”,”49) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü”,”50) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü, 51) Aile ve Sosyal Araştırmalar Genel Müdürlüğü, 52) Kadının Statüsü Genel Müdürlüğü” sıraları yürürlükten kaldırılmış olup, aynı cetvele 23 üncü sırasından sonra gelmek üzere “24) Aile ve Sosyal Politikalar Bakanlığı, 25) Avrupa Birliği Bakanlığı , 26) Bilim, Sanayi ve Teknoloji Bakanlığı , 27) Çevre, Orman ve Şehircilik Bakanlığı ,28) Ekonomi Bakanlığı, 29) Gençlik ve Spor Bakanlığı, 30) Gıda, Tarım ve Hayvancılık Bakanlığı, 31) Gümrük ve Ticaret Bakanlığı, 32) Kalkınma Bakanlığı” sıraları eklenmiş ve diğer sıralar buna göre teselsül ettirilmiş, daha sonra bu sıra 29/6/2011 tarihli ve 644 sayılı KHK’nin 37 nci maddesiyle cetvelde yer aldığı şekilde değiştirilmiş ve teselsül ettirilmiştir.
 (8) 26/9/2011 tarihli ve 655 sayılı KHK’nin 44 üncü maddesiyle, bu cetvelin 17 nci sırası “Ulaştırma, Denizcilik ve Haberleşme Bakanlığı” şeklinde değiştirilmiş ve aynı cetvelin “41) Denizcilik Müsteşarlığı” sırası yürürlükten kaldırılmıştır.
 (9) 10/10/2011 tarihli ve 657 sayılı KHK’nin 16 ncı maddesiyle, bu cetvelde yer alan “Devlet Meteoroloji İşleri” ibaresi “Meteoroloji” şeklinde değiştirilmiştir.
+(10) 11/10/2011 tarihli ve 662 sayılı KHK’nin 58 inci maddesiyle, bu cetvelin 48 inci ve 51 inci sıraları yürürlükten kaldırılmıştır.
 (II) SAYILI CETVEL (1)
 (Değişik: 22/12/2005-5436/12 md.)
 ÖZEL BÜTÇELİ İDARELER
@@ -192,7 +193,7 @@ TEKNOLOJİ ENSTİTÜLERİ
 103) (Ek: 14/7/2010-6005/2 md.) Kayseri Abdullah Gül Üniversitesi
 104) (Ek: 14/7/2010-6005/2 md.) Erzurum Teknik Üniversitesi
 105) (Ek: 31/3/2011-6218/2 md.) Adana Bilim ve Teknoloji Üniversitesi
-B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)
+B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)(8)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
 3) (Ek: 25/6/2009-5917/47 md.) Atatürk Araştırma Merkezi
@@ -211,7 +212,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)
 16) (Ek: 1/7/2006-5538/1 md.) Orman Genel Müdürlüğü
 17) Vakıflar Genel Müdürlüğü
 18) Hudut ve Sahiller Sağlık Genel Müdürlüğü
-19) Elektrik İşleri Etüd İdaresi Genel Müdürlüğü
+(…) (8)
 20) Maden Tetkik ve Arama Genel Müdürlüğü
 21) Sivil Havacılık Genel Müdürlüğü
 22) Türk Akreditasyon Kurumu
@@ -233,7 +234,8 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)
 38) (Ek: 28/12/2010-6093/14 md.) Türkiye Yazma Eserler Kurumu Başkanlığı
 39) (Ek: 6/3/2011-KHK-643/13 md.) Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı
 40) (Ek: 6/3/2011-KHK-643/13 md.) Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı
-41) (Ek: 8/8/2011-KHK-648/60 md.) Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı
+41) (Ek: 8/8/2011-KHK-649/60 md.) Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı
+42) (Ek: 11/10/2011-KHK-662/58 md.) Devlet Su İşleri Genel Müdürlüğü
 *** Bu cetvelde yer alan dipnotlar için devamı sayfaya bakınız.
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “10) Devlet Opera ve Balesi Genel Müdürlüğü” sırasından sonra gelmek üzere “11) Orman Genel Müdürlüğü” sırası eklenmiş ve cetvelin sıra numaraları teselsül ettirilmiştir.
 (2) 28/9/2006 tarihli ve 5548 sayılı Kanunun 36 ncı maddesiyle, bu bölüme “29) Kamu Denetçiliği Kurumu “ ibaresi eklenmesinden dolayı bu kuruma ait sıra numarası yeniden teselsül ettirilmiş, daha sonra bu sıra; 4/4/2009 tarihli ve 27910 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile 28/9/2006 tarihli ve 5548 sayılı Kamu Denetçiliği Kurumu Kanununun tümüyle iptal edilmesinden dolayı yürürlükten kaldırılmıştır.
@@ -242,6 +244,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)
 (5) 6/3/2011 tarihli ve 643 sayılı KHK’nin 13 üncü maddesiyle, “29) İhracatı Geliştirme Etüt Merkezi” sırası yürürlükten kaldırılmıştır.
 (6) 8/8/2011 tarihli ve 648 sayılı KHK’nin 19 uncu maddesiyle, bu bölümde yer alan “31) Özel Çevre Koruma Kurumu Başkanlığı” sırası yürürlükten kaldırılmıştır.
 (7) 8/8/2011 tarihli ve 649 sayılı KHK’nin 60 ncı maddesiyle, bu bölümde yer alan “24) Millî Prodüktivite Merkezi” sırası yürürlükten kaldırılmıştır.
+(8) 11/10/2011 tarihli ve 662 sayılı KHK’nin 58 inci maddesiyle, bu bölümde yer alan 19 uncu sıra yürürlükten kaldırılmıştır.
 (III) SAYILI CETVEL (1)
 (Değişik: 22/12/2005-5436/12 md.)
 DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR
