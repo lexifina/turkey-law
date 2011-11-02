@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-GVK-89-10-963",
+  "source_id": 24359,
+  "date": "2011-11-02",
+  "title": "Ar-Ge indiriminden yararlanılabilmesi için, \"Araştırma ve Geliştirme Faaliyetlerinin Desteklenmesine İlişkin Uygulama ve Denetim Yönetmeliği\" nin 9 uncu maddesinin (2) numaralı fıkrası kapsamında yeminli mali müşavir tasdik raporu verme zorunluluğu olup o",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24359",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "1d25417b7e5ccac4f53410d68b05112e6fd8b25a2fa6ad4402744602fd574ff3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
