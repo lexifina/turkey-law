@@ -1,5 +1,5 @@
 Polis meslek yüksek okullarının kuruluş, öğrenci kaynakları ve öğretim süresi
-MADDE 10 — Emniyet Teşkilâtının ihtiyacı olan polis memurlarını yetiştirmek üzere; Maliye Bakanlığının görüşü alınarak Bakanlığın teklifi ve Bakanlar Kurulu kararı ile Polis Akademisine bağlı, ön lisans düzeyinde, mesleki eğitim-öğretim ve uygulama yapan polis meslek yüksek okulları açılır.
+Madde 10 – Emniyet Teşkilâtının ihtiyacı olan polis memurlarını yetiştirmek üzere; Maliye Bakanlığının görüşü alınarak Bakanlığın teklifi ve Bakanlar Kurulu kararı ile Polis Akademisine bağlı, ön lisans düzeyinde, mesleki eğitim-öğretim ve uygulama yapan polis meslek yüksek okulları açılır.
 Polis meslek yüksek okullarına Öğrenci Seçme ve Yerleştirme Merkezi tarafından yapılan Öğrenci Seçme Sınavını kazanan ve Bakanlıkça ihtiyaç duyulduğu kadar lise ve dengi okulları bitirenler arasından yapılacak özel yetenek sınavında başarılı olanlar alınır. (1)
 Polis meslek yüksek okullarında eğitim-öğretim süresi iki yıldır.
 İki yıllık eğitim-öğretim dönemini başarıyla tamamlayamayanlar ile sağlık ve disiplin yönünden polis olamayacağına yetkili kurullarca karar verilenlerin okulla ilişiği kesilir.

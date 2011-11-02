@@ -3,6 +3,7 @@ MADDE 61 – Strateji Geliştirme Daire Başkanlığının görevleri şunlardı
 a) Ulusal kalkınma strateji ve politikaları, yıllık program ve hükümet programı çerçevesinde Genel Müdürlüğün orta ve uzun vadeli strateji ve politikalarını belirlemek, amaçlarını oluşturmak üzere gerekli çalışmaları yapmak.
 b) Genel Müdürlüğün görev alanına giren konularda, performans ve kalite ölçütleri geliştirmek ve bu kapsamda verilecek diğer görevleri yerine getirmek.
 c) Genel Müdürlüğün yönetimi ile hizmetlerin geliştirilmesi ve performansla ilgili bilgi ve verileri toplamak, analiz etmek, yorumlamak.
+10254
 d) Genel Müdürlüğün görev alanına giren konularda, hizmetleri etkileyecek dış faktörleri incelemek, kurum içi kapasite araştırması yapmak, hizmetlerin etkinliğini ve tatmin düzeyini analiz etmek ve genel araştırmalar yapmak.
 e) Yönetim bilgi sistemlerine ilişkin hizmetleri yerine getirmek.
 f) 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunuyla malî hizmetler birimine verilen görevleri yürütmek.

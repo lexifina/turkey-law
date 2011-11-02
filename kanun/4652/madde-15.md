@@ -1,7 +1,7 @@
 BEŞİNCİ BÖLÜM
 Fakülte Öğrencileri
 Öğrenci kaynağı, öğrencilerin istihkakları, özlük işlemleri ve mecburi hizmet yükümlülüğü ile evlenme yasağı
-MADDE 15 — Fakültenin esas öğrenci kaynağı polis kolejidir. İhtiyaç halinde, lise ve dengi okulları bitirenler arasından yönetmelikle belirtilecek şartları taşıyan öğrenciler de fakülteye alınabilirler. (1)
+Madde 15 – Fakültenin esas öğrenci kaynağı polis kolejidir. İhtiyaç halinde, lise ve dengi okulları bitirenler arasından yönetmelikle belirtilecek şartları taşıyan öğrenciler de fakülteye alınabilirler. (1)
 İlgili devletlerle yapılacak ikili anlaşmalara bağlı olarak yabancı uyruklu öğrencilerin Akademiye kabul edilmeleri Bakanın onayı ile olur.
 Yabancı uyruklu öğrenciler eğitim-öğretimi izleyebilecek Türkçe dil yeterliklerinin sınav ile tespit edilmesinden sonra öğretime başlatılır.
 Yabancı uyruklu öğrenciler Akademi öğrencilerine uygulanan kurallara uymakla yükümlüdür.
@@ -14,3 +14,6 @@ Fakülte, enstitü ve polis meslek yüksek okullarında lisans, lisans üstü ve
 Bunlardan mezun olup olmadığına bakılmaksızın mecburi hizmetle yükümlü olduğu süre içinde, istifa edenler veya ilişiğinin kesilmesini gerektiren bir suç işleyenler ya da sağlık sebebi hariç, başka herhangi bir sebeple ayrılanlar, yükümlülük sürelerinin eksik kısmı ile orantılı olarak kendilerine yapılmış olan öğretim masraflarının dört katını tazminat olarak ödemek zorundadırlar.
 Fakülteye evli öğrenci alınmaz ve öğrenciler öğrenimleri süresince evlenemezler.
 Polis koleji ile ilgili mecburi hizmet yükümlülüğüne ilişkin diğer mevzuat hükümleri saklıdır.
+–––––––––––––––––––
+(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “genel lise, erkek teknik öğretim, kız teknik öğretim ve ticaret ve turizm öğretimine bağlı okul mezunları” ibaresi “lise ve dengi okulları bitirenler” şeklinde değiştirilmiş ve metne işlenmiştir.
+7944

@@ -6,3 +6,4 @@ c) Yurt dışı vakıf emlak konuları ile ilgili işlemleri yürütmek.
 d) Genel Müdürlüğün Avrupa Birliği ile ilgili yapacağı çalışmaları, diğer birimlerle koordinasyon sağlayarak yürütmek.
 e) Genel Müdürlüğün görev alanına giren konularda Türkiye'de düzenlenecek uluslararası toplantıların organizasyonunu yapmak ve buna ilişkin işlemleri yürütmek.
 f) Genel Müdür tarafından verilen diğer benzer görevleri yapmak.
+10253

@@ -7,3 +7,4 @@ d) Yatırım ve Emlak Daire Başkanlığı.
 e) Sağlık Hizmetleri Daire Başkanlığı.
 f) Kültür ve Tescil Daire Başkanlığı.
 g) Dış İlişkiler Daire Başkanlığı.
+10251

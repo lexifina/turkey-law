@@ -1,2 +1,2 @@
 Yürürlük
-MADDE 14 — Bu Kanun yayımı tarihinden otuz gün sonra yürürlüğe girer.
+Madde 14 – Bu Kanun yayımı tarihinden otuz gün sonra yürürlüğe girer.

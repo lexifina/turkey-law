@@ -1,5 +1,5 @@
 Tanımlar
-MADDE 2 — Bu Kanunda geçen kavram ve terimler;
+Madde 2 – Bu Kanunda geçen kavram ve terimler;
 a) Bakan : İçişleri Bakanını,
 b) Bakanlık : İçişleri Bakanlığını,
 c) Genel Müdür : Emniyet Genel Müdürünü,
@@ -8,10 +8,11 @@ e) Başkan : Polis Akademisi Başkanını,
 f) Başkanlık : Polis Akademisi Başkanlığını,
 g) Dekan : İlgili fakülte dekanını,
 h) Dekanlık : İlgili fakülte dekanlığını,
-ı)Polis Meslek Yüksek Okulu Müdürü: Polis Akademisine bağlı ön lisans düzeyinde eğitim-öğretim yapan polis meslek yüksekokul müdürünü,
+ı) Polis Meslek Yüksek Okulu Müdürü: Polis Akademisine bağlı ön lisans düzeyinde eğitim-öğretim yapan polis meslek yüksek okul müdürünü,
 i) Yükseköğretim Kurulu: 4.11.1981 tarihli ve 2547 sayılı Yüksek Öğretim Kanununun 6 ncı maddesine göre oluşturulan Kurulu,
 j) Üniversitelerarası Kurul: 2547 sayılı Yüksek Öğretim Kanununun 11 inci maddesine göre oluşturulan Kurulu,
 k) Yükseköğretim Kurumları: Üniversiteler, yüksek teknoloji enstitüleri, Polis Akademisi, harp okulları ve bunların bünyesinde yer alan fakülteler, enstitüler, yüksek okullar, konservatuvarlar, meslek yüksek okulları ile uygulama ve araştırma merkezlerini,
+7936
 l) Polis Akademisi: Emniyet Teşkilâtının memur, amir ve yönetici ihtiyacını karşılamak üzere ön lisans, lisans üstü eğitim-öğretim, bilimsel araştırma, yayın ve danışmanlık yapan, bünyesinde fakülte, enstitü ve polis meslek yüksek okulları bulunan bilimsel özerkliğe sahip yüksek öğretim kurumunu,
 m) Enstitü: Başkanlığa bağlı olarak ilgili bilim dallarında lisans üstü eğitim-öğretim, bilimsel araştırma, inceleme ve yayın faaliyetlerinde bulunan ve öğretim elemanı yetiştiren yüksek öğretim kurumunu,
 n) Güvenlik Bilimleri Fakültesi: Lisans düzeyinde eğitim-öğretim, bilimsel araştırma ve yayın yapan; kendisine birimler bağlanabilen yüksek öğretim kurumunu,
@@ -29,6 +30,7 @@ u) Okutman: Geçici veya sürekli olarak görevlendirilen eğitim-öğretim sür
 ü) Öğretim Yardımcıları: Polis yüksek öğretim kurumlarında belirli süreler için görevlendirilen araştırma görevlileri, uzmanlar, çeviriciler ve eğitim-öğretim plânlamacılarını,
 1) Araştırma Görevlileri: Polis yüksek öğretim kurumlarında yapılan araştırma, inceleme, uygulama ve deneylerde yardımcı olan ve yetkili organlarca verilen diğer görevleri yapan öğretim yardımcılarını,
 2) Uzmanlar: Eğitim-öğretimle doğrudan doğruya veya dolaylı olarak ilgili olan, özel bilgi ve uzmanlığa ihtiyaç gösteren bir faaliyetle belirli süreler için görevlendirilen öğretim yardımcılarını,
+7937
 3) Çeviriciler: Sözlü veya yazılı çeviri işlerinde belirli süreler için çalıştırılan öğretim yardımcılarını,
 4) Eğitim-Öğretim Planlamacıları: Eğitim-öğretim plânlaması ile görevli öğretim yardımcılarını,
 v) Diğer kavram ve terimler: 2547 sayılı Yüksek Öğretim Kanununun 3 üncü maddesinde tanımlanan ve bu Kanunun uygulanması ile ilgili olan diğer kavram ve terimleri,

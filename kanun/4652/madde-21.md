@@ -1,5 +1,5 @@
 Devam-devamsızlık ve mezuniyet
-MADDE 21 — Öğrenciler tüm derslere devam etmek zorundadırlar.
+Madde 21 – Öğrenciler tüm derslere devam etmek zorundadırlar.
 Öğrencilerden;
 İki yarıyılda veya bir öğretim yılında mazeretsiz olarak yirmi ders gününden fazla eğitim ve öğretime katılmayanlar,
 İdarece kabul edilebilir mazeretleri olsa bile yarıyıl veya öğretim yılının üçte birini aşan sürede devam imkânı bulunmayanlar,

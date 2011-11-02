@@ -1,5 +1,5 @@
 Yönetmelikler
-MADDE 30 — Aşağıdaki hususlar;
+Madde 30 – Aşağıdaki hususlar;
 a) Akademinin yönetim birimlerinin kuruluş, görev, çalışma esas ve usulleri,
 b) Fakülte, enstitü ve polis meslek yüksek okullarında ders veren ek ders ücretli öğretim elemanlarının görevlendirilmelerinin esas ve usulleri,
 c) Akademiye alınacak öğrencilerde aranacak şartlar, istenecek belgeler, kayıt, sınav ve kabul işlemlerine ait esas ve usulleri,

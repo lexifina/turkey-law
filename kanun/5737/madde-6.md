@@ -4,3 +4,4 @@ Mülhak vakıflar, Anayasaya aykırılık teşkil etmeyen vakfiye şartlarına g
 Cemaat vakıflarının yöneticileri mensuplarınca kendi aralarından seçilir. Vakıf yöneticilerinin seçim usûl ve esasları yönetmelikle düzenlenir.
 Esnaf vakıfları, mülhak vakıfların tabi olduğu hükümlere tabidir. Bu vakıflar, esnafın seçtiği yönetim kurulu tarafından yönetilir.
 Yeni vakıfların yönetim organı vakıf senedine göre oluşturulur ve bu vakıfların yönetim organlarında görev alanların çoğunluğunun, Türkiye’de yerleşik bulunması gerekir.
+10243

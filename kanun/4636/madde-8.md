@@ -1,7 +1,7 @@
 ÜÇÜNCÜ BÖLÜM
 Malî Hükümler
 Başkanlığın gelir ve giderleri
-MADDE 8 – A) Başkanlığın gelirleri aşağıda belirtilmiştir:
+Madde 8 – A) Başkanlığın gelirleri aşağıda belirtilmiştir:
 a) NATO akaryakıt tesislerinin yurt içi petrol şirketleri ile askerî amaçlı olarak müttefik ülkelere kiralanmasından elde edilecek kira gelirleri.
 b) Barışta ve savaşta Türkiye'ye intikal edecek müttefik ülkelerin askerî kuvvetlerinin ihtiyacının tedariki neticesi alınan akaryakıt ve hizmet bedelleri.
 c) Akaryakıt ve madeni yağların dağıtım hizmeti ile sistemin işletme veya bakım hizmeti karşılığı Türk Silâhlı Kuvvetlerine ait ödeneklerden alınacak bedel.

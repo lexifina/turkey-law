@@ -1,5 +1,5 @@
 Fakülte öğretim kurulu ve fakülte yönetim kurulunun kuruluş, işleyiş ve görevleri
-MADDE 12 — Fakülte öğretim kurulu, dekanın başkanlığında, dekan yardımcıları ile bölüm başkanları ve fakültede görevli profesör, doçent ve yardımcı doçentlerin her birinin kendi aralarından üç yıl için seçecekleri bir öğretim üyesinden oluşur.
+Madde 12 – Fakülte öğretim kurulu, dekanın başkanlığında, dekan yardımcıları ile bölüm başkanları ve fakültede görevli profesör, doçent ve yardımcı doçentlerin her birinin kendi aralarından üç yıl için seçecekleri bir öğretim üyesinden oluşur.
 Fakülte öğretim kurulu normal olarak her eğitim-öğretim yılı başında ve sonunda toplanır.
 Dekan, gerekli gördüğü hallerde de kendiliğinden bu kurulu toplantıya çağırabilir.
 Fakülte öğretim kurulu;
@@ -7,6 +7,7 @@ a) Fakültenin eğitim-öğretim, bilimsel araştırma ve yayın faaliyetlerinin
 b) Eğitim-öğretim faaliyetlerinin genel değerlendirmesini yapmak,
 c) Dekanın uygun gördüğü konuları görüşmek ve karara bağlamak,
 İle görevlidir.
+7942
 Fakülte yönetim kurulu;
 Fakülte yönetim kurulu, dekana yardımcı bir organ olup, dekanın başkanlığında, eğitim işleri ile görevli dekan yardımcısı ile bölüm başkanları ve fakültede görevli profesör, doçent ve yardımcı doçentler arasından fakülte öğretim kurulu tarafından üç yıllık süre için seçilecek birer üyeden oluşur. Bu kurul, dekanın gerekli gördüğü hallerde toplanır.
 Fakülte yönetim kurulu fakültenin idari faaliyetlerinde;

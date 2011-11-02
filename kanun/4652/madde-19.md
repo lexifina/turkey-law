@@ -1,7 +1,7 @@
 YEDİNCİ BÖLÜM
 Eğitim-Öğretim ve Mezuniyet
 Lisans eğitim-öğretimi ve süresi
-MADDE 19 — Fakültede lisans eğitim-öğretimi bu Kanunda belirlenen amaç ve ilkelere göre aşağıdaki şekilde düzenlenir:
+Madde 19 – Fakültede lisans eğitim-öğretimi bu Kanunda belirlenen amaç ve ilkelere göre aşağıdaki şekilde düzenlenir:
 a) Ders programları ilk üç sınıfta polis mesleği için gerekli genel bilgileri, son sınıfta Genel Müdürlüğün belirleyeceği türde ihtisas bölümleri için özel bilgileri kapsayacak şekilde düzenlenir.
 b) Atatürk ilkeleri ve inkılâp tarihi, Türk dili, yabancı dil ve beden eğitimi zorunlu ders olarak verilir. Diğer zorunlu derslerden meslekî ağırlıklı olanlar Eğitim ve Öğretim Yüksek Kurulunun önerisi ile Genel Müdürlükçe, meslekî olmayan dersler ise fakülte öğretim kurulunun önerisi, Eğitim ve Öğretim Yüksek Kurulunun kararı ile belirlenir.
 c) Lisans öğretiminde, 11 ve 12 nci maddeler de dikkate alınarak yukarıdaki bentlere göre okutulacak derslerin günlük ve haftalık saatleri, çeşitleri, öğrencilere yaptırılacak seminer ve uygulama çalışmaları, verilecek konferanslar ve bu konulara ilişkin diğer programlar bir yönetmelikle düzenlenir.

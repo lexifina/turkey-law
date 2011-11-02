@@ -3,6 +3,7 @@ MADDE 79 – a) 27/1/1954 tarihli ve 6237 sayılı Limanlar İnşaatı Hakkında
 b) 657 sayılı Devlet Memurları Kanununun;
 1) 36 ncı maddesinin "ORTAK HÜKÜMLER" bölümünün (A) fıkrasının (11) numaralı bendine; "Başbakanlık Uzman Yardımcıları" ibaresinden sonra gelmek üzere "Vakıf Uzman Yardımcıları" ve "Başbakanlık Uzmanlığına" ibaresinden sonra gelmek üzere "Vakıf Uzmanlığına" ibareleri,
 2) 152 nci maddesinin "II- Tazminatlar" bölümünün "A- Özel Hizmet Tazminatı" bendinin (i) alt bendine; "Kültür ve Turizm Uzmanları" ibaresinden sonra gelmek üzere "Vakıf Uzmanları" ibaresi,
+10259
 3) Eki (I) sayılı ek gösterge cetvelinin, "I- Genel İdare Hizmetleri Sınıfı" bölümünün (h) bendine "Kültür ve Turizm Uzmanları" ibaresinden sonra gelmek üzere "Vakıf Uzmanları" ibaresi,
 4) Eki (II) sayılı ek gösterge cetvelinin "II- Yargı Kuruluşları, Bağlı ve İlgili Kuruluşlar ile Yüksek Öğretim Kuruluşlarında" başlıklı bölümüne "Teftiş ve Tetkik Kurulu Başkanı" ibaresinden sonra gelmek üzere "Vakıflar Genel Müdürlüğü Rehberlik ve Teftiş Başkanı" ibaresi,
 5) Eki (IV) sayılı Makam Tazminatı Cetvelinin 5 inci sırasının (e) bendinin sonuna "Vakıflar Genel Müdürlüğü Rehberlik ve Teftiş Başkanı" ibaresi,

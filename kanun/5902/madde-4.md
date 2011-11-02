@@ -1,4 +1,3 @@
 Afet ve Acil Durum Koordinasyon Kurulu
 MADDE 4 – (1) Afet ve acil durum hallerinde bilgileri değerlendirmek, alınacak önlemleri belirlemek, uygulanmasını sağlamak ve denetlemek, kurum ve kuruluşlar ile sivil toplum kuruluşları arasındaki koordinasyonu sağlamak amacıyla, Başbakanlık Müsteşarının başkanlığında, Milli Savunma, İçişleri, Dışişleri, Maliye, Milli Eğitim, Bayındırlık ve İskân, Sağlık, Ulaştırma, Enerji ve Tabii Kaynaklar, Çevre ve Orman bakanlıkları ve Devlet Planlama Teşkilatı müsteşarları, Afet ve Acil Durum Yönetimi Başkanı, Türkiye Kızılay Derneği Genel Başkanı ile afet veya acil durumun türüne göre Kurul Başkanınca görevlendirilecek diğer bakanlık ve kuruluşların üst yöneticilerinden oluşan Afet ve Acil Durum Koordinasyon Kurulu kurulmuştur.
-10451
 (2) Kurul, yılda en az dört kez toplanır. Ayrıca, ihtiyaç halinde Kurul Başkanının çağrısı üzerine olağanüstü toplanabilir. Kurulun sekretaryasını Başkanlık yürütür.

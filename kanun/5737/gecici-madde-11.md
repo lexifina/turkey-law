@@ -1,4 +1,4 @@
-GEÇİCİ MADDE 11 –(Ek: 22/8/2011-KHK/651/ 17 md.)
+GEÇİCİ MADDE 11 – (Ek: 22/8/2011-KHK-651/17 md. )
 Cemaat vakıflarının;
 a) 1936 Beyannamesinde kayıtlı olup malik hanesi açık olan taşınmazları,
 b) 1936 Beyannamesinde kayıtlı olup kamulaştırma, satış ve trampa dışındaki nedenlerle Hazine, Vakıflar Genel Müdürlüğü, belediye ve il özel idaresi adına kayıtlı taşınmazları,

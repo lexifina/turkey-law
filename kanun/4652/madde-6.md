@@ -1,6 +1,7 @@
 Akademi Başkanı, dekan, enstitü müdürü ve yardımcıları ile polis meslek yüksek okulu müdürünün atanması
-MADDE 6 — Başkan en az yüksek lisans düzeyinde akademik kariyere sahip birinci sınıf emniyet müdürlerinden veya profesör öğretim üyelerinden, Genel Müdürün teklifi, Bakanın uygun görmesi üzerine dört yıllığına, müşterek kararname ile atanır.
+Madde 6 – Başkan en az yüksek lisans düzeyinde akademik kariyere sahip birinci sınıf emniyet müdürlerinden veya profesör öğretim üyelerinden, Genel Müdürün teklifi, Bakanın uygun görmesi üzerine dört yıllığına, müşterek kararname ile atanır.
 Dekan, Başkanın teklifi, Genel Müdürün uygun görmesi üzerine Bakan tarafından gösterilecek üç profesör arasından Yüksek Öğretim Kurulunca üç yıllığına atanır.
+7939
 Başkana yardımcı olmak üzere üç, dekana yardımcı olmak üzere iki yardımcı atanır. Başkan yardımcılarından birisi eğitim işlerinden sorumlu olmak üzere öğretim üyelerinden, diğerleri ise birinci sınıf emniyet müdürlerinden; Genel Müdürün teklifi, Bakanın onayı ile atanır. Dekan yardımcılarının ise birisi öğretim üyelerinden, dekanın önerisi Başkanın uygun görmesi üzerine Genel Müdürün onayı ile atanır, diğeri ise birinci sınıf emniyet müdürlerinden, Genel Müdürün teklifi Bakanın onayı ile atanır.
 Enstitü müdürü ve iki yardımcısı öğretim üyelerinden, Başkanın teklifi Genel Müdürün uygun görmesi üzerine Bakanın onayı ile atanır.
 Polis meslek yüksek okulu müdürü birinci sınıf emniyet müdürlerinden üç yıllığına Genel Müdürün teklifi ve Bakanın onayı ile atanır.

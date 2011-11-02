@@ -1,5 +1,5 @@
 Başkan, dekan, enstitü ve polis meslek yüksek okulu müdürü
-MADDE 5 — Başkan; akademi, fakülte, enstitü, polis meslek yüksek okulları ve bağlı birimlerinin bütün faaliyetlerinin yönetim, gözetim ve denetiminden sorumludur.
+Madde 5 – Başkan; akademi, fakülte, enstitü, polis meslek yüksek okulları ve bağlı birimlerinin bütün faaliyetlerinin yönetim, gözetim ve denetiminden sorumludur.
 Başkan profesör ise kendisi, değilse Başkanın görevlendireceği bir profesör Üniversitelerarası Kurulun üyesidir.
 Dekan, akademideki lisans düzeyinde eğitim-öğretim yapan fakültelerin faaliyetlerinin yönetim, gözetim ve denetiminden Başkana karşı sorumlu profesördür.
 Enstitü müdürü, enstitüdeki bütün idari ve bilimsel faaliyetlerin yönetim, denetim ve gözetiminden Başkana karşı sorumlu öğretim üyesidir.
