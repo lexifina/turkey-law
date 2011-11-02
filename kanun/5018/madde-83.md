@@ -1,6 +1,6 @@
 Yürütme
 MADDE 83 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-(I) SAYILI CETVEL (1)(2)(3)(4)(5)(6)(7)(8)
+(I) SAYILI CETVEL (1)(2)(3)(4)(5)(6)(7)(8)(9)
 (Değişik: 22/12/2005-5436/12 md.)
 GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 1) Türkiye Büyük Millet Meclisi
@@ -59,7 +59,7 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 48) Devlet Su İşleri Genel Müdürlüğü
 (…) (5)
 49) Tapu ve Kadastro Genel Müdürlüğü
-50) Devlet Meteoroloji İşleri Genel Müdürlüğü
+50) Meteoroloji Genel Müdürlüğü (9)
 (…) (7)
 (…) (1)
 51) Petrol İşleri Genel Müdürlüğü
@@ -76,8 +76,9 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 (4) 17/2/2010 tarihli ve 5952 sayılı Kanunun 18 inci maddesiyle, bu cetvele 33 üncü sırasından sonra gelmek üzere "34) Kamu Düzeni ve Güvenliği Müsteşarlığı" ibaresi eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.
 (5) 25/6/2010 tarihli ve 6001 sayılı Kanunun 43 üncü maddesiyle, bu cetvelde yer alan “43) Karayolları Genel Müdürlüğü” ibaresi çıkarılmış ve cetveldeki idarelerin sıra numaraları buna göre teselsül ettirilmiştir.
 (6) 11/12/2010 tarihli ve 6087 sayılı Kanunun 46 ncı maddesiyle, bu cetvele 6 ncı sırasından sonra gelmek üzere “7) Hâkimler ve Savcılar Yüksek Kurulu” ibaresi eklenmiş ve diğer sıralar buna göre teselsül ettirilmiştir.
-(7) 3/6/2011 tarihli ve 643 sayılı KHK’nin 13 üncü maddesiyle; bu cetvelde yer alan “15) Bayındırlık ve İskân Bakanlığı”,”18) Tarım ve Köyişleri Bakanlığı”,”20) Sanayi ve Ticaret Bakanlığı”,”23) Çevre ve Orman Bakanlığı”, “30) Devlet Planlama Teşkilatı Müsteşarlığı “, “32) Dış Ticaret Müsteşarlığı “,”33) Gümrük Müsteşarlığı”,”36) Avrupa Birliği Genel Sekreterliği”,“39) Özürlüler İdaresi Başkanlığı”,”46) Tarım Reformu Genel Müdürlüğü”,”49) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü”,”50) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü, 51) Aile ve Sosyal Araştırmalar Genel Müdürlüğü, 52) Kadının Statüsü Genel Müdürlüğü” sıraları yürürlükten kaldırılmış olup, aynı cetvele 23 üncü sırasından sonra gelmek üzere “24) Aile ve Sosyal Politikalar Bakanlığı, 25) Avrupa Birliği Bakanlığı ,26) Bilim, Sanayi ve Teknoloji Bakanlığı , 27) Çevre, Orman ve Şehircilik Bakanlığı ,28) Ekonomi Bakanlığı, 29) Gençlik ve Spor Bakanlığı, 30) Gıda, Tarım ve Hayvancılık Bakanlığı, 31) Gümrük ve Ticaret Bakanlığı, 32) Kalkınma Bakanlığı” sıraları eklenmiş ve diğer sıralar buna göre teselsül ettirilmiş, daha sonra bu sıra 29/6/2011 tarihli ve 644 sayılı KHK’nin 37 nci maddesiyle cetvelde yer aldığı şekilde değiştirilmiş ve teselsül ettirilmiştir.
+(7) 3/6/2011 tarihli ve 643 sayılı KHK’nin 13 üncü maddesiyle; bu cetvelde yer alan “15) Bayındırlık ve İskân Bakanlığı”,”18) Tarım ve Köyişleri Bakanlığı”,”20) Sanayi ve Ticaret Bakanlığı”,”23) Çevre ve Orman Bakanlığı”, “30) Devlet Planlama Teşkilatı Müsteşarlığı “, “32) Dış Ticaret Müsteşarlığı “,”33) Gümrük Müsteşarlığı”,”36) Avrupa Birliği Genel Sekreterliği”,“39) Özürlüler İdaresi Başkanlığı”,”46) Tarım Reformu Genel Müdürlüğü”,”49) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü”,”50) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü, 51) Aile ve Sosyal Araştırmalar Genel Müdürlüğü, 52) Kadının Statüsü Genel Müdürlüğü” sıraları yürürlükten kaldırılmış olup, aynı cetvele 23 üncü sırasından sonra gelmek üzere “24) Aile ve Sosyal Politikalar Bakanlığı, 25) Avrupa Birliği Bakanlığı , 26) Bilim, Sanayi ve Teknoloji Bakanlığı , 27) Çevre, Orman ve Şehircilik Bakanlığı ,28) Ekonomi Bakanlığı, 29) Gençlik ve Spor Bakanlığı, 30) Gıda, Tarım ve Hayvancılık Bakanlığı, 31) Gümrük ve Ticaret Bakanlığı, 32) Kalkınma Bakanlığı” sıraları eklenmiş ve diğer sıralar buna göre teselsül ettirilmiş, daha sonra bu sıra 29/6/2011 tarihli ve 644 sayılı KHK’nin 37 nci maddesiyle cetvelde yer aldığı şekilde değiştirilmiş ve teselsül ettirilmiştir.
 (8) 26/9/2011 tarihli ve 655 sayılı KHK’nin 44 üncü maddesiyle, bu cetvelin 17 nci sırası “Ulaştırma, Denizcilik ve Haberleşme Bakanlığı” şeklinde değiştirilmiş ve aynı cetvelin “41) Denizcilik Müsteşarlığı” sırası yürürlükten kaldırılmıştır.
+(9) 10/10/2011 tarihli ve 657 sayılı KHK’nin 16 ncı maddesiyle, bu cetvelde yer alan “Devlet Meteoroloji İşleri” ibaresi “Meteoroloji” şeklinde değiştirilmiştir.
 (II) SAYILI CETVEL (1)
 (Değişik: 22/12/2005-5436/12 md.)
 ÖZEL BÜTÇELİ İDARELER
