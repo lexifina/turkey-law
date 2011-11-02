@@ -1,4 +1,4 @@
-İKİNCİBÖLÜM
+İKİNCİ BÖLÜM
 Merkezî Yönetim Bütçe Kanunu
 Merkezî yönetim bütçe kanununun kapsamı
 MADDE 15 -Merkezî yönetim bütçe kanunu, merkezî yönetim kapsamındaki kamu idarelerinin gelir ve gider tahminlerini gösteren, bunların uygulanmasına ve yürütülmesine yetki ve izin veren kanundur.

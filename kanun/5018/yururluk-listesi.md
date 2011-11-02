@@ -43,3 +43,5 @@ KHK/656 | (II) Sayılı Cetvel | 2/11/2011
 KHK/657 | (I) Sayılı Cetvel | 2/11/2011
 KHK/662 | (I) ve (II) Sayılı Cetvel | 2/11/2011
 KHK/658 | (II) Sayılı Cetvel | 2/11/2011
+KHK/659 | 16, 17 | 2/11/2011
+KHK/660 | (III) Sayılı Cetvel | 2/11/2011
