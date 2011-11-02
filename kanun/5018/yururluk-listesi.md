@@ -39,3 +39,4 @@ KHK/644 | (I) Sayılı Cetvel | 12/6/2011 tarihinde yapılan milletvekili seçim
 KHK/648 | (II) Sayılı Cetvel | 17/8/2011
 KHK/649 | (II) Sayılı Cetvel | 17/8/2011
 KHK/655 | (I) Sayılı Cetvel | 1/11/2011
+KHK/656 | (II) Sayılı Cetvel | 2/11/2011
