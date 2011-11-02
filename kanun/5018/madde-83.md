@@ -257,6 +257,7 @@ DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR
 6) Kamu İhale Kurumu
 7) Rekabet Kurumu
 8) Tütün ve Alkol Piyasası Düzenleme Kurumu (1)
+9) (Ek: 26/9/2011-KHK-660/32 md.) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu
 (IV) SAYILI CETVEL
 (Değişik: 16/5/2006-5502/42 md.)
 SOSYAL GÜVENLİK KURUMLARI
