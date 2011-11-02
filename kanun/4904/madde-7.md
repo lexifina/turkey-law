@@ -1,5 +1,5 @@
 Genel Müdürlük
-MADDE 7 – (Değişik: 11/10/2011-KHK-665/18 md.)
+Madde 7 - (Değişik: 11/10/2011-KHK-665/18 md.)
 Genel Müdürlük, merkez ve taşra teşkilatından oluşur.
 Kurumun en üst amiri olan Genel Müdür, Genel Kurulun önerilerini de dikkate alarak Yönetim Kurulu kararları ile mevzuat doğrultusunda bütün işleri yürütür.
 Genel Müdürün görev, yetki ve sorumlulukları şunlardır:
@@ -15,3 +15,4 @@ i) Özel kanunlarda yer alan hükümler saklı kalmak kaydıyla Kurum kadroları
 Genel Müdür, temsil yetkisini gerektiğinde genel hükümlere göre alt kademelere devredebilir. Kurum avukatının bulunmadığı yerlerde ve zamanlarda bunlara ait görevlerin yerine getirilmesinde, icra ve yargı mercileri nezdindeki temsil yetkisini uygun göreceği Kurum personeline devredebilir.
 Genel Müdür, Genel Müdür Yardımcısı ve I. Hukuk Müşaviri kadrolarına müşterek kararname, Daire Başkanı ve İl Müdürü kadrolarına Genel Müdürün teklifi üzerine Bakan onayı, bunların dışında kalan Kurum kadrolarına ise Genel Müdür onayı ile atama yapılır.
 Görevlerin yürütülmesinde Genel Müdüre yardımcı olmak üzere dört Genel Müdür Yardımcısı görevlendirilebilir. Genel Müdür Yardımcıları, Genel Müdüre karşı sorumludur.
+8482

@@ -1,5 +1,5 @@
 Merkez teşkilatı
-MADDE 8 - (Değişik: 11/10/2011-KHK-665/19 md.)
+Madde 8 - (Değişik: 11/10/2011-KHK-665/19 md.)
 Kurumun merkez teşkilatı aşağıdaki hizmet birimlerinden oluşur:
 a) İstihdam Hizmetleri Dairesi Başkanlığı.
 b) Aktif İşgücü Hizmetleri Dairesi Başkanlığı.

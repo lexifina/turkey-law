@@ -1,10 +1,13 @@
 İl istihdam ve mesleki eğitim kurulları (1)
-MADDE 13 – (Değişik: 15/5/2008-5763/21 md.)
+Madde 13 – (Değişik: 15/5/2008-5763/21 md.)
 İlin işgücü, istihdam ve mesleki eğitim ihtiyacını tespit etmek veya ettirmek, mesleki ve teknik eğitim okul ve kurumları ile işletmelerde yapılacak mesleki eğitim ve istihdam konularında etkinlik ve verimliliği artırmak amacıyla yerel düzeyde politikalar oluşturmak, plan yapmak ve kararlar almak, ilgili kurum ve kuruluşlara görüş ve önerilerde bulunmak üzere illerde İl İstihdam ve Mesleki Eğitim Kurulu kurulur.
 Kurul valinin başkanlığında aşağıda sayılan üyelerden oluşur:
 a) Belediye Başkanı, büyükşehir belediyesi bulunan illerde Büyükşehir Belediye Başkanı veya genel sekreteri veya yardımcısı.
 b) İl Özel İdaresi Genel Sekreteri.
 c) İl Milli Eğitim Müdürü.
+–––––––––––––
+(1) Bu madde başlığı ” İl istihdam kurulları ve görevleri” iken, 15/5/2008 tarihli ve 5763 sayılı Kanunun 21 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+8484
 ç) (Değişik: 11/10/2011-KHK-665/22 md.) İl Bilim, Sanayi ve Teknoloji Müdürü.
 d) (Değişik: 11/10/2011-KHK-665/22 md.) Çalışma ve İş Kurumu İl Müdürü.
 e) İl Ticaret ve/veya Sanayi Odası Başkanı.
@@ -22,14 +25,13 @@ d) Mesleki eğitim, işgücü ve istihdam konularında kurum ve kuruluşlardan g
 e) İl düzeyinde istihdamı koruyucu, geliştirici ve işsizliği önleyici tedbirleri belirlemek ve gereği için ilgili kurum ve kuruluşlara bildirmek.
 f) İşgücü piyasası araştırma sonuçları da dikkate alınarak İl Milli Eğitim Müdürlüğü ve Kurum tarafından hazırlanan işgücü yetiştirme faaliyetlerine ilişkin planları onaylamak ve bunların uygulama sonuçlarını izlemek.
 g) Bu madde hükümlerinin il seviyesinde eksiksiz yerine getirilmesi için gerekli tedbirleri almak.
-–––––––––––––––––––
-(1) Bu madde başlığı “İl istihdam kurulları ve görevleri” iken, 15/5/2008 tarihli ve 5763 sayılı Kanunun 21 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Kurul kararları bağlayıcıdır. Kurul, alınan kararlara ilişkin eylem planı hazırlar, sorumlu kurum ve kuruluşları belirler, uygulamaları ve sonuçlarını takip eder.
 Kurul, üç ayda bir toplanır. Kurulun sekretarya görevi Kurum İl Müdürlüğü ile İl Milli Eğitim Müdürlüğü tarafından kendi görev alanları ile sınırlı kalmak kaydıyla müştereken yürütülür. Alınan kararların uygulanmasının takibi ile diğer faaliyet ve işgücü piyasasına yönelik araştırmalar, Yürütme Kurulu tarafından yerine getirilir.
-(Değişik altıncı fıkra: 28/1/2012-5951/9 md.) İşgücü yetiştirme faaliyetleri ve sonuçları Denetim Kurulu tarafından denetlenir. Denetim Kurulu; Kurul başkanının onayıyla, biri Kurum temsilcisi, diğeri Kurul üyesi diğer kurum ve kuruluş temsilcileri arasından seçilecek bir üye olmak üzere iki üyeden oluşur. İhtiyaç duyulması hâlinde birden fazla Denetim Kurulu oluşturulabilir. Denetim raporları Kurula bildirilir.
+(Değişik altıncı fıkra: 28/1/2010-5951/9 md.) İşgücü yetiştirme faaliyetleri ve sonuçları Denetim Kurulu tarafından denetlenir. Denetim Kurulu; Kurul başkanının onayıyla, biri Kurum temsilcisi, diğeri Kurul üyesi diğer kurum ve kuruluş temsilcileri arasından seçilecek bir üye olmak üzere iki üyeden oluşur. İhtiyaç duyulması hâlinde birden fazla Denetim Kurulu oluşturulabilir. Denetim raporları Kurula bildirilir.
+8484-1
 Kurul tarafından her yıl faaliyet raporu düzenlenir. Düzenlenen rapor, Kurum Yönetim Kurulu tarafından değerlendirildikten sonra ilgili bakanlıklara gönderilir.
-(Değişik sekizinci fıkra: 28/1/2012-5951/9 md.) Kurum tarafından; Kurul üyelerine yılda dörtten, Yürütme Kurulu üyelerine ayda ikiden fazla olmamak üzere her toplantı için (3000) gösterge rakamını geçmeyecek şekilde Kurum Yönetim Kurulunca belirlenecek gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutar üzerinden toplantı ücreti ödenir. Denetim Kurulu üyelerine ise ayda otuz işgücü yetiştirme kursunu geçmemek üzere denetlenen kurs başına (300) gösterge rakamını geçmeyecek şekilde Kurum Yönetim Kurulunca belirlenecek gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutar üzerinden denetim ücreti ödenir. Bu ödemeler, damga vergisi hariç herhangi bir vergiye tabi tutulmaz. Birden fazla kurul üyesi olanlar bu ödemelerin en fazla birinden yararlanır.
+(Değişik sekizinci fıkra: 28/1/2010-5951/9 md.) Kurum tarafından; Kurul üyelerine yılda dörtten, Yürütme Kurulu üyelerine ayda ikiden fazla olmamak üzere her toplantı için (3000) gösterge rakamını geçmeyecek şekilde Kurum Yönetim Kurulunca belirlenecek gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutar üzerinden toplantı ücreti ödenir. Denetim Kurulu üyelerine ise ayda otuz işgücü yetiştirme kursunu geçmemek üzere denetlenen kurs başına (300) gösterge rakamını geçmeyecek şekilde Kurum Yönetim Kurulunca belirlenecek gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutar üzerinden denetim ücreti ödenir. Bu ödemeler, damga vergisi hariç herhangi bir vergiye tabi tutulmaz. Birden fazla kurul üyesi olanlar bu ödemelerin en fazla birinden yararlanır.
 Kurulun yönetim ve denetim faaliyetleri, işgücü piyasası araştırma ve planlama çalışmaları için Kurum tarafından ödenek tahsis edilir. Bu ödeneğin miktarı, aktif işgücü programları için Kurum tarafından İl Müdürlüğüne tahsis edilen toplam ödeneğin yüzde beşini geçemez.
-İl İstihdam ve Mesleki Eğitim Kurulu, Yürütme Kurulu ve Denetleme Kurulunun çalışma usul ve esasları Milli Eğitim, (…)(1) Çalışma ve Sosyal Güvenlik bakanlıkları ile Kurum tarafından müştereken çıkarılacak yönetmelikle düzenlenir. (1)
+İl İstihdam ve Mesleki Eğitim Kurulu, Yürütme Kurulu ve Denetleme Kurulunun çalışma usul ve esasları Milli Eğitim, (…)(1) Çalışma ve Sosyal Güvenlik bakanlıkları ile Kurum tarafından müştereken çıkarılacak yönetmelikle düzenlenir.(1)
 Bu Kanunda İl İstihdam Kurullarına yapılan atıflar ile 5/6/1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanununda İl Mesleki Eğitim Kuruluna yapılan atıflar İl İstihdam ve Mesleki Eğitim Kuruluna yapılmış sayılır.
 3308 sayılı Kanunun bu maddeye aykırı hükümleri uygulanmaz.

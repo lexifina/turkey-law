@@ -1,1 +1,0 @@
-MADDE 26 - 4447 sayılı Kanunun 46 ncı maddesinin, dördüncü fıkrasının ikinci cümlesindeki "Fon Yönetim Kurulu" ibaresi "Yönetim Kurulu" olarak değiştirilmiş "hastalık ve analık sigortası primlerinin Sosyal Sigortalar Kurumuna" ibaresinden sonra gelmek üzere "veya ilgili sandıklara" ibaresi eklenmiştir.

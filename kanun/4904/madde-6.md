@@ -1,10 +1,11 @@
 Yönetim Kurulunun teşkili, görev ve yetkileri
-MADDE 6- (Değişik: 11/10/2011-KHK-665/17 md.)
+Madde 6 - (Değişik: 11/10/2011-KHK-665/17 md.)
 Yönetim Kurulu;
 a) Genel Müdür,
 b) Bakanlığı temsilen Bakanın teklifi üzerine müşterek kararname ile atanan bir üye,
 c) Hazine Müsteşarlığını temsilen, Hazine Müsteşarlığının bağlı olduğu Bakanın teklifi üzerine müşterek kararname ile atanan bir üye,
 d) En çok üyeye sahip işçi konfederasyonunca belirlenen bir üye,
+8480
 e) En çok üyeye sahip işveren konfederasyonunca belirlenen bir üye,
 f) Türkiye Esnaf ve Sanatkârları Konfederasyonunca belirlenen bir üye,
 olmak üzere altı üyeden oluşur. Genel Müdür, Yönetim Kurulunun da başkanıdır. Yönetim Kuruluna, Genel Müdürün bulunmadığı hallerde Genel Müdürlüğe vekâlet eden başkanlık eder.
@@ -18,6 +19,7 @@ a) Fon kaynaklarını piyasa şartlarında değerlendirmek.
 b) Fon gelir ve giderlerinin denetlettirilmesini ve denetim raporlarının kamuoyuna açıklanmasını sağlamak.
 c) Fona ilişkin aktüeryal projeksiyonları yaptırmak.
 d) Günlük fon hareketlerinin izlenmesini, kayıtlarının tutulmasını ve genel kabul görmüş muhasebe standartlarına uygun olarak muhasebeleştirilmesini temin etmek.
+8481
 e) Kurumun bütçesini, bilançosunu, gelir-gider tablolarını, Kurum bütçesindeki bölümler içinde aktarmaları, bu bölümler arasındaki ek ve olağanüstü ödenek tekliflerini karara bağlamak.
 f) Kurumun performans hedef, gösterge ve programı ile hizmet kalite standartlarını karara bağlamak, Kurumun faaliyet raporlarını incelemek ve onaylamak,
 g) Her yıl Maliye Bakanlığınca belirlenen yeniden değerleme oranında miktarı artırılmak üzere bedeli beşyüz bin Türk Lirası ve üzeri olan sözleşmeler ve yapılacak işler hakkında karar vermek.

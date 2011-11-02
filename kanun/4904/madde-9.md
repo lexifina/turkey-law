@@ -1,4 +1,5 @@
-MADDE 9- (Değişik: 11/10/2011-KHK-665/20 md.)
+Hizmet birimlerinin görevleri(1)
+Madde 9 - (Değişik: 11/10/2011-KHK-665/20 md.)
 Hizmet birimlerinin görevleri şunlardır:
 a) İstihdam Hizmetleri Dairesi Başkanlığının görevleri şunlardır:
 1) Ulusal istihdam politikalarının oluşturulmasına yardımcı olmak amacıyla çalışmalar yapmak veya yaptırmak.
@@ -14,6 +15,9 @@ b) Aktif İşgücü Hizmetleri Dairesi Başkanlığının görevleri şunlardır
 1) Meslek edindirme, geliştirme ve değiştirme kursları düzenlemek.
 2) İstihdamda özel politika gerektiren grupların istihdamını kolaylaştırıcı mesleki eğitim ve mesleki rehabilitasyon hizmetleri vermek veya verdirmek, diğer işgücü yetiştirme ve uyum programlarını uygulamak.
 3) Genel Müdür tarafından verilen diğer görevleri yapmak.
+_______________
+(1) Bu maddenin başlığı “Ana hizmet birimleri” iken 11/10/2011 tarihli ve 665 sayılı KHK’nin 20 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+8482-1
 c) İş ve Meslek Danışmanlığı Dairesi Başkanlığının görevleri şunlardır:
 1) Kuruma kayıtlı iş arayanlara ve işverenlere iş ve meslek danışmanlığı hizmetleri vermek.
 2) Öğrencilere ve iş arayanlara mesleki rehberlik hizmetleri sunmak.
@@ -31,8 +35,6 @@ e) Dış İlişkiler ve Projeler Dairesi Başkanlığının görevleri şunlard�
 2) Uluslararası alanda faaliyet gösteren kuruluşlarla Kurumun görev alanına giren konularda uluslararası sözleşmeler de dahil olmak üzere ilişkileri düzenlemek, gerekli irtibat ve eşgüdümü sağlamak.
 3) Kurumun görev alanı ile ilgili olarak Avrupa Birliği ve diğer uluslararası kuruluşların mevzuatı ve uygulamaları konusunda inceleme ve araştırmalar yapmak, yaptırmak ve ilgililere duyurmak, bunlarla işbirliği içinde gerçekleştirilecek projeleri hazırlamak ve yürütmek.
 4) Kurum faaliyetleri çerçevesinde yurtdışından gelen heyetler ve Kurumdan yurtdışına gönderilecekler ile ilgili iş ve işlemleri yürütmek.
-–––––––––––––––––
-(1) Bu madde başlığı “Ana hizmet birimleri” iken, 11/10/2011 tarihli ve 665 sayılı KHK’nin 20 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 5) Yurtdışı ilişkilerle ilgili protokol işlerini yürütmek.
 6) Genel Müdür tarafından verilen diğer görevleri yapmak.
 f) İşsizlik Sigortası Dairesi Başkanlığının görevleri şunlardır:
@@ -44,6 +46,7 @@ g) Fon Yönetimi ve Aktüerya Dairesi Başkanlığının görevleri şunlardır:
 2) Fon hareketlerini izlemek ve Fonun değerlendirilmesi ile ilgili olarak finansal piyasaları takip etmek.
 3) Fonun aktüeryal işlemlerini yürütmek.
 4) Genel Müdür tarafından verilen diğer görevleri yapmak.
+8482-2
 h) Hukuk Müşavirliğinin görevleri şunlardır:
 1) Kurumun taraf olduğu adli ve idari davalarda, tahkim yargılamasında ve icra işlemlerinde Kurumu temsil etmek, dava ve icra işlemlerini takip etmek, anlaşmazlıkları önleyici hukuki tedbirleri zamanında almak.
 2) Kurum hizmetleriyle ilgili olarak diğer kamu kurum ve kuruluşları tarafından hazırlanan mevzuat taslaklarını, Kurum birimleri tarafından düzenlenecek her türlü sözleşme ve şartname taslaklarını, Kurum ile üçüncü kişiler arasında çıkan her türlü uyuşmazlıklara ilişkin işleri ve Kurum birimlerince sorulacak diğer işleri inceleyip hukuki mütalaasını bildirmek.
@@ -67,6 +70,7 @@ k) Destek Hizmetleri Dairesi Başkanlığının görevleri şunlardır:
 6) Genel Müdür tarafından verilen diğer görevleri yapmak.
 l) Bilgi İşlem Dairesi Başkanlığının görevleri şunlardır:
 1) Kurumun bilgi işlem hizmetlerini yürütmek.
+8483
 2) Kurumun internet sayfaları, elektronik imza ve elektronik belge uygulamaları ile ilgili teknik çalışmaları yapmak.
 3) Kurum hizmetleriyle ilgili olarak diğer birimlerle işbirliği içinde veri tabanları oluşturmak ve bilgileri toplamak.
 4) Kurumun mevcut bilişim altyapısının kurulumu, bakımı, ikmali, geliştirilmesi ve güncellenmesi ile ilgili işleri yürütmek, elektronik haberleşme güvenliğini sağlamak ve bu konularda görev üstlenen personelin bilgi teknolojilerindeki gelişmelere paralel olarak düzenli şekilde hizmet içi eğitim almalarını sağlamak.
