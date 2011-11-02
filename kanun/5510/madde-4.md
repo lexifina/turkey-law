@@ -22,7 +22,8 @@ c) Mütekabiliyet esasına dayalı olarak uluslararası sosyal güvenlik sözle�
 d) 2/7/1941 tarihli ve 4081 sayılı Çiftçi Mallarının Korunması Hakkında Kanuna göre çalıştırılanlar,
 e) 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzısıhha Kanununda belirtilen umumî kadınlar,
 f) Milli Eğitim Bakanlığı tarafından düzenlenen kurslarda usta öğretici olarak çalıştırılanlar, kamu idarelerinde ders ücreti karşılığı görev verilenler ile 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (C) bendi kapsamında çalıştırılanlar,
-hakkında da uygulanır.
+g) (Ek: 11/10/2011-KHK-665/29 md.) Türkiye İş Kurumu tarafından düzenlenen Toplum Yararına Çalışma Programlarından yararlananlar,
+hakkında da uygulanır. (Ek cümle: 11/10/2011-KHK-665/29 md.) Bu fıkranın (g) bendinde sayılanlar için Türkiye İş Kurumu prim ödeme yükümlüsü olmakla birlikte bu Kanun kapsamında işyeri ve işveren sayılmaz.
 Birinci fıkranın (b) bendi gereği sigortalı sayılanlara ilişkin hükümler; 10/7/1953 tarihli ve 6132 sayılı At Yarışları Hakkında Kanuna tabi jokey ve antrenörler hakkında da uygulanır.
 Birinci fıkranın (c) bendi gereği sigortalı sayılanlara ilişkin hükümler;
 a) Kuruluş ve personel kanunları veya diğer kanunlar gereğince seçimle veya atama yoluyla kamu idarelerinde göreve gelenlerden; bu görevleri sebebiyle kendilerine ilgili kanunlarında Devlet memurları gibi emeklilik hakkı tanınmış olanlardan hizmet akdi ile çalışmayanlar,
