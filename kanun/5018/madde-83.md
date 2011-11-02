@@ -221,7 +221,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)
 27) Türkiye Atom Enerjisi Kurumu
 28) Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı
 (…) (5)
-30) Türk İşbirliği ve Kalkınma İdaresi Başkanlığı
+30) (Değişik: 24/10/2011-KHK-656/20 md.) Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı
 (…) (6)
 32) GAP Bölge Kalkınma İdaresi
 33) Özelleştirme İdaresi Başkanlığı
