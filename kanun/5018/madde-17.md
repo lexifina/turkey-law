@@ -1,4 +1,4 @@
-Merkezî yönetim bütçesinin hazırlanması
+Merkezî yönetim bütçesinin hazırlanması (2)
 MADDE 17 -Gelir ve gider tekliflerinin hazırlanmasında;
 a) Orta vadeli program ve malî planda belirlenen temel büyüklükler ile ilke ve esaslar,
 b) Kalkınma planı ve yıllık program öncelikleri ile kurumun stratejik planları çerçevesinde belirlenmiş ödenek tavanları,
@@ -7,6 +7,9 @@ d)İdarenin performans hedefleri,
 Dikkate alınır.
 Kamu idareleri, merkez ve merkez dışı birimlerinin ödenek taleplerini dikkate alarak gider tekliflerini hazırlar. Genel bütçe gelir teklifi Maliye Bakanlığınca, diğer bütçelerin gelir teklifleri ilgili idarelerce hazırlanır.
 (Değişik üçüncü fıkra: 22/12/2005-5436/10 md.) Gider ve gelir teklifleri, ekonomik ve malî analiz yapılmasına imkân verecek, hesap verilebilirliği ve saydamlığı sağlayacak şekilde, Maliye Bakanlığınca uluslararası standartlara uyumlu olarak belirlenen sınıflandırma sistemine göre hazırlanır.
-Kamu idareleri, stratejik planları ile Bütçe Hazırlama Rehberinde yer alan esaslar çerçevesinde, bütçe gelir ve gider tekliflerini gerekçeli olarak hazırlar ve yetkilileri tarafından imzalanmış olarak Temmuz ayı sonuna kadar Maliye Bakanlığına gönderir. Kamu idarelerinin yatırım teklifleri, değerlendirilmek üzere aynı süre içinde Devlet Planlama Teşkilatı Müsteşarlığına verilir.
+Kamu idareleri, stratejik planları ile Bütçe Hazırlama Rehberinde yer alan esaslar çerçevesinde, bütçe gelir ve gider tekliflerini gerekçeli olarak hazırlar ve yetkilileri tarafından imzalanmış olarak en geç Eylül ayı sonuna kadar Maliye Bakanlığına gönderir. Kamu idarelerinin yatırım teklifleri, değerlendirilmek üzere aynı süre içinde Devlet Planlama Teşkilatı Müsteşarlığına verilir. (1)
 Bütçe teklifleri Maliye Bakanlığına verildikten sonra, kamu idarelerinin yetkilileriyle gider ve gelir teklifleri hakkında görüşmeler yapılabilir.
 Düzenleyici ve denetleyici kurumlar, bütçelerini üç yıllık bütçeleme anlayışı, stratejik planları ve performans hedefleri ile kurumsal, işlevsel ve ekonomik sınıflandırma sistemine göre hazırlarlar.
+–––––––––––––––––
+(1) 26/9/2011 tarihli ve 659 sayılı KHK’nin 17 nci maddesiyle, bu maddenin ikinci fıkrasında yer alan “Mayıs ayının sonuna kadar” ibaresi “en geç Eylül ayının ilk haftası sonuna kadar” şeklinde, üçüncü fıkrasında yer alan “Haziran” ibaresi “en geç Eylül” şeklinde ve dördüncü fıkrasında yer alan “Haziran ayının sonuna kadar” ibaresi “en geç Eylül ayının onbeşine kadar” şeklinde değiştirilmiştir.
+(2) 26/9/2011 tarihli ve 659 sayılı KHK’nin 17 nci maddesiyle, bu maddenin dördüncü fıkrasında yer alan “Temmuz” ibaresi “en geç Eylül” şeklinde değiştirilmiştir.
