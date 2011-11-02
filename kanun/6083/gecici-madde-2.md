@@ -1,0 +1,2 @@
+Devir hükümleri
+GEÇİCİ MADDE 2 – (1) Bu Kanunun yürürlüğe girdiği tarihte Genel Müdürlük taşra teşkilatında kapatılan birimlere ait taşınır, araç, gereç, malzeme, demirbaş, taşıt ve her türlü hak ve yükümlülükler ile tahsisli hizmet binaları ve lojmanlar hiçbir işleme gerek kalmaksızın Genel Müdürlükçe mevcut mevzuat hükümlerine göre belirlenecek usul ve esaslar çerçevesinde Tapu ve Kadastro Bölge Müdürlükleri, Kadastro Müdürlükleri ve Tapu Müdürlüklerine devredilir. Bu devir işlemleri her türlü vergi, resim ve harçtan muaftır.

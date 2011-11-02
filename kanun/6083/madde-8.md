@@ -1,0 +1,8 @@
+DÖRDÜNCÜ BÖLÜM
+Döner Sermaye İşletmesi, Çeşitli ve Son Hükümler
+Döner sermaye işletmesi
+MADDE 8 – (1) Genel Müdürlük, ürettiği her türlü tapu, kadastro, harita ve arşiv bilgi ve belgeleri ile sunduğu hizmetlerden gelir elde etmek üzere merkez veya bölge müdürlükleri bünyesinde döner sermaye işletmeleri kurar.
+(2) Döner sermaye işletmeleri için kendi kaynaklarından karşılanmak üzere dört milyon Türk Lirası sermaye tahsis edilmiştir. Bu miktar Maliye Bakanlığının uygun görüşü üzerine Bakanlar Kurulunca beş katına kadar artırılabilir. Bu suretle artırılan sermaye elde edilen kârlarla karşılanır. Ödenmiş sermaye tutarı tahsis edilen sermaye tutarına ulaştıktan sonra elde edilen kârlar, döner sermaye hizmetlerinde kullanılmak üzere ertesi yılın gelirlerine ilave edilir.
+(3) Genel Müdürlük faaliyetlerinin gerektirdiği araç, gereç, satın alma, bakım, onarım, yapım, sigorta, kiralama, araştırma, tanıtım, temsil, eğitim giderleri, yurtdışında yürütülecek proje giderleri, kadastro hizmetlerinin yapılması, yenilenmesi, güncellenmesi ve her türlü harcamalar döner sermaye gelirlerinden karşılanabilir.
+(4) Döner sermaye faaliyetlerine ilişkin hizmetler Genel Müdürlük personeline ek görev olarak yaptırıldığı takdirde, döner sermaye gelirlerinden ödenmek üzere, kendilerine (100-300) rakamlarının memur aylıklarına uygulanan katsayı ile çarpımından elde edilecek tutardan, yaptıkları hizmetin özelliğine ve güçlüğüne göre Genel Müdürün onayı ile belirlenecek miktarda aylık ek görev ücreti verilebilir.
+(5) Döner sermaye işletmelerinin yönetimi, faaliyet alanları, işleyişi, sermaye kaynakları, her türlü idari ve mali işlemleri ile gelirlerine ilişkin usul ve esaslar Maliye Bakanlığının da görüşü alınarak çıkartılacak yönetmelikle belirlenir.
