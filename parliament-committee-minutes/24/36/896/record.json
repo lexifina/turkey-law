@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "SANAYİ, TİCARET, ENERJİ, TABİİ KAYNAKLAR, BİLGİ VE TEKNOLOJİ KOMİSYONU",
+  "committee_id": 36,
+  "meeting_date": "2011-11-03",
+  "meeting_date_as_published": "03/11/2011",
+  "agenda": [
+    "YABANCI SİVİL KURULUŞ TEMSİLCİLERİNİN AĞIRLANIP SORULARININ CEVAPLANDIRILMASI VE KOMİSYON GÜNDEMİ KONUSUNDA BRİFİNG VERİLMESİ"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/896",
+  "pdf_sha256": "9e56aee5314eb98cc63db73b49a9591dccc2c1ada29f702f63d6b81be7f5d869",
+  "pdf_pages": 11,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=36)",
+  "listing_sha256": "70a892f720e6bf1cf78cf2de524ed1e3bd3d2d02419f41f1a9f428f9bb44b671",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-11-03",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
