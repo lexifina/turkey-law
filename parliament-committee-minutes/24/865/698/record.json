@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KADIN ERKEK FIRSAT EŞİTLİĞİ KOMİSYONU",
+  "committee_id": 865,
+  "meeting_date": "2011-11-03",
+  "meeting_date_as_published": "03/11/2011",
+  "agenda": [
+    "24'ÜNCÜ DÖNEM İÇİN YOL HARİTASININ BELİRLENMESİ, KOMİSYONUN GERÇEKLEŞTİRECEĞİ FAALİYETLER, PROJELER VE KOMİSYONA YAPILAN BAŞVURULAR HAKKINDA BİLGİLENDİRME"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/698",
+  "pdf_sha256": "75de79bfdc5b5dc58e415102297fa89002c9eb3d7e4634d9ddb55b8f034e2e70",
+  "pdf_pages": 27,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=865)",
+  "listing_sha256": "b1d20ec46dbf18ae37b5c6764209e927d968ee7d16bcdcc8fcf22ca66d006a27",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-11-03",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
