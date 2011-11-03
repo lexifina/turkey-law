@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KAMU İKTİSADİ TEŞEBBÜSLERİ KOMİSYONU",
+  "committee_id": 15,
+  "meeting_date": "2011-11-03",
+  "meeting_date_as_published": "03/11/2011",
+  "agenda": [
+    "TÜRKİYE İHRACAT KREDİ VE DENİZCİLİK İŞLETMELERİ GENEL MÜDÜRLÜĞÜ VE KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜNÜN 2009 YILINA AİT BİLANÇO VE NETİCE HASAPLARININ GÖRÜŞÜLMESİ"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/383",
+  "pdf_sha256": "d7e9cf0556d0ab4612989498149b9052c33f5aa1b2da38acf51aa35d1bb34176",
+  "pdf_pages": 51,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=15)",
+  "listing_sha256": "0dc889625a43960f41a70f9bc21885fb2bc2789f7a2feaf357be8aa9f141f856",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-11-03",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
