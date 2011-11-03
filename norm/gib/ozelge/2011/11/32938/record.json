@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.45.15.01-KDV-53-41-106",
+  "source_id": 32938,
+  "date": "2011-11-03",
+  "title": "İthal Edilen Mikroskop ve Aksamlarında Uygulanacak KDV Oranı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32938",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "1c1b5f87f909234b47cb07955a83ce356b898f5bd7f19679c35e0d811257505c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
