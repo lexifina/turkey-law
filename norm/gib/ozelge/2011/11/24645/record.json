@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-GVK 94-1969",
+  "source_id": 24645,
+  "date": "2011-11-03",
+  "title": "Diyanet İşleri Başkanlığı tarafından yönetilen taşınmazların kiralanmasında yapılacak tevkifat hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24645",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "cf7b105da36cdc8d4f19ef3ad1ff9bba4714622e4f3d92c49abf30d8a2ba8a7b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
