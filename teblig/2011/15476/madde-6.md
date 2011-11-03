@@ -1,0 +1,2 @@
+Ücretlerin belirlenmesi
+MADDE 6 – (1) Bu Karar kapsamındaki kuruluşlarda açıktan veya naklen atanan, eğitim düzeyi, görev yeri veya unvanı değişen veya kuruluş içinde aynı unvandakilere göre daha az ücret alan sözleşmeli ve kapsam dışı personelin ücretlerini, personelin unvanı, eğitim düzeyi, iş gerekleri, işyeri ve çalışma şartları dikkate alınarak en düşük ve en yüksek ücretler dahilinde belirlemeye ilgili kuruluş yönetim kurulu yetkilidir.
