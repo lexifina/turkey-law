@@ -1,0 +1,2 @@
+Bölgesel acil durum
+MADDE 5 – (1) Bölgesel acil durum hallerinde, yerel acil durum yöneticilerinin bilgilendirmeleri doğrultusunda, genel acil durum yöneticisi, yükümlüleri işlemlerin elektronik ortamda yürütülebildiği başka bir gümrük idaresine yönlendirilmesi talimatı verebileceği gibi kâğıt ortamında işlem yapılması da dâhil olmak üzere işlemlerin aksamaksızın yürütülmesi için her türlü kararı alır.

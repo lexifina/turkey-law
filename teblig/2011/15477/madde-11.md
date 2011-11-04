@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Genel Hükümler
+Ortak hükümler
+MADDE 11 – (1) Acil durum hallerinde, elektronik veri değişimi yapılan kurum ve kuruluşlar tarafından düzenlenen veri değişimine konu belgeler gümrük idarelerince kâğıt ortamında kabul edilir.
+(2) Genel acil durumlarda toplu teminat kullanımına izin verilmez. Ancak yerel ve bölgesel acil durumlarda, bilgisayar sistemi çalışmakta olan başka bir gümrük idaresinden toplu teminatın kullanılabilir durumda olduğuna ilişkin teyit alınarak toplu teminat kullanımına izin verilir. UND-NET teminatının kullanıldığı hallerde ilgili kuruluştan teyit alınmak suretiyle işlem tesis edilir.
+(3) Elektronik ortamda başlatılmış ancak acil durumun ortaya çıkması nedeniyle sonuçlandırılamamış işlemler, yükümlülerin yazılı talebi doğrultusunda elektronik ortamda düzenlenmiş olan beyannamenin rejim şartları çerçevesinde kâğıt ortamında sonuçlandırılır. Acil durumun sona ermesini müteakip kağıt ortamında yapılan işlemlere ilişkin beyanname kapsamı veriler yükümlülerce veri giriş programı aracılıyla elektronik ortama aktarılır. Bu aktarım sırasında kağıt ortamında işlem gören beyannamelerin tescil numarası ile daha önce elektronik ortamda işlemleri başlatılmış ancak acil durum hali nedeniyle tamamlanmamış beyannamelerin tescil numaralarının her ikisi de sisteme girilir.
