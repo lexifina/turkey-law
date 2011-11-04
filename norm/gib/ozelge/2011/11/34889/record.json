@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.33.15.01-2010-705-58-86",
+  "source_id": 34889,
+  "date": "2011-11-04",
+  "title": "Serbest meslek erbabının sürekli damga vergisi mükellefiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34889",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "54c811611f9f0eaaff38e5920aeffc4de52708246ba74438e8de2f9e3dc38630",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
