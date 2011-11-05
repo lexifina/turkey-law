@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1 - (1) Bu Tebliğ, 8508.11.00.00.19; 8509.40.00.00.11; 8509.40.00.00.12; 8509.40.00.00.13; 8509.40.00.00.15; 8509.40.00.00.19; 8509.80.00.00.11; 8516.31.00.00.19; 8516.60.90.00.11 gümrük tarife istatistik pozisyonlarında yer alan eşyanın ithalatında 23/10/2011 tarihli ve 28093 sayılı Resmî Gazete’de yayımlanan 2011/2297 sayılı Bakanlar Kurulu Kararı çerçevesinde açılan tarife kontenjanının başvuru ve dağıtım ile kullanım usul ve esaslarını içermektedir.
