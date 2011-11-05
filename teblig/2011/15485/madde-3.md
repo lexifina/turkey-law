@@ -1,0 +1,2 @@
+Tarife kontenjanının dağıtılması
+MADDE 3 - (1) Tarife kontenjanı, İthalatta Kota ve Tarife Kontenjanı İdaresi Hakkında Kararın 4 üncü maddesi çerçevesinde başvuru sırasına göre ilk gelen ilk alır yöntemiyle dağıtılır. Başvuru sırasının belirlenmesinde Bakanlık genel evrak giriş tarih ve numarası esas olup, postadaki gecikmeler dikkate alınmaz. Bir ithal lisansında verilebilecek tarife kontenjanı miktarı 5.000 Kg’yi (brüt) ve 5.000 adedi (her iki koşulu birden sağlayarak) geçemez. Bir ithal lisansı sadece bir ülke veya gümrük bölgesi için düzenlenir.
