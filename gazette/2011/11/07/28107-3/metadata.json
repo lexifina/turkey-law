@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-11-07",
+  "issue": "28107",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "SINIR TESPİT KARARLARI",
+  "title": "Sınır Tespitine Dair Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111107-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111107.htm",
+  "index_sha256": "8677a44c924adb15337670a2ce036d41d7fd62bbab48fb58d68e6d28cb6f7e99",
+  "index_header": "7 Kasım 2011 ... 28107 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
