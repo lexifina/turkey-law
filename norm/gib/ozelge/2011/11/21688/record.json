@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[61-11/4]-989",
+  "source_id": 21688,
+  "date": "2011-11-11",
+  "title": "Konut yönetimi tarafından başkan, üye ve denetçilere yapılan ödemelerde tevkifat ve asgari geçim indirimi uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21688",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "aec4669365bc9f4e84871c8ef2895502eb3ddfb579c5c732a7ccd9801a57c6b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
