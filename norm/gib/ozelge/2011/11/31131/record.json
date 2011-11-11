@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.02-KDV-2010-144-356",
+  "source_id": 31131,
+  "date": "2011-11-11",
+  "title": "Serbest Bölgeye Verilen Tank Kiralama Hizmetinde KDV hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31131",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "dab13e1069fa7e1e62f0805db928c9fc09056d4c556056dc37d62474c13f7edc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
