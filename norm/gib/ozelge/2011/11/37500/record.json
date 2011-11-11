@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.54.15.01-122-2011-10-42",
+  "source_id": 37500,
+  "date": "2011-11-11",
+  "title": "Teknokent bünyesinde yürütülen ve KOSGEB tarafından desteklenen proje nedeniyle 5746 sayılı Kanundaki indirim, istisna, destek ve teşviklerden yararlanılıp yararlanılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37500",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "0f50ee394640506f63eb86653dc899028255ca3157657c3b2c30c6772ed58e27",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
