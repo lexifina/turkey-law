@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6242",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Brezilya Federatif Cumhuriyeti Hükûmeti Arasında Gümrük Konularında Karşılıklı İdari Yardım Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-11-12",
+  "gazette_issue": "28110",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-1.htm",
+  "source_sha256": "a377a805b6444658321e1ae1a6cb1e16b8831df00276ab3c4248fbc3d8a9f8fd",
+  "text_sha256": "2e801707d25fff07af99e36d270a2687e7f3d12359220c42fba0de4447b205c6",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/11/12/28110-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
