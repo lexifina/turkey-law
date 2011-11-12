@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6245",
+  "year": 2011,
+  "title": "Türkiye-Azerbaycan Uzun Vadeli Ekonomik ve Ticari İşbirliği Programı ve İcra Planının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-11-12",
+  "gazette_issue": "28110",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-4.htm",
+  "source_sha256": "49720e1f6c6e83dca7032bea00d0ee734a2191ff55cff0a3ef06b075e0b6cb6d",
+  "text_sha256": "f6cd807caf5ac015d50105514fcb5b4c192bb816e0d16b6c1c6ee70768aa3b38",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/11/12/28110-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
