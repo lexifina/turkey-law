@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6243",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Kuveyt Devleti Hükûmeti Arasında Yatırımların Karşılıklı Teşviki ve Korunması Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-11-12",
+  "gazette_issue": "28110",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-2.htm",
+  "source_sha256": "2945cc4597e78b39bbc707c5ae867a18ae36f56b84ef948285704e7eb9bdc5e0",
+  "text_sha256": "8e49d6853b225ad378904ac677c87ce08a601f094b39346d5bf41d3638c6570a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/11/12/28110-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
