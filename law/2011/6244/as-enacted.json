@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6244",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Brezilya Federatif Cumhuriyeti Hükûmeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-11-12",
+  "gazette_issue": "28110",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-3.htm",
+  "source_sha256": "5c94b47d7ecc8b0e6b75cd54a3085aedeca5e2b190527a1a431995a92801c36c",
+  "text_sha256": "cd00bbf98d0f4bd4f863fe0ddc605c02efb73caacd43e2b7fd2999ea44f82950",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/11/12/28110-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
