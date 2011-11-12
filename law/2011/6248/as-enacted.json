@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6248",
+  "year": 2011,
+  "title": "Çok Taraflı Yatırım Garanti Kuruluşu Sözleşmesinin Maddelerinde Yapılan Değişikliklerin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-11-12",
+  "gazette_issue": "28110",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-7.htm",
+  "source_sha256": "2e4c298936a151a28dbc628dd62e892f70ec94d665cd1018ff2113dcc63f5f34",
+  "text_sha256": "b76e5733986337122062e9ada485003fc6572a0e58f863d60d4c7419aef75dbd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/11/12/28110-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
