@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6247",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Pakistan İslam Cumhuriyeti Hükûmeti Arasında Gençlik Alanında İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-11-12",
+  "gazette_issue": "28110",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-6.htm",
+  "source_sha256": "2dd4df824cd2380a2f0dc8da9d19822573c1c3c4643eacfc0e1c220072ff4bea",
+  "text_sha256": "9ea8e0be638b8a1c9685f535cf388ddefb180f588c64c82f1f76c887f1fb9179",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/11/12/28110-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
