@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6246",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ve Pakistan İslam Cumhuriyeti Hükûmeti Arasında Planlama Alanında İşbirliğine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-11-12",
+  "gazette_issue": "28110",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-5.htm",
+  "source_sha256": "c3b87292992ffcb832e46e1da454b6b4462642c9f28078ce3b4206482a558b49",
+  "text_sha256": "0bccae303161479b7b7edad6aa8f62b22d3a016e978bab38e3845c08410eea25",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/11/12/28110-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111112-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
