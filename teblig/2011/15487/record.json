@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.15487",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2011/7)",
+  "number": "15487",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2011/15487",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15487&MevzuatTertip=5",
+  "source_sha256": "99208c9fcc23aecfaee476595276a2ed29703c0f580ecaa93c0e95746f8e2c5d",
+  "source_bytes": 39639,
+  "published": "2011-11-05",
+  "gazette": "28106",
+  "in_force": "2011-11-14",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 14/11/2011 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 14/11/2011 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 698,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
