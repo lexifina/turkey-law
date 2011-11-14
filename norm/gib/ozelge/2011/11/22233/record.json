@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 6-2005",
+  "source_id": 22233,
+  "date": "2011-11-14",
+  "title": "Kiracısı bulunduğu işyerinin bir bölümünün kiraya verilmesi halinde vergilemenin nasıl olacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22233",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "71981308bad4a2eb3c5d11081924941520a8abb092dc367bfb254937398e89a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
