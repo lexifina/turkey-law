@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.02-VUK-2011/14-404",
+  "source_id": 26400,
+  "date": "2011-11-15",
+  "title": "İşlem sayısının fazla olduğu durumlarda günlük seferler için tek taşıma irsaliyesi (sefer sayısını belirterek yada komple şeklinde ekinde destekleyici belge olarak nakliyesini yaptığınız firmanın da imzası olan sefer belgesi ekleyerek) düzenlenemeyeceği h",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26400",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "8ef70596ace985c00396cc7a8c062da137e94ca2fb9d42c0618476dbb04b6d93",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
