@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 30-2014",
+  "source_id": 24069,
+  "date": "2011-11-15",
+  "title": "Yurt dışındaki iştirakçi şirkete yapılan kredi faiz ödemelerinin tevkifata tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24069",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "e7c390f8db1a4924aaf7c27bad79d5766da9ae2f74f1f1a9224b724c94c31c00",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
