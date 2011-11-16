@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.09.15.01-8.2011.1.KDV.28.MD.-11",
+  "source_id": 32936,
+  "date": "2011-11-16",
+  "title": "Dijital Ateş Ölçerlerin KDV Oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32936",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "5b236e286d48fb0fc597d00ac9cc02a9f791f0baad1aff68164b888193fc13b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
