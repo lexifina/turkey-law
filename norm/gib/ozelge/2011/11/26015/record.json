@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.17.02-VUK-10-158-254",
+  "source_id": 26015,
+  "date": "2011-11-16",
+  "title": "Öğrenci pansiyonlarında ücretin taksitli olarak kredi kartıyla ödenmesi halinde faturanın ne zaman düzenleneceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26015",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "1e0c5ea19c419db82ed97716d229c0e3ad6bbcab3dea385bdd51d777f8aaaa59",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
