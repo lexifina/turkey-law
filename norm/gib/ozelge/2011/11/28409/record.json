@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.03.44-010.01-23",
+  "source_id": 28409,
+  "date": "2011-11-16",
+  "title": "Grup içi hizmetlere ilişkin giderlerin kurum kazancından indirilip indirilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28409",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "cd07079226d7a53feaaa7bd1ac66b045b72864a074669a0d70a7be462a3d66b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
