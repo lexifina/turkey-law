@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KAMU İKTİSADİ TEŞEBBÜSLERİ KOMİSYONU",
+  "committee_id": 15,
+  "meeting_date": "2011-11-16",
+  "meeting_date_as_published": "16/11/2011",
+  "agenda": [
+    "ET VE BALIK KURUMU GENEL MÜDÜRLÜĞÜ'NÜN 2009 YILINA AİT BİLANÇO VE NETİCE HESAPLARININ GÖRÜŞMELERİ",
+    "TARIM İŞLETMELERİ GENEL MÜDÜRLÜĞÜ'NÜN 2009 YILINA AİT BİLANÇO VE NETİCE HESAPLARININ GÖRÜŞMELERİ"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/517",
+  "pdf_sha256": "9ba32cda9f9db4c0791cee18d6b53b4975680b153a4da86b2a8993dc885396f6",
+  "pdf_pages": 84,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=15)",
+  "listing_sha256": "0dc889625a43960f41a70f9bc21885fb2bc2789f7a2feaf357be8aa9f141f856",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-11-16",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
