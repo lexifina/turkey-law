@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.18.02-1741-624",
+  "source_id": 24622,
+  "date": "2011-11-17",
+  "title": "İkinci el eşya ticaretinde gider pusulası tanziminde stopaj yapılıp yapılmayacağı, yapılacaksa oranın ne olacağı ve aynı iş kolunda satışların fatura ile tevsik edildiği belirtilerek ayrıca yazar kasa kullanma mecburiyeti bulunup bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24622",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "629b99e64131b954b5b18496c9849413006878c1295bf9c68f05f1ec737f03b9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
