@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "ÇEVRE KOMİSYONU",
+  "committee_id": 10,
+  "meeting_date": "2011-11-17",
+  "meeting_date_as_published": "17/11/2011",
+  "agenda": [
+    "1969 PETROL KİRLİLİĞİNDEN DOĞAN ZARARLARIN HUKUKİ SORUMLUĞU İLE İLGİLİ ULUSLARARASI SÖZLEŞMEYİ DEĞİŞTİREN 1992 PROTOKOLÜNÜN SINIRLANDIRMA MİKTARLARININ DEĞİŞİKLİKLERİNE DAİR KARARA KATILMAMIZIN UYGUN BULUNDUĞU HAKKINDA KANUN TASARISI",
+    "1971 PETROL KİRLİLİĞİ ZARARININ TAZMİNİ İÇİN BİR ULUSLARARASI FONUN KURULMASI İLE İLGİLİ ULUSLARARASI SÖZLEŞMEYİ DEĞİŞTİREN 1992 PROTOKOLÜNÜN TAZMİNAT LİMİTLERİ DEĞİŞİKLİKLERİNE DAİR KARARA KATILMAMIZIN UYGUN BULUNDUĞU HAKKINDA KANUN TASARISI",
+    "KULLANILMIŞ YAKIT İDARESİNİN VE RADYOAKTİF ATIK İDARESİNİN GÜVENLİĞİ ÜZERİNE BİRLEŞİK SÖZLEŞMEYE KATILMAMIZIN UYGUN BULUNDUĞUNA DAİR KANUN TASARISI",
+    "TÜRKİYE CUMHURİYETİ ÇEVRE VE ORMAN BAKANLIĞI İLE LİBYA ARAP HALK SOSYALİST BÜYÜK CEMAHİRİYESİ SAĞLIK VE ÇEVRE GENEL HALK KOMİTESİ ARASINDA ÇEVRE VE ORMANCILIK ALANINDA İŞBİRLİĞİ ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE SIRBİSTAN CUMHURİYETİ HÜKÜMETİ ARASINDA ÇEVRE ALANINDA İŞBİRLİĞİ ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/374",
+  "pdf_sha256": "07cee5304a2f194bdf7d557ef91a9c821f5e495219782fb0bd6a19b4e5003b47",
+  "pdf_pages": 14,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=10)",
+  "listing_sha256": "d8827d9ba8d194196223b7bfe84cb760c5abb5977a4658755a89a239c560f5a8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-11-17",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
