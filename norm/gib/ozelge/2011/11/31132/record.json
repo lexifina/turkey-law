@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-DİĞER-20-66-128",
+  "source_id": 31132,
+  "date": "2011-11-17",
+  "title": "Serbest bölgede 2010 yılında üretilen malın daha sonraki yılda yabancı firmanın Türkiye'de bulunan şubesine teslimi halinde gelir vergisinde tecil-terkin uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/31132",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "384685b3ea641ca9b1705381e6bf0fe90fdfd5ae5473776fedb797fc4ce0d5cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
