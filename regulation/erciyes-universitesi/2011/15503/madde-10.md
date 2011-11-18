@@ -1,0 +1,2 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür, Tıp Fakültesi hastanesi başhekimi veya başhekim yardımcılarından biri ile Üniversitenin Fen, Mühendislik ve Tıp Fakültelerinin ilgili anabilim veya bilim dallarında çalışan öğretim üyeleri arasından Müdürün önerisiyle Rektör tarafından görevlendirilen üç öğretim üyesi olmak üzere toplam beş üyeden oluşur. Yönetim Kurulunda kararlar oy çokluğuyla alınır.

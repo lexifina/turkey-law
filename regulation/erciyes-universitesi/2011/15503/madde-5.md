@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; tıbbi teşhis ve tedavi amaçlı cihaz teknolojilerinin geliştirilmesinde, bakımında ve işletilmesinde mühendislik bilgi birikimi ve tekniklerini kullanarak sağlık hizmetlerinin kalitesini ve verimliliğini arttırmak, Türkiye’nin biyomedikal mühendisliği alanında araştırma potansiyelini geliştirmek, tıbbi cihazlar konusunda dışa bağımlılığı azaltmak için, sağlık bilimlerinin Merkezle ilgili anabilim ve bilim dallarıyla ve Üniversitenin mühendislik ve fen bilimlerinin Merkezle ilgili bölümleri arasında işbirliğini sağlayarak bilimsel araştırma ve geliştirme faaliyetlerinde bulunmak, biyomedikal mühendisliği öğrencilerine, biyomedikal mühendisliği bölümü ile koordinasyon halinde staj ve/veya uygulama dersleri imkanı oluşturmak, bu alanda daha pratik ve güncel bilgilere ulaşmalarını sağlamak, biyomedikal mühendisliği eğitim-öğretimine katkıda bulunmaktır.

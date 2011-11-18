@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-11-18",
+      "18.11.2011",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28116",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-11-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Erciyes Üniversitesi",
+  "issuer_slug": "erciyes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/erciyes-universitesi/2011/15503",
+  "published": "2011-11-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15503&MevzuatTertip=5",
+  "source_bytes": 26586,
+  "source_id": "8.5.15503",
+  "source_sha256": "9267d055b7bd787e5d0f4dd92bb9baf099a23cad1c785acb5020fff45581874b",
+  "text_status": "as-enacted",
+  "title": "ERCİYES ÜNİVERSİTESİ KLİNİK MÜHENDİSLİĞİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 192,
+  "word_count": 1126
+}
