@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 6-2056",
+  "source_id": 26759,
+  "date": "2011-11-18",
+  "title": "Satışı yapılan ancak kırık olması nedeniyle alıcı tarafından iade dilen malların emsal bedeli ile değerleneceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26759",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "2a8bb479c077a545111b2783652e0806fcfacaf62f90e75cf6755f4892574840",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
