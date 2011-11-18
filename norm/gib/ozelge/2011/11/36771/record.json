@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.45.15.01-BSMV-56-1-112",
+  "source_id": 36771,
+  "date": "2011-11-18",
+  "title": "İl Özel İdarelerinin okul yapımında kullanmak üzere aldıkları kredilerin BSMV karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36771",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "48c4b975c5876529c1b4c971df21fc04efe921606d5771afed6c829796f4b219",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
