@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) 6114 sayılı Kanunun geçici 1 inci maddesinin yedinci fıkrasına göre uzman yardımcılığına atananlar hakkında bu Yönetmeliğin ikinci bölümü uygulanmaz. Ayrıca anılan fıkraya dayanarak uzmanlığa atananlar, atanmalarından itibaren iki yıl içinde 20 nci maddenin birinci fıkrası hariç olmak üzere bu Yönetmelikte uzmanlık tezine dair belirtilen usul ve esaslar çerçevesinde tez savunmalarını yaparlar. Tezini zamanında vermeyenler ile tezi başarısız bulunanların atamaları iptal edilerek Başkanlıkta Devlet memuru olarak göreve devam ederler.
+(2) 6114 sayılı Kanunun geçici 1 inci maddesinin beşinci fıkrasına göre uzmanlığa atananlar hakkında 33 ve 34 üncü madde hükümleri uygulanmaz.
