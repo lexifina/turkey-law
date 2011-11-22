@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.10.15.01-KDV-2010/107-1311/-128",
+  "source_id": 31349,
+  "date": "2011-11-22",
+  "title": "Gemilere yapılan su ve elektrik teslimlerinde KDV istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31349",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "3358a8859eac84403d8f8d3be110b5dab99337d0e650b63d5ecfa7f053b9b6e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
