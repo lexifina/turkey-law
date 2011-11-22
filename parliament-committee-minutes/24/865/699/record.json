@@ -1,0 +1,22 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KADIN ERKEK FIRSAT EŞİTLİĞİ KOMİSYONU",
+  "committee_id": 865,
+  "meeting_date": "2011-11-22",
+  "meeting_date_as_published": "22/11/2011",
+  "agenda": [
+    "25 KASIMDA KADINA YÖNELİK ŞİDDETE KARŞI ULUSLARARASI MÜCADELE VE DAYANIŞMA GÜNÜ DOLAYISIYLA KADININ STATÜSÜ GENEL MÜDÜRLÜĞÜNÜN VE ERKEKLER ÜZERİNDEN BAŞLATMIŞ OLDUĞU KAMPANYA HAKKINDA BİLGİLENDİRME",
+    "KADINLARA YÖNELİK ŞİDDET VE AİLE İÇİ ŞİDDETİN ÖNLENMESİ VE BUNLARLA MÜCADELEYE İLİŞKİN AVRUPA KONSEYİ SÖZLEŞMESİNİN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI",
+    "T.C. KADIN VE AİLEDEN SORUMLU DEVLET BAKANLIĞI İLE AZERBAYCAN CUMHURİYETİ AİLE, KADIN VE ÇOCUK SORUNLARINDAN SORUMLU DEVLET KOMİTESİ ARASINDA İŞBİRLİĞİ MUHTIRASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/323)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/699",
+  "pdf_sha256": "4ec17df06f95893a1c14c50e45176515946b61d62bd2c79b4bc5491915386dda",
+  "pdf_pages": 14,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=865)",
+  "listing_sha256": "b1d20ec46dbf18ae37b5c6764209e927d968ee7d16bcdcc8fcf22ca66d006a27",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-11-22",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
