@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "3510/5",
+  "decision_date": "2011-11-23",
+  "title": "Muayene Raporlarının Tanziminde İncelenecek Özelliklere İlişkin Usul ve Esaslar’a ilişkin",
+  "resmi_gazete_date": "2011-12-07",
+  "resmi_gazete_number": "28135",
+  "categories": [
+    "Teknik Düzenleme Faaliyetleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kQ8CQGDBPD8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kQ8CQGDBPD8="
+  ],
+  "source_sha256": "7604bf55bf12d64d4076d6e50d939789eb226b0a0bbcb77a727fe0ad37fd9bba",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4979,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-11-23",
+  "law_text_complete": false
+}
