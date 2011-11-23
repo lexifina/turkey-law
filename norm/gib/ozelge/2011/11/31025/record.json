@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.11-2092",
+  "source_id": 31025,
+  "date": "2011-11-23",
+  "title": "İhraç edilen malın GÇB'de belirtilen ülkenin farkı, alıcı ülkesinin farklı olması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31025",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "680590f65a02c4416033fceff7ff1674829b5dccbf5100016cb6f9906dde64c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
