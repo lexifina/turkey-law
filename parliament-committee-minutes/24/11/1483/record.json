@@ -1,0 +1,25 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "DIŞİŞLERİ KOMİSYONU",
+  "committee_id": 11,
+  "meeting_date": "2011-11-23",
+  "meeting_date_as_published": "23/11/2011",
+  "agenda": [
+    "GÜNEYDOĞU AVRUPA AFETLERE HAZIRLIK VE ÖNLEME GİRİŞİMİNİN KURUMSAL ÇERÇEVESİ HUSUSUNDA MUTABAKAT MUHTIRASININ VE EKİNİN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI(1/346)",
+    "İSLAM KONFERANSI ÖRGÜTÜ ŞARTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI(1/443)",
+    "VATANSIZLIĞIN AZALTILMASINA DAİR SÖZLEŞMEYE KATILMAMIZIN UYGUN BULUNDUĞUNA DAİR KANUN TASARISI(1/397)",
+    "KADINLARA YÖNELİK ŞİDDET VE AİLE İÇİ ŞİDDETİN ÖNLENMESİ VE BUNLARLA MÜCADELEYE İLİŞKİN AVRUPA KONSEYİ SÖZLEŞMESİNİN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI(1/510)",
+    "VATANSIZ KİŞİLERİN STATÜSÜNE İLİŞKİN SÖZLEŞMEYE KATILMAMIZIN UYGUN BULUNDUĞUNA DAİR KANUN TASARISI(1/410)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE PAKİSTAN İSLAM CUMHURİYETİ HÜKÜMETİ ARASINDA İZİNSİZ İKAMET EDEN ŞAHISLARIN GERİ KABULÜNE DAİR ANLAŞMANIN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI(1/455)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/1483",
+  "pdf_sha256": "c24f4782e20655ea6103af203ad02e56e847e704a7ef2fbf169f2b15ddd7c85f",
+  "pdf_pages": 26,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=11)",
+  "listing_sha256": "efc563a4b8d46e4875ff97f17d46f82861739696a9966ad2a4657ae091dbe9bd",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-11-23",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
