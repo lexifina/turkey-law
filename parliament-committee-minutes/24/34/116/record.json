@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "MİLLİ SAVUNMA KOMİSYONU",
+  "committee_id": 34,
+  "meeting_date": "2011-11-24",
+  "meeting_date_as_published": "24/11/2011",
+  "agenda": [
+    "ASKERLİK KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN TASARISI (1/524)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/116",
+  "pdf_sha256": "f4d60d62f2c1f307aeba7db83431a8f598c7c2ca20c637d118de670d91359eb7",
+  "pdf_pages": 21,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=34)",
+  "listing_sha256": "50ac11637883edc4af9bd9a12cd46ecf668d2b0ceaa2898b3bebcf0a1f003145",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-11-24",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
