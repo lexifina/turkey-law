@@ -1,0 +1,3 @@
+Genel Kurul toplantısı
+MADDE 12 – (1) Genel Kurul toplantıları oturumlar halinde yapılır. Genel Kurul, ilk oturumunda, biri Bakanlık mensubu üyeler arasından olmak üzere üç başkan yardımcısı ve dört raportör seçerek Şûra Başkanlık Divanını oluşturur. Şûra Genel Kurulunu Divan Başkanı yönetir. Divan Başkanının yokluğunda Başkan Yardımcılarından birisi Divan Başkanlığı görevini vekâleten yürütür.
+(2) Genel Kurul oturumlarında söz almak isteyen üyeler taleplerini Şûra Başkanlık Divanına ad bildirmek suretiyle iletirler ve Şûra Başkanlık Divanı söz almak isteyen her üyenin görüşünü belirtmesini sağlayacak şekilde konuşma sürelerini belirler.
