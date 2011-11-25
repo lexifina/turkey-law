@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.74.10.00-010-KV-5",
+  "source_id": 25355,
+  "date": "2011-11-25",
+  "title": "Hasılat Tipi Kira Şözleşmelerinde Belge Düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25355",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "e32fd4f5b4f2d6438105ce6a8da944dee7251af4df7d72077f9cd7774732619a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
