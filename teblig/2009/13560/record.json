@@ -1,0 +1,47 @@
+{
+  "source_id": "9.5.13560",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜNEYDOĞU ANADOLU PROJESİ EYLEM PLANI KAPSAMINDAKİ İLLERDE SÜT SIĞIRCILIĞI YATIRIMLARININ DESTEKLENMESİNE İLİŞKİN UYGULAMA ESASLARI TEBLİĞİ (TEBLİĞ NO: 2009/57)",
+  "number": "13560",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2009/13560",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13560&MevzuatTertip=5",
+  "source_sha256": "3bfc39c1dc331b262a1d4e746a06fecfaef105f8cd663aa8dc103ce2112b2089",
+  "source_bytes": 49921,
+  "published": "2009-11-20",
+  "gazette": "27412",
+  "in_force": "2011-11-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/11/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-11-25",
+      "RG-25/11/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-11-25",
+      "25/11/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-10-22",
+      "RG-22/10/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2545,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

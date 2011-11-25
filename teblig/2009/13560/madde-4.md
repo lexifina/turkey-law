@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) (Değişik:RG-25/11/2011-28123) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+b) Banka: T.C. Ziraat Bankası A.Ş. Genel Müdürlüğünü,
+c) (Değişik:RG-22/10/2010-27737)(1) Damızlık gebe düve: Damızlık belgesine veya saf ırk sertifikasına sahip Bakanlık kayıt sistemlerine kayıtlı veya Bakanlığın ithalatına izin verdiği ülkelerden ithal edilen en az üç aylık gebe hayvanı,
+ç) (Değişik:RG-25/11/2011-28123) Genel müdürlük: Hayvancılık Genel Müdürlüğünü,
+d) Hak ediş: İl proje yürütme birimince hazırlanan ve ödemeye esas olacak raporu,
+e) Hak ediş icmali: İl proje yürütme birimince hazırlanarak il müdürlüğünce uygun bulunarak onaylanan ve genel müdürlüğe gönderilecek olan icmal cetveli,
+f) (Değişik:RG-25/11/2011-28123) İl Müdürlüğü: Bakanlık İl Müdürlüğünü,
+g) (Değişik:RG-25/11/2011-28123) İl proje değerlendirme komisyonu: Vali yardımcısı başkanlığında; bakanlık il müdürü, hayvan sağlığı, yetiştiriciliği ve su ürünleri, tarımsal altyapı ve arazi değerlendirme, kırsal kalkınma ve örgütlenme ile koordinasyon ve tarımsal veriler şube müdürlerinden valilik oluru ile oluşan komisyonu,
+ğ) (Değişik:RG-25/11/2011-28123) İl proje yürütme birimi: Valilik oluru ile il müdürlüğü bünyesinde hayvan sağlığı, yetiştiriciliği ve su ürünleri, tarımsal altyapı ve arazi değerlendirme, kırsal kalkınma ve örgütlenme, koordinasyon ve tarımsal veriler şube müdürlükleri ile il çevre ve şehircilik müdürlüğünde görev yapan en az beş teknik elemandan oluşturulan birimi,
+h) İşletme: Hayvanların barındırıldığı, tutulduğu, bakıldığı veya beslendiği kapalı veya açık sistem tesis durumundaki yerleri,
+ı) (Değişik:RG-25/11/2011-28123) Merkez proje değerlendirme komisyonu: Genel Müdürlükçe bir genel müdür yardımcısı başkanlığında en az üç daire başkanından oluşturulan komisyonu,
+i) Ön proje: Yapılacak yatırımı kısaca tanıtan ve kurulacak işletmenin ihtiyaçlarını tanımlayan iş ve termin planlarının yanında yerleşimi gösteren projeyi,
+j) Uygulama rehberi: Başvuru formlarının, yatırım projelerinde aranacak idari ve teknik detayların, izleme ve değerlendirme rapor örneklerinin, konu ile ilgili uygulama birimlerince tutulacak cetvellerin içinde yer aldığı ve her yılın ocak ayı içinde genel müdürlükçe yayınlanacak olan rehberi,
+k) Yatırımcı: Bu Tebliğ kapsamında proje hazırlayıp başvuruda bulunan ve başvurusu kabul edilerek yatırımı gerçekleştiren gerçek ve tüzel kişileri,
+l) Yatırımların desteklenmesi: Güneydoğu Anadolu Projesi Eylem Planı Kapsamındaki İllerde Süt Sığırcılığı Yatırımlarının Desteklenmesi,
+m) Yatırım projesi: Başvuru konusu olan tesisin ihtiyaçlarına göre arazi ve zemin araştırmaları yapılmış, yapı elemanlarının ölçülendirilip boyutlandırıldığı, inşaat sistem ve gereçleriyle teknik özelliklerinin belirtildiği, her türlü ayrıntı ile birlikte kapasite raporunu da içeren projeyi,
+n) (Ek:RG-25/11/2011-28123) Yerel fiyat tespit komisyonu: Desteklenecek makinelerin birim fiyatının tespiti amacıyla il bilim, sanayi ve teknoloji müdürlüğü uzmanı, sanayi ve ticaret odası uzmanı ile il müdürlüğünce görevlendirilecek konu uzmanından oluşan komisyonu,
+ifade eder.
