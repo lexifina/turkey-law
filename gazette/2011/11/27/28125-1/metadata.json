@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-11-27",
+  "issue": "28125",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2011/2395 Kamu İktisadi Teşebbüsleri ve Bağlı Ortaklıklarının 2011 Yılına Ait Genel Yatırım ve Finansman Programında Değişiklik Yapılmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111127-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111127.htm",
+  "index_sha256": "d0b9bb646e16f5346037624df2a3a2f8f06260172d81ed8b43967cb5544c602a",
+  "index_header": "27 Kasım 2011 ... 28125 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "f588377b6d220cfddced506f577d96c913f4f3f2d841c21bf449e117328fa0d7",
+  "text_status": "text.txt as published"
+}
