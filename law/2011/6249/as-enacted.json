@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6249",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Romanya Hükûmeti Arasında Denizcilik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-11-29",
+  "gazette_issue": "28127",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111129-1.htm",
+  "source_sha256": "8676c9b851c2ef71441ccf033e950f3f823f1aad36195a7681db93a91a8d5d58",
+  "text_sha256": "72d2eb0acf86b2deb89aa2e0e03d3ca3f9c9676abe447b57079f10ff4b2ece8c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/11/29/28127-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111129-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
