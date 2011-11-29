@@ -1,0 +1,2 @@
+Mevcut önlem
+MADDE 3 – (1) 21/12/2006 tarihli ve 26383 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2006/31 sayılı Tebliğ çerçevesinde bahse konu ürünün Hindistan menşeli olanları için CIF bedelin %6,8 ile %20,3’ü arasında değişen oranlarda, Tayvan menşeli olanları için CIF bedelin %9,9 ile %28,6’sı arasında değişen oranlarda ve Güney Kore için ise CIF bedelin %33,7’si oranında dampinge karşı önlem uygulanmaktadır.

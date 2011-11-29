@@ -1,0 +1,5 @@
+Önleme tabi madde
+MADDE 2 – (1) Önleme tabi madde 5402.33 gümrük tarife pozisyonunda yer alan sentetik filament iplikleri içindeki “polyesterlerden tekstürize iplikler”dir.
+(2) Tekstürize etmek, doğal lif özelliğini kazandırıcı her türlü işleme verilen addır. Tekstürize iplikler, filamentler boyunca sabit kıvrımlar, lüleler, ilmekler veya başka ince bükümler elde etmek için işlenmiş, esneklik, hacim, nem alma ve örme kabiliyetleri yükseltilmiş, ısıyla şekillenebilme özellikleri çeşitli mekanik tesirlerle kalıcı ve belirli olarak değişikliğe uğratılmış ipliklerdir. Tekstürize iplik ihtiva eden kumaşların dolgunluğu, nemi emme kabiliyeti, daha iyi ısı yalıtkanlığı özelliği ve daha sıcak tutumu vardır. Bazı çeşitleri aynı zamanda üretildikleri kumaşlara uzama özelliği de vermektedir.
+(3) Söz konusu madde, kadife ve polyester bazlı kumaş üretimi, ev tekstili (perde, nevresim, havlu, bornoz) ve eşofman gibi ürünlerin üretiminde kullanılmaktadır.
+(4) Bahse konu gümrük tarife pozisyonu yalnızca bilgi amaçlı verilmiş olup, bağlayıcı değildir.
