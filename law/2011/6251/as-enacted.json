@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6251",
+  "year": 2011,
+  "title": "Kadınlara Yönelik Şiddet ve Aile İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye İlişkin Avrupa Konseyi Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-11-29",
+  "gazette_issue": "28127",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111129-2.htm",
+  "source_sha256": "f9daae0ff3d332f3d8327a37e08fb6568afa8917ca9bbad238e6b9830759eee2",
+  "text_sha256": "c946f97cedb1dd065930638cf73d06e911d9ab48b87386ac10c89c9b2822feea",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/11/29/28127-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/11/20111129-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
