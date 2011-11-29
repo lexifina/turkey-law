@@ -1,0 +1,2 @@
+Diğer unsurların etkisi
+MADDE 21 – (1) Yönetmeliğin 17 nci maddesi hükümleri uyarınca, soruşturma konusu ülkeler menşeli dampingli ithalattaki gelişim ile söz konusu ithalatın fiyatlarının yerli üretim dalı üzerindeki etkisinin yanı sıra yerli üretim dalında zarara yol açabilecek diğer olası unsurlar da incelenmiş; ancak, zarar inceleme dönemi boyunca firmanın ekonomik göstergelerinde saptanan bozulmalara kaynak teşkil edebilecek dampingli ithalat dışında kayda değer bir unsurun varlığına rastlanılmamıştır.

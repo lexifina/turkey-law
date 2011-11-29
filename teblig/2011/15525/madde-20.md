@@ -1,0 +1,2 @@
+Üçüncü ülkelerden ithalat
+MADDE 20 – (1) Üçüncü ülkelerden yapılan ithalat, 2008-SD döneminde miktar bazında yaklaşık %14 oranında artmıştır. Ancak, anılan dönemde yurtiçi pazardaki büyüme % 26 oranında gerçekleştiğinden, üçüncü ülkelerin ithalat içindeki payı % 27’den % 17’ye gerilemiştir. Üçüncü ülkeler menşeli ithalatta görülen bu değişim, dampingli ithalatın anılan ülkelerin piyasadaki payını da olumsuz yönde etkilediğini göstermektedir.

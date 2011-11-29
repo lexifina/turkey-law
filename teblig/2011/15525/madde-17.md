@@ -1,0 +1,3 @@
+Dampingli ithalatın yerli üretici fiyatları üzerindeki etkisi
+MADDE 17 – (1) Fiyat kırılması, ithal ürünün fiyatlarının yerli üretici yurt içi fiyatlarının ne kadar altında kaldığını göstermektedir. Söz konusu değerler hesaplanırken, CIF ithal fiyatlarının üzerine gümrük vergisi ve diğer ithalat masrafları ilave edilerek bulunan Romanya menşeli ürünlerin pazara giriş fiyatları, şikâyetçi yerli üreticinin (Plastay) yurtiçi satış fiyatları ile karşılaştırılmıştır.
+(2) Bu çerçevede hesaplanan fiyat kırılması CIF ihraç fiyatının %’si olarak 2008 yılında %8, 2009 yılında %5 ve 2010 yılında %11’dir.

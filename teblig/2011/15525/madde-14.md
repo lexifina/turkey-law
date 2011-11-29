@@ -1,0 +1,3 @@
+Damping marjları
+MADDE 14 – (1) Yönetmeliğin 11 inci maddesi hükmü çerçevesinde damping marjları, normal değer ile ihraç fiyatlarının ağırlıklı ortalamalarının karşılaştırılması suretiyle hesaplanmıştır. İşbirliğine gelmeyen firmalar içinse Yönetmeliğin 26 ncı maddesi hükmü uyarınca, işbirliğinde bulunmamayı ödüllendirmemek ve işbirliğinden kaçınmayı önlemek amacıyla, Oltchim firmasının soruşturma konusu ürün tiplerinden en yüksek oranda damping yaptığı belirlenen tip esas alınmıştır.
+(2) CIF ihraç fiyatının yüzdesi olarak hesaplanan damping marjı işbirliğinde bulunan Oltchim firması için %7,9; soruşturma konusu ülkede yerleşik işbirliğinde bulunmayan diğer firmalar içinse %8,3 tür.
