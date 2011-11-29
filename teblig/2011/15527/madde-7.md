@@ -1,0 +1,3 @@
+Soru formları ve bilgilerin toplanması
+MADDE 7 – (1) Soruşturma için gerekli bilgilerin temini amacıyla, söz konusu maddenin yerli üreticilerine, bilinen ithalatçılarına ve soruşturma kapsamına giren bilinen yabancı üretici/ihracatçılarına soruşturmanın açılışına ilişkin bildirim gönderilecektir. Bildirimi alamayan tarafların soru formunu Ekonomi Bakanlığına ait Ticaret Politikası Savunma Araçları internet sayfasındaki (www.tspa.gov.tr) ilgili bölümden indirmeleri mümkün bulunmaktadır.
+(2) Ayrıca, ilgili ülkedeki üretici ve ihracatçıların bilgilendirilmesini kolaylaştırmak ve hızlandırmak amacıyla, Tayland’ın Ankara’daki resmi temsilciliğine bildirim yapılacaktır.
