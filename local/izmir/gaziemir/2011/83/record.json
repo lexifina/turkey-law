@@ -1,0 +1,29 @@
+{
+  "number": "83",
+  "number_as_published": "83",
+  "year": 2011,
+  "month": 11,
+  "title": "83.KARAR KASIM 11 (2210 ada 6 par.bel.his.satışın red.)",
+  "decision_date": null,
+  "index_date": "2011-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2011",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=68",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=68",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/b7bb6a9a6f2e18d4f259da4322f3b4810eb17be29bcd703db72a84c192e077bb.doc",
+  "source_sha256": "9c4d3c1d449a4f57758fb64b08883f2940a3b09beead1eeb8ae0412d05012e19",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2011-11-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Kasım 2011); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "30.11.2011",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
