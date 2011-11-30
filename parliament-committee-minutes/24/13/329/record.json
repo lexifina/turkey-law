@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "İÇİŞLERİ KOMİSYONU",
+  "committee_id": 13,
+  "meeting_date": "2011-11-30",
+  "meeting_date_as_published": "30/11/2011",
+  "agenda": [
+    "TERÖRİZMİN FİNANSMANININ ÖNLENMESİ HAKKINDA KANUN TASARISI (1/489) (DEVAM)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/329",
+  "pdf_sha256": "c2d8d4a4395b5420c53908ad261dee754c644fb0658bfef0f11d04bf9fe3cede",
+  "pdf_pages": 50,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=13)",
+  "listing_sha256": "9d2922e8e6f25b7cc6d05ebfe3063546648b2b3dd91e709e605e33f0ffa20e7e",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-11-30",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
