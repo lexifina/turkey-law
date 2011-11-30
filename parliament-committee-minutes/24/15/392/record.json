@@ -1,0 +1,23 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KAMU İKTİSADİ TEŞEBBÜSLERİ KOMİSYONU",
+  "committee_id": 15,
+  "meeting_date": "2011-11-30",
+  "meeting_date_as_published": "30/11/2011",
+  "agenda": [
+    "HALK BANKASI ANONİM ŞİRKETİNİN 2009 YILINA İLİŞKİN FAALİYETLERİYLE, BİLANÇO VE NETİCE HESAPLARININ GÖRÜŞMELERİ",
+    "(BİRLİK SİGORTA ANONİM ŞİRKETİ) HALK SİGORTA ANONİM ŞİRKETİNİN 2009 YILINA AİT BİLANÇO VE NETİCE HESAPLARININ GÖRÜŞMELERİ",
+    "(BİRLİK HAYAT SİGORTA ANONİM ŞİRKETİ ) HALK HAYAT VE EMEKLİLİK ANONİM ŞİRKETİNİN 2009 YILINA AİT BİLANÇO VE NETİCE HESAPLARININ GÖRÜŞMELERİ",
+    "HALK YATIRIM MENKUL DEĞERLER ANONİM ŞİRKETİNİN 2009 YILINA AİT BİLANÇO VE NETİCE HESAPLARININ GÖRÜŞMELERİ"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/392",
+  "pdf_sha256": "fac8802c3c139fe3659fa3c5ae7d58ecfc59318698ef60ff3635a9116a8dbd23",
+  "pdf_pages": 78,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=15)",
+  "listing_sha256": "0dc889625a43960f41a70f9bc21885fb2bc2789f7a2feaf357be8aa9f141f856",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-11-30",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
