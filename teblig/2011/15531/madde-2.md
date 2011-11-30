@@ -1,0 +1,3 @@
+Başvuru usul ve esasları
+MADDE 2 – (1) Tarife kontenjanı başvurularının değerlendirmeye alınabilmesi için Ek-1’de yer alan İthal Lisansı Başvuru Formunun usulüne uygun bir şekilde doldurularak Ek-2’de istenen belgelerle birlikte tam ve eksiksiz bir şekilde Ekonomi Bakanlığına (Bakanlık) gönderilmesi gerekmektedir. Bir başvuruda ancak bir ithal lisansı talep edilebilir.
+(2) Bu Tebliğ kapsamında yapılan beyanın doğruluğuyla ve ithal mallarla ilgili incelemeleri yapmaya veya yaptırmaya Bakanlık yetkilidir. Başvuruda sunulan bilgi ve belgelerde tutarsızlık olduğu durumlarda sözkonusu tutarsızlık başvuru sahibi tarafından başvuru süresi içerisinde giderilinceye kadar talep karşılanmaz. Bakanlık, gerekli görmesi halinde, ek bilgi ve belge isteyebilir.
