@@ -1,0 +1,25 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "TARIM, ORMAN VE KÖYİŞLERİ KOMİSYONU",
+  "committee_id": 33,
+  "meeting_date": "2011-11-30",
+  "meeting_date_as_published": "30/11/2011",
+  "agenda": [
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ VE LÜBNAN CUMHURİYETİ HÜKÜMETİ ARASINDA ORMANCILIK ALANINDA İŞBİRLİĞİ MUTABAKAT ZAPTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/388)",
+    "TÜRKİYE CUMHURİYETİ HÜKÛMETİ İLE LÜBNAN CUMHURİYETİ HÜKÛMETİ ARASINDA TARIMSAL İŞBİRLİĞİ KONULU MUTABAKAT ZAPTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/393)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE KAMERUN CUMHURİYETİ HÜKÜMETİ ARASINDA TARIM ALANINDA TEKNİK, BİLİMSEL VE EKONOMİK İŞBİRLİĞİ PROTOKOLÜNÜN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/413)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE İRAN İSLAM CUMHURİYETİ HÜKÜMETİ ARASINDA DOĞAL KAYNAKLAR VE SU HAVZASI AMENAJMANI ÜZERİNE MUTABAKAT ZAPTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/441)",
+    "TÜRKİYE CUMHURİYETİ HÜKÛMETİ İLE KUZEY KIBRIS TÜRK CUMHURİYETİ HÜKÛMETİ ARASINDA ORMANCILIK ALANINDA YARDIM VE İŞBİRLİĞİ PROTOKOLÜNÜN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/496)",
+    "ORTA ASYA VE KAFKASLAR BÖLGESEL BALIKÇILIK VE SU ÜRÜNLERİ YETİŞTİRİCİLİĞİ KOMİSYONU ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/498)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/325",
+  "pdf_sha256": "c5ad17159c6ba1b5c86404d941e8ee8f183d08eca07a7f7e7da04b3725e35574",
+  "pdf_pages": 23,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=33)",
+  "listing_sha256": "a58bcb938e8fa61742668f14f9a6a8ce0111e7b7d8ffe52d7e8e122818cff7f2",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-11-30",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
