@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3519/52",
+  "decision_date": "2011-12-01",
+  "title": "EPDK Kurul Kararı 3519/52",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ietcl1rD6Fw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ietcl1rD6Fw="
+  ],
+  "source_sha256": "0cf1f6951feb0ac1e9e7c3fa5b4d627420d43aef7682a9b48fe19c416a8abf89",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-12-01",
+  "law_text_complete": false
+}
