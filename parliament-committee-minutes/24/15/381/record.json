@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KAMU İKTİSADİ TEŞEBBÜSLERİ KOMİSYONU",
+  "committee_id": 15,
+  "meeting_date": "2011-12-01",
+  "meeting_date_as_published": "01/12/2011",
+  "agenda": [
+    "İSTANBUL OLİMPİYAT OYUNLARI HAZIRLIK VE DÜZENLEME KURULU BAŞKANLIĞI 2009 YILINA AİT HESAP VE İŞLEMLERİ"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/381",
+  "pdf_sha256": "67754c607dd1d1d04e1396c1989b29c4aa59928466c53b9fc03964342b864336",
+  "pdf_pages": 68,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=15)",
+  "listing_sha256": "0dc889625a43960f41a70f9bc21885fb2bc2789f7a2feaf357be8aa9f141f856",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-12-01",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
