@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-03-31",
+      "31.03.2011",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2011-12-01",
+      "RG-1/12/2011-28129",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-12-01",
+      "RG-1/12/2011-28129",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-12-01",
+      "1/12/2011",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-1/12/2011-28129",
+  "first_law": null,
+  "gazette": "27891",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-12-01",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Afyon Kocatepe Üniversitesi",
+  "issuer_slug": "afyon-kocatepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/afyon-kocatepe-universitesi/2011/14859",
+  "published": "2011-03-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14859&MevzuatTertip=5",
+  "source_bytes": 29852,
+  "source_id": "8.5.14859",
+  "source_sha256": "17a3ccc5f45bf733ef4a8248167d0f28391f78a27999a7badbb5242c768a6ab7",
+  "text_status": "current-consolidated",
+  "title": "AFYON KOCATEPE ÜNİVERSİTESİ MÜZİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 177,
+  "word_count": 1088
+}

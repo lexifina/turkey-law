@@ -1,0 +1,2 @@
+Danışma kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu; Yönetim Kurulu tarafından önerilen ve Rektör tarafından üç yıllığına seçilen, Üniversite içinden veya istekleri halinde Üniversite dışından kamu ve özel kuruluş temsilcisi toplam yedi üyeden oluşur. Danışma Kurulu, Müdürün çağrısı üzerine, yılda en az bir kez toplanarak, Merkezin çalışmaları konusunda görüşlerini bildirir ve yeni çalışma alanları üzerinde Yönetim Kuruluna önerilerde bulunur.
