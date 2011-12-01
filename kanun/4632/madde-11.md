@@ -4,6 +4,8 @@ a) Emeklilik sözleşmelerine ilişkin Müsteşarlığın belirleyeceği esaslar
 b) Emeklilik sözleşmesi çerçevesinde tahsil edilen katkıların fona yönlendirilmesini sağlamak ve bireysel emeklilik hesaplarının ve ilgili diğer kayıtların güncelleştirilmesi işlemlerini gerçekleştirmekle,
 c) Portföy yöneticilerinin, şirketin genel fon yönetim stratejisine ve kararlarına göre fon portföyünü yönetmesini sağlamakla,
 d) Katılımcılarının bireysel emeklilik hesaplarına ait günlük bilgilere erişimine olanak sağlamakla,
+––––––––––––––
+(1) 1/12/2010 tarihli ve 27772 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44 sayılı Kararı ile, bu alt bentte yer alan “ … milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, …” ibaresi iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 1/12/2010 tarihinden başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.
 e) Fon portföyünde yer alan varlıklar, fonun performansı, malî tabloları gibi konularda katılımcılara düzenli bilgi verilmesini sağlamakla,
 f) Müsteşarlık ve Kurul tarafından istenecek bilgi, belge ve tablolar ile bireysel emeklilik kayıt sisteminin belirlenecek esas ve usullere göre hazırlanmasını sağlamakla,
 g) Müsteşarlığın belirleyeceği esas ve usuller çerçevesinde şirketin, Kurulun belirleyeceği esas ve usuller çerçevesinde de fonun iç denetimini sağlamakla,
