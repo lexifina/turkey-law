@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-12-02",
+  "issue": "28130",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2011/2401 Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığında Kadro Karşılığı Çalıştırılacak Sözleşmeli Personel Hakkında Hizmet Sözleşmesi Esasları Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111202-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111202.htm",
+  "index_sha256": "a600cd36a1fb0b9b55ab37184618132c668c8c99c5ed9352d08edbd8f8325adf",
+  "index_header": "2 Aralık 2011 ... 28130 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
