@@ -1,0 +1,11 @@
+Ev ve süs hayvanlarının Türkiye’ye hareketleri
+MADDE 10 – (1) Türkiye’ye kedi, köpek ve gelinciklerin yolcu beraberinde girişi, ancak Bakanlık tarafından belirlenmiş olan giriş kapılarından gerçekleşebilir. Kedi, köpek ve gelincikler;
+a) 5 inci madde hükümlerine uygun olarak kimliklendirilmiş olur.
+b) 6 ncı madde hükümleri doğrultusunda kuduz hastalığına karşı aşılanmış olur.
+c) Hareketlerinden 3 ay önce ve son kuduz aşılamasından en az 30 gün sonra yetkili bir veteriner hekim tarafından alınan kan serumu örneklerinde antikor titrasyon testi, 7 nci madde hükümlerine uygun olarak yapılır ve hayvanın kabul edilebilir anti-kuduz antikor titresine sahip olduğunu gösterir sonuç raporu Türkiye giriş gümrüğüne sunulmak üzere temin edilir.
+ç) Kuduz antikor titrasyon testi, kabul edilebilir anti-kuduz antikor titresine sahip olduğu pasaportunda belirtilen ve kuduz hastalığına karşı aşılamaları düzenli ve 6 ncı maddeye uygun olarak aşılanan hayvanlar için tekrar talep edilmez.
+d) Türkiye menşeli olan ev ve süs hayvanının, başka bir ülkeye gidip tekrar dönmesi durumunda; Türkiye’den hareketinden önce alınmış ve kabul edilebilir anti-kuduz antikor titresine sahip olduğunu gösterir sonuç raporu varsa, (c) bendinde geçen 3 aylık süre koşulu aranmaz.
+e) Ev ve süs hayvanının menşe ülke veteriner servisi tarafından düzenlenmiş ve onaylanmış Ek-2’de örneği verilen bir veteriner sağlık sertifikasına sahip olması gerekir.
+f) Ev ve süs hayvanlarına, yetkili bir veteriner hekimce verilen pasaport eşlik eder. Bu pasaportun, yetkili bir veteriner hekim tarafından uygulanmış olan kuduz aşısının 6 ncı madde hükümlerine uygunluğunu ve geçerlilik süresinin halen devam ettiğini, ayrıca türe özgü diğer hastalıklara karşı da aşı ve ilaç uygulamalarının yapıldığını doğrulaması gerekir.
+(2) Türkiye’ye 3 aylıktan küçük aşılanmamış kedi, köpek ve gelinciklerin girişine, hayvanların getirildiği ülkenin kuduz hastalığına ilişkin hayvan sağlığı durumu göz önüne alınarak Bakanlığın belirlediği sağlık şartlarının karşılanması koşuluyla izin verilebilir.
+(3) Ek-1’deki hayvan türlerinden kısım C’de yer alan hayvan türlerinin yolcu beraberinde ülkeye girişine ilişkin usul ve esaslar Bakanlıkça belirlenir.

@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, ev ve süs hayvanlarının ülke içerisindeki hareketleri, Türkiye’den diğer ülkelere hareketleri ile diğer ülkelerden Türkiye’ye hareketlerinde uygulanacak hayvan sağlığı şartları ile ilgili usul ve esasları kapsar.
+(2) 27/9/1994 tarihli ve 4041 sayılı Kanunla uygun bulunan Nesli Tehlikede Olan Yabanî Hayvan ve Bitki Türlerinin Uluslararası Ticaretine İlişkin Sözleşme ve taraf olunan ekleri kapsamındaki türlerin korunmasına yönelik kurallar, hayvan sağlığı şartları ile ilgili olmayan, bazı tür ve ırkların hareketlerinin kısıtlanmasına ilişkin mevzuat hükümleri saklıdır.
