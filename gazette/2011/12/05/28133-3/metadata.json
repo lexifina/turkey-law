@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-12-05",
+  "issue": "28133",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Ev ve Süs Hayvanlarının Ticari Olmayan Hareketlerinde Uygulanacak Hayvan Sağlığı Şartlarına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111205-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111205.htm",
+  "index_sha256": "f89a12b2d70c3b758e7235af49a9290756b7c3a76d6ea0ad723e6c3904f1fafd",
+  "index_header": "5 Aralık 2011 ... 28133 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
