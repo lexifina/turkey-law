@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-14001-55-1092",
+  "source_id": 29607,
+  "date": "2011-12-05",
+  "title": "Avukatlık hizmet bedeli ücretlerine KDV'nin dahil olup olmadığı hususunda hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29607",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "926c0ea5db4ff2fb4a5b1e0ec9a740f85ae1a830251bb30026a41038dbb433b6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
