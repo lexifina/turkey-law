@@ -1,0 +1,3 @@
+İdari yaptırımlar
+MADDE 20 – (1) Soy kütüğü ve ön soy kütüğünde kayıtlı hayvanlarla ilgili Bakanlıkça belirlenen esaslara aykırı olarak sahte belge düzenleyenlere, sunanlara veya belgede tahrifat yaparak ilgilileri yanıltanlara, 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 36 ncı maddesinin birinci fıkrasının (h) bendi hükmü uygulanır.
+(2) Hayvanın başka bir şahsa satılması, kesilmesi, ölmesi gibi sürü dışına çıkması durumlarını bir ay içerisinde soy kütüğü ve ön soy kütüğü sistemine işletmeyen hayvan sahipleri veya alıcıları hakkında 5996 sayılı Kanunun 36 ncı maddesinin birinci fıkrasının (ı) bendi hükmü uygulanır.

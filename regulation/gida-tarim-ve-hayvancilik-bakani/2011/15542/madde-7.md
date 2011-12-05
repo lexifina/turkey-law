@@ -1,0 +1,2 @@
+Denetleme
+MADDE 7 – (1) Soy kütüğü çalışmalarına yetki verilen merkez birliği Bakanlık tarafından, birlik ise merkez birliği ve/veya Bakanlık tarafından denetlenir. Kurallara ve taahhütlerine uymayanlar yazılı olarak uyarılır. En geç üç ay sonra yapılan denetimde uymamanın devamı durumunda soy kütüğü çalışmalarını yürütme yetkisi geri alınır. Birliğin yetkisinin alınması durumunda soy kütüğü çalışmaları iptal edilir ve tüm işletmeler ön soy kütüğü kapsamına alınarak, çalışmalar il müdürlüğünce yürütülür.
