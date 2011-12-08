@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3532",
+  "decision_date": "2011-12-08",
+  "title": "2012 (1.Çeyrek) Elektrik Piyasası Primer Frekans Kontrol Birim Hizmet Bedeli Tarifesi",
+  "resmi_gazete_date": "2011-12-24",
+  "resmi_gazete_number": "28152",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fPeqlMhDru0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fPeqlMhDru0="
+  ],
+  "source_sha256": "015e795623914ec27eee7507a2905f4acd176e7666c84ae108e6c18108ddd204",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-12-08",
+  "law_text_complete": false
+}
