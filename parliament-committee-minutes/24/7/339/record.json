@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "ADALET KOMİSYONU",
+  "committee_id": 7,
+  "meeting_date": "2011-12-08",
+  "meeting_date_as_published": "08/12/2011",
+  "agenda": [
+    "24.11.2011 TARİHLİ VE 6250 SAYILI SPORDA ŞİDDET VE DÜZENSİZLİĞİN ÖNLENMESİNE DAİR KANUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN VE ANAYASANIN 89 UNCU VE 104 ÜNCÜ MADDELERİ GEREĞİNCE CUMHURBAŞKANINCA BİR DAHA GÖRÜŞÜLMEK ÜZERE GERİ GÖNDERME TEZKERESİ"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/339",
+  "pdf_sha256": "383787ca99e010da512f207f52aca0afb9dafec12cbc060c5ded0d00594b5a29",
+  "pdf_pages": 44,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=7)",
+  "listing_sha256": "480fcfda8fab5aee9512976da16aedacf95ec26b185bbd7276b300000dc0e1dc",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-12-08",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
