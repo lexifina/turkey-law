@@ -1,0 +1,4 @@
+Kesin teminat
+MADDE 42 – (1) Taahhüdün sözleşme ve şartname hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla, sözleşme imzalanmasından önce ihale üzerinde kalan istekliden ihale bedeli üzerinden hesaplanmak suretiyle en az % 6 oranında kesin teminat alınır.
+(2) Fiyat farkı ödenmesi öngörülerek ihale edilen işlerde, fiyat farkı olarak ödenecek bedelin, sözleşme bedelinde artış meydana gelmesi halinde ise bu artış tutarının yüzde altısı oranında, teminat olarak kabul edilen değerler üzerinden ek kesin teminat alınır. Fiyat farkı ödenecek bedel üzerinden hesaplanan ek kesin teminat, hakedişlerden kesinti yapılmak suretiyle de karşılanabilir.
+(3) Sözleşme imzalama süresi içerisinde tamamlanan mal veya hizmet alımlarında, teslim işlemleri tamamlanmış, muayene ve kabul işlemleri yapılmışsa sözleşme imzalanması ve teminat alınması zorunlu değildir.

@@ -1,0 +1,5 @@
+Uyulması gereken diğer kurallar
+MADDE 22 – (1) Yönetmelik kapsamındaki mal veya hizmet alımları ile ilgili ihalelere çıkılmadan önce aşağıda belirtilen hususlara uyulması zorunludur.
+a) Yıllara yaygın mal veya hizmet alımlarını içeren projelerin plânlanan sürede tamamlanarak, birden fazla yılı kapsayan ihalelere çıkılabilmesi için, işin süresine uygun olarak yıllar itibarıyla ödeneğin bütçelerinde bulunmasını sağlamak üzere programlamanın yapılması zorunludur. Ancak ertesi malî yılda gerçekleştirilecek süreklilik arz eden mal veya hizmet alımları için bir önceki malî yıl sona ermeden ihaleye çıkılabilir.
+b) İhale dokümanı hazırlanmadan ilân yapılamaz. İlân sürelerinin hesaplanmasında ilânın yayımlandığı gün dikkate alınır, ihale günü veya son başvuru günü dikkate alınmaz.
+c) İhale için tespit olunan tarih tatil gününe rastlamışsa ihale, tekrar ilâna gerek kalmaksızın tatili takip eden ilk iş gününde aynı yer ve saatte yapılır ve bu saate kadar verilen teklifler kabul edilir. İhale saati, çalışma saati dikkate alınarak tespit edilir. İlândan sonra çalışma saati değişse de ihale ilân edilen saatte yapılır.

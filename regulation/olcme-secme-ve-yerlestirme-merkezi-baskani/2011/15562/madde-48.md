@@ -1,0 +1,2 @@
+Fiyat farkı
+MADDE 48 – (1) Şartname ve sözleşmesinde belirtilmek koşuluyla, ilgili mevzuat hükümleri çerçevesinde fiyat farkı hesaplanabilir. Fiyat farkı hesaplanması öngörülerek ihale edilen işlerde, fiyat farkı olarak ödenecek bedelin en az % 6 oranında ek kesin teminat alınır. Fiyat farkı olarak ödenecek bedel üzerinden hesaplanan ek kesin teminat hakedişlerden kesinti yapmak suretiyle karşılanabilir. Fiyat farkı kesintisi yapılması gereken hallerde de yürürlükte bulunan Fiyat Farkı Kararnamesi hükümleri uyarınca işlem yapılır.

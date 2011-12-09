@@ -1,0 +1,2 @@
+Sözleşmenin devri
+MADDE 53 – (1) Sözleşme, ihale yetkilisinin yazılı izni ile sözleşmenin devrini gerektiren zorunlu bir halin bulunması ve devralacaklarda ilk ihaledeki şartların bulunması şartıyla bir başkasına devredilebilir. İsim ve statü gereği yapılan devirler, sözleşmenin devri olarak kabul edilmez. İhale yetkilisinin izni olmadan sözleşmenin devredilmesi halinde, sözleşme feshedilir ve devreden ve devir alanlar hakkında 54 üncü madde hükümleri uygulanır.

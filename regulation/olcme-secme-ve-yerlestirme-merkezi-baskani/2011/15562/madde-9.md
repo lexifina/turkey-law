@@ -1,0 +1,8 @@
+Yaklaşık maliyet
+MADDE 9 – (1) Yaklaşık maliyet, ihale öncesi her türlü fiyat araştırması yapılarak katma değer vergisi hariç olmak üzere belirlenir, dayanaklarıyla birlikte bir hesap cetvelinde gösterilir.
+(2) Yaklaşık maliyete ihale ilanlarında yer verilmez. İsteklilere veya ihale süreci ile resmî ilişkisi olmayan diğer kişilere yaklaşık maliyet açıklanmaz.
+(3) Mal veya hizmetin niteliğine göre yaklaşık maliyet, kamu kurum ve kuruluşları ve meslek kuruluşlarınca yayımlanan birim fiyatları veya listelerine, genel tarifelere, bilirkişilerin hesap veya tahminlerine veya piyasa rayiçlerine göre, gerektiğinde ilgili kuruluşlardan belge alınarak ve birim fiyatlar göz önünde tutularak hesaplanır ve saptanır.
+(4) İdare, alım konusu mal ile ilgili daha önceki dönemlerde alım yapmış ise Türkiye İstatistik Kurumu tarafından yayımlanan Üretici Fiyatları Endeksinden (ÜFE) yararlanmak suretiyle bu alımlara ilişkin fiyatları güncelleyerek yaklaşık maliyeti hesaplayabilir.
+(5) Döviz ile yapılmış olan alımlarda ise Türkiye Cumhuriyet Merkez Bankası döviz alış kuru veya çapraz kur üzerinden fiyatlar güncellenerek yaklaşık maliyet hesaplanabilir.
+(6) Yaklaşık maliyetin sınaî ve teknolojik zorunluluklar nedeniyle belirlenemediği veya yapılan araştırmalara rağmen fiyat tespiti yapılamayan hallerde, özellik ve ivedilik gösteren işlerde, sınavların gizlilik ve güvenliğini sağlamak ve sınavların önceden açıklanmış tarihlerde yapılmasını teminen, ilgili harcama yetkilisinin teklifi ve Başkanın onayında açıklanmış olmak kaydıyla fiyat almak suretiyle alıma çıkılabilir.
+(7) Yaklaşık maliyetin tespitinde herhangi bir sıralama gözetilmeksizin yukarıda belirtilen yöntemlerden biri ve/veya birkaçı birlikte kullanılabilir.

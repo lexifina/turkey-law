@@ -1,0 +1,2 @@
+Yerli istekliler ile ilgili düzenlemeler
+MADDE 14 – (1) Hizmet alımlarında bütün yerli istekliler lehine, mal alımlarında ise yerli malı olarak belirlenen malları teklif eden yerli istekliler lehine % 15 oranına kadar fiyat avantajı sağlanması hususlarında ihale dokümanına hükümler konulabilir. Ancak yabancı istekliler ile ortak girişim yapmak suretiyle ihalelere katılan yerli istekliler bu hükümden yararlanamaz.

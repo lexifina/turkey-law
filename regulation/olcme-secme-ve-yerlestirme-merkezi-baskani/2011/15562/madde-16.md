@@ -1,0 +1,2 @@
+İhale dokümanı
+MADDE 16 – (1) Sınav hizmetleri ile ilgili mal veya hizmet alımları için ihale işlem dosyası düzenlenir. Bu dosyada onay belgesi ve eki yaklaşık maliyete ilişkin hesap cetveli, şartname ve ekleri, gerekli projeler, yapılmışsa ilân metinleri, istekliler tarafından sunulan teklifler, sözleşme tasarısı, ihale komisyonu tutanak ve kararları gibi ihale süreci ile ilgili diğer bütün belgeler bulunur.

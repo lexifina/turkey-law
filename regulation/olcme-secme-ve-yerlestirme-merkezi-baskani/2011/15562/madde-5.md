@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Uygulama İlkeleri
+Temel ilkeler
+MADDE 5 – (1) İdare, Yönetmeliğe göre yapılacak ihalelerde; saydamlığı, rekabeti, eşit muameleyi, güvenirliği, gizliliği, kamuoyu denetimini, İdare menfaatlerinin gözetilmesi ve korunmasını, ihtiyaçların uygun şartlarla ve zamanında karşılanmasını ve kaynakların verimli kullanılmasını sağlamakla sorumludur. Ancak sınavlarda güvenlik veya gizlilik gerektiren ihtiyaçların karşılanmasında; güvenlik veya gizliliğin gerektirdiği hususlar da dikkate alınır. (2) Aralarında kabul edilebilir doğal bir bağlantı olmadığı sürece mal ve hizmet alımlarının bir arada ihale edilmemesi esastır. Ancak mal ve hizmet alımlarının bir arada yapılmasını gerektiren bir zorunluluk oluştuğu veya bu alımların ayrılmasının mümkün olmadığı durumlarda, ihale yetkilisinin teklifi ve Başkanın uygun görüşü ile bu alımlar bir arada yapılabilir.
+(3) Ödeneği olmayan işler için ihaleye çıkılmaması esastır. Tek bütçe yılını aşan hizmet alımlarında, ilk yıl için bütçede, yılsonuna kadar geçecek kısmının, alım yapılan süreye oranı miktarında ödenek bulunması yeterlidir.
+(4) Yönetmelik kapsamında alımı yapılacak mal ve hizmetler için ihale yetkilisinin onayını müteakiben İdareden ihale kayıt numarası alınır. İhaleye ilişkin tutulacak tüm tutanaklarda, yasaklılık teyitlerinde ve yapılacak bildirimlerde bu kayıt numarası kullanılır.

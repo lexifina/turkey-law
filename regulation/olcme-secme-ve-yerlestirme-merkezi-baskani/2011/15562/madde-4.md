@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Yönetmeliğin uygulanmasında;
+a) Açık ihale usulü: Bütün isteklilerin teklif verebildiği ihale usulünü,
+b) Belli istekliler arasında ihale usulü: Ön yeterlik değerlendirmesi sonucunda İdare tarafından yeterli bulunan isteklilerin teklif verebildiği usulü,
+c) Benzer iş: İhale konusu alım veya alımın bölümleriyle nitelik ve büyüklük bakımından benzerlik gösteren, aynı veya benzer üretim usul ve tekniğiyle üretilen, teçhizat, ekipman, mali güç ve uzmanlık ile personel ve organizasyon gerekleri bakımından benzer özellik taşıyan işleri,
+ç) Doğrudan temin: Bu Yönetmelikte belirtilen hallerde, isteklilerle teknik şartların ve fiyatın görüşülerek ihtiyaçların doğrudan temin edilebildiği alım türünü,
+d) Harcama birimi: İdare bütçesinde ödenek tahsis edilen ve harcama yetkisi bulunan birimi,
+e) Hizmet: Sınav, ölçme, değerlendirme ve yerleştirme hizmetleri kapsamında olmak üzere, soru hazırlama, baskı, dağıtım, paketleme, taşıma, yazılım hizmetleri, güvenlik, işgücü hizmetlerini,
+f) İdare: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+g) İhale: Bu Yönetmelikte yazılı usul ve şartlarla mal veya hizmet alımlarının istekliler arasından seçilecek birisi üzerine bırakıldığını gösteren ve sözleşmenin imzalanması ile tamamlanan işlemleri,
+ğ) İhale yetkilisi: İdarenin, ihale ve harcama yapma, ihale usulü ve içeriği belirleme yetki ve sorumluluğuna sahip kişileri ile usulüne uygun olarak yetki devri yapılmış görevlilerini,
+h) İstekli: Mal veya hizmet alımları ihalelerine teklif veren adayları,
+ı) Mal: Sınav, ölçme, değerlendirme ve yerleştirme hizmetleri ile sınırlı olarak satın alınan donanım ve yazılım olarak bilgisayar ve iletişim altyapısını,
+i) Ortak girişim: İhaleye katılmak üzere birden fazla gerçek veya tüzel kişinin aralarında yaptıkları anlaşma ile oluşturulan iş ortaklığı veya konsorsiyumları,
+j) Pazarlık usulü: Bu Yönetmelikte belirtilen hallerde kullanılabilen ve İdarenin ihale konusu işin teknik detayları ile gerçekleştirme yöntemlerini ve fiyatı isteklilerle görüştüğü usulü,
+k) Sözleşme: Mal veya hizmet alımlarında İdare ile yüklenici arasında yapılan yazılı anlaşmayı,
+l) Şartname: Yapılacak işlerin genel, özel, teknik ve idari esas ve usullerini gösteren belgeleri,
+m) Teklif: Bu Yönetmeliğe göre yapılacak ihalelerde isteklinin İdareye sunduğu fiyat teklifi ile değerlendirmeye esas belge ve/veya bilgileri,
+n) Yerli istekli: Türkiye Cumhuriyeti vatandaşı gerçek kişiler ile Türkiye Cumhuriyeti kanunlarına göre kurulmuş tüzel kişilikleri,
+o) Yerli malı: Tamamen Türkiye’de üretilen veya elde edilen ürünler ile üretim sürecinin önemli bir aşaması ve ekonomik yönden gerekli görülen en son esaslı işçilik ve eylemi Türkiye’de yapılan ürünleri,
+ö) Yönetmelik: Bu Yönetmeliği,
+p) Yüklenici: Üzerine ihale yapılan ve sözleşme imzalanan istekliyi,
+ifade eder.

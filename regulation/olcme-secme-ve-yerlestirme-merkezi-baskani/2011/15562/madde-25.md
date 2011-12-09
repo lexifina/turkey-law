@@ -1,0 +1,4 @@
+Belli istekliler arasında ihale usulü
+MADDE 25 – (1) Belli istekliler arasında ihale usulü, yapılacak ön yeterlik değerlendirmesi sonucunda İdarece davet edilen isteklilerin teklif verebildiği usuldür. İşin özelliğinin uzmanlık ve/veya yüksek teknoloji gerektirmesi, sınavlarda gizlilik ve güvenliğin sağlanabilmesi nedenleriyle açık ihale usulünün uygulanamadığı mal veya hizmet alımlarının ihalesi bu usule göre yapılabilir.
+(2) Ön yeterlik dokümanı ile ön yeterlik ilânında belirtilen değerlendirme kriterlerine göre adayların ön yeterlik değerlendirmesi yapılır. Belirtilen asgari yeterlik koşullarını sağlayamayanlar yeterli kabul edilmez. Yeterli olduğu tespit edilen bütün adaylara tekliflerini hazırlayabilmeleri için yeterince süre verilerek ihaleye davet mektubu gönderilir.
+(3) Ön yeterlik değerlendirmesi sonucunda yeterli bulunmayan adaylara da yeterli bulunmama gerekçeleri yazılı olarak bildirilir.

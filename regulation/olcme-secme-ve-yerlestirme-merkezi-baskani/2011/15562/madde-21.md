@@ -1,0 +1,3 @@
+İhale saatinden önce ihalenin iptal edilmesi
+MADDE 21 – (1) İhale dokümanında yer alan belgelerde İdarenin gerekli gördüğü veya ihalenin yapılmasına engel olan ve düzeltilmesi mümkün olmayan hususların bulunduğunun tespit edildiği hallerde ihale, ihale saatinden önce iptal edilebilir.
+(2) Bu durumda, iptal nedeni belirtilmek suretiyle ihalenin iptal edildiği isteklilere hemen ihale ilanındaki usulle ilân edilerek duyurulur. İhalenin iptal edildiği ana kadar teklif vermiş olanlara ihalenin iptal edildiği ayrıca tebliğ edilir. İhalenin iptal edilmesi halinde, verilmiş olan bütün teklifler reddedilmiş sayılır ve bu teklifler açılmaksızın isteklilere iade edilir. İhalenin iptal edilmesi nedeniyle isteklilerce İdareden herhangi bir hak talebinde bulunulamaz.

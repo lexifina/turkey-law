@@ -1,0 +1,6 @@
+DÖRDÜNCÜ BÖLÜM
+Tekliflerin Değerlendirilmesi
+Teklif mektuplarının alınması ve açılması
+MADDE 35 – (1) Teklifler, ihale dokümanında belirtilen son teklif verme gün ve saatine kadar ihaleyi yapan birim tarafından görevlendirilen personele elden imza karşılığı verilir veya iadeli taahhütlü posta ile gönderilir. Alınan teklif zarfları, ihale tarihinde, ihale komisyonu başkanına imzası karşılığında elden teslim edilir.
+(2) 29 uncu maddenin birinci fıkrasına uygun olmayan zarflar, tutanakla belirlenerek komisyonca değerlendirmeye alınmaz.
+(3) İhale tarihinde isteklilerin katılabileceği oturumda değerlendirmeye alınan teklif zarfları açılarak tutanak düzenlenir. İsteklilerin belgelerinin eksik olup olmadığı ve teklif mektubu ile geçici teminatlarının usulüne uygun olup olmadığı kontrol edilir. Belgeleri eksik veya teklif mektubu ile geçici teminatı usulüne uygun olmayan istekliler tutanakla tespit edilir. İstekliler ile teklif fiyatları açıklanır. Bu işlemlere ilişkin hazırlanan tutanak ihale komisyonunca imzalanır. Bu aşamada hiçbir teklifin reddine veya kabulüne karar verilmez. Teklifi oluşturan belgeler düzeltilemez ve tamamlanamaz. Teklifler ihale komisyonunca hemen değerlendirilmek üzere oturum kapatılır.
