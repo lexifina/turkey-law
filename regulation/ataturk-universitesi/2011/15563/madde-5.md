@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Üniversitenin nanobilim, nanoteknoloji nanomühendislik konularında yürütülen bilimsel ve teknolojik çalışmaları yapmak için laboratuar imkanları hazırlamak, yeni yöntemleri, teknikleri kullanarak üstün özellikli yeni bilimsel ve teknolojik ürünler geliştirmek, Türkiye'nin bu alanda öncelikli konularını belirleyerek bu konularda çalışmalar yapmak, laboratuvar şartlarında bilimsel araştırmalar yaparak günlük kullanım alanı olan ürünleri geliştirmek, bunları endüstriye uygun hale getirecek araştırma faaliyetlerinde bulunmak ve Üniversitenin bu konularda araştırmalar yapan diğer birimleriyle işbirliği yapmak, geliştirilen bilgi ve ürünlerin kullanıcılara aktarılmasına katkıda bulunmak ve ulusal ve uluslararası işbirliği sağlamaktır.
