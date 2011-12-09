@@ -1,0 +1,61 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2011/49",
+  "date": "2011-12-09",
+  "title": "SPK Haftalık Bülteni 2011/49",
+  "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_49.pdf",
+  "source_sha256": "321c5b4d051558450cdb9ffa3e06f36ba1c09cd48b29293c07f286120fee4847",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. YENİ FAALİYET İZNİ",
+    "F. ÖZEL DURUMLAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 03.01.2011 – 09.12.2011 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_49.pdf"
+    },
+    {
+      "heading": "B. 05.12.2011 – 09.12.2011 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_49.pdf"
+    },
+    {
+      "heading": "C. 05.12.2011 – 09.12.2011 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_49.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_49.pdf"
+    },
+    {
+      "heading": "F. ÖZEL DURUMLAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_49.pdf"
+    },
+    {
+      "heading": "G. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_49.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
