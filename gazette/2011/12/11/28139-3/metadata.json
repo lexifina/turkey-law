@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-12-11",
+  "issue": "28139",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Veteriner Teşhis ve Analiz Laboratuvarları Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111211-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111211.htm",
+  "index_sha256": "8583a25cea3cf97dd188e0eb79d6b25c6b3edd3335f7c44038158d45600dd63b",
+  "index_header": "11 Aralık 2011 ... 28139 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
