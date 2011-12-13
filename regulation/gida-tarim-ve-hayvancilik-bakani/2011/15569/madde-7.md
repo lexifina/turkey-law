@@ -1,0 +1,8 @@
+Hastalık teyiti
+MADDE 7 – (1) Laboratuvar raporuna istinaden veteriner hekim hastalık çıkış raporunu düzenler, derhal mahalli hayvan sağlık zabıtası komisyonunu toplar, komisyon hükümet veteriner hekiminin raporuna istinaden hastalık çıkış kararı alır ve ilan eder.
+(2) Laboratuvar muayenesine göre bu hastalığın tespit edildiği kümeslerde ölen kanatlılar imha edilirler. Enfeksiyondan şüpheli genel durumu bozuk olan kanatlılar da itlaf edilerek imha edilirler.
+(3) Hastalığın tespit edildiği ticari kümeslerdeki yumurtacı veya broyler sürülerinde laboratuvar muayenesi 21 gün ara ile tekrarlanır. Son iki muayenenin menfi çıkması halinde sürü hastalıksız kabul edilir.
+(4) Bu hastalıkların tespit edildiği kümeslerdeki sürüler damızlık olarak kullanılmaz. Damızlık kanatlı işletmesinde bu hastalıkların görülmesi durumunda hastalığın görülmesinden 7 gün öncesine kadar bu işletmeden civciv temin eden işletmeler hastalık yönünden takip edilir.
+(5) Damızlık kanatlı işletmeleri ile kuluçkahanelerde söz konusu hastalıkların tespit edilmesi durumunda, 20/3/2007 tarihli ve 26468 sayılı Resmî Gazete’de yayımlanan Kuluçkahane ve Damızlık Kanatlı İşletmeleri Yönetmeliği hükümleri uygulanır.
+(6) Yurtdışından ithal edilen yumurtalar ve canlı kanatlı hayvanlar, gümrük kapılarında bu hastalık bakımından laboratuvar muayenesine tabi tutulur ve sonuçların menfi çıkması durumunda yurda girişine izin verilir. Sonucun müspet çıkması durumunda 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu hükümleri uygulanır.
+(7) Kanatlı tifosu ile kanatlılarda pullorum hastalığı sebebiyle alınan kordon ve karantina tedbirleri, üçüncü fıkrada yer alan şart yerine getirildikten sonra temizlik ve dezenfeksiyon yapılarak kaldırılır.

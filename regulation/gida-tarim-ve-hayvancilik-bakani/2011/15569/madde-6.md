@@ -1,0 +1,3 @@
+Hastalık şüphesi
+MADDE 6 – (1) Kanatlı tifosu ile kanatlılarda pullorum hastalığının çıktığını haber alan resmi veteriner hekim hastalık mahallinde gerekli muayene ve incelemeleri yapar, kordon ve karantina tedbirlerini alır.
+(2) Kanatlı tifosu ile kanatlılarda pullorum hastalığından şüpheli sürülerden alınan ölü veya hasta hayvanlardan birkaç tanesi kesin teşhis için, usulüne uygun olarak bağlı bulunduğu Veteriner Kontrol Enstitüsü Müdürlüğüne gönderilir. Laboratuvara hasta ve ölü hayvan gönderilmesinin mümkün olmadığı durumlarda; hastalıklı kanatlılara ait iç organlar, uzun kemikler, gaita, kloakal sıvaplar, yumurta ve kan serumları laboratuvara gönderilir.
