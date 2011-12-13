@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-12-13",
+  "issue": "28141",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Barolar Birliği Sosyal Yardım ve Dayanışma Fonu Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111213-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111213.htm",
+  "index_sha256": "19bc665deeb4338013472b9e4761280d01ec62dc4868ecad542b08d9a2f18f0d",
+  "index_header": "13 Aralık 2011 ... 28141 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
