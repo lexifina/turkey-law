@@ -1,0 +1,16 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen,
+a) Analiz için numune alma: Üründen, varsa alıcı ülke kriterlerine veya Türk gıda veya yem mevzuatına uygunluğunu kontrol etmek amacıyla örnek alınmasını,
+b) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+c) Beyanname: Üretici/İhracatçı veya temsilcisi tarafından düzenlenen, ürün ve/veya ürünler ile firma bilgilerinin ve taleplerinin yer aldığı ve ek-1’de yer alan Sağlık Sertifikası İhracatçı Beyannamesini,
+ç) Ekli Liste: Üretici/İhracatçı veya temsilcisi tarafından düzenlenen, ürün ve ihracat bilgilerini içeren ek-2’de yer alan belgeyi,
+d) Genel Müdürlük: Bakanlık Gıda ve Kontrol Genel Müdürlüğünü,
+e) GGBS: Gıda Güvenliği Bilgi Sistemini,
+f) İl/İlçe müdürlüğü: Yetkili il/ilçe gıda, tarım ve hayvancılık müdürlüğünü,
+g) Kanun: 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununu,
+ğ) Muayene ve analiz raporu: Resmi prosedür ile gönderilen numunelerin laboratuvarca yapılan analizleri sonucunda düzenlenen, analiz sonuçlarını gösteren raporu,
+h) Resmi kontrol: Kanun kapsamındaki faaliyetlerin Kanun hükümlerine uygunluğunun doğrulanması için kontrol görevlilerinin, verilen yetki çerçevesinde gerçekleştirdikleri izleme, gözetim, denetim, muayene, karantina, numune alma, analiz ve benzeri kontrolleri,
+ı) Sertifika: Gıda güvenilirliğine yönelik düzenlenen ve ek-3’te yer alan Sağlık Sertifikasını,
+i) Uygunsuzluk: İhraç edilmek istenen ve/veya ihracattan geri dönen ürünün alıcı ülke ve/veya Türk gıda veya yem mevzuatına uyumsuz olma durumunu,
+j) Ürün: Bitkisel gıda ve gıda ile temas eden madde ve malzemeler ile bitkisel yem ve yemlik maddeleri,
+ifade eder.

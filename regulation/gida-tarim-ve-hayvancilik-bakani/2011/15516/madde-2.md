@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; bitkisel gıda ve gıda ile temas eden madde ve malzemeler ile bitkisel yem ve yemlik maddelerin ihracat ve çıkış aşamalarında gıda ve yem güvenilirliğine yönelik, gerekli kontrollerin yapılarak sağlık sertifikası düzenlenmesi, onaylanması ve ihracattan geri dönen ürünlerin yurt içine girişinde uygulanacak usul ve esasları kapsar.
+(2) Alıcı ülke taleplerine göre özel mevzuatı yayımlanarak sertifika formatı ve içeriği ayrıca belirlenen bitkisel gıda ve gıda ile temas eden madde ve malzemeler ile bitkisel yem ve yemlik maddelerin ihracatında ve çıkışında; kendi özel mevzuatında yer alan hükümler saklı kalmak kaydıyla bu Yönetmelik hükümleri uygulanır.
