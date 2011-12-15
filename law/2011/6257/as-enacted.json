@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6257",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ve Rusya Federasyonu Hükûmeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-12-15",
+  "gazette_issue": "28143",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111215-5.htm",
+  "source_sha256": "2c9d26e3e21d21e1904966060b1e08f69bbe9a8941fa983ff4f8a0e4e50cd0f5",
+  "text_sha256": "ebf259d180a164ff2e45a39339350590d60171a175016e943db513ff23423151",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/12/15/28143-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111215-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
