@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "DIŞİŞLERİ KOMİSYONU",
+  "committee_id": 11,
+  "meeting_date": "2011-12-15",
+  "meeting_date_as_published": "15/12/2011",
+  "agenda": [
+    "KITA SAHANLIĞINDA BULUNAN SABİT PLATFORMLARIN GÜVENLİĞİNE KARŞI YASADIŞI EYLEMLERİN ÖNLENMESİNE DAİR PROTOKOLE AİT 2005 PROTOKOLÜNÜN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/307)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE ENDONEZYA CUMHURİYETİ HÜKÜMETİ ARASINDAN DENİZ TAŞIMACILIĞI ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/281)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE RUSYA FEDERASYONU HÜKÜMETİ ARASINDA DENİZ TAŞIMACILIĞI ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/464)",
+    "TÜRKİYE CUMHURİYETİ İLE KUZEY KIBRIS TÜRK CUMHURİYETİ ARASINDA AKDENİZ?DE KITA SAHANLIĞI SINIRLANDIRILMASI HAKKINDA ANLAŞMANIN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/471",
+    "TÜRKİYE İLE UKRAYNA ARASINDA ULUSLARARASI DOĞRUDAN YÜK DEMİRYOLU-FERİBOT HİZMETİNİN ORGANİZASYONU KONUSUNDA TÜRKİYE CUMHURİYETİ HÜKÜMET İLE UKRAYNA BAKANLAR KURULU ARASINDA ANLAŞMANIN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/477)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/401",
+  "pdf_sha256": "2391e5d940d0a250fc54608f993fb2a53e6d9b978bab626c03e255fc0d5fb79c",
+  "pdf_pages": 32,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=11)",
+  "listing_sha256": "efc563a4b8d46e4875ff97f17d46f82861739696a9966ad2a4657ae091dbe9bd",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2011-12-15",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
