@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6258",
+  "year": 2011,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Senegal Cumhuriyeti Hükûmeti Arasında Yatırımların Karşılıklı Teşviki ve Korunması Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-12-15",
+  "gazette_issue": "28143",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111215-6.htm",
+  "source_sha256": "cfccf505906258b645a812fe52b745ca3beb4f60b9593cb994e8eb6205737980",
+  "text_sha256": "cfec9d6cdaad2ff8cbd0e154cd64b2fe9b57f3b264cdc104a0d023321fb524e9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/12/15/28143-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111215-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
