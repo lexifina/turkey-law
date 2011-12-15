@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6259",
+  "year": 2011,
+  "title": "Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanunda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2011-12-15",
+  "gazette_issue": "28143",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111215-7.htm",
+  "source_sha256": "e50e57fec4ea8dc5c6df39baaf1ce8328502f05dd50ccd0095e7e6c13ea173d2",
+  "text_sha256": "0cebdc8b423df303a9c36222f1562b2ed4c8bca7e2199f15134fd807bb47786c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2011/12/15/28143-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111215-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
