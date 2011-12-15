@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3548",
+  "decision_date": "2011-12-15",
+  "title": "Bursa Şehiriçi Doğal Gaz Ticaret ve Taahhüt Anonim Şirketi’nin uygulayacağıtaşıma bedeline ilişkin",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=on6q0azY4jY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=on6q0azY4jY="
+  ],
+  "source_sha256": "8acbfa23e80b1aa42483b352c2bdce6f7bdfe0bdaffac26d206b50dbe15b0020",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-12-15",
+  "law_text_complete": false
+}
