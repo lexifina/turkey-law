@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-12-15",
+  "issue": "28143",
+  "edition": "regular",
+  "item": 22,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türk Hava Kurumu Üniversitesi Lisansüstü Eğitim Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111215-22.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111215.htm",
+  "index_sha256": "61500753d3f4af034c142f6ec2d88c8ffd7aa8071a5f49b912272b692ad734f4",
+  "index_header": "15 Aralık 2011 ... 28143 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
