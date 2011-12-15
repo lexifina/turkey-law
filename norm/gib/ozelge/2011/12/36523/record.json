@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.70.10.00-MTV/2-6-1",
+  "source_id": 36523,
+  "date": "2011-12-15",
+  "title": "2010 yılı Mayıs ayında trafikten çekilen ve 27/10/2010 tarihli araç satış sözleşmesiyle satın alınan taşıt nedeniyle 2010/2. dönemi için motorlu taşıtlar vergisi tahakkuk ettirilip ettirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36523",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "70d50a294cd73c1853fa88b8d5a58ad1dcef9103b8e29908b894daf35902f190",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
