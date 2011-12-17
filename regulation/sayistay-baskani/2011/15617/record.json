@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.15617",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAYIŞTAY BAŞSAVCILIĞI ÇALIŞMA YÖNETMELİĞİ",
+  "number": "15617",
+  "issuer": "Sayıştay Başkanı",
+  "issuer_slug": "sayistay-baskani",
+  "path": "regulation/sayistay-baskani/2011/15617",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15617&MevzuatTertip=5",
+  "source_sha256": "6a22e34115f2f0166ca4315c7ca7ecf041ef9ade66757b95e60fd90beb822462",
+  "source_bytes": 21870,
+  "published": "2011-12-17",
+  "gazette": "28145",
+  "in_force": "2011-12-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.12.2011); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 932,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15617%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

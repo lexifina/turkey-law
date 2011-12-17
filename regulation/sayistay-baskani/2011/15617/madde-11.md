@@ -1,0 +1,2 @@
+Hesabını vermeyenler ile bilgi ve belgeleri vermeyen sorumluların takibi
+Madde 11 – (1) Hesabını veya hesaba ilişkin istenilen bilgi, belge ve defterleri vermeyenlerle ilgili olarak, Kanunun 9 uncu maddesindeki yaptırımların uygulanması için durum ilgililerin bağlı olduğu kuruma Başsavcılıkça bildirilir. Başsavcılık ilgililer hakkında yaptırımların uygulanıp uygulanmadığını izler ve sonucu Başkanlığa bildirir.

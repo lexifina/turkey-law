@@ -1,0 +1,2 @@
+Suç teşkil eden fiiller
+Madde 10 – (1) Yapılan denetim ve incelemeler sırasında tespit edilen ve dairece yapılan ilk inceleme sonucunda toplanan delillerin kamu davası açılmasını gerektirecek nitelikte görülmesi nedeniyle Başsavcılığa intikal ettirilen dosya, gereği yerine getirilmek üzere sorumluların bağlı olduğu kamu idaresine veya suçun niteliğine göre doğrudan soruşturma yapılmak üzere ilgili Cumhuriyet Başsavcılığına gönderilir.
