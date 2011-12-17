@@ -1,0 +1,2 @@
+Gizlilik ve mesleki sırların saklanması
+MADDE 14 – (1) Sayıştay denetçileri, görevleri dolayısıyla elde ettikleri kamuya açık olmayan bilgileri, yetkili olmayan kişi ve kuruluşlara şahsi yorum, tavsiye veya başka suretlerle aktarmaz. Görevleri dolayısıyla öğrendikleri sırlar ile ilgililere ve üçüncü kişilere ilişkin gizli kalması gereken bilgileri kanunen açıkça yetkili kılınan merciler dışında hiçbir kurum, kuruluş veya kişiye açıklamaz; kendilerinin ya da başkalarının yararına veya üçüncü kişilerin zararına kullanmaz.

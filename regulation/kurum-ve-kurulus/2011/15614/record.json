@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.15614",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAYIŞTAY DENETÇİLERİNİN MESLEKİ ETİK KURALLARINA İLİŞKİN USUL VE ESASLAR",
+  "number": "15614",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2011/15614",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15614&MevzuatTertip=5",
+  "source_sha256": "0449a273e5c438e0df62b61aa04fe4bdade90c521554163e9939962ed2ce7943",
+  "source_bytes": 28495,
+  "published": "2011-12-17",
+  "gazette": "28145",
+  "in_force": "2011-12-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.12.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1391,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
