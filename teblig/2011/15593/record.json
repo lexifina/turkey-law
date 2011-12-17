@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.15593",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GİDER VERGİLERİ GENEL TEBLİĞİ SERİ NO: 88",
+  "number": "15593",
+  "path": "teblig/2011/15593",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15593&MevzuatTertip=5",
+  "source_sha256": "cad05ba533aaa918d4f9175ba7678d931be8751d90fdfb656858e13ca1f1bd7d",
+  "source_bytes": 16639,
+  "published": "2011-12-17",
+  "gazette": "28145",
+  "in_force": "2011-12-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.12.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 859,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
