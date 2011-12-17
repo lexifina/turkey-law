@@ -1,0 +1,8 @@
+Taşıma
+MADDE 13 – (1) Gıdanın taşınması için kullanılan araç ve/veya kaplar, gıdayı bulaşmadan korumak için temiz tutulur, bakımlı bir şekilde ve iyi şartlarda muhafaza edilir ve gerekli durumlarda yeterli temizlik ve dezenfeksiyona izin verecek şekilde tasarlanır ve imal edilir.
+(2) Taşıma araçlarının ve/veya konteynerlerin içindeki kaplar, bulaşmaya sebep olabileceği için, gıdadan başka herhangi bir maddenin taşınmasında kullanılmaz.
+(3) Gerekli durumlarda; gıdalar ile gıda dışındaki maddelerin veya farklı gıdaların aynı anda birlikte konteyner ve/veya taşıma araçları ile taşınması halinde ürünlerin birbirinden yeterince ayrılması sağlanır.
+(4) Sıvı, granül ve toz halindeki hazır ambalajlı hale getirilmemiş gıda; gıdanın taşınması için ayrılmış kaplar ve/veya konteyner/tankerlerde taşınır. Bu tür konteynerler, gıdanın taşınması için kullanıldığını göstermek amacıyla, Yalnız Gıda İçindir. şeklinde Türkçe veya Türkçe ile birlikte diğer herhangi bir yabancı dil kullanılarak, açıkça görülebilecek, silinmeyecek ve bu amaca yönelik olarak kullanıldığını gösterecek şekilde işaretlenir.
+(5) Araçlar ve/veya konteynerler, sürekli taşınan gıdadan başka herhangi bir madde veya farklı gıdaların taşınmasında kullanılmaları durumunda, bulaşma riskinden kaçınmak için, yüklemeler arasında etkili bir şekilde temizlenir ve gerekli durumlarda dezenfekte edilir.
+(6) Gıdalar, araçların ve/veya konteynerlerin içine bulaşma riskini en aza indirecek biçimde yerleştirilir ve korunur.
+(7) Gıdaların taşınması için kullanılan araç ve/veya konteynerlerin, gerekli durumlarda taşınan gıdaları uygun sıcaklıklarda muhafaza etmesi ve söz konusu sıcaklıkları izlemeye imkân verecek nitelikte olması gerekir.

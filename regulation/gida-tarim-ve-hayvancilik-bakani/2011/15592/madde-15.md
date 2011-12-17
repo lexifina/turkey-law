@@ -1,0 +1,5 @@
+Gıda atığı
+MADDE 15 – (1) Gıda atığı, gıda olarak tüketilmeyen yan ürünler ve diğer atıklar; gıda bulunan ortamlarda birikmelerini engellemek için mümkün olduğunca hızlı bir şekilde uzaklaştırılır.
+(2) Gıda atığı, gıda olarak tüketilmeyen yan ürünler ve diğer atıklar; kapatılabilir kaplarda veya bu Yönetmeliğin amacına uygun alternatif bir sistemle toplanır. Kapların veya alternatif sistemin uygun şekilde yapılmış olması, sağlam durumda muhafaza edilmesi, kolayca temizlenmeye ve gerekli durumlarda dezenfeksiyona uygun olması gerekir.
+(3) Gıda atığı, gıda olarak tüketilmeyen yan ürünler ve diğer atıkların depolanması ve işletmeden uzaklaştırılması için gerekli imkânlar sağlanır. Atık depoları; temiz tutulmasına imkân sağlayan, gerekli durumlarda hayvanlardan ve haşerelerden korunacak şekilde tasarlanır ve buna uygun olarak kullanılır.
+(4) Bütün atıklar, mevzuatına göre hijyenik ve çevreye zarar vermeyecek şekilde ortamdan uzaklaştırılır, doğrudan veya dolaylı bulaşma kaynağı olması engellenir.

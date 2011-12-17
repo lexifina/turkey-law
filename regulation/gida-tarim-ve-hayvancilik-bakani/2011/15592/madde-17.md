@@ -1,0 +1,4 @@
+Personel hijyeni
+MADDE 17 – (1) Gıdanın muameleye tabi tutulduğu alanlarda çalışan bütün personelin, kişisel temizliğini sürdürmeye azami itina göstermesi, temiz ve gerekli durumlarda uygun koruyucu kıyafet giymesi gerekir.
+(2) Gıda ile taşınabilen bir hastalığı olan veya bu hastalığın taşıyıcısı durumundaki veya enfekte yara, deri enfeksiyonları, ağrılar veya ishal gibi şikâyetleri olan kişilerin herhangi bir şekilde doğrudan veya dolaylı bulaştırma ihtimali varsa, gıda ile temasına, gıdaları muamele etmesine veya gıdaların muameleye tabi tutulduğu alanlara girmesine izin verilmez.
+(3) Gıda işinde çalışan, gıda ile teması olma ihtimali olan ve bu maddenin ikinci fıkrasında bahsedilen belirtileri gösteren kişiler, hastalığını veya belirtilerini ve eğer mümkünse hastalığının sebeplerini gıda işletmecisine bildirir.
