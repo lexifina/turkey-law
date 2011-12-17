@@ -1,0 +1,5 @@
+Pozitif numuneler
+MADDE 18 – (1) 17 nci maddede açıklandığı şekilde pozitif sonuçlar elde edildiği durumda aşağıda belirtilen hükümler uygulanır.
+a) Yetkili makam, gecikme olmaksızın hayvanı ve ayrılış veya menşe çiftliği tanımlamak için gerekli olan tüm bilgileri ve incelemenin ve sonucunun tüm detaylarını temin eder. Türkiye’de yürütülen kontroller eğer bir veya daha fazla ülkede bir araştırma veya diğer bir önlem ihtiyacını ortaya çıkarıyor ise, Bakanlık ilgili tarafları bilgilendirir. Bir araştırmanın veya diğer önlemin gerekli görüldüğü durumda alınacak önlemler ilgili ülkelerle varılan mutabakat çerçevesinde yürütülür.
+b) Yetkili makam kalıntıların varoluş nedenlerini belirlemek için, menşe veya ayrılış çiftliğindeki bir araştırma ile izin verilmeyen uygulamanın tespiti durumunda; üretim, işleme, depolama, nakliye, idare, dağıtım veya satış aşamasında ilgili maddelerin veya ürünlerin kaynağını veya kaynaklarını bulmaya yönelik detaylı araştırmaları yürütür.
+c) Numunelerin alındığı hayvanlar tanımlanır ve kontrol sonuçları elde edilinceye kadar, hayvanlar hiçbir durumda çiftlikten ayrılmaz.

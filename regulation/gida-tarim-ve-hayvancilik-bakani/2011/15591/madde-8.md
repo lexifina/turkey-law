@@ -1,0 +1,2 @@
+Kalıntı izleme planındaki örnekleme seviyesi ve sıklığı
+MADDE 8 – (1) Plan, Ek-4’te yer alan örnekleme seviyeleri ve sıklıkları ile uyumlu olur. Bakanlık hayvansal gıdalardaki kalıntıların potansiyel toksisitesi veya hayvansal gıdalarda ortaya çıkan kalıntı ihtimali gibi benzeri nedenlerden dolayı Ek-1’de yer alan maddelerin kalıntılarının veya izin verilmeyen uygulamaların belirlenmesini azaltmamak koşuluyla planın genel etkinliğini arttırmak için gerektiğinde Ek-1, Ek-3 ve Ek-4’te değişiklik yapar.

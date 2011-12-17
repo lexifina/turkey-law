@@ -1,0 +1,8 @@
+Yetkili laboratuvarlar
+MADDE 17 – (1) Yetkili laboratuvarlarda yapılan analizlerde aşağıdaki esaslar uygulanır:
+a) Yetkili laboratuvarlarda incelenmek üzere resmî numuneler, Ek-3 ve Ek-4’e uygun olarak alınır. Resmî numune almanın detaylı kuralları ve resmî numunelerin analizi için kullanılacak rutin ve referans analiz metotları, uluslararası kurallara uygun olarak belirlenir. Eti veya ürünleri insan tüketimine sunulacak bir türe yönelik kullanılacak veteriner tıbbî ürünün pazarda yer alması amacıyla her ruhsat verilişinde, Bakanlık, kalıntıların tespiti için kalıntıların analizlerinde kullanılan metotları ulusal referans laboratuvarlarına ve ilgili tüm taraflara gönderir.
+b) Ek-1’deki Grup A’da yer alan maddeler için, referans metot yerine rutin bir metodun uygulanmasını takiben kaydedilen tüm pozitif bulguların doğruluğu, (a) bendine uygun olarak, belirtilen referans metotlarını kullanan onaylanmış bir laboratuvar tarafından teyit edilir.
+(2) Bütün maddeler için, analiz sonuçlarına itiraz durumunda bu sonuçların, söz konusu madde veya kalıntı için 16 ncı maddenin birinci fıkrasına göre belirlenen ulusal referans laboratuvarı tarafından doğrulama analizi yapılır.
+(3) Resmî bir numunenin incelenmesi, izin verilmeyen uygulamayı ortaya çıkarırsa, bu Yönetmeliğin Beşinci Bölümünde belirtilenlere ilave olarak 18, 19, 20 ve 21 inci maddeler uygulanır.
+(4) İnceleme neticesinde, izin verilen maddelerin kalıntılarının veya bulaşanların varlığının belirlenen düzeyleri aştığının tespiti durumlarında 20 ve 21 inci maddeler uygulanır.
+(5) Söz konusu inceleme, ithal edilen ürünleri veya hayvanları kapsadığında yetkili makam 30 uncu maddede belirtilen önlemleri alır.

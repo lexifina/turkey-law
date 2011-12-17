@@ -1,0 +1,2 @@
+İzin verilmeyen uygulamanın tespiti
+MADDE 19 – (1) 15 inci maddenin birinci fıkrasının (b) bendinde belirtilen araştırmalar neticesinde izin verilmeyen uygulamanın tespiti halinde yetkili makam, hayvanları resmî kontrol altına alır. Yetkili makam, ilgili tüm hayvanların resmî bir işaret ve kimlik taşıması ve ilk basamak olarak resmî örneklerin uluslararası kabul gören bilimsel bazda istatistikî olarak temsil edecek sayıda alınmasını sağlar.

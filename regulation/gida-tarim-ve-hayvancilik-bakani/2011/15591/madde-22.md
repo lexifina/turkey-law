@@ -1,0 +1,2 @@
+İhracat yapılan ülkeleri bilgilendirme
+MADDE 22 – (1) İhracat yapılan bir ülke, Türkiye’de bu Yönetmeliğin öngördüğü kontrollerin yürütülmediğini veya durdurulduğunu, Türkiye’nin yetkili makamına bildirirse, 18 inci maddenin birinci fıkrasının (b) bendine uygun olarak yürütülen bir araştırmayı takiben yetkili makam gerekli tüm önlemleri alır ve ticaret yapılan ülkenin yetkili makamına bunların nedenlerini mümkün olan en kısa sürede bildirir.
