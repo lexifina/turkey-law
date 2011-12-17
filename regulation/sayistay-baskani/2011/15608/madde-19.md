@@ -1,0 +1,2 @@
+Tez ve diploma verme
+MADDE 19 – (1) Yurt dışından dönüşte göreve başlayan meslek mensupları, başlama tarihinden itibaren üç ay içinde yurt dışında lisansüstü öğrenim sonucunda vermiş olduğu tezin, öğrenim görülen yabancı dildeki bir örneği ile Türkçe özetini ve diploma veya mezuniyet belgesini Başkanlığa vermek zorundadır. Bu belgeler verilmediği takdirde ilgiliden, 10 ve 11 inci maddeler kapsamında yapılan ödemelerin iki katı kanuni faizi ile birlikte tahsil edilir.

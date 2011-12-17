@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+Yabancı Ülkelere Gönderilecek Meslek Mensuplarının Tespiti
+Meslek mensuplarının tespiti
+MADDE 8 – (1) Yabancı ülkelere gönderilecek meslek mensuplarının (lisansüstü öğrenim hariç) tespiti, bu Yönetmelikteki şartları taşıyanlar arasından aşağıda belirtilen esaslar dikkate alınarak yapılır.
+a) Yabancı dil seviyesini yükseltmek ve meslekleri ile ilgili araştırma yapmak amacıyla gönderilecek meslek mensupları; birimin iş durumu göz önünde bulundurularak, kurul ve daire başkanları ile grup başkanlarınca bildirilenler arasından mesleki performansı, mesleki konulardaki çalışmaları, sicil ve kıdem durumları da dikkate alınarak Başkanlıkça tespit edilir.
+b) Kurs, staj ve benzeri çalışmalara katılmak üzere gönderilecek meslek mensupları, yapılacak çalışmaların mahiyeti ve kapsamı esas alınmak suretiyle Başkanlıkça tespit edilir.
+c) Yabancı memleketlerde veya uluslararası kuruluşlarda Sayıştayların denetim alanları ve denetim şekilleri hakkında meslekleriyle ilgili araştırma yapmak üzere gönderilecekler; araştırmanın konusu, ilgilinin mesleki performansı, mesleki konulardaki çalışmaları, sicil ve kıdem durumları dikkate alınarak Başkanlıkça tespit edilir.
+ç) Bilgi ve görgülerini artırmak üzere hazırlanan bir programa göre yabancı ülkelerin mali sistemleri ile uluslararası kuruluşların ve Sayıştayların çalışmaları, denetim alanları, gidilecek ülkenin idari yapısı ve kurumları, bu kurumların Sayıştay ile olan ilişkileri hakkında bilgi edinmek üzere gönderilmesinde yarar olacağı düşünülen meslek mensupları; bu programın kapsamı ile adayların sicil, kıdem ve yurt dışına gönderilme durumları dikkate alınarak Başkanlıkça tespit edilir.
+d) Yabancı memleketlerde veya uluslararası kuruluşlarda görevlendirilecek olanların tespiti, Başkanlıkça aday gösterilmeleri uygun bulunan meslek mensupları arasından bu görevlendirmeler için belirlenen kriterlere ve süreçlere göre yapılır.
