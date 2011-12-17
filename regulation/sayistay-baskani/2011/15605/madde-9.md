@@ -1,0 +1,4 @@
+Belgelerin saklanması
+MADDE 9 – (1) Kamu idarelerinin hesap ve işlemlerine ilişkin her çeşit belge ve bilgi, genel yönetim kapsamındaki kamu idareleri için ilgili idarenin kontrol ve gözetiminde bütçe yılının bitiminden başlayarak zaman aşımını kesen ve durduran haller hariç on yıl süreyle saklanır. Belge ve bilgilerin saklanma süresi ile ilgili olarak kamu idarelerinin kendi mevzuatlarında yer alan hükümler saklıdır.
+(2) Diğer kamu idarelerinin hesap ve işlemlerine ilişkin her çeşit belge ve bilgi, ilgili idarenin kontrol ve gözetiminde, mevzuatında öngörülen süre sonuna kadar muhafaza edilir.
+(3) İlişikli belge ve bilgiler, raporun Başkanlığa sunulduğu tarihi takip eden yılın başından itibaren, zaman aşımını kesen ve durduran haller hariç Sayıştay tarafından on yıl süreyle saklanır. Belge ve bilgilerin saklanma süresi ile ilgili olarak mevzuatta yer alan hükümler saklıdır.

@@ -1,0 +1,2 @@
+Belgelerden yararlanma
+MADDE 10 – (1) Bu Yönetmelik kapsamındaki belge ve bilgiler; 12 nci maddede belirtilen haller dışında üçüncü kişilere verilemez. Ancak Devlete, gerçek ve tüzel kişilere ait bir hizmetin görülmesi, bir hakkın korunması ve ispatı gerektiğinde usulüne uygun olarak istenen belge örnekleri verilebilir veya mahkemelerce tayin edilecek bilirkişiler veya ilgili dairelerince görevlendirilecek yetkililerce yerinde incelenebilir.
