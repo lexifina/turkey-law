@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.15616",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAYIŞTAYCA BİLİRKİŞİ VE UZMAN GÖREVLENDİRİLMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "15616",
+  "issuer": "Sayıştay Başkanı",
+  "issuer_slug": "sayistay-baskani",
+  "path": "regulation/sayistay-baskani/2011/15616",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15616&MevzuatTertip=5",
+  "source_sha256": "6ff7e143ffbaf1db670f9433e8b9bbb7540ac0cc1ed8beaa803df2c2e535d7c7",
+  "source_bytes": 40441,
+  "published": "2011-12-17",
+  "gazette": "28145",
+  "in_force": "2011-12-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.12.2011); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1860,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15616%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

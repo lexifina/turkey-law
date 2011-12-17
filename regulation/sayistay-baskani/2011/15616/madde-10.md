@@ -1,0 +1,3 @@
+Bilirkişinin bildirim yükümlülüğü
+MADDE 10 – (1) Görevlendirilen bilirkişi, kendisine tevdi olunan görevin, uzmanlık alanına girmediğini, inceleme konusu iş ve işlemlerin açıklığa kavuşturulması için alanında uzman başka bir bilirkişi ile işbirliğine ihtiyaç duyduğunu veya varsa görevden kaçınmayı haklı kılacak bir mazeretinin bulunduğunu, görevin kendisine verilme tarihinden itibaren en geç yedi gün içinde ekip başkanına yazılı olarak bildirir.
+(2) Bilirkişi tarafından yapılan ön incelemede, incelemenin gerçekleştirebilmesi için bazı hususların önceden araştırılması ve tespiti ile kendisine teslim edilen dosya ve belgelere ilave olarak başka kayıt ve belgelerin görülmesine ihtiyaç duyulması halinde yedi gün içinde ekip başkanına bilgi vererek yazılı talepte bulunur.

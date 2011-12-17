@@ -1,0 +1,3 @@
+Bilirkişi isteminde bulunabilecekler
+MADDE 5 – (1) Grup başkanı, ekip başkanının denetim veya incelemeler sırasında ihtiyaç duyduğu bilirkişi görevlendirilmesine ilişkin yetki talebini Başkanlığa sunar. Talep, Başkanlıkça on iş günü içinde sonuçlandırılır ve sonuç yazı ile bildirilir. Başkanlık tarafından bilirkişi görevlendirme yetkisi verildiğinde bundan sonraki işlemler Başkanlık adına ekip başkanı tarafından doğrudan yürütülür.
+(2) Ekip başkanı talep müzekkeresinde bilirkişi incelemesine ihtiyaç duyulan konuyu, bilirkişinin çalışması gereken tahmini süreyi, bilirkişinin uzmanlık alanını, ödenecek tahmini ücreti ve diğer hususları belirtir.
