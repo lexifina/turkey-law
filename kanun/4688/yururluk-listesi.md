@@ -6,3 +6,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 5538 | 25, GEÇİCİ MADDE 10 | 12/7/2006
 5620 | 25 | 21/4/2007
 5728 | 38 | 8/2/2008
+6253 | 15 | 18/12/2011
