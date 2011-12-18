@@ -7,3 +7,5 @@ Her üye üyelikten serbestçe çekilebilir.
 Çekilme, göreve son v
 erilmesi veya sair nedenlerle kamu görevinden ayrılanlar ile farklı bir hizmet koluna giren kuruma atananlardan sendika üyesi olanların üyelikleri, varsa sendika şubesi, sendika veya konfederasyon organlarındaki görevleri sona erer. Emekliye ayrılanların sendika şubesi, sendika veya konfederasyon organlarındaki görevleri seçildikleri dönemin sonuna kadar devam eder.
 Üyeliğin devamı ve askıya alınması hallerinde 2821 sayılı Sendikalar Kanununun 24 üncü maddesinde yer alan hükümler uygulanır.
+––––––––––––––––-
+(1) 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu bentte yer alan “Türkiye Büyük Millet Meclisi Genel Sekreterliği” ibaresi “Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı” şeklinde değiştirilmiştir.
