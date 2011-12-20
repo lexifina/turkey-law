@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "34111",
+  "decision_date": "2011-12-20",
+  "source_id": 3630,
+  "chamber": "8",
+  "file_number": "33499",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/3630/",
+  "source_sha256": "2e8ed746df5661d9710071a23f24a86e5c764924ae294c035ddc61f35bf3d6eb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
