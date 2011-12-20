@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.02-MTV-2010-50-397",
+  "source_id": 36496,
+  "date": "2011-12-20",
+  "title": "% 91 oranında engelli olan mükellefin satın alacağı ikinci taşıtın motorlu taşıtlar vergisinden ve özel tüketim vergisinden istisna olup olmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36496",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "b1adb7d438a5fbf4b141e14d0dc6ee21585fcf3842009acb61c7fa16df514b84",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
