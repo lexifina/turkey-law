@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-320.10.27-275",
+  "source_id": 21512,
+  "date": "2011-12-20",
+  "title": "İl Milli Eğitim Müdürlüğünün AB Komisyonu merkezli proje kapsamında yapılan proje harcamaları ve projede çalışanlara ödenen ücretlerin gelir ve damga vergisi muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/21512",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "1afe3cefcc72b2c86b6fe6d4a70953b4374a95c8ea6715e1986d33541d200c9f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
