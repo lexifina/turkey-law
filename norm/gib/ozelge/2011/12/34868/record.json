@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-DMG-1278-1154",
+  "source_id": 34868,
+  "date": "2011-12-21",
+  "title": "Öğretmenevi ve Akşam Sanat Okulu Müdürlüğünün uhdesinde kalan iş ile ilgili olarak alınan ihale kararı, düzenlenen sözleşme ve hakediş ödemelerine ilişkin düzenlenen kağıtların 222 sayılı İlköğretim Kanunu kapsamında damga vergisinden istisna olup olmadı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34868",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "6daaded6b63c578f20a79806f318faacbb944fe6713c76ac9c11446bd764ef04",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
