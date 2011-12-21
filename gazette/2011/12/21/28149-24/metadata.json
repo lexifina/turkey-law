@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-12-21",
+  "issue": "28149",
+  "edition": "regular",
+  "item": 24,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 19/12/2011 Tarihli ve 2011/102 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111221-24.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111221.htm",
+  "index_sha256": "8f2976fe5f8050ed2c2aab9ec162d1795c8579ebe43093ea96d122e3f34c3ce9",
+  "index_header": "21 Aralık 2011 ... 28149 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
