@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.81.10.00-MTV-06-17",
+  "source_id": 36495,
+  "date": "2011-12-21",
+  "title": "Birlik adına kayıt ve tescilli taşıtın motorlu taşıtlar vergisinden istisna tutulup tutulmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36495",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "f649eca1ef78ba7f0ccb4aceecea70aa15992b3880fca72712f76f1f62312505",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
