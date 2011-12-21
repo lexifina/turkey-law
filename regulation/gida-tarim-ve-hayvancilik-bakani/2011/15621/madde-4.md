@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Acil eylem planı: Afrika at vebası hastalığı ile ilgili oluşacak acil durumlarda devreye sokulacak ve ihtiyaç duyulması hâlinde güncellenecek planı,
+b) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+c) Enfeksiyon teyidi: Laboratuvar sonuçlarına dayalı olarak veya bir salgın halinde klinik ve/veya epidemiyolojik sonuçlara da dayalı olarak yetkili otorite tarafından Afrika at vebasının varlığının ilanını,
+ç) Enstitü Müdürlüğü: Afrika at vebası hastalığının teşhisinden, mücadelesinden ve gözetim programlarından sorumlu olan doğrudan Bakanlığa bağlı Enstitü Müdürlüğünü,
+d) Hayvan sahibi veya bakıcı: Hayvanların mülkiyetine haiz veya ücret karşılığında veya ücretsiz, muhafaza etmek ve bakımlarını yapmakla görevlendirilen, gerçek veya tüzel kişi veya kişileri,
+e) İl müdürlüğü: Gıda, Tarım ve Hayvancılık Bakanlığı il müdürlüğünü,
+f) İlçe müdürlüğü: Gıda, Tarım ve Hayvancılık Bakanlığı ilçe müdürlüğünü,
+g) İşletme: İçinde hayvanların yetiştirildiği veya muhafaza edildiği yeri,
+ğ) Karantina: Resmi veteriner hekim tarafından belirlenen hayvanların belirlenen bir süre boyunca zorunlu olarak diğer hayvanlardan doğrudan veya dolaylı şekilde izole edilerek gözlem ve kontrol altında tutulmasını,
+h) Kayıt altına alınmış tek tırnaklı hayvan: Yetkili otorite tarafından ya da herhangi bir uluslararası birlik, örgüt veya resmi yarış otoritesi tarafından verilen bir tanımlama belgesi aracılığıyla tanımlanmış olan tek tırnaklı hayvanı,
+ı) Mihrak: Yetkili otorite tarafından Afrika at vebası hastalığı varlığının doğrulandığı, hastalığın seyri, yerleşim yerinin topoğrafik yapısı, tek tırnaklı hayvanların kapalı alanlarda tutulup tutulmadığı dikkate alınarak belirlenen işletme veya yerleşim yeri veya bölgeyi,
+i) Resmi veteriner hekim: Bakanlık adına görev yapan Bakanlık personeli veteriner hekimi,
+j) Şüpheli mihrak: Resmî veteriner hekimin Afrika at vebası hastalığının varlığından şüphelendiği, hastalığın seyri, yerleşim yerinin topoğrafik yapısı, tek tırnaklı hayvanların kapalı alanlarda tutulup tutulmadığı dikkate alınarak belirlenen işletme veya yerleşim yeri veya bölgeyi,
+k) Tek tırnaklı hayvan (Equidae): At türünden (zebralar dahil) ya da eşek türünden olan vahşi ya da evcilleştirilmiş hayvanlar ya da bu hayvanların yavruları ya da söz konusu türlerin melezleri,
+l) Ulusal referans laboratuvarı: Afrika at vebası olarak adlandırılan hastalık ile ilgili olarak fonksiyon ve görevleri 18 inci maddenin ikinci fıkrasında açıklanan ve Bakanlıkça yetkilendirilen laboratuvarı,
+m) Vektör: Culicoidesimicola ve Afrika at vebasını nakletme olasılığı olan Culicoides türleri,
+n) Yetkili otorite: Gıda, Tarım ve Hayvancılık Bakanlığı merkez ve taşra teşkilatında görev yapan 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu ve/veya bu Yönetmelik çerçevesinde fiziksel kontrolleri ve idari işleri yerine getirmekle yükümlü olan yetkiliyi veya bu yetkilerin devredildiği otoriteyi,
+ifade eder.
