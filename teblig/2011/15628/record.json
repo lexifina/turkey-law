@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.15628",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AVUKATLIK ASGARİ ÜCRET TARİFESİ",
+  "number": "15628",
+  "path": "teblig/2011/15628",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15628&MevzuatTertip=5",
+  "source_sha256": "fefab015f15119d23bada64b14c373b1f8cb1aacc2d7ce6547a0c5d8dca500f2",
+  "source_bytes": 27253,
+  "published": "2011-12-21",
+  "gazette": "28149",
+  "in_force": "2011-12-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.12.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1404,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15628%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
