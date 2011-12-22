@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-DAMGA-1-167",
+  "source_id": 34866,
+  "date": "2011-12-22",
+  "title": "Elektronik ortamda oluşturulan Mesafeli Satış Sözleşmelerinin kaydı ve bu sözleşmelerden doğan damga vergisinin beyanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34866",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "401324e6532d7ba6914f1ed32675be1458cef92a50700bd15e1493e535aeab50",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
