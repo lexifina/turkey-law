@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.01-GV-10-19-279",
+  "source_id": 22759,
+  "date": "2011-12-23",
+  "title": "Degazör, kondens tankı ve flaş tankı montajı işinin yıllara sari inşaat ve onarım işi kapsamında değerlendirilip değerelendirilmeyeceği ile yapılan ödemelerin KDV tevkifatına tabi tutulup tutulmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/22759",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "bb751c36bc8f74ce5c977bd72d30d89d2ae899c5637a66b9d2c027cbd892361e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
