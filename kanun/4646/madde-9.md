@@ -14,4 +14,4 @@ Bir lisans veya sertifikanın iptali halinde, yeni bir lisans veya sertifika ver
 Doğal gaz şehir içi dağıtım lisansının iptal edilmesinin zorunlu hale gelmesi durumunda Kurul hizmetin aksamaması için gerekli tedbirleri önceden almak suretiyle, lisansı iptal eder. Dağıtım şebekesinin mülkiyetini elinde bulunduran lisans sahibinin nam ve hesabına yüz yirmi gün içerisinde ilgili şebekenin satışı ve yeni lisans sahibinin belirlenmesi için ihaleye çıkılır. Uygulamaya ilişkin usul ve esaslar yönetmeliklerde belirlenir.
 Bu maddede düzenlenen tüm idarî para cezaları hiçbir şekilde ilgili cezayı ödeyen tüzel kişi tarafından hazırlanacak tarifelerde maliyet unsuru olarak yer almaz.
 –––––––––––––––––––––
-(1) Bu maddede yer alan 1/1/2011 tarihinden itibaren uygulanması ile ilgili olarak Kanunun sonundaki Tabloya bakınız.
+(1) Bu maddede yer alan 1/1/2012 tarihinden itibaren uygulanması ile ilgili olarak Kanunun sonundaki Tabloya bakınız.
