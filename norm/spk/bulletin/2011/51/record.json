@@ -1,0 +1,60 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2011/51",
+  "date": "2011-12-23",
+  "title": "SPK Haftalık Bülteni 2011/51",
+  "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_51.pdf",
+  "source_sha256": "c51283f54e346d36dc8a28a3f2bc4b8f6f96f16a64e99f2a3526e7ef92e97c42",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 03.01.2011 – 23.12.2011 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_51.pdf"
+    },
+    {
+      "heading": "B. 19.12.2011 – 23.12.2011 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_51.pdf"
+    },
+    {
+      "heading": "C. 19.12.2011 – 23.12.2011 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltme",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_51.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_51.pdf"
+    },
+    {
+      "heading": "E. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_51.pdf"
+    },
+    {
+      "heading": "G. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4761b41c613a0d633cd/2011_51.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
