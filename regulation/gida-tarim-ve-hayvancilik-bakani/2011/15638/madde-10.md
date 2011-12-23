@@ -1,0 +1,4 @@
+Kesim
+MADDE 10 – (1) Löykozun resmi olarak teyit edildiği bir sürüdeki sığırların tamamının kesimi öngörüldüğü durumlarda bu hayvanlar otuz gün içerisinde kesime tabi tutulur.
+(2) Löykoz hastalığı tespit edilen hayvanlara ait karkaslar şarta tabi tutularak kavurma yapıldıktan sonra tüketimine izin verilir. Kesilen hayvanlara ait iç organlar ile ilgili olarak; gözle görülebilir tümör, nekroze doku gibi hastalık lezyonları bulunması durumunda iç organlar imha edilir, lezyon görülmeyen iç organlar yüksek ısıl işleme tabi tutularak tüketilebilir. Derileri ise işlenmemiş deri olarak kullanılamaz.
+(3) Löykozun resmi olarak teyit edildiği sığırların kesimi, hayvan sahibi ya da bakıcısına, yapılan muayeneler ve yerine getirecekleri yükümlülüklerin resmi olarak bildirilmesinden sonra otuz gün içerisinde gerçekleştirilir.

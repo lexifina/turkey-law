@@ -1,0 +1,12 @@
+Askıya Alınması ve Teşhis Yöntemleri
+Bir ülke ya da bölgenin resmi olarak löykozdan ari kabul edilmesi
+MADDE 16 – (1) Ülke ya da bölgenin resmi olarak löykozdan ari kabul edilmesinin koşulları aşağıda belirtilmiştir:
+a) 13 üncü maddede belirtilen tüm koşulların yerine getirilmiş olması ve sığır sürülerinin en az % 99,8 oranında resmi olarak löykozdan ari olması.
+b) Ülke ya da bölgede son üç yıl içinde hiçbir löykoz vakasının bildirilmemiş olması, löykozdan kaynakladığından şüphe edilen tümörlerin varlığının bildirilmesinin zorunlu olması ve nedeninin araştırılması, bütün ülke söz konusu olduğu durumda yirmidört aylık yaşın üzerindeki bütün hayvanlardan sürülerin en az % 10’unun tesadüfi seçimi ile, 18 inci maddeye uygun olarak test edilmiş olması ve son iki yıldaki testlerin negatif sonuç vermiş olması veya bir bölge söz konusu olduğunda yirmidört aylık yaşın üzerindeki bütün hayvanların 18 inci maddeye uygun olarak yapılan testlere son 2 yılda negatif sonuç vermiş olması.
+c) % 99 güven aralığında bir metotla sürülerin % 0,2’sinden daha azının enfekte olduğunun ortaya konması.
+(2) Bir ülke ya da bölgenin resmi olarak löykozdan ari statüsünü koruması aşağıdaki koşullara bağlıdır:
+a) Ülke ya da bölgenin toprakları içinde kesilen bütün hayvanların resmi ölüm sonrası muayenelere tabi tutulması ve muayenelerde löykoz virüsünden ileri gelebilecek bütün tümörlerin laboratuar muayenesine gönderilmesi.
+b) Yetkili otoritenin bölgesinde bütün löykoz vakalarını Bakanlığa rapor etmesi.
+c) 18 inci maddesiye uygun yapılan testlerden birinde pozitif yanıt veren bütün hayvanların kesilmesi ve bunların sürülerinin bu madde ile uyumlu olarak statülerinin yeniden sağlanmasına kadar kısıtlamalara tabi tutulması.
+ç) İki yaşın üzerindeki tüm hayvanların, 18 inci maddeye uygun yapılan testler nezdinde statü verilmesini izleyen beş yılda bir kez ya da herhangi başka bir prosedür nezdinde statü verilmesini izleyen ilk beş yıl içerisinde, sürülerin %0,2'sinden daha azının enfekte olduğunu %99'luk bir kesinlik düzeyinde ortaya koyacak şekilde test edilmiş olması, bununla beraber bir ülke ya da bölgede en az üç yıl boyunca 10.000 sürüde 1 sürü oranında löykoz vakasının tespit edilmemiş olması.
+(3) Her yıl tesadüfi seçim ile belirlenen sürülerin en az % 1’inde, oniki aydan büyük bütün sığır cinsi hayvanların, 18 inci maddeye uygun olarak teste tabi tutulması koşuluyla rutin serolojik testlerin azaltılmasına karar verebilir.
