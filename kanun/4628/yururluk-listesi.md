@@ -24,3 +24,4 @@ TEBLİĞ 17/12/2010 tarihli ve 27788 sayılı R.G. | 11 | 1/1/2011
 TEBLİĞ 10/2/2011 tarihli ve 27842 sayılı R.G. | 11 | 10/2/2011 (2009, 2010, 2011 yılları için)
 6111 | Geçici Madde 14 | 25/2/2011
 Anayasa Mah.’nin E.: 2009/90, K.: 2011/47 sayılı Kararı | 9 uncu maddenin birinci fıkrasının ikinci cümlesi | 14/5/2011 tarihinden başlayarak bir yıl sonra
+TEBLİĞ 23/12/2011 tarihli ve 28151 sayılı R.G | 11 | 1/1/2012
