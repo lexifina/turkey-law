@@ -1,0 +1,3 @@
+Ulusal referans laboratuvarları
+MADDE 12 – (1) Bakanlık, gerektiğinde Sağlık Bakanlığı ile işbirliği içerisinde bu Yönetmelik kapsamındaki zoonozlar ve zoonotik etkenlerin, ilgili antimikrobiyal direnç ile gıda kaynaklı salgınların izlenmesi için bir veya daha fazla sayıda ulusal referans laboratuvarı belirleyebilir. Bu laboratuvarları gerektiğinde ulusal ve koordinasyon amacı ile uluslararası kurum ve kuruluşlara bildirir.
+(2) Ulusal referans laboratuvarının veya laboratuvarlarının sorumlulukları, görevleri, faaliyet alanları ve ulusal ve uluslararası referans laboratuvarları ile koordinasyonları Bakanlık ve ilgili Bakanlıklarca belirlenir.

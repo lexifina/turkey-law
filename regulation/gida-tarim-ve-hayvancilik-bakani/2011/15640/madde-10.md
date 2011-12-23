@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Gıda Kaynaklı Salgınlarda Epidemiyolojik İncelemeler
+Gıda kaynaklı salgınlarda epidemiyolojik araştırmalar
+MADDE 10 – (1) Bir gıda işletmecisi 5996 sayılı Kanun ve ilgili yönetmelik hükümlerince Bakanlığa bilgi sağladığında, Bakanlık ilgili gıdanın veya gıda numunesinin; laboratuvarda incelenmesine veya bir gıda salgınının araştırılmasına engel olmayacak şekilde muhafazasını sağlar.
+(2) Bakanlık ve Sağlık Bakanlığı gıda kaynaklı salgın tespit edildiğinde karşılıklı bilgi paylaşımında bulunurlar. Bakanlık, gıda kaynaklı salgını Sağlık Bakanlığı ve gerektiğinde uluslararası kurum ve kuruluşlarla işbirliği içerisinde araştırır. Bu araştırma, epidemiyolojik profil, salgındaki potansiyel şüpheli gıda ve salgının potansiyel sebeplerine ilişkin verileri sağlamalıdır. Araştırma mümkün olduğunca uygun epidemiyolojik ve mikrobiyolojik çalışmaları kapsamalıdır. Bakanlık yürütülen çalışmalar ile ilgili Ek-2’nin D bölümünde belirtilen bilgileri ulusal ve uluslararası kurum ve kuruluşlara bildirebilir.
+(3) Birinci ve ikinci fıkradaki hükümler; Bakanlık ve Sağlık Bakanlığının, ürün güvenliği, bulaşıcı insan hastalıklarından koruma ve kontrol için erken uyarı ve cevap sistemi, gıda hijyeni ile ilgili mevzuatların genel hükümleri ile özellikle acil durum önlemleri, gıda ve yemlerin pazardan geri çekilmeleri hakkındaki mevzuatlarına uygun şekilde uygulanır.

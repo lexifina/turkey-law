@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, hayvan sağlığı, hayvan beslenmesi, gıda hijyeni, zoonoz hastalıklar, işyerinde sağlık ve güvenlik, gen teknolojisi ve nakledilebilir süngerimsi ensefalopatiler ve bulaşıcı hastalıkların kontrolü konularındaki özel mevzuat hükümlerine engel olmayacak şekilde uygulanır.
+(2) Bu Yönetmeliğin Ek-1’inde belirtilen zoonozlar ve zoonotik etkenlerin, ilgili antimikrobiyal direncin izlenmesi, gıda kaynaklı salgınların epidemiyolojik incelenmesi ile Bakanlık ve ilgili bakanlıklar arasında zoonoz ve zoonotik etkenlerle ilgili bilgi alış verişini ve kontrol politikalarının oluşturulmasını kapsar.
