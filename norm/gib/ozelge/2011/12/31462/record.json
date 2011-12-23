@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.08.10.00-08-OZELGE-001-18",
+  "source_id": 31462,
+  "date": "2011-12-23",
+  "title": "Uluslararası nakliyat faaliyetinden doğan KDV iade taleplerinde tevsik edici belge hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31462",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "a7d45dd8e9c5b992f8b0728ae05e3bfeab35af7f76ae0dca5d1567c670df143f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
