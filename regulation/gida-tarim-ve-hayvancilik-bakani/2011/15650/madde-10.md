@@ -1,0 +1,5 @@
+Bilimsel Komitenin oluşturulması
+MADDE 10 – (1) Bilimsel Komite; Bilimsel Komisyonların başkanlarından ve herhangi bir Bilimsel Komisyonda yer almayan, açık çağrıyla toplanan adaylar arasından seçilen 6 bağımsız bilim insanından oluşur.
+(2) Bilimsel Komite üyeleri Bakan tarafından onaylanır.
+(3) Bilimsel Komite üyelerinin görev süreleri, göreve başladıkları tarihten itibaren üç yıldır. Görev süresinin bitmesini müteakip üyenin talep etmesi ve Bakanlıkça uygun görülmesi halinde görev süresi en fazla iki dönem daha uzatılabilir.
+(4) Bilimsel Komite ilk toplantısında, gizli oylamayla herhangi bir Bilimsel Komisyonda yer almayan 6 bağımsız bilim insanı arasından başkan ve tüm Komite üyeleri arasından başkan yardımcısı seçer. Başkanın katılmadığı durumlarda Komite Başkanlığına başkan yardımcısı vekâlet eder. Başkan ve başkan yardımcısının katılmadığı durumlarda ise, Bilimsel Komite üyeleri kendi aralarından sadece o toplantı için geçici bir başkan seçer. Başkan ve başkan yardımcısının görev süresi üç yıl olup yeniden seçilebilirler.

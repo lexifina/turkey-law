@@ -1,0 +1,5 @@
+Uzman Veri Tabanı
+MADDE 13 – (1) Genel Müdürlük, gıda ve yem güvenilirliğini doğrudan veya dolaylı olarak etkileyen konularda yapılacak olan risk değerlendirme çalışmalarına bilimsel ve teknik uzman desteği sağlamak amacı ile uzmanların uzmanlık alanlarını ve iletişim bilgilerini içeren verilerin yer aldığı Uzman Veri Tabanı oluşturur.
+(2) Uzman Veri Tabanı, araştırma kurumlarından, araştırma enstitülerinden, üniversitelerin konu ile ilgili fakültelerinden uzmanlar ile gerektiğinde konu ile ilgili bilimsel ve teknik yeterliliğe sahip diğer uzman kişilerden açık çağrı ile toplanan adaylar arasından seçilerek oluşturulur.
+(3) Uzman Veri Tabanında yer alan uzmanlar, Bilimsel Komite, Bilimsel Komisyonlar ve bunların çalışma gruplarının bilimsel çalışmalarına ihtiyaç duyulması halinde belirli bir konuda bilimsel ve/veya teknik uzman desteği sağlamak üzere davet edilebilirler.
+(4) Uzman Veri Tabanında yer alan uzmanlar, bağımsızlık ve tarafsızlıklarını beyan eden Ek-1’de yer alan taahhütnameyi her takvim yılı başında Bakanlığa verdikleri sürece Uzman Veri Tabanında yer almaya devam ederler.

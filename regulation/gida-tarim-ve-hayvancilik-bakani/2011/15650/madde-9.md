@@ -1,0 +1,8 @@
+Bilimsel Komisyonların çalışma usul ve esasları
+MADDE 9 – (1) Bilimsel Komisyonlar toplam üye sayısının en az 2/3’ü ile gündemli olarak toplanır.
+(2) Toplantı kararları, toplantıya katılan üyelerin salt çoğunluğu ile alınır. Alınan kararlara ilişkin tutanak düzenlenir.
+(3) Toplantı veya toplantılar sonrasında başkan tarafından taslak bilimsel görüş hazırlanır. Sekretarya aracılığı ile Bilimsel Komisyonun tüm üyelerinin görüşleri alınır, karşıt görüşler olması halinde yazılı olarak gerekçelendirilir ve üyelerin salt çoğunluğu ile nihai bilimsel görüş oluşturulur. Nihai bilimsel görüş tüm üyeler tarafından, varsa itiraz gerekçeleri ile birlikte, imzalanarak Bakanlığa sunulur.
+(4) Nihai görüş sonrasında ortaya çıkan veya elde edilen her türlü yeni veri ve bilimsel bilgiyi değerlendirerek gerektiğinde yeni bilimsel görüş oluşturabilir.
+(5) Toplantıya katılarak karşıt görüş vermediği halde Bilimsel Komisyon kararlarını ve/veya görüşlerini imzalamayan veya karşıt görüş verdiği halde bunu yazılı olarak gerekçelendirmeyen üye, Bilimsel Komisyon Başkanı tarafından yazılı olarak ikaz edilir. Bu durumun bir takvim yılı içinde toplam iki defa tekrar etmesi halinde, ikaz edilen üyenin üyeliği düşer.
+(6) Bilimsel Komisyonlar, talep edilen konuya ilişkin bilimsel görüşlerini Bakanlık ile istişare ederek belirlenen süre içinde oluşturur.
+(7) Bakanlık, daha önce bilimsel görüş oluşturulmuş olan bir konunun tekrar değerlendirilmesini talep edebilir. Talep ile ilgili tekrar değerlendirmeyi gerektirecek yeni bilimsel bilgi ve verilerin bulunmaması halinde Bilimsel Komisyon bu talebi reddedebilir.

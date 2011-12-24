@@ -1,0 +1,8 @@
+Bilimsel Komisyonların oluşturulması
+MADDE 7 – (1) Bakanlık, gıda ve yem güvenilirliğini doğrudan veya dolaylı olarak etkileyen konularda bağımsız, tarafsız, şeffaf ve bilimsel esaslara göre risk değerlendirmesi yapmak üzere Bilimsel Komisyonlar oluşturur. Teknik ve bilimsel gelişmeler doğrultusunda oluşturulan Bilimsel Komisyonların sayısı ve isimleri Bilimsel Komitenin teklifi ile Bakanlık tarafından değiştirilebilir.
+(2) Bilimsel Komisyonların üyeleri araştırma kurumları, araştırma enstitüleri, üniversitelerin konu ile ilgili fakültelerinin temsilcileri ile gerektiğinde diğer uzman kişilerden oluşur.
+(3) Bilimsel Komisyonlar, açık çağrı ile toplanan adaylar arasından seçilerek Bakan tarafından onaylanan en az 9 üyeden oluşur.
+(4) Bir Bilimsel Komisyonda yer alan üye aynı zamanda başka bir Bilimsel Komisyonda yer alamaz.
+(5) Bilimsel Komisyon üyelerinin görev süreleri, göreve başladıkları tarihten itibaren üç yıldır. Görev süresinin bitmesini müteakip üyenin talep etmesi ve Bakanlıkça uygun görülmesi halinde görev süresi en fazla iki dönem daha uzatılabilir.
+(6) Üyesi bulunduğu Bilimsel Komisyonda görev süresi sona eren komisyon üyesi, talep etmesi ve Bakanlıkça uygun görülmesi halinde başka bir Bilimsel Komisyonda veya Bilimsel Komitede üye olarak görevlendirilebilir.
+(7) Bilimsel Komisyonlar ilk toplantısında gizli oylamayla başkan ve başkan yardımcısı seçer. Başkanın toplantıya katılmadığı durumlarda Komisyon Başkanlığına başkan yardımcısı vekâlet eder. Başkan ve başkan yardımcısının toplantıya katılmadığı durumlarda ise, Bilimsel Komisyon üyeleri kendi aralarından sadece o toplantı için geçici başkan seçer. Başkan ve başkan yardımcısının görev süresi üç yıl olup yeniden seçilebilirler.
