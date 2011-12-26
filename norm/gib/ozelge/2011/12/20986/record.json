@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-GVK.ÖZ.2011.206-413",
+  "source_id": 20986,
+  "date": "2011-12-26",
+  "title": "İşyeri açmaksızın evde yemek yapıp öğrencilere yemek veren kişinin vergi muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20986",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "adbb233e17e4b5285a0035c232919b7e782e58c97fa38dfb4330e5003d75baf3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
