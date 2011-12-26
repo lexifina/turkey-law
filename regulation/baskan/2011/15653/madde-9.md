@@ -1,0 +1,3 @@
+Görevde yükselme eğitiminin duyurusu
+MADDE 9 – (1) Görevde yükselme suretiyle atama yapılacak kadroların sınıfı, unvanı, derecesi, sayısı, birimi ve eğitime katılacaklarda aranacak şartlar ile başvurunun yapılacağı yer ve başvuru tarihleri, eğitime son başvuru tarihinden en az bir ay önce ve sınav tarihinden en az kırk beş gün önce olmak üzere Daire Başkanlığınca birimlere, birimlerce de bütün personele duyurulur.
+(2) Görevde yükselme eğitiminin yeri, başlama ve bitiş tarihleri, konuları ile diğer hususlar ise Daire Başkanlığınca birimlere, birimlerce de eğitimin başlayacağı tarihten en az on beş gün önce eğitime katılacaklara duyurulur.

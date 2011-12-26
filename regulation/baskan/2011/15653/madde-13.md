@@ -1,0 +1,3 @@
+Unvan değişikliği sınavı
+MADDE 13 – (1) 5 inci maddenin ikinci fıkrasında belirtilen unvan değişikliğine tabi kadrolara, gerekli şartları taşıyan Kurum personelinin atanması, bu bölümde belirtilen usul ve esaslar çerçevesinde eğitime tabi tutulmaksızın Kurum tarafından Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına, Milli Eğitim Bakanlığına, Türkiye ve Orta Doğu Amme İdaresi Enstitüsü Genel Müdürlüğüne veya yüksek öğretim kurumlarından birisine yaptırılacak yazılı sınav sonucundaki başarısına göre gerçekleştirilir.
+(2) Unvan değişikliği sınavları, Kurumca belirlenecek Kurumun görev alanı ve atama yapılacak görevin niteliğine ilişkin konularda yaptırılır.

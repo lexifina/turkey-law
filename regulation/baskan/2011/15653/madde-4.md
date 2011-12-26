@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alt görev: 27/9/1984 tarihli ve 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+b) Alt grup: Hizmet grupları içinde aynı düzeyde yer alan unvanlardan teşekkül eden grubu,
+c) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+ç) Başkan: Bilgi Teknolojileri ve İletişim Kurumu Başkanını,
+d) Birim: Bilgi Teknolojileri ve İletişim Kurumu merkez ve taşra teşkilatı hizmet birimlerini,
+e) Daire Başkanlığı: İnsan Kaynakları ve Eğitim Dairesi Başkanlığını,
+f) Görev grubu: Bu Yönetmeliğin 5 inci maddesinde yer alan hiyerarşi, görev, yetki ve sorumluluk açısından benzer veya aynı düzeyde olan unvanların bir araya getirilmesiyle teşekkül eden görev gruplarını,
+g) Görev unvanı: Bu Yönetmeliğin 5 inci maddesinde sayılan hizmet grupları içinde belirtilen görev unvanlarını,
+ğ) Görevde yükselme: Bu Yönetmelikte belirtilen görevde yükselmeye tabi unvanlara aynı veya başka hizmet sınıflarından yapılacak atamaları,
+h) Görevde yükselme eğitimi: Görevde yükselme sınavına tabi olan unvanlara atanacaklar için yükseleceği unvanın özelliklerine göre verilecek eğitimi,
+ı) Görevde yükselme sınavı: Görevde yükselme eğitimini tamamlayanların tabi tutulacağı yazılı sınavı,
+i) Hizmet süresi: Devlet Memurları Kanununun 68 inci maddesinin (B) bendi çerçevesinde, fiilen çalışılan süreleri,
+j) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri dışında kalan günleri,
+k) Kurul: Bilgi Teknolojileri ve İletişim Kurulunu,
+l) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+m) Meslek personeli: Bilişim başuzmanları, iletişim başuzmanları, bilişim uzman ve yardımcıları, iletişim uzman ve yardımcıları, teknik uzman ve yardımcıları ile idari uzman ve yardımcılarını,
+n) Personel: Kurum kadrolarında Devlet Memurları Kanununa tabi olarak görev yapanları,
+o) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılan atamaları,
+ö) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara atanacaklar için eğitime tabi tutulmaksızın yapılacak yazılı sınavı,
+p) Üst görev: 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+ifade eder.
