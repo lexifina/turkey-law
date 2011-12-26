@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.72.10.00-197 Motorlu Taşıtlar Kanunu-39",
+  "source_id": 36494,
+  "date": "2011-12-26",
+  "title": "% 56 oranınında özürlü olan malul ve engelli adına özel tertibatlı olarak kayıt ve tescil ettirilecek taşıtın motorlu taşıtlar vergisinden istisna olup olmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36494",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "ec611931829dd7c28a5495a4a5851b6f89e53cd5033af4f57cc5857bbf74a979",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
