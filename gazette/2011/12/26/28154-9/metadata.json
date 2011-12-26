@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-12-26",
+  "issue": "28154",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Veraset ve İntikal Vergisi Kanunu Genel Tebliği (Seri No: 43)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111226-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111226.htm",
+  "index_sha256": "21b118e48a259b0e8b67e892044e4dc50616c6fd209d6710b430b4e526d00c08",
+  "index_header": "26 Aralık 2011 ... 28154 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
