@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.32-2306",
+  "source_id": 31017,
+  "date": "2011-12-26",
+  "title": "İhracat teslimleri ile birlikte kısmi istisna kapsamında yer alan teslimlerin de yapılması halinde genel giderler nedeniyle yüklenilen vergilerden iadeye ne şekilde pay verileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31017",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "68eb5b7fda6a5ab38d96c449d6bcc1dc9462a8f980c13f0a888025c80dabfc71",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
