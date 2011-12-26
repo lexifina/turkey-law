@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.15662",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 280)",
+  "number": "15662",
+  "path": "teblig/2011/15662",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15662&MevzuatTertip=5",
+  "source_sha256": "b7c025942e9cfb63ea0d4ecc7471e2a87e342247ababe31bbee8882872586eae",
+  "source_bytes": 35262,
+  "published": "2011-12-26",
+  "gazette": "28154",
+  "in_force": "2011-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1360,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
