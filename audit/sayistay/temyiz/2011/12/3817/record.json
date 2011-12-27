@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "34116",
+  "decision_date": "2011-12-27",
+  "source_id": 3817,
+  "chamber": "4",
+  "file_number": "32719",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/3817/",
+  "source_sha256": "d7907c8c73a7a2ac88269517bbb097c0ce91cebd2027109fd5f6c8f12357e16f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
