@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3584/35",
+  "decision_date": "2011-12-27",
+  "title": "2012 yılı için bir otoprodüktörün bir takvim yılı içerisinde lisansına derç edilen yıllık ortalama elektrik enerjisi üretim miktarının piyasada satabileceği oranı",
+  "resmi_gazete_date": "2011-12-31",
+  "resmi_gazete_number": "28159",
+  "categories": [
+    "Lisansa Kayıtlı Olan Yıllık Elektrik Enerjisi Üretim Miktarının Piyasada Satılabileceği Oranına İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Y9aeZtXi28U=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Y9aeZtXi28U="
+  ],
+  "source_sha256": "8ef2da629e5db34080f5c0b6e21594d33216ee15bafaf8ceb5830061e007791d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33878,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-12-27",
+  "law_text_complete": false
+}
