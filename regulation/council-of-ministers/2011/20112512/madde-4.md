@@ -1,0 +1,10 @@
+İKİNCİ BÖLÜM
+Re’sen Tescil, Gelir Tespiti Başvurusu ve Hane Ziyaretleri
+Re’sen tescil ve gelir tespiti başvurusu
+MADDE 4 – (1) Genel sağlık sigortalısı ya da genel sağlık sigortalısının bakmakla yükümlü olduğu kişi statüsünde olmayanlar ile genel sağlık sigortalılığı ya da genel sağlık sigortalısının bakmakla yükümlü olduğu kişi statüsü sona eren kişiler, SGK tarafından re’sen tescil edilir. Bu kişiler için, gelir testleri sonuçlandırılıncaya kadar 5510 sayılı Kanunun 82 nci maddesine göre belirlenen prime esas günlük kazanç alt sınırının otuz günlük tutarı prime esas asgarî kazanç tutarı olarak esas alınarak primleri tahakkuk ettirilir. Ayrıca, gelir tespitini yaptırmak üzere bir ay içinde vakıflara başvurması gerektiği SGK tarafından re’sen tescil edilen kişilere bildirilir.
+(2) Re’sen genel sağlık sigortası tescili yapılan kişilerin gelir testi işlemleri, SGK veya ilgili vakıf tarafından ailenin yazılı muvafakati alınarak vakıf tarafından sonuçlandırılır.
+(3) Kendisine gelir testi yapılmasını istemeyenler ile genel sağlık sigortası tescilinin yapıldığına dair tebligatın yapıldığı tarihten itibaren bir ay içinde gelir testi yapılması yönünde muvafakat vermeyenlerin gelirleri asgarî ücretin iki katı olarak kabul edilir.
+(4) Gelir testine tâbi tutulacak kişinin gelir testini yaptırmak üzere vakfa bizzat yazılı başvurusu esastır. Ancak, kişiye kanunî temsilci atanması durumunda, bu kişi adına başvuru işlemi kanunî temsilcisi, özürlülük ve yaşlılık gibi nedenlerle bizzat başvuruda bulunamayacak olanların ise vekili tarafından yapılır.
+(5) Aynı aileden birden fazla kişinin gelir testine tâbi tutulacak kişi olması hâlinde aynı form ile başvuru yapılır.
+(6) Aynı aile üyelerinden biri veya birkaçı başvuruda bulunsa bile başvuru formunda hanede yaşayan tüm fertlere ait bilgiler yer alır.
+(7) Gelir testine tâbi tutulacak kişilerden, aile içinde kişi başına düşen gelirinin asgarî ücretin iki katından fazla olduğunu beyan edenler için gelir testi yapılmaksızın, beyan edilen gelir esas alınarak genel sağlık sigortası tescili yapılır.

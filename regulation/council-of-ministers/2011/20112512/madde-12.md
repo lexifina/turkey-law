@@ -1,0 +1,10 @@
+Gelir tespitinin yenilenmesi
+MADDE 12 – (1) Gelir tespiti sonucu 5510 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (c) bendinin (1) numaralı alt bendi ve (g) bendine göre genel sağlık sigortası tescili yapılanlar, gelir durumlarının ödenecek prim miktarını etkileyecek şekilde değişmesi hâlinde bir ay içinde vakfa başvurmak zorundadır. Vakıf da BSYHP üzerinden tespit ettiği değişiklikler üzerine, kişilerin bildirimini beklemeksizin gelir tespitini yeniler.
+(2) Doğum, ölüm, evlenme, boşanma ve benzeri nedenlerle hanedeki aile bireyi sayısının değiştiğinin tespit edilmesi durumunda gelir tespiti yenilenir.
+(3) Genel sağlık sigortası tescili yapıldığı tarihten itibaren primi Devlet tarafından ödenenler ile asgarî ücretin üçte biri üzerinden prim ödeyenlerin hane ziyaretleri her yıl yenilenir.
+(4) Genel sağlık sigortası tescili yapıldığı tarihten itibaren doksan günde bir aile içindeki bireylere ait veriler BSYHP’de otomatik olarak güncellenir. Güncelleme sonucu durumunda değişiklik olduğu tespit edilen sigortalıların, tespit edilen aile içindeki kişi başına düşen gelirin aylık tutarına göre ödeyeceği prim miktarı yeniden belirlenir ve buna göre genel sağlık sigortası tescili yapılır.
+(5) Kişinin, ödeyeceği prim miktarında azalma yönünde bir gelir değişikliği olduğunu bildirmesi veya bu değişikliğin vakıf tarafından tespit edilmesi hâlinde, bildirim veya tespit tarihinden itibaren ya da SGK’nın gelir tespitinin yeniden yapılmasını talep etmesi hâlinde gerekli iş ve işlemlerin başvuru tarihinden itibaren bir ay içinde yapılması zorunludur.
+(6) Aynı hanede birlikte yaşama ve hanede meydana gelen değişikliklerde Adrese Dayalı Nüfus Kayıt Sistemi kayıtları esas alınır.
+(7) 5510 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (c) bendinin (1) numaralı alt bendi ile (g) bendine tâbi genel sağlık sigortalıları, gelir tespitlerinin yapıldığı tarihten itibaren, bu maddede belirtilen durumlar hariç olmak üzere, altı ay içinde gelir tespitinin yenilenmesi talebinde bulunamaz.
+DÖRDÜNCÜ BÖLÜM
+Vakıf Mütevelli Heyeti, Gelir Tespitine Esas Veriler,

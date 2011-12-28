@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 4 – (1) Veri paylaşımını sağlayan elektronik sistem uygulamaya geçene kadar vakıf tarafından SGK’ya yapılacak bildirimler, gelir tespiti sonuç kararının verilmesinden itibaren yedi gün içinde yazılı olarak gerçekleştirilir.
