@@ -1,0 +1,2 @@
+Ofise bildirim yükümlülüğü
+MADDE 11 – (1) Kamu kurum ve kuruluşları, 4/5/2007 tarihli ve 26512 sayılı Resmî Gazete’de yayımlanan Devlet Malzeme Ofisi Genel Müdürlüğü Ana Statüsünün 7 nci maddesinin dokuzuncu fıkrası gereğince, Ofis kataloğunda yer alan ürünleri piyasadan temin etmeleri halinde, bunların teknik özelliklerini de belirten ayrıntılı listesini ve fiyatlarını on gün içerisinde Ofise bildirmekle yükümlüdürler.

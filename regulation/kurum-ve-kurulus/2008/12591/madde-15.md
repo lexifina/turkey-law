@@ -1,0 +1,7 @@
+Talebin değiştirilmesi veya iptali
+MADDE 15 – (1) Kamu kurum ve kuruluşlarınca katalog kapsamındaki ürünlerden talepte bulunulması ve Ofis tarafından tedarikçi firmalara sipariş verilmesi veya firmalarla sözleşme düzenlenmesinden sonra, kamu kurum veya kuruluşunun talep konusu ürünün nitelik ve vasıflarında ihtiyacına binaen değişiklik yapması gerektiğinde; bu durumdan Ofis hemen haberdar edilmek ve tedarikçi firma ile Ofis mutabakatı sağlanmak şartıyla, alımdan tamamen veya kısmen vazgeçilmesi ve ihtiyaca uygun yeni malzemenin ivedi şekilde temin edilmesi yoluna gidilebilir.
+(2) Kamu kurum ve kuruluşları, müteferrik tedarik kapsamındaki taleplerinde Ofis tarafından ihaleye çıkılıncaya kadar (ihale veya pazarlık tarihine kadar) ihtiyaçlarına binaen değişiklik yapabilirler.
+(3) (Değişik:RG-28/12/2011-28156) Kamu kurum ve kuruluşları, Ofisin kabul etmesi ve masraflarının ödenmesi şartıyla;
+a) Kapalı teklif, açık teklif, belli istekliler arasında ihale ve pazarlık usullerine göre yapılacak alımlarda, satınalma komisyonu kararının onaylanmasından önce,
+b) Doğrudan sipariş usulü ile yapılacak alımlarda ise tedarikçi firmaya sipariş verilmesinden önce,
+taleplerinden vazgeçebilirler. Ancak, iptal istemlerinin (a) ve (b) bentlerinde belirtilen işlemlerden önce Ofise bildirilmesi gerekir. Bu bildirimlerin dikkate alınmasında, Ofisin merkez ve taşra teşkilatı kayıtlarına intikal tarihi esas alınır.

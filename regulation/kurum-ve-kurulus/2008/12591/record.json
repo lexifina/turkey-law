@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.12591",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAMU KURUM VE KURULUŞLARININ DEVLET MALZEME OFİSİNDEN YAPACAKLARI MAL VE MALZEME TALEPLERİNE İLİŞKİN YÖNETMELİK",
+  "number": "12591",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2008/12591",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12591&MevzuatTertip=5",
+  "source_sha256": "0e5539c5d444bce265f3d52dafb6797cba5c53af33223e3b3e0f4de002f8878d",
+  "source_bytes": 47441,
+  "published": "2008-11-14",
+  "gazette": "27054",
+  "in_force": "2011-12-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/12/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-12-28",
+      "RG-28/12/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-12-28",
+      "28/12/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2271,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
