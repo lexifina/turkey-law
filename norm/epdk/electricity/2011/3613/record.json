@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3613",
+  "decision_date": "2011-12-28",
+  "title": "2012 Lisanssız Üretim Başvuru Bedeli ve Yıllık İşletim Ücreti",
+  "resmi_gazete_date": "2011-12-31",
+  "resmi_gazete_number": "28159",
+  "categories": [
+    "Geçiş Dönemi vb. Eski Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ANLCfvKwxRw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ANLCfvKwxRw="
+  ],
+  "source_sha256": "c63eb6befb35cd4a72c075fc504e745d012ed8db7b51de5c0c3f8943c27d3bae",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1913,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-12-28",
+  "law_text_complete": false
+}
