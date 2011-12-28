@@ -1,0 +1,15 @@
+{
+  "kind": "regulation",
+  "issuer": "Türkiye Barolar Birliği",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ AVUKATLIK ORTAKLIĞI YÖNETMELİĞİ",
+  "date": "2011-12-28",
+  "date_source": "official-amendment-annotation",
+  "in_force_basis": "Latest amendment annotation printed in the official TBB PDF: RG-28/12/2011-28156.",
+  "commit_kind": "consolidated",
+  "source": "http://d.barobirlik.org.tr/mevzuat/avukata_ozel/yonetmelikler/2012/av_ort_yon.pdf",
+  "source_sha256": "303c4071fef34817c5a9c223ae068f0fdda8bed8180f42c93bec6d2b9d35dd1d",
+  "text_status": "current-text",
+  "version_label": "oldest version available",
+  "text_file": "text.txt",
+  "personal_data": "general professional rule; no case-party publication in this record"
+}
