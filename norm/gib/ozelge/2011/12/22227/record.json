@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 6-2401",
+  "source_id": 22227,
+  "date": "2011-12-28",
+  "title": "Destekleme ödemelerinin iadesi durumunda ilgili dönemde gelir unsuru olarak kayıt altına alınan tutarların gider olarak dikkate alınıp alınamayacağına hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22227",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "9b2788decdde6bb218fe70394db1687e0be0c7c2ac43c29f52bd4acb5184613b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
