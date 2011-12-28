@@ -1,0 +1,2 @@
+Karar
+Madde 8- Başvuru dilekçesi ve ekinde yer alması gereken belgeler eksiksiz olarak Avukatlık Ortaklığının kayıt ve tescil edileceği Baro kalemine teslim edilmedikçe başvuru talebi işleme konmaz. Baro Yönetim Kurulu, Avukatlık Ortaklığının Baroya ait Avukatlık Ortaklığı Siciline yazılması konusunda bir ay içinde karar verir. Bu süre içinde karar verilmediği takdirde başvuru reddedilmiş sayılır. Yazılma istemi, ancak Kanun ve Tip Ana Sözleşmeye aykırılık gerekçesi ile ret edilebilir. Ret kararları gerekçeli olarak yazılır.

@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.5776",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ AVUKATLIK ORTAKLIĞI YÖNETMELİĞİ",
+  "number": "5776",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2001/5776",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5776&MevzuatTertip=5",
+  "source_sha256": "687fda694dc54b7fe36487f81e6e636afc2cd6122e9296b90d598356ea13d9f4",
+  "source_bytes": 76083,
+  "published": "2001-11-25",
+  "gazette": "24594",
+  "in_force": "2011-12-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/12/2011\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2011-12-28",
+      "RG-28/12/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-06-13",
+      "R.G.13/6/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3492,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

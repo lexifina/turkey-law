@@ -1,0 +1,6 @@
+Ortaklar Kurulu
+Madde 17- Ortaklar Kurulu pay sahiplerinden oluşur. Ortaklar Kurulu ortaklığın en yetkili organıdır.
+Ana sözleşme ile Ortaklar Kurulunun toplantı yer, zaman ve şekli ile toplantı ve karar nisapları serbestçe düzenlenir.
+Ana sözleşmede bu konuda bir düzenleme olmaması halinde; Ortaklar Kurulu, ortaklardan birinin yazılı olarak belirleyip diğer ortaklara tebliğ edeceği gündemi görüşmek üzere toplantıya çağırılabilir. Ortaklara toplantı günü ve saati toplantıdan asgari üç gün önce yazılı olarak tebliğ edilmiş olmak kaydı ile ortakların en az ¾ ünün hazır veya temsilen hazır bulunduğu hallerde Ortaklar Kurulu geçerli olarak toplanmış sayılır. Eğer bu nisaba ulaşılamazsa ortaklar aynı usulle ikinci kez çağırılır ve bu toplantıda hazır veya temsilen bulunan ortaklardan en az iki tanesinin bulunması yeterlidir. Ortaklar Kurulu en az yılda bir kez Ocak ayı içinde toplanır.
+Ortaklar Kurulu toplantısında bir ortak diğer bir ortağa kendisini temsil için yetki verebilir. Bir kişide birden fazla ortağın temsil yetkisi bulunamaz. Ortaklar dışında başka bir kişi temsilci olarak görevlendirilemez.
+Kurul kararları ortaklık karar defterine yazılır ve katılan ortaklarca imzalanır. Kararlara muhalif olan ortaklar muhalefet gerekçelerini yazarak kararları imzalarlar.

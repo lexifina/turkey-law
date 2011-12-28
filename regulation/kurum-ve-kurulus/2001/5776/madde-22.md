@@ -1,0 +1,4 @@
+Ortaklar Arasındaki İlişkiler ve Uyuşmazlıkların Çözümü
+Madde 22- Ortaklar; birbirleriyle, çalışanlarla ve üçüncü kişilerle olan ilişkilerinde avukatlık mesleğinin onuruna ve meslek kurallarına uygun davranmak zorundadırlar.
+Ortaklar; birden fazla avukatlık ortaklığının ortağı olamaz, ortaklığın bürosu dışında büro edinemez ve bağımsız olarak dava ve iş takip edemezler. Aksine davranışlar ortaklıktan çıkarılma sebebi olup, ortaklığın, bu çeşit davranışta bulunan ortak hakkında tazminat hakkı ve Avukatlık Kanununun disipline ilişkin hükümleri saklıdır.
+(Değişik:R.G.13/6/2009-27257) Avukatlık ortaklığında; ortakların kendi aralarında ve ortaklıkla ilgili her türlü uyuşmazlıklar, ortaklık payı devri ve intikalinde bedele ilişkin olarak üçüncü şahıslarla aralarında çıkacak anlaşmazlıklar genel hükümlere göre çözümlenir.

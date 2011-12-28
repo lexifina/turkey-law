@@ -1,0 +1,2 @@
+Gelir ve Gider Defteri
+Madde 36- Ortaklığın mesleki faaliyet sebebiyle elde ettiği gelirler, serbest meslek makbuzuna dayalı olarak bu deftere kayıt edilir. Serbest meslek makbuzu gelirin tahsil edildiği tarihte düzenlenir. Ortaklığın yaptığı tüm giderler de, belgeye dayalı olarak, gider tarih sırasına göre bu deftere kayıt edilir. Gelir ve gider defterine kayıtlı olan gelir ve giderin dayanağı olan belgeler, düzenlendikleri tarihi takip eden yıl sonundan itibaren beş yıl doluncaya kadar saklanır. Özel Kanunlardaki hükümler saklıdır.

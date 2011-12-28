@@ -1,0 +1,4 @@
+Ortaklık Payı
+Madde 6- Ana sözleşmede ortakların taahhüt ettikleri ortaklığa katılım payı her ortak için ayrı ayrı gösterilir. Ortaklar, ortaklığa katılım payı olarak;mesleki faaliyetin gerçekleştirilmesine uygun gayrimenkul, menkul, nakit para, mesleki doküman, arşiv, bilgi ve emek taahhüt edebilirler. Taahhüt edilen katılım payları, ortaklığın tescilini müteakip, derhal ve eksiksiz olarak ortaklığın malvarlığına geçirilir.
+Ortaklığın tescilinden sonra; ortaklığa katılım paylarında meydana gelebilecek her türlü değişiklik ana sözleşmenin tadil ve tescili ile hüküm ifade eder.
+Ortaklığa katılım payı olarak gayrimenkul, araba ya da hisse senedi gibi menkul değerler taahhüt edilmişse, ortaklığın tescilini müteakip derhal bu tür karşılıkların resmi kayıtlarının da ortaklığa devri gerekir. Bu tür pay karşılıklarının ortaklık adına kayıt ve tescil işlemleri, kaydın bulunduğu yere, devri yapacak olan ortak ile ortaklık temsilcisinin birlikte başvurması ile yapılır.
