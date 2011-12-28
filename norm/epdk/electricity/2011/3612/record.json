@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3612",
+  "decision_date": "2011-12-28",
+  "title": "2012 Ocak-Mart Dönemi Tarife Tabloları",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XqDetC2TT9M=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XqDetC2TT9M=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=AvOaCfQuuWM="
+  ],
+  "source_sha256": "1bbc8a28ca372ebb9a0ae32158cc6fe000e4e07e14006a2955b0ba4b7bf41412",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-12-28",
+  "law_text_complete": false
+}
