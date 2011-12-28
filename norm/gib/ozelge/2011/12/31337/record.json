@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV GENEL-2386",
+  "source_id": 31337,
+  "date": "2011-12-28",
+  "title": "İşletmede kullanılmak üzere satın alınan yolcu taşıma tekneleri ve yatların KDV ve ÖTV Kanunları açısından durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31337",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "07184601891178ec5c0b024bb073c1de63a527f46ffa7f77ba4bc2398ff034d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
