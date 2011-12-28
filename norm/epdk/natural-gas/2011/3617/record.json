@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3617",
+  "decision_date": "2011-12-28",
+  "title": "Doğal Gaz Piyasası İletim Şebekesi İşleyiş Yönetmeliği’nin 5 inci Maddesinin “Bu düzenlemelerde Kurum onayı olmaksızın değişiklik yapılamaz.” hükmü ve BOTAŞ İletim Şebekesi İşleyiş Düzenlemelerine İlişkin Esaslar’ın (ŞİD) 21. Bölümü çerçevesinde ŞİD’de değişiklik yapılması hakkında Karar alınmıştır.",
+  "resmi_gazete_date": "2011-12-31",
+  "resmi_gazete_number": "28159",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OliLhKpq6xs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OliLhKpq6xs=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=j543MVfN95k="
+  ],
+  "source_sha256": "40bd267a487170df83cc5881e3e05c18519c066fa6f14e20702da50769c0e906",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-12-28",
+  "law_text_complete": false
+}
