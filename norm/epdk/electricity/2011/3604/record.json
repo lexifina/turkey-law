@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3604",
+  "decision_date": "2011-12-28",
+  "title": "OSB Dağıtım Bedeli",
+  "resmi_gazete_date": "2011-12-31",
+  "resmi_gazete_number": "28159",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1k25MJtLco0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1k25MJtLco0="
+  ],
+  "source_sha256": "2d6b8cb235741877355e761b17c50399563d48de00bd3c846dd17048a181c692",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-12-28",
+  "law_text_complete": false
+}
