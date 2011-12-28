@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3607",
+  "decision_date": "2011-12-28",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 28/12/2011 tarihli toplantısında, 29/12/2010 tarihli ve 3002 sayılı Kurul Kararı ile 1/1/2011 tarihinden itibaren uygulanmasına karar verilen 21 Dağıtım Şirketi İçin Tarife Uygulamalarına İlişkin Usul ve Esaslarda değiş",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=78cQcQSAtbI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=78cQcQSAtbI="
+  ],
+  "source_sha256": "566ab465d63bfec6d8f16bb1fd781d46ee06bbc590b5d0e8ff4f833227739c55",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-12-28",
+  "law_text_complete": false
+}
