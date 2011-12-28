@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3614",
+  "decision_date": "2011-12-28",
+  "title": "Doğal Gaz Dağıtım Şirketleri için Tarife Hesaplama Usul ve Esaslarının belirlenmesine yönelik alınan 22/12/2011 tarih ve 3580 sayılı Kurul Kararının 6 ncı maddesinin 7 nci fıkrası çerçevesinde Adapazarı Gaz Dağıtım A.Ş.’nin 2011 yılı Aralık ayı başı Baz Yıl Varlık Tabanının 87.579.971 TL olarak belirlenmesine ilişkin",
+  "resmi_gazete_date": "2011-12-31",
+  "resmi_gazete_number": "28159",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ERT8JIH/xIo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ERT8JIH/xIo="
+  ],
+  "source_sha256": "df4d84a4ea6d8eb6511c1fc476f595c4b13b6af717b868e9865fa40564a6836c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-12-28",
+  "law_text_complete": false
+}
