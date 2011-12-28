@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3605",
+  "decision_date": "2011-12-28",
+  "title": "Türkiye Elektrik Ticaret Taahhüt Anonim Şirketi (TETAŞ) tarafından uygulanacak 01/01/2012 tarihinden itibaren geçerli olacak şekilde aktif elektrik enerji toptan satış tarifesi hakkında",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=d5gdnI+ebBk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=d5gdnI+ebBk="
+  ],
+  "source_sha256": "3dea9085bb3df2902bf6068a249ff29781dddc38df575ea9bec964fae68aefca",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2011-12-28",
+  "law_text_complete": false
+}
