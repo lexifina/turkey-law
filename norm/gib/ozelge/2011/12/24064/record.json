@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130 [2011- 4-1-49]-1186",
+  "source_id": 24064,
+  "date": "2011-12-29",
+  "title": "Yurt dışında şirket ortağı tarafından kurulan tamamen bağımsız ayrı bir şirketin elde ettiği kazançların vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24064",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "e8db741ce95afe07d0487a999b71cbea11f79f69671cfc719eec8442520940f0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
