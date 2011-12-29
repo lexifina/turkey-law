@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2011-12-29",
+  "issue": "28157",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2011/2524 Türkiye Cumhuriyeti Hükümeti ile İslam İşbirliği Teşkilatı Arasında 10 Ağustos 2009 Tarihinde İmzalanan “Türkiye Cumhuriyeti Hükümeti ile İslam Konferansı Teşkilatı Arasında Hibe Anlaşması” ve “Türkiye Cumhuriyeti Hükümeti Tarafından İslam Konferansı Teşkilatı, İslam Ülkeleri İstatistiksel, Ekonomik ve Sosyal Araştırma ve Eğitim Merkezi’ne Hizmet Binası Yapımı İçin Verilen Hibenin Kullandırılmasına İlişkin Usul ve Esaslara Dair Protokol”ün Tadil Edilmesine İlişkin Anlaşma",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111229-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111229.htm",
+  "index_sha256": "9d8032613f8e2e15ec3c915177dc652943c1d760240bd8aac4151328fb1c32f9",
+  "index_header": "29 Aralık 2011 ... 28157 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
