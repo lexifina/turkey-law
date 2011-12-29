@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.72.10.00-488- Damga Vergisi Kanunu-40",
+  "source_id": 35252,
+  "date": "2011-12-29",
+  "title": "Genel menfaatlere yararlı derneğin Sosyal Güvenlik Kurumuna vereceği aylık sigorta prim bildirgelerinin ve vergi dairesine vereceği beyannamelerin damga vergisine tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35252",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "5a236c74fbd2f353388a229ef83b195c07e826361f43ec77359c442df672bd0f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
