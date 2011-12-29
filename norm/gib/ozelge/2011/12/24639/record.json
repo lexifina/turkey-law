@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.05.10.00-2010/GA-94/13-36",
+  "source_id": 24639,
+  "date": "2011-12-29",
+  "title": "işlenmemiş sebze ve meyve toptan ticareti faaliyetinden dolayı tarım işçilerine yapılan ödemeler nedeniyle gider pusulası düzenlenip düzenlenmeyeceği ve yine bu ödemelerden % 10 gelir vergisi tevkifatı yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24639",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "53e598eca1120671c1f59ef90bc6d549de97e34f7a6cf6d625663ffe6540e8c8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
