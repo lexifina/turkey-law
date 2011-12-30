@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-KV-20-187-147",
+  "source_id": 27012,
+  "date": "2011-12-30",
+  "title": "Yatırım Teşvik Belgesine istinaden 31.12.2010 tarihinden önce başlanılan yatırımlar için indirimli kurumlar vergisi oranının uygulanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27012",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "32fe9bdcebad358b44231823e9b7c156a342ac6d18041e3c720415f1588cea76",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
