@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2010-KVK-30-6-1204",
+  "source_id": 27633,
+  "date": "2011-12-30",
+  "title": "Teknik destek hizmetlerinin Çifte Vergilendirmeyi Önleme Anlaşmasının 14 üncü maddesinde tanımlanan serbest meslek hizmetlerinin kapsamına girip girmediği ve bu hizmetlerden elde edilen gelirin Türkiye'de vergiye tabi tutulması gerekip gerekmediği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27633",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "ed96694062f4f43d611e0bfc7ba4b6819f9be2574293e3baffbcc7ae300a3647",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
