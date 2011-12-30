@@ -1,0 +1,7 @@
+İlave atamalar
+MADDE 4 – (1) Kararnamenin 5 inci maddesinin birinci ve üçüncü fıkraları kapsamında ilave personel atama talebinde bulunacak kamu teşebbüsleri, Ek 2’de yer alan Tablo 500: Personel Talep Formu ve Ekleri ile ilave personel atamalarının gerekçelerini ilgisine göre Müsteşarlığa veya ÖİB’ye bildirir. Bu talepler ayrıca değerlendirilerek Müsteşarlığın veya ÖİB’nin uygun görüşü çerçevesinde, DPB’ce unvan değişikliği yapılmaksızın sonuçlandırılır. Personel Talep Formu ve Eklerini göndermeyen teşebbüslerin talepleri dikkate alınmaz. Bu kapsamdaki atama talepleri Müsteşarlığa veya ÖİB’ye yıl içinde en fazla iki defa gönderilebilir.
+(2) Kararnamenin 5 inci maddesinin ikinci fıkrası kapsamında Kalkınma Bakanlığı Kurullar Sekretaryasına iletilecek talep yazısının bir örneği de ilgisine göre Müsteşarlığa veya ÖİB’ye iletilir ve yazı asgari olarak aşağıdaki bilgileri içerir:
+- Kalkınma Bakanlığı tarafından uygun görülen yatırımlar kapsamında kurulan tesis veya işletme birimi hakkında genel bilgiler,
+- Tesis veya işletme biriminin devreye gireceği tarih ile deneme üretimine başlayacağı tarih,
+- İlgili yatırımın ayrıntılı fizibilite raporunda istihdamı öngörülen personel sayısı ve unvanı ile bu personelden teşebbüsçe daimi olarak istihdam edilecek ve yüklenici firma aracılığıyla çalıştırılacak personelin dağılımı,
+- Bu kapsamda daha önce hizmet alımı yapılıp yapılmadığına ilişkin bilgi.
