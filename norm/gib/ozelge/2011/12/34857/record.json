@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-002.01-2416",
+  "source_id": 34857,
+  "date": "2011-12-30",
+  "title": "Yurtdışı müteahhitlik hizmetleri ile ilgili yurtdışında düzenlenen kağıtların Türkçe tercümelerinin resmi dairelere ibrazı sırasında damga vergisinin ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34857",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "ba4e744bb2882525c078183b1c2689a686068ec4028c45262b33d61252705077",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
