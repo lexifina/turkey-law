@@ -1,0 +1,2 @@
+Yerleşim yeri değişikliğinin birden fazla kuruma bildirilmesi
+MADDE 22 – (1) Adres değişikliği nedeniyle birden fazla kurumda işlem yapılması durumunda; adrese ilişkin yeni bilgi ilk başvuruda bulunulan kurum tarafından adres beyan formunun alındı kısmı onaylanarak ilgilisine teslim edilir. Diğer kurumlarda ilk başvuruda bulunulan kurumdan alınan adres beyan formunun alındı kısmına göre işlem tesis edilir.

@@ -1,0 +1,3 @@
+Bildirim süresi
+MADDE 14 – (1) Adrese ilişkin değişiklikleri; adres beyanı ile yükümlü kişiler ve kurumlar yirmi iş günü içinde, yerleşim yeri adresine dayalı hizmet almak üzere herhangi bir resmi kuruma yapılan müracaatlarda kurumlar, ilgili kuruma teslim edilen adres değişikliğine ilişkin beyan formu ile on iş günü içinde nüfus müdürlüklerine veya Genel Müdürlüğe bildirmekle yükümlüdür.
+(2) Yöneticiler ve müstakil konut sahipleri sorumluluk alanlarında bulunan yerlerdeki adres değişikliklerini, adres beyan yükümlülüğü olanlar ile birlikte takip ederek, yirmi iş günü içinde muhtarlara bildirmekten sorumludurlar.

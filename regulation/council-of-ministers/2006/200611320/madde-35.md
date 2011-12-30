@@ -1,0 +1,3 @@
+Adres beyan formlarının kayıt ve tescili
+MADDE 35 – (1) Kişilerce doldurulan veya kurumlarca düzenlenip nüfus idarelerine gönderilen her form elektronik ortamda tutulan gelen evrak defterine kaydedilir. Kayıt tarih ve numarası belgenin ilgili alanına yazılır. İstendiği takdirde bu kayıt tarih ve numaraları ilgili kişilere de verilir.
+(2) Nüfus müdürlüğünce düzenlenen veya kişilerce nüfus müdürlüğüne verilen adres beyan formu işlem anında, diğer kurumlarca düzenlenerek gönderilen adres beyan formu ise nüfus müdürlüğüne veya Genel Müdürlüğe intikal ettiği tarihten itibaren yedi gün içinde aile kütüklerine tescil edilir.

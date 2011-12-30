@@ -1,0 +1,4 @@
+Elektronik ortamda veya posta ile yapılacak bildirimler
+MADDE 15 – (1) Adrese ilişkin bildirim, kişinin Türkiye Cumhuriyeti kimlik numarası, kimliğine ilişkin bilgiler ve sayısal imzasının bulunması kaydıyla elektronik ortamda; bunun mümkün olmaması halinde posta ile yapılabilir. Genel Müdürlüğe elektronik ortamda yapılacak bildirimler de adres beyan formu doldurulmak suretiyle yapılır.
+(2) Yurt dışında yaşayan vatandaşlar tarafından adrese ilişkin bildirimler dış temsilciliklere, dış temsilcilik bulunmaması halinde kayıtlı oldukları yerin nüfus müdürlüğüne posta ile yapılır.
+(3) Posta ile yapılan bildirimlerde yerleşim yerine ilişkin standart adres beyan formunun kullanılması zorunludur. Beyan formundaki tarih ile postaya veriliş tarihi arasında fark olması halinde postaya veriliş tarihi, ancak zarf üzerindeki tarihin tespit edilememesi durumunda nüfus müdürlüğü veya Genel Müdürlük tarafından teslim alındığı tarih esas alınır.

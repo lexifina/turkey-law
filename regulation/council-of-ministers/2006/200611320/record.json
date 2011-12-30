@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "gazette": "26377",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2011-12-30",
+  "in_force_basis": "source amendment commencement table: 28/11/2011 | 2011/2504 | 17 | 30/12/2011",
+  "issuer": "Council of Ministers",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "listing_gazette": "26377",
+  "listing_published": "2006-12-15",
+  "published": "2006-12-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=3&MevzuatNo=200611320&MevzuatTertip=5",
+  "source_bytes": 70609,
+  "source_id": "3.5.200611320",
+  "source_sha256": "9423b1fa4598dd3be5a1fcaaa5ab9a45c83660bf9ea0caaea118254974326fb9",
+  "title": "ADRES KAYIT SİSTEMİ YÖNETMELİĞİ",
+  "word_count": 2946
+}

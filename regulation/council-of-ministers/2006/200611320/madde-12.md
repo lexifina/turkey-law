@@ -1,0 +1,3 @@
+Dış temsilciliklerimizce yerleşim yeri adresi konusunda yapılacak işlemler
+MADDE 12 – (1) Yerleşim yeri adresi yurt dışında olan Türk vatandaşlarının adres kayıtlarının tutulmasında da adres beyan formu kullanılır. Formda adres bilgileri olarak yaşanılan ülkenin ve şehrin adına ilişkin bölümler doldurulur.
+(2) Dış temsilciliklere verilen adres beyan formları Genel Müdürlüğe elektronik ortamda veya nüfus kaydının bulunduğu yerin nüfus müdürlüğüne form olarak gönderilir. Dış temsilciliğin bulunmadığı ülkelerdeki vatandaşların adres bildirimleri Genel Müdürlüğe posta ile gönderilebilir ya da elektronik ortamda yapılabilir.

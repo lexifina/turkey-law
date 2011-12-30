@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Adres: Herhangi bir toprak parçası veya binanın coğrafî konumu ve işlevi açısından tanımlanmasını,
+b) Adres beyan formu: Yerleşim yeri ve diğer adreslerin bildiriminde kullanılan, şekli ve kapsamı Bakanlıkça belirlenmiş olan formu,
+c) Adres bileşenleri: Numaralama işlemlerinde kullanılan unsurlardan; posta kodları, il, ilçe, bucak, köy ve mezra isimleri, mahalle, meydan, bulvar, cadde, sokak isimleri ile sabit tanıtım numarası ve bina numarası gibi adres verileri ile tanımlanan coğrafî konum, kişisel ve kurumsal adres bilgisine ulaşmak için gerekli olan bilgileri,
+ç) Bakan: İçişleri Bakanını,
+d) Bakanlık: İçişleri Bakanlığını,
+e) Diğer adres: Kişinin yerleşim yeri adresi dışında kalan yerleri,
+f) Genel Müdürlük: Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünü,
+g) Kanun: 5490 sayılı Nüfus Hizmetleri Kanununu,
+ğ) Kimlik Paylaşımı Sistemi: Genel Müdürlükçe merkezî veri tabanından ayrı olarak elektronik ortamda tutulan ve alıcı kurumların istifadesine sunulan, sınırlandırılmış bilgiler ihtiva eden aile kütüğü kayıtlarının paylaşılmasına imkan sağlayan sistemi,
+h) Kurum: Genel Müdürlük dışındaki diğer kamu kurum ve kuruluşlarını,
+ı) MERNİS: Merkezî Nüfus İdaresi Sistemini,
+i) Numaralama: Mahalle, semt, meydan, bulvar, cadde, sokak ve bina gibi adres bileşenlerine isim veya numara verilmesi işlemini,
+j) Nüfus müdürlüğü: İlçe nüfus müdürlüğünü,
+k) Posta: Kargo veya iadeli taahhütlü mektubu,
+l) Sabit tanıtım numarası: Mahalle, meydan, bulvar, cadde, sokak ve küme evlere karşılık gelecek şekilde, standart sayısal eş değer olarak verilen numaraları,
+m) Ulusal adres veri tabanı: Adres bilgilerinin tutulduğu merkezî veri tabanını,
+n) Yabancı: Türkiye Cumhuriyeti Devleti ile vatandaşlık bağı bulunmayan ve en az altı ay süreli yabancılara mahsus ikamet tezkeresi alan kişiyi,
+o) Yerleşim yeri adresi: Sürekli kalma niyetiyle oturulan yeri,
+ö) Yerleşim yeri ve diğer adres belgesi: Kişinin yerleşim yerini veya diğer adreslerini gösteren belgeyi,
+ifade eder.

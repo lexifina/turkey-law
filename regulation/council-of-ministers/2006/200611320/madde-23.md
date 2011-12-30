@@ -1,0 +1,4 @@
+DÖRDÜNCÜ BÖLÜM
+Ulusal Adres Veri Tabanı ve Bilgilerin Kullanımı
+Ulusal adres veri tabanının güncel olarak tutulması
+MADDE 23 – (1) Belediye sınırları ve mücavir alan sınırları içinde bulunan yerlerde belediyelerce, büyükşehir belediye sınırları içinde büyükşehir belediyelerince; bu alanlar dışında kalan yerlerde ise il özel idarelerince adres bileşenlerindeki değişiklikler takip eden on iş günü içinde ulusal adres veri tabanına işlenir. Ulusal adres veri tabanına bağlanamayan il özel idareleri ve belediyeler, mahallî adres bilgilerini tespit edip güncelliğini takip ederek ulusal adres veri tabanına işlenmek üzere değişikliği takip eden on iş günü içinde elektronik ortamda nüfus müdürlüğüne veya Genel Müdürlüğe gönderir. Kişilerin adres bileşenlerindeki değişiklikleri bildirme sorumluluğu yoktur.

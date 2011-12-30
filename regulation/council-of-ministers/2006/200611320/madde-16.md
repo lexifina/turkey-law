@@ -1,0 +1,2 @@
+Diğer adreslere ilişkin hizmetler
+MADDE 16 – (1) Yazlık ve kışlık konut gibi ikinci ve üçüncü diğer adreslerin kimlik paylaşım sisteminde yer almaması, kurumlarca verilecek hizmetlerin yerine getirilmesine engel teşkil etmez. Yerleşim yeri dışındaki diğer adresler için işlem tesis edilmeden önce bu Yönetmeliğin 26 ncı maddesine göre işlem yapılarak ulusal adres veri tabanındaki eksiklik tamamlandıktan sonra hizmetin gereği ilgili kurumca yerine getirilir.
