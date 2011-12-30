@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.15686",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TAHSİLAT GENEL TEBLİĞİ (SERİ: B SIRA NO: 6)",
+  "number": "15686",
+  "path": "teblig/2011/15686",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15686&MevzuatTertip=5",
+  "source_sha256": "530879b7899f21876d6bf1ac802acad1873b70cb76ee7aaa3d49a1ac52496523",
+  "source_bytes": 14369,
+  "published": "2011-12-30",
+  "gazette": "28158",
+  "in_force": "2011-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 684,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
