@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-DV-2010/24-225",
+  "source_id": 34853,
+  "date": "2011-12-30",
+  "title": "ÖTV Talep ve Taahhütnamelerinde Damga Vergisi uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34853",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "6c42ecf5b84d7c27940d6f1282f20f41a761ddd8a3267d70c90679fd47037de7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
