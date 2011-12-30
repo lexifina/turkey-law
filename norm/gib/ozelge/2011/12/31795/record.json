@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-1-2010-14017-18-1198",
+  "source_id": 31795,
+  "date": "2011-12-30",
+  "title": "Bankalardan temin edilen kredilerin ve şirket fonlarının bağlı şirketlere kullandırılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31795",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "86206f1d3530ed262ba2b4060207b1b4787d78272f89ce03b40893fb05d45922",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
