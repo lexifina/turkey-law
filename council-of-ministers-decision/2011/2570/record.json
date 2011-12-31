@@ -1,0 +1,28 @@
+{
+  "title": "2011/2570 Bazı Kamu Kurum ve Kuruluşlarına Ait Kadrolarda Düzenleme Yapılması Hakkında Karar",
+  "decision_number": "2011/2570",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111231-1.htm",
+  "source_sha256": "6fc55cefb57f3ad6988d5bb6957e40d4163f99d847ce961f0dd13fe559846746",
+  "publication_date": "2011-12-31",
+  "in_force": "2011-12-31",
+  "in_force_basis": "Own commencement: MADDE 2 – (1) Bu Karar yayımı tarihinde yürürlüğe girer.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "shard": "mevzuat-bkk-yonetmelik-cont6",
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "images_deferred": 0,
+  "notes": [],
+  "annexes": [
+    {
+      "source": "https://www.resmigazete.gov.tr/eskiler/2011/12/20111231-1-1.xls",
+      "sha256": "c4a64e63a2f3f3638ea61d87f962fb20db7b911cd850f06cabca85465083669e",
+      "file": "annexes/c4a64e63a2f3f3638ea61d87f962fb20db7b911cd850f06cabca85465083669e.xls",
+      "text_inventory": "annex-cells.json",
+      "original_format": "xls",
+      "complete_original": true,
+      "source_images": 0
+    }
+  ]
+}
