@@ -1,0 +1,1 @@
+MADDE 2 – (1) Türk Standardları Enstitüsü (TSE) tarafından hazırlanan TS EN ISO 1461 “Demir ve Çelikten İmal Edilmiş Malzemeler Üzerine Sıcak Daldırmayla Yapılan Galvaniz Kaplamalar–Özellikler ve Deney Metotları” standardı, imalat ve satış safhalarında zorunlu olarak uygulanır.
