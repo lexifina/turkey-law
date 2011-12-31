@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.15703",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 55)",
+  "number": "15703",
+  "path": "teblig/2011/15703",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15703&MevzuatTertip=5",
+  "source_sha256": "87dacf4192d50222d4645dab3f68b93ddd412f27443045e2ac89928111bf12bc",
+  "source_bytes": 52948,
+  "published": "2011-12-31",
+  "gazette": "28159",
+  "in_force": "2011-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2011)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 992,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
