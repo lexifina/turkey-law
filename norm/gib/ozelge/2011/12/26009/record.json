@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.55.15.01-2010-GVK-ÖZE-143-547",
+  "source_id": 26009,
+  "date": "2011-12-31",
+  "title": "İnşaat müteahhitliği faaliyetinin yanısıra proje hizmetleri de veren şirketin, kendi müteahhitliğini yapmış olduğu inşaatlara çizilen projeler için fatura düzenlenmesine gerek olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26009",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "e7f66a65830b37e07331f947fe6615ac7120efdfb116c345d50e93db575ae464",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
