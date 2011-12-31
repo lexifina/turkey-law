@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.15701",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SIVILAŞTIRILMIŞ PETROL GAZLARI (LPG) DEPOLAMA KURALLARI İLE İLGİLİ TEBLİĞ (TS 1446) (TEBLİĞ NO: MSG–TD–2011/ 12)",
+  "number": "15701",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2011/15701",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15701&MevzuatTertip=5",
+  "source_sha256": "bf0cfe9a3e9705fe140dcdeb0e97d16c229a901e114aeb6392357eed744ea2c9",
+  "source_bytes": 7916,
+  "published": "2011-12-31",
+  "gazette": "28159",
+  "in_force": "2011-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2011); own commencement article: \"Bu Tebliğ hükümleri, yayımı tarihinden itibaren onbeş gün sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ hükümleri, yayımı tarihinden itibaren onbeş gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 188,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
