@@ -1,0 +1,28 @@
+{
+  "number": "year-file",
+  "year": 2011,
+  "title": "2011 Yılı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2011-12-31",
+  "date_precision": "year",
+  "period": "2011",
+  "source": "https://www.bartinozelidare.gov.tr/2011-2005-yillari-arasindaki-meclis-kararlari",
+  "official_page": "https://www.bartinozelidare.gov.tr/2011-2005-yillari-arasindaki-meclis-kararlari",
+  "official_document": "https://www.bartinozelidare.gov.tr/kurumlar/bartinozelidare.gov.tr/il_genel_meclisi/2011/meclis-kararlari-2011.rar",
+  "source_sha256": "c9919f5650471fd31f17b1764bc0f547890c2a893123091c07987de3a9f2e85e",
+  "issuer": "Bartın İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number/subject as published (official list or file name); complete decision text is in the linked official document, not transcribed",
+  "in_force": "2011-12-31",
+  "in_force_basis": "The official source prints only the year of this file (2011); date set to 31 December of that year (turkey-law date convention for year-only sources, Alan 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes",
+    "decision numbers and subjects"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2011 Yılı Meclis Kararları",
+  "item_title": "2011-2005 Yılları Arasındaki Meclis Kararları"
+}
