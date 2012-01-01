@@ -7,3 +7,4 @@ MADDE 49- (1) Kabul edilebilirliğine karar verilen bireysel başvuruların esas
 (6) Bölümlerin, bir mahkeme kararına karşı yapılan bireysel başvurulara ilişkin incelemeleri, bir temel hakkın ihlal edilip edilmediği ve bu ihlalin nasıl ortadan kaldırılacağının belirlenmesi ile sınırlıdır. Bölümlerce kanun yolunda gözetilmesi gereken hususlarda inceleme yapılamaz.
 (7) Bireysel başvuruların incelenmesinde, bu Kanun ve İçtüzükte hüküm bulunmayan hâllerde ilgili usul kanunlarının bireysel başvurunun niteliğine uygun hükümleri uygulanır.
 (8) Esas hakkında incelemenin usul ve esasları ile ilgili diğer hususlar İçtüzükle düzenlenir.
+11478

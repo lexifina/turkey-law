@@ -12,3 +12,4 @@ g) Komisyon: Bireysel başvuruların kabul edilebilirlik incelemesini yapmak üz
 h) Üye: Başkan ve başkanvekilleri de dâhil tüm üyeleri,
 ı) Yüce Divan: Anayasanın 148 inci maddesinin altıncı ve yedinci fıkralarında belirtilen kişilerin, görevleri ile ilgili suçlarından dolayı yargılamasını yapmakla görevli Mahkeme Genel Kurulunu,
 ifade eder.
+11460

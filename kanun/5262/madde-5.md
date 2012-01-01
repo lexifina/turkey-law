@@ -1,5 +1,5 @@
 Yetkilendirilmiş kuruluşlar
-Madde 5. — Bu Kanunun uygulanmasında; organik tarım faaliyetlerinin her türlü kontrol ve sertifikalandırma işlemleri, Bakanlıkça veya Bakanlıkça yetkilendirilmiş kuruluşlarca yapılır. Yetkilendirilmiş kuruluşlar, yeterli ve tecrübeli personel ile teknik alt yapıya sahip olmak zorundadır.
+Madde 5- Bu Kanunun uygulanmasında; organik tarım faaliyetlerinin her türlü kontrol ve sertifikalandırma işlemleri, Bakanlıkça veya Bakanlıkça yetkilendirilmiş kuruluşlarca yapılır. Yetkilendirilmiş kuruluşlar, yeterli ve tecrübeli personel ile teknik alt yapıya sahip olmak zorundadır.
 Kontrol ve sertifikasyon kuruluşu veya sertifikasyon kuruluşu tarafından sertifikalandırılmamış ürünler, organik ürün veya organik girdi adı altında satılamaz.
 Kontrol ve sertifikasyon kuruluşu veya sertifikasyon kuruluşu organik olmayan tarımsal ürün ve girdilere, organik ürün veya organik girdi sertifikası veremez.
 Yetkilendirilmiş kuruluşlar ile kontrolör ve sertifikerler, Bakanlıktan çalışma izni almak zorundadır. Yetkilendirilmiş kuruluşların çalışma izni bittiğinde, Bakanlıktan süre uzatımı almadan tekrar faaliyette bulunamazlar.

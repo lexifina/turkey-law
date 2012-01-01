@@ -1,5 +1,6 @@
 Genel Kurul
 MADDE 21- (1) Genel Kurul, Mahkemenin onyedi üyesinden oluşur. Genel Kurul, Başkanın veya belirleyeceği başkanvekilinin başkanlığında en az oniki üye ile toplanır.
+11467
 (2) Genel Kurulun görevleri şunlardır:
 a) İptal ve itiraz davaları ile Yüce Divan sıfatıyla yürütülecek yargılamalara bakmak.
 b) Siyasi partilere ilişkin mali denetim yapmak, dava ve başvuruları karara bağlamak.
