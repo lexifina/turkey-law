@@ -1,0 +1,2 @@
+Madde 26 – Hukuk ve Ceza Bölümlerinde ve Genel Kurulda, üye tam sayısı hazır bulunmadıkça görüşmelere başlanamaz ve karar verilemez. Eksik üyenin yeri o üyenin geldiği yargı merciinin yedek üyesi ile, bu olmadığı takdirde başka bir yedek üye ile doldurulur. Mahkeme, her toplantı dönemi başında, yıllık çalışma planını yapar.
+Bölümlerde ve Genel Kurulda incelemeler dosya üzerinde yapılır ve bu kanunda belli edilenler dışında çoğunlukla karar verilir.

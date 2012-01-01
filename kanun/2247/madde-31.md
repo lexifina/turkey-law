@@ -1,0 +1,7 @@
+Çeşitli Hükümler
+Raportörlük:
+Madde 31 – Uyuşmazlık Mahkemesine, çalışmalarında yardımcı olmak üzere, Başkanın takdir edeceği yeter sayıda geçici raportör verilir.
+Geçici raportörler, hakimlikte veyahut Hakimler Kanunu gereğince hakimlik ve savcılık sınıflarından sayılan hizmetlerde en az dört yılını ikmal etmiş ve üstün başarısıyla Uyuşmazlık Mahkemesinde yararlı olacağı anlaşılanlarla, aynı niteliği haiz Danıştay yardımcıları, kanunsözcüleri, askeri hakimler ve savcılar arasından Uyuşmazlık Mahkemesi Başkanının isteği ve ilgilinin muvafakatı üzerine, mensup oldukları müesseselerin yetkili mercileri tarafından geçici olarak görevlendirilirler. Bunların özlük işlerinde mensup oldukları mesleklere ait hükümler uygulanır ve raportörlükte geçirdikleri süreler mesleklerinde geçmiş sayılır. Ancak, terfilerinde Uyuşmazlık Mahkemesi Başkanı tarafından verilecek yazılı bilgi esas olur.
+Askeri hakimler ve savcılar arasından atanacak geçici raportörler hakkında subay sicil belgesi sırasıyla, Milli Savunma Bakanlığı Müsteşar Yardımcısı, Müsteşar ve Milli Savunma Bakanı tarafından düzenlenir. Bu sicilin düzenlenmesinde Uyuşmazlık Mahkemesi Başkanı tarafından subay sicil formu esaslarına göre verilecek kanaat notu gözönünde bulundurulur.
+Geçici raportörlerin görevlerini Uyuşmazlık Mahkemesi Başkanı belli eder. Başkan gerekli görürse, dosyayı raporu düzenlemek, üzere bir üyeye dahi verebilir. Raporlarda, raporun yazanın doğru bulduğu sonuca ilişkin gerekçeli düşüncesi de gösterilir.
+5167

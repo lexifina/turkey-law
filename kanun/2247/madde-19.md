@@ -1,0 +1,4 @@
+Yargı merciilerinin uyuşmazlık mahkemesine başvurmaları:
+Madde 19 – Adli, idari, askeri yargı mercilerinden birisinin kesin veya kesinleşmiş görevsizlik kararı üzerine kendisine gelen bir davayı incelemeye başlayan veya incelemekte olan bir yargı mercii davada görevsizlik kararı veren merciin görevli olduğu kanısına varırsa, gerekçeli bir karar ile görevli merciin belirtilmesi için Uyuşmazlık Mahkemesine başvurur ve elindeki işin incelenmesini Uyuşmazlık Mahkemesinin karar vermesine değin erteler.
+(Değişik ikinci fıkra: 23/7/2008 – 5791/9 md.) Yargı merciince, önceki görevsizlik kararına ilişkin dava dosyası da temin edilerek, gerekçeli başvuru kararı ile birlikte dava dosyaları Uyuşmazlık Mahkemesine gönderilir.
+Temyiz incelemesi yapan yargı merciilerinin Uyuşmazlık Mahkemesine başvurmaları:
