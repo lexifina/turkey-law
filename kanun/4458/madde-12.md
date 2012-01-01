@@ -1,0 +1,5 @@
+Madde 12 – 1. Gümrük idareleri ve diğer yetkili kurumlar gizli nitelikteki veya gizlilik esasına göre elde edilen bütün bilgileri saklamak zorundadır. Bu bilgileri veren kişinin veya makamın açık izni olmaksızın söz konusu bilgiler açıklanamaz. Şu kadar ki, gümrük idareleri ve diğer yetkili kurumlar verilerin korunmasına ilişkin yasal hükümler veya yargı kararlarının gereği olarak söz konusu bilgileri ilgili mercilere verirler. (1)
+2. Gümrük işlemleri nedeniyle elde edilen gizli nitelikteki bilgilerin toplanması, kullanılması, saklanması, saklanma süresi ve üçüncü kişilere verilmesine ilişkin hükümler yönetmelikle belirlenir.
+–––––––––––––––
+(1) 18/6/2009 tarihli ve 5911 sayılı Kanunun 66 ncı maddesiyle; bu fıkrada yer alan “gümrük idareleri” ibarelerinden sonra gelmek üzere “ve diğer yetkili kurumlar” ibaresi eklenmiş ve metne işlenmiştir.
+7686
