@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.15671",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TEK TARAFLI KONTROL SİSTEMİ KAPSAMINDA KOTAYA TABİ TEKSTİL ÜRÜNLERİNE AİT KOTALARIN DAĞITIMI VE YÖNETİMİNE İLİŞKİN TEBLİĞ (2012/1)",
+  "number": "15671",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2011/15671",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15671&MevzuatTertip=5",
+  "source_sha256": "7828809c3a922934feec9757092f8eb27763baade22faa923cacd873626c96a1",
+  "source_bytes": 11532,
+  "published": "2011-12-28",
+  "gazette": "28156",
+  "in_force": "2012-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2012 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2012 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 374,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15671%20ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1 – (1) 26/12/1997 tarihli ve 23212 sayılı Resmî Gazete’de yayımlanan “İkili Anlaşmalar, Protokoller veya Diğer Düzenlemeler Kapsamı Dışında, Belirli Ülkeler Menşeli Tekstil Ürünleri İthalatında Gözetim ve Korunma Önlemleri Hakkında Yönetmelik” uyarınca, EK-I’de yer alan ülkeler menşeli tekstil ürünleri için tespit edilen 2012 yılına ait kotaların dağıtımı, EK-I’de gösterilen azami miktarları aşmayan ithalatçı talepleri dikkate alınarak, başvuru sırasına göre yapılır.
