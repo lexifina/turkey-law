@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.10750",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANKALARIN KURUMSAL YÖNETİM İLKELERİNE İLİŞKİN YÖNETMELİK",
+  "number": "10750",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2006/10750",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10750&MevzuatTertip=5",
+  "source_sha256": "0d554481fd808d528bd3e3bd6ba2c07699203a01e3cbc36a9387088fda53493e",
+  "source_bytes": 71929,
+  "published": "2006-11-01",
+  "gazette": "26333",
+  "in_force": "2012-01-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/1/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-01-01",
+      "1/1/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-06-09",
+      "RG-9/6/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-06-09",
+      "9/6/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1899,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
