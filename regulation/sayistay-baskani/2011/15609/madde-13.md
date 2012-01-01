@@ -1,0 +1,4 @@
+Sicil formlarının doldurulma zamanı
+MADDE 13 – (1) Yıllık sicil formları, ilk derece sicil amirlerince en geç takip eden yılın ocak ayının onbeşine ve ikinci derece sicil amirlerince de en geç ocak ayının yirmibeşine kadar düzenlenerek ilgili birime verilir.
+(2) Denetçi yardımcıları için adaylık ve yardımcılıklarının bitimine esas olmak üzere; Başkanlık tarafından mesleki eğitim ve staj programının tamamlanması dikkate alınarak belirlenen tarihten itibaren ilk derece sicil amiri tarafından onbeş ve ikinci derece sicil amiri tarafından da onbeş olmak üzere toplam otuz gün içinde EK-2’deki sicil formu doldurulur ve ilgili birime gönderilir.
+(3) Ekip halinde yapılan çalışmalarda ekip başkanı tarafından EK-3’te yer alan görev değerlendirme formu görevin bitimini takip eden onbeş gün içinde doldurulur ve ilk derece sicil amirine verilmek üzere ilgili birime gönderilir.

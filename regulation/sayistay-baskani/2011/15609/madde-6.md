@@ -1,0 +1,2 @@
+Ekip halinde çalışmalarda görev değerlendirme raporu düzenlenmesi
+MADDE 6 – (1) Ekip başkanı, ekip halinde yapılan çalışmalarda, her bir ekip üyesi için EK-3’te yer alan görev değerlendirme raporunu hazırlar ve ilgili denetçinin ilk ve ikinci derece sicil amirlerine verilmek üzere Başkanlığa sunar. İlk ve ikinci derece sicil amirleri yıllık sicil formlarını düzenlerken, söz konusu görev değerlendirme raporlarından yararlanır.

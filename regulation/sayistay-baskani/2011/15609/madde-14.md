@@ -1,0 +1,2 @@
+Sicil amirinin yanındaki hizmet süresi
+MADDE 14 – (1) Hakkında yıllık sicil düzenlenecek meslek mensupları ile savcıların ilk derece sicil amiri yanında en az altı ay çalışmış olması gerekir. İzin, hastalık, geçici görevlendirme ve benzeri ayrılmalar da bu süreye dahildir. Aynı sicil amiri yanında geçmesi gereken altı aylık süre zorunlu sebeplerle doldurulamamış ise, bu süre üç ay olarak uygulanır.

@@ -1,0 +1,2 @@
+İcmal fişleri
+MADDE 12 – (1) Meslek mensupları ve savcıların sicil dosyalarında her takvim yılı sonunda toplanan rapor değerlendirme puan fişleri, ilgili birimce örneği EK-5’te gösterilen Rapor Değerlendirme İcmal Fişine yazılarak puan ortalaması tespit edilir. Ortalamanın küsuratlı olması halinde küsurat tam sayıya iblağ olunur. Bu rakam yıllık sicil formuna, “rapor değerlendirme puanı” olarak aynen yazılır. Bu fişlerin bir örneği ilgili meslek mensubuna veya savcıya verilir.

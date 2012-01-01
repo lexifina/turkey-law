@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.15609",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAYIŞTAY MESLEK MENSUPLARI İLE SAVCILARINA AİT SİCİL YÖNETMELİĞİ",
+  "number": "15609",
+  "issuer": "Sayıştay Başkanı",
+  "issuer_slug": "sayistay-baskani",
+  "path": "regulation/sayistay-baskani/2011/15609",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15609&MevzuatTertip=5",
+  "source_sha256": "f9c36d6439eef18261175cf964bc18791491e6379d3003fc942657e588a8b14d",
+  "source_bytes": 35817,
+  "published": "2011-12-17",
+  "gazette": "28145",
+  "in_force": "2012-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2012 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2012 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1946,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15609%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
