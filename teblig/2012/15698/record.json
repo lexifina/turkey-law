@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.15698",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DEVLET MEMURLARI KANUNU GENEL TEBLİĞİ (Seri No: 161) (666 Sayılı Kanun Hükmünde Kararname Hükümlerine İlişkin)",
+  "number": "15698",
+  "path": "teblig/2012/15698",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15698&MevzuatTertip=5",
+  "source_sha256": "0d4815341f4d90bede883939e50c672ffb98ff9b9b21c39480207d1a353199c9",
+  "source_bytes": 6239,
+  "published": "2012-01-01",
+  "gazette": "28160",
+  "in_force": "2012-01-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.01.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 72,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15698-ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,2 @@
+DEVLET MEMURLARI KANUNU GENEL TEBLİĞİ (SERİ NO: 161) (666 SAYILI KANUN HÜKMÜNDE KARARNAME HÜKÜMLERİNE İLİŞKİN)
+01/01/2012 tarihli ve 28160 sayılı Resmî Gazete’de yayımlanan Devlet Memurları Kanunu Genel Tebliğe (Seri No: 161) (666 Sayılı Kanun Hükmünde Kararname Hükümlerine İlişkin) ve 8/5/2015 tarihli ve 29349 sayılı Resmi Gazete’de yayımlanan Devlet Memurları Kanunu Genel Tebliği (Seri No: 161) (666 Sayılı Kanun Hükmünde Kararname Hükümlerine İlişkin)’nde Değişiklik Yapılmasına Dair Tebliğe (Seri No: 163) ulaşmak için tıklayınız.
