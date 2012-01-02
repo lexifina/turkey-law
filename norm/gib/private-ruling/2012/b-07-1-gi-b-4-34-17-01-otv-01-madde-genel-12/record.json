@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-02T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-02",
+  "official_number": "B.07.1.GİB.4.34.17.01-ÖTV 01.MADDE GENEL-12",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33825",
+  "source_id": "ozelge:33825",
+  "source_row_sha256": "c829f8c98e83193be97359428935be8487836d9fc775653f44c00411917fdbb9",
+  "title": "(I) sayılı listede yer almayan ürünlerin tesliminde ÖTV'nin hesaplanıp hesaplanmayacağı hk.",
+  "version_label": "as-enacted",
+  "word_count": 370
+}
