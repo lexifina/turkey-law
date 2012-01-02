@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-02T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-02",
+  "official_number": "B.07.1.GİB.4.99.16.02-KDV-23/f-4",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32041",
+  "source_id": "ozelge:32041",
+  "source_row_sha256": "8b152e32b81a38d3a6b20f4eb76a9dbbf25afd9111caea5cfc21cd34db24dae9",
+  "title": "Elektronik biletlerde katma değer vergisi uygulaması hk.",
+  "version_label": "as-enacted",
+  "word_count": 272
+}
