@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-02T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-02",
+  "official_number": "B.07.1.GİB.4.99.16.02-KDV-28-3",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32931",
+  "source_id": "ozelge:32931",
+  "source_row_sha256": "ca3a57a03cdf0e6cfe9869c7a540ca6f05f833e5b56e55216c1c9c15e4bfb395",
+  "title": "İlaç hammaddeleri ithalinde uygulanması gereken KDV oranı hk.",
+  "version_label": "as-enacted",
+  "word_count": 195
+}
