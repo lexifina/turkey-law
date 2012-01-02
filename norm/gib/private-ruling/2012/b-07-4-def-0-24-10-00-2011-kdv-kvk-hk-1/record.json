@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-02T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-02",
+  "official_number": "B.07.4.DEF.0.24.10.00-2011/KDV-KVK hk-1",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28001",
+  "source_id": "ozelge:28001",
+  "source_row_sha256": "428e7642be5e80ecc15fb93df82022ee564c9abb6ce22431ee8c2ebccb85717f",
+  "title": "Özel Hastanelerin SGK'dan Tahsil Edemediği Fatura Bedeli Hk.",
+  "version_label": "as-enacted",
+  "word_count": 487
+}
