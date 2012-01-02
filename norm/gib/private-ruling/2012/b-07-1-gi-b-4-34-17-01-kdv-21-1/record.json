@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-02T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-02",
+  "official_number": "B.07.1.GİB.4.34.17.01-KDV.21-1",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32022",
+  "source_id": "ozelge:32022",
+  "source_row_sha256": "7018d851063cc8697d40eba11424b94499e6b5fc7784c8874b55f29846697237",
+  "title": "İthalatta KDV matrtahının belirlenmesi hk.",
+  "version_label": "as-enacted",
+  "word_count": 147
+}
