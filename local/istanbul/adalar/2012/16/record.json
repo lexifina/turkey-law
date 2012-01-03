@@ -1,0 +1,24 @@
+{
+  "number": "16",
+  "number_as_published": "16",
+  "year": 2012,
+  "title": "Zabıta Müdürlüğünün 20.12.2011 tarih ve 2799 sayılı Bisiklet Plakları hakkındaki teklifi görüşülerek teklif – karar olarak kabulüne oyçokluğu ile karar verildi.",
+  "decision_date": "2012-01-03",
+  "source": "https://adalar.bel.tr/meclis-kararlari/2012-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-karari/",
+  "official_document": null,
+  "source_sha256": "fd725fcbbba594547aec6378a682bedf25614a658b86cd4cc062388e5ea2a091",
+  "issuer": "Adalar Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2012-01-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.01.2012 (Karar Tarihi printed above the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and subject as published in the year's official decisions post)",
+  "decision_number": "2012/16",
+  "official_page": "https://adalar.bel.tr/meclis-kararlari/2012-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-karari/"
+}
