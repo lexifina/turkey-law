@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.15710",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 281)",
+  "number": "15710",
+  "path": "teblig/2012/15710",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15710&MevzuatTertip=5",
+  "source_sha256": "3d78675ba6cb3faf39ab710875dab75b40dbba0122d5931bd85f4c7c75c21387",
+  "source_bytes": 14810,
+  "published": "2012-01-03",
+  "gazette": "28162",
+  "in_force": "2012-01-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.01.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 797,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
