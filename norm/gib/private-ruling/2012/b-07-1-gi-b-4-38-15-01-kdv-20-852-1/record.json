@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-03T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-03",
+  "official_number": "B.07.1.GİB.4.38.15.01-KDV-20-852-1",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25687",
+  "source_id": "ozelge:25687",
+  "source_row_sha256": "ba16da0a7118213c7569f98c3788e800ed339ea86aeaf8204734ee11d6ccc6a4",
+  "title": "Sigorta şirketince ödenen tazminatın KDV'ye tabi olup olmadığı, banka dekontunun tevsik edici belge olup olmadığı hk.",
+  "version_label": "as-enacted",
+  "word_count": 341
+}
