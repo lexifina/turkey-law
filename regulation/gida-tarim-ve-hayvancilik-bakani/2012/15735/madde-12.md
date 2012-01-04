@@ -1,0 +1,6 @@
+Kontak işletmelerde alınacak önlemler
+MADDE 12 – (1) Yetkili otorite yapılan epidemiyolojik araştırmalara dayanarak bir işletmenin, kontak işletme olup olmadığına karar verir. Yetkili otorite tarafından kontak işletmelerde aşağıdaki önlemler alınır.
+a) Şüpheli işletmeden dolayı kontak olan işletmeler, 6 ncı maddeye uygun olarak resmi gözetim altına alınır. Bu gözetim, hastalık varlığı resmi olarak ortadan kalkana kadar, kaldırılamaz.
+b) Hastalık mihrakı olan işletmeden dolayı kontak olan işletmeler 6 ncı maddeye uygun olarak resmi gözetim altına alınır. Bu gözetim, hastalığın varlığı resmi olarak ortadan kalkana kadar kaldırılamaz.
+(2) Yetkili otorite, bir işletme birinci fıkranın (b) bendinde belirtilen hükümlere tabi olduğunda 6 ncı maddede belirtilen hükümleri, 11 inci maddeye göre uygulanan epidemiyolojik araştırma tarafından belirlenen enfeksiyonun muhtemel başlangıç zamanını takiben her hastalığa ilişkin azami kuluçka süresi kadar işletmede yürürlükte tutar.
+(3) Yetkili otorite şartların uygun olması durumunda birinci fıkranın (a) ve (b) bentlerinde belirtilen önlemlerin, 10 uncu maddede belirtilen şartları karşılaması şartıyla işletmenin bir bölümüne ve orada bulundurulan hayvanlara veya yalnızca hastalığa duyarlı türden hayvanlar için uygulanmasını sağlar.
