@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-04T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-04",
+  "official_number": "B.07.1.GİB.4.55.15.01-2010-KDV-ÖZE-67-5",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29578",
+  "source_id": "ozelge:29578",
+  "source_row_sha256": "da0e9d41256e28728326143f7dff2de62de96cd093aedc198ef0d663cafc158d",
+  "title": "Özel matrah şekline tabi mükellefiyette yüklenilen KDV'nin indirimi hk.",
+  "version_label": "as-enacted",
+  "word_count": 393
+}
