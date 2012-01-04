@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "MİLLİ EĞİTİM, KÜLTÜR, GENÇLİK VE SPOR KOMİSYONU",
+  "committee_id": 16,
+  "meeting_date": "2012-01-04",
+  "meeting_date_as_published": "04/01/2012",
+  "agenda": [
+    "ÇOĞALTILMIŞ FİKİR VE SANAT ESERLERİNİ DERLEME KANUNU TASARISI (1/485)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/643",
+  "pdf_sha256": "6d6584e2ed212f612906ba2714ee32fb69a3147e99cfa4f6738d051a4016eed1",
+  "pdf_pages": 37,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=16)",
+  "listing_sha256": "e78bdccab7d13537dd0caa9b3543d1ffd65f9482738d73cb9dcdbcf2c991dda8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-01-04",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
