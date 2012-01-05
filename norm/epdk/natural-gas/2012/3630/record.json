@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3630",
+  "decision_date": "2012-01-05",
+  "title": "Başkent Doğal Gaz Dağıtım A.Ş.’nin 2012 yılı başı Baz Yıl Varlık Tabanı ve bu sürede yapılan yatırımlara ilişkin enflasyon güncellemesi yapılmaması hakkında",
+  "resmi_gazete_date": "2012-01-15",
+  "resmi_gazete_number": "28174",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7C6ADoVQm7A=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7C6ADoVQm7A="
+  ],
+  "source_sha256": "f29f663bc94be85eb87a81d93098465a781974c11363f7a851deaee8feaa3bb8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-01-05",
+  "law_text_complete": false
+}
