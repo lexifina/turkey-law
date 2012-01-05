@@ -1,0 +1,20 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB sirkulerTarih: 2012-01-05T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "circular",
+  "official_date": "2012-01-05",
+  "official_number": "ÖTV-1/2012-1",
+  "official_number_basis": "Official GIB sirkulerNo field",
+  "personal_data_screen": "General circular/internal circular; generic identity-information requirements do not decide a private person. No literal 11-digit identifier or named-private-person marker found.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/sirkuler/991",
+  "source_id": "sirkuler:991",
+  "source_row_sha256": "be21d9a5b4abca7684d3a26dbeaf17ce3be34a2219d192a000ce9856046ddd2f",
+  "title": "YMM Üretim Tasdik Raporlarında G.T.İ.P. Numarası Tevsiki",
+  "version_label": "as-enacted",
+  "word_count": 705
+}
