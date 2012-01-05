@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-01-05",
+  "issue": "28164",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2011/138)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120105-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120105.htm",
+  "index_sha256": "50c57d4f45d22ae4b3a656661b0d4f709cfd692fe7db807f94b66afb239a8b4f",
+  "index_header": "5 Ocak 2012 ... 28164 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
