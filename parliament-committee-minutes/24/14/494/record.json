@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "İNSAN HAKLARINI İNCELEME KOMİSYONU",
+  "committee_id": 14,
+  "meeting_date": "2012-01-05",
+  "meeting_date_as_published": "05/01/2012",
+  "agenda": [
+    "TERÖR MAĞDURLARININ DİNLENMESİ"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/494",
+  "pdf_sha256": "fd575c0189688376ae8b76cd05be44664a4168856dc8938ccd143f2245c00ef2",
+  "pdf_pages": 45,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=14)",
+  "listing_sha256": "42724f97138fc5b68e4a08554534a324a313024a61276c03c700b8b02d697ed8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-01-05",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
