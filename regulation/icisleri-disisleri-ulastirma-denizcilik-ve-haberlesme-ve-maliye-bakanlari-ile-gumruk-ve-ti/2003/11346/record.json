@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.11346",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "UÇAK MÜRETTEBATI BELGELERİNİN DÜZENLENMESİNE AİT ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "11346",
+  "issuer": "İçişleri, Dışişleri, Ulaştırma, Denizcilik ve Haberleşme ve Maliye Bakanları ile Gümrük ve Ticaret Bakanı",
+  "issuer_slug": "icisleri-disisleri-ulastirma-denizcilik-ve-haberlesme-ve-maliye-bakanlari-ile-gumruk-ve-ti",
+  "path": "regulation/icisleri-disisleri-ulastirma-denizcilik-ve-haberlesme-ve-maliye-bakanlari-ile-gumruk-ve-ti/2003/11346",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11346&MevzuatTertip=5",
+  "source_sha256": "48397b79d2a47d0b49c52f3c7dc0b9e988eb68614aa0a0f36cbf6d78b770490f",
+  "source_bytes": 30242,
+  "published": "2003-06-27",
+  "gazette": "25151",
+  "in_force": "2012-01-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/1/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-01-06",
+      "RG-6/1/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-05-30",
+      "RG-30/05/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1116,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

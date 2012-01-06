@@ -1,0 +1,3 @@
+Zayi İşlemleri
+Madde 18 — Kaybedilen veya çalınan uçak mürettebatı belgeleri hakkında zayi işlemi yapılması için bu belgelerin seri-sayısı, tanzim ve geçerlilik tarihi, hamilinin adı, soyadı, baba adı, doğum yeri ve tarihi belgenin hamili tarafından veya ilgili firma/havacılık işletmesince İstanbul Emniyet Müdürlüğüne bildirilir.
+Kaybedilen, çalınan veya görevinden ayrıldığı halde belgesini iade etmeyenlerin uçak mürettebatı belgelerinin amaç dışı kullanılmasının önlenmesini teminen zayi işlemleri İstanbul Emniyet Müdürlüğünce, hudut kapılarıyla bağlantılı Polis Bilgisayar Ağı Programına veri girişlerinin yapılması, bulunan, sonradan iade edilen belgelerin ise verilerinin bu bilgisayar programından düşüm-güncelleme işleminin yapılması suretiyle gerçekleştirilir.

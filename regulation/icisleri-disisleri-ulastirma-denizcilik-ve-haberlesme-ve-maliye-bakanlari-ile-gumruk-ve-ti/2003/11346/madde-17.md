@@ -1,0 +1,2 @@
+Hamilinden Geri Alınamayan Belgeler
+Madde 17 — Uçak mürettebatı belgesi almış olan kişinin görevinden herhangi bir sebeple ayrılması veya uçak mürettebatı statüsünden çıkması halinde, ilgili firma/havacılık işletmesi tarafından hamilinden belgesini iade etmesi istenilmesine rağmen 3 iş günü içinde geri verilmemesi halinde, bu belgenin kullanılmasının önlenmesini teminen zayi işlemi yapılması için, belgenin seri-sayısı, tanzim ve geçerlilik tarihi, hamilinin adı, soyadı, baba adı, doğum yeri ve tarihi İstanbul Emniyet Müdürlüğüne bildirilir.
