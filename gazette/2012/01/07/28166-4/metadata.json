@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-01-07",
+  "issue": "28166",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Yurtdışına veya Uluslararası Kuruluşlara Geçici Görevli veya Aylıksız İzinli Olarak Gönderilecek Emniyet Teşkilatı Personeline İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120107-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120107.htm",
+  "index_sha256": "e92f581dbc0d2b23816a7f5ee91f83e09841fc2d7771062544615e28ae637b98",
+  "index_header": "7 Ocak 2012 ... 28166 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
