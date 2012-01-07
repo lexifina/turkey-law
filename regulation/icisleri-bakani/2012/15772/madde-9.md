@@ -1,0 +1,5 @@
+AGİT kapsamında görevlendirme
+MADDE 9 – (1) AGİT kapsamında görevlendirilecek personel için, 5 inci maddedeki ve 6 ncı maddenin birinci fıkrasının (b) bendindeki şartları taşıyanların görevlendirilmeleri aşağıda belirtilen usullere göre yapılır:
+a) AGİT tarafından ilan edilen kadrolara bireysel olarak başvuru yapılabilir. Başvurular, değerlendirilmek ve ilgili kuruluşa uygunluk bildiriminde bulunulmak amacıyla kadrolarının tahsisli olduğu birimce Başkanlığa yazıyla gönderilir.
+b) Başvuruda bulunan personelin öz geçmişleri, aranılan şartlara göre Başkanlıkça incelenerek niteliklerine göre göreve en uygun aday/adaylar seçilir ve ilan edilen kadro sayısının en fazla 2 katı kadar personel ilgili kuruluşa aday gösterilebilir. Aday gösterilenlerin seçimleri bu kuruluşlarca kendi usul ve esaslarına göre yapılır.
+c) Gerektiğinde AGİT’in talebi ile görevlendirilecek personeli belirlemek veya ilgili kuruluşlarca yapılacak sınav öncesi ön eleme yapmak amacıyla Başkanlıkça yazılı ve/veya sözlü sınav yapılabilir. Başkanlıkça, sınavın esas ve usulleri görevin niteliğine göre tespit edilir ve sınavdan önce personele duyurulur.

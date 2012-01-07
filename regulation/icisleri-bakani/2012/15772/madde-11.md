@@ -1,0 +1,2 @@
+Aylıksız izinli olarak gönderilme
+MADDE 11 – (1) 5 inci maddedeki ve 6 ncı maddenin birinci fıkrasının (c) bendindeki şartları taşıyanlardan, aylıksız izinli kadrolara başvuruları ilgili uluslararası kuruluşça kabul edilen personelin durumu, yapacakları görev ve hizmet gerekleri dikkate alınarak Başkanlıkça değerlendirilir. Genel Müdürlükçe görevlendirilmesi uygun görülenlerin onay işlemleri 657 sayılı Kanun hükümlerine göre yapılır.

@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girmesinden önce sonuçlandırılmış iş ve işlemler geçerliliğini korur. Bu Yönetmeliğin yürürlüğe girmesinden önce görevlendirilmesi yapılan ve halen göreve devam eden personel, sürelerini tamamlayıncaya kadar görevlerine devam ederler. Bu personelin, bu Yönetmeliğin yürürlüğe girdiği tarihte henüz sonuçlandırılmamış süre uzatım talepleri ile sonradan yapacakları süre uzatım talepleri bu Yönetmelik hükümlerine göre değerlendirilir ve karara bağlanır.

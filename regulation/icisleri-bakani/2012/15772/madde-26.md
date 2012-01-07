@@ -1,0 +1,2 @@
+Özlük haklarına ilişkin işlemlerin yürütülmesi
+MADDE 26 – (1) Yurt dışında veya uluslararası kuruluşlarda geçici olarak görevlendirilen personelin özlük haklarına ilişkin işlemler kadrolarının tahsisli olduğu birim tarafından yürütülür. Bu amaçla uluslararası kuruluşlarda görevli personel ve kadroları arasında yapılacak bütün yazışmalar Başkanlık aracılığıyla yapılır. Aylıksız izinli olarak gönderilen personelin özlük haklarına ilişkin işlemler 657 sayılı Kanuna göre yerine getirilir.

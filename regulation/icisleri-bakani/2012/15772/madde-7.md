@@ -1,0 +1,10 @@
+ÜÇÜNCÜ BÖLÜM
+Adayların Seçimi ve Görevlendirme
+Genel görevlendirme esasları
+MADDE 7 – (1) Bu Yönetmelik kapsamında yapılacak bütün görevlendirmelerde aşağıda belirtilen esaslar uygulanır:
+a) Herhangi bir yurt dışı görevine seçilmiş personelin henüz görevlendirilmesi yapılmadan başka bir yurt dışı görevine seçilmesi veya başvurması halinde, Başkanlıkça bu görevlerin birinden dilekçe ile gönüllü vazgeçmesi istenir. Gönüllü vazgeçme talebinde bulunmayan personelin hangi göreve gideceğine Başkanlıkça re’sen karar verilir.
+b) Uluslararası kuruluşlarda geçici olarak görevlendirilen personel görev gereği ilgili uluslararası kuruluşça, diğer ülkelerde kısa süreli olarak görevlendirilebilir. Bu görevlendirme uluslararası kuruluşun usul ve esaslarına göre yapılır.
+c) Uluslararası kuruluşlardaki üst düzey görevler için Genel Müdürlükten aday bildirilmesi istendiğinde veya re’sen üst düzey veya önemli görülen bir göreve Genel Müdürlükçe aday bildirilmesi söz konusu olduğunda, 5 inci maddenin birinci fıkrasının (a) ve (h) bentleri hariç olmak üzere aynı maddede belirtilen genel şartlara haiz olan personel arasından görevin niteliğine göre en uygun aday Başkanlıkça belirlenerek ilgili kuruluşa bildirilir.
+ç) Uluslararası kuruluşlarca, bir personelin görevlendirilmesi ismen talep edildiğinde, bu Yönetmelikte belirtilen genel şartları taşıması kaydıyla ve Genel Müdürlük makamının uygun görüşü doğrultusunda görevlendirme yapılabilir.
+d) Bu Yönetmelikte açıkça sayılan uluslararası kuruluşlar dışındaki diğer görevler için Genel Müdürlükten aday bildirilmesi istendiğinde, bu Yönetmeliğin 5 inci maddesinin birinci fıkrasının (a) bendinde belirtilen birim amirinin muvafakati şartı aranmaksızın en uygun aday Başkanlıkça belirlenir ve ilgili kuruluşa bildirilir. Ayrıca, her bir görev için aranılacak olan diğer şartlar görevin niteliğine göre Başkanlıkça tespit edilir.
+e) Yurt dışında veya uluslararası kuruluşlarda geçici veya aylıksız izinli görevlerde bulunanlar, yurt dışında veya uluslararası kuruluşlarda mevcut başka görevlere başvuruda ve geçiş talebinde bulunamazlar.

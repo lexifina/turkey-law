@@ -1,0 +1,4 @@
+Disiplin
+MADDE 23 – (1) Yurt dışında veya uluslararası kuruluşlarda geçici görevli veya aylıksız izinli olarak görevlendirilmesi yapılan personel, disiplin yönünden ilgili uluslararası kuruluşun usul ve esasları çerçevesinde, ilgili mevzuat hükümlerine uygun hareket etmekle yükümlüdür.
+(2) Personelin bir suça karışması veya disiplin soruşturması gerektiren bir fiil işlemesi durumunda, konu grup başkanı tarafından en kısa zamanda Başkanlığa intikal ettirilir. Lüzum görülmesi halinde merkezden veya ilgili uluslararası kuruluşlardaki görevli bir personel muhakkik olarak tayin edilebilir.
+(3) Yurt dışında görevli personel; ülkemiz ve uluslararası kuruluş mevzuatına aykırı olmamak kaydıyla; Grup Başkanının, bulunmadığı hallerde ise Grup Başkan vekilinin emirlerine göre hareket etmekle yükümlüdür.

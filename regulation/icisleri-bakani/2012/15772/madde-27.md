@@ -1,0 +1,4 @@
+Görev dönüşü
+MADDE 27 – (1) Yurt dışında veya uluslararası kuruluşlarda geçici olarak görevlendirilerek görevini tamamlayıp yurda dönen personel, isteği halinde yurda dönüş yaptığı günü takip eden yedi gün süresince yıllık izinli sayılır. Personel bu izin süresinin bitiminde kadrolarının tahsisli olduğu birimde göreve başlar ve bu süreler personelin yıllık izin hakkından düşülür.
+(2) Yurt dışı görevinden dönen personel yurda dönüş yaptığı günü takip eden bir ay içerisinde yurt dışı görev dönüş raporunu çalıştığı kadrolarının tahsisli olduğu birim aracılığıyla Başkanlığa gönderir. Ayrıca, yurt dışında veya uluslararası kuruluşlarda Grup Başkanı olarak görev yapmış personel, yurda dönüş yaptığı günü takip eden bir ay içerisinde görev dönüş raporunu Başkanlığa elden teslim eder.
+(3) Grup Başkanlarının görev dönüş raporunu Başkanlığa sunmak üzere, Ankara’ya geliş-gidiş yol ve yevmiyeleri kadrolarının bulunduğu birimler tarafından karşılanır.

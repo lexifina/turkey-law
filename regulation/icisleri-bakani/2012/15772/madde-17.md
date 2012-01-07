@@ -1,0 +1,2 @@
+İstisnai hallerde süre uzatımı
+MADDE 17 – (1) Yurt dışında veya uluslararası kuruluşlarda geçici olarak, kuruluşların merkezinde en az daire başkanı seviyesindeki kadrolara atananlar, barışı destekleme ve koruma operasyonlarında misyon şefi veya yardımcısı olanlar veya en az bakan veya misyon şefi düzeyindeki görevlilere danışmanlık yapanlar, görevlendirme ve süre uzatımları dahil en fazla beş yıla kadar geçici görev yapabilirler.
