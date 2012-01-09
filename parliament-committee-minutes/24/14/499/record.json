@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "İNSAN HAKLARINI İNCELEME KOMİSYONU",
+  "committee_id": 14,
+  "meeting_date": "2012-01-09",
+  "meeting_date_as_published": "09/01/2012",
+  "agenda": [
+    "CEZA VE GÜVENLİK TEDBİRLERİNİN İNFAZI HAKKINDA KANUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN TEKLİFİ (2/241)",
+    "ŞIRNAK ULUDERE'DE GERÇEKLEŞEN OLAYLA İLGİLİ ALT KOMİSYON KURULMASI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/499",
+  "pdf_sha256": "fe039ea4401f340c0948dfcf5c46dccc2daa2b3c07e08a54e502fca105b8cc91",
+  "pdf_pages": 59,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=14)",
+  "listing_sha256": "42724f97138fc5b68e4a08554534a324a313024a61276c03c700b8b02d697ed8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-01-09",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
