@@ -1,0 +1,2 @@
+Denetim hizmeti alım sözleşmesinin sona erdirilmesi
+MADDE 21 – (1) Denetim şirketinin bu Yönetmelik kapsamındaki yükümlülüklerinden herhangi birini yerine getirmemesi veya denetim hizmeti alım sözleşmesi hükümlerine aykırı eylem ve fiillerde bulunması halinde denetim hizmeti alım sözleşmesi Kurum tarafından sona erdirilerek denetim şirketinin teminatı irat kaydedilir ve yetki belgesi iptal edilir. Bu durumda, denetim şirketinin çalışma belgeleri ve gerekli tüm bilgileri, yerine geçecek olan denetim şirketine devredilmek üzere Kuruma vermesi zorunludur.

@@ -1,0 +1,3 @@
+Sertifika tadili
+MADDE 13 – (1) Sertifika; ilgili mevzuat kapsamındaki uygulamaların gerektirdiği durumlarda ve denetim elemanının uyması gereken mevzuatta gerçekleşen değişiklikler paralelinde tadil edilir.
+(2) Denetim elemanının gerekçelerini de belirterek yazılı bir sertifika tadil talebinde bulunması durumunda da tadil edilir. Bu talebi incelemek için ihtiyaç duyulabilecek bilgi ve belgeleri ve varsa diğer bilgi ve belgeleri de tebliğ tarihinden itibaren otuz gün içinde Kuruma sunar. Tadil başvurusu ile ilgili olarak tespit edilen eksiklik veya yanlışlıklar tebliğ tarihinden itibaren otuz gün içinde giderilmediği takdirde tadil başvurusu yapılmamış sayılır ve başvuru evrakı iade edilir.

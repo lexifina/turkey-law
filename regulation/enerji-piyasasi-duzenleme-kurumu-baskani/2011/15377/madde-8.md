@@ -1,0 +1,3 @@
+Yetki belgesinin tadili
+MADDE 8 – (1) Yetki belgesi; ilgili mevzuat kapsamındaki uygulamaların gerektirdiği durumlarda ve denetim şirketinin uyması gereken mevzuatta gerçekleşen değişiklikler paralelinde tadil edilir.
+(2) Denetim şirketinin gerekçelerini de belirterek yazılı bir yetki belgesi tadil talebinde bulunması durumunda da tadil edilir. Bu talebi incelemek için ihtiyaç duyulabilecek, varsa diğer bilgi ve belgeleri de tebliğ tarihinden itibaren otuz gün içinde Kuruma sunar. Tadil başvurusu ile ilgili olarak tespit edilen eksiklik veya yanlışlıklar tebliğ tarihinden itibaren otuz gün içinde giderilmediği takdirde tadil başvurusu yapılmamış sayılır ve başvuru evrakı iade edilir.

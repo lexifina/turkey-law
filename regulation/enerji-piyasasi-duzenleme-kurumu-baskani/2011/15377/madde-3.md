@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+b) Başkan: Enerji Piyasası Düzenleme Kurumu Başkanını,
+c) Birim denetim hizmet bedeli teklif listesi: Yeterlilik sahibi denetim şirketleri tarafından denetim bölgeleri bazında birim denetim hizmet bedelinin, unvanlarına bakılmaksızın Denetim Elemanı/Gün esasına göre KDV hariç TL olarak belirtileceği ve denetim hizmeti alım ilanıyla birlikte yayımlanacak olan listeyi,
+ç) Denetim bölgesi: 17/3/2004 tarihli ve 2004/3 sayılı Yüksek Planlama Kurulu Kararı ile belirlenen yirmi bir adet dağıtım bölgesinin her birini,
+d) Denetim ekibi: Kurum adına inceleme ve denetim yapmak üzere görevlendirilen, denetim şirketinin bünyesinde bulunan ve her biri Kurum tarafından verilen sertifika ile yeterli görülen, en az bir üyesi elektrik, elektronik, elektrik-elektronik, inşaat, endüstri veya makine mühendisi ve en az bir üyesi Siyasal Bilgiler, Hukuk, İktisadi ve İdari Bilimler, İktisat, İşletme Fakültelerinin birinden mezun olmak üzere baş denetçi başkanlığında çalışan toplam üç kişiden müteşekkil ekibi,
+e) Denetim elemanı: Bu Yönetmelik kapsamındaki inceleme ve denetim hizmetlerini yerine getirmek üzere Kurumdan sertifika almış baş denetçi, denetçi ve denetçi yardımcısının her birini,
+f) Denetim hizmeti alım ilanı: İnceleme ve denetim hizmeti alımına ilişkin başvuru şartları ve diğer hususları içeren Resmî Gazete ve Kurum internet sitesinde yayımlanan ilanı,
+g) Denetim hizmeti alım sözleşmesi: Kurum tarafından düzenlenen ve Kurum ile denetim şirketi arasında imzalanacak olan inceleme ve denetim hizmetine ilişkin hususları içeren sözleşmeyi,
+ğ) Denetim şirketi: Bu Yönetmelik kapsamındaki inceleme ve denetim hizmetlerini yerine getirmek üzere Türk Ticaret Kanunu hükümlerine göre kurulmuş ve Kurumdan yetki belgesi almış sermaye şirketini,
+h) Denetlenen şirket: Elektrik üretim veya dağıtım faaliyeti göstermek üzere Kurumdan lisans alan tüzel kişiyi,
+ı) Görevlendirme belgesi: Denetimin kapsamı ve konusu, denetim yeri, denetime katılacak denetim elemanlarının sayısı, denetim süresi ve benzeri bilgileri içeren ve Kurum tarafından denetim şirketine verilen resmi belgeyi,
+i) İlgili mevzuat: Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ve elektrik piyasasına ilişkin kanun, yönetmelik, tebliğ, genelge ve Kurul kararları ile ilgili tüzel kişilerin sahip olduğu lisans veya lisansları,
+j) Kanun: 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanunu,
+k) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+l) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+m) Sertifika: Bu Yönetmelik kapsamındaki inceleme ve denetim hizmetlerini yerine getirmek üzere Kurum ile denetim hizmeti alım sözleşmesi imzalamış olan denetim şirketinde çalışan denetim elemanlarına, unvanlarına göre Kurum tarafından verilecek belgeyi,
+n) Yetki belgesi: Bu Yönetmelik kapsamındaki inceleme ve denetim hizmetlerini yerine getirmek üzere Kurul tarafından yeterli görülen ve Kurum ile denetim hizmeti alım sözleşmesi imzalamış olan denetim şirketine Kurum tarafından verilecek belgeyi,
+ifade eder.

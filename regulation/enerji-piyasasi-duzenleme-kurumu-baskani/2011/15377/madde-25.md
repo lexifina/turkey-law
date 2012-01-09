@@ -1,0 +1,4 @@
+Kapsam dışı olan hükümler
+MADDE 25 – (1) 19/2/1985 tarihli ve 3154 sayılı Enerji ve Tabii Kaynaklar Bakanlığının Teşkilat ve Görevleri Hakkında Kanundan kaynaklı denetimler bu Yönetmeliğin kapsamı dışındadır.
+(2) 29/6/2001 tarihli ve 4708 sayılı Yapı Denetimi Hakkında Kanun hükümleri çerçevesinde yapılacak denetimlere ilişkin hususlar bu Yönetmeliğin kapsamı dışındadır.
+(3) 4628 sayılı Elektrik Piyasası Kanunu ve 26/6/2003 tarihli ve 25150 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Üretim Faaliyetinde Bulunmak Üzere Su Kullanım Hakkı Anlaşması İmzalanmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik hükümleri çerçevesinde elektrik enerjisi üretmek maksadıyla yapılacak olan üretim tesislerinin su yapısıyla ilgili kısımları ile gerçek ve tüzel kişiler tarafından inşa edilecek suyla ilgili yapıların inşasının inceleme ve denetimi bu Yönetmeliğin kapsamı dışındadır.

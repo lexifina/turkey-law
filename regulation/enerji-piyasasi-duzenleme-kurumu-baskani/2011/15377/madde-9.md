@@ -1,0 +1,4 @@
+Yetki belgesinin iptali
+MADDE 9 – (1) Denetim hizmeti alım sözleşmesi feshedilen ve bu Yönetmelik ile belirlenen koşulları kaybeden veya ilgili mevzuata aykırı davrandığı, yasaklara, denetim ilke ve kurallarına uymadığı ya da düzeltilebilir nitelikteki aykırılıkları, yapılan uyarıya rağmen verilen süre içinde düzeltmediği tespit edilen denetim şirketinin yetki belgesi Kurul kararı ile iptal edilir ve teminat mektubu irat kaydedilir.
+(2) Denetim şirketinin yetki belgesinin iptali halinde, yeni bir denetim hizmeti alım sözleşmesi imzalanmasına kadar verilen hizmetin aksamaması için Kurul gerekli önlemleri alır.
+(3) Yetki belgesi iptal edilen denetim şirketi, Kurum internet sitesinde ilan edilir. Yetki belgesi iptal edilen şirket ilan edilmesini müteakip en geç on beş gün içerisinde yetki belgesini Kuruma iade eder.
