@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.15778",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİNİN TABİ OLACAĞI KRİTERLER HAKKINDA YÖNETMELİK KAPSAMINDA TÜRK STANDARDLARI ENSTİTÜSÜ’NÜN (TSE) GERÇEKLEŞTİRECEĞİ ULUSAL TEKNİK ONAY UYGUNLUK DEĞERLENDİRME FAALİYETLERİ VE YAPI MALZEMELERİ YÖNETMELİĞİ KAPSAMINDA AVRUPA TEKNİK ONAY FAALİYETLERİ HAKKINDA TEBLİĞ (TEBLİĞ NO: MHG/2012-01)",
+  "number": "15778",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2012/15778",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15778&MevzuatTertip=5",
+  "source_sha256": "813226f10da3234423954b901787dcf2a8cf6ca768635b286e21eabb14622061",
+  "source_bytes": 14436,
+  "published": "2012-01-10",
+  "gazette": "28169",
+  "in_force": "2012-01-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.01.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 611,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15778%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
