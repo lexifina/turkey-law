@@ -1,0 +1,11 @@
+Yaklaşık maliyet
+MADDE 11 – (1) Araştırma, etüt ve proje alımı yapılmadan önce araştırma, etüt ve proje sahibi ilgili birim tarafından, her türlü fiyat araştırması yapılarak katma değer vergisi hariç olmak üzere yaklaşık maliyet belirlenir ve dayanaklarıyla birlikte bir hesap cetvelinde gösterilir. Yaklaşık maliyete ihale ilanlarında yer verilmez, isteklilere veya ihale süreci ile resmî ilişkisi olmayan diğer kişilere açıklanmaz.
+(2) Afet ve acil durumlar ile sınaî ve teknolojik zorunlulukların gerektirdiği haller ile yabancı ülkelere yaptırılacak araştırma, etüt ve projelerde Başkan onayı alınmak suretiyle yaklaşık maliyet tespit edilmeden gerçekleştirilebilir.
+(3) Yaklaşık maliyetin tespitinde;
+a) Kamu idareleri tarafından belirlenmiş fiyatlar,
+b) Başkanlık tarafından gerçekleştirilmiş aynı ve benzer işlere ait fiyatlar ve ücretler,
+c) (a) ve (b) bentlerinde belirtilen hususların tespit edilememesi halinde, araştırma, etüt ve projeye ilişkin alınacak fiyat tekliflerinin ortalaması alınmak suretiyle veya konusunda uzman bilirkişi ve ekspertizlerden temin edilerek oluşturulan fiyatlar esas alınır. Bunlardan herhangi biri öncelik sırası olmadan da kullanılabilir.
+(4) Fiyat araştırması için yapılan çalışmalarda fiyat sorulacak kişi ve kuruluşlara, araştırma, etüt ve projenin ayrıntılı tarifi yapılır. Fiyatlar katma değer vergisi hariç olmak üzere alınır. Farklı tarihlerde elde edilen yaklaşık maliyet fiyatları Türkiye İstatistik Kurumu tarafından ilan edilen her bir iş kalemi için yayımlanan Üretici Fiyatları Endeksi (ÜFE) rakamları baz alınarak güncellenir.
+(5) Yapılan her türlü araştırmaya rağmen, gerçek fiyatları yansıtmadığı düşünülen durumlarda, fiyatlar araştırma, etüt ve proje sahibi birim başkanlığınca gerekçesi açıklanarak re’sen belirlenir.
+(6) Birim başkanlığının, yapılacak araştırma, etüt ve projeye ilişkin gider kalemlerinden bir kısmını kendisinin karşılaması durumunda, yaklaşık maliyet hesabında bu gider kalemlerine ilişkin maliyet rakamları yaklaşık maliyet rakamından düşülür.
+(7) Araştırma, etüt ve projenin özgün niteliği veya ileri teknoloji nedeniyle özel uzmanlık gerektiren ve sadece belirli hizmet sunucularından temin edilmesi durumunda ihale yetkilisinin onayı alınmak suretiyle, yaklaşık maliyet hesabı yapılmadan ihaleye çıkılabilir.

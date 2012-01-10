@@ -1,0 +1,2 @@
+Bilgi ve belgeleri açıklama yasağı
+MADDE 22 – (1) Bu Yönetmeliğin uygulanmasında görevliler ile danışmanlık hizmeti sunanlar; ihale süreci ile ilgili bütün işlemlere, isteklilerin iş ve işlemleri ile tekliflerin teknik ve malî yönlerine ilişkin olarak gizli kalması gereken bilgi ve belgelerle işin yaklaşık maliyetini ifşa edemezler, kendilerinin veya üçüncü şahısların yararına kullanamazlar. Aksine hareket edenler hakkında ilgisine göre 19 ve 21 inci maddelerde belirtilen müeyyideler uygulanır.

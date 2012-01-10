@@ -1,0 +1,2 @@
+Kamu hizmet sunucularının sorumluluğu
+MADDE 60 – (1) Kamu hizmet sunucuları, taahhütleri çerçevesinde kusurlu veya standartlara uygun olmayan malzeme seçilmesi, verilmesi veya kullanılması, tasarım hatası, uygulama yanlışlığı, denetim eksikliği, protokol hükümlerine uygun olarak yerine getirilmemesi ve benzeri nedenlerle ortaya çıkan zarar ve ziyandan doğrudan sorumludur. Bu zarar ve ziyan genel hükümlere göre kamu hizmet sunucusuna ikmal ve tazmin ettirilir.

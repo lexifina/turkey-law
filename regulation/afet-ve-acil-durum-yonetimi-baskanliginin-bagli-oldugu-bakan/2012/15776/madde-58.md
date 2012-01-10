@@ -1,0 +1,2 @@
+Fiyatlandırma
+MADDE 58 – (1) Araştırma, etüt ve proje alımlarının bedeli, maliyetinin altında kalmamak kaydıyla Başkanlık ile kamu hizmet sunucusu arasında yapılacak protokolle belirlenir. Protokol bedelleri iş artışları da dahil olmak üzere hiçbir zaman 4734 sayılı Kamu İhale Kanununun 21 inci maddesinin birinci fıkrasının (f) bendinde belirlenmiş parasal limitin dört katının üzerinde olamaz. Belirlenen parasal limitin altında kalmak amacıyla araştırma, etüt ve proje yaptırılması işleri kısımlara bölünemez.

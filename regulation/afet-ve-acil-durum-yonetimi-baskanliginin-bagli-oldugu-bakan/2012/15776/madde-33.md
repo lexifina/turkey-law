@@ -1,0 +1,2 @@
+Teminat mektupları
+MADDE 33 – (1) 31 inci maddeye göre belirlenen tekliflerin geçerlilik süresinden en az otuz gün fazla süreli olmak kaydıyla, geçici teminat mektuplarında süre belirtilir. Teklif geçerlilik süresinin uzatılması halinde, geçici teminat mektuplarının süresi de aynı süre ile uzatılır. Kesin teminat mektuplarının süresi ihale konusu işin bitiş tarihi dikkate alınmak suretiyle Başkanlıkça belirlenir.
