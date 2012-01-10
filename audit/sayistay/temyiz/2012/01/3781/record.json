@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "34190",
+  "decision_date": "2012-01-10",
+  "source_id": 3781,
+  "chamber": "2",
+  "file_number": "33851",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/3781/",
+  "source_sha256": "9d8e68eabe4a5f3ca0b0316220241130ea57531b550cd5e7f85729e23bcdd1a8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
