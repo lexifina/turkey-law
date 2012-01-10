@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.4576",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÖY KORUCULARI YÖNETMELİĞİ",
+  "number": "4576",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2000/4576",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4576&MevzuatTertip=5",
+  "source_sha256": "eb8f242009973a34ddf0aa0b3e26d3284a64910db96ba1fd17c324513786db80",
+  "source_bytes": 38445,
+  "published": "2000-07-01",
+  "gazette": "24096",
+  "in_force": "2012-01-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/1/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-01-10",
+      "RG-10/1/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1179,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
