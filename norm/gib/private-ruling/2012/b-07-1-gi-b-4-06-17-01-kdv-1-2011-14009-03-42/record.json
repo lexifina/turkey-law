@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-10T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-10",
+  "official_number": "B.07.1.GİB.4.06.17.01-KDV-1-2011-14009-03-42",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30663",
+  "source_id": "ozelge:30663",
+  "source_row_sha256": "9f50b9e6cc98410c20d07b3fcf46e18b9bc3fb2aafaff2ae917cad96e6409859",
+  "title": "Deniz Trafik Sistemi Kurulumunda KDV hk.",
+  "version_label": "as-enacted",
+  "word_count": 967
+}
