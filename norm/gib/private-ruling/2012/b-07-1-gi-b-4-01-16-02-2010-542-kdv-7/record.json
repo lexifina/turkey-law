@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-11T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-11",
+  "official_number": "B.07.1.GİB.4.01.16.02-2010-542-KDV-7",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21931",
+  "source_id": "ozelge:21931",
+  "source_row_sha256": "7406516e1ae560baf3f1d6b6e59242634217f73cd6139e7893c96dc46f0f80f8",
+  "title": "Mükelleflerin kullandıkları elektrik,su, doğalgaz ve haberleşme bedellerine ait faturalardaki KDV'nin defterlere kayıt edildiği dönemde indirim konusu yapıp yapamayacakları hk.",
+  "version_label": "as-enacted",
+  "word_count": 520
+}
