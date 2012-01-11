@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "ADALET KOMİSYONU",
+  "committee_id": 7,
+  "meeting_date": "2012-01-11",
+  "meeting_date_as_published": "11/01/2012",
+  "agenda": [
+    "CEZA VE GÜVENLİK TEDBİRLERİNİN İNFAZI HAKKINDA KANUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN TEKLİFİ"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/843",
+  "pdf_sha256": "0a3d013e5e2994a39677c9f54c540658b72867ef1471853beed009530c991a5d",
+  "pdf_pages": 56,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=7)",
+  "listing_sha256": "480fcfda8fab5aee9512976da16aedacf95ec26b185bbd7276b300000dc0e1dc",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-01-11",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
