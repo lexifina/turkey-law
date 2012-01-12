@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-12T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-12",
+  "official_number": "B.07.1.GİB.4.99.16.02-KDV-13/a-19",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31332",
+  "source_id": "ozelge:31332",
+  "source_row_sha256": "5ff3dfb74c4f6290f9a2f143d831aaf499b56178fc7bceacbf682896b7609856",
+  "title": "Şanzımanlı deniz motoru tesliminde KDV uygulanıp uygulanmayacağı",
+  "version_label": "as-enacted",
+  "word_count": 303
+}
