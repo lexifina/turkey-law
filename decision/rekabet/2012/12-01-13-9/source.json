@@ -1,0 +1,13 @@
+{
+  "number": "12-01/13-9",
+  "type": "Birleşme ve Devralma",
+  "decision_date": "2012-01-12",
+  "publication_date": "2012-03-12",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=270dcba0-f35b-4a91-b6bf-113fe2c49205",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=605",
+  "pdf_sha256": "d9467aae618d13c9cd27f047076232fc56fd1e8e6950037bd2b853b996583fd2",
+  "pdf_bytes": "146663",
+  "pages": "3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
