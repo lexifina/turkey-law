@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "ANAYASA KOMİSYONU",
+  "committee_id": 8,
+  "meeting_date": "2012-01-12",
+  "meeting_date_as_published": "12/01/2012",
+  "agenda": [
+    "CUMHURBAŞKANI SEÇİMİ KANUNU TASARISI (DEVAM)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/364",
+  "pdf_sha256": "19fc3f7d2249797a46a3c50e2ab4b699fd739db3e16339d3c77a50cf5d542612",
+  "pdf_pages": 140,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=8)",
+  "listing_sha256": "188d884f6925c241e1d135835ed9d5c80c3f1a32a4b2cd8d284a08e433bf7002",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-01-12",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
