@@ -1,0 +1,13 @@
+{
+  "number": "12-01/8-5",
+  "type": "Rekabet İhlali",
+  "decision_date": "2012-01-12",
+  "publication_date": "2012-06-08",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=f8eba637-f135-4a83-ae93-8704d7f60826",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=593",
+  "pdf_sha256": "18c0fb8d7269fd97a7e3a1df9e18c789e620d30ed343e2cdf7ab441737042c87",
+  "pdf_bytes": "299033",
+  "pages": "4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
