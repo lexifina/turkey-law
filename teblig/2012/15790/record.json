@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.15790",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TIBBİ CİHAZ YÖNETMELİĞİ KAPSAMINDA UDEM ULUSLAR ARASI BELGELENDİRME DENETİM EĞİTİM MERKEZİ SANAYİ VE TİCARET LİMİTED ŞİRKETİNİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ",
+  "number": "15790",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2012/15790",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15790&MevzuatTertip=5",
+  "source_sha256": "9e7ae582846f79550f657cf56bcf18bf8b2ee61410ed425c9e9404545212b4f2",
+  "source_bytes": 7823,
+  "published": "2012-01-13",
+  "gazette": "28172",
+  "in_force": "2012-01-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.01.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 149,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15790%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
