@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6264",
+  "year": 2012,
+  "title": "Orta Doğu Sinkrotron Işığı Deneysel Bilim ve Uygulamaları Uluslararası Merkezi Statüsüne Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-01-14",
+  "gazette_issue": "28173",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120114-1.htm",
+  "source_sha256": "87787e04f64f025da0793271f66b71828af192fdee94814d8ba74b45590e236a",
+  "text_sha256": "a933c74323d27b811af1149ab52d04ae2ec63bdcc0dbf445eb16122223463f9f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/01/14/28173-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120114-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
