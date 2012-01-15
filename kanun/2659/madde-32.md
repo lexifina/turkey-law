@@ -1,0 +1,4 @@
+Madde 32– Adalet Bakanlığı hesabına Adli Tıp Kurumuna adli tabip ve uzman yetiştirmek üzere, yurt içinde ve yurt dışında burs verilmek suretiyle yükseköğrenim yaptırılabilir.
+Burs verilmek suretiyle yükseköğrenim yapacak öğrencilerin sayısı Bakanlıkça saptanır. Bu öğrencilere emsallerine ödenen bursun iki katı oranında burs ödenir. Burs alarak öğrenimlerini tamamlamış olanlar, Adli Tıp Kurumlarındaki uzmanlık ve ihtisas imtihanlarına tabi tutulmadan asistanlık (araştırma görevlisi) kadrolarına atanırlar.
+(Ek: 19/2/2003-4810/25 md.) Adlî Tıp Kurumunda yararlanılmak üzere Kurum Başkanlığının teklifi, Adalet Bakanlığının onayı ile yurt dışına yolluklu ve yevmiyeli olarak eğitim almak için personel gönderilir.
+(Ek: 19/2/2003-4810/25 md.) Bu personel 35 inci maddedeki mecburi hizmet yükümlülüğüne tâbidir.
