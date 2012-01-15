@@ -1,0 +1,3 @@
+Görevler
+Madde 4 – (Değişik: 30/7/2003-4963/24 md.)
+Millî Güvenlik Kurulu, 2 nci maddede belirtilen millî güvenlik ve Devletin millî güvenlik siyasetine ilişkin tanımlar çerçevesinde Devletin millî güvenlik siyasetinin tayini, tespiti ve uygulanması ile ilgili konularda tavsiye kararları alır ve gerekli koordinasyonun sağlanması için görüş tespit eder; bu tavsiye kararlarını ve görüşlerini Bakanlar Kuruluna bildirir ve kanunlarla verilen görevleri yerine getirir. Başbakan, Millî Güvenlik Kurulunun tavsiye kararlarının ve görüşlerinin değerlendirilmek üzere Bakanlar Kuruluna sunulması ve Bakanlar Kurulunda kabulü halinde bu tavsiye kararlarının uygulanmasının koordinasyonu ve izlenmesi için bir Başbakan yardımcısını görevlendirebilir.
