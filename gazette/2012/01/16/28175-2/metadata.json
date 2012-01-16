@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-01-16",
+  "issue": "28175",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2011/2563 Türkiye Cumhuriyeti Hükümeti ile İran İslam Cumhuriyeti Hükümeti Arasında Kapıköy ve Razi Kara Hudut Kapılarının Ortak Kullanımına İlişkin Mutabakat Zaptı’nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120116-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120116.htm",
+  "index_sha256": "e45efbfc0dfbf5f49ae5fc5f35d1a299e78e3007a6529c57619d3cce542fddd3",
+  "index_header": "16 Ocak 2012 ... 28175 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
