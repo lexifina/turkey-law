@@ -1,0 +1,6 @@
+Merkez Müdürü ve görevleri
+MADDE 8 – (1) Merkez Müdürü; Rektör tarafından, Üniversitede Merkezin faaliyetleriyle ilgili alanlarda çalışan, uzman öğretim üye ve görevlileri arasından üç yıl süre ile görevlendirilir. Süresi biten Merkez Müdürü aynı usulle yeniden görevlendirilebilir veya görevden alınabilir.
+(2) Merkez Müdürünün önerisi ile biri uzaktan algılama diğeri de coğrafi bilgi sistemleri konusunda uzman Üniversitedeki öğretim elemanları arasından iki kişi Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdür yardımcıları, Merkezle ilgili konularda Merkez Müdürünün vereceği işleri yaparlar ve kurulların toplantılarına katılabilirler. Merkez Müdürü kısa süreli ayrılışlarında vekâleti yardımcısına bırakır.
+(3) Merkez Müdürünün görevleri şunlardır:
+a) Merkezi temsil ve Merkez Yönetim Kuruluna başkanlık etmek, her yıl sonunda Merkezin çalışmaları ile ilgili olarak etkinlik raporunu ve sonraki yıla ait çalışma programını hazırlamak ve Merkez Yönetim Kuruluna sunmak,
+b) Merkez Yönetim Kurulunun belirlediği ilkeler ve hedefler doğrultusunda Merkezi yönetmek, akademik, idari, mali ve teknik yönden işleyişini planlamak, kamu ya da özel kuruluşlar arasında koordinasyon sağlamak ve Merkez ile ilgili eğitim programlarını düzenlemek.
