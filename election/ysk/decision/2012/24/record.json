@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2012/24",
+  "list_number": "24",
+  "decision_date": "2012-01-17",
+  "title": "İl, ilçe ve Yurt Dışı ilçe seçim kurullarının oluşturulması, kuruluş esas ve ilkelerinin belirlenmesi ile ilgili Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2671/2012-24.pdf",
+  "source_sha256": "c65d4573bfa17d52525aaee67325bd10fc79744c7b3a170c3611235a8f6507b4",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 10,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2012-01-17",
+  "law_text_complete": false
+}
