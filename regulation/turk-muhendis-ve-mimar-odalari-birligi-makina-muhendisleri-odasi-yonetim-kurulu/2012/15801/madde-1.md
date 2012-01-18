@@ -1,0 +1,5 @@
+TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ MAKİNA MÜHENDİSLERİ ODASI MEKANİK TESİSAT FENNİ MESULİYET HİZMETLERİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; mekanik tesisat fenni mesuliyet hizmetlerinin nitelikli, yapıların onaylı proje ve ekleri ile yapı ruhsatı ve eklerinde belirtilen koşullara, ilgili kanun, imar planı, yönetmelik hükümleri, Türk standartları, bilimsel kurallar, teknik şartnameler, fen, sanat ve sağlık kurallarına ve tüm mevzuat hükümlerine Türk Mühendis ve Mimar Odaları Birliği Makina Mühendisleri Odası tarafından belirlenen serbest müşavirlik veya mühendislik hizmetlerine ve asgari ücretlerine uygun olarak yürütülmesi, teknik uygulama hizmetine ilişkin ilişkilerin tanımlanması, meslektaşlar arasında haksız rekabetin önlenmesi, fenni mesuliyet hizmetinin Türk Mühendis ve Mimar Odaları Birliği Makina Mühendisleri Odasınca mesleki denetiminin yapılması ve sicil kayıtlarının tutulması ile ilgili usul ve esasları belirlemektir.
