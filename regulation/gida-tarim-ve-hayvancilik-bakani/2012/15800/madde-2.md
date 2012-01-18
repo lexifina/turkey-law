@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; evcil, sahipsiz ve yabani hayvanlarda kuduz hastalığından korunma amaçlı alınacak önlemler ve koruyucu uygulamaları, kuduz hastalığının teşhisi, bildirimi ve takibini, hastalık çıkan yerlerde alınacak önlemleri, temizlik ve dezenfeksiyon uygulamalarını, hastalığın teşhisinden sorumlu laboratuvarlar ile referans laboratuvarının görevlerini, aşılama ve aşılı hayvanların tanımlanması için hükümleri, hastalıktan korunma ve hastalık ile mücadele çalışmalarında gerçek ve tüzel kişilerin görev ve sorumluluklarını kapsar.
