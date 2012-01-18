@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3649",
+  "decision_date": "2012-01-18",
+  "title": "Üretim ve otoprodüktör lisanslarında, lisansa derç edilecek tesis tamamlanma sürelerinin belirlenmesinde izlenecek usule ilişkin",
+  "categories": [
+    "Önlisans Süreleri ile Tesis Tamamlanma Tarihinin Belirlenmesinde Referans Alınacak İnşaat Süreleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=f/0mNVWNKaM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=f/0mNVWNKaM="
+  ],
+  "source_sha256": "885f516c0c5f68a86985b02a0b2371a8dfdee9abf4c80fdc5dc4f5a7ef89be08",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33885,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-01-18",
+  "law_text_complete": false
+}
