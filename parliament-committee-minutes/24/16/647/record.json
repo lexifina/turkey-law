@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "MİLLİ EĞİTİM, KÜLTÜR, GENÇLİK VE SPOR KOMİSYONU",
+  "committee_id": 16,
+  "meeting_date": "2012-01-18",
+  "meeting_date_as_published": "18/01/2012",
+  "agenda": [
+    "TÜRKİYE CUMHURİYETİ HÜKÛMETİ VE PAKİSTAN İSLAM CUMHURİYETİ HÜKÛMETİ ARASINDA EĞİTİM ALANINDA İŞBİRLİĞİNİN GÜÇLENDİRİLMESİNE İLİŞKİN MUTABAKAT ZAPTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/476)",
+    "TÜRKİYE CUMHURİYETİ MİLLÎ EĞİTİM BAKANLIĞI İLE KOSOVA CUMHURİYETİ EĞİTİM, BİLİM VE TEKNOLOJİ BAKANLIĞI ARASINDA EĞİTİM ALANINDA İŞBİRLİĞİ PROTOKOLÜNÜN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/527)",
+    "TÜRKİYE CUMHURİYETİ HÜKÛMETİ İLE ÇİN HALK CUMHURİYETİ HÜKÛMETİ ARASINDA 2010-2013 YILLARINA İLİŞKİN KÜLTÜREL DEĞİŞİM PROGRAMININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/529)",
+    "TÜRKİYE CUMHURİYETİ HÜKÛMETİ İLE KARADAĞ CUMHURİYETİ HÜKÛMETİ ARASINDA ARŞİV ALANINDA İŞBİRLİĞİ PROTOKOLÜNÜN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/531)",
+    "TÜRKİYE CUMHURİYETİ HÜKÛMETİ İLE MISIR ARAP CUMHURİYETİ HÜKÛMETİ ARASINDA SPOR ALANINDA MUTABAKAT ZAPTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/532)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/647",
+  "pdf_sha256": "f6a924647f5fe70ae7f37019b034542a8e9aec57ddecf701152bbf1f7834c3f9",
+  "pdf_pages": 26,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=16)",
+  "listing_sha256": "e78bdccab7d13537dd0caa9b3543d1ffd65f9482738d73cb9dcdbcf2c991dda8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-01-18",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
