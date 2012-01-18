@@ -1,0 +1,2 @@
+İdari yaptırımlar
+MADDE 14 – (1) SPDGMMH yürütürken bu Yönetmelikte belirtilen asgari ücret ve mesleki denetim esaslarına uymadıkları belirlenen SPDGMM’lere ve tescilli bürolara, Oda Yönetim Kurulu tarafından öncelikle uyarıda bulunulur. Uyarıya karşın, bu Yönetmelik hükümlerine aykırı davranmaya devam edenler ve belgeleri iptal edilenler Oda Yönetim Kurulu tarafından Oda Onur Kuruluna sevk edilir.
