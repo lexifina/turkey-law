@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "DIŞİŞLERİ KOMİSYONU",
+  "committee_id": 11,
+  "meeting_date": "2012-01-19",
+  "meeting_date_as_published": "19/01/2012",
+  "agenda": [
+    "FRANSIZ HALK HAREKETİ BİRLİK PARTİSİ (UMP)'NİN BOUCHES-DU-RHÔNE MİLLETVEKİLİ VALERİE BOYER'İN GİRİŞİMİYLE 53 MİLLETVEKİLİ TARAFINDAN FRANSA ULUSAL MECLİSİNE SUNULAN VE 22 ARALIK 2011 TARİHİNDE MECLİSTE KABUL EDİLEREK SENATOYA SEVK EDİLEN 1915 OLAYLARIYLA İLGİLİ ERMENİ İDDİALARININ REDDİNİN SUÇ SAYILMASINI ÖNGÖREN YASA TARAFINDAN TANINAN SOYKIRIMLARIN VARLIĞININ İNKÂRININ CEZALANDIRILMASI YASA TEKLİFİ HAKKINDA DEĞERLENDİRME"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/419",
+  "pdf_sha256": "245df2980576b1be1326f7f5a0f48c2c57cdcd107596820b323ec96c11c59c5f",
+  "pdf_pages": 40,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=11)",
+  "listing_sha256": "efc563a4b8d46e4875ff97f17d46f82861739696a9966ad2a4657ae091dbe9bd",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-01-19",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
