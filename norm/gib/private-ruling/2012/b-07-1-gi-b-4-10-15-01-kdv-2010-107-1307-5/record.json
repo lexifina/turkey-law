@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-19T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-19",
+  "official_number": "B.07.1.GİB.4.10.15.01-KDV-2010/107-1307/-5",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/26242",
+  "source_id": "ozelge:26242",
+  "source_row_sha256": "00d9908ab4c10a3a5a41deb621780cb5dd4934b9ac01b22e7d754ad3e5b2eb52",
+  "title": "Birliğe ait süt analiz laboratuvarında verilen hizmetlere uygulanacak KDV oranı hk.",
+  "version_label": "as-enacted",
+  "word_count": 385
+}
