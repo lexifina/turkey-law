@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-01-19",
+  "issue": "28178",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gider Vergileri Genel Tebliği (Seri No: 89)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120119-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120119.htm",
+  "index_sha256": "3f191ba1e445202e1e66bfe18ed478b0cdab25460956f1c997ee0dc683989884",
+  "index_header": "19 Ocak 2012 ... 28178 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
