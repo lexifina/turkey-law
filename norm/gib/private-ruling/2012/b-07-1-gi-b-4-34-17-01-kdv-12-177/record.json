@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-19T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-19",
+  "official_number": "B.07.1.GİB.4.34.17.01-KDV 12-177",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27282",
+  "source_id": "ozelge:27282",
+  "source_row_sha256": "0afba5fc20173c732db221a9a2bff0e2151d2abd0275eb3afce5c0419d49633c",
+  "title": "Türkiye ve yabancı ülke limanlarında gemide verilecek yüzer sergi hizmetlerinde KV ve KDV uygulaması hk.",
+  "version_label": "as-enacted",
+  "word_count": 424
+}
