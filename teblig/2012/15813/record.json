@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.15813",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GİDER VERGİLERİ GENEL TEBLİĞİ SERİ NO: 89",
+  "number": "15813",
+  "path": "teblig/2012/15813",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15813&MevzuatTertip=5",
+  "source_sha256": "e837993ea389740d837b9857af7437815ccbc90c59208830eab996f14334f20f",
+  "source_bytes": 97927,
+  "published": "2012-01-19",
+  "gazette": "28178",
+  "in_force": "2012-01-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.01.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4293,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
