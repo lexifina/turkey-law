@@ -1,0 +1,2 @@
+Temizlik ve dezenfeksiyon
+MADDE 23 – (1) Hastalık çıkan yerlerde bulaşmaya vasıta olabilecek eşya ve maddelerden temizlenmesi ve dezenfekte edilmesi mümkün olanlar temizlenir ve dezenfekte edilir. Mümkün olmayanlar yakılarak imha edilir. Eşya ve maddelerin temizlik ve dezenfeksiyonu sahipleri tarafından Bakanlık il veya ilçe müdürlüklerince temin olunan dezenfektanlarla resmi veteriner hekimin gözetiminde yapılır.

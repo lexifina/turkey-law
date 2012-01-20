@@ -1,0 +1,2 @@
+Hayvan sağlığı danışma komisyonu
+MADDE 28 – (1) Gıda, Tarım ve Hayvancılık Bakanının veya Müsteşarının başkanlığında Bakanlıkça seçilecek üyelerden meydana gelen Hayvan Sağlığı Danışma Komisyonu kurulabilir. Komisyonda incelenecek konulara göre üniversite, kamu ve özel sektör mensupları ile mesleki kuruluş temsilcileri de komisyonda üye olarak görevlendirilebilir. Gıda ve Kontrol Genel Müdürü kurulun sekreteryasını yürütür.

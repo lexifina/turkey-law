@@ -1,0 +1,2 @@
+Ölen hayvanlara yapılacak işlem
+MADDE 10 – (1) Hastalık çıkan yere resmi veteriner hekim gelinceye kadar ölen hayvanlar muayene için muhafaza altına alınır. Ölen hayvanın kokuşması halinde, bu hayvanların derileri yüzülmeden ve uygun bir şekilde nakledilerek diğer hayvanların temas etmeyeceği, akarsulardan uzak, yeraltı sularını kirletmeyecek şekilde en az iki metre derinliğindeki çukurlara kireçlenerek gömülmeleri veya yakılmaları mahalli idari makamlar tarafından sağlanır.

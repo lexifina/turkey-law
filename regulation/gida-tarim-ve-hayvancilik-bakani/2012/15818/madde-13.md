@@ -1,0 +1,2 @@
+Hastalık yerinin ilanı
+MADDE 13 – (1) Hastalıklı hayvanlar ile bulaşmadan şüpheli hayvanların, hayvansal ürünlerin ve bulaşmaya vasıta olacak eşyanın kordon altından veya tecrit edildikleri yerden çıkarılmalarını önlemek için hastalık sahası belirlenerek mahalli vasıtalarla ilan edilir. İlan edilen hastalık sahasının sınırlarını belirlemek için giriş-çıkış noktalarına hayvan hastalığının işareti olarak hastalığın adı yazılı levhalar dikilir.

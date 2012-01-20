@@ -1,0 +1,3 @@
+Resmi veteriner hekimin hastalık yerine gitmesi, koruma ve gözetim bölgesinin tespiti
+MADDE 11 – (1) Bir yerde salgın hayvan hastalığı çıktığını haber alan resmi veteriner hekim en seri vasıta ile en geç 24 saat içinde hastalık yerine gider. İl yahut ilçe müdürü gerekli vasıtayı temin etmekle yükümlüdür. Hastalık yerine gidilmesi için il veya ilçe müdürlüğünün imkanlarının yeterli olmadığı durumlarda mülki ve mahalli idare makamları gereken her türlü kolaylığı ve yardımı göstermeye mecburdur.
+(2) Salgın hayvan hastalığı çıkışlarında resmi veteriner hekim kordon konulması amacıyla koruma ve gözetim bölgesinin sınırlarını belirler ve durumu bir raporla Hayvan Sağlık Zabıtası Komisyonuna bildirir.

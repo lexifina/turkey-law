@@ -1,0 +1,11 @@
+Hayvan sağlık zabıtası komisyonları
+MADDE 29 – (1) Hayvan sağlığını korumak, bulaşıcı hayvan hastalıkları ile mücadele etmek, ülke içindeki hayvan hareketleri ile hayvan ve maddelerinin sevkine dair tedbirleri tespit etmek ve uygulamaya konulmasını sağlamak üzere hayvan sağlık zabıtası komisyonları aşağıda belirlenmiş üyelerin katılımı ile kurulur.
+a) İl hayvan sağlık zabıtası komisyonu; vali veya görevlendireceği vali yardımcısı başkanlığında, belediye başkanı, il emniyet müdürü, il jandarma komutanı, ticaret ve ziraat odaları başkanları, il sağlık müdürü, bakanlık il müdürü, hayvan sağlığı, yetiştiriciliği ve su ürünleri şube müdürü, bir il daimi encümen üyesi ve ticaret borsası bulunan illerde ticaret borsası başkanı ve bir resmi veteriner hekimi,
+b) İlçe hayvan sağlık zabıtası komisyonu; kaymakam başkanlığında belediye başkanı, ilçe emniyet müdürü, ilçe jandarma komutanı, ilçe sağlık grup başkanı, ilçe müdürü, resmi veteriner hekim ve ziraat odası başkanı,
+c) Belde hayvan sağlık zabıtası komisyonu; resmi veteriner hekim başkanlığında, belde belediye başkanı ve mahalle muhtarları,
+ç) Köy hayvan sağlık zabıtası komisyonu; resmi veteriner hekim başkanlığında, köy muhtarı, ihtiyar heyeti ve köyün bekçi veya korucusu.
+(2) Hayvan sağlık zabıtası komisyonlarının toplanma ve karar alma usulleri ile görevleri şunlardır.
+a) Hayvan sağlık zabıtası komisyonları ihbarı zorunlu hastalıklardan birinin çıkışında resmi veteriner hekimin düzenlediği hastalık çıkış raporu üzerine veya il/ilçe müdürünün teklifini görüşmek için başkan tarafından derhal toplantıya çağrılır.
+b) Hayvan sağlık zabıtası komisyonunda kararlar oy çokluğu ile alınır. Çekimser oy verilmez. Oy eşitliğinde komisyon başkanının oyu doğrultusunda karar alınır. Komisyonun aldığı kararların uygulanması ile ilgili hususlar resmi veteriner hekimce denetlenir.
+c) Tazminat ödenecek hastalıklar kapsamında yetiştiriciye ödenecek tazminatı belirlemek için kurulan Yerel Kıymet Takdir Komisyonuna katılmak üzere, hastalığın il ya da ilçede oluşuna göre vali/vali yardımcısı ya da kaymakam tarafından il veya ilçe hayvan sağlık zabıtası komisyonu üyelerinden biri görevlendirilir.
+ç) Hayvan sağlık zabıtası komisyonları mahallince yapılması mümkün olmayan husus ve ihtiyaçlarını bir üst hayvan sağlık zabıtası komisyonuna bildirir. İl hayvan sağlık zabıtası komisyonu en üst komisyondur.
