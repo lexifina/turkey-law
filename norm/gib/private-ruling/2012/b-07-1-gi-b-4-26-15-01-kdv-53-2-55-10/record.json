@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-20T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-20",
+  "official_number": "B.07.1.GİB.4.26.15.01-KDV-53-2/55-10",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21920",
+  "source_id": "ozelge:21920",
+  "source_row_sha256": "6b8b4d64e5e0ae6bf1a3b1ade71f877c8f6a1eb5277bc9f19d892988f0fed7a4",
+  "title": "Konaklama amaçlı oda ve daire kiralamasında uygulanacak KDV oranı hk.",
+  "version_label": "as-enacted",
+  "word_count": 599
+}
