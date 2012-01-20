@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.15819",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 412)",
+  "number": "15819",
+  "path": "teblig/2012/15819",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15819&MevzuatTertip=5",
+  "source_sha256": "8252fc821e9dc19c8ce82d63f5a45504c73133c18b95aa174ffe9e736809f932",
+  "source_bytes": 11250,
+  "published": "2012-01-20",
+  "gazette": "28179",
+  "in_force": "2012-01-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.01.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 190,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15819%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
