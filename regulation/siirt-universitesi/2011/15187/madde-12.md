@@ -1,0 +1,2 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Rektör, rektör yardımcısı ile Rektör tarafından görevlendirilen Üniversite öğretim elemanları, istekleri halinde kamu kuruluşları temsilcileri ve sivil toplum kuruluşları temsilcileri olmak üzere toplam yirmi üyeden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Danışma Kuruluna Rektör başkanlık eder. Danışma Kurulu başkanın daveti üzerine yılda en az bir kez toplanır.
