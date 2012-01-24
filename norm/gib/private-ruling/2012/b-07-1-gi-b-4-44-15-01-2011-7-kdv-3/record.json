@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-24T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-24",
+  "official_number": "B.07.1.GİB.4.44.15.01-2011/7-KDV-3",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31328",
+  "source_id": "ozelge:31328",
+  "source_row_sha256": "0e4ce09304acda8c97fef3f7186e170216441bcec5c4312fde32c25d0c73cd37",
+  "title": "Yurt içinden temin edilecek makine ve teçhizatın YTB kapsamındaki tesliminde KDV istisnası hk.",
+  "version_label": "as-enacted",
+  "word_count": 394
+}
