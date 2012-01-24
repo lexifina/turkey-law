@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-24T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-24",
+  "official_number": "B.07.1.GİB.4.07.16.02-KDV.ÖZG.2010.212-47",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31000",
+  "source_id": "ozelge:31000",
+  "source_row_sha256": "7c44997b68e613358f325a3800ec9da95118977a65f4726c4f18a737ed496b34",
+  "title": "İhraç kaydıyla teslim hk.",
+  "version_label": "as-enacted",
+  "word_count": 411
+}
