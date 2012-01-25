@@ -1,0 +1,2 @@
+Danışma kurulunun görevleri
+MADDE 13 – (1) Danışma Kurulu, Merkezin faaliyet konularında Yönetim Kuruluna danışmanlık yapar, Merkezin faaliyetlerini gözden geçirerek ilgili konularda Yönetim Kuruluna gerekli tavsiyelerde bulunur, Merkez Müdürü tarafından hazırlanmış ve Yönetim Kurulunca onaylanmış yıllık faaliyet raporunu, çalışma programını, uygulama ve araştırma faaliyetlerini değerlendirir, yapılmış ve halen yürütülen çalışmalar hakkında görüş bildirir, önerilerde bulunur ve bir sonraki çalışma yılına ait programı değerlendirir.
