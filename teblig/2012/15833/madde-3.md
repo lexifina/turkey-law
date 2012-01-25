@@ -1,0 +1,5 @@
+Karar
+MADDE 3 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, aşağıdaki tabloda gümrük tarife pozisyonu belirtilen eşyanın ithalatında, geçici önlemin uygulama süresi dahil olmak üzere üç yıl süreyle gümrük kıymeti üzerinden ek mali yükümlülük şeklinde korunma önlemi uygulanmasına, ek mali yükümlülüğün uygulamanın birinci, ikinci ve üçüncü dönemleri için tabloda “Ek Mali Yükümlülük” sütunlarında belirtilen tutarlarda tespit edilmesine, Dünya Ticaret Örgütü (DTÖ) Korunma Önlemleri Anlaşması’nın 9.1 maddesi gereğince gelişmekte olan ülkelere muafiyet tanınmasına ve önlemin istihsali hususunda Bakanlar Kurulu’na öneride bulunulmasına karar vermiştir.
+GÜMRÜK TARİFE POZİSYONU | EK MALİ YÜKÜMLÜLÜK ORANLARI (%)
+1. Dönem (15/7/2011-14/7/2012) | 2. Dönem (15/7/2012-14/7/2013) | 3. Dönem (15/7/2013- 14/7/2014)
+52.05 | % 10 En yüksek 0,85 ABD Doları/Net Kg En düşük 0,29 ABD Doları/Net Kg | % 9 En yüksek 0,80 ABD Doları/Net Kg En düşük 0,26 ABD Doları/Net Kg | % 8 En yüksek 0,75 ABD Doları/Net Kg En düşük 0,23 ABD Doları/Net Kg
