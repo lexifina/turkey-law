@@ -1,0 +1,26 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "DIŞİŞLERİ KOMİSYONU",
+  "committee_id": 11,
+  "meeting_date": "2012-01-25",
+  "meeting_date_as_published": "25/01/2012",
+  "agenda": [
+    "TÜRKİYE CUMHURİYETİ HÜKÛMETİ İLE KENYA CUMHURİYETİ HÜKÛMETİ ARASINDA SAĞLIK ALANINDA İŞBİRLİĞİNE DAİR ANLAŞMANIN ONAYLANMASININ UYGUN BULUNDUĞU HAKKINDA KANUN TASARISI (1/349)",
+    "TÜRKİYE CUMHURİYETİ HÜKÛMETİ İLE LÜBNAN CUMHURİYETİ HÜKÛMETİ ARASINDA SAĞLIK ALANINDA İŞBİRLİĞİNE DAİR ANLAŞMANIN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/386)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE BOSNA VE HERSEK BAKANLAR KONSEYİ ARASINDA SAĞLIK ALANINDA İŞBİRLİĞİ ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/421)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE TÜRKMENİSTAN HÜKÜMETİ ARASINDA SAĞLIK VE TIP ENDÜSTRİSİ ALANLARINDA İŞBİRLİĞİNE DAİR ANLAŞMANIN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/456)",
+    "TÜRKİYE CUMHURİYETİ SAĞLIK BAKANLIĞI İLE ÇİN HALK CUMHURİYETİ SAĞLIK BAKANLIĞI ARASINDA SAĞLIK ALANINDA İŞBİRLİĞİNE DAİR ANLAŞMANIN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/347)",
+    "TÜRKİYE CUMHURİYETİ SAĞLIK BAKANLIĞI İLE İRAN İSLAM CUMHURİYETİ SAĞLIK VE TIBBİ EĞİTİM BAKANLIĞI ARASINDA SAĞLIK VE TIP BİLİMLERİ ALANLARINDA İŞBİRLİĞİNE DAİR MUTABAKAT ZAPTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/428)",
+    "TÜRKİYE CUMHURİYETİ SAĞLIK BAKANLIĞI VE DÜNYA SAĞLIK ÖRGÜTÜ AVRUPA BÖLGE OFİSİ ARASINDA İKİ YILLIK İŞBİRLİĞİ ANLAŞMASI 2010/2011?İN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/392)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/424",
+  "pdf_sha256": "c1410b5058afe4d67d39d784aab45496f116ca6875f07ccac36bb912b83ddedf",
+  "pdf_pages": 34,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=11)",
+  "listing_sha256": "efc563a4b8d46e4875ff97f17d46f82861739696a9966ad2a4657ae091dbe9bd",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-01-25",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
