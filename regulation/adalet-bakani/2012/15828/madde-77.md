@@ -1,0 +1,2 @@
+Tebliğ evrakının kabulü
+MADDE 77 – (1) Tebliğ evrakı, barkod numaraları vasıtasıyla kayıtlı posta otomasyon sistemine kaydedilir. Sistem üzerinden kabul listesi düzenlenir. Kabul listesinin bir örneği çıkaran mercie verilir. Kabul edilen tebliğ evrakı, sistem üzerinden takip edilir. Tebliğ evrakının teslimi ile mazbatalarının çıkış merciine iade işlemleri bu Yönetmelik hükümleri kapsamında yapılır.

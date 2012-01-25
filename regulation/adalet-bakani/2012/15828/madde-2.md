@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; yargı mercileri, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I) sayılı cetvelde yer alan genel bütçe kapsamındaki kamu idareleri, (II) sayılı cetvelde yer alan özel bütçeli idareler, (III) sayılı cetvelde yer alan düzenleyici ve denetleyici kurumlar, (IV) sayılı cetvelde yer alan sosyal güvenlik kurumları ile il özel idareleri, belediyeler, köy hükmî şahsiyetleri, barolar ve noterler tarafından yapılacak tüm tebligat işlemlerine ilişkin usul ve esasları kapsar.

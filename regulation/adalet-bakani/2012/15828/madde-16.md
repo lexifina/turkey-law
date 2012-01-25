@@ -1,0 +1,3 @@
+Bilinen adreste tebligat
+MADDE 16 – (1) Tebligat, öncelikle tebliğ yapılacak şahsın bilinen en son adresinde yapılır. Bilinen en son adresin tespitinde, tebliğ isteyenin beyanı, muhatabın veya diğer ilgililerin bildirimleri ya da mevcut belgeler esas alınır.
+(2) Bilinen en son adresin tebligata elverişli olmadığının anlaşılması veya tebligat yapılamaması hâlinde, muhatabın adres kayıt sisteminde bulunan yerleşim yeri adresi bilinen en son adresi olarak kabul edilir ve tebligat buraya yapılır. Ayrıca başkaca adres araştırması yapılmaz. 79 uncu maddenin ikinci fıkrasına göre renkli bastırılan tebligat zarfında, adresin muhatabın adres kayıt sistemindeki yerleşim yeri adresi olduğu belirtilerek bu adrese tebligat yapılacağına dair meşruhata yer verilir.

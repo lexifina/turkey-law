@@ -1,0 +1,5 @@
+Tebliğ evrakının tercüme ettirilmesi
+MADDE 40 – (1) Tebliğ evrakı ve tebliğ mazbatalı kapalı zarf, muhatabın bulunduğu ülke diline veya anlaşmalarla belirlenen dile tercüme ettirilir.
+(2) Tebliğ evrakı, ilgili tarafından tebligatı çıkaracak mercie verilmişse, tercümenin noterlikte yaptırılması gerekir. İlgilinin bulunduğu yerdeki noterlikte o dili bilen mütercim bulunmaz ve ilgilinin tercümeyi şahsen veya vekili tarafından diğer bir şehirdeki noterlikte yaptırması imkânı da bulunmazsa, tercüme, tebligatı çıkaracak merci tarafından tercüme yapılabilecek yerde bulunan denk bir merci vasıtasıyla oradaki noterlikte yaptırılır.
+(3) Tebligat evrakı, ilgili merci tarafından resen tanzim edilmişse, merciin mütercimi varsa onun tarafından tercüme edilir ve merci tarafından onaylanır. Aksi halde, o yerdeki noterlikte veya diğer bir yerde bulunan denk bir merci vasıtasıyla tercüme ettirilir.
+(4) Şu kadar ki ilgili merci, adli mercilerden ibaret ise, tercüme, mütercim bulunabilecek yerdeki yetkili merciin istinabesi suretiyle yaptırılır.

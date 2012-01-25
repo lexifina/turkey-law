@@ -1,0 +1,2 @@
+Tapu idarelerince yapılacak tebligat
+MADDE 70 – (1) Tapuda kayıtlı taşınmazların veya miras, istimlak, cebrî icra veya mahkeme ilâmıyla iktisapta bulunan hak sahipleri, adreslerini ve değiştirdikleri takdirde yenisini bulundukları yerin tapu idaresine bildirmeye mecburdur. Kendilerine bu durumu belgeleyen bir makbuz verilir. Davetiye veya tebliğ evrakı, bu suretle bilinen son adrese gönderilir. Hak sahiplerinin adres bildirmemeleri hâlinde adres kayıt sistemindeki adresleri tebligat adresleri olarak kabul edilir.

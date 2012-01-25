@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.15828",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TEBLİGAT KANUNUNUN UYGULANMASINA DAİR YÖNETMELİK",
+  "number": "15828",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2012/15828",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15828&MevzuatTertip=5",
+  "source_sha256": "4343648786801713b085198b5839a95d1c4dfe11c186eaddf37823f0df5bd62d",
+  "source_bytes": 168622,
+  "published": "2012-01-25",
+  "gazette": "28184",
+  "in_force": "2012-01-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.01.2012); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5550,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15828-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

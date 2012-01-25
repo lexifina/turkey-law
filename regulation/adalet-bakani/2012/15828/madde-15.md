@@ -1,0 +1,2 @@
+Müddet tayini
+MADDE 15 – (1) 10 uncu maddede sayılan vasıtalarla yapılan tebligatlar dışındaki her çeşit tebliğ evrakı ve davetiyelerin, ilgililere ulaşması ve ilgililerin tebliğin veya davetiyenin gereklerini yerine getirebilmesi için bu evrakı çıkaran merci tarafından tayin edilecek müddetin hesabında, evrakın gönderileceği mahallin yakınlık veya uzaklığı, mevsim koşulları, ulaşım araçlarının durumu gibi hususlar dikkate alınır.

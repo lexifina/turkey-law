@@ -1,0 +1,3 @@
+Otel, hastane, fabrika ve okul gibi yerlerde tebligat
+MADDE 27 – (1) Tebliğ yapılacak kişi; otel, pansiyon, hastane, tedavi veya istirahat evi, fabrika, okul, öğrenci yurdu, resmi veya özel daire veya kurum gibi içine serbestçe girilemeyen veya arananın kolayca bulunması mümkün olmayan bir yerde bulunuyorsa tebliğin yapılmasını, o yeri idare eden veya muhatabın bulunduğu kısmın amiri temin eder.
+(2) Muhatap bu kişiler tarafından derhal bulundurulamaz veya tebellüğden kaçınırsa yahut diğer bir sebeple tebliğin temini mümkün olmazsa tebliğ o yeri idare eden veya muhatabın bulunduğu kısmın amirine yapılır.

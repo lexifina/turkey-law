@@ -1,0 +1,3 @@
+Yabancı ülkelerden gelen evrakın tebliği
+MADDE 44 – (1) Yerleşim yeri Türkiye’de bulunan yerli veya yabancı şahıslara tebliğ edilmek üzere yabancı bir ülkenin elçiliğinden veya havzasında bulunduğu valilik kanalıyla konsolosluğundan Dışişleri Bakanlığına tevdi olunan evrak, Dışişleri Bakanlığı tarafından anlaşma hükümleri ve mütekabiliyet esaslarına uygun görüldüğü takdirde, ek-1’de yer alan (5) numaralı örnek şeklindeki tebliğ mazbatası, zarf içinde tebligatın mahiyetine göre ilgili bakanlığa gönderilir. İlgili bakanlık tebligatı, muhatabın bulunduğu yerdeki yetkili merci vasıtasıyla bu Yönetmelik hükümleri gereğince yaptırır.
+(2) Tebliğ işlemi yerine getirildikten sonra tebliğ mazbatası aynı yollardan iade edilir.

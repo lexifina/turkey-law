@@ -1,0 +1,4 @@
+Tüzel kişilere ve ticari işletmelere tebligat
+MADDE 20 – (1) Tüzel kişilere tebliğ yetkili temsilcilerine, bunlar birden çok ise yalnız birine yapılır.
+(2) Bakanlıkların ve bunların teşkilatının, Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I) sayılı cetvelde yer alan genel bütçe kapsamındaki kamu idareleri, (II) sayılı cetvelde yer alan özel bütçeli idareler, (III) sayılı cetvelde yer alan düzenleyici ve denetleyici kurumlar, (IV) sayılı cetvelde yer alan sosyal güvenlik kurumları ile il özel idarelerinin, belediyelerin, köylerin ve özel kanunlarına dayanılarak kurulmuş bulunan teşekküllerle, şirketlerin, derneklerin ve vakıfların yetkili temsilcileri, bağlı bulundukları kanunlara ve statülerine göre tayin edilir.
+(3) Gerçek ve tüzel kişilere ait ticari işletmelerin işlemlerinden kaynaklanan uyuşmazlıklarda, ticari işletmenin o işlemde yetkili ticari temsilcisine yapılan tebliğ geçerlidir.

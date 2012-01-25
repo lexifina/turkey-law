@@ -1,0 +1,6 @@
+İlanen tebligat usulü
+MADDE 49 – (1) İlanen tebliğ, 48 inci madde gereğince ilgili merciin sebebini göstermek suretiyle vereceği karar üzerine aşağıdaki şekilde yapılır:
+a) İlan, kendisine tebliğ yapılacak kişinin en güvenilir bir şekilde öğrenmesini sağlayabilecek ve varsa tebliği çıkaran merciin bulunduğu yerde yayımlanan bir gazetede ve elektronik ortamda Basın İlan Kurumu vasıtasıyla yapılır. Muhatabın en güvenilir bir şekilde öğrenmesini sağlayabileceği umulan gazete, tebliği çıkaran merciin bulunduğu yerde yayımlanan bir gazete ise, ayrıca bir diğer gazete ile ilan yapılmaz.
+b) Tebliğ olunacak evrak ve ilan sureti bir ay süreyle tebliği çıkaran mercide herkesin kolayca görebileceği bir yere asılır.
+c) Merci, gerekirse, ikinci defa ilan yapılmasına karar verebilir. İkinci ilan da (a) ve (b) bendi hükümlerine göre yapılır. İki ilan arasındaki süre bir haftadan az olamaz. İkinci ilan, gerekiyorsa yabancı ülke gazeteleriyle de yaptırılabilir.
+(2) Adresi yabancı ülkede bulunanlara ilan yoluyla tebliğ yapılmasını gerektiren hallerde, tebliği çıkaran merci, tebliğ olunacak evrak ile ilan suretlerini yabancı ülkede bulunan kişinin varsa bilinen en son adresine, ayrıca, iadeli taahhütlü mektupla gönderir ve posta makbuzunu dosyasında saklar.
