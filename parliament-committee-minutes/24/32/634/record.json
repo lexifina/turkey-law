@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "SAĞLIK, AİLE, ÇALIŞMA VE SOSYAL İŞLER KOMİSYONU",
+  "committee_id": 32,
+  "meeting_date": "2012-01-25",
+  "meeting_date_as_published": "25/01/2012",
+  "agenda": [
+    "KAPLICA SAĞLIK TURİZMİ HAKKINDA"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/634",
+  "pdf_sha256": "e2d1a45b2c33a754c8a50e6aefad871313bf2ef1150c550b9960914a20c4535b",
+  "pdf_pages": 37,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=32)",
+  "listing_sha256": "bb84b1afc24f96bf3cd385abbec0db83d01b8afffe1071b2d582f57b02a7e1cf",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-01-25",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
