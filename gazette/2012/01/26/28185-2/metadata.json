@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-01-26",
+  "issue": "28185",
+  "edition": "regular",
+  "item": 2,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "6268 Türkiye Cumhuriyeti Hükümeti ile Ürdün Haşimi Krallığı Hükümeti Arasında Gümrük Konularında İşbirliği ve Karşılıklı Yardım Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120126-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120126.htm",
+  "index_sha256": "433d0309fe64ca0e2c5a6e480a955632fb791680ab1c7053ee23352ce2d74d1b",
+  "index_header": "26 Ocak 2012 ... 28185 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
