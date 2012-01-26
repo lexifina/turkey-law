@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6270",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-01-26",
+  "gazette_issue": "28185",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120126-4.htm",
+  "source_sha256": "41f5465d946420ae3fd1ff716c067f8abd2f4fb9e955c5dc4d74ab7e37d96709",
+  "text_sha256": "25026835e12b3d7b125b4ae1f817b8e05dd48a981653a4a45e8059707d4cd062",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/01/26/28185-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120126-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
