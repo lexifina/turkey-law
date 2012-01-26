@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6269",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Gürcistan Hükûmeti Arasında Kara Gümrük Geçiş Noktalarının Ortak Kullanımına İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-01-26",
+  "gazette_issue": "28185",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120126-3.htm",
+  "source_sha256": "739be6c87865bb0c222261a62c45e3ad8c8a031f446acc9194e4451de9df5ab6",
+  "text_sha256": "1112216e61885e229887f9fef81057d5202e84a21bbfbe22ac1fa49f4f0d3f24",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/01/26/28185-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120126-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
