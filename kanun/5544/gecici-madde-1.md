@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1- (1) Bu Kanunun yürürlüğe girmesinden itibaren onbeş günlük süre içerisinde Kurumun ilk Genel Kuruluna kadar yapılması gereken faaliyetleri yürütmek üzere Bakanlık tarafından bir çalışma grubu oluşturulur. Çalışma grubu en geç üç ay içerisinde Genel Kurul için gerekli hazırlıkları yaparak Bakanlığa sunar.

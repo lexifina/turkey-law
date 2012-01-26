@@ -1,0 +1,4 @@
+Malî haklar
+MADDE 25- (1) Başkan, yönetici personel ve diğer personelin ücret, malî ve sosyal hakları; bakanlık genel müdürüne yapılan ödemeleri aşmamak kaydıyla, Yönetim Kurulunun kararı ve Genel Kurulun onayı ile belirlenir.
+(2) Yönetim Kurulu Başkan ve üyelerine, ayda dörtten fazla olmamak üzere her bir toplantı için uhdesinde kamu görevi bulunanlara (2000) gösterge rakamının, uhdesinde kamu görevi bulunmayanlara ise (3000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucunda bulunacak miktarda huzur hakkı ödenir.
+(3) (Ek: 11/10/2011 - KHK - 665/43 md.) Uhdesinde kamu görevi bulunmayan sektör komitesi başkan ve üyelerine, yılda altıdan fazla olmamak üzere her bir toplantı başına (2000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucunda bulunacak miktarda huzur hakkı ödenir.
