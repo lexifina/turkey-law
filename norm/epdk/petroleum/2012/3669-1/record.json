@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "3669/1",
+  "decision_date": "2012-01-26",
+  "title": "TP Petrol Dağıtım A.Ş’nin; DEP/1503-2/23872 sayılı Depolama Lisansı kapsamında Tüpraş Yolu Üzeri Yazı Mevkii Bahşılı/KIRIKKALE adresinde faaliyette bulunan TPPD Kırıkkale Dolum ve İşletme Şefliği Tesisine ilişkin depolama tarifesinin tadili",
+  "resmi_gazete_date": "2012-02-11",
+  "resmi_gazete_number": "28201",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MBq7D+/VL+o=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MBq7D+/VL+o="
+  ],
+  "source_sha256": "2c5a6b08dbe73d89ef8f291925f018902915fef061c2fcdbd336476ad1cc5723",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-01-26",
+  "law_text_complete": false
+}
