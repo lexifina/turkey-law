@@ -1,0 +1,42 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2012/4",
+  "date": "2012-01-26",
+  "title": "SPK Haftalık Bülteni 2012/4",
+  "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_4.pdf",
+  "source_sha256": "2cd2bc47abee096f043b892330898bb16235515096e524e21e0d6cbfb9495254",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "C. YENİ FAALİYET İZİNLERİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 23.01.2012 – 27.01.2012 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_4.pdf"
+    },
+    {
+      "heading": "C. YENİ FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_4.pdf"
+    },
+    {
+      "heading": "E. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_4.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
