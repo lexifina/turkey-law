@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3665",
+  "decision_date": "2012-01-26",
+  "title": "13/05/2011 tarih ve 27933 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 28/04/2011 tarih ve 3194 sayılı Kurul Kararı değiştirilmiştir.",
+  "resmi_gazete_date": "2012-02-07",
+  "resmi_gazete_number": "28197",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=R+fqTAv6rec=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=R+fqTAv6rec="
+  ],
+  "source_sha256": "d762de5510f927aa1b9e8805a5164ef985c67e826586079ca822e1c35e9e494d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-01-26",
+  "law_text_complete": false
+}
