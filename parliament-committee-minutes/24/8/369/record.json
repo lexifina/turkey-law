@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "ANAYASA KOMİSYONU",
+  "committee_id": 8,
+  "meeting_date": "2012-01-26",
+  "meeting_date_as_published": "26/01/2012",
+  "agenda": [
+    "TÜRKİYE BÜYÜK MİLLET MECLİSİ İÇTÜZÜĞÜNDE DEĞİŞİKLİK YAPILMASINA DAİR İÇTÜZÜK TEKLİFİ (DEVAM)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/369",
+  "pdf_sha256": "cf66b4e91879f2e23adbf14b0d4bcd378b4ee84777f8a06d80c8ffad313d50b1",
+  "pdf_pages": 71,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=8)",
+  "listing_sha256": "188d884f6925c241e1d135835ed9d5c80c3f1a32a4b2cd8d284a08e433bf7002",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-01-26",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
