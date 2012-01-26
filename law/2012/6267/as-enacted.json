@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6267",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Çin Halk Cumhuriyeti Hükûmeti Arasında İkili Ticari ve Ekonomik İşbirliğinin Geliştirilmesi ve Derinleştirilmesine İlişkin Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-01-26",
+  "gazette_issue": "28185",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120126-1.htm",
+  "source_sha256": "3b722fc18b7eb620625b796e1e51e4e8b2d6c449ae398d85fee61aeb86366c81",
+  "text_sha256": "2dbc3e15cea1fc458addd7dd3ebeee1133a6d542892b1f8abb717ce5fbab3a71",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/01/26/28185-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120126-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
