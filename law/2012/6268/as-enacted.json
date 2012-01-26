@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6268",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Ürdün Haşimi Krallığı Hükûmeti Arasında Gümrük Konularında İşbirliği ve Karşılıklı Yardım Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-01-26",
+  "gazette_issue": "28185",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120126-2.htm",
+  "source_sha256": "e2d8be79c7577535dca4ca8379b160b58a62a4d5bc2e660cf1e1a94634d16a0f",
+  "text_sha256": "22b30e967ec299b5107619bb8ad7c740e31ff686e1221523930103f2c50e7623",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/01/26/28185-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120126-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
