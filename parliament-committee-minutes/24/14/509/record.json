@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "İNSAN HAKLARINI İNCELEME KOMİSYONU",
+  "committee_id": 14,
+  "meeting_date": "2012-01-26",
+  "meeting_date_as_published": "26/01/2012",
+  "agenda": [
+    "CEZA İNFAZ KURUMLARI VE TUTUKEVLERİNDE İNCELEMELERDE BULUNMAK ÜZERE KURULAN ALT KOMİSYONUN YAPTIĞI İNCELEMELER SONUCUNDA HAZIRLANAN KOMİSYON RAPORLARININ MÜZAKERESİ İLE CEZA İNFAZ KURUMLARI VE TUTUKEVLERİ ALT KOMİSYONUNUN YURT DIŞINDA İNCELEMELERDE BULUNABİLMESİ İÇİN KARAR ALINMASI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/509",
+  "pdf_sha256": "1acc36e090c5f6a166a2182bcaf680f7016c15d2c9afe9a477310af3838027c5",
+  "pdf_pages": 45,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=14)",
+  "listing_sha256": "42724f97138fc5b68e4a08554534a324a313024a61276c03c700b8b02d697ed8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-01-26",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
