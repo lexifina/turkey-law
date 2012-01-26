@@ -19,3 +19,5 @@ Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesinin Kararının Num
 6191 | 40, 47, 49 | 22/3/2011
 KHK/665 | 4, 5 | 2/11/2011
 KHK/666 | 80, Geçici Madde 4 | 15/1/2012
+Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5510 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+6270 | Bu Kanunun; a) 14 üncü maddesiyle değiştirilen 5510 sayılı Kanunun 14 üncü maddesinin son fıkrası b) 12 nci maddesiyle 5510 sayılı Kanuna eklenen Ek Madde 7 c) 5 inci maddesiyle 5510 sayılı Kanunun 43 üncü maddesine eklenen fıkralar ile 16 ncı maddesiyle eklenen Geçici Madde 38 1/1/2012 tarihinden geçerli olmak üzere d) Diğer maddeleri (5510 sayılı Kanunun 60, 64, 65, 68, 70, 102, Geçici Madde 7 ve Geçici Madde 37 deki değişiklikler) | 1/2/2012 tarihinde, 1/3/2012 tarihinde, 1/3/2012 tarihinde, yayımı tarihinde,
