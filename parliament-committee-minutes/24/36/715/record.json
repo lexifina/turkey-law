@@ -1,0 +1,23 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "SANAYİ, TİCARET, ENERJİ, TABİİ KAYNAKLAR, BİLGİ VE TEKNOLOJİ KOMİSYONU",
+  "committee_id": 36,
+  "meeting_date": "2012-01-26",
+  "meeting_date_as_published": "26/01/2012",
+  "agenda": [
+    "KULLANILMIŞ YAKIT İDARESİNİN VE RADYOAKTİF ATIK İDARESİNİN GÜVENLİĞİ ÜZERİNE BİRLEŞİK SÖZLEŞMEYE KATILMAMIZIN UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/367)",
+    "TÜRKİYE CUMHURİYETİ ÇEVRE VE ORMAN BAKANLIĞI İLE IRAK CUMHURİYETİ SU KAYNAKLARI BAKANLIĞI ARASINDA SU ALANINDA MUTABAKAT ZAPTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/380)",
+    "TÜRKİYE CUMHURİYETİ İLE MISIR ARAP CUMHURİYETİ ARASINDA TESİS EDİLEN ORTAK KOMİTENİN 1/2010 SAYILI KARARININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE BİRLEŞİK TANZANYA CUMHURİYETİ HÜKÜMETİ ARASINDA YATIRIMLARIN KARŞILIKLI TEŞVİKİ VE KORUNMASI ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/715",
+  "pdf_sha256": "28759a9bc35ace1867c8d753b0bbac5bccb41f228b002d26f556cb687f7af48e",
+  "pdf_pages": 17,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=36)",
+  "listing_sha256": "70a892f720e6bf1cf78cf2de524ed1e3bd3d2d02419f41f1a9f428f9bb44b671",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-01-26",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
