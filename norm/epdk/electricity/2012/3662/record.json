@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3662",
+  "decision_date": "2012-01-26",
+  "title": "2012 yılı için uygulanacak serbest tüketici limiti",
+  "resmi_gazete_date": "2012-02-07",
+  "resmi_gazete_number": "28197",
+  "categories": [
+    "Serbest Tüketici"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rRy1XvQRoPM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rRy1XvQRoPM="
+  ],
+  "source_sha256": "3ab6c4a48b69851ac1e03f02c6f81210e3fae40057397cfa1f7b4bfe0a527d9e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-01-26",
+  "law_text_complete": false
+}
