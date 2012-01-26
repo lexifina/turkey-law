@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "3669/2",
+  "decision_date": "2012-01-26",
+  "title": "TP Petrol Dağıtım A.Ş’nin; PİL/2711-10.1/28173 sayılı iletim lisansı kapsamında Tüpraş Yolu Üzeri Yazı Mevkii Bahşılı/KIRIKKALE adresinde faaliyette bulunan iletim tesisine ilişkin iletim tarifesinin tadili",
+  "resmi_gazete_date": "2012-02-11",
+  "resmi_gazete_number": "28201",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Y+ajindOM64=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Y+ajindOM64="
+  ],
+  "source_sha256": "d7a02514f71f4d233c0f28c0c3fbb4ac04e2490ef7c81c425d8b159dcdb3bc84",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-01-26",
+  "law_text_complete": false
+}
