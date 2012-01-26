@@ -1,0 +1,4 @@
+Ön inceleme
+MADDE 2 – (1) Başvuru konusu eşyanın genel ithalat endeksi (2006=100), 2007-2010 yıllarında sırasıyla 113, 104, 99 ve 122 olmuştur. 2010 yılı Ocak-Ekim döneminde gerçekleşen ithalat 100 kabul edildiğinde, 2011 yılı aynı döneminde ithalat 112 birim olmuştur. Yine aynı eşyanın İran menşeli ithalatı 2006-2010 yılları arasında sırasıyla 5.025 ton, 278 ton, 1.704 ton, 5.064 ton, 39.579 ton olarak gerçekleşmiştir. 2010 yılı Ocak-Ekim döneminde gerçekleşen İran menşeli ithalat 100 kabul edildiğinde, 2011 yılı aynı döneminde ithalat 154 birim olmuştur.
+(2) Yerli üreticiler tarafından sağlanan bilgiler, başvuru konusu eşya için yerli üretim, yurt içi satışlar, kapasite kullanım oranı ve karlılık gibi ekonomik unsurlarda bozulmanın varlığını göstermektedir.
+(3) Başvuru konusu eşyanın ithalatına karşı geçici önlem alınmaması halinde gecikmenin telafisi güç zararlara yol açabileceği tespit edilmiştir.
