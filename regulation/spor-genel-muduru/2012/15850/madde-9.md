@@ -1,0 +1,3 @@
+Başvuru ücreti
+MADDE 9 – (1) Başvuru sahibi, başvuru ücretini yatırmak ve makbuzunu dilekçesine eklemek zorundadır. Aksi halde bu makbuz ibraz edilinceye kadar dilekçesi işleme konulmaz. Beş gün içerisinde başvuru ücreti ile diğer giderlerin yatırıldığına ilişkin makbuzun ibraz edilmemesi halinde itiraz yapılmamış sayılır.
+(2) Kurula başvuru ücreti; sporcular için (2000) gösterge, diğer başvurularda ise (4000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunan tutardır. Başvuru ücreti, Genel Müdürlüğün banka hesabına yatırılır. Emanet hesabına alınan itiraz ücretleri, itirazın kabulü halinde ilgili kişiye iade edilir.

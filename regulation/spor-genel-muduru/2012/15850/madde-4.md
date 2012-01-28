@@ -1,0 +1,9 @@
+Kurulun oluşumu
+MADDE 4 – (1) Kurul, yedi asıl ve yedi yedek üyeden teşekkül eder. Üyelerin beşinin hukukçu, ikisinin ise spor alanında bilimsel çalışmalar yapmış veya sporda idareci, teknik adam ve benzeri görevlerde bulunmuş kariyer sahibi kişiler olmaları şarttır. Üyeler Genel Müdürün teklifi ve Bakanın onayı ile dört yıl için görevlendirilir.
+(2) Hakim ve savcılar ile bu meslekten sayılanlar hakimlik teminatı esasları gözetilerek ve yetkili kurulların onayı alınmak suretiyle Kurulda görev alabilirler.
+(3) Kurul üyeleri kendi aralarından bir başkan, bir başkan vekili ve bir raportör seçer.
+(4) Kurul, ihtiyaç duyduğu konularda ihtisas birimleri oluşturabilir. İhtisas birimleri, ilgili federasyon ve diğer birim temsilcilerinden oluşturulur. İhtisas birimleri kendilerine havale edilen konuları verilen süre içerisinde araştırarak rapor halinde Kurula sunar.
+(5) Kurul, görevinde bağımsızdır. Üyeler, istifa etmedikçe veya çekilmiş sayılmadıkça, yerlerine yenisi görevlendirilemez.
+(6) Yedek üyeler, herhangi bir nedenle boşalan asil üyeliğe, sırasıyla ve kalan süreyi tamamlamak üzere görevlendirilmiş sayılır.
+(7) Eksik kalan yedek üye sayısı, görevlendirilecek yeni üyelerle tamamlanır. Bu fıkra uyarınca seçilen yedek üyelerin görev süresi, yerine seçilenlerin görev süresi kadardır.
+(8) Federasyonların veya spor kulüplerinin kurullarında görev alanlar ve ihtar cezası dışında sportif ceza alanlar ile Anayasal düzene ve bu düzenin işleyişine karşı suçlar ile casusluk, zimmet, irtikap, rüşvet, hırsızlık, yağma, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas gibi yüz kızartıcı veya şeref ve haysiyeti kırıcı suçtan veya ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan mal varlığı değerlerini aklama, kaçakçılık, vergi kaçakçılığı ve haksız mal edinme suçlarından ceza alanlar Tahkim Kurulu üyeliği yapamazlar.

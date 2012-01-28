@@ -1,0 +1,3 @@
+SPOR GENEL MÜDÜRLÜĞÜ TAHKİM KURULU YÖNETMELİĞİ
+Amaç ve kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı, spor federasyonlarının iş ve işleyişleri ile ilgili olarak federasyon ile kulüpler, sporcular, hakemler, teknik direktör ve antrenörler, kulüpler ile teknik direktörler, antrenörler ve sporcular; kulüpler ile kulüpler arasında çıkacak ihtilâflar hakkında federasyon yönetim kurulunca verilecek kararlar ile disiplin veya ceza kurulu kararlarını ilgililerin itirazı üzerine inceleyip kesin karara bağlamak üzere oluşturulan Kurulun görev, yetki ve sorumlulukları ile çalışma usul ve esaslarını düzenlemektir.
