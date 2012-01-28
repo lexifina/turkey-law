@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-01-28",
+  "issue": "28187",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tapu ve Kadastro Genel Müdürlüğü Döner Sermaye İşletmesi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120128-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/01/20120128.htm",
+  "index_sha256": "5857bd100c40734cde140dea26c75898beaf5d9420df2926d4b9fb4fb50356d7",
+  "index_header": "28 Ocak 2012 ... 28187 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
