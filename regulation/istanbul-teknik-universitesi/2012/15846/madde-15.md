@@ -1,0 +1,5 @@
+Öğretim planları
+MADDE 15 – (1) Meslek Yüksekokulunda öğretim, Yükseköğretim Kurulunca belirlenen ve Senato tarafından kabul edilen ortak dersler göz önünde tutulmak ve bölümlerin görüşleri alınmak suretiyle, Meslek Yüksekokulu Kurulu tarafından kararlaştırılan ve Senato tarafından onaylanan öğretim planına göre yapılır. Öğretim, öğretim planına uygun olarak ve bu plandaki sıra izlenmek suretiyle yürütülür.
+(2) Öğrenci, herhangi bir nedenle bir yarıyıl normal olarak alması gereken yarıyılın derslerini almamış ise, izleyen yarıyıldaki ön koşulsuz dersleri alabilir. Öğrencinin bundan sonraki öğrenimine devam ederken bir üst sınıfın ön koşulsuz derslerini alması için, öncelikle alt yarıyılından başarısız olduğu ve daha önce almadığı dersleri alması ve bu derslerin diğer aldığı derslerle çakışmaması gerekir.
+(3) Öğretim planına dahil olan staj çalışmaları, Meslek Yüksekokulu tarafından her bölüm için hazırlanan esaslara göre yapılır.
+(4) Üniversite binaları dışında yapılması gereken ders ve uygulamalar, yarıyıl süresince yapılabileceği gibi, ilgili birimler tarafından belirlenen sürelerde, bahar yarıyılının bitiminden sonra da yaptırılabilir.

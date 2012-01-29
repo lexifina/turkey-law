@@ -1,0 +1,2 @@
+Sınav programları ve sınavların yeri
+MADDE 22 – (1) Yarıyıl sonu sınav programları, Meslek Yüksekokulu Yönetim Kurulu kararıyla Öğrenci İşleri Daire Başkanlığına gönderilir, sınav dönemi başlamadan en az iki hafta önce ilan edilir. Sınavlar, programda gösterilen gün, yer ve saatte yapılır. Ancak, saha/alan üzerinde yapılan ders ve uygulamaların sınavları, saha/alan üzerinde ve Meslek Yüksekokulu binaları dışında da yapılabilir.

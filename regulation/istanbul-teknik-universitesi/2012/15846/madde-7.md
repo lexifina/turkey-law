@@ -1,0 +1,2 @@
+Kayıt yenileme
+MADDE 7 – (1) Kayıt yenileme işlemi derse kayıt ve öğrenci katkı payının ödenmesini içerir. Üniversite öğrencileri her yarıyıl Üniversite Yönetim Kurulunca belirlenen tarihlerde kayıtlarını yenilemek zorundadırlar. İlan edilen tarihlerde kayıtlarını yenilemeyen öğrenciler, kayıt bitim tarihinden sonra bir hafta içerisinde gecikmeli kayıt yaptırırlar. Gecikmeli kayıt koşulları her yıl Üniversite Yönetim Kurulu tarafından belirlenir. Kayıt programı bir önceki yarıyılın son haftasında ilan edilir. Kayıt yenilenmeyen yarıyıl, öğretim süresinden sayılır.

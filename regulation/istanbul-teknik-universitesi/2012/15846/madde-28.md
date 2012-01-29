@@ -1,0 +1,3 @@
+Öğretimi bitirme
+MADDE 28 – (1) Meslek Yüksekokulu öğretim planında gösterilen öğrenimi izleyerek derslerin tümünden başarılı olmuş, ağırlıklı genel not ortalamasını en az 2.00 düzeyine çıkarmış ve bu Yönetmelik hükümlerine göre bütün çalışmaları tamamlamış öğrenci, öğrenimini bitirmiş sayılır ve kendisine bu Yönetmeliğin 11 inci maddesinde belirtilen diploma verilir.
+(2) Meslek Yüksekokulunu bu şekilde bitirenlere ayrıca, öğrenimlerindeki mezuniyet derecesini, başarı katsayısını devam ettikleri bölüm, program ve benzeri ile aldıkları ders, proje, laboratuar ve benzeri çalışmaları, başarı notları ile birlikte gösteren bir öğrenim belgesi (transkript) verilir.

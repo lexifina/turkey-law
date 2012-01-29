@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 24 – (1) Öğrenci, bir dersteki başarı durumu sonucuna, dersin başarı durumu listesinin sistemde ilan edilmesinden itibaren bir hafta içerisinde, Meslek Yüksekokulu Müdürlüğüne yazılı olarak başvurup itiraz edebilir. Meslek Yüksekokulu Müdürlüğünce ilgili öğretim üyesine, öğrencinin başarı notuna katkısı bulunan bütün çalışmaları tekrar incelettirilir. Öğrencinin itirazı ile ilgili öğretim üyesinin yaptığı yeni değerlendirme iki hafta içinde Meslek Yüksekokulu Yönetim Kurulu tarafından karara bağlanır.

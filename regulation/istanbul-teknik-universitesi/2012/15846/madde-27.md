@@ -1,0 +1,2 @@
+Ağırlıklı genel not ortalaması
+MADDE 27 – (1) Ağırlıklı genel not ortalaması; ders veya ayrı ders niteliğindeki laboratuar, proje, atölye, seminer ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuar, proje, atölye, seminer ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile bulunacak değerdir. Bölme sonucu, virgülden sonra iki hane yürütülüp yuvarlatılarak verilir.

@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 36 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-01-29",
+      "29.01.2012",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 36 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28188",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-01-29",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/2012/15846",
+  "published": "2012-01-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15846&MevzuatTertip=5",
+  "source_bytes": 63606,
+  "source_id": "8.5.15846",
+  "source_sha256": "0db3a80331b56e71520d77d7e1eebd680fa9e31c1d8c61ef1ba54d5eba4dd77a",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ ÖNLİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 3769
+}
