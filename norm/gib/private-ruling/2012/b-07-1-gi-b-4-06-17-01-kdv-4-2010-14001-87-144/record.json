@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-30T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-30",
+  "official_number": "B.07.1.GİB.4.06.17.01-KDV- 4:2010-14001-87-144",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29548",
+  "source_id": "ozelge:29548",
+  "source_row_sha256": "378b8ce981a458372c6af8ed531b05245ca885f53fb9bd0b4a3982a988f2a04e",
+  "title": "Yurt dışında verilen hizmetten elde edilen kazançlarda GV ve KDV hk.",
+  "version_label": "as-enacted",
+  "word_count": 509
+}
