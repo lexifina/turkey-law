@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-30T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-30",
+  "official_number": "B.07.1.GİB.4.34.17.01-KDV 28-364",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32910",
+  "source_id": "ozelge:32910",
+  "source_row_sha256": "3710689423a1d00db3d19d75cae8492e08e99920c8ebe4110a93a7b1f011635b",
+  "title": "Yurt dışından alınacak laboratuar hizmetleri için sorumlu sıfatıyla KDV beyan edilip edilmeyeceği hk.",
+  "version_label": "as-enacted",
+  "word_count": 407
+}
