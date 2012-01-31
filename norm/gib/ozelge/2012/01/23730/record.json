@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.01-KDV29-10",
+  "source_id": 23730,
+  "date": "2012-01-31",
+  "title": "Serbest Meslek Erbabının satın aldığı gayrimenkulü işyeri olarak kullanmasından dolayı ödediği KDV'nin indirim konusu yapılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23730",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "fcedb29f36d1170196c8b405c9a55a8e379dddd70b26417356355419aa777133",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
