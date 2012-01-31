@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-01-31T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-01-31",
+  "official_number": "B.07.1.GİB.4.22.15.01-KDV-13-2-4",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29542",
+  "source_id": "ozelge:29542",
+  "source_row_sha256": "40c54f0a82d574cdf5aa0a65ff2d0fff775c2d59c3b195051b0d96ebf38f0437",
+  "title": "Toptan Et Teslimlerinde KDV Oranı hk.",
+  "version_label": "as-enacted",
+  "word_count": 431
+}
