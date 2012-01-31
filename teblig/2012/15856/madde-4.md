@@ -1,0 +1,4 @@
+Damping iddiası
+MADDE 4 – (1) Şikâyete konu ülkenin iç piyasa satışlarına ilişkin veri temin edilemediğinden oluşturulmuş normal değer hesaplamasına gidilmiş ve yerli üretim dalının üretim maliyetlerine makul bir kâr oranı eklenerek normal değer oluşturulmuş ve fabrika çıkış aşamasında olduğu kabul edilmiştir.
+(2) Şikâyet konusu ülkeden Türkiye’ye gerçekleştirilen satışların ihraç fiyatının belirlenmesinde, yerli üretim dalı tarafından temin edilen Hindistan menşeli şikâyet konusu ürün için on adet ihraç faturasındaki birim fiyatların ağırlıklı ortalaması esas alınmıştır. Söz konusu fiyatların fabrika çıkış aşamasında olduğu kabul edilmiştir.
+(3) Normal değer ile Türkiye’ye ihraç fiyatının mümkün olduğu ölçüde aynı ticari aşamada (fabrika çıkış aşaması) karşılaştırılması yoluyla, granit için hesaplanan damping marjının, şikayete konu ülke için önemli oranlarda olduğu görülmüştür.
