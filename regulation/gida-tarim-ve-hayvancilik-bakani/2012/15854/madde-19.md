@@ -1,0 +1,5 @@
+Vektör türlere ait canlı su hayvanlarının hastalıktan arî bölgelere alınması
+MADDE 19 – (1) Ek-2’de belirtilen türler haricindeki bir türün vektör türler olarak belirli bir hastalığın yayılmasına neden olabileceğinin bilimsel veriler veya uygulama deneyimi ile doğrulanması halinde, 60 ıncı maddeye göre belirli bir hastalıktan arî olduğu bildirilmiş olan bir bölge ya da bölüme yetiştirme veya stok desteği amacıyla alınacak vektör türleri aşağıdaki koşulların birini karşılar:
+a) Vektör türlerin hastalıktan arîlik statüsüne sahip başka bir bölge veya bölümden gelmiş olması,
+b) Sunulan bilimsel verilerin veya uygulama deneyiminin ışığında, bu yöntemin hastalığın bulaşma riskini, bu bulaşmanın önlenmesi açısından kabul edilebilir bir düzeye indirmek için yeterli görüldüğü durumlarda, vektör türlerin patojenden arındırılmış su içerisinde uygun bir süre için 5 inci bölümde yer alan hükümler göz önünde bulundurularak karantinada tutulması.
+(2) Vektör türler ile bu türlerin bu maddenin kapsamına giren yaşam evreleri ve uygun olduğu hallerde, bu türlerin bir hastalığı bulaştırabileceği koşullara ilişkin bir liste Bakanlık tarafından hazırlanır.

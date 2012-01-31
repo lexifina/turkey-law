@@ -1,0 +1,5 @@
+Hastalıktan arîlik statüsünün askıya alınması ve yeniden verilmesi
+MADDE 64 – (1) Yetkili otorite;
+a) Hastalıktan arî bir bölge veya bölüm olarak statünün korunması için gerekli olan koşullardan herhangi birinin ihlal edildiğini düşünüyorsa, Ek-1’de yer alan A bölümünde belirtildiği üzere hastalık açısından daha yüksek bir sağlık statüsüne sahip olan bölge veya bölümlerden yapılan duyarlı tür ve vektör tür ticaretini askıya alır ve 41, 42, 43, 50 ve 51 inci maddelerde yer alan hükümleri uygular.
+b) 42 nci maddenin birinci fıkrasında düzenlenen epizootik inceleme sonucunda, şüphe edilen ihlalin gerçekleşmemiş olduğunu doğrularsa, bölge veya bölüme hastalıktan arîlik statüsünü geri verir.
+c) Epizootik inceleme sonucunda, enfeksiyonun büyük ihtimalle gerçekleşmiş olduğunu doğrularsa, bölge veya bölümün hastalıktan arîlik statüsünü, statünün bildiriminde izlenen prosedüre uygun şekilde geri çeker. Bölge veya bölümün hastalıktan arîlik statüsünü geri kazanması için, 45 inci maddede belirtilen gerekliliklere uygunluğu sağlar.

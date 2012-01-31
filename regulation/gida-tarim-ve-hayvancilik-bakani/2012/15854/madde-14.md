@@ -1,0 +1,3 @@
+Yetiştiriciliği yapılan su hayvanlarının piyasaya arz edilmesine ilişkin genel koşullar
+MADDE 14 – (1) Yetkili otorite, su hayvanları ve ürünlerinin piyasaya sürülmesinde, varış ya da geçiş yerlerinde Ek-2’de listelenen hastalıklara ilişkin sağlık durumlarının tehlikeye düşmemesini sağlar.
+(2) Ek-2’de listelenmemiş hastalıklar için yetiştiriciliği yapılan su hayvanları yetkili otoritenin sıkı gözetimi altında sadece bilimsel amaçlarla piyasaya arz edilir. Yetkili otorite, bu piyasaya arz sırasında, varış yerinde ya da geçiş yerlerinde bulunan su hayvanlarının Ek–2’de listelenen hastalıklara ilişkin sağlık durumlarını tehlikeye düşürmemesi gerekir.

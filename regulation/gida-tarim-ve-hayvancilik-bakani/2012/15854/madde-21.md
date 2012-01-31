@@ -1,0 +1,3 @@
+İleri işleme olmaksızın insan tüketimi için piyasaya arz edilen yetiştiriciliği yapılan su hayvanları ve ürünleri
+MADDE 21 – (1) Canlı yumuşakça veya kabukluların ülke sularında geçici olarak tutulduğu veya dağıtım merkezleri, arıtma tesisleri veya benzeri işletmelere alındığı durumlarda, 20 nci maddenin ikinci fıkrası uygulanır.
+(2) Su ürünlerinin Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinde belirtilen paketleme ve etiketleme hükümlerine uygun perakende satış paketleriyle ambalajlandığı durumlarda, yetiştiriciliği yapılan su hayvanlarının, ileri işleme olmaksızın insan tüketimi için ambalajlı olarak perakende satış amacıyla piyasaya arz edileceği durumlarda 18 inci madde uygulanmaz.

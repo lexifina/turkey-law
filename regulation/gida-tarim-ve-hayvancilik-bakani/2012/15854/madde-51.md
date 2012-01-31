@@ -1,0 +1,6 @@
+Hastalıktan arîlik statüsüne sahip olmayan bir bölge veya bölümde alınacak tedbirler
+MADDE 51 – (1) Liste 2 Hastalıklarının, hastalıktan arîlik statüsüne sahip olmayan bir bölge veya bölümde doğrulanması durumunda, Yetkili otorite bu hastalığı kontrol altına almak için aşağıda belirtilen asgari tedbirleri uygular;
+a) Çiftlik veya yumuşakça yetiştirme alanını hastalıklı alan ilan eder.
+b) Hastalıklı alan ilan edilen çiftlik veya yumuşakça yetiştirme alanının etrafında birer koruma bölgesi ve gözetim bölgesi dâhil olmak üzere, hastalığa uygun bir muhafaza alanı oluşturur.
+c) Yetiştiriciliği yapılan su hayvanlarının muhafaza alanının dışına hareketleri, yalnızca 14 üncü maddenin ikinci fıkrasına göre çiftliklere veya yumuşakça yetiştirme alanlarına sokulmasıyla veya 45 inci maddenin birinci fıkrasına göre insan tüketimi için hasat edilmesi ve kesilmesi ile olabilir.
+ç) İşletmenin üretim tipi ve işletmedeki ölü hayvanların hastalığın daha fazla yayılması açısından doğurduğu riski göz önünde bulundurularak, uygun bir süre içinde, İnsan Tüketimi Amacıyla Kullanılmayan Hayvansal Yan Ürünler Yönetmeliğinde belirtilen hükümlere uygun olarak ve 57 nci maddede belirtilen acil eylem planına göre ortamdan uzaklaştırır ve imha eder.

@@ -1,0 +1,5 @@
+Hayvan sağlığının sertifikalanması
+MADDE 16 – (1) Yetiştiriciliği yapılan su hayvanlarının piyasaya arz edilme işleminin, hayvanların, 60 ıncı madde çerçevesinde hastalıktan arî olduğu ilan edilen bir bölge veya bölüme alınması sırasında hayvan sağlığının sertifikalanması gerekir. Yetiştirme ve stok destekleme veya insan tüketiminden önce ileri işleme amacıyla piyasaya arz edilen su hayvanlarının da, 54 üncü maddenin birinci ve ikinci fıkralarına göre bir gözetim ya da eradikasyon programına tabi olması gerekir.
+(2) Ancak, balık için, hayvanların dağıtımdan önce kesilmesi ve iç organlarından temizlenmesi, yumuşakçalar ve kabuklular için, hayvanların işlenmemiş veya işlenmiş ürün olarak dağıtılması amacıyla piyasaya arz edilen yetiştiriciliği yapılan su hayvanları için hayvan sağlığının sertifikalanması gerekmez.
+(3) Hayvanların 7 ve 8 inci bölümlerde belirtilen hastalık kontrol tedbirlerine tabi olan bir alandan dışarıya çıkmasının gerektiği durumlarda, su hayvanlarının piyasaya arz edilmesi işlemi, hayvan sağlık sertifikasyonunu gerektirir.
+(4) Bu madde hükümleri Ek-2’de listelenmemiş hastalıklar ve bu hastalıklara duyarlı türler için de geçerlidir.

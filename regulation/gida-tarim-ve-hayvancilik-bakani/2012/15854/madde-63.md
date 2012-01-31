@@ -1,0 +1,2 @@
+Hastalıktan arîlik statüsünün korunması
+MADDE 63 – (1) 60 ıncı maddeye uygun şekilde Liste 2 hastalıklarından birinden veya birden fazlasından arî ilan edilen bölge veya bölümün, hastalığın klinik belirtilerine neden olan koşulların varlığını sürdürmesi ve bu Yönetmeliğin ilgili hükümlerinin uygulanmasını takiben yetkili otorite tarafından, hedefli gözetim çalışmaları sonlandırılabilir ve hastalıktan arîlik statüsü korunabilir.

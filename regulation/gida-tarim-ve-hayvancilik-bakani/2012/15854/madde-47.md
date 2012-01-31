@@ -1,0 +1,2 @@
+Dinlendirme ve boş bırakma
+MADDE 47 – (1) Mümkün olan her durumda, hastalıklı çiftlikler veya yumuşakça yetiştirme alanları, boşaltıldıktan ve uygun olduğu durumlarda, temizlenip dezenfekte edildikten sonra uygun bir dinlendirme döneminden geçirilir. Hastalığa duyarlı olmayan yetiştiriciliği yapılan su hayvanlarının yetiştirildiği çiftlikler ile yumuşakça yetiştirme alanları için, dinlendirme dönemine ilişkin kararlar, yapılacak bir risk analizine bağlı olarak belirlenir.
