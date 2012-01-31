@@ -1,0 +1,3 @@
+Maddenin soruşturma konusu ülkeden ithalatı
+MADDE 11 – (1) Soruşturmaya konu ÇHC’den gerçekleşen lamine parke ithalatı miktar olarak 2008 yılında 147.233 m² iken 2009’da 69.688 m²’ye düşmüş, 2010’da ise 109.217 m²’ye yükselmiştir. Soruşturmaya konu bir diğer ülke olan Endonezya’dan yapılan ithalat miktarı ise 2008’de 44.976 m² iken, 2009’da 28.294 m²’ye, 2010’da ise 13.312 m²’ye düşmüştür.
+(2) ÇHC ve Endonezya menşeli ithalata değer olarak bakıldığında ise ÇHC’den 2008 yılında 2.288.646 ABD Doları seviyesinde olan ithalatın 2009’da 1.243.840 ABD Doları ve 2010’da 1.916.522 ABD Doları olarak gerçekleştiği; Endonezya’dan 2008 yılında 926.912 ABD Doları olan ithalatın ise 2009’da 602.613 ABD Doları ve 2010’da 285.068 ABD Doları olarak gerçekleştiği görülmektedir.
