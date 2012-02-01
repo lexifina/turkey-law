@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2012/DK-08/39",
+  "date": "2012-02-01",
+  "title": "TCDD'ye Kısa Numara Tahsisine ilişkin Kurul Kararı",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2012-02-01",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=157",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/349f264f-9c5b-410d-944f-9449edc867bb.pdf",
+  "source_sha256": "379b48a53bb6a17b0b6c561bb3e84acb169c980a4da7b2b9d426bd203b9055a0",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2012-02-01",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 01.02.2012; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
