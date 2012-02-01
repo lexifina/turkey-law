@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-01T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-01",
+  "official_number": "B.07.1.GİB.4.55.15.01-2011-KVK-ÖZE-02-35",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/24944",
+  "source_id": "ozelge:24944",
+  "source_row_sha256": "e44df617e21353733f928171c8e627d22b81b2ea3593e5f0f949f0741dc30300",
+  "title": "Oda tarife bedeline göre düzenlenecek faturalarda gerçek tutarın gösterilip gösterilemeyeceği hk.",
+  "version_label": "as-enacted",
+  "word_count": 391
+}
