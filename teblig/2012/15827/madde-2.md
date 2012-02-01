@@ -1,0 +1,1 @@
+MADDE 2 – İdarelerin tabi oldukları eşik değer ve parasal limitlerin belirlenmesinde; 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun yürürlüğe girmesinden önceki bütçe statülerinin göz önünde bulundurulması gerekmektedir.

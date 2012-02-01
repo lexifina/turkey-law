@@ -1,0 +1,2 @@
+KAMU İHALE TEBLİĞİ
+(TEBLİĞ NO: 2012/1)
