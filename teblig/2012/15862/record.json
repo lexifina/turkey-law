@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.15862",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HAYVANSAL ÜRÜNLERİN KİŞİSEL SEVKİYATLARININ ÜLKEYE GİRİŞİNE İLİŞKİN KURALLAR HAKKINDA TEBLİĞ (TEBLİĞ NO: 2012/11)",
+  "number": "15862",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2012/15862",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15862&MevzuatTertip=5",
+  "source_sha256": "ecde96b2f165e495e8f7fd6ff4f6b161c40112e9c3847320fd67f62a82ac5aab",
+  "source_bytes": 19868,
+  "published": "2012-02-01",
+  "gazette": "28191",
+  "in_force": "2012-02-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.02.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 887,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15862-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

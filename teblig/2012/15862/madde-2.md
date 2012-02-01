@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, ticari nitelikte olmayan ve yolcu beraberinde gelen veya özel kişilere küçük sevkiyatlar halinde gönderilen veya posta, telefon ve internet yoluyla sipariş edilen ve tüketiciye teslim edilen hayvansal ürünlerin kişisel sevkiyatlarının ülkeye girişine ilişkin kuralları, yolculara ve kamuoyuna sağlanacak bilgilendirmeyi, uluslararası yolcu taşımacılığı işletmecileri ve posta hizmetleri tarafından müşterilerine sağlanacak bilgilendirmeyi, kontrolleri ve yaptırımları kapsar.

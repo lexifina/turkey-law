@@ -1,0 +1,2 @@
+Uluslararası yolcu taşımacılığı işletmecileri ve posta hizmetleri tarafından müşterilerine sağlanacak bilgilendirme
+MADDE 7 – (1) Havalimanı ve liman işletmecileri ve seyahat acentaları dâhil uluslararası yolcu taşımacılığı işletmecileri ve posta servisleri, 6 ncı maddede öngörüldüğü gibi, özellikle Ek-3 ve Ek-4’te yer alan bilgileri sağlayarak bu Tebliğde belirtilen kurallar hakkında müşterilerini bilgilendirir.
