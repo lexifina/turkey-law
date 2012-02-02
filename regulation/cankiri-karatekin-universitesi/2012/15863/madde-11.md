@@ -1,0 +1,2 @@
+Danışma kurulu
+MADDE 11 – (1) Danışma Kurulu; Yönetim Kurulunca önerilen ve Rektör tarafından onaylanan Merkezin amacı doğrultusunda çalışma yapan kişiler ile istekleri halinde kamu ve özel kurum ve kuruluşların temsilcilerinden olmak üzere en az beş kişiden oluşur. Danışma Kurulu, Müdürün daveti üzerine toplanır ve toplantı konusuyla ilgili görüş ve önerilerini Merkez Müdürlüğüne yazılı olarak bildirir.
