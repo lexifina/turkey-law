@@ -1,0 +1,48 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2012/5",
+  "date": "2012-02-02",
+  "title": "SPK Haftalık Bülteni 2012/5",
+  "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_5.pdf",
+  "source_sha256": "f02c64a5358b9dc893d4f93c523d820ea7a915a037f402ed1df4f113cf1717c8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "C. YENİ FAALİYET İZİNLERİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 30.01.2012 – 02.02.2012 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_5.pdf"
+    },
+    {
+      "heading": "C. YENİ FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_5.pdf"
+    },
+    {
+      "heading": "D. SUÇ DUYURUSU, İDARİ PARA CEZASI İLE DİĞER YAPTIRIM VE TEDBİRLER",
+      "status": "metadata-only",
+      "reason": "sanctions-metadata-only",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_5.pdf"
+    },
+    {
+      "heading": "F.   DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_5.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
