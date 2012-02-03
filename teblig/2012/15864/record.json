@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.15864",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2012 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ (SIRA NO: 5)",
+  "number": "15864",
+  "path": "teblig/2012/15864",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15864&MevzuatTertip=5",
+  "source_sha256": "63633697376c0f2a02129f09fe045a441c917241c74018e87be80b57ca6938c5",
+  "source_bytes": 9037,
+  "published": "2012-02-03",
+  "gazette": "28193",
+  "in_force": "2012-02-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.02.2012); own commencement article: \"Bu Tebliğ, 1/1/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 1/1/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 301,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
