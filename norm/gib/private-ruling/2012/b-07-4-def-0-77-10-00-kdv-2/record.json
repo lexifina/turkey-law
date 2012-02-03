@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-03T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-03",
+  "official_number": "B.07.4.DEF.0.77.10.00-KDV-2",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31762",
+  "source_id": "ozelge:31762",
+  "source_row_sha256": "09d6aa4799d6ac11e6e134da2426b5f099b5f3292978fa4ccc886f0712294e79",
+  "title": "Ölüm Halinde Varislerin İşletmeyi Devralmasında Mükellefiyet KDV ve Demirbaşların Değerlemesi hk.",
+  "version_label": "as-enacted",
+  "word_count": 883
+}
