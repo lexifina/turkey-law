@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-02-04",
+  "issue": "28194",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2012/2727 Birleşmiş Milletler Güvenlik Konseyi’nin 1970 ve 1973 Sayılı Kararları Çerçevesinde Yürürlüğe Konulan 21/6/2011 Tarihli ve 2011/2001 Sayılı Bakanlar Kurulu Kararında Değişiklik Yapılmasına Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120204-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120204.htm",
+  "index_sha256": "f7e64584cc34381a51ba66af5a7f4f35469f21dad68d725114fa62426c72a687",
+  "index_header": "4 Şubat 2012 ... 28194 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
