@@ -1,0 +1,2 @@
+Genel Hükümler
+MADDE 6 — Üniversite, eğitim ve öğretimin çağdaş düzeyde ve Atatürk İlke ve İnkılâpları çerçevesinde yürütülmesini ve bu bağlamda Mütevelli Heyetin saptadığı ilkeler ve oluşturacağı denetim ve gözetim işlevi çerçevesinde akademik faaliyetlerini ulusal ve uluslararası alanda gerçekleştirmeyi amaçlar. Üniversite T.C. Anayasasının 133 üncü maddesi hükmü gereği Devletin gözetimi altındadır.
