@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-06T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-06",
+  "official_number": "B.07.1.GİB.4.33.15.01-2011-701-1-15",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31455",
+  "source_id": "ozelge:31455",
+  "source_row_sha256": "a79a9d631c569eb74344bbc55c94730d4a6e97429baddc6bf6fe4b8dc44dfeec",
+  "title": "İhracatçı firmaya düzenlenen faturada gösterilen navlun hizmeti için kdv uygulanıp uygulanmayacağı hk.",
+  "version_label": "as-enacted",
+  "word_count": 364
+}
