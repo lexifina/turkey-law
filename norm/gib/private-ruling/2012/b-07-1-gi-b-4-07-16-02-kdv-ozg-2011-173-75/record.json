@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-07T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-07",
+  "official_number": "B.07.1.GİB.4.07.16.02-KDV.ÖZG.2011.173-75",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29531",
+  "source_id": "ozelge:29531",
+  "source_row_sha256": "d1f8d98cd1db342fd8ebb962a0d41d99b8fcc2c57c21f25ee80ed92f10948706",
+  "title": "Konaklamalarda KDV hk.",
+  "version_label": "as-enacted",
+  "word_count": 231
+}
