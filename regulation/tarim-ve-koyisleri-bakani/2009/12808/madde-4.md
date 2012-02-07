@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Anket formu: Tarımsal işletmelerin yıllık teknik, malî veya ekonomik bilgilerinin toplanması için hazırlanan, Avrupa Birliği uygulamaları ile uyumlu soru formunu,
+b) (Değişik:RG-7/2/2012-28197) Bakan: Gıda, Tarım ve Hayvancılık Bakanını,
+c) (Değişik:RG-7/2/2012-28197) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+ç) ÇMVA: Çiftlik Muhasebe Veri Ağını,
+d) ÇMVA bölgesi: 28/8/2002 tarihli ve 2002/4720 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan İstatistikî Bölge Birimleri Sınıflandırmasına ilişkin Kararın eki cetvelin “Düzey 1” istatistikî bölge birimlerini,
+e) ÇMVA kayıt defteri: ÇMVA sistemine gönüllü olarak katılan çiftçiler tarafından işletmenin yıllık ekonomik faaliyetlerine ilişkin bilgilerin işlendiği defteri,
+f) Ekonomik büyüklük: İşletmelerin standart brüt kâr üzerinden hesaplanan ekonomik büyüklüğünü,
+g) Eşik değer: İşletmelerin sistem gözlem alanına dâhil edilmeleri için sahip olmaları gereken asgari ekonomik büyüklüğü,
+ğ) İl ve ilçe müdürlükleri: Bakanlık il ve ilçe müdürlüklerini,
+h) İşletme: Yasal durumu ne olursa olsun, sahip olduğu, ortakçılık, yarıcılık ya da kiralama şeklinde tuttuğu arazide kendi adına bitkisel üretim, küçükbaş hayvan yetiştiriciliği, büyükbaş hayvan yetiştiriciliği, kümes hayvancılığı, ipek böcekçiliği, arıcılık yapan veya karma üretim yapan eşik değer veya üzeri ekonomik büyüklükteki, tek yönetim altında bulunan ekonomik birimi,
+ı) Katılım Anlaşması: Verilerin, ÇMVA veri toplama usullerinin uygulanarak toplanacağına ilişkin il veya ilçe müdürlüğü ve çiftçi arasında bir yıllık süreyle imzalanan, her iki tarafın görev ve sorumluluklarını düzenleyen belgeyi,
+i) Katılım desteği: Katılım Anlaşması imzalayarak ÇMVA sistemine katılan ve düzenli olarak ÇMVA kayıt defteri tutan işletmelere her yıl belirlenen miktarda yapılan ödemeyi,
+j) Muhasebe yılı: Takvim yılını,
+k) Örnekleme tasarımı: Örnek işletmelerin seçilmesi amacıyla mevcut ve kullanılabilir bir çerçeveye dayalı bir şekilde, ÇMVA bölgeleri seviyesinde oluşturulan tasarımı,
+l) (Değişik:RG-7/2/2012-28197) Sorumlu birim: Tarım Reformu Genel Müdürlüğünü,
+m) Standart brüt kâr: Bitkisel ürün ya da canlı hayvan yetiştiriciliğinde, 1 dekar ya da 1 baş hayvandan bir yılda elde edilen üretim değerinden, bu değeri üretmek için kullanılan bazı değişken girdi masraflarının çıkartılması ile hesaplanan değerin, birbirini takip eden üç yıllık ortalamasını,
+n) Tek yönetim: Bir bireyi ya da hane halkını; ortaklaşa olarak en az iki bireyi ya da hane halkını; bir kooperatif, şirket ya da devlet kurumu gibi tüzel kişiyi,
+o) Ulusal Komite: 5 inci maddede belirtilen temsilcilerden oluşan Çiftlik Muhasebe Veri Ağı Ulusal Danışma Komitesini,
+ö) Veri toplayıcı (anketör): ÇMVA verilerinin çiftçiden anket formu yoluyla toplanmasından ve kontrolünden sorumlu, bu konuda sorumlu birimden eğitim almış olan Bakanlık teknik personelini,
+ifade eder.

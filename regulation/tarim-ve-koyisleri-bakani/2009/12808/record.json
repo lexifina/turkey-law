@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.12808",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇİFTLİK MUHASEBE VERİ AĞI SİSTEMİNİN KURULUŞ VE ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "12808",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "issuer_slug": "tarim-ve-koyisleri-bakani",
+  "path": "regulation/tarim-ve-koyisleri-bakani/2009/12808",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12808&MevzuatTertip=5",
+  "source_sha256": "b2e6e3bed7d91618972c575dd8394f80946c589f95a9eebc375e0a5c880231fc",
+  "source_bytes": 40964,
+  "published": "2009-01-22",
+  "gazette": "27118",
+  "in_force": "2012-02-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/2/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-02-07",
+      "RG-7/2/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-02-07",
+      "7/2/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1693,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
