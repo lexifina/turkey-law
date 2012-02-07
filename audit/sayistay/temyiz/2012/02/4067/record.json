@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "34369",
+  "decision_date": "2012-02-07",
+  "source_id": 4067,
+  "chamber": "4",
+  "file_number": "32981",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4067/",
+  "source_sha256": "25eb402cbafd809a250c4b027a87f21d656878313cbc5d821abf5bc39bf2a498",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
