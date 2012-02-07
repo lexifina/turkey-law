@@ -1,5 +1,5 @@
 B. Erginlerin ve kısıtlıların evlât edinilmesi
-Madde 313-(Değişik birinci cümle: 3/7/2005-5399/1 md.) Evlât edinenin altsoyunun açık muvafakatiyle ergin veya kısıtlı aşağıdaki hallerde evlât edinilebilir.
+Madde 313- (Değişik birinci cümle: 3/7/2005-5399/1 md.) Evlât edinenin altsoyunun açık muvafakatiyle ergin veya kısıtlı aşağıdaki hallerde evlât edinilebilir.
 1. Bedensel veya zihinsel özrü sebebiyle sürekli olarak yardıma muhtaç ve evlât edinen tarafından en az beş yıldan beri bakılıp gözetilmekte ise,
 8096
 2. Evlât edinen tarafından, küçükken en az beş yıl süreyle bakılıp gözetilmiş ve eğitilmiş ise,
