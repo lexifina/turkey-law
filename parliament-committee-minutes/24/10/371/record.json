@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "ÇEVRE KOMİSYONU",
+  "committee_id": 10,
+  "meeting_date": "2012-02-08",
+  "meeting_date_as_published": "08/02/2012",
+  "agenda": [
+    "1992 PETROL KİRLİLİĞİ ZARARININ TAZMİNİ İÇİN BİR ULUSLARARASI FONUN KURULMASI İLE İLGİLİ ULUSLARARASI SÖZLEŞMENİN 2003 PROTOKOLÜNE KATILMAMIZIN UYGUN BULUNDUĞUNA DAİR KANUN TASARISI",
+    "2001 GEMİ YAKITLARINDAN KAYNAKLANAN PETROL KİRLİLİĞİ ZARARINA HUKUKİ SORUMLULUĞU HAKKINDA ULUSLARARASI SÖZLEŞMEYE KATILMAMIZIN UYGUN BULUNDUĞUNA DAİR KANUN TASARISI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/371",
+  "pdf_sha256": "312a48bd0779895df12820e9e671b88e1d47f5a2c5ea3f8eb66b6ecf6cd54eda",
+  "pdf_pages": 13,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=10)",
+  "listing_sha256": "d8827d9ba8d194196223b7bfe84cb760c5abb5977a4658755a89a239c560f5a8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-02-08",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
