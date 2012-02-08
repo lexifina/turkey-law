@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-08T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-08",
+  "official_number": "B.07.1.GİB.4.34.17.01-KDV.29-474",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29529",
+  "source_id": "ozelge:29529",
+  "source_row_sha256": "5abcb6e5ca7d94f1c09324a4ef861ae4100f139e31e47f9026a932dee6cbe74b",
+  "title": "Ödenen Kira Bedeli Üzerinden KDV'nin İndirim Konusu Yapılıp Yapılamayacağı hk.",
+  "version_label": "as-enacted",
+  "word_count": 318
+}
