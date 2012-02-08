@@ -1,0 +1,1 @@
+MADDE 4 – (1) Tadil edilen Standard, TSE’nin merkez teşkilatından veya il temsilciliklerinden temin edilir. TSE’nin ve il temsilciliklerinin iletişim bilgilerine TSE’nin internet sayfasından ulaşılır.

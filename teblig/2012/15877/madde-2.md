@@ -1,0 +1,1 @@
+MADDE 2 – (1) Bu Tebliğ 29/12/1998 tarihli ve 23568 sayılı Resmî Gazete’de yayımlanan Mecburi Standard Tebliği (Tebliğ No: ÖSG - 98/110-111) ile mecburi uygulamaya konulan TS 148 “Kasnaklar - Kayışlar İçin” Standardı, Türk Standardları Enstitüsü (TSE) tarafından tadil edilmiştir. Tadil edilen Standard, imalat ve satış safhalarında zorunlu olarak uygulanır.
