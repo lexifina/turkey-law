@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-08T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-08",
+  "official_number": "B.07.1.GİB.4.34.17.01-KDV 12-466",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31124",
+  "source_id": "ozelge:31124",
+  "source_row_sha256": "fc94be96bb4377294b409ab6adeb6882da8d6da0f4c1cd9ff7b3716b16377e69",
+  "title": "Yurt dışındaki firmalara verilen üretilen mamullerin kontrolü hizmetinin KDV karşısındaki durumu hk.",
+  "version_label": "as-enacted",
+  "word_count": 181
+}
