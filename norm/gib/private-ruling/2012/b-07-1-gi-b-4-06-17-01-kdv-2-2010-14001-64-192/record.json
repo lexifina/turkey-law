@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-09T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-09",
+  "official_number": "B.07.1.GİB.4.06.17.01-KDV-2:2010-14001-64-192",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/26746",
+  "source_id": "ozelge:26746",
+  "source_row_sha256": "56e4e42a39e0e8bdbac16c1b6e4e341293dacb0cab1fb9a888cccaaf65afdb11",
+  "title": "İthal edilen malların değer kaybına uğramış bölümü için KDV yönünden yapılacak işlemler hk.",
+  "version_label": "as-enacted",
+  "word_count": 561
+}
