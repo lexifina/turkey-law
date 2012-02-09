@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-09T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-09",
+  "official_number": "B.07.1.GİB.4.34.17.01-KDV 28-506",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32901",
+  "source_id": "ozelge:32901",
+  "source_row_sha256": "f79a7ba0c5e578d71a88e4086ec64b8eb0d0b6771bbef3d6aaa4a640764f34c4",
+  "title": "Hindi eti tesliminde KDV oranı ve tevkifat hk.",
+  "version_label": "as-enacted",
+  "word_count": 335
+}
