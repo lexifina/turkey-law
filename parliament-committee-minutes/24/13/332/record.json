@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "İÇİŞLERİ KOMİSYONU",
+  "committee_id": 13,
+  "meeting_date": "2012-02-09",
+  "meeting_date_as_published": "09/02/2012",
+  "agenda": [
+    "SEÇİMLERİN TEMEL HÜKÜMLERİ VE SEÇMEN KÜTÜKLERİ HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN TASARISI (1/564)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/332",
+  "pdf_sha256": "54cfd579c7f06b7c2e12c124f551888f7fff68289fe9500ce152dd874e74b57a",
+  "pdf_pages": 29,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=13)",
+  "listing_sha256": "9d2922e8e6f25b7cc6d05ebfe3063546648b2b3dd91e709e605e33f0ffa20e7e",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-02-09",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
