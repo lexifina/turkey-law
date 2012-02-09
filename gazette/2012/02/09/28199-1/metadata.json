@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-02-09",
+  "issue": "28199",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2012/2715 Türkiye Cumhuriyeti ile Hırvatistan Cumhuriyeti Arasındaki Sosyal Güvenlik Sözleşmesinin Uygulanmasına İlişkin İdari Anlaşma’nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120209-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120209.htm",
+  "index_sha256": "147777febd0b7e15cc05dd943a7273afb3dafc717c26c45c8ceace8a97d4c137",
+  "index_header": "9 Şubat 2012 ... 28199 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
