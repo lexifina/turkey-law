@@ -17,3 +17,4 @@ Anayasa Mah.’nin E.: 2003/86, K.: 2004/6 sayılı Kararı ile | 17/C | 6/11/20
 5917 | GEÇİCİ MADDE 22, 23 | 10/7/2009
 6001 | 3, 4, GEÇİCİ MADDE 24 | 13/7/2010
 Anayasa Mah.’nin E.: 2008/84, K.: 2010/121 sayılı Kararı | GEÇİCİ MADDE 12, 16, 17 | 12/7/2010
+6274 | 3, GEÇİCİ MADDE 25 | 11/2/2012
