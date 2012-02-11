@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-02-11",
+  "issue": "28201",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Yemlerin Resmî Kontrolü İçin Numune Alma ve Analiz Metotlarına Dair Yönetmelikte Değişiklik Yapılması Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120211-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120211.htm",
+  "index_sha256": "a646f9610b8685f3d5f2d3b1ba05eb7d823b48bbefc664bd79d72eb7cfef87d5",
+  "index_header": "11 Şubat 2012 ... 28201 Sayılı Resmî Gazete",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
