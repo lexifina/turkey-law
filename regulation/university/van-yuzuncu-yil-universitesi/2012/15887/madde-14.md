@@ -1,0 +1,2 @@
+Danışma kurulunun görevleri
+MADDE 14 – (1) Danışma Kurulunun görevleri; Başkanın daveti üzerine yılda en az bir kez toplanarak Merkezin faaliyetleri ile ilgili değerlendirmeler yapmak ve önerilerde bulunmak; Merkezin yurt içi ve yurt dışı yayın, eğitim, araştırma ve uygulama, faaliyet alanlarıyla ilgili olarak geçici veya sürekli danışmanlık komisyonları oluşturmak; Merkezin çalışma programlarının hazırlanmasına katkı sağlamak ve çalışma önceliklerinin belirlenmesinde Yönetim Kuruluna tavsiyelerde bulunmaktır.
