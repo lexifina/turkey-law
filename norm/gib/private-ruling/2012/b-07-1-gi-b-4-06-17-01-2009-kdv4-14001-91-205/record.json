@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-13T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-13",
+  "official_number": "B.07.1.GİB.4.06.17.01-2009-KDV4-14001-91-205",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29524",
+  "source_id": "ozelge:29524",
+  "source_row_sha256": "988ad3cfa6026a6e18f9dcd6b8174d3fbad49e202106acdfd618b86eb9a54478",
+  "title": "Kamu Yararına tabi derneklerin Katma Değer Vergisine tabi olup olmadığı hk.",
+  "version_label": "as-enacted",
+  "word_count": 299
+}
