@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "TARIM, ORMAN VE KÖYİŞLERİ KOMİSYONU",
+  "committee_id": 33,
+  "meeting_date": "2012-02-15",
+  "meeting_date_as_published": "15/02/2012",
+  "agenda": [
+    "ORMAN KÖYLÜLERİNİN KALKINMALARININ DESTEKLENMESİ VE HAZİNE ADINA ORMAN SINIRLARI DIŞINA ÇIKARILAN YERLERİN DEĞERLENDİRİLMESİ İLE HAZİNEYE AİT TARIM ARAZİLERİNİN SATIŞI HAKKINDA KANUN TASARISI (1/563)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/326",
+  "pdf_sha256": "ab2381a7cee055302b5e3617645cf51f1ef6a622515ba006cc52a551af8e25ba",
+  "pdf_pages": 40,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=33)",
+  "listing_sha256": "a58bcb938e8fa61742668f14f9a6a8ce0111e7b7d8ffe52d7e8e122818cff7f2",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-02-15",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
