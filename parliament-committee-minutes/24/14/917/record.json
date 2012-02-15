@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "İNSAN HAKLARINI İNCELEME KOMİSYONU",
+  "committee_id": 14,
+  "meeting_date": "2012-02-15",
+  "meeting_date_as_published": "15/02/2012",
+  "agenda": [
+    "TÜRKİYE'DE BULUNAN MÜLTECİLER, SIĞINMACILAR VE YASA DIŞI GÖÇMENLERİN SORUNLARININ İNCELENMESİ ALT KOMİSYONUNUN HAZIRLADIĞI, ÜLKEMİZE SIĞINAN SURİYE VATANDAŞLARININ BARINDIKLARI ÇADIR KENTLER HAKKINDA İNCELEME RAPORU'NUN GÖRÜŞÜLMESİ, MADDELERİNİN MÜZAKERE EDİLMESİ"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/917",
+  "pdf_sha256": "1298a6fc9c65c681665d8070882ecc81de487a7babab4e6a9dbbd573dccd694e",
+  "pdf_pages": 49,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=14)",
+  "listing_sha256": "42724f97138fc5b68e4a08554534a324a313024a61276c03c700b8b02d697ed8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-02-15",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
