@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "SAĞLIK, AİLE, ÇALIŞMA VE SOSYAL İŞLER KOMİSYONU",
+  "committee_id": 32,
+  "meeting_date": "2012-02-15",
+  "meeting_date_as_published": "15/02/2012",
+  "agenda": [
+    "SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU'NDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN TASARISI (1/566)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/629",
+  "pdf_sha256": "03fcd7b72c4f328bd7eb84ea2d58354c39d5cb97c37726c76523fc18ec63bc5a",
+  "pdf_pages": 32,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=32)",
+  "listing_sha256": "bb84b1afc24f96bf3cd385abbec0db83d01b8afffe1071b2d582f57b02a7e1cf",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-02-15",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
