@@ -1,0 +1,55 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2012/7",
+  "date": "2012-02-16",
+  "title": "SPK Haftalık Bülteni 2012/7",
+  "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_7.pdf",
+  "source_sha256": "2ddb3ed7c31e4299c02a01830d23d23cb735388edb5e49a048940f732a401cd7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "B. DUYURU VE İLKE KARARLARI",
+    "D. YENİ FAALİYET İZİNLERİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 13.02.2012 – 17.02.2012 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_7.pdf"
+    },
+    {
+      "heading": "B. DUYURU VE İLKE KARARLARI",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_7.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_7.pdf"
+    },
+    {
+      "heading": "E. SUÇ DUYURUSU, İDARİ PARA CEZASI İLE DİĞER YAPTIRIM VE TEDBİRLER",
+      "status": "metadata-only",
+      "reason": "sanctions-metadata-only",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_7.pdf"
+    },
+    {
+      "heading": "G. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_7.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
