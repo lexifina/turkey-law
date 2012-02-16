@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "ADALET KOMİSYONU",
+  "committee_id": 7,
+  "meeting_date": "2012-02-16",
+  "meeting_date_as_published": "16/02/2012",
+  "agenda": [
+    "TAPU KANUNU VE KADASTRO KANUNUNDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN TASARISI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/351",
+  "pdf_sha256": "ca88c558a08ae377b5b3a376112e4f9889c24cacd2e227849dfe71deb167a0bb",
+  "pdf_pages": 6,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=7)",
+  "listing_sha256": "480fcfda8fab5aee9512976da16aedacf95ec26b185bbd7276b300000dc0e1dc",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-02-16",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
