@@ -1,0 +1,2 @@
+Hüküm bulunmayan haller
+MADDE 17 – (1) Bu Yönetmelikte hüküm bulunmayan hallerde; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik, 8/11/2010 tarihli ve 27753 sayılı Resmî Gazete’de yayımlanan Yeni Yüzyıl Üniversitesi Ön Lisans ve Lisans Eğitim Öğretim ve Sınav Yönetmeliği ve ilgili diğer mevzuat hükümleri ile Senato ve Üniversite Yönetim Kurulu kararları uygulanır.
