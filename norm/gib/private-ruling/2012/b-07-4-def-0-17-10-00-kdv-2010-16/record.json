@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-16T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-16",
+  "official_number": "B.07.4.DEF.0.17.10.00-KDV-2010-16",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/23724",
+  "source_id": "ozelge:23724",
+  "source_row_sha256": "badfaff44fba05b0eca454530f4dc6a61892e5fdbb09a698807cbabf5446f6ad",
+  "title": "Satın alınan işyeri için ödenen KDV'nin indirim konusu yapılıp yapılmayacağı hk.",
+  "version_label": "as-enacted",
+  "word_count": 396
+}
