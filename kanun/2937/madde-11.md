@@ -1,0 +1,5 @@
+Askeri personel
+Madde 11 – Türk Silahlı Kuvvetleri kadrolarında olup, MİT'de görevlendirilecek subay, astsubay, sivil memur, erbaş ve erlerin sınıf, rütbe, unvan ve miktarları her yıl ihtiyaca göre Genelkurmay Başkanlığı ve MİT Müsteşarlığınca müştereken tespit edilir.
+Subay ve astsubayların MİT'de görevlendirilmelerinde 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun 124 üncü maddesinde öngörülen Bakanlar Kurulu kararı almak şartı aranmaz.
+Genelkurmay Başkanlığınca usulüne göre MİT emrine verilen subay ve astsubayların teşkilat içinde görevlendirilmeleri, bölge değiştirmeleri, ihtisas ve ihtiyaca göre MİT'ce yapılır.
+(Değişik : 23/12/1988 - KHK - 351/15 md.) Türk Silahlı Kuvvetleri, kadrolarında olup, MİT'de görevlendirilen personelin her türlü istihkakları yürürlükteki mevzuat hükümlerine göre bağlı bulundukları bakanlık bütçesinden ödenir. Ancak, emsali MİT personeline (kadro karşılık gösterilmek suretiyle sözleşmeli çalışanlar dahil) net ödenen tüm istihkaklar toplamının, bunların tabi oldukları kanunlar gereğince aldıkları bütün ödemelerin net tutarından fazla olması halinde aradaki fark bu personele MİT bütçesinden tazminat olarak ve net ödenir.
