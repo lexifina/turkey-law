@@ -1,0 +1,3 @@
+İntibak
+GEÇİCİ MADDE 1 – (1) 23/3/2010 tarihinde uzman yardımcısı kadrosunda bulunanların, bu Yönetmelikte belirtilen süreler içinde; yeterlik sınavlarında yabancı dil aşamasında KPDS’den en az yetmiş puan veya buna denkliği yetkili makamlarca kabul edilen uluslararası geçerliliği olan yabancı dil bilgisi seviye tespit sınavlarından buna denk puan aldığına dair geçerlilik süresi dolmamış belgeyi ibraz etmeleri halinde uzmanlık yeterlik sınavının yabancı dil aşamasında başarılı sayılırlar.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihte tez konusu onaylanmış ve tez danışmanı belirlenmiş uzman yardımcılarının yeterlik sınavı süreci bu Yönetmelik hükümlerine göre yürütülür.

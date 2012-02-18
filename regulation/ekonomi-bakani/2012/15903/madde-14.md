@@ -1,0 +1,2 @@
+Yabancı dil
+MADDE 14 – (1) Tez savunması ve mülakat aşamasında başarılı olan uzman yardımcısı, KPDS’den en az seksen puan veya buna denkliği yetkili makamlarca kabul edilen uluslararası geçerliliği olan yabancı dil bilgisi seviye tespit sınavlarından buna denk puan aldığına dair geçerlilik süresi dolmamış belgeyi, tez savunması ve mülakat sonucunun ilanından itibaren en geç bir yıl içerisinde ibraz etmesi şartıyla yabancı dil aşamasında başarılı olmuş sayılır.

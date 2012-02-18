@@ -1,0 +1,5 @@
+Tezin yetersiz bulunması
+MADDE 13 – (1) Tezi yetersiz bulunan uzman yardımcısına bir hak daha tanınır. Uzman yardımcısı ikinci hakkını, başarısız olma gerekçesinin yer aldığı Kurul raporunu dikkate alarak düzeltmek suretiyle veya yeni bir tez konusunun belirlenmesini isteyerek kullanabilir. Uzman yardımcısı, tercih hakkını on beş gün içinde kullanarak durumu birim amiri aracılığıyla Personel Dairesi Başkanlığına yazılı olarak bildirir.
+(2) Uzman yardımcısı, tercih hakkını düzeltme yönünde kullanması halinde, Personel Dairesi Başkanlığına yaptığı yazılı bildirimden başlayarak üç ay içinde hazırlamış olduğu tezini düzeltir ve birim amiri aracılığıyla Personel Dairesi Başkanlığına teslim eder.
+(3) Uzman yardımcısının ikinci hakkını kendisine yeni bir tez konusu verilmesini isteyerek kullanması halinde tez konusunun kendisine tebliğinden itibaren altı aylık süre tanınır. Tez konusu ve danışman seçimi 8 inci maddede yer alan hükümlere tabidir.
+(4) İkinci hakkında da tezi yetersiz bulunan uzman yardımcısı hakkında 16 ncı madde hükümleri uygulanır.
