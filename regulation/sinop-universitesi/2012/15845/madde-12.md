@@ -1,0 +1,2 @@
+Müdür yardımcısı
+MADDE 12 – (1) Rektör, gerekli gördüğünde SÜSEM Müdürünün önereceği en fazla üç öğretim elemanı içerisinden en az bir veya iki adayı müdür yardımcısı olarak görevlendirebilir. Müdür yardımcısının görev süresi en fazla üç yıldır ve Müdürün görev süresine bağlıdır. Herhangi bir nedenle Müdür görevinden ayrıldığı takdirde müdür yardımcısı yeni atanan Müdürün isteği ve önerisi doğrultusunda Rektör tarafından değiştirilebilir. Müdürün herhangi bir nedenle görevde bulunmadığı zamanlarda müdür yardımcısı Müdüre vekâlet eder.

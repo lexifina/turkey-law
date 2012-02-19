@@ -1,0 +1,2 @@
+Müdürün yetki ve sorumlulukları
+MADDE 11 – (1) SÜSEM Müdürü, öncelikli olarak merkezi temsil eder ve merkezin çalışmalarını ve işleyişini düzenler. Yönetim Kurulunun aldığı kararları ve hazırladığı çalışma programını uygular. Yönetimi altındaki birimleri SÜSEM amaçları doğrultusunda yönetir. Her faaliyet yılı sonunda, SÜSEM faaliyetlerini kapsayan yıllık faaliyet raporunu düzenler ve Yönetim Kuruluna sunar. Merkezin çalışmaları ile ilgili raporları her yıl veya gerekli durumlarda Rektörlüğe sunar.

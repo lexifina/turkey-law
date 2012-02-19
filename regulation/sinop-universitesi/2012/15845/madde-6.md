@@ -1,0 +1,2 @@
+Çalışma alanı
+MADDE 6 – (1) SÜSEM amaçları doğrultusunda kamu, özel sektör, ulusal ve uluslararası kuruluş ve kişilere ihtiyaç duydukları alanlarda danışmanlık hizmetleri, eğitim-öğretim programları planlar; ulusal ve uluslararası düzeyde kurslar, sempozyumlar, seminerler, konferanslar ve benzeri faaliyetleri düzenler ve koordine eder. Ayrıca hayat boyu öğrenme süreçleri kapsamında çeşitli eğitim-öğretim programları, seminerler, konferanslar ve benzeri faaliyetler düzenler ve koordine eder.

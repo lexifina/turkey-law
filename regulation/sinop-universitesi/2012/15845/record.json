@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-01-30",
+      "30.01.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2012-02-19",
+      "RG-19/2/2012-28209",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-02-19",
+      "RG-19/2/2012-28209",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-02-19",
+      "RG-19/2/2012-28209",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-02-19",
+      "19/2/2012",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-19/2/2012-28209",
+  "first_law": null,
+  "gazette": "28189",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-02-19",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Sinop Üniversitesi",
+  "issuer_slug": "sinop-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sinop-universitesi/2012/15845",
+  "published": "2012-01-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15845&MevzuatTertip=5",
+  "source_bytes": 27921,
+  "source_id": "8.5.15845",
+  "source_sha256": "be4f1abf2fb8e539d1a05fdbca330d8f8a4965df21f1f9ff6a09f1e5aecfffc1",
+  "text_status": "current-consolidated",
+  "title": "SİNOP ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 312,
+  "word_count": 913
+}
