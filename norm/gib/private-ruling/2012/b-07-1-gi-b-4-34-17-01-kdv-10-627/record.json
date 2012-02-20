@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-20T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-20",
+  "official_number": "B.07.1.GİB.4.34.17.01-KDV.10-627",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21882",
+  "source_id": "ozelge:21882",
+  "source_row_sha256": "fe76f767bff681b2cfe7d6d27474cfff162ada8e8113c06c471bb348bf9c8713",
+  "title": "İflas ertelemesi talep eden kiracılardan tahsil edilemeyen kiralar ile ortak giderler için fatura düzenlenip düzenlenmeyeceği hk.",
+  "version_label": "as-enacted",
+  "word_count": 1678
+}
