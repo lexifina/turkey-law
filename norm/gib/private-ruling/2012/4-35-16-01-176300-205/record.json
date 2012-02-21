@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-21T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-21",
+  "official_number": ".4.35.16.01-176300-205",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27927",
+  "source_id": "ozelge:27927",
+  "source_row_sha256": "97b31605450403480746bcbf6ca39527b7ede94c93bdd18ba9fc509591f1cfb9",
+  "title": "Bankaya borçları nedeniyle icra yoluyla satışı yapılan taşınmazdan dolaya taşınmaz satış kazancı istisnasından yararlanıp yararlanamayacağı hk.",
+  "version_label": "as-enacted",
+  "word_count": 560
+}
