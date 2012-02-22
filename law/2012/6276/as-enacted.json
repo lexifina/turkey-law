@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6276",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Birleşmiş Milletler Kalkınma Programı Arasında Ortaklık Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-02-22",
+  "gazette_issue": "28212",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120222-2.htm",
+  "source_sha256": "57f5a830a288a83ff99c5cef5f4ee6a4ac787eeda24d2f8c408b1a128a1779a8",
+  "text_sha256": "bf2a0869fc2a6b5e7a0f36691522df4b92997430acc7599d6ab7ea486f1f71e3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/02/22/28212-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120222-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
