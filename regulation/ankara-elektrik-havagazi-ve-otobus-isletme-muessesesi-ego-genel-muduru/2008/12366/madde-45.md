@@ -1,0 +1,3 @@
+Rapor dosyası
+MADDE 45 – (1) Teftişe tabi Genel Müdürlük birimleri ile bağlı ortaklıklarda birer teftiş dosyası bulunur. Her Müfettişe ait rapor ve yazılar ayrı bir dosya gömleğine tarih sırasına göre konularak saklanır.
+(2) Teftiş dosyalarının düzenli tutulmasından ve korunmasından birimlerin Daire Başkanı, Amir, Müdür ve yetkilileri sorumludur. Teftiş dosyalarında, en az 5 yıllık teftiş raporları, lâyihaları ile bunlara ilişkin verilen emir ve talimatlar saklanır. Teftiş dosyalarını sorumluları yerine atanana devretmekle yükümlüdür. Yerine atanan veya vekilleri de görevlerini her devir alışta bu dosyaları önceki görevliden isteyip teslim almak ve alamadıkları takdirde durumu amirlerine bildirmekle yükümlüdür.
