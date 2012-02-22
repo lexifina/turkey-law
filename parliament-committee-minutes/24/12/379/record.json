@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "DİLEKÇE KOMİSYONU",
+  "committee_id": 12,
+  "meeting_date": "2012-02-22",
+  "meeting_date_as_published": "22/02/2012",
+  "agenda": [
+    "AKSAZ KÖYÜNÜN KALDIRILMASI VE KAMULAŞTIRILMASI ÇALIŞMALARI VE BURADAKİ KÖYLÜLÜNÜN DURUMUNA İLİŞKİN DEĞERLENDİRME",
+    "OYAK'LA İLGİLİ BAZI KONULARIN DEĞERLENDİRİLMESİNE İLİŞKİN ALT KOMİSYON RAPORU",
+    "BAŞKASINA AİT KAÇAK KULLANIM BEDELİNİN TÜKETİCİDEN HAKSIZ OLARAK ALINDIĞI, TALEBİ OLMAMASINA KARŞIN ELEKTRİK SAYAÇLARININ DEĞİŞTİRİLDİĞİ VE MALİYETİNİN HAKSIZ OLARAK TÜKETİCİYE YÜKLENDİĞİ İDDİASINI İÇEREN DİLEKÇELER",
+    "İSRAFIN ÖNLENMESİYLE İLGİLİ ALT KOMİSYON KURULMASI",
+    "DERSİM OLAYLARI KONULU ALT KOMİSYON KURULMASI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/379",
+  "pdf_sha256": "b82667fbd60dee707d84479dcc8dbe45f1316b3aa6eb84b149604c50237c91d2",
+  "pdf_pages": 52,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=12)",
+  "listing_sha256": "04d4555701b521facedf87bb4ea183fc9880295b33b8d3776787fcb4403f2c3d",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-02-22",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
