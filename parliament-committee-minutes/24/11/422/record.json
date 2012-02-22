@@ -1,0 +1,26 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "DIŞİŞLERİ KOMİSYONU",
+  "committee_id": 11,
+  "meeting_date": "2012-02-22",
+  "meeting_date_as_published": "22/02/2012",
+  "agenda": [
+    "ASYA'DA İŞBİRLİĞİ VE GÜVEN ARTIRICI ÖNLEMLER KONFERANSI YAZMANLIĞININ, PERSONELİNİN VE ÜYELERİN TEMSİLCİLERİNİN AYRICALIK VE BAĞIŞIKLIKLARINA İLİŞKİN SÖZLEŞMENİN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/555)",
+    "HOCALI KATLİAMIYLA İLGİLİ GÖRÜŞMELER",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE BELÇİKA FRANSIZ TOPLUMU HÜKÜMETİ, VALONYA HÜKÜMETİ VE BRÜKSEL-BAŞKENT BÖLGESİ FRANSIZ TOPLUMU KOMİSYONU HEYETİ ARASINDA KÜLTÜR, EĞİTİM VE BİLİMSEL ARAŞTIRMA ALANINDA İŞBİRLİĞİ ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞU HAKKINDA KANUN TASARISI (1/549)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE SİNGAPUR CUMHURİYETİ HÜKÜMETİ ARASINDA KÜLTÜR, BİLİM, EĞİTİM, BASIN-YAYIN VE SPOR ALANLARINDA İŞBİRLİĞİ ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/331)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ VE PAKİSTAN İSLAM CUMHURİYETİ HÜKÜMETİ ARASINDA EĞİTİM ALANINDA İŞBİRLİĞİNİN GÜÇLENDİRİLMESİNE İLİŞKİN MUTABAKAT ZAPTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/476)",
+    "TÜRKİYE CUMHURİYETİ MİLLÎ EĞİTİM BAKANLIĞI İLE CİBUTİ CUMHURİYETİ MİLLÎ EĞİTİM VE YÜKSEKÖĞRETİM BAKANLIĞI ARASINDA TEKNİK İŞBİRLİĞİ ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/343)",
+    "TÜRKİYE CUMHURİYETİ MİLLÎ EĞİTİM BAKANLIĞI İLE KOSOVA CUMHURİYETİ EĞİTİM, BİLİM VE TEKNOLOJİ BAKANLIĞI ARASINDA EĞİTİM ALANINDA İŞBİRLİĞİ PROTOKOLÜNÜN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/527)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/422",
+  "pdf_sha256": "ebb499c51f0ff0b204434cfbad0b63b3154dbc5f892e95a7867bbba7079b1f44",
+  "pdf_pages": 45,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=11)",
+  "listing_sha256": "efc563a4b8d46e4875ff97f17d46f82861739696a9966ad2a4657ae091dbe9bd",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-02-22",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
