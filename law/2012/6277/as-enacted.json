@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6277",
+  "year": 2012,
+  "title": "Nükleer Terörizmin Önlenmesine İlişkin Uluslararası Sözleşmenin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-02-22",
+  "gazette_issue": "28212",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120222-3.htm",
+  "source_sha256": "f97f20219edda8f8b4653bfa11880a3fdb3dab609c2c8240edf6786a46957556",
+  "text_sha256": "3b0b7e6ea8d373990d51c1fd9a6ce08c25ffd9cdac7b97a307503a86931c52f4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/02/22/28212-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120222-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
