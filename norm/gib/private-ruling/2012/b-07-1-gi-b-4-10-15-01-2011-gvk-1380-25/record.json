@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-22T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-22",
+  "official_number": "B.07.1.GİB.4.10.15.01-2011-GVK-1380-25",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23077",
+  "source_id": "ozelge:23077",
+  "source_row_sha256": "d9577f923fabf632e46122f4be077f66818d4074335c6ec0b5168932cfcf3af8",
+  "title": "Köy tüzel kişiliğinden alınan orman ürünleri için tevkifat yapılıp yapılmayacağı hk.",
+  "version_label": "as-enacted",
+  "word_count": 801
+}
