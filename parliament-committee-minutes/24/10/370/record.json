@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "ÇEVRE KOMİSYONU",
+  "committee_id": 10,
+  "meeting_date": "2012-02-23",
+  "meeting_date_as_published": "23/02/2012",
+  "agenda": [
+    "2004 GEMİ BALAST SUYU VE SEDİMANLARININ KONTROLÜ VE YÖNETİMİ HAKKINDA ULUSLARARASI SÖZLEŞMEYE KATILMAMIZIN UYGUN BULUNDUĞUNA DAİR KANUN TASARISI",
+    "BALİNACILIĞIN DÜZENLENMESİNE İLİŞKİN ULUSLARARASI SÖZLEŞME İLE PROTOKOLE KATILMAMIZIN UYGUN BULUNDUĞUNA DAİR KANUN TASARISI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/370",
+  "pdf_sha256": "2ebfe9229ea87239a466f3fb4320aef722dfdf046ece7380cbd221b7dad2e3a4",
+  "pdf_pages": 13,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=10)",
+  "listing_sha256": "d8827d9ba8d194196223b7bfe84cb760c5abb5977a4658755a89a239c560f5a8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-02-23",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
