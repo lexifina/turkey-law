@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "ANAYASA KOMİSYONU",
+  "committee_id": 8,
+  "meeting_date": "2012-02-23",
+  "meeting_date_as_published": "23/02/2012",
+  "agenda": [
+    "SEÇİMLERİN TEMEL HÜKÜMLERİ VE SEÇMEN KÜTÜKLERİ HAKKINDA KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN TASARISI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/367",
+  "pdf_sha256": "e973bb2fc78af6282275b43c6bbabea49b7cad30fb78e29e2614075e081ab324",
+  "pdf_pages": 26,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=8)",
+  "listing_sha256": "188d884f6925c241e1d135835ed9d5c80c3f1a32a4b2cd8d284a08e433bf7002",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-02-23",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
