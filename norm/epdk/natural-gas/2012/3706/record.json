@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3706",
+  "decision_date": "2012-02-23",
+  "title": "31/12/2010 tarih ve 27802 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 28/12/2010 tarihli ve 2970 sayılı Kurul Kararına, 02/06/2011 tarih ve 3236 sayılı Kurul Kararı ile eklenen 4 üncü maddenin revize edilmesine ilişkin",
+  "resmi_gazete_date": "2012-03-03",
+  "resmi_gazete_number": "28222",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DVTyfl/wpBc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DVTyfl/wpBc="
+  ],
+  "source_sha256": "f9d58cc0a420802a08767053b490ec293895642ea0b2d6f838f65d4d2a6f933f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-02-23",
+  "law_text_complete": false
+}
