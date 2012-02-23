@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-02-23",
+  "issue": "28213",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "2011/2588 “CE” İşareti Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120223-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120223.htm",
+  "index_sha256": "fee6e748543e0d67ffecf8f8e20404d5741933084086efcec8209dc840854ec5",
+  "index_header": "23 Şubat 2012 ... 28213 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
