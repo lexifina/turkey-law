@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3707",
+  "decision_date": "2012-02-23",
+  "title": "İnegöl Mobilya Ağaç İşleri İhtisas Organize Sanayi Bölgesi Tüzel Kişiliğinin 2012 yılı için uygulanmak üzere dağıtım bedeline ilişkin",
+  "resmi_gazete_date": "2012-03-03",
+  "resmi_gazete_number": "28222",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=88UHh1VQGvw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=88UHh1VQGvw="
+  ],
+  "source_sha256": "818d7198a5bf2b20a65d852ccb7932df12e00d76962ef88636d213b7434b1a75",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-02-23",
+  "law_text_complete": false
+}
