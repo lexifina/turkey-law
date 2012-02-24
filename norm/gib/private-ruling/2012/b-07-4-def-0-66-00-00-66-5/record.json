@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-24T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-24",
+  "official_number": "B.07.4.DEF.0.66.00.00-66-5",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31753",
+  "source_id": "ozelge:31753",
+  "source_row_sha256": "28fdcab60e0041f6555ff50699745aa82d3fd05da0494547847495e30926e6dc",
+  "title": "%50 si kuruma %50 si şahsa ait olan taşınmazın satışında KDV istisnası hk.",
+  "version_label": "as-enacted",
+  "word_count": 300
+}
