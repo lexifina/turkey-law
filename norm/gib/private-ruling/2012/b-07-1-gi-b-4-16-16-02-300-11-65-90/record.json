@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-02-24T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-02-24",
+  "official_number": "B.07.1.GİB.4.16.16.02-300.11.65-90",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21557",
+  "source_id": "ozelge:21557",
+  "source_row_sha256": "7b1124f3d68b5712459cc6b32b6f168df43aac6f086f986f7b9684f03b4bd513",
+  "title": "Öğrencilere verilen bursların gider yazılıp yazılamayacağı, ödenen KDV'nin indirim yapılıp yapılamayacağı hk.",
+  "version_label": "as-enacted",
+  "word_count": 672
+}
