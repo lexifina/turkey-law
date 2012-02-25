@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.27.15.01-10-515-153-10",
+  "source_id": 27395,
+  "date": "2012-02-25",
+  "title": "İlişkili kişilerle gerçekleştirilen kiralama işlemlerinde kar bölüşüm yönteminin kullanılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27395",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "5463e69313d8ab58f3dcefd73d5920e720953ad392eec38e8c8860556957d073",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
