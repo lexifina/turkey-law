@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6282",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Türkmenistan Hükûmeti Arasında Sağlık ve Tıp Endüstrisi Alanlarında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-02-27",
+  "gazette_issue": "28217",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120227-1.htm",
+  "source_sha256": "5c6045d7a3c604c9b0d6d1024bf37eb5bad7c0bb67383e5c504ccac55b720dc8",
+  "text_sha256": "6face0300f520cd8b7a8c7faba87f7e1ad3cdf94758f60a8e8908b2d69d040d8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/02/27/28217-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120227-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
