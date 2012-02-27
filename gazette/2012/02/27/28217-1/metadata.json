@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-02-27",
+  "issue": "28217",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "6282 Türkiye Cumhuriyeti Hükümeti ile Türkmenistan Hükümeti Arasında Sağlık ve Tıp Endüstrisi Alanlarında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120227-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120227.htm",
+  "index_sha256": "a4cb8c93aaa21c71935f346465b47e98a6efdc61f3707001297487ac4191bd92",
+  "index_header": "27 Şubat 2012 ... 28217 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
