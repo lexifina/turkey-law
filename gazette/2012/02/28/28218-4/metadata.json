@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-02-28",
+  "issue": "28218",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Diyanet İşleri Başkanlığı Yayın Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120228-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120228.htm",
+  "index_sha256": "eee5bc0037f00ef537cbdac7e91e0759757c31525d93fa6a0904534a9325bf69",
+  "index_header": "28 Şubat 2012 ... 28218 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
