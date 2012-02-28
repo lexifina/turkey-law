@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.15921",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 41)",
+  "number": "15921",
+  "path": "teblig/2012/15921",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15921&MevzuatTertip=5",
+  "source_sha256": "9d2267f40157713adbaabca816fd8f9f1c3b23d9a018d39bf92bcfedd94a36d6",
+  "source_bytes": 16717,
+  "published": "2012-02-28",
+  "gazette": "28218",
+  "in_force": "2012-02-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.02.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 772,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15921-ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
