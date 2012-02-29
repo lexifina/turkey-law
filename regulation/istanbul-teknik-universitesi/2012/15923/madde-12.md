@@ -1,0 +1,2 @@
+Merkez danışma kurulu ve görevleri
+MADDE 12 – (1) Merkez Danışma Kurulu; Merkez Müdürü başkanlığında, Üniversite içinden ve istekleri halinde dışından Mardin ilinde bulunan konuyla ilgili kamu kurumları ve sivil toplum kuruluşlarının temsilcileri arasından Merkez Yönetim Kurulu tarafından önerilen ve Rektör tarafından uygun görülen onbeş üyeden oluşur. Merkez Danışma Kurulu; yılda en az bir kez Merkez Müdürünün daveti ile toplanarak, Merkezin çalışmalarına giren konularda görüşlerini açıklayıp, tartışılmasını sağlar ve yeni çalışma konuları üzerinde görüş bildirir.

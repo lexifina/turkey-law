@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-02-29",
+      "29.02.2012",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28219",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-02-29",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/2012/15923",
+  "published": "2012-02-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15923&MevzuatTertip=5",
+  "source_bytes": 22070,
+  "source_id": "8.5.15923",
+  "source_sha256": "1fa276591785a94dbe62fb431a937be75cb8b468d653bf296e88e4d1b5c6fb0f",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ MARDİN UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 888
+}

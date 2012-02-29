@@ -1,0 +1,2 @@
+Merkez yönetim kurulunun görevleri
+MADDE 11 – (1) Merkez Yönetim Kurulu, Merkez Müdürünün başkanlığında ayda en az bir defa toplanarak Merkezin etkinlikleri ve yönetimiyle ilgili konuları görüşüp karara bağlar. Merkez Yönetim Kurulu; Merkez Müdürünün her faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit eder, Merkezin teknik ve idari kadrolarının tespiti ve tayini ile ilgili konularda Merkez Müdürünün hazırlamış olduğu önerileri inceler ve görevlendirme yetkilisine öneride bulunur.
