@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6281",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Kore Cumhuriyeti Hükûmeti Arasında Gümrük Konularında İşbirliği ve Karşılıklı Yardım Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-02-29",
+  "gazette_issue": "28219",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120229-3.htm",
+  "source_sha256": "1c8f83bd8f869fae68122637fcba46f3960f85af534e79fb9614900aa4ca8658",
+  "text_sha256": "89b1ec8898193bcc4a124e51d5c2ce03659a8fbf8b3da32333a92275a01bcbc8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/02/29/28219-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120229-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
