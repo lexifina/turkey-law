@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6280",
+  "year": 2012,
+  "title": "İslam Konferansı Örgütü Şartının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-02-29",
+  "gazette_issue": "28219",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120229-2.htm",
+  "source_sha256": "a21d4c8e20937dd4688b51aa17006a0ae9443ac64af150233554d98f2d4583c7",
+  "text_sha256": "6db44e655d870dc11fab0a4381e007fbc27a2b74f555f14700f83230716bb21c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/02/29/28219-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/02/20120229-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
