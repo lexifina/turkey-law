@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KADIN ERKEK FIRSAT EŞİTLİĞİ KOMİSYONU",
+  "committee_id": 865,
+  "meeting_date": "2012-03-01",
+  "meeting_date_as_published": "01/03/2012",
+  "agenda": [
+    "AİLENİN KORUNMASI VE KADINA KARŞI ŞİDDETİN ÖNLENMESİNE DAİR KANUN TASARISI (1/572)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/513",
+  "pdf_sha256": "37cd832378ee65fba02200374ebf37af32e23ed9e0439ea238cde1da999d4508",
+  "pdf_pages": 47,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=865)",
+  "listing_sha256": "b1d20ec46dbf18ae37b5c6764209e927d968ee7d16bcdcc8fcf22ca66d006a27",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-03-01",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
