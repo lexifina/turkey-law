@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "3717/10",
+  "decision_date": "2012-03-01",
+  "title": "Akpet Akaryakıt Dağıtım Anonim Şirketi tarife",
+  "resmi_gazete_date": "2012-03-13",
+  "resmi_gazete_number": "28232",
+  "categories": [
+    "Petrol Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=G5CGOc41SVQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=G5CGOc41SVQ="
+  ],
+  "source_sha256": "c3145e8c6b7928537a9bfc41de0454a07b0339735475b6593e2b91762cfac431",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14725,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-03-01",
+  "law_text_complete": false
+}
