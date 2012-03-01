@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3714",
+  "decision_date": "2012-03-01",
+  "title": "13/05/2011 tarih ve 27933 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 28/04/2011 tarih ve 3194 sayılı Kurul Kararının 26/01/2012 tarih ve 3665 sayılı Karar ile değişik 1 inci maddesindeki “228.051.000.- (ikiyüzyirmisekizmilyonellibirbin) TL” rakamı “224.744.000.- (ikiyüzyirmidörtmilyonyediyüzkırkdörtbin) TL” olarak değiştirilmiştir.",
+  "resmi_gazete_date": "2012-03-10",
+  "resmi_gazete_number": "28229",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0rCC75Yqfvs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0rCC75Yqfvs="
+  ],
+  "source_sha256": "5c745c30d9da83630abfec0fb750a6bf6649cb32593854ef5c1a122946edd427",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-03-01",
+  "law_text_complete": false
+}
