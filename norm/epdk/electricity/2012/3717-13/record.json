@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3717/13",
+  "decision_date": "2012-03-01",
+  "title": "TRT Payına ilişkin",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uV1m/sEaiQ4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uV1m/sEaiQ4="
+  ],
+  "source_sha256": "98bde9232de730917f66f7fb3dc27c039bc48f731117a6f3ef64b9fefc056790",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-03-01",
+  "law_text_complete": false
+}
