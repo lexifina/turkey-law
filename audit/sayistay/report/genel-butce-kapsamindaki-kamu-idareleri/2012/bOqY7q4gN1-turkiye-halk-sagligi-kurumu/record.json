@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "TÜRKİYE HALK SAĞLIĞI KURUMU",
+  "category": "Genel Bütçe Kapsamındaki Kamu İdareleri",
+  "category_id": "6-genel-butce-kapsamindaki-kamu-idareleri",
+  "report_year": 2012,
+  "report_date": "2012-03-01",
+  "date_precision": "month",
+  "date_as_printed": "Mart 2012",
+  "source": "https://www.sayistay.gov.tr/reports/bOqY7q4gN1-turkiye-halk-sagligi-kurumu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/bOqY7q4gN1-turkiye-halk-sagligi-kurumu",
+  "source_sha256": "e10470fd2555e1192cbb3c34e1aa22be868bd983083381dfe7d7c48818989c3b",
+  "pdf_pages": 10,
+  "listing": "https://www.sayistay.gov.tr/reports/category/6-genel-butce-kapsamindaki-kamu-idareleri?page=56",
+  "listing_sha256": "9db0a54efd9c63defc26b6d6fca708116aed75b61cda6041f7bec66b20d3a3fd",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2012-03-01",
+  "in_force_basis": "Official report PDF cover: \"Mart 2012\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
