@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-03-02T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-03-02",
+  "official_number": "B.07.1.GİB.4.07.16.02-KDV.ÖZG.2011.188-151",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29518",
+  "source_id": "ozelge:29518",
+  "source_row_sha256": "e0b8aa26880c72593b6b21e672d43d78d1b4bcff5ba8209662e4049b502c4fc2",
+  "title": "Birliğin gayrimenkul satışında KDV hk.",
+  "version_label": "as-enacted",
+  "word_count": 306
+}
