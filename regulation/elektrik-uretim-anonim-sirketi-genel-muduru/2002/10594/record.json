@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.10594",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRİK ÜRETİM ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ SÖZLEŞMELİ PERSONEL SİCİL VE BAŞARI DEĞERLEMESİ YÖNETMELİĞİ",
+  "number": "10594",
+  "issuer": "Elektrik Üretim Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "elektrik-uretim-anonim-sirketi-genel-muduru",
+  "path": "regulation/elektrik-uretim-anonim-sirketi-genel-muduru/2002/10594",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10594&MevzuatTertip=5",
+  "source_sha256": "43a5ceb12b6b0ffb3f946a9c4f104e778004e423b32936b71c3f862f50a25c2d",
+  "source_bytes": 52535,
+  "published": "2002-11-13",
+  "gazette": "24935",
+  "in_force": "2012-03-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/3/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-03-04",
+      "RG-4/3/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 618,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
