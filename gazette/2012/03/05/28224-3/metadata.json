@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-03-05",
+  "issue": "28224",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Gemi Acenteleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120305-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120305.htm",
+  "index_sha256": "8511d904271e6c75ce6cc5b7373c791605dec7f0e74878878a0941493efd7957",
+  "index_header": "5 Mart 2012 ... 28224 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
