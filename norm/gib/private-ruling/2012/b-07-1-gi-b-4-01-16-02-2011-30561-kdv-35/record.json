@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-03-06T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-03-06",
+  "official_number": "B.07.1.GİB.4.01.16.02-2011-30561-KDV-35",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31747",
+  "source_id": "ozelge:31747",
+  "source_row_sha256": "1cef60209f7a89e298ab726451e5500ed4f75a0baca9391a5164ab3dd6fd5175",
+  "title": "Kollektif şirket aktifinde kayıtlı gayrimenkullerin satışında KDV istisnası olup olmadığı hk.",
+  "version_label": "as-enacted",
+  "word_count": 325
+}
