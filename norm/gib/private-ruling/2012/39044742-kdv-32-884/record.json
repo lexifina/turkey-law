@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-03-06T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-03-06",
+  "official_number": "39044742-KDV.32-884",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33480",
+  "source_id": "ozelge:33480",
+  "source_row_sha256": "39bac84a1f3e741fb13d0bebf9b273ad5ae310251a74747b81a4949b62706ba6",
+  "title": "Müşteri çekleriyle yapılan ödemenin müteselsil sorumluluğu ortadan kaldırıp kaldırmayacağı.",
+  "version_label": "as-enacted",
+  "word_count": 281
+}
