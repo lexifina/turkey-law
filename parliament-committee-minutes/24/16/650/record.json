@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "MİLLİ EĞİTİM, KÜLTÜR, GENÇLİK VE SPOR KOMİSYONU",
+  "committee_id": 16,
+  "meeting_date": "2012-03-07",
+  "meeting_date_as_published": "07/03/2012",
+  "agenda": [
+    "İLKÖĞRETİM VE EĞİTİM KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN TEKLİFİ (2/358) (DEVAM)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/650",
+  "pdf_sha256": "e3940081781ed2139e55c27d670f5b984bd2be5c3f89864fd38ebd85af9e5766",
+  "pdf_pages": 156,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=16)",
+  "listing_sha256": "e78bdccab7d13537dd0caa9b3543d1ffd65f9482738d73cb9dcdbcf2c991dda8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-03-07",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
