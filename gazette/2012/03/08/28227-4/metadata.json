@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-03-08",
+  "issue": "28227",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2012/2731 Erzincan Üniversitesi Rektörlüğüne Bağlı Olarak Beden Eğitimi ve Spor Yüksekokulu Kurulması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120308-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120308.htm",
+  "index_sha256": "4ecc9aff664e7e80e3ec9a42f70393dc4c74caa2af30c38beccc57673a1dc82b",
+  "index_header": "8 Mart 2012 ... 28227 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
