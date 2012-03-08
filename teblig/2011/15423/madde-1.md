@@ -1,0 +1,1 @@
+MADDE 1 – (1) Merkezi Ankara'da olmak ve sekretarya hizmetleri Orta Anadolu İhracatçı Birlikleri Genel Sekreterliği tarafından yürütülmek üzere, (Değişik ibare:RG-8/3/2012-28227) Savunma ve Havacılık Sanayi İhracatçıları Birliği kurulmuştur.
