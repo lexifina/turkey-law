@@ -1,0 +1,38 @@
+{
+  "source_id": "9.5.10100",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRANO: 303 )",
+  "number": "10100",
+  "path": "teblig/2006/10100",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10100&MevzuatTertip=5",
+  "source_sha256": "b6d6cbf5779e10f676e3dd0c810c537f7d47e94796014715ed8ab43960aedfba",
+  "source_bytes": 15909,
+  "published": "2006-04-09",
+  "gazette": "26134",
+  "in_force": "2012-03-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/3/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-03-09",
+      "RG-9/3/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-09-12",
+      "RG-12/9/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 539,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
