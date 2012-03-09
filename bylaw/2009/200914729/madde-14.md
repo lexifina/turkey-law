@@ -1,0 +1,3 @@
+Evlât edinme işleminin tamamlanması ve nüfusa kayıt
+MADDE 14 – (1) 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununun 29 uncu maddesi hükmü gereğince evlât edinme kararı mahkeme tarafından on gün içinde o yerin Nüfus Müdürlüğüne bildirilir. Evlât edinme olayı aile kütüklerine tescil edilir ve evlât edinilenin kaydı evlât edinenin aile kütüğüne taşınır.
+(2) İl Müdürlüğü, Kimlik Paylaşımı Sisteminden veya nüfus idaresinden temin edeceği nüfus olayı kayıt örneğini evlât edinme dosyasına koyar ve evlât edinme işleminin tamamlanmasına ilişkin belgeyi en geç bir ay içerisinde Kuruma gönderir.

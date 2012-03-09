@@ -1,0 +1,5 @@
+Evlât edinme kararı ve küçüğün geri alınması
+MADDE 13 – (1) İzleme süresi sonunda düzenlenen sosyal inceleme raporuna dayalı olarak veya itiraz üzerine komisyon tarafından karar verilerek evlât edinme talepleri uygun görülenlere, sonuç ve evlât edinme kararı alınması için mahkemeye başvurmaları gerektiği hususu İl Müdürlüğünce yazılı olarak bildirilir.
+(2) İzleme süresi sonunda düzenlenen sosyal inceleme raporuna göre evlât edinmeleri uygun görülmeyenlerin talepleri reddedilir. Ret kararına yazılı bildirim tarihinden itibaren onbeş gün içinde İl Müdürlüğü nezdinde itiraz edilebilir. İtiraz komisyon tarafından görüşülerek en geç bir ay içinde kesin olarak karara bağlanır. Komisyonca evlât edineceklerin uygun bulunmamaları durumunda küçük geri alınır.
+(3) Geçerli bir mazeret olmaksızın yazılı bildirim tarihinden itibaren iki ay içerisinde evlât edinme kararı almak üzere mahkemeye başvurulmaması halinde, İl Müdürlüğünce küçüğün geri alınmasına karar verilir.
+(4) Geçici bakım sözleşmesi süresi içerisinde, ebeveynlik sorumluluğunun yerine getirilmediğinin sosyal inceleme raporuyla saptanması durumunda, sürenin dolması beklenmeksizin de küçük geri alınabilir.
