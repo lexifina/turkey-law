@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, Kişisel Koruyucu Donanım Yönetmeliği'nde yer alan ve piyasaya arz edilen kişisel koruyucu donanım ürünlerinin belirtilen yönetmeliğe uygunluğunun ve güvenilirliğinin piyasa gözetimi ve denetimini gerçekleştirmek üzere Bakanlık tarafından görevlendirilecek denetim elemanlarının seçilmesine esas alınacak kriterleri, eğitimi ve denetimde ibraz edilecek kimlik belgesi, görevlendirme ve yetki belgesini kapsar.
