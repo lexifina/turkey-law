@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-03-10T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-03-10",
+  "official_number": "B.07.1.GİB.4.41.15.01-KDV-2011/42-63",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32892",
+  "source_id": "ozelge:32892",
+  "source_row_sha256": "bee9cd8e913bb41e43229acc9453df451237631be41972704961136d771504c1",
+  "title": "Kordela ithalinde KDV oranı hk.",
+  "version_label": "as-enacted",
+  "word_count": 287
+}
