@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-03-11",
+      "11.03.2012",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28230",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-03-11",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dicle Üniversitesi",
+  "issuer_slug": "dicle-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dicle-universitesi/2012/15949",
+  "published": "2012-03-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15949&MevzuatTertip=5",
+  "source_bytes": 27797,
+  "source_id": "8.5.15949",
+  "source_sha256": "242a9c6d47db1ed079f202788134c644e43919b28e1421cb61bfb984c89b8d29",
+  "text_status": "as-enacted",
+  "title": "DİCLE ÜNİVERSİTESİ YENİLENEBİLİR ENERJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 188,
+  "word_count": 1234
+}
