@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-03-11",
+  "issue": "28230",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2012/2795 Türkiye Cumhuriyeti ile İsveç Krallığı Arasında 30 Haziran 1978 Tarihinde İmzalanan Sosyal Güvenlik Sözleşmesini Değiştiren Ek Sözleşme’nin Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120311-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120311.htm",
+  "index_sha256": "6df9c44d3193c87e20a5c1aa346e5471b0b2b72fd80d6e19b3b452990a4978c0",
+  "index_header": "11 Mart 2012 ... 28230 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
