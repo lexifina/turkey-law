@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-03-11",
+      "11.03.2012",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28230",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-03-11",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kahramanmaraş Sütçü İmam Üniversitesi",
+  "issuer_slug": "kahramanmaras-sutcu-imam-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kahramanmaras-sutcu-imam-universitesi/2012/15950",
+  "published": "2012-03-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15950&MevzuatTertip=5",
+  "source_bytes": 30741,
+  "source_id": "8.5.15950",
+  "source_sha256": "0ddcc7c9f83a92d6f04e4cafeb7121ec3b7f2b8e3fb886a213c277f1448c277c",
+  "text_status": "as-enacted",
+  "title": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 205,
+  "word_count": 1345
+}
