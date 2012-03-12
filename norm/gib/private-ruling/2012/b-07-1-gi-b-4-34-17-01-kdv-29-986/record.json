@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-03-12T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-03-12",
+  "official_number": "B.07.1.GİB.4.34.17.01-KDV.29-986",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33336",
+  "source_id": "ozelge:33336",
+  "source_row_sha256": "7c819c0be1139e3dcf697694629132a2a9fa0fa196189f6ff3135f2ae2f36213",
+  "title": "İnşaat taahhüt işlerinde indirim ve iadenin konutların teslimi ile mi yoksa kesin yada geçici kabul ile mi gerçekleştirilebileceği hk.",
+  "version_label": "as-enacted",
+  "word_count": 341
+}
