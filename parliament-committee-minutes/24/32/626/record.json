@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "SAĞLIK, AİLE, ÇALIŞMA VE SOSYAL İŞLER KOMİSYONU",
+  "committee_id": 32,
+  "meeting_date": "2012-03-13",
+  "meeting_date_as_published": "13/03/2012",
+  "agenda": [
+    "TOPLU İŞ İLİŞKİLERİ KANUNU TASARISI (1/567) (DEVAM)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/626",
+  "pdf_sha256": "5c181b53bd8298e1a6391b938f1f9c164dfe3020de85774c2adbdaad434bcc74",
+  "pdf_pages": 32,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=32)",
+  "listing_sha256": "bb84b1afc24f96bf3cd385abbec0db83d01b8afffe1071b2d582f57b02a7e1cf",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-03-13",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
