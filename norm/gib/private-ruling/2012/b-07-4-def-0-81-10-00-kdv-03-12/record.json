@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-03-13T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-03-13",
+  "official_number": "B.07.4.DEF.0.81.10.00-KDV-03-12",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29507",
+  "source_id": "ozelge:29507",
+  "source_row_sha256": "aa0f0b115f7e4345096a397324e2124630eb8d0719d0fbcf34446479a3851173",
+  "title": "SMS (mesaj) Hizmetinde KDV Oranı hk.",
+  "version_label": "as-enacted",
+  "word_count": 311
+}
