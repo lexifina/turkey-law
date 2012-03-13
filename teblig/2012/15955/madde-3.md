@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun ile bu Kanun uyarınca, 16/12/2011 tarihli ve 2011/2621 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Uygunluk Değerlendirme Kuruluşları ve Onaylanmış Kuruluşlar Yönetmeliği ile 8/9/2002 tarihli ve 24870 sayılı Resmî Gazete’de yayımlanan Yapı Malzemeleri Yönetmeliğine dayanılarak hazırlanmıştır.
