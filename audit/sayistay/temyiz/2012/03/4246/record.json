@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "34560",
+  "decision_date": "2012-03-13",
+  "source_id": 4246,
+  "chamber": "2",
+  "file_number": "33245",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4246/",
+  "source_sha256": "99c64ad4c7bc4a621bf88d53e4eb05d00ae9832a7058fdce7e56f784905b37ca",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
