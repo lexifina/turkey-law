@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-03-15T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-03-15",
+  "official_number": "B.07.1.GİB.4.06.18.02-105-[MÜK.257- 8206]-376",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/23417",
+  "source_id": "ozelge:23417",
+  "source_row_sha256": "975cc14a3383ac1eeeb65477954dfad8e320120269df9f2f0b08e6468ec76b9e",
+  "title": "Site Yönetimi tarafından yapılan ödemeler için muhtasar beyanname verilip verilmeyeceği ve beyanname gönderirken şifreye gerek olup olmadığı hk.",
+  "version_label": "as-enacted",
+  "word_count": 1238
+}
