@@ -1,0 +1,2 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Müdür, Müdürün önerisi üzerine Rektörün onaylayacağı Üniversite öğretim elemanları arasından seçilen sosyal bilimler alan temsilcisi, fen bilimleri alan temsilcisi, sağlık bilimleri alan temsilcisi, eğitim bilimleri alan temsilcisi, meslek yüksekokulları temsilcisi ile Üniversitenin Bilgi İşlem Daire Başkanı, Radyo-Televizyon Uygulama ve Araştırma Merkezi Müdürü, Enformatik Bölüm Başkanı, Bilgisayar Mühendisliği Bölüm Başkanı ve Bilgisayarlı Öğretim Teknolojileri Eğitimi Bölüm Başkanından oluşur.
