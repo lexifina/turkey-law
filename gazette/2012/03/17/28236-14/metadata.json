@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-03-17",
+  "issue": "28236",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 9/2/2012 Tarihli ve 2012/32 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120317-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120317.htm",
+  "index_sha256": "0e6b906d0c79eb3ac355527cd5287fef731cf2395b74a76056b04125fa70c9e3",
+  "index_header": "17 Mart 2012 ... 28236 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
