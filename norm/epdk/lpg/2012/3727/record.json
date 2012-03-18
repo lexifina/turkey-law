@@ -1,0 +1,34 @@
+{
+  "title": "Sıvılaştırılmış Petrol Gazları (LPG) Piyasasında Lisans Başvurusu ve Bildirim Açıklamaları'na ilişkin (İlk Hali)",
+  "number": "3727",
+  "decision_date": "08.03.2012",
+  "gazette_date": "18.03.2012",
+  "gazette_number": "28237",
+  "in_force": "2012-03-18",
+  "in_force_basis": "MADDE 14 – (1) Bu Karar yayımı tarihinde yürürlüğe girer.; official listing RgDate=18.03.2012",
+  "text_status": "as-enacted",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vaAKDFABa%2Bg%3D",
+  "source_sha256": "b56a442f71dff0196dcc5097eb48256cdf1afb4474f7ac7c10886b8983a2fcda",
+  "category": "Lisans Başvuruları",
+  "repeal_note": "",
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "coverage_status": "annex-pending",
+  "missing_annexes": [
+    {
+      "title": "Ek-1",
+      "official_url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vaAKDFABa%2Bg%3D",
+      "source_reference": "MADDE 11(2)",
+      "status": "pending",
+      "reason": "Required annex/form referenced by the official text is not included in the available decision-text document; separate official content remains pending"
+    },
+    {
+      "title": "Ek-2",
+      "official_url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vaAKDFABa%2Bg%3D",
+      "source_reference": "MADDE 11(3)",
+      "status": "pending",
+      "reason": "Required annex/form referenced by the official text is not included in the available decision-text document; separate official content remains pending"
+    }
+  ]
+}
