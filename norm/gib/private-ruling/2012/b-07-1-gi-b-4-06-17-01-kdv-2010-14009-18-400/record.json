@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-03-19T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-03-19",
+  "official_number": "B.07.1.GİB.4.06.17.01-KDV-2010-14009-18-400",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30629",
+  "source_id": "ozelge:30629",
+  "source_row_sha256": "e813a05e21aea677705edfd42ecaa2334cd064ed47451df8ff5bf1ae7db04e7b",
+  "title": "Belediye çalışanlarının kendi imkanları ile yemek yapmak et alımında KDV tevkifatı uygulanıp uygulanmayacağı hk.",
+  "version_label": "as-enacted",
+  "word_count": 296
+}
