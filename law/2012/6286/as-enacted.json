@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6286",
+  "year": 2012,
+  "title": "Türkiye ile Ukrayna Arasında Uluslararası Doğrudan Yük Demiryolu-Feribot Hizmetinin Organizasyonu Konusunda Türkiye Cumhuriyeti Hükûmeti ile Ukrayna Bakanlar Kurulu Arasında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-03-20",
+  "gazette_issue": "28239",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120320-18.htm",
+  "source_sha256": "5788ca3ae5400f21bbde0247315eed8972bdbb79432bab99c96d564cdd48ac04",
+  "text_sha256": "bea6120ad2523e3190eeae1ef6c20abc248b0fcad8a16291623e32b2eee809d3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/03/20/28239-18",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120320-18.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
