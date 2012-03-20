@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KADIN ERKEK FIRSAT EŞİTLİĞİ KOMİSYONU",
+  "committee_id": 865,
+  "meeting_date": "2012-03-20",
+  "meeting_date_as_published": "20/03/2012",
+  "agenda": [
+    "\"DAHA EŞİT BİR TOPLUM İÇİN ULUSAL TOPLUMSAL CİNSİYET EŞİTLİĞİ MEKANİZMALARININ ROLÜ, ULUSLARARASI BULUŞMASI, BİLGİ PAYLAŞIMI\" KONUSUNUN GÜNDEME ALINMASI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/514",
+  "pdf_sha256": "d9add5aa567f8b0b7c2839621cb9289cf39e6abadd30e5840906e1da6598ff11",
+  "pdf_pages": 19,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=865)",
+  "listing_sha256": "b1d20ec46dbf18ae37b5c6764209e927d968ee7d16bcdcc8fcf22ca66d006a27",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-03-20",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
