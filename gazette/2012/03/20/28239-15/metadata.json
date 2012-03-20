@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-03-20",
+  "issue": "28239",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 15/3/2012 Tarihli ve 4641 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120320-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120320.htm",
+  "index_sha256": "4cf962ab17812b76f03ba60d7bf1e8b79a7ee76288a4190a08b7fa4fae37a26f",
+  "index_header": "20 Mart 2012 ... 28239 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
