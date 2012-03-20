@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6285",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Polonya Cumhuriyeti Hükûmeti Arasında Bilimsel ve Teknolojik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-03-20",
+  "gazette_issue": "28239",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120320-17.htm",
+  "source_sha256": "b69bce8ed572d1e495d30f6577adb448581cb6034055a56c21956e6ffad7339c",
+  "text_sha256": "756c81dfb8f48f701191357a1a6d1b1ea2aedd987cac4dec8188e31ae825fe11",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/03/20/28239-17",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/03/20120320-17.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
