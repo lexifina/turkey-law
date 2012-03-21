@@ -1,0 +1,2 @@
+Esas soruşturmada tespit edilen damping marjı
+MADDE 20 – (1) Mevcut dampinge karşı önlemin hukuki ve idari altyapısını teşkil eden önceki damping soruşturması esnasında ÇHC için tespit edilen damping marjı, ÇHC’nin önlemin kalkması halinde muhtemel davranışını yansıtması bakımından önemli bir gösterge niteliği taşımaktadır. Buna göre, 2006 yılında sona eren esas damping soruşturmasında, işbirliğine gelen firmalar için CIF bedelin %38,64 ile %43,19 arasında değişen oranlarda, diğer firmalar için CIF bedelin %92,63 oranında damping marjı hesaplanmıştır.

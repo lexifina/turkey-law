@@ -1,0 +1,4 @@
+Önlem konusu ürün ithalatının fiyatlarının gelişimi
+MADDE 12 – (1) Önlem konusu klimaların Türkiye genel ithalatının birim fiyatı, 2008 yılında 5,86 ABD Doları/Kg iken sonraki yıl artış eğilimi göstermiş ve 2009 yılında 7,13 ABD Doları/Kg olarak gerçekleşmiştir. 2010 yılına bakıldığında ise birim fiyatların tekrar düşerek 6,62 ABD Doları/Kg seviyesine gerilediği görülmektedir.
+(2) ÇHC’den yapılan klima ithalatının birim fiyatlarına bakıldığı zaman ise son üç yılda birim fiyatların ÇHC ithalat miktarının yüksekliğiyle ters orantılı olarak değiştiği görülmektedir. Buna göre 2008 yılında kilogram başına 4,85 ABD Doları olan birim fiyatın, 2009 yılında 5,48 ABD Doları/Kg’a çıktığı, 2010 yılında ise 5,32 ABD Doları/Kg’a gerilediği tespit edilmiştir.
+(3) Diğer ülkelerden yapılan ithalatın birim fiyatları ise 2008 yılında 6,82 ABD Doları/Kg iken sonraki iki yılda artarak 2009’da 8,56 ABD Doları/Kg’a, 2010 yılında ise 9,26 ABD Doları/Kg’a çıkmıştır.

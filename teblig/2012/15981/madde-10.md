@@ -1,0 +1,4 @@
+Maddenin önleme tabi ülkeden ithalatı
+MADDE 10 – (1) ÇHC menşeli önleme tabi ürün ithalatının toplam ithalat içindeki payı ve birim fiyatları incelenmiştir. Buna göre, 2008 yılında 13.616 ton olarak gerçekleşen ithalatın, 2009’da 4.850 tona düştüğü, 2010’da ise 8.901 tona çıktığı tespit edilmiştir.
+(2) Öte yandan, maddenin önleme tabi diğer ülkelerden ithalatına bakıldığında, 2010 yılında Vietnam, Malezya ve Endonezya’dan ithalatın halen devam ettiği, Pakistan ve Filipinler’den gelen ithalatın ise kesildiği tespit edilmiştir.
+(3) Split klimaların iç ve dış ünitelerinin gözden geçirme döneminde ayrı ayrı getirildiği 8415.90.00.90.00 GTİP’ine ait istatistiklere bakıldığında ÇHC’nin 2008 ve 2009 yıllarında yaklaşık %29’luk ithalat payıyla birinci olduğu, 2010 yılında ise %15’lik payı ile Romanya’nın ardından ikinci sırada olduğu tespit edilmiştir.
