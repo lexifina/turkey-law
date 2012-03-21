@@ -1,0 +1,23 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "DIŞİŞLERİ KOMİSYONU",
+  "committee_id": 11,
+  "meeting_date": "2012-03-21",
+  "meeting_date_as_published": "21/03/2012",
+  "agenda": [
+    "GÜNEYDOĞU ASYA'DA DOSTLUK VE İŞBİRLİĞİ ANLAŞMASINI DEĞİŞTİREN ÜÇÜNCÜ PROTOKOLÜN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/590)",
+    "TÜRKİYE CUMHURİYETİ HÜKÛMETİ İLE LÜBNAN CUMHURİYETİ HÜKÛMETİ ARASINDA GENÇLİK VE SPOR ALANINDA İŞBİRLİĞİ PROGRAMININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/362)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE SUUDİ ARABİSTAN KRALLIĞI HÜKÜMETİ ARASINDA GENÇLİK VE SPOR ALANINDA İŞBİRLİĞİ ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/348)",
+    "TÜRKİYE CUMHURİYETİ İLE TUNUS CUMHURİYETİ ARASINDA DOSTLUK VE İŞBİRLİĞİ ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/573)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/421",
+  "pdf_sha256": "2211cd99f7714ea11f0d2744a3f84204bce111eecb24a8434553b085ef9f4429",
+  "pdf_pages": 25,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=11)",
+  "listing_sha256": "efc563a4b8d46e4875ff97f17d46f82861739696a9966ad2a4657ae091dbe9bd",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-03-21",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
