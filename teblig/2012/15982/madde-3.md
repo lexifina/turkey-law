@@ -1,0 +1,2 @@
+Gözden geçirme dönemi
+MADDE 3- (1) Soruşturmaya konu önlemlerin uygulanmaya başlamasından sonra yerli üretim dalındaki zarar koşullarının incelenmesi için 1/1/2011 ile 30/6/2011 tarihleri arasındaki dönem gözden geçirme dönemi olarak belirlenmiştir. Bununla beraber, yerli üretim dalının ekonomik göstergelerinin gelişiminin izlenebilmesi amacıyla 2008 ile 2011 yılının ilk yarısı arasındaki dönem karşılaştırmalı olarak incelenmiştir.

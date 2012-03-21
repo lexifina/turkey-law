@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Tebliğ; 14/6/1989 tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun (Kanun), 20/10/1999 tarihli ve 99/13482 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar (Karar) ve 30/10/1999 tarihli ve 23861 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik (Yönetmelik) hükümleri çerçevesinde zarara ilişkin olarak yürütülen ara gözden geçirme soruşturmasının sonuçlarını içermektedir.
