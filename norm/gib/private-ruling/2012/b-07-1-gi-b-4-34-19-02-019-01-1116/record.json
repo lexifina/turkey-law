@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2012-03-22T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2012-03-22",
+  "official_number": "B.07.1.GİB.4.34.19.02-019.01-1116",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26160",
+  "source_id": "ozelge:26160",
+  "source_row_sha256": "b90bae0b9728183bb9772fb9fca62322af19b3a10fe008137a713b43bb53f1a6",
+  "title": "Kullanılan muhasebe programında fatura düzenlenmesi sırasında programın fatura üzerine sıra takipli referans numarası verilmesi ve fatura numarası ile farklı olan referans numarasını kayıtlar sırasında açıklama olarak muhasebe fişine işlenmesi durumunda,",
+  "version_label": "as-enacted",
+  "word_count": 393
+}
