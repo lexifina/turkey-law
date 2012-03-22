@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2012/129",
+  "list_number": "129",
+  "decision_date": "2012-03-22",
+  "title": "Seçmen kütükleri ile ilgili siyasi partilere verilebilecek belgeler hakkında Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2663/2012-129.pdf",
+  "source_sha256": "4b71723a0e204ff133ffdca9106c9a5ad1854efb6ddad860d2724e0d76339a13",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2012-03-22",
+  "law_text_complete": false
+}
