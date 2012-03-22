@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3743/5",
+  "decision_date": "2012-03-22",
+  "title": "Muğla Doğal Gaz Dağıtım Lisansı” ihalesi",
+  "resmi_gazete_date": "2012-03-29",
+  "resmi_gazete_number": "28248",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8kp+Vhn+pVw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8kp+Vhn+pVw="
+  ],
+  "source_sha256": "14463c04682d5f9917f400689fd26a0c53b20547bc6979b6729a19cabed0fd7b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-03-22",
+  "law_text_complete": false
+}
