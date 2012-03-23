@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.06.68-165.01.03",
+  "source_id": 38387,
+  "date": "2012-03-23",
+  "title": "Türkiye'de yerleşik gerçek kişilere bir yıldan uzun vadeli olarak ticari veya mesleki amaçla kullanılan döviz kredilerinin 1 yılı geçmeden kapatılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38387",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "9f418dd0b9e895b617a84f8386e8110695e0303d628cf5a2f3314ce3c7aabaed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
