@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "34642",
+  "decision_date": "2012-03-23",
+  "source_id": 4325,
+  "chamber": "4",
+  "file_number": "33395",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4325/",
+  "source_sha256": "ee8f041c7c7906f7cb0c55af94d10572a6fc37ebe6f63bf23dfdf50fd21c039c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
