@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "34616",
+  "decision_date": "2012-03-23",
+  "source_id": 4303,
+  "chamber": "4",
+  "file_number": "33369",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4303/",
+  "source_sha256": "d4257bb22fd3f89de5c28edb6e8374065716529695e799b1cd23d9aaa34bd989",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
