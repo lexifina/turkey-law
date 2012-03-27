@@ -1,0 +1,1 @@
+Madde 1 — Bu yönetmelik, 5584 sayılı Posta Kanununun 6 ncı, 7/6156 sayılı Bakanlar Kurulu Kararı ile onaylanarak 12/4/1973 tarihinde Resmi Gazete'de yayınlanıp yürürlüğe giren Posta Tüzüğünün 5 inci maddelerinin uygulanmasına ilişkin usul ve esasları düzenlemek amacıyla hazırlanmıştır.

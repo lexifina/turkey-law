@@ -1,0 +1,5 @@
+Lokal şube açılabilecek yerler :
+Madde 7 — Aşağıdaki şartlardan birine uyan yerlerde lokal şube açılabilir :
+1) En yakın PTT işyerine en az 2 kilometre veya daha uzak olan toplu yerleşim yerlerinde, (şubenin faaliyete geçirileceği yerde, tesbit edilen mesafede bina bulunmadığı takdirde bu mesafe değiştirilebilir.)
+2) En yakın PTT işyerine en az 1 kilometre olan ve işyeri şartlarına uygun ücretsiz yer verilen ve yapılan inceleme sonunda gelirinin giderini karşılayacağı saptanan organize sanayi bölgeleri, 100 ve daha fazla işyeri bulunan sanayi siteleri, çarşı, han gibi ticari yerler ile büyük askeri birlik, üniversite kampusu, adliye sarayı gibi kamuya ait yerler ve gar, otogar, deniz ve hava limanı gibi ulaşım yerleri ile gümrük kapılarının gerek görülenlerinde,
+3) En yakın işyerine 4 kilometre veya daha uzak olan ve çevreye hizmet edebilecek merkezi bir yerde işyeri şartlarına uygun ücretsiz yer verilen ve yapılan inceleme sonucunda gelirinin giderini karşılayacağı saptanan otel, motel, kamping, tatil köyü, tatil siteleri gibi yerlerle toplam 600 yatak kapasiteli turistik belgeli tesislerinde.

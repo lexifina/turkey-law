@@ -1,0 +1,3 @@
+Şube personeline ikamet yevmiyesi ödenmeyeceği :
+Madde 41 — Bağlı bulunduğu merkezin belediye sınırları dışında bulunsa dahi şube personeline görevleri süresince İkamet yevmiyesi ödenmez. Ayrıca, belediye sınırları dışında olmakla beraber mücavir alanlar içinde, şehrin devamı niteliğindeki yerlerde ve belediyelerce ulaşım sağlanan yerlerde görevlendirilenlerle, kurumca vasıta temin edilen yerlerde görevlendirilenlere de harcırah ödenmez.
+Ancak, hastalık, izin veya görevin açık olması gibi durumlarda belediye sınırları dışında bulunan şubelerde görevlendirilecek personele görev süresince Harcırah Kanunu hükümlerine göre harcırah verilir.

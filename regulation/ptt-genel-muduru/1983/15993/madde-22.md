@@ -1,0 +1,2 @@
+Denetimin ne şekilde yapılacağı:
+Madde 22 — Şube işlemlerinin denetlenmesi, incelenen konuya ilişkin mevzuat hükümlerine göre ve şubedeki mevcut kayıtlar üzerinden yapılır. Görülen aksaklıkların ilgili kayıtlar üzerine İşaretlenmek, İmzalanmak ve ayrıca şube personeline öğretici açıklamalarda bulunmak suretiyle giderilmesi ve tekrarına yer verilmemesi için gerekli önlemlerin alınması sağlanır. Şubedeki denetim sonunda düzenlenecek raporun 1 nüshası şube gelen evrak dosyasına konur.

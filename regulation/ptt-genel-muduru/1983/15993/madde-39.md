@@ -1,0 +1,3 @@
+Haberleşme gizliliği:
+Madde 39 — Şubeler tarafından görülen İşlere, bu şubede görevlendirilen personelden başka kimse el süremez. Görevli, yetkili veya ilgili personel dışındaki kimselerin şubedeki servislere veya halka açık olmayan kısımlara girmelerine izin verilmez.
+Şube personelinin, kişilerin her türlü haberleşme ilişkilerini açığa vurmaları, mektupları açmaları, açık dahi olsa içlerinde ne bulunduğunu araştırmaları veya haberleşme kağıtlarındaki yazılarla telgraf ve telefon haberleşmeleri hakkında üçüncü kişilere (gönderici ile alıcıdan veya bunların tayin ettikleri vekillerin dışındaki kişilere) bilgi vermeleri yahut herhangi birine bunları yapmaya imkân bırakmaları yasaktır.
