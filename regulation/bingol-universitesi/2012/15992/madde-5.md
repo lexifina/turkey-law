@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları şunlardır:
+a) Bingöl Üniversitesi Sağlık Hizmetleri Meslek Yüksekokulu ve Sağlık Yüksekokulu içinde ilgili anabilim dalları ve öncelikle çocuğun gelişim ve yeterlilik alanları, doğum öncesi, esnası ve sonrası anne-çocuk sağlığı ve hastalıkları, çocuk eğitimi, çocuk psikolojisi arasında işbirliği ve koordinasyonu sağlayarak; öncelikle dezavantajlı bölgelerde yaşayan erken çocukluk dönemi ile ilk ve orta öğretim çağı çocuklarından fiziksel, psikolojik, engel durumu teşkil etme, aile ve çocuk eğitimi konusunda rehberlik ve rehabilitasyon ihtiyacı olup, korunma ihtiyacı olan veya suça sürüklenen, engelli ya da süreğen hastalığı olan çocukların tanı, tedavi, korunma ve izlenmelerine dair ilgili kurum ve kuruluşlara yönlendirilerek gelişimi, eğitimi, gerekiyorsa çevre–okul-aile düzenlemeleri konusunda uygulama ve araştırmaların yapılacağı ortamı sağlamak ve yapmak,
+b) Bingöl Üniversitesi çocuk gelişimi birimlerine başvuran, destek eğitimi, rehberlik ve rehabilitasyon açılarından korunma ihtiyacı olan veya suça sürüklenen çocukların ihmal ve istismardan korunması için ilgili kamu kurum ve kuruluşları ile koordineli çalışmak, bu çocukları değerlendirmek, tanı, tedavi, korunma ve izlenmelerini gerekli uzman birimlerle işbirliği yaparak gerçekleştirmek.
