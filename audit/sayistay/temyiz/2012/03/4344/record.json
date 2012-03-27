@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "34661",
+  "decision_date": "2012-03-27",
+  "source_id": 4344,
+  "chamber": "7",
+  "file_number": "33555",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4344/",
+  "source_sha256": "3509a1780b9f82a7f8d4f4c1ac25e27ccd6a853e7a99a08d8425c3dab070e3ea",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
