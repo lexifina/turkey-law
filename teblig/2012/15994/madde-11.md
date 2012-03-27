@@ -1,0 +1,3 @@
+Uygulama
+MADDE 11 – (1) Gümrük idareleri, Karar maddesinde yer alan Tablo-1’de gümrük tarife pozisyon numarası, tanımı ve menşe ülkesi belirtilen maddelerin, diğer mevzuat hükümleri saklı kalmak kaydıyla, serbest dolaşıma giriş rejimi kapsamında ithalatında karşılarında gösterilen miktarlarda dampinge karşı kesin önlemi uygular.
+(2) Karar maddesinde yer alan Tablo-2’de belirtilen Endonezya’da mukim PT. YKK ZIPCO INDONESIA firması İthalatta Haksız Rekabetin Önlenmesine İlişkin 2002/1 sayılı Tebliğ ile belirlenen "Üretici Belgesi" beyanı kapsamında gümrük idarelerine beyanda bulunması halinde 9607.19.00.0011 GTİP’i altında tasnif edilen yalnız "plastik dişli fermuarlar" için söz konusu dampinge karşı önlemden muaftır.

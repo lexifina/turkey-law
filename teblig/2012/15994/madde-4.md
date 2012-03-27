@@ -1,0 +1,3 @@
+İlgili tarafların bilgilendirilmesi
+MADDE 4 – (1) Soruşturmanın açılmasını müteakiben, Bakanlıkça tespit edilen ithalatçılara, ilgili ülkede yerleşik ürünün bilinen ihracatçılarına ve diğer bütün ihracatçıların da bilgilendirilmesi için ilgili ülkenin Ankara’daki temsilciliğine ilgili soru formlarına, inceleme raporunun gizli olmayan özetine ve soruşturma açılış Tebliğine ulaşmalarını temin etmek için soruşturma açılışına ilişkin bildirimde bulunulmuştur.
+(2) Yerinde doğrulama soruşturması gerçekleştirilen ihracatçı firmaya, karara esas teşkil edecek bilgi ve bulguları içeren firma özel nihai bildirimi ile söz konusu ülkenin Ankara’daki temsilciliğine nihai bildirim iletilmiş olup, nihai bildirimdeki hususlara ilişkin görüşlerini sunma imkânı tanınmıştır.
