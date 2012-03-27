@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "34691",
+  "decision_date": "2012-03-27",
+  "source_id": 4374,
+  "chamber": "7",
+  "file_number": "33264",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4374/",
+  "source_sha256": "d199341d18656961c486ca671d4e4dacfcbeb2e1af8353614284700c1822da8f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
