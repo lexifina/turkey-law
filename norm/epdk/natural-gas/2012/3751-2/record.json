@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3751/2",
+  "decision_date": "2012-03-28",
+  "title": "Türkiye Petrolleri Anonim Ortaklığı Silivri Yer Altı Doğal Gaz Depolama Tesisine ilişkin kurul kararı",
+  "resmi_gazete_date": "2012-04-06",
+  "resmi_gazete_number": "28256",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=b7jLSEMANeU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=b7jLSEMANeU="
+  ],
+  "source_sha256": "88e782d5a67f7333d671fd0d1555fbda65db118ba0757a8033d69525442c7fd0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-03-28",
+  "law_text_complete": false
+}
