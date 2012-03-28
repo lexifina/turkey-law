@@ -1,0 +1,25 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "DIŞİŞLERİ KOMİSYONU",
+  "committee_id": 11,
+  "meeting_date": "2012-03-28",
+  "meeting_date_as_published": "28/03/2012",
+  "agenda": [
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE AZERBAYCAN CUMHURİYETİ HÜKÜMETİ ARASINDA YATIRIMLARIN KARŞILIKLI KORUNMASI VE TEŞVİKİNE İLİŞKİN ANLAŞMANIN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/578)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE FAS KRALLIĞI HÜKÜMETİ ARASINDA GENÇLİK VE SPOR ALANLARINDA İŞBİRLİĞİ PROTOKOLÜNÜN ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/547)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE İRAN İSLAM CUMHURİYETİ HÜKÜMETİ ARASINDA SPOR ALANINDA İKİLİ İŞBİRLİĞİ İÇİN MUTABAKAT ZAPTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/463)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE MISIR ARAP CUMHURİYETİ HÜKÜMETİ ARASINDA SPOR ALANINDA MUTABAKAT ZAPTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/532)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE TÜRK DİLİ KONUŞAN ÜLKELER İŞBİRLİĞİ KONSEYİ ARASINDA TÜRK DİLİ KONUŞAN ÜLKELER İŞBİRLİĞİ KONSEYİ SEKRETERYASINA DAİR EV SAHİBİ ÜLKE ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞU HAKKINDA KANUN TASARISI (1/582)",
+    "TÜRKİYE CUMHURİYETİ İLE TUVALU ARASINDA KAPSAMLI İŞBİRLİĞİNE DAİR MUTABAKAT MUHTIRASININ ONAYLANMASININ UYGUN BULUNDUĞU HAKKINDA KANUN TASARISI (1/493)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/426",
+  "pdf_sha256": "7c8d99b19d729e7f5313951ff61d011eafc4007e59ba09d325483d45fa23052f",
+  "pdf_pages": 29,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=11)",
+  "listing_sha256": "efc563a4b8d46e4875ff97f17d46f82861739696a9966ad2a4657ae091dbe9bd",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-03-28",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
