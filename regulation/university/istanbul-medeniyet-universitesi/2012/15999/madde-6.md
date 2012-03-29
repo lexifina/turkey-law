@@ -1,0 +1,2 @@
+Çalışma alanı
+MADDE 6 – (1) Merkezin çalışma alanı; kamuya, özel sektöre, sivil topluma ve uluslar arası kuruluşlara ihtiyaç duydukları alanlarda danışmanlık ve eğitim hizmeti vermek; yerel, bölgesel, ulusal ve uluslararası düzeyde eğitim programları, uzaktan eğitim programları ve uygulamaları, kurslar, seminerler, konferanslar ve benzeri etkinlikler düzenlemek; bu faaliyetleri diğer merkezler ile birlikte koordine etmek, tüm bu alanlarda Üniversite imkanlarının tanıtımını yapmaktır.
