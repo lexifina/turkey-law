@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3759",
+  "decision_date": "2012-03-31",
+  "title": "01/01/2012 Tarihinden İtibaren Geçerli Olacak Tarife Tabloları",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=H/Hx5pJfO9k=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=H/Hx5pJfO9k=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VmWRhM7oQEU="
+  ],
+  "source_sha256": "157f73fd2671418fb6f64170df580831092a094fe7bc0fdfd1f8a6ae434b1aa4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-03-31",
+  "law_text_complete": false
+}
