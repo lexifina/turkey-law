@@ -1,0 +1,2 @@
+Geçici Hükümler
+Geçici Madde 1 – Bu Yönetmelikte kurulması öngörülen Kurulların seçimine ve teşkiline kadar geçecek sürede kurulların görev alanına giren ve nitelikleri itibariyle bu yoldan karar bağlanmaya elverişli olan iş ve işlemlere ilişkin kararlar, Rektör ve Dekanlar tarafından alınır ve uygulanır. Bu suretle alınan kararlar, görevli kurulun teşkilini müteakip yapacağı ilk toplantıda kurulun onayına sunulur.
