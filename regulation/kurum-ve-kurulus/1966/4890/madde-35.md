@@ -1,0 +1,2 @@
+Madde 35- "Kendi Evini Yapana Yardım" metodu gereğince konutunu yapmak isteyenler Gecekondu Kanununun 25. Maddesindeki şartlara haiz oldukları takdirde (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığının tanzim edeceği bir sözleşmeyi imzalayarak bir dilekçe ile müracaat ederler.
+(Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığı ve belediyelerce yapılan konutların kullanılışı

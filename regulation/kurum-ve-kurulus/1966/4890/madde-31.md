@@ -1,0 +1,1 @@
+Madde 31- Görev almış kuruluşlar, ayni yardım almış olanların aldıkları malzemeleri yerinde kullanıp kullanmadıklarını denetlemekle ve kullanmayanlar hakkında da umumi hükümlere göre işlem yapmakla mükelleftirler.

@@ -1,0 +1,2 @@
+Madde 2- (Değişik:RG-26/12/2001-24622)
+775 sayılı Gecekondu Kanununun uygulanması hususunda bu Yönetmelik esasları uygulanır. Bu Yönetmelikte bulunmayan hususlar 775 sayılı Gecekondu Kanunu esaslarına uygun olarak (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığınca alınacak Olurlar, belediyelerin yetkili organlarınca alınacak kararlar veya ilgili kuruluşlarla ortaklaşa hazırlanacak protokollarla belirlenir.

@@ -1,0 +1,1 @@
+Madde 114- Şartlaşma ve sözleşmelerde belirtilmiş olmak şartıyla, yüklenicilere, Türkiye'de faaliyette bulunan bankaların vereceği teminat mektubu karşılığında ihale bedelinin yüzde 50 sini geçmemek üzere avans verilebilir. Ancak şartnamelerde avansın mahiyeti ve uyulması lazım gelen hususları belirtilir.

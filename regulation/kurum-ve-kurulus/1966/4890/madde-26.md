@@ -1,0 +1,1 @@
+Madde 26- 13, 37. Maddeleri gereğince yapılacak tahsislerde kat sahiplerinden vecibelerini yerine getirmeyerek hakkını kaybedenler olursa onların yerine hak kazanan taliplerden sırasına göre ayni şartları kabul edenler alınır.

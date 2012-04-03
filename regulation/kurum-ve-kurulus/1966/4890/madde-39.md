@@ -1,0 +1,1 @@
+Madde 39- (Değişik:RG-17/05/1976-15590) Konut tahsisindeki öncelik sırası için bu Yönetmeliğin 9. Maddesindeki arsa tahsisi için kabul edilen esaslara ve Yönetmeliğin 7. maddesindeki puanlama sistemine göre işlem yapılır.

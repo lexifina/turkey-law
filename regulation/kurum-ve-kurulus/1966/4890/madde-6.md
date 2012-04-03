@@ -1,0 +1,1 @@
+Madde 6- Gecekondu Kanunundaki amaçlarda kullanılmak üzere (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığına tahsis edilen, geri devir veya satın alınan veya kamulaştırılan arsaların (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığınca tahsis işlerinde Yönetmeliğin 7 ila 16. Maddeleri esasları ile ilgili Kanunun Hükümleri uygulanır.

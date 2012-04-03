@@ -1,0 +1,1 @@
+Madde 60- Gecekondu Kanunu tatbikatı dolayısıyla hazırlanacak haritalar "Şehir ve kasaba haritalarının yapılmasına ait teknik şartname" esaslarına göre düzenlenir. Bazı hususi hallerde hususi şartlarla haritalar yaptırılabilir.

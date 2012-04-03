@@ -1,0 +1,3 @@
+Madde 28- (Değişik:02/09/1999-23804) Yardım olarak tahsis olunacak ayni yardım bedelleri (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığı emrinde (Değişik ibare:RG-12/11/2008-27052) T.C. Ziraat Bankası A.Ş. ve/veya Türkiye Halk Bankası A.Ş. de teşkil edilen fon hesabından ödenerek yapılır.
+(Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığı bu hizmetleri kendisi görebileceği gibi aralarında tanzim edecekleri bir protokolle herhangi bir kamu kuruluşunu ve iştigal konusuna girmesi şartıyla kamu iktisadi teşebbüslerini ve döner sermayelerini görevlendirebilir.
+(Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığı ve görevli kuruluşlar ayni yardımın cinsini, miktarını ve şeklini ilan ederek duyururlar.

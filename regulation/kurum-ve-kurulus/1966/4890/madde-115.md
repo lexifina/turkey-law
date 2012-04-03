@@ -1,0 +1,1 @@
+Madde 115- (Değişik:RG-02/09/1999-23804) Yönetmeliğin 96. Maddedeki usullerle yapılan inşaat işlerinde Bayındırlık ve İskan (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığınca hazırlanan "inşaat, kontrollüğü esasları" uygulanır.

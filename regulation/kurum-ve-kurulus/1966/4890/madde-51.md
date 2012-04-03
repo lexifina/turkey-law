@@ -1,0 +1,1 @@
+Madde 51- 50. Madde gereğince oturmakta olduğu konutu boşaltması gerekenler, kiraya veren kuruluş tarafından yapılacak tebligat tarihinden itibaren 1 ay içinde konutunu 46. Maddede belirtilen usule göre boşaltmak mecburiyetindedirler.

@@ -1,0 +1,3 @@
+Madde 92-a) (Değişik:RG-02/09/1999-23804) Bayındırlık ve İskan (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığınca gerekli görülen hallerde inşa, tesis, tamir gibi işler için inşaat amirlikleri kurulur.
+İnşaat amirlikleri bir inşaat amiri ve gereği kadar teknik ve idari elemandan meydana gelir.
+b) (Değişik:RG-02/09/1999-23804) Bayındırlık ve İskan (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığının lüzum gördüğü yerlerde Bayındırlık ve İskan Müdürlüğünün veya inşaat amirinin yetki vereceği kimsenin başkanlığında bir teknik eleman ve muhasebe memurundan müteşekkil emanet inşaat komisyonları kurulur.

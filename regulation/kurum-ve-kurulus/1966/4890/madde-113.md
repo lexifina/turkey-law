@@ -1,0 +1,4 @@
+Ödeme, avans ve krediler
+Madde 113- (Değişik:RG-02/09/1999-23804) a- Komisyonlar emrine verilecek ödenekler, şubesi bulunan yerlerde (Değişik ibare:RG-12/11/2008-27052) T.C. Ziraat Bankası A.Ş. ve/veya Türkiye Halk Bankası A.Ş. ye, olmadığı takdirde bu Bankanın en yakın mahaldeki şubesinde açtırılan hesaplara yatırılır.
+b- Komisyonlar emrine gönderilen paralardan yapılacak her çeşit ödemeler, düzenlenecek tahakkuk evrakına dayanarak bu komisyonların başkan ve bir üyesinin imzalarını, havi ödeme mektupları veya çeklerle hak sahibine veya mutemede Banka tarafından bizzat ödenir veya havale olunur.
+Tahakkuk evrakı; hizmetin yerine getirilmesinde sitüasyonlara, onaylı bordrolara, senetlere, keşif raporlarına, mal ve bir kıymet alımında ise faturalara, tesellüm ilmühaberlerine, tapu senetlerine dayanılarak düzenlenir.

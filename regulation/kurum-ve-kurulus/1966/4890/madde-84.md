@@ -1,0 +1,2 @@
+Projelerin hazırlanmasında faydalı görülen hususlar
+Madde 84- (Değişik:RG-02/09/1999-23804) Yerleşme ünitelerinin, kendi sınırları içinde yerleşme yoğunluğu 400 kişi/hektardan daha düşük olmayacak şekilde düzenlenmesi esastır. İmar planları, 16/1/1985 tarihli ve 18637 sayılı Resmi Gazetede yayımlanan İmar Planı Yapılması ve Değişikliklerine Ait Esaslara Dair Yönetmelikte belirlenen standartlara uygun teknik ve sosyal altyapı alanları ayrılarak düzenlenir.

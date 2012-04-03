@@ -1,0 +1,1 @@
+Madde 34- Gecekondu ıslah ve önleme bölgelerinde hak sahibi vatandaşlardan "Kendi Evini Yapana Yardım" metodu ile konutunu yapmak isteyenlere (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığı veya belediyeler, yardım yapabilir.

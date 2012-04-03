@@ -1,0 +1,5 @@
+Madde 40- (Değişik:12/08/1984-18487) Bina veya konutlar aşağıdaki şekilde tespit olunacak emsal bedel üzerinden tahsis olunur veya satılır.
+Emsal Bedel
+Bu yönetmeliğin 8. Maddesine göre (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığınca onanlı arsa emsal bedeli ile bina veya konutların tahsis veya satış yılındaki resmi birim fiyatlarla hesaplanacak bedelden az olmamak kaydıyla valilikçe komisyon marifetiyle belirlenip (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığınca onanacak emsal bedelinin toplamından oluşur. Bina veya konutlar belediyeye ait ise valilikçe bedel belirlemesine başlamadan önce belediyenin bu bedelin tayinine ilişkin hesapları ve görüşü alınır.
+Binanın bittiği tarih ile tahsis veya satış tarihi arasında bir yıldan fazla süre geçmesi halinde, her yıl için resmi birim fiyatlarla hesaplanacak bina veya konut bedelinin %2 nispeti yıpranma payı olarak düşülerek bulunan bedel emsal bedelin tayininde göz önünde tutulur.
+(Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığı, valilikçe belirlenecek emsal bedeli aynen, artırarak veya azaltarak onaylayabilir.

@@ -1,0 +1,2 @@
+Hesap kesimi ve bilanço
+Madde 118- (Değişik:RG-02/09/1999-23804) Fonların hesap dönemi mali yıldır. Mali yıl sonu itibariyle düzenlenecek bilanço, yıl içinde sağlanan gelirlerle yapılan harcamaları gösteren cetvellerle birlikte, en geç üç ay içinde (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığı emrindeki fon için Bayındırlık ve İskan (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanının, belediyeler emrindeki fonlar için belediye başkanının tasvibine arz olunur.

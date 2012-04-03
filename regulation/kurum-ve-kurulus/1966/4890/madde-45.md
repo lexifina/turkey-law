@@ -1,0 +1,1 @@
+Madde 45- Konutlar, kiraya veren kuruluş tarafından yönetilir. Konut kiraları aylık olarak peşinen alınır. Her konut için ayrı bir dosya tutulur. Kiraya ilişkin karar, mukavelename ve sair belgeler bu dosya içinde saklanır.

@@ -1,0 +1,1 @@
+Madde 38- Tahsis edilecek konutlar bir apartmanın daireleri halinde ise, "Kat Mülkiyeti Kanunu" hükümlerine uyulur. Bu dairelerin kat mülkiyetine çevrilmesi suretiyle bağımsız bölümlerin tefriki ve ayrıca yönetim planı tanzimi gibi maliklerinin beraberce ve ittifakla yapmaları lazım gelen bütün işlemler önceden belediyelerce tamamlanır ve sonra tahsise tabi tutulurlar.

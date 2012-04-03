@@ -1,0 +1,6 @@
+Madde 41- (Değişik:RG-12/08/1984-18487) (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığınca onaylanan bedeller ile konutların kimlere tahsis edildiğini gösterir listeler (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığınca veya belediyece (Değişik ibare:RG-12/11/2008-27052) T.C. Ziraat Bankası A.Ş. ve/veya Türkiye Halk Bankası A.Ş. ne gönderilir.
+İlgililerin müracaatı üzerine Banka, sözleşmelerini tanzim edip, ve tahsis olunan taşınmaz malları, borcun miktarının yüzde 20 fazlası üzerinde, Banka lehine birinci derece ve sırada olmak üzere ipotek almak suretiyle gerekli borçlandırma işlemlerini yapar.
+Borçlanma, valilikçe belirlenerek (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığınca onaylanacak vade ve yıllık yüzde 5 faizle yapılır.
+Taksitler aylık olarak tahsil olunur ve ait olduğu (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığı veya belediye fon hesabına alacak kaydedilir.
+Bu çeşit borçlandırmaya ait sözleşme formülü Bankaca hazırlanarak (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığınca onaylandıktan sonra Yürürlüğe konur.
+Takibat ve tahsilatla ilgili olarak yapılacak giderler ve diğer hususlarda 22 ve 24. Maddeler uygulanır.

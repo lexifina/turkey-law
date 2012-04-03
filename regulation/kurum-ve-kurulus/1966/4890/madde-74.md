@@ -1,0 +1,1 @@
+Madde 74- Program uygulanmasına alınmamış tasfiyeye tabi gecekondularda ilave inşaat yapılamaz. Ancak, zaruri hallerde arsa tahsisi yapılıncaya kadar tehlike giderici tedbir alınmasına izin verilebilir.

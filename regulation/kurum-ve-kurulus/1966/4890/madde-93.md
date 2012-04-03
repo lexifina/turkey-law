@@ -1,0 +1,4 @@
+Komisyonlar, inşaat amirlikleri görev ve yetkileri
+Madde 93- a) 91. maddenin (a) ve (b) fıkralarına göre kurulmuş olan komisyonlar 90. maddedeki işlerin yapımını, usul, miktar ve tutarını gösterir (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanı olurları uyarınca 96 ve müteakip maddeler esaslarına göre işlem yaparak (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığı Makamının kararına sunmak üzere neticeye bağlarlar.
+b) (Değişik:RG-02/09/1999-23804) 91. Maddenin (c) fıkrasına göre, belediye daimi encümenleri 90. Maddede gösterilen işleri, Kanunun 13. Maddesi gereğince Bayındırlık ve İskan (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığının izni alınmak suretiyle 96. ve müteakip maddeler esaslarına göre işlem yaparak sonuca bağlarlar.
+Encümenlerce ihale edilen inşa, tesis, tamir gibi işler belediye fen işleri müdürlüğünce yürütülür.

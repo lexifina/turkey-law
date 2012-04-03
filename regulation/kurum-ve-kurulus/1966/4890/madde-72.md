@@ -1,0 +1,1 @@
+Madde 72- Üzerinde gecekondu bulunan ıslah bölgelerinin parsellenmesinde mecburiyet halinde parsel genişlikleri 5 m.ye ve parsel alanları 60 m2 ye kadar indirilebilir. Parsel içerisinde kalmayan gecekondular tasfiyeye tabi gecekondu sayılırlar. Bunların tayininde gecekondunun evsafı göz önünde bulundurulur.

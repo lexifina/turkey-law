@@ -1,0 +1,3 @@
+Madde 65- (Değişik:RG-05/03/2006-26099)
+(1) (Değişik birinci fıkra:RG-12/11/2008-27052) Bu Yönetmelik hükümleri gereğince yapılacak konutların inşaat alanı 150 metrekareyi geçemez.
+(2) Birinci fıkrada belirlenen inşaat alanına, bir ailenin oturmasına mahsus müstakil bir evin veya bir apartman dairesinin içinde kalan bütün odalar, holler, antre, mutfak, banyo, hela, lavabo, kiler, depo, baca ve iç geçitler ile bunları bölen veya çevreleyen iç ve dış duvarların kat plânlarındaki alanlarının tamamı, müşterek duvarların alanlarının ise yarısı dâhildir. Bu Yönetmelikteki asgarî ölçüler içinde kalmak kaydıyla balkon, umumî merdiven ve konutla ilişkili sair müştemilât bu inşaat alanına dâhil değildir.

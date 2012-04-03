@@ -1,0 +1,1 @@
+Madde 77- Ayrık yapı nizamına tabi olan yerlerde, belediye mahzurlu bulunmadığı takdirde, yönetmelik hükümlerine dayanılarak tayin edilen azami bina sahasını aşmamak ve asgari bahçe mesafelerini muhafaza etmek şartıyla yapı yerinin tespiti serbesttir.

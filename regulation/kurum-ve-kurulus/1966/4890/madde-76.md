@@ -1,0 +1,1 @@
+Madde 76- Seylap bölgesinde bulunması, sıhhi veya jeolojik mahzurları olması veya bunlar gibi tehlikeli durumlar arz etmesi yüzünden, imar planlarına ve yetkili mercilerce hazırlanmış veya onanmış raporlara göre yapı yapılması yasak edilen sahalar ifraz edilemez. Bu gibi yerlerde arazinin takviyesine matuf tesislerden başka inşaat yapılamaz.

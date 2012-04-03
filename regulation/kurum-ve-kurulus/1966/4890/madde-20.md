@@ -1,0 +1,1 @@
+Madde 20- Kendilerine Yönetmeliğin 19. Maddesi gereğince kredi açılacaklara da Bankaya ipotekli olan arsalar, üzerine yapılacak veya yapılmış bina ile birlikte serbest dereceden istifade etmek kaydıyla ikinci derecede ipotek alınmak suretiyle kredi açılır. Tediyeleri (Değişik ibare:RG-12/11/2008-27052) Toplu Konut İdaresi Başkanlığının vereceği talimat esaslarına göre yapar.
