@@ -1,0 +1,2 @@
+Meslek Elemanlığına Naklen Atanma:
+Madde 58 – Maliye Müfettişleri, Hesap Uzmanları ve Bankalar Yeminli Murakıpları ile Devlet Planlama Teşkilatı, Ticaret Bakanlığı, T.C. Merkez Bankası, Devlet Yatırım Bankası, T. Sınai Kalkınma Bankası ve Kurul'ca uygun görülen ve meslek elemanı yetiştiren diğer kuruluşlarda görev yapmış ve yapmakta olanlardan Kurul'da görev almak isteyenler, bu Yönetmeliğin atanmaya ve intibaka ilişkin genel hükümleri çerçevesinde sınav yapılmaksızın doğrudun Kurul'un meslek personeli kadrolarında görevlendirilebilirler.

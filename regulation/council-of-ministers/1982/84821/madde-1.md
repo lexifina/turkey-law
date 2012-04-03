@@ -1,0 +1,1 @@
+Madde 1 – Bu Yönetmelik, Sermaye Piyasası Kurulu personelinin hizmet şartlarını, niteliklerini, atanma ve yetiştirilmelerini, ilerleme ve yükselmelerini ödev, hak, yüküm ve sorumluluklarını, aylıklarını, ödeneklerini ve diğer özlük işlerini düzenler.

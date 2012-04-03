@@ -1,0 +1,7 @@
+Üst Kadroda İlerleme ve Aylıklar:
+Madde 68 – A) 64 üncü maddenin B bendi uyarınca üst derece görevlere atanan personel, bu görevlerde kaldığı sürece atandığı kadronun aylığını (Ek gösterge dahil) alır ve diğer tüm haklarından yararlanır.
+Ancak;
+a) Birinci derece kadro aylıklı görevlerde yönetim sorumluluğu taşıyanlara, görevin hizmetin gereği için taşıdığı önem göz önünde tutularak bu kadronun son kademe aylığı ödenir.
+b) 1, 2, 3 ve 4 üncü derece kadro aylıklı görevleri yerine getirmekte olup da emekliliğe esas aylığı kadro aylığının aşağısında bulunan diğer personele de, bulunduğu kadronun ilk kademesinden başlamak ve son kademe aylığını aşmamak üzere, her yıl bir üst kademeden aylık verilir.
+Bu esaslara göre üst dereceden aylık alanların, atanmış bulundukları kadro aylıkları, emeklilik keseneğinin hesabında ve başka görevlere atanma halinde kazanılmış hak sayılmaz. Ancak, bunların üst kadroda geçirdikleri sürelerin her yıl bir kademe ilerlemesi ve her üç yılı bir derece yükselmesi sayılmak suretiyle, kazanılmış hak ve emeklilik keseneğine esas aylık derecelerinin yükseltilmesinde değerlendirilir.
+B) Bulunduğu kadroda derece yükselmesi için gerekli en az hizmet süresini tamamlayan personel, olumlu sicil alması şartiyle ve öğrenim derecesi için 60 ıncı maddede yazılı yükselebileceği dereceyi geçmemek üzere kadrosunun iki üst derece aylığa kadar ilerleyebilir. Bu hüküm uyarınca üst dereceye yükseltilenlere, emekliliğe esas aylıkları üzerinden aylık ödenir.

@@ -1,0 +1,3 @@
+İş Gücü Planlaması:
+Madde 10 – Kurul'un personel tedarikine esas olmak üzere, her yıl hizmet gruplarının özellikleri gözönünde tutularak, ileriki yılların iş gücü ihtiyacını saptamak amacıyla nitelik ve sayı bakımından sistemli tahminler yapılır ve bu ihtiyacın hangi kaynaklardan nasıl karşılanabileceği Kurul'un Karar Organı tarafından bir plana bağlanır.
+İş gücü planının hazırlanmasında esas olarak, Kurul'un iş hacminde beklenen gelişmeler, merkez ve taşra teşkilatının ihtiyaçları, teknik ve sosyal gelişmelerin personel istihdamına etkileri, personelin hizmet içi eğitim ve yetiştirilmesi için mevcut olanaklar ve gerekli süreler, çeşitli nedenlerle boşalması muhtemel kadrolar gözönünde tutulur.

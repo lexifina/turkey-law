@@ -1,0 +1,4 @@
+Tedavi İçin Yurt Dışına Gönderilme:
+Madde 91 – Hastalıklarının yurt içinde tedavisine tıbben olanak bulunmadığına dair (gerektiğinde Kurul'un Karar Organı tarafından saptanacak) tam teşekküllü resmi sağlık kurullarından rapor alan Kurul personeli ve bakmakla yükümlü bulunduğu aile fertlerinden eş ve çocuklarının tedavileri yabancı ülkelerde yaptırılır.
+Bu tedaviye ait ücretlerle gidiş - dönüş yol giderleri, buna ilişkin Kambiyo mevzuatı hükümleri dahilinde Kurul'ca ödenir. Sağlık kurulu raporunda hastaya eşlik edilmesi zorunlu görüldüğü takdirde, eşlik edenin yolluk, gündelik ve sair giderleri de 91 inci maddedeki esaslar dahilinde ödenir.
+Ancak personelden, eş ve çocuklarının yurt dışında tedavilerine ilişkin giderlerin 1/3 'ü Kurul'un Karar Organı tarafından belirlenecek koşullarla geri alınır.

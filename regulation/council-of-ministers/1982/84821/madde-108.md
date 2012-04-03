@@ -1,0 +1,2 @@
+Sicil Raporu Yönetmeliği:
+Madde 108 – Kurul personelinin, hizmet gruplarının özelliklerine uygun olarak değerlendirilmesinde kullanılacak sicil raporlarının taşıyacağı sorular, düzenleme zamanı, dolduruluş şekli, uygulanacak not usulü, sicil üstleri ve uyacakları esaslar, değerlendirme komisyonunun oluşumu ve çalışma usulleri, sicil not defterinin tutulması ve sicilleri saklamakla görevli personele ilişkin esaslar Kurul'un Karar Organı tarafından bir yönetmelikle belirlenir.

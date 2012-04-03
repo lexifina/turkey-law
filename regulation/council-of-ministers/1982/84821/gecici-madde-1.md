@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu yönetmeliğin yürürlüğe girdiği tarihten önce kurul kararı ile istihdam edilen personel, geçici sözleşmeli sayılır ve sınav şartı aranmaksızın bu yönetmelik hükümlerine intibak ettirilerek yeniden atanır. Bunlardan 31/12/1982 tarihine kadar atanma işlemleri tamamlanamıyanların kurul ile ilişikleri kesilir.

@@ -1,0 +1,3 @@
+Kurul Personelin Sınıfları ve Uygulanacak Genel Hükümler:
+Madde 60 – Kurul personeli için tesis edilecek hizmet sınıfları ile personelin dahil oldukları sınıflara ve öğrenim durumlarına göre bu sınıfların giriş ve yükselinebelecek derece ve kademelerine ilişkin ortak hükümler, Devlet Memurları Kanunu'nun 36 ncı maddesinde öngörülen esaslara göre belirlenir.
+Mesleğe özel yarışma sınavına tabi tutulmak suretiyle alınan Sermaye Piyasası Denetçi Yardımcısı, Sermaye Piyasası Uzman Yardımcısı ve Sermaye Piyasısı Araştırmacı Yardımcısı gibi meslek personelinin, bu Yönetmeliğe göre yapılacak yeterlik sınavlarında başarı göstererek Denetçi, Uzman ve Araştırmacı'lığa atanmaları sırasında ve bir defaya mahsus olmak üzere haklarında ayrıca bir derece yükselmesi uygulanır.

@@ -1,0 +1,3 @@
+[1] Bakanlar Kurulunun 3/10/1988 tarih ve 88/13358 sayılı Kararıyla bu yönetmelikte geçen "Maliye Bakanı" ibaresi "İlgili bakan", "Maliye Bakanlığı" ibaresi "Hazine ve Dış Ticaret Müsteşarlığının bağlı olduğu Bakanlık "olarak değiştirilmiştir.
+[2] 17/2/2012 tarihli ve 2012/2865 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesi ile bu fıkrada yer alan “belgeler” ibaresi “bilgi ve belgeler” şeklinde değiştirilmiştir.
+[3] Bu fıkrada sözü edilen kadro cetveliyle ilgili olarak; 5/6/2008 tarihli ve 26897 sayılı Resmi Gazete’de yayımlanan 5/5/2008 tarihli ve 2008/13677 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğe bakınız.

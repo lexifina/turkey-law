@@ -1,0 +1,5 @@
+Cenaze Giderleri:
+Madde 97 – Personelin veya memur olmayan eşinin, aile yardımı ödeneğinden yararlanan çocuklarından ve bakmakla yükümlü olduğu ana ve babasından birinin ölümü halinde cenaze giderleri Kurul'ca ödenir. Bu amaçla Personel Müdürü tarafından görevlendirilen bir memur, cenazenin kaldırılmasına yardım eder ve kendisine verilecek avanstan teçhiz, tekfin ve defin için mahalli örfe göre gerekli giderleri yaparak fatura vesair belgelere istinaden avansı kapatılır.
+Personel ve aile fertlerinden birinin Kurul'un teşkilatı bulunmayan bir yerde vefat edip defnedilmesi halinde yapılan cenaze gideri, istem üzerine ve fatura vesair belgelere istinaden bu giderleri yapana Kurul'ca ödenir.
+Personelin ölümü halinde cenazesinin ailesince başka bir yere nakli istenildiği takdirde cenaze nakil giderleri Kurul'ca yukarıdaki esaslara göre ödenir.
+Sürekli görevle yurt dışında bulunanlar ve aile fertlerinden ve staj veya geçici görevle yurt dışında bulunanlardan vefat edenlerin cenazelerinin yurtta defnedileceği yere kadar nakilleri için yapılan bütün giderlerle yurt içinde defin için yapılacak harcamalar da keza Kurul'ca karşılanır.
