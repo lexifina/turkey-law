@@ -1,0 +1,2 @@
+Geçici Madde 1 — Bu Yönetmeliğin yürürlüğe girmesinden önce Federasyon tarafından verilmiş olan bronz, gümüş ve altın cankurtaran belgeleri bir yıl, bronz, gümüş ve altın eğitmen belgeleri ise üç ay süre ile geçerlidir.
+Federasyon veya cankurtarma eğitim merkezlerinin açacağı uyum eğitimlerine katılmayan sporcu, cankurtaran ve eğitmenlerin belgeleri geçersiz sayılır. Uyum eğitimine katılan kursiyerlere başarılı oldukları takdirde Federasyon tarafından denklik belgeleri verilir. Belge ücretleri ile uyum kurslarının tüm masrafları kursiyerlere aittir.

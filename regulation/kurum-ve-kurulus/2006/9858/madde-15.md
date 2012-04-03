@@ -1,0 +1,2 @@
+Yabancı kaynaklı eğitim programları
+Madde 15 — Cankurtarma ve ilkyardım eğitimleri konularında Türkiye’de faaliyette bulunmak isteyen yabancı eğitim kurum ve kuruluşları Federasyonla protokol yapmak zorundadırlar. ILS ve ILSE tarafından verilen sertifikalarla, bu belgelere sahip olup ülkemizde çalışmak isteyen yabancı uyrukluların sertifika denklik işlemleri Federasyonun hazırlayacağı talimatla belirlenir.

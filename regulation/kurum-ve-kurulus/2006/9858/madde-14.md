@@ -1,0 +1,2 @@
+Sporcuların yetiştirilmesi
+Madde 14 — Federasyonun yıllık çalışma programına uygun olarak, ulusal ve uluslararası yarışmalara katılacak olan sporcular, Federasyonun öngördüğü ve Genel Müdürlük tarafından onaylanan eğitim programlarına bağlı olarak kulüpler ve üniversitelerin ilgili toplulukları tarafından yetiştirilir. Bu sporculardan oluşturulacak milli takımı ve milli takım antrenörünü Federasyon belirler. Hakem ve antrenör eğitimleri Federasyon tarafından yapılır.

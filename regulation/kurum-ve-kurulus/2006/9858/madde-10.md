@@ -1,0 +1,2 @@
+Eğitim kurslarına katılım için ön koşullar
+Madde 10 — Cankurtarma eğitim programlarına katılım için ön koşullar, ILSE uygulamalarına bağlı olarak her yıl Federasyon tarafından belirlenir ve Genel Müdürlüğün onayıyla ilgililere duyurulur. Federasyon tarafından ön koşullara uymadığı saptanan adayların eğitimleri geçersiz sayılır ve eğitimi veren cankurtarma eğitim merkezi ile kurum ve kuruluşları yazılı olarak uyarılır.

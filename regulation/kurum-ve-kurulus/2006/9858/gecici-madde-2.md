@@ -1,0 +1,1 @@
+Geçici Madde 2 — Bu Yönetmelikte belirtilen ILS ve ILSE standartlarına uygun eğitim sisteminin ve buna ilişkin eğitmen eğitimlerinin başlatılabilmesi amacıyla, Genel Müdürlük tarafından cankurtaran eğitmen eğitimine gönderilmiş ve sertifika almış olan görevlilere bir defaya mahsus olmak üzere altın eğitmen belgesi verilir.
