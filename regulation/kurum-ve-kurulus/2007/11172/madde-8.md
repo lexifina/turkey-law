@@ -1,0 +1,2 @@
+Ücret
+MADDE 8 – (1) Veteriner sağlık teknisyeni, veteriner sağlık teknikeri ve sağlık teknikerinin hayvan sağlığı kabininde verdiği hizmetlerden alacağı ücret, İl Müdürlüğünün Hayvan Sağlığı Şubesinde görevi Şube Müdürü, aynı şubeden bir veteriner hekim ve veteriner sağlık teknisyeni/teknikeri ile Bölge Veteriner Hekimler Odasından bir temsilciden oluşan komisyon tarafından bir önceki yılın Aralık ayında belirlenerek, bir liste halinde çalışma izni almış veteriner sağlık teknisyeni, veteriner sağlık teknikeri ve sağlık teknikerine tebliğ edilir.

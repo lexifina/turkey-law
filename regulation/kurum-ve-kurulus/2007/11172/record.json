@@ -1,0 +1,65 @@
+{
+  "source_id": "7.5.11172",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAYVAN SAĞLIĞI KABİNİ AÇILIŞ, ÇALIŞMA VE DENETLENME USUL VE ESASLARINA DAİR YÖNETMELİK",
+  "number": "11172",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2007/11172",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11172&MevzuatTertip=5",
+  "source_sha256": "0054671a8cebb8fcdf39bc4d79cca46c3b64dcd15e549ba0dd5c17c73b754a08",
+  "source_bytes": 40655,
+  "published": "2007-03-08",
+  "gazette": "26456",
+  "in_force": "2012-04-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/4/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-04-03",
+      "RG-3/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-04-03",
+      "3/4/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-12-22",
+      "RG-22/12/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-12-22",
+      "22/12/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-10-15",
+      "RG-15/10/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-10-15",
+      "15/10/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1569,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11172-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
