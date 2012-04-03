@@ -1,0 +1,74 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 33 – 33 madde ile geçici iki maddeden ibaret olan işbu yönetmelik, Resmi Gazete’de yayımlandığı tarihten itibaren yürürlüğe girer ve Rektör tarafından yürütülür."
+  ],
+  "date_evidence": [
+    [
+      "1989-01-28",
+      "28.01.1989",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2002-11-21",
+      "RG-21/11/2002-24943",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2004-02-26",
+      "RG-26/2/2004-25385",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2005-03-10",
+      "RG-10/03/2005-25751",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-04-03",
+      "RG-3/4/2012-28253",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2011-08-27",
+      "RG-27/8/2011-28038",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2007-04-21",
+      "RG-21/04/2007-26500",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "1994-12-21",
+      "RG-21/12/1994-22148",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-3/4/2012-28253",
+  "first_law": null,
+  "gazette": "20063",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-04-03",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/1989/7885",
+  "published": "1989-01-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7885&MevzuatTertip=5",
+  "source_bytes": 61799,
+  "source_id": "8.5.7885",
+  "source_sha256": "01c276576f5c67dd7d4e646c63d931c607ad833e08a6fc210a1ec4af6d0233d3",
+  "text_status": "current-consolidated",
+  "title": "GAZİANTEP ÜNİVERSİTESİ ÖĞRENCİ KAYIT KABUL İŞLERİ YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 2685
+}

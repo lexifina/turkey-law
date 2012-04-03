@@ -1,0 +1,3 @@
+Not Belgeleri
+MADDE 20 – Üniversitede Öğrenim gören bütün öğrencilerin, kayıt oldukları tarihten, Üniversiteden ayrılıncaya kadar aldıkları dersler ve bu derslerden aldıkları notlar, Öğrenci İşleri Dairesi Başkanlığı’nca, öğrencinin not belgesine geçirilir. Not belgelerinin onaylı kopyaları, öğrencinin isteği üzerine öğrenciye elden verilir veya bildireceği adreslere posta ile gönderilir. Resmi kuruluşların isteği üzerine de onaylı not belgeleri gönderilir.
+Not belgelerinin düzenlenmesi, öğrenciye verilmesi veya ilgili kuruluşlara gönderilme işlemi, Öğrenci İşleri Dairesi Başkanlığınca yapılır.

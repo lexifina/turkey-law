@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2 – 2809 sayılı Kanuna eklenen geçici 14. madde gereği Gaziantep Üniversitesi’nde ODTÜ statüsünde öğrenimlerini sürdürerek mezuniyetleri sağlanan öğrencilere verilecek diplomanın ikinci suretinin de aslına uygun olduğu ODTÜ Rektörlüğünce tasdik edilir.

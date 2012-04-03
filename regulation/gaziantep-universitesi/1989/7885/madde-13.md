@@ -1,0 +1,3 @@
+Meslek Yüksekokulları Öğretimi ve Ön lisans
+MADDE 13 –Meslek Yüksekokullarında dört yarıyıllık eğitim programını başarı ile bitirenlere Meslek Yüksekokulu diploması verilir.
+Lisans programlarına kayıtlı öğrencilerden, ilk dört yarıyılın derslerini başarılı olarak tamamladıkları halde, lisans diploması alamayacak duruma düşenlerle, aynı durumda olup, Meslek Yüksekokullarına devam etmek isteyenlere verilecek ön lisans ve Meslek Yüksekokulu diploması ile ilgili esaslar, Yükseköğretim Kurulu kararları çerçevesinde Fakülte/Yüksekokul Kurullarının önerisi üzerine Senato tarafında belirlenir. Bu durumdaki öğrencilerin lisans programlarındaki kayıtları silinir.

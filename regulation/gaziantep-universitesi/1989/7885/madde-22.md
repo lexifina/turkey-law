@@ -1,0 +1,2 @@
+İlişik Kesme
+MADDE 22 – Kendi isteği ile kayıt sildiren, çıkarılan ve mezun olmak suretiyle Üniversiteden ayrılanların, diplomalarını veya dosyalarındaki kendilerine ait belgeleri alabilmeleri için, bağlı bulunduğu Fakülte Dekanlığı ve Bölüm Başkanlığı ile, Rektörlüğe bağlı tüm Daire Başkanlılarından, borcu veya zimmetinde herhangi bir devlet malı bulunmadığını tevsik eder belge getirmeleri gerekir. Bu takdirde ilişik kesme işlemi tamamlanabilir.

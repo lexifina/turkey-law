@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – Bu Yönetmelik, 27/6/1987 tarih ve 19500 sayılı Resmi Gazete’de yayınlanarak yürürlüğe giren 2809 sayılı Kanuna eklenen geçici 14. Madde kapsamındaki ODTÜ statüsünde öğrenimlerini sürdüren öğrencilere de uygulanır.

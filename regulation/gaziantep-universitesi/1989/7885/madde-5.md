@@ -1,0 +1,3 @@
+Hazırlık Sınıfı ile, Meslek Yüksekokulu ve Lisans Programlarına Öğrenci Kabulü
+MADDE 5 – (Değişik: RG-21/11/2002-24943)
+Üniversitenin hazırlık sınıfı ile Meslek Yüksekokulu ve lisans programlarının birinci sınıflarına Öğrenci Seçme ve Yerleştirme Merkezi tarafından düzenlenen Öğrenci Seçme ve Yerleştirme Sınav sonuçlarına göre öğrenci alınır. Türk Musikisi Devlet Konservatuarı ve Beden Eğitimi ve Spor Yüksekokuluna, ÖSYM birinci basamak sınavı sonuçları ve ön kayıt-özel yetenek sınavlarına göre öğrenci alınır. Yabancı uyruklu öğrencilerin Yükseköğretim Kurulu Kararları ve Senatoca kabul edilen ilkeler çerçevesinde alınmaları mümkündür.

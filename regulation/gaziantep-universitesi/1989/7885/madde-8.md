@@ -1,0 +1,3 @@
+Dikey Geçişler
+MADDE 8 – Meslek Yüksekokulları mezunlarının lisans tamamlama programına kabulleri, kayıtlarının hangi yarıyıla yapılacağı ve intibak programları, “Meslek Yüksekokulları Mezunlarının Lisans Öğrenimine Devamları Hakkındaki Yönetmelik” ile, “Öğretmen Yetiştiren Yüksekokul Mezunlarının Lisans Öğrenimi Yapmaları Hakkındaki Yönetmelik” hükümlerine göre, ilgili Yönetim Kurullarınca karara bağlanır ve Rektörlük onayı ile kesinleşir.
+İlk iki yarıyılın bütün derslerinden başarılı olup daha sonraki yarıyıllarda lisans programlarından kaydı silinen öğrencilerin, Meslek Yüksekokullarına intibakları, Yükseköğretim Kurulu tarafından belirlenecek yönetmelik esaslarına göre yapılır.
