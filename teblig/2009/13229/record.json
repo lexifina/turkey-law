@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.13229",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİ YÖNETMELİĞİ (89/106/EEC) KAPSAMINDA UNİVERSAL SERTİFİKASYON VE GÖZETİM HİZMETLERİ TİCARET LTD. ŞTİ.’NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (TEBLİĞ NO: YİG/2009-05)",
+  "number": "13229",
+  "issuer": "Bayındırlık ve İskân Bakanı",
+  "path": "teblig/2009/13229",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13229&MevzuatTertip=5",
+  "source_sha256": "d8ed6e192d0676e1a6c409e32e782b02e92e45e51b70a93df5f5c0f94b6b6833",
+  "source_bytes": 84438,
+  "published": "2009-07-17",
+  "gazette": "27291",
+  "in_force": "2012-04-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/4/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-04-03",
+      "RG-3/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-02-25",
+      "RG-25/2/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1116,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://ec.europa.eu/enterprise/newapproach/nando/index.cfm?fuseaction=notification.html&dir_id=3&ntf_id=156852&version_no=4&lst_version_no=4,3,2,1&max_version=4&history_flg=Y##"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
