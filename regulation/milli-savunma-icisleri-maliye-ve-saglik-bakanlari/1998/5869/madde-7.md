@@ -1,0 +1,6 @@
+Başvuru Üzerine Yapılacak İşlemler
+Madde 7 - Başvuru üzerine, valilik veya kaymakamlıklar tarafından başvuru ve bilgi formu ile ekli belgeler incelenerek, bilgilerin doğruluğu onaylandıktan sonra, en geç başvuruyu takip eden 15 gün içerisinde, görüşülmek üzere Kurula sevk edilir.
+Kurullar, kanundan yararlanmak isteyenlerin başvurularını değerlendirmek üzere ayda en az bir defa toplanır ve başvuruyu kurula sevk edilişinden itibaren en geç bir ay içerisinde karara bağlar.
+Kurullar; taleplerin sağlıklı olarak değerlendirilebilmesi için, kanundan yararlanmak üzere başvuranların durumlarını, sosyal güvenlik kuruluşları, tarım kredi ve satış kooperatifleri, bankalar, kanunla kurulmuş meslek teşekkülleri ve diğer resmi ve tizel kurum ve kuruluşlardan bilgi ve belge isteyerek araştırabilirler. Kurullar, başvuru sahiplerinin ikamet ettikleri köy ve mahallelerin muhtarlarını, kurul toplantılarına çağırarak da gerekli bilgileri alabilirler.
+Gerekli görülen hallerde, emniyet ve jandarma teşkilatı, başvuru ve bilgi formu ile beyan edilen erbaş ve er ailesinin durumunu araştırarak sosyal yaşantı düzeyi ve kayıtlarda görülmeyen ekonomik ve mali durumları hakkındaki tespitlerini Formda göstermek suretiyle Kurula bildirir.
+Tüm kurum ve kuruluşlar istenilen her türlü belgeyi kurula derhal bildirmekle yükümlüdürler.

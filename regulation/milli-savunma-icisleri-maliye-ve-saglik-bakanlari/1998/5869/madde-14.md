@@ -1,0 +1,3 @@
+Ödemenin Yapılmayacağı Durumlar
+Madde 14 - Muhtaç erbaş ve er ailelerine, 2 nci madde kapsamında olmayan ve 5 inci maddede belirtilen başvuru usul ve esaslarına uymayan başvurular üzerine yapılan hizmetlere ait ücret ve bedeller ile 12 nci maddeye uygun olarak düzenlenmemiş reçete bedelleri fatura edilmez ve ödenmez.
+Aynı şekilde firar, izin aşımı ve hürriyeti bağlayıcı ceza gibi askerlik hizmetinden sayılmayan sürelerde tedavi müracaatı dahil, kanunun sağladığı imkanlardan yararlanmak üzere başvuran muhtaç erbaş ve er ailesinin yapacağı hiç bir müracaat kabul edilmez ve görülen sağlık hizmetleri ile ilgili fatura bedelleri ödenmez.

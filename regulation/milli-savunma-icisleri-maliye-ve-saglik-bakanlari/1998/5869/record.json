@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.5869",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MUHTAÇ ERBAŞ VE ER AİLELERİNİN ÜCRETSİZ TEDAVİSİ HAKKINDA YÖNETMELİK",
+  "number": "5869",
+  "issuer": "Milli Savunma, İçişleri, Maliye ve Sağlık Bakanları",
+  "issuer_slug": "milli-savunma-icisleri-maliye-ve-saglik-bakanlari",
+  "path": "regulation/milli-savunma-icisleri-maliye-ve-saglik-bakanlari/1998/5869",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5869&MevzuatTertip=5",
+  "source_sha256": "a0abaa462641469503f6ba495ab725b5933b77049c3203bc55cf948550ec5fb8",
+  "source_bytes": 76035,
+  "published": "1998-07-07",
+  "gazette": "23395",
+  "in_force": "2012-04-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/4/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-04-03",
+      "RG-3/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-01-30",
+      "RG-30/1/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2278,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.5869%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

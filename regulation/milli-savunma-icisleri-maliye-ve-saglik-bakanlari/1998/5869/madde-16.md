@@ -1,0 +1,3 @@
+Yersiz Ödenen Tutarın Geri Alınması ve Cezai Kovuşturma
+Madde 16 - Sağlık Cüzdanının düzenlenmesinde esas alınan hususların gerçeğe uymadığının belirlenmesi halinde, Sağlık Cüzdanına dayanılarak ödenmiş olan meblağ, kanuni faiziyle birlikte genel hükümlere göre sorumlulardan (kanun ve bu yönetmeliğe göre sağlık hizmetlerinden yararlananlardan, bunların veli ve vasilerinden veya erbaş ve erden) tahsil edilmek üzere, muhakemat veya mal müdürlüklerine bildirilir.
+Gerçeğe uygun olmayan belgeleri düzenleyen ve kullananlar haklarında genel hükümlere göre ceza kovuşturması yapılmak üzere, Cumhuriyet Savcılığına bildirilirler.

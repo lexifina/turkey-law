@@ -1,0 +1,2 @@
+Reçetelerin Düzenlenmesi
+Madde 12 - Sağlık kurum ve kuruluşları tarafından, muhtaç erbaş ve er ailesinin yatarak, ayakta ve meskende tedavi halinde kullanacakları ilaçlar ile resmi sağlık kurumu raporu ile belirlenen ve tüberküloz, kanser, kronik böbrek, akıl hastalıkları, organ nakli ve benzeri uzun süre tedaviye ihtiyaç gösteren hastalıkların ayakta veya meskende tedavileri sırasında kullanılması gerekli görülen ilaçlardan hayati önemi haiz olanlar için Bütçe Uygulama Talimatı'ndaki esaslara uygun olarak reçete düzenlenir.
