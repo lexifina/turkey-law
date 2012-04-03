@@ -1,0 +1,3 @@
+Yazılı Sınavların Yapılışı
+MADDE 26- Yazılı sınavlar, Sınav Kurulu veya gerektiğinde Kurulca görevlendirilen müfettişlerin gözetiminde yapılır. Sınava katılan adayların kimlikleri bir tutanakla tespit edilir. Soru zarflarının sağlam, kapalı ve mühürlü olduğu hususunda da ayrı bir tutanak düzenlenir. Daha sonra zarflar açılarak sorular yazdırılır veya dağıtılır.
+Sınav sonunda, sınava katılanların isimleri ve kaç kağıt kullandıkları. Sınavın başlama ve bitiş saatleri. Bir tutanakla tespit edilir. Toplanan sınav kağıtları ve tutanaklar bir zarf içerisine konularak, mühürlenip Sınav Kurulu Başkanına teslim edilir.

@@ -1,0 +1,4 @@
+Raporlar Üzerinde Başkanlıkça Yapılacak İşlemler
+MADDE 56- Müfettişler tarafından Başkanlığa gönderilen raporlar Başkan veya Başkanın görevlendirdiği bir müfettiş tarafından incelenir. Düzeltilmesi ve tamamlatılması gerektiği kanısına varılan hususlar varsa, bunların giderilmesi raporu düzenleyen müfettişten istenir. Müfettişin isteğe katılmaması halinde, Başkanca belirlenecek görüş veya gerektiği hallerde başka bir müfettişe yaptırılacak inceleme sonucuna göre Başkanca belirlenecek görüşü havi bir onay hazırlanarak Genel Müdüre sunulur. Onay sonucunda rapor aslı ve onay gereği için ilgili merkez birimlerine gönderilir.
+Fezlekeler ve adli takibat yapılması görüşünü havi soruşturma raporları Genel Müdür ve Başkan imzalı bir yazı ekinde kanunen verilmesi gereken makamlara gönderilir. Bunların birer nüshaları da, Genel Müdürün onayı ile İdare Hukuk Müşavirliğine intikal ettirilir.
+Fezleke ve rapor sonuçlarının izlenmesi Başkanlığa aittir.

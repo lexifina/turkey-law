@@ -1,0 +1,6 @@
+İşin Süresinde Bitirilememesi ve İşin Devri
+MADDE 15- a) Müfettişler, kendilerine verilen işleri, başkanlıkça belirtilen süreler içinde ve ara vermeden bitirirler. Süresinde tamamlanamayacağı anlaşılan işler hakkında Başkanlığa zamanında bilgi verip alacakları talimata göre hareket ederler.
+b) Müfettişlere verilen işin devredilmemesi asıldır. Müfettişler ellerindeki işleri, Başkanın yazılı emri veya izni ile başka bir müfettişe devredebilirler.
+c) Devredilecek işler için devri yapacak olan müfettiş bir yazı ile (Devir Notu ) hazırlar. En az üç nüsha olarak hazırlanacak devir notuna; devredilen işin ne olduğu devir gününe kadar işin hangi kısmını ne dereceye kadar incelendiği, iş hakkında ne gibi görüş ve kanata varıldığı, belirlenen görüş ve kanaat olarak o işin özelliğine göre bundan sonraki en uygun inceleme ve soruşturma şeklinin ne olması gerekeceği hakkındaki düşüncelerini yazar.
+Bundan başka, devredilen işe ait bütün belgeleri sıra numarası altında gösteren dizi pusulasının bir nüshasını işe ait belgelerle birlikte, işi devralan müfettişe imza karşılığında verir.
+Devir notunun ve dizi pusulasının ikinci nüshası bir yazı ile devreden müfettiş tarafından Başkanlığa gönderilir. Üçüncü nüsha devreden müfettişte kalır.

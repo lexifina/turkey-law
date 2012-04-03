@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 - Bu Yönetmeliğin yürürlüğe girdiği tarihten önce, 43 üncü maddede belirtilen şartların haiz olmak kaydıyla, İdareye Teftiş Kurulu Başkanı, Başmüfettiş ve Müfettiş olarak naklen atanmış olanlar, bu Yönetmeliğe göre müfettişliğe atanmış sayılırlar. Bunların eski kurumlarındaki müfettiş olarak görev yaptıkları süreler de, İdare Teftiş Kurulunda geçmiş sayılır.

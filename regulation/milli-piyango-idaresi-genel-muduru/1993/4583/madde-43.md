@@ -1,0 +1,2 @@
+Naklen Müfettişliğe Atanma
+MADDE 43- Bu Yönetmeliğin 20 nci maddesinde belirtilen fakülte ve yüksek okullardan birini bitirmiş olmak, Bakanlıkların Merkez teşkilatları ile kamu kurum ve kuruluşlarında mesleğe yarışma sınavı ile girip, belirli yetişme döneminden sonra yeterlilik sınavını vererek denetim elemanı olarak atanmış, Türkiye genelinde teftiş yetkisine haiz olarak yeterlilik sınavından sonra en az bir yıl denetim elemanı olarak çalışmış olanlar doğrudan müfettiş olarak atanabilirler.

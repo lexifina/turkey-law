@@ -1,0 +1,2 @@
+Sözlü Sınav
+MADDE 27- Yazılı giriş sınavını kazananlar bir yazı ile sözlü sınava davet edilirler. Sözlü sınavda, adayların yazılı sınav konuları ile genel kültür bilgileri yoklanır. Ayrıca, adayların zeka, intikal sürati, ifade kabiliyeti, tavır ve davranış gibi kişisel nitelikleri ile sözlü sınav öncesi Başkanlıkça aday hakkında müfettişler tarafından yapılan araştırma sonuçları da gözönünde bulundurulur.

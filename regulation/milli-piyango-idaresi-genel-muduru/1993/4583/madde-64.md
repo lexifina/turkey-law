@@ -1,0 +1,3 @@
+Çalışma ve Hakediş Çizelgeleri
+MADDE 64- Müfettişler ve müfettiş yardımcıları çalışmaları ile aylık, yolluk ve diğer haklarını aylar itibariyle düzenleyecekleri "Çalışma ve Hakediş" çizelgesinde gösterirler. Kendilerine tevdi olunan işlere müteselsil sıra numarası verirler. Verilen işler sonuçlandığında, düzenlenen raporun tarih ve sayısı çalışma ve hakediş cetvelinde gösterilir. Sonuçlanan İşler müteakip çizelgelere kaydedilmez.
+Her ay tahakkuk eden gündelikler ile yol ve nakil masrafları için örneğine uygun bir bildirim düzenlenerek ait olduğu ayı izleyen ayın ilk haftası içinde, çalışma ve hakediş cetveli ile birlikte Başkanlığa gönderilir.

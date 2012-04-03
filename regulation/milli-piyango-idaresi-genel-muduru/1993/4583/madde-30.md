@@ -1,0 +1,2 @@
+Kadrosuzluk
+MADDE 30- Müfettiş yardımcılığı kadrosu, sınavı kazananların tümünün atanmasını yeterli olmadığı takdirde, genel ortalama notu üstün olanların başarı sırasına göre atamaları yapılır. Diğerleri için sınav sonucu hiçbir müktesep hak teşkil etmez. Ancak, bu suretle sınavı kazandıkları halde atamaları yapılamayanlar, bu yönetmeliğin 20 nci maddesinin (g) fıkrasının uygulanmasında giriş sınavına katılmamış sayılırlar.
