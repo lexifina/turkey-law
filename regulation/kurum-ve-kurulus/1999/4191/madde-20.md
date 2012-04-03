@@ -1,0 +1,2 @@
+Tesislerden il müdürlüğünün yararlanması (Değişik başlık:RG-3/4/2012-28253)
+Madde 20- (Değişik ibare:RG-3/4/2012-28253) İl müdürlüğü, grup müsabakaları, turnuvalar, kurslar gibi sportif faaliyetlerin yoğun olduğu dönemlerde özel spor tesislerini kullanma yetkisine sahiptir. İl ve ilçe müdürlükleri en az 15 gün önce tesis sahibine faaliyetin hangi dalında olduğunu ve faaliyet süresini bildirmekle yükümlüdür. Bu kullanım dönemlerinde (Değişik ibare:RG-3/4/2012-28253) il müdürlüğü ısıtma, aydınlatma, su, temizlik gibi tesisin zaruri giderlerini ödemekle yükümlüdür.

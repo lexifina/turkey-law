@@ -1,0 +1,3 @@
+Sağlık
+Madde 24- Tesiste çalışmalar devam ettiği sürece meydana gelecek sakatlıklarda ilk yardım için gereken ilaç ve malzemeler eksiksiz olarak ilk yardım dolabında bulundurulur ve tesiste çalışanların görebileceği bir yere asılır. Çalışmalara katılan kişilerin spor çalışmalarına kabullerinden önce spor branşının özelliğine göre federasyonlarınca zorunlu görülen dallarda bir doktor muayenesinden geçmiş olmalarını belgelemeleri gerekir. Bununla ilgili her kişi için birer sağlık dosyası düzenlenir. En az 3’er aylık aralıklarla tesiste spor çalışması yapanların sağlık muayeneleri yaptırmaları istenir.
+Özel tesisler bir sağlık kuruluşuyla bağlantılı çalışır ve bu kuruma ait bilgiler görülecek yerlere asılır.

@@ -1,0 +1,2 @@
+Açılış izni verecek komisyonun tespiti
+Madde 12- İl, ilçe, bucak, belde veya köylerde açılacak özel tesislerin açılış izni için il müdürünün teklifi ve (Değişik ibare:RG-3/4/2012-28253) valinin onayı ile en az beş kişilik komisyon kurulur. Bu komisyona il müdürü veya görevlendireceği bir şube müdürü başkanlık eder. Komisyonun diğer üyeleri arasında spor şube müdürü, tesisler şube müdürü, ildeki ilgili spor dalı federasyonu temsilcisi ve il sağlık müdürlüğünden bir kişinin bulunması zorunludur.

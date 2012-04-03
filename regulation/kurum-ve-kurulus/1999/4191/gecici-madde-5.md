@@ -1,0 +1,1 @@
+Geçici Madde 5- Futbol Federasyonu Başkanlığınca gerekli düzenlemeler yapılıncaya kadar özel suni çim futbol tesislerine ilişkin esaslar Daire Başkanlığınca belirlenir ve belirlenen esaslar doğrultusunda yeterlilik belgesiyle açılış izni il müdürlüklerince verilir.

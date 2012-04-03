@@ -1,0 +1,1 @@
+Geçici Madde 4- Kondisyon merkezi, spor masajı salonu vb. sporlarla ilgili alanlarda özel beden eğitimi ve spor tesisi açmak isteyenler, Genel Müdürlükçe belirlenecek esaslara ve bu yönetmelik hükümlerine uygun olarak illerde il müdürlüğünün teklifi il başkanının onayından sonra tesis açabilir.

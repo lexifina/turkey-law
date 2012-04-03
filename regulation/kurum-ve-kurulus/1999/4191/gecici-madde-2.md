@@ -1,0 +1,1 @@
+Geçici Madde 2- Spor dallarının müsabaka yönetmeliklerinde beden eğitimi ve spor tesisleri ile ilgili olarak alan ölçüleri ve özel şartları belirtilmeyen durumlarda ilgili spor dalı federasyonun belirlediği şartlar aranır. Diğer spor dallarında ise bu konuda Genel Müdürlüğün görüşü alındıktan sonra tesise açılış izni verilir.

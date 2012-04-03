@@ -1,0 +1,4 @@
+Öğretici çalıştırma zorunluluğu
+Madde 22- (Değişik:RG-15/10/2010-27730)
+İşletici, Genel Müdürlükçe verilen en az ikinci kademe antrenörlük belgesi, henüz ikinci kademe yetiştirilmeyen branşlarda birinci kademe antrenör belgesi, federasyonlarca isimlendirilen diğer eğitici belgesi, spor masajı dalında ise masör ve masöz belgesi bulunan çalıştırıcı tutmak zorundadır.
+Antrenör belgesi bulunan çalıştırıcılar aynı il veya ilçelerinde ikiden fazla tesisle sözleşme yapamazlar. Ayrıca başka illerde çalışamazlar. Sözleşmede çalıştırıcının çalışma saatleri ve izin günleri belirtilir. Çalıştırıcı çalışma saatleri içerisinde; hastalık, tabi afetler gibi özel durumlar dışında tesiste bulunmak zorundadır. Yapılan sözleşmeler bir yıllık olarak yapılır ve her yıl sonunda yenilenir. Çalıştırıcıların belgesi salonda herkesin görebileceği yere asılır.

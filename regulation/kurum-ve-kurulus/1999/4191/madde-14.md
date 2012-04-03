@@ -1,0 +1,2 @@
+Denetim
+Madde 14- Özel beden eğitimi ve spor tesislerinin, spor dalının ilgili federasyonlarınca öngörülen ölçü ve esaslarına uygun olup olmadığı bu Yönetmelikte aranılan şartları taşıyıp taşımadıkları, genel ahlak kurallarına, ilgili spor dalının amacına ve kurallarına uygun faaliyet yapıp yapmadıkları konusunda ilgili federasyon başkanlıkları, (Değişik ibare:RG-3/4/2012-28253) il müdürlüğü ve Genel Müdürlüğün ilgili birimlerince her zaman denetlenebilir.

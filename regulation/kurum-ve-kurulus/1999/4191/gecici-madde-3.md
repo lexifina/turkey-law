@@ -1,0 +1,1 @@
+Geçici Madde 3- Bu Yönetmeliğin Resmi Gazete’de yayımlanmasından sonra, en geç iki ay içinde bütün federasyonlar veya ilgili birimler özel beden eğitimi ve spor tesislerinin açılmasıyla ilgili olarak branşları için gerekli olan esas ve usulleri belirlemek zorundadır.
