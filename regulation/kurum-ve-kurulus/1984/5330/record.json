@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.5330",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TAŞINIR KÜLTÜR VARLIĞI TİCARETİ VE BU TİCARETE AİT İŞYERLERİ İLE DEPOLARIN DENETİMİ HAKKINDA YÖNETMELİK",
+  "number": "5330",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1984/5330",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5330&MevzuatTertip=5",
+  "source_sha256": "8cc12251d0745f9ce9bb3c08315031df87b4362ac222ce496a537d220fd1a48c",
+  "source_bytes": 17037,
+  "published": "1984-01-11",
+  "gazette": "18278",
+  "in_force": "2012-04-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/4/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-04-03",
+      "RG-3/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 668,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
