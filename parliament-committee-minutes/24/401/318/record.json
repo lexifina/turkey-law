@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "AVRUPA BİRLİĞİ UYUM KOMİSYONU",
+  "committee_id": 401,
+  "meeting_date": "2012-04-04",
+  "meeting_date_as_published": "04/04/2012",
+  "agenda": [
+    "KOLLUK GÖZETİM KOMİSYONU KURULMASI VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN TASARISI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/318",
+  "pdf_sha256": "e5854d360d8c29d410b83d397e2065e8125cc960fde5103fe2ddd4666710d907",
+  "pdf_pages": 48,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=401)",
+  "listing_sha256": "f179beba18379c567903181d6e6793c3ab65cc1370529777edce3e2e51c9a93e",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-04-04",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
