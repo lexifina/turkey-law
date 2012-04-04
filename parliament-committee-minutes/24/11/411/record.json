@@ -1,0 +1,25 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "DIŞİŞLERİ KOMİSYONU",
+  "committee_id": 11,
+  "meeting_date": "2012-04-04",
+  "meeting_date_as_published": "04/04/2012",
+  "agenda": [
+    "1978 PROTOKOLÜ İLE DEĞİŞİK 1973 TARİHLİ DENİZLERİN GEMİLER TARAFINDAN KİRLETİLMESİNİN ÖNLENMESİNE AİT ULUSLARARASI SÖZLEŞMEYİ DEĞİŞTİREN 1997 PROTOKOLÜNE KATILMAMIZIN UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/587)",
+    "1992 PETROL KİRLİLİĞİ ZARARININ TAZMİNİ İÇİN BİR ULUSLARARASI FONUN KURULMASI İLE İLGİLİ ULUSLARARASI SÖZLEŞMENİN 2003 PROTOKOLÜNE KATILMAMIZIN UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/540)",
+    "2001 GEMİ YAKITLARINDAN KAYNAKLANAN PETROL KİRLİLİĞİ ZARARININ HUKUKİ SORUMLULUĞU HAKKINDA ULUSLARARASI SÖZLEŞMEYE KATILMAMIZIN UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/561)",
+    "2004 GEMİ BALAST SUYU VE SEDİMANLARININ KONTROLÜ VE YÖNETİMİ HAKKINDA ULUSLARARASI SÖZLEŞMEYE KATILMAMIZIN UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/570)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE ENDONEZYA CUMHURİYETİ HÜKÜMETİ ARASINDA İŞGÜCÜNÜN GELİŞTİRİLMESİ HAKKINDA MUTABAKAT ZAPTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/290)",
+    "TÜRKİYE CUMHURİYETİ HÜKÜMETİ VE MAKEDONYA CUMHURİYETİ HÜKÜMETİ ARASINDA HAVA ULAŞTIRMA ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN TASARISI (1/552)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/411",
+  "pdf_sha256": "4ba72a8841b72f2ee076c88f57cadbf3a308772e34cfaa43e7614363c00a4e06",
+  "pdf_pages": 26,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=11)",
+  "listing_sha256": "efc563a4b8d46e4875ff97f17d46f82861739696a9966ad2a4657ae091dbe9bd",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-04-04",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
