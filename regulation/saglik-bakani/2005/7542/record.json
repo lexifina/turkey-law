@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.7542",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EVDE BAKIM HİZMETLERİ SUNUMU HAKKINDA YÖNETMELİK",
+  "number": "7542",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2005/7542",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=7542&MevzuatTertip=5",
+  "source_sha256": "d45d04bcb6ef649fc361c3900d2169dbae4d3107918f873cc1fcfcf21f735a70",
+  "source_bytes": 189782,
+  "published": "2005-03-10",
+  "gazette": "25751",
+  "in_force": "2012-04-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/4/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-04-04",
+      "RG-4/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-10-17",
+      "RG-17/10/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-11-06",
+      "R.G.:6/11/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4959,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

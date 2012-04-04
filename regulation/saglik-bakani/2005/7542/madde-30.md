@@ -1,0 +1,4 @@
+Tanıtım ve Bilgilendirme
+Madde 30 — Sağlık kuruluşları, insanları yanıltıcı, paniğe sevk edici, yanlış yönlendirici, benzer nitelikteki kuruluşlar ve çalışanları arasında haksız rekabete yol açıcı davranışlarda bulunamazlar.
+Ancak, sadece sağlık kuruluşundan evde bakım hizmeti talep eden kişilerin kullanımına yönelik olarak, temel olarak sağlığı geliştirici ve koruyucu nitelikte, faaliyet gösterdiği alan ile ilgili sağlık sorunları, bu sorunlardan korunma veya sağlık sorunlarının kişide meydana getirdiği olumsuzlukların şahsi tedbirler aracılığı ile giderilmesi veya azaltılması hakkında bilgiler içeren eğitim materyalleri hazırlayabilirler.
+Sağlık kuruluşları ve çalışanları, yukarıda açıklanan hususlara riayet etmek şartıyla tanıtım ve bilgilendirme niteliğindeki her türlü faaliyetleri için Müdürlükten izin almak zorundadır.

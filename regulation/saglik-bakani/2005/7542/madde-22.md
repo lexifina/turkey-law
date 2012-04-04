@@ -1,0 +1,2 @@
+Tıbbi Cihaz Hizmetleri
+Madde 22 — Merkez veya birimler, evde bakım hizmeti verdikleri sırada gerekli olabilecek oksijen, oksijen konsantretörü, pulse oksimetre, her türlü solunum araçları, ortopedik malzemeler, havalı yatak, hasta karyolası, tekerlekli sandalye gibi cihazları sağladıkları taktirde bu cihazların kalibrasyon, temizlik ve kontrollerinden de sorumludur. Bu hizmeti, tescilli distribütör veya üreticilerden sağladığı taktirde bu firmalarla yaptığı sözleşmeleri belgelemekle yükümlüdür.
