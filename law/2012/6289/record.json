@@ -1,0 +1,76 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6289",
+  "year": 2012,
+  "title": "Kamu Görevlileri Sendikaları Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2012-04-04",
+  "adopted_as_published": "04/04/2012",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "11.4.2012 No: 28261",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc096/kanuntbmmc096/kanuntbmmc09606289.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 96",
+  "committee_reports": [
+    {
+      "label": "TBMM 200 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c018/tbmm24018088ss0200.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 24,
+      "kayit_no": 4161134,
+      "title": "Kamu Görevlileri Sendikaları Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "04/04/2012",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc096/kanuntbmmc096/kanuntbmmc09606289.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 200 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c018/tbmm24018088ss0200.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 18,
+          "sitting": 89,
+          "sitting_date": "2012-04-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c018/tbmm24018089.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c018/tbmm24018fih.pdf",
+          "pages": [
+            "429:433",
+            "434:438",
+            "439:477"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 90,
+          "sitting_date": "2012-04-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c018/tbmm24018090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c018/tbmm24018fih.pdf",
+          "pages": [
+            "544:568",
+            "569:574",
+            "579.584",
+            "584:617"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "b76119a4b58ffb6b21b1bc0f04d14a3f390d77dea1defef11f4e17b3eed5b6fc"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b76119a4b58ffb6b21b1bc0f04d14a3f390d77dea1defef11f4e17b3eed5b6fc",
+  "issuer": "TBMM",
+  "in_force": "2012-04-04",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 04/04/2012; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
