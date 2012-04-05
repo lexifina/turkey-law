@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "MİLLİ SAVUNMA KOMİSYONU",
+  "committee_id": 34,
+  "meeting_date": "2012-04-05",
+  "meeting_date_as_published": "05/04/2012",
+  "agenda": [
+    "SAVUNMA SANAYİİ MÜSTEŞARLIĞININ ÇALIŞMALARIYLA İLGİLİ KOMİSYONA BİLGİ SUNULMASI"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/118",
+  "pdf_sha256": "3d461fa1eae7839923a0b32e334847c776be7336f03d62bea5a2a1b8c214c769",
+  "pdf_pages": 21,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=34)",
+  "listing_sha256": "50ac11637883edc4af9bd9a12cd46ecf668d2b0ceaa2898b3bebcf0a1f003145",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-04-05",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
