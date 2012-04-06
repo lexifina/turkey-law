@@ -1,0 +1,2 @@
+Başvuru
+MADDE 1 ‒ (1) Yerli üreticiler tarafından, 36.05 Gümrük Tarife Pozisyonunda (G.T.P.) sınıflandırılan kibrit ithalatında uygulanmakta olan korunma önleminin süresinin uzatılması talebiyle Ekonomi Bakanlığı (Bakanlık) İthalat Genel Müdürlüğü’ne (Genel Müdürlük) başvuruda bulunulmuştur. Söz konusu başvurunun gizli olmayan özetine Bakanlığın internet sitesi (http://www.ekonomi.gov.tr) “Ticaret Politikası Savunma Araçları” sayfasında yer alan “Korunma Önlemleri” bağlantısından ulaşılabilir.
