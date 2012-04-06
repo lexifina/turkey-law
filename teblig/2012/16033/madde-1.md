@@ -1,0 +1,1 @@
+MADDE 1 ‒ (1) Bu Tebliğ, Dünya Ticaret Örgütü Tarım Anlaşması çerçevesinde, Bakanlar Kurulu’nun 27/12/1994 tarihli ve 94/6401 sayılı “İhracata Yönelik Devlet Yardımları Kararı”na dayanılarak hazırlanan, Para-Kredi ve Koordinasyon Kurulu’nun 21/03/2012 tarihli ve 2012/2 sayılı Kararı’na istinaden hazırlanmıştır.

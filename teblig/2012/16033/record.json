@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16033",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TARIMSAL ÜRÜNLERDE İHRACAT İADESİ YARDIMLARINA İLİŞKİN PARA-KREDİ VE KOORDİNASYON KURULU TEBLİĞİ (TEBLİĞ NO: 2012/2)",
+  "number": "16033",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2012/16033",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16033&MevzuatTertip=5",
+  "source_sha256": "849a7cff3baf6fb036a9f37c88fc3eee571164174ce481e110b1be0a1d7968de",
+  "source_bytes": 77695,
+  "published": "2012-04-06",
+  "gazette": "28256",
+  "in_force": "2012-04-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.04.2012); own commencement article: \"Bu Tebliğ 01/01/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 01/01/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2563,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
