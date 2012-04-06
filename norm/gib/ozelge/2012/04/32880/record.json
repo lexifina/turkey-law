@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.01-35-02-407",
+  "source_id": 32880,
+  "date": "2012-04-06",
+  "title": "Sürgü-ördek-küvet olarak ticari tanımı olan eşyanın KDV Oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32880",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "3dd6eb567566a3011b47b49c4f017f219ba1deab8832f87a68437aec23cad643",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
