@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-04-08",
+  "issue": "28258",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Bölge Adliye Mahkemesi Adli Yargı Adalet Komisyonlarınca Bilirkişi Listelerinin Düzenlenmesi Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120408-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120408.htm",
+  "index_sha256": "5ca2becbac5fe4d3e8a3c5b8af99698c47cab71e7ba9c66a0b15869045e0ae6d",
+  "index_header": "8 Nisan 2012 ... 28258 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
