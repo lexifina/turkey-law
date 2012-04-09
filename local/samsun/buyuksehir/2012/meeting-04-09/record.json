@@ -1,0 +1,24 @@
+{
+  "number": "meeting-04-09",
+  "number_as_published": null,
+  "year": 2012,
+  "title": "09.04.2012 Meclis Kararları",
+  "decision_date": "2012-04-09",
+  "source": "https://samsun.bel.tr/api/public/kurumsal/meclis-encumen/meclis-kararlari?page=4&limit=100",
+  "official_document": null,
+  "source_sha256": "79da0bb82d9c0f2019196652dde1bb7303876b3843c378b4697fe331f2b567bc",
+  "issuer": "Samsun Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the decisions are printed inline on the official meeting page (official_page); not transcribed",
+  "in_force": "2012-04-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.04.2012 Meclis Kararları (official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council meeting (sitting): its decision summaries",
+  "official_page": "https://samsun.bel.tr/kurumsal/meclis-encumen/meclis-kararlari/09042012-meclis-kararlari-09042012",
+  "posting_date_in_page_address": "2012-04-09"
+}
