@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "34740",
+  "decision_date": "2012-04-10",
+  "source_id": 4564,
+  "chamber": "8",
+  "file_number": "33804",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4564/",
+  "source_sha256": "21e9fa72678bb58bf926dbdd587becf070088f917def6bbb3b36c074b64ce01e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
