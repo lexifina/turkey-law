@@ -65,10 +65,9 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 (…) (10)
 52) Basın-Yayın ve Enformasyon Genel Müdürlüğü
 (…) (7)
-(…) (7)
-(…) (7)
-(…) (7)
 (…) (2)
+53) (Ek: 11/10/2011-KHK-663/58 md.) Türkiye Halk Sağlığı Kurumu
+54) (Ek: 11/10/2011-KHK-663/58 md.) Türkiye Kamu Hastaneleri Kurumu
 ––––––––––––––
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “45) Orman Genel Müdürlüğü” sırası çıkarılmış ve cetvelin sıra numaraları teselsül ettirilmiştir.
 (2) 16/5/2006 tarihli ve 5502 sayılı Kanunun 42 nci maddesiyle, bu cetvelde yer alan "52-Sosyal Güvenlik Kurumu Başkanlığı" ibaresi çıkarılmıştır.
@@ -140,7 +139,7 @@ TEKNOLOJİ ENSTİTÜLERİ
 50) Pamukkale Üniversitesi
 51) Sakarya Üniversitesi
 52) Süleyman Demirel Üniversitesi
-53) Zonguldak Karaelmas Üniversitesi
+53) (Değişik: 30/3/2012-6287/22 md.) Bülent Ecevit Üniversitesi
 54) Eskişehir Osmangazi Üniversitesi
 55) Galatasaray Üniversitesi
 56) (Ek: 1/3/2006-5467/5 md.) Ahi Evran Üniversitesi
@@ -148,7 +147,7 @@ TEKNOLOJİ ENSTİTÜLERİ
 58) (Ek: 1/3/2006-5467/5 md.) Düzce Üniversitesi
 59) (Ek: 1/3/2006-5467/5 md.) Mehmet Akif Ersoy Üniversitesi
 60) (Ek: 1/3/2006-5467/5 md.) Uşak Üniversitesi
-61) (Ek: 1/3/2006-5467/5 md.) Rize Üniversitesi
+61) (Ek: 1/3/2006-5467/5 md.; Değişik: 30/3/2012-6287/22 md.) Recep Tayyip Erdoğan Üniversitesi
 62) (Ek: 1/3/2006-5467/5 md.) Namık Kemal Üniversitesi
 63) (Ek: 1/3/2006-5467/5 md.) Erzincan Üniversitesi
 64) (Ek: 1/3/2006-5467/5 md.) Aksaray Üniversitesi
@@ -189,11 +188,11 @@ TEKNOLOJİ ENSTİTÜLERİ
 99) (Ek: 14/7/2010-6005/2 md.) Bursa Teknik Üniversitesi
 100) (Ek: 14/7/2010-6005/2 md.) İstanbul Medeniyet Üniversitesi
 101) (Ek: 14/7/2010-6005/2 md.) İzmir Kâtip Çelebi Üniversitesi
-102) (Ek: 14/7/2010-6005/2 md.) Konya Üniversitesi
-103) (Ek: 14/7/2010-6005/2 md.) Kayseri Abdullah Gül Üniversitesi
+102) (Ek: 14/7/2010-6005/2 md.; Değişik: 30/3/2012-6287/22 md.) Necmettin Erbakan Üniversitesi
+103) (Ek: 14/7/2010-6005/2 md. ;Değişik: 30/3/2012-6287/22 md.) Abdullah Gül Üniversitesi
 104) (Ek: 14/7/2010-6005/2 md.) Erzurum Teknik Üniversitesi
 105) (Ek: 31/3/2011-6218/2 md.) Adana Bilim ve Teknoloji Üniversitesi
-B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)(8)
+B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)(8)(9)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
 3) (Ek: 25/6/2009-5917/47 md.) Atatürk Araştırma Merkezi
@@ -211,7 +210,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)(8)
 15) Devlet Opera ve Balesi Genel Müdürlüğü
 16) (Ek: 1/7/2006-5538/1 md.) Orman Genel Müdürlüğü
 17) Vakıflar Genel Müdürlüğü
-18) Hudut ve Sahiller Sağlık Genel Müdürlüğü
+18) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü (9)
 (…) (8)
 20) Maden Tetkik ve Arama Genel Müdürlüğü
 21) Sivil Havacılık Genel Müdürlüğü
@@ -237,6 +236,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)(8)
 41) (Ek: 8/8/2011-KHK-649/60 md.) Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı
 42) (Ek: 11/10/2011-KHK-662/58 md.) Devlet Su İşleri Genel Müdürlüğü
 43) (Ek: 10/10/2011-KHK-658/12 md.) Türkiye Su Enstitüsü
+44) (Ek: 11/10/2011-KHK-663/58 md.) Türkiye İlaç ve Tıbbî Cihaz Kurumu
 *** Bu cetvelde yer alan dipnotlar için devamı sayfaya bakınız.
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 1 inci maddesiyle, bu cetvelde yer alan “10) Devlet Opera ve Balesi Genel Müdürlüğü” sırasından sonra gelmek üzere “11) Orman Genel Müdürlüğü” sırası eklenmiş ve cetvelin sıra numaraları teselsül ettirilmiştir.
 (2) 28/9/2006 tarihli ve 5548 sayılı Kanunun 36 ncı maddesiyle, bu bölüme “29) Kamu Denetçiliği Kurumu “ ibaresi eklenmesinden dolayı bu kuruma ait sıra numarası yeniden teselsül ettirilmiş, daha sonra bu sıra; 4/4/2009 tarihli ve 27910 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile 28/9/2006 tarihli ve 5548 sayılı Kamu Denetçiliği Kurumu Kanununun tümüyle iptal edilmesinden dolayı yürürlükten kaldırılmıştır.
@@ -246,6 +246,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)(8)
 (6) 8/8/2011 tarihli ve 648 sayılı KHK’nin 19 uncu maddesiyle, bu bölümde yer alan “31) Özel Çevre Koruma Kurumu Başkanlığı” sırası yürürlükten kaldırılmıştır.
 (7) 8/8/2011 tarihli ve 649 sayılı KHK’nin 60 ncı maddesiyle, bu bölümde yer alan “24) Millî Prodüktivite Merkezi” sırası yürürlükten kaldırılmıştır.
 (8) 11/10/2011 tarihli ve 662 sayılı KHK’nin 58 inci maddesiyle, bu bölümde yer alan 19 uncu sıra yürürlükten kaldırılmıştır.
+(9) 11/10/2011 tarihli ve 663 sayılı KHK’nin 58 inci maddesiyle, bu bölümün 18 numaralı sırasında yer alan “Hudut ve Sahiller Sağlık Genel Müdürlüğü” ibaresi “Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü” olarak değiştirilmiştir.
 (III) SAYILI CETVEL (1)
 (Değişik: 22/12/2005-5436/12 md.)
 DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR

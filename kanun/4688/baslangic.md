@@ -1,4 +1,5 @@
-KAMU GÖREVLİLERİ SENDİKALARI KANUNU
+KAMU GÖREVLİLERİ SENDİKALARI VE TOPLU
+SÖZLEŞME KANUNU (1)
 Kanun Numarası : 4688
 Kabul Tarihi : 25/6/2001
 Yayımlandığı R. Gazete : Tarih : 12/7/2001 Sayı : 24460

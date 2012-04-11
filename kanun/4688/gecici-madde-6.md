@@ -1,4 +1,4 @@
-GEÇİCİ MADDE 6 - Bu Kanunun yayımı tarihinde faaliyette bulunan kamu görevlileri kuruluşları, bu Kanunun yürürlüğe girmesinden itibaren sekiz ay içinde;
+Geçici Madde 6 – Bu Kanunun yayımı tarihinde faaliyette bulunan kamu görevlileri kuruluşları, bu Kanunun yürürlüğe girmesinden itibaren sekiz ay içinde;
 a) Mevcut tüzüklerine göre olağanüstü genel kurullarını yaparak, tüzük ve örgütlenmelerini bu Kanun hükümlerine göre düzenlemek,
 b) Yeni örgüt ve tüzüklerine göre ilk olağan genel kurullarını da yapmak zorundadırlar.
 Belirlenen süre içerisinde, bu Kanuna uygun olarak yeni tüzüklerini düzenlememiş ve ilk olağan genel kurullarını yapmamış kuruluşlar bu Kanunda tanımlanan sendikaların hak ve yetkilerini kullanamazlar.
