@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6289",
+  "year": 2012,
+  "title": "Kamu Görevlileri Sendikaları Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-04-11",
+  "gazette_issue": "28261",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120411-9.htm",
+  "source_sha256": "df81245c5d381fa38e5845ec9779b35716a4e00d3b64f3a65c27ce12d294e450",
+  "text_sha256": "9d9616afda00ad6f199d8c0b5bfd7bcc687a6c427b75e097b9bc6617ab32f8ec",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/04/11/28261-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120411-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
