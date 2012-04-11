@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6290",
+  "year": 2012,
+  "title": "Adli Sicil Kanunu ile Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanunda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-04-11",
+  "gazette_issue": "28261",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120411-10.htm",
+  "source_sha256": "c1de7c0e285c7e6cdd13524f84d542a4530c540bc3f30074893a9dcdaf50c916",
+  "text_sha256": "586ab78373d4e6601006f47ba0f5f2e8d992495fd3c62f4b476eb2102f195467",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/04/11/28261-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120411-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
