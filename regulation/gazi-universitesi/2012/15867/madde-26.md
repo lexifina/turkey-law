@@ -1,0 +1,4 @@
+Sınav sonuçlarının ilanı ve sınav notuna itiraz
+MADDE 26 – (1) Sınav sonuçları ve sınav evrakı, sınav döneminin bitiş tarihinden itibaren en geç on beş gün içerisinde Yüksekokul Müdürlüğüne teslim edilir. Sınav sonuçları Yüksekokul Müdürlüğünce ilan edildiği anda kesinleşir. Sonuçlar internet üzerinden ilan edilebilir.
+(2) Sınav sonuçları, maddi hata durumunun belirlenmesi dışında değiştirilmez. Öğrenciler maddi hata itirazı için, sınav sonuçlarının ilanından itibaren en çok yedi iş günü içerisinde Yüksekokul Müdürlüğüne yazılı olarak başvurabilir.
+(3) Program danışmanınca yapılan inceleme sonunda öğrencilere sorulan sorularda bir maddi hata tespit edilirse, Yüksekokul Yönetim Kurulunca gerekli düzeltme yapılır ve sonuç ilan edilir. Maddi hata olmadığı anlaşılırsa durum öğrenciye yazılı olarak bildirilir.

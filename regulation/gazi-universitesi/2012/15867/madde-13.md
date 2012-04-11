@@ -1,0 +1,3 @@
+Öğretim programları ve dersler
+MADDE 13 – (1) Bölüm dersleri ile bu derslerin yarıyılına göre dağılımları, haftalık saatleri, kredileri ve ön şartları, öğretim türleri ve türler için öngörülen dönem ve süreleri, Yüksekokul Kurulunca belirlenir ve Senatonun onayına sunulur.
+(2) Öğretim programlarında Yüksekokul Kurulunca yapılacak değişiklikler sonucunda toplam ders saatlerinde ortaya çıkabilecek değişmeler; yapılacak uyum programı ile eski ve yeni girişli tüm öğrencilere uygulanır. Öğretim programlarında yapılan değişiklikler sonucunda, yeni programa intibak, program değişikliği sırasında hazırlanan ve Senato tarafından onaylanan uyum esaslarına göre yapılır.

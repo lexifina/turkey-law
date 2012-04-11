@@ -1,0 +1,3 @@
+Sınavların değerlendirilmesi ve başarı notu
+MADDE 27 – (1) Öğrencilerin, aldıkları derslerdeki başarı notu, 18/9/2011 tarihli ve 28058 sayılı Resmî Gazete’de yayımlanan Gazi Üniversitesi Eğitim-Öğretim ve Sınav Yönetmeliğinin 29 uncu maddesinde belirtilen esaslara göre belirlenir. Not yükseltmek isteyen öğrenciler, aynı Yönetmeliğin 30 uncu maddesine göre not yükseltebilir. Final sınavında DC notu alan öğrenciler için DC+ ve DC- belirlemesi yapılmaz. Bütünleme sınavı sonunda DC notları DC+ ve DC-’ye çevrilir. Bütünleme sınavına girmeyen öğrencilerin dönem sonu sınav notları dikkate alınır.
+(2) Öğrencilerin başarı durumu (not ortalamaları); Gazi Üniversitesi Eğitim-Öğretim Sınav Yönetmeliğinin 31 inci maddesine göre belirlenir.

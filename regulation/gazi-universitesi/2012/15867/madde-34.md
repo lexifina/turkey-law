@@ -1,0 +1,2 @@
+Tebligat ve adres bildirimi
+MADDE 34 – (1) Her türlü yazılı bildirim, öğrencinin programa kayıt sırasında bildirdiği adrese yazılı olarak yapılmak suretiyle tamamlanmış sayılır. Kayıt olurken bildirdikleri adresleri değiştirdikleri halde, bunu idareye bildirmemiş veya yanlış ya da eksik adres vermiş olan öğrencilerin mevcut adreslerine bildirim yapılması halinde, kendilerine bildirim yapılmış sayılır. Tebligatlar, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun elektronik ortamda tebligat hükümlerine göre yapılabilir.

@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 37 – (1) Bu Yönetmelik 2011-2012 eğitim öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-02-03",
+      "03.02.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2012-04-11",
+      "RG-11/4/2012-28261",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-04-11",
+      "11/4/2012",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-11/4/2012-28261",
+  "first_law": null,
+  "gazette": "28193",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-04-11",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gazi Üniversitesi",
+  "issuer_slug": "gazi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gazi-universitesi/2012/15867",
+  "published": "2012-02-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15867&MevzuatTertip=5",
+  "source_bytes": 48209,
+  "source_id": "8.5.15867",
+  "source_sha256": "48b69bc8019d8b3cf0e099ed45bd9bc0c529fd578ecd50defc508a62f763974e",
+  "text_status": "current-consolidated",
+  "title": "GAZİ ÜNİVERSİTESİ UZAKTAN EĞİTİM MESLEK YÜKSEKOKULU ÖNLİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 195,
+  "word_count": 2394
+}

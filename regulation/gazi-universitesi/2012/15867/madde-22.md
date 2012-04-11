@@ -1,0 +1,2 @@
+Tek ders sınavı
+MADDE 22 – (1) Tek ders sınavı, bu Yönetmeliğin 19 uncu maddesindeki şartları daha önce yerine getirmiş olmak kaydıyla, mezun olmak için tek ders durumuna düşülen yarıyıl/yıl dönem sonu sınavlarının bitiminde Yüksekokul Yönetim Kurulunca belirlenen tarihte yapılır. Bu sınavda başarılı olmak için en az (CC) notu almış olmak gerekir. Bu harf notunun belirlenmesinde ara sınav notu dikkate alınmaz.

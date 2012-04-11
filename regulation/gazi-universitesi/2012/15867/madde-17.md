@@ -1,0 +1,2 @@
+Devam zorunluluğu
+MADDE 17 – (1) Öğrencilerin; iletişim ve bilgi teknolojilerine dayalı olarak verilen derslere %60, uygulamalı derslere %80 ve stajlara %100 oranında devam zorunluluğu vardır. Buna ilişkin esaslar Senatoca belirlenir. Senato tarafından belirlenen haklı ve geçerli nedenle devam koşulunu yerine getirmeyen öğrenciler, bu ders veya uygulamalardan başarısız sayılır ve yılsonu sınavlarına giremezler.
