@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6291",
+  "year": 2012,
+  "title": "Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun ile Denetimli Serbestlik ve Yardım Merkezleri ile Koruma Kurulları Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-04-11",
+  "gazette_issue": "28261",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120411-11.htm",
+  "source_sha256": "7ddd023b5cde6aa20a1a413a7ecab13d8d1dc754c4c2c37d0d00ba226d0e81c4",
+  "text_sha256": "ff6f1af4eb8294234ccbe218bd0b3991f2c64af5d8596779cb605dc90578f714",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/04/11/28261-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120411-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
