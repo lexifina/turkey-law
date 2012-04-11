@@ -1,13 +1,12 @@
-Taraflar
-MADDE 29 - Toplu görüşmenin tarafları, kamu işverenleri adına Kamu İşveren Kurulu, kamu görevlileri adına her hizmet kolunda kurulu yetkili kamu görevlileri sendikaları ile bunların bağlı bulundukları konfederasyonlardır.
-Kamu İşveren Kurulu; Başbakan tarafından görevlendirilen bir Devlet Bakanının başkanlığında aşağıdaki kamu görevlilerinden oluşur:
-a) Başbakanlık Müsteşarı.
-b) Maliye Bakanlığı Müsteşarı.
-c) Hazine Müsteşarı.
-d) Devlet Planlama Teşkilâtı Müsteşarı.
-e) Devlet İstatistik Enstitüsü Başkanı.
-f) Devlet Personel Başkanı.
-g) Maliye Bakanlığı Bütçe ve Malî Kontrol Genel Müdürü.
-h) Kamu işveren sendikası.
-Yetkili kamu görevlileri sendikaları ile bunların bağlı bulundukları konfederasyonlar görüşmelere Kamu İşveren Kurulu üyelerinin sayısı kadar temsilci ile katılır.
-Toplu görüşme ile ilgili çalışmaların hızlandırılmasına ve sonuçlandırılmasına yardımcı olmak üzere taraflar eşit sayıda yetkililerin katılımı ile ön çalışma grupları oluşturabilir.
+Toplu sözleşmenin tarafları ve imza yetkisi (3)
+Madde 29 – (Değişik: 4/4/2012-6289/19 md.)
+Toplu sözleşme görüşmelerine kamu idaresi adına Kamu İşveren Heyeti, kamu görevlileri adına Kamu Görevlileri Sendikaları Heyeti katılır.
+Kamu İşveren Heyeti, Devlet Personel Başkanlığının bağlı olduğu Bakanın başkanlığında, Çalışma ve Sosyal Güvenlik Bakanlığı, Kalkınma Bakanlığı, Maliye Bakanlığı, İçişleri Bakanlığı ve heyet başkanınca uygun görülen bakanlık temsilcileri ile Hazine Müsteşarlığı ve Devlet Personel Başkanlığı temsilcilerinden oluşur.
+–––––––––––––––
+(1) Bu Kısım başlığı “Toplu Görüşme” iken, 4/4/2012 tarihli ve 6289 sayılı Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(2) Bu madde başlığı “Toplu görüşmenin kapsamı” iken, 4/4/2012 tarihli ve 6289 sayılı Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(3) Bu madde başlığı “Taraflar” iken, 4/4/2012 tarihli ve 6289 sayılı Kanunun 19 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
+8010
+Kamu Görevlileri Sendikaları Heyeti, bağlı sendikaların toplam üye sayısı itibarıyla en fazla üyesi bulunan konfederasyonun Heyet Başkanı olarak belirleyeceği bir temsilci ile her bir hizmet kolunda en fazla üyeye sahip kamu görevlileri sendikaları tarafından belirlenecek birer temsilci, bağlı sendikaların üye sayıları esas alınmak kaydıyla toplam üye sayıları itibarıyla birinci, ikinci ve üçüncü sırada bulunan konfederasyonlar tarafından belirlenecek birer temsilci olmak üzere onbeş üyeden oluşur. Heyet Başkanı ve temsilciler, toplu sözleşme görüşmelerinin başlamasından onbeş gün önce konfederasyonlar tarafından Devlet Personel Başkanlığına bildirilir. Heyet Başkanlığı sıfatını haiz konfederasyon temsilcisinin toplu sözleşme görüşmelerine katılmaması veya görüşmelerden çekilmesi halinde Heyet Başkanlığı yetkisi, en çok üyeye sahip ikinci sırada bulunan konfederasyon temsilcisi tarafından kullanılır. Her bir hizmet kolunda en fazla üyeye sahip kamu görevlileri sendikaları tarafından belirlenecek temsilcinin toplu sözleşme görüşmelerine katılmaması veya görüşmelerden çekilmesi halinde aynı hizmet kolunda en fazla üyeye sahip ikinci sırada bulunan kamu görevlileri sendikası temsilcisi Kamu Görevlileri Sendikaları Heyetine dahil edilir.
+Toplu sözleşmeyi imzalamaya kamu idaresi adına Kamu İşveren Heyeti Başkanı, kamu görevlileri adına sözleşmenin kamu görevlilerinin geneline yönelik bölümü için Kamu Görevlileri Sendikaları Heyeti Başkanı ve hizmet kollarına yönelik bölümleri için ilgili sendika temsilcisi yetkilidir.
+Bu madde hükümlerine göre toplu sözleşmenin imzalanan bölümlerine ilişkin Kamu Görevlileri Hakem Kuruluna başvurulamaz.
