@@ -1,0 +1,3 @@
+Teorik eğitim
+Madde 20 – (Değişik : 29/6/2001 - 4702/14 md.) İşletmelerde beceri eğitimi gören öğrencilerin teorik eğitimi, mesleki ve teknik eğitim okul ve kurumlarında veya işletmelerin eğitim birimlerinde yapılır. Çalışma saatleri içinde yapılacak teorik eğitim haftada oniki saatten az olamaz. Bu eğitim yoğunlaştırılmak suretiyle de yapılabilir. Teorik eğitim günlerinde öğrenciler ücretli izinli sayılır.
+Mesleki ve teknik eğitim okul ve kurumlarında ve işletmelerde yapılan mesleki eğitime ilişkin esas ve usuller ile sınavların yapılış şekilleri, Bakanlıkça çıkarılacak yönetmelikle düzenlenir.
