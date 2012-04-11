@@ -1,11 +1,11 @@
 Tanımlar
-MADDE 3 — (1) Bu Kanunda yer alan;
+Madde 3 - (1) Bu Kanunda yer alan;
 a) Bakan: Adalet Bakanını,
 b) Bakanlık: Adalet Bakanlığını,
-c) Danışma Kurulu: Denetimli Serbestlik ve Yardım Merkezleri ile Koruma Kurulları Danışma Kurulunu,
+c) (Değişik: 5/4/2012-6291/6 md.) Danışma Kurulu: Denetimli Serbestlik Hizmetleri Danışma Kurulunu,
 d) Genel Müdürlük: Ceza ve Tevkifevleri Genel Müdürlüğünü,
-e) Daire Başkanlığı: Denetimli Serbestlik ve Yardım Hizmetlerinden Sorumlu Daire Başkanlığını,
+e) (Değişik: 5/4/2012-6291/6 md.) Daire Başkanlığı: Denetimli Serbestlik Daire Başkanlığını,
 f) Adalet Komisyonu: Adlî yargı ilk derece mahkemesi adalet komisyonunu,
-g) Şube Müdürlüğü: Denetimli serbestlik ve yardım merkezi şube müdürlüğünü,
+g) (Değişik: 5/4/2012-6291/6 md.) Müdürlük: Denetimli serbestlik müdürlüğünü,
 h) Koruma Kurulu: Adlî yargı ilk derece mahkemeleri adalet komisyonlarının bulunduğu yerde oluşturulan kurulu,
 İfade eder.
