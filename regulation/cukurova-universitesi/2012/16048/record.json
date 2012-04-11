@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-04-11",
+      "11.04.2012",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28261",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-04-11",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Çukurova Üniversitesi",
+  "issuer_slug": "cukurova-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/cukurova-universitesi/2012/16048",
+  "published": "2012-04-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16048&MevzuatTertip=5",
+  "source_bytes": 21859,
+  "source_id": "8.5.16048",
+  "source_sha256": "478b3385e77ff8f247c564ce1862a3d9732537352f833817920943ce14112444",
+  "text_status": "as-enacted",
+  "title": "ÇUKUROVA ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 187,
+  "word_count": 798
+}
