@@ -1,0 +1,4 @@
+Tapu Verilmesi
+Madde 14 - 28.2.1995 tarih ve 4086 sayılı Kanunla değişik 3573 sayılı zeytinciliğin ıslahı ve Yabanilerinin Aşılattırılması Hakkındaki Kanun'un 3 üncü maddesi uyarınca Kullanma Belgesi ile saha tahsis edilenlere; Kullanma Belgesinin veriliş tarihinden itibaren beş yıllık süre verilir. Süre sonunda temizleme, aşılama, dikim ve bakım işlerini gereği gibi yerine getirenler tahsis edilen sahayı zeytinlik haline dönüştürdüklerini mahallin en büyük mülki amirine, dilekçe ile bildirirler.
+Havale edilen dilekçe üzerine komisyon durumu inceler ve karara bağlar. Tapu verilmesinin uygun görülmesi halinde; Komisyon sahaların durumunu gösteren kroki ve rapor tanzim eder. Bu belgeler, mahallin en büyük mülki amirince Genel Müdürlüğe gönderilir.
+Bu belgeler üzerinde Genel Müdürlükçe yapılan incelemeden sonra, tapu verilmesinin uygun görülmesi halinde durum Bakanlık Makamının Onayına sunulur. Alınan Onay gereği yapılmak üzere o yerin mülki amirine gönderilir.

@@ -1,0 +1,2 @@
+Tapulu Zeytinlik Alanlarında İhtilafların Çözümü
+Madde 25- Toprak ve ağaçların ayrı ayrı gerçek ve tüzel kişilere ait olduğu zeytinliklerde arazinin kıymeti yüksek ise toprak sahibine, ağaç kıymeti daha fazla ise ağaç sahibine, diğerinin malını satın alması teklif edilir. Uzlaşma sağlanamadığı takdirde, bu arazinin ilgililere taksimi, Komisyon tarafından gerçekleştirilir ve tapu kadastro mevzuatına göre işlem yapılır.
