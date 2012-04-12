@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-04-12",
+  "issue": "28262",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Gıda Kodeksi Bitki Adı ile Anılan Yağlar Tebliği (No: 2012/29)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120412-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120412.htm",
+  "index_sha256": "6ebb418c34781c4f7108d3578cf29f4b12207eab21dc4db4d7c5e7a666736a45",
+  "index_header": "12 Nisan 2012 ... 28262 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
