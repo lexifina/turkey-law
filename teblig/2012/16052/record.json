@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16052",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ BELİRLİ EPOKSİ TÜREVLERİNİN GIDA İLE TEMAS EDEN MADDE VE MALZEMELERDE KULLANIMININ KISITLANMASI HAKKINDA TEBLİĞ (TEBLİĞ NO: 2012/32)",
+  "number": "16052",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2012/16052",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16052&MevzuatTertip=5",
+  "source_sha256": "4b04d81391ff9f61ab028ae413eb795d36db4dd01518485c9b2afb65f685ce6b",
+  "source_bytes": 17695,
+  "published": "2012-04-12",
+  "gazette": "28262",
+  "in_force": "2012-04-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.04.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 718,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
