@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3777",
+  "decision_date": "2012-04-12",
+  "title": "Türkiye Petrolleri Anonim Ortaklığı Silivri Yer Altı Doğal Gaz Depolama Tesisi Temel Kullanım Usul ve Esasları 14. Maddesinde değişikliklerin yapılmasına ilişkin",
+  "resmi_gazete_date": "2012-04-25",
+  "resmi_gazete_number": "28274",
+  "categories": [
+    "Depolama"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dJTaCuTEuXw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dJTaCuTEuXw="
+  ],
+  "source_sha256": "053397dbfef6086dcadd9eda9d53e5f8a282c55db51b214172e47b5d00ccef46",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7229,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-04-12",
+  "law_text_complete": false
+}
