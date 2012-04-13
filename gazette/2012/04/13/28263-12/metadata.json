@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-04-13",
+  "issue": "28263",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme İdaresi Başkanlığının 11/4/2012 Tarihli ve 2012/ÖİB-K-07 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120413-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120413.htm",
+  "index_sha256": "3e14c1f6a70f59da70de121bc86330fbc8cd6424e0c8a5a119cd2ddaf2dcc6b6",
+  "index_header": "13 Nisan 2012 ... 28263 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
