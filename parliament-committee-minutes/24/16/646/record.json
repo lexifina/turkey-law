@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "MİLLİ EĞİTİM, KÜLTÜR, GENÇLİK VE SPOR KOMİSYONU",
+  "committee_id": 16,
+  "meeting_date": "2012-04-13",
+  "meeting_date_as_published": "13/04/2012",
+  "agenda": [
+    "ESKİŞEHİR 2013 TÜRK DÜNYASI KÜLTÜR BAŞKENTİ HAKKINDA KANUN TASARISI (1/596)",
+    "YÜKSEKÖĞRETİM KURUMLARI TEŞKİLATI KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN TASARISI (1/603)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/646",
+  "pdf_sha256": "4fbc8025280ad1349b24e3985e33e3e6160e5526300929f0a8038f3d4dfc3ddd",
+  "pdf_pages": 35,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=16)",
+  "listing_sha256": "e78bdccab7d13537dd0caa9b3543d1ffd65f9482738d73cb9dcdbcf2c991dda8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-04-13",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
