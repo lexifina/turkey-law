@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-002.01-1366",
+  "source_id": 24908,
+  "date": "2012-04-14",
+  "title": "Sermaye Piyasası Kanununa göre yapılmayan repo ve ters repo işlemlerine ilişkin olarak düzenlenen küresel repo anlaşmalarına damga vergisi nispetinin sıfır uygulanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/24908",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "eb12db1161a4b68af52e1bbb9d9e21f6da35408a0237952b2f23eaccf4b83072",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
