@@ -1,0 +1,2 @@
+İnceleme faaliyetleri ve süresi
+MADDE 10 – (1) Denetçi, SZM faaliyetlerini yerinde denetleyebileceği gibi proje kapsamında yapılan işlerde, şubeye veya temsilciliklere teslim edilen projeyi en çok üç iş günü içinde sonuçlandırır. Proje, Asgari Ücret Tarifesine ve ilgili mevzuata uygun olmayan özellikler taşıyorsa, gerekçeleri belirtilmek suretiyle, düzeltilmek üzere ilgilisine verilir. Her yeni inceleme için üç iş günü süre yeniden başlar.

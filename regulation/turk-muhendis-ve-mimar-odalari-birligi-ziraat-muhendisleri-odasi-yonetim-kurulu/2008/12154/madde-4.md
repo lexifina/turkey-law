@@ -1,0 +1,20 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Asgari Ücret Tarifesi: Oda, SZM faaliyetleri kapsamındaki uzmanlık alanları için belirleyeceği ve daha altında ücretlerle SZM faaliyetlerinin gerçekleştirilmesini yasaklayan ücret tarifesini,
+b) Birlik: Türk Mühendis ve Mimar Odaları Birliğini (TMMOB),
+c) Büro Tescil Belgesi (BTB): SZMH yapacak bürolara, Odaya tescilden sonra verilen belgeyi,
+ç) Denetçi: Yönetim Kurulu tarafından, 24/7/2002 tarihli ve 24825 sayılı Resmî Gazete’de yayımlanan Ziraat Mühendislerinin Hizmet Alanlarındaki Çalışmalarıyla İlgili Meslekî Denetim Uygulamaları ve Disiplin Hükümleri Hakkında Yönetmelik hükümleri uyarınca, şube ve temsilcilik görev alanında hizmet üretmek üzere atanmış Meslekî Denetim Görevlilerini,
+d) MDU: Meslekî denetim uygulamalarını,
+e) Oda: TMMOB Ziraat Mühendisleri Odasını (ZMO),
+f) Serbest müşavir, mühendis bürosu (SMMB): SZMH yapmak üzere bünyesinde en az bir SMM’yi ücretli, sözleşmeli veya ortaklık statüsünde bulunduran gerçek veya tüzel kişilere ait büroları,
+g) Serbest müşavirlik mühendislik (SMM): SZMH yapmaya yetkili Tescil Belgesi ve Büro Tescil Belgesi sahibi üyeleri,
+ğ) Serbest ziraat mühendisi (SZM): Türkiye’deki üniversitelerin ziraat fakültelerinin lisans programlarını tamamlayarak ziraat mühendisi veya ziraat yüksek mühendisi diploması alanlarla, Türkiye’deki fakülte ve yüksekokulların tarımsal nitelikli programlarını bitirerek mühendis diploması alanlar ve yurtdışında öğrenim gören ve diplomasının denkliği Yüksek Öğretim Kurulunca onaylanan mühendisler ile aldıkları eğitim ve uzmanlık konularına göre, yükümlülüklerini yerine getirerek üyelik sıfatını alan ve koruyan, çalışması kısıtlanmamış, kamu görevlilerini veya ücretli çalışanları,
+h) Serbest ziraat mühendisliği ve müşavirliği hizmetleri (SZMH): 17/6/1938 tarihli ve 3458 sayılı Mühendislik ve Mimarlık Hakkında Kanun, 6/5/1960 tarihli ve 7472 sayılı Ziraat Yüksek Mühendisliği Hakkında Kanun ve 18/12/1991 tarihli ve 91/2526 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Ziraat Mühendislerinin Görev ve Yetkilerine İlişkin Tüzüğün verdiği yetki ile serbest çalışarak Odaya kayıt ve tescilini yaptırmış veya kamu kurum ve kuruluşları dışında gerçek veya tüzel kişi hesabına ücretli, sözleşmeli, ortak bir bağlantı içinde bir yatırımın etüt, tasarım, fizibilite, keşif, şartname, hakediş, kesin hesap, ihale dosyası hazırlama, planlama, projeleme, resim ve hesapların hazırlanması ve uygulanması ile bunlarla ilgili araştırma, danışmanlık, bilirkişilik, ekspertiz, her türlü denetim ve kontrollük hizmetleri ile kabule, uygulamaya ve imzaya yalnızca SZM’nin yetkili olduğu mühendislik hizmetlerini,
+ı) Şube: Odaya bağlı şubeleri,
+i) Teknik uygulama sorumluluğu (TUS): SZMH çalışma alanlarının hizmete ilişkin özellikleri dikkate alınarak, proje, plan, program ve eklerine, ilgili kanun, tüzük ve yönetmeliklere, oda mevzuatına, bilim ve teknik kurallarına ve meslekî yetki ve sorumluluk ilkelerine uygun olarak gerçekleştirilmesinin denetlenmesi hizmetlerinin bütününü,
+j) Temsilcilik: Oda il temsilciliklerini,
+k) Tescil Belgesi (TB): SZMH yapacak gerçek kişilere, Odaya tescilden sonra verilen belgeyi,
+l) Uzmanlık alanı: Eğitim programları, uygulama alanları, meslekî ve bilimsel gelişmeler, ülkenin teknolojik durumu ve üyelerin istemleri dikkate alınarak Oda tarafından belirlenen meslekî uzmanlık konularını,
+m) Üye: Oda üyelerini,
+n) Yönetim Kurulu: Oda Yönetim Kurulunu,
+ifade eder.
