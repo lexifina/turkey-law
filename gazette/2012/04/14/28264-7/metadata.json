@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-04-14",
+  "issue": "28264",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türk Mühendis ve Mimar Odaları Birliği Ziraat Mühendisleri Odası Meslekî Denetim ve Asgari Ücret Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120414-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120414.htm",
+  "index_sha256": "8234efd640c6e319099833b2a8e18592b5b19f8189f0e193bdb321c698eec69c",
+  "index_header": "14 Nisan 2012 ... 28264 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
