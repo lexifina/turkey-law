@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; yerel, ulusal, Ortadoğu ülkeleri ve uluslararası düzeyde toplumsal refah ve kalkınmaya katkıda bulunmak üzere Üniversite, kamu ve iş dünyasının işbirliğini geliştirerek öğretim elemanlarının, öğrencilerin ve bireylerin liderlik, yeni fikirler ve girişimcilik ile ilgili bilgi birikimlerini artırmak, yenilikçi fikirlerini hayata geçirebilmelerine yardımcı olacak mekanizmalar kurmak, organizasyonlar düzenlemek, eğitim, rehberlik ve danışmanlık hizmetleri sunmak, kuluçka merkezi oluşturmak, çeşitli sektörlerde faaliyet gösteren işletmeleri araştırarak konuyla ilgili raporlar ve strateji belgeleri hazırlamak, bireylerde liderlik vasıflarının geliştirilmesi ve bu yönde yeteneklerinin zenginleştirilmesine yönelik Üniversite içinde ve dışında faaliyetler düzenlemektir.
