@@ -1,0 +1,2 @@
+Disiplin
+MADDE 22 – (1) Öğretim elemanları ve idari personelin disiplin iş ve işlemlerinde, 2547 sayılı Kanun hükümleri ile 21/8/1982 tarihli ve 17789 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Yönetici, Öğretim Elemanı ve Memurları Disiplin Yönetmeliği hükümleri uygulanır. Öğrencilerin disiplin iş ve işlemlerinde, 13/1/1985 tarihli ve 18634 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümleri uygulanır.

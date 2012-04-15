@@ -1,0 +1,3 @@
+Dekanlar, enstitü/yüksekokul/uygulama ve araştırma merkezi müdürleri
+MADDE 13 – (1) Rektörün Üniversite profesörleri arasından oluşturduğu komisyonca tespit edilen dekan ve enstitü/yüksekokul/uygulama ve araştırma merkezi müdürleri Rektör onayından sonra, Mütevelli Heyet tarafından atanır. Dekan ve enstitü/yüksekokul/uygulama ve araştırma merkezi müdürünün görev süreleri üç yıldır. Süresi sona eren dekan veya müdür, yeniden atanabilir. Dekan ve müdür yardımcıları, üç yıl için Rektör onayı ile atanır.
+(2) Dekan ve enstitü/yüksekokul/uygulama ve araştırma merkezi müdürleri ile yardımcıları ilgili mevzuat hükümleri ile belirlenen görevleri yapar.
