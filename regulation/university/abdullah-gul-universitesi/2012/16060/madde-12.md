@@ -1,0 +1,2 @@
+Çalışma grupları ve görevleri
+MADDE 12 – (1) Çalışma grupları, Merkezin amaçları doğrultusunda program ve projelere yönelik olarak oluşturulur. Farklı projeler için farklı çalışma grupları oluşturulur. Çalışma grup temsilcileri, Üniversite personeli veya istekleri halinde ilgili sektörden Müdür tarafından önerilen adaylar arasından, Yönetim Kurulunca seçilir ve asgari bir yıl süreyle Rektör tarafından görevlendirilir. Süresi dolan çalışma grubu temsilcileri aynı usulle yeniden görevlendirilebilir.
