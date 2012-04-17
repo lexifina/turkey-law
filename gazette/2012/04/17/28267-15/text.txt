@@ -1,0 +1,328 @@
+17 Nisan 2012 SALI
+Resmî Gazete
+Sayı : 28267
+TEBLİĞ
+Bilgi Teknolojileri ve İletişim Kurumundan:
+GSM MOBİL TELEFON HİZMETLERİNDE HİZMET KALİTESİ
+ÖLÇÜTLERİNİN ELDE EDİLMESİNE İLİŞKİN TEBLİĞ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, GSM mobil telefon hizmetlerinde hizmet kalitesi ölçütlerine ilişkin ölçüm ve saha test yöntemlerinin
+belirlenmesine yönelik usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, GSM mobil
+telefon hizmeti sunan işletmeciler tarafından Türkiye İstatistik Kurumunun en son resmi nüfus sayımı sonuçlarına göre nüfusu 10.000 (onbin) ve üzeri olan yerleşim yerlerinde sunulan GSM mobil telefon
+hizmetlerine ilişkin hizmet kalitesi ölçütlerini kapsar.
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununun 4 üncü, 6 ncı,
+12 nci, 48 inci ve 52 nci
+maddeleri ile 12/9/2010 tarihli ve 27697 sayılı Resmi Gazete’de yayımlanan Elektronik
+Haberleşme Sektöründe Hizmet Kalitesi Yönetmeliğine dayanılarak hazırlanmıştır.
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Arama başarısızlık oranı: Başarılı olarak kurulan ancak abonenin isteği dışında herhangi bir nedenle sonlanan arama sayısının toplam başarılı arama sayısına oranını,
+b) Arama blokaj
+oranı: Kapsama alanı içinde yapılan aramalarda, radyo link, transmisyon,
+anahtarlama gibi sistemlerdeki kaynak yetersizliğinden dolayı bağlantı kurulamayan arama girişimi sayısının toplam arama girişimi sayısına oranını,
+c) Aramanın kurulma süresi: Aramanın sağlanması için gerekli adres bilgisinin şebeke tarafından alınması ile başlayan ve aranan taraftan meşgul sesi, çalma sesi veya cevap sinyalinin alınması ile biten ve saniye cinsinden ölçülen zaman aralığını,
+ç) En yoğun saat: 24 saat
+boyunca yapılan ölçümler sonucunda her gün için ayrı olarak ve saat başı dikkate alınarak belirlenen, trafik yoğunluğunun en fazla olduğu bir (1) saati,
+d) Hücre: Bir GSM baz verici istasyonu (BTS) tarafından kapsama alanı içine alınan ve servis
+verilen en küçük coğrafi alanı,
+e) KMH (SMS): Kısa mesaj hizmetini,
+f) KMH
+tamamlanma oranı: Kapsama alanı içerisinde aktif durumda bulunan aboneler arasında üretilen ve uçtan uca KMH teslim
+süresi içerisinde bir
+terminal cihazından diğer bir terminal
+cihazına başarılı bir şekilde iletilen
+toplam KMH sayısının gönderilen toplam KMH sayısına oranını,
+g) Kurul: Bilgi
+Teknolojileri ve İletişim Kurulunu,
+ğ) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+h) OKD (MOS): Uçtan uca ses kalitesi ölçümlerinde kullanılan ve ölçüm yöntemi ITU-T P.862 tavsiye kararında tanımlanan ortalama kanaat değerini,
+ı) Ölçüm: Hizmet kalitesi ölçütlerine ilişkin bilgilerin işletmecilerin kendi
+GSM şebekesi üzerinden
+bilgisayar ve yazılım imkanlarıyla
+derlenmesi ve analiz edilmesi suretiyle elde edilmesini,
+i) Saha testi:
+Hizmet kalitesi ölçütlerine ilişkin bilgilerin,
+mahallinde havadan alınan sinyal üzerinden analiz
+sistemleri kullanılarak elde edilmesini,
+j) TÜİK: Türkiye İstatistik
+Kurumunu,
+k) Uçtan uca KMH teslim süresi: Kapsama alanı içerisinde aktif durumda bulunan aboneler tarafından üretilen KMH’nin, kısa mesaj merkezinden aboneye iletildiği ve abone tarafından alındı mesajının kısa mesaj merkezine gönderildiği ve saniye cinsinden ölçülen süreyi,
+l) Yönetmelik: 12/9/2010 tarihli ve 27697 sayılı Resmi Gazete’de yayımlanan Elektronik Haberleşme Sektöründe Hizmet Kalitesi Yönetmeliğini
+ifade eder.
+İKİNCİ BÖLÜM
+Ölçüm ve Saha Test Verilerinin Kapsamı ve Hesaplama Yöntemleri
+Ölçüm ve saha
+testi yapılacak yerleşim yerleri
+MADDE 5 – (1) GSM işletmecileri tarafından yapılan ölçüm ve saha testleri, TÜİK’in
+en son resmi nüfus sayımı sonuçlarına göre nüfusu 10.000 (onbin) ve üzeri yerleşim yerleri üzerinden yapılır.
+(2) Büyükşehir statüsüne sahip olan yerleşim yerleri, merkez ilçeleri ve mücavir alanlar ile birlikte tek yerleşim yeri olarak
+bildirilir.
+(3) Nüfusu 10.000 (onbin) ve üzeri yerleşim yerleri itibariyle hizmet kalitesi ölçütlerine ilişkin hedef değerlere uyma yükümlülüğü, bu yerler dışında kalan
+alanlardaki hizmet kalitesi yükümlülüklerine uyma hususunda herhangi bir istisna
+getirmez.
+Ölçüt değerlerinin hesaplanmasında kullanılacak
+sayaçlar
+MADDE 6 – (1) İşletmeci, bu Tebliğde yer alan hizmet kalitesi ölçütleri için Yönetmeliğin “Ek-2 GSM Mobil Telefon Hizmeti Sunan İşletmeciler” başlıklı ekinde yer alan hizmet kalitesi ölçütlerine ilişkin belirlenmiş olan hedef değerleri sağlamakla yükümlüdür.
+(2) İşletmeciler tarafından yapılan ölçümlerde ve ölçütlerin hesaplanmasında, son kullanıcıları doğrudan etkileyen sayaçlar kullanılacaktır.
+Ölçüm ve saha
+testlerinin kapsamı
+MADDE 7 – (1) Ölçümler, işletmeci tarafından ülke geneli ve yerleşim yerleri bazında ayrı ayrı
+olmak üzere kendi GSM şebekesindeki trafiğin tamamı üzerinden elde edilir.
+(2) Bütün ölçümler ve saha testleri şebeke sonlandırma noktasından ve gerçek haberleşme trafiği üzerinden elde edilir.
+(3) Saha
+testleri hariç, deneysel arama ve bağlantı kurmak suretiyle elde edilecek ölçüm değerleri Kuruma yapılacak
+bildirimlerde kullanılamaz.
+Hizmet kalitesine ilişkin standartlar
+MADDE 8 – (1) İşletmeci, hizmet
+kalitesi ölçütlerine ilişkin ölçümler ve saha testlerinde ilgili mevzuat ve bu Tebliğde belirtilmeyen hususlarda; uluslararası standart ve usullere, ITU tavsiye dokümanlarına ve ETSI standartlarına uymakla yükümlüdür.
+Bildirimler için ölçüt değerlerinin
+elde edilme yöntemi
+MADDE 9 – (1) Kuruma yapılacak
+bildirimlerde; arama blokaj oranı, arama başarısızlık oranı, KMH tamamlanma
+oranı ve uçtan uca KMH teslim
+süresi ölçüt değerleri ölçüm yöntemi ile, OKD ve aramanın kurulma süresi ölçüt değerleri ise saha testi ile elde edilecektir.
+OKD ve aramanın kurulma
+süresi ölçütlerinin hesaplanması
+MADDE 10 – (1) İşletmeci bütün yerleşim yerleri için OKD ve aramanın kurulma süresi ölçütleri için belirlenen
+hedef değerleri sağlamakla yükümlüdür. Ancak OKD ve aramanın kurulma süresi bildirimleri, Kurum tarafından belirlenecek ve sayısı her dönem için 20 (yirmi)’yi geçmeyecek şekilde yerleşim yerleri bazında yapılacaktır.
+(2) OKD ve
+aramanın kurulma süresi ölçütleri hesaplanırken saha testleri
+sonucunda elde edilen değerlerin aritmetik ortalaması alınacaktır. Her bir yerleşim yeri için bu ölçütlerin hesaplanmasında en az 100 adet arama gerçekleştirilecektir.
+(3) OKD ve
+aramanın kurulma süresi bildirimi yapılacak yerleşim yerleri ve saha test güzergahları, her yıl Aralık ayı içerisinde takip eden yıl için Kurum tarafından işletmecilere
+bildirilir.
+(4) Kurum tarafından gerek görülmesi halinde, ilgili bildirim dönemi başlangıcından en az 15 (onbeş) gün önce bildirilen yerleşim yerlerinde değişiklik yapılabilir.
+Ölçüm yönteminde kullanılan
+veriler
+MADDE 11 – (1) Arama başarısızlık ve arama blokaj oranı ölçümlerinde; nüfusu 10.000 (onbin) ve üzeri her bir yerleşim yerindeki toplam trafiği içerecek şekilde, bütün geçerli girişimler üzerinden ve her bir hücrenin günlük toplam trafik içindeki en yoğun saatindeki
+veriler kullanılacaktır. KMH tamamlanma
+oranı ve uçtan uca KMH teslim
+süresinin elde edilmesinde ise; kısa mesaj merkezinde/merkezlerinde en yoğun trafiğin gerçekleştiği saatte elde edilen istatistiksel veriler kullanılacaktır.
+Ölçüm yöntemi ile elde edilen hizmet kalitesi ölçütlerinin hesaplanması
+MADDE 12 – (1) Nüfusu 10.000 (onbin) ve üzeri yerleşim yeri sınırları içerisine hizmet veren bütün hücrelerin en yoğun saatlerinde
+elde edilen verilerin toplanması ile bulunan
+toplam başarısız arama sayısının toplam başarılı arama sayısına oranlanması ile hesaplanan değer, o yerleşim yerinin ilgili bildirim döneminde ilgili
+olduğu aya ait arama başarısızlık oranı olarak alınacaktır.
+(2) Nüfusu 10.000 (onbin) ve üzeri yerleşim yeri sınırları içerisine hizmet veren bütün hücrelerin en yoğun saatlerinde
+elde edilen verilerin toplanması ile bulunan
+toplam bloke olan arama girişimi sayısının toplam arama girişimi sayısına oranlanması ile hesaplanan değer, o yerleşim yerinin ilgili bildirim döneminde ilgili olduğu aya ait arama blokaj oranı olarak alınacaktır.
+(3) Ülke geneli arama başarısızlık oranı; nüfusu 10.000 (onbin) ve üzeri bütün yerleşim yerlerinde
+bildirim döneminin ilgili ayına ait başarısız arama sayısı toplamının başarılı arama sayısı toplamına oranlanması ile hesaplanacaktır.
+(4) Ülke geneli arama blokaj oranı, nüfusu 10.000 (onbin) ve üzeri bütün yerleşim yerlerinde
+bildirim döneminin ilgili ayına ait bağlantı kurulamayan arama girişimi sayısı toplamının arama girişimi sayısı toplamına oranlanması ile hesaplanacaktır.
+(5) Ülke geneli KMH tamamlanma oranı, nüfusu 10.000 (onbin) ve üzeri bütün yerleşim yerlerinde üretilen KMH’ler
+için bildirim döneminin ilgili ayına ait kısa mesaj merkezinde/merkezlerinde kapsama alanı içerisinde aktif durumda bulunan ve mesaj almaya
+engeli olmayan aboneler arasında üretilen ve günlük trafiğin en yoğun olduğu saatte başarılı bir şekilde iletilen
+KMH sayısı toplamının gönderilen KMH sayısı toplamına oranlanması ile hesaplanacaktır.
+(6) Ülke geneli uçtan uca KMH teslim süresi, nüfusu 10.000 (onbin) ve üzeri bütün yerleşim yerlerinde üretilen KMH’ler
+için bildirim döneminin ilgili ayına ait kısa mesaj merkezinde/merkezlerinde günlük trafiğin en yoğun olduğu saatte uçtan uca en kısa sürede gönderilen % 99’luk KMH’lere
+ait süreler toplamının söz konusu KMH sayısına oranlanması ile hesaplanacaktır.
+ÜÇÜNCÜ BÖLÜM
+Saha Testleri, Test Senaryosu ve Kapsama Sinyal
+Seviyesi
+Saha testleri
+MADDE 13 – (1) Herhangi bir yerleşim yerinde, yerleşim yerinin bir bölgesinde veya yerleşim yeri dışında; durağan veya hareket
+halinde uygun test düzenekleri kullanılmak suretiyle işletmecilerin GSM şebekesi üzerinden yapılacak saha testlerinde:
+a) ITU-T E800,
+ITU-P862 ve ETSI standart ve usullerine uygun saha testi yapabilecek, test
+verileri ile birlikte test yapılan noktanın coğrafi konumunu ve zamanını kaydedebilecek cihaz ve/veya cihaz setleri kullanılacaktır,
+b) Cihaz ve
+antenlerin araca monteli olduğu durumda yapılan saha testlerinde, testin araç içi veya dışı değerlerden hangisine karşılık geldiği belirtilecek ve
+varsa anten ekipmanlarının kayıp/kazancına hesaplamalarda yer verilecektir,
+c) Hareket
+halindeki saha testlerinde, trafik kuralları ve yol koşulları nedeniyle aksine bir zorunluluk olmadıkça araç hızı şehiriçi için ortalama 30-50 km/saat, şehirler arası yol ölçümlerinde ortalama 80-120 km/saat olacaktır.
+(2) Kurum re’sen veya şikayet
+durumunda hizmet kalitesi ölçütleri için saha testi
+yapabilir veya GSM işletmecilerine ve Kurumdan yetki almak şartıyla üçüncü şahışlara yaptırabilir.
+Saha test senaryosu
+MADDE 14 – (1) Hareketli ölçümlerde çağrı dizini oluşturulurken, hatta
+bağlandıktan sonra kanalda bekleme süresi 90 saniye, iki çağrı girişimi arasındaki süre ise 15 saniye olarak düzenlenecektir.
+Saha testi yapılacak
+alan ve kapsamı
+MADDE 15 – (1) Kurum tarafından ölçüm güzergahı belirtilmeyen saha
+testleri, en düşük ve en yüksek trafik yoğunluğu olan alanlar da dahil olmak üzere, saha testi yapılacak bölge içerisindeki tüm bulvar ve ana caddelerin taranması suretiyle yapılacaktır.
+(2) Saha
+testleri ilgili yerleşim yerinin yoğun saatini de içerecek zaman aralığında yapılacaktır. Saha testlerinin konuşma trafiğinin en yoğun olduğu bir saat içerisinde bitirilmesi zorunluluğu yoktur. Bu süre yerleşim yerinin büyüklüğüne bağlı olarak değişebilir.
+Saha test sonuçlarının bildirimi
+MADDE 16 – (1) Kurumun talebi veya şikayet üzerine GSM işletmecileri ve Kurumdan yetki almak şartıyla üçüncü şahışlar tarafından bu Tebliğe uygun olarak yapılan saha testleri
+ve elde edilen sonuçlar asgari olarak bu Tebliğin Ek-3’ünde yer alan verileri içerecek bir rapor ile Kuruma gönderilir.
+(2) Yapılan işlem ve veri detayları ayrıca elektronik ortamda olmak üzere rapor ile
+birlikte gönderilir.
+Kapsamaya ilişkin
+sinyal seviyesi
+MADDE 17 – (1) İşletmecilere getirilen
+kapsama yükümlülüğü için minimum sinyal seviyesi GSM 900 için -104 dBm, GSM 1800 için -102 dBm ve GSM 900 ve GSM 1800 frekans
+bandının ortak kullanıldığı şebekeler için ise -104 dBm olacaktır.
+(2) Bu Tebliğ kapsamında Kuruma yapılacak
+bildirimlerde yer alacak yerleşim yerleri sınırlarının tamamında bu maddede
+belirtilen sinyal seviyesinde GSM kapsaması sağlanmış olacaktır.
+(3) Kapsama yükümlülüğü için bilgisayar ortamında yapılan kapsama analizlerine ilişkin ölçümlerde veya bunların teyidi için yapılan saha testlerinde de bu değerler esas alınacaktır.
+DÖRDÜNCÜ BÖLÜM
+Ölçüm ve Saha Test Sonuçlarının Bildirimi, Doğrulanması ve Cezai Müeyyide
+Hizmet kalitesi bildirimleri
+MADDE 18 – (1) Bu Tebliğ kapsamında bildirimler; ülke geneli için bu Tebliğin Ek-1’inde yer alan tablo ile,
+yerleşim yerleri bazında ise Ek-2’sinde yer alan tablo ile aylık olarak tasnif
+edilerek geriye dönük üç aylık dönemlere ilişkin bilgileri içerecek şekilde doldurulmak suretiyle her yılın Ocak, Nisan, Temmuz ve Ekim aylarının sonuna kadar Kuruma gönderilir.
+(2) OKD değeri ve aramanın kurulma süresi bu Tebliğin Ek-3’ünde yer alan tablo ile bu maddenin birinci fıkrasında belirtilen dönemlerde Kuruma
+bildirilir.
+Ölçüm ve saha
+test sonuçlarının doğrulanması
+MADDE 19 – (1) Kurum, gerek gördüğü takdirde, ölçüm ve saha test sonuçları için doğrulama yapabilir
+ve/veya Kurumdan yetki almak şartıyla üçüncü şahışlara yaptırabilir.
+(2) Ölçüm ve saha test sonuçları ile Kurumun yaptığı ve/veya yaptırdığı analiz ve saha testleri arasında farklılık gözlenmesi halinde Kurum tarafından yapılan ve/veya yaptırılan sonuçlar esas alınır.
+İdari para cezaları ve diğer yaptırımlar
+MADDE 20 – (1) Bu Tebliğ kapsamında ülke geneli ve/veya yerleşim yeri bazında aylık olarak tasnif
+edilerek geriye dönük üç aylık dönemlere ilişkin bilgileri içerecek şekilde Kuruma yapılan bildirimlerde;
+bir raporlama döneminin bir veya daha fazla ayında hedef değerlerden herhangi birinin sağlanamaması durumunda ilgili yerleşim yeri için Yönetmeliğin İdari para cezaları ile diğer yaptırımlar başlıklı 9 uncu maddesi hükümleri uygulanır.
+(2) Bu Tebliğ kapsamında herhangi bir yerleşim yerinde veya yerleşim yerinin bir bölgesinde Kurum
+tarafından yapılan ve/veya yaptırılan veya işletmeciler tarafından yapılarak Kuruma bildirilen saha testleri sonucunda;
+bir veya daha fazla hedef değerin sağlanamaması durumunda işletmeci ilgili bölge için hizmet kalitesi yükümlülüğünü yerine getirmemiş kabul edilir ve Yönetmeliğin İdari para cezaları ile diğer yaptırımlar başlıklı 9 uncu maddesi ile 5/9/2004
+tarihli ve 25574 sayılı Resmî Gazete’de yayımlanan Telekomünikasyon Kurumu
+Tarafından İşletmecilere
+Uygulanacak İdari Para Cezaları ile Diğer Müeyyide ve Tedbirler Hakkında Yönetmelik hükümleri uygulanır.
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Verilerin saklanması
+MADDE 21 – (1) Ölçümlerde kullanılan ham veriler, hesaplamalarda kullanılan detayları ile birlikte hücre bazına kadar, takip eden 12 ay boyunca işletmeci tarafından muhafaza edilir ve istendiğinde Kuruma
+verilir.
+Yürürlükten kaldırılan tebliğler
+MADDE 22 – (1) 15/12/2005 tarihli ve
+26024 sayılı Resmî Gazete’de yayımlanan GSM Mobil Telefon İşletmecilerinin Hizmet Kalitesi Yükümlülükleri ile İlgili Ölçütlerin Belirlenmesi ve Ölçümüne İlişkin Tebliğ yürürlükten kaldırılmıştır.
+(2) 16/2/2007 tarihli ve 26436 sayılı Resmî Gazete’de yayımlanan GSM Mobil Telefon Hizmetlerinde Hizmet
+Kalitesi Yükümlülüklerini Yerine Getirmeyen İşletmecilere Uygulanacak Cezalara İlişkin Usul ve Esaslar Hakkında Tebliğ yürürlükten kaldırılmıştır.
+Saha testi yapılacak
+yerleşim yerleri ilk bildirimi
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin 10 uncu maddesinin üçüncü fıkrasına göre saha testi yapılacak yerleşim yerleri ve güzergahları, Tebliğin yayımlanmasını takip eden ilk bildirim dönemi için Tebliğin yayımlandığı tarihten sonraki bir ay içerisinde Kurum
+tarafından işletmecilere
+bildirilir.
+Yürürlük
+MADDE 23 – (1) Bu Tebliğin 17 nci maddesinin ikinci fıkrasında yer alan hüküm Tebliğin yayımından altı ay sonra, diğer hükümleri yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 24 – (1) Bu Tebliğ hükümlerini Bilgi Teknolojileri ve İletişim Kurumu Başkanı yürütür.
+EK-1
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI - ÜNVANI :
+Ülke Geneli Hizmet Kalitesi Bildirimlerinde
+Doldurulacak Tablo:
+Hizmet Kalitesi Ölçütü
+İlgili Ölçümler
+Ölçüm
+Değeri
+Hedef Değerler
+… Ay
+… Ay
+… Ay
+Ülke geneli arama başarısızlık oranı
+Arama başarısızlık sayısının toplam başarılı
+arama girişimi sayısına oranı
+%...
+%...
+%...
+≤2
+Ülke geneli arama blokaj oranı
+Bloke edilmiş aramaların, toplam aramalara
+oranıdır
+%...
+%...
+%...
+≤5
+KMH tamamlanma oranı
+Uçtan uca kısa mesaj teslim süresi içerisinde
+başarılı bir şekilde iletilen KMH sayısının gönderilen toplam KMH
+sayısına oranı
+%…
+%…
+%…
+≥95
+KMH için yapılan gözlem sayısı ve gözlemin
+yapıldığı zaman aralığı
+… Adet
+… Dönem
+… Adet
+… Dönem
+… Adet
+… Dönem
+Uçtan uca KMH teslim süresi
+Uçtan uca en kısa sürede gönderilen %99’luk KMH’nin teslim süresi
+… Saniye
+… Saniye
+… Saniye
+≤15
+EK-2
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI - ÜNVANI :
+Nüfusu 10.000 (onbin) ve Üzeri Yerleşim
+Yerleri Bazında Hizmet Kalitesi Bildirimlerinde Doldurulacak Tablo:
+Yıl
+Ay
+İl
+Adı
+Yerleşim
+Adı
+Toplam
+Arama Sayısı
+Bloke
+Olan Arama Sayısı
+Toplam
+Başarılı Arama Sayısı
+Başarısız
+Arama Sayısı
+Arama
+Blokaj Oranı %
+Arama
+Başarısızlık Oranı %
+En
+Yoğun Saatteki Toplam Trafik (Erlang)
+Ölçümlerde
+kullanılan BTS sayısı
+Ölçümlerde
+kullanılan TRx sayısı
+EK-3
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI - ÜNVANI :
+Saha testleri, OKD ve Aramanın Kurulma Süresi Bildirimlerinde
+Doldurulacak Tablo:
+Ölçüm
+Yapılan Yerleşim Yeri Adı
+Test
+Başlangıç Zamanı
+(Tarih
+ve Saat:….)
+Test
+Bitiş Zamanı
+(
+Tarih ve Saat:…)
+Toplam
+Arama Sayısı
+(…Adet)
+Başarısız
+Arama Sayısı
+(…Adet)
+Arama
+Başarısızlık Oranı (¹)
+(Hedef
+Değer ≤%2)
+(%…..)
+Arama
+Blokaj Oranı
+(¹)
+(Hedef
+Değer ≤%5)
+(% ……)
+OKD
+Değeri
+(Hedef
+Değer ≥3,5/5)
+Aramanın
+Kurulma Süresi(²)
+(Hedef
+Değer ≤10 Saniye)
+(…Saniye)
+(¹): Madde 18’e istinaden yapılan bildirimlerde doldurulmayacaktır.
+(²): En kısa sürede kurulan %95’lik
+aramanın kurulum süresi.
