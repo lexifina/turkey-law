@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-04-17",
+  "issue": "28267",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "1013 Ülkemizde Demokrasiye Müdahale Eden Tüm Darbe ve Muhtıralar ile Demokrasiyi İşlevsiz Kılan Diğer Bütün Girişim ve Süreçlerin Tüm Boyutları ile Araştırılarak Alınması Gereken Önlemlerin Belirlenmesi Amacıyla Bir Meclis Araştırması Komisyonu Kurulmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120417-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120417.htm",
+  "index_sha256": "91fc37bc1ec2861d176f65a834a0b7b3901b1d52cc13291fec68e95b95b76ae1",
+  "index_header": "17 Nisan 2012 ... 28267 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
