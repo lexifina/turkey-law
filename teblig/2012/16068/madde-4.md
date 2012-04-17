@@ -1,0 +1,5 @@
+İthal lisansının düzenlenmesi
+MADDE 4 – (1) Tarife kontenjanı kapsamında yapılacak ithalat için, Bakanlıkça ithal lisansı düzenlenir. Gümrük beyannamelerinin tescilinde gümrük idarelerince söz konusu ithal lisansının ithalatçıya verilen nüshası aranır. Bu belgenin bir sureti gümrük beyannamesine eklenir.
+(2) Bu Tebliğ çerçevesinde yapılacak ithalat için Bakanlıkça (İthalat Genel Müdürlüğü) düzenlenen ithal lisansları, 31/12/2012 tarihine kadar (bu tarih dâhil) geçerli olup, bu süre uzatılmaz.
+(3) İthal lisansları üçüncü kişilere devredilemez.
+(4) İthal lisansı kapsamında gerçekleştirilecek ithalat, sadece bu Tebliğin ekindeki başvuru formunda ithalatçı tarafından beyan edilen ve ithal lisansında belirtilen Gümrük ve Muhafaza Başmüdürlüğüne bağlı gümrük kapılarından yapılabilir. İthal lisansının geçerlilik süresi içerisinde ilgili firmaların talep etmesi halinde, ithal lisansı üzerinde Bakanlıkça uygun görülebilecek değişiklikler yapılabilir. Ancak, miktarın artırılmasına ve lisans süresinin uzatılmasına yönelik talepler değerlendirmeye alınmaz.
