@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "(10 / 136, 176, 177, 178, 179, 180, 181) ESAS NUMARALI MECLİS ARAŞTIRMA KOMİSYONU",
+  "committee_id": 997,
+  "meeting_date": "2012-04-17",
+  "meeting_date_as_published": "17/04/2012",
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/869",
+  "pdf_sha256": "ba6d08afd826b8296e0ea7dda19367cdf222329b255308c1798cec337a3785aa",
+  "pdf_pages": 41,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=997)",
+  "listing_sha256": "bfe464c4bbb172d114359f6bb0c404cd2f8f0539788fedf1d14203b20c57aff0",
+  "text_status": "metadata-only: inquiry / investigation committee (hears private persons): official link only",
+  "in_force": "2012-04-17",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "metadata"
+}
