@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3790",
+  "decision_date": "2012-04-18",
+  "title": "EPDK Kurul Kararı 3790",
+  "resmi_gazete_date": "2012-04-25",
+  "resmi_gazete_number": "28274",
+  "categories": [
+    "EDAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=H2a4BKJmmGI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=H2a4BKJmmGI="
+  ],
+  "source_sha256": "1a80b773ce5d1db4079b16d0a8feb11dc860b13f7de065f7d8bd0f18507750ae",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14798,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-04-18",
+  "law_text_complete": false
+}
