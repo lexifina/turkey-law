@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "İNSAN HAKLARINI İNCELEME KOMİSYONU",
+  "committee_id": 14,
+  "meeting_date": "2012-04-18",
+  "meeting_date_as_published": "18/04/2012",
+  "agenda": [
+    "GÜLHANE ASKERÎ TIP FAKÜLTESİ ASKERÎ PSİKOLOJİ VE HARP PSİKİYATRİSTİ BİLİM DALI BAŞKANI TABİP ALBAY KAMİL NAHİT ÖZMENLER'İN SUNUMU"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/506",
+  "pdf_sha256": "d9b26b66a5e41a83c2cd9b4d9f4c7611374bea1a0b00ad7e661922169cd8cccf",
+  "pdf_pages": 19,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=14)",
+  "listing_sha256": "42724f97138fc5b68e4a08554534a324a313024a61276c03c700b8b02d697ed8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-04-18",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
