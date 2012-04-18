@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "İÇİŞLERİ KOMİSYONU",
+  "committee_id": 13,
+  "meeting_date": "2012-04-18",
+  "meeting_date_as_published": "18/04/2012",
+  "agenda": [
+    "MERA KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN TASARISI (1/604)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/335",
+  "pdf_sha256": "43dd62c2b8f427db236cbc245dca1e3e8a454b14eda161a3723f9ef996f36c75",
+  "pdf_pages": 39,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=13)",
+  "listing_sha256": "9d2922e8e6f25b7cc6d05ebfe3063546648b2b3dd91e709e605e33f0ffa20e7e",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-04-18",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
