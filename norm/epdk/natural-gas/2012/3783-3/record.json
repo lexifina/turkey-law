@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3783/3",
+  "decision_date": "2012-04-18",
+  "title": "Bilecik-Bolu Doğal Gaz Dağıtım Lisansı ihalesi",
+  "resmi_gazete_date": "2012-04-27",
+  "resmi_gazete_number": "28276",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=N8I/BiLGOcU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=N8I/BiLGOcU="
+  ],
+  "source_sha256": "d95702defa79f3b945e439aef2bff22813591c481e49eeae06c3b8e8da84e9a0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-04-18",
+  "law_text_complete": false
+}
