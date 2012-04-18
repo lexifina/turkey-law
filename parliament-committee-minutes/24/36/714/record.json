@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "SANAYİ, TİCARET, ENERJİ, TABİİ KAYNAKLAR, BİLGİ VE TEKNOLOJİ KOMİSYONU",
+  "committee_id": 36,
+  "meeting_date": "2012-04-18",
+  "meeting_date_as_published": "18/04/2012",
+  "agenda": [
+    "ELEKTRONİK TİCARETİN DÜZENLENMESİ HAKKINDA KANUN TASARISI (1/488) (DEVAM)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/714",
+  "pdf_sha256": "91fcbafeee8d777b5db4dc329a66539e791cf6d24c51d44cccabdf510d6234ba",
+  "pdf_pages": 39,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=36)",
+  "listing_sha256": "70a892f720e6bf1cf78cf2de524ed1e3bd3d2d02419f41f1a9f428f9bb44b671",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-04-18",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
