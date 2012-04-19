@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "İNSAN HAKLARINI İNCELEME KOMİSYONU",
+  "committee_id": 14,
+  "meeting_date": "2012-04-19",
+  "meeting_date_as_published": "19/04/2012",
+  "agenda": [
+    "CEZAEVLERİ, CEZA İNFAZ KURUMLARI, TUTUKEVLERİ VE ÜÇ ADET CEZAEVİ ALT KOMİSYON RAPORU"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/676",
+  "pdf_sha256": "700add7425e5321b23844e5f3a301b890accda1249ad12348b5b38e2da065b3d",
+  "pdf_pages": 78,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=14)",
+  "listing_sha256": "42724f97138fc5b68e4a08554534a324a313024a61276c03c700b8b02d697ed8",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-04-19",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
