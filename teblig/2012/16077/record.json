@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16077",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ REJENERE SELÜLOZ FİLMLERDEN ÜRETİLMİŞ, GIDA İLE TEMAS EDEN MADDE VE MALZEMELER TEBLİĞİ (TEBLİĞ NO: 2012/31)",
+  "number": "16077",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2012/16077",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16077&MevzuatTertip=5",
+  "source_sha256": "acec9a6c1908ae8d78c1c764e7eb7c95ea88af882f85765d53930e6df48084f1",
+  "source_bytes": 113274,
+  "published": "2012-04-19",
+  "gazette": "28269",
+  "in_force": "2012-04-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.04.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2121,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
