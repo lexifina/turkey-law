@@ -1,0 +1,4 @@
+Başvuru konusu madde
+MADDE 2 – (1) Başvuru konusu eşya, 7306.40.20.90.00 ve 7306.40.80.90.00 Gümrük Tarife İstatistik Pozisyonları (GTİP) altında yer alan “Paslanmaz çelikten kesiti daire şeklinde olan diğer (dikişli) boruların soğuk çekilmiş veya soğuk haddelenmiş olanlarının; diğerleri” ile 7306.61.10.00.00 GTİP’i altında yer alan “Paslanmaz çelikten kesiti kare/dikdörtgen şeklinde olan dikişli borular”dır.
+(2) Başvuruya konu paslanmaz çelikten borular muhtelif ebatlarda kesiti daire veya kare/dikdörtgen şeklinde olabilmekte mobilya ve aksesuar üretiminde, otomotiv sektöründe, endüstriyel mutfak imalatında ve gıda, kimya, gübre, kağıt, ilaç, boya, petrokimya, plastik ve yağ sanayileri başta olmak üzere her tür korozif ortam ve uygulama alanlarında kullanılabilmektedir.
+(3) Bahse konu GTİP’ler, yalnızca bilgi amaçlı verilmiş olup, bağlayıcı mahiyette değildir.
