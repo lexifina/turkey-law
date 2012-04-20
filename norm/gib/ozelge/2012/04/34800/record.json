@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-155[5746/2011/1921]-487",
+  "source_id": 34800,
+  "date": "2012-04-20",
+  "title": "TÜBİTAK tarafından desteklenen Ar-Ge projesinden doğan alacakların kayıtsız şartsız bankaya temlikine ilişkin düzenlenen kağıdın 5746 sayılı Kanun ve Damga Vergisi Kanunu uyarınca damga vergisinden istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/34800",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "9b2c2dbf1bcbe5e44e82ec6e7c2112a0f62f052b36c04e23c5f7da8928161529",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
