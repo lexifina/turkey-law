@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-140[57-2011/42]-489",
+  "source_id": 35797,
+  "date": "2012-04-20",
+  "title": "Bakanlar Kurulu Kararıyla ünvanı değişen teşekkülün tapuda yapılacak tashih işlemlerinden Harçlar Kanununa bağlı 4 sayılı tarifenin I/13-c maddesi kapsamında harç alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35797",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "d1c4ef8e761626589faa79af4cc1bfef304996c5cc4cf27d0970a98bbe22a521",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
