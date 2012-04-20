@@ -1,0 +1,3 @@
+Ders Başarı Notunun Hesaplanması
+Madde 19 – a) (Değişik: RG-17/11/1996-22820) Esas Meslek derslerinde: Bir dersteki başarı durumu, öğrencinin genel veya bütünleme sınavında almış olduğu nottur. Bir dersin başarılmış sayılabilmesi için genel veya bütünleme sınav notunun en az 70 (yetmiş) olması gerekir.
+b) (Değişik: RG-27/07/2001-24475) Yardımcı meslek, kültür ve ortak zorunlu derslerde; bir dersteki başarı durumu genel veya bütünleme sınavı, uygulamalı çalışmalar ve ara sınavların birlikte değerlendirilmesi ile belirlenir. Bir dersin başarı notuna, ara sınav notları ve uygulamaların birlikte katkısı %50 (yüzde elli) dir. Bir dersin başarılmış sayılabilmesi için hem ders başarı notunun hem de genel veya bütünleme sınav notunun en az 50 (elli) olması gerekir.

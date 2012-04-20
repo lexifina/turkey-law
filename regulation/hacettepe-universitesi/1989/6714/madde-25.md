@@ -1,0 +1,2 @@
+İzinler
+Madde 25 – Öğrencilere, kanıtlayacakları önemli nedenleri veya öğrenim ve eğitimlerine katkıda bulunacak Üniversite dışı burs, staj, araştırma gibi imkanların doğması halinde Konservatuar Yönetim Kurulu’nun kararıyla bir defaya mahsus olmak üzere bir yıla kadar izin verilebilir. Bu izin eğitim ve öğretim yılına başlamadan önce istenir. Ayrıca öğrencilere öğretim yılı içinde izinler Konservatuar Yönetim Kurulu’nun belirleyeceği esaslara göre verilebilir.
