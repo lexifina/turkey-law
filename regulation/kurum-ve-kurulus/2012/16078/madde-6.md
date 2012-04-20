@@ -1,0 +1,5 @@
+Toplu sözleşme görüşmelerinin sonuçlanması
+MADDE 6 – (1) Toplu sözleşmeyi imzalamaya kamu idaresi adına Kamu İşveren Heyeti Başkanı, kamu görevlileri adına sözleşmenin kamu görevlilerinin geneline yönelik mali ve sosyal haklarla ilgili bölümü için Kamu Görevlileri Sendikaları Heyeti Başkanı ve hizmet kollarına yönelik mali ve sosyal haklarla ilgili bölümleri için ise ilgili sendika temsilcisi yetkilidir.
+(2) Toplu sözleşme görüşmeleri sonunda kamu görevlilerinin geneline yönelik mali ve sosyal haklar ile her bir hizmet koluna yönelik mali ve sosyal haklarla ilgili olarak ayrı bölümlerden ve tek metinden oluşan bir tutanak tutulur. Toplu sözleşme görüşmelerinin sonucunu gösteren bu tutanak, her bir bölümü ayrı ayrı geçerli olmak üzere 4688 sayılı Kanun hükümlerine göre düzenlenen toplu sözleşme, toplantı tutanağı veya tespit tutanağından oluşabilir.
+(3) Bu tutanak, toplu sözleşme görüşmelerine ilişkin müzakere süreci ve alınan kararlar göz önünde bulundurularak toplu sözleşme görüşmelerinin bitimi tarihinde imzalanır.
+(4) Bu tutanağın toplu sözleşme niteliğindeki bölümleri Resmi Gazete’de yayımlanır.

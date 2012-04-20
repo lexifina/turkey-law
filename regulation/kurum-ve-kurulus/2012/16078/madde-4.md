@@ -1,0 +1,5 @@
+Toplu sözleşme teklifleri
+MADDE 4 – (1) Kamu görevlilerinin geneline yönelik mali ve sosyal haklara ilişkin toplu sözleşme teklifleri Kamu Görevlileri Sendikaları Heyetine dahil her bir konfederasyon temsilcisi, her bir hizmet koluna özgü mali ve sosyal haklara ilişkin toplu sözleşme teklifi ise o hizmet kolunda en çok üyeye sahip sendika temsilcisi tarafından hazırlanır.
+(2) Her bir hizmet kolu itibarıyla en çok üyeye sahip ikinci sırada bulunan sendika da bu Yönetmeliğin 7 nci maddesini göz önünde bulundurarak bir toplu sözleşme teklifi hazırlar. Hazırlanan toplu sözleşme teklifi, bu Yönetmeliğin 7 nci maddesi uyarınca söz konusu sendikanın toplu sözleşme görüşmelerine davet edilmesi durumunda davet yazısının tebliğ tarihini takip eden gün Devlet Personel Başkanlığına teslim edilir.
+(3) Teklifler, toplu sözleşme görüşmelerinin başlama tarihinden en az bir hafta önce yazılı olarak ve elektronik ortamda Devlet Personel Başkanlığına teslim edilir.
+(4) Devlet Personel Başkanlığı, gelen teklifleri Kamu İşveren Heyeti üyelerine toplu sözleşme görüşmeleri başlamadan önce elektronik ortamda sunar.
