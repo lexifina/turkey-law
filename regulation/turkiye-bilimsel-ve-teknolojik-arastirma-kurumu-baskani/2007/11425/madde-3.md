@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 17/7/1963 tarihli ve 278 sayılı Türkiye Bilimsel ve Teknolojik Araştırma Kurumu Kurulması Hakkında Kanunun (Ek ibare:RG-4/10/2008-27014) 2 nci ve 4 üncü maddesi ile 23/8/2006 tarihli ve 2006/10932 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
