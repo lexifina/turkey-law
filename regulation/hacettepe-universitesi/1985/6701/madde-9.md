@@ -1,0 +1,7 @@
+İlk Kabul Sınavlarının Özellikleri:
+Madde 9 — (Değişik:RG-27/07/2001-24475)
+Sınav komisyonları, baraj sınavında başarılı görülen adayı, sınav giriş belgesinde belirtilen tercihini de dikkate alarak yeteneğine ve fiziki uygunluğuna göre o bölüme bağlı en çok iki anasanat dalının özelliklerine göre puanlandırır.
+Kesin kabul sınavında, başarılı görülen adaylar için sınav komisyonu tarafından adayın tercihi, yeteneği, fiziki uygunluğu ve öğrenci kontenjanları da dikkate alınarak adaya en uygun sanat dalı tespit edilir.
+Kesin kabul sınavlarında başarılı olan adaylar, sınav komisyonunun kararına uymak ve tespit edilen sanat dalına kayıtlarını yaptırmak zorundadırlar. Aksi halde haklarından vazgeçmiş sayılırlar.
+Anasanat dalının özelliği nedeniyle yalnızca bir anasanat dalı için oluşturulan sınav komisyonları tarafından yapılan kabul sınavlarında adayların değerlendirilmesi o anasanat dalının özelliğine göre yapılır.
+Baraj ve kesin kabul sınavlarında başarı notu yüz (100) üzerinden yetmiş (70) puandır. Kesin kabul sınavında başarılı olan adaylar puan durumuna göre anasanat dalları itibariyle sıralamaya konulurlar. Kontenjan ve puan sıralamasına göre adayların kayıtları yapılır. Yetmiş (70) puandan az alanlar hiçbir şekilde sıralamaya giremezler. Yetmiş (70) ve daha yüksek puan alanlardan kontenjan dışında kalanlar yedek listeye alınırlar. Kontenjan açığı kaldığı takdirde puan sıralamasına göre bu adayların da kayıtları yapılabilir.

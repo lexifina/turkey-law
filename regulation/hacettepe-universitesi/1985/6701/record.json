@@ -1,0 +1,162 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [],
+  "date_evidence": [
+    [
+      "1985-09-28",
+      "28.09.1985",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-04-20",
+      "RG-20/4/2012-28270",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "1995-11-28",
+      "RG: 28/11/1995-22477",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-07-27",
+      "RG-27/07/2001-24475",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-20/4/2012-28270",
+  "first_law": null,
+  "gazette": "18882",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-04-20",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/1985/6701",
+  "published": "1985-09-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6701&MevzuatTertip=5",
+  "source_bytes": 154641,
+  "source_id": "8.5.6701",
+  "source_sha256": "362c2d7962bb006ece98b17df500345954d008ca3c8d1db2786052ce182c7620",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ DEVLET KONSERVATUVARI  LİSE DEVRESİ ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 5204
+}
