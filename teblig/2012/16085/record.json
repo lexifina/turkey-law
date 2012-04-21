@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16085",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2012/7)",
+  "number": "16085",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2012/16085",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16085&MevzuatTertip=5",
+  "source_sha256": "bf1038ad589184356e4f6f930aa0dc1c033cc94964c457f3bd2ab1cd5817ba1d",
+  "source_bytes": 1427683,
+  "published": "2012-04-21",
+  "gazette": "28271",
+  "in_force": "2012-04-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.04.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4917,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
