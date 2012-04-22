@@ -1,0 +1,2 @@
+Yönetim kurulunun görevleri
+MADDE 12 – (1) Yönetim Kurulunun görevleri; Müdürce her faaliyet dönemi sonunda hazırlanan faaliyet raporunu değerlendirmek, bir sonraki döneme ait çalışma programını düzenlemek, eğitim programları sonunda verilecek başarı belgesi, sertifika ve benzeri belgelerin verilme koşullarını belirlemek, eğitim programlarının düzenlenmesine, eğitim programlarında görev alacaklara ve ödemelere ilişkin karar vermek, Merkezin bütçesini hazırlamaktır.
