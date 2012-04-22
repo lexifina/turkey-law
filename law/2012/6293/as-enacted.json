@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6293",
+  "year": 2012,
+  "title": "Güneydoğu Asyada Dostluk ve İşbirliği Andlaşmasını Değiştiren Üçüncü Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-04-22",
+  "gazette_issue": "28272",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120422-1.htm",
+  "source_sha256": "95efa2ac34b9817b0f943c531a594878c9c2e413d4d60a823681231e8cf46748",
+  "text_sha256": "33acd05e71f8497f4c642bcc0a1cdf9c305a1e99467db3869b0c044f32c0e969",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/04/22/28272-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120422-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
