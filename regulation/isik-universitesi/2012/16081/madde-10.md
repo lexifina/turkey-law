@@ -1,0 +1,2 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu; Üniversite bünyesindeki her fakülte ve enstitüden, Rektör tarafından üç yıllık süre için görevlendirilecek birer öğretim üyesi ile Başkan ve Müdürden oluşur. Üye sayısının çift olması durumunda Rektör tarafından bir üye daha görevlendirilir. Görev süresi dolan üyeler tekrar görevlendirilebilir. Süreleri bitmeden görevlerinden ayrılan üyelerin yerine yeni üye üç yıllık bir süre için seçilir.
