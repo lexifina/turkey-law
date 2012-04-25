@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-04-25",
+  "issue": "28274",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Türkiye Büyük Millet Meclisi Başkanlığı Stenografi Kursu ve Stenograflık Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120425-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/04/20120425.htm",
+  "index_sha256": "419f5d9a2fb01016d247277b07362fff17f45f3b933d5952d81c5731e3d91d26",
+  "index_header": "25 Nisan 2012 ... 28274 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
