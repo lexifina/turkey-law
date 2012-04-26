@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-300.11.159-208",
+  "source_id": 27389,
+  "date": "2012-04-26",
+  "title": "Kurumlar vergisi mükellefiyeti bulunmayan konut yapı kooperatifinin vergi kanunları karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27389",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "b28f0af65e29f880ad9f0c9a845618cdc65b192ebf316e3d84e223a05aac138d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
