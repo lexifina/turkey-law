@@ -1,0 +1,22 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KAMU İKTİSADİ TEŞEBBÜSLERİ KOMİSYONU",
+  "committee_id": 15,
+  "meeting_date": "2012-04-26",
+  "meeting_date_as_published": "26/04/2012",
+  "agenda": [
+    "İLLER BANKASI GENEL MÜDÜRLÜĞÜNÜN, YENİ ADIYLA İLLER BANKASI ANONİM ŞİRKETİNİN 2009 VE 2010 YILINA AİT HESAP VE İŞLEMLERİNİ GÖRÜŞMELERİ",
+    "TASFİYE HÂLİNDE EMLAK BANKASI ANONİM ŞİRKETİNİN 2010 YILINA AİT BİLANÇO VE NETİCE HESAPLARININ GÖRÜŞMELERİ",
+    "(MARTEK) MARMARA TEKNOKENT. AŞ'NİN 2010 YILINA AİT BİLANÇO HESAPLARININ GÖRÜŞMELERİ"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/536",
+  "pdf_sha256": "defc08027915f33969dbbd154768851cc23dd84652d23d888d499ba48124daf7",
+  "pdf_pages": 78,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=15)",
+  "listing_sha256": "0dc889625a43960f41a70f9bc21885fb2bc2789f7a2feaf357be8aa9f141f856",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-04-26",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
