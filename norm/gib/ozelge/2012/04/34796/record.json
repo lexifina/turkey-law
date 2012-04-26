@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.02-DH-2011-92-262",
+  "source_id": 34796,
+  "date": "2012-04-26",
+  "title": "Birden fazla müteselsil kefil bulunan sözleşmenin damga vergisinın kefil sayısına göre alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34796",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "2b9072da77e9b21e38dd330861d28c5b1f8b8cea6fab95672ff7a395ef1339ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
