@@ -1,0 +1,2 @@
+Karar
+MADDE 3 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, yapılan başvuruyla ilgili olarak, 6402; 6403; 6404 G.T.P.’lerinde sınıflandırılan eşyanın (6402.12; 6402.19; 6403.12; 6403.19; 6404.11 alt pozisyonları hariç) ithalatında uygulanmakta olan korunma önleminin etkilerinin değerlendirilmesi ve söz konusu önlem uygulamasının devamının gerekli olup olmadığının incelenmesi amacıyla soruşturma açılmasına karar vermiştir.
