@@ -1,0 +1,3 @@
+Ön inceleme
+MADDE 2 – (1) Başvuru konusu eşyanın ithalatı 2010 yılına kadar düzenli bir şekilde artmakla birlikte 2011 yılında azalmıştır. Başvuru konusu eşyanın İran menşeli olanlarının ithalatı ise 2007 yılından sonra durmuştur. İnceleme konusu dönemde İran menşeli ithalatın piyasa payının sıfırlandığı, genel ithalatın piyasa payının ise arttığı görülmektedir.
+(2) İnceleme konusu dönemde yürürlükte olan korunma önlemine rağmen başvuru sahibi yerli üreticilerin yurt içi satışlar, üretim, kapasite kullanım oranı, verimlilik ve dönem sonu stoklar gibi bazı ekonomik göstergelerinde bozulma olduğu; buna ek olarak, istihdam ve karlılık rakamlarında iyileşme olduğu görülmekle birlikte karlılığın hala negatif bir seyir izlediği görülmektedir.
