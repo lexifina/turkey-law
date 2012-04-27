@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.33.15.01-2011-701-21-45",
+  "source_id": 30626,
+  "date": "2012-04-27",
+  "title": "Betonarme karkası kalıp, demir, beton işçiliğinde KDV tevkifatı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30626",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "262890e7f710f2a105fc86d4dd3e324496d2576a1fb8863f47ac40d5e42e20ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
