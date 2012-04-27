@@ -166,7 +166,7 @@ TEKNOLOJİ ENSTİTÜLERİ
 77) (Ek: 17/5/2007-5662/9 md.) Kilis 7 Aralık Üniversitesi
 78) (Ek: 17/5/2007-5662/9 md.) Çankırı Karatekin Üniversitesi
 79) (Ek: 17/5/2007-5662/9 md.) Artvin Çoruh Üniversitesi
-80) (Ek: 17/5/2007-5662/9 md.) Bilecik Üniversitesi
+80) (Ek: 17/5/2007-5662/9 md.; Değişik: 19/4/2012-6296/4 md.) Bilecik Şeyh Edebali Üniversitesi
 81) (Ek: 17/5/2007-5662/9 md.) Bitlis Eren Üniversitesi
 82) (Ek: 17/5/2007-5662/9 md.) Kırklareli Üniversitesi
 83) (Ek: 17/5/2007-5662/9 md.) Osmaniye Korkut Ata Üniversitesi
