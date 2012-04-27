@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-05-18",
+      "18.05.2011",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2012-04-27",
+      "RG-27/4/2012-28276",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-04-27",
+      "27/4/2012",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-27/4/2012-28276",
+  "first_law": null,
+  "gazette": "27938",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-04-27",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gümüşhane Üniversitesi",
+  "issuer_slug": "gumushane-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gumushane-universitesi/2011/14986",
+  "published": "2011-05-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14986&MevzuatTertip=5",
+  "source_bytes": 59284,
+  "source_id": "8.5.14986",
+  "source_sha256": "bb2e7e0476d4af1e4d9a839e643c79fe32972fd9b5543d34ae37564d1ff8a8a4",
+  "text_status": "current-consolidated",
+  "title": "GÜMÜŞHANE ÜNİVERSİTESİ ORGANİK TARIM UYGULAMAVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 326,
+  "word_count": 1195
+}

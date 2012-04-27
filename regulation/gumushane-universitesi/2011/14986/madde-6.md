@@ -1,0 +1,21 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Tarım topraklarının organik tarıma uygunluğunu ve verimlilik durumlarını belirlemek,
+b) Organik tarımsal üretime ayrılan alan ve tesislerde, hazırlanan uzun dönemli üretim planı ve yıllık planlar doğrultusunda her türlü bitkisel ve hayvansal üretimi gerçekleştirmek, bölgesel üretim ve araştırma hedefleri hazırlamak,
+c) Elde edilen organik bitkisel ve hayvansal ürünleri teknolojik işlemlerden geçirerek pazara hazırlamak ve tüketime sunmak,
+ç) Organik alanda ıslah çalışmaları yaparak, tarım sektörünün ihtiyaç duyduğu, Türkiye’nin koşullarına adapte olmuş, sağlıklı ve üstün verimli bitki genotipleri ve çeşitlerini, üstün özelliklere sahip hayvan ırklarını belirlemek ve damızlık hayvan, tohumluk, fide ve fidan üretmek,
+d) Islah çalışmalarından elde edilen canlı bitki veya hayvan materyalini çoğaltarak çiftçi veya kurumlara ulaştırmak,
+e) Yeni anaç ve çeşitlerle ilgili bilimsel çalışmaları ve teknolojileri izlemek, bunları Türkiye'ye transfer etmek ve adaptasyon çalışmalarını yapmak,
+f) Organik bitki çeşidi veya organik hayvan ırklarına ilişkin denemelere paralel olarak organik gübre ve organik mücadele yöntemleriyle ilgili denemeler kurmak,
+g) Organik tarımla doğrudan ilişkili bulunan ziraat, veterinerlik ve gıda bölümleri bünyesindeki önlisans, lisans ve lisansüstü öğretim programlarında öngörülen mesleki uygulama, pratik çalışma, staj ve tez projeleri ile araştırma projeleri için yer, materyal ve hizmet sağlamak,
+ğ) Bitki ve hayvan sağlığı ile ilgili araştırmalar yapmak,
+h) Bölgede tarımı yapılan ürünlerde hastalık ve zararlıların teşhisini yapmak, bunlara organik koruma yöntemleri geliştirmek, önermek ve bu yöntemleri üreticilere uygulatmak,
+ı) Organik yetiştiriciliğe uygun çeşit adaptasyon denemeleri yapmak, tescil veya uygunluk raporları hazırlamak,
+i) Üniversitenin merkez laboratuvarı ve gıda mühendisliği bölümü işbirliğinde, piyasada bulunan gübre, ilaç, yem ve diğer girdilerin organik tarım açısından kalite ve standart kontrollerini yapmak, uygunluk raporlarını hazırlamak,
+j) Gıdalarda kimyasal, fiziksel ve mikrobiyolojik testler yapmak ve raporlandırmak,
+k) Tarımsal ürünlerde kimyasal kalıntı analizleri yapmak ve raporlandırmak,
+l) Laboratuvar analizleri, test ve deneyler yapmak, uygulama ve araştırmalar yürütmek, danışmanlık ve bilirkişilik hizmetleri vermek,
+m) Biyoteknolojik çalışmalar için laboratuvarlar kurarak bitki ve hayvan ıslah politikaları doğrultusunda çalışmalar yapmak ve bölgenin genetik kaynaklarının korunmasına yönelik gen bankaları oluşturmak,
+n) Organik bitkisel ve hayvansal üretimde mekanizasyon, toprak işleme teknikleri ve toprak muhafazası konularında araştırma ve uygulamalar yaparak, erozyon ile mücadelede bölge çiftçilerine önderlik etmek, tarımsal üretimden kaynaklanan çevre sorunlarının çözümüne yönelik araştırma ve uygulama projeleri yürütmek ve eğitim programları düzenlemek,
+o) Kamu kuruluşları, tarımsal amaçlı kooperatif birlikleri, yetiştirici birlikleri ve diğer tarımsal amaçlı örgütler ile işbirliğini geliştirmek,
+ö) Merkezin kuruluş amacına uygun olarak yurt içinde ve yurt dışında üniversiteler, araştırma kuruluşları ve uluslararası kuruluşlar ile işbirliği imkanlarını geliştirerek her türlü yayın yapmak, yayın çalışmalarına katılmak ve desteklemek, veri bankası ve dokümantasyon merkezi oluşturmak.
