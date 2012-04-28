@@ -1,0 +1,2 @@
+Vekâlet ilişkisi
+MADDE 6 – (1) Sağlık hizmeti sunumu sırasında veya bu hizmetten dolayı bu Yönetmelik kapsamındaki personele karşı işlendiği iddia edilen suçlara ilişkin soruşturma ve kovuşturmalarda; Bakanlık ve bağlı kuruluşlar merkez ve taşra teşkilatı ile döner sermaye teşkilatı kadrolarında bulunan avukatlar ile 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununa göre hizmet alımı suretiyle kendilerine idarece vekâlet verilmiş avukatlar, ayrıca vekâletname ibrazı gerekmeksizin ilgili personelin veya kanuni mirasçılarının vekili sıfatıyla işlem yapmaya yetkilidir.
