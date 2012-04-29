@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-125[4-12/6]-503",
+  "source_id": 24624,
+  "date": "2012-04-29",
+  "title": "Kooperatife ait arsanın satışından elde edilen tutarın üyelere dağıtılması ve kooperatifin bünyesinde oluşan zararların mahsup edilmesinin vergi mevzuatı karşındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24624",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "7ac8605e6b55825a2d5fddd6f859512f53f5a0eefa9b27eea8a0b50cb01dec7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
