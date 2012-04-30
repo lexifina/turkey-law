@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.10.15.01-2011/KVK-837-44",
+  "source_id": 27503,
+  "date": "2012-04-30",
+  "title": "Kooperatif üyelerinin uhdesinde bulunan arsaların alt ve üst yapısının yüklenici firmaya yaptırılması durumunda katma değer vergisi ve kurumlar vergisi uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27503",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "05e38416fa2bdf450c174c43f99f195ab8285480b19f987fcd413c6320cd53ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
