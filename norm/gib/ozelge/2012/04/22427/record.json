@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.01-35-02-473",
+  "source_id": 22427,
+  "date": "2012-04-30",
+  "title": "Şirket tarafından rödovansçı adına ödenen yıllık arazi kullanım, ağaçlandırma bedeli, teminat, yıllık ruhsat harcı, yıllık devlet hakkı ve diğer giderlerin gider ve indirim konusu yapılıp yapılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/22427",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "3e1ed8b604a9b9c86cc5b7891fc6d3285a85316dbcb39e93b124734f859c834f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
