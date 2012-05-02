@@ -1,0 +1,20 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB sirkulerTarih: 2012-05-02T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "circular",
+  "official_date": "2012-05-02",
+  "official_number": "GVK-82/2012-4/ Muhtasar Beyanname",
+  "official_number_basis": "Official GIB sirkulerNo field",
+  "personal_data_screen": "General circular/internal circular; generic identity-information requirements do not decide a private person. No literal 11-digit identifier or named-private-person marker found.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/575",
+  "source_id": "sirkuler:575",
+  "source_row_sha256": "16e7234f8182d13cae8921ea1bd42099495ae47af9eacf1564721f8aa2f20c1f",
+  "title": "Muhtasar Beyannamelerde Stopaja Tabi Ödemelerin Bildirilmesi",
+  "version_label": "as-enacted",
+  "word_count": 614
+}
