@@ -1,0 +1,2 @@
+Ödünç verme
+MADDE 19 – (1) Eserler, Yönetmeliğin 16 ncı maddesinin (f) bendi dışında kalan kullanıcılara ödünç verilebilir. Ancak aynı maddenin (d) ve (e) bentlerinde yer alanların ödünç alabilmesi bağlı olduğu kurumun yazılı taahhüdüne bağlıdır. Ödünç verme süresi otuz gündür. Bu süre en çok bir defa uzatılabilir. İstek olması durumunda süre dolmadan da geri istenebilir. Süresi dolan eserler iade edilmedikçe yeniden ödünç verilemez. Ancak, bu Yönetmeliğin 16 ncı maddesinin (a), (b) ve (c) bentlerine girenlerin yeniden ödünç alabilmeleri Kurul Başkanının iznine bağlıdır.

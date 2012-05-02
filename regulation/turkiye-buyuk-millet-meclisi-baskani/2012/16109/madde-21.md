@@ -1,0 +1,6 @@
+Gününde iade edilmeyen eserler
+MADDE 21 – (1) Ödünç alınan eserlerin herhangi bir şekilde zarar verilmeden zamanında iadesi esastır. Ödünç alınıp süresinde iade edilmeyen eserler için ilgiliye yazı ile hatırlatmada bulunulur ve on beş gün içinde iade edilmesi istenir. Buna rağmen iade edilmeyen eserler için Kurul, eserin piyasadan temin edilmesine ve bedelinin ilgiliden tahsiline karar verir.
+(2) Piyasadan temini mümkün olmayan eser için, eserin rayiç bedelinin beş katı miktar borç olarak Kurulca belirlenir. Eserin rayiç bedelinin tespitinde aynı dönemde basılmış benzer nitelikteki eserin fiyatı emsal alınır.
+(3) Borcun tahsiline ilişkin yazı, milletvekilleri, Yasama Organı eski üyeleri ve dışarıdan atanan bakanlarla ilgili olarak Kurul Başkanı tarafından TBMM Başkanlığına, diğerleriyle ilgili olarak Kütüphane ve Arşiv Hizmetleri Başkanı tarafından TBMM Başkanlığı Genel Sekreterliğine gönderilir.
+(4) Borç, ödenmediği takdirde milletvekillerinin ödeneklerinden, Kurumda istihdam edilen personelin maaşlarından kesilir. Yasama Organı eski üyeleri ile dışarıdan atanan bakanlarla ilgili işlemler Strateji Geliştirme Başkanlığınca, TBMM içinde görev yapan diğer kurumların personeli ile ilgili işlemler bağlı olduğu birimin yöneticisi tarafından yerine getirilir.
+(5) Borcun tahsilinden sonra eserin demirbaş kaydı silinir.
