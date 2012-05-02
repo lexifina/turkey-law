@@ -1,0 +1,3 @@
+Devir alınan diğer kişilerin genel sağlık sigortası tescil işlemleri
+MADDE 11 – (1) Bu Tebliğin 4 üncü maddesinin birinci fıkrasının (d), (e), (f), (g), (h), (ı), (i), (j) ve (k) bentlerinde belirtilenlerden, 1/1/2012 tarihi itibariyle Kanuna göre bakmakla yükümlü olunan kişi kapsamında olanlar bakmakla yükümlü olunan kişi olarak, bakmakla yükümlü olunan kişi kapsamında olmayanlar ise gelir testi işlemleri sonuçlandırılıncaya kadar Kanunun 82 nci maddesine göre tespit edilen prime esas kazanç tutarının alt sınırının otuz günlük tutarı üzerinden primleri tahakkuk ettirilmek üzere 1/1/2012 tarihi itibariyle, Kanunun (60/g) bendi kapsamında tescil edilir.
+(2) Bunlardan Kanunun (60/g) bendi kapsamında tescil edilenler hakkında bu Tebliğin 7 nci maddesine göre işlem yapılır.

@@ -1,0 +1,3 @@
+Devir alınan yeşil kartlıların bakmakla yükümlü olduğu kişiler
+MADDE 12 – (1) Bu Tebliğin 4 üncü maddesinin birinci fıkrasının (a) ve (ğ) bentlerinde belirtilenlerin, devir tarihinden önce yeşil kart verilerek sağlık yardımları karşılanan bakmakla yükümlü olduğu kişiler ile devir tarihinden sonra Kanunun 3 üncü maddesinin birinci fıkrasının (10) numaralı bendine göre bakmakla yükümlü olunan kişi şartlarını taşıyan eş, çocukları ile ana ve babası, Kanunun (60/c-1) alt bendi kapsamında ayrı ayrı tescil edilecek ve tescil tarihinden itibaren sağlık hizmetlerinden yararlandırılır.
+(2) Bu kişilerden yeşil kart vize tarihleri sona erenler hakkında bu Tebliğin 7 nci maddesine göre işlem yapılır.

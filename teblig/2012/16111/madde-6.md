@@ -1,0 +1,2 @@
+Kurumdan ve Kurum dışı sağlık hizmetlerinden faydalanma hakkı bulunanlar
+MADDE 6 – (1) Devir tarihinde bu Tebliğin 4 üncü maddesinde belirtilenler ile bu kişilerin bakmakla yükümlü olduğu kişilerin aynı zamanda bu Tebliğin 5 inci maddesinde belirtilen ve Kanunun geçici 20 nci maddesi kapsamında çalışan kişinin de bakmakla yükümlü olduğu kişisi olması halinde, sağlık hizmetlerinden tercih edecekleri statüye göre yararlandırılır.

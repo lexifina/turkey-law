@@ -1,0 +1,2 @@
+Devir alınan diğer kişilerin bakmakla yükümlü olduğu kişiler
+MADDE 15 – (1) Bu Tebliğin 4 üncü maddesinin birinci fıkrasının (d), (e), (f), (g), (ğ), (ı), (i), (j) ve (k) bentlerinde belirtilenlerden, 1/1/2012 tarihi itibariyle Kanuna göre bakmakla yükümlü olunan kişi kapsamında olmayan ve bu tarih itibariyle Kanunun (60/g) bendi kapsamında tescil edilenlerin, Kanuna göre bakmakla yükümlü olduğu kişiler, sağlık yardımlarından bu tarihten itibaren sağlık hizmetlerinden yararlandırılır.

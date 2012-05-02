@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16111",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GENEL SAĞLIK SİGORTASI GEÇİŞ SÜRESİNİN TAMAMLANMASI VE KURUMLARIN SAĞLIK YARDIMLARININ SOSYAL GÜVENLİK KURUMUNA DEVİR İŞLEMLERİNE İLİŞKİN TEBLİĞ",
+  "number": "16111",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "path": "teblig/2012/16111",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16111&MevzuatTertip=5",
+  "source_sha256": "db5a66d0925e22374bb7f8113b33247c08b9e1e745973363a690c7c2f1f204c8",
+  "source_bytes": 40158,
+  "published": "2012-05-02",
+  "gazette": "28280",
+  "in_force": "2012-05-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.05.2012); own commencement article: \"Bu Tebliğ hükümleri, 1/1/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ hükümleri, 1/1/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2777,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
