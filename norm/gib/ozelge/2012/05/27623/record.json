@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 3-1498",
+  "source_id": 27623,
+  "date": "2012-05-02",
+  "title": "Ana merkez tarafından Türkiye'de bulunan şubeye verilen kredi için ödenen faiz giderlerinin kurumlar vergisi beyannamesinde gider olarak dikkate alınıp alınmayacağı, elde edilen karın ana merkeze aktarılmaması halinde stopaj yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27623",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "34b9f2025b29025dd5532fdd93f284abecf8db7ede023b0e0d44ff3819b5c032",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
