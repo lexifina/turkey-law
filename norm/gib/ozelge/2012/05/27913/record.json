@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-KVK-5/1-e-112",
+  "source_id": 27913,
+  "date": "2012-05-02",
+  "title": "Kurumlar vergisinden istisna edilen kazançlara ilişkin giderlerin bulunması durumunda istisna tutarının nasıl hesaplanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27913",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "c8c78668e314744753eab9263981cda5341675a1a9641ac21005491af6d9a487",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
