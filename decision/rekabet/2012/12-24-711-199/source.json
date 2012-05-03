@@ -1,0 +1,13 @@
+{
+  "number": "12-24/711-199",
+  "type": "Rekabet İhlali",
+  "decision_date": "2012-05-03",
+  "publication_date": "2013-07-03",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=9b01deb1-d12a-44ef-b938-f251558ae98d",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=525",
+  "pdf_sha256": "53fc4bd62cbb161e85520ad34ea140996e0ad6b5f71be7a6cf09b85ea7486d3e",
+  "pdf_bytes": "469306",
+  "pages": "45",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
