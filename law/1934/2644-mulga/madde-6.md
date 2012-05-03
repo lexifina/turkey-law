@@ -1,0 +1,9 @@
+Madde 6 – (22/12/1934 tarih ve 2644 sayılı Kanunun hükmüdür.)
+Devletin hususi mülkiyetinde olmayıp hüküm ve tasarrufu altında bulunan ammenin hizmetine tahsis olunmıyan sahipsiz ham toprağı açıp işgal edenlere hiç toprakları yoksa bu yerlerin iskan haddine kadar olan miktarı ve toprağı olupta tutarı iskan haddini geçmezse bu yerlerin iskan haddini dolduracak miktarı parasız terkolunarak namlarına tescil olunur. İskan haddi idare heyetlerince tayin ve tasdik olunur. Ancak taşlık ve pırnalık olupta imar için masraf ve emek sarfederek meydana getirilmiş tarla ile bağ ve meyvalık haline konulmuş toprakları miktarı ne olursa olsun imar edene parasız terkolunarak namlarına tescil olunur.
+Devletin hususi mülkiyetinde olupta ammenin hizmetine tahsis kılınmamış araziyi kütük veya ağaç dikerek bağ ve bahçe yapan kimseye o yerin verilmesinde mahzur olmadığı mahalli idare heyetince tasdik kılındığı takdirde o bağ ve bahçenin vergi kıymetinin yüzde sekizini alınmak suretile namına tescil olunur.
+Birinci ve ikinci fıkralarda yazılı araziyi açmak isteyenler açacağı kısmın mevkiini, sınır ve miktarlarını gösterir bir beyanname ile mahallin en büyük mülkiye memuruna müracaat ederek bir makbuz ilmühaberi aldığı takdirde bir sene için o yerin imarında tercih hakkı kazanır. Tapuda tescil ihyanın sübutundan ve bedele tabi arazide 19 uncu madde mucibince ilk taksiti verdikten sonra yapılır.
+Bu hükümlerden ancak Türk Vatandaşları istifade eder.
+2 – 18/1/1950 tarih ve 5516 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları:15)
+Madde 15 fıkra bir – (22/12/1934 tarih ve 2644 sayılı Kanun hükmüdür.)
+Kimsenin mülkiyetinde bulunmıyan göller, bataklıklarla birikinti suların devletçe veya kanunu dairesinde vilayetçe verilen mezuniyete istinaden doldurulması halinde, şerait ifa edildiği ait olduğu makamlardan bildirildiği takdirde, imtiyaz ve ruhsat şeraiti dairesinde hak sahibi namına tescili icra kılınır.
+236
