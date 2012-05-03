@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-05-03",
+  "issue": "28281",
+  "edition": "regular",
+  "item": 9,
+  "section": null,
+  "heading": "İDARİ BAĞLILIĞIN DEĞİŞTİRİLMESİ KARARI",
+  "title": "Abdullah Gül Üniversitesi Dijital Yayınlar Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120503-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120503.htm",
+  "index_sha256": "62ba8561365d1171d44016bdd4b65ccc69f0b137005dbebb41513e9e4fafc322",
+  "index_header": "3 Mayıs 2012 ... 28281 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
