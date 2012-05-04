@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-175-2[12-2012-13]-525",
+  "source_id": 37214,
+  "date": "2012-05-04",
+  "title": "Bina üzerine asılan ilan ve reklamlar nedeniyle aranılacak ilan ve reklam vergisinin tahsilinde, büyükşehir ya da diğer belediyelerden hangisinin yetkili olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37214",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "8aa45e24bb05cd2dbf944ee1c9e56b6a3b2e05611675bf4e52f7c61a2c3d6737",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
