@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-155[1-2011/1758]-527",
+  "source_id": 34792,
+  "date": "2012-05-04",
+  "title": "Müteahhid firma ile taşeron firma arasında ilköğretim okulu inşşatına ilişkin düzenlenen sözleşmelerin damga vergine tabi olup olmadığı ile verginin beyanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34792",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "f41c359a35093af0699863b8448dd42439f45cbf480af515b572362e9dbb2ede",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
