@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-05-05",
+  "issue": "28283",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "2012/2983 Türkiye Cumhuriyeti Hükümeti ile Çin Halk Cumhuriyeti Hükümeti Arasında İkili Ticari ve Ekonomik İşbirliğinin Geliştirilmesi ve Derinleştirilmesine İlişkin Çerçeve Anlaşmasının Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120505-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120505.htm",
+  "index_sha256": "22be45e12206574df7f62fa6c181c64d7c8de723ac7abd6ba37e96eb151553f1",
+  "index_header": "5 Mayıs 2012 ... 28283 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
