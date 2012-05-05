@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2012/252",
+  "list_number": "252",
+  "decision_date": "2012-05-05",
+  "title": "Köy muhtarlığı ve köy ihtiyar meclisi üyeliği, mahalle muhtarlığı ve mahalle ihtiyar heyeti üyeliği seçimleri ile ilgili Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2661/2012-252.pdf",
+  "source_sha256": "9394f8c84baa9a85efb27ba192527129d4bc3fd3fd8adc6684c44d579d6f7c76",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2012-05-05",
+  "law_text_complete": false
+}
