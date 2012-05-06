@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-05-06",
+  "issue": "28284",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "2012/3023 Bilecik-Bozüyük Lojistik Merkezinin Yapımı Amacıyla İhtiyaç Duyulan Taşınmaz ile Üzerindeki Muhdesatın Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120506-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120506.htm",
+  "index_sha256": "9887729faedaaeacc8c2fd2768609e2a1a76e0948d7d3f4e801f16cbc8e97664",
+  "index_header": "6 Mayıs 2012 ... 28284 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
