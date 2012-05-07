@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2012/3139",
+  "source_id": 1614,
+  "date": "2012-05-07",
+  "title": "ÖZEL TÜKETİM VERGİSİ KANUNUNA EKLİ (III) SAYILI LİSTENİN (A) CETVELİNDE YER ALAN MALLARIN ASGARİ MAKTU VERGİ TUTARLARINA İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/bkk/1614",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "4ecdb4884e493026599231e8ac56d39eaf6b853cd565b5ee33674f56ac99a302",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
