@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "34922",
+  "decision_date": "2012-05-08",
+  "source_id": 4503,
+  "chamber": "3",
+  "file_number": "34000",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4503/",
+  "source_sha256": "30cd839079365a1079f39a6e40ee72ddca303e1dbc7e9ef34ce6cd1018bb0695",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
