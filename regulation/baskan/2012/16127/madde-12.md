@@ -1,0 +1,3 @@
+Mesleki eğitim ve staj faaliyetlerine katılma zorunluluğu
+MADDE 12 – (1) Raportör yardımcısı adayları, Genel Sekreterlikçe kabule değer özürleri olmadıkça mesleki eğitim ve staj faaliyetlerine katılmak zorundadırlar.
+(2) Adaylık döneminde kanuni mazereti olsa dahi toplam iki aydan fazla eğitime devam edememiş olanlar, mesleki eğitimlerini tamamlamamış sayılırlar. Bu durumda olanların eksik kalan mesleki eğitim süreleri adaylık süresine ilave edilerek tamamlattırılır. Eğitime devam edilemeyen dönemde katılmadığı ara sınav yerine seminer ödevi verilerek, bu ödevden aldığı not ara sınav notu olarak değerlendirmeye esas alınır. Adaylar eksik kalan eğitimlerini bu şekilde tamamlamadıkça adaylık süresi sonunda yapılacak yeterlilik sınavına giremezler.
