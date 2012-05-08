@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "(10 / 108, 155, 156, 157, 158, 159, 160) ESAS NUMARALI MECLİS ARAŞTIRMASI KOMİSYONU",
+  "committee_id": 996,
+  "meeting_date": "2012-05-08",
+  "meeting_date_as_published": "08/05/2012",
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/991",
+  "pdf_sha256": "bf4a39e758c55e8ebea2557ad863db23777804575752a3f92dc75b4c151c9453",
+  "pdf_pages": 9,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=996)",
+  "listing_sha256": "c6ecb35c00b826b2573267e2791ac5d47f4d6be32a0583f0e2929b9960ab74a5",
+  "text_status": "metadata-only: inquiry / investigation committee (hears private persons): official link only",
+  "in_force": "2012-05-08",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "metadata"
+}
