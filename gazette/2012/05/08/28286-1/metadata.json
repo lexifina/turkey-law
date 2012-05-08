@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-05-08",
+  "issue": "28286",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "2012/3010 Nükleer Terörizmin Önlenmesine İlişkin Uluslararası Sözleşme’nin Bildirim ve Çekince ile Birlikte Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120508-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120508.htm",
+  "index_sha256": "52c24f4b19369fdf5a6480c6b9d7e17cfaa99deac85e920846cdbc53dee95c75",
+  "index_header": "8 Mayıs 2012 ... 28286 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
