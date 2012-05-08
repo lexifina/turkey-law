@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KAMU İKTİSADİ TEŞEBBÜSLERİ KOMİSYONU",
+  "committee_id": 15,
+  "meeting_date": "2012-05-08",
+  "meeting_date_as_published": "08/05/2012",
+  "agenda": [
+    "DEVLET MALZEME OFİSİ GENEL MÜDÜRLÜĞÜNÜN 2009 VE 2010 YILLARINA AİT HESAP VE İŞLEMLERİNİN GÖRÜŞMELERİ",
+    "ÖZELLEŞTİRİLEN VE KAMU PAYI YÜZDE 50'NİN ALTINA DÜŞEN ACIPAYAM SANAYİ VE TİCARET ANONİM ŞİRKETİ HK."
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/524",
+  "pdf_sha256": "1f916530414ecf28bc6b88af9f022acc18a0c5dab276b984b6fa39312cadfe76",
+  "pdf_pages": 50,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=15)",
+  "listing_sha256": "0dc889625a43960f41a70f9bc21885fb2bc2789f7a2feaf357be8aa9f141f856",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-05-08",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
