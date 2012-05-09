@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 24,
+  "legislative_year": 2,
+  "sitting": 104,
+  "sitting_date": "2012-05-09",
+  "listed_date": "09 Mayıs 2012 Çarşamba",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/24/2/104/d50b1802-fca5-4805-ba41-d079ad3b8822.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=9fd00b60-f829-42f6-8cf4-0185ceac6e4e",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=24&YasamaYili=2",
+  "source_sha256": "7dfc4f7ad5f5227f4da79faba0d4cf467f42b31c89bb9a63fef7147b10de25fe",
+  "source_bytes": 1050479,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
