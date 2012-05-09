@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "TARIM, ORMAN VE KÖYİŞLERİ KOMİSYONU",
+  "committee_id": 33,
+  "meeting_date": "2012-05-09",
+  "meeting_date_as_published": "09/05/2012",
+  "agenda": [
+    "MERA KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN TASARISI (1/604)"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/638",
+  "pdf_sha256": "5246ede29025bb1f103101a98aee37e76e837a9c4f93316513d41483304744a7",
+  "pdf_pages": 85,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=33)",
+  "listing_sha256": "a58bcb938e8fa61742668f14f9a6a8ce0111e7b7d8ffe52d7e8e122818cff7f2",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-05-09",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
