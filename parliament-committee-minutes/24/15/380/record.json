@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-committee-minutes",
+  "term": 24,
+  "committee": "KAMU İKTİSADİ TEŞEBBÜSLERİ KOMİSYONU",
+  "committee_id": 15,
+  "meeting_date": "2012-05-09",
+  "meeting_date_as_published": "09/05/2012",
+  "agenda": [
+    "ELEKTRİK ÜRETİM AŞ VE BAĞLI ORTAKLIKLARININ 2010 YILINA AİT HESAP VE İŞLEMLERİNİN GÖRÜŞMELERİ",
+    "(TEMSAN) TÜRKİYE ELEKTROMEKANİK SANAYİİ GENEL MÜDÜRLÜĞÜNÜN 2010 YILINA AİT HESAP VE İŞLEMLERİ"
+  ],
+  "official_pdf": "https://www.tbmm.gov.tr/Tutanaklar/TutanakGoster/380",
+  "pdf_sha256": "4b05fce852f6be7243058f6450e5f824519434c8dcc96e64b4c1223632fe25bc",
+  "pdf_pages": 99,
+  "listing": "https://tbmm.gov.tr/Tutanaklar/Komisyon-Tutanaklari-Sonuc (YasamaDonemi=24, Komisyon=15)",
+  "listing_sha256": "0dc889625a43960f41a70f9bc21885fb2bc2789f7a2feaf357be8aa9f141f856",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); not OCR",
+  "in_force": "2012-05-09",
+  "in_force_basis": "Meeting date (… TARİHLİ TOPLANTI) in the official TBMM committee minutes listing; record of proceedings",
+  "history_type": "as-published"
+}
