@@ -1,0 +1,25 @@
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Aktif Konservasyon: Laboratuvar ortamında ve konunun uzmanı kişilerce eseri oluşturan malzemelerin yapısı, doğal yaşlanması eserin yapım teknolojisi ya da kullanımından kaynaklanan bozulmaların doğrudan esere yapılan muameleler ile giderilmesini,
+b) Başkan: Türkiye Yazma Eserler Kurumu Başkanını,
+c) Başkanlık: Türkiye Yazma Eserler Kurumu Başkanlığını,
+ç) Belgeleme: El yazmalarının yapım tekniklerini, bozulmalarını ve hammaddelerini belirlemeyi; konservasyon uygulamaları sırasında kullanılan teknikleri, malzemeleri, bileşimleri ve benzeri bilgileri içeren, uygulama tarihlerinin de belirtildiği yazılı ve görsel olarak kaydedilen inceleme ve analizleri,
+d) Çeviri: Yazıldığı dilden başka bir dile aynen çevrilen eseri, tercümeyi,
+e) Elektronik yayın: Geleneksel yöntemlerle hazırlanmış veya basılmış kitap ve derginin her türlü elektronik ortamda sadece okunabilmesi amacıyla sunulmuş şeklini,
+f) Eleştirmeli metin: Birden fazla nüshanın karşılaştırılması sonucu oluşturulan metni, eleştirmeli basımı,
+g) Eski Harfli Nadir Basma Eser: 1/11/1928 tarihli ve 1353 sayılı Türk Harflerinin Kabul ve Tatbiki Hakkında Kanunun yürürlüğe girdiği 3/11/1928 tarihinden önce eski harfle basılmış eserleri,
+ğ) İstisna Sözleşmesi: Yapımın elde edilmesi için yüklenici ile Başkanlık arasında 5/12/1951 tarihli ve 5846 sayılı Fikir ve Sanat Eserleri Kanununun hak devri ve tasarruf işlemlerine ilişkin taahhütlerine dair hükümleri veya Borçlar Kanununun istisna akdi hükümlerine göre kurulan hukuki ilişkiyi,
+h) İşlenme eser: Diğer bir eserden istifade suretiyle vücuda getirilip de bu esere nispetle müstakil olmayan ve işleyenin hususiyetini taşıyan fikir ve sanat mahsullerini,
+ı) İtibarî sayfa: Basılı veya manyetik depolama ünitesi şeklinde ya da internet ortamında hizmete sunulan bir eserin 200 kelimeden meydana gelen kısmını,
+i) Kanun: 6093 sayılı Türkiye Yazma Eserler Başkanlığı Kuruluş ve Görevleri Hakkında Kanunu,
+j) Komisyon: Geçici olarak oluşturulan istisna sözleşmesi komisyonunu,
+k) Konservasyon: Objenin maddesel ve teknolojik özelliklerini, yapısını ve taşıdığı dekoratif öğeleri özgün niteliklerine bağlı kalarak korumayı; bozulmasına yol açan nedenleri ve etkileri açığa çıkarmayı; en uygun ve etkili koruma yöntemlerini ve malzemeleri saptayarak, bunları objeye uygulamayı; fiziksel ve estetik bütünlüğü aslına bağlı kalarak sağladıktan sonra stabil haldeki objeyi sergileme veya depolama için hazırlamayı,
+l) Latinizasyon: Değişik alfabeli metinlerin latin alfabesine çevrilmesini, çeviri yazıyı,
+m) Pasif Konservasyon: Aktif konservasyonun öncesinde ve sonrasında objenin taşınması, paketlenmesi, depolanması, bulunduğu ortamın nem, ısı ve ışık değerlerinin düzenlenmesi ile bunların sürekli kontrolünü,
+n) Telif Eser: Herhangi bir şekilde dil ile ifade olunan eserler ile doğrudan meydana getirilen fikir mahsullerini,
+o) Varak: Yazma ve nadir eserlerin ön yüzü ve arka yüzü ile birlikte iki sayfadan oluşan her bir yaprağını,
+ö) Yapım: İstisna sözleşmesi ile yapımcı tarafından gerçekleştirilmesi taahhüt olunan eser, yapılan iş veya belli yapımları,
+p) Yazma Eser: Elle yazılmış, tarihi, sanat veya içerik değeri olan kitap, mecmua, mektup, ferman, berat, levha, hat ve benzeri eserleri,
+r) Yazma ve Nadir Eser: Yazma eser ile eski harfli nadir basma eseri,
+s) Yüklenici: Yapımın elde edilmesi için kendileri ile bu Yönetmelik ve gerektiğinde özel şartname hükümlerine göre, istisna sözleşmesi yapılan yerli veya yabancı gerçek veya tüzel kişi ya da kişileri
+ifade eder.
