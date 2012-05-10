@@ -4,3 +4,5 @@ Fon Kurulu Başkan ve üyeleri göreve başlamadan önce, kendilerinin veya eş 
 Fon Kurulu Başkan ve üyeleri, yönetim ve denetimleri Fona devredilen kuruluşlarda ve bunların doğrudan ya da dolaylı ortaklıklarında, görevlerinden ayrılmalarını izleyen iki yıl içinde görev alamazlar. Bu fıkra hükmüne uymayanlara 2531 sayılı Kamu Görevlerinden Ayrılanların Yapamayacakları İşler Hakkında Kanunun 4 üncü maddesinde belirtilen cezalar verilir.
 Fon Kurulu Başkan ve üyeleri ile diğer personel, Fonla ilgili gizlilik taşıyan bilgileri ve ticari sırları, görevlerinden ayrılmış olsalar bile kanunen yetkili kılınan mercilerden başkasına açıklayamazlar, kendilerinin veya başkalarının menfaatine kullanamazlar.
 Fon Kurulu Başkan ve üyeleri 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanununa tâbidir.
+––––––––––––––––––––––
+(1) 26/4/2012 tarihli ve 6300 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasının birinci cümlesinde yer alan “altı” ibaresi “beş” şeklinde, ikinci cümlesinde yer alan “yeniden atanamazlar.” ibaresi “bir defalığına tekrar atanabilirler.” şeklinde değiştirilmiştir.
