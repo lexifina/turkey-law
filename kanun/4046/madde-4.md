@@ -1,0 +1,24 @@
+Özelleştirme İdaresi Başkanlığının Kuruluş ve Görevleri(1)
+Madde 4 – Başbakana bağlı kamu tüzel kişiliğine sahip, özel bütçeli Özelleştirme İdaresi Başkanlığı (İdare) kurulmuştur. (Değişik ikinci cümle: 1/8/2003-4971/2 md.) Başbakan bu Kanunla ilgili yetkilerini görevlendireceği bir bakan vasıtasıyla kullanabilir. İdare geçici bir teşkilat olup özelleştirme süreci sona erdiğinde elemanları ihtisaslarına göre ilgili kuruluşlara nakledilebilir.
+İdarenin görevleri aşağıda belirtilmiştir;
+a) Kurul kararlarını uygulamak,
+b) Kurul tarafından verilen görev ve yetkilerle ilgili konularda karar vermek ve gerekli işlemleri yürütmek,
+c) Kuruluşların özelleştirme kapsamına alınmasına veya özelleştirme kapsamına alınmış olan kuruşların eski statülerine iade edilmesi veya özelleştirme programındaki kuruluşlardan gerekli görülenlerin özelleştirmeye hazırlanmasına karar verilmesi konusunda Kurula teklifte bulunmak,
+d) Kuruluşların özelleştirilmesine ilişkin her türlü işlemin yerine getirilmesi ile bunların özelleştirilmelerine hazırlık amacıyla yönlendirilmesini, faaliyetlerinin takip ve koordinasyonunu yürütmek,
+e) Özelleştirme programına alınan kuruluşlardan anonim şirket statüsünde olmayanların anonim şirket haline dönüştürülüp dönüştürülmemelerine karar vermek,
+f) Özelleştirme programına alınan kuruluşlardan, anonim şirket statüsünde olan ve anonim şirket haline dönüştürülen kuruluşların sermayelerindeki kamu payı % 50'nin altına düşünceye, diğerlerinde ise özelleştirme uygulamaları sonucu devredildikleri tarihe kadar bunların miktarını sermaye miktarını tespit etmek,kuruluş,birleşme veya bölünmelerinde gerekli düzenlemeleri yapmak, mal varlıkları ile hak ve yükümlülüklerine ilişkin esasları tespit etmek,hesapları ve faaliyetleri ile ilgili her türlü düzenlemeyi yapmak, bu işlemleri kolaylaştırıcı tedbirleri almak,
+g) Özelleştirme uygulamalarının gerektirdiği özelleştirme ile ilgili her türlü işlemi yürütmek,
+h) Kanuni sınırlamalar saklı kalmak kaydıyla, kuruluşların mali, idari ve hukuki yapıları ile ilgili olarak düzenlemeler yapmak,
+ı) Özelleştirme programındaki kuruluşların; kaynak kullanımlarına, taşınmaz edinmelerine, kiralamalarına ve bu taşınmazlar üzerinde sair akitler yoluyla tasarruf etmelerine, 2942 sayılı Kanunun 30 uncu maddesi uyarınca işlem tesis edebilmelerine, yurt içi ve yurt dışı borçlanmalarına, verimliliğin artırılması ilkesi gözönünde bulundurularak yapılacak personel alımı ve azaltılmasına, çalışma şartlarına, personelin yurt dışı geçici görevlendirilmelerine ilişkin talepler hakkında karar vermek, (2)
+_________________
+(1) 3/7/2005 tarihli ve 5398 sayılı Kanunun 2 nci madesiyle, (ı) bendinde yer alan "sair akitler yoluyla tasarruf etmelerine," ibaresinden sonra gelmek üzere "2942 sayılı Kanunun 30 uncu maddesi uyarınca işlem tesis edebilmelerine," ibaresi eklenmiş, (n) bendinde yer alan "kapsamına" ibaresi "programına" olarak değiştirilmiş ve metne işlenmiştir.
+(2) 26/3/2003 tarihli ve 25060 sayılı Resmi Gazete’de yayımlanan, Cumhurbaşkanlığı’nın 2003-373 sayılı Tezkeresi ile Özelleştirme İdaresi Başkanlığı, Maliye Bakanlığı’na bağlanmıştır.
+7420
+i) Kuruluşların yönetim kurulu başkanlığı ve üyelikleri ile denetim ve tasfiye kurulu üyelikleri ve genel müdürlükleri ile ait oldukları kuruluşlardan ayrı olarak özelleştirme programına alınan ve anonim şirkete dönüştürülmelerine gerek görülmeyen müesseselerde, müessese müdürlükleri ve yönetim komitelerine, işletme ve işletme birimlerinde bunların müdürlüklerine yapılacak atamalar ve bu görevlerden alınma işlemlerine ilişkin olarak Başbakana teklifte bulunmak (bu görevlere atanacaklarda 4 yıllık yükseköğrenim görmüş olma şartı aranır),
+j) Kurulca ihracına karar verilen her türlü menkul kıymet ile diğer kıymetli evrakın düzenlenmesine yönelik olarak bunların adedi, değeri ve ilgili diğer hususları tespit etmek,
+k) Kuruluşların sermayelerine ayni sermaye konulması hallerinde ayni sermayenin değerlendirilmesini yapmak veya yaptırmak,
+l) Özelleştirme Fonunu idare etmek,
+m) Hizmetin gerektirdiği her çeşit araştırma, proje işleri, reklam, tanıtım, halkla ilişkiler işlemleri ve mali denetim ile hukuki, teknik, idari ve mali değerleme işlemlerini yapmak ve/veya bu işlerin danışman görevlendirilmesi suretiyle yaptırılmasını temin etmek,
+n) Özelleştirme programına alınan kuruluşlara, özelleştirme uygulamalarının gerektirdiği hallerde borç vermek, kamu bankalarının uyguladığı en yüksek ticari faiz oranını aşmamak kaydıyla Özelleştirme Fonundan sağlanacak finansmana uygulanacak faiz oranlarını ve şartlarını belirlemek, (1)
+o) Kanunlarla ve diğer mevzuatla verilen görevleri yapmak.
+İdare hizmetin ifası için yarar gördüğü hallerde usul ve esaslarını açıkca belirlemek kaydıyla bu maddenin (a), (b), (h), (ı) ve (m) bentlerinde yazılı konularda özelleştirme programındaki kuruluşlara yetki verebilir. (1)

@@ -1,0 +1,28 @@
+4046 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
+Kanun Yürürlüğe
+No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi
+________ __________________________________________________________ ___________
+4105 – 2/5/1995
+4232 – 8/4/1997
+4568 – 1/1/2000
+4733 – 9/1/2002
+4971 – 15/8/2003
+5148 37 7/5/2004
+5189 37 2/7/2004
+5234 Geçici Madde 18 21/9/2004
+5398 Kanunun Adı, 4,5,6,10,16,17,18,19,20,21,22,27,
+Ek Madde 3,4, Geçici Madde 19,20 ve 21,22,İşlenemeyen Hüküm 21/7/2005
+5436 5 24/12/2005
+Değiştiren Yürürlüğe
+Kanun/KHK 4046 sayılı Kanunun değişen maddeleri giriş tarihi
+5728 7 8/2/2008
+5763 Geçici Madde 23 26/5/2008
+5793 Geçici Madde 23 ve 24 6/8/2008
+6082 2 10/12/2010
+6217 İşlenemeyen Hüküm 14/4/2011
+KHK/666 6 31/12/2011 tarihinden geçerli
+olmak üzere 2/11/2011
+KHK/666 6 14/1/2012 tarihinden geçerli
+olmak üzere 2/11/2011
+6300 Ek Madde 5 10/5/2012
