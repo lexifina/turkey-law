@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6297",
+  "year": 2012,
+  "title": "Eşyanın Sınırlardaki Kontrollerinin Uyumlaştırılmasına İlişkin Uluslararası Sözleşmenin Uluslararası Karayolu Taşımacılığına İlişkin Sınır Geçiş İşlemlerinin Kolaylaştırılması Başlıklı 8 Numaralı Ekinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-05-10",
+  "gazette_issue": "28288",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120510-22.htm",
+  "source_sha256": "7ba4fd28b12dfb49ae29f3bdf85f24e6131f4d976110dd17f54f576376a43dcc",
+  "text_sha256": "98807e1ff6bdf1162e670400875cdd4e89093fe0a24f7d1a89bd6b18dc2344e9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/05/10/28288-22",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120510-22.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
