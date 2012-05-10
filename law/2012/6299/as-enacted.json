@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6299",
+  "year": 2012,
+  "title": "Karayolu Trafiği Konvansiyonu ile Bu Konvansiyonu Tamamlayıcı Avrupa Anlaşmasına Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-05-10",
+  "gazette_issue": "28288",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120510-24.htm",
+  "source_sha256": "544ee7a498887f74aa0dd808d6826d22a6483ffc9cdff79e178119f3324c6eff",
+  "text_sha256": "bb1669652eda4af15d6f87ad8ddcc14a2706c1ac9f7ea1c57184e88fdc5ade28",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/05/10/28288-24",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120510-24.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
