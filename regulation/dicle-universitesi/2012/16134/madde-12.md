@@ -1,0 +1,3 @@
+Merkez danışma kurulu
+MADDE 12 – (1) Merkez Müdürü ve merkez müdür yardımcıları, Merkez Danışma Kurulunun doğal üyeleridir. Merkez Danışma Kurulu; doğal üyelere ek olarak, bilimsel ve teknolojik araştırma ve uygulamalarla doğrudan ilgisi olan ve sahip olduğu birikim ve deneyimlerinden yararlanılabilecek Üniversite içindeki ve dışındaki kişilerden oluşmak üzere, Merkezden yararlanan akademik kuruluşların eşit temsil edilmesi dikkate alınarak, Rektör tarafından üç yıl için onaylanan en az on beş en çok otuz kişiden oluşur.
+(2) Merkez Danışma Kurulu, Rektör ya da görevlendireceği bir Rektör yardımcısının başkanlığında yılda en az bir kez toplanır.
