@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-05-10",
+  "issue": "28288",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "2012/3109 Türkiye Cumhuriyeti Gençlik ve Spor Bakanlığı ile Kuzey Kıbrıs Türk Cumhuriyeti Milli Eğitim, Gençlik ve Spor Bakanlığı Arasında Gençlik ve Spor İşbirliği Protokolü’nün Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120510-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120510.htm",
+  "index_sha256": "b7a1305a50795fee4fb591536f5709cdeeb6940c86eadd8abdf1aab338fc8296",
+  "index_header": "10 Mayıs 2012 ... 28288 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
