@@ -1,0 +1,2 @@
+Madde 1188 – Gemide çıkan yangını söndürmek üzere gemide ve yükte veya bunlardan birinde su ile yahut lombarları açarak batırma da dahil olmak üzere başka suretlerle meydana getirilen zararlar; (Yükün yanmamış kalan parçalarının istif edilmeksizin veya dökme halde gemiye yüklenmiş bulunan malların ve gemi kısımlarının yanma yüzünden uğradığı zararlar hariç) müşterek avaryadandır.
+6. Yakıt yerine yakılan yük, gemi eşyası ve kumanyası:

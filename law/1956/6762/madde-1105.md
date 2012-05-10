@@ -1,0 +1,1 @@
+Madde 1105 – Emre yazılı bir konişmento birden fazla nüsha olarak tanzim edilmişse nüshalardan birinin hamili, konişmentonun teslimine 1104 üncü madde gereğince terettübeden neticeleri, kendisi henüz teslim talebinde bulunmadan önce bir diğer nüshaya istineden 1102 nci madde uyarınca kaptandan malları teslim almış olan kimse aleyhine ileri süremez.

@@ -1,0 +1,2 @@
+Madde 391 – Esas sermayeye karşılık olan hisse senetlerinin bedelleri tamamen ödenmedikçe, umumi heyet yeni hisse senetleri çıkarmak suretiyle sermayenin artırılmasına karar veremez. Muhtelif imtiyazları haiz mütaaddit nevi hisse senedi sahipleri mevcut olduğu takdirde, umumi heyetin kararından ayrı olarak adı geçen nevilerden her birine ait hisse senedi sahiplerinin de hususi bir toplantı yaparak karar vermeleri şarttır. 389 uncu maddenin iki ve üçüncü cümlesi hükümleri bu toplantılar hakkında da tatbik olunur.
+2. Muameleler:

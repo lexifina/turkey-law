@@ -1,0 +1,3 @@
+Madde 419 – Bedeli tamamen ödenmemiş nama yazılı bir hisse senedini iktisap eden kimse, pay defterine kaydedilmekle şirkete karşı geri kalan bedeli ödemek ve varsa tali borçları yerine getirmekle mükellef olur.
+Şirketin kurulması veya esas sermayenin artırılması esnasında iştirak taahhüdünde bulunan kimse hisse senedini başkasına devrettiği takdirde bedelin henüz ödenmemiş olan kısmı kendisinden istenemez; meğer ki,şirketin kuruluşu veya esas sermayenin artırılması tarihlerinden itibaren iki yıl içinde şirket iflas etmiş ve hisse senedini iktisabeden kimse paydan doğan haklardan mahrum edilmiş olsun.
+Hisse senedini devreden kimse ikinci fıkra hükmüne tabi değilse, iktisap edenin pay defterine kaydedilmesiyle borçlarından kurtulmuş olur.

@@ -1,0 +1,7 @@
+Madde 360 – Pay sahipleri; organların tayini, hesapların tasdik ve kazancın dağıtılması gibi şirket işlerine mütaallik haklarını umumi heyet toplantılarında kullanırlar.
+Rey hakkını haiz olan pay sahibi, umumi heyet toplantılarında bu hakkını bizzat kullanabileceği gibi pay sahibi olan veya esas mukavelede hilafına hüküm bulunmadıkça, pay sahibi olmıyan üçüncü bir şahıs vasıtasiyle de kullanabilir.
+Nama yazılı hisse senetleri için temsil salahiyetinin yazı ile verilmesi şarttır. Hamile yazılı bir hisse senedinin zilyedi bulunduğunu ispat eden kimse şirkete karşı rey hakkını kullanmaya salahiyetlidir. Bunu ispat maksadiyle hamile yazılı hisse senetlerinin sahipleri rey haklarını umumi heyette kullanabilmek için hisse senetlerini veya bunlara mutasarrıf olduklarını gösteren vesikaları toplantı gününden bir hafta önce şirkete tevdie mecburdurlar. Hamile yazılı hisse senetleri rehin veya tevdi edilmiş yahut ariyet olarak başka bir kimseye bırakılmış olduğu takdirde malik ve zilyed arasındaki münasebetlerde rey hakkının kullanılması bakımından aşağıdaki hükümler caridir:
+1. Rey hakkı malike aittir;
+2. Temsil salahiyeti ayrı bir senete yazılmış olmak şartiyle, temsile salahiyetli zilyed malik yerine ve onun menfaatine olarak rey hakkını kullanmaya salahiyetli sayılır.
+Üzerinde intifa hakkı bulunan bir hisse senedinden doğan rey hakkı, intifa hakkı sahibi tarafından kullanılır. Şu kadar ki; intifa hakkı sahibi, menfaatlerini hakkaniyete uygun bir şekilde göz önünde tutarak hareket etmemiş olmasından dolayı malike karşı mesuldür.
+2. Suiistimal:

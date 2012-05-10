@@ -1,0 +1,5 @@
+Madde 1195 – Müşterek avarya masraflarını kapatmak üzere yolculuk sırasında para bulmak lazım gelip de bu hal zarar ve masraflara sebep olmuş veya ilgililer arasında yapılacak paylaşma ayrıca masrafı icabettirmişse, mezkür zarar ve masraflar da müşterek avaryaya kabul olunur. Hususiyle yolculuk sırasında satılan malların satışından doğan ziyan, lazım olan para deniz ödüncü yolu ile alınmışsa deniz ödüncü primi, deniz ödüncünden başka bir suretle alınmışsa sarf olunan paranın sigorta primi, zararların tesbit ve tayini ve müşterek avarya hesaplarının yaptırılması masrafları müşterek avarya olarak kabul olunur.
+Para, borçlu masaya dahil ilgililerden herhangi biri tarafından temin olunmamışsa müşterek avaryaya giren sarfiyat için yüzde iki nispetinde bir komüsyon kabul olunur.
+Ancak, komüsyon hesap edilirken kaptan, zabitler ve tayfaların ücretleri ve geçim masrafları ve yolculuk sırasında yeniden tedarik edilmemiş olan yakıt ve kumanya bedelleri nazara alınmaz.
+II - İstisnaları:
+1. Hususi avarya halleri:

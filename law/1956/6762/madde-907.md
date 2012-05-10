@@ -1,0 +1,2 @@
+Madde 907 – Sigortacı, 903 ncü maddenin 2-4 üncü fıkralariyle 906 ncı madde gereğince alacağı ödediği nispette ipotekli alacaklının haklarına kanunen halef olur. Şu kadar ki; halefiyet alacaklının zararına olarak ileri sürülemiyeceği gibi sigortacının kendilerine karşı mesuliyeti devam eden ve derecesi aynı olan veya sonra gelen ipotekli alacaklıların zararına olarak da dermeyan edilemez.
+6. Sigortacının primleri kabul etmek mecburiyeti:

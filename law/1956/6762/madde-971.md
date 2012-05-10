@@ -1,0 +1,3 @@
+IX - Yapı ortaklığı:
+Madde 971 – İki veya daha fazla kimsenin beraberce deniz ticaretinde kullanmak üzere müştereken bir gemi inşa ettirmek için birleşmeleri halinde 952, 953, 962, 967 nci maddelerle 969 uncu maddenin birinci fıkrası hükümleri ve geminin inşası tamamlanıp da tersane sahibi tarafından teslimi anından itibaren de fazla olarak 965, 966, 968 inci maddelerle 969 uncu maddenin 2 nci fıkrası hükümleri tatbik olunur. 962 nci madde hükmü inşaat masraflarına da şamildir.
+Geminin inşaatı tamamlanmadan da bir gemi müdürü tayin edilebilir. Bu takdirde gemi müdürü, tayin edilir edilmez, ilerdeki donatma iştiraki işleri bakımından gemi müdürünün haiz olduğu hak ve vazifelere sahip olur.

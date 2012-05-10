@@ -1,0 +1,3 @@
+Madde 226 – Tasfiye memurları, önceden seçilmişlerse şirketin infisahını ve sonradan ortaklarca seçilmiş veya mahkemece tayin olunmuşlarsa seçim ve tayinlerini mütaakıp şirket işlerini gören kimseleri davet ederek onlarla birlikte, gelmedikleri takdirde yalnız başlarına şirketin mali vaziyetini gösteren bir envanter ile bir bilanço tanzim ederler. Tasfiye memurları lüzum görürlerse şirket mallarına değer biçmek için eksperlere müracaat edebilirler. Tanzim olunan envanter ile bilanço, tasfiye memurlarının huzuriyle şirket işlerini idare edenler tarafından imzalanır.
+Envanter ve bilançonun imzasından sonra, tasfiye memurları infisah halinde bulunan şirketin envanterde yazılı bütün malları ile evrak ve defterlerine el koyarlar.
+2. Defterler:

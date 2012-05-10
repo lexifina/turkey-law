@@ -1,0 +1,1 @@
+Madde 241 – Tasfiye memurları, talep üzerine şirkete ve tasfiyeye ait olan bütün defterleri ve evrakı tasfiye muamelesinin yapıldığı yerde ortaklara göstermeye mecburdurlar. Ortakların bu defter ve evraktan suret almalarına tasfiye memurları mani olamazlar.

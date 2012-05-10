@@ -1,0 +1,3 @@
+II - Hazırlık devresi faizi:
+Madde 471 – İşletmenin tam bir şekilde faaliyete başlamasına kadar geçecek olan hazırlık devresi için pay sahiplerine, tesisat hesabına geçirilmek üzere muayyen bir faiz ödenmesi esas mukavelede şart kılınabilir. Esas mukavele bu devre ile mahdut olmak üzere faiz ödemelerinin en geç ne zamana kadar devam edeceğini de tayin eder.
+İşletme yeni hisse senetlerinin çıkarılması suretiyle genişletilecek olursa esas sermayenin artırılmasına dair olan kararda yeni pay sahiplerine, tesisat hesabına geçirilmek üzere muayyen bir müddetle ve en geç yeni tesisatın işletmeye başlandığı güne kadar faiz ödenmesi kabul olunabilir.

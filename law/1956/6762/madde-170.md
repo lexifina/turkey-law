@@ -1,0 +1,3 @@
+II - Alacağı isteme hakkı:
+Madde 170 – Her ortak, hesap yılı sonunda tahakkuk eden kardan kendisine düşen payı, şirkete ödünç olarak verdiği paranın ve eğer kararlaştırılmış ise koyduğu sermayenin faizlerini, şirket mukavelesi gereğince hak ettiği ücreti ve şayet kanun ve mukavele hükümlerince yıl sonu bilançosu yapılmamış ise bunun yapılmasını ve yapılmış bilançoya göre kar payı tesbit edilmiş değilse bunun tesbitini şirketten istemek ve alacaklarını almak hakkını haizdir.
+Bu madde ile ortağa tanınmış olan salahiyetleri kaldırma veya daraltma neticesini doğuran bütün mukavele şartları hükümsüzdür.

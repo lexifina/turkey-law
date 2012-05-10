@@ -1,0 +1,2 @@
+Madde 327 – İdare meclisi her iş yılı sonunda 325 inci maddede yazılı bilançodan başka şirketin ticari, mali ve iktisadi durumunu ve yapılan muamelelerin hulasasını gösterir bir rapor tanzimine ve dağıtılacak kazanç miktarı ile yedek akçeyi teşkil edecek miktarın tayinine dair, teklif varakasını hazırlamıya mecburdur. Rapor ve teklif varakası, umumi heyet toplantısından en az 15 gün önce pay sahiplerinin tetkikıne arz olunur.
+4. Memur ve müstahdemlerin tayini:

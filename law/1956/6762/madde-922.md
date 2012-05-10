@@ -1,0 +1,3 @@
+II - Defiler:
+Madde 922 – Malikin, gemi ipoteğine mütaallik olup her hangi bir hukuki münasebete müsteniden eski alacaklıya karşı haiz olduğu bir defi, yeni alacaklıya karşı da ileri sürülebilir. 885 inci maddenin birinci ve ikinci fıkrası, 886 ve 887 inci maddelerle 889 uncu maddenin son fıkrası hükümleri bu defi hakkında da caridir.
+Alacak, faiz veya sair tali edalara taallük eder ve bunlarda en geç malikin devri öğrendiği günün dahil bulunduğu ilk üç aylık devre ile bunu takip eden ikinci üç aylık devre içinde muaccel hale gelirse alacaklı, birinci fıkrada yazılı defilere karşı 885 inci maddenin bir ve ikinci fıkralarına istinadedemez. Üç aylık devreler takvim yılı başından itibaren hesap olunur.

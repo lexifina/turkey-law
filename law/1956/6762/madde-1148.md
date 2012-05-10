@@ -1,0 +1,4 @@
+Madde 1148 – Aksi kararlaştırılmış olmadıkça sigorta ile karşılanması lazım gelen rizikolar, alelade rizikolardan ibaret olup harb rizikosu hariçtir. Alıcının talebi üzerine harb rizikosuna karşı da sigorta yapılırsa mezkür sigorta ücreti alıcıya aittir.
+Sigortanın şümulüne, muafiyetlere ve sigorta bedelinin ödeme tarzına ait şartların tayininde; yükleme yerindeki ticari taammüllerle malların cins ve mahiyeti ve geminin önceden tayin olunan rotası göz önünde tutulur. Şu kadar ki sigortanın malların yükletmiş veya yükletilmek üzere taşıyıcıya teslim edilmiş olduğu yerden, mütat aktarmalar dahil olmak üzere, varma limanında vinç üzerinde teslimine kadar olan rizikoları karşılaması lazımdır.
+Satıcı malları tanınmış ve muteber bir sigortacıya sigorta ettirmiş ise sigortacının sigorta bedelini ödemekten aciz kalmasından dolayı alıcıya karşı mesul değildir.
+c) Muvakkat sigorta ilmühaberi:

@@ -1,0 +1,3 @@
+II - Alacaklının rizikosunun keyfi olarak artırılmasından:
+Madde 1173 – Alacaklının menfaati icabetmediği halde kaptan deniz ödüncü ile ilgili yolculuğu keyfi olarak değiştirir veya bu yolculuğun rotasından keyfi olarak ayrılır yahut da yolculuk bittikten sonra deniz ödüncüne karşı rehnedilmiş şeyleri, alacaklının menfaati icabetmediği halde yeniden bir deniz rizikosuna arzederse, deniz ödüncü borcundan dolayı alacaklıya karşı, bunun rehnedilmiş olan şeyler üzerinde alacağını tahsil edemediği nispette şahsan mesul olur; meğer ki, alacaklının alacağını tamamen alamaması keyfiyeti yolculuğun değiştirilmesinden veya rotadan ayrılmadan yahut da yeni deniz rizikosundan ileri gelmemiş olsun.
+III - Alacak ödenmeden veya temin edilmeden yükün teslim edilmesinden:

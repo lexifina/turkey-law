@@ -1,0 +1,2 @@
+Madde 368 – Umumi heyetin toplantıya daveti, esas mukavelede gösterilen şekil ve surette ve her halde 37 nci maddede anılan gazete ile ilan ve toplantı günleri dahi olmamak üzere, toplantı vaktinden en az iki hafta önce yapılmak lazımdır. Senetleri nama yazılı olan pay sahipleriyle önceden şirkete bir hisse senedi tevdi ederek ikametgahını bildiren pay sahiplerine, taahhütlü mektup gönderilmesi suretiyle de toplantı günü bildirilir.
+b) Gündem:

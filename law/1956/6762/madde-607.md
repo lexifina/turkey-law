@@ -1,0 +1,3 @@
+Madde 607 – Kabul beyanı poliçe üzerine yazılır ve "Kabul edilmiştir" tabiriyle veya buna muadil başka bir ibare ile ifade ve muhatap tarafından imza edilir.Muhatabın poliçenin yüz tarafına yalnız imzasını koyması, kabul hükmündedir.
+Poliçenin görüldükten muayyen bir müddet sonra ödenmesi şart edilmiş olduğu veya hususi bir şart gereğince muayyen bir müddet içinde kabule arz edilmesi lazım geldiği takdirde, hamil ibraz günü tarihinin atılmasını istemedikçe kabul hangi gün vukubulmuşsa o günün tarihi atılır. Tarih atılmamış olduğu takdirde hamil cirantalarla keşideciye karşı müracaat haklarını muhafaza edebilmek için bu eksikliği vaktinde tanzim edilecek bir protesto ile tesbit ettirmeye mecburdur.
+2. Kabulün tahdidi:

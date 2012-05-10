@@ -1,0 +1,2 @@
+Madde 1447 – Sigorta ettiren, sigorta ettirilmiş olan konudan dolayı sigortalıya karşı haiz olduğu alacaklar ödenmedikçe, poliçeyi sigortalıya veya onun alacaklılarına yahut iflas masasına teslime mecbur değildir. Bu alacakları için sigorta ettiren zarar halinde sigorta tazminatı üzerinde, sigorta paraları ödendikten sonra da onlar üzerinde, sigortalı ve onun alacaklarına karşı rüçhan hakkını haizdir.
+3. Sigortacının sigorta ettirene karşı mesuliyeti:

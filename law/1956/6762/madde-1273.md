@@ -1,0 +1,2 @@
+Madde 1273 – Menkul ve gayrimenkul mallarla gemiler üzerine haciz koyduran veya bunları rehin alan yahut bunlar üzerinde hapis hakkı veya buna benzer imtiyazlı bir hakkı haiz olan alacaklılar mezkür şeyleri sigorta ettirmişler ise, hasar vukuu halinde ödenmesi gereken tazminat ancak mezkür alacaklılara nazaran alacaklarının taallük eylediği sigortalı şeyler yerine geçmiş sayılırlar.
+b) Teminatın kafi olmaması halinde:

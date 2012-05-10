@@ -1,0 +1,4 @@
+Madde 1394 – Sigortacının müşterek avarya garame payları ile müşterek avarya esaslarına tabi tutulan garame paylarından doğan borçları, Türkiye'de ve yabancı memlekette dispeçin yapılması gerekli olan yerde ve o memleketin kanunlarına uygun olarak yapılmış olan dispece göre tavin olunur. Hususiyle müşterek avaryadan olan bir zarara, uğrıyan sigortalı, dispeçte bu zarar için takdir edilmiş olan paradan fazlasını sigortacıdan istemek hakkını haiz olmıyacağı gibi sigortacı da, sigorta değeri hiç gözetilmeksizin, dispeçte takdir edilen pıranın tamamını ödemekle mükelleftir.
+Dispeçin yapıldığı yerin hukukuna göre zarar müşterek avaryadan sayılmamakta ise sigortalı, zararın diğer bir hukuka göre ve hususiyle sigortanın yapıldığı yerin hukukuna göre müşterek avaryadan olduğu sebebine dayanarak sigortacıdan zararın tazminini istiyemez.
+3016
+2. İstisna:

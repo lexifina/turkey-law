@@ -1,0 +1,2 @@
+Madde 453 – Bir anonim şirket aktif ve pasifleriyle birlikte sermayesi paylara bölünmüş bir komandit şirket tarafından devralınmak suretiyle infisah ederse, devralan komandit şirketin komandite azaları, infisah eden anonim şirket borçlarından şahsan ve müteselsilen mesul olurlar.
+Diğer hususlarda bir anonim şirketin diğer bir anonim şirket tarafından devralınması hakkındaki hükümler tatbik olunur.

@@ -1,0 +1,2 @@
+Madde 296 – Bilirkişi raporunun okunup incelenmesi için yukarıki madde gereğince toplanan kuruluş umumi heyetinde 290 ıncı maddede yazılı nisap hasıl olmadığı takdirde 297 nci maddede yazılı olduğu veçhile bir zabıt tanzim olunarak toplantı bir ay sonraya bırakılır ve keyfiyet kurucular tarafından toplantıda bulunmıyan her pay sahibine taahhütlü mektuplarla bildirilir ve gazetelerle de ilan olunur.
+d) Devlet komiserleri ve kararların muteberlik şartı:

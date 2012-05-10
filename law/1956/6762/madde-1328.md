@@ -1,0 +1,3 @@
+D) İntihar:
+Madde 1328 – Sigortalı, intihar veya intihara teşebbüs neticesinde öldüğü takdirde sigorta arasız olarak en az üç yıl devam etmiş bulunuyorsa sigortacı poliçede yazılı sigorta bedelini tamamen ödemekle mükelleftir; bu müddetin geçmesinden önce sigortalının intiharı anında akli melekeleri ne olursa olsun sigortacı sigortanın o andaki riyazi ihtiyatını öder.
+Sigortadan faydalanan kimse hayatı üzerine sigorta yapılmış olanı öldürmüş veya onun öldürülmesinde her hangi bir şekilde suç ortaklığı etmiş bulunduğu takdirde sigorta bedelinden mahrum kalır ve bu bedel ölenin mirasçılarına ait olur.

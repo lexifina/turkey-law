@@ -1,0 +1,7 @@
+Madde 42 – Her tacir,ticari işletmenin açıldığı günden itibaren on beş gün içinde ticari işletmesini ve seçtiği ticaret unvanını, işletme merkezinin bulunduğu yer ticaret siciline tescil ve ilan ettirmeye mecburdur.
+Her tacir kullanacağı ticaret unvanını ve bunun altına atacağı imzayı notere tasdik ettirdikten sonra sicil memuruna tevdi etmiye mecburdur. Tacir hükmi şahıs ise unvanla birlikte onun namına imzaya salahiyetli kimselerin imzaları da notere tasdik ettirilerek sicil memuruna verilir.
+Merkezi Türkiye'de bulunan ticari işletmelerin şubeleri de bulundukları yerin ticaret siciline tescil ve ilan olunur.Ticaret unvanına ve imza örneklerine mütaallik yukarıki fıkraların hükümleri bunlara da tatbik olunur.Kanunda aksine hüküm olmadıkça merkezin bağlı olduğu sicile geçirilmiş olan kayıtlar şubenin bağlı bulunduğu sicile de tescil olunur. Şu kadar ki,bu hususta şube sicil memurunun ayrı bir inceleme mecburiyeti yoktur.
+Merkezleri Türkiye dışında bulunan ticari işletmelerin Türkiye'deki şubeleri,kendi memleket kanunlarının ticaret unvanı hakkındaki hükümleri mahfuz kalmak şartiyle,yerli ticari işletmeler gibi tescil olunur.Bu gibi şubeler için ikametgahı Türkiye'de bulunan tam salahiyetli bir ticari mümessil tayini mecburidir. Birden fazla şubesi varsa,ilk şubenin tescilinden sonra açılacak şubeler yerli ticari işletmelerin şubeleri gibi tescil olunur.
+(Son fıkra : Mülga : 12/12/1959 - 7397/64 md.)
+II - Ticaret unvanının şekli:
+1. Hakiki şahıslar:

@@ -1,0 +1,2 @@
+C) Kaybedilen çek:
+Madde 704 – Çek, her hangi bir suretle hamilinin elinden çıkmış bulunursa ister hamile yazılı bir çek bahis mevzuu olsun, ister ciro suretiyle nakledilebilen bir çek bahis mevzuu olup da hamil hakkını 702 nci maddeye göre ispat etsin - çek eline geçmiş bulunan yeni hamil ancak çeki kötü niyetle iktisabetmiş olduğu veya iktisapta ağır bir kusuru bulunduğu takdirde o çeki geri vermekle mükelleftir.

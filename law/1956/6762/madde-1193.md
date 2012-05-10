@@ -1,0 +1,2 @@
+Madde 1193 – Geminin düşman veya deniz haydutlarına karşı müdafaası halinde müdafaa sırasında gemiye veya yüke yapılan hasar, bu sırada sarf olunan cephane, gemi adamlarından biri müdafaa sırasında yaralandığı veya öldüğü takdirde tedavi ve cenaze masrafları, 1013 ve 1014 üncü maddelerle diğer mevzuat gereğince verilmesi lazım gelen tazminat ve mükafat, müşterek avarya olarak kabul olunur.
+11. Geminin kurtarılması:

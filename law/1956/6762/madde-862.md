@@ -1,0 +1,2 @@
+Madde 862 – Geminin inşa olunduğu tersanenin sahibi ve yapının maliki, tescil olunan hususlarda vukua gelecek değişiklikleri ve geminin inşasının tamamlandığını, tescil edilmek üzere, bir kayıt dilekçesiyle sicil memurluğuna gecikmeksizin bildirmeye mecburdurlar. Bildirilen hususların tevsikı lazımdır. 850 nci madde hükmü burada da caridir.
+Geminin inşaasının tamamlandığı bildirildikten veya 846 ncı maddenin 3 üncü fıkrasındaki vesika verildikten sonra artık inşa halindeki gemilere mahsus sicile bir gemi ipoteği tescil olunamaz.

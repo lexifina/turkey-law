@@ -1,0 +1,2 @@
+Madde 161 – İdare işleri mukavele ile bir ortağa verilmiş ise, onun idare, hak ve vazifesi diğer ortaklar tarafından tahdit olunamıyacağı gibi kendisi azil dahi olunamaz. Ancak, muhik sebepler mevcutsa, ortaklardan birinin talebi üzerine mahkeme kararı ile idare hak ve vazifesi tahdit veya nez'olunabilir. Vazifenin yerine getirilmesinde basiretsizlik, ağır ihmal veya idarede iktidarsızlık gibi haller, muhik sebep sayılır.
+b) Ortaklar kararı ile tayin halinde:

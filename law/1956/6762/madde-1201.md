@@ -1,0 +1,2 @@
+Madde 1201 – Fedakarlık neticesinde hasara uğrıyan mallar satıldığı ve zararın tutarı hakkında taraflarca başka esaslar kabul edilmiş olmadığı takdirde hiç hasara uğramamış olduğu kabul edilmek suretiyle malların en son boşaltma günündeki veya yolculuk asıl varma limanından başka bir limanda sona ermişse yolculuğun sona erdiği gündeki safi kıymeti ile avaryalı malların safi satış tutarı arasındaki fark müşterek avaryaya ithal edilecek zarar miktarını gösterir.
+3. Navlun hakkında:

@@ -1,0 +1,4 @@
+VII - Mesuliyet:
+Madde 224 – Kanun, şirket mukavelesi veya iş görme şartlarını tesbit eden diğer hükümlere aykırı hareket ederek üçüncü şahısları veya ortakları zararlandıran tasfiye memurları kusursuz olduklarını ispat etmedikçe müteselsil olarak mesul tutulurlar.
+Tasfiye memurları, tayin ve istihdam ettikleri kimselerin kanun, şirket mukavelesi veya iş görme şartlarını tesbit eden diğer hükümlere aykırı hareketlerinden dolayı da Borçlar Kanununun 100 üncü maddesi hükmünce gerek üçüncü şahıslara gerekse ortaklara karşı müteselsil olarak mesuldürler.
+Bu davalar, davacının zararı ve failini öğrendiği tarihten itibaren iki yılda ve her halde zararı doğuran fiilden itibaren beş yılda müruruzamana uğrar. Şu kadar ki, zararı doğuran fiil bir suç teşkil ettiği ve Ceza Kanununa göre müddeti daha uzun bir müruruzamana tabi olduğu takdirde tazminat davasına da o müruruzaman tatbik olunur.

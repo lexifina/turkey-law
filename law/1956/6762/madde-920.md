@@ -1,0 +1,3 @@
+D) Alacaklıya halef olmak:
+Madde 920 – Alacaklı, geminin paraya çevrilmesi yolu ile takibe başladığı takdirde, cebri icra neticesinde gemi veya gemi ipoteğinin şümulüne giren eşya üzerindeki bir hakkını kaybetmek tehlikesine maruz bulunan herkes, tevdi veya takas suretiyle dahi alacaklının alacağını ödemek hakkını haizdir. Geminin veya 900 üncü maddede yazılı eşyanın zilyedi, cebri icra neticesinde zilyedliğini kaybetmek tehlikesine maruz kaldığı takdirde, aynı hakkı haiz olur. Üçüncü şahıs borcu ödediği nispette alacaklının yerine kaim olur. Halefiyet, alacaklının zararına olarak ileri sürülemez. Borçlunun üçüncü şahıs ile olan bir hukuki münasebetinden doğan defi hakları mahfuzdur.
+916 ncı madde hükmü burada da caridir.

@@ -1,0 +1,3 @@
+Madde 659 – Suretin, senet aslının kimin elinde bulunduğunu göstermesi lazımdır. Aslı elinde tutan kimse, bunu,suretin salahiyetli hamiline teslim ile mükelleftir.
+Teslimden imtina halinde hamil; ancak vakı talebe rağmen senet aslının kendisine teslim edilmediğini bir protesto ile tesbit ettirdiği takdirde, suretin cirantalarına ve suret üzerine aval veren kimselere karşı müracaat haklarını kullanabilir.
+Senedin aslı, suretin tanziminden önce en son olarak aslına yazılmış olan cirodan sonra "Buradan itibaren ancak suret üzerine yazılacak cirolar muteberdir." kaydını veya buna benzer bir kaydı ihtiva ederse bundan sonra senedin aslına yazılacak cirolar hükümsüzdür.

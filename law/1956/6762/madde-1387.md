@@ -1,0 +1,3 @@
+Madde 1387 – Riziko müddeti işlemiye başladıktan sonra sigorta edilmiş yolculuktan arzu ile veya mecburen vazgeçilirse, rizikonun bitmesini tayin bakımından yolculuğun bittiği liman varma limanı yerine geçer.
+Geminin yolculuğundan vazgeçildikten sonra mallar taşınmak üzere kararlaştırılmış olan gemiden başka bir suretle varma limanına taşınırsa, taşıma kısmen veya tamamen karadan yapılsa dahi başlamış olan riziko bu mallar için devam eder. Bu hallerde vaktinden önceki boşaltmanın masrafları geçici depo masrafları ve karadan olsa dahi taşımanın fazla masrafları sigortacıya düşer.
+3. Mahfuz kalan hükümler:

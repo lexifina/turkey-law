@@ -1,0 +1,2 @@
+Madde 1189 – Tehlike karşısında müşterek selamet uğruna zaruri olarak yakıt gibi yakılan yük, gemi eşyası ve kumanyası veya bunlardan biri; ancak ve ancak gemi tam ve bol yakıt ile donatılmış olduğu takdirde müşterek avarya kabul olunur. Şu kadar ki; bu suretle yakılan şeylerin muadili olan yakıt miktarının muhammen kıymeti, son hareket limanı ve gününün rayici üzerinden hesaplanarak donatana zimmet ve müşterek avaryaya matlup kaydolunur.
+7. Barınma limanındaki masraflar:

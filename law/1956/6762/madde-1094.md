@@ -1,0 +1,2 @@
+IV - Masraflar:
+Madde 1094 – Navlun mukavelesi, 1082 - 1088 inci maddeler gereğince kendiliğinden veya cayma neticesinde hükümden düşerse gemiden çıkarma masraflarını taşıyan; boşaltmanın diğer masraflarını taşıtan çeker. Bununla beraber umulmayan hal yalnız yüke taallük ederse boşaltmanın bütün masrafları taşıtana düşer. 1090 ıncı maddedeki halde yükün yalnız bir kısmı boşaltılırsa hüküm aynıdır. Böyle bir halde boşaltma için bir limana uğramak icabederse taşıtan liman masraflarını da çeker.

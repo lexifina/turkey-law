@@ -1,0 +1,4 @@
+III - Menfaat değerinin altında olan sigortalar:
+Madde 1288 – Sigorta bedeli, sigorta değerinden aşağı olduğu takdirde ve sigorta edilmiş menfaatin bir kısmının halele uğraması halinde sigortacı aksine mukavele bulunmadıkça sigorta bedelinin sigorta değerine olan nispeti neden ibaretse zararın o kadarından mesul olur.
+2995
+Sigortacının sigorta bedelini aşmıyan zararın tamamından mesul tutulacağı şeklinde sigorta mukavelesinin değiştirilmesini sigorta ettirenin rizikonun gerçekleşmesinden önce istemesi halinde, bu isteğin noter protestosu ile sigortacıya bildirildiği günden sonra gelen günden itibaren akit hükümleri, kendiliğinden, sigortacının sigorta bedelini aşmıyan zararın tamamından mesul bulunduğu şeklinde değiştirilmiş olur. Sigortalı, tarifede derpiş edilen prim farkını esas primin ödenmesine ait hükümler uyarınca öder.

@@ -1,0 +1,2 @@
+II - Faydalanan kimse:
+Madde 1310 – Yukarıki maddede yazılı hallerde, sigortacının sigorta ettirene karşı ödemeye mecbur olduğu tazminatı tahsil salahiyeti munhasıran sigorta ettiren kimsenin kendisine karşı mesul olduğu şahsa ait olup sigorta ettiren kimsenin alacaklıları bu tazminattan faydalanamazlar. Sigorta ettirenin kendisine karşı mesul olduğu şahıs sigortacıdan tazminatın tamamını alamamış ise kalan kısımdan dolayı yangın sebebiyle kendisine karşı mesul olan kimseye müracaat hakkı mahfuzdur.

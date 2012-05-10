@@ -1,0 +1,2 @@
+Madde 832 – 823 ila 826 ncı maddelere aykırı olarak Türk Bayrağı çeken veya aynı maddelerin hükümlerine göre Türk Bayrağı çekmesi lazımgelirken diğer bir devletin bayrağını çeken geminin kaptanı veya bu hareketleri menetmemiş olan donatanı 400 liraya kadar ağır para cezası veya altı aya kadar hapis cezası ile cezalandırılır. Geminin suçluya ait olup olmadığı gözetilmeksizin müsaderesine de karar verilebilir.
+2. Tasdikname veya şahadetname almadan bayrak çekme:

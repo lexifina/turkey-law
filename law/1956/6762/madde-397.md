@@ -1,0 +1,3 @@
+Madde 397 – Umumi heyet esas sermayenin azaltılmasına karar verdikten sonra idare meclisi bu kararı 37 nci maddede anılan gazetede ve aynı zamanda esas mukavele ile muayyen şekilde üç defa ilan ederek 37 nci maddede anılan gazetedeki üçüncü ilandan itibaren iki ay içinde alacaklarını beyan etmek suretiyle ödeme veya teminat istiyebileceklerini alacaklılara bildirir. Şirketçe malüm olan alacaklılara ayrıca davet mektupları gönderilir.
+Esas sermaye zararlar neticesinde bilançoda husule gelen bir açığı kapatmak maksadiyle ve bu açıklar nispetinde azaltılacak olursa idare meclisince alacaklıları davetten ve bunların haklarının ödenmesinden veya temininden vazgeçilebilir.
+3. Kararın icrası:

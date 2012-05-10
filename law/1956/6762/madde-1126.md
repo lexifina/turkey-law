@@ -1,0 +1,3 @@
+C) Yolculuk sırasında geminin tamiri:
+Madde 1126 – Yolculuk sırasında geminin tamiri lazımgelirse yolcu, tamirin bitmesini beklemese bile, taşıma ücretini tam olarak verir. Tamirin bitmesini beklerse, taşıyan kendisine yolculuk tekrar başlayıncaya kadar ayrıca bir ücret istemeksizin yatacak yer temin etmeye ve yemek hususunda da taşıma mukavelesi gereğince kendisine düşen mükellefiyetleri ifaya devam etmeye mecburdur.
+Taşıyan, mukavele gereğince yolcunun haiz olduğu diğer haklara halel gelmeksizin bir fırsattan istifade ile yolcuyu aynı derecede iyi olan diğer bir gemi ile varma limanına taşımayı teklif edip yolcu da bu teklifi kabul etmezse yolculuk tekrar başlayıncaya kadar yatacak yer ve yiyecek temini talebinde bulunamaz.

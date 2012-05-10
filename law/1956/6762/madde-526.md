@@ -1,0 +1,2 @@
+Madde 526 – Sermaye koyma borcu tamamen yerine getirilmedikçe payların şirket tarafından iktisabı veya rehin olarak kabulü muteber olmaz; meğer ki bu muameleler esas sermayeye iştirakten doğmayan alacakların ödenmesi maksadiyle vukubulsun.
+Sermaye koyma borcu tamamen yerine getirildikten sonra paylar ortaklık tarafından iktisap edilebilirse de bunların bedelleri ancak ortaklık mallarının esas sermayeyi aşan kısmı ile ödenebilir; aksi takdirde muamele muteber olmaz.

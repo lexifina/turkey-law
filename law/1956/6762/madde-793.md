@@ -1,0 +1,2 @@
+Madde 793 – Taşınan şeyleri almak üzere müracaat eden kimse, yukarki maddede gösterilen borçlarını vermiyecek olursa taşıyıcı, eşyayı teslime mecbur değildir. Şu kardar ki; borcun miktarında ihtilaf çıkarsa, gönderilen borçlu olduğunu kabul ettiği miktarı öder ve aradaki farkı da muteber bir bankaya yahut notere yahut emin bir yere tevdi ederse, taşıyıcı eşyayı teslime mecbur olur. Taşıyıcı, nama veya emre yazılı olan ve tarafından imza edilen taşıma senedinin ikinci nüshası kendisine geri verilmedikçe taşınan eşyayı teslime mecbur değildir
+4. Hapis hakkı:

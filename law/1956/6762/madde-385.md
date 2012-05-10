@@ -1,0 +1,3 @@
+Madde 385 – Aksine esas mukavelede hüküm olmadığı takdirde umumi heyet aşağıdaki maddelerde bildirilen şartlar dairesinde esas mukavelenin bütün hükümlerini değiştirebilir. Şu kadar ki; münferit pay sahiplerinin bu sıfatla haiz oldukları müktesep haklarda rızaları olmaksızın hiçbir değişiklik yapılamaz.
+Müktesep haklar; kanun veya esas mukavele hükümlerine göre umumi heyet ve idare meclisi kararlarına tabi olmıyan yahut umumi heyetin toplantılarına iştirak hakkından doğan, hususiyle azalık, rey kullanmak, iptal davası açmak, kar payı almak ve tasfiye neticesine iştirak etmek gibi haklardır.
+2. İlân ve tebliğ :

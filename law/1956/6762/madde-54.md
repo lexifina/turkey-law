@@ -1,0 +1,2 @@
+Madde 54 – Ticaret unvanı kanuna aykırı olarak başkası tarafından kullanılan kimse, bunun men'ini ve haksız kullanılan ticaret unvanı tescil edilmişse kanuna uygun bir şekilde değiştirilmesini veya silinmesini ve zarar görmüş ise, kusur halinde bunun da tazminini istiyebilir.
+Mahkeme, davayı kazanan tarafın talebi üzerine, masrafları aleyhine hüküm verilen kimseye ait olmak üzere hükmün gazete ile de yayınlanmasına karar verebilir.

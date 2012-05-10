@@ -1,0 +1,2 @@
+Madde 366 – Şirket sermayesinin en az onda biri değerinde paylara sahip olan kimselerin gerektirici sebepleri bildiren yazılı talepleri üzerine idare meclisinin, umumi heyeti fevkalade toplantıya davet etmesi veya umumi heyetin zaten toplanması mukarrer ise müzakeresini istedikleri maddeleri gündeme koyması mecburidir. Bu talep hakkını haiz kimselerin sahip olmaları gereken payların miktarı esas mukavele ile daha az bir miktara indirilebilir.
+c) Mahkemenin izni:

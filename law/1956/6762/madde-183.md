@@ -1,0 +1,1 @@
+Madde 183 – Şirketin iflası halinde ortaklar, koydukları sermaye ve işlemekte olan faizler için masaya giremezler. Ancak işlemiş faizlerle ücretler ve şirket lehine yaptıkları masraflar için her hangi bir alacaklı gibi masaya girebilirler.

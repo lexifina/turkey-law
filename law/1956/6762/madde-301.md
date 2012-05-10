@@ -1,0 +1,4 @@
+Madde 301 – Şirket ticaret siciline tescil ile hükmi şahsiyet kazanır.
+Tescilden önce şirket namına muamele yapanlar bu muamelelerden şahsan ve müteselsilen mesuldürler. Ancak, bu gibi taahhütlerin, ileride kurulacak şirket namına yapıldığı açıkça bildirilmiş ve şirketin ticaret siciline kaydından sonra üç aylık bir müddet içinde bu taahhütler şirket tarafından kabul olunmuşsa, yalnız şirket mesul olur.
+Kurucular şirketi kurmak için yaptıkları muamele ve giriştikleri taahhütlerden üçüncü şahıslara karşı mesuldürler. Şirket hükmi şahsiyet kazandıkdan sonra, kurucular kuruluş masraflarından dolayı şirkete rücu edebilirler. Şirketin kurulması her hangi bir sebepten dolayı kabil olmadığı takdirde bu masraflar kuruculara ait olup pay sahiplerine rücu hakları yoktur. Masrafların şirketten alınabilmesi, bunların kuruluş umumi heyetince tasdik edilmesine bağlıdır.
+b) Kuruluştan önce paylar üzerindeki tasarruflar:

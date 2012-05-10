@@ -1,0 +1,2 @@
+VI - İhtiyati tedbirler:
+Madde 63 – Dava açmak hakkını haiz olan kimsenin dilekçesi üzerine mahkeme, mevcut vaziyetin olduğu gibi muhafaza edilmesine, 58 inci maddenin birinci fıkrasının (b) ve (c) bentlerinde yazılı olduğu veçhile haksız rekabetin neticesi olan maddi durumun ortadan kaldırılmasına, haksız rekabetin men'ine ve yanlış veya yanıltıcı beyanların düzeltilmesine ve lüzumlu diğer tedbirlerin alınmasına Hukuk Muhakemeleri Usulü Kanununun ihtiyati tedbir hakkındaki hükümlerine göre karar verebilir.

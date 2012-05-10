@@ -1,0 +1,2 @@
+Madde 101 – Mukavelenin taraflarınca vazgeçilen veya emtianın nevi dolayısiyle mahalli teamül gereğince lüzum bulunmıyan haller dışında tellal, taraflardan her birine muamele yapıldıktan sonra, tarafların ad ve soyadlarını ve mukavelenin mevzuu ve şartlarını, hususiyle, emtia, veya kıymetli evrak alım satımlarında bunların nev'ini, miktarını, fiyatını ve teslim zamanını gösteren ve kendi imzasını taşıyan bir bordro vermeye mecburdur.
+2. Taraflarca imzası:

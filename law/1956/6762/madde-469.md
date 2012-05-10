@@ -1,0 +1,4 @@
+III - Kar payı ile yedek akçeler arasındaki münasebet:
+Madde 469 – Kanuni ve ihtiyari yedek akçelerle kanun ve esas mukavele hükmünce ayrılması gerekli diğer paralar safi kardan ayrılmadıkça kar payı dağıtılamaz.
+Şirketin devamlı inkişafı veya mümkün mertebe istikrarlı kar paylarının dağıtılmasını temin bakımından münasip ve faydalı olduğu takdirde umumi heyet kar payının tesbiti sırasında kanun ve esas mukavelede zikredilenlerden başka yedek akçeler ayrılmasına ve yedek akçelerin kanun ve esas mukavele ile muayyen haddinin artırılmasına karar verebilir.
+Esas mukavelede hüküm olmasa bile umumi heyet, şirket müstahdem ve işçileri için yardım sandıkları vesair yardım teşkilatı kurulması ve idamesi maksadiyle veya diğer yardım maksatlarına hadim olmak üzere, safi kardan aidat tefrik edebilir; bu aidat esas mukavele ile muayyen yardım akçeleri hakkındaki hükümlere tabidir.

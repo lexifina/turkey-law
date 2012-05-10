@@ -1,0 +1,3 @@
+İ) Kaldırılan hükümler:
+Madde 1473 – 29/5/1926 gün ve 865 sayılı Ticaret Kanunu, 29/5/1926 gün ve 866 sayılı Ticaret Kanununun sureti tatbikı hakkında Kanun, 13/V/1929 gün ve 1440 sayılı Ticaret Kanunu (İkinci kitap - Deniz Ticaret Kanunu), Ticaret Kanununun 386 ncı maddesini değiştiren 12/11/1931 gün ve 1749 sayılı kanun ve Ticaret Kanununun bazı maddelerini değiştiren 17/XII/1954 günlü ve 6442 sayılı kanun ile 22/III/1303 tarihli Murabaha Nizamnamesinin ticari işlere ait olan hükümleri ve hususi mahiyette olan kanun hükümleri mahfuz olmak kaydiyle diğer kanunların bu kanuna aykırı hükümleri kaldırılmıştır.
+3032

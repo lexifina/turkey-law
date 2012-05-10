@@ -1,0 +1,2 @@
+Madde 1019 – Her nevi navlun mukavelesinde taşıyan, geminin denize ve yola elverişli bir halde bulunmasını (Madde 817) ve soğutma tesisatı da dahil olmak üzere ambarların yükü kabule, taşımaya ve muhafazaya elverişli bir halde bulunmasını (Yüke elverişliliğini) temin etmekle mükelleftir.
+Taşıyan, yükle ilgili olanlara karşı geminin denize, yola veya yüke elverişli olmamasından doğan zararlardan mesuldür; meğer ki; tedbirli bir taşıyanın sarf etmekle mükellef olduğu dikkat ve ihtimam gösterilmekle beraber eksikliği yolculuğun başlangıcına kadar keşfe imkan bulunmamış olsun.

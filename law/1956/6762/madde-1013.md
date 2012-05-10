@@ -1,0 +1,14 @@
+II - Hastalık:
+Madde 1013 – Kaptan; hizmete girdikten sonra hastalık veya yaralanma dolayısiyle tedaviye muhtaç olur veya çalışamıyacak bir hale gelirse; gemi üzerinde veya vazifenin icabettirdiği yolculukta bulunduğu müddetçe donatan geçim ve bakım masraflarını vermekle mükelleftir. Eğer kaptan yabancı memlekette işe girmiş ve hastalık veya yaralanma hizmete girmeden evvel olmuş ve kaptan hastalıktan veya yaralanmadan dolayı yolculuğa başlamamış ise donatan yukarda yazılı masrafları vermekle mükellef değildir.
+Bakım hastanın bakılması ve tedaviye şamildir. Tedaviye hekime gösterme ve gemide bulunması mecburi olan veya bir limanda durulduğu esnada tedarik edilmesi kabil olan ilaç ve mütat tedavi vasıtalariyle bakım da dahildir.
+Donatan, yabancı memlekette kaptanın bakım ve tedavisini bir hastanede temin edebilir.
+Hastalıktan veya yaralanmadan dolayı yabancı memlekette kalmış olan kaptan, kendisinin ve hekimin veya deniz işleriyle uğraşan dairenin muvafakati ile bir Türk limanına gönderilebilir. Eğer kaptan muvafakatini bildirmiyecek halde olur veya haklı sebep olmaksızın rıza göstermezse bir hekim dinlendikten sonra kaptanın bulunduğu yerdeki deniz işleriyle uğraşan daire izin verebilir.
+3936
+Teklif edilen tedaviyi veya bir hastanede bakılmayı haklı bir sebep olmaksızın kabul etmekten kaçınan kaptan bu kaçınma müddetince parasız bakılmak hakkını kaybeder. Bu müddet geçim ve bakım için muayyen zamana dahil olur.
+Kaptan gemiyi Türk limanlarından birine bırakınca geçim ve bakım mükellefiyeti sona erer. Şu kadar ki, hastanın kendi haline bırakılması tehlikeli ise bakıma devam olunmak lazımdır.
+Kaptan hastalıktan veya yaralanmadan dolayı yabancı bir memlekette gemiyi bırakmaya mecbur kalmış ise, donatan, gemi bırakıldıktan sonraki zaman için de geçim ve bakıma borçludur. Geçim ve bakım mükellefiyeti geminin bırakılmasından itibaren 26 haftanın geçmesiyle sona erer. Şayet kaptan daha evvel memlekete iade edilir veya kendisi avdet ederse bu müddet daha evvel de sona erebilir.
+Geçim ve bakım mükellefiyetinden dolayı kaptan ile donatan arasında çıkan ihtilaf en evvel salahiyetli deniz işleri memurluğu tarafından muvakkaten karara bağlanır. Karar, ihtiyati tedbir kararı gibi icra olunur.
+Eğer kaptan gemi ile memleketi limanına veya hizmet sözleşmesinin yapıldığı limana dönmezse parasız götürülmek veya muvafık bir tazminat istemek hakkını da haiz olur.
+Hastalanan veya yaralanan kaptan, yola çıkmamışsa hizmetin tatiline kadar, yola çıkmışsa gemiden ayrıldığı güne kadar meşrut olan diğer bütün menfaatler de dahil olmak üzere ücret alır. Bir hastanede ikamet sırasında ücret alacağına halel gelmez.
+Bundan başka kaptan geminin müdafaası sırasında bir zarara uğrarsa münasip ve lüzumu halinde hakim tarafından tayin edilecek bir ikramiye istiyebilir.
+Hastalığa veya yaralanmaya, cezayı mucip bir fiili ile sebebiyet veren veya hizmeti haksız surette bırakan kaptan hakkında yukariki hükümler tatbik olunmaz.

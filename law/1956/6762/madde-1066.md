@@ -1,0 +1,5 @@
+Madde 1066 – Malların uğramış olduğu zıyaı veya hasarın, en geç navlun mukavelesi gereğince bunları teslim almaya salahiyetli olan kimseye teslimi sırasında taşıyana veya boşaltma limanındaki temsilcisine yazılı olarak bildirilmesi şarttır. Zıya veya hasar haricen belli değilse, ihbarnamenin mezkür tarihten itibaren üç gün içinde gönderilmesi kafidir. İhbarnamede zıya veya hasarın umumi olarak gösterilmesi lazımdır.
+Malların hal ve vaziyeti yahut ölçü, sayı veya tartısı en geç birinci fıkranın birinci cümlesinde yazılı anda her iki tarafın iştirakiyle mahkeme veya salahiyetli makam yahut bu husus için resmen tayin edilmiş eksperler tarafından tesbit edilmişse ihbara lüzum kalmaz.
+2947
+Malların zıya veya hasarı ne ihbar edilmiş ve ne de tesbit ettirilmiş olursa, taşıyanın malları konişmentoda yazılı olan halde teslim ettiği ve şayet mallarda bir zıya veya hasar sabit olursa, bu zararın taşıyanın mesul olmıyacağı bir sebepten ileri geldiği kabul olunur. Şu kadar ki; bu karinelerin aksi ispat olunabilir.
+3. Dava hakkının düşmesi:

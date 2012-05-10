@@ -1,0 +1,2 @@
+Madde 370 – Bütün payların sahip veya temsilcileri, aralarından biri itirazda bulunmadığı takdirde umumi heyet toplantılarına dair olan diğer hükümler mahfuz kalmak şartiyle toplantıya davet hakkındaki merasime riayet etmeksizin de umumi heyet olarak toplanabilirler.
+Böyle bir toplantıda bütün pay sahip veya temsilcileri hazır olmak şartiyle umumi heyetin vazifelerinden olan hususlar müzakere edilerek karara bağlanabilir.

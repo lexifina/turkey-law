@@ -1,0 +1,2 @@
+II - İdare işlerinin şümulü:
+Madde 165 – Şirketin idaresine giren hususlar, şirket maksat ve mevzuunu elde etmek için icrası gereken mütat muamele ve işlerden ibarettir. Şirketi idare edenler şirket menfaatine uygun gördükleri işlerde sulh, feragat ve kabul ile tahkime dahi salahiyetlidirler. Şu kadar ki; teberruda bulunmak ve şirket mevzuuna girmiyorsa gayrimenkulleri satmak, satınalmak ve teminat olarak göstermek gibi mütat iş ve muameleler dışında kalan hususlarda ortakların ittifakı şarttır.

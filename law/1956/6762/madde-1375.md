@@ -1,0 +1,2 @@
+Madde 1375 – Yük sigortasında mallar bu husus için kararlaştırılan gemi ile, taşınmazsa sigortacı hiçbir kazadan mesul olmaz. Bununla beraber sigortacı riziko kendisi için başlandıktan sonra mallar sigortalının talimatı veya muvafakati olmaksızın yahut bir kaza neticesinde, taşımaya tahsis edilen gemiden başka bir surette taşınmasına devam olunursa mukavele hükümlerine göre mesul olur; meğer ki, kaza sigortacının üzerine almadığı bir rizikodan doğmuş olsun.
+2. İhbar mükellefiyeti:

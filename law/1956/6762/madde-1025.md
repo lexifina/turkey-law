@@ -1,0 +1,2 @@
+Madde 1025 – Kaptanın bilgisi olmaksızın gemiye eşya getiren kimse de 1024 üncü maddeye göre bu yüzden doğacak zararı tazmin etmekle mükelleftir. Kaptan bu gibi eşyayı tekrar karaya çıkarmaya ve gemiyi veya diğer yükü tehlikeye düşürürse icabında denize atmaya salahiyetlidir. Kaptan eşyayı gemide alıkorsa bunlar için yükleme yerinde ve yükleme sırasında bu gibi yolculuk ve eşya için alınan en yüksek navlunun ödenmesi lazımdır.
+d) Tehlikeli eşya:

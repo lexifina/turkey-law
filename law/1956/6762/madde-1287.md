@@ -1,0 +1,1 @@
+Madde 1287 – Sigorta olunan menfaatin değerinin tamamı önceki mukavele ile temin edilmemişse bu menfaat, geri kalan değerine kadar, bir veya birkaç defa daha sigorta ettirilebilir. Bu takdirde o menfaati sonradan sigorta eden sigortacılar değer bakıyesinden dolayı mukavelelerin tarihleri sırasiyle mesul olurlar. Aynı günde yapılmış olan mukaveleler aynı anda yapılmış sayılır.

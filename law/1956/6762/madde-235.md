@@ -1,0 +1,1 @@
+Madde 235 – Tasfiye memurları, tasfiye sırasında elde edilen paraların bin liradan fazlasını, Merkez Bankasına ve Merkez Bankası bulunmıyan yerlerde muteber bir bankaya şirket adına yatırmaya mecburdurlar.

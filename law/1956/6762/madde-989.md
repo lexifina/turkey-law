@@ -1,0 +1,2 @@
+Madde 989 – Kaptanın muamelelerinden ve bilhassa kambiyo taahhütlerinden dolayı donatanın şahsan mesul tutulması kaptana donatan tarafından açık bir temsil salahiyeti verilmiş olmasına bağlıdır (Madde 948, Fk. 1, Bent 1). Kaptan açıkça verilmiş bir temsil salahiyetini haiz olmadıkça, donatan tarafından onun hareket tarzına ait talimatlar veya işe ait emirler verilmiş olması kaptanın yapmış olduğu muamelelerden dolayı üçüncü şahıslara karşı donatanın şahsan mesul tutulmasına sebep teşkil etmez.
+c) Gemi satışı:

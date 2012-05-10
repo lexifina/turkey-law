@@ -1,0 +1,3 @@
+Madde 803 – Sefer; hükümetin emrinden, araba, kamyon veya her hangi bir taşıma vasıtasının tamiri zaruri olmasından veya ansızın çıkıp seyahate devamı tehlikeli kılan bir halden dolayı gecikmiş ise, iki taraf arasında hususi bir anlaşma olmadığı takdirde aşağıdaki hükümler tatbik olunur:
+1. Yolcu, engelin kalkmasını veya tamiratın sonunu beklemek istemezse, taşıma ücretini, gidilen mesafe ile mütenasip olarak ödiyerek sözleşmeden cayabilir.
+2. Yolcu, taşıma vasıtasının hareketini beklemeyi tercih edecek olursa, kararlaştırılmış ücretten fazla bir şey vermeye mecbur olmaz. Fakat taşıma ücretinde yemek de dahil ise durma müddetince yemek masrafını yolcu çeker.

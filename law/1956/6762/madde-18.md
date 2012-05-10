@@ -1,0 +1,3 @@
+II - Hükmi şahıslar:
+Madde 18 – Ticaret şirketleriyle,gayesine varmak için ticari bir işletme işleten dernekler ve kendi kuruluş kanunları gereğince hususi hukuk hükümleri dairesinde idare edilmek veya ticari şekilde işletilmek üzere devlet,vilayet,belediye gibi amme hükmi şahısları tarafından kurulan teşekkül ve müesseseler dahi tacir sayılırlar.
+Devlet, vilayet ve belediye gibi amme hükmi şahısları ile umumi menfaate hadim cemiyetler, bir ticari işletmeyi ister doğrudan doğruya, ister amme hukuku hükümlerine göre idare edilen ve işletilen bir hükmi şahıs eliyle işletsinler kendileri tacir sayılamazlar.

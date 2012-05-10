@@ -1,0 +1,4 @@
+Madde 1007 – Muayyen bir yolculuk için hizmete alınmış olan kaptan; harp, ambargo, abluka, ithalat veya ihracat yasağı yahut gemi veya yüke mütaallik umulmıyan başka bir hal yüzünden yolculuğa başlanamamasından veya başlanmış iken devam edilmemesinden dolayı vazifesinden çıkarılmışsa, kararlaştırılmış olan diğer bütün menfaatler de dahil olduğu halde çıkarıldığı güne kadar hak etmiş olduğu ücreti alır. Muayyen olmıyan bir müddet için hizmete alınıp muayyen bir yolculuğa başladıktan sonra yukardaki sebeplerden dolayı yol verilmiş kaptan hakkında da aynı hüküm tatbik olunur.
+Bu hallerde kaptana yol verilmesi yolculuk sırasında olmuşsa kaptan ayrıca hizmete alındığı limana parasız götürülmesini veya bunun tutarı olan tazminatın verilmesini istiyebilir.
+Bu kanuna göre parasız seyahat hakkı, yolculuktaki geçim masraflariyle kaptanın zati eşyasının taşınmasına da şamildir.
+e) Diğer hallerde:

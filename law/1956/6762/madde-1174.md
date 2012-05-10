@@ -1,0 +1,1 @@
+Madde 1174 – Kaptan alacaklının alacağı ödenmeden veya temin edilmeden deniz ödüncüne karşı rehnedilen yükü tamamen veya kısmen teslim edemez; ederse, teslim edilen mallar üzerinden teslim zamanında elde edilecek menfaat nispetinde şahsan mesul olur. Alacaklının, malların teslim zamanında alacağını tamamen almış olabileceği kabul olunur.

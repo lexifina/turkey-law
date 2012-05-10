@@ -1,0 +1,2 @@
+Madde 1061 – Taşıyan, malların yükletilmesi, istifi, taşınması, elden geçirilmesi ve boşaltmasında tedbirli bir taşıyanın dikkat ve ihtimamını göstermekle mükelleftir. Teslim alındıkları andan teslim edildikleri ana kadar geçen müddet içinde malların zıyaı veya hasarı yüzünden doğacak zararlardan taşıyan mesuldür; meğer ki, zıya veya hasar, tedbirli bir taşıyanın dikkat ve ihtimamı ile dahi önüne geçilemiyecek sebeplerden ileri gelmiş olsun.
+2. Adamlarının kusurlarından dolayı:

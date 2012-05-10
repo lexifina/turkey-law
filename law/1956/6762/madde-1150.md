@@ -1,0 +1,3 @@
+Madde 1150 – Mallar yükletildikten sonra muntazam cirolu konişmentosu ile beraber sigorta poliçesi veya onun yerine muvakkat bir sigorta ilmühaberi, kati fatura veya mallar kısım kısım yükletilmiş yahut 1157 ve 1158 inci maddelerde yazılı hallerden biri mevcutsa, muvakkat fatura ve icabı halinde malların vasfı ve tartısını müsbit şahadetname ile mukaveleye göre satıcının vermeye mecbur olduğu diğer vesikalar, satıcı tarafından gecikmeksizin alıcıya ibraz edilir veya ettirilir.
+Konişmentoda çarter mukavelesine taallük eden kayıtlar bulunursa çarter partinin sureti de ibraz edilir.
+b) Vesikaların tam ve muntazam olması:

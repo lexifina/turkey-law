@@ -1,0 +1,2 @@
+II - Değiştirme:
+Madde 1330 – Sigorta ettiren kimse sigortadan faydalanan kimseyi mukavele yapılırken veya sonradan tayin edebilir. Kezalik sigorta ettiren kimse sigortadan faydalanan kimseyi tayin ettikten sonra da değiştirebilir; şu kadar ki, sigorta ettiren kimse değiştirme hakkından feragat ettiğini sigorta poliçesine yazdırmakla beraber sigorta poliçesini sigortadan faydalanan üçüncü şahsa teslim etmiş ise o şahsı değiştiremez.

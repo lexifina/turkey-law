@@ -1,0 +1,2 @@
+Madde 1 – Türk Ticaret Kanunu, Türk Medeni Kanununun ayrılmaz bir cüzüdür. Bu kanundaki hükümlerle, bir ticarethane veya fabrika yahut ticari şekilde işletilen her hangi bir müesseseyi ilgilendiren muamele, fiil ve işlere dair diğer kanunlarda yazılı hususi hükümler, ticari hükümlerdir.
+Hakkında ticari bir hüküm bulunmıyan ticari işlerde mahkeme, ticari örf ve adete, bu dahi yoksa umumi hükümlere göre karar verir.

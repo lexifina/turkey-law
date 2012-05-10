@@ -1,0 +1,2 @@
+II - Primin indirilmesi:
+Madde 1454 – Sigorta, 1339 uncu maddede yazılı menfaatin yokluğundan yahut 1345 inci madde gereğince aşkın sigortadan dolayı hükümsüz olup da sigorta ettiren mukavelenin yapıldığı sırada ve başkası hesabına sigorta halinde de sigortalı vekalet verildiği sırada hüsnüniyet sahibi idiyse prim kezalik 1453 üncü maddede gösterilen ristorno hakkı mahfuz kalmak üzere geri istenebilir veya alıkonulabilir.

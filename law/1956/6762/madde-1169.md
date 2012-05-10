@@ -1,0 +1,3 @@
+Madde 1169 – Birden çok nüsha olarak tanzim edilen deniz ödüncü senedinin birden fazla salahiyetli hamili müracaat ederse, bunların hepsi reddedilir ve deniz ödüncüne karşı rehnedilen şeylerin rehinden kurtulması icabediyorsa para resmi bir vezneye veya bu yapılmazsa başka emin bir yere yatırılır ve müracaat etmiş olan deniz ödüncü senedi hamilleri bu tedbirden, sebepleri de bildirilmek suretiyle, haberdar edilir.
+Paranın resmi bir vezneye yatırılması mümkün olmayan hallerde, yatıran, aldığı tedbir ve bunun sebepleri hakkında resmi bir vesika tanzim ettirmeye ve bu muamele yüzünden yapılan masrafları deniz ödüncü borcundan indirmeye salahiyetlidir.
+2969

@@ -1,0 +1,3 @@
+III - Yola çıkma vazifesi:
+Madde 977 – Gemi kalkmaya hazır olunca kaptan ilk elverişli fırsatta yola çıkmaya mecburdur.
+Kaptan, hastalık veya diğer bir sebepten dolayı gemiyi idare edemiyecek bir halde bulunsa dahi geminin kalkmasını veya yolculuğun devamını işi bozacak surette geciktiremez; bilakis halin icabına göre donatandan emir almak mümkünse, vakit geçirmeden donatana manileri bildirip emir gelinciye kadar lüzumlu tedbirleri almaya halin icabına göre bu mümkün değilse yerine başka kaptan koymaya mecburdur. Bu kaptanı seçmekte kusuru gorülmedikçe kendine vekalet eden kaptanın fiillerinden dolayı mesul tutulamaz.

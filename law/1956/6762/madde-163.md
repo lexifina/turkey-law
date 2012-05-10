@@ -1,0 +1,3 @@
+Madde 163 – Şirket işlerinin idaresi, ortaklıkların hepsine veya birkaçına verilmiş ise bunların herbiri yalnız başına salahiyetlidir. Bununla beraber şirketi idare ile mükellef olan ortaklardan bazısı, yapılacak bir işin, şirketin menfaatlerine uygun olmadığını beyan edecek olursa idare hak ve vazifesini haiz diğer ortaklar ekseriyetle o işi yapabilirler.
+Şirket işlerinin idaresi kendilerine verilmiş ortakların birlikte hareket etmeleri şirket mukavelesinde yazılı ise, ortakların gecikmede tehlike görülen haller müstesna olmak üzere her işte anlaşmaları gerekir. Anlaşamadıkları takdirde keyfiyet ortaklar umumi heyetine tevdi ve heyetçe verilecek karara göre hareket edilir.
+4. Diğer ortakların itirazı:

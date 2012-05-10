@@ -1,0 +1,4 @@
+II - Kayıtların hükümleri:
+Madde 885 – Hukuki bir muamele ile bir geminin mülkiyetini, intifa hakkını, gemi ipoteğini veya ipotek üzerindeki bir hakkı iktisap eden kimse lehine, gemi sicilinin muhtevası, bu haklara taallük ettiği nispette doğru sayılır; meğer ki, sicile bir itiraz kaydedilmiş veya iktisap eden suiniyet sahibi bulunmuş olsun. Hak sahibinin müseccel bir hak üzerindeki tasarruf salahiyeti muayyen bir kimse lehine tahdit edilmiş ise bu tahdit keyfiyeti iktisap eden hakkında ancak gemi sicilinde yazılı olması veya kendisinin suiniyet sahibi bulunması halinde hüküm ifade eder.
+Hakkın iktisabı için tescil şart olan hallerde tescili talep tarihi hüsnüniyete esas tutulur.
+Gemi sicilinde lehine bir hak tescil edilmiş olan kimseye bu hakkı sebebiyle bir edada bulunulması veya bu kimsenin üçüncü bir şahıs ile müseccel hak üzerinde bir tasarruf muamelesinde bulunması hallerinde de yukarki fıkra hükmü tatbik olunur.

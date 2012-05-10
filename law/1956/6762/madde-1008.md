@@ -1,0 +1,2 @@
+Madde 1008 – Muayyen olmıyan müddet için hizmete alınıp da muayyen bir yolculuğa başladıktan sonra 1006 ncı ve 1007 nci maddelerde yazılı sebeplerden başka bir sebeple işten çıkarılan kaptan, 1007 nci madde hükmü gereğince alacağı paralardan başka Avrupa limanında çıkarılmışsa iki ve Avrupa dışı bir limanda çıkarılmışsa dört aylık ücretini de tazminat olarak alır. Ancak, alacağı tazminat yolculuğu bitirmesi halinde hak edeceği miktarı geçemez.
+d) Götürü ücrete göre tazminatın tayini:

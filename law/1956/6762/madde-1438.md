@@ -1,0 +1,4 @@
+IV - Umulan kar veya komisyonda:
+Madde 1438 – Malların ulaşmasından beklenen komüsyondan veya umulan kardan mahrum kalma halinde tazmine esas tutulacak zarar; malların hasarlı olarak ulaşmaları halinde 1434 üncü maddeye göre tesbit olunması lazımgelen zarar bunların sigorta değerinin yüzde kaçını teşkil ediyorsa kar veya komüsyon olarak sigorta edilmiş olan paranın aynı miktarda yüzdesinden ibarettir.
+Malların bir kısmının varma limanına ulaşmaması halinde zarar, malların varma limanına ulaşmıyan kısmı bütün malların değerinin yüzde kaçını teşkil ediyorsa, kar veya komüsyon olarak sigorta edilmiş olan paranın aynı miktarda yüzdesinden ibarettir.
+Umulan karın sigortası halinde malların ulaşmamış olan kısmı bakımından 1419 uncu maddenin şartları mevcut olursa, zarardan bu maddede yazılı fazlanın indirilmesi lazımdır.

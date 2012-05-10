@@ -1,0 +1,3 @@
+Madde 1396 – Dispeç kanunen salahiyetli bir kimse tarafından yapılmışsa sigortacı, bu dispeçin yapıldığı yabancı memleket hukukuna uygun olmadığını ve bu yüzden sigortalıya zarar verdiğini ileri sürerek itirazda bulunamaz; meğer ki, sigortalı kendi haklarını gereği gibi gözetmemek yüzünden bu zararlara sebep olmuş bulunsun. Bununla beraber sigortalı kendi zararından menfaat görenlere karşı olan haklarını sigortacıya devretmeye mecburdur.
+Buna mukabil sigortalının uğradığı zararın dispeç yapılan yabancı memleketin hukukuna göre tazmini lazım gelmezken bu zarar müşterek avarya olarak muameleye tabi tutulmuşsa sigortacı sigortalıya karşı, dispeçi o nispette hükümsüz olarak telakki edebilir.
+4. Sigortalının alacaklı olduğu garame payları sebebiyle sigortacının mesuliyeti:

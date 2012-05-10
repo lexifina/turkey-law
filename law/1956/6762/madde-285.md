@@ -1,0 +1,3 @@
+Madde 285 – (Değişik birinci fıkra: 24/6/1995 - KHK 559/6 md.) Esas sermayeye tekabül eden payların muvazaadan ari olarak tamamen taahhüt edilmiş olması şarttır.
+Sermaye olarak paradan başka iktisadi bir değer veya menkul mal konulması taahhüdü, şirketin hükmi şahsiyet kazandığı tarihten itibaren onlar üzerinde malik sıfatiyle doğrudan doğruya tasarruf edebileceğinin ve gayrimenkul üzerindeki mülkiyet veya sair ayni hakların sermaye olarak konulması taahhüdü ise, bu hakların şirketin hükmi şahsiyet kazanmasiyle beraber tapu siciline tescil edileceğinin kabul edilmiş olması demektir.
+b) Payların bedeli:

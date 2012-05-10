@@ -1,0 +1,2 @@
+Madde 297 – Kuruluş umumi heyetlerinin verdikleri kararların muteber olması için toplantılarda İktisat ve Ticaret Vekaletinden bir komiser bulunması ve komiserin zabıtların kanuna uygun bir şekilde tutulmasına nezaret ve zabıtları reyini kullanan pay sahipleriyle birlikte imza etmesi şarttır. Bu zabıtlara, verilen kararların mahiyet ve neticeleriyle muhalif kalanların muhalefet sebepleri yazılır.
+2806

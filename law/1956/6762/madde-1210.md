@@ -1,0 +1,6 @@
+Madde 1210 – İlgililer ve bu arada sigortacılar 1207 nci maddede yazılı yerdeki mahkemeden dispeçin tasdikını istiyebilecekleri gibi avaryanın nevine veya hesaplarına itiraz da edebilirler.
+Dilekçede duruşmaya çağırılacak olan ilgililerin ad ve soyadları bildirilmek lazımdır.
+Dilekçe üzerine mahkeme dispeççiden dispeç ile müsbit evrakı ister, bu vesikaların tamamlanmasına lüzum görülürse ibrazını onları elinde bulunduranlara emreder.
+İlgililerin hepsi duruşmaya çağırılır. Davetiyede, dispeç ile müsbit vesikaların mahkeme kaleminde incelenebileceği ve çağırılanın daha önce de dispeçe karşı mahkemede itirazda bulunabileceği muayyen günde gelmediği takdirde dispeçe muvafakat etmiş sayılacağı yazılır. Davetiyenin tebliğ için duruşma gününden en az on beş gün önce gönderilmesi lazımdır.
+Dispeç raporuna itirazın en geç ilk celsede hiçbir tereddüdü gerektirmiyecek derecede açık ve etraflı olarak bildirilmesi mecburidir. Haklı sebepler dolayısiyle bu mümkün olmazsa, hakim ilgiliye itirazını bildirmek üzere bir defalık uygun bir mehil verir. İlk celsede veya en geç hakim tarafından verilecek mehil içinde gereği gibi açık ve etraflı şekilde bildirilmemiş olan itiraz vukubulmamış sayılır.
+2. Dispeçin tasdiki:

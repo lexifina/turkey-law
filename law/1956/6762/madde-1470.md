@@ -1,0 +1,3 @@
+Madde 1470 – Bir gemi adamına veya gemideki diğer bir kimseye karşı disiplin salahiyetini kötüye kullanan kaptan veya gemi zabitleri, şikayet üzerine on beş günden bir seneye kadar hapis ve en az iki aylığı tutarında ağır para cezasiyle cezalandırılırlar.
+Gemi hizmetlerinin esaslı bir şekilde aksaması neticesini meydana getirebilecek mahiyette bulunan ve yapmaması gereken bir hareketi bilerek yapan veya ihmal edilmesi aynı mahiyette bulunan ve yapması gereken bir hareketten bilerek kaçınan veya yukarıki maddede yazılı suçların işlenmesine göz yuman veyahut bunlara iştirak eden kaptan donatanın şikayeti üzerine yukarıki maddedeki cezaya mahküm edilir.
+Şikayet, hüküm kesinleşmesine kadar geri alınabilir.

@@ -1,0 +1,3 @@
+D) Mesuliyet sigortası:
+I - Şartlar ve şümulü:
+Madde 1309 – Bir mala diğer kimsenin hesabına olarak vazıyed eden kimse, kusurundan dolayı o mal tamamen veya kısmen yandığı takdirde tazminat ödemeye mecbur kalmak rizikosuna karşı mezkür malı sigorta ettirebildiği gibi bir malı her ne sıfatla olursa olsun elinde bulunduran kimse kusuriyle vukua gelecek bir yangının diğer bir kimsenin mallarına sırayeti sebebiyle o kimseye karşı hukukan mesul tutulmak rizikosunu sigorta ettirebilir. Bu takdirde aksine mukavele yoksa, sigortacı, sigorta ettiren kimsenin bu kusurundan ancak doğrudan doğruya doğan hasarı tazmine mecbur olup o kimsenin başkaca mahküm olacağı tazminatı ödemekle mükellef olmaz.

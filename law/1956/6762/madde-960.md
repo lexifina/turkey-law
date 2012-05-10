@@ -1,0 +1,2 @@
+Madde 960 – Gemi müdürü, idare ettiği donatma iştiraki işlerine dair ayrı defter tutmak ve ispata yarar vesikaları saklamakla mükelleftir. Müdür, müşterek donatanlardan her birine talebi halinde, donatma iştirakine, hususiyle gemiye, yolculuğa ve geminin donatılmasına taalük eden bütün muameleler hakkında malümat vermeye ve donatma iştirakine ait defterleri, mektupları vesair kağıtları göstermeye her zaman mecburdur.
+b) Hesap verme mükellefiyeti:

@@ -1,0 +1,1 @@
+Ek Madde 1 – (Ek: 24/6/1995 - KHK - 559/14 md.) 6762 sayılı Kanunun 35 ve 36 ncı maddelerinde geçen "sicilin bağlı olduğu mahkeme" ibareleri "sicilin bulunduğu yerde ticari davalara bakmakla görevli Asliye Hukuk Mahkemesi" olarak değiştirilmiştir.

@@ -1,0 +1,4 @@
+Madde 356 – Her pay sahibi, şirketin idare meclisi azası veya müdürleri aleyhinde murakıplara müracaat edebilir. Murakıplar bu müracaatları tahkika mecburdurlar. Tahkikat neticesinde şikayet edilen hadisenin gerçekliği sabit olursa keyfiyet murakıpların yıllık raporuna yazılır.
+Müracaat edenler esas sermayenin onda birine muadil paylara sahip oldukları surette, murakıplar bu müracaat hakkındaki fikir ve mütalaalarını raporlarında bildirmeye ve lüzum gördükleri halde umumi heyeti derhal fevkalade toplantıya davet etmeye mecburdurlar.
+İkinci fıkraya dayanarak murakıplara müracaat edenlerin yukarıda yazılı miktardaki hisse senetlerini muteber bir bankaya rehin olarak tevdi etmeleri lazımdır. Bu senetler umumi heyetin ilk toplantısının sonuna kadar bankada kalır.
+5. İdare meclisinin toplantılarına iştirak:

@@ -1,0 +1,2 @@
+Madde 199 – Yalnız iki kişiden ibaret bir kollektif şirkette, ortaklardan birinin şirketten çıkarılmasını gerektiren haklı sebepler mevcut ise, diğer ortağın talebi üzerine mahkeme fesih ve tasfiyeye hükmetmeksizin şirkete ait bütün iş ve muameleleri ve şirketin mevcudunu alacak ve borçları ile beraber davacı ortağa terk ve tahsise ve ortağın şirketten çıkarılmasına karar verebilir. Bu halde, çıkarılan ortak hakkında 204 üncü madde hükmü tatbik olunur.
+b) Diğer sebepler:

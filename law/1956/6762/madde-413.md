@@ -1,0 +1,2 @@
+Madde 413 – Hisse senetlerinin şirketin unvanını, esas sermaye miktarını ve tescil tarihini, senedin nevi ve itibari kıymetini ihtiva etmesi ve şirketin namına imza etmeye salahiyetli olanlardan en az ikisi tarafından imza edilmiş olması şarttır. İmza damga veya mühür şeklinde olabileceği gibi matbu dahi olabilir.
+Nama yazılı hisse senetlerinin ayrıca sahiplerinin ad ve soyadını, ikametgahını, senet karşılığında ödenmiş olan miktarı da ihtiva etmesi şarttır. Bu senetler şirketin pay defterine kaydolunur.

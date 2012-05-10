@@ -1,0 +1,2 @@
+III - Poliçeyi verme mükellefiyeti:
+Madde 1267 – Sigorta mukavelesi doğrudan doğruya sigorta ettiren kimse veya onun temsilcisi veya vekili ile yapılmışsa mukavele tarihinden yirmi dört saat içinde ve mukavele bir tellal vasıtasiyle yapılmış ise en geç on gün içinde sigortacı poliçeyi sigorta ettiren kimseye vermeye mecburdur. Aksi takdirde sigorta ettiren kimse sigortacı ile sigortaya aracılık yapan tellaldan tazminat istiyebilir.

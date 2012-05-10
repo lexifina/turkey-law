@@ -1,0 +1,1 @@
+Madde 1012 – Kaptan müşterek donatanlardan biri ise kendi istemeden yol verildiğinde müşterek donatanlarla yaptığı sözleşme gereğince iştirakte donatan sıfatiyle haiz olduğu payın, diğer donatanlar tarafından, bilirkişilerce takdir edilecek değeri ile satınalınmasını istiyebilir. Kaptan muhik bir sebep olmadan bu hakkını istemekte gecikirse hakkı düşer.

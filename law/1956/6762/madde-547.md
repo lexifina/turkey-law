@@ -1,0 +1,1 @@
+Madde 547 – Müdür olan bir ortak, diğer ortakların muvafakati olmadan şirketin uğraştığı ticaret dalında ne kendi ve ne de başkası hesabına iş göremiyeceği gibi başka bir işletmeye mesuliyeti tahdidedilmemiş ortak, komanditer ortak veya limitet şirketin azası sıfatiyle iştirak dahi edemez. Bu yasak, mukaveleye konacak hükümle bütün ortaklara teşmil edilebilir.

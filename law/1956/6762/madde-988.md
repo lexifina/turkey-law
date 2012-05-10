@@ -1,0 +1,3 @@
+Madde 988 – Kaptan, ödünç para veya veresiye mal almaya ve bu gibi kredi muamelelerine girişmeye, ancak gemiyi muhafaza etmek veya yolculuğu yapmak için zaruret halinde ve bu zaruretle ölçülü derecede salahiyetlidir. Kaptan ancak yolculuğun icrası için zaruret halinde ve yalnız bu zaruretle ölçülü derecede deniz ödüncü alabilir.
+Muamelenin muteber sayılması, paranın hakikaten sarf edilmiş olup olmamasına veya kaptanın seçtiği kredi şeklinde isabet bulunup bulunmamasına yahut kaptanın emrinde para mevcut olup olmamasına bağlı değildir; meğer ki, üçüncü şahıs kötü niyet sahibi olsun.
+b) Donatanın şahsi mesuliyetini doğuran muameleler:

@@ -1,0 +1,2 @@
+Madde 575 – Mahkeme, dilekçe sahibinin, senedin zilyedi bulunmuş ve onu zayi etmiş olduğuna dair verdiği izahatın doğruluğunu kuvvetle muhtemel görürse, belli olmıyan hamili ilan yoliyle senedi muayyen bir müddet içinde ibraz etmeye davet ve aksi takdirde senedin iptaline karar verileceğini ihtar eder. Müddetin en az altı ay olarak tesbiti lazımdır; bu müddet ilk ilan gününden itibaren işlemeye başlar.
+4. İlan şekli:

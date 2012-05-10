@@ -1,0 +1,5 @@
+B) Fob satış:
+Madde 1138 – Yükleme limanı zikrolunarak "Fob" satılan malların satıcı tarafından mukavele şartları dairesinde ve bunlar yoksa yükleme yerindeki teamüllerle muayyen olan suret ve zamanda ve ambalaj içinde alıcı tarafından tayin olunacak gemide teslim edilmesi lazımdır.
+"Fob" satılan malların geminin küpeştesini fiilen geçtiği andan itibaren nefi ve hasarı alıcıya aittir. Şu kadar ki; tayin olunan gemi vaktinde hazır olmazsa malların satıcı tarafından alıcının emrine amade kılındığı andan ve alıcı gemiye vakit ve zamanında tayin etmemiş veya malı teslim almak için bir müddet tayin yahut teslim yeri hakkında seçme hakkını muhafaza etmiş olup da vakit ve zamanında buna dair talimat göndermemiş olduğu takdirde kararlaştırılan müddetin bitiminden itibaren hasarı alıcıya aittir.
+Masraflar hakkında 1146 ncı madde hükmü tatbik olunur. Şu kadar ki; konişmento masraflariyle navlun bedeli ve hasarın alıcıya intikal ettiği andan sonra mallara binen bütün masraflar alıcıya aittir.
+Diğer hususlarda 25 inci madde hükmü "Fob" satış hakkında da tatbik olunur.

@@ -1,0 +1,4 @@
+Madde 1158 – Mukavelede "Tahminen" veya "Katiyen muayyen miktar" kayıtlı bulunduğu zaman satış bedeli aşağıda yazılı tarzda tayin olunup ödenir:
+Mukavelede "Tahminen" kaydı mevcutsa satılan mallar geminin tamamen hamulesine şamil olduğu takdirde kararlaştırılan miktardan yüzde on ve hamulenin bir kısmından ibaret bulunduğu takdirde yüzde beş, ziyade veya noksan olarak teslim olunabilir.
+"Katiyen muayyen miktar" kaydı alıcıya mukavelede muayyen olan miktarın tamamını talep hakkını bahşeder. Şu kadar ki; malların yolculuk sırasındaki firesinden veya deniz hasarları sebebiyle meydana gelen noksandan dolayı satıcı mesul olmaz.
+Her iki halde çıkacak olan noksan veya ziyade miktarın bedeli, malların gemiden çıkarıldığı gün ve yerdeki rayice göre tayin olunup ödenir. Mamafih malların kısmen denize atılması veya deniz suyu ile ıslanarak ağırlığının artması veya eksilmesi sebebiyle hakiki tartısının tesbiti mümkün olmazsa muvakkat fatura tutarı katileşmiş olur

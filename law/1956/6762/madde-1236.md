@@ -1,0 +1,4 @@
+Madde 1236 – Deniz ödüncündeki akdi rehin dışında gemi alacaklılarının gemi ve teferruatı üzerinde kanuni bir rehin hakları vardır.
+Rehin hakkı gemiye zilyed olan her üçüncü şahsa karşı ileri sürülebilir.
+Devlet, vilayet, belediye ve diğer amme hükmi şahıslarına ait olup denizde kazanç elde etme maksadına tahsis edilmiyen veya fiilen böyle bir maksat için kullanılmıyan gemiler üzerinde kanuni rehin hakkı doğmaz. Şu kadar ki; bu hükmi şahıslar 1235 inci maddedeki gemi alacaklılarına karşı; gemi ve teferruatının alacaklara sebep olan yolculuk sonundaki değeri ile aynı yolculukta kazanılan navlun tutarı, gemi alacaklıları arasında kanun sıralarına göre paylaştırılmış olsaydı alacaklılara düşecek miktar ne idiyse o nispette şahsan mesuldürler. 1252 ve 1253 üncü maddelerle 1255 inci maddenin 2 nci fıkrası ve 1256 ncı madde hükmü burada da tatbik olunur.
+2. Navlun:

@@ -1,0 +1,1 @@
+Madde 1442 – Başkası hesabına sigorta halinde sigortalı yukarıki maddede yazılı olanlardan başka, sigorta ettirene mukavelenin akdi hususunda vekalet verdiğini de ispata mecburdur. Sigorta vekalet olmaksızın yapılmışsa sigortalı, sigortanın kendi menfaatine yapıldığına delalet eden olayları ispat etmeye mecburdur.

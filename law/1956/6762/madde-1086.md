@@ -1,0 +1,6 @@
+Madde 1086 – Eşya taşıma mukavelesinin hükümden düşmesi, kaptanın, geminin zıyaından sonra da yükle ilgili olanların gıyabında 995 - 997 nci maddeleri ge
+2951
+reğince onların menfaatini korumak hususundaki vazifesini değiştirmez. Bu itibarla kaptan, acil hallerde önceden danışmaya dahi lüzum kalmaksızın halin icaplarına göre ya yükü ilgililerin hesabına başka bir gemi ile varma limanına taşımaya veyahut da yükün depo edilmesini veya satılmasını temin etmeye ve yükün taşıtılması veya depo edilmesi halinde de, gerek bunun ve gerekse yükün bakımı için lazım olan paraları elde etmek maksadiyle yükün bir kısmını satmaya veya taşıtılması halinde yükü tamamen veya kısmen deniz ödüncüne karşı rehnetmeye salahiyetli ve mecburdur.
+Mesafe navlunu ile taşıyanın 1069 uncu madde gereğince istiyebileceği diğer alacakları ve yükü takyideden müşterek avarya gareme payları; kurtarma ve yardım masrafları ve deniz ödüncü paraları ödenmedikçe veya temin edilmedikçe kaptan yükü elden çıkarmaya veya taşıtmak üzere başka bir gemiye teslim etmeye mecbur değildir.
+Birinci fıkraya göre kaptana düşen vazifelerin yapılmamasından doğacak zararlardan donatan dahi navlun ile ve gemiden bir şey kurtarılmış oldukça gemi ile mesuldür.
+d) Yükün zıyaa uğraması:

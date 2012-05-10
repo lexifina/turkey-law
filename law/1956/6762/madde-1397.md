@@ -1,0 +1,2 @@
+Madde 1397 – Müşterek avaryadan sayılan veya müşterek avarya hükümlerine tabi tutulan zararlara uğramış olmasından dolayı sigortalının müşterek avarya hükümleri uyarınca üçüncü şahıstan alacaklı bulunması halinde sigortacı, ancak usulüne göre dispeç yapılmış olduğu takdirde ve (Tazminat alacağının alınması neticesine ulaştırmayacağı anlaşılan davalar hariç) sigortalının hakkını aramak için gerekli bütün tedbirlere başvurmuş olmasına rağmen üçüncü şahıstan alacağını alamamış olduğu nispette mesuldür,
+5. Kusur olmaksızın dispeçin yapılmaması:

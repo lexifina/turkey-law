@@ -1,0 +1,1 @@
+Madde 719 – Hesaba geçirilmek üzere çekilen bir çekin hamili; muhatabın, çek bedelini kayıtsız ve şartsız alacak diye hesaba geçirmekten imtina veya ödeme yerindeki takas odasının, bu çekin, hamilin borçlarına mahsubedilmek kabiliyetini haiz olmadığını beyan etmiş olduğunu ispat ederse müracaat haklarını kullanabilir.

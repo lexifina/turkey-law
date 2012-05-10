@@ -1,0 +1,2 @@
+Madde 602 – Vadenin geçmesinden sonra yapılan ciro, vadeden önce yapılan bir cironun hükümlerini doğurur; şu kadar ki; ödenmeme protestosundan yahut bu protestonun tanzimi için muayyen olan müddetin geçmesinden sonra yapılan ciro ancak alacağın temliki hükümlerini meydana getirir.
+Aksi sabit oluncaya kadar tarihsiz bir ciro protestonun tanzimi için muayyen olan müddetin geçmesinden önce yapılmış sayılır.

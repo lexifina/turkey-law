@@ -1,0 +1,2 @@
+Madde 1466 – Ticari hükümlerle yasak edilmiş bulunan muamele veya şartlar, aksine hususi bir hüküm bulunmadıkça, batıldır; şu kadar ki, bir akit hükmünce yerine getirilmesi gereken edalar hakkında kanun veya salahiyetli makamların kabul etmiş olduğu en yüksek haddi aşan mukaveleler, en yüksek had üzerinden yapılmış sayılır ve bu hadden fazla olan edalar, hata ile yapılmış olmasa dahi geri alınır. Bu hallerde Borçlar Kanununun 20 nci maddesinin ikinci fıkrasının son cümlesi tatbik olunmaz.
+H) Kaptanla gemide bulunan kimselerin münasebetlerine ait çeşitli hükümler:

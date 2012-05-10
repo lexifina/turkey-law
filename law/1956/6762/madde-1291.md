@@ -1,0 +1,4 @@
+Madde 1291 – Sigorta ettiren kimse sigortacının muvafakati olmaksızın sigortalı, malın yerini veya mukavele zamanındaki halini değiştirdigi takdirde bu değişiklik mukavelenin yapıldığı anda mevcut olduğu halde sigortacının sigorta mukavelesini yapmamasını veya daha ağır şartlarla yapmasını mucip bir mahiyette ise, sigortacı mukaveleyi feshedebilir.
+Birinci fıkrada yazılı değişikliği yapan kimse keyfiyeti sekiz gün zarfında sigortacıya bildirmişse sigortacı ihbar tarihinden itibaren sekiz gün içinde fesih hakkını kullanmadığı takdirde sigortanın hükmü devam eder.
+Sigorta ettiren kimse değişiklik keyfiyetini sigortacıya ihbar etmediği halde dahi sigortacı vakı değişikliği öğrendikten sonra sekiz gün içinde feshetmez veya sigorta primini tahsil etmek gibi sigorta hükmünün devamına razı olduğunu gösteren bir harekette bulunursa fesih hakkı düşer.
+3. Rizikonun gerçeklenmesi halinde:

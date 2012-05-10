@@ -1,0 +1,2 @@
+V - Karar defteri:
+Madde 78 – Hükmi şahıs olan tacirler tarafından tutulan karar defterine gerek umumi heyet veya ortaklar heyeti, gerek varsa idare meclisi tarafından müzakere neticesinde ittihaz olunan kararlarla toplantıda hazır bulunan azaların adları ve soyadları ve toplantı günü ile beyan edilen rey ve müzakerelerin tam bir surette bilinmesi için gerekli diğer hususlar geçirilir ve bu kararların altı şirket namına imza koymaya salahiyetli olanlar tarafından imza edilir.

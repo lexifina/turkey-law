@@ -1,0 +1,4 @@
+Madde 1141 – Satıcı, satılan malların hepsini mukavele ile muayyen tarihte ve müddet içinde yahut mukavele yoksa münasip bir müddet içinde gemiye yüklemek veya taşıyıcıya, yükletilmek üzere teslim etmekle mükelleftir.
+Satıcı, malların usulüne muvafık olarak yükletildiğini bir yükleme konişmentosu ile ispat eder. Tesellüm konişmentosu halinde; yüklemenin konişmentoda yazılı tarihte hakikaten yapılmadığını alıcı her zaman ispat edebilir. Şu kadar ki; tesellüm konişmentosu 1097 nci maddenin son fıkrasının son cümlesinde yazılı şerhi ihtiva ederse alıcı hilafını ispat edemez.
+Mallar memleket içindeki bir şehirden veya nehir üzerinde bulunan bir limandan sevk edildiği ve mezkür malları taşıyacak bütün vasıtalar için tek konişmento tanzim kılındığı takdirde bu malların yükletildiği ilk vasıta ile sevk edildiği tarih, yükleme tarihi hükmünde tutulur.
+c) Gecikme:

@@ -1,0 +1,3 @@
+Madde 182 – Şirketin iflası, ortakların iflasını gerektirmez. Ancak depo kararına rağmen para yatırılmadığı takdirde alacaklı depo kararının ortaklara veya içlerinden bazılarına da tebliğini ve muktezasını yerine getirmedikleri takdirde şirketle birlikte iflaslarına karar verilmesini mahkemeden talebedebilir. Bu hakkını kullanmamış olan alacaklının, şirket masasından alacağını tamamen alamaması halinde ortakları iflas yoliyle dahi ayrıca takip hakkı mahfuzdur.
+Ortakların mallarına gerek adi takip gerek iflas yolu ile müracaat olunursa bunların şahsi alacaklıları ile şirket alacaklıları arasında bir tekaddüm ve imtiyaz hakkı yoktur. Ancak şahsi alacaklılar arasında kanunen rüçhan hakkı olanların bu hakları mahfuzdur.
+3. Ortakların hakları:

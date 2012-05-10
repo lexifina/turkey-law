@@ -1,0 +1,2 @@
+IV - Sahibinin lehinde:
+Madde 85 – Kanuna uygun bir surette tutulan ve birbirini teyit eden ticari defterlerin münderecatı sahibi lehine delil ittihaz olunur; şu kadar ki hasım tarafın keza kanuna uygun surette tutulmuş olan ve birbirlerini teyideden defterleri buna aykırı olur veya bu hususta hiçbir kaydı havi bulunmazsa yahut iddianın dayandığı kaydın aksi, vesika veya diğer muteber delillerle ispat edilirse sözü geçen kaydın ispat kuvveti kalmaz.

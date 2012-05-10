@@ -1,0 +1,4 @@
+Madde 787 – Taşıyıcı aleyhine açılacak tazminat davaları, birinci veya sonuncu taşıyıcı aleyhine ikame edilmek lazımdır. Bu davanın aradaki bir taşıyıcı aleyhine açılabilmesi için, zıya ve hasarın bu taşıyıcının taşıdığı zaman içinde meydana geldiğini ispat etmek şarttır.
+Bir taşıyıcı mesul olmadığı fiillerden dolayı tazminat verir veya bu yüzden aleyhine dava açılırsa, doğrudan doğruya kendisinden önce gelen taşıyıcıya yahut esasen mesul olmaları lazım gelen aradaki taşıyıcılara rücu hakkı vardır.
+Zıya ve hasardan dolayı mesul olması lazımgelen taşıyıcı tayin edilemediği takdirde zarar, bütün taşıyıcılar arasında herbirinin taşıma ücretindeki hissesi ile mütenasip olmak üzere bölünür. Bununla beraber zıya ve hasarın, eşyayı kendisi taşıdığı zaman içinde vakı olmadığını ispat eden taşıyıcı tazmin edilecek zarara iştirak etmez.
+d) Dava hakkının düşmesi:

@@ -1,0 +1,3 @@
+Madde 207 – Tasfiye memurları tasfiye zamanında ortakların tasfiyeye mütaallik ittifakla verdikleri kararlara göre hareket ederler.
+Tasfiye memurlarının tayini ve azli veya onlara verilecek talimatla ilgili kararlara iştirak hakkı, bir ortağın iflası halinde iflas idaresine, ölümü halinde mirasçılara ve hacir altına alınması halinde kanuni mümessile aittir. Mirascılar bu hususata ittifakla bir mümessil tayin ederler. İttifak hasıl olmadığı takdirde mümessilin tayini mahkemeye aittir.
+Ortaklarla tasfiye memurları arasında çıkan ihtilaflar, basit muhakeme usulüne göre incelenir. Tasfiye memurları ve ortaklar dinlenir. Kararın en kısa bir zamanda verilmesi lazımdır. Bu husustaki kararlar katidir.

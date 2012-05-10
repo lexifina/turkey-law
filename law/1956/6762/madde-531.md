@@ -1,0 +1,3 @@
+Madde 531 – Çıkarılan ortağın payı paraya çevrildiği halde elde edilen para şirkete olan borcuna yetmezse, adı geçen ortağın pay defterine kaydedildiği tarihten önce beş yıl içinde pay defterine kayıtlı bütün selefleri aradaki farktan dolayı şirkete karşı ikinci derecede mesul olurlar. Ancak, çıkarma tarihine göre en az on yıl evvel ortak sıfatını kaybetmiş olanlar bu hükümden müstesnadır.
+Bu mesuliyet kayıt sırasına göre olup ödemede bulunan eski ortağın, kendisinden önce gelen kimselere rücu hakkı vardır.
+Ancak, sıra itibariyle sonra gelen kimse,davet tarihinden itibaren bir aylık müddet içinde ödemede bulunmadığı takdirde ondan önce gelene müracaat edilir.

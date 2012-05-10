@@ -1,0 +1,2 @@
+Madde 1448 – Sigortacı, poliçe sigorta ettirenin elinde bulunduğu müddetçe sigortalıya veya sigortalının alacaklarına yahut iflas masasına ödemede bulunmak veya onlarla mukavele yapmak suretiyle sigorta ettirenin 1447 nci maddede yazılı hakkını ihlal ederse, sigorta ettirene karşı mesul olur.
+Sigortacının poliçe üzerinde hakkı olan üçüncü şahsa karşı, bu hakka dair mukaveleler yapmak yahut poliçeyi geri almadan veya üzerine lazım gelen şerhi yapmadan sigorta paraları ödemek suretiyle dereceye kadar mesul olacağı Borçlar Kanunu hükümlerine göre tayin olunur.

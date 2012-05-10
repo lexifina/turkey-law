@@ -1,0 +1,2 @@
+Madde 905 – İpotekli alacaklı ikametgahını değiştirip de bunu sigortacıya bildirmezse 903 üncü madde gereğince yapılacak ihbarın, alacaklının son adresine taahhütlü bir mektupla bildirilmesi kafidir. İhbar; alacaklının ikametgahını değiştirmemiş ve muntazam işliyen nakil vasıtasiyle yapılmış olması halinde hangi tarihte eline geçecek idi ise o tarihten itibaren hüküm ifade eder.
+4. Sigortacının borcundan kurtulması:

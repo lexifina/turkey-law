@@ -1,0 +1,3 @@
+B) Nev'in değiştirilmesi:
+Madde 268 – Bir kollektif şirket tasfiye edilmeksizin, bütün ortaklar tarafından ittifakla verilecek ve ticaret siciline tescil ve ilan edilecek bir kararla komandit şirkete çevrildiği takdirde eski ortaklardan komanditer sıfatını kazananlar üçüncü şahıslara karşı bu sıfatı ancak keyfiyetin tescil ve ilan tarihinden sonra vukubulan işlerden dolayı dermeyan edebilirler.
+Bir komandit şirket tasfiye edilmeksizin bütün ortaklar tarafından ittifakla verilecek ve ticaret siciline tescil ve ilan edilecek bir kararla kollektif şirkete çevrildiği takdirde komanditer sıfatını kaybeden ortakların mesuliyeti hakkında 178 inci madde hükmü tatbik olunur.

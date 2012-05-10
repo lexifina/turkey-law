@@ -1,0 +1,2 @@
+Madde 1228 – Kurtarma veya yardım hakkında yapılan bir mukavele tehlike zamanında ve tehlikenin tesiri altında yapılmış ve kabul edilen şartlar hak ve nasafet esaslarına aykırı bulunmuş olursa, talep üzerine mahkeme tarafından değiştirilebilir yahut iptal olunabilir. Mukaveleyi yapanlardan biri hile ile mukaveleyi yapmaya sevk edilmiş olur yahut kurtarma veya yardım ücreti, yapılan hizmetlerle herhangi bir cihetten aşırı derecede nispetsiz bulunursa aynı hüküm tatbik olunur.
+2. Ücretin indirilme veya kaldırılması:

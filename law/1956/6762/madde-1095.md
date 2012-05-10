@@ -1,0 +1,3 @@
+B) Mürekkep yolculuk:
+Madde 1095 – Geminin yükü almak üzere yükleme limanına safra ile yolculuk yapmak mecburiyetinde kalması halinde de 1082 - 1094 üncü maddeler tatbik olunur. Fakat böyle bir halde yolculuk ancak yükleme limanından hareketten sonra başlamış sayılır. Gemi yükleme limanına ulaştıktan sonra bu limandan yolculuğa başlanmadan önce olsa bile mukavele kendiliğinden veya cayma neticesinden hükümden düşerse taşıyan, yükleme limanına olan yolculuk için 1085 inci maddedeki esaslara göre hesaplanacak bir mesafe tazminatı alır.
+Diğer mürekkep yolculuklarda 1082 - 1094 üncü maddeler ancak mukavelenin mahiyeti ve muhtevası mani olmadığı nispette tatbik olunur.

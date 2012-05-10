@@ -1,0 +1,1 @@
+Madde 1115 – Tazminatın hesap ve ödenmesinde Borçlar Kanununun 83 üncü maddesi hükmü tatbik olunur. Şu kadar ki; hesap geminin varma yerine ulaşması sırasındaki rayiç üzerinden yapılır. 1112 nci maddenin ikinci fıkrası hükmü burada da tatbik olunur.

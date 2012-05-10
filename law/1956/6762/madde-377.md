@@ -1,0 +1,2 @@
+Madde 377 – Bilançonun tasdikı hakkındaki müzakere, ekseriyetin veya şirket sermayesinin onda birine sahip olan azlığın talebi üzerine bir ay sonraya bırakılır; keyfiyet 368 inci maddede yazılı olduğu üzere pay sahiplerine bildirilir ve usulü dairesinde ilan olunur. Bununla beraber azlığın talebi üzerine bir defa tehir edildikten sonra tekrar müzakerelerin geri bırakılması talebolunabilmek için bilançonun itiraza uğrayan noktaları hakkında gereken izahatın verilmemiş olması şarttır.
+2822

@@ -1,0 +1,3 @@
+Madde 1357 – Donatım masrafları veya gemi adamlarına ödenecek ücretler veya navlun, yolculuk sırasında ve varma yerinde yapılacak masraflar sigorta ettirilmiş olduğu takdirde sigortacı, masraflardan, ücretlerden veya navlundan kaza neticesinde tasarruf edilen kısım için tazminat vermez. Masraflar ve ücretler, ayrı ayrı sigorta ettirilmiş olsun veya gayrisafi navlunun sigorta ettirilmesi suretiyle sigorta ettirilmiş bulunsun yahut navlunla beraber yolculuk sırasında ve varma limanında yapılacak masraflar dahi yükün sigorta ettirilmesi sırasında sigortalanmış olsun, hüküm değişmez.
+5. Umulan kar ve komisyonun değeri:
+a) Umumi olarak:

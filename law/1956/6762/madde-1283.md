@@ -1,0 +1,3 @@
+Madde 1283 – Sigortacı, sigorta ettiren veya sigortadan faydalanan kimsenin ancak hakikaten uğradığı zararı tazmine mecburdur. Sigorta bedeli sigorta olunan menfaatin değerini aşarsa sigortanın bu değeri aşan kısmı batıldır. Bu sebeple sigorta bedeli indirilir, sigorta priminin dahi ona tekabül eden kısmı indirilir ve primin fazla tahsil edilen kısmı geri verilir; şu kadar ki; menfaat değeri tarafların rey birliği ile seçtikleri bilir kişiler tarafından önceden takdir ve tahmin edilmiş ve taraflarca kabul olunmuşsa sigortacı bu değere itiraz edemez.
+2994
+2. Umulan karın sigorta ettirilmesi halinde:

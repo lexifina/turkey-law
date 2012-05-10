@@ -1,0 +1,2 @@
+Madde 975 – Kaptan; yükleme ve boşaltma aletlerinin maksada elverişli bir halde bulunmasına ve istif işleri hususi istifçiler tarafından görülse bile, istifin denizcilikte cari olan usul ve örflere uygun bir tarzda yapılmasına dikkat etmeye mecburdur.
+Kaptan; denizcilik örf ve usullerince geminin aşırı derecede yüklü olmamasına, lüzumlu safranın yerinde olmasına ve ambarların akit uyarınca taşınacak olan malların kabulüne, taşınmasına ve korunmasına elverişli ve tertibatlı bir halde bulunmasına dikkate mecburdur.

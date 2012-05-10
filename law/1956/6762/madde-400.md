@@ -1,0 +1,3 @@
+Madde 400 – Hisse senedi şirkete karşı bölünemez. Bir hisse senedinin birden fazla sahibi bulunduğu takdirde bunlar, şirkete karşı haklarını ancak müşterek bir mümessil vasıtasiyle kullanabilirler. Müşterek bir mümessil tayin etmedikleri takdirde şirketçe bunlardan birisine yapılacak tebliğ hepsi hakkında muteber olur.
+2827
+Umumi heyet, esas sermaye miktarı aynı kalmak üzere esas mukaveleyi değiştirmek suretiyle hisse senetlerini itibari kıymetleri daha az olan hisse senetlerine bölmek veya itibari kıymetleri daha yüksek olan hisse senetleri halinde birleştirmek salahiyetini haizdir. Şu kadar ki; hisse senetlerinin birleştirilmesi her pay sahibinin muvafakatine bağlıdır. 399 uncu madde hükmü mahfuzdur.

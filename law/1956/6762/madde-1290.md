@@ -1,0 +1,3 @@
+Madde 1290 – Sigorta ettiren kimse, sigortacının mukavele yapılırken hakiki vaziyetleri bildiği takdirde mukaveleyi yapmamasını veya daha ağır şartlarla yapmasını mücip olacak bütün hususları sigortacıya bildirmeye mecburdur. Sigorta ettiren kimse sorulduğu halde susmuş veya noksan yahut hakikata muhalif beyanlarda bulunmuş ise hakikata vakıf olmıyan sigortacı mukaveleden cayabilir; şu kadar ki; sigortacı hakikatı öğrendiği tarihten itibaren bir ay içinde cayma hakkını kullanmamış ise bu hak düşer. Sigorta ettiren kimsenin kötü niyeti anlaşıldığı takdirde sigortacı prime hak kazanır.
+Sigorta mukavelesinin yapılması sırasında sigorta ettirene doldurması teklif olunan listede yazılı sorular dışında hiçbir mesuliyet tevaccüh etmez.
+2. Sigorta müddeti içinde:

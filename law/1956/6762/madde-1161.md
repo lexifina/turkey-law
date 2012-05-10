@@ -1,0 +1,2 @@
+II - Zaruretin tevsiki:
+Madde 1161 – Deniz ödüncü senedinin tanziminden önce muamelenin yapılmasındaki zaruret; Türk konsolosu, bulunmadığı takdirde senedin tanzim edildiği yerdeki mahkeme ve bu da yoksa salahıyetli liman başkanlığı ve bunun da bulunmaması halinde bütün gemi zabitleri tarafından yazılı olarak tevsik edildiği takdirde kaptanın, yapmış olduğu muameleye salahiyetli olduğu kabul olunur. Bununla beraber aksi ispat olunabilir.

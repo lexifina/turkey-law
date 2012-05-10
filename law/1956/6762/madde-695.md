@@ -1,0 +1,3 @@
+Madde 695 – Bir çekin keşide edilebilmesi için, muhatabın elinde keşidecinin emrine tahsis edilmiş bir karşılık bulunması ve keşidecinin bu karşılık üzerinde çek keşide etmek suretiyle tasarruf hakkını haiz bulunacağına dair muhatapla keşideci arasında açık veya zımni bir anlaşma mevcut olması şarttır. Şu kadar ki; bu hükümlere riayetsizlik halinde senedin çek olarak muteber olmasına halel gelmez.
+Keşideci; muhatap nezdinde çekin ancak bir kısım karşılığını hazır bulundurduğu takdirde muhatap bu kısmi karşılığın tutarını ödemekle mükelleftir.
+Gösterilen paraya mukabil muhatap nezdinde karşılığı bulunmadan bir çek keşide eden kimse; çekin kapatılmıyan miktarının yüzde beşini ödemekle mükellef olduktan başka hamilin bu yüzden uğradığı zararı tazmine mecburdur.

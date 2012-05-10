@@ -1,0 +1,7 @@
+Madde 1230 – Bir gemi veya yükü,bir başka gemi tarafından tamamen veya kısmen emniyet altına alınır veya kurtarılırsa, kurtarma veya yardım ücreti, öteki geminin donatanı, kaptanı ve diğer gemi adamları arasında; ilk önce donatana yardım veya kurtarma yüzünden geminin uğradığı zararla işletme yüzünden yapılan fazla masraflar tazmin edildikten sonra bakıyeden vapur donatanına üçte iki, yelkenli donatanına yarısı, vapur kaptanı ve diğer gemiadamlarına altıda birer, yelkenli kaptanı ve diğer gemiadamlarına dörtte birer verilmek suretiyle pay edilir.
+Kaptan müstesna olmak üzere gemiadamlarına düşen miktar, herbirinin bilhassa maddi ve şahsi hizmeti gözetilerek aralarında pay edilir. Pay yolculuk bitmeden gemiadamlarına bildirilir ve her birinin payını gösteren bir cetvele göre kaptan tarafından yapılır.
+Pay cetveline karşı cetvelin bildirilmesinden sonra ilk varılan yerdeki mahkemeye veyahut da geminin bu yolculuktan bağlama limanına dönmesinden itibaren on gün içinde o yerdeki mahkemeye itiraz olunabilir.
+Mahkemece ilgililer dinlendikten sonra pay cetveli aynen veya lüzumunda değiştirilerek tasdik olunur. Bu karar katidir. Kararın bir sureti mahkemece gecikmeden donatana re'sen tebliğ edilir.
+2983
+Bir ve ikinci fıkralara aykırı mukaveleler hükümsüzdür.
+Kurtarma veya yardım işlerinin bu maksada tahsis edilmiş olan gemi veya römorkör tarafından yapılması halinde yukarki hükümler tatbik olunmaz.

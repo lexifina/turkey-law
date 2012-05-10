@@ -1,0 +1,2 @@
+Madde 1047 – Taşıtan, yüklemeden sonra tam navlunu ve taşıyanın 1069 uncu madde gereğince haiz olduğu diğer bütün alacakları ödemek ve 1070 inci maddede yazılı alacakları da tediye veya temin etmek şartiyle yalnız 1045 inci maddenin ikinci bendinin birinci fıkrası hükmüne göre mukaveleden cayarak yükün gemiden çıkarılmasını istiyebilir. Bu takdirde 1041 inci maddenin üçüncü fıkrası hükmü de tatbik olunur.
+3. Hareket gücünün mahkemece tayini:

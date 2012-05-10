@@ -1,0 +1,1 @@
+Madde 935 – Borçlu, ödeme neticesinde ipoteği iktisap eder veya aynı sebepten dolayı gemi sicilinin tashihinde menfaattar bulunursa alacaklıdan sicilin tashihi için lüzumlu vesikaları kendisine vermesini istiyebilir.

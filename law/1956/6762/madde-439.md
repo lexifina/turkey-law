@@ -1,0 +1,2 @@
+Madde 439 – Şirketin diğer bir şirketle birleşmesi, bir limited şirket şekline çevrilmesi veya bir amme hükmi şahsı tarafından devralınması halleri haric olmak üzere, infisah eden şirket tasfiye haline girer.
+Tasfiye haline giren şirket, pay sahipleriyle olan münasebetlerinde dahi, tasfiye sonuna kadar ve ehliyeti, 232 nci madde hükmü mahfuz olmak kaydiyle tasfiye gayesiyle mahdut olarak hükmi şahsiyetini muhafaza ve ticaret ünvanını (tasfiye halinde) ibaresini ilave suretiyle kullanmakta devam eder.

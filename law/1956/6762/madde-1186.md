@@ -1,0 +1,2 @@
+Madde 1186 – Geminin yalnız batmak veya zaptedilmek tehlikesinden korunması için bilerek karaya oturtulması halinde; karaya oturma ve yeniden yüzdürmeden çıkan zararlar ve yüzdürme masrafları müşterek avarya olarak kabul olunur. Şu kadar ki; zikri geçen tedbir alınmamış olsaydı geminin mutlaka sahil veya kayalara bindireceği anlaşılırsa yalnız yüzdürme masraf ve zararları müşterek avarya kabul olunur.
+4. Geminin yüzdürülmesi:

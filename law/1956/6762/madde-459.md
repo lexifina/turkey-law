@@ -1,0 +1,2 @@
+Madde 459 – Kuruluş, teşkilat ve idare masrafları kar ve zarar hesabında, masraf olarak gösterilir. Şu kadar ki; ilk tesisat veya işletmenin sonradan genişletilmesi veya işletmenin değiştirilmesi için esas mukavele yahut umumi heyet kararlarında derpiş olunan teşkilat masrafları, Damga Resmi tutarları, en çok beş yıllık bir zamana bölünebilir. Bu suretle her yıla ait olan miktar o yılın kar ve zarar hesabında masraf olarak gösterilir.
+2. Devamlı tesisat:

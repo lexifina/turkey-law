@@ -1,0 +1,19 @@
+Madde 1199 – Eski malzeme veya parçalar yenileriyle değiştirildiği takdirde müşterek avarya tazminatı hesabında müşterek avarya olarak ödenmesi kabul edilen tamir tutarlarından yeni ve eski farkları, 1191 inci maddenin son fıkrası hükmü mahfuz kalmak üzere, aşağıdaki hükümlere göre indirilir:
+Esas itibariyle indirmeler geminin yaşına göre hesabedilir; geminin ilk defa olarak gemi siciline kaydolunduğu tarihten kazanın vukubulduğu tarihe kadar geçen müddet geminin yaşı itibar olunur. Ancak, kumanya ve demirbaş eşya, izolasyon tertibatı, kurtarma sandalları ve benzerleri, ciro (gyro) puslası tertibatı, telsiz aletleri, istikamet gösteren aletler ile iskandil aletleri ve benzerlerinde ve makine ve kazanlarda indirme, ilgili eşyanın kendi yaşına göre yapılır.
+Kullanılmamış olan kumanya, istihlak maddeleri ve aletler hakkında hiçbir indirme yapılmaz.
+2976
+İndirme yeni malzeme ve parçaların değeri üzerinden yapılır. Hasarı tesbit masrafları müstesna, bu değere işçilik ve yerleştirme masrafları da dahildir.
+Kızak ve havuz ücretleriyle geminin yer değiştirme masrafları tam olarak kabul olunur.
+Kazaya takaddüm eden altı ay zarfında boyanmış ise karinayı temizleme ve boyama masrafları da hesaba ithal edilir.
+A) Bir yaşına kadar bütün tamir masrafları tam olarak kabul edilir. Ancak, karinayı kazıma, temizleme, boyama veya ziftleme masraflarından üçte biri indirilir.
+B) Bir yaşından üç yaşına kadar: Karinayı kazıma, temizleme ve boyama masraflarından (A) bendine göre indirme yapılır.
+Zincir ve madeni teller hariç olmak üzere yelkenler, teçhizat, halatlar, ipler, ambar kapakları, palamar, örtüler, muşambalar, kumanya ve istihlak maddeleri ve boya bedellerinden üçte bir indirilir.
+Ambarın iç döşemeleri, tahta direkler ve sırıklar ve sandallar dahil teknenin ahşap kısımları, mobilya, mefruşat, tabak, çanak takımları, madeni ve cam eşya, teller ve madeni palamar, ciro (gyro) pusları tertibatı, telsiz telgraf aletleri, istikamet tayin eden aletler, akis yoliyle iskandil ve benzeri cihazlar, çapa zinciri ve zincirler, izolasyon tertibatı, yardımcı makineler, dümen cihazları ve teferruatı, maçuna, vinç ve elektrik makineleri ve teferruatı (Elektrik tahrik makineleri hariç) değerleri üzerinden altıda bir indirilir. Diğer tamirler tam bedelleriyle kabul olunur.
+Ahşap veya muhtelif teknelerde madeni kaplamalar asağıdaki şekilde muamele görür:
+Gemiden çıkarılan madeni kaplamaların gayrisafi ağırlığına müsavi bir miktarın bedelinden hurdanın satış tutarı düşürülür ve bakıye meblağ tam olarak kabul edilir. Yeni kaplamalar yapmak için kullanılan çiviler, keçe ve işçilik üçte bir tenzilata tabidir.
+C) Üç yaşından altı yaşına kadar; İndirme yukardaki (B) bendine uygun olarak yapılır. Ancak, ambarın iç döşemeleri dahil teknenin tahta kısımlarından, ahşap direk, sırık ve sandallardan, mobilya ve mefruşattan üçte bir ve direk ve sırıkların demir kısımlariyle (Kazanlar ve teferruatı dahil) bütün makinelerden altıda bir indirilir.
+D) Altı yaşından on yaşına kadar: İndirme (C) bendine göre yapılır. Ancak, bütün teçhizatın, ip ve halatların, iskota ve palamarların, direk ve sırıkların demir kısımlarının, ciro (gyro) pusla tertibatının, telsiz telgraf aletlerinin, istikamet gösteren cihazlarla akis yoliyle iskandil cihazları ve benzerlerinin, izolasyon tesisatının, yardımcı makineler, dümen cihazları, maçuna, vinç ve teferruatı ile (Kazanlar ve teferruatı dahil) sair bütün makinelerin bedellerindenüçte bir indirilir.
+E) On yaşından onbeş yaşına kadar: Bütün yenilemelerden üçte bir indirme yapılır. Ancak, teknenin demir aksamı ile çimento işleri ve çapa zincirlerinden altıda bir indirilir. Çapalar ise tam bedelle hesaba alınır.
+F) On beş yaşından sonra: Bütün yenilemelerden üçte bir indirilir. Ancak, çapa zincirleri altıda bir indirmeye tabidir. Çapalar ise tam bedelle hesap edilir.
+2. Yük hakkında:
+a) Umumi olarak:

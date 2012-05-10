@@ -1,0 +1,2 @@
+Madde 908 – Sigortacı, muacceliyet kesbeden sigorta primlerini ve sigorta mukavelesi gereğince yapılması lazımgelen diğer ödemeleri, kanunen reddedebileceği hallerde bile, sigortalıdan ve ipotekli alacaklıdan kabul etmeye mecburdur.
+İpotekli gemi, sigorta primlerinin yahut sigorta mukavelesi gereğince sigortacıya yapılması lazımgelen başka ödemelerin ifası için alacaklı tarafından sarf edilen paralarla bunların faizlerini de temin eder.

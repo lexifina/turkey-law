@@ -1,0 +1,1 @@
+Madde 1274 – Sigorta olunan şeye hakkı taallük eden alacaklıların imtiyaz dereceleri birbirinden farklı ise bu şeyin değeri imtiyaz derecesi sonradan gelen alacaklının alacağını ifaya kafi olmadığı nispette bu alacaklı o şeyi sigorta ettiremez.

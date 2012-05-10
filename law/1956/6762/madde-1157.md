@@ -1,0 +1,3 @@
+Madde 1157 – Satış bedeli tutarının, boşaltma zamanında tahakkuk edecek veya kabul edilecek tartı üzerinden ödeneceğine dair olan şart muteberdir. Bu suretle mukavele münderecatına göre muvakkat bir fatura tanzim edilerek vesikaların ibrazında ödenecek olan para satış bedelinin yüzde yetmiş beşi ile doksanı arasında bir noksanla tayin olunur.
+Malların ulaştığı limanda taraflar veya acenta veyahut temsilcileri hazır olduğu halde usulü dairesinde tartısı yapıldıktan sonra kati fatura tanzim olunur. İki fatura tutarları arasındaki fark, malların tesim alınması tarihinden itibaren sekiz gün içinde icabına göre alıcı tarafından ödenir veya satıcı tarafından kendisine geri verilir.
+b) "Tahminen" veya "katiyen muayyen miktar" kayıtları:

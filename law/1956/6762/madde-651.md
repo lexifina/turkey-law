@@ -1,0 +1,3 @@
+Madde 651 – Poliçe, ikametgahları ödeme yerinde bulunan kimseler tarafından araya girme suretiyle kabul edilmiş veya ikametgahları ödeme yerinde bulunan kimseler lüzumu halinde ödemede bulunmak üzere tayin edilmişler ise hamil en geç, ödememe protestosunun çekilmesi için muayyen olan müddetin bittiği günün ertesi günü poliçeyi bütün bu kimselere ibraz etmeye ve icabında araya girme suretiyle ödemeden imtina edildiğinden dolayı protesto çekmeye mecburdur.
+Protesto vaktinde çekilmemişse, lüzumu halinde ödiyecek kimseyi göstermiş olan veya araya girme suretiyle lehine poliçe kabul edilmiş bulunan kimse ile onlardan sonra gelen borçlular mesuliyetten kurtulmuş olurlar.
+3. Reddin neticesi:

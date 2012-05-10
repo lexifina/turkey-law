@@ -1,0 +1,5 @@
+Madde 955 – Donatma iştirakinin üçüncü şahıslarla olan münasebetlerinde gemi müdürü, bu sıfatla, donatma iştirakinin mütat işleri icaplarından olan bütün muameleleri ve hukuki tasarrufları yapmaya salahiyetlidir. Bu salahiyet; hususiyle geminin donatılmasına va bakımına, taşıma mukavelelerinin yapılmasına, geminin, navlunun donatma masraflarının ve müşterek avaryadan doğan alacakların sigorta ettirilmesine ve işleri mütat seyri dolayısiyle dönen paraların kabzına da şamildir.
+Gemi müdürü bu hudut dahilinde donatma iştirakini mahkemede de temsil eder.
+Gemi müdürü kaptanı tayin ve azletmeye salahiyetlidir. Kaptan yalnız gemi müdürünün talimatına riayetle mükellef olup müşterek donatanlardan her hangi birinin vereceği talimata uymaya mecbur değildir.
+Gemi müdürü ayrıca hususi bir vekaleti haiz olmadıkça, donatma iştiraki veya müşterek donatanlardan her hangi biri namına kambiyo taahhütlerine girmeye yahut ödünç para almaya, gemiyi veya gemi paylarını satmaya, rehnetmeye salahiyetli değildir.
+b) Hükümleri:

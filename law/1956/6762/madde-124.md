@@ -1,0 +1,3 @@
+II - Haber verme borcu:
+Madde 124 – Acente, üçüncü şahısların kabule salahiyetli olduğu beyanlarını, bölgesindeki piyasanın durum ve şartlarını, müşterilerin mali durumunu ve bu durumda vukubulan değişiklikleri ve yapılan muamalelere mütaallik müvekkilini ilgilendiren bütün hususları ona vaktinde bildirmeye mecburdur.
+Müvekkilin açık talimatı olmıyan meselelerde acente, emir alıncaya kadar muameleyi geciktirebilir.Şu kadar ki; işin aceleliği müvekkilinden sormaya müsait olmaz veya acente en faydalı şartlar dairesinde harekete mezun bulunursa basiretli bir tacir gibi kendi görüşüne göre muameleyi yapar.

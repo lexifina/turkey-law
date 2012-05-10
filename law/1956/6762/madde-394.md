@@ -1,0 +1,2 @@
+Madde 394 – Umumi heyetin esas sermayenin artırılmasına mütaallik kararında aksine şart olmadıkça pay sahiplerinden her biri yeni hisse senetlerinden şirket sermayesindeki payı ile mütenasip miktarını alabilir. İdare meclisi pay sahiplerine verilecek senetlerin ihraç bedellerini gazetelerle ilan eder. Bu hususta yapılacak ilanlarda pay sahiplerinin yeni pay alma haklarını kullanabilmeleri için tayin olunacak müddet, 15 günden aşağı olamaz.
+5. Tescil:

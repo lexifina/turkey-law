@@ -1,0 +1,1 @@
+Madde 835 – Harb gemileri ve sahil istihkamları önünde veya Türk limanlarına girerken yahut bunlardan çıkarken ticaret gemisine bayrak çekmiyen kaptan, yüz liraya kadar hafif para cezası veya on beş güne kadar hafif hapis ile cezalandırılır.

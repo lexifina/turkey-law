@@ -1,0 +1,3 @@
+II - Aykırı hareket:
+Madde 173 – Bir ortak yukariki hükme aykırı hareket edecek olursa, şirket, kendisinden tazminat istemekte, veya tazminat yerine o ortağın kendi namına yaptığı işleri şirket namına yapılmış saymakta, üçüncü şahısların hesabına yapmış olduğu işlerden doğan menfaatlerin şirkete bırakılmasını istemekte serbesttir. Bu hususlardan birinin tercihi diğer ortaklara aittir. Bu hak, bir muamelenin yapıldığının yahut ortağın diğer bir şirkete girdiğinin öğrenildiği tarihten itibaren üç ay ve her halde muamelenin yapıldığı tarihten itibaren bir yıl sonra müruruzamana uğrar.
+Yukarıki hükümler, hakları ihlal edilen ortakların, şirketin feshini istemek haklarına halel getirmez.

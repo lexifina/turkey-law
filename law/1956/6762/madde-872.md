@@ -1,0 +1,2 @@
+Madde 872 – Mülkiyetini iktisap etmiş olmadığı halde gemi siciline bir geminin maliki olarak tescil edilmiş bulunan kimse, tescil beş yıl devam etmek ve kendisi de bu müddet zarfında gemiyi fasılasız ve nizasız asli zilyed sıfatiyle yedinde bulundurmak şartiyle mülkiyetini iktisap eder. Bu müddetin hesabı, kesilmesi ve durması Borçlar Kanununun alacak müruruzamanı hakkındaki hükümlerine tabidir. Kaydın doğru olmadığı yolunda gemi sicilinde bir itiraz kayıtlı oldukça müruruzaman durur.
+b) Fevkalade:

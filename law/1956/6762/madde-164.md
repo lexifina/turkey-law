@@ -1,0 +1,1 @@
+Madde 164 – İdare işleri şirket mukavelesiyle bir ortağa verilmişse bu ortak, diğer ortakların itiraz ve muhalefeti vakı olsa bile, hileye müstenit olmamak şartiyle şirketin idaresi için gereken muameleleri yapabilir.

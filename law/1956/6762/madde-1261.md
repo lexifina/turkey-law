@@ -1,0 +1,8 @@
+III - Başlangıç:
+Madde 1261 – Gemi alacakları hakkındaki müruruzaman, alacağın muaccel olduğu tarihten itibaren işlemeye başlar. Ancak:
+1. 1235 inci maddenin 3 üncü bendinde yazılı gemiadamlarının alacakları hakkında hizmet veya iş münasebetinin bittiği tarihten;
+2. 1235 inci maddenin 5 inci bendinde yazılı gemiye düşen dispeç raporiyle tesbit edilmiş bulunan müşterek avarya garame paylarından doğan alacaklar hakkında dispeç raporunun tasdikına ait kararın kesinleşmesinden, ilgililer tarafından dispeç yapmaya mecbur tutulması için kaptan veya donatana karşı açılacak davalar veya 1209 uncu maddenin ikinci fıkrasındaki salahiyetin kullanılması hakkında, müşterek avarya hareketinden sonra geminin 1207 nci madde hükmünce dispeçin yapılması lazımgelen yere vardığı tarihten;
+3. 1235 inci maddenin 7 ve 9 uncu bentlerinde yazılı malların veya bagajın hasarlanmasından veya geç teslim edilmesinden doğan alacaklar hakkında malların teslimi tarihinden, malların teslim edilmemesinden doğan alacaklar hakkında onların teslim edilmiş olmaları gereken tarihten;
+4. Gemiadamlarından birinin kusurundan doğup 1235 inci maddenin 9 uncu bendinde yazılı ve fakat bu maddenin 2 nci bendine girmiyen alacaklar hakkında ilgilinin zararı öğrendiği tarihten, gemilerin çatmasından yahut 1220 nci maddeye giren bir hadiseden doğan tazminat alacakları hakkında ise hadisenin meydana geldiği tarihten;
+5. Kurtarma ve yardım masraf ve ücretlerinden doğan alacaklar hakkında, kurtarma ve yardım işinin bittiği tarihten; itibaren işlemiye başlar.
+Gemiadamlarının avans veya taksit ödenmesini isteme hakları birinci bentte bildirilen müruruzaman başlangıcını değiştirmez.

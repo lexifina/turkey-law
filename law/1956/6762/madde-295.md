@@ -1,0 +1,2 @@
+Madde 295 – Umumi heyetin ikinci toplantısında, 290 ıncı maddede yazılı toplantı nisabının mevcut olduğu anlaşılırsa, bilirkişi raporları okunup incelendikten ve lüzumunda ayın nevinden sermaye koyan kimselerin ve devralınacak işletmenin veya ayınların sahibinin izahları dinlendikten sonra 281 inci maddede yazılı izahnamedeki değerlerin aynen kabul veya reddine yahut ilgililerin muvafakatiyle değiştirilmesine 290 ıncı maddede gösterilen ekseriyetle karar verilir.
+c) Toplantının taliki:

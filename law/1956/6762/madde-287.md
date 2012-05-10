@@ -1,0 +1,3 @@
+Madde 287 – Payların kanunen ödenmesi gereken bedellerinin taahhüt anında ödenmesi şart kılınmadığı takdirde iştirak taahhütleri kurucular tarafından kabul edildikten sonra kurucular iştiraki taahhüdedenlere taahhütlü mektup göndererek ve gazetelerle ilan ederek üzerine aldıkları paylara ait bedellerin muayyen bir müddet içinde ödenmesini ihtar ederler.
+İştiraki taahhüdedenlerin bu müddet içinde bedelleri ödememeleri takdirinde kurucular onların şirketle olan ilgilerini kesmek veya kendilerini taahhüdün ifasına icbar etmek hakkını haizdirler. İştiraki taahhüdedenlerin ilgileri kesildiği taktirde yerlerine geçecek kimseler tarafından payların bedeller ödenmedikçe şirket kurulamaz.
+d) Tevdi:

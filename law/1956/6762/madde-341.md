@@ -1,0 +1,4 @@
+Madde 341 – Umumi heyet; idare meclisi azaları aleyhine dava açılmasına karar verirse yahut dava açılmamasına karar verilip de esas sermayenin en az onda birini temsil eden pay sahipleri dava açılması reyinde bulunursa, şirket, bu karar veya talep tarihinden itibaren bir ay içinde dava açmaya mecburdur. Bu müddet geçirilmesiyle dava hakkı düşmez. Murakıpların ve alacaklıların vekilinin mesuliyeti hakkındaki hükümler mahfuzdur.
+Şirket namına dava açmak, murakıplara aittir. Ancak azlığın reyiyle dava açılması halinde, azlık, murakıplar dışında bir vekil tayin edebilir. Dava açılması reyinde bulunan pay sahipleri hisse senetlerini şirketin zarar ve ziyanına karşı teminat olarak davanın sonuna kadar merhun kalmak üzere muteber bir bankaya yatırmaya mecburdurlar. Davanın reddi halinde pay sahipleri yalnız şirkete karşı tazminat ile mükelleftirler.
+VI - Müdürler:
+1. Mesuliyet:
