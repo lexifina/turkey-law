@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6298",
+  "year": 2012,
+  "title": "Bozulabilir Gıda Maddelerinin Uluslararası Taşımacılığı ve Bu Taşımacılık Faaliyetinde Kullanılacak Özel Ekipmana İlişkin Anlaşmaya Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-05-10",
+  "gazette_issue": "28288",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120510-23.htm",
+  "source_sha256": "07789af438168807f5f964831e16f769952f84ce0bcfc8598cd9b5dd9596b07b",
+  "text_sha256": "4549f88346707be025316fc34b5d6d59a102a0d849179d95980ef703e7c46b8b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/05/10/28288-23",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120510-23.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
