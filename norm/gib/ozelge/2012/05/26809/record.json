@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-019.01-1601",
+  "source_id": 26809,
+  "date": "2012-05-11",
+  "title": "49 yıllığına alınan elektrik üretim lisansı kapsamında inşa edilen elektrik üretim tesisinin ve elektrik üretim lisansının itfası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26809",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7f828e0c2ea23a18341aa429874202ff104acfc6bb46413b674a770698674057",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
