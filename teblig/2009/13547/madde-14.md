@@ -1,0 +1,3 @@
+Teşvik belgesi süresi
+MADDE 14 – (1) İthalat sırasında, teşvik belgesinin geçerlilik süresine (ek süreler de dahil) dikkat edilir. Sona ermiş teşvik belgesine istinaden, hiçbir şekilde beyanname tescil ve kabul işlemi yapılmaz.
+(2) Teşvik belgesi kapsamındaki makine ve teçhizat ithalatının yatırım süresi içerisinde sonuçlandırılmaması durumunda, yatırım süresi içerisinde kambiyo mevzuatında yer alan ödeme şekillerinden herhangi biri ile ithalat işlemlerine başlanılmış veya bedeli kısmen veya tamamen ödenmiş olduğunun tevsik edilmesi halinde, yatırım mallarının ithaline yatırım süresi bitiş tarihini izleyen 4 ay içerisinde doğrudan gümrük idareleri tarafından izin verilir.

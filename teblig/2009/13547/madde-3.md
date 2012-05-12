@@ -1,0 +1,2 @@
+Hukuki dayanak
+MADDE 3 – (1) Bu Tebliğ, Yatırımlarda Devlet Yardımları Hakkında 2009/15199 sayılı Bakanlar Kurulu Kararının 20 nci maddesi uyarınca (Değişik ibare:RG-12/5/2012-28290) Ekonomi Bakanlığınca hazırlanarak yürürlüğe konulan 2009/1 sayılı Yatırımlarda Devlet Yardımları Hakkında Kararın Uygulanmasına İlişkin Tebliğin 14 üncü maddesinin 6 ncı fıkrasına istinaden (Değişik ibare:RG-12/5/2012-28290) Ekonomi Bakanlığından da görüş alınarak hazırlanmıştır.

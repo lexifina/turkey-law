@@ -1,0 +1,41 @@
+{
+  "source_id": "9.5.13547",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (YATIRIM TEŞVİK) (SERİ NO: 9)",
+  "number": "13547",
+  "path": "teblig/2009/13547",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13547&MevzuatTertip=5",
+  "source_sha256": "262c5b0149c00dbc613f4f89814e39f2728c2f8ee014e8a95f32a63c38fe44c3",
+  "source_bytes": 91602,
+  "published": "2009-11-12",
+  "gazette": "27404",
+  "in_force": "2012-05-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/5/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-05-12",
+      "RG-12/5/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-08-17",
+      "RG-17/8/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 16/7/2009 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4498,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
