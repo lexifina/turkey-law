@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.55.15.01-2010-MTV-ÖZE-03-207",
+  "source_id": 36430,
+  "date": "2012-05-12",
+  "title": "Sosyal Yardımlaşma ve Dayanışma Vakıflarının Motorlu Taşıtlar Vergisi Mükellefiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36430",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "3b55e946483bb3e0d9c635e46d660574256b3bfbd169ca1663ebffefac326b6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
