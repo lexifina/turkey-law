@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-05-14",
+  "issue": "28292",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Karayolları Genel Müdürlüğünün Sorumluluğu Altında Bulunan Otoyollar ile Erişme Kontrolünün Uygulandığı Karayollarında Geçiş Ücretlerinin Belirlenmesi ve Uygulanmasına İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120514-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120514.htm",
+  "index_sha256": "9111df5fa87d586383120f2dec6102a6fa2436408b85bbee57190fee112c8259",
+  "index_header": "14 Mayıs 2012 ... 28292 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
