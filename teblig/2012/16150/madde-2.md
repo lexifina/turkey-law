@@ -1,0 +1,5 @@
+Yürürlük süresi sona erecek dampinge karşı önlemler
+MADDE 2 – (1) Aşağıdaki tabloda yer alan dampinge karşı önlemlerin yürürlükte kalma süreleri, karşılarında belirtilen tarihlerde sona erer.
+G.T.İ.P. * | Ürün | Menşe veya İhracatçı Ülke | Önlemin Yayımlandığı Resmi Gazete Tarih ve Sayısı | Tebliğ No | Önlemin Bitiş Tarihi
+9613.10.00.00.00 9613.20.00.00.11 9613.90.00.00.11 | Tekrar doldurulamayan gazlı cep çakmakları / Ateşleme sistemi elektrikli olanlardan yalnız plastik gövdeli doldurulabilen gazlı cep çakmakları / Yalnız plastik gövde (gaz ihtiva etsin etmesin tamamen teçhiz edilmiş plastikten gaz haznesi) | Çin Halk Cumhuriyeti | 1/5/2008 - 26863 | 2008/16 | 1/5/2013
+* 03/03/2011 tarihli ve 27863 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2011/5 sayılı Tebliğ vasıtasıyla mezkur maddelerin gümrük tarife istatistik pozisyonlarına ve madde adlarına ilişkin olarak Türk Gümrük Tarife Cetvelinde Gümrük ve Ticaret Bakanlığı tarafından gerçekleştirilen değişiklikler ilan olunmuştur.
