@@ -1,0 +1,1 @@
+Geçici Madde 5 – Bu Kanunun uygulanması ile ilgili tüzük ve yönetmelikler yürürlüğe girinceye kadar, Türk Dil Kurumu ile Türk Tarih Kurumunun tüzük ve yönetmelikleri ile diğer mevzuatın bu Kanuna aykırı olmayan hükümlerininuygulanmasına devam olunur.

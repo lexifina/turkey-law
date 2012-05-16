@@ -1,0 +1,1 @@
+Geçici Madde 3 – Yüksek Kurum Başkanlığı ile Atatürk Araştırma Merkezi ve Atatürk Kültür Merkezinin bütçe ihtiyaçları, 31 Aralık 1983 tarihine kadar, Başbakanlık Bütçesinden karşılanır. Bu maksatla her türlü işlemi yapmaya Maliye Bakanı yetkilidir.

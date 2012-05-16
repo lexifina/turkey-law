@@ -1,0 +1,1 @@
+Madde 97- c bendi- (1) numaralı alt bendinin ikinci paragrafı- (30/5/1991 tarihli ve 3753 sayılı Kanunun hükmüdür.) Bu şekilde çalıştırılacakların sözleşme usul ve esasları ile ücret miktarı ve her çeşit ödemeleri Bakanlar Kurulunca tespit edilir.

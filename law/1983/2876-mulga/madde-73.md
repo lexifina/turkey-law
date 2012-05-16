@@ -1,0 +1,2 @@
+Atatürk Kültür Merkezinin amacı:
+Madde 73 – Atatürk Kültür Merkezinin amacı, milli varlığımızın ve milli gücümüzün devamında ve gelişmesinde, "Milli kültürümüzü çağdaş medeniyet seviyesinin üstüne çıkarma" ülkümüzde temel unsur olan Türk Kültürünü; Atatürk'çü düşünce, Atatürk ilke ve inkılapları doğrultusunda, bilimsel yoldan incelemek, araştırmak ve bir bütünlük içerisinde yaymak ve yayımlamaktır.

@@ -1,0 +1,1 @@
+Geçici Madde 6 – 23/9/1980 tarihli ve 2302 sayılı Kanunla,Kutlama Koordinasyon Kurulu emrinde oluşturulan Fon, bu Kanunun yürürlüğe girdiği tarihten itibaren en geç bir ay içinde tasfiye olunur. Fon bakiyesi, Bayındırlık Bakanlığı denetiminde münhasıran Atatürk Kültür Merkezi inşatında kullanılmak üzere Maliye Bakanlığına devredilir.

@@ -1,0 +1,3 @@
+Madde 25 – (26/8/1993 tarih ve 519 sayılı KHK'nin hükmüdür.)
+Atatürk Araştırma Merkezi Başkanı, tutum ve davranışları ile Atatürkçü düşünceyi, Atatürk ilke ve inkılaplarını benimsediğini, eserleriyle veya eğitim ve öğretim veya diğer hizmet alanlarındaki çalışmaları ile kanıtlamış, yüksek öğrenim görmüş Devlet memuru olabilmek için gerekli niteliklere sahip adaylar arasından. Yüksek Kurum Başkanı'nın önerisi, ilgili Bakanın uygun görüşü üzerine müşterek kararla atanır.
+Atatürk Araştırma Merkezi Başkanı'nın çalışmalarında kendisine yardımcı olmak üzere asli üyeler arasından önerdiği bir üye, Yüksek Kurum Başkanı'nın önerisi üzerine ilgili Bakan onayı ile atanır. Atatürk Araştırma Merkezi Başkanı'nın bulunmadığı durumlarda, Başkan'ın görevlerini yardımcısı yerine getirir.

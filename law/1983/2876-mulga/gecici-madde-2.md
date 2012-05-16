@@ -1,0 +1,1 @@
+Geçici Madde 2 – Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Başkanlığında ve bağlı Kuruluşlarında asli ve sürekli görevlerde istihdam edilecek personel kadrolarının ilk tespiti Bakanlar Kurulu kararı ile yapılır.

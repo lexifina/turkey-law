@@ -1,0 +1,2 @@
+Atatürk Kültür, Dil ve Tarih Yüksek Kurumunun kuruluşu:
+Madde 2 – Atatürk'çü düşünceyi, Atatürk ilke ve inkılaplarını, Türk kültürünü, Türk tarihini ve Türk dilini bilimsel yoldan araştırmak, tanıtmak, yaymak ve yayınlar yapmak amacıyla; Ankara'da, Atatürk'ün manevi himayelerinde, Cumhurbaşkanının gözetim ve desteğinde, Başbakanlığa bağlı; Atatürk Araştırma Merkezi, Türk Dil Kurumu, Türk Tarih Kurumu ve Atatürk Kültür Merkezinden oluşan, kamu tüzelkişiliğine sahip,"Atatürk Kültür, Dil ve Tarih Yüksek Kurumu" kurulmuştur.
