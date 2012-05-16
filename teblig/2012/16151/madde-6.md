@@ -1,0 +1,4 @@
+Gözden geçirme dönemi
+MADDE 6- (1) Önlemin yürürlükten kalkması durumunda, dampingin ve zararın devamı veya yeniden meydana gelmesinin muhtemel olup olmadığının değerlendirilmesine esas teşkil etmek üzere, 1/1/2008–31/12/2010 tarihleri arası gözden geçirme dönemi olarak alınmıştır.
+(2) Güney Kore’de yerleşik üretici/ihracatçı firmalar, gözden geçirme döneminin 2008-2010 dönemi olarak seçildiğini ve bu durumun ülkenin ihracat verilerinin farklı değerlendirilmesine yol açtığını ve daha uzun dönem alınması gerektiğini ifade etmiştir. Ancak, gerek yürürlükte bulunan Ulusal Mevzuatta gerekse uluslararası mevzuatta bu hususa ilişkin herhangi bir bağlayıcı hüküm bulunmamaktadır.
+(3) Nihai bildirim sonrasında görüş bildiren firmaların gözden geçirme dönemi dışında ortaya çıkan gelişmelere ilişkin görüşleri, soruşturma kapsamında değerlendirmeye alınmamıştır.

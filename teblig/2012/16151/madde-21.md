@@ -1,0 +1,3 @@
+Esas soruşturmada tespit edilen damping marjı
+MADDE 21- (1) Mevcut dampinge karşı önlemin hukuki ve idari altyapısını teşkil eden damping soruşturması esnasında tespit edilen damping marjları, soruşturma konusu ülkelerde yerleşik üretici/ihracatçıların önlemin yürürlükten kalkması halinde muhtemel davranışlarını yansıtan, önemli bir gösterge niteliği taşıması nedeniyle dikkate alınmıştır.
+(2) Mevcut dampinge karşı önlemin hukuki ve idari altyapısını teşkil eden esas damping soruşturmasında tespit edilen ve sonrasındaki nihai gözden geçirme soruşturması ile değiştirilerek devamına karar verilen damping marjları, Güney Kore için CIF bedelin %10’u, Endonezya için ise CIF bedelin %6,2-%12’si olarak hesaplanmıştır.
