@@ -1,0 +1,294 @@
+16 Mayıs 2012 ÇARŞAMBA
+Resmî Gazete
+Sayı : 28294
+TEBLİĞ
+Bilgi
+Teknolojileri ve İletişim Kurumundan:
+KAYITLI
+ELEKTRONİK POSTA REHBERİ VE KAYITLI ELEKTRONİK
+POSTA
+HESABI ADRESLERİNE İLİŞKİN TEBLİĞ
+BİRİNCİ
+BÖLÜM
+Amaç, Kapsam,
+Dayanak ile Tanımlar ve Kısaltmalar
+Amaç
+MADDE 1 – (1) Bu
+Tebliğin amacı, kayıtlı elektronik posta hesabı adreslerinin yapısına ve
+kayıtlı elektronik posta rehberinin oluşturulmasına, güncellenmesine, işletilmesine
+ve kullanılmasına ilişkin usul ve esasları belirlemektir.
+Kapsam
+MADDE 2 – (1) Bu
+Tebliğ kayıtlı elektronik posta sistemini kuran ve işleten kayıtlı
+elektronik posta hizmet sağlayıcıları ile bu sistemden hizmet alan
+tarafları kapsar.
+Dayanak
+MADDE 3 – (1) Bu
+Tebliğ 13/1/2011 tarihli ve 6102 sayılı Türk
+Ticaret Kanununun 1525 inci maddesine dayanılarak hazırlanan 25/8/2011
+tarihli ve 28036 sayılı Resmî Gazete’de yayımlanan Kayıtlı Elektronik Posta
+Sistemine İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 9 uncu maddesinin
+altıncı fıkrası ile 24 üncü maddesinin dördüncü fıkrasına dayanılarak
+hazırlanmıştır.
+Tanımlar ve
+kısaltmalar
+MADDE 4 – (1) Bu
+Tebliğde geçen;
+a) Gönderici: Orijinal iletinin göndericisi durumundaki
+hesap sahibini veya işlem yetkilisini,
+b) IETF RFC (Internet Engineering
+Task Force Request for Comments): İnternet mühendisliği görev grubu yorum
+talebini,
+c) İmza doğrulama verisi: 5070 sayılı Elektronik İmza
+Kanununun 3 üncü maddesinin (f) bendinde tanımlanan veriyi,
+ç) Hesap sahibi: Adına KEP hesabı tahsis edilen gerçek
+kişiyi veya kamu veya özel hukuk tüzel kişisini,
+d) KEP: Kayıtlı Elektronik Postayı,
+e) KEP Hesabı: Orijinal ileti gönderme ve alma ile KEP
+iletisi alma yeteneğine sahip KEP sisteminde oluşturulan elektronik posta
+hesabını,
+f) KEP Hesabı Adresi: KEP hesabına verilen adı,
+g) KEP Rehberi: KEP hesabı bilgilerinin doğruluğunun ve
+güncelliğinin sorgulanabilmesi amacıyla işletilen bilgi ve sorgu sistemini,
+ğ) KEPHS: Kayıtlı Elektronik Posta Hizmet Sağlayıcısını,
+h) Kurul: Bilgi Teknolojileri ve İletişim Kurulunu,
+ı) Kurul Başkanı: Bilgi Teknolojileri ve İletişim Kurulu
+Başkanını,
+i) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+j) MERSİS: Ticaret sicili kayıtlarını da içeren, Gümrük
+ve Ticaret Bakanlığı tarafından oluşturulan ve yönetilen Merkezi Sicil
+Kayıt Sistemini,
+k) MERSİS No: MERSİS tarafından Ticaret Siciline kayıtlı
+tüzel kişilere verilen tekil numarayı,
+l) Rehber kaydı: Her bir KEP hesabı için rehberde yer
+verilen ve bu Tebliğin 5 inci maddesinin birinci fıkrasında tanımlanan
+alanların bütününü,
+m) Yönetmelik: 25/8/2011
+tarihli ve 28036 sayılı Resmî Gazete’de yayımlanan Kayıtlı Elektronik Posta
+Sistemine İlişkin Usul ve Esaslar Hakkında Yönetmeliği,
+ifade eder.
+(2) Bu Tebliğde geçen, ancak yukarıda yer almayan tanımlar
+için ilgili mevzuatta yer alan tanımlar geçerlidir.
+İKİNCİ
+BÖLÜM
+Kayıtlı
+Elektronik Posta Rehberine İlişkin Esaslar
+Kayıtlı
+elektronik posta rehber alanları
+MADDE 5 – (1) KEP
+rehberinde yer alacak zorunlu ve isteğe bağlı alanlar;
+a) Gerçek kişiler için;
+Alanlar
+Zorunlu(Z) /İsteğe Bağlı(İ)
+KEP
+Hesabı Adresi
+Z
+T.C.
+Kimlik Numarası
+Z
+Adı
+Z
+Soyadı
+Z
+Hesap Sahibinin Hizmet Alma Şekli
+(gönderici ve alıcı ya da sadece alıcı)
+İ
+Unvan
+İ
+Cadde Adı/Numarası ve Ev Numarası
+İ
+İlçe
+İ
+Şehir
+İ
+İmza doğrulama verisi
+İ
+Telefon
+Numarası
+İ
+b) Tüzel kişiler için;
+Alanlar
+Zorunlu(Z) /İsteğe Bağlı(İ)
+KEP
+Hesabı Adresi
+Z
+MERSİS
+No
+Z
+Tüzel
+Kişinin Tam Adı
+Z
+Ana
+Faaliyet Alanı
+Z
+Merkezinin
+Bulunduğu İl
+Z
+Adres
+Bilgileri
+Z
+İşlem
+Yetkilisinin/Yetkililerinin Adı ve Soyadı
+İ
+İşlem
+Yetkilisinin/Yetkililerinin Unvanı
+İ
+alanlarından oluşur.
+(2) KEP rehberi sorgulamaları zorunlu veya isteğe bağlı
+rehber alanları kullanılarak gerçekleştirilir.
+(3) 7 nci maddenin üçüncü
+fıkrasında düzenlenen koşul hariç gerçek kişilerin KEP rehber kaydı T.C.
+Kimlik Numarası alanı kullanılarak sorgulanamaz.
+Kayıtlı
+elektronik posta rehberi
+MADDE 6 – (1) KEPHS;
+a) Gerçek kişinin rehber kaydına, hesap sahibinin
+onayını alarak KEP rehberinde yer verir.
+b) Tüzel kişinin rehber kaydına, tüzel kişinin onayını
+almaksızın KEP rehberinde yer verir.
+c) Her KEP hesabı için sadece bir tane rehber kaydı
+oluşturur.
+ç) KEP rehberine ilişkin tüm bilgilerin gizliliğini,
+bütünlüğünü ve erişilebilirliğini sağlayarak ilgili mevzuat ile belirlenen
+süre boyunca saklar.
+d) KEP rehberine yetkisiz erişimleri engeller.
+Kayıtlı
+elektronik posta rehberinin kullanılması
+MADDE 7 – (1)
+Göndericiler, KEP rehberini, sadece hizmet aldığı KEPHS vasıtasıyla
+sorgulayabilir.
+(2) KEPHS, göndericiden gelen sorgu talebini derhal
+alarak;
+a) Kendi KEP rehberinde sorgulama,
+b) Diğer KEPHS’lerin rehberine
+iletme, sorgu sonucunu alma ve
+c) Tüm sorgu sonuçlarını birleştirerek anlaşılabilir bir
+şekilde hesap sahibine sunma işlemlerini gerçekleştirir.
+(3) KEPHS, bir rehber sorgusu sonucunda birden fazla
+kişiye ait kayıt bulması halinde sorgu sonucunu bildirmez ve sorgu
+sonucunun tek kişiye ait rehber kaydı veya kayıtlarına indirgenmesi için
+kullanıcıdan yeni rehber alanlarını girmesini ister. Sorgulanan gerçek bir
+kişinin rehber kaydı ise ve T.C. Kimlik Numarası hariç bütün rehber
+alanları ile sorgu sonucu bir tek gerçek kişiye indirgenemiyorsa, T.C.
+Kimlik Numarası alanı ile sorgulama devam ettirilir.
+(4) KEPHS, kendisine diğer KEPHS tarafından bildirilen
+KEP hesabı adresi alanına ilişkin sorgu sonucunu ilgili göndericiye
+ilettikten sonra kendi sistemlerinden siler.
+(5) KEPHS, kendisine gelen KEP rehber sorgusuna ilişkin
+sadece KEP hesabı adresi alanını sorgu sonucu olarak bildirir.
+Kayıtlı
+elektronik posta rehberinin güncellenmesi
+MADDE 8 – (1) Hesap
+sahibi, rehber kaydında meydana gelen değişiklikleri KEPHS’ye
+bildirir.
+(2) KEPHS, rehber kaydında meydana gelen değişiklikleri
+dikkate alarak KEP rehberini derhal günceller.
+(3) Rehber kaydı sadece ilgili KEPHS tarafından
+güncellenebilir.
+Rehber
+kaydının silinmesi
+MADDE 9 – (1) Rehber
+kaydının silinmesini isteyen gerçek kişiler bu taleplerini KEPHS’ye iletir. Bu talebin gereği KEPHS tarafından
+derhal yerine getirilir.
+(2) Tüzel kişiler rehber kaydının silinmesi talebinde
+bulunamazlar.
+(3) Gerçek ve tüzel kişilere ait kapanan KEP hesabına
+ilişkin rehber kaydı KEPHS tarafından derhal silinir.
+Kayıtlı
+elektronik posta rehberlerinin birlikte çalışabilirliği
+MADDE 10 – (1) Her
+KEPHS, kendi KEP rehberi ile diğer KEPHS’lerin
+KEP rehberlerinin birlikte çalışabilirliğini teminen
+gerekli tedbirleri alır.
+(2) KEPHS, diğer KEPHS’den
+kendisine iletilen sorgu talebini derhal alarak kendi KEP rehberinde
+sorgular ve sonuçları doğru, eksiksiz ve anlaşılabilir bir şekilde sorguyu
+ileten KEPHS’ye bildirir.
+(3) İki KEPHS arasındaki rehber kayıtlarına ilişkin bir
+sorgu talebinin en geç 20 saniye içerisinde cevaplanması esastır. İhtiyaç
+duyulması halinde sorgu talebi başına en fazla 10 saniye daha ek süre
+kullanılır.
+ÜÇÜNCÜ
+BÖLÜM
+Kayıtlı
+Elektronik Posta Hesabı Adreslerine İlişkin Esaslar
+Kayıtlı
+elektronik posta hesabı adreslerinin yapısı
+MADDE 11 – (1) KEP
+hesabı adreslerinin IETF RFC 2821’e ve IETF RFC 2822’ye uygun oluşturulması
+esastır.
+(2) KEP hesabı adresleri
+“kullanıcı-tarafı@alan-adı-tarafı” formatında belirlenir.
+(3) KEP hesabı adreslerindeki tüm alfabetik karakterler
+küçük olarak kullanılır.
+(4) KEP hesabı adresinin “kullanıcı-tarafı”
+a) Gerçek kişiler için;
+“adı.soyadı.sayı”
+formatında
+oluşturulur. “adı” ve “soyadı” alanları kişinin nüfus cüzdanı, pasaport,
+sürücü belgesi gibi kimlik yerine geçen geçerli resmi belgelerde yazıldığı
+haliyle kullanılır. Başvuru sahibinin birden fazla adının veya soyadının
+olması halinde, bitişik yazılmak üzere adlardan veya soyadlardan
+en az birinin açık şekilde verilmesi zorunludur. Başvuru sahibinin talep
+etmesi halinde kısaltılacak adın veya soyadın kimlik yerine geçen resmi
+belgeler ile uyumlu bir şekilde kısaltılması esastır. Belirlenen “adı.soyadı” isimli KEP hesabı adresi daha önce başka bir
+hesap sahibi adına oluşturulmuş ise hesap adının sonuna (.) ayıracı
+konularak başvuru sahibinin belirleyebileceği ve daha önce “adı.soyadı”
+alanı aynı olan başka bir KEP hesabı adresinde kullanılmayan “sayı” alanı
+ilave edilir. “sayı” alanı 0-9 arasındaki rakamlar kullanılarak serbestçe
+belirlenir.
+b) Tüzel kişiler için;
+1) “MERSİS No”,
+2) “MERSİS No.X”
+formatlarından biri ile
+oluşturulur. “X” alfa nümerik olacak şekilde isteğe bağlı olarak başvuru
+sahibi tarafından belirlenir.
+(5) KEP hesabı adresinin “alan-adı-tarafı”:
+a) Gerçek kişiler için “hsY.kep.tr”
+formatında,
+b) Tüzel kişiler için:
+1) “hsY.kep.tr”
+2) “TüzelKişiAdı.hsY.kep.tr”
+formatlarından biri ile
+oluşturulur.
+(6) “TüzelKişiAdı” alanı,
+tüzel kişinin MERSİS’de kayıtlı bilgileri ile
+uyumlu olmak şartıyla açık şekilde ya da kısaltma yapılarak belirlenir.
+(7) “hs” KEPHS’yi
+ifade etmek üzere kullanılan kısaltmadır. “Y” ise, KEPHS’nin
+yetkilendirilme tarihine göre Kurum tarafından belirlenen ve sadece KEP
+hizmetlerinde kullanılacak alan adında yer almak üzere KEPHS’ye
+verilen 01-99 arasında bir sayıdır.
+(8) Yetkilendirilme tarihi aynı olan birden fazla KEPHS
+olması halinde, “Y” sayısı KEPHS’lerin MERSİS’de kayıtlı isimlerinin alfabetik sırası esas
+alınarak verilir.
+(9) KEPHS’ler “Y” sayısı için
+Kuruma talepte bulunamaz.
+(10) Her KEPHS, Kurum tarafından kendisine verilen “Y”
+sayısını kullanarak aldığı “hsY.kep.tr” alan
+adını kendisine tahsis ettirdiğini Kuruma bildirir.
+Kayıtlı
+elektronik posta sistem adreslerinin yapısı
+MADDE 12 – (1) KEP
+sistem adresleri, KEP hizmetlerinin yürütülmesi amacıyla sadece KEPHS’ler için oluşturulan adreslerdir.
+(2) Gerçek ve tüzel kişilerin KEP hesabı adreslerinin
+yapısı için belirlenen kriterler KEP sistem
+adresleri için uygulanmayabilir.
+(3) KEPHS sistem adresleri “S@hsY.kep.tr”
+formatında oluşturulur. “S”, sunulacak hizmeti ifade eden bir ibareden
+oluşacak şekilde KEPHS tarafından belirlenir.
+DÖRDÜNCÜ
+BÖLÜM
+Son
+Hükümler
+Kayıtlı
+elektronik posta rehberinin ve hesabı adreslerinin devri
+MADDE 13 – (1) KEPHS’nin, faaliyetine son vermesi veya Kurum
+tarafından faaliyetine son verilmesi halinde, KEP hesabı adreslerine ve KEP
+rehberine ilişkin devir işlemleri Yönetmeliğin 21 inci ve 22 nci maddeleri kapsamında gerçekleştirilir.
+Yürürlük
+MADDE 14 – (1) Bu
+Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 15 – (1) Bu
+Tebliğ hükümlerini Bilgi Teknolojileri ve İletişim Kurulu Başkanı yürütür.
