@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.16147",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLETVEKİLLERİ İLE YASAMA ORGANI ESKİ ÜYELERİNE KİMLİK VE ROZET VERİLMESİNE DAİR YÖNETMELİK",
+  "number": "16147",
+  "issuer": "Türkiye Büyük Millet Meclisi Başkanı",
+  "issuer_slug": "turkiye-buyuk-millet-meclisi-baskani",
+  "path": "regulation/turkiye-buyuk-millet-meclisi-baskani/2012/16147",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16147&MevzuatTertip=5",
+  "source_sha256": "328d4e5288d439c3ab6a3232d6b5c9b5b790e9d9edb8e7a1b9d8670a71f53fc6",
+  "source_bytes": 34747,
+  "published": "2012-05-16",
+  "gazette": "28294",
+  "in_force": "2012-05-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.05.2012); own commencement article: \"Bu Yönetmelik hükümleri Resmî Gazete’de yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri Resmî Gazete’de yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 310,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
