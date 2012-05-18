@@ -1,0 +1,2 @@
+Merkez Danışma Kurulu ve görevleri
+MADDE 9 – (1) Merkez Danışma Kurulu; tasavvuf tarihi ve kültürü üzerine bilgi ve deneyim sahibi uzman bilim adamları ile kurumların temsilcilerinden oluşur. Merkez Danışma Kuruluna seçilme ve üyeliğe son verme, Merkez Yönetim Kurulunun salt çoğunluğunun kararı ile olur. Merkez Danışma Kurulu en fazla 10 üyeden oluşur. Merkez Danışma Kurulu; Merkez Müdürünün yazılı daveti üzerine yılda en az bir defa toplanır ve tavsiye niteliğinde kararlar alır. Merkezin faaliyet alanları ile ilgili konularda görüş ve önerilerde bulunur.
