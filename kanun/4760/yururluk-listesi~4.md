@@ -17,3 +17,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 5838 | (I), (II) sayılı liste, İşlenemeyen Hükümler | 28/2/2009
 5904 | 7, GEÇİCİ MADDE 5, (I) sayılı liste | 3/7/2009
 6111 | 7/A, GEÇİCİ MADDE 5, (I), (II), (III), (IV) sayılı listeler | 25/2/2011
+Anayasa Mah.’nin E.: 2010/118, K.: 2011/170 sayılı Kararı | İşlenemeyen Hüküm (5838 sayılı Kanunun Geçici 3 üncü Maddesi) | 19/5/2012
