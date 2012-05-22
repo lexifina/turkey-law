@@ -1,0 +1,3 @@
+Yerli üretim dalının ekonomik göstergelerinin değerlendirilmesi
+MADDE 15 – (1) Yerli üretim dalının ekonomik göstergeleri incelendiğinde, mevcut önlemlerin etkisiyle göstergelerde önemli oranda iyileşmeler olduğu; buna rağmen üretim ve KKO göstergelerinde olumsuzlukların devam ettiği görülmektedir.
+(2) Mevcut dampinge karşı önlemler öncesi döneme ilişkin yerli üretim dalının ekonomik göstergeleri ile önlem sonrası göstergeleri karşılaştırıldığında, yerli üretim dalının birçok temel ekonomik göstergesinin olumlu gelişme gösterdiği görülmektedir. Bu çerçevede uygulanan dampinge karşı önlemlerin etkili olduğu anlaşılmaktadır.

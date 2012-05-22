@@ -1,0 +1,4 @@
+Üçüncü ülkelerce uygulanan ticaret politikası önlemleri
+MADDE 19 – (1) Soruşturma konusu ülkelere karşı üçüncü ülkelerin uygulamakta oldukları ticaret politikası önlemleri incelendiğinde, Amerika Birleşik Devletleri’nin ÇHC’ye karşı soruşturma konusu üründe uyguladığı dampinge karşı önlemi, gözden geçirme soruşturması sonucunda 22/04/2009 tarihinden itibaren 5 yıl daha uygulamaya devam ettiği görülmektedir (Advolerem bazda CIF bedelin %7,35 ile %111,36 arasında oranlarda).
+(2) Ayrıca Arjantin, ÇHC’ne ve Brezilya’ya karşı 20/11/2010 tarihinde dampinge karşı önlem koymuştur (Ülke bazında sırasıyla advolerem bazda CIF bedelin %295 ve %143 oranında).
+(3) Avrupa Birliği de, 16/02/2012 tarihinde ÇHC, Tayland ve Endonezya menşeli 7307.19.10 GTP altında sınıflandırılan boru bağlantı parçalarına yönelik olarak damping soruşturması başlatmıştır.

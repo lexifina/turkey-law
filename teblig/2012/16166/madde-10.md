@@ -1,0 +1,4 @@
+Maddenin genel ithalatı
+MADDE 10 – (1) Soruşturma konusu ürünün Türkiye’ye genel ithalatı ve soruşturma konusu ülkelerden yapılan ithalatının incelenmesinde Türkiye İstatistik Kurumu (TÜİK) verileri kullanılmıştır. 2007-2010 dönemine ilişkin veriler, ithalatın gelişiminin analizinde kullanılmıştır. Buna göre, 2007 yılında 7.691 Ton olan soruşturma konusu ürün genel ithalatı 2008 yılında 6.068 Ton, 2009 yılında 4.681 Ton ve 2010 döneminde 5.795 Ton seviyesinde gerçekleşmiştir.
+(2) Bahse konu ürünün genel ithalatı değer bazında, 2007 yılında 18.206.238 ABD Doları, 2008 yılında 21.607.904 ABD Doları, 2009 yılında 23.796.115 ABD Doları ve 2010 döneminde 16.755.456 ABD Doları düzeyinde gerçekleştiği görülmektedir.
+(3) Genel ithalatın birim fiyatı ise 2007 yılında 2.367 ABD Doları/Ton, 2008 yılında 3.561 ABD Doları/Ton, 2009 yılında 5.084 ABD Doları/Ton ve 2010 yılında 2.891 ABD Doları/Ton olarak gerçekleşmiştir.

@@ -1,0 +1,4 @@
+ALTINCI BÖLÜM
+Diğer Hususlar
+Üçüncü ülkelerden ithalat ve diğer hususlar
+MADDE 24 – (1) Soruşturma konusu üründe soruşturma konusu ülkeler haricindeki ülkelerden yapılan ithalatın, genel ithalat içindeki payının önlemin yürürlüğe girdiği 2006 yılında %12 iken, 2007 yılında %14, 2008 yılında %19, 2009 yılında %30 ve 2010 yılında %30 seviyesine ulaştığı görülmektedir. Öte yandan gözden geçirme döneminde yaşanan küresel ekonomik krizin de gerek ithalat verileri gerekse yerli üretim dalının ekonomik göstergeleri üzerindeki etkileri yapılan analizlerde dikkate alınmıştır. Bununla birlikte üçüncü ülkelerden gerçekleşen ithalatın ve küresel ekonomik krizin etkilerinin, soruşturma konusu önlemlerin yürürlükten kaldırılması halinde dampingin ve zararın tekrar meydana gelebileceğine ilişkin işbu Tebliğdeki tespitleri değiştirebilecek nitelikte olmadığı değerlendirilmektedir.

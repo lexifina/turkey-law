@@ -1,0 +1,2 @@
+Talebi etkileyen unsurlar
+MADDE 21 – (1) Soruşturma konusu ürünün ithalatçısı konumunda bulunan firmalar tarafından soru formlarına verilen yanıtlardan talebi etkileyen öncelikli unsurun fiyat olduğu anlaşılmaktadır. Önlemin yürürlükten kalkması durumunda ciddi üretim ve ihracat kapasitesi bulunan ve genel olarak dünya genelinden düşük ihraç fiyatlarına sahip olan soruşturma konusu ülkelere talebin kaymasının muhtemel olduğu değerlendirilmektedir.
