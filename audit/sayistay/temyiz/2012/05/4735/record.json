@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "35026",
+  "decision_date": "2012-05-22",
+  "source_id": 4735,
+  "chamber": "6",
+  "file_number": "34217",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4735/",
+  "source_sha256": "5acfad22b99686a59abbb37bb8ceb4ec9afe38eebdb810259b927e9e2a1dd629",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
