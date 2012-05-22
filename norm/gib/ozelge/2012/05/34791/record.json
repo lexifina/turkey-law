@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.66.10.00-B.07.4.DEF.4.66.00.1-6",
+  "source_id": 34791,
+  "date": "2012-05-22",
+  "title": "Organize Sanayi Bölgesi tüzel kişiliği ile Kalkınma Ajansı arasında 4562 sayılı Kanun kapsamında soğuk hava deposu kurulum projesine ilişkin düzenlenecek destek sözleşmesinin damga vergisine tabi tutulup tutulmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34791",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "67c2bb421deb1921408b4f01b68708d8a3b1d38d0058f50a6e648cb2ba7abd5f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
