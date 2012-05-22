@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-GVK 78-1683",
+  "source_id": 24105,
+  "date": "2012-05-22",
+  "title": "Banka kredisi kullanılarak alınan A.Ş. Hisse senetlerinden elde edilen kar payının beyanı için safi kazancın tespitinde kredi faiz ve giderlerinin indirimi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24105",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "e2d3d66eb61428b2be35d2411caed931ccc7a61b16a4e1cfdc6547087bbdd87f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
