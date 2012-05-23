@@ -1,0 +1,4 @@
+Tedbir kararının kaldırılması veya sona ermesi
+MADDE 11 – (1) Hâkim, çocuğun gelişimini göz önünde bulundurarak koruyucu ve destekleyici tedbirin kaldırılmasına karar verebilir. Bu karar acele hâllerde, çocuğun bulunduğu yer hâkimi tarafından da verilebilir. Ancak bu durumda karar, önceki kararı alan hâkim veya mahkemeye bildirilir.
+(2) Tedbir kararının kaldırılmasını, denetim görevlileri, çocuğun velisi, vasisi, bakım ve gözetimini üstlenen kimseler, tedbir kararını yerine getiren kişi ve kuruluşun temsilcileri ile Cumhuriyet savcısı talep edebilir.
+(3) Tedbirin uygulanması, onsekiz yaşın doldurulmasıyla ayrıca bir karara gerek kalmaksızın kendiliğinden sona erer. Ancak hâkim, eğitim ve öğrenimine devam edebilmesi için ve çocuğun rızası alınmak suretiyle tedbirin uygulanmasına belli bir süre daha devam edilmesine karar verebilir.

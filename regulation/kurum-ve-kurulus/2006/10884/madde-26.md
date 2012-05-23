@@ -1,0 +1,2 @@
+Gizlilik
+MADDE 26 – (1) Çocuklara ilişkin koruyucu ve destekleyici tedbir kararlarının alınması ile uygulanmasına ilişkin tüm süreçlerde çocuğun avukatı hariç olmak üzere çocuğun kimliği, adresi, fotoğrafları, yaşadığı travmalar gibi çocuğa ve yakınlarına ait her türlü bilgi ve bu bilgilerin yer aldığı rapor ve belgeler ile kayıtlar gizli tutulur. Yazışmalar gizlilik ilkesine uygun bir şekilde gerçekleştirilir.

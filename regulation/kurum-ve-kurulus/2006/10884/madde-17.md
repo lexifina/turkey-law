@@ -1,0 +1,3 @@
+Bakım ve barınma tedbirleri ile ilgili yardım ve destek talebi
+MADDE 17 – (1) Bakım ve barınma tedbirlerinin yerine getirilmesi sırasında ihtiyaç duyulan kolluk hizmetleri ilgili birimlerden talep edilir. Kolluk birimleri, bu talepleri geciktirmeksizin yerine getirir.
+(2) Bakım ve barınma tedbir kararı alınan kişiler ile çocukların rehabilitasyonu, eğitimi ve diğer bakanlıkların görev alanına giren hususlarla ilgili olarak (Değişik ibare:RG-23/5/2012-28301) Aile ve Sosyal Politikalar Bakanlığı il ve ilçe müdürlükleri tarafından yapılan her türlü yardım ve destek talepleri Millî Eğitim Bakanlığı, İçişleri Bakanlığı, Sağlık Bakanlığı, ilgili diğer bakanlıklar ile kamu kurum ve kuruluşları tarafından geciktirilmeksizin yerine getirilir.

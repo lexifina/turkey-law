@@ -1,0 +1,3 @@
+Tedbir kararının değiştirilmesi veya süresinin uzatılması
+MADDE 10 – (1) Hâkim veya mahkeme; denetim görevlileri, çocuğun velisi, vasisi, bakım ve gözetimini üstlenen kimselerin, tedbir kararını yerine getiren kişi ve kuruluşun temsilcisi ile Cumhuriyet savcısının talebi üzerine veya re'sen çocuğa uygulanan tedbirin sonuçlarını inceleyerek, süresini uzatabilir veya değiştirebilir.
+(2) Hâkim veya mahkeme, koruyucu ve destekleyici tedbir kararının değiştirilmesi veya süresinin uzatılması yönünde bir karar vermeden önce tedbir kararını uygulayan kişi, kurum veya kuruluştan tedbirin uygulanması hakkında gerekçeli bir rapor isteyebilir.
