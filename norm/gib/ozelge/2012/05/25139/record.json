@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.18.02-105[126-2012-9162]-597",
+  "source_id": 25139,
+  "date": "2012-05-24",
+  "title": "Milli Piyango İdaresine ait bina, arsa ve arazilerin emlak vergisinden muaf olup olmadığı ile 213 sayılı Vergi Usul Kanununa göre düzeltme zamanaşımı süresinin ne kadar olduğu ve ödenen emlak vergilerinin hangi döneme ait olanlarının geri alınabileceği hu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/25139",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "b9f73591153f7d0b753ef5f7bc1f84026b5f42d5e346d166c2848bfcbf30c7b2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
