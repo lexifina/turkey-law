@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3842",
+  "decision_date": "2012-05-24",
+  "title": "Güneş enerjisine dayalı, toplam kurulu gücü 600 (altıyüz) MW olacak üretim tesislerine ilişkin Kurul Kararı",
+  "resmi_gazete_date": "2012-06-14",
+  "resmi_gazete_number": "28323",
+  "categories": [
+    "Başvuru"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ye3tBDj37WU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ye3tBDj37WU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WZKMmHuXFP0="
+  ],
+  "source_sha256": "8ebcb3e2c272475fcb4e4fc420166080396a805c412cb8530255163946f0f775",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33883,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-05-24",
+  "law_text_complete": false
+}
