@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-130[13/a-2012]-119",
+  "source_id": 31313,
+  "date": "2012-05-24",
+  "title": "KDV 13/a kapsamındaki istisna belgesinin kapsamı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31313",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "d9a5da56c4cd7c36865c7a6cc2691b21e84490b8691ee45ec083c6248ef6e70b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
