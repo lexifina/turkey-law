@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84695066-2011-ÖTV-1/1-b-16",
+  "source_id": 33808,
+  "date": "2012-05-24",
+  "title": "Şasi kamyona kayıt ve tescil ettirilmeden dingil ilave edilmesinde ek ÖTV tarhiyatı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33808",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "b28e56de09949f481cc9b4d66655cc77ec342283e8550f4394289e66fb82649f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
