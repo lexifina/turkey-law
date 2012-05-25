@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-05-25",
+      "25.05.2012",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28303",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-05-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Yalova Üniversitesi",
+  "issuer_slug": "yalova-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/yalova-universitesi/2012/16170",
+  "published": "2012-05-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16170&MevzuatTertip=5",
+  "source_bytes": 22249,
+  "source_id": "8.5.16170",
+  "source_sha256": "36dd75c02d19c55629b98b14724dc9fe5c8650b20bdcc8f99450d828ed239767",
+  "text_status": "as-enacted",
+  "title": "YALOVA ÜNİVERSİTESİ GİRİŞİMCİLİK VE İŞLETMECİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 343,
+  "word_count": 946
+}
