@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.43.10.00-8161/4615-36",
+  "source_id": 24991,
+  "date": "2012-05-25",
+  "title": "KDV mükellefiyeti bulunan kamu kurumu işletmesinin fatura düzenlemediği durumlarda işlemlerin anılan kurumun ilgili mevzuatına göre düzenlenecek belgelerle tevsik edilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24991",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "01fb04e2a075a72536ffaf46ab47892cab4426cad04dc8b8f1253ccd4ba51d87",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
