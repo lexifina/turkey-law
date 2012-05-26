@@ -1,0 +1,4 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Rektör başkanlığında, Dekan, Merkez Müdürü, Merkez müdürü yardımcılarından biri ile Tıp Fakültesi dahili, cerrahi ve temel tıp bilimleri bölüm başkanları ve Merkezde çalışan birimi olan bölümlerin her birinden öğretim üyelerinin kendi aralarından seçecekleri birer profesör, doçent ve yardımcı doçentten oluşur. Rektör tarafından görevlendirilen bu üyelerin görev süresi iki yıldır. Merkezin idari birimlerinin temsilcileri de Merkez Müdürünün daveti ile Danışma Kurulu toplantılarına katılırlar. Süresi dolan üyeler yeniden görevlendirilebilirler.
+(2) Danışma Kurulu, yılda en az bir kez salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+(3) Danışma Kurulunun görevi; Merkezin amaçları ile ilgili konularda görüşlerin açıklanıp tartışılması, yeni çalışma konularının gündeme getirilmesi ve sorunların çözüme bağlanmasına yönelik öneriler getirmektir.
