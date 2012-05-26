@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-ÖTV 12. MADDE-1729",
+  "source_id": 38121,
+  "date": "2012-05-26",
+  "title": "Hem elektrikli motoru hem de içten yanmalı benzinli motoru bulunan otomobilin ÖTV oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38121",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "bd96b318ab683a807871f4b6a925d34ad79b2545886c09ecb5a3ad06b687f4ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
