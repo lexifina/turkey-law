@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.70.10.00-KVK/2-2-2",
+  "source_id": 28534,
+  "date": "2012-05-28",
+  "title": "Şirket bünyesinde bulunan hayvancılık işletmesinin tamamının kayıtlı değer üzerinden bir limited şirkete devredilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28534",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "c0931db62f536f88bb8dc90f04712eb6f809456a432663f64548f6abb84aff9a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
