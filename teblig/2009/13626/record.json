@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.13626",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU PERSONELİNİN GENEL SAĞLIK SİGORTASI KAPSAMINA ALINMASI HAKKINDA TEBLİĞ",
+  "number": "13626",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "path": "teblig/2009/13626",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13626&MevzuatTertip=5",
+  "source_sha256": "bdfa8c65327f50b6aba2b515cb3ccf6dacfc7c48928283f3df7af5d03847ec12",
+  "source_bytes": 67156,
+  "published": "2009-12-18",
+  "gazette": "27436",
+  "in_force": "2012-05-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/5/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-05-29",
+      "RG-29/5/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2580,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.sgk.gov.tr/"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
