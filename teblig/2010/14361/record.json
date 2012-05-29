@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.14361",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK SİLAHLI KUVVETLERİNDE GÖREV YAPAN ASKERİ VE SİVİL PERSONELİN GENEL SAĞLIK SİGORTASI KAPSAMINA ALINMASI HAKKINDA TEBLİĞ",
+  "number": "14361",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "path": "teblig/2010/14361",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14361&MevzuatTertip=5",
+  "source_sha256": "5f1ad120b91ad19b238c06367fa9e6b4bf2867dcf34945f36b99bd3285e9fdf1",
+  "source_bytes": 39361,
+  "published": "2010-10-09",
+  "gazette": "27724",
+  "in_force": "2012-05-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/5/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-05-29",
+      "RG-29/5/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 919,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
