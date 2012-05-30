@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-2011-KVK-10-2-612",
+  "source_id": 28309,
+  "date": "2012-05-30",
+  "title": "Ar-Ge projeleri için verilen teminat mektuplarına ait komisyon giderlerinin ve Ar-Ge merkezinizde görevli personel ücretlerinin 5746 Sayılı Kanun kapsamında Ar-Ge İndirimine konu edilip edilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28309",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "57c2b56c6aa5b2199dc0554d0efebbc865e69035414fed6eb8a4346cd7889c45",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
