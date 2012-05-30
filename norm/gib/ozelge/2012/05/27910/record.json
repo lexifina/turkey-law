@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 5-1770",
+  "source_id": 27910,
+  "date": "2012-05-30",
+  "title": "Ortak girişim olarak Irak'ta yapılacak inşaat ve onarım işlerinden elde edilen hak edişlerin yurt dışı iştirak kazançları kapsamında değerlendirilip değerlendirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27910",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "9cf0ef25cd9cf02b1ba21a4ba1baa61d416674b46f7f397381cce5209ed8786a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
