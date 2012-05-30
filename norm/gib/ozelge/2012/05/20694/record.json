@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[5-2012/11]-1768",
+  "source_id": 20694,
+  "date": "2012-05-30",
+  "title": "Serbest Bölge İşlem Formunun tevsik edici belge yerine geçip geçmeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20694",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "62ed38243e3d2a49e653bad6b39a214efbfc0fd513b985fe60462753bf93b2b2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
