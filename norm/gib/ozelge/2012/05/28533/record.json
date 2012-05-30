@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.45.15.01-KVK-49-5-50",
+  "source_id": 28533,
+  "date": "2012-05-30",
+  "title": "Şirket bünyesinde ayrı hizmet yerlerinde verilen hizmetlerin kısmi bölünme kapsamında yeni kurulacak bir şirkete devri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28533",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4b7350b1ac53d73b9441d837b02522eca63d1eec097003ad93ace9c5097048a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
