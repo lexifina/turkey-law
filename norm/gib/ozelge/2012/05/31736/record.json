@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.17-1754",
+  "source_id": 31736,
+  "date": "2012-05-30",
+  "title": "Azerbeycan Fevkalade Haller Bakanlığının Türkiyede bulunan firmaya deprem çadırı imal ettirerek Van Valiliğine bağışlaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31736",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "797d3313abbb33f98665b98770ef7681a386ebfc000c1ee3997a8a9cff7cfae0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
