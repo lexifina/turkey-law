@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "35057",
+  "decision_date": "2012-05-30",
+  "source_id": 4766,
+  "chamber": "3",
+  "file_number": "34940",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4766/",
+  "source_sha256": "7cc4ed24100fefa6a05d13206bd1f4551f3edc6bba0521bc36429de80b8935cc",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
