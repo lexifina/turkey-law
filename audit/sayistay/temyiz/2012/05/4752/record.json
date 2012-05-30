@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "35043",
+  "decision_date": "2012-05-30",
+  "source_id": 4752,
+  "chamber": "1",
+  "file_number": "33723",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4752/",
+  "source_sha256": "fbe391590b217696b079da31b1dbdb3e09873837e493f2b4ffc605e5bccfc86b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
