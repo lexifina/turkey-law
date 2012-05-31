@@ -48,3 +48,4 @@ KHK/660 | (III) Sayılı Cetvel | 2/11/2011
 KHK/663 | (I) ve (II) Sayılı Cetvel | 2/11/2011
 6287 | 20, (II) Sayılı Cetvel | 11/4/2012
 6296 | (II) Sayılı Cetvel | 27/4/2012
+6307 | (II) Sayılı Cetvel | 31/5/2012
