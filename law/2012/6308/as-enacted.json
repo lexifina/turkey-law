@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6308",
+  "year": 2012,
+  "title": "Eczacılar ve Eczaneler Hakkında Kanun ile Uyuşturucu Maddelerin Murakabesi Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-05-31",
+  "gazette_issue": "28309",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120531-3.htm",
+  "source_sha256": "48091bd31f0c435f2de1ad64ce5dc585e14e90c73cf822a29a45c66722d1bb9f",
+  "text_sha256": "2553a62a897b201ba9928899c986c988a3c10c33a6457423f22500ec6a54ed34",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/05/31/28309-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120531-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
