@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6309",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ve Makedonya Cumhuriyeti Hükûmeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-05-31",
+  "gazette_issue": "28309",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120531-4.htm",
+  "source_sha256": "38369fe0d47b282c203e22d362c0bfc3e3f931111227f2e71a1301053c27994b",
+  "text_sha256": "018047ac2248d58c137a4fcaec9f6146d6388b63f87e94c70fd030693ae79029",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/05/31/28309-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120531-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
