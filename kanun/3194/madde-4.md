@@ -1,0 +1,3 @@
+İstisnalar:
+Madde 4 – 2634 sayılı Turizmi Teşvik Kanunu, 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu, bu Kanunun ilgili maddelerine uyulmak kaydı ile 2960 sayılı İstanbul Boğaziçi Kanunu ve 3030 sayılı Büyük Şehir Belediyelerinin Yönetimi Hakkında Kanun ile diğer özel kanunlar ile belirlenen veya belirlenecek olan yerlerde, bu Kanunun özel kanunlara aykırı olmayan hükümleri uygulanır.
+Türk Silahlı Kuvvetlerine ait harekat, eğitim ve savunma amaçlı yapılar için, bu Kanun hükümlerinden hangisinin ne şekilde uygulanacağı Milli Savunma Bakanlığı ile Bayındırlık ve İskan Bakanlığı tarafından müştereken belirlenir.

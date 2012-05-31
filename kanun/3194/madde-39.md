@@ -1,0 +1,4 @@
+Yıkılacak derecede tehlikeli yapılar:
+Madde 39 – Bir kısmı veya tamamının yıkılacak derecede tehlikeli olduğu belediye veya valilik tarafından tespit edilen yapıların sahiplerine tehlike derecesine göre bunun izalesi için belediye veya valilikçe on gün içinde tebligat yapılır. Yapı sahibinin bulunmaması halinde binanın içindekilere tebligat yapılır. Onlar da bulunmazsa tebligat varakası tebliğ yerine kaim olmak üzere tehlikeli yapıya asılır ve keyfiyet muhtarla birlikte bir zabıtla tespit edilir.
+Tebligatı müteakip süresi içinde yapı sahibi tarafından tamir edilerek veya yıktırılarak tehlike ortadan kaldırılmazsa bu işler belediye veya valilikçe yapılır ve masrafı % 20 fazlası ile yapı sahibinden tahsil edilir.
+Alakalının fakruhali tevsik olunursa masraf belediye veya valilikçe bütçesinden karşılanır. Tehlike durumu o yapı ve civarının boşaltılmasını icabettiriyorsa mahkeme kararına lüzum kalmaksızın zabıta marifetiyle derhal tahliye ettirilir.

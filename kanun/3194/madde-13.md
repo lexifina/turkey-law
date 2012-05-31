@@ -1,0 +1,5 @@
+İmar planlarında umumi hizmetlere ayrılan yerler:
+Madde 13 – (Birinci fıkra iptal: Ana.Mah.nin 29/12/1999 tarihli ve E.:1999/33, K.:1999/51 sayılı Kararı ile)
+İmar programına alınan alanlarda kamulaştırma yapılıncaya kadar emlak vergisi ödenmesi durdurulur. Kamulaştırmanın yapılması halinde durdurma tarihi ile kamulaştırma tarihi arasında tahakkuk edecek olan emlak vergisi, kamulaştırmayı yapan idare tarafından ödenir. Birinci fıkrada yazılı yerlerin kamulaştırma yapılmadan önce plan değişikliği ile kamulaştırmayı gerektirmeyen bir maksada ayrılması halinde ise durdurma tarihinden itibaren geçen sürenin emlak vergisini mal sahibi öder.
+(Üçüncü fıkra iptal: Ana.Mah.nin 29/12/1999 tarihli ve E.:1999/33, K.:1999/51 sayılı Kararı ile)
+Onaylanmış imar planlarında, birinci fıkrada yazılı yerlerdeki arsa ve arazilerin, bu Kanunda öngörülen düzenleme ortaklık payı oranı üzerindeki miktarlarının mal sahiplerince ilgili idarelere bedelsiz olarak terk edilmesi halinde bu terk işlemlerinden ayrıca emlak alım ve satım vergisi alınmaz.

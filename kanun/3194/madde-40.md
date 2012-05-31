@@ -1,0 +1,3 @@
+Kamunun selameti için alınması gereken tedbirler:
+Madde 40 – Arsalarda, evlerde ve sair yerlerde umumun sağlık ve selametini ihlal eden, şehircilik, estetik veya trafik bakımından mahzurlu görülen enkaz veya birikintilerin, gürültü ve duman tevlideden tesislerin hususi mecra, lağım, çukur, kuyu; mağara ve benzerlerinin mahzurlarının giderilmesi ve bunların zuhuruna meydan verilmemesi ilgililere tebliğ edilir.
+Tebliğde belirtilen müddet içinde tebliğe riayet edilmediği takdirde belediye veya valilikçe mahzur giderilir; masrafı % 20 fazlasiyle arsa sahibinden alınır veya mahzur tevlit edenlerin faaliyeti durdurulur.
