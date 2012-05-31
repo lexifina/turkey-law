@@ -1,0 +1,3 @@
+MADDE 11 – 775 sayılı Kanunun 21 inci maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiş, aynı maddeye birinci fıkradan sonra gelmek üzere aşağıdaki fıkra eklenmiş ve sonraki fıkralar buna göre teselsül ettirilmiştir.
+“a) Gecekondunun sahibi ise, gecekondusuna karşılık gelecek şekilde, borçlanma suretiyle veya sair şekillerde konut verilinceye veya nakde dönüştürülüp ödeninceye veya konut yapmak üzere arsa tahsis edilip lüzumu halinde kredisi sağlanmak suretiyle, 27 nci maddedeki süre ve şartlara uygun olarak konutunu yapıncaya kadar,”
+“Birinci fıkra kapsamındaki uygulamalarda, yönetmelik ile belirlenen şartlara göre nakdî yardım yapılabilir.”
