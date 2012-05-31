@@ -133,7 +133,7 @@ TEKNOLOJİ ENSTİTÜLERİ
 –––––––––––––––––––
 (1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu cetvelde yer alan “2 – Öğrenci Seçme ve Yerleştirme Merkezi” ibaresi yerine “2 – Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı” ibaresi eklenmiştir.
 46) Mersin Üniversitesi
-47) Muğla Üniversitesi
+47) (Değişik: 16/5/2012-6307/4 md.) Muğla Sıtkı Koçman Üniversitesi
 48) Mustafa Kemal Üniversitesi
 49) Niğde Üniversitesi
 50) Pamukkale Üniversitesi
