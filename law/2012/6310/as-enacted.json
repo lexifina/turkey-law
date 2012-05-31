@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6310",
+  "year": 2012,
+  "title": "Avrupa İmar ve Kalkınma Bankası Kuruluş Anlaşmasında Değişiklik Yapılmasına İlişkin 137 ve 138 Sayılı Guvernörler Kurulu Kararlarının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-05-31",
+  "gazette_issue": "28309",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120531-5.htm",
+  "source_sha256": "34ed3f59f0736fc3a8820705a5a43455c5b28a62f7536cdd5355428461f6d352",
+  "text_sha256": "7a0e88289e5b8c422a893f4fbfe9f8ed5cf52cb7c1d474239c78cb368ec5f48d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/05/31/28309-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120531-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
