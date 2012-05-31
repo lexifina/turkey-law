@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6307",
+  "year": 2012,
+  "title": "Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-05-31",
+  "gazette_issue": "28309",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120531-2.htm",
+  "source_sha256": "2faacbfff27a0b63e26fc3055e51d4ed8b0757d8d82b96abc71a22ca091b5c51",
+  "text_sha256": "aba08899086434f4b6606c3a51abb29d36bf5ce630db17872c3587a974883e9a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/05/31/28309-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/05/20120531-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
