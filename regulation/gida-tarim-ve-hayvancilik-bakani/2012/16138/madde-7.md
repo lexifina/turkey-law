@@ -1,0 +1,2 @@
+Numune alma ve analiz metotları
+MADDE 7 – (1) 29/12/2011 tarihli ve 28157 sayılı Resmî Gazete’nin 3 üncü mükerrerinde yayımlanan Türk Gıda Kodeksi Yönetmeliğinde hüküm bulunmaması halinde, bu Yönetmelik kapsamındaki üründen Bakanlıkça hazırlanan numune alma prosedürüne uygun olarak numune alınır ve analiz metotları 29/12/2011 tarihli ve 28157 sayılı Resmî Gazete’nin 3 üncü mükerrerinde yayımlanan Gıda Kontrol Laboratuvarlarının Kuruluş, Görev, Yetki ve Sorumlulukları ile Çalışma Usul ve Esaslarının Belirlenmesine Dair Yönetmelik hükümlerine göre uygulanır.
