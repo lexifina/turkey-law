@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6314",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Kırgız Cumhuriyeti Hükûmeti Arasında Çevre Koruma Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-06-01",
+  "gazette_issue": "28310",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120601-3.htm",
+  "source_sha256": "7012193a68b9515e75fa354f96dac4fceba310f446c2685ea938a33d9d49808c",
+  "text_sha256": "c24f3a95ed4e3248e75b0d002e68a80a0af88edd7ad262995656ff34c6fade3b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/06/01/28310-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120601-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
