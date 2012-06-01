@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6313",
+  "year": 2012,
+  "title": "Ekonomik İşbirliği Örgütü Ticaret ve Kalkınma Bankası Kuruluş Anlaşmasının 21 inci Maddesinin Tadil Edilmesine İlişkin Kararın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-06-01",
+  "gazette_issue": "28310",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120601-2.htm",
+  "source_sha256": "1eb69bdc8a1ba5df8d5fa22265546e7b8a70e2586d5f58ee9c87c58dc25791d6",
+  "text_sha256": "769ad262a8ec02bac780c4553d1383861e230ef3c785b627cca34d6a6ba46c34",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/06/01/28310-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120601-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
