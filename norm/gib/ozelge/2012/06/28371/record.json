@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.06.49-010.01-11",
+  "source_id": 28371,
+  "date": "2012-06-01",
+  "title": "İştirak edilen şirkete yapılan sermaye tamamlama fonu ödemelerini müteakip, sahip olunan hisselerin elden çıkarılması halinde vergileme hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28371",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "67cb7dc83d1f0316c1970e27abe279e77a0ca905fd63c8c77a0a1805ebcdf09f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
