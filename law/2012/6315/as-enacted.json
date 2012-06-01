@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6315",
+  "year": 2012,
+  "title": "Karadeniz Ticaret ve Kalkınma Bankası Kuruluş Anlaşmasında Değişiklik Yapılmasına İlişkin Guvernörler Kurulu Kararının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-06-01",
+  "gazette_issue": "28310",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120601-4.htm",
+  "source_sha256": "412a632979194fd3188d657f564c33acbdfc45a39beca24b1973bedc724f91ae",
+  "text_sha256": "ab0d5a8227641ddf0ef30da9222a8a2dd992ce37e151695c5995a656942e9c9e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/06/01/28310-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120601-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
