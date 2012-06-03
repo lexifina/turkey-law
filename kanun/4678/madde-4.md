@@ -5,7 +5,7 @@ Kaynak ve Yetiştirme
 Kaynak
 MADDE 4 — (Değişik: 16/6/2009-5907/2 md.)
 Sözleşmeli subay kaynaklarını; en az dört yıllık fakülte veya yüksekokulları bitirenlerden düzeltilmemiş nüfus kaydına göre yirmiyedi yaşından, lisansüstü eğitimini tamamlamış olanlardan otuziki yaşından büyük olmayanlar teşkil eder.
-Askeri okullardan ve Türk Silahlı Kuvvetlerinden her ne sebeple olursa olsun ilişikleri kesilen personel, Türk Silahlı Kuvvetlerine sözleşmeli subay olarak alınmaz. Ancak, askerliğini yedek subay veya 16/6/1927 tarihli ve 1076 sayılı Kanuna göre kısa dönem erbaş olarak yapanlardan terhis edilenler veya askerlik hizmetini yapmakta olanlar sözleşmeli subay olabilir.
+Askeri okullardan ve Türk Silahlı Kuvvetlerinden her ne sebeple olursa olsun ilişikleri kesilen personel, Türk Silahlı Kuvvetlerine sözleşmeli subay olarak alınmaz. (Değişik ikinci cümle: 22/5/2012-6318/68 md.) Ancak, askerlik yükümlülüğünü yerine getirmekte olanlar veya terhis edilenler sözleşmeli subay olabilirler.
 Sözleşmeli subaylık için genel olarak aşağıdaki nitelikler aranır:
 a) Türk vatandaşı olmak.
 b) Bu Kanunda belirtilen öğrenim ile ilgili koşulları taşımak.
