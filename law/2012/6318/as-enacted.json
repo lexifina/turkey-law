@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6318",
+  "year": 2012,
+  "title": "Askerlik Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-06-03",
+  "gazette_issue": "28312",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120603-6.htm",
+  "source_sha256": "a0adcccdbf9ef52bc468d9cd8f91752a7775689f7730c4bde04634302ed0f91f",
+  "text_sha256": "5d585b0213e50c949a810477b3343a92a91f1f296492a38fc703c57007cc48c9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/06/03/28312-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120603-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
