@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6319",
+  "year": 2012,
+  "title": "Uluslararası Para Fonu Ana Sözleşmesinde İcra Direktörleri Kurulu Reformuna İlişkin Olarak Yapılması Teklif Edilen Değişikliklerin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-06-03",
+  "gazette_issue": "28312",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120603-7.htm",
+  "source_sha256": "538be5b47d65fa0c17cdbd2f7cc606f72fa86fd857b51a0547ab117000bc1081",
+  "text_sha256": "db15c1b86e9528c325e36d48edcc45350ddc2c413a480e3b773b33e023aff1db",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/06/03/28312-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120603-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
