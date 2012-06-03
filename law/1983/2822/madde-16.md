@@ -1,0 +1,5 @@
+Yetki belgesi:
+Madde 16 – Tespit yazısına bu Kanunda öngörülen süre içinde itiraz edilmemişse sürenin bitişini takibeden altı işgünü içinde veya yapılan itiraz reddedilmişse mahkeme kararının tebliğ edildiği tarihten itibaren altı işgünü içinde ilgili sendikaya Çalışma Bakanlığınca bir yetki belgesi verilir.
+(Değişik : 3/6/1986 - 3299/4 md.) Yetki belgesi alınmadan yapılan bir toplu iş sözleşmesinde taraflardan birinin veya ikisinin yetkili olmadığı ve bu sebeple sözleşmenin hükümsüzlüğü, Çalışma ve Sosyal Güvenlik Bakanlığınca durumun tespitinden itibaren 45 gün içinde ilgililerce veya Çalışma ve Sosyal Güvenlik Bakanlığınca dava yolu ile ileri sürülebilir.
+Hükümsüzlük konusundaki dava, işyerinin bağlı olduğu bölge çalışma müdürlüğünün bulunduğu mahaldeki iş davalarına bakmakla görevli mahkemede açılır. Toplu iş sözleşmesi birden fazla bölge çalışma müdürlüğünün yetki alanına giren işyerlerini kapsıyor ise davanın Ankara iş mahkemesinde açılması gerekir.
+Bu davada hakim, talep üzerine, gerekli görürse toplu iş sözleşmesinin uygulanmasını dava sonuna kadar durdurabilir.

@@ -1,0 +1,3 @@
+Toplu iş sözleşmesinin imzalanması ve tevdi edilmesi:
+Madde 20 – Toplu görüşmenin sonunda bir anlaşmaya varılırsa, beş nüsha olarak düzenlenecek olan toplu iş sözleşmesi taraf temsilcilerince imzalanır. Sözleşmenin birer nüshasını taraflar alırlar. Üç nüsha da, toplu görüşme için çağrıyı yapmış olan tarafça görevli makama imza gününden başlayarak altı işgünü içinde tevdi edilir.
+Bölge çalışma müdürlükleri kendilerine tevdi edilen toplu iş sözleşmelerinin iki nüshasını Çalışma Bakanlığına gönderirler. Çalışma Bakanlığı da toplu iş sözleşmelerinin birer nüshasını Devlet İstatistik Enstitüsüne gönderir.

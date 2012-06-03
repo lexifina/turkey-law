@@ -1,0 +1,1 @@
+Madde 1 – Bu Kanunun amacı, işçilerin ve işverenlerin karşılıklı olarak ekonomik ve sosyal durumlarını ve çalışma şartlarını düzenlemek üzere, toplu iş sözleşmesi yapmalarının, uyuşmazlıkları barışçı yollarla çözümlemelerinin ve grev ve lokavtın esaslarını ve usullerini tespit etmektir.

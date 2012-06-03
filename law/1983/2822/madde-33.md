@@ -1,0 +1,3 @@
+Grev ve lokavtın ertelenmesi:
+Madde 33 – Karar verilmiş veya başlanmış olan kanuni bir grev veya lokavt genel sağlığı veya milli güvenliği bozucu nitelikte ise Bakanlar Kurulu bu uyuşmazlıkta grev ve lokavtı bir kararname ile altmış gün süre ile erteleyebilir. Erteleme süresi, kararnamenin yayımı tarihinde işlemeye başlar.
+Bakanlar Kurulunun erteleme kararları aleyhine Danıştayda iptal davası açılabilir ve yürütmenin durdurulmasına karar verilmesi istenebilir. Olağanüstü halin ilan edildiği bölgelerde grev ve lokavt ertelenmesi kararlarına ilişkin davalarda yürütmenin durdurulmasına karar verilemez.

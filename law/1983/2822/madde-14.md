@@ -1,0 +1,4 @@
+İşveren sendikasının veya işverenin başvurusu:
+Madde 14 – Bir toplu iş sözleşmesi yapmak isteyen işveren sendikası veya sendika üyesi olmayan işveren Çalışma Bakanlığına yazıyla başvurarak yetkili işçi sendikasının tespitini ister.
+Çalışma Bakanlığı; tespit edilen yetkili işçi sendikasının isim ve adresini, işkolundaki ve o işyerindeki işçi sayısı ile, bu sendikanın işkolunda ve o işyerindeki üye sayısını, işkolunda kurulu işçi sendikalarına ve talepte bulunan işveren sendikasına veya sendika üyesi olmayan ilgili işverene başvurunun alındığı tarihten itibaren altı işgünü içinde bildirir. Yetkili sendika bulunmaması halinde durum altı işgünü içinde sadece başvuruda bulunan işveren sendikasına veya sendika üyesi olmayan işverene bildirilir.
+İşçilerin ve sendika üyelerinin tespit edilmesinde 12 ve 13 üncü maddede öngörülen esaslar uygulanır.

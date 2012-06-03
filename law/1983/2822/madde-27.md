@@ -1,0 +1,4 @@
+Kanuni grev ve kanuni lokavt kararı:
+Madde 27 – Bir veya birden çok işyerinde veya bir işletmede, bu yerlere ilişkin 21 inci maddedeki uyuşmazlığın çözülemediğini 23 üncü madde uyarınca belirten tutanağın tebliğinden itibaren altı işgünü geçmeden grev kararı alınamaz.
+Birinci fıkrada öngörülen sürenin geçmesinden sonra kanuni grev kararı altı işgünü içinde uyuşmazlığın tarafı işçi sendikasınca alınabilir. Bu süre içinde grev kararı alınmazsa veya grev yasaklarında Yüksek Hakem Kuruluna başvurulmazsa yetki belgesinin hükmü kalmaz.
+Uyuşmazlığın tarafı olan işveren sendikası veya sendika üyesi olmayan işveren, işçi sendikasının almış olduğu grev kararının kendisine tebliğinden itibaren altı işgünü içinde lokavt kararı alabilir. Grev kararı uyuşmazlığın kapsamındaki işyerlerinin bir kısmı için alınmış olsa dahi lokavt kararı o uyuşmazlığın kapsamındaki başka işyerleri için de alınabilir.

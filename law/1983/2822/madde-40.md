@@ -1,0 +1,3 @@
+Grev ve lokavta katılmayacak işçilerin ismen belirlenmesi:
+Madde 40 – Grev ve lokavtın uygulanacağı dönemde hangi işçilerin işyerinde çalışmaya devam edecekleri bölge çalışma müdürlüğünce grev ve lokavt kararının müdürlüğe bildirilmesinden itibaren üç işgünü içinde resen tespit edilerek ilgili işverene ve işçilere yazı ile bildirilir. O işyerinde çalışan ve toplu görüşmede taraf olan işçi sendikasının ve şubesinin başkan veya yönetim kurulu üyesi bulunan işçiler bu hükme tabi tutulamazlar.
+İşveren 39 uncu madde uyarınca belirlenen işlerin yerine getirilebilmesi için, grev ve lokavta katılamayacak işçilerden herhangi bir nedenle çalışmayanların yerine bölge çalışma müdürlüğünün yazılı izni ile yeni işçi alabilir.

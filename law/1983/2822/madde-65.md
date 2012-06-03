@@ -1,0 +1,2 @@
+Hakeme ve arabulucuya başvurma tüzüğü:
+Madde 65 – Yüksek Hakem Kurulunun çalışma usul ve tarzı ile çalışmasına ve hizmetlerinin yürütülmesine ilişkin esaslar; Yüksek Hakem Kurulunun başkan ve üyeleri ile bu Kurulda görevlendirilecek uzman ve raportörlere ödenecek tazminatlar; naip, bilirkişi ve tanıklara verilecek ücretler ve menfaat uyuşmazlıklarında özel hakem incelemesinde uygulanacak usul hükümleri bir tüzükle düzenlenir.

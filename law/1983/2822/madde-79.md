@@ -1,0 +1,4 @@
+Kanuna aykırı şekilde grev gözcülüğü ve diğer fiiller:
+Madde 79 – 48 inci maddede gösterilenden fazla sayıda veya işyerinde grevi ilan etmiş olan işçi sendikasının mensubu olmayan grev gözcüsü koyanlar veya aynı şekilde fazla sayıda ve bir arada veya işyerinde grevi ilan etmiş olan işçi sendi kasının mensubu olmaksızın grev gözcülüğü yapanlar iki aydan altı aya kadar, aynı maddenin ikinci fıkrasına aykırı hareket eden grev gözcüleri de dört aydan bir yıla kadar hapis cezasına mahkum edilirler.
+5789
+(Değişik ikinci fıkra: 23/1/2008-5728/398 md.) Grev uygulanan işyerinde, “Bu işyerinde grev vardır” lokavt uygulanan işyerinde de, “Bu işyerinde lokavt vardır” ibareleri dışında, sözü edilen işyerleri çevrelerinde afiş, pankart gibi ilan araçlarını asan veya yazı yazanlarla, işyeri ve çevresinde uygulanan grev sebebiyle kulübe, baraka, çadır gibi barınma yerleri yapanlar veya yaptıranlar altı aya kadar hapis cezası ile cezalandırılır.

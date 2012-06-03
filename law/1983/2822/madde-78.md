@@ -1,0 +1,5 @@
+Madde 78 – (Değişik : 23/1/2008-5728/397 md.)
+Grev ve lokavtın uygulandığı işyerlerinde 39 uncu madde gereğince çalıştırmak zorunda olduğu işçileri çalıştırmayan işveren üç aydan bir yıla kadar hapis cezası ile cezalandırılır.
+40 ıncı maddenin ikinci fıkrasında belirtilen yazılı izni almadan yeni işçi alan işveren izinsiz aldığı her bir işçiyle ilgili olarak elli gün adlî para cezası ile cezalandırılır.
+43 üncü madde hükmüne aykırı hareket eden işveren veya işvereni söz konusu hükme aykırı hareket etmeye zorlayan veya teşvik eden veya bu yolda propagandada bulunanlar, söz konusu hükme aykırı olarak aldıkları veya alınmasına sebep oldukları veya grev yapan işçilerin yerine çalıştırdıkları her bir işçiyle ilgili olarak yüzelli gün adlî para cezası ile cezalandırılır.
+44 üncü madde hükmüne aykırı olarak işçileri konutlarından çıkaran veya bu konutların su, gaz, aydınlatma veya ısıtma hizmetlerini kesen işveren veya işvereni bu yolda hareket etmeye zorlayan veya teşvik eden veya bunun için propaganda yapanlar, fiilleri daha ağır cezayı gerektiren bir suç oluşturmadığı takdirde, bir yıla kadar hapis cezası ile cezalandırılır.

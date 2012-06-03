@@ -1,0 +1,4 @@
+Uyuşmazlığın incelenmesi:
+Madde 54 – Yüksek Hakem Kurulu başvuru dilekçesinin alındığı günden başlayarak altı işgünü içinde üyelerinin tamamının katılması ile toplanır. Ancak, başkan hariç üyelerden ikisinin katılmaması toplantıya engel olmaz. Özürlü veya izinli olan asıl başkan veya üyenin yerini aynı gruptan yedek başkan veya yedek üyelerden biri alır.
+Yüksek Hakem Kurulu uyuşmazlığı evrak üzerinde inceler. Yeteri kadar aydınlatılmamış bulduğu yönleri ilgililerden sorarak tamamlar. Ayrıca. görüşlerini öğrenmek istediği kimseleri çağırıp dinler veya bunların görüşlerini yazı ile bildirmelerini ister. Bu kimseler hakkında Hukuk Usulü Muhakemeleri Kanununun tanıklara ve bilirkişilere ilişkin hükümleri uygulanır.
+Yüksek Hakem Kurulu toplantıya katılanların çoğunluğu ile karar verir. Lehte ve aleyhte oylar eşit ise başkanın bulunduğu taraf çoğunluğu sağlar.
