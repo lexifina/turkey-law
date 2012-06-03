@@ -1,5 +1,5 @@
 Belediye başkanının özlük hakları
-MADDE 39. — Belediye başkanına nüfusu;
+Madde 39- Belediye başkanına nüfusu;
 a) 10.000'e kadar olan beldelerde 70.000,
 b) 10.001'den 50.000'e kadar olan beldelerde 80.000,
 c) 50.001'den 100.000'e kadar olan beldelerde 100.000,

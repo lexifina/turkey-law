@@ -1,12 +1,15 @@
 Belediyenin yetkileri ve imtiyazları
-MADDE 15. — Belediyenin yetkileri ve imtiyazları şunlardır:
+Madde 15- Belediyenin yetkileri ve imtiyazları şunlardır:
 a) Belde sakinlerinin mahallî müşterek nitelikteki ihtiyaçlarını karşılamak amacıyla her türlü faaliyet ve girişimde bulunmak.
 b) Kanunların belediyeye verdiği yetki çerçevesinde yönetmelik çıkarmak, belediye yasakları koymak ve uygulamak, kanunlarda belirtilen cezaları vermek.
 c) Gerçek ve tüzel kişilerin faaliyetleri ile ilgili olarak kanunlarda belirtilen izin veya ruhsatı vermek.
 d) Özel kanunları gereğince belediyeye ait vergi, resim, harç, katkı ve katılma paylarının tarh, tahakkuk ve tahsilini yapmak; vergi, resim ve harç dışındaki özel hukuk hükümlerine göre tahsili gereken doğal gaz, su, atık su ve hizmet karşılığı alacakların tahsilini yapmak veya yaptırmak.
+–––––––––––––––––––––
+(1) Bu maddenin birinci fıkrasının (b) bendinde yer alan "Okul öncesi eğitim kurumları açabilir;..." ifadesi Anayasa Mahkemesi’nin 24/1/2007 tarihli ve E. 2005/95, K. 2007/5 sayılı Kararı ile iptal edilmiştir.
+9474
 e) Müktesep haklar saklı kalmak üzere; içme, kullanma ve endüstri suyu sağlamak; atık su ve yağmur suyunun uzaklaştırılmasını sağlamak; bunlar için gerekli tesisleri kurmak, kurdurmak, işletmek ve işlettirmek; kaynak sularını işletmek veya işlettirmek.
 f) Toplu taşıma yapmak; bu amaçla otobüs, deniz ve su ulaşım araçları, tünel, raylı sistem dâhil her türlü toplu taşıma sistemlerini kurmak, kurdurmak, işletmek ve işlettirmek.
-g) Katı atıkların toplanması, taşınması, ayrıştırılması, geri kazanımı, ortadan kaldırılması ve depolanması ile ilgili bütün hizmetleri yapmak ve yaptırmak
+g) Katı atıkların toplanması, taşınması, ayrıştırılması, geri kazanımı, ortadan kaldırılması ve depolanması ile ilgili bütün hizmetleri yapmak ve yaptırmak.
 h) Mahallî müşterek nitelikteki hizmetlerin yerine getirilmesi amacıyla, belediye ve mücavir alan sınırları içerisinde taşınmaz almak, kamulaştırmak, satmak, kiralamak veya kiraya vermek, trampa etmek, tahsis etmek, bunlar üzerinde sınırlı aynî hak tesis etmek.
 i) Borç almak, bağış kabul etmek.
 j) Toptancı ve perakendeci hâlleri, otobüs terminali, fuar alanı, mezbaha, ilgili mevzuata göre yat limanı ve iskele kurmak, kurdurmak, işletmek, işlettirmek veya bu yerlerin gerçek ve tüzel kişilerce açılmasına izin vermek.
@@ -18,6 +21,7 @@ o) Gayrisıhhî işyerlerini, eğlence yerlerini, halk sağlığına ve çevreye
 p) Kara, deniz, su ve demiryolu üzerinde işletilen her türlü servis ve toplu taşıma araçları ile taksi sayılarını, bilet ücret ve tarifelerini, zaman ve güzergâhlarını belirlemek; durak yerleri ile karayolu, yol, cadde, sokak, meydan ve benzeri yerler üzerinde araç park yerlerini tespit etmek ve işletmek, işlettirmek veya kiraya vermek; kanunların belediyelere verdiği trafik düzenlemesinin gerektirdiği bütün işleri yürütmek.
 (l) bendinde belirtilen gayrisıhhî müesseselerden birinci sınıf olanların ruhsatlandırılması ve denetlenmesi, büyükşehir ve il merkez belediyeleri dışındaki yerlerde il özel idaresi tarafından yapılır.
 Belediye, (e), (f) ve (g) bentlerinde belirtilen hizmetleri Danıştayın görüşü ve İçişleri Bakanlığının kararıyla süresi kırkdokuz yılı geçmemek üzere imtiyaz yoluyla devredebilir; toplu taşıma hizmetlerini imtiyaz veya tekel oluşturmayacak şekilde ruhsat vermek suretiyle yerine getirebileceği gibi toplu taşıma hatlarını kiraya verme veya 67 nci maddedeki esaslara göre hizmet satın alma yoluyla yerine getirebilir.
+9475
 İl sınırları içinde büyükşehir belediyeleri, belediye ve mücavir alan sınırları içinde il belediyeleri ile nüfusu 10.000'i geçen belediyeler, meclis kararıyla; turizm, sağlık, sanayi ve ticaret yatırımlarının ve eğitim kurumlarının su, termal su, kanalizasyon, doğal gaz, yol ve aydınlatma gibi alt yapı çalışmalarını faiz almaksızın on yıla kadar geri ödemeli veya ücretsiz olarak yapabilir veya yaptırabilir, bunun karşılığında yapılan tesislere ortak olabilir; sağlık, eğitim, sosyal hizmet ve turizmi geliştirecek projelere İçişleri Bakanlığının onayı ile ücretsiz veya düşük bir bedelle amacı dışında kullanılmamak kaydıyla arsa tahsis edebilir.
 Belediye, belde sakinlerinin belediye hizmetleriyle ilgili görüş ve düşüncelerini tespit etmek amacıyla kamuoyu yoklaması ve araştırması yapabilir.
 Belediye mallarına karşı suç işleyenler Devlet malına karşı suç işlemiş sayılır. 2886 sayılı Devlet İhale Kanununun 75 inci maddesi hükümleri belediye taşınmazları hakkında da uygulanır.

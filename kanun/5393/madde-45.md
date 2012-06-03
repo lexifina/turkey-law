@@ -1,5 +1,5 @@
 Belediye başkanlığının boşalması hâlinde yapılacak işlemler
-MADDE 45. — Belediye başkanlığının herhangi bir nedenle boşalması durumunda, vali tarafından belediye meclisinin on gün içinde toplanması sağlanır. Meclis, birinci başkan vekilinin, onun bulunmaması durumunda ikinci başkan vekilinin, onun da bulunmaması durumunda en yaşlı üyenin başkanlığında toplanarak;
+Madde 45- Belediye başkanlığının herhangi bir nedenle boşalması durumunda, vali tarafından belediye meclisinin on gün içinde toplanması sağlanır. Meclis, birinci başkan vekilinin, onun bulunmaması durumunda ikinci başkan vekilinin, onun da bulunmaması durumunda en yaşlı üyenin başkanlığında toplanarak;
 a) Belediye başkanlığının boşalması veya seçim dönemini aşacak biçimde kamu hizmetinden yasaklanma cezasının verilmiş olması durumunda bir başkan,
 b) Başkanın görevden uzaklaştırılması, tutuklanması veya seçim dönemini aşmayacak biçimde kamu hizmetinden yasaklama cezası alması durumunda bir başkan vekili,
 Seçer.
@@ -8,3 +8,4 @@ Birinci fıkranın (b) bendi uyarınca başkan vekili seçildikten sonra belediy
 Yeni seçilen belediye başkanının görev süresi, yerine seçildiği başkanın görev süresi ile sınırlıdır. Başkan vekili, yeni başkan seçilinceye veya görevden uzaklaştırılmış ya da tutuklanmış olan başkan göreve dönünceye kadar görev yapar.
 Belediye başkanı veya başkan vekili seçilinceye kadar belediye başkanlığı görevi, meclis birinci başkan vekili, bulunmaması durumunda ikinci başkan vekili, onun da bulunmaması durumunda vali tarafından görevlendirilecek bir kamu görevlisi tarafından yürütülür.
 Belediye başkanı veya başkan vekili seçimi en geç onbeş gün içinde tamamlanmadığı takdirde belediye meclisinin feshine ilişkin hükümler uygulanır.
+9485

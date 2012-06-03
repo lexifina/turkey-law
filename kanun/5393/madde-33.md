@@ -1,7 +1,7 @@
 İKİNCİ BÖLÜM
 Belediye Encümeni
 Belediye encümeni
-MADDE 33. — Belediye encümeni, belediye başkanının başkanlığında;
+Madde 33- Belediye encümeni, belediye başkanının başkanlığında;
 a) İl belediyelerinde ve nüfusu 100.000'in üzerindeki belediyelerde, belediye meclisinin her yıl kendi üyeleri arasından bir yıl için gizli oyla seçeceği üç üye, malî hizmetler birim amiri ve belediye başkanının birim amirleri arasından bir yıl için seçeceği iki üye olmak üzere yedi kişiden,
 b) Diğer belediyelerde, belediye meclisinin her yıl kendi üyeleri arasından bir yıl için gizli oyla seçeceği iki üye, malî hizmetler birim amiri ve belediye başkanının birim amirleri arasından bir yıl için seçeceği bir üye olmak üzere beş kişiden,
 Oluşur.

@@ -1,5 +1,5 @@
 Belediye başkanlığının sona ermesi
-MADDE 44. — Belediye başkanlığı, ölüm ve istifa hâllerinde kendiliğinden sona erer.
+Madde 44- Belediye başkanlığı, ölüm ve istifa hâllerinde kendiliğinden sona erer.
 Belediye başkanının;
 a) Mazeretsiz ve kesintisiz olarak yirmi günden fazla görevini terk etmesi ve bu durumun mahallin mülkî idare amiri tarafından belirlenmesi,
 b) Seçilme yeterliğini kaybetmesi,

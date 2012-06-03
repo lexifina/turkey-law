@@ -22,3 +22,5 @@ mahkum olmamak.
 f) Güvenlik soruşturması olumlu sonuçlanmış olmak.
 g) Yapılacak olan sınavlarda başarılı olmak.
 Türk Silahlı Kuvvetlerinde istihdam edilenler ile uzman erbaşların bu görevlerinde aldıkları sicilin, sicil tam notunun % 85 veya daha üstünde olması şarttır. Halen bu görevlerde bulunanlar ile askerlik hizmetini yapmakta iken müracaat edenlerin ayrıca, sıralı üstlerinden sözleşmeli astsubay olmaya layık olduklarına dair yönetmelikte belirtilen olumlu nitelik belgesi almaları zorunludur.
+–––––––––––––––––––
+(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 70 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “onbeş yıl” ibaresi “on yıl” şeklinde değiştirilmiştir.

@@ -1,2 +1,2 @@
 Şirket kurulması
-MADDE 70. — Belediye kendisine verilen görev ve hizmet alanlarında, ilgili mevzuatta belirtilen usûllere göre şirket kurabilir.
+Madde 70- Belediye kendisine verilen görev ve hizmet alanlarında, ilgili mevzuatta belirtilen usûllere göre şirket kurabilir.

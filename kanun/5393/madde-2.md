@@ -1,2 +1,2 @@
 Kapsam
-MADDE 2. — Bu Kanun belediyeleri kapsar.
+Madde 2- Bu Kanun belediyeleri kapsar.

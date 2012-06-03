@@ -1,7 +1,7 @@
 ÜÇÜNCÜ BÖLÜM
 Borçlanma ve İktisadî Girişimler
 Borçlanma
-MADDE 68. — Belediye, görev ve hizmetlerinin gerektirdiği giderleri karşılamak amacıyla aşağıda belirtilen usûl ve esaslara göre borçlanma yapabilir ve tahvil ihraç edebilir:
+Madde 68- Belediye, görev ve hizmetlerinin gerektirdiği giderleri karşılamak amacıyla aşağıda belirtilen usûl ve esaslara göre borçlanma yapabilir ve tahvil ihraç edebilir:
 a) Dış borçlanma, 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun hükümleri çerçevesinde sadece belediyenin yatırım programında yer alan projelerinin finansmanı amacıyla yapılabilir.
 b) İller Bankasından yatırım kredisi ve nakit kredi kullanan belediye, ödeme plânını bu bankaya sunmak zorundadır. İller Bankası hazırlanan geri ödeme plânını yeterli görmediği belediyenin kredi isteklerini reddeder.
 c) Tahvil ihracı, yatırım programında yer alan projelerin finansmanı için ilgili mevzuat hükümleri uyarınca yapılır.

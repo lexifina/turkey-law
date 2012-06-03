@@ -1,5 +1,5 @@
 Meclisin feshi
-MADDE 30. — Belediye meclisi;
+Madde 30- Belediye meclisi;
 a) Kendisine kanunla verilen görevleri süresi içinde yapmayı ihmal eder ve bu durum belediyeye ait işleri sekteye veya gecikmeye uğratırsa,
 b) Belediyeye verilen görevlerle ilgisi olmayan siyasî konularda karar alırsa,
 İçişleri Bakanlığının bildirimi üzerine Danıştayın kararı ile feshedilir.

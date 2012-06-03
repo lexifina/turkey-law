@@ -1,5 +1,5 @@
 Diğer kuruluşlarla ilişkiler
-MADDE 75. — Belediye, belediye meclisinin kararı üzerine yapacağı anlaşmaya uygun olarak görev ve sorumluluk alanlarına giren konularda;
+Madde 75- Belediye, belediye meclisinin kararı üzerine yapacağı anlaşmaya uygun olarak görev ve sorumluluk alanlarına giren konularda;
 a) Mahallî idareler ile diğer kamu kurum ve kuruluşlarına ait yapım, bakım, onarım ve taşıma işlerini bedelli veya bedelsiz üstlenebilir veya bu kuruluşlar ile ortak hizmet projeleri gerçekleştirebilir ve bu amaçla gerekli kaynak aktarımında bulunabilir. Bu takdirde iş, işin yapımını üstlenen kuruluşun tâbi olduğu mevzuat hükümlerine göre sonuçlandırılır.
 b) Mahallî idareler ile merkezî idareye ait aslî görev ve hizmetlerin yerine getirilmesi amacıyla gerekli aynî ihtiyaçları karşılayabilir, geçici olarak araç ve personel temin edebilir.
 c) Kamu kurumu niteliğindeki meslek kuruluşları, kamu yararına çalışan dernekler, özürlü dernek ve vakıfları, Bakanlar Kurulunca vergi muafiyeti tanınmış vakıflar ve 507 sayılı Esnaf ve Küçük Sanatkârlar Kanunu kapsamına giren meslek odaları ile ortak hizmet projeleri gerçekleştirebilir.

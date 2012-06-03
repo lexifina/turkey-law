@@ -1,5 +1,5 @@
 Encümenin görev ve yetkileri
-MADDE 34. — Belediye encümeninin görev ve yetkileri şunlardır:
+Madde 34- Belediye encümeninin görev ve yetkileri şunlardır:
 a) Stratejik plân ve yıllık çalışma programı ile bütçe ve kesinhesabı inceleyip belediye meclisine görüş bildirmek.
 b) Yıllık çalışma programına alınan işlerle ilgili kamulaştırma kararlarını almak ve uygulamak.
 c) Öngörülmeyen giderler ödeneğinin harcama yerlerini belirlemek.

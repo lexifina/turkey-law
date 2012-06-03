@@ -1,5 +1,5 @@
 Belediyenin giderleri
-MADDE 60. — Belediyenin giderleri şunlardır:
+Madde 60- Belediyenin giderleri şunlardır:
 a) Belediye binaları, tesisleri ile araç ve malzemelerinin temini, yapımı, bakımı ve onarımı için yapılan giderler.
 b) Belediyenin personeline ve seçilmiş organlarının üyelerine ödenen maaş, ücret, ödenek, huzur hakkı, yolluklar, hizmete ilişkin eğitim harcamaları ile diğer giderler.
 c) Her türlü alt yapı, yapım, onarım ve bakım giderleri.
