@@ -1,0 +1,2 @@
+Personel masrafları
+Madde 10 – Kurumların esas kadrolarındaki subay ve astsubaylar ile 657 sayılı Devlet Memurları Kanununa tabi personel döner sermaye işlerinde ek görevle çalıştırıldıkları takdirde, bu personelin 14 üncü maddeye göre ödenecek ek ücretleri ile, kurumların esas kadrolarındaki işçiler döner sermaye işlerinde çalıştırıldıkları takdirde, bunların çalışma saatlerine ait ücret ve primleri ve döner sermaye çalışmaları için esas kadroya ek olarak alınacak memur ve işçilerle sözleşmeli personele yapılacak her türlü ödeme ve masraflar döner sermayeden karşılanır.
