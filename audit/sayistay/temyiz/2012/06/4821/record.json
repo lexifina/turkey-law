@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "35112",
+  "decision_date": "2012-06-05",
+  "source_id": 4821,
+  "chamber": "8",
+  "file_number": "33587",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4821/",
+  "source_sha256": "0787b04a17066aa4dd35e381f616b9a098f9edacad065ab0174412f632ff3728",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
