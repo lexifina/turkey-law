@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-06-05",
+  "issue": "28314",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 31/5/2012 Tarihli ve 4774 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120605-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120605.htm",
+  "index_sha256": "3551cc2fe73f0442755b6ea93e32b80b6f88adf65a78aaeb1a09a3f2673f02b9",
+  "index_header": "5 Haziran 2012 ... 28314 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
