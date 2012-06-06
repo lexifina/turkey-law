@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.16050",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUNLA İLGİLİ GENEL TEBLİĞ (SERİ NO: 69)",
+  "number": "16050",
+  "path": "teblig/2012/16050",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16050&MevzuatTertip=5",
+  "source_sha256": "93864fb108f1d326260b6ae4276313cb01fd04f5ff76729af2f9b5ed235bb502",
+  "source_bytes": 15002,
+  "published": "2012-04-11",
+  "gazette": "28261",
+  "in_force": "2012-06-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/6/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-06-06",
+      "RG-6/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 676,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
