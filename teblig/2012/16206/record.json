@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.16206",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2012/2)",
+  "number": "16206",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2012/16206",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16206&MevzuatTertip=5",
+  "source_sha256": "b14022e72cfa98a132f315287cbb0659e1981c48c5ca7ffd1704e5ae0f995d8e",
+  "source_bytes": 23917,
+  "published": "2012-06-06",
+  "gazette": "28315",
+  "in_force": "2012-06-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.06.2012); own commencement article: \"Bu Tebliğ 19/5/2012 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 19/5/2012 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 454,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16206-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
