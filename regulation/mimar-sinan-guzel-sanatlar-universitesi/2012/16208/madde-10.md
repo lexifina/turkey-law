@@ -1,0 +1,3 @@
+Danışma kurulu ve görevleri
+MADDE 10 – (1) Danışma Kurulu; Müdür, müdür yardımcıları ve Yönetim Kurulunun diğer üyeleri ile birlikte Üniversite öğretim elemanları ve/veya mensupları, istekleri halinde endüstri tasarımı alanında çalışmaları olan kamu ve özel kuruluşlardaki kişiler arasından ve endüstri ürünleri tasarımının değişik alanlarında çalışmaları ve hizmetleri ile tanınan kişiler arasından Yönetim Kurulunun ve Müdürün önerisi üzerine Rektör tarafından üç yıl için görevlendirilen toplam dokuz üyeden oluşur.
+(2) Danışma Kurulu; Müdürün daveti üzerine yılda en az bir kez toplanır, Merkezin faaliyetleriyle ilgili değerlendirmeler yapar ve önerilerde bulunur.

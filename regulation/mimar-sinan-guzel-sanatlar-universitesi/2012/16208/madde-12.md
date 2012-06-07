@@ -1,0 +1,2 @@
+Çalışma grupları ve görevleri
+MADDE 12 – (1) Çalışma grupları, Merkezin amaçları doğrultusunda projelere yönelik olarak oluşturulur. Farklı projeler için farklı çalışma grupları oluşturulur. Çalışma grubu temsilcileri, Üniversitenin aylıklı ve devamlı statüdeki öğretim elemanları ve bilimsel araştırma projesi kapsamında ilgili merciilerden izin almak koşuluyla isdihdam edilecek personelden oluşturulur.
