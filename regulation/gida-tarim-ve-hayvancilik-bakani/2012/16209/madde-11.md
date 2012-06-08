@@ -1,0 +1,2 @@
+Hastalıklı yumurtaların imhası
+MADDE 11 – (1) Yumurta üretimi hangi metotla yapılmış olursa olsun hastalıklı olduğuna karar verilen yumurtalara ait partilerin tamamı veya hastalıklı kese veya tavalara ait kelebeklerin yumurtalarının tamamı, yumurta üretici işletme temsilcisinin de hazır bulunduğu yumurta üretim işletmesinde, il müdürlüğü elemanlarının kontrolü altında yakılmak suretiyle imha edilir, bu durum tutanakla tespit edilir.

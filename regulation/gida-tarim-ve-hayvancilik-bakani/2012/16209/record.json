@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.16209",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İPEKBÖCEĞİ YUMURTASI ÜRETİMİ VE KONTROLÜNE İLİŞKİN YÖNETMELİK",
+  "number": "16209",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2012/16209",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16209&MevzuatTertip=5",
+  "source_sha256": "e0ef75cf1e847cac0a4306fe57b08824dbc921ab6257c6535e8701364d6ca20f",
+  "source_bytes": 40930,
+  "published": "2012-06-08",
+  "gazette": "28317",
+  "in_force": "2012-06-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.06.2012); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2179,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16209-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
