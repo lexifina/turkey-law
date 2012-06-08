@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-06-08",
+  "issue": "28317",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Pamukların Kontrolüne İlişkin Tebliğ (Ürün Güvenliği ve Denetimi: 2012/25)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120608-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120608.htm",
+  "index_sha256": "e73dbc83825d1cacbfaa72fd70d66fee518085f9293beb120d181a6a88d892c1",
+  "index_header": "8 Haziran 2012 ... 28317 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
