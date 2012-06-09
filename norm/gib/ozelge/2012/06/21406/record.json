@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.01-KDV8-92",
+  "source_id": 21406,
+  "date": "2012-06-09",
+  "title": "Ticket yemek kartı tutarını teşkil eden faturaların KDV'sinin indirim konusu yapılıp yapılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21406",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "204dd7edd23c54a2143bae631cd8c050216c83330dbfea104a5cb02b656c1047",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
