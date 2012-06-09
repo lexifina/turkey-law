@@ -1,0 +1,2 @@
+Çalışma ve uygulama birimleri
+MADDE 14 – (1) Müdür, Merkezin faaliyetlerini gerçekleştirmek veya bu faaliyetleri yürütmek üzere, bir Yönetim Kurulu üyesi ile Üniversite birimlerindeki ilgili akademik ve/veya idari personelden oluşan çalışma ve uygulama birimleri oluşturabilir. Çalışma ve uygulama birimleri, Müdür ve/veya görevlendireceği kişi başkanlığında toplanır ve yapılan çalışmalarla ilgili olarak Müdüre önerilerde bulunur.
