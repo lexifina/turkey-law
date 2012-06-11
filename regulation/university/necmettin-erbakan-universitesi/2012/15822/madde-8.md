@@ -1,0 +1,8 @@
+Yönetim kurulu ve görevleri
+MADDE 8 – (1) Yönetim Kurulu; Rektörün başkanlığında, Dekan, Merkez Müdürü, cerrahi ve dahili tıp bilimleri bölüm başkanları ve tercihen Üniversitenin diğer fakültelerindeki öğretim üyeleri arasından Rektör tarafından bir yıl için görevlendirilecek bir öğretim üyesi ile hasta tetkik laboratuvarı olan anabilim dallarındaki öğretim üyeleri arasından Dekanın önerisi üzerine Rektör tarafından bir yıl için görevlendirilecek bir kişiden oluşur.
+(2) Yönetim Kurulu Başkanı Rektördür. Rektörün katılmadığı toplantılarda başkanlığa Dekan vekalet eder. Yönetim Kurulu üyesi olan bölüm başkanı bulunmadığı zamanlarda yerine vekili katılır. Rektörün görevlendirdiği öğretim üyeleri tekrar görevlendirilebilir. Üyeler görev sürelerinden önce ayrılırlarsa yerlerine aynı yöntem ve aynı süre ile yeni üyeler görevlendirilir. Yönetim Kurulu ayda en az bir defa olağan, Başkan veya en az iki üyenin gündemi belirten yazılı ya da sözlü başvurması halinde ise iki gün içinde olağanüstü toplanır. Yönetim Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+(3) Yönetim Kurulunun görevleri şunlardır:
+a) İlgili mevzuat ve Danışma Kurulunun alacağı istişari kararlar ışığında Merkezin yönetimi için gerekli kararları almak, Merkezin yönetiminde Merkez Müdürüne yardımcı olmak.
+b) Merkezde eğitim ve araştırma faaliyetlerini sağlayacak ve geliştirecek alt yapı imkanlarının oluşmasını planlamak.
+c) Merkezde faaliyette bulunan klinik ve laboratuvar birimlerinin, idari ünitelerin ve kurulan yeni ünitelerin rasyonel çalışması için gerekli çalışma plan ve programlarını hazırlamak, bunlar arasında gerekli koordinasyonu sağlamak.
+ç) İlgili mevzuatla verilen diğer görev ve sorumlulukları yerine getirmek.
