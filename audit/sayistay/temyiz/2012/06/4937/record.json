@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "35228",
+  "decision_date": "2012-06-12",
+  "source_id": 4937,
+  "chamber": "6",
+  "file_number": "33473",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/4937/",
+  "source_sha256": "dceee703d22ad68878b6aca05fd3e1a711dbe70c9cb1d0df7c3a2611452a6929",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
