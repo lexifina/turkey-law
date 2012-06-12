@@ -1,0 +1,2 @@
+İşbirlikleri
+MADDE 24 – (1) Hizmet ve faaliyet mekânları, eğitim ve faaliyetlerin planlanması, yürütülmesi, eğitimci temini, mali destek sağlanması ve Merkezin gelişimi gibi konularda; yerel yönetimler, sivil toplum kuruluşları, özel sektör, kamu kurum ve kuruluşları, vakıflar ve benzeri ile işbirlikleri gerçekleştirilebilir. Bu kuruluşlar ile gerçekleştirilecek işbirliklerinin sağlıklı bir şekilde yürütülmesi için çalışma ve görevlendirme usul ve esasları bir protokolle belirlenir.
