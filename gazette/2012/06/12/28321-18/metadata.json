@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-06-12",
+  "issue": "28321",
+  "edition": "regular",
+  "item": 18,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Organik Tarım Destekleme Ödemesi Yapılmasına Dair Tebliğ (No: 2012/47)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120612-18.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120612.htm",
+  "index_sha256": "114e628cf9c3f0ad36c490a4310aef466d8910ac11cb88d78b96b6dfac6cd966",
+  "index_header": "12 Haziran 2012 ... 28321 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
