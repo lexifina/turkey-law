@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 10 – (1) Merkez bünyesinde uzaktan eğitim etkinliklerinin izlenmesi, geliştirilmesi ve değerlendirilmesi amacıyla; Merkez Müdürü, program kurulu üyeleri, bilgi teknolojileri ve uzaktan eğitim alanında çalışmaları olan öğretim elemanları ile konu alanındaki kurum ve kuruluş temsilcilerinden oluşan bir Danışma Kurulu kurulur. Danışma Kurulu üye sayısı onbeşi geçemez. Danışma Kurulu üyeleri, Merkez Müdürünün teklifi üzerine Genel Müdür tarafından görevlendirilir. Danışma Kurulunun görev süresi iki yıldır. Genel Müdür, süresi biten kurul üyesini aynı usulle yeniden görevlendirilebilir.
+(2) Danışma Kurulu, Merkez Müdürü tarafından tespit edilen tarihte toplanır; ilgili hizmetin yürütülmesiyle ilgili çalışmalar hakkında öneri ve katkılarda bulunur.
