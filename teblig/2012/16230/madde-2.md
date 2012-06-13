@@ -1,0 +1,5 @@
+Önleme tabi madde
+MADDE 2 – (1) Önleme tabi madde 5513, 5514, 5515 ve 5516 gümrük tarife pozisyonlarında yer alan “sentetik veya suni devamsız liflerden dokunmuş mensucat”tır.
+(2) Sentetik veya suni devamsız liflerden dokunmuş söz konusu kumaşlar, sentetik veya suni kesik elyaf ağırlığını korumakla birlikte, viskon-keten-pamuk-likra gibi muhtelif karışım ilaveleriyle çok geniş çeşitliliğe ve ikame özelliğine sahiptir. Suni lifler, selüloz gibi doğal maddelerden mamul olanları, sentetik lifler ise petrol esaslı hammaddelerden elde edilmiş olanları ifade etmektedir.
+(3) Soruşturma konusu mensucat, içerdiği elyafın karışım nispetinin yanı sıra birim alan ağırlığı, iplik numarası, dokuma sıklığı, eni ve boyanmış olup olmamasına bağlı olarak çeşitli tiplerde olabilmektedir. Konfeksiyon ve ev tekstilinde kullanılan sentetik ve suni liflerden dokunmuş kumaşlar, kullanıcı tercihleri bakımından çeşitlilik göstermekle birlikte pazarda birbirlerini ikame edebilmektedir.
+(4) Bahse konu gümrük tarife pozisyonları, yalnızca bilgi amaçlı verilmiş olup, bağlayıcı mahiyette değildir.

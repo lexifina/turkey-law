@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 4 – (1) 20/7/2011 tarihli ve 28000 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2011/12 sayılı Tebliğ ile mevcut önlemlerin yürürlükte kalma sürelerinin sona ereceği ve bahse konu ürünün yerli üreticilerinin mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir başvuru ile bir nihai gözden geçirme soruşturması açılması talebinde bulunabilecekleri ilan edilmiştir.
+(2) Bu çerçevede yapılan başvurunun incelenmesi neticesinde, ÇHC menşeli önleme konu ürün için uygulanan dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir nihai gözden geçirme soruşturması açılması için yeterli delillerin bulunduğu anlaşılmıştır.
