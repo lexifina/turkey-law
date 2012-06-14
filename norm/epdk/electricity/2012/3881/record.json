@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3881",
+  "decision_date": "2012-06-14",
+  "title": "Düzenleyici hesap planının oluşturulması",
+  "resmi_gazete_date": "2012-06-22",
+  "resmi_gazete_number": "28331",
+  "categories": [
+    "Hesap Planı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=riT8zcu5cBQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=riT8zcu5cBQ="
+  ],
+  "source_sha256": "fe592c359c99aa7cffdefbe0950c7f3a15520108a412062364165a1331d8a810",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7538,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2012-06-14",
+  "law_text_complete": false
+}
