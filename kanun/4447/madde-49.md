@@ -1,0 +1,11 @@
+İşsizlik sigortası primleri ile sosyal güvenlik primlerine ilişkin hükümler (1)(2)
+Madde 49 – (Değişik : 17/4/2008-5754/90 md.)
+İşsizlik sigortasının gerektirdiği ödemeleri, hizmet ve yönetim giderlerini karşılamak üzere, bu Kanunun 46 ncı maddesi kapsamına giren tüm sigortalılar, işverenler ve Devlet, işsizlik sigortası primi öder. İşsizlik sigortası primi, sigortalının 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 80 ve 82 nci maddelerinde belirtilen prime esas aylık brüt kazançlarından % 1 sigortalı, % 2 işveren ve %1 Devlet payı olarak alınır. (Ek cümle: 13/2/2011-6111/70 md.) İsteğe bağlı sigortalılardan işsizlik sigortası primini ödeyenlerden ise % 1 sigortalı ve % 2 işveren payı alınır.
+İşverenler, işsizlik sigortasına ilişkin prim yükümlülükleri nedeniyle sigortalıların ücretlerinden herhangi bir indirim veya kesinti yapamazlar.
+Herhangi bir nedenle işçinin sigortalılık durumunun sona ermesi halinde, o ana kadar işçiden ve işverenden kesilen işsizlik sigortası primleri ile Devlet payı iade edilmez.
+İşsizlik sigortasına işverenlerce ödenen primler kazancın tespitinde gider olarak kabul edilir, sigortalılarca ödenen primler de gerçek ücretin hesaplanmasında gelir vergisi matrahından indirilir.
+İşsizlik sigortası primleri ile ilgili olarak; 5510 sayılı Kanunun 80, 82, 86, 88, 89, 90, 91, 93 ve 100 üncü madde hükümleri uygulanır.
+İşsizlik sigortası primlerinin toplanmasından, sigortalı ve işyeri bazında kayıtların tutulmasından, toplanan primler ile uygulanacak gecikme cezası ile gecikme zammının Fona aktarılmasından, teminat ve hak edişlerin prim borcuna karşılık tutulmasından, yersiz olarak alınan primlerin iadesinden Sosyal Güvenlik Kurumu görevli, yetkili ve sorumludur.
+Sosyal Güvenlik Kurumu bir ay içinde tahsil ettiği primler ile gecikme cezası, gecikme zammı ayrı ayrı göstermek suretiyle tahsil edildiği ayı izleyen ayın onbeşine kadar Fona aktarır. Uygulamaya ilişkin hususlar Sosyal Güvenlik Kurumu ve Kurum arasında düzenlenen bir protokol ile belirlenir.
+Kurum, Sosyal Güvenlik Kurumunun ay itibarıyla Fona intikal ettirdiği işçi ve işveren paylarını dikkate alarak Devlet payını Hazine Müsteşarlığından talep eder. Hazine Müsteşarlığı talep edilen miktarı talep tarihini izleyen onbeş gün içinde Fona aktarır.
+(Mülga son fıkra: 31/5/2012-6322/26 md.)
