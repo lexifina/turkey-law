@@ -1,0 +1,3 @@
+Çalışma süresi
+Madde 25 — Çalışma süresi, 4857 sayılı İş Kanunu ve hükümlülerin iyileştirilmesi ve eğitim çalışmaları için ayrılan süre göz önünde tutularak, günde bir saatten az ve yedi buçuk saatten çok olmamak üzere, ceza infaz kurumu (Değişik ibare:RG-15/6/2012-28324) iç yönetmeliğinde belirtilir. Bu süre haftada en çok kırk beş saattir.
+Fazla çalışma süresi, günde üç saati geçemeyeceği gibi fazla çalışma yapılacak günlerin toplamı da bir yılda doksan iş gününden veya iki yüz yetmiş saatten fazla olamaz. Ancak, kamu yararı, işin niteliği veya üretimin artırılması gibi sebeplerle fazla çalışma yaptırılabilir.

@@ -1,0 +1,13 @@
+Çalıştırmanın kapsamı
+Madde 21 — Hükümlüler, bulundukları ceza infaz kurumlarının içinde veya dışında işyurduna ait atölye ve işkollarında veyahut kurum dışında kamu veya özel sektöre ait işyerlerinde; tutuklular ile hükmen tutuklular ise ceza infaz kurumu içindeki atölye ve işkollarında çalıştırılırlar.
+Hükümlüler, (Değişik ibare:RG-15/6/2012-28324) kendisine veya ortaklarına ait işyerleri ile üçüncü dereceye kadar kan ve kayın hısımlarına ait işyerlerinde çalıştırılamazlar. Bu tür işyerlerinde çalıştığı tespit edilen hükümlüler kapalı ceza infaz kurumuna iade edilir. Gerekli hassasiyeti göstermeyen idareciler hakkında da yasal işlem yapılır.
+Ceza infaz kurumu dışında çalıştırılan hükümlülerin çalıştıkları işyerinde yatmalarına izin verilmez. Çalışılan yer kendi ceza infaz kurumlarına yakınsa geceleri kurumlarına dönmeleri zorunludur. Kendi kurumlarının bulunduğu mahallin dışında bir iş yerinde çalıştırılan hükümlülerin geceleri, çalıştıkları mahalle en yakın açık ceza infaz kurumunda, açık ceza infaz kurumu bulunmadığı takdirde kapalı ceza infaz kurumunun hükümlü ve tutuklularla irtibatı olmayacak bir bölümünde barındırılır.
+Açık ceza infaz kurumlarındaki hükümlülerden; iş temin edildiği halde çalışmayanlar, işi savsaklayanlar, boykot edenler, sürekli hastalığı sebebiyle çalışamayacak durumda olanlar ve iş düzenine intibak edemeyenler kapalı ceza infaz kurumuna iade edilirler.
+Bakanlık; tarım, deniz ve su ürünleri avcılığı, inşaat, yol, maden ve orman gibi iş alanlarında çalışma ekipleri kurabilir. Bu ekip çalışmalarına, açık ceza infaz kurumu hükümlüleri ile kapalı ceza infaz kurumlarında hükümlülük süresinin enaz dörtte birini iyi hâlle geçiren hükümlüler katılırlar.
+Çalışma zorunluluğunun uygulanmasına elverişli ceza infaz kurumları yapılıncaya kadar;
+a) Açık ceza infaz kurumu hükümlüleri,
+b) Çocuk eğitimevi hükümlüleri,
+c) Açık ceza infaz kurumuna seçilme hakkını kazanmış olup da kapasite yetersizliği nedeniyle bu ceza infaz kurumuna gönderilemeyen ve ilçe kapalı ceza infaz kurumuna nakledilen hükümlüler,
+d) Kapalı ceza infaz kurumu hükümlülerinden şartla salıverilmelerine en çok iki yıl kalanlardan; Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Tüzükte düzenlenen şartları haiz olup açık ceza infaz kurumuna ayrılmış olanlar,
+kamu veya özel işyerlerinde, gruplar hâlinde, ceza infaz kurumu personelinin gözetimi ve koruması altında çalıştırılabilirler.
+Kapalı ceza infaz kurumlarındaki ekip ve grup çalışmalarına katılan hükümlüler dışında kalan hükümlüler, infaz kurumu dışındaki iş alanlarında güvenlik tedbirleri ve jandarma koruması altında çalıştırılabilirler.

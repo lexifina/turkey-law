@@ -1,0 +1,4 @@
+Prim vermede usul
+Madde 37 — Hükümlü ve tutukluların çalıştığı atölye veya işyerinde, (Mülga ibare:RG-15/6/2012-28324) (…), usta, (Ek ibare:RG-15/6/2012-28324) kalfa (Mülga ibare:RG-15/6/2012-28324) (…) ve çırak durumunda olanların derecelerine göre günde asgari ve ortalama üretim düzeyinin miktarı işyurdu yönetim kurulunca, yetkili atölye şeflerinin kanaatleri sorulmak suretiyle tespit edilir. Tespit edilen değerler atölyede herkes tarafından görülecek bir yere asılmak suretiyle hükümlü ve tutuklulara duyurulur.
+Asgari veya ortalama üretim düzeyinin altında veya üstünde iş yapan hükümlülerin ismi ve miktarı ilgili atölye şefinin raporuyla tespit edilir ve puantaj cetveline işlenir. İlgili hakkında karar işyurdu yönetim kurulunca verilir.
+Gündelikten indirim söz konusu ise ilgili hükümlü veya tutuklu işyurdu yönetim kurulunca dinlenir ve verilecek karar kendisine tebliğ edilir.

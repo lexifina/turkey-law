@@ -1,0 +1,2 @@
+Kâr payı ödemesi
+Madde 59 — İşyurtlarında görevli personel, işçi ve hükümlülere, işyurtlarının yıllık bilânçolarında tahakkuk edecek her türlü faaliyet dışı gelirleri ve faizler hariç olmak üzere kârlarının %25’ini aşmamak ve ilgilinin yıllık net ücretinin % 50’sini geçmemek üzere memur maaş katsayısının (10.000) gösterge rakamı ile çarpımı sonucu bulunacak miktara kadar ve çalıştıkları süre ile yaptıkları işin özellik ve güçlüğüne göre Yüksek Kurul kararı ile kâr payı ödenebilir. Ödemeler, çalışmayı takip eden bütçe yılında ve bir defada yapılır.

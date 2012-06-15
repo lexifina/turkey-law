@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.9735",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "CEZA İNFAZ KURUMLARI İLE TUTUKEVLERİ İŞYURTLARI KURUMU VE İŞYURTLARININ İDARE VE İHALE YÖNETMELİĞİ",
+  "number": "9735",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2005/9735",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9735&MevzuatTertip=5",
+  "source_sha256": "483c6d6b3812d26980fb742e5a79f4a6ec9ffe7270153e8fba03d3fff8bc5ab9",
+  "source_bytes": 176045,
+  "published": "2005-12-27",
+  "gazette": "26036",
+  "in_force": "2012-06-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/6/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-06-15",
+      "RG-15/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-06-14",
+      "RG-14/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4651,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
