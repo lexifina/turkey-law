@@ -5,3 +5,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının/BKK’nın Nu
 6215 | 17, 166, Geçici Madde 11 | 12/4/2011
 2011/1713 | 4, 17, Kanunun İkinci, Üçüncü, Dördüncü Kısımlarında yer alan başvuru süreleri | 30/4/2011
 6274 | 168 | 25/2/2011 tarihinden geçerli olmak üzere 11/2/2012
+6322 | Geçici Madde 19 | 15/6/2012
