@@ -4,3 +4,5 @@ MADDE 93 ilâ 95 – (8/6/1984 tarihli ve 233 sayılı Kamu İktisadi Teşebbüs
 MADDE 96 ilâ 98 - (11/1/1954 tarihli ve 6219 sayılı Türkiye Vakıflar Bankası Türk Anonim Ortaklığı Kanunu ile ilgili olup yerine işlenmiştir.)
 MADDE 99 ilâ 117 - (14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.)
 MADDE 118 – (27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)
+MADDE 119 ilâ 121 – (22/1/1990 tarihli ve 399 sayılı Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)
+11365

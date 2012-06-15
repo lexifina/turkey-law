@@ -1,7 +1,8 @@
 Yürürlük
-MADDE 215-(1) Bu Kanunun;
+MADDE 215- (1) Bu Kanunun;
 a) Aşağıdaki alt bentlerde belirtilen hükümleri 1/10/2008 tarihinden geçerli olmak üzere yayımı tarihinde;
 1) 24 üncü maddesiyle değiştirilen 5510 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (g) bendinin sonuna eklenen cümle,
+11376-2 11377
 2) 25 inci maddesiyle değiştirilen 5510 sayılı Kanunun 6 ncı maddesinin birinci fıkrasının (ı) bendinde “belgeleyenler ile 65 yaşını dolduranlardan talepte bulunanlar,” şeklindeki ibare değişikliği,
 3) 36 ncı maddesiyle 5510 sayılı Kanunun 67 nci maddesinin dördüncü fıkrasının ikinci cümlesinden çıkarılan ibare,
 4) 27 nci, 28 inci, 37 nci, 43 üncü, 46 ncı ve 5510 sayılı Kanunun geçici 12 nci maddesinin sekizinci fıkrasına eklenen cümle hariç 49 uncu maddeleri,
