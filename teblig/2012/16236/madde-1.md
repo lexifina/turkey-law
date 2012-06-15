@@ -1,0 +1,3 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, 36.05 gümrük tarife pozisyonunda yer alan kibritlerin ithalatında 1/6/2012 tarihli ve 28310 sayılı Resmî Gazete’de yayımlanan 2012/3230 sayılı Bakanlar Kurulu Kararı çerçevesinde açılan tarife kontenjanının başvuru ve dağıtım ile kullanım usul ve esaslarını içermektedir.
+(2) Tarife kontenjanı miktarı, ek mali yükümlülüğün uygulandığı her bir dönemde, Bakanlar Kurulu Kararı ekinde yer alan ülkeler ve gümrük bölgeleri menşeli tarife kontenjanı kapsamı eşyanın tamamı için toplam 110.572 kilogram olarak belirlenmiştir. Ancak her bir ülke veya gümrük bölgesi menşeli eşya için bir dönemde verilecek tarife kontenjanı 36.857 kilogramı geçemez.
