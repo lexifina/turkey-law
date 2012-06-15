@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6323",
+  "year": 2012,
+  "title": "Hazine Müsteşarlığı Tarafından Temsil Edilen Türkiye Cumhuriyeti Hükûmeti ile Maliye Bakanlığı Tarafından Temsil Edilen Kırgız Cumhuriyeti Hükûmeti Arasındaki Borç Silme Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-06-15",
+  "gazette_issue": "28324",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120615-2.htm",
+  "source_sha256": "5b225cb7f684a7a75c9ca6a5b1c7257996574deba00434256378f990e57f6ac9",
+  "text_sha256": "6399862c9b19a1dcaaecac03f8e9f1f835bc3d37f363a916e3c9c687ae69eb88",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/06/15/28324-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120615-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
