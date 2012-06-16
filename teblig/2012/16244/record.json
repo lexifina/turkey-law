@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.16244",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 67)",
+  "number": "16244",
+  "path": "teblig/2012/16244",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16244&MevzuatTertip=5",
+  "source_sha256": "bfa65e2c69151f83d287889e7d2facc8b5e96c78dec11660a8fe4ebefda9237f",
+  "source_bytes": 50675,
+  "published": "2012-06-16",
+  "gazette": "28325",
+  "in_force": "2012-06-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.06.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 922,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
