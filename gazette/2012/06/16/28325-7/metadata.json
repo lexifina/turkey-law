@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-06-16",
+  "issue": "28325",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Harçlar Kanunu Genel Tebliği (Seri No: 67)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120616-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120616.htm",
+  "index_sha256": "184eefe611352415a0851051a7f6e8b78fbbbd360ff41bfa693ead875eac337e",
+  "index_header": "16 Haziran 2012 ... 28325 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
