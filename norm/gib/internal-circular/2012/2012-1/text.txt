@@ -1,0 +1,51 @@
+T.C.
+MALİYE BAKANLIĞI
+Gelir İdaresi Başkanlığı
+Sayı : B.07.1.GİB.0.06.63-010.06.01[1]-64909 19/06/2012
+Konu : Kullanım izin harcı, yetkilendirme
+belgesi ve müşavirlik ruhsat harçları
+HARÇLAR KANUNU İÇ GENELGESİ
+SIRA NO: 2012/1
+........ VALİLİĞİNE
+(Defterdarlık:Gelir Müdürlüğü)
+........VERGİ DAİRESİ BAŞKANLIĞINA
+15/06/2012 tarih ve 28324 sayılı Resmi Gazete'de yayımlanan 6322 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun İle Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 20 nci maddesi ile 492 sayılı Kanunun (8) sayılı tarifesinin mülga "VIII- Telsiz harçları" bölümü yeniden düzenlenmiş ve tarifeye "VIII- Yolcu beraberinde getirilen telefon kullanım izin harcı" bölümü ile "XIV- Denetim yetkilendirme belgeleri ve müşavirlik ruhsat harçları" bölümleri eklenmiştir. Söz konusu düzenlemelere ilişkin açıklamalar 16/06/2012 tarih ve 28325 sayılı Resmi Gazete'de yayımlanan 67 Seri Numaralı Harçlar Kanunu Genel Tebliği ile yapılmıştır.
+I. Denetim Kuruluşları Yetkilendirme Belgeleri ve Müşavirlik Ruhsat Harçları
+6322 sayılı Kanunun 20 nci maddesiyle (8) sayılı tarifeye eklenen hükme istinaden yeminli mali müşavirlik ruhsatları, serbest muhasebeci mali müşavirlik ruhsatları ile bağımsız denetçi yetkilendirme belgeleri ve denetim kuruluşları yetkilendirme belgeleri harç kapsamına alınmıştır.
+Yeminli mali müşavirlik ve serbest muhasebeci mali müşavirlik ruhsatları ile bağımsız denetçi yetkilendirme belgeleri alındıklarında, bir defaya mahsus olmak üzere maktu harca tabi olacaklardır. Denetim kuruluşları yetkilendirme belgeleri ise ilk alındığında maktu harca, daha sonraki yıllarda bağımsız denetim faaliyetlerinden elde edilen bir önceki yıl gayrisafi iş hasılatı üzerinden nispi esasa göre hesaplanacak harca tabi tutulacaktır.
+Denetim kuruluşları yetkilendirme belgesi üzerinden alınacak nispi harç, bu kuruluşların kurumlar vergisi beyannamesi verme süresi içerisinde verecekleri bildirim üzerine hesaplanacaktır. Ancak yapılan düzenlemeye göre hesaplanacak harç ilgili bentlerde belirtilen tutarlardan az olamayacaktır. Dolayısıyla verilen bildirim üzerine hesaplanan harç tutarı ile asgari harç tutarı mukayese edilecek ve yüksek olan tutar tahakkuk ettirilecektir. Tahakkuk ettirilen harçlar ayrıca mükellefe tebliğ edilmeyecek ve mayıs ayı içerisinde kurumlar vergisi bakımından bağlı bulunulan vergi dairesince tahsil edilecektir
+Denetim kuruluşlarının ilk defa alacakları yetkilendirme belgelerine ilişkin harçlar ile yeminli mali müşavirlik, serbest muhasebeci mali müşavirlik ruhsat harçları ve bağımsız denetim yetkilendirme belgeleri harçları, söz konusu belgelerin alınmasından önce, belgeleri vermeye yetkili birimin bulunduğu yerdeki süreksiz yükümlülüklere bakan vergi dairesince tahsil edilecektir.
+Denetim kuruluşlarının ilk defa alacakları yetkilendirme belgelerine ilişkin maktu harcı tahsil eden vergi dairesi, takip eden yıllarda harcın tahsilinin sağlanmasını temin amacıyla, mükellefin kurumlar vergisi açısından bağlı olduğu vergi dairesine bilgi verecektir.
+Söz konusu denetim yetkilendirme belgeleri ve müşavirlik ruhsat harçları için aşağıdaki vergi türü kodları ve adları tanımlanarak vergi daireleri sistemlerine aktarılmıştır. Muhasebe kayıtları sırasında "01.06.09.99" diğer harçlar yardımcı hesap kodları kullanılacaktır.
+Konu
+Vergi Türü Kodu
+Vergi Türü Adı
+Kamu yararını ilgilendiren kuruluşları denetleyecek bağımsız denetim kuruluşlarına ilk yıl için verilecek yetkilendirme belgeleri harcı
+9223
+DKYBKAMUMKTU
+Kamu yararını ilgilendiren kuruluşları denetleyecek bağımsız denetim kuruluşlarından yetkilendirme belgesinin verildiği yıldan sonraki yıllarda alınacak harç
+9224
+DKYBKAMUNSBİ
+Kamu yararını ilgilendiren kuruluşlar dışındaki kuruluşları denetleyecek bağımsız denetim kuruluşlarına ilk yıl için verilecek yetkilendirme belgeleri harcı
+9225
+DKYBDĞERMKTU
+Kamu yararını ilgilendiren kuruluşlar dışındaki kuruluşları denetleyecek bağımsız denetim kuruluşlarından yetkilendirme belgesinin verildiği yıldan sonraki yıllarda alınacak harç
+9226
+DKYBDĞERNSBİ
+Yeminli mali müşavirlik ruhsat harcı
+9227
+YMM RUHSAT H
+Bağımsız denetçi yetkilendirme belgesi harcı
+9228
+BĞMSZDENYETB
+Serbest muhasebeci mali müşavirlik ruhsat harcı
+9229
+SMMMRUHSAT H
+II- Yolcu Beraberinde Getirilen Telefon Kullanım İzin Harcı
+Bu düzenleme ile ticari mahiyette olmaksızın yolcuların kendi kullanımları için yurt dışından getirdikleri alıcısı bulunan verici portatif telsiz telefon cihazları harç kapsamına alınmıştır.
+Söz konusu cihazlara ilişkin harç, elektronik kimlik bilgisinin (IMEI numarası) kayıt altına alınması için Bilgi Teknolojileri ve İletişim Kurumuna veya mobil iletişim sunan kurumların (GSM şirketleri) abone kayıt merkezlerine başvurulmadan önce herhangi bir ayırım yapılmaksızın tüm vergi dairelerince tahsil edilecektir. Ödenen harç ile kullanıma açılacak olan telefon arasındaki bağın kurulabilmesi için IMEI numarası ve telefon kullanıcısının T.C.Kimlik Numarası sözlü beyan ile talepte bulunan kişiden alınarak, vergi dairesi alındısı düzenlenecektir. Daha sonra oluşabilecek ihtilafları önlemek amacıyla vergi dairesi alındısı üzerinde yer alan telefona ait IMEI numarası ile birlikte mükellef bilgilerinin doğruluğunun teyit edilmesi ve vergi dairesinde kalan alındının arka yüzüne ‘Doğruluğu tarafımdan kontrol edilmiştir' şeklinde şerh düşülerek, ödemeyi yapan kişinin adı soyadı ve imzasının alınması ve bu alındıların ödeme tarihi sırasında dosyalanarak muhafaza edilmesi gerekmektedir.
+Harç ödenmeden kayıt işlemi yapılıp kullanıma açılan cihazlar, Bilgi Teknolojileri ve İletişim Kurumu tarafından kullanıma kapatılacaktır. Bu cihazların kullanıma açılabilmesi için harcın, % 50 fazlasıyla ilk kayıt tarihinden itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre hesaplanacak gecikme zammı ile birlikte tahsil edilmesi zorunludur.
+"Yolcu beraberinde getirilen telefon kullanım izin harcı" için "9151" vergi türü kodu "YOLCU CEPTEL" vergi türü adı tanımlanarak, vergi daireleri sistemlerine aktarılmıştır. Muhasebe kayıtları sırasında "01.06.09.99" diğer harçlar yardımcı hesap kodları kullanılacaktır.
+Bilgi edinilmesini ve gereğini rica ederim.
+Mehmet KİLCİ
+Gelir İdaresi Başkanı
