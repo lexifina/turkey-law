@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "35261",
+  "decision_date": "2012-06-19",
+  "source_id": 5039,
+  "chamber": "2",
+  "file_number": "34289",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5039/",
+  "source_sha256": "d16df0fc43e232a8d3cb8ccd9cb77bf7584d4c77161cb5bfd8de5c1923083ab4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
