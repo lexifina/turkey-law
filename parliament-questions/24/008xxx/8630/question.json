@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 2,
+  "esas_no": "7/8630",
+  "submitted": "2012-06-19",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ensar ÖĞÜT",
+  "province": "Ardahan",
+  "summary": "Erzurum'da içme suyu ve kanalizasyon şebekesi ihtiyacı ile yeni sokak ve caddelerin açılmasına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877be-c9b9-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "9722597819408a7979b1df5922729e52774e446b69f7bd736876c9509f5f8db2",
+  "in_force": "2012-06-19",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
