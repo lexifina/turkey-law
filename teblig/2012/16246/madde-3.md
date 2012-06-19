@@ -1,0 +1,1 @@
+MADDE 3 – (1) TS EN 60900 Standardı, 1000 V a.a. ve 1500 V d.a.’ya kadar anma gerilimi altında veya gerilim altındaki parçalara yakın olarak kullanılan izoleli ve izole edici el aletlerine uygulanabilir.
