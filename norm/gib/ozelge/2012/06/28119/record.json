@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.01-KV-11-62-259",
+  "source_id": 28119,
+  "date": "2012-06-19",
+  "title": "İndirimli kurumlar vergisi uygulaması ve tevsi yatırımdan elde edilen kazancın ayrı hesaplarda izlenmek suretiyle tespit edilememesi halinde indirimli kurumlar vergisi uygulanacak kazancın nasıl tespit edileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28119",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "eba35f4383a778a3904657a10d8fababddc66655b817473bafc696f1d1a3abf2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
