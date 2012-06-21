@@ -1,0 +1,3 @@
+Danışma kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu; yapı malzemeleri konusunda çalışmaları ile tanınan yurt içinden veya yurt dışından öğretim üyeleri ve/veya bu konuda çalışmalarda bulunan kamu ve özel sektör kurum, kuruluş temsilcileri ve uzmanları arasından istekleri halinde, Yönetim Kurulunun teklifi ile Rektör tarafından üç yıl süreyle görevlendirilir. Görev süreleri dolan üyeler aynı şekilde yeniden görevlendirilebilir. Danışma Kurulu, Müdürün çağrısı üzerine toplanır.
+(2) Danışma Kurulunun görevi; Yönetim Kuruluna bilimsel ve teknolojik konularda danışmanlık yapmak ve kendisine sunulan konularda incelemeler yaparak görüş bildirmektir.
