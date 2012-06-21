@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[323-2012/VUK-1- . . .]-1942",
+  "source_id": 27088,
+  "date": "2012-06-21",
+  "title": "Yurt dışından tahsil edilemeyen alacağa karşılık ayrılıp ayrılmayacağı, karşılık ayrılacaksa karşılığın ayrılacağı dönem veya karşılık ayrılmaması halinde söz konusu alacağın değersiz alacak olarak değerlendirilip değerlendirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27088",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4b67a2d66ba30fa472d8556b9f21a0af9ac262513c6ac0ec1aebc3fd5b726b91",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
