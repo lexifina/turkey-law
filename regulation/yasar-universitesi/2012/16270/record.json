@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.16270",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "YAŞAR ÜNİVERSİTESİ TASARIM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "number": "16270",
+  "issuer": "YAŞAR ÜNİVERSİTESİ",
+  "issuer_slug": "yasar-universitesi",
+  "path": "regulation/yasar-universitesi/2012/16270",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16270&MevzuatTertip=5",
+  "source_sha256": "41a479348bff4f5889a3cee43b971a203f04f3f5b09e055f0959d204af81552e",
+  "source_bytes": 20895,
+  "published": "2012-06-22",
+  "gazette": "28331",
+  "in_force": "2012-06-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.06.2012); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 783,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
