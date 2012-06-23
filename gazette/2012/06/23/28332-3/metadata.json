@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-06-23",
+  "issue": "28332",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "2012/3193 Erzurum İlinde Yürütülen Kentsel Dönüşüm ve Gelişim Çalışmaları Kapsamında Bulunan Bazı Taşınmazların Erzurum Büyükşehir Belediyesi Tarafından Acele Kamulaştırılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120623-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120623.htm",
+  "index_sha256": "6e3752227bff1e08868e8386cdd23e8a475963b271ebe2d04eba55b398a39b04",
+  "index_header": "23 Haziran 2012 ... 28332 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
