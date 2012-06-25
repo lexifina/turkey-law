@@ -1,0 +1,4 @@
+Yaptırım
+MADDE 30 — (1) Bu Tebliğ kapsamındaki desteklerden yararlanan veya yararlanmak üzere müracaatta bulunan TMŞ, Müteahhitlik Şirketleri ile İşbirliği Kuruluşlarının yanıltıcı bilgi ve belge ibraz ettiğinin tespit edilmesi durumunda bütün başvuruları süresiz reddedilir ve destek kapsamından çıkarılır.
+(2) Bu Tebliğ kapsamında haksız olarak alındığı tespit edilen destek ödemeleri, ilgililerden 6183 sayılı Kanun hükümleri çerçevesinde tahsil edilir.
+(3) TMŞ’ler ile işveren kuruluşlar arasında imzalanan sözleşmeler konusu projelere ilişkin olarak işveren ile TMŞ’ler arasında çıkabilecek hukuki ihtilaflar sonucunda projenin iptal edilmesi durumunda, aralarındaki sözleşmenin ilgili hükümleri çerçevesinde TMŞ’lerin haksız olduğunun Mahkemelerce tespiti halinde, destek iptal edilir ve iptale konu proje için o tarihe kadar sağlanan destek tutarı, 6183 sayılı Kanun hükümleri çerçevesinde geri alınır.

@@ -1,0 +1,2 @@
+MADDE 14 - (1) TMŞ, Müteahhitlik Şirketleri ile İşbirliği Kuruluşlarının yurt dışında düzenlenen Sektörel Nitelikli Uluslararası Fuarlara bireysel olarak katılmaları halinde, m2 üzerinden ödeyecekleri boş stand kirası, ulaşım (ekonomi sınıfı uçak) ile konaklama giderleri %50 oranında, fuar başına en fazla 15.000 ABD Doları desteklenir.
+(2) Bu madde kapsamında Fuara katılımla ilgili olarak Bakanlık’tan ön onay alınması gerekir.

@@ -1,0 +1,1 @@
+MADDE 11 - (1) TMŞ ve İşbirliği Kuruluşları, 10’uncu maddede belirtilen destek unsurlarından en fazla 3 (üç) yıl süresince yararlandırılır. 3 (üç) yıllık destek süresi, reklam, tanıtım ve pazarlama faaliyetine ilişkin ilk destek ödemesine esas teşkil eden ödeme belgesi tarihinden itibaren başlar.

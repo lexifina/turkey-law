@@ -1,0 +1,1 @@
+MADDE 8 - (1) Yurt dışı ofisler için satın alınan şirket kuruluşu, hukuki ve mali meslek müşavirliği kapsamındaki danışmanlık giderleri ile bilgisayarlı tasarım kapsamında satın alınan yazılım ürünlerinin lisanslarına ilişkin harcamalar %50 oranında, yıllık en fazla 30.000 ABD Doları desteklenir.

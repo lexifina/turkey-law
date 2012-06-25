@@ -1,0 +1,2 @@
+MADDE 16 - (1) TMŞ, Müteahhitlik Şirketi ile İşbirliği Kuruluşlarının yurt dışında düzenlenen Sektörel Nitelikli Uluslararası Seminer ve Konferanslara katılmaları halinde, en fazla 2 (iki) şirket çalışanının, yol, konaklama ve katılım bedelleri %50 oranında, organizasyon başına en fazla 5.000 ABD Doları desteklenir.
+(2) Bu madde kapsamında Seminer veya Konferansa katılımla ilgili olarak Bakanlık’tan ön onay alınması gerekir.
