@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-06-25",
+  "issue": "28334",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Maliye Bakanlığı Defterdarlık Uzmanlığı Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120625-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120625.htm",
+  "index_sha256": "5c49cd541369f754f031b6f3348183ae04223f4a2003132a893831defcf6d67a",
+  "index_header": "25 Haziran 2012 ... 28334 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
