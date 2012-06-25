@@ -1,0 +1,3 @@
+MADDE 31 - (1) Yurt dışına yönelik pazara giriş çalışmaları çerçevesinde şirketler ile işbirliği kuruluşlarının bir filmin içeriğinde yaptırdıkları reklam giderleri; şirketler için %50, işbirliği kuruluşları için %70 oranında olmak üzere film başına en fazla 100.000 ABD Doları tutarında karşılanır.
+(2) Bu madde uyarınca desteklenecek reklamlar; marka, logo, imaj veya reklam filmi şeklinde olabilir. Film içeriğinde imaj konumlandırma şeklinde yaptırılan reklam giderleri de karşılanır.
+(3) Bu madde kapsamındaki destek, destekten yararlanacak filmin yurt dışında gösterime girmesi veya satışa sunulmasından sonra verilir.

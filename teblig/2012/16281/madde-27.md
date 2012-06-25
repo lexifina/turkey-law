@@ -1,0 +1,5 @@
+MADDE 27 - (1) Bir filmin yurt dışında pazarlanmasına yönelik pazara giriş giderleri bir film için en fazla 5 (beş) kez, %50 oranında ve başvuru başına en fazla 100.000 ABD Doları tutarında karşılanır. Karşılanacak pazara giriş giderine ilişkin tutar, ilgili filmin pazarlama faaliyeti sonucunda yurt dışına satış faturasında belirtilen tutarın %50’sini geçemez. Pazara giriş giderlerinin bir sözleşme uyarınca yurt dışındaki satış acentesi tarafından yapılarak Türkiye’de yerleşik film yapımcısı veya dağıtımcısı şirkete fatura edilmesi halinde de söz konusu giderler aynı oran ve tutarda karşılanır.
+(2) Bu madde uyarınca karşılanacak pazara giriş giderlerinin kapsamı Genelge ile düzenlenir.
+(3) Bu madde kapsamındaki destek, desteklenecek film yurt dışında gösterime girdikten veya satışa sunulduktan sonra verilir.
+(4) Bir film için bir ülke veya ülke grubuna yönelik pazara giriş giderleri bir kez karşılanır.
+(5) Türkiye’nin sosyal, tarihî, kültürel ve ticarî tanıtımını yapan belgesel filmler için bu maddenin 1 inci fıkrasında belirtilen destek %70 oranında uygulanır.

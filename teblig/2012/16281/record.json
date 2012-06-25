@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16281",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DÖVİZ KAZANDIRICI HİZMET TİCARETİNİN DESTEKLENMESİ HAKKINDA TEBLİĞ (TEBLİĞ NO: 2012/4)",
+  "number": "16281",
+  "issuer": "kapsamında düzenlenen destek unsurlarının uygulanması, geliştirilmesi ve etki analizlerinin yapılması konularında gereken çalışmaları",
+  "path": "teblig/2012/16281",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16281&MevzuatTertip=5",
+  "source_sha256": "188601fc9362a148ddd1e2c19c1ed4b79adf8d562da3a578cf68f7c756ff4d64",
+  "source_bytes": 122784,
+  "published": "2012-06-25",
+  "gazette": "28334",
+  "in_force": "2012-06-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.06.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5904,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

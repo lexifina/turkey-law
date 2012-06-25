@@ -1,0 +1,2 @@
+İzleme ve değerlendirme
+MADDE 45 - (1) Bakanlık, yararlanıcıların işbu Tebliğ kapsamında desteklenen faaliyetlerini izler ve değerlendirir. Faaliyetlerin Tebliğ’in amaç ve hükümlerine uygun bulunmaması durumunda ilgili yararlanıcı destek kapsamından çıkarılır, henüz sonuçlandırılmamış destek başvuruları değerlendirmeye alınmaz ve ilgili yararlanıcı hakkında işbu Tebliğ’in 44 üncü maddesinin 1 inci fıkrası hükmü uygulanır.

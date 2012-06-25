@@ -1,0 +1,2 @@
+MADDE 30 - (1) Film dağıtımcısı veya yapımcısı şirketler ya da işbirliği kuruluşlarının arama motorlarında yapacakları, arama ağı reklamları da dâhil olmak üzere reklam ve tanıtım giderleri; %50 oranında ve film dağıtımcısı veya yapımcısı şirket ya da işbirliği kuruluşu başına yıllık en fazla 100.000 ABD Doları tutarında karşılanır.
+(2) Bu madde uyarınca desteklenecek arama motorları Genelge ile düzenlenir.

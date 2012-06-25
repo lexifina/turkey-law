@@ -1,0 +1,2 @@
+MADDE 11 - (1) Sağlık kuruluşları, sağlık turizmi şirketleri ve işbirliği kuruluşlarının arama motorlarında yapacakları, arama ağı reklamları da dâhil olmak üzere reklam ve tanıtım giderleri; %50 oranında ve sağlık kuruluşu, sağlık turizmi şirketi veya işbirliği kuruluşu başına yıllık en fazla 100.000 ABD Doları tutarında karşılanır.
+(2) Bu madde kapsamında desteklenecek arama motorları Genelge ile düzenlenir.

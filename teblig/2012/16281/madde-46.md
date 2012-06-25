@@ -1,0 +1,3 @@
+Uygulama
+MADDE 46 - (1) Para-Kredi ve Koordinasyon Kurulu’nun 11/8/2010 tarihli ve 2010/7 sayılı Kararına istinaden hazırlanan ve 18/8/2010 tarihli ve 27676 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren “2010/6 sayılı Yurt Dışı Birim, Marka ve Tanıtım Faaliyetlerinin Desteklenmesi Hakkında Tebliğ” kapsamında destekten yararlanmış olan birimler, işbu Tebliğ’in 12, 22 ve 37 nci maddeleri kapsamındaki desteklerden de yararlanabilirler.
+(2) "2010/6 sayılı Yurt Dışı Birim Marka ve Tanıtım Faaliyetlerinin Desteklenmesi Hakkında Tebliğ" kapsamındaki desteklerden yararlanan ve bu Tebliğ’in yayımlandığı tarih itibarıyla destek süresi sona ermiş olan birimler işbu Tebliğ kapsamında desteklenmez.

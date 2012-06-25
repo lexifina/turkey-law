@@ -1,0 +1,5 @@
+Yurt dışı tanıtım desteği
+MADDE 34 - (1) Yurt dışında düzenlenen fuar, kongre, konferans ve/veya bağımsız tanıtım programı kapsamında yapılan tanıtımlara ilişkin sponsorluk, reklam, tanıtım, danışmanlık, katılım ve organizasyon giderleri; eğitim kurumları için %50 oranında ve yıllık en fazla 300.000 ABD Doları tutarında, işbirliği kuruluşları için %70 oranında ve yıllık en fazla 500.000 ABD Doları tutarında karşılanır.
+(2) Bu madde kapsamındaki destekler devlete ait eğitim kurumları için %100 oranında ve yıllık en fazla 150.000 ABD Doları tutarında uygulanır.
+(3) Bu Tebliğ uyarınca ön onay verilen tanıtım programları desteklenir. Eğitim kurumları ve işbirliği kuruluşları tanıtım programının başlangıç tarihinden en az bir ay önce program taslak faaliyet planı ve tahminî bütçesi ile birlikte Bakanlığa ön onay başvurusunda bulunurlar. Bakanlık, ön onay verirken taslak program faaliyet planı ve tahminî bütçesinde değişiklik yapabilir.
+(4) Bu madde uyarınca desteklenebilecek sponsorluk, reklam, tanıtım, danışmanlık, katılım ve organizasyon giderlerinin kapsamı Genelge ile düzenlenir.

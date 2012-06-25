@@ -1,0 +1,3 @@
+Yaptırım
+MADDE 44 - (1) Bu Tebliğ kapsamında haksız olarak alındığı tespit edilen destek ödemeleri, ilgililerden 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri çerçevesinde tahsil edilir.
+(2) Bu Tebliğ kapsamındaki desteklerden yararlanan veya yararlanmak üzere müracaatta bulunan bir yararlanıcının yanıltıcı bilgi ve belge ibraz ettiğinin veya bu Tebliğ’in hükümlerine aykırı işlemlerde bulunduğunun tespit edilmesi durumunda; söz konusu yararlanıcının bu Tebliğ kapsamında yapmış olduğu bütün başvurular reddedilir ve bu Tebliğ kapsamındaki diğer destek talepleri en az 2 (iki) yıl süreyle değerlendirmeye alınmaz.

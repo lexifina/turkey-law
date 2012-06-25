@@ -1,0 +1,2 @@
+MADDE 18 - (1) Bilişim şirketlerinin tablet bilgisayarlar, cep telefonları veya mobil cihazlarda kullanılmak üzere üretilen bilgisayar uygulamalarının (aplikasyonlarının), yurt dışı satışına yönelik olarak yaptıkları komisyon giderleri; uygulama başına %50 oranında ve en fazla 50.000 ABD Doları tutarında karşılanır.
+(2) Bu madde uyarınca uluslararası tüketiciye yönelik olan ve yabancı dilde üretilen uygulamalar desteklenebilir.
