@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[61-2012/282]-1982",
+  "source_id": 37519,
+  "date": "2012-06-26",
+  "title": "Ar-Ge projesinde çalıştırılan personele ilişkin stopaj teşviki ile geçmişte sehven faydalanılmayan kısmın iadesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37519",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "bfaf41177597d74e6905fd7cd195967dbcb4de240fed084a83f0ebfd761cf985",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
