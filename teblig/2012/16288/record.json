@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16288",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HAZİNE MÜSTEŞARLIĞI TARAFINDAN KULLANDIRILAN DIŞ FİNANSMAN İMKANLARINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2012/1)",
+  "number": "16288",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2012/16288",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16288&MevzuatTertip=5",
+  "source_sha256": "97ab86499b41578688e55dc5c5033e43f104557b8880e025b5ed4aa5668db327",
+  "source_bytes": 7203,
+  "published": "2012-06-27",
+  "gazette": "28336",
+  "in_force": "2012-06-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.06.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 133,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

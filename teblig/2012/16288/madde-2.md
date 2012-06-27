@@ -1,0 +1,1 @@
+MADDE 2 – İlgili mevzuat kapsamında Müsteşarlık tarafından ikrazen dış finansman kullandırılmış olan kurum ve kuruluşların bu Tebliğin yayımı tarihinden itibaren 10 iş günü içinde Müsteşarlığa yazılı olarak başvuruda bulunmaması halinde, iş bu Tebliğin 1 inci maddesinde yer alan düzenleme, ilgili ikraz ve/veya devir anlaşmasına derc edilmiş sayılır.
