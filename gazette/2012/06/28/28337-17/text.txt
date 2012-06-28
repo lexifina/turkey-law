@@ -1,0 +1,2376 @@
+28 Haziran 2012 PERŞEMBE
+Resmî Gazete
+Sayı : 28337
+YÖNETMELİK
+Bankacılık
+Düzenleme ve Denetleme Kurumundan:
+BANKALARIN
+İÇ SİSTEMLERİ HAKKINDA YÖNETMELİK
+BİRİNCİ
+KISIM
+Başlangıç
+Hükümleri
+BİRİNCİ
+BÖLÜM
+Amaç,
+Kapsam, Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu
+Yönetmeliğin amacı, bankaların kuracakları iç kontrol, iç denetim ve risk
+yönetim sistemlerine ve bunların işleyişine ilişkin usul ve esasları
+düzenlemektir.
+Dayanak
+MADDE 2 – (1) Bu
+Yönetmelik, 19/10/2005 tarihli ve 5411 sayılı
+Bankacılık Kanununun 23, 24, 29, 30, 31, 32 ve 93 üncü maddelerine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu
+Yönetmelikte yer alan;
+a) Acil ve beklenmedik durum planı: Faaliyetlerde ani ve
+planlanmamış bir kesintiye, iş kaybına veya krize neden olması muhtemel bir
+durumda risklerin ve sorunların yönetilebilmesi amacıyla alınacak
+tedbirlerin ve gerçekleştirilecek öncelikli eylemlerin belirlendiği, iş
+sürekliliği planının bir parçası olan planı,
+b) Alım satım hesapları: Bankaların Sermaye
+Yeterliliğinin Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmeliğin 3
+üncü maddesinde tanımlanan alım satım hesaplarını,
+c) Artık risk: Kullanılan kredi riski azaltım tekniklerinin beklenildiği kadar etkin
+olmamasından kaynaklanan riskleri,
+ç) Banka: Kanunun 3 üncü maddesinde tanımlanan
+bankaları,
+d) Bankacılık hesaplarından kaynaklanan faiz oranı
+riski: Alım satım hesaplarında izlenen kalemler ile 1/11/2006
+tarihli ve 26333 sayılı Resmî Gazete’de yayımlanan Bankaların Özkaynaklarına İlişkin Yönetmelik uyarınca özkaynak hesaplamasında dikkate alınan sermaye benzeri borçlar
+dışındaki kalemler hariç olmak üzere, faize duyarlı tüm bilanço içi ve
+bilanço dışı kalemlerinden kaynaklanan faiz oranı riskini,
+e) Baz riski: Bankaca yapılan ikili veya çok taraflı
+işlemlerde baz olarak kullanılan farklı faiz
+oranlarından birinin diğerine göre artması veya azalmasının bankanın net
+faiz gelirleri veya ekonomik değerini olumsuz etkilemesinden kaynaklanan
+zarar olasılığını,
+f) Bilgi sistemleri süreklilik planı: Faaliyetlerin
+sürdürülmesini sağlayan bilgi sistemleri servislerinin, bir kesinti
+durumunda sürekliliğinin sağlanmasına yönelik hazırlanan ve iş sürekliliği
+planının bir parçası olan planı,
+g) Birincil sistemler: Bankacılık faaliyetlerinin
+yürütülmesini ve Kanunda, Kanuna ilişkin alt düzenlemelerde ve ilgili diğer
+mevzuatta bankalar için tanımlanan tüm sorumlulukların yerine getirilmesi
+açısından gerekli olan bütün bilgilerin, elektronik ortamda güvenli ve
+istenildiği an erişime imkan sağlayacak şekilde
+kaydedilmesini ve kullanılmasını sağlayan altyapı, donanım, yazılım ve
+veriden oluşan sistemin tamamını,
+ğ) Dolaylı ülke riski: Yabancı bir ülkedeki ekonomik,
+sosyal veya siyasi koşulların bozulması sonucunda o ülkeyle iş bağlantısı
+olan yerel bir borçlunun yükümlülüklerini yerine getirme gücünün azalması
+nedeniyle bankanın zarar etme olasılığını,
+h) Ekonomik değer: Nakit akışlarının bugüne indirgenmiş
+değerini,
+ı) Felaket: Faaliyet veya sistemlerde uzun süreli
+kesintiye sebep olabilecek düzeyde insan, doğa veya diğer faktörlerden
+kaynaklanan olayı,
+i) Faiz oranı riski: Bankaların Sermaye Yeterliliğinin
+Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmeliğin 3 üncü maddesinde
+tanımlanan faiz oranı riskini,
+j) Finansal araç: Bankaların Sermaye Yeterliliğinin
+Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmeliğin 3 üncü maddesinde
+tanımlanan finansal aracı,
+k) Fonlamaya ilişkin likidite
+riski: Bankanın öngörülebilen ya da öngörülemeyen tüm nakit akışı
+gereksinimini, günlük operasyonları ya da finansal yapıyı etkilemeksizin
+gereğince karşılayamaması sonucu bankanın zarar etme olasılığını,
+l) Hazine riski: Yabancı bir hükümetin doğrudan veya
+dolaylı yabancı para cinsinden yükümlülüklerini yerine getirme istek ve
+kapasitesinde meydana gelecek değişimler neticesinde bankanın zarar etme
+olasılığını,
+m) İcrai görevi bulunmayan
+yönetim kurulu üyesi: Kendisine bağlı icrai
+mahiyette faaliyet gösteren bir birim bulunmayan yönetim kurulu üyesini,
+n) İcrai mahiyette faaliyet
+gösteren birim: Doğrudan gelir getirici faaliyetlerin icra edildiği birimi,
+o) İç sistemler: İç denetim, iç kontrol ve risk yönetim
+sistemlerini,
+ö) İkame maliyeti riski: İki tarafa da yükümlülük
+getiren bir işlemde, taraflardan birinin yükümlülüğünü vadesinde yerine
+getirememesi durumunda, diğer tarafın aynı işlemi gerçekleştirmek için
+katlanacağı maliyeti,
+p) İkincil sistemler:
+Birincil sistemler aracılığı ile yürütülen faaliyetlerde bir kesinti olması
+halinde, bu faaliyetlerin iş sürekliliği planında belirlenen kabul
+edilebilir kesinti süreleri içerisinde sürdürülür hale getirilmesini ve
+Kanunda, Kanuna ilişkin alt düzenlemelerde ve ilgili diğer mevzuatta
+bankalar için tanımlanan tüm sorumlulukların yerine getirilmesi açısından
+gerekli olan bütün bilgilere kesintisiz ve istenildiği an erişilmesini
+sağlayan birincil sistem yedeklerini,
+r) İş etki analizi: İş süreçlerinin ve bir faaliyet
+kesintisinin iş süreçleri üzerinde yaratabileceği etkilerin analiz
+sürecini,
+s) İş sürekliliği planı: İş sürekliliği yönetiminin bir
+parçası olan ve bir kesinti durumunda bankanın öncelikleriyle uyumlu olarak
+faaliyetlerin sürdürülmesine ve mevzuata uyum sağlanmasına yönelik
+politika, standart ve prosedürlerden oluşan yazılı
+plan veya planlar bütününü,
+ş) İş sürekliliği yönetimi: Felaket, kriz veya kesinti
+durumunda etkin önlem alınabilmesi; itibarın, marka değerinin, değer
+yaratan faaliyetlerin ve paydaşların çıkarlarının korunabilmesi amaçlarıyla
+belirlenen operasyonların sürekliliğinin temin edilmesi veya hedeflenen
+zaman diliminde kurtarılabilmesinin sağlanması ve kriz öncesi duruma
+dönülmesine yönelik, potansiyel risklerin belirlenmesini de içeren
+politika, standart ve prosedürleri içeren bütünsel
+yönetim sürecini,
+t) İtibar riski: Mevcut veya potansiyel müşteriler,
+ortaklar, rakipler ve denetim otoriteleri gibi tarafların banka hakkındaki
+olumsuz düşüncelerinden ya da mevcut yasal düzenlemelere uygun
+davranılmaması neticesinde bankaya duyulan güvenin azalması veya banka
+itibarının zedelenmesi nedeniyle bankanın zarar etme olasılığını,
+u) Kanun: 5411 sayılı Bankacılık Kanununu,
+ü) Kesinti: Bir bankanın faaliyetlerinde veya bir
+sistemin fonksiyonlarında sürekliliğin, planlı geçişler haricinde mücbir
+sebeplerle sekteye uğramasını,
+v) Karşı taraf kredi riski: Bankaların Sermaye
+Yeterliliğinin Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmeliğin 3
+üncü maddesinde tanımlanan karşı taraf kredi riskini,
+y) Kredi: Kanunun 48 inci maddesinde sayılan işlemleri,
+z) Kredi riski: Kredi müşterisinin yapılan sözleşme
+gereklerine uymayarak yükümlülüğünü kısmen veya tamamen zamanında yerine
+getirememesinden dolayı bankanın maruz kalabileceği zarar olasılığını,
+aa) Kredi
+riski azaltımı: Bankaların Sermaye Yeterliliğinin
+Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmeliğin 3 üncü maddesinde
+tanımlanan kredi riski azaltımını,
+bb) Kur
+riski: Bankaların Sermaye Yeterliliğinin Ölçülmesine ve Değerlendirilmesine
+İlişkin Yönetmeliğin 3 üncü maddesinde tanımlanan kur riskini,
+cc) Kurul:
+Bankacılık Düzenleme ve Denetleme Kurulunu,
+çç) Kurum:
+Bankacılık Düzenleme ve Denetleme Kurumunu,
+dd) Likidite
+riski: Fonlamaya ilişkin likidite riski ile
+piyasaya ilişkin likidite riskini,
+ee)
+Makroekonomik risk: Yabancı bir ülkedeki borçlunun, o ülke hükümetinin
+ekonomik nedenlerle para politikası ya da maliye politikasına ilişkin
+aldığı kararlardan ötürü yükümlülüklerini yerine getirme gücünün azalması
+neticesinde bankanın zarar etme olasılığını,
+ff) Menkul
+kıymetleştirme: Bankaların Sermaye Yeterliliğinin Ölçülmesine ve
+Değerlendirilmesine İlişkin Yönetmeliğin 3 üncü maddesinde tanımlanan
+menkul kıymetleştirmeyi,
+gg) Menkul
+kıymetleştirme kurucusu banka: Bankaların Sermaye Yeterliliğinin
+Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmeliğin 3 üncü maddesinde
+tanımlanan menkul kıymetleştirme kurucusu bankayı,
+ğğ) Operasyonel risk: Bankaların Sermaye Yeterliliğinin
+Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmeliğin 3 üncü maddesinde
+tanımlanan operasyonel riski,
+hh) Opsiyonalite riski: Gömülü olanlar da dahil olmak üzere
+opsiyon hakkı/yükümlülüğü içeren finansal ürünlerin
+bankanın net faiz gelirleri veya ekonomik değerini olumsuz etkilemesinden
+kaynaklanabilecek zarar olasılığını,
+ıı) Piyasa
+riski: Bankaların Sermaye Yeterliliğinin Ölçülmesine ve Değerlendirilmesine
+İlişkin Yönetmeliğin 3 üncü maddesinde tanımlanan piyasa riskini,
+ii) Piyasaya
+ilişkin likidite riski: Piyasalarda derinliğin olmaması veya aşırı
+dalgalanma nedeniyle bankanın herhangi bir pozisyonunu, piyasa
+fiyatlarından kapatamaması veya dengeleyememesi sonucu maruz kalabileceği
+zarar olasılığını,
+jj) Risk: Bir
+işleme ya da faaliyete ilişkin bir parasal kaybın ortaya çıkması veya bir
+giderin ya da zararın oluşması halinde ekonomik faydanın azalması
+ihtimalini,
+kk) Risk
+iştahı: Bankanın, risk kapasitesini göz önünde bulundurarak, hedeflerine
+ulaşmak için taşımak istediği riskin düzeyini,
+ll) Risk
+kapasitesi: Bankaca yasal sınırlamalar ve oranlar dikkate alınarak hesaplanan
+üstlenilebilecek azami risk sınırını,
+mm) Risk profili: Bankanın
+maruz kaldığı ya da kalmayı beklediği risk türleri ve risk türü bazındaki
+risk tutarlarını,
+nn) Risk
+toleransı: Strateji ve politikalar kapsamındaki hedeflere ulaşmak için,
+bankanın taşımak istediği tüm risk türlerine ve büyüklüklerine ilişkin risk
+iştahı çerçevesinde belirlediği üst sınırı,
+oo) Sermaye
+yükümlülüğü: Kanunun 45 inci maddesi uyarınca yapılan hesaplamalarda
+öngörülen riskler için hesaplanan sermaye gereksinimini,
+öö) Stratejik
+risk: Bankanın yanlış ticari seçimlerden veya yapılan ticari seçimlerin
+yanlış şekilde uygulanmasından ya da sektörel
+değişikliklerin iyi analiz edilmemesi veya yorumlanmaması neticesinde söz
+konusu değişiklikler ile bu değişikliklerden ileride doğabilecek fırsat ve
+tehditlere uyumlu karar alınmaması ve uygun hareket edilememesinden dolayı
+bankanın zarar etme olasılığını,
+pp) Takas
+riski: Bankaların Sermaye Yeterliliğinin Ölçülmesine ve Değerlendirilmesine
+İlişkin Yönetmeliğin 3 üncü maddesinde tanımlanan takas riskini,
+rr) Transfer
+riski: Borçlunun yabancı para birimine ulaşamaması nedeniyle yurtdışı
+yükümlülüğünü yerine getirmede karşılaştığı sorunlardan kaynaklı olarak
+bankanın zarar etme olasılığını,
+ss) Ülke
+riski: Ekonomik, sosyal ve siyasi koşullarda meydana gelen belirsizlikler
+nedeniyle bir ülkedeki borçluların dış yükümlülüklerini yerine
+getirememeleri veya yerine getirmekten kaçınmaları sonucunda bankanın maruz
+kalabileceği zarar olasılığını,
+şş) Üst düzey
+yönetim: Banka genel müdür ve genel müdür yardımcıları, iç sistemler
+kapsamındaki birimlerin yöneticileri ile başka unvanlarla istihdam
+edilseler dahi, danışmanlık birimleri dışındaki birimlerin, yetki ve
+görevleri itibarıyla genel müdür yardımcısına denk veya daha üst konumlarda
+görev yapan yöneticileri,
+tt) Üst
+yönetim: Banka yönetim kurulu ile üst düzey yönetimi,
+uu) Verim
+eğrisi riski: Verim eğrisinin şeklinde meydana gelebilecek değişimlerin
+bankanın net faiz gelirlerini veya ekonomik değerini olumsuz etkilemesinden
+kaynaklanabilecek zarar olasılığını,
+üü) Yasal
+risk: Kanun veya düzenlemelerin iyi bilinmemesinden ya da doğru
+yorumlanmamasından veya Kanun veya düzenlemelerdeki öngörülemeyen
+değişikliklerden veya sözleşmelerin yasal engeller nedeniyle uygulanamaz
+hale gelmesinden dolayı bankanın maruz kalacağı zarar olasılığını,
+vv) Yayılma
+riski: Bir ülkedeki olumsuz ekonomik, siyasi ve sosyal gelişmelerin sadece
+o ülkenin değil aynı zamanda ülkenin bulunduğu bölgedeki diğer ülkelerin de
+kredi değerliliğinin azalması veya likidite sıkışıklığına yol açması
+neticesinde bankanın zarar etme olasılığını,
+yy) Yeniden fiyatlama riski: Faiz oranlarındaki olası
+değişimlerin aktif pasif vade yapısına göre bankanın net faiz gelirleri ve
+ekonomik değerini olumsuz etkilemesinden kaynaklanabilecek zarar olasılığını
+ifade eder.
+İKİNCİ
+BÖLÜM
+İç
+Sistemlerin Kurulması ve Üst Yönetimin Sorumlulukları
+İç
+sistemlerin kurulması
+MADDE 4 – (1)
+Bankalar, maruz kaldıkları risklerin izlenmesi ve kontrolünün sağlanması
+amacıyla, faaliyetlerinin kapsamı ve yapısıyla uyumlu ve değişen koşullara
+uygun, tüm şube ve birimleri ile Kanuna istinaden yürürlüğe konulan
+düzenlemelere göre konsolidasyona tâbi tutulan
+ortaklıklarını kapsayan, bu Yönetmelikte öngörülen usul ve esaslar
+çerçevesinde yeterli ve etkin iç sistemler kurmak ve işletmekle
+yükümlüdürler.
+(2) İç sistemler kapsamındaki birimler banka
+organizasyon yapısı içerisinde yönetim kuruluna bağlı olarak kurulur.
+Yönetim kurulu, denetim komitesinin görüş, öneri, değerlendirme ve benzeri
+işlemlerine dayalı yapılacak olanlar hariç olmak üzere iç sistemler
+kapsamındaki görev ve sorumluluklarını kısmen veya tamamen iç sistemler
+sorumlusuna devredebilir. Görev ve sorumlulukları iç sistemler kapsamında
+yer alan birimler bazında ayrıştırılmak kaydıyla, birden fazla iç sistemler
+sorumlusu da belirlenebilir. İç sistemler sorumluluğu görevi ancak icrai görevi bulunmayan yönetim kurulu üyelerinden
+birine veya bu nitelikteki yönetim kurulu üyelerinden oluşan komitelere ya
+da denetim komitesine verilebilir. İç sistemler sorumlusu olan üyenin veya
+üye sayısının ikiden az olması sonucunu doğurması kaydıyla iç sistemler
+sorumlusu olan komite üyesinin görevden ayrılması, görevden alınması ya da
+aranan nitelikleri kaybetmesi durumunda onbeş gün
+içinde yerine aynı nitelikleri haiz bir yönetim kurulu üyesinin atanması
+zorunludur.
+(3) İkinci fıkranın
+uygulaması bakımından, iç sistemler kapsamındaki birimlerin
+yöneticilerinin, banka organizasyon yapısında genel müdürle hiyerarşik bağı
+bulunmayan ve performans ile mali ve özlük haklarına ilişkin değerlendirmeleri
+yönetim kurulu ya da denetim komitesi tarafından yapılan genel müdür
+yardımcısı veya dengi unvanda bir üst yönetici vasıtasıyla yönetim kuruluna
+bağlı olması, bu birimlerin doğrudan yönetim kuruluna bağlı olmadığı
+sonucunu doğurmaz.
+(4) Bu Yönetmelik hükümlerine aykırı olmamak kaydıyla
+bankalar, kendi faaliyetlerinin kapsamını ve yapısal özelliklerini de
+dikkate alarak iç sistemlerinin organizasyon yapısına ve işleyişine ilişkin
+usul ve esasları belirler.
+Yönetim
+kurulunun sorumlulukları
+MADDE 5 – (1) İç
+sistemlerin bu Yönetmelikte belirlenen usul ve esaslar çerçevesinde
+oluşturulması, etkin, yeterli ve uygun bir şekilde işletilmesi, muhasebe ve
+finansal raporlama sisteminden sağlanan bilgilerin doğruluğu, güvenilirliği
+ve muhafazası hususlarında her türlü tedbirin alınması, banka içindeki
+yetki ve sorumlulukların belirlenmesi nihai olarak yönetim kurulunun
+sorumluluğundadır.
+(2) Banka yönetim kurulu, birinci fıkra çerçevesinde;
+a) Bankanın organizasyon yapısını ve insan kaynakları
+politikasını oluşturmak, üst düzey yönetimin atanmasında aranılacak kriterleri belirlemek,
+b) İç sistemler sorumlusunun görev ve sorumluluklarını
+açık bir şekilde yazılı olarak belirlemek ve faaliyetlerini izlemek,
+c) İç sistemler kapsamındaki birimlerin faaliyetlerine
+ilişkin strateji ve politikalar ile uygulama usullerini yazılı olarak
+belirlemek, bunların etkin bir şekilde uygulanmasını ve idame
+ettirilmesini, birbirleri ile koordinasyonunu sağlamak,
+ç) İç sistemler kapsamındaki birimlerin ve
+yöneticilerinin görev, yetki ve sorumluluklarını açık ve görev çatışmaları
+olmayacak şekilde belirlemek ve bu birimlerde görevlendirilen personelin
+çalışma usul ve esaslarını onaylamak, gerekli kaynakların tahsisini
+sağlamak,
+d) İç sistemlere ilişkin
+uygulamalar ile ilgili olarak Kurumca ya da bağımsız denetçilerce tespit
+edilen veya banka denetim komitesince yönetim kurulu gündemine getirilen
+hata veya eksiklikleri zamanında dikkate alarak gidermek için gerekli
+önlemleri almak; tespit edilen eksiklik ve hataları değerlendirerek aynı veya
+benzer eksiklik ve hataların oluşabileceği alanlara ilişkin iç kontrol ve
+iç denetim faaliyetlerinin yönlendirilmesini sağlamak,
+e) İç sistemler kapsamındaki birimlerin yöneticilerinin
+seçimine ve görevden alınmasına karar vermek,
+f) İç sistemler kapsamındaki birimlerde görev yapan
+personelin mesleki yeterlilik ve gelişimlerini teminen
+ulusal ve uluslararası düzeyde konuları ile ilgili alanlarda sertifika
+edinmelerine yönelik eğitim programlarına katılımlarını sağlamak,
+g) Stratejik karar alma sürecini belirlemek, izlemek ve
+planlama politikalarının oluşturulmasını sağlamak,
+ğ) Bankanın maruz kaldığı riskler ve bu risklerin ölçüm
+yöntemleri ile yönetimi konusunda bilgi sahibi olmak,
+h) Bankanın genel olarak ve her bir risk türü itibarıyla
+risk yönetimine ilişkin politika ve stratejilerini, alabileceği risk
+seviyesini ve bunlara ilişkin uygulama usullerini yazılı olarak belirlemek,
+birimler ve yöneticileri ya da bu birimlerde çalışan personel itibarıyla
+azami risk limitleri tahsis etmek,
+ı) Bankanın gelir ve giderlerini önemli ölçüde
+etkileyecek risklerin alınmasına, izlenmesine, yönetilmesine ve
+raporlanmasına ilişkin politikaları ve bu politikalardaki değişiklikleri
+onaylamak ve bunların uygulanmasını gözetmek,
+i) Üst düzey yönetimin bankanın karşı karşıya olduğu
+önemli riskler konusunda kendisine zamanında ve güvenilir raporlamalar
+vermesini sağlamak,
+j) Veri yönetimi politikalarını belirlemek, ilgili
+sistemlerin en etkili şekilde işleyişlerini temin etmeye yönelik kontrol
+süreçlerini oluşturmak ve uygulanmasını sağlamak,
+k) İç sistemlerin etkinliğini izlemek,
+l) Müşterilerin şikayetlerinin
+araştırılmasını ve sonucu hakkında ilgililere cevap verilmesini sağlayacak
+bir sistem geliştirilmesini ve bunların belirlenecek hususları ihtiva
+edecek şekilde kendisine düzenli raporlanmasını ve şikayet edilen hususlara
+ilişkin gerekli tedbirlerin alınmasını sağlamak
+ile yetkili ve
+sorumludur.
+Denetim
+komitesi üyelerinin nitelikleri
+MADDE 6 – (1) Yönetim
+kurulu denetim ve gözetim faaliyetlerinin yerine getirilmesinde kendisine
+yardımcı olmak üzere üyeleri arasından seçeceği icrai
+görevi bulunmayan asgari iki üyesini banka denetim komitesi üyeleri olarak
+görevlendirir. Bu üyelerin;
+a) Atamanın yapıldığı tarihten önceki son iki yıl da dahil olmak üzere;
+1) Bankada icrai görevi
+bulunan yönetim kurulu üyelerinden olmaması,
+2) İç sistemler ile mali kontrol ve muhasebe
+birimlerinde görev yapanlar hariç, bankanın ve/veya konsolidasyona
+tabi ortaklıklarının personeli olmaması,
+3) Bankanın ve/veya konsolidasyona
+tabi ortaklıklarının bağımsız denetimini ya da derecelendirmesini veya
+değerlemesini yapan kuruluşların ya da bu kuruluşlar ile hukuki bağlantısı
+bulunan yurt dışındaki kuruluşların ortağı veya personeli olmaması veya
+bağımsız denetim, derecelendirme ya da değerleme sürecinde yer almaması,
+4) Bankaya ve/veya konsolidasyona
+tabi ortaklıklarına danışmanlık veya destek hizmeti veren kuruluşların ortağı
+veya personeli olmaması veya bu hizmeti veren kişilerden olmaması,
+b) Bankada ve/veya konsolidasyona
+tabi ortaklıklarda nitelikli pay sahibi olmaması,
+c) Hakim ortağın, icrai görevi bulunan yönetim kurulu üyelerinin veya
+genel müdürün eşi veya ikinci dereceye kadar (bu derece dahil) kan veya
+sıhrî hısımı olmaması,
+ç) Aralıklı veya sürekli olarak, dokuz yıldan fazla bir
+süreyle aynı bankanın denetim komitesinde görev yapmamış olması,
+d) Ana sözleşme hükmüne veya genel kurul kararına dayalı
+olarak tüm personele kârdan yapılan ödemeler hariç olmak üzere, bankadan
+ve/veya konsolidasyona tabi ortaklıklardan,
+bunların kârlılığına dayalı olarak herhangi bir ad altında ücret veya
+benzeri bir gelir sağlanmaması,
+e) En az lisans düzeyinde öğrenim görmüş olması ve
+bankacılık veya finans alanında en az on yıllık deneyime sahip olması,
+f) Eş ve/veya çocuklarının bankada ve/veya konsolidasyona tabi ortaklıklarında genel müdür, genel
+müdür yardımcısı veya dengi pozisyonda yönetici olmaması ve (1) ve (2)
+numaralı alt bendi hariç olmak üzere birinci fıkranın (a) bendi ile aynı
+fıkranın (b) bendinde aranan nitelik ve şartları haiz olması,
+g) Aşağıda belirtilen kuruluşlar dışında başka bir
+ticari kuruluşta görev almaması;
+1) Yönetim kurulu üyeliği görevi ile sınırlı olmak üzere
+konsolide denetime tabi ortaklıklar,
+2) Bankada doğrudan ya da dolaylı pay sahibi olan yurt
+içinde ya da yurt dışında kurulu tüzel kişiliğe sahip ortaklıklar,
+3) Bankanın gerçek kişi ortaklarının ya da (2) numaralı
+alt bentte belirtilen ortaklarının birlikte veya tek başlarına, doğrudan ya
+da dolaylı olarak kontrol ettikleri ya da sınırsız sorumlulukla
+katıldıkları yurt içinde ya da yurt dışında kurulu kredi kuruluşları ile
+finansal kuruluşlar,
+şarttır. Bu
+fıkranın (a) bendinin (2) numaralı alt bendi, denetim komitesi üyesinin
+aynı zamanda iç sistemler ile mali kontrol ve muhasebe birimlerinde görev
+yapabileceği anlamına gelmez.
+(2) Denetim komitesi üyelerinin seçiminde aranan
+nitelikler üyelerin söz konusu görevleri süresince aranır. Atanacak denetim
+komitesi üyelerinden en az bir tanesinin, hukuk, iktisat, maliye,
+bankacılık, işletme, kamu yönetimi ve dengi dallarda en az lisans düzeyinde;
+mühendislik alanında lisans düzeyinde öğrenim görmüş ise belirtilen alanlarda
+lisansüstü düzeyde öğrenim görmüş ve komite üyelerinden en az birinin yurt
+içinde yerleşik olması zorunludur.
+(3) Türkiye’de şube olarak faaliyet gösteren bankalarda
+ise kendisine bağlı icrai mahiyette faaliyet
+gösteren bir birim bulunmayan müdürler kurulu üyelerinden biri denetim
+komitesinde görevlendirilir. Bu üyede, birinci fıkranın (a) bendinin (3) ve
+(4) numaralı alt bentleri ile (ç), (d) ve (e) bentlerinde belirtilen
+nitelikler aranır. Bu üyenin eş ve/veya çocuklarının; bankada kendisine
+bağlı icrai mahiyette faaliyet gösteren bir birim
+bulunmayan müdürler kurulu üyesi, merkez şubesi müdürü, merkez şubesi müdür
+yardımcısı veya dengi pozisyonda yönetici olmaması, atamanın yapıldığı
+tarihten önceki son iki yıl da dahil olmak üzere,
+bankanın bağımsız denetimini, derecelendirmesini ya da değerlemesini yapan
+kuruluşların ortağı veya personeli olmaması veya bağımsız denetim,
+derecelendirme ya da değerleme sürecinde yer almaması, atamanın yapıldığı
+tarihten önceki son iki yıl da dahil olmak üzere danışmanlık veya destek hizmeti
+veren kuruluşların ortağı veya personeli olmaması veya bu hizmeti veren
+kişilerden olmaması şarttır.
+(4) Denetim komitesi üye sayısının herhangi bir nedenle
+ikinin altına düşmesi halinde, yönetim kurulu en geç onbeş
+gün içerisinde bu maddede aranan nitelikleri haiz yeter sayıda üyesini
+denetim komitesine atamak zorundadır. Yönetim kurulunda bu maddede aranan
+nitelikleri haiz üye bulunmaması halinde icrai
+görevi bulunmayan yönetim kurulu üyeleri geçici süreyle denetim komitesine
+atanabilir. Geçici süreli atamalarda, atama tarihinden itibaren icrai görevi bulunmayan üye niteliğini haiz olması
+şartı aranır. Yönetim kurulu, geçici görevle atanan denetim komitesi üyesi
+yerine atama tarihinden itibaren bir ay içerisinde bu maddede belirtilen
+nitelikleri haiz yönetim kurulu üyesi atanabilmesi için yeni yönetim kurulu
+üyesi seçimi amacıyla genel kurulun olağanüstü toplantıya çağrılması da dahil olmak üzere gerekli tedbirleri almakla yükümlüdür.
+Denetim
+komitesi üyelerinin yetki ve sorumlukları
+MADDE 7 – (1) Denetim
+komitesi, yönetim kurulu adına bankanın iç sistemlerinin etkinliğini ve
+yeterliliğini, bu sistemler ile muhasebe ve raporlama sistemlerinin Kanun
+ve ilgili düzenlemeler çerçevesinde işleyişini ve üretilen bilgilerin
+bütünlüğünü gözetmek, bağımsız denetim kuruluşları ile derecelendirme,
+değerleme ve destek hizmeti kuruluşlarının yönetim kurulu tarafından
+seçilmesinde gerekli ön değerlendirmeleri yapmak, yönetim kurulu tarafından
+seçilen ve sözleşme imzalanan bu kuruluşların faaliyetlerini düzenli olarak
+izlemek, Kanuna istinaden yürürlüğe giren düzenlemeler uyarınca
+konsolidasyona tâbi ortaklıkların iç denetim faaliyetlerinin konsolide olarak sürdürülmesini ve eşgüdümünü sağlamakla
+görevli ve sorumludur.
+(2) Denetim komitesi, birinci fıkra kapsamında;
+a) İç kontrol, iç denetim ve risk yönetimine ilişkin bu
+Yönetmelikte yer alan hükümlere ve yönetim kurulunca onaylanan banka içi
+politika ve uygulama usullerine uyulup uyulmadığını gözetmek ve alınması
+gerekli görülen önlemler konusunda yönetim kuruluna önerilerde bulunmak,
+b) İç sistemler kapsamındaki birimlerin personelinin
+doğrudan kendisine ulaşabilmesini sağlayacak iletişim kanallarını
+oluşturmak,
+c) İç denetim sisteminin bankanın mevcut ve planlanan
+faaliyetlerini ve bu faaliyetlerden kaynaklanan risklerini kapsayıp
+kapsamadığını gözetmek, yönetim kurulunun onayıyla yürürlüğe girecek iç
+denetime ilişkin banka içi düzenlemeleri incelemek,
+ç) İç sistemler kapsamındaki birimlerden denetim
+komitesine bağlananların yöneticilerinin seçimine yönelik yönetim kuruluna
+önerilerde bulunmak, yönetim kurulunun bunları görevden alması sırasında
+görüş vermek,
+d) İç sistemlere ilişkin olarak üst düzey yönetimin
+görüş ve önerilerini almak ve bunları değerlendirmek,
+e) Banka içi usulsüzlüklerin doğrudan kendisine veya iç
+denetim birimine ya da müfettişlere bildirilmesini sağlayacak iletişim
+kanallarının tesis edilmesini sağlamak,
+f) Müfettişlerin görevlerini bağımsız ve tarafsız
+şekilde yerine getirip getirmediklerini izlemek,
+g) İç denetim planlarını incelemek,
+ğ) Yönetim kuruluna, iç sistemler kapsamındaki
+birimlerde görev yapacak personelde aranması gereken nitelikler ile ilgili
+önerilerde bulunmak,
+h) İç denetim raporlarında tespit edilen hususlar
+konusunda üst düzey yönetimin ve bunlara bağlı birimlerin aldığı önlemleri
+izlemek,
+ı) İç sistemler kapsamındaki birimlerde görevli yönetici
+ve personelin mesleki eğitim düzeylerini ve yeterliliğini değerlendirmek,
+i) Bankanın taşıdığı risklerin tespit edilmesi,
+ölçülmesi, izlenmesi ve kontrol edilmesi için gerekli yöntem, araç ve
+uygulama usullerinin mevcut olup olmadığını değerlendirmek,
+j) Müfettişler ve bankanın bağımsız denetimini yürüten
+bağımsız denetim kuruluşunun bağımsız denetçileri ile düzenli aralıklarla
+yılda dört defadan az olmamak üzere belirlenecek program ve gündemler dahilinde görüşmelerde bulunmak,
+k) Görev ve sorumlulukları kapsamındaki işlerin gereğine
+göre yerine getirilmesi, etkinliğinin sağlanması ve geliştirilmesi için
+ihtiyaç duyulan uygulamalar konusunda ilgili üst düzey yönetimin, risk
+yönetimi, iç kontrol ve iç denetim birimlerinde çalışan personel ve
+bağımsız denetim kuruluşunun görüş ve değerlendirmeleri hakkında yönetim
+kurulunu bilgilendirmek,
+l) Bankanın muhasebe uygulamalarının Kanuna ve ilgili
+diğer mevzuata uygunluğu kapsamında bağımsız denetim kuruluşunun
+değerlendirmelerini gözden geçirmek, ilgili üst düzey yönetimin tespit
+edilen tutarsızlıklar konusundaki açıklamasını almak,
+m) Üst düzey yönetim ve bağımsız denetçiler ile
+birlikte, bağımsız denetimin sonuçlarını, yıllık ve üçer aylık mali
+tablolar ile bunlara ilişkin dokümanları, bağımsız denetim raporunu
+değerlendirmek ve bağımsız denetçinin tereddüt ettiği diğer konuları çözüme
+kavuşturmak,
+n) Bankanın sözleşme imzalayacağı derecelendirme
+kuruluşları, bilgi sistemleri denetimi yapanlar da dahil
+olmak üzere bağımsız denetim kuruluşları ve değerleme kuruluşları ile
+bunların yönetim kurulu başkan ve üyeleri, denetçileri, yöneticileri ve
+çalışanlarının banka ile ilişkili faaliyetlerinde bağımsızlığını ve tahsis
+edilen kaynakların yeterliliğini değerlendirmek, değerlendirmelerini bir
+rapor ile yönetim kuruluna sunmak, hizmet alınması halinde de sözleşme
+süresince, üç aydan fazla olmamak üzere, düzenli bir şekilde bu işlemleri
+tekrarlamak,
+o) Bankanın alacağı destek hizmetine ilişkin risk
+değerlendirmesi yapmak, değerlendirmelerini bir rapor halinde yönetim
+kuruluna sunmak, hizmet alınması halinde de sözleşme süresince, üç aydan
+fazla olmamak üzere, düzenli bir şekilde bu işlemleri tekrarlamak ve
+ayrıca, destek hizmeti kuruluşunun sağladığı hizmetlerin yeterliliğini
+izlemek,
+ö) Bankanın finansal raporlarının gerçek ve yansıtılması
+gereken tüm bilgileri kapsayıp kapsamadığını, Kanuna ve ilgili diğer mevzuata
+uygun olarak hazırlanıp hazırlanmadığını gözetmek, tespit edilen hata ve
+usulsüzlükleri düzelttirmek,
+p) Finansal raporların, bankanın mali durumunu, yapılan
+işlerin sonuçlarını ve bankanın nakit akımlarını doğru olarak yansıtıp
+yansıtmadığı ve Kanunda ve ilgili diğer mevzuatta belirlenen usul ve
+esaslara uygun olarak hazırlanıp hazırlanmadığı konusunda bağımsız
+denetçiler ile görüşmek,
+r) Altı aylık dönemi aşmamak kaydıyla, dönem içerisinde
+icra ettiği faaliyetleri ve bu faaliyetlerin sonuçlarını yönetim kuruluna
+raporlamak, raporda bankada alınması gereken önlemlere, yapılmasına ihtiyaç
+duyulan uygulamalara ve bankanın faaliyetlerinin güven içinde sürdürülmesi
+bakımından önemli gördüğü diğer hususlara ilişkin görüşlere yer vermek,
+s) Kredi açma yetkisini haiz olanların, kendileri ile eş
+ve velâyeti altındaki çocuklarının veya bunlarla risk grubu oluşturan diğer
+gerçek ve tüzel kişilerin taraf olduğu kredi işlemlerine ilişkin
+değerlendirme ve karar verme aşamalarında yer alıp almadığını takip etmek ve
+bu hususların kendilerine bildirilmesini sağlayacak iletişim kanallarını
+oluşturmak
+ile görevli ve
+yetkilidir.
+Üst düzey
+yönetimin görev ve sorumlulukları
+MADDE 8 – (1) Üst
+düzey yönetim;
+a) Görev ve sorumlulukları kapsamındaki işlerin
+gereklerine göre yerine getirilmesi, etkinliğinin sağlanması ve
+geliştirilmesi için ihtiyaç duyulan uygulamalar konusunda öneriler
+geliştirmek,
+b) Sorumlu oldukları birimlerde görev yapan banka
+personelini koordine etmek, yeterliliklerini gözeterek görev dağılımı
+yapmak ve görev ve sorumluluklarını etkin olarak yerine getirip
+getirmediklerini izlemek,
+c) Sorumlu oldukları birimlerde ortaya çıkan eksiklik
+veya hataları çözümlemek ve bunları ya da alınması gerekli görülen
+tedbirleri ilgili iç sistemler sorumlusuna raporlamak,
+ç) Beklenmedik durumların ortaya çıkması halinde
+kendilerine tanınan yetki çerçevesinde inisiyatif
+kullanmak,
+d) Bankanın karşı karşıya olduğu önemli riskler
+konusunda yönetim kuruluna zamanında ve güvenilir raporlama yapmak,
+e) Yönetim kurulunca verilen diğer görevleri yerine
+getirmek
+ile görevli ve
+sorumludur.
+(2) İç sistemler kapsamındaki birimlerin üst düzey
+yöneticileri, aynı zamanda birimlerine ilişkin 5 inci maddenin ikinci
+fıkrasının (c) bendi uyarınca banka yönetim kurulu tarafından onaylanan
+strateji ve politikaları uygulamak ve ilgili iç sistemler sorumlusu
+tarafından verilen diğer görevleri yerine getirmekle görevli ve sorumludur.
+İKİNCİ
+KISIM
+İç Kontrol
+Sistemi
+BİRİNCİ
+BÖLÜM
+İç Kontrol
+Sisteminin Amaç ve Kapsamı
+İç kontrol
+sisteminin amacı ve kapsamı
+MADDE 9 – (1) İç
+kontrol sisteminin amacı, bankanın varlıklarının korunmasını, faaliyetlerin
+etkin ve verimli bir şekilde Kanuna ve ilgili diğer mevzuata, banka içi
+politika ve kurallara ve bankacılık teamüllerine uygun olarak
+yürütülmesini, muhasebe ve finansal raporlama sisteminin güvenilirliğini,
+bütünlüğünü ve bilgilerin zamanında elde edilebilirliğini sağlamaktır.
+(2) İç kontrol sisteminden beklenen amacın
+sağlanabilmesi için;
+a) Banka bünyesinde işlevsel görev ayrımının tesis
+edilmesi ve sorumlulukların paylaştırılması,
+b) Muhasebe ve finansal raporlama sisteminin, bilgi
+sisteminin ve banka içi iletişim kanallarının etkin çalışacak şekilde tesis
+edilmesi,
+c) İş sürekliliği planı ve ilgili diğer planların
+hazırlanması,
+ç) İç kontrol faaliyetlerinin oluşturulması,
+d) Bankanın iş süreçleri üzerinde kontrollerin ve iş
+adımlarının gösterildiği iş akım şemalarının oluşturulması
+zorunludur.
+(3) İç kontrol sistemi, bankanın yurt içi ve yurt dışı
+şubeleri ile genel müdürlük birimlerini, konsolidasyona
+tabi ortaklıklarını ve tüm faaliyetlerini kapsayacak şekilde
+yapılandırılır.
+İşlevsel
+görev ayrımı
+MADDE 10 – (1) Banka
+nezdinde, hata ve sahtekarlığın, menfaat
+çatışmalarının, bilgi manipülasyonunun ve kaynakların kötüye kullanımının
+önlenmesi amacıyla aynı konudaki faaliyetlere ilişkin görev ayrıştırması
+yapılarak, banka içindeki tüm birimlerin, personelin ve komitelerin yetki
+ve sorumlulukları açıkça ve yazılı olarak belirlenir. Menfaat çatışması
+doğabilecek faaliyetlerin tespit edilerek mümkün olduğunca en aza
+indirilmesi ve risk doğuran bir işlemin yapılmasına karar verilmesi,
+işlemin muhasebeleştirilmesi ve işlemden kaynaklanan riskin yönetilmesi
+işlevlerinin farklı personelin sorumluluğuna verilmesi sağlanır.
+Bilgi
+sistemlerinin tesisi
+MADDE 11 – (1) Banka içinde
+tesis edilecek bilgi sistemlerinin yapısının bankanın ölçeği,
+faaliyetlerinin ve sunulan ürünlerin niteliği ve karmaşıklığı ile uyumlu
+olması zorunludur.
+(2) Bilgi sistemleri asgari olarak;
+a) Bankacılık faaliyetlerinin yürütülmesi ve Kanunda,
+Kanuna ilişkin alt düzenlemelerde ve ilgili diğer mevzuatta bankalar için
+tanımlanan tüm sorumlulukların yerine getirilmesi açısından gerekli olan
+bütün bilgilerin, elektronik ortamda güvenli ve istenildiği an erişime
+olanak sağlayacak şekilde kaydedilmesine ve kullanılmasına,
+b) Risk ölçüm yöntem veya modelleri kullanılarak
+risklerin ölçülebilmesine ve zamanında ve etkin bir şekilde
+raporlanabilmesine,
+c) Sunulan ürünler, faaliyet türleri, coğrafya veya risk
+doğuran gruplar bazında veri toplulaştırması yapılabilmesine,
+ç) Yıllık bütçe ve hedeflerden sapmaların tespit
+edilebilmesine,
+d) Önceden belirlenen risk limitlerine yaklaşılması
+halinde uyarıcı bilgiler üretilebilmesine,
+e) Belirlenen azami risk düzeylerine ilişkin aşımların
+ve istisnaların zamanında raporlanabilmesine, risk limitleri ya da risk
+düzeylerine ilişkin aşımlara istisna getirilmediği durumlarda aşımı
+engelleyebilecek otokontrol noktalarının kurulabilmesine,
+f) Risk alma düzeyine göre sunulan hizmetlere ve
+faaliyetlere ilişkin sermaye yükümlülüğünün tahsisine,
+g) Stres testi ve senaryo analizi yapılabilmesine,
+ğ) Muhasebe kayıtlarının işlem bazında Tek Düzen Hesap
+Planına ve Türkiye Muhasebe Standartlarına uygun olarak, dördüncü fıkra
+uyarınca yurt içinde tesis edilmesi gereken birincil sistemler üzerinden ve
+arada başka bir muhasebe sistemini referans almaksızın doğrudan
+oluşturularak tutulabilmesine,
+imkan verecek
+bir yapıda tesis edilir.
+(3) Bilgi sistemlerinin güvenilirliğinin sağlanması ve
+düzenli olarak güncellenerek gerekli değişikliklerin yapılması zorunludur.
+(4) Bankaların birincil ve ikincil sistemlerini yurt
+içinde bulundurmaları zorunludur.
+(5) Bankaların bilgi sistemlerinin unsurları ile
+kontrolüne ilişkin asgari usul ve esasları belirlemeye Kurul yetkilidir.
+(6) Birincil ve ikincil sistemler kapsamında destek
+hizmeti alınıp alınmadığına bakılmaksızın, bu sistemler için iş
+sürekliliğini sağlamaya yetecek nitelik ve sayıda yurt içinde personel
+istihdam edilmesi zorunludur.
+(7) İkinci fıkranın (ğ)
+bendi uygulaması bakımından, yasal defterlere ilişkin mevzuat hükümleri ile
+bu bentte aranan diğer koşullar saklı kalmak kaydıyla, bankalar,
+işlemlerini asgari seviyede işlem türü, finansman konusu, teminat türü,
+risk derecesi, taraf türü, yerleşiklik, açılış tarihi, vade, valör, tabi olunan yasal kesintiler, aynı faiz oranı
+uygulanması, aynı ücret/komisyon gibi kesintilere tabi olma bakımından
+toplulaştırmak suretiyle muhasebeleştirebilirler. Bu
+durumlarda, her bir toplu muhasebeleştirme kaydının içerdiği işlemlerin,
+istenildiğinde işlem bazında muhasebeleştirmeyi mümkün kılacak şekilde ve
+işlem bazlı muhasebe detayı da dahil her türlü
+ayrıntıları ile birlikte sorgulanma yapılabilir biçimde bilgi sisteminde
+tutulması şarttır.
+İletişim
+yapısı ve iletişim kanallarının tesisi
+MADDE 12 – (1)
+Bankanın organizasyon yapısı içinde bilginin, bilgi güvenliği dahilinde ilgili yönetim kademeleri ile sorumlu
+personele ulaşacak biçimde dikey ve yatay akışı ve bankanın amaçları,
+stratejileri, politikaları, uygulama usulleri ve beklentileri hakkında alt
+birim yöneticilerinin ve operasyonda görevli personelin tam anlamıyla bilgi
+sahibi olması sağlanır. Personele yönlendirilecek bilgilerin içeriğinde
+banka faaliyetlerine ilişkin politikalara, bunların uygulama usullerine ve
+bankanın faaliyet performansına ilişkin verilere yer verilir. Banka
+personelinin görev ve sorumluluklarına ilişkin kuralları bilmeleri ve
+gerekli bilgilerin ilgili personele hızlı bir biçimde ulaşması sağlanır.
+(2) Yatay bilgi akışının sağlanması suretiyle banka
+içindeki veya bankanın kontrol ettiği kuruluşlara ait bir birimin sahip
+olduğu bilginin, o bilgiye gereksinim duyan diğer birimlerle paylaşılması
+temin edilir.
+(3) Banka personelinin karşılaştığı problemlerin kendi
+birimlerindeki yönetim kademeleri ile iç kontrol birimine, mutat
+uygulamalara göre şüpheli gördükleri veya tereddüt ettikleri hususların ise
+problemlerin bildirildiği yönetim kademeleri ve birim ile birlikte ayrıca
+iç denetim birimine raporlamalarını sağlayacak banka bünyesinde uygun iletişim
+kanallarının tesisi ve idamesi zorunludur.
+(4) Tesis edilecek iletişim kanallarının Kanunun 73 üncü
+maddesinin üçüncü fıkrasında belirtilen sır saklama yükümlülüğüne aykırılık
+oluşturmaması için her türlü tedbir alınır.
+İş
+sürekliliği yönetimi ve planı
+MADDE 13 – (1)
+Bankaların, bir kesinti anında faaliyetlerinin sürdürülmesi veya zamanında
+kurtarılmasını sağlamak üzere operasyonel,
+finansal, yasal ve itibari olumsuz etkileri en aza indirmeyi amaçlayan
+yönetim kurulu tarafından onaylanmış bir iş sürekliliği yönetim yapısı
+oluşturmaları zorunludur.
+(2) İş sürekliliği yönetimi kapsamında, iş
+sürekliliğinin gereklerini yerine getirmek üzere gerekli süreçler tesis
+edilir ve gereken tedbirler alınır.
+(3) İş sürekliliği planlamasına yönelik olarak iş etki
+analizi çalışmaları yapılır ve kurtarma stratejileri belirlenir. Bu
+çalışmalar ışığında bir iş sürekliliği planı oluşturulur ve bu plan yönetim
+kurulu tarafından onaylanır.
+(4) İş etki analizi kapsamında, ilgili çalışanların
+katılımıyla, iç ve dış bağımlılıklar belirlenir ve meydana gelebilecek bir
+kesinti durumunda gereken faaliyet düzeyini ortaya koymak üzere
+operasyonlar önem düzeyleri açısından sınıflandırılır. Farklı kesinti
+senaryolarının faaliyetler üzerinde yaratabileceği muhtemel riskler ve
+bunların potansiyel etkileri değerlendirilir.
+(5) İş etki analizini temel alan, kurtarma öncelikleri
+ve hedeflerini ortaya koyan bir kurtarma stratejisi geliştirilir. Kurtarma
+stratejisinin uygulanması ile ilgili detaylara iş sürekliliği planında yer
+verilir.
+(6) İş sürekliliği planının bankanın hedefleri ve öncelikleriyle
+uyumlu, güncel ve yeterli olması esastır. Risklerin açık ve net olarak
+tanımlandığı bu planda, faaliyet kesintilerinin yönetilmesi için görev ve
+sorumlulukların belirlenmesi, plan dâhilinde önemli göreve sahip personele
+ulaşılamaması durumunda yetki ve karar verme yapısının sürdürülebilmesi ve
+planın hangi koşullarda uygulamaya alınacağı hususlarına yer verilir. Plan
+geliştirilirken, varsa destek hizmeti alınan kuruluşlar da dikkate alınır.
+Personel, iş sürekliliği planı ile ilgileri çerçevesinde bilgilendirilir,
+görev ve sorumlulukları konusunda eğitilir.
+(7) Herhangi bir acil veya beklenmedik durumda öncelikli
+gerçekleştirilecek eylemleri ve alınacak tedbirleri belirlemek üzere iş
+sürekliliği planının bir parçası olarak acil ve beklenmedik durum planı
+oluşturulur. Karşılaşılan durum bu plan kapsamında çözülemediği takdirde iş
+sürekliliği planının diğer kısımları devreye alınır.
+(8) Acil ve beklenmedik durum planı kapsamında, ortaya
+çıkabilecek sorun ya da kriz ile başa çıkmak amacıyla gerekli önlemler
+alınır, gerektiğinde kullanılmak üzere ana hizmetlerin verildiği ortam ile
+aynı risklere maruz olmayan bir yönetim ve çalışma ortamı tesis edilir.
+Acil ve beklenmedik durum planında:
+a) Muhtemel acil ve beklenmedik durumlar karşısında, her
+banka operasyonu için bir öncelik sırası, yetki devri, durumun gerektirdiği
+personelin teminine ilişkin düzenlemeler, yönetim ile personelin temas
+düzeni, sırası ve yöntemi açık olarak belirlenir.
+b) Ödeme ve mutabakat sistemlerine ilişkin muhtemel acil
+ve beklenmedik bir duruma yönelik olarak, Türkiye Cumhuriyet Merkez Bankası
+yetkilileri, bankalararası ödeme, mutabakat ve
+takas sistemleri sorumluları ve Kurum ile muhtemel haberleşme düzeni;
+halkla ve müşterilerle ilişkilere yönelik kamuya açık bir haberleşme kanalı
+ya da ağı tesis edilmesi sağlanır.
+c) Müşteriler ve yayın organlarının zamanında ve doğru
+haber almasının teminine yönelik kullanılacak iletişim yöntemlerinin
+belirtildiği bir haberleşme stratejisi belirlenir.
+ç) Genel müdürlük ve şubeler arasında, buna ilaveten
+bilgi işlem merkezi ile şubeler arasında özel hatlar kullanılarak çoklu
+haberleşme metotlarının kullanımı güvence altına alınır.
+d) Bankanın faaliyetlerini sürdürebilmek için ihtiyaç
+duyabileceği tüm kaynaklar dikkate alınır, varlıkların korunmasına yönelik
+tedbirler ve hasar gören varlıkların değerlendirilmesine yönelik usuller
+belirlenir.
+e) Müşterilerin ve personelin güvenliğine azami önem
+verilir.
+(9) İş sürekliliği planı ve bu plan kapsamındaki diğer
+planlar, ilgili tüm birimlere görev ve sorumlulukları çerçevesinde
+belirlenmiş bir içerikle basılı halde iletilir. Personelin plan ve bu plan dahilinde üstlendiği sorumluluk hakkında alternatif
+iletişim kanalları üzerinden bilgi sahibi olması sağlanır. Planda
+belirtilen hususların eşgüdümü için yetkili bir birim belirlenir.
+(10) Bilgi sistemlerinin sürekliliği, iş sürekliliği
+planı kapsamında hazırlanan ve yönetim kurulu tarafından onaylanmış bilgi
+sistemleri süreklilik planı ve acil ve beklenmedik durum planında ele
+alınır. İş süreklilik planı kapsamındaki planlar ayrı ayrı
+hazırlanabileceği gibi tek bir planın parçası da olabilirler.
+(11) İş sürekliliği planı kapsamındaki planları gözden
+geçirecek bir sistem oluşturulur. Bankanın iş süreçlerini veya bilgi
+sistemlerini etkileyecek değişikliklerden sonra planlar gözden geçirilerek
+güncellenir. Bu planlar, otomatik ve manuel
+işleyen süreçlerde olası kısa veya uzun süreli kesintiler dikkate alınarak
+genel müdürlük ve örnek şubeler ile diğer birimlerde yılda en az bir kez
+test edilir. Testlere varsa kritik iş süreçlerine destek veren bilgi
+teknolojileri sistemlerinin ayağa kaldırılmasında rol oynayacak destek
+hizmeti kuruluşları da dahil edilir. Test
+sonuçları uygun bir değerlendirmeyi müteakip üst yönetime raporlanır ve
+gerekmesi halinde planın güncellenmesinde kullanılır.
+İç kontrol
+faaliyetleri
+MADDE 14 – (1) İç
+kontrol faaliyetleri asgari olarak aşağıdaki kontrolleri kapsar:
+a) Faaliyetlerin icrasına yönelik işlemlerin kontrolü,
+b) İletişim kanalları ile bilgi sistemlerinin ve
+finansal raporlama sisteminin kontrolü,
+c) Uyum kontrolleri.
+(2) İç kontrol faaliyetleri, bankanın günlük tüm
+faaliyetlerinin bir parçasını oluşturur. İç kontrole ilişkin yazılı
+politika ve uygulama usullerinin, önce faaliyeti gerçekleştiren personel
+tarafından sonra iç kontrol personeli tarafından icra edilecek bir
+yaklaşımla geliştirilmesi sağlanır ve bankanın tüm personeli
+gerçekleştirdikleri faaliyetlere ilişkin geliştirilen iç kontrol
+faaliyetlerine dair politika ve uygulama usulleri hakkında bilgilendirilir.
+İKİNCİ
+BÖLÜM
+İç Kontrol
+Faaliyetleri Kapsamındaki Kontroller
+Faaliyetlerin
+icrasına yönelik işlemlerin kontrolü
+MADDE 15 – (1)
+Bankaların faaliyetlerinin icrasına ilişkin işlemler operasyonel
+faaliyetleri oluşturur. Operasyonel faaliyetlere
+ilişkin kontroller ile operasyonların verimliliği ve etkinliğinin
+sağlanması amaçlanır.
+(2) Operasyonel faaliyetlere
+ilişkin olarak aşağıda belirtilen kontrol faaliyetlerinin bankalar
+tarafından uygulanması şarttır.
+a) Raporlama: Üst yönetime sunulmak üzere, günlük,
+haftalık veya aylık bazda olağanüstü durum,
+şüpheli işlem, aykırılık ve genel performans raporları hazırlanması,
+b) Fiziki kontrol: Bankaya ait veya müşteriler ve diğer
+taraflar adına saklanan nakit para, menkul kıymetler gibi finansal
+varlıklar da dahil olmak üzere maddi varlıklara
+erişilebilmesine, bunların kullanımına ve saklanmasına yönelik kurallar ve
+sınırlamalar konulması, tüm maddi varlıkların düzenli aralıklarla
+envanterinin çıkarılması,
+c) Onaylama ve yetkilendirme: Çift taraflı ve çapraz
+kontrol ve imza usullerinin tesis edilmesi, belirli limitlerin üzerindeki
+işlemler için onay ya da yetki alınması,
+ç) Sorgulama ve mutabakat sağlama: İşlemlerin
+detaylarının, faaliyetlerin ve risk yönetim modellerine ait çıktıların
+doğruluğunun sorgulanması, hesapların karşılaştırılması, düzenli
+aralıklarla mutabakatların gerçekleştirilmesi,
+d) Limitlere uygunluk incelemeleri, aşım ve
+aykırılıkların takibi: Genel ve özel risk limitlerine uyulup uyulmadığının
+incelenmesi ve limit aşımlarının izlenmesi.
+İletişim
+kanallarının ve bilgi sistemlerinin kontrolü
+MADDE 16 – (1)
+Bankanın iletişim kanallarının ve bilgi sistemlerinin kontrolü ile, banka bünyesinde elde edilen bilginin güvenilir,
+tam, izlenebilir, tutarlı ve ihtiyacı karşılayacak uygun biçim ve nitelikte
+olması ve ilgili birim ve personel tarafından zamanında erişilebilmesi
+imkanının sağlanması amaçlanır.
+(2) İletişim kanallarına ilişkin kontroller;
+a) Banka içinde ya da konsolidasyona tabi
+ortaklıklarında üretilen ve Kanun ve ilgili diğer mevzuat ile banka yönetim
+kurulunca onaylanan politika ve stratejilere göre herhangi bir sınırlamaya
+tabi tutulması gereken bilgilerden ilgili birim ve personele erişim imkanı tanınanlar üzerinde sınırlamalar bulunup
+bulunmadığına,
+b) Banka, çalıştığı birim ve kendi performansı hakkında
+personele düzenli olarak bilgi verilip verilmediğine,
+c) Kanunda ve ilgili diğer mevzuatta yapılan
+değişiklikler ile yeni ürün veya faaliyetler hakkında personelin
+bilgilendirilip bilgilendirilmediğine,
+ç) Karşılaşılan problemler, mutat uygulamalara göre
+tereddüt edilen hususlar hakkında ilgili personel tarafından kendi
+birimlerindeki yönetim kademelerine ve iç kontrol birimine ne kadar
+sıklıkla raporlama yapıldığına,
+ilişkin kontrol
+faaliyetlerinden oluşur.
+(3) Bilgi sistemlerine ilişkin kontroller, genel bilgi
+sistemi kontrolleri ve uygulama kontrollerinden oluşur. Genel bilgi sistemi
+kontrolleri, bilgi sistemi ve yönetimine ilişkin faaliyet ve bu
+faaliyetlere ilişkin süreçlerin kontrollerini kapsar. Uygulama kontrolleri,
+bilgi sistemleri içerisinde yer alan ve bankacılık faaliyetlerini yürütmek
+veya desteklemek için kullanılan finansal verilerin tanımlanması,
+üretilmesi, kullanılması, bütünlük ve güvenilirliğinin sağlanması, verilere
+erişimin yetkilendirilmesi gibi tüm iş süreçlerinde kullanılması gereken iç
+kontrolleri kapsar. Uygulama kontrolleri kapsamında asgari olarak veri
+oluşturma/yetkilendirme kontrolleri, girdi kontrolleri, veri işleme
+kontrolleri, çıktı kontrolleri ve sınır kontrolleri gerçekleştirilir.
+Kurul, genel bilgi sistemi kontrolleri ile uygulama kontrolleri
+çerçevesinde icra edilecek asgari kontrollerin kapsamına ilişkin usul ve
+esasları belirlemeye yetkilidir.
+Finansal
+raporlama sistemlerinin kontrolü
+MADDE 17 – (1)
+Finansal raporlama sistemlerinin kontrolü, muhasebe ve raporlama
+sistemlerinin bütünlüğünün ve güvenilirliğinin sağlanmasını hedefler. Bu
+kapsamda gerçekleştirilecek kontroller, asgari olarak;
+a) Finansal tablolara dahil
+edilmemesi veya finansal tablolarda yanlış ifade edilmesi halinde,
+kullanıcıların finansal tablolardaki bilgilerden yararlanarak aldıkları
+ekonomik kararları etkileme düzeyi yüksek olan bilgiler dikkate alınarak,
+finansal raporlarda yer alan bilgilerin özel kontrolü ve kontrol edilen
+bilgilere dayanak teşkil eden işlemlerin kontrolünü,
+b) İşlemlerle, varlık ve yükümlülüklerin kayda alınması
+ile finansal raporlara yansıtılması arasında uygulanan süreçte oluşabilecek
+hataların ve eksikliklerin saptanabilmesine yönelik kontrolü,
+c) Finansal raporların Kanuna ve Kanuna istinaden
+yürürlüğe konulan düzenlemelere uygun olarak hazırlanıp hazırlanmadığının
+kontrolünü
+içerir.
+Uyum
+kontrolleri
+MADDE 18 – (1) Uyum
+kontrolleri vasıtasıyla, bankanın gerçekleştirdiği ve gerçekleştirmeyi
+planladığı tüm faaliyetlerin ve yeni işlemler ile ürünlerin Kanuna ve
+ilgili diğer mevzuata, banka içi politika ve kurallar ile bankacılık
+teamüllerine uyumunun sağlanması hedeflenir. Kanun ve ilgili diğer mevzuat
+ile banka içi politika ve kurallardaki değişiklikler hakkında, banka
+personelinin en kısa sürede bilgilendirilmesi sağlanır.
+(2) Uyumun kesintisiz kontrolü, iç kontrol birimi veya
+uyum kontrolüyle görevlendirilecek ve iç kontrol birimi ile aynı iç
+sistemler sorumlusuna bağlı olarak çalışacak bankanın diğer
+faaliyetlerinden bağımsız olarak örgütlendirilecek bir birim tarafından
+gerçekleştirilir.
+(3) Yeni ürün ve işlemler ile gerçekleştirilmesi
+planlanan faaliyetler için yönetim kurulundan onay alınmadan önce ikinci
+fıkra uyarınca görevlendirilen birimden görüş alınır.
+(4) Bankanın yurt dışı şubelerinde ve konsolidasyona
+tâbi ortaklıklarında, yurt dışı düzenlemelere uyumu kontrol edecek asgari
+birer personel görevlendirilir ve ikinci fıkra uyarınca, uyum kontrolüyle
+görevlendirilmiş birime bağlı olarak raporlama yapmaları sağlanır.
+ÜÇÜNCÜ
+BÖLÜM
+İç Kontrol
+Birimi ve İç Kontrol Personeli
+İç kontrol
+birimi
+MADDE 19 – (1) İç
+kontrol sistemi ile iç kontrol faaliyetleri ve bunların nasıl icra
+edileceği, bankanın gerçekleştirdiği tüm faaliyetlerin nitelikleri dikkate
+alınarak, iç kontrol birimi tarafından ilgili birimlerin üst düzey
+yöneticileri ile birlikte tasarlanır.
+(2) İç kontrol biriminde bir yönetici ile bankanın
+ölçeği, faaliyetlerinin niteliği ve karmaşıklığına göre yeterli sayıda ve
+mesleki uzmanlığa sahip iç kontrol personeli görev yapar. İç kontrol birimi
+fiziken banka genel müdürlüğünde yer alır. Türkiyede şube açarak faaliyet gösteren yurt dışında
+kurulu bankalarda iç kontrol birimi, merkez şubede tesis edilir.
+(3) İç kontrol faaliyetlerinin yerine getirilip
+getirilmediği, kurallara ve sınırlamalara uyulup uyulmadığı, hedeflere
+ulaşılıp ulaşılamadığı hususları, belirlenen değişik yönetim kademelerinde
+ve ilgili kontrol basamak ve noktalarında kontrol edilerek tespitlerin
+niteliği de dikkate alınmak suretiyle normal veya acil bir şekilde iç
+kontrol personelince iç kontrol birimine bildirilmesi temin edilir.
+(4) İç kontrol
+faaliyetlerinin, bankanın operasyonel
+faaliyetlerini gerçekleştiren personel ile iç kontrol personeli arasında
+dağılımına ilişkin usul ve esaslar ile her iç kontrol faaliyeti için tahsis
+edilecek iç kontrol personeli sayısı ve hangi kontrol mekanizma ve
+yöntemlerinin kullanılacağı, iç kontrol birimi yöneticisi ve ilgili üst
+düzey yönetim tarafından birlikte belirlenir. İç kontrol
+personelinin görev yaptığı mahaldeki bankanın faaliyetlerini yürüten diğer
+personelle eşgüdümü ve işbirliği iç kontrol birimi tarafından sağlanır.
+(5) İç kontrol birimine raporlanan kontrol sonuçları bu
+birim bünyesinde muhafaza edilir. Raporlamalar, operasyonel
+faaliyetleri yürüten banka personeli ve iç kontrol personeli tarafından
+yapılanlar olarak ayrıştırılır ve bunlar da niteliklerine göre
+sınıflandırılır. Belirtilen şekilde gruplandırılan raporlamalar iç kontrol
+birimi yöneticisi ve ilgili üst düzey yönetim tarafından değerlendirilir ve
+iç kontrol sisteminin geliştirilmesi ya da iç kontrol faaliyetlerinin
+aksamadan yürütülmesi için gerekli görülen tedbirler alınır.
+(6) Beşinci fıkra kapsamındaki uygulamalar hakkında en
+fazla üçer aylık dönemler itibarıyla denetim komitesine bilgi verilir.
+(7) İç kontrol birimi yöneticisinin en az yedi yıllık
+bankacılık deneyimine sahip olması şarttır. İç kontrol birimi yöneticisi,
+iç kontrol personelinin görev, yetki ve sorumluluklarının gerektirdiği
+nitelikleri haiz olup olmadıklarını değerlendirir, mesleki bilgi, beceri ve
+yeteneklerinin geliştirilmesine yönelik eğitim programları hazırlar ve
+bunların görevlerini icrai birimlerin etkisinde
+kalmaksızın tarafsız olarak icra edip etmediklerini izler.
+(8) İç kontrol birimi faaliyetlerinin bir iç kontrol
+personeli ile sürdürülmesinin mümkün olduğu bankalarda iç kontrol birimi yöneticisi
+görev, yetki ve sorumluluklarını da haiz olmak üzere iç kontrol birimi
+faaliyetleri bu personel tarafından icra olunur.
+İç kontrol
+personelinin görev ve yetkileri
+MADDE 20 – (1) İç
+kontrol birimine bağlı iç kontrol personeli görevlerini, operasyonel faaliyetlerin gerçekleştirildiği birim veya
+şubelerde ve genel müdürlükte yürütürler. Bankalar, şube faaliyetlerinin
+banka toplam işlem hacmi içerisindeki payı, taşıdıkları operasyonel
+riskleri, bankanın risk profili içerisindeki etkisi, personel sayısı ve
+günlük faaliyetlerin merkezden kontrol edilebilme imkanları
+gibi hususları da dikkate alarak bazı şubelerde sürekli iç kontrol
+personeli bulundurulabilir. İç kontrol personelinin görev yerleri, iç
+kontrol birimi yöneticisi tarafından uygun görülecek sürelerde
+değiştirilir. İç kontrol personeli, iç kontrol faaliyetleri dışında bir
+faaliyette bulunamazlar.
+(2) İç kontrol personeli,
+bankanın tüm faaliyetlerinin güvenli bir biçimde icra edilmesini izlemek,
+incelemek ve kontrol etmek amacıyla ilgili birimlerden raporlamaya dayalı
+bilgi talebinde bulunurlar, çeşitli kontrol dokümanları ve araçları
+üzerinden genel veya özel gözlemlere ve izlemeye dayalı kontrol ya da
+inceleme yaparlar, tespitlerini raporlara bağlarlar veya uyarı mesajları
+hazırlayarak ilgili birimlere tebliğ ederler. İç kontrol
+personeline, izledikleri, inceledikleri ve kontrol ettikleri hususlara
+ilişkin olarak banka personelinden ilave açıklama isteme ve bunların fikirlerine
+başvurma yetkileri verilir.
+(3) İç kontrol birimi tarafından hazırlanan, ilgili iç
+sistemler sorumlusu tarafından uygun görülen ve yönetim kurulu tarafından
+onaylanarak kabul edilen iç kontrol birimi yönetmeliğinde iç kontrol
+personelinin öğrenim durumu, deneyim, bilgi ve beceri seviyeleri ile diğer
+niteliklere yer verilir.
+ÜÇÜNCÜ
+KISIM
+İç Denetim
+Sistemi
+BİRİNCİ
+BÖLÜM
+İç
+Denetimin Amacı, Kapsamı, Organizasyonu ve Mesleki Özen
+İç denetim
+sisteminin amacı ve kapsamı
+MADDE 21 – (1) İç
+denetim sisteminin amacı, üst yönetime banka faaliyetlerinin Kanun ve
+ilgili diğer mevzuat ile banka içi strateji, politika, ilke ve hedefler
+doğrultusunda yürütüldüğü ve iç kontrol ve risk yönetimi sistemlerinin
+etkinliği ve yeterliliği hususunda güvence sağlamaktır.
+(2) İç denetim sisteminden beklenen amacın
+sağlanabilmesi için, iç denetim faaliyetleriyle; banka içi herhangi bir
+kısıtlama olmaksızın bankanın tüm faaliyetleri, yurt içi ve yurt dışı şube
+ve genel müdürlük birimleri dahil diğer birimleri
+dönemsel ve riske dayalı olarak incelenir ve denetlenir, eksiklik, hata ve suistimaller ortaya çıkarılır, bunların yeniden ortaya
+çıkmasının önlenmesine ve banka kaynaklarının etkin ve verimli olarak
+kullanılmasına yönelik görüş ve önerilerde bulunulur ve Kuruma ve üst
+yönetime iletilen bilgi ve raporlamaların doğruluğu ve güvenilirliği değerlendirilir.
+(3) Dönemsel ve riske dayalı denetimlerde;
+a) İç kontrol ve risk yönetimi sistemlerinin yeterliği
+ve etkinliği değerlendirilir.
+b) Elektronik bilgi sistemi ile elektronik bankacılık
+hizmetleri de dahil olmak üzere ve 13/1/2010
+tarihli ve 27461 sayılı Resmî Gazete’de yayımlanan Bağımsız Denetim
+Kuruluşlarınca Gerçekleştirilecek Banka Bilgi Sistemleri ve Bankacılık
+Süreçlerinin Denetimi Hakkında Yönetmeliğin, Bilgi Sistemleri ve Bankacılık
+Süreçleri Denetimine İlişkin Esaslar başlıklı Beşinci Bölümünde belirlenen
+usul ve esaslar çerçevesinde bilgi sistemleri gözden geçirilir.
+c) Muhasebe kayıtları ile finansal raporların doğruluğu
+ve güvenilirliği incelenir.
+ç) Operasyonel faaliyetlerin,
+belirlenmiş olan usullere uygunluğu ile bunlara ilişkin iç kontrol uygulama
+usullerinin işleyişi test edilir.
+d) İşlemlerin, Kanuna ve ilgili diğer mevzuata, banka
+içi strateji, politika ve uygulama usulleri ile diğer iç düzenlemelere
+uygunluğu denetlenir.
+e) Banka içi düzenlemeler çerçevesinde yönetim kurulu ve
+denetim komitesine yapılan raporlamalar ile yasal raporlamaların doğruluğu,
+güvenilirliği ve zaman kısıtlamalarına uygunluğu denetlenir.
+(4) Bankada risk ölçüm modeli kullanılması halinde, risk
+ölçüm modelleriyle ilgili olarak;
+a) Risk ölçüm model ve yöntemleriyle elde edilen
+sonuçların günlük risk yönetimine dahil edilip
+edilmediği,
+b) Bankanın kullandığı fiyatlama modelleri ile değerleme
+sistemleri,
+c) Bankanın kullandığı risk ölçüm modellerinin kapsadığı
+riskler,
+ç) Risk ölçüm modellerinde kullanılan verinin ve varsayımların
+doğruluğu ve uygunluğu,
+d) Risk ölçüm modellerinde kullanılan verinin kaynağının
+güvenilirliği, bütünlüğü ve zamanında elde edilebilirliği,
+e) Risk ölçüm modelleri için kullanılan geriye dönük
+testlerin doğruluğu,
+denetime tabi
+tutulur.
+(5) Bankanın konsolidasyona
+tabi ortaklıkları da iç denetime tabi tutulur.
+(6) İç denetim sistemi kapsamında bankanın sermaye
+gereksinimi içsel değerlendirme süreci, bu sürece ilişkin mevzuat ve banka
+içi düzenlemeler çerçevesinde denetlenir.
+İç denetim
+birimi
+MADDE 22 – (1)
+Bankalarda iç denetim görevi, iç denetim birimi tarafından yürütülür. İç
+denetim biriminde bankanın büyüklüğüne, faaliyetlerinin karmaşıklığına,
+yoğunluğuna, kapsamına ve risklilik düzeyine bağlı olarak, Kanun ve ilgili
+mevzuat ile banka içi düzenlemelerde öngörülen denetim hizmetlerinin
+aksatılmadan ve bu hizmetlerin gerektirdiği seviyede yerine getirilmesi
+amacıyla yeterli sayıda müfettiş ve iç denetim elemanı çalıştırılır.
+(2) İç denetim birimi yöneticisinin en az yedi yıllık
+bankacılık deneyimine sahip olması şarttır. İç denetim birimi yöneticisi,
+iç denetim faaliyetlerini denetim faaliyetlerine yönelik politika ve
+uygulama usulleri ile iç denetim planları çerçevesinde yürütür.
+(3) İç denetim birimi yöneticisi;
+a) İç denetim faaliyetlerine yönelik politika ve
+uygulama usullerini belirler, denetim komitesinin uygun görüşünü alır ve
+yönetim kurulunun onayıyla uygulamaya koyar.
+b) İç denetim faaliyetlerini gözetler, denetim politika,
+program, süreç ve uygulamalarını izler ve yönlendirir.
+c) Müfettişlerin görev, yetki ve sorumluluklarının
+gerektirdiği nitelikleri haiz olup olmadıklarını değerlendirir, mesleki
+bilgi, beceri ve yeteneklerinin geliştirilmesine yönelik eğitim programları
+hazırlar ve bunların görevlerini mesleki özen ve dikkat çerçevesinde
+bağımsız ve tarafsız olarak icra edip etmediklerini izler.
+(4) Denetim faaliyetlerinin bir müfettiş ile
+sürdürülmesinin mümkün olduğu bankalarda iç denetim birimi yöneticisi
+görev, yetki ve sorumluluklarını da haiz olmak üzere denetim faaliyetleri
+bu müfettiş tarafından icra olunur.
+(5) Dönemsel ve riske dayalı denetimler haricinde,
+yönetim kurulu veya denetim komitesinin talebi üzerine, iç denetimin
+amacına uygun olarak özel denetimler de iç denetim birimi tarafından yerine
+getirilir.
+Müfettişlerin
+nitelikleri ve yetkileri
+MADDE 23 – (1)
+Müfettişler görev ve sorumluluklarını tarafsız ve bağımsız olarak icra
+eder. Bu amaçla müfettişlerin iç denetim birimi yöneticisi, ilgili iç
+sistemler sorumlusu ve yönetim kurulu haricinde banka yönetiminde yer alan
+hiçbir kişiye karşı hesap verme sorumluluğu bulunmaması ve görevlerinin
+icrasında kişisel veya akrabalık ilişkileri ya da bankadaki konumu gibi
+hususlardan kaynaklı menfaat çatışmalarından uzak olmaları sağlanır.
+(2) Müfettişler, bağımsızlıklarını ve tarafsızlıklarını
+zedeleyici nitelikteki hususların bulunması halinde bunları denetim
+öncesinde iç denetim birimi yöneticisine ve denetim komitesine bildirir ve
+görevden çekilir. Müfettişler, daha önce bulunduğu görevler nedeniyle
+sorumluluğu bulunan işlemlerin denetiminde yer alamazlar.
+(3) Yönetim kurulunca, müfettişlere görev ve
+sorumluluklarını etkin bir şekilde yerine getirebilmeleri için, bankanın
+tüm bölüm ve birimlerinde inisiyatif
+kullanabilecek, bankanın herhangi bir personelinden bilgi alabilecek ve bankanın
+tüm kayıt, dosya ve verilerine ulaşabilecek yetkiyi haiz olmaları sağlanır.
+(4) İç denetim birimi tarafından hazırlanan, ilgili iç
+sistemler sorumlusu tarafından uygun görülen ve yönetim kurulu tarafından
+onaylanarak kabul edilen iç denetime yönelik düzenlemelerinde müfettişlerin
+yeterlilikleri için aranan öğrenim durumu, deneyim, bilgi ve beceri
+seviyeleri ile diğer niteliklere yer verilir. Müfettişlerden, bankanın
+bilgi teknolojilerinin denetimini icra edeceklerin bilgi teknolojileri ile
+bilgi teknolojilerine dayalı denetim teknikleri konularında öğrenim
+alanları itibariyle veya aldıkları eğitim sertifikalarıyla kanıtlanabilir
+asgari bilgi ve beceriye sahip olmaları zorunludur. Bu zorunluluk, 22 nci maddenin dördüncü fıkrası kapsamında bankalarda görev
+yapan müfettiş hakkında da uygulanır.
+İç
+denetimde mesleki özen
+MADDE 24 – (1)
+Müfettişler, görevlerini mesleki özen ve dikkat içerisinde yerine
+getirmekle yükümlüdür. Mesleki özen ve dikkat asgari olarak;
+a) Görevin gerektireceği çalışmanın kapsamını,
+b) İlgili mevzuat, iç düzenleme ve uygulama usullerini
+ve bunların denetlenecek alan bakımından önem ve gerektirdiği çalışmanın
+boyutunu,
+c) Denetime konu faaliyetlere ilişkin risk yönetimi ve
+iç kontrol sistemlerinin etkinliği ve yeterliliğini,
+ç) Denetime konu faaliyet ve işlemlerde önemli hata,
+usulsüzlük ve kasıtlı aykırılıkların olma ihtimalini,
+d) Yararlanılabilecek bilgisayar destekli denetim
+teknikleri ile veri analiz tekniklerini,
+e) Denetim konusu faaliyet veya işlemden
+kaynaklanabilecek riskleri,
+f) Danışmanlık hizmetinde bulunulması halinde, hizmetin
+gerektirdiği çalışmanın sonuçlandırılma süresi ve raporlanması dahil bundan yararlanacak kişilerin ihtiyaç ve
+beklentileri ile bu hizmetin gerektirdiği çalışmanın kapsamı ve karmaşıklık
+düzeyini
+belirleme
+yetkinliğine sahip olmayı gerektirir.
+İKİNCİ
+BÖLÜM
+İç Denetim
+Faaliyetleri ve Çalışma Esasları
+İç denetim
+faaliyetleri
+MADDE
+25 – (1)
+Bankaların dönemsel ve riske dayalı iç denetim faaliyetleri, iç denetim
+planının hazırlanması, yürürlüğe konulması, çalışma programları
+aracılığıyla icrası, sonuçların iç denetim birimi yönetimine, ilgili birim
+yönetimine ve ilgili iç sistem sorumlusuna, denetim komitesine, denetim
+komitesi aracılığıyla yönetim kuruluna raporlanması ve denetim raporları
+çerçevesinde ilgili birim yönetimlerince alınan önlemlerin izlenmesi
+faaliyetlerini kapsar.
+Riske
+dayalı denetim
+MADDE 26 – (1) Etkin
+bir iç denetim sistemi, iç denetim biriminin risk değerlendirmelerine
+dayalı olarak gerçekleştirilir. İç denetimde risk değerlendirmeleri, iç
+denetim birimi tarafından bankanın maruz kaldığı riskler ve bunlara ilişkin
+kontroller dikkate alınarak denetim çalışmalarında öncelik verilecek
+alanların, dikkate alınacak ayrıntıların ve denetimin sıklığının
+belirlenmesine yönelik yürütülen bir işlemdir.
+(2) Her yıl itibariyle risk değerlendirmelerinin
+yapılabilmesi için;
+a) Tüm işlemler, ürün çeşitleri, sunulan hizmetler ve
+görevler tanımlanır.
+b) Tanımlanan işlemler, ürün çeşitleri, hizmet ve
+görevler kapsamında icra edilen faaliyetler ve bunlara yönelik Kanun
+hükümleri ve ilgili diğer mevzuat konuları belirlenir.
+c) Önemli iş birimleri ve ürünler ile bunlara ilişkin
+faaliyet ve kontrol riskleri belirlenir ve risk yönetimi ve iç kontrol
+sistemlerinin yapısına ilişkin dokümanlar tespit edilir.
+ç) Önemli iş birimleri ve ürünlere ilişkin faaliyet ve
+kontrol risklerinin değerlendirilmesi ve önem derecelerinin belirlenmesi
+için risk ölçüm ve derecelendirme sistemleri kullanılır.
+(3) Önemli iş birimleri ve ürünlere ilişkin faaliyet ve
+kontrol risklerinin değerlendirilmesi ve önem derecelerinin belirlenmesi,
+konsolidasyona dahil her kuruluşu da kapsayacak
+şekilde, Ek-1’deki matris yardımıyla yapılır. İç denetim birimi tarafından
+yapılacak risk değerlendirmesinde, bankanın taşıdığı risk kompozisyonları
+asgari olarak Ek-1’deki matriste belirtilen faaliyet alanları itibariyle
+izlenmek ve değerlendirilmek zorundadır.
+(4) Birim ve faaliyetlere ilişkin risk
+değerlendirmeleri, birim yöneticileri ile birlikte yapılır. Risk değerlendirmelerinde
+iç kontrol ve risk yönetimi birimlerinin görüşleri de alınır. Risk
+değerlendirmelerine ilişkin nihai karar iç denetim biriminin
+sorumluluğundadır.
+(5) Risk değerlendirmeleri düzenli olarak gözden
+geçirilir. Yeni ürünler, yeni sistemler, Kanun ve ilgili diğer mevzuattaki
+değişiklikler, organizasyonda veya önemli görevlerde bulunan personelde
+değişiklikler ya da yürütülen faaliyetlere ilişkin işlem hacminde ve
+tutarlarda yaşanan dikey değişimler gibi risk değerlendirmelerini
+etkileyebilecek olaylar, birim yöneticileri tarafından iç denetim birimine
+bildirilir. İç denetim birimi bu tür değişiklikleri dikkate alarak risk
+değerlendirmelerini gözden geçirir.
+(6) İç denetim birimi yöneticisi risk
+değerlendirmelerini ve değişikliklerini inceler ve uygunluğunu onaylar.
+İç denetim
+planı
+MADDE 27 – (1) İç
+denetim planı, 26 ncı madde kapsamında yapılan
+risk değerlendirmelerine dayalı olarak oluşturulur. Plan hakkında üst düzey
+yönetimin görüşü de alınır. İlgili iç sistemler sorumlusu tarafından uygun
+görülen planlar yönetim kurulunun onayıyla yürürlüğe konulur.
+(2) İhtiyaç hasıl olması
+halinde, iç denetim birimi, tesis edilmiş politikalara uygun olarak denetim
+planlarını günceller ve güncellenen plan ilgili iç sistemler sorumlusuna
+sunulur. Denetim planlarında yapılan önemli değişiklikler ve güncellemeler,
+ilgili iç sistemler sorumlusunun uygun görüşü alınarak ve yönetim kurulunun
+onayıyla yürürlüğe konulur. Güncellenen planda, güncelleme tarihine kadar
+gerçekleştirilmiş olan denetim çalışmaları ile bunlara ayrılan zamana ve
+yapılan önemli değişikliklerin nedenlerine ilişkin açıklamalara yer
+verilir.
+(3) İç denetim planları, dönem içerisinde
+gerçekleştirilecek özel tahkikatlar, danışmanlık hizmetleri ve alınacak
+eğitimler de dikkate alınarak hazırlanır. İç denetim planlarında;
+a) Riske dayalı değerlendirmeler sonucunda önem ve
+öncelik sıralamasına da yer verilerek dönem içerisinde denetlenecek
+alanlara,
+b) Denetimin amacına,
+c) Denetlenecek her bir alan veya faaliyet ile ilgili
+özet risk değerlendirmelerine ve Kanun ve ilgili diğer mevzuata,
+ç) Planlanan denetim çalışmasının gerçekleştirileceği
+zamana ve denetim dönemine,
+d) Denetim faaliyetleri için gerekli olan kaynaklara ve
+kaynak kısıtlamalarının olası etkilerine,
+yer verilir.
+Denetim
+dönemi
+MADDE 28 – (1) Denetim
+dönemi, denetimlerin sıklığını ifade eder. Denetim dönemini olağan
+koşullarda, denetlenecek faaliyetler ve alanlar ile müfettişler ve
+denetimin yapılabileceği zaman belirler. Risk değerlendirmeleri neticesinde
+daha riskli olduğu değerlendirilen alanlar, diğerlerine göre daha fazla sıklıkta
+denetlenir.
+Çalışma
+programları
+MADDE 29 – (1) İç
+denetim planında belirlenen denetim alanları kapsamında verilen her bir
+denetim görevi için, bankanın denetim alanındaki tüm işlemleri,
+kullanılacak denetim teknikleri, bilgi elde etmede izlenecek yollar,
+belgelendirmeye ilişkin uygulamalar, ulaşılan sonuçlar ve denetim raporunun
+sunulmasını kapsayacak şekilde bir çalışma programı hazırlanır. Çalışma
+programında denetim hedefi ve bu hedefe ulaşılması için yapılacak
+çalışmalara ayrıntılı olarak yer verilir.
+(2) Denetimde kullanılan denetim usulleri çalışma
+kâğıtları şeklinde belgelendirilir. Çalışma kâğıtlarının, denetim görevinin
+çalışma programında öngörülen şekilde tamamlanıp tamamlanmadığını ve
+görevin icra ediliş şeklini gösterecek mahiyette tutulması ve ilgili
+müfettişin adı ve soyadı belirtilerek imzalanması esastır.
+(3) Çalışma programları olağan koşullarda asgari olarak
+aşağıdaki hususlara ilişkin uygulamaları içerir:
+a) Gerek duyulması halinde yapılacak beklenmedik
+denetimler,
+b) Denetlenecek kayıtların kontrolü,
+c) İç kontrol sistemlerinin, politikaların ve uygulama
+usullerinin incelenmesi ve değerlendirilmesi,
+ç) Risk değerlendirmeleri,
+d) Kanunun ilgili maddesi ya da ilgili kanun, düzenleme
+ve kuralların gözden geçirilmesi,
+e) Örnekleme metot ve tekniklerinin kullanımı,
+f) Seçilmiş işlemlerin ve hesap bakiyelerinin asgari
+olarak aşağıdaki uygulamalar yoluyla teyidi;
+1) Yardımcı hesaplar, büyük defter kayıtları ve kontrol
+kayıtlarının birbirleriyle tutarlığının incelenmesi,
+2) Kayıtlara esas belgelerin incelenmesi,
+3) İstisnai uygulamaların doğrudan incelenmesi ve uygun
+izleme faaliyetleri,
+4) Fiziksel denetimler.
+Örnekleme
+metot ve teknikleri
+MADDE 30 – (1)
+Örnekleme metot ve teknikleri denetimlerde, ilgili döneme ilişkin hesap
+bakiyelerinin, işlemlerin seçilmesi, doğrulanması ve bunlarla ilgili iç
+kontrol uygulamalarının test edilmesi amacıyla kullanılır. Çalışma
+programlarında, test hedefleri, bu hedeflere ulaşmak için uygulanacak
+işlemler ve inceleme kapsamına alınacak işlem ve hesap sayısına yer
+verilir.
+(2) Kullanılacak örnekleme metot ve tekniği, örneğin
+temsil ettiği grubun karakteristik özellikleri, içerdiği işlem ve hesap
+sayısı, söz konusu gruba ilişkin iç kontrollerin etkinliği ile maliyet kısıtı gibi hususlar dikkate alınarak belirlenir.
+Seçilen örneğin temsil ettiği grubun karakteristik özelliklerinin örnekle
+benzer olması, grubun içerdiği işlem veya kalem sayısının yüksek olması
+gibi durumlarda istatistiksel metotların, aksi haller veya istatistiksel
+metotların maliyetli olması gibi durumlarda ise istatistiksel olmayan
+metotların kullanılması tercih edilir.
+(3) Müfettişler, örnekleme metot ve tekniklerinin seçimi
+ve uygulaması kapsamında;
+a) Örnekleme hedefinin oluşturulması,
+b) Örneklenen grubun büyüklüğü ve incelenen özellikleri,
+c) Örnek boyutunun belirlenmesi,
+ç) Örnekleme metodolojisinin
+seçilmesi
+hususlarına çalışma
+kağıtlarında yer vermek zorundadır.
+İç denetim
+raporları
+MADDE 31 – (1) İç
+denetim raporları, bir birimin veya faaliyetin Kanun ve ilgili diğer
+mevzuat ile banka içi politika ve uygulama usullerine uygunluğu, işletilen
+süreçlerin ve iç kontrollerin etkinliği ve alınması gerektiği düşünülen
+düzeltici işlemler hakkında üst yönetime bilgi verecek mahiyette
+düzenlenir. Müfettişler bulgularını ve önerilerini ilgili taraflarla paylaşmak,
+denetim raporlarını acil bir durum öngörülmediği sürece denetim çalışması
+tamamlandıktan sonra mümkün olduğu kadar kısa süre içinde iç denetim birimi
+aracılığıyla denetim komitesine ve yönetim kuruluna ulaştırmakla
+yükümlüdür. Müfettişlerce düzenlenecek çalışma kâğıtları raporları
+destekler mahiyette olmak zorundadır. Rapor ile birlikte çalışma kağıtları da iç denetim birimine tevdi edilir.
+(2) İç denetim raporları denetlenen alan ve iç denetim
+gereklerine uygun olarak hazırlanır. Bu raporlarda;
+a) Tespit edilen sorunlar ve sonuçlara ilişkin özete,
+b) Denetimin kapsam ve amaçlarına,
+c) Detaylı denetim sonuçlarına (tespit edilen hususlar
+çerçevesinde denetlenen konuya verilen önem derecesi ve ayrıntılı
+nedenleri),
+ç) Varsa önerilere ve bunların faydalarına,
+d) Üst yönetim tarafından ihtiyaç duyulabilecek diğer
+bilgilere,
+yer verilir.
+(3) Denetim tamamlandıktan sonra, taslak denetim
+raporunu müzakere etmek, yanlış bilgilerin düzeltilmesini sağlamak, ilgili
+birim yönetiminin tespitlere ve alınacak önlemlere ilişkin
+değerlendirmelerini almak üzere müfettişler ilgili birim yöneticisiyle
+görüşür. Bu görüşmeden sonra denetim raporunun nihai hali, ilgili birim
+yönetiminin varsa görüşleri de eklenerek, düzeltici önlemleri almaya
+yetkili yöneticilere intikal ettirilmek üzere iç denetim birimine sunulur.
+(4) İç denetim birimi yöneticisi, asgari üç ayda bir
+denetim komitesine iç denetim birimi tarafından icra edilmiş faaliyetlere
+ilişkin bir rapor sunar ve bunları denetim komitesi ile birlikte mütalaa
+eder. Denetim komitesi gelen bu raporu, mütalaası ile birlikte, en geç on
+iş günü içinde yönetim kuruluna sunar. Söz konusu raporda asgari olarak
+aşağıdaki hususlara yer verilir:
+a) Tamamlanan, devam eden, ertelenen ve iptal edilen denetim
+faaliyetleri ve yıllık denetim planına uyum düzeyi,
+b) Müfettişlerin raporlama döneminde aldıkları
+eğitimler,
+c) Önemli muhasebe sorunları ile Kuruma yapılan
+raporlamalara ve denetim bulgularına ilişkin tereddütlü hususlar,
+ç) Bilgi sistemlerine ilişkin yapılan denetimlerin
+özeti,
+d) Risk değerlendirmeleri ve bunların özeti,
+e) Denetime ve iç kontrollere ilişkin hata raporları,
+f) Düzeltici önlemleri almaya yetkili yöneticilere
+intikal ettirilen önemli zayıflıkların giderilmesine yönelik görüşler,
+g) Denetim komitesi ve iç denetim birimi tarafından yer
+alması uygun görülen diğer konular.
+İzleme
+faaliyetleri
+MADDE 32 – (1)
+Müfettişler iç denetim raporlarında önerdikleri ve iç denetim birimince
+düzeltici önlemleri almaya yetkili yöneticilere intikal ettirilen hususlara
+yönelik uygulamaları izlerler.
+(2) Müfettişler birinci fıkra kapsamındaki izleme
+faaliyetlerinin sonuçlarını ve değerlendirmelerini denetim komitesine
+iletilmek üzere iç denetim birimine raporlarlar. Bu raporlar gelecek
+dönemlerde yapılacak iç denetim planlarında dikkate alınır.
+Danışmanlık
+hizmetleri
+MADDE 33 – (1)
+Bankalarda yeni ürünler ve hizmetler veya politika ve uygulama usulleri
+konusunda iç denetim biriminden danışmanlık hizmeti alınabilir. Ancak
+verilen danışmanlık hizmetleri, danışmanlık konusuna giren hususlara onay
+verildiği anlamına gelmez.
+Konsolidasyona
+tabi ortaklıkların denetimi
+MADDE 34 – (1)
+Bankalar, kendi iç denetim biriminin, konsolidasyon
+kapsamındaki ortaklıkların bütün faaliyetlerini ve birimlerini sınırlama
+olmaksızın inceleyebilmesini sağlamak için gerekli bütün tedbirleri alır.
+DÖRDÜNCÜ
+KISIM
+Risk
+Yönetimi Sistemi
+BİRİNCİ
+BÖLÜM
+Risk
+Yönetim Politikaları ve İlkeleri, Risklerin Ölçülmesi, İzlenmesi ve Risk
+Yönetimi Biriminin Sorumlulukları
+Risk
+yönetiminin amacı
+MADDE 35 – (1) Risk
+yönetimi sisteminin amacı, bankanın gelecekteki nakit akımlarının ihtiva
+ettiği risk-getiri yapısını, buna bağlı olarak faaliyetlerin niteliğini ve
+düzeyini izlemeye, kontrol altında tutmaya ve gerektiğinde değiştirmeye
+yönelik olarak belirlenen politikalar, uygulama usulleri ve limitler
+vasıtasıyla, maruz kalınan risklerin konsolide ve
+konsolide olmayan bazda tanımlanmasını, ölçülmesini, raporlanmasını,
+izlenmesini, kontrol edilmesini ve risk profilleriyle uyumlu içsel sermaye
+gereksiniminin belirlenmesini sağlamaktır.
+(2) Banka içinde uygun ve yeterli bir risk yönetim
+sisteminin tesis edilmesi için;
+a) Faaliyetlerden kaynaklanan risklerin farklı
+boyutlarını yönetmeye imkân verecek yeterli politikalar, uygulama usulleri
+ve limitler,
+b) Risk yönetimi faaliyetleri
+bu kısımda
+belirtilen usul ve esaslara uygun olarak açıkça tanımlanır.
+(3) Risk yönetim sisteminin kapsamlılık düzeyi
+bankaların büyüklüğü ve faaliyetlerinin karmaşıklığı ile orantılı olarak
+oluşturulur. Kurum tarafından bu düzeyin yetersiz bulunması halinde,
+yapılması gereken işlemlerin boyutuna göre onbeş
+günden az olmamak üzere verilecek süre içerisinde bu yetersizliğin
+giderilmesi zorunludur.
+Risk
+yönetimi politikaları ve uygulama usulleri
+MADDE 36 – (1) Risk
+yönetimi politika ve uygulama usullerinin belirlenmesinde asgari olarak
+aşağıdaki hususlar dikkate alınır;
+a) Bankanın faaliyetlerine ilişkin stratejiler,
+politikalar ve uygulama usulleri,
+b) Bankanın faaliyetlerinin hacmine, niteliğine ve
+karmaşıklığına uygunluk,
+c) Bankanın risk stratejisi ve alabileceği risk düzeyi,
+ç) Bankanın risk izleme ve yönetme kapasitesi,
+d) Bankanın geçmiş deneyimi ve performansı,
+e) Faaliyetleri yürüten birimlerin yöneticilerinin
+alanları ile ilgili konulardaki uzmanlık düzeyleri,
+f) Kanunda ve ilgili diğer mevzuatta öngörülen
+yükümlülükler.
+(2) Risk yönetimi politika ve uygulama usullerinin
+değişen koşullara uyum sağlaması zorunludur. Yönetim kurulu veya ilgili iç
+sistemler sorumlusu bunların yeterliliğini düzenli olarak değerlendirir ve
+gerekli değişiklikleri yapar.
+(3) Risk yönetimi politika ve uygulama usulleri, riskten
+korunma, sigorta veya kredi türevleri gibi risk azaltım
+tekniklerinin kullanımını da kapsamalıdır.
+Risk
+limitleri
+MADDE 37 – (1)
+Bankalar tarafından, risk limitlerinin önerilmesi, değerlendirilmesi,
+onaylanması, banka içerisinde duyurulması, izlenmesi ve denetlenmesi
+süreçlerine ilişkin uygulama esasları belirlenir ve belirlenen esaslar
+yönetim kurulunca onaylanır. Bankaca üstlenilen risklerin, risk limitleri dahilinde olduğu ve banka üst yönetimi tarafından
+izlendiği konusundaki gözetim sorumluluğu yönetim kuruluna aittir.
+(2) Risk limitleri; bankanın alabileceği risk düzeyine,
+faaliyetlerine, ürünlerinin ve hizmetlerinin büyüklüğü ve karmaşıklığına
+uygun olarak, asgari olarak personel, birim, banka geneli veya bankanın dahil olduğu grup bazında belirlenir. Risk limitleri
+uygulamadaki gelişmelerin güncelliğini yansıtacak şekilde düzenli olarak
+gözden geçirilir ve piyasa koşullarında ve banka stratejisindeki
+değişmelere göre uyarlanır. Gözden geçirme konusundaki aslî sorumluluk,
+limit belirleme yetkisini haiz olan yönetim kuruluna aittir. Gözden geçirme
+süreci, limitlerin, riskler ve bankanın risk iştahı karşısında anlamlı ve
+yeterli olup olmadığını belirlemeye yönelik olmalıdır.
+(3) Risk limitlerinin ilgili birimlere iletilmesi ve
+ilgili personelin bunları anlaması sağlanır.
+(4) Limit kullanımları yakından izlenir, limit aşımları
+gerekli tedbirlerin alınması için üst düzey yönetime anında bildirilir.
+(5) Limitlerin risk bazlı
+olarak belirlenmesi esastır. Bu limitler, parasal büyüklüklere bağlı nominal tutarların yanı sıra, ortalama riske maruz
+değerin yüzdesi, risk ağırlıklı varlıkların yüzdesi gibi risk ölçüm
+sonuçlarına dayalı oransal limitler ya da sektörel
+ya da borçlu bazında sınırlamalar gibi yoğunlaşmaya yönelik limitler
+şeklinde de olabilir. Belirlenecek risk limitleri mevzuatta bu konulara
+ilişkin getirilmiş olan sınır ve limitlerin dışına çıkamaz.
+(6) Risk limitleri, önemlilik ilkesi çerçevesinde banka
+tarafından uygun görülecek tüm risk kategorilerinde tesis edilir.
+Bankalarca, asgari olarak piyasa, kredi ve operasyonel
+risklere ilişkin risk limitlerinin tesisi zorunludur. Bankanın risk limiti
+yapısı içerisinde, limit aşım istisnaları tanımlanır ve istisnaların tabi
+olacağı kurallar yazılı olarak belirlenir. Ayrıca, erken uyarı limitleri
+belirlenerek bu limitlerin aşılması halinde yapılması gereken hususlara
+ilişkin uygulama esasları yönetim kurulunca tanımlanır.
+Risk
+yönetimi faaliyetleri
+MADDE 38 – (1) Risk
+yönetimi faaliyetleri, risk yönetimi birimi ve personeli tarafından
+yürütülür.
+(2) Risk yönetimi faaliyetleri;
+a) Risk ölçümü,
+b) Risklerin izlenmesi,
+c) Risklerin kontrolü ve raporlanması
+faaliyetlerinden oluşur.
+Yeni
+ürünler ve hizmetler
+MADDE 39 – (1)
+Bankalar tarafından yeni sunulan ürün ve hizmetler dikkatli değerlendirmeye
+tabi tutulur. Bu ürün ve hizmetlerin sunulması için gerekli personel,
+teknoloji ve mali kaynakların bulunduğundan ve üst yönetim tarafından yeni
+ürün ve hizmetlerden kaynaklanacak risklerin tamamıyla anlaşıldığından emin
+olunur.
+(2) Yeni ürün ve hizmet sunmaya ilişkin teklifler
+aşağıdaki unsurları içerir:
+a) Ürün veya hizmetin tanımı,
+b) Ürün veya hizmetlerden kaynaklanabilecek risklere
+ilişkin detaylı değerlendirme,
+c) Ürün veya hizmete ilişkin fayda ve maliyet analizi,
+ç) Risk yönetimi uygulamalarının değerlendirilmesi ve
+yeni ürün ve hizmet için etkin bir risk yönetiminin yapılması için gerekli
+kaynakların belirlenmesi,
+d) Yeni ürün ve hizmete ilişkin gerçekleştirilecek
+faaliyetlerin bankanın mali bünyesi ve sermayesi ile ilişkilendirilmesine
+yönelik analiz,
+e) Yeni ürün ve hizmetten kaynaklanacak risklerin
+ölçülmesi, izlenmesi, raporlanması ve kontrol edilmesinde izlenecek
+uygulama usulleri.
+(3) İlgili tüm birimlerin, yeni ürün veya hizmetin
+sunulmasına ilişkin görüşleri alınır.
+(4) Banka tarafından yeni ürün veya hizmetin
+sunulmasından sonra değerlendirme yapılır ve bu değerlendirme, gelecekte
+benzer ürün veya hizmetlerin geliştirilmesi halinde dikkate alınır.
+Risk
+yönetimi birimi ve personeli
+MADDE 40 – (1) Risk
+yönetimi birimine asgari olarak aşağıdaki sorumluluklar verilir:
+a) Risk yönetim sistemini tasarlamak ve uygulamak,
+b) Risk yönetim stratejileri esas alınarak, risk yönetim
+politikaları ve uygulama usullerini belirlemek,
+c) Risk yönetimi politika ve uygulama usullerinin
+uygulanmasını ve bunlara uyulmasını sağlamak,
+ç) Bir işleme girilmeden önce risklerin anlaşılmasını ve
+yeterli değerlendirmenin yapılmasını sağlamak,
+d) Risk ölçüm modellerinin tasarımı, seçilmesi,
+uygulamaya konulması ve ön onay verilmesi sürecine katılmak, modelleri
+düzenli olarak gözden geçirmek ve gerekli değişiklikleri yapmak,
+e) Bankanın kullandığı risk ölçüm modellerinden günlük
+raporlar üretmek ve raporları analiz etmek,
+f) Sayısallaştırılabilen risklerin belirlenen limitler dahilinde kalmasını sağlamak ve bu limitlerin
+kullanımını izlemek,
+g) Her bir risk için birim bazında belirlenen limitleri
+toplulaştırarak bankanın tümü bazında belirlenen limitlere uyumunu izlemek,
+ğ) Risk ölçümü ve risk izleme sonuçlarının yönetim kuruluna
+veya ilgili iç sistemler sorumlusuna ve üst düzey yönetime düzenli ve
+zamanında raporlanmasını sağlamak.
+(2) Risk yönetimi birimi tarafından hazırlanan, ilgili
+iç sistemler sorumlusu tarafından uygun görülen ve yönetim kurulu
+tarafından onaylanarak kabul edilen risk yönetimine yönelik düzenlemede
+risk yönetimi birimi personelinde aranan öğrenim durumu, deneyim, bilgi ve
+beceri seviyeleri ile diğer niteliklere yer verilir.
+(3) Risk yönetimi birimi yöneticisinin en az yedi yıllık
+bankacılık deneyimine sahip olması şarttır. Risk yönetimi birimi
+yöneticisi, birim personelinin görev, yetki ve sorumluluklarının
+gerektirdiği nitelikleri haiz olup olmadıklarını değerlendirir, mesleki
+bilgi, beceri ve yeteneklerinin geliştirilmesine yönelik eğitim programları
+hazırlar ve bunların görevlerini icrai birimlerin
+etkisinde kalmaksızın tarafsız olarak icra edip etmediklerini izler.
+(4) Risk yönetimi birimi tarafından icra edilen
+faaliyetlerin bir personel ile sürdürülmesinin mümkün olduğu bankalarda
+risk yönetimi birimi yöneticisi görev, yetki ve sorumluluklarını da haiz
+olmak üzere risk yönetimi birimi faaliyetleri bu personel tarafından icra
+olunur.
+Risk ölçümü
+ve ölçüm süreci
+MADDE 41 – (1)
+Bankalar maruz kaldıkları sayısallaştırılabilen risklerin ölçümü ve sayısallaştırılamayan
+risklerin değerlendirilmesi için güvenilir ve bütünlük içinde
+uygulanabilen; yapıları, ürün çeşitleri ve faaliyet alanları ile uyumlu
+etkin sistemlere sahip olmalıdır.
+(2) Bankalar, risk ölçüm sisteminin ürettiği sonuçların
+doğru yorumlanması için gerekli tüm tedbirleri almalıdır. Bankalar, risk
+ölçüm sisteminin sonuçlarının karar alma süreçlerine dahil
+edilmesinde hata ve noksanlıklardan kaynaklanabilecek yorumlama hatalarına
+karşı gerekli tüm tedbirleri almalıdır.
+(3) Bankalar, risk analiz ve değerlendirmelerinin
+bankanın risk profilini doğru şekilde yansıtacak
+yöntemlerle yapılmasını, risk profilinin izlenmesini ve kontrol altına
+alınmasını sağlar.
+(4) Risklerin ölçümü ve değerlendirilmesi için farklı
+ölçüm yöntemleri ve modelleri kullanılabilir. Risk ölçümünde kullanılacak
+yöntemlerin veya modellerin belirlenmesinde bankalar aşağıda belirtilen
+hususları dikkate alır:
+a) Faaliyetlerin yapısı, hacmi ve karmaşıklığı,
+b) Model veya yöntemin ihtiyaç nedeni,
+c) Yöntemin veya modelin varsayımları,
+ç) Kullanılacak verinin elde edilebilirliği,
+d) Bilgi sistemlerinin elverişliliği,
+e) Personelin deneyimi.
+(5) Yönetim kurulu veya ilgili
+iç sistemler sorumlusu ile üst düzey yönetim, kullanılan modele ilişkin
+varsayımları ve sınırlamaları, riskleri ölçmek için kullanılan temel
+varsayımları, veri kaynakları ve uygulama usullerinin yeterliliğini ve
+uygunluğunu değerlendirmek zorundadır.
+(6) Risk ölçüm yöntemi veya modelinin doğruluğu ve
+güvenilirliği, gerçekleşen sonuçlar kullanılarak geriye dönük testler
+yoluyla tespit edilir. Risk ölçüm yöntemi ve modeller değişen piyasa
+koşullarının yansıtılması için periyodik güncellemelere tabi tutulur.
+(7) Banka içinde, risk ölçüm sistemlerinin işleyişine
+ilişkin yazılı politika ve uygulama usulleri oluşturulur ve bu politika ve
+uygulama usullerine uyumun izlenmesine yönelik yöntemler geliştirilir. Risk
+ölçüm sistemlerinin işleyişine ilişkin yazılı politika ve uygulama
+usullerinde veri yönetim süreci de düzenlenir.
+Veri
+yönetimi süreci
+MADDE 42 – (1) Veri
+yönetim süreci; veri kalitesini ve verinin zamanında, tutarlı ve güvenilir
+şekilde temini ile veri güvenliğini sağlayacak şekilde oluşturulur.
+(2) Veri kalitesinin sağlanmasında uygulanan tüm kriterler ve usuller, yazılı şekilde belirlenir. Risk
+ölçüm sistemi kapsamında kullanılacak verinin kalitesinin temininde
+aşağıdaki hususlar dikkate alınır;
+a) Verinin hazırlanmasına, toplanmasına ve
+raporlanmasına ilişkin görev paylaşımını içeren içsel düzenlemelerin
+olması,
+b) Yeterli personel, gerekli bilgisayar ağı ve diğer teknik
+donanımların sağlanmış olması,
+c) Verinin hazırlanmasında izlenen politikaların belli
+bir temele dayanması, kaynak ve istatistiki
+tekniklerin seçiminde azami faydanın gözetilmesi ve bunun açık bir biçimde
+ortaya konması,
+ç) Verinin hangi koşullar ve dönemler içerisinde
+toplandığına ve hazırlanma sürecine ilişkin açıklama yapılabilir durumda
+olunması,
+d) Kullanılan yönteme ilişkin kavram ve tanımlamaların,
+uluslararası alanda kabul görmüş tanımlarla uyumlu olması,
+e) Veri kaynağının, istatistik hazırlamaya yetecek
+kapasiteye sahip olması,
+f) Verilerin belirli aralıklarla ve zamanında
+raporlamaya konu edilebilmesi.
+(3) Veri teminine ilişkin süreçler banka faaliyetleri ve
+ölçeği ile uyumlu olarak, verinin zamanında, tutarlı ve güvenilir bir
+şekilde temin edilmesini ve veri güvenliğini etkileyebilecek tüm riskler
+dikkate alınarak tesis edilir. Bankalar, tarihsel verilerin ölçüme
+uygunluğunun devamlılığını sağlamaya yönelik yazılı usuller ile
+değerlendirmelere, ölçek ve benzeri yöntemlere göre ayarlamalara, bunların
+hangi kapsamda yapılabileceğine ve bu konudaki yetki dağılımına ilişkin
+yazılı usulleri oluştururlar.
+(4) Banka içi verilerin risk ölçümü için yeterli
+olmadığı koşullarda, banka dışı veriler istatistiki yöntemlerle uygun hale
+getirilerek, banka veri tabanına dahil edilir.
+Bankalar, risk ölçümüne konu edecekleri dışsal veriyi, bankanın faaliyet
+alanı, yapısı, iç kontrol ortamı ve ölçeğine uygun yapıda temin etmek
+zorundadırlar. Dışsal veri, gerçekleşen kayıp miktarlarına, ilgili iş
+kolundaki faaliyetlerin ölçeğine, kayıp olayının nedenlerine ve ortaya
+çıktığı koşullara ilişkin bilgileri içerecek şekilde temin edilir.
+(5) Bankalar, brüt kayıp tutarlarına ilişkin bilgilerin
+yanı sıra kayıp olayının gerçekleşme zamanı, kaybın karşılanmasına yönelik
+olarak yapılan geri ödemeler, kayıp olayının nedeni ve etkenleri hakkında
+açıklayıcı bilgileri kayıt altına alırlar. Bu bilgilerin detay seviyesi,
+ilgili brüt kayıp tutarının büyüklüğü ile uyumlu şekilde belirlenir.
+(6) Risk ölçüm süreci kapsamında kullanılan teknik alt
+yapı, olası gelişmelere ve değişikliklere uyarlanabilmesini sağlayacak,
+ölçümleme sürecini aksatmayacak esneklikte kurulur. İstisnai nedenlerle
+zorunlu hale gelmedikçe veri setleri üzerinde geçmişe yönelik düzeltme
+yapılmaz. Zorunlu nedenlerle yapılacak düzeltmelerin gerekçesi ve niteliği
+bu düzeltmelere ilişkin yazılı kayıtlarda açıklanır.
+(7) Veri güvenliği açısından, farklı kaynaklardan bilgi
+akışı bulunan veri tabanlarında bilgi girişine, bilginin izlenmesine ve
+bilgi erişimine yönelik güvenli bir yapı tesis edilir. Verilerin
+kalitesinin düzenli kontrolü için veri yönetim süreci kapsamındaki
+işlemlere ilişkin sorumluluklar ile süreç tanımları ve kapsamı yazılı
+olarak belirlenir.
+İKİNCİ
+BÖLÜM
+Sermaye
+Gereksinimi İçsel Değerlendirmesi
+Sermaye gereksinimi
+strateji ve süreçleri
+MADDE 43 – (1)
+Bankalar, maruz kaldıkları veya kalabilecekleri riskleri karşılamak için
+yeterli gördükleri sermayenin, çeşitleri, bileşenleri ve dağılımının
+sürekli olarak değerlendirilmesi ve idame ettirilmesine yönelik sağlam,
+etkin ve eksiksiz strateji ve süreçler tesis eder.
+(2) Bankalar, mevcut ve gelecekteki sermaye
+gereksinimlerini stratejik amaçları ile birlikte analiz eder. Stratejik
+plan, sermaye gereksinimlerini, beklenen sermaye maliyetlerini, hedeflenen
+sermaye düzeyini ve sermaye kaynaklarını içermelidir.
+(3) Strateji ve süreçler, banka faaliyetlerinin
+niteliği, ölçeği ve karmaşıklık düzeyi ile uyumlu ve kapsamlı olması ve
+idame ettirilmesi için düzenli içsel değerlendirmelere tabi tutulur.
+Sermaye
+gereksinimi içsel değerlendirme süreci temel ilkeleri
+MADDE 44 – (1)
+Bankalar, risk profillerine uygun bir sermaye
+gereksinimi içsel değerlendirme sürecine sahip olmalı, risk profiline,
+faaliyet ortamı ve stratejik planlarla uyumlu sermaye hedefleri
+belirlemelidir.
+(2) İçsel değerlendirme süreci, içinde bulunulan
+koşullara ve gereksinimlere göre şekillendirilmelidir. Bu süreçte içsel
+girdi ve tanımlar kullanılmalıdır.
+(3) Sermaye gereksinimi içsel değerlendirme süreci asli
+olarak bankanın sorumluluğundadır. İçsel değerlendirme sürecinde
+kullanılacak modeller için destek hizmeti alınması bankanın sorumluluğunu
+ortadan kaldırmaz.
+Sürecin
+tasarımı
+MADDE 45 – (1) Sermaye
+gereksinimi içsel değerlendirme süreci ve sermaye yeterliliği politikası
+tamamen yazılı hale getirilmiş ve yönetim kurulunca onaylanmış olmalıdır.
+İçsel değerlendirme sürecinin sorumluluğu, banka üst yönetimine aittir.
+(2) Sermaye gereksinimi içsel değerlendirme sürecinin
+tasarlanması ve yürütülmesi risk yönetimi birimi tarafından yerine
+getirilir. Asgari olarak kapsamı, genel metodolojiyi
+ve amaçları içeren kavramsal tasarım hakkında bankaların iç sistemler
+kapsamındaki diğer birimlerinden görüş alınır.
+(3) Sermaye planlamasının ve yönetiminin genel risk
+yönetimi kültürü ve yaklaşımının bütünleşik bir parçası haline
+getirilmesinden banka üst yönetimi sorumludur. Banka üst yönetimi, sermaye
+planlaması ve yönetimi politikalarının ve usullerinin banka geneline tebliğ
+edilerek uygulanmasını ve yeterli yetki ve kaynaklar ile desteklenmesini
+sağlamalıdır.
+(4) İçsel değerlendirme sürecinin sonuçları, banka üst
+yönetimine raporlanır.
+Sürecin
+yönetim ve karar alma süreci ile ilişkisi
+MADDE 46 – (1) İçsel
+değerlendirme süreci, bankanın yönetim ve karar alma sürecinin bütünleşik
+bir parçasını oluşturmalıdır.
+(2) İçsel değerlendirme süreci, faaliyetlerden
+kaynaklanan ve banka için önem arz eden risklerin devamlı olarak
+değerlendirilmesine imkan vermelidir.
+Düzenli
+gözden geçirme
+MADDE 47 – (1)
+Risklerin yeterli ölçüde kapsanması ve sermaye düzeyinin bankanın gerçek
+risk profilini yansıtması amacıyla sermaye
+gereksinimi içsel değerlendirme süreci yılda en az bir kez olmak üzere
+gerekli görülen sıklıkta üst yönetim tarafından düzenli olarak gözden
+geçirilir.
+(2) Bankanın stratejilerinde, iş planlarında, faaliyet
+ortamında ya da sermaye gereksinimi içsel değerlendirme sürecinde
+kullanılan varsayım ve yöntemleri önemli ölçüde etkileyebilecek diğer
+faktörlerde değişiklik olması halinde, sermaye gereksinimi içsel
+değerlendirme sürecinde gerekli düzeltmeler yapılır. Banka faaliyetlerinde
+yeni risklerin ortaya çıkması halinde, bu riskler tanımlanmalı ve sürece
+dâhil edilmelidir.
+Risk
+odaklılık
+MADDE 48 – (1) İçsel
+değerlendirme süreci risk odaklı olmalıdır.
+(2) Bankalarca, sermaye gereksiniminin belirlenmesinde
+hedeflenen dış derecelendirme notu, piyasa itibarı ve stratejik hedefler
+gibi unsurlar da dikkate alınır.
+(3) Bu Yönetmelikte açıkça belirtilmiş olanlar haricinde
+sürece dahil edilmiş olan diğer unsurların,
+sermaye gereksiniminin belirlenmesine ilişkin banka kararlarını ne şekilde
+etkilediği bankalar tarafından açıklanabilir olmalıdır.
+(4) İçsel değerlendirme sürecinde, sayısallaştırılamayan
+risk türleri için daha çok nitel değerlendirme, risk yönetimi ve azaltımı gibi teknikler kullanılır.
+Sayısallaştırılabilen ve sayısallaştırılamayan riskler bankaca açıkça belirlenmelidir.
+Kapsamlılık
+MADDE 49 – (1) İçsel
+değerlendirme süreci, asgari olarak aşağıdakiler olmak üzere
+karşılaşılabilecek her türlü önemli riski kapsamalıdır;
+a) Sermaye yükümlülüğü hesaplamasında ve sermaye
+gereksinimi içsel değerlendirme sürecindeki ele alınış farklılıklarını da
+içerecek şekilde kredi riski, piyasa riski ve operasyonel
+risk,
+b) Kredi riski, piyasa riski ve operasyonel
+riske ilişkin sermaye yükümlülüğü hesaplamalarında kullanılan yöntemlerin
+tam olarak kapsamadığı riskler,
+c) Bankacılık hesaplarından kaynaklanan faiz oranı
+riski, yoğunlaşma riski, likidite riski, itibar riski ve stratejik risk
+gibi kredi riski, piyasa riski ve operasyonel
+risk dışında kalan tüm önemli riskler,
+ç) Yukarıda bahsedilenlere dahil
+olmayan, düzenleyici veya ekonomik ortama ya da faaliyet ortamına bağlı
+olarak oluşan banka dışı risk faktörleri.
+Geleceğe
+yönelik olması
+MADDE 50 – (1) İçsel
+değerlendirme süreci geleceğe yönelik olmalıdır.
+(2) İçsel değerlendirme süreci, bankanın stratejik
+planlarını ve bunların makroekonomik faktörlerle ilişkisini dikkate
+almalıdır. Bankalarca, kredi büyüme beklentileri, gelecekteki fon
+kaynakları ve fon kullanımı, temettü politikası ile kredi riski, piyasa
+riski ve operasyonel risk için asgari sermaye
+yükümlülüklerinin ekonomik döngüye bağlı olarak değişimi gibi faktörleri
+içeren sermaye yeterliliğinin idamesine yönelik bir strateji
+geliştirilmelidir.
+(3) Bankaların, hedeflerini ve bu hedeflere ulaşmak için
+öngörülen takvimi, genel hatlarıyla sermaye planlaması sürecini ve bu
+sürecin sorumluluklarını tayin eden, açık ve onaylanmış bir sermaye planı
+olmalıdır. Plan aynı zamanda, bankanın gelecekteki sermaye gereksinimine
+uyumunu, özkaynaklarla ilgili sınırlamaları,
+hedeflerden sapmalara ve beklenmedik olaylara yönelik genel bir beklenmedik
+durum planını içermelidir.
+(4) Bankalar, ülke risklerini ve ekonomik döngünün
+belirli aşamalarına ilişkin risk faktörleri gibi değişkenleri dikkate alan
+stres testleri uygulamalıdır. Bankalar, kendi performansları üzerinde
+etkisi olan mevzuat değişiklikleri, rakiplerinin olası davranışları gibi
+faktörleri de analiz etmelidir.
+Uygun ölçme
+ve değerlendirme süreci
+MADDE 51 – (1) İçsel
+değerlendirme süreci uygun ölçme ve değerlendirme süreçlerine dayanmalıdır.
+(2) Bankalar, yazılı risk değerlendirme süreçlerine
+sahip olmalıdır.
+(3) İçsel değerlendirme sürecinin sonuçları ve
+bulguları, bankanın stratejisinin ve risk iştahının değerlendirilmesi
+sürecinde dikkate alınır.
+(4) Bankanın ölçeği, faaliyetlerinin niteliği ve karmaşıklığına
+bağlı olarak içsel sermaye değerlendirme sürecinde ekonomik sermaye ve
+benzeri diğer modeller kullanılabilir.
+(5) Uygulamaların zaman içindeki gelişimine bağlı
+olarak, bankalar sermaye gereksinimi içsel değerlendirme süreçlerini farklı
+şekillerde tasarlayabilir.
+İçsel
+değerlendirme süreci sonuçları
+MADDE 52 – (1) İçsel
+değerlendirme süreci, genel bir sermaye tutarı ve değerlendirmesi ortaya
+koymalıdır.
+(2) Banka, önemli bütün riskleri kapsayan sermaye
+gereksinimi içsel değerlendirme süreci ile sermaye yükümlülüğü arasındaki
+benzerlikleri ve farklılıkları yeterli ve makul bir şekilde
+açıklayabilmelidir.
+ÜÇÜNCÜ
+BÖLÜM
+Risk
+Yönetim Uygulamalarına İlişkin Risk Türüne Dayalı Genel Esaslar
+Risk
+yönetim uygulamalarının tesisi
+MADDE
+53 – (1)
+Bankalar, bu Kısmın Birinci Bölümünde belirtilen ilke ve esasları da
+dikkate alarak; kredi riski, piyasa riski, operasyonel
+risk, likidite riski, bankacılık hesaplarından kaynaklanan faiz oranı
+riski, karşı taraf kredi riski, yoğunlaşma riski, menkul kıymetleştirme
+riski, ülke ve transfer riski, artık risk ve diğer riskleri için etkin ve
+riski doğuran faaliyetlerinin yoğunluk ve karmaşıklık düzeyine uygun risk
+yönetim uygulamalarını tesis etmekle yükümlüdürler.
+Kredi riski
+yönetimi uygulamalarına ilişkin genel esaslar
+MADDE 54 – (1)
+Bankalar, kredi riskinin değerlendirilmesine yönelik yöntemlere sahip
+olmalıdır. Bankalar, kredi risklerini ölçmek, karşı tarafın malî gücünü
+düzenli olarak analiz etmek, izlemek, gerekli bilgi ve belgeleri temin
+etmek ve bunlara ilişkin esasları belirlemek zorundadır. Kredilerin
+onaylanması, değiştirilmesi, yenilenmesi ve yeniden yapılandırılmasına
+ilişkin süreçler açık ve net olarak belirlenir. Sermaye gereksinimi
+kapsamında yapılacak kredi riski değerlendirmesine, krediler için ayrılan
+karşılıklar da dahil edilir.
+(2) Karmaşık faaliyet yapısına sahip bankaların sermaye
+gereksinimi kapsamında kredi riski değerlendirmesi asgari olarak; risk
+derecelendirme sistemleri, portföy analizi veya
+toplulaştırması, menkul kıymetleştirme ve karmaşık yapıdaki kredi türevleri
+ile büyük krediler ve risk yoğunlaşmaları unsurlarını içerir.
+(3) İçsel risk derecelendirmesinin kullanıldığı
+hallerde, bu derecelendirmeler tüm kredi işlemlerinden kaynaklanan riskin
+tanımlanması ve ölçülmesini destekleyecek, tüm varlıklar için detaylı
+dereceler sağlayacak ve kredi riski ve sermaye gereksinimine ilişkin
+bankanın diğer analizleri ile bütünleşik olacak şekilde tesis edilir.
+(4) Kredi riski analizinde, riskteki yoğunlaşmayı da
+içerecek şekilde portföy düzeyindeki zayıflıklar
+belirlenir, kredi yoğunlaşmasının ve diğer portföy konularının yönetiminde
+menkul kıymetleştirme ve karmaşık kredi türevleri gibi işlemlerden
+kaynaklanan riskler yeterli ölçüde dikkate alınır.
+(5) Bankalar hedef ürün ve müşteri kitlesini ve genel
+kredi stratejilerini de dikkate alarak kredi portföylerinin
+yeterince çeşitlendirilmesini sağlamakla yükümlüdürler.
+Piyasa
+riski yönetimi uygulamalarına ilişkin genel esaslar
+MADDE 55 – (1)
+Bankalar, piyasa riskinin ölçülmesi ve yönetimini sağlayan politika ve süreçlere
+sahip olmalıdır. Banka açısından önemli düzeyde piyasa riski yaratan
+faktörlerin ve söz konusu risklerin olası etkilerinin ölçülmesi ve
+yönetilmesine yönelik politika ve süreçlerin tesis edilmesi ve işletilmesi
+zorunludur.
+(2) Piyasa riskinin değerlendirilmesinde kullanılan
+süreçler düzenli olarak incelemelere tabi tutulur.
+(3) Kurum, karmaşık faaliyet yapısına sahip bankalardan
+sermaye gereksinimi içsel değerlendirme sürecinin piyasa riskine ilişkin
+kısmında, likidite ve yoğunlaşma risklerine yönelik analizleri de içerecek
+şekilde, risk ölçüm modelleri ile stres testlerinin kullanılmasını zorunlu
+tutabilir.
+(4) Bankanın risk ölçüm modeli, alım satım faaliyetinden
+kaynaklanan tüm riskleri belirleyip ölçebilecek nitelikte ve sermaye
+gereksinimi içsel değerlendirme süreci ile bütünleşik yapıda oluşturulur.
+Risk ölçüm modeli, risk faktörü şokları ya da tarihi veya varsayımsal
+bütünleşik senaryolar gibi stres testleri ve diğer uygun risk yönetim teknikleri
+ile desteklenir.
+(5) Yoğunlaşma riskinin aktif olarak ve risk
+gerçekleşmeden önce yönetilmesi ve değerlendirilmesi, yoğunlaşılan
+pozisyonların da mutat olarak üst yönetime raporlanması sağlanır.
+(6) Risk ölçüm modellerini kullanan bankalar, modelin
+piyasa riskine ilişkin toplam sermaye gereksinimi tutarına nasıl ulaştığını
+açıkça düzenlerler.
+(7) Piyasa riski açısından risk toleranslarına ilişkin
+limit sistemleri kurulur. Alım satım portföyü
+işlemleri eş zamanlı olarak limitlerle karşılaştırılır ve pozisyondan
+sorumlu kişiler ilgili limitler ve mevcut kullanım seviyesi hakkında
+bilgilendirilir. Risk pozisyonlarındaki geçici değişiklikler nedeniyle
+oluşanlar da dahil olmak üzere bankalarca limit
+aşımlarını giderici önlemler geliştirilir.
+(8) Alım satım portföyü
+pozisyonları günlük olarak değerlemeye tabi tutulur. Toplam risk pozisyonu,
+değerleme sonuçları ve limit kullanım seviyeleri risk yönetim birimi
+yöneticisine bir sonraki iş gününde raporlanır.
+Operasyonel risk yönetimi uygulamalarına
+ilişkin genel esaslar
+MADDE 56 – (1)
+Bankalar, operasyonel risk yönetimi için gerekli
+sistemleri oluşturur ve bu sistemler kapsamında sermaye gereksinimini
+hesaplar. Bu sistem, operasyonel risk profilini, risk toleransını ve riskin banka dışına hangi
+kapsamda ve şekilde transfer edileceğine ilişkin hususları içerir. Bunlar,
+bankanın operasyonel risk yönetim politikalarında
+açıkça belirlenir.
+(2) Bankalarca, operasyonel
+riskler yılda en az bir defa tanımlanır ve değerlendirilir, bu risklerin
+hesaplanması için uygun ölçümler geliştirilir.
+(3) Etkisi yüksek olan düşük sıklıktaki vakaları da
+kapsayacak şekilde maruz kalınan operasyonel
+risklerin tanımlanmasına, izlenmesine, değerlendirilmesine, kontrol
+edilmesine veya azaltılmasına ve yönetilmesine yönelik politikalar ve
+yöntemler oluşturulması zorunludur. Bankaların Sermaye Yeterliliğinin
+Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmeliğin 3 üncü maddesinde
+yapılan tanıma uygun olmak koşuluyla, bankalarca operasyonel
+risk kapsamında ele alınacak riskler, söz konusu politika ve yöntemler
+çerçevesinde belirlenir.
+(4) Operasyonel risklerden
+kaynaklanan kayıpların nedenleri ivedilikle analiz edilir ve bu nedenler
+risk yönetimi birimi tarafından kayıt altına alınır.
+(5) Operasyonel riske ilişkin
+üst yönetime sunulacak raporlar, riske neden olan durumların düzeltilmesi
+için önlemler alınıp alınmayacağı, önlem alınması durumunda, bunların neler
+olacağı hususlarında alınacak kararlara esas teşkil eder. Bu önlemlerin
+uygulaması banka üst yönetimince izlenir.
+(6) Bankalarca, faaliyetlerin önemli ölçüde kesintiye
+uğraması sebebiyle maruz kalınabilecek zararların sınırlandırılması
+zorunludur.
+(7) Bankaların operasyonel
+risk yönetimi süreçlerinin yasal riski kapsaması zorunludur.
+Likidite
+riski yönetimi uygulamalarına ilişkin genel esaslar
+MADDE 57 – (1)
+Bankalar, net likidite pozisyonunun ve likidite gereksiniminin devamlı
+olarak ve geleceğe dönük olarak ölçülmesi, izlenmesi, kontrol edilmesi ve
+yönetilmesi için politika ve süreçler tesis etmek ve işletmek zorundadır.
+Alternatif senaryolar da değerlendirilerek net likidite pozisyonuna ilişkin
+kararların dayandığı varsayımlar düzenli olarak gözden geçirilir.
+(2) Bankalarca likidite riski, normal piyasa koşulları
+ve olası piyasa dalgalanmaları açısından ayrı ayrı
+değerlendirilir. Bankalar, ilgili para birimlerini de dikkate almak
+suretiyle ödeme yükümlülüklerini sürekli olarak yerine getirebilmek için,
+varlıkları ile yükümlülüklerinde gerekli çeşitlendirmeyi sağlamak
+zorundadır.
+(3) Bankalar düzenli şekilde, fon girişleriyle fon
+çıkışlarını karşılaştıran ve belirli bir zaman dilimini kapsayan likidite
+incelemeleri yürütmelidirler. Bu incelemede, beklenen fon giriş ve fon
+çıkışları ile bunların dayandığı varsayımlar, bankanın varlıklarını nakde
+çevirme kabiliyet ve olanağı ile Merkez Bankasından sağlanabilecek likidite
+kolaylıkları, piyasa dalgalanmaları söz konusu olduğunda varlıkların nakde
+çevrilmesi sırasında oluşabilecek değer düşüşleri dikkate alınır; belirli
+varlık sınıflarına ilişkin piyasa koşulları tahlil edilir.
+(4) Banka bazında ve piyasa bazında düzenli bir biçimde
+senaryo ve duyarlılık analizleri gerçekleştirilir ve senaryolar düzenli
+olarak gözden geçirilir.
+(5) Bankalar, olağan faaliyetleri kapsamında likidite
+riski artışının önlenmesine yönelik mekanizmalara ve nitelik ve şiddeti
+açısından farklılaştırılmış likidite sıkışıklıklarını ve kullanılacak
+iletişim kanallarını da içerecek şekilde, bir acil eylem planına sahip
+olmak zorundadır. Elverişli likidite kaynakları, tüm likidite
+sıkışıklıkları dikkate alınarak belirlenir.
+Bankacılık
+hesaplarından kaynaklanan faiz oranı riski yönetimi uygulamalarına ilişkin
+genel esaslar
+MADDE 58 – (1)
+Bankalar, bankacılık hesaplarından kaynaklanan faiz oranı riskinin
+ölçülmesini ve yönetimini sağlayan yazılı politika ve uygulama usullerine
+sahip olmalıdır.
+(2) Bankacılık hesaplarından kaynaklanan faiz oranı
+riski; yeniden fiyatlama riski, verim eğrisi riski, baz
+riski ve opsiyonalite riskini içerir. Bankacılık
+hesaplarından kaynaklanan faiz oranı riski ölçüm süreci, bankacılık hesaplarında
+yer alan bankanın tüm faiz oranı pozisyonlarını içerecek ve ilgili tüm
+yeniden fiyatlama ve vade verilerini dikkate alacak şekilde oluşturulur ve
+yürütülür. Bu amaçla, araçlar ve portföylerle
+ilişkili hesapların güncel bakiyeleri ve sözleşme faiz oranları, anapara
+ödemeleri, faiz oranı belirleme tarihleri, vade, yeniden fiyatlamada
+kullanılan oranlara ilişkin endeksler ve değişken faizli olanlar için
+sözleşmeyle belirlenen faiz oranı tavan veya taban fiyatları verileri
+kullanılır. Bankacılık hesaplarından kaynaklanan faiz oranı riskine ilişkin
+olarak tesis edilen değerlendirme sistemi yazılı hale getirilmiş
+varsayımlara ve tekniklere dayandırılır.
+(3) Bankaların, bankacılık hesaplarından kaynaklanan
+faiz oranı riskiyle orantılı düzeyde sermaye bulundurmaları esastır. Bu
+kapsamda bankalar, faiz oranı değişimlerinin bankanın ekonomik değeri ve
+gelirleri üzerindeki muhtemel etkilerini düzenli olarak ölçmekle
+yükümlüdür. Bankalarca bankacılık hesaplarından kaynaklanan faiz oranı
+riskiyle orantılı düzeyde sermaye ayrılmadığının tespiti halinde, Kurum
+riskin azaltılması veya ilave sermaye bulundurulması gibi önlemler almaya
+yetkilidir.
+(4) Bankalarca, bankacılık hesaplarından kaynaklanan
+faiz oranı riskinin tüm unsurlarını içeren, içsel varsayımlarla desteklenen
+yöntemlerin kullanılması ve bu ölçümlerin düzenli olarak raporlanarak üst
+düzey yönetimle paylaşılması zorunludur.
+(5) Bankalar, risk yapıları ve faaliyet alanlarını
+dikkate alarak, birinci fıkrada belirtilen politikalar ile uyumlu olarak
+belirleyecekleri banka içi uygulamalarda asgari olarak;
+a) Banka varlık ve yükümlülüklerini değerleme için
+kullanılan yöntemlerin bankacılık hesaplarından kaynaklanan faiz oranı
+riskinin ölçümüne olası etkilerinin değerlendirilmesi,
+b) Banka içi hesaplamalarda kullanılacak değişik
+şokların büyüklüğü ve hesaplama yöntemlerinin belirlenmesi,
+c) Faiz oranı şoku uygulamalarında kullanılacak dinamik
+ve/veya statik yöntemlerin tespiti,
+ç) Değişik para birimleri bazında oluşan pozisyonların
+toplulaştırılması,
+d) Verim eğrisi riski, baz risk
+ve opsiyonalite riskinin ele alınması,
+e) Mevduat hesaplarının dikkate alınmasında kullanılan,
+bireysel, ticari ve kamu mevduatı gibi her bir mevduat türü için yapılan
+varsayımların belirlenmesi,
+f) Konveksitenin ve opsiyonlar gibi getiri yapısı doğrusal olmayan ürünlerin
+hesaplamalara etkisi ile bunların hesaplamalarda dikkate alınması
+hususlarına yer
+verirler.
+Karşı taraf
+kredi riski yönetimi uygulamalarına ilişkin genel esaslar
+MADDE 59 – (1)
+Bankalar, tezgah üstü türev işlemler gibi çift
+taraflı işlemlerden kaynaklanan karşı taraf kredi risklerinin sınırlandırılması
+için, risk kapasitelerini de göz önünde bulundurarak gerekli tedbirleri
+almak zorundadır. Bankalar; basiretli ve bütünlük içinde uygulanan karşı
+taraf kredi riski yönetim politikalarına, işleyişlerine ve sistemlerine
+sahip olmalıdır. Karşı taraf kredi riski yönetimi; karşı taraf kredi
+riskinin tanımlanmasını, ölçümünü, yönetimini, onayını ve raporlamasını
+içerir.
+(2) Risk yönetimi politikaları; karşı taraf kredi
+riskinin bileşenlerini dikkate alır.
+(3) Karşı taraf kredi riskine maruz tutar için hazırlanan
+günlük raporlar yeterli kıdem ve yetkiye sahip bir yönetim düzeyinde gözden
+geçirilir.
+(4) Bankalar karşı taraf kredi riski yönetim
+sistemlerini belirlenmiş olan kredi ve işlem sınırları ile uyumlu şekilde
+tesis ederler.
+(5) Karşı taraf kredi riskinin ölçülmesi, tahsis edilen
+kredi limitlerinin günlük olarak ve güniçi ne
+ölçüde kullanıldığını içermek zorundadır.
+(6) Karşı taraf kredi riski yönetim sisteminin
+işleyişiyle ilgili politika, kontrol ve süreçlere uyum iç denetim sistemi
+kapsamında düzenli olarak gözden geçirilir.
+(7) Bir karşı tarafla yapılan bütün işlemler, bu karşı
+tarafın kendi limitleri içerisinde dikkate alınır. Limitlerin
+belirlenmesinde ikame maliyeti riski ile takas riski dikkate alınır. Bu
+pozisyonlardan sorumlu banka personeli, uygulanan limitler ve mevcut
+kullanım düzeyleri konusunda zamanında bilgilendirilir.
+(8) Limitlerin aşıldığı durumlar sorumlu yöneticilere
+günlük olarak raporlanır ve bu aşımlara yönelik alınan tüm önlemlerle kayıt
+altında tutulur.
+(9) Sektör kaynaklı riskler, hacim ve tür bazında
+risklerin dağılımı ve uygun durumlarda ülke riskleri ile yoğunlaşma
+riskleri gibi diğer önemli riskler de dikkate alınır ve izlenir.
+(10) İlgili üst düzey yönetim, karşı taraf kredi riski
+kontrol sürecine aktif olarak katılır, karşı taraf kredi riski için model
+kullanılan bankalarda modelin kısıtları, varsayımları ve bu durumların
+modelin sonucunun güvenilirliği üzerinde oluşturabileceği etkiler hakkında
+bilgi sahibi olur.
+Yoğunlaşma
+riski yönetimi uygulamalarına ilişkin genel esaslar
+MADDE 60 – (1)
+Yoğunlaşma riski; bireysel olarak kredilerin portföy
+içinde, belirli sektörler bazında ve belirli bir coğrafi alandaki kredi
+yoğunlaşmasından kaynaklanan risk; mevduat ve diğer finansman
+sağlayanlardan kaynaklanan yoğunlaşma riski; belirli iş süreçleri veya
+teknoloji sistemlerinden kaynaklanan operasyonel
+kayıplara ilişkin operasyonel yoğunlaşma riski,
+genel piyasa riski, hisse senedi riski ve kur riski gibi risklerden
+kaynaklanan piyasa yoğunlaşma risklerini içerir.
+(2) Bankalar, yoğunlaşma riskinin tanımlanması,
+ölçülmesi, izlenmesi ve kontrol edilmesi için yönetim kurulu tarafından
+onaylanmış etkili, açık, şeffaf politika, sistem ve kontrolleri tesis etmek
+zorundadır.
+(3) Bankalar, yoğunlaşma riskinin tanımlanması,
+yönetilmesi, denetlenmesi ve raporlanmasına ilişkin olarak faaliyetlerin
+ölçeği ve karmaşıklığı ile uyumlu süreçleri oluşturmakla yükümlüdür.
+(4) Yoğunlaşma riski yönetimine ilişkin politikalar, prosedürler ve bunlara ilişkin raporlamalar, risk
+kapasitesi ve ekonomik gelişmelere uygun bir şekilde gözden geçirilir.
+(5) Yoğunlaşma riskine ilişkin yönetim çerçevesi, açık
+ve yazılı bir şekilde oluşturulur ve banka için uygun bir yoğunlaşma riski
+tanımını, bu yoğunlaşmaların ve bunlara ilişkin limitlerin nasıl
+hesaplanacağını içerir. Limitler, bankanın özkaynaklarına,
+toplam aktiflerine ya da yeterli ölçütlerin bulunması halinde tüm risk
+düzeyine dayalı olarak belirlenir.
+(6) Yoğunlaşma riskine yönelik politikalar, bankanın
+maruz kalabileceği aşağıda belirtilen kredi riski yoğunlaşmalarını da
+kapsar:
+a) Bir gerçek veya tüzel kişiye veya risk grubuna
+kullandırılan büyük krediler.
+b) Aynı sektörde veya coğrafi bölgede bulunan
+müşterilere yönelik kredi tutarları.
+c) Bankanın kredi riski azaltım
+faaliyetlerinden kaynaklanan tek bir teminat türüne veya tek bir tarafın
+sağladığı kredi korumasına yönelik risk tutarları gibi dolaylı risk
+yoğunlaşmaları.
+Menkul
+kıymetleştirme riski yönetimi uygulamalarına ilişkin genel esaslar
+MADDE 61 – (1) Menkul
+kıymetleştirme işleminin ekonomik niteliği risk değerlendirme ve yönetim
+kararlarına tam olarak yansıtılması ve bu kapsamda, bankaların kurucu,
+yatırımcı veya yüklenici olduğu menkul kıymetleştirme işlemlerinden doğan
+itibar riski dahil tüm risklere yönelik politika
+ve yöntemler oluşturulması zorunludur.
+(2) Erken itfa opsiyonu içeren
+rotatif menkul kıymetleştirme işlemlerinde menkul kıymetleştirme kurucusu
+bankalar, vadede ve erken itfa durumunda yükümlüklerinin karşılanmasına
+yönelik likidite planları oluşturulmakla yükümlüdür.
+(3) Menkul kıymetleştirme kurucusu bankanın sermaye
+yükümlülüğünde indirim imkânını elde edebilmesi için menkul kıymetleştirme
+ile gerçekleştirilen risk transferinin Kurum tarafından önemli olarak kâbul edilmesi zorunludur.
+(4) Bankalar, portföy
+yönetimindeki veya iş stratejilerindeki değişimlerin ilave gelir üzerindeki
+etkileri ile erken itfanın gerçekleşmesi halinde oluşabilecek etkilerini de
+göz önünde bulundurur.
+Ülke ve
+transfer riski yönetim uygulamalarına ilişkin genel esaslar
+MADDE 62 – (1)
+Bankalarca, uluslararası kredilendirme ve yatırım faaliyetlerinden dolayı
+maruz kalınabilecek ülke ve transfer risklerindeki gelişmelerin
+değerlendirilmesi, izlenmesi ve gerekli tedbirlerin alınması zorunludur. Bu
+riskler her bir ülke bazında tanımlanır ve izlenir.
+(2) Bankalar ülke riski kapsamında, transfer riski, kur
+riski, yayılma riski, makroekonomik risk, hazine riski ile dolaylı ülke
+riskini de dikkate alır.
+(3) Bankaların ülke riski yönetimi için belirlenmiş
+uygun politika ve süreçlere ve ülke riskiyle ilintili yoğunlaşma riskinin
+yönetimi amacıyla uygun kontrollere sahip olması gereklidir. Bu gereklilik
+sınır ötesi faaliyetlerin büyüklüğüne ve karmaşıklığına uygun olarak yerine
+getirilir.
+(4) Bankaların ülke riski yönetimi için yönetim kurulu
+veya kredi komitesi tarafından onaylanmış ve açıkça tanımlanmış, yazılı
+ülke riski politikasına sahip olmaları gereklidir. Ülke riski politikası,
+genel kredi politikasının veya büyük krediler ve yoğunlaşma riski
+politikasının bir eki olarak düzenlenebilir. Bu politika en azından yıllık bazda yönetim kurulu tarafından gözden geçirilir. Ülke
+riski politikasının uygulanmasını takip etmekten üst yönetim sorumludur.
+(5) Bankaların ülke riski politikası asgari olarak
+aşağıdaki hususları içerir:
+a) Sınır ötesi borçları ve istisnaları da kapsayacak biçimde,
+ülke riski yönetim sorumluluğu ve hesap verebilirlik için açık hiyerarşik
+yetki düzeni,
+b) Bankanın maruz kalabileceği risk türleri ve bunların
+yönetimi için uygulanacak süreçler,
+c) Ülke riski için genel ve özel limitler,
+ç) Belirli ülkelere yönelik risk analizinde kullanılacak
+standartlar ve kriterler,
+d) Varsa, içsel ülke derecelendirme sistemi veya ülke
+riski unsurlarının bankanın mevcut kredi sınıflandırma sisteminde nasıl
+dikkate alındığı,
+e) Ülke riskinin ölçümünde kullanılan yöntem,
+f) Ülke riski için karşılık ayırma politikası,
+g) Ülke riski azaltımında
+kullanılmasına izin verilen teminat, garanti, finansal araçlar ve finansal
+koruma stratejilerinin kabul edilme kriterleri ve
+teminatın yüksek koruma sağlayabilmesi için yerine getirilmesi gereken
+şartlar,
+ğ) Kredi verilen her ülkede, yerel mevzuatla uyumlu
+olacak şekilde kredi dokümantasyonunda uygulanacak asgari standart
+koşullar,
+h) Teminatın dokümantasyonunun ve yüksek koruma sağlar
+hale getirildiğinin teyidi için alınan hukuk danışmanlığı hizmetine ilişkin
+bilgiler,
+ı) Bir ülkedeki koşulların bozulması durumunda
+uygulanacak acil durum planlarına ve pozisyon kapatma stratejilerine
+ilişkin süreçler,
+i) Ülke riskine ilişkin hazırlanacak raporlar.
+(6) Bankalar, belirlenen genel ve özel limitlere uyumun
+sağlanmasına yardımcı olan ve ülke bazında bankanın maruz kaldığı riskleri
+doğru bir biçimde takip eden ve raporlayan bilgi yönetimi, iç kontrol ve
+risk yönetimi sistemlerini tesis etmekle yükümlüdür.
+Artık risk
+yönetimi uygulamalarına ilişkin genel esaslar
+MADDE 63 – (1) Artık
+risklerin yazılı politikalar ve yöntemler çerçevesinde değerlendirilmesi ve
+kontrol edilmesi zorunludur.
+(2) Bankalarca düzenli olarak bu politika ve prosedürlerin uygunluğu, etkinliği ve kullanımı gözden
+geçirilir.
+(3) Bankalar, kredi riski azaltım
+politika ve prosedürlerinde, kredi riski azaltımı aracının değerinin tamamının dikkate
+alınmasının uygun olup olmadığını göz önünde bulundurmak ve kredi riski azaltım araçlarının sağladığı korumanın, sermaye
+avantajı düzeyi ile uyumlu olduğunu göstermek zorundadır.
+Diğer
+riskler
+MADDE 64 – (1)
+Bankalar, itibar riski ve stratejik risk ile bu bölümde sayılanların
+dışında kalan diğer önemli risklerin tüm unsurlarıyla yönetimi için gerekli
+teknikler ile politika ve süreçlere sahip olmalıdır.
+DÖRDÜNCÜ
+BÖLÜM
+Risklerin
+Raporlanması
+Risk
+raporlaması
+MADDE 65 – (1)
+Bankalar, risk yönetim sistemi kapsamında, maruz kalınan risklerin etkin
+olarak analiz edilip değerlendirilmesini sağlayacak bir raporlama sistemi
+oluşturmak zorundadır.
+(2) Bankalar, risklerin yönetimi, stratejilerin
+belirlenmesi ve kararların alınmasında kullanılmak üzere likidite, piyasa,
+kredi ve operasyonel riskler ile diğer risklere
+ilişkin kapsamlı raporlamalar sağlayan sistemler tesis ederler.
+(3) Raporlar, risk tutarlarını ve gelişimini, risklerin
+sermaye düzeyine etkisini ve maruz kalınan risklere yönelik ekonomik
+sermaye bulundurulup bulundurulmadığını, sermaye yeterliliğinin bankanın
+hedeflerine uyumluluğunu, muhtemel sermaye gereksinimlerini, stratejik
+planlarda bu gereksinimlere bağlı olarak yapılabilecek değişiklikleri
+içerecek şekilde oluşturulur.
+(4) Raporların, yönetim kurulu ve üst yönetimle
+birlikte, riskin oluşmasından ve izlenmesinden sorumlu birimlere düzenli
+aralıklarla sunulması sağlanır.
+Piyasa
+riski raporlarının içereceği bilgiler
+MADDE 66 – (1) Piyasa
+riski raporları, risk ölçümünde kullanılan yönteme göre, asgari olarak
+aşağıdaki bilgileri içerir;
+a) Risk gelişimi ve piyasa riskine maruz pozisyonların
+kârlılık durumu hakkında genel açıklamalar,
+b) Riske maruz değerin, ilgili pozisyonun bugünkü
+değerine veya nominal değerine oranı gibi risk
+iştahı göstergelerinin gelişimi,
+c) Limitler ve kullanımları ile limitlerin aşıldığı
+durumlar,
+ç) Piyasa riski değerlendirme sürecinin temelini
+oluşturan varsayımlar ve parametreler ile bunlardaki değişiklikler,
+d) Riske maruz değer hesaplamaları,
+e) İçsel sermaye gereksinimi ve sermaye yükümlülükleri,
+f) Stres testi ve geriye dönük test uygulamaları ve
+sonuçları.
+Kredi riski
+raporlarının içereceği bilgiler
+MADDE 67 – (1) Kredi
+riski raporları, risk ölçümünde kullanılan yönteme göre, asgari olarak
+aşağıdaki bilgileri içerir:
+a) Sektör, ülke, risk sınıfı, büyüklük veya teminat
+kategorisine göre, kredi portföyünün performansı,
+b) Tahsis edilen limitler ve kullanımları ile limitlerin
+aşıldığı durumlar,
+c) Büyük riskler ve büyük tutardaki sorunlu kredilere
+ilişkin değerlendirmeler,
+ç) Tahsili gecikmiş alacaklar ile donuk alacaklara
+ilişkin bilgiler,
+d) Mümkün olduğu durumlarda, ülke risklerine ilişkin
+ayrı bir analiz,
+e) Sebepleri ile birlikte, limitlerin önemli derecelerde
+aşıldığı örnek vaka,
+f) Riske ayarlı getiri hesaplamaları,
+g) Derecelendirilmiş portföy
+tanımları (tutar, borçlu sayısı, derece bazında toplam portföyün ne kadarlık kısmının kapsama alındığı, sektörlerdeki, alt
+portföylerdeki ve iş kollarındaki geçişmeler),
+ğ) Toplam portföyün dereceler
+bazında dağılımı,
+h) Stres testi sonuçları,
+ı) Sermaye yükümlülüğü ve içsel sermaye gereksinimi
+hesaplamaları,
+i) Yeni ürün analizi,
+j) Risklere ilişkin ayrılan karşılıkların gelişimi,
+k) Olağan kredi politika ve prosedürlerden
+sapma gösteren kredilendirme kararları,
+l) Kredi riski azaltım
+teknikleri ve risk transfer stratejileri.
+Operasyonel risk raporlarının içereceği
+bilgiler
+MADDE 68 – (1) Operasyonel risk raporları, risk ölçümünde kullanılan
+yönteme göre, asgari olarak aşağıdaki bilgileri içerir:
+a) Kayıp türleri, nedenleri, kapsamı, alınabilecek
+önlemler,
+b) Yasal ve içsel sermaye hesaplamaları,
+c) Yeni ürünlerden kaynaklanan operasyonel
+riske ilişkin risk yönetim politikaları, prosedürleri
+ve uygulamaları,
+ç) Risk azaltım teknikleri ve
+risk transfer stratejileri,
+d) Önemli operasyonel risk
+olayları ve tetikleyicileri, iş kolları arasındaki operasyonel
+risk tutarlarının dağılımı, yönü ve geçişmeleri,
+e) Zayıf alanların tanımlanması,
+f) Operasyonel risk
+yönetimindeki nitel gelişmeler, hesaplama süreçleri ve sistemleri.
+Senaryo
+analizi ve stres testi
+MADDE 69 – (1)
+Bankaların, risk faktöründeki değişimin gelir ve giderlerine etkisini
+ölçebilecek kapasiteye sahip olması ve beklenmeyen piyasa koşullarının
+temel faaliyet konularına etkisini değerlendirecek şekilde düzenli olarak
+stres testi ve senaryo analizleri uygulayacak bir sistem tesis etmesi
+zorunludur.
+(2) Stres testleri, piyasa koşulları ve ekonomik konjonktür nedeniyle uğranabilecek zararları ve bu
+zararları karşılayacak ekonomik sermayeyi tahmin etmeye yönelik, bankayı
+olumsuz bir şekilde etkileyebilecek muhtemel olayları veya piyasa
+koşullarındaki muhtemel değişmeleri tanımlayan, tek faktörlü duyarlılık
+analizleri ile çok faktörlü senaryo analizlerinden oluşur. Stres testleri,
+piyasada oluşan fiyatların değişimini, verim eğrisindeki kaymalar ile bu
+eğrinin eğim ve şeklinde ortaya çıkabilecek ani değişiklikleri, riskin
+ölçümünde kullanılan varsayımların geçerliliğini yitirdiği koşulları,
+geçmiş dönemde yaşanan aşırı hareketleri, geçmiş ve gelecekte oluşması
+muhtemel görülen kriz etkilerini yansıtır ve yapılacak analizler tüm
+finansal araçlar ve portföyleri içerir.
+(3) Bankalar, mali durumlarını olumsuz bir şekilde
+etkileyebilecek piyasa koşullarındaki potansiyel değişmelerin belirlenmesi
+ve bunlar için gerekli tedbirlerin alınabilmesi amacıyla stres testlerinin
+sonuçlarını değerlendirmeye tabi tutarlar. Stres testi sonuçları, yönetim
+kurulu ve/veya üst yönetim tarafından değerlendirilir ve bankanın politika
+ve limitlerine yansıtılır.
+(4) Sermaye yeterliliğinin hesaplanmasında içsel model
+kullanım izni olan bankalar, model kullanım iznine ilişkin esasları da
+dikkate alarak sıklıkla uygulanan kapsamlı bir stres testi programı oluştururlar.
+(5) Bankalar düzenli aralıklarla, stres testlerinin
+yeterliliğini ve stres testlerinin oluşturulması aşamasında yapılan
+varsayımların doğruluğunu değerlendirir.
+(6) Bankalar günlük risk ölçüm modeli çıktılarına
+dayanan karşı taraf kredi riski analizine ek olarak ayrıntılı bir stres
+testi programı kullanmak ve stres testlerini bankanın büyüklüğünü,
+işlemlerinin karmaşıklığını dikkate alarak asgari ayda bir kez
+tekrarlamakla yükümlüdür.
+(7) Stres testlerinin, getiri profili
+doğrusal ve doğrusal olmayan ürünler üzerindeki etkisi dikkate alınır.
+Stres testi programında büyük kayıplara yol açabilecek durumlar
+değerlendirmeye alınır. Pozisyonlar arasındaki korelasyon
+yapısında oluşabilecek değişiklikler büyük kayıplara yol açabilecek
+durumlar kapsamında değerlendirilir.
+(8) Bankalarca finansal teminatların değerini olumsuz
+yönde etkileyebilecek durumlar belirlenir, stres testi sonuçlarının
+teminatlar için beklenenden daha düşük bir değer göstermesi halinde
+uygulanmakta olan limitlerde ayarlamalar yapılır.
+(9) Bankalar, piyasa ve fonlama
+likiditesi dikkate alınarak oluşturulacak senaryolar ile nakit akışı projeksiyonları yapar ve bu projeksiyonları oluşturacağı
+acil eylem planlarında değerlendirmeye alır.
+(10) Bankalarca, stres testinde oluşturulacak yöntemlerde
+kredi riski, yoğunlaşma riski, alım satım portföyüne
+ilişkin faiz oranı riski ve bankacılık hesaplarından kaynaklanan faiz oranı
+riski gibi maruz kalınan başlıca riskler ile önemli olduğu düşünülen ve
+bağımsız olarak tanımlanan risk faktörleri için duyarlılık analizi yapılır.
+(11) Bankalar, risk iştahları, risk kapasitesi, risk
+toleransı ve stres testi sonuçlarını değerlendirerek gerekli görülen
+alanlarda önlemler alır. Bankalarca gerçekleştirilen stres testleri
+sonuçları Kurumca gözden geçirilir. Kurum, stres testleri sonucunda sermaye
+ihtiyacı ortaya çıkan bankalardan risk azaltımına
+gitmesini ve/veya ilave sermaye/karşılık bulundurmasını isteyebilir.
+BEŞİNCİ
+KISIM
+Çeşitli ve
+Son Hükümler
+Bildirim
+yükümlülüğü
+MADDE 70 – (1)
+Bankalar, iç sistemler sorumlusu üye ya da komite üyeleri ve denetim
+komitesi üyeleri ile bu sistemler kapsamındaki birimlerin üst düzey
+yöneticilerinin görevlendirilmelerini ve görevden ayrılmalarını, bu
+konudaki kararların alınmasını izleyen yedi iş günü içinde Kuruma bildirmek
+zorundadır.
+(2) Bankalar, denetim komitesinin, iç sistemler
+sorumlusunun görev, yetki ve sorumlulukları ile iç denetim birimi, risk
+yönetimi birimi ve iç kontrol biriminin teşkilat yapısına, görev yetki ve
+sorumluluklarına ilişkin iç düzenlemelerini bu Yönetmeliğin yayımı
+tarihinden itibaren üç ay içerisinde Kuruma raporlarlar. Raporlama konusu
+hususlardaki değişiklikler, değişikliği izleyen on gün içinde Kuruma
+bildirilir.
+(3) Bankalar, onaylanmış olan risk yönetimi politika ve
+uygulama usullerini bu Yönetmeliğin yayımı tarihinden itibaren üç ay
+içerisinde Kuruma raporlarlar. Bu politika ve uygulama usullerindeki
+değişiklikler, değişikliği izleyen on gün içinde Kuruma bildirir.
+(4) 27 nci madde uyarınca
+hazırlanan iç denetim planları ile bu planda kullanılan ve 26 ncı madde uyarınca yapılan risk değerlendirmelerinin,
+iç denetim planlarının onaylanmasını izleyen on gün içinde Kuruma
+gönderilmesi zorunludur.
+(5) Bankalarca, 31 inci maddenin dördüncü fıkrası
+uyarınca yönetim kuruluna sunulan iç denetim birimi raporlarının, on gün
+içinde Kuruma gönderilmesi gereklidir.
+(6) Bankalarca gerçekleştirilen stres testleri
+sonuçları, gerçekleştirildikleri tarihi izleyen 30 gün içerisinde Kuruma
+gönderilir. Bu süre, sermaye ihtiyacı bulunduğunu gösteren stres testi
+sonuçları bakımından beş işgünüdür.
+Türkçe
+yapılacak uygulamalar
+MADDE 71 – (1)
+Bankalar, bu Yönetmelik çerçevesinde yapacakları;
+a) İç sistemler kapsamındaki birim ve bu birim
+personelinin üst yönetime, üst düzey yönetimin üst yönetime ve denetim
+komitesinin yönetim kuruluna yapacağı raporlamalar ile operasyonel
+faaliyetlere ilişkin kontrol faaliyetleri kapsamında üst yönetime yapılacak
+raporlar dahil her türlü raporlamalarını,
+b) Her ne ad altında olursa olsun tesis edeceği
+strateji, politika, uygulama usulü gibi her türlü iç kurallarını,
+c) İç yazışmalarını
+Türkçe tutmak zorundadır.
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 72 – (1) 1/11/2006 tarihli ve 26333 sayılı Resmî Gazete’de
+yayımlanan Bankaların İç Sistemleri Hakkında Yönetmelik yürürlükten
+kaldırılmıştır.
+(2) Diğer düzenlemelerde, bu Yönetmelik ile yürürlükten
+kaldırılan 1 inci fıkrada belirtilen düzenlemeye yapılan atıflar bu
+Yönetmeliğe yapılmış sayılır.
+Yürürlük
+MADDE 73 – (1) Bu
+Yönetmelik 1/7/2012 tarihinde yürürlüğe girer.
+Yürütme
+MADDE 74 – (1) Bu Yönetmelik
+hükümlerini Bankacılık Düzenleme ve Denetleme Kurumu Başkanı yürütür.
+Eki için tıklayınız.
