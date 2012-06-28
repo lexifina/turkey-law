@@ -1,0 +1,5 @@
+Etiketi uygun olmayan bitki koruma ürünlerine yapılacak işlemler
+MADDE 35 – (1) (Değişik:RG-28/6/2012-28337) Bir bitki koruma ürününün Bakanlıkça onaylı tavsiyeleri dışında farklı bir tavsiye içeren etiket veya ambalajla satışa sunulması halinde ruhsatı iptal edilir.
+(2) (Değişik:RG-27/6/2012-28336) Bitki Koruma Ürünlerinin Sınıflandırılması, Ambalajlanması ve Etiketlenmesi Hakkında Yönetmeliğe uygun olarak düzenlenmesi gereken etiketinden farklı olarak satışa sunulan bitki koruma ürünlerinin satışları durdurulur. Piyasada bulunan hatalı etiketler firmasınca düzeltilinceye kadar satışına müsaade edilmez.
+(3) (Değişik:RG-27/6/2012-28336) Bir bitki koruma ürününün tanıtılması amacı ile yapılan ve Bitki Koruma Ürünlerinin Sınıflandırılması, Ambalajlanması ve Etiketlenmesi Hakkında Yönetmeliğe uygun olarak düzenlenmesi gereken etiketinden farklı bilgileri taşıyan ve yanlış yorum ve uygulamalara sebep olabilecek sözlü, yazılı veya görsel yayınlar yapılamaz.
+(4) Bitki koruma ürünü onayı olmadığı halde, etiketlerinde veya reklam yayınlarında bitki koruma ürünü gibi tavsiye edilen ürünlerin piyasada satışına izin verilmez.

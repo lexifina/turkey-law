@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.14987",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİTKİ KORUMA ÜRÜNLERİ KONTROL YÖNETMELİĞİ",
+  "number": "14987",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2011/14987",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14987&MevzuatTertip=5",
+  "source_sha256": "da268b64c5e165ce2c7c01a123260c2edb2e1a5508caff7d1ea40f3066fc65d8",
+  "source_bytes": 65897,
+  "published": "2011-05-20",
+  "gazette": "27939",
+  "in_force": "2012-06-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/6/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-06-28",
+      "RG-28/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-06-28",
+      "28/6/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-06-27",
+      "RG-27/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3409,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.14987-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

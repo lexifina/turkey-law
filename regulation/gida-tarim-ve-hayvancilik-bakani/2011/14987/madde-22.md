@@ -1,0 +1,3 @@
+Analizlerde tespit edilecek özellikler
+MADDE 22 – (1) Bitki koruma ürünlerinin kalitesinin kontrolü amacıyla yapılan fiziksel ve kimyasal analizlerde, Bakanlıkça uygun görülen spesifikasyonunda ve bu Yönetmeliğin ekinde yer alan EK-4 Bitki Koruma Ürünlerinin Kalite Kontrolü Amacıyla Yapılacak Fiziksel ve Kimyasal Analizlerinde Tespit Edilecek Özellikler’de belirtilen hususlar tespit edilir.
+(2) Bu Yönetmeliğin ekinde yer alan EK-4 Bitki Koruma Ürünlerinin Kalite Kontrolü Amacıyla Yapılacak Fiziksel ve Kimyasal Analizlerinde Tespit Edilecek Özellikler’de belirtilmeyen formülasyonlar için bitki koruma ürününün ruhsatına esas spesifikasyonuna göre analiz yapılır.

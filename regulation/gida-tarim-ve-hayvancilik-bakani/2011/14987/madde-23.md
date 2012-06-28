@@ -1,0 +1,2 @@
+Analiz süresi
+MADDE 23 – (1) Bitki koruma ürünlerinin kalitesinin kontrolü amacıyla yapılacak analizlerin süresi; şikayet kontrolünde, bitki koruma ürünü numunesinin analizi yapacak kuruluşa ulaşmasından itibaren bitki koruma ürünü numunesinin son kullanım tarihi gözönünde bulundurulmak kaydıyla en fazla onbeş gün; piyasa kontrolünde ise numunenin kuruluşa ulaştırılmasından sonra en fazla bir aydır.

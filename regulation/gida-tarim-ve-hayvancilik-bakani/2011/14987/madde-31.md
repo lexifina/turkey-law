@@ -1,0 +1,2 @@
+Fiziksel özelliklerdeki sapmaların değerlendirilmesi
+MADDE 31 – (1) Kalite kontrolü amacıyla analiz yapılan bitki koruma ürünlerinin fiziksel özelliklerindeki sapmalar bu Yönetmeliğin ekinde yer alan EK-7 Bitki Koruma Ürünlerinin Kalite Kontrol Amacıyla Yapılan Analizleri Sonucunda Tespit Edilen Fiziksel Özelliklerindeki Sapmaların Değerlendirmesinde Dikkate Alınacak Kriter Tablosu’nda belirtilen kriterlere göre değerlendirilir.
