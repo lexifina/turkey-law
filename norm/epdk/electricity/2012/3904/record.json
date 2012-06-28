@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3904",
+  "decision_date": "2012-06-28",
+  "title": "EPDK Kurul Kararı 3904",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0wtD6GXIA34=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0wtD6GXIA34="
+  ],
+  "source_sha256": "f32cd43292016b87b2cc51091a0a5926554a2834d6b1634f476764bca04e48c3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-06-28",
+  "law_text_complete": false
+}
