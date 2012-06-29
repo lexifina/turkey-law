@@ -227,7 +227,7 @@ B) ÖZEL BÜTÇELİ DİĞER İDARELER (1)(3)(4)(5)(6)(7)(8)(9)
 32) GAP Bölge Kalkınma İdaresi
 33) Özelleştirme İdaresi Başkanlığı
 34) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu
-35) (Ek: 28/9/2006-5548/36 md.; İptal: Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile. )(2)
+35) (Ek: 28/9/2006-5548/36 md.; İptal: Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile.; Yeniden düzenleme: 14/6/2012-6328/35 md.) Kamu Denetçiliği Kurumu(2)
 36) (Ek: 21/9/2006-5544/31 md.) Meslekî Yeterlilik Kurumu (2)
 37 ) (Ek: 24/3/2010-5978/30 md.) Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
 38) (Ek: 28/12/2010-6093/14 md.) Türkiye Yazma Eserler Kurumu Başkanlığı
