@@ -1,0 +1,13 @@
+Para Politikası Kurulu
+Madde 22/A – (Ek: 25/4/2001-4651/4 md.) Para Politikası Kurulu, Başkan (Guvernör) ın başkanlığı altında, Başkan (Guvernör) Yardımcıları, Banka Melisince üyeleri arasından seçilecek bir üye ve Başkan (Guvernör) ın önerisi üzerine müşterek kararla atanacak bir üyeden oluşur. Hazine Müsteşarı veya belirleyeceği Müsteşar Yardımcısı toplantılara oy hakkı olmaksızın katılabilir. Başkanlık (Guvernörlük), Başkan (Guvernör) Yardımcılığı ve Banka Meclisi üyeliği görevi sona erenlerin Para Politikası Kurulu üyeliği de sona erer.
+Müşterek kararla atanacak üyenin para politikası konusunda çalışmalarının bulunması ve ekonomi, işletme, bankacılık ve finans alanlarından birinde akademik unvana sahip, görevi ile ilgili alanda en az on yıl çalışmış, yeterli bilgi ve tecrübeye sahip olması gerekir. Bu üyenin görev süresi beş yıldır.
+19 uncu maddedeki yasaklar atanan üye için de geçerlidir. Ancak, üniversitelerde alınacak görevler bu hükmün dışındadır. Atanan üye, Banka Meclisi üyeleri ile aynı mali ve sosyal haklara sahiptir.
+21 inci maddenin ikinci ve üçüncü fıkraları, Para Politikası Kurulu toplantıları için de uygulanır.
+Para Politikası Kurulu:
+a)Fiyat istikrarını sağlamak amacıyla para politikası ilke ve stratejilerinin belirlenmesi,
+b) Para politikası stratejisi çerçevesinde Hükümetle birlikte enflasyon hedefinin belirlenmesi,
+c) Para politikası hedefleri ve uygulamaları konusunda belirli dönemler itibarıyla raporlar hazırlayarak Hükümetin ve belirleyeceği esaslar doğrultusunda kamuoyunun bilgilendirmesi,
+d) Hükümetle birlikte Türk Lirasının iç ve dış değerini korumak için gerekli tedbirlerin alınması ve yabancı paralar ile altın karşısındaki muadeletini tespit etmeye yönelik kur rejiminin belirlenmesi,
+İle görevli ve yetkilidir.
+Para Politikası Kurulu, ilan edeceği hususları ve bunların ilan şeklini belirler. Para Politikası Kurulunca Resmi Gazete’de ilanı istenilecek hususlar gecikmeksizin ilan edilir.
+Para Politikası Kurulu kararları, Başkan (Guvernör) tarafından yürütülür ve Banka Meclisinin bilgisine sunulur.
