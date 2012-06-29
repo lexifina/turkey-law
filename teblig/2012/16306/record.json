@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.16306",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 417)",
+  "number": "16306",
+  "path": "teblig/2012/16306",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16306&MevzuatTertip=5",
+  "source_sha256": "bc2b3bd7a247a666efa89b8d1ab20564f5fae029bc8f040ff7b9e61afde8e09e",
+  "source_bytes": 13251,
+  "published": "2012-06-29",
+  "gazette": "28338",
+  "in_force": "2012-06-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.06.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 634,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
