@@ -1,0 +1,10 @@
+Kimlik ve Adres Paylaşımı Sistemlerinin kullanılması
+MADDE 45- (1) Bakanlık, Kimlik Paylaşımı Sistemi ve Adres Paylaşımı Sistemi veri tabanlarında tutulan bilgileri bu Kanunda belirtilen esas ve usûller çerçevesinde kurumlar ile diğer kişilerin hizmetine açabilir. Yerleşim yeri adresi bilgileri ancak kurumlar ile 5411 sayılı Bankacılık Kanunu çerçevesinde faaliyette bulunan bankaların ve 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanunu çerçevesinde faaliyette bulunan sigorta ve emeklilik şirketleri ile Güvence Hesabının paylaşımına açılabilir. (1)(2)
+(2) Kimlik Paylaşımı Sistemi veri tabanındaki bilgilerin tamamı veya bir kısmı toplu halde hiçbir kuruma veya diğer kişilere verilemez. Kurumlar ve diğer kişiler kendi iş ve işlemlerine esas olmak üzere sadece kayıtlarını tuttukları kişilerin bilgilerini alabilirler.
+(3) Kurumlar aldıkları bilgileri tanımlanmış hizmetlerin yerine getirilmesi dışında başka hiçbir amaçla kullanamaz; ilgilisi veya bu Kanunun 44 üncü maddesinde belirtilenler dışında kimseye veremez. Sistemin bütün aşamalarında görev yapan yetkililer de bu kurallara uymakla yükümlüdür. Bu yükümlülük, kamu görevlilerinin görevlerinden ayrılmalarından sonra da devam eder.
+(4) Genel Müdürlükten alınan bilgilerin iş ve işlemlerde kullanılmasının hukukî sonuçları bilgiyi alan kurumun sorumluluğundadır.
+(5) Bu Kanun ile kurulacak veri tabanlarının istatistik amaçlı kullanımında 10/11/2005 tarihli ve 5429 sayılı Türkiye İstatistik Kanunu hükümleri uygulanır.
+–––––––––––––––––––––––
+(1) Bu fıkrada yer alan “kurumların” ibaresi, 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle “kurumlar ile 5411 sayılı Bankacılık Kanunu çerçevesinde faaliyette bulunan bankaların” olarak değiştirilmiş ve metne işlenmiştir
+(2) 13/6/2012 tarihli ve 6327 sayılı Kanunun 44 üncü maddesiyle, bu fıkrada yer alan “bankaların” ibaresinden sonra gelmek üzere “ve 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanunu çerçevesinde faaliyette bulunan sigorta ve emeklilik şirketleri ile Güvence Hesabının” ibaresi eklenmiş ve metne işlenmiştir.
+9746

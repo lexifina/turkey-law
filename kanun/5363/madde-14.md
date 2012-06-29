@@ -1,4 +1,5 @@
 Sigorta sözleşmeleri ve Havuza katılım
-MADDE 14 —Sigorta şirketleri, tarım üreticileri ile tarım sigortaları sözleşmelerini kendi adlarına akdeder, prim ile riskin tamamını Havuza devrederler. Sigorta sözleşmeleri, Havuz tarafından belirlenen standart poliçeler üzerinden yapılır.
-(Ek fıkra: 3/6/2007-5684/44 md.) Sigorta şirketleri, Bakanlar Kurulu kararları çerçevesinde Havuz tarafından kapsama alınan riskler, bölgeler ve ürünler için bu Kanunla oluşturulan Havuz sistemi dışında sigorta sözleşmesi akdedemez. Bu hükme aykırı davranan sigorta şirketlerinin Kurulca belirlenecek esaslar çerçevesinde Havuz sisteminden çıkarılmalarına karar verilebilir.
-Havuz, devraldığı riskleri retrosesyon yapmaya yetkilidir. Sigorta şirketleri bir sonraki yıla ilişkin retrosesyon taleplerini içinde bulunulan yılın en geç 1 Kasım tarihine kadar Şirkete bildirir. Havuz tarafından hesaplanacak tahmini hasar durumuna göre yeterli retrosesyon teminatı sağlanamadığı takdirde, kalan kısma Devlet tarafından iştirak edilir. Sigorta şirketlerinin payları toplamının yüzde yüzün üzerinde gerçekleşmesi halinde, her bir sigorta şirketinin payı, toplam oran yüzde yüze inene kadar garameten azaltılır.
+Madde 14- (Değişik: 13/6/2012-6327/36 md.)
+Bu Kanun kapsamındaki tarım sigortası teminatları münhasıran Havuz tarafından verilir. Bu teminatlar risk yönetimi açısından şartların gerekli kılması ve Kurul tarafından uygun görülmesi halinde sigorta şirketleri ile müştereken de verilebilir.
+Sigorta sözleşmeleri, Havuz tarafından belirlenen standart poliçeler üzerinden yapılır.
+Havuz tarafından hesaplanacak tahmini hasar durumuna göre uygun şartlarda yeterli koruma sağlanamadığı takdirde, kalan kısma Devlet tarafından iştirak edilir.

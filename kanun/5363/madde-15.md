@@ -1,2 +1,3 @@
 Reasürans
-MADDE 15 —Şirket, Havuz tarafından üstlenmiş olunan risklerin transferi amacıyla ulusal ve uluslararası sigorta, reasürans, sermaye ve benzeri piyasalardan sigortacılık tekniğinin gerektirdiği şekilde ve yeterli düzeyde koruma temin etmek amacıyla yerli ve yabancı şirket veya kuruluşlarla Havuz adına reasürans anlaşmaları yapabilir.
+Madde 15- (Değişik: 13/6/2012-6327/37 md.)
+Havuz, üstlenilen risklerin transferi amacıyla ulusal ve uluslararası sigortacılık piyasası, sermaye piyasası ve benzeri piyasalardan koruma temin edebilir.
