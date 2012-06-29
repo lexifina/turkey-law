@@ -1,0 +1,2 @@
+Geçici Madde 10 – Müsteşarlığın 1994 Mali Yılı harcamaları, Hazine ve Dış Ticaret Müsteşarlığı Bütçesinden karşılanır. Bu konuda düzenlemeler yapmaya Maliye Bakanlığı yetkilidir.
+Müsteşarlığın merkez teşkilatında fiilen çalışan personel Başbakanlığın yararlandığı fazla çalışma ücreti, tazminat ve benzeri tüm mali ve sosyal haklar 534 ve 535 sayılı Kanun Hükmünde Kararnamelerin iptal tarihi ile bu Kanunun yayım tarihi arasında geçen dönem içinde aynı usul ve esaslara göre ödenir.

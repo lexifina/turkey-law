@@ -1,0 +1,3 @@
+Geçici Madde 12 – (Ek : 20/6/2001 - 4684/12 md.)
+Bu maddenin yürürlük tarihinde, İhracatı Geliştirme Etüd Merkezinde çalışmakta olan personel arasından, sözleşmeli personel statüsüne geçmek istemeyen personelden, 506 sayılı Sosyal Sigortalar Kanununa bağlı olanların bu bağlılığı devam eder ve bunlar hakkında bu Kanunun ek 2 nci maddesi hükümleri uygulanmaz. Bunların mali ve sosyal haklarının belirlenmesine ilişkin mevcut hükümlerin uygulanmasına devam olunur. bu personelden emeklilik veya diğer şekilde boşalmış olan pozisyonlar, hiçbir işleme gerek kalmaksızın iptal edilmiş sayılır ve yerlerine aynı statüde yeni personel alınamaz.
+7472
