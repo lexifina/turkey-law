@@ -1,0 +1,2 @@
+İzin başvurularının değerlendirilmesi
+MADDE 7 – Bu Kanun hükümleri uyarınca Kuruma yapılan izin başvuruları, denetimin etkin bir şekilde ifa edilmesine engel olabilecek nitelikte doğrudan veya dolaylı herhangi bir ilişkinin varlığı veya izne tâbi işlem için öngörülen koşulların, niteliklerin, yeterliliklerin izin başvurusu esnasında ya da değerlendirme sürecinde sağlanamaması veya kaybedilmesi halinde Kurulca reddedilir. Red kararları ilgililere gerekçeli olarak bildirilir.
