@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 4161967,
+  "assembly": "TBMM",
+  "term": 24,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar / Plan Ve Bütçe Komisyonu Raporu",
+  "summary": "Bütçe Kanunlarında Yer Alan Bazı Hükümlerin İlgili Kanun ve Kanun Hükmünde Kararnamelere Eklenmesine Dair Kanun Tasarısına İlişkin (1/648) (S. Sayısı: 312)",
+  "title": "Bütçe Kanunlarında Yer Alan Bazı Hükümlerin İlgili Kanun ve Kanun Hükmünde Kararnamelere Eklenmesine Dair Kanun Tasarısına İlişkin (1/648) (S. Sayısı: 312)",
+  "first_sitting_date": "2012-06-29",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 25,
+      "sitting": 127,
+      "sitting_date": "2012-06-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c025/tbmm24025127.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c025/tbmm24025fih.pdf",
+      "pages": [
+        "469:483",
+        "484",
+        "486:487",
+        "505:520"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=2&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=331&v_gelecek_sayfa=101&v_kullanici_id=27484671",
+  "source_sha256": "bef7b7befe75eeeb754f2e5de842b001311b82ce702777400e2cb15fcd57af86",
+  "in_force": "2012-06-29",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
