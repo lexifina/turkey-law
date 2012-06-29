@@ -1,3 +1,3 @@
 Soruşturma ve kovuşturma usulü (1)
-MADDE 24 — (Değişik: 23/1/2008-5728/488 md.)
+Madde 24 – (Değişik: 23/1/2008 – 5728/488 md.)
 Bu Kanunda belirtilen suçlara ilişkin soruşturma ve kovuşturma yapılması, konularına göre Müsteşarlık veya Kurul tarafından Cumhuriyet başsavcılığına yazılı başvuruda bulunulmasına bağlıdır. Bu başvuru muhakeme şartı niteliğindedir. Cumhuriyet savcıları kovuşturmaya yer olmadığına karar verirlerse, Müsteşarlık veya Kurul, Ceza Muhakemesi Kanununa göre kendisine tebliğ edilecek bu kararlara karşı itiraza yetkilidir. Bu fıkra uyarınca yapılan soruşturmalar neticesinde açılan kamu davalarında, Müsteşarlık veya Kurulun başvuruda bulunması hâlinde, bunlar başvuru tarihinde katılan sıfatını kazanırlar.

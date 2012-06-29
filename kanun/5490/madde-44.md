@@ -1,0 +1,14 @@
+Nüfus kayıt örneğini almaya yetkili olanlar
+MADDE 44- (1) Nüfus kayıt örneklerini;
+a) Bakanlık,
+b) Dış temsilcilikler,
+c) Asker alma işlemleri için Milli Savunma Bakanlığı,
+ç) Adlî makamlar,
+d) Adlî işlemlerle sınırlı olmak üzere kolluk kuruluşları,
+e) Evlenme işlemleri için evlendirme işlemini yapmaya yetkili olanlar,
+f) Ölüm işlemleri için resmî sağlık kuruluşları,
+g) Kaydın sahipleri veya bunların eşleri ile veli, vasi, alt ve üst soyları ya da bu kişilere ait vekillik belgesini ibraz edenler,
+nüfus müdürlüklerinden doğrudan almaya yetkilidirler.
+(2) Birinci fıkrada sayılanlar dışında kalan kurumlar ve tüzel kişiler, yazılı olarak başvurmak ve istem nedenini açıkça belirtmek suretiyle Bakanlık veya mülkî idare amirinin emri ile nüfus kayıt örneğini alabilirler. Bakanlık bu madde hükümlerini işletmek üzere Kimlik Paylaşımı Sistemi kurar.
+(3) Yerleşim yeri adresi ve diğer adres bilgilerinin verilmesi kişinin rızasına bağlıdır.
+(4) Birinci fıkranın (g) bendinde sayılan kişiler dışında kalan üçüncü şahıslar medenî hal bilgisi dışında bir kişinin nüfus kaydına ilişkin örnek veya bilgi alamazlar.

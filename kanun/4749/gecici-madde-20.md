@@ -1,4 +1,4 @@
-GEÇİCİ MADDE 20 – (Ek: 17/6/2009-5909/1 md.)
+Geçici Madde 20 – (Ek: 17/6/2009-5909/1 md.)
 Finansman imkanlarını geliştirmek ve kredi sisteminin etkin işlemesine katkı sağlamak amacıyla firmalara kredi garantisi veren kredi garanti kurumlarına 1 milyar Türk Lirasına kadar nakit kaynak aktarmaya ve/veya özel tertip Devlet iç borçlanma senedi ihraç etmeye Bakan; nakit aktarımı ve/veya ihraç edilecek özel tertip Devlet iç borçlanma senetleri için Müsteşarlık bütçesinin mevcut ya da yeni açılacak tertiplerine 1 milyar Türk Lirasına kadar ödenek eklemeye Maliye Bakanı yetkilidir.
 Nakit kaynak aktarılarak ve/veya özel tertip Devlet iç borçlanma senedi ihraç edilerek Müsteşarlığın destek sağladığı kredi garantisi veren kredi garanti kurumlarında bankaların sahip oldukları paylarla ilgili olarak, 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun 25 inci, 48 inci, 49 uncu, 50 nci, 53 üncü, 54 üncü, ve 56 ncı maddeleri uygulanmaz.
 Bu madde kapsamında nakit kaynak ve/veya özel tertip Devlet iç borçlanma senedi aktarılacak kredi garanti kurumları ile aktarılacak kaynağın kullandırılmasına ilişkin usul ve esaslar Bakanlar Kurulunca belirlenir.

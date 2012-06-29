@@ -1,0 +1,2 @@
+Ölü olduğu halde aile kütüklerinde sağ görünenler
+MADDE 33- (1) Ölmüş olduğu halde aile kütüklerinde sağ görülenlere ait ölüm tutanakları, ölüm olayını gösterir belge ile başvurulması halinde nüfus müdürlüklerince düzenlenir ve gerekli işlem yapılır. Herhangi bir belge ibraz edilememesi durumunda ölüm beyanının doğruluğu nüfus müdürlüklerince tahkik ettirildikten sonra düzenlenecek ölüm tutanağı, mülkî idare amirinin emri ile işleme konulur.
