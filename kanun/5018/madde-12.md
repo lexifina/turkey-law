@@ -1,9 +1,9 @@
 İKİNCİ KISIM
 Kamu İdare Bütçeleri
-BİRİNCİBÖLÜM
+BİRİNCİ BÖLÜM
 Genel Hükümler
 Bütçe türleri ve kapsamı
-MADDE 12 -Genel yönetim kapsamındaki idarelerin bütçeleri; merkezî yönetim bütçesi, sosyal güvenlik kurumları bütçeleri ve mahallî idareler bütçeleri olarak hazırlanır ve uygulanır. Kamu idarelerince bunlar dışında herhangi bir ad altında bütçe oluşturulamaz.
+Madde 12- Genel yönetim kapsamındaki idarelerin bütçeleri; merkezî yönetim bütçesi, sosyal güvenlik kurumları bütçeleri ve mahallî idareler bütçeleri olarak hazırlanır ve uygulanır. Kamu idarelerince bunlar dışında herhangi bir ad altında bütçe oluşturulamaz.
 Merkezî yönetim bütçesi, bu Kanuna ekli (I), (II) ve (III) sayılı cetvellerde yer alan kamu idarelerinin bütçelerinden oluşur.
 Genel bütçe, Devlet tüzel kişiliğine dahil olan ve bu Kanuna ekli (I) sayılı cetvelde yer alan kamu idarelerinin bütçesidir.
 Özel bütçe, bir bakanlığa bağlı veya ilgili olarak belirli bir kamu hizmetini yürütmek üzere kurulan, gelir tahsis edilen, bu gelirlerden harcama yapma yetkisi verilen, kuruluş ve çalışma esasları özel kanunla düzenlenen ve bu Kanuna ekli (II) sayılı cetvelde yer alan her bir kamu idaresinin bütçesidir.

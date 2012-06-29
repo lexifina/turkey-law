@@ -1,7 +1,7 @@
 ÜÇÜNCÜ BÖLÜM
 Kamu Kaynağının Kullanılmasının Genel Esasları
 Malî saydamlık
-MADDE 7 - Her türlü kamu kaynağının elde edilmesi ve kullanılmasında denetimin sağlanması amacıyla kamuoyu zamanında bilgilendirilir. Bu amaçla;
+Madde 7- Her türlü kamu kaynağının elde edilmesi ve kullanılmasında denetimin sağlanması amacıyla kamuoyu zamanında bilgilendirilir. Bu amaçla;
 a) Görev, yetki ve sorumlulukların açık olarak tanımlanması,
 b) Hükümet politikaları, kalkınma planları, yıllık programlar, stratejik planlar ile bütçelerin hazırlanması, yetkili organlarda görüşülmesi, uygulanması ve uygulama sonuçları ile raporların kamuoyuna açık ve ulaşılabilir olması,
 c) Genel yönetim kapsamındaki kamu idareleri tarafından sağlanan teşvik ve desteklemelerin bir yılı geçmemek üzere belirli dönemler itibarıyla kamuoyuna açıklanması,
