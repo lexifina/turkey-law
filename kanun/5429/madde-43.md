@@ -1,0 +1,5 @@
+Danışma kurulları, özel ihtisas komisyonları ve inceleme-araştırma grupları
+Madde 43- Sayım, araştırma ve proje çalışmalarında ihtiyaç duyulan konularda gerçek ve tüzel kişilerin uzmanlık, deneyim ve görüşlerinden yararlanmak, en son bilimsel teknik ve yöntemlerin uygulamaya aktarılmasını sağlamak amacıyla danışma kurulları oluşturulabilir.
+Ayrıca, Kurumun hizmet birimlerinde gerektiğinde sürekli veya geçici özel ihtisas komisyonları ve inceleme- araştırma grupları kurulabilir.
+Danışma kurullarında, özel ihtisas komisyonlarında ve inceleme-araştırma gruplarında görev alacaklardan uhdesinde kamu görevi bulunup da diğer kamu kurum ve kuruluşlarından görevlendirilenlere her toplantı günü için bin (1000), uhdesinde herhangi bir kamu görevi bulunmayanlara ise ikibin (2000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucunda bulunacak miktar üzerinden ve ayda ikiden fazla olmamak üzere toplantı ücreti ödenir.
+Danışma kurullarında, özel ihtisas komisyonlarında ve inceleme-araştırma gruplarında görev alacak Başkanlık personeline herhangi bir ücret ödenmez.
