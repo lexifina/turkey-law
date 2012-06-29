@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6330",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti ile Filistin Ulusal Yönetimi Lehine Filistin Kurtuluş Örgütü Arasındaki Geçici Serbest Ticaret Anlaşması ile Kurulan Ortak Komitenin Anlaşmaya Ek Menşeli Ürünler Kavramının Tanımı ve İdari İşbirliği Yöntemlerine İlişkin 2/2010 Sayılı Kararının Onaylanmasının Uygun Bulunduğuna Dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-06-29",
+  "gazette_issue": "28338",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120629-4.htm",
+  "source_sha256": "174721558bf2e02207acbc593b50b75f779c2b2eb96c4ca9bf96f4b1ea1df8eb",
+  "text_sha256": "40d45076d7330b260ad7206aa1debe922b6e779b47e233dde24bab6ac799789e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/06/29/28338-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120629-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
