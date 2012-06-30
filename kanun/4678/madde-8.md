@@ -1,13 +1,10 @@
 ÜÇÜNCÜ KISIM
 Sözleşmeli Astsubaylar
-BİRİNCİBÖLÜM
+BİRİNCİ BÖLÜM
 Kaynak ve Yetiştirme
 Kaynak
-MADDE 8 — (Değişik: 16/6/2009-5907/4 md.)
-Sözleşmeli astsubay kaynaklarını; Genelkurmay Başkanlığı tarafından tespit edilecek bölüm veya branşlarda fakülte, yüksekokul veya meslek yüksekokullarını bitirenlerden düzeltilmemiş nüfus kaydına göre;
-a) Dört yıl veya daha fazla süreli yüksek öğrenimi bitirenler için yirmiyedi yaşından,
-b) Dört yıldan daha az süreli yüksek öğrenimi bitirenler için yirmibeş yaşından,
-gün almamış olanlardan ve aynı şartları haiz uzman erbaşlardan, yönetmelikte belirtilen diğer şartları haiz bulunanlar teşkil eder.
+Madde 8 – (Değişik: 16/6/2009-5907/4 md.)
+(Değişik birinci fıkra: 26/6/2012-6336/21 md.)Sözleşmeli astsubay kaynaklarını; Genelkurmay Başkanlığınca tespit edilecek bölüm veya branşlarda fakülte, yüksekokul veya meslek yüksekokullarını bitirenlerden düzeltilmemiş nüfus kaydına göre müracaat yapılan yılın ocak ayının ilk günü itibarıyla dört yıl veya daha fazla süreli yükseköğrenimi bitirenler için yirmiyedi yaşını, dört yıldan daha az süreli yükseköğrenimi bitirenler için yirmidört yaşını bitirmemiş olanlardan ve aynı şartları haiz uzman erbaşlardan, Yönetmelikte belirtilen diğer şartları haiz bulunanlar teşkil eder.
 Askeri okullardan ve Türk Silahlı Kuvvetlerinden her ne sebeple olursa olsun ilişikleri kesilen personel, Türk Silahlı Kuvvetlerine sözleşmeli astsubay olarak alınmaz. Ancak, askerliğini 16/6/1927 tarihli ve 1076 sayılı Kanuna göre kısa dönem erbaş veya er ya da 21/6/1927 tarihli ve 1111 sayılı Kanuna tâbi erbaş ve er olarak yapanlardan terhis edilenler veya askerlik hizmetini yapmakta olanlar sözleşmeli astsubay olabilir.
 Sözleşmeli astsubaylık için genel olarak aşağıdaki nitelikler aranır:
 a) Türkiye Cumhuriyeti vatandaşı olmak.
@@ -22,5 +19,4 @@ mahkum olmamak.
 f) Güvenlik soruşturması olumlu sonuçlanmış olmak.
 g) Yapılacak olan sınavlarda başarılı olmak.
 Türk Silahlı Kuvvetlerinde istihdam edilenler ile uzman erbaşların bu görevlerinde aldıkları sicilin, sicil tam notunun % 85 veya daha üstünde olması şarttır. Halen bu görevlerde bulunanlar ile askerlik hizmetini yapmakta iken müracaat edenlerin ayrıca, sıralı üstlerinden sözleşmeli astsubay olmaya layık olduklarına dair yönetmelikte belirtilen olumlu nitelik belgesi almaları zorunludur.
-–––––––––––––––––––
-(1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 70 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “onbeş yıl” ibaresi “on yıl” şeklinde değiştirilmiştir.
+7969

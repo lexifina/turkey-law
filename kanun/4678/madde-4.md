@@ -1,11 +1,11 @@
-İKİNCİKISIM
+İKİNCİ KISIM
 Sözleşmeli Subaylar
-BİRİNCİBÖLÜM
+BİRİNCİ BÖLÜM
 Kaynak ve Yetiştirme
 Kaynak
-MADDE 4 — (Değişik: 16/6/2009-5907/2 md.)
-Sözleşmeli subay kaynaklarını; en az dört yıllık fakülte veya yüksekokulları bitirenlerden düzeltilmemiş nüfus kaydına göre yirmiyedi yaşından, lisansüstü eğitimini tamamlamış olanlardan otuziki yaşından büyük olmayanlar teşkil eder.
-Askeri okullardan ve Türk Silahlı Kuvvetlerinden her ne sebeple olursa olsun ilişikleri kesilen personel, Türk Silahlı Kuvvetlerine sözleşmeli subay olarak alınmaz. (Değişik ikinci cümle: 22/5/2012-6318/68 md.) Ancak, askerlik yükümlülüğünü yerine getirmekte olanlar veya terhis edilenler sözleşmeli subay olabilirler.
+Madde 4 – (Değişik: 16/6/2009-5907/2 md.)
+(Değişik birinci fıkra: 26/6/2012-6336/20 md.) Sözleşmeli subay kaynaklarını; en az dört yıllık fakülte veya yüksekokulları bitirenlerden düzeltilmemiş nüfus kaydına göre müracaat yapılan yılın ocak ayının ilk günü itibarıyla yirmiyedi yaşını, lisansüstü eğitimini tamamlamış olanlardan otuziki yaşını bitirmemiş olanlar teşkil eder.
+Askeri okullardan ve Türk Silahlı Kuvvetlerinden her ne sebeple olursa olsun ilişikleri kesilen personel, Türk Silahlı Kuvvetlerine sözleşmeli subay olarak alınmaz. (Değişik cümle: 22/5/2012-6318/68 md.) Ancak, askerlik yükümlülüğünü yerine getirmekte olanlar veya terhis edilenler sözleşmeli subay olabilirler.
 Sözleşmeli subaylık için genel olarak aşağıdaki nitelikler aranır:
 a) Türk vatandaşı olmak.
 b) Bu Kanunda belirtilen öğrenim ile ilgili koşulları taşımak.
@@ -18,5 +18,6 @@ e) Cezaları ertelenmiş, seçenek yaptırımlardan birisine çevrilmiş, genel 
 mahkum olmamak.
 f) Güvenlik soruşturması olumlu sonuçlanmış olmak.
 g) Yapılacak olan sınavlarda başarılı olmak.
+7967
 Türk Silahlı Kuvvetlerinde istihdam edilenler ile yedek subay olarak askerlik hizmetini yapanlar veya yapmakta olanların bu görevlerinde aldıkları sicilin, sicil tam notunun % 85 veya daha üstünde olması şarttır. Halen bu görevlerde bulunanlar ile askerlik hizmetini yapmakta iken müracaat edenlerin ayrıca, sıralı üstlerinden sözleşmeli subay olmaya layık olduklarına dair yönetmelikte belirtilen olumlu nitelik belgesi almaları zorunludur.
 Askeri hakim sınıfına, sözleşmeli subay statüsünde personel alınmaz.
