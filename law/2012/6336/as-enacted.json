@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6336",
+  "year": 2012,
+  "title": "Harp Akademileri Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-06-30",
+  "gazette_issue": "28339",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120630-6.htm",
+  "source_sha256": "ab3fbf13d2d3797c7f0ad2d8b3dc03d5d489113c2f729f9c8d1808bd8b4ff7bf",
+  "text_sha256": "87f2881e6af2e6a5f2b46ad3f3904576fbcdd2b48bd1eb37a923cb271169eee8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/06/30/28339-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120630-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
