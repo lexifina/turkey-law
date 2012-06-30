@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6334",
+  "year": 2012,
+  "title": "Eşya Ticaretindeki İşlemlerin Basitleştirilmesine İlişkin Sözleşmeye Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-06-30",
+  "gazette_issue": "28339",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120630-4.htm",
+  "source_sha256": "2a5d4303444801ceb470b87853a73aba4df89caac50332bf7dbcb46babbddcd5",
+  "text_sha256": "3bc6dc82e3d19d0eb6cd4d4303d7f9be8cdbe05d04cbb25ffecc506a311101c2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/06/30/28339-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120630-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
