@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-06-30",
+  "issue": "28339",
+  "edition": "regular",
+  "item": 8,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARLARI",
+  "title": "1020 Kadın Erkek Fırsat Eşitliği Komisyonunun Türkiye Büyük Millet Meclisinin Tatili Sırasında Çalışabilmesine İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120630-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120630.htm",
+  "index_sha256": "06faa705122e35df6f015689ccf3e6100af48fa162fde5d14b4bb655f7c57d33",
+  "index_header": "30 Haziran 2012 ... 28339 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
