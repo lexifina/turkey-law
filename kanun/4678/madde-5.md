@@ -1,3 +1,3 @@
 Yetiştirme
-MADDE 5 — (Değişik: 22/5/2012-6318/69 md.)
+Madde 5 -(Değişik : 22/5/2012-6318/69 md.)
 Sözleşmeli subay adayları, yapılacak ön sözleşmeyi müteakip askeri eğitime alınır. Askeri eğitim ile ilgili esaslar yönetmelikle düzenlenir.

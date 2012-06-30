@@ -1,7 +1,8 @@
 Sağlık hizmetlerinden yararlanma ve sosyal haklar
-MADDE 16 — (Değişik: 16/6/2009-5907/10 md.)
+Madde 16 – (Değişik: 16/6/2009-5907/10 md.)
 Sözleşmeli subay ve sözleşmeli astsubaylar ile bunların bakmakla yükümlü oldukları kimselerin, sözleşme süresince, sosyal hakları ve sağlık işlemlerinde 4/1/1961 tarihli ve 211 sayılı Kanunun muvazzaf subay ve astsubaylara ilişkin hükümleri uygulanır.
 Sözleşmeli subay ve sözleşmeli astsubaylıktan emekli olanlar ve harp malûllüğü, vazife malûllüğü veya adî malûllük aylığı bağlanarak Türk Silâhlı Kuvvetlerinden ayrılanlar ile bunların bakmakla yükümlü olduğu aile fertleri ile harp ve vazife malûllüğünü gerektiren nedenlerden dolayı vefat edenlerin maaşa müstahak dul ve yetimleri, 4/1/1961 tarihli ve 211 sayılı Kanunun 66 ncı maddesinin (a) ve (b) bentleri ile 67 nci ve 70 inci maddeleri hükümlerinden aynen istifade ederler. Aile fertleri, 4/1/1961 tarihli ve 211 sayılı Kanunun 69 uncu maddesinde belirtilen aile fertlerini kapsar.
+7973
 Sözleşmeli subay ve sözleşmeli astsubaylardan;
 a) Kendi kusurları olmaksızın idare tarafından sözleşmeleri yenilenmeyenler ile sözleşme süresi içinde vefat, bir yıl içerisinde Kanunda belirtilen süreden daha fazla hava değişimi/istirahat/benzeri sıhhi izin süresini geçirme, bulunduğu kadronun kaldırılması, istihdam edildiği kadronun sağlık niteliğini kaybetme nedeniyle sözleşmeleri sona erenler ve bunların bakmakla yükümlü oldukları aile fertlerinin, Türk Silâhlı Kuvvetlerinde sözleşmeli subay ve sözleşmeli astsubay olarak hizmet edilen süre kadar ve en çok on yılı,
 b) Sözleşme süresi sonunda kendi istekleriyle sözleşmeleri yenilenmeyenler ile bunların bakmakla yükümlü oldukları aile fertlerinin ise Türk Silahlı Kuvvetlerinde sözleşmeli subay ve sözleşmeli astsubay olarak hizmet edilen sürenin yarısı kadar ve en çok beş yılı,
