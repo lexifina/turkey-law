@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6333",
+  "year": 2012,
+  "title": "Ortak Transit Rejimine İlişkin Sözleşmeye Katılmamızın Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-06-30",
+  "gazette_issue": "28339",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120630-3.htm",
+  "source_sha256": "8a08ed17c37cbdd9d890c010a95738f994b94365874c1b29dc02b9ac48cc566a",
+  "text_sha256": "1da558c85908ac43714d560d855e1367a311d48f9427131212767b5361267443",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/06/30/28339-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120630-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
