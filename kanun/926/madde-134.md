@@ -1,0 +1,2 @@
+X – Yönetmelik:
+Madde 134 – İzinlerin verilme usulleri, izin vermeye yetkili makamlar ve sair hususlar ile bilgi ve görgülerini artırmak üzere yabancı memleketlere izinli gideceklerin seçilmeleri, yollanma tarzları ve o yerlerdeki yaşama ve çalışmalarının ne yolda takip ve kontrol edilecekleri ve ne gibi hallerde geri çağrılacakları ile ilgili hususlar Milli Savunma Bakanlığı ve İçişleri Bakanlıklarınca müştereken tanzim edilecek yönetmelik ile tespit olunur.

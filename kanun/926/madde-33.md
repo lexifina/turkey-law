@@ -1,0 +1,7 @@
+IV – Terfi zamanı:
+Madde 33 – Muvazzaf subayların terfileri her yıl 30 Ağustos Zafer Bayramı günü yapılır.
+——————————
+(1) Asteğmenler için (9) ay olan bekleme süresi, 3/10/1996 tarih ve 4185 sayılı Kanunun 2 nci maddesiyle (11) ay , daha sonra 3/7/2003 tarih ve 4917 sayılı Kanunun 2 nci maddesi ile (8) ay olarak değiştirilmiş ve metne işlenmiştir.
+4400
+(Ek : 21/7/2000 - KHK - 607/2 md.; Değiştirilerek kabül : 10/5/2006-5497/2 md.) Kıdem alanlar, kazaî veya idarî kararlarla nasıpları lehe düzeltilenler ile açığa alınmaları, tutuklanmaları, kısa süreli kaçma ve izin süresini geçirme hariç firar veya izin tecavüzünde bulunmaları nedeniyle terfi edemeyen ve rütbe kıdemliliği onanmayanlardan, haklarında kovuşturmaya yer olmadığına, muhakemenin men'ine, kamu davasının düşmesine yahut ortadan kaldırılmasına, beraatine, kısa hapis cezasına veya verilen cezanın teciline, tedbire veya para cezasına çevrilmesine karar verilenler hakkında, emsalleri terfi etmiş veya rütbe kıdemliliği onanmış olmak şartıyla, yukarıdaki fıkra hükmü uygulanmaz. Ancak, bu durumda olanların rütbe terfi ve rütbe kıdemlilikleri, hükmün kesinleşme tarihinden geçerli olarak yapılıp emsalleri tarihine götürülür. Bu şekilde yapılan terfi ve rütbe kıdemliliklerinde maaş farkı ödenmez.
+(Ek fıkra:21/7/2000 – KHK-607/2 md.; Aynen kabül: 10/5/2006-5497/2 md.) Terfi sırasında olup da belirli oranda sicil mecburiyetini, sicil belgelerinin düzenlenmesinden sonra, 30 Ağustos tarihine kadar tamamlayacak olanlar (albaylar hariç) hakkında birinci fıkra hükmü uygulanmaz.

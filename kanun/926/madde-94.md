@@ -1,0 +1,12 @@
+Madde 94 – (Değişik: 7/7/1971 - 1424/33 md.)
+(Değişik cümle : 28/6/2001 - 4699/12 md.) Kadrosuzluk, yetersizlik, disiplinsizlik, ahlaki durum veya (c) bendinde belirtilen suçlardan hükümlülük nedeni ile aşağıda belirtilen esas ve şartlar dahilinde astsubaylar hakkında Silahlı Kuvvetlerden ayırma işlemi yapılır.
+a) Yetersizlik sebebi ile ayırma:
+1. (Değişik: 17/4/1975 - 1876/4 md.) Rütbe bekleme süresi sonunda veya sonraki yıllarda yapılan yeterlik sıralamasında sicil notu ortalaması sicil tam notunun % 50 sinden az olan üstçavuş - başçavuşlar;
+2. Kıdemli başçavuşlardan iki defa kademe ilerlemesi yapamayanlar ile rütbesinin son kademesine geldiği halde almış bulunduğu sicil notu kademe ilerlemesi için yeterli olmıyanlar;
+3. Astsubay Sicil Yönetmeliğinde gösterilen esaslara göre kendisinden istifade edilemiyeceği sıralı sicil üstlerinin düzenliyeceği sicil belgesi ile anlaşılanlar;
+Hakkında hizmet sürelerine bakılmaksızın T.C. Emekli Sandığı Kanunu hükümleri uygulanır.
+b) Disiplinsizlik ve ahlaki durum sebebiyle ayırma:
+Disiplinsizlik veya ahlaki durumları sebebiyle Silahlı Kuvvetlerde kalmaları uygun görülmiyen astsubayların hizmet sürelerine bakılmaksızın haklarında T.C. Emekli Sandığı Kanunu hükümleri uygulanır.
+Değişik: 29/7/1983 - 2870/7 md.) Bu sebeplerin neler olduğu ve bunlar hakkındaki sicil belgelerinin nasıl ve ne zaman tanzim edileceği, nerelere gönderileceği, inceleme ve sonuçlandırma ile gerekli diğer işlemlerin nasıl ve kimler tarafından yapılacağı Astsubay Sicil Yönetmeliğinde gösterilir. Bu gibi astsubaylardan durumlarının Yüksek Askerî Şura tarafından incelenmesi Genelkurmay Başkanlığınca gerekli görülenlerin Silahlı Kuvvetlerden ayırma işlemi, Yüksek Askerî Şura kararı ile yapılır.
+c) (Ek: 28/6/2001 - 4699/12 md.) Aşağıda belirtilen suçlardan hükümlülükleri ertelenen, para cezasına veya tedbire çevrilen veya affa uğrayanların ayrılmaları:
+Ertelenmiş, para cezasına veya tedbire çevrilmiş, affa uğramış olsalar bile Devletin şahsiyetine karşı işlenen suçlarla, 1632 sayılı Askeri Ceza Kanununun 131 inci maddesinin birinci fıkrasının az vahim hali hariç, basit ve nitelikli zimmet, irtikap, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, inancı köyüte kullanma, dolanlı iflas, iftira gibi yüz kızartıcı veya şeref ve haysiyet kırıcı nitelikteki suçlardan veya istimal ve istihlak kaçakçılığı hariç kaçakçılık, resmi ihale ve alım satımlara fesat karıştırma suçlarından hükümlü olan astsubaylar hakkında, hizmet sürelerine bakılmaksızın Türkiye Cumhuriyeti Emekli Sandığı Kanunu hükümleri uygulanır
