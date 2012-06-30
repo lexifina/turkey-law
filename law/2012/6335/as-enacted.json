@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6335",
+  "year": 2012,
+  "title": "Türk Ticaret Kanunu ile Türk Ticaret Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-06-30",
+  "gazette_issue": "28339",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120630-5.htm",
+  "source_sha256": "38134e1a5ad2308b977c5ffe36a0549d340eb295d68f0bf5f362db4e3634ab84",
+  "text_sha256": "61e6d1f8eec8f9a731499ed1461c81ad95065e7143300edcfe6d85599b094bf7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/06/30/28339-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120630-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
