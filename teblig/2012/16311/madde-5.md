@@ -1,0 +1,1 @@
+MADDE 5 – (1) Bu Tebliğ, yayımlandığı tarihten on beş gün sonra yürürlüğe girer. Bu Tebliğin yürürlüğe girdiği tarihte, 9/3/2001 tarihli ve 24337 sayılı Resmî Gazete’de yayımlanan ÖSG-2001/13-14 sayılı Tebliğ yürürlükten kalkar.
