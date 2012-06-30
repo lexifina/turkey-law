@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6332",
+  "year": 2012,
+  "title": "Türkiye İnsan Hakları Kurumu Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-06-30",
+  "gazette_issue": "28339",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120630-2.htm",
+  "source_sha256": "53fd08b4dc4eb5c92c464e2e9be300999dd564c301fd164a239125c12914dbf9",
+  "text_sha256": "e562c26cc53103d0d2bae336a096b183f071b511fe3707ac7ca0af98dd5cb71a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/06/30/28339-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/06/20120630-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
