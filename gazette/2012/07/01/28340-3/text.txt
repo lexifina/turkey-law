@@ -1,0 +1,102 @@
+1 Temmuz 2012 PAZAR
+Resmî Gazete
+Sayı : 28340
+YÖNETMELİK
+Türk Mühendis ve Mimar Odaları Birliği Elektrik Mühendisleri Odasından:
+TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ELEKTRİK
+MÜHENDİSLERİ ODASI YAPI ELEKTRONİK SİSTEMLERİ
+VE TESİSATLARINA AİT MÜHENDİSLİK
+HİZMETLERİ YÖNETMELİĞİ
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı; yapılarda ve yapı çevresinde tesis edilecek elektronik sistemlerin keşif, proje, uygulama, işletme, kontrol, yapı elektronik sistemler ve tesisatı işletme sorumluluğu ve bakımına ilişkin elektrik-elektronik mühendisliği hizmetlerinin tanımlanması ve bu hizmetleri yürütecek yetkili mühendislerin görev, yetki ve sorumlulukları ile bu hizmetlerin denetlenmesine ilişkin usul ve esasları düzenlemektir.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 27/1/1954 tarihli ve 6235 sayılı Türk Mühendis ve Mimar Odaları Birliği Kanunu hükümlerine dayanılarak hazırlanmıştır.
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Elektronik
+haberleşme sistemleri: Yürürlükteki mevzuat hükümlerine göre tesis edilen her tür ve kapasitedeki görsel, işitsel ve verisel elektronik haberleşme sistemi ile anten ve tesisatları,
+b) Elektronik
+sistemler işletme ve bakım sorumlusu: Yapı ve yapı dış sahasına tesis edilen elektronik sistemin tasarlandığı biçimde kullanım ömrü boyunca kendisinin ve bileşenlerinin, fonksiyonlarını ve güvenlik gereklerinin devamlılığını sağlamaya yönelik işletilmesi ve bakımının sağlanması, işletmeye yönelik kayıpların en aza indirgenmesi konusunda sorumluluk üstlenen yetkili mühendisleri,
+c) Elektronik
+tesisat uygulama mühendisi: Hazırlanan YEST projesinin yerinde uygulanmasından sorumlu ve görevli yetkili mühendisi,
+ç) Güvenlik elektroniği sistemleri: Yürürlükteki mevzuat hükümlerine göre tesis edilen soygun algılama ve uyarma sistemleri, yapı içinde ve yapı çevresinde yapı risk grubuna göre tesis edilmesi gereken tüm güvenlik algılayıcıları, kapalı devre kamera, geçiş kontrol, elektronik kilitler gibi elektronik güvenlik unsurlarının yer aldığı can, mal, bilgi, belge güvenliği amaçlı sistemleri,
+d) İşveren: Mühendislik hizmetlerini yaptıracak yapı sahibi, tesis sahibi veya işin yüklenicisi gerçek ve tüzel kişileri,
+e) Oda: Türk Mühendis ve Mimar Odaları Birliği Elektrik Mühendisleri Odasını,
+f) Proje müellifi: YEST projesini hazırlayan ve projeden sorumlu olan proje hazırlamaya yetkili mühendisi,
+g) Yangın algılama ve uyarma elektronik sistemleri: Yürürlükteki mevzuat hükümlerine göre tesis edilen yangın algılama ve uyarma sistemleri, yapı içinde ve yapı çevresinde yapı risk grubuna göre tesis edilmesi gereken tüm yangın algılayıcıları, sensörleri,
+elektronik güvenlik unsurlarının yer aldığı can ve mal güvenliği amaçlı Güvenlik Elektroniği sistemlerini,
+ğ) Yapı: Karada sürekli veya kesintili, resmi ve özel, yer altı ve yer üstü inşaatı ile bunların ilave değişiklik ve tadilatlarını içine alan sabit tesisleri,
+h) Yapılarda konfora yönelik elektronik sistemler: Yürürlükteki mevzuat hükümlerine göre tesis edilen insan yaşamını kolaylaştırmak amacıyla yapılardaki; yazılım, ses, ışık, aydınlatma, ısı, nem, hava kontrolü elektronik sistemleri,
+ı) Yapı risk sınıfları: Oda tarafından aşağıda belirlenen yapı risk sınıflarını,
+1) Yüksek riskli yapılar: En az bir "işletme ve bakım sorumlusu" mühendis çalıştırması gereken, yangın algılama-uyarma, güvenlik, haberleşme ve konfora yönelik elektronik sistem tesisatlarına sahip, insanların toplu olarak yaşadığı veya geçici süre de olsa bulunduğu Çevre ve Şehircilik Bakanlığı tarafından kapsamı belirlenen beşinci sınıf yapılar,
+2) Birinci derece
+riskli yapılar: İşletme ve bakım sorumlusu mühendis çalıştıran ya da serbest mühendislik hizmeti alan, yangın algılama-uyarma, güvenlik ve haberleşme elektronik sistem tesisatlarına sahip, insanların toplu olarak yaşadığı veya geçici süre de olsa bulunduğu Çevre ve Şehircilik Bakanlığı tarafından kapsamı belirlenen dördüncü sınıf yapılar,
+3) İkinci derece riskli yapılar: Yangın algılama-uyarma, güvenlik elektronik sistem tesisatlarına sahip, insanların toplu olarak yaşadığı veya geçici süre de olsa bulunduğu Çevre ve Şehircilik Bakanlığı tarafından kapsamı belirlenen üçüncü, ikinci ve birinci sınıf yapılar,
+i) Yapı sınıfları: Çevre ve Şehircilik Bakanlığı tarafından her yıl mimarlık hizmetlerine esas olan sınıfları,
+j) YEST:
+Elektrik akımını geçiren, iletken, yarı iletken, direnç, kondansatör, indüktans, vakum tüpleri gibi alt bileşenlerle ve mikro ölçekli yapılarla imal edilen bileşenlerin ve bu bileşenlerin montajıyla meydana gelen aygıtların, kablolu, optik lif, tel kablo veya
+elektromanyetik dalgalarla analog ya da sayısal yöntemlerle birleştiği ve etkinleştiği; yapı veya yapı dış sahasında güvenlik, konfor, bilgi akışı, ses, görüntü gibi işlevleri yerine getiren yangın algılama ve uyarma sistemi, güvenlik elektroniği sistemleri, elektronik haberleşme sistemleri, yapılarda konfora yönelik elektronik sistemleri ve tesisatları,
+k) Yetkili mühendis: Yapı elektronik sistem ve tesisatlarına ait mühendislik hizmetlerini yürütmek üzere not durum belgesi inceleme komisyonu tarafından not durum belgesi incelenerek Oda Yönetim Kurulu tarafından yetkilendirilen mühendisleri,
+l) Yıllık kontrol: Elektronik sistemlerin, yıllık periyotlarla Oda tarafından yetkilendirilen mühendisler tarafından gerçekleştirilen kontrollerini,
+ifade eder.
+İlkeler
+MADDE 4 – (1) Bu Yönetmeliğin uygulanmasında aşağıda belirtilen temel ilkeler gözetilir:
+a) YEST
+projeleri yetkili mühendis tarafından yerinde uygulanır ve sorumluluğu üstlenilir. Uygulaması yapılan YEST son durum projesinin, kesin projeyi hazırlayan yetkili mühendis tarafından hazırlanması zorunludur.
+b) Yüksek riskli yapılarda YEST işletme ve bakım sorumlusu olarak tam zamanlı yetkili mühendis çalıştırılması esastır.
+c) Birinci ve
+ikinci derece risk sınıfına göre YEST işletme ve bakım sorumlusu yetkili mühendislerden serbest mühendislik hizmeti alınabilir.
+ç) Oda Yönetim Kurulu, işletme ve bakım sorumluluğuna ilişkin sayı, kapasite, bölge ve benzeri konularda sınırlamayı belirler.
+d) YEST için yapılarda risk grubuna göre “elektronik sistem ve tesisatı kontrol odası ya da elektronik kontrol panosu" oluşturulması esastır.
+e) Yapı içi katlarda ''YEST kat dağıtım panolarının'' projelerde yer alması esastır.
+f) Elektronik
+haberleşme sistemlerine
+ait kablo ve kanalların, elektrik enerjisi tesisat kablo ve kanallarından bağımsız olarak projelendirilip tesis edilmesi esastır.
+g) Yapı risk sınıfına göre YEST işletme ve bakım sorumlusunun bakım planı yapması ve bakım planının uygulanmasını sağlaması esastır. YEST işletme ve bakım sorumlusunun dolduracağı formlar bir yönerge ile tanımlanır.
+ğ) Bu Yönetmelikte tanımlanan hizmetlerin yürütülmesinde Oda mevzuat ile belirlenen görev ve yetkilerini kullanarak bir yandan hizmetin yürütülmesindeki teknik gereklilikleri ve hizmet
+kalitesini sağlar, diğer yandan üyelerin haklarının korunmasında gerekli gördüğü girişim ve müdahalelerde bulunur.
+h) Proje müellifi tarafından hazırlanan YEST projeleri Oda’nın mesleki denetimine sunulmak zorundadır.
+Hizmet alanları
+MADDE 5 – (1) Oda üyesinin, YEST ile ilgili imzaya yetkili ve sorumlu
+olduğu hizmet alanları aşağıda belirtilmiştir:
+a) Etüt, tasarım ve proje hizmetleri;
+1) Etüt-öneri raporu: Genel olarak, hazırlanacak tasarımın, projenin esaslarına ilişkin açıklamaları, bu esasların kabulü için zorunlu nedenleri, teknik ve ekonomik hesapları gösteren rapor.
+2) Ön proje: Tesisin veya sistemin, hangi gereçlerle ve nasıl yapılacağını gösteren açıklama, şema, plan ve resimlerle, bunların düzenlenmesine dayanak olan hesap ve raporlardan oluşan proje.
+3) Kesin proje:
+Ön projede
+belirtilen tesis veya sistem gereçleri veya kabul edilmiş ilkelere uygun nitelikteki ayrıntılı açıklama, şema, plan ve resimlerle bunların düzenlenmesine dayanak olan teknik özellikler, hesap, keşif (metraj listesi) ve şartnamelerden oluşan proje.
+4) Uygulama
+projesi: Tesisin veya sistemin yapımına başlanmadan önce, onaylanmış kesin projesine ve imalatçı firmalara göre seçilen cihazların tip ve ölçüleri esas alınarak yüklenicisi tarafından hazırlanacak proje.
+5) Son durum
+(yapıldı) projesi: Uygulama aşamasında, varsa yapılan değişikliklerin işlendiği tesis sahibi veya yüklenici tarafından hazırlanacak, tesisin geçici kabule esas olan en son gerçekleşen durumunu gösteren proje.
+6) Değişiklik projesi: Tesisin onaylanmış kesin projesinde % 20’den fazla alan veya güç değişimi olması durumunda yapılan proje.
+7) Metraj
+listesi: Proje kapsamında yapılacak her iş kaleminin miktarını gösteren liste.
+8) Detay
+resimleri: Kesin projede belirlenmiş tesisatlara ait özel imalatlarla ilgili prensip resimlerini içeren, tesis elemanlarının birbirleri ile ilgisini etraflı bir şekilde anlatmak için plan, kesit, görünüş şeklinde hazırlanmış ölçekli çizimler.
+b) Teknik
+uygulama sorumluluğu hizmetleri: Yapıların, tesisatı ve malzemeleri ile birlikte, İmar Kanunu ve ilgili diğer mevzuata, uygulama imar planına, ruhsata, ruhsat eki etüt ve projelere, standartlara ve teknik şartnamelere uygun olarak tesis edilmesi için kamu adına denetlenmesi işidir.
+c) Mesleki
+kontrollük hizmetleri: İlgili mevzuata göre elektronik sistemlere ait tasarım ve proje denetim, şantiye eşgüdümü, ölçüm, test ve elektronik tesisat denetleme işidir.
+ç) İşletme sorumluluğu ve bakım hizmetleri: Elektronik sistemlerin ve tesisatlarının ilgili mevzuata göre ve yapı elektronik sisteminin ve elektronik haberleşmenin gizliliği, güvenliği, bütünlüğü ve devamlılığının sağlanması için kritik donanım-yazılım bileşenlerinin tespiti bakım sözleşmesi ve satın alma raporunu işverene sunma ve saptanan öncelikli donanım-yazılım bileşenlerinin yedekli çalışmasını sağlama işidir. Bu hizmete ait usul ve esaslar bir yönerge ile düzenlenir.
+d) Yapım hizmetleri ve yapım sorumluluğu: Her türlü elektronik sistemin ilgili yapım ve imalat aşamalarında yürürlükteki mevzuat hükümlerine, fen, sanat ve iş güvenliği ve sağlık kurallarına uygun olarak tesis edilmesinden, tamamlanmasından, sağlamlığından, niteliklerinden, usulsüz ve tekniğe aykırı yapılmasından doğacak zararlardan sorumlu olarak yapılan hizmettir.
+e) Danışmanlık hizmetleri: Oda üyesinin, uzmanı olduğu konularda danışmanlık, müşavirlik, proje yönetimi, yapılabilirlik, fizibilite çalışmaları, program hazırlığı, özel araştırma ve çalışmalar, dosya hazırlığı, iş ve işlem takibi gerektiren işlerin yapılması, ihale dosyası hazırlanması, keşif, şartname hazırlanması gibi hizmetlerdir.
+f) Bilirkişilik ve eksperlik hizmetleri: Bilimsel, teknik ve
+ekonomik sahalarda belirtilen konulardan isteneni, yerinde ya da dosya üzerinde inceleme yaparak fiyat takdiri, kıymet, nitelik, kusur ve durum tespiti için rapor tanzimi ile lüzum görülecek hallerde bunların dışındaki hususların tayin ve tespitinin yapılması hizmetleridir.
+İşverenin yükümlülükleri
+MADDE 6 – (1) İşverenin yükümlülükleri şunlardır:
+a) İşletme ve bakım sorumlusunun görevlerini yerine getirebilmesi için gerek duyduğu imalatların ya da hizmetlerin yerine getirilmesini sağlamak, donanım ile ilgili bakım ve onarım işlerini yaptırmak, talep edilen güvenlik malzemelerini almak, işletme sorumlusunu görevin gerektirdiği ölçüde yetkili kılmak, işletme sorumlusu değişikliklerini ruhsat veren kuruluşa ve Oda’ya bildirmek,
+b) İşletme ve bakım sorumlusunun talimatları ve uyarılarını dikkate alarak uyulmasını sağlamak, işletme sahibinin yükümlülüklerindendir.
+(2) Bu talimat
+ve uyarılara uyulmamasından kaynaklanacak her türlü kayıptan işletme sahibi sorumludur.
+Hizmet bedelleri ve mesleki denetim
+MADDE 7 – (1) Yapı elektronik sistemlerine ve tesisatlarına ait mühendislik hizmetlerinin en az ücretlerinin belirlenmesi ve mesleki denetim
+uygulamaları, 9/12/2010 tarihli ve 27780 sayılı Resmî Gazete’de yayımlanan TMMOB Elektrik Mühendisleri Odası En Az Ücret ve Mesleki Denetim Uygulama Esasları Yönetmeliği hükümlerine göre gerçekleştirilir.
+Özellik taşıyan
+sorunların çözümü
+MADDE 8 – (1) Bu Yönetmelikte tanımlanmayan ve karşılaşılabilecek diğer hususlar ve sorunlar, elektronik mühendisliği meslek dalı ana komisyonu önerisi ve Oda Yönetim Kurulu kararı ile çözümlenir.
+Yürürlük
+MADDE 9 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 10 – (1) Bu Yönetmelik hükümlerini Türk Mühendis ve Mimar Odaları Birliği Elektrik Mühendisleri Odası Yönetim Kurulu yürütür.
