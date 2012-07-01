@@ -1,0 +1,3 @@
+TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ELEKTRİK MÜHENDİSLERİ ODASI YAPI ELEKTRONİK SİSTEMLERİ VE TESİSATLARINA AİT MÜHENDİSLİK HİZMETLERİ YÖNETMELİĞİ
+Amaç ve kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı; yapılarda ve yapı çevresinde tesis edilecek elektronik sistemlerin keşif, proje, uygulama, işletme, kontrol, yapı elektronik sistemler ve tesisatı işletme sorumluluğu ve bakımına ilişkin elektrik-elektronik mühendisliği hizmetlerinin tanımlanması ve bu hizmetleri yürütecek yetkili mühendislerin görev, yetki ve sorumlulukları ile bu hizmetlerin denetlenmesine ilişkin usul ve esasları düzenlemektir.
