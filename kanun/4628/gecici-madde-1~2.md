@@ -1,0 +1,1 @@
+Geçici Madde 1 - Bu Kanun gereği olarak, 4628 sayılı Elektrik Piyasası Kanununa dayalı olarak çıkarılan yönetmelik ve tebliğlerde yapılması gerekli değişiklikler, bu Kanunun yürürlüğe girmesini izleyen altmış gün içerisinde gerçekleştirilir.

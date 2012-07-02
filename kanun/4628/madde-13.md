@@ -1,7 +1,7 @@
 ÜÇÜNCÜ BÖLÜM
 Tarifeler, Tüketicilerin Desteklenmesi, Özelleştirme ve Diğer Hükümler
 Tarifeler ve tüketicilerin desteklenmesi
-MADDE 13- Bu Kanun kapsamında düzenlenen tarifeler, tarifelerin uygulanması ve tüketicilerin desteklenmesine ilişkin usul ve esaslar şunlardır:
+Madde 13 – Bu Kanun kapsamında düzenlenen tarifeler, tarifelerin uygulanması ve tüketicilerin desteklenmesine ilişkin usul ve esaslar şunlardır:
 a) Tarifeler:
 Bu kısımda düzenlenen ve bir sonraki yıl uygulanması önerilecek tarifeler, ilgili tüzel kişi tarafından bu Kanun hükümleri doğrultusunda ve kendisine Kurul tarafından verilen lisanstaki hükümler uyarınca her yıl ekim ayının sonuna kadar hazırlanır ve Kurul onayına sunulur. Kurul, bu başvuruların ilgili lisans hükümlerine uygun olduğunu tespit etmesi halinde, bu başvuruları aynı yılın 31 Aralık tarihini geçmeyecek şekilde onaylar.
 Lisans sahibinin, bir sonraki yıl boyunca tarifelerde yapacağı aylık enflasyon ve lisansında belirtilen diğer hususlarla ilgili ayarlamalar da Kurul onayında yer alır. Bu tür fiyat ayarlamaları ile ilgili formüller Kurum tarafından bu Kanun hükümleri doğrultusunda verilen her lisansta bulunur. Fiyat yapısı içinde, söz konusu tüzel kişinin piyasa faaliyetleri ile doğrudan ilişkili olmayan hiçbir unsur yer alamaz. Türkiye Elektrik İletim Anonim Şirketi tarafından uygulanacak iletim ek ücreti bu hükmün istisnasını oluşturur.
@@ -13,7 +13,8 @@ b) Kurulca düzenlemeye tabi tarife türleri şunlardır:
 Bağlantı fiyatları, şebeke yatırım maliyetlerini kapsamaz. Bağlantı fiyatı, bağlantı yapmış olan tüzel kişinin namına oluşan masraflar ile sınırlıdır.
 2. İletim Tarifesi: Türkiye Elektrik İletim Anonim Şirketi tarafından hazırlanacak olan iletim tarifesi, üretilen, ithal veya ihraç edilen elektrik enerjisinin iletim tesisleri üzerinden naklinden yararlanan tüm kullanıcılara eşit taraflar arasında fark gözetmeksizin uygulanacak fiyatları, hükümleri ve şartları içerir. Türkiye Elektrik İletim Anonim Şirketinin yapacağı şebeke yatırımları ve iletim ek ücretleri iletim tarifesinde yer alır.
 3. Toptan Satış Tarifesi: Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketi tarafından hazırlanacak toptan satış tarifesi, toptan satışlar için Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketinin elektrik enerjisi satma yükümlülüğü olan tüm gerçek ve tüzel kişilere eşit taraflar arasında fark gözetmeksizin uygulayacağı fiyatları, hükümleri ve şartları içerir.
-Toptan satış tarifesinin belirlenmesinde Kurul, satın alman elektrik enerjisinin ortalama fi-yatının yansıtılmasını ve Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketinin mali yükümlülüklerini yerine getirebilme kapasitesini esas alır.
+7852
+Toptan satış tarifesinin belirlenmesinde Kurul, satın alınan elektrik enerjisinin ortalama fi-yatının yansıtılmasını ve Türkiye Elektrik Ticaret ve Taahhüt Anonim Şirketinin mali yükümlülüklerini yerine getirebilme kapasitesini esas alır.
 4. Dağıtım Tarifeleri: Dağıtım şirketleri tarafından hazırlanacak olan dağıtım tarifeleri, elektrik enerjisinin dağıtım tesisleri üzerinden naklinden yararlanan tüm gerçek ve tüzel kişilere eşit taraflar arasında fark gözetmeksizin uygulanacak dağıtım hizmetine ilişkin fiyatları, hükümleri ve şartları içerir.
 5. Perakende Satış Tarifeleri: İletim sistemine doğrudan bağlı olanlar dışındaki tüketiciler için, eşit taraflar arasında ayırım gözetmeksizin uygulanacak fiyatları, hükümleri ve şartları içerir.
 Serbest olmayan tüketiciler için geçerli olacak perakende satış tarifeleri, perakende satış lisansı sahibi dağıtım şirketi ve/veya perakende satış şirketleri tarafından önerilir ve Kurul tarafından incelenerek, onaylanır.

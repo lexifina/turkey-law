@@ -1,2 +1,2 @@
-GEÇİCİ MADDE 4- (İptal birinci fıkra: Anayasa Mahkemesi‘ nin 13/12/2002 tarihli ve E.:2001/293,K.: 2002/28 sayılı Kararı ile.) (1)
+Geçici Madde 4 – (Birinci fıkra iptal: Ana.Mahk.nin 13/12/2002 tarih ve E.:2001/293, 2002/28 sayılı Kararı ile.)
 İşletme hakkı devir işlemleri yukarıdaki birinci fıkrada belirtilen tarihe kadar tamamlananlardan, çevre kirliliğini önleyici tesisleri TEAŞ tarafından yapılanların bitirilmesi ve çevre mevzuatı açısından gerekli izinlerin alınması için, devir tarihinden itibaren iki yıllık süre tanınır. Bu süre zarfında söz konusu tesislerdeki elektrik üretim faaliyeti bu gerekçeyle durdurulamaz.

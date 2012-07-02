@@ -1,5 +1,5 @@
 Kurulun sıvılaştırılmış petrol gazları (LPG) piyasası ile ilgili görevleri
-MADDE 5/C – (Ek: 2/3/2005-5307/20 md.)
+Madde 5/C – (Ek: 2/3/2005 – 5307/20 md.)
 Enerji Piyasası Düzenleme Kurulu LPG piyasası ile ilgili olarak aşağıda belirtilen görevleri de yerine getirir:
 a) Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu ve Elektrik Piyasası Kanununda Değişiklik Yapılmasına Dair Kanun hükümlerini uygulamak, piyasa faaliyetlerine ilişkin her türlü düzenlemeleri yapmak ve yürütülmesini sağlamak.
 b) LPG piyasası faaliyetlerine ilişkin plân, politika ve uygulamalarla ilgili Kurum görüş ve önerilerini belirlemek.
@@ -8,4 +8,5 @@ d) Uluslararası organizasyon ve teşkilatların LPG piyasasına ilişkin uygula
 e) LPG piyasasında lisans ve lisanslarla ilgili işlem bedellerini belirlemek.
 f) LPG piyasasında faaliyet gösteren kişilerin denetlenmiş malî tablolarını incelemek veya incelettirmek.
 g) LPG piyasasında faaliyet gösteren kişilerden istenecek olan hizmet güvenilirliği, hizmet dışı kalmalar ve diğer performans ölçütleriyle ilgili raporların kapsamını belirlemek ve düzenli olarak Kurula vermelerini sağlamak.
+7846-2
 h) Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu ve Elektrik Piyasası Kanununda Değişiklik Yapılmasına Dair Kanun hükümlerine, çıkarılan yönetmelik hükümlerine, Kurul tarafından onaylanan tarife ve yönetmeliklere, lisans hüküm ve şartlarına, teknik düzenlemelere ve Kurul kararlarına aykırı davranıldığı durumlarda idarî para cezası vermek, lisansları iptal etmek.
