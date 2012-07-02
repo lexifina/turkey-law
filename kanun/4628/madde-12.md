@@ -1,3 +1,4 @@
 Dava hakkı
-MADDE 12- (Değişik: 23/1/2008-5728/480 md.)
-İdari para cezaları dahil, Kurul tarafından alınan bütün kararlara karşı açılan iptal davaları ilk derece mahkemesi olarak Danıştayda görülür. Danıştay, Kurul kararlarına karşı yapılan başvuruları acele işlerden sayar.
+Madde 12 – (Değişik: 2/7/2012-6352/64 md.)
+İdari yaptırım kararlarına karşı yetkili idare mahkemesinde dava açılabilir. Kurul kararlarına karşı açılan her türlü dava öncelikli işlerden sayılır.
+7851
