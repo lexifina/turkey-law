@@ -1,0 +1,5 @@
+[1] Bakanlar Kurulunun 6/6/2012 tarihli ve 2012/3309 sayılı Kararı Eki Yönetmeliğin 1 inci maddesi ile bu maddenin birinci fıkrasının (b), (c), (e) ve (f) bentlerinde yer alan "Tarım ve Köyişleri" ibareleri "Gıda, Tarım ve Hayvancılık" olarak değiştirilmiştir.
+[2] Bakanlar Kurulunun 6/6/2012 tarihli ve 2012/3309 sayılı Kararı Eki Yönetmeliğin 2 nci maddesi ile bu bentte yer alan "destekleme şube müdürü" ibaresi "koordinasyon ve tarımsal veriler şube müdürü" şeklinde değiştirilmiştir.
+[3] Bakanlar Kurulunun 6/6/2012 tarihli ve 2012/3309 sayılı Kararı Eki Yönetmeliğin 1 inci maddesi ile bu maddenin birinci fıkrasında yer alan "Tarım ve Köyişleri" ibaresi "Gıda, Tarım ve Hayvancılık" olarak değiştirilmiştir.
+[4] Bakanlar Kurulunun 6/6/2012 tarihli ve 2012/3309 sayılı Kararı Eki Yönetmeliğin 2 inci maddesi ile bu cetvelde yer alan "Destekleme Şube Müdürü" ibaresi "Koordinasyon ve Tarımsal Veriler Şube Müdürü" şeklinde değiştirilmiştir.
+[5] Bakanlar Kurulunun 6/6/2012 tarihli ve 2012/3309 sayılı Kararı Eki Yönetmeliğin 2 inci maddesi ile bu cetvelde yer alan "Destekleme Şube Müdürü" ibaresi "Koordinasyon ve Tarımsal Veriler Şube Müdürü" şeklinde değiştirilmiştir.

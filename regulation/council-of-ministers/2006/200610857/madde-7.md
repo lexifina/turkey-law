@@ -1,0 +1,2 @@
+Tesis maliyetine katılım yardımı
+MADDE 7 – (1) Tesis maliyetine katılım yardımı; sadece çiftçilerin birlikte ve müşterek olarak kullandıkları ve yararlandıkları araç ve tesisler için, araç ve tesisin onarılması veya yenisinin sağlanmasına katılım payı olarak yapılır. Tesisin onarılması veya yenisinin sağlanmasına katılım payı, zarar gören tesise emsal tesis bedeli üzerinden hazırlanan proje tutarının %70’ini geçemez.

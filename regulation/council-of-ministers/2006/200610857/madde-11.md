@@ -1,0 +1,6 @@
+İlçe hasar tespit komisyonunun görevleri
+MADDE 11 – (1) İlçe hasar tespit komisyonu, arazide yaptığı hasar tespit çalışmaları sonucunda hazırladığı hasar tespit listesinin, ilgili köy veya mahalle muhtarlıklarında askıya çıkarılarak on gün süre ile ilan edilmesini sağlar. Askıya çıkarılma ve askıdan indirilme saat ve tarih belirtilmek suretiyle tutanakla tespit edilir. Tutanak muhtar veya bir aza tarafından imzalanır.
+(2) Bu süre içerisinde; çiftçiler hasar tespit komisyonu tarafından hazırlanan listelere gerekçeli olarak itiraz edebilirler. Komisyon itiraz dilekçelerini inceleyerek, gerek gördüğü takdirde mahallinde dilekçe sahibinin de katılımıyla tespitte bulunur. Söz konusu sürenin bitiminden sonra yapılan itirazlar değerlendirilmez.
+(3) Yapılan hasar tespitleri neticesinde ek-1’de yer alan cetvel iki nüsha olarak tanzim edilip ilgililerce imzalanır.
+(4) Çiftçi bazında tanzim edilen ek-1’deki cetvellere göre, ilçe toplamının yer aldığı ek-2’deki cetvel ile % 40 ve üzeri zarar görüp, 5 inci maddenin ikinci fıkrasındaki şartları haiz olan çiftçiler için düzenlenen ek-3’de yer alan cetvel iki nüsha tanzim edilerek komisyon üyelerince imzalanır.
+(5) Çiftçilerin durumları değerlendirildikten sonra ek-1, ek-2 ve ek-3’de yer alan cetveller komisyon kararına bağlanır ve birer nüsha olarak il hasar tespit komisyonuna gönderilir.
