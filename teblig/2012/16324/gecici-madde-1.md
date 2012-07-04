@@ -1,0 +1,2 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin yayımı tarihinden önce Bakanlığa iletilmiş ve fakat henüz Bakanlar Kuruluna teklif olarak sunulmamış olan kentsel dönüşüm ve gelişim alanı olarak ilân etme talebi işlemleri; alan içerisinde kamunun mülkiyetinde veya kullanımında bulunan gayrimenkullere ilişkin olarak ilgili kamu kurum ve kuruluşlarına Bakanlıkça bilgi verilmek suretiyle, bu Tebliğ hükümlerine göre tamamlanır.
