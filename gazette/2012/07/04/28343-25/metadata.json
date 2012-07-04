@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-07-04",
+  "issue": "28343",
+  "edition": "regular",
+  "item": 25,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 2/7/2012 Tarihli ve 2012/100 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120704-25.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120704.htm",
+  "index_sha256": "930358310031b3d49139d038a93aa72af918518ee4b5b1dc0ab51911bc796d3b",
+  "index_header": "4 Temmuz 2012 ... 28343 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
