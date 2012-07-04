@@ -1,0 +1,3 @@
+Komisyonun teşkili
+MADDE 4 – (1) Komisyon, idarelerin taraf olduğu adli ve idari uyuşmazlıklarda ihtilafların çözümlenmesinde görüş bildirmek üzere her idarenin kendi bünyesinde üst yöneticinin görevlendireceği, biri hukuk birim amiri, biri hukuki uyuşmazlıkla ilgili birim amiri ve biri de hukuk biriminde görevli olanlar arasından seçilecek bir kişi olmak üzere en az üç üyeden oluşur. Komisyon başkanı üst yönetici tarafından belirlenir. Üyeler dışında komisyona katılan kişiler oylamaya katılamaz.
+(2) Hak ihlaline neden olan birden fazla idarenin varlığı halinde, ortak hukuki uyuşmazlık değerlendirme komisyonu oluşturulabilir.
