@@ -1,5 +1,6 @@
 Risk grubu
-MADDE 49 — Bir gerçek kişi ile eşi ve çocukları, bunların yönetim kurulu üyesi veya genel müdürü oldukları veya bunların ya da bir tüzel kişinin birlikte veya tek başlarına, doğrudan ya da dolaylı olarak kontrol ettikleri ya da sınırsız sorumlulukla katıldıkları ortaklıklar bir risk grubunu oluşturur.
+Madde 49 — Bir gerçek kişi ile eşi ve çocukları, bunların yönetim kurulu üyesi veya genel müdürü oldukları veya bunların ya da bir tüzel kişinin birlikte veya tek başlarına, doğrudan ya da dolaylı olarak kontrol ettikleri ya da sınırsız sorumlulukla katıldıkları ortaklıklar bir risk grubunu oluşturur.
+9553
 Bir banka ile bu bankanın nitelikli pay sahipleri, yönetim kurulu üyeleri ve genel müdürü, bunların birlikte veya tek başına, doğrudan ya da dolaylı olarak kontrol ettikleri ya da bunların sınırsız sorumlulukla katıldıkları veya yönetim kurulu üyesi ya da genel müdürü oldukları ortaklıklar bankanın dahil olduğu risk grubunu oluşturur.
 Yukarıda belirtilen risk gruplarının belirlenmesinde birlikte kontrol edilen ortaklıklar, bu ortaklıkların kontrolünü birlikte sağlayan her bir hissedarın risk grubuna dahil edilir.
 Bu maddenin uygulanmasında aralarında birinin ödeme güçlüğüne düşmesinin diğer bir veya birkaçının ödeme güçlüğüne düşmesi sonucunu doğuracak boyutta kefalet, garanti veya benzeri ilişkiler bulunan gerçek ve tüzel kişiler ilgili risk gruplarına dahil edilir.

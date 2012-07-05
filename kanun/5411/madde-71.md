@@ -1,5 +1,5 @@
 Faaliyet izninin kaldırılması veya Fona devir
-MADDE 71 — Denetlemeler sonucunda bir bankayla ilgili olarak;
+Madde 71 — Denetlemeler sonucunda bir bankayla ilgili olarak;
 a) Bu Kanunun 70 inci maddesi kapsamında alınması istenen tedbirlerin Kurul tarafından verilen süre içerisinde ya da her halükârda en geç oniki ay içinde kısmen ya da tamamen alınmaması ya da bu tedbirleri kısmen veya tamamen almış olmasına rağmen, malî bünyesinin güçlendirilmesine imkân bulunmadığı veya bu tedbirler alınmış olsa dahi malî bünyesinin güçlendirilemeyeceğinin tespit edilmesi,
 b) Faaliyetine devamının mevduat ve katılım fonu sahiplerinin hakları ve malî sistemin güven ve istikrarı bakımından tehlike arz ettiğinin ortaya çıkması,
 c) Yükümlülüklerini vadesinde yerine getiremediğinin tespit edilmesi,

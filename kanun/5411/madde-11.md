@@ -1,5 +1,5 @@
 Kuruluş izninin iptali
-MADDE 11 — Bir bankanın kuruluş izni;
+Madde 11 — Bir bankanın kuruluş izni;
 a) İznin gerçeğe aykırı beyanlarla alınmış olması,
 b) Kuruluş izninin verildiği tarihten itibaren dokuz ay içerisinde faaliyet izni için başvurulmaması,
 c) Kuruluş izninden vazgeçildiğinin beyan edilmesi,

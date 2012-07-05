@@ -1,3 +1,3 @@
 Cinsel taciz
-MADDE 105. - (1) Bir kimseyi cinsel amaçlı olarak taciz eden kişi hakkında, mağdurun şikâyeti üzerine, üç aydan iki yıla kadar hapis cezasına veya adlî para cezasına hükmolunur.
+Madde 105- (1) Bir kimseyi cinsel amaçlı olarak taciz eden kişi hakkında, mağdurun şikayeti üzerine, üç aydan iki yıla kadar hapis cezasına veya adlî para cezasına hükmolunur.
 (2) (Değişik: 29/6/2005 – 5377/13 md.) Bu fiiller; hiyerarşi, hizmet veya eğitim ve öğretim ilişkisinden ya da aile içi ilişkiden kaynaklanan nüfuz kötüye kullanılmak suretiyle ya da aynı işyerinde çalışmanın sağladığı kolaylıktan yararlanılarak işlendiği takdirde, yukarıdaki fıkraya göre verilecek ceza yarı oranında artırılır. Bu fiil nedeniyle mağdur; işi bırakmak, okuldan veya ailesinden ayrılmak zorunda kalmış ise, verilecek ceza bir yıldan az olamaz.

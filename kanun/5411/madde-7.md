@@ -1,11 +1,12 @@
 Kuruluş şartları
-MADDE 7 — Türkiye'de kurulacak bir bankanın;
+Madde 7 — Türkiye'de kurulacak bir bankanın;
 a) Anonim şirket şeklinde kurulması,
 b) Hisse senetlerinin nakit karşılığı çıkarılması ve tamamının nama yazılı olması,
 c) Kurucularının bu Kanunda belirtilen şartları haiz olması,
 d) Yönetim kurulu üyelerinin bu Kanunun kurumsal yönetim hükümlerinde belirtilen nitelikleri ve plânlanan faaliyetleri gerçekleştirebilecek meslekî tecrübeyi haiz olması,
 e) Öngörülen faaliyet konularının plânlanan malî, yönetim ve organizasyon yapısı ile uyumlu olması,
 f) Nakden ve her türlü muvazaadan âri olarak ödenmiş sermayesinin en az otuzmilyon Yeni Türk Lirası olması,
+9541
 g) Ana sözleşmesinin bu Kanun hükümlerine uygun olması,
 h) Kurumun etkin denetimini engellemeyecek şeffaf ve açık bir ortaklık yapısı ve organizasyon şemasına sahip olması,
 i) Konsolide denetimini engelleyici nitelikte herhangi bir hususun bulunmaması,

@@ -1,7 +1,7 @@
 DÖRDÜNCÜ BÖLÜM
 Görev, Yetki ve Sorumluluk
 Fonun görev ve yetkileri
-MADDE 122 — Fon, bu Kanun ve ilgili diğer mevzuatla verilenler dışında aşağıdaki görevleri yapar ve yetkileri kullanır:
+Madde 122 — Fon, bu Kanun ve ilgili diğer mevzuatla verilenler dışında aşağıdaki görevleri yapar ve yetkileri kullanır:
 a) Fon Kurulu kararlarının uygulanmasını sağlamak.
 b) Fonun insan kaynakları politikalarını belirlemek.
 c) Yurt içi ve yurt dışı muadil kurumların katıldığı uluslararası malî, iktisadî ve meslekî teşekküllere üye olmak, görev alanına giren hususlarda yabancı ülkelerin yetkili mercileri ile mutabakat zaptı imzalamak.

@@ -1,7 +1,7 @@
 BEŞİNCİ BÖLÜM
 Hâkimin Davaya Bakamaması ve Reddi
 Hâkimin davaya bakamayacağı hâller
-MADDE 22.- (1) Hâkim;
+Madde 22 – (1) Hâkim;
 a) Suçtan kendisi zarar görmüşse,
 b) Sonradan kalksa bile şüpheli, sanık veya mağdur ile aralarında evlilik, vesayet veya kayyımlık ilişkisi bulunmuşsa,
 c) Şüpheli, sanık veya mağdurun kan veya kayın hısımlığından üstsoy veya altsoyundan biri ise,

@@ -2,7 +2,7 @@
 MADDE 12 – (1) İşletmeci, Kurum düzenlemeleri ve yetkilendirmesinde öngörülen şartlara uygun olarak yetkilendirildiği kapsamdaki elektronik haberleşme hizmetini sunma hakkına sahiptir.
 (2) Kurum, işletmecilere sektörün ihtiyaçları, uluslararası düzenlemeler, teknolojide meydana gelen gelişmeler gibi hususları gözeterek aşağıdaki hususlar başta olmak üzere, mevzuat doğrultusunda yükümlülükler getirebilir:
 a) İdari ücretler.
-b) Hizmetlerin birbiriyle uyumlu çalışabilmesi ve şebekelerarasıarabağlantının sağlanması.
+b) Hizmetlerin birbiriyle uyumlu çalışabilmesi ve şebekelerarası arabağlantının sağlanması.
 c) Ulusal numaralandırma planındaki numaralardan son kullanıcılara erişimin sağlanması.
 ç) Ortak yerleşim ve tesis paylaşımı.
 d) Kişisel veri ve gizliliğin korunması.
@@ -22,6 +22,7 @@ b) Frekans ve numaraların etkin ve verimli kullanımı.
 c) Elektromanyetik girişimin önlenmesi.
 ç) Numara taşınabilirliği.
 d) Rehber hizmeti.
+10390
 e) Yetkilendirme süresi.
 f) Hak ve yükümlülüklerin devri.
 g) Kullanım hakkı ücretleri.

@@ -1,3 +1,4 @@
 ÜÇÜNCÜ BÖLÜM
 Elektrik Piyasası Kanununda Yapılan Değişiklikler
-MADDE 20 —20.2.2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanununa 5/B maddesinden sonra gelmek üzere aşağıdaki 5/C maddesi eklenmiştir.
+Madde 20-22- (20.2.2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanunu ile ilgili olup yerine işlenmiştir.)
+9326

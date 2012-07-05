@@ -1,6 +1,7 @@
 Fon Kurulu üyelerinin atanması
-MADDE 113 — Fon Kurulu üyelerinin, aşağıda belirtilen şartları taşımaları zorunludur:
+Madde 113 — Fon Kurulu üyelerinin, aşağıda belirtilen şartları taşımaları zorunludur:
 a) 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin (A) fıkrasının (1), (4), (5), (6) ve (7) numaralı bentlerinde belirtilen şartları taşımak.
+9582
 b) 8 inci maddenin birinci fıkrasının (a), (b), (c) ve (d) bentlerinde belirtilen şartları taşımak.
 c) 26 ncı maddede yer alan çalışması yasaklananlardan olmamak.
 d) Hukuk, iktisat, maliye, bankacılık, işletme, kamu yönetimi ve dengi dallarda lisans veya lisansüstü düzeyinde öğrenim görmüş olmak.

@@ -1,5 +1,5 @@
 Yer bakımından uygulama
-MADDE 8. - (1) Türkiye'de işlenen suçlar hakkında Türk kanunları uygulanır. Fiilin kısmen veya tamamen Türkiye'de işlenmesi veya neticenin Türkiye'de gerçekleşmesi hâlinde suç, Türkiye'de işlenmiş sayılır.
+Madde 8- (1) Türkiye'de işlenen suçlar hakkında Türk kanunları uygulanır. Fiilin kısmen veya tamamen Türkiye'de işlenmesi veya neticenin Türkiye'de gerçekleşmesi halinde suç, Türkiye'de işlenmiş sayılır.
 (2) Suç;
 a) Türk kara ve hava sahaları ile Türk karasularında,
 b) Açık denizde ve bunun üzerindeki hava sahasında, Türk deniz ve hava araçlarında veya bu araçlarla,

@@ -1,5 +1,0 @@
-Postada elkoyma
-MADDE 129. - (1) Suçun delillerini oluşturduğundan şüphe edilen ve gerçeğin ortaya çıkarılması için soruşturma ve kovuşturmada adliyenin eli altında olması zorunlu sayılıp, posta hizmeti veren her türlü resmî veya özel kuruluşta bulunan gönderilere, hâkimin veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının kararı ile elkonulabilir.
-(2) Hâkim kararının veya Cumhuriyet savcısının emrinin kendilerine bildirilmesi üzerine elkoyma işlemini yerine getiren kolluk memurları, birinci fıkrada belirtilen gönderilerin içinde bulunduğu zarfları veya paketleri açamazlar. Elkonulan gönderiler, ilgili posta görevlilerinin huzuru ile mühür altına alınıp derhâl elkoyma kararını veya emrini veren hâkim veya Cumhuriyet savcısına teslim edilir.
-(3) Soruşturma ve kovuşturmanın amacına zarar vermek olasılığı bulunmadıkça, alınmış tedbirler ilgililere bildirilir.
-(4) Açılmamasına veya açılıp da içeriği bakımından adliyenin eli altında tutulmasına gerek bulunmadığına karar verilen gönderiler, hemen ilgililerine teslim olunur.

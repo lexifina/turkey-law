@@ -1,3 +1,4 @@
 Reşit olmayanla cinsel ilişki
-MADDE 104. - (1) Cebir, tehdit ve hile olmaksızın, onbeş yaşını bitirmiş olan çocukla cinsel ilişkide bulunan kişi, şikâyet üzerine, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
-(2) Fail mağdurdan beş yaştan daha büyük ise, şikâyet koşulu aranmaksızın, cezası iki kat artırılır.
+Madde 104- (1) Cebir, tehdit ve hile olmaksızın, onbeş yaşını bitirmiş olan çocukla cinsel ilişkide bulunan kişi, şikayet üzerine, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
+(2) (İptal: Ana.Mah.nin 23/11/2005 tarihli ve E: 2005/103, K: 2005/89 sayılı kararı ile)
+8995

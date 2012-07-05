@@ -1,2 +1,2 @@
 Yetkili olmayan hâkim veya mahkemenin işlemleri
-MADDE 20.- (1) Yetkili olmayan hâkim veya mahkemece yapılan işlemler, sadece yetkisizlik nedeniyle hükümsüz sayılmaz.
+Madde 20 – (1) Yetkili olmayan hâkim veya mahkemece yapılan işlemler, sadece yetkisizlik nedeniyle hükümsüz sayılmaz.

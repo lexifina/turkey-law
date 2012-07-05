@@ -1,7 +1,8 @@
 İKİNCİ BÖLÜM
-Lisansların Tâbi Olacağı Usûl ve Esaslar, Lisans Sahiplerinin Hak ve Yükümlülükleri
+Lisansların Tâbi Olacağı Usûl ve Esaslar, Lisans Sahiplerinin
+Hak ve Yükümlülükleri
 Lisansların tabi olacağı usûl ve esaslar
-MADDE 3 — LPG’nin dağıtımı, taşınması ve otogaz bayilik faaliyetlerinin yapılması (tüplü LPG bayiliği hariç), depolanması, LPG tüpünün imalâtı, dolumu, muayenesi, tamiri ve bakımı ile bu amaçla tesis kurulması ve işletilmesi için lisans alınması zorunludur.
+Madde 3- LPG’nin dağıtımı, taşınması ve otogaz bayilik faaliyetlerinin yapılması (tüplü LPG bayiliği hariç), depolanması, LPG tüpünün imalâtı, dolumu, muayenesi, tamiri ve bakımı ile bu amaçla tesis kurulması ve işletilmesi için lisans alınması zorunludur.
 Piyasa faaliyetinde bulunacak olan gerçek veya tüzel kişiler, LPG tesislerinin kuruluşunda ve işletilmesinde ilgili kamu kurum ve kuruluşlarınca kendi mevzuatları gereği; imar, toplum, çevre, iş sağlığı, güvenlik, teknik düzenleme ve benzeri konularda bir sakınca bulunmadığını gösteren, tesisin kuruluşuna ve işletilmesine yönelik gerekli ruhsat, izin ve belgelerin tamamlanmasını müteakip Kuruma lisans başvurusunda bulunurlar. Lisans vermede, faaliyetin icrası için gereken fizikî varlıkların temini açısından taahhüt üzerinden işlem yapılamaz.
 Lisans taleplerine ilişkin değerlendirmeler bu madde hükümleri çerçevesinde tamamlanarak en geç altmış gün içerisinde karara bağlanır ve ilgiliye tebliğ edilir. Reddedilen taleplerin gerekçesi bildirilir.
 Bu Kanuna göre; lisansların verilmesi, güncelleştirilmesi, geçici olarak durdurulması veya iptaline ilişkin işlemler Kurumca yapılır. Lisansların verilmesinde pazara giriş açısından teknoloji, kalite, güvenlik, hizmet ve teşebbüsün sürdürülebilirliği dikkate alınır.
@@ -14,6 +15,7 @@ b) Lisans ile kazanılan hak ve üstlenilen yükümlülükler.
 c) Lisans kapsamındaki faaliyetlerin kısıtlanması.
 ç) Faaliyetin yürütülmesine ilişkin olarak özel şartlar belirlenmesi.
 Lisansta yer alan hususlarda değişiklik yapılmasını gerektirecek faaliyetler, Kurumca onaylanıp lisansa işlenmedikçe yapılamaz.
+9316
 Lisanslar ile ilgili olarak;
 a) Başvuru, değerlendirme, lisans verme, lisans süresi, tadili, bedeli ile sona ermesi ve süre uzatma işlemlerine,
 b) Sınıflandırılması uygun görülen lisansların, sınıflandırılmasına ait esaslar ve sınıflara göre asgarî büyüklüklerine,

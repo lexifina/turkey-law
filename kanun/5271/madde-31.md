@@ -1,5 +1,5 @@
 Ret isteminin geri çevrilmesi
-MADDE 31.- (1) Mahkeme, kovuşturma evresinde ileri sürülen hâkimin reddi istemini aşağıdaki durumlarda geri çevirir:
+Madde 31 – (1) Mahkeme, kovuşturma evresinde ileri sürülen hâkimin reddi istemini aşağıdaki durumlarda geri çevirir:
 a) Ret istemi süresinde yapılmamışsa.
 b) Ret sebebi ve delili gösterilmemişse.
 c) Ret isteminin duruşmayı uzatmak amacı ile yapıldığı açıkça anlaşılıyorsa.

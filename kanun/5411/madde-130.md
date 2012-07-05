@@ -1,5 +1,5 @@
 Fonun gelirleri
-MADDE 130 — Fonun gelirleri;
+Madde 130 — Fonun gelirleri;
 a) Mevduat ve katılım fonu sigortası primlerinden,
 b) 62 nci maddeye göre zamanaşımına uğrayan mevduat, katılım fonu, emanet ve alacaklardan,
 c) Kuruluş izni verilen bankaların kurucularının, faaliyete geçiş tarihinden itibaren bir yıl içerisinde, bu Kanunun 7 nci maddesinde belirtilen asgarî sermayenin yüzde onu tutarında Fona yatıracakları sisteme giriş payından,
@@ -8,3 +8,4 @@ e) Bu Kanun hükümlerine aykırılık dolayısıyla hükmolunacak adlî para ce
 f) Fon mevcudunun gelirleri ile sair gelirlerden,
 g) 20 nci madde uyarınca Fona gelir kaydedilecek değerlerden,
 Oluşur.
+9591

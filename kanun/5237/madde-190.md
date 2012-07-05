@@ -1,5 +1,5 @@
 Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma
-MADDE 190. - (1) Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırmak için;
+Madde 190- (1) Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırmak için;
 a) Özel yer, donanım veya malzeme sağlayan,
 b) Kullananların yakalanmalarını zorlaştıracak önlemler alan,
 c) Kullanma yöntemleri konusunda başkalarına bilgi veren,

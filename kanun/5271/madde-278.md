@@ -1,2 +1,0 @@
-Bölge adliye mahkemesi Cumhuriyet savcısının görevi
-MADDE 278. -(1) Dava dosyası, bölge adliye mahkemesi Cumhuriyet Başsavcılığına geldiğinde incelenerek, varsa tebligat eksikliklerinin giderilmesi sağlandıktan ve sunulması gereken belge ve deliller de eklendikten sonra, yazılı düşünceyi içeren bir tebliğname ile birlikte bölge adliye mahkemesi ceza dairesine verilir. Bölge adliye mahkemesi Cumhuriyet Başsavcılığınca düzenlenen tebliğname ilgililere de tebliğ olunur.

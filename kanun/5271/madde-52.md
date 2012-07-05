@@ -1,5 +1,5 @@
 Tanıkların dinlenmesi
-MADDE 52.- (1) Her tanık, ayrı ayrı ve sonraki tanıklar yanında bulunmaksızın dinlenir.
+Madde 52 – (1) Her tanık, ayrı ayrı ve sonraki tanıklar yanında bulunmaksızın dinlenir.
 (2) Tanıklar, kovuşturma evresine kadar ancak gecikmesinde sakınca bulunan veya kimliğin belirlenmesine ilişkin hâllerde birbirleri ile ve şüpheli ile yüzleştirilebilirler.
 (3) Tanıkların dinlenmesi sırasındaki görüntü veya sesler kayda alınabilir. Ancak;
 a) Mağdur çocukların,

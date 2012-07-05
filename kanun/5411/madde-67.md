@@ -1,5 +1,5 @@
 Önlem alınmasını gerektiren hâller
-MADDE 67 — Konsolide veya konsolide olmayan bazda yapılan denetimler sonucunda bir bankanın;
+Madde 67 — Konsolide veya konsolide olmayan bazda yapılan denetimler sonucunda bir bankanın;
 a) Aktiflerinin vade itibarıyla yükümlülüklerini karşılayamama tehlikesiyle karşı karşıya gelmesi ya da likiditeye ilişkin düzenlemelere uymaması,
 b) Gelir ve giderleri arasındaki ilgi ve dengelerin bozulması nedeniyle kârlılığın faaliyetleri emin bir şekilde yürütecek yeterlilikte olmaması,
 c) Özkaynaklarının sermaye yeterliliğine ilişkin düzenlemelere göre yetersiz olması veya bu durumun gerçekleşmek üzere bulunması,

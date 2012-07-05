@@ -1,5 +1,5 @@
 Faaliyet konuları
-MADDE 4 — Bankalar, diğer kanunlarda öngörülen hükümler saklı kalmak kaydıyla aşağıda belirtilen faaliyetleri gerçekleştirebilirler:
+Madde 4 — Bankalar, diğer kanunlarda öngörülen hükümler saklı kalmak kaydıyla aşağıda belirtilen faaliyetleri gerçekleştirebilirler:
 a) Mevduat kabulü.
 b) Katılım fonu kabulü.
 c) Nakdî, gayrinakdî her cins ve surette kredi verme işlemleri.
@@ -16,6 +16,7 @@ m) Başkaları lehine teminat, garanti ve sair yükümlülüklerin üstlenilmesi
 n) Yatırım danışmanlığı işlemleri.
 o) Portföy işletmeciliği ve yönetimi.
 p) Hazine Müsteşarlığı ve/veya Merkez Bankası ve kuruluş birlikleri nezdinde oluşturulan bir sözleşme kapsamında üstlenilen yükümlülükler çerçevesinde alım satım işlemlerine ilişkin piyasa yapıcılığı.
+9540
 r) Faktöring ve forfaiting işlemleri.
 s) Bankalararası piyasada para alım satımı işlemlerine aracılık.
 t) Finansal kiralama işlemleri.

@@ -1,5 +1,5 @@
 Tanımlar
-MADDE 2 —Bu Kanunun uygulanmasında;
+Madde 2- Bu Kanunun uygulanmasında;
 a) Bakanlık: Enerji ve Tabiî Kaynaklar Bakanlığını,
 b) Kurum : Enerji Piyasası Düzenleme Kurumunu,
 c) Kurul : Enerji Piyasası Düzenleme Kurulunu,
@@ -10,6 +10,7 @@ f) Taşıyıcı: Taşıma faaliyeti yapan gerçek ve tüzel kişileri,
 g) Kullanım: LPG’nin sadece kişisel veya işletme ihtiyaçları için tüketimini,
 ğ) Kullanıcı: LPG kullanan gerçek ve tüzel kişileri,
 h) Lisans : Bu Kanuna göre gerçek ve tüzel kişilere (tüplü LPG bayileri hariç) piyasada faaliyet gösterebilmeleri için Kurul tarafından izin verildiğini gösterir belgeyi,
+9314
 ı) Depolama: LPG dağıtıcılarının veya kullanıcılarının stok ihtiyaçlarını karşılamak üzere kendilerine ait veya yapılan sözleşmeler gereği kullanım hakkına sahip bulundukları ve LPG’nin teknik düzenlemelere uygun olarak depolanmasını sağlayan tesisler ile buralarda yürütülen iş ve işlemleri,
 i) Dağıtıcı: LPG dağıtım yetkisi olan ve lisanslarına işlenmesi halinde depolama, dolum, taşıma işlemleri yapabilen sermaye şirketini,
 j) Dolum tesisi: Dağıtıcının tescilli markası ve amblemini ve teknik düzenlemelere uygun tüplere veya sözleşme ile diğer bir dağıtıcının tescilli markası ve amblemini taşıyan ve teknik düzenlemelere uygun tüplere, otogaz ve dökme LPG’nin taşıma araçlarına doldurulduğu, boşaltıldığı, depolandığı ve teknik düzenlemelere göre kurulan ve çalışan bir dağıtıcıya ait tesisi,
@@ -26,6 +27,7 @@ s) Dökme LPG: LPG dağıtıcıları tarafından kullanıcıların tüplü ve ot
 t) Tehlikeli eylem: Piyasa faaliyetinin yapılmasında, bunların yapıldığı mahalde veya yakınında bulunan bir kimsenin ölümüne, sakatlanmasına veya sağlığının bozulmasına, çevrenin kirlenmesine sebep olan veya olabilecek nitelikte bulunan bir fiil veya ihmali,
 u) Kötüniyet: Piyasa faaliyetinin yapılmasında, LPG’nin kaybına, karışmasına, bozulmasına veya amaç dışı kullanımına sebebiyet veren bir eylem veya ihmali,
 ü) Kilometre tahdidi: Şehir içi veya şehirlerarası trafiğe açık yollarda aynı istikamette iki akaryakıt ve otogaz istasyonu arasındaki Kurul tarafından çıkarılacak yönetmelikte belirlenecek asgarî mesafeyi,
+9315
 v) Piyasa faaliyeti: LPG’nin ithali, ihracı, depolanması, taşınması, dağıtımı ve bayiliğini,
 y) Teknik düzenleme: LPG’nin niteliği ile LPG faaliyetlerinde kullanılan mekân, aksam ve hareketlerin tanımlanmasında TSE standartları ve diğer mevzuatla getirilen düzenlemeleri,
 İfade eder.

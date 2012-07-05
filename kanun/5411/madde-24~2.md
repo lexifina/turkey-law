@@ -1,3 +1,0 @@
-Madde 24.— Kredilere ve diğer alacaklara karşılık ayrılmasına ilişkin yükümlülük 24.4.2003 tarihinden itibaren Banka hakkında uygulanmaz.
-İ) 10.2.1954 tarihli ve 6245 sayılı Harcırah Kanununun 33 üncü maddesinin (b) bendinde yer alan "Bankalar Yeminli Murakıp ve Murakıp Yardımcıları" ibaresinden sonra gelmek üzere "Bankacılık Düzenleme ve Denetleme Kurumunda görevli Bankacılık Uzmanı, Hukuk Uzmanı ve Bilişim Uzmanı ile bunların yardımcıları" ibaresi eklenmiştir.
-J) 11.1.1954 tarihli ve 6219 sayılı Türkiye Vakıflar Bankası Türk Anonim Ortaklığı Kanununun 6 ncı maddesi ile 15 inci maddesinin birinci ve ikinci fıkraları aşağıdaki şekilde değiştirilmiştir.

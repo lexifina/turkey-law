@@ -1,5 +1,5 @@
 Hâkimin reddi istemine karar verecek mahkeme
-MADDE 27.- (1) Hâkimin reddi istemine mensup olduğu mahkemece karar verilir. Ancak, reddi istenen hâkim müzakereye katılamaz. Bu nedenle mahkeme teşekkül edemezse bu hususta karar verilmesi;
+Madde 27 – (1) Hâkimin reddi istemine mensup olduğu mahkemece karar verilir. Ancak, reddi istenen hâkim müzakereye katılamaz. Bu nedenle mahkeme teşekkül edemezse bu hususta karar verilmesi;
 a) Reddi istenen hâkim asliye ceza mahkemesine mensup ise bu mahkemenin yargı çevresi içerisinde bulunan ağır ceza mahkemesine,
 b) Reddi istenen hâkim ağır ceza mahkemesine mensup ise o yerde ağır ceza mahkemesinin birden fazla dairesinin bulunması hâlinde, numara olarak kendisini izleyen daireye, son numaralı daire için (1) numaralı daireye; o yerde ağır ceza mahkemesinin tek dairesi bulunması hâlinde ise, en yakın ağır ceza mahkemesine,
 Aittir.

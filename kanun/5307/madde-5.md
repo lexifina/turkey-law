@@ -1,12 +1,13 @@
 ÜÇÜNCÜ BÖLÜM
 Lisans Türleri ve Faaliyetlerin Düzenlenmesi
 Üretim ve dağıtım
-MADDE 5 —Rafineriler, 4.12.2003 tarihli ve 5015 sayılı Petrol Piyasası Kanunu kapsamında alacakları rafinerici lisansı çerçevesinde LPG üretimi yaparlar. Ancak dağıtıcı lisansı sahipleri LPG dağıtım hakkına sahip olur.
+Madde 5- Rafineriler, 4.12.2003 tarihli ve 5015 sayılı Petrol Piyasası Kanunu kapsamında alacakları rafinerici lisansı çerçevesinde LPG üretimi yaparlar. Ancak dağıtıcı lisansı sahipleri LPG dağıtım hakkına sahip olur.
 Dağıtıcı lisansı sahipleri, kendi mülkiyetlerindeki veya sözleşmelerle oluşturacakları bayilerinin istasyonlarına otogaz LPG dağıtımı, kullanıcılara dökme LPG satış ve ikmali, tüplü LPG dağıtım ve pazarlaması, taşıma, dolum ve depolama faaliyetlerinde bulunabilirler. Dağıtıcılar, otogaz faaliyetine başlayabilmek için öncelikle bu Kanun ile istenen kriterleri sağlayarak tüplü LPG faaliyetini başlatmak ve en az bir dolum tesisini işletmeye almak zorundadır. Dağıtıcılar, başka LPG dağıtıcılarının bayilerine dağıtım yapamazlar.
 Akaryakıt dağıtıcı lisansı sahipleri, bu Kanuna göre alacakları lisans kapsamında, LPG piyasa faaliyetlerinde bulunabilirler. Aynı şekilde LPG dağıtıcı lisansı sahipleri, 5015 sayılı Petrol Piyasası Kanununa göre alacakları lisanslar kapsamında, petrol piyasası faaliyetlerinde bulunabilirler.
 Dağıtıcıların, teknik düzenlemelere uygun depolama, dolum tesisi ve LPG tüplerine sahip olması zorunludur. Dağıtıcılar, ikmal ettikleri günlük ortalama LPG miktarının en az yirmi katını depolarında bulundurmak zorundadır. Tüplü LPG’nin kullanıcılara teslimi, dağıtıcılar ve bunların tüplü LPG bayileri vasıtasıyla yapılır.
 Dağıtıcılar, yıllık pazarlama projeksiyonları yapmak ve ayrıntıları ile birlikte her yıl şubat ayı içinde Kuruma vermekle yükümlüdür. Dağıtıcılar her yıl, üçer aylık dönemlerde projeksiyonlarının gerçekleşme değerlemesini yaparak ocak, nisan, temmuz ve ekim aylarında Kuruma verir ve projeksiyonlarında oluşan yüzde ondan fazla artış ve eksilişleri açıklarlar.
 Dağıtıcılar, 2 nci maddenin birinci fıkrasının (n) ve (o) bentlerinde belirtilen şekilde sözleşme ile bayilikler oluşturur. Bayilik süresi bitiminden üç ay öncesinde bayiliğin devamı için sözleşme yenilenmez ise sürenin bitimine kadar dağıtıcı, bayinin ikmal ihtiyacını karşılar. Süre bitiminde bayi, sözleşme yaptığı yeni dağıtıcının ürünlerini pazarladığı anlaşılacak şekilde faaliyetine devam eder ve en geç bir ay içinde eski dağıtım şirketi ile ilgili tüm belirtileri kaldırır. Tüplü LPG bayileri dağıtıcı işaretlerini sözleşme bitiminde kaldırır.
+9318
 Dağıtıcıların yurt içi pazar payı, toplam yurt içi pazarın yüzde kırkbeşini geçemez. Dağıtıcı, otogaz LPG faaliyetinde bulunuyorsa kendi işlettiği istasyonlara sübvansiyon ve bayi istasyonlarından farklı uygulama yapamaz. Dağıtıcı, bir adet LPG dolum ve depolama tesisine sahip ise sadece tesislerinin bulunduğu il ile komşu illerde otogaz dağıtım faaliyeti yapabilir.
 Dağıtıcılar, tescilli markası altında yapılan faaliyetlere ilişkin kalite kontrol ve kalite temin faaliyetlerinin etkin biçimde yönetimini sağlamak, bayilerini ve bayilik iptallerini gerekçeleriyle birlikte Kuruma bildirmekle yükümlüdür. LPG dağıtımı için kurulacak tesis ve ekipmanlar ile taşıma araçlarına ilişkin teknik özellikler, piyasa faaliyeti ile ilgili servis hizmetleri ve güvenlik, LPG satış yeri, çevre ve benzeri kriterler Kurum tarafından çıkarılacak yönetmeliklerle belirlenir.
 a) Dağıtıcılar otogaz LPG faaliyeti yaparken;
@@ -26,6 +27,7 @@ b) Dağıtıcılar dökme LPG faaliyeti yaparken;
 7) Kullanıcıların arıza, kontrol ve bakım taleplerini zamanında yerine getirmek üzere gerekli tedbirleri almak,
 İle yükümlüdür.
 c) Dağıtıcılar tüplü LPG faaliyeti yaparken;
+9319
 1) Gerekli ruhsatları haiz teknik düzenlemelere uygun tesisler kurmak ve işletme faaliyetlerinde bulunmak, tesisleri ve yürütülen faaliyetleri ile ilgili olarak bir risk değerlendirmesi yaparak gerçekleşmesi halinde işyerinin tamamını ve çevreyi olumsuz etkileyebilecek durumları tespit ederek yapılacak eylemleri, uyulacak kuralları ve alınması gerekli tedbirleri belirleyen bir acil müdahale plânı hazırlamak ve bu plânı bulunduğu yerin en büyük mülkî amirine bildirmek,
 2) Dolum tesislerinde sadece kendi tescilli markası ve amblemini taşıyan LPG tüplerinin dolumunu yapmak, dolum anlaşması olan firmaların tüplerini anlaşma şartları uyarınca doldurmak,
 3) Bayilerinin tüplü LPG ihtiyaçlarını zamanında ve aksatmadan karşılamak için gerekli her türlü tedbiri almak,

@@ -1,9 +1,10 @@
 Neticesi sebebiyle ağırlaşmış işkence
-MADDE 95. - (1) İşkence fiilleri, mağdurun;
+Madde 95- (1) İşkence fiilleri, mağdurun;
 a) Duyularından veya organlarından birinin işlevinin sürekli zayıflamasına,
 b) Konuşmasında sürekli zorluğa,
 c) Yüzünde sabit ize,
 d) Yaşamını tehlikeye sokan bir duruma,
+8992
 e) Gebe bir kadına karşı işlenip de çocuğunun vaktinden önce doğmasına,
 Neden olmuşsa, yukarıdaki maddeye göre belirlenen ceza, yarı oranında artırılır.
 (2) İşkence fiilleri, mağdurun;
@@ -13,5 +14,5 @@ c) Konuşma ya da çocuk yapma yeteneklerinin kaybolmasına,
 d) Yüzünün sürekli değişikliğine,
 e) Gebe bir kadına karşı işlenip de çocuğunun düşmesine,
 Neden olmuşsa, yukarıdaki maddeye göre belirlenen ceza, bir kat artırılır.
-(3) İşkence fiillerinin vücutta kemik kırılmasına neden olması hâlinde, kırığın hayat fonksiyonlarındaki etkisine göre sekiz yıldan onbeş yıla kadar hapis cezasına hükmolunur.
+(3) İşkence fiillerinin vücutta kemik kırılmasına neden olması halinde, kırığın hayat fonksiyonlarındaki etkisine göre sekiz yıldan onbeş yıla kadar hapis cezasına hükmolunur.
 (4) İşkence sonucunda ölüm meydana gelmişse, ağırlaştırılmış müebbet hapis cezasına hükmolunur.

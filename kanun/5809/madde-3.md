@@ -13,6 +13,7 @@ h) Elektronik haberleşme: Elektriksel işaretlere dönüştürülebilen her tü
 ı) Elektronik haberleşme alt yapısı: Elektronik haberleşmenin, üzerinden veya aracılığıyla gerçekleştirildiği anahtarlama ekipmanları, donanım ve yazılımlar, terminaller ve hatlar da dahil olmak üzere her türlü şebeke birimlerini, ilgili tesisleri ve bunların bütünleyici parçalarını,
 i) Elektronik haberleşme alt yapısı işletimi: İlgili alt yapıya ilişkin gerekli elektronik haberleşme tesislerinin kurulması, kurdurulması, kiralanması veya herhangi bir surette temin edilmesiyle bu tesisin diğer işletmecilerin veya talep eden gerçek veya tüzel kişilerin kullanımına sunulmasını,
 j) Elektronik haberleşme hizmeti: Elektronik haberleşme tanımına giren faaliyetlerin bir kısmının veya tamamının hizmet olarak sunulmasını,
+10379
 k) Elektronik haberleşme şebekesi: Bir veya daha fazla nokta arasında elektronik haberleşmeyi sağlamak için bu noktalar arası bağlantıyı teşkil eden anahtarlama ekipmanları ve hatlar da dahil olmak üzere her türlü iletim sistemleri ağını,
 l) Elektronik haberleşme sektörü: Elektronik haberleşme hizmeti verilmesi, elektronik haberleşme şebekesi sağlanması, elektronik haberleşme cihaz ve sistemlerine yönelik üretim, ithal, satış ve bakım-onarım hizmetlerinin yürütülmesi ile ilgili sektörü,
 m) Elektronik haberleşme şebekesi sağlanması: Elektronik haberleşme şebekesi kurulması, işletilmesi, kullanıma sunulması ve kontrolünü,
@@ -29,6 +30,7 @@ u) İlgili pazar: Ülkenin tümünde veya bir bölümünde sunulmakta olan belir
 v) İnternet alan adı: İnternet üzerinde bulunan bilgisayar veya internet sitelerinin adresini belirlemek için kullanılan internet protokol numarasını tanımlayan adları,
 y) İnternet alan adı sistemi: Okunması ve akılda tutulması kolay olan ve genelde aranan adres sahipleri ile ilişkilendirilebilen simgesel isimlerle yapılan adreslemede, karşılığı olan internet protokolü numarasını bulan ve kullanıcıya veren sistemi,
 z) İşletmeci: Yetkilendirme çerçevesinde elektronik haberleşme hizmeti sunan ve/veya elektronik haberleşme şebekesi sağlayan ve alt yapısını işleten şirketi,
+10380
 aa) İşletmeci numara taşınabilirliği: Abonenin numarasını değiştirmeden hizmet aldığı işletmeciyi değiştirmesini,
 bb) Koşullu erişim sistemi: Radyo ve televizyon yayın sistemlerine abonelik veya başka bir yöntemle önceden izin verilmesi yoluyla koşullu olarak erişimi sağlayan her türlü teknik tedbir ve düzenlemeyi,
 cc) Kullanıcı: Aboneliği olup olmamasına bakılmaksızın elektronik haberleşme hizmetlerinden yararlanan gerçek veya tüzel kişiyi,
@@ -46,6 +48,7 @@ kk) Spektrum: Elektronik haberleşme amacıyla kullanılan, frekansı 9 kHz-3000
 ll) Standart: Üzerinde mutabakat sağlanmış olan, kabul edilmiş bir kuruluş tarafından onaylanan, mevcut şartlar altında en uygun seviyede bir düzen kurulmasını amaçlayan, ortak ve tekrar eden kullanımlar için ürünün özellikleri, işleme ve üretim yöntemleri, bunlarla ilgili terminoloji, sembol, ambalajlama, işaretleme, etiketleme ve uygunluk değerlendirmesi işlemleri hususlarından biri veya birkaçını belirten ve bu kapsamda uyulması ihtiyari olan düzenlemeyi,
 mm) Şebeke sonlanma noktası: Elektronik haberleşme şebekesinde aboneye erişimin sağlandığı fiziksel noktayı, anahtarlama veya yönlendirme ihtiva eden şebekelerde ise abone numarası veya ismi ile ilişkilendirilebilen özel bir şebeke adresiyle tanımlanan noktayı,
 nn) Tarife: İşletmecilerin, elektronik haberleşme hizmetinin sunulması karşılığında kullanıcılardan farklı adlar altında alabilecekleri ücretleri içeren cetveli,
+10381
 oo) Taşıyıcı: Bir çağrının başlatılması, sonlandırılması veya taşınması hizmetlerinin tümünü veya bir kısmını sunan işletmeciyi,
 öö) Taşıyıcı ön seçimi: Taşıyıcının, taşıyıcı seçim kodu çevrilmeksizin seçilmesine imkan sağlayacak şekilde önceden seçilmesi yöntemini,
 pp) Taşıyıcı seçimi: Taşıyıcının, taşıyıcı seçim kodu çevrilmesi suretiyle seçilmesi yöntemini,
@@ -62,3 +65,4 @@ aaa) Üretici: Elektronik haberleşme cihazı imal eden, ıslah eden veya cihaza
 bbb) Yerel ağ: Sabit elektronik haberleşme şebekesinde abone tarafındaki şebeke sonlanma noktasını, abonenin bağlı bulunduğu ana dağıtım çatısına veya eşdeğer tesise bağlayan fiziksel devreyi,
 ccc) Yetkilendirme: Elektronik haberleşme hizmetlerinin sunulması ve/veya elektronik haberleşme şebekesi sağlanmasını teminen şirketlerin, Kurum nezdinde kayıtlanmasını veya kayıtlanmasıyla birlikte bu şirketlere elektronik haberleşme hizmetlerine özel, belirli hak ve yükümlülükler verilmesini,
 ifade eder.
+10382

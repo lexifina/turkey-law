@@ -1,14 +1,12 @@
 Tanımlar
-MADDE 6. - (1) Ceza kanunlarının uygulanmasında;
+Madde 6- (1) Ceza kanunlarının uygulanmasında;
 a) Vatandaş deyiminden; fiili işlediği sırada Türk vatandaşı olan kişi,
 b) Çocuk deyiminden; henüz onsekiz yaşını doldurmamış kişi,
-_________________
-(1) Bu Kanunun yürürlük ve uygulama şekli ve 765 sayılı Türk Ceza Kanununa çeşitli mevzuatta yapılan atıflarla ilgili olarak 4/11/2004 tarihli ve 5252 sayılı Kanuna bakınız.
 c) Kamu görevlisi deyiminden; kamusal faaliyetin yürütülmesine atama veya seçilme yoluyla ya da herhangi bir surette sürekli, süreli veya geçici olarak katılan kişi,
-d) Yargı görevi yapan deyiminden; yüksek mahkemeler ve adlî, idarî ve askerî mahkemeler üye ve hâkimleri ile Cumhuriyet savcısı ve avukatlar,
+d) Yargı görevi yapan deyiminden; yüksek mahkemeler ve adlî, idarî ve askerî mahkemeler üye ve hakimleri ile Cumhuriyet savcısı ve avukatlar,
 e) Gece vakti deyiminden; güneşin batmasından bir saat sonra başlayan ve doğmasından bir saat evvele kadar devam eden zaman süresi,
-f) Silâh deyiminden;
-1. Ateşli silâhlar,
+f) Silah deyiminden;
+1. Ateşli silahlar,
 2. Patlayıcı maddeler,
 3. Saldırı ve savunmada kullanılmak üzere yapılmış her türlü kesici, delici veya bereleyici alet,
 4. Saldırı ve savunma amacıyla yapılmış olmasa bile fiilen saldırı ve savunmada kullanılmaya elverişli diğer şeyler,

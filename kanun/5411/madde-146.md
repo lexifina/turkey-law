@@ -3,7 +3,7 @@ Yaptırımlar, Soruşturma ve Kovuşturma Hükümleri
 BİRİNCİ BÖLÜM
 İdarî Para Cezaları
 Kuruluşlara ilişkin idarî para cezaları
-MADDE 146 — Kurul kararıyla ve gerekçesi belirtilmek suretiyle, bu Kanun kapsamındaki kuruluşlara, bu Kanunun;
+Madde 146 — Kurul kararıyla ve gerekçesi belirtilmek suretiyle, bu Kanun kapsamındaki kuruluşlara, bu Kanunun;
 a) 13 üncü ve 14 üncü maddelerine aykırı şekilde şube ve temsilcilik açılması hâlinde, onbeşbin Yeni Türk Lirasından ellibin Yeni Türk Lirasına kadar,
 b) 18 inci maddesinin ikinci ve dördüncü fıkraları hükümlerine aykırılık hâlinde, beşbin Yeni Türk Lirasından onbeşbin Yeni Türk Lirasına kadar,
 c) 25 inci maddesine aykırı şekilde atama yapılması veya 26 ncı maddesinde belirtilen kişilerin yasaklanan görevlerde çalıştırılması hâlinde, onbin Yeni Türk Lirasından kırkbin Yeni Türk Lirasına kadar ve cezanın tebliğ tarihinden itibaren on iş günü içinde aykırılığın giderilmemesi hâlinde, bu sürenin bitiminden itibaren geçen her gün için verilmiş olan cezanın yüzde onu tutarında,
@@ -13,6 +13,7 @@ f) 43 üncü maddede öngörülen bildirimlerin yapılmaması hâlinde beşbin Y
 g) 50 nci maddesindeki kredi yasaklarına uyulmaması hâlinde beşbin Yeni Türk Lirasından az olmamak üzere verilen kredinin yüzde beşi tutarına kadar,
 h) 52 nci maddesine aykırı davranılması hâlinde, beşbin Yeni Türk Lirasından onbin Yeni Türk Lirasına kadar,
 i) 53 üncü maddesine göre ayrılması gereken karşılıkların tesis edilmemesi hâlinde, beşbin Yeni Türk Lirasından az olmamak üzere, ayrılması gereken karşılık tutarının binde ikisine kadar; üç aydan az olmamak üzere Kurumca verilecek süre içinde aykırılığın giderilmemesi hâlinde ise, tesis edilmeyen karşılık tutarının yüzde üçü tutarında,
+9602
 j) 54 üncü maddesindeki kredi sınırlarına uyulmaması hâlinde, ellibin Yeni Türk Lirasından az olmamak üzere aykırılık oluşturan tutarın yüzde birine kadar,
 k) 56 ncı maddesine aykırı şekilde ortaklık payı edinilmesi hâlinde, yirmibin Yeni Türk Lirasından az olmamak üzere, aykırılık teşkil eden tutarın yüzde beşine kadar ve cezanın tebliğ tarihinden itibaren bir yıl içinde aykırılığın giderilmemesi durumunda ise bu sürenin bitiminden itibaren aykırılığın giderildiği tarihe kadar geçen her gün için verilen cezanın yüzde biri tutarında,
 l) 57 nci maddesindeki yasaklama ve sınırlamalara aykırılık hâlinde, yirmibin Yeni Türk Lirasından az olmamak üzere, yasaklama ve sınırlama konusu değerin yüzde onuna kadar ve cezanın tebliğ tarihinden itibaren bir yıl içinde aykırılığın giderilmemesi durumunda ise, kredi kullandırımından kaynaklanan aykırılık hariç, bu sürenin bitiminden itibaren aykırılığın giderildiği tarihe kadar geçen her gün için verilen cezanın yüzde biri tutarında,

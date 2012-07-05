@@ -1,5 +1,6 @@
 Yürütme
-MADDE 171 — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Madde 171 — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+9614
 (I) SAYILI CETVEL
 KURUMU: BANKACILIK DÜZENLEME VE DENETLEME KURUMU
 SINIF UNVAN DERECE ADET
@@ -44,6 +45,7 @@ GİH Bankalar Yeminli Murakıbı 4 30
 GİH Bankacılık Uzmanı 4 10
 GİH Kurum Uzmanı 4 7
 GİH Avukat (Kurum Uzmanı) 4 1
+9615
 AH Avukat 4 1
 TH Mühendis 4 1
 GİH Uzman 4 3
@@ -89,6 +91,7 @@ AH Avukat 7 1
 GİH Mütercim-Tercüman 7 4
 SH Doktor 7 1
 GİH Şef 7 2
+9616
 GİH Kütüphaneci 7 1
 GİH Memur 7 1
 GİH Sekreter 7 10
@@ -123,6 +126,7 @@ GİH Memur 13 2
 YH Dağıtıcı 13 3
 YH Hizmetli 13 4
 GENEL TOPLAM 851
+9617
 (II) SAYILI CETVEL
 KURUMU: TASARRUF MEVDUATI SİGORTA FONU
 SINIFI UNVANI DERECESİ ADET
@@ -161,8 +165,11 @@ GİH Uzman 7 40
 GİH Uzman Yardımcısı 8 40
 GİH Uzman Yardımcısı 9 13
 GENEL TOPLAM 415
+9618
 (III) SAYILI CETVEL
 KURUMU: TASARRUF MEVDUATI SİGORTA FONU
 POZİSYON UNVANI ADEDİ
 İdarî Personel 120
 Destek Personeli 35
+TOPLAM 155
+9618-1

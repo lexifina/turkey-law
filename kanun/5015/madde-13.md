@@ -1,5 +1,5 @@
 Eşgüdüm
-MADDE 13 - Piyasayı doğrudan veya dolaylı olarak ilgilendiren konularda yetkili kılınan diğer mercilerce yapılacak her türlü düzenleme çalışması öncesi(vergi, resim ve harçlara ilişkin düzenlemeler hariç), Kurumun haberdar edilmesi ve çalışmalara iştirakinin sağlanması esastır.
+Madde 13- Piyasayı doğrudan veya dolaylı olarak ilgilendiren konularda yetkili kılınan diğer mercilerce yapılacak her türlü düzenleme çalışması öncesi(vergi, resim ve harçlara ilişkin düzenlemeler hariç), Kurumun haberdar edilmesi ve çalışmalara iştirakinin sağlanması esastır.
 Petrol piyasası faaliyetleri ile ilgili olarak Türk Standardları Enstitüsü tarafından yapılacak standard hazırlık çalışmalarında Kurum temsilcisi de bulunur. Piyasa faaliyetlerine ilişkin Türk standardları Kurul onayı ile mecburî hale getirilebilir.
 Kurum;
 a) Lisanslı tesisler açısından büyük tehlikeler doğurabilecek hallerde,

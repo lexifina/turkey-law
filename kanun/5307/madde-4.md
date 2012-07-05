@@ -1,5 +1,5 @@
 Lisans sahiplerinin hak ve yükümlülükleri
-MADDE 4 —Lisans, sahibine lisansta yer alan faaliyetin yapılması ile bu konularda taahhütlere girişilmesi haklarını verir.
+Madde 4- Lisans, sahibine lisansta yer alan faaliyetin yapılması ile bu konularda taahhütlere girişilmesi haklarını verir.
 Lisans ile tanınan haklar; bu Kanunun, ilgili diğer mevzuatın ve lisansta yer alan hususların yerine getirilmesi koşuluyla kullanılır.
 Piyasa faaliyetinde bulunanlar, kötüniyet veya tehlikeli eylem sonucunu doğuracak her türlü işlemden özenle kaçınmak, bunların oluşumunun engellenmesi için her türlü tedbiri almak ve istenmeyen durumları en kısa sürede gidermek zorundadır.
 Bu Kanuna göre faaliyette bulunanlar;
@@ -11,6 +11,7 @@ d) Faaliyetleri esnasında üçüncü kişilere veya çevreye verilecek zarar ve
 e) 12 nci maddenin birinci fıkrasına göre Kurumca belirlenen usûl ve esaslara uygun bildirimleri yapmak,
 f) 5 inci maddedeki hükümleri yerine getirmek ve Kurumca istendiğinde 12 nci maddenin üçüncü fıkrasına göre gerekli bilgi, belge ve numuneleri vermek, tutanakları imzalamak ve görevlilerin tesislerde inceleme yapmasına müsaade etmek,
 g) Esas faaliyetlerine ilişkin tip sözleşme örneklerini ve bunlarda yapılacak değişiklikleri yürürlüğe koymadan önce Kuruma bildirmek,
+9317
 ğ) Piyasa faaliyetlerinde, teknik düzenlemelere uygun LPG sağlamak,
 h) Dolum tesislerinde ve otogaz istasyonlarında sorumlu müdür bulundurmak,
 ı) Aslî faaliyetlerinde eğitim ve sertifika almış personel çalıştırmak,

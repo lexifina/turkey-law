@@ -1,7 +1,7 @@
 BEŞİNCİ KISIM
 Mevduata ve Katılım Fonu Toplamaya İlişkin Hükümler
 Mevduat ve katılım fonu kabulü
-MADDE 60 — Kredi kuruluşları ile özel kanunlarına göre yetkili olanlar dışında hiçbir gerçek veya tüzel kişi, aslen veya fer'an meslek edinerek mevduat veya katılım fonu kabul edemez, ticaret unvanları ve kamuya yapacakları açıklamalar ile ilân ve reklamlarında bu izlenimi yaratacak ifade ve deyimleri kullanamaz.
+Madde 60 — Kredi kuruluşları ile özel kanunlarına göre yetkili olanlar dışında hiçbir gerçek veya tüzel kişi, aslen veya fer'an meslek edinerek mevduat veya katılım fonu kabul edemez, ticaret unvanları ve kamuya yapacakları açıklamalar ile ilân ve reklamlarında bu izlenimi yaratacak ifade ve deyimleri kullanamaz.
 Karşılığında hesap cüzdanı yerine makbuz, katılma belgesi, senet ve benzeri belgelerin verilmesi, alınan paraların mevduat veya katılım fonu kabulü sayılmasına engel değildir.
 Resmî ve özel kuruluşlar ile ortaklıklarda, yalnız çalışanlarına ait olmak üzere sağlık ve sosyal yardım, emeklilik, ihtiyat ve tasarruf sağlama amaçlarıyla kurulan sandık ve vakıfların münhasıran kendi üyelerinden bu amaçlar için topladıkları paralar ile sigorta şirketlerinin işlemleri bu Kanun uygulamasında mevduat ve katılım fonu kabulü sayılmaz.
 Kalkınma ve yatırım bankalarının kendi müstakrizlerinden, ortak ve ortaklıklarından genel esaslar dâhilinde sağladıkları fonlar ile bankalardan, para piyasaları, sermaye piyasaları ve organize piyasalardan sağlayacakları fonlar bu Kanun uygulamasında mevduat sayılmaz.

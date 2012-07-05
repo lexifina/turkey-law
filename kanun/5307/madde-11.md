@@ -1,5 +1,6 @@
 Eşgüdüm
-MADDE 11 —Piyasayı doğrudan veya dolaylı olarak ilgilendiren konularda yetkili kılınan diğer mercilerce yapılacak her türlü düzenleme çalışması öncesi (vergi, resim ve harçlara ilişkin düzenlemeler hariç) Kurumun haberdar edilmesi ve çalışmalara iştirakinin sağlanması esastır.
+Madde 11- Piyasayı doğrudan veya dolaylı olarak ilgilendiren konularda yetkili kılınan diğer mercilerce yapılacak her türlü düzenleme çalışması öncesi (vergi, resim ve harçlara ilişkin düzenlemeler hariç) Kurumun haberdar edilmesi ve çalışmalara iştirakinin sağlanması esastır.
+9322
 LPG piyasası faaliyetleri ile ilgili olarak Türk Standartları Enstitüsü tarafından yapılacak standart hazırlık çalışmalarında Kurum temsilcisi de bulunur. Piyasa faaliyetlerine ilişkin Türk standartları, Kurul onayı ile mecburi hale getirilebilir.
 Kurum;
 a) Lisanslı tesisler açısından tehlikeli eylem ve kötüniyetin oluşması halinde,

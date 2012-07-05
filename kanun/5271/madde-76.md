@@ -1,5 +1,5 @@
-Diğer kişilerin beden muayenesi ve vücuttan örnek alınması(1)
-MADDE 76. — (Değişik:25/5/2005-5353/3 md.)
+Diğer kişilerin beden muayenesi ve vücuttan örnek alınması (1)
+Madde 76 – (Değişik: 25/5/2005 – 5353/3 md.)
 (1) Bir suça ilişkin delil elde etmek amacıyla, mağdurun vücudu üzerinde dış veya iç beden muayenesi yapılabilmesine veya vücudundan kan veya benzeri biyolojik örneklerle saç, tükürük, tırnak gibi örnekler alınabilmesine; sağlığını tehlikeye düşürmemek ve cerrahî bir müdahalede bulunmamak koşuluyla; Cumhuriyet savcısının istemiyle ya da re'sen hâkim veya mahkeme, gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısı tarafından karar verilebilir. Cumhuriyet savcısının kararı, yirmidört saat içinde hâkim veya mahkemenin onayına sunulur. Hâkim veya mahkeme, yirmidört saat içinde kararını verir. Onaylanmayan kararlar hükümsüz kalır ve elde edilen deliller kullanılamaz.
 (2) Mağdurun rızasının varlığı halinde, bu işlemlerin yapılabilmesi için birinci fıkra hükmüne göre karar alınmasına gerek yoktur.
 (3) Çocuğun soy bağının araştırılmasına gerek duyulması halinde; bu araştırmanın yapılabilmesi için birinci fıkra hükmüne göre karar alınması gerekir.

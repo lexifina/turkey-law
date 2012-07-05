@@ -1,5 +1,5 @@
 ALTINCI KISIM
 Denetim ve Alınacak Önlemler
 Denetim
-MADDE 65 — Bu Kanun kapsamındaki kuruluşlar ve bunların faaliyetleri, Kurumun denetim ve gözetimine tâbidir.
+Madde 65. — Bu Kanun kapsamındaki kuruluşlar ve bunların faaliyetleri, Kurumun denetim ve gözetimine tâbidir.
 Kurum, bankaların genel kurul toplantılarına gözlemci sıfatıyla temsilci gönderebilir.

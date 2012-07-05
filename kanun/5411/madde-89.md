@@ -1,7 +1,7 @@
 ÜÇÜNCÜ BÖLÜM
 Başkanlık Teşkilatı
 Başkan
-MADDE 89 — Kurumun en üst yöneticisi olan Başkan, Kurumun genel yönetim ve temsilinden sorumludur.
+Madde 89 — Kurumun en üst yöneticisi olan Başkan, Kurumun genel yönetim ve temsilinden sorumludur.
 Başkanın görev ve yetkileri şunlardır:
 a) Kurul toplantılarının gündemini, gün ve saatini belirlemek, toplantıları idare etmek, gündeme alınmayan başvurular hakkında gerekli işlemleri yapmak ve bunlara ilişkin olarak Kurula bilgi vermek.
 b) Kurul kararlarının yayımlanmasını veya tebliğini sağlamak, bu kararların gereğinin yerine getirilmesini temin etmek ve uygulanmasını izlemek.

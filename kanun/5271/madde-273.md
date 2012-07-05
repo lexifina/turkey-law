@@ -1,6 +1,0 @@
-İstinaf istemi ve süresi
-MADDE 273. -(1) İstinaf istemi, hükmün açıklanmasından itibaren yedi gün içinde hükmü veren mahkemeye bir dilekçe verilmesi veya zabıt kâtibine bir beyanda bulunulması suretiyle yapılır; beyan tutanağa geçirilir ve tutanak hâkime onaylattırılır. Tutuklu sanık hakkında 263 üncü madde hükmü saklıdır.
-(2) Hüküm, istinaf yoluna başvurma hakkı olanların yokluğunda açıklanmışsa, süre tebliğ tarihinden başlar.
-(3) Asliye ceza mahkemelerinde bulunan Cumhuriyet savcıları, mahkemelerinin yargı çevresi içerisindeki sulh ceza mahkemelerinin; ağır ceza mahkemelerinde bulunan Cumhuriyet savcıları, mahkemelerinin yargı çevresi içerisindeki asliye ve sulh ceza mahkemelerinin hükümlerine karşı, kararın o yer Cumhuriyet Başsavcılığına geliş tarihinden itibaren yedi gün içinde istinaf yoluna başvurabilirler.
-(4) Sanık ve bu Kanuna göre katılan sıfatını almış olanlar ile katılma isteği karara bağlanmamış, reddedilmiş veya katılan sıfatını alabilecek surette suçtan zarar görmüş bulunanların dilekçe veya beyanında, başvuruya ilişkin nedenlerin gösterilmemesi inceleme yapılmasına engel olmaz.
-(5) Cumhuriyet savcısı, istinaf yoluna başvurma nedenlerini gerekçeleriyle birlikte yazılı isteminde açıkça gösterir. Bu istem ilgililere tebliğ edilir. İlgililer, tebliğ tarihinden itibaren yedi gün içinde bu husustaki cevaplarını bildirebilirler.

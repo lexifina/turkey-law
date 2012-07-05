@@ -1,10 +1,11 @@
 İnsanlığa karşı suçlar
-MADDE 77. - (1) Aşağıdaki fiillerin, siyasal, felsefî, ırkî veya dinî saiklerle toplumun bir kesimine karşı bir plân doğrultusunda sistemli olarak işlenmesi, insanlığa karşı suç oluşturur:
+Madde 77- (1) Aşağıdaki fiillerin, siyasal, felsefi, ırki veya dini saiklerle toplumun bir kesimine karşı bir plan doğrultusunda sistemli olarak işlenmesi, insanlığa karşı suç oluşturur:
 a) Kasten öldürme.
 b) Kasten yaralama.
 c) İşkence, eziyet veya köleleştirme.
 d) Kişi hürriyetinden yoksun kılma.
-e) Bilimsel deneylere tâbi kılma.
+8986
+e) Bilimsel deneylere tabi kılma.
 f) Cinsel saldırıda bulunma, çocukların cinsel istismarı.
 g) Zorla hamile bırakma.
 h) Zorla fuhşa sevketme.

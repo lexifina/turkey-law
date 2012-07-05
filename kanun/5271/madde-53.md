@@ -1,5 +1,5 @@
 Tanığa görevinin önemini anlatma
-MADDE 53. - (1) Tanığa;
+Madde 53 – (1) Tanığa;
 a) Dinlenmeden önce, gerçeği söylemesinin önemi,
 b) Gerçeği söylememesi halinde yalan tanıklık suçundan dolayı cezalandırılacağı,
 c) Doğruyu söyleyeceği hususunda yemin edeceği,

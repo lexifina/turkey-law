@@ -1,5 +1,5 @@
 Lisans sahiplerinin temel hak ve yükümlülükleri
-MADDE 4- Lisans, sahibine lisansta yer alan faaliyetin yapılması ile bu konularda taahhütlere girişilmesi haklarını verir.
+Madde 4- Lisans, sahibine lisansta yer alan faaliyetin yapılması ile bu konularda taahhütlere girişilmesi haklarını verir.
 Lisans ile tanınan haklar; bu Kanunun, ilgili diğer mevzuatın ve lisansta yer alan kayıtlı hususların yerine getirilmesi koşuluyla kullanılır.
 Piyasa faaliyetinde bulunanlar, kötüniyet veya tehlikeli eylem sonucunu doğuracak her türlü işlemden özenle kaçınmak, bunların oluşumunun engellenmesi için her türlü tedbiri almak ile istenmeyen durumları en kısa sürede gidermek zorundadır.
 Bu Kanuna göre faaliyette bulunanlar;
@@ -11,7 +11,7 @@ e) Faaliyetleri nedeniyle üçüncü kişilere veya çevreye verilecek zarar vey
 f) 14 üncü maddenin birinci fıkrasına göre Kurumca belirlenen usul ve esaslara uygun bildirimleri yapmak,
 g) Kurumca 14 üncü maddenin üçüncü fıkrasına göre istendiğinde, gerekli bilgi, belge ve numuneleri vermek, tutanakları imzalamak ile görevlilerin tesislerde inceleme yapmasına müsaade etmek,
 h) Esas faaliyetlerine ilişkin tip sözleşme örneklerini ve bunlarda yapılacak değişiklikleri yürürlüğe koymadan önce Kuruma bildirmek,
-ı)Piyasa faaliyetlerinde, Kurulun belirleyeceği teknik düzenlemelere uygun akaryakıt sağlamak,
-j)İletim ve depolamada kapasite kısıtları dışında kendilerinden yapılan talepleri ayrım gözetmeksizin karşılamak,
+ı) Piyasa faaliyetlerinde, Kurulun belirleyeceği teknik düzenlemelere uygun akaryakıt sağlamak,
+j) İletim ve depolamada kapasite kısıtları dışında kendilerinden yapılan talepleri ayrım gözetmeksizin karşılamak,
 k) Eşit durumdaki alıcılara (kategorilere), eşit hak ve yükümlülük tanımak, farklı şartlar sürmemek,
 İle yükümlüdür.

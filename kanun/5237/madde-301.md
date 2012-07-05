@@ -1,5 +1,6 @@
 Türk Milletini, Türkiye Cumhuriyeti Devletini, Devletin kurum ve organlarını aşağılama (1)
-MADDE 301. - (1) Türklüğü, Cumhuriyeti veya Türkiye Büyük Millet Meclisini alenen aşağılayan kişi, altı aydan üç yıla kadar hapis cezası ile cezalandırılır.
-(2) Türkiye Cumhuriyeti Hükûmetini, Devletin yargı organlarını, askerî veya emniyet teşkilatını alenen aşağılayan kişi, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
-(3) Türklüğü aşağılamanın yabancı bir ülkede bir Türk vatandaşı tarafından işlenmesi hâlinde, verilecek ceza üçte bir oranında artırılır.
-(4) Eleştiri amacıyla yapılan düşünce açıklamaları suç oluşturmaz.
+Madde 301- (Değişik: 30/4/2008-5759/1 md.)
+(1) Türk Milletini, Türkiye Cumhuriyeti Devletini, Türkiye Büyük Millet Meclisini, Türkiye Cumhuriyeti Hükümetini ve Devletin yargı organlarını alenen aşağılayan kişi, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
+(2) Devletin askerî veya emniyet teşkilatını alenen aşağılayan kişi, birinci fıkra hükmüne göre cezalandırılır.
+(3) Eleştiri amacıyla yapılan düşünce açıklamaları suç oluşturmaz.
+(4) Bu suçtan dolayı soruşturma yapılması, Adalet Bakanının iznine bağlıdır.

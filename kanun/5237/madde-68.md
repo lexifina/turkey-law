@@ -1,5 +1,5 @@
 Ceza zamanaşımı
-MADDE 68. - (1) Bu maddede yazılı cezalar aşağıdaki sürelerin geçmesiyle infaz edilmez:
+Madde 68- (1) Bu maddede yazılı cezalar aşağıdaki sürelerin geçmesiyle infaz edilmez:
 a) Ağırlaştırılmış müebbet hapis cezalarında kırk yıl.
 b) Müebbet hapis cezalarında otuz yıl.
 c) Yirmi yıl ve daha fazla süreli hapis cezalarında yirmidört yıl.

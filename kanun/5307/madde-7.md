@@ -1,9 +1,10 @@
 Otogaz bayileri
-MADDE 7 — Otogaz bayileri, dağıtıcılar ile yapacakları tek elden satış sözleşmesine göre bayilik faaliyetlerini yürütürler.
+Madde 7- Otogaz bayileri, dağıtıcılar ile yapacakları tek elden satış sözleşmesine göre bayilik faaliyetlerini yürütürler.
 Otogaz bayileri;
 1) Tek bir dağıtıcı ile sözleşme yapmak ve istasyonunda sadece sözleşmeli olduğu dağıtım şirketince ikmal edilen LPG’ yi satmak,
 2) Otogaz istasyonları için ilgili kamu kurum ve kuruluşlarından gerekli ruhsat, izin ve belgeleri almak,
 3) Otogaz istasyonlarında LPG ile çalışan araçlara otogaz LPG ikmali yapmak,
+9320
 4) Otogaz istasyonlarında LPG tüpü dolumu ve satışı yapmamak, LPG tüpü dolumuna yarayan hiçbir alet, makine ve teçhizatı istasyon dahilinde bulundurmamak,
 5) Anlaşma yaptıkları dağıtıcının tescilli markası ve amblemini istasyonunda görülebilecek bir yere koymak,
 6) İstasyonlarında sorumlu müdür çalıştırmak,

@@ -1,5 +1,5 @@
 Kullanmak için uyuşturucu veya uyarıcı madde satın almak, kabul etmek veya bulundurmak
-MADDE 191. - (Değişik: 6/12/2006 – 5560/7 md.)
+Madde 191- (Değişik: 6/12/2006 – 5560/7 md.)
 (1) Kullanmak için uyuşturucu veya uyarıcı madde satın alan, kabul eden veya bulunduran kişi, bir yıldan iki yıla kadar hapis cezası ile cezalandırılır.
 (2) Bu suçtan dolayı açılan davada mahkeme, birinci fıkraya göre hüküm vermeden önce uyuşturucu veya uyarıcı madde kullanan kişi hakkında, tedaviye ve denetimli serbestlik tedbirine; kullanmamakla birlikte, kullanmak için uyuşturucu veya uyarıcı madde satın alan, kabul eden veya bulunduran kişi hakkında, denetimli serbestlik tedbirine karar verebilir. (Ek cümle: 31/3/2011-6217/20 md.) Bu karar, durma kararının hukuki sonuçlarını doğurur.
 (3) Hakkında tedaviye ve denetimli serbestlik tedbirine karar verilen kişi, belirlenen kurumda uygulanan tedavinin ve denetimli serbestlik tedbirinin gereklerine uygun davranmakla yükümlüdür. Hakkında denetimli serbestlik tedbirine hükmedilen kişiye rehberlik edecek bir uzman görevlendirilir. Bu uzman, güvenlik tedbirinin uygulama süresince, kişiyi uyuşturucu veya uyarıcı maddenin kullanılmasının etki ve sonuçları hakkında bilgilendirir, kişiye sorumluluk bilincinin gelişmesine yönelik olarak öğütte bulunur ve yol gösterir; kişinin gelişimi ve davranışları hakkında üçer aylık sürelerle rapor düzenleyerek hâkime verir.
@@ -9,3 +9,4 @@ MADDE 191. - (Değişik: 6/12/2006 – 5560/7 md.)
 (7) Kişinin mahkûm olduğu ceza, tedavinin ve denetimli serbestlik tedbirinin gereklerine uygun davranması halinde, infaz edilmiş sayılır; aksi takdirde, derhal infaz edilir.
 ___________________________
 (1) 29/6/2005 tarihli ve 5377 sayılı Kanunun 23 üncü maddesiyle, bu maddenin ikinci fıkrası üçüncü fıkra, üçüncü fıkrası ise ikinci fıkra olarak değiştirilmiştir.
+9013

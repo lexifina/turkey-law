@@ -1,2 +1,2 @@
 Yabancı ülkede hüküm verilmesi
-MADDE 9. - (1) Türkiye'de işlediği suçtan dolayı yabancı ülkede hakkında hüküm verilmiş olan kimse, Türkiye'de yeniden yargılanır.
+Madde 9- (1) Türkiye'de işlediği suçtan dolayı yabancı ülkede hakkında hüküm verilmiş olan kimse, Türkiye'de yeniden yargılanır.

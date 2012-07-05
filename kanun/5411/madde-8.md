@@ -1,5 +1,5 @@
 Kurucularda aranan şartlar
-MADDE 8 — Bankaların kurucu ortaklarının;
+Madde 8 — Bankaların kurucu ortaklarının;
 a) 2004 sayılı İcra ve İflas Kanunu hükümlerine göre müflis olmaması, konkordato ilân etmiş olmaması, uzlaşma suretiyle yeniden yapılandırma başvurusunun tasdik edilmiş olmaması ya da hakkında iflasın ertelenmesi kararı verilmiş olmaması,
 b) Bu Kanunun 71 inci maddesi uygulanan bankalarda veya bu Kanunun yürürlüğe girmesinden önce Fona devredilmiş olan bankalarda nitelikli paya sahip olmaması veya kontrolü elinde bulundurmaması,
 c) Tasfiyeye tâbi tutulan bankerler ile iradî tasfiye haricinde tasfiyeye tâbi tutulan finansal kuruluşlarda, faaliyet izni kaldırılan kalkınma ve yatırım bankalarında, ortaklarının temettü hariç ortaklık hakları ile yönetim ve denetimi Fona intikal eden veya bankacılık yapma ve mevduat ve katılım fonu kabul etme izin ve yetkileri kaldırılan kredi kuruluşlarında, Fona intikalinden veya bankacılık yapma ve mevduat ve katılım fonu kabul etme izin ve yetkileri kaldırılmadan önce nitelikli paya sahip olmaması veya kontrolü elinde bulundurmaması,
@@ -8,5 +8,6 @@ e) Gerekli malî güç ve itibara sahip bulunması,
 f) İşin gerektirdiği dürüstlük ve yeterliliğe sahip olması,
 g) Tüzel kişi olması hâlinde, risk grubu ile birlikte ortaklık yapısının şeffaf ve açık olması,
 Şarttır.
+9542
 Bankaların tüzel kişi kurucu ortaklarının doğrudan veya dolaylı olarak nitelikli paya sahip gerçek kişi ortaklarının bu maddenin birinci fıkrasının (a), (b), (c), (d), (e) ve (f) bentlerinde yer alan şartları taşıması gerekir.
 Türkiye'nin taraf olduğu uluslararası anlaşmalarla kurulmuş çok taraflı kredi kuruluşları ve finansal kuruluşlar hakkında bu maddenin birinci fıkrasının (b) ve (c) bentleri uygulanmaz.

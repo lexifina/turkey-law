@@ -1,5 +1,6 @@
 Dava zamanaşımı süresinin durması veya kesilmesi
-MADDE 67. - (1) Soruşturma ve kovuşturma yapılmasının, izin veya karar alınması veya diğer bir mercide çözülmesi gereken bir meselenin sonucuna bağlı bulunduğu hâllerde; izin veya kararın alınmasına veya meselenin çözümüne veya kanun gereğince hakkında kaçak olduğu hususunda karar verilmiş olan suç faili hakkında bu karar kaldırılıncaya kadar dava zamanaşımı durur.
+Madde 67- (1) Soruşturma ve kovuşturma yapılmasının, izin veya karar alınması veya diğer bir mercide çözülmesi gereken bir meselenin sonucuna bağlı bulunduğu hallerde; izin veya kararın alınmasına veya meselenin çözümüne veya kanun gereğince hakkında kaçak olduğu hususunda karar verilmiş olan suç faili hakkında bu karar kaldırılıncaya kadar dava zamanaşımı durur.
+8983
 (2) Bir suçla ilgili olarak;
 a) Şüpheli veya sanıklardan birinin savcı huzurunda ifadesinin alınması veya sorguya çekilmesi,
 b) Şüpheli veya sanıklardan biri hakkında tutuklama kararının verilmesi,

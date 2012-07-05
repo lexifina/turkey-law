@@ -10,3 +10,4 @@ b) Kamu kurum ve kuruluşlarının münhasıran verdikleri hizmetler ile ilgili 
 elektronik haberleşme hizmeti ve/veya şebekesi veya altyapısı yetkilendirmeye tabi değildir.
 (3) Kurum bu şebeke veya altyapıların bu maddedeki esaslara uygunluğunu ve kullanılan teçhizatın standartlara uygunluğunu denetlemeye ve uygun olmayanların kaldırılmasını sağlamaya ve bu maddenin uygulanmasına ilişkin usul ve esasları düzenlemeye yetkilidir.
 (4) Radyo ve televizyon yayıncılığı ile ilgili Kanun hükümleri saklıdır.
+10387
