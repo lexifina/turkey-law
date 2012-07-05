@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6337",
+  "year": 2012,
+  "title": "Türk Akreditasyon Kurumu Kuruluş ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-07-05",
+  "gazette_issue": "28344",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120705-1.htm",
+  "source_sha256": "c2b1171f3662c38143e9fa5b08963ef64b6c3852b1c5b571e1fea22e0208c929",
+  "text_sha256": "34af487af041d322361ab6c25c8085869bec47b0a39723d8cdbcb43d6d781f01",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/07/05/28344-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120705-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
