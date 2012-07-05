@@ -1,0 +1,2 @@
+Ek Madde 1 – (Ek: 5/4/1990 - 3622/26 md.; Değişik : 8/6/2000 - 4577/9 md.)
+Bu Kanunun 17 nci maddesindeki parasal sınırlar; her takvim yılı başından geçerli olmak üzere, önceki yılda uygulanan parasal sınırların, o yıl için 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca Maliye Bakanlığınca her yıl tespit ve ilan edilen yeniden değerleme oranında artırılması suretiyle uygulanır. Bu şekilde belirlenen sınırların onmilyon lirayı aşmayan kısımları dikkate alınmaz.
