@@ -9,11 +9,13 @@ Değiştiren Kanunun/ Tebliğin/İptal Eden Anayasa Mahkemesinin Kararının Num
 5493 | Ek Madde 1 | 1/6/2006
 29/12/2006 tarihli ve 26391 sayılı R.G.’de yayımlanan Tebliğ | 19 | 1/1/2007
 5576 | 2, 7, Ek Madde 3, 4, 5 ve Geçici Madde 4 | 13/2/2007
-7/12/2007 tarihli ve 26723 sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2008
-5728 | 19, 20 | 8/2/2008
-5784 | 2, 9 | 26/7/2008
-5/12/2008 tarihli ve 27075 sayılı R.G.’de yayımlanan Tebliğ | 19 | 1/1/2009
-5911 | Ek Madde 3 | 7/10/2009
-5/12/2009 tarihli ve 27423 sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2010
-17/12/2010 tarihli ve 27788 sayılı R.G.’de yayımlanan Tebliğ | 19 | 1/1/2011
-23/12/2011 tarihli ve 28151 sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2012
+8658-4
+7/12/2007 tarihli ve 26723 sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2008 | 
+5728 | 19, 20 | 8/2/2008 | 
+5784 | 2, 9 | 26/7/2008 | 
+5/12/2008 tarihli ve 27075 sayılı R.G.’de yayımlanan Tebliğ | 19 | 1/1/2009 | 
+5911 | Ek Madde 3 | 7/10/2009 | 
+5/12/2009 tarihli ve 27423 sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2010 | 
+17/12/2010 tarihli ve 27788 sayılı R.G.’de yayımlanan Tebliğ | 19 | 1/1/2011 | 
+23/12/2011 tarihli ve 28151 sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2012 | 
+6352 | 19, 21 | 5/7/2012 | 
