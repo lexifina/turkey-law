@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-07-05",
+  "issue": "28344",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "6337 Türk Akreditasyon Kurumu Kuruluş ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120705-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120705.htm",
+  "index_sha256": "9bab559529e75455d2dcf9b428019b103813d52a75cf44edcb4dc7df7d76f18f",
+  "index_header": "5 Temmuz 2012 ... 28344 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
