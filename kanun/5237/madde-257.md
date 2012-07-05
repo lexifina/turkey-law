@@ -1,6 +1,4 @@
-Görevi kötüye kullanma(1)
-MADDE 257. - (1) Kanunda ayrıca suç olarak tanımlanan haller dışında, görevinin gereklerine aykırı hareket etmek suretiyle, kişilerin mağduriyetine veya kamunun zararına neden olan ya da kişilere haksız bir menfaat sağlayan kamu görevlisi, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
+Görevi kötüye kullanma (1)
+Madde 257- (1) Kanunda ayrıca suç olarak tanımlanan haller dışında, görevinin gereklerine aykırı hareket etmek suretiyle, kişilerin mağduriyetine veya kamunun zararına neden olan ya da kişilere haksız bir menfaat sağlayan kamu görevlisi, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
 (2) Kanunda ayrıca suç olarak tanımlanan haller dışında, görevinin gereklerini yapmakta ihmal veya gecikme göstererek, kişilerin mağduriyetine veya kamunun zararına neden olan ya da kişilere haksız bir menfaat sağlayan kamu görevlisi, üç aydan bir yıla kadar hapis cezası ile cezalandırılır.
-(3) İrtikap suçunu oluşturmadığı takdirde, görevinin gereklerine uygun davranması için veya bu nedenle kişilerden kendisine veya bir başkasına çıkar sağlayan kamu görevlisi, bir yıldan üç yıla kadar hapis ve beşbin güne kadar adli para cezası ile cezalandırılır.
-______________
-(1) 8/12/2010 tarihli ve 6086 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer alan “kazanç” ibareleri “menfaat”, birinci fıkrasında yer alan “bir yıldan üç yıla kadar” ibaresi “altı aydan iki yıla kadar”, ikinci fıkrasında yer alan “altı aydan iki yıla kadar” ibaresi “üç aydan bir yıla kadar” ve üçüncü fıkrasında yer alan “birinci fıkra hükmüne göre” ibaresi “bir yıldan üç yıla kadar hapis ve beşbin güne kadar adli para cezası ile” şeklinde değiştirilmiş ve metne işlenmiştir.
+(3) (Mülga: 2/7/2012-6352/105 md.)

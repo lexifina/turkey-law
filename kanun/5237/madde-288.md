@@ -1,3 +1,3 @@
 Adil yargılamayı etkilemeye teşebbüs
-MADDE 288. - (1) Bir olayla ilgili olarak başlatılan soruşturma veya kovuşturma kesin hükümle sonuçlanıncaya kadar savcı, hâkim, mahkeme, bilirkişi veya tanıkları etkilemek amacıyla alenen sözlü veya yazılı beyanda bulunan kişi, altı aydan üç yıla kadar hapis cezası ile cezalandırılır.
-(2) (Mülga: 29/6/2005 – 5377/32 md.)
+Madde 288- (Değişik: 2/7/2012-6352/93 md.)
+(1) Görülmekte olan bir davada veya yapılmakta olan bir soruşturmada, hukuka aykırı bir karar vermesi veya bir işlem tesis etmesi ya da gerçeğe aykırı beyanda bulunması için, yargı görevi yapanı, bilirkişiyi veya tanığı hukuka aykırı olarak etkilemek amacıyla alenen sözlü veya yazılı beyanda bulunan kişi, elli günden az olmamak üzere adli para cezası ile cezalandırılır.
