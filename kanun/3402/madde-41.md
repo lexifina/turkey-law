@@ -1,0 +1,4 @@
+Hataların düzeltilmesi: (1)
+Madde 41 – (Değişik birinci fıkra:22/2/2005 – 5304/9 md.) Kadastro sırasında veya sonrasında yapılan işlemlerle geometrik durumları kesinleşmiş olan taşınmazlarda ölçü, sınırlandırma, tersimat ve hesaplamalardan doğan hatalar, ilgilinin müracaatı veya kadastro müdürlüğünce re’sen düzeltilir. Düzeltme, taşınmaz malikleri ile diğer hak sahiplerine tebliğ olunur. Tebliğ tarihinden başlayan otuz gün içinde düzeltmenin kaldırılması yolunda sulh hukuk mahkemesinde dava açılmadığı takdirde, yapılan düzeltme kesinleşir. (2)
+(Değişik :22/2/2005 – 5304/9 md.) Kadastro sırasında veya sonrasında yapılan işlemlerle kesinleşmiş olan taşınmazlarda, değişiklik işlemleri sırasında ortaya çıkan yüzölçümü farklılıklarından, kadastronun dayandığı teknik kurallarda belirtilen hata sınırları içinde kalanların re’sen düzeltilmesine kadastro müdürlükleri yetkilidir. (2)
+Bu maddenin uygulanmasında, 12 nci maddede belirtilen hak düşürücü süre aranmaz.

@@ -1,0 +1,16 @@
+Kadastro çalışma alanı, ilan ve itiraz:
+Madde 4 – Kadastro bölgesindeki her köy ile belediye sınırları içinde bulunan mahallelerin her biri, kadastro çalışma alanını teşkil eder.
+Kadastro müdürü, kadastrosuna başlanacak mahalleyi veya köyü en az 15 gün önce bölge merkezi ile çalışma alanı ve komşu köy, mahalle ve belediyelerde alışılmış vasıtalarla duyurur. Bu duyuruda çalışma sınırlarının tespitine hangi gün ve saatte başlanacağı belirtilir.
+(Değişik üçüncü fıkra: 22/2/2005 – 5304/3 md.) Çalışma alanında orman bulunması ve 6831 sayılı Orman Kanununa göre orman kadastrosuna başlanılmamış olması halinde, orman kadastrosu ve bu ormanların içinde ve bitişiğinde her çeşit taşınmaz malların ormanlarla müşterek sınırlarının tayini ve tespiti kadastro ekibi tarafından yapılır. Ancak, bu çalışmalarda kadastro ekibine, Orman Genel Müdürlüğü taşra teşkilâtınca görevlendirilecek en az bir orman yüksek mühendisi veya orman mühendisi ile tarım müdürlüklerince görevlendirilecek bir ziraat yüksek mühendisi veya ziraat mühendisinin bildirimden itibaren yedi gün içerisinde iştirak ettirilmesi zorunludur. Bu çalışmalara muhtar ve bilirkişilerin katılmaması halinde çalışmalar re’sen devam ettirilir. (1)
+(Değişik : 22/2/2005 – 5304/3 md.) Ormanla ilgili yapılan itirazların incelenmesinde kadastro komisyonuna da itiraza konu tespitlerde görev almayan Orman Genel Müdürlüğü taşra teşkilâtınca görevlendirilecek bir orman yüksek mühendisi veya orman mühendisi ile tarım müdürlüklerince görevlendirilecek bir ziraat yüksek mühendisi veya ziraat mühendisi iştirak ettirilmesi zorunludur. (1)
+(Değişik: 22/2/2005 – 5304/3 md.)Çalışma alanındaki ormanların bu ekipçe sınırlandırma ve tespitleri yapılarak otuz günlük kısmî ilâna alınır. Bu alanlarda orman kadastrosu yapılmış sayılır. (1)
+(Değişik : 22/2/2005 – 5304/3 md.)Orman kadastrosu kesinleşmiş yerlerde bu sınırlara aynen uyulur. (1)
+Kadastro ekibi; kadastro çalışma alanı sınırının tespitinde il ve ilçelerin belediye sınırları ile köy sınırlarını dikkate alır. Bu sınırlar mahalle, belediye, köy idari sınırları sayılmaz.
+Sınır tespitlerinde; komşu mahalle veya köyün bilgi ve belgelerinden istifade edilir.
+Tespit edilen sınır harita veya ölçü krokisinde gösterilir.
+Kadastro teknisyenlerince tespit edilen sınıra yedi gün içerisinde kadastro müdürlüğü nezdinde itiraz edilebilir.
+Kadastro müdürü, bu itirazı inceleyerek yedi gün içerisinde karara bağlar. İlgililer hazırsa tefhim, değilse derhal tebliğ edilen bu karara karşı yedi gün içerisinde kadastro mahkemesine itiraz edilebilir. Bu itiraz, duruşmasız ve gerektiğinde mahallinde inceleme yapılarak, onbeş gün içinde kesin karara bağlanır. Ancak; tespit edilen bu sınıra karşı kesinleşmiş mahkeme kararı var ise aynı konuda itirazda bulunulamaz.
+––––––––––––––––––––
+(1) 22/2/2005 tarihli ve 5304 sayılı Kanunun 3 üncü maddesinde " 3402 sayılı Kanunun 4 üncü maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.” hükmü yer almaktadır, ancak değiştirilen üçüncü fıkra dört ayrı fıkra olarak düzenlenmiştir.
+6973
+Kadastro çalışma alanı içinde, ilk parsel için kadastro tutanağının düzenlenmesinden sonra idari teşkilat ve taksimatta yapılan değişiklik, başlanan kadastroyu durdurmaz.

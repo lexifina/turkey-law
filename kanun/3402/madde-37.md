@@ -1,0 +1,3 @@
+Döner sermaye teşkili:
+Madde 37 – (Mülga: 25/11/2010-6083/10 md.)
+6983
