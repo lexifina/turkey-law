@@ -1,0 +1,1 @@
+MADDE 82 – 5237 sayılı Kanunun 142 nci maddesinin birinci fıkrasının (f) bendi yürürlükten kaldırılmış, üçüncü fıkrasında yer alan “ikinci fıkraya göre cezaya” ibaresi “beş yıldan oniki yıla kadar hapis cezasına”, “onbeş yıla kadar hapis” ibaresi ise “ceza yarı oranında artırılır” şeklinde değiştirilmiştir.

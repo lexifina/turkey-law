@@ -1,0 +1,2 @@
+MADDE 28 – 2004 sayılı Kanunun 124 üncü maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
+“Şartnameye, artırmaya iştirak edeceklerin taşınmazın tahmin edilen kıymetinin yüzde yirmisi nispetinde pey akçesi veya milli bir bankanın teminat mektubunu tevdi etmeleri, elektronik ortamda teklif vererek artırmaya katılacakların teminat göstermeleri gerektiği ve elektronik ortamda teklif vermeye ilişkin hususlar yazılır.”

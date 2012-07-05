@@ -1,0 +1,4 @@
+MADDE 24 – 2004 sayılı Kanunun 114 üncü maddesinin üçüncü fıkrasına aşağıdaki cümle ve maddeye aşağıdaki fıkralar eklenmiştir.
+“Satış ilanı elektronik ortamda da yapılır.”
+“Açık artırmaya elektronik ortamda teklif verme yoluyla başlanır. Elektronik ortamda teklif verme, birinci ihale tarihinden on gün önce başlar, ihalenin tamamlanacağı günden önceki gün sonunda sona erer; ikinci ihalede ise elektronik ortamda teklif verme birinci ihaleden sonraki beşinci gün başlar, en az on gün sonrası için belirlenecek ikinci ihalenin tamamlanacağı günden önceki gün sonunda sona erer. Elektronik ortamda verilecek teklifler haczedilen malın tahmin edilen kıymetinin yüzde ellisinden az olamaz; teklif vermeden önce, haczedilen malın tahmin edilen kıymetinin yüzde yirmisi nispetinde teminat gösterilmesi zorunludur.
+Satışa çıkarılan taşınır üzerinde hakkı olan alacaklının alacağı yukarıdaki fıkrada yazılı oranda ise artırmaya iştiraki halinde ayrıca pey akçesi ve teminat aranmaz.”

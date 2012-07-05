@@ -1,0 +1,3 @@
+MADDE 47 – 2575 sayılı Kanunun 61 inci maddesinin (1) ve (3) numaralı fıkraları aşağıdaki şekilde değiştirilmiştir.
+“1. Savcılar, ilk derece mahkemesi sıfatıyla Danıştayda görülen dava dosyalarından kendilerine havale olunanları Başsavcı adına incelerler ve esas hakkındaki düşüncelerini, bir ay içinde gerekçeli ve yazılı olarak verirler. Bu süreler geçirilirse durumu sebepleriyle birlikte Başsavcıya bildirirler. Danıştay Başkanının ve Başsavcısının vereceği diğer görevleri yerine getirir; çalışma düzeninin korunması ve iş veriminin artırılması için Başsavcının alacağı tedbirlere uyarlar.”
+“3. Dava dairelerince gerekli görüldüğü takdirde, Danıştay savcıları, önceden haber verilmek suretiyle, düşüncelerini sözlü olarak da açıklarlar.”

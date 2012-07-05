@@ -1,0 +1,2 @@
+MADDE 18 – 2004 sayılı Kanunun 89 uncu maddesinin üçüncü fıkrasında yer alan “yüzde kırkından” ibaresi “yüzde yirmisinden” şeklinde, yedinci fıkrası ise aşağıdaki şekilde değiştirilmiştir.
+“Haciz ihbarnamesi, borçlunun hak ve alacaklarının bulunabileceği bir tüzel kişinin veya müessesenin şubesine veya tüm şubelerini kapsayacak şekilde merkezine tebliğ edilir. Haciz ihbarnamesinin tebliğ edildiği merkez, tüm şubeleri veya birimlerini kapsayacak şekilde beyanda bulunmakla yükümlüdür.”

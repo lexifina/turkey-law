@@ -1,0 +1,1 @@
+MADDE 51 – 6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanununun 3 üncü maddesinin (2) numaralı fıkrasının (a) bendinin sonuna “ile gerçek kişilere ait Türkiye Cumhuriyeti kimlik numarası,” ibaresi eklenmiştir.

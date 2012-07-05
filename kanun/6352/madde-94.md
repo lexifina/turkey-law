@@ -1,0 +1,1 @@
+MADDE 94 – 4/11/2004 tarihli ve 5252 sayılı Türk Ceza Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanunun 7 nci maddesinin dördüncü fıkrasında yer alan “Cumhuriyet savcısı” ibaresi “mülki amir” şeklinde değiştirilmiştir.

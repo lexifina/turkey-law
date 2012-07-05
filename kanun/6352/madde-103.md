@@ -1,0 +1,2 @@
+MADDE 103 – 25/5/2005 tarihli ve 5352 sayılı Adli Sicil Kanununun 6 ncımaddesine aşağıdaki fıkra eklenmiştir.
+“(2) Karşılıksız yararlanma suçunda etkin pişmanlıktan yararlanması dolayısıyla şüpheli, sanık veya hükümlü hakkında verilen kararlar adlî sicilde bunlara mahsus bir sisteme kaydedilir. Onbeş yıl süreyle muhafaza edilen bu kayıtlar, ancak bir soruşturma veya kovuşturmayla bağlantılı olarak Cumhuriyet savcısı veya mahkeme tarafından istenmesi halinde verilebilir.”

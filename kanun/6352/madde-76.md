@@ -1,0 +1,2 @@
+MADDE 76 – 6/8/1997 tarihli ve 4301 sayılı Ceza İnfaz Kurumları ile Tutukevleri İşyurtları Kurumunun Kuruluş ve İdaresine İlişkin Kanunun 3 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+“İşyurtları Kurumu Yüksek Kurulu; Bakanlık Müsteşarının başkanlığında, Ceza ve Tevkifevleri Genel Müdürü, Strateji Geliştirme Başkanı, İdari ve Mali İşler Dairesi Başkanı ve Teknik İşler Dairesi Başkanından oluşur.”
