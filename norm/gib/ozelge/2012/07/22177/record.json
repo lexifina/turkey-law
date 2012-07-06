@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-KVK 6-2075",
+  "source_id": 22177,
+  "date": "2012-07-06",
+  "title": "Finansal kiralamaya konu taşıtlar ve taşınmazlara ilişkin vergiler ile kiracıdan kaynaklanan cezaların kiracıya yansıtılarak giderleştirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22177",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "7b16fb304b856caf4140f3e4a04caa6d26f72948d1f7ced43a6afbaeab016e80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
