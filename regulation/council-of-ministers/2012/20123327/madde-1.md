@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Yönetmeliğin amacı; genel bütçe kapsamındaki kamu idareleri, özel bütçeli idareler ve özel kanunlar uyarınca 26/9/2011 tarihli ve 659 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararnamenin 14 üncü maddesine göre ödenecek vekalet ücretlerinin dağıtımına ilişkin usul ve esasları belirlemektir.

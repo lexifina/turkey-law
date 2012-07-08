@@ -1,0 +1,2 @@
+Vekalet ücreti ödenecekler
+MADDE 5- (1) İdareleri adli ve idari yargıda, icra mercileri ve hakemler nezdinde vekil sıfatıyla temsile yetkili kılınanlardan aylık ücret ve tazminatları 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 10 uncu maddesine göre ödenenler dışındaki hukuk birim amiri, hukuk müşaviri, muhakemat müdürü ve avukatlara bu Yönetmelik kapsamında vekalet ücreti ödenir.

@@ -1,0 +1,2 @@
+Limit dışı vekalet ücretinin dağıtımı
+MADDE 7- (1) Bu Yönetmeliğin 5 inci ve 6 ncı maddelerine göre vekalet ücreti ödenen ve limitini dolduramayan hukuk birim amiri, hukuk müşaviri, muhakemat müdürü ve avukatlara ödenecek tutarlar, mali yılı takip eden Ocak ayı sonuna kadar tahakkuka bağlanmak suretiyle hukuk biriminin bağlı olduğu merkez muhasebe birimince emanet hesabındaki limit dışı vekalet ücretinden ödenir.

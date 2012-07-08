@@ -1,0 +1,2 @@
+Emanet hesabında toplanan vekalet ücretlerinin dağıtımı
+GEÇİCİ MADDE 1- (1) 2/11/2011-31/12/2011 dönemine ilişkin olmak üzere emanet hesabında toplanan vekalet ücretlerinin %5’lik kısmı, hukuk birim amiri, hukuk müşaviri, muhakemat müdürü ve avukat dışında hukuk biriminde görev yapan personele 2011 yılında almış oldukları vekalet ücretleri de dahil olmak üzere yıllık tutarı, (6.000) gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunacak aylık brüt tutarın oniki katını geçmemek üzere dağıtılır.

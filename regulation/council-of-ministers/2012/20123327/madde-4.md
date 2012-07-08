@@ -1,0 +1,3 @@
+Vekalet ücretinin bir hesapta toplanması
+MADDE 4- (1) İdareler lehine karara bağlanan ve tahsil edilen vekalet ücretleri, dava ve icra takibini yapan hukuk biriminin bağlı olduğu idarenin merkez muhasebe birimi nezdinde açılan bir emanet hesabında toplanır.
+(2) Vekalet ücretini tahsil eden birim tarafından dağıtıma esas olmak üzere ilgili mahkeme kararına ve icra dosyasına ilişkin bilgiler ile bu dava ve icra dosyasının takibinin kimler tarafından yapıldığına dair bilgiler ek-1’de yer alan Vekalet Ücreti Ödemesine Esas Veri Tablosuna işlenir ve ilgililer tarafından imzalanarak merkez teşkilatındaki hukuk birimine gönderilir.
