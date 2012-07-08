@@ -1,0 +1,2 @@
+Cumhurbaşkanlığı forsu
+Madde 28 – Cumhurbaşkanlığı forsu, (Ek: 4) te gösterilen ölçülere uygun olarak yapılır. Forsun sol üst köşesinde yer alan güneş ve yıldızlar sarı renktedir. Cumhurbaşkanının ikametgahında, ziyareti süresince bulunduğu yerde, bayrak direğine çekilir, gece ve gündüz çekili kalır, makam odasında çalışma masasının sol gerisine konur, içinde bulunduğu arabanın sol önünde, tepesinde ay yıldız bulunan kromajlı direğe çekilir.
