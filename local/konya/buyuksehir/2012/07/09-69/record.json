@@ -1,0 +1,25 @@
+{
+  "number_in_summary": 69,
+  "number_basis": "item number printed in the summary",
+  "official_decision_number": null,
+  "title": "(Büyükşehir Belediyesi) Meram İlçesi, Çomaklı Mahallesi, 7 pafta, 528, 704 ve 705 parseller ile ilgili plan tadilatının görüşülmesine dair İmar ve Bayındırlık Komisyonu raporunun aynen kabulüne,",
+  "decision_date": "2012-07-09",
+  "meeting_date": "2012-07-09",
+  "summary_heading": null,
+  "summary_title": "KARAR ÖZETİ (09.07.2012)",
+  "source": "https://www.konya.bel.tr/meclis/icerik-getir?tarih=2012-07-09&tur=2",
+  "source_page": "https://www.konya.bel.tr/meclis-encumen/meclis-gundemi-ve-kararlari?karar_yil=2012&karar_ay=7",
+  "source_sha256": "84eb6c18ec7a47510cca21080709a3fde25d3feda7da8f9a54b3343dfce9f012",
+  "issuer": "Konya Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary item as published in the council's Karar Özeti; complete decision text is not published in this register",
+  "in_force": "2012-07-09",
+  "in_force_basis": "Official toplantı tarihi 2012-07-09 (the summary prints no dated heading); adoption date for the summary item; legal commencement not asserted",
+  "missing": [
+    "official decision number (not printed in the summary)",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
