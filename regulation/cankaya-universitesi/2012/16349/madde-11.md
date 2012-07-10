@@ -1,0 +1,2 @@
+Çalışma grupları ve görevleri
+MADDE 11 – (1) Merkezin farklı konulardaki etkinliklerini yürütmek üzere Yönetim Kurulu kararı ile çalışma grupları oluşturulur. Çalışma gruplarının başında grup sorumluları bulunur ve grup sorumluları ile üyeleri geçici ya da sürekli olarak, Müdürün önerisi ve Yönetim Kurulunun onayı ile görevlendirilir. Müdür; çalışma gruplarının etkinliklerini Yönetim Kurulu adına izler ve denetler, gerekli gördüğü hallerde çalışma gruplarını Yönetim Kurulu toplantılarına çağırır.

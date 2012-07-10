@@ -1,0 +1,3 @@
+Müdür
+MADDE 7 – (1) Müdür, Üniversitenin kadın hakları ve sorunları konusunda çalışmaları bulunan öğretim üyeleri arasından üç yıl için Rektör tarafından görevlendirilir. Görevi sona eren Müdür yeniden görevlendirilebilir. Müdürün kesintisiz olarak altı aydan daha fazla süre görevi başında bulunamayacağı durumlarda yeni bir Müdür görevlendirilir. Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı sorumludur.
+(2) Müdür yardımcısı, Müdürün önerisi üzerine, Rektör tarafından, Üniversitenin kadın hakları ve sorunları konusunda çalışmaları bulunan öğretim elemanları arasından seçilir. Müdür yardımcısı, Müdürün bulunmadığı durumlarda Müdüre vekâlet eder. Görev süresi üç yıldır. Müdürün görev süresi bitince, müdür yardımcısının da görevi sona erer.
