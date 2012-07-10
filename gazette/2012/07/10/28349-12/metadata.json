@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-07-10",
+  "issue": "28349",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Rüzgar ve Güneş Enerjisine Dayalı Lisans Başvuruları İçin Yapılacak Rüzgar ve Güneş Ölçümleri Uygulamalarına Dair Tebliğ (No: 2012/01)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120710-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120710.htm",
+  "index_sha256": "89e20a857c6678b2db150ae698caa567068bfc65e6f02cc56149b65a670e842e",
+  "index_header": "10 Temmuz 2012 ... 28349 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
