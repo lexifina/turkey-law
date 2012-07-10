@@ -1,0 +1,3 @@
+Soruşturma konusu ürün ithalatının tüketime göre değişimi
+MADDE 12 – (1) Soruşturma konusu ithalatın nispi olarak değişimini görebilmek için, söz konusu ithalatın toplam Türkiye benzer mal tüketimi içindeki payı incelenmiştir. Bu bağlamda, öncelikle şikâyetçi firmaların yurt içi satış miktarı ile genel ithalat miktarı toplanarak ilgili yılda Türkiye benzer mal tüketimi elde edilmiştir.
+(2) Türkiye benzer mal tüketimi 2008 yılı 100 alındığında, 2009 yılında 57 ve 2010 yılında 159 olarak gerçekleşmiştir. ÇHC’nin pazar payı ise 2008 yılından itibaren, aynı seviyede (%0-1) kalmıştır. Öte yandan, 2008’de 100 olan yerli üretim dalının pazar payı da 2009’da 149’a yükselmişken, 2010’da bu oran 67’ye düşmüştür.

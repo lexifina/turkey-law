@@ -1,0 +1,5 @@
+Yerli üretim dalının ekonomik göstergelerinin değerlendirilmesi
+MADDE 16 – (1) Yerli üretim dalından temin edilen veriler ışığında yapılan incelemeler sonucunda; 2008-2010 döneminde üretim miktarında, kapasite kullanım oranında, yurt içi satış fiyatlarında, yurt içi pazar payında ve verimlilikte bozulma görülmektedir.
+(2) Ayrıca, zarar inceleme döneminde yerli üretim dalının maliyetleri artarken yurt içi satış fiyatları azaldığından ürün kârlılığında ciddi bozulma yaşanmıştır. Yerli üretim dalının kârlılığında görülen bozulmaya bağlı olarak ürün nakit akışında da ciddi bir bozulma görülmüştür.
+(3) Öte yandan, zarar inceleme döneminde yerli üretim dalının kurulu kapasitesi, yurtiçi satış miktarı ve hâsılası ile ürün istihdamı artmıştır. Bunların yanında, stok miktarında da azalmalar yaşanmıştır.
+(4) Sonuç olarak, yerli üretim dalının ekonomik göstergelerinin bazılarında önlem sonrası dönemin ilk yıllarında düzelme görülmekle birlikte, birçok göstergede kırılganlığın devam ettiği değerlendirilmiştir.

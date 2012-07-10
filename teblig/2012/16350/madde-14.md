@@ -1,0 +1,2 @@
+Yerli üretim dalının iç piyasa fiyatları
+MADDE 14 – (1) Yerli üretim dalının birim ticari maliyet-birim satış fiyatı oranına bakıldığında 2008 yılında % 88 olan oranın; 2009 yılında %94; 2010 yılında ise % 93 oranında olduğu görülmüştür. Yerli üretim dalının ticari maliyetlerindeki artışı fiyatlarına yansıtamadığı ve maliyetlerdeki artışa karşın satış fiyatlarının olması gereken seviyede belirlenemediği anlaşılmaktadır.

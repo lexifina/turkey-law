@@ -1,0 +1,3 @@
+Esas soruşturmada tespit edilen damping marjı
+MADDE 22 – (1) Mevcut dampinge karşı önlemin hukuki ve idari altyapısını teşkil eden esas damping soruşturması esnasında tespit edilen damping marjları, soruşturma konusu ülkede yerleşik üretici/ihracatçıların önlemin yürürlükten kalkması halinde muhtemel davranışlarını yansıtacak önemli bir gösterge niteliği taşıdığından dikkate alınmıştır.
+(2) Buna göre, 2006 yılında sona eren esas soruşturmada kontrplaklar için damping marjı, Linyi Huadeli firması için CIF ihraç fiyatının %75,2’si, miktar bazında 286 ABD Doları/m³, Linyi Xingang firması için ise CIF ihraç fiyatının %81,9’u, miktar bazında ise 306 ABD Doları/m³ olarak tespit edilmiştir. Söz konusu marjlar önemli düzeydedir.
