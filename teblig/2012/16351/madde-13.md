@@ -1,0 +1,3 @@
+Önlem konusu ürün ithalatının fiyatlarının gelişimi
+MADDE 13 – (1) Granite ilişkin genel ithalatının ağırlıklı ortalama birim fiyatının 2008 yılında 585 ABD Doları/Ton, 2009 yılında 570 ABD Doları/Ton, 2010 yılında 567 ABD Doları/Ton ve 2011 yılı ilk yarıyılda ise 577 ABD Doları/Ton olarak gerçekleştiği görülmektedir.
+(2) Önleme konu ÇHC’den gerçekleşen ithalatın birim fiyatının ise, 2008 yılında 524 ABD Doları/Ton, 2009 yılında 526 ABD Doları/Ton, 2010 yılında 527 ABD Doları/Ton ve 2011 ilk yarıyılda ise 529 ABD Doları/Ton olarak gerçekleşerek genel ithalatın ağırlıklı ortalama birim fiyatlarının önemli ölçüde altında seyrettiği görülmektedir.

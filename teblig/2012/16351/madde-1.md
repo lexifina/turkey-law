@@ -1,0 +1,6 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Mevcut önlem ve soruşturma
+MADDE 1 – (1) Çin Halk Cumhuriyeti (ÇHC) menşeli 6802.23 ve 6802.93 gümrük tarife pozisyonlarında (GTP) yer alan “granit” için 14/9/2006 tarihli ve 26289 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Tebliğ (Tebliğ No: 2006/25) ile dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) 24/12/2010 tarihli ve 27795 sayılı Resmî Gazete'de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2010/30) ile söz konusu ürünlere ilişkin önlemin 14/9/2011 tarihinde sona ereceği, yerli üretim dalının Mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir başvuru ile nihai gözden geçirme soruşturması açılması talebinde bulunabileceği duyurulmuştur.
+(3) Yerli üretim dalını temsilen Granitaş Granit Sanayi ve Pazarlama A.Ş. (Granitaş) ile Silkar Madencilik Sanayi ve Ticaret A.Ş. (Silkar) ÇHC menşeli “granit” için uygulanmakta olan dampinge karşı önlemin gözden geçirilmesine yönelik bir nihai gözden geçirme soruşturması açılması için Ekonomi Bakanlığına başvuruda bulunmuştur. 28/7/2011 tarihli ve 28008 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2011/13) ile açılan nihai gözden geçirme soruşturması İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülerek tamamlanmıştır.
