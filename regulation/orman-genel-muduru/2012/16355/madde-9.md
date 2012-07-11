@@ -1,0 +1,4 @@
+Planların süresi ve onayı
+MADDE 9 – (1) Otlatma planları orman işletme müdürlüklerince amenajman plan süresi için şeflik bazında tek plan olarak yapılır veya ormancılık bürolarına yaptırılır. Yıllık otlatma dönemi sonunda plan verilerinde değişiklik olup olmadığı yerinde tespit edilerek gerekirse planda düzeltmeler yapılabilir. Amenajman plan sürelerinin bitip avans dönemi oluşması halinde otlatma planları revize edilir.
+(2) Otlatma planları, orman işletme müdür yardımcısı başkanlığında, ilgili işletme şefi, teknik eleman ve ilgili toplu koruma ekibinde görevli orman muhafaza memurundan oluşan en az dört kişilik komisyon tarafından EK-1’de yer alan dispozisyona uygun olarak hazırlanarak orman işletme müdürünün onayı ile yürürlüğe girer.
+(3) Ormancılık bürolarına yaptırılan otlatma planları, orman işletme şefinin tetkiki, işletme müdürünün onayı ile yürürlüğe girer.

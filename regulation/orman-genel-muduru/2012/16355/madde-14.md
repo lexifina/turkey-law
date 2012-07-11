@@ -1,0 +1,3 @@
+Sürü sahipleri ve çobanların bilgilendirilmesi
+MADDE 14 – (1) Otlatma planının onaylanmasını takip eden bir ay içerisinde mahalli orman işletme müdürlüğünce yöredeki sürü sahipleri ile çobanların katıldığı bir toplantı düzenlenir. Bu toplantıda otlatmaya yasak alanlar, otlatma yapılacak alanlar ve plan uygulaması ile ilgili; mahalli yöresel mevki isimleri ile ova, dere, tepe, düzlük ve benzeri yerleri belirtmek suretiyle bilgilendirme yapılır.
+(2) Otlatmada çoban başına en fazla 200 adet keçi veya 250 adet koyun veya 50 adet büyükbaş hayvan hesap edilir. 0-6 ay arası oğlak, kuzu ve buzağı bu rakamlara dahil edilmez.
