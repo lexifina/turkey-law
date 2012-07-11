@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16356",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AKARYAKIT İSTASYONLARI-EMNİYET GEREKLERİ İLE İLGİLİ TEBLİĞ (TS 12820) (TEBLİĞ NO: MSG-MS-2012/17)",
+  "number": "16356",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2012/16356",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16356&MevzuatTertip=5",
+  "source_sha256": "8d6dade88b0a7ea4076bcfec35b2c727a99f9eb543cd08a0d3de547c561d8dfc",
+  "source_bytes": 8759,
+  "published": "2012-07-11",
+  "gazette": "28350",
+  "in_force": "2012-07-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.07.2012); own commencement article: \"Bu Tebliğ yayımı tarihinden itibaren onbeş gün sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden itibaren onbeş gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 235,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
