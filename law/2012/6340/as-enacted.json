@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6340",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Gabon Cumhuriyeti Hükûmeti Arasında Askeri Alanda Eğitim, Teknik ve Bilimsel İş Birliği Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-07-11",
+  "gazette_issue": "28350",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120711-3.htm",
+  "source_sha256": "2301229dee83fb61c60dde7d49433c9b465d1984bca1ffccfb506f86bab65772",
+  "text_sha256": "1e5a5a473643c665d2598431bb966a1214afa4f7a7a4391e833b896517c195cb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/07/11/28350-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120711-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
