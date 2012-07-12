@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6351",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti ile Irak Cumhuriyeti Arasında Kapsamlı Ekonomik Ortaklık Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-07-12",
+  "gazette_issue": "28351",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120712-10.htm",
+  "source_sha256": "1c54635c4570001189a92bb21f96e56dab84274b9ad7f1f9beafc549c8c45d03",
+  "text_sha256": "d687f60c10c4cdb3b51a1df02d478539cd65deae1ea11a72398a4bd5fa7c0e7c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/07/12/28351-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120712-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
