@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6349",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Azerbaycan Cumhuriyeti Hükûmeti Arasında Türkiye Cumhuriyetine Doğal Gaz Satışına ve Azerbaycan Cumhuriyeti Kaynaklı Doğal Gazın Türkiye Cumhuriyeti Toprakları Üzerinden Transit Geçişine ve Doğal Gazın Türkiye Cumhuriyeti Toprakları Üzerinden Taşınması İçin Münhasır Boru Hattının Geliştirilmesine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-07-12",
+  "gazette_issue": "28351",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120712-8.htm",
+  "source_sha256": "2c7174eee47d70baa647ca73e5e36d13818a8427318f81b430adb7e52262ce49",
+  "text_sha256": "79170fafba061c46a2e1857b391f41ce36590d0e9369dcf0eaa6ac0f5c15375a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/07/12/28351-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120712-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
