@@ -1,0 +1,3 @@
+Parasal haklar ve özlük hakları
+Madde 17 – Müteşebbis heyet, yönetim kurulu başkan ve üyeleri ile denetim kurulu üyelerinden kamu personeli olanlara toplantı başına huzur hakkı, diğerlerine de huzur hakkı veya aylık ücret ödenebilir. Söz konusu ödemeler müteşebbis heyetin Bakanlıktan aldığı kredi dışında, kendi kaynaklarından yapılır. Huzur hakları ve ödenecek ücretin aylık miktarı her yıl müteşebbis heyet tarafından tespit edilir.
+Bölge müdürü ve sair personel 1475 sayılı İş Kanunu hükümlerine göre çalıştırılır. Kredi kullanan OSB’lerde OSB personelinin parasal ve özlük haklarının asgarî ve azamî miktarları Bakanlık tarafından belirlenir.

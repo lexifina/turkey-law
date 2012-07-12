@@ -1,0 +1,3 @@
+Geçici Madde 6 – Kanunun yürürlüğe girmesinden önce OSB kurmak amacı ile müteşebbis heyeti meydana getiren kurum ve kuruluşlar adına iktisap edilmiş bulunan tüm arsalar, araziler ve tüm gayrimenkuller ile bilahare bunlar üzerinde müteşebbis heyeti meydana getiren kurum ve kuruluşlar adına inşa edilmiş olan tüm binalar ve ortak tesisler OSB tüzel kişiliği lehine tapuda tashihen tescil edilir.
+OSB müteşebbis heyetinin uhdesinde bulunan OSB’ye ait tüm menkul kıymetler ve iştirak hisseleri bedelsiz olarak OSB tüzel kişiliğine devredilir.
+Arsa Ofisi Genel Müdürlüğünden satın alınmış olan arsa ve arazilerde Arsa Ofisi Kanununun 11 inci maddesine göre tapuya işlenmiş olan şerhler silinir.
