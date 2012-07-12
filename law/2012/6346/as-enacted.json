@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6346",
+  "year": 2012,
+  "title": "1971 Petrol Kirliliği Zararının Tazmini İçin Bir Uluslararası Fonun Kurulması ile İlgili Uluslararası Sözleşmeyi Değiştiren 1992 Protokolünün Tazminat Limitleri Değişikliklerine Dair Karara Katılmamızın Uygun Bulunduğu Hakkında",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-07-12",
+  "gazette_issue": "28351",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120712-5.htm",
+  "source_sha256": "55cd7f5f855b4ea6e5a4943bc8cc73950ae78695672a21c24afd60880261d825",
+  "text_sha256": "afb9142ad3d7b1f7cf0254ac3959323cb1f3ac5762ee738e3e711a029290c098",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/07/12/28351-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120712-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
