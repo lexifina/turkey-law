@@ -15,3 +15,4 @@ Anayasa Mah.’nin E.: 2009/13, K.: 2011/4 (Yürürlüğü Durdurma) | 7 | 5/2/2
 6111 | GEÇİCİ MADDE 12 | 25/2/2011
 Anayasa Mah.’nin E.: 2009/13, K.: 2011/23 | 7 | 2/4/2011
 KHK/666 | 7 | 2/11/2011
+6353 | Ek Madde 3, Geçici Madde 7, 14 ve 15 | 12/7/2012

@@ -13,6 +13,8 @@ TEBLİĞ 26/4/2005 tarihli ve 25797 sayılı R.G | 9 | 1/1/2005 tarihinden geçe
 5784 | 7, 11, 12, GEÇİCİ MADDE 2 | 26/7/2008
 TEBLİĞ 5/12/2008 tarihli ve 27075 sayılı R.G | 9 | 1/1/2009 tarihinden geçerli olmak üzere
 TEBLİĞ 17/12/2010 tarihli ve 27788 sayılı R.G | 9 | 1/1/2011 tarihinden geçerli olmak üzere
+7934-4
 6111 | 4 | 25/2/2011
 TEBLİĞ 23/12/2011 tarihli ve 28151 sayılı R.G | 9 | 1/1/2012 tarihinden geçerli olmak üzere
 6352 | 10 | 5/7/2012
+6353 | GEÇİCİ MADDE 3 | 12/7/2012
