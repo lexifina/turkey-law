@@ -1,0 +1,1 @@
+Madde 1 – Bu Kanunun amacı; korunmaya, bakıma veya yardıma muhtaç aile, çocuk,özürlü,yaşlı ve diğer kişilere götürülen sosyal hizmetlere ve bu hizmetleri yürütmek üzere kurulan teşkilatın kuruluş, görev, yetki ve sorumluluklar ile faaliyet ve gelirlerine ait esas ve usulleri düzenlemektir.
