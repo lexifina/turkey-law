@@ -1,0 +1,1 @@
+Madde 2- Diploma veya sertifikasını kaybeden, durumu bir yazıyla Madde 3’ de sözü edilen ilgili makama bildirilir. Bu yazıda diploma veya sertifikasının hangi fakülte/enstitü/yüksekokul/konservatuvar/merkezden alındığı, mümkünse mezuniyet yılı esas nitelikleri ve numarası gösterilir. İlgili makam istekliye, usulüne uygun olarak bir duplikata verir.
