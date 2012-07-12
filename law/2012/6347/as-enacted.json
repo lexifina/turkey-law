@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6347",
+  "year": 2012,
+  "title": "Uluslararası Yolsuzlukla Mücadele Akademisi Kurucu Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-07-12",
+  "gazette_issue": "28351",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120712-6.htm",
+  "source_sha256": "6ab947c424b115b547b32f6d8beefe2f92909ffff6094c203ed981e2b28d6c13",
+  "text_sha256": "b611cd6c8f3084538b87fdd325d1a47782a7b3d35fb46cf4a27efa7b6d79d684",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/07/12/28351-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120712-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
