@@ -1,0 +1,1 @@
+Ek Madde 7 – (Ek:17/8/1983 - 2880/32 md.; Değişik:3/4/1991 - 3708/6 md.) Vakıflarca kurulacak yükseköğretim kurumları, bu Kanunun 56 ncı maddesinde yer alan mali kolaylıklardan, muafiyetlerden ve istisnalardan aynen istifade ederler ve bunlar emlak vergisinden muaf tutulurlar.

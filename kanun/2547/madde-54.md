@@ -1,0 +1,10 @@
+Öğrencilerin disiplin işleri:
+Madde 54 – Soruşturma, yetkiler ve cezalar:
+a. Yükseköğretim kurumları içinde veya dışında yükseköğretim öğrenciliği sıfatına, onur ve şerefine aykırı harekette bulunan, öğrenme ve öğretme hürriyetini, doğrudan doğruya veya dolaylı olarak kısıtlayan, kurumların sükün, huzur ve çalışma düzenini bozan, boykot, işgal ve engelleme gibi eylemlere katılan, bunları teşvik ve tahrik eden, yükseköğretim mensuplarının şeref ve haysiyetine veya şahıslarına tecavüz eden veya saygı dışı davranışlarda bulunan ve anarşik veya ideolojik olaylara katılan veya bu olayları tahrik ve teşvik eden öğrencilere; eylem başka bir suçu oluştursa bile ayrıca uyarma, kınama, bir haftadan bir aya kadar veya bir veya iki yarıyıl için kurumdan uzaklaştırma veya yükseköğretim kurumundan çıkarma cezaları verilir.
+b. Bir fakülte, enstitü veya yüksekokulun içinde veya dışında öğrencilerin işlemiş oldukları disiplin suçlarından dolayı soruşturma yapmaya ve doğrudan gerekli cezayı vermeye veya disiplin kuruluna sevketmeye ilgili fakülte dekanı, enstitü veya yüksekokul müdürü yetkilidir.
+c. Disiplin soruşturmasına, olay öğrenilince derhal başlanılır ve soruşturma engeçonbeş gün içinde sonuçlandırılır.
+d. Hakkında kovuşturma yapılan öğrenciye sözlü veya yazılı savunma hakkı verilir. Tanınan süre içinde savunma yapmayan öğrenci bu hakkından vazgeçmiş sayılır.
+e. Disiplin cezaları, ilgili öğrenciye yazı ile bildirilir. Durum, öğrenciye burs veya kredi veren kuruluşa ve Yükseköğretim Kuruluna duyurulur. Yükseköğretim kurumundan çıkarma kararlarına karşı onbeş gün içinde üniversite yönetim kuruluna itiraz edilebilir. Cezalar öğrencinin dosyasına ve siciline işlenir.
+f. Bu maddeye göre yapılacak işlemler sırasında gerekirse öğrenciye, bağlı bulunduğu öğretim kuruluşunda, ilan yoluyla tebligat yapılabilir.
+g. Yükseköğretim kurumundan çıkarma kararı bütün yükseköğretim kurumlarına, Yükseköğretim Kurulu, emniyet makamları ve ilgili askerlik şubelerine bildirilir. (İptal ikinci cümle: Anayasa Mahkemesi’nin 28/4/2011 tarihli ve E.: 2009/59, K.: 2011/69 sayılı Kararı ile.)
+5377

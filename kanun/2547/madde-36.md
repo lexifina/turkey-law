@@ -1,0 +1,11 @@
+ALTINCI BÖLÜM
+Çalışma ve Denetim
+Çalışma esasları:
+Madde 36 – (Değişik: 21/1/2010-5947/3 md.)
+Öğretim elemanları, üniversitede devamlı statüde görev yapar.
+(İptal birinci cümle: Anayasa Mahkemesi’nin 16/7/2010 tarihli ve E.: 2010/29, K.: 2010/90 sayılı Kararı ile.) Öğretim elemanının görevi ile bağlantılı olarak verdiği hizmetin karşılığında telif ücreti adıyla bir bedel tahsil etmesi halinde 58 inci madde hükümleri uygulanır.
+Öğretim üyesi, kadrosunun bulunduğu yükseköğretim birimi ile sınırlı olmaksızın ve ihtiyaç bulunması halinde görevli olduğu üniversitede haftada asgari on saat ders vermekle yükümlüdür. Öğretim görevlisi ve okutmanlar ise, haftada asgari on iki saat ders vermekle yükümlüdür.
+5366
+Öğretim elemanlarının, ders dışındaki uygulama, seminer, proje, bitirme ödevi ve tez danışmanlıklarının kaç ders saatine karşılık geldiği; kendi üniversitesi dışındaki devlet veya vakıf üniversitelerine bağlı yükseköğretim kurumlarında haftada verebileceği azami ders saatleri ve uzaktan öğretim programlarında verdikleri derslerin örgün öğretim programlarında verilen kaç ders saatine tekabül ettiği Yükseköğretim Kurulu tarafından belirlenir.
+Rektör, rektör yardımcısı, dekan, enstitü ve yüksekokul müdürlerinin ders verme yükümlülüğü yoktur. Başhekimler, dekan yardımcıları, enstitü ve yüksekokul müdür yardımcıları ve bölüm başkanları, bu madde hükümlerine göre haftada asgari beş saat ders vermekle yükümlüdür.
+(Ek fıkra: 8/8/2011-KHK-650/40 md.)Yükseköğretim kurumlarının kadrolarında bulunan öğretim elemanları, kanunlarda belirtilen hâller dışında 657 sayılı Devlet Memurları Kanununun 28 inci maddesi hükmüne tâbidir. Ancak öğretim üyeleri, yükseköğretim kurumlarında yalnızca eğitim ve araştırma faaliyetlerinde bulunmak ve döner sermaye faaliyetleri kapsamında gelir elde edilen hizmetlerde çalışmamak kaydıyla mesai saatleri dışında yükseköğretim kurumlarından başka yerlerde meslekî faaliyette bulunabilir ve meslek veya sanatlarını serbest olarak icra edebilir. Yükseköğretim kurumlarından başka yerlerde çalışan öğretim üyelerine 58 inci madde ile 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 3 üncü maddesi uyarınca ek ödeme yapılmaz; bunlar rektör, dekan, enstitü, yüksekokul ve konservatuar müdürü, bölüm başkanı, anabilim ve bilim dalı başkanı, başhekim ve bunların yardımcısı olamaz.(1)

@@ -1,0 +1,8 @@
+Yardımcı Doçentliğe atama:
+Madde 23 –
+a. Bir üniversite biriminde açık bulunan yardımcı doçentlik, isteklilerin başvurması için rektörlükçe ilan edilir. Fakültelerde ve fakültelere bağlı kuruluşlarda dekan, rektörlüğe bağlı enstitü ve yüksekokullarda müdürler; biri o birimin yöneticisi, biri de o üniversite dışından olmak üzere üç profesör veya doçent tespit ederek bunlardan adayların her biri hakkında yazılı mütalaa isterler. Dekan veya ilgili müdür kendi yönetim kurullarının görüşünü de aldıktan sonra önerilerini rektöre sunar. Atama, rektör tarafından yapılır.
+(Değişik: 12/8/1986 - KHK 260/1 md.) Yardımcı doçentler bir üniversitede her seferinde ikişer veya üçer yıllık süreler için en çok 12 yıla kadar atanabilirler. Her atama süresi sonunda görev kendiliğinden sona erer.
+b. Yardımcı doçentliğe atanmada aranacak şartlar:
+(1) Doktora veya tıpta uzmanlık unvanını veya Üniversitelerarası Kurulun önerisi üzerine Yükseköğretim Kurulunca tespit edilecek belli sanat dallarının birinde yeterlik kazanmış olmak,
+(2) Fakülte, enstitü veya yüksekokul yönetim kurullarınca, biri o dilin öğretim üyesi olmak üzere seçilecek üç kişilik bir jüri tarafından; sınava girenin kendi bilim alanında Türkçeden yabancı dile, yabancı dilden Türkçeye 150 - 200 kelimelik bir çeviriyi kapsayan yabancı dil sınavını başarmak.
+c. (Mülga: 12/8/1986 - KHK 260/7 md.; Yeniden düzenleme: 18/6/2008-5772/3 md.) Üniversiteler, yardımcı doçentlik kadrosuna atama için bu maddede aranan asgari koşulların yanında, Yükseköğretim Kurulunun onayını almak suretiyle, münhasıran bilimsel kaliteyi artırmak amacına yönelik olarak, bilim disiplinleri arasındaki farklılıkları da göz önünde bulundurarak, objektif ve denetlenebilir nitelikte ek koşullar belirleyebilirler.

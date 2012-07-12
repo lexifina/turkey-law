@@ -1,0 +1,10 @@
+Kurumlara dönüş: (2)
+Madde 60 –
+a. (Değişik: 1/11/1990 - 3676/1 md.) Bir süre öğretim üyesi olarak çalıştıktan sonra Bakanlar Kuruluna veya Yasama Organı Üyeliğine seçilenler, bu görevlerde geçirdikleri süreler hesaba katılmak ve buna göre aylık dereceleri yükseltilmek, meslek unvan ve sıfatlarını kazanma ile ilgili hükümler saklı kalmak şartıyla başvurmaları halinde bu Kanun hükümlerine göre ayrıldıkları yükseköğretim kurumuna kadro koşulu aranmaksızın dönerler.
+(Ek bent:17/9/2004-5234/2 md.)Bunlardan emekli iken yüksek öğretim kurumlarına dönenlerin veya yüksek öğretim kurumlarına döndükten sonra emekliliğe hak kazanıp emekli olanların emekli aylıkları kesilmez. Bunlara yüksek öğretim kurumlarınca, ders yükü zorunluluğu aranmadan ek ders ücreti ve sınav ücreti ile döner sermaye payı ödenir; bu ödemelerin dışında aylık, ödenek, tazminat ve benzeri herhangi bir ödeme yapılmaz.
+b. (Değişik: 1/11/1990 - 3676/1 md.) Yükseköğretim kurumlarından, mahkeme veya disiplin kararları ile çıkarılanlar hariç olmak üzere herhangi bir nedenle kendi isteği ile ayrılan öğretim üyeleri başvuruları üzerine bu Kanun hükümleri çerçevesinde kadro koşulu aranmaksızın tekrar ayrıldıkları yükseköğretim kurumlarına dönebilirler.
+c. (Ek: 14/4/1982 - 2653/5 md.) Yükseköğretim Kurulu veya Yükseköğretim Denetleme Kurulu Başkan ve üyeliklerine, rektör ve dekanlıklara yükseköğretim kurumları ile bir kamu görevinde iken seçilenlerden, süresinin tamamlayarak yeniden seçilmemeleri sebebiyle ayrılanların,bu görevlerinde geçirdikleri süreler hesaba katılmak ve buna göre aylık ve dereceleri yükseltilmek suretiyle meslek, unvan ve sıfatları dikkate alınarak ayrıldıkları tarihten itibaren kendi kurumlarına boş kadro koşulu aranmaksızın dönüşleri yapılır.
+——————————
+(1) Madde başlığı 2/7/1997 tarih ve 4278 sayılı Kanunun 1 inci maddesiyle değiştirilmiş ve metne işlenmiştir.
+(2) Madde başlığı 14/4/1982 tarih ve 2653 sayılı Kanunun 4 üncü maddesiyle değiştirilmiş ve metne işlenmiştir.
+5380-1

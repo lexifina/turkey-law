@@ -1,0 +1,3 @@
+Yabancı uyruklu öğretim elemanları:
+Madde 34 - Yükseköğretim kurumlarında,sözleşme ile görevlendirilecek yabancı uyruklu öğretim elemanları, ilgili fakülte, enstitü veya yüksekokul yönetim kurulunun önerisi ve üniversite yönetim kurulunun uygun görüşü üzerine rektör tarafından atanırlar. Bunlar, öğretim görevleri bakımından, bu kanunda aylıklı öğretim elemanları için konulmuş olan hükümlere tabidirler.
+(Değişik: 17/8/1983 - 2880/17 md.) Yabancı uyruklu öğretim elemanlarının bu şekilde atanmaları veya görevlendirilmeleri, 657 sayılı Devlet Memurları Kanununun Bakanlar Kurulu kararını gerektiren hükümlerine tabi olmadan, Yükseköğretim Kurulunca İçişleri Bakanlığına bildirilir ve iki ay içinde alınacak olumlu görüş neticesinde ilgili üniversitesi ile sözleşmesi yapılır.

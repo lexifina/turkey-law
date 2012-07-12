@@ -1,0 +1,2 @@
+Ek Madde 8 – (Ek: 17/8/1983 - 2880/32 md.)
+Vakıfca kurulacak yükseköğretim kurumlarındaki akademik organlar, Devlet yükseköğretim kurumlarındaki akademik organlar gibi düzenlenir ve onların görevlerini yerine getirir. Öğretim elemanlarının nitelikleri Devlet yükseköğretim kurumlarındaki öğretim elemanlarının niteliklerinin aynıdır. Devlet yükseköğretim kurumlarında çalışmaları yasaklanmış veya disiplin yoluyla bu kurumlardan çıkarılmış kişiler, vakıf yükseköğretim kurumlarında görev alamazlar.
