@@ -1,5 +1,5 @@
 Eşit davranma ilkesi
-MADDE 5. - İş ilişkisinde dil, ırk, cinsiyet, siyasal düşünce, felsefî inanç, din ve mezhep ve benzeri sebeplere dayalı ayırım yapılamaz.
+Madde 5 - İş ilişkisinde dil, ırk, cinsiyet, siyasal düşünce, felsefî inanç, din ve mezhep ve benzeri sebeplere dayalı ayırım yapılamaz.
 İşveren, esaslı sebepler olmadıkça tam süreli çalışan işçi karşısında kısmî süreli çalışan işçiye, belirsiz süreli çalışan işçi karşısında belirli süreli çalışan işçiye farklı işlem yapamaz.
 İşveren, biyolojik veya işin niteliğine ilişkin sebepler zorunlu kılmadıkça, bir işçiye, iş sözleşmesinin yapılmasında, şartlarının oluşturulmasında, uygulanmasında ve sona ermesinde, cinsiyet veya gebelik nedeniyle doğrudan veya dolaylı farklı işlem yapamaz.
 Aynı veya eşit değerde bir iş için cinsiyet nedeniyle daha düşük ücret kararlaştırılamaz.

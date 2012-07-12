@@ -1,3 +1,1 @@
-MADDE 20 — 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 53 üncü maddesinin başlığı ve birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
-Özürlülerin Devlet memurluğuna alınmaları:
-Mevzuata uygun olmak kaydıyla; özürlülerin mesleklerine uygun münhal kadrolara atanması, mesleklerini icra veya infaza yardımcı araç ve gerecin kurumlarınca temin edilmesi esastır. Özürlülerin Devlet memurluğuna alınma şartları ile hangi işlerde çalıştırılacakları, mesleklerini icra ve infazda hangi yardımcı araç ve gereçlerin kurumlarınca temin edileceği, zihinsel özürlülerin hangi görevlere atanmasında asgari eğitim şartından istisna edileceği hususları Maliye Bakanlığı, Sağlık Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı, Özürlüler İdaresi Başkanlığı ve Devlet Personel Başkanlığınca müştereken hazırlanacak yönetmelikle düzenlenir.
+Madde 20-21- (14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.)

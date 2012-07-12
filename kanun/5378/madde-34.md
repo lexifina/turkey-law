@@ -1,2 +1,1 @@
-MADDE 34 — 7.5.1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesine aşağıdaki bent eklenmiştir.
-m) Rehabilite edici tıbbi hizmetlerde kullanılan yardımcı araç ve gereçleri üretmek amacıyla, kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler tarafından kurulacak kuruluşların açılış iznini vermeye Sağlık Bakanlığı yetkilidir. Bu kurum ve kuruluşların açılış izninin verilmesine, üretim ve personel standardına, işleyiş ve denetimi ile daha önce açılmış olan kurum ve kuruluşların durumlarına ilişkin esaslar Sağlık Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+Madde 34- (7.5.1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanunu ile ilgili olup yerine işlenmiştir. )

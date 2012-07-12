@@ -1,5 +1,5 @@
 Birlik Yönetim Kurulunun görevleri
-MADDE 66 - Birlik Yönetim Kurulunun görevleri şunlardır:
+Madde 66- Birlik Yönetim Kurulunun görevleri şunlardır:
 a) Odalar ve borsalar arasında çıkacak ihtilafları çözmek.
 b) Muhasebe ve muamelatta birlik ve beraberlik sağlamak üzere yönetmelikler hazırlamak ve Genel Kurula sunmak.
 c) Ülkenin iktisadî durumu hakkında rapor hazırlamak ve Genel Kurulun onayına sunmak.

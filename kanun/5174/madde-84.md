@@ -1,5 +1,5 @@
 Oda ve borsa organlarının seçimleri
-MADDE 84 - Oda ve borsa organlarının seçimleri, bu Kanun hükümlerine göre aşağıda belirtilen esas ve usullere uygun olarak, ekim ayında başlar kasım ayı içinde bitirilir.
+Madde 84- Oda ve borsa organlarının seçimleri, bu Kanun hükümlerine göre aşağıda belirtilen esas ve usullere uygun olarak, ekim ayında başlar kasım ayı içinde bitirilir.
 a) Gruplandırma işlemleri ve meslek komitelerinin seçimi:
 1) Meslek komiteleri seçiminden en az yirmi gün önce oda ve borsaların yönetim kurulları tarafından, seçilme hakkına sahip olanlarla, seçme hakkına sahip olanları gösteren, elektronik ortamda Bakanlık ve Birlik bünyesinde düzenlenen veri tabanında yer alan meslek gruplarına göre hazırlanan listeler, üç nüsha olarak kuruluşun bulunduğu yerdeki ilçe seçim kurulu başkanına sunulur.
 2) Hâkim, gerektiğinde ilgili kayıt ve belgeleri de getirtip listeleri seçim sandık kurullarına incelettirir ve varsa noksanlarını tamamlattırdıktan sonra en geç beş gün içinde onaylar. Onaylanan listeler ve seçimin yapılacağı tarih ve yer ile diğer hususlar, oda veya borsanın ilân yerlerinde asılmak suretiyle üç tam iş günü ilân edilir. Bu listelerin örnekleri, talep edilmesi halinde oda veya borsa üyelerine masrafı ödenmek kaydıyla verilir. İlçe seçim kurulu başkanınca gerekli görülen hususlar yerel basın yayın organları aracılığı ile ilgililere duyurulur.
@@ -9,6 +9,7 @@ a) Gruplandırma işlemleri ve meslek komitelerinin seçimi:
 6) İlgili seçmen üyelerce, her meslek grubu için ayrı ayrı verilecek mahsus zarflara oyların konulması ile meslek komitesi seçimleri yapılır.
 b) Meslek grupları, yargı gözetiminde oda ve borsa meclisleri için asıl ve yedek üyeleri meslek komitesi üyeleri ile birlikte seçer.
 c) Meclis, seçimlerin kesinleşmesini takip eden en geç iki gün içinde yargı gözetiminde oda ve borsa yönetim kurulu başkanı ve üyelerini aynı listede seçer.
+8808
 d) Birlik Genel Kurul delegeleri ile disiplin kurulunun asıl ve yedek üyelerinin seçimi, Yönetim Kurulu üyelerinin seçimi ile birlikte, meclis tarafından yapılır.
 Oda ve borsaların meclis, yönetim kurulu, disiplin kurulu ile Birlik Genel Kurulu delegesi seçimlerinde de gruplandırma işlemleri ve meslek komitelerinin seçimlerine ilişkin esas ve usuller uygulanır.
 Oda ve borsa şubelerinin seçim usul ve esasları bu maddede belirtilen hükümlere uygun olarak, Birlikçe hazırlanacak bir yönetmelikle düzenlenir.

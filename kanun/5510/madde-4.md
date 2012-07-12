@@ -3,12 +3,13 @@ Sosyal Sigorta Hükümleri
 BİRİNCİ BÖLÜM
 Sigortalılara İlişkin Hükümler
 Sigortalı sayılanlar
-MADDE 4- (Değişik: 17/4/2008-5754/ 2 md.)
+MADDE 4- (Değişik: 17/4/2008-5754/2 md.)
 Bu Kanunun kısa ve uzun vadeli sigorta kolları uygulaması bakımından;
 a) Hizmet akdi ile bir veya birden fazla işveren tarafından çalıştırılanlar,
 b) Köy ve mahalle muhtarları ile hizmet akdine bağlı olmaksızın kendi adına ve hesabına bağımsız çalışanlardan ise;
 1) Ticarî kazanç veya serbest meslek kazancı nedeniyle gerçek veya basit usûlde gelir vergisi mükellefi olanlar,
 2) Gelir vergisinden muaf olup, esnaf ve sanatkâr siciline kayıtlı olanlar,
+9786
 3) Anonim şirketlerin yönetim kurulu üyesi olan ortakları, sermayesi paylara bölünmüş komandit şirketlerin komandite ortakları, diğer şirket ve donatma iştiraklerinin ise tüm ortakları,
 4) Tarımsal faaliyette bulunanlar,
 c) Kamu idarelerinde;
@@ -30,6 +31,7 @@ a) Kuruluş ve personel kanunları veya diğer kanunlar gereğince seçimle veya
 b) Başbakan, bakanlar, Türkiye Büyük Millet Meclisi üyeleri, belediye başkanları, il encümeninin seçimle gelen üyeleri,
 c) Birinci fıkranın (c) bendi kapsamında iken, bu kapsamdaki kişilerin kurduğu sendikalar ve konfederasyonları ile sendika şubelerinin başkanlıkları ve yönetim kurullarına seçilenlerden aylıksız izne ayrılanlar,
 d) Harp okulları ile fakülte ve yüksek okullarda, Türk Silâhlı Kuvvetleri hesabına okuyan veya kendi hesabına okumakta iken askerî öğrenci olanlar ile astsubay meslek yüksek okulları ve astsubay naspedilmek üzere temel askerlik eğitimine tâbi tutulan adaylar,
+9787
 e) Polis Akademisi ile fakülte ve yüksek okullarda, Emniyet Genel Müdürlüğü hesabına okuyan veya kendi hesabına okumakta iken Emniyet Genel Müdürlüğü hesabına okumaya devam eden öğrenciler,
 hakkında da uygulanır.
 Dördüncü fıkranın (d) ve (e) bentlerinde belirtilen okulları tamamlamadan ayrılanlar ile bu okulları tamamlamalarına rağmen görevlerine başlamadan ayrılanların, bu okullarda geçen eğitim süreleri sigortalılıklarından sayılmaz.

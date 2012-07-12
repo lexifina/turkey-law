@@ -1,7 +1,7 @@
 ÜÇÜNCÜ BÖLÜM
 Oda Gelirleri ve Bütçe
 Oda gelirleri
-MADDE 23 - Odaların gelirleri şunlardır:
+Madde 23- Odaların gelirleri şunlardır:
 a) Kayıt ücreti.
 b) Yıllık aidat.
 c) Munzam aidat.
@@ -10,7 +10,7 @@ e) Belge bedelleri.
 f) Yayın gelirleri.
 g) Bağış ve yardımlar.
 h) Para cezaları.
-ı)İştirakler kârı.
+ı) İştirakler kârı.
 j) Gemilerden alınacak ücretler.
 k) Misil zamları.
 l) Menkul ve gayrimenkul sermaye iratları, şirket kârları ve döviz gelirleri.

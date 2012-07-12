@@ -1,15 +1,16 @@
 ÜÇÜNCÜ BÖLÜM
-Yenilenebilir Enerji Kaynaklarından Elektrik Enerjisi
-Üretiminde Uygulanacak Usul ve Esaslar
+Yenilenebilir Enerji Kaynaklarından Elektrik Enerjisi Üretiminde Uygulanacak
+Usul ve Esaslar
 YEK Destekleme Mekanizması (1)
-MADDE 6 — (Değişik: 29/12/2010-6094/3 md.)
+Madde 6- (Değişik: 29/12/2010-6094/3 md.)
 Bu Kanunun yürürlüğe girdiği 18/5/2005 tarihinden 31/12/2015 tarihine kadar işletmeye girmiş veya girecek YEK Destekleme Mekanizmasına tabi üretim lisansı sahipleri için, bu Kanuna ekli I sayılı Cetvelde yer alan fiyatlar, on yıl süre ile uygulanır. Ancak, arz güvenliği başta olmak üzere diğer gelişmeler doğrultusunda 31/12/2015 tarihinden sonra işletmeye girecek olan YEK Belgeli üretim tesisleri için bu Kanuna göre uygulanacak miktar, fiyat ve süreler ile kaynaklar Cetveldeki fiyatları geçmemek üzere, Bakanlar Kurulu tarafından belirlenir.
 YEK Destekleme Mekanizmasına bir sonraki takvim yılında tabi olmak isteyenler YEK Belgesi almak ve 31 Ekim tarihine kadar EPDK’ya başvurmak zorundadır.
 YEK Destekleme Mekanizmasında öngörülen süreler; tesislerden işletmedekiler için işletmeye girdiği tarihten, henüz işletmeye girmemiş olanlar için işletmeye girecekleri tarihten itibaren başlar. YEK Destekleme Mekanizmasına tabi olanlar, uygulamaya dâhil oldukları yıl içerisinde uygulamanın dışına çıkamaz.
 YEK Destekleme Mekanizmasına tabi olanların listesi ile bunlara ait tesislerin işletmeye giriş tarihlerine, yıllık elektrik enerjisi üretim kapasitelerine ve yıllık üretim programına ilişkin bilgiler, kaynak türlerine göre her yıl 30 Kasım tarihine kadar EPDK tarafından yayımlanır.
-–––––––––––––––––––––
-(1) Bu madde başlığı “Uygulama esasları” iken, 29/12/2010 tarihli ve 6094 sayılı Kanunun 3 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Güneş enerjisine dayalı elektrik üretim tesislerindeki aksamın sağlaması gereken standartlar ve denetimlerde uygulanacak test yöntemleri ile birlikte, bu tesislerde ve hibrit üretim tesislerinde üretilen elektrik enerjisi içerisindeki güneş enerjisine dayalı üretim miktarlarının denetimine ilişkin usul ve esaslar EPDK’nın görüşü alınarak Bakanlık tarafından çıkarılacak yönetmelikle belirlenir.
 PMUM, her fatura dönemi için YEK toplam bedelini ilan eder ve her bir tedarikçinin ödeme yükümlülüğü oranını belirler. Ödeme yükümlülüğü oranının belirlenmesi sırasında, bu Kanun kapsamındaki yenilenebilir enerji kaynaklarından üretilerek YEK Destekleme Mekanizmasına tabi olmaksızın serbest piyasada satışı yapılan elektrik enerjisi miktarı bu Kanun kapsamındaki hesaplamalara dâhil edilmez. Tüketicilere elektrik enerjisi sağlayan her bir tedarikçinin ödemekle yükümlü olduğu tutar belirlenerek ilgili tedarikçiye fatura edilir ve yapılan tahsilat YEK Destekleme Mekanizmasına tabi tüzel kişilere payları oranında ödenir. Bu fıkra kapsamındaki PMUM dâhil uygulamalara ilişkin usul ve esaslar, EPDK tarafından çıkarılacak yönetmelikte düzenlenir.
+––––––––––
+(1) Bu madde başlığı “Uygulama esasları” iken, 29/12/2010 tarihli ve 6094 sayılı Kanunun 3 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+9386-2
 Yenilenebilir enerji kaynaklarından elektrik enerjisi üreten tesislerin lisanslarına derç edilecek yıllık üretim miktarı, bu tesislerin kaynağına göre mevcut kurulu gücü ile üretebileceği yıllık azami üretim miktarıdır. Bu maddenin yürürlüğe girdiği tarihte mevcut olan lisanslar da ilgililerin müracaatı ile üç ay içinde bu doğrultuda tadil edilir.
 Bu Kanun kapsamındaki yenilenebilir enerji kaynaklarından elektrik enerjisi üreten ve bu madde hükmüne tabi olmak istemeyen tüzel kişiler, lisansları kapsamında serbest piyasada satış yapabilirler.

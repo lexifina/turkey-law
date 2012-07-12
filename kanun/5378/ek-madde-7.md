@@ -1,4 +1,0 @@
-EK MADDE 7. — Sosyal güvenlik kurumlarına tâbi olmayan, bakıma muhtaç özürlülerden ailesini kaybetmiş olanlar ile ailesi ekonomik veya sosyal yoksunluk içerisinde bulunanlara bakım hizmetinin resmî veya özel bakım kurumlarında ya da ikametlerinde verilmesi sağlanır.
-Bakıma muhtaç özürlülere sunulacak bakım hizmetlerinin kapsamı ve bu hizmetleri verecek olan gerçek ve tüzel kişilerin izin, çalışma usûl ve esasları, denetlenmeleri ile ücretlendirme ve ödemeleri Kurumun koordinatörlüğünde, Maliye Bakanlığı, Sağlık Bakanlığı ve Özürlüler İdaresi Başkanlığınca müştereken çıkarılacak yönetmelikle belirlenir.
-Bakıma muhtaç özürlülere sunulacak bakım hizmetinin karşılığı olarak her ay için kişi başına belirlenecek tutar, iki aylık net asgari ücretten fazla olamaz.
-Bakıma muhtaç özürlülerin, Kurumca bakılanlar dışındakilerin bakım ücreti bu amaçla Kurum bütçesine konulacak ödenekten karşılanır.

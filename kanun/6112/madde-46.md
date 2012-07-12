@@ -7,3 +7,4 @@ b) Ulusal ve bölgesel düzeyde faaliyette bulunan yayın kuruluşlarının soru
 c) Yerleşim yerlerinin Türkiye’de bulunması,
 ç) Kamu hizmetlerinden yasaklı olmamaları veya kısıtlı bulunmamaları,
 gerekir.
+11408

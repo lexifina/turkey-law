@@ -8,6 +8,7 @@ c) Hukukun üstünlüğü, adalet ve tarafsızlık esasına aykırı olamaz.
 ç) İnsan onuruna ve özel hayatın gizliliğine saygılı olma ilkesine aykırı olamaz, kişi ya da kuruluşları eleştiri sınırları ötesinde küçük düşürücü, aşağılayıcı veya iftira niteliğinde ifadeler içeremez.
 d) Terörü övemez ve teşvik edemez, terör örgütlerini güçlü veya haklı gösteremez, terör örgütlerinin korkutucu ve yıldırıcı özelliklerini yansıtıcı nitelikte olamaz. Terör eylemini, faillerini ve mağdurlarını terörün amaçlarına hizmet eder şekilde sunamaz.
 e) Irk, renk, dil, din, tabiiyet, cinsiyet, özürlülük, siyasî ve felsefî düşünce, mezhep ve benzeri nedenlerle ayrımcılık yapan ve bireyleri aşağılayan yayınları içeremez ve teşvik edemez.
+11385
 f) Toplumun millî ve manevî değerlerine, genel ahlaka ve ailenin korunması ilkesine aykırı olamaz.
 g) Suç işlemeyi, suçluyu ve suç örgütlerini övücü, suç tekniklerini öğretici nitelikte olamaz.
 ğ) Çocuklara, güçsüzlere ve özürlülere karşı istismar içeremez ve şiddeti teşvik edemez.
@@ -27,3 +28,4 @@ s) Toplumsal cinsiyet eşitliğine ters düşen, kadınlara yönelik baskıları
 ş) Şiddeti özendirici veya kanıksatıcı olamaz.
 (2) Radyo ve televizyon yayın hizmetlerinde, çocuk ve gençlerin fiziksel, zihinsel veya ahlakî gelişimine zarar verebilecek türde içerik taşıyan programlar bunların izleyebileceği zaman dilimlerinde ve koruyucu sembol kullanılmadan yayınlanamaz.
 (3) İsteğe bağlı yayın hizmeti sağlayıcıları, çocuk ve gençlerin fiziksel, zihinsel veya ahlakî gelişimini olumsuz etkileyebilecek nitelikteki yayın hizmetlerinin, bunların bu tür hizmetleri normal şartlar altında duymayacakları ve görmeyecekleri şekilde sunulmasını sağlamakla yükümlüdür.
+11386

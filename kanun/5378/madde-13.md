@@ -1,5 +1,6 @@
 Meslekî rehabilitasyon
-MADDE 13 — Özürlülerin yeteneklerine göre mesleğini seçme ve bu alanda eğitim alma hakkı kısıtlanamaz.
+Madde 13- Özürlülerin yeteneklerine göre mesleğini seçme ve bu alanda eğitim alma hakkı kısıtlanamaz.
 Özürlülerin yetenekleri doğrultusunda yapabilecekleri bir işte eğitilmesi, meslek kazandırılması, verimli kılınarak ekonomik ve sosyal refahının sağlanması amacıyla meslekî rehabilitasyon hizmetlerinden yararlanmasının sağlanması esastır.
 Gerçek veya tüzel kişilerce açılacak olan özel meslekî rehabilitasyon merkezleri, yetenek geliştirme merkezleri ve korumalı işyerlerinin değişik tipleri ile özel işyerlerinde bireylerin bireysel gelişimleri ve yeteneklerine uygun iş veya becerilerini geliştirici tedbirler alınır. Bu alandaki hizmetler ihtiyaçlara göre iş ve meslek analizi yapılarak hizmet satın alınması suretiyle temin edilebilir. Buna ilişkin usûl ve esaslar, Milli Eğitim Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı ve Özürlüler İdaresi Başkanlığınca müştereken çıkarılacak yönetmelikle belirlenir.
 Sosyal ve mesleki rehabilitasyon hizmetleri belediyeler tarafından da verilir. Belediyeler bu hizmetlerin sunumu sırasında gerekli gördüğü hallerde, halk eğitim ve çıraklık eğitim merkezleri ile işbirliği yapar. Özürlünün rehabilitasyon talebinin karşılanamaması halinde özürlü, hizmeti en yakın merkezden alır ve ilgili belediye her yıl bütçe talimatında belirlenen miktarı hizmetin satın alındığı merkeze öder.
+9466

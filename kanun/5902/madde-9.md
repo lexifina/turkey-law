@@ -8,5 +8,6 @@ d) İtfaiye, arama ve kurtarma hizmeti veren kurum ve kuruluşlarla işbirliği 
 e) Gönüllü itfaiye ile arama ve kurtarma hizmetlerini düzenlemek ve teşvik etmek.
 f) Koruyucu ve kurtarıcı faaliyetleri planlamak ve yürütmek.
 g) Afet ve acil duruma ilişkin anlaşmalarla verilen görevleri yürütmek.
+10453
 ğ) Yabancı devletlerle ve uluslararası kuruluşlarla görev alanına giren konularda işbirliği yapmak.
 h) Başkan tarafından verilecek benzeri görevleri yapmak.

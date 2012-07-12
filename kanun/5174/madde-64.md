@@ -1,5 +1,5 @@
 Oda ve borsa konseylerinin görevleri
-MADDE 64 - Oda ve borsa konseylerinin görevleri şunlardır:
+Madde 64- Oda ve borsa konseylerinin görevleri şunlardır:
 a) Konsey başkan ve başkan yardımcılarını seçmek.
 b) Oda ve borsalardan gelen konuları görüşüp teklif ve görüş şeklinde yönetim kuruluna sunmak.
 c) İktisadî raporları, mevzuat değişikliklerine ilişkin kararları gözden geçirmek, temsil ettikleri kesimin ekonomik sorunları hakkında incelemeler yapmak.

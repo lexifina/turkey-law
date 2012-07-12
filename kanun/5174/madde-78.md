@@ -1,5 +1,5 @@
 Bütçelerden ayrılacak paylar
-MADDE 78 - Odalar, borsalar ve Birlikçe hazırlanan bütçelerde;
+Madde 78- Odalar, borsalar ve Birlikçe hazırlanan bütçelerde;
 a) Genel Kurul kararıyla, Türkiye Odalar, Borsalar ve Birlik Personeli Sigorta ve Emekli Sandığı Vakfına ödenmek üzere yüzde bir oranında,
 b) Bakanlık iç ticaret hizmetlerini geliştirmek üzere her yıl yüzde biri geçmemek üzere,
 Pay ayrılır.

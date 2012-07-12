@@ -1,14 +1,15 @@
 Borsa meclisinin görevleri
-MADDE 39 - Borsa meclisinin görevleri şunlardır:
+Madde 39- Borsa meclisinin görevleri şunlardır:
 a) Borsa yönetim kurulu ve disiplin kurulu üyelerini seçmek.
 b) Kendi üyeleri arasından Birlik genel kurul delegelerini seçmek.
+8787
 c) Yönetim kurulu tarafından yapılacak teklifleri inceleyip karara bağlamak.
 d) Çalışma alanları içindeki örf, adet ve teamülleri tespit ve ilân etmek.
 e) Aylık mizanı ve aktarma taleplerini incelemek ve onaylamak.
 f) Borsada gerçekleştirilen işlemlerden veya üyelerin yapmış oldukları sözleşmede yer alması halinde bu sözleşmelerle ilgili olarak çıkan ihtilafları çözmekle görevli tahkim müesseseleri oluşturmak.
 g) Borsa dışında yapılan işlemlerden doğabilecek ihtilafların çözümü için, mahkemeler tarafından istenecek bilirkişi listesini onaylamak.
 h) Borsa üyeleri hakkında disiplin kurulu tarafından teklif edilecek cezalara karar vermek.
-ı)Yıllık bütçe ve kesin hesapları onaylamak ve yönetim kurulunu ibra etmek, sorumluluğu görülenler hakkında takibat işlemlerini başlatmak.
+ı) Yıllık bütçe ve kesin hesapları onaylamak ve yönetim kurulunu ibra etmek, sorumluluğu görülenler hakkında takibat işlemlerini başlatmak.
 j) Taşınmaz alımına, satımına, inşa, ifraz, tevhit ve rehnine ve ödünç para alınmasına, kamulaştırma yapılmasına ve bu Kanun hükümleri çerçevesinde şirketlere ortak olmaya karar vermek.
 k) Borsa iç yönergesini kabul etmek ve Birliğin onayına sunmak.
 l) Borsaya dahil maddelerden hangilerinin, daha sonra tescil ettirilmek şartıyla, borsa yerinin dışında alınıp satılabileceğini belirlemek ve bu şekilde alınıp satılacak maddelerin otuz günü geçmemek kaydıyla tescil edilmesine ilişkin süreyi belirlemek.

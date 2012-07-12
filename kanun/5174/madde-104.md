@@ -1,2 +1,2 @@
 Yürürlük
-MADDE 104 - Bu Kanun yayımı tarihinde yürürlüğe girer.
+Madde 104- Bu Kanun yayımı tarihinde yürürlüğe girer.

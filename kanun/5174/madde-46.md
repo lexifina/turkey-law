@@ -1,7 +1,8 @@
 Borsa işlemlerinin tescili
-MADDE 46 - Borsaya tâbi maddelerin en az miktarları üzerinde yapılan alım satım muamelelerinin borsalara tescili zorunludur. Elektronik ticaret yoluyla yapılan satışlar da bu madde kapsamındadır.
+Madde 46- Borsaya tâbi maddelerin en az miktarları üzerinde yapılan alım satım muamelelerinin borsalara tescili zorunludur. Elektronik ticaret yoluyla yapılan satışlar da bu madde kapsamındadır.
 Borsalarca gösterilen yerlerde yapılan işlemler aynı gün, borsa dışında alınıp satılmasına müsaade edilen maddelere ait işlemler en geç otuz gün içinde tescil ettirilir. Geçerli bir neden olmaksızın belirtilen sürelerde tescil zorunluluğunun yerine getirilmemesi durumunda, tescil ücreti yüzde elli fazlasıyla tahsil olunur.
 Borsaya tâbi olmamakla birlikte yeterli arz ve talebi bulunan, misli nitelikte tarımsal ürünlerin alım satım işlemleri, alıcı veya satıcının talebine bağlı olarak borsaya tescil edilebilir. Borsaya tâbi maddelerle ilgili alivre ve vadeli alım satım işlemlerine ilişkin tip sözleşmeler ticaret borsalarınca hazırlanır. Buna göre düzenlenecek sözleşmeler ticaret borsalarına tescil ettirilir. Bu Kanun hükümlerine tâbi olarak düzenlenen sözleşme, ürün senedi ve benzeri belgeler, 2499 sayılı Sermaye Piyasası Kanunu uyarınca düzenlenen vadeli işlem ve opsiyon sözleşmeleri gibi değerlendirilmez. Bu fıkranın uygulanmasına ilişkin esaslar Birlikçe çıkarılacak yönetmelikle düzenlenir.
+8790
 Tescil yükümlülüğü aşağıdaki şekilde yerine getirilir:
 a) Alıcı ve satıcının aynı borsanın çalışma alanı içinde bulunmaları halinde, işlem borsa örf ve adetlerine göre tespit olunan tarafça o borsaya tescil ettirilir ve tescil ücreti ödenir. Tescil ile yükümlü olan tarafın yokluğu halinde, diğer taraf tescili yaptırmak ve ücretini ödemekle yükümlüdür.
 b) Alıcı ve satıcıdan birinin borsanın çalışma alanı içinde, diğerinin dışında olması halinde;

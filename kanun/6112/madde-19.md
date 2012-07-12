@@ -3,6 +3,7 @@ ALTINCI BÖLÜM
 Kuruluş ve hisse oranları
 MADDE 19 – (1) Özel medya hizmet sağlayıcı kuruluşların şirket yapıları ve hisse oranları ile ilgili uymaları gereken hususlar şunlardır:
 a) Yayın lisansı, münhasıran radyo, televizyon ve isteğe bağlı yayın hizmeti sunmak amacıyla Türk Ticaret Kanunu hükümlerine göre kurulmuş anonim şirketlere verilir. Aynı şirket ancak bir radyo, bir televizyon ve bir isteğe bağlı yayın hizmeti sunabilir. Medya hizmet sağlayıcı kuruluşlar, yayın lisansının verilmesinden sonra da ana sözleşmelerine bu maddedeki esaslara aykırı hükümler koyamazlar. Ana sözleşme değişiklikleri bir ay içinde Üst Kurula bildirilir.
+11391
 b) Siyasî partiler, sendikalar, meslek kuruluşları, kooperatifler, birlikler, dernekler, vakıflar, mahallî idareler ve bunlar tarafından kurulan veya bunların doğrudan veya dolaylı ortak oldukları şirketler ile sermaye piyasası kurumları ve bunlara doğrudan veya dolaylı ortak olan gerçek ve tüzel kişilere yayın lisansı verilemez. Bu kuruluşlar, medya hizmet sağlayıcı kuruluşlara doğrudan veya dolaylı ortak olamaz.
 c) Medya hizmet sağlayıcı kuruluşların hisseleri nama yazılı olmak zorundadır. Herhangi bir kişi lehine intifa senedi ihdas edilemez.
 ç) Medya hizmet sağlayıcı kuruluşlar, 28/7/1981 tarihli ve 2499 sayılı Sermaye Piyasası Kanunu ve ilgili mevzuat çerçevesinde sermaye piyasası araçlarını ihraç ve halka arz edebilirler. Bu durumda mevzuat gereği Sermaye Piyasası Kurulunda kayda alınmadan önce Üst Kurulun onayının alınması zorunludur. Halka açık hisselerde nama yazılı olma şartı aranmaz.

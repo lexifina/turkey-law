@@ -1,2 +1,0 @@
-Gebe veya çocuk emziren kadınlar için yönetmelik
-MADDE 88. - Gebe veya çocuk emziren kadınların hangi dönemlerde ne gibi işlerde çalıştırılmalarının yasak olduğu ve bunların çalışmalarında sakınca olmayan işlerde hangi şartlar ve usullere uyacakları, ne suretle emzirme odaları veya çocuk bakım yurdu (kreş) kurulması gerektiği (Ek altı çizili ibare:15/5/2008-5763/6 md.) veya hangi hallerde dışarıdan hizmet alabilecekleri Sağlık Bakanlığının görüşü alınarak Çalışma ve Sosyal Güvenlik Bakanlığı tarafından hazırlanacak bir yönetmelikte gösterilir.

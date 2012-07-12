@@ -1,5 +1,5 @@
 Toplu işçi çıkarma
-MADDE 29. - İşveren; ekonomik, teknolojik, yapısal ve benzeri işletme, işyeri veya işin gerekleri sonucu toplu işçi çıkarmak istediğinde, bunu en az otuz gün önceden bir yazı ile, işyeri sendika temsilcilerine, ilgili bölge müdürlüğüne ve Türkiye İş Kurumuna bildirir.
+Madde 29 - İşveren; ekonomik, teknolojik, yapısal ve benzeri işletme, işyeri veya işin gerekleri sonucu toplu işçi çıkarmak istediğinde, bunu en az otuz gün önceden bir yazı ile, işyeri sendika temsilcilerine, ilgili bölge müdürlüğüne ve Türkiye İş Kurumuna bildirir.
 İşyerinde çalışan işçi sayısı:
 a) 20 ile 100 işçi arasında ise, en az 10 işçinin,
 b) 101 ile 300 işçi arasında ise, en az yüzde on oranında işçinin,

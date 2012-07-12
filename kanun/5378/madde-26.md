@@ -1,3 +1,1 @@
-MADDE 26 — 24.5.1983 tarihli ve 2828 sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununun 3 üncü maddesinin (c) bendinden sonra gelmek üzere aşağıdaki (d) bendi eklenerek bentler teselsül ettirilmiş ve mevcut (e) bendine (11) numaralı alt bent eklenmiştir.
-d) "Bakıma Muhtaç Özürlü"; özürlülük sınıflandırmasına göre resmî sağlık kurulu raporu ile ağır özürlü olduğu belgelendirilenlerden, günlük hayatın alışılmış, tekrar eden gereklerini önemli ölçüde yerine getirememesi nedeniyle hayatını başkasının yardımı ve bakımı olmadan devam ettiremeyecek derecede düşkün olan kişiyi,
-11 - "Çocuk evleri"; 0-18 yaşlar arasındaki korunmaya muhtaç çocukların kaldığı ev birimlerini,
+Madde 26-30- (24.5.1983 tarihli ve 2828 sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanunu ile ilgili olup yerine işlenmiştir. )

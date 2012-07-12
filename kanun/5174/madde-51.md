@@ -1,5 +1,5 @@
 Ücretler ve belge bedelleri
-MADDE 51 - Borsalarca verilen hizmetler ile onaylanan ve düzenlenen belgeler karşılığında alınan ücretlerin oran ve miktarı, maktu ücretlerde yıllık aidat tavanını geçmemek, nispî ücretlerde bu tavanı aşmamak ve binde beşten fazla olmamak kaydıyla borsa yönetim kurulunun teklifi ve meclisin onayı ile yürürlüğe konulacak tarifelerle tespit olunur. Borsaca verilen hizmetin dışarıdan satın alınması halinde, satın alınan hizmetin bedeli bu tavanın iki katını geçmemek üzere ücrete eklenerek ilgiliden tahsil edilir.
+Madde 51- Borsalarca verilen hizmetler ile onaylanan ve düzenlenen belgeler karşılığında alınan ücretlerin oran ve miktarı, maktu ücretlerde yıllık aidat tavanını geçmemek, nispî ücretlerde bu tavanı aşmamak ve binde beşten fazla olmamak kaydıyla borsa yönetim kurulunun teklifi ve meclisin onayı ile yürürlüğe konulacak tarifelerle tespit olunur. Borsaca verilen hizmetin dışarıdan satın alınması halinde, satın alınan hizmetin bedeli bu tavanın iki katını geçmemek üzere ücrete eklenerek ilgiliden tahsil edilir.
 Borsalarca düzenlenecek veya onaylanacak belgeler ile verilecek hizmetler şunlardır:
 a) Eksper raporları.
 b) Analiz raporları.

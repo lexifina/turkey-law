@@ -1,1 +1,1 @@
-MADDE 25 — 1.7.1976 tarihli ve 2022 sayılı 65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanunun 1 inci maddesinin ikinci ve dördüncü fıkraları yürürlükten kaldırılmış ve aynı Kanuna aşağıdaki ek madde eklenmiştir.
+Madde 25- (1.7.1976 tarihli ve 2022 sayılı 65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanun ile ilgili olup yerine işlenmiştir. )

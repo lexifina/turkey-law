@@ -1,2 +1,2 @@
-MADDE 42 — 25.3.1997 tarihli ve 571 sayılı Kanun Hükmünde Kararnamenin 3 üncü maddesinin (h) bendine aşağıdaki paragraf eklenmiştir.
-Başkanlığın bağlı olduğu Bakanın onayı ile özürlü kimlik kartı hazırlama veya verme yetkisi, valiliklere devredilebilir. Özürlü kimlik kartı hazırlama ve verme usûl ve esasları, İçişleri Bakanlığı ve Özürlüler İdaresi Başkanlığı ile Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğünce müştereken hazırlanacak yönetmelikle belirlenir.
+Madde 42-48- (25.3.1997 tarihli ve 571 sayılı Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir. )
+9468

@@ -1,5 +1,5 @@
 Gelirler ve bütçe
-MADDE 72 - Birliğin gelirleri; aidatlar, hizmetler karşılığı alınacak ücretler, bağış ve yardımlar, yayın gelirleri ve diğer gelirlerden oluşur.
+Madde 72- Birliğin gelirleri; aidatlar, hizmetler karşılığı alınacak ücretler, bağış ve yardımlar, yayın gelirleri ve diğer gelirlerden oluşur.
 Birlik bütçesi, Yönetim Kurulunca yıllık olarak hazırlanır ve Genel Kurulca kararlaştırılır.
 Bütçeden harcama, Birlik Başkanı veya yetkilendirdiği başkan yardımcısı ve Genel Sekreterin veya sayman üyenin ortak imzası ile yapılır.
 Yönetim Kurulunun önerisi üzerine Genel Kurulca saptanan miktar kadar harcama, sonradan yönetim kurulunun onayına sunulmak şartıyla, Birlik Başkanı tarafından re’sen yapılabilir.

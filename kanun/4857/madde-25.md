@@ -1,5 +1,5 @@
 İşverenin haklı nedenle derhal fesih hakkı
-MADDE 25. - Süresi belirli olsun veya olmasın işveren, aşağıda yazılı hallerde iş sözleşmesini sürenin bitiminden önce veya bildirim süresini beklemeksizin feshedebilir:
+Madde 25 - Süresi belirli olsun veya olmasın işveren, aşağıda yazılı hallerde iş sözleşmesini sürenin bitiminden önce veya bildirim süresini beklemeksizin feshedebilir:
 I- Sağlık sebepleri:
 a) İşçinin kendi kastından veya derli toplu olmayan yaşayışından yahut içkiye düşkünlüğünden doğacak bir hastalığa veya sakatlığa uğraması halinde, bu sebeple doğacak devamsızlığın ardı ardına üç iş günü veya bir ayda beş iş gününden fazla sürmesi.
 b) İşçinin tutulduğu hastalığın tedavi edilemeyecek nitelikte olduğu ve işyerinde çalışmasında sakınca bulunduğunun Sağlık Kurulunca saptanması durumunda.
@@ -11,6 +11,7 @@ c) İşçinin işverenin başka bir işçisine cinsel tacizde bulunması.
 d) İşçinin işverene yahut onun ailesi üyelerinden birine yahut işverenin başka işçisine sataşması veya 84 üncü maddeye aykırı hareket etmesi.
 e) İşçinin, işverenin güvenini kötüye kullanmak, hırsızlık yapmak, işverenin meslek sırlarını ortaya atmak gibi doğruluk ve bağlılığa uymayan davranışlarda bulunması.
 f) İşçinin, işyerinde, yedi günden fazla hapisle cezalandırılan ve cezası ertelenmeyen bir suç işlemesi.
+8433
 g) İşçinin işverenden izin almaksızın veya haklı bir sebebe dayanmaksızın ardı ardına iki işgünü veya bir ay içinde iki defa herhangi bir tatil gününden sonraki iş günü, yahut bir ayda üç işgünü işine devam etmemesi.
 h) İşçinin yapmakla ödevli bulunduğu görevleri kendisine hatırlatıldığı halde yapmamakta ısrar etmesi.
 ı) İşçinin kendi isteği veya savsaması yüzünden işin güvenliğini tehlikeye düşürmesi, işyerinin malı olan veya malı olmayıp da eli altında bulunan makineleri, tesisatı veya başka eşya ve maddeleri otuz günlük ücretinin tutarıyla ödeyemeyecek derecede hasara ve kayba uğratması.

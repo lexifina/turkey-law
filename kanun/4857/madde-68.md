@@ -1,5 +1,5 @@
 Ara dinlenmesi
-MADDE 68. - Günlük çalışma süresinin ortalama bir zamanında o yerin gelenekleri ve işin gereğine göre ayarlanmak suretiyle işçilere;
+Madde 68 - Günlük çalışma süresinin ortalama bir zamanında o yerin gelenekleri ve işin gereğine göre ayarlanmak suretiyle işçilere;
 a) Dört saat veya daha kısa süreli işlerde onbeş dakika,
 b) Dört saatten fazla ve yedibuçuk saate kadar (yedibuçuk saat dahil) süreli işlerde yarım saat,
 c) Yedibuçuk saatten fazla süreli işlerde bir saat,

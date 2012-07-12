@@ -1,7 +1,7 @@
 DÖRDÜNCÜ BÖLÜM
 Yatırım Dönemine İlişkin Uygulama Esasları
 Yatırım dönemi uygulamaları
-MADDE 7 — Yenilenebilir enerji kaynaklarını kullanarak sadece kendi ihtiyaçlarını karşılamak amacıyla azami bin kilovatlık kurulu güce sahip izole elektrik üretim tesisi ve şebeke destekli elektrik üretim tesisi kuran gerçek ve tüzel kişilerden kesin projesi, planlaması, master planı, ön incelemesi veya ilk etüdü DSİ veya EİE tarafından hazırlanan projeler için hizmet bedelleri alınmaz.
+Madde 7- Yenilenebilir enerji kaynaklarını kullanarak sadece kendi ihtiyaçlarını karşılamak amacıyla azami bin kilovatlık kurulu güce sahip izole elektrik üretim tesisi ve şebeke destekli elektrik üretim tesisi kuran gerçek ve tüzel kişilerden kesin projesi, planlaması, master planı, ön incelemesi veya ilk etüdü DSİ veya EİE tarafından hazırlanan projeler için hizmet bedelleri alınmaz.
 Bu Kanun kapsamında;
 a) Enerji üretim tesis yatırımları,
 b) Kullanılacak elektro-mekanik sistemlerin yurt içinde imalat olarak temini,

@@ -1,5 +1,6 @@
 Yürütme
-MADDE 15 — Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Madde 15- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+9389
 I Sayılı Cetvel (29/12/2010 tarihli ve 6094 sayılı Kanunun hükmüdür.)
 Yenilenebilir Enerji Kaynağına Dayalı Üretim Tesis Tipi | Uygulanacak Fiyatlar (ABD Doları cent/kWh)
 a. Hidroelektrik üretim tesisi | 7,3
@@ -7,6 +8,7 @@ b. Rüzgar enerjisine dayalı üretim tesisi | 7,3
 c. Jeotermal enerjisine dayalı üretim tesisi | 10,5
 d. Biyokütleye dayalı üretim tesisi (çöp gazı dahil) | 13,3
 e. Güneş enerjisine dayalı üretim tesisi | 13,3
+9390
 II Sayılı Cetvel (29/12/2010 tarihli ve 6094 sayılı Kanunun hükmüdür.)
 Tesis Tipi | Yurt İçinde Gerçekleşen İmalat | Yerli Katkı İlavesi (ABD Doları cent/kWh)
 A- Hidrolelektrik üretim tesisi | 1- Türbin | 1,3
@@ -37,3 +39,4 @@ E- Biyokütle enerjisine dayalı üretim tesisi | 1- Akışkan yataklı buhar ka
 F- Jeotermal enerjisine dayalı üretim tesisi | 1- Buhar veya gaz türbini | 1,3
 2- Jeneratör ve güç elektroniği | 0,7
 3- Buhar enjektörü veya vakum kompresörü | 0,7
+9390-1

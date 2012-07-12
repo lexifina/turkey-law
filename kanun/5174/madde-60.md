@@ -1,7 +1,7 @@
 İKİNCİ BÖLÜM
 Birlik Organları, Oluşumları ve Görevleri
 Birliğin organları
-MADDE 60 - Birliğin organları şunlardır:
+Madde 60- Birliğin organları şunlardır:
 a) Genel Kurul.
 b) Oda ve Borsa Konseyleri.
 c) Yönetim Kurulu.

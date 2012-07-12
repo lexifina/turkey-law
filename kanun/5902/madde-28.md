@@ -1,5 +1,6 @@
 Yürütme
 MADDE 28 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+10462
 (I) SAYILI CETVEL
 (Değişik: 24/10/2011-KHK-661/91 md.)
 AFET VE ACİL DURUM YÖNETİMİ BAŞKANLIĞI TEŞKİLATI

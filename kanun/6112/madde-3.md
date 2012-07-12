@@ -9,6 +9,7 @@ e) Bölgesel yayın: Bir coğrafi bölge içindeki illerin toplam nüfusunun asg
 f) Editoryal sorumluluk: Programların içeriği ve seçimi ile radyo ve televizyon yayın hizmetlerinde bir yayın akış çizelgesi, isteğe bağlı yayın hizmetlerinde ise bir katalog içinde sunulmasına ilişkin düzenleme ve kontrol yetkisine sahip olmayı,
 g) Gizli ticarî iletişim: Medya hizmet sağlayıcı tarafından reklam yapmak maksadıyla veya kamuyu yönlendirebilecek şekilde; mal veya hizmet üreticisinin faaliyetinin, ticarî markasının, adının, hizmetinin ve ürününün reklam kuşakları dışında ve reklam yapıldığına ilişkin açıklayıcı bir ses veya görüntü bulunmaksızın programlarda sözcükler veya resimler ile tanıtılmasını,
 ğ) İletim: Yayın hizmetlerinin ilk olarak sağlanmasını,
+11381
 h) İsteğe bağlı yayın hizmeti: Programların kullanıcının seçtiği bir zamanda ve münferit isteği üzerine medya hizmet sağlayıcı tarafından düzenlenmiş bir program kataloğuna bağlı olarak izlendiği veya dinlendiği yayın hizmetini,
 ı) Kablo ortamı: Yayın hizmetinin her türlü kablo altyapısı üzerinden abonelere iletildiği ortamı,
 i) Karasal ortam: Yayın hizmetinin karasal verici sistemleri vasıtasıyla alıcılara iletildiği ortamı,
@@ -23,6 +24,7 @@ p) Platform işletmecisi: Çok sayıda yayın hizmetini bir veya birden fazla si
 r) Program: Bir medya hizmet sağlayıcı tarafından hazırlanan bir yayın akış çizelgesi veya katalog içinde yer alan bir dizi görsel ve/veya işitsel unsurun oluşturduğu tek bir bütünü,
 s) Program destekleme: Yayın hizmetinin sağlanmasıyla veya görsel-işitsel eserlerin üretimiyle bağlantılı olmayan gerçek veya tüzel kişilerin adını, markasını, logosunu, imajını, faaliyetlerini veya ürünlerini tanıtmak amacıyla programlara yönelik yaptığı her türlü katkıyı,
 ş) Radyo ve televizyon reklamı: Taşınmazlar, hak ve yükümlülükler dâhil olmak üzere mal veya hizmetlerin teminini teşvik etmek, bir amaç veya düşünceyi yaymak veya başka etkileri oluşturmak amacıyla ticaret, iş, zanaat veya bir meslekle bağlantılı gerçek ve tüzel kişi tarafından, bir ücret veya benzeri bir karşılıkla yapılan her türlü duyuru veya öz tanıtım yayınını,
+11382
 t) Radyo yayın hizmeti: Karasal, kablo, uydu ve diğer yayın ortamları üzerinden yapılan ve bireysel iletişim hizmetlerini kapsamayan ses ve veri yayınını,
 u) Sayısal yayın: Sayısal kodlama ve modülasyon tekniği kullanılarak kablo, uydu, karasal ve benzeri ortamlardan yapılan yayın hizmetini,
 ü) Tele-alışveriş: Taşınmazlar, hak ve yükümlülükler dâhil olmak üzere, mal veya hizmetlerin bir ücret karşılığında temini amacıyla kamuya yönelik doğrudan arz yayınını,
@@ -38,6 +40,7 @@ ee) Yayıncı: Televizyon ve/veya radyo yayın hizmeti veren medya hizmet sağla
 ff) Yayın hizmeti: Medya hizmet sağlayıcının editoryal sorumluluğu altında ve temel amacı kamuoyunu bilgilendirmek, eğlendirmek veya eğitmek üzere elektronik iletişim şebekeleri yoluyla program sunmak olan, bireysel iletişim hariç olmak üzere, televizyon yayın hizmeti, isteğe bağlı yayın hizmeti ve ticarî iletişim ile radyo yayın hizmetini,
 gg) Yayın hizmeti iletim altyapısı: Karasal, uydu, kablo ve benzeri ortamlardan yayın hizmetlerinin iletiminde kullanılan sistem ve tesisleri,
 ğğ) Yayın iletim yetkisi: Multipleks, platform ve altyapı işletmecisi kuruluşlar ile verici tesis ve işletim şirketine radyo, televizyon ve isteğe bağlı yayın hizmetlerini iletebilmeleri için Üst Kurulca verilen yetkilendirme belgesini,
+11383
 hh) Yayın lisansı: Medya hizmet sağlayıcı kuruluşlara, bu Kanun ve bu Kanuna dayanılarak çıkarılan yönetmelik ve diğer düzenlemelerde belirtilen şartları haiz oldukları takdirde kablo, uydu, karasal ve benzeri ortamlardan her türlü teknoloji ile yayın yapabilmeleri için her bir yayın türü, tekniği ve ortamına ilişkin olarak ayrı ayrı olmak üzere Üst Kurulca verilen izin belgesini,
 ıı) Yayın ortamı: Kablo, uydu, karasal ve benzeri iletim ortamlarını,
 ii) Yeniden iletim: Bir medya hizmet sağlayıcı tarafından sunulan yayın hizmetinin bütününün veya büyük bir bölümünün, kullanılan teknik araç ne olursa olsun alınmasını ve eş zamanlı olarak değişiklik yapılmadan iletilmesini,

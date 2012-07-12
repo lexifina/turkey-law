@@ -1,5 +1,5 @@
 Yıllık ücretli iznin uygulanması
-MADDE 56. - Yıllık ücretli izin işveren tarafından bölünemez.
+Madde 56 - Yıllık ücretli izin işveren tarafından bölünemez.
 Bu iznin 53 üncü maddede gösterilen süreler içinde işveren tarafından sürekli bir şekilde verilmesi zorunludur.
 Ancak, 53 üncü maddede öngörülen izin süreleri, tarafların anlaşması ile bir bölümü on günden aşağı olmamak üzere en çok üçe bölünebilir.
 İşveren tarafından yıl içinde verilmiş bulunan diğer ücretli ve ücretsiz izinler veya dinlenme ve hastalık izinleri yıllık izne mahsup edilemez.

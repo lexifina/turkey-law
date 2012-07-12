@@ -1,5 +1,6 @@
 Kısmî süreli ve tam süreli iş sözleşmesi
-MADDE 13 - İşçinin normal haftalık çalışma süresinin, tam süreli iş sözleşmesiyle çalışan emsal işçiye göre önemli ölçüde daha az belirlenmesi durumunda sözleşme kısmî süreli iş sözleşmesidir.
+Madde 13 - İşçinin normal haftalık çalışma süresinin, tam süreli iş sözleşmesiyle çalışan emsal işçiye göre önemli ölçüde daha az belirlenmesi durumunda sözleşme kısmî süreli iş sözleşmesidir.
 Kısmî süreli iş sözleşmesi ile çalıştırılan işçi, ayırımı haklı kılan bir neden olmadıkça, salt iş sözleşmesinin kısmî süreli olmasından dolayı tam süreli emsal işçiye göre farklı işleme tâbi tutulamaz. Kısmî süreli çalışan işçinin ücret ve paraya ilişkin bölünebilir menfaatleri, tam süreli emsal işçiye göre çalıştığı süreye orantılı olarak ödenir.
+8428
 Emsal işçi, işyerinde aynı veya benzeri işte tam süreli çalıştırılan işçidir. İşyerinde böyle bir işçi bulunmadığı takdirde, o işkolunda şartlara uygun işyerinde aynı veya benzer işi üstlenen tam süreli iş sözleşmesiyle çalıştırılan işçi esas alınır.
 İşyerinde çalışan işçilerin, niteliklerine uygun açık yer bulunduğunda kısmî süreliden tam süreliye veya tam süreliden kısmî süreliye geçirilme istekleri işverence dikkate alınır ve boş yerler zamanında duyurulur.

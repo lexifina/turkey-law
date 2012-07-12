@@ -1,5 +1,5 @@
 İstisnalar
-MADDE 4.- Aşağıda belirtilen işlerde ve iş ilişkilerinde bu Kanun hükümleri uygulanmaz;
+Madde 4 -Aşağıda belirtilen işlerde ve iş ilişkilerinde bu Kanun hükümleri uygulanmaz;
 a) Deniz ve hava taşıma işlerinde,
 b) 50'den az işçi çalıştırılan (50 dahil) tarım ve orman işlerinin yapıldığı işyerlerinde veya işletmelerinde,
 c) Aile ekonomisi sınırları içinde kalan tarımla ilgili her çeşit yapı işleri,
@@ -9,6 +9,7 @@ f) İş sağlığı ve güvenliği hükümleri saklı kalmak üzere çıraklar h
 g) Sporcular hakkında,
 h) Rehabilite edilenler hakkında,
 ı) 507 sayılı Esnaf ve Sanatkârlar Kanununun 2 nci maddesinin tarifine uygun üç kişinin çalıştığı işyerlerinde.
+8425
 Şu kadar ki;
 a) Kıyılarda veya liman ve iskelelerde gemilerden karaya ve karadan gemilere yapılan yükleme ve boşaltma işleri,
 b) Havacılığın bütün yer tesislerinde yürütülen işler,

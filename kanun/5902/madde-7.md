@@ -6,6 +6,7 @@ c) Afet ve acil durum hallerinde müdahaleyi koordine etmek ve üst makamları b
 ç) Sivil savunma arama ve kurtarma birlik müdürlüklerinin görev yerlerini, ilgili kamu kurum ve kuruluşları ve sivil toplum kuruluşları ile koordine ederek belirlemek.
 d) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu uyarınca bir iç denetçi atamak.
 e) Resmi ve özel kurum ve kuruluşlar ile ilişkileri yürütmek.
+10452
 f) Basın ve halkla ilişkiler faaliyetlerini planlamak ve yürütmek.
 g) Başkanlığın yıllık çalışma raporu ve eylem planını hazırlamak.
 ğ) Başbakan veya ilgili bakan tarafından verilecek benzeri görevleri yapmak.

@@ -1,5 +1,5 @@
 Odalarda belge bedelleri ve ücretler
-MADDE 26 - Odalarca verilen hizmetler ile onaylanan ve düzenlenen belgeler karşılığında alınan ücretlerin oran ve miktarı, maktu ücretlerde yıllık aidat tavanını geçmemek, nispî ücretlerde bu tavanı aşmamak ve binde beşten fazla olmamak kaydıyla oda yönetim kurullarının teklifi, meclislerin onayı ile yürürlüğe konulacak tarifelerle tespit olunur. Odalarca verilen hizmetin dışarıdan satın alınması halinde, satın alınan hizmetin bedeli de bu tavanın iki katını geçmemek üzere ücrete eklenerek ilgiliden tahsil edilir.
+Madde 26- Odalarca verilen hizmetler ile onaylanan ve düzenlenen belgeler karşılığında alınan ücretlerin oran ve miktarı, maktu ücretlerde yıllık aidat tavanını geçmemek, nispî ücretlerde bu tavanı aşmamak ve binde beşten fazla olmamak kaydıyla oda yönetim kurullarının teklifi, meclislerin onayı ile yürürlüğe konulacak tarifelerle tespit olunur. Odalarca verilen hizmetin dışarıdan satın alınması halinde, satın alınan hizmetin bedeli de bu tavanın iki katını geçmemek üzere ücrete eklenerek ilgiliden tahsil edilir.
 Odalarca düzenlenecek veya onaylanacak belgeler ile verilecek hizmetler şunlardır:
 a) Fatura suretlerinin onayı.
 b) Rayiç fiyatların onayı.
@@ -9,7 +9,7 @@ e) Kefaletname ve taahhütnamelerde yazılı imza sahiplerinin odalardaki sicil 
 f) Sınaî ve ticarî mahiyette belgeler.
 g) Ticarî kefalet onayları.
 h) Tahsis ve sarfiyat belgeleri.
-ı)Kalite, yeterlik ve numune belgeleri.
+ı) Kalite, yeterlik ve numune belgeleri.
 j) Yerli malı belgeleri.
 k) Kayıtlı üyelerin tatbik imzalarının onayı.
 l) Oda mensuplarına ait kayıt ve sicil suretleri ve üye kimlikleri.
@@ -21,4 +21,5 @@ r) Türkiye Ticaret Sicili Gazetesi suretleri.
 s) Türk veya yabancı bayraklı gemilere verilecek genel ve uluslararası sektörel hizmetler.
 t) Ticaret sicili hizmetleri.
 u) Ticarî ve sınaî mahiyette diğer her türlü belge ve bilgiler ile hizmetler.
+8783
 Deniz ticaret odasınca Türk ve yabancı bayraklı gemilerden hizmet veya onay karşılığı alınacak ücretlerin, hizmet veya onaydan itibaren en geç onbeş gün içinde ödenmesi gerekir.

@@ -1,3 +1,8 @@
-EK MADDE 1 — (Ek: 21/4/2005-5335/18 md.)
+Ek Madde 1 – (Ek:21/4/2005 – 5335/18 md.)
 Hazine Müsteşarlığınca ihraç edilen Devlet iç borçlanma senetleri veya bu senetler yerine düzenlenen belgeler, satılacak Hazine taşınmazlarının bedellerinin ödenmesinde nominal değerleri üzerinden ödeme aracı olarak kabul edilir. Söz konusu senet ve belgelerin nominal bedele faiz dahil edilerek ihraç edilmiş olması halinde, bu işlemlerde anaparaya tekabül eden satış değerleri esas alınır.
 Taşınmaz satış ihalelerinde, dışarıda yerleşik kişiler ile geçimini yurt dışında temin eden Türk vatandaşlarından, teminat olarak Türkiye Cumhuriyet Merkez Bankasınca belirlenen konvertibl döviz alınabilir.
+–––––––––––––––
+(1) Bu fıkrada yer alan ve 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle değiştirilen “28.7.1981 tarihli ve 2499 sayılı Kanuna tâbi ekspertiz şirketlerine değer tespit ettirilebilir.” cümlesi,(Değiştirilen ibare olduğu halde 5228 sayılı Kanunda cümle ifadesi kullanıldığı için Kanuna uyulmuştur.)“28.7.1981 tarihli ve 2499 sayılı Kanuna tâbi ekspertiz şirketlerine, rayiç bedel tespit ettirilebilir; bu durumda, ekspertiz şirketleri ile Maliye Bakanlığı merkez denetim elemanlarınca tespit edilen rayiç bedel, tahmin edilen bedel olarak dikkate alınır.”olarak değiştirilmiş ve metne işlenmiştir.
+(2) 11/10/2011 tarihli ve 666 sayılı KHK’nın 5 inci maddesiyle bu fıkrada yer alan “merkez denetim elemanlarınca” ibaresi “merkez denetim elemanları ve Maliye Uzmanlarınca” şeklinde değiştirilmiştir.
+(3) Bu fıkrada yer alan “ imar planlarına uygun olarak konut yapılmak amacıyla” ibaresi, “konut yapılmak amacıyla”olarak 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle değiştirilmiş ve metne işlenmiştir.
+8040-1

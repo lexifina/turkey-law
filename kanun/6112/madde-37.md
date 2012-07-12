@@ -10,6 +10,7 @@ f) Türkiye Cumhuriyeti topraklarında yerleşik olmayan, ancak Türkiye Cumhuri
 g) Yayın hizmetlerinin izlenmesi ve denetlenmesi için gerekli izleme ve kayıt sistemlerini, gerekli hâllerde yayıncı kuruluş stüdyolarına da cihaz yerleştirerek kurmak.
 ğ) Medya hizmet sağlayıcılarının yayın hizmetlerinde yer verecekleri koruyucu sembol sistemi ile ilgili usul ve esasları belirlemek.
 h) Medya hizmet sağlayıcılarının sunduğu yayın hizmetlerinde ve platform, multipleks, altyapı işletmecileri ile verici tesis ve işletim şirketinin sunduğu hizmetlerde bu Kanuna ve ilgili diğer mevzuata aykırılık tespit edilmesi veya yayın lisansı şartlarına uyulmaması hâlinde gerekli müeyyideleri uygulamak.
+11401
 ı) Yayın hizmetlerine ilişkin kamuoyu araştırmaları yapmak veya yaptırmak ve bu araştırmaların sonuçlarını ilgili taraflar ve kamuoyuyla paylaşmak.
 i) Yayın hizmetlerinin izlenme ve dinlenme oranı ölçümlerinin yapılmasına ve denetlenmesine ilişkin usul ve esaslar ile bu usul ve esaslara uymayan şirket ve kuruluşlara uygulanacak müeyyideleri belirlemek.
 j) 5809 sayılı Elektronik Haberleşme Kanunu ve ilgili mevzuat hükümleri saklı kalmak kaydıyla ve bireysel amaçlı iletişim yöntemleri hariç, teknolojik gelişmelere bağlı olarak ortaya çıkan yeni yayın iletim yöntemleri de dâhil olmak üzere yayın hizmetleri ile ilgili düzenlemeler yapmak ve deneme yayını izni vermek.
@@ -26,5 +27,6 @@ s) Medya hizmet sağlayıcılardan görevleri kapsamında her türlü bilgi, bel
 t) Türkiye Radyo-Televizyon Kurumu Genel Müdürlüğü ve Yönetim Kurulu üyeliği için adayları belirlemek.
 u) Kurul üyeleri ile Kurum personelinin uyacakları meslekî ve etik ilkeleri belirlemek.
 ü) Üst Kurulun ana stratejisi ile amaç ve hedeflerine uygun olarak hazırlanan bütçesini görüşmek ve karara bağlamak.
+11402
 v) Seferberlik ve savaş ilânı hallerinde görev ve yükümlülükleri yerine getirmek için ihtiyaç duyulan hususları, Milli Savunma Bakanlığı ile koordineli olarak çıkarılacak bir yönetmelikle belirleyerek yayıncı kuruluşlara bildirmek ve bunları denetlemek.
 y) Mevzuatla verilen diğer görevleri yapmak.

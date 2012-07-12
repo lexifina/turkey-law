@@ -1,5 +1,5 @@
 Lisans ve sertifikaların genel esasları
-MADDE 6- Bu Kanun kapsamında Kurul tarafından verilecek lisans ve sertifikaların tabi olacağı usul ve esaslar ile lisans ve sertifikalarda yer alacak asgari hükümler şunlardır:
+Madde 6 – Bu Kanun kapsamında Kurul tarafından verilecek lisans ve sertifikaların tabi olacağı usul ve esaslar ile lisans ve sertifikalarda yer alacak asgari hükümler şunlardır:
 a) Lisans ve sertifikaların tabi olacağı usul ve esaslar:
 1) Piyasa faaliyetleri ile iştigal edecek tüzel kişiler, faaliyetlerine başlamadan önce, her bir faaliyet için ve söz konusu faaliyetlerin birden fazla tesiste yürütülecek olması halinde, her tesis için ayrı ayrı lisans almak zorundadır.
 2) Birden fazla lisansa sahip olan aynı tüzel kişi veya aynı faaliyeti birden fazla tesiste yürüten tüzel kişiler, lisansa tabi her faaliyet veya tesis için ayrı ayrı muhasebe kayıtları tutmak zorundadır.
@@ -16,6 +16,7 @@ b) Lisanslarda asgari olarak yer alacak hükümler:
 6) Lisansın iptali ve sona ermesine ilişkin hükümler.
 7) Lisansta değişiklik yapılmasına ilişkin hükümler.
 8) Lisans sahibinin Kuruma ödemekle yükümlü olacağı bedeller ve ödeme koşullarına ilişkin hükümler.
+7925
 9) Lisans sahibine ait veya kullanımındaki tesis ve/veya tesislerin gerektiğinde lisans amaçları doğrultusunda başkalarına kullandırılması koşullarına ilişkin hükümler.
 10) Lisans sahibinin Kurul tarafından verilen tüm talimatlara uyma yükümlülüklerine ilişkin hükümler.
 11) Lisans kapsamında, Kuruldan izin alınmaksızın yapılabilecek faaliyetlere ilişkin hükümler.

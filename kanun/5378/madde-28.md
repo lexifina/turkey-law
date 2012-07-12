@@ -1,2 +1,0 @@
-MADDE 28 — 2828 sayılı Kanunun 9 uncu maddesinin (g) bendi aşağıdaki şekilde değiştirilmiştir.
-g) Kuruma bağlı olanlar dışında kurulacak sosyal hizmet kuruluşlarının, özel eğitim ve rehabilitasyon hizmeti verenler hariç olmak üzere açılış iznine, her türlü standartlarına ve işleyişlerine ilişkin esasları, varsa ücret tarifelerini tespit etmek, onaylamak, denetimini yapmak ve bu esaslara uymayanların faaliyetlerini durdurmak.

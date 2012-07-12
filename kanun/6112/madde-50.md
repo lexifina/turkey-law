@@ -1,5 +1,6 @@
 Yürütme
 MADDE 50 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+11412
 (I) SAYILI CETVEL
 KADROLAR
 SINIF UNVAN DERECE ADET
@@ -42,6 +43,7 @@ GİH Uzman 3 1
 TH Uzman 1 2
 SH Tabip 1 1
 AH Avukat 1 8
+11413
 AH Avukat 3 1
 AH Avukat 4 1
 AH Avukat 5 1
@@ -88,3 +90,4 @@ GİH Şoför 4 2
 GİH Şoför 5 2
 YH Hizmetli 5 1
 T O P L A M 669
+11414
