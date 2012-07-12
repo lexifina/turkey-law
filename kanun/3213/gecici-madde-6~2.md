@@ -1,0 +1,1 @@
+Geçici Madde 6 -4683 sayılı Maden Kanununda Değişiklik Yapılmasına ve Tuz Kanununun Yürürlükten Kaldırılmasına İlişkin Kanunun yürürlük tarihi olan 26.6.2001 tarihinden önce, tuz işletme izni için müracaat edilmiş, ihalesi yapılmakla birlikte, TEKEL Yönetim Kurulu tarafından ihalesi onaylanmamış tuzlalarla ilgili ihaleler onanmış sayılır.

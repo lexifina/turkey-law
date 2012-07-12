@@ -1,0 +1,1 @@
+Geçici Madde 3 - Bu Kanunun yürürlüğe girdiği tarihe kadar ruhsat sahipleri tarafından yatırılan yolluk avansları, genel bütçeye özel gelir ve Enerji ve Tabiî Kaynaklar Bakanlığı bütçesine özel ödenek kaydedilir.

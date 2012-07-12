@@ -1,0 +1,2 @@
+Ek Madde 7 – (Ek: 10/6/2010-5995/17 md.)
+Maden ruhsat sahiplerinin, ruhsat sahalarının bir kısmında veya tamamında üçüncü kişilerle yapmış oldukları rödövans sözleşmelerinde, bu alanlarda yapılacak madencilik faaliyetlerinden doğacak İş Kanunu, iş sağlığı ve güvenliği ile ilgili idari, mali ve hukuki sorumluluklar rödövansçıya aittir. Ancak bu durum ruhsat sahibinin Maden Kanunundan doğan sorumluluklarını ortadan kaldırmaz.
