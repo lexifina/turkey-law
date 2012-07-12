@@ -1,0 +1,14 @@
+Ek Madde 3 – (Ek : 9/4/1990 - KHK - 412/1 md.) (3)
+Toplu Konut İdaresi personeli 657 sayılı Devlet Memurları Kanunu Hükümlerine tabidir.
+(Değişik ikinci fıkra: 24/10/2011 - KHK - 661/25 md.) Toplu Konut İdaresi Başkanı müşterek kararname ile, Başkanlığın 657 sayılı Kanunun 59 uncu maddesinde sayılan diğer personeli Başkanlığın bağlı bulunduğu Bakan tarafından atanır. Bakan bu yetkisini Başkana devredebilir. Başkanlığın diğer personeli Başkanın onayı ile atanır.
+Toplu Konut İdaresi Başkanlığında 657 sayılı Devlet Memurları Kanunu ile diğer kanunların sözleşmeli personel çalıştırılmasına dair hükümlerine bağlı kalınmaksızın özel bilgi ve ihtisas gerektiren konularda sözleşmeli personel çalıştırılabilir. Bu fıkra hükmüne göre çalıştırılacak olanlar sosyal güvenlik açısından T.C. Emekli Sandığı (…)(4) ile ilgilendirilir.
+Bu İdarenin, 657 sayılı Devlet Memurları Kanununun 59 uncu maddesinde belirtilen unvanlarına ait kadroları ile Daire Tabibi Kadrosu karşılık gösterilmek suretiyle sözleşmeli personel çalıştırılabilir. Bunlar istekleri halinde T.C. Emekli Sandığı ile ilgilendirilirler. Bu suretle sözleşmeli çalıştırılacaklardan T.C. Emekli Sandığından aylık alanların bu aylıkları kesilmez.
+–––––––––––––––––––
+(1) 24/7/2008 tarihli ve 5793 sayılı Kanunun 9 uncu maddesiyle (m) bendi eklenmiş ve mevcut (m) bendi (n) bendi olarak teselsül ettirilmiştir.
+(2) 31/7/2003 tarihli ve 4966 sayılı Kanunun 4 üncü maddesiyle,(h) bendinden sonra gelmek üzere (ı), (j), (k) ve (l) bentleri eklenmiş ve mevcut (i) bendi, (m) bendi olarak teselsül ettirilmiş ve metne işlenmiştir.
+(3) 8/12/2004 tarihli ve 5273 sayılı Kanunun 8 inci maddesiyle 412 sayılı Kanun Hükmünde Kararname ile eklenen Ek Madde 1’den sonra gelen maddelerin numaraları metne işlendiği şekilde yeniden teselsül ettirilmiştir.
+(4) Bu arada yer alan “veya Sosyal Sigortalar Kurumu” ibaresi, 21/4/2005 tarihli ve 5335 sayılı Kanunun 12 nci maddesiyle madde metninden çıkartılmıştır.
+(5) 4/7/2012 tarihli ve 6353 sayılı Kanunun 74 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “64 üncü maddesi” ibaresi “mülga 64 üncü maddesi, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 47 nci maddesinin sekizinci fıkrası,” şeklinde değiştirilmiştir.
+6388
+Üçüncü ve dördüncü fıkralara göre çalıştırılacakların adedi, ücretlerinin taban ve tavanı ile diğer mali hakları, Bakanlar Kurulunca çıkarılacak hizmet sözleşmesi esaslarına göre tespit edilir.
+Bu İdarede Başbakanlık ile diğer kamu kurum ve kuruluşları personeli maaşsız izinli ve sözleşmeli olarak çalıştırılabilirler. Bu kişilerin memuriyetleri ile buna ait her türlü hak ve mükellefiyetleri saklı tutulur. İzinli oldukları müddet, terfi ve emekliliklerinde fiili hizmet olarak hesaba katıldığı gibi, bunlardan izinli oldukları sırada terfi hakkını kazananlar başkaca hiçbir işleme lüzum kalmaksızın terfi ettirilirler.
