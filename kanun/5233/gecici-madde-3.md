@@ -1,0 +1,2 @@
+Geçici Madde 3 – (Ek: 13/12/2006-5562/1 md.)
+Bu Kanunun geçici 1 inci maddesi ve bu Kanuna 28/12/2005 tarihli ve 5442 sayılı Kanunla eklenen geçici 1 inci madde gereğince yapılan başvuruların sonuçlandırılma süresi, maddelerde öngörülen sonuçlandırılma süresinin bitiminden itibaren bir yıl uzatılmıştır. Bu sürenin de bitmesi ve başvuruların sonuçlandırılamamış olması halinde, Bakanlar Kurulu bu süreyi her defasında bir yılı aşmamak üzere uzatabilir. (1)

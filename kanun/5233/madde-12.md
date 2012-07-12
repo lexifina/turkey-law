@@ -1,0 +1,6 @@
+Zararın karşılanmasına ilişkin sulhname (1)
+Madde 12- Komisyon, doğrudan doğruya veya bilirkişi aracılığı ile yaptığı tespitten sonra 8 inci maddeye göre belirlenen zararı, 9 uncu maddeye göre hesaplanan yaralanma, sakatlanma ve ölüm hâllerindeki nakdî ödeme tutarını, 10 uncu maddeye göre ifa tarzını ve 11 inci maddeye göre mahsup edilecek miktarları dikkate alarak, uğranılan zararı sulh yoluyla karşılayacak safi miktarı belirler. Komisyonca, bu esaslara göre hazırlanan sulhname tasarısının örneği davet yazısı ile birlikte hak sahibine tebliğ edilir.
+Davet yazısında hak sahibinin sulhname tasarısını imzalamak üzere otuz gün içinde gelmesi veya yetkili bir temsilcisini göndermesi gerektiği, aksi takdirde sulhname tasarısını kabul etmemiş sayılacağı ve yargı yoluna başvurarak zararının tazmin edilmesini talep etme hakkının saklı olduğu belirtilir.
+Davet üzerine gelen hak sahibi veya yetkili temsilcisi sulhname tasarısını kabul ettiği takdirde, bu tasarı kendisi veya yetkili temsilcisi ve komisyon başkanı tarafından imzalanır.
+Sulhname tasarısının kabul edilmemesi veya ikinci fıkraya göre kabul edilmemiş sayılması hâllerinde bir uyuşmazlık tutanağı düzenlenerek bir örneği ilgiliye gönderilir.
+Sulh yoluyla çözülemeyen uyuşmazlıklarda ilgililerin yargı yoluna başvurma hakları saklıdır.
