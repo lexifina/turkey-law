@@ -1,0 +1,2 @@
+Amaç (1)
+Madde 1 – Bu kanunun amacı; barışta güven ve asayişi korumak, kaçakçılığı men, takip ve tahkikle , trafik ve yol güvenliğini veya tutuklu ve hükümlülerin sevk ve nakillerini sağlamakla görevli olanların bu görevlerinden dolayı ya da görevleri sona ermiş olsa bile yaptıkları hizmet nedeniyle derhal veya bu yüzden maruz kaldıkları yaralanma veya hastalık sonucu ölmeleri veya sakat kalmaları halinde ödenecek nakdi tazminat ile birlikte bağlanacak aylığın ve bu yüzden yaralanmaları halinde ödenecek nakdi tazminatın esas ve yöntemlerinin düzenlenmesidir.
