@@ -1,0 +1,9 @@
+Kurum açma izninin iptali, kurumun kapatılması, devri ve nakli
+MADDE 7 – Kurum açma izni verilen kurumlarda iki yıl içinde öğretime başlamayan ile amacı dışında kullanıldığı tespit edilen kurumun, kurum açma izinleri iptal edilir.
+Özel öğretim kurumları, kurum açma şartlarından herhangi birini kaybetmesi veya izinsiz değişiklik yapması, mevzuatta belirtilen sayıda personel çalıştırılmaması veya mevzuata aykırı personel çalıştırılması, reklam ve ilana ilişkin gerekli şartların yerine getirilmemesi halinde, davranışın ağırlık derecesine göre onbeş günden az olmamak kaydıyla üç aya kadar geçici olarak, 1739 sayılı Milli Eğitim Temel Kanununun genel ve özel amaçlarıyla temel ilkelerine uymayan, kurumunu mevzuata uygun kapatmayan, geçici olarak kapatma cezası alan ve aynı fiili tekrar işleyen kurumlar ise sürekli olarak kurum açma izni veren makam tarafından kapatılır.
+Okul kurucusu/kurucu temsilcisi; Bakanlığa, yönetici, öğretmen, uzman öğretici, usta öğretici ve öğrenci/kursiyerlere en az üç ay önce yazılı olarak bildirmek şartıyla ve gerekçesi Bakanlıkça uygun bulunduğu takdirde öğretim yılı sonunda okulunu kapatabilir.
+Okullar dışındaki diğer kurumların kurucusu/kurucu temsilcisi valiliğe, yönetici, öğretmen, uzman öğretici, usta öğretici ve öğrenci/kursiyerlere en az üç ay önce yazılı olarak bildirmek şartıyla ve gerekçesi valilikçe uygun bulunduğu takdirde dönem sonunda kurumunu kapatabilir.
+Kapanan veya kapatılan kurum; mühürlerini, yönetici, öğretmen ve öğrencilerle ilgili bütün defterlerini, dosyalarını ve diğer evrakını ilgili valiliğe devir ve teslim etmeye mecburdur. Devir ve teslimden kaçınan veya bu görevi savsaklayan kurucu veya kurucu temsilcisi hakkında 5326 sayılı Kabahatler Kanununun 32 nci maddesi uygulanır.
+Kapatılan kurumlarla ilgili olarak öğrenci/kursiyer veya velilerinin, kurucular aleyhine genel hükümlere göre dava açma hakları saklıdır.
+Kurumların devri ve nakline ilişkin usûl ve esaslar yönetmelikle belirlenir.
+10019

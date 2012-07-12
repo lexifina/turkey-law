@@ -1,0 +1,6 @@
+5580 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
+MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
+GÖSTERİR LİSTE
+Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi Kararının Numarası | 5580 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+6082 | 3 | 10/12/2010
+6353 | 12 | 12/7/2012

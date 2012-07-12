@@ -1,0 +1,6 @@
+Kurucu/kurucu temsilcisinin nitelikleri ve kurum binaları
+MADDE 4 – Kurum açacak veya açılmış bir kurumu devralacak olan gerçek kişilerle tüzel kişilerin temsilcilerinde; affa uğramış olsalar bile yüz kızartıcı bir suçtan yahut kasdî bir suçtan dolayı altı ay veya daha fazla hapis cezası ile mahkûm edilmemiş olma şartı aranır.
+Kurum binalarının nitelikleri, bu binalarda açılabilecek kurumlar ile her tür tesis ve donanıma ilişkin standartlar Bakanlıkça belirlenir.
+Meyhane, kahvehane, kıraathane, bar, elektronik oyun merkezleri gibi umuma açık yerler ile açık alkollü içki satılan yerlerin, okul binalarından kapıdan kapıya en az yüz metre uzaklıkta bulunması zorunludur. Özel eğitime muhtaç bireylerin devam ettikleri öğretim kurumları ile okullar dışındaki diğer özel öğretim kurumlarında bu zorunluluk aranmaz. Ancak, söz konusu özel öğretim kurumlarıyla yukarıda belirtilen türdeki iş yerleri aynı binada bulunamaz.
+Turizmin yoğun olduğu yörelerde bulunan okulların tatil olduğu dönemlerde, yukarıda belirtilen iş yerleri ile okullar arasında yüz metre uzaklık şartı aranmaz.
+Uzaklıkla ilgili esaslar İçişleri, Millî Eğitim, Sağlık, Kültür ve Turizm bakanlıklarının müştereken hazırlayacakları yönetmelikle belirlenir.
