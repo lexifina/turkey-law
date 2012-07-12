@@ -1,0 +1,2 @@
+MADDE 11 – 2547 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+“GEÇİCİ MADDE 63 – Süresi içerisinde başvurmamaları nedeniyle bu Kanunun geçici 58 inci maddesinden yararlanamayanlar (Uluslararası Ortak Lisans Programları çerçevesinde öğrenim görenler dâhil), bu maddenin yürürlüğe girdiği tarihten itibaren ilişiklerinin kesildiği yükseköğretim kurumuna başvuruda bulunmaları hâlinde geçici 58 inci maddede yer alan esaslara göre, takip eden eğitim-öğretim yılında öğrenimlerine başlayabilirler.”

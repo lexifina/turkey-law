@@ -1,0 +1,1 @@
+MADDE 72 – 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanunun 1 inci maddesinin birinci fıkrasına “tahkikle” ibaresinden sonra gelmek üzere “, trafik ve yol güvenliğini veya tutuklu ve hükümlülerin sevk ve nakillerini sağlamakla” ibaresi eklenmiştir.

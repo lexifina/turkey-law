@@ -1,0 +1,1 @@
+MADDE 8 – 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun 7 nci maddesinin ikinci fıkrasında yer alan “on beş” ibaresi “kırk” şeklinde değiştirilmiştir.

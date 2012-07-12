@@ -1,0 +1,3 @@
+MADDE 17 – 29/5/1986 tarihli ve 3294 sayılı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanununun 2 nci maddesine aşağıdaki fıkralar eklenmiştir.
+“Ayrıca, kanunla kurulu sosyal güvenlik kuruluşlarına tabi olmakla veya bu kuruluşlarca aylık veya gelir bağlanmış olmakla birlikte, Fon Kurulunca belirlenecek ölçütlere göre; hane içindeki kişi başına düşen geliri, onaltıyaşından büyükler için belirlenen aylık net asgari ücretin 1/3’ünden az olan kişilerden fakir ve muhtaç durumda bulunanlar da bu Kanun kapsamındadır.
+Her türlü afetten zarar görenler ve şehit yakınları ile gaziler ise, Fon Kurulu ile Sosyal Yardımlaşma ve Dayanışma Vakıflarınca belirlenecek kriter ve süreler çerçevesinde bu Kanun ile sağlanacak haklardan yararlandırılır.”

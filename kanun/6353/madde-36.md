@@ -1,0 +1,2 @@
+MADDE 36 – 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 6 ncımaddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
+“m) Gençlik ve Spor Bakanlığı, Spor Genel Müdürlüğü, Türkiye Futbol Federasyonu, bağımsız spor federasyonları tarafından yapılan her türlü gençlik ve spor faaliyetleri ile bu faaliyetlerle ilgili kamp, eğitim ve hazırlık çalışmalarında süreklilik arz etmeyecek şekilde görevlendirilenler,”

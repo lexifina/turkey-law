@@ -1,0 +1,2 @@
+MADDE 87 – 5510 sayılı Kanunun geçici 18 inci maddesine ikinci fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+“Bu madde kapsamına giren ve malullüklerinin sürekli olduğuna Kurum Sağlık Kurulunca karar verilen geçici ve gönüllü köy korucuları ile 2330 sayılı Kanunun 2 nci maddesinin birinci fıkrasının (e) ve (f) bentlerinde sayılan hizmetlerinden dolayı malullük aylığı bağlananlar 442 sayılı Kanunda öngörülen yaş hadlerine kadar, er ve erbaşlar askerlik çağı dışına çıktıkları tarihe kadar yeniden muayene edilmelerini Kurumdan isteyebilir.”

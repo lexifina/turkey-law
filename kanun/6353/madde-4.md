@@ -1,0 +1,1 @@
+MADDE 4 – 16/8/1961 tarihli ve 351 sayılı Yüksek Öğrenim Kredi ve Yurtlar Kurumu Kanununun 7 nci maddesinin sekizinci fıkrasının (ç) bendinde yer alan “beş yıla kadar” ibaresi “onbeş yıla kadar” şeklinde değiştirilmiştir.

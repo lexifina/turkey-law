@@ -1,0 +1,1 @@
+MADDE 60 – 25/8/2011 tarihli ve 652 sayılı Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 37 nci maddesinin yedinci fıkrasına “İl millî eğitim müdürü,” ibaresinden sonra gelmek üzere “il millî eğitim müdür yardımcısı,” ibaresi eklenmiştir.

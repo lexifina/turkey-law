@@ -1,0 +1,1 @@
+MADDE 9 – 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 59 uncu maddesinde yer alan “Milli Güvenlik Kurulu Genel Sekreterliği Müşavirliklerine, Hukuk Müşavirliğine ve Genel Sekreter Sekreterliğine,” ibaresinden sonra gelmek üzere “Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığında Basın ve Halkla İlişkiler Müşavirliği ve Başkanlık Müşavirliğine,” ibaresi eklenmiştir.

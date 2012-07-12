@@ -1,0 +1,4 @@
+Öğrenim durumu itibarıyla en az ilkokul düzeyinde eğitim almış olmaları,”
+MADDE 15 – 14/10/1983 tarihli ve 2920 sayılı Türk Sivil Havacılık Kanununun 68 inci maddesinden sonra gelmek üzere aşağıdaki 68/A maddesi eklenmiştir.
+“Öncelikle uygulanacak hüküm
+MADDE 68/A – Türkiye Cumhuriyeti adına 16/11/2001 tarihinde Cape Town’da imzalanan ve 10/3/2011 tarihli ve 6192 sayılı Kanunla onaylanması uygun bulunan “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşme” ve “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşmeye İlişkin Hava Aracı Donanımına Özgü Konulara Dair Protokol” ile kanunların aynı konuda farklı hükümler içermesi nedeniyle çıkabilecek uyuşmazlıklarda “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşme” ve “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşmeye İlişkin Hava Aracı Donanımına Özgü Konulara Dair Protokol” hükümleri esas alınır.”

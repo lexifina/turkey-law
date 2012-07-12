@@ -1,0 +1,1 @@
+MADDE 51 – 6114 sayılı Kanunun 9 uncu maddesinin dördüncü fıkrasında yer alan “amacıyla,” ibaresinden sonra gelmek üzere “soruların hazırlandığı, basıldığı, dağıtıldığı, muhafaza edildiği ve” ibaresi eklenmiştir.
