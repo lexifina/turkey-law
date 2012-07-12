@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6343",
+  "year": 2002,
+  "title": "Avrupa Uyuşturucu ve Uyuşturucu Bağımlılığını İzleme Merkezinin Çalışmalarına Türkiye Cumhuriyetinin Katılımı ile İlgili Olarak Avrupa Topluluğu ve Türkiye Cumhuriyeti Arasında Yapılan Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-07-12",
+  "gazette_issue": "28351",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120712-2.htm",
+  "source_sha256": "df394d1f211ea8f1b6c468630ed31ae46e70aaa3a939d532e4ad8210743f7b9b",
+  "text_sha256": "4351d4300f58268cfdb9f127227e062aa27e1f76ff7f805d8f337d651bfd50ae",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/07/12/28351-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120712-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
