@@ -1,0 +1,4 @@
+Yönetmelikler
+Madde 9 – a) (Mülga: 11/10/2011-KHK-663/58 md.)
+b) Hizmet ve ilaç alma, ilgili kurum ve kuruluşlara ait araç, gereç ve malzemelerin kiralanması, devri, gayrimenkullerin kiralanması; [(...) (1)] tıbbi araç, gereç ve malzeme yönünden standardı ile tıbbi araç ve gereçlerin alımında teknik şartnamelerin ha- zırlanmasındaki kıstasların belirlenmesi; Maliye ve Gümrük, ilgili Bakanlıklar ve Sağlık ve Sosyal Yardım Bakanlığınca müştereken,
+c) Bütün kamu ve özel sağlık kuruluşlarının tesis, hizmet, personel, kıstaslarını belirlemeye, sağlık kurum ve kuruluşlarını sınıflandırmaya ve sınıflarının değiştirilmesine, sağlık kuruluşlarının amaca uygun olarak teşkilatlanmalarına, sağlık hizmet zinciri oluşturulmasına, hizmet içi eğitim usul ve esasları ile sağlık kurum ve kuruluşlarının koordineli çalışma ve hizmet standartlarının tespiti ve denetimi ile bu Kanunla ilgili diğer hususlar Sağlık ve Sosyal Yardım Bakanlığınca, çıkarılacak yönetmelikle tespit edilir.
