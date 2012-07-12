@@ -1,0 +1,3 @@
+IV - Temsil yetkisinin kapsamı, sınırlandırılması
+MADDE 629- (1) Müdürlerin temsil yetkilerinin kapsamına, yetkinin sınırlandırılmasına, imzaya yetkili olanların belirlenmesine, imza şekli ile bunların tescil ve ilanına bu Kanunun anonim şirketlere ilişkin ilgili hükümleri kıyas yolu ile uygulanır.
+(2) Sözleşmenin yapılması sırasında şirket tek ortak tarafından ister temsil edilsin ister edilmesin, tek ortaklı limited şirketlerde, bu ortak ile şirket arasında yapılan sözleşmenin geçerli olması, sözleşmenin yazılı şekilde yapılmasına bağlıdır. Bu zorunluluk, piyasa şartlarına göre günlük, önemsiz ve sıradan işlemlere ilişkin sözleşmelere uygulanmaz.

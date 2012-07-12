@@ -1,0 +1,2 @@
+III - Sorumluluk sigortalarına uygulanacak hükümler
+MADDE 1485- (1) Sorumluluk sigortalarına genel hükümlerle birlikte, 1454 üncü ve 1458 inci maddeler, 1466 ncı maddenin birinci fıkrası ve 1471 inci madde de uygulanır.

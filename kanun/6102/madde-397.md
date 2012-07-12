@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Denetleme
+A) Genel olarak
+MADDE 397- (1) (Değişik: 26/6/2012-6335/18 md.) Dördüncü fıkra uyarınca denetime tabi olan anonim şirketlerin ve şirketler topluluğunun finansal tabloları denetçi tarafından, Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunca yayımlanan uluslararası denetim standartlarıyla uyumlu Türkiye Denetim Standartlarına göre denetlenir. Yönetim kurulunun yıllık faaliyet raporu içinde yer alan finansal bilgilerin, denetlenen finansal tablolar ile tutarlı olup olmadığı ve gerçeği yansıtıp yansıtmadığı da denetim kapsamı içindedir.
+11063
+(2) (Değişik: 26/6/2012-6335/18 md.) Denetime tabi olanlar, hazırlanmış olan finansal tablolarının denetimden geçip geçmediğini, denetimden geçmiş ise denetçi görüşünü ilgili finansal tablonun başlığında açıkça belirtmek zorundadır. Bu hüküm, yönetim kurulunun yıllık faaliyet raporu için de uygulanır. Denetime tabi olduğu hâlde, denetlettirilmemiş finansal tablolar ile yönetim kurulunun yıllık faaliyet raporu, düzenlenmemiş hükmündedir.
+(3) Şirketin ve topluluğun finansal tabloları ile yönetim kurulunun yıllık faaliyet raporu, denetleme raporunun sunulmasından sonra değiştirilmişse ve değişiklik denetleme raporlarını etkileyebilecek nitelikteyse, finansal tablolar ile, birinci fıkra çerçevesinde yönetim kurulunun yıllık faaliyet raporu yeniden denetlenir. Yeniden denetleme ve bunun sonucu, raporda özel olarak açıklanır. Denetçi görüşünde de yeniden denetlemeyi yansıtan uygun eklere yer verilir.
+(4) (Ek: 26/6/2012-6335/18 md.)398 inci madde kapsamında denetime tabi olacak şirketler Bakanlar Kurulunca belirlenir.

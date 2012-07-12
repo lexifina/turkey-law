@@ -1,0 +1,5 @@
+MADDE 415- (1) Genel kurul toplantısına, yönetim kurulu tarafından düzenlenen “hazır bulunanlar listesi”nde adı bulunan pay sahipleri katılabilir.
+(2) Hazır bulunanlar listesinde adı bulunan senede bağlanmamış payların, ilmuhaberlerin nama yazılı payların sahipleri ve Sermaye Piyasası Kanununun 10/A maddesi uyarınca kayden izlenen pay sahipleri veya anılanların temsilcileri genel kurula katılır. Gerçek kişilerin kimlik göstermeleri, tüzel kişilerin temsilcilerinin vekâletname ibraz etmeleri şarttır.
+(3) Hamiline yazılı pay senedi sahipleri, genel kurulun toplantı gününden en geç bir gün önce bu senetlere zilyet olduklarını ispatlayarak giriş kartı alırlar ve bu kartları ibraz ederek genel kurul toplantısına katılabilirler. Ancak, giriş kartının verilmesinden sonraki bir tarihte hamiline yazılı pay senedini devraldığını ispatlayan pay sahipleri de genel kurula katılabilirler.
+(4) Genel kurula katılma ve oy kullanma hakkı, pay sahibinin payların sahibi olduğunu kanıtlayan belgeleri veya pay senetlerini şirkete bir kredi kuruluşuna veya başka bir yere depo edilmesi şartına bağlanamaz.
+3. Çağrısız genel kurul

@@ -1,0 +1,3 @@
+III - Toplantı başkanlığı ve iç yönerge
+MADDE 419- (1) Esas sözleşmede aksine herhangi bir düzenleme yoksa, toplantıyı, genel kurul tarafından seçilen, pay sahibi sıfatını taşıması şart olmayan bir başkan yönetir. Başkan tutanak yazmanı ile gerek görürse oy toplama memurunu belirleyerek başkanlığı oluşturur. Gereğinde başkan yardımcısı da seçilebilir.
+(2) Anonim şirket yönetim kurulu, genel kurulun çalışma esas ve usullerine ilişkin kuralları içeren, Gümrük ve Ticaret Bakanlığı tarafından, asgari unsurları belirlenecek olan bir iç yönerge hazırlar ve genel kurulun onayından sonra yürürlüğe koyar. Bu iç yönerge tescil ve ilan edilir.

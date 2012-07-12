@@ -1,0 +1,2 @@
+MADDE 416- (1) Bütün payların sahipleri veya temsilcileri, aralarından biri itirazda bulunmadığı takdirde, genel kurula katılmaya ve genel kurul toplantılarının yapılmasına ilişkin hükümler saklı kalmak şartıyla, çağrıya ilişkin usule uyulmaksızın, genel kurul olarak toplanabilir ve bu toplantı nisabı varolduğu sürece karar alabilirler.
+(2) Çağrısız toplanan genel kurulda, gündeme oybirliği ile madde eklenebilir; aksine esas sözleşme hükmü geçersizdir.

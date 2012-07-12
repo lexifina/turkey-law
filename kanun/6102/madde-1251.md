@@ -1,0 +1,3 @@
+E) Yolcunun yükümlülükleri
+I- Kaptanın talimatına uyma
+MADDE 1251- (1) Yolcu, kaptanın, gemide düzenin sağlanmasına yönelik tüm talimatına uymak zorundadır.
