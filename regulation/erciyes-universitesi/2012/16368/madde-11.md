@@ -1,0 +1,2 @@
+Danışma kurulu ve görevleri
+MADDE 11 – (1) Danışma Kurulu; Müdürün başkanlığında, Merkezin faaliyet alanlarında görev yapan, Üniversite içinden veya dışından üç yıl için Rektör tarafından görevlendirilecek toplam on üyeden oluşur. Görev süresi dolan üyeler yeniden görevlendirilebilir. Danışma Kurulu, altı ayda bir toplanır ve Merkezin faaliyetleriyle ilgili konularda görüş ve önerilerde bulunur. Müdür gerekli gördüğü hallerde Danışma Kurulunu olağanüstü toplantıya çağırabilir.
