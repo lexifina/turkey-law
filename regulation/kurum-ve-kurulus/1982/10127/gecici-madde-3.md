@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 3. 2547 sayılı Kanun’un öngördüğü koşullara uygun olarak amaçları yalnız lisansüstü düzeyde eğitim-öğretim yapmak veya düzenlemek olan mevcut fakülte ve yüksekokulların aynı görevleri yürütmek üzere enstitülere dönüştürülmeleri, Yükseköğretim Kurulunun doğrudan veya ilgili rektörlüğün önerisine dayalı kararı üzerine kanunla sağlanır.

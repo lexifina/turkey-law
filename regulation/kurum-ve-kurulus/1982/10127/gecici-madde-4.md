@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 4. 2547 sayılı Kanun’un yayımlanmasından sonra atanan rektör yardımcılarının görev süreleri 31 Temmuz 1982 tarihinde sona erer. Diğer yöneticiler ve yardımcılar ise, kendilerinden öncekilerin sürelerini tamamlarlar. Ancak, bunların görev süreleri 31 Ağustos 1982 tarihini aşamaz.

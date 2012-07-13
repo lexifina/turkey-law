@@ -1,0 +1,2 @@
+Üniversiteler
+MADDE 3. Üniversite; bilimsel özerkliğe ve kamu tüzel kişiliğine sahip, yüksek düzeyde eğitim-öğretim, bilimsel araştırma ve yayın yapan ve fakülte, enstitü, yüksekokul, bölüm, anabilim dalı, anasanat dalı, bilim dalı, sanat dalı, araştırma ve uygulama merkezlerinden oluşan bir yükseköğretim kurumudur. Üniversite, devlet kalkınma planları ilke ve hedefleri doğrultusunda ve yükseköğretim planlaması çerçevesinde, Yükseköğretim Kurulunun olumlu görüşü veya önerisi üzerine kanunla kurulur.

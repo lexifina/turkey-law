@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2. Kanunla kurulmayan ve 2547 sayılı Kanun’un yürürlüğe girdiği tarihten önce kurulmuş bulunan enstitülerden, bağımsız olarak yüksek lisans veya doktora öğretimi uygulamayan ve başlıca görevleri araştırma veya uygulama olan enstitüler, faaliyetlerini ilgili üniversite senatosu kararı ile araştırma veya uygulama merkezi olarak devam ettirebilirler.
