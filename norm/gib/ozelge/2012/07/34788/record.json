@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.21.15.01-HK-2012/41-14",
+  "source_id": 34788,
+  "date": "2012-07-13",
+  "title": "Haricen tanzim edilip noterde tasdik ettirilen ve belli parayı ihtiva etmeyen \"Protokol ve ibranamedir\" başlıklı kağıdın sulhname olarak maktu damga vergisine ve yapılan işlemin maktu harca tabi olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34788",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "28000fdb56d3444fe846deee617cd887c0ee6d23cd268fbcfc14353cb6691735",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
