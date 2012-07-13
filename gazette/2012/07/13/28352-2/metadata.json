@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-07-13",
+  "issue": "28352",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Avrupa Birliği Bakanlığı Mütercim Yarışma Sınavı ve Atama Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120713-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120713.htm",
+  "index_sha256": "fb13fee1aafa229f0a3a686c593e0a80629fbd7b96af2c9af01be41b1e74ca4a",
+  "index_header": "13 Temmuz 2012 ... 28352 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
