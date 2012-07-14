@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25410040-Araç Alımında ÖTV İstisnası-41",
+  "source_id": 34004,
+  "date": "2012-07-14",
+  "title": "Yurt dışından alınan özürlü ehliyeti ile istisnadan yararlanılarak yurt içinden araç alınıp alınamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34004",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "80d1a835619e4215bb8ab0b96b872d3618b05646977fce29c7f5c07a24218267",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
