@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.17-2132",
+  "source_id": 31731,
+  "date": "2012-07-16",
+  "title": "Vakfa bağlı üniversite hastanesinde görevli öğretim görevlilerinin sosyal ve eğitim amaçlı hizmet teslimleri ile stok fazlalığı nedeniyle emtia satışının kurumlar vergisi ve KDV karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31731",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "8dca032d02cde08448a9831be1c4ae21ce74d6cbe07ee214c9fd3b67185f6ad9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
