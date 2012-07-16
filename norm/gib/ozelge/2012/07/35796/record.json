@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.15.01-140[65-2012/1]-127",
+  "source_id": 35796,
+  "date": "2012-07-16",
+  "title": "6107 sayılı İller Bankası Anonim Şirketi Hakkında Kanun çerçevesinde yapılacak devir, tescil, kayıt ve cins değişikliği işlemlerinden tapu harcı aranılıp aranılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35796",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "2b7dbaeaf020e662872e06012a04739585e9d357ab6193390e854f2bb716a649",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
