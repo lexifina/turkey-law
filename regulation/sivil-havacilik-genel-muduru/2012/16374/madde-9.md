@@ -1,0 +1,4 @@
+Yarışma sınavına çağrılma
+MADDE 9 – (1) Yarışma sınavı başvuru şartlarını taşıyan adaylara yazılı sınav yeri ve tarihinin belirtildiği Sınav Giriş Belgesi verilir. Sınav Giriş Belgesi olmayan adaylar yazılı sınava katılamaz.
+(2) KPSS sonuçlarına göre yapılan başvurular arasından, en yüksek puana sahip olan adaydan başlanarak alınması planlanan pozisyon sayısının en fazla yirmi katına kadar aday, son sıradaki adayla aynı puanı alanlar dâhil olmak üzere yazılı sınava çağrılır.
+(3) Yazılı sınavda yüz tam puan üzerinden yetmiş puan ve üzerinde not almak şartıyla ilan edilen okul veya bölüm kontenjanına göre en yüksek puana sahip olan adaydan başlanarak, göreve başlatılacak pozisyon sayısının en fazla üç katına kadar aday, son sıradaki adayla aynı puanı alanlar dâhil olmak üzere sözlü sınavına çağrılır. Sözlü sınav, yazılı sınav sonuçlarının ilânından itibaren en geç iki ay içinde yapılır.

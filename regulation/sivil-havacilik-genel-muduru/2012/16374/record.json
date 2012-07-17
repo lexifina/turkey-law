@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.16374",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAVACILIK UZMANLIĞI YÖNETMELİĞİ",
+  "number": "16374",
+  "issuer": "Sivil Havacılık Genel Müdürü",
+  "issuer_slug": "sivil-havacilik-genel-muduru",
+  "path": "regulation/sivil-havacilik-genel-muduru/2012/16374",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16374&MevzuatTertip=5",
+  "source_sha256": "b15dcdfd757a18c97422f4c9213d45501702f38fb7993294ff0e11fd6ed72cd1",
+  "source_bytes": 47916,
+  "published": "2012-07-17",
+  "gazette": "28356",
+  "in_force": "2012-07-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.07.2012); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2656,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16374-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

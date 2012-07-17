@@ -1,0 +1,2 @@
+Başarısızlık durumu
+MADDE 22 – (1) Verilen ilave süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci yeterlik sınavında da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliliği şartını yerine getirmeyenler, Havacılık Uzman Yardımcısı unvanını kaybederler ve durumlarına uygun başka bir kadro veya pozisyona atanırlar.
