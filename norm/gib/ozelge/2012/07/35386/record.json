@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-155[Ek:2-2012/247]-750",
+  "source_id": 35386,
+  "date": "2012-07-17",
+  "title": "Savunma Sanayi Müsteşarlığınca savunma sanayi açısından önem arzettiği belirtilen savunma araç ve gereçlerini üreten yerli imalatçı firmanın sahip olduğu vergi resim harç istisnası belgesi kapsamında yararlanacağı damga vergisi istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35386",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "6c52a22f6b80153dedf203b90f68051992592718c026e3109d98b1d2ee38232f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
