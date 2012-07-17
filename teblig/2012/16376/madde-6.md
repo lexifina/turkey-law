@@ -1,0 +1,6 @@
+Muhasebe birimlerince yapılacak işlemler
+MADDE 6 – (1) Muhasebe birimleri, gelen banka listesinde her bir kamu görevlisi ve işçi için “Ödenecek Net Aylık Tutar” sütununda yer alan tutarı, kamu görevlisi ve işçinin bordrosundaki net ödenecek tutarla kontrol eder. Ödeme belgesindeki ödemeye esas toplam tutar ile banka listesindeki toplam tutarın uygunluğu da kontrol edilip onaylanır.
+(2) Daha sonra aylıklara ilişkin Gönderme Emirleri düzenlenerek aybaşından dört iş günü önce muhasebe biriminin ödeme hesabının bulunduğu banka şubesine Gönderme Emri Teslim Tutanağı ekinde teslim edilir.
+(3) Banka listesinin bir nüshası, Ödeme Emri Belgesinin Sayıştayca incelenecek nüshasına eklenir.
+(4) KBS üzerinden düzenlenen banka listeleri ile ilgili yapılacak kontroller ve banka şubesine gönderme işlemleri Bakanlıkça belirlenen uygulama esasları çerçevesinde yürütülür.
+(5) 18/6/2011 tarihli ve 27968 sayılı Resmî Gazete’de yayımlanan Genel Bütçe Kapsamındaki Kamu İdarelerinin Ödeme ve Tahsilat İşlemlerinin Elektronik Ortamda Gerçekleştirilmesine İlişkin Usul ve Esasları uygulayan muhasebe birimlerinde Gönderme Emirlerinin bankaya gönderilmesine ilişkin süre ve diğer hususlarda söz konusu Usul ve Esaslarda yer alan hükümler uygulanır.

@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.16376",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MUHASEBAT GENEL MÜDÜRLÜĞÜ GENEL TEBLİĞİ (SIRA NO: 34) AYLIKLARIN BANKA ARACILIĞIYLA ÖDENMESİ",
+  "number": "16376",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2012/16376",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16376&MevzuatTertip=5",
+  "source_sha256": "5374b2ae0385196472397fe8c6136d98d2798ebab68899c4a1fc84fb191e65c0",
+  "source_bytes": 31597,
+  "published": "2012-07-17",
+  "gazette": "28356",
+  "in_force": "2012-07-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.07.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1674,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16376%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

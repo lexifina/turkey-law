@@ -1,0 +1,4 @@
+Dikkat edilecek diğer hususlar
+MADDE 8 – (1) Aylıkların mevzuatın öngördüğü tarihte kamu görevlileri ile işçilerin hesaplarına aktarılmaması veya geç aktarılması nedeniyle hukuki sorumlulukla karşılaşılmaması bakımından bu süreçte görev alan tüm birimlerin bu Tebliğle belirlenen sürelere uymaları zorunludur.
+(2) Aylıklar, bu Tebliğin 4 üncü maddesinin üçüncü ve dördüncü fıkralarında belirtilenler dışında, mutemetler aracılığıyla ödetilemez. Aylıkların mutemetler aracılığıyla ödetilmesinde, mutemetler genel hükümlere göre kamu görevlisi ve işçinin şahsi mutemedi sayıldığından, meydana gelebilecek aksaklıklarda sorumluluk, şahsi mutemet tayin eden hak sahibine aittir ve idarece aylığın ikinci kez ödenmesi mümkün değildir.
+(3) Kapsamda yer almayan kamu idareleri, kamu görevlileri ile işçilerin aylıklarının kendi mevzuatları çerçevesinde ve Tebliğde yer alan hükümler doğrultusunda bankalar aracılığıyla ödenmesi yönünde uygulama yapabilirler.

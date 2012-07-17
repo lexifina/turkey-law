@@ -1,0 +1,7 @@
+Harcama birimlerince yapılacak işlemler
+MADDE 5 – (1) Harcama birimi ile banka şubesi arasında, bu Tebliğde belirtilen hususlar çerçevesinde protokol imzalanır.
+(2) Aylıkları banka aracılığıyla ödenecek kamu görevlileri ve işçiler için, üç nüsha banka listesi (EK-1) düzenlenerek gerçekleştirme görevlisi ve harcama yetkilisi tarafından onaylanır ve ödeme yapılması gereken tarihten altı iş günü önce Ödeme Emri Belgesi ekinde muhasebe birimine gönderilir.
+(3) Muhasebe birimince, banka listeleri onaylandıktan sonra, iki nüshası harcama birimince muhasebe biriminden alınır ve bir nüshası kamu görevlileri ve işçilerin banka hesaplarına aybaşı itibarıyla kayıt yapılmak üzere, aybaşından en az dört iş günü önce ilgili banka şubesine teslim edilir. Listenin diğer nüshası ise harcama birimince saklanır.
+(4) Aylık işlemlerini KBS üzerinden yürüten harcama birimlerinden Bakanlıkça uygun görülenler, banka listelerini KBS üzerinden Bakanlıkça belirlenen uygulama esasları çerçevesinde elektronik ortamda ilgili bankalara gönderirler. Bankalar da Bakanlıkça belirlenen uygulama esasları çerçevesinde banka listelerini elektronik ortamda alarak ödeme işlemlerini yürütürler.
+(5) Gerçekleştirme işlemleri veri tabanındaki bilgiler kullanılmak suretiyle KBS üzerinden yapılarak ödenen aylıklara ilişkin bordrolar, elektronik ortamda muhafaza edilir ve ödeme belgesine bağlanmaz.
+(6) Harcama yetkililerince gecikmeye meydan verilmemesi için gerekli tedbirler alınır.
