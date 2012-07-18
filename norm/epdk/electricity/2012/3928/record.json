@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3928",
+  "decision_date": "2012-07-18",
+  "title": "AKEDAŞ için 28/12/2010 tarihli ve 2986 sayılı Kurul kararının; 2 nci maddesinde yer alan Dağıtım Sistemi Gelir Gereksinimi Tablosu ile ekinde yer alan GD06.1 ve GD05 Tablolarının revize edilmesine ilişkin",
+  "resmi_gazete_date": "2012-07-28",
+  "resmi_gazete_number": "28367",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pKjyK8dnrGc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pKjyK8dnrGc="
+  ],
+  "source_sha256": "6a318397d70acf707f260206fe06c8d771fe4231cd5c392275f289754fc055ce",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-07-18",
+  "law_text_complete": false
+}
