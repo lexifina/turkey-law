@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; İslam ekonomi ve finansı, İslam medeniyetinde iktisadi kurumlar, faizsiz bankacılık, sigortacılık, para ve sermaye piyasaları, emtia piyasaları ve türev piyasaları konularında nazari ve uygulamalı araştırmalar yapmak; ekonomik ve sosyal gelişmeleri, yapısal sorun ve imkânları bilimsel olarak inceleyip yorumlamak; bu alanlarda disiplinler arası bir yaklaşımla yeni bilgiler üretmek, bu amaçla uygulama modelleri geliştirmek; Üniversitenin eğitim verdiği ve araştırma yaptığı akademik programlar dışındaki tüm alanlarda sürekli olarak verilecek programlar düzenleyerek, bu programlar aracılığıyla Üniversitenin kamu, özel sektör, sivil toplum kuruluşları ve uluslararası kuruluşlar ile işbirliğinin gelişmesine katkıda bulunmaktır.
