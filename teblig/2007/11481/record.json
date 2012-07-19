@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.11481",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO:2007/27)",
+  "number": "11481",
+  "issuer": "Dış Ticaret Müsteşarlığı'nın bağlı olduğu Bakan",
+  "path": "teblig/2007/11481",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11481&MevzuatTertip=5",
+  "source_sha256": "4518d2d2c9f88713489e2e8063c9957938dc168b21b59ee07edcf2d331a586e3",
+  "source_bytes": 70191,
+  "published": "2007-08-02",
+  "gazette": "26601",
+  "in_force": "2012-07-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/7/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-07-19",
+      "RG-19/7/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-07-28",
+      "RG-28/7/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımını takip eden 15 inci gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 666,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
