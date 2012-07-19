@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.02-105[156-2012/1]-451",
+  "source_id": 25250,
+  "date": "2012-07-19",
+  "title": "Aynı adreste iki ayrı işyeri olup olmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25250",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "756c4b6c7543ea6dbb6cf0cf998c8672bbe1eae54a55d92a0ba83142ca2d68fb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
