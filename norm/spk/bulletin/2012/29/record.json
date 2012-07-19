@@ -1,0 +1,42 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2012/29",
+  "date": "2012-07-19",
+  "title": "SPK Haftalık Bülteni 2012/29",
+  "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_29.pdf",
+  "source_sha256": "2077ee3a150f100d7b435eb18fed5cb7e0d42935695554a845b19fd23c54fa95",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "B. DUYURU ve İLKE KARARLARI"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "B. DUYURU ve İLKE KARARLARI",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_29.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZİNLERİ",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Ortağın Adı Soyadı",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_29.pdf"
+    },
+    {
+      "heading": "G. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_29.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
