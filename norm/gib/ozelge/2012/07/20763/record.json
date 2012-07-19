@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.81.10.00-VUK-05-22",
+  "source_id": 20763,
+  "date": "2012-07-19",
+  "title": "Yurt dışında yaşayan öğrenciden alınan tercüme hizmetinin, serbest meslek kazancı olarak değerlendirilmesi, bu kişinin söz konusu faaliyeti arızi olarak ifa etmesi halinde ise, elde edilen kazancın arızi serbest meslek kazancı olarak değerlendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20763",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "285980afb2a9c0858dc8590b51d41c39d9eade472de2a9ebf04227be3470f0f8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
