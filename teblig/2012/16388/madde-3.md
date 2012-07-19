@@ -1,0 +1,13 @@
+Karar
+MADDE 3 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, aşağıda yer alan tabloda gösterilen gümrük tarife pozisyonlarında (G.T.P.) yer alan eşyanın ithalatında iki yıl süreyle ek mali yükümlülük şeklinde korunma önlemi uygulanmasına, ek mali yükümlülüğün çift başına aşağıdaki tabloda belirtilen tutarlarda tespit edilmesine, Dünya Ticaret Örgütü (DTÖ) Korunma Önlemleri Anlaşmasının 9.1 inci maddesi gereğince gelişmekte olan ülkelere muafiyet tanınmasına ve önlemin istihsali hususunda Bakanlar Kuruluna öneride bulunulmasına karar vermiştir.
+“
+G.T.P. | Eşya Tanımı | Ek Mali Yükümlülük (ABD Doları/Çift)
+1.Dönem (10/8/2012-9/8/2013) | 2.Dönem (10/8/2013- 9/8/2014)
+64.02 (1)(2)(3) | Dış tabanı ve yüzü kauçuk veya plastik maddeden olan diğer ayakkabılar | 1,55 | 1,50
+64.03(1)(2)(3) | Dış tabanı kauçuktan, plastik maddeden, tabii veya terkip yoluyla elde edilen köseleden ve yüzü deriden olan ayakkabılar | 2,40 | 2,35
+64.04(1)(2)(3) | Dış tabanı kauçuktan, plastik maddeden, tabii veya terkip yoluyla elde edilen köseleden ve yüzü dokumaya elverişli maddelerden olan ayakkabılar | 1,55 | 1,50
+”
+“(1) 6402.12; 6402.19; 6403.12; 6403.19; 6404.11 alt pozisyonları hariç”
+“(2) 6402.91.90.00.00, 6402.99.93.00.00, 6402.99.96.00.00, 6402.99.98.00.00, 6403.91.13.00.00, 6403.91.16.00.00, 6403.91.18.00.00, 6403.99.93.00.00, 6403.99.96.00.00, 6403.99.98.00.00, 6404.19.90.00.11, 6404.19.90.00.12 gümrük tarife istatistik pozisyonlarında yer alan özel teknoloji ihtiva eden ayakkabılar hariç.”
+“Özel teknoloji ihtiva eden ayakkabılar: Sportif faaliyetler için kullanılan, her bir çiftinin gümrük kıymeti 15$'dan az olmayan, tek veya çok katlı kalıplanmış tabanlı (enjekte edilmemiş), tabanı dikey veya yatay hareketlerin baskısını emecek şekilde özel olarak tasarlanmış sentetik malzemelerden imal edilmiş ve gaz veya sıvı içeren sızdırmaz yastıklar, alçak yoğunluk polimerler gibi maddeler veya etkiyi emen veya yok eden mekanik parçalar gibi teknik özelliklere sahip ayakkabılar.”
+“(3) 6402.99.50; 6402.99.91; 6403.51.11; 6403.51.91; 6403.59.31; 6403.59.50.00.11; 6403.59.50.00.12; 6403.59.50.00.13; 6403.59.91; 6403.91.11; 6403.91.91; 6403.99.31; 6403.99.50; 6403.99.91; 6404.19.10.00.11; 6404.19.10.00.12; 6404.19.10.00.13; 6404.19.90.00.13; 6404.20.10 gümrük tarife pozisyonları için 1. Dönem 1,15 (ABD Doları/Çift), 2. Dönem 1,10 ABD Doları/Çift olarak uygulanır.”
