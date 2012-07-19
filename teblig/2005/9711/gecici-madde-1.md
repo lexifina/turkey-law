@@ -1,0 +1,1 @@
+Geçici Madde 1 — Bu tebliğ hükümleri; elektrik, su ve gaz sayaçları tamir ve ayar istasyonlarına Bakanlığımızca verilen belgelerde belirtilen periyodik kontrol sürelerinin bitiminden sonra uygulanacaktır.

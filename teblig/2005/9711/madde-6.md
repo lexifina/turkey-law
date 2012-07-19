@@ -1,0 +1,10 @@
+Su Sayaçları Tamir ve Ayar İstasyonları Kriterleri
+Madde 6 — Su Sayaçları tamir ve ayar istasyonları aşağıdaki hususları sağlamalıdır.
+a) 0-40 mm su giriş çaplı sayaçlar için seri olarak bağlanan en fazla 10 adet sayaç kapasiteli ayar masası olmak zorundadır.
+b) 50 mm ve üstünde su giriş çaplı sayaçlar için 1 adet sayaç kapasiteli ayar masası olmak zorundadır.
+c) (Değişik:RG-17/6/2010-27614) Su sayaçları tamir ve ayar istasyonlarının muayeneleri, Ölçü ve Ölçü Aletleri Muayene Yönetmeliği'nde belirtilen hükümler çerçevesinde Sanayi ve Ticaret İl Müdürlükleri tarafından yapılır.
+d) Tamire gelecek sayaçların ilk endeks, son endeks ve diğer teknik bilgilerini içeren formlar düzenlenir. Bu formlardan bir adedi müşteriye verilir diğer nüshası ise işyerinde muhafaza edilir.
+e) Ayar istasyonunda AB Yönetmeliklerini uyumlaştıran Yönetmelikler kapsamındaki sayaçların tamir ve ayarı yapılacaksa, ayar istasyonu ilgili Yönetmelikte belirtilen şartları sağlamak zorundadır. AB Yönetmeliklerini uyumlaştıran Yönetmelikler kapsamına girmeyen sayaçlarla ilgili ayar istasyonları ise 24 Temmuz 1994 tarih ve 22000 sayılı Resmî Gazete’de yayımlanan Ölçü ve Ölçü Aletleri Muayene Yönetmeliğinde belirtilen şartları sağlamak zorundadır.
+f) 0-40 mm su giriş çapındaki su sayaçlarının tamir ve ayarlarının yapılması için gerekli olan su sayaçları tamir ve ayar istasyonlarının, periyodik muayeneleri; Bakanlığımızca temin edilecek etalon sayaç ile yapılır.
+g) 50 mm ve üstünde su giriş çaplı sayaçların tamir ve ayarlarının yapılması için gerekli olan su sayaçları tamir ve ayar istasyonlarının periyodik muayeneleri; tamir ve ayar istasyonunun bağlı bulunduğu kişi veya kuruluşlarca temin edilecek ve UME veya akredite edilmiş kalibrasyon laboratuarları tarafından sertifikalandırılmış referans sayaçlar ile Bakanlıkça yapılır.
+h) Su sayacı üreticisi ve ithalatçılarının elinde bulunan su sayaçları tamir ve ayar istasyonlarının periyodik muayeneleri: tamir ve ayar istasyonunun bağlı bulunduğu kişi veya kuruluşlarca temin edilecek ve UME veya akredite edilmiş kalibrasyon laboratuarları tarafından sertifikalandırılmış referans sayaçlar ile Bakanlıkça yapılır.

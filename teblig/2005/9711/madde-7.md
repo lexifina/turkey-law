@@ -1,0 +1,6 @@
+Gaz Sayaçları Tamir ve Ayar İstasyonları Kriterleri
+Madde 7 — (Değişik:RG-19/7/2012-28358)
+Gaz sayaçları tamir ve ayar istasyonlarında hangi gaz sayacının muayene ve ayarı yapılacaksa ona uygun nitelikte ayar masası bulunması zorunludur.
+Gaz sayaçları tamir ve ayar istasyonlarının yeterlilik ve periyodik muayenelerinin yapılabilmesi için; söz konusu istasyonların bir akreditasyon kuruluşu tarafından akredite edilmiş olması veya TS EN ISO/IEC 17025 Deney ve Kalibrasyon Laboratuvarlarının Yeterliliği İçin Genel Şartlar standardının 4.1 Kuruluş, 4.13 Kayıtların kontrolü, 5.2 Personel, 5.3 Yerleşim ve çevre şartları, 5.4 Deney ve kalibrasyon metotları ve metodun geçerli kılınması, 5.5 Cihazlar ve 5.6 Ölçümlerin izlenebilirliği maddelerine uygunluğunun Türk Standardları Enstitüsü tarafından raporlandırılmış olması gerekir.
+Türk Standardları Enstitüsü tarafından yapılan bu incelemelere ilişkin tüm giderler müracaatçılar tarafından karşılanır.
+Yukarıdaki şartları sağlayan gaz sayaçları tamir ve ayar istasyonlarının yeterlilik ve periyodik muayeneleri Ölçü ve Ölçü Aletleri Muayene Yönetmeliğinde belirtilen hükümler çerçevesinde Bilim, Sanayi ve Teknoloji İl Müdürlükleri tarafından yapılır.
