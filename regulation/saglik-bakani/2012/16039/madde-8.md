@@ -1,0 +1,2 @@
+Bilimsel çalışma ve eserlerin değerlendirilmesi
+MADDE 8 – (1) Adayların bilimsel çalışma ve eserleri, Genel Müdürlükçe belirlenecek komisyon veya komisyonlar tarafından 6 ncı maddenin ikinci fıkrasının (e) bendindeki ölçütlere göre kontrol edilir ve sonuçlar Bakanlık internet sayfasında ilan edilir. Adaylar değerlendirmeye ilan tarihinden itibaren beş iş günü içinde itiraz edebilir. İtiraz sonrası Genel Müdürlükçe kurulan itiraz komisyonu tarafından yapılan yeni değerlendirmenin sonucu kesindir.

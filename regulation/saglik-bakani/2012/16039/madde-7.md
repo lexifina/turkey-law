@@ -1,0 +1,2 @@
+Yabancı dil yeterlilik belgesi
+MADDE 7 – (1) Başasistan kadrolarına atanmak amacıyla açılacak sınavlara girebilmek için adayların İngilizce, Almanca, Fransızca dil sınavlarından herhangi birinden Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında (KPDS) veya Üniversitelerarası Kurul Yabancı Dil Sınavında (ÜDS) belge teslim tarihi itibariyle son beş yıl içinde 100 üzerinden 60 ve üzeri puan veya Yükseköğretim Kurulu tarafından uluslararası alanda geçerli sayılan diğer yabancı dil sınavlarından 60 puan barajına denk ve üzeri puan alma şartı aranır.

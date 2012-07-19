@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.16039",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAĞLIK BAKANLIĞI EĞİTİM VE ARAŞTIRMA HASTANELERİNDE BAŞASİSTANLIK KADROLARINA YAPILACAK ATAMALARDA UYGULANACAK SINAVLARA İLİŞKİN YÖNETMELİK",
+  "number": "16039",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2012/16039",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16039&MevzuatTertip=5",
+  "source_sha256": "505cfd988b5efdd081274256a8a1e0a79a6172fc17a0b7e101defa0402d85bcb",
+  "source_bytes": 29419,
+  "published": "2012-04-07",
+  "gazette": "28257",
+  "in_force": "2012-07-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/7/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-07-19",
+      "RG-19/7/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-07-19",
+      "19/7/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1140,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
