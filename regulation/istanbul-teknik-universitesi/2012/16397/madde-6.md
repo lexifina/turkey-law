@@ -1,0 +1,10 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Coğrafi bilgi teknolojileri konularında, ülkenin bilimsel ve kullanım ihtiyaçlarını karşılayacak yeterliliği sağlamak, eğitim ve araştırma yapmak, yenilikçi sistem ve teknoloji tasarlamak, geliştirmek ve uygulamak,
+b) Coğrafi bilgi teknolojileri konularında, ulusal kullanıma yönelik yazılım-donanım sistemleri geliştirerek, test ve sertifikasyon modellerinin uygulanması için usul ve esasları belirleyici ölçütler için bilimsel ve teknolojik araştırmalar yapmak,
+c) Coğrafi nitelikli veri depolama, paylaşım ve sunum sistemleri tasarlamak, temin etmek ve işletmek, bu sistemleri ulusal ve uluslararası düzeyde araştırıcıların ve kurumların kullanımına sunmak,
+ç) Benzer ulusal ve uluslararası kuruluşlarla işbirliği yapmak, coğrafi bilgi teknolojilerinin ulusal ve uluslararası düzeyde etkin kullanımını kolaylaştıracak servis, destek, eğitim-araştırma ve geliştirme faaliyetleri yürütmek, bu amaçla gerekli altyapıları kurmak,
+d) Coğrafi bilgi teknolojilerinin bilimsel araştırmalarda etkin kullanılabilmesi için gerekli servis altyapısını oluşturmak, yeni gelişmeleri izlemek, yayın yapmak, insan gücünü yetiştirmek ve bu teknolojileri kullanabilecek araştırmacı sayısını arttırmak amacı ile planlama yapmak, eğitimler, seminerler, çalıştaylar, konferanslar ve paneller düzenlemek ve kamuoyunu bilinçlendirmek,
+e) Coğrafi bilgi teknolojileri konularında eğitim ve uzmanlığı ilgilendiren konularda danışmanlık yaparak, coğrafi bilgiye dayalı araştırma-geliştirmeye yönelik ulusal ve uluslararası düzeyde proje üretim çalışmaları ile ulusal coğrafi bilgi endüstrisinin rekabet gücünü artırmak,
+f) Coğrafi bilgi teknolojileri konusu ile ilgili ulusal ve uluslararası bilimsel kuruluşlara üye olmak, Merkezin faaliyet sahasına giren konularda öğretim elemanlarının, yurt içinde ve yurt dışında araştırma ve incelemeler yapmasına katkı vermek,
+g) Coğrafi/konumsal bilim, mühendislik, sosyal ve sağlık alanlarında akademik, kamu ve endüstriyel araştırma-geliştirme sektörünü ve kamuoyunu bilinçlendirmek ve bu alanda farkındalık yaratmak.
