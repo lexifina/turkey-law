@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.31.15.01-010.01[GVK-23-2012/2]-73",
+  "source_id": 21436,
+  "date": "2012-07-20",
+  "title": "İşçilerin toplu olarak taşınması, konut temini, iş yerinde yemek verilmesinin gelir vergisi matrahından istisna edilmesi ancak, nakden ödenen yol parası, konut yardımı ve yemek yardımı ile bulaşıcı hastalıklar primi, sahada çalışma primi adı altında nakde",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21436",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "a39de391ee57b06bc8768142c212724e25a6b91689a9e8113aa7d7802985f918",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
