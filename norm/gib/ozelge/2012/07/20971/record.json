@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[9-2012/476]-2182",
+  "source_id": 20971,
+  "date": "2012-07-20",
+  "title": "Evde ahşap ve çeşitli bitkilerden oluşturulan minyatür bahçelerin esnaf muafiyeti kapsamında olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20971",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "edfa692b50b1fe3878897c06ee40f0780d3664c4aab4a52b52417bb3ebba8f2a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
