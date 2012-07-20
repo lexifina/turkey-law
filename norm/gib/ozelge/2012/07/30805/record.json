@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.10-2183",
+  "source_id": 30805,
+  "date": "2012-07-20",
+  "title": "5 yıllık intifa hakkı ödemesinde GV ve KDV açısından yapılacak işlem hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30805",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "36f65f05b25c14c9ecaf460e8570a866af226d38cfadfb7bcb0715bb6884f960",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
