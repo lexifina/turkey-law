@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-07-22",
+      "22.07.2012",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28361",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-07-22",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/2012/16401",
+  "published": "2012-07-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16401&MevzuatTertip=5",
+  "source_bytes": 25822,
+  "source_id": "8.5.16401",
+  "source_sha256": "6444de39ae840ab0bd99bde380a9cd0dd914eabacc766ceb6a5afcf33bae3152",
+  "text_status": "as-enacted",
+  "title": "GAZİANTEP ÜNİVERSİTESİ GÖÇ VE SİYASET UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 1191
+}
