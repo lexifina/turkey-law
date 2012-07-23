@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120-703",
+  "source_id": 24183,
+  "date": "2012-07-23",
+  "title": "İntifa hakkının kendisine, çıplak mülkiyeti kızına ait olan bir gayrimenkulun daha sonra çıplak mülkiyetini de kızından satın alarak söz konusu gayrimenkulün satılması durumunda kişinin elde ettiği kazanç hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24183",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "b8e564ecaee9afd73669ce9590e1618b25003969bc5e428a5e32f6b3b019ce18",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
