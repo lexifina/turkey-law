@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-003.01-2266",
+  "source_id": 35795,
+  "date": "2012-07-23",
+  "title": "775 Sayılı Kanun kapsamında belediye tarafından kooperatif birliğine tahsis edilen arsaların üye kooperatiflere devredilmesinden ne şekilde harç aranılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35795",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "90f6cd3d9deaeeaa97187e4b836d9f3ff236873ffd7a6b03b0af7dc546ee7b61",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
