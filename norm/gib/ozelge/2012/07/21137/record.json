@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-120.04.02-702",
+  "source_id": 21137,
+  "date": "2012-07-23",
+  "title": "Fuar ve festivallerde portre karikatür çizim faaliyetinin işyeri açmadan ve süreklilik arzetmeden yapılması durumunda GVK18 inci maddesinde yer alan istisnadan yararlanabileceği ve KDV açısından durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21137",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "76a586123d0fc967bc975e2e383ba91b8582256ce7444217012b6843e0c20933",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
