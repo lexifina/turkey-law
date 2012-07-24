@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.01-40-MUK-2010-184-452",
+  "source_id": 24446,
+  "date": "2012-07-24",
+  "title": "Kooperatifin teslim ve hizmetlerinin Kurumlar Vergisi ve KDV açısından durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/24446",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "cae07f48b25e43399550b69c83bdc426716ff1d103e755255a30a0cd3b2378ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
