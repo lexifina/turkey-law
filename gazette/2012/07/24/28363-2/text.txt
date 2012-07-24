@@ -1,0 +1,294 @@
+24 Temmuz 2012 SALI
+Resmî Gazete
+Sayı : 28363
+YÖNETMELİK
+Bilgi Teknolojileri ve İletişim Kurumundan:
+ELEKTRONİK HABERLEŞME SEKTÖRÜNDE KİŞİSEL VERİLERİN
+İŞLENMESİ VE GİZLİLİĞİNİN KORUNMASI
+HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı, elektronik haberleşme sektöründe kişisel verilerin işlenmesi, saklanması ve gizliliğinin korunması için elektronik haberleşme sektöründe faaliyet gösteren işletmecilerin uyacakları usul ve esasları düzenlemektir.
+(2) Haberleşmenin içeriğine ilişkin verilerin
+saklanması bu Yönetmeliğin kapsamına dâhil değildir.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik,
+5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununun 4, 6, 12 ve 51 inci maddelerine dayanılarak hazırlanmıştır.
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Abone: Bir işletmeci ile elektronik haberleşme hizmetinin
+sunumuna yönelik olarak yapılan bir sözleşmeye taraf olan gerçek ya da tüzel kişiyi,
+b) Acil yardım çağrıları: Ulusal ve uluslararası düzenlemelerde kabul görmüş yangın, sağlık, doğal afetler ve güvenlik gibi acil
+durumlarla ilgili olarak itfaiye, polis, jandarma, sağlık ve benzeri kuruluşlara yardım talebiyle yapılan çağrıları,
+c) Anonim hale
+getirme: Kişisel verilerin, belirli veya kimliği belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek veya kaynağı belirlenemeyecek hale getirilmek suretiyle işlenmesini,
+ç) Gerçekleşmeyen arama: Başarılı bir şekilde bağlantı kurulmasına rağmen, aranan tarafın cevap vermemesi ya da şebeke yönetiminden kaynaklanan bir nedenle görüşmenin gerçekleşmemesini,
+d) Hücre kimliği: Mobil telefon çağrısının başladığı ya da sona erdiği hücrenin kimliğini,
+e) IMEI:
+Uluslararası mobil cihaz kimliğini,
+f) IMSI:
+Uluslararası mobil abone kimliğini,
+g) İşlem kaydı: Kişisel verilere erişebilen kişiler tarafından yapılan işlemin ileriki bir tarihte tanımlanabilmesini
+teminen söz konusu işleme ilişkin olarak tutulan ve en az işlemi yapan kişi, işlemin yapıldığı tarih ve zamanı, yapılan işlemin detayı, gerekçesi ve niteliği ile işlemi yapan kişinin bağlandığı nokta bilgilerini içeren elektronik
+kayıtları,
+ğ) İşletmeci: Yetkilendirme çerçevesinde elektronik haberleşme hizmeti sunan ve/veya elektronik haberleşme şebekesi sağlayan ve alt yapısını işleten şirketi,
+h) Kişisel veri: Belirli veya kimliği belirlenebilir
+gerçek ve tüzel kişilere ilişkin bütün bilgileri,
+ı) Kişisel veri ihlali: İstem dışı, yetki dışı ya da yasa dışı olarak; kişisel verilerin tahrip edilmesine, kaybolmasına, iletilmesine, değiştirilmesine, depolanmasına veya başka bir ortama kaydedilmesine, işlenmesine, ifşa edilmesine ve söz konusu verilere
+erişilmesine neden olan güvenlik ihlalini,
+i) Kişisel verilerin işlenmesi: Kişisel verilerin
+otomatik olan veya olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, değiştirilmesi, silinmesi veya yok edilmesi, yeniden düzenlenmesi, açıklanması veya başka bir şekilde elde edilebilir hale getirilmesi, üçüncü kişilere aktarılması, kullanılmasının sınırlanması amacıyla işaretlenmesi, tasniflenmesi veya kullanılmasının engellenmesi gibi bu veriler üzerinde gerçekleştirilen işlem ya da işlemler bütününü,
+j) Konum
+verisi: Kamuya açık elektronik haberleşme hizmeti kullanıcısına ait bir cihazın coğrafi konumunu belirleyen ve elektronik haberleşme şebekesinde veya elektronik haberleşme hizmeti aracılığıyla işlenen belirli
+veriyi,
+k) Kullanıcı: Aboneliği olup olmamasına bakılmaksızın elektronik haberleşme hizmetlerinden yararlanan gerçek veya tüzel kişiyi,
+l) Kullanıcı kimliği: İnternet erişim hizmetlerine ya da internet haberleşme hizmetlerine abonelik ya da kayıt esnasında tahsis edilen tek ve kişiye özel tanımlamayı,
+m) Kurul: Bilgi
+Teknolojileri ve İletişim Kurulunu,
+n) Kurum: Bilgi
+Teknolojileri ve İletişim Kurumunu,
+o) Maskeleme: İşletmecinin kişisel verileri, üçüncü tarafların bu verileri ilgili kişi ile ilişkilendiremeyecek hale getirmesini,
+ö) Rıza: İlgili kişinin kendisine ait
+kişisel verisinin işlenmesine yönelik, verinin işlenme amaç ve kapsamı dâhilinde, verinin işlenmesi öncesinde özgür iradesiyle verdiği ispatlanabilir
+kabul beyanını,
+p) Trafik
+verisi: Bir elektronik haberleşme şebekesinde haberleşmenin iletimi veya faturalama amacıyla işlenen her türlü veriyi,
+r) Veri: Abone
+ya da kullanıcıyı teşhis etmek için yararlanılan trafik verisi, konum verisi ya da ilgili diğer bilgileri,
+ifade eder.
+(2) Bu Yönetmelikte geçen ve birinci fıkrada tanımlanmayan kavramlar ve kısaltmalar için ilgili mevzuatta yer alan tanımlar geçerlidir.
+İKİNCİ BÖLÜM
+Uygulama
+Esasları
+Kişisel verilerin işlenmesine ilişkin
+ilkeler
+MADDE 4 – (1) Kişisel verilerin;
+a) Hukuka ve dürüstlük kurallarına uygun olarak işlenmesi,
+b) İlgili kişinin rızasına dayalı olarak işlenmesi,
+c) Elde edilme
+amacıyla bağlantılı, yeterli ve orantılı olması,
+ç) Doğru olması ve gerektiğinde güncellenmesi,
+d) İlgili kişilerin kimliklerini belirtecek biçimde ve kaydedildikleri veya yeniden işlenecekleri amaç için gerekli olan süre kadar muhafaza
+edilmesi
+esastır.
+Güvenlik
+MADDE 5 – (1) İşletmeciler, kişisel verilerin işlenmesine ilişkin olarak güvenlik politikası belirler. İşletmeciler şebekelerinin,
+abonelerine/kullanıcılarına ait kişisel verilerin ve
+sundukları hizmetlerin güvenliğini sağlamak amacıyla uygun teknik
+ve idari tedbirleri alır. Söz konusu güvenlik tedbirleri,
+teknolojik imkânlar göz önünde bulundurularak muhtemel riske uygun bir düzeyde sağlanır.
+(2) Birinci fıkrada belirtilen tedbirler, asgari istem dışı, yetki dışı ya da yasa dışı olarak; kişisel verilerin tahrip edilmesi, kaybolması, değiştirilmesi, depolanması veya başka bir ortama kaydedilmesi, işlenmesi, ifşa edilmesi ve söz konusu verilere erişilmesine karşı kişisel verilerin korunmasını içerir.
+(3) İşletmeciler, kişisel verilere sadece yetkili kişiler tarafından erişilebilmesini ve kişisel verilerin tutulduğu sistemlerin ve
+kişisel verilere erişim sağlamak için kullanılan uygulamaların güvenliğini sağlamakla yükümlüdür.
+(4) İşletmeciler, kişisel verilere ve ilişkili diğer sistemlere sağlanan tüm erişimlere ve erişim yetkisi olan personelin yaptığı işlemlere dair detaylı işlem kayıtlarını beş yıl süreyle tutmakla yükümlüdür.
+(5) Kurum,
+gerekli gördüğü hallerde işletmecilerden, kişisel verilerin tutulduğu sistemlere ve
+aldıkları güvenlik tedbirlerine ilişkin tüm bilgi ve belgeleri isteme, ayrıca söz konusu güvenlik
+tedbirlerinde değişiklik talep etme hakkını haizdir.
+Riskin ve kişisel veri
+ihlalinin bildirilmesi
+MADDE 6 – (1) İşletmeci, şebekenin ve kişisel verilerin güvenliğini ihlal eden belirli bir risk olması durumunda bu risk
+hakkında Kurumu ve abonelerini/kullanıcılarını etkin ve hızlı bir şekilde bilgilendirmekle yükümlüdür.
+(2) Bu riskin işletmeci tarafından alınan tedbirlerin dışında kalması halinde, söz konusu riskin
+kapsamı, giderilme yöntemleri ve yaklaşık maliyeti hakkında abonelerin/kullanıcıların etkin ve hızlı bir şekilde bilgilendirilmesi sağlanır.
+(3) İşletmeci, kişisel veri ihlali olması durumunda söz konusu ihlalin niteliği ve sonuçları hakkında abonelere/kullanıcılara yapılacak
+bilgilendirmenin detayları ve ihlalin giderilmesi için alınan tedbirlere ilişkin olarak Kurumu
+bilgilendirir.
+(4) Kişisel veri ihlalinden abonelerin/kullanıcıların olumsuz yönde etkilenme
+ihtimalinin bulunması halinde işletmeci, kişisel veri ihlalinin niteliğine, daha fazla
+bilginin elde edilebileceği iletişim noktalarına ve ihlalin olası olumsuz etkilerini azaltmak için aboneler/kullanıcılar tarafından alınabilecek önlemlere ilişkin olarak
+aboneleri/kullanıcıları ücretsiz olarak bilgilendirir.
+(5) İşletmeci, gerçekleşen kişisel veri
+ihlallerine ilişkin olarak söz konusu ihlalin
+sebeplerini, etkilerini ve çözüme yönelik tedbirleri içeren bilgileri
+gizliliğini ve bütünlüğünü sağlayarak kaydetmekle yükümlüdür.
+ÜÇÜNCÜ BÖLÜM
+Verilerin İşlenmesi ve Saklanması
+Haberleşmenin
+gizliliği
+MADDE 7 – (1) Elektronik haberleşme ve ilgili trafik verisinin gizliliği esas olup,
+ilgili mevzuatın ve yargı kararlarının öngördüğü durumlar haricinde, haberleşmeye taraf olanların tamamının rızası olmaksızın haberleşmenin dinlenmesi, kaydedilmesi, saklanması, kesilmesi ve gözetimi yasaktır.
+(2) Elektronik
+haberleşme şebekeleri, haberleşmenin iletimini
+gerçekleştirmek dışında abonelerin/kullanıcıların terminal cihazlarında bilgi saklamak
+veya saklanan bilgilere erişim sağlamak amacıyla işletmeciler tarafından ancak ilgili
+kullanıcıların/abonelerin verilerin işlenmesi hakkında açık ve kapsamlı olarak bilgilendirilmeleri ve rızalarının alınması kaydıyla kullanılabilir.
+Trafik verisinin işlenmesi
+MADDE 8 – (1) İşletmeciler,
+sundukları hizmetin kapsamı dışındaki amaçlar için trafik verisini
+işleyemez.
+(2) Trafik
+verisi, ilgili mevzuat hükümlerine uygun olarak, trafiğin yönetimi, arabağlantı, faturalama, yolsuzluk tespitleri ve benzeri işlemleri gerçekleştirmek veya tüketici şikâyetleri ile arabağlantı ve faturalama anlaşmazlıkları başta olmak üzere, uzlaşmazlıkların çözümü amacıyla işlenir ve bu uzlaşmazlıkların çözüm süreci tamamlanıncaya kadar
+gizliliği ve bütünlüğü sağlanarak saklanır.
+(3) Elektronik
+haberleşme hizmetlerini pazarlamak veya katma değerli elektronik haberleşme hizmetleri sunmak
+amacıyla ihtiyaç duyulan trafik verileri,
+ilgili abonelerin/kullanıcıların işlenecek trafik verisinin türü ve işlenme süresi hakkında bilgilendirilmelerinden sonra rızalarının alınması kaydıyla, alınan rızaya uygun olarak sadece katma değerli elektronik haberleşme hizmetlerinin,
+pazarlama faaliyetlerinin ve benzer hizmetlerin gerektirdiği ölçüde ve sürede işlenebilir.
+(4) İşletmeci tarafından abonelere/kullanıcılara ait işlenen ve saklanan trafik verileri, bu verilerin işlenmesini ve saklanmasını gerekli kılan faaliyetin tamamlanmasından sonra silinir veya anonim hale getirilir.
+(5) İşletmeciler, abonelerin/kullanıcıların, kısa mesaj, çağrı merkezi, internet ve benzeri yöntemlerle vermiş oldukları rızayı aynı yöntem ya da basit bir yöntem ile her zaman ücretsiz olarak geri almalarına imkân sağlar.
+Trafik verisini işleme
+yetkisi
+MADDE 9 – (1) Trafik verisini işleme yetkisi; trafik yönetimi, arabağlantı, faturalama, yolsuzluk tespitleri, tüketici şikâyetlerinin değerlendirilmesi,
+elektronik haberleşme hizmetlerinin pazarlanması veya katma değerli elektronik haberleşme hizmetlerinin sunulması hususlarında işletmeci tarafından
+yetkilendirilen kişilerle sınırlıdır.
+(2) Trafik
+verileri elektronik haberleşme hizmetlerinin pazarlanması veya katma değerli elektronik haberleşme hizmetlerinin sunulması amacıyla maskeleme yapılmaksızın işletmeci bünyesi dışına çıkarılamaz.
+(3) Trafik
+verileri hiçbir şekilde yurt dışına çıkarılamaz.
+Trafik verisinin bildirilmesi
+MADDE 10 – (1) Trafik verisi, arabağlantı ve faturalama anlaşmazlıkları başta olmak üzere, uzlaşmazlıkların çözümü, tüketici şikâyetlerinin değerlendirilmesi ve denetim faaliyetlerinin gerçekleştirilmesi amacıyla yazılı olarak talep edilmesi halinde kanunların yetkili kıldığı mercilere verilir.
+Konum verisinin işlenmesi
+MADDE 11 – (1) İşletmeciler, abonelerin/kullanıcıların konum verisini ancak, katma değerli elektronik haberleşme hizmetlerinin
+sunumu halinde abonelerin/kullanıcıların rızasını alarak bu hizmetlerin sunumu için gerekli olan ölçü ve sürede ya da anonim
+hale getirmek suretiyle işleyebilir.
+(2) İşletmeciler; aboneleri/kullanıcıları, rızalarını almadan önce, işlenecek konum
+verisinin türü, işlenme amacı ve süresi hakkında bilgilendirir.
+(3) İşletmeciler, abonelerin/kullanıcıların konum verilerinin işlenmesi için, kısa mesaj, çağrı merkezi, internet ve benzeri yöntemlerle vermiş oldukları rızayı aynı yöntem ya da basit bir yöntem ile her zaman ücretsiz olarak geri almalarına imkân sağlar.
+(4) İlgili mevzuatın ve yargı kararlarının öngördüğü durumlar haricinde, ancak acil yardım çağrıları kapsamında
+abonenin/kullanıcının rızası aranmaksızın konum verisi ve ilgili kişilerin kimlik
+bilgileri işlenebilir.
+Konum verisini işleme
+yetkisi
+MADDE 12 – (1) Konum verisini işleme yetkisi işletmeci tarafından yetkilendirilen kişilerle sınırlı olup, bu yetki söz konusu
+hizmetlerin gerektirdiği kapsamda kullanılır. Söz konusu veriler, maskeleme yapılmaksızın işletmeci bünyesi dışına çıkarılamaz.
+(2) Konum
+verileri hiçbir şekilde yurt dışına çıkarılamaz.
+Saklanacak veri kategorileri
+MADDE 13 – (1) Bu Yönetmelik kapsamında saklanması öngörülen veri kategorileri, aşağıda belirtilmiştir.
+a) Haberleşmenin takibi ve kaynağının tanımlanması için:
+1) Sabit ve
+mobil telefon hizmetleriyle ilgili olarak; gerçekleşmeyen aramalar da dâhil olmak üzere haberleşmenin başlatıldığı hatta ait telefon numarası, abonenin adı ve adresi, hattın hangi tarihte
+hangi aboneye tahsis edildiğine ait bilgi.
+2) İnternet ortamına erişim, elektronik
+posta ve internet telefonu ile ilgili olarak; tahsis edilmiş kullanıcı kimliği ve/veya telefon numarası, haberleşmenin gerçekleştiği andaki internet protokol adresi, abonenin/kullanıcının adı ve adresi.
+b) Haberleşmenin sonlandırılacağı noktayı belirlemek için:
+1) Sabit ve
+mobil telefon hizmetleriyle ilgili olarak; haberleşmenin sonlandırıldığı/sonlandırılacağı numara veya numaralar, çağrı iletme ve çağrı transferi gibi ek hizmetlerin olması durumunda çağrının yönlendirildiği numara veya
+numaralar, abonelerin adı ve adresi.
+2) Elektronik
+posta ve internet telefonu ile ilgili olarak; elektronik posta alıcılarına ait kullanıcı kimliği, internet telefonu ile aranan alıcılara ait kullanıcı kimliği veya telefon numarası, internet telefonu veya elektronik posta alıcılarının adı ve adresi.
+c) Haberleşmenin tarihi, zamanı ve süresini belirlemek
+için:
+1) Sabit ve
+mobil telefon hizmetleriyle ilgili olarak; haberleşmenin başlangıç ile bitiş tarih ve zamanı.
+2) İnternet erişimi, elektronik posta ve internet telefonu ile
+ilgili olarak; internet erişimi ile ilgili oturum açma, kapatma tarihi ve zamanı, tahsis edilen
+dinamik veya statik internet protokol adresi, abone/kullanıcı kimliği, elektronik
+posta veya internet telefonu ile ilgili oturum açma ile kapatma tarihi ve zamanı.
+ç) Haberleşmenin türünü tanımlamak için:
+1) Sabit ve
+mobil telefon hizmetleriyle ilgili olarak; kullanılan elektronik haberleşme hizmeti.
+2) Elektronik
+posta ve internet telefonu ile ilgili olarak; kullanılan internet hizmeti.
+d) Kullanıcıların haberleşme cihazlarını veya bunların ekipmanlarını tanımlamak için:
+1) Sabit
+telefon hizmetiyle ilgili olarak; haberleşmenin başlatıldığı ve sonlandırıldığı telefon numaraları.
+2) Mobil
+telefon hizmetiyle ilgili olarak; haberleşmenin başlatıldığı ve sonlandırıldığı telefon numaraları, haberleşmenin başlatıldığı ve sonlandırıldığı tarafa ait IMSI ve IMEI numaraları; abone kaydı olmayan arama kartlı hizmetlerin olması durumunda hizmetin aktif hale getirildiği tarih ve zaman ile hizmetin aktif hale getirildiği hücre kimliği.
+3) İnternet ortamına erişim, elektronik
+posta ve internet telefonu ile ilgili olarak; çevirmeli ağ erişimi için arayan telefon
+numarası, sayısal abone hattı numarası ya da haberleşmenin kaynaklandığı diğer nokta.
+e) İlgili mevzuatın öngördüğü hallerde mobil haberleşme cihazının konumunu tespit etmek için; haberleşmenin başladığı hücre kimliği, haberleşme verilerinin saklandığı sürede hücre kimlikleri ile ilgili olarak hücrelerin coğrafi konumlarını tanımlayan veri, hücre adresi ve hücre kimliğinin o adrese atanma ve kaldırılma tarihleri.
+(2) Bu Yönetmelik kapsamında, elektronik posta ve internet telefonu ile
+ilgili olarak verilerin saklanmasına ilişkin getirilen yükümlülükler, sadece işletmecilerin
+kendilerinin sundukları hizmetler ile sınırlıdır.
+Veri saklama süresi
+MADDE 14 – (1) 13 üncü madde kapsamında tanımlanan veri
+kategorileri, haberleşmenin gerçekleştiği tarihten itibaren işletmeciler tarafından bir yıl süre ile saklanır.
+(2) Soruşturma, inceleme, denetleme veya uzlaşmazlığa konu olan kişisel veriler, ilgili süreç tamamlanıncaya kadar saklanır.
+Saklanan verinin korunması ve güvenliği
+MADDE 15 – (1) Bu Yönetmelik kapsamında saklanması öngörülen veriler için işletmeciler asgari olarak;
+a) Saklanan
+veriler ile şebekedeki diğer verilerin aynı kalite, güvenlik ve koruma özelliklerine tabi
+olmasını,
+b) Verilerin
+yurt içinde kendi bünyesinde saklanmasını,
+c) Saklanan
+verilerin, istem dışı, yetki dışı ya da yasa dışı, erişim, tahrip, kayıp, değişiklik, depolama, işleme ve ifşasına karşı uygun teknik ve
+idari tedbirlerin alınmasını,
+ç) Verilerin sadece özel
+yetkilendirilmiş kişiler tarafından erişilebilir olmasının sağlanması için uygun teknik ve idari tedbirlerin alınmasını,
+d) İşlenen ve saklanan verinin saklama süresi sonunda imha
+edilmesi veya anonim hale getirilmesi ve bu işlemlerin tutanakla
+veya sistemsel olarak kayıt altına alınmasını
+sağlamakla yükümlüdür.
+(2) İşletmeciler sundukları hizmetler kapsamında elde ettikleri
+verilerin güvenliğini, bütünlüğünü, gizliliğini ve erişilebilirliğini her aşamada sağlamakla yükümlüdür. Bu yükümlülük işletmeci tarafından
+yetkilendirilmiş kişiler marifetiyle yapılan işlemleri de kapsar.
+(3) İşletmeciler, kanunların yetkili kıldığı mercilerce talep edilmesi halinde, saklanan veri ve söz konusu veriye ilişkin gerekli tüm bilgileri
+gecikmeksizin sağlamakla yükümlüdür.
+İstatistikî bilgilerin verilmesi
+MADDE 16 – (1) İşletmeciler son
+bir yıl içerisinde;
+a) Yetkili
+merciler tarafından ilgili mevzuatı çerçevesinde talep edilen verilerin kategorileri ve
+talep edilme sayılarına,
+b) Verinin
+saklanmaya başlandığı tarih ile yetkili merciler tarafından talep edildiği tarih arasında geçen süreye,
+c) Veri
+talebinin karşılanamadığı durumlara,
+ilişkin istatistikî bilgileri saklamakla ve talep halinde Kuruma göndermekle yükümlüdür.
+(2) Bu maddenin
+birinci fıkrasında belirtilen istatistikî bilgiler, kişisel verileri içermez.
+DÖRDÜNCÜ BÖLÜM
+Sağlanan İmkânlar
+Numaranın
+gizlenmesi
+MADDE 17 – (1) İşletmeci, arayan
+numaranın görünmesine imkân sağladığı durumlarda;
+a) Arayan
+kullanıcıya her bir arama için basit bir yöntemle ve ücretsiz olarak numarasını gizleme imkânı sağlamakla,
+b) Aranan
+aboneye basit bir yöntemle ve ücretsiz olarak,
+gelen aramalarda arayan numaranın gösterilmesini engelleme imkânı sağlamakla,
+c) Arayan kişinin numarasını gizlemesi halinde, aranan abonenin/kullanıcının isteğine bağlı ve ücretsiz olarak, gelen aramaların abone/kullanıcı tarafından
+reddedilmesine imkân sağlamakla
+yükümlüdür.
+(2) İşletmeci, bağlanılan numaranın görünmesine imkân sağladığı durumlarda, aranan aboneye basit bir yöntemle ve ücretsiz olarak, bağlanılan numaranın arayan kullanıcıya gösterilmesini engelleme imkânı sağlamakla yükümlüdür.
+(3) İşletmeci, bu maddenin birinci ve ikinci fıkrasında belirtilen hizmet imkânları hakkında abonelerini/kullanıcılarını kısa mesaj, internet, basın, yayın organları, posta veya
+benzeri araçlarla ücretsiz olarak
+bilgilendirmekle yükümlüdür.
+(4) Arayan
+numaranın gizlenmesi imkânı, acil yardım çağrıları için geçerli değildir.
+Otomatik çağrı yönlendirme
+MADDE 18 – (1) İşletmeciler,
+telefon ve benzeri elektronik haberleşme cihazlarına kendileri veya üçüncü kişiler tarafından yapılan otomatik çağrı yönlendirmelerinin, abonenin talebi üzerine ücretsiz ve basit bir yöntemle teknik imkânlar dâhilinde iptal
+edilmesine imkân sağlarlar.
+(2) İşletmeciler tarafından başka bir numaraya
+veya otomatik mesaj sistemine yapılan yönlendirmelerin ücretli olması halinde
+abonenin/kullanıcının rızası alınır.
+Aboneler için hazırlanan rehberler
+MADDE 19 – (1) Aboneler, basılı ve/veya elektronik abone rehberlerinin, yayımlanma amaçları ve bu rehberlerde yer alacak kişisel veriler ile bu rehberlerin elektronik sürümlerinde olabilecek sorgulama seçenekleri ve kullanım imkânları hakkında rehbere kaydedilmeden önce ücretsiz olarak bilgilendirilirler.
+(2) Kamuya açık rehberlerde yer alan kişisel veriler,
+rehberlik hizmetinin amaç ve kapsamına uygun olarak belirlenir.
+(3) Abone
+rehberlerinde yer almayı kabul eden aboneler, rehberlerde yer alan kişisel verilerinin düzeltilmesini, teyit edilmesini ve/veya çıkarılmasını ücretsiz ve basit bir yöntemle talep edebilirler.
+(4) Rehberlik
+hizmeti kapsamında yapılacak
+sorgulamalarda, Elektronik Haberleşme Sektörüne İlişkin Yetkilendirme Yönetmeliği’nin Elektronik Haberleşme Hizmet, Şebeke ve Altyapılarının Tanım, Kapsam ve Süreleri ile ilgili 27 nci maddesi kapsamında yapılan düzenlemeler esastır.
+Ayrıntılı faturalarda gizlilik
+MADDE 20 – (1) İşletmeciler, ayrıntılı fatura gönderdikleri
+abonelerin talep etmeleri halinde, fatura ayrıntısında yer alan telefon numaralarının bazı rakamlarının gizlenmesini sağlar.
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+İdari para cezaları ve diğer yaptırımlar
+MADDE 21 – (1) İşletmecilerin bu Yönetmelik ile belirlenen yükümlülükleri yerine getirmemeleri halinde 5/9/2004 tarihli
+ve 25574 sayılı Resmî Gazete’de yayımlanan Telekomünikasyon Kurumu
+Tarafından İşletmecilere
+Uygulanacak İdari Para Cezaları ile Diğer Müeyyide ve Tedbirler Hakkında Yönetmelik hükümleri uygulanır.
+Hüküm
+bulunmayan haller
+MADDE 22 – (1) Bu Yönetmelikte hüküm bulunmayan hallerde, Tebliğ veya Kurul Kararı ile düzenleme yapılır.
+Yürürlükten kaldırılan yönetmelik
+MADDE 23 – (1) 6/2/2004 tarihli ve 25365 sayılı Resmî Gazete’de yayımlanan Telekomünikasyon Sektöründe Kişisel Bilgilerin İşlenmesi ve Gizliliğinin Korunması Hakkında Yönetmelik yürürlükten kaldırılmıştır.
+Atıflar
+MADDE 24 – (1) Mevzuatta 6/2/2004 tarihli ve 25365 sayılı Resmî Gazete’de yayımlanan Telekomünikasyon Sektöründe Kişisel Bilgilerin İşlenmesi ve Gizliliğinin Korunması Hakkında Yönetmeliğe yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+Mevcut düzenlemelerin
+durumu
+GEÇİCİ MADDE 1 – (1) Telekomünikasyon Sektöründe Kişisel Bilgilerin İşlenmesi ve Gizliliğinin Korunması Hakkında Yönetmeliğe dayanılarak yapılan usul ve esaslar, alınan Kurul Kararları ile diğer idari işlemlerin bu Yönetmeliğe aykırı olmayan hükümleri konuya ilişkin yeni bir işlem yapılana kadar geçerliliğini muhafaza eder.
+Yürürlük
+MADDE 25 – (1) Bu Yönetmelik yayımı tarihinden altı ay sonra yürürlüğe girer.
+Yürütme
+MADDE 26 – (1) Bu Yönetmelik hükümlerini Bilgi Teknolojileri ve İletişim Kurumu Başkanı yürütür.
