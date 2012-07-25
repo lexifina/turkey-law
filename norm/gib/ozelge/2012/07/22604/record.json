@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[228-2012/VUK-1- . . .]--2293",
+  "source_id": 22604,
+  "date": "2012-07-25",
+  "title": "Gemi işletmeciliği faaliyetinde bulunan kurumun, yurt dışı taşımacılığı faaliyeti ile ilgili olarak yurtdışında belgesini temin edemediği harcamaların gider olarak dikkate alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22604",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "cc0126c92312760e03efe393ebfeca6b15ff2f0273b3706ee8002b96072c6bde",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
