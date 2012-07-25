@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-019.01-2288",
+  "source_id": 27378,
+  "date": "2012-07-25",
+  "title": "Üye aidatları ve bağışların POS cihazı aracılığıyla tahsil edilmesinin kurumlar vergisi ve katma değer vergisi açısından mükellefiyet tesisini gerektirip gerektirmediği ile belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27378",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4a1ebf06d05d40ca826e80bc57f516130c5e28b588e8a79a9739d5bbbac4bcfd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
