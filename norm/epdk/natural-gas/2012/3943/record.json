@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3943",
+  "decision_date": "2012-07-25",
+  "title": "22/12/2011 tarih ve 3580 sayılı Kurul Kararı ile yürürlüğe giren “Doğal Gaz Dağıtım Şirketleri İçin Tarife Hesaplama Usul ve Esasları” uyarınca tarifeleri belirlenecek dağıtım şirketlerinin abone sayısı projeksiyonu çalışmalarına yönelik",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QBJg0VDNTak=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QBJg0VDNTak="
+  ],
+  "source_sha256": "29c09bf1c280951b3bfa49d12e32725ad5a17ac42e3e359dc859706e1eda3899",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-07-25",
+  "law_text_complete": false
+}
