@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-GVK 37-2286",
+  "source_id": 22208,
+  "date": "2012-07-25",
+  "title": "Defterlerdeki bilgilerin bilgisayar ortamına aktarılması faaliyeti için yapılan ödemeden dolayı gelir vergisi kesintisi yapılıp yapılmayacağı hk..",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22208",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "f953cf5abdd09135e68562ddb36bcf6db75b3146587ac76ea7250e9210b29b04",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
