@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3939",
+  "decision_date": "2012-07-25",
+  "title": "Doğal Gaz Piyasası Lisans Yönetmeliğinin 28 inci ve 31 inci maddeleri ile Doğal Gaz Piyasası Tarifeler Yönetmeliğinin 1 inci ve 9 uncu maddeleri uyarınca dağıtım şirketlerinin 2012-2016 tarife uygulama dönemi için yapılacak hesaplamalarda gerçekleşen yatırımların maliyetlerinin analizine yönelik",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JMWt0CxWHcw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JMWt0CxWHcw="
+  ],
+  "source_sha256": "e79b25568259b33f19363ed7a077687859f8e451663a4631bfb267248b3538c9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-07-25",
+  "law_text_complete": false
+}
