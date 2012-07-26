@@ -1,0 +1,42 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2012/30",
+  "date": "2012-07-26",
+  "title": "SPK Haftalık Bülteni 2012/30",
+  "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_30.pdf",
+  "source_sha256": "c976e28f37e3cd90e7b10b3bf7487c56b71c7eea4b0f8ed476ceb98f084bbc17",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "C. YENİ FAALİYET İZİNLERİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "C. YENİ FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_30.pdf"
+    },
+    {
+      "heading": "D. SUÇ DUYURUSU, İDARİ PARA CEZASI İLE DİĞER YAPTIRIM VE TEDBİRLER",
+      "status": "metadata-only",
+      "reason": "sanctions-metadata-only",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_30.pdf"
+    },
+    {
+      "heading": "G. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4871b41c613a0d633cf/2012_30.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
