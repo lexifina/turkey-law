@@ -1,0 +1,10 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez, amaçları doğrultusunda aşağıda belirtilen faaliyetleri yapar:
+a) Bütün tür ve dalları itibariyle edebiyat, tarih, sosyoloji, bilim ve sanatın ulusal ve uluslararası düzeyde geliştirilmesine yönelik araştırma, çalışma ve uygulamaların yapılmasını sağlamak; tarih, sosyoloji, sanat ve bilimsel araştırma, uygulama, eğitim faaliyetlerini planlamak, düzenlemek, yönlendirmek, katılmak ve desteklemek,
+b) Üniversitenin tüm fakülte ve bölümleri ile edebiyat, tarih, sosyoloji, bilim ve sanatın geliştirilmesine yönelik ortak projeler oluşturmak ve planlamak,
+c) Merkezin amacına yönelik faaliyetlerin gerçekleştirilmesi yolunda yurt içi ve dışındaki benzer kuruluşlarla işbirliği yapmak, ortak bilimsel-sanatsal proje ve çalışmalar için gerekli girişimlerde bulunmak,
+ç) Ulusal ve uluslararası düzeyde konferans, seminer, sempozyum, kongre, konser, yarışma, kurs, sergi ve benzeri çalışmaları düzenlemek,
+d) Edebiyat, tarih, sosyoloji ve sanata ilişkin bilgilerin öğrenilmesi, geliştirilmesi, yaygınlaştırılması amacıyla, geniş kitlelerin katılımına açık bilimsel-sanatsal çalışmalar düzenlemek, düzenlenen çalışmalara katılmak; görsel-işitsel, süreli-süresiz yayınlar yapmak veya yapılmasına destek olmak,
+e) Konu ile ilgili kitap ve dergi, basma-yazma, sanat belgeleri, çeşitli tarihsel dokümanlar, fotoğraf, afiş, broşür, CD, kaset, bant, DVD, VCD, video bandı, film, ses kayıt ve yansıtma cihazları ve benzeri yazılı-sesli-görsel dokümanın yer aldığı bir belgeliği; bu birikimleri araştırmacılara ve eğitim hizmetine sunmak, konu ile ilgili araştırmaları ve eğitimi en geniş anlamda desteklemek,
+f) Tarih, edebiyat ve sanat alanlarına ilişkin çalışmalarda danışmanlık ve bilirkişilik yapmak; Afyonkarahisar ve Ahmed Şemseddin Karahisari hakkında tarih, edebiyat, sosyoloji ve sanat alanındaki çalışmaları ve eğitimi destekleme yönünde, başarılı araştırmacı, uygulamacı ve öğrencilere burslar, ödüller vermek, verilmesini teşvik etmek,
+g) Merkez bünyesinde düzenli olarak kültür ve sanat günleri, etkinlikleri düzenlemek.
