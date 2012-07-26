@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-07-26",
+  "issue": "28365",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Yapı Malzemeleri Yönetmeliği (89/106/EEC) ve Yapı Malzemelerinin Tabi Olacağı Kriterler Hakkında Yönetmelik Kapsamındaki Yapı Malzemelerinin Tabi Olacakları Uygunluk Teyit Sistemleri Hakkında Tebliğ (No: MHG/2012-04)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120726-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120726.htm",
+  "index_sha256": "b954ff3173dd7bcc386d416e75114b981b97529bff2e15cc7d1b066c221d9a34",
+  "index_header": "26 Temmuz 2012 ... 28365 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
