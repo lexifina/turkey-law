@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37009108-175.01[8.Md-2012]-68",
+  "source_id": 37000,
+  "date": "2012-07-26",
+  "title": "Derneğe ait, dini eğitim ve öğretim faaliyetinde bulunulan binaların emlak vergisinden muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37000",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "f40c9c601059033cefeaa41496b76a924f164d75e5fce03520ea1ef2a74d8190",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
