@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.15.02-195[1-2012/1]-136",
+  "source_id": 36615,
+  "date": "2012-07-26",
+  "title": "Bir ayı geçmemek kaydıyla fuar vb. yerlerde satış yapanların ödeme kaydedici cihaz kullanma mecburiyetlerinin bulunup bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36615",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "8f9c088b40a4defb9112bb0c0808b23382cbaf21ae216281e6019367027579eb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
