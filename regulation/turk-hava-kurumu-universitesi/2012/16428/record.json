@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.16428",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "TÜRK HAVA KURUMU ÜNİVERSİTESİ HAVACILIK VE UZAY BİLİMLERİ ENSTİTÜSÜ PİLOTAJ YÜKSEK LİSANS PROGRAMI EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "16428",
+  "issuer": "TÜRK HAVA KURUMU ÜNİVERSİTESİ",
+  "issuer_slug": "turk-hava-kurumu-universitesi",
+  "path": "regulation/turk-hava-kurumu-universitesi/2012/16428",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16428&MevzuatTertip=5",
+  "source_sha256": "9b96e248056a6ac99294d27b2ba8c1d915f1068dcc91cf731dfcf46d856a3c45",
+  "source_bytes": 56935,
+  "published": "2012-07-27",
+  "gazette": "28366",
+  "in_force": "2012-07-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.07.2012); own commencement article: \"Bu Yönetmelik, 2012-2013 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, 2012-2013 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1855,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

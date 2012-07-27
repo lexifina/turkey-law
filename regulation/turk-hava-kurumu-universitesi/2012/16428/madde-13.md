@@ -1,0 +1,5 @@
+Başarı denetimi
+MADDE 13 – (1) Teorik ve fiili uçuş dersleri dışında yer alan derslerin değerlendirilmesinde, Türk Hava Kurumu Üniversitesi Lisansüstü Eğitim Öğretim ve Sınav Yönetmeliğinin 21 inci maddesi hükümleri uygulanır.
+(2) Fiili uçuş öncesi acil durum sınavlarında başarı notu S veya U olarak verilir. Günlük acil durumlar için bilinmesi gerekenler sınavından U alan öğrencinin o günkü uçuşu iptal edilir. Bunu alışkanlık haline getiren ve çeşitli zamanlarda bu yüzden uçuşu iptal edilen öğrencilere Uçuş Kuruluna sevk işlemi uygulanır.
+(3) Uçak ve simülatör ile yapılan fiili uçuş derslerinin başarı notu uçuş fişleri esas alınarak değerlendirilir.
+(4) Fiili uçuş derslerinin herhangi birisinden yarıyıl içinde başarısız olan öğrenciler ve uçuş disiplinsizliği yapan ve uçuşa uyum gösteremeyen öğrenciler, bulunduğu yarıyılın sonu beklenmeden Uçuş Kuruluna sevk edilir. Uçuş Kurulunun vereceği değerlendirme raporuna göre Enstitü Yönetim Kurulu, uçuş uygulaması eğitiminin tekrarı veya uçuştan ayırma kararı verir.
