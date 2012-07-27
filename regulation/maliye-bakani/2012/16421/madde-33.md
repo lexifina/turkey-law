@@ -1,0 +1,4 @@
+Eğitim
+MADDE 33 – (1) Uzman ve uzman yardımcıları Başkanlıkça uygun görülecek zamanlarda hizmet içi eğitim programlarına alınır.
+(2) Uzmanlar mesleki kıdemleri dikkate alınarak, Başkanlık tarafından tespit edilecek programlar çerçevesinde, staj veya araştırma yapmak, mesleki bilgi ve görgülerini artırmak veya yurtdışındaki üniversitelerden kabul belgesi almaları şartıyla akademik çalışma yapmak için kontenjanlar ile sınırlı olmak üzere 657 sayılı Devlet Memurları Kanunu ve 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde yurtdışına gönderilebilirler.
+(3) Uzmanların lisansüstü eğitim yapmaları teşvik edilir ve gerekli görülmesi halinde üniversiteler ile işbirliği yapılır.

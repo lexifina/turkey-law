@@ -1,0 +1,8 @@
+Sınav kurulu
+MADDE 7 – (1) Sınav kurulu, Başkan veya görevlendireceği Başkan Yardımcısı veya İnsan Kaynakları Daire Başkanlığından sorumlu Daire Başkanının başkanlığında, Daire Başkanları ile Grup Başkanları arasından seçilecek en az beş asil ve iki yedek üyeden oluşur. İnsan Kaynakları Daire Başkanlığından sorumlu Daire Başkanı, sınav kurulunun tabii üyesidir.
+(2) Sınav kurulu, giriş ve yeterlik sınavlarını yapar, sonuçlarını değerlendirir ve itirazları inceleyerek karara bağlar.
+(3) Giriş sınavının, Yönetmeliğin 5 inci maddesinin birinci fıkrasının (b) bendinin (2) numaralı alt bendinde belirtilen okullardan mezun olanlar için açılması halinde, sınavın sözlü bölümüne katılması amacıyla sınav kuruluna, sınava çağrılan adayların mezun oldukları bölüme ilişkin teknik bilgiyi haiz, biri asil olmak üzere en çok iki üye Başkanlık merkezinden veya diğer kurumlardan alınabilir.
+(4) Giriş sınavının, Yönetmeliğin 5 inci maddesinin birinci fıkrasının (b) bendinde belirtilen okullardan mezun olanlar için birlikte açılması halinde, sınavın sözlü bölümüne katılmak için sınav kuruluna, Başkanlık merkezinden veya diğer kurumlardan çağrılan üyeler yalnızca teknik bilgiyi haiz oldukları bölümden sınava giren adayların sözlü sınavına iştirak ederler.
+(5) Sınav kuruluna, yükseköğretim kurumları öğretim üyeleri arasından en çok iki kişi üye olarak seçilebilir.
+(6) Sınav kurulu başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dahil) kan ve ikinci dereceye kadar (bu derece dahil) kayın hısımlarının veya evlatlıklarının katıldığı sınavda görev alamazlar.
+(7) Sınav kurulunun sekretarya hizmetlerini İnsan Kaynakları Daire Başkanlığı yürütür.
