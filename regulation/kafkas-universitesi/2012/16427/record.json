@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-07-27",
+      "27.07.2012",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28366",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-07-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kafkas Üniversitesi",
+  "issuer_slug": "kafkas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kafkas-universitesi/2012/16427",
+  "published": "2012-07-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16427&MevzuatTertip=5",
+  "source_bytes": 23574,
+  "source_id": "8.5.16427",
+  "source_sha256": "f20b037c4d6af1435721507f0a1baf1dd1b86b2c302208148cb8391992f5b02c",
+  "text_status": "as-enacted",
+  "title": "KAFKAS ÜNİVERSİTESİ EHLİBEYT UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 206,
+  "word_count": 951
+}
