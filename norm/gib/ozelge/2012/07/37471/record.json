@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-155[1-2012/94]-2317",
+  "source_id": 37471,
+  "date": "2012-07-27",
+  "title": "Faaiyet konusu işyeri kiralama olan serbest bölgede faaliyette bulunan firma ile diğer firma arasında düzenlenen işyeri kira sözleşmesinin 3218 sayılı Kanun uyarınca damga vergisinden istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/37471",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "32658274ed6a5445bc189954d2174b3651a1dba088d58e06c44cbb2fe31b4c85",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
