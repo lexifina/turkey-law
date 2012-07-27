@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "31523953-512-KV-18",
+  "source_id": 28793,
+  "date": "2012-07-27",
+  "title": "Enstitü bünyesinde yer alan döner sermaye işletmesinde yapılan iş ve işlemler nedeniyle KV mükellefiyeti olup olmadığı, kısmi zamanlı çalıştırılan usta öğreticilere yapılan ücret ödemeleri nedeniyle damga vergisine ve SGK prim bildirgeleri yönünden damga",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28793",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "452af50817792743c9bff9734dc6bf55f81d602cf6ee8e5dca1ede83f46539fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
