@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-07-28",
+  "issue": "28367",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 25/7/2012 Tarihli ve 2012/112 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120728-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/07/20120728.htm",
+  "index_sha256": "d94dc7ceca8885ee806e281d9c036a0f8140774c551c0ff0d8785817da8b12d0",
+  "index_header": "28 Temmuz 2012 ... 28367 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
