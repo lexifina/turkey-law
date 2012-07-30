@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.58.10.00-2012-24-30-5",
+  "source_id": 30621,
+  "date": "2012-07-30",
+  "title": "117 Seri Nolu KDV Gen. Teb. uygulanma dönemi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30621",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "6e102c01a9d7db97382368e689faca8566bbc4acfabb079a6ba66e3e034729b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
