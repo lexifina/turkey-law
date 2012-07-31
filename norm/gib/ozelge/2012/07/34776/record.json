@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-002.01-2370",
+  "source_id": 34776,
+  "date": "2012-07-31",
+  "title": "Genel mahiyetli borçları da içeren hisse rehin sözleşmesinin, Damga Vergisi Kanunu, Harçlar Kanunu ve 4628 sayılı Elektrik Piyasası Kanunu uyarınca damga vergisi ve harçtan istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34776",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "a788853e2b673fa8250044927ff6af5cb89b7515e2e512648beac6030c811740",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
