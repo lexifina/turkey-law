@@ -1,0 +1,29 @@
+{
+  "number": "month-07",
+  "year": 2012,
+  "month": 7,
+  "title": "2012 YILI TEMMUZ AYI MECLİS KARAR ÖZETİ",
+  "decision_date": null,
+  "index_date": "2012-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2012",
+  "source": "https://www.beykoy.bel.tr/karar/2012-yili-temmuz-ayi-meclis-karar-ozeti",
+  "official_page": "https://www.beykoy.bel.tr/karar/2012-yili-temmuz-ayi-meclis-karar-ozeti",
+  "official_document": "https://www.beykoy.bel.tr/karar/2012-yili-temmuz-ayi-meclis-karar-ozeti",
+  "source_sha256": "09ddd1dca9adde05a304bc723134a53c5fe9b4a64fa92a8692d52c4358b6f35e",
+  "issuer": "Beyköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2012-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2012); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2012 YILI TEMMUZ AYI MECLİS KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
