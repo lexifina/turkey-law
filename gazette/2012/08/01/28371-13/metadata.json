@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-08-01",
+  "issue": "28371",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2012/3400 Adana İli, Karaisalı ve Aladağ İlçelerinde Tesis Edilecek Eğlence-I Hidroelektrik Santralinin Yapımı Amacıyla Bazı Taşınmazların Enerji Piyasası Düzenleme Kurumu Tarafından Acele Kamulaştırılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120801-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120801.htm",
+  "index_sha256": "290f52f587fddb3fc032d65f5bcb35e1b8825810b67e539d1cd75576470f6954",
+  "index_header": "1 Ağustos 2012 ... 28371 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
