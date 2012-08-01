@@ -1,0 +1,7 @@
+Uzmanlık tezinin teslimi, Tez Jürisi tarafından değerlendirilmesi ve sonuçları
+MADDE 21 – (1) Uzman Yardımcısı tezini, tez konusunun İnsan Kaynakları ve Destek Hizmetleri Dairesi Başkanlığına bildirildiği tarihten itibaren en geç bir yıl içinde, Tez Jürisine iletilmek üzere, aynı Daire Başkanlığına sunmak zorundadır. Söz konusu Daire Başkanlığı, teslim aldığı tezi en geç on beş gün içinde Tez Jürisine iletmekle yükümlüdür.
+(2) Tezler, İnsan Kaynakları ve Destek Hizmetleri Dairesi Başkanlığınca, Tez Jürisine, değerlendirilmek üzere dağıtılır ve tezlerin incelenmesi için bir ay süre verilir.
+(3) Uzman Yardımcısı, tezlerin incelenmesini müteakiben en geç bir ay içerisinde, Yüksek Kurum/Kurumca tespit edilen tarihte tezini savunur.
+(4) Savunma sonunda tez başarılı veya başarısız olarak değerlendirilir. Başarı veya başarısızlığın tespitinde oy çokluğu esastır. Başarısız kabul edilen tezler için gerekçe gösterilir. Tezin oy çokluğuyla başarılı bulunması hâlinde olumsuz oy kullanan üyeler gerekçelerini yazılı olarak belirtirler.
+(5) Tez değerlendirme aşamasında tezi yeterli bulunmayan Uzman Yardımcısına bir hak daha tanınır. Uzman Yardımcısı bu hakkını, Tez Jürisi tarafından hazırlanacak raporu dikkate alarak, sonuçların ilanından itibaren altı ay içinde, daha önceden hazırlamış olduğu tezi düzelterek veya yeni bir tez hazırlayarak kullanır.
+(6) Süresi içinde tezini sunmayan Uzman Yardımcısına, Yeterlik Sınavı Komisyonunun kararı ile altı ayı aşmamak üzere ek süre verilir.
