@@ -1,0 +1,23 @@
+{
+  "number": "meeting-08-01",
+  "number_as_published": "meeting-08-01",
+  "year": 2012,
+  "title": "Karar No: 29 – 01.08.2012 Tarihli Ağustos Ayı Meclis Toplantısı",
+  "decision_date": "2012-08-01",
+  "source": "https://www.finike.bel.tr/arsiv/meclis-kararlari",
+  "official_document": "https://www.finike.bel.tr/files/documents/e2dabc86d22c4b0686360bb8a44a6f98.pdf",
+  "source_sha256": "6793bc643cf0d6fe58fe65c87cadb2eac87aae6369ace954a71125006131f9ff",
+  "issuer": "Finike Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2012-08-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.08.2012; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Karar No: 29 – 01.08.2012 Tarihli Ağustos Ayı Meclis Toplantısı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
