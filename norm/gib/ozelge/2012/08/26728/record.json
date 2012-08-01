@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.01.0-105[.262-2012]-175",
+  "source_id": 26728,
+  "date": "2012-08-01",
+  "title": "İktisap edilen arsanın 3194 sayılı İmar Kanununun 18 inci maddesi gereğince belediyeye terk edilen parsele ait maliyetin inşaat yapılacak parselin maliyet bedeline ilave edilip edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26728",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "f1ffe69ff14ec71db8a753b4f1b56a85b5935cc78712a74facca93f2547a9f09",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
