@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3954/27",
+  "decision_date": "2012-08-02",
+  "title": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliği Uyarınca Uzlaştırma Hesaplamalarında Kullanılacak Profil Uygulamasına İlişkin Usul ve Esaslarda Değişiklik Yapılmasına ilişkin...",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JSgXHDoaX3w=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JSgXHDoaX3w="
+  ],
+  "source_sha256": "37720cb81a7ea7155ee8358b304ab54ffa650a54858e65afce5c07ba70b48e24",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-08-02",
+  "law_text_complete": false
+}
