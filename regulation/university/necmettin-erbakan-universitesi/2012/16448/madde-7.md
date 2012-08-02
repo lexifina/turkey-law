@@ -1,0 +1,2 @@
+Merkez müdürü
+MADDE 7 – (1) Merkez Müdürü; organ nakli konusunda eğitimli, deneyimli Üniversitedeki kadrolu öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi sona eren Merkez Müdürü yeniden görevlendirilebilir veya süresinden önce aynı usulle görevine son verilebilir. Merkez Müdürü, kendisine yardımcı olmak üzere Merkez Yönetim Kurulu üyelerinden birini Merkez müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Merkez Müdürlüğüne vekalet altı aydan fazla sürerse yeni bir Merkez Müdürü görevlendirilir.
