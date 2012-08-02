@@ -1,0 +1,3 @@
+Derslerin kredi değeri
+MADDE 24 – (1) Bir dersin kredi değeri, o dersin haftalık teorik ders saatlerinin tamamı ile uygulama ve diğer etkinliklerin haftalık saatlerinin yarısından oluşur. Bu şekilde hazırlanan kredi değeri buçuklu ise tamsayıya tamamlanır. Haftada bir saat teorik ders, iki saat uygulama ve iki saatlik inceleme, ödev, sınava hazırlanma, bireysel çalışma, kütüphane ve alan çalışması, mezuniyet tezi, proje çalışmaları ve benzeri diğer etkinlikler bir kredidir. Ancak ilgili kurul kararları ile mesleki uygulama ve mezuniyet tezi gibi etkinlikler kredi değeri hesaplaması dışında tutulabilir.
+(2) Anılan derslerin Avrupa Kredi Transfer Sistemine karşılık gelen kredi değerleri, Senato tarafından belirlenir.

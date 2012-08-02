@@ -1,0 +1,7 @@
+Eğitim-öğretim süresi ve ek süre
+MADDE 7 (2) – (Değişik:RG-23/9/2011-28063)
+(1) (Değişik:RG-2/8/2012-28372) Azami eğitim-öğretim süreleri, programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın; dört yıllık yüksekokullar için yedi yıldır. Bu sürenin hesaplanmasında; öğrencilerin Konservatuvar Yönetim Kurulunca kabul edilen mazeretleri nedeniyle geçen süreler dikkate alınmaz.
+(2) (2) Konservatuvarda mezuniyet için öğretim planında öngörülen derslerin biri hariç, tümünden başarılı olup, tek dersi kalan öğrenciler; sınava girebilme koşulunu yerine getirdikleri bu ders için bir defaya mahsus olmak üzere ve sınav sonuçlarının internetten girilmesi için verilen son günü takip eden iki iş günü içerisinde yazılı başvuruları halinde, Konservatuvar Yönetim Kurulu kararıyla, üç iş günü içerisinde tek ders sınavına alınır. Bu sınavlarda, daha önce aldığı dönem içi notu/not ortalaması hesaba katılmadan 100 üzerinden en az 60 not alan öğrenci başarılı olmuş sayılır. Başarılı olamayanlar, 2547 sayılı Kanunda belirtilen süreler içerisinde bu dersi tekrar ederler.
+(3) (2) Lisans öğrenimini tamamlamayan veya tamamlayamayanların önlisans diploması almaları veya meslek yüksekokullarına intibak ettirilmeleri, ilgili mevzuat hükümlerine göre yapılır.
+ÜÇÜNCÜ BÖLÜM
+Kesin Kayıt ve Ders Kaydı, Kayıt Yenileme, Muafiyet, Yatay ve Dikey Geçişler,

@@ -1,0 +1,3 @@
+Sınavların yapılış şekli
+MADDE 21 – (1) Sınavlar, genellikle yazılı olarak yapılır. Ancak, dersin özelliği nedeniyle bölüm ve/veya anabilim dalı başkanlığı önerisi ile Konservatuvar Yönetim Kurulu sınavın sözlü, hem yazılı hem sözlü veya uygulamalı yapılmasına karar verebilir. Sözlü sınavlar, ders vermeye yetkili en az iki öğretim elemanı gözetiminde yapılır. Öğrenci, bir günde o yarıyıla/yıla ait en fazla iki dersin sınavına alınabilir.
+(2) Öğrenciler, sınava ilan edilen gün, saat ve yerde girmek ve öğrenci kimlik belgeleri ile istenecek başka belgeleri yanlarında bulundurmak zorundadır. Sınav kağıtları ilgili öğretim elemanı tarafından iki yıl süreyle saklanır, sınav belgelerinin saklanmasıyla ilgili gerekli kararlar, Konservatuvar Yönetim Kurulunca alınır.

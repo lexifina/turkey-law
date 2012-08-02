@@ -1,0 +1,2 @@
+Mazeret sınavı
+MADDE 17 – (1) Haklı ve geçerli mazeretleri yönetim kurulunca kabul edilen öğrenciler, giremedikleri yarıyıl/yıl sonu veya bütünleme sınav hakkını o dersin açıldığı sınav döneminde kullanırlar. Bu derslerin başarı notu hesaplanmasında mazeretli olduğu dönemin ara sınav puanları esas alınır. Sınav ve benzeri çalışmalar, sınav dönemi içerisinde değerlendirilir. Akademik takvimde belirlenen sınav dönemleri dışında mazeret sınavları açılmaz. Mazeret sınavına giremeyen öğrenciye, yeni bir mazeret sınav hakkı verilmez.

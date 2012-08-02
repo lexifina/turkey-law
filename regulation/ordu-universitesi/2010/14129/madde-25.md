@@ -1,0 +1,2 @@
+Ders puanı ve ağırlıklı ortalama
+MADDE 25 – (1) Ağırlıklı ortalama, öğrencinin Konservatuvara yazılmasından itibaren, başardığı her bir dersin kredisi ile o dersten alınan notun katsayısının çarpımı sonucu bulunan toplam rakamın, aynı derslerin birim-saati toplamına bölünmesiyle elde edilir. Ağırlıklı ortalamanın hesaplanmasında, bölme işlemi virgülden sonra yuvarlatılmadan iki basamak yürütülür. Öğrencinin G, F, DD ve E notu aldığı dersler dikkate alınmaz.

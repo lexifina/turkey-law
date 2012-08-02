@@ -1,0 +1,3 @@
+Öğrenci katkı payı/öğrenim ücreti
+MADDE 11 – (Değişik:RG-23/9/2011-28063)
+(1) Konservatuvar öğrencilerinden alınacak katkı payı/öğrenim ücreti ilgili mevzuat hükümlerine göre belirlenir. 2547 sayılı Kanununun 46 ncı maddesi gereğince tespit edilen öğrenci katkı payını/öğrenim ücretlerini ödemeyenler o dönem için kayıt yaptıramaz ve öğrencilik haklarından yararlanamaz. Bu durumdaki öğrencilerin sağlık hizmetleri üniversite tarafından karşılanmaz, askerlikle ilgili işlemler askerlik şubesine bildirilir ve bu dönemler için öğrenci belgesi verilmez. Kayıt silme halinde, alınan katkı payı/öğrenim ücreti iade edilmez.
