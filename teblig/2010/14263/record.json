@@ -1,0 +1,36 @@
+{
+  "source_id": "9.5.14263",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MOTORLU TAŞITLAR VERGİSİ GENEL TEBLİĞİ SERİ NO: 36",
+  "number": "14263",
+  "path": "teblig/2010/14263",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14263&MevzuatTertip=5",
+  "source_sha256": "1a2b6f144e6f4f09c643cbb7205289c2200f19712073f1c7eca37c7fccb3e1bb",
+  "source_bytes": 75651,
+  "published": "2010-09-07",
+  "gazette": "27695",
+  "in_force": "2012-08-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/8/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-08-04",
+      "RG-4/8/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4689,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14263%20ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
