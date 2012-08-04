@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-08-04",
+  "issue": "28374",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Motorlu Araçların Ön Cam Silme ve Yıkama Sistemleri ile İlgili Tip Onayı Yönetmeliği (AB/1008/2010)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120804-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120804.htm",
+  "index_sha256": "027119fe810a200a3c7cf90931fad0825917f89da60aff2ed0cf5ba02dfc5640",
+  "index_header": "4 Ağustos 2012 ... 28374 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
