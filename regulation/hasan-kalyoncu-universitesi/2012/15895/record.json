@@ -1,0 +1,74 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-02-17",
+      "17.02.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "5/8/2012",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-5/8/2012-28375",
+  "first_law": null,
+  "gazette": "28207",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-08-05",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hasan Kalyoncu Üniversitesi",
+  "issuer_slug": "hasan-kalyoncu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hasan-kalyoncu-universitesi/2012/15895",
+  "published": "2012-02-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15895&MevzuatTertip=5",
+  "source_bytes": 55387,
+  "source_id": "8.5.15895",
+  "source_sha256": "600bd2167c08f7f0d13dfb955d2d1fd61d77225cbbb2059ba29cd90b23108016",
+  "text_status": "current-consolidated",
+  "title": "HASAN KALYONCU ÜNİVERSİTESİ GÖÇ, NÜFUS, EĞİTİM VE İSTİHDAM SORUNLARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 338,
+  "word_count": 840
+}
