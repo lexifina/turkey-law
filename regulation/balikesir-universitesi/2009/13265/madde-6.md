@@ -1,0 +1,3 @@
+Müdür
+MADDE 6 – (1) Müdür, Üniversitenin birimlerinde tam zamanlı olarak görev yapan öğretim üyeleri arasından üç yıl süre ile Rektör tarafından görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdürün altı aydan fazla görevi başında bulunmaması durumunda görevi sona erer. Müdürün yokluğunda yardımcısı kendisine vekalet eder.
+(2) (Değişik:RG-5/8/2012-28375) Müdür çalışmalarında kendisine yardımcı olmak üzere Üniversitenin tam zamanlı öğretim elemanları arasından en fazla iki kişiyi Müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür yardımcıları Yönetim Kurulu toplantılarına oy hakkı olmadan katılabilir. Müdürün görevde bulunmadığı zamanlarda Müdüre vekâlet eder. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
