@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-12-15",
+      "15.12.2011",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012-28375",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-08-05",
+      "5/8/2012",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-5/8/2012-28375",
+  "first_law": null,
+  "gazette": "28143",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-08-05",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hasan Kalyoncu Üniversitesi",
+  "issuer_slug": "hasan-kalyoncu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hasan-kalyoncu-universitesi/2011/15576",
+  "published": "2011-12-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15576&MevzuatTertip=5",
+  "source_bytes": 57101,
+  "source_id": "8.5.15576",
+  "source_sha256": "fbe6b1a51b22e5430bb58253dbd22f4ec55ab8e46a3066a2e3c4079c48e6ef5f",
+  "text_status": "current-consolidated",
+  "title": "HASAN KALYONCU ÜNİVERSİTESİ FİZYOTERAPİ VE REHABİLİTASYON UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 338,
+  "word_count": 821
+}

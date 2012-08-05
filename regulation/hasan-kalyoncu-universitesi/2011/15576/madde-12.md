@@ -1,0 +1,2 @@
+Merkez yönetim kurulu
+MADDE 12 – (1) Merkez Yönetim Kurulu; Merkez Müdürü ile Üniversite Senatosunca seçilecek ve Rektör tarafından görevlendirilecek, Üniversitede sağlık hizmetleri alanında çalışmaları bulunan beş öğretim üyesinden oluşur. Merkez Yönetim Kurulu üyelerinin görev süreleri üç yıldır. Görev süreleri dolan veya üç yıldan önce görevinden ayrılan üyelerin yerine yenileri aynı usulle görevlendirilir.
