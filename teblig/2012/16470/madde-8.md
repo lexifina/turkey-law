@@ -1,0 +1,4 @@
+Süreler
+MADDE 8 – (1) Soru formlarını cevaplandırma süresi, soruşturma açılmasına dair bildirimin gönderildiği tarihten itibaren posta süresi dahil otuz yedi gündür. Bildirimin gönderilmediği ilgili taraflar ise, bu Tebliğin yayımı tarihinden itibaren işleyecek otuz yedi günlük süre ile bağlıdırlar.
+(2) Soru formlarında istenilen bilgilerin haricinde, soruşturmayla ilgili olduğu düşünülen diğer bilgi, belge ve görüşlerin dikkate alınabilmesi için, söz konusu bilgi, belge ve görüşlerin, bu Tebliğin yayımı tarihinden itibaren en geç otuz yedi gün içinde Genel Müdürlüğe yazılı olarak ulaştırılması gerekmektedir.
+(3) Soruşturmanın sonucundan etkilenebileceklerini iddia eden, ancak bu Tebliğin 7 nci maddesinde belirtilmeyen diğer ilgili tarafların da (tüketici dernekleri, üretim dalındaki işçi veya işveren sendikaları v.b.) görüşlerini, bu Tebliğin yayımı tarihinden itibaren otuz yedi gün içerisinde yazılı olarak Genel Müdürlüğe bildirmeleri gerekmektedir.
