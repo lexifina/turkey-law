@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-155[Ek.2-2012/59]-2461",
+  "source_id": 35385,
+  "date": "2012-08-07",
+  "title": "Ulusal ve uluslararası fuarlar düzenleme işi nedeniyle müşterilerle düzenlenen fuar katılım sözleşmelerinin döviz kazandırıcı faaliyet kapsamında damga vergisinden istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35385",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "181e0349c6a7c56d63262bf7061f2f53a888646241a92ccf95447579f271bae4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
