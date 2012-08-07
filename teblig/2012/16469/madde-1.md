@@ -1,0 +1,3 @@
+Mevcut önlem ve soruşturma
+MADDE 1 – (1) Yerli üreticiler Granitaş Granit Sanayi ve Pazarlama A.Ş. (Granitaş) ile Silkar Madencilik Sanayi ve Ticaret A.Ş. (Silkar), Hindistan menşeli “Granit” ithalatının dampingli fiyatlarla yapıldığına ve bu ithalat nedeniyle zarar gördüklerine ilişkin olarak Ekonomi Bakanlığı İthalat Genel Müdürlüğüne bir başvuruda bulunmuşlardır.
+(2) Yerli üretim dalının yapmış olduğu bu başvuru üzerine, 31/1/2012 tarihli ve 28190 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2012/1) ile Hindistan menşeli “Granit” için bir damping soruşturması başlatılmıştır.

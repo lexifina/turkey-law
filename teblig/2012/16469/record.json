@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16469",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2012/15)",
+  "number": "16469",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2012/16469",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16469&MevzuatTertip=5",
+  "source_sha256": "248ea4f049197d56326e43ad61380a14f72113615b75e42eaaea68aad02fec37",
+  "source_bytes": 13522,
+  "published": "2012-08-07",
+  "gazette": "28377",
+  "in_force": "2012-08-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.08.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 534,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
