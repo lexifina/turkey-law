@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-08-07",
+  "issue": "28377",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TÜZÜKLER",
+  "title": "2012/3488 Sanayi ve Ticaret Bakanlığı Teftiş Kurulu Tüzüğünün Yürürlükten Kaldırılmasına Dair Tüzük",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120807-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120807.htm",
+  "index_sha256": "a71fdf0fedce08409163755009eb0929c6cad59f37713605f29f13526d9c44bb",
+  "index_header": "7 Ağustos 2012 ... 28377 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
