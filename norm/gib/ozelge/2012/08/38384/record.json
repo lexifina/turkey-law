@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.02.68-165.01.03",
+  "source_id": 38384,
+  "date": "2012-08-08",
+  "title": "Yatırım teşvik belgesi kapsamında gerçekleştirilen modernizasyon projesinin finansmanı amacıyla bir uluslararası finans kurumundan Türk Lirası cinsinden 4 yıl vadeli kredi kullanılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/38384",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "40c1802ba37c1fa6349add7b3c938f077793ed762222cb4e0c8e87d272a16a8a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
