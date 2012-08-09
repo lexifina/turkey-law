@@ -1,0 +1,28 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "3968",
+  "decision_date": "2012-08-09",
+  "title": "Dağıtım Sistemi Sistem Kullanım Anlaşması, Tüzel ve Tüketici Kişiler İçin Dağıtım Sistemine Bağlantı Anlaşmalarına ilişkin",
+  "resmi_gazete_date": "2012-09-11",
+  "resmi_gazete_number": "28408",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KObdVtn/cOs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KObdVtn/cOs=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Yetb1htYL/Q=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5UZPq+yBXVU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7LNvrypl+Do="
+  ],
+  "source_sha256": "7aa086492329c8d4c5f61ac20ab6e1df42f538048baf7e1a0cfc6971e6f8899c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-08-09",
+  "law_text_complete": false
+}
