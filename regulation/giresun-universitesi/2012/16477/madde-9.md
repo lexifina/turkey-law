@@ -1,0 +1,2 @@
+Merkez müdür yardımcısı ve görevleri
+MADDE 9 – (1) Müdür, kendisine çalışmalarında yardımcı olmak üzere Üniversitenin aylıklı öğretim elemanları arasından birini üç yıl için müdür yardımcısı olarak görevlendirip Rektörlüğe bildirir. Süresi dolan müdür yardımcısı tekrar atanabilir. Müdürün görevi bitince müdür yardımcısının da görevi sona erer. Müdürün katılamadığı toplantılara müdür yardımcısı başkanlık eder.
