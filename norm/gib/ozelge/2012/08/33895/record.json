@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-ÖTV-4/2-179",
+  "source_id": 33895,
+  "date": "2012-08-10",
+  "title": "TSK'ya teslim etmek üzere araç tadilat ve ek imalatı yapan firmalara araç tesliminde ÖTV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33895",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "33a53c3170f683f7d8579ac8e75feef85254e370cf9dd7ecb5f19efec2a95756",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
