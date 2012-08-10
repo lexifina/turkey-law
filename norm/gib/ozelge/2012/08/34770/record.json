@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.24.10.00-10/2011/Damga ve Harç Muafiy-9",
+  "source_id": 34770,
+  "date": "2012-08-10",
+  "title": "İl Özel İdaresi ile Yurt Binası ve Lise Spor Salonu yapımı işine ilişkin düzenlenen sözleşmenin 5302 ve 222 sayılı Kanunlar kapsamında damga vergisi ve harçtan istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34770",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "7be872d959b1991a429bdf837101da235e8ab7c0011975f2d61fbb8e2a4270ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
