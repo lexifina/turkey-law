@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-08-12",
+  "issue": "28382",
+  "edition": "regular",
+  "item": 10,
+  "section": null,
+  "heading": "TEBLİĞLER",
+  "title": "Re’sen Kapatılan Dahilde İşleme İzin Belgeleri Listesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120812-10.xls",
+  "link_format": "xls",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120812.htm",
+  "index_sha256": "c0a2ae7a20d027cd37856299657d1a349895ff5ee640ef6fae64359883318d16",
+  "index_header": "12 Ağustos 2012 ... 28382 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; item page not HTML"
+}
