@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.77.10.00-KVK/2011-1-14",
+  "source_id": 24578,
+  "date": "2012-08-13",
+  "title": "Köy muhtarlığının şehir içi yolcu taşıma faaliyetinden dolayı kurumlar vergisinden muaf olup olmadığı ve defter tutma zorunluluğu bulunup bulunmadığı, katma değer vergisi ve gelir vergisi kanunlarına göre uygulamanın ne olduğu ile taşımacılık faaliyetinde",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24578",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "db111d54444c3af850d274cae99ead822be9f9de929a65ab0cee77a3d4bbc5ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
