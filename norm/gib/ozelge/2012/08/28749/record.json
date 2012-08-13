@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-125[32/A-KVK.2012/15-392",
+  "source_id": 28749,
+  "date": "2012-08-13",
+  "title": "İndirimli Kurumlar Vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28749",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "bdc8eaddbd38130c3e11e5ea76d8b23f8b4fb891e44f9fe7e3659665d3161dc1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
