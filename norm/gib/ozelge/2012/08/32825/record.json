@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.21.15.01-KDV/2012-221-19",
+  "source_id": 32825,
+  "date": "2012-08-13",
+  "title": "Kuyruk Yağlarının Toptan ve Perakende Satışında KDV Oranı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32825",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "17a63debdb652a8cf6bab1c0310b737470432d0f4bf693bea05aa82ebf10b975",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
