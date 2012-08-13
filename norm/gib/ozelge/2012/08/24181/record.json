@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[Mük.80-2012/393]-2516",
+  "source_id": 24181,
+  "date": "2012-08-13",
+  "title": "4706 sayılı Kanun kapsamında adına tescil edilecek gayrimenkulün iktisap tarihi ve söz konusu gayrimenkulün satılması halinde değer artış kazancının hesaplanıp hesaplanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24181",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "203b5e178454ee4f586a745d9a18cc85579d892c4869d1361f1aa18b16048ee6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
