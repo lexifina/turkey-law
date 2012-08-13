@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[232-2012/VUK-1- . . .]--2532",
+  "source_id": 24577,
+  "date": "2012-08-13",
+  "title": "İkinci el otomobil alım satım işinde vergilendirme ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24577",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "31b4cfb0155083f10f52384c48aab3d6a76d88910223db2b0cec1aae6ef621a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
