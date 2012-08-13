@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.21.15.01-KDV/2012/220-18",
+  "source_id": 29462,
+  "date": "2012-08-13",
+  "title": "Toptan Et ve Et Ürünlerinin Satışında KDV Oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29462",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "d4e9e91d3994b42cb103be1f9cafa98fe6c0ffb47474f37f2b7dbaa4794573b6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
