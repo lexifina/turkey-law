@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-002.01-2530",
+  "source_id": 34767,
+  "date": "2012-08-13",
+  "title": "Taşıma işi ile birbirinden bağımsız, ayrı ayrı talep edilebilir niteliği bulunan sigorta, kasko yaptırma taahhüdü ve teminat mektubu verme taahhütü olmak üzere biribirine bağlı birden fazla akit ve işleme yer verilen \"Şoförlü Otomobil ve Minibüs Kiralama",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34767",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "1a142ab57fca0affb5fe83b47750d48d17a8c6ad71c90489da20c31ec7fa56e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
