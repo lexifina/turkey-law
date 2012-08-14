@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-155[1-2012/100]-2579",
+  "source_id": 34764,
+  "date": "2012-08-14",
+  "title": "Yurtdışında Türkiye'de yer tahsisine ilişkin düzenlenen sözleşmenin damga vergisine tabi olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34764",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "43e6ed53ace35131b0b14f475544122e65bdf3d49147907c62b40a3f52a34f80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
