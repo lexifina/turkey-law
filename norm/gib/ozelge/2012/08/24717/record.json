@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-120.03.09-761",
+  "source_id": 24717,
+  "date": "2012-08-14",
+  "title": "Mahkeme kararı ile adi ortaklığa atanan Kayyımın vergisel yükümlülükleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24717",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "0f71b8ddc3ca2feef7416a3e26dd273eb2eacbb08554697364f23bf5b8ac433f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
