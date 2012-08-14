@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "16700543-135-54",
+  "source_id": 33792,
+  "date": "2012-08-14",
+  "title": "Araç ek imalat ve tadilatında firmaların hizmet kapsamındaki teslimlerinin ÖTV karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33792",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "03362884ceb6a3698828504aed24a9fa0c98c8b60142ab0d580c2edd11e5ee94",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
