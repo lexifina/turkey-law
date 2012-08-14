@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[5-2012/105]-2555",
+  "source_id": 37498,
+  "date": "2012-08-14",
+  "title": "Teknoloji geliştirme bölgesinde faaliyet gösteren şirketin oyun programları yazılım faaliyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37498",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "1eaaf22988005ffbaa4bc24b4b13e68c71afafae475cadf6385af475f9e52d9d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
