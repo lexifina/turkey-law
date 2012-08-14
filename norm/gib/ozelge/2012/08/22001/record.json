@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[6-2012/55]-2569",
+  "source_id": 22001,
+  "date": "2012-08-14",
+  "title": "Foreks (kaldıraçlı döviz alım satım) işlemlerinde gelir vergisi tevkifatı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22001",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "236bd0cdd8a8e6eb11a2d908b7410e55bd75461b434f7591e89cc2ccf586a889",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
