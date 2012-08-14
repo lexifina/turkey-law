@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.01.16.02-2011-4696-KDV-88",
+  "source_id": 29461,
+  "date": "2012-08-14",
+  "title": "Çin'den ithal edilen malın gümrükçe tespit edilen değeri üzerinden hesaplanan KDV'nin indirim konusu yapılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29461",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "bc886ccf757eca399929e335bd51abb3ca80f473580b00a96b0674d8c9ffc079",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
