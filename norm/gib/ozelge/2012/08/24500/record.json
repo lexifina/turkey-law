@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[94-2012/484]-2565",
+  "source_id": 24500,
+  "date": "2012-08-14",
+  "title": "Hal kayıt sistemine dahil edilen ancak ticaret borsalarınca tescili yapılmayan tarım ürünlerinin alımı esnasında vergi kesintisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24500",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "2a1931879485a9d2ec016921de433260afc354b14b54b58142fe424bd4cb3d12",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
