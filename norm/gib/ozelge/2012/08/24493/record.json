@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[94-12/18]-840",
+  "source_id": 24493,
+  "date": "2012-08-14",
+  "title": "Şirketin kamu kurumlarından aldığı zirai ürünlerin ticaret borsasına tescilinde gelir vergisi tevkifatı ve müteselsil sorumluluk çerçevesinde mahsup durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24493",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "b66655318a960afd6bcb1b5fb3d476e3869e909a4fb61ab8cf7e95e21e851e81",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
