@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-6802/39-181",
+  "source_id": 36920,
+  "date": "2012-08-14",
+  "title": "Makineden makineye veri aktarmak amacıyla SIM kartlarına tahsis edilecek numaraların ilk tesisinde ÖİV alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36920",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "6635ec2d601ac12d7200ecb44e4ad0805e4b7198c64ee72e5898ec0f3b23aa0f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
