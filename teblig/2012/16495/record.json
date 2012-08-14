@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.16495",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "PAMUKLARIN STANDARDİZASYONUNA İLİŞKİN TEBLİĞ (ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2012/27)",
+  "number": "16495",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2012/16495",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16495&MevzuatTertip=5",
+  "source_sha256": "f1b90296fb3a5a83303484fbfd0d6669af26f9cf5a112f6f971b3231683a1345",
+  "source_bytes": 117297,
+  "published": "2012-08-14",
+  "gazette": "28384",
+  "in_force": "2012-08-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.08.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3528,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16495%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
