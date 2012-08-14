@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-125-[6-11/2]-838",
+  "source_id": 26826,
+  "date": "2012-08-14",
+  "title": "Ekonomik ömrünü tamamlamış hurda niteliğindeki demirbaşların sabit kıymetlerden çıkarılarak özel şirketlere makbuz karşılığı bağışlanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/26826",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "2bb5936cb0d748399f841a1f35c1bf19abba7d7a4865465f892b7d0c8c294593",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
