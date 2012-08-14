@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-019.01-2576",
+  "source_id": 20823,
+  "date": "2012-08-14",
+  "title": "Merkezi yurt dışında bulunan şirket şubesinin vergilendirilmesi, yurt dışından araç kiralama ve Ba-Bs Formu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/20823",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "b3f6f85cc1ced49d915cc7b94f5f6f1617d348ccf3c335a487bcdecc40df15b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
