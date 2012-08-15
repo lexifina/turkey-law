@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3975",
+  "decision_date": "2012-08-15",
+  "title": "12/03/2008 tarih ve 1525 sayılı Kurul Kararının Danıştay 13 üncü Dairesi’nin 27/12/2011 tarih ve 2011/6134 sayılı Kararı ile iptal edilmesi dolayısıyla, oluşan gelir farkının Doğal Gaz Dağıtım Şirketleri İçin Tarife Hesaplama Usul ve Esasları çerçevesinde yapılacak ilk tarife hesaplamalarında dikkate alınmasına karar verilmiştir.",
+  "resmi_gazete_date": "2012-08-25",
+  "resmi_gazete_number": "28392",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+rbDeuCIrX0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+rbDeuCIrX0="
+  ],
+  "source_sha256": "920f1e9e57d4ee3fe14a6b940c82b104192c7f1524fbc6e469e0b23d4ec14ae8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-08-15",
+  "law_text_complete": false
+}
