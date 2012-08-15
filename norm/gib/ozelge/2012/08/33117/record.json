@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.03.10.00-KDV.ÖZLG.2012-23-27",
+  "source_id": 33117,
+  "date": "2012-08-15",
+  "title": "Belediye tarafından ihale ile satılan ... (kazıcı-yükleyici) KDV Oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/33117",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "307bef7a7ea8258ae750e8f955e8fdfd2a9b313b277fdf9e7bb3aa353a96575f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
