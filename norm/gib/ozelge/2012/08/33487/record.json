@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-KDV-2011/34-189",
+  "source_id": 33487,
+  "date": "2012-08-15",
+  "title": "KGS ve OGS otoyol geçiş ücretlerinin indirim konusu yapılıp yapılamayacağı ve ödenen bedellerin KDV iade taleplerinde yüklenim tablosunda gösterilip gösterilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/33487",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "e3d33cac1d67c0e567092fe69346c0b81a44aec281be7e464bff542c73fdd502",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
