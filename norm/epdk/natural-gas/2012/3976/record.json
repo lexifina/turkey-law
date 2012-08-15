@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3976",
+  "decision_date": "2012-08-15",
+  "title": "Adapazarı Gaz Dağıtım A.Ş.’nin (AGDAŞ) 2012-2016 yılları arası esas alınmasına karar verilen şebeke yatırım tutarları.",
+  "resmi_gazete_date": "2012-08-25",
+  "resmi_gazete_number": "28392",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SVao5BHPXNo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SVao5BHPXNo="
+  ],
+  "source_sha256": "c29d133096e119dd85944acb9c5eba77464476622f1ffd436043c3a371ee1f5d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-08-15",
+  "law_text_complete": false
+}
