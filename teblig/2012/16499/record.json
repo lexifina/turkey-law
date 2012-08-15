@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16499",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YANAN VE YIKILAN YAPILAR FORMU KULLANILMASINA İLİŞKİN MECBURİ STANDARD TEBLİĞİ",
+  "number": "16499",
+  "issuer": "İçişleri Bakanı",
+  "path": "teblig/2012/16499",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16499&MevzuatTertip=5",
+  "source_sha256": "11faf250937341a7a14fee08b138f1e5c8b7f87a1f41b212b7446203e1d75dc9",
+  "source_bytes": 10680,
+  "published": "2012-08-15",
+  "gazette": "28385",
+  "in_force": "2012-08-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.08.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 319,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

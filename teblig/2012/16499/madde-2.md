@@ -1,0 +1,3 @@
+Yanan ve yıkılan yapılar formu kullanım zorunluluğu
+MADDE 2 – (1) Türk Standardları Enstitüsü Başkanlığı Teknik Kurulunun 19/7/2012 tarihli toplantısında tadil edilen TS 13264 Yanan ve Yıkılan Yapılar Formu Standardı, bu Tebliğin Resmî Gazete’de yayımı tarihinde mecburi uygulamaya konulur.
+(2) 31/7/2006 tarihli ve 26245 sayılı Resmî Gazete’de yayımlanan Adres ve Numaralamaya İlişkin Yönetmeliğe göre numaralama çalışmasını tamamlayıp Ulusal Adres Veri Tabanına girişini tamamlayan yetkili idareler bu Tebliğin yürürlüğe girdiği tarihten itibaren söz konusu belgeleri Ulusal Adres Veri Tabanı ile eşleştirerek eş zamanlı olarak düzenler.
