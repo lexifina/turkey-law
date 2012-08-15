@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-KVK.2012.ÖZ:61-401",
+  "source_id": 24620,
+  "date": "2012-08-15",
+  "title": "Kooperatife ait dükkanların satılması halinde vergisel yükümlülükler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24620",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "95d685ae63e1b388d9b5df0fe81b1d6ed7bda3e492dba0009076a6907b99a4a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
