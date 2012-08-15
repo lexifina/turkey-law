@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[86-2012/49]-2595",
+  "source_id": 24271,
+  "date": "2012-08-15",
+  "title": "Mesleki faaliyetinden dolayı zarar eden mükellefin tevkifata tabi tutulmuş gayrimenkul sermaye iradı geliri elde etmesi ve geçmiş yıl zararının olması halinde vergiye tabi gelirin tespiti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24271",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "cedebe520fc27f0358141dbd394dedcd2af9af57379310e0baa4061e7aba6ea7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
