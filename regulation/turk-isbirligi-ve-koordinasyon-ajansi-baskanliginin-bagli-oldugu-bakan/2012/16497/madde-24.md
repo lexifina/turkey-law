@@ -1,0 +1,3 @@
+Sözleşmenin sona ermesi
+MADDE 24 – (1) Sözleşmeli olarak çalıştırılanların; görevden ayrılma isteklerinin kabulü; bağlı olduğu sosyal güvenlik kuruluşunun mevzuatı gereğince istek, yaş haddi, malullük sebeplerinden biri ile veya re'sen emekliye ayrılmaları; 657 sayılı Devlet Memurları Kanununun 125 inci maddesinin (E) bendinde sayılan haller nedeniyle haklarında görevden çıkarma cezası verilmesi; ölümü; bu Yönetmeliğin 4 üncü maddesinde sayılan şartlardan herhangi birini taşımadığının sonradan anlaşılması veya bu şartlardan herhangi birini sonradan kaybetmesi hallerinde sözleşmeleri fesh edilerek Başkanlıkla ilişkileri kesilir.
+(2) Taraflar sözleşmenin bitiminden bir ay önce bildirmek şartı ile sebep göstermeksizin sözleşmeyi feshedebilirler.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.16497",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK İŞBİRLİĞİ VE KOORDİNASYON AJANSI BAŞKANLIĞINDA ÇALIŞTIRILACAK SÖZLEŞMELİ PERSONEL HAKKINDA YÖNETMELİK",
+  "number": "16497",
+  "issuer": "Türk İşbirliği ve Koordinasyon Ajansı Başkanlığının bağlı olduğu Bakan",
+  "issuer_slug": "turk-isbirligi-ve-koordinasyon-ajansi-baskanliginin-bagli-oldugu-bakan",
+  "path": "regulation/turk-isbirligi-ve-koordinasyon-ajansi-baskanliginin-bagli-oldugu-bakan/2012/16497",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16497&MevzuatTertip=5",
+  "source_sha256": "849ab232cd02f91408f4ad2d50ad69aa4fbfd039d8aefc1bc0448356e3e35bda",
+  "source_bytes": 76238,
+  "published": "2012-08-15",
+  "gazette": "28385",
+  "in_force": "2012-08-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.08.2012); own commencement article: \"Bu Yönetmelik, 1/1/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, 1/1/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2915,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Sözleşme süresi bitmiş personelin durumu
+GEÇİCİ MADDE 1 – (1) 656 sayılı Kanun Hükmünde Kararnamenin yayımı tarihinde Başkanlıkta sözleşmeli personel olarak görev yapmakta olan ve sözleşme süresi 31/12/2011 tarihinde bitenlerin sözleşmeleri bu Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (ç) bendi ile 5 inci ve 12 nci madde hükümleri aranmaksızın 1/1/2012 tarihinden geçerli olmak üzere yenilenebilir.

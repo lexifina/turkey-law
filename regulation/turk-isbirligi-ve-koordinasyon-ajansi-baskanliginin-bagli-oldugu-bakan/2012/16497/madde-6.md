@@ -1,0 +1,2 @@
+Giriş sınavı duyurusu
+MADDE 6 – (1) Giriş sınavına katılma şartları, öğrenim dalları, sınav tarihi ve yeri, sınavın yapılış şekli, yazılı sınav yapılması halinde yazılı sınav konuları, sözleşmeli alınacak personel sayısı, son başvuru tarihi, öğrenim dallarına ve yabancı dillere ait kontenjanlar ve istenilen yabancı dil düzeyi ve dil sınavı yapılacaksa bu diller, başvuru yeri ve sınavla ilgili diğer hususlar sınav tarihinden en az on beş gün önce ülke genelinde yayınlanan tirajı en yüksek ilk beş gazeteden en az birinde ve Başkanlığın resmî internet sitesinde ilan edilir.
