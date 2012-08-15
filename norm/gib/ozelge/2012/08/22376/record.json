@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.10-2591",
+  "source_id": 22376,
+  "date": "2012-08-15",
+  "title": "Elektrik ithalin KDV matrahının ay sonunda kesinleşmesi, ithalde ödenen KDV'nin bir sonraki ay tahakkuk etmesi ve yüklenilen KDV'den indirilememesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/22376",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "beb3189c54e042f77c338cdbedb403f18ee00b72181b70b24b8b3066737f4c3a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
