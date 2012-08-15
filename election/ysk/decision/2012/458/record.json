@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2012/458",
+  "list_number": "458",
+  "decision_date": "2012-08-15",
+  "title": "Kısas Sulama Birliği meclis üyeliği seçimi ile ilgili Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2638/2012-458.pdf",
+  "source_sha256": "705aa28a307a69e6c5e32670f3562771121bcffaf11669d29761a28d0ada3e2a",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2012-08-15",
+  "law_text_complete": false
+}
