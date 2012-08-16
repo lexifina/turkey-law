@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.02-105[229-231-2012/9]-477",
+  "source_id": 30824,
+  "date": "2012-08-16",
+  "title": "Özel Eğitim Kurumlarında ücretin taksitle alınması halinde belge düzeni ve KDV ile KV. hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/30824",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "6d854203d2ee6954f2abe700bdb7991dfbde3c3f5c25d4dcc116f2b63cd6b084",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
