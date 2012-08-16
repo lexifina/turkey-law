@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-08-16",
+  "issue": "28386",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "2644 Sayılı Tapu Kanununun 36 ncı Maddesi Kapsamındaki Şirketlerin ve İştiraklerin Taşınmaz Mülkiyeti ve Sınırlı Aynî Hak Edinimine İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120816-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120816.htm",
+  "index_sha256": "9f47596fb2fa3f7f1aa883cfdb6c0f54d72f1e1eabc808ec4a01589fc34e107c",
+  "index_header": "16 Ağustos 2012 ... 28386 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
