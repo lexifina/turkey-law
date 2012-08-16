@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-2/2010-14017-66-841",
+  "source_id": 21093,
+  "date": "2012-08-16",
+  "title": "Serbest Meslek Faaliyetinde KDV hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21093",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ac123b9a288b71ee19ef39cc1083cc9dcf5d25e4b07b03e5d337f0f138d0d7ac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
