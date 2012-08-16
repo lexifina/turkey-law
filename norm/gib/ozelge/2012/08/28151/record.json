@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-KDV-4:2010-14017-27/-847",
+  "source_id": 28151,
+  "date": "2012-08-16",
+  "title": "Aktife kayıtlı taşınmaz satışlarının KDV ve kurumlar vergisi karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28151",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "976fa32118948cdc8ae12a6e90a03c5d74fbf8ecef500ca8b65026019c4b5405",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
