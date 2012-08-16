@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.01-120[9- 2012/20]-126",
+  "source_id": 20970,
+  "date": "2012-08-16",
+  "title": "Kordela nakışı, örme bebek yelekleri, örme şal, banyo lif, bohça, ahşap boyama tepsi çalışmalarında esnaf muaflığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20970",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "bff7f87d427eda6a33501ec592109190b605bbcec5d08d9b377c4ccb679fe2a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
