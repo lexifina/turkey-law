@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-ÖTV 12. MADDE-2611",
+  "source_id": 38120,
+  "date": "2012-08-17",
+  "title": "22/08/2009 - 30/11/2009 tarihleri arasında satın alınan 8901.10.90.00.11 G.T.İ.P. numaralı deniz taşıtının KDV ve ÖTV Kanunu karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38120",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "680b9c7485695c4e6c78cbf403430bfa290bde3f2358ae3d027fc6dab3123508",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
