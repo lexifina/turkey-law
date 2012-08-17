@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[18-12/42]-856",
+  "source_id": 21134,
+  "date": "2012-08-17",
+  "title": "Airbrush, body art (dövme) resim çalışmalarının Gelir Vergisi Kanunu'nun 18. maddesi kapsamında değerlendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21134",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "4ba2ab4291c3cb523f4b52a0c3e7d925cec5ef0b4bd407cfff07088da937515d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
