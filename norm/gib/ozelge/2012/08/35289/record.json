@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-155[9-2012/2021]-854",
+  "source_id": 35289,
+  "date": "2012-08-17",
+  "title": "Bankanın kredi alacaklarının teminatlarıyla birlikte bir başka bankaya temlikine ilişkin düzenlenen sözleşmenin damga vergisi ve harç uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35289",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "cab72fea37f4d619666938ada9bbba1d8b6cc9cb006a66b19d3e5a18b17eb94c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
