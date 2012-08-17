@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.16515",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2012/4)",
+  "number": "16515",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2012/16515",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16515&MevzuatTertip=5",
+  "source_sha256": "3d13b44dd29b79504fefb08cf33ca34d3127d2c63154e41e0d80c17714867980",
+  "source_bytes": 11829,
+  "published": "2012-08-17",
+  "gazette": "28387",
+  "in_force": "2012-08-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.08.2012); own commencement article: \"Bu Tebliğ 15/8/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 15/8/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 437,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16515%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
