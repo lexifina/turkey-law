@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-ÖTV 01.MADDE GENEL-2609",
+  "source_id": 33789,
+  "date": "2012-08-17",
+  "title": "Türk Silahlı Kuvvetlerine ait olup, 01/08/2002 tarihinden önce kayıt ve tescili yapılan aracın mübadele yoluyla alınıp 3. kişilere satışının ÖTV'ye tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33789",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "fb4fccd5f2187bc55850c495bfadb0973d0a0dddfc3330457c500a0e1266c5b9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
