@@ -1,0 +1,2 @@
+Tütün ve tütün mamullerinin hariçte işleme izin belgesi kapsamında geçici ihracı
+MADDE 14 – (1) Türkiye Gümrük Bölgesi dışında işlem görmek üzere hariçte işleme izin belgesi ile geçici olarak ihraç edilen, işlenmiş veya işlenmemiş yaprak tütünler ile bunlara ait kırık, damar, toz ve döküntülerin geçici ihracatları aşamasında, Tütün ve Alkol Piyasası Düzenleme Kurumunca düzenlenen izin belgesi aranır.

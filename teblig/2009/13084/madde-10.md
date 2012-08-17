@@ -1,0 +1,3 @@
+Finansal kiralama kapsamında geçici ihracı yapılacak eşya
+MADDE 10 – (1) Finansal kiralama yoluyla yapılacak ihracat talepleri, kiracı firma veya kuruluşla yapılan sözleşmenin aslı veya noter tasdikli örneği ile sözleşmenin yeminli tercümanca yapılmış olan Türkçe tercümesi ile birlikte çıkış işlemlerinin yapılacağı gümrük müdürlüğüne yapılır. Gümrük müdürlüğü tarafından onaylanan beyanname izin hükmündedir.
+(2) Finansal kiralama yoluyla yapılacak ihracatta süre, Gümrük Kanununun 168 inci maddesinde belirtilen 3 yıllık süreyi aşamaz. Ancak bu süre, bitiminden önce başvurulmak kaydıyla, ilgili gümrük müdürlüğünce finansal kiralama sözleşmesinde belirlenen süre kadar uzatılır.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) (Değişik:RG-17/8/2012-28387) Bu Tebliğ, 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanununun 135 ila 149 uncu maddeleri ve 168 ila 170 inci maddeleri 7/10/2009 tarihli ve 27369 sayılı Resmî Gazete’de yayımlanan 29/9/2009 tarihli ve 2009/15481 sayılı Bakanlar Kurulu Kararı ekinde yer alan 4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Karar ve 7/10/2009 tarihli ve 27369 mükerrer sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğinin 395 ila 414 üncü ve 444 ila 453 üncü maddeleri hükümlerine istinaden hazırlanmıştır.
