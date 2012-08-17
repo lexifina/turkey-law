@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.17-2613",
+  "source_id": 31715,
+  "date": "2012-08-17",
+  "title": "Belediyenin otoparkına reklam almak üzere kiraya verilmesinde tevkifat olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31715",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "5f0bd5e590fc093d76c00faf3a64fb17eb9921b5d4dc02665323ad3b330c7d25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
