@@ -1,0 +1,2 @@
+MADDE 8 – (1) Edinilmek istenen taşınmazın askerî yasak bölge, askerî güvenlik bölgesi, 2565 sayılı Kanunun 28 inci maddesi çerçevesinde belirlenen bölge veya özel güvenlik bölgesi dışında kaldığının tespit edilmesi halinde, tescil işleminin yapılması için Valilik tarafından şirket veya iştirak ile tapu sicil müdürlüğüne üç iş günü içinde yazılı bilgi verilir.
+(2) Tescil talebi, yazılı bilginin şirkete veya iştirake tebliğ edilmesinden itibaren altı ay içinde yapılır. Bu sürenin aşılması halinde, taşınmaz edinimi başvurusu yenilenir.
