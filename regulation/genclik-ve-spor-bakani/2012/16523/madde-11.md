@@ -1,0 +1,2 @@
+Telif haklarının belirlenmesi
+MADDE 11 – (1) Bu Yönetmelik hükümlerine göre yayımlanacak eserlerin telif veya işlenme ücretleri, Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmeliğe göre hesaplanır ve ödenir. Bakanlık personelinin asli görevi gereği yaptığı çalışmalar sonucunda meydana getirdiği eserleri için telif ve işlenme ücreti ödenmez. Ancak, bunların görevi haricinde meydana getirdikleri eserlerden yayımlanmaya değer bulunanların yayın hakları satın alınabilir. Eser sahipleri telif hakkı dışında hiçbir hak talep edemez.

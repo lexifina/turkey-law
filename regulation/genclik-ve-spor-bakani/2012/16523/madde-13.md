@@ -1,0 +1,2 @@
+Yayınların, dokümanların ve eserlerin toplanması
+MADDE 13 – (1) Bakanlık teşkilatı ile bağlı, ilgili ve ilişkili kuruluşlarca Bakanlığın görev alanına giren konularda hazırlanan veya hazırlattırılan kaynak eserler, kitaplar, süreli ve tanıtıcı yayınlar, bilimsel inceleme ve araştırma raporları, uzmanlık tezleri, bilimsel tebliğ ve bültenler ile şiir, fotoğraf, resim, karikatür, afiş gibi benzeri anlatım öğelerinin birer örneği Bakanlık Kütüphanesinde değerlendirilmek ve muhafaza edilmek üzere Genel Müdürlüğe gönderilir.
