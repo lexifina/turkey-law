@@ -1,0 +1,22 @@
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Alt komite: Her bir su ürünleri grubu için ayrı oluşturulan tescil alt komitelerini,
+b) Araştırma enstitüsü: Bakanlığa bağlı araştırma enstitülerini,
+c) Araştırma istasyonu: Bakanlığa bağlı araştırma istasyonlarını,
+ç) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+d) Çalışma grubu: Her bir su ürünleri grubu için ayrı oluşturulan tescil çalışma gruplarını,
+e) Danışman: Tescil edilecek SÜGK ile ilgili olarak alt komiteye başkanlık, Genel Müdürlük ve Komiteye danışmanlık yapan, görevli olduğu tür ile ilgili uzmanı,
+f) Ekotip: Sınırlı bir alanda mevcut çevresel koşullara uyum sağlamış ve bu nedenle türünün diğer bireylerinden fizyolojik veya morfolojik farklılıklara sahip olmuş su ürününü,
+g) Genel Müdürlük: Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğünü,
+ğ) Hibrit: Melezleme sonucu elde edilebilen, özgün niteliklere sahip genotipleri,
+h) Komite: Su ürünleri tescil komitesini,
+ı) Referans: Su ürünleri tescil başvurusundaki bilgileri doğrulamak amacıyla başvuruya eklenmesi gereken belgeleri,
+i) Sekretarya: SÜGK’nın tescili ile ilgili iş ve işlemlerden sorumlu Hayvancılık ve Su Ürünleri Araştırmaları Daire Başkanlığı bünyesinde oluşturulan sekretaryayı,
+j) Sınai mülkiyet hakkı: Türkiye SÜGK ve yeni oluşturulan varyete, hat ve hibritlerinin adına tescil olunduğu gerçek veya tüzel kişilere sağlanan ticari hakları,
+k) Su ürünleri milli tescil listesi: Türkiye SÜGK’ndan Komite tarafından tesciline karar verilmiş ve tescili Resmî Gazete’de yayımlananların yer aldığı listeyi,
+l) Su ürünleri tescil sorumlusu: Sekretarya’da görev yapan SÜGK tescili ile ilgili iş ve işlemlerden sorumlu olan kişiyi,
+m) SÜ: Su ürünlerini; yaşamının tamamını ya da bir kısmını suda geçiren organizmaları,
+n) SÜGK: Su ürünleri genetik kaynakları; gıda, yem ve tarımsal üretim amaçlı kullanılan ya da potansiyel kullanım alanı bulunan su ürünlerine ait tür, alt tür, varyete, hat, ekotip, suş ve topluluklar ile yeni oluşturulan varyete, hat ve hibritleri,
+o) Tescil: Fenotipik ve genotipik olarak özgün niteliklere sahip, bu özellikleri bakımından bir örnek olduğu ve bunları döllerine geçirebildiği bilimsel olarak tespit edilmiş olan; Türkiye’de mevcut SÜGK ve yeni oluşturulan varyete, hat ve hibritleri kapsayan SÜGK’nın Komite tarafından kabulü ve bilinen tüm özelliklerinin kayda alınıp Resmî Gazete’de yayımlanması ile resmiyet kazanan işlemi,
+ö) Tür: Yapısal ve işlevsel özellikleri birbirine benzeyen, aynı çevresel koşullara benzer tepki gösteren, eşeyli ve eşeysiz üreme yoluyla genlerini yeni nesillere aktarabilen organizmaları,
+ifade eder.
