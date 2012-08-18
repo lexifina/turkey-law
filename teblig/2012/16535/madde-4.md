@@ -1,0 +1,5 @@
+İthal lisansına ve ithal lisansının kullanımına ait bilgiler
+MADDE 4 – (1) Tarife kontenjanı kapsamında yapılacak ithalatta Bakanlıkça düzenlenen ithal lisansı ve eşyanın tercihli menşeini gösterir belge gümrük beyannamesinin tescilinde ilgili gümrük idaresince aranır. İthal lisansının bir kopyası gümrük beyannamesine eklenir.
+(2) Tarife kontenjanı konusu eşya ancak ithal lisansının geçerlilik süresi içerisinde serbest dolaşıma girebilir. İthal lisansının, geçerlilik süresinin bitiminden sonra Bakanlığa iadesi zorunludur. İthalatçıların yeni ithal lisansı taleplerinin değerlendirmeye alınabilmesi için daha önce düzenlenen ithal lisansının iade edilmiş olması gerekmektedir.
+(3) İthal lisansı devredilemez.
+(4) Gümrüklerce tespit ve kabul edilen kıymet veya miktarın, ithal lisansında kayıtlı kıymet veya miktarı, toplam %5'ten (%5 dahil) daha az bir oranda aşması ithalatın yapılmasını engellemez. Ancak, ithalatı gerçekleştirilen fazla miktar ilgili ithalatçının bir sonraki lisansından mahsup edilir.
