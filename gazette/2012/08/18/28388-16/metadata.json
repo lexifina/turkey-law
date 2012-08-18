@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-08-18",
+  "issue": "28388",
+  "edition": "regular",
+  "item": 16,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Gözetim Uygulanmasına İlişkin Tebliğ (No: 2012/4)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120818-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120818.htm",
+  "index_sha256": "523e0a5487ef3c3bbc2c3c92b3887ec311fe2e493e613b47b018e2ee431d6fd5",
+  "index_header": "18 Ağustos 2012 ... 28388 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
