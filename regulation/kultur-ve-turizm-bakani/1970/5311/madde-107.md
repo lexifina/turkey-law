@@ -1,0 +1,1 @@
+Madde 107 - 2. keman grup şef muavinliğine, 1. derece keman üyesi kademesinde en az bir yıl çalışanlar arasından, şef, şef muavinleri, 1., 2., 3., konsertmaisterler, çello solisti ve 2. keman grup şefinden teşekkül eden kurulun seçim kararı ve orkestra şefinin inhası üzerine yapılır:

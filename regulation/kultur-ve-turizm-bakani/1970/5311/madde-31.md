@@ -1,0 +1,1 @@
+Madde 31 - Müdür Yardımcısı, idari işlerin yürütülmesinde Müdür'ün yardımcısıdır. Müdür bulunmadığı zamanlarda Müdür'e vekalet eder. İşlerin yürütülmesinden Müdürle birlikte Yönetim Kuruluna karşı sorumludur.

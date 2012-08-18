@@ -1,0 +1,1 @@
+Madde 44 - Orkestra üyeleri bir günde konser, prova ve band olarak en çok iki çalışmaya katılabilirler. Çalışma araları üç saatten az olamaz. Prova süresi üç saattir. Günde iki çalışma yapıldığı takdirde öğleden sonraki prova iki buçuk saati geçemez. Prova, yarılarında yirmi dakika ara verilir.

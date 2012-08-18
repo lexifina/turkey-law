@@ -1,0 +1,1 @@
+Madde 135 - Yönetmeliğin 132 nci maddesi C bendinde yazılı disiplin cezaları Yönetim Kurulu tarafından kararlaştırılır (Değişik ibare:RG-18/8/2012-28388) Kültür ve Turizm Bakanlığının onayına sunulur.

@@ -1,0 +1,1 @@
+Madde 65 - Çello solistinin, viyolonsel grup şefi ile grup şeflerinin grup şef muavinleri ile yapacağı münavebe, eserlerin önemi göz önüne alınarak, orkestra şefi ve Orkestra Yönetim Kurulunca tespit ve tanzim edilir.

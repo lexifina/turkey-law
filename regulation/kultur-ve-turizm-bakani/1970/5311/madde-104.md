@@ -1,0 +1,9 @@
+Kademe Değiştirme ve Terfi İmtihanları
+Madde 104 - Cumhurbaşkanlığı Senfoni Orkestrası üyeleri yukarı kademelere imtihanla terfi ederler. İmtihan komisyonları aşağıda belirtilmiştir: ,
+Konsertmaisterlik imtihan komisyonu: Şef, şef muavinleri 1., 2.,konsertmaisterler ile çello solistinden teşekkül eder.
+Çello solistliği imtihan komisyonu: Şef, şef muavinleri 1., 2., 3.,konsertmaisterlerden teşekkül eder.
+Konsertmaister muavinliği, 2. keman grup şefliği, viyola grup şefliği, viyolonsel grup şefliği, kontrabas grup. şefliği imtihan komisyonu: Şef, şef muavinleri,I., 2., 3., konsertmaisterler ve çello solistinden teşekkül eder.
+1. derece keman üyeliği, viyola grup şefi muavinliği, viyolonsel grup şef muavinliği ve kontrabas grup şef muavinliği imtihan komisyonu: Şef, şef muavinleri, 1., 2., 3,., konsertmaisterler (Konsertmaisterlerden hiç birisi bulunmazsa konsertmaister muavinleri) çello solisti ve alakalı çalgı grup şefinden teşekkül eder.
+Tahta nefesli çalgılar grup şefliği ve muavinliği imtihan komisyonu: Şef, şef muavinleri, 1. konsertmaister (Bulunmazsa 2. konsertmaister o da bulunmazsa 3. konsertmaister) ve tahta nefesli çalgılar grup şefliği ile madeni nefesli çalgılar grup şeflerinden Yönetim Kurulunca seçilecek bir temsilciden teşekkül eder.
+Madeni nefesli çalgılar grup şefliği ve muavinliği imtihan komisyonu: Şef, şef muavinleri,1. konsertmaister (Bulunmazsa 2., o da bulunmazsa 3. konsertmaister) ve madeni nefesli çalgılar grup şefleri ile tahta nefesli çalgılar grup şeflerinden Yönetim Kurulunca seçilecek bir temsilciden teşekkü1 eder.
+Vurma çalgılar grup şefliği ve muavinliği, arp grup şefliği imtihan komisyonu: Şef, şef muavinleri,1. konsertmaister (Bulunmazsa 2, o da bulunmazsa 3. konsertmai,ster), çello solisti, vurma çalgı grup şefi, Yönetim Kurulunca seçilecek bir tahta nefesli çalgı grup şefi ve madeni nefesli çalgı grup şefinden teşekkül eder.

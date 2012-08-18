@@ -1,0 +1,1 @@
+Madde 24 - Yönetim Kurulu orkestranın bir kısmının veya bütününün, Yönetmeliğin 49, 82, 83, 84, 85. maddelerinde belirtilen resmi sanat kurumları, TRT ve özel sanat kuruluşlarıyla ilişkilerini düzenler, bu ilişkilere ait hususlar üzerinde sözü geçen kurumların temsilcileriyle birlikte yazılı kararlar alabilir ve protokoller imzalayabilir.

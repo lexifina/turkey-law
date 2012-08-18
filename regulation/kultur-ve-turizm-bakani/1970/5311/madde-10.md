@@ -1,0 +1,1 @@
+Madde 10 - Şef yardımcılarına, yönetecekleri konserlerin dışında, verilecek görevler (Hangi provalarda hazır bulunacakları, provalarla ilgili ne gibi çalışmalar yapacakları gibi) şef tarafından tespit edilir.

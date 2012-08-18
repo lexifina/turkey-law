@@ -1,0 +1,1 @@
+Madde 78 - Kitaplık ile ilgili harcamalar öncelikle notalar için yapılır. Bu harcamalar, eserlerin sık çalınmaları, kitaplıkta hiç bulunmamaları, yıpranmaları, ihtiyaç ve önemleri göz önünde bulundurularak bu sıraya göre yapılır. Satın alınmaları mümkün eserler kiralanamaz.

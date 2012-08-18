@@ -1,0 +1,1 @@
+Madde 14 -YÖNETİM KURULU: Genel Kurulun orkestra üyelerinden göstereceği adaylar arasından gizli oyla seçilir. Stajyerler ve memurlar seçime iştirak edemezler. Her hangi bir sebeple seçimde hazır bulunmayan üyeler oy kullanamazlar.

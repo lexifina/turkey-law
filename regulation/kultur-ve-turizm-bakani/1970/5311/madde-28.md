@@ -1,0 +1,1 @@
+Madde 28 - ORKESTRA MÜDÜRÜ: Orkestra Yönetim Kurulunca kararlaştırılan her türlü idari işler, Orkestra Müdürünün sorumluluğu altında yürütülür. Şef bulunmadığı zamanlarda Orkestra Müdürü yönetim Kuruluna başkanlık eder.

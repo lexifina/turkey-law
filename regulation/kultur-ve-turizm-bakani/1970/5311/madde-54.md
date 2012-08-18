@@ -1,0 +1,1 @@
+Madde 54 - Konser ve provanın sükunetini, disiplini ve adabım bozacak fiil ve hareketlerde bulunulmaz; prova ve konser esnasında münakaşa edilmez, konuşulmaz, gürültü edilmez, gülünmez, görev dışı işlerle meşgul olunmaz. Üyeler birbirlerini rahatsız edemezler ve birbirlerinin işlerine müdahalede bulunamazlar. Üyeler konser esnasında dinleyicilerle ilişki gösterisinde bulunamazlar

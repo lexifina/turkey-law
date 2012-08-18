@@ -1,0 +1,1 @@
+Madde 75 - Nefesli, vurma ve arp gruplarında, grup şefleri gibi, muavinleri de 1. parti çalarlar. Bir yıl içinde hangi oranda 1. parti çalacakları orkestra şefi ve Yönetim Kurulunca tespit edilir. Bu grupların içindeki enstrüman üyelerine, yetişmeleri ve grup şefliği sorumluluğuna alıştırılmaları gayesi ile, şef ve Yönetim Kurulu uygun gördükleri takdirde, 1. çaldırabilir.

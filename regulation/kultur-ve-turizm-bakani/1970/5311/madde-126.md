@@ -1,0 +1,1 @@
+Madde 126 - Grup şefliği kadroları açık olduğu takdirde, grup şef muavinleri grup şefliği imtihanına girmekten kaçınırlar veya imtihanda başarı gösteremezlerse, orkestrada enstrüman üyesi olarak en az 5 yıl başarı ile çalıştığı orkestra şefi ve Teknik Kurulca tespit edilen enstrüman üyeleri de grup şefliği imtihanına girebilirler.

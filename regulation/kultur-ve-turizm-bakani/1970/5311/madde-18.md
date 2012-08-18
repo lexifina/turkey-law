@@ -1,0 +1,1 @@
+Madde 18 - Yönetim Kurulu toplantıları, Müdür veya Müdür yardımcısı tarafından önceden düzenlenen bir gündeme göre yapılır. Yönetim Kurulu üyeleri toplantıdan önce görüşülmesini arzu ettikleri hususları gündeme yazdırırlar.

@@ -1,0 +1,1 @@
+Madde 127- Orkestra üyelerinin bulundukları kademelerdeki ücret zamları Yönetmeliğin 32 nci maddesine göre toplanacak kurulun vereceği müspet oylara müsteniden Yönetim Kurulu teklifi üzerine (Değişik ibare:RG-18/8/2012-28388) Kültür ve Turizm Bakanlığınca yapılır.

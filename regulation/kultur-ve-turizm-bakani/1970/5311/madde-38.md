@@ -1,0 +1,1 @@
+Madde 38 - Cumhurbaşkanlığı Senfoni Orkestrası, opera, operet, , balet gibi sahneli oyun temsillerine eşlik edemez. Ancak böyle bir uyunun bütün müziğini, bir perdesini veya sadece bir parçasını sahnesiz (oyunsuz) olarak konserde seslendirebilir ve konserde söyleyen ses sanatçılarına eşlik edebilir.

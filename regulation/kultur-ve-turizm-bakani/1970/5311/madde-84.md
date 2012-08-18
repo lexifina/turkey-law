@@ -1,0 +1,1 @@
+Madde 84 - Cumhurbaşkanlığı Senfoni Orkestrasının konserleri TRT Kurumu tarafından naklen veya konser esnasında yapılacak band kayıtları ile kısmen veya tamamen yayınlanabilir. Ancak bu yayınların hangi şartlar içinde yapılabileceği hususunda TRT ilgilileri ile Orkestra Yönetim Kurulunun anlaşmış olmaları gerekir.

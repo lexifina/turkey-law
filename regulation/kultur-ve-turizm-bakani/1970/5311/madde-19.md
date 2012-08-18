@@ -1,0 +1,1 @@
+Madde 19 - Yönetim Kurulunca alınan kararlar bir karar defterine düzenli bir şekilde yazılır ve Yönetim Kurulu üyeleri tarafından, müteakip toplantıya kadar imzalanmış olur. Yönetim Kurulu toplantısında bulunmayan üyenin ne sebeple bulunmadığı karar defterinde imza yerine yazılır. Kararlara olumsuz oy veren üye bunun sebeplerini belirterek imzalar.

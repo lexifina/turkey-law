@@ -1,0 +1,1 @@
+Madde 45 - Konser turneleri, Yönetim Kurulu tarafından ayrıntıları ile tespit edilen bir plana göre yapılır. Orkestra üyeleri, bu plana ve kendilerine önceden veya turne esnasında verilecek talimata uygun hareket ederler.

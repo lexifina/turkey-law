@@ -1,0 +1,1 @@
+Madde 17 - Yönetim Kurulu, belli gün ve saatlerde şefin, şef bulunmadığı zamanlarda Orkestra Müdürünün başkanlığında haftada en az bir defa (Tatil ayları hariç) üye sayısının salt çoğunluğu ile toplanır. Kararlar çoğunluk esasına göre alınır. Yönetim Kurulu üyelerinin oyları eş değerdedir.

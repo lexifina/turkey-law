@@ -1,0 +1,1 @@
+Madde 90 - Kabul imtihanını kazananlar ilgili çalgı grubunun ihtiyacından fazla olduğu takdirde en yüksek not alanlar sıra ile ihtiyaca göre atanır. Kazananlar arasında eşit başarı gösterenlerden mesleki öğrenim yapmış olanlar, bunda da eşitlik durumunda daha. genç yaşta olanlar tercih edilir.

@@ -1,0 +1,2 @@
+Çalgılar ve Kitaplık
+Madde 76 - Yönetim Kurulu, Teknik Kurul ile her yıl toplanarak Orkestraya ait bütün çalgıların cins, marka, kalite, yaş ve halihazır durumları ile hangi üyeye verilmiş olduğunu gösterir ayrıntılı bir defteri esas alarak kısa ve uzun vadeli planlarla bu çalgıların ihtiyaç sırasına göre tamamlanma, yenilenme ve büyük ölçüde onarımları için kararlar alır. Bu kararları Yönetim Kurulu tatbik eder.

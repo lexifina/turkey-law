@@ -1,0 +1,1 @@
+Madde 49 - Orkestra üyeleri şefin başkanlığındaki Yönetim Kurulu kararı ve izni olmadan hiç bir şekilde diğer orkestralara katılamazlar. Orkestralar (kadrosu on kişiyi geçen) kurarak sanatlarını icra edemezler.

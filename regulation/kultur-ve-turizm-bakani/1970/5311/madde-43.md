@@ -1,0 +1,1 @@
+Madde 43 - Orkestra üyeleri prova ve konser olarak haftada en çok 9 çalışma yaparlar. Turne konserleri ve Yönetim Kurulunun karar vereceği olağanüstü haller dışında bayram günleri ile Pazar günleri prova ve konser yapılmaz.

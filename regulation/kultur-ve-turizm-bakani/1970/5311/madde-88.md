@@ -1,0 +1,1 @@
+Madde 88 - Kabul imtihanları kadro ve her çalgı grubunun ihtiyacına göre orkestra Teknik ve Yönetim Kurullarının kararıyla açılır. Bu imtihanlar Ankara'da Cumhurbaşkanlığı Senfoni Orkestrası binasında yapılır. Kabul imtihanları 15 gün önceden büyük gazetelerde üç gün süre ile ilan edilir.

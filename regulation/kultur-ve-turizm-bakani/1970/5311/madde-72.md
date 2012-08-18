@@ -1,0 +1,1 @@
+Madde 72 - yaylı çalgıların tutti üyelerinin oturuş sıraları konser "' sezonu başında, şef, şef muavinleri, l, 2, 3, konsertmaisterler ve çello solisti konsertmaister muavinleri ve diğer yaylı çalgılar grup şeflerinin müşterek yapacakları toplantıda, üyelerin dereceleri, teknik seviyeleri ve orkestradaki kıdemleri göz önünde bulundurularak yapılır.

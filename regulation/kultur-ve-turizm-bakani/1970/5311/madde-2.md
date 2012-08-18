@@ -1,0 +1,1 @@
+Madde 2 - Cumhurbaşkanlığı Senfoni Orkestrası memlekette sanat kültürünün gelişmesi bakımından gerekli faaliyetlerde bulunur, milletlerarası değerdeki milli sanat çalışmalarında memleketteki benzeri müesseselerle işbirliği yapar, sanat çalışmalarını konserler yoluyla halka sunar.

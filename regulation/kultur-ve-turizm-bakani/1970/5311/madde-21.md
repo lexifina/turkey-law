@@ -1,0 +1,1 @@
+Madde 21 - 20. maddede belirtilen esaslar dahilinde yapılacak iş bölümüne göre Yönetim Kurulu üyeleri üzerlerine aldıkları işleri takip ederler. Bu işlerle ilgili plan ve hazırlıkları yaparak Yönetim kuruluna getirirler ve icraat için gerekli kararların alınmasını sağlarlar.

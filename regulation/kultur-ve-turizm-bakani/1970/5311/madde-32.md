@@ -1,0 +1,1 @@
+Madde 32 - TEKNİK KURUL: 3. maddede gösterilen orkestranın teknik bünyesini teşkil eden grup şef muavinleri ve enstrüman üyeleri dışındaki orkestra üyelerinden meydana gelir. Enstrüman grup şefleri bulunmadığı zamanlarda yardımcıları Teknik Kurula katılırlar.

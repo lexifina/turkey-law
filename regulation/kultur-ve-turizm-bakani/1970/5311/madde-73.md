@@ -1,0 +1,1 @@
+Madde 73 - Yaylı çalgı tutti üyeleri ve stajyerleri orkestrada yetişmeleri, denenmeleri, terfi ve sicillerinin verilmesinde kanaat "sahibi olunması amacı ile şef ve konsertmaisterlerin tensibine göre çeşitli yerlere oturabilirler. "

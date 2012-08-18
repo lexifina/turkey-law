@@ -1,0 +1,1 @@
+Madde 74 - Yaylı enstrüman üyeleri, kendileri hakkında daha isabetli bir kanaate varılabilmesi ve oturuş sırasında durumlarının göz önüne alınması için orkestranın Eylül ayında yapacağı provalarda ön rahlede denenmelerini, ayrıca hazırladıkları eser veya eserlerin tespit edilecek zamanlarda şef ve Teknik Kurulca dinlenebilmesini isteyebilirler.

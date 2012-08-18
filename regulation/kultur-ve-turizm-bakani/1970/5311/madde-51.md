@@ -1,0 +1,1 @@
+Madde 51 - Üyeler, görev listelerini ilan tahtasından okurlar. Bu listelerdeki değişiklikleri takip ederler ve anlaşılmayan hususları Orkestra Müdürlüğünden sorarlar. Görevli olmayan üyeler acilen çağrılabileceklerini hesaba katarak, görevli olmadıkları zamanlar için bıraktıkları adreslerde bulunurlar.

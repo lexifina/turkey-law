@@ -1,0 +1,2 @@
+Devam - Münavebe – Hastalık
+Madde 60 - Cumhurbaşkanlığı Senfoni Orkestrası üyeleri çalışma programlarına göre kendilerine verilen görevlere muntazaman devama mecburdurlar. Üyelerin devamı günlük cetvellerle tespit edilir. Günlük devam' cetvellerini çalışmalar sonunda orkestra. şefi ve konsertmaister inceleyerek imzalar. Günlük devam cetvellerine göre de (Hastalık, izin münavebe hallerini belirten) aylık devam cetvelleri tutulur.

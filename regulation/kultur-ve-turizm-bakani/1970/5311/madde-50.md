@@ -1,0 +1,1 @@
+Madde 50 - Üyeler, provalara partilerini çalışmış olarak gelirler, her üye kendi partisini orkestranın genel seviyesine göre hazırlamak mecburiyetindedir. Programlarındaki eserlere çalışmayan, provalara hazırlıklı olarak gelmeyip grubu bozanların durumunu orkestra şefi, Yönetim Kuruluna yazılı olarak bildirir,

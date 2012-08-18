@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.5311",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "CUMHURBAŞKANLIĞI SENFONİ ORKESTRASI YÖNETMELİĞİ",
+  "number": "5311",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/1970/5311",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5311&MevzuatTertip=5",
+  "source_sha256": "44b93a457a68fd1e2895a8cd179182d29e17c7e744be4066212cd715dc544683",
+  "source_bytes": 166378,
+  "published": "1970-01-28",
+  "gazette": "13411",
+  "in_force": "2012-08-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/8/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-08-18",
+      "RG-18/8/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-07-31",
+      "RG-31/7/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7292,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

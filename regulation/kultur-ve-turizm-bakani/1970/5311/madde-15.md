@@ -1,0 +1,1 @@
+Madde 15 - Yönetim Kurulu seçiminde en çok oy alan 5 üye o yılın Yönetim Kurulunu teşkil eder. Seçilen 5 üyeden sonra, oy sıra sına göre en çok oyalan 3 üye yedek üye olur. Seçilenler arasında eşit sayıda oy alanlar soyadlarının ilk harflerine göre sıralandırılırlar.

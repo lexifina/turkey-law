@@ -1,0 +1,1 @@
+Madde 47 - Hastalık, münavebe veya başka bir' özür sebebiyle görevine gelemeyen şef, konsertmaisterler, çello solisti, grup şefleri ve çift saz çalan üyelere, gelmedikleri sürece yardımcıları, onlar da bulunmadıkları taktirde şef ve teknik kurulun tensip edeceği üyeler vekaJet ederler

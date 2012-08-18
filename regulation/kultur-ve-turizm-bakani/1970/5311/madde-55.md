@@ -1,0 +1,1 @@
+Madde 55 - Üyeler konserlerde aşağıda yazılı olduğu gibi giyinirler : Frak, beyaz yelek veya beyaz kuşak, beyaz gömlek,beyaz.papyon, siyah çorap, rugan veya siyah ayakkabı. Simokin, siyah ayakkabı, beyaz gömlek, siyah papyon, siyah çorap, Veston, siyah ayakkabı, beyaz gömlek, açık gri kravat, siyah çorap, Bayan üyeler; siyah tuvalet, siyah ayakkabı.

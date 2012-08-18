@@ -1,0 +1,1 @@
+Madde 8 - ŞEF YARDlMClLARl: Orkestra şefinin teknik yardımcılarıdır. Şef yardımcıları yönettikleri prova ve konserlerde şefin bütün görev ve yetkilerine sahiptirler. Şefin bulunmadığı zamanlarda, şef yardımcıları kıdem sırasına göre şefe vekalet ederler.

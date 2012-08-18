@@ -1,0 +1,2 @@
+MADDE 89 – (Değişik:RG-18/8/2012-28388)
+Kabul imtihanlarında başarılı sayılmak için imtihan komisyonu tarafından verilecek not ortalamalarının 100 üzerinden 70 tam sayıyı tutması şarttır. 70 tam sayı altındaki küsurlu sayılar imtihan komisyonunca 70 tam sayıya tamamlanamaz. İmtihan komisyonu üyeleri notlarını gizli olarak verirler. Komisyon üyelerinin vereceği puanlar arasında en yüksek ve en düşük puan arasında 30 puandan fazla fark olduğunda, bu puanlar geçersiz sayılarak, geriye kalan puanların ortalaması geçerli puan olarak değerlendirilir.

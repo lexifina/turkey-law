@@ -1,0 +1,1 @@
+Madde 16 - Seçimler, (Değişik ibare:RG-18/8/2012-28388) Kültür ve Turizm Bakanlığının bir temsilcisi başkanlığında, Genel Kurulca orkestra üyeleri arasından seçilecek 3 kişiden teşekkül eden bir seçim kurulu tarafından yürütülür.

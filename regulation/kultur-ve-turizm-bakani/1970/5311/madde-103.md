@@ -1,0 +1,1 @@
+Madde 103 - Memurluktan naklen orkestra enstrüman üyeliğine imtihanla girenlerin ücret intibakları, memurlukta aldıkları maaştan aşağı olamaz. Ancak, memuriyetlerinde aldıkları maaş orkestra- kadrosu üzerinde ise, bu hal kademe imtihanları ile hak kazanılan kadroların kendilerine verilmesini gerektirmez.

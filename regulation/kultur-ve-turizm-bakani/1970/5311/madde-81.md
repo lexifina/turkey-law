@@ -1,0 +1,1 @@
+Madde 81 - Qrkestra materyali ancak resmi kurumlara yazılı istek ve imza mukabili ödünç olarak verilebilir. Bu gibi kurumlara ne şartlarla notaların ödünç verilebileceğini Yönetim Kurulu tespit eder. Şartlara riayet etmeyen kurumlara notalar verilemez.

@@ -1,0 +1,1 @@
+Madde 63 - Münavebe, ancak, eserlerin kadrosu imkan verdiği ve gruplarda bu iş için yeterli eleman bulunduğu hallerde mümkündür. Münavebenin şekli ve uygulanması Orkestra Şefi ile. Orkestra Yönetim Kurulunca tespit edilir. İzin sebebi ile görevine gelmeyen üyeler münavebe haklarını kullanmış sayılırlar.

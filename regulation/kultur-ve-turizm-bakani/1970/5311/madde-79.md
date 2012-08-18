@@ -1,0 +1,1 @@
+Madde 79 - Üyeler çalıştıkları notalar üzerine silinmeyecek şekilde yazı yazamazlar. Notayı temiz tutmayan, hırpalayan veya kaybeden üyeye nota bedeli ödetilir. Kiralanan veya ödünç alınan notalar için de aynı hususlar uygulanır.

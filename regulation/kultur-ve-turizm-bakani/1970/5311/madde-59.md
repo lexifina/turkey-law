@@ -1,0 +1,1 @@
+Madde 59 - Cumhurbaşkanlığı Senfoni Orkestrası üye ve mensupları müessesenin şerefini ve sanat itibarını küçük düşürecek fiil ve hareketlerde bulunamazlar. Gece kulüpleri, pavyon, bar, sirk v.b. eğlence yerlerinde çalışamazlar.

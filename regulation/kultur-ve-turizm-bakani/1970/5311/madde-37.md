@@ -1,0 +1,1 @@
+Madde 37 - Orkestra, açık havada ancak tarih ve mimarlık sanatı yönlerinden uygun yapıların veya yıkıların içinde, önünde; açık hava tiyatrosu ve sinemaları podyumlarında; ancak konser süresince çevrede dikkati dağıtacak gürültülerin gelmesi önlenmiş olmak şartıyla konser verebilir.

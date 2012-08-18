@@ -1,0 +1,1 @@
+Madde 136 - Yönetmeliğin 132 nci maddesi D, E, F, G bentlerinde yazılı disiplin cezalan Yönetim Kurulunun (Değişik ibare:RG-18/8/2012-28388) Kültür ve Turizm Bakanlığına teklifi ve Bakanlık Disiplin Kurulunun kararı ile verilir.

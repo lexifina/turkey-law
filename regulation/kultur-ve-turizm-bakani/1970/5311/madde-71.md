@@ -1,0 +1,1 @@
+Madde 71 - Çello solisti ve diğer yaylı çalgılar grup şefleri gruplarının başlarında otururlar. Çello solisti görevli olmadığı zaman yerinde viyolonsel grup şefi onun yanında da muavini diğer yaylı çalgılar grup Şefleri görevli olmadığı zamanlarda yerlerinde grup şef muavinleri otururlar.

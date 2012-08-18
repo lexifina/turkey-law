@@ -1,0 +1,1 @@
+Madde 36 - Orkestra, konser salonu olmayan yerlerde, asgari teknik akustik, ısı; ışık ve estetik ölçülere uymaları; özellikle sahneleri üyelerin rahatça çalabilecekleri boyutlarda olmaları şartıyla , okul, toplantı, sergi, sinema, spor salonu gibi kapalı salonlarda konser verebilir.
