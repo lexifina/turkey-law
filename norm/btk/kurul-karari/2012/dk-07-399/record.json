@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2012/DK-07/399",
+  "date": "2012-08-22",
+  "title": "Türk Telekom Referans Arabağlantı Teklifinde Revizyon-THK Değişikliği",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2012-08-22",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=149",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/41ada811-1d35-41cd-8a20-6d69951ae05c.pdf",
+  "source_sha256": "ce6da1c89f16615ab6bdd5a6bc57735ee097e73bf8320a36c3e89589e375b6d9",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2012-08-22",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 22.08.2012; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
