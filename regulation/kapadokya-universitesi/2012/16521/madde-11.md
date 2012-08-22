@@ -1,0 +1,3 @@
+Zorunlu ve seçmeli yabancı dil derslerinde ders geçme ve muafiyet
+MADDE 11 – (1) Yüksekokulda okutulacak tüm yabancı dil derslerinin sınav sonuç notları Kapadokya Meslek Yüksekokulu Eğitim-Öğretim ve Sınav Yönetmeliğinin hükümleri uyarınca belirlenir. Yabancı dil derslerinde “CC” notundan daha düşük bir not alınması halinde ders tekrar edilir.
+(2) Okutulacak derslerden sadece ortak zorunlu yabancı dil dersleri için muafiyet sınavı açılır. Muafiyet sınavının ölçme ve değerlendirilmesinde ilgili mevzuat hükümleri uygulanır. Muafiyet sınavı yapılabilecek derslerden dönem içerisinde başarısız olmuş ve dersi tekrar almak zorunda olan öğrenciler de söz konusu derslerin yarıyıl başında açılan muafiyet sınavlarına girebilir.
