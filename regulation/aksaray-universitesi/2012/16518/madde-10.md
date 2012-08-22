@@ -1,0 +1,2 @@
+Yönetim Kurulu ve oluşumu
+MADDE 10 – (1) Yönetim Kurulu; Müdürün başkanlığında müdür yardımcıları ve birim başkanlarından oluşur. Yönetim Kurulu akademik bir organ olup, Merkezin eğitim, öğretim, bilimsel araştırma ve yayın faaliyetleri ile bu faaliyetlerle ilgili esasları kararlaştırır. Yönetim Kurulu yılda en az iki kez olmak üzere, Müdürün çağrısı üzerine toplanır. Yönetim Kurulunun toplanma nisabı salt çoğunluktur. Yönetim Kurulu toplantıya katılanların oy çoğunluğu ile karar verir. Eşitlik halinde ise Başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır.
