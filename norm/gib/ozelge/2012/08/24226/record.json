@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-160[1-2012/5-1.10.5791]-2658",
+  "source_id": 24226,
+  "date": "2012-08-22",
+  "title": "Miras yoluyla intikal eden kooperatif hissesinden edinilen dairenin satışında değer artış kazancı ve veraset ve intikal vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/24226",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "91a2f0c26df20446665defb87453e8fac2f4f11acc6aade94b96a9cf5dc901d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
