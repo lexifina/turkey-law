@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.55.15.02-2011-VUK-ÖZE-06-296",
+  "source_id": 26473,
+  "date": "2012-08-23",
+  "title": "Müşterilerden alınan çeklerin makbuz mukabili ciro edilmesi halinde ispat edici belge olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26473",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "57de73d3d92fb1f9147e8f3378cb0414714eab7b95f19db05c95381a35e7a433",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
