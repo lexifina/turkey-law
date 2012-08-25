@@ -1,0 +1,3 @@
+Müeyyide
+MADDE 11 – (1) Bu Yönetmelikte belirtilen teşviklerden yararlanan kültür belgeli yatırım veya girişimlerce ilgili kurum veya kuruluşlara yanlış veya yanıltıcı bilgi ve belge verilmesi, verilen belgelerde tahrifat yapılması veya teşviklerden yararlanma hakkını kaybetmiş olmalarına rağmen teşvikten yararlanmaya devam ettiklerinin sonradan anlaşılması halinde verilen bu Yönetmelikte belirtilen mali teşvikler, genel hükümlere göre tahsil edilir ve ayrıca Kanunun cezai hükümleri uygulanır.
+(2) Belirtilen durumların varlığını tespit eden ilgili kurum ve kuruluşlarca durum, gecikmeksizin Bakanlığa bildirilir.

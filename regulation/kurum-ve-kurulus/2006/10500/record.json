@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.10500",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜLTÜR YATIRIM VE GİRİŞİMLERİNE GELİR VERGİSİ STOPAJI, SİGORTA PRİMİ İŞVEREN PAYI VE SU BEDELİ İNDİRİMİ İLE ENERJİ DESTEĞİ UYGULAMASINA DAİR YÖNETMELİK",
+  "number": "10500",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2006/10500",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10500&MevzuatTertip=5",
+  "source_sha256": "15fb57edd54f278c6f47d27c8ea41db9d0478d573f0eaff70f76b7ff84c702f3",
+  "source_bytes": 68664,
+  "published": "2006-07-14",
+  "gazette": "26228",
+  "in_force": "2012-08-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/8/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-08-25",
+      "RG-25/8/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-08-25",
+      "25/8/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-07-31",
+      "RG-31/7/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-07-31",
+      "31/7/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1415,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
