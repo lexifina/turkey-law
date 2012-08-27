@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.27.15.01-11-515-144-59",
+  "source_id": 33787,
+  "date": "2012-08-27",
+  "title": "2002/4930 SAYILI BAKANLAR KURULU KARARI VE (EK:23)BİLGİ FORMU DÜZENLENMESİ hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33787",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "3713295a8791f44f795903b9410c9c2783e099718f0fe99702ad97f5970d9aa5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
