@@ -1,0 +1,2 @@
+Diğer gerçek ve tüzel kişilerin yükümlülükleri
+MADDE 11 – (1) Kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, kamuya yararlı dernekler, noterler, bankalar, sigorta şirketleri ile diğer gerçek ve tüzel kişiler, denetimin gereği olarak, denetim elemanı tarafından istenilen bilgileri, belgeleri, kayıtları ve raporları gerek elektronik ortamda gerekse de yazılı olarak vermekle ve gerekli yardımı sağlamakla yükümlüdürler.
