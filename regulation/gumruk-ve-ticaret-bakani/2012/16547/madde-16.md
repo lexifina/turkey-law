@@ -1,0 +1,2 @@
+Yıllık faaliyet raporunun sunumu
+MADDE 16 – (1) Yıllık faaliyet raporu ilgili olduğu hesap döneminin bitimini izleyen iki ay içinde hazırlanır. Şirketin yönetim organı başkanı ve üyeleri tarafından imzalanarak onaylanır. Yönetim organı üyelerinden herhangi birinin yıllık faaliyet raporunda yer alan bilgilerle ilgili farklı görüşte olması halinde, itiraz ettiği hususlar gerekçeleri ile birlikte yıllık faaliyet raporunda belirtilir.

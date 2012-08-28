@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Yıllık Faaliyet Raporunun Hazırlanması
+Genel ilkeler
+MADDE 4 – (1) Yıllık faaliyet raporu, şirketin ilgili hesap dönemine ait iş ve işlemlerinin akışını, her yönüyle finansal durumunu, şirketin hak ve yararını da gözetecek şekilde, doğru, eksiksiz, dolambaçsız, gerçeğe uygun ve dürüst bir şekilde yansıtır. Yıllık faaliyet raporunda, yanıltıcı, abartılı ve yanlış kanaat uyandırıcı, gerçeğe aykırı ifadelere yer verilemez.
+(2) Yönetim organı, yıllık faaliyet raporunu, ortakların şirketin faaliyetleri hakkında her türlü bilgiye tam ve doğru bir şekilde ulaşmasını sağlayacak ayrıntıda hazırlar. Yıllık faaliyet raporunda mümkün olan en basit kavram ve terimler kullanılır, tereddüde neden olabilecek belirsiz ifadelerden kaçınılır. Teknik terim kullanılması gereken yerlerde, herkesin kolayca anlamasına imkan verecek şekilde açıklamalar yapılır.
+(3) Şirketin, finansal performansı ile finansal durumunun genel özellikleri ve karşı karşıya bulunduğu temel riskler yıllık faaliyet raporunda değerlendirilir. Şirketin finansal durumuna ilişkin bu değerlendirmeler finansal tablolara dayandırılır. Ayrıca finansal olmayan risklere de faaliyet raporunda yer verilir.
+(4) Yıllık faaliyet raporunda; şirket faaliyet ve hizmetlerinin etkin, güvenilir ve kesintisiz bir şekilde yürütülmesini, muhasebe ve mali raporlama sisteminden sağlanan bilgilerin bütünlüğünü, tutarlılığını, güvenilirliğini, zamanında elde edilebilirliğini ve güvenliğini sağlamak amacıyla yapılan iç kontrollerin etkinliği, yeterliliği ve uyumluluğu konularında açıklamalara yer verilir.
+(5) Yıllık faaliyet raporunda gerekli olması halinde istatistiki bilgilere ve grafiklere de yer verilebilir.

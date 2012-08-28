@@ -1,0 +1,2 @@
+Yıllık faaliyet raporunda yer verilebilecek ilave bilgiler
+MADDE 6 – (1) Yıllık faaliyet raporunda, bu Yönetmelikte yer verilen asgari içeriğe ve şirketin niteliği ve konumu itibariyle ortakların haklarını kullanabilmesi için bilmeleri gereken diğer bilgilere yer verilmesi zorunludur. Bu Yönetmelik hükümlerine aykırı olmamak kaydıyla yıllık faaliyet raporlarında yönetim organının uygun gördüğü ilave bilgilere yer verilebilir.
