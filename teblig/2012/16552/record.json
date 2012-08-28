@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.16552",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 60)",
+  "number": "16552",
+  "path": "teblig/2012/16552",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16552&MevzuatTertip=5",
+  "source_sha256": "d1719f30291d28726c75ea246a077464afeb2f2e7fa3f0e3e31aadcf1e016986",
+  "source_bytes": 9010,
+  "published": "2012-08-28",
+  "gazette": "28395",
+  "in_force": "2012-08-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.08.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 189,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16552%20ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
