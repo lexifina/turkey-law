@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-08-28",
+  "issue": "28395",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Anonim Şirketlerde Elektronik Ortamda Yapılacak Genel Kurullara İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120828-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/08/20120828.htm",
+  "index_sha256": "a61bdab6a4cd5e6d9e04fa85755227273cdb01f1c4af675041641f612af5bd67",
+  "index_header": "28 Ağustos 2012 ... 28395 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
