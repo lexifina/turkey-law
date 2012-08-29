@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "3994",
+  "decision_date": "2012-08-29",
+  "title": "Doğal Gaz Dağıtım Şirketleri İçin Tarife Hesaplama Usul ve Esasları uyarınca tarifeleri belirlenecek dağıtım şirketlerinin abone sayısı projeksiyonu çalışmalarına yönelik (25.07.2012 Tarih ve 3943 Sayılı) kurul kararında düzeltme",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sCY+yFSYBxY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sCY+yFSYBxY="
+  ],
+  "source_sha256": "3ec81a866f0eab0fcecc744431caac95fa142445072d2e0cc872748eb9bafdbe",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-08-29",
+  "law_text_complete": false
+}
