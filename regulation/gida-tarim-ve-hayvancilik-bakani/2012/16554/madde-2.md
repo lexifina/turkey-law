@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 10 uncu maddesinin birinci ve beşinci fıkralarına, 3/6/2011 tarihli ve 639 sayılı Gıda, Tarım ve Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 2 nci maddesi ve 12 nci maddesinin birinci fıkrasının (c) ve (g) bentlerine, 22/3/1971 tarihli ve 1380 sayılı Su Ürünleri Kanununun 14 üncü maddesine, 18/4/2006 tarihli ve 5488 sayılı Tarım Kanununun 10 uncu maddesine dayanılarak hazırlanmıştır.
