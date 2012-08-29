@@ -1,0 +1,2 @@
+Birikimli oyun temsilen kullanılması
+MADDE 7 – (1) Temsil belgesinde birikimli oy kullanımı yönünde bir talimat olmasa dahi, diğer pay sahiplerinin veya temsilcilerinin talebi üzerine genel kurulda birikimli oy kullanılmasının zorunlu olduğu durumlarda temsilci birikimli oy kullanır. Temsil belgesinde temsilciye toplam birikimli oy sayısının dağılımı konusunda özel bir talimat verilmediyse dağılım miktarını temsilci belirler.

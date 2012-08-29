@@ -1,0 +1,2 @@
+Birikimli oyun kullanılma şekli
+MADDE 6 – (1) Birikimli oy, yazılı oy pusulaları ile kullanılır. Bu pusulalarda birikimli oyun dağılımı gösterilir ve oy kullanan kişinin sahip olduğu oy sayısı, adı ve soyadı ile imzası yer alır. Yazılı oy pusulaları genel kurul toplantı başkanına sunulur. Başkan, birikimli kullanılan oy sayısını kontrol etmek ve mükerrer oy kullanılmasını önleyecek tedbirleri almakla yükümlüdür. Elektronik ortamda yapılacak genel kurul toplantılarında, 6102 sayılı Kanun ve bu Kanuna dayanılarak çıkarılmış mevzuat hükümleri saklıdır.
