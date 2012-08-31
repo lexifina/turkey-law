@@ -1,0 +1,29 @@
+{
+  "number": "70",
+  "number_as_published": "70",
+  "year": 2012,
+  "month": 8,
+  "title": "70.KARAR AĞUSTOS 12 (23.2021 Ağustos Bulgaristana 3 Meclis üyesi Ziyareti)",
+  "decision_date": null,
+  "index_date": "2012-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2012",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=64",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=64",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/ea003475fb27e36b80b33506cb053fab255e0945bf1f77d79af7934bb0df23df.doc",
+  "source_sha256": "28fbe8549ff0f89b78e13d5878edf64d52619be93193da64ad124f4ed741aef9",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2012-08-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ağustos 2012); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "31.08.2012",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
