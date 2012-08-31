@@ -1,0 +1,28 @@
+{
+  "number": "month-08",
+  "year": 2012,
+  "month": 8,
+  "title": "2012 YILI AĞUSTOS AYI MECLİS KARAR ÖZETLERİ",
+  "decision_date": null,
+  "index_date": "2012-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2012",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2012",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/2012-yili-agustos-ayi-meclis-karar-ozetleri/90",
+  "official_document": null,
+  "source_sha256": "5bb2754c3e293fa511b040f3fbce4edfa61e97ae26fb3d6176c34aae86aa4741",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2012-08-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ağustos 2012); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official page of the council decision summaries (Meclis Karar Özetleri) of the month",
+  "listing_note": "2012 AĞUSTOS AYI TOPLANTILARINDA KABUL EDİLEN ve KARARA BAĞLANAN KARAR NUMARASI YAZILI MECLİS KARAR ÖZETLERİ 5393 SAYILI BELEDİYE KANUNUNUN 23. MADDESİNE GÖRE İLAN OLUNUR."
+}
