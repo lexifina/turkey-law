@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-09-01",
+  "issue": "28398",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 96)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/09/20120901-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/09/20120901.htm",
+  "index_sha256": "61cf18d5bf6631b4691e5a4fc5a6fd7a71295e93ac14b3a0aa17d0f876eb6050",
+  "index_header": "1 Eylül 2012 ... 28398 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
