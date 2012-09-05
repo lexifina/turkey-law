@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "67854564-1741-815",
+  "source_id": 24576,
+  "date": "2012-09-05",
+  "title": "İnternet üzerinden alıcı ve satıcıyı buluşturmak suretiyle yapılan sanal mağazacılık işlemlerinde belge düzeni ve fatura bedelinin tespiti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24576",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "ba0624baccee395d63ba33c225d3c1581ff4e7d06d48cdb2bb8bcfaa02d69b86",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
