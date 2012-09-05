@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4013",
+  "decision_date": "2012-09-05",
+  "title": "Gaznet Şehir Doğal Gaz Dağıtım Anonim Şirketinin (GAZNET) 2012-2016 yılları arası perakende satış tarifelerine yönelik aşağıdaki Karar alınmıştır",
+  "resmi_gazete_date": "2012-09-11",
+  "resmi_gazete_number": "28408",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=d5vj3fgdnkA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=d5vj3fgdnkA="
+  ],
+  "source_sha256": "529851b93521e44d6663cac5ada3ffaab27b8fe077a6a212e18d7bc165c83282",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-09-05",
+  "law_text_complete": false
+}
