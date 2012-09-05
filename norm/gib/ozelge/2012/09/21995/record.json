@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.01-120[37-46-2012/7]-149",
+  "source_id": 21995,
+  "date": "2012-09-05",
+  "title": "Taksi bot faaliyetinin basit usule tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21995",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "5bd5e20b6764d57b8c816c8857c763c3c830cdbf902a0032b36eb7f766a5f97c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
