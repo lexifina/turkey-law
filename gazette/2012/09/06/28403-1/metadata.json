@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-09-06",
+  "issue": "28403",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2012/3571 193 Sayılı Gelir Vergisi Kanununda Yer Alan Bazı Tevkifat Nispetlerinde Değişiklik Yapılmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/09/20120906-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/09/20120906.htm",
+  "index_sha256": "20cc0cd9412f963b9946ab86510f0d528eacfeb8801d4a9c7494c5a3c9fb126a",
+  "index_header": "6 Eylül 2012 ... 28403 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
