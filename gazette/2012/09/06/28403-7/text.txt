@@ -1,0 +1,228 @@
+6 Eylül 2012 PERŞEMBE
+Resmî Gazete
+Sayı : 28403
+TEBLİĞ
+Bilgi Teknolojileri ve İletişim Kurumundan:
+ELEKTRONİK KİMLİK BİLGİSİNİ HAİZ CİHAZLARIN KAYIT ALTINA
+ALINMASINA DAİR TEBLİĞ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, ithal veya imal edilen elektronik kimlik bilgisini haiz cihazların elektronik kimlik bilgilerinin Mobil Cihaz Kayıt Sistemine kayıt edilmesine ilişkin usul ve
+esasları belirlemektir.
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununa ve
+27/6/2009 tarihli ve 27271 sayılı Resmî Gazete’de yayımlanan Elektronik Kimlik Bilgisini Haiz Cihazlara Dair Yönetmeliğe dayanılarak hazırlanmıştır.
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Tebliğin uygulanmasında;
+a) AKM: Abone
+Kayıt Merkezini,
+b) Beyaz liste: Firmalar tarafından ithal ya da
+imal edilerek veya kişiler tarafından bireysel
+olarak mevzuata uygun bir şekilde getirilerek Kuruma bildirilen cihazlar ile
+başvuru süresi içinde veya haklı mazeret nedeniyle başvuru süresini geçiren cihaz kullanıcıları tarafından yapılan başvurular üzerine kayıt altına alınan elektronik
+kimlik bilgisi değiştirilmemiş cihazların elektronik kimlik bilgilerinden oluşan listeyi,
+c) Cihaz: Telsiz
+veya elektronik haberleşme şebekesine doğrudan veya dolaylı olarak bağlanan cihaz veya cihazın ilgili parçasını,
+ç) Elektronik imza: Başka bir elektronik
+veriye eklenen veya elektronik veriyle mantıksal bağlantısı bulunan ve kimlik doğrulama amacıyla kullanılan elektronik veriyi,
+d) Elektronik
+kimlik bilgisi: Telsiz cihazlarına tek ve
+benzersiz olarak tahsis edilmiş kimlik tanımını,
+e) Firma:
+Elektronik kimlik bilgisini haiz cihazları imal ya da ithal
+eden tüzel kişiyi,
+f) IMEI (International Mobile Equipment
+Identification): Uluslararası mobil cihaz kimliğini,
+g) ITS: İthalat Takip Sistemini,
+ğ) İnternet sayfası: Mobil Cihaz Kayıt Sistemi ile ilgili olarak Bilgi Teknolojileri ve İletişim Kurumu tarafından oluşturulan internet sitesini,
+h) Kapasite raporu:
+İmalatçı firmaların yıllık üretim kapasitesini gösteren ve ilgili
+sanayi odası tarafından düzenlenen raporu,
+ı) Kayıt ücreti dekontu: Üzerinde "Kayıt Ücreti" açıklayıcı ibaresi bulunan banka dekontunu,
+i) Kurum: Bilgi
+Teknolojileri ve İletişim Kurumunu,
+j) Mobil Cihaz
+Kayıt Sistemi (MCKS): Kurum bünyesinde kurulan merkezi mobil cihaz kimlik tanımı veri tabanını,
+k) TAC (Type Approval Code): Tip onay kodunu,
+l) Teknik
+kontroller: İthal veya imal edilen ya da bireysel olarak
+getirilen cihazlara ait elektronik kimlik bilgilerinin beyaz listeye aktarılması öncesinde yapılan, kara liste ve
+TAC kontrollerini,
+ifade eder.
+(2) Bu Tebliğde geçen ve yukarıda yer almayan tanımlar için ilgili mevzuatta yer alan tanımlar geçerlidir.
+İKİNCİ BÖLÜM
+Elektronik
+Kimlik Bilgisini Haiz Cihazların Kayıt Altına Alınması
+Başvuru sahipleri
+MADDE 4 – (1) Elektronik kimlik bilgisini haiz cihazların kayıt altına alınmasına ilişkin başvurular, ithalatçı veya imalatçı firmalar ile
+yurt dışından bireysel ithalat yoluyla getirilen cihazların sahipleri tarafından yapılır.
+Bireysel başvuru
+MADDE 5 – (1) Yurt dışından bireysel
+ithalat yoluyla getirilen cihazların sahipleri
+cihazlarının kayıt altına alınması için ilgili mevzuat çerçevesinde gerekli belgeleri tamamlayarak GSM işletmecilerinin AKM’leri
+ya da gerekli bilgilerin beyanı yoluyla e-Devlet
+kapısı üzerinden başvuru yapar.
+(2) GSM işletmecileri; AKM’lerine
+yapılan başvurulara ilişkin bilgi ve belgeleri kontrol ederek Kuruma gönderir.
+(3) e-Devlet
+kapısı üzerinden yapılan başvurularda cihaz sahibi tarafından beyan edilen
+bilgiler;
+a) Öncelikli olarak ilgili merciler tarafından e-Devlet kapısı üzerinden doğrulanmasını müteakip Kuruma iletilir,
+b) Bu doğrulamanın mümkün olmaması halinde bu bilgiler
+Kurum tarafından belli periyotlarla
+ilgili mercilere gönderilir ve doğrulanması talep edilir.
+(4) Gönderilen bilgi ve/veya belgelerin mevzuata uygun olmaması halinde kayıt altına alınmak üzere MCKS’ye
+girilen IMEI numarası red gerekçesi yazılarak beyaz listeden çıkarılır.
+Firma başvuruları
+MADDE 6 – (1) Firmalar; ithalat veya imalat işlemini gerçekleştirdikten sonra, ithal veya imal edilen cihazların kayıt altına alınması için Kuruma başvurur.
+Firma başvuru
+usulleri
+MADDE 7 – (1) Elektronik kimlik bilgisini haiz cihazların kayıt altına alınmasına ilişkin firma başvuruları elektronik ortamda yapılır. Ancak, Kurum tarafından gerekli görülmesi durumunda elektronik ortamda yapılan başvurulara ilişkin evraklar da
+istenebilir.
+Elektronik ortamda başvuru
+MADDE 8 – (1) Elektronik ortamda başvuru yapılabilmesi için firmanın yetkilendirdiği kişiye tutanak karşılığında MCKS’ye
+erişim için gerekli olan kullanıcı adı, şifre ve sertifika teslim edilir. Firmaya tahsis
+edilen kullanıcı adı ve şifrenin güvenliğinden ve söz konusu kullanıcı adı ve şifresiyle yapılan her türlü işlemden firma sorumludur. Her firmaya bir adet
+kullanıcı adı, şifre ve sertifika verilir ancak firmanın talebi ve Kurumun uygun görmesi halinde
+birden fazla kullanıcı adı, şifre ve sertifika tahsisi yapılabilir.
+(2) İthal edilen elektronik kimlik bilgisini haiz cihazların kayıt altına alma başvurusu kapsamında ithalatçı firma tarafından;
+a) İthalat tarihi,
+b) Gümrük beyanname numarası,
+c) İthal edilen ülke adı,
+ç) İthal edilen cihaza karşılık gelen ve TAC 6 veya 8 haneli olarak listeden seçilen cihaz marka ve modeli,
+d) İthal edilen cihaza ait IMEI adedi,
+e) İthal edilen cihazların elektronik kimlik bilgileri,
+f) Kayıt ücreti dekontuna ilişkin bilgiler,
+g) 9 uncu
+maddede sayılan belgelerin taranmış kopyaları,
+elektronik ortamda
+Kuruma bildirilir. Gönderilen IMEI numaraları teknik kontrollerden geçmedikçe MCKS tarafından kabul edilmez.
+(3) İmal edilen elektronik kimlik bilgisini haiz cihazların kayıt altına alma başvurusu kapsamında imalatçı firma tarafından;
+a) İmalat tarihi,
+b) Kapasite
+raporu,
+c) İmal edilen cihaza karşılık gelen ve TAC 6 veya 8 haneli olarak listeden seçilen cihaz marka ve modeli,
+ç) İmal edilen cihaza ait IMEI adedi,
+d) İmal edilen cihazların elektronik kimlik bilgileri,
+e) Kayıt ücreti dekontuna ilişkin bilgiler,
+f) 9 uncu
+maddede sayılan belgelerin taranmış kopyaları,
+elektronik ortamda
+Kuruma bildirilir. Gönderilen elektronik kimlik bilgileri, teknik
+kontrollerden geçmedikçe MCKS tarafından kabul edilmez.
+(4) Firma tarafından kayıt altına aldırılmak istenen cihazın TAC’larının MCKS’de tanımlı olmaması halinde listede
+bulunmayan TAC’ların sisteme eklenmesi
+için, ilgili cihaz üreticisinden veya üreticinin Türkiye temsilcisinden alınacak; marka, model, TAC ve TAC hane sayısı bilgilerini açık bir şekilde belirten ıslak imzalı resmi yazının, firmanın ıslak imzalı dilekçesi ve imza sirküsü
+fotokopisi ile birlikte Kuruma verilmesi gerekir.
+(5) Başvuru sırasında gönderilen bilgi ve
+belgelerin doğruluğu ve bütünlüğü firmanın yükümlülüğündedir. Firmanın, göndermiş olduğu bilgi ve
+belgelerde Kurum tarafından inceleme ve değerlendirme işlemleri başlamadan önce değişiklik yapma hakkı saklıdır.
+Evrak yolu ile başvuru
+MADDE 9 – (1) Evrak yolu ile yapılan başvuru, ithalata/imalata ilişkin bilgilerin evrak üzerinden Kuruma bildirilmesi ile yapılır.
+(2) Kayıt altına alma başvurusu kapsamında firma tarafından;
+a) İthal/imal edilen cihazlara ilişkin marka, model
+ve adetler ile firma kaşesi ve firma yetkilisinin unvanı ve ıslak imzasının yer aldığı Ek-1’de belirtilen başvuru dilekçesi,
+b) Gümrük beyannamesinin noter tasdikli veya “Aslı Gibidir” gümrük kaşesiyle onaylı bir kopyası,
+c) İmal edilen cihazlar için imalatçı firma kapasite
+raporu,
+ç) Elektronik ortamdan yapılmayan başvurular için marka ve modellerine
+göre text formatında hazırlanmış IMEI numaralarının yer aldığı Ek-2’de içeriği belirtilen CD,
+d) Yeni bir TAC
+kullanılması halinde ilgili üreticiden veya üreticinin Türkiye temsilcisinden alınacak; marka, model, TAC ve TAC hane sayısı bilgilerini açık bir şekilde belirten resmi yazı,
+e) Kayıt ücreti dekontunun aslı,
+f) Firma imza
+sirküleri,
+Kuruma teslim
+edilir.
+İnceleme ve değerlendirme
+MADDE 10 – (1) Kurum, elektronik ortam veya evrak yoluyla yapılan başvurular üzerine bilgi ve
+belgelerde gerekli incelemeleri yapar, mevzuat hükümlerine uygun olarak bildirimi yapılan cihazlara ait olan IMEI numaralarını kayıt altına alır.
+(2) Başvuru sahipleri tarafından sağlanan bilgi ve
+belgelerde eksiklik veya yanlışlık olması durumunda başvuru değerlendirmeye alınmaz.
+(3) Başvuru içeriğinde yer alan bilgilerde ya da belgelerde tutarsızlık tespit edilmesi halinde açıklama hanesine gerekçe yazılarak başvuru reddedilir.
+(4) Firmanın red gerekçesinde belirtilen
+sorunu gidermesi halinde başvuru tekrar işleme alınır.
+(5) Evrak yolu
+ile gönderilmiş olan cihazlara
+ait elektronik kimlik bilgilerinin teknik kontrollerden geçmemesi durumunda başvuru tümüyle reddedilir ve bu durum başvuru sahibine
+bildirilir.
+Anakart ve takas
+cihaz başvuruları
+MADDE 11 – (1) İthalatı/imalatı yapılarak beyaz listeye alınmış elektronik kimlik bilgisini haiz cihazlara teknik servis hizmeti
+verilmesi amacıyla yedek parça olarak
+ithal/imal edilen elektronik kimlik bilgisini haiz anakartlar
+ile ithalatı/imalatı yapılarak beyaz listeye alınmış elektronik kimlik bilgisini haiz cihazların değiştirilmesi için ithal/imal
+edilmiş takas cihazlara ilişkin başvurular 9 uncu maddede yer alan bilgi ve belgelerin sağlanması suretiyle yapılır.
+(2) Başvuruda verilen IMEI bildirim listesinde yer alan numaralar; yerine
+ithal/imal edildikleri takas cihaz veya anakart
+Kuruma bildirilip beyaz listeden çıkarılmadıkça beyaz listeye alınmaz. Takas cihaz
+ve anakart değişim bildirimleri yalnızca bunların ithalatçı/imalatçıları tarafından gerçekleştirilir.
+Test cihazları
+MADDE 12 – (1) Test cihazlarına ilişkin başvurular 9 uncu maddede yer alan bilgi ve belgelerin
+sağlanması suretiyle yapılır.
+(2) Test
+cihazlarının elektronik kimlik bilgilerinde standartlara
+uygunluk aranmaz.
+(3) Cihazların test ya da numune olduğuna ilişkin bilginin gümrük beyannamesinde yer alması gerekir.
+(4) Bildirimi
+yapılan test cihazlarına ait elektronik
+kimlik bilgilerinin standartlara uygun olması ve TAC listesinde
+yer alması halinde başvuru elektronik
+ortamdan da yapılabilir.
+IMEI düzeltme
+MADDE 13 – (1) IMEI düzeltme işlemi, bildirim kaydedildikten ve onaylandıktan sonra hatalı olarak bildirildiği farkedilen IMEI numarasının elektronik ortamdaki “IMEI Düzeltme” menüsü kullanılarak yanlış ve doğru IMEI numarasının girilmesi sureti ile yapılır.
+(2) Firma tarafından duruma ilişkin sunulan dilekçenin ekinde düzeltme istenen IMEI numaraları ve değişiklik bildirimi yapılan ithalatın belge suretleri yer alır.
+IMEI eşleştirme
+MADDE 14 – (1) MCKS tarafından elektronik
+kimlik bilgisinin değiştirilmiş olduğu tespit edilen cihazlar; ithalatçı/imalatçı firma tarafından “imei eşleştirme” menüsü kullanılmak sureti ile
+tek GSM numarası ile eşleştirilir.
+Kayıt ücreti
+MADDE 15 – (1) Kayıt edilecek her bir
+IMEI numarası için alınacak kayıt ücreti; her yıl Maliye Bakanlığınca belirlenen yeniden değerleme oranları doğrultusunda artırılır. Kesirler tama iblağ edilir.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Değiştirilen
+IMEI numaraları
+MADDE 16 – (1) Firmalar tarafından bugüne kadar anakart değişim ya da takas yöntemiyle değiştirilen ancak hala beyaz listede yer alan IMEI
+numaraları bu Tebliğin yürürlüğe girdiği tarihten
+itibaren bir ay içerisinde Kuruma bildirilir.
+(2) CD içeriğinde Ek-3’te yer alan şekle uygun olarak text formatında hazırlanan dosyada eski ve yeni IMEI numaraları yer alır.
+Yürürlükten kaldırılan usul ve esaslar
+MADDE 17 – (1) 26/11/2007 tarihli ve
+2007/DK-77/649 sayılı Bilgi Teknolojileri ve İletişim Kurulu Kararı ile yürürlüğe konulan Elektronik Kimlik Bilgisini Haiz Cihazların Kayıt Altına Alınmasına Dair Usul ve Esaslar yürürlükten kaldırılmıştır.
+Yürürlük
+MADDE 18 – (1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 19 – (1) Bu Tebliğ hükümlerini Bilgi Teknolojileri ve İletişim Kurulu Başkanı yürütür.
+Ek-1
+BİLGİ TEKNOLOJİLERİ VE İLETİŞİM KURUMU
+TÜKETİCİ İLE İLİŞKİLER MÜDÜRLÜĞÜNE
+..........tarihinde.............numaralı gümrük beyannamesi ile ithalatı gerçekleştirilen toplam ...........adet cihaza ait IMEI
+numaralarının kayıt altına alınması hususunda gereğini arz ederim.
+.../.../20..
+İTHALAT TAKİP
+NUMARASI:
+MARKA
+MODEL
+ADET
+Firma
+Kaşesi
+(İletişim bilgileri mutlaka yer almalı)
+Firma
+Yetkilisi (Adı ve Soyadı)
+İmza
+Ek-2
+FİRMA
+ADI, MARKA MODEL
+İTHALAT TARİHİ
+IMEI NUMARALARI
+123456789012345
+123456789012345
+Ek-3
+FİRMA ADI, MARKA, MODEL
+ESKİ IMEI NUMARASI YENİ IMEI NUMARASI
+123456789012345
+987654321054321
+XXXXXXXXXXXXXXX
+YYYYYYYYYYYYYYY
