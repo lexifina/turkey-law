@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[37-2012/271]-2728",
+  "source_id": 21993,
+  "date": "2012-09-06",
+  "title": "Evde tasarlanan giysi, toka ve çeşitli aksesuarların internet ortamında ve doğrudan satışı halinde vergilendirme hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21993",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "67b1c4ae9022db28e806dbccaf4970e3386fd686acb05a487b48f29bc4d0b04f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
