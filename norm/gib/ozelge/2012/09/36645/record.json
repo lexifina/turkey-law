@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.33.15.02-2011/705-1-90",
+  "source_id": 36645,
+  "date": "2012-09-07",
+  "title": "Sezon sonu kapanan şubedeki ödeme kaydedici cihazların, adres bilgilerinin servis tarafından değiştirilerek başka bir şubeye kurulmasının mümkün olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36645",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "dabd39e5b7821e5387edb06864848d09f9f09d6aadc1309c3c53e42b72ab18de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
