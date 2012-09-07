@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-155[8-2012/2012-93]-2741",
+  "source_id": 34754,
+  "date": "2012-09-07",
+  "title": "Üniversite tarafından 4734 sayılı Kanunun 22 nci maddesi kapsamında doğrudan temin suretiyle yapılan alımlarla ilgili olmak üzere, harcama yetkililerince mutemetlere verilen avanslar nedeniyle düzenlenen kağıtların damga vergisine tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34754",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "a47739c1a61973f5c2420ae5cd2c787663179f990ba7b4d29b1ba732399a1b03",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
