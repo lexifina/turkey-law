@@ -1,0 +1,2 @@
+Açık ihale usûlü
+MADDE 20- (1) Açık ihale usûlü bütün isteklilerin teklif verebildiği usûldür. Açık ihale usûlünde, isteklilerin ihale konusu işi yapabilme kapasitesini belirleyen ve bu Yönetmelikte belirtilen usûl ve esaslara uygun olarak tespit edilen yeterlik kriterleri ile ihale dokümanında belirtilen şartlara uygun olup olmadığı incelenerek, uygun olmadığı belirlenen isteklilerin teklifleri değerlendirme dışı bırakılır.

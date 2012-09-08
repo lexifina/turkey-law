@@ -1,0 +1,4 @@
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı; 25/8/2011 tarihli ve 652 sayılı Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 23 üncü maddesi uyarınca, yapılmasının gerekli olduğuna Bakanlık tarafından karar verilen eğitim öğretim tesislerinin, Bakanlık tarafından verilecek ön proje ve belirlenecek temel standartlar çerçevesinde, kendisine veya Hazineye ait taşınmazlar üzerinde ihale ile belirlenecek gerçek veya özel hukuk tüzel kişilerine kırkdokuz yılı geçmemek şartıyla belirli süre ve bedel üzerinden kiralama karşılığı yaptırılmasına; Bakanlığın kullanımında bulunan eğitim öğretim tesislerinin, tesislerdeki eğitim öğretim hizmet alanları dışındaki hizmet ve alanların işletilmesi karşılığında yenilenmesinin sözleşmeyle gerçek veya özel hukuk tüzel kişilerine yaptırılmasına dair usûl ve esasları belirlemektir.

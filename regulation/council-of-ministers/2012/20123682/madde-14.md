@@ -1,0 +1,3 @@
+İhale işlem dosyası
+MADDE 14- (1) İhale suretiyle yapılacak işler için bir işlem dosyası düzenlenir. Bu dosyada onay belgesi, tahmin edilen yatırım ve ödenecek tahmini kira bedeli, bedele ilişkin hesap tutanağı, ihale dokümanı ve ekleri, ilâna ilişkin belge ve gazete nüshaları ile ihale sürecine ilişkin diğer belgeler bulunur.
+(2) Şartnamelerde tekniğe uygun olmayan veya gerçekleşmesi mümkün bulunmayan kayıt ve şartların bulunduğunun anlaşılması hâlinde, komisyonlar ilgili idareye şartnameleri düzelttirmek üzere ihaleyi erteler. Bu durumda ihale, yeniden düzenlenecek şartnameye ve yapılacak ilâna göre yürütülür.

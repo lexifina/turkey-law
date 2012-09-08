@@ -1,0 +1,5 @@
+İhale komisyonu
+MADDE 18- (1) İhale yetkilisi, biri başkan olmak üzere ikisinin ihale konusu işin uzmanı olması şartıyla, idare personelinden en az dört kişi ile muhasebe veya malî işlerden sorumlu bir personelin katılımıyla kurulacak en az beş ve tek sayıda kişiden oluşan ihale komisyonunu, yedek üyeler de dâhil olmak üzere görevlendirir. Komisyona yardımcı olmak üzere, ihale komisyonu kararlarına katılmamak şartıyla gereği kadar idarî ve teknik eleman görevlendirilebilir.
+(2) Gerekli incelemeyi yapmalarını sağlamak amacıyla ihale işlem dosyasının birer örneği, ilân veya daveti izleyen üç gün içinde ihale komisyonu üyelerine verilir.
+(3) İhale komisyonu tüm üyelerinin katılımıyla toplanır. Asıl üyelerden katılamayanların yerine yedek üyelerin katılımı sağlanır. Komisyon kararları çoğunlukla alınır. Kararlarda çekimser kalınamaz. Komisyon başkanı ve üyeleri oy ve kararlarından sorumludur. Karşı oy kullanan komisyon üyeleri, gerekçesini komisyon kararına yazmak ve imzalamak zorundadır.
+(4) İhale komisyonunca alınan kararlar ve düzenlenen tutanaklar, komisyon başkan ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır.
