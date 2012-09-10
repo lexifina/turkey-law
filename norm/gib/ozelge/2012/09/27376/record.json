@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[6-12/3]-908",
+  "source_id": 27376,
+  "date": "2012-09-10",
+  "title": "Vakıf tarafından karşılanmayan kira bedeli ile ağırlama giderlerinin kayıtlara nasıl alınacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27376",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "cc137c48c70ab8e50d1a551a89aacfb3b45524bf95ca6ed419e8c67d5eaacac7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
