@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.44.15.01-120[5084-2012-1]-33",
+  "source_id": 37796,
+  "date": "2012-09-11",
+  "title": "Türk Milli Takım Teknik Direktörünün yurt dışında görev yaptığı süreye isabet eden gelir vergisi kesintisinin iade edilip edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37796",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "38cb58dc9235205641ff54abe97e6f7aa03bf8eacc6eed6cb0afbaf87c0a5fe2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
