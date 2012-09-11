@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[42-12/9]-921",
+  "source_id": 22842,
+  "date": "2012-09-11",
+  "title": "Birden fazla inşaat ve onarma işi ile bu kapsamda olmayan işlerin de bulunması halinde iş makinelerinin amortismanlarının dağıtımı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22842",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "a8ae49cc8ea33b1ccde045589aa41f908052702a1f0cba28c422354ea4ed2059",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
