@@ -1,0 +1,2 @@
+Kadrolar
+MADDE 11 – (1) Üniversitede kadrolu statüde görevlendirilecek akademik personelin kadro sayısı ve bu kadroların özlük hakları Rektörün önerisi üzerine Mütevelli Heyet tarafından saptanır. Kadrolu statüdeki akademik personelin bir üst akademik unvana yükseltilmek üzere başvurabilmeleri için, ilgili bölüm veya birimde o unvana tekabül eden ve kullanılmayan bir kadro bulunması ve Üniversitenin bütçesinde o kadro için gerekli kaynakların ayrılmış olması gerekir.

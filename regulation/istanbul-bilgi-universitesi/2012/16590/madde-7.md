@@ -1,0 +1,3 @@
+Akademik görev ve sorumluluk
+MADDE 7 – (1) Kadrolu öğretim üyelerinin haftalık çalışma süresi kırk saattir. Haftalık çalışma süresinde ders, bilimsel araştırma ve yayın ile idari görevlerle Üniversiteye katkı sağlanır. Bu katkının ne şekilde yerine getirileceği veya getirilmiş sayılacağına ilişkin kurallar ile aranacak performans ölçütleri Akademik Kurul tarafından belirlenerek Mütevelli Heyetin onayıyla yürürlüğe konur. Bir akademik yılın güz ve bahar dönemlerinin ortalaması esas alınmak üzere, öğretim üyelerine zorunlu kılınabilecek haftalık ders yükü azami on iki saattir.
+(2) Kadrolu öğretim görevlileri, okutman ve uzmanlar ile kısmi statüde görev yapan akademik personelin görev ve sorumlulukları sözleşmelerinde belirlenir.
