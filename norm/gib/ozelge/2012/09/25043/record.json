@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-DV-20-295-137",
+  "source_id": 25043,
+  "date": "2012-09-13",
+  "title": "Yeminli mali müşavirlerce KDV İadesi Tasdik Sözleşmesinin yıllık düzenlenip düzenlenmeyeceği ile düzenlenecek nüsha ve suretlerin damga vergisi uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/25043",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "d31b9441a1c50d4e4ffe717fb192e74f922383f47ffc5f69507ead075cda2a6c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
