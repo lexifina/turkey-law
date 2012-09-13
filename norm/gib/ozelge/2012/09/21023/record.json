@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-GV-20-492-136",
+  "source_id": 21023,
+  "date": "2012-09-13",
+  "title": "İl Milli Eğitim Müdürlüğü ile vergi mükellefiyeti bulunan ve bulunmayan kişi veya kurumlardan atık hurda kağıt alınması işleminde gelir vergisi tevkifatı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/21023",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "da5998abe91f1abf589636eafb2eba2e2a0b3030a4581ba1015eafde46954dc2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
