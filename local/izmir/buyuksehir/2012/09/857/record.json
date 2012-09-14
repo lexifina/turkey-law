@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "857",
+  "decision_date": "2012-09-14",
+  "official_id": "12821",
+  "version_label": "metadata-only",
+  "text_status": "withheld: register text appears to concern individual persons; official link only",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2012&ay=&gun=&txtSozcuk=&draw=1&start=300&length=100&txtKararNo=",
+  "source_listing_sha256": "d7334cef3ffd1cfe3afbcde0616d2aedb53561f9034a8afba74012a28e1f2004",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": true
+}
