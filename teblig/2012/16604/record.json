@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16604",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ŞEHİR İÇİ YOLLAR - YAYA KALDIRIMLARINDAKİ KORUYUCU ENGELLER İÇİN TASARIM KURALLARI İLE İLGİLİ TEBLİĞ",
+  "number": "16604",
+  "issuer": "İçişleri Bakanı",
+  "path": "teblig/2012/16604",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16604&MevzuatTertip=5",
+  "source_sha256": "fddc3000e5cdf0604f29a7957c93be12163916cbe00fc3fcd6a95491e91c6ad3",
+  "source_bytes": 9174,
+  "published": "2012-09-14",
+  "gazette": "28411",
+  "in_force": "2012-09-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.09.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 219,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
