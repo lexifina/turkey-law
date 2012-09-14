@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16603",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ŞEHİR İÇİ YOLLAR - YAYA YOLU VE YAYA BÖLGELERİ TASARIM KURALLARI İLE İLGİLİ TEBLİĞ",
+  "number": "16603",
+  "issuer": "İçişleri Bakanı",
+  "path": "teblig/2012/16603",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16603&MevzuatTertip=5",
+  "source_sha256": "27b9893af906f0490a886eef6e915dc6b7a618152afeafd36846a80bc760a6d8",
+  "source_bytes": 8966,
+  "published": "2012-09-14",
+  "gazette": "28411",
+  "in_force": "2012-09-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.09.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 203,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
