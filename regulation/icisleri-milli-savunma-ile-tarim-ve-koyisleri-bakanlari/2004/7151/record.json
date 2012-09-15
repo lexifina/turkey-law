@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.7151",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "UYUŞTURUCU MADDELERİN UYUŞTURUCU MADDE ARAMA KÖPEĞİ EĞİTİMİ VE BİLİMSEL ARAŞTIRMALARDA KULLANILMASINA DAİR YÖNETMELİK",
+  "number": "7151",
+  "issuer": "İçişleri, Milli Savunma ile Tarım ve Köyişleri bakanları",
+  "issuer_slug": "icisleri-milli-savunma-ile-tarim-ve-koyisleri-bakanlari",
+  "path": "regulation/icisleri-milli-savunma-ile-tarim-ve-koyisleri-bakanlari/2004/7151",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=7151&MevzuatTertip=5",
+  "source_sha256": "2d83c3addcfa7befa9e2f9ce88ba717371d0ac607469315c6b2bd7ea4960a85e",
+  "source_bytes": 25988,
+  "published": "2004-09-13",
+  "gazette": "25582",
+  "in_force": "2012-09-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/9/2012\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2012-09-15",
+      "RG-15/9/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 945,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
