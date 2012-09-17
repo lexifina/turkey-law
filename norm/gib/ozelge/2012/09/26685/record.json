@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "67854564-1741-857",
+  "source_id": 26685,
+  "date": "2012-09-17",
+  "title": "Kat karşılığı inşaat işi nedeniyle arsa sahibine teslim edilen dairelerin emsal bedelinin belirlenmesinde Vergi Usul Kanunun 267 nci maddesinin hangi hükmünün uygulanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26685",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "ea6c3ad1aeb88f3130be05961ad6ab9ba561a90bd720e73a62a209abc37fe35f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
