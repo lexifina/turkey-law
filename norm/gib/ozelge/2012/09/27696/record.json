@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-125[4-11/4]-981",
+  "source_id": 27696,
+  "date": "2012-09-19",
+  "title": "İlçe Emniyet Müdürlüğü ile imzalanacak protokol gereği mülkiyeti hazineye ait arsa üzerinde kooperatif tarafından bağış olarak inşa edilecek karakol binasına ilişkin yapılacak harcamaların kurum kazancından indirim konusu yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27696",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "a919314e39b295ad332c8349a9349bd9c0127a684d601a16f989edae13288fbd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
