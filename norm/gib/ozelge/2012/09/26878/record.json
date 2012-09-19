@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-860",
+  "source_id": 26878,
+  "date": "2012-09-19",
+  "title": "15 yıl süre ile Petrol Ofisi A.Ş. lehine bedelsiz tesis edilen İntifa hakkından İlişik Kesme Belgesinin aranıp aranmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/26878",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "563563f6375413c0e1d8e3200ea39ea655c394ad599f8317cf3e7ed068a5a8a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
