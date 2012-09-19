@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.72.10.00-5084 SAYILI YASA-54",
+  "source_id": 37794,
+  "date": "2012-09-19",
+  "title": "2004 tarihinden itibaren faaliyette bulunan şirketin 5084 S. Kanunda yer alan gelir vergisi stopajı teşvikinden faydalanma süresi dolduğundan 81 No.lu Sirküler kapsamında gelir vergisi stopaj teşvikinden yararlanılmasının mümkün olamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37794",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "3ca29d3010975c150acf98b6b29ee40e326060b35ffa3955b308d727e2bf2d2e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
