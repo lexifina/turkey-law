@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4033",
+  "decision_date": "2012-09-20",
+  "title": "Diğer tedarikçilerden enerji satın alan serbest tüketicilerin perakende satış lisansı sahibi dağıtım şirketlerine (veya dağıtım şirketlerinden ayrılan perakende satış lisansı sahibi şirketlere) dönmesi halinde uygulanacak perakende satış fiyatlarıyla ilgili",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=akE9mTICejI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=akE9mTICejI="
+  ],
+  "source_sha256": "14fa844aa4648142ad768a284e89187b4df9e88ab3dcbe5bb26551bb03d56631",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-09-20",
+  "law_text_complete": false
+}
