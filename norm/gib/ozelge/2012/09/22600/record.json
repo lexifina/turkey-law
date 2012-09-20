@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[262- -8890]-989",
+  "source_id": 22600,
+  "date": "2012-09-20",
+  "title": "İşyeri yaptırmak üzere satın alınan arsa için ödenen proje harcı ve tapu harcı gibi masrafların giderleştirmesi ile mevcut işin yürütülmesi için kullanılan kredilerin kayıt altına alınması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22600",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "25e4a4b5c0cf4fc3a5b9f6e12e8e55facef3162310a09c71d23a2b6caa7daacc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
