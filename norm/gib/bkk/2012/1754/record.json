@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2012/3735",
+  "source_id": 1754,
+  "date": "2012-09-22",
+  "title": "BAZI MALLARDA UYGULANAN ÖZEL TÜKETİM VERGİSİ ORAN VE TUTARLARI İLE TAPU HARÇLARI ORANLARININ BELİRLENMESİ HAKKINDA KARAR",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/bkk/1754",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "d91d22431d95cb4a7338e23e99538eb0c3272eb6eb46cca36db191bbf36ac864",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
