@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "57062627-ÖZEL TÜKETİM VERGİSİ-38",
+  "source_id": 33786,
+  "date": "2012-09-24",
+  "title": "Hastaneye Alınan Minibüs ve Acil Hasta Nakil Ambulansı için ÖTV ve MTV Ödenip Ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33786",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "3bda6978b305bb4301daaab19c3b5e21697592d156a39b9cf9f83e5a5652b187",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
