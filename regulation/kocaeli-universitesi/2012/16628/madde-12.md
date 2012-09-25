@@ -1,0 +1,3 @@
+Danışma kurulu
+MADDE 12 – (1) Müdür ve müdür yardımcıları, Danışma Kurulunun doğal üyeleridir. Danışma Kurulu; yurtiçi ve yurtdışı üniversiteler ve/veya kamu ve özel kuruluşlarda görevli alternatif yakıtlar konusunda Science Citation Index Expanded (SCI-E)’e giren dergilerde yayınları ve/veya patentleri bulunan uzman kişilerden olmak üzere, Yönetim Kurulunun önerisi ile davet edilen üç kişi ile birlikte toplam altı kişiden oluşur. Danışma Kurulunun görev süresi üç yıldır. Süresi biten üyeler yeniden Danışma Kuruluna davet edilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine, kalan süreyi tamamlamak üzere yukarıdaki koşullara uygun bir başka kişi davet edilebilir.
+(2) Danışma Kurulu, Müdürün başkanlığında yılda en az iki defa toplanır.
