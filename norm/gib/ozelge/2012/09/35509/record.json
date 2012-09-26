@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "63611781-492-30",
+  "source_id": 35509,
+  "date": "2012-09-26",
+  "title": "Limited şirketin hem kendi hem de bir başka şirket lehine açılmış ve açılacak krediler ile verilmiş ve verilecek teminat mektupları, kefalet mektupları, kefalete dayalı taahhütlerden doğmuş ve doğacak borçlara ilişkin banka lehine verilmiş ipoteğin kabulü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35509",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "2f137265c5512cdcec2380f91c898709a937240d9469f2e7fb764b87390ff8a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
