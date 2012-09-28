@@ -1,0 +1,25 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Arazinin yeniden düzenlenmesi: Faaliyetler sonucu oluşan boşlukların zemin stabilizasyonunun sağlanması ve faaliyet sonrası kullanım için hazırlanmasını,
+b) (Değişik:RG-28/9/2012-28425) Bakanlık: Çevre ve Şehircilik Bakanlığını,
+c) Basamak/kademe: Yüksek eğimli alanlarda yüzey güvenliği ve ulaşım kolaylığını sağlamak amacıyla kazı yapılarak oluşturulan düzenli yatay ve düşey yüzeyleri,
+ç) Çevresel etki değerlendirmesi (ÇED): Gerçekleştirilmesi planlanan projelerin çevreye olabilecek olumlu ya da olumsuz etkilerinin belirlenmesinde, olumsuz yöndeki etkilerin önlenmesi ya da çevreye zarar vermeyecek ölçüde en aza indirilmesi için alınacak önlemlerin, seçilen yer ile teknoloji alternatiflerinin belirlenerek değerlendirilmesinde ve projelerin uygulanmasının izlenmesi ve kontrolünde sürdürülecek çalışmaları,
+d) Doğaya yeniden kazandırma: Maden arama ve işletme faaliyetleri esnasında veya sonucunda topoğrafyası değişen alanların, çevre emniyetinin sağlanarak ve projesine uygun olarak ıslah edilmesini, ilgili mevzuatta yer alan çevre ile uyumlu hâle getirmeyi ve rehabilitasyonu,
+e) Doğaya yeniden kazandırma planı: Doğaya yeniden kazandırma işleminin tümünü içeren çalışmaları,
+f) Döküm: Kazı sonucu araziden çıkan her türlü katı atık malzemenin projesine uygun olarak araziye bırakılmasını,
+g) Duraylılık: Bir malzeme kütlesinin veya bir yapının maruz kaldığı gerilmenin kalkmasıyla, dönüşümsüz önemli bir deformasyona veya harekete maruz kalmaksızın, uygulanan gerilmeye uzun süre dayanabilmesi koşulunu,
+ğ) Erozyon: Yerkabuğu malzemelerinin su, rüzgâr veya mekanik faktörlerin etkisiyle bir yerden başka yere taşınmasını,
+h) Faaliyet alanı: Faaliyete bağlı olarak kazı, döküm veya depolama amacı ile kullanılması izne bağlanmış ve üzerinde doğaya yeniden kazandırma çalışması yapılacak alanı,
+ı) Havza madenciliği: Entegre bir tesisin ekonomik ömrü süresince ham madde ihtiyacını karşılayabilecek veya sektörel bazda önemli üretim yapılabilecek kapasitede rezerve sahip, bir ya da birden çok rezerv alanından oluşan, rezerv kaybının minimum, üretim verimliliğinin maksimum olabildiği ve uzun yıllara sari projelerin uygulanabildiği madencilik alanlarındaki madenciliği,
+i) (Değişik:RG-28/9/2012-28425) İlgili çevre ve şehircilik il müdürlüğü: İşletmenin bulunduğu ildeki çevre ve şehircilik il müdürlüğünü,
+j) İşletme: Madencilik, kazı, döküm ve düzenleme çalışmalarının yapıldığı iş yerini,
+k) İşletmeci: İşletme çalışmalarını mal sahibi ya da yüklenici olarak yürüten, ruhsat ya da izin veren idari mercie karşı sorumlu olan ve yapılacak düzenleme çalışmalarını yapmakla yükümlü gerçek ya da tüzel kişiyi,
+l) İzleme: İşletme faaliyetleri ile bozulan arazilerin doğaya yeniden kazandırılması sırasında, atık barajlarının, atık harmanlarının, su, toprak ve hava kalitesinin, arazideki erozyon, sedimantasyon ve duraylılığın ve bitkilerin gelişiminin niteliksel ve niceliksel olarak izlenmesi, periyodik aralıklarla denetlenmesi ve yapılan işlerin tutanaklarla belirlenmesini,
+m) Kapatma: İşletme sahasının, doğaya yeniden kazandırma çalışması aşamalarının tamamlanarak sürekli olarak terk edilmesini,
+n) Kazı: Projelerin gerçekleştirilmesi sırasında arazide yapılan ve doğal malzemenin yer değiştirilmesi ile sonuçlanan çalışmaların tümünü,
+o) Madencilik faaliyetleri: Maden ocağı kazı faaliyetleri, patlatma, kırma, yarma, sondaj, kuru veya sulu eleme ve öğütme gibi fiziksel işlemler veya bu işlemlere ilaveten kimyasal işlemler kullanılarak yapılan cevher hazırlama ve zenginleştirme uygulamaları sonrasında, toprak ve kayalar içindeki ekonomik değeri olan malzemeleri elde etmek amacıyla yapılan çalışmaları,
+ö) Ocak: Belirli bir projeye göre yer üstü veya yeraltı maden üretiminin yapıldığı yeri,
+p) Rezervuar: Suyun bir sedde yapısı arkasında biriktirilmesi ile oluşturulan su hacmini,
+r) Tasman: Madencilik faaliyetleri sebebiyle yeraltında oluşan boşluklardan dolayı, üst formasyonların oturması sonucu yeryüzünde meydana gelen çöküntüleri,
+s) Üst toprak: Yüzeydeki veya yüzeye yakın olan verimli toprak tabakasını
+ifade eder.

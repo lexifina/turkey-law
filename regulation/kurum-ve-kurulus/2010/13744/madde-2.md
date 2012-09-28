@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, orman sayılan alanlar, tarım veya mera alanları, (Mülga ibare:RG-28/9/2012-28425) (…) su kaynaklarının korunması ile ilgili mevzuata uyulması şartı ile baraj ve gölet projelerinde rezervuar altında kalacak alanlar dışındaki madencilik faaliyetleri, malzeme ve toprak temini için arazide yapılan kazılar, dökümler ve doğaya bırakılan atıklarla bozulan doğal yapının yeniden kazanılmasına ilişkin usul ve esasları kapsar.

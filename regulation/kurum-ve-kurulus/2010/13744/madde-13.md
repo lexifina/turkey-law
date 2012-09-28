@@ -1,0 +1,3 @@
+Haber verme yükümlülüğü
+MADDE 13 – (1) İşletmeciler, doğaya yeniden kazandırma çalışmaları içerisinde yer alan taahhütlerini yerine getirememeleri veya faaliyetlerini süreli veya süresiz olarak durdurmaları hâlinde bu tarihten itibaren en geç beş iş günü içerisinde ilgili (Değişik ibare:RG-28/9/2012-28425) çevre ve şehircilik il müdürlüğüne haber vermekle yükümlüdürler.
+(2) İşletmeci faaliyet esnasında ortaya çıkan şartlar nedeniyle doğaya yeniden kazandırma çalışmasında bir değişiklik yapması gerektiğinde bu değişikliği ilgili (Değişik ibare:RG-28/9/2012-28425) çevre ve şehircilik il müdürlüğüne en geç beş iş günü içerisinde bildirmekle yükümlüdür.
