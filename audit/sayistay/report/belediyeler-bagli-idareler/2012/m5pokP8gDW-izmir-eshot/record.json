@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "İZMİR ESHOT",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2012,
+  "report_date": "2012-10-01",
+  "date_precision": "month",
+  "date_as_printed": "Ekim 2012",
+  "source": "https://www.sayistay.gov.tr/reports/m5pokP8gDW-izmir-eshot",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/m5pokP8gDW-izmir-eshot",
+  "source_sha256": "15c2e4913622a0308c07ecae72095cc22a4e56d3cfbfdd2d509cd69aeb37a767",
+  "pdf_pages": 10,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=318",
+  "listing_sha256": "090b764ce8cacc94b70ae2c58edc8b8e81bbe761375ac32b29a3bf1e30262503",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2012-10-01",
+  "in_force_basis": "Official report PDF cover: \"Ekim 2012\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
