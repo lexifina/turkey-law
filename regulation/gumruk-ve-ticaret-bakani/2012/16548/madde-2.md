@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, anonim şirket genel kurullarına elektronik ortamda katılmaya, öneride bulunmaya, görüş açıklamaya ve oy kullanmaya ilişkin usul ve esasları, genel kurullara elektronik ortamda katılmaya ve oy vermeye ilişkin esas sözleşme hükmünün örneğini, oyun hak sahibi veya temsilcisi tarafından kullanılmasının esaslarını, Elektronik Genel Kurul Sisteminin işleyiş esaslarını ve bu sistemin katılımcılarının yükümlülüklerini kapsar.

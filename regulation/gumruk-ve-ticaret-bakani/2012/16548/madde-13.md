@@ -1,0 +1,9 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve son hükümler
+Şirketlerin yükümlülükleri
+MADDE 13 – (1) Kanunun 1527 nci maddesi uyarınca genel kurul toplantısına elektronik ortamda katılma ve oy kullanma sistemini uygulayacak şirketler ile bu amaçla destek hizmeti sunacak şirketler, bu Yönetmeliğin diğer maddelerinde belirtilen yükümlülüklerin yanında aşağıda belirtilen yükümlülükleri de yerine getirmek zorundadır:
+a) Şirketler, EGKS'nin bu Yönetmelik ve Kanun hükümlerine uygunluğunu Bakanlık tarafından çıkarılacak Tebliğde belirlenen esas ve usullere uygun olarak tespit ettirip tescil ve ilan ettirmek zorundadır.
+b) Şirketler, varsa organın temsilcisi, bağımsız temsilci ve kurumsal temsilcilerin bilgilerini EGKS’de hak sahiplerinin bilgisine sunar.
+c) Şirketlerin kendisi veya destek hizmeti aldıkları şirketler, EGKS’de yapılan tüm işlemlere ilişkin kayıtları, genel kurula elektronik ortamda katılan hak sahiplerinin ve temsilcilerinin kimlik bilgilerini, elektronik ortamda, bunların gizliliğini ve bütünlüğünü sağlayarak on yıl süreyle saklamak zorundadır. Borsaya kote şirketler için söz konusu saklama zorunluluğu MKK tarafından yerine getirilir.
+ç) Payları MKK tarafından kayden izlenen borsaya kote şirketler, kendileri veya destek hizmeti aldıkları kuruluşlar aracılığıyla genel kurul toplantısına ilişkin görüntü ve ses naklini EGKS’ye aktarmak ve sistemin işleyişine ilişkin olarak Bakanlık tarafından çıkarılacak Tebliğle belirlenecek işleyiş esaslarına uymak zorundadır.
+d) Şirketlerin EGKS’yi kurmak yerine destek hizmeti alımını tercih etmeleri durumunda destek hizmeti alınan şirketler için de birinci fıkranın (a) bendi hükmü uygulanır. EGKS’den kaynaklanan nedenlerle hak sahiplerinin uğrayacağı zararlardan gerek destek hizmeti alan gerek destek hizmeti veren şirketin sorumluluğu genel hükümlere göre belirlenir.

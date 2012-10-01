@@ -1,0 +1,6 @@
+Genel kurula elektronik ortamda katılma bildirimi
+MADDE 7 – (1) Genel kurula elektronik ortamda şahsen veya temsilcileri aracılığıyla katılmak isteyen hak sahipleri bu tercihlerini EGKS’den bildirmek zorundadır.
+(2) Genel kurula hak sahibi yerine temsilcinin katılacağı durumda temsilcinin kimlik bilgisinin EGKS’ye kaydedilmesi zorunludur. Temsilcinin toplantıya fiziki katılacağı durumlarda da yetkilendirme bu şekilde yapılabilir. Hak sahibi temsilci tayin ederken temsilcisini genel olarak yetkilendirebileceği gibi her bir gündem maddesine ilişkin ayrı ayrı da yetkilendirebilir. Katılma haklarını temsilci olarak kullanan kişi, temsil edilenin talimatına uygun oy kullanır.
+(3) Tüzel kişi hak sahipleri adına, birinci ve ikinci fıkra uyarınca EGKS’de yapılacak bildirimlerin tüzel kişi imza yetkilisince Kanunun 1526 ncı maddesinin dördüncü fıkrası gereğince şirket namına kendi adlarına üretilen güvenli elektronik imzayla imzalanması gerekir.
+(4) Bildirimler, hak sahibinin talimatına uygun olarak payların tevdi edildiği kuruluş tarafından da yapılabilir.
+(5) Genel kurul toplantısına elektronik ortamda katılacağını bildiren hak sahibi bu tercihini EGKS’de geri alabilir. Elektronik ortamda katılma yönündeki bu talebini geriye almayan hak sahibi veya temsilcisi genel kurul toplantısına fiziken katılamaz.
