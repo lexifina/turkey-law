@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37009108-DV-2-325/-84",
+  "source_id": 29452,
+  "date": "2012-10-02",
+  "title": "Uluslararası Taşımacılıkta ATİK KDV Yüklenimi Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29452",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "915434fb7c86d68fe395c2a53892128fe68477a9fc49d2791251d864ebc6f8dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
