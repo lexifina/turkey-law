@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-10-03",
+  "issue": "28430",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2012/3690 Türkiye Halk Sağlığı Kurumu Başkanlığının Taşra Teşkilatı Bünyesinde 505 Adet Şube Müdürlüğü Kurulması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121003-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121003.htm",
+  "index_sha256": "03cbc56a58d78d9fefaa52631f1a11c3f06b800838e2544b4e8dc9f48434dbd7",
+  "index_header": "3 Ekim 2012 ... 28430 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
