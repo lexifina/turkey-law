@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-10-05",
+  "issue": "28432",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ASKERÎ YARGITAY İÇTÜZÜĞÜ",
+  "title": "Askerî Yargıtay İçtüzüğünde Değişiklik Yapılmasına Dair İçtüzük",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121005-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121005.htm",
+  "index_sha256": "a6c46ea26feaf4b31bd1c244baaccb3a393b3a5446ba63b1dd5820751b245094",
+  "index_header": "5 Ekim 2012 ... 28432 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
