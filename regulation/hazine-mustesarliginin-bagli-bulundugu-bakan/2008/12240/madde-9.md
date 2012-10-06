@@ -1,0 +1,3 @@
+Savunma amaçlı dış proje kredisi kullanım izleme formu
+MADDE 9 – (Değişik:RG-6/10/2012-28433)
+(1) Kullanıcı kuruluşlar dış proje kredileri ile finansmanı sağlanan savunma harcamaları kapsamında yaptıkları kullanımları ekte yer alan Ek:5 sayılı Savunma Amaçlı Dış Proje Kredisi Kullanım İzleme Formunu kullanım tarihinden itibaren Müsteşarlık Kamu Finansmanı Genel Müdürlüğüne 10 iş günü içinde teyit amacıyla ıslak imzalı olarak veya Müsteşarlık internet sitesinde yer alan Dış Proje Kredileri Bilgi Sistemi vasıtasıyla Müsteşarlıkça belirlenen biçimde 5070 sayılı Kanun hükümleri çerçevesinde elektronik imzalı olarak iletmekle yükümlüdürler.

@@ -1,0 +1,3 @@
+Dış borç kaydı
+MADDE 6 – (1) Dış borç kaydı, Devlet Borçları Muhasebe Birimince proje kredisinin sağlanmış olduğu dış finansman kaynağından gelen bildirimler esas alınarak yapılır.
+(2) Doğrudan dış proje kredisi kullanımlarında; Türkiye Cumhuriyet Merkez Bankası nezdindeki proje özel hesaplarına ve hazine hesabına yapılan aktarımlarda dış finansman kaynağından bildirimin gelmesini takiben ekte yer alan Ek:7 sayılı Genel Bütçe Kapsamındaki İdareler ve Genel Bütçe Kapsamı Dışındaki Kurum ve Kuruluşlar Kullanım Belgesi Müsteşarlık Kamu Finansmanı Genel Müdürlüğünün ilgili birimince hazırlanarak dış borç kaydı yapılmasını teminen Devlet Borçları Muhasebe Birimine gönderilir.

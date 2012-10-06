@@ -1,0 +1,2 @@
+Genel bütçe kapsamındaki kamu idareleri ile genel bütçe kapsamı dışındaki kurum ve kuruluşlar için proje özel hesabı kullanım emri formu
+MADDE 11– (1) Genel bütçe kapsamındaki kamu idareleri ve genel bütçe kapsamı dışındaki kurum ve kuruluşlar Proje Özel Hesabı kullanımlarını, ekte yer alan Ek:3 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ile Genel Bütçe Kapsamı Dışındaki Kurum ve Kuruluşlar İçin Proje Özel Hesabı Kullanım Emri formu ile yaparlar.

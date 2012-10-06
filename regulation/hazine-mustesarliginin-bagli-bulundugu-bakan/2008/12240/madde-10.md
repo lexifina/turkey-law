@@ -1,0 +1,3 @@
+Genel bütçe kapsamı dışındaki kurum ve kuruluşlar dış proje kredisi kullanım izleme formu
+MADDE 10 – (Değişik:RG-6/10/2012-28433)
+(1) Genel Bütçe Kapsamı Dışındaki Kurum ve Kuruluşlar yaptıkları kullanımlara ilişkin ekte yer alan Ek:4 sayılı Genel Bütçe Kapsamı Dışındaki Kurum ve Kuruluşlar Doğrudan Dış Proje Kredisi İzleme Formunu kullanım tarihinden itibaren Müsteşarlık Kamu Finansmanı Genel Müdürlüğüne 10 iş günü içinde kullanımın teyidi amacıyla ıslak imzalı olarak veya Müsteşarlık internet sitesinde yer alan Dış Proje Kredileri Bilgi Sistemi vasıtasıyla Müsteşarlıkça belirlenen biçimde 5070 sayılı Kanun hükümleri çerçevesinde elektronik imzalı olarak iletmekle yükümlüdürler.

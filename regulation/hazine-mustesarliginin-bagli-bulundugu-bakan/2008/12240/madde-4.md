@@ -1,0 +1,18 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Aktarım: Herhangi bir dış finansman kaynağından, anlaşma hükümlerine göre doğrudan veya Müsteşarlık veya kullanıcı ve/veya uygulayıcı kuruluşların talebi üzerine Türkiye Cumhuriyet Merkez Bankası nezdindeki proje özel hesaplarına ve Hazine hesaplarına aktarılan tutarları,
+b) Bakan: Hazine Müsteşarlığının bağlı bulunduğu Bakanı,
+c) Bütçeleştirme: Genel bütçe kapsamındaki kamu idareleri için yılı içinde kullanılacak dış proje kredisi kullanımlarının ilgili bütçe tertiplerinde yer alan ödenekler ile ilişkilendirilmesini; genel bütçe kapsamı dışındaki kurum ve kuruluşlar için dış proje kredisi kullanımları karşılığında bütçe ve muhasebe sistemleri içerisinde ödenek ayrılmasını ve ilgili hesaplarla ilişkilendirilerek gerekli kayıtların yapılmasını,
+ç) Dış borcun ikrazı: Müsteşarlık tarafından herhangi bir dış finansman kaynağından sağlanan dış finansman imkanlarının ekonominin çeşitli sektörlerinde gelişmeyi sağlamak ve/veya finansman ihtiyacını karşılamak üzere genel bütçe kapsamı dışındaki kurum ve kuruluşlar ile yatırım ve kalkınma bankalarına gerektiğinde anlaşmanın mali şartlarına bağlı kalmaksızın aktarılmasını,
+d) Dış borcun tahsisi: Müsteşarlık tarafından herhangi bir dış finansman kaynağından sağlanan dış finansman imkanlarının ekonominin çeşitli sektörlerinde gelişmeyi sağlamak ve/veya finansman ihtiyacını karşılamak üzere, genel bütçe kapsamındaki kamu idarelerine anlaşmadaki amaca sadık kalınarak kullandırılmasını,
+e) Dış finansman kaynağı: Dış finansman sağlayan yabancı ülkeler, ülkelerce oluşturulan birlikler, resmi finansman fonları, uluslararası ve bölgesel kuruluşlar ile uluslararası sermaye ve finans piyasalarında faaliyet gösteren yatırım bankaları da dahil olmak üzere bankalar, satıcı veya alıcı kredisi sağlayan kuruluşlar ile firmalar veya münferiden bunların herbirini,
+f) Dış finansman kod numarası: Kullanıcı ve/veya uygulayıcı kuruluşların, dış proje kredisi ile ilgili işlemlerde ve bildirimlerde, Müsteşarlıktan temin etmek ve kullanmak zorunda oldukları; kullanıcı kuruluşun kodu, proje kodu ve dış finansman numarasının belirtildiği numaralar dizinini,
+g) Dış proje kredisi: Projelerin gerçekleşmesi için herhangi bir dış finansman kaynağından sağlanan finansman imkanını,
+ğ) Hazine hesabı: Türkiye Cumhuriyet Merkez Bankası Ankara Şubesi nezdinde yer alan 85 76..000 nolu döviz hesabını ve 33 01 08 001 nolu Türk Lirası hesabı ile açılacak yeni hesapları,
+h) Muhasebe Birimi: Kullanıcı kuruluş merkez muhasebe birimi veya Genel Bütçe Kapsamı dışında kalan kurum ve kuruluşlarda mali hizmetler birimini,
+ı) Müsteşarlık: Hazine Müsteşarlığını,
+i) Kullanıcı kuruluş: Herhangi bir dış finansman kaynağından sağlanan imkanların tahsis veya ikraz yoluyla kullandırıldığı kuruluşu,
+j) Kullanım: Kullanıcı ve/veya uygulayıcı kuruluşlarca, Türkiye Cumhuriyet Merkez Bankası nezdindeki proje özel hesaplarından ve Hazine hesaplarından yapılan kredi çekişlerini veya kullanıcı ve/veya uygulayıcı kuruluşlarca Hazine hesapları ile ilişkilendirilen kredi çekişlerini veya bunların dışında, doğrudan dış finansman kaynağına başvurmak suretiyle gerçekleştirilen (kullanım tutarı üzerinden hesap edilerek dış finansman kaynağı tarafından kullanıma ilave edilen her türlü komisyon, prim ve ücretler bu tutara dahildir) kredi çekişlerini,
+k) Proje özel hesabı: İlgili anlaşmalara göre, Hazine Müsteşarlığı tarafından Türkiye Cumhuriyet Merkez Bankasında veya uygun görülen diğer bankalarda açtırılan, dış proje kredilerine ilişkin her türlü harcamaların karşılanabildiği her bir proje hesabını,
+l) Uygulayıcı kuruluş: Projenin yürütülmesinden ve uygulanmasından sorumlu kuruluşu,
+ifade eder.

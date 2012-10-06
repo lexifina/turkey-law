@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; genel bütçe kapsamındaki kamu idarelerini, özel bütçeli idareleri, düzenleyici ve denetleyici kurumları ve sosyal güvenlik kurumları ile kamu iktisadi teşebbüslerini, özel hukuk hükümlerine tabi olmakla beraber sermayesinin yüzde ellisinden fazlası kamuya ait olan kuruluşları, fonlar, kamu bankaları, yatırım ve kalkınma bankalarını, büyükşehir belediyelerini, belediyeler ve bunlara bağlı kuruluşlar ile diğer yerel yönetim kuruluşlarını kapsar.

@@ -1,0 +1,2 @@
+Yapılan iadeler
+MADDE 7 – (1) Kullanımlardan ve aktarımlardan dış finansman kaynağına iade edilen tutarlar, dış finansman kaynağının bildirdiği iade tarihi itibariyle Müsteşarlık Kamu Finansmanı Genel Müdürlüğünün ilgili birimi tarafından ekte yer alan Ek:7 sayılı Genel Bütçe Kapsamındaki İdareler ve Genel Bütçe Kapsamı Dışındaki Kurum ve Kuruluşlar Kullanım Belgesi hazırlanarak Devlet Borçları Muhasebe Birimine gönderilir.
