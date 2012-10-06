@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-KVK-2012/3-213",
+  "source_id": 27649,
+  "date": "2012-10-06",
+  "title": "Küçük Sanayi Sitesi Koop.gayrimenkul alımları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27649",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7163bcf2bc4df68fdb21224cc0de9c31647deb441673e72eee9a57aceb50e19e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
