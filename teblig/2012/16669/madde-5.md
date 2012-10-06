@@ -1,0 +1,1 @@
+MADDE 5 – (1) Söz konusu standart, TSE’nin merkez teşkilatından veya il temsilciliklerinden temin edilir. TSE’nin ve il temsilciliklerinin iletişim bilgilerine TSE’nin internet sitesinden ulaşılır.

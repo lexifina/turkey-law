@@ -1,0 +1,1 @@
+MADDE 2 – (1) Türk Standardları Enstitüsü (TSE) tarafından hazırlanan TS EN 10254 “Çelik Dövmeler - Kapalı Kalıpta - Genel Teknik Teslim Şartları” standardı, imalat ve satış safhalarında mecburi standard olarak zorunlu uygulanacaktır.
