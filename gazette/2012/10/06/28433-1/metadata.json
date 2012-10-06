@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-10-06",
+  "issue": "28433",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "1025 Suriye’deki Durumun Oluşturduğu Tehdit ve Riskler Çerçevesinde Hudut, Şümul, Miktar ve Zamanı Hükümetçe Takdir ve Tespit Edilmek Kaydıyla, Türk Silahlı Kuvvetlerinin Yabancı Ülkelere Gönderilmesi ve Görevlendirilmesi ile Gerekli Düzenlemelerin Hükümet Tarafından Belirlenecek Esaslara Göre Yapılması İçin, Anayasanın 92’nci Maddesi Uyarınca Bir Yıl Süreyle İzin Verilmesine Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121006-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121006.htm",
+  "index_sha256": "5fd89306907561bfec238e062f14497aa64262492e96fd74f761ecec3e0da201",
+  "index_header": "6 Ekim 2012 ... 28433 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
