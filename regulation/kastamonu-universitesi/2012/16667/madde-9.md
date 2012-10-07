@@ -1,0 +1,2 @@
+Danışma Kurulu ve görevleri
+MADDE 9 – (1) Danışma Kurulu; bilgi ve deneyim sahibi uzman bilim adamları ve bu alanda çalışmalarda bulunan vakıf ve dernek gibi kurumların temsilcilerinden oluşan en fazla on beş üyeden oluşur. Danışma Kuruluna seçilme ve üyeliğe son verme, Yönetim Kurulunun salt çoğunluğu kararı ile olur. Danışma Kurulu; Müdürün yazılı daveti üzerine yılda en az bir defa toplanır ve salt çoğunluk aranmaksızın Merkezin faaliyet alanları ile ilgili konuları görüşerek tavsiye niteliğinde kararlar alır ve Müdüre yazılı olarak bildirir.
