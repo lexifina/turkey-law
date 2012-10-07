@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-10-07",
+  "issue": "28434",
+  "edition": "regular",
+  "item": 28,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kastamonu Üniversitesi Şeyh Şaban-ı Velî Değerler Eğitimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121007-28.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121007.htm",
+  "index_sha256": "a035bb2e211bdaa0b37b70c1524c3909493a85cba4922d8f41510bfecd2ee3a0",
+  "index_header": "7 Ekim 2012 ... 28434 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
