@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "51421814-120[94-2012/461]-503",
+  "source_id": 23136,
+  "date": "2012-10-08",
+  "title": "Destekleme Ödemelerinde Tevkifat hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23136",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "f13fe58c1f517aebda3707ced9f4ac314a3be4d2e2cf5d35f51daea86149c45b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
