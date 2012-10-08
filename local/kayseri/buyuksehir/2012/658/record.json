@@ -1,0 +1,23 @@
+{
+  "number": "658",
+  "number_as_published": "658",
+  "year": 2012,
+  "title": "Kayseri İl Emniyet Müdürlüğü ile Belediyemiz arasında protokol imzalanması için yetki talebi.",
+  "decision_date": "2012-10-08",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/8-ekim-2012-tarihli-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "ce25d5a098fbeab9fef0d6695802c41c0dc00e467fa2cef25d403829145880ac",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2012-10-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.10.2012; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "8 Ekim 2012 Tarihli Meclis Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=14"
+}
