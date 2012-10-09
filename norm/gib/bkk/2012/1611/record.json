@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2012/3792",
+  "source_id": 1611,
+  "date": "2012-10-09",
+  "title": "BAZI MALLARDA UYGULANAN ÖZEL TÜKETİM VERGİSİ ORAN VE TUTARLARI BELİRLENMESİ HAKKINDA KARARIN GÜNCEL HALİ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/bkk/1611",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "07d008cff03d81d8765897d84f41f614663276bef4084015e005b73e762daaac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
