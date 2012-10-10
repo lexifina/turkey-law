@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4072",
+  "decision_date": "2012-10-10",
+  "title": "Elektrik Piyasasında 2013 yılında uygulanacak iletim ek ücretine ilişkin 4072 No’lu Kurul Kararı",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q4YfEva2rwM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q4YfEva2rwM="
+  ],
+  "source_sha256": "afaf0da11816dda9be3cd033d81002e22f260f372b4e6284a1d9d7d8a716ca00",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-10-10",
+  "law_text_complete": false
+}
