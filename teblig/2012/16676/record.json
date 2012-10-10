@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.16676",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İÇME SUYU TEMİN EDİLEN AKİFER VE KAYNAKLARIN KORUMA ALANLARININ BELİRLENMESİ HAKKINDA TEBLİĞ",
+  "number": "16676",
+  "issuer": "DSİ Genel Müdürü",
+  "path": "teblig/2012/16676",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16676&MevzuatTertip=5",
+  "source_sha256": "7f6c802351f5dad8efd808534654b8cbd67181669a3219be98633f158b483843",
+  "source_bytes": 41446,
+  "published": "2012-10-10",
+  "gazette": "28437",
+  "in_force": "2012-10-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.10.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1575,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16676-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
