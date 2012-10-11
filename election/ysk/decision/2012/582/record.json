@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2012/582",
+  "list_number": "582",
+  "decision_date": "2012-10-11",
+  "title": "Sulama Birliği seçimleri ile ilgili Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2632/2012-582.pdf",
+  "source_sha256": "63166d965bf9034b9c7f7c987763288e52f1a480b16020b6b074d1809d6706bf",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2012-10-11",
+  "law_text_complete": false
+}
