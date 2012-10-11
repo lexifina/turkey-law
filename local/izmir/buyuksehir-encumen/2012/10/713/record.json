@@ -1,0 +1,22 @@
+{
+  "number": "713",
+  "number_as_published": "713",
+  "year": 2012,
+  "title": "Encümen kararı 2012/713",
+  "decision_date": "2012-10-11",
+  "source": "https://www.izmir.bel.tr/tr/Encumen/TariheGoreKararGetir?draw=1&start=0&length=500&yil=2012&ay=&gun=&txtSozcuk=",
+  "official_document": null,
+  "source_sha256": "e6c77348c98f32bf528bbd9fa24659543ac3398bf36292e61946a9f53524a20f",
+  "issuer": "İzmir Büyükşehir Belediye Encümeni",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2012-10-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11/10/2012; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.izmir.bel.tr/tr/EncumenKararlari/50"
+}
