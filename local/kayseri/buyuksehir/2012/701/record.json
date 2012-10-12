@@ -1,0 +1,23 @@
+{
+  "number": "701",
+  "number_as_published": "701",
+  "year": 2012,
+  "title": "Kocasinan Belediye Meclisinin, 01.10.2012 tarih, 197, 198, 199, 200, 202, 203, 204 sayılı kararlarının incelenmesi talebi.",
+  "decision_date": "2012-10-12",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/12-ekim-2012-tarihli-meclis-kararlari-ozeti",
+  "official_document": null,
+  "source_sha256": "0f6454032481407b415b6994397ff06aff587fbd6b9077a3845b888938e633df",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2012-10-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.10.2012; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "12 Ekim 2012 Tarihli Meclis Kararları Özeti",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=14"
+}
