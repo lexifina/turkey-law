@@ -1,0 +1,4 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Yönetim Kurulu tarafından önerilen ve Rektör tarafından görevlendirilen, Üniversite içinden ve dışından konu ile ilgili kamu ve özel sektördeki kuruluşların temsilcilerinden oluşur. Rektör ve Rektör yardımcıları Danışma Kurulunun doğal üyeleridir.
+(2) Rektör ve Rektör yardımcıları dışında, bu maddenin birinci fıkrası gereğince belirlenmiş üyelerin görev süresi üç yıl olup süresi dolanlar aynı yöntemle yeniden seçilebilirler. Görev süresi içinde ayrılanların yerine, kalan görev süresini tamamlamak üzere aynı yöntemle yeni üye seçilir.
+(3) Danışma Kurulu, Rektörün başkanlığında yılda en az iki kez toplanır. Toplantılar üye tam sayısının salt çoğunluğu ile yapılır ve kararlar oy çokluğu ile alınır. Oyların eşitliği halinde başkanın oyu yönünde çoğunluk sağlanmış sayılır. Danışma Kurulunun sekretaryasını Kurulun oyları ile seçilen bir öğretim üyesi yürütür.
