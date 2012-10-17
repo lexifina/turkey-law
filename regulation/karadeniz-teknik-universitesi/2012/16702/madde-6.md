@@ -1,0 +1,20 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Ana dili olarak Türkçenin öğretimi üzerine uygulama ve araştırmalar yapmak,
+b) Yabancı dil olarak Türkçenin öğretimi üzerine uygulama ve araştırmalar yapmak,
+c) Türk dilini ikinci dil olarak öğrenmek isteyenlere seviye belirleme sınavları yaparak bunların sonucuna göre dili doğal ortamında kazandırmaya yönelik öğretim programları hazırlamak ve uygulamak,
+ç) Merkezin amacı doğrultusunda araştırma ve uygulamaları teşvik etmek; seminer, kurs ve toplantılar düzenlemek; talep halinde resmî veya özel kurum ve kuruluşların personeline yazışma ve konuşma eksiklerini tamamlayıcı kurslar düzenlemek, bu amaçla gerektiğinde Sürekli Eğitim Merkezi ile de işbirliği yapmak, seminerler vermek ve bunları sertifika ile belgelemek,
+d) Yurt içi ve yurt dışındaki üniversiteler ve ilgili kamu kurum ve kuruluşları ile Türkçenin öğretimi konusunda çalışmalar yaparak ortak eğitim-öğretim, araştırma, uygulama ve yayın faaliyetlerinde bulunmak,
+e) Yurtdışındaki üniversitelerin Türkoloji, Türkiye ve Osmanlı Çalışmaları, Karşılaştırmalı Edebiyat ve Ortadoğu Araştırmaları bölümleri/enstitüleri öğrencilerine ve Türkiye’deki üniversitelerin Türk dili ve edebiyatı, Türk dili ve edebiyatı öğretmenliği, Türkçe öğretmenliği, dilbilim ve çağdaş Türk lehçeleri ve edebiyatları bölümü son sınıf öğrencilerine ve mezunlarına meslekî tecrübeye yönelik uygulama programları düzenlemek, staj yaptırmak, gerektiğinde bu çalışmalarla ilgili sertifikalar vermek,
+f) Sonradan Türkiye Cumhuriyeti vatandaşı olan yabancı uyrukluların, Türkiye’ye dönüş yapan göçmenlerin, onların çocuklarının ve çalışma/evlilik gibi sebeplerle Türkiye’ye gelenlerin kültürel oryantasyonlarına ilişkin programlar hazırlamak ve uygulamak, etkinlikler düzenlemek,
+g) Türkçeyi öğreten ve Türkiye’yi tanıtan film, ses ve görüntülü kasetler hazırlamak; kitap, dergi, bülten, rapor, proje, broşür yayımlamak,
+ğ) Türk dilinin öğretimi ile ilgili dil bilimsel yöntem ve teknikleri geliştirmek ve bunları uygulamak, dil öğretiminin daha verimli hâle getirilmesi için Türkçe ile diğer dillerin öğretimi arasında karşılaştırmalı çalışmalar yapmak,
+h) Türkçe öğretimini yurt dışında yaşayan üçüncü kuşak Türk gençleri için uzaktan eğitimle verecek programlar düzenlemek; gerektiğinde Türk dili içerikli servis dersleri için uzaktan eğitim programları hazırlamak,
+ı) Gerektiğinde Türk dili içerikli servis dersleri için uzaktan eğitim programları hazırlamak,
+i) Türk dilinin dünya dilleri arasındaki yeri, önemi, mevcut ve gelecekte karşılaşabileceği sorunlar ve öğretilmesi konusunda ulusal ve uluslararası bilimsel toplantılar, konferanslar düzenlemek ve öneriler getirmek,
+j) Türk dilinin doğru ve etkili kullanımının sağlanması için basın yayın organları ve diğer eğitim kurumları ile işbirliği yapmak,
+k) Dilin en önemli kültür taşıyıcılarından biri olması özelliğinden hareketle Türk dilinin öğretilmesi çalışmalarında Türk kültürünün tanıtılması hususunun değerlendirilmesini sağlamak,
+l) Türkçe eğitimi programları üzerine uygulama ve araştırmalar yapmak,
+m) Türk dilinin tarihsel dönemleri ve çağdaş kolları üzerine araştırmalar yapmak, projeler üretmek, Türk dilinin bütün kollarını öğretmeye yönelik programlar ve kurslar düzenlemek,
+n) Türkiye’den yurtdışına eğitim-öğretim ve kültürel amaçlarla gidecek öğrenci, öğretim üyesi ve çeşitli sivil toplum kuruluşlarından veya gruplardan talepte bulunacak kişi veya gruplara, gidilecek ülke ile ilgili dil eğitimi vermek ve kültürel oryantasyon programları hazırlamak,
+o) Yabancı dil ve kültürlere ilişkin öğretim programları düzenlemek.
