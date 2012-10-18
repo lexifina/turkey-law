@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 4 – (1) 5/11/2011 tarihli ve 28106 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2011/20) ile mevcut önlemlerin yürürlükte kalma sürelerinin sona ereceği ve bahse konu ürünün yerli üreticilerinin mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir başvuru ile bir NGGS açılması talebinde bulunabilecekleri ilan edilmiştir.
+(2) Bu çerçevede yapılan başvurunun incelenmesi neticesinde, ÇHC menşeli önleme konu ürün için uygulanan dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir NGGS açılması için yeterli delillerin bulunduğu anlaşılmıştır.
