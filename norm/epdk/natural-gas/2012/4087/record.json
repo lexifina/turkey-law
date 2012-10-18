@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4087",
+  "decision_date": "2012-10-18",
+  "title": "Enerji Piyasası Düzenleme Kurulu'nun 23/08/2012 tarihli ve 3982-2 sayılı Kurul Kararı ile belirlenen BOTAŞ iletim kapasite başvuruları için en son başvuru tarihinin 16 Kasım 2012 (dahil) tarihine ötelenmesine ilişkin",
+  "resmi_gazete_date": "2012-10-20",
+  "resmi_gazete_number": "28447",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=i3NcNpaBPx8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=i3NcNpaBPx8="
+  ],
+  "source_sha256": "9a1ccb0edb286766bb6d3155f76ad15e0d2a3cf68856079ffd3ab8e72ef44cd0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-10-18",
+  "law_text_complete": false
+}
