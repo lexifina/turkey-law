@@ -1,0 +1,3 @@
+Damga vergisi
+
+488 sayılı Damga Vergisi Kanunu’nun 12. maddesinde, yabancı para üzerinden tanzim edilen damga vergisine tabi kağıtların Maliye Bakanlığı’nca tayin ve ilan edilecek fiyat üzerinden Türk parasına çevrileceği ve ona göre damga vergisi alınacağı belirtilmiş olmasına rağmen, Euro üzerinden yapılan ihaleler için düzenlenen ihale kararları ve sözleşmelere ilişkin damga vergilerinin, Maliye Bakanlığının konu ile ilgili olarak çıkardığı 35 seri no.lu Damga Vergisi Genel Tebliğine aykırı olarak, damga vergisinin hesabına esas olan kurun hatalı seçilmiş olması ve buna göre de hesaplanıp tahsil edilmesi suretiyle neden olunan ............. TL tutarındaki kamu zararı ahizlerinden tahsil edilmiş olduğundan ilişilecek husus kalmadığına .... oy birliğiyle karar verildi.
