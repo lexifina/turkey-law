@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "1",
+  "decision_date": "2012-10-18",
+  "source_id": 14798,
+  "chamber": "5",
+  "ilam_number": "2",
+  "item_number": 45,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14798/",
+  "source_sha256": "122003b87297b7e34e8640c2da60884e4d9ec3477ebc1ba690d2b82de542c734",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
