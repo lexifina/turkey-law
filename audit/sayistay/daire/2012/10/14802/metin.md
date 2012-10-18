@@ -1,0 +1,3 @@
+İhale işlemleri
+
+............. Büyükşehir Belediyesi tarafından Yüklenici ..............A.Ş.’ye yaptırılan “.............. işi” nde; ihaleye katılamayacak olanlardan olduğu halde .............A.Ş.’nin, 4734 sayılı Kamu İhale Kanununun “İhaleye katılamayacak olanlar” başlıklı 11. maddesi hükmüne aykırı olacak şekilde, söz konusu ihaleye katılıp ihaleyi kazanmış olmasına rağmen, yatırmış olduğu teminatın gelir kaydedilmesi yaptırımının uygulanmaması sonucunda neden .............TL tutarındaki kamu zararı ............. tarih ve ............yevmiye numaralı muhasebe işlem fişi ile, Yüklenici (Ahiz) .............A.Ş.’den tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle karar verildi.
