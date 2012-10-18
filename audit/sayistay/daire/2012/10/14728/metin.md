@@ -1,0 +1,5 @@
+Gecikme cezası
+
+............... A.Ş. yüklenimindeki “..............” işinde; söz konusu İş 108 gün gecikmeyle bitirilmiş olduğu halde, İşe ait sözleşmenin 16.1.1. maddesinde ki;
+
+“Yüklenicinin işi süresinde bitirmemesi durumunda, idare tarafından en az on gün süreli yazılı ihtar yapılarak gecikilen her takvim günü için sözleşme bedelinin 0,001 (binde biri) oranında ceza kesilecektir. Ancak, gecikmeden kaynaklanan aykırılığın işin niteliği gereği giderilmesinin mümkün olmadığı hallerde, 4735 sayılı Kanunun 20 nci maddesinin (b) bendi göre protesto çekmeye gerek kalmaksızın, sözleşme idarece feshedilebilecek, sözleşmenin feshedilmemesi halinde ise sözleşme bedelinin 0,001 (binde biri) oranında ceza kesilecektir.” şeklindeki düzenlemenin gereği olarak, gecikme cezasının uygulanmaması sonucunda sebep olunan ..............TL tutarındaki kamu zararı .............. tarih ve .............. yevmiye numaralı muhasebe işlem fişi ile Yüklenici (Ahiz)............... A.Ş.’den tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle karar verildi.
