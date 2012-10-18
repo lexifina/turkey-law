@@ -1,0 +1,4 @@
+Başvuru konusu madde
+MADDE 2 – (1) Başvuru konusu eşya, 55.08, 55.09, 55.10, 55.11 (5509.52, 5509.61, 5509.91 ve 5510.20 hariç) gümrük tarife pozisyonlarında (GTP) sınıflandırılan sentetik ve suni devamsız liflerden iplikler (kesik elyaf ipliği)’dir.
+(2) Kesik elyaf ipliği, %100 sentetik veya suni devamsız elyafın veya bunların birbirleriyle veya doğal elyaflarla muhtelif oranlarda karışımlarının eğrilmesiyle elde edilen ve ağırlığını sentetik veya suni elyafın oluşturduğu ipliklerdir. Şikayete konu ürün, kesim uzunluğu, numara, parlaklık, erime ısısı ve kalite gibi faktörlere bağlı olarak çeşitlilik göstermektedir. Söz konusu ürün, genel olarak kumaş, halı, döşeme/kaplama ve hazır giyim imalatlarında kullanılmaktadır.
+(3) Bahse konu GTP’ler, yalnızca bilgi amaçlı verilmiş olup, bağlayıcı mahiyette değildir.

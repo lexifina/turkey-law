@@ -1,0 +1,3 @@
+Piyasa ekonomisinin uygulandığı üçüncü ülkenin seçimi
+MADDE 7 – (1) Yönetmeliğin 7 nci maddesi hükümleri çerçevesinde, Vietnam için bu aşamada Türkiye’nin serbest piyasa ekonomisi uygulayan emsal üçüncü ülke olarak seçilmesi düşünülmektedir.
+(2) Ancak Vietnam’da soruşturmaya tabi üretici veya üreticilerin, soruşturma konusu ürünün üretiminde ve satışında Yönetmeliğin ek 1 inci maddesindeki ölçütler çerçevesinde piyasa ekonomisi koşullarının geçerli olduğunu Tebliğin 9 uncu maddesinde belirtilen süre içinde yeterli deliller ile ispat etmesi halinde bu üretici veya üreticiler için normal değerin tespitinde Yönetmeliğin 5 inci maddesi uygulanır.
