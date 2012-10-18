@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-10-18",
+  "issue": "28445",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2012/3840 Kamu İktisadi Teşebbüsleri ve Bağlı Ortaklıklarının 2013 Yılına Ait Genel Yatırım ve Finansman Programı Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121018-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121018.htm",
+  "index_sha256": "dbdf06d08bd5b1ee864367b3f40dc840f9461ee9e8a386593edcd86f643107d3",
+  "index_header": "18 Ekim 2012 ... 28445 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
