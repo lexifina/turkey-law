@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4085/2",
+  "decision_date": "2012-10-18",
+  "title": "Elektrik Piyasası Lisans, OSB Dağıtım ve OSB Üretim Lisans Başvurularında Sunulması Gereken Bilgi ve Belgeler Listesi Hakkında",
+  "resmi_gazete_date": "2012-11-15",
+  "resmi_gazete_number": "28468",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IoIZZWXkrxY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IoIZZWXkrxY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ThDc80WBn20=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=k4WY+t4vIx0="
+  ],
+  "source_sha256": "db40081c8ebc969dbb4efb1f349ea9e4004986de8f040f2b801d69a50b3619e4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-10-18",
+  "law_text_complete": false
+}
