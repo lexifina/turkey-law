@@ -1,0 +1,11 @@
+Lojman kira gelirleri
+
+.............. Belediyesine tahsis edilen, mülkiyeti Büyükşehir Belediyesine ait belediye lojmanlarından elde edilen lojman kira gelirlerinin Büyükşehir Belediyesine aktarılmamasına bağlı olarak .............. Büyükşehir Belediyesinin gelir kaybına uğraması sonucunda ............... TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+............. Belediyesi Lojman Emanetleri Yardımcı Defterinin incelenmesi neticesinde, mülkiyeti ............. Büyükşehir Belediyesine ait belediye lojmanlarından elde edilen ...............TL tutarındaki lojman kira gelirlerinin ..............Büyükşehir Belediyesine aktarılmayarak ilgili Belediyenin 333 numaralı emanetler hesabında bekletildiği tespit edilmiştir.
+
+Ancak, söz konusu lojman kira gelirlerinin .............. Büyükşehir Belediyesine aktarılmayarak .............. Belediyenin 333 numaralı emanetler hesabında bekletilmiş olmasının, iddia edildiği üzere, kamu zararına neden olduğu görüşüne katılmak mümkün değildir. Öncelikle, söz konusu lojman kiralarının tahsil edilmiş olması suretiyle kamu kaynaklarındaki eksilişin önüne geçilmiş olduğundan, ortada 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 71. maddesinde tanımlanan anlamda bir kamu zararı bulunmamaktadır. Diğer bir ifade ile herhangi bir kamu zararı oluşmamıştır. 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 71. maddesinde, kamu zararı; “Kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasıdır” şeklinde tanımlanmıştır. Bu tanımlama esas alındığında, belirtilen lojman kiralarının tahsil olması sebebiyle, kamu kaynağında eksilme veya artışa engel bir durum ve tazmine konu bir husus bulunmamaktadır.
+
+Eksik olan uygulama ise, emanet hesabında toplanan paraların mevzuatına uygun olarak ............. Büyükşehir Belediyesine aktarılmamış olmasıdır. Daha sonra gerçekleştirilen yazışma neticesinde (yapılan idari işlem ile), söz konusu .............. TL .............. Büyükşehir Belediyesine aktarılmıştır. Dolayısıyla, herhangi bir kamu zararı oluşmamıştır.
+
+Bu itibarla, kamu zararı oluşmayan .............. TL ile ilgili olarak ilişilecek husus bulunmadığına oybirliğiyle karar verildi.
