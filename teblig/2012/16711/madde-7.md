@@ -1,0 +1,4 @@
+Bakanlık izninden sonra yapılacak işlemler
+MADDE 7 – (1) Kayıtlı sermaye sistemine geçmek için Bakanlıktan izin alındıktan sonra genel kurul usulüne uygun olarak toplantıya çağrılır. Genel kurul, Kanunun 421 inci maddesinin birinci fıkrasındaki nisaplarla, şirketin kayıtlı sermaye sistemine geçilmesine ilişkin esas sözleşme değişikliklerini karara bağlar.
+(2) Kayıtlı sermaye sistemine geçiş, yönetim kuruluna verilen yetki süresinin uzatılması veya kayıtlı sermaye tavanının artırılmasına ilişkin olarak yapılacak esas sözleşme değişikliklerinin, imtiyazlı pay sahiplerinin haklarını ihlal edici nitelikte olması halinde, bu kararın anılan pay sahiplerinin yapacakları özel bir toplantıda onanması zorunludur. Bu durumda Kanunun 454 üncü maddesi hükmü uygulanır.
+(3) Genel kurulca onaylanan esas sözleşme değişiklikleri ticaret siciline tescil ve ilan ettirilir.
