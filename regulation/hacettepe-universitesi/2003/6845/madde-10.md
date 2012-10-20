@@ -1,0 +1,2 @@
+Merkez Danışma Kurulu
+Madde 10 — Merkez Danışma Kurulu, Merkezin faaliyetleri ile ilgili olarak değerlendirmede bulunan ve istişari nitelikte görüş bildiren kuruldur. Danışma Kurulu, konuyla ilgili öğretim elemanları ve Merkezin çalışma alanlarına katkıda bulunabilecek kamu ve özel kurum ve kuruluşların, Merkez Yönetim Kurulunca belirlenecek temsilcilerinden oluşur. Merkez Danışma Kuruluna, Merkez Müdürü başkanlık eder. Danışma Kurulu üyelerinin atanması ve görev süresi Yönetim Kurulu üyeleri gibidir. Danışma Kurulu yılda en az bir kez Merkez Müdürünün çağrısıyla toplanır.

@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 12 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2003-05-22",
+      "22.05.2003",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2012-10-20",
+      "RG-20/10/2012-28447",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-10-20",
+      "RG-20/10/2012-28447",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-20/10/2012-28447",
+  "first_law": null,
+  "gazette": "25115",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-10-20",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2003/6845",
+  "published": "2003-05-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6845&MevzuatTertip=5",
+  "source_bytes": 23434,
+  "source_id": "8.5.6845",
+  "source_sha256": "3563e0f0b3c311075f66a08b5b2b12b9cf4044ce22c63b7a755e2c67d3f46605",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ YAŞAM BOYU ÖĞRENME MERKEZİ YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 807
+}
