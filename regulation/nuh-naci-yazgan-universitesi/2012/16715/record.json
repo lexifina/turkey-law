@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-10-21",
+      "21.10.2012",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28448",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-10-21",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Nuh Naci Yazgan Üniversitesi",
+  "issuer_slug": "nuh-naci-yazgan-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/nuh-naci-yazgan-universitesi/2012/16715",
+  "published": "2012-10-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16715&MevzuatTertip=5",
+  "source_bytes": 19094,
+  "source_id": "8.5.16715",
+  "source_sha256": "fd7cea5baa5085fe94665fd30c6a43eb89cddae46c650716a679de6f3918e4ce",
+  "text_status": "as-enacted",
+  "title": "NUH NACİ YAZGAN ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 330,
+  "word_count": 735
+}

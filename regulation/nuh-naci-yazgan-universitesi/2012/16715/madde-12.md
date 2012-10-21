@@ -1,0 +1,2 @@
+Müdür yardımcısı
+MADDE 12 – (1) Rektör, Müdürün teklifi üzerine, Üniversitenin aylıklı öğretim üyeleri arasından en fazla iki öğretim üyesini müdür yardımcısı olarak görevlendirir. Süresi dolan müdür yardımcısı yeniden görevlendirilebilir. Müdürün görevi bitince müdür yardımcısının da görevi sona erer. Müdürün katılamadığı toplantılara görevlendireceği müdür yardımcısı katılır ve Müdürün görevde bulunmadığı sürelerde Müdüre vekâlet eder. Müdürün daveti üzerine, müdür yardımcıları Yönetim Kurulu toplantılarına oy hakkı olmadan katılabilir.

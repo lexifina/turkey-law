@@ -1,0 +1,2 @@
+Müdürün görevleri
+MADDE 11 – (1) Müdür, Yönetim Kurulunun aldığı kararları ve hazırladığı çalışma programını uygular, fakülte, enstitü, yüksekokul ve Rektörlüğe bağlı bölüm başkanlıklarındaki Koordinasyon Grupları ile işbirliği ve koordinasyonu sağlar. Merkezin amaçları doğrultusunda, projeler hazırlar veya hazırlatır, ihalelere katılır ya da Merkezin ihalelere katılımını sağlar, sözleşmeler yapar. Her faaliyet dönemi sonunda bir faaliyet raporu hazırlar ve bu raporu, Yönetim Kurulunda görüşüldükten sonra Rektörlüğe sunar.
