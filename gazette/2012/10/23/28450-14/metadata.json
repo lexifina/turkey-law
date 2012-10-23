@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-10-23",
+  "issue": "28450",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "İşkolu Tespit Kararı (No: 2012/59)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121023-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121023.htm",
+  "index_sha256": "e5ee89b2c01cfff82331bca262748d55f1e4c0f4d764ee5625bda9a44d9869e3",
+  "index_header": "23 Ekim 2012 ... 28450 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121023.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
