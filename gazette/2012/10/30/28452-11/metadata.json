@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-10-30",
+  "issue": "28452",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Süleyman Demirel Üniversitesi Yabancı Diller Yüksekokulu Yabancı Dil ve Hazırlık Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121030-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121030.htm",
+  "index_sha256": "e5139085e5be9ebdc91dcf88dcd4eb55dbe4e4a8ceefa89231cd8cf7044022fd",
+  "index_header": "30 Ekim 2012 ... 28452 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/10/20121030.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
