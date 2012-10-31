@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76071283-2012-3065-9-16",
+  "source_id": 35229,
+  "date": "2012-10-31",
+  "title": "Arsa Karşılığı İşyeri Teslimi, KDV Tevkifatı, Ödemede Damga Vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/35229",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "0fb40ca58eb29d93b0479c52613a5d141dd1f70be4bf8ee33fd08d8e642e06a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
