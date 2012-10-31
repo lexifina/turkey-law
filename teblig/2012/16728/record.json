@@ -1,0 +1,34 @@
+{
+  "source_id": "9.5.16728",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİ YÖNETMELİĞİ (89/106/EEC) KAPSAMINDA CPC BELGELENDİRME MUAYENE VE DENEY HİZMETLERİ TİC. LTD. ŞTİ.NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (TEBLİĞ NO: MHG/2012-10)",
+  "number": "16728",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2012/16728",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16728&MevzuatTertip=5",
+  "source_sha256": "9844e7184297c95096ef5f65509b7dfead86c9006b680779b09a3132eec1e1fe",
+  "source_bytes": 59701,
+  "published": "2012-10-31",
+  "gazette": "28453",
+  "in_force": "2012-10-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.10.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 836,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://ec.europa.eu/enterprise/newapproach/nando/index.cfm?fuseaction=notification.html&ntf_id=241841&version_no=1",
+    "http://ec.europa.eu/enterprise/newapproach/nando/index.cfm?fuseaction=notification.html&ntf_id=215021&version_no=25"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

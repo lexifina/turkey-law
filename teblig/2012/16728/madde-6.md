@@ -1,0 +1,20 @@
+Yürütme
+MADDE 6 – (1) Bu Tebliğ hükümlerini Çevre ve Şehircilik Bakanı yürütür.
+EK-1
+MHG/2012-09 Numaralı Tebliğ Çerçevesinde
+CPC Belgelendirme Muayene ve Deney Hizmetleri Tic. Ltd. Şti’nin
+Görevlendirme Kapsamı
+Komisyon Karar No. | Ürün Ailesi, Ürün/Kullanım Amacı | Uygunluk Teyit Sistemi | Şartnameler* | Görevler
+97/555/EC | Özel çimentolar, kapsam: - Düşük ısılı çimento -Sülfat dirençli çimento - Beyaz çimento - Deniz suyuna dirençli çimento -Düşük alkali çimento (Yapım işlerinde ve yapı malzemelerinin üretiminde kullanılacak beton, harç, sulu harç ve diğer karışımların hazırlanması) | Sistem 1+ | TS EN14216:2010 TS EN 15743:2010 | Ürün Belgelendirme Kuruluşu
+97/555/EC | Kalsiyum alüminat çimentoları (Yapım işlerinde ve yapı malzemelerinin üretiminde kullanılacak beton, harç, sulu harç ve diğer karışımların hazırlanması) | Sistem 1+ | TS EN 14647:2010 TS EN 14647/AC:2010 | Ürün Belgelendirme Kuruluşu
+97/555/EC | Harç çimentoları (Yapım işlerinde ve yapı malzemelerinin üretiminde kullanılacak beton, harç, sulu harç ve diğer karışımların hazırlanması) | Sistem 1+ | TS EN 413-1:2011 | Ürün Belgelendirme Kuruluşu
+97/555/EC | Yapı kireçleri, kapsamı: -Kalsiyum kireçler -Dolomit kireçler -Su bazlı kireçler (Yapım işlerinde ve yapı malzemelerinin üretiminde kullanılacak beton, harç, sulu harç ve diğer karışımların hazırlanması) | Sistem 2+ | TS EN 459-1:2011 TS EN 459-1:2012 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+97/555/EC | Genel çimentolar, kapsam: - Portland çimentosu. -Portland katkılı çimentolar: Portland-cüruf çimentosu(A-S ve B-S) Portland-silis dumanı çimentosu (A-D) Portland-puzolan çimentosu ( doğal A-P, doğal B-P, yapay A-Q, yapay B-Q) Portland-uçucu kül çimentosu (silikalı A-V, silikalı B-V, kalkerli A-W, kalkerli B-W) Portland-(killi şist) pişirilmiş şeyl çimentosu (A-T ve B-T) Portland-kireçtaşı çimentosu (A-L ve B-L) Portland-kompoze çimento (A-M ve B-M) -Yüksekfırın çimentoları (A, B, ve C) - Puzolanik çimentolar (A ve B) - Kompoze çimentolar (A ve B) | Sistem 1+ | TS EN 197-1:2011 TS EN 197-1:2012 | Ürün Belgelendirme Kuruluşu
+98/598/EC (2/2) | Agregalar: - Bitümlü karışımlar ve yüzey uygulamaları için (Yollar ve diğer altyapı işlerinde) | Sistem 2+ | TS EN 13043:2004 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC (2/2) | Agregalar: Kuşanıktaşlar (Su yapıları ve diğer altyapı çalışmalarında.) | Sistem 2+ | TS EN 13383-1:2004 TS EN 13383-1/AC:2007 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC (2/2) | Agregalar: Demiryolu balastı (Demiryolu işlerinde) | Sistem 2+ | TS 7043 EN 13450:2004 TS7043EN13450/AC:2006 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC (2/2) | Agregalar: Beton, harç ve enjeksiyon için agregalar ve dolgu malzemeleri (Yapılar, yollar ve diğer altyapı işlerinde) | Sistem 2+ | TS706 EN 12620+A1:2009 TS 1114 EN 13055-1:2004 TS EN 13055-1/AC:2006 TS 2717 EN 13139:2005 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC (2/2) | Agregalar: Bağlı olmayan ve hidrolik bağlı olan karışımlar için (Yol ve diğer altyapı işlerinde) | Sistem 2+ | TS EN 13242+A1:2009 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+99/469/EC (1/2) | Katkı maddeleri (Beton, harç ve çimento şerbeti için) | Sistem 2+ | TS EN 934-2:2011 TS EN 934-3:2011 TS EN 934-4:2011 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+99/469/EC (1/2) | -Katkılar (tip II) (Beton, harç ve çimento şerbeti için) | Sistem 1+ | TS EN 450-1+A1:20008 | Ürün Belgelendirme Kuruluşu
+*Standardın nihai versiyonu dikkate alınarak Belgelendirme faaliyeti gerçekleştirilecektir. Ancak, Standardın yeni bir versiyonunun Türk Standartları Enstitüsü (TSE) tarafından yayımlanması halinde imalatçı, Onaylanmış Kuruluş ile temasa geçerek yeni bir değerlendirme gerekip gerekmeyeceğini danışmalıdır. Onaylanmış Kuruluşun görevlendirme kapsamında bulunan Standartlarda meydana gelen değişiklikler TSE’nin internet sitesinden ve Yapı Malzemeleri Yönetmeliği (89/106/EEC) Kapsamında Uygulanacak Teknik Şartnamelerin Yayımlanması Hakkında Tebliğ (Tebliğ No:MHG/2012-09)’den ve bu Tebliğin güncellemesinden oluşan tebliğ değişikliklerinden takip edilir.
