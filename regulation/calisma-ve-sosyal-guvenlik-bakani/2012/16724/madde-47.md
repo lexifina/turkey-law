@@ -1,0 +1,5 @@
+İş teftişi rapor türleri
+MADDE 47 – (1) Programlı teftiş raporu, programlı teftişler kapsamında gerçekleştirilen teftişler sonucunda düzenlenen rapordur.
+(2) İnceleme raporu, programlı teftiş kapsamı dışında, çalışma mevzuatı ile ilgili işyerlerinde gerçekleştirilen teftişler sonucu düzenlenen rapordur.
+(3) İdari tedbir raporu, bir işyerinin tesis ve tertiplerinde, çalışma yöntem ve şekillerinde, makine ve cihazlarında işçilerin yaşamı için tehlikeli olan bir husus tespit edilmesi durumunda, işyerlerinde işin durdurulmasına ilişkin ilgili Yönetmelik gereği işlem yapılmak üzere, işin durdurulmasına gerekçe olan mevzuata aykırılıkları içeren rapordur. İşin durdurulması işlemi bu rapor üzerinden yürütülür. Durdurma kararının kaldırılması talepleri üzerine yapılan incelemelerde de aynı usul izlenir.
+(4) Araştırma raporu, programlı teftişler ile program dışı teftişlerin hazırlanması aşamasında gerek görülmesi halinde, belirli bir sektör ya da alanın sorunlarının belirlenmesi amacıyla veya Başkanın gerek gördüğü diğer konularda, Başkanın talimatıyla yürütülen araştırma faaliyetleri sonucunda düzenlenen rapordur.

@@ -1,0 +1,2 @@
+Yazışmalar
+MADDE 69 – (1) Müfettişler, görevleriyle ilgili olarak kamu kuruluşları ile gerçek ve tüzel kişilerle, 18/10/2004 tarihli ve 2004/8125 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Resmî Yazışmalarda Uygulanacak Esas ve Usuller Hakkında Yönetmelik ve standart dosya planına uygun olarak doğrudan yazışma yapabilirler. İş teftişi ile ilgili yazışmalar hariç, Başbakanlığa, bakanlıkların merkez ve yurt dışı birimlerine ve yabancı ülkelere yönelik olarak yapılan yazışmalar ise Başkanlık aracılığıyla genel esaslara göre yapılır.

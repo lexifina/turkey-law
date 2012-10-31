@@ -1,0 +1,10 @@
+Yazılı ve sözlü sınav konuları
+MADDE 22 – (1) Yazılı sınav, üç oturumda ve aşağıda belirtilen konulardan yapılır;
+a) İşin yürütümü yönünden:
+1) Birinci oturum: İş Kanunu, İş Sağlığı ve Güvenliği Kanunu, Basın-İş Kanunu, Deniz-İş Kanunu, Sendikalar Kanunu, Toplu İş Sözleşmesi Grev ve Lokavt Kanunu, Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, İşsizlik Sigortası Kanunu, Türkiye İş Kurumu Kanunu, Yabancıların Çalışma İzinleri Hakkında Kanun, Çıraklık ve Mesleki Eğitim Kanunu, Dernekler Kanunu, Hafta Tatili Kanunu, Ulusal Bayram ve Genel Tatil Günleri Hakkında Kanun, Umumi Hıfzıssıhha Kanunu, İş Mahkemeleri Kanunu ve bunlarla ilgili tüzük ve yönetmelikler.
+2) İkinci oturum: Anayasa hukuku, idare hukuku (genel esaslar, idari yargı, idari teşkilat), ceza hukuku (genel esaslar), ceza usulü hukuku (genel esaslar), kabahatler hukuku, medeni hukuk (aile ve miras hukuku hariç), borçlar hukuku, ticaret hukuku.
+3) Üçüncü oturum: Mikro iktisat, makro iktisat, çalışma ekonomisi, Türkiye ekonomisi, kamu maliyesi, maliye politikası, Türk vergi mevzuatının genel esasları, genel muhasebe, bilanço ve mali tablolar analizi.
+b) İş sağlığı ve güvenliği yönünden:
+1) Birinci oturum: İş sağlığı ve güvenliği mevzuatı (İş Sağlığı ve Güvenliği Kanunu ve ilgili alt mevzuat, Maden Kanunu, Umumi Hıfzıssıhha Kanunu, Radyoloji, Radyum ve Elektrikle Tedavi Müesseseleri Hakkında Tüzük ve diğer ilgili mevzuat).
+2) İkinci oturum: İş Kanunu (genel hükümler), Basın-İş Kanunu, Deniz-İş Kanunu, Sendikalar Kanunu, Toplu İş Sözleşmesi Grev ve Lokavt Kanunu, Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, İşsizlik Sigortası Kanunu, Türkiye İş Kurumu Kanunu, Yabancıların Çalışma İzinleri Hakkında Kanun, Çıraklık ve Mesleki Eğitim Kanunu, Dernekler Kanunu, Hafta Tatili Kanunu, Ulusal Bayram ve Genel Tatil Günleri Hakkında Kanun, Umumi Hıfzıssıhha Kanunu, İş Mahkemeleri Kanunu ve bunlarla ilgili tüzük ve yönetmelikler.
+3) Üçüncü oturum: Anayasa hukuku, idare hukuku (genel esaslar, idari yargı, idari teşkilat), ceza hukuku (genel esaslar), ceza usulü hukuku (genel esaslar), kabahatler hukuku, medeni hukuk (aile ve miras hukuku hariç), borçlar hukuku, ticaret hukuku.

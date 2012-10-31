@@ -1,0 +1,5 @@
+Görevden uzaklaştırmada usul
+MADDE 54 – (1) Herhangi bir personelin görevden uzaklaştırılması sebebiyle işlerin aksamaması için gereken tedbirler birim amirince alınır. Görevden uzaklaştırma keyfiyeti, müfettiş tarafından gerekçesi ile birlikte görevden uzaklaştırılana, birim amirine, aylığının ödendiği birime ve Başkanlığa yazı ile hemen bildirilir.
+(2) Görevden uzaklaştırıldığı halde işini devretmeyip, görevi başında kalmakta ısrar ettiği tutanakla belgelenen personel hakkında, 5237 sayılı Türk Ceza Kanunu gereğince takibat yapılması için müfettiş tarafından derhal, o yerin Cumhuriyet Başsavcılığına müracaat edilir ve düzenlenen tutanak da bu yazıya eklenir.
+(3) Görevden uzaklaştırmanın gereği olan hususların temininde aczi veya ihmali görülen amirler hakkında da müfettiş tarafından ayrıca soruşturma yapılır. Görevden uzaklaştırılması gereken personel hakkında işledikleri suçların türü ve mahiyetine göre kanuni esaslar dâhilinde takibat yapılır.
+(4) Görevden uzaklaştırılan personele ilişkin soruşturma ile ilgili birimlerce bu soruşturmaya ait rapor üzerinde yapılacak işlemin, diğer işlerden öncelikle tamamlanması ve sonuçlandırılması zorunludur.

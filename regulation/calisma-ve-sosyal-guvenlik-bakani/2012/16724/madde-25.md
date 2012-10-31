@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 25 – (1) Sınava katılanlar sınav sonuçlarına yazılı olarak itiraz edebilirler. İtirazlar yazılı veya sözlü sınav sonuçlarının açıklanmasından ve duyurulmasından başlayarak on işgünü içinde bir dilekçe ile sınav kuruluna yapılır. Bu itirazlar, dilekçenin kayda alınmasından itibaren sınav kurulu tarafından incelenir ve sonuç ilgiliye en geç on işgünü içinde yazılı olarak bildirilir.

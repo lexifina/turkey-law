@@ -1,0 +1,8 @@
+Yazılı sınavın yapılması ve değerlendirilmesi
+MADDE 23 – (1) Sınav kurulu, 22 nci maddede belirtilen konulardan yazılı sınav sorularını hazırlar.
+(2) Yazılı sınav soru kağıtları ve cevap anahtarları sınav kurulunca imzalanır. Soru kağıtları, adayların şahitliğinde açılmak üzere kapalı zarfa konarak mühürlenir. Kapalı zarf, salonda gözetmen olarak görevli bulunan müfettişler ile yeteri kadar adayın imzasının bulunduğu tutanak düzenlenerek açılır.
+(3) Adaylar, sınav sorularının cevaplarını sınavdan önce kendilerine dağıtılan ve isim yerleri kapalı olan kağıtlara yazarlar. Sınav kağıtlarına kapalı isim yerleri dışında ad, soyad, adres gibi adayların kimliğini belirtici herhangi bir yazı yazılamaz ve işaret konulamaz. Buna aykırı davrananlar ile kopya çektiği saptananlar veya kopya girişiminde bulunanlar hakkında tutanak düzenlenerek ilgilinin sınavı geçersiz sayılır.
+(4) Sınav bitiminde, gözetmen olarak görevlendirilen müfettişler tarafından, sınavın bitiş saatini, sınava girenlerin ve toplanan kağıtların sayısını ve gerekli görülen diğer hususları belirten bir tutanak düzenlenerek Başkana verilir.
+(5) Yazılı sınav kâğıtları, sınav kurulu üyeleri tarafından ayrı ayrı veya birlikte, kapalı bölümleri açılmadan değerlendirilir.
+(6) Yazılı sınavda başarılı olabilmek için her oturumdan alınan puanın yüz üzerinden altmış puanın altında olmaması şartıyla üç oturumun ortalamasının yüz üzerinden yetmiş puan olması gerekir.
+(7) Altıncı fıkra uyarınca yazılı sınavda başarılı olan adaylar, Bakanlık ilan panosunda ve internet sitesinde bir hafta süreyle ilan edilir ve yazılı sınavdaki başarı sırasına göre sözlü sınava çağrılır. Ayrıca, sözlü sınava katılmaya hak kazanlara, sözlü sınavın yeri, günü ve saatine ilişkin bilgileri içeren tebligat yapılır.

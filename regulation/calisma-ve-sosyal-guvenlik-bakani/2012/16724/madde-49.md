@@ -1,0 +1,3 @@
+Programlı idari teftiş
+MADDE 49 – (1) Programlı idari teftişler; Bakanlık merkez, taşra ve yurtdışı teşkilatı ile bağlı ve ilgili kuruluşların iş, işlem ve süreçlerinin mevzuata uygunluğu ile performans ve kaynakların etkin kullanımını sağlamak ve Bakanlık hizmetlerinin kalitesini artırmaya yardımcı olmak için çözüm ve öneriler geliştirmek amacıyla belirli zaman aralıklarıyla Genel Çalışma Planı çerçevesinde yapılır.
+(2) İdari teftiş programları Bakanlık faaliyetlerinin yürütülmesinde karşılaşılan ve karşılaşılması muhtemel riskler değerlendirilerek ve bu riskler önceliklendirilerek hazırlanır.

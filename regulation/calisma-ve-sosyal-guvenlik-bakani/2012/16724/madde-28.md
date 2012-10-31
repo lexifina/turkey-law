@@ -1,0 +1,4 @@
+Müfettiş yardımcılığına atanma
+MADDE 28 – (1) Müfettiş yardımcılığı giriş sınavı başarı notu; yazılı ve sözlü sınav notlarının aritmetik ortalamasıdır. Müfettiş yardımcılığına, giriş sınavı başarı notu en yüksek olan adaylardan başlanmak suretiyle kadro durumu ve ihtiyaca göre belirlenen yeteri kadar adayın ataması yapılır.
+(2) Giriş sınavı başarı notlarının eşitliği halinde; yazılı sınav notu yüksek olan aday öncelik kazanır. Bu notların da eşitliği halinde sırasıyla Kamu Personeli Seçme Sınavının yabancı dil bölümünden doğru cevap sayısı üstün olanlar ve çalışma tecrübesi olanlar tercih edilir. Diğerleri için sınav sonuçları kazanılmış hak sayılmaz.
+(3) Müfettiş yardımcılığına atanmaya hak kazananlar, Bakanlık ilan panosunda ve internet adresinde ilan edilir ve adaylara tebligat yapılır.

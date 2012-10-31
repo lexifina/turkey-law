@@ -1,0 +1,7 @@
+Başvuruların değerlendirilmesi ve adaylık belgesi
+MADDE 21 – (1) Adayların başvuruları; adayların sınava girebilmek için 16 ncı maddedeki şartları taşıyıp taşımadıkları açısından Başkanlıkça incelenir.
+(2) Başkanlık, başvuruları inceleyerek giriş sınavına katılabilecek adaylara ilişkin listeyi Kamu Personeli Seçme Sınavı puanı en yüksek adaydan başlamak suretiyle düzenler.
+(3) Giriş sınavına çağrılacak aday sayısı, atama yapılacak kadro sayısının yirmi katını geçmemek üzere sınav duyurusunda belirtilir. Son sıradaki adayla aynı puanı alan adaylar da giriş sınavına çağrılır.
+(4) Giriş sınavına katılmaya hak kazanan adaylar, Bakanlık ilan panosunda ve internet sitesinde ilan edilir.
+(5) Giriş sınavına katılmaya hak kazanan adaylara, kimlik bilgileri, sınav yeri ve tarihinin yer aldığı fotoğraflı sınav giriş belgesi verilir. Sınav giriş belgesi, sınav saatine kadar adaylarca teslim alınır veya adayların adreslerine gönderilir. Sınav giriş belgesi olmayan adaylar, giriş sınavına katılamazlar. Adaylar ayrıca yanlarında resmi makamlarca verilmiş bir kimlik belgesi bulundurmak ve sınav görevlilerine göstermek zorundadırlar.
+(6) Giriş sınavına başvuranlardan gerçeğe aykırı beyanda bulunduğu veya belge verdiği tespit edilenlerin sınav sonuçları geçersiz sayılarak atamaları yapılmaz. Atamaları yapılmış olsa dahi iptal edilir ve haklarında 5237 sayılı Türk Ceza Kanununun ilgili hükümleri uygulanmak üzere Cumhuriyet Başsavcılığına suç duyurusunda bulunulur.

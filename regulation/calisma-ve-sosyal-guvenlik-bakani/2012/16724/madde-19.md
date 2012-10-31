@@ -1,0 +1,3 @@
+Giriş sınav ilanı
+MADDE 19 – (1) Müfettiş yardımcılığına atanacaklarda aranacak genel ve özel koşullar, atama yapılacak kadroların sayısı, sınıfı ve dereceleri, başvuru yeri ve son başvuru tarihi ile müfettiş yardımcılığı giriş sınavı yazılı kısmının yapılacağı yer ve zaman, giriş sınavının içeriği ve değerlendirme yöntemi başvuru süresinin bitiminden en az bir ay önce Bakanlığın internet sitesinde ve Resmî Gazete ile Türkiye genelinde yayınlanan tirajı en yüksek ilk beş gazeteden en az ikisinde ilan edilmek suretiyle adaylara duyurulur.
+(2) Sınava başvuru ve kayıt işlem süreleri, yazılı sınavın yapılacağı tarihten en az onbeş gün önce sona erecek şekilde tespit olunur.

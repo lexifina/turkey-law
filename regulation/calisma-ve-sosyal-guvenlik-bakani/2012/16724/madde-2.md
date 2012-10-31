@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Çalışma ve Sosyal Güvenlik Bakanlığı İş Teftiş Kurulunun teşkilat, görev ve yetkileri ile İş Teftiş Kurulu Başkanının, müfettişlerin, müfettiş yardımcılarının ve İş Teftiş Kurulu Başkanlığı şube müdürlüğünün görev, yetki ve sorumluluklarını, teftiş edilenlerin sorumluluklarını, İş Teftiş Kurulu Başkanı ile müfettiş ve müfettiş yardımcılarının seçilme, yetiştirilme ve atanmaları, özlük hakları ile çalışma usul ve esaslarını kapsar.

@@ -1,0 +1,5 @@
+Müfettişlik güvencesi
+MADDE 42 – (1) Müfettiş ve müfettiş yardımcıları, teftiş hizmetlerinin gerekleri ile bağdaşmayan sıhhi, ahlaki veya mesleki yetersizlikleri müfettiş raporu, sağlık raporu veya yargı kararı ile tespit edilmedikçe görevden alınamaz, kendi istekleri dışında idari görevlere atanamazlar.
+(2) Müfettiş ve müfettiş yardımcılarına, mevzuatla belirlenen görevler ile teftiş hizmetiyle bağdaşır nitelikteki işler dışında görev verilemez.
+(3) Müfettişler kesinleşmiş yargı kararı veya disiplin soruşturmasıyla ortaya konulmuş delil karartma ve saptırma fiilleri olmadıkça, gerçekleştirdikleri teftiş, denetim, inceleme ve soruşturmalar nedeniyle yapmış oldukları işlemlerden ve sonucunda tanzim etmiş oldukları raporlardan veya kanunla verilen yetkilerini kullanmalarından dolayı sorumlu tutulamazlar. Kanaatleri veya aldıkları tedbirler nedeniyle açılacak özel hukuk davalarında husumet, Bakanlığa tevcih edilir.
+(4) Teftiş hizmetlerinin gerekleri ile bağdaşmayan sıhhi, ahlaki veya mesleki yetersizlikleri, müfettiş raporu, sağlık raporu veya yargı kararı ile tevsik edilen müfettiş ve müfettiş yardımcıları, diğer memurluklara naklolunurlar.

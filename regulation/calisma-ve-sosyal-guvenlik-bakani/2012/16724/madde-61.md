@@ -1,0 +1,3 @@
+Uyum eğitimleri
+MADDE 61 – (1) Bu eğitimler, Kurula yeni katılan müfettiş yardımcıları ve büro çalışanlarını yapacağı işe hazırlamak amacıyla kısa süreli olarak düzenlenir. Eğitimde, kurumsal tutum, davranış ve çalışma ilişkileri ile işin gerektirdiği temel bilgiler öğretilir.
+(2) Yukarıdaki fıkra dışında, başka birimlere veya kurumlara atama, görevlendirilme ve benzeri sebeplerle Kuruldaki görevlerinden en az altı ay süre ile ayrı kalan müfettişlere, geri döndüklerinde, gerekli görülmesi halinde, başta mevzuatta meydana gelen değişiklikler olmak üzere diğer konularda verilecek eğitimler, uyum eğitimi kapsamında gerçekleştirilir.

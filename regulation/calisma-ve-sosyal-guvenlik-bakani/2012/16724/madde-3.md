@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 9/5/1985 tarihli ve 3146 sayılı Çalışma ve Sosyal Güvenlik Bakanlığının Teşkilat ve Görevleri Hakkında Kanunun 5 ve 15 inci maddeleri, 13/12/1950 tarihli ve 5690 sayılı Sanayi ve Ticarette İş Teftişi Hakkındaki 81 numaralı Milletlerarası Çalışma Sözleşmesinin Onanmasına Dair Kanun ile 6/8/1979 tarihli ve 7/17925 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İş Teftişi Tüzüğüne dayanılarak hazırlanmıştır.
