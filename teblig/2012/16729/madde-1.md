@@ -1,0 +1,3 @@
+ŞİRKETLERDE YAPI DEĞİŞİKLİĞİ VE AYNİ SERMAYE KONULMASINDA SİCİLLER ARASI İŞBİRLİĞİNE İLİŞKİN TEBLİĞ
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı; birleşme, bölünme ve tür değiştirme gibi yapı değişiklikleri ile ayni sermaye konulması veya ticari işletmelerin devralınması sonucunda, tapu ve gemi sicili ile fikrî mülkiyete ilişkin sicillerde ve benzeri sicillerde kayıtlı bulunan mal ve hakların sahipliklerinde meydana gelen değişikliklerin ilgili sicillere bildirilmesini ve sicil kayıtları ile belgelerindeki gerekli değişikliklerin yapılmasına ilişkin usul ve esasları düzenlemek, başvuruda bulunacak kişiler ve gerekli belgeleri belirlemektir.

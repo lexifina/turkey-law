@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16729",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ŞİRKETLERDE YAPI DEĞİŞİKLİĞİ VE AYNİ SERMAYE KONULMASINDA SİCİLLER ARASI İŞBİRLİĞİNE İLİŞKİN TEBLİĞ",
+  "number": "16729",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2012/16729",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16729&MevzuatTertip=5",
+  "source_sha256": "de5b85debedb00eebb07d2c71e17f30b2b2e58e6e2a6bf70ede1e5bd91f4bc0f",
+  "source_bytes": 52164,
+  "published": "2012-10-31",
+  "gazette": "28453",
+  "in_force": "2012-10-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.10.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1071,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
