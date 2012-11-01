@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-11-01",
+      "01.11.2012",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28454",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2012-11-01",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Balıkesir Üniversitesi",
+  "issuer_slug": "balikesir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/balikesir-universitesi/2012/16730",
+  "published": "2012-11-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16730&MevzuatTertip=5",
+  "source_bytes": 26222,
+  "source_id": "8.5.16730",
+  "source_sha256": "05f537105e56592ca2f02888efedd212148007cb301ef309f4ea9c8c34e42b52",
+  "text_status": "as-enacted",
+  "title": "BALIKESİR ÜNİVERSİTESİ BOTANİK BAHÇESİ VE HERBARYUM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 182,
+  "word_count": 1182
+}
