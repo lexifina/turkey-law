@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-130[28-2012/33]-224",
+  "source_id": 32816,
+  "date": "2012-11-01",
+  "title": "Zirai mücadelede kullanılacak bitki koruma ürünlerinin imalatında kullanılacak yardımcı maddelerin KDV oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32816",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "5b9e7e916f16bfe2205b1f6f2bd14417843c220eac92ee472d1528045bb6426f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
