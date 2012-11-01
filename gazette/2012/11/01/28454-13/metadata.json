@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-11-01",
+  "issue": "28454",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Üniversitesi Su Ürünleri Fakültesi Lisans Öğretim ve Sınav Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121101-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121101.htm",
+  "index_sha256": "6530ed3e2cbb6f98c8f9ea2f57eec86b5068cf65188bc9064cc5842e6492aee8",
+  "index_header": "1 Kasım 2012 ... 28454 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121101.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
