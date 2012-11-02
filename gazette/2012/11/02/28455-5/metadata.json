@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-11-02",
+  "issue": "28455",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2012/3781 3083 Sayılı Kanunla Uygulama Alanı İlan Edilen; Şanlıurfa İli, Merkez İlçesi, Çamlıdere Bucağı, Mutluca Köyü, Uzunköy Bağlısının Ana Köyden Ayrılarak Aynı Adla Bağımsız Köy Olması ile Şanlıurfa İli, Suruç İlçesi, Merkez Bucağına Bağlı Dağgören Köyünün Birecik İlçesi, Merkez Bucağına Bağlanmasına Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121102-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121102.htm",
+  "index_sha256": "56f06362187d02a93277d35bc8faa65a22ae1353dcc9468df2efbc0ec4d611f5",
+  "index_header": "2 Kasım 2012 ... 28455 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121102.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
