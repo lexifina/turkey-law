@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-11-04",
+  "issue": "28457",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "2012/3896 Yurtdışında Sürekli Görevlendirilecek Personel Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121104-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121104.htm",
+  "index_sha256": "62225d521aa52b553b939e55a448eb0cf176de34a4f359237ef734c24049b675",
+  "index_header": "4 Kasım 2012 ... 28457 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121104.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
