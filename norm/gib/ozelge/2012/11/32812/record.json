@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.42.16.02-KDV-2-295/-91",
+  "source_id": 32812,
+  "date": "2012-11-06",
+  "title": "Bağırsak ve Sakatat Teslimlerinde KDV Oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32812",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "6e0d8b3c05ab3435cebc8cd57eacd91409c95eaa498b5e5236fbb10d5f1ffeb8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
