@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "35610",
+  "decision_date": "2012-11-06",
+  "source_id": 5259,
+  "chamber": "3",
+  "file_number": "35433",
+  "account_year": "2008",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5259/",
+  "source_sha256": "ddde38551a581647afd3f316ffb3ddabc11affb411927d1c9f8339f1e351aaae",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
