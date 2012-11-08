@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4114",
+  "decision_date": "2012-11-08",
+  "title": "Doğal Gaz Dağıtım Şirketleri için Tarife Hesaplama Usul ve Esaslarının belirlenmesine yönelik alınan 22/12/2011 tarih ve 3580 sayılı Kurul Kararının eki Usul ve Esasların 6 ncı maddesinin 7 nci fıkrası çerçevesinde Başkent Doğal Gaz Dağıtım A.Ş.’nin 2012 yılı başı Baz Yıl Varlık Tabanına ilişkin",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YdImTkN6+TQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YdImTkN6+TQ="
+  ],
+  "source_sha256": "e043f58bf4f0b743843702e6b4070408ba8e90c372e6f325256554f24fbc8c89",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-11-08",
+  "law_text_complete": false
+}
