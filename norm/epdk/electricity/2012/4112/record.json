@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4112",
+  "decision_date": "2012-11-08",
+  "title": "TEİAŞ iletim sistemi sistem kullanım, sistem işletim ve piyasa işletimi faaliyetleri için 2013 yılı Gelir Tavanlarına ilişikin",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PX/SCCxssmU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PX/SCCxssmU="
+  ],
+  "source_sha256": "33fb5b9a7ff1b2f62f860fc25ad19ad5316a3f5512fd1942740c102eec0f4a91",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-11-08",
+  "law_text_complete": false
+}
