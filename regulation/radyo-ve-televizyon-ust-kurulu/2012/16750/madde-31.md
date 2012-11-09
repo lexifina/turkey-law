@@ -1,0 +1,6 @@
+Yayın lisansının iptali, yaptırımlar
+MADDE 31 – (1) Yayın lisansı verilmesi için Kanunda ve bu Yönetmelikte aranan şartlardan birinin kaybedilmesi halinde, ilgili medya hizmet sağlayıcı kuruluşa gerekli şartları yerine getirmesi için otuz günlük süre verilir. Verilen süreye rağmen istenen şartları yerine getirmeyen kuruluşun yayınları üç ay süreyle durdurulur. Bu süre zarfında şartın yerine getirilmemesi halinde ise, ilgili kuruluşun karasal yayın lisansı iptal edilir.
+(2) Yayın lisansının verilmesi için gerekli şartlara uygunluğunu hile ile elde ettiği tespit edilen kuruluşun yayın lisansı iptal edilir.
+(3) Mücbir sebeplerle veya Üst Kurulca kabul edilecek nedenlerle yayın hizmetini yerine getiremeyen kuruluşların talepleri halinde yayın lisansı iptal edilir. Bu durumda kalan süreye ilişkin yayın lisans ücreti iade edilir.
+(4) Karasal yayın lisansı olmadan veya iptal edilmesine rağmen yayınlarına devam eden kuruluşlar hakkında, Kanunun 33 üncü maddesi hükmü uygulanır.
+(5) Karasal yayın lisansı olmasına rağmen, lisans tipi dışında yayın yapan ve izinsiz karasal verici tesis eden medya hizmet sağlayıcılar Üst Kurulca uyarılır. Yapılan uyarıya rağmen izinsiz yayına devam edenler hakkında, Kanunun 33 üncü maddesi hükmü uygulanır.

@@ -1,0 +1,3 @@
+İhale komisyonu
+MADDE 16 – (1) İhale komisyonu, Üst Kurul tarafından Üst Kurul personeli arasından görevlendirilecek biri Başkan olmak üzere yedi asil ve yedi yedek üyeden oluşur.
+(2) İhale komisyonu eksiksiz olarak toplanır. Komisyon kararları çoğunlukla alınır. Kararlarda üyeler çekimser kalamaz. Komisyon başkan ve üyeleri oy ve kararlarından sorumludur. Karşı oy kullanan komisyon üyeleri, gerekçesini komisyon kararına yazmak ve imzalamak zorundadır. İhale komisyonunca alınan kararlar ve düzenlenen tutanaklar, komisyon başkan ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır.
