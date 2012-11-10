@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6357",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Moldova Cumhuriyeti Tarım ve Gıda Endüstrisi Bakanlığı Arasında Tarım Alanında Ekonomik, Bilimsel ve Teknik Konularda İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-11-10",
+  "gazette_issue": "28463",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121110-5.htm",
+  "source_sha256": "ae4303d81764f0c483aa6cab6283e9d443fa9defbd7965f436e76c5a25622b46",
+  "text_sha256": "40b9bf190fdedf35024932678ed7fefc5c88ef182bb11261a64b8c9c02da9d6e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/11/10/28463-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121110-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
