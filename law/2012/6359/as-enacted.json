@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6359",
+  "year": 2012,
+  "title": "Kamu İhale Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-11-10",
+  "gazette_issue": "28463",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121110-7.htm",
+  "source_sha256": "4628c1218b05476ca24f2c49ad7078e6e385ec442ccfe77d9a4a038f618d906b",
+  "text_sha256": "283057d5bee1a4dba3365d8b1a9ba0241dbef129198e5e6f33457ace2e5daafc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/11/10/28463-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121110-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
