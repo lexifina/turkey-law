@@ -1257,10 +1257,12 @@ Disiplin cezaları kesinleşme tarihinden itibaren uygulanır.
 10. (Ek: 18/6/2009-5911/65 md.) Gümrük müşavir derneklerince, gümrük müşavirlerinin yapacakları iş ve işlemler karşılığı alacakları asgari ücretleri gösteren ve takvim yılı bazında belirlenen Asgari Ücret Tarifesi, Müsteşarlıkça uygun görülerek onaylanmak suretiyle uygulamaya konulur.
 –––––––––––––––
 (1) 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci maddesiyle; bu bentte yer alan “gümrük müfettişleri, müfettiş yardımcıları, kontrolörler” ibaresi “gümrük müfettişleri, gümrük müfettiş yardımcıları, kontrolörler, stajyer kontrolörler” şeklinde değiştirilmiş ve metne işlenmiştir.
-7740-1/7741
+7740-1
 Geçici Madde 7 – (Ek: 12/11/2008-5810/9 md.)
 Bu Kanunun 152 nci, birinci fıkrasının (a) bendi hariç olmak üzere 157 nci, 158 inci ve bölgede faaliyette bulunan işletmelerin ihtiyaçlarıyla sınırlı olarak 185 inci maddelerinin 3218 sayılı Serbest Bölgeler Kanununa aykırı olan hükümleri, Avrupa Birliğine tam üyeliğin gerçekleştiği tarihe kadar uygulanmaz. Ancak 158 inci ve 185 inci madde hükümleri, 4760 sayılı Özel Tüketim Vergisi Kanunu yönünden uygulanmaya devam olunur.
 Bu maddenin yürürlüğe girdiği tarihten önceki dönemler için 4760 sayılı Kanuna göre tarhiyat yapılmaz, daha önce yapılan tarhiyatlardan vazgeçilir, tahakkuk eden tutarlar terkin edilir. Tahsil edilmiş tutarlar ret ve iade edilmez.
+Geçici Madde 8 – (Ek: 31/10/2012-6358/19 md.)
+EXPO 2016 Antalya Ajansının tasfiyesinden sonra ülkede kalanlar hariç olmak üzere; EXPO 2016 Antalya ile ilgili olarak yurda geçici olarak sokulacak her türlü ürün, mal ve eşya, gümrük vergisinden müstesnadır.
 ÜÇÜNCÜ BÖLÜM
 Yürürlük ve Yürütme
 Madde 247 – Bu Kanun yayımını izleyen tarihten itibaren üç ay sonra yürürlüğe girer.
