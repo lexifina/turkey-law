@@ -1,0 +1,5 @@
+Yönetim Kurulu
+MADDE 9 – (1) Yönetim Kurulu aşağıda belirtilen toplam on bir üyeden oluşur:
+a) Yönetim Kurulunda; Müdür, iki müdür yardımcısı ve Müdürün teklifi üzerine Rektör tarafından üç yıllık süreyle görevlendirilen Merkezin faaliyet konularıyla ilgili alanlarda çalışan, uluslararası bilimsel indekslerde yayımlanmış en az üç deneysel tıp araştırması bulunan Tıp Fakültesi kadrolu elemanlardan dört üye ile Üniversitenin Tıp, Diş Hekimliği, Veteriner veya Sağlık Bilimleri Fakültelerinde kadrolu öğretim elemanları arasından görevlendirilen dört üye olmak üzere toplam on bir üye bulunur.
+(2) Müdürün görev süresinin dolması veya herhangi bir nedenle görevinden ayrılması halinde, Yönetim Kurulu üyelerinin de görevi sona erer. Üyelik süresi herhangi bir sebeple sona eren Yönetim Kurulu üyeleri aynı usulle yeniden görevlendirilebilir.
+(3) Yönetim Kurulu, Müdürün daveti üzerine en az iki ayda bir kez Müdürün belirleyeceği gündemle üye tam sayısının salt çoğunluğuyla toplanır ve kararlar oy çokluğu ile alınır.
