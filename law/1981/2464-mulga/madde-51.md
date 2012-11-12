@@ -1,0 +1,3 @@
+Madde 51 – (26/5/1981 tarih ve 2464 sayılı Kanunun hükmüdür.)
+Vergi dairelerince tahsil olunan Temizleme ve Aydınlatma Harcı tahsilatı, faaliyet bölgesi içinde tek belediye bulunması halinde bu belediyeye, birden fazla belediye bulunması halinde de her belediyeye nüfusları oranında hesaplanıp dağıtılır.
+Temizleme ve Aydınlatma Harcı tahsilatının Maliye vergi dairelerince , her ay sonu itibariyle hesaplanıp müteakip ayın sonuna kadar ilgili belediyeye ödenmesi mecburidir. Harcı belediyelere zamanında intikal ettirmeyen vergi dairesi müdürlerinden harç tutarları yüzde 10 fazlasıyla tahsil olunur.
