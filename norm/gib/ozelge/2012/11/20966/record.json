@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[9-12/93]-1168",
+  "source_id": 20966,
+  "date": "2012-11-12",
+  "title": "Giyim eşyalarını onarmak amaçlı elle dokuma faaliyetinin esnaf muaflığından yararlanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20966",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "3bd0bb44b0dac306150220470ec6b967ae8da81d6f5ee029372528ae52ae989b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
