@@ -1,0 +1,3 @@
+Muğla Sıtkı Koçman Üniversitesi Fonetik Araştırma ve Uygulama Merkezi Yönetmeliği(1)
+Kuruluş ve Amaç
+Madde 1 — 2547 sayılı Kanun’un 7/d-2 maddesi ile Üniversitelerde Akademik Teşkilat Yönetmeliğinin EK : 1 maddesi uyarınca, (Değişik ibare:RG-14/11/2012-28467) Muğla Sıtkı Koçman Üniversitesi Rektörlüğüne bağlı olarak Türkçenin öncelikle (Değişik ibare:RG-14/11/2012-28467) Muğla Sıtkı Koçman yöresinin ses ve ağız özellikleriyle kelime varlığının araştırılması ve bilim dünyasına tanıtılması amacıyla "(Değişik ibare:RG-14/11/2012-28467) Muğla Sıtkı Koçman Üniversitesi Fonetik Araştırma ve Uygulama Merkezi" (MÜFOMER) kurulmuştur.

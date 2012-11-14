@@ -1,0 +1,3 @@
+Merkez Müdürü
+Madde 9 — Merkez Müdürü, Merkezin çalışma alanı ile ilgili öğretim üyesi olmak üzere Rektör tarafından 3 yıl süreyle atanır. Süresi biten Müdür tekrar atanabileceği gibi görev süresi dolmadan aynı şekilde görevden alınabilir. Merkez Müdürü kendisine yardımcı olmak üzere, kadrolu öğretim üyeleri arasından iki Müdür Yardımcısı atar. Müdür görevi başında bulunmadığı zaman, Müdür Yardımcılarından birini vekil bırakır. Göreve vekâlet 6 aydan fazla sürerse yeni Merkez Müdürü atanır.
+Merkez Müdürü Merkezin çalışmalarının düzenli olarak yürütülmesinden ve geliştirilmesinden Rektöre karşı sorumludur.
