@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.10.15.01-120[9-2012/1415]-109",
+  "source_id": 20965,
+  "date": "2012-11-14",
+  "title": "Köyde dükkan açmak suretiyle kapı pencere tamiri ve odun kırma faaliyetinin esnaf muaflığı kapsamında değerlendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20965",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "d309ff1615b82913fa1531de4a9647eb527fbb4e9793b0958b88ad0b941342ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
