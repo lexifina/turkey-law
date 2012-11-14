@@ -1,0 +1,3 @@
+Muğla Sıtkı Koçman Üniversitesi Çevre Sorunları Araştırma ve Uygulama Merkezi Yönetmeliği(1)
+Kuruluş
+Madde 1 — 2547 sayılı Yüksek Öğretim Kanunu ile 1/5/1982 tarih ve 17681 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Üniversitelerde Akademik Teşkilat Yönetmeliğine Bir Madde Eklenmesi Hakkında Yönetmeliğin Ek 1 inci maddesi uyarınca, (Değişik ibare:RG-14/11/2012-28467) Muğla Sıtkı Koçman Üniversitesi Rektörlüğüne bağlı olarak, çevre sorunları ile ilgili çalışmaların hızlandırılması ve disiplinler arası çalışmalar yapmak amacıyla "(Değişik ibare:RG-14/11/2012-28467) Muğla Sıtkı Koçman Üniversitesi Çevre Sorunları Araştırma ve Uygulama Merkezi" (MÜÇEMER) kurulmuştur.
