@@ -1,0 +1,4 @@
+Müdür
+MADDE 7 – (1) Müdür, gıda analizleri alanında akademik faaliyetleri, araştırma ve laboratuvar çalışmaları olan Merkezin çalışma alanları ile ilgili Üniversitede tam zamanlı çalışan öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir.
+(2) Müdür, Üniversitede görevli ve Merkezin çalışma alanı ile ilgili araştırmalarda bulunan Üniversitede görevli öğretim elemanları arasından iki kişiyi, üç yıl süreyle müdür yardımcısı olarak görevlendirir. Müdür yardımcısı Müdürün verdiği görevleri yapar. Süresi biten müdür yardımcısı yeniden görevlendirilebilir.
+(3) Müdürün görevinde bulunmadığı hallerde müdür yardımcılarından biri, Müdüre vekalet eder. Vekaletin altı aydan fazla sürmesi halinde yeni Müdür görevlendirilebilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
