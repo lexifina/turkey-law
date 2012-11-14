@@ -1,0 +1,4 @@
+Madde 6- Merkez Genel Kurulu, Merkez Müdürünün başkanlığında, yılda bir defa, Ocak avında olağan olarak toplanır. Genel kurulun toplantı yeter sayısı üye tam sayısının; karar yeter sayısı ise toplantıya katılan üye sayısının yarısını aşan sayıdır. Oylamada eşitlik olması durumunda Müdürün oyu iki oy sayılır.
+Genel kurul toplantılarına geçerli ve Genel Kurulca kabul edilen mazereti olmadan iki defa katılmayanların üyelikleri düşer. Boşalan Genel Kurul üyelikleri 5. maddede belirtilen yönteme göre doldurulur. Bu şekilde belirlenen üyeler, kalan süreyi tamamlarlar.
+Merkez Müdürü gerekli gördüğü takdirde Merkez Genel Kurulunu olağanüstü toplantıya çağırabilir. Üye tam sayısını yarısından fazlasının talep etmesi durumunda, Merkez Müdürü, en geç bir ay içinde Genel Kurulu olağanüstü toplantıya çağırır. Olağanüstü toplantılarda sadece toplantıyı gerektiren gündem maddeleri görüşülür.
+Merkez Genel Kurul tutanaklarından bir sureti Rektörlüğe gönderilir.
