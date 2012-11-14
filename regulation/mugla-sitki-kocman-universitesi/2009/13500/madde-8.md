@@ -1,0 +1,4 @@
+Merkez müdürü
+MADDE 8 – (1) Merkez Müdürü (Hastane Başhekimi); Tıp Fakültesinde devamlı statüde çalışan profesör unvanına sahip öğretim üyeleri arasından, Dekanın görüşü alınarak Rektör tarafından üç yıl süre ile görevlendirilir. Merkez Müdürü; Merkez hizmetlerinin yürütülmesinden Yönetim Kuruluna ve Rektöre karşı sorumludur.
+(2) Merkez Müdürüne çalışmalarında yardımcı olmak üzere, devamlı statüde çalışan Tıp Fakültesi öğretim üyeleri arasından belirlenecek en az iki müdür yardımcısı (Başhekim yardımcısı), Merkez Müdürünün teklifi üzerine Rektör tarafından görevlendirilir.
+(3) Merkez Müdürü görevi başında bulunmadığı zamanlarda müdür yardımcılarından biri, Merkez Müdürünün teklifi ve Rektörün onayı ile Merkez Müdürüne vekalet eder. Vekalet süresi altı ayı geçemez. Merkez Müdürünün görev süresinin dolması veya herhangi bir sebeple görevinden ayrılması halinde müdür yardımcılarının da görevleri kendiliğinden sona erer.

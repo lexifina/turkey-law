@@ -1,0 +1,3 @@
+Personel ihtiyacı
+MADDE 15 – (1) Merkezin akademik, teknik ve idari personel ihtiyacı; 2547 sayılı Yükseköğretim Kanunu ile 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun ilgili hükümlerine göre, Rektör tarafından görevlendirilecek veya atanacak personel tarafından karşılanır.
+(2) İdari personelin atanma, görevde yükselme ve unvan değişikliği işlemleri; 2547 sayılı Kanun ve 657 sayılı Kanun ile 12/11/2005 tarihli ve 25991 sayılı Resmi Gazete’de yayımlanan Yükseköğretim Üst Kuruluşları ile Yükseköğretim Kurumları Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği hükümleri çerçevesinde yapılır.
