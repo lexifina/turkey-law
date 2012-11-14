@@ -1,0 +1,2 @@
+Geçici Madde 4 – (Ek:RG-14/11/2012-28467)
+Bu maddenin yürürlüğe girdiği tarih itibarıyla tesis ve işletme izni bulunan kaplıca ve talassoterapi tesisleri, 14 üncü maddede bu maddenin yürürlüğe girdiği tarihte yapılan değişikliğe, bu maddenin yayımı tarihinden itibaren altı ay içerisinde uygunluklarını sağlarlar. Altı ayın sonunda uygunluk sağlamayan kuruluşların faaliyeti uygunluk sağlayana kadar valilikçe süresiz durdurulur.

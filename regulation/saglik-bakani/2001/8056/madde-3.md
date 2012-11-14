@@ -1,0 +1,2 @@
+Hukuki Dayanak
+Madde 3 — Bu Yönetmelik; 1593 sayılı Umumi Hıfzıssıhha Kanunu'nun 200-210 uncu maddelerine, 3153 sayılı Radyoloji, Radyum ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanun'a ve bu Kanuna dayanılarak yürürlüğe konulan Fizyoterapi ve Bunlara Benzer Müesseseler Hakkında Nizamname ile 181 sayılı Sağlık Bakanlığı'nın Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'nin 43 üncü maddesine dayanılarak hazırlanmıştır.
