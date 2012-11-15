@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "3",
+  "decision_date": "2012-11-15",
+  "source_id": 15070,
+  "chamber": "5",
+  "ilam_number": "15",
+  "item_number": 17,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15070/",
+  "source_sha256": "48253f36a75cce801a2d9cad8d3011ea1304ca8a2b868a96685aed28e248cd7a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
