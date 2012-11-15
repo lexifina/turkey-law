@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "3",
+  "decision_date": "2012-11-15",
+  "source_id": 7056,
+  "chamber": "5",
+  "ilam_number": "15",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7056/",
+  "source_sha256": "cf0124e3f681117be240b90ef064bc8734b3236c517860466c16592dda1d7f48",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
