@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı; karayolu taşımalarının ekonomik, seri, elverişli, güvenli, verimli, kaliteli, çevreye kötü etkisi en az ve kamu yararını gözetecek şekilde düzenlenmesi çerçevesinde, ekonomik ve teknik ömrünü tamamlamış ticari motorlu karayolu taşıtlarının bir kısmının piyasadan çekilerek can ve mal güvenliğinin artırılması ve mevcut atıl kapasitenin azaltılarak sağlıklı bir taşımacılık piyasasının oluşturulabilmesine destek sağlamaktır.

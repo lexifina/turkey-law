@@ -1,0 +1,5 @@
+Hak kazanma
+MADDE 4 – (1) Bu Tebliğ kapsamına giren motorlu taşıt sahipleri;
+a) İlgili mevzuata uygun olarak hurdaya ayırma işlemlerini Maliye Bakanlığınca 4/8/2012 tarihli ve 28374 sayılı Resmî Gazete’de yayımlanan Motorlu Taşıtlar Vergisi Genel Tebliğinin (Tebliğ No: 41) yayımlanmasından sonra yapmış/tamamlamış olmaları,
+b) (a) bendine göre hurdaya ayrılmış olan taşıtı "taşıt olma özellikleri korunmuş/mevcut olarak" ve "Hurdaya Ayrılmıştır." kaşeli trafik tescil belgesinin aslı ile ödeme yapılacak hak sahibine ait banka adı ve IBAN numarasının belirtildiği dilekçe aslını (5 inci maddenin birinci fıkrasının (d) bendinde belirtilen hak sahipliğini kanıtlayıcı belgelerle) "Makina ve Kimya Endüstrisi Kurumu (MKEK) Hurda İşletmesi Müdürlüğü"nün "İzmir-Aliağa Hurda Müdürlüğü" ve "Kocaeli-Seymen Hurda Müdürlüğü"nden herhangi birine bu Tebliğin yayımlandığı tarihten itibaren, Kırıkkale Hurda Müdürlüğü’ne ise 1/4/2013 tarihinden itibaren teslim etmiş olmaları,
+halinde bu Tebliğde belirtilen ödentiyi Ulaştırma, Denizcilik ve Haberleşme Bakanlığından almaya hak kazanırlar.
