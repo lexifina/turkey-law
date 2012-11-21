@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.72.10.00-193 sayılı Gelir Vergisi Kanununun 94",
+  "source_id": 24495,
+  "date": "2012-11-21",
+  "title": "Bir iş yeri açmaksızın kendi nam ve hesabına kapı kapı dolaşmak suretiyle her türlü hurda maddeyi toplayarak veya satın alarak bu malların ticaretini yapanlara veya tekrar işleyenlere satanlardan yapılan hurda madde alımlarının vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24495",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "0e697c50147be2ae3e930443261a02f317c4cfcf4d6f124b1d5325d352690806",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
