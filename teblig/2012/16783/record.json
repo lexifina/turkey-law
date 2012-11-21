@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.16783",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BALIKÇILIK ÜRÜNLERİNE AİT DUYUSAL ÖZELLİKLER VE TOPLAM UÇUCU BAZİK AZOT LİMİTLERİ TEBLİĞİ (TEBLİĞ NO: 2012/73)",
+  "number": "16783",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2012/16783",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16783&MevzuatTertip=5",
+  "source_sha256": "a14843c6a5ff0065e1e9d4358cd85104e8aec18aed7559f4e65cac15f0f42da0",
+  "source_bytes": 16144,
+  "published": "2012-11-21",
+  "gazette": "28474",
+  "in_force": "2012-11-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.11.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 635,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16783%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
