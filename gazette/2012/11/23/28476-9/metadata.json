@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-11-23",
+  "issue": "28476",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 20/11/2012 Tarihli ve 2012/165 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121123-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121123.htm",
+  "index_sha256": "19f7795371415dc081666864a557006458702d0d8184693d47c1f61c3b5f8634",
+  "index_header": "23 Kasım 2012 ... 28476 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121123.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
