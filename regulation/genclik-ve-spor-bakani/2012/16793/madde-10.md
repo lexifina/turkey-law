@@ -1,0 +1,2 @@
+Kontenjan tespiti
+MADDE 10 – (1) Her yıl Şubat ayı sonuna kadar, takip eden mali yılda yetiştirilmek üzere yurt dışına gönderilecek personelin; sayısı, öğrenim veya staj konusu, gönderileceği ülkeler ve uluslararası kuruluşlar, Bakanlığın bütçe olanakları ve birim amirlerinin görüşleri de dikkate alınmak suretiyle Kurulca belirlenir ve en geç Mart ayı sonuna kadar Devlet Personel Başkanlığına bildirilir.

@@ -1,0 +1,5 @@
+Yurt dışı eğitiminin izlenmesi
+MADDE 17 – (1) Yurt dışına gönderilen personel dönemler itibarıyla genel başarı durumunu belgelemek üzere derslerin not dökümünü, dönemin bitiş tarihini takip eden bir ay içerisinde Dış İlişkiler Dairesi Başkanlığına bildirir.
+(2) Ders notları ve personelin gönderdiği diğer raporlar gerekli görülen hallerde Kurula intikal ettirilir.
+(3) İntikal ettirilen konularda Kurul gerekli değerlendirmeyi yapar. İlgili personelin dönem ortalamasındaki başarı düzeyi üniversitenin kabul ettiği başarı düzeyinden düşük olması halinde bu durum ilgiliye ve bağlı olduğu birime yazılı olarak bildirilir.
+(4) Yurt dışı eğitim programına gönderilenler, eğitim gördükleri programdan mezun olduklarına dair belgeyi (diploma, sertifika ve benzeri belgeler) Personel Dairesi Başkanlığına ibraz etmek zorundadırlar. Belge ibraz edilmediği takdirde ilgiliden yurt dışı eğitimi için yapılan tüm ödemeler kanuni faizi ile birlikte tahsil edilir. Buna ilişkin hususlar taahhüt senedinde yer alır.

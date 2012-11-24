@@ -1,0 +1,2 @@
+Adres bildirme
+MADDE 21 – (1) Yurt dışına bir aydan uzun süre ile eğitime giden personel; öğrenime başladığını belirten eğitim kurumu yazısını, ikametgah adresi, telefon numarası, maaş ödemelerinin yapılacağı banka hesap numarası ve adresi ile eğitim veya öğrenim görülecek kurum adresi, telefon ve faks numaralarını eğitim mahalline varışından itibaren, adres değişikliklerini ise değişiklik tarihinden itibaren on beş gün içerisinde Bakanlığa bildirmekle yükümlüdür.
