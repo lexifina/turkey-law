@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.01-130[9-2012/435]-515",
+  "source_id": 30600,
+  "date": "2012-11-24",
+  "title": "Reklam ajanslarının işlemlerinde KDV tevkifatı uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30600",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "7be0de590214fcf1bccb919852145a82c4969a7cc33d2df75f069835e4f1df94",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
