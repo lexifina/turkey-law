@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-11-26",
+  "issue": "28479",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2012/3945 Çevre ve Şehircilik Bakanlığında Afet Riski Altındaki Alanların Dönüştürülmesi Uygulamalarında Sözleşmeli Personel Çalıştırılmasına Dair Esaslar Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121126-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121126.htm",
+  "index_sha256": "864b4503234872793a06eb7ca75259183629405a9b2d9ccbe0b8c8b88c664ab9",
+  "index_header": "26 Kasım 2012 ... 28479 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121126.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
