@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-11-26",
+  "issue": "28479",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "2012/3914 Kamu İhale Kurumu Teşkilatı ve Personelinin Çalışma Usul ve Esasları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121126-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121126.htm",
+  "index_sha256": "864b4503234872793a06eb7ca75259183629405a9b2d9ccbe0b8c8b88c664ab9",
+  "index_header": "26 Kasım 2012 ... 28479 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121126.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
