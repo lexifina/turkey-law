@@ -1,0 +1,4 @@
+Başvuru konusu madde
+MADDE 2 – (1) Başvuru konusu eşya, 7005.29 gümrük tarife pozisyonunda (GTP) sınıflandırılan renksiz düzcamdır.
+(2) Renksiz düzcam, kum ve diğer hammaddelerin 1700°C’de ergitilerek kalay banyosu üzerinde yüzdürülmesi ve kontrollü bir şekilde soğutularak düzcama dönüştürülmesi prensibine dayanan float teknolojisi ile üretilir. Tüm cam uygulamaları için temel ürün olan renksiz düzcam, büyük plakalar halinde üretilir ve kullanılacakları alanın özellikleri doğrultusunda kesilerek ya da ikincil işleme tabi tutularak bitmiş ürün haline getirilir. Renksiz düzcama ikincil işlem uygulanarak camın, inşaat, otomotiv, beyaz eşya, mobilya, enerji, tarım sektörlerinde yalıtım camı ünitesi, lamine cam, temperli cam, kısmi temperli cam, emaye cam, bombeli cam, kaplamalı cam veya ayna olarak kullanılması sağlanır.
+(3) Bahse konu GTP, yalnızca bilgi amaçlı verilmiş olup, bağlayıcı mahiyette değildir.
