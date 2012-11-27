@@ -1,0 +1,2 @@
+Yükümlülüklerin farklılaştırılması
+MADDE 11 – (1) Aynı veya farklı pazarlarda etkin piyasa gücüne sahip olan işletmeciler arasında yükümlülükler açısından farklılaştırma yapılabileceği gibi ilgili pazarın farklı alt pazarlarında yer alan ürün, altyapı ve hizmetler bakımından etkin piyasa gücüne sahip olan işletmeci ya da işletmecilere yönelik farklılaştırma da yapılabilir. Farklılaştırma, işletmecilere ilgili pazarda getirilebilecek yükümlülüklerin seçimi veya seçilmiş olan yükümlülüklerin uygulama detaylarının farklılığı şeklinde olabilir.

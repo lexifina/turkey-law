@@ -1,0 +1,3 @@
+Yükümlülüklerin değiştirilmesi ve kaldırılması
+MADDE 12 – (1) Pazar analizi sonucunda ilgili pazarın yapısına göre, etkin piyasa gücüne sahip işletmecilere getirilmiş olan mevcut yükümlülükler değiştirilebilir. İlgili pazarda etkin piyasa gücüne sahip işletmeci olmadığına karar verilmesi halinde işletmecilere bu Yönetmeliğin 10 uncu maddesinde sayılan yükümlülükler getirilmeyerek, mevcut yükümlülükler kaldırılır.
+(2) Kurum, mevcut ya da muhtemel bir rekabet sorununun çözümüne yönelik olarak ilgili pazar analizini yenilemeksizin; konuya ilişkin objektif nedenlere dayalı gerekçelerini açıklamak suretiyle ilgili pazarda etkin piyasa gücüne sahip olan işletmecinin mevcut yükümlüklerinde değişiklik yapabilir ya da söz konusu yükümlülükleri kaldırabilir.
