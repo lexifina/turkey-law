@@ -1,0 +1,2 @@
+Gıda maddelerinin muayene ve kabulü
+Madde 11 — Satın alınan maddelerin cins, evsaf ve miktar itibariyle şartnameye ve satın alma kararına uygun olup olmadığı, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu ve 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu hükümlerine dayanılarak çıkarılan Denetim, Muayene ve Kabul İşlemlerine Dair Yönetmeliklere göre oluşturulan muayene ve kabul komisyonu tarafından tespit edilir. (Mülga cümle:RG-28/3/2012-28247) (…)

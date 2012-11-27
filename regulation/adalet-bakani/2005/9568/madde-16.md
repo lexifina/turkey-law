@@ -1,0 +1,3 @@
+Gıda maddelerinin kurum mutfağına teslim edilmesi
+Madde 16 — Ambar memuru, "ihtiyaç yazısı"nda cinsi, çeşidi ve miktarı yazılı maddeleri, müdür veya görevlendirilen ikinci müdür tarafından imzalanan bir "çıkış belgesi"ne dayanarak, ambar defterinin çıkış sütununa düzenli bir şekilde kaydettikten sonra, ikinci müdür veya idare memuru ya da infaz ve koruma başmemurunun kontrolü altında tartı veya sayım işlemleri yapılarak, kurum mutfağında görevli aşçı ile yardımcıları ve emniyetli hükümlülerden oluşan bir heyete imza karşılığında teslim eder.
+(Değişik fıkra:RG-28/3/2012-28247) Çıkış belgesi, cezaevi müdürü veya bu işle görevlendireceği kurum personeli tarafından imzalanmadıkça ambardan hiçbir madde çıkarılamaz.

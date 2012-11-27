@@ -1,0 +1,2 @@
+Dayanak
+Madde 2 — Bu Yönetmelik, 29/3/1984 tarihli ve 2992 sayılı Adalet Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanunun 11 ve 30 uncu, 14/6/1930 tarihli ve 1721 sayılı Hapishane ve Tevkifhanelerin İdaresi Hakkında Kanunun 2 nci, 29/7/2002 tarihli ve 4769 sayılı Ceza İnfaz Kurumları ve Tutukevleri Personeli Eğitim Merkezleri Kanununun 14 ve 18 inci maddelerine dayanılarak hazırlanmıştır.
