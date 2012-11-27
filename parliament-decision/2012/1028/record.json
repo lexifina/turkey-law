@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1028",
+  "year": 2012,
+  "title": "Kamu Başdenetçiliği Seçimine İlişkin Karar (1028)",
+  "adopted": "2012-11-27",
+  "adopted_as_published": "27/11/2012",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "04.12.2012 No: 28487",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc097/karartbmmc097/karartbmmc09701028.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 97",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 24,
+      "kayit_no": 4161424,
+      "title": "Kamu Başdenetçiliği Seçimine İlişkin Karar (1028)",
+      "adopted_as_published": "27/11/2012",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc097/karartbmmc097/karartbmmc09701028.pdf",
+      "committee_reports": [],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "15827fd0c83261c402c659f99ca2ff18a1bdf2e2c3d33a6dfebf53b072c161ba"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "15827fd0c83261c402c659f99ca2ff18a1bdf2e2c3d33a6dfebf53b072c161ba",
+  "issuer": "TBMM",
+  "in_force": "2012-11-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 27/11/2012; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
