@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.06.62-DH-2011-75-460",
+  "source_id": 34753,
+  "date": "2012-11-27",
+  "title": "Leasing sözleşmesinden doğan borçların tasfiyesine yönelik olarak düzenlenen protokol gereği yapılan ipotek tesisi işleminde damga vergisi ve harç muafiyeti olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34753",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "58e36bc9363ca130e7e8c4bced086e41e9e00280dd91cfc6fb5014c9d57904ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
