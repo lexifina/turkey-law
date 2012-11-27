@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-11-27",
+  "issue": "28480",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "25/11/2012 tarihli ve 28478 sayılı Resmî Gazete’de yayımlanan 2012/3801 sayılı Bakanlar Kurulu Kararı ile ilgili",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121127-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121127.htm",
+  "index_sha256": "4392e68897388057fd46e95fdfcc7e945320a26bf2adac932171abb2a1fc4e65",
+  "index_header": "27 Kasım 2012 ... 28480 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/11/20121127.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
