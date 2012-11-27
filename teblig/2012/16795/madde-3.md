@@ -1,0 +1,2 @@
+Yerli üretim dalının temsil niteliği
+MADDE 3 – (1) Başvuruda bulunan Elpa Elastiki İplikler Sanayi ve İhracat A.Ş. (Elpa) ile Şahin Lateks Sanayi ve Tic. A.Ş. (Şahin) 2011 yılı itibariyle soruşturma konusu üründe Türkiye üretiminin tamamını gerçekleştirdiğinden, Yönetmeliğin 20 nci maddesi gereğince şikayetin yerli üretim dalı (YÜD) adına yapıldığı tespit edilmiştir. Soruşturma esnasında bu tespiti değiştirecek herhangi bir somut bilgi alınmamıştır.
