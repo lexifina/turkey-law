@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GÎB.4.99.16.02-155[9-2012]-237",
+  "source_id": 35287,
+  "date": "2012-11-29",
+  "title": "Serbest bölgede çalışan personel ücretlerinde damga vergisi istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35287",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "6b056b958e778d46cd7e4d63d77fa796b507aa90634a23ec177bc36b7a31e8ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
