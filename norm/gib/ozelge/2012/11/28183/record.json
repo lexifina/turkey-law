@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[9-2012/198]-3113",
+  "source_id": 28183,
+  "date": "2012-11-29",
+  "title": "Özel hesap dönemi kullanan kurumun hesap dönemi olarak takvim yılını kullanmaya başladığında, özel hesap döneminde oluşan zararlarını indirim konusu yapıp yapamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/28183",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "64b2be0edf2b5edb388bcfe0ce98e193e27c2444ca217877a5b268545b7f2f7c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
