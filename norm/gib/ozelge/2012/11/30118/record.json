@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.01.0-VUK-315-239",
+  "source_id": 30118,
+  "date": "2012-11-29",
+  "title": "Şirket envanterine kayıtlı ancak yurtdışında bulunan bilgisayar donanımının kurulum ve muhafaza bedelinin itfası ve ilgili bedele ait kesinti yoluyla vergi ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/30118",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "5ea314844c334fad680c8f08a6cc0d5ce612391dd5f266b7cf2db785cc2d66aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
