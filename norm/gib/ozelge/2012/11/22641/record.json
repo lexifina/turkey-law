@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[8-2012/254]-3109",
+  "source_id": 22641,
+  "date": "2012-11-29",
+  "title": "Şirket bünyesinde geçici olarak görevlendirilen personelin şirket tarafından karşılanan yemek, benzin, otopark, telefon faturasının gider olarak dikkate alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22641",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "2303c6eef1ef0ed98895c88743d596e868d9f1b14657fe269a9ca4f3c806058a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
