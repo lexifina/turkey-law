@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; yutma bozuklukları tanı ve tedavisinde Üniversitenin ilgili bölüm ve anabilim dallarının işbirliği ile uzmanlar arasında birlik, beraberlik ve dayanışma sağlamak; işbirliğini desteklemek, yutma bozuklukları ile ilgili araştırmaları ve araştırmacıları desteklemek, yutma bozuklukları konusunda bilimsel çalışma ve gelişmelerden ilgili profesyonelleri haberdar etmek ve eğitim düzenlemek, yutma bozuklukları konusunda toplumsal farkındalığı artırmak, yutma bozuklukları ile ilgili teknolojileri hastalar ve profesyoneller için ulaşılabilir hale getirmek amacıyla çalışmalar yapmak, yutma bozuklukları hastalığı olan ve bu nedenle yaşam kalitesi standartları bozulan hasta ve hasta yakınlarını eğitmek, aralarındaki dayanışmayı teşvik etmek, onlara danışmanlık hizmetleri vermek ve eğitim seminerleri düzenlemektir.
