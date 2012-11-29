@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "5",
+  "decision_date": "2012-11-29",
+  "source_id": 18910,
+  "chamber": "5",
+  "ilam_number": "3",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18910/",
+  "source_sha256": "d0e54a71a18bc05824cfd6ce84b8eb17054d5acda30623f90e8dce850b12a5d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
