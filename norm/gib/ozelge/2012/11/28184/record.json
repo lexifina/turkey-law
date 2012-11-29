@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[9-2012/198]-3113",
+  "source_id": 28184,
+  "date": "2012-11-29",
+  "title": "Özel hesap döneminden normal hesap dönemine geçişte zarar indirimi uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28184",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "a832f0d9b696a5b2562be0ba7805c1935745ea24aadf0f1268b08ae0c166b9ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
