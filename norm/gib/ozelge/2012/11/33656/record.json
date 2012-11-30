@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-032-987",
+  "source_id": 33656,
+  "date": "2012-11-30",
+  "title": "Vakfa ait öğrenci yurdunun emlak vergisi, çevre temizlik vergisi, damga vergisi,Motorlu Taşıtlar Vergisi, Özel Tüketim Vergisi ve Harçlar Kanunu yönünden muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/33656",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "9b6a2438c8c13bebdf457d7811f581a713f556ff2fd5daab2d22248969de0296",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
