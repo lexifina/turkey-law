@@ -1,0 +1,20 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez, amacını gerçekleştirmek üzere aşağıdaki faaliyetleri yapar:
+a) Bilimsel bilgiyi edinme, kullanma ve üretebilme konusunda toplumsal bir ilgi uyandırmak,
+b) İlk ve orta öğretim düzeyindeki öğrencilerin, ilgi duydukları bilimsel alanlarda ve sanat dallarında güvenilir ve güncel bilgiyi, alanında uzman bilim adamlarından edinmesini sağlamak,
+c) Gençlerin eğilim ve kabiliyetlerinin erken yaşlarda keşfedilmesini sağlayarak; onların fen bilimleri, sosyal bilimler veya farklı sanat dallarında doğru tercihler yapmalarına yardımcı olmak,
+ç) Gençlerin erken yaşlarda bilimsel veya sosyal projelere dâhil olmasını sağlayarak, bilimsel araştırma yapabilme yeteneğini kazandırmak,
+d) Sanata ilgi duyan gençlerin o alanda gelişimine yardımcı olacak etkinliklere katılımını sağlamak,
+e) Gençler arasında Üniversiteye olan ilgiyi artırmak ve gelecekte yapacağı tercihler konusunda destek sağlamak,
+f) Yerel ve ülke genelinde kültürel araştırmalar yaparak Üniversite ile toplum arasında köprüler kurulmasını sağlamak,
+g) Eğitim programlarına katılan öğrencilerin yürüttüğü faaliyetler sonrasında, her bir öğrenciye ait kişisel gözlem raporları düzenleyerek, okulunu ve ailesini bilgilendirmek ve böylece insan kaynaklarını isabetli değerlendirmek,
+ğ) Öğrenciler için bilimsel, kültürel ve sanatla ilgili geziler düzenleyerek bu alanlardaki gelişimlerine ve etkileşimlerine katkıda bulunmak,
+h) Bölgesel ve ulusal düzeyde sosyal, kültür-sanat ve bilimsel yarışmalar düzenleyerek öğrencileri ödüllendirmek ve araştırma yapmaya teşvik etmek,
+ı) İlk ve orta öğrenim faaliyetlerini yürüten diğer kamu ve özel sektör kurumları ile birlikte ortak bilimsel çalışmalar yaparak bu kurumlarda görev alan eğitimcilerin de akademik bir bakışla kendi kurumlarında eğitim yapmalarına yardımcı olmak,
+i) Eğitimin önemli bir ayağı olan veli ve aileyi içine alan programlar ve etkinlikler düzenleyerek, ailelere rehberlik etmek ve ailelerin de gençlerde bilimsel düşüncenin gelişimine katkıda bulunmasına yardımcı olmak,
+j) Okula gidemeyen çocuklar tespit edilerek, bu çocuklar ve ailelerinin katılımı ile gerçekleştirilecek olan bilimsel ve kültürel etkinlikler yardımıyla okullaşma oranının artmasına katkıda bulunmak,
+k) Ağrı ve yakın çevresinin sahip olduğu geleneksel kültür değerlerini araştırmak, resim, heykel, seramik, fotoğraf, folklor, şiir ve halk edebiyatı gibi sanat ve el sanatlarının gelişimine katkıda bulunmak, bilimsel araştırma, geliştirme ve tasarım projeleri geliştirmek, uygulanmasına koordinatörlük yapmak, danışmanlık hizmeti vermek,
+l) Kültür ve sanat araştırma çalışmalarının çağdaş düzeyde yerleşmesi ve yaygınlaşması için gerekli faaliyetlerde bulunmak, yapılacak çalışmalarla ilgili kitap ve dergi, sanat belgeleri, çeşitli tarihsel dokümanlar, fotoğraf, afiş, broşür, CD, kaset ve benzeri yazılı-sesli-görsel dokümanlar hazırlayarak bir arşiv oluşturmak, bu birikimleri araştırmacıların ve eğitimcilerin hizmetine sunmak,
+m) Tüm engelli grupları dâhil, her düzeyde araştırmacının ve tasarımcının gelişimine yönelik eğitim ve öğretim programları; konferanslar, konserler, kurslar, seminerler, ulusal ve uluslararası kongreler, yaz okulları düzenlemek. Bu tür etkinliklerde, çalışmalara ilişkin sertifikalar vermek ve etkinliklerle ilgili yayınlar yapmak. Merkezin ihtiyaç duyduğu alanlarda gerçek ve tüzel kişilerle işbirliği yapmak,
+n) Araştırmacılar ve tasarımcılar arasında bilimsel-sanatsal proje yarışmaları düzenleyerek bu çalışmaları teşvik etmek, sanatçıların telif haklarını korumak, gerekli olduğu hallerde patent hakkı alınmasına yardımcı olmak,
+o) Kimsesiz, yetim ve özürlülerin bakımı ve refahı alanında çalışacak uzmanların yetişmesi için eğitim programları düzenlemek, eğitimine devam eden ve çalışan tüm engelli bireylerin bilgi ve becerilerini en etkin şekilde kullanarak eğitime, öğretime, sosyal yaşama ve kültürel alanlara eşit bir şekilde katılımlarına destek olacak bilimsel araştırmaları ve etkinlikleri gerçekleştirmek ve konu ile ilgili geliştirilecek planlamalara, stratejilere ve politikalara katkı sağlamak.
