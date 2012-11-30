@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "63611781-KVK.MUK.205-37",
+  "source_id": 27894,
+  "date": "2012-11-30",
+  "title": "Şirketin aktifine kayıtlı gayrimenkullerin satışından elde edilen kazanç nedeniyle kurumlar vergisi istisnasından yararlanılması ve daha sonrasında şirketin tasfiyeye girmesi halinde satış kazancının vergilendirilip vergilendirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/27894",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "37bad90d04a93e1412ba7e327478330f8511e01abd11b8664cf5d185a19185f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
