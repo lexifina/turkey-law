@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.16820",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİ YÖNETMELİĞİ (89/106/EEC) KAPSAMINDA UDEM ULUSLARARASI BELGELENDİRME DENETİM EĞİTİM LTD. ŞTİ. NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (TEBLİĞ NO: MHG/2012-13)",
+  "number": "16820",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2012/16820",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16820&MevzuatTertip=5",
+  "source_sha256": "677a49ee5051dc69a397c7a6a9e9370d5593bcd2b3c7cf443c1cc30a00112986",
+  "source_bytes": 84083,
+  "published": "2012-12-01",
+  "gazette": "28484",
+  "in_force": "2012-12-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.12.2012); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1158,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://ec.europa.eu/enterprise/newapproach/nando/index.cfm?fuseaction=notification.html&ntf_id=215021&version_no=25"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
