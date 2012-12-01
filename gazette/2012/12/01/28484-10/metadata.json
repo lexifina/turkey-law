@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-12-01",
+  "issue": "28484",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2012/72)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121201-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121201.htm",
+  "index_sha256": "e1f91c64f06b4f73c98ea2385104c2ebec840c1a9c39003819a577a5e27b5f75",
+  "index_header": "1 Aralık 2012 ... 28484 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121201.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
