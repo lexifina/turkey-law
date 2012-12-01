@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "Doğu Karadeniz Kalkınma Ajansı 2012 Yılı Denetim Raporu",
+  "category": "Kalkınma Ajansları",
+  "category_id": "33-kalkinma-ajanslari",
+  "report_year": 2012,
+  "report_date": "2012-12-01",
+  "date_precision": "month",
+  "date_as_printed": "Aralık 2012",
+  "source": "https://www.sayistay.gov.tr/reports/DNYndZ9g7b-dogu-karadeniz-kalkinma-ajansi-2012-yili-denetim-raporu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/DNYndZ9g7b-dogu-karadeniz-kalkinma-ajansi-2012-yili-denetim-raporu",
+  "source_sha256": "9e9827efa195ba3b1d6fb54742898d5a84609fe80e22efbb6d60ac5dfe256aff",
+  "pdf_pages": 38,
+  "listing": "https://www.sayistay.gov.tr/reports/category/33-kalkinma-ajanslari?page=13",
+  "listing_sha256": "55e39efabb0a7b864dc8dc06b7f606bc6125a79c384ce9a68115e20a8e7bf2d1",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2012-12-01",
+  "in_force_basis": "Official report PDF cover: \"Aralık 2012\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
