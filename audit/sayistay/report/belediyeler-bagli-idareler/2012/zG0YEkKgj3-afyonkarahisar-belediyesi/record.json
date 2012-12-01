@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "AFYONKARAHİSAR BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2012,
+  "report_date": "2012-12-01",
+  "date_precision": "month",
+  "date_as_printed": "Aralık 2012",
+  "source": "https://www.sayistay.gov.tr/reports/zG0YEkKgj3-afyonkarahisar-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/zG0YEkKgj3-afyonkarahisar-belediyesi",
+  "source_sha256": "fbc46fe5a8ac18f98c0ab227f5e7f0d81fb1a2f25089b0a5ee72f6ba67431903",
+  "pdf_pages": 11,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=311",
+  "listing_sha256": "9a23ff70362aaab7be429e44627f7ffb12cb0db1372fc8b1bea66db6019fd21d",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2012-12-01",
+  "in_force_basis": "Official report PDF cover: \"Aralık 2012\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
