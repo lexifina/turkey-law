@@ -1,0 +1,3 @@
+İş Artışından Damga Vergisi Kesintisinin Yapılmaması.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, …. Belediyesi’nin “Tıbbi Atıkların Toplanması, Taşınması ve Sterilizasyon Edildikten Sonra Bertaraf Edilmesi Hizmet Alımı işinde …. TL’lik iş artışı yapılmasına karşılık artan tutarlar üzerinden damga vergisi kesintisi yapılmaması ve ek kesin teminatın alınmaması sonucunda …. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizi ….Ltd. Şti.’nden … tarih ve ….sayılı muhasebe işlem fişi ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
