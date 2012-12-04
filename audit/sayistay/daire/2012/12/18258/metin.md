@@ -1,0 +1,3 @@
+Kira Bedeli Üzerinden Alınması Gereken Damga Vergisinin Eksik Alınması.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, söz konusu yerin kiraya verilmesine ilişkin ihale kararından, 488 sayılı Damga Vergisi Kanununa ekli 1 sayılı Tablonun “II. Kararlar ve Mazbatalar” başlığının 2’nci bendi uyarınca alınması gereken damga  vergisinin 1 yıllık kira bedeli  üzerinden hesaplanması sonucu …. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizi ….İşletmesi’nden ….tarih ve …. sayılı teslimat müzekkeresi ile tahsil edildiğinden ilişilecek husus kalmadığına                 oy birliğiyle karar verildi.
