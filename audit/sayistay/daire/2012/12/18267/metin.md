@@ -1,0 +1,3 @@
+Yıllara Sari Niteliğinde Olan İşe Ait Hakediş Ödemesinde 193 Sayılı Gelir Vergisi Kanunu’nun 42’nci Maddesi Uyarınca Gelir Vergisi Stopajı Kesintisinin Yapılmaması.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; yıllara sari nitelikte olan “…. Belediyesi …. Sosyal Hizmet Binası Yapımı” işine ait 3 nolu hakediş ödemesinden 193 sayılı Gelir Vergisi Kanunu’nun 42’nci maddesi uyarınca yapılması gereken gelir vergisi stopajı kesintisi yılı içinde …. tarih ve …nolu muhasebe işlem fişi ile yapılmış olduğundan,  … TL ile ilgili olarak ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
