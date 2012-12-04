@@ -1,0 +1,3 @@
+Sigorta Primi ve Asgari Ücret Fiyat Farkı
+
+… Büyükşehir Belediyesi tarafından gerçekleştirilen ….. Şti. yüklenimindeki “...Personel Hizmeti Alımı” ihalesinde; kısa vadeli sigorta priminin yüksek ödenmesi ve asgari ücret fiyat farkının, kısa vadeli sigorta priminin yüksek hesaplanması suretiyle hatalı ödenmesi nedenleriyle kamu zararına sebep olunduğu iddialarına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; toplam … TL kamu zararına neden olunduğu görülmüş ise de, bu kamu zararı tutarı ahizi … ... Şti.’ den … tarih ve … yevmiye no.lu muhasebe işlem fişi ile mahsuben tahsil edildiğinden ilişilecek husus kalmadığına oybirliğiyle, karar verildi.
