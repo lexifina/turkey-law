@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "35875",
+  "decision_date": "2012-12-04",
+  "source_id": 5480,
+  "chamber": "6",
+  "file_number": "35550",
+  "account_year": "2008",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5480/",
+  "source_sha256": "3cffb14ff0a38d9ecfd22a7e176d9afc9e943ff17fc5e526eb71da98911d6406",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
