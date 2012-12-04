@@ -1,0 +1,7 @@
+Binicilik ve Atlı Spor Tesisinde Bulunan Atların Beslenme ve Bakımlarının Belediye Bütçesinden Karşılanması.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, söz konusu tesis alanının ….Genel Müdürlüğü’ne …. Bakanlığı tarafından devredildiği, yer tahsisi yapılırken Bakanlıkla imzalanan “Kesin İzin Taahhüt Senedinin” 10’uncu maddesinde, “İzin verilen orman sahası ve üzerindeki tesisleri çevre ve orman bakanlığının izni olmadan başka şahıs ve kurumlara devredilemez ve işletmeye verilemez, tesislerin mütemmim cüzlerinden oluşan bir bölümünün (otopark, kantin v.b.) üçüncü kişilere işlettirilmesinin, kiralanmasının talep edilmesi halinde Orman Bakanlığınca kiralama izni verilebilir” hükmü doğrultusunda …. Genel Müdürlüğü tarafından belediyece işletilmesi için adı geçen Bakanlıktan izin istendiği, ancak iznin verilmediği ve bu hüküm doğrultusunda belediye ile protokol yapıldığı anlaşılmıştır.
+
+Yapılan protokolde, Binicilik ve Atlı Spor Tesisinde bulunan atların beslenme ve bakım giderlerinin belediye tarafından karşılanacağı hüküm altına alınmıştır.
+
+5393 sayılı Belediye Kanunu’nun 14’üncü maddesinde mahalli müşterek nitelikte olmak şartıyla gençlik ve spor hizmetlerinin belediye tarafından yapılacağına ilişkin düzenleme bulunmaktadır. Bu hüküm doğrultusunda …. Genel Müdürlüğü ile yapılan protokolle Binicilik ve Atlı Spor Tesisinde bulunan atların beslenme ve bakım giderleri belediye bütçesinden karşılandığından, ….. TL’nin ödenmesi  ilgili olarak ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
