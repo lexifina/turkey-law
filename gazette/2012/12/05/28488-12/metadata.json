@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-12-05",
+  "issue": "28488",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Gıda Kodeksi Et ve Et Ürünleri Tebliği (No: 2012/74)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121205-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121205.htm",
+  "index_sha256": "1ff5c7d4f6544649e70afc792718365e8e80b1000dec1ea90214f484c636d5af",
+  "index_header": "5 Aralık 2012 ... 28488 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121205.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
