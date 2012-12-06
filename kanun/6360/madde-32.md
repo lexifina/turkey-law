@@ -1,0 +1,1 @@
+MADDE 32 – 18/2/1963 tarihli ve 197 sayılı Motorlu Taşıtlar Vergisi Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendinde yer alan “köy tüzel kişilikleri” ibaresinden sonra gelmek üzere “ile bunların üyesi oldukları mahalli idare birlikleri” ibaresi eklenmiştir.

@@ -1,0 +1,1 @@
+MADDE 31 – 15/7/1950 tarihli ve 5682 sayılı Pasaport Kanununun 13 üncü maddesinin üçüncü fıkrasında yer alan “Diyanet İşleri Başkanına,” ibaresinden sonra gelmek üzere “Valilere, Büyükşehir Belediye başkanlarına,” ibaresi eklenmiş ve 14 üncü maddesinin üçüncü fıkrasında yer alan “Büyükşehir” ibaresi madde metninden çıkarılmıştır.

@@ -1,0 +1,2 @@
+MADDE 4 – 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 3 üncü maddesinin birinci fıkrasının (a) bendi aşağıdaki şekilde değiştirilmiş, (d) bendi yürürlükten kaldırılmıştır.
+“a) Büyükşehir belediyesi: Sınırları il mülki sınırı olan ve sınırları içerisindeki ilçe belediyeleri arasında koordinasyonu sağlayan; idarî ve malî özerkliğe sahip olarak kanunlarla verilen görev ve sorumlulukları yerine getiren, yetkileri kullanan; karar organı seçmenler tarafından seçilerek oluşturulan kamu tüzel kişisini,”

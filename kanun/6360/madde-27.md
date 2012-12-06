@@ -1,0 +1,2 @@
+MADDE 27 – 5779 sayılı Kanunun 6 ncı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+“(1) Kesinleşmiş en son genel bütçe vergi gelirleri tahsilâtı toplamının binde biri Maliye Bakanlığı bütçesine nüfusu 10.000’e kadar olan belediyeler için kullanılmak üzere denkleştirme ödeneği olarak konulur. Maliye Bakanlığı, bu ödeneği, mart ve temmuz aylarında iki eşit taksit hâlinde dağıtılmak üzere, İlbank A.Ş. hesabına aktarır. İlbank A.Ş., hesabına aktarılan ödeneğin yüzde 65’ini eşit şekilde, yüzde 35’ini ise nüfus esasına göre dağıtır.”

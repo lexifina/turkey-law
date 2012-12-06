@@ -1,0 +1,3 @@
+MADDE 12 – 5216 sayılı Kanunun 10 uncu maddesinin başlığı “Büyükşehir belediyesi ve ilçe belediyelerinin yetkileri ve imtiyazları” şeklinde, aynı maddede yer alan “, ilçe ve ilk kademe” ibaresi “ve ilçe” şeklinde, 17 nci maddesinin üçüncü fıkrasında yer alan “büyükşehir kapsamındaki ilçe ve ilk kademe” ibaresi “ilçe” şeklinde, 19 uncu maddesinin birinci fıkrasında
+11748
+yer alan “, ilçe ve ilk kademe” ibaresi “ve ilçe” şeklinde, 25 inci maddesinin ikinci fıkrasında yer alan “Büyükşehir, ilçe ve ilk kademe” ibaresi “Büyükşehir ve ilçe” şeklinde, 28 inci maddesinin birinci fıkrasında yer alan “büyükşehir” ibaresinden sonra gelen “, büyükşehir ilçe ve ilk kademe” ibaresi “ve ilçe” şeklinde değiştirilmiştir.

@@ -1,0 +1,1 @@
+MADDE 20 – 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun 13 üncü maddesinin birinci fıkrasına “Valinin önerdiği hususlar” ibaresinden sonra gelmek üzere “meclisin ilk toplantısında” ibaresi eklenmiştir.

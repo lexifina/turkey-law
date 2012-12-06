@@ -1,0 +1,2 @@
+MADDE 30 – 2972 sayılı Kanunun 32 nci maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
+“Muhtar ile ihtiyar meclisi veya heyeti üyelerinin seçiminde; muhtar ile bu Kanunun 30 uncu maddesinin (a) ve (b) bentlerinde gösterilen ihtiyar meclisi veya heyeti üye sayısı kadar ismin birlikte yazılı olduğu oy pusulası kullanılır. Oy pusulası Yüksek Seçim Kurulunca hazırlanan özel zarfa konularak oy sandığına atılır.”
