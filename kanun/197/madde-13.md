@@ -14,7 +14,7 @@ b) Motorlu Taşıtlar Vergisi mükellefleri, adlarına kayıt ve tescil edilmiş
 (6) 26/11/1980 tarihli ve 2348 sayılı Kanunun 10 uncu maddesiyle bölüm başlığı “Çeşitli Hükümler” olarak, madde başlığı ise “Bildirme ve Sorumluluk” olarak değiştirilmiş ve değişiklik metne işlenmiştir.
 (7) 6/5/2009 tarihli ve 5897 sayılı Kanunun 2 nci maddesiyle;bu maddenin (a) bendinde yer alan “, belediye veya liman” ibaresi madde metninden çıkarılmıştır.
 (8) (a) ve (b) bentlerinde yer alan "vukua gelen" ibareleri, "meydana gelen"; "vuku bulduğu" ibaresi, "meydana geldiği" şeklinde 25/12/2003 tarihli ve 5035 sayılı Kanunun 48 inci maddesiyle değiştirilmiş ve metne işlenmiştir.
-3718-1 (3719)
+3718-1 /3719
 Bu mecburiyetlere riayet etmeyenler hakkında 213 sayılı Vergi Usul Kanununun 352 nci maddesine bağlı usulsüzlük cezalarına ait cetvelin (İhtar 2) sırasına göre ceza kesilir.
 c) (Değişik: 24/3/1988 - 3418/16 md.) Noterler trafik (…)(2) sicil memurları ile Ulaştırma Bakanlığı sivil hava vasıtaları sicil memurları gibi, taşıtların her türlü satış veya devir işlemlerini yapanlar, motorlu taşıtların her türlü satış veya devir işlemlerini yapmadan önce, bu taşıtlara ait o güne kadar ödenmemiş motorlu taşıtlar vergileri ile gecikme zamları, gecikme faizleri ve vergi cezalarının ödendiğini gösterir belgeyi istemeye mecburdurlar. (1)(2)
 d) Taşıtlarla ilgili fenni muayene komisyonları, fenni muayene yapma yetkisi verilen gerçek ve tüzel kişiler (…) (2) ile Ulaştırma Bakanlığı sivil havacılık genel müdürlüğü taşıtların fenni muayenelerini yapmadan, (…) (2) uçuşa elverişli belgelerini vermeden önce, verginin ödenip ödenmediğini araştırmak zorundadırlar. (2)(3)

@@ -24,5 +24,5 @@ Motor Silindir Hacmi (cm³) | Taşıtların Yaşları İle Ödenecek Yıllık Ve
 ——————————
 (1) 26/11/1980 tarihli ve 2348 sayılı Kanunun 5 inci maddesiyle bölüm başlığı “Vergileme Ölçü ve Hadleri” olarak değiştirilmiş ve değişiklik metne işlenmiştir.
 (2) Bu taşıtlar için yıllar itibarıyla uygulanacak olan motorlu taşıtlar vergisi tutarları, Türkiye Sigorta ve Reasürans Şirketleri Birliği tarafından her yılın Ocak ayında ilan edilen kasko sigortası değerlerinin % 5’ini aşması halinde, aynı yaş grubunda bulunan taşıtlara ait vergi tutarları, bir alt kademedeki taşıtlara isabet eden vergi tutarı olarak uygulanacağı 14/12/2004 tarihli ve 2004/8327 sayılı Bakanlar Kurulu Kararının Eki Karar ile hüküm altına alınmıştır.
-(3) Bu tarifenin, 1/1/2012 tarihinden itibaren uygulanması ile ilgili olarak, 26/12/2011 tarihli ve 28154 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının (Seri No:39) Tebliğine bakınız.
+(3) Bu tarifenin, 1/1/2013 tarihinden itibaren uygulanması ile ilgili olarak, 31/12/2012 tarihli ve 28514(4.Mükerrer) sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının (Seri No:42) Tebliğine bakınız.
 3716

@@ -34,7 +34,7 @@ Madde 34 – Belediye sınırları ve mücavir alanlar içinde elektrik ve havag
 Mükellef ve sorumlu:
 Madde 35 – Elektrik ve Havagazı tüketenler, Elektrik ve Havagazı Tüketim Vergisini ödemekle mükelleftirler.
 5260
-(Değişik ikinci fıkra: 9/7/2008-5784/14 md.) 20/2/2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanununa göre elektrik enerjisini tedarik eden ve havagazını dağıtan kuruluşlar, satış bedeli ile birlikte bu verginin de tahsilinden ve ilgili belediyeye yatırılmasından sorumludurlar. Organize sanayi bölgelerinde tüketilen elektrik enerjisinin vergisini organize sanayi bölgeleri tüzel kişiliklerine elektriği temin eden kuruluş öder. (1)
+(Değişik ikinci fıkra: 9/7/2008-5784/14 md.) 20/2/2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanununa göre elektrik enerjisini tedarik eden ve havagazını dağıtan kuruluşlar, satış bedeli ile birlikte bu verginin de tahsilinden ve ilgili belediyeye yatırılmasından sorumludurlar. Organize sanayi bölgelerinde tüketilen elektrik enerjisinin vergisini organize sanayi bölgeleri tüzel kişiliklerine elektriği temin eden kuruluş öder.
 İstisnalar:
 Madde 36 – Aşağıdaki yazılı yerlerde ve şekillerde tüketilen elektrik ve havagazı vergiden müstesnadır.
 1. Kazanç amacı gütmemek şartıyla işletilen; hastane, dispanser, klinik, sağlık ocağı ve merkezleri, rehabilitasyon, teşhis ve tedavi merkez ve kurumları, doğum ve çocuk bakımevleri, kreşler, sanatoryum, Prevantoryum gibi sağlık kuruluşları ile düşkünler evi, yetimhaneler, Çocuk Esirgeme Kurumu ve korunmaya muhtaç çocukları koruma birliklerine ait çocuk yurtları ve bunlara bağlı işyerleri gibi sosyal yardım kuruluşlarında,
@@ -49,7 +49,7 @@ Madde 38 – Elektrik ve Havagazı Tüketim Vergisi aşağıda gösterilen nispe
 a) İmal ve istihsal, taşıma, yükleme boşaltma, soğutma, telli ve telsiz telgraf ve telefon müraselesi işlerinde tüketilen elektriğin satış bedeli üzerinden yüzde 1,
 b) (a) bendi dışında kalan maksatlar için tüketilen elektriğin satış bedeli üzerinden yüzde 5,
 c) Havagazının satış bedelinden yüzde 5.
-Beyan ve ödeme: (2) (3)
+Beyan ve ödeme: (1)
 Madde 39 – Elektrik enerjisini tedarik eden veya havagazını dağıtan kuruluşlar tahsil ettikleri vergiyi, tahsil tarihini takibeden ayın 20 nci günü akşamına kadar belediyeye bir beyanname ile bildirmeye ve vergiyi aynı sürede ödemeye mecburdurlar. Elektrik ve havagazı işleri bütçesi içinde yer alan belediyeler bu hükümden müstesnadır.
 3.Yangın sigortası vergisi:
 Konu:
@@ -59,9 +59,7 @@ Madde 41 – Yangın Sigortası Vergisini, sigorta şirketleri ödemekle mükell
 Matrah:
 Madde 42 – Yangın Sigortası Vergisinin matrahı, yapılan yangın sigorta muameleleri dolayısıyla alınan primlerin tutarıdır.
 –––––––––––––
-(1) 31/12/2008 tarihli ve 27097 Mükerer sayılı Resmi Gazete’de yayımlanan 27/12/2008 tarihli ve 5828 sayılı 2009 Yılı Merkezi Bütçe Kanununun 29 uncu maddesi uyarınca 1/1/2009 tarihinden sonra verilmesi gereken elektrik ve havagazı tüketim vergisi beyannamelerine uygulanmak üzere bu fıkrada yer alan “ilgili belediyeye” ibaresi, 2009 yılı için“kurumlar vergisi yönünden bağlı bulundukları vergi dairesine” şeklinde uygulanır.
-(2) 9/7/2008 tarihli ve 5784 sayılı Kanunun 16 ncı maddesiyle; bu maddenin birinci cümlesinde yer alan “Elektrik ve havagazını” ibaresi “Elektrik enerjisini tedarik eden veya havagazını” şeklinde değiştirilmiş ve metne işlenmiştir.
-(3) 31/12/2008 tarihli ve 27097 Mükerer sayılı Resmi Gazete’de yayımlanan 27/12/2008 tarihli ve 5828 sayılı 2009 Yılı Merkezi Bütçe Kanununun 29 uncu maddesi uyarınca 1/1/2009 tarihinden sonra verilmesi gereken elektrik ve havagazı tüketim vergisi beyannamelerine uygulanmak üzere bu maddede yer alan“belediyeye bir beyanname ile bildirmeye ve vergiyi aynı sürede ödemeye mecburdurlar.” ibaresi, 2009 yılı için“kurumlar vergisi yönünden bağlı bulundukları vergi dairesine, Maliye Bakanlığınca belirlenecek usul ve esaslara göre bir beyannameyle bildirmeye ve vergiyi aynı sürede, Genel Bütçenin (B) işaretli cetveline gelir kaydedilmek üzere, ödemeye mecburdurlar. Verginin tarh, tahakkuk ve tahsiline ilgili vergi daireleri yetkilidir.” şeklinde uygulanır.
+(1) 9/7/2008 tarihli ve 5784 sayılı Kanunun 16 ncı maddesiyle; bu maddenin birinci cümlesinde yer alan “Elektrik ve havagazını” ibaresi “Elektrik enerjisini tedarik eden veya havagazını” şeklinde değiştirilmiş ve metne işlenmiştir.
 5261
 Sigorta şirketleri vergilendirme dönemi içinde iptal edilen yangın sigorta muamelelerine ait primleri, iptalin vukubulduğu döneme ait matrahtan indirilebilirler.
 Nispet:
@@ -87,7 +85,7 @@ Bina Grupları | 1. Derece | 2. Derece | 3. Derece | 4. Derece | 5. Derece
 Belediyenin çevre temizlik hizmetlerinden yararlanan ancak, su ihtiyacını belediyece tesis edilmiş su şebekesi haricinden karşılayan konutlara ilişkin çevre temizlik vergisi, yukarıdaki tarifenin yedinci grubunun belediye meclisince belirlenecek derecesi üzerinden hesaplanır.
 Su tüketim miktarı esas alınmak suretiyle hesaplanan çevre temizlik vergisi, su faturasında ayrıca gösterilmek suretiyle tahakkuk etmiş sayılır. Bu suretle tahakkuk eden vergi, su tüketim bedeli ile birlikte belediyelerce tahsil edilir. Su ve kanalizasyon hizmetleri ayrı bir kanunla düzenlenmiş bulunan büyük şehir belediye sınırları ve mücavir alanlardaki çevre temizlik vergisi ise 20.11.1981 tarihli ve 2560 sayılı Kanun hükümlerine göre kurulan su ve kanalizasyon idarelerince tahsil edilir.
 ––––––––––––––
-(1) Bu maddenin 1/1/2012 tarihinden itibaren uygulanması ile ilgili olarak; 26/12/2011 tarihli ve 28154 sayılı Resmi Gazete'de yayımlanan Maliye Bakanlığının 40 Seri No.'lu Tebliğine bakınız.
+(1) Bu maddenin 1/1/2013 tarihinden itibaren uygulanması ile ilgili olarak; 31/12/2012 tarihli ve 28514 (4.Mükerrer) sayılı Resmi Gazete'de yayımlanan Maliye Bakanlığının 42 Seri No.'lu Tebliğine bakınız.
 5262
 İş yeri ve diğer şekillerde kullanılan binalara ait çevre temizlik vergisi, belediyelerce binaların tarifedeki derecelere intibak ettirilmesi üzerine her yılın Ocak ayında yıllık tutarı itibarıyla tahakkuk etmiş sayılır. Tahakkuk eden vergi, bir defaya mahsus olmak üzere, belediyelerin ilan mahallerinde bir ay süreyle topluca ilan edilir. İş yeri ve diğer şekilde kullanılan binalarla ilgili olarak tahakkuk eden bu vergi, her yıl, emlak vergisinin taksit sürelerinde ödenir.
 Su ve kanalizasyon idareleri büyük şehir dahilindeki her ilçe veya ilk kademe belediyesinin belediye ve mücavir alan sınırları içinde bulunan konutlara ilişkin olarak tahsil ettiği çevre temizlik vergisi ile bu verginin süresinde ödenmemesi nedeniyle tahsil ettiği gecikme zammının yüzde seksenini tahsilatı takip eden ayın yirminci günü akşamına kadar bir bildirim ile ilgili belediyeye bildirerek aynı süre içinde öder. Tahsil edilen vergi ve gecikme zammının yüzde yirmisini ise münhasıran çöp imha tesislerinin kuruluş ve işletmelerinde kullanılmak üzere büyük şehir belediyesinin hesabına tahsilatı takip eden ayın yirminci günü akşamına kadar aktarır. Büyük şehir belediye sınırları içinde bulunan belediyelerin kendileri tarafından tahsil edilen çevre temizlik vergisinin yüzde yirmisi aynı esaslar çerçevesinde büyük şehir belediyelerine aktarılır.
@@ -326,7 +324,7 @@ Harçların uygulanmasına ilişkin esas ve usuller İçişleri Bakanlığınca 
 ÜÇÜNCÜ KISIM
 Harcamalara Katılma Payları
 Yol harcamalarına katılma payı:
-Madde 86 – Belediyelerce veya belediyelere bağlı müesseselerce aşağıdaki şekillerde inşa, tamir ve genişletilmeye tabi tutulan yolların iki tarafında bulunan veya başka bir yola çıkışı olmaması dolayısıyla bu yoldan yararlanan gayrimenkullerin sahiplerinden Yol Harcamalarına Katılma Payı alınır:
+Madde 86 – (Değişik birinci cümle: 12/11/2012-6360/28 md.) Belediyelerce veya belediyelere bağlı müesseselerce aşağıdaki şekillerde inşa, tamir ve genişletilmeye tabi tutulan yolların iki tarafında bulunan veya başka bir yola çıkışı olmaması dolayısıyla bu yoldan yararlanan gayrimenkullerin sahiplerinden meclis kararı ile Yol Harcamalarına Katılma Payı alınabilir.
 a) Yeni yol açılması;
 b) Mevcut yolların yüzde 40 nispetinde veya daha fazla genişletilmesi;
 c) Kaldırımsız ve bakımsız bulunan yolların, kaldırım veya parke kaldırım haline getirilmesi veya asfalt yapılması,kaldırım veya şose halindeki yolların da parke, beton veya asfalta çevrilmesi;
@@ -443,6 +441,10 @@ Geçici Madde 5 – (Ek: 25/12/2003 - 5035/42 md.)
 31.12.2005 tarihini geçmemek üzere, mükerrer 44 üncü maddede yer alan yetkiler kullanılıncaya kadar, iş yeri ve diğer şekilde kullanılan binalara ait çevre temizlik vergisinin tarh ve tahakkukunda, söz konusu maddenin bu Kanunla değişmeden önceki hükümlerine göre çıkarılmış bulunan Bakanlar Kurulu Kararı ile belediyelerce alınmış kararlar uygulanmaya devam olunur.
 Geçici Madde 6 – (Ek: 25/6/2009 - 5917/18 md.)
 31/12/2009 tarihine kadar tahakkuk eden elektrik ve havagazı tüketim vergileri için; bu Kanunun 35 inci maddesinin ikinci fıkrasında yer alan “ilgili belediyeye” ibaresi “kurumlar vergisi yönünden bağlı bulundukları vergi dairesine” şeklinde, 39 uncu maddesinde yer alan “belediyeye bir beyanname ile bildirmeye ve vergiyi aynı sürede ödemeye mecburdurlar.” ibaresi “kurumlar vergisi yönünden bağlı bulundukları vergi dairesine, Maliye Bakanlığınca belirlenen usul ve esaslara göre bir beyannameyle bildirmeye ve vergiyi aynı sürede, genel bütçenin (B) işaretli cetveline gelir kaydedilmek üzere ödemeye mecburdurlar; verginin tarh, tahakkuk ve tahsiline ilgili vergi daireleri yetkilidir.” şeklinde uygulanır.
+Yürürlük:
+Madde 106 – Bu Kanunun;
+a) (Değişik: 21/1/1982 - 2589/4 md.) Temizleme ve Aydınlatma Harcı ile ilgili 45 ila 51 inci madde hükümleri, Emlak Vergisi 1980 genel beyan dönemini izleyen ilk genel beyan döneminin rastladığı bütçe yılının başında,
+b) Diğer hükümleri 1 Temmuz 1981 tarihinde yürürlüğe girer.
 Yürütme:
 Madde 107 – Bu Kanunu Bakanlar Kurulu yürütür.
 26/5/1981 TARİHLİ VE 2464 SAYILI ANA KANUNA İŞLENEMEYEN GEÇİCİ MADDELER:

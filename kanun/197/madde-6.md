@@ -22,7 +22,7 @@ Taşıt Cinsi ve Oturma Yeri/Azami Toplam Ağırlık | Taşıtların Yaşları �
 20.001 kg ve yukarısı | 1.500.000.000 | 1.200.000.000 | 700.000.000
 ____________________
 (1) 6/5/2009 tarihli ve 5897 sayılı Kanunun 2 nci maddesiyle; bu maddenin birinci fıkrasında yer alan “; özel amaçla kullanılan yat, kotra ve her türlü motorlu tekneler (III) sayılı tarifeye” ibaresi madde metninden çıkarılmıştır.
-(2) Bu tarifenin, 1/1/2012 tarihinden itibaren uygulanması ile ilgili olarak, 26/12/2011 tarihli ve 28154 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının (Seri No:39) Tebliğine bakınız.
+(2) Bu tarifenin, 1/1/2013 tarihinden itibaren uygulanması ile ilgili olarak, 31/12/2012 tarihli ve 28514(4.Mükerrer) sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının (Seri No:42) Tebliğine bakınız.
 3716-1
 (III) SAYILI TARİFE
 (Mülga: 6/5/2009-5897/2 md.)
