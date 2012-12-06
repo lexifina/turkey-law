@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-120[9-37-47-48-2012/32]-177",
+  "source_id": 20955,
+  "date": "2012-12-06",
+  "title": "Bakır, pirinç gibi metaller, değerli olmayan taşlar ve makrome iplerinden oluşturulan takı çalışmalarının sezonluk stantta ve haftada bir gün pazarda satılmasında esnaf muaflığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20955",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "91bd5536193ec029cb6281fb868b74e81acb3b6a84f0b0dd67609d1ef949b221",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
