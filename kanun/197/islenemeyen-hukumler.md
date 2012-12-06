@@ -12,6 +12,7 @@ Geçici Madde 1 – 28/2/1980 tarihine kadarki dönemlere ait olarak tahakkuk ed
 Geçici Madde 1. – Bu Kanunun yürürlüğe girdiği tarihe kadar (bu tarih dahil) her bir vergi türü, vergilendirme dönemi ve vergi dairesi itibariyle miktarı 500.000 lirayı aşmayan ve vadesi geldiği halde ödenmemiş olan vergiler ile bu tarih itibariyle ihtilaflı hale getirilmiş ya da dava açma süresi henüz geçmemiş olan ve miktarı 500.000 lirayı aşmayan vergilerin % 30 fazlasıyla ve ihtilaf yaratmamak, yaratılmış ihtilaftan vazgeçmek kaydıyla 31.12.1988 tarihi sonuna kadar ödenmesi halinde, ödenen bu vergilere isabet eden gecikme zammı, gecikme faizi ve vergi cezalarının tahsilinden vazgeçilir.
 Bu Kanunun yürürlüğe girdiği tarihten önce her bir vergi türü, vergilendirme dönemi ve vergi dairesi itibariyle asılları kısmen veya tamamen ödenmiş bulunan vergilere ait olan ve her vergi türü itibariyle miktarı 500.000 lirayı aşmayan gecikme zammı, gecikme faizi ve vergi cezalarının % 30'unun 31.12.1988 tarihi sonuna kadar ödenmesi halinde, kalan % 70'inin tahsilinden vazgeçilir.
 Bu maddenin uygulanmasına ait usul ve esaslar Maliye ve Gümrük Bakanlığınca belirlenir.
+3720-2
 3720-3
 197 Sayılı Kanunun Çeşitli Maddelerindeki Oran ve Miktarlarda
 ÇEŞİTLİ MEVZUAT İLE YAPILAN
@@ -37,6 +38,7 @@ Tebliğ 28 20/12/2006 26382 I,II,III,IV
 Tebliğ 29 26/12/2007 26738 I,II,III,IV
 Tebliğ 31 26/12/2008 27092 I, II, III, IV.
 Tebliğ 34 31/12/2009 27449 I, II, IV.
-Tebliğ 37 29/12/2010 27800 (6.Mük.) I, II, IV.
+Tebliğ 37 29/12/2010 27800 (6. Mük.) I, II, IV.
 Tebliğ 39 26/12/2011 28154 I, II, IV.
-3721-3723
+Tebliğ 42 31/12/2012 28514 (4.Mük.) I, II, IV.
+3720-4 3721-3723

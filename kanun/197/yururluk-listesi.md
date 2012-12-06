@@ -1,20 +1,31 @@
-197 SAYILI KANUNDA EK VE DEĞİŞİKLİK YAPAN MEVZUATIN
-YÜRÜRLÜKTEN KALDIRDIĞI KANUN VE HÜKÜMLERİ GÖSTERİR LİSTE
-Yürürlükten Kaldıran Mevzuatın
-Yürürlükten Kaldırılan
-Kanun veya Kanun Hükümleri Tarihi Sayısı Maddesi
-18/2/1863 tarih ve 197 sayılı Kanunun, 12, 15 ve 16 ncı
-maddeleri 29/11/1984 3088 10
-29/7/1970 tarih ve 1318 sayılı Kanuna 29/11/1984 gün ve
-3089 sayılı Kanunun 5 nci maddesiyle eklenen “Ek Madde” 24/3/1988 3418 41
-4/1/1961 tarih ve 213 sayılı Kanuna 3239 sayılı Kanunla
-eklenen “Mükerrer Madde 415” 24/3/1988 3418 42
-6/12/1984 tarih ve 3100 sayılı Katma Değer Vergisi
-Mükelleflerinin Ödeme Kaydedici Cihazları Kullanmaları
-Mecburiyeti Hakkında Kanunun 7 nci maddesinin 2 nci
-fıkrası, 3/12/1988 3505 34
-193 Sayılı Gelir Vergisi Kanununun 94 üncü maddesinin
-(B) fıkrası ile mükerrer 116 ncı maddesinin yedinci fıkrası, 3/12/1988 3505 34
-213 sayılı Vergi Usul Kanununun 358 inci maddesinin
-2 numaralı bendi, 3/12/1988 3505 34
+197 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
+Kanun Yürürlüğe
+No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi
+2348 – 28/11/1980
+2380 – 1/3/1981
+2434 – 1/3/1981 tarihinden geçerli olmak üzere
+26/3/1981
+3088 Geçici 1 inci maddesi ile Maliye ve Gümrük Bakanlığına yet-
+ki veren hükümleri 6/12/1984
+1inci ve 2 nci maddeleri 1/1/1985 tarihinden geçerli olmak üzere
+6/12/1984
+Diğer maddeleri 1/1/1986
+3418 a) 1 - 10 1/4/1988
+b) 12 - 13 ve 15 1/7/1988 tarihinden geçerli olmak üzere 31/3/1988
+c) 23 ve 24 1/1/1988 tarihinden geçerli olmak üzere
+31/3/1988
+d) Diğer maddeleri 31/3/1988
+3505 1) 2, 5, 6, 8, 9, 11, 13, 14, 15, 19, 21, 22, 23, 26, 28, 29, 32,
+33, 34 ve geçici 2 nci maddeler (1/1/1989 tarihinden geçerli olmak üzere)
+10/12/1988
+2) Bakanlar Kuruluna ve Maliye ve Gümrük Bakanlığına yet-
+ki veren hükümleri ile diğer maddeleri 10/12/1988
+3858 1, 2 ve 3 üncü maddeleri 1/1/1993
+Diğer maddeleri 27/12/1992
+3946 – 1/1/1994
+4605 1 inci madde 30/11/2000
+4629 1/1/2002 tarihinden geçerli olmak üzere 3/3/2001
+4962 – 7/8/2003
+5020 – 12/12/2003
 3724
