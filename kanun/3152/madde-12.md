@@ -149,16 +149,31 @@ Taşra Teşkilatı
 Madde 28 – Bakanlık, Bakanlıkların Kuruluş ve Görev Esasları Hakkındaki Kanun, Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname ve İl İdaresi Kanunu hükümlerine uygun olarak taşra teşkilatı kurmaya yetkilidir.
 (Ek fıkra: 25/4/2006 – 5490/73 md.) Bakanlık, nüfus ve vatandaşlık hizmetlerini yürütmek üzere, illerde il nüfus ve vatandaşlık müdürlükleri, ilçelerde ilçe nüfus müdürlükleri kurabilir. Bakanlık, kadro, yer ve unvanlarına bakılmaksızın ihtiyaç durumuna göre nüfus müdürü ve memurlarını, lüzum görülen yerlerde görevlendirmeye yetkilidir.
 (Ek fıkra: 17/2/2010-5952/18 md.) Güvenlik politikaları ve sosyo-ekonomik politikaların uyumlu bir şekilde yürütülmesini sağlamak üzere, illerde İl Sosyal Etüt ve Proje Müdürlüğü kurulmuştur. Bu amaçla, ihtiyaç duyulan ilçelerde valiliğin teklifi ve Bakanlığın onayı ile büro kurulabilir. Valilik, kadro, yer ve unvanlarına bakılmaksızın ihtiyaç durumuna göre uzman, sözleşmeli personel ve memurları bu birimlerde görevlendirmeye yetkilidir.
+(Ek fıkra: 12/11/2012-6360/33 md.) Tüm acil çağrıları karşılamak üzere büyükşehirlerde yatırım izleme ve koordinasyon başkanlığı bünyesinde, diğer illerde ise valilikler bünyesinde 112 acil çağrı merkezleri kurulur. Bu merkezlerin iş ve işlemleri İçişleri Bakanlığı tarafından çıkarılacak yönetmelikle düzenlenir.
+Yatırım İzleme ve Koordinasyon Başkanlığı
+MADDE 28/A – (Ek: 12/11/2012-6360/34 md.)
+Büyükşehir belediyelerinin bulunduğu illerde kamu kurum ve kuruluşlarının yatırım ve hizmetlerinin etkin olarak yapılması, izlenmesi ve koordinasyonu, acil çağrı, afet ve acil yardım hizmetlerinin koordinasyonu ve yürütülmesi, ilin tanıtımı, gerektiğinde merkezi idarenin taşrada yapacağı yatırımların yapılması ve koordine edilmesi, temsil, tören, ödüllendirme ve protokol hizmetlerinin yürütülmesi, ildeki kamu kurum ve kuruluşlarına rehberlik edilmesi ve bunların
+_________________
+(1) 29/5/2009 tarihli ve 5902 sayılı Kanunun 25 inci maddesiyle bu fıkrada yer alan “İl sivil savunma müdürleri” ibaresi yürürlükten kaldırılmış ve madde metninden çıkartılmıştır.
+(2) 1/7/2006 tarihli ve 5540 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan “Bakanlık Encümeni” ibaresinden sonra gelmek üzere “birinci sınıfa yükselecek mülkî idare amirlerini değerlendirmek ve tespit etmek ile” ibaresi eklenmiş ve metne işlenmiştir.
+6588-2
+denetlenmesini gerçekleştirmek üzere valiye bağlı olarak Yatırım İzleme ve Koordinasyon Başkanlığı kurulmuştur. Bakanlıklar ve diğer merkezi idare kuruluşları, kaynağını aktarmak şartıyla illerde yapacakları her türlü yatırım, yapım, bakım, onarım ve yardım işlerini bu başkanlık aracılığıyla yapabilirler. Bu işler karşılığı genel bütçe kapsamındaki kamu idarelerince yapılacak kaynak transferleri ödenek aktarması suretiyle, diğer kamu kurum ve kuruluşlarınca yapılacak kaynak transferleri ise tahakkuk işlemleri ile gerçekleştirilir. Genel bütçe kapsamındaki kamu idarelerince aktarılan tutarlardan yıl içerisinde harcanmayan kısımları ertesi yıl bütçesine devren ödenek kaydetmeye; diğer kamu kurum ve kuruluşlarınca aktarılan tutarları bir yandan genel bütçenin (B) işaretli cetveline gelir, diğer yandan Bakanlık bütçesinin ilgili tertiplerine ödenek kaydetmeye ve yıl içerisinde harcanmayan kısımlarını ertesi yıl bütçesine devren gelir ve ödenek kaydetmeye İçişleri Bakanlığı yetkilidir.
+Yatırım izleme ve koordinasyon başkanlığı tarafından, merkezi idarenin adli ve askeri teşkilat dışında taşradaki tüm birimlerinin hizmet ve faaliyetlerinin etkinliği, verimliliği ve kurumların stratejik plan ve performans programlarına uygunluğu ile ilgili hazırlanacak rapor, valinin değerlendirmesiyle birlikte Başbakanlığa ve bu kurumların bağlı veya ilgili olduğu bakanlığa gönderilir. Bu raporlar yıllık olarak hazırlanır ve takip eden yılın şubat ayı sonuna kadar yukarıdaki mercilere gönderilir.
+Yatırım izleme ve koordinasyon başkanlıkları, afet yardım, acil çağrı, yatırım izleme, rehberlik ve denetim, strateji ve koordinasyon ile idari müdürlükler kurabilir. Gerektiğinde geçici birimler kurulabilir. Yatırım izleme ve koordinasyon başkanlıklarının çalışma usul ve esasları İçişleri Bakanlığınca çıkarılacak yönetmelikle belirlenir.
+Yatırım izleme ve koordinasyon başkanlığının sevk ve idaresi, vali veya vali tarafından görevlendirilecek bir vali yardımcısı tarafından yerine getirilir. Maliye Bakanlığınca, yatırım izleme ve koordinasyon başkanlıklarının görev ve sorumluluklarını yerine getirebilmesi için her yıl İçişleri Bakanlığı bütçesine yeterli ödenek konulur.
+Gerektiğinde valilik, kadro, yer ve unvanlarına bakılmaksızın ihtiyaç durumuna göre uzman, sözleşmeli personel ve memurları bu başkanlıklarda görevlendirmeye yetkilidir.
+Kamu kurum ve kuruluşlarının 5/1/1961 tarihli ve 237 sayılı Taşıt Kanunu kapsamındaki araçlarının alımı, işletilmesi, bakım ve onarımı ile bürolarının ihtiyaçları; valilik ve kaymakamlık konutlarının yapım, bakım, işletme ve onarımı ile emniyet hizmetlerinin gerektirdiği harcamalar yatırım izleme ve koordinasyon başkanlığınca karşılanabilir.
+Merkezi idare tarafından yapılan her türlü yardım ve desteğin koordinasyonu, denetimi ve izlenmesi ve acil durumlarda bizzat yerine getirilmesi yatırım izleme ve koordinasyon başkanlığı tarafından sağlanır.
+İldeki kamu kurum ve kuruluşlarınca yürütülmesi gereken yatırım ve hizmetlerin aksadığının ve bu durumun halkın sağlığı, huzur ve esenliği ile kamu düzeni ve güvenliğini olumsuz etkilediğinin vali veya ilgili bakanlığınca tespit edilmesi durumunda, vali uygun süre vererek hizmet ve yatırımın gerçekleştirilmesini ister. Hizmet ve yatırımın verilen sürede gerçekleşmemesi hâlinde, vali söz konusu yatırım ve hizmetin ildeki diğer kamu kurum ve kuruluşlarınca yerine
+6588-3
+getirilmesini isteyebileceği gibi yatırım izleme ve koordinasyon başkanlığı aracılığıyla da yerine
+getirebilir. Yapılan veya yapılacak harcamalar karşılığı tutarlar ilgili kurumun pay ve ödeneklerinden tahsis yapan kurum tarafından kesilerek İçişleri Bakanlığına veya hizmeti yerine getiren diğer kamu kurum ve kuruluşuna gönderilir. Bu fıkra kapsamında İçişleri Bakanlığına ve diğer genel bütçeli idarelere aktarılan tutarların bu kurumların bütçeleriyle ilişkilendirilmesi birinci fıkra hükümleri çerçevesinde, diğer kamu kurum ve kuruluşlarına aktarılan tutarların bütçeleriyle ilişkilendirilmesi bu kurumların tabi olduğu mevzuat hükümleri çerçevesinde gerçekleştirilir. Diğer genel bütçeli idarelere ilişkin bütçe işlemlerini yapmaya bu kurumların üst yöneticileri yetkilidir.
 Bağlı kuruluşlar
 Madde 29 – İçişleri Bakanlığının bağlı kuruluşları şunlardır:
 a) Emniyet Genel Müdürlüğü,
 b) Jandarma Genel Komutanlığı,
 c) Sahil Güvenlik Komutanlığı.
 d) (Ek: 17/2/2010-5952/18 md.) Kamu Düzeni ve Güvenliği Müsteşarlığı.
-__________________
-(1) 29/5/2009 tarihli ve 5902 sayılı Kanunun 25 inci maddesiyle bu fıkrada yer alan “İl sivil savunma müdürleri” ibaresi yürürlükten kaldırılmış ve madde metninden çıkartılmıştır.
-(2) 1/7/2006 tarihli ve 5540 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan “Bakanlık Encümeni” ibaresinden sonra gelmek üzere “birinci sınıfa yükselecek mülkî idare amirlerini değerlendirmek ve tespit etmek ile” ibaresi eklenmiş ve metne işlenmiştir.
-6588-2
 DÖRDÜNCÜ KISIM
 Sorumluluk ve Yetkiler
 Yöneticilerin sorumlulukları
@@ -172,6 +187,7 @@ Bakanlığın düzenleme görev ve yetkisi
 Madde 33 – Bakanlık, kanunla yerine getirmekle yükümlü oldukları hizmetleri; tüzük, yönetmelik, tebliğ, genelge ve diğer idari metinlerle düzenlemekle görevli ve yetkilidir.
 Yetki devri
 Madde 34 – Bakan, Müsteşar ve her kademedeki Bakanlık ve kuruluş yöneticileri gerektiğinde, sınırlarını yazılı olarak açıkça belirlemek şartıyla yetkilerinden bir kısmını astlarına devredebilir. Ancak, yetki devri, yetki devreden amirin sorumluluğunu kaldırmaz.
+6588-4
 BEŞİNCİ KISIM
 Çeşitli Hükümler
 Atama
