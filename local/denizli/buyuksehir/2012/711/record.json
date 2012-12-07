@@ -1,0 +1,23 @@
+{
+  "number": "711",
+  "number_as_published": "711",
+  "year": 2012,
+  "title": "İmar konuları",
+  "decision_date": "2012-12-07",
+  "source": "https://www.denizli.bel.tr/kurumsal/belgeler/meclis-kararlari (form POST yil=2012&ay=12)",
+  "official_document": null,
+  "source_sha256": "5f69e2a62931be4145a8d6cad69efaefa6861e64c2b9c9df4d36f8486e6df996",
+  "issuer": "Denizli Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2012-12-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07-12-2012; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/kurumsal/belgeler/meclis-kararlari",
+  "subject_heading": "İmar konuları"
+}
