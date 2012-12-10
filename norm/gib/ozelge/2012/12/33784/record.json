@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-ÖTV 01.MADDE GENEL-3163",
+  "source_id": 33784,
+  "date": "2012-12-10",
+  "title": "ÖTV kapsamı dışındaki bir malın ÖTV kapsamına giren bir malın G.T.İ.P. numarası ile ihraç edilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33784",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "fd27fbbb95ddacd6081a432f61464107d72b92bdc7f594445882d46ec423a689",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
