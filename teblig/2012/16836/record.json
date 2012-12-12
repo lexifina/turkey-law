@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.16836",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2013 YILINA AİT GENEL YATIRIM VE FİNANSMAN PROGRAMININ UYGULANMASINA İLİŞKİN USUL VE ESASLARIN BELİRLENMESİNE DAİR TEBLİĞ",
+  "number": "16836",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2012/16836",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16836&MevzuatTertip=5",
+  "source_sha256": "4a03b0d8cd0d5f54b778878ff6f39192cb5aafd6dd1dcf8d75c5bbae590d793a",
+  "source_bytes": 48059,
+  "published": "2012-12-12",
+  "gazette": "28495",
+  "in_force": "2012-12-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.12.2012); own commencement article: \"Bu Tebliğin 9 uncu maddesi yayımı tarihinde, diğer maddeleri 1/1/2013 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğin 9 uncu maddesi yayımı tarihinde, diğer maddeleri 1/1/2013 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2789,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16836-ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
