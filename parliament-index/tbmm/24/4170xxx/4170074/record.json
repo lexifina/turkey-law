@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 4170074,
+  "assembly": "TBMM",
+  "term": 24,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar / Bütçe Ve Kesin Hesap Kanunu Tasarıları",
+  "summary": "V. TUR, - Gıda, Tarım ve Hayvancılık Bakanlığı, 2013 Yılı Merkezî Yönetim Bütçesi ile 2011 Yılı, Merkezî Yönetim Kesin Hesabı, - Tarım ve Köyişleri Bakanlığı, - Tarım Reformu Genel Müdürlüğü, 2011 Yılı Merkezî Yönetim Kesin Hesabı, - Tütün ve Alkol Piyasası Düzenleme Kurumu, - Kültür ve Turizm Bakanlığı, - Devlet Opera ve Balesi Genel Müdürlüğü, - Devlet Tiyatroları Genel Müdürlüğü, 2013 Yılı Merkezî Yönetim Bütçesi ile 2011 Yılı, Merkezî Yönetim Kesin Hesabı, - Türkiye Yazma Eserler Başkanlığı, 2013 Yılı Merkezî Yönetim Bütçesi, - Gümrük ve Ticaret Bakanlığı, 2013 Yılı Merkezî Yönetim Bütçesi ile 2011 Yılı, Merkezî Yönetim Kesin Hesabı, - Gümrük Müsteşarlığı, 2011 Yılı Merkezî Yönetim Kesin Hesabı, - Rekabet Kurumu, 2013 Yılı Merkezî Yönetim Bütçesi ile 2011 Yılı, Merkezî Yönetim Kesin Hesabı",
+  "title": "V. TUR, - Gıda, Tarım ve Hayvancılık Bakanlığı, 2013 Yılı Merkezî Yönetim Bütçesi ile 2011 Yılı, Merkezî Yönetim Kesin Hesabı, - Tarım ve Köyişleri Bakanlığı, - Tarım Reformu Genel Müdürlüğü, 2011 Yılı Merkezî Yönetim Kesin Hesabı, - Tütün ve Alkol Piyasası Düzenleme Kurumu, - Kültür ve Turizm Bakanlığı, - Devlet Opera ve Balesi Genel Müdürlüğü, - Devlet Tiyatroları Genel Müdürlüğü, 2013 Yılı Merkezî Yönetim Bütçesi ile 2011 Yılı, Merkezî Yönetim Kesin Hesabı, - Türkiye Yazma Eserler Başkanlığı, 2013 Yılı Merkezî Yönetim Bütçesi, - Gümrük ve Ticaret Bakanlığı, 2013 Yılı Merkezî Yönetim Bütçesi ile 2011 Yılı, Merkezî Yönetim Kesin Hesabı, - Gümrük Müsteşarlığı, 2011 Yılı Merkezî Yönetim Kesin Hesabı, - Rekabet Kurumu, 2013 Yılı Merkezî Yönetim Bütçesi ile 2011 Yılı, Merkezî Yönetim Kesin Hesabı",
+  "first_sitting_date": "2012-12-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 37,
+      "sitting": 39,
+      "sitting_date": "2012-12-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c037/tbmm24037039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c037/tbmm24037fih.pdf",
+      "pages": [
+        "529:611"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=3&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=268&v_gelecek_sayfa=101&v_kullanici_id=27484677",
+  "source_sha256": "b74d63864fa7ad7c2a9bb935da5fdcacf38c5ec4623c407ce920d86382c7a60d",
+  "in_force": "2012-12-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
