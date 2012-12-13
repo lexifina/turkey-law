@@ -1,0 +1,5 @@
+Geçici kabul tutanağı
+
+.......... yükleniminde olan “..........  İşi” ile ilgili olarak mahallinde Sayıştay Denetçileri ile birlikte gerçekleştirilen fiziki ölçüm ve incelemede bir takım eksiklikler tespit edilmesi sonucu .......... TL kamu zararına neden olunduğu hususu ile geçici kabul tutanağının yapılan işin sözleşme ve eklerine uygun olarak gerçekleştirildiği şeklinde gerçeğe aykırı düzenlenmesi hususu ile ilgili olarak yapılan incelemede;
+
+14.02.2012 tarihinde düzenlenen doğrudan temin ile ilgili belgelerde 1300 m2 seramik imalatı öngörülmesine rağmen, uygulama esnasında başka imalatlara gereksinim duyularak ataşmanlar hazırlanarak mukayeseli keşif düzenlendiği, mukayeseli keşif doğrultusunda sonradan yaptırılan imalatların yüklenici tarafından düzenlenen faturada sehven gösterilmediği anlaşıldığından ve mukayeseli keşif doğrultusunda farklı imalatlar yaptırılmış olup doğrudan temin tutarında herhangi bir artış bulunmadığından, mevzuatına uygun olduğu anlaşılan .......... TL ile ilgili olarak ilişilecek husus bulunmadığına oybirliğiyle karar verildi.
