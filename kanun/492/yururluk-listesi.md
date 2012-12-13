@@ -147,3 +147,4 @@ Değiştiren Kanun No. | 492 sayılı Kanunun değiştirilen maddeleri | Yürür
 KHK/646 | 134 | 10/7/2011
 6322 | 113, 123, (8) sayılı Tarife | 15/6/2012
 6358 | Geçici Madde 6 | 10/11/2012
+6361 | (4) sayılı Tarife | 13/12/2012
