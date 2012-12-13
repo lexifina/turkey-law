@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "6",
+  "decision_date": "2012-12-13",
+  "source_id": 16238,
+  "chamber": "5",
+  "ilam_number": "6",
+  "item_number": 45,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16238/",
+  "source_sha256": "45c817f00f0c86dab1d80a09a66620c6b44bc589a25cb1b8fb84bdb21d05fa55",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
