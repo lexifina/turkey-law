@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "6",
+  "decision_date": "2012-12-13",
+  "source_id": 16222,
+  "chamber": "5",
+  "ilam_number": "6",
+  "item_number": 29,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16222/",
+  "source_sha256": "7429a3043f06292ec82c6b3e3d767a5f92e3462a7cf6e878ec410813df3bd69e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
