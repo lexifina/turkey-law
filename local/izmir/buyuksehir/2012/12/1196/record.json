@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "1196",
+  "decision_date": "2012-12-14",
+  "official_id": "13160",
+  "version_label": "as-enacted",
+  "text_status": "complete decision text as published in the register's KararDetay field (HTML); annexes not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2012&ay=&gun=&txtSozcuk=&draw=1&start=0&length=100&txtKararNo=",
+  "source_listing_sha256": "4313f867352a4dd5c1903372f47ad2fc46f77260cb008fb1329899b4fa9a0753",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
