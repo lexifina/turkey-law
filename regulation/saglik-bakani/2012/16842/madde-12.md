@@ -1,0 +1,2 @@
+Sağlık engeli nedeniyle meslek icrasından yasaklanma
+MADDE 12 – (1) Mesleğini icra etmesine mani ve iyileşmesi mümkün olmayan aklî, ruhî ve bedeni hastalığı Bakanlık eğitim ve araştırma hastaneleri veya üniversite uygulama ve araştırma merkezinden alınmış sağlık kurulu raporuyla ortaya konulan sağlık meslek mensuplarının raporları, incelenmek üzere Kurulun belirleyebileceği öncekinden farklı başka bir sağlık kuruluşuna gönderilir. Bu sağlık kuruluşundan alınan raporda belirtilen hastalık halini teyit etmesi durumunda Kurulun kararı ile mesleğini icra etmesi yasaklanır.
