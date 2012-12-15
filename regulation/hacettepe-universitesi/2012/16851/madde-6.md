@@ -1,0 +1,11 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Çocuk haklarını gündeme getirmek ve Birleşmiş Milletler Çocuk Hakları Sözleşmesinin bütünüyle uygulanmasını teşvik etmek amacıyla seminer, konferans, kongre, sempozyum gibi çeşitli bilimsel toplantılar ya da eğitim programları düzenlemek ve bu tür faaliyetlere katılmak, bu amaçla yurt içinde ve yurt dışındaki benzer amaçlı kuruluşlarla işbirliğinde bulunmak, ortak programlar düzenlemek,
+b) Sözleşmenin ilke ve standartları doğrultusunda, Türkiye’de çocukların yaşaması, korunması, bakılması, yetişmesi, gelişmesi ve toplumsal yaşama her yönden katılması için gerekli önlemlerin alınmasına yardımcı olmak,
+c) Çocuk hakları politikaları ve uygulamalar konusunda, eğitim, bilimsel çalışma, araştırma ve her türlü yayın faaliyetinde bulunmak, alanla ilgili dokümantasyon oluşturmak,
+ç) Çocuk Hakları Sözleşmesinin Türkiye’de uygulamaya dönüştürülebilmesi için yasal, idari ve yapısal değişikliklerin gerçekleştirilmesinde yol gösterici olmak,
+d) Çocuk haklarının sağlanması, uygulanması, korunması, izlenmesi ve geliştirilmesiyle ilgili politikalar, programlar ve projeler geliştirmek, uygulamak, eğitim ve danışmanlık hizmeti vermek,
+e) Çocuklara yönelik haksızlık, yanlış yaklaşım, ilke ve standartlar dışındaki ihmal ve istismara yol açan uygulamaları izleme çalışmaları yapmak, kamuoyuna sunmak, alınması gereken acil önlemleri geliştirip acil destek, önleme, tedavi ve geliştirme etkinliklerini gerçekleştirmek,
+f) Çocukla ilgili tüm taraflarda, çocuk hakları bilgisi ve bilincinin geliştirilmesi, değer, tutum ve davranış geliştirici eğitim çalışmaları yapmak,
+g) Çocuk hakları göstergelerinin sözleşmenin ilke ve standartlarına göre tanımlanmasını sağlayarak, çocukların var olan durumları ve yaşam koşullarını ölçülebilir düzeyde değerlendirmek, elde edilen ilerlemeleri belirlemek, sosyal ve organizasyonel düzeydeki gelişmelere ilişkin çocuk hakları veri tabanı ve bilgi sistemi oluşturulmasına destek olmak,
+ğ) Çocuk hakları politikalarının geliştirilmesine ve her düzeyde uygulanmasına çocukların katılımını sağlayacak mekanizmaların oluşturulmasına destek olmak, bu doğrultuda çocukların, katılımcı ve yönlendirici olduğu organizasyonlar, aktiviteler ve çalışmalar yapmak.
