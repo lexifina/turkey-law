@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4184",
+  "decision_date": "2012-12-18",
+  "title": "2013 yılı Sayaç Sökme Takma Bedelleri",
+  "resmi_gazete_date": "2012-12-25",
+  "resmi_gazete_number": "28508",
+  "categories": [
+    "Sayaç Sökme Takma Bedelleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9cn9RDDWypc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9cn9RDDWypc="
+  ],
+  "source_sha256": "e5531adabbf9a64d99120565756fa6178cec7568e15711444535f5356276da92",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1852,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-12-18",
+  "law_text_complete": false
+}
