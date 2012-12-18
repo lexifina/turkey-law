@@ -1,0 +1,3 @@
+Geçici Kabul Kesintisi Yapılmaması.
+
+… Tic. Ltd. Şirketine ihale edilen … TL bedelli Muhtelif Caddelerdeki Refüjlerin Düzenlenmesi işinde, işe ait sözleşmenin 31’inci maddesin uyarınca .. nolu, .. nolu … nolu ödeme emirleri üzerinden toplam …. geçici kabul kesintisi yapılması gerektiği halde yapılmadığı anlaşılmış olmakla beraber, sorumlu savunmaları ve Denetçi görüşünde belirtildiği üzere söz konusu kesintinin yapılmaması sonucunda herhangi bir kamu zararı oluşmaması nedeniyle sözleşmeye aykırı olarak yapılmayan geçici kabul kesintileri toplamı … TL için ilişik bulunmadığına  oy birliğiyle karar verildi.
