@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-12-18",
+  "issue": "28501",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye İş Kurumu Genel Müdürlüğü Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121218-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121218.htm",
+  "index_sha256": "2ab901bf0385fba13a7e06ea25a378477cf629c1c20d3637d7c7799b7449c52d",
+  "index_header": "18 Aralık 2012 ... 28501 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121218.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
