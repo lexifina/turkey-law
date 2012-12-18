@@ -1,0 +1,9 @@
+Yol Harcamalarına Katılım Paylarının Tahsil Edilmemesi.
+
+…. Büyükşehir Belediyesince; 2005, 2006, 2007, 2008, 2010 ve 2011 yıllarına ilişkin olarak tahsil edilmesi gereken yol harcamalarına katılım paylarının tahsil edilmemesi sonucu toplam …TL kamu zararına neden olunduğu iddiasına ilişkin olarak;
+
+2464 sayılı Belediye Gelirleri Kanununun 89’uncu, 90’ıncı, 92’nci ve 93’üncü maddeleri uyarınca … Büyükşehir Belediyesince hesaplanarak mükelleflerden tahsil edilmesi gereken yol harcamalarına katılım paylarından; 2005, 2006, 2007, 2008, 2010 ve 2011 yıllarına ilişkin toplam … TL için; bu tutarın … TL’sinin sorumlularca tahsil edildiğinin bildirildiği ve halen tahsil edilmeyen toplam …..TL’si için ise gerekli tahakkuk işlemlerinin yapılmış olduğu ve Denetçisince zaman aşımı da bildirilmediği anlaşıldığından, denecek bulunmadığına,
+
+(Üye …’ın “Denetçi tarafından düzenlenen sorguda, bahse konu yol harcamalarına katılım payının, ilgili mevzuat hükümleri uyarınca, toplam yol maliyetinin yolun 15 metresine isabet eden kısmının bu yoldan yararlanan gayrimenkullerin vergi değerleri esas alınarak oranlaması suretiyle hesaplanması gerekirken, uygulamada, yol yapım maliyetinin yola bakan gayrimenkullerin yola olan cephelerinin genişliği esas alınarak hesaplanması suretiyle hatalı bir şekilde hesaplandığı iddia edilmekte, buna karşın yeni bir hesaplama yapılmadığı ve sorumlularca savunmalarda yapılan hesabın kabul edildiği görülmektedir. Oysaki, Denetçi tarafından mevzuata uygun şekilde yeni bir hesap yapılması gerekmektedir. Bu nedenle Rapor maddesine ilişkin olarak hüküm dışı kararı verilerek bahse konu yol harcamalarına katılım payının yeniden hesaplanıp ek sorgu düzenlenmesi ve sonucunun Ek Raporla bildirilmesini teminen Denetçisine muhtıra verilmesi gerekir” şeklindeki ayrışık oyuna karşı)
+
+oy çokluğuyla karar verildi.
