@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "4",
+  "decision_date": "2012-12-18",
+  "source_id": 18392,
+  "chamber": "6",
+  "ilam_number": "72",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18392/",
+  "source_sha256": "343147623dc115dae6b2d49c1b47d73b91c9c0484929ba928a878d3eb43cc167",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
