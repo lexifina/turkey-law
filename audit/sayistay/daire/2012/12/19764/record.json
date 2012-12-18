@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "3",
+  "decision_date": "2012-12-18",
+  "source_id": 19764,
+  "chamber": "6",
+  "ilam_number": "114",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2010,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19764/",
+  "source_sha256": "4adb323b1d82b8869c31b173d85659ebaa924be9866e3da4e93ebea776c9494d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
