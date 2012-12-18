@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4182",
+  "decision_date": "2012-12-18",
+  "title": "1/1/2013 tarihinden itibaren uygulanan bağlantı bedeli",
+  "resmi_gazete_date": "2012-12-25",
+  "resmi_gazete_number": "28508",
+  "categories": [
+    "Bağlantı Bedeli"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6NXdRXNlhMg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6NXdRXNlhMg="
+  ],
+  "source_sha256": "1557d9e172daa5911858eb8c25c976240f928f898a5c8e84af68d260d00d5951",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1851,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2012-12-18",
+  "law_text_complete": false
+}
