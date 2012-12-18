@@ -1,0 +1,3 @@
+Görev tazminatı.
+
+Görev tazminatlarına ilişkin 10.01.2002 tarih ve 2002/3546 sayılı Bakanlar Kurulu Kararı’nın 3’üncü maddesiyle atıf yapılan 10.03.2000 tarih ve 2000/457 sayılı Bakanlar Kurulu Kararı’nın 3’üncü maddesi hükmü uyarınca, görev tazminatı öngörülen kadroları tedvir, vekalet ve benzeri geçici görevlendirme suretiyle yürütenlere bu tazminatın ödenmeyeceği hüküm altına alınmış olduğundan, Sağlık İşleri Daire Başkanlığı’na vekalet eden Veteriner …’ya, vekaleten görevli olduğu süreler için görev tazminatı ödenmesi sonucu toplam … TL kamu zararına neden olunduğu anlaşılmış ise de, söz konusu kamu zararı tutarının … tarih ve … sayılı muhasebe işlem fişiyle tahsil edildiği görüldüğünden bu tutarla ilgili ilişilecek husus kalmadığına oybirliğiyle, karar verildi.
