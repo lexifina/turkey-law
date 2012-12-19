@@ -10,7 +10,7 @@ a) Aşağıdaki hallerde, sorumlulara altıyüzbin Türk Lirası idarî para cez
 4) 5, 6, 7, 8, 16, 17 ve 18 inci maddelerin ihlali.
 b) Aşağıdaki hallerde, sorumlulara ikiyüzellibin Türk Lirası idarî para cezası verilir:
 ––––––––––––––
-(1) Bu maddede yer alan para cezası miktarlarının 1/1/2012 tarihinden itibaren uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
+(1) Bu maddede yer alan para cezası miktarlarının 1/1/2013 tarihinden itibaren uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
 8654
 1) Lisans almaksızın hak konusu yapılan tesislerin yapımına veya işletimine başlanması ile bunlar üzerinde tasarruf hakkı doğuracak işlemlerin yapılması.
 2) Sahip olunan lisansın verdiği haklar dışında faaliyet gösterilmesi.
