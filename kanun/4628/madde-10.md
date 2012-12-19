@@ -24,7 +24,7 @@ d) Ayrıntıları kamuoyuna duyurulmak kaydıyla ve piyasanın gelişimine dair 
 Net satış hasılatı içinde yer alması halinde, yıl içinde petrol için ödenen gümrük vergi, resim ve harçları ile Özel Tüketim Vergisi toplamı net satışlar toplamından tenzil edilir.
 Katılma payı ödemekle yükümlü lisans sahipleri, herhangi bir bildirim beklemeksizin her yıl Mayıs ayı sonuna kadar bir önceki yıla ait bilanço ve gelir tablolarını Kuruma göndermek ve katılma payının yarısını Haziran, ikinci yarısını Kasım ayı sonuna kadar ödemek zorundadır.
 Süresinde beyan edilmeyen veya hatalı beyan edilen katılma paylarına ilişkin cezaî ve idarî işlemler Kurumca tamamlanarak ilgili organlar nezdinde adlî ve idarî işlemler başlatılır. Süresinde ödenmeyen malî yükümlülükler ve gecikme zamları hakkında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanarak ilgili vergi daireleri aracılığı ile tahsili sağlanır.
-D) (Ek: 2/3/2005 – 5307/22 md.) Kurumun LPG piyasası ile ilgili gelirleri aşağıdaki kalemlerden oluşur:
+D) (Ek: 2/3/2005 – 5307/22 md.)Kurumun LPG piyasası ile ilgili gelirleri aşağıdaki kalemlerden oluşur:
 a) Katılma payı.
 b) Lisans, onay, izin ve vize işlemleri üzerinden alınacak bedeller.
 c) Yayın ve sair gelirler.

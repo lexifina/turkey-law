@@ -19,3 +19,4 @@ Değiştiren Kanunun/ Tebliğin/İptal Eden Anayasa Mahkemesinin Kararının Num
 17/12/2010 tarihli ve 27788 sayılı R.G.’de yayımlanan Tebliğ | 19 | 1/1/2011 | 
 23/12/2011 tarihli ve 28151 sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2012 | 
 6352 | 19, 21 | 5/7/2012 | 
+19/12/2012 tarihli ve 28502 sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2013 | 
