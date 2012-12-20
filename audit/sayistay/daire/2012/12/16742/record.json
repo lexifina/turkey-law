@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10201",
+  "decision_date": "2012-12-20",
+  "source_id": 16742,
+  "chamber": "1",
+  "ilam_number": "55",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16742/",
+  "source_sha256": "fd7e9274724ad93c62ae3777812437803a24d7c2185dcc7be306e6073618d7d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
