@@ -1,0 +1,3 @@
+Yüklenici Teknik Personel Bildiriminde Bulunmamasına Rağmen Sözleşmede Öngörülen Ceza Kesintisinin Yapılmaması.
+
+19.08.2011 tarihinde ihalesi yapılan …. İnşaat yüklenimindeki “….Mahallesi Cadde ve Sokaklarının Parketaş Yol Yapım İşi”nde yüklenici teknik personel bildiriminde bulunmamasına rağmen sözleşmede öngörülen ceza kesintisinin yapılmaması nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda …. TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı ahizi … İnşaat’tan … tarih ve … sayılı makbuzla nakten tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
