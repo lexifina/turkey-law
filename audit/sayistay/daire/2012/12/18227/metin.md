@@ -1,0 +1,7 @@
+Kamulaştırmalar Nedeniyle Alınması Gereken Emlak Vergisinin Alınmaması.
+
+Belediyece yapılan kamulaştırmalar nedeniyle alınması gereken emlak vergisinin alınmaması nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda ….. Belediyesi tarafından kamulaştırmalar nedeniyle alınması gereken emlak vergisinin alınmadığı görülmüştür.
+
+Sorumlular tarafından yapılan açıklamalar neticesinde, 2012 yılında kamulaştırma işlemlerini gerçekleştiren Belediye İmar ve Şehircilik Müdürlüğü tarafından kamulaştırılan ve Belediye adına tapu tescili yapılan yerlerin tapu kayıt örneklerinin ve diğer ekli belgelerin Mali Hizmetler Müdürlüğü Emlak Servisine gönderildiği, bunun sonucunda Emlak Servisinde emlak vergi tarhiyatı yapılarak kamulaştırma bedeli ile vergi değeri arasında fark üzerinden emlak vergisi tahsilatı yapıldığı; 2011 yılına ait olup Denetçi sorgusundaki kamu zararı tablosunda yer alan bazı kamulaştırma dosyaları için emlak vergisinin tahakkuk ettirildiği ve bazı dosyalar için de mükelleflerce belediye aleyhine açılan davalar sonuçlandığında tahakkuk işlemlerinin yapılacağı anlaşılmıştır.
+
+Bu itibarla, …. Belediyesi tarafından gerekli işlemlerin yapılmakta olduğu ve konuyla ilgili olarak mükelleflerden alınması gereken emlak vergilerinden zamanaşımına uğrayan herhangi bir alacağın bulunmadığı görüldüğünden ilişilecek bir husus bulunmadığına oy birliğiyle karar verildi.
