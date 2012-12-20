@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10199",
+  "decision_date": "2012-12-20",
+  "source_id": 7030,
+  "chamber": "1",
+  "ilam_number": "88",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2010,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7030/",
+  "source_sha256": "f23028645b7038b35acbcbf99b0829829d3ffcece3e0f1968fa2508c72cddd66",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
