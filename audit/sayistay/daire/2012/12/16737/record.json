@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10199",
+  "decision_date": "2012-12-20",
+  "source_id": 16737,
+  "chamber": "1",
+  "ilam_number": "88",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2010,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16737/",
+  "source_sha256": "392e068da5a5b4980caaf740ad743dcae80d0ac04d3b60b7919e598ecb0f4534",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
