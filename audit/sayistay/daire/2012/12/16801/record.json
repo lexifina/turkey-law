@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10200",
+  "decision_date": "2012-12-20",
+  "source_id": 16801,
+  "chamber": "1",
+  "ilam_number": "40",
+  "item_number": 9,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16801/",
+  "source_sha256": "fbe717f13f7ef6193a83ab63fc2896ba565c52c3de60bb178f1889c89587ed24",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
