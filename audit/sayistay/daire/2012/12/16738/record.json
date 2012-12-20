@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10201",
+  "decision_date": "2012-12-20",
+  "source_id": 16738,
+  "chamber": "1",
+  "ilam_number": "55",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16738/",
+  "source_sha256": "1a171cc32c7760bd73673a1591d826a2a9763d397d63e483e5201453824d7bbd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
