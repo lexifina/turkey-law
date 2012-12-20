@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10201",
+  "decision_date": "2012-12-20",
+  "source_id": 16741,
+  "chamber": "1",
+  "ilam_number": "55",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16741/",
+  "source_sha256": "c46b130207011847074155184ab96211d6046b3a4abe5d25ff4d40c994349acb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
