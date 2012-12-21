@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, 28/1/2012 tarihli ve 28187 sayılı Resmî Gazete’de yayımlanan 2012/2721 sayılı Bakanlar Kurulu Kararı gereğince pamuk ipliği ithalatında uygulanmakta olan korunma önlemine ilişkin olarak 29/5/2004 tarihli ve 25476 sayılı Resmî Gazete’de yayımlanan 2004/7305 sayılı İthalatta Korunma Önlemleri Hakkında Bakanlar Kurulu Kararı ve 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği çerçevesinde yapılan değerlendirme sonucunda alınan kararı içermektedir.
