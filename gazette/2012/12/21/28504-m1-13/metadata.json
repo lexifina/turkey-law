@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-12-21",
+  "issue": "28504",
+  "edition": "mükerrer 1",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tekerlekli Tarım veya Orman Traktörlerinin Azami Tasarım Hızı ve Yük Platformu ile İlgili Tip Onayı Yönetmeliği (2009/60/AT)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121221M1-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121221M1.htm",
+  "index_sha256": "651546d3bd43105697265cc1d4f95861ec18e64fb2ef83f3bc3385b93fb066c8",
+  "index_header": "21 Aralık 2012 ... 28504 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
