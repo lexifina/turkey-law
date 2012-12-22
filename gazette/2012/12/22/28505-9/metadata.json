@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-12-22",
+  "issue": "28505",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 20/12/2012 Tarihli ve 5108 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121222-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121222.htm",
+  "index_sha256": "24c4c83070d9949404c4210110d2d3a20e3e63e531073c8af5c53bd67e726606",
+  "index_header": "22 Aralık 2012 ... 28505 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121222.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
