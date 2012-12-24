@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "1332",
+  "decision_date": "2012-12-24",
+  "title": "Büyükşehir Belediyesi’nin, 69.500.000,00-TL aktarma yapılması",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/7895_MEC2012-34_1332.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=2012",
+  "listing_sha256": "fd2a170571ad17918f443570300f787ed4ddf3139832988d3e8a6c6942b5ad37",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
