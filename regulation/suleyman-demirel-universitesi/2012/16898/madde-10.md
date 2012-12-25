@@ -1,0 +1,4 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdürün başkanlığında, iki müdür yardımcısı ile müdür tarafından önerilen ve Rektör tarafından üç yıl için görevlendirilen, Üniversite Tıp Fakültesi veya Diş Hekimliği Fakültesi öğretim üyesi veya öğretim elemanları arasından dört kişi olmak üzere toplam yedi üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle bir üye görevlendirilir.
+(2) Yönetim Kurulu; Merkezin eğitim, öğretim, bilimsel araştırma, danışmanlık, yayın faaliyetleri ve bu faaliyetlerle ilgili esasları kararlaştırır. Yönetim Kurulu yılda en az bir kez ve gerektiğinde Müdürün çağrısı üzerine salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+(3) Yönetim Kurulu toplantılarına üç kez üst üste mazeret belirtmeden katılmayan üyenin görevi görevlendirildiği usulle sonlandırılır.
