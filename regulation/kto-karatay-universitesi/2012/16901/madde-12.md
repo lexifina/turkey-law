@@ -1,0 +1,2 @@
+Danışma kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu; Konya, Karatay ve Selçuklu araştırmalarında çalışmalarıyla bilinen kişiler arasından Rektör tarafından seçilecek beş kişiden oluşur. Danışma Kurulu istişari mahiyette karar alır. Danışma Kurulunun başkanı Rektör tarafından seçilir. Danışma Kurulu yılda en az bir kez toplanır. Danışma Kurulu Merkezin çalışmalarıyla ilgili Yönetim Kuruluna tavsiyelerde bulunur.
