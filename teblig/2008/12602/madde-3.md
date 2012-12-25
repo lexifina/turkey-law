@@ -1,0 +1,8 @@
+Bilgilerin toplanması ve değerlendirilmesi
+MADDE 3 – (1) Soruşturma açılmasını müteakip, soruşturma konusu ürünün yerli üreticilerine, Müsteşarlıkça tespit edilen ithalatçılarına ve ÇHC ve Vietnam’da yerleşik bilinen ihracatçılarına soru formları gönderilmiştir.
+(2) Öte yandan, soruşturma konusu ülkelerde yerleşik diğer üretici/ihracatçılara iletilebilmesini teminen söz konusu soru formunun bir örneği bu ülkelerin Ankara’daki temsilciliklerine de gönderilmiştir.
+(3) Tarafların soru formunu yanıtlamaları için posta süresi dahil 37 gün süre tanınmıştır. İthalatçılar ve soruşturma konusu ülkedeki üretici/ihracatçıların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(4) Vietnam’da yerleşik JM Plastics Vietnam Co. Ltd. ve Kuk Dong Eng Co. Ltd firmalarından soru formuna cevap alınmış, diğer firmalardan yanıt alınmamıştır. Yapılan inceleme sonucunda soru formuna yanıt veren iki firmanın usulüne uygun yanıt vermediği, yanıtlarında damping marjı hesabı için gerekli olan temel veri ve belgelerin yer almadığı tespit edilmiştir. Bu nedenle, söz konusu firmaların işbirliğine gelmediği kabul edilmiştir.
+(5) ÇHC’den işbirliğine gelen üretici/ihracatçı firma olmamıştır.
+(6) Nakpilsa ve Ekonet firmaları soruşturma konusu ürünün Türkiye’deki bilinen üreticileridir. Bu nedenle, yerli üretimi temsil yeteneğini haizdir. Nakpilsa, soru formuna usulüne uygun şekilde yanıt vermiş, gerektiğinde talep edilen ilave bilgi ve belgeleri temin etmiştir.
+(7) Soruşturma konusu maddenin ithalatını yaptığı tespit edilen ve kendilerine soru formu gönderilen otuz beş ithalatçı firmadan on bir tanesi soru formuna cevap vermiştir. Bunlardan yedi tanesinin soruşturma konusu ürünü ithal ettiği tespit edilmiştir.
