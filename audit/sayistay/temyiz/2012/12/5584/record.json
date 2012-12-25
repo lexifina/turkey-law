@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "35989",
+  "decision_date": "2012-12-25",
+  "source_id": 5584,
+  "chamber": "2",
+  "file_number": "33975",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5584/",
+  "source_sha256": "0d75404793b031cd2479e71eca855aed438450a197699ff4ca337e227194baea",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
