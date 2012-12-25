@@ -1,0 +1,2 @@
+Çalışma grupları ve görevleri
+MADDE 14 – (1) Çalışma grupları, Merkezin amaçları doğrultusunda projelere yönelik olarak Müdür tarafından oluşturulur. Farklı projeler için farklı çalışma grupları oluşturulur. Çalışma grup temsilcileri, Üniversitenin aylıklı ve devamlı statüdeki öğretim elemanları veya ilgili sektörlerden Müdür tarafından seçilir ve en az bir yıl süreyle Rektör tarafından görevlendirilir. Süresi dolan çalışma grubu temsilcileri aynı usulle yeniden görevlendirilebilir.
