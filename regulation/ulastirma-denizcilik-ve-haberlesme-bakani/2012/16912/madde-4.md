@@ -1,0 +1,20 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Ulaştırma, Denizcilik ve Haberleşme Bakanlığını,
+b) Elektronik Haberleşme Altyapı Bilgi Sistemi (EHABS): Elektronik haberleşme sektöründe faaliyet gösteren işletmecilerin altyapılarına ilişkin bilgilerin kaydedildiği sistemi,
+c) Elektronik haberleşme altyapısı: Elektronik haberleşmenin, üzerinden veya aracılığıyla gerçekleştirildiği anahtarlama ekipmanları, donanım ve yazılımlar, terminaller ve hatlar da dahil olmak üzere her türlü şebeke birimlerini, ilgili tesisleri ve bunların bütünleyici parçalarını,
+ç) Elektronik haberleşme şebekesi: Bir veya daha fazla nokta arasında elektronik haberleşmeyi sağlamak için bu noktalar arası bağlantıyı teşkil eden anahtarlama ekipmanları ve hatlar da dahil olmak üzere her türlü iletim sistemleri ağını,
+d) Geçiş hakkı: İşletmecilere; elektronik haberleşme hizmeti sunmak için gerekli şebeke ve altyapıyı kurmak, kaldırmak, bakım ve onarım yapmak gibi amaçlarla kamu ve özel mülkiyet alanlarının altından, üstünden ve üzerinden geçmeleri için tanınan hakları,
+e) Geçiş hakkı ücreti: İşletmecinin, geçiş hakkı karşılığında geçiş hakkı sağlayıcısına ödeyeceği ücreti,
+f) Geçiş hakkı ücret tarifesi: Ek-1’de yer alan Geçiş Hakkı Ücret Tarifesi Üst Sınırları Tablosunda belirtilen yerlerde, geçiş hakkını kullanacak işletmecilerden talep edilen ücretlerin üst sınırlarını gösteren fiyat tarifesini,
+g) Geçiş hakkı sağlayıcısı (GHS): Geçiş hakkına konu olan kamuya ait ya da kamunun ortak kullanımında olan taşınmazlar da dahil olmak üzere taşınmazın sahipleri ve/veya taşınmaz üzerindeki hak sahiplerini,
+ğ) İşletmeci: Yetkilendirme çerçevesinde elektronik haberleşme hizmeti sunan ve/veya elektronik haberleşme şebekesi sağlayan ve altyapısını işleten şirketi,
+h) Kanun: 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununu,
+ı) Kullanım onayı: İşletmecinin, geçiş hakkı talep ettiği güzergahı kullanması ve güzergah üzerinde bulunan GHS’lere başvurması için Bakanlıktan alması gereken izni,
+i) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+j) Taraflar: İşletmeci ile geçiş hakkı sağlayıcısını,
+k) Taşınmaz sahibi: Maliki oldukları taşınmazları, geçiş hakkı kapsamında kullandıracak olan gerçek ve özel hukuk tüzel kişileri ile kamu kurum ve kuruluşlarını,
+l) Taşınmaz üzerinde hak sahibi: Geçiş hakkına konu olan taşınmazın üzerinde sınırlı ayni hak sahibi olan gerçek ve özel hukuk tüzel kişileri ile kamu kurum ve kuruluşlarını,
+m) Tesis paylaşımı: Elektronik haberleşme hizmeti sunumunda kullanılan boru, kanal, direk ve kuleler dahil ilgili tesis ve cihazların diğer işletmeciler tarafından da kullanılmasını veya paylaşılmasını,
+n) Türk boğazları: İstanbul Boğazı, Çanakkale Boğazı ve Marmara Denizinden gemilerin geçiş alanı ile bu alanı çevreleyen kıyı şeridini,
+ifade eder.

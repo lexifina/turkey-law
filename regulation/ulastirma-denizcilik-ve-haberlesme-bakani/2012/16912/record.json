@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.16912",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SABİT VE MOBİL HABERLEŞME ALTYAPISI VEYA ŞEBEKELERİNDE KULLANILAN HER TÜRLÜ KABLO VE BENZERİ GERECİN TAŞINMAZLARDAN GEÇİRİLMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "16912",
+  "issuer": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+  "issuer_slug": "ulastirma-denizcilik-ve-haberlesme-bakani",
+  "path": "regulation/ulastirma-denizcilik-ve-haberlesme-bakani/2012/16912",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16912&MevzuatTertip=5",
+  "source_sha256": "0789f291bc56dcdaeaf6f2a2e1f6c336995edb9d583ad8852a53b66cf59822d3",
+  "source_bytes": 71855,
+  "published": "2012-12-27",
+  "gazette": "28510",
+  "in_force": "2012-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3201,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

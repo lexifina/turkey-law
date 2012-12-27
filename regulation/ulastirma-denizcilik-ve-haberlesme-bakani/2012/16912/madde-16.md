@@ -1,0 +1,2 @@
+Çevrenin ve tarihi eserlerin korunması
+MADDE 16 – (1) Geçiş hakkı kapsamında tanınan hakların kullanımı sırasında geçiş yollarında ve etrafında bulunan ağaçlar ve çevresel değerler korunur. Geçiş hakkı uygulamasında tarihi eserler ile kültür ve tabiat varlıklarının korunmasına ilişkin mevzuat hükümleri saklıdır. Bu fıkrada belirtilen konularda işletmeci tarafından alınması gereken izinlere ilişkin başvurular ilgili kurum ve kuruluş tarafından altmış gün içinde sonuçlandırılır.

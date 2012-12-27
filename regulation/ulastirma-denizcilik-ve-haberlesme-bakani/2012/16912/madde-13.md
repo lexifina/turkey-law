@@ -1,0 +1,5 @@
+Stratejik ve özel önemi olan yerlerden geçiş hakkı
+MADDE 13 – (1) İşletmeci; Türk boğazları, Türkiye’nin deniz yetki alanları, kara ve deniz sınırları, ormanlar ve buna benzer stratejik ve özel önemi olan bölge ve alanlardan kullanım onayı için Bakanlığa başvuruda bulunur.
+(2) Bakanlık; birinci fıkrada belirtilen alanlar için yapılacak kullanım onayı başvurularının değerlendirmesinde ilgili kurum ve kuruluşlardan görüş alır.
+(3) Birinci fıkrada belirtilen alanlar için yapılacak geçiş hakkı taleplerinde Bakanlık, diğer işletmecilerle ortak kullanılmak üzere tek bir işletmeciye kullanım onayı verebileceği gibi, ortak bir geçiş hakkı güzergâhı belirleyerek geçiş hakkı talep eden tüm işletmecilerin bu güzergâhı kullanmasını zorunlu kılabilir. Bu durumda Bakanlık tarafından konu hakkında ilgili kamu kurum ve kuruluşlarına bilgi verilir.
+(4) Bakanlıktan kullanım onayı alan işletmeciler GHS’ye geçiş hakkı için başvuruda bulunur. GHS, geçiş hakkı başvurularını mevzuat çerçevesinde değerlendirerek altmış gün içerisinde sonuçlandırır.
