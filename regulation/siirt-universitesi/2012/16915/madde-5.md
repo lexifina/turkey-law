@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Üniversitenin eğitim verdiği ve araştırma yaptığı tüm alanlardaki akademik programlar dışında bankacılık, sigortacılık, borsa, işletme yönetimi, kamu yönetimi, yerel yönetimler, pazarlama ve satış teknikleri, dış ticaret ve gümrükleme, uygulamalı girişimcilik, uluslararası işletmecilik, insan kaynakları yönetimi, halkla ilişkiler, sağlık, mühendislik ve benzeri tüm alanlarda Üniversitenin öğrencilerine ve personeline, kişilere, kamu kuruluşları ve özel sektör işletmelerine, yerel, ulusal ve uluslararası kuruluşlara ihtiyaç duydukları ve bizzat talep ettikleri alanlarda eğitim programları, kurslar, seminerler, çalıştaylar ve konferanslar düzenlemek, kat hizmetleri, ön büro, servis ara elamanı, danışmanlık hizmetleri sunmak ve bu faaliyetlerin koordinasyonunu sağlamaktır.
