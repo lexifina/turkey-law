@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "26468226-135[621-14-2012]-138",
+  "source_id": 33999,
+  "date": "2012-12-28",
+  "title": "İl Jandarma Komutanlığına bağlı Askeri Gazino Müdürlüğünün yemekhanesinde kullanılmak üzere LPG Propan gaz(sanayi tüpü) alımında Özel Tüketim Vergisi İstisnasından yararlanılıp yararlanılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33999",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "31824f7cbcf718015bc57a96d1bb53a085e2ee92f68791e350dd4c4cb5ce0a25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
