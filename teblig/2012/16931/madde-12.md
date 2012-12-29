@@ -1,0 +1,3 @@
+Tarifelerin üçüncü kısmına göre ücret
+MADDE 12 – (1) Tarifenin ikinci kısmının ikinci bölümünde gösterilen hukuki yardımların konusu para veya para ile değerlendirilebiliyor ise avukatlık ücreti, (yedinci maddenin ikinci fıkrası, dokuzuncu maddenin birinci fıkrasının son cümlesi ile onuncu maddenin son fıkrası hükümleri saklı kalmak kaydıyla,) Tarifenin üçüncü kısmına göre belirlenir.
+(2) Şu kadar ki asıl alacak miktarı 3.666,66 TL’ye kadar olan davalarda avukatlık ücreti, tarifenin ikinci kısmının, ikinci bölümünde, icra mahkemelerinde takip edilen davalar için öngörülen maktu ücrettir. Ancak bu ücret asıl alacağı geçemez.
