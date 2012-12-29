@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-12-29",
+  "issue": "28512",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Petrol Piyasasında Ulusal Marker Uygulamasına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121229-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121229.htm",
+  "index_sha256": "cce84f44adacde378e69e571e3cf5698553f5b7cadb5934d84947758623dce4e",
+  "index_header": "29 Aralık 2012 ... 28512 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121229.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
