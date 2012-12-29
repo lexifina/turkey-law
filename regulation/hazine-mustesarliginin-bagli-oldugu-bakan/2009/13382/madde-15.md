@@ -1,0 +1,4 @@
+Tanıtım kartı ve sicil numarasının kullanımı
+MADDE 15 – (Değişik:RG-29/12/2012-28512) (1)
+(1) Bireysel emeklilik aracısı katılımcılarla emeklilik şirketi adına yaptığı her türlü işlemde ve Müsteşarlık tarafından gerekli görülen her türlü bilgi ve belgede tanıtım kartını ve sicil numarasını kullanır. Tanıtım kartı olmaksızın bireysel emeklilik aracısı olarak hiçbir işlem yapılamaz.
+(2) Sicile kayıtlı bireysel emeklilik aracısının emeklilik şirketiyle yaptığı hizmet veya acentelik sözleşmesinin herhangi bir nedenle sona ermesi hâlinde, bu durum emeklilik şirketi tarafından beş iş günü içinde Emeklilik Gözetim Merkezine iletilir. Tanıtım kartı, aracının ayrıldığı emeklilik şirketi tarafından ilgili hizmet veya acentelik sözleşmesinin sona erdiği tarihten itibaren otuz gün içinde veya varsa çalışmaya başladığı emeklilik şirketi tarafından derhâl iade edilir.

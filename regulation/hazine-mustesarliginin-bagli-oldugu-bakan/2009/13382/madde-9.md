@@ -1,0 +1,3 @@
+Sınav sonuçlarının duyurulması
+MADDE 9 – (1) (Değişik:RG-29/12/2012-28512)(1) Sınav sonuçları, Emeklilik Gözetim Merkezinin internet sitesinde duyurulur. Sınav sonuç belgesi, bireysel başvuran adayların adreslerine iadeli taahhütlü postayla gönderilir veya Emeklilik Gözetim Merkezinin resmi internet sitesinde aday adına oluşturulan güvenli sayfadan iletilir. Emeklilik şirketi aracılığıyla başvuran adayların sınav sonuç belgeleri ise kendilerine iletilmek üzere ilgili şirketlere gönderilir. Sınav sonuçları, Emeklilik Gözetim Merkezinde beş yıl süreyle elektronik ortamda saklanır.
+(2) Adına bireysel emeklilik aracılığı yapacakları emeklilik şirketi aracılığıyla başvuranların sonuç belgelerinin emeklilik şirketine teslim edildiği tarih bildirim tarihi olarak kabul edilir.

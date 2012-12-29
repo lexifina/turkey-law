@@ -1,0 +1,5 @@
+Sınavın geçersiz sayılması ve iptali
+MADDE 10 – (1) Sınava katılanlardan gerçek dışı beyanda bulunduğu veya sınava girme koşullarını taşımadığı sonradan anlaşılanlar ile sınavda kopya çektiği veya verdiği tespit edilenlerin sınavları geçersiz sayılır. Bu kişiler, üç yıl süreyle açılacak sınavlara giremez.
+(2) Emeklilik Gözetim Merkezi, sınav sorularının önceden bilindiğinin veya toplu kopya girişiminde bulunulduğunun tespiti hâlinde, katılanların tümünün veya bir kısmının sınavını geçersiz sayar.
+(3) Sınavın gerçekleştirilmesine engel teşkil eden olay veya koşulların ortaya çıkması hâlinde Emeklilik Gözetim Merkezi sınavı iptal edebilir. Sınavın iptal edilmesi hâlinde sınav ücreti, adayın daha sonra gireceği sınavın ücretine mahsup edilir. Adayın iptal edilen sınavdan sonra katılacağı sınavdan en geç yedi gün önce Emeklilik Gözetim Merkezine talebini iletmesi hâlinde, iptal edilen sınavın ücreti talep tarihinden itibaren on iş günü içinde adaya iade edilir.
+(4) Emeklilik Gözetim Merkezi sınavın geçersiz sayılması veya iptali hâlinde, bu durumu gerekçeleriyle birlikte Müsteşarlığa bildirir.
