@@ -1,0 +1,3 @@
+Yöneticilerin yapamayacağı işler
+MADDE 7 – (1) Şirketin yönetim ve denetim kurulu üyeleri ile şirket adına imza atmaya yetkili olanlar; bireysel emeklilik pazarlama faaliyetinde bulunmak üzere kurulan bir şirketin ortağı ya da yönetim veya denetim kurulu üyesi olamaz, ücret karşılığı iş kabul edemez, kendi şirketinin dışında herhangi bir şirketin bireysel emeklilik aracısı olamaz. Bu kısıtlamalar söz konusu kişilerin eş ve velayeti altındaki çocukları için de geçerlidir.
+(2) Şirketin kurucusu olduğu ve kontrolünü elinde bulundurduğu pazarlama ve satış şirketleri bu maddenin kapsamı dışındadır.

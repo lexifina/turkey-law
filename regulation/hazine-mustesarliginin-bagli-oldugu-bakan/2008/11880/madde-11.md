@@ -1,0 +1,2 @@
+Kuruluş izninin ve faaliyet ruhsatının geçersiz hale gelmesi
+MADDE 11 – (1) Emeklilik branşında faaliyet ruhsatı alan şirket, faaliyet ruhsatının veriliş tarihinden itibaren en geç üç ay içinde en az üç fon kurmak üzere Kurula başvurur. Şirketin fon kurma başvurusunun Kurula zamanında yapılmaması veya başvurusunun reddedilmesi halinde, verilmiş olan kuruluş izni ve faaliyet ruhsatı kendiliğinden geçersiz olur.

@@ -1,0 +1,3 @@
+Faaliyet ruhsatının iptali ve ilânı
+MADDE 12 – (1) Emeklilik branşı faaliyet ruhsatı Kanunun 14 üncü maddesinde belirtilen hallerde Bakan tarafından iptal edilebilir. Bu durumda keyfiyet Müsteşarlığın bildirimi üzerine şirket tarafından ticaret siciline işlenmek üzere ilgili sicil memurluğuna bildirilerek Ticaret Sicili Gazetesi ile Resmî Gazete’de ilân ettirilir ve ilânın yayımlandığı gazetelerin birer nüshası ilân tarihinden itibaren on iş günü içinde Müsteşarlığa gönderilir. Müsteşarlık, iptal işlemine dair ilânın Türkiye çapında dağıtımı yapılan ve tiraj bakımından ilk on sırada yer alan günlük gazetelerden ikisinde yayımlanmasını isteyebilir.
+(2) Emeklilik branşı faaliyet ruhsatının iptal edilmesi halinde şirketin ticaret unvanından emeklilik ibaresi kaldırılır.
