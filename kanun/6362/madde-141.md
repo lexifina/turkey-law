@@ -1,0 +1,2 @@
+MADDE 141 – 9/12/1994 tarihli ve 4059 sayılı Hazine Müsteşarlığının Teşkilat ve Görevleri Hakkında Kanunun ek 4 üncü maddesine aşağıdaki fıkra eklenmiştir.
+“Finansal sistemin bütününe sirayet edebilecek ölçüde olumsuz bir gelişmenin ortaya çıkması ve bu durumun Finansal İstikrar Komitesi tarafından tespiti hâlinde, alınacak tedbirleri belirlemeye Bakanlar Kurulu yetkili olup, ilgili bütün kurum ve kuruluşlar belirlenen bu tedbirleri derhâl uygulamakla yetkili ve sorumludur.”

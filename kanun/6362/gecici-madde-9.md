@@ -1,0 +1,2 @@
+Menkul kıymet alım satım işlemlerinin tescili
+GEÇİCİ MADDE 9 – (1) Yatırım kuruluşları tarafından Borsa İstanbul Anonim Şirketinde işlem gören, Borsa İstanbul Anonim Şirketine kote olan veya Borsa İstanbul Anonim Şirketinin kaydında bulunan menkul kıymetler ile ilgili olarak Borsa İstanbul Anonim Şirketi dışında yapılan alım satım işlemlerinin Borsa İstanbul Anonim Şirketinin belirlediği ve Kurulun onayladığı şartlarla Borsa İstanbul Anonim Şirketine tescil ettirilmesi zorunludur.
