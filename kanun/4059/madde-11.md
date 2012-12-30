@@ -17,8 +17,9 @@ Müsteşar | Müsteşar Yardımcısı | 1.Kamu Finansmanı Genel Müdürlüğü 
 EK (1) SAYILI CETVEL (B)
 (Mülga: 3/6/2011-KHK-637/38 md.)
 (1)11/10/2011 tarihli ve 662 sayılı KHK’nin 69 uncu maddesiyle, bu cetvelin “Ana Hizmet Birimleri” başlıklı sütununun 2 nci sırası “2. Kamu Sermayeli Kuruluş ve İşletmeler Genel Müdürlüğü” şeklinde, aynı sütunun 4 üncü sırası “4. Malî Sektörle İlişkiler ve Kambiyo Genel Müdürlüğü” şeklinde, “Danışma Denetim Birimleri” başlıklı sütunu metne işlendiği şekilde değiştirilmiştir.
-7472-2/7472-4
-I SAYILI CETVEL (Ek: 22/12/1997 - 4315/2 md.; Mülga: 11/10/2011-KHK-666/1 md.)
+7472-2/7472-6
+I SAYILI CETVEL
+(Ek: 22/12/1997 - 4315/2 md.; Mülga: 11/10/2011-KHK-666/1 md.)
 II SAYILI CETVEL
 (Ek: 22/12/1997 - 4315/2 md.; Mülga: 3/6/2011-KHK-637/38 md.)
 (I) SAYILI LİSTE
@@ -29,4 +30,4 @@ TEŞKİLATI : MERKEZ
 Sınıfı | Unvanı | Derecesi | Serbest Kadro Adedi | Toplam
 GİH | Müsteşarlık Müşaviri | 1 | 18 | 18
  | TOPLAM |  | 18 | 18
-7473
+7473-7475
