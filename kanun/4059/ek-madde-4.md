@@ -9,3 +9,4 @@ c) İlgili kurumlar tarafından hazırlanacak sistemik risk yönetim planların�
 d) Görev alanı ile ilgili olarak, kamu kurum ve kuruluşlarından her türlü veri ve bilgiyi sağlamak, kurumlar arasında politikaların ve uygulamaların koordinasyonunu sağlamak.
 e) Mevzuatla yetki verilen diğer konularda karar almak.
 Komite toplantılarının sonuçları ve Komite tarafından alınan kararlar hakkında Bakan tarafından Bakanlar Kuruluna bilgi sunulur.
+(Ek fıkra: 6/12/2012-6362/141 md.) Finansal sistemin bütününe sirayet edebilecek ölçüde olumsuz bir gelişmenin ortaya çıkması ve bu durumun Finansal İstikrar Komitesi tarafından tespiti hâlinde, alınacak tedbirleri belirlemeye Bakanlar Kurulu yetkili olup, ilgili bütün kurum ve kuruluşlar belirlenen bu tedbirleri derhâl uygulamakla yetkili ve sorumludur.

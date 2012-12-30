@@ -1,2 +1,2 @@
 Sistemik riske karşı alınacak önlemler
-Madde 72 — Finansal sistemin bütününe sirayet edebilecek ölçüde olumsuz bir gelişmenin ortaya çıkması ve bu durumun Kurumun koordinasyonunda, Fon, Hazine Müsteşarlığı ve Merkez Bankasınca müştereken tespiti hâlinde, alınacak olağanüstü tedbirleri belirlemeye Bakanlar Kurulu yetkili olup, ilgili bütün kurum ve kuruluşlar belirlenen bu olağanüstü tedbirleri derhal uygulamakla yetkili ve sorumludur.
+Madde 72 — (Mülga: 6/12/2012-6362/145 md.)
