@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2012-12-30",
+  "issue": "28513",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "6362 Sermaye Piyasası Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121230-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121230.htm",
+  "index_sha256": "11e1d8b470c8c94d9966b392ea74b45dc7092935b9127b59a67c15516c09f5f5",
+  "index_header": "30 Aralık 2012 ... 28513 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121230.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
