@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6364",
+  "year": 2012,
+  "title": "2011 Yılı Merkezi Yönetim Kesin Hesap Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2012-12-31",
+  "gazette_issue": "28514",
+  "edition": "mükerrer 2",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121231M2-1.htm",
+  "source_sha256": "7a72bc0d9cefc99d7042d543fc625505ebf42fab34ef4b6c31a34949b853b796",
+  "text_sha256": "0002dc4f309fb59af2774ce4f05e17a19467018d967aaf67c0e1b74b8dd2f8a7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2012/12/31/28514-m2-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2012/12/20121231M2-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
