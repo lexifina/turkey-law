@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.16990",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 42)",
+  "number": "16990",
+  "path": "teblig/2012/16990",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16990&MevzuatTertip=5",
+  "source_sha256": "8cc75cde1d9e75a36e51098ed3b8bde634ce765ff417f5301e95adda20066ae4",
+  "source_bytes": 114952,
+  "published": "2012-12-31",
+  "gazette": "28514 (4. Mükerrer)",
+  "in_force": "2012-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 723,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
