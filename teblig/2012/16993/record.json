@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.16993",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 284)",
+  "number": "16993",
+  "path": "teblig/2012/16993",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16993&MevzuatTertip=5",
+  "source_sha256": "0bbc59bca1313060a451ec03f4a39a39934f20575003fc73ca9510d9997b3227",
+  "source_bytes": 144260,
+  "published": "2012-12-31",
+  "gazette": "28514 (4. Mükerrer)",
+  "in_force": "2012-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1552,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
