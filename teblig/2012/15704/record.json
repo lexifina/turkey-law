@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.15704",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 59)",
+  "number": "15704",
+  "path": "teblig/2012/15704",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15704&MevzuatTertip=5",
+  "source_sha256": "bc8ad97c2398eef3cce183c27dad0aa9e65e4dd9786ed202e7ba9d727538ea0a",
+  "source_bytes": 41687,
+  "published": "2012-12-31",
+  "gazette": "28159",
+  "in_force": "2012-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1238,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
