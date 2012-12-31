@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.16988",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TAHSİLAT GENEL TEBLİĞİ SERİ: B SIRA NO: 7",
+  "number": "16988",
+  "path": "teblig/2012/16988",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16988&MevzuatTertip=5",
+  "source_sha256": "dd07ff40c63cbdbda4ec8a04d991b0ff589b5c05c844534fabfea763d74b3301",
+  "source_bytes": 42741,
+  "published": "2012-12-31",
+  "gazette": "28514 (4. Mükerrer)",
+  "in_force": "2012-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2012)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1890,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
