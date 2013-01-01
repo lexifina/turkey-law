@@ -1,45 +1,57 @@
-5018 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
-YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
-Değiştiren Yürürlüğe
-Kanun 5018 Sayılı Kanunun Değiştirilen Maddeleri giriş tarihi
-5263 I sayılı Cetvel 9/12/2004
-5273 II sayılı Cetvel 15/12/2004
-5286 I sayılı Cetvel 16/3/2005
-5335 78 27/4/2005
-5345 I sayılı Cetvel 16/5/2005
-5429 I sayılı Cetvel 18/11/2005
-5431 II sayılı Cetvel 18/11/2005
-5436 19, 20, Geçici Madde 4, 5 ve 11, (I), (II), (III) ve (IV)
-sayılı Cetvel 24/12/2005
-İşlenemeyen hüküm Madde 16;
-Maliye Başkanı kadroları için 1/3/2006
-Bütçe Dairesi Başkanı ve Bütçe Dairesi
-Başkan Yardımcısı kadroları için 31/12/2006
-2, 3, 10, 11, 13, 14, 17, 18, 21, 23, 27, 28, 30, 31, 33, 34, 35, 37,
-41, 42, 44, 47, 49, 50, 55, 56, 57, 58, 59, 61, 62, 63, 64, 65, 67, 69,
-71, 74, 75, 76, 78 Ek Madde 1, İşlenemeyen Hüküm,
-Geçici Madde 1, 2 ve 3 24/12/2005
-5467 II sayılı Cetvel 17/3/2006
-5502 I ve IV sayılı Cetvel 20/5/2006
-5538 Ek Madde 2, Geçici Madde 15 12/7/2006
-I ve II sayılı Cetvel 1/1/2006 tarihinden geçerli
-olmak üzere 12/7/2006
-5544 II sayılı Cetvel 7/10/2006
-5548 II sayılı Cetvel 1/10/2006
-5628 27, 28, 60, 71, Geçici Madde 16 ve 17 4/5/2007
-5662 II sayılı Cetvel 29/5/2007
-5765 II sayılı Cetvel 31/5/2008
-5793 9, 10, 27, 28, 40, 44, 51, 52, 53, 61,62,
-Geçici Madde 5,11,18,19 ve İşlenemeyen Hükümler 6/8/2008
-5902 I sayılı Cetvel 17/6/2009
-5917 6, III sayılı Cetvel 10/7/2009
-II sayılı Cetvel 1/1/2010
-5952 I sayılı Cetvel 4/3/2010
-5978 II sayılı Cetvel 6/4/2010
-5979 II sayılı Cetvel 10/4/2010
-6001 I ve II sayılı Cetvel 13/7/2010
-6005 II sayılı Cetvel 21/7/2010
-6009 69 1/8/2010
-6087 I sayılı Cetvel 18/12/2010
-6093 II sayılı Cetvel 30/12/2010
+5018 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
+MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
+GÖSTERİR LİSTE
+Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5018 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+5263 | I Sayılı Cetvel | 9/12/2004
+5273 | II Sayılı Cetvel | 15/12/2004
+5286 | I Sayılı Cetvel | 28/1/2005
+5335 | 78 | 27/4/2005
+5345 | I Sayılı Cetvel | 16/5/2005
+5429 | I Sayılı Cetvel | 18/11/2005
+5431 | II Sayılı Cetvel | 18/11/2005
+5436 | 65 inci maddenin son fıkranın ilk cümlesi, 67/i, Geçici Madde 4 deki ibare değişikliği, Geçici Madde 5, Geçici Madde 11 in ikinci fıkrası, (I), (II), (III) ve (IV) sayılı Cetvel | 24/12/2005
+2, 3, 10, 11, 13, 14, 17, 18, 20, 21, 23, 27, 28, 30, 31, 33, 34, 35, 37, 41, 42, 44, 47, 49 uncu maddenin beşinci ve altıncı fıkraları dışındaki fıkraları, 50, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 67, 69, 71, 74, 75, 76, 78, Ek Madde 1, Geçici Madde 6, 7 , Geçici Madde 11 in dördüncü fıkrası 49 uncu maddenin beşinci ve altıncı fıkraları | 1/1/2006 1/1/2007
 8690-11
+5467 | II Sayılı Cetvel | 17/3/2006
+5502 | (I) ve (IV) sayılı Cetvel | 20/5/2006
+5538 | (I) ve (II) Sayılı Cetvel Ek Madde 2 ve Geçici Madde 15 | 1/1/2006 tarihinden geçerli olmak üzere 12/7/2006 12/7/2006
+5544 | (II) Sayılı Cetvel | 7/10/2006
+5548 | (II) Sayılı Cetvel | 13/10/2006
+5628 | 27, 28, 60, 71, Geçici Madde 16 ve 17 | 4/5/2007
+5662 | (II) Sayılı Cetvel | 29/5/2007
+5765 | (II) Sayılı Cetvel | 31/5/2007
+5793 | 9, 10, 27, 28, 40, 44, 51, 52, 53, 61, 62, Geçici Madde 5, 11, 18, 19 ve İşlenemeyen hükümler | 6/8/2008
+Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı. | (II) Sayılı Cetvel (Kamu Denetçiliği Kurumu) | 4/4/2009
+5902 | (I) Sayılı Cetvel | 17/6/2009
+5917 | 6, (III) Sayılı Cetvel (II) Sayılı Cetvel | 10/7/2009 1/1/2010
+5952 | (I) Sayılı Cetvel | 4/3/2010
+5978 | (II) Sayılı Cetvel | 6/4/2010
+8690-12
+5979 | (II) Sayılı Cetvel | 10/4/2010
+6001 | (I) ve (II) Sayılı Cetvel | 13/7/2010
+6005 | (II) Sayılı Cetvel | 21/7/2010
+6009 | 69 | 1/8/2010
+6087 | (I) Sayılı Cetvel | 18/12/2010
+6093 | (II) Sayılı Cetvel | 30/12/2010
+6114 | 10, (II) Sayılı Cetvel | 3/3/2011
+6218 | (II) Sayılı Cetvel | 14/4/2011
+6225 | Geçici Madde 19 | 26/4/2011
+KHK/643 | (I) ve (II) Sayılı Cetvel | 12/6/2011 tarihinde yapılan milletvekili seçiminden sonra kurulan ilk Bakanlar Kurulu üyelerinin atandığı tarihte
+KHK/644 | (I) Sayılı Cetvel | 12/6/2011 tarihinde yapılan milletvekili seçiminden sonra kurulan ilk Bakanlar Kurulu üyelerinin atandığı tarihte
+KHK/648 | (II) Sayılı Cetvel | 17/8/2011
+KHK/649 | (II) Sayılı Cetvel | 17/8/2011
+KHK/655 | (I) Sayılı Cetvel | 1/11/2011
+KHK/656 | (II) Sayılı Cetvel | 2/11/2011
+8690-13
+KHK/657 | (I) Sayılı Cetvel | 2/11/2011
+KHK/662 | (I) ve (II) Sayılı Cetvel | 2/11/2011
+KHK/658 | (II) Sayılı Cetvel | 2/11/2011
+KHK/659 | 16, 17 | 2/11/2011
+KHK/660 | (III) Sayılı Cetvel | 2/11/2011
+KHK/663 | (I) ve (II) Sayılı Cetvel | 2/11/2011
+6287 | 20, (II) Sayılı Cetvel | 11/4/2012
+6296 | (II) Sayılı Cetvel | 27/4/2012
+6307 | (II) Sayılı Cetvel | 31/5/2012
+6328 | (II) Sayılı Cetvel | 29/6/2012
+6332 | (II) Sayılı Cetvel | 29/6/2012
+6338 | 15, 20, 25, 31, 51, 79 | 1/1/2013

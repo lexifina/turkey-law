@@ -8,12 +8,12 @@ e) Bütçe, kamu malî işlemlerinin kapsamlı ve saydam bir şekilde görünmes
 f) Tüm gelir ve giderler gayri safi olarak bütçelerde gösterilir.
 g) Belirli gelirlerin belirli giderlere tahsis edilmemesi esastır.
 h) Bütçelerde gelir ve gider denkliğinin sağlanması esastır.
-i) Bütçeler, ait olduğu yıl başlamadan önce Türkiye Büyük Millet Meclisi veya yetkili organlarca kabul edilmedikçe veya onaylanmadıkça uygulanamaz.
-j) Bütçelerde, bütçeyi ilgilendirmeyen hususlara yer verilmez.
-k) Bütçeler kurumsal, işlevsel ve ekonomik sonuçların görülmesini sağlayacak şekilde Maliye Bakanlığınca uluslararası standartlara uygun olarak belirlenen bir sınıflandırmaya tâbi tutularak hazırlanır ve uygulanır.
 _______________________
 (1) 22/12/2005 tarihli ve 5436 sayılı Kanunun 10 uncu maddesiyle bu bentte yer alan "Bütçe, hükümetin malî işlemlerinin kapsamlı ve saydam bir şekilde görünmesini sağlar." ibaresi, "Bütçe, kamu malî işlemlerinin kapsamlı ve saydam bir şekilde görünmesini sağlar." olarak değiştirilmiş ve metne işlenmiştir.
 8664
+i) Bütçeler, ait olduğu yıl başlamadan önce Türkiye Büyük Millet Meclisi veya yetkili organlarca kabul edilmedikçe veya onaylanmadıkça uygulanamaz.
+j) Bütçelerde, bütçeyi ilgilendirmeyen hususlara yer verilmez.
+k) Bütçeler kurumsal, işlevsel ve ekonomik sonuçların görülmesini sağlayacak şekilde Maliye Bakanlığınca uluslararası standartlara uygun olarak belirlenen bir sınıflandırmaya tâbi tutularak hazırlanır ve uygulanır.
 l) Bütçe gelir ve gider tahminleri ile uygulama sonuçlarının raporlanmasında açıklık, doğruluk ve malî saydamlık esas alınır.
 m) Kamu idarelerinin tüm gelir ve giderleri bütçelerinde gösterilir.
 n) Kamu hizmetleri, bütçelere konulacak ödeneklerle, mevzuatla belirlenmiş yöntem, ilke ve amaçlara uygun olarak gerçekleştirilir.
