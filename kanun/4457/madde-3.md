@@ -1,12 +1,13 @@
 Kurumun görev ve yetkileri
-Madde 3 – Kurumun görev ve yetkileri şunlardır:
-a) Kurum faaliyetleri ile ilgili düzenlemeleri yapmak, akreditasyon ile ilgili gerekli kriter ve önlemleri belirlemek, bunları uygulamak ve gerektiğinde değiştirmek, düzeltmek ve yürürlükten kaldırmak,
-b) Akredite edilmek üzere başvuruda bulunan; laboratuvar, ürün/hizmet, sistem, personel ve benzeri belgelendirme konularında faaliyet gösteren özel ve/veya kamu kurum ve kuruluşlarının ilgili standartlara ve kriterlere göre değerlendirilmesini yapmak ve bu değerlendirme sonucunda kuruluşun akredite edilip edilmemesine karar vermek, akredite edilen kuruluşları izlemeye almak ve gerektiğinde geçici veya devamlı olarak akreditasyon kararını durdurmak ve bu alanlarda faaliyette bulunacak tüm kurum ve kuruluşlar arasında koordinasyonu sağlamak,
-c) Akredite edilmiş kuruluşlarca düzenlenen işaret ve belgelerin kullanımını özendirici düzenlemeler yapmak,
-d) Uluslararası, bölgesel ve diğer ülkelerin akreditasyon kuruluşları ile ilişkiler kurmak, işbirliğinde bulunmak,
-e) Akreditasyon amacıyla başvuran kuruluşların müracaatı, değerlendirilmesi ve akredite edilmesi ile ilgili olarak elde edilmiş bilgilerin gizliliğini sağlamak,
-f) Akreditasyonun önemini ve kalite bilincini artırıcı faaliyetlerde bulunmak,
-g) Görev alanına giren konularda, eğitim, araştırma ve yayın faaliyetlerinde bulunmak,
-h) Faaliyet alanına giren konularda hizmet satın almak,
-i) Hizmetlerin yürütülmesi için gerekli olan taşınır ve taşınmaz mal satın almak, yaptırmak, satmak, kiralamak, rehin ve ipotek tesis etmek,
-j) Faaliyet alanıyla ilgili diğer görevleri yerine getirmek.
+Madde 3 – (Değişik: 29/6/2012-6337/3 md.)
+Kurumun görev ve yetkileri şunlardır:
+a) Ülkemizde uygunluk değerlendirme kuruluşlarına akreditasyon hizmeti sunan tek kuruluş olarak Kurum faaliyetleri ile ilgili düzenlemeleri yapmak, akreditasyon ile ilgili gerekli kıstas ve tedbirleri belirlemek, bunları uygulamak ve gerektiğinde değiştirmek, yürürlükten kaldırmak ve ilgili önlemleri almak.
+b) Akredite edilmek üzere başvuran kuruluşların ilgili standartlara ve ölçütlere göre denetimini yapmak ve bu denetim sonucunda kuruluşun akredite edilip edilmemesine karar vermek, akredite edilen kuruluşları izlemek, akreditasyonun kapsamını değiştirmek, gerektiğinde akreditasyonu askıya almak veya iptal etmek ve akredite edilen kurum ve kuruluşlar arasında Kurumun görev alanına giren konularda iş birliğini sağlamak.
+c) Uluslararası ve bölgesel akreditasyon birlikleri ve örgütleri, ülkelerin akreditasyon kuruluşları ve akreditasyon kuruluşu bulunmayan ülkelerdeki akreditasyonla ilgili kurum ve kuruluşlarla ilişkiler kurmak ve iş birliğinde bulunmak.
+ç) Akreditasyon amacıyla başvuran kuruluşların müracaatı, değerlendirilmesi ve akredite edilmesi ile ilgili olarak elde edilmiş bilgilerin gizliliğini korumak.
+d) Yurt içinde ve yurt dışında, akreditasyonun önemini ve kalite bilincini artırıcı faaliyetlerde bulunmak, görev alanına giren konularda eğitim vermek, araştırma ve yayın yapmak.
+e) Kurum faaliyetlerinin icrası için hizmet almak, taşınır ve taşınmaz mal satın almak, yaptırmak, satmak, kiralamak.
+f) İyi laboratuvar uygulamaları konusunda ulusal izleme otoritesi olarak hizmet vermek.
+g) Faaliyet alanıyla ilgili diğer görevleri yerine getirmek.
+Kurum, uygunluk değerlendirme kuruluşlarının gerçekleştirdikleri faaliyetleri icra edemez, verdikleri hizmetleri sunamaz, bir uygunluk değerlendirme kuruluşunda hissedar olamaz ve bu kuruluşlara danışmanlık hizmeti veremez.
+Kurum, uygunluk değerlendirme faaliyetleri yürüten kuruluşların bağlı, ilgili veya ilişkili olduğu bir bakanlık veya kamu kurumu ile ilişkilendirilemez.

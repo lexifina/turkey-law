@@ -1,6 +1,9 @@
-Anahizmet birimleri
-Madde 14 – Genel Sektere bağlı anahizmet birimleri şunlardır:
-a) Ürün/Hizmet Akreditasyon Başkanlığı,
-b) Laboratuvar Akreditasyon Başkanlığı,
-c) Sistem Akreditasyon Başkanlığı,
-d) Personel Akreditasyon Başkanlığı.
+Hizmet birimleri(1)
+Madde 14 – (Değişik:29/6/2012-6337/8 md.)
+Kurumun hizmet birimleri ve görevleri aşağıda belirtilmiştir:
+a) Ürün, Hizmet ve Muayene Akreditasyon Başkanlığı: Ürün, hizmet ve muayene alanındaki akreditasyon başvurularının incelenmesi ve sonuçlandırılması işlemlerini yapar, akredite edilen kuruluşları izler ve kontrol eder, ürün, hizmet ve muayene belgelendirmesi yapan kuruluşların akreditasyonu konusunda görüş almak üzere teknik ve bilirkişi komitelerini oluşturur, Genel Sekreter tarafından verilen diğer görevleri yapar.
+b) Laboratuvar Akreditasyon Başkanlığı: Laboratuvarların akreditasyon başvurularının incelenmesi ve sonuçlandırılması işlemlerini yapar, akredite edilen kuruluşları izler ve kontrol eder, laboratuvarların akreditasyonu konusunda görüş almak üzere teknik ve bilirkişi komitelerini oluşturur, Genel Sekreter tarafından verilen diğer görevleri yapar.
+c) Sistem Akreditasyon Başkanlığı: Yönetim sistemi belgelendirmesi yapan kuruluşların akreditasyon başvurularının incelenmesi ve sonuçlandırılması işlemlerini yapar, akredite edilen kuruluşları izler ve kontrol eder, bu kuruluşların akreditasyonu konusunda görüş almak üzere teknik ve bilirkişi komitelerini oluşturur, Genel Sekreter tarafından verilen diğer görevleri yapar.
+ç) Personel Akreditasyon Başkanlığı: Personel belgelendirme kuruluşlarının akreditasyon başvurularının incelenmesi ve sonuçlandırılması işlemlerini yapar, akredite edilen kuruluşları izler ve kontrol eder, bu kuruluşların akreditasyonu konusunda görüş almak üzere teknik ve bilirkişi komitelerini oluşturur, Genel Sekreter tarafından verilen diğer görevleri yapar.
+d) Hukuk Müşavirliği: 26/9/2011 tarihli ve 659 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararname hükümlerine göre hukuk birimlerine verilen görevler ile Genel Sekreter tarafından verilen diğer görevleri yapar.
+e) Yönetim Hizmetleri Başkanlığı: Kurumun insan gücü planlaması ile insan kaynakları sisteminin geliştirilmesi ve performans ölçütlerinin oluşturulması konusunda çalışmalar yapar, Kurum personelinin atama, nakil, terfi, emeklilik ve benzeri özlük işlemlerini yürütür, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu hükümleri çerçevesinde, kiralama ve satın alma işleri ile temizlik, güvenlik, aydınlatma, ısınma, onarım, taşıma ve benzeri hizmetleri yürütür, Kurumun taşınır ve taşınmazlarına ilişkin işlemleri ilgili mevzuat çerçevesinde yürütür, Kurumun genel evrak ve arşiv faaliyetlerini düzenler ve yürütür, Kurumun sivil savunma ve seferberlik hizmetlerini planlar ve yürütür, Kurumun yürürlüğe koyacağı düzenleyici işlem çalışmalarında Genel Sekreterlik ve Yönetim Kuruluna sekretarya hizmeti sunar, akreditasyon alanında bütün taraflarla yapılan sözleşmelerin gereklerini yerine getirir, Genel Sekreter tarafından verilen diğer görevleri yapar.
