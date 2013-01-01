@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.16978",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 70)",
+  "number": "16978",
+  "path": "teblig/2013/16978",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16978&MevzuatTertip=5",
+  "source_sha256": "97979cd091c3eaadba81a8b5eed095d8e949ecc8291d1c240f511af6e6e2545a",
+  "source_bytes": 9589,
+  "published": "2013-01-01",
+  "gazette": "28515",
+  "in_force": "2013-01-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.01.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 219,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
