@@ -1,0 +1,4 @@
+Yaptırım
+MADDE 5 – (1) İthalatçılar, ithal lisansında belirtilen miktarı tek sevkiyatta ithal etmeleri durumunda gümrük yükümlülüğünün doğduğu tarihi müteakip, birden fazla sevkiyatta ithal etmeleri durumunda ise her sevkiyatın gümrük yükümlülüğünün doğduğu tarihi müteakip en geç onbeş iş günü içinde, ithal lisansı üzerinde belirtilen bilgiler bazında gerçekleşen ithalata ilişkin istatistiki bilgileri Ekonomi Bakanlığına (İthalat Genel Müdürlüğü) iletir.
+(2) İthal lisansları, mücbir sebepler hariç, geçerlilik süresinin bitim tarihinden itibaren en geç onbeş iş günü içinde Ekonomi Bakanlığına (İthalat Genel Müdürlüğü) iade edilir.
+(3) İthalatçıların ikinci fıkrada yer alan hükmü yerine getirmediklerinin tespiti halinde, mücbir sebepler hariç, müteakip ithal lisansı talepleri, söz konusu ithal lisansı iade edilene kadar değerlendirmeye alınmaz.
