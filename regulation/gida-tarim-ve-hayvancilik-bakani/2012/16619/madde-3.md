@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Alt komite: Ulusal Komitenin belirleyeceği konu ile ilgili uzmanlardan oluşan komiteyi,
+b) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+c) Başvuru ve izin belgesi: YEHGK ile bilimsel çalışma talebinde bulunan tüzel kişiler tarafından Genel Müdürlüğe onaylanması için verilen ve ek-1’de belirtilen Bilimsel Araştırmalar İçin YEHGK Kullanımı Başvuru ve İzin Belgesini,
+ç) Evcil hayvan türleri: İhtiyaçları karşılamak için insanlar tarafından evrim süreci etkilenmiş ve ek-7’de belirtilen Evcil Hayvan Türlerinde belirtilen türleri,
+d) Gen bankası: Embriyo, sperma, ovum, hücre, doku, DNA ve diğer hayvansal genetik materyallerin yapay yöntemlerle ve ağırlıklı olarak dondurularak koruma altına alındığı yeri,
+e) Gen bankasındaki YEHGK transfer anlaşması: Gen bankasındaki materyal ile çalışma talebinde bulunan kurumla gen bankası arasında imzalanması ve Genel Müdürlük tarafından onaylanması zorunlu olan ve ek-3’te belirtilen Gen Bankasındaki YEHGK’nın Transfer Anlaşmasında verilen metni,
+f) Genel Müdürlük: Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğünü,
+g) Genetik kaynaklar: Bugün veya gelecek için değer taşıyan genetik materyali,
+ğ) İl müdürlüğü: Gümrük çıkışı yapılabilen gıda, tarım ve hayvancılık il müdürlüklerini,
+h) Materyal transfer anlaşması (MTA): YEHGK ile çalışma talebinde bulunan gerçek ve tüzel kişiler ile Genel Müdürlük arasında imzalanması zorunlu olan ve ek-2’de belirtilen Materyal Transfer Anlaşmasında verilen metni,
+ı) Nesli tehdit altındaki YEHGK: Ulusal ve uluslararası esaslara göre yakın bir gelecekte neslinin tükenme riski kritik seviyeye ulaşan yerli evcil hayvan genetik kaynaklarını,
+i) Nesli tehlike altındaki YEHGK: Ulusal ve uluslararası esaslara göre yakın bir gelecekte tükenme riski yüksek olan yerli evcil hayvan genetik kaynaklarını,
+j) Sağlık karnesi: Hayvanın ilk sağlık kontrolünde özel veya resmi veteriner hekim tarafından düzenlenen belgeyi,
+k) Tescil: Evcil Hayvan Tescil Komitesi tarafından, 22/12/2011 tarihli ve 28150 sayılı Resmî Gazete’de yayımlanan Evcil Hayvan Genetik Kaynaklarının Tesciline İlişkin Yönetmelik kapsamında yapılan tescilleri,
+l) TÜBİTAK: Türkiye Bilimsel ve Teknolojik Araştırma Kurumunu,
+m) Ulusal Komite: Evcil Hayvan Genetik Kaynaklarının Korunması ve Sürdürülebilir Kullanımı Hakkında Yönetmelik kapsamında oluşturulan Evcil Hayvan Genetik Kaynaklarını Koruma Ulusal Komitesini,
+n) Yerli evcil hayvan genetik kaynakları (YEHGK): Evcilleştirilmiş hayvan türlerine ait Türkiye’ye özgü veya özel niteliklere sahip ırk, tip, hat, ekotip ve topluluklarını,
+ifade eder.

@@ -1,0 +1,2 @@
+İzinsiz çıkarılan materyalin geri kazanımı
+MADDE 13 – (1) Yapılan yayın taramalarında yurt dışında izinsiz olarak YEHGK kullanıldığının tespiti veya bu Yönetmelik hükümlerine aykırılık teşkil eden uluslararası işlemlerde Biyolojik Çeşitlilik Sözleşmesi hükümleri ve bu Sözleşmenin taraflar toplantı kararları ile onaylanan uluslararası düzenlemeler gereğince, izinsiz çıkartılan materyalin veya bu materyalden elde edilen faydaların Türkiye’ye geri kazanımına yönelik uluslararası süreç Bakanlıkla işbirliği halinde Dışişleri Bakanlığı tarafından yürütülür.

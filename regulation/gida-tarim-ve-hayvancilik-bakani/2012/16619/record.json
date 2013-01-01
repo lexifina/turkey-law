@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.16619",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YERLİ EVCİL HAYVAN GENETİK KAYNAKLARININ KULLANILMASI VE YURT DIŞINA ÇIKARILMASI HAKKINDA YÖNETMELİK",
+  "number": "16619",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2012/16619",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16619&MevzuatTertip=5",
+  "source_sha256": "ee14157d4ff6f5deee135732afc3f9fae1bb5cb2af4288fb705d966659ab6355",
+  "source_bytes": 39634,
+  "published": "2012-09-21",
+  "gazette": "28418",
+  "in_force": "2013-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2013 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2013 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2273,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16619-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu, 3/6/2011 tarihli ve 639 sayılı Gıda, Tarım ve Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname, 24/6/2004 tarihli ve 5199 sayılı Hayvanları Koruma Kanunu, 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanunu ile 21/11/1996 tarihli ve 96/8857 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Biyolojik Çeşitlilik Sözleşmesine dayanılarak hazırlanmıştır.
