@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.16975",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 56)",
+  "number": "16975",
+  "path": "teblig/2013/16975",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16975&MevzuatTertip=5",
+  "source_sha256": "3625c43a86ca60ad366147455f7c09ff187af91e04ca8ef1650eec60c6d6bd72",
+  "source_bytes": 9902,
+  "published": "2013-01-01",
+  "gazette": "28515",
+  "in_force": "2013-01-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.01.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 380,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16975-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
