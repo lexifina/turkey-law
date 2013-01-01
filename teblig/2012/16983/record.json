@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.16983",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4077 SAYILI TÜKETİCİNİN KORUNMASI HAKKINDA KANUNUN 25 İNCİ MADDESİNE GÖRE 2013 YILINDA UYGULANACAK OLAN İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: TGM-2012/1)",
+  "number": "16983",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2012/16983",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16983&MevzuatTertip=5",
+  "source_sha256": "6f255a7e06b9157fa5ef450388aa14e6880f3b0b58b51be210e5dad28cd4695f",
+  "source_bytes": 33894,
+  "published": "2012-12-31",
+  "gazette": "28514 (4. Mükerrer)",
+  "in_force": "2013-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2013 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2013 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 187,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
