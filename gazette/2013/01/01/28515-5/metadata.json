@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-01-01",
+  "issue": "28515",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Harçlar Kanunu Genel Tebliği (Seri No: 70)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130101-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130101.htm",
+  "index_sha256": "6bde9d4ef2c852110c31b50430db302eb5b4772d8792a8553801d7a8618aa1f5",
+  "index_header": "1 Ocak 2013 ... 28515 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130101.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
