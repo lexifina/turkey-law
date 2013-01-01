@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.16976",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 61)",
+  "number": "16976",
+  "path": "teblig/2013/16976",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16976&MevzuatTertip=5",
+  "source_sha256": "44031bad7e53e419486e6683895d87dfed0e84e186591fdb696515123d6ca68e",
+  "source_bytes": 47796,
+  "published": "2013-01-01",
+  "gazette": "28515",
+  "in_force": "2013-01-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.01.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1310,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
