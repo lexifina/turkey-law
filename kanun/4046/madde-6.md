@@ -42,12 +42,12 @@ l) (Değişik: 1/8/2003-4971/4 md.) Mevzuatla idareye verilen sair görevlerin y
 Kullanılır.
 7423
 Özelleştirme Fonunda toplanan gelirlerin kullanımında; iş kaybı tazminatı ödenmesi ve diğer hizmetlerin verilmesine, özelleştirme kapsamındaki kuruluşların özelleştirmeye hazırlanması amacıyla idari, mali ve hukuki yönden yapılacak düzenlemelerin gerektirdiği giderlerin karşılanmasına öncelik verilir.
-(Değişik üçüncü fıkra: 23/5/2000 - 4568/2 md.) Özelleştirme Fonunun nakit fazlası, Hazinenin iç ve dış borç ödemelerinde kullanılmak üzere Hazine hesaplarına intikal ettirilir. Özelleştirme Fonundan diğer herhangi bir fona aktarma yapılmaz. (1)
+(Değişik üçüncü fıkra: 29/6/2012-6338/8 md.) Özelleştirme Fonunun nakit fazlası, Fon tarafından Hazine İç Ödemeler Muhasebe Birimi hesaplarına aktarılır ve genel bütçenin (B) işaretli cetveline gelir kaydedilir. Özelleştirme Fonundan diğer herhangi bir fona aktarma yapılmaz.
 Fonun hesap ve kullanım usul ve esasları ile fon bakiyelerinin nemalandırılmasına ilişkin esas ve usuller idare tarafından hazırlanarak Kurulca onaylanacak yönetmelikle belirlenir.
 Denetim
-Madde 11 – İdare bütçesinin dönetimi 21.2.1967 tarih ve 832 sayılı Kanun uyarınca Sayıştay Başkanlığınca yapılar. Özelleştirme İdaresi Başkanlığının Çalışmaları ve Özelleştirme Fonunun kullanımı ile Özelleştirme işlemleri sırasındaki her türlü hizmet ve uygulamaları, 2.4.1987 tarih ve 3346 sayılı Kanun ve Başbakanlık Yüksek Denetleme Kurulu Hakkında 72 sayılı Kanun Hükmünde Kararname esaslarına göre denetlenir.
+Madde 11 – İdare bütçesinin denetimi 21.2.1967 tarih ve 832 sayılı Kanun uyarınca Sayıştay Başkanlığınca yapılır. Özelleştirme İdaresi Başkanlığının Çalışmaları ve Özelleştirme Fonunun kullanımı ile Özelleştirme işlemleri sırasındaki her türlü hizmet ve uygulamaları, 2.4.1987 tarih ve 3346 sayılı Kanun ve Başbakanlık Yüksek Denetleme Kurulu Hakkında 72 sayılı Kanun Hükmünde Kararname esaslarına göre denetlenir.
 Özelleştirme programına alınan kuruluşlar, sermayelerindeki kamu payı % 50'nin altına düşünceye kadar 2.4.1987 tarihli ve 3346 sayılı Kanun ile 24.6.1983 tarihli ve 72 sayılı Başbakanlık Yüksek Denetleme Kurulu Hakkında Kanun Hükmünde Kararname esaslarına göre denetlenir.
-Uygulanmayacak Hükümler (2)
+Uygulanmayacak Hükümler (1)
 Madde 12 – Bu Kanunda yapılması öngörülen işlerde 2886 sayılı Devlet İhale Kanunu ve 1050 sayılı Muhasebe-i Umumiye Kanunu hükümleri ile 832 sayılı Sayıştay Kanununun vize ve tescile ilişkin hükümleri uygulanmaz.
 Stratejik Konu ve Kuruluşlar ile İmtiyazlı Hakların Belirlenmesi
 Madde 13 – Özelleştirme programına alınan kuruluşlarla ilgili olarak;
@@ -55,6 +55,9 @@ a) Stratejik sayılacak konu ve kuruluşları tespit etmeye,
 b) Tekelleşmenin önlenmesi de dahil, ekonomi ve güvenlik ile ilgili olarak milli yararın korunması amacıyla, (a) bendi gereğince tespit edilecek stratejik kuruluşlardaki kamu payının % 50'nin altına düşmesi durumunda bu kuruluşların yetkili kurullarında alınacak kararlarda söz ve onay hakkı verecek imtiyazlı hisselerin miktarını ve bu paylara dayanarak Devletin sahip olacağı imtiyazlı hakları belirlemeye, imtiyazlı hisselerin miktarını ve bunlarla ilgili imtiyazlı hakları değiştirmeye, stratejik konu ve kuruluş olarak tespit edilenleri bu kapsamdan çıkarmaya,
 Kurul yetkilidir.
 Şu kadar ki, aşağıda belirtilen kuruluşların sermayelerinin % 49'undan fazlasının özelleştirilmesine karar verilmesi halinde bu kuruluşlarda imtiyazlı hisseler oluşturulması zorunludur;
+–––––––––––
+(1) Bu maddenin uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci maddesine bakınız.
+7424
 - Türk Hava Yolları A.O.,
 - T.C. Ziraat Bankası,
 - Türkiye Halk Bankası A.Ş.,
@@ -64,10 +67,6 @@ Yabancılara Gayrimenkul Satışı
 Madde 14 – Bu Kanun hükümlerine göre yapılacak özelleştirme uygulamaları çerçevesinde yabancı uyruklu gerçek ve tüzelkişilere gayrimenkul satışı ve devri mütekabiliyet esasları göz önünde tutularak yürürlükteki mevzuat hükümlerine tabidir.
 Kamu Hizmetlerinin Gördürülmesinin Özelleştirilmesi
 Madde 15 – Kamu hizmeti gören kuruluşların mülkiyet devri suretiyle özelleştirilmesine ilişkin konularda bu Kanunun 1 inci maddesinde öngörülen ayrı kanunlarla düzenleme yapılmasına ilişkin şartlar saklı kalmak kaydıyla;
-–––––––––––
-(1) Bu fıkra hükümlerinin 2009 Mali yılında uygulanması ile ilgili olarak, 31/12/2008 tarihli ve 27097 Mükerrer sayılı Resmi Gazete’de yayımlanan, 27/12/2008 tarihli ve 5828 sayılı 2009 Yılı Merkezi Yönetim Bütçe Kanununun 29 uncu maddesine bakınız.
-(2) Bu maddenin uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci maddesine bakınız.
-7424
 a) Genel ve katma bütçeli idarelerle bunlara bağlı döner sermayeli kuruluşların mal ve hizmet üretim birimleri ve varlıklarının (baraj, gölet, otoyol, yataklı tedavi kurumları, limanlar ve benzeri diğer mal ve hizmet üretim birimleri),
 b) Bu Kanunun 35 inci maddesinin (B) bendinde belirtilen ve kamu hizmeti gören tekel niteliğindeki mal ve hizmetleri üreten kamu iktisadi kuruluşları ile bunların müessese, bağlı ortaklık, işletme ve işletme birimlerinin,
 İşletme haklarının verilmesi veya kiralanması ve mülkiyetin devri dışındaki benzeri diğer yöntemlerle özelleştirilmesi bu Kanun hükümleri çerçevesinde yapılır.
@@ -281,26 +280,10 @@ Bu Kanunun 22 nci maddesinde yapılan değişikliğin yürürlüğe girdiği tar
 Geçici Madde 22 - (Ek: 3/7/2005 - 5398/29 md.)
 Bu Kanunun 22 nci maddesinde yapılan değişikliğin yürürlüğe girdiği tarihten önce diğer kamu kurum ve kuruluşlarına nakledilmek üzere Devlet Personel Başkanlığına bildirilenlerden nakil işlemi tamamlanmış olan personel hakkında 22 nci maddenin beşinci ve altıncı fıkralarına göre yapılan fark tazminatı ve şahıslarına bağlı olarak saklı tutulan hakların ödenmesinde, ilgililerin eski kurumları ile ilişiklerinin kesildiği tarih esas alınır. 1.8.2003 tarihli ve 4971 sayılı Kanunun geçici 2 nci maddesi uyarınca şahsa bağlı hakları 15.8.2003 tarihinden itibaren üç yıl süreyle saklı tutulan personelin şahsa bağlı hakları 14.8.2006 tarihinde sona erer. 15.8.2003 tarihinden bu Kanunun 22 nci maddesinde yapılan değişikliğin yürürlüğe girdiği tarihler arasında nakle tâbi tutulan ve şahsa bağlı haktan yararlanan personelin şahsa bağlı hakları ise atandıkları yeni kurumlarında göreve başladıkları tarihi izleyen aybaşından geçerli olmak üzere üç yıl süreyle saklı tutulur ve bu maddenin yürürlüğe girdiği tarihten önce nakle tâbi tutulan personelin şahsa bağlı haklarının tespitinde ve fark tazminatının ödenmesinde bu fıkra hükümleri hariç 22 nci maddenin bu Kanunla değiştirilen hükümleri aynen uygulanır.
 Bu maddenin yürürlüğe girdiği tarih itibarıyla nakil işlemleri tamamlanmamış personel hakkında 22 nci maddenin bu Kanunla değiştirilen hükümleri aynen uygulanır.
-Geçici Madde 23 - (Ek: 15/5/2008-5763/28 md.)
-Bu Kanun kapsamında;
-a) Özelleştirme Fonunun 2008 yılındaki nakit fazlasının 1.000.000.000 YTL'lik kısmı, Fon tarafından Hazine İç Ödemeler Muhasebe Birimi hesaplarına aktarılır ve genel bütçenin (B) işaretli cetveline gelir kaydedilir. Kaydedilen bu tutarları, Yüksek Planlama Kurulu kararına istinaden Güneydoğu Anadolu Projesi kapsamındaki yatırımlara öncelik vermek kaydıyla münhasıran ekonomik kalkınma ve sosyal gelişmeye yönelik yatırımlarda kullanılmak üzere ilgili idare bütçelerine ödenek kaydetmeye Maliye Bakanı yetkilidir. Bu ödenekler, 2008 yılı yatırım programı ile ilişkilendirilir.
-b) 1/1/2009-31/12/2012 tarihleri arasındaki dönemde oluşacak Özelleştirme Fonunun nakit fazlasının; 2009 yılı için 2.500.000.000 YTL'lik kısmı, izleyen yıllarda ise bir önceki yıl genel bütçesinde gelir tahmini olarak yer alan tutarın Gayri Safi Yurtiçi Hasıla deflatörü oranında artırılarak bulunacak kısmı, ilgili yıl genel bütçelerinin (B) işaretli cetvelinde bütçe gelir tahmini olarak yer alır. İlgili yıl bütçeleri hazırlanırken Güneydoğu Anadolu Projesi kapsamındaki yatırımlara öncelik vermek kaydıyla münhasıran bölgesel ekonomik kalkınma ve sosyal gelişmeye yönelik yatırımların finansmanı için ilgili idare bütçelerine bu gelir tahmini karşılığı kadar ödenek öngörülür. Yukarıda belirlenen tutarlar Özelleştirme Fonu tarafından Hazine İç Ödemeler Muhasebe Birimi hesaplarına aktarılır ve ilgili yıl genel bütçesinin (B) işaretli cetveline gelir kaydedilir.
-1/1/2008-31/12/2012 tarihleri arasındaki dönemde oluşacak Özelleştirme Fonunun nakit fazlasının yukarıda belirlenen tutarları aşan kısmından Özelleştirme Yüksek Kurulu kararına göre tespit edilecek tutar, Fon tarafından Hazine İç Ödemeler Muhasebe Birimi hesaplarına aktarılır ve ilgili yıl genel bütçesinin (B) işaretli cetveline gelir kaydedilir. Kaydedilen bu tutarlardan, Yüksek Planlama Kurulu kararı ile belirlenecek kısmı ulaştırma ve enerji yatırımlarında kullanılmak üzere, ilgili idare bütçelerine ödenek kaydetmeye Maliye Bakanı yetkilidir. Bu ödenekler, yılı yatırım programı ile ilişkilendirilir. (1) (2)
-Bu maddenin uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığı ile Hazine Müsteşarlığı tarafından müştereken belirlenir.
-––––––––––––––––
-(1) 24/7/2008 tarihli ve 5793 sayılı Kanunun 46 ncı maddesiyle bu fıkrada yer alan "1/1/2009-31/12/2012" ibaresi "1/1/2008-31/12/2012" olarak ve "Kaydedilen bu tutarları, Yüksek Planlama Kurulu kararına istinaden" ibaresi ise "Kaydedilen bu tutarlardan, Yüksek Planlama Kurulu kararı ile belirlenecek kısmı" şeklinde değiştirilmiş ve metne işlenmiştir.
-(2) Bu fıkranın ikinci ve üçüncü cümleleri hükümlerinin 2009 Mali yılında uygulanması ile ilgili olarak, 31/12/2008 tarihli ve 27097 Mükerrer sayılı Resmi Gazete’de yayımlanan, 27/12/2008 tarihli ve 5828 sayılı 2009 Yılı Merkezi Yönetim Bütçe Kanununun 29 uncu maddesine bakınız.
-7436-4
-Geçici Madde 24 - (Ek: 24/7/2008-5793/26 md.)
-Bu maddenin yürürlüğe girdiği tarihten önce özelleştirilen Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğü (TCDD) limanlarından elde edilen gelirlerden Hazine İç Ödemeler Muhasebe Birimi hesaplarında tutulan tutarlar, bu birim tarafından genel bütçenin (B) işaretli cetveline gelir kaydedilir. Gelir kaydedilen tutarların yüzde 60’ını karayolu yapımı ile bu amaçla yapılacak kamulaştırma, karayolu bakımı ve onarımı amacıyla Karayolları Genel Müdürlüğü bütçesine, yüzde 40’ını ise demiryolu yapımı ile bu amaçla yapılacak kamulaştırma, demiryolu bakımı, onarımı ve demiryolu araçlarının alımı ve diğer ihtiyaçlarda kullanmak amacıyla TCDD’ye sermayesini artırmak suretiyle ödenmek üzere Hazine Müsteşarlığı bütçesine ödenek kaydetmeye Maliye Bakanı yetkilidir.
-Bu maddenin yürürlüğe girdiği tarihten sonra TCDD’ye ait limanların özelleştirilmesinden elde edilecek gelirlerin tamamı ise tahsilini izleyen onbeş gün içinde Özelleştirme İdaresi Başkanlığınca Ulaştırma Bakanlığı merkez ödemelerini yapan muhasebe birimi hesaplarına aktarılır. Aktarılan bu tutarlar, aynı birim tarafından genel bütçenin (B) işaretli cetveline özel gelir kaydedilir.(1) Kaydedilen bu tutarların yüzde 60’ını karayolu yapımı ile bu amaçla yapılacak kamulaştırma, karayolu bakımı ve onarımı amacıyla Karayolları Genel Müdürlüğü bütçesine, yüzde 40’ını ise demiryolu yapımı ile bu amaçla yapılacak kamulaştırma, demiryolu bakımı, onarımı ve demiryolu araçlarının alımı amacıyla TCDD’ye sermayesini artırmak suretiyle ödenmek üzere Hazine Müsteşarlığı bütçesine özel ödenek kaydetmeye Maliye Bakanı yetkilidir. (2)
-Özel gelir ve ödenek kaydedilen tutarlardan yılı içerisinde kullanılamayan kısımları ertesi yıl bütçelerine devren gelir ve ödenek kaydetmeye Maliye Bakanı yetkilidir. (2)
-Sermaye ödenekleri yılı yatırım programı ile ilişkilendirilir.
+Geçici Madde 23 - (Ek: 15/5/2008-5763/28 md.; Mülga: 29/6/2012-6338/17 md.)
+Geçici Madde 24 - (Ek: 24/7/2008-5793/26 md.; Mülga: 29/6/2012-6338/17 md.)
 Yürürlük
 Madde 43 – Bu Kanun yayımı tarihinde yürürlüğe girer.
 Yürütme
 Madde 44 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-––––––––––––––––
-(1) 31/12/2008 tarihli ve 27097 Mükerer sayılı Resmi Gazete’de yayımlanan 27/12/2008 tarihli ve 5828 sayılı 2009 Yılı Merkezi Bütçe Kanununun 29 uncu maddesi uyarınca bu cümlede yer alan “özel gelir” ibaresi 2009 yılı için “gelir” şeklinde uygulanır.
-(2) Bu fıkra hükümlerinin 2009 Mali yılında uygulanması ile ilgili olarak, 31/12/2008 tarihli ve 27097 Mükerrer sayılı Resmi Gazete’de yayımlanan, 27/12/2008 tarihli ve 5828 sayılı 2009 Yılı Merkezi Yönetim Bütçe Kanununun 29 uncu maddesine bakınız.
 7436-5
