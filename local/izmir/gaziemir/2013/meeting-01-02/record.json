@@ -1,0 +1,24 @@
+{
+  "number": "meeting-01-02",
+  "number_as_published": "meeting-01-02",
+  "year": 2013,
+  "title": "02.01.2013 KARAR ÖZETİ",
+  "decision_date": "2013-01-02",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=61",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/40abe8cae45a69be8840be8ffafa46b340abe8cae45a69be8840be8ffafa46b3.doc",
+  "source_sha256": "f23a6fccbf7e54810f7a04b9f3f692b330155bc4c6bc760ec47022f45de24a91",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2013-01-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.01.2013; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02.01.2013 KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "30.01.2013"
+}
