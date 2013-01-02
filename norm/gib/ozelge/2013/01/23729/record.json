@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[68-12/4]-3",
+  "source_id": 23729,
+  "date": "2013-01-02",
+  "title": "Serbest meslek erbabının kredi kullanarak aldığı ve home-ofis olarak kullandığı gayrimenkul için ödediği faizlerin gider kaydı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23729",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "4b096d32991d7f296df70aaba67597b3980e8eac86f6c5c48a69039d8ba97a69",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
