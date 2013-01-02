@@ -2,11 +2,11 @@
   "record_type": "law-metadata",
   "document_type": "kanun",
   "number": "6367",
-  "year": 2012,
+  "year": 2013,
   "title": "Türkiye Cumhuriyeti ile Sırbistan Cumhuriyeti Arasında Sosyal Güvenlik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
-  "adopted": "2012-01-02",
+  "adopted": "2013-01-02",
   "adopted_as_published": "02/01/2012",
-  "date_basis": "adopted",
+  "date_basis": "adopted-repaired",
   "official_gazette_as_published": "17.1.2013 No: 28531",
   "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc097/kanuntbmmc097/kanuntbmmc09706367.pdf",
   "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 97",
@@ -30,17 +30,31 @@
           "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c039/tbmm24039047ss0036.pdf"
         }
       ],
-      "sittings": [],
+      "sittings": [
+        {
+          "cilt": 39,
+          "sitting": 47,
+          "sitting_date": "2013-01-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c039/tbmm24039047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c039/tbmm24039fih.pdf",
+          "pages": [
+            "344:345",
+            "356:371"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=3&v_cilt="
+        }
+      ],
       "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
-      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=414&v_gelecek_sayfa=101&v_kullanici_id=27483204",
-      "page_sha256": "e4727bfa60264b2cacbeccb04f8d9e94f5e2c3fe9d86777b1abea3fddadc1ac8"
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=414&v_gelecek_sayfa=101&v_kullanici_id=27484852",
+      "page_sha256": "316b23c963ef223f0d7e671af86df204d8a5bee789a4188ae0f4d64891e9b4c5"
     }
   ],
   "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
-  "source_sha256": "e4727bfa60264b2cacbeccb04f8d9e94f5e2c3fe9d86777b1abea3fddadc1ac8",
+  "source_sha256": "316b23c963ef223f0d7e671af86df204d8a5bee789a4188ae0f4d64891e9b4c5",
   "issuer": "TBMM",
-  "in_force": "2012-01-02",
-  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 02/01/2012; record of adoption, commencement not asserted",
+  "in_force": "2013-01-02",
+  "in_force_basis": "Kabul tarihi as printed in the official TBMM kanunlar index is 02/01/2012, whose year is a misprint: the one cited sitting with the same day and month is 2013-01-02; date of adoption, commencement not asserted",
   "history_type": "metadata",
   "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
   "law_text_complete": false,
