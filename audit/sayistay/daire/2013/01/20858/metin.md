@@ -1,0 +1,17 @@
+Özel yetenek sınavı için öğrencilerden tahsil edilen dosya ücretinin ve sınav için yapılan giderlerin üniversite bütçesi yerine Sağlık Kültür Spor Dairesi Başkanlığına bağlı iktisadi işletme bütçesine dahil edilmesi.
+
+5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 12’nci maddesinin ilk fıkrasında; “Genel yönetim kapsamındaki idarelerin bütçelerinin; merkezî yönetim bütçesi, sosyal güvenlik kurumları bütçeleri ve mahallî idareler bütçeleri olarak hazırlanacağı ve uygulanacağı, Kamu idarelerince bunlar dışında herhangi bir ad altında bütçe oluşturulamayacağı”; 13 üncü maddesinin (m) fıkrasında “Kamu idarelerinin tüm gelir ve giderlerinin bütçelerinde gösterileceği” öngörülmüştür.
+
+Aynı Kanunun 3’üncü maddesinin (g) bendinde, kamuya ait gelirler, taşınır ve taşınmazlar, hesaplarda bulunan para, alacak ve haklar ile her türlü değerler, kamu kaynağı olarak ifade edilmiştir.
+
+Diğer taraftan 2547 sayılı Yüksek Öğretim Kanununun 55 inci maddesinin (c) fıkrasında, “Alınacak harç ve ücretler” yüksek öğretim kurumlarının gelir kaynakları arasında sayılmaktadır.
+
+Öğrencilerden tahsil edilen miktarların iktisadi işletmeler bütçesine yatırıldığı, İktisadi İşletmeler Yönergesi hükümleri incelendiğinde ise, Yönergenin “Kapsam” başlıklı 2.maddesinde, Yönerge hükümlerinin ……….. Üniversitesi İktisadi İşletmeleri tarafından işletilen tüm tesislerin faaliyetlerini kapsadığı, 5 inci maddesinde; İktisadi İşletme Faaliyet Alanının; kreş, anaokulu, kuaför, güzellik salonu, otobüs durak ve reklam panoları, sağlık merkezi, sosyal tesis; spor tesisi, konaklama tesisi, öğrenci yurdu, kantin-kafeterya, park ve otopark alanı, kongre ve kültür merkezleri, konferans salonları, sanat atölyesi, sinema, havuz, fitnes alanı, öğrenci yemekhaneleri, lokanta, market, kırtasiye gibi tesisler ile kültürel gezi ve rehberlik hizmetleri, eğitim amaçlı kurslar, çevirmenlik, danışmanlık, basım-yayım ve benzeri olduğu şeklinde düzenlemiştir.
+
+Yukarıda yer alan mevzuat hükümleri çerçevesinde, özel yetenek sınavı ile öğrenci alan Güzel Sanatlar Fakültesi Resim ve Heykel Bölümü, Eğitim Fakültesi Resim İş Öğretmenliği ile Beden Eğitimi Spor Yüksekokuluna başvuran öğrencilerden sınava başvuru dosya bedeli olarak tahsil edilen tutarlar üniversite özel bütçe gelirleri arasına dahil edilmesi gereken miktarlar olup, elde edilen gelirlerin iktisadi işletmenin faaliyet alanı içerisinde değerlendirilmesi mümkün değildir.
+
+Bu itibarla, Güzel Sanatlar Fakültesi Resim ve Heykel Bölümü, Eğitim Fakültesi Resim İş öğretmenliği ile Beden Eğitimi Spor Yüksekokuluna başvuran öğrencilerden sınava başvuru dosya bedeli olarak tahsil edilen gelirlerden yapılan giderler düşüldükten sonra kalan ve üniversite bütçesine aktarılmayan toplam …….. TL’nin Üniversite Yönetim Kurulu Başkanı (Rektör) …….., Üyeler (Diş Hek. Fak Dekan V.) …….., (Güzel Sanatlar Fak Dekan V) …….., ( Tıp Fak. Dekan V.) ………, (Su Ürünleri Fak Dekan V.) …….., (Ziraat Fak. Dekanı) ………, (Müh Fak. Dekanı) …….., (Veteriner Fak . Dekan V.) ………., (İletişim Fak. Dekan V.) ………., (Eğitim Fak. Dekan V.) …….ve ( Gen Sek. Yrd.V) …….., (İ.İ.B. Fak Dekan V.) ……… ile (Mimarlık Fak .Dekan V) ……..’ye ortaklaşa ve zincirleme ödettirilmesine oyçokluğuyla,
+
+Azınlık Görüşü: Üye ………’ın “Vergi dairesine yatırılan katma değer vergisi (….. TL) ile bu işleme ilişkin ödenen kurumlar vergisinin (…….. TL) düşülerek kalan …….. TL’nin sorumlulardan tazmini gerekir”
+
+	Üye ………….’in “Kamu zararı oluşmadığından, savunmalarda belirtilen gerekçelerle konu hakkında ilişik bulunmamaktadır.”
