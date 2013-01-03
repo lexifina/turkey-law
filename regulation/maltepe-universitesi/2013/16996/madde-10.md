@@ -1,0 +1,6 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Üniversitedeki konuyla ilgili fakülte ve anabilim dalları, istekleri halinde ulusal ve uluslararası üniversite, enstitü ve araştırma merkezlerinde görevli öğretim elemanları ile çevre ve enerji teknolojileri alanlarında araştırma ve üretim yapan yerli-yabancı özel sektör kuruluşlarında çalışan ve/veya çevre ve enerji teknolojileri konusunda tecrübeli kişiler arasından Müdürün önerisi ve Rektörün oluru ile Mütevelli Heyet Başkanı tarafından görevlendirilen Müdür dâhil beş kişiden oluşur.
+(2) Müdür, Yönetim Kurulunun doğal üyesi ve başkanıdır. Müdürün yokluğunda bu görevi, Müdür tarafından belirlenen Yönetim Kurulu üyesi yürütür.
+(3) Yönetim Kurulu, Müdürün daveti ve üye tam sayısının salt çoğunluğu ile yılda en az dört defa toplanır ve oy çokluğu ile karar alır.
+(4) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi dolan Yönetim Kurulu üyesi tekrar görevlendirilebilir.
+(5) Görev süresi bitmeden ayrılan veya altı aydan fazla süreyle başka yerde görevlendirme nedeniyle toplantılara katılamayacak olan Yönetim Kurulu üyesinin yerine aynı usulle yeni üye belirlenir. Bu şekilde görevlendirilen yeni üyelerin görev süresi, diğer üyelerin görev süresi tamamlanana kadardır.

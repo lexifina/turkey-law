@@ -1,0 +1,9 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Çevre ve Enerji Teknolojileri alanlarında ve alternatif/yenilenebilir enerji kaynaklarının kullanımı ile ilgili sorunları incelemek, araştırmalar yapmak, yapılan araştırmaları teşvik etmek, desteklemek, bu konularda konferanslar, seminerler ve sempozyumlar düzenlemek, ilgili kuruluşlara önerilerde bulunmak,
+b) Çevre ve enerji teknolojileri ile alternatif/yenilenebilir enerji kaynakları kullanım alanlarında ilgili çalışmalara ve aynı zamanda ilgili kurum ve kuruluşlar arasındaki koordinasyona yardımcı olmak ve karşılıklı bilgi ve tecrübe aktarımını sağlamak, ilgili kurum ve kuruluşlara önerilerde bulunmak, danışmanlık/bilirkişilik yapmak, projeler sunmak ve yapmak,
+c) Çevre ve enerji teknolojileri ve alternatif enerji kaynakları alanlarında eğitim ile ilgili programlar yapmak, eğitim, yönetim ve araçlarının geliştirilmesi için çalışmalar yapmak,
+ç) Çevre ve enerji teknolojileri ve alternatif enerji kaynakları konuları ile ilgili eğitim ve sertifikasyon faaliyetlerini yürütmek, bu eğitim programları sonunda sertifika vermek, bu bağlamda bina enerji yöneticisi sertifikasyon programı gibi programları yürütmek, bu konuda mimar ve mühendis odaları gibi ilgili kurum ve kuruluşlarla işbirliği yapmak ve gerekli koordinasyonu sağlamak,
+d) Yurt içindeki ve yurt dışındaki üniversitelerle proje konularında işbirliği yapmak, ulusal ve uluslararası öğrenci/öğretim üyesi değişimi imkanları oluşturmak,
+e) Kamu kurum ve kuruluşları ile özel sektöre çevre ve enerji teknolojileri, enerjinin etkin/verimli kullanımı ve alternatif enerji kaynakları kullanımı konularında araştırma, danışmanlık, proje, tasarım, üretim, onarım, bakım ve benzeri hizmetler sunmak,
+f) Yapılan çalışma ve araştırma sonuçlarını yurt dışında ve yurt içinde bilim ve teknoloji dergilerinde yayınlamak, süreli ve süresiz yayınlar çıkarmak.
