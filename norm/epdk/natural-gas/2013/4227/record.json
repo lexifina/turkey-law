@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4227",
+  "decision_date": "2013-01-03",
+  "title": "İhaleli Doğal Gaz Dağıtım Şirketlerinin Varlık Tabanının Belirlenmesine İlişkin Usul ve Esasları düzenleyen 22/12/2011 tarih ve 3579 sayılı ve Doğal Gaz Dağıtım Şirketleri İçin Tarife Hesaplama Usul ve Esaslarını belirleyen 22/12/2011 tarih ve 3580 sayılı Kurul Kararları uyarınca Palgaz Doğalgaz Dağ. San. ve Tic. A.Ş. (PALGAZ)’ın 2012-2016 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2013-01-09",
+  "resmi_gazete_number": "28523",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Xk2G7f9IIxc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Xk2G7f9IIxc="
+  ],
+  "source_sha256": "2f50b781971fc6f9494df489872b3092a36077784e8c9a3798d0712535d72cd8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-01-03",
+  "law_text_complete": false
+}
