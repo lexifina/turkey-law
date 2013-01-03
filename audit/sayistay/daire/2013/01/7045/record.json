@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35063",
+  "decision_date": "2013-01-03",
+  "source_id": 7045,
+  "chamber": "2",
+  "ilam_number": "26",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7045/",
+  "source_sha256": "dbccc5e59b42e001df61a91bc05569931f70e796b7890133e206c7f3863241ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
