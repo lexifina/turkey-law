@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "ÖTV-2/2013-1",
+  "source_id": 989,
+  "date": "2013-01-03",
+  "title": "(III) sayılı listenin (A) cetvelindeki mallarda uygulanması gereken asgari maktu vergi tutarları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/sirkuler/989",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "39d6a3b31066c07a94e4d198b1fa78657f055597157a307dcf49998eb43508b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
