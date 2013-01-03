@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10202",
+  "decision_date": "2013-01-03",
+  "source_id": 17539,
+  "chamber": "1",
+  "ilam_number": "16",
+  "item_number": 17,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17539/",
+  "source_sha256": "b8994f9973665e47e72221f932fb228dcecc55584519cc62047ffd80d3dcedb8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
