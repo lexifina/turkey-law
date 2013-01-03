@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10202",
+  "decision_date": "2013-01-03",
+  "source_id": 17524,
+  "chamber": "1",
+  "ilam_number": "16",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17524/",
+  "source_sha256": "9bfe8f368933f9cf1d8ddc972ec6b35de6eb3bc264703908295d096c57a065f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
