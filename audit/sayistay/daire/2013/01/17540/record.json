@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10202",
+  "decision_date": "2013-01-03",
+  "source_id": 17540,
+  "chamber": "1",
+  "ilam_number": "16",
+  "item_number": 18,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17540/",
+  "source_sha256": "340fc9212793ac0766d5a7a663df92cba67f8530319a3be9de8e92b5256e4472",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
