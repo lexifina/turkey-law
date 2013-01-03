@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-01-03",
+  "issue": "28517",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2012/4085 Bazı Alanların Teknoloji Geliştirme Bölgesi Olarak Tespit Edilmesine İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130103-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130103.htm",
+  "index_sha256": "7f8e874d989b510d16d4925a1126f1f3baec6f8e115a4e0e3b02af3d73c33a50",
+  "index_header": "3 Ocak 2013 ... 28517 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130103.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
