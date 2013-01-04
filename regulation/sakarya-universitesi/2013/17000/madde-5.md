@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; örgün, uzaktan ve karma olmak üzere ön lisans, lisans ve yüksek lisans programları dışında verilecek tüm eğitim programları, ulusal ve uluslararası ilgili standartlara uygun olarak ulusal ve uluslararası alanlarda her türlü belgelendirme, TS EN ISO/IEC 17024 ve uluslararası ilgili standartlara uygun olarak personel belgelendirme, danışmanlık hizmeti, seminerler, konferanslar, kongreler, çalıştaylar, alan araştırmaları, sınav organizasyonları, her türlü eserlerin yayını ve ulusal düzeyde Avrupa Birliği normlarına uyum sağlamak amacıyla meslek standartları geliştirmeye yönelik çalışmaları düzenlemek ve Üniversitenin kamu, özel sektör ve uluslararası kuruluşlarla işbirliğini geliştirmesini sağlamaktır.
