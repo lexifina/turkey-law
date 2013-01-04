@@ -1,0 +1,82 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "143",
+  "decision_number": "1/3",
+  "date": "2013-01-04",
+  "title": "Kurul Karar Organı’nın 04.01.2013 Tarih ve 1/3 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/143",
+  "source_sha256": "b83b31e46ce02da14e5520e6095d9d2552544830ed036821754b6c7ac2e741f1",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 143,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurul Karar Organı’nın 04.01.2013 tarih ve 1/3 sayılı Kararı;",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2013-01-04",
+    "source_clauses": [
+      "Kurul Karar Organı’nın 04.01.2013 tarih ve 1/3 sayılı Kararı;"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "483a2934-b435-49ea-8893-65a7432f40b7",
+    "contentSource": "IlkeKarari",
+    "contentID": 143,
+    "tur": "Kurul Kararı",
+    "title": "Kurul Karar Organı’nın 04.01.2013 Tarih ve 1/3 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2013-01-04T00:00:00",
+    "kurulKararTarih": "04.01.2013",
+    "kurulToplantiNo": "1/3",
+    "bultenYili": 2013,
+    "bultenNo": 1,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "74:İzahname ve İhraç Belgesi Tebliği ",
+    "baglantiliTebligler": [
+      {
+        "key": 74,
+        "value": "İzahname ve İhraç Belgesi Tebliği "
+      }
+    ],
+    "ilgiliKonularStr": "13:Sermaye Piyasası Araçlarının İhracı;146:İhraç Belgeleri;79:Halka Arz;63:İzahname",
+    "ilgiliKonular": [
+      {
+        "key": 13,
+        "value": "Sermaye Piyasası Araçlarının İhracı"
+      },
+      {
+        "key": 146,
+        "value": "İhraç Belgeleri"
+      },
+      {
+        "key": 79,
+        "value": "Halka Arz"
+      },
+      {
+        "key": 63,
+        "value": "İzahname"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/143",
+    "linkTarget": "_blank"
+  }
+}
