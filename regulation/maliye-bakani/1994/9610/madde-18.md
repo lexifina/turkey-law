@@ -1,0 +1,3 @@
+Sürekli Bilgi Verme
+Madde 18- Birlik tarafından ruhsat verilmesi uygun görülen meslek mensuplarının isim, adres, sicil numaralan ve unvanları ile Birlik disiplin kurulu kararlarının birer örneği her ay sonu; Birlik ve Büyükşehir Belediye sınırları içinde bulunan odaların genel kurul tutanakları, faaliyet raporları, denetleme kurulu raporları ve bütçelerinin birer örneği ile Birlik ve oda organlarına seçilenlerin listesi unvanlarıyla birlikte genel kurul toplantılarının tamamlanmasından itibaren bir ay içinde Bakanlığa gönderilir.
+Birlik ve odalar yukarıda sayılanlar dışında kalan ve Bakanlıkça istenilen gerekli bilgi ve belgeleri en geç bir ay içinde Bakanlığa gönderirler.

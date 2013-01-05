@@ -1,0 +1,2 @@
+Giderlere İlişkin İşlemlerin Denetimi
+Madde 14- Gider ve harcamaların denetiminde, yapılan harcamalara ait gider belgelerinin doğru olarak defter kayıtlarına aktarılıp aktarılmadığı ve ilgili mevzuata göre geçerli belgelerden olup olmadığı; harcamaların gerçeği yansıtıp yansıtmadığı, Birlik ve oda bütçelerine uygun bulunup bulunmadığı ve Kanunun amacına uygun olarak yapılıp yapılmadığı, harcamalarda Kanun ve ilgili yönetmeliklere uyulup uyulmadığı ve harcamalarla İlgili diğer hususlar incelenir.

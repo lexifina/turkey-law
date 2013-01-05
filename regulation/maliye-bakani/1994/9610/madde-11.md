@@ -1,0 +1,2 @@
+Sınavlara İlişkin İşlemlerin Denetimi
+Madde 11- Denetim elemanları, Kanunun 7 ve 10 uncu maddeleri gereğince Birlik bünyesinde oluşturulan Komisyon tarafından yapılan Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Sınavları ile Staj Değerlendirme Sınavlarının İlgili Sınav Yönetmeliğindeki usul ve esaslara uygun olarak yapılıp yapılmadığını, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik sınavına katılanların Kanunda aranılan şartlan taşıyıp taşımadığını ve sınavla ilgili diğer işlem ve belgeleri inceler.

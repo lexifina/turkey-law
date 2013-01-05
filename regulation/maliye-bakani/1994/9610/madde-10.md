@@ -1,0 +1,2 @@
+Ruhsat İşlemlerinin Denetimi
+Madde 10- Ruhsat verilmesine ilişkin işlemler denetim elemanlarınca incelenir. İncelemede Kanun ve Yönetmelik hükümlerine aykırı ruhsat verildiği sonucuna ulaşıldığı takdirde, bu şekilde ruhsat verilen meslek mensuplarının kimlikleri ve bağlı bulundukları odalar denetim raporunda belirtilir. Bakanlıkça yapılacak değerlendirme sonucunda, gereği yapılmak üzere rapor, Birlik ve odalara gönderilir.(34)
