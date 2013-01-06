@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-01-06",
+  "issue": "28520",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kırklareli Üniversitesi İleri Teknolojiler Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130106-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130106.htm",
+  "index_sha256": "c4487aac960f685e96e9785909958e3374805c10f7fd9dd7cac21a6aa4bd0071",
+  "index_header": "6 Ocak 2013 ... 28520 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130106.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
