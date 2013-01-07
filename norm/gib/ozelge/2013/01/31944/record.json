@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.17-14",
+  "source_id": 31944,
+  "date": "2013-01-07",
+  "title": "Özürlülerin kullanımına yönelik özel olarak üretilmiş araç gereçlerin ithalinin KDV ve ÖTV ye tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/31944",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "761dafc609162f92125181b2e24a59165823597587f1b7ec862fa5320f58f83a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
