@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36037",
+  "decision_date": "2013-01-08",
+  "source_id": 5618,
+  "chamber": "2",
+  "file_number": "34745",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5618/",
+  "source_sha256": "74b51db431ff615590c888404a66bcac2ad923f29a84a103ac9d90f0fdd4e64c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
