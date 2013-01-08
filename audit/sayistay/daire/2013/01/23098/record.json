@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35064",
+  "decision_date": "2013-01-08",
+  "source_id": 23098,
+  "chamber": "2",
+  "ilam_number": "93",
+  "item_number": 10,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2010,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23098/",
+  "source_sha256": "8533f3155130c92a6baf0abf1379b656adbadd6d812523ac7bbc13064030829c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
