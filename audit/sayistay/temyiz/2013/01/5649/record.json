@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36068",
+  "decision_date": "2013-01-08",
+  "source_id": 5649,
+  "chamber": "8",
+  "file_number": "34382",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5649/",
+  "source_sha256": "0814c98e1ec0f4a4db1470dca2e7cb1447bc5ee906a34565bf59345e327a1f64",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
