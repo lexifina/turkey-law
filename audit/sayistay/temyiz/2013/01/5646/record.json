@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36065",
+  "decision_date": "2013-01-08",
+  "source_id": 5646,
+  "chamber": "8",
+  "file_number": "34506",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5646/",
+  "source_sha256": "d0678be1d3f95f9736b7f86e2fc2f8ec98a2bbd215aba011aceee754b39b9436",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
