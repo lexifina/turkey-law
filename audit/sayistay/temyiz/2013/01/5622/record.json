@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36041",
+  "decision_date": "2013-01-08",
+  "source_id": 5622,
+  "chamber": "3",
+  "file_number": "35298",
+  "account_year": "2008",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5622/",
+  "source_sha256": "ae6507483aef7b151d751580cedfd940eb614a4cb23e9dee612b0183037f9c16",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
