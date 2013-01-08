@@ -1,0 +1,23 @@
+LOJMAN GİDERİ
+
+…………. Bölge Müdürlüğü’ne ait …………. Yurdu lojmanlarına, 294 Sıra Numaralı Milli Emlak Genel Tebliğinin Ek- 5 bölümünde sayılmayan bir gider olan “sineklik” yaptırılması nedeniyle …………. TL’lik harcama yapıldığı tespit edilmiştir.
+
+Lojmanlarda yapılan tadilat bedellerinden hangilerinin kurum bütçesinden, hangilerinin oturanlar tarafından karşılanacağı 294 Sıra Numaralı Milli Emlak Genel Tebliğinde açıkça düzenlenmiştir. Kurumun lojmanlarında herhangi bir tadilat yapılırken söz konusu Genel Tebliğ hükümlerine uyulması, Tebliğin cevaz verdiği harcamaların kurum bütçesinden yapılması gerekmektedir.
+
+Gerçekleştirme Görevlisi …………. göndermiş olduğu savunmasında; ilgili ödeme emri belgesi ve ekinde yer alan onay belgesi incelendiği takdirde, gerçekleştirme görevlisinin kendisi değil İdari İşler Şube Müdürü ………….’nın olduğunu, bu sebeple sorguda gerçekleştirme görevlisi olarak ………….’nın sorumlu tutulması gerektiğini belirtmiştir. Ancak …………. Bölge Müdürlüğü 2011 Yılı Hesabı içerisindeki ilişikli …………. yevmiye numaralı ödeme emri belgesi yeniden incelendiğinde, ………….’ın, düzenleyen sıfatı ile, gerçekleştirme görevlisi olarak belgeyi imzaladığı görülmektedir. Bu nedenle ………….’ın sorumluluğa ilişkin itirazı yerinde görülmemiştir.
+
+Sorumlu Gerçekleştirme Görevlisi …………. ile sorumlu Harcama Yetkilisi …………. aynı nitelikteki savunmalarında; sinekliklerin yeni yapılmadığını, lojmanların hizmete giriş tarihinden beri mevcut olduğunu (Lojmanların hizmete giriş tarihi 01/01/2000 yılıdır) ve geçen 10 yıl boyunca kullanım ömrünü tamamen doldurup kullanılamaz hale gelen demirbaş durumundaki sinekliklerin 294 Sıra numaralı Mili Emlak Genel Tebliği ' nin Ek-5/1 ' de sayılan " kullanım ömrünü tamamlamış sorunlu malzemeler kullanıcı hatasından kaynaklanmaması ve yetkili personel tarafından teknik rapor düzenlenmesi şartıyla kamu idareleri sorumluğunda onarılır ve değiştirilir " hükmü doğrultusunda yenilendiğini ifade etmişlerdir.
+
+294 sıra numaralı Milli Emlak Genel Tebliğinin eki olan “Kamu Kurum ve Kuruluşlarınca Karşılanacak Giderler” başlıklı 5 numaralı listenin 1 inci sırasında; “Kullanım ömrünü tamamlamış kapı ve pencere doğramalarının değiştirilmesi” liste kapsamına alınmış olup, bunlar için de 20-30 yıllık kullanım ömrü öngörülmüştür. Savunmada bahsedilen Ek-5’in “Not” hükmü buna ilişkindir. Aynı “Not” kısmının 6ncı sırasında “Ek-5 listede yer almayan bakım- onarım ve yenileme giderleri konutta oturanlarca karşılanır.” denilmektedir.
+
+Belirtilen gerekçelerle, lojmanlara, 294 Sıra Numaralı Milli Emlak Genel Tebliği’ nin Ek- 5 bölümünde sayılmayan “sineklik” yaptırılması sonucu meydana gelen …………. TL’lik kamu zararının sorumlularına,
+
+6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizleri ile ödettirilmesine,
+
+(Daire Başkanı …………. ve Üye ………….’…: “Söz konusu binaların …………. Üniversitesi içerisindeki ormanlık alanda bulunması ve binaların hemen yanı başında bulunan ziraat fakültesine ait yapay göl ve aynı kampus içerisinde bulunan büyük baş hayvan yetiştirme tesisi nedeniyle aşırı miktarda sinek, böcek , kene, akrep gibi haşerat bulunması ve bunlardan  meydana gelecek böcek ısırma ve zehirlenmelerine önlem olması amacıyla binalarda kapı ve pencerelerle birlikte mütemmimi olan ve kullanılamaz hale gelen sineklikler de değiştirilmiştir.
+
+294 Sıra numaralı Mili Emlak Genel Tebliği ' nin “Kamu Kurum ve Kuruluşlarınca Karşılanacak Giderler” başlıklı Ek 5 sayılı cetvelde kullanım ömrünü tamamlamış kapı ve pencere doğramalarının değiştirilmesi de bulunmaktadır. Binaların yapılışından beri bulunan pencerelerin mütemmimi olan ve kullanılamaz hale gelmesi kullanıcı hatasına bağlamaksızın, yağmur, güneş, fırtına gibi dış etkenlerden kaynaklanan ve ekonomik ömrünü doldurmuş olan sinekliklerin yaptırılması idarenin sorumluluğundadır.
+
+Yaptırılan onarım işi bir adet lojmanın sinekliği gibi kişinin kusuruna bağlı olmayıp tüm lojmanların aşınan ve yıpranan pencere sinekliklerinin kapı ve pencerelerle birlikte yenilenmesidir ki yapılan tadilatın insan sağlığını korumak için yaptırıldığı sorumlularca yapılan savunmalarda belirtilmiştir.
+
+294 Sıra numaralı Mili Emlak Genel Tebliği Ek-5 sayılı cetvelin altında Not 2’de “Kullanım ömrünü tamamlamış sorunlu malzemeler kullanıcı hatasından kaynaklanmaması ve yetkili personel tarafından teknik rapor düzenlenmesi şartıyla kamu idareleri sorumluğunda onarılır ve değiştirilir " hükmüne göre pencerelerin mütemmimi olan ve kullanılamaz hale geldiği yetkili personel tarafından teknik raporla belgelenen sinekliklerin yenilenmesinde ilişilecek husus bulunmamaktadır.” şeklindeki ayrışık görüşlerine karşılık) oy çokluğuyla, karar verildi.
