@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-01-09",
+  "issue": "28523",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Avrupa Birliği Eğitim ve Gençlik Programları Merkezi Başkanlığı Uzman Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130109-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130109.htm",
+  "index_sha256": "97432b4e38e4af68bb4cd0489ada4bbb68cc9ad632c4225301f8c8860bbc9cb5",
+  "index_header": "9 Ocak 2013 ... 28523 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130109.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
