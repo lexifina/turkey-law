@@ -1,0 +1,3 @@
+Geçici İş Göremezlik Ödeneğinin Mahsup Edilememesi.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Emlak İstimlak Daire Başkanlığında görevli personelin hastalık nedeni ile çalışamadıkları dönemde aldıkları geçici iş göremezlik ödeneğinin 4857 sayılı İş Kanunu’nun 48’inci maddesi hükmüne aykırı olarak ücretlerinden mahsup edilmemesi sonucu …. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizi ….’ten …. ve ….nolu alındı belgesiyle tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
