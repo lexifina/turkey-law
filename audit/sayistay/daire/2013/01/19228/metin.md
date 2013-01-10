@@ -1,0 +1,3 @@
+Sözleşmede Bulunmayan İşlerin Fiyatlarının Belirlenmesi.
+
+… A.Ş. yüklenimindeki “…Kavşağı Yapım” işinde, yeni birim fiyat oluşturulmasında Yapım İşleri Genel Şartnamesinin 22’nci maddesinde ifade edilen “kaynakların verimli kullanılmasının gözetilmesi” ilkesine aykırı olarak birim fiyatın oluşturulması sonucu  kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ödeme emri belgesinin …. tarihli olduğu ve 2010 yılı hesabını ilgilendirdiği anlaşıldığından bu hesap kapsamında yapılacak işlem bulunmadığına               oy birliğiyle karar verildi.
