@@ -1,0 +1,5 @@
+Birden fazla medya hizmet sağlayıcı kuruluşa ortaklık
+MADDE 6 – (1) Bir gerçek veya tüzel kişinin doğrudan veya dolaylı olarak ortak olduğu karasal yayın lisansına sahip medya hizmet sağlayıcı kuruluş sayısı dördü geçemez.
+(2) Yabancı bir gerçek veya tüzel kişinin doğrudan ortak olacağı medya hizmet sağlayıcı kuruluş sayısı ikiyi geçemez. Bu sınırlama yayın ortamı ve lisans tipine bakılmaksızın uygulanır.
+(3) Yabancı bir gerçek veya tüzel kişinin dolaylı ortaklık dahil ortak olabileceği karasal yayın lisansına sahip medya hizmet sağlayıcı kuruluş sayısı dördü geçemez.
+(4) Kuruluşların yayın lisansı taleplerinin değerlendirilmesinde, medya hizmet sağlayıcı kuruluşların hisse devri, birleşme ve devralma gibi ortaklık yapılarında değişikliğe neden olan işlem ve taleplerinde bu maddede yer alan hususlara uygunluk yönünden de inceleme yapılır. Durumları uygun olan veya Üst Kurulun yapacağı uyarılar doğrultusunda uygun hale getiren kuruluşların talepleri yerine getirilir. Aksi halde yükümlülüklerini yerine getirmeyen veya lisans şartlarını kaybeden kuruluşlar kapsamında değerlendirilerek 6112 sayılı Kanun uyarınca işlem yapılır.

@@ -1,0 +1,4 @@
+Üst kurulca yapılacak değerlendirme
+MADDE 9 – (1) Üst Kurul sektörün toplam yıllık ticari iletişim gelirinin açıklanmasından sonra medya hizmet sağlayıcı kuruluşların durumlarını her yıl Nisan ayının sonuna kadar uygunluk açısından değerlendirir.
+(2) Ayrıca yayın lisansı taleplerinde, hisse devirlerinde, birleşme ve devralmalarda talebin yapıldığı yıldan önceki sektörün toplam yıllık ticari iletişim geliri esas alınarak değerlendirme yapılır.
+(3) Bu maddeye göre Üst Kurul tarafından yapılan değerlendirme sonunda birden fazla medya hizmet sağlayıcı kuruluşta doğrudan veya dolaylı ortak olduğu halde bu kuruluşların yıllık toplam brüt ticari iletişim geliri sektörün toplam ticari iletişim gelirinin yüzde otuzunu aştığı tespit edilen gerçek veya tüzel kişilere doksan gün süre verilerek hisselerini devretmesi için ihtarda bulunulur.
