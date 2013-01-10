@@ -1,0 +1,3 @@
+………. Şti. yükleniminde bulunan Edebiyat Fakültesi İkmal İnşaatı işinin, sözleşmede belirtilen iş bitim tarihi ve süre uzatım kararıyla belirlenen son iş bitim tarihinde bitirilememiş olmasına rağmen gecikme cezası kesilmemesi.
+
+Anılan işin sözleşmesine göre iş bitim tarihi 15.07.2006’dır. 16.11.2009 tarihli süre uzatım kararıyla belirlenen iş bitim tarihi 18.12.2009’dur. Bu iş bitim tarihi, süre uzatım komisyonunca 2009 yılı ödeneğinin tamamının gelmemesi nedeniyle 23.09.2010 tarihine, 2010 yılı revize ödeneğinin tamamının gelmemesi nedenleri ile de işin nihai bitimi 04.02.2011 tarihine ötelendiğinden gecikme cezası kesilmemesinin yasal düzenlemelere uygun olduğuna oybirliğiyle,
