@@ -1,0 +1,7 @@
+Yurtdışı geçici görev gündeliğinin fazla ödenmesi.
+
+6245 sayılı Harcırah Kanunu’nun “Harcırahın Unsurları” başlıklı 5 inci maddesinde; harcırahın; yol masrafı, yevmiye, aile masrafı ve yer değiştirme masrafını ihtiva ettiği; “Muvakkat vazife harcırahı” başlıklı 14 üncü maddesinde; memur ve hizmetlilere muvakkat vazife harcırahı olarak yol masrafı ile yevmiye verileceği ve hamal (Cins ve adedi beyannamede gösterilmek suretiyle) bagaj masraflarının da ayrıca karşılanacağı; “Yurtdışında verilecek gündeliklerin miktarı” başlıklı 34 üncü maddesinde ise, verilecek yurtdışı gündelik miktarının, gidilecek ülkeye, memur ve hizmetlilerin aylık veya ücret tutarları ile görevin mahiyetine göre, Bakanlar Kurulu tarafından belirlendiği hüküm altına alınmıştır.
+
+Yapılan inceleme sonucunda; 20-25 Haziran 2011 tarihleri arasında “…………” isimli sempozyumda çalışmasını sunmak üzere altı (6) gün süre ile Prag’a yevmiyeli olarak görevlendirilen Sosyal Bilimler Enstitüsü Gazetecilik Bölümü; Basın Ekonomisi ve İşletmeciliği Anabilim Dalı kadrosunda görevli Araştırma Görevlisi ……….’ye ait yurtdışı geçici görev yolluğu bildirimi incelendiğinde, fiilen 20-24 Haziran 2011 tarihleri arasında yurtdışında bulunduğu anlaşılmıştır.
+
+Bu itibarla; fiilen 25 Haziran tarihinde yurtdışında bulunmayan Araştırma Görevlisi ………’ye yurtdışı gündeliği ödenmesi sonucu oluşan toplam …… TL tutarındaki kamu zararının sorumlulardan tazminine karar verilmesi gerekmekte ise de; söz konusu tutar tahsil edildiğinden konu hakkında ilişik kalmadığına oybirliğiyle,
