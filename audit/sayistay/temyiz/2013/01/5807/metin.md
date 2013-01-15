@@ -1,0 +1,147 @@
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü;
+
+1- 666 sayılı İlamın 1. maddesi ile Muğla Üniversitesi İdari ve Mali İşler Daire Başkanlığınca çeşitli gazetelere verilen ilanların bedelinin, ilan ölçüsünün yanlış hesaplandığı gerekçesiyle 3.265,57 TL’nin tazminine ilişkin hüküm tesis edilmiştir.
+
+Dilekçi ilgi sayılı ilamda 1’inci sıra numarasında 3.265,57 TL, 4’üncü sıra numarasında 280,92 TL, 5’inci sıra numarasında 7.965,00 TL’ye verilen tazmin tutarlarının kanuni faizleriyle birlikte toplam 11.735,73 TL olarak Üniversite Strateji Geliştirme Daire Başkanlığının hesabına yatırılmış olduğunu ve buna ilişkin 13.04.2011 tarih ve 22916448 Nolu Türkiye Halk Bankası A.Ş. dekontunun dilekçe ekinde gönderildiğini bildirmiştir.
+
+Başsavcılık karşılamasında, 2008/666 sayılı ilamın 1, 4 ve 5 inci maddelerindeki tazmine konu meblağların ilamın hüküm tarihi olan 06.05.2010 tarihinden sonra tahsil edildiği anlaşıldığından tazmin hükmü ile ilgili yapacak bir işlem bulunmadığı mütalaa edilmiştir.
+
+Bildirilen tüm bu tahsilatlar hüküm tarihi olan 06.05.2010 tarihinden sonra yapılmıştır.
+
+Bu itibarla, dilekçi 666 sayılı İlamın 1. maddesi ile verilen 3.265,57 TL’lik tazmin hükmü ile ilgili olarak tahsilat bildirmekte ise de, hükümden sonra yapılan bu tahsilat ilam hükmünün infazı mahiyetinde olup ilam hükmüne karşı herhangi bir itiraz olmadığından Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA,
+
+2- 666 sayılı İlamın 3. maddesi ile Servus Bilgisayar A.Ş. yükleniminde bulunan 66.620,00 YTL sözleşme bedelli “Sunucu tipi bilgisayar ve istasyonu alımı” işinde, mal tesliminin sözleşmede belirlenen tarihten sonra yapılmasına karşın, yüklenicinin hak edişinden sözleşmede belirlenen gecikme cezasının kesilmediği gerekçesiyle 6.662,00 TL’nin tazminine ilişkin hüküm tesis edilmiştir.
+
+Dilekçi temyiz dilekçesinde özetle; söz konusu işe ait sözleşmenin 10’uncu maddesinde:
+
+“Sözleşmenin süresi, sözleşmenin imzalandığı tarihten itibaren 10 takvim günüdür.”,
+
+11-2’nci maddesinde:
+
+“İşe başlama tarihi: Sözleşmenin imzalandığı tarihte başlar.”,
+
+11-4’üncü maddesinde:
+
+“Teslimat programı: Mesai saatleri içerisinde yüklenici firma tarafından sözleşmenin imzalandığı tarihten itibaren 10 takvim günü içerisinde teslim edilecektir.”,
+
+“Gecikme Cezası” başlıklı 17’nci maddesinde:
+
+“İdare tarafından sözleşmenin 18’inci maddesinde belirtilen süre uzatımından ve sözleşme kapsamında yaptırılacak iş artışlarından kaynaklanan haller hariç, iş zamanında bitirilmediği/mal teslim edilmediği takdirde geçen her takvim günü yükleniciye yapılacak ödemelerden sözleşme bedeli üzerinden % 2 (yüzdeiki) oranında gecikme cezası kesilecektir. Kesilecek toplam ceza tutarı hiçbir şekilde ihale bedelini aşamaz.”,
+
+“İmza” başlıklı 52’nci maddesinde:
+
+“Bu sözleşme 52 maddeden ibaret olup, İdare ve Yüklenici tarafından tam olarak okunup anlaşıldıktan sonra 21/07/2008 tarihinde 1 (bir) nüsha olarak imza altına alınmış ve idarede alıkonulmuştur. Ayrıca, yüklenicinin herhangi bir zamanda talebi halinde sözleşmenin “aslına uygun idarece onaylı sureti” idare tarafından düzenlenip yükleniciye verilecektir.”
+
+Hükümlerinin yer aldığını, bahsi geçen “Sunucu tipi bilgisayar ve iş istasyonu alımı” ihalesi ile ilgili olarak, 01/07/2008 tarihinde kesinleşen ihale kararının iadeli taahhütlü posta yoluyla yükleniciye tebliğ edildiğini, 7 günlük posta süresi ve 5 günlük itiraz süresi sonunda 3 iş günü içerisinde 16/07/2008 tarihinde ise sözleşmeye davet yazısının iadeli taahhütlü posta yoluyla yükleniciye tebliğ edildiğini, yüklenicinin sözleşme düzenlenmeden önce idari şartnamenin 10’ncu maddesinde belirtilen belgeleri kargo yoluyla İdareye ulaştırdığını, sözleşme bedeli üzerinden % 0, 75 oranında damga vergisi ve % 0,45 oranında karar pulu tutarlarının kurumun hesaplarına yatırıldığını, kesin teminat mektubu tarihinin 16/07/2008 ve damga vergisi ile karar pulu bedellerine ait banka dekontunun 17/07/2008 tarihli, diğer belgelerin daha önceki tarihlerde olması nedeniyle, sözleşmenin tarafların imzasına sunulmak üzere 17/07/2008 tarihinde hazırlandığını, 21/07/2008 tarihinde yüklenicinin İdareye sözleşmeyi imzalamak üzere şahsen başvurduğunu, 17/07/2008 tarihli olarak hazırlanmış olan sözleşmenin taraflarca imzalandığını ve bir örneğinin yükleniciye teslim edildiğini, bu esnada yüklenicinin; sözleşme düzenlenme tarihinin 17/07/2008 olarak belirtilmiş olduğunu, oysa kendisinin 21/07/2008 tarihinde sözleşme imzalamak üzere İdareye başvurduğunu ve sözleşme düzenlenmesi için henüz yasal süresi bulunduğundan bahisle sözleşme tarihinin 21/07/2008 olarak düzeltilmesi talebini İdareye bildirdiğini, bunun üzerine sözleşmenin son sayfasında yer alan 52’nci maddede belirtilen tarihin 21/07/2008 olarak yeniden düzenlendiğini ve taraflarca imzalandığını, ancak ihale dosyası içerisinde 17/07/2008 tarihli olarak imzalanmış olan sözleşmeye ait son sayfanın çıkarılarak iptal edilmesi gerekirken sehven dosya içerisinde bırakıldığını, 21/07/2008 tarihli olarak imzalanmış sözleşmeye ait son sayfanın asıl ihale dosyası içinde bulunmakta olduğunu, ayrıca ekte gönderildiğini, sehven ihale dosyası içerisinde unutulan 17/07/2008 tarihli olarak imzalanmış sözleşmeye ait son sayfanın geçerli olmayıp, 21/07/2008 tarihli olarak imzalanan sözleşmeye ait son sayfanın dikkate alınması gerektiğini, faturada görüldüğü üzere fiili sevk tarihinin 31/07/2008 olması nedeniyle, sözleşmenin 11.4’ncü maddesinde belirtilen 10 günlük teslimat süresinin aşılmadığını bu sebeple, söz konusu İlamın; 832 sayılı Sayıştay Kanunu’nun 68-70 maddeleri uyarınca temyizen incelenerek bozulması hususunda itirazının kabulünü arz etmiştir.
+
+Başsavcılık karşılamasında, Servus Bilgisayar A.Ş.den “Sunucu tipi bilgisayar ve istasyon alımı işinde; Sözleşme tarihinin 17.07.2008 olmayıp 21.07.2008 tarihi olduğuna dair, dilekçi tarafından gönderilen dilekçe eki ek (2) den anlaşılmış olduğundan, bu durum da mal tesliminde gecikme olmadığını gösterdiğinden kamu zararının söz konusu olmadığı gerekçesiyle savunmaların da kabulü ile tazmin hükmünün sorumlunun üzerinden kaldırılmasına karar verilmesinin uygun olacağı mütalaa edilmiştir.
+
+Söz konusu işe ait sözleşmenin 10’uncu maddesinde:
+
+“Sözleşmenin süresi, sözleşmenin imzalandığı tarihten itibaren 10 takvim günüdür.”,
+
+11-2’nci maddesinde:
+
+“İşe başlama tarihi: Sözleşmenin imzalandığı tarihte başlar.”,
+
+11-4’üncü maddesinde:
+
+“Teslimat programı: Mesai saatleri içerisinde yüklenici firma tarafından sözleşmenin imzalandığı tarihten itibaren 10 takvim günü içerisinde teslim edilecektir.”,
+
+“Gecikme Cezası” başlıklı 17’nci maddesinde:
+
+“İdare tarafından sözleşmenin 18’nci maddesinde belirtilen süre uzatımından ve sözleşme kapsamında yaptırılacak iş artışlarından kaynaklanan haller hariç, iş zamanında bitirilmediği/mal teslim edilmediği taktirde geçen her takvim günü yükleniciye yapılacak ödemelerden sözleşme bedeli üzerinden % 2 (yüzdeiki) oranında gecikme cezası kesilecektir. Kesilecek toplam ceza tutarı hiçbir şekilde ihale bedelini aşamaz.”,
+
+“İmza” başlıklı 52’nci maddesinde:
+
+“Bu sözleşme 52 maddeden ibaret olup, İdare ve Yüklenici tarafından tam olarak okunup anlaşıldıktan sonra 21/07/2008 tarihinde 1 (bir) nüsha olarak imza altına alınmış ve idarede alıkonulmuştur. Ayrıca, yüklenicinin herhangi bir zamanda talebi halinde sözleşmenin “aslına uygun idarece onaylı sureti” idare tarafından düzenlenip yükleniciye verilecektir.”
+
+Hükümleri yer almaktadır.
+
+Dilekçi ekinde gönderilen bilgi ve belgelerden, bahsi geçen “Sunucu tipi bilgisayar ve iş istasyonu alımı” ihalesi ile ilgili olarak, 01/07/2008 tarihinde kesinleşen ihale kararının iadeli taahhütlü posta yoluyla yükleniciye tebliğ edildiği, 7 günlük posta süresi ve 5 günlük itiraz süresi sonunda 3 iş günü içerisinde 16/07/2008 tarihinde ise sözleşmeye davet yazısının iadeli taahhütlü posta yoluyla yükleniciye tebliğ edildiği, yüklenicinin sözleşme düzenlenmeden önce idari şartnamenin 10’ncu maddesinde belirtilen belgeleri kargo yoluyla İdareye ulaştırdığı, sözleşme bedeli üzerinden % 0, 75 oranında damga vergisi ve % 0,45 oranında karar pulu tutarlarının kurumun hesaplarına yatırıldığı, kesin teminat mektubu tarihinin 16/07/2008 ve damga vergisi ile karar pulu bedellerine ait banka dekontunun 17/07/2008 tarihli, diğer belgelerin daha önceki tarihlerde olması nedeniyle, sözleşmenin tarafların imzasına sunulmak üzere 17/07/2008 tarihinde hazırlandığı, 21/07/2008 tarihinde yüklenicinin İdareye sözleşmeyi imzalamak üzere şahsen başvurduğu, 17/07/2008 tarihli olarak hazırlanmış olan sözleşmenin taraflarca imzalandığı ve bir örneğinin yükleniciye teslim edildiği, bu esnada yüklenicinin; sözleşme düzenlenme tarihinin 17/07/2008 olarak belirtilmiş olduğu, oysa kendisinin 21/07/2008 tarihinde sözleşme imzalamak üzere İdareye başvurduğundan ve sözleşme düzenlenmesi için henüz yasal süresi bulunduğundan bahisle sözleşme tarihinin 21/07/2008 olarak düzeltilmesi talebini İdareye bildirdiği, bunun üzerine sözleşmenin son sayfasında yer alan 52’nci maddede belirtilen tarihin 21/07/2008 olarak yeniden düzenlendiği ve taraflarca imzalandığı, ancak ihale dosyası içerisinde 17/07/2008 tarihli olarak imzalanmış olan sözleşmeye ait son sayfanın çıkarılarak iptal edilmesi gerekirken sehven dosya içerisinde bırakıldığı, 21/07/2008 tarihli olarak imzalanmış sözleşmeye ait son sayfanın asıl ihale dosyası içinde bulunmakta olduğu, sehven ihale dosyası içerisinde unutulan 17/07/2008 tarihli olarak imzalanmış sözleşmeye ait son sayfanın geçerli olmayıp, 21/07/2008 tarihli olarak imzalanan sözleşmeye ait son sayfanın dikkate alınması gerektiği anlaşılmaktadır.
+
+İhale doyasının aslı içerisinde yer alan düzeltilmiş sözleşmenin son sayfasında sözleşmenin imzalandığı tarihin 21/07/2008 ve faturada fiili sevk tarihinin 31/07/2008 olması nedeniyle, sözleşmenin 11.4'ncü maddesinde belirtilen 10 günlük teslimat süresinin aşılmadığı görülmektedir.
+
+Bu itibarla, dilekçi iddialarının kabulü ile 666 sayılı İlamın 3. maddesi ile verilen 6.662,00 TL’nin tazminine ilişkin hükmün KALDIRILMASINA,
+
+3- 666 sayılı İlamın 4. maddesi ile 22.10.2007 tarihinde ihale edilen ve Akın-Sel İnş. Taah. Tic. Ltd. Şti. yükleniminde bulunan 1.386.700,00 YTL sözleşme bedelli ‘Muğla Üniversitesi Rektörlük ve Bağlı Birimlerin Genel Temizlik Hizmeti’ işinde yükleniciye asgari ücret fiyat farkının fazla ödendiği gerekçesiyle 280,92 TL’nin tazminine ilişkin hüküm tesis edilmiştir.
+
+Dilekçi ilgi sayılı ilamda 1’inci sıra numarasında 3.265,57 TL, 4’üncü sıra numarasında 280,92 TL, 5’inci sıra numarasında 7.965,00 TL’ye verilen tazmin tutarlarının kanuni faizleriyle birlikte toplam 11.735,73 TL olarak Üniversite Strateji Geliştirme Daire Başkanlığının hesabına yatırılmış olduğunu ve buna ilişkin 13.04.2011 tarih ve 22916448 Nolu Türkiye Halk Bankası A.Ş. dekontunun dilekçe ekinde gönderildiğini bildirmiştir.
+
+Başsavcılık karşılamasında, 2008/666 sayılı ilamın 1, 4 ve 5 inci maddelerindeki tazmine konu meblağların ilamın hüküm tarihi olan 06.05.2010 tarihinden sonra tahsil edildiği anlaşıldığından tazmin hükmü ile ilgili yapacak bir işlem bulunmadığı mütalaa edilmiştir.
+
+Bildirilen tüm bu tahsilatlar hüküm tarihi olan 06.05.2010 tarihinden sonra yapılmıştır.
+
+Bu itibarla, dilekçi 666 sayılı İlamın 4. maddesi ile verilen 280,92 TL’lik tazmin hükmü ile ilgili olarak tahsilat bildirmekte ise de, hükümden sonra yapılan bu tahsilat ilam hükmünün infazı mahiyetinde olup ilam hükmüne karşı herhangi bir itiraz olmadığından Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA,
+
+4- 666 sayılı İlamın 5. maddesi ile 24.10.2007 tarihinde ihale edilen ve Vip Güvenlik ve Koruma Hiz. Ltd. Şti. yükleniminde bulunan 844.609,08 YTL sözleşme bedelli “60 Özel Güvenlik Görevlisi ve 2 Özel Güvenlik Amiri ile Özel Güvenlik Hizmet Alımı” işinde yükleniciye asgari ücret fiyat farkının fazla ödendiği gerekçesiyle 7.965,00 TL’nin tazminine ilişkin hüküm tesis edilmiştir.
+
+Dilekçi ilgi sayılı ilamda 1’inci sıra numarasında 3.265,57 TL, 4’üncü sıra numarasında 280,92 TL, 5’inci sıra numarasında 7.965,00 TL’ye verilen tazmin tutarlarının kanuni faizleriyle birlikte toplam 11.735,73 TL olarak Üniversite Strateji Geliştirme Daire Başkanlığının hesabına yatırılmış olduğunu ve buna ilişkin 13.04.2011 tarih ve 22916448 Nolu Türkiye Halk Bankası A.Ş. dekontunun dilekçe ekinde gönderildiğini bildirmiştir.
+
+Başsavcılık karşılamasında, 2008/666 sayılı ilamın 1, 4 ve 5 inci maddelerindeki tazmine konu meblağların ilamın hüküm tarihi olan 06.05.2010 tarihinden sonra tahsil edildiği anlaşıldığından tazmin hükmü ile ilgili yapacak bir işlem bulunmadığı mütalaa edilmiştir.
+
+Bildirilen tüm bu tahsilatlar hüküm tarihi olan 06.05.2010 tarihinden sonra yapılmıştır.
+
+Bu itibarla, dilekçi 666 sayılı İlamın 5. maddesi ile verilen 7.965,00 TL’lik tazmin hükmü ile ilgili olarak tahsilat bildirmekte ise de, hükümden sonra yapılan bu tahsilat ilam hükmünün infazı mahiyetinde olup ilam hükmüne karşı herhangi bir itiraz olmadığından Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA,
+
+5- 666 sayılı İlamın 6. maddesi ile 24.10.2007 tarihinde ihale edilen ve Vip Güvenlik ve Koruma Hiz. Ltd. Şti. yükleniminde bulunan 844.609,08 YTL sözleşme bedelli “60 Özel Güvenlik Görevlisi ve 2 Özel Güvenlik Amiri ile Özel Güvenlik Hizmet Alımı” işinde, yükleniciye fiyat farkının, malullük, yaşlılık ve ölüm sigorta primlerinden işveren hissesinin hazine tarafından karşılanan beş puanlık kısmı düşülmeden ödendiği gerekçesiyle 8.721,30 TL’nin tazminine ilişkin hüküm tesis edilmiştir.
+
+Dilekçi temyiz dilekçesinde özetle; 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'nun 81’nci maddesinin (ı) bendinde de belirtildiği üzere işveren prim oranlarının değişmediğini ancak beş puanlık farktan yararlanılmasının belli şartlara bağlandığını, bu şartların İşveren hissesine ait primlerin Hazinece karşılanabilmesi için, işverenlerin çalıştırdıkları sigortalılarla ilgili olarak bu Kanun uyarınca aylık prim ve hizmet belgelerini yasal süresi içerisinde Sosyal Güvenlik Kurumuna vermeleri, sigortalıların tamamına ait sigorta primlerinin sigortalı hissesine isabet eden tutarı ile Hazinece karşılanmayan işveren hissesine ait tutarı yasal süresinde ödemeleri, Sosyal Güvenlik Kurumuna prim, idari para cezası ve bunlara ilişkin gecikme cezası ve gecikme zammı borcu bulunmaması olduğunu, Üniversitelerinin Firmanın 5 puanlık indirimden yararlanma şartlarını taşıyıp taşımadığını denetleme yetkisi olmadığından söz konusu Firmanın 2008 yılı 10, 11 ve 12'nci aylara ait tahakkuk fişlerinde de görüldüğü üzere beş puanlık indirimden yararlanmadığından ödemelerin tam olarak yapıldığını, ancak VİP Güvenlik ve Korumu Hizmetleri Ltd. Şti. ile ilgili olarak Sosyal Güvenlik Kurumundan yapılan araştırmada söz konusu Firmanın 2008 yılı 10, 11, ve 12'nci aylara ait beş puanlık indirimden 2009 yılı Mayıs ayında geriye dönük olarak yararlandığının tespit edilerek ödenen beş puanlık farkın Üniversitenin Strateji Geliştirme Dairesi Başkanlığının hesabına yatırılması aksi takdirde yasal yollara başvurulacağının Firmaya bildirildiğini, ayrıca Sosyal Güvenlik Kurumuna bilgi verildiğini, VİP Güvenlik ve Koruma Hizmetleri Ltd. Şti.'ne 8.721,30-TL (Sekizbinyediyüzyirmibir Türk Lirası, Otuz Kuruş) tutarın iadesi için Muğla 1. Asliye Hukuk Mahkemesi'nde (İş Mahkemesi Sıfatıyla) dava açıldığını, söz konusu davada Mahkemenin 29/09/2010 tarihli ve 2009/701 E., 2010/522 K. Sayılı kararı ile;
+
+“... Yapılan inceleme ve araştırma neticesi, bilirkişi raporu ve tüm dosya kapsamı birlikte değerlendirildiğinde, 5510 sayılı Kanun'un 81. maddesi birinci fıkrası (ı) bendi ile getirilen, sigorta primi işveren hissesinden 5 puanlık kısmının Hazinece karşılanması, özel sektör işverenlerinin, çalıştırdıkları sigortalılarla ilgili aylık, prim ve hizmet belgelerinin yasal süresi içerisinde Sosyal Güvenlik Kurumuna vermeleri, sigortalıların tamamına ait sigorta primlerinin sigortalı hissesine isabet eden tutarı ile Hazinece karşılanmayan işveren hissesine ait tutarı yasal süresinde ödemeleri, Sosyal Güvenlik Kurumuna prim, idari para cezası ve bunlara ilişkin gecikme cezası ve gecikme zammı borcu bulunmaması şartlarına bağlandığı, bu nedenle Muğla Üniversitesine güvenlik ve koruma hizmeti veren ve özel sektör işvereni olan davalı şirketin 5 puanlık indirimden yararlandığı ve davalı şirketin Sosyal Güvenlik Kurumundan aldığı 8.721,30 TL'nin kendi parası olduğu, davacı Kurumun bu işlemler nedeniyle davalıdan herhangi bir alacağı olmadığı ...”
+
+denilerek DAVANIN REDDİNE karar verildiğini, söz konusu karara karşı Üniversitenin Hukuk Müşavirliğince 28/10/2010 tarihinde Yargıtay'da temyiz yoluna başvurulduğunu belirterek bu gerekçeler doğrultusunda; 03/03/2011 tarihli ve 2008/666-6 sayılı Sayıştay İlamı’nın temyizen incelenerek bozulmasına, Muğla 1. Asliye Hukuk Mahkemesi'nin (İş Mahkemesi Sıfatıyla) 29/09/2010 tarihli ve 2009/701 E., 2010/522 K. sayılı Kararının temyiz sonucunun bekletici mesele yapılmasına karar verilmesini talep etmiştir.
+
+Başsavcılık karşılamasında, 4857 sayılı İş Kanununun 30 uncu maddesi, 5763 sayılı kanunun 2 nci maddesi, 5797 sayılı kanunun 10 uncu maddesi, 17.07.1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanunu ile 01.07.2005 tarih ve 5378 sayılı kanunun hükümleri gereğince sigorta primlerinden işveren hissesinin beş puanlık kısmı hazine tarafından karşılanmasına rağmen karşılanan tutarın idare tarafından yüklenicinin hakedişinden kesilmemesi nedeni ile kamu zararına sebebiyet verildiği gerekçesiyle temyiz itirazının reddi ile mevzuata uygun Daire kararının tasdikine Daire Kararının tasdikine karar verilmesinin uygun olacağı mütalaa edilmiştir.
+
+Dilekçi ikinci temyiz dilekçesinde birinci dilekçesinden farklı olarak konu ile ilgili yargı kararları incelendiğinde; “Hazine tarafından karşılanan beş puanlık kısmın hakedişlerden kesilmesinin yerinde olmadığı” şeklindeki yerel mahkeme kararının Yargıtay 3. Hukuk Dairesi'nin 2010/18601 E, 2010/21062 K. sayılı karan ile ONANMASINA karar verdiğini, Anayasa'nın 138/4. maddesinde yer alan “Yasama ve yürütme organları ile idare mahkeme kararlarına uymak zorundadır; bu organlar ve idare mahkeme kararlarını hiçbir suretle değiştiremez ve bunların yerine getirilmesini geciktiremez.” hükmü de dikkate alınmak suretiyle konunun ekte sunulan Yargıtay kararı ve yerel mahkeme kararına uygun olarak değerlendirilmesi gerektiğini belirttikten sonra Sayıştay İlamının temyizen incelenerek bozulmasına karar verilmesini istemiştir.
+
+Başsavcılık ikinci karşılamasında, dilekçi tarafından ikinci temyiz dilekçesinde ileri sürülen hususların önceki Başsavcılık mütalaasının değiştirilmesini sağlayacak bir mahiyet taşımadığı gerekçesiyle yargılamanın söz konusu mütalaaya göre karara bağlanmasının uygun olacağı ifade edilmiştir.
+
+İdare ile Yüklenici arasında akdedilen sözleşmenin, “Fiyat Farkı” başlıklı 15 inci maddesinde:
+
+“Fiyat farkının hesaplanması ve ödenmesinde yürürlükteki 4734 sayılı Kamu İhale Kanununa Göre İhalesi Yapılacak Olan Hizmet Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar’ın 07.05.2004 tarih ve 25455 sayılı Resmi Gazetede yayımlanan değişik 8. maddesi esasları doğrultusunda ödenecektir.” denilmektedir.
+
+Ancak 24.12.2002 ve 2002/5037 sayılı Bakanlar Kurulu Kararına istinaden 31.12.2002 tarih ve 24980 (3.mükerrer) sayılı Resmi Gazetede yayımlanan “4734 Kamu İhale Kanununa Göre İhalesi Yapılacak Olan Hizmet Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar” ın 28.04.2004 tarih ve 2004/7221 sayılı Bakanlar Kurulu Kararı ile yapılan değişikliğe istinaden 07.05.2004 tarih ve 25455 sayılı Resmi Gazetede yayımlanan 8 inci maddesinde:
+
+“İhale konusu hizmetin gerçekleştirilebilmesi için çalıştırılacak 506 sayılı Sosyal Sigortalar Kanununa tabi personelin, sayı ve günlük çalışma saatinin belirtilmesi kaydıyla;
+
+….
+
+b) İhale (son teklif verme) tarihi itibarıyla işveren tarafından karşılanacak olan sosyal sigorta primi ve işsizlik sigortası primine ilişkin toplam tutarda; asgari ücret değişikliği veya sigorta primi alt sınır değişikliği ile prim oranlan değişikliği gibi sebeplerle meydana gelecek fark,
+
+… 506 sayılı Kanun gereğince işveren nâm ve hesabına Hazinece yapılacak olan ödemeler de dikkate alınmak suretiyle bu Esasların 7 nci maddesi uygulanmaksızın ödenir veya kesilir.” hükmü yer almaktadır.
+
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun “Prim oranları ve devlete katkısı” başlıklı 81 inci maddesinin (ı) bendinde aynen:
+
+“(Ek: 17/4/2008-5763/24 md.) Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki sigortalıları çalıştıran özel sektör işverenlerinin, bu maddesinin birinci fıkrasının (a) bendine göre malullük, yaşlılık ve ölüm sigortaları primlerinden, işveren hissesinin beş puanlık kısmına isabet eden tutar Hazinece karşılanır. İşveren hissesine ait primlerin Hazinece karşılanabilmesi için, işverenlerin çalıştırdıktan sigortalılarla ilgili olarak bu Kanun uyarınca aylık prim ve hizmet belgelerinin yasal süresi içerisinde Sosyal Güvenlik Kurumuna vermeleri, sigortalıların tamamına ait sigorta primlerinin sigortalı hissesine isabet eden tutarı ile Hazinece karşılanmayan işveren hissesine ait tutarı yasal süresinde ödemeleri, Sosyal Güvenlik Kurumuna prim, idari para cezası ve bunlara ilişkin gecikme cezası ve gecikme zammı borcu bulunmaması şarttır. Ancak Kuruma olan prim, idari para cezası ve bunlara ilişkin gecikme cezası ve gecikme zammı borçlarını 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesine göre tecil ve taksitlendiren işverenler ile 29/7/2003 tarihli ve 4958 sayılı Sosyal Sigortalar Kurumu Kanununa ve 22/2/2006 tarihli ve 5458 sayılı Sosyal Güvenlik Prim Alacaklarının Yeniden Yapılandırılması ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun ile diğer taksitlendirme ve yapılandırma Kanunlarına göre taksitlendiren ve yapılandıran işverenler bu tecil, taksitlendirme ve yapılandırmaları devam ettiği sürece bu fıkra hükmünden yararlandırılır. Bu fıkra hükümleri Kamu idareleri işyerleri ile bu Kanuna göre sosyal güvenlik destek primine tabi çalışanlar ve yurt dışında çalışan sigortalılar hakkında uygulanmaz...” denilmektedir.
+
+Nitekim bu husus, Kamu İhale Genel Tebliği’nin “Personel Çalıştırılmasına Dayalı Hizmet Alımlarında Teklif Fiyata Dahil Olacak Masraflar” başlıklı maddesinin 17 nci fıkrasında da aynen:
+
+“(Ek: 25/10/2008 – 27035 R.G. / 4 md.) 15/5/2008 tarihli ve 5763 sayılı Kanunun 24 üncü maddesi ile 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 81 inci maddesinin birinci fıkrasına eklenen (ı) bendinde; özel sektör işverenlerinin, malullük, yaşlılık ve ölüm sigortaları primlerinden, işveren hissesinin beş puanlık kısmına isabet eden tutarın Hazinece karşılanacağı hüküm altına alınmıştır.
+
+İhale dokümanında personel sayısının belirlendiği ve haftalık çalışma saatlerinin tamamının idare için kullanıldığı tüm hizmet alımı ihalelerinde, teklifler Hazine tarafından karşılanacak olan işveren sigorta primi tutarı dikkate alınmadan, işveren payları üzerinden hesaplanarak sunulacak ve değerlendirilecektir. Bu çerçevede, fiyat farkı hesaplanması öngörülen ihalelerde sözleşmenin yürütülmesi aşamasında, yüklenicinin yukarıda anılan Kanun hükmü uyarınca prim teşvikinden yararlanması halinde 4734 sayılı Kamu İhale Kanununa Göre İhalesi Yapılacak Olan Hizmet Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esasların 8 inci maddesinde yer alan, “b) İhale (son teklif verme) tarihi itibarıyla işveren tarafından karşılanacak olan sosyal sigorta primi ve işsizlik sigortası primine ilişkin toplam tutarda; asgari ücret değişikliği veya sigorta primi alt sınır değişikliği ile prim oranları değişikliği gibi sebeplerle meydana gelecek fark,
+
+…506 sayılı Kanun gereğince işveren nam ve hesabına Hazinece yapılacak olan ödemeler de dikkate alınmak suretiyle bu Esasların 7 nci maddesi uygulanmaksızın ödenir veya kesilir.” hükmü gereğince, Hazine tarafından karşılanan prim tutarı, idare tarafından yüklenicinin hakedişinden kesilecektir.” denilmek suretiyle açık bir biçimde ifade edilmiştir.
+
+Ayrıca söz konusu beş puanlık indirimden yararlanılması mutlak olmayıp belli şartlara bağlanmış olduğundan 2/9/2008  tarihli ve 2008/UH.II-3635 sayılı Kamu İhale Kurulu Kararı da dikkate alınarak aşağıdaki şekilde uygulama yapılması gerektiği değerlendirilmiştir.
+
+-	İhale aşamasında çalıştırılacak personele indirimin uygulanıp uygulanamayacağı henüz belli olmadığından teklif bedeli hesaplanırken ve aşırı düşük tekliflerin sorgulanması aşamasında işçilik bileşenleri açıklanırken bu beş puanlık indirim dikkate alınmamalıdır.
+
+-	İhale yapılıp sözleşmeyi imzalayan yüklenicinin, söz konusu işverenin indirimden yararlanıp yararlanmadığı, ihale konusu işte çalışan personelin anılan Kanunda belirtilen şartları taşıyıp taşımadığına ilişkin sosyal güvenlik ile ilgili belgelerinden tespit edilecektir. Fiyat Farkı Kararnamesi uyarınca bu indimden yararlanan yükleniciler açısından Hazinece yapılacak ödemeler dikkate alınmak zorunda olduğundan indirim tutarı uygulanan personel sayısı kadar fiyat farkı kesintisi yapılacaktır.
+
+-	Söz konusu indirimden yararlanmayan yüklenicilerden herhangi bir kesinti yapılmayacaktır.
+
+01.10.2008 tarihinden sonra yürürlüğe giren düzenlemeye göre, malullük, yaşlılık ve ölüm sigortaları primlerinden, işveren hissesinin beş puanlık kısmına isabet eden tutar Hazinece karşılanmaya başlanmıştır.
+
+Dolayısıyla Fiyat farkı kararnamesinin 8’inci madde esaslarına göre yapılacak fiyat farkı ödemelerinde Hazinece karşılanan tutarların dikkate alınması ve hakediş ödemelerinden düşülmesi gerekmektedir. Aksi halde aynı prim tutarının hem bütçeden hem de Hazineden ödenmesi yolu açılmış olmaktadır.
+
+Bir başka deyişle % 5 prim tutarı düşülmediği takdirde mükerrer ödeme yapılmış olacaktır. Şöyle ki; Firma tarafından gerçekleştirilen hizmet alımı işinde; firma teklif verirken işçi ücreti, primler gibi birçok unsuru içeren toplam maliyetini hesaplamıştır. Firmanın teklifinde de tüm bu unsurlar açıkça görülmektedir. Firmanın teklifinde, primler de işverenin maliyeti içerisinde yer almakta ve idare tarafından 01.10.2008 tarihine kadar bu primler de firmaya ödenmektedir. 01.10.2008 tarihinde yürürlüğe giren % 5 indirimle idarece hakediş ödemeleri aynen devam (işveren primleri dahil) etmekte bununla birlikte aynı oranda indirim de hazinece karşılanmaktadır. İdare 60 özel güvenlik görevlisi ve 2 güvenlik amiri olmak üzere 62 kişinin prim dahil tüm ücretini yükleniciye ödemekte diğer taraftan da hazine bu 62 kişiye ait işveren payını karşılamaktadır. Böylece işveren payı bir yandan idarece bir yandan da hazinece ödenmektedir.
+
+İlama esas ödeme emri belgeleri üzerinde yapılan incelemede adı geçen fimanın 2008 yılı 10, 11 ve 12'nci aylara ait tahakkuk fişlerinde de görüldüğü üzere beş puanlık indirimden yararlanmadığı gerekçesiyle ödemelerin tam olarak yapıldığı, ancak firma ile ilgili olarak Sosyal Güvenlik Kurumundan yapılan araştırmada söz konusu Firmanın 2008 yılı 10, 11, ve 12'nci aylara ait beş puanlık indirimden 2009 yılı Mayıs ayında geriye dönük olarak yararlandığının tespit edilerek ödenen beş puanlık farkın Üniversitenin Strateji Geliştirme Dairesi Başkanlığının hesabına yatırılması aksi taktirde yasal yollara başvurulacağının Firmaya bildirildiği, kamu zararı olarak belirtilen tutarın iadesi için Muğla 1. Asliye Hukuk Mahkemesi'nde (İş Mahkemesi Sıfatıyla) dava açıldığı, söz konusu davada Mahkemenin 29/09/2010 tarihli ve 2009/701 E., 2010/522 K. Sayılı kararı ile davanın reddine karar verdiği, bunun üzerine kararın temyiz edildiği ve dava sonucu karar beklendiğinden kamu zararının tahsil edilmediği görülmektedir.
+
+Yukarıda belirtilen mevzuat hükümleri ve yapılan açıklamalar çerçevesinde 01.10.2008 tarihinden itibaren malullük, yaşlılık ve ölüm sigorta primlerinden, işveren hissesinin beş puanlık kısmı hazine tarafından karşılandığından aynı mahiyetteki ikinci kez prim ödenmesinin önlenmesi için Ekim ayı hakediş ödemesinden % 5 prim tutarının kesilmesi gerekmekte iken bu kesintinin yapılmaması mevzuata aykırılık teşkil etmektedir.
+
+Açıklanan nedenlerle, dilekçi iddialarının reddi ile 666 sayılı İlamın 6. maddesiyle verilen 8.721,30 TL’nin tazminine ilişkin hükmün TASDİKİNE,
+
+Karar verildiği 15.01.2013 tarih ve 36111 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
