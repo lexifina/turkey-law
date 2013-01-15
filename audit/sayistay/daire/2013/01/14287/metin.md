@@ -1,0 +1,15 @@
+HAKEDİŞ-
+
+………. tarihinde ………. Ltd. Şti’ne ihale edilen ………. TL sözleşme bedelli “……….. İnşaatı İşi” ile ilgili düzenlenen 2 ve kesin hakediş raporu ile yerinde yapılan fiili ve fiziki inceleme sonucunda;
+
+34.009/1 pozundan yapılan (2-4) taşlarla anroşman yapılması imalatı ile 34.009/2 pozundan yapılan (4-6) taşlarla anroşman yapılması imalatının proje ve hak edişde belirtilen miktarından eksik yapılarak kamu zararına neden olunduğu iddiası ile ilgili yapılan incelemede,
+
+Sorumlular aynı içerikteki savunmalarında: söz konusu inşaat işinde 34.009/1 pozundan yapılan (2- 4) ton taşlarla anroşman yapılması pozundan 186,48 ton, 34.009/2 pozundan (4- 6) ton taşlarla anroşman yapılması pozundan 288,90 ton taş eksik tespit edilerek 18/01/2012 tarihinde tutanağa bağlandığı yapılan hesaplamaya göre de toplam ………. TL kamu zararı olduğu iddia edilmektedir.
+
+18.01.2012 tarihli tutanakta belirtilen eksik imalatların tespitinde mendirek boyunun ölçümü, sağlıklı ölçüm almayı sağlayacak ölçü aletleri kullanılmadan (5 mt’lik metre kullanılmış) ve imalata ait poz tanımında belirtildiği gibi davranmayarak (mendirek iç tarafından ölçüm yapılmıştır) mendirek boyunun ölçüldüğü, mendirek boyunun 10 metre kısa olduğu varsayımı ile bu kısma tekabül eden imalatların eksik sayılarak fiyatlandırılıp, ………. TL kamu zararı olduğunun tespit edildiği ve tutanağa bağlandığı, tutanağı hazırlayan ve imzalayan personelden öğrenilmiştir. İş mahallinde 30 mt lik metre ile mendireğin kret kotu( mendirek aksı ) üzerinden yapılan ölçüm ile mendirek uzunluğunun 150,90 mt olarak ölçülmüş olup, as-built proje üzerinde yer alan 151,10 mt lik ölçümün doğru olduğu görülmüştür.
+
+Mendirek onarımı işi bünyesinde; mendirek çekirdek dolgusunun dış koruma tabakaları 2-4 ve 4-6 ton taşlarla anroşman imalatı yapılmıştır. Mendirek planı doğrusal olmayıp kıyıdan 63 mt açıldıktan sonra yaklaşık 100 derecelik açıyla kırılmaktadır. Mendirek üzeri kesitte anroşmanın başladığı çizgide uzunluk 138,35 mt iken imalat yapılan kesitin ekseninde (ağırlık merkezinde) 151,10 mt olduğu görülmekte, deniz içi şev dibinde ise bu mesafe daha da fazladır. Buda mendireğin planındaki kırıklık durumundan kaynaklanmaktadır. Bahse konu imalatlar bu sınırlar içerinde yapılmıştır. Kesin hakediş raporunda anroşman imalatları, mendirek üzerinden kesitler alınarak bulunan alanların, kübaj hesabında toplam boy uzunluğu 151,10 mt kullanılarak, hesaplanması sonucu bulunan kümülatif hacmin (1,800 ton/m3 ) tona çevrilmesi sonucu ödemesi yapılmış olup yapılan işlemlerin pozun tarifinde belirtilen ölçü esaslarına uygun olarak yapıldığı ve kamu zararının oluşmadığı anlaşılmıştır.
+
+Kesin hakediş raporunda ödenen imalatlar yerinde mevcut olup eksik imalat bulunmamaktadır. Pozlarla ilgili ödemeler, birim fiyat tariflerinde belirlenen ölçü esaslarına göre tespit edilerek sözleşme ve şartnamelere uygun olarak ödenmiştir, demektedirler.
+
+Bu itibarla yapılan savunmalar ve Denetçi düşüncesi doğrultusunda eksik imalat bulunmadığı görüldüğünden ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
