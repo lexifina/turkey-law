@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "4",
+  "decision_date": "2013-01-15",
+  "source_id": 7061,
+  "chamber": "4",
+  "ilam_number": "21",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7061/",
+  "source_sha256": "b8ad5f7b937dd1399fcd7e06eedafc9481724060992be521c6d8c8668f01410d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
