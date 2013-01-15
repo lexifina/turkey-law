@@ -1,0 +1,17 @@
+HAKEDİŞ
+
+………. tarihinde “……….” firmasına ihale edilen ………. TL sözleşme bedelli “……….. İşi” ile ilgili düzenlenen 1 ve kesin hakediş raporu ile yerinde yapılan fiili ve fiziki inceleme sonucunda;
+
+16.014/1a pozundan yapılan kronman duvarı ile buna bağlı olarak 21.020 pozundan yapılan saçtan beton kronman kalıbı ve 34.009/1 pozundaki (2-4) taşlarla anroşman yapılması imalatının proje ve hakedişde belirtilen miktarından eksik yapılarak kamu zararına neden olunduğu iddiası ile ilgili yapılan incelemede,
+
+Sorumlular aynı içerikteki savunmalarında: söz konusu onarım işinde 16.014/1a pozundan yapılan kronman duvarından 11,29 m3 beton imalatın eksik olduğu, 21.020 pozundan yapılan saçtan beton kronman kalıbı 64,50 m2 eksik olduğu, 34.009/1 pozundaki ( 2- 4 ) taşlarla anroşman yapılması pozundan da 63,363 ton taş eksik tespit edilerek 18/01/2012 tarihinde tutanağa bağlandığı yapılan hesaplamaya göre de toplam ………. TL kamu zararı olduğu iddia edilmektedir.
+
+Raporda bahsi geçen 18.01.2012 tarihli tutanakta kronman duvarının 40 metre lik kısmının 60 cm eksik yapıldığı ve buna bağlı olarak arkasında bulunan taş anroşman imalatının miktarının düşmesi gerektiği belirtilerek, yerinde yapılan inceleme sonucu bulunan tespitlerde duvarın 40 metrelik bölümünün işin yapımı sırasında balıkçı barınağının yönetimince son anda yapılan talepleri doğrultusunda taş anroşman ve kronman duvar yüksekliği 150 cm yerine 125 cm olarak yaptırılmış ve toplamda 25 cm’lik  bir miktarın düşürülmüş olduğu, yıl sonuna denk geldiğinden proje revizyonunun yapılmadığı anlaşılmıştır. Bu durumda 40*0,308*0,25= 3,08 m3 beton imalatı, 20 m2 kalıp imalatı yapmaktadır. Tutanakta yer aldığı gibi 11,29 m3 beton, 64,50 m2 kalıp değildir.
+
+Hakediş ödemesinde; kronman beton imalatları metrajında sirkülasyon kanalı üzerinde yapılan kronman betonunun (2,00 x 0.60 x 4,00 = 4,8 m3) beton ve ( (0,80*4,00) +2*,060*2,00 )= 5,60 m2 kalıp miktarının ve müzvarın kenarında yapılan 4,50 metrelik kronman duvarının (4,50 *1,5*0,35= 2.36 m3) beton ve 2*4,5*1,5 = 13.5 m2 kalıp imalatlarının kesin hesap metrajlarına dahil edilmeyerek yükleniciye ödenmediği anlaşılmaktadır. Bu imalatlara ait toplam miktarı 7,16 m3 beton, 19,10 m2 kalıp imalatıdır. Barınak yönetimin talebi doğrultusunda 25 cm eksik yapılan kısımlara ait beton ve kalıp imalatları ile yerinde yapılan ve ödemeye dahil edilmeyen kronman betonu, müzvarı çevreleyen kronman duvarı beton ve kalıp imalatlarını kıyaslandığında kamu zararını oluşturacak bir durumun oluşmadığı görülmüştür.
+
+Liman ve Deniz İnşaatı İşlerine Ait Genel Teknik Şartnamesinin 2.5. Taş Dolgu Dalgakıranlar ve Tahkimatlar bölümünde Dalga kıran imalatının Her bir tabakanın yüzü ortalama olarak, belirtilmiş olan yüzeyden, 2 tona kadar olan kategorilerde T 0,50 m.den ve 2 tondan yukarı kategoriler için T0,75 m.den fazla fark etmeyecektir.” denildiğinden 34.009/1 pozundaki (2-4 ton) taşlarla anroşman yapılması imalatının yapımı sırasında düşürülen 25 cm yükseklik pozun imalat tanımı içerisinde kalmaktadır.
+
+Kesin hakediş raporunda ödenen imalatlar yerinde mevcut olup eksik imalat bulunmamaktadır. Pozlarla ilgili ödemeler, birim fiyat tariflerinde belirlenen ölçü esaslarına göre tespit edilerek sözleşme ve şartnamelere uygun olarak ödenmiştir, demektedirler.
+
+Bu itibarla yapılan savunmalar ve Denetçi düşüncesi doğrultusunda eksik imalat bulunmadığı görüldüğünden ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
