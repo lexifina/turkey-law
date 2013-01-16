@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-01-16",
+  "issue": "28530",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Hacettepe Üniversitesi Diş Hekimliği Fakültesi Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130116-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130116.htm",
+  "index_sha256": "03b27d7924c5658f554d6c32091f8cc55acf91c2cd26a5ee48641dd4125ac5fe",
+  "index_header": "16 Ocak 2013 ... 28530 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130116.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
