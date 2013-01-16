@@ -1,0 +1,4 @@
+Müdür
+MADDE 8 – (1) Müdür, Merkezin faaliyet alanı ile ilgili, Üniversiteden başka bir yerde mesleki faaliyette bulunmayan ve mesleklerini serbest olarak icra etmeyen Üniversite Diş Hekimliği Fakültesi öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir.
+(2) Müdürün önerisi ile Müdüre çalışmalarında yardımcı olmak üzere, Merkezin faaliyet alanı ile ilgili Üniversiteden başka bir yerde mesleki faaliyette bulunmayan ve mesleklerini serbest olarak icra etmeyen Üniversite öğretim üyeleri arasından üç kişi, üç yıl için Rektör tarafından müdür yardımcısı (başhekim yardımcısı) olarak görevlendirilir. Rektör gerektiğinde aynı usulle müdür yardımcılarını değiştirebilir.
+(3) Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil bırakır. Vekalet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
