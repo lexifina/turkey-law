@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125[6-2013]-2",
+  "source_id": 28370,
+  "date": "2013-01-16",
+  "title": "Vergi İnceleme Raporuna istinaden tarh edilen ve 6111 sayılı Kanun kapsamında ödenen kurum stopajının kurum kazancından indirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28370",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "9fb382c2c32e236b97bd72dc462d668becde7bdc5b9ef42bd08f963c540a7e43",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
