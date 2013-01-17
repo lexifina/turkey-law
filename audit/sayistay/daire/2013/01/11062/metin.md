@@ -1,0 +1,7 @@
+Araç Kiralamalarında Gelir Vergisi Tevkifatı:
+
+193 sayılı Gelir Vergisi Kanunu’nun 94 üncü maddesinin birinci fıkrasının (5/a) numaralı bendine göre, Kamu idare ve müesseseleri 70 inci maddede yazılı mal ve hakların kiralanması karşılığı yapılan ödemeleri nakden veya hesaben yaptıkları sırada, istihkak sahiplerinin gelir vergilerine mahsuben tevkifat yapmaya mecburdurlar. Hükmün göndermede bulunduğu 70 inci maddenin (8) numaralı bendinde ise “motorlu nakil vasıtaları, her türlü motorlu araç, makine ve tesisat ile bunların eklentileri” sayılmıştır.
+
+Yine 193 sayılı Gelir Vergisi Kanunu’nun “Gayrimenkul Sermaye İradının Tarifi”  başlıklı 70 inci maddesinin “yukarıda yazılı mallar ve haklar ticari veya zirai bir işletmeye dahil bulunduğu takdirde bunların iratları ticari veya zirai kazancın tespitine müteallik hükümlere göre hesaplanır.” hükmü gereğince kiralanacak taşıtların ticari veya zirai işletmeye dahil olmaması halinde nakden veya hesaben yapılacak kira ödemeleri üzerinden Gelir Vergisi Kanununun 94 üncü maddesinin birinci fıkrasının (5/a) bendine istinaden % 20 oranında gelir vergisi tevkifatı yapılması gerekmektedir.
+
+Oysa .......Müdürlüğü tarafından kiralanmış olan araçların tamamının ticari bir işletmeye dahil olduğu, dolayısıyla % 20 oranında gelir vergisi tevkifatı yapılmasının mümkün olmadığı anlaşıldığından ayrıca buna ilişkin kanıtlayıcı belgeler de savunma ekinde gönderildiğinden, kamu zararı oluşmayan ....TL ile ilgili olarak ilişilecek husus bulunmadığına oy birliğiyle,
