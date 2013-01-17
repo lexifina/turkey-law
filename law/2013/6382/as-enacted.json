@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6382",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Gana Cumhuriyeti Hükümeti Arasında Askeri Alanda Eğitim, Teknik ve Bilimsel İş Birliği Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-17",
+  "gazette_issue": "28531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-18.htm",
+  "source_sha256": "23bea9a2dff997052e6addfc94e346f92621225f24149f9f79cf429a2e64c0fa",
+  "text_sha256": "a351cabce96473ba0b802268d8ec5945e0702573a5711d3e9e043fa4341ab79b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/17/28531-18",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-18.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
