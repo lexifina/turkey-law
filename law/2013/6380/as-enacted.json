@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6380",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Gana Cumhuriyeti Hükümeti Arasında Sağlık ve Tıp Bilimleri Alanlarında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-17",
+  "gazette_issue": "28531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-16.htm",
+  "source_sha256": "1b999386effffd0a9a4ee982e756b6258e83e8f7758653e9642da41ce5e39dcb",
+  "text_sha256": "9c76b348de52ecd02c88ab5de86434c74b9fed9f8ffaa9e2bd68a2c1c2819345",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/17/28531-16",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-16.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
