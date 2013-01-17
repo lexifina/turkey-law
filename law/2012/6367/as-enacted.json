@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6367",
+  "year": 2012,
+  "title": "Türkiye Cumhuriyeti ile Sırbistan Cumhuriyeti Arasında Sosyal Güvenlik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-17",
+  "gazette_issue": "28531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-3.htm",
+  "source_sha256": "4db57e03c15d580446a1cbcde3a5a63bf7a04a736cb2dc7d867867c4fd20c969",
+  "text_sha256": "3938c79329ca1f5ea433fad72b29a57812be301184863ed3dcf6115a1dc9e98f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/17/28531-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
