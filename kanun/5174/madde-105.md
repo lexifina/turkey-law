@@ -1,5 +1,7 @@
 Yürütme
 Madde 105- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+–––––––––––––––––
+(1) Bu fıkranın “…üst üste iki dönem süresince meclis başkanlığı, yönetim kurulu başkanlığı, konsey başkanlığı ve Birlik Başkanlığı görevlerinde bulunanlar aradan iki seçim dönemi geçmedikçe aynı görevlere yeniden seçilemezler.” bölümünün yürürlüğü, Anayasa Mahkemesi’nin 10/1/2013 tarihli ve E.: 2012/128, K.: 2013/1 (Yürürlüğü Durdurma) Kararı ile İptal Kararının Resmi Gazete’de yayımlanacağı tarihe kadar durdurulmuştur.
 8815-8817
 (1) SAYILI LİSTE
 Kurumu : Sanayi ve Ticaret Bakanlığı
