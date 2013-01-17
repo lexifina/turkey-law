@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6369",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Botsvana Cumhuriyeti Hükümeti Arasında Ticari, Ekonomik ve Teknik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-17",
+  "gazette_issue": "28531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-5.htm",
+  "source_sha256": "2238e01580890bdadd164e568357182dcc652d227fde55144013cf38aad48810",
+  "text_sha256": "4f55c10709e3da1598a8b9c267bec5f4b2921baa6451263ea98f03cb31e221a5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/17/28531-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
