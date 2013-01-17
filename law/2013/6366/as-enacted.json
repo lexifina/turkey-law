@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6366",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Hırvatistan Cumhuriyeti Hükümeti Arasında Türkiye Cumhuriyeti ve Hırvatistan Cumhuriyeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına Yönelik Anlaşmaya İlişkin Değişikliklere Dair Ek Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-17",
+  "gazette_issue": "28531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-2.htm",
+  "source_sha256": "0e4d6703541061c52d4d19399c6e3141e4843ef31ef8964c7bf4023932779b5a",
+  "text_sha256": "42f6c2c58f3b81f561865426bc2aee07f3506da3a61b092ded8f6723945eb181",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/17/28531-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
