@@ -9,3 +9,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5838 | Geçici Madde 16 | 28/2/2009
 6353 | 81 | 12/7/2012
 6362 | 53 | 30/12/2012
+Anayasa Mahkemesi’nin 10/1/2013 tarihli ve E.: 2012/128, K.: 2013/1 (Yürürlüğü Durdurma) Kararı | 16, 18, 38, 40, 63, 65, Geçici Madde 10 | 17/1/2013
