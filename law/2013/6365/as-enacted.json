@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6365",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Umman Sultanlığı Arasında Gümrük Konularında İşbirliği ve Karşılıklı Yardım Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-17",
+  "gazette_issue": "28531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-1.htm",
+  "source_sha256": "765a3daf33fa6f20b37f6f196e936fb1f4a64265f9d5277ae38a69569bf41c88",
+  "text_sha256": "406e6e7a98e1385736202634b2e58d5201bbf5bd4cb3982990e40ca3c0ba156f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/17/28531-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
