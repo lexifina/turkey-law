@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6370",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti ile Malta Cumhuriyeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-17",
+  "gazette_issue": "28531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-6.htm",
+  "source_sha256": "92dbaa33a7cfadf4892e269c63282c3a977ee287bf2ff704d4eaf8afaf312ad5",
+  "text_sha256": "8ddf2652ffb25a33d68e95a75e5874f67173bee5f70d1da1edc640d156d2af91",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/17/28531-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
