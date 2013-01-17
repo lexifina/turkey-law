@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6371",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bermuda Hükümeti Arasında Vergi Konularında Bilgi Değişimi Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-17",
+  "gazette_issue": "28531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-7.htm",
+  "source_sha256": "c4921bad982769a657fec460de043d9383c06579531ebe71d965816d7df4f9aa",
+  "text_sha256": "f663c202f901f5c5b7d6988aab155311312498a23b83c84598e67aaf7ccbfb7d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/17/28531-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
