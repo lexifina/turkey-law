@@ -1,0 +1,2 @@
+Ön ödeme
+MADDE 19 – (1) Serbest avukatların talep etmesi halinde, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 35 inci maddesine uygun olarak dava ve icra işlerinin gerektirdiği mahkeme gider ve harçlarını karşılamak üzere, idare veya ilgili birim tarafından 30/12/2005 tarihli ve 2005/9913 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Ön Ödeme Usul ve Esasları Hakkında Yönetmelik hükümlerine uygun olarak ön ödeme yapılır ve mahsup edilir.

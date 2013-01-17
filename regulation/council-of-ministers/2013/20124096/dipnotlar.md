@@ -1,0 +1,1 @@
+[1] Danıştay İdari Dava Daireleri Kurulunun 15/12/2014 tarihli ve YD İtiraz No: 2014/887 sayılı kararıyla bu maddenin yürütmesinin durdurulmasına karar verilmiş olup, daha sonra Danıştay Onuncu Dairesinin 25/5/2016 tarihli ve E.: 2013/6804, K.: 2016/2900 sayılı Kararı ile söz konusu madde iptal edilmiştir.
