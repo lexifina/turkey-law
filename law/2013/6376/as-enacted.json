@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6376",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Yatırımların Karşılıklı Korunması ve Teşvikine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-17",
+  "gazette_issue": "28531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-12.htm",
+  "source_sha256": "0e9f486789ccc030e249258fcc464b129335d0fd242e9be8a0f95944464161e0",
+  "text_sha256": "79141d5a0e00226658649a32079c6992040e4eb70ac3447cb881c50c0983b1d4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/17/28531-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130117-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
