@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "51421814-135[1-2012/506]-6",
+  "source_id": 33781,
+  "date": "2013-01-18",
+  "title": "ÖTV ödeyerek satın alınan şasi kamyona, kayıt ve tescil ettirilmeden önce yem silosu eklettirilmesi nedeniyle ek ÖTV uygulanıp uygulanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33781",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "aa8eda484f14dd0b44bf0d5cfad3e6d5fa5806c4639af164e323262a6ab8cdcc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
