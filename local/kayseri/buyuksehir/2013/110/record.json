@@ -1,0 +1,23 @@
+{
+  "number": "110",
+  "number_as_published": "110",
+  "year": 2013,
+  "title": "Talas Belediye Meclisi’nin, 07.01.2013 tarih, 3, 4 ve 6 sayılı kararları ile 09.01.2013 tarih, 17 ve 18 sayılı kararlarının incelenmesi talebi.",
+  "decision_date": "2013-01-18",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/18-ocak-2013-tarihli-meclis-karar-ozeti",
+  "official_document": null,
+  "source_sha256": "7cab4bccb1aa51b271f9f806374fb00caa7cfdf2323cdd74745717e158737070",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2013-01-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18.01.2013; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "18 Ocak 2013 Tarihli Meclis Karar Özeti",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=14"
+}
