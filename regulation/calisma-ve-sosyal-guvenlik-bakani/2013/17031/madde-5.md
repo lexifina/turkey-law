@@ -1,0 +1,3 @@
+Kurulun kurulacağı diğer işyerleri
+MADDE 5 – (1) İşverene bağlı, fabrika, müessese, işletme veya işletmeler grubu gibi birden çok işyeri bulunduğu hallerde elli ve daha fazla çalışanın bulunduğu her bir işyerinde ayrı ayrı kurul kurulur.
+(2) Birinci fıkrada belirtilen durumlarda ihtiyaç duyulması halinde kurullar arasında koordinasyon ve bilgi alış verişi işverence sağlanır. İşveren, birden çok işyerinin her birinde kurulacak kurulların çalışma usullerini düzenlemek, iş ve görüş birliğini sağlamak amacıyla bu işyerlerine ait iş sağlığı ve güvenliği ile ilgili raporların, en az üç ayda bir, ilgili teknik eleman ve uzmanlarca incelenmesini sağlar. Ayrıca bu raporları göz önünde tutarak alınması gereken tedbirleri tespit eder ve uygulanmasını sağlar.

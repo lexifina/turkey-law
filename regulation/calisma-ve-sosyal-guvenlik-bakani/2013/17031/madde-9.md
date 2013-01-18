@@ -1,0 +1,12 @@
+Çalışma usulleri
+MADDE 9 – (1) Kurul inceleme, izleme ve uyarmayı öngören bir düzen içinde ve aşağıdaki esasları göz önünde bulundurarak çalışır.
+a) Kurullar ayda en az bir kere toplanır. Ancak kurul, işyerinin tehlike sınıfını dikkate alarak, tehlikeli işyerlerinde bu sürenin iki ay, az tehlikeli işyerlerinde ise üç ay olarak belirlenmesine karar verebilir.
+b) Toplantının gündemi, yeri, günü ve saati toplantıdan en az kırk sekiz saat önce kurul üyelerine bildirilir. Gündem, sorunların ve varsa iş sağlığı ve güvenliğine ilişkin projelerin önem sırasına göre belirlenir. Kurul üyeleri gündemde değişiklik isteyebilirler. Bu istek kurulca uygun görüldüğünde gündem buna göre değiştirilir.
+c) Ölümlü, uzuv kayıplı veya ağır iş kazası halleri veya özel bir tedbiri gerektiren önemli hallerde kurul üyelerinden herhangi biri kurulu olağanüstü toplantıya çağırabilir. Bu konudaki tekliflerin kurul başkanına veya sekreterine yapılması gerekir. Toplantı zamanı, konunun ivedilik ve önemine göre tespit olunur.
+ç) Kurul toplantılarının günlük çalışma saatleri içinde yapılması asıldır. Kurulun toplantılarında geçecek süreler günlük çalışma süresinden sayılır.
+d) Kurul, üye tam sayısının salt çoğunluğu ile işveren veya işveren vekili başkanlığında toplanır ve katılanların salt çoğunluğu ile karar alır. Çekimser oy kullanılamaz. Oyların eşitliği halinde başkanın oyu kararı belirler. Çoğunluğun sağlanamadığı veya başka bir nedenle toplantının yapılmadığı hallerde durumu belirten bir tutanak düzenlenir.
+e) Her toplantıda, görüşülen konularla ilgili alınan kararları içeren bir tutanak düzenlenir. Tutanak, toplantıya katılan başkan ve üyeler tarafından imzalanır. İmza altına alınan kararlar herhangi bir işleme gerek kalmaksızın işverene bildirilmiş sayılır. İmzalı tutanak ve kararlar sırasıyla özel dosyasında saklanır.
+f) Toplantıda alınan kararlar gereği yapılmak üzere ilgililere duyurulur. Ayrıca çalışanlara duyurulması faydalı görülen konular işyerinde ilân edilir.
+g) Her toplantıda, önceki toplantıya ilişkin kararlar ve bunlarla ilgili uygulamalar hakkında başkan veya kurulun sekreteri tarafından kurula gerekli bilgi verilir ve gündeme geçilir.
+(2) Kurulca işyerinde ilân edilen kararlar işverenleri ve çalışanları bağlar.
+(3) Kurul, 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 13 üncü maddesinde belirtilen çalışmaktan kaçınma hakkı taleplerinde birinci fıkranın (a) bendine göre belirlenen süre dikkate alınmaksızın acilen toplanır. Toplantıda alınan karar çalışan ve çalışan temsilcisine yazılı olarak tebliğ edilir.
