@@ -1,0 +1,31 @@
+KAMU PERSONELİ GENEL TEBLİĞİ
+(SERİ NO: 3)
+10/3/2011 tarihli ve 6191 sayılı Kanun ile 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununa eklenen Geçici 32 nci maddede yer alan hükümler çerçevesinde, 12 Mart 1971 tarihinden 22/3/2011 tarihine kadar, yargı denetimine kapalı idari işlemler veya Yüksek Askeri Şura kararları ile Türk Silahlı Kuvvetlerinden ilişiği kesilenlerden, Milli Savunma Bakanlığı tarafından hak sahibi olduklarına karar verilenlerin Devlet Personel Başkanlığınca atama teklifleri yapılmıştır.
+Bu kapsamda, kamu kurum ve kuruluşları emrine atama teklifi yapılan “Araştırmacı (6191)” kadro unvanlı personele ilişkin olarak ilgili kurum ve kuruluşlar ile personelden Başkanlığımıza intikal ettirilen konularda kamu kurum ve kuruluşları arasında uygulama birliğinin sağlanması amacıyla aşağıdaki açıklamaların yapılması gerekli görülmüştür.
+1) Söz konusu personelin;
+a) “Araştırmacı (6191)” unvanıyla atanabilmesi açısından 657 sayılı Devlet Memurları Kanununun 48 inci maddesindeki şartları taşıması gerektiği,
+b) Atama teklifinin yapılmasını müteakip göreve başlaması ile birlikte 926 sayılı Kanunun Geçici 32 nci maddesinde belirtildiği üzere aylık ve diğer mali haklar haricinde 657 sayılı Devlet Memurları Kanununa tabi olacağı,
+c) İlk aylığa göreve başladığı günden itibaren hak kazanacağı, Kanunun yürürlüğe girdiği tarihten göreve başladığı tarihe kadar geçen süre için aylık ödenmeyeceği,
+d) Zorunlu emeklilik tarihinin Milli Savunma Bakanlığından (ilgili Kuvvet Komutanlıklarından) daha önce temin edilen formlarda belirtilen tarih olacağı,
+e) Göreve başladığı yıl için yıllık izin kullanma hakkı bulunmakta olduğu, göreve başlamadan önceki yıl için yıllık izin hakkı bulunmadığı,
+f) Yıllık izin sürelerinin hesabında, hangi statüde olursa olsun kamu kurum ve kuruluşlarında geçen hizmet süreleri ile kamu kurum ve kuruluşlarında geçmese dahi Devlet memurlarının kazanılmış hak aylıklarının hesabında değerlendirilen hizmet sürelerinin dikkate alınması gerektiği,
+g) Devlet memurluğuna ilk defa atanması sebebiyle ilk atamada harcırah ödenmesinin mümkün olmadığı,
+h) Kurum içi yer değişikliği ve il değişikliği taleplerinin çözümlenmesinin yürürlükteki mevzuat çerçevesinde atanan kurumun takdirinde bulunduğu,
+2) 926 sayılı Kanunun Geçici 32 nci maddesi gereğince Genel İdare Hizmetleri Sınıfında ihdas edilen “Araştırmacı (6191)” unvanlı kadroların atama teklifi işlemi ile birlikte 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin ekli cetvellerinin ilgili bölümüne eklenmiş sayılacağı,
+3) Kamu kurum ve kuruluşlarının, “Araştırmacı (6191)” unvanlı kadrolarına atama teklifi yapılan personelin atama, göreve başlama veya başlamama işlemlerini, tamamlanmasını müteakip Devlet Personel Başkanlığına ivedilikle bildirmeleri gerektiği,
+4) “Araştırmacı (6191)” unvanlı kadroların bağlı olduğu teşkilatın (merkez, taşra veya döner sermaye) belirlenmesi hususunun atama teklifi yapılan kurum ve kuruluşun takdirinde bulunduğu,
+5) “Araştırmacı (6191)” unvanlı personele 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanunun 22 nci maddesi hükümlerinin uygulanamayacağı,
+6) 926 sayılı Kanunun Geçici 32 nci maddesinin yürürlüğe girdiği tarih ile ilgili personelin atama teklifinin yapıldığı Kurumda göreve başladığı tarih arasındaki kesenek ve kurum karşılıkları ve emeklilik keseneğine esas aylık derece ve kademeleri ile ek göstergelerinin ilgili Kuvvet Komutanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı tarafından tespiti ile atama teklifinin yapıldığı Kurum tarafından Sosyal Güvenlik Kurumuna ödenmesi gerektiği,
+7) “Araştırmacı (6191)” kadro unvanıyla kurumlarında göreve başlayan personelin kurum değiştirmesi, istifası, vefatı halinde veya herhangi bir nedenle kadronun boşalması halinde bu kadronun başka bir işleme gerek kalmaksızın iptal edilmiş sayılacağı, buna ilişkin bilgilerin Devlet Personel Başkanlığına bildirilmesi gerektiği ve bu durumda söz konusu personelin “Araştırmacı (6191)” unvanlı kadroya herhangi bir şekilde yeniden atanmasının mümkün bulunmadığı, kurumunda veya farklı bir kurumda başka bir kadroya atanması halinde atandığı yeni kadro unvanı için öngörülen haklardan faydalanması gerektiği,
+8) “Araştırmacı (6191)” unvanıyla atanan personelden yükseköğrenim yapmış olan astsubayların intibaklarının, 926 sayılı Kanunun 137 nci maddesinin 3 üncü fıkrasının c bendinde belirtilen esaslar çerçevesinde başvuru tarihinden itibaren ileriye dönük olarak halihazırda çalıştığı kamu kurum ve kuruluşu tarafından,
+a) Fakülte, yüksekokul veya meslek yüksekokulunu bitirdiğine dair resmi belgeyi ibraz edip müracaatını yaptığı tarihteki derece ve kademelerine,
+- 2 yıl süreli yüksek öğrenim için 1 kademe,
+- 3 yıl süreli yüksek öğrenim için 2 kademe,
+- 4 yıl süreli yüksek öğrenim için 1 derece,
+ilave edilerek yapılması,
+b) 2 ve 3 yıl süreli yüksek öğrenimi tamamlayarak intibakları yapılmış olanların, daha sonra lisans öğrenimini tamamlamaları halinde intibak işlemlerinin daha önce ilave edilen kademelerle birlikte 1 dereceyi aşmayacak şekilde yeniden yapılması,
+c) Yüksek öğrenimden dolayı bir defadan fazla yapılan intibak işlemleri toplamının 1 dereceden fazla olmaması, 5 yıl ve üzerindeki öğrenimlerin 4 yıldan fazlası için kademe verilmemesi,
+d) İntibak işlemleri hususunda ortaya çıkabilecek tereddütlerde ilgili Kuvvet Komutanlığının görüşünün alınması,
+9) “Araştırmacı (6191)” unvanlı personelin, mali haklarına esas olacak derece, kademe ve rütbe terfilerinin, 926 sayılı Kanunun 30 uncu ve 78 inci maddelerinde düzenlenen normal bekleme süreleri esas alınarak her yıl 30 Ağustos tarihinde halen çalıştıkları kamu kurum ve kuruluşlarınca yapılması,
+10) “Araştırmacı (6191)” unvanlı personelin görevlerinin öğrenim durumu, mesleki becerileri ve daha önce ifa ettikleri hizmetler de göz önünde bulundurularak; kurumun veya görevli olduğu birimin görev ve hizmetleri ile ilgili konularda verilecek görevleri ifa etmek, kurumun veya görevli olduğu birimin görevleri hakkında araştırma, inceleme yapmak ve bu konuları değerlendirerek sorunlara çözüm yollarını belirlemek, rapor yazmak, koordinasyon ve danışmanlık yapmak, bu konularla ilgili toplantı ve etkinliklere katılmak, araştırma programlarını hazırlamak ve verilecek benzeri diğer görevleri yapmak olduğu,
+hususları tebliğ olunur.

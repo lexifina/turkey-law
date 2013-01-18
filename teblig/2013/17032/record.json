@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.17032",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU PERSONELİ GENEL TEBLİĞİ (SERİ NO: 3)",
+  "number": "17032",
+  "path": "teblig/2013/17032",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17032&MevzuatTertip=5",
+  "source_sha256": "69f3c752765361a327c2e4509b51781a9ee12d48f91490c6292e93645b768e70",
+  "source_bytes": 15717,
+  "published": "2013-01-18",
+  "gazette": "28532",
+  "in_force": "2013-01-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.01.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 803,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
