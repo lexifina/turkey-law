@@ -1,0 +1,4 @@
+Rehberlik ve danışmanlık hizmeti
+MADDE 9 – (1) Korunan kişiye, kişinin psikolojik ve sosyo-ekonomik durumu değerlendirilerek, hakları, destek alabileceği kurumlar, meslek edindirme kurslarına katılmasına yönelik faaliyetlerde bulunmayı da kapsayacak şekilde iş bulma ve benzeri konularda gelişmesi ve uyum sağlaması, gerekli olan seçimleri, yorumları, planları yapması ve kararları vermesine yarayacak bilgi ve becerileri kazandırmak ve psikolojik destek sağlamak üzere ilgili kamu kurum ve kuruluşları ile işbirliği içerisinde gerekli hizmetler verilir.
+(2) Korunan kişinin hukuki rehberliğe ihtiyacı olması halinde 48 inci madde ile düzenlenen davalara müdahil olmayı da içeren gerekli destek ve danışmanlık hizmeti verilir.
+(3) Bu hizmetlerin yerine getirilmesinde koordinasyon ŞÖNİM tarafından sağlanır.

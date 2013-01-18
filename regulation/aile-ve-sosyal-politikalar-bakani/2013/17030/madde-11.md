@@ -1,0 +1,5 @@
+Kreş imkânı sağlanması
+MADDE 11 – (1) Çocuk sahibi olan korunan kişinin çalışmaması halinde, çalışma yaşamına katılımını desteklemek üzere dört ay, çalışması hâlinde ise iki aylık süre ile sınırlı olmak, on altı yaşından büyükler için her yıl belirlenen aylık net asgari ücret tutarının yarısını geçmemek ve belgelendirilmek şartıyla Bakanlık bütçesinin ilgili tertibinden karşılanmak üzere kreş imkânı sağlanması tedbiri verilir.
+(2) Korunan kişi, çocuğun kamuya ait veya özel kreşe kaydedildiğine veya kreşe devam ettiğine dair belge ile aylık kreş bedelini gösterir belgeyi Müdürlüğe ibraz eder. Müdürlük birinci fıkra uyarınca gerekli işlemleri yerine getirir ve hizmetin alınması süresi üzerinden aylık olarak ödeme yapar. Çocuk bir aydan daha kısa bir süre faydalanmış ise hizmet aldığı gün üzerinden ödeme yapılır.
+(3) Kreş bedelinin birinci fıkrada belirtilen tutardan az olması halinde belgedeki tutar, fazla olması halinde ise birinci fıkrada belirtilen tutar ödenir. Bu ödemeler Müdürlük tarafından kreşe yapılır.
+(4) Kreş imkânı sağlanmasına dair tedbirin suiistimalinin öğrenilmesi halinde ödenen meblağ korunan kişiden tahsil edilir.

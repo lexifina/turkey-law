@@ -1,0 +1,4 @@
+Eğitim
+MADDE 41 – (1) Kanunun etkin bir biçimde uygulanması amacıyla tüm kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşları, personel ve üyelerinin Bakanlığın hazırlayıp koordine edeceği, kadının insan hakları ile kadın erkek eşitliği konusunda eğitim programlarına katılmasını sağlar.
+(2) İlköğretim ve ortaöğretim müfredatına, kadının insan hakları ve kadın erkek eşitliği konusunda eğitime yönelik dersler konulur. Müfredata eklenen derslerin içeriği Milli Eğitim Bakanlığının ilgili birimi ile Genel Müdürlük tarafından birlikte hazırlanır.
+(3) Ortaöğretim öğrencileri ile yükseköğrenim öğrencileri, Bakanlığın görev alanına giren konularda sosyal sorumluluk projeleri oluşturmada ya da mevcut projelerin içerisinde yer alma konularında teşvik edilir. Bu öğrencilere mezun oldukları tarihte Bakanlık ile Milli Eğitim Bakanlığı ya da Yükseköğretim Kurumu tarafından hazırlanan bir sertifika verilir.

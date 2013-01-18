@@ -1,0 +1,5 @@
+Yapılacak işlemler
+MADDE 5 – (1) Kolluk, kendisine yapılan ihbar veya şikâyet üzerine genel hükümler doğrultusunda gerekli işlemleri yapar. Gecikmesinde sakınca bulunan hallerde Kanun kapsamında almış olduğu koruyucu ve önleyici tedbirleri onaylanmak üzere tedbirin niteliğine göre mülki amire veya hâkime sunar. Kolluk, kendisine intikal eden her olay hakkında gecikmeksizin en seri vasıtalarla ŞÖNİM’e bilgi verir.
+(2) Cumhuriyet başsavcılığı, yapılan ihbar ve şikâyet üzerine evrakın bir örneğini ivedilikle olayın niteliğine göre uygulanabilecek olan koruyucu veya önleyici tedbir hakkında karar verilmek üzere hâkime veya mülki amire gönderir.
+(3) Mülki amire yapılan ihbar veya şikâyet üzerine Kanunun 3 üncü maddesinde belirtilen koruyucu tedbirlerden birine, birkaçına veya uygun görülecek benzer tedbirlere karar verilebilir. Ayrıca mülki amir olayın niteliğine göre şikâyet veya ihbarı, kolluğa veya Cumhuriyet başsavcılığına bildirir.
+(4) Hâkim veya mülki amir tarafından verilen kararlar ivedilikle ŞÖNİM’e bildirilir.

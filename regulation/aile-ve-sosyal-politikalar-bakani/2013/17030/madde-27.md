@@ -1,0 +1,5 @@
+Alkol veya uyuşturucu ya da uyarıcı madde kullanmama ve bağımlılık halinde muayene ve tedavi
+MADDE 27 – (1) Hâkim tarafından, şiddet uygulayanın, korunan kişilerin bulundukları yerlerde alkol, uyuşturucu veya uyarıcı madde kullanmaması ya da bu maddelerin etkisinde iken korunan kişilere ve bunların bulundukları yerlere yaklaşmaması, bağımlılığının olması hâlinde, hastaneye yatmak dâhil, muayene ve tedavisinin sağlanmasına yönelik karar verilebilir.
+(2) Hakkında önleyici tedbir kararı verilen kişinin, bir sağlık kuruluşunda muayene veya tedavi olmasının sağlanması ve sonuçları ile tedbirin kişi üzerindeki etkilerinin takibi ŞÖNİM tarafından ilgili kurum veya kuruluş ile koordinasyon içerisinde yerine getirilir. ŞÖNİM olayın özelliğine göre bu kararın yerine getirilmesi sırasında kolluktan yardım isteyebilir.
+(3) Hakkında tedbir kararı verilen kişinin sağlık kuruluşunda tedaviyi reddetmesi halinde durum tutanakla tespit edilerek ivedilikle Cumhuriyet başsavcılığına ve ŞÖNİM’e bildirilir.
+(4) Bu tedbirin uygulanmasına ilişkin giderler, 44 üncü maddenin üçüncü fıkrasındaki usul ve esaslara göre karşılanır.

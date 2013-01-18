@@ -1,0 +1,2 @@
+Şiddet önleme ve izleme merkezlerinin kurulması
+MADDE 39 – (1) Bakanlık, şiddetin önlenmesi ile şiddet mağduru hakkında verilecek koruyucu tedbirler ile şiddet uygulayan hakkında verilecek önleyici tedbirlerin etkin bir biçimde uygulanmasına yönelik güçlendirici ve destekleyici danışmanlık, rehberlik, yönlendirme ve izleme hizmetlerinin verildiği, yeterli ve gerekli uzman personelin görev yaptığı ve tercihen kadın personelin istihdam edildiği, çalışmaların yedi gün yirmidört saat esasına göre yürütüldüğü ŞÖNİM’i kurar.

@@ -1,0 +1,4 @@
+Kolluk amiri tarafından alınabilecek tedbirler
+MADDE 29 – (1) Mülkî amir tarafından alınabilecek barınma yeri sağlanmasına ve geçici koruma altına alınmasına ilişkin tedbirler, gecikmesinde sakınca bulunan hâllerde ilgili kolluk amirince de alınabilir. Kolluk amiri, evrakı en geç tedbirin alındığı tarihi takip eden ilk işgünü içinde mülkî amirin onayına sunar. Mülkî amir tarafından kırk sekiz saat içinde onaylanmayan tedbirler kendiliğinden kalkar.
+(2) 18, 19, 20 ve 22 nci maddelerde belirtilen ve hâkim tarafından karar altına alınabilecek önleyici tedbirler, gecikmesinde sakınca bulunan hâllerde ilgili kolluk amirince alınabilir. Kolluk amiri evrakı en geç tedbirin alındığı tarihi takip eden ilk işgünü içinde hâkimin onayına sunar. Hâkim tarafından yirmi dört saat içinde onaylanmayan tedbirler kendiliğinden kalkar.
+(3) Tatil günleri sürenin hesabına dâhildir. Sürenin bitimi resmi tatil veya hafta sonuna rastlarsa, süre takip eden ilk iş günü sona erer.

@@ -1,0 +1,5 @@
+Uzaklaştırma ve konutun korunan kişiye tahsisi
+MADDE 19 – (1) Hâkim tarafından şiddet uygulayanın, korunan kişi ile birlikte oturdukları müşterek konuttan uzaklaştırılarak, konutun korunan kişiye tahsis edilmesine ilişkin karar verilebilir.
+(2) Mülki amir ya da hâkim, talep edilmesi hâlinde korunan kişiye, şiddet uygulayana ya da bu kişilerin yakınlarına ait kişisel eşya ve belgelerin kolluk marifetiyle kendilerine teslim edilmesine karar verebilir. Teslim edilecek kişisel eşya ve belgeler, tedbir kararında gösterilir.
+(3) Bu tedbirin uygulanması, şiddet uygulayanın uzaklaştırıldığı konutun kira, elektrik, su, telefon, doğalgaz ve benzeri giderlerini karşılamaya devam etmesine engel teşkil etmez. Hâkim şiddet uygulayanın, koruma kararı süresince aile konutunun kira sözleşmesini feshetmemesine, kamu konutu tahsisinin kaldırılması yönünde talepte bulunmamasına ve bu tür yükümlülüklerinin devamı ile uygun göreceği diğer tedbirlere de karar verebilir.
+(4) Kira sözleşmesine ilişkin tedbir kararı kiralayana, kamu konutu tahsisinin kaldırılmamasına yönelik tedbir kararı ise ilgili kamu kurumuna bildirilir.
