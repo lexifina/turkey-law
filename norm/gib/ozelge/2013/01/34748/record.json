@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "73903997-155[8-2013/1]-19",
+  "source_id": 34748,
+  "date": "2013-01-18",
+  "title": "KOSGEB ve Üniversite arasında yapılan Hizmet Sözleşmesinde Damga Vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34748",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "5269e06b83517e5fc5d2303069556b920eb3ac5409826ad48cd4337cd595382d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
