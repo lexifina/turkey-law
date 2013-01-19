@@ -24,3 +24,4 @@ KHK/666 | 80, Geçici Madde 4 | 15/1/2012 |
 6283 | 67, 68, 102, Geçici 20, İşlenemeyen Hüküm Geçici 39 ve Geçici 40 | 8/3/2012 2013 yılı Ocak döneminde
 6322 | Ek Madde 2, Geçici Madde 41 | 15/6/2012
 6353 | 6, 41, 47, 69, 73, Geçici Madde 4, 14,18, 42, 43, 44 | 12/7/2012
+6385 | 40 67 73, Geçici Madde 38, 45, 46, 47, 48 | 2008 yılı Ekim ayı başından geçerli olmak üzere 19/1/2013 1/6/2012 tarihinden geçerli olmak üzere 19/1/2013 19/1/2013

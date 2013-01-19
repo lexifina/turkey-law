@@ -8,3 +8,4 @@ Anayasa Mahkemesi’nin 3/4/2007 tarihli ve E.: 2005/52, K.: 2007/35 sayılı Ka
 5793 | 32, GEÇİCİ MADDE 2 | 6/8/2008
 5947 | 30 | 30/1/2010
 KHK/644 | 30 | 12/6/2011 tarihinde yapılan milletvekili seçiminden sonra kurulan ilk Bakanlar Kurulu üyelerinin atandığı tarihte
+6385 | 30 | 19/1/2013
