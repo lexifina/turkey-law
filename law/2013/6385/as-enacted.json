@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6385",
+  "year": 2013,
+  "title": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-19",
+  "gazette_issue": "28533",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130119-2.htm",
+  "source_sha256": "9b71d61a97da6bcb66f7332a6cd58638d2f274797d3fad83f8f0ea41874bb73e",
+  "text_sha256": "ed046ca7a0017ac5ef198dc2197f5ed173b077f443b03e7944d447a2109ca0c8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/19/28533-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130119-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
