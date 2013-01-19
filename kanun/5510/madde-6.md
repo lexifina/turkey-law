@@ -18,7 +18,6 @@ m) (Ek: 4/7/2012-6353/36 md.) Gençlik ve Spor Bakanlığı, Spor Genel Müdürl
 ––––––––––––––
 (1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 25 inci maddesiyle, bu bentte yer alan “Kamu idareleri” ibaresi “Kamu idarelerinde ve Kanunun ek 5 inci maddesi kapsamında sayılanlar” şeklinde ve “belgeleyenler,” ibaresi “belgeleyenler ile 65 yaşını dolduranlardan talepte bulunanlar,” şeklinde değiştirilmiş ve metne işlenmiştir.
 (2) 17/4/2008 tarihli ve 5754 sayılı Kanunun 4 üncü maddesiyle bu bentte yer alan “kamu düzeninin” ibaresi “ilgili mevzuatının” şeklinde değiştirilmiş ve metne işlenmiştir.
-9788-2
 9789
 (h) bendinin uygulanmasıyla ilgili olarak, bir meslek veya sanat okulunu bitirenlerden, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hükümlerine göre mahkemece ergin kılınmak suretiyle, öğrenimleriyle ilgili görevlerde çalışanlar hakkında 18 yaşın bitirilmiş olması şartı aranmaz.
 Birinci fıkranın (ı) bendinin uygulanmasında, Türkiye Ziraat Odaları Birliğinin görüşü alınır.

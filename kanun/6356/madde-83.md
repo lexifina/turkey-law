@@ -1,3 +1,3 @@
 Yürütme
 MADDE 83 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-11726
+11726 11726-1
