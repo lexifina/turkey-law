@@ -1,18 +1,21 @@
-Yönetim Kurulunun oluşumu ve üyeleri
+Yönetim Kurulunun oluşumu ve üyeleri (1)
 MADDE 6- Yönetim Kurulu bir karar organı olup, Kurumun en yüksek karar, yetki ve sorumluluğunu taşır. Yönetim Kurulu;
 a) Başkan,
-b) Başkanın teklifi üzerine müşterek kararname ile atanan bir başkan yardımcısı,
+b) Başkanın teklifi üzerine müşterek kararname ile atanan iki başkan yardımcısı, (1)
 c) Çalışma ve Sosyal Güvenlik Bakanlığını temsilen, Çalışma ve Sosyal Güvenlik Bakanının teklifi üzerine müşterek kararname ile atanan bir üye,
 ç) Maliye Bakanlığını temsilen, Maliye Bakanının teklifi üzerine müşterek kararname ile atanan bir üye,
 d) Hazine Müsteşarlığını temsilen, Hazine Müsteşarlığının bağlı olduğu Bakanın teklifi üzerine müşterek kararname ile atanan bir üye,
 e) İşverenleri temsilen seçilecek bir üye,
 f) İşçileri temsilen seçilecek bir üye,
 g) Kamu görevlilerini temsilen seçilecek bir üye,
-h) Kendi nam ve hesabına çalışanları temsilen seçilecek bir üye,
+h) Tarımda kendi nam ve hesabına çalışanları temsilen seçilecek bir üye, (1)
 ı) Kurumdan gelir veya aylık alanları temsilen seçilecek bir üye,
-olmak üzere 10 üyeden oluşur. Başkan, Yönetim Kurulunun da başkanıdır. Yönetim Kuruluna, Başkanın bulunmadığı hallerde Başkana vekâlet eden kişi başkanlık eder. Yönetim Kurulu üyesi başkan yardımcısının bulunmadığı hallerde, Başkan tarafından görevlendirilen başkan yardımcısı Yönetim Kuruluna katılır.
-Yönetim Kurulu en az haftada bir defa ve asgarî altı üye ile toplanır. Kararlar toplantıya katılan üyelerin çoğunluğu ile alınır. Oylarda eşitlik olması halinde, Başkanın bulunduğu taraf çoğunluk sayılır. Gerekli görüldüğünde Başkanın veya altı üyenin talebi ile Yönetim Kurulu olağanüstü toplantıya çağrılabilir.
+i) (Ek: 10/1/2013-6385/4 md.) (h) bendi dışındaki kendi nam ve hesabına çalışanları temsilen seçilecek bir üye,
+olmak üzere 12 üyeden oluşur. Başkan, Yönetim Kurulunun da başkanıdır. Yönetim Kuruluna, Başkanın bulunmadığı hallerde Başkana vekâlet eden kişi başkanlık eder. Yönetim Kurulu üyesi başkan yardımcısının bulunmadığı hallerde, Başkan tarafından görevlendirilen başkan yardımcısı Yönetim Kuruluna katılır. (1)
+Yönetim Kurulu en az haftada bir defa ve asgarî yedi üye ile toplanır. Kararlar toplantıya katılan üyelerin çoğunluğu ile alınır. Oylarda eşitlik olması halinde, Başkanın bulunduğu taraf çoğunluk sayılır. Gerekli görüldüğünde Başkanın veya yedi üyenin talebi ile Yönetim Kurulu olağanüstü toplantıya çağrılabilir. (1)
 Başkan ve başkan yardımcısı dışındaki Yönetim Kurulu üyelerinin görev süresi üç yıldır. Geçerli bir mazereti olmaksızın; arka arkaya üç toplantıya veya bir yıl içinde toplam altı toplantıya katılmayanlar, Yönetim Kurulu üyeliğine atanma ya da seçilme şartlarını yitirenler ile atandıktan veya seçildikten sonra bu şartları taşımadığı anlaşılanların üyelikleri kendiliğinden sona erer. Geçerli bir mazereti olmaksızın; arka arkaya üç toplantıya veya bir yıl içinde toplam altı toplantıya katılmayanların durumu, Yönetim Kurulu kararıyla tespit edilerek Bakanlığa bildirilir. Seçilen üyelerden herhangi bir nedenle görev süresinden önce Yönetim Kurulu üyeliği sona erenlerin yerleri, yedek üyeler tarafından doldurulur. Bu şekilde göreve gelen üyeler, yerlerini aldıkları üyenin görev süresini tamamlar. Süreleri biten üyeler yeni üyeler atanıncaya veya seçilinceye kadar görevlerine devam ederler. Atanan üyelerden herhangi bir nedenle görev süresinden önce Yönetim Kurulu üyeliği sona erenlerin yerlerine en geç bir ay içinde kalan süreyi tamamlamak üzere aynı usûlle yeni bir atama yapılır. Atama ile gelen Yönetim Kurulu üyelerinden görevi sona erenler, otuz gün içinde eski kurumlarına başvurmaları halinde atamaya yetkili makam tarafından en geç bir ay içinde mükteseplerine uygun kadroya atanırlar. Atama gerçekleşinceye kadar bunların Yönetim Kurulu üyesi kadrolarına bağlı olarak almakta oldukları malî haklarının ödenmesine devam olunur.
+––––––––––––––––––
+(1) 10/1/2013 tarihli ve 6385 sayılı Kanunun 4 üncü maddesiyle, bu maddenin birinci fıkrasının (b) bendinde yer alan “bir” ibaresi “iki” şeklinde, (h) bendinde yer alan “Kendi nam ve hesabına” ibaresi “Tarımda kendi nam ve hesabına” şeklinde, aynı fıkrada yer alan “10” ibaresi “12” şeklinde, ikinci fıkrada yer alan “altı” ibareleri “yedi” şeklinde değiştirilmiştir.
 9759
 Başkan ve başkan yardımcısı dışındaki atama ile gelen Yönetim Kurulu üyelerinin kurumları ile ilişiği kesilir.
 Yönetim Kurulu üyeliğine atanacak veya seçileceklerin 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin (A) bendinin (1), (4), (5), (6) ve (7) numaralı alt bentlerinde sayılan şartları taşımaları gerekir. Ancak seçimle gelen Yönetim Kurulu üyeleri için 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) bendinde sayılan şartlar aranmaz.

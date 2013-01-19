@@ -279,6 +279,11 @@ Sözleşme ile doğrudan temin edilmesi öngörülen hizmetler için kurumlara a
 Bu basamak kapsamında sağlık hizmeti verilecek kişileri ve sağlık hizmetlerini belirlemeye, bu basamaktan ikinci basamak sağlık kurum ve kuruluşlarına yapılacak sevkin usul ve esaslarını belirlemeye, Maliye Bakanlığı, Sağlık Bakanlığı ve Sosyal Güvenlik Kurumu müştereken yetkilidir.
 EK MADDE 3 − (Ek: 26/4/2011-6225/17 md.)
 Hakkında inceleme, soruşturma, teftiş işlemi devam edenler ile örnekleme için tespit edilen sağlık hizmet sunucuları tarafından teslim edilen fatura, reçete ve eki belgeler hariç olmak üzere sağlık hizmet sunucularından temin edilen hizmet bedellerini gösterir fatura, reçete ve eki belgelerden incelemesi tamamlanarak bütçeye gider kaydedilenler, ödemenin yapıldığı mali yılı izleyen beşinci yıldan sonra imha edilir. Bunlardan, hakkında inceleme, soruşturma, teftiş işlemi devam eden sağlık hizmet sunucuları tarafından teslim edilen fatura, reçete ve eki belgeler ise inceleme, soruşturma, teftiş işlemi tamamlandıktan sonra yargı süreci söz konusu değilse imha edilir.
+Kadrolar (1)
+EK MADDE 4 – (Ek: 10/1/2013-6385/5 md.)
+Ekli (1) ve (2) sayılı listelerde yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Sosyal Güvenlik Kurumuna ait bölümüne eklenmiştir.
+––––––––––––––––––––
+(1) Bu maddede yer alar kadrolarla ilgili olarak 19/1/2013 tarihli ve 28533 sayılı Resmi Gazete’ye bakınız.
 9775
 ONÜÇÜNCÜ BÖLÜM
 Geçici ve Son Hükümler
@@ -344,6 +349,9 @@ b) (a) bendi gereği Sosyal Güvenlik Denetmeni kadrolarına atanamayan Sosyal G
 Bu maddeye göre yapılacak yeterlik sınavlarının usul ve esasları Kurumca belirlenir.
 GEÇİCİ MADDE 9 − (Ek: 6/4/2011-6225/18 md.)
 Hakkında inceleme, soruşturma, teftiş işlemi devam edenler ile örnekleme için tespit edilen sağlık hizmet sunucuları tarafından teslim edilen fatura, reçete ve eki belgeler hariç olmak üzere sağlık hizmet sunucularından temin edilen hizmet bedellerini gösterir fatura, reçete ve eki belgelerden, bu maddenin yürürlük tarihine kadar incelemesi tamamlanarak bütçeye gider kaydedilenler, ödemenin yapıldığı mali yılı izleyen beşinci yıldan sonra imha edilir. Bunlardan, hakkında inceleme, soruşturma, teftiş işlemi devam eden sağlık hizmet sunucuları tarafından teslim edilen fatura, reçete ve eki belgeler ise inceleme, soruşturma, teftiş işlemi tamamlandıktan sonra yargı süreci söz konusu değilse imha edilir.
+GEÇİCİ MADDE 10 – (Ek: 10/1/2013-6385/6 md.)
+Bu maddeyi ihdas eden Kanunla bu Kanunun 5 inci ve 6 ncı maddelerinde yapılan değişikliklere istinaden, tarım dışında kendi nam ve hesabına çalışanları temsilen asil ve yedek üye seçimi gündemiyle toplanacak olağanüstü genel kurul bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde toplanır.
+4/12/2012 tarihinde yapılan olağan genel kurulda kendi nam ve hesabına çalışanları temsilen seçilen asil ve yedek üye, tarımda kendi nam ve hesabına çalışanları temsilen seçilen üye olarak kabul edilir.
 Yürürlük
 MADDE 44- Bu Kanun yayımı tarihinde yürürlüğe girer.
 Yürütme

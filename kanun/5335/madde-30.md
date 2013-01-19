@@ -16,3 +16,4 @@ g) Vakıf üniversitelerinde görev alanlar,
 h) Özel kanunlarında emeklilik veya yaşlılık aylığı kesilmeksizin çalıştırılma veya görev yapma hakkı verilenlerden Cumhurbaşkanı tarafından atananlar, Başbakan tarafından atananlar, Bakanlar Kurulu kararı veya müşterek kararname ile atanan veya görevlendirilenler ve Türkiye Büyük Millet Meclisince yapılan seçimler sonucunda görev verilenler,
 i) 2547 sayılı Yükseköğretim Kanununun 60 ıncı maddesinin (a) fıkrası uyarınca Yasama Organı üyeliğinin bitiminden sonra öğretim üyesi olarak atanmış olanlar,
 Hakkında uygulanmaz. (1)
+(Ek fıkra: 10/1/2013-6385/2 md.) İkinci fıkraya göre emeklilik veya yaşlılık aylığı kesilenlerin sigortalılıklarının sona erdiği tarih yazılı istek tarihi kabul edilerek ilgili sosyal güvenlik kanunlarına göre aylıkları yeniden bağlanır.

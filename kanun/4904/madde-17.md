@@ -46,7 +46,7 @@ h) (Ek: 15/5/2008-5763/23 md.) Kurumdan izin belgesi almadan iş ve işçi bulma
 j) (Ek: 15/5/2008-5763/23 md.) 27/2/2003 tarihli ve 4817 sayılı Yabancıların Çalışma İzinleri Hakkında Kanun gereği çalışma izni almayanlar için aracılık faaliyetinde bulunan gerçek ve tüzel kişilere kişi başına beş bin Yeni Türk Lirası,
 idarî para cezası verilir.
 (Değişik ikinci fıkra: 15/5/2008-5763/23 md.) Birinci fıkranın (a), (b), (c), (f), (g) ve (j) bentlerinde yer alan fiillerin ayrı ayrı veya birlikte üç kez tekrarlanması halinde özel istihdam bürolarına verilen izinler iptal edilir. Kanun hükümlerine göre verilen idarî para cezaları Kurum tarafından genel esaslara göre tahsil edilir.
-8489
+8488-2 8489
 İKİNCİ BÖLÜM
 Çeşitli Hükümler
 Bilgi verme ve gizlilik
@@ -95,7 +95,7 @@ Geçici Hükümler
 Geçici Madde 1 - a) Bu Kanunun yürürlüğe girdiği tarihten sonraki ilk Genel Kurul 2003 yılının Kasım ayı içinde yapılır.
 b) Kurum Yönetim Kurulu ve Fon Yönetim Kurulu üyelerinin görevleri, bu Kanunun yayımı tarihi itibariyle sona erer. Bu Kanunun 6 ncı maddesinde belirtilen Yönetim Kurulu en geç üç ay içerisinde teşekkül eder. Bu süre içinde mevcut Kurum Yönetim Kurulu ile Fon Yönetim Kurulu görevlerine devam ederler.
 ______________
-(1) Söz konusu kadrolar, 5/7/2003 tarihli ve 25159 sayılı Resmi Gazete'de yayımlanmıştır.
+(1) Söz konusu kadrolar,5/7/2003 tarihli ve 25159 sayılı Resmi Gazete'de yayımlanmıştır.
 8491
 c) Bu Kanun ile yapılan yeni düzenleme sebebiyle Kurum memurlarından Genel Müdür, Genel Müdür Yardımcısı, I. Hukuk Müşaviri, Teftiş Kurulu Başkanı ve Daire Başkanı olarak görev yapanlar en geç bir yıl içerisinde durumlarına uygun yeni kadrolara atanıncaya kadar şahsa bağlı kadroya atanmış sayılırlar. Diğer Kurum memurlarından (atamayla gelen yönetim kurulu üyeleri ile iptal edilen şahsa bağlı kadroda olanlar hariç) aylık aldıkları kadro ve görev unvanları değişmeyenler yeni kadrolarına atanmış sayılırlar.(1)
 Kadro ve görev unvanları değişenler veya kaldırılanlar Kurumun merkez veya taşra teşkilatında, bu Kanunun yürürlüğe girdiği tarihten itibaren altı ay içinde yeni bir kadroya atanırlar. Atama işlemi yapılıncaya kadar Kurumca ihtiyaç duyulan işlerde görevlendirilebilirler. Bunlar yeni bir kadroya atanıncaya kadar eski kadrolarına ait aylık, ek gösterge, her türlü zam ve tazminatları ile diğer malî haklarını almaya devam ederler. Söz konusu personel ile şahsa bağlı kadroda bulunanların atandıkları yeni kadroların aylık, ek gösterge, her türlü zam ve tazminatları ile diğer malî hakları toplamının net tutarı, eski kadrolarına bağlı olarak en son ayda almakta oldukları aylık, ek gösterge, her türlü zam ve tazminatları ile diğer malî hakları toplamı net tutarından az olması halinde aradaki fark, giderilinceye kadar atandıkları kadroda kaldıkları sürece herhangi bir kesintiye tabi tutulmaksızın tazminat olarak ödenir.(1)
@@ -103,6 +103,13 @@ d) Bu Kanunun öngördüğü düzenlemeler Kanunun yürürlüğe girdiği tariht
 Atıflar
 Geçici Madde 2 - (Ek: 11/10/2011-KHK-665/25 md.)
 Diğer mevzuatta Çalışma ve Sosyal Güvenlik Bakanlığı Bölge Müdürlüğüne yapılan atıflar Çalışma ve İş Kurumu il müdürlüğüne, Çalışma ve Sosyal Güvenlik Bakanlığı Bölge Müdürüne yapılan atıflar Çalışma ve İş Kurumu il müdürüne, Türkiye İş Kurumu il müdürlüğüne yapılan atıflar Çalışma ve İş Kurumu il müdürlüğüne, Türkiye İş Kurumu il müdürüne yapılan atıflar Çalışma ve İş Kurumu il müdürüne yapılmış sayılır.
+İş ve meslek danışmanları
+GEÇİCİ MADDE 3 – (Ek: 10/1/2013-6385/1 md.)
+27/6/2012 tarihi itibarıyla İş ve Meslek Danışmanı Mesleki Yeterlilik Belgesine sahip olanlardan İş ve Meslek Danışmanı pozisyonunda istihdam edilebilmek için ilgili mevzuatında öngörülen koşullar ile Kamu Personeli Seçme Sınavı KPSS (B) grubu KPSSP3 puan türünde 10/7/2010 ve 11/7/2010 tarihlerinde yapılan sınavlara girmiş ve bu sınavlardan en az 70 puan almış olma koşulunu taşıyanlardan bu maddenin yayımı tarihinden itibaren yirmi gün içinde yazılı olarak müracaat edenler, Kurum tarafından belirlenecek usul ve esaslar çerçevesinde boş bulunan İş ve Meslek Danışmanı pozisyonlarına atanır.
+__________________
+(1) 31/7/2003 tarihli ve 4969 sayılı Kanunun 13 üncü maddesiyle, ( c) bendinin birinci paragrafına "olarak görev yapanlar" ibaresinden sonra gelmek üzere "en geç bir yıl içerisinde" ibaresi eklenmiş ve aynı bendin ikinci paragrafında yer alan "Söz konusu personelin" ibaresi, "Söz konusu personel ile şahsa bağlı kadroda bulunanların" olarak değiştirilmiş ve metne işlenmiştir.
+8492
+11/6/2012 tarihli iş ve meslek danışmanı alım ilanına istinaden yapılan yerleştirme sonucuna göre istihdam edilen iş ve meslek danışmanlarından bu pozisyonlarda 1/11/2012 tarihi itibarıyla çalışmakta iken 2013 yılı için sözleşmeleri yenilenememiş olanlar ile askerlik ve doğum nedenleriyle görevlerinden ayrılanlardan ilgili mevzuatına göre yeniden hizmete alınma şartlarını kaybetmemiş olanların söz konusu yerleştirme işlemleri ve atanmalarına ilişkin hakları saklıdır. Bunlardan askerlik ve doğum nedenleriyle görevlerinden ayrılanların yeniden istihdam edilmek üzere ilgili mevzuatında öngörülen süre içinde, sözleşmesi yenilenememiş olanların ise bu maddenin yayımı tarihinden itibaren yirmi gün içinde başvurmaları hâlinde aynı pozisyon için ilgili mevzuatına göre sözleşme yapılır.
 İKİNCİ BÖLÜM
 Son Hükümler
 Yürürlükten kaldırılan mevzuat
@@ -114,9 +121,7 @@ b) Diğer maddeleri yayımı tarihinde,
 Yürürlüğe girer.
 Yürütme
 Madde 35 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-____________________
-(1) 31/7/2003 tarihli ve 4969 sayılı Kanunun 13 üncü maddesiyle, ( c) bendinin birinci paragrafına "olarak görev yapanlar" ibaresinden sonra gelmek üzere "en geç bir yıl içerisinde" ibaresi eklenmiş ve aynı bendin ikinci paragrafında yer alan "Söz konusu personelin" ibaresi, "Söz konusu personel ile şahsa bağlı kadroda bulunanların" olarak değiştirilmiş ve metne işlenmiştir.
-8492
+8492-1
 EK-1 SAYILI LİSTE
 (Değişik: 11/10/2011-KHK-665/24 md.)
 (1) SAYILI LİSTE TÜRKİYE İŞ KURUMU TEŞKİLATI
@@ -134,4 +139,4 @@ Genel Müdür | Genel Müdür Yardımcısı | 1) İstihdam Hizmetleri Dairesi Ba
  |  | 10) İnsan Kaynakları Dairesi Başkanlığı
  |  | 11) Destek Hizmetleri Dairesi Başkanlığı
  |  | 12) Bilgi İşlem Dairesi Başkanlığı
-8492-1
+8492-2
