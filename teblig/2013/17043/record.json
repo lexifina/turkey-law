@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.17043",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU SOSYAL TESİSLERİNE İLİŞKİN TEBLİĞ (SAYI: 2013-3)",
+  "number": "17043",
+  "path": "teblig/2013/17043",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17043&MevzuatTertip=5",
+  "source_sha256": "c6f96148eef53178a69a1e3481ccc45cd5f4f95d7e57b76353742eca5dbf76c6",
+  "source_bytes": 30112,
+  "published": "2013-01-21",
+  "gazette": "28535",
+  "in_force": "2013-01-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.01.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1817,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
