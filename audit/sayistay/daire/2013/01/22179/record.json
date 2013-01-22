@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35075",
+  "decision_date": "2013-01-22",
+  "source_id": 22179,
+  "chamber": "2",
+  "ilam_number": "49",
+  "item_number": 12,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22179/",
+  "source_sha256": "369760cb9ba5ebf746abb0d38c0af572020e8a5614f91008b330316273f37249",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
