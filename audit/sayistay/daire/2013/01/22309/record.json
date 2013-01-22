@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10212",
+  "decision_date": "2013-01-22",
+  "source_id": 22309,
+  "chamber": "1",
+  "ilam_number": "109",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22309/",
+  "source_sha256": "c300076e599be4577502a20b5f6f2e7e6e1da2fb3f4c2417a9b3682f5403bfaa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
