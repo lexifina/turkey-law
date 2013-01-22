@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "9",
+  "decision_date": "2013-01-22",
+  "source_id": 13985,
+  "chamber": "4",
+  "ilam_number": "75",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13985/",
+  "source_sha256": "6e5f92996b1fbc054cf08c12518461a220a7d109a13d246e4e03c41bb4ecd098",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
