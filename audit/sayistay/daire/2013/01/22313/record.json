@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10212",
+  "decision_date": "2013-01-22",
+  "source_id": 22313,
+  "chamber": "1",
+  "ilam_number": "109",
+  "item_number": 10,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22313/",
+  "source_sha256": "d297b95a510edf0e2c70b2b662fb9ea2f45aaf763d085eb92fd3289be8e41d76",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
