@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10212",
+  "decision_date": "2013-01-22",
+  "source_id": 22320,
+  "chamber": "1",
+  "ilam_number": "109",
+  "item_number": 14,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22320/",
+  "source_sha256": "75018b417b46cc8ad41f4c9ccfc22bf939643657a92f10445a441eebbcc04e72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
