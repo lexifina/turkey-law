@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2013/DK-SDD/64",
+  "date": "2013-01-23",
+  "title": "İnceleme - Turkcell Uluslararası Dolaşım Aramaları",
+  "relevant_unit": "Sektörel Denetim Dairesi Başkanlığı",
+  "publication_date": "2013-01-23",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=139",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/571e0a85-e38d-4a57-acec-e51d3442b840.pdf",
+  "source_sha256": "50b9ed4696cb71e793cf605101fef27a903c4dcb44f6cadd0f5916d1dddb2143",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2013-01-23",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 23.01.2013; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
