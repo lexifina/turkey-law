@@ -1,0 +1,42 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 4162185,
+  "assembly": "TBMM",
+  "term": 24,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar / İnsan Haklarını İnceleme Komisyonu Raporu",
+  "summary": "Ceza Muhakemesi Kanunu ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun Tasarısı ile İstanbul Milletvekili Mahmut Tanal'ın; İstanbul Milletvekili Sırrı Süreyya Önder'in; Hakkari Milletvekili Adil Kurt'un; İstanbul Milletvekili Mustafa Sezgin Tanrıkulu'nun ve Barış ve Demokrasi Partisi Grup Başkanvekili Bingöl Milletvekili İdris Baluken'in, Benzer Mahiyetteki Kanun Tekliflerine İlişkin (1/708, 2/240, 2/262, 2/373, 2/539, 2/934, 2/955, 2/956) (S. Sayısı: 365)",
+  "title": "Ceza Muhakemesi Kanunu ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun Tasarısı ile İstanbul Milletvekili Mahmut Tanal'ın; İstanbul Milletvekili Sırrı Süreyya Önder'in; Hakkari Milletvekili Adil Kurt'un; İstanbul Milletvekili Mustafa Sezgin Tanrıkulu'nun ve Barış ve Demokrasi Partisi Grup Başkanvekili Bingöl Milletvekili İdris Baluken'in, Benzer Mahiyetteki Kanun Tekliflerine İlişkin (1/708, 2/240, 2/262, 2/373, 2/539, 2/934, 2/955, 2/956) (S. Sayısı: 365)",
+  "first_sitting_date": "2013-01-23",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 41,
+      "sitting": 56,
+      "sitting_date": "2013-01-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c041/tbmm24041056.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c041/tbmm24041fih.pdf",
+      "pages": [
+        "385",
+        "391:414",
+        "417:437",
+        "439:447",
+        "452:461",
+        "464:468",
+        "469:478"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=3&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=331&v_gelecek_sayfa=201&v_kullanici_id=27484671",
+  "source_sha256": "def50a7311434d1f980f2ab275ab22f7b2c95bdef2bc74ea8db8af83276c7404",
+  "in_force": "2013-01-23",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
