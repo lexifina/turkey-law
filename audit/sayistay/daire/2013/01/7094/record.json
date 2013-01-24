@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "11",
+  "decision_date": "2013-01-24",
+  "source_id": 7094,
+  "chamber": "4",
+  "ilam_number": "38",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2011,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7094/",
+  "source_sha256": "bf99e12c16d67bf74f0cb7d589e4ec4ffd979e895e205442bbc641c4c510a669",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
