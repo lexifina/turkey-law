@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6392",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Zambiya Cumhuriyeti Hükümeti Arasında Ticari ve Ekonomik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-24",
+  "gazette_issue": "28538",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130124-7.htm",
+  "source_sha256": "1cf27f541a37992cc78eb4da4e9103a0784b2ac8ba02a70110cccb7083c0bb38",
+  "text_sha256": "a430349f200ba4acc38dfbf9a24b4b89c4509b7f49444b07e7053c715e9e7da7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/24/28538-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130124-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
