@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35076",
+  "decision_date": "2013-01-24",
+  "source_id": 22164,
+  "chamber": "2",
+  "ilam_number": "62",
+  "item_number": 8,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22164/",
+  "source_sha256": "425dd5f6ef3571dd7a89d910d2c444fe9ba34b60e82dd4d597c551aeee32b035",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
