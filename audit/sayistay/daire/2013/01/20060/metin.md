@@ -1,0 +1,5 @@
+Fazla çalışma ücreti
+
+Denetçi sorgusunda, … Büyükşehir Belediyesinde görevli işçi personele ödenen fazla mesai ücretlerinin hesaplanmasında, 4857 sayılı İş Kanunu’nun “Fazla çalışma ücreti” başlıklı 41’inci maddesinde düzenlenen “fazla sürelerle çalışma” nın dikkate alınmaması sonucu toplam … TL kamu zararına neden olunduğu iddia edilmekte ise de, dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+… Büyükşehir Belediyesi’nde 01.03.2009 - 28.02.2011 tarihleri arasında yürürlükte bulunan Toplu İş Sözleşmesinin 23’üncü maddesiyle haftalık çalışma süresinin 40 saat olarak belirlendiği, aynı Sözleşmenin 62’inci maddesinde ise “Normal çalışmanın üzerindeki çalışmalar fazla çalışmalardır.” hükmüne yer verildiği görülmüş olup 4857 sayılı İş Kanunu’nun 41’inci maddesinde düzenlenen fazla çalışma ve fazla sürelerle çalışma ücretlerine ilişkin hükümlerin toplu sözleşmelerle işçi lehine yükseltilmesinde Kanun’a aykırılık bulunmadığı anlaşıldığından, Denetçisince kamu zararı olarak hesap edilen … TL için ilişik bulunmadığına oybirliğiyle, karar verildi.
