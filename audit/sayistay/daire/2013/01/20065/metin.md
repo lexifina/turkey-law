@@ -1,0 +1,5 @@
+Damga vergisi kesintisi yapılmaması
+
+Denetçi sorgusunda yer alan; … Büyükşehir Belediyesi ile … Hizmetleri Ltd. Şirketi arasında imzalan “… Hizmet Alımı İşi” ne ait sözleşme üzerinden damga vergisinin kesilmemesi sonucu … TL kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+488 sayılı Damga Vergisi Kanunu’nun 1, 3 ve 14’üncü maddeleri uyarınca ve anılan Kanuna ekli I sayılı Tablo’ nun “Akitlerle ilgili kağıtlar” başlıklı bölümünde belli bir bedeli ihtiva eden sözleşmeler için öngörülen binde 8,25 oranı esas alınarak, bahse konu      ...TL sözleşme bedelli hizmet alımı işine ait sözleşme üzerinden binde 8,25 oranında damga vergisi kesilerek yüklenici firmadan tahsil edilmesi gerektiği halde kesilmemesi sonucu … TL kamu zararına neden olunduğu anlaşılmış olmakla birlikte, sorumlularca söz konusu tutarın … tarih ve … sıra no.lu tahsilat makbuzu ile tahsil edildiği anlaşıldığından bu tutar için ilişik kalmadığına oybirliğiyle, karar verildi.
