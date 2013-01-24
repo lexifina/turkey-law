@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-155[1-2012/164]-89",
+  "source_id": 34745,
+  "date": "2013-01-24",
+  "title": "Aynı işe ilişkin olarak düzenlenen iki ayrı sözleşmenin ne şekilde damga vergisi ve harca tabi tutulacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34745",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "7a31d958316b0940f99a57371ee5acd3265a01c3530edb40a3e541613c0f8e0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
