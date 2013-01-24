@@ -1,0 +1,3 @@
+Birlik gelirlerinden pay aktarımı
+
+Denetçi sorgusunda; … Büyükşehir Belediyesinin % … oranında ortak olduğu … İşletme Birliğinden, birlik tüzüğüne göre aktarılması gereken payların aktarılmaması sonucu toplam … TL kamu zararına neden olunduğu iddia edilmekte ise de, dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; bahse konu … İşletme Birliğinin 2010 yılı gelirlerinden … Büyükşehir Belediyesine aktarılması gereken … TL’nin … tarihinde … Büyükşehir Belediyesinin … no.lu hesabına … banka dekontu ile yılı içerisinde yatırıldığı anlaşıldığından söz konusu tutar için ilişik bulunmadığına oybirliğiyle, karar verildi.
