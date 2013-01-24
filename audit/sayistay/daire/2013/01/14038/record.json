@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "10",
+  "decision_date": "2013-01-24",
+  "source_id": 14038,
+  "chamber": "4",
+  "ilam_number": "33",
+  "item_number": 25,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14038/",
+  "source_sha256": "98672c60983959490846c70771f710c80ff40c8f1294a0489fbf9fca26b540fd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
