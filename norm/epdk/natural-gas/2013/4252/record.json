@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4252",
+  "decision_date": "2013-01-24",
+  "title": "Doğal Gaz Piyasası Lisans Yönetmeliğinin 19, 25 ve 26 ncı maddeleri uyarınca, 2013 yılı ulusal doğal gaz tüketim tahmini",
+  "resmi_gazete_date": "2013-02-01",
+  "resmi_gazete_number": "28546",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=W010Yit1ta0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=W010Yit1ta0="
+  ],
+  "source_sha256": "9bc128e74a55cca55eb5e0ae61c64de92f98f5db52389686f7ef4ce1fcf9441d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-01-24",
+  "law_text_complete": false
+}
