@@ -1,0 +1,9 @@
+Damga Vergisi Matrahına Özel Tüketim Vergisinin Dahil Edilmemesi.
+
+Denetçi sorgusunda yer alan; …. Belediyesi ile …. A.Ş arasında imzalan 2 adet körüklü Otobüs alımı ihalesinde karar pulu ve sözleşme damga vergisi matrahına özel tüketim vergisinin (ÖTV) dâhil edilmemesi sonucu …. TL kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+488 sayılı Damga Vergisi Kanunu’nun 1, 3 ve 14’üncü maddeleri uyarınca ve anılan Kanuna ekli I sayılı Tablo’da belirtilen oranlar esas alınarak; belli bir bedeli ihtiva eden sözleşmeler üzerinden binde 8,25 oranında, resmi daire ve kamu tüzel kişiliğini haiz kurumların her türlü ihale kararları üzerinden ise (2011 yılı için geçerli haliyle) binde 4,95 oranında damga vergisi kesilmesi gerekmektedir. Söz konusu Kanun’un “Vergileme ölçüleri” başlıklı 10’uncu maddesinde ise, damga vergisinin nispi veya maktu olarak alınacağı, nispi vergide, kağıtların nevi ve mahiyetlerine göre, bu kağıtlarda yazılı belli paranın esas alınacağı ve belli para teriminin kağıtların ihtiva ettiği veya bunlarda yazılı rakamların hasıl edeceği parayı ifade ettiği belirtilmiştir. Dolayısıyla, vergiye tabi kağıtlarda yazılı paraya dahil olan vergi, resim harç vb. kalemler damga vergisi matrahından hariç tutulmamıştır.
+
+Buna göre, söz konusu otobüs alım işine ilişkin olarak; ihale kararı üzerinden           binde 4,95 ve sözleşme üzerinden binde 8,25 oranında kesilecek damga vergilerine esas matraha ÖTV’nin de dâhil edilmesi gerekmektedir.
+
+Bu itibarla, (ÖTV dahil) … TL bedelli bahse konu otobüs alımı işinde sözleşme ve ihale kararı üzerinden toplam ….. TL damga vergisi kesilmesi gerekirken toplam …. TL damga vergisi kesilmesi sonucu …. TL kamu zararına neden olunduğu anlaşılmış ise de, söz konusu kamu zararı tutarının …. tarih ve …sıra nolu tahsilat makbuzu ile yılı sonrasında tahsil edildiği anlaşıldığından bu tutar için ilişik kalmadığına oy birliğiyle karar verildi.
