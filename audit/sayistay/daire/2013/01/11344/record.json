@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "117",
+  "decision_date": "2013-01-24",
+  "source_id": 11344,
+  "chamber": "3",
+  "ilam_number": "27",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11344/",
+  "source_sha256": "4d39f1e81bcde828b5115078979a3026f25cd4a704e90fdf7233632b08a63525",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
