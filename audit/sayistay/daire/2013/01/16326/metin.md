@@ -1,0 +1,5 @@
+Gecikme cezası
+
+...........  Şti. yükleniminde bulunan ........... TL sözleşme bedelli “........... ” işinin sözleşmesinde belirlenen süresinde bitirilmemesi nedeniyle sözleşme hükmüne göre gecikme cezası kesilmesi gerekirken kesilmemesi suretiyle ........... TL kamu zararına sebebiyet verilmesi hususu ile ilgili olarak yapılan incelemede;
+
+Taraflar arasında akdedilen sözleşme hükmüne göre işin bitim süresinin işyeri tesliminden itibaren 150 gün olarak belirlendiği, işyeri tesliminin 05.08.2010 tarihinde yapıldığı, buna göre işin bitim tarihinin 01.01.2011 olarak hesaplandığı, 31.11.2011 tarihli süre uzatım kararı ile 30 gün süre uzatımının çalışılmayan mevsimin bitimi 1 Nisan’a ilave edilerek yeni iş bitim tarihinin 30.04.2011 olduğu, geçici kabul tutanağına göre işin 28.04.2011 tarihi itibariyle geçici kabulünün yapıldığı anlaşıldığından ve yüklenicinin SGK ........... Sosyal Güvenlik İl Müdürlüğü’ne yaptığı bildirim tarihi ile iş bitim tarihi ilişkilendirilemeyeceğinden, mevzuatına uygun olduğu anlaşılan ........... TL ile ilgili olarak ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
