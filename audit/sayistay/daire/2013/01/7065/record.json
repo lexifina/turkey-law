@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "116",
+  "decision_date": "2013-01-24",
+  "source_id": 7065,
+  "chamber": "3",
+  "ilam_number": "28",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7065/",
+  "source_sha256": "77eafaa7667274d07fd48c4b1a859e6c1685f00dbf667326b717e642fd4f6d07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
