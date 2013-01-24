@@ -1,0 +1,5 @@
+Kira Sözleşmesinden Damga Vergisi Kesintisi Yapılmaması.
+
+Denetçi sorgusunda yer alan; … Belediyesi ile ….Sanayi A.Ş arasında imzalanan kira sözleşmesi üzerinden 488 sayılı Damga Vergisi Kanunu uyarınca kesilmesi gereken sözleşme damga vergisinin kesilmemesi sonucu …. TL kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+488 sayılı Damga Vergisi Kanunu’nun 1, 3 ve 14’üncü maddeleri uyarınca ve anılan Kanuna ekli I sayılı Tablo’nun “Akitlerle ilgili kağıtlar” başlıklı bölümünde kira sözleşmeleri için öngörülen (kira süresine göre belirlenecek toplam kira bedeli üzerinden olmak üzere) binde 1,65 oranı esas alınarak, bahse konu aylık …. TL sözleşme bedelli ve 10 yıl süreli kiralama işine ait sözleşme üzerinden damga vergisi kesilmemesi sonucu …..TL kamu zararına neden olunduğu anlaşılmış olmakla birlikte, sorumlularca söz konusu tutarın … tarih ve …. sıra nolu tahsilat makbuzu ile tahsil edildiği anlaşıldığından bu tutar için ilişik kalmadığına oy birliğiyle karar verildi.
