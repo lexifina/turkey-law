@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6390",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti ile Kore Cumhuriyeti Arasında Serbest Ticaret Alanı Tesis Eden Çerçeve Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-24",
+  "gazette_issue": "28538",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130124-5.htm",
+  "source_sha256": "1fb25d5f9be2ee16c8ea273e586b5ec95225719b1154305fa0261812001415e3",
+  "text_sha256": "6cb1ab69d1bcde3ea614e86ba706a8c05a38ee7dc00b702aefe3f029cbf79a63",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/24/28538-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130124-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
