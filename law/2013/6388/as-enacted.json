@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6388",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti ile Lübnan Cumhuriyeti Arasında Serbest Ticaret Alanı Tesis Eden Ortaklık Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-24",
+  "gazette_issue": "28538",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130124-3.htm",
+  "source_sha256": "691fb05d34db858f39375f8aba6184e4b6ddd2dca11c1c98b8e93993dc88a6a3",
+  "text_sha256": "957514ef101fe75ca4f8d86b997fb1a6208ed2bb3add1a20f1b91b8b1a1b9b5e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/24/28538-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130124-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
