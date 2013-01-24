@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6389",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti ile Morityus Cumhuriyeti Arasında Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-24",
+  "gazette_issue": "28538",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130124-4.htm",
+  "source_sha256": "3d239daee4f408fd3f74ac969da3c44fa425d2fe77bb880d17963ddf44624181",
+  "text_sha256": "0fb24df698912d1d07f7e8f7cb6fdc7d426bd361333464bd5330e175d769b52a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/24/28538-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130124-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
