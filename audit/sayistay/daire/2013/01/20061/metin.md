@@ -1,0 +1,3 @@
+Diğer Belediyelere nakdi yardım yapılması
+
+Denetçi sorgusunda; … Büyükşehir Belediyesince 5216 sayılı Büyükşehir Belediye Kanunu’nun 27’inci maddesine aykırı olarak Büyükşehir Belediye Meclis kararı olmaksızın … ve … Belediyelerine nakdi yardım yapılması sonucu toplam  … TL kamu zararına sebep olunduğu iddia edilmekte ise de, dosya kapsamında bulunan belgelerin incelenmesi neticesinde, … Büyükşehir Belediye Meclisince onaylanan 2010 yılı Bütçesinde … ve … Belediyelerine yapılacak nakdi yardıma yer verildiği ve dolayısıyla söz konusu yardımların 2010 Yılı Bütçe Kararnamesine istinaden yapıldığı anlaşıldığından, Denetçisince kamu zararı olarak hesap edilen … TL için ilişik bulunmadığına oybirliğiyle, karar verildi.
