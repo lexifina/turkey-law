@@ -1,0 +1,5 @@
+Damga vergisinin eksik kesilmesi
+
+Denetçi sorgusunda yer alan; … Büyükşehir Belediyesi ile … .. A.Ş. arasında imzalan “… Mal Alımı İşi’ nde, 12 no.lu hak ediş üzerinden kesilmesi gereken damga vergisinin eksik tahsil edilmesi sonucu … TL kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+488 sayılı Damga Vergisi Kanunu’nun 1, 3 ve 14’üncü maddeleri uyarınca ve anılan Kanuna ekli I sayılı Tablo’ nun “Makbuzlarla ilgili kağıtlar” başlıklı bölümünde resmi daireler tarafından yapılan mal ve hizmet alımlarına ilişkin ödemeler nedeniyle kişiler tarafından resmi dairelere verilen ve belli bir parayı ihtiva eden makbuzlar için öngörülen binde 8,25 oranı esas alınarak, bahse konu … TL sözleşme bedelli mal alımı işine ait sözleşme üzerinden … TL damga vergisi kesilerek yüklenici firmadan tahsil edilmesi gerektiği halde … TL damga vergisi kesilmesi sonucu … TL kamu zararına neden olunduğu anlaşılmış olmakla birlikte, sorumlularca söz konusu tutarın … tarih ve … sıra no.lu tahsilat makbuzu ile tahsil edildiği anlaşıldığından bu tutar için ilişik kalmadığına oybirliğiyle, karar verildi.
