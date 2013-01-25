@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Ahşap ambalaj malzemesi: Ambalaj destek malzemesi dâhil bir malın korunması ya da taşınmasında kullanılan, kâğıt ürünleri hariç ahşap veya ahşap ürünlerini,
+b) Bakanlık: (Değişik ibare:RG-21/9/2012-28418) Gıda, Tarım ve Hayvancılık Bakanlığını,
+c) Bitki: Canlı bitkiler ile bunların derin dondurulmamış meyve ve sebzeleri, yumrular, soğansılar, soğanlar ve rizomlar, kesme çiçekler, yapraklı dallar, budama artığı yapraklar, yapraklar, bitki doku kültürleri, canlı polen, göz, kalem ve çelik gibi canlılığını koruyan belirli parçaları ile dikim amaçlı olan botanik tohumlarını,
+ç) Bitki sağlık sertifikası: Bitki, bitkisel ürün ve diğer maddelerin bu Yönetmelikte öngörülen bitki sağlığı şartlarına uygun olduğunu gösteren belgeyi,
+d) Bitkisel ürün: Bitkisel orijinli, işlem görmemiş veya basit bir işlemden geçmiş ve bitki tanımına girmeyen ürünleri,
+e) (Değişik:RG-25/1/2013-28539) Eğitici inspektör: Eğitim alacak inspektör adaylarının eğitimi ile inspektörlerin hizmet içi eğitimlerini vermek üzere Genel Müdürlükçe tespit edilerek eğitim vermek üzere görevlendirilen en az beş yıllık deneyime sahip inspektörleri,
+f) Fümigasyon: Zararlı organizmaları imha etmek amacıyla, belirli sıcaklıktaki kapalı bir ortama, gaz halinde etki eden bir fumigantı belirli miktarda verme ve belirli bir süre ortamda tutma işlemini,
+g) (Değişik:RG-21/9/2012-28418) Genel Müdürlük: Gıda ve Kontrol Genel Müdürlüğünü,
+ğ) Giriş: Bitki, bitkisel ürün ve diğer maddelerin Türkiye Gümrük Bölgesine ve serbest bölgelere girişi, ithalatı ve transit işlemine tâbi tutulmasını,
+h) İl müdürlüğü: Bakanlık il müdürlüğünü,
+ı) İlçe müdürlüğü: Bakanlık ilçe müdürlüğünü,
+i) İnspektör: Bitki, bitkisel ürün ve diğer maddelerin ülkemize ve serbest bölgelere giriş, çıkış ve transit geçişi esnasında bitki sağlığı amaçlı her türlü resmi kontrolleri yaparak gerekli belgeleri düzenlemek üzere bakanlık tarafından eğitilmiş ve resmi kontrol yetkisi verilmiş kontrol görevlisini,
+j) İthalat: Bitki, bitkisel ürün ve diğer maddelerin, serbest dolaşıma giriş rejimi, gümrük antrepo rejimi, dâhilde işleme rejimi, gümrük kontrolü altında işleme rejimi ve geçici ithalat rejimi prosedürlerine tâbi tutulmasını,
+k) Karantina: Zararlı organizmaların ülkeye girişini veya ülke içinde yayılmasını önlemek amacıyla, bitki, bitkisel ürün ve diğer maddelerin kontrol altına alınmasını,
+l) Müdürlük: Zirai Karantina Müdürlüğünü, bu Müdürlüğün olmadığı yerlerde Bakanlık il veya ilçe müdürlüğünü,
+m) Numune: Resmi kontrole tabi tutulacak belirlenmiş büyüklükteki bitki, bitkisel ürün ve diğer maddelerden alınan örneği,
+n) Resmî kontrol: İnspektörlerin verilen yetki çerçevesinde gerçekleştirdikleri izleme, gözetim, denetim, muayene, karantina, numune alma, analiz ve benzeri işlemleri,
+o) Transit: Serbest dolaşımda bulunmayan bitki, bitkisel ürün ve diğer maddelerin Türkiye Gümrük Bölgesi üzerinden geçerek yabancı bir ülkeden yabancı bir ülkeye, yabancı bir ülkeden Türkiye’ye, Türkiye’den yabancı bir ülkeye, bir iç gümrükten diğer bir iç gümrüğe sevkini,
+ö) Yeniden İhracat (Re-Export): Bir ülkeye ithal edilen ve o ülkeden başka bir ülkeye ihraç edilecek bitki ve bitkisel ürünler için uygulanan ihracatı,
+p) Zararlı organizma: Bitki veya bitkisel ürünlere zarar veren bitki, hayvan veya patojenik ajanların tür, streyn (ırk) veya biyotiplerini,
+ifade eder.
