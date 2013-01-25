@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-155[5411-143-2012/127]-91",
+  "source_id": 34744,
+  "date": "2013-01-25",
+  "title": "Varlık Yön. Şirketi tarafından kredinin teminatı için bankaya temlik edilen alacağın daha sonda bankadan geri temlik alınması halinde, düzenlenecek kağıdın damga vergisinden istisna olup olmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34744",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "de3ca2aa75a03f6509525cd74252a4a1d39f8f0e450ef4f5b807e3b2e8556617",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
