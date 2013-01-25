@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-01-25",
+  "issue": "28539",
+  "edition": "regular",
+  "item": 26,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Aile Hekimliği Uygulama Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130125-26.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130125.htm",
+  "index_sha256": "f992229d58e9b27150bc2b39a7ad6c7cfdb7fd7f1992d2186849a7d61c660756",
+  "index_header": "25 Ocak 2013 ... 28539 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130125.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
