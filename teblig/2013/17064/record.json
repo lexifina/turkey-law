@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.17064",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 423)",
+  "number": "17064",
+  "path": "teblig/2013/17064",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17064&MevzuatTertip=5",
+  "source_sha256": "1be6b8dedc956598f2b40103fb07285025e6e2373f260089a2f3ca9e61965289",
+  "source_bytes": 120977,
+  "published": "2013-01-26",
+  "gazette": "28540",
+  "in_force": "2013-01-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.01.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 740,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
