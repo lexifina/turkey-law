@@ -1,0 +1,3 @@
+Muhasebe yetkililerinin atanması
+Madde 20 — (Değişik birinci fıkra: 15/9/2008-2008/14247 K.) Muhasebe yetkilisi görevini yürütmek üzere atanacaklar, sertifikalı adaylar arasından, 9/12/1994 tarihli ve 4059 sayılı Kanun hükümleri saklı kalmak kaydıyla, genel bütçe kapsamındaki kamu idarelerinde Bakanlıkça, diğer kamu idarelerinde ise üst yöneticiler tarafından atanır.
+Ancak, Türkiye Büyük Millet Meclisi ve Sayıştayın muhasebe hizmetlerini yerine getirmek üzere görevlendirilecek muhasebe yetkilileri, Türkiye Büyük Millet Meclisi Başkanı; Cumhurbaşkanlığı muhasebe hizmetlerini yerine getirmek üzere görevlendirilecek muhasebe yetkilisi ise Cumhurbaşkanlığı Genel Sekreteri tarafından atanır.

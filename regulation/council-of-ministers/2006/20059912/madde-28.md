@@ -1,0 +1,4 @@
+Mali işlemlerin muhasebeleştirilmesi
+Madde 28 — Bir ekonomik değerin yaratılması, başka bir şekle dönüştürülmesi, mübadeleye konu edilmesi, el değiştirmesi veya yok olması mali işlem olarak kabul edilir ve bütün mali işlemler muhasebe yetkililerince muhasebeleştirilir.
+Her muhasebe kaydının bir belgeye dayandırılması zorunludur. Muhasebeleştirme işlemleri idarelerin tabi olduğu muhasebe yönetmeliklerinde belirtilen muhasebeleştirme belgeleri ile yapılır.
+Muhasebeleştirme işlemi, mali işlemin tamamlanmasını takiben geciktirilmeden en geç izleyen iş gününde yapılır. Ancak, mali yılın bitimine kadar mal alınmış, hizmet veya iş yapılmış olmasına rağmen mahsup belgeleri mali yılın bitimine kadar muhasebe birimine verilememiş ön ödemelere ilişkin mali işlemler ile bütçe gelir ve giderini ilgilendirmeyen diğer mali işlemler, ilgili mevzuat hükümleri dikkate alınarak mahsup dönemi sonuna kadar muhasebeleştirilebilir.

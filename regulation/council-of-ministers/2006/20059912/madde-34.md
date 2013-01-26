@@ -1,0 +1,3 @@
+Mali raporların düzenlenmesi ve gönderilmesi
+Madde 34 — Mali raporlar, muhasebe yetkililerince, Devlet Muhasebesi Standartları Kurulu tarafından belirlenecek standartlara, kamu idarelerinin tabi olduğu muhasebe yönetmeliklerine ve muhasebe kayıtlarına uygun olarak düzenlenir ve mevzuatında belirlenen sürelerde ilgili mercilere gönderilir.
+Söz konusu raporların mevzuatında belirtilen sürelerde tam ve doğru olarak ilgili kamu idaresine, Bakanlığa ve Sayıştaya gönderilmemesi halinde; durum, muhasebe yetkilisinin bağlı olduğu kamu idaresi üst yöneticisine yazılı olarak bildirilir. Verilen ek süre içerisinde de gönderilmemesi halinde ilgili muhasebe yetkilisi hakkında disiplin hükümleri uygulanması talep edilir.

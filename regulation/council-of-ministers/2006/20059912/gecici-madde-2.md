@@ -1,0 +1,1 @@
+Geçici Madde 2 — 31/12/2005 tarihi itibarıyla; bu Yönetmeliğin geçici 1 inci maddesinin (a) bendinde sayılanların yardımcıları (Devlet Muhasebe Uzman Yardımcıları ile Muhasebe Denetmen Yardımcıları hariç) ile kadro unvanı sayman olanlar muhasebe yetkilisi yardımcısı olarak 31/12/2007 tarihine kadar atanabilirler.

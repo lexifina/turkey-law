@@ -1,0 +1,5 @@
+Muhasebe yetkilisi sertifikasının verilmesi
+Madde 19 — (Değişik: 15/9/2008-2008/14247 K.)
+Sınavda başarılı olan muhasebe yetkilisi adaylarına, Bakanlık tarafından Muhasebe Yetkilisi Sertifikası verilir. Sertifika verilenler görev yaptığı kurumlarına bildirilir ve Bakanlık internet sitesinde de yayımlanır.
+Lise ve dengi okul mezunu adaylardan sertifika eğitim programını başarıyla tamamlayanlara sadece belde ve nüfusu 25 binin altında olan ilçe belediyeleri ile mahalli idare birliklerinde görev yapma yetkisi veren sertifika verilir.
+(Ek fıkra: 15/6/2009-2009/15127 K.) Verilen sertifikanın kaybolması veya çeşitli sebeplerle kullanılamaz hale gelmesi durumunda, sertifika sahibi bir dilekçeyle Bakanlığa başvurur. Bakanlıkça uygun görülmesi halinde başvuruda bulunan sertifika sahibine sertifika aslında yer alan bilgileri taşıyan bir belge verilir. Bu belgenin de kaybolması veya kullanılamaz hale gelmesi durumunda aynı işlemler yinelenebilir. Bakanlıkça sertifika verilenlere ilişkin bilgilerin tutulduğu kayıtlara, bu şekilde belge verilenlerle ilgili gerekli açıklamalar eklenir.

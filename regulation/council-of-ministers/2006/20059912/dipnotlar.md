@@ -1,0 +1,5 @@
+[1] Bu Yönetmeliğin adı “Muhasebe Yetkililerinin Eğitimi, Sertifika Verilmesi ile Çalışma Usul ve Esasları Hakkında Yönetmelik” iken, 15/9/2008 tarihli ve 2008/14247 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[2] Bu madde başlığı “Muhasebe yetkilisi olarak atanacakların nitelikleri” iken, 15/9/2008 tarihli ve 2008/14247 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 5 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+[3] Bu madde başlığı “Eleme sınavı yeri ve konuları”iken, 15/6/2009 tarihli ve 2009/15127 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 4 üncü maddesi ile metne işlendiği şekilde değiştirilmiştir.
+[4] 15/6/2009 tarihli ve 2009/15127 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 3 üncü maddesi ile; bu maddenin birinci fıkrasında yer alan “Eleme” ibareleri “Aday belirleme”, “eleme” ibareleri “aday belirleme” şeklinde değiştirilmiş ve metne işlenmiştir.
+[5] 24/12/2012 tarihli ve 2012/4097 sayılı Bakanlar Kurulu Kararı Eki yönetmelik ile bu fıkrada yer alan “genel bütçe” ibaresi “merkezi yönetim” şeklinde değiştirilmiştir.
