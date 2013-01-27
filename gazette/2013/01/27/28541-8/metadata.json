@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-01-27",
+  "issue": "28541",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2012/4242 Ulusal Gençlik ve Spor Politikası Belgesinin Kabul Edilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130127-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130127.htm",
+  "index_sha256": "b9df1ee36dda6e00a92833d63073f5ff55cf0ca9424e5842280fefc38b490c33",
+  "index_header": "27 Ocak 2013 ... 28541 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130127.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
