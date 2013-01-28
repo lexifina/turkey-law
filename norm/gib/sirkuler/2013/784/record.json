@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK .57 / 2013.02",
+  "source_id": 784,
+  "date": "2013-01-28",
+  "title": "420 Sıra Numaralı Vergi Usul Kanunu Genel Tebliği kapsamında elektrik ve doğalgaz abone bilgileri ile tüketim bilgilerinin alınma süresinin uzatılmasına dair açıklama",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/784",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "29bce8cd9703c96b052c9e4fd460e3f8bcb89dd21b5b2b296ca233829ba7320f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
