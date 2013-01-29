@@ -1,0 +1,7 @@
+İşgal Harcı.
+
+Denetçi sorgusunda, anılan Belediyenin 2011 Mali Yılı Bütçe Kararnamesi ve 2011 Yılı Bütçesinin kabul edilmesine ilişkin 12 Kasım 2010 tarihli belediye meclis kararında, 2464 sayılı Belediye Gelirleri Kanunu uyarınca işgal harcı alınması öngörülen yerlerden, meclis kararıyla belirlenen tarife ile kira bedeli adı altında ücret alınması nedeniyle kamu zararına neden olunduğu iddia edildiği görülmüş ise de; dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+2011 yılı bütçe tarifesine göre yer kira ücreti alınan sundurma, tanıtım levhaları ve ayaklı tanıtım levhaların tamamında (440 adet tanıtım levhası) 2464 sayılı Belediye Gelirleri Kanunu’nda ifade edilen anlamda işgal harcı alınmasını gerektiren bir işgaliyenin bulunmadığı, sundurma (tente) tanıtım levhalarının kişilerin özel mülkiyetinde bulunan işyerlerinin cephesine monteli tanıtım levhaları olduğu, dolayısı ile bunlar için herhangi bir işgaliyeden söz edilemeyeceği, işgaliye oluşturmayan bu tanıtım levhaları dışındaki ayaklı tanıtım levhalarından (Totem) ise;  bütçe tarifesine göre alınan yer kira ücretlerinin toplamının bu yerlerden 2464 sayılı Kanun’un 52’nci maddesine göre tahsil edilecek işgal harcı toplamından fazla olduğu, dolayısı ile olayda oluşan herhangi bir kamu zararının bulunmadığı anlaşılmıştır.
+
+Bu nedenle, kamu zararı oluşmayan ….TL ile ilgili olarak ilişilecek husus bulunmadığına oybirliğiyle karar verildi.
