@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "1",
+  "decision_date": "2013-01-29",
+  "source_id": 22558,
+  "chamber": "7",
+  "ilam_number": "45",
+  "item_number": 10,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22558/",
+  "source_sha256": "cbe02dfa570d47e0d87008a725f9f7261b21841da426bcfd48ceb0087cb95b50",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
