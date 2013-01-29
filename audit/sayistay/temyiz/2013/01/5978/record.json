@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36232",
+  "decision_date": "2013-01-29",
+  "source_id": 5978,
+  "chamber": "8",
+  "file_number": "34660",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5978/",
+  "source_sha256": "fbabdd42c296f32493b6c3ca8b7277a954f9a2c239d66aeaa17fae2ba5242756",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
