@@ -1,0 +1,5 @@
+İzin Belgesi Bedeli
+
+....... Müdürlüğünce ......Müdürlüğü hudutlarında .......Ltd. Şti’ye 21.01.2011 tarihinde verilen II. Grup (Doğaltaş-Mermer) işletme izni için “......Müdürlüğünce 2011 Yılı İçin Belirlenen Arazi İzin Bedellerini Gösterir Cetvel”de yer alan rakamlara göre ........bedelinin .......TL/Ha, .......alanlarda arazi izin bedelinin ...... krş/m2, yol ve yerleşim merkezleri dışındaki normal ...... arazi izin bedelinin de ....... krş /m2 üzerinden hesaplanması gerekmekte iken söz konusu bedellerin hesaplanmasında 2010 yılı için belirlenen cetvelde yer alan ..........6.695 TL/Ha, ........de ..........65 krş/m2,  ........83 krş/m2 birim fiyatlarının esas alındığı görülmüştür.
+
+Bu itibarla ......... Ltd. Şti’ye 21.01.2011 tarihinde verilen ......m2 işletme izni için 2011 yerine 2010 yılı birim fiyatları üzerinden .........izin bedelleri hesaplanması sonucu oluşan .......TL kamu zararının hesap yılı içinde ahizinden tahsil edildiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına oy birliğiyle,
