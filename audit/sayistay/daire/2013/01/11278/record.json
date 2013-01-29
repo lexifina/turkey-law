@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "118",
+  "decision_date": "2013-01-29",
+  "source_id": 11278,
+  "chamber": "3",
+  "ilam_number": "29",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11278/",
+  "source_sha256": "a2a57cbf1caa05b83cce58a8ccd9ac902a0caf14cbbce60b89a569d4ca00f06f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
