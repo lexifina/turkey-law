@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "1",
+  "decision_date": "2013-01-29",
+  "source_id": 7159,
+  "chamber": "7",
+  "ilam_number": "45",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7159/",
+  "source_sha256": "5ec733978b34d71f5c1eab1e66dfe63e587cf9b5a4c2e4a48b7b9b087abf5cc4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
