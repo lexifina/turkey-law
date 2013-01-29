@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-019.01-111",
+  "source_id": 22635,
+  "date": "2013-01-29",
+  "title": "Abonelik sözleşmesi karşılığında müşterilere ücretsiz verilen modem cihazlarının gider kaydı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22635",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "86a7b9ae7ca74d64db2415b32590cb8577ac5f421da28dc36234d754837bd1a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
