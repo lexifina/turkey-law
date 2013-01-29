@@ -1,0 +1,5 @@
+MADDE 2 – (1) Bu Tebliğ Bl ve D1 yetki belgesi sahipleri tarafından karayoluyla yapılan tarifeli şehirlerarası yolcu taşımalarında kilometre esasına göre 1 Şubat - 31 Mayıs 2013 tarihleri arasında uygulanacak olup, uygulama süresince aşağıdaki hususlara uyulacaktır.
+a) Bu Tebliğ ile belirlenen taban ücret tarifesine Katma Değer Vergisi (KDV) dâhildir.
+b) Uyguladıkları ücret tarifesi bu Tebliğe uymayan yetki belgesi sahipleri bu Tebliğin yayımından itibaren Bakanlığa başvurarak en geç yirmi (20) gün içerisinde her türlü iş ve işlemlerini tamamlayarak bu Tebliğe uygun ücret tarifesini alır ve uygularlar.
+c) Yetki belgesi sahipleri Karayolu Taşıma Yönetmeliğinin 57 nci maddesi çerçevesinde indirimli yolcu bileti kesme haklarını, bu Tebliğ ile belirlenen taban ücret tarifesinden daha aşağı olmamak üzere kullanabilirler.
+ç) Karayolu Taşıma Yönetmeliğinin 57 nci maddesi çerçevesinde Bakanlıktan önceden izin almak suretiyle yapılan özel indirimli bilet satışları ile çocuklar ve özürlüler için yapılan zorunlu indirimlerde (c) bendi hükümleri uygulanmaz.

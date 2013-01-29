@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.17074",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KARAYOLUYLA ŞEHİRLERARASI YOLCU TAŞIMACILIĞI ALANINDA UYGULANACAK TABAN ÜCRET TARİFESİ HAKKINDA TEBLİĞ (TEBLİĞ NO: 67)",
+  "number": "17074",
+  "issuer": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+  "path": "teblig/2013/17074",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17074&MevzuatTertip=5",
+  "source_sha256": "cc3c85e7eca3980c158cbe03304ebafe62e49032798e8aca52ac4b8ecfe729cd",
+  "source_bytes": 38155,
+  "published": "2013-01-29",
+  "gazette": "28543",
+  "in_force": "2013-01-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.01.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 313,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
