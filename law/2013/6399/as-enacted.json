@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6399",
+  "year": 2013,
+  "title": "Afrika Kalkınma Fonu Kuruluş Anlaşmasına Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-30",
+  "gazette_issue": "28544",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130130-7.htm",
+  "source_sha256": "1464db06773ed31a812b371126e9808a0600a11edcff72c6dfd046b67ee18f9d",
+  "text_sha256": "1897958b66a627af9e6562a077a43c1fa1ac9120c2cdad906a8a3d39189767f0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/30/28544-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130130-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
