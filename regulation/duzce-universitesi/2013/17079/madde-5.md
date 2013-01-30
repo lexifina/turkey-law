@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; kadın yaşamı, geleceği ve sorunlarına bölgesel ve evrensel çözümler getirmek için yurt içinde ve yurt dışında birey olarak kadın ve kadının rollerine ilişkin her alanda araştırma ve incelemeler yapmak ve etkinliklere katılmak, kadının kendi gözünde ve toplumda değerinin ve durumunun geliştirilmesi için, kadın konularına duyarlı ve ilgili çalışmalar yapan kurum ve kuruluşlarla işbirliği içinde bulunmak, kongre, sempozyum, panel, atölye çalışmaları ve kurslar düzenlemek, Üniversitenin ilgili birim ve bölümlerinin işbirliği ile ve/veya özel ya da resmi kuruluşlarla birlikte projeleri desteklemek ve yürütmek, kadın sorunlarının çözümüne ilişkin çalışmalarda bulunmak, yayınlar çıkarmak ve konuyla ilgili olarak toplumla Üniversite arasındaki iletişimi sağlamaktır.
