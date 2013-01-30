@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6397",
+  "year": 2013,
+  "title": "Uluslararası Bitki Koruma Sözleşmesine Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-30",
+  "gazette_issue": "28544",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130130-5.htm",
+  "source_sha256": "e2d97436b642ea47898cdf669a88dd6b8109fc7a9eb9ca84eaa3206b2e9005cb",
+  "text_sha256": "fdb3fcfd6aeec58c67e089b515ad760156f036eddda31fc0ffac66733a751c29",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/30/28544-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130130-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
