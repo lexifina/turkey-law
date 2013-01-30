@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 4170368,
+  "assembly": "TBMM",
+  "term": 24,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Temel Kanun Teklifleri",
+  "summary": "Askerlik Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi; İstanbul Milletvekili Aydın Ağan Ayaydın'ın Askerlik Kanununa Bir Geçici Madde Eklenmesi Hakkında Kanun Teklifi ve İstanbul Milletvekili Bülent Turan ve 34 Milletvekilinin Askerlik Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi ile Türk Silahlı Kuvvetleri Disiplin Kanunu Tasarısı (2/680, 2/1056, 2/1084, 1/730) (S. Sayısı: 394)",
+  "title": "Askerlik Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi; İstanbul Milletvekili Aydın Ağan Ayaydın'ın Askerlik Kanununa Bir Geçici Madde Eklenmesi Hakkında Kanun Teklifi ve İstanbul Milletvekili Bülent Turan ve 34 Milletvekilinin Askerlik Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi ile Türk Silahlı Kuvvetleri Disiplin Kanunu Tasarısı (2/680, 2/1056, 2/1084, 1/730) (S. Sayısı: 394)",
+  "first_sitting_date": "2013-01-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 41,
+      "sitting": 59,
+      "sitting_date": "2013-01-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c041/tbmm24041059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c041/tbmm24041fih.pdf",
+      "pages": [
+        "1113:1209"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=3&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "bb6d93ae139decc1e45a7b868901860ecd172be83c03ef3fb466c16b6ca089fe",
+  "in_force": "2013-01-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
