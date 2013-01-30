@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6395",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sırbistan Cumhuriyeti Hükümeti Arasında Çevre Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-30",
+  "gazette_issue": "28544",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130130-3.htm",
+  "source_sha256": "47931f51bc5f4d5a7e854b3ed2b91b1f919de71a2947d4a2c6d8dbc383705aba",
+  "text_sha256": "6642465fc59142f817e7efd93860be68d63cff1ca35b7ee32df36387f8b8c7c5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/30/28544-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130130-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
