@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-175.01[5-2012/6-1.9.4391]-113",
+  "source_id": 37029,
+  "date": "2013-01-30",
+  "title": "Turizm İşletme Belgesine istinaden yararlandırılacak geçici emlak vergisi muafiyetinin hangi yıllar arasında uygulanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37029",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "24af57e75be21c186427d9b06578132fb59efa9ec5835b3a49f9f10abd78dde0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
