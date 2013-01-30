@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6394",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sırbistan Cumhuriyeti Hükümeti Arasında Başta Terörizm ve Örgütlü Suçlar Olmak Üzere Ağır Suçlarla Mücadelede İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-30",
+  "gazette_issue": "28544",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130130-2.htm",
+  "source_sha256": "2b77d6316f5fbdc1c2b709f2d98fbf546c6eb28ac46d0be7e617251814154bfd",
+  "text_sha256": "66a867b256554cd350902a2dba91e4b0b593d9a3af7e3d6f24df3835ee4f2323",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/30/28544-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130130-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
