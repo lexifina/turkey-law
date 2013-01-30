@@ -1,0 +1,4 @@
+Merkez müdürü
+MADDE 8 – (1) Merkez Müdürü; ulusal ve uluslararası alanda araştırma ve yayınları bulunan, diğer araştırmacılar veya sanayi kuruluşları ile ortak, hakemli Ar-Ge projeleri tamamlamış olan veya bu tür projeleri yürüten veya bu tür projelere danışmanlık yapan, uluslararası çalışmaları olan öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir.
+(2) Süresi biten Merkez Müdürü yeniden görevlendirilebilir. Merkez Müdürü çalışmalarında kendisine yardımcı olmak üzere iki öğretim üyesini Müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar.
+(3) Merkez Müdürünün görevi sona erdiğinde yardımcılarının da görevleri sona erer. Merkez Müdürü görevi başında bulunmadığı zamanlarda yerine Merkez Müdür yardımcılarından birisini vekil bırakır. Vekâlet altı ayı geçemez.

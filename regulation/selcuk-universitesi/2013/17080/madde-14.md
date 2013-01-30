@@ -1,0 +1,3 @@
+Bilimsel danışma kurulu
+MADDE 14 – (1) Bilimsel Danışma Kurulu; Müdür, Müdür yardımcıları ve Yönetim Kurulu üyeleri ile Yönetim Kurulunun önerisi ile uluslararası yayınları ve diğer akademik faaliyetler ile bilimsel ve teknolojik araştırma ve uygulamalar konusunda çalışmaları olan Üniversite öğretim üyeleri arasından, Rektör tarafından üç yıl süre ile görevlendirilen onbeş kişiden oluşur. Bilimsel Danışma Kurulu yılda en az bir kez olmak üzere çoğunluk koşulu aranmaksızın Merkez Müdürünün çağrısı ile toplanır.
+(2) Kurulda görüşülecek konular ile ilgili olarak görüş ve önerilerine ihtiyaç duyulan ilgili kişiler, Müdürün önerisi ve Rektörün onayı ile davet edilebilir.

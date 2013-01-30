@@ -1,0 +1,3 @@
+Merkez müdür yardımcıları
+MADDE 10 – (1) Merkez Müdürünün önerisi ile Rektör tarafından iki Merkez Müdür yardımcısı görevlendirilir. Merkez Müdür yardımcılarının görev süresi Merkez Müdürünün görevinin bitmesi ile birlikte sona erer. Görev süresi biten Merkez Müdür yardımcıları yeniden görevlendirilebilir.
+(2) Merkez Müdür yardımcıları Merkezin etkin ve verimli olarak çalışmasında Merkez Müdürüne karşı sorumlu olup, Merkezin faaliyet alanlarına göre Merkez faaliyetlerinin yürütülmesi ve organizasyonunda Merkez Müdürüne yardımcı olmak üzere, uluslararası yayınları ve diğer akademik faaliyetleri veya Üniversite sanayi işbirliği alanındaki çalışmaları olan Üniversite öğretim üyeleri arasından belirlenir.
