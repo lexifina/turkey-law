@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6400",
+  "year": 2013,
+  "title": "Milletlerarası Finansman Kurumu Ana Anlaşmasının Tadil Edilmesine İlişkin Guvernörler Kurulu Kararının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-30",
+  "gazette_issue": "28544",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130130-8.htm",
+  "source_sha256": "7f19e4478e24eb159005e4e3f1a9afb57205c5178196e5e098d80d80c4a8385e",
+  "text_sha256": "c8ec17e2bff9c8273006f32dd261d136ffe661241ae756aae5c305ec3f44652a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/30/28544-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130130-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
