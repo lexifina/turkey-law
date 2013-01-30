@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6396",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sırbistan Cumhuriyeti Hükümeti Arasında Tarımsal İşbirliği Konulu Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-30",
+  "gazette_issue": "28544",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130130-4.htm",
+  "source_sha256": "9c934dcd22dbab9952193ce946aa4228189f994c221186d32ee756781af97bf2",
+  "text_sha256": "5981a8b65cb7ede2d835785c758a6b545ea02c4780a6218799924e4b831e469a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/30/28544-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130130-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
