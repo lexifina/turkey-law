@@ -1,0 +1,5 @@
+TÜRK SİLAHLI KUVVETLERİ HAVA TRAFİK KONTROL HİZMETLERİ PERSONELİ LİSANS VE DERECELENDİRME YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı, Türk Silahlı Kuvvetlerinin sorumluluğunda olan hava sahası ve askeri meydanlar ile iniş-kalkış alanlarını kullanan sivil ve askeri hava trafiğinin emniyetli, düzenli ve hızlı akışını temel alan hava trafik kontrol hizmetlerinin etkinliğinin sağlanmasını temin etmek için, hava üs komutanlıkları, hava meydan/alay komutanlıklarında çalışmakta olan askeri hava trafik kontrol hizmetleri personelinin (subay/astsubay) Uluslararası Sivil Havacılık Teşkilatı ICAO Şikago Sözleşmesinin 1 inci Eki ve EUROCONTROL Teşkilatı tarafından yayımlanan ESARR-5 Hava Trafik Kontrolörleri Avrupa Lisanslandırma Düzenlemesi paralelinde sahip olması gereken sağlık, eğitim ve uzmanlık şartlarının belirlenmesine, lisans, sertifika ve derecelerinin verilmesine, muhafaza edilmesine, yenilenmesine, süreli olarak askıya alınmasına veya süresiz olarak iptal edilmesine ilişkin esasların düzenlenmesi ve emniyet standartlarının muhafaza edilerek geliştirilmesidir.

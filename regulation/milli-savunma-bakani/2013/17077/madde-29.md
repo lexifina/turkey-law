@@ -1,0 +1,2 @@
+Lisans sınav hakkı
+MADDE 29 – (1) Askeri hava trafik kontrolörü lisans sınavlarında başarısızlık halinde, ilgili personelin bir sonraki lisans sınavı en geç 4 ay içerisinde tekrar yapılır. Lisans sınavında toplam üç defa başarısız olanlar askeri hava trafik kontrolörü lisansı alma hakkını kaybederler. Askeri hava trafik kontrolörü lisansı alma hakkını kaybeden personele branş değişimi için kuvvet komutanlıkları tarafından yürürlükteki personel yönetimi ve ilgili mevzuata uygun idari işlemler uygulanır.

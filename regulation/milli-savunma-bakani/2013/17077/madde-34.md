@@ -1,0 +1,2 @@
+Muharebe sahası ihtiyaçları
+MADDE 34 – (1) Kuvvet komutanlıklarının ihtiyacına istinaden, kontrollü hava sahası dışında ve harekât ortamında, bu Yönetmelikte yer alan eğitim, sağlık ve diğer ölçütleri kısmen karşılayan veya karşılamayan ancak askeri harekatın devamlılığı açısından zaruret arz eden konularda ilgili kuvvet komutanlıkları istisnai tedbir alabilirler. Ancak bu kapsamda yer alan personele hiç bir şartta Türk Silahlı Kuvvetleri Askeri Hava Trafik Kontrolörü Lisansı verilmez ve lisansın sağladığı ayrıcalıklardan yararlanamaz.

@@ -1,0 +1,10 @@
+Süreli veya süresiz görevden el çektirme
+MADDE 18 – (1) Kuvvet komutanlıkları, hava trafik kontrol ünitelerinde görev yapan ve doğrudan hava trafik kontrol hizmetlerine yönelik olan görevlerde çalışan asistan ve aday dahil tüm hava trafik kontrolörlerinin;
+a) ICAO Şikago Sözleşmesinin 1 inci Eki Sınıf 3 gerekliliklerini karşılayan zihinsel, ruhsal ve fiziki yeterliliklerinde azalma olması,
+b) Ünite eğitim planlarına riayet etmemesi, çalışma ortamını bozacak ve iş akışını engelleyecek davranışlarda bulunması,
+c) Görevini emniyetli ve tam olarak yapmasını engelleyici alkol ve psikoaktif madde kullanım alışkanlığının belgelenmesi,
+ç) Mesleki yetersizliğinin tespit edilmesi veya çok ciddi hava olayına veya kazaya sebebiyet vermesi durumunda,
+kişinin hizmete devam ettirilmemesi yönünde derecesini veya derecelerini en az 1 ay, en fazla 6 ay olmak koşuluyla süreli olarak askıya alır veya süresiz olarak iptal eder. Bu kişi söz konusu derecede asistan hava trafik kontrolörü olarak görevlendirilmeye devam edilebileceği gibi devam ettirdiği diğer dereceler itibarıyla hava trafik hizmetlerindeki görevlere devam edebilir.
+(2) Birinci fıkranın (a), (b), (c) ve (ç) bentlerinde sayılan durumların devamlılık göstermesi veya büyük bir ihmal ya da görevi kötüye kullanma durumunun tespiti hallerinde personelin, Türk Silahlı Kuvvetleri Askeri Hava Trafik Kontrolörü Lisansı veya aday askeri hava trafik kontrolörü sertifikasının en az 1 ay, en fazla 6 ay olmak koşuluyla süreli olarak askıya alınması veya süresiz olarak iptal edilmesi için görevden el çektirilen personele ait belgeler Genelkurmay Başkanlığına gönderilir.
+(3) Kuvvet komutanlıkları, hava trafik kontrol hizmetleri personelinin, hava trafik ünitelerinin etkinlikle hizmet etmesine ve hava trafik emniyetinin muhafazasına yönelik olarak belirlenen idari kurallarına ve görev disiplinine uymaması, sertifika, lisans ve derece almaktan kaçınması durumlarında bu madde çerçevesinde gerekli mesleki ve idari tedbirleri alır.
+(4) Lisansı iptal edilen personele yönelik yapılacak olan idari işlemler yürürlükteki personel yönetimi ile ilgili diğer mevzuata uygun olarak yapılır.

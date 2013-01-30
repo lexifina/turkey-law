@@ -1,0 +1,2 @@
+Geçiş eğitimi
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce Türk Silahlı Kuvvetleri bünyesinde hava trafik kontrol hizmetleri personeli için tarif edilen pozisyonlarda halen görevli çalışan personelin bu Yönetmelik hükümlerine uyumuna yönelik kuvvet komutanlıkları eğitim ve sağlık şartlarının sağlanması kapsamında gerekli tedbirleri alır. Eğitim ile ilgili ilave bir geçiş eğitimi Hava Kuvvetleri Komutanlığı tarafından bir plan dahilinde sağlanır.

@@ -1,0 +1,2 @@
+Emeklilik veya istifa yolu ile Türk Silahlı Kuvvetlerinden ayrılan personelin belge talebi
+GEÇİCİ MADDE 3 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce emeklilik veya istifa yolu ile Türk Silahlı Kuvvetlerinden ayrılan askeri hava trafik kontrol personeline yönelik olarak, Yönetmeliğin yürürlüğe giriş tarihinden itibaren 6 ay içerisinde bireysel müracaatta bulunulması durumunda, söz konusu personele eğitimi ve çalıştığı hava trafik kontrol ünitelerine ilişkin belgeler kuvvet komutanlıkları tarafından verilir.

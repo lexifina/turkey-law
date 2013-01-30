@@ -1,0 +1,3 @@
+Askeri hava trafik kontrol öğretmenliği şartları
+MADDE 26 – (1) En az 5 yıl askeri hava trafik kontrolörü olarak çalışmış, temel öğretmen kursu veya temel öğretmen eğitimi görmüş, görev başı eğitimi eğiticisi sertifikasına sahip bir askeri hava trafik kontrolörü, Hava Kuvvetleri Komutanlığı tarafından teorik ve uygulamalı eğitimler için askeri hava trafik kontrol öğretmeni olarak görevlendirilebilir.
+(2) Yükseköğretim kurumlarının hava trafik kontrol bölümlerinde temel teori ve laboratuar derslerini yürüten öğretim görevlileri de teorik ve uygulamalı eğitimler için askeri hava trafik kontrol öğretmeni olarak görevlendirilebilir.

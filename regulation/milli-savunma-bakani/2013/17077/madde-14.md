@@ -1,0 +1,3 @@
+Hava trafik kontrol ünite eğitim ve değerlendirme planı
+MADDE 14 – (1) Kuvvet komutanlıkları, uluslararası standartlara uygun olarak bu Yönetmelikte belirtilen ölçütler paralelinde bir askeri hava trafik kontrolörünün düzenli olarak takip etmesi gereken, olağanüstü durumları da içeren, temel eğitimde kazanılan bilgi ve becerinin mahalli usullere uygulanmasına ve derece almaya yönelik olan teorik ve pratik eğitimleri ve bunlara ilişkin değerlendirme planlarını hazırlar, günceller ve uygulanmasına yönelik kayıtların tutulmasını sağlar.
+(2) Ünite eğitim ve değerlendirme planları uygunlukları onaylanmak üzere kuvvet komutanlıkları tarafından Genelkurmay Başkanlığına veya Genelkurmay Başkanlığının görevlendireceği kuvvet komutanlığına gönderilir.

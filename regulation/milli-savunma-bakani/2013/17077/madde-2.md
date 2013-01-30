@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, düzenleyici makam olarak Genelkurmay Başkanlığını, hizmet sağlayıcı olarak kuvvet komutanlıklarını ve üs, meydan veya alay komutanlıklarında hava trafik hizmeti vermekle görevli Türk Silahlı Kuvvetleri mensubu askeri hava trafik kontrolörü subay ve astsubaylar ile hava trafik kontrol hizmetlerinde görevli personeli ve bu Yönetmeliği uygulamakla görevli kişi, makam ve kuruluşları kapsar.
