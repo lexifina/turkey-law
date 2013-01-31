@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6406",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Danimarka Krallığı Hükümeti Arasında Enerji Alanında İş-birliğine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-31",
+  "gazette_issue": "28545",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130131-27.htm",
+  "source_sha256": "75d7a052f83760ecf9f8e56a698d6ef7b97639530c46549dbbfb8d4a830f6bb2",
+  "text_sha256": "55921d8aacbee174e7734b46bdabbb3a8a5b6da09f2d65aae3a7b2052e840982",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/31/28545-27",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130131-27.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
