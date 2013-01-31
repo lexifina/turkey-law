@@ -804,12 +804,19 @@ Madde 201 – (1) Cumhuriyet savcısı, müdafi veya vekil sıfatıyla duruşmay
 Tercüman bulundurulacak hâller
 Madde 202 – (1) Sanık veya mağdur, meramını anlatabilecek ölçüde Türkçe bilmiyorsa; mahkeme tarafından atanan tercüman aracılığıyla duruşmadaki iddia ve savunmaya ilişkin esaslı noktalar tercüme edilir.
 (2) Engelli olan sanığa veya mağdura, duruşmadaki iddia ve savunmaya ilişkin esaslı noktalar, anlayabilecekleri biçimde anlatılır.
-(3) Bu madde hükümleri, soruşturma evresinde dinlenen şüpheli, mağdur veya tanıklar hakkında da uygulanır. Bu evrede tercüman, hâkim veya Cumhuriyet savcısı tarafından atanır.
+(3) Birinci ve ikinci fıkra hükümleri, soruşturma evresinde dinlenen şüpheli, mağdur veya tanıklar hakkında da uygulanır. Bu evrede tercüman, hâkim veya Cumhuriyet savcısı tarafından atanır.(1)
+(4) (Ek: 24/1/2013-6411/ 1 md.) Ayrıca sanık;
+a) İddianamenin okunması,
+b) Esas hakkındaki mütalaanın verilmesi,
+üzerine sözlü savunmasını, kendisini daha iyi ifade edebileceğini beyan ettiği başka bir dilde yapabilir. Bu durumda tercüme hizmetleri, beşinci fıkra uyarınca oluşturulan listeden, sanığın seçeceği tercüman tarafından yerine getirilir. Bu tercümanın giderleri Devlet Hazinesince karşılanmaz. Bu imkân, yargılamanın sürüncemede bırakılması amacına yönelik olarak kötüye kullanılamaz.
+(5) (Ek: 24/1/2013-6411/ 1 md.) Tercümanlar, il adlî yargı adalet komisyonlarınca her yıl düzenlenen listede yer alan kişiler arasından seçilirler. Cumhuriyet savcıları ve hâkimler yalnız bulundukları il bakımından oluşturulmuş listelerden değil, diğer illerde oluşturulmuş listelerden de tercüman seçebilirler. Bu listelerin düzenlenmesine ilişkin usul ve esaslar yönetmelikle belirlenir.
 ÜÇÜNCÜ BÖLÜM
 Duruşmanın Düzen ve Disiplini
 Hâkim veya başkanın yetkisi
 Madde 203 – (1) Duruşmanın düzeni, mahkeme başkanı veya hâkim tarafından sağlanır.
 (2) Mahkeme başkanı veya hâkim, duruşmanın düzenini bozan kişinin, savunma hakkının kullanılmasını engellememek koşuluyla salondan çıkarılmasını emreder.
+_________________
+(1) 24/1/2013 tarihli ve 6411 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “Bu madde hükümleri,” ibaresi “Birinci ve ikinci fıkra hükümleri,” şeklinde değiştirilmiştir.
 9155
 (3) Kişi dışarı çıkarılması sırasında direnç gösterir veya karışıklıklara neden olursa yakalanır ve hâkim veya mahkeme tarafından, avukatlar hariç, verilecek bir kararla derhâl dört güne kadar disiplin hapsine konulabilir. Ancak çocuklar hakkında disiplin hapsi uygulanmaz.
 Sanığın dışarı çıkarılması
@@ -989,7 +996,7 @@ Madde 232 – (1) Hükmün başına, "Türk Milleti adına" verildiği yazılır
 (2) Hükmün başında;
 a) Hükmü veren mahkemenin adı,
 b) Hükmü veren mahkeme başkanının ve üyelerinin veya hâkimin, Cumhuriyet savcısının ve zabıt kâtibinin, katılanın, mağdurun, vekilinin, kanunî temsilcisinin ve müdafiin adı ve soyadı ile sanığın açık kimliği,
-9160-2 9161
+9161
 c) Beraat kararı dışında, suçun işlendiği yer, tarih ve zaman dilimi,
 d) Sanığın gözaltında veya tutuklu kaldığı tarih ve süre ile halen tutuklu olup olmadığı,
 Yazılır.
@@ -1543,6 +1550,8 @@ ______________
 (2) Bilgi istenen yazıda yukarıdaki fıkra hükmü ile buna aykırı hareket etmenin Türk Ceza Kanununun 257 nci maddesine aykırılık oluşturabileceği yazılır. Bu durumda haklarında kamu davasının açılması, izin veya karar alınmasına bağlı bulunan kişiler hakkında, yasama dokunulmazlığı saklı kalmak üzere, doğrudan soruşturma yapılır.
 Yönetmelik
 Madde 333 – (1) Bu Kanunda öngörülen yönetmelikler, aksine hüküm bulunmadıkça, ilgili bakanlıkların görüşü alınarak Adalet Bakanlığı tarafından çıkarılır.
+Geçici Madde 1 – (24/1/2013-6411/2 md.)
+(1) Bu Kanunun 202 nci maddesinin beşinci fıkrasında öngörülen yönetmelik, Adalet Bakanlığınca bu maddeyi ihdas eden Kanunun yürürlüğe girdiği tarihten itibaren bir ay içinde çıkarılır. Bu yönetmelik uyarınca tercüman listeleri oluşturuluncaya kadar bu Kanunun 202 nci maddesinin dördüncü fıkrasında düzenlenen tercüme hizmetleri sanığın kendisi tarafından getirilen tercüman tarafından yerine getirilir.
 Yürürlük
 Madde 334 – (1) Bu Kanun, 1 Haziran 2005 tarihinde yürürlüğe girer. (1)
 Yürütme
