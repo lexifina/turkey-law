@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6410",
+  "year": 2013,
+  "title": "Yükseköğretim Kurumları Teşkilatı Kanunu ile Bazı Kanun ve Kanun Hükmünde Karar-namelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-31",
+  "gazette_issue": "28545",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130131-31.htm",
+  "source_sha256": "74712a033ba487a5a33b0598d4386e79852a6f05f225dfa7715a315c9289c09c",
+  "text_sha256": "e6d0fab5e52c292550508939a85cae595534b8bd5c4611de74dada128aa2f8c5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/31/28545-31",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130131-31.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
