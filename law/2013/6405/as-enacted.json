@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6405",
+  "year": 2013,
+  "title": "1979 Denizde Arama ve Kurtarma Uluslararası Sözleşmesine İlişkin Değişikliklerin Kabulüne Dair Karara Katılmamızın Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-31",
+  "gazette_issue": "28545",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130131-26.htm",
+  "source_sha256": "ba05b52db89c0d0a7ed1541556a256cfb410f668904f066baa199b3b05fe15f6",
+  "text_sha256": "9f52e132146ca64d6a887d2933be7d3aca1e3d2a00f490559462b0ccd2c37310",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/31/28545-26",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130131-26.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
