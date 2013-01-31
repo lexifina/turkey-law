@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6407",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Avustralya Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması ve Anlaşmaya İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-31",
+  "gazette_issue": "28545",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130131-28.htm",
+  "source_sha256": "47cf761cc30b523bd1b4d50e1166af5a92ec4c3f959146a78b145248320bfe0c",
+  "text_sha256": "a5a8975c99e1e0fb4c28e0e2e9037b1ea8f2bf74ad707333a4424e6784a99241",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/31/28545-28",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130131-28.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
