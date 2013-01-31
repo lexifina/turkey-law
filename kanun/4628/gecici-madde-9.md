@@ -1,4 +1,5 @@
-Geçici Madde 9 – (Ek: 10/5/2006-5496/6 md., Değişik: 9/7/2008-5784/7 md.)
-31/12/2012 tarihinde sona erecek geçiş döneminde düzenlemeye tâbi tarifeler üzerinden elektrik enerjisi satın alan tüketicileri, dağıtım bölgeleri arası maliyet farklılıkları nedeniyle var olan fiyat farklılıklarından kısmen veya tamamen koruyacak şekilde tesis edilmiş ve uygulamaya ilişkin hususları tebliğle düzenlenmiş olan fiyat eşitleme mekanizması uygulanır. Tüm kamu ve özel dağıtım şirketleri fiyat eşitleme mekanizması içerisinde yer alır.
-Geçiş dönemi süresince ulusal tarife uygulamasının gerekleri esas alınır ve ulusal tarifede çapraz sübvansiyon uygulanır. Ulusal tarife Kurumca hazırlanır ve Kurul onayıyla yürürlüğe girer. Kurul onaylı çapraz sübvansiyon ancak Bakanlar Kurulu kararı ile değiştirilebilir.
-Geçiş dönemi süresince tüm hesaplar ilgili mevzuata göre ayrıştırılarak tutulur.
+Geçici Madde 9 – (Ek: 10/5/2006-5496/6 md., Değişik: 22/1/2013-6408/2 md.)
+Düzenlemeye tâbi tarifeler üzerinden elektrik enerjisi satın alan tüketicileri, dağıtım bölgeleri arası maliyet farklılıkları nedeniyle var olan fiyat farklılıklarından kısmen veya tamamen koruyacak şekilde tesis edilmiş ve uygulamaya ilişkin hususları Kurum tarafından hazırlanan tebliğ ile düzenlenmiş fiyat eşitleme mekanizması 31/12/2015 tarihine kadar uygulanır. Tüm kamu ve özel dağıtım şirketleri ile 3 üncü maddenin birinci fıkrasının (c) bendinin (3) numaralı alt bendi uyarınca kurulan perakende satış şirketleri fiyat eşitleme mekanizması içerisinde yer alır.
+31/12/2015 tarihine kadar ulusal tarife uygulamasının gerekleri esas alınır ve ulusal tarifede çapraz sübvansiyon uygulanır. Ulusal tarife Kurumca hazırlanır ve Kurul onayıyla yürürlüğe girer.
+31/12/2015 tarihine kadar tüm hesaplar ilgili mevzuata göre ayrıştırılarak tutulur.
+Bu madde kapsamındaki sürelerin beş yıla kadar uzatılmasına Bakanlar Kurulu yetkilidir.
