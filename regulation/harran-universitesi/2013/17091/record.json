@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-01-31",
+      "31.01.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28545",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-01-31",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Harran Üniversitesi",
+  "issuer_slug": "harran-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/harran-universitesi/2013/17091",
+  "published": "2013-01-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=17091&MevzuatTertip=5",
+  "source_bytes": 24593,
+  "source_id": "8.5.17091",
+  "source_sha256": "454b4298d8f9b4445f79dc28e5285fd7cd39b021709ccf8cb360218bf9f6100b",
+  "text_status": "as-enacted",
+  "title": "HARRAN ÜNİVERSİTESİ ÇOCUK EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 200,
+  "word_count": 976
+}
