@@ -11,4 +11,4 @@ Dış denetim sırasında, kamu idarelerinin iç denetçileri tarafından düzen
 Denetimler sonucunda; ikinci fıkranın (a) ve (b) bentlerinde belirtilen hususlarda düzenlenen raporlar, idareler itibarıyla konsolide edilir ve bir örneği ilgili kamu idaresine verilerek üst yönetici tarafından cevaplandırılır. Sayıştay, denetim raporları ve bunlara verilen cevapları dikkate alarak düzenleyeceği dış denetim genel değerlendirme raporunu Türkiye Büyük Millet Meclisine sunar.
 Sayıştay tarafından hesapların hükme bağlanması; genel yönetim kapsamındaki kamu idarelerinin gelir, gider ve mal hesapları ile bu hesaplarla ilgili işlemlerinin yasal düzenlemelere uygun olup olmadığına karar verilmesidir.
 Dış denetim ve hesapların hükme bağlanmasına ilişkin diğer hususlar ilgili kanununda düzenlenir.
-(…) (1) Sayıştayın denetlenmesi(1)
+(…) (1)Sayıştayın denetlenmesi(1)

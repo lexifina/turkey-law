@@ -187,6 +187,7 @@ A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLER
 103) (Ek: 14/7/2010-6005/2 md.; Değişik: 30/3/2012-6287/22 md.) Abdullah Gül Üniversitesi
 104) (Ek: 14/7/2010-6005/2 md.) Erzurum Teknik Üniversitesi
 105) (Ek: 31/3/2011-6218/2 md.) Adana Bilim ve Teknoloji Üniversitesi
+106) (Ek: 22/1/2013-6410/5 md.) Ankara Sosyal Bilimler Üniversitesi
 –––––––––––––––––
 (1) 19/6/2008 tarihli ve 5773 sayılı Kanunun 2 nci maddesiyle 28/3/1983 tarihli ve 2809 sayılı Kanuna eklenen Geçici 38 inci maddesinde; 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununda Ağrı Dağı Üniversitesine yapılmış olan atıfların Ağrı İbrahim Çeçen Üniversitesine yapılmış sayılacağı hüküm altına alınmıştır.
 8690-8
@@ -237,7 +238,7 @@ _____________________
 36) (Ek: 21/9/2006-5544/31 md.) Meslekî Yeterlilik Kurumu(3)
 37) (Ek: 24/3/2010-5978/30 md.) Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
 38) (Ek: 28/12/2010-6093/14 md.) Türkiye Yazma Eserler Başkanlığı
-39) (Ek: 6/3/2011-KHK-643/13 md.) Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı
+39) (Ek: 6/3/2011-KHK-643/13 md.)Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı
 40) (Ek: 6/3/2011-KHK-643/13 md.) Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı
 41) (Ek: 8/8/2011-KHK-649/60 md.)Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı
 42) (Ek: 11/10/2011-KHK-662/58 md.) Devlet Su İşleri Genel Müdürlüğü
@@ -266,6 +267,6 @@ _______________________
 (2) Bu sırada yer alan “Kamu Denetçiliği Kurumu”, 28/9/2006 tarihli ve 5548 sayılı Kanunun Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile tümüyle iptal edilmesinden dolayı yürürlükten kaldırılmış;14/6/2012 tarihli ve 6328 sayılı Kanunun 35 inci maddesi ile yeniden düzenlenmiştir.
 (3) 28/9/2006 tarihli ve 5548 sayılı Kanunun 36 ncı maddesiyle bu bölüme “29) Kamu Denetçiliği Kurumu” ibaresinin eklenmesinden dolayı, bu kurumlara ait sıra numaraları yeniden teselsül ettirilmiştir.
 (4) 25/6/2009 tarihli ve 5917 sayılı Kanunun 47 nci maddesiyle; bu Cetvelde yer alan “Telekomünikasyon Kurumu” ibaresi “Bilgi Teknolojileri ve İletişim Kurumu”, “Tütün, Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumu” ibaresi “Tütün ve Alkol Piyasası Düzenleme Kurumu” olarak değiştirilmiş ve metne işlenmiştir.
-(5) 24/10/2011 tarihli ve 656 sayılı KHK’nin 20 nci maddesiyle, bu bölümün 30 uncu sırasnda yer alan “Türk İşbirliği ve Kalkınma İdaresi Başkanlığı” ibaresi “Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı” olarak değiştirilmiş ve metne işlenmiştir.
-(6) 26/9/2011 tarihli ve 660 sayılı KHK’nin 32 nci maddesiyle, bu cetvele “9) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu” sırası eklenmiştir.
+(5) 24/10/2011 tarihli ve 656 sayılı KHK’nin 20 nci maddesiyle, bu bölümün 30 uncu sırasnda yer alan “Türk İşbirliği ve Kalkınma İdaresi Başkanlığı” ibaresi “Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı”olarak değiştirilmiş ve metne işlenmiştir.
+(6) 26/9/2011 tarihli ve 660 sayılı KHK’nin 32 nci maddesiyle, bu cetvele “9) KamuGözetimi, MuhasebeveDenetimStandartlarıKurumu” sırası eklenmiştir.
 8690-10

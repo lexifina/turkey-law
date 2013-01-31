@@ -55,3 +55,4 @@ KHK/663 | (I) ve (II) Sayılı Cetvel | 2/11/2011
 6328 | (II) Sayılı Cetvel | 29/6/2012
 6332 | (II) Sayılı Cetvel | 29/6/2012
 6338 | 15, 20, 25, 31, 51, 79 | 1/1/2013
+6410 | (II) Sayılı Cetvel | 31/1/2013
