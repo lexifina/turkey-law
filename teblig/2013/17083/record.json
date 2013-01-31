@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.17083",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SULAK ALANLAR TEBLİĞİ (TEBLİĞ NO: 6)",
+  "number": "17083",
+  "path": "teblig/2013/17083",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17083&MevzuatTertip=5",
+  "source_sha256": "b8fef41b2bb84d891b7d624a56b5ff0c40ee52167809ac46fd6b278f250e2714",
+  "source_bytes": 8725,
+  "published": "2013-01-31",
+  "gazette": "28545",
+  "in_force": "2013-01-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.01.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 251,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.17083%20ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
