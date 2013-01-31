@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6409",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti ve Slovakya Cumhuriyeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-31",
+  "gazette_issue": "28545",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130131-30.htm",
+  "source_sha256": "d21bcbdd396326360fc87b9467ef3b65bd1c5846446034fe92b56c6f9bbfccb6",
+  "text_sha256": "1d5bd49aa9e023b640b51bdf64f6d0b8b73a68c73cd4e2da09395559df78a684",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/31/28545-30",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130131-30.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
