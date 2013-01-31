@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6411",
+  "year": 2013,
+  "title": "Ceza Muhakemesi Kanunu ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-01-31",
+  "gazette_issue": "28545",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130131-32.htm",
+  "source_sha256": "3077df15372b5e9d8a4e6f97d77eaf453f0d720d46920534d53d7499550e57e3",
+  "text_sha256": "c74d1acf52eef5f08c349ee3571d249122f5903a8bdb15d0402d3be584b219f1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/01/31/28545-32",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/01/20130131-32.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
