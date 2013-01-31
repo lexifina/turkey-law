@@ -3,7 +3,6 @@ Hazırlık dönemi kapsamında:
 a) Dönem süresince;
 1. Piyasada faaliyet göstermekte olan tüzel kişilerin lisans alma zorunlulukları bulunmamaktadır.
 2. Elektrik Piyasası Düzenleme Kurumunun görevlerini etkin, verimli ve eksiksiz olarak yerine getirebilecek seviyeye en kısa zamanda erişebilmesi için Kurumun iş süreçlerinin tasarımını, ilgili yöntem, standart ve dokümanların geliştirilmesini, bilişim alt yapısının ve sistemlerinin tasarım, geliştirme ve uygulamasını ve Kurum personeli için gerekli olacak eğitim programlarını da içeren Kurum gelişim süreci, Kanunun yürürlüğe girmesini müteakip Bakanlık tarafından başlatılır ve Kurulun oluşmasını müteakip Kurul tarafından üstlenilerek Bakanlık ile koordinasyon içinde yürütülerek tamamlanır.
-7854-4
 7855
 3. Bu Kanunla düzenlenmesi gereken yönetmelikler hazırlanır ve yayımlanır. Bu Kanun hükümlerine göre çıkarılacak yönetmelikler yürürlüğe girinceye kadar mevcut yönetmeliklerin uygulanmasına devam olunur.
 4. Şebeke yönetmeliği, dağıtım yönetmeliği, müşteri hizmetleri yönetmeliği ve dengeleme ve uzlaştırma yönetmeliği bu Kanunda görevlendirilen kamu kuruluşları tarafından hazırlanır. Hazırlık döneminin bitmesinden önce tamamlanmaları halinde dengeleme ve uzlaştırma yönetmeliği hariç yürürlüğe konmaları için gerekli çalışmalar, Kurul oluşturulana kadar, Bakanlıkla koordineli olarak, Kurulun oluşumunu müteakip, Kurulla koordineli olarak bu yönetmelikleri hazırlayan kuruluşlar tarafından yürütülür.

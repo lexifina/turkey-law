@@ -1,5 +1,5 @@
 Hükümlülerin gruplandırılması
-MADDE 24.- (1) Hükümlüler;
+Madde 24- (1) Hükümlüler;
 a) İlk defa suç işleyenler, mükerrirler, itiyadî suçlular veya suç işlemeyi meslek edinenler,
 b) Aklî ve bedensel durumları nedeniyle veya yaşları itibarıyla özel bir infaz rejimine tâbi tutulması gerekenler,
 c) Tehlike hâli taşıyanlar,

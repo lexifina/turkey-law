@@ -1,0 +1,3 @@
+Geçici Madde 5 - (Ek: 9/7/2008-5784/10 md.) (1)(2)
+31/12/2019 tarihine kadar, Kanuna ekli (І) sayılı listenin (A) cetvelinde yer alan 2710.19.61.00.11, 2710.19.63.00.11, 2710.19.65.00.11 ve 2710.19.69.00.11 G.T.İ.P. numaralı malların yalnızca elektrik üretiminde kullanılmak üzere teslimi ile birincil yakıtı doğalgaz ve ikincil yakıtı akaryakıt olan santrallara Enerji ve Tabii Kaynaklar Bakanlığı talimatı veya onayı ile Kanuna ekli (I) sayılı listenin (A) cetvelinde yer alan 2710.19.41.00.11, 2710.19.41.00.13 ve 2710.19.45.00.12 G.T.İ.P. numaralı malların aynı amaçla kullanılmak üzere teslimi vergiden müstesnadır.
+Bu maddenin uygulanmasına ilişkin usul ve esasları Maliye Bakanlığı belirlemeye yetkilidir.

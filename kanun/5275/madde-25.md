@@ -1,5 +1,5 @@
 Ağırlaştırılmış müebbet hapis cezasının infazı
-MADDE 25.- (1) Ağırlaştırılmış müebbet hapis cezasının infazı rejimine ait esaslar aşağıda gösterilmiştir:
+Madde 25- (1) Ağırlaştırılmış müebbet hapis cezasının infazı rejimine ait esaslar aşağıda gösterilmiştir:
 a) Hükümlü, tek kişilik odada barındırılır.
 b) Hükümlüye, günde bir saat açık havaya çıkma ve spor yapma hakkı tanınır.
 c) Risk ve güvenlik gerekleri ile iyileştirme ve eğitim çalışmalarında gösterdiği gayret ve iyi hâle göre; hükümlünün, açık havaya çıkma ve spor yapma süresi uzatılabileceği gibi kendisi ile aynı ünitede kalan hükümlülerle temasta bulunmasına sınırlı olarak izin verilebilir.

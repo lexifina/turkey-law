@@ -1,5 +1,5 @@
 Çocuk hükümlüler hakkında uygulanabilecek disiplin cezaları
-MADDE 46.- (1) Uyarma: Çocuğa eyleminin niteliğinin kötü ve uygunsuz olduğunun açıklanması ve tekrarı durumunda doğuracağı sonuçlara dikkatinin çekilmesidir. Uyarma cezasını gerektiren eylemler şunlardır:
+Madde 46- (1) Uyarma: Çocuğa eyleminin niteliğinin kötü ve uygunsuz olduğunun açıklanması ve tekrarı durumunda doğuracağı sonuçlara dikkatinin çekilmesidir. Uyarma cezasını gerektiren eylemler şunlardır:
 a) Yatakhane, atölye, etüt salonu, kütüphane ve buna benzer yerlerde sigara içmek.
 b) Aynı alanı veya etkinliği paylaştığı arkadaşlarının rahatsız olmasına neden olacak biçimde gürültü yapmak veya davranışlarda bulunmak.
 c) Yattığı odayı ve yatma yerlerini izinsiz değiştirmek.
@@ -26,6 +26,7 @@ h) İyileştirme ve eğitim faaliyetlerinde kendisine verilen ödev ve görevler
 ı) Kurum kitaplığından, atölye ve derslik gibi yerlerden aldığı kitap, araç ve gereçleri zamanında geri vermemek, eksik vermek ve bunlara zarar vermek.
 j) Dikkatsizlikle kurumun bina, eklenti ve donanımları ile kuruma ait taşınır ve taşınmaz malları veya başkasına ait herhangi bir eşyayı yakmak, kırmak veya hasara uğratmak.
 k) Üzerinde bulundurulmasına izin verilmeyen veya bulundurabileceğinden fazla eşya veya para bulundurmak.
+9233
 l) Yasaklanmış her tür yayını kuruma veya kuruma bağlı yerlere sokmak veya yanında bulundurmak.
 m) Kurum eşyasına, kendisinin veya arkadaşlarının araç ve gereçlerine ahlâk dışı, ideolojik veya siyasî amaç taşıyan resim, amblem ve benzerlerini yapmak, yazılar yazmak ve asmak.
 (4) Harcamalarına sınır koyma: Çocuğun daha önce onarma, tazmin etme ve eski hâle getirme cezası verilmiş olan davranışı ikinci kez tekrarlaması hâlinde çalışması karşılığında aldığı ücret ve ailesinden gelen paranın haftalık harcama limitinin üçte birinin otuz gün süre ile kesilmesidir.
@@ -48,6 +49,7 @@ d) Taarruz ve firara yarayacak ve gerektiğinde bu işler için kullanılabilece
 e) İdareye ait olup kendisine verilmemiş bulunan yatak, battaniye, karyola ve dolap gibi eşyayı zapt etmek ve yeni gelenlere satmak.
 f) Kurum görevlilerine hakaret etmek, karşı gelmek.
 g) Başkalarının güvenliğini veya sağlığını tehlikeye sokan davranışlarda bulunmak.
+9234
 h) Mazeretsiz olarak izinden dönmesi gereken zamandan geç dönmek ve uyması gereken koşullara uymamak.
 ı) Kuruma yasak eşya sokmak, başkasına vermek veya satmak.
 j) Okul, işyeri gibi gitmesi gereken bir yere gitmemek, katılması gereken faaliyetlere katılmamak.

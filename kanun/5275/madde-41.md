@@ -1,5 +1,5 @@
 Ücret karşılığı çalışılan işten yoksun bırakma
-MADDE 41.- (1) Ücret karşılığı çalışılan işten yoksun bırakma cezası, hükümlünün kurum yönetiminde ücret karşılığı çalıştığı işten bir aydan üç aya kadar yoksun bırakılmasıdır.
+Madde 41- (1) Ücret karşılığı çalışılan işten yoksun bırakma cezası, hükümlünün kurum yönetiminde ücret karşılığı çalıştığı işten bir aydan üç aya kadar yoksun bırakılmasıdır.
 (2) Ücret karşılığı çalışılan işten yoksun bırakma cezasını gerektiren eylemler şunlardır:
 a) İş elbisesini giymemek.
 b) İş yerini izinsiz terk etmek.

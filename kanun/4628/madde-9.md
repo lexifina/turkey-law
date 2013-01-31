@@ -1,5 +1,5 @@
 Kurum personelinin statüsü, atanma usulü ve özlük hakları
-Madde 9 – Kurumun hizmet birimleri; Kurum görev ve yetkilerinin gerektirdiği sayıda daire başkanlıkları şeklinde teşkilatlanmış ana hizmet birimleri, danışma birimleri ve yardımcı hizmet birimlerinden oluşur. (İptal ikinci cümle: Anayasa Mahkemesi’nin 10/3/2011 tarihli ve E.: 2009/90, K.: 2011/47 sayılı Kararı ile.) (…)
+Madde 9 – Kurumun hizmet birimleri; Kurum görev ve yetkilerinin gerektirdiği sayıda daire başkanlıkları şeklinde teşkilatlanmış ana hizmet birimleri, danışma birimleri ve yardımcı hizmet birimlerinden oluşur. (İptal ikinci cümle: Anayasa Mahkemesi’nin 10/3/2011 tarihli ve E.: 2009/90, K.: 2011/47 sayılı Kararı ile.)
 Kurum hizmetlerinin gerektirdiği asli ve sürekli görevler, idari hizmet sözleşmesi ile sözleşmeli olarak istihdam edilen personel eliyle yürütülür. Kurum personeli ücret ve mali haklar dışında 657 sayılı Devlet Memurları Kanununa tabidir.
 Kurum için çalıştıkları süre zarfında, tüm personelin, Kurumdaki görevlerine başlamadan önceki sosyal güvenlik kurumları tarafından sağlanan her türlü hakları saklı kalır.
 Yerli ve yabancı uzmanlar, birinci fıkrada belirtilen yönetmelik kapsamında, Başkanlığın hazırlayıp Kurulun onayı ile yürürlüğe konacak yönetmelik esaslarına göre istihdam edilebilir.

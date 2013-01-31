@@ -1,0 +1,7 @@
+Geçici Madde 6 - (Ek: 16/6/2009-5904/19 md.) (2)
+31/12/2013 tarihine kadar, bu Kanuna ekli (IV) sayılı listede yer alan 8517.12.00.00.11 G.T.İ.P. numaralı malların karşısında gösterilen orana göre hesaplanan verginin, bu malların her bir adedi için 40 Türk Lirasından az olması halinde, orana göre hesaplanan vergi yerine her bir adet için 40 Türk Lirası vergi alınır. Bakanlar Kurulu bu tutarı sıfıra kadar indirmeye, üç katına kadar artırmaya yetkilidir.
+––––––––––––––––
+(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 89 uncu maddesiyle, bu maddede yer alan “2710.19.61.00.11, 2710.19.61.00.19, 2710.19.63.00.11, 2710.19.63.00.19, 2710.19.65.00.11, 2710.19.65.00.19, 2710.19.69.00.11 ve 2710.19.69.00.99 G.T.İ.P. numaralı” ibaresi “2710.19.61.00.11, 2710.19.63.00.11, 2710.19.65.00.11 ve 2710.19.69.00.11 G.T.İ.P. numaralı” olarak; “2710.19.41.00.11, 2710.19.41.00.18, 2710.19.45.00.11, 2710.19.45.00.12 ve 2710.19.49.00.11 G.T.İ.P. numaralı” ibaresi “2710.19.41.00.11, 2710.19.41.00.13 ve 2710.19.45.00.12 G.T.İ.P. numaralı” olarak değiştirilmiş ve metne işlenmiştir.
+(2) Bu maddenin birinci fıkrasında yer alan “31/12/2012” ibaresi, 22/1/2013 tarihli ve 6408 sayılı Kanunun 4 üncü maddesiyle “31/12/2019” şeklinde değiştirilmiştir.
+(3) 13/10/2011 tarihli ve 28083 sayılı Resmi Gazete’de yayımlanan 12/10/2011 tarihli ve 2011/2304 sayılı Bakanlar Kurulu Kararı eki Kararın 3 üncü maddesiyle bu maddede “40 Türk Lirası” olarak belirlenen tutarlar, “100 Türk Lirası” olarak tespit edilmiştir..
+8313

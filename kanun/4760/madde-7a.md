@@ -1,5 +1,3 @@
-MADDE 7/A – (Ek: 27/4/2006-5493/1 md.)
+Madde 7/A – (Ek: 27/4/2006-5493/1 md.) (1)
 Kanuna ekli (I) sayılı listede yer alan 2710.19.41.00.11, 2710.19.41.00.13 ve 2710.19.45.00.12 G.T.İ.P. numaralı malların, 4054 sayılı Rekabetin Korunması Hakkında Kanun ile 5015 sayılı Petrol Piyasası Kanunu hükümleri çerçevesinde; Bakanlar Kurulunca belirlenen sınır kapılarında, 4458 sayılı Gümrük Kanununun ihracat rejimi kapsamında yurt dışına çıkarılacak eşyayı taşıyan kamyon, çekici ve soğutucu ünitesine sahip yarı römorkların depolarına (araçların ve soğutucu ünitelerin standart yakıt deposu miktarlarını aşmamak kaydıyla) yalnızca yurt dışına çıkışlarında teslimi vergiden müstesnadır. (1)
 Maliye Bakanlığı, bu maddede düzenlenen istisnaya ilişkin usûl ve esasları belirlemeye, istisnayı bu maddeye göre işlem yapanlara verginin iadesi yöntemi ile uygulamaya yetkilidir.
-–––––––––––––––––––––––
-(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 88 inci maddesiyle bu fıkrada yer alan “2710.19.41.00.11, 2710.19.41.00.18, 2710.19.45.00.11, 2710.19.45.00.12 ve 2710.19.49.00.11 G.T.İ.P. numaralı” ibaresi “2710.19.41.00.11, 2710.19.41.00.13 ve 2710.19.45.00.12 G.T.İ.P. numaralı” olarak değiştirilmiştir.

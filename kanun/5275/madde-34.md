@@ -1,5 +1,5 @@
 Kapıların açılmaması ve temasın önlenmesi
-MADDE 34.- (1) Kapalı ceza infaz kurumlarında oda ve koridor kapıları kapalı tutulur. Kapılar aşağıdaki hâllerde açılır:
+Madde 34- (1) Kapalı ceza infaz kurumlarında oda ve koridor kapıları kapalı tutulur. Kapılar aşağıdaki hâllerde açılır:
 a) Kurum hekimine, revir, hamam ve berbere gitme, başka odaya nakil.
 b) Hastane ve duruşmaya gönderme ve başka kuruma nakil.
 c) Tahliye, ziyaret, arama, sayım, denetim, eğitim, öğretim, spor ve iyileştirme çalışmaları, kurumda çalıştırma.

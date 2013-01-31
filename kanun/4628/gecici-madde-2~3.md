@@ -12,4 +12,4 @@ Miktarları ile İlgili Tablo
 11 inci Maddenin Birinci Fıkrasının (d) Bendi | 400.000,- | 543.703 | 586.111
 11 inci Maddenin Birinci Fıkrasının (e) Bendi | 450.000,- | 611.666 | 659.375
 11 inci Maddenin Birinci Fıkrasının (f) Bendi | 500.000,- | 679.629 | 732.640
-7856-6 7857
+7857

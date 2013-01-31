@@ -28,7 +28,6 @@ o) Kurumun üçüncü kişilerle olan alacak, hak ve borçları hakkında her t�
 p) Elektrik enerjisi üretiminde çevresel etkiler nedeniyle yenilenebilir enerji kaynaklarının ve yerli enerji kaynaklarının kullanımını özendirmek amacıyla gerekli tedbirleri almak ve bu konuda teşvik uygulamaları için ilgili kurum ve kuruluşlar nezdinde girişimde bulunmak.
 Bu Kanunun diğer maddeleri ile belirlenen yetkilerinin yanısıra, Kurul aşağıdaki yetkilere de sahiptir:
 a) Bu Kanun hükümlerinin uygulanması ve bu Kanunla kendisine verilen görevleri yerine getirmek için gerekli olan ve piyasada rekabeti geliştirmeye yönelik olarak gerçek ve tüzel kişilerin uymaları gereken, talimatları ve tebliğleri, şebeke yönetmeliğini, dağıtım yönetmeliğini, müşteri hizmetleri yönetmeliğini ve dengeleme ve uzlaştırma yönetmeliğini onaylamak.
-7844-2
 7845
 b) Lisanslara ilişkin onaylarla, bu Kanunda belirtilen sair onayları vermek.
 c) Dağıtım şirketleri tarafından hazırlanıp Türkiye Elektrik İletim Anonim Şirketi tarafından sonuçlandırılan talep tahminlerini onaylamak, gerektiğinde revize ettirmek.

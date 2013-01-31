@@ -1,5 +1,5 @@
 Kınama
-MADDE 39.- (1) Kınama cezası, hükümlüye eyleminin kötü niteliğinin ve uygunsuzluğunun açıklanması ve tekrarı durumunda doğuracağı sonuçlara dikkatinin çekilmesidir.
+Madde 39- (1) Kınama cezası, hükümlüye eyleminin kötü niteliğinin ve uygunsuzluğunun açıklanması ve tekrarı durumunda doğuracağı sonuçlara dikkatinin çekilmesidir.
 (2) Kınama cezasını gerektiren eylemler şunlardır:
 a) Mektuplarda tehdit, hakaret ve sövme gibi çirkin ifadeler kullanmak.
 b) Hükümlü ve tutuklulara karşı edep ve nezakete aykırı şekilde konuşmak veya davranışlarda bulunmak.

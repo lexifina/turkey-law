@@ -4,7 +4,6 @@ Merkezî yönetim bütçesinin hazırlanma süreci, Bakanlar Kurulunun en geç E
 Orta vadeli program ile uyumlu olmak üzere, gelecek üç yıla ilişkin toplam gelir ve gider tahminleri ile birlikte hedef açık ve borçlanma durumu ile kamu idarelerinin ödenek teklif tavanlarını içeren ve Maliye Bakanlığı tarafından hazırlanan orta vadeli malî plan, en geç Eylül ayının onbeşine kadar Yüksek Planlama Kurulu tarafından karara bağlanır ve Resmî Gazetede yayımlanır.
 _____________________
 (1) 26/9/2011 tarihli ve 659 sayılı KHK’nın 17 nci maddesiyle bu maddenin ikinci fıkrasında yer alan “Mayıs ayının sonuna kadar” ibaresi “en geç Eylül ayının ilk haftası sonuna kadar” şeklinde, üçüncü fıkrasında yer alan “Haziran” ibaresi “en geç Eylül” şeklinde ve dördüncü fıkrasında yer alan “Haziran ayının sonuna kadar” ibaresi “en geç Eylül ayının onbeşine kadar” şeklinde değiştirilmiştir.
-8664-2
 8665
 Bu doğrultuda, kamu idarelerinin bütçe tekliflerini ve yatırım programını hazırlama sürecini yönlendirmek üzere; Bütçe Çağrısı ve eki Bütçe Hazırlama Rehberi Maliye Bakanlığınca, Yatırım Genelgesi ve eki Yatırım Programı Hazırlama Rehberi ise Devlet Planlama Teşkilatı Müsteşarlığınca hazırlanarak en geç Eylül ayının onbeşine kadar Resmî Gazetede yayımlanır.
 Bütçe Hazırlama Rehberi ile Yatırım Programı Hazırlama Rehberi, bütçe tekliflerinin hazırlanmasına esas olmak üzere, kamu idarelerince uyulması gereken genel ilkeleri, nesnel ve ölçülebilir standartları, hesaplama yöntemlerini, bunlara ilişkin olarak kullanılacak cetvel ve tablo örneklerini ve diğer bilgileri içerir.

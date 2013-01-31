@@ -1,5 +1,5 @@
 Ziyaretçi kabulünden yoksun bırakma
-MADDE 43.- (1) Ziyaretçi kabulünden yoksun bırakma cezası, hükümlünün bir aydan üç aya kadar ziyaretçi görüşüne çıkarılmamasıdır.
+Madde 43- (1) Ziyaretçi kabulünden yoksun bırakma cezası, hükümlünün bir aydan üç aya kadar ziyaretçi görüşüne çıkarılmamasıdır.
 (2) Ziyaretçi kabulünden yoksun bırakma cezasını gerektiren eylemler şunlardır:
 a) Sayım yapılmasına karşı çıkmak.
 b) Aramaya karşı çıkmak.

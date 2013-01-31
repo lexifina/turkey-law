@@ -4,7 +4,7 @@ BİRİNCİ BÖLÜM
 Hapis Cezaları ve Güvenlik
 Tedbirlerinin İnfazında Gözetilecek İlkeler
 Hapis cezalarının infazında gözetilecek ilkeler
-MADDE 6.- (1) Hapis cezalarının infaz rejimi, aşağıda gösterilen temel ilkelere dayalı olarak düzenlenir:
+Madde 6- (1) Hapis cezalarının infaz rejimi, aşağıda gösterilen temel ilkelere dayalı olarak düzenlenir:
 a) Hükümlüler ceza infaz kurumlarında güvenli bir biçimde ve kaçmalarını önleyecek tedbirler alınarak düzen, güvenlik ve disiplin çerçevesinde tutulurlar.
 b) Ceza infaz kurumlarında hükümlülerin düzenli bir yaşam sürdürmeleri sağlanır. Hürriyeti bağlayıcı cezanın zorunlu kıldığı hürriyetten yoksunluk, insan onuruna saygının korunmasını sağlayan maddî ve manevî koşullar altında çektirilir. Hükümlülerin, Anayasada yer alan diğer hakları, infazın temel amaçları saklı kalmak üzere, bu Kanunda öngörülen kurallar uyarınca kısıtlanabilir.
 c) Cezanın infazında hükümlünün iyileştirilmesi hususunda mümkün olan araç ve olanaklar kullanılır. Hükümlünün kanun, tüzük ve yönetmeliklerle tanınmış haklarının dokunulmazlığını sağlamak üzere cezanın infazında ve iyileştirme çabalarında kanunîlik ve hukuka uygunluk ilkeleri esas alınır.

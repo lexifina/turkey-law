@@ -1,5 +1,5 @@
 Hücreye koyma
-MADDE 44.- (1) Hücreye koyma cezası, hükümlünün eylemlerinin nitelik ve ağırlığına göre bir günden yirmi güne kadar, açık havaya çıkma hakkı saklı kalmak üzere, geceli ve gündüzlü bir hücrede tek başına tutulması ve her türlü temastan yoksun bırakılmasıdır.
+Madde 44- (1) Hücreye koyma cezası, hükümlünün eylemlerinin nitelik ve ağırlığına göre bir günden yirmi güne kadar, açık havaya çıkma hakkı saklı kalmak üzere, geceli ve gündüzlü bir hücrede tek başına tutulması ve her türlü temastan yoksun bırakılmasıdır.
 (2) Bir günden on güne kadar hücreye koyma cezasını gerektiren eylemler şunlardır:
 a) Kurum tesislerine, araç ve gereçlerine zarar vermek.
 b) Tünel kazmaya teşebbüs etmek.
@@ -12,6 +12,7 @@ h) Sayım ve aramalar ile 43 üncü maddenin (e) bendinde belirtilen faaliyetler
 ı) Kurum görevlileri ile dış güvenlik görevlilerine rüşvet teklif etmek veya vermeye kalkışmak.
 j) Kurum görevlilerine hakaret veya tehditte bulunmak.
 k) Kuruma, kurum görevlilerine veya hükümlü ve tutuklulara ait şeyleri çalmak veya bunlara kasten zarar vermek.
+9231
 l) İzin süresini özürsüz olarak en fazla iki gün geçirmek.
 m) Hükümlü ve tutukluların beslenmelerini engellemek, açlık grevine ve ölüm orucuna teşvik veya ikna etmek, bu yolda talimat vermek.
 (3) Onbir günden yirmi güne kadar hücreye koyma cezasını gerektiren eylemler şunlardır:

@@ -1,8 +1,9 @@
 Diğer istisnalar
-MADDE 7 - Bu Kanuna ekli;
+Madde 7 – Bu Kanuna ekli;
 1. (I) sayılı listede yer alan malların;
 a) Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Milli İstihbarat Teşkilâtının ihtiyacı için bu kuruluşlara veya bunların gerek göstermeleri üzerine ve işlemlerin bu kuruluşlar adına yapılması koşuluyla akaryakıt ikmalini yapanlara teslimi,
 b) 6326 sayılı Petrol Kanunu hükümlerine göre petrol arama ve istihsal faaliyetlerinde kullanılmak üzere bu faaliyetleri yapanlara teslimi,
+8306-2
 c) (Ek: 30/7/2003-4962/7 md.) 4458 sayılı Gümrük Kanunu uyarınca tasfiyelik hale gelenlerinin tabiî afetler, bulaşıcı hastalıklar ve benzeri olağanüstü durumlarda genel ve katma bütçeli dairelere, il özel idarelerine, belediyelere, köylere ve bunların teşkil ettikleri birliklere bedelsiz teslimi,
 2. (Değişik: 16/7/2004-5228/21 md.) (II) sayılı listede yer alan kayıt ve tescile tâbi mallardan;
 a) 87.03 (motor silindir hacmi 1.600 cm³'ü aşanlar hariç), 87.04 (motor silindir hacmi 2.800 cm³'ü aşanlar hariç) ve 87.11 G.T.İ.P. numaralarında yer alanların, sakatlık derecesi % 90 veya daha fazla olan malûl ve engelliler tarafından,
@@ -13,6 +14,7 @@ Beş yılda bir defaya mahsus olmak üzere ilk iktisabı,
 b) (II) sayılı listede yer alan malların, Başbakanlık merkez teşkilatı tarafından ilk iktisabı,
 4. (IV) sayılı listedeki 9302.00 ve 93.03 tarife pozisyonunda yer alan malların Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı, Milli İstihbarat Teşkilâtı, Emniyet Genel Müdürlüğü ve Gümrükler Muhafaza Genel Müdürlüğüne teslimi veya bunlar tarafından ithali,
 5. (IV) sayılı listede yer alan malların genel ve katma bütçeli dairelere, il özel idarelerine, belediyelere, köylere ve bunların teşkil ettikleri birliklere bedelsiz teslimi veya bunlar tarafından bedelsiz olarak ithali,
-6. Kanuna ekli listelerdeki mallardan 4458 sayılı Gümrük Kanununun 167 nci maddesi [(5)numaralı fıkrasının (a) bendi ile (7) numaralı fıkrası hariç], geçici ithalat ve hariçte işleme rejimleri ile geri gelen eşyaya ilişkin hükümleri kapsamında gümrük vergisinden muaf veya müstesna olan eşyanın ithali (Bu Kanunun 5 inci maddesinde düzenlenen ihracat istisnası ile 8 inci maddesinin (2) numaralı fıkrasında düzenlenen ihraç kaydıyla teslimlerde verginin tecil ve terkin edilmesi uygulamasından yararlanılarak ihraç edilen, ancak 4458 sayılı Gümrük Kanununun 168, 169 ve 170 inci maddelerinde belirtildiği şekilde geri gelen eşyanın ithalat istisnasından faydalanabilmesi için, bu eşya ile ilgili olarak ihracat istisnasından veya tecil-terkin uygulamasından faydalanılan miktarın gümrük idaresine ödenmesi veya bu miktar kadar teminat gösterilmesi şarttır.),
+6. Kanuna ekli listelerdeki mallardan 4458 sayılı Gümrük Kanununun 167 nci Maddesi [(5)numaralı fıkrasının (a) bendi ile (7) numaralı fıkrası hariç], geçici ithalat ve hariçte işleme rejimleri ile geri gelen eşyaya ilişkin hükümleri kapsamında gümrük vergisinden muaf veya müstesna olan eşyanın ithali (Bu Kanunun 5 inci Maddesinde düzenlenen ihracat istisnası ile 8 inci Maddesinin (2) numaralı fıkrasında düzenlenen ihraç kaydıyla teslimlerde verginin tecil ve terkin edilmesi uygulamasından yararlanılarak ihraç edilen, ancak 4458 sayılı Gümrük Kanununun 168, 169 ve 170 inci Maddelerinde belirtildiği şekilde geri gelen eşyanın ithalat istisnasından faydalanabilmesi için, bu eşya ile ilgili olarak ihracat istisnasından veya tecil-terkin uygulamasından faydalanılan miktarın gümrük idaresine ödenmesi veya bu miktar kadar teminat gösterilmesi şarttır.),
 7. 4458 sayılı Gümrük Kanununun transit, gümrük antrepo, dahilde işleme, gümrük kontrolü altında işleme rejimlerine tâbi tutulanlar ile serbest bölgeler ve geçici depolama yerleri hükümlerinin uygulandığı mallar,
 Vergiden müstesnadır.
+8306-3

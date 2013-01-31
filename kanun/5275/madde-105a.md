@@ -1,5 +1,5 @@
 Denetimli serbestlik tedbiri uygulanarak cezanın infazı
-MADDE 105/A –(Ek: 5/4/2012-6291/ 1 md.)
+Madde 105/A – (Ek: 5/4/2012-6291/1 md.)
 (1) Hükümlülerin dış dünyaya uyumlarını sağlamak, aileleriyle bağlarını sürdürmelerini ve güçlendirmelerini temin etmek amacıyla;
 a) Açık ceza infaz kurumunda cezasının son altı ayını kesintisiz olarak geçiren,
 b) Çocuk eğitimevinde toplam cezasının beşte birini tamamlayan,
@@ -15,6 +15,7 @@ a) Kamuya yararlı bir işte ücretsiz olarak çalıştırılması,
 b) Bir konut veya bölgede denetim ve gözetim altında bulundurulması,
 c) Belirlenen yer veya bölgelere gitmemesi,
 d) Belirlenen programlara katılması,
+9250-1
 yükümlülüklerinden bir veya birden fazlasına tabi tutulmasına, denetimli serbestlik müdürlüğünce karar verilir. Hükümlünün risk ve ihtiyaçları dikkate alınarak yükümlülükleri değiştirilebilir.
 (6) Hükümlünün;
 a) Ceza infaz kurumundan ayrıldıktan sonra, talebinde belirttiği denetimli serbestlik müdürlüğüne üç gün içinde müracaat etmemesi,
@@ -28,4 +29,5 @@ c) Denetimli serbestlik tedbiri uygulanmaya başlandıktan sonra işlediği iddi
 hâlinde, denetimli serbestlik müdürlüğünün talebi üzerine, infaz hâkimi tarafından, hükümlünün kapalı ceza infaz kurumuna gönderilmesine karar verilir. Hükümlü hakkında soruşturma sonucunda kovuşturmaya yer olmadığı veya kovuşturma sonucunda beraat, ceza verilmesine yer olmadığı, davanın reddi veya düşme kararı verilmesi hâlinde, hükümlünün cezasının infazına denetimli serbestlik tedbiri uygulanarak devam olunmasına infaz hâkimi tarafından karar verilir.
 (8) Denetimli serbestlik müdürlüğüne müracaat etmesi gereken sürenin bitiminden itibaren iki gün geçmiş olmasına karşın müracaat etmeyenler ile kapalı ceza infaz kurumuna iade kararı verilmesine rağmen iki gün içinde en yakın Cumhuriyet başsavcılığına teslim olmayan hükümlüler hakkında, 5237 sayılı Türk Ceza Kanununun 292 nci ve 293 üncü maddelerinde yazılı hükümler uygulanır.
 (9) Yükümlülüklerin gereklerine ve denetim planına uygun davranan hükümlünün koşullu salıverilmesi hakkında denetimli serbestlik müdürlüğü tarafından hazırlanan gerekçeli rapor, 107 nci ve 108 inci maddeler uyarınca işlem yapılmak üzere ilgili mahkemeye gönderilir.
-(10) Denetimli serbestlik tedbiri uygulanarak cezaların infazına ilişkin esas ve usuller yönetmelikle düzenlenir.”
+(10) Denetimli serbestlik tedbiri uygulanarak cezaların infazına ilişkin esas ve usuller yönetmelikle düzenlenir.
+9250-2

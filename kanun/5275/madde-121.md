@@ -1,2 +1,2 @@
 Tüzük ve yönetmelikler
-MADDE 121.- (1) Bu Kanun gereğince çıkarılması gereken tüzük ve yönetmelikler, Kanunun yürürlüğünden itibaren altı ay içinde çıkarılır.
+Madde 121- (1) Bu Kanun gereğince çıkarılması gereken tüzük ve yönetmelikler, Kanunun yürürlüğünden itibaren altı ay içinde çıkarılır.

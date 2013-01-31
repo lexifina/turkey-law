@@ -1,5 +1,6 @@
 Hükümlünün telefon ile haberleşme hakkı
-MADDE 66.- (1) Kapalı ceza infaz kurumlarındaki hükümlüler, tüzükte belirlenen esas ve usullere göre idarenin kontrolündeki ücretli telefonlar ile görüşme yapabilirler. Telefon görüşmesi idarece dinlenir ve kayıt altına alınır. Bu hak, tehlikeli hâlde bulunan ve örgüt mensubu hükümlüler bakımından kısıtlanabilir.
+Madde 66- (1) Kapalı ceza infaz kurumlarındaki hükümlüler, tüzükte belirlenen esas ve usullere göre idarenin kontrolündeki ücretli telefonlar ile görüşme yapabilirler. Telefon görüşmesi idarece dinlenir ve kayıt altına alınır. Bu hak, tehlikeli hâlde bulunan ve örgüt mensubu hükümlüler bakımından kısıtlanabilir.
 (2) Açık ceza infaz kurumları ile çocuk eğitimevlerinde hükümlüler, ücretli telefonlarla serbestçe görüşme yapabilirler.
 (3) Açık ve kapalı ceza infaz kurumlarındaki hükümlüler altsoy, üstsoy, eş ve kardeşlerinin ölüm, ağır hastalık veya doğal afet hâllerinde, kuruma ait telefon ve faks cihazından derhâl yararlandırılırlar. Görüşmeler, tutanak ile belgelenir ve tutanaklar özel bir dosyada saklanır.
 (4) Hükümlüler açık ve kapalı ceza infaz kurumlarında, çocuk eğitimevlerinde araç telefonu, telsiz telefon veya cep telefonu ve benzeri iletişim araçlarını bulunduramaz ve kullanamazlar.
+9241

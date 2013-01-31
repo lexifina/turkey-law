@@ -1,10 +1,11 @@
 Disiplin cezasını gerektiren eylemlerin tekrarı, disiplin cezalarının infazı ve kaldırılması
-MADDE 48.- (1) 37 ilâ 46 ncı maddelerde yer alan eylemlerin tanımına uymayan ve kanunda tanımları yapılmamış olan eylemler, nitelik ve ağırlıkları bakımından bunlara benzediklerinde, aynı maddelerdeki disiplin cezaları ile karşılanırlar.
+Madde 48- (1) 37 ilâ 46 ncı maddelerde yer alan eylemlerin tanımına uymayan ve kanunda tanımları yapılmamış olan eylemler, nitelik ve ağırlıkları bakımından bunlara benzediklerinde, aynı maddelerdeki disiplin cezaları ile karşılanırlar.
 (2) Bir eylemden dolayı verilen disiplin cezası kesinleştikten sonra bu cezanın kaldırılması için gerekli süre içinde yeniden disiplin cezasını gerektiren bir eylemde bulunan hükümlü hakkında, her defasında bir üst ceza uygulanır.
 (3) Disiplin cezalarının infazı;
 a) Hücreye koyma cezasının infazına, infaz hâkiminin onayı ile başlanır. Hücreye koyma cezasına ilişkin diğer hükümler saklı kalmak üzere, kesinleşen disiplin cezalarının infazına derhâl başlanır. Birden fazla disiplin cezası verilmiş olması hâlinde, bu cezalar kesinleşme tarihleri sırasına göre ayrı ayrı infaz edilir. Bir cezanın infazı tamamlanmadan diğerinin infazına başlanmaz.
 b) Disiplin cezalarının tamamı infaz edilip kaldırılmadıkça koşullu salıverilme işlemi yapılmaz, ancak bu süre hakederek salıverme tarihini geçemez.
 c) Hücreye koyma cezasına ilişkin disiplin cezalarının infazından önce ve infazı sırasında hükümlü, hekim tarafından muayene edilir. İlgilinin bu cezaya katlanamayacağı anlaşılırsa cezanın infazı sonraya bırakılır veya hekiminin belirleyeceği aralıklarla infaz edilir. Koşullu salıverilme tarihine kadar hükümlünün iyileşemeyeceğinin tam teşekküllü Devlet veya üniversite hastanesi sağlık kurulu raporu ile saptanması hâlinde hücreye koyma cezası infaz edilmez; yerine ziyaretçi kabulünden yoksun bırakma cezası iki katı süreyle uygulanır. Raporlar infaz dosyasına konulur.
+9236
 (4) İnfaz edildiği tarihten itibaren disiplin cezasının kaldırılmasında ve iyi hâlin kazanılmasında aşağıda belirtilen süreler esas alınır;
 a) Kınama cezası onbeş gün,
 b) Bazı etkinliklere katılmaktan alıkoyma cezası bir ay,

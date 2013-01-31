@@ -1,5 +1,5 @@
 Mükerrirlere özgü infaz rejimi ve denetimli serbestlik tedbiri
-MADDE 108.- (1) Tekerrür hâlinde işlenen suçtan dolayı mahkûm olunan;
+Madde 108- (1) Tekerrür hâlinde işlenen suçtan dolayı mahkûm olunan;
 a) Ağırlaştırılmış müebbet hapis cezasının otuzdokuz yılının,
 b) Müebbet hapis cezasının otuzüç yılının,
 c) Süreli hapis cezasının dörtte üçünün,

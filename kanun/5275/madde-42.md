@@ -1,5 +1,5 @@
 Haberleşme veya iletişim araçlarından yoksun bırakma veya kısıtlama
-MADDE 42.- (1) Haberleşme veya iletişim araçlarından yoksun bırakma veya kısıtlama cezası, hükümlünün bir aydan üç aya kadar mektup, faks ve telgraf almak ve yollamaktan, televizyon izlemekten, radyo dinlemekten, telefon etmekten ve diğer iletişim araçlarından yararlanmaktan tamamen veya kısmen yoksun bırakılmasıdır.
+Madde 42- (1) Haberleşme veya iletişim araçlarından yoksun bırakma veya kısıtlama cezası, hükümlünün bir aydan üç aya kadar mektup, faks ve telgraf almak ve yollamaktan, televizyon izlemekten, radyo dinlemekten, telefon etmekten ve diğer iletişim araçlarından yararlanmaktan tamamen veya kısmen yoksun bırakılmasıdır.
 (2) Bu cezayı gerektiren eylemler şunlardır:
 a) Protesto amacıyla idarece verilen yemeği topluca almama eylemine katılmak.
 b) Kurum işyurdu yönetim kurulunca uygun görülen işte çalışmamak.
@@ -8,3 +8,4 @@ d) Odalarda, eklentilerinde ve diğer alanlarda ilâç ve gıda maddesi stoku ya
 e) Gereksiz olarak marş söylemek veya slogan atmak.
 (3) Hükümlüye gelen mektup, faks ve telgraflar, disiplin cezasının infazından sonra kendisine verilir. Aynı türden olsa bile sonraki disiplin cezasının infazına bu işlem yapılmadan başlanamaz.
 (4) Anne, baba, eş, çocuk ve kardeşlerin ölüm veya ağır hastalıkları ile doğal afet hâllerinde yapılması gereken haberleşmeler ve avukat ile ilişkilerde bu madde hükmü uygulanmaz.
+9230

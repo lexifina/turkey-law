@@ -1,4 +1,4 @@
-GEÇİCİ MADDE 3 –(Ek: 5/4/2012-6291/ 2 md.)
+Geçici Madde 3 – (Ek: 5/4/2012-6291/2 md.)
 (1) Bu maddenin yürürlüğe girdiği tarih itibarıyla koşullu salıverilmelerine bir yıldan az süre kalan;
 a) Açık ceza infaz kurumunda bulunan,
 b) Kapalı ceza infaz kurumunda bulunup da açık ceza infaz kurumuna ayrılma şartlarını taşıyan,

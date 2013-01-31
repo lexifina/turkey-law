@@ -1,2 +1,2 @@
 Bu Kanunda geçen terimlerin etkisi
-MADDE 119.- (1) Bu Kanunda kullanılan terimler, mevzuatta bunun karşılığı olarak kullanılmış olan terimlerin yerini alır.
+Madde 119- (1) Bu Kanunda kullanılan terimler, mevzuatta bunun karşılığı olarak kullanılmış olan terimlerin yerini alır.
