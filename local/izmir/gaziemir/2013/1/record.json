@@ -1,0 +1,29 @@
+{
+  "number": "1",
+  "number_as_published": "1",
+  "year": 2013,
+  "month": 1,
+  "title": "council decision",
+  "decision_date": null,
+  "index_date": "2013-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2013",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=62",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=62",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/08b65138668298ab8bad80b33cc08e4808b65138668298ab8bad80b33cc08e48.doc",
+  "source_sha256": "ffa83aac095b5e0657d0bd6fe71d4343a420ab20469788b45b1202fa0797b333",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2013-01-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ocak 2013); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "posting_date": "30.01.2013",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
