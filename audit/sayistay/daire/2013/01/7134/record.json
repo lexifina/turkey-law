@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10214",
+  "decision_date": "2013-01-31",
+  "source_id": 7134,
+  "chamber": "1",
+  "ilam_number": "129",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7134/",
+  "source_sha256": "d62ba8967aec3d9310bd4bc68ab01eaa59ae492e096261a8777dc3363fa9e4f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
