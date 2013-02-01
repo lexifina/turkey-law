@@ -1,0 +1,78 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "128",
+  "decision_number": "4/131",
+  "date": "2013-02-01",
+  "title": "Kurulumuzun 01.02.2013 Tarihli 4/131 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/128",
+  "source_sha256": "aa384d70a966efbbf02c9197ff75597349dc1455cd8a707df88cd76997f2343f",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 128,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurulumuzun 01.02.2013 tarihli 4/131 sayılı kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2013-02-01",
+    "source_clauses": [
+      "Kurulumuzun 01.02.2013 tarihli 4/131 sayılı kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "7e1f6a91-1407-4973-9b86-7b1631db68c8",
+    "contentSource": "IlkeKarari",
+    "contentID": 128,
+    "tur": "Kurul Kararı",
+    "title": "Kurulumuzun 01.02.2013 Tarihli 4/131 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2013-02-01T00:00:00",
+    "kurulKararTarih": "01.02.2013",
+    "kurulToplantiNo": "4/131",
+    "bultenYili": 2013,
+    "bultenNo": 4,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "86:Kurumsal Yönetim Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 86,
+        "value": "Kurumsal Yönetim Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "4:Halka Açık Ortaklıklar;44:Borsa Şirketlerinin Gruplandırılması;45:Kurumsal Yönetim İlkeleri",
+    "ilgiliKonular": [
+      {
+        "key": 4,
+        "value": "Halka Açık Ortaklıklar"
+      },
+      {
+        "key": 44,
+        "value": "Borsa Şirketlerinin Gruplandırılması"
+      },
+      {
+        "key": 45,
+        "value": "Kurumsal Yönetim İlkeleri"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/128",
+    "linkTarget": "_blank"
+  }
+}
