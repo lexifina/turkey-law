@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.17081",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU İHALE TEBLİĞİ (TEBLİĞ NO: 2013/1)",
+  "number": "17081",
+  "issuer": "Kamu İhale Kurumu Başkanı",
+  "path": "teblig/2013/17081",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17081&MevzuatTertip=5",
+  "source_sha256": "8a7842a27993387b4cbaf137403e23907a3d815e6ada0b91f1aa2d8431460e1c",
+  "source_bytes": 14087,
+  "published": "2013-01-30",
+  "gazette": "28544",
+  "in_force": "2013-02-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/2/2013 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/2/2013 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 564,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.17081%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

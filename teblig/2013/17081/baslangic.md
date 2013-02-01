@@ -1,0 +1,2 @@
+KAMU İHALE TEBLİĞİ
+(TEBLİĞ NO: 2013/1)
