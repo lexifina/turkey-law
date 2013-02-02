@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-02-02",
+  "issue": "28547",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Elektrik Dağıtım Anonim Şirketi (TEDAŞ) Genel Müdürlüğü Personel Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130202-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130202.htm",
+  "index_sha256": "c7d6d0c59278cdaac0228d1d9e17d07d19e76d6423c91d8e2ccb3fe7f269df51",
+  "index_header": "2 Şubat 2013 ... 28547 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130202.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
