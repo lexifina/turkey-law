@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.16453",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GIDA İLE TEMAS EDEN MADDE VE MALZEME ÜRETEN İŞLETMELERİN KAYIT İŞLEMLERİ İLE İYİ ÜRETİM UYGULAMALARINA DAİR YÖNETMELİK",
+  "number": "16453",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2012/16453",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16453&MevzuatTertip=5",
+  "source_sha256": "84a42d5d30be118d10429889a030f8def97afb1ca80b4b83d9b510d63129bf0e",
+  "source_bytes": 47263,
+  "published": "2012-08-03",
+  "gazette": "28373",
+  "in_force": "2013-02-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/2/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-02-02",
+      "RG-2/2/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-02-02",
+      "2/2/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1540,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16453%20ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
