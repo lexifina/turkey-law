@@ -1,0 +1,47 @@
+{
+  "source_id": "7.5.13847",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SPOR GENEL MÜDÜRLÜĞÜ MÜSABAKA YERLERİNE SERBEST GİRİŞ YÖNETMELİĞİ",
+  "number": "13847",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2010/13847",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13847&MevzuatTertip=5",
+  "source_sha256": "6619dae1ce7c9c7bb12ca7c584bdda59f489df0de89673b55f209b9b7b088f7a",
+  "source_bytes": 65743,
+  "published": "2010-03-12",
+  "gazette": "27519",
+  "in_force": "2013-02-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/2/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-02-03",
+      "RG-3/2/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-02-03",
+      "3/2/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-04-24",
+      "RG-24/4/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 947,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

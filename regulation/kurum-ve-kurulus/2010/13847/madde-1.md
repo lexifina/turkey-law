@@ -1,0 +1,5 @@
+Spor Genel Müdürlüğü Müsabaka Yerlerine Serbest Giriş Yönetmeliği(1)
+BİRİNCİ BÖLÜM
+Genel Hükümler
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; (Değişik ibare:RG-3/2/2013-28548) Spor Genel Müdürlüğüne ait spor tesisleri ile (Değişik ibare:RG-3/2/2013-28548) Spor Genel Müdürlüğü tarafından spor kulüplerine veya kamu kurum ve kuruluşlarına protokol karşılığında devredilen, kiralanan veya süreli intifa hakkı verilen spor tesislerinin protokol ve basın tribünlerine serbest gireceklerle ilgili usul ve esasları düzenlemektir.
