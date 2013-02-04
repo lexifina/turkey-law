@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6412",
+  "year": 2013,
+  "title": "Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-02-04",
+  "gazette_issue": "28549",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130204-3.htm",
+  "source_sha256": "8fa9298c3e5b25163b8484222ceaf5f0ccee6512eb60c5b5cea76650200405f8",
+  "text_sha256": "614f2f8cd9acf932dc3c4398910ee78a0bd688f10d6f07366a004f3a7b346722",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/02/04/28549-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130204-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
