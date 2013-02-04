@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-02-04",
+  "issue": "28549",
+  "edition": "regular",
+  "item": 3,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": null,
+  "title": "6412 Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130204-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130204.htm",
+  "index_sha256": "87f469cba79b3afb0e23166310ca3818ff8c673605ae6e1852c0cbdf0debed76",
+  "index_header": "4 Şubat 2013 ... 28549 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130204.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
