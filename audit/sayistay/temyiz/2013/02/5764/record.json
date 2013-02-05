@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36264",
+  "decision_date": "2013-02-05",
+  "source_id": 5764,
+  "chamber": "6",
+  "file_number": "31744",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5764/",
+  "source_sha256": "39cbc97dc9c70f46252735ca45e0f9f6154a3f8ed540960f9b4e4f1e6d1f56a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
