@@ -1,0 +1,11 @@
+Mevcut ruhsatnamelerin yenilenmesi
+MADDE 6 – (1) Tapulu arazilerdeki çay bahçelerine ait mevcut çay bahçesi ruhsatnameleri; köy ve mahalle bazında ele alınarak yenilenir. Ruhsatnamelerin bulunduğu ÇAY-KUR Çay Fabrikası her köy ve mahalledeki üreticilerin hangi tarihlerde ruhsatnamelerini yenileyeceğini önceden ilan eder.
+(2) Ruhsatname yenileme işlemleri o yılın yaş çay alım kampanyası bitiminden ertesi yılın yaş çay alım kampanyası başlamadan önce yapılır.
+(3) Her üretici kendisine ayrılan günlerde parseldeki müşterek çay bahçesi olan kişilerle birlikte veya tek tek ruhsatnamelerin yenileneceği ÇAY-KUR Çay Fabrikasına müracaat ederek işlemlerini yaptırırlar.
+(4) Bakanlıkla yapılan protokol çerçevesinde uzaktan algılama yöntemi ile il, ilçe, köy ve mahallelerde parsel bazında belirlenen çay bahçesi niteliğindeki alanlar, o parselde çay bahçesi ruhsatnamesi bulunan üreticilerin ruhsatnamesindeki alanlar ile karşılaştırılır.
+a) Tespit edilen çay bahçesi alanı; ruhsatnamelerdeki toplam alana eşit ise, ruhsatname sahiplerinin ruhsatnameleri eski alan üzerinden yenilenir.
+b) Tespit edilen çay bahçesi alanı; ruhsatnamelerdeki toplam alanlardan fazla ise, eski ruhsatnamelerdeki ruhsatlı alanlara isabet eden oranlarda artırılarak tespit edilen çaylık kadar ruhsatnameler yenilenir.
+c) Tespit edilen çay bahçesi alanı; ruhsatnamelerdeki toplam alanlardan az ise, eski ruhsatnamelerdeki ruhsatlı alanlara isabet eden oranlarda azaltılarak tespit edilen çaylık alan kadar ruhsatnameler yenilenir.
+(5) Ruhsatnameler EK-4’teki örneğe göre düzenlenir.
+(6) Tapusuz arazilerdeki çay bahçelerinin ruhsatnamelerinin yenilenme işlemleri bu arazilerde kadastro çalışmalarının tamamlanmasından sonra yapılır. Kadastro çalışmaları tamamlanınca mevcut ruhsatnameler tapulu arazilerde olduğu gibi yeniden ruhsatlandırılırlar.
+(7) Çay Tarım Alanlarının Belirlenmesi ve Bu Alanlarda Çay Tarımı Yapan Üreticilere Ruhsatname Verilmesine Dair Kararın 4 üncü maddesinin birinci fıkrasında belirtilen yerler ile bu kararın yürürlüğe girmesinden önce 4 üncü maddenin birinci fıkrasında belirtilen yerler dışında ilgili mevzuata göre önceden kurulan çay bahçeleri için önceden verilmiş çay bahçesi ruhsatnamelerinin geçerliliği devam ettiğinden bu bahçelerin ruhsatnamelerinin yenilenme işlemi de aynı esaslar dahilinde yerine getirilir.
