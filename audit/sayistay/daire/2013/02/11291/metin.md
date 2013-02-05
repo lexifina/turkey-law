@@ -1,0 +1,3 @@
+Sosyal Sigorta ve İşsizlik Sigortası Primi
+
+…......... Bakanlığında istihdam edilen sürekli ve geçici işçilere yapılan ilave tediye ödemelerinden sosyal sigorta primi ve işsizlik sigortası primi kesilmemesi nedeniyle konu edilen …......... TL kamu zararı hususunda; yapılan uygulamanın 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 80 inci ve 105 inci maddeleri ile 4447 sayılı İşsizlik Sigortası Kanununun 49 uncu maddesi çerçevesinde yasal mevzuata aykırı olduğu tespit edilmekle birlikte, ortaya çıkan kamu zararı tahsil edilmiş olduğundan ilişik kalmadığına ve tahsilatın ilamda gösterilmesine oy birliğiyle karar verildi.
