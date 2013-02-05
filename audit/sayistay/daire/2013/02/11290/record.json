@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "119",
+  "decision_date": "2013-02-05",
+  "source_id": 11290,
+  "chamber": "3",
+  "ilam_number": "12",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2011,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11290/",
+  "source_sha256": "879c7b2da268d50cfe4513242cf03fee4b197421c340d52c0e58e075c5902d41",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

@@ -1,0 +1,3 @@
+Sosyal Sigorta ve İşsizlik Sigortası Primi
+
+…......... Bakanlığında istihdam edilen işçilere her ay sosyal yardım adı altında ödenen tutarlar ile mevzuatta sigorta priminden istisna olarak belirtilen tutarı aşan yemek paralarından sosyal sigorta primi ve işsizlik sigortası primi kesilmemesi nedeniyle konu edilen ….........TL kamu zararı hususunda; yapılan uygulamanın 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 80 inci maddesi ve 4447 sayılı İşsizlik Sigortası Kanununun 49 uncu maddesi çerçevesinde yasal mevzuata aykırı olduğu tespit edilmekle birlikte, ortaya çıkan kamu zararı tahsil edilmiş olduğundan ilişik kalmadığına ve tahsilatın ilamda gösterilmesine oy birliğiyle karar verildi.
