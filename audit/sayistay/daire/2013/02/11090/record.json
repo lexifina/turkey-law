@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "8",
+  "decision_date": "2013-02-07",
+  "source_id": 11090,
+  "chamber": "8",
+  "ilam_number": "70",
+  "item_number": 12,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11090/",
+  "source_sha256": "2cf9e1000f20e89987e3692b9a2329d27d12faa5a8636955aadfbd50a9a72583",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
