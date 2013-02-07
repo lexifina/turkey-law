@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13649056-120[09-2012/ÖZE-216]-7",
+  "source_id": 20954,
+  "date": "2013-02-07",
+  "title": "Nakkaşlık faaliyetinin esnaf muaflığı kapsamında olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20954",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e0a83c2f031764b41730bda5762cefa26d13512518e6529def30d293fdc67889",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
