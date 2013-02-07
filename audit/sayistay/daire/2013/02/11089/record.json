@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "8",
+  "decision_date": "2013-02-07",
+  "source_id": 11089,
+  "chamber": "8",
+  "ilam_number": "70",
+  "item_number": 11,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11089/",
+  "source_sha256": "8564961049b7bcddc5efbdf808f773cd5046b26180d44517d5d1f8ecaf940c08",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
