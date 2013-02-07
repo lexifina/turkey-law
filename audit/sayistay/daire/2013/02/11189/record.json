@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "7",
+  "decision_date": "2013-02-07",
+  "source_id": 11189,
+  "chamber": "8",
+  "ilam_number": "59",
+  "item_number": 4,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2011,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11189/",
+  "source_sha256": "336eeb5f5ec9ef22ad1cd9ecd54a1cc995beeda59374a7bfeb4049b771a43d02",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

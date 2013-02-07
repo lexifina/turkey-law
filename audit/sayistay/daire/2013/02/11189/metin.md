@@ -1,0 +1,7 @@
+Uçak Bileti Bedellerinin Business Sınıfı Üzerinden Ödenmesi:
+
+6245 sayılı Harcırah Kanunu’nun “Yurtdışında Yol Masrafı” başlıklı 29 uncu maddesinin üçüncü fıkrasında;
+
+“Tren ve vapurla yapılacak yurtdışı görev yolculuklarında aylık dereceleri 4 ve daha yukarı olanlara birinci mevki, 4 ncü dereceden aşağı olanlara ikinci mevki üzerinden; uçakla yapılacak yolculuklarda ise, Milli Güvenlik Konseyi Üyeleri, Yasama Organı Başkanı, Yasama Organını temsil etmekle görevlendirilen Yasama Organı Üyeleri, Başbakan, Anayasa Mahkemesi Başkanı, Genelkurmay Başkanı, Bakanlar, Kuvvet Komutanları ve Jandarma Genel Komutanı, Orgeneral ve Oramiraller, Yargıtay, Danıştay Başkanları ile Cumhuriyet Başsavcısı, Danıştay Başsavcısı (1). Sayıştay, Uyuşmazlık Mahkemesi ve Diyanet İşleri Başkanları ile bunların resmi çağrıya uyarak yolculuğa katılan eşlerine, Devlet Başkanlığı Genel Sekreteri, Başbakanlık Müsteşarı, Dışişleri Bakanlığı Genel Sekreteri, Yükseköğretim Kurulu Başkanı ve merkezde sürekli görevde bulunanlar dışındaki büyükelçilere.birinci, bunların dışındakilere turist sınıfı üzerinden yol gideri ödenir.” hükmü yer almaktadır.
+
+6245 sayılı Harcırah Kanunu’nun yukarıda yer verilen hükmü gereğince, maddede sayılmayan makamlar için turist sınıfı üzerinden uçak bileti bedeli ödenmesi gerekirken, birinci sınıf üzerinden ödenmesi ve bir gün fazla yurtdışı gündelik verilmesi sonucu meydana gelen ........ TL. tutarındaki kamu zararının sorumlularına ödettirilmesine, oy birliğiyle,
