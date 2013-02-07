@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "12",
+  "decision_date": "2013-02-07",
+  "source_id": 7119,
+  "chamber": "6",
+  "ilam_number": "52",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7119/",
+  "source_sha256": "0ce76a9b35adf280ac820d659915e2598f2664d472e079c0a623f0986ba1b6e4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

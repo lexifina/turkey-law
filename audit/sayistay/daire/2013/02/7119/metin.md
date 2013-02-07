@@ -1,0 +1,21 @@
+Gecikme Cezasının Eksik Kesilmesi.
+
+…. Ltd. Şti.’ne 28.09.2010 tarihinde ihale edilen …. TL sözleşme bedelli “…. Pafta, … Parsele Hayvan Pazarı Yapım İşi”nde; 5 nolu kesin hakedişten gecikme cezasının eksik kesilmesi nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda,
+
+Söz konusu işin sözleşmesinin 03.11.2010 tarihinde imzalandığı, 08.11.2010 tarihinde işyeri tesliminin yapıldığı, sözleşmeye göre işin süresinin 200 takvim günü, iş bitim tarihinin de 27.05.2011 olduğu, ancak proje revizyonundan dolayı, idare tarafından 17 gün süre uzatımı verilerek, işin bitim tarihinin 13.06.2011 olarak değiştirildiği, söz konusu işin bu tarihte bitirilemediği, Yapı Denetim Komisyonunun yaptığı durum tespitinde, kalan işler için 50 gün cezalı süre verildiği ve cezalı sürenin 39’uncu günü olan 22.07.2011 tarihinde işin bitirildiği, yüklenicinin 22.07.2011 tarih ve …. sayılı dilekçesi üzerine Yapı Denetim Komisyonunun aynı tarihte yerinde yapılan incelemesi neticesinde düzenlenen “Yapım İşleri Geçici Kabul Teklif Belgesi”nde işin sözleşmesine uygun olarak tamamlandığı ve geçici kabule hazır olduğunun tespit edildiği, söz konusu işin Yapı Denetim Komisyonu tarafından ön incelemesinin yapılmasından ve geçici kabul teklif belgesinin düzenlenmesinden sonra 01.08.2011 tarihli makam oluru ile Geçici Kabul Komisyonu oluşturulduğu ve 08.08.2011 tarihinde geçici kabul için işyerine gidildiği ancak “Yapım İşleri Geçici Kabul Tutanağı”nda “Geçici Kabul İtibar Tarihi” olarak da işyerine gidilen tarihin yer aldığı görülmüştür.
+
+Yapım İşleri Muayene ve Kabul Yönetmeliği’nin “Geçici Kabul Başvurusu” başlıklı 6’ncı maddesinde;
+
+“(1) Taahhüt edilen iş, sözleşme ve eklerinde yer alan hükümlere uygun olarak tamamlandığında yüklenici idareye geçici kabulün yapılması için yazılı olarak başvuruda bulunur.
+
+(2) Zorunlu bir neden olmadığı taktirde, başvuru tarihinden itibaren en geç on gün içinde iş, yapı denetim görevlisi tarafından ön incelemeye tabi tutulur. İnceleme sonucu işin sözleşme ve eklerine uygun olarak tamamlandığının ve kabul işleminin yapılmasında Yapım İşleri Genel Şartnamesine göre bir engel bulunmadığının anlaşılması durumunda, yapı denetim görevlisi (Ek–1)’de yer alan “Geçici Kabul Teklif Belgesi”ni düzenler ve yetkili makama gönderir. Yetkili makam, en geç on gün içinde Geçici Kabul Komisyonunu oluşturur.”
+
+“Geçici kabul itibar tarihi” başlıklı 8’inci maddesinde de;
+
+“(1) Yüklenicinin, taahhüdündeki işi sözleşmesinde veya idare tarafından verilen en son süre uzatım kararında öngörülen iş bitim tarihinde tamamladığı yapı denetim görevlisi tarafından yapılan ön incelemede tespit edilmiş olması şartı ile, kabul komisyonunun iş yerine geç gitmesi ve kabul işlemini geç yapması halinde, kabul tutanağında itibar tarihi olarak işin fiilen bitmiş olduğu tarih gösterilir ve bu tarih, işin geçici kabul tarihi kabul edilir.”
+
+hükümleri yer almaktadır.
+
+Anılan hükümler uyarınca, yüklenicinin 22.07.2011 tarih ve … sayılı dilekçesi ile idareye geçici kabulün yapılması için başvurması üzerine Yapı Denetim Komisyonunun aynı tarihte yerinde yaptığı inceleme neticesinde işin sözleşmesine uygun olarak tamamlandığı ve geçici kabule hazır olduğu tespit edilerek aynı tarihli “Yapım İşleri Geçici Kabul Teklif Belgesi” düzenlendiği anlaşılmıştır. Aynı şekilde “Yapım İşleri Geçici Kabul Tutanağı”nda da işin fiilen bitim tarihi 22.07.2011 olarak belirtilmiştir. Bahse konu tutanakta “Geçici Kabul Teklif Belgesi”nde yazılı bulunan işin bitim tarihine bir itiraz yapılmamış, yüklenicinin verilen işi süresinde bitiremediğine dair bir ibareye de yer verilmemiştir. Bu durumda işin fiilen bitim tarihinin “Yapım İşleri Geçici Kabul Teklif Belgesi” ile “Yapım İşleri Geçici Kabul Tutanağı”nda yer alan 22.07.2011 tarihi olarak alınması gerekmektedir.
+
+Anılan gerekçelerle, …. Ltd. Şti.’ne 28.09.2010 tarihinde ihale edilen …. TL sözleşme bedelli “…. Pafta, …. Parsele Hayvan Pazarı Yapım İşi”nde; 5 nolu kesin hakedişten 13.06.2011 ile 22.07.2011 tarihleri arasında gecikilen 39 gün için sözleşme bedelinin % 0,03’ü oranında gecikme cezası (…. TL) kesilmesi uygulaması doğru olup, 17 gün için daha ceza kesilmemesi konusunda ilişilecek bir husus bulunmadığına oy birliğiyle karar verildi.
