@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "120",
+  "decision_date": "2013-02-07",
+  "source_id": 7079,
+  "chamber": "3",
+  "ilam_number": "35",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7079/",
+  "source_sha256": "b12d74fd477be48e8c8e53c9ae8668ec99af5634d16cc90eb942962a47b6aec2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
