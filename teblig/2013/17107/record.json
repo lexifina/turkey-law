@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.17107",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2013 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ (SIRA NO: 5)",
+  "number": "17107",
+  "path": "teblig/2013/17107",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17107&MevzuatTertip=5",
+  "source_sha256": "e40261994428212e44847127aa5269afbdc828ddd51941f52b1e39d92420ebeb",
+  "source_bytes": 9852,
+  "published": "2013-02-07",
+  "gazette": "28552",
+  "in_force": "2013-02-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.02.2013); own commencement article: \"Bu Tebliğ, 1/1/2013 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 1/1/2013 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 303,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
