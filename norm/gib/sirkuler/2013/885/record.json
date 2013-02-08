@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-26/2013-1 / İşyeri - 1",
+  "source_id": 885,
+  "date": "2013-02-08",
+  "title": "Dar mükellefiyette işyerinin tespiti hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/885",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "87fdf13daab0b566126be63c3492cf96585e4e3cc584562c317ef527364a0533",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
