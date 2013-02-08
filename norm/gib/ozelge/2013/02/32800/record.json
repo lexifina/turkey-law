@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I.12.102.]-80",
+  "source_id": 32800,
+  "date": "2013-02-08",
+  "title": "Belediyeye ihale kapsamında verilen hizmetler için düzenlenecek faturalarda uygulanacak KDV oranları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32800",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "8202e50c6b5f8d3cad34982ff7b987200e55474a9f7bce43689484d49091e068",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
