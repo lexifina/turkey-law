@@ -1,0 +1,4 @@
+Ad Çekme Sonundaki Hizmet Süresi:
+Madde 19- (Değişik:RG-16/06/2000-24081) (Mülga ibare:RG-8/2/2013-28553) (…) birinci bölgeler ile ikinci ve üçüncü bölgelere ad çekme ile atananlar, bu bölgelerde en çok üç yıl hizmet görürler ve iki yıl geçmedikçe başka bir bölgeye atanmaları yapılmaz.
+(Değişik:RG-16/06/2000-24081) (Mülga ibare:RG-8/2/2013-28553) (…) birinci bölgeler ile ikinci ve üçüncü bölgelere ad çekme ile atananlar, buradaki hizmet süreleri sonunda öncelikle beşinci bölgeye ve zorunluluk halinde dördüncü bölgeye ad çekme suretiyle atanırlar. Ancak, hâkim veya savcı ile evli olanlar hakkında ad çekme hükümleri uygulanmaz.
+Olağanüstü hal ilân edilmiş yerlerdeki terörün yoğun olduğu ağır ceza merkezlerine ad çekme ile atananlar, buradaki hizmet sürelerini tamamladıktan sonra, anılan bölge dışına öncelikle beşinci bölgeye ve zorunluluk halinde dördüncü bölgeye ad çekme suretiyle atanabilirler.

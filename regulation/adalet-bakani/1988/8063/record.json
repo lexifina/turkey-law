@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.8063",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HÂKİMLER VE CUMHURİYET SAVCILARI HAKKINDA UYGULANACAK ATAMA VE NAKİL YÖNETMELİĞİ",
+  "number": "8063",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/1988/8063",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8063&MevzuatTertip=5",
+  "source_sha256": "d124f32e1f2e643bd12497fdfdfd6c85caf29588282d2295f0e9bdd9d6cbbc8c",
+  "source_bytes": 3151390,
+  "published": "1988-02-19",
+  "gazette": "19730",
+  "in_force": "2013-02-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/2/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-02-08",
+      "RG-8/2/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-09-21",
+      "RG-21/9/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-05-22",
+      "RG-22/5/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-02-06",
+      "RG-6/2/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-11-18",
+      "RG-18/11/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-10-27",
+      "RG:27/10/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-10-27",
+      "RG-27/10/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-02-17",
+      "RG-17/2/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-03-17",
+      "RG-17/3/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-12-15",
+      "RG-15/12/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2001-03-20",
+      "RG-20/03/2001",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2000-06-16",
+      "RG-16/06/2000",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7985,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

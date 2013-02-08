@@ -1,0 +1,4 @@
+Bölgelerdeki Hizmet Sırasının Atlanması:
+Madde 6- (Değişik:RG-30/05/1999-23710) Yasal sürelerini dolduramamaları nedeniyle henüz birinci sınıfa ayrılmamış olmakla beraber dört ve beşinci bölgelerdeki hizmetlerini tamamlayan veya tamamlamış sayılan, en az üç dereceli terfi yapan, sicil raporları olumlu, üstün başarı gösteren, hâkimlik ve savcılık mesleğinde fiilen sekiz yılını dolduran hâkimler ve cumhuriyet savcıları mesleki ihtiyaçlar gerektirdiği takdirde birinci bölgeye atanabilirler.
+Büyükşehir belediye sınırları içinde kalanlar hariç olmak üzere merkez nüfusu bir milyonun altında olan birinci bölgelere atanabilmek için meslekte fiilen altı yılını tamamlamış olmak ve yukarıda sayılan diğer şartları taşımak yeterlidir.
+Hâkimlik ve savcılık mesleğinde üstün başarı gösteren ve beşinci bölgedeki hizmetini yapmış olup, dört ve üçüncü bölgeye atanmaya hak kazanmış olanlar mesleki ihtiyaçlar gerektirdiği takdirde mükteseplerinden bir üst bölgeye atanabilirler.

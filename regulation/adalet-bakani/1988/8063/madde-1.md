@@ -1,0 +1,1 @@
+Madde 1- Bu Yönetmelik hükümleri, hâkimler, Cumhuriyet savcıları, Yargıtay ve Bakanlık tetkik hâkimleri, Cumhuriyet başsavcı yardımcıları, Cumhuriyet savcı başyardımcıları, Cumhuriyet savcı yardımcıları ile hâkimlik ve savcılık mesleğindeki görevlere diğer hizmetlerden veya yeniden atanacaklar hakkında uygulanır.
