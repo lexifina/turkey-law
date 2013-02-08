@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-019.01-160",
+  "source_id": 29842,
+  "date": "2013-02-08",
+  "title": "Yapı kooperatifine hibe edilmek üzere satın alınan aracın gider kaydı ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29842",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "8ea094e02efe03b2b578ec37543c6172aa235470d76df0cb5a4c11ab38f50e04",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
