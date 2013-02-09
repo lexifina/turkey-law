@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.17112",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SAFKAN DAMIZLIK KOYUN VE KEÇİ YETİŞTİRİCİLİĞİ HAKKINDA TEBLİĞ (TEBLİĞ NO: 2013/2)",
+  "number": "17112",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2013/17112",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17112&MevzuatTertip=5",
+  "source_sha256": "1637d7d61494ac84c2978f1864bef1522485d4c17d5f093bd41d9c7f5af38488",
+  "source_bytes": 40971,
+  "published": "2013-02-09",
+  "gazette": "28554",
+  "in_force": "2013-02-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.02.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2145,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.17112%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
