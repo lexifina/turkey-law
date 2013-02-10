@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-02-10",
+  "issue": "28555",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Muş Alparslan Üniversitesi Afet Yönetimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130210-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130210.htm",
+  "index_sha256": "f42b0fceeb415253430f4286d09f3e0742b1f33493242f19748d79b558a3fc9e",
+  "index_header": "10 Şubat 2013 ... 28555 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130210.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
