@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.28-163",
+  "source_id": 32798,
+  "date": "2013-02-11",
+  "title": "Yurt dışından gelenlere panel, konferans, akademik oturum vb.hizmetleri ifasında KDV oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32798",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "8e4e5075567e3083bab89a96053d55375f84fc19692d14df98f8dffc4da74511",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
