@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-02-11",
+  "issue": "28556",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kocaeli Üniversitesi Eğitim Fakültesi Yabancı Diller Eğitimi Bölümü İngilizce Hazırlık Programı Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130211-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130211.htm",
+  "index_sha256": "dc0ab5f8330feddd7096a283c99bf25dcf94f6205c04c7ebfdbab80906726643",
+  "index_header": "11 Şubat 2013 ... 28556 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130211.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
