@@ -1,0 +1,3 @@
+Gecikme cezası
+
+… tarihi itibariyle ihalesi yapılan ve … San. Tic. Şti. üzerinde kalan “… Yapımı İşi” nde yüklenicinin ileri sürdüğü gerekçeler çerçevesinde mevzuata aykırı olarak süre uzatımı verilerek gecikme cezasının kesilmemesi ve bahse konu işe ilişkin olarak kesilen bir gecikme cezasının ilk sözleşme bedeli üzerinden kesilmesi nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı ahizi … San. Tic. Şti.’ den … tarihli ve … numaralı ve tahsilat makbuzları ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
