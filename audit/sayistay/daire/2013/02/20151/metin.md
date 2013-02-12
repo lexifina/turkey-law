@@ -1,0 +1,3 @@
+Gecikme cezası
+
+… Belediyesi tarafından … tarihi itibariyle ihalesi yapılan ve … .. A.Ş. firması üzerinde kalan “… Alımı ve Montajı Yapılması İşi” ne ait gecikme cezası kesilirken, söz konusu gecikme cezasının sözleşme tutarında artış olmasına rağmen ilk sözleşme bedeli üzerinden kesilmesi nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, söz konusu işlem ile … TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı ahizi … ... A.Ş.’ den … tarihli ve … numaralı tahsilat makbuzu ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
