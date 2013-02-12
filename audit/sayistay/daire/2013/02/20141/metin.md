@@ -1,0 +1,3 @@
+Prim oranı
+
+Açık ihale usulü ile ihale edilen “… ihale kayıt no.lu … Hizmet Alım İşi” kapsamında çalışan personel için kısa vadeli sigorta kolları prim oranı idari şartnamede ve yaklaşık maliyet hesabında % 2 olarak belirlendiği halde, yüklenici tarafından SGK’ ya % 1,5 prim oranı üzerinden ödeme yapıldığı ve bu suretle de kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, 140,20 TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı ahizi … Taah. Tic. Proje’ den … yevmiye numaralı muhasebe işlem fişi ve … tarihli ve … numaralı tahsilat makbuzu ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
