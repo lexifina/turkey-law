@@ -1,0 +1,3 @@
+Gecikme cezası
+
+… Belediyesi tarafından … tarihi itibariyle ihalesi yapılan ve … San. ve Tic. A.Ş. firması üzerinde kalan “… Yapım İşi” nde; havanın fen şartlarına uygun olmadığı gerekçesi ile mevzuata aykırı olarak süre uzatımı verilerek, gecikme cezasının kesilmemesi sonucu kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı ahizi … San. ve Tic. A.Ş.’ den … tarihli ve … numaralı tahsilat makbuzu ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
