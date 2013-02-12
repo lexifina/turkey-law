@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36526",
+  "decision_date": "2013-02-12",
+  "source_id": 6226,
+  "chamber": "3",
+  "file_number": "33732",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/6226/",
+  "source_sha256": "286c26349687892f7a5de553f4f676a75527a845769376a5062472417f17cdaa",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
