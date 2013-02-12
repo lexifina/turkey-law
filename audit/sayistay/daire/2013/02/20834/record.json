@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35078",
+  "decision_date": "2013-02-12",
+  "source_id": 20834,
+  "chamber": "2",
+  "ilam_number": "118",
+  "item_number": 11,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2010,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20834/",
+  "source_sha256": "978988c9db36a787d10ac61ab9ba38d83415597a73c653ac027b82628da8db68",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
