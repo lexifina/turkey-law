@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36313",
+  "decision_date": "2013-02-12",
+  "source_id": 6014,
+  "chamber": "7",
+  "file_number": "36232",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/6014/",
+  "source_sha256": "f59b75a713e2a5dd6ae52b0ec44d6e1a007685e61d2b801fdeb8802d1b07e1ad",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
