@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36539",
+  "decision_date": "2013-02-12",
+  "source_id": 6239,
+  "chamber": "7",
+  "file_number": "34065",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/6239/",
+  "source_sha256": "05beb50087e9e87db06fe047cc05089516a80dfc09e6d19aaeedb3ef6981cd4f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
