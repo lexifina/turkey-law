@@ -1,0 +1,20 @@
+{
+  "applicant": "G.S.",
+  "application_date": "2012-11-29",
+  "application_number": "2012/832",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2013-02-12",
+  "id": "bcd4365e-5ba5-f1c2-414d-d339f30af3e5",
+  "in_force": "2013-02-12",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmJjZDQzNjVlLTViYTUtZjFjMi00MTRkLWQzMzlmMzBhZjNlNQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "2cec5043eefa9945782fe47c3b047002facb18509735a81485a3f79dca5a8119",
+  "version_label": "as-enacted"
+}
