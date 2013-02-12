@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36297",
+  "decision_date": "2013-02-12",
+  "source_id": 5999,
+  "chamber": "7",
+  "file_number": "33933",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5999/",
+  "source_sha256": "b0ce4566e88ef7ec42866982825a32a24cd2b35db941d391e2dbd5142974985e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
