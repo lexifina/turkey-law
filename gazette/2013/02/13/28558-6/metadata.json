@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-02-13",
+  "issue": "28558",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2012-2013 Eğitim ve Öğretim Yılında Organize Sanayi Bölgelerindeki Özel Mesleki ve Teknik Eğitim Okullarında Öğrenim Gören Öğrencilere Destek Verilmesine İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130213-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130213.htm",
+  "index_sha256": "3f5b98c9fb9a712f477d95c96eab590f2f3c962772f6e9f615beb9e943959826",
+  "index_header": "13 Şubat 2013 ... 28558 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130213.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
