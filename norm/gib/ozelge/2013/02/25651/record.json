@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[229- - 8754]-110",
+  "source_id": 25651,
+  "date": "2013-02-13",
+  "title": "Taşımacılık işinin iş ortaklığı kapsamında değerlendirilip değerlendirilmeyeceği ile fatura düzeninin nasıl olması gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/25651",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "ae2fd31b1c63f6c1814e13070f921301b67df1c0f3bc338c83eb99fd63ebc38f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
