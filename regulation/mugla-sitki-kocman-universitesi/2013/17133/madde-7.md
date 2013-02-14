@@ -1,0 +1,3 @@
+Müdür
+MADDE 7 – (1) Müdür; Merkezin çalışma alanı olan deneysel araştırmalar konusunda bilimsel yayınları olan Sağlık Bilimleri alanında çalışan Üniversite öğretim üyeleri arasından, Rektör tarafından üç yıl için görevlendirilir. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesinden ve geliştirilmesinden sorumludur.
+(2) Müdür kendisine çalışmalarında yardımcı olmak üzere, Merkezin faaliyet alanları ile ilgili çalışmaları bulunan Üniversite öğretim elemanları arasından iki öğretim elemanını Müdür yardımcısı olarak görevlendirilmek üzere Rektöre teklif eder. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
