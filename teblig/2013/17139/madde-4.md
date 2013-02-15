@@ -1,0 +1,1 @@
+MADDE 4 – (1) TS 663 “Karayolu Taşıtları-Patinaj Zincirleri” standardı, TSE’nin merkez teşkilatından veya il temsilciliklerinden temin edilir. TSE’nin ve il temsilciliklerinin iletişim bilgilerine TSE’nin internet sitesinden ulaşılır.
