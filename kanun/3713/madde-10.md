@@ -24,4 +24,5 @@ c) İkinci Kitap Dördüncü Kısmın Dört, Beş, Altı ve Yedinci Bölümünde
 dolayısıyla açılan davalar, birinci fıkra hükmüne göre görevlendirilen mahkemelerde görülür. Üçüncü fıkranın (d), (e), (f) ve (h) bentleri hariç olmak üzere, bu madde hükümleri, bu suçlardan dolayı yapılan soruşturma ve kovuşturmalarda da uygulanır.
 Türk Ceza Kanununun 305, 318, 319, 323, 324, 325 ve 332 nci maddeleri hariç olmak üzere, İkinci Kitap Dördüncü Kısmın Dört, Beş, Altı ve Yedinci Bölümünde tanımlanan suçlarda, Ceza Muhakemesi Kanununda öngörülen tutuklama süresi iki kat olarak uygulanır.
 Çocuklar, bu madde hükümleri uyarınca kurulan mahkemelerde yargılanamaz; bu mahkemelere özgü soruşturma ve kovuşturma hükümleri çocuklar bakımından uygulanmaz.
+7218-2
 7219

@@ -13,5 +13,5 @@ Bekleme süreleri dışında rütbe terfii eden astsubaylar da yeni rütbelerini
 4421
 e) Muhtelif sebeplerle nasıp tarihleri lehlerine düzeltilenlerin, yeni nasıp tarihlerine göre ek - VIII sayılı cetveldeki kademelere intibakları yapılır.
 f) (Değişik: 29/9/1988 - 3475/13 md.) Kadrosuzluk (...) (1) sebebiyle rütbe terfi edemeyenlerden (a) bendinde belirtilen şartları haiz olanlar, bulundukları rütbede kademe ilerlemesi yapabilirler.
-g) (Ek: 21/7/2000 - KHK - 607/12 md.; Aynen kabül: 10/5/2006-5497/9 md.) Kademe ilerlemesi yapacak astsubaylardan görev esnasında yaralanmaları sebebiyle uzun süreli tedaviye tabi tutulanlardan o yıla ait sicil notu olmayanlarda, (a) bendindeki sicil notu şartı aranmaz. Bunların kademe ilerlemeleri sicil notu ortalamasına göre yapılır.
+g) (Ek: 21/7/2000 - KHK - 607/12 md.; Aynen kabul: 10/5/2006-5497/9 md.) Kademe ilerlemesi yapacak astsubaylardan görev esnasında yaralanmaları sebebiyle uzun süreli tedaviye tabi tutulanlardan o yıla ait sicil notu olmayanlarda, (a) bendindeki sicil notu şartı aranmaz. Bunların kademe ilerlemeleri sicil notu ortalamasına göre yapılır.
 Çeşitli nedenlerle Silahlı Kuvvetlerden ayrılacak astsubaylar hakkında yapılacak işlem:
