@@ -10,7 +10,7 @@ c) Sözleşmeli er adayı olma şartlarından herhangi birini taşımadığı so
 (4) Sözleşmeli erbaş ve erlerin sözleşmeleri, aşağıdaki nedenlerle sözleşme süresinin bitiminden önce feshedilir:
 a) Disiplinsizlik ve ahlâki durum nedeniyle Türk Silahlı Kuvvetlerinde görev yapamayacağı, sıralı amirlerinin her türlü bilgi ve belgeye dayanarak düzenleyeceği nitelik belgesi ile anlaşılmak.
 b) Yetersizlik ve görevde başarısız olma nedeniyle kendisinden istifade edilemeyeceği, sıralı amirlerinin her türlü bilgi ve belgeye dayanarak düzenleyeceği nitelik belgesi ile anlaşılmak.
-c) Disiplin mahkemelerince ve disiplin amirlerince verilen oda veya göz hapsi cezası da dâhil olmak üzere, kararın kesinleştiği tarihten itibaren geriye doğru, son bir yıl içinde toplam otuz gün ve daha fazla oda veya göz hapsi cezasına mahkûm olmak.
+c) (Değişik: 31/1/2013-6413/45 md.) En son aldığı disiplin cezasından geriye doğru son bir yıl içinde en az iki disiplin amirinden toplam sekiz defa veya daha fazla disiplin cezası almak.
 ç) Yasa dışı siyasi, yıkıcı ve bölücü faaliyetlerde bulunmak, tutum ve davranışlarıyla bu görüşleri benimsediği tespit edilmek.
 d) Sözleşmeli er olmak için gerekli nitelik ve şartlardan herhangi birini taşımadığı sonradan anlaşılmak veya sözleşme süresi içinde bu niteliklerinden herhangi birini kaybetmek.
 e) Yabancı uyruklu kişilerle yapılan evliliklerde, evlilikleri ilgili mevzuatta belirtilen esaslar dâhilinde Genelkurmay Başkanlığınca uygun görülmemek veya çeşitli nedenlerle Türk vatandaşlığını kaybetmek.
@@ -21,4 +21,7 @@ g) İstihdam edildikleri sınıf ve branşlarda görev yapamayacaklarına dair y
 11453
 (6) Dördüncü fıkranın (f) ve (g) bentleri gereğince sözleşmeleri idarece feshedilenler 7 nci maddenin beşinci ve altıncı fıkralarında belirtilen haklardan istifade ederler.
 (7) Görevde başarısız olma ve kendilerinden istifade edilememe hâlleri ile bunlara yapılacak işlemler yönetmelikle düzenlenir.
-(8) Sözleşmenin yapılmasını müteakip; barışta ve savaşta, görevini icra ederken veya görevi dolayısıyla bir saldırıya veya kazaya uğrayan ya da bir meslek hastalığına yakalananlar hariç olmak üzere, sözleşmeli erbaş ve erlerin hava değişimi ve istirahat süresinin toplamı, istirahat ve hava değişiminin başladığı tarihten geriye doğru son bir yıl içerisinde (yatarak tedavi olma süresi hariç) üç ayı geçemez. Sürenin hesaplanmasına en son alınan hava değişimi ve istirahat süresi dâhil edilir. Hava değişimi ve istirahat süresi üç ayı geçenlerin sözleşmeleri feshedilerek Türk Silahlı Kuvvetleri ile ilişikleri kesilir.
+(8) (Değişik: 31/1/2013-6413/45 md.) Sözleşmenin yapılmasını müteakip;
+a) Barışta ve savaşta, görevini icra ederken veya görevi dolayısıyla bir saldırıya, kazaya uğrayan ya da bir meslek hastalığına yakalananlar,
+b) Kanser, tüberküloz, kronik böbrek yetmezliği ile ruh ve sinir hastalıkları gibi sağlık kurulları raporlarında uzun süreli bir tedaviye ihtiyaç gösterdiği belirtilen bir hastalığa yakalananlardan, toplam olarak ve fiilen üç yılı geçmemek şartıyla tedavi, istirahat veya hava değişimine tabi tutulanlar,
+hariç olmak üzere, sözleşmeli erbaş ve erlerin hava değişimi ve istirahat süresinin toplamı, istirahat ve hava değişiminin başladığı tarihten geriye doğru son bir yıl içerisinde (yatarak tedavi olma süreci hariç) üç ayı geçemez. Sürenin hesaplanmasına en son alınan hava değişimi ve istirahat süresi dahil edilir. Hava değişimi ve istirahat süresi üç ayı geçenlerin sözleşmeleri feshedilerek Türk Silahlı Kuvvetleri ile ilişikleri kesilir.

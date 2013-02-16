@@ -29,7 +29,7 @@ __________________________
 4402-1
 aa) Devletin şahsiyetine karşı işlenen suçlar ile basit ve nitelikli zimmet, irtikâp, iftira, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, yalan yere tanıklık, yalan yere yemin, suç uydurmak, cinsel saldırı, cinsel taciz, kişiyi hürriyetinden yoksun bırakmak, fuhuş, gayri tabii mukarenet, hileli iflas gibi yüz kızartıcı veya şeref ve haysiyet kırıcı suçlar ile kaçakçılık, resmî ihale ve alım ve satımlara fesat karıştırma suçlarından birisinden mahkûm olmaması,
 bb) Firar, amir veya üste fiilen taarruz, emre itaatsizlikte ısrar, üste hakaret, mukavemet, fesat, isyan suçları ile 1632 sayılı Askeri Ceza Kanununun 148 inci maddesinde belirtilen suçlardan mahkûm olmaması,
-cc) Taksirli suçlar hariç olmak üzere, yukarıdaki bentlerde belirtilen suçların dışındaki suçlardan, askerî ve adlî mahkemeler, disiplin mahkemeleri veya disiplin amirlerince toplam olarak 21 gün ve daha fazla hapis veya oda hapsi cezası ile mahkûm veya cezalandırılmış olmaması,
+cc) (Değişik: 31/1/2013-6413/45 md.) Taksirli suçlar hariç olmak üzere, yukarıdaki bentlerde belirtilen suçların dışındaki suçlardan, toplam olarak 21 gün ve daha fazla hapis, oda hapsi veya hizmet yerini terk etmeme cezası ile mahkûm veya cezalandırılmış olmaması,
 gerekir.
 Açığa alınmayı gerektiren ya da yukarıdaki bentlerde sayılan suçlardan gözetim altına alınanlar, tutuklananlar veya kamu davası açılanlar, haklarındaki yargılama neticesine göre işleme tâbi tutulurlar.
 e) (Ek: 17/4/1975 - 1875/3 md.) Nasıp düzeltilmek suretiyle yapılacak terfiler 33 üncü madde hükmüne tabidir.

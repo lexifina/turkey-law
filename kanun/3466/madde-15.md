@@ -1,2 +1,2 @@
 Ayırma
-Madde 15 – Disiplinsizlik ve ahlaki durumları nedeniyle "Silahlı Kuvvetlerde kalması uygun değildir" şeklinde sicil düzenlenen Uzman Jandarmalar meslekten hemen çıkarılırlar ve haklarında Türkiye Cumhuriyeti Emekli Sandığı Kanunu hükümleri uygulanır.
+Madde 15 – (Mülga: 31/1/2013-6413/45 md.)

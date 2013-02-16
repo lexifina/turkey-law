@@ -1,4 +1,4 @@
-Derece yükselmesi, kademe ilerlemesi ve uzman onbaşılıktan uzman çavuşluğa terfi (1)
+Derece yükselmesi, kademe ilerlemesi ve uzman onbaşılıktan uzman çavuşluğa terfi (2)
 Madde 9- (Değişik: 10/2/2004-5085/5 md.)
 Uzman erbaşların;
 a) Kademe ilerlemesi yapabilmesi için;
@@ -7,7 +7,9 @@ a) Kademe ilerlemesi yapabilmesi için;
 3) Bulunduğu derecede ilerleyebileceği bir kademenin bulunması,
 b) Derece yükselmesi yapabilmesi için;
 _______________________
-(1) 6 ncı madde başlığı“Hizmet şartları“ ve 9 uncu madde başlığı “Kademe ilerlemesi ve terfi“ iken, 10/2/2004 tarihli ve 5085 sayılı Kanunun 4 ve 5 inci maddeleriyle metne işlendiği şekilde değiştirilmiştir.
+(1) 31/1/2013 tarihli ve 6413 sayılı Kanunun 45 inci maddesiyle, bu fıkrada yer alan “disiplin ve” ibaresi madde metninden çıkarılmıştır.
+(2) 6 ncı madde başlığı“Hizmet şartları“ ve 9 uncu madde başlığı “Kademe ilerlemesi ve terfi“ iken, 10/2/2004 tarihli ve 5085 sayılı Kanunun 4 ve 5 inci maddeleriyle metne işlendiği şekilde değiştirilmiştir.
+6836-2
 6837
 1) Derecesi içinde en az üç yıl ve bu derecenin üçüncü kademesinde bir yıl çalışmış olması,
 2) Bulunduğu derecenin her kademesinde olumlu sicil alması,
@@ -16,7 +18,7 @@ _______________________
 En az bir yıl hizmet ettikten sonra görevde başarılı olan uzman onbaşılar, yürürlüğe konulacak yönetmelikte belirtilecek esaslara göre uzman çavuşluğa terfi ettirilirler.
 Tedavi
 Madde 10 – (Değişik: 27/7/1993-KHK-489/4 md.; Değiştirilerek kabul: 10/2/2004-5085/6 md.)
-(Değişik birinci fıkra: 11/6/2008-5768/4 md.) Uzman erbaşlar ve bunların bakmakla yükümlü olduğu aile fertlerinin tüm sağlık işlemleri hakkında, 4/1/1961 tarihli ve 211 sayılı Türk Silâhlı Kuvvetleri İç Hizmet Kanunu hükümleri uygulanır. Ancak, uzman erbaşların hava değişimi ve istirahat süresinin toplamı, tedavi süresi hariç olmak üzere istirahat ve hava değişiminin başladığı tarihten geriye doğru son bir yıl içerisinde üç ayı geçemez. Sürenin hesaplanmasına en son alınan hava değişimi ve istirahat süresi dahil edilir. Hava değişimi ve istirahat süresi üç ayı geçenlerin Türk Silâhlı Kuvvetleri ile ilişikleri kesilir. Bunlardan barışta ve savaşta görev esnasında veya görev dışında görevlerinden dolayı bir saldırıya veya kazaya uğrayan veya bir meslek hastalığına yakalananların, iyileşinceye kadar ilişikleri kesilmez, izinli sayılırlar. 5 inci maddenin birinci fıkrasının (b) bendinde belirtilenler hariç olmak üzere, sıhhi arızası devam edenler ve kendisinden istifade edilemeyeceği anlaşılanlar hakkında 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu hükümleri uygulanır. (1)
+(Değişik birinci fıkra: 11/6/2008-5768/4 md.) Uzman erbaşlar ve bunların bakmakla yükümlü olduğu aile fertlerinin tüm sağlık işlemleri hakkında, 4/1/1961 tarihli ve 211 sayılı Türk Silâhlı Kuvvetleri İç Hizmet Kanunu hükümleri uygulanır. Ancak, uzman erbaşların hava değişimi ve istirahat süresinin toplamı, tedavi süresi hariç olmak üzere istirahat ve hava değişiminin başladığı tarihten geriye doğru son bir yıl içerisinde üç ayı geçemez. Sürenin hesaplanmasına en son alınan hava değişimi ve istirahat süresi dahil edilir. Hava değişimi ve istirahat süresi üç ayı geçenlerin Türk Silâhlı Kuvvetleri ile ilişikleri kesilir. Bunlardan barışta ve savaşta görev esnasında veya görev dışında görevlerinden dolayı bir saldırıya veya kazaya uğrayan veya bir meslek hastalığına yakalananların, iyileşinceye kadar ilişikleri kesilmez, izinli sayılırlar. (Ek cümle: 31/1/2013-6413/45 md.) Ayrıca, kanser, tüberküloz, kronik böbrek yetmezliği ile ruh ve sinir hastalıkları gibi uzun süreli bir tedaviye ihtiyaç gösteren hastalığa yakalananlar, sağlık kurulları raporlarında gösterilecek lüzum üzerine, toplam olarak ve fiilen üç yılı geçmemek şartıyla tedavi, istirahat veya hava değişimine tabi tutulabilir ve bunların da ilişikleri kesilmez. 5 inci maddenin birinci fıkrasının (b) bendinde belirtilenler hariç olmak üzere, sıhhi arızası devam edenler ve kendisinden istifade edilemeyeceği anlaşılanlar hakkında 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu hükümleri uygulanır. (1)
 Uzman erbaş emeklileri ile harp malûllüğü, vazife malûllüğü veya adî malûllük aylığı bağlanarak Türk Silâhlı Kuvvetlerinden ayrılan uzman erbaşlar, bunların bakmakla yükümlü olduğu aile fertleri ile harp ve vazife malûllüğünü gerektiren nedenlerden dolayı vefat edenlerin maaşa müstahak dul ve yetimleri, 211 sayılı Türk Silâhlı Kuvvetleri İç Hizmet Kanununun 66 ncı maddesinin (a) ve (b) fıkraları ile 67 nci ve 70 inci maddeleri hükümlerinden aynen istifade ederler.
 Uzman erbaşlardan;
 a) Kendi kusurları olmaksızın idare tarafından sözleşmeleri yenilenmeyenler ile sözleşme süresi içinde vefat, bir yıl içerisinde Kanunda belirtilen süreden daha fazla hava değişimi süresini geçirme, bulunduğu kadronun kaldırılması, istihdam edildiği kadronun sağlık niteliğini kaybetme nedenleriyle sözleşmeleri sona erenler ve bunların bakmakla yükümlü oldukları aile fertlerinin, Türk Silâhlı Kuvvetlerinde uzman erbaş olarak hizmet edilen süre kadar ve on yılı geçmemek üzere,
@@ -51,7 +53,7 @@ b) Verilen ceza, tecil edilse veya para cezasına çevrilse dahi;
 2) Askerî Ceza Kanununun 148 inci maddesinde yazılı suçlardan mahkûm olanların,
 c) Taksirli suçlar hariç olmak üzere diğer suçlardan adlî veya askerî mahkemeler tarafından otuz günden daha fazla süreli hürriyeti bağlayıcı bir ceza ile mahkûm olanların,
 ç) Taksirli suçlar nedeniyle altı ay veya daha fazla süre ile hürriyeti bağlayıcı bir cezaya mahkûm olanların,
-d) Disiplin mahkemeleri veya en az iki disiplin amirinden disiplin cezası aldığı tarihten geriye doğru son bir yıl içerisinde toplam otuz günden daha fazla hürriyeti bağlayıcı disiplin cezası alanların,
+d) (Değişik: 31/1/2013-6413/45 md.) Son olarak verilen de dahil olmak üzere, kararın kesinleştiği tarihten itibaren geriye doğru son bir yıl içinde toplamda otuz gün ve daha fazla oda hapsi veya hizmet yerini terk etmeme cezasına mahkûm olanların veya en son aldığı disiplin cezasından geriye doğru son bir yıl içinde en az iki disiplin amirinden toplam sekiz defa veya daha fazla disiplin cezası alanların,
 e) Yabancı uyruklu kişilerle evlenenlerden; bu evlilikleri, ilgili yönetmelikte belirtilen esaslar dahilinde Genelkurmay Başkanlığı tarafından uygun görülmeyenlerin,
 f) Çeşitli nedenlerle Türk vatandaşlığını kaybedenlerin veya Türk vatandaşlığından çıkartılanların,
 Sözleşmeleri feshedilmek suretiyle Türk Silâhlı Kuvvetleri ile ilişikleri kesilir.
@@ -86,7 +88,7 @@ b) Bu bentteki şartları sağlayan uzman erbaşlardan; kuvvet komutanlıkları,
 Yukarıdaki fıkra hükümlerine göre; astsubay nasbedilecekler, astsubay meslek yüksek okullarındaki öğrenim ve eğitimin süre ve şekilleri bakımından, 4752 sayılı Astsubay Meslek Yüksek Okulları Kanununa tâbi tutulurlar; astsubay nasbedilmek üzere temel askerlik eğitimine tâbi tutulacakların temel askerlik eğitimi esnasındaki öğrenim ve eğitim süre ve şekilleri, bu konuda yürürlüğe konulacak yönetmelikte belirtilir. Uzman erbaşlardan astsubay nasbedileceklerin astsubay meslek yüksek okullarında veya tâbi tutulacakları temel askerlik eğitimi esnasındaki öğrenim ve eğitimlerinde, özlük hakları yönünden uzman erbaşlık statüleri devam eder, evli ve nişanlı olmama durumu ile öğrenime ara vermeme şartı aranmaz. Bunların astsubay meslek yüksek okullarında yatılı olarak öğrenim görmeleri ile ilgili hususlar yönetmelikte düzenlenir. Bunlara okul ve temel askerlik eğitimi süresince 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 143 üncü maddesinde belirtilen öğrenci harçlıkları ödenmez. Bu süre içinde Türkiye Cumhuriyeti Emekli Sandığı iştirakçilikleri rütbe, derece ve kademelerine göre emsalleri gibi devam eder.
 Astsubay meslek yüksek okullarında veya tâbi tutulacakları temel askerlik eğitiminde başarılı olamayanlar ile kendi isteği ile ayrılanlardan, istekli olan ve uzman erbaş olmak için gerekli olan şartları kaybetmemiş olanlar, bu Kanun hükümlerine göre uzman erbaş olarak hizmete devam ettirilirler.
 (Değişik dördüncü fıkra: 10/2/2004-5085/9 md.) Bu madde hükümlerine göre uzman erbaşlardan astsubaylığa geçirilenler, 27.7.1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanunu hükümlerine tâbi olurlar. Bunların mecburi hizmet süresi, ilk sözleşmelerinin onaylandığı tarihten itibaren on yıldır. Bu personelin uzman erbaşlıkta geçen hizmet süreleri astsubay rütbe bekleme süresinden sayılmaz.(1)
-_________________
+___________________________
 (1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 64 üncü maddesi ile bu fıkrada yer alan “onbeş yıldır” ibaresi “on yıldır” şeklinde değiştirilmiştir.
 6840
 Özlük hakları

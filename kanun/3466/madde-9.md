@@ -1,5 +1,5 @@
 Sorumluluk
 Madde 9 – (Değişik: 12/6/2003-4892/4 md.)
-Uzman jandarmalar, çavuş rütbesi taşıyan asker kişi sayılırlar. Bunlar muvazzaflık hizmetinde ve yedeklik döneminde iken hizmete çağrıldıklarında uzman erbaş, sözleşmeli erbaş ve er, erbaş ve erlerin üstü olup, disiplin ve cezaî müeyyideler ile yargılama usulü bakımından erbaşlarla aynı hükümlere tâbi tutulurlar. Askerî öğrencilerle astlık ve üstlük münasebetleri yoktur. (3)
+Uzman jandarmalar, çavuş rütbesi taşıyan asker kişi sayılırlar. Bunlar muvazzaflık hizmetinde ve yedeklik döneminde iken hizmete çağrıldıklarında uzman erbaş, sözleşmeli erbaş ve er, erbaş ve erlerin üstü olup, (…)(1) cezaî müeyyideler ile yargılama usulü bakımından erbaşlarla aynı hükümlere tâbi tutulurlar. Askerî öğrencilerle astlık ve üstlük münasebetleri yoktur. (1)(2)
 Uzman jandarmalar, terhis kaydı, yedeklik yoklaması, hizmete celp, eğitim ve tatbikat gibi yedeklik dönemine ilişkin olarak bu Kanunda düzenlenmeyen hususlarda 1111 sayılı Askerlik Kanununun ilgili hükümlerine tâbidirler.
 Uzman jandarmalar, mülkî görevlerin ifası sırasında işledikleri suçlardan dolayı 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümlerine tâbidirler.
