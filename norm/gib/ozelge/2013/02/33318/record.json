@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-35-02-76",
+  "source_id": 33318,
+  "date": "2013-02-18",
+  "title": "DİİB. Kapsamında İkincil İşlem Görmüş Ürün İçin Ödenen KDV'nin İndirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33318",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "36a64d9dc15e926f037d5186590806cca1a36261d1d9d59dd7163f381593de12",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
