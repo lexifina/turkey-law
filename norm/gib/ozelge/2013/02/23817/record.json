@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[94-2012/1212]-211",
+  "source_id": 23817,
+  "date": "2013-02-18",
+  "title": "İntifa hakkına dayanılarak işyeri olarak kullanılan gayrimenkul için emsal kira bedeli hesaplanıp hesaplanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23817",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "8e1d2e2efc3d972ecad8654328ce3a22e21b7f869f3349149cd675f0b2bf6170",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
