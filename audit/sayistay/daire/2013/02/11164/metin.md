@@ -1,0 +1,5 @@
+Denetim Görevinin Yapılması:
+
+Enerji Piyasası Düzenleme Kurumu Teşkilatı ve Personelinin Çalışma Usul ve Esasları Hakkında Yönetmeliğin “Denetim” başlıklı 35 inci maddesinde kurum görev ve hizmetlerinin gerektirdiği her türlü denetimin, Başkan tarafından görevlendirilecek Enerji Uzmanları ve Enerji Uzman Yardımcıları tarafından gerçekleştirileceği ifade edilmiştir.
+
+Yapılan incelemede 2011 yılında ... tarafından yapılan elektrik dağıtım şirketlerinin denetiminde denetim ekiplerinde yönetim görevlilerinin de olduğu anlaşılmış olmakla birlikte, ekibin tamamının bu görevlilerden oluşmadığı, bir diğer deyişle ekiplerde en az bir tane enerji uzmanının da bulunduğu, ayrıca yapılan savunmalardan söz konusu yönetim görevlisi personellerin konu hakkında tecrübe ve teknik bilgi birikimi sahibi mühendisler olduğu ve bu anlamda bu görevlilerin ekip içerisinde bulunmalarının kurumun menfaatine olduğu görüldüğünden, mevzuatına uygun olduğu anlaşılan işlemlerle ilgili olarak ilişilecek husus bulunmadığına, oy birliğiyle, karar verildi.
