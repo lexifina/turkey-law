@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "9",
+  "decision_date": "2013-02-18",
+  "source_id": 11172,
+  "chamber": "8",
+  "ilam_number": "80",
+  "item_number": 11,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11172/",
+  "source_sha256": "34e1c911d8c7280a3cb07248abd8c87a685b662bcb6de6e04cdfa5d3d2c73b3b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
