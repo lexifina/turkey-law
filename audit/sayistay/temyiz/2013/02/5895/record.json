@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36547",
+  "decision_date": "2013-02-19",
+  "source_id": 5895,
+  "chamber": "8",
+  "file_number": "35445",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5895/",
+  "source_sha256": "3342dedfb34e3e61bbcc2633079c461e6b09406f99c2bcda43220ef7a2553906",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
