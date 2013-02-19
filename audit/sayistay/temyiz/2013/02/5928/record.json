@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36580",
+  "decision_date": "2013-02-19",
+  "source_id": 5928,
+  "chamber": "3",
+  "file_number": "30808",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5928/",
+  "source_sha256": "052f42855d7ff0a8317720b7dfa5d328b297fd02f0ad8eb6128de7d46ba97a9b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
