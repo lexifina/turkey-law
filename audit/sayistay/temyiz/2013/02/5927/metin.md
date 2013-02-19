@@ -1,0 +1,25 @@
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü;
+
+2404 sayılı Ek İlam’ın 1.maddesi ile, Kuşadası Devlet Hastanesi İkmal İnşaatı işinde yapılan imalat miktarına esas olacak metrajları tespit etmek üzere görevlendirilen bilirkişiler tarafından düzenlenen raporda 1993 ve 1994 yıllarında düzenlenen hakediş raporlarında hakedişe dahil edildiği halde bazı iş kalemlerinin hiç imalatta olmadığı, bazılarının ise hakedişlerde gösterilen imalat miktarlarına nazaran daha az olması nedeniyle 4.353,38 TL’ye tazmin hükmü verilmiştir.
+
+Dilekçi dilekçesinde özetle, kendisinin teknik heyette bulunmadığını; belgeler gerçeğe aykırı ise bunu bilmesinin mümkün olmadığını; sayman olarak üzerine düşen incelemeyi yapıp evrakın tam olarak mevcut olduğunu tespit ettikten sonra verile emrini imzalamasının gayet tabii olduğunu; hastane inşaatında başkalarının gerçek dışı belge düzenlemesinin sorumluluğunun onlara ait olduğunu ve kendisinin sorumlu tutulmasının hukuk ilkelerine, insan haklarına, yasalara ve Anayasa’ya aykırı olduğunu belirterek beraatına karar verilmesini talep etmiştir.
+
+Başsavcılık, Daire kararının onanması yönünde görüş bildirmiştir.
+
+Dilekçi göndermiş olduğu ikinci dilekçesinde özetle, Aydın Defterdarlık Muhasebe Müdürlüğünün 1994 yılı idare hesabının incelenmesi sonucu Sayıştay Başkanlığının sorgu kağıdının 20/12/1995 tarihinde tarafına tebliğ edildiğini ve sayman olarak 19/01/1996 tarihinde savunmasını yaptığını; 16 yıl aradan sonra 20/12/2011 tarihinde 3. Dairenin ilamının tarafına tebliğ edildiğini; bu süre içinde kendisiyle ilgili herhangi bir yazışma veya dava safahati gibi zaman aşımını kesici bir işlem olmadığından çıkarılan tazminatın zaman aşımına uğramış olduğunu;
+
+1050 sayılı Muhasebe-i Umumiye Kanununun 22 inci maddesindeki saymanının sorumluluğunun hesap hataları ile ilgili olması gerektiğini; saymanın incelemeyi evrak üzerinde yaptığını; Kuşadası hastane inşaatında ise sorgu kağıdı ve 3.Dairenin ilamında belirtildiği üzere Bayındırlık Müdürlüğünün teknik elemanlarının yapılmamış işleri yapılmış gibi veya az yapılmış işleri çok yapılmış gibi gösterdiklerini; bu durumun sahte resmi evrak tanzim etmek olduğunu; yasalarımıza göre suç ve cezalarda şahsilik ilkesi olduğunu ve suçu işleyenin cezalandırıldığını; bu suçun başkalarına yüklenemeyeceğini ve başkalarının suçuna saymanın da ortak edilmesinin kabul edilemeyeceğini belirterek beraatına ve kendisi ilgili tazmin hükmünün kaldırılmasına karar verilmesini talep etmiştir.
+
+1050 Sayılı Muhasebe-i Umumiye Kanunu’nun “İlkeler ve Yaptırımlar” başlıklı 22. Maddesinde;
+
+“…
+
+C) Alınmayan mal yada hizmetin alınmış; mevcut olmayan inşaat, onarım ve üretimi var ya da bitmiş gibi göstererek gerçek dışı belge düzenlemek suretiyle Devletin mal varlığından bir eksilmeye neden olanlar ile bu ve benzeri gerçekleştirme ve diğer kanıtlayıcı belgeleri bilerek imza ya da onaylamış bulunanlar hakkında ceza kanunlarının bu eylemlere ilişkin hükümleri uygulanır.
+
+D) Yukarıdaki fıkralarda belirtilen hükümlere aykırı işlerin ve davranışlardan doğan Devlet zararı, sorumlularına ödettirilir. Şu kadar ki,suç konusu teşkil etmemek kaydıyla bu işlem ve davranışlar Devlete ait bir hizmet ve girişimin gerçekleştirilmesi ya da tamamlanması gibi iyi niyetli bir amaca dayandığı ve hizmet yapılmış ya da mal teslim alınmış bulunduğu takdirde, Sayıştayın, Maliye ve Gümrük Bakanlığının ya da ilgili dairenin istemi üzerine, atamaya yetkili merci veya kurullar tarafından sorumlularının birer aylıklarının ceza olarak kesilmesine; tekrarlanması durumunda bunların ilgili hizmetlerde bir daha çalıştırılmamak üzere görevlerinin değiştirilmesine ya da memurluktan çıkarılmasına Kanun, Tüzük ve Yönetmeliklerinde bu cezayı vermeye yetkili kılınmış merci ya da kurullarca karar verilir. Bu Kanunun sorumluluk üstlenme ile ilgili hükümleri saklı kalmak üzere, gözetim yükümlülüğünü yerine getirmeyen ikinci derece ita amirlerinin birer aylıklarının kesilmesine Sayıştayın veya Maliye ve Gümrük Bakanlığının istemi üzerine İçişleri Bakanlığınca karar verilir. Birinci derece ita amiri olan Bakanlar hakkında 13 üncü madde uyarınca işlem yapılır.” Denilmektedir.
+
+Buna göre, Saymanın hakediş raporlarında hakedişe dahil edildiği halde bazı iş kalemlerinin hiç imalatta olmamasını veya hakedişlerde gösterilen imalat miktarlarına nazaran daha az olmasını tespit etme imkanı bulunmamaktadır. Zira hakediş uygulamaları ve ödemeleri teknik konular olup uzmanlık gerektirmektedir. Bu nedenle, teknik bilgi ve uzmanlıktan yoksun olan saymanın, önüne getirilen hakediş raporunu sağlıklı biçimde incelemesi, inşaattaki imalat, ihzarat ve nakliye durumlarını bilmesi veya takip etmesi mümkün olmayacağından bu hususlarda saymana sorumluluk yüklenmesi de mümkün değildir.
+
+Bu itibarla, dilekçinin sorumluluk yönünden yaptığı itirazın kabul edilerek 2404 sayılı Ek İlam’ın 1. maddesi ile verilen tazmin hükmünün usulden Bozularak sorumlulukların yeniden belirlenmesi için dosyanın kararı veren DAİREYE GÖNDERİLMESİNE,
+
+Karar verildiği  19.02.2013  tarih ve  36579  sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.

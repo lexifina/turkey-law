@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36579",
+  "decision_date": "2013-02-19",
+  "source_id": 5927,
+  "chamber": "3",
+  "file_number": "36113",
+  "account_year": "1994",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5927/",
+  "source_sha256": "cf04ddc1a30ff8326f13d02820a1e79cf21c4396f506ad37df48b0baa7c307a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
