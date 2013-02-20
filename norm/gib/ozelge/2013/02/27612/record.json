@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125[30-2013]-31",
+  "source_id": 27612,
+  "date": "2013-02-20",
+  "title": "Yurtdışından alınacak bilgisayar yazılımları ve bilgi transferi bilgi transferi hizmetleri ve bunlara yönelik yurt içinde ve yurt dışında eğitim, danışmanlık, teknik destek, güncelleme ve bakım hizmetleri nedeniyle yapılacak ödemelerden e tevkifat yapılıp",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27612",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "2793b9893ca5de2b4531f18619c2e3c966ec1536a80be0124f33e0e0f861158d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
