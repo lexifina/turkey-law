@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4280",
+  "decision_date": "2013-02-20",
+  "title": "Doğal Gaz Dağıtım Şirketleri İçin Tarife Hesaplama Usul ve Esaslarını belirleyen 22/12/2011 tarih ve 3580 sayılı Kurul Kararları uyarınca Aksa Sivas Doğalgaz Dağıtım A.Ş.’nin (SİDAŞ) 2012-2016 yıllarını kapsayan tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2013-03-01",
+  "resmi_gazete_number": "28574",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eMTkdVHkojI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eMTkdVHkojI="
+  ],
+  "source_sha256": "3ed2a59b8b6a2b96235a1709c5a75dfd28ca8731b2964f5112a56b7c0f15c8ef",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-02-20",
+  "law_text_complete": false
+}
