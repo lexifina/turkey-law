@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "7",
+  "decision_date": "2013-02-21",
+  "source_id": 14349,
+  "chamber": "4",
+  "ilam_number": "100",
+  "item_number": 43,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14349/",
+  "source_sha256": "874b62a2a18a3952617f1f77865448f21381daecd2c1d3705b4ca2aef029052f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
