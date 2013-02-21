@@ -1,0 +1,5 @@
+Kira Bedellerinin Güncel Değerlerinin Altında Kalması.
+
+	… Büyükşehir Belediyesi’ne ait gayrimenkullerin 2886 sayılı Devlet İhale Kanunu hükümlerine göre ihale yolu ile kiraya verilmemesi nedeniyle kira bedellerinin güncel değerlerinin altında kalması ve dolayısıyla kamu kaynağında artışa engel olunması nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+	Sorumlularca gönderilen savunmalar uyarınca, belediye tarafından gayrimenkullerin kiralama işlemlerinin 2886 sayılı Devlet İhale Kanunu Hükümlerine göre ihale ile yapılmakta olduğu ve kira bedellerinin de Kanuna uygun olarak tespit edildiği; sözleşme sonunda kira süresi 6570 sayılı Gayrimenkul Kiraları Hakkında Kanun gereğince uzayan kiralamaların bedellerinin de sözleşmelerine uygun olarak rayiç değer, enflasyon ve günün koşulları dikkate alınarak Belediye Encümenince belirlendiği görülmüş olup, bu uygulamanın kamu zararına neden olmadığı anlaşıldığından bu konuda ilişilecek bir husus bulunmadığına oy birliğiyle karar verildi.
