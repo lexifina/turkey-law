@@ -1,0 +1,1 @@
+MADDE 5 – (1) TS EN 3-8 ile TS EN 3-9/AC standardlarına TSE’nin merkez teşkilatından veya il temsilciliklerinden temin edilir. TSE’nin ve il temsilciliklerinin iletişim bilgilerine TSE’nin internet sitesinden ulaşılır.

@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.17143",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SEYYAR YANGIN SÖNDÜRÜCÜLER BÖLÜM 8 VE BÖLÜM 9 İLE İLGİLİ TEBLİĞ (TS EN 3-8, TS EN 3-9/AC) (TEBLİĞ NO: MSG-MS-2013/2)",
+  "number": "17143",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2013/17143",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17143&MevzuatTertip=5",
+  "source_sha256": "060f87194e236dc132e16546aee4a4716928d79b28cef353439a5274634554dd",
+  "source_bytes": 12595,
+  "published": "2013-02-21",
+  "gazette": "28566",
+  "in_force": "2013-02-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.02.2013); own commencement article: \"Bu Tebliğ yayımlandığı tarihten altı ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımlandığı tarihten altı ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 508,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

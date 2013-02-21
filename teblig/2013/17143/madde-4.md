@@ -1,0 +1,1 @@
+MADDE 4 – (1) TS 862-3 EN 3-3 standardı mecburi uygulamadan kaldırılacağından, 4/2/2000 tarihli ve 23954 sayılı Resmî Gazete’de yayımlanan Türk Standardlarına Uygunluk Belgesi ve TSE Markası Hakkında Tebliğ (Tebliğ No: ÖSG-2000/13-14) ekinde yer alan “Türk Standardlarına Uygunluk Belgesi ve TSE Markası Aranacak Mamuller Listesi” nden bu standard çıkartılacaktır.
