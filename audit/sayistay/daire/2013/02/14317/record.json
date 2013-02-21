@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "7",
+  "decision_date": "2013-02-21",
+  "source_id": 14317,
+  "chamber": "4",
+  "ilam_number": "100",
+  "item_number": 14,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2011,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14317/",
+  "source_sha256": "6ba297d630efeeaa1966229ca0bd5787d8066a2a67d0f09ffa19b5320c8ae1ed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
