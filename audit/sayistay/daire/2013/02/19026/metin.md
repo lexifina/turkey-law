@@ -1,0 +1,5 @@
+Yıllık İzin Ücreti Ödenmesi.
+
+	…. Büyükşehir Belediyesi tarafından …. Ltd. Şti.’ne ihale edilen “…Büyükşehir Belediyesi Basın ve Organizasyon Hizmetlerinin Yürütülmesi ve Desteklenmesi İşi”nde, şirket çalışanlarının görev süresi 1 yılı doldurmadığı halde yıllık izin ücreti ödenmesi nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda,
+
+	Sorumlularca yapılan savunmalar ve Denetçi görüşü çerçevesinde; yapılan ödemenin 4857 sayılı İş Kanunu’nun  “Tanımlar” başlıklı 2, “Yıllık ücretli izin hakkı ve izin süreleri” başlıklı 53, “Yıllık ücretli izne hak kazanma ve izni kullanma dönemi” başlıklı 54, “Yıllık izin bakımından çalışılmış gibi sayılan haller” başlıklı 55, “Yıllık ücretli iznin uygulanması” başlıklı 56, “Yıllık izin ücreti” başlıklı 57, “İzinde çalışma yasağı” başlıklı 58, “Sözleşmenin sona ermesinde izin ücreti” başlıklı 59 ve “İzinlere ilişkin düzenlemeler” başlıklı 60’ıncı maddeleri, bu konuda verilen iş mahkemesi kararları ve Kamu İhale Kurumu Kararlarına uygun olduğu anlaşıldığından ilişilecek bir husus bulunmadığına oy birliğiyle karar verildi.
