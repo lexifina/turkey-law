@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "15",
+  "decision_date": "2013-02-21",
+  "source_id": 7252,
+  "chamber": "6",
+  "ilam_number": "96",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7252/",
+  "source_sha256": "ea2328cacaa54c1dc647b5e3349b0782ac23c0c400af7f68a4742ea170d9270f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
