@@ -1,0 +1,7 @@
+Dernek ve Vakıflara Yardım Yapılması.
+
+… Büyükşehir Belediyesi tarafından bazı dernek, vakıf ve topluluklara mevzuata aykırı olarak ödemeler yapılması nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda,
+
+	5393 sayılı Belediye Kanunu’nun “Belediyenin görev ve sorumlulukları” başlıklı 14/a maddesinde yer alan “…… kültür ve sanat, turizm ve tanıtım, gençlik ve spor; sosyal hizmet ve yardım, nikâh, meslek ve beceri kazandırma; ekonomi ve ticaretin geliştirilmesi hizmetlerini yapar veya yaptırır……” hükmü uyarınca eğitim, kültür ve sanat hizmetleri ile sosyal bağları güçlendirici hizmetlerin görülmesi veya gördürülmesi yerel yönetimlerin görevi ve sorumluluğu olduğundan ve benzer amaçlarla çalışan dernek, vakıf ve benzeri sivil toplum kuruluşlarının bu yöndeki çalışmalarını desteklemek de belediyelerin görevleri arasında sayıldığından; … Büyükşehir Belediyesi tarafından yapılan sorgu konusu ödemelerde ilişilecek bir husus bulunmadığına,
+
+	(Üye ….’ın “5253 sayılı Dernekler Kanunu’nun “Yardım ve işbirliği” başlıklı 10’uncu maddesi, 5072 sayılı Dernek ve Vakıfların Kamu Kurum ve Kuruluşları İle İlişkilerine Dair Kanun’un “Amaç ve kapsam” başlıklı 1 ve “Temel ilkeler” başlıklı 2’nci maddeleri uyarınca ve Denetçi görüşünde yer alan gerekçelerle tazmin hükmü verilmesi gerekir.” şeklindeki ayrışık görüşüne karşı) oy çokluğuyla karar verildi.
