@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-02-21",
+  "issue": "28566",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2013/4274 Türkiye Cumhuriyeti Hükümeti ile Afganistan İslam Cumhuriyeti Hükümeti Arasında Uluslararası Karayolu Taşımacılığı Anlaşmasının Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130221-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130221.htm",
+  "index_sha256": "60c2e4e235b9c7af0876311a209fb48be1f9ecf98ae3376921151c5b0c01d304",
+  "index_header": "21 Şubat 2013 ... 28566 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130221.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
