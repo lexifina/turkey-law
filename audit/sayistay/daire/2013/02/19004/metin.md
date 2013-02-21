@@ -1,0 +1,3 @@
+Karar ve Sözleşme Damga Vergilerinin Eksik Tahsil Edilmesi.
+
+	… Belediyesi’ne Ait … Han’ın A.12 Nolu Bağımsız Bölümü Olan Otel Fonksiyonlu 2’nci Katının ve Eklentilerinin İnce Yapı ve Tefrişat İşlerinin Tamamlanarak 5393 sayılı Belediye Kanunu’nun 18’inci Maddesinin (e) Bendi Gereğince 30 Yıllığına Kiralanması İşi”nde karar ve sözleşme damga vergilerinin eksik tahsil edilmesi nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı ahizi … A.Ş.’den … tarih ve … numaralı mahsup alındısı ile mahsuben tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
