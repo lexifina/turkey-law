@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.17145",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 424)",
+  "number": "17145",
+  "path": "teblig/2013/17145",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17145&MevzuatTertip=5",
+  "source_sha256": "6a9459dede2276f86ccf2478e994a7fa88510aa9f1687a25a390d873a2ab3bde",
+  "source_bytes": 19466,
+  "published": "2013-02-21",
+  "gazette": "28566",
+  "in_force": "2013-02-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.02.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1072,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
