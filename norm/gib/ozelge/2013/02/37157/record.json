@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-175.01[30-2012/18]-91",
+  "source_id": 37157,
+  "date": "2013-02-21",
+  "title": "Çevre düzeni planında tarım alanı olarak ayrılan taşınmaz üzerinde yer alan binaya Emlak Vergisi Kanununun 30 uncu maddesine göre kısıtlı vergi uygulanıp uygulanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37157",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "84de96bc1153f1144e5d310a8120b6e6f5369c2c025566327494b80b89742176",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
