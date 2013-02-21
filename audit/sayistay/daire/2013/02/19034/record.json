@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "15",
+  "decision_date": "2013-02-21",
+  "source_id": 19034,
+  "chamber": "6",
+  "ilam_number": "96",
+  "item_number": 33,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19034/",
+  "source_sha256": "80391ad3df256299fbc3cfbd28d452397c8c48b15a7d2d204ebdb00aad48c08f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
