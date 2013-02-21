@@ -1,0 +1,3 @@
+Karar ve Sözleşme Damga Vergilerinin Eksik Tahsil Edilmesi.
+
+	… ili, …İlçesi, … Mahallesi 1. Derece Doğal Sit Alanında, .. Ada, … Nolu Parseller Üzerinde … Parkı Yapılarak İşletilmesi ve Kiralanması İşi”nde karar ve sözleşme damga vergilerinin eksik tahsil edilmesi nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı ahizi …Limitet Şirketi’nden … tarih ve … numaralı, … tarih ve .. numaralı, … tarih ve … numaralı vezne alındıları ile nakden tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
