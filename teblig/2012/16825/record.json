@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.16825",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO:420)",
+  "number": "16825",
+  "path": "teblig/2012/16825",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16825&MevzuatTertip=5",
+  "source_sha256": "ab93d4a76a20a0063ca66e7c65eaa1636ba701dba3cff28dd3b1be259f03a72d",
+  "source_bytes": 19936,
+  "published": "2012-12-07",
+  "gazette": "28490",
+  "in_force": "2013-02-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/2/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-02-21",
+      "RG-21/2/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1197,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
