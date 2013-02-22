@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "71387770-135[1-2012/45]-11",
+  "source_id": 33773,
+  "date": "2013-02-22",
+  "title": "Üretim Tasdik Raporlarında İdarece Onaylı Gümrük Beyannamesinde Ürünlerin GTİP numaralarının Mevcut Olması Halinde Tevsik Edici Belge Aranıp Aranmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33773",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "28f4d64bef66f667b66e91e9206fd127038c6c8f23b42c8456166b11dcb80a49",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
