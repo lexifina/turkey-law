@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-175.01[4-2012/24]-147",
+  "source_id": 36996,
+  "date": "2013-02-22",
+  "title": "Vakıflar Genel Müdürlüğü ve Mazbut Vakıflara ait taşınmazların emlak vergisi muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36996",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "76f4c0857e6b215d409a44943cf5b407ff17a98fa3cd4b22ee4b48dd3c805268",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
