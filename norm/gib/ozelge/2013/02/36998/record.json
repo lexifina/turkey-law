@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-175.01[4-2012/6-1.46.11478]-260",
+  "source_id": 36998,
+  "date": "2013-02-22",
+  "title": "Enerji üretim tesislerinin emlak vergisinden muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36998",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "ff9062f34b8b3df367b714f10783e581ceb593cf472e22bfb8c7338916f93661",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
