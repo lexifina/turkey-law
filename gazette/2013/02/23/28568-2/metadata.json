@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-02-23",
+  "issue": "28568",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2013/4309 Basın İlan Kurumu Genel Kurulunda Boşalan Temsilciliklere Yapılan Görevlendirmeler Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130223-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130223.htm",
+  "index_sha256": "b544f83a8245f1a78918c09ec9a21ea56b294fafeef2aa04182bf77e355d7b81",
+  "index_header": "23 Şubat 2013 ... 28568 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130223.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
