@@ -1,0 +1,81 @@
+{
+  "source_id": "7.5.13171",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "NUMARALANDIRMA YÖNETMELİĞİ",
+  "number": "13171",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "issuer_slug": "bilgi-teknolojileri-ve-iletisim-kurulu-baskani",
+  "path": "regulation/bilgi-teknolojileri-ve-iletisim-kurulu-baskani/2009/13171",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13171&MevzuatTertip=5",
+  "source_sha256": "f187c4ca650dae63b1a8c59aa1893bd43fb9861100b6e57fd6a716ad9e84beef",
+  "source_bytes": 98742,
+  "published": "2009-06-27",
+  "gazette": "27271",
+  "in_force": "2013-02-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/2/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-02-24",
+      "RG-24/2/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-02-24",
+      "24/2/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-01-11",
+      "RG-11/1/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-01-11",
+      "11/1/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-09-04",
+      "4/9/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-02-18",
+      "18/2/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-08-25",
+      "25/8/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-05-04",
+      "RG-4/5/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-05-04",
+      "4/5/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 10/5/2009 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2595,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.13171%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

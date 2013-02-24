@@ -1,0 +1,4 @@
+Başvurunun yapılması
+MADDE 8 – (1) Başvurunun yapılmasına ilişkin hususlar aşağıda belirtilmiştir:
+a) Yetkilendirme ile birlikte başvuru: Numara tahsisi gerektiren bir elektronik haberleşme hizmeti sunmak ve/veya şebekesi veya altyapısını kurmak ve işletmek üzere ilgili mevzuata uygun olarak Kuruma başvuruda bulunanlar, talep edilen numara kaynağına göre bu Yönetmeliğin ekinde yer alan ilgili başvuru formunu da doldurur. Yetkilendirme başvurusu ile birlikte yapılacak numara tahsis başvuruları bu Yönetmelik hükümleri çerçevesinde yetkilendirme başvuruları ile paralel olarak değerlendirilir.
+b) (Değişik:RG-24/2/2013-28569) İşletmecilerin başvurusu: İşletmeci, Kurum düzenlemelerine uygun faaliyetleri kapsamında talep ettiği numaralar için bu Yönetmeliğin ekindeki başvuru formunu eksiksiz doldurarak Kuruma başvurur.

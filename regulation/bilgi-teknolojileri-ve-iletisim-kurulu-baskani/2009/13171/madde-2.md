@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, elektronik haberleşme şebekelerinde kullanılan numaraların ulusal kapsamda planlanması, plana uygun olarak numara kullanım hakkının verilmesi, kullanım hakkı verilen numaraların etkin ve verimli kullanımının sağlanması, geri alımı ve benzeri konularda uygulanacak usul ve esaslar ile ITU tarafından tanımlanan küresel uluslararası numaralandırma planlarında ülkelerin düzenlemeleri gereken hususları kapsar.

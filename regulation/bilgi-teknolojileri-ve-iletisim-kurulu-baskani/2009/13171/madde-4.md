@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Abone: Bir işletmeci ile elektronik haberleşme hizmetinin sunumuna yönelik olarak yapılan bir sözleşmeye taraf olan gerçek ya da tüzel kişiyi,
+b) Arama planı: Ulusal numaralandırma planında kullanılan yöntemi tanımlayan, çağrı sonlandırmasını sağlayacak şekilde önek ve ek bilgilerin kullanımını içeren, ondalık rakamlar, semboller ve ek bilgilerin kombinasyonunu veya dizinini,
+c) Birincil tahsis: Numara ve/veya numara bloklarının Kurum tarafından ilgili mevzuat uyarınca tahsis edilmesini,
+ç) Doluluk oranı: Aynı numara türünde hizmete verilmiş numaraların tahsis edilen numara sayısına oranını,
+d) Elektronik haberleşme şebekesi: Bir veya daha fazla nokta arasında elektronik haberleşmeyi sağlamak için bu noktalar arası bağlantıyı teşkil eden anahtarlama ekipmanları ve hatlar da dahil olmak üzere her türlü iletim sistemleri ağını,
+e) Hizmete veriliş: Münferit olarak tahsis edilen numaralarda numaranın şebekede tanımlanarak kullanıma açılmasını, blok olarak tahsis edilen numaralarda ise numara bloğundan en az bir numaranın aboneye tahsis edilmek suretiyle kullanıma açılmasını,
+f) ITU: Uluslararası Telekomünikasyon Birliğini (International Telecommunication Union),
+g) İkincil tahsis: Birincil tahsis yapılan işletmecinin, kendisine tahsis edilmiş numaraları abonelerine ve/veya ilgili mevzuat uyarınca diğer işletmecilere tahsisini,
+ğ) İşletmeci: Yetkilendirme çerçevesinde elektronik haberleşme hizmeti sunan ve/veya elektronik haberleşme şebekesi sağlayan ve alt yapısını işleten şirketi,
+h) Kanun: 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununu,
+ı) Kullanıcı: Aboneliği olup olmamasına bakılmaksızın elektronik haberleşme hizmetlerinden yararlanan gerçek veya tüzel kişiyi,
+i) Kullanım hakkı: Frekans, numara, uydu pozisyonu gibi kıt kaynakların kullanılması için verilen hakkı,
+j) Kurul: Bilgi Teknolojileri ve İletişim Kurulunu,
+k) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+l) Numara: Şebeke ve/veya şebeke sonlanma noktasını tanımlayan, söz konusu noktaya ses, veri ve görüntünün yönlendirilmesini sağlayan, kullanıldığı yere göre abone, işletmeci, elektronik haberleşme şebekesi ve/veya hizmeti ile ilişkilendirilebilen bilgiyi içeren harf, rakamlar dizini veya sembolleri,
+m) Numara bloğu: Ulusal numaralandırma planında 1.000, 10.000, 100.000 veya 1.000.000 adet numara olacak şekilde ardışık numara dizinini,
+n) Numara kullanım hakkı ücreti: Numara türüne göre Kanunun 11 inci maddesinin beşinci fıkrasına göre belirlenen asgari değerden az olmamak üzere birincil tahsiste alınan kullanım hakkı ücretini,
+o) Numara tahsisi: Numara ve/veya numara bloklarının kullanım hakkının verilmesini,
+ö) Paralel çalışma: Ulusal numaralandırma planı değişikliklerinde veya numara değişikliği kapsamında Kurumca gerekli görülen diğer durumlarda, eski ve yeni numaraların önceden belirlenmiş sınırlı bir süre için birlikte yürürlükte ve çalışır durumda olmasını,
+p) Şebeke sonlanma noktası: Elektronik haberleşme şebekesinde aboneye erişimin sağlandığı fiziksel noktayı, anahtarlama veya yönlendirme ihtiva eden şebekelerde ise abone numarası veya ismi ile ilişkilendirilebilen özel bir şebeke adresiyle tanımlanan noktayı,
+r) Taşıyıcı: Bir çağrının başlatılması, sonlandırılması veya taşınması hizmetlerinin tümünü veya bir kısmını sunan işletmeciyi,
+s) Taşıyıcı seçim kodu: Taşıyıcılara, taşıyıcı seçimi amacıyla Kurumca tahsis edilen kodu,
+ş) Taşıyıcı seçimi: Taşıyıcının, taşıyıcı seçim kodu çevrilmesi suretiyle seçilmesi yöntemini,
+t) Ulusal numaralandırma planı: Numaraların yapısını tanımlayan, yönlendirme, adresleme, ücretlendirme veya hizmet türüne ilişkin bilgi vermek üzere bölümlere ayrılarak tanımlanabilen numaralandırma planını,
+u) Yetkilendirme: Elektronik haberleşme hizmetlerinin sunulması ve/veya elektronik haberleşme şebekesi sağlanmasını teminen şirketlerin, Kurum nezdinde kayıtlanmasını veya kayıtlanmasıyla birlikte bu şirketlere elektronik haberleşme hizmetlerine özel, belirli hak ve yükümlülükler verilmesini
+ifade eder.
