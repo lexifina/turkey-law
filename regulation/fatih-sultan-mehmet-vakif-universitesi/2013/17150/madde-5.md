@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; yükseköğretim kurumlarında öğrenim görmek için yurt dışından gelecek uluslararası öğrencilere Türkçe öğretmek, uluslararası öğrencilere Türkçe öğretmek amacıyla Türkiye’den yurt dışına gidecek öğretim elemanlarının yetiştirilmesini sağlamak, ihtiyaç duyulan yabancı dillerde kurslar düzenlemek, gerekli dokümantasyon ve materyal çalışmaları yapmak, ilgili ulusal ve uluslararası kurum ve kuruluşlarla işbirliği yaparak ortak proje faaliyetleri yürütmek ve oluşturulan bilgi birikiminin ulusal ve uluslararası alanda çeşitli etkinliklerle paylaşılmasını ve merkeze başvuran öğrencilerin Türkçe yeterliliğinin belirlenmesi amacıyla sınav yaparak başka kurumlar nezdinde de geçerli olacak sınav sonuç belgesi verilmesini sağlamaktır.
