@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-02-24",
+  "issue": "28569",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Ordu Üniversitesi Merkezi Araştırma Laboratuvarı Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130224-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130224.htm",
+  "index_sha256": "fe9e87d158523086e3ac2bfabe252bbd18d6525dbdcdcdbe865d68443aa1ff8f",
+  "index_header": "24 Şubat 2013 ... 28569 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/02/20130224.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
