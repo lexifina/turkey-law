@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-032-97",
+  "source_id": 36461,
+  "date": "2013-02-25",
+  "title": "Otomatik Vitesli Araçlarda Motorlu Taşıtlar Vergisi İstisnası Uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36461",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "8afb791ddad82a4b4b127c28cbda23d31882f49f87495dde8f9f4886b4b0ff6c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
