@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-87/2013-2/ Beyan Verme Sürelerinin Uzatılması",
+  "source_id": 570,
+  "date": "2013-02-25",
+  "title": "Muhtasar ve Katma Değer Vergisi Beyannamelerinin Verilme Sürelerinin Uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/570",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "b4390ed758c1813ea1e5edb29e3cb9d16b14e74a5df13b638811b8fe783a4f0c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
