@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; enerjinin verimli, ekonomik ve sürdürülebilir bir biçimde üretimi, iletimi, dağıtımı, kullanımı, depolanması, pazarlanması konusunda çalışmalarda bulunmak; uluslararası enerji politikalarının izlenmesi ve ulusal enerji politikasının oluşturulmasına katkı sağlamak, geleceğin enerji teknolojileri üzerine araştırma ve uygulamalar yapmak. Türkiye’nin gelecekteki enerji sorunlarına yönelik stratejiler ve senaryolar oluşturmak, toplumda ve karar vericilerde temiz enerji ve enerji verimliliği konusundaki farkındalığı artırmak, öncü enerji konularında ulusal ve uluslararası enerji ile ilgili araştırma-geliştirme (AR-GE) projeleri ile teknoloji üretimi konusunda Türkiye’nin rekabet gücüne katkıda bulunmaktır.

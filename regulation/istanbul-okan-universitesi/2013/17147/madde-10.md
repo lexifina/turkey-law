@@ -1,0 +1,2 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür dahil yedi kişiden oluşur. Müdür dışındaki üyeler, öğretim elemanları arasından Senato tarafından iki yıllık süre için görevlendirilirler. Süreleri dolan Yönetim Kurulu üyeleri yeniden görevlendirilebilirler. Süresi bitmeden görevden ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen üyelerin yerine, süreyi doldurmak üzere yenileri görevlendirilir.
