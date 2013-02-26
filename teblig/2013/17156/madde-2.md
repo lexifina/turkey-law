@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan tebliğler
+MADDE 2 – (1) 13/8/2010 tarihli ve 27671 sayılı Resmî Gazete’de yayımlanan Kalitest Belgelendirme ve Eğitim Hizmetleri Limited Şirketinin Tıbbi Cihaz Yönetmeliği Kapsamında Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ ve 15/11/2012 tarihli ve 28468 sayılı Resmî Gazete’de yayımlanan Tıbbi Cihaz Yönetmeliği Kapsamında Kalitest Belgelendirme ve Eğitim Hizmetleri Limited Şirketinin Onaylanmış Kuruluş Faaliyetlerinin Askıya Alınmasına Dair Tebliğ yürürlükten kaldırılmıştır.

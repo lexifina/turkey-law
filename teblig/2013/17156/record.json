@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.17156",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KALİTEST BELGELENDİRME VE EĞİTİM HİZMETLERİ LİMİTED ŞİRKETİNİN TIBBİ CİHAZ YÖNETMELİĞİ KAPSAMINDA ONAYLANMIŞ KURULUŞ STATÜSÜNÜN KALDIRILMASINA DAİR TEBLİĞ",
+  "number": "17156",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "path": "teblig/2013/17156",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17156&MevzuatTertip=5",
+  "source_sha256": "fda29cd440de801170b267e267e6dbdaa771fcef6aba49bbb2f6ece2c49bbe64",
+  "source_bytes": 9031,
+  "published": "2013-02-26",
+  "gazette": "28571",
+  "in_force": "2013-02-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.02.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 251,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
