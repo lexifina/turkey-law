@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[9-12/120]-162",
+  "source_id": 20953,
+  "date": "2013-02-26",
+  "title": "Fes, şapka üzerine yapılan nakış işlemeciliği faaliyetinin esnaf muaflığından yararlanıp yararlanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20953",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "f0b69fd3f0c4fb3bb9e3be2c04cdece619fc84bb423e1194b6c79496ef7c0f46",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
