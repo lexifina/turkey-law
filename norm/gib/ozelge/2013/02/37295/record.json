@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-175.02[Mük. 44-2012/7-1.12.10971]-274",
+  "source_id": 37295,
+  "date": "2013-02-26",
+  "title": "Özel garaj olarak kullanılan boş dükkan için çevre temizlik vergisi ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37295",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "4851efd1309045355f9afaab66d48674a664258e7f02d65061ced5a784379a62",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
