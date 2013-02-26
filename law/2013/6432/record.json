@@ -1,0 +1,59 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6432",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti Başbakanlık Müsteşarlığı ile Mısır Arap Cumhuriyeti Hükümeti İdareyi Geliştirmeden Sorumlu Devlet Bakanlığı Arasında Kamu Yönetimi Alanında İşbirliği Hakkında Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2013-02-26",
+  "date_basis": "last-sitting",
+  "official_gazette_as_published": "15.3.2013 No: 28588",
+  "committee_reports": [
+    {
+      "label": "TBMM 367 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c044/tbmm24044070ss0367.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 24,
+      "kayit_no": 4161308,
+      "title": "Türkiye Cumhuriyeti Hükümeti Başbakanlık Müsteşarlığı ile Mısır Arap Cumhuriyeti Hükümeti İdareyi Geliştirmeden Sorumlu Devlet Bakanlığı Arasında Kamu Yönetimi Alanında İşbirliği Hakkında Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [
+        {
+          "label": "TBMM 367 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c044/tbmm24044070ss0367.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 44,
+          "sitting": 70,
+          "sitting_date": "2013-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c044/tbmm24044070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c044/tbmm24044fih.pdf",
+          "pages": [
+            "264:265",
+            "279:294"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=3&v_cilt="
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=414&v_gelecek_sayfa=101&v_kullanici_id=27484852",
+      "page_sha256": "316b23c963ef223f0d7e671af86df204d8a5bee789a4188ae0f4d64891e9b4c5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "316b23c963ef223f0d7e671af86df204d8a5bee789a4188ae0f4d64891e9b4c5",
+  "issuer": "TBMM",
+  "in_force": "2013-02-26",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2013-02-26); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
