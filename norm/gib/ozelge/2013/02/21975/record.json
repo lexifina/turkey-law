@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[61-2012/998]-281",
+  "source_id": 21975,
+  "date": "2013-02-27",
+  "title": "Emekli polis memurunun şüpheli hasarlı olan araçların doğruluğunu araştırması hizmeti işinin ticari kazanç mı, yoksa serbest meslek kazancı mı olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21975",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "41953c2f494c17cbc1f7099e306bcdc277e1978ac069e143e9ea69402f542cb1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
