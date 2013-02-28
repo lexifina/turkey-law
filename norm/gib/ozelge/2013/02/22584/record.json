@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "68554973-2010/720-18-11",
+  "source_id": 22584,
+  "date": "2013-02-28",
+  "title": "Şirket lehine verilen ve İdare tarafından temyiz edilen karara istinaden tahsil edilen tutarın iade edilme olasılığına karşı temyiz kararı kesinleşinceye kadar geçici hesapta tutulup tutulamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22584",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "cb84a8dc2b8536b54934c96d11f72aa770ef578642785b5d94a583ec0ccb08fd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
