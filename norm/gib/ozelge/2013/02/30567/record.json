@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "63611781-KDV.ÖZLG.2012-52-4",
+  "source_id": 30567,
+  "date": "2013-02-28",
+  "title": "Belediye araçlarına yapılan bakım onarım hizmetlerinde KDV tevkifatı uygulanıp uygulanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30567",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "389f59a45f41a9199ebb40c285bd6256461cbe809dd7173d4ca5912faf21ae44",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
