@@ -1,0 +1,29 @@
+{
+  "number": "month-02",
+  "year": 2013,
+  "month": 2,
+  "title": "Şubat 2013 meclis kararları",
+  "decision_date": null,
+  "index_date": "2013-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2013",
+  "source": "https://www.adana.bel.tr/tr/meclis-kararlari/160",
+  "official_page": null,
+  "official_document": "https://www.adana.bel.tr/panel/uploads/mecliskararlari_v/files/subat-meclis-karari-2013.pdf",
+  "source_sha256": "bc5ee3f7d98e13a68cf1ce9de1bc66b1108898df2f9e092359684755bf7560b3",
+  "issuer": "Adana Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2013-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2013); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official file of the council decisions of the month",
+  "listing_label": "Tarihli Meclis Kararı",
+  "title_note": "title composed from the card's month label; the card itself reads 'Şub 2013 — Tarihli Meclis Kararı'"
+}
