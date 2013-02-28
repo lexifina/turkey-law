@@ -1,0 +1,29 @@
+{
+  "number": "13",
+  "number_as_published": "MEC-2013-2-",
+  "year": 2013,
+  "month": 2,
+  "title": "MEC-2013-2- 13 - Pazar yerleinin üzerinin kapatılması..pdf",
+  "decision_date": null,
+  "index_date": "2013-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2013",
+  "source": "https://www.manavgat.bel.tr/meclis-kararlari/2013-yili-meclis-kararlari",
+  "official_page": "https://www.manavgat.bel.tr/meclis-kararlari/2013-yili-meclis-kararlari",
+  "official_document": "https://d10fbf87uv1xiy.cloudfront.net/655/kicerik/27416/167230.pdf",
+  "source_sha256": "9f1269f6ee4b8fac274a58a48defa1f0bce46d357a55f451acaa55f3526de8df",
+  "issuer": "Manavgat Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2013-02-28",
+  "in_force_basis": "The official listing gives only the month of this decision (Şubat 2013); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "2013 Yılı Meclis Kararları",
+  "record_scope": "one council decision (official code MEC-year-month-number)"
+}
