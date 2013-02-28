@@ -1,0 +1,29 @@
+{
+  "number": "month-02",
+  "year": 2013,
+  "month": 2,
+  "title": "Şubat Ayı Kararları için tıklayınız.",
+  "decision_date": null,
+  "index_date": "2013-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2013",
+  "source": "https://www.sirnakozelidare.gov.tr/2013-meclis-kararlari",
+  "official_page": "https://www.sirnakozelidare.gov.tr/2013-meclis-kararlari",
+  "official_document": "https://www.sirnakozelidare.gov.tr/kurumlar/sirnakozelidare.gov.tr/dosyalar/il_genel_meclisi/meclis_kararlari/2013/2013.%C5%9Fubat.pdf",
+  "source_sha256": "339ceb1332b62c66cb7f409f8c14321490147ce455c422000a7d91ee77900bff",
+  "issuer": "Şırnak İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2013-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2013); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Şubat Ayı Kararları için tıklayınız.",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2013 Meclis Kararları"
+}
