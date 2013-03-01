@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6418",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Jersey Hükümeti Arasında Vergi Konularında Bilgi Değişimi Anlaşması ve Anlaşmanın Yorumlanması veya Uygulanmasına İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-01",
+  "gazette_issue": "28574",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130301-15.htm",
+  "source_sha256": "38dbfce23b22eb69dc26be364d1e2ae625d8c882d036d509624d1f9c3847e710",
+  "text_sha256": "2dd719697e91c4f18333a3a0eb567a2ac8c43fb064f6fe519726b6d26be04723",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/01/28574-15",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130301-15.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
