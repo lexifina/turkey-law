@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13649056-130[09-2012/ÖZE-36]-16",
+  "source_id": 30563,
+  "date": "2013-03-01",
+  "title": "Mühendislik ve müşavirlik hizmeti alımında KDV tevkifatı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30563",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "b9619b02cf38379816ef884a2b262ae3e7155a346eb1c0727d6596a23e569201",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
