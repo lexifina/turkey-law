@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6421",
+  "year": 2013,
+  "title": "Asya'da İşbirliği ve Güven Arttırıcı Önlemler Konferansı Yazmanlığının Statüsünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-01",
+  "gazette_issue": "28574",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130301-18.htm",
+  "source_sha256": "fbc9bd8959071af3d44e9dca373ca24201731f14cfae6d751085b5d9169cf744",
+  "text_sha256": "89556436a34d468779dbc4db85a3fc86bb4cca7b6bc12d1159514a02e658f2c5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/01/28574-18",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130301-18.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
