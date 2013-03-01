@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6422",
+  "year": 2013,
+  "title": "Asya'da İşbirliği ve Güven Artırıcı Önlemler Konferansı Yazmanlığının, Personelinin ve Üyelerin Temsilcilerinin Ayrıcalık ve Bağışıklıklarına İlişkin Sözleşmenin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-01",
+  "gazette_issue": "28574",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130301-19.htm",
+  "source_sha256": "dccb670116da57407c9ef3adcea370884aa595c68a80b14cfb1ad898ebfc179e",
+  "text_sha256": "58a453e39b49bd9c97f5b0486ebf75de5a679b2ff13b29fad1d6162a5006a594",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/01/28574-19",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130301-19.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
