@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-03-01",
+  "issue": "28574",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme İdaresi Başkanlığının 27/2/2013 Tarihli ve 2013/ÖİB-K-16 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130301-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130301.htm",
+  "index_sha256": "fb328a606747503929cc35b1cd003a0c7ddbf219945d7c2591afabd3b8b8829c",
+  "index_header": "1 Mart 2013 ... 28574 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130301.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
