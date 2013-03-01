@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6424",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti ile İtalya Cumhuriyeti Arasında Sosyal Güvenlik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-01",
+  "gazette_issue": "28574",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130301-21.htm",
+  "source_sha256": "d1c9d43cec2ecd5e52a421060070ac5ab4cdf9fc20aa30be75e628988c7c9df2",
+  "text_sha256": "3b6c5bf3cd4b05eb0e9895dbf76db7205229c351b6a6ec4ff998f3cf5651de61",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/01/28574-21",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130301-21.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
