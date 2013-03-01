@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "DEVLET SU İŞLERİ GENEL MÜDÜRLÜĞÜ",
+  "category": "Özel Bütçeli İdareler - B",
+  "category_id": "27-ozel-butceli-idareler---b",
+  "report_year": 2012,
+  "report_date": "2013-03-01",
+  "date_precision": "month",
+  "date_as_printed": "Mart 2013",
+  "source": "https://www.sayistay.gov.tr/reports/Nl1QZx1oep-devlet-su-isleri-genel-mudurlugu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/Nl1QZx1oep-devlet-su-isleri-genel-mudurlugu",
+  "source_sha256": "c60fb0c51f4c375dab815c756b13aae13e7c998ab5874f6623638ace7967dc44",
+  "pdf_pages": 14,
+  "listing": "https://www.sayistay.gov.tr/reports/category/27-ozel-butceli-idareler---b?page=53",
+  "listing_sha256": "066d89776eaaa2a5c2ccf78bba31baf43d8c45d8f49ef56ac7e64d1efa970dba",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-03-01",
+  "in_force_basis": "Official report PDF cover: \"Mart 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
