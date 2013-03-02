@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-03-02",
+  "issue": "28575",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "İstirahatli Olan Sigortalıların İşyerinde Çalışmadıklarına Dair Bildirimin İşverenlerce Sosyal Güvenlik Kurumuna Gönderilmesine İlişkin Usul ve Esaslar Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130302-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130302.htm",
+  "index_sha256": "66e886f6c1240281a45ab0245fb524206f4257a56eca9dc7cf8406d155af4c52",
+  "index_header": "2 Mart 2013 ... 28575 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130302.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
