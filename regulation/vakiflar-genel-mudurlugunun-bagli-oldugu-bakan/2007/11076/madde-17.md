@@ -1,0 +1,2 @@
+Ödül
+MADDE 17 – (1) Çalınan, kaçırılan, aranan ve kayıp olan vakıf kökenli taşınır kültür varlığının bulunduğu yeri haber vererek Genel Müdürlüğe geri kazandırılmasının sağlanması hususunda 11/8/1984 tarihli ve 18486 sayılı Resmî Gazete’de yayımlanan Taşınır Kültür ve Tabiat Varlıklarını Bulanlara, Haber Verenlere ve Yakalayan Kamu Görevlilerine Verilecek İkramiye ile İlgili Yönetmelik hükümleri uygulanır.

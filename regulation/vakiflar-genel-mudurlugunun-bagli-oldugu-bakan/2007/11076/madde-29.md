@@ -1,0 +1,2 @@
+Şoför
+MADDE 29 – (1) Şoför kendisine teslim edilen aracı temiz, bakımlı ve hizmete hazır durumda bulundurmak, aracı tahsis edildiği hizmetlerde amirlerince belirlenmiş esaslar ve verilen emirler çerçevesinde kullanmak, aracın periyodik muayene ve bakımlarını yapmak veya yaptırmak ve görev esnasında seyahat güvenliğini ve gerektiğinde taşıyacağı malzemenin güvenliğini sağlayarak aracı ilgili mevzuata uygun şekilde kullanmakla yükümlüdür.

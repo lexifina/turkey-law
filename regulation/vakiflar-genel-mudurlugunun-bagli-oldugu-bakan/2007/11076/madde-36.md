@@ -1,0 +1,5 @@
+Müzede araştırma yapılması
+MADDE 36 – (1) Müzedeki vakıf kültür varlıkları, eserler ve dokümanlarından, fotoğraf, diyapozitif, film, video, mikrofilm, resim, mulaj, stampaj, taklit ve reprodüksiyon almak veya yapmak sureti ile yararlanılabilir,
+(2) Ancak müzede araştırma yapmak isteyen kişi ya da kuruluşlar, 25/9/1986 tarihli ve 86/11038 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarına Ait Eserlerden Faydalanma Usul ve Esasları Hakkında Tüzük hükümlerine göre Genel Müdürlükten izin almak zorundadırlar.
+(3) Yabancı araştırmacıların müzelerdeki çalışmalarında, 4/4/1988 tarihli ve 88/12839 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türkiye’de İlmi Araştırma, İnceleme Yapmak ve Film Çekmek İsteyen Yabancılar veya Yabancılar Adına Müracaat Edenler ile Yabancı Basın-Yayın Mensuplarının Tabi Olacakları Esaslara uymak zorundadırlar.
+(4) Çekim sırasında, arşiv malzemesine zarar verebilecek flaş ve benzeri araçlar kullanılamaz. İzne bağlı çekimler, müzenin ziyaretçiye kapalı olduğu günlerde ve müze personelinin denetiminde yapılır.

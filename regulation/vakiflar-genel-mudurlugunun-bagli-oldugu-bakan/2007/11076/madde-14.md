@@ -1,0 +1,2 @@
+Değerlendirmeye itiraz
+MADDE 14 – (1) Değer takdir komisyonunun takdir ettiği değere, her türlü masraf itiraz edene ait olmak üzere on beş gün içerisinde itiraz edilebilir. Bu sürede itiraz edilmezse komisyonun takdiri esas alınır. Yapılan bu itirazlar, Genel Müdürlük müzelerinden görevlendirilecek asgari üç kişilik bir üst komisyonca 15 gün içerisinde incelenerek sonuçlandırılır. Bu karara itiraz edilemez.
