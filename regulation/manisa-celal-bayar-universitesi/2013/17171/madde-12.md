@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12 – (1) Rektör, Danışma Kurulunun doğal başkanıdır. Ancak Rektör lüzum gördüğü hallerde başkanlık görevini geçici olarak Müdüre devredebilir. Danışma Kurulu; Rektör, Yönetim Kurulu üyeleri ve Rektör tarafından görevlendirilmiş diğer üyelerin katılımı ile oluşur. Diğer üyeler, Üniversite içinden veya dışından bilimsel araştırma ve uygulamalarla doğrudan ilgisi olan veya sahip olduğu birikimlerle Üniversiteye katkı sağlayabilecek özellikte olan kişiler arasından, Yönetim Kurulunun önerisi üzerine, en çok beş kişi olmak üzere üç yıllığına Rektör tarafından görevlendirilir.
+(2) Danışma Kurulu üyeleri görevlendirildikleri tarihten itibaren en geç iki ay içinde Rektörün başkanlığında toplanır ve aralarından bir başkan yardımcısı ve bir raportör seçer.
