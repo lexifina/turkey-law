@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-176200-118",
+  "source_id": 21584,
+  "date": "2013-03-04",
+  "title": "Proje ödemelerinde ücret ve Kdv İstisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21584",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "dc8c0f3ff0be6e6c3e545fbf8621be41d34c0246e16e64ec468e18218032bcc2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
