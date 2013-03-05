@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10219",
+  "decision_date": "2013-03-05",
+  "source_id": 7217,
+  "chamber": "1",
+  "ilam_number": "124",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7217/",
+  "source_sha256": "984024062a64e0bf56dd3d0e1373708f2df60d3b1a66660d22ad9c2e1d3be605",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
