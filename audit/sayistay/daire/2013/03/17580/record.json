@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10222",
+  "decision_date": "2013-03-05",
+  "source_id": 17580,
+  "chamber": "1",
+  "ilam_number": "42",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17580/",
+  "source_sha256": "7a1230811cf34d6c344ff6398115192858352de69646b5261966c7627017e2a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
