@@ -1,0 +1,13 @@
+Üniversitede öğretim üyesi olarak görev yapmakta iken farklı bir üniversiteye dekan olarak atanan Prof.Dr. ………..’un maaş ve diğer haklarının …….. Üniversitesi hesaplarından ödenmeye devam edilmesi .
+
+…….. Üniversitesi Sağlık Bilimleri Fakültesi öğretim üyesi olarak görev yapmakta iken …….. Üniversitesi Sağlık Bilimleri Fakültesi Dekanlığına atanan Prof.Dr. ………’un maaş ve diğer haklarının Marmara Üniversitesi hesaplarından ödendiği görülmüştür.
+
+2547 sayılı Yükseköğretim Kanununun “Dekan” başlıklı 16 ncı maddesinin (a) fıkrasında dekanların rektörün önerisi üzerine üniversite içinden veya dışından üç profesör arasından Yükseköğretim Kurulunca seçileceği; “Kurumlararası Yardımlaşma” başlıklı 40 ncı maddesinin (b) fıkrasında öğretim üyelerinin ihtiyacı olan üniversitenin isteği ve kendi arzusu üzerine ve ilgili yönetim kurullarının görüşü, rektörün önerisi ile Yükseköğretim Kurulu tarafından, istekte bulunulan üniversite birimlerinde en az bir eğitim-öğretim yılı için görevlendirilebilecekleri ve bu şekilde görevlendirilenlerin kadrolarının beş yıl süre ile saklı tutulacağı; “Öğretim Üyesi İhtiyacının Karşılanması” başlıklı 41 inci maddesinin üçüncü fıkrasında gerek 41 nci madde gerekse 40 ncı maddenin b fıkrası gereğince yapılan görevlendirmelerde özlük haklarının kurumlarında devam etmek kaydıyla görev yapılan kurumun bulunduğu yer ve özelliklerine göre o kurumun kadrolarında çalışanların yararlandıkları ödenek ve diğer hakların görev yapılan üniversite bütçesinden ödeneceği hüküm altına alınmıştır.
+
+İlgili mevzuatta, dekan olarak başka bir üniversiteye atanan öğretim üyesinin kadrosunun hangi üniversitede kalacağına dair açık bir hüküm bulunmamakla beraber, kadroya bağlı bir ödeme olan maaş ödemesinin kadrosunun bulunduğu üniversiteden yapılması yasal düzenlemelere uygundur. Kaldı ki yapılan incelemelerde de söz konusu kişinin atandığı üniversiteden maaş almadığı tespit edilmiş bulunmaktadır.
+
+Bu itibarla, …….. Üniversitesi Sağlık Bilimleri Fakültesi öğretim üyesi olarak görev yapmakta iken ………. Üniversitesi Sağlık Bilimleri Fakültesi Dekanlığına atanan Prof.Dr. ………..’un maaş ve diğer hakları olarak ……… Üniversitesi hesaplarından …… TL ödenmesinin yasal düzenlemelere uygun olduğuna oyçokluğuyla,
+
+Azınlık Görüşü:
+
+Üye ……’ın karşı oy gerekçesi: 2547 sayılı Kanunun 16 ncı maddesi dekanın seçim ve atanma usullerini göstermektedir. Oysa ödemelere dayanak gösterilen aynı Kanunun 40 ve 41 nci maddeleri öğretim üyelerinin görevlendirilmelerine ilişkin olup, seçim ve atanma suretiyle başka üniversitelerde çalışan öğretim üyeleri için uygulanamaz. Uygulamanın düzeltilmesinin temini için konunun Yükseköğretim Kurulu’na yazılması gerekir.
