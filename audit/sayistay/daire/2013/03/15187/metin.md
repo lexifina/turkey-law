@@ -1,0 +1,9 @@
+Çalışılmayan günler için ödeme
+
+.............. Belediyesi tarafından ..............İşine ait hakediş bedelleri ödenirken; bazı aylara ait SSK Bildirgelerinde eksik gün olmasına rağmen Yükleniciye çalışılmayan günler için kesinti yapılmadan hak ediş bulunulması sonucunda .............TL kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+Söz konusu İşe ait teknik şartnamenin 1.7.27 başlıklı kısmında “…çalışanlar görevlerini aksatmaları durumunda, aksatılan zaman dilimine düşen ödeme (hizmete/kişiye ödenen brüt ücret) miktarı * 2 tutarında yüklenici para cezası öder.” denilmektedir.
+
+Bu hükme göre, söz konusu hizmet alımı işinde çalışan personelden görevini zamanında ve yeterli düzeyde yapmayan olduğu durumda, Yükleniciye yapılan ödemelerden bu personel adına para cezası kesintisi yapılması gerekmektedir. Uygulamada ise, bahsedilen ihale konusu işte çalışan işçilere ait SSK bildirgelerinin incelenmesinde, çalışılan günlerin bazı aylarda eksik olduğunu tespit edilmiş olmasına rağmen Yükleniciye yapılan hakediş ödemelerinden ceza kesintisi yapılmaması ve ayrıca acil ambulans kapsamında değerlendirilmeyen 4 tane iş için tutanak düzenlenmesine rağmen, bu 4 iş için de ücret kesintisi yapılmadan hakediş ödemesinde bulunulması sonucunda toplam .............. TL kamu zararına sebep olunmuştur. Ancak, sorumlular tarafından söz konusu .............TL tutarındaki kamu zararının tahsil edildiği bildirilmiştir.
+
+Bu itibarla, çalışılmayan günler için ve acil ambulans kapsamında değerlendirilmediği şeklinde tutanak düzenlenmiş olunan 4 tane iş için kesinti yapılmadan hakediş ödemesi yapılmasından kaynaklanan .............. TL tutarındaki kamu zararının .............. tarih ve .............. nolu makbuz ve ............. tarih ve .............. no.lu banka dekontu ile ahizinden (.............) tahsil edilmiş olduğundan ilişilecek husus kalmadığına oybirliğiyle karar verildi.
