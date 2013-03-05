@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "10",
+  "decision_date": "2013-03-05",
+  "source_id": 15174,
+  "chamber": "5",
+  "ilam_number": "18",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15174/",
+  "source_sha256": "ee9267c942e78c572752aed61451f16d0a5980e4571d73a92904696adba5c256",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
