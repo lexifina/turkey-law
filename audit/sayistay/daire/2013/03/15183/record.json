@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "10",
+  "decision_date": "2013-03-05",
+  "source_id": 15183,
+  "chamber": "5",
+  "ilam_number": "18",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15183/",
+  "source_sha256": "298466477d78ec21db06a5523b5f54ce6a984885e6be4f302e150a9379242165",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
