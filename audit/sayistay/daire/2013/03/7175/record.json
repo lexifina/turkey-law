@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10216",
+  "decision_date": "2013-03-05",
+  "source_id": 7175,
+  "chamber": "1",
+  "ilam_number": "53",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7175/",
+  "source_sha256": "8b12512b2b5c18e888ef7243378a42a45e8661801ecd7d4e8592a7ad4bb08cd3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
