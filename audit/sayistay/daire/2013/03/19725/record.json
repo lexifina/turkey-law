@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10216",
+  "decision_date": "2013-03-05",
+  "source_id": 19725,
+  "chamber": "1",
+  "ilam_number": "53",
+  "item_number": 9,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19725/",
+  "source_sha256": "d5bd82ffd26ae59d1373447380084aa90f6888deb07bed14fdeae1828ab30106",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
