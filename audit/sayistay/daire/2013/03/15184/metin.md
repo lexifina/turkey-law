@@ -1,0 +1,7 @@
+Tatil günleri ücretleri
+
+............... Belediyesi tarafından........Güvenliğe ihale edilen ...... işine ait hakediş ödemeleri yapılırken tatil günleri ücretlerinin hatalı hesaplandığı ve bu hatalı hesaplamalar esas alınarak ödeme yapılmak suretiyle de ................ TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+Söz konusu ........İşine ilişkin ihale dokümanlarının arasında yer alan birim fiyat teklif cetvelinde, güvenlik personeli için resmi dini bayram ve yılbaşı günleri 20,5 gün olarak alınmış ve 62 personel için toplam .............. TL tutarında tatil günleri ücreti hesap edilmiştir. Bu bedelde (ihale süresi olan 10 ay olduğu için) 10’a bölünmek suretiyle ............... TL bulunmuş ve aylık hakedişlere bayram ücreti olarak ilave edilmiştir. Oysa ki, 2011 yılı içerisindeki bayram günlerinin ve yılbaşı tatilinin süresi 14 gündür. Uygulamada, 20,5 gün üzerinden yapılan hesaplama esas alınmak suretiyle hakediş ödemesi yapılmış olması sebebiyle ............... TL tutarında kamu zararına neden olunmuştur. Ancak, sorumlular tarafından söz konusu ................ TL tutarındaki kamu zararının tahsil edildiği bildirilmiştir.
+
+Bu itibarla, tatil günleri ücretinin fazla ödenmesinden kaynaklanan ............... TL tutarındaki kamu zararı .............. tarih ve ................ no.lu banka dekontu ile ahizinden (..............) tahsil edildiğinden ilişilecek husus kalmadığına oybirliğiyle karar verildi.
