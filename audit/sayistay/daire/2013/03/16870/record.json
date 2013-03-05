@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10223",
+  "decision_date": "2013-03-05",
+  "source_id": 16870,
+  "chamber": "1",
+  "ilam_number": "113",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16870/",
+  "source_sha256": "6f6b0a055199c3282983304b4d93780ce510bd64a12ad9738154a29dbe28297f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
