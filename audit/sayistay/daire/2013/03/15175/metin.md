@@ -1,0 +1,9 @@
+Huzur hakkı
+
+Belediye Meclis Üyesi ..............’ nın 04.01.2011 tarihinde hem Deprem ve Afet Komisyonu hem de Çevre, Trafik, Sağlık, Engelli Kadın ve Çocuk Komisyonu toplantısına iştirak ettiği ve aynı gün düzenlenen söz konusu iki toplantı için kendisine, 5393 sayılı Belediye Kanunu’nun “Huzur ve İzin Hakkı” başlıklı 32 nci maddesi hükmüne aykırı olduğu halde, ayrı ayrı huzur hakkı ödenmesi sebebiyle .............. TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+5393 sayılı Belediye Kanunu’nun Huzur ve İzin Hakkı başlıklı 32 nci maddesinde; “Meclis başkan ve üyelerine, meclis ve komisyon toplantılarına katıldıkları her gün için, 39 uncu madde uyarınca belediye başkanına ödenmekte olan aylık brüt ödeneğin günlük tutarının üçte birini geçmemek üzere meclis tarafından belirlenecek miktarda huzur hakkı ödenir. Huzur hakkı ödenecek gün sayısı, 20, 24 ve 25 inci maddelerde belirtilen toplantı günü sayısından fazla olamaz ve meclis üyelerine aynı gün için birden fazla huzur hakkı ödenemez.…” hükmüne yer verilmiştir
+
+Yukarıdaki madde hükmünden anlaşılacağı üzere, meclis üyelerine aynı gün için birden fazla huzur hakkı ödemesi yapılması mümkün görülmemektedir. Uygulamada ise, .............Belediyesi Meclis Üyesi .............. ’ ya, 04.01.2011 tarihinde hem Deprem ve Afet Komisyonu hem de Çevre, Trafik, Sağlık, Engelli Kadın ve Çocuk Komisyonu toplantısına iştirak ettiği ve aynı gün düzenlenen söz konusu iki toplantı için kendisine, ayrı ayrı huzur hakkı verilmek suretiyle ...............TL tutarında kamu zararına neden olunmuştur. Ancak, sorumlular tarafından, söz konusu ...............TL tutarındaki kamu zararının tahsil edildiği bildirilmiştir.
+
+Bu itibarla; .............. TL tutarındaki kamu zararı ............. tarih ve .............. no.lu banka dekontu ile ahiz ............... ’ dan tahsil edildiğinden ilişilecek husus kalmadığına oybirliğiyle karar verildi.
