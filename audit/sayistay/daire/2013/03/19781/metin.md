@@ -1,0 +1,3 @@
+Prim oranı.
+
+… Büyükşehir Belediyesince gerçekleştirilen “... Hizmet Alım İşi”nin yüklenicisi tarafından işveren sıfatıyla Sosyal Güvenlik Kurumuna ödemekle yükümlü bulunduğu iş kazaları ve meslek hastalıkları sigorta priminin, işin şartnamesinde % 1,5 olarak belirlenmesine rağmen, işin yüklenicisi tarafından % 1 olarak tahakkuk ettirilmesi ve aradaki farkın ilgilinin hak edişinden kesilmemesi nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda … TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı ahizi … ... Ltd. Şti’ den … tarih ve … sayılı makbuz ile tahsil edildiğinden ilişilecek husus kalmadığına oybirliğiyle, karar verildi.
