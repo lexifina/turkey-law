@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10217",
+  "decision_date": "2013-03-05",
+  "source_id": 22329,
+  "chamber": "1",
+  "ilam_number": "122",
+  "item_number": 10,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22329/",
+  "source_sha256": "461f075a811200b9dbf12ee6f4934a2026dd85040ddc3a06e0684eb1f83f1355",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
