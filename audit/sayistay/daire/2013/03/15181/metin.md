@@ -1,0 +1,7 @@
+Kira bedeli
+
+............... Belediyesi tarafından .......Şirketine kiraya verilen ......pafta, ...... ada, .....parsel üzerindeki evlendirme dairesine ait otoparkın 2011 Kasım ayına ait kirasının kiracı tarafından eksik ödenmiş olması ve ayrıca bu eksik tahsilat için yapılması gereken ceza kesintisinin yapılmaması sonucunda ...............TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+Söz konusu taşınmaza ilişkin dosyanın incelenmesi neticesinde, 15.11.2011 ile 15.11.2012 tarihleri arası için söz konusu otoparka ait yeni kira bedelinin ........TL + KDV olarak belirlendiği ve ayrıca eksik kira ödenmesi durumunda da günlük ..... TL tutarında (Aylık: ........-TL) cezanın kiracıdan ayrıca tahsil edileceğinin kararlaştırıldığı tespit edilmiştir. Uygulamada ise, Kasım ayına ait kira alınırken bir önceki döneme ait tutar olan .............. TL + KDV üzerinden tahsilat yapılmıştır. Bu durumda, .............. TL eksik kira alınması, ..............TL de gecikme cezası alınmaması suretiyle toplam ............... TL kamu zararına neden olunmuştur. Ancak, sorumlu tarafından söz konusu .............. TL tutarındaki kamu zararının tahsil edildiği bildirilmiştir.
+
+Bu itibarla, otopark kirasının eksik tahsil edilmesinden kaynaklanan ............... TL tutarındaki kamu zararı ..............tarih ve ............. no.lu banka dekontu ile ahizinden (.............. Şti.)  tahsil edildiğinden ilişilecek husus kalmadığına oybirliğiyle karar verildi.
