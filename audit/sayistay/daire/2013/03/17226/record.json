@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10220",
+  "decision_date": "2013-03-05",
+  "source_id": 17226,
+  "chamber": "1",
+  "ilam_number": "74",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17226/",
+  "source_sha256": "1b144faa6413e79c0d8aebe82f7fac72c2fe9ebd755c0daf5da8872b4d4322b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
