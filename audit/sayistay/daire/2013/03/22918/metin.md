@@ -1,0 +1,13 @@
+Üniversitede öğretim üyesi olarak görev yapmakta iken farklı bir üniversiteye rektör olarak atanan Prof.Dr. ………………..’ın maaş ve diğer haklarının …… Üniversitesi hesaplarından ödenmeye devam edilmesi.
+
+..… Üniversitesi İktisadi ve İdari Bilimler Fakültesi öğretim üyesi olarak görev yapmakta iken … Üniversitesi Rektörlüğüne atanan Prof.Dr. ……..…’ın maaş ve diğer haklarının …… Üniversitesi hesaplarından ödendiği görülmüştür.
+
+2547 sayılı Yükseköğretim Kanununun “Rektör” başlıklı 13 üncü maddesinin (a) fıkrasında rektörün profesör akademik unvanına sahip kişiler arasından görevdeki rektörün çağrısı ile toplanacak üniversite öğretim üyeleri tarafından seçilecek adaylar arasından Cumhurbaşkanınca atanacağı; “Kurumlararası Yardımlaşma” başlıklı 40 ncı maddesinin (b) fıkrasında öğretim üyelerinin ihtiyacı olan üniversitenin isteği ve kendi arzusu üzerine ve ilgili yönetim kurullarının görüşü, rektörün önerisi ile Yükseköğretim Kurulu tarafından, istekte bulunulan üniversite birimlerinde en az bir eğitim-öğretim yılı için görevlendirilebilecekleri ve bu şekilde görevlendirilenlerin kadrolarının beş yıl süre ile saklı tutulacağı; “Öğretim Üyesi İhtiyacının Karşılanması” başlıklı 41 inci maddesinin üçüncü fıkrasında gerek 41 nci madde gerekse 40 ncı maddenin (b) fıkrası gereğince yapılan görevlendirmelerde özlük haklarının kurumlarında devam etmek kaydıyla görev yapılan kurumun bulunduğu yer ve özelliklerine göre o kurumun kadrolarında çalışanların yararlandıkları ödenek ve diğer hakların görev yapılan üniversite bütçesinden ödeneceği hüküm altına alınmıştır.
+
+İlgili mevzuatta, rektör olarak başka bir üniversiteye atanan öğretim üyesinin kadrosunun hangi üniversitede kalacağına dair açık bir hüküm bulunmamakla beraber, kadroya bağlı bir ödeme olan maaş ödemesinin kadrosunun bulunduğu üniversiteden yapılması yasal düzenlemelere uygundur. Kaldı ki yapılan incelemelerde de söz konusu kişinin atandığı üniversiteden maaş almadığı tespit edilmiş bulunmaktadır.
+
+Bu itibarla, ….. Üniversitesi İktisadi ve İdari Bilimler Fakültesi öğretim üyesi olarak görev yapmakta iken ….. Üniversitesi Rektörlüğüne atanan Prof.Dr. ………’ın maaş ve diğer hakları olarak ..… Üniversitesi hesaplarından ….. TL ödenmesinin yasal düzenlemelere uygunluğuna oyçokluğuyla,
+
+Azınlık Görüşü:
+
+Üye ……’ın karşı oy gerekçesi: 2547 sayılı Kanunun 13 üncü maddesi rektörün seçim ve atanma usullerini göstermektedir. Oysa ödemelere dayanak gösterilen aynı Kanunun 40 ve 41 nci maddeleri öğretim üyelerinin görevlendirilmelerine ilişkin olup, seçim ve atanma suretiyle başka üniversitelerde çalışan öğretim üyeleri için uygulanamaz. Uygulamanın düzeltilmesinin temini için konunun Yükseköğretim Kurulu’na yazılması gerekir.
