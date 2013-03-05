@@ -1,0 +1,8 @@
+Türkiye motorlu taşıt bürosu genel kurulu
+MADDE 6 – (1) Genel Kurul üye şirketlerin birer temsilcisinden oluşur.
+(2) Genel kurul, yılda bir defa olağan şekilde toplanır ve gerektiğinde olağanüstü toplantıya çağrılır. Olağan Genel Kurul toplantısı, Yönetim Kurulunun karar ve çağrısı üzerine her yıl Nisan ayı içinde yapılır.
+(3) Olağanüstü Genel Kurul toplantısı, Yönetim Kurulunun çağrısı, üye şirketlerden en az beşte birinin yazılı istemi veya Denetim Kurulunun talebi üzerine yapılır.
+(4) Olağan ve Olağanüstü Genel Kurul toplantılarının yeri, tarihi ve gündemi, toplantı tarihinden en az 8 gün önce üye şirketlere yazılı olarak bildirilir.
+(5) Genel Kurul toplantısına Yönetim Kurulu Başkanı veya uygun göreceği bir Yönetim Kurulu üyesi başkanlık eder.
+(6) Üye şirketlerden her biri Genel Kurul toplantılarında bir oya sahiptir. Genel Kurulda açık oyla karar verilir. Ancak, seçimlerde veya Genel Kurulca aksine karar verilen hususlarda gizli oya başvurulur. Genel Kurul, üye şirketlerin yetkili temsilcilerinin yarıdan bir fazlasının katılması ile toplanır, hazır bulunan üyelerin çoğunluğu ile karar verir. Çoğunluk sağlanamadığı takdirde, toplantı ertelenmiş sayılır. Gelecek toplantı, en az sekiz gün sonra toplantının tarihi, gündemi ve erteleme nedenleri üye şirketlere bildirilmek suretiyle yapılır. Bu toplantıda kararlar, katılan üyelerin çoğunluğu ile alınır.
+(7) Olağan Genel Kurul toplantılarında, gündeme alınmış olan maddeler görüşülür. Ancak, hazır bulunan üye temsilcilerinin en az beşte biri tarafından görüşülmesi istenilen konular, mevcut üye temsilcilerinin çoğunluğu ile gündeme alınabilir. Olağanüstü Genel Kurul toplantılarında, sadece gündemde yer alan konular görüşülür.

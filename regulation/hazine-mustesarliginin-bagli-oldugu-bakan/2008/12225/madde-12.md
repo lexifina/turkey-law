@@ -1,0 +1,3 @@
+Türkiye motorlu taşıt bürosu müdürü
+MADDE 12 – (1) Büro müdürünün, Kanunun 4 üncü maddesinin üçüncü fıkrasında sigorta ve reasürans şirketlerinin sigortacılık veya sigortacılık tekniği ile ilgili konulardan sorumlu genel müdür yardımcılıklarına atanacaklar için aranılan şartları haiz olması ve ingilizce, fransızca veya almanca dillerinden en az birini iyi derecede bilmesi zorunludur.
+(2) Büro müdürü, Yönetim Kurulunca atanır. Atama işlemi sonrasında Müsteşarlığa ivedilikle bilgi verilir. Yönetim Kurulu, Büro müdürüne yardımcı olmak üzere iki müdür yardımcısı atamaya yetkilidir. Büro müdür yardımcılarının ingilizce, fransızca veya almanca dillerinden en az birini iyi derecede bilmesi şarttır.
