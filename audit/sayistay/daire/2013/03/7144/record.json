@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "16",
+  "decision_date": "2013-03-05",
+  "source_id": 7144,
+  "chamber": "6",
+  "ilam_number": "116",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2010,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7144/",
+  "source_sha256": "d2ee9c309ebf490f84aab32b03ccc98d8302d25eb2c75e3038e618185cfec6a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
