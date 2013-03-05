@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10218",
+  "decision_date": "2013-03-05",
+  "source_id": 19697,
+  "chamber": "1",
+  "ilam_number": "77",
+  "item_number": 15,
+  "account_year": 2011,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19697/",
+  "source_sha256": "5255300c3eca82ab6fd013a33af516b38cfad1b090cf6c34d2a0d90ae76487ae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
