@@ -1,0 +1,17 @@
+Teknik personel ceza kesintisi.
+
+… -..A.Ş. yüklenimindeki “..Sulanması” hizmet alım işinde gün bazında eksik personel çalıştırılması ve eksik çalıştırılan personel için teknik şartnamede düzenlenen cezanın uygulanmaması nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, bahse konu işte eksik çalıştırılan personel için teknik şartnamede düzenlenen cezanın uygulanmadığı görülmüştür.
+
+Bahse konu işe ait teknik şartnamenin “Teknik Personel Çalıştırılması” başlıklı A-2 maddesinde, yüklenicinin Park ve Bahçeler Şube Müdürlüğü sorumluluğundaki işlerin takibini yapmak için 4 adet Ziraat Mühendisleri Odasına kayıtlı ziraat mühendisi, 4 adet tekniker çalıştırmak zorunda olduğu,
+
+“Aksaklıklar Neticesinde Yapılacak İşlemler ve Cezalar” başlıklı maddesinin C-6 fıkrasında ise yüklenicinin taahhüt edilen ziraat mühendisi veya teknikeri işbaşında bulundurmadığı taktirde her bir personel için günlük 100 TL ceza ödemesi gerektiği,
+
+düzenlenmiştir.
+
+İşin kontrol teşkilatı görev ve yetkilileri tarafından tutulan puantaj kayıtları ve yüklenicinin Sosyal Güvenlik Kurumuna beyanları ile oluşan Sosyal Güvenlik Prim Bildirimi ve Ücretli Listesi incelendiğinde yüklenicinin çalıştırması zorunlu tekniker personeli eksik çalıştırdığı ancak şartnamede düzenlenen cezanın uygulanmadığı görülmüştür.
+
+4734 sayılı Kamu İhale Kanunu’nun 4’üncü maddesinde “İhale Dokümanı” “İhale konusu mal veya hizmet alımları ile yapım işlerinde; isteklilere talimatları da içeren idari şartnameler ile yaptırılacak işin projesini de kapsayan teknik şartnameler, sözleşme tasarısı ve gerekli diğer belge ve bilgileri,” şeklinde tanımlanmaktadır. Teknik şartname de işe ilişkin idari şartnamenin 5’inci maddesinde ihale dokümanının ayrılmaz ve bağlayıcı parçası olarak sayılmıştır. Buna göre teknik şartnameler; teknik ayrıntı ve projelerini içeren tekliflerin hazırlanması, değerlendirilmesi, işin gerçekleştirilmesi ve kabulü aşamasında idare ve yükleniciyi bağlayan bir ihale dokümanı olup, hükümlerine aykırı hareket edilmesi Kamu İhale Kanunu’nun temel ilkelerinden olan eşit muamele, saydamlık ve rekabet ilkelerini ortadan kaldırmaktadır.
+
+Bu itibarla, … ..A.Ş. yüklenimindeki “Park Ve Bahçeleri Sorumluluğu Altında Bulunan Alanların Sulanması” hizmet alım işinde gün bazında eksik personel çalıştırılması ve eksik çalıştırılan personel için teknik şartnamede düzenlenen cezanın uygulanmaması suretiyle neden olunan … TL kamu zararının, sorumlularına ödettirilmesine,
+
+(Üye … ve Üye …’in “Anılan işte teknik personelin eksik çalıştırıldığı süreler, bahse konu personelin işten çıkış ve işe giriş tarihleri arasındaki ortalama bir haftalık süreler olup; bu husus denetçi tarafından da kabul edilmiştir. Hayatın genel akışı içerisinde, işten ayrılan bir personelin yerine işe uygun yeni personelin hemen bulunması mümkün görülmemektedir. Dolayısıyla işten ayrılma ve işe alınma tarihleri arasında belli süreler olması olağandır. Bahse konu işte de bu süreler kısa tutulmak suretiyle iş gücü kaybı yaşanmamıştır. Öte yandan Sosyal Güvenlik Kurumuna beyanları ile oluşan Sosyal Güvenlik Prim Bildiriminde personelin yer almaması o personelin çalıştırılmadığı anlamına da gelmemektedir. Anılan nedenlerle, bahse konu işte gün bazında eksik personel çalıştırılması ve eksik çalıştırılan personel için teknik şartnamede düzenlenen cezanın uygulanmaması konusunda ilişilecek bir husus bulunmadığına karar verilmesi gerekir.” şeklindeki ayrışık görüşüne karşı) çoğunlukla, karar verildi.
