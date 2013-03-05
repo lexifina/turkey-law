@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10222",
+  "decision_date": "2013-03-05",
+  "source_id": 17579,
+  "chamber": "1",
+  "ilam_number": "42",
+  "item_number": 7,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17579/",
+  "source_sha256": "7da3ad659aac0b91833fe920949791d7d973727a5b715cd2100122b65bb1a99d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
