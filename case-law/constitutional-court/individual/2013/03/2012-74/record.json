@@ -1,0 +1,20 @@
+{
+  "applicant": "M.E.",
+  "application_date": "2012-10-02",
+  "application_number": "2012/74",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2013-03-05",
+  "id": "30fe7bcd-470c-60ea-9d82-51d3ea7975ba",
+  "in_force": "2013-03-05",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjMwZmU3YmNkLTQ3MGMtNjBlYS05ZDgyLTUxZDNlYTc5NzViYQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "30849e0747a259c773d926718b552549ac49d7d3e00b898503519e8ada7794bc",
+  "version_label": "as-enacted"
+}
