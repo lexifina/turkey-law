@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-120[39-2012/27]-30",
+  "source_id": 22159,
+  "date": "2013-03-05",
+  "title": "Spor Toto Bakiye Raporuna göre hasılatın nasıl beyan edileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22159",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "7c8b0f08dfdc3e38dd8e9d88959fb697930d254a857429c19ed018a7c4ec946b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
