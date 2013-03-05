@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "124",
+  "decision_date": "2013-03-05",
+  "source_id": 7082,
+  "chamber": "3",
+  "ilam_number": "34",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7082/",
+  "source_sha256": "e1d9b2635e155904771daaa44ca35a82cb8b345fec6fc2c53b2bee4e2662bd76",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

@@ -1,0 +1,9 @@
+Transfer Ödemeleri
+
+Kurum bütçesinin 630.05.03 numaralı Transfer Ödemeleri ekonomik kodundan 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 29 uncu maddesinin verdiği yetki çerçevesinde Türkiye çapında muhtelif il ve ilçelerde bulunan cami, Kur’an kursu ve benzeri teşekküllerin vakıf ve derneklerine yapılan yardımlara ilişkin harcama belgelerinin mevzuatta öngörülen süre içinde …......... Başkanlığına gönderilmemesi gerekçesiyle konu edilen …......... TL kamu zararı hususunda;
+
+Yardım alan kuruluşlarca ilgili belgelerin süresinde gönderilmemesinin 03.07.2006 tarih ve 2006/10656 sayılı Dernek, Vakıf, Birlik, Kurum, Kuruluş, Sandık ve Benzeri Teşekküllere Genel Yönetim Kapsamındaki Kamu İdarelerinin Bütçelerinden Yardım Yapılması Hakkında Yönetmeliğin 7 nci maddesinin ikinci fıkrasında yer alan; “Yardım alan teşekküller, yardımın amacına uygun olarak harcanıp harcanmadığına ilişkin bilgi, belge ve kayıtların birer örneği ile faaliyet raporlarını, faaliyetin bitimini müteakip bir ay içinde veya devam eden faaliyetlerine ilişkin bilgi, belge ve raporlarını takip eden yılın ilk ayı içerisinde yardım yapan idareye göndermek zorundadır.” hükmü ile söz konusu Yönetmeliğe dayanılarak …......... Başkanlığı tarafından çıkarılan Dernek, Vakıf, Birlik, Kurum, Kuruluş, Sandık ve Benzeri Teşekküllere Diyanet İşleri Başkanlığı Bütçesinden Yardım Yapılması Hakkında Yönergenin “Yardımların Kullanılması, İzlenmesi ve Denetlenmesi” başlıklı 11 inci maddesinin ikinci fıkrasına konulan paralel hüküm uyarınca mevzuata aykırı olduğuna,
+
+Ancak, …......... Başkanlığı yetkililerinin İdare olarak belgelerin gönderilmesinin temini için Müftülüklerle gerekli yazışmaları yaptıkları ve süresi geçmiş olmakla birlikte harcamalara ilişkin eksik belgelerin de bahsi geçen yazılar üzerine Başkanlığa gönderildiği anlaşıldığından ilişik kalmadığına,
+
+oy birliğiyle karar verildi.
