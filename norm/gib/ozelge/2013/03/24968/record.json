@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[004-2012-9304]-197",
+  "source_id": 24968,
+  "date": "2013-03-06",
+  "title": "Adi ortaklıkta sözleşmenin aynı şartlarda yenilenmesi halinde yeniden mükellefiyet açılıp açılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24968",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "b36fb796c324b8c839ce23ddee8e1edcb55c2bc9388c511c26c12b5973da00e3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
