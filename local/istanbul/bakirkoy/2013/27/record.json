@@ -1,0 +1,23 @@
+{
+  "number": "27",
+  "number_as_published": "27",
+  "year": 2013,
+  "title": "KARTANSAŞ Kartal Halk Pazarı Gıda Sağlık ve Eğt. Hizm. San. Ve Tic. A.Ş.nin sermaye artırımı hk.",
+  "decision_date": "2013-03-06",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/70",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/27-kartansas-06032013.pdf",
+  "source_sha256": "48d74d13c0b8ac6d328df3dc74c0ef7f3bf10072a77daf2bae7eeef0202ea3c2",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2013-03-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06 Mart 2013 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
