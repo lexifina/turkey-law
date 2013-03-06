@@ -12,7 +12,7 @@ i) (Mülga: 3/5/2006 – 5495/4 md.)
 j) (Değişik: 17/10/1996 - 4199/5 md.) Trafik zabıtasının görev ve yetkileri saklı kalmak üzere Bu Kanunun 13,14,16,17,18,47/a ve 65 inci maddeleri hükümlerine aykırı hareket edenler hakkında suç veya ceza tutanağı düzenlemek; 47 nci maddenin (b), (c) ve (d) bentlerinde belirtilen kural ihlallerinin tespiti halinde, durumu bir tutanakla belirlemek ve gerekli işlemin yapılması için en yakın trafik kuruluşuna teslim etmek, (2)(3)
 ——————————
 (1) 25/6/2010 tarihli ve 6001 sayılı Kanunun 34 üncü maddesiyle, bu bendin sonuna “veya aldırmak” ibaresi eklenmiş ve metne işlenmiştir.
-(2) Bu bentte yer alan "Tescile bağlı araçların muayenelerini yapmak veya yaptırmak ve bu Kanunun 13, 14, 16, 17, 18, 35, 47/a ve 65 inci maddeleri,“ibaresi,16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle 1/1/2005 tarihinden geçerli olmak üzere “ Bu Kanunun 13,14,16,17,18,47/a ve 65 inci maddeleri” olarak değiştirilmiş ve metne işlenmiştir.
+(2) Bu bentte yer alan "Tescile bağlı araçların muayenelerini yapmak veya yaptırmak ve bu Kanunun 13, 14, 16, 17, 18, 35, 47/a ve 65 inci maddeleri,“ibaresi,16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle 1/1/2005 tarihinden geçerli olmak üzere “ Bu Kanunun 13,14,16,17,18,47/a ve 65 inci maddeleri”olarak değiştirilmiş ve metne işlenmiştir.
 (3) 25/6/2010 tarihli ve 6001 sayılı Kanunun 34 üncü maddesiyle, bu bendin başına “Trafik zabıtasının görev ve yetkileri saklı kalmak üzere” ibaresi eklenmiş ve metne işlenmiştir.
 6054
 k) Bu Kanunla ve bu Kanuna göre çıkarılmış olan yönetmeliklerle verilen diğer görevleri yapmaktır.
@@ -21,7 +21,7 @@ Milli Eğitim Gençlik ve Spor, Sağlık ve Sosyal Yardım ve Ulaştırma Bakanl
 Madde 8 – (Değişik: 18/1/1985 - KHK 245/1 md.; Aynen kabul: 28/3/1985-3176/1 md.)
 Bu Kanun açısından Milli Eğitim Gençlik ve Spor, Sağlık ve Sosyal Yardım ve Ulaştırma bakanlıklarının görev ve yetkileri şunlardır :
 a) Milli Eğitim Gençlik ve Spor Bakanlığı
-1. Motorlu araç sürücülerinin yetiştirilmesi için 123 üncü madde gereğince sürücü kursları açmak, özel sürücü kursu açılmasına izin vermek, bunları her safhada denetlemek,
+1. Motorlu araç sürücülerinin yetiştirilmesi için 123 üncü madde gereğince sürücü kursları açmak, özel sürücü kursu açılmasına izin vermek,bunları her safhada denetlemek,
 2. (Değişik: 17/10/1996 - 4199/6 md.) Resmi ve özel kurslarda eğitilenlerin sınavlarını yapmak, başarılı olanlara sertifika verilmesini sağlamak,
 3. (Değişik: 17/10/1996 - 4199/6 md.) Okul öncesi, okul içi ve okuldışı trafik eğitimini düzenleyen trafik genel eğitim planı hazırlamak ve ilgili kuruluşlarla işbirliği yaparak uygulamak.
 b) (Değişik: 17/10/1996 - 4199/6 md.) Sağlık Bakanlığı:
@@ -44,12 +44,13 @@ a) Orman yollarında;
 b) Köy yollarında;
 1. Trafik düzeni ve güvenliği açısından gerekli düzenleme ve işaretlemeleri yaparak, tedbir almak ve aldırmak,
 2. Yol güvenliğini ilgilendiren konulardaki; kavşak durak yeri, yol dışı park yeri, aydınlatma ve benzeri tesislerin projelerini incelemek ve gerekenleri onaylamak,
+6054-2
 6055
 3. Yapım ve bakımından sorumlu olduğu karayollarında 17 nci maddede sayılan tesisler için bağlantıyı sağlayacak geçiş yolları yönünden izin vermek,
-4. Yetkili birimlerce veya trafik zabıtasınca tespit edilen trafik kaza analizi sonucu, karayolu yapısı ve işaretlemeye dayalı kaza nedenleri gözönünde bulundurularak gerekli tedbirleri almak,
+4. Yetkili birimlerce veya trafik zabıtasınca tespit edilen trafik kaza analizi sonucu,karayolu yapısı ve işaretlemeye dayalı kaza nedenleri gözönünde bulundurularak gerekli tedbirleri almak,
 5. Bu Kanunla ve bu Kanuna göre çıkarılan yönetmeliklerle köy yolları için verilen trafikle ilgili diğer görevleri yapmak.
 Köy yolları için sayılan görev ve hizmetlerden zorunlu ve gerekli görülenler orman yolları için de uygulanabilir.
-Belediye trafik birimleri, görev ve yetkileri:
+Belediye trafik birimleri,görev ve yetkileri:
 Madde 10 – (Değişik: 18/1/1985 - KHK 245/3 md.; Aynen kabul: 28/3/1985 - 3176/3 md.)
 Bu Kanunla belediyelere verilen görevler il ve ilçe trafik komisyonları ve mahalli trafik birimleri ile işbirliği yapılarak yürütülür.
 a) Kuruluş
@@ -103,24 +104,25 @@ Bu çalışmalar sırasında meydana getirilen tehlikeli durum ve engeller büt�
 Karayolu yapısı ve trafik işaretlerinin korunması:
 Madde 14 – Karayolu yapısı ve trafik işaretleri ile ilgili olarak;
 a) Karayolu yapısı üzerine, trafiği güçleştirecek, tehlikeye sokacak veya engel yaratacak, trafik işaretlerinin görülmelerini engelleyecek veya güçleştirecek şekilde bir şey koymak, atmak, dökmek, bırakmak ve benzeri hareketlerde bulunmak,
-b) Karayolu yapısını, trafik işaretlerini ve karayoluna ait diğer yapı ve güvenlik tesislerini, üzerlerine yazı yazarak, çizerek veya başka şekillerde bozmak, yerlerini değiştirmek veya ortadan kaldırmak,
+b) Karayolu yapısını, trafik işaretlerini ve karayoluna ait diğer yapı ve güvenlik tesislerini, üzerlerine yazı yazarak, çizerek veya başka şekillerde bozmak,yerlerini değiştirmek veya ortadan kaldırmak,
 Yasaktır.
 Meydana gelen tehlike ve engeller, ilgili kuruluşlar ve zabıtaca ortadan kaldırılır, bozukluk ve eksiklikler yolun yapım ve bakımından sorumlu kuruluşca derhal giderilir, zarar karşılıkları ve masrafları sorumlulara ödetilir.
 (Değişik: 21/5/1997 - 4262/4 md.) Bu madde hükmüne uymayanlara 7 200 000 lira para cezası verilir.
 Trafik işaretleri:
 Madde 15 – (Değişik birinci fıkra: 25/6/2010-6001/34 md.) Trafiği düzenlemede kullanılan işaret levhaları, ışıklı ve sesli işaretler, yer işaretlemeleri ile benzeri trafik işaretleri, karayolunun yapımı, bakımı, işletilmesi ile görevli kuruluşlarca temin ve tesis edilerek sürekliliği ve işlerliği sağlanır.
+6056-2
 6057
 (İkinci fıkra Mülga : 18/1/1985 - KHK 245/16 md.)
 Görülen eksiklikler ilgili kuruluşlara bildirilerek giderilmesi sağlatılır.
 Trafik işaretlerinin standart,anlam, nicelik ve nitelikleri ile diğer esasları İçişleri Bakanlığının görüşü alınarak Bayındırlık Bakanlığınca çıkarılacak yönetmelikte gösterilir.
-Karayolu dışında, kenarında veya üzerindeki diger levhalar, ışıklar ve işaretlemeler:
+Karayolu dışında,kenarında veya üzerindeki diger levhalar, ışıklar ve işaretlemeler:
 Madde 16 – Karayolu dışında, kenarında veya karayolu sınırı içinde, trafik işaretlerinin görülmelerini engelleyecek, anlamlarını değiştirecek veya güçleştirecek, tereddüte sebep olacak veya yanıltacak ve trafik için tehlike veya engel yaratacak şekilde levhalar, ışıklar, işaretlemeler ile, ağaç, direk, yangın musluğu, çeşme, parmaklık gibi yapı elemanları veya benzerlerini dikmek, koymak veya bulundurmak yasaktır.
 (Değişik : 18/1/1985- KHK 245/5 md.; aynen kabul: 28/3/1985 - 3176/5 md.) Zorunlu hallerde bunların bulunabileceği yer, nitelik ve nicelikleri ile hangi şartlarda bulunabileceği, hangilerinin izne bağlı olduğu ve bunlarla ilgili diğer esaslar ve 13 üncü maddede belirtilen karayolu yapısında yapılacak çalışmalar ile ilgili esaslar, İçişleri Bakanlığının görüşü alınarak Bayındırlık ve İskan Bakanlığınca çıkartılacak yönetmelikle düzenlenir.
 Verilen izinler, ilgili valiliğe bildirilir.
 (Değişik : 21/5/1997 - 4262/4 md.) Bu madde hükümlerine aykırı hareket edenler 72 000 000 lira para cezası ile cezalandırılırlar.
 (Değişik son fıkra: 25/6/2010-6001/34 md.) Ayrıca bunlar, bütün sorumluluk ve giderler mal sahibine ait olmak üzere yolun yapımı, bakımı, işletilmesi ile ilgili kuruluşça kaldırılır.
 Belediye sınırları dışında karayolu kenarındaki yapı ve tesisler:
-Madde 17 – Karayollarında her iki taraftan sınır çizgisine elli metre mesafe içinde bağlantıyı sağlayacak geçiş yolları yönünden; akaryakıt, servis, dolum ve muayene istasyonları, umuma açık park yeri ve garaj, terminal, fabrika, işhanı, çarşı, pazar yeri, eğlence yerleri, turistik yapı ve tesisler, inşaat malzemesi ocak ve harmanları, maden ve petrol tesisleri, araç bakım, onarım ve satım işyerleri ve benzeri trafik güvenliğini etkileyecek yapı ve tesisler için, o karayolunun yapım ve bakımı ile sorumlu kuruluştan izin alınması zorunludur.
+Madde 17 – Karayollarında her iki taraftan sınır çizgisine elli metre mesafe içinde bağlantıyı sağlayacak geçiş yolları yönünden; akaryakıt, servis, dolum ve muayene istasyonları, umuma açık park yeri ve garaj, terminal, fabrika, işhanı, çarşı, pazar yeri, eğlence yerleri, turistik yapı ve tesisler, inşaat malzemesi ocak ve harmanları,maden ve petrol tesisleri, araç bakım, onarım ve satım işyerleri ve benzeri trafik güvenliğini etkileyecek yapı ve tesisler için,o karayolunun yapım ve bakımı ile sorumlu kuruluştan izin alınması zorunludur.
 Verilen izinler, ilgili valiliğe bildirilir.
 İzinsiz yapılan bu gibi tesislerin yapımı ve işletilmesi yetkililerce durdurulacağı gibi, yönetmelikteki şartlar yerine getirilmeden işletme izni verilmez ve bağlantı yolu, her türlü gider sorumlulara ait olmak üzere yolun yapım ve bakımı ile ilgili kuruluşca ortadan kaldırılır.
 (Değişik: 21/5/1997 - 4262/4 md.) Bu madde hükümlerine uymayanlar 72 000 000 lira para cezası ile cezalandırılırlar.
@@ -131,13 +133,13 @@ a) Belediyelerden izin alınması,
 b) (Değişik: 17/10/1996 - 4199/8 md.) Belediyelerce bu iznin verilmesinde, trafik güvenliği bakımından bu tesisler hakkındaki Yönetmelikte belirlenen şartların yerine getirilmesini sağlamaları ve ayrıca Karayolları Genel Müdürlüğünün yapım ve bakımından sorumlu olduğu karayolu kenarında yapılacak ve açılacak olanların bu yollara bağlantıları için bu Genel Müdürlüğün ilgili bölge müdürlüğünden uygun görüş almaları,
 Zorunludur.
 6058
-İzinsiz yapılan bu gibi tesislerin yapımı ve işletilmesi yetkililerce durdurulacağı gibi, yönetmelikteki şartlar yerine getirilmeden işletme izni verilmez ve bağlantı yolu, her türlü gider sorumlulara ait olmak üzere yolun yapım ve bakımı ile ilgili kuruluşlarca ortadan kaldırılır.
+İzinsiz yapılan bu gibi tesislerin yapımı ve işletilmesi yetkililerce durdurulacağı gibi,yönetmelikteki şartlar yerine getirilmeden işletme izni verilmez ve bağlantı yolu, her türlü gider sorumlulara ait olmak üzere yolun yapım ve bakımı ile ilgili kuruluşlarca ortadan kaldırılır.
 (Değişik: 21/5/1997 - 4262/4 md.) Bu madde hükümlerine aykırı olarak izinsiz yapı yapanlar 72 000 000 lira para cezası ile cezalandırılırlar.
 Bu madde ve 17 nci maddede belirtilen tesislere ait şartlar, izin ve denetim esasları Bayındırlık ve İskan Bakanlığınca düzenlenen yönetmelikte gösterilir.
 DÖRDÜNCÜ KISIM
-Tescil ve Trafik Belgeleri, Tescil Plakaları, Motorlu Araçlara Ait
+Tescil ve Trafik Belgeleri, Tescil Plakaları,Motorlu Araçlara Ait
 Şartlar ve Muayene
-BİRİNCİ BÖLÜM
+BİRİNCİ BÖLüM
 Tescil ve Trafik Belgeleri, Tescil Plakaları
 Tescil belgesi alma zorunluluğu:
 Madde 19 – Araç sahipleri araçlarını yönetmelikte belirtilen esaslara göre yetkili kuruluşa tescil ettirmek ve tescil belgesi almak zorundadırlar.
@@ -157,7 +159,7 @@ Zorundadırlar.
 b) Araçların giriş işlemlerini yapan gümrük idareleri bu durumu 15 gün içinde araç sahiplerinin beyan ettikleri tescil kuruluşuna bildirmekle yükümlüdürler.
 c) Tescil belgesi, aracın başkasına satış veya devrine, hurdaya çıkarılmasına veya araçta, yönetmelikte belirtilen niteliklerin değişmesine kadar geçerli sayılır.
 –––––––––––––––––––
-(1) Bu madde başlığı “Tescil süresi ve bildirme mecburiyeti, satış ve devirler ile noterlerin sorumluluğu:” iken, 24/12/2009 tarihli ve 5942 sayılı Kanunun 1 inci maddesiyle
+(1) Bu madde başlığı “Tescil süresi ve bildirme mecburiyeti, satış ve devirler ile noterlerin sorumluluğu:” iken, 24/12/2009 tarihli ve 5942 sayılı Kanunun 1 inci maddesiyle 1/5/2010 tarihinden geçerli olmak üzere metne işlendiği şekilde değiştirilmiştir.
 6059
 d ) (Değişik: 24/12/2009-5942/1 md.) Tescil edilmiş araçların her çeşit satış ve devirleri, satış ve devri yapılacak araçtan dolayı motorlu taşıtlar vergisi, gecikme faizi, gecikme zammı, vergi cezası ve trafik idari para cezası borcu bulunmadığının tespit edilmesi ve taşıt üzerinde satış ve/veya devri kısıtlayıcı herhangi bir tedbir veya kayıt bulunmaması halinde, araç sahibi adına düzenlenmiş tescil belgesi veya trafik tescil kayıtları esas alınarak noterler tarafından yapılır. Noterler tarafından yapılmayan her çeşit satış ve devirler geçersizdir.
 Satış ve devir işlemi, siciline işlenmek üzere üç işgünü içerisinde ilgili trafik tescil kuruluşu ile vergi dairesine bildirilir. Bu bildirimle birlikte alıcı adına trafik tescil işlemi gerçekleşmiş sayılır. Satış ve devir tarihi itibariyle, 197 sayılı Motorlu Taşıtlar Vergisi Kanunu hükümleri uyarınca eski malikin vergi mükellefiyeti sona erer, yeni malikin vergi mükellefiyeti başlar.
@@ -180,13 +182,13 @@ Trafik belgesi, tescil belgesi geçersiz duruma gelince sürekli olarak, üzerin
 Belge ve plaka vermeye yetkili kuruluşlar:
 Madde 22 – (Değişik: 18/1/1985 - KHK 245/8 md.; Aynen kabul: 28/3/1985 - 3176/8 md.)
 Yönetmelikte gösterilen esaslara göre :
-a) Askeri maksatlarla kullanılan Türk Silahlı Kuvvetlerine ait bütün araçlar ile çeşitli anlaşmalara göre askeri amaçla yurdumuzda bulunan kuruluşlara ait araçların tescilleri Türk Silahlı Kuvvetlerince,
+a) Askeri maksatlarla kullanılan Türk Silahlı Kuvvetlerine ait bütün araçlar ile çesitli anlaşmalara göre askeri amaçla yurdumuzda bulunan kuruluşlara ait araçların tescilleri Türk Silahlı Kuvvetlerince,
 b) Raylı sistemle çalışan araçların tescilleri, kullanıldığı yerlere göre ait olduğu kuruluşlarca,
 c) İş makinesi türünden araçların tescilleri;
 1. Kamu kuruluşlarına ait olanlar ilgili kuruluşlarınca,
 2. (Değişik: 17/10/1996 - 4199/10 md.) Özel veya tüzelkişilere ait olanlardan; tarım kesiminde kullanılanlar ziraat odalarınca, tarım kesiminde kullanılanların dışında kalan ve sanayi, bayındırlık ve diğer kesimlerde kullanılanların tescilleri, üyesi oldukları ticaret, sanayi veya ticaret ve sanayi odalarınca,
 6060-1
-d) Tarım kesiminde kullanılanlar hariç. İl Trafik Komisyonlarından karar alınmak şartı ile motorsuz taşıtlardan gerekli görülenlerin tescilleri belediyelerce,
+d) Tarım kesiminde kullanılanlar hariç.İl Trafik Komisyonlarından karar alınmak şartı ile motorsuz taşıtlardan gerekli görülenlerin tescilleri belediyelerce,
 e) (Mülga: 13/2/2011-6111/57 md.)
 Yapılır, belge ve plakaları verilir.
 (Ek fıkra: 13/2/2011-6111/57 md.) Birinci fıkrada sayılanlar dışında kalan bütün araçların tescilleri, araca ait belgelerin düzenlenmesi, kişiselleştirilmesi, kişiselleştirilen belgelerin basımı ve ilgililerine elden veya posta aracılığı ile teslimi işlemleri Emniyet Genel Müdürlüğü veya bağlı trafik tescil kuruluşlarınca yapılır. Emniyet Genel Müdürlüğü; ilk tescili yapılacak araçların tesciline esas teşkil edecek işlemleri elektronik ortamda bilgi paylaşımı yoluyla yapmak üzere, elektronik ortamda oluşturduğu bir ay süre ile geçerli tescile ilişkin geçici belgeyi basmak ve araç sahibine vermek üzere kamu kurum veya kuruluşları ile gerçek veya özel hukuk tüzel kişilerini yetkilendirebilir. Yetkilendirilen bu gerçek veya özel hukuk tüzel kişileri, yapacakları işlemleri aralarında düzenleyecekleri protokol çerçevesinde başka gerçek veya özel hukuk tüzel kişilerine de yaptırabilirler. Araca ait kişiselleştirilen belgelerin basımı ve ilgililerine elden veya posta yoluyla teslimi, Emniyet Genel Müdürlüğü tarafından belirlenen kamu kurum veya kuruluşları ile özel hukuk tüzel kişilerine de yaptırılabilir. Bu işlemlerin yapılmasına dair usûl ve esaslar yönetmelikte belirlenir.
@@ -202,7 +204,7 @@ Tescil belgesi, trafik belgesi ve tescil plakalarının verilmesi şartları, ge
 Geçici trafik belgeleri ile geçici tescil plakaları:
 Madde 25 – Tescilsiz olup, karayolunda geçici olarak kullanılacak araçlara mali mesuliyet sigortası yaptırılmış olmak şartı ile ilgili tescil bürosundan geçici trafik belgesi ile geçici tescil plakası alınması zorunludur.
 6060-2
-Geçici trafik belgeleri ve geçici tescil plakalarının çeşitleri, verilme şartları, geçerlilik süreleri, nicelik ve nitelikleri, yurt dışından getirilecek veya yurt dışına götürülecek olan araçlara geçici tescil plakası verilmesi şartları ile diğer esaslar yönetmelikte belirtilir.
+Geçici trafik belgeleri ve geçici tescil plakalarının çeşitleri,verilme şartları,geçerlilik süreleri, nicelik ve nitelikleri, yurt dışından getirilecek veya yurt dışına götürülecek olan araçlara geçici tescil plakası verilmesi şartları ile diğer esaslar yönetmelikte belirtilir.
 (Yeniden Düzenleme : 21/5/1997 - 4262/4 md.) Bu madde hükümlerine uymayanlar 3 600 000 lira para cezası ile cezalandırılırlar. Ayrıca, trafik zabıtasınca bu geçici belge ve plakalar iptal edilerek, araçlar trafikten men edilir. (1)
 Ayrıca, trafik zabıtasınca bu geçici belge ve plakalar iptal edilerek, araçlar trafikten men edilir. (1)
 Araçlara ait trafik ayırım işaretleri ve diğer işaretler:
@@ -233,22 +235,21 @@ Madde 30 – Araçların, esasları yönetmelikte belirtilen şekilde ve tarzda 
 a) (Değişik : 21/5/1997 - 4262/4 md.) Servis freni, lastikleri, dış ışık donanımından yakını ve uzağı gösteren ışıklar ile park, fren ve dönüş ışıkları noksan, bozuk veya teknik şartlara aykırı olan araçları kullanan sürücüler 1 800 000 lira para cezası,
 b) (Değişik: 21/5/1997 - 4262/4 md.) Diğer eksiklik ve bozuklukları bulunan araçlarla, görüşü engelleyecek veya bir kaza halinde içindekiler için tehlikeli olabilecek süs aksesuar eşya ve çıkıntıları olan araçları kullananlarla, karayolunu kullananlar için tehlike yaratacak şekilde olan veya görüşü engelleyecek ve çevredekileri rahatsız edecek derecede duman veya gürültü çıkaran araçları kullanan sürücüler 3 600 000 lira para cezası,
 İle cezalandırılırlar.
-Bu maddenin (a) bendinde belirtilen eksiklik ve bozuklukları bulunan araçlar, teknik şartlara uygun duruma getirilinceye kadar trafik zabıtasınca trafikten men edilebilir. (b) bendindeki şartlara uymayan ve uyumsuzluğu trafik emniyetini tehlikeye düşürmeyecek nitelikte olan araçların şartlara uygun duruma getirilmesi ihtar olunur. İhtarda verilen süre için teknik şartlara uygun duruma getirilmediğinin tespiti halinde araç trafik zabıtasınca trafikten men edilir.
+Bu maddenin (a) bendinde belirtilen eksiklik ve bozuklukları bulunan araçlar,teknik şartlara uygun duruma getirilinceye kadar trafik zabıtasınca trafikten men edilebilir. (b) bendindeki şartlara uymayan ve uyumsuzluğu trafik emniyetini tehlikeye düşürmeyecek nitelikte olan araçların şartlara uygun duruma getirilmesi ihtar olunur. İhtarda verilen süre için teknik şartlara uygun duruma getirilmediğinin tespiti halinde araç trafik zabıtasınca trafikten men edilir.
 Araçlarda bulundurulması zorunlu gereçler:
 Madde 31 – (Değişik: 8/3/2000 - 4550/1 md.)
 Araçlarda;
 a) Özelliklerine ve cinslerine göre yönetmelikte nitelik ve nicelikleri belirtilen gereçlerin,
-b) Kamyon, çekici ve otobüslerde ayrıca takoğraf, taksi otomobillerinde ise taksimetre,
+b) Kamyon, çekici ve otobüslerde ayrıca takoğraf,taksi otomobillerinde ise taksimetre,
 Bulundurulması ve kullanılır durumda olması zorunludur. Ancak, 2918 sayılı Kanunun yürürlüğe girdiği tarihten önceki yıllarda üretilen araçlarla, resmi taşıt olarak tescil edilmiş ve edilecek olanlar ile şehiriçi ve belediye mücavir alanı içerisinde yolcu ve yük nakliyatı yapanlarda takoğraf bulundurma ve kullanma zorunluluğu aranmaz. Takoğraf cihazları mekanik, elektronik olabileceği gibi elektro mekanik de olabilir.
-Birinci fıkranın (a) bendinde sayılan gereçleri bulundurmayan, kullanmayan veya kullanılabilir durumda bulundurmayan sürücüler 8.500.000 lira; (b) bendine göre araçlarında taksimete, takoğraf bulundurmayan, kullanmayan veya kullanılabilir durumda bulundurmayan sürücüler
+Birinci fıkranın (a) bendinde sayılan gereçleri bulundurmayan, kullanmayan veya kullanılabilir durumda bulundurmayan sürücüler 8.500.000 lira; (b) bendine göre araçlarında taksimete, takoğraf bulundurmayan, kullanmayan veya kullanılabilir durumda bulundurmayan sürücüler 34.800.00 lira para cezası ile cezalandırılırlar. Sürücü aynı zamanda araç sahibi değilse ayrıca, tescil plakasına da aynı miktar için ceza tutanağı düzenlenir. Aynı bentte belirtilen cihazları bozuk imal edenler veya bozulmasına vasıta olanlar ile bu durumdaki cihazları kullanan araç sürücüleri ve işletenleri üç aydan altı aya kadar hafif hapis cezası ve 526.700.000 lira hafif para cezası ile cezalandırılırlar. Ayrıca (b) bendi hükmüne uygun durumda bulunmayan araçlar trafik zabıtasınca; eksiklikleri giderilinceye kadar trafikten men edilir.
 6062
-34.800.00 lira para cezası ile cezalandırılırlar. Sürücü aynı zamanda araç sahibi değilse ayrıca, tescil plakasına da aynı miktar için ceza tutanağı düzenlenir. Aynı bentte belirtilen cihazları bozuk imal edenler veya bozulmasına vasıta olanlar ile bu durumdaki cihazları kullanan araç sürücüleri ve işletenleri üç aydan altı aya kadar hafif hapis cezası ve 526.700.000 lira hafif para cezası ile cezalandırılırlar. Ayrıca (b) bendi hükmüne uygun durumda bulunmayan araçlar trafik zabıtasınca; eksiklikleri giderilinceye kadar trafikten men edilir.
 Adres değiştirme ve araçlar üzerindeki değişiklikleri bildirme:
 Madde 32 – Araçlar üzerinde yönetmelikte belirtilen şekillerde yapılacak her türlü değişikliğin ve adres değişikliklerinin işleten tarafından otuz gün içinde tescili yapan kuruluşa bildirilmesi zorunludur.
 (Değişik : 21/5/1997 - 4262/4 md.) Bu madde hükmüne uymayanlar 1 800 000 lira para cezası ile cezalandırılırlar.
 Üzerinde teknik değişiklik yapılan araçlar, değişikliğin şartlara uygun olarak yapıldığı belgelenip bu durum ilgili tescil bürosunda tescil edilinceye ve trafik belgesine işleten tarafından yazdırılıncaya kadar trafikten men edilir.
 Taşınması özel izne bağlı yükler:
-Madde 33 – Ağırlık ve boyutları bakımından özelliği olan, başka ulaşım sistemleri ile taşınması olmayan ve taşıma sınırını aşıp da taşınması zorunlu olan yüklerin taşınması için, Karayolları Genel Müdürlüğünden izin alınması zorunludur.
+Madde 33 – Ağırlık ve boyutları bakımından özelliği olan,başka ulaşım sistemleri ile taşınması olmayan ve taşıma sınırını aşıp da taşınması zorunlu olan yüklerin taşınması için, Karayolları Genel Müdürlüğünden izin alınması zorunludur.
 ÜÇÜNCÜ BÖLÜM
 Araçların Muayenesi ve Muayeneye Yetkili Kuruluşlar
 Araçların muayenesi:
@@ -277,21 +278,19 @@ BEŞİNCİ KISIM
 Sürücü Belgeleri ve Sürücüler
 Sürücü belgesi alma zorunluluğu:
 Madde 36 – Motorlu araçların, sürücü belgesi sahibi olmayan kişiler tarafından karayollarında sürülmesi ve sürülmesine izin verilmesi yasaktır.
+6064
 Araçlar, bu Kanunda sınıfları belirtilen sürücü belgelerine sahip sürücüler ile iki veya çok taraflı anlaşmalara göre sürücü belgesi bulunan veya geçerli uluslararası sürücü belgesi olan kişilerce sürülebilir.
-(Yeniden Düzenleme: 21/5/1997 - 4262/4 md.) Sürücü belgesi sahibi olmadan trafiğe çıkanlara ilk tespitte bir aydan iki aya kadar, tekrarı halinde iki aydan üç aya kadar hafif hapis cezası verilir. Ayrıca bu kişiler her defasında 7 200 000 lira hafif para cezasıyla da cezalandırılırlar. Bu kişilerin kazaya neden olması halinde bu cezaların uygulanması diğer cezaların uygulanmasına engel teşkil etmez. Sürücü aynı zamanda araç sahibi değilse, ayrıca tescil plakasına da aynı miktar için ceza tutanağı düzenlenir. (1)
+(Yeniden Düzenleme: 21/5/1997 - 4262/4 md.) Sürücü belgesi sahibi olmadan trafiğe çıkanlara ilk tespitte bir aydan iki aya kadar, tekrarı halinde iki aydan üç aya kadar hafif hapis cezası verilir. Ayrıca bu kişiler her defasında 7 200 000 lira hafif para cezasıyla da cezalandırılırlar. Bu kişilerin kazaya neden olması halinde bu cezaların uygulanması diğer cezaların uygulanmasına engel teşkil etmez. (İptal dördüncü cümle: Anayasa Mahkemesi’nin 29/11/2012 tarihli ve E.: 2012/106, K.: 2012/190 sayılı Kararı ile.) (…) (1)
 Sürücü belgesi alması zorunlu olmayanlarda aranacak şartlar:
 Madde 37 – Sürücü belgesi almaları zorunlu olmamakla beraber;
-Bisiklet kullananların 11, motorsuz taşıtları kullananlar ile hayvan sürücülerinin 13 yaşını bitirmiş olmaları, bedensel ve ruhsal bakımdan sağlıklı bulunmaları zorunludur.
+Bisiklet kullananların 11, motorsuz taşıtları kullananlar ile hayvan sürücülerinin 13 yaşını bitirmiş olmaları,bedensel ve ruhsal bakımdan sağlıklı bulunmaları zorunludur.
 (Değişik : 21/5/1997 - 4262/4 md.) Durumları bu madde hükmüne uymayanlara araç kullandıran ve hayvanları tevdi edenler 1 800 000 lira para cezası ile cezalandırılırlar.
 Sürücü belgesi sınıfları:
-Madde 38 – Sürücü belgeleri, kullanılacak araçların cinslerine ve gruplarına göre aşağıdaki sınıflara ayrılmıştır.
+Madde 38 – Sürücü belgeleri,kullanılacak araçların cinslerine ve gruplarına göre aşağıdaki sınıflara ayrılmıştır.
 "A1" Sınıfı Sürücü Belgesi,
 Motorlu bisiklet kullanacaklara,
 "A2" Sınıfı Sürücü Belgesi,
 Motosiklet kullanacaklara,
-——————————
-(1) Bu maddenin üçüncü ve dördüncü fıkraları 21/5/1997 tarih ve 4262 sayılı Kanunun dördüncü maddesi ile birleştirilmek suretiyle üçüncü fıkra olarak düzenlenmiş ve metne işlenmiştir.
-6064
 "B" Sınıfı Sürücü Belgesi,
 Otomobil, minibüs veya kamyonet kullanacaklara,
 "C" Sınıfı Sürücü Belgesi,
@@ -304,6 +303,9 @@ Otobüs kullanacaklara,
 Lastik tekerlekli traktör kullanacaklara,
 "G" Sınıfı Sürücü Belgesi,
 İş makinesi türünden motorlu araçları kullanacaklara,
+——————————
+(1) Bu maddenin üçüncü ve dördüncü fıkraları 21/5/1997 tarihli ve 4262 sayılı Kanunun dördüncü maddesi ile birleştirilmek suretiyle üçüncü fıkra olarak düzenlenmiş ve metne işlenmiştir.
+6064-1
 "H" Sınıfı Sürücü Belgesi,
 Özel tertibatlı olarak, imal, tadil veya teçhiz edilmiş motosiklet veya otomobil türünden araçları kullanacak hasta veya sakatlara,
 "K" Sınıfı Sürücü Aday Belgesi,
@@ -327,6 +329,7 @@ B, C ve E sınıfı sürücü belgesi sahipleri, araçlarına en çok yüklü a�
 Yüklü ağırlığı 750 Kg.'ı geçen römorkları taşıtlarına takarak kullanmak isterlerse ayrı bir sınavdan geçirilirler ve römorklu taşıt kullanabilecekleri belgelerine işlenir.
 c) (Değişik: 17/10/1996 - 4199/17 md.) Sürücü belgelerinin geçerlilik süresi:
 Sürücü belgelerinden (K) sınıfı sürücü aday belgesi altı ay geçerlidir. Diğer sürücü belgelerinin İçişleri Bakanlığınca, trafik güvenliği nedeniyle, gerekli görüldüğünde değiştirilmesi zorunludur. Ödenmemiş trafik para cezaları kanuni faiziyle birlikte tahsil edilmedikçe değiştirme işlemi yapılmaz. Geçerli bir mazeret olmaksızın altı ay içinde sürücü belgelerini değiştirmeyen sürücüler araç kullanmaktan men edilir. Değiştirme işlemleri İçişleri Bakanlığınca çıkarılacak yönetmelikte belirlenecek esas ve usulleri göre yapılır.
+6064-2
 6065
 (İkinci fıkra mülga: 18/1/1985-KHK 245/16 md; Aynen Kabul:28/3/1985 - 3176/16 md.)
 (G) sınıfı sürücü belgesi alacak olanlarda aranacak özel şartlar ile uluslararası sürücü belgelerinin veriliş şartları yönetmelikte gösterilir.
@@ -405,7 +408,7 @@ Madde 47 – Karayollarından faydalananlar aşağıdaki sıralamaya göre;
 a) Trafiği düzenleme ve denetimle görevli trafik zabıtası veya özel kıyafetli veya işaret taşıyan diğer yetkili kişilerin uyarı ve işaretlerine,
 b) Trafik ışıklarına,
 c) Trafik işaret levhaları, cihazları ve yer işaretlemeleri ile belirtilen veya gösterilen hususlara,
-d) Trafik güvenliği ve düzeni ile ilgili olan ve yönetmelikte gösterilen diğer kural, yasak, zorunluluk veya yükümlülüklere,
+d) Trafik güvenliği ve düzeni ile ilgili olan ve yönetmelikte gösterilen diğer kural,yasak, zorunluluk veya yükümlülüklere,
 Uymak zorundadırlar.
 (Değişik: 21/5/1997 - 4262/4 md.) Trafik zabıtası veya diğer yetkililerin dur işaretlerine, ışıklı trafik işaretlerinden kırmızı renkli olanına veya sesli işaretlere uymayan sürücüler, 3 600 000 lira, diğer trafik işaretlerine uymayan sürücüler, 1 800 000 lira para cezası ile cezalandırılırlar.
 Alkollu içki, uyuşturucu veya keyif verici maddelerin etkisi altında araç sürme yasağı:
@@ -414,14 +417,13 @@ Madde 48 – Uyuşturucu veya keyif verici maddeleri almış olanlar ile alkoll�
 Bu madde hükmüne uymayan sürücüler derhal araç kullanmaktan men olunur.
 (Ek: 17/10/1996 - 4199/20 md; Değişik : 21/5/1997 - 4262/4 md.) Toplu taşım araçlarında sigara içilemez. Sigara içenler hakkında 4207 sayılı Tütün Mamüllerinin Zararlarının Önlenmesine Dair Kanun hükümleri uygulanır.
 (Değişik: 8/1/2003 - 4785/3 md) Yönetmelik ile belirtilen miktarların üzerinde alkollü araç kullandığı tespit edilen sürücülerin, suçun işlendiği tarihten itibaren geriye doğru beş yıl içinde; birinci defasında sürücü belgeleri altı ay süreyle geri alınır ve haklarında 265 300 000 lira para cezası uygulanır. İkinci defasında sürücü belgeleri iki yıl süreyle geri alınır ve haklarında 332 600 000 lira para cezası uygulanır ve bu sürücüler Sağlık Bakanlığınca, esas ve usulleri Sağlık ve İçişleri Bakanlıklarınca çıkarılacak yönetmelikte gösterilen sürücü davranışlarını geliştirme eğitimine tabi tutulurlar, eğitimi başarıyla tamamlayanların belgeleri süresi sonunda iade edilir. Üç veya üçten fazlasında ise, sürücü belgeleri beş yıl süreyle geri alınır ve altı aydan aşağı olmamak üzere hafif hapis cezası ile birlikte 532 600 000 lira hafif para cezası uygulanır. Ayrıca, psiko-teknik değerlendirme ve psikiyatri uzmanı muayenesine tabi tutulurlar. Bu değerlendirme ve muayene sonrasında uygun görülenlere, geri alma süresi sonunda sürücü belgeleri iade edilir. Psiko-teknik değerlendirme ve psikiyatri uzmanı muayenesinin yapılmasına dair esas ve usuller yönetmelikte gösterilir.
-(Değişik: 8/1/2003 - 4785/3 md) Uyuşturucu ve keyif verici maddeleri alarak araç kullananlara, eylemi başka bir suç oluştursa bile ayrıca, altı ay hafif hapis cezası ile birlikte 532 600 000 lira hafif para cezası uygulanır ve sürücü belgeleri süresiz olarak geri alınır.(1)
+(Değişik: 8/1/2003 - 4785/3 md) Uyuşturucu ve keyif verici maddeleri alarak araç kullananlara, eylemi başka bir suç oluştursa bile ayrıca, altı ay hafif hapis cezası ile birlikte 532 600 000 lira hafif para cezası uygulanır (…). (1)
 Taşıt kullanma sürelerine uyma zorunluluğu:
 Madde 49 – Ticari amaçla yük ve yolcu taşıyan motorlu taşıt sürücülerinin, taşıt kullanma sürelerine aykırı olarak taşıt kullanması ve bunlara taşıt kullandırılması yasaktır.
 Taşıt kullanma süreleri ile ticari amaçla yük ve yolcu taşıyan motorlu taşıtları kullanacakların denetimi ve süre dışı kullanmaya devamı önleyici tedbirlerle ilgili uygulanacak esas ve usuller yönetmelikte belirtilir.
 (Değişik : 21/5/1997 - 4262/4 md.) Bu madde hükmüne aykırı olarak taşıt kullanan sürücüler 1 800 000 lira para cezası ile cezalandırılırlar. Sürücü aynı zamanda araç sahibi değilse,
 _______________________
-(1) Anayasa Mahkemesinin 29/12/2011 tarihli ve E.: 2010/104, K.: 2011/180 sayılı Kararı ile bu fıkrada yer alan “…ve sürücü belgeleri süresiz olarak geri alınır” ibaresi iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 19/5/2012 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
-6069
+(1) Anayasa Mahkemesinin 29/12/2011 tarihli ve E.: 2010/104, K.: 2011/180 sayılı Kararı ile bu fıkrada yer alan “…ve sürücü belgeleri süresiz olarak geri alınır” ibaresi iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 19/5/2012 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır. 6069
 araç sahibine de 3 600 000 lira, ayrıca işleten veya teşebbüs sahibine de 7 200 000 lira için ceza tutanağı düzenlenir.
 İKİNCİ BÖLÜM
 Hız Kuralları
@@ -438,11 +440,11 @@ Hız sınırlarının aşılıp aşılmadığını, tespit etmekte kullanılan c
 (Değişik: 8/1/2003 - 4785/4 md) Bu cihazları imal ve ithal edenler, fiil başka bir suç oluştursa bile ayrıca 800 000 000 liradan 1 332 800 000 liraya kadar hafif para cezası ve altı aydan sekiz aya kadar hafif hapis cezası ile; araçlarında bulunduran işletenler ise, 532 600 000 liradan 800 000 000 liraya kadar hafif para cezası ve dört aydan altı aya kadar hafif hapis cezası ile cezalandırılırlar ve bu cihazların müsaderesine de hükmolunur.
 Hızın gerekli şartlara uygunluğunu sağlamak:
 Madde 52 – Sürücüler:
-a) Kavşaklara yaklaşırken, dönemeçlere girerken, tepe üstlerine yaklaşırken, dönemeçli yollarda ilerlerken, yaya geçitlerine, hemzemin geçitlere, tünellere, dar köprü ve menfezlere yaklaşırken, yapım ve onarım alanlarına girerken, hızlarını azaltmak,
+a) Kavşaklara yaklaşırken,dönemeçlere girerken, tepe üstlerine yaklaşırken, dönemeçli yollarda ilerlerken, yaya geçitlerine, hemzemin geçitlere, tünellere, dar köprü ve menfezlere yaklaşırken, yapım ve onarım alanlarına girerken, hızlarını azaltmak,
 b) Hızlarını, kullandıkları aracın yük ve teknik özelliğine, görüş, yol, hava ve trafik durumunun gerektirdiği şartlara uydurmak,
 c) Diğer bir aracı izlerken yukarıdaki fıkrada belirlenen durumları göz önünde tutarak güvenli bir mesafe bırakmak,
 6070
-d) Kol ve grup halinde araç kullananlar, araçları arasında yönetmelikte belirtilen esaslara uygun olarak diğer araçların güvenle girebilecekleri açıklıklar bulundurmak,
+d) Kol ve grup halinde araç kullananlar,araçları arasında yönetmelikte belirtilen esaslara uygun olarak diğer araçların güvenle girebilecekleri açıklıklar bulundurmak,
 Zorundadırlar.
 (Değişik: 21/5/1997 - 4262/4 md.) Bu madde hükmüne uymayan sürücüler 1 800 000 lira para cezası ile cezalandırılırlar.
 ÜÇÜNCÜ BÖLÜM
@@ -463,7 +465,7 @@ b) Sola dönüşlerde sürücüler;
 4. Dönüşe başlamadan, sağdan gelen taşıtlara ilk geçiş hakkını vermeye,
 5. Dönüş sırasında, karşıdan gelen ve emniyetle durdurulamayacak kadar kavşağa yaklaşmış olan taşıtların geçmesini beklemeye,
 6. Gireceği yolun gidişe ayrılan kısmına girmek üzere, dönüşünü yaparken, arkadan gelen ve sola dönecek diğer taşıtları engellememek için, geniş kavisle dönüş yapmaya,
-7. Gireceği yolun gidiş yönünde çok şeritli olması halinde, en sağ şerit dışında, uygun bir şeride girmeye,
+7. Gireceği yolun gidiş yönünde çok şeritli olması halinde,en sağ şerit dışında, uygun bir şeride girmeye,
 8. Gireceği yola girdikten sonra, en kısa sürede, trafiği tehlikeye düşürmeden sağa yaklaşmaya,
 Zorunludurlar.
 c) Dönel kavşaklarda dönüşlerde sürücüler;
@@ -478,7 +480,7 @@ Zorunludurlar.
 d) Dönel kavşaklardaki geriye dönüşlerde sürücüler, sola dönüş halindeki kurallara uymakla birlikte, orta ada etrafında dönerken gireceği yola yaklaşıncaya kadar şeridini muhafaza etmeye de zorunludurlar.
 6071
 Sağa ve sola dönüşlerde, sürücüler kurallara uygun olarak geçiş yapan yayalara, varsa bisiklet yolundaki bisikletlilere ve sola dönüşlerde sağdan ve karşıdan gelen trafiğe ilk geçiş hakkını vermek zorundadırlar.
-Gidişe ayrılmış birden fazla şeridi bulunan yollarda, en sağdaki veya soldaki şerit işaretlenmek suretiyle sadece dönüşlere ayrılabilir, ayrılmış bu şeritlere bitişik diğer şeritlerden de işaretlenmek suretiyle sağa veya sola dönüşlerde izin verilebilir.
+Gidişe ayrılmış birden fazla şeridi bulunan yollarda,en sağdaki veya soldaki şerit işaretlenmek suretiyle sadece dönüşlere ayrılabilir, ayrılmış bu şeritlere bitişik diğer şeritlerden de işaretlenmek suretiyle sağa veya sola dönüşlerde izin verilebilir.
 Bu dönüşler için yukarıdaki (a) ve (b) bentlerindekine benzer manevra yapılır.
 (Değişik : 21/5/1997 - 4262/4 md.) Bu madde hükümlerine uymayan sürücüler 1 800 000 lira para cezası ile cezalandırılırlar.
 Geçme kural ve yasakları:
@@ -489,7 +491,7 @@ Sürücülerin önlerinde giden bir aracı geçmeleri için;
 2.Önündeki sürücünün başka bir taşıt veya aracı geçme niyetini belirten uyarma işaretini vermemiş olması,
 3. Geçeceği aracın hızı ile geçme esnasındaki kendi hızını da göz önüne alarak iki yönlü trafiğin kullanıldığı taşıt yollarında karşıdan gelen trafik dahil karayolunu kullananların tümü için tehlike veya engel olmadan geçme için kullanacağı şeridin yeteri kadar ilerisinin boş olması,
 Zorunludur.
-Geçme, geçilecek aracın solundaki şeritten yapılır. Geçilecek aracın sürücüsü ses ve ışık cihazları ile uyarılarak,geçerken kullanılan şeritte güvenli mesafe gidildikten sonra işaret verilip izlenecek şeride girmekle tamamlanır.
+Geçme, geçilecek aracın solundaki şeritten yapılır.Geçilecek aracın sürücüsü ses ve ışık cihazları ile uyarılarak,geçerken kullanılan şeritte güvenli mesafe gidildikten sonra işaret verilip izlenecek şeride girmekle tamamlanır.
 Araçların sağından veya banketlerden yararlanmak suretiyle geçmek yasaktır.
 Ancak, herhangi bir araç, başka bir yola, karayoluna bitişik bir mülke girmek veya sola yanaşıp durmak için bu niyetini sola dönüş işareti ile belirtmiş ise bunların sağındaki şeritten geçilebilir.
 Gidişe ayrılmış yol bölümlerinde, şerit değiştirmemek şartı ile bir şeritteki taşıtların diğer şeritteki taşıtlardan hızlı gitmesi geçme sayılmaz.
@@ -513,14 +515,14 @@ Zorundadırlar.
 Şerit izleme, gelen trafikle karşılaşma, araçlar arasındaki mesafe, yavaş sürme ve geçiş kolaylığı sağlama:
 Madde 56 – Sürücüler aşağıdaki kurallara ve yasaklara uymak zorundadırlar.
 a) Şerit izleme :
-1. Sürücülerin; geçme, dönme, duraklama, durma ve park etme gibi haller dışında şerit değiştirmeleri veya iki şeridi birden kullanmaları,
+1. Sürücülerin; geçme,dönme,duraklama,durma ve park etme gibi haller dışında şerit değiştirmeleri veya iki şeridi birden kullanmaları,
 2. Kavşaklara yaklaşırken, yerleşim yerleri dışında yüzelli metre, yerleşim yerlerinde ise otuz metre mesafe içinde ve kavşaklarda şerit değiştirmeleri,
 3. Araçların cinsine ve hızına uygun olmayan şeritten gitmeleri,
 4. İşaret vermeden şerit değiştirmeleri,
 Yasaktır.
 b) Gelen trafikle karşılaşma :
 Sürücüler; iki yönlü trafiğin kullanıldığı taşıt yollarında karşı yönden gelen araçların geçişini zorlaştıran bir durum varsa geçişi kolaylaştırmak için aracını sağ kenara yanaştırmaya, gerektiğinde sağa yanaşıp durmaya,
-Dağlık ve dik yokuşlu karayollarında karşılaşma halinde, çıkan araç için geçiş güç veya mümkün değilse, güvenli geçişi sağlamak üzere, inen araçlar, varsa önceden sığınma cebine girmeye, sığınma cebi yoksa sağ kenara yanaşıp durmaya, gerektiği hallerde geri gitmeye,
+Dağlık ve dik yokuşlu karayollarında karşılaşma halinde, çıkan araç için geçiş güç veya mümkün değilse, güvenli geçişi sağlamak üzere, inen araçlar, varsa önceden sığınma cebine girmeye, sıgınma cebi yoksa sağ kenara yanaşıp durmaya, gerektiği hallerde geri gitmeye,
 Zorunludurlar.
 c) Araçlar arasındaki mesafe:
 Sürücüler önlerinde giden araçları yönetmelikte belirtilen güvenli ve yeterli bir mesafeden izlemek zorundadırlar.
@@ -546,7 +548,7 @@ c) Kavşak kollarının trafik yoğunluğu bakımından farklı oldukları işar
 1. Motorsuz araç sürücüleri motorlu araçlara,
 2. Motorlu araçlardan soldaki sağdan gelen araca,
 d) (Ek: 21/5/1997 - 4262/4 md.) Işıklı trafik işaretleri izin verse bile trafik akımı; kendisini kavşak içinde durmaya zorlayacak veya diğer doğrultudaki trafiğin geçişine engel olacak ise, sürücülerin kavşağa girmeleri yasaktır.
-e) (Ek: 21/5/1997 - 4262/4 md.) Trafik zabıtası, yetkili kişi veya trafik ışıklı işareti ile yönetilen kavşaklarda, sürücüler, kavşağı en kısa zamanda geçmek zorundadırlar. Sürücülerin gereksiz olarak yavaşlamaları, durmaları, taşıttan inmeleri, taşıt veya araçların motorlarını durdurmaları yasaktır.
+e) (Ek: 21/5/1997 - 4262/4 md.) Trafik zabıtası, yetkili kişi veya trafik ışıklı işareti ile yönetilen kavşaklarda, sürücüler, kavşağı en kısa zamanda geçmek zorundadırlar. Sürücülerin gereksiz olarak yavaşmaları, durmaları, taşıttan inmeleri, taşıt veya araçların motorlarını durdurmaları yasaktır.
 f) (Ek: 21/5/1997 - 4262/4 md.) Aksine bir işaret olmadıkça, bütün kavşaklarda araçlar ray üzerinde hareket eden taşıtlara ilk geçiş hakkını vermek zorundadır.
 (Değişik: 21/5/1997 - 4262/4 md.) Bu madde hükümlerine uymayan sürücüler 1 800 000 lira para cezası ile cezalandırılırlar.
 İndirme ve bindirme kuralları:
@@ -557,7 +559,7 @@ Madde 59 – Yerleşim birimleri dışındaki kara yolunda zorunlu haller dış�
 (Değişik:21/5/1997 - 4262/4 md.) Zorunlu hallerde gerekli önlemleri almadan duraklayan veya parkeden sürücüler ile zorunlu haller dışında duraklayan veya parkeden sürücüler 1 800 000 lira para cezası ile cezalandırılırlar.
 Duraklamanın yasak olduğu yerler:
 Madde 60 – Taşıt yolu üzerinde;
-a) Duraklamanın yasaklandığının bir trafik işareti ile belirtilmiş olduğu yerlerde,
+a) Duraklamanın yasaklandığının bir trafİk işareti ile belirtilmiş olduğu yerlerde,
 b) Sol şeritte, (raylı sistemin bulunduğu yollar hariç),
 c) Yaya ve okul geçitleri ile diğer geçitlerde,
 d) Kavşaklar, tüneller, rampalar, köprüler ve bağlantı yollarında ve buralara, yerleşim birimleri içinde beş metre ve yerleşim birimleri dışında yüz metre mesafede,
@@ -609,7 +611,7 @@ Zorunludur.
 b) Yasaklar:
 1. Gece sis ışıklarının; sisli, karlı ve sağanak yağmurlu havalar dışında diğer farlarla birlikte yakılması,
 2. Dönüş ışıklarının geç anlamında kullanılması,
-3. Karşılaşmalarda, ışıkların söndürülmesi,
+3. Karşılaşmalarda,ışıkların söndürülmesi,
 4. Öndeki aracı geçişlerde uyarı için çok kısa süre dışında uzağı gösteren ışıkların yakılması,
 5. Yönetmelikte belirlenecek esaslara aykırı olarak ışık takılması ve kullanılması,
 6. Sadece park lambaları ile seyredilmesi,
@@ -651,7 +653,7 @@ Araçların yüklenmesine ilişkin ölçü ve usuller, ağırlık ve boyut kontr
 Uluslararası yük ve yolcu taşımacılığına ilişkin konularda ikili ve çok taraflı anlaşma hükümleri saklıdır.
 Tarım alanlarına yapılacak yük ve yolcu taşımacılığına ilişkin esas ve usuller yönetmelikte belirlenir.
 Bisiklet, motorlu bisiklet ve motosiklet sürücüleri ile ilgili kurallar:
-Madde 66 – Bisiklet, motorlu bisiklet ve motosiklet sürücülerine aşağıdaki kurallar uygulanır.
+Madde 66 – Bisiklet,motorlu bisiklet ve motosiklet sürücülerine aşağıdaki kurallar uygulanır.
 a) Ayrı bisiklet yolu varsa, bisiklet ve motorlu bisikletlerin taşıt yolunda,
 Bisiklet, motorlu bisiklet ve motosikletlerin yayaların kullanmasına ayrılmış yerlerde,
 Bunlardan ikiden fazlasının taşıt yolunun bir şeridinde yanyana,
@@ -660,12 +662,13 @@ b) Bisiklet sürenlerin en az bir elleri, motorlu bisiklet sürenlerin manevra i
 c) Bisiklet, motorlu bisiklet ve sepetsiz motosiklet sürücülerinin, sürücü arkasında yeterli bir oturma yeri olmadıkça başka kişileri bindirmeleri ve yönetmelikte belirtilen sınırdan fazla yük taşımaları yasaktır.
 Sürücü arkasında ayrı oturma yeri olan bisiklet, motorlu bisiklet ve sepetsiz motosikletlerle bir kişiden fazlası taşınamaz.
 (Değişik: 21/5/1997 - 4262/4 md.) Bu madde hükümlerine uymayan sürücüler 3 600 000 lira para cezası ile cezalandırılırlar.
+6076-2
 6077
 Araç manevralarını düzenleyen kurallar:
 Madde 67 – Manevralarda aşağıdaki kurallar uygulanır.
-a) Sürücülerin, park yapmış taşıtlar arasından çıkarken, duraklarken veya park yaparken taşıt yolunun sağına veya soluna yanaşırken, sağa veya sola dönerken, karayolunu kullananlar için tehlike doğurabilecek ve bunların hareketlerini zorlaştıracak şekilde davranmaları yasaktır.
+a) Sürücülerin, park yapmış taşıtlar arasından çıkarken,duraklarken veya park yaparken taşıt yolunun sağına veya soluna yanaşırken, sağa veya sola dönerken, karayolunu kullananlar için tehlike doğurabilecek ve bunların hareketlerini zorlaştıracak şekilde davranmaları yasaktır.
 b) Yönetmelikte belirtilen şartlar dışında geriye dönmek veya geriye gitmek yasaktır. İzin verilen hallerde bu manevraları yapacak sürücüler, karayolunu kullananlar için tehlike veya engel yaratmamak zorundadır.
-c) Dönüşlerde veya şerit değiştirmelerde sürücülerin niyetlerini dönüş işaret ışıkları veya kol işareti ile açıkça ve yeterli şekilde belirtmesi, işaretlerin manevra süresince devam etmesi ve biter bitmez sona erdirilmesi zorunludur.
+c) Dönüşlerde veya şerit değıştirmelerde sürücülerin niyetlerini dönüş işaret ışıkları veya kol işareti ile açıkça ve yeterli şekilde belirtmesi,işaretlerin manevra süresince devam etmesi ve biter bitmez sona erdirilmesi zorunludur.
 (Değişik: 21/5/1997 - 4262/4 md.) Bu madde hükümlerine uymayanlar 1 800 000 lira para cezası ile cezalandırılırlar.
 DÖRDÜNCÜ BÖLÜM
 Yayalar, Hayvanla Çekilen veya Elle Sürülen Araçlarla
@@ -673,7 +676,7 @@ Hayvan Sürücüleri ve Yarışlar Hakkında Kurallar
 Yayaların uyacakları kurallar:
 Madde 68 – Yayaların uyacakları kurallar aşağıda belirtilmiştir.
 a) Yayalar, aşağıda sayılan haller dışında, taşıt yolu bitişiğinde ve yakınında yaya yolu, banket veya alan varsa burada yürümek zorundadır.
-1. Yönetmelikte belirtilen tedbirler alınmak şartı ile diğer yayalar için ciddi rahatsızlık verecek boyutta eşyaları iten veya taşıyan kişiler ile, taşıt yolunun en sağ şeridinden fazla kısmını işgal etmemek, gece ve gündüz görüşün az olduğu hallerde de imkan oranında tek sıra halinde yürümek şartı ile bir yetkili veya görevli yönetiminde düzenli şekilde yürüyen yaya kafileleri taşıt yolu üzerinde yürüyebilirler.
+1. Yönetmelikte belirtilen tedbirler alınmak şartı ile diğer yayalar için ciddi rahatsızlık verecek boyutta eşyaları iten veya taşıyan kişiler ile, taşıt yolunun en sağ şeridinden fazla kısmını işgal etmemek,gece ve gündüz görüşün az olduğu hallerde de imkan oranında tek sıra halinde yürümek şartı ile bir yetkili veya görevli yönetiminde düzenli şekilde yürüyen yaya kafileleri taşıt yolu üzerinde yürüyebilirler.
 2. Yayaların yürümesine ayrılmış kısımların kullanılmasının mümkün olmaması veya bulunmaması hallerinde yayalar, bisiklet trafiğine engel olmamak şartı ile bisiklet yolunda bisiklet yolu yoksa taşıt yolu üzerinde, imkan oranında taşıt yolu kenarına yakın olmak şartı ile yürüyebilirler.
 3. Her iki tarafında, yaya yolu ve banket bulunmayan veya kullanılır durumda olmayan iki yönlü trafiğin kullanıldığı karayollarında yaya kafileleri dışındaki yayalar, taşıt yolunun sol kenarını izlemek zorundadır.
 b) Taşıt yolunun karşı tarafına geçmek isteyen yayaların taşıt yolunu, yaya ve okul geçidi ile kavşak giriş ve çıkışları dışında herhangi bir yerden geçmeleri yasaktır.
@@ -688,7 +691,7 @@ ederek kendi güvenliklerini sağladıktan sonra en kısa doğrultuda ve en kıs
 c) Yaya yollarında, geçitlerde veya zorunlu hallerde taşıt yolu üzerinde bulunan yayaların, trafiği engelleyecek veya tehlikeye düşürecek şekilde davranışlarda bulunmaları veya buraları saygısızca kullanmaları yasaktır.
 (Değişik: 21/5/1997 - 4262/4 md.) Bu madde hükümlerine uymayan yayalar 1 800 000 lira para cezası ile cezalandırılırlar.
 Hayvanla çekilen, elle sürülen araçları sürenler ile hayvan sürücülerine ait kurallar:
-Madde 69 – Yerleşim birimleri dışındaki karayolunda, taşıt yolu üzerinde zorunlu haller dışında hayvan bulundurmak, karayollarının yasaklanmamış, kesimlerinde ise hayvanla çekilen veya elle sürülen araçları, hayvanları, hayvan sürülerini ve binek hayvanlarını trafik kurallarına uymadan sürmek ve bunları sürme yeteneğinden yoksun kimselerin yönetimine vermek veya başı boş bırakmak yasaktır.
+Madde 69 – Yerleşim birimleri dışındaki karayolunda, taşıt yolu üzerinde zorunlu haller dışında hayvan bulundurmak, karayollarının yasaklanmamış,kesimlerinde ise hayvanla çekilen veya elle sürülen araçları,hayvanları,hayvan sürülerini ve binek hayvanlarını trafik kurallarına uymadan sürmek ve bunları sürme yeteneğinden yoksun kimselerin yönetimine vermek veya başı boş bırakmak yasaktır.
 (Değişik: 21/5/1997 - 4262/4 md.) Bu madde hükümlerine uymayanlar 1 800 000 lira para cezası ile cezalandırılırlar. Ancak, başıboş hayvan bırakma yasağına riayet etmeyerek trafik kazasına sebebiyet veren faile üç ay hafif hapis cezası uygulanır. (1)
 Taşıt yolunu kullanmak zorunda olan hayvan sürü ve kümelerini sevk ve idare edenler yönetmelikte belirtilen usul ve şartlara uymak zorundadırlar.
 Yarış ve koşulara ait kurallar:
@@ -709,7 +712,7 @@ d) Bir trafik suçu işleyerek kaçan aracı takip eden veya trafik güvenliğin
 e) Alarm sırasında sivil savunma hizmetlerinde görevli bulunan araçlar,
 f) Koruma ile görevli ve korunan araçlar,
 Bu araçlar görev halinde iken geçiş üstünlüğü hakkına sahiptir.
-Bu hak, halkın can ve mal güvenliğini tehlikeye sokmamak, duyulur ve görünür geçiş üstünlüğü işaretini vermek şartı ile kullanılır.
+Bu hak, halkın can ve mal güvenliğini tehlikeye sokmamak,duyulur ve görünür geçiş üstünlüğü işaretini vermek şartı ile kullanılır.
 Bu araçlar, bu Kanun ve yönetmelikte yazılı trafik kısıtlama ve yasaklarına bağlı değildir.
 ——————————
 (1) Bu maddenin, ikinci ve dördüncü fıkraları, 21/5/1997 tarih ve 4262 sayılı Kanunun 4 üncü maddesi ile birleştirilmek suretiyle maddenin ikinci fıkrası olarak yeniden düzenlenmiştir.
@@ -740,7 +743,7 @@ b) Işıklı işaret ve bariyerle donatılmamış demiryolu geçitlerini geçmed
 6080
 Çocuk, hasta ve sakat taşıtları, gözleri görmeyen yayalar, yürüyüş kolları:
 Madde 77 – Bu Kanun açısından;
-a) Çocuk, hasta ve sakatlara ait motorsuz taşıtların sürücülerine, yayalarla ilgili hükümler uygulanır.
+a) Çocuk, hasta ve sakatlara ait motorsuz taşıtların sürücülerine,yayalarla ilgili hükümler uygulanır.
 b) Gözleri görmeyen ve yönetmelikte gösterilen özel işaret ve benzerlerini taşıyan kişilerin, taşıt yolu üzerinde bulunmaları halinde, bütün sürücülerin yavaşlamaları ve gerekiyorsa durmaları ve yardımcı olmaları zorunludur.
 c) Bir yetkili veya görevli yönetimindeki yürüyüş kolları arasından geçmek yasaktır.
 (Değişik: 21/5/1997 - 4262/4 md.) Bu maddenin birinci fıkrasının (b) bendi hükmüne uymayan sürücüler 3 600 000 lira, (c) bendi hükmüne uymayan sürücüler 1 800 000 lira para cezası ile cezalandırılırlar.
@@ -765,7 +768,7 @@ c) Kazaya karışan kişiler tarafından istendiği takdirde kimliğini, adresin
 d) Kazayı; yetkili ve görevli memurlara bildirmek, bunlar gelinceye kadar veya bunların iznini almadan kaza yerinden ayrılmamak,
 __________________
 (1) 31/5/2012 tarihli ve 6321 sayılı Kanunun 2 nci maddesi ile bu maddenin başlığı “Karayolu üzerindeki park yerlerinde ücret almaya yetkililer” iken metne işlendiği şekilde değiştirilmiştir. 6081
-e) Sürücüsü, mal sahibi veya ilgili kişilerin bulunmadığı sırada araç, eşya veya yüklere zarar veren sürücüler, zarar verdikleri araç,eşya veya mülkün sahibini veya ilgili kişileri bulmak, ilgilileri bulamadıkları takdirde durumu tespit etmek ve zarar verilen şey üzerine yazılı bilgi bırakmak, ilgili zabıtaya en kısa zamanda bilgi vermek,
+e) Sürücüsü, mal sahibi veya ilgili kişilerin bulunmadığı sırada araç, eşya veya yüklere zarar veren sürücüler, zarar verdikleri araç,eşya veya mülkün sahibini veya ilgili kişileri bulmak, ilgilileri bulamadakları takdirde durumu tespit etmek ve zarar verilen şey üzerine yazılı bilgi bırakmak, ilgili zabıtaya en kısa zamanda bilgi vermek,
 Zorundadırlar.
 Yalnız maddi hasar meydana gelen kazalarda, kazaya dahil kişilerin tümü, yetkili ve görevli kişinin gelmesine lüzum görmezlerse, bunu aralarında yazılı olarak saptamak suretiyle kaza yerinden ayrılabilirler.
 (Değişik: 21/5/1997 - 4262/4 md.) Anlaşma hali dışında maddi hasarlı, ölümlü veya yaralanmalı trafik kazalarında, zabıtanın iznini almadan zaruret dışında olay yerinden ayrılan veya birinci fıkranın (b) bendi hükümlerine uymayan sürücüler 7 200 000 lira para cezası ile cezalandırılırlar.
@@ -774,13 +777,13 @@ Trafik kazalarında yükümlülük:
 Madde 82 – Karayollarında meydana gelecek trafik kazalarına hemen el konmasını, ölü ve yaralıların taşınmasını veya yaralıların tedavisini veya sanıkların yakalanmasını sağlamak için,
 a) Kaza yerinden geçmekte olan veya kazaya karışmış bulunan araçların sürücüleri kaza mahallinde ilk yardım önlemlerini almaya ve en yakın zabıtaya veya sağlık kuruluşuna haber vermeye ve yetkililerin talebi üzerine yaralıları en yakın sağlık kuruluşuna götürmeye,
 b) Şehirlerarası akaryakıt istasyonlarında, sahipleri veya işletenleri, belirlenen standartlara uygun ilk yardım malzemesini her an kullanılabilir durumda bulundurmaya,
-c)Tamirhane, servis istasyonu, garaj sahip ve sorumluları; tesislerine, ölüm veya yaralanma ile sonuçlanan bir kaza geçirmiş olduğu belli olan veya üzerinde suç belirtisi bulunan bir araç gelince gecikmeksizin zabıtaya haber vermeye ve bunları bir deftere işlemeye,
+c)Tamirhane, servis istasyonu, garaj sahip ve sorumluları; tesislerine,ölüm veya yaralanma ile sonuçlanan bir kaza geçirmiş olduğu belli olan veya üzerinde suç belirtisi bulunan bir araç gelince gecikmeksizin zabıtaya haber vermeye ve bunları bir deftere işlemeye,
 Zorunludurlar.
 (Değişik: 21/5/1997 - 4262/4 md.) Bu madde hükümlerine uymayanlar 3 600 000 lira para cezası ile cezalandırılırlar.
 Trafik kazalarına el koyma ve bilirkişilik:
 Madde 83 – Trafik kazalarına;
 a) Adli yönden gereği yapılmak üzere mahalli genel zabıtaca,
-b) Kazanın oluş nedenlerini, iz ve delillerini belirleyerek trafik kaza tespit tutanağı düzenlemek üzere de trafik zabıtasınca el konulur.
+b) Kazanın oluş nedenlerini,iz ve delillerini belirleyerek trafik kaza tespit tutanağı düzenlemek üzere de trafik zabıtasınca el konulur.
 Trafik zabıtasının görevli olmadığı veya bulunmadığı karayollarında meydana gelen kazalarda trafik kaza tespit tutanağı mahalli genel zabıtaca düzenlenir ve bir örneği o yerin trafik zabıtasına gönderilir.
 Karayollarında meydana gelen ve yalnız maddi hasarla sonuçlanan trafik kazalarında tarafların anlaşması halinde ve fiil başka bir suç oluşturmuyorsa adli kovuşturma yapılmaz ve Türk Ceza Kanununun 565 inci maddesi hükmü uygulanmaz.
 Trafik kazalarında yolun trafiğe kapandığı hallerde; trafik zabıtası veya genel zabıta; iz ve delilleri kaybolmayacak şekilde işaretledikten ve gerekli işlemleri yaptıktan sonra, karayolunu trafiğe açmaya yetkilidir.
@@ -803,7 +806,7 @@ j) Manevraları düzenleyen genel şartlara uymama,
 k) Yerleşim birimleri dışındaki karayolunun taşıt yolu üzerinde, zorunlu haller dışında park etme veya duraklama ve her durumda gerekli tedbirleri almama,
 l) Park için ayrılmış yerlerde veya taşıt yolu dışında kurallara uygun olarak park edilmiş araçlara çarpma,
 Hallerinde asli kusurlu sayılırlar.
-Ancak, kazada bu hareketlerden herhangi biri, kazaya karışan araç sürücülerinden birden fazlası tarafından yapılmış veya kaza bu hareketler dışında kurallarla, yasaklamalara, kısıtlamalara ve talimatlara uyulmaması nedenlerinden doğmuşsa, karayolunu kullananlar için kusur oranı yönetmelikte belirtilen esaslara göre tespit edilir.
+Ancak, kazada bu hareketlerden herhangi biri,kazaya karışan araç sürücülerinden birden fazlası tarafından yapılmış veya kaza bu hareketler dışında kurallarla, yasaklamalara, kısıtlamalara ve talimatlara uyulmaması nedenlerinden doğmuşsa,karayolunu kullananlar için kusur oranı yönetmelikte belirtilen esaslara göre tespit edilir.
 SEKİZİNCİ KISIM
 Hukuki Sorumluluk ve Sigorta
 BİRİNCİ BÖLÜM (1)
@@ -856,7 +859,7 @@ Geçerli teminat tutarları üzerinden zorunlu mali sorumluluk sigortası bulunm
 Zorunlu mali sorumluluk sigortası dışında kalan hususlar:
 Madde 92 – Aşağıdaki hususlar, zorunlu mali sorumluluk sigortası kapsamı dışındadırlar.
 a) İşletenin; bu Kanun uyarınca eylemlerinden sorumlu tutulduğu kişilere karşı yöneltebileceği talepler,
-6085
+6084-2 6085
 b) İşletenin; eşinin, usul ve füruunun, kendisine evlat edinme ilişkisi ile bağlı olanların ve birlikte yaşadığı kardeşlerinin mallarına gelen zararlar nedeniyle ileri sürebilecekleri talepler,
 c) İşletenin; bu Kanun uyarınca sorumlu tutulmadığı şeye gelen zararlara ilişkin talepler,
 d) Bu Kanunun 105 inci maddesinin üçüncü fıkrasına göre zorunlu mali sorumluluk sigortasının teminatı altında yapılacak motorlu araç yarışlarındaki veya yarış denemelerindeki kazalardan doğan talepler,
@@ -881,7 +884,7 @@ Madde 96 – Zarar görenlerin tazminat alacakları, sigorta sözleşmesinde ön
 Başka tazminat taleplerinin bulunduğunu bilmeksizin zarar görenlerin birine veya birkaçına kendilerine düşecek olandan daha fazla ödemede bulunan iyiniyetli sigortacı, yaptığı ödeme çerçevesinde, diğer zarar görenlere karşı da borcundan kurtulmuş sayılır.
 6086
 Doğrudan doğruya talep ve dava hakkı:
-Madde 97 – Zarar gören, zorunlu mali sorumluluk sigortasında öngörülen sınırlar içinde doğrudan doğruya sigortacıya karşı talepte bulunabileceği gibi dava da açabilir.
+Madde 97 – Zarar gören, zorunlu mali sorumluluk sigortasında öngörülen sınırlar içinde doğrudan doğruya sigortacıya karşı talepte bulunabilecegi gibi dava da açabilir.
 Sağlık hizmet bedellerinin ödenmesi: (1)
 Madde 98 – (Değişik: 13/2/2011-6111/59 md.)
 Trafik kazaları sebebiyle üniversitelere bağlı hastaneler ve diğer bütün resmî ve özel sağlık kurum ve kuruluşlarının sundukları sağlık hizmet bedelleri, kazazedenin sosyal güvencesi olup olmadığına bakılmaksızın Sosyal Güvenlik Kurumu tarafından karşılanır.
@@ -890,7 +893,7 @@ Bu madde çerçevesinde sigorta şirketleri ve Güvence Hesabı tarafından öde
 Sigorta şirketleri ve Güvence Hesabından Sosyal Güvenlik Kurumuna aktarılacak meblağın belirlenmesi ve ödenmesi ile sağlık hizmetleri için teminat sağlanan sigortaların tespiti ve bu maddenin uygulanmasına ilişkin diğer usul ve esaslar Sağlık Bakanlığı ve Sosyal Güvenlik Kurumunun görüşü alınarak Hazine Müsteşarlığınca belirlenir. Trafik kazası sebebiyle Sağlık Bakanlığına bağlı sağlık kurumlarınca gerçekleştirilen tedavi giderleri bakımından, Sosyal Güvenlik Kurumu tarafından Sağlık Bakanlığına yapılacak ödemeye ilişkin usul ve esaslar Sosyal Güvenlik Kurumu ve Sağlık Bakanlığı tarafından ayrıca belirlenir.
 Tazminat ve giderlerin ödenmesi:
 Madde 99 – Sigortacılar, hak sahibinin kaza veya zarara ilişkin tespit tutanağını veya bilirkişi raporunu, sigortacının merkez veya kuruluşlarından birine ilettiği tarihten itibaren sekiz iş günü içinde zorunlu mali sorumluluk sigortası sınırları içinde kalan miktarları hak sahibine ödemek zorundadırlar.
-Ödemeyi yapan sigortacı, ödenen miktarın sorumluluk oranlarında paylaşılmasını diğer sigortacılardan yazılı olarak talep eder. Diğer sigortacılar talep tarihinden itibaren sekiz iş günü içinde kendilerine düşen miktarı talepte bulunana öder.
+Ödemeyi yapan sigortacı,ödenen miktarın sorumluluk oranlarında paylaşılmasını diğer sigortacılardan yazılı olarak talep eder. Diğer sigortacılar talep tarihinden itibaren sekiz iş günü içinde kendilerine düşen miktarı talepte bulunana öder.
 (Değişik: 21/5/1997 - 4262/4 md.) Bu madde hükmüne uymayan sigortacılar, 108 000 000 lira hafif para cezası ile cezalandırılırlar.
 –––––––––––––
 (1) Bu madde başlığı “Tedavi giderlerinin ödenmesi:” iken, 13/2/2011 tarihli ve 6111 sayılı Kanunun 59 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
@@ -903,7 +906,7 @@ Madde 101 – Bu Kanunda öngörülen zorunlu mali sorumluluk sigortası Türkiy
 ÜÇÜNCÜ BÖLÜM
 Özel Durumlar
 Motorlu araç römorkları:
-Madde 102 – Bir römorkun veya yarı römorkun veya çekilen bir aracın sebep olduğu zarardan dolayı, çekicinin işleteni, motorlu aracı işletenin sorumluluğuna ilişkin hükümlere göre sorumlu tutulur. Çekilen araçla ilgili olarak sorumluluk genel hükümlere tabidir.
+Madde 102 – Bir römorkun veya yarı römorkun veya çekilen bir aracın sebep olduğu zarardan dolayı, çekicinin işleteni, motorlu aracı işletenin sorumlulu-ğuna ilişkin hükümlere göre sorumlu tutulur. Çekilen araçla ilgili olarak sorumluluk genel hükümlere tabidir.
 Çekicinin sorumluluk sigortası, çekiciyi işletenin, römorkun sebep olduğu zarardan dolayı sorumluluğunu da kapsar.
 İnsan taşımada kullanılan römorklar, römork için ek bir sorumluluk sigortası yaptırılarak tüm katarın en az zorunlu mali sorumluluk sigortası tutarlarının kapsamına girmesi sağlanmadıkça, trafiğe çıkarılamaz.
 Motorsuz taşıtlar ve motorlu bisiklet:
@@ -924,7 +927,7 @@ Yetkili makamdan izin alınmaksızın düzenlenen bir yarışta vukubulan zararl
 (Değişik : 4/7/1988 - KHK - 336/1 md.; Aynen kabul: 7/2/1990 - 3612/59 md.) Bu madde hükümleri ortalama hızı saatte en az elli kilometrenin üstünde olan veya ulaşılacak hıza göre değerlendirme yapılması öngörülen motorlu araç veya bisiklet sporu gösterilerinde uygulanır. Bu hükümler, yarış güzergahının diğer trafiğe kapatılması halinde de geçerlidir. İçişleri Bakanlığı bu madde hükümlerinin, başka yarışlar bakımından da uygulanmasına karar verebilir.
 Devlete ve Kamu Kuruluşlarına Ait Araçlar
 Madde 106 - (Değişik: 25/6/1988 - KHK - 330/7 md.; Aynen kabul: 31/10/1990 - 3672/6 md.)
-Genel bütçeye dahil dairelerle katma bütçeli idarelere, il özel idarelerine ve belediyelere, kamu iktisadi teşebbüslerine ve kamu kuruluşlarına ait motorlu araçların sebep oldukları zararlardan dolayı, bu Kanunun işletenin hukuki sorumluluğuna ilişkin hükümleri uygulanır. Bu kuruluşlar, 85 inci maddenin birinci fıkrasına göre olan sorumluluklarının karşılanmasını sağlamak üzere 101 inci maddedeki şartları haiz milli sigorta şirketlerine mali sorumluluk sigortası yaptırmakla yükümlüdürler.
+Genel bütçeye dahil dairelerle katma bütçeli idarelere,il özel idarelerine ve belediyelere, kamu iktisadi teşebbüslerine ve kamu kuruluşlarına ait motorlu araçların sebep oldukları zararlardan dolayı, bu Kanunun işletenin hukuki sorumluluğuna ilişkin hükümleri uygulanır. Bu kuruluşlar, 85 inci maddenin birinci fıkrasına göre olan sorumluluklarının karşılanmasını sağlamak üzere 101 inci maddedeki şartları haiz milli sigorta şirketlerine mali sorumluluk sigortası yaptırmakla yükümlüdürler.
 Çalınan veya gasbedilen araçlarda sorumluluk:
 Madde 107 – Bir motorlu aracı çalan veya gasbeden kimse işleten gibi sorumlu tutulur. Aracın çalınmış veya gasbedilmiş olduğunu bilen veya gereken özen gösterildiği takdirde öğrenebilecek durumda olan aracın sürücüsü de onunla birlikte müteselsilen sorumludur. İşleten, kendisinin veya eylemlerinden sorumlu olduğu kişilerden birinin, aracın çalınmasında veya gasbedilmesinde kusurlu olmadığını ispat ederse, sorumlu tutulamaz. İşleten, sorumlu olduğu durumlarda diğer sorumlulara rücu edebilir.
 Aracın çalındığını veya gasbedildiğini bilerek binen yolculara karşı sorumluluk, genel hükümlere tabidir.
@@ -971,12 +974,12 @@ Madde 113 – (Mülga: 3/11/1988 - 3493/53 md.)
 Cezaların Uygulanması
 Suç ve ceza tutanakları:
 Madde 114 – (Değişik: 18/1/1985-KHK 245/13 md.; Değiştirilerek kabul: 28/3/1985-3176/13 md.)
-(Değişik birinci fıkra : 3/5/2006 / 5495/3 md.) Bu Kanunda yazılı trafik suçlarını işleyenler hakkında yetki sınırları içinde Emniyet Genel Müdürlüğü ve Jandarma Genel Komutanlığı personeli ile Ulaştırma Bakanlığının ve Karayolları Genel Müdürlüğünün ilgili birimlerinin il ve ilçe kuruluşlarında görevli ve yetkili kılınmış personelince tutanak düzenlenir.
+(Değişik birinci fıkra : 3/5/2006 - 5495/3 md.) Bu Kanunda yazılı trafik suçlarını işleyenler hakkında yetki sınırları içinde Emniyet Genel Müdürlüğü ve Jandarma Genel Komutanlığı personeli ile Ulaştırma Bakanlığının ve Karayolları Genel Müdürlüğünün ilgili birimlerinin il ve ilçe kuruluşlarında görevli ve yetkili kılınmış personelince tutanak düzenlenir.
 Birkaç trafik suçunun bir arada işlenmesi halinde her suç için ayrı ceza uygulanır.
 (Değişik fıkralar : 3/11/1988 - 3493/48 md.)
 Yargı yetkisine giren suçlarla ilgili tutanağın bir sureti ilgili mahkemeye 7 iş günü içinde gönderilir.
 Para cezaları yetkili memurlarca derhal tahsil edilir. Bu tahsilat makbuz karşılığında yapılır. Bu makbuzlar damga vergisinden muaftır.
-Para cezaları derhal tahsil olunamadığı takdirde "ceza tutanağı" tanzim edilir ve bir sureti Maliye Bakanlığınca belirlenecek birime veya kuruma 7 iş günü içinde gönderilir. (1)
+Para cezaları derhal tahsil olunamadığı takdirde "ceza tutanağı"tanzim edilir ve bir sureti Maliye Bakanlığınca belirlenecek birime veya kuruma 7 iş günü içinde gönderilir. (1)
 Birinci fıkraya göre yetkili kılınmış personel, sayman mutemeti olarak görevlendirilmeden, makbuz karşılığı para cezası tahsil eder.
 (Mülga yedi ve sekizinci fıkralar: 3/11/1988 - 3493/48 md.)
 Bu maddenin uygulanmasına ait usul ve esaslar yönetmelikle düzenlenir.
@@ -997,16 +1000,16 @@ Para cezasının ödenmesi gerektiği hallerde trafik kaydında araç sahibi ola
 (Mülga dördüncü fıkra: 16/6/2009-5904/39 md.)
 (Mülga beşinci fıkra: 16/6/2009-5904/39 md.)
 (Son fıkra mülga: 3/11/1980 - 3493/53 md.)
-Madde 117 – (Mülga: 18/1/1985 - KHK 245/16 md.; Aynen kabul: 28/3/1985-3176/16 md.)
+Madde 117 – (Mülga: 18/1/1985 - KHK 245/16 md.;Aynen kabul: 28/3/1985-3176/16 md.)
 Ceza puanı uygulaması, puanlama ve trafik kazası nedeniyle sürücü belgelerinin geri alınması: (3)
-Madde 118 – Bu Kanunun suç saydığı bir fiilden dolayı haklarında ceza uygulanan sürücülere, aldıkları her ceza, için esasları yönetmelikte belirlenen ceza puanları verilir.
+Madde 118 – Bu Kanunun suç saydığı bir fiilden dolayı haklarında ceza uygulanan sürücülere,aldıkları her ceza, için esasları yönetmelikte belirlenen ceza puanları verilir.
 (Değişik : 17/10/1996 - 4199/37 md.) Trafik suçunun işlendiği tarihten geriye doğru bir yıl içinde toplam 100 ceza puanını dolduran sürücülerin sürücü belgeleri 2 ay süre ile geri alınır ve eğitime tabi tutulurlar.
 (Ek: 17/10/1996 - 4199/37 md.) Aynı yıl içinde ikinci defa 100 puanı dolduran sürücülerin sürücü belgeleri 4 ay süre ile geri alınarak psiko-teknik değerlendirmeye ve psikiyatri uzmanının muayenesine tabi tutulurlar. Muayene sonucunda sürücülük yapmasına engel hali bulunmayanların belgeleri, süresi sonunda iade edilir.
 (Ek: 17/10/1996 - 4199/37 md.) Bir yıl içinde üç defa 100 ceza puanını dolduran sürücülerin sürücü belgeleri süresiz olarak iptal edilir.
 (Ek: 17/10/1996 - 4199/37 md.) Ölümle sonuçlanan trafik kazalarına asli kusurlu olarak sebebiyet veren sürücülerin sürücü belgeleri ise 1 yıl süre ile geri alınır.
 ——————————
 (1) Anayasa Mahkemesi’nin 12/12/2007 tarihli ve E.:2003/105, K.:2007/98 sayılı Kararıyla; bu maddenin dördüncü fıkrasında yer alan “116 ncı maddede öngörülen itiraza ilişkin hüküm saklı kalmak üzere, para cezaları ile …” ibaresi iptal edilmiştir.
-(2) Bu fıkrada yer alan “ödemesi için tebligat yapılır ve”ibaresi,16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle “ödemesi için posta yoluyla tebligat yapılır, bu şekilde tebliğ edilemeyen tutanaklar ilgili tahsil dairesinin ilân asmaya mahsus yerinde liste halinde ilân edilir, ilân tarihini takip eden otuzuncu gün tebligat yapılmış sayılır ve” olarak değiştirilmiş ve metne işlenmiştir.
+(2) Bu fıkrada yer alan “ödemesi için tebligat yapılır ve”ibaresi,16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle “ödemesi için posta yoluyla tebligat yapılır, bu şekilde tebliğ edilemeyen tutanaklar ilgili tahsil dairesinin ilân asmaya mahsus yerinde liste halinde ilân edilir, ilân tarihini takip eden otuzuncu gün tebligat yapılmış sayılır ve”olarak değiştirilmiş ve metne işlenmiştir.
 (3) Bu madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 37 nci maddesi ile değiştirilmiş ve metne işlenmiştir.
 6092
 Ceza puanlarının tespit ve uygulanmasına ait usul ve esaslar yönetmelikte gösterilir.
@@ -1018,7 +1021,7 @@ Geçici olarak sürücü belgesinin geri alınması hürriyeti bağlayıcı ceza
 Zamanaşımı:
 Madde 120 – Hafif para cezaları dışındaki para cezalarında zamanaşımı süresi beş yıldır.
 Yönetmelikte yer alacak diğer esaslar:
-Madde 121 – Para cezalarının tahsilinde ve takibinde uygulanacak esas ve usuller ile kullanılacak makbuzun, suç ve ceza tutanağının şekli ve kullanma esasları ile Bayındırlık Bakanlığı mensuplarından hangi niteliklere sahip kişilerin, hangi şartlarda, suç ve ceza tutanağı düzenleyeceği, genel zabıtaya mensup kişilerin bu Kanuna göre düzenleyecekleri tutanaklar hakkında yapılacak işlemler, yetki sınırları, koordinasyon ve işbirliği esasları İçişleri,Maliye ve Bayındırlık bakanlıklarınca müştereken çıkarılacak yönetmelikte gösterilir.
+Madde 121 – Para cezalarının tahsilinde ve takibinde uygulanacak esas ve usuller ile kullanılacak makbuzun, suç ve ceza tutanağının şekli ve kullanma esasları ile Bayındırlık Bakanlığı mensuplarından hangi niteliklere sahip kişilerin,hangi şartlarda, suç ve ceza tutanağı düzenleyeceği, genel zabıtaya mensup kişilerin bu Kanuna göre düzenleyecekleri tutanaklar hakkında yapılacak işlemler, yetki sınırları, koordinasyon ve işbirliği esasları İçişleri,Maliye ve Bayındırlık bakanlıklarınca müştereken çıkarılacak yönetmelikte gösterilir.
 Makbuz ve tutanaklar Maliye Bakanlığınca bastırılır ve trafik kuruluşlarına dağıtım sağlanır. (Ek cümle: 25/6/2010-6001/34 md.) Söz konusu tutanaklar elektronik ortamda da üretilebilir ve düzenlenebilir. Buna dair usul ve esaslar İçişleri ve Maliye bakanlıklarınca müştereken belirlenir.
 ONUNCU KISIM
 Eğitim, Okullar ve Çocuk Eğitimi Parkları
@@ -1040,7 +1043,7 @@ Madde 124 – Okul öncesi çocuklara ve ilköğretim öğrencilerine trafik bil
 Okul, radyo ve televizyonlarda trafik eğitimi: (1)
 Madde 125 – (Değişik birinci fıkra: 17/10/1996 - 4199/41 md.) Milli Eğitim Bakanlığınca, ilköğretim ve ortaöğretim okullarında ders programlarına eğitim amacı ile zorunlu uygulamalı trafik ve ilk yardım dersleri konulur. Bu dersler için valilik ve kaymakamlıkça yükseköğrenim görmüş emniyet görevlileri görevlendirilebilir.
 (Ek: 17/10/1996 - 4199/41 md.) Üniversite ve yüksekokullar ile lise ve dengi okullarda, zorunlu trafik, ilk yardım ve motor derslerinden başarılı olanlar, sürücü kurslarında, bu derslerden Milli Eğitim Bakanlığnca çıkarılacak yönetmelikteki esaslara göre sınava girmek kaydıyla muaf tutulabilirler.
-(Ek: 17/10/1996 - 4199/41 md.) Türkiye Cumhuriyeti sınırları içinde yayın yapan ulusal, bölgesel, yerel radyo ve televizyonlar, 3984 sayılı Radyo ve Televizyonların Kuruluş ve Yayınları Hakkında Kanunun 4 üncü maddesinin birinci fıkrasının (p) bendi gereğince yapacakları haftalık eğitim programlarının en az 30 dakikasını trafik eğitimi ile ilgili programlara ayırmak zorundadırlar. (Ek Cümle: 21/5/1997-4262/4 md.) Bu fıkra hükümlerine uymayan ulusal, bölgesel, yerel radyo ve televizyonlar hakkında 13.4.1994 tarih ve 3984 sayılı Radyo ve Televizyonların Kuruluş ve Yayınları Hakkında Kanun hükümleri uygulanır.
+(Ek: 17/10/1996 - 4199/41 md.) Türkiye Cumhuriyeti sınırları içinde yayın yapan ulusal, bölgesel, yerel radyo ve televizyonlar, 3984 sayılı Radyo ve Televizyonların Kuruluş ve Yayınları Hakkında Kanunun 4 üncü maddesinin birinci fıkrasının (p) bendi gereğince yapacakları haftalık eğitim programlarının en az 30 dakikasını trafik eğitimi ile ilgili programlara ayırmak zorundadırlar. (Ek cümle: 21/5/1997-4262/4 md.) Bu fıkra hükümlerine uymayan ulusal, bölgesel, yerel radyo ve televizyonlar hakkında 13.4.1994 tarih ve 3984 sayılı Radyo ve Televizyonların Kuruluş ve Yayınları Hakkında Kanun hükümleri uygulanır.
 Silahlı Kuvvetler bünyesindeki birlik ve er eğitimi merkezlerine eğitim amacı ile yeteri kadar trafik dersi konulması Genelkurmay Başkanlığınca düzenlenir.
 ——————————
 (1) Bu madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 41 inci maddesi ile değiştirilmiş ve metne işlenmiştir.
@@ -1061,7 +1064,7 @@ Madde 130 – Bu Kanunun uygulanmasında trafik hizmetleri açısından İçişl
 Kağıtların ve plakaların basım ve dağıtımı ile ilgili gelirden pay ayrılması:
 Madde 131 – (Değişik: 19/4/1989 - 3538/2 md.)
 Trafik şube veya bürolarında ve Milli Eğitim Bakanlığınca açılma izni verilmiş motorlu taşıt sürücüleri kurslarında iş sahipleri ve kursiyerlerce verilmesi ve kullanılması lüzumlu basılı kağıtlarla plakaların cins ve nevileri İçişleri Bakanlığı ile Bayındırlık ve İskan Bakanlığınca tespit edilir.
-Basılı kağıtlar ile plakalar Türkiye Şöförler ve Otomobilciler Federasyonunca bastırılır ve maliyetleri nazari itibara alınmak suretiyle İçişleri Bakanlığı ile Bayındırlık ve İskan Bakanlığı ve Türkiye Şoförler ve Otomobilciler Federasyonunca birlikte tespit edilecek bedel mukabilinde il merkezlerinde veya kuruluşu bulunan ilçelerde, adı geçen Federasyonca İçişleri Bakanlığının tespit edeceği esaslara göre verilir.
+Basılı kağıtlar ile plakalar Türkiye Şöförler ve Otomobilciler Federasyonunca bastırılır ve maliyetleri nazari itibara alınmak suretiyle İçişleri Bakanlığı ile Bayındırlık ve İskan Bakanlığı ve Türkiye Şoförler ve Otomobilciler Federasyonunca birlikte tespit edilecek bedel mukabilinde il merkezlerinde veya kuruluşu bulunan ilçelerde,adı geçen Federasyonca İçişleri Bakanlığının tespit edeceği esaslara göre verilir.
 (Değişik: 21/2/2001 - 4629/6 md.) Basılı kağıtlar ve plakaların tespit edilen bedel üzerinden satışının federasyona sağladığı net gelirin %60’ı, her yıl Şubat ayı sonuna kadar İçişleri Bakanlığı Merkez Saymanlığı hesabına yatırılır. Yatırılan bu miktarlar, Emniyet Genel Müdürlüğü hizmetlerinde kullanılmak üzere, Maliye Bakanlığınca bir yandan bütçeye özel gelir, diğer yandan Emniyet Genel Müdürlüğü bütçesinde mevcut tertiplere ödenek ya da açılacak özel tertiplere özel ödenek kaydedilir. Gelirin kalanı Türkiye Şoförler ve Otomobilciler Federasyonuna aittir. Özel ödenek kaydedilen tutarlardan harcanmayan miktarlar ertesi yıl bütçesine devren gelir ve ödenek kaydedilir. Ad ve/veya soyad veya tescil edilmiş ticari unvan ihtiva eden plaka satışlarından elde edilen gelirler ile emniyet hizmetleri karşılığında tahsil edilmeleri Maliye Bakanlığınca uygun görülen diğer hizmet gelirleri hakkında da bu fıkra hükümleri uygulanır.
 Basılı kağıtlardan, 210 sayılı Değerli Kağıtlar Kanunu kapsamına giren sürücü belgeleri Maliye ve Gümrük Bakanlığının görüşü alınarak Emniyet Genel Müdürlüğünce bastırılır. Sürücü belgelerinin değerli kağıt bedeli Emniyet Genel Müdürlüğünce Maliye ve Gümrük Bakanlığına ödenir.
 Sürücü belgelerinin bedeli dışında kalan hizmet ve malzemenin karşılığı olan ücretler İçişleri Bakanlığı ile Bayındırlık ve İskan Bakanlığı ve Türkiye Şoförler ve Otomobilciler Federasyonunca birlikte tespit edilir. Sürücü belgelerinin verilmesi ve yenilenmesi hizmetlerinden elde edilen gelirin tamamı Türk Polis Teşkilatı Güçlendirme Vakfına aittir. Buna dair usul ve esas ile diğer hususlar İçişleri Bakanlığınca belirlenir.
@@ -1140,7 +1143,7 @@ ONİKİNCİ KISIM
 Geçici Hükümler
 Geçici Madde 1 – 6085 Sayılı Karayolları Trafik Kanununa ve bu Kanuna göre verilen araçlara ait belgelerle şoför ehliyetnameleri ve sürücü belgelerinin değiştirilip yenilenmesi bilgi işlem merkezi hizmete konulduktan sonra yönetmelikte belirtilen usul, esas ve şartlara göre yapılır. Bu işlemlere İçişleri Bakanlığının tespit ve ilan edeceği tarihte başlanır ve iki yıl içinde tamamlanır.
 Bu değiştirme ve yenilemeler harca tabi değildir.
-İki yıllık süre sonunda değiştirilmeyen, araçlara ait belgelerle şoför ehliyetnameleri ve sürücü belgeleri, değiştirilinceye kadar geçersiz sayılır.
+İki yıllık süre sonunda değiştirilmeyen, araçlara ait belgelerle şoför ehliyetnameleri ve sürücü belgeleri,değiştirilinceye kadar geçersiz sayılır.
 Geçersiz belgelerle araç kullanılması veya aracın trafiğe çıkarılması halinde şoför ve sürücüler araç kullanmaktan ve bu araçlar trafikten men edilir.
 –––––––––
 (1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 215 inci maddesiyle bu maddenin mezkur Kanunun yayımını izleyen üçüncü ayın başında yürürlüğe girmesi hüküm altına alınmıştır.
@@ -1149,14 +1152,14 @@ Geçici Madde 2 – 6085 sayılı Karayolları Trafik Kanununa göre verilmiş o
 a) Amatör ve profesyonel şoför ehliyetnamesi sahipleri bu Kanunun 38 inci maddesinde belirtilen (B) sınıfı sürücü belgesi ile kullanılan araçları,
 b) Ağır vasıta ehliyetname sahipleri ise bu Kanuna göre (C) ve (D) sınıfı sürücü belgesi ile kullanılan araçları ve en az iki yıllık ağır vasıta ehliyetnamesi sahibi olmak şartıyla da (E) sınıfı sürücü belgesi ile kullanılan araçları,
 Kullanabilirler.
-Geçici Madde 3 – Bu Kanunun yürürlüğe girdiği tarihten önce edinilmiş ve çeşitli nedenlerle tescili yapılmamış tarımda kullanılan lastik tekerlekli traktörlerin tescili, bu Kanunun yürürlüğe girdiği tarihten başlayarak bir yıl içinde, tescil için başvuranların aracın sahibi olduklarını kanıtlayan bir belge vermeleri şartı ile yapılır.
-Bu Kanunun yürürlüğe girdiği tarihten önce satışı yapılmış olan araçların trafikte ve vergi kaydında maliki olarak görünen eski sahipleri, bu Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde, noterlikçe düzenlenen satış belgesi ile trafik bürosuna başvurduklarında, yeni malikin de beraber başvurusu veya muvafakatı aranmaksızın trafik kaydı ve trafiğin duyurusu ile de vergi kaydı yeni maliki adına devir edilir, Satışlar zincirleme devam etmiş ise bu işlemler de ayrıca zincirleme devam edebilir.
+Geçici Madde 3 – Bu Kanunun yürürlüğe girdiği tarihten önce edinilmiş ve çeşitli nedenlerle tescili yapılmamış tarımda kullanılan lastik tekerlekli traktörlerin tescili, bu Kanunun yürürlüğe girdiği tarihten başlayarak bir yıl içinde,tescil için başvuranların aracın sahibi olduklarını kanıtlayan bir belge vermeleri şartı ile yapılır.
+Bu Kanunun yürürlüğe girdiği tarihten önce satışı yapılmış olan araçların trafikte ve vergi kaydında maliki olarak görünen eski sahipleri,bu Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde, noterlikçe düzenlenen satış belgesi ile trafik bürosuna başvurduklarında, yeni malikin de beraber başvurusu veya muvafakatı aranmaksızın trafik kaydı ve trafiğin duyurusu ile de vergi kaydı yeni maliki adına devir edilir, Satışlar zincirleme devam etmiş ise bu işlemler de ayrıca zincirleme devam edebilir.
 Bu şekilde yapılan tescillerde taşıt alım vergisinin alıcı tarafından ödenmemiş olması halinde işlemi yapan tescil memurları 1318 sayılı Finansman Kanununun 10 uncu maddesine göre sorumlu tutulmazlar.
 Geçici Madde 4 – 6085 sayılı Karayolları Trafik Kanunu gereğince işleme konan para cezalarının takip ve sonuçlandırılmasına bu Kanunun yürürlüğe girdiği tarihten sonra da anılan kanun hükümlerine göre devam olunur.
 Geçici Madde 5 – Bu Kanunun 42 nci maddesinin birinci fıkrası uyarınca sınavların trafik zabıtasınca yapılmasına Kanunun yayımı tarihinden itibaren en geç bir ay içinde başlanır. Sınavların trafik zabıtasınca yapılmasına başlanıncaya kadar, 6085 sayılı Kanun uyarınca görev yapmakta olan sınav komisyonlarının görev ve yetkileri devam eder.
 (Ek fıkralar: 18/1/1985 - KHK 245/15 md.; aynen kabul: 28/3/1985 - 3176/15 md.) :
 Sürücü belgesi alacakların sınavlarının 42 nci maddeye göre sürücü kurslarında yapılmasına ve sürücü adaylarından 41 inci maddenin "ç" fıkrası gereğince herhangi bir sürücü kursunu başarı ile bitirdiklerini belgeleyen sertifika istenmesine 1/1/1987 tarihinde başlanır.
-42 nci maddenin "a" bendi hükümlerine göre sürücülerin sınavlarının sürücu kurslarında yapılmasına ve sürücü adaylarından sertifika istenmesine başlanacağı tarihe kadar, 6085 sayılı Kanuna göre şöför ehliyatnamesi ve bu Kanuna göre de, sürücü belgesi alacak olanların sınavları aşağıdaki esaslara göre trafik zabıtası personeli tarafından;
+42 nci maddenin "a" bendi hükümlerine göre sürücülerin sınavlarının sürücu kurslarında yapılmasına ve sürücü adaylarından sertifika istenmesine başlanacağı tarihe kadar, 6085 sayılı Kanuna göre şöför ehliyatnamesi ve bu Kanuna göre de,sürücü belgesi alacak olanların sınavları aşağıdaki esaslara göre trafik zabıtası personeli tarafından;
 1. Bu Kanunun ilgili maddelerinin yürürlük tarihine kadar 6085 sayılı Kanuna göre çıkarılmış bulunan yönetmelikteki esas ve usullere göre,
 2. Bu Kanunun ilgili maddelerinin yürürlük tarihinden itibaren ise sürücü sınavları 42 nci maddenin (c) fıkrası hükümleri gereğince çıkarılan yönetmelikte belirtilen esas ve usullere göre,
 Yapılır.
@@ -1172,7 +1175,7 @@ Bu Kanunun yürürlüğe girdiği tarihten önce edinilmiş ve çeşitli sebeple
 Geçici Madde 10 – (Ek: 17/10/1996 - 4199/46 md.)
 Bu Kanunun yürürlüğe girdiği tarihten önce satışı yapılmış olan araçların trafikte ve vergi kaydında malik olarak görülen eski sahiplerinin, bu Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde noterlikçe düzenlenen satış belgesi ile trafik şube veya bürolarına müracatları halinde, önceki malik adına olan kayıt ve tescil işlemi silinerek son malik adına kayıt ve tescil işlemi yapılır. Ayrıca bu işlem, ilgili vergi dairesine bildirilir.
 Geçici Madde 11 – (Ek: 17/10/1996 - 4199/46 md.)
-2918 sayılı Kanunun bu Kanunla değiştirilen hükümlerinde öngörülen yönetmelikler kanunla görev verilen bakanlık veya kuruluşlarca diğer yönetmelikler ilgili bakanlıkların görüşü alınarak İçişleri Bakanlığınca bu Kanunun yayımı tarihinden itibaren 6 ay içerisinde çıkarılır.
+2918 sayılı Kanunun bu Kanunla değiştirilen hükümlerinde öngörülen yönetmelikler kanunla görev verilen bakanlık veya kuruluşlarca diğer yönetmelikler ilgili bakanlıkların gö-rüşü alınarak İçişleri Bakanlığınca bu Kanunun yayımı tarihinden itibaren 6 ay içerisinde çıkarılır.
 Bu Kanunun 108 inci maddesinde sözü edilen yönetmelik bu Kanunun yayımlandığı tarihten itibaren 6 ay içinde yürürlüğe konulur. Bu yönetmelik yürürlüğe girinceye kadar, garanti fonu uygulamasına ilişkin yürürlükte bulunan yönetmelik hükümlerinin uygulanmasına devam olunur.
 Geçici Madde 12 – (Ek: 17/10/1996 - 4199/46 md.)
 Emniyet Genel Müdürlüğünün teşkilat ve kuruluşu, bu Kanun esaslarına göre yeniden düzenleninceye ve bu düzenleme gereğince genel hükümlere göre yeni kadro tespit ve ihdas edilinceye kadar bu Kanunun yürürlüğe girdiği tarihte uygulanmakta olan mevcut kadroların kullanılmasına devam olunur.
@@ -1210,4 +1213,5 @@ c) (Değişik : 16/10/1984 - 3058/2 md.) Diğer maddeleri de bu Kanunun yayımı
 Yürürlüğe girer.
 Yürütme :
 Madde 138 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+6096-8
 6097/6098-1
