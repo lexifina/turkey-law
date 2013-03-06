@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-03-06",
+  "issue": "28579",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Kayıtlı Elektronik Posta Rehberi ve Kayıtlı Elektronik Posta Hesabı Adreslerine İlişkin Tebliğde Değişiklik Yapılmasına İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130306-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130306.htm",
+  "index_sha256": "fc7e7b8a7572f5c85edbae22a0aca3eb544e3e5d8f5f7130cc848c8481f8797e",
+  "index_header": "6 Mart 2013 ... 28579 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130306.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
