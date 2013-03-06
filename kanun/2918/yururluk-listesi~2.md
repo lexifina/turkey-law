@@ -2,6 +2,7 @@
 YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
 Kanun Yürürlüğe
 No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi
+________ __________________________________________________ ___________
 3058 — 18/10/1984 ten geçerli olmak üzere 19/10/1984
 KHK/245 Cezalara ilişkin hükümler Kararnamenin kanunlaştığı tarihte: (28/3/1985)
 Diğer hükümler 18/6/1985
@@ -37,20 +38,4 @@ olmak üzere, 21/7/2005 tarihinde
 işlenemeyen hüküm
 5537 Madde 41 ve Geçici Madde 20 5/7/2006
 5684 107,108 ve Ek Madde 8 14/6/2007
-6100-1
-Değiştiren Kanun Yürürlüğe
-No. 2918 sayılı Kanunun değişen maddeleri giriş tarihi
-5766 Ek Madde 15 6/6/2008
-5795 42 1/8/2008
-5904 116 3/7/2009
-5942 (20/d ‘nin dördüncü paragrafı) 31/12/2009
-İşlenemeyen Hüküm Geçici Madde 1 1/1/2010
-20 nci maddenin başlığı, d ve e bentleri 1/5/2010
-6001 5, 7, 8, 13, 15, 16, 50, 65, 121 13/7/2010
-6014 65 31/7/2010
-6099 110, Geçici Madde 21 19/1/2011
-6111 8, 20, 21, 22, 91, 98 25/2/2011
-Ek Madde 16 25/2/2011 tarihini izleyen üçüncü
-ayın başında
-6321 79 , Ek Madde 2 3/6/2012
-6353 41 12/7/2012
+6100-1/6106-5

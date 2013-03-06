@@ -28,4 +28,4 @@ Bu Kanunla ve trafik hizmetleri konusunda diğer kanunlarla verilen görevler;
 a) İçişleri Bakanlığınca,
 b) Bu Kanunla yetkili kılınan diğer bakanlık, kuruluş ve belediyelerce, İçişleri Bakanlığı ile işbirliği içinde,
 Yürütülür.
-Emniyet Genel Müdürlüğünün, merkez, bölge, il ve ilçe trafik kuruluşları, görev ve yetkileri:
+Emniyet Genel Müdürlüğünün,merkez, bölge,il ve ilçe trafik kuruluşları, görev ve yetkileri:
