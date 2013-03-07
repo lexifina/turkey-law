@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "11",
+  "decision_date": "2013-03-07",
+  "source_id": 18936,
+  "chamber": "5",
+  "ilam_number": "20",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18936/",
+  "source_sha256": "5c6e73f15d5b8568a37de3886dc5792ffed385f7541efa30757c16a87a873e86",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
