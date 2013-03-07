@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "125",
+  "decision_date": "2013-03-07",
+  "source_id": 11497,
+  "chamber": "3",
+  "ilam_number": "68",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11497/",
+  "source_sha256": "d4e44d6c2d4a1d944dceff3c5ce9eb0b3069ce766a48428a60fc896d87396e21",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
