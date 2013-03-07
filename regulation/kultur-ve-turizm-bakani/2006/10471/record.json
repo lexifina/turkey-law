@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.10471",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜLTÜR VE TURİZM BAKANLIĞI DEVLET KOROLARI VE TOPLULUKLARI YÖNETMELİĞİ",
+  "number": "10471",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2006/10471",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10471&MevzuatTertip=5",
+  "source_sha256": "61c0d66094fa70d5ac2bcd22eb9e2d8efc6eb4b4e768a5391bae9f500d29ed1c",
+  "source_bytes": 81860,
+  "published": "2006-07-06",
+  "gazette": "26220",
+  "in_force": "2013-03-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/3/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-03-07",
+      "RG-7/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-07",
+      "7/3/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-04-01",
+      "RG-1/4/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-04-01",
+      "1/4/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3760,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

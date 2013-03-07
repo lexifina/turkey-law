@@ -1,0 +1,2 @@
+Yetişmiş sanatçı
+MADDE 29 – (1) Alanında ulusal ya da uluslararası üne sahip, temininde güçlük çekilen, yeterli meslekî deneyim, üst seviyede bilgi birikimi ve tecrübeye sahip sanatçılar, genel duyurulu sınav yapılmaksızın, Korolorarası Kurulun değerlendirmesi neticesinde yapacağı gerekçeli teklifi, Genel Müdürün uygun görüşü ve Bakan onayı ile atanırlar. Bunların sayısı ilgili Koro sanatçı sayısının yüzde beşini geçemez.

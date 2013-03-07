@@ -1,0 +1,2 @@
+Uzman Çalgı Bilimci
+MADDE 16 – (1) Uzman Çalgı Bilimci, Koroda çalgı bilimi konularında çalışmalar yapmak, Koroda kullanılan çalgılarla ilgili bilimsel araştırma ve incelemeler yapmak, çalgılarla ilgili gerekli bilgileri çalgı grubu sanatçılarına aktarmak ve bu konulardaki araştırmaları sürdürmek amacıyla alanında uzmanlaşmış kişiler arasından Sanat Kurulu ve Korolararası Kurulun kararı, Genel Müdürün teklifi ve Bakan onayı ile atanır.

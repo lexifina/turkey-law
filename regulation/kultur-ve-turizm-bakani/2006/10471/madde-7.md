@@ -1,0 +1,8 @@
+Şef’in görevleri ve sorumlulukları
+MADDE 7 – (Değişik:RG-1/4/2011-27892)
+(1) Şef, Koronun sanatsal ve teknik işlerinden Genel Müdüre karşı sorumludur.
+(2) Şef, Koronun sanatsal düzeyini yükseltmek için gerekli her türlü çalışmayı, ek prova, grup çalışması yapmak, çalışma, prova, konser ve gösterilerin tam bir disiplin içinde ve verimli bir şekilde gerçekleşmesini sağlamakla görevlidir.
+(3) Şef, Sanat Kurulunun başkanıdır. Olağan toplantılar dışında lüzumu halinde her zaman Sanat Kurulunu toplantıya çağırabilir.
+(4) Şef, müzik eğitimi veren yüksekokul mezunlarından, aynı statüdeki benzer resmî kuruluşlarda en az beş yıl sanatçı olarak görev yapmış olanlarla, en az üç yıl Şef ya da Şef Yardımcısı olarak görev yapmış adaylar arasından; veya dört yıllık eğitim veren yüksekokul mezunu olup da en az on yıl korolarda sanatçı olarak görev yapmış adaylar arasından Korolararası Kurulun kararı üzerine, Genel Müdürün teklifi ve Bakan onayı ile üç yıl için atanır. Şef olarak atananlardan başarılı olanlar, Koronun sanatsal seviyesini yükselten repertuar, konser, turne ve kayıt çalışmaları yapanlar, Korolararası Kurulun kararı, Genel Müdürün teklifi ve Bakan onayı ile görev süresi bitiminde ya da sonra aynı süre için yeniden atanabilirler. Görev süresi sona erenlerden yeniden atanamayanlar, Bakanlığın teklifi üzerine Maliye Bakanlığınca vize işlemleri tamamlanarak sanatçı kadrosuna atanır.
+(5) Devlet Çoksesli Korosunda, yurt içindeki ya da yurt dışındaki konservatuarların şeflik bölümünü bitirmiş ve en az üç yıl korolarda çalışmış adaylar arasından Şef atanır.
+(6) İhtiyaç duyulması hâlinde, korolara, etkinlik için Sanat Kurulunun görüşü ve Genel Müdürün onayı ile yerli ya da yabancı uyruklu şef görevlendirilebilir.

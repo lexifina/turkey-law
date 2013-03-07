@@ -1,0 +1,3 @@
+Halen görevde bulunan şef ve şef yardımcıları
+GEÇİCİ MADDE 1 – (Ek:RG-1/4/2011-27892)
+(1) Bu maddenin yürürlüğe girdiği tarihte üç yıllık Şef ya da Şef Yardımcılığı görevini tamamlamayanlar, görev süreleri dolana kadar görevlerine devam ederler. Şef ya da Şef Yardımcısı görevine atandığı tarihten itibaren üç yıllık süre geçenlerin ise görevleri bu maddenin yürürlük tarihinden itibaren üç ay sonra sona erer. Ancak, Şefler, Yönetmeliğin 7 nci maddesinin dördüncü fıkrasına, şef yardımcıları ise 8 inci maddenin ikinci fıkrasına göre talep etmeleri halinde tekrar aynı kadroya atanabilmek üzere değerlendirmeye alınırlar.
