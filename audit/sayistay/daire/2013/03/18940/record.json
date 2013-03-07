@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "11",
+  "decision_date": "2013-03-07",
+  "source_id": 18940,
+  "chamber": "5",
+  "ilam_number": "20",
+  "item_number": 9,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18940/",
+  "source_sha256": "00ff177d00e96eb645c8600e5f260afe7be4c977614e359d74b93b8dbc035fc1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
