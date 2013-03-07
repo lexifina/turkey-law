@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35097",
+  "decision_date": "2013-03-07",
+  "source_id": 20884,
+  "chamber": "2",
+  "ilam_number": "50",
+  "item_number": 23,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20884/",
+  "source_sha256": "aa0ed1e2ccff564242079cdf89d53baf8d66251cb0ef06ebd06c91143feec284",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
