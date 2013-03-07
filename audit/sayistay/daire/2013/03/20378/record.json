@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "18",
+  "decision_date": "2013-03-07",
+  "source_id": 20378,
+  "chamber": "6",
+  "ilam_number": "131",
+  "item_number": 45,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2010,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20378/",
+  "source_sha256": "eb02cf7fb3d9fd870f4493e31d8bd4abeaa0e3c703b93ca32a13992a0c83f08a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
