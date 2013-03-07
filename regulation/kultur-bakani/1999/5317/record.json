@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.5317",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜLTÜR VE TURİZM BAKANLIĞI SENFONİ ORKESTRALARI SOLİST SANATÇILARININ ÇALIŞMA USULLERİ HAKKINDA YÖNETMELİK",
+  "number": "5317",
+  "issuer": "Kültür Bakanı",
+  "issuer_slug": "kultur-bakani",
+  "path": "regulation/kultur-bakani/1999/5317",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5317&MevzuatTertip=5",
+  "source_sha256": "c482f265defabfadf0ae6352988bed46f38bdaee4c8610bdbfb99eebff3e6641",
+  "source_bytes": 26491,
+  "published": "1999-01-08",
+  "gazette": "23577",
+  "in_force": "2013-03-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/3/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-03-07",
+      "RG-7/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-02-18",
+      "RG-18/2/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-02-18",
+      "R.G-18/2/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 996,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

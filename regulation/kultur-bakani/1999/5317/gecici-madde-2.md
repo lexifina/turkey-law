@@ -1,0 +1,3 @@
+Geçici Madde 2 – (Ek:RG-18/2/2010-27497)
+18/2/2010 tarihinden itibaren üç ay içinde solist sanatçılar, icra ettikleri enstrümanlar göz önüne alınarak orantılı bir dağılım yapılmak üzere başka bir senfoni orkestrasına Genel Müdürün teklifi ve Bakan onayı ile atanabilir.
+Solist sanatçının pozisyonu, bu Yönetmelikte sayılan görevleri yerine getiremeyeceğini 18/2/2010 tarihinden itibaren bir ay içinde bağlı bulunduğu orkestra yönetimine bildirmesi halinde Genel Müdürlüğün teklifi ve Bakan onayı ile sanatçı pozisyonuna çevrilir ve norm kadrosu uygun olan bir senfoni orkestrasına atanır. Solist sanatçının boşalan kadrosu iptal edilir.
