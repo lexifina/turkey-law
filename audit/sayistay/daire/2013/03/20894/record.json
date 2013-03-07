@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35097",
+  "decision_date": "2013-03-07",
+  "source_id": 20894,
+  "chamber": "2",
+  "ilam_number": "50",
+  "item_number": 32,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20894/",
+  "source_sha256": "4139872d4ae11f9fe189b469c02ba2e0c0d956de25efe3c111c342d8f85da859",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
