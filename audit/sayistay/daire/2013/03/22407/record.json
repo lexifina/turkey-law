@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "3",
+  "decision_date": "2013-03-07",
+  "source_id": 22407,
+  "chamber": "7",
+  "ilam_number": "71",
+  "item_number": 18,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22407/",
+  "source_sha256": "0a67b14a80982e383a51cb0a46b50ca9ab39e8d50dd805324fa03e6befaf24ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

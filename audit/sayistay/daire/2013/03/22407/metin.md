@@ -1,0 +1,11 @@
+"İhalesiz" Protokol ile İş Yaptırma
+
+İhale ile yaptırılması gereken eğitim ve organizasyon hizmetlerinin, protokol düzenlemek suretiyle ......Genel Müdürlüğü’ne yaptırılması ve söz konusu protokol kapsamında .....’da düzenlenen ‘.......Yönetimi’ konulu eğitim organizasyonları karşılığı olarak hizmet bedelinden fazla tutarda ödeme yapılması sonucu .......TL kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+.......Başkanlığı ile .......Genel Müdürlüğü arasında .......yönetimine ilişkin eğitim verilmesi amacıyla 10.11.2011 tarihili protokol düzenlendiği; söz konusu protokol maddeleri arasında, Genel Müdürlüğün veya bağlı bölge müdürlüklerinin yaptığı harcamalar üzerine kar ilave ederek fatura edeceğine ilişkin herhangi bir hüküm olmadığı halde, eğitim organizasyonları karşılığı olarak hizmet bedelinin üzerine % 10 kâr ilave edilmesi suretiyle .......TL, herhangi bir hizmet karşılığı olmaksızın da ......TL olmak üzere toplam ......TL tutarında hizmet bedelinden fazla ödeme yapıldığı görülmektedir. Ancak, sorumluların yaptığı savunmaların ve duruşmada sunulan belgelerin birlikte değerlendirilmesi neticesinde; ...... Eylem Planı (2008-2012) çerçevesinde kısa sürede çok büyük alanların ........açılmasının hedeflendiği ve söz konusu protokolün de bu kapsamda......Birliği ile koordinasyon sağlanarak bölgedeki ...... etkin ve verimli .......faaliyet yapmaları için eğitim verilmesi amacını taşıdığı; ......TL’nin de ortak proje bütçesine iade edildiği anlaşılmaktadır.
+
+Bu itibarla, ihale ile yaptırılması gereken eğitim ve organizasyon hizmetlerinin, protokol düzenlemek suretiyle ....... Genel Müdürlüğü’ne yaptırılması ve söz konusu protokol kapsamında .......’da düzenlenen ‘...... Yönetimi’ konulu eğitim organizasyonları karşılığı olarak hizmet bedelinden fazla tutarda ödeme yapılması hususuna ilişkin olarak;
+
+......Başkanlığı ile ......Genel Müdürlüğü arasında ...... yayım ve danışmanlık ile ...... yönetimi konusunda eğitim verilmesi amacıyla protokol düzenlenmesinin mevzuatına uygun olduğu anlaşıldığından ilişilecek husus bulunmadığına; ......TL tutarındaki kamu zararı ahiz ....... Genel Müdürlüğü tarafından 03.07.2012 tarihinde .......nolu ortak proje bütçesine iade edildiği anlaşıldığından ilişilecek husus kalmadığına;
+
+ Oy birliğiyle,
