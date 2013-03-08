@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-03-08",
+      "08.03.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28581",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-03-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bayburt Üniversitesi",
+  "issuer_slug": "bayburt-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bayburt-universitesi/2013/17188",
+  "published": "2013-03-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=17188&MevzuatTertip=5",
+  "source_bytes": 17401,
+  "source_id": "8.5.17188",
+  "source_sha256": "6d1bae22e380c941fbe9eecfabf76e6846eb786c93da7b8216f02e8f84373741",
+  "text_status": "as-enacted",
+  "title": "BAYBURT ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 347,
+  "word_count": 624
+}
