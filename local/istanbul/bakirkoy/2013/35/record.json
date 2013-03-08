@@ -1,0 +1,23 @@
+{
+  "number": "35",
+  "number_as_published": "35",
+  "year": 2013,
+  "title": "Şevketiye Mahallesi 30 pafta 1221 ada 212 parselin 16 pafta 11403 parselin ve kadastral yolun bir kısmına ilişkin 1/1000 ölçekli Uygulama İmar Planı değişikliği teklifine hk.",
+  "decision_date": "2013-03-08",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/70",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/35-senlik-1221-ada-212-parsel-ile-16-pafta-11403-parsel-08032013.pdf",
+  "source_sha256": "48d74d13c0b8ac6d328df3dc74c0ef7f3bf10072a77daf2bae7eeef0202ea3c2",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2013-03-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08 Mart 2013 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
