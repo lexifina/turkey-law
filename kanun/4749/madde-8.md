@@ -1,8 +1,10 @@
 BEŞİNCİ BÖLÜM
-Hazine Garantileri
+Hazine Garantileri ve Borç Üstlenimi (1)
 Hazine garantileri ve garantisiz borçlar için izin alınması
 Madde 8 - Hazine garantileri sağlanmasına ve sağlanan Hazine garantilerinin şartlarında değişiklik yapılmasına ilişkin her türlü hazırlık, temas ve müzakereler Müsteşarlık tarafından yürütülür ve sonuçlandırılır.
 Hazine garantilerine ilişkin anlaşmalar ve bunların şartlarında değişiklik yapılmasına ilişkin anlaşmalar aksine bir hüküm bulunmadığı sürece imzalandıkları tarih itibarıyla yürürlüğe girer.
+––––––––––––––––
+(1) Bu bölüm başlığı “Hazine Garantileri” iken, 21/2/2013 tarihli ve 6428 sayılı Kanunun 13 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 8286-1
 Hazine geri ödeme garantisi ve Hazine yatırım garantisi ile lehine garanti sağlanan taraftan verilecek her garanti için bir defaya mahsus olmak kaydıyla garanti edilen tutarın yüzde birine kadar garanti ücreti alınır. (Ek cümle: 16/7/2008-5787/5 md.) Bu oranı beş katına kadar artırmaya Bakan yetkilidir.
 (Mülga birinci cümle: 16/7/2008-5787/5 md.) Projeler için sağlanacak Hazine geri ödeme garantisi ile Hazine yatırım garantisinin verilmesine ilişkin olarak garanti ücretinin belirlenmesi, garantinin değerlendirilmesi, bütçeleştirilmesi, riskin sınırlandırılması ve paylaşımı ile garantiye ilişkin bilgilerin kamuoyuna açıklanması ve Hazine yatırım garantisi kapsamında garanti edilen tutarın tespit edilmesi de dahil olmak üzere bu hususlara ilişkin esas ve usuller Müsteşarlık tarafından hazırlanacak bir yönetmelikle belirlenir.
