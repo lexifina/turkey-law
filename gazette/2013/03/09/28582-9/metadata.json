@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-03-09",
+  "issue": "28582",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 7/3/2013 Tarihli ve 2013/28 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130309-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130309.htm",
+  "index_sha256": "06b012a1d2e8359c5b4432ab72d765ee3aafb667ea496c404f5517f513952f11",
+  "index_header": "9 Mart 2013 ... 28582 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130309.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
