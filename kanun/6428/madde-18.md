@@ -1,0 +1,1 @@
+MADDE 18 – 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) bendinin birinci paragrafında yer alan “Eğitim ve öğretim hizmetleri sınıfı” ibaresi “Eğitim ve Öğretim Hizmetleri Sınıfı ile Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı” şeklinde değiştirilmiştir.

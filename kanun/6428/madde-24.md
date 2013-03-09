@@ -1,0 +1,1 @@
+MADDE 24 – 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 33 üncü maddesinin birinci fıkrasında yer alan “personelin katkısıyla elde edilen” ibaresi, “bağış, faiz ve kira gelirleri hariç olmak üzere” şeklinde değiştirilmiştir.
