@@ -10,3 +10,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 3
 5762 | 1, 2, 3, 4, 6, 8 | 21/5/2008
 6111 | 4, 8, 12, Ek Madde 1, Geçici Madde 2 | 25/2/2011
 6288 | 8, 11/A, Geçici Madde 3 | 4/4/2012
+6428 | 11/A | 9/3/2013

@@ -304,12 +304,4 @@ KHK/666 36, 104, Geçici Madde 39’un birinci ve üçüncü fıkraları, 2/11/2
 olmak üzere 2/11/2011
 Ek Madde 41, 42, Geçici Madde 39’un diğer fıkraları
 152, (I), (II) ve (IV) Sayılı Cetvel 15/1/2012
-6253 36, Ek Madde 41, Geçici madde 39 18/12/2011
-6291 II Sayılı Cetvel 11/4/2012
-6318 36, 122 3/6/2012
-6328 36 29/6/2012
-6331 II Sayılı cetvel 30/6/2012
-6332 36, 152, I Sayılı cetvel 30/6/2012
-6353 59 12/7/2012
-6354 88 12/7/2012
-6338 156 1/1/2013
+4290-5

@@ -21,3 +21,4 @@ Anayasa Mah.’nin E.: 2008/84, K.: 2010/121 sayılı Kararı | GEÇİCİ MADDE 
 6274 | 3, GEÇİCİ MADDE 25 | 11/2/2012
 6327 | 4, Dördüncü Bölüm başlığı, 7/A, 14 | 29/6/2012
 6338 | 9 | 1/1/2013
+6428 | 8/A maddesinin borç üstlenim limitine ilişkin hükmü 4 üncü maddesinin son fıkrası, Beşinci Bölüm başlığı, 8/A maddesinin borç üstlenim limiti dışındaki hükümleri ve 17/C | 1/1/2014 tarihinde 1/12/2012 tarihinden geçerli olmak üzere 9/3/2013
