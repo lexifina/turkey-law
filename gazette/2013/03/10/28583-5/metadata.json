@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-03-10",
+  "issue": "28583",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gümrük Genel Tebliği (Posta ve Hızlı Kargo Taşımacılığı) (Seri No: 4)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130310-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130310.htm",
+  "index_sha256": "d59eeac1bda01a6f1f96759552f604f4292893f8a5d561fb3d6ba3eea50d96f5",
+  "index_header": "10 Mart 2013 ... 28583 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130310.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
