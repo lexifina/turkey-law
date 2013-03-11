@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[30-2012/313]-377",
+  "source_id": 27611,
+  "date": "2013-03-11",
+  "title": "Kazakistan mukimi firmadan alınan proje çizim hizmeti karşılığında vergi tevkifatı yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27611",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "f2e1a6605b79698549d38ef58e9c8f28a0e50a33e6cdc452471a81d82313e76a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
