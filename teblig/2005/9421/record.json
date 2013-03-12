@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.9421",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DETERJAN, MEKANİK TEMİZLEME TOZU, ÇAMAŞIR SULARINDAN NUMUNE ALINIRKEN UYULACAK KURALLAR İLE NUMUNE ALMA İŞLEMLERİNE İLİŞKİN HUSUSLARIN BELİRLENMESİNE DAİR TEBLİĞ",
+  "number": "9421",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2005/9421",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9421&MevzuatTertip=5",
+  "source_sha256": "e8d07c430bda784cf2c6534e2c3558e0340b182d042ce57312956d0749494c5e",
+  "source_bytes": 52812,
+  "published": "2005-09-12",
+  "gazette": "25934",
+  "in_force": "2013-03-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/3/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-03-12",
+      "RG-12/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 839,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
