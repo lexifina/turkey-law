@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-125[15-2012/9]-145",
+  "source_id": 24607,
+  "date": "2013-03-12",
+  "title": "6111 sayılı Kanundan yararlanılması sonucu meydana gelen zararların, kurum kazancından indirilmesi ile yedek açelerden ve geçmiş yıl kârından mahsup edilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24607",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "2c9efb2f8da852381cba1bd55fae04b668a89cf5edd71a4e4523da67ded2b39c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
