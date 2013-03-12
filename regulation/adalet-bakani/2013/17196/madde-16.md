@@ -1,0 +1,4 @@
+Müdür yardımcılığından müdürlüğe, müdürlükten müdür yardımcılığına atanma
+MADDE 16 – (1) Müdür yardımcılığı kadrosunda en az üç yıl hizmet süresi bulunanlar arasından; eğitim kariyeri, liyakati, temsil ve yönetim kabiliyeti ile performans durumlarına göre başarılı sayılanlar Bakanlıkça müdür kadrosuna atanabilir.
+(2) Müdür olarak atananlardan bu görevde kalmasında hakkındaki adli veya idari soruşturma nedeniyle ya da denetim raporlarına göre sakınca görülenler ile hizmet ve performans durumlarına göre başarısız bulunanlar müdür yardımcısı olarak atanabilir.
+(3) 10/7/2003 tarihli ve 25164 sayılı Resmî Gazete’de yayımlanan Adalet Bakanlığı Memur Sınav-Atama ve Nakil Yönetmeliğinin 33 üncü maddesi kapsamında alt bölgelerde görev yapan müdürler, talep halinde veya ihtiyaç durumuna göre üst bölgelere müdür yardımcısı olarak atanabilir.

@@ -1,0 +1,4 @@
+Müdür yardımcılığına atanma
+MADDE 15 – (1) 657 sayılı Kanunun 48 inci maddesinde belirtilen şartları taşıyanlardan giriş sınavında başarılı olup atanmaya hak kazanan ve güvenlik soruşturması olumlu sonuçlanan adaylar müdür yardımcısı olarak atanır.
+(2) Geçerli bir mazereti olmaksızın yasal süresi içerisinde görevine başlamayan veya atanma hakkından feragat eden adayların atama işlemi iptal edilir.
+(3) Atanmaya hak kazanan adaylardan bir kısmının çeşitli sebeplerle atanamaması, atamalarının iptal edilmesi veya memuriyetten çekilmesi gibi nedenlerle kadroların boşalması halinde, aynı sınav sonucu oluşan nihaî başarı listesindeki sıraya göre yedek adaylar arasından atama yapılabilir. Bu atama, bir sonraki sınavın ilân tarihine kadar ve her halde müdür yardımcısı alımına ilişkin sınav ilanının yapıldığı tarihten itibaren iki yılı aşamaz.

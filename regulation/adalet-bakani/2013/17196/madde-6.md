@@ -1,0 +1,2 @@
+Giriş sınavı duyurusu
+MADDE 6 – (1) Başvuru ve sınav yeri, tarihi, şekli, sınav konuları, KPSS puan türü, sınavda alınan başarı derecelerine göre çağrılacak aday sayısı, diğer hususlar ile istenecek belgeler başvuru tarihinin bitiminden en az otuz gün önce Resmî Gazete’de, Türkiye genelinde yayımlanan tirajı en yüksek ilk beş gazetenin en az birinde ve Bakanlığın resmî internet sayfasında ilân edilir.
