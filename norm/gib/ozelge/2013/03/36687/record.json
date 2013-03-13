@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-BSMV-396",
+  "source_id": 36687,
+  "date": "2013-03-13",
+  "title": "Borsanın iktisadi işletmesi ile birlikte sermaye şirketine dönüşmesi ve dönüşen yeni şirketin elde edeceği hangi tür gelirlerin BSMV'ye tabi olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/36687",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "daed536494a8135536ea11672c47c5ddd78061154670036a75e174dd0151787e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
