@@ -1,0 +1,3 @@
+Üniversiteye ait "…… Kültür Sarayı"na ait salon ve fuaye alanlarının firmalara kiraya verilmesinde kira bedellerinin eksik tahsil edilmesi.
+
+Üniversiteye ait "…… Kültür Sarayı"nın salon ve fuaye alanlarının firmalara kiraya verilmesinde kira bedellerinin eksik tahsil edilmesi sonucu 2011 yılında toplam …... TL kamu zararına sebebiyet verildiği görülmüşse de, bu tutarın … TL’lik kısmının …….…’dan tahsil edildiği anlaşıldığından toplam ..… TL hakkında ilişilecek husus kalmadığına, kalan …… TL için kiracı …..… aleyhine yasal işlemlere başvurulduğu görüldüğünden ve savunmada belirtilen gerekçelerle konu hakkında ilişik bulunmadığına oybirliğiyle,
