@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6431",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Oman Sultanlığı Hükümeti Arasında Arşiv Alanında İşbirliği Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-15",
+  "gazette_issue": "28588",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-3.htm",
+  "source_sha256": "79a435c4868dd1dc8cccd23f989a09b98d30eecacd604b20502e366ba4ebd5da",
+  "text_sha256": "c401ff26db6375d375ca8c457ef6ed1c5f22865f4619733b132a5dbcd9971337",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/15/28588-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
