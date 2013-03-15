@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6440",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ürdün Haşimi Krallığı Hükümeti Arasında Denizcilik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-15",
+  "gazette_issue": "28588",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-12.htm",
+  "source_sha256": "9f22e06e446e7b8d038d1fc666ada8dd596e382aefa697965fad9da9705eb0b7",
+  "text_sha256": "2ef3eea253bd4e9280c7b2fadbc65b501800cf09461b99757803398bbe505bce",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/15/28588-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
