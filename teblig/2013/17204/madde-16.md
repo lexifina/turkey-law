@@ -1,0 +1,2 @@
+Ekonomik göstergelerin değerlendirilmesi
+MADDE 16 – (1) Yerli üretim dalından temin edilen veriler ışığında yapılan incelemeler sonucunda, 2009 yılında krizin etkisiyle bozulan ekonomik göstergelerin 2010 yılında düzelmeye başlamış olduğu görülmektedir. 2011 yılında üretim rakamları, yurt içi ve yurt dışı satışlar, kapasite kullanım oranı ve istihdam gibi göstergelerde 2009 yılına kıyasla bir düzelme olmuştur. Bunun yanı sıra, önleme rağmen soruşturma konusu ülkenin pazar payını bir miktar arttırdığı gözlemlenmektedir.
