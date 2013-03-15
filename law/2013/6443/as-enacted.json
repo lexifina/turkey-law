@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6443",
+  "year": 2013,
+  "title": "Mera Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-15",
+  "gazette_issue": "28588",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-15.htm",
+  "source_sha256": "f92d4891d94983f19c60c32f9a1fdc0d764c12bc1597f2197916043f7d6ea1f0",
+  "text_sha256": "54dee89d3f2d1b4bdae11d72a5ca38250f4b302fd198da272a963c52a7b0f303",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/15/28588-15",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-15.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
