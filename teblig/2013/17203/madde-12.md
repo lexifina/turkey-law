@@ -1,0 +1,2 @@
+Oluşturulmuş değer
+MADDE 12 – (1) Oluşturulmuş normal değer, işbirliğine gelen üretici/ihracatçı firmadan temin edilen benzer ürünün tip bazındaki imalat maliyeti ile satış, genel ve idari giderlerine makul oranda bir kârın eklenmesi suretiyle hesaplanmıştır. Ürün tipi esasında maliyet verilerini sunmayan Froch firması için üretim maliyetlerinin ve normal değerin tespitinde izlenen yöntem firma özel bildiriminde ayrıca açıklanmıştır.
