@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6439",
+  "year": 2013,
+  "title": "2001 Gemi Yakıtlarından Kaynaklanan Petrol Kirliliği Zararının Hukuki Sorumluluğu Hak-kında Uluslararası Sözleşmeye Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-15",
+  "gazette_issue": "28588",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-11.htm",
+  "source_sha256": "27d9fe90b97178fb4872660d8ed2e5801d9719ca0e67a98488200f5ee0406cf3",
+  "text_sha256": "5e4c5a1f27318fa309b5a3e8b94ff2ff189867a5648a1e41703193b87fb33958",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/15/28588-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
