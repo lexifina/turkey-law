@@ -1,0 +1,6 @@
+BİRİNCİ KISIM
+Genel Bilgi ve İşlemler
+Mevcut önlem ve soruşturma
+MADDE 1 – (1) 31/3/2007 tarihli ve 26479 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (2007/4) ile Çin Halk Cumhuriyeti (ÇHC), Hindistan ve Vietnam Sosyalist Cumhuriyeti (Vietnam) menşeli transmisyon kolanları (v- kayış) ithalinde dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) Bahse konu eşyaya yönelik mevcut önlemlerin yürürlük süresinin bitiminden önce, 20/7/2011 tarihli ve 28000 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (2011/12) ile yerli üretim dalının önleme konu ürün ve ülkeler kapsamında mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir nihai gözden geçirme soruşturması (NGGS) açılması talebinde bulunabileceği ilan edilmiştir.
+(3) Yerli üretici Bando Kayış San. ve Tic. A.Ş. tarafından sağlanan bilgiler çerçevesinde ÇHC, Hindistan ve Vietnam menşeli transmisyon kolanları (v-kayış) için 20/3/2012 tarihli ve 28239 sayılı Resmî Gazete’de yayımlanan Tebliğ (2012/5) ile NGGS başlatılmıştır. Söz konusu soruşturma Ekonomi Bakanlığı’nın (Bakanlık) İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülerek tamamlanmıştır.

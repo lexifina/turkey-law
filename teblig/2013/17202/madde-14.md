@@ -1,0 +1,6 @@
+Fiyat baskısı
+MADDE 14 – (1) Önlem konusu ülkelerden gerçekleştirilen ithalatın YÜD’nin fiyatlarını baskılayıp baskılamadığı incelenmiştir. Bu çerçevede dampingli ithalat fiyatının YÜD’nin olması gereken satış fiyatının ne kadar altında olduğu belirlenmiştir. Fiyat baskısı, dampingli ithalat fiyatlarının Türkiye piyasasında YÜD’nin olması gereken satış fiyatının yüzde olarak ne kadar altında kaldığını göstermektedir.
+(2) Fiyat baskısı analizinde, soruşturma konusu ülkenin CIF ithal fiyatlarının üzerine gümrük vergisi ve ithalat masrafları ilave edilerek ilgili ülke menşeli ürünlerin Türkiye piyasasına giriş fiyatları bulunmuştur. Söz konusu fiyatlar, YÜD’nin üretim maliyetine mâkul oranda kâr marjı eklenmek suretiyle tespit edilen satış fiyatı ile karşılaştırılmış ve dampingli ithalatın fiyatının YÜD’nin olması gereken fiyatını önemli ölçüde baskı altına aldığı sonucuna ulaşılmıştır.
+(3) Fiyat baskısı ÇHC menşeli ürün için CIF ihraç fiyatının yüzdesi olarak 2009’da %19, 2010’da %1, 2011’de ise %50 olarak hesaplanmıştır.
+(4) Fiyat baskısı, Hindistan menşeli ürün için CIF ihraç fiyatının yüzdesi olarak 2009’da %44, 2010’da %62, 2011’de ise %54 olarak hesaplanmıştır.
+(5) Vietnam menşeli soruşturma konusu ürün ithalatı gözden geçirme döneminde durduğu için fiyat baskısı hesabı yapılamamıştır.

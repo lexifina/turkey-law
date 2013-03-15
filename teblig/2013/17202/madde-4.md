@@ -1,0 +1,9 @@
+İlgili tarafların bilgilendirilmesi ve toplanan bilgilerin değerlendirilmesi
+MADDE 4 – (1) Soruşturma açılışını müteakip soruşturma konusu ürünün Bakanlık tarafından bilinen ÇHC, Hindistan ve Vietnam’daki üreticilerine/ihracatçılarına, Türkiye’de yerleşik ithalatçılarına ve ayrıca soruşturmaya konu ülkelerdeki yerleşik diğer üreticilere/ihracatçılara iletilebilmesini teminen anılan ülkelerin Ankara’daki Büyükelçiliklerine ilgili soru formları, başvurunun gizli olmayan özeti ve soruşturma açılış Tebliğ’ine ulaşmalarını sağlamak için soruşturma açılışına ilişkin bildirim yapılmıştır.
+(2) Taraflara soru formunu yanıtlamaları için posta süresi dahil 37 gün süre tanınmıştır. Tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(3) YÜD, soruşturma süresi boyunca Bakanlığımız ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir.
+(4) Kendilerine bildirim yapılan 19 ithalatçı firmanın 10’undan cevap alınmıştır.
+(5) ÇHC’den 1 (Zeon Belts Pvt. Ltd.) ve Hindistan’dan 1 (PIX Transmissions Ltd.) ihracatçı firmadan soruşturmaya ilişkin cevap alınmıştır.
+(6) Soruşturmaya ilişkin bilgi ve bulguların tamamlanması akabinde, soruşturma sonucunda alınacak karara esas teşkil edecek bilgi, bulgu, tespit ve değerlendirmeleri içeren nihai bildirim; soruşturma konusu ülkelerin Ankara Büyükelçilikleri ile soruşturma sırasında görüş bildiren üretici/ihracatçılar, ithalatçılar ve yerli üretim dalına iletilmiştir.
+(7) Kendisine bildirim yapılmış olan Hindistan’da yerleşik PIX Transmissions Ltd. firması nihai bildirime ilişkin görüş bildirmiştir.
+(8) Tarafların soruşturma boyunca ve nihai bildirim sonrası ortaya koyduğu tüm bilgi, belge ve görüşler incelenmiş, bu görüşlerin mevzuat kapsamında değerlendirilebilecek olanlarına bu raporun ilgili bölümlerinde değinilmiştir. Ayrıca, ilgili taraflardan alınan bilgi ve belgelerin gizli olmayan nüshaları, talep eden bütün ilgili tarafların bilgisine sunulmak üzere hazır tutulmuştur.

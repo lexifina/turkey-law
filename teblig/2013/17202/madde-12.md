@@ -1,0 +1,9 @@
+Önlem konusu ithalatın pazar payı
+MADDE 12 – (1) Önlem konusu ithalatın nispi olarak değişimini görebilmek için, söz konusu ithalatın toplam Türkiye benzer mal tüketimi içindeki payı incelenmiştir. Bu bağlamda, öncelikle YÜD’nin yurt içi satış miktarı ile genel ithalat miktarı toplanarak ilgili yılda Türkiye benzer mal tüketimi elde edilmiştir.
+(2) Önlem konusu maddenin Türkiye toplam tüketimi içindeki payının incelenmesinde YÜD verilerine dayalı olarak ayrıştırılmış TÜİK istatistikleri kullanılmıştır. Söz konusu inceleme 2009–2011 dönemi için yapılmış olup, veriler 2009 yılı=100 olacak şekilde endekslenmiştir.
+(3) Buna göre, soruşturma konusu üründeki yurtiçi tüketim endeks değeri, 2009’da 100 iken, 2010’da 163’e ve 2011’de 196’ya yükselmiştir. 2009 yılında yaşanan küresel ekonomik kriz sonrası Türkiye pazarında önemli büyüme yaşanmış ve tüketim 2010 ve 2011 yılları boyunca artmaya devam etmiştir.
+(4) Esas soruşturmada incelenen dönem olan 2002-2005 yılları arasında %35 oranında büyüyen ÇHC’nin pazar payı, 2009’da 100, 2010’da 105 ve 2011’de 111 olarak gözden geçirme döneminde %11 oranında büyümüştür.
+(5) Esas soruşturmada incelenen dönem olan 2002-2005 yılları arasında %52 oranında büyüyen Hindistan’ın pazar payı, 2009’da 100, 2010’da 123 ve 2011’de 39 olarak gözden geçirme döneminde %61 oranında azalmıştır.
+(6) Vietnam pazar payı esas soruşturmada incelenen dönem olan 2002-2005 yılları arasında %23 oranında büyürken, önlemin etkisiyle beraber Vietnam’dan yapılan ithalat, gözden geçirme döneminde durmuştur.
+(7) Esas soruşturmada incelenen dönem olan 2002-2005 yılları arasında %21 oranında azalan YÜD’nin pazar payı, 2009’da 100, 2010’da 81 ve 2011’de 67 olarak gözden geçirme döneminde %33 oranında azalmıştır.
+(8) Esas soruşturmada incelenen dönem olan 2002-2005 yılları arasında %18 oranında azalan diğer ülkelerin pazar payı, 2009’da 100, 2010’da 105 ve 2011’de 110 olarak gözden geçirme döneminde %10 oranında artmıştır.
