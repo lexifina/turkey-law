@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6434",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kazakistan Cumhuriyeti Hükümeti Arasında Turizm İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-15",
+  "gazette_issue": "28588",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-6.htm",
+  "source_sha256": "ec90806e7d8ae379beb07bb5721be03e41aead4a7e4f2f6645b288f0d75b74b4",
+  "text_sha256": "0d0639c64b19e45bd0b631cafd0250759b55ce0d04e0d1382bd0ace1dfe9fb67",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/15/28588-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
