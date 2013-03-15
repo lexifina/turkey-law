@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK 61/2013-06/Mükellef Bilgileri Bildirimi-02",
+  "source_id": 780,
+  "date": "2013-03-15",
+  "title": "413 Sıra Numaralı Vergi Usul Kanunu Genel Tebliği içeriğine dair açıklama",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/780",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "c74001e51c7ab0539c265e2a5d98f2be2131545b62d5fb04e8dffc88c5f9dc89",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
