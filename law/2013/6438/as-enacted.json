@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6438",
+  "year": 2013,
+  "title": "1978 Protokolü ile Değişik 1973 Tarihli Denizlerin Gemiler Tarafından Kirletilmesinin Önlenmesine Ait Uluslararası Sözleşmeyi Değiştiren 1997 Protokolüne Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-15",
+  "gazette_issue": "28588",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-10.htm",
+  "source_sha256": "dd01d0f11ce71957d7c56007067bc88fdb359a01e21091c9c8c67cfab71d7680",
+  "text_sha256": "de101fe28a90842ceba9a0d77dae2f70462a4b9909538127188d7bca39aecc1d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/15/28588-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
