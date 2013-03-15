@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6435",
+  "year": 2013,
+  "title": "Türkiye-Tunus Ortaklık Konseyinin Tarım Ürünlerinde Taviz Değişimi Hakkındaki Protokol II'nin A ve B Tablolarının Değiştirilmesine İlişkin 2/2012 Sayılı Kararının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-15",
+  "gazette_issue": "28588",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-7.htm",
+  "source_sha256": "5639431d5c02175536b9f64ccf181661699442542f89608385734f8968478a2a",
+  "text_sha256": "79ff2834e28688e15b378021b49ecbf02035fc56d49a292e4cbb317722065e32",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/15/28588-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
