@@ -13,3 +13,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 5685 | Geçici 3 üncü Madde | 20/6/2007
 5751 | 14 | 2/4/2008
 5784 | 14 | 26/7/2008
+6443 | 4, 12 | 15/3/2013
