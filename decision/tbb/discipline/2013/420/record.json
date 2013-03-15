@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "420",
+  "date": "2013-03-15",
+  "title": "T. 15.03.2013 E. 2012/598 K. 2013/188",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/420",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=19&yil=2013",
+  "listing_sha256": "7747e687fda9daa5ef3d3fe01814f18436330785ffb52d8bb3db735ef81b19dd",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
