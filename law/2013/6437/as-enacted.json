@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6437",
+  "year": 2013,
+  "title": "Uluslararası Karayolu Taşımacılığı Yapan Taşıtlarda Çalışan Personelin Çalışmalarına İlişkin Avrupa Anlaşmasının 4üncü, 5inci ve 6ncı Değişikliklerine Katılmamızın Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-15",
+  "gazette_issue": "28588",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-9.htm",
+  "source_sha256": "bc44a1bac25d78d75f71b1c6d8bf7f5f5431149575d29a124fe89cfc39a268fc",
+  "text_sha256": "ee59cf39e09c5d5e71cabf1f8d8ad0363fac317b1aeff161597210c628cbe3ae",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/15/28588-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130315-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
