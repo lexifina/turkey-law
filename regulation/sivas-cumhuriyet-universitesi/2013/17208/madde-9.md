@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 9 – (1) Yönetim Kurulu; Rektör, Müdür, müdür yardımcıları, birim temsilcileri, kamu kuruluşlarından iki temsilci, Müdürün teklifi ve Rektörün onayı ile Danışma Kurulu üyeleri arasından seçilen iki kişi olmak üzere toplam oniki kişiden oluşur. Görev süresi dolan üyeler yeniden görevlendirilebilir. Süresi dolmadan ayrılan, görevi nedeniyle altı aydan fazla toplantılara katılamayacak olan ya da mazeretsiz olarak üst üste üç toplantıya katılmayan üye/üyelerin yerine, kalan süreyi tamamlamak üzere Müdürün teklifiyle Rektör tarafından yeni üye/üyeler görevlendirilebilir.
+(2) Yönetim Kurulu, Müdürün çağrısı üzerine ayda en az bir defa salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır.
+(3) Yönetim Kurulunun başkanı Rektördür. Rektörün yokluğunda bu görevi, Rektöre vekâlet eden ya da görevlendirdiği kişiler üstlenir.
