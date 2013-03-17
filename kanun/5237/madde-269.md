@@ -12,6 +12,6 @@ b) İdari yaptırım uygulandıktan sonra etkin pişmanlıkta bulunulması halin
 İndirilebilir.
 (5) (Değişik: 29/6/2005 – 5377/31 md.) Basın ve yayın yoluyla yapılan iftiradan dolayı etkin pişmanlık hükümlerinden yararlanılabilmesi için, bunun aynı yöntemle yayınlanması gerekir.
 ________________________
-(1) Bu fıkra, Anayasa Mahkemesi’nin 17/11/2011 tarihli ve E.: 2010/115, K.: 2011/154 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 17/3/2012 tarihinden başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.
+(1) Sözkonusu Karar Resmi Gazete’de yayımlandığı 17/3/2012 tarihinden başlayarak bir yıl sonra yürürlüğe girmiştir.
 (2) Bu fıkrada geçen "bu kişiye" ibaresi, 29/6/2005 tarihli ve 5377 sayılı Kanunun 30 uncu maddesiyle "başkasına" olarak değiştirilmiş ve metne işlenmiştir.
 9030
