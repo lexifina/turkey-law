@@ -14,3 +14,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 6086 | 257 | 19/12/2010
 6217 | 191 | 14/4/2011
 6352 | 132, 133, 134, 141, 142, 163, 168, 220, 250, 252, 254, 255,257, 277, 278, 285, 288 | 5/7/2012
+Anayasa Mahkemesi’nin 17/11/2011 tarihli ve E.: 2010/115, K.: 2011/154 sayılı Kararı | 267 nci maddenin yedinci fıkrası | 17/3/2013
