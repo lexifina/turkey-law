@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-03-17",
+  "issue": "28590",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2013/4394 Toplu Konut İdaresi Başkanlığına Ait Boş Kadrolarda Değişiklik Yapılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130317-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130317.htm",
+  "index_sha256": "f298988259d35ee5bd3d110222bce13844555ca8d00b5807603dd2b316ce3927",
+  "index_header": "17 Mart 2013 ... 28590 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130317.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
