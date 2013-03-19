@@ -1,0 +1,1 @@
+MADDE 4 – (1) TS EN 1092-1 standardı, TSE’nin merkez teşkilatından veya il temsilciliklerinden temin edilir. TSE’nin ve il temsilciliklerinin iletişim bilgilerine TSE’nin internet sitesinden ulaşılır.
