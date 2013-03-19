@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10232",
+  "decision_date": "2013-03-19",
+  "source_id": 16845,
+  "chamber": "1",
+  "ilam_number": "43",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16845/",
+  "source_sha256": "ed991a01f92e7478e70893dff028e0c715bf71fa82b4b89ba3ab3205780209ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
