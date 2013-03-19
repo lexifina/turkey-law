@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10198",
+  "decision_date": "2013-03-19",
+  "source_id": 17017,
+  "chamber": "1",
+  "ilam_number": "41",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17017/",
+  "source_sha256": "83d88d30726bc93fc1b32bff52bb9b83b142e88767c369720befcc0746545db3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
