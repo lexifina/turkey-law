@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36802",
+  "decision_date": "2013-03-19",
+  "source_id": 5734,
+  "chamber": "4",
+  "file_number": "37047",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/5734/",
+  "source_sha256": "7eee2c1a52f4f9e253af5b33d1d3a2b66aee59ac35b75643782b1bb7f10a0640",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
