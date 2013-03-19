@@ -1,0 +1,5 @@
+Kamu Alacağı
+
+5302 sayılı İl Özel İdaresi Kanununun 43 üncü maddesinin (e) bendi, İl genel meclisince belirlenecek ilkeler çerçevesinde köylere veya köylerin aralarında kurdukları birliklere yapılacak yardımları özel idarenin giderleri arasında saymıştır. Bu düzenlemeye dayanılarak … İl Özel İdaresi tarafından bölgede bulunan ve tarımsal alanda faaliyet gösteren tesislere yapılacak yardımlara kaynak sağlanması amacıyla köylere hizmet götürme birliklerine ödenek aktarılmıştır. Bu ödenekler de belirtilen amaca uygun olarak köylere hizmet götürme birlikleri tarafından yapılan protokollerle ilgili kuruluşlara kredi olarak kullandırılmış olup geri ödemeler de bu protokollerde belirlenen şartlara uygun olarak birliklere yapılacaktır. Dolayısıyla özel idarenin görevi ilgili ödenekleri birliklere aktarmakla sona ermekte, bu ödenekler kullanılarak verilen kredilerin takibi yükümlülüğü köylere hizmet götürme birliklerine geçmektedir.
+
+Açıklanan nedenlerle yapılan işlemlerin yasal düzenlemelere uygun olduğuna oy birliğiyle,

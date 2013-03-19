@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10232",
+  "decision_date": "2013-03-19",
+  "source_id": 7164,
+  "chamber": "1",
+  "ilam_number": "43",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7164/",
+  "source_sha256": "dc680e871548bba25452e17762ebf13e24c95185b52abca9ec03f9e9fa4cd18d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
