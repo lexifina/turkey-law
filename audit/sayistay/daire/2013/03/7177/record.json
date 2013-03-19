@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10198",
+  "decision_date": "2013-03-19",
+  "source_id": 7177,
+  "chamber": "1",
+  "ilam_number": "41",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7177/",
+  "source_sha256": "3255d3a8b19651bf7b130808aa2c05a76c787fe078c70e6ca4459be42f1a356c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
