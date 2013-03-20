@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4323",
+  "decision_date": "2013-03-20",
+  "title": "Doğal Gaz Piyasası Tarifeler Yönetmeliği’nin 14 üncü maddesi uyarınca tüketim kademelerinin belirlenmesine yönelik alınan 3938 sayılı Kurul Kararının değiştirilmesine yönelik karar",
+  "resmi_gazete_date": "2013-04-13",
+  "resmi_gazete_number": "28617",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oO1EnaOwFLQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oO1EnaOwFLQ="
+  ],
+  "source_sha256": "8c494b2792c6df5e6a5069a4c15dc80062435c201173a063d2191e245594bca8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-03-20",
+  "law_text_complete": false
+}
