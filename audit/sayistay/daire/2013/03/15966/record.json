@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "12",
+  "decision_date": "2013-03-21",
+  "source_id": 15966,
+  "chamber": "5",
+  "ilam_number": "132",
+  "item_number": 81,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2010,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15966/",
+  "source_sha256": "2297822a0d34f66f5d4d5322bbef41d71e0fb5303381f2db38a117acd50bad35",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
