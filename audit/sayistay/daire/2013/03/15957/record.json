@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "12",
+  "decision_date": "2013-03-21",
+  "source_id": 15957,
+  "chamber": "5",
+  "ilam_number": "132",
+  "item_number": 73,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2010,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15957/",
+  "source_sha256": "907a31c57feaf186a3d22537b09d6cba87e108cad32986cb85b5434fb98b0715",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
