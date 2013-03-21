@@ -1,0 +1,2 @@
+Hüküm bulunmayan haller
+MADDE 22 – (1) Bu Yönetmelikte hüküm bulunmayan hallerde 19/1/2012 tarihli ve 28178 sayılı Resmî Gazete’de yayımlanan Yıldız Teknik Üniversitesi Önlisans ve Lisans Eğitim-Öğretim Yönetmeliği ile 13/11/2012 tarihli ve 28466 sayılı Resmî Gazete’de yayımlanan Yıldız Teknik Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği hükümleri ve ilgili diğer mevzuat hükümleri ile Senato kararları uygulanır.

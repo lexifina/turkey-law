@@ -1,0 +1,3 @@
+Öğretim programları ve dersler
+MADDE 9 – (1) Bölüm dersleri ile bu derslerin yarıyıllara göre dağılımları, haftalık saatleri, kredileri ve ön şartları, öğretim türleri ve türler için öngörülen yarıyıl ve süreleri, ilgili eğitim birimi yönetim kurulunca belirlenir ve bu birim kurulunun onayına sunulur.
+(2) Öğretim programlarında ilgili birim kurulu tarafından yapılacak ve Senato tarafından onaylanan değişiklikler sonucunda toplam ders saatlerinde ortaya çıkabilecek değişmeler; istenilirse yapılacak uyum programı ile eski ve yeni girişli tüm öğrencilere uygulanır. Öğretim programlarında yapılan değişiklikler sonucunda, yeni programa intibak, program değişikliği sırasında hazırlanan ve kurul tarafından onaylanan uyum esaslarına göre yapılır.

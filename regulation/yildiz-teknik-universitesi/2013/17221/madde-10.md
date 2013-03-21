@@ -1,0 +1,2 @@
+Sınıf geçme, ders geçme ve ön şartlı dersler
+MADDE 10 – (1) Eğitim ve öğretim programları, ilgili eğitim biriminin yarıyıllarına göre düzenlenmiş ders seçme esaslarına göre uygulanır. Öğrenciler mezun olabilmek için, ilgili birim kurulunun belirlemiş olduğu en az kredi miktarını bu derslerden sağlarlar. 2547 sayılı Yükseköğretim Kanununun 5 inci maddesinin birinci fıkrasının (ı) bendinde belirtilen derslerden sağlanan krediler, bu kredi miktarının dışındadır.

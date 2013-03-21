@@ -1,0 +1,2 @@
+Devam zorunluluğu
+MADDE 12 – (1) Öğrenci, ilk kez yazıldığı dersler ile devamsızlığı veya başarısızlığı nedeniyle tekrarlayacağı teorik derslerin en az % 70’ine, teorik ders dışındaki her türlü uygulama çalışmasının en az % 80’ine devam etmek zorundadır. Ancak eş zamanlı ve eş zamansız olarak yürütülmekte olan program ve derslerde devam zorunluluğu, uzaktan eğitim sistemindeki öğrenci hareketleri ile tespit edilir.
