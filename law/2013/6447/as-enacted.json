@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6447",
+  "year": 2013,
+  "title": "On Üç İlde Büyükşehir Belediyesi ve Yirmi Altı İlçe Kurulması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-22",
+  "gazette_issue": "28595",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130322-2.htm",
+  "source_sha256": "c170fbc77c97d448a4b4d2ac40ec4d5399f918de39eed0f18c0aba5bcb566b64",
+  "text_sha256": "ff71b28657c2b7670a0fb00068eefe48b134ad7badedfb15902c9e223725b66e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/22/28595-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130322-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
