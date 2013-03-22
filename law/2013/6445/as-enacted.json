@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6445",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kazakistan Cumhuriyeti Hükümeti Arasında 13 Aralık 1993 Tarihli Türkiye Cumhuriyeti ile Kazakistan Cumhuriyeti Arasında Antalya İlinin Kemer İlçesindeki Taşınmazın Kazakistan Cumhuriyetine Kullandırılmasına İlişkin Protokole Değişikliklerin ve Eklemelerin Yapılmasına Dair Protokolün Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-22",
+  "gazette_issue": "28595",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130322-1.htm",
+  "source_sha256": "4e7c8d3d7acda62fb6c89fcad28690cc3b50f22daee9b28f22fc7b590f5fbb0e",
+  "text_sha256": "09ade0adafc66cd119173c5b32a5ebd0ab5f8d8e8f78a6eb6e60b5c54a631ab8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/22/28595-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130322-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
