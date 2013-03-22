@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-03-22",
+  "issue": "28595",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2013/13)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130322-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130322.htm",
+  "index_sha256": "f5f5d6c63619619fe7cc88b051ca0256e3ba2821066ef61b5ea8df0e0983a809",
+  "index_header": "22 Mart 2013 ... 28595 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130322.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
