@@ -1735,7 +1735,7 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 2 | Kavurma | Merkez | Merkez
 3 | Kurubaş | Merkez | Merkez
 4 | Taşkonak | Merkez | Merkez
-(25) SAYILI LİSTE
+(25) SAYILI LİSTE (1)
 1 | Altıeylül Belediyesi
 2 | Antakya Belediyesi
 3 | Arsuz Belediyesi
@@ -1763,8 +1763,11 @@ S.NO. | BİRİMİN ADI | İLÇESİ | BAĞLI OLDUĞU BUCAK
 25 | Ortahisar Belediyesi
 26 | Yeşilyurt Belediyesi
 27 | Yunusemre Belediyesi
+28 | Altınordu Belediyesi (1)
+–––––––––––––––––
+(1) 14/3/2013 tarihli ve 6447 sayılı Kanunun 1 inci maddesiyle bu listeye “Altınordu Belediyesi” ibaresi eklenmiştir.
 11805
-(26) SAYILI LİSTE
+(26) SAYILI LİSTE (1)
 KURUMU : İÇİŞLERİ BAKANLIĞI
 TEŞKİLATI : TAŞRA
 İHDASI UYGUN GÖRÜLEN KADROLARIN
@@ -1795,6 +1798,8 @@ TH | Tekniker | 8 | 87 |  | 87
 TH | Teknisyen | 9 | 145 |  | 145
 YH | Hizmetli | 8 | 145 |  | 145
 YH | Hizmetli | 10 | 52 |  | 52
+–––––––––––––––––
+(1) 14/3/2013 tarihli ve 6447 sayılı Kanunun 1 inci maddesiyle, bu listede yer alan Gençlik ve Spor Bakanlığına ait kadrolar iptal edilerek 190 sayılı Kanun Hükmünde Kararnamenin ilgili bölümlerinden çıkarılmıştır.
 11806
 YH | Hizmetli | 11 | 52 |  | 52
 YH | Kaloriferci | 8 | 58 |  | 58
@@ -1866,14 +1871,6 @@ SH | Sosyal Çalışmacı | 6 | 52 |  | 52
 SH | Psikolog | 7 | 26 |  | 26
 SH | Çocuk Gelişimcisi | 7 | 26 |  | 26
  | TOPLAM |  | 286 |  | 286
-KURUMU : GENÇLİK VE SPOR BAKANLIĞI
-TEŞKİLATI : TAŞRA
-İHDASI UYGUN GÖRÜLEN KADROLARIN
-Sınıfı | Unvanı | Derecesi | Serbest Kadro Adedi | Tutulan Kadro Adedi | Toplam
-GİH | Gençlik Hizmetleri ve Spor İlçe Müdürü | 1 | 26 |  | 26
-GİH | Memur | 8 | 26 |  | 26
-YH | Teknisyen Yardımcısı | 10 | 26 |  | 26
- | TOPLAM |  | 78 |  | 78
 11809
 KURUMU : DİYANET İŞLERİ BAŞKANLIĞI
 TEŞKİLATI : TAŞRA
@@ -2474,3 +2471,4 @@ S.NO. | İL | İLÇE | BELEDİYE
 557 | Zonguldak | Ereğli | Gökçeler
 558 | Zonguldak | Gökçebey | Hacımusa
 559 | Zonguldak | Merkez | Sivriler
+11824
