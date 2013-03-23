@@ -3,7 +3,7 @@ Madde 39- Borsa meclisinin görevleri şunlardır:
 a) Borsa yönetim kurulu ve disiplin kurulu üyelerini seçmek.
 b) Kendi üyeleri arasından Birlik genel kurul delegelerini seçmek.
 –––––––––––––––––
-(1) Bu fıkranın yürürlüğü, Anayasa Mahkemesi’nin 10/1/2013 tarihli ve E.: 2012/128, K.: 2013/1 (Yürürlüğü Durdurma) Kararı ile İptal Kararının Resmi Gazete’de yayımlanacağı tarihe kadar durdurulmuştur.
+(1) Bu fıkranın yürürlüğü, Anayasa Mahkemesi’nin 10/1/2013 tarihli ve E.: 2012/128, K.: 2013/1 (Yürürlüğü Durdurma) Kararı ile İptal Kararının Resmi Gazete’de yayımlanacağı tarihe kadar durdurulmuş olup, sözkonusu Karar 23/3/2013 tarihli ve 28596 sayılı Resmi Gazete’de yayımlanmıştır.
 8787
 c) Yönetim kurulu tarafından yapılacak teklifleri inceleyip karara bağlamak.
 d) Çalışma alanları içindeki örf, adet ve teamülleri tespit ve ilân etmek.
