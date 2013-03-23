@@ -3,4 +3,4 @@ Madde 16- Oda meclisi, meslek gruplarınca dört yıl için seçilecek üyelerde
 Meclis, kendi üyeleri arasından dört yıl için başkan ile bir veya iki başkan yardımcısı seçer.
 Meclis üyeliğine seçilen gerçek kişiler ile tüzel kişilerin gerçek kişi temsilcileri, aynı faaliyet alanında bulunan odalar ve borsaların meclisleri ile 17.7.1964 tarihli ve 507 sayılı Kanuna göre kurulmuş odaların ancak birinde görev alabilirler.
 Meclis başkanı ve yardımcıları yönetim kurulu ve disiplin kurulu başkan ve üyeliğine seçilemezler.
-Üst üste iki dönem meclis başkanlığı yapmış olanlar, aradan iki seçim dönemi geçmedikçe aynı göreve yeniden seçilemezler. (1)
+(İptal beşinci fıkra: Anayasa Mahkemesi’nin 10/1/2013 tarihli ve E.: 2012/128, K.: 2013/7 sayılı Kararı ile.) (1)
