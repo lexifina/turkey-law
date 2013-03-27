@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "ÖTV-1/2013-2",
+  "source_id": 988,
+  "date": "2013-03-27",
+  "title": "2012/3792 sayılı Bakanlar Kurulu Kararının yürürlük tarihinden önce (EK:14) talep ve taahhütname verilerek ithal edilen mallar ile (EK:17) talep ve taahhütname verilerek satın alınan mallara ilişkin uygulama",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/sirkuler/988",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "88024076529c5eddacfc21cd5576d6e27336d916fe1685eb4300ffbaf1e09d72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
