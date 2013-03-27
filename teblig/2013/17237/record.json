@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.17237",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 425)",
+  "number": "17237",
+  "path": "teblig/2013/17237",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17237&MevzuatTertip=5",
+  "source_sha256": "97387c40af7b34f21b75ac7405e70095f7ae222b625d614a96de5982161666f8",
+  "source_bytes": 11929,
+  "published": "2013-03-27",
+  "gazette": "28600",
+  "in_force": "2013-03-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.03.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 576,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
