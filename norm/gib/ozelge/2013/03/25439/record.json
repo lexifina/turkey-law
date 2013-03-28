@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "67854564-1744-185",
+  "source_id": 25439,
+  "date": "2013-03-28",
+  "title": "Yıl içinde başka bir noterliğe atanan noterin defter tasdiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25439",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "95824868be5b60a9d26f3e1229c813a7c87a2e64b2118aedae4a61c0e53bc8e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
