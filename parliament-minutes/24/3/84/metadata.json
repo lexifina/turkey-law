@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 24,
+  "legislative_year": 3,
+  "sitting": 84,
+  "sitting_date": "2013-03-28",
+  "listed_date": "28 Mart 2013 Perşembe",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/24/3/84/42971e40-01f5-4565-b681-1ff528149fae.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=dc35bb5b-34d9-46fe-8495-0185ceac6d24",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=24&YasamaYili=3",
+  "source_sha256": "1de795d7dbca91867a92f6e650ef85fba2c66427694ae101fb664cb1b3ccb9cd",
+  "source_bytes": 923335,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
