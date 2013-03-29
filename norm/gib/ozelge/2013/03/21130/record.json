@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "47423198-GVK-2012-01-10",
+  "source_id": 21130,
+  "date": "2013-03-29",
+  "title": "Mermer oyma ve üzerine kurşun işleme, takı tasarımı, plastik makyaj ve grafik çalışmalarının esnaf muaflığından yararlanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21130",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "33339e5bca846406f0e1cc36a3f620f6de167282cc82b414c35157b07db60c55",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
