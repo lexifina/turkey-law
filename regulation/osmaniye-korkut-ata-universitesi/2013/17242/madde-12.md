@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; doğal üyeler olan Müdür, müdür yardımcıları ve kurucu bölümlerden bölüm kurullarınca belirlenecek birer öğretim üyesi ile Merkezin çalışma alanı ile ilgili konularda çalışma yapan Üniversite öğretim üyeleri arasından, Üniversitedeki enerji ile ilgili fakülte ve yüksekokulları temsilen, Rektör tarafından üç yıl süre için görevlendirilen üç üye olmak üzere toplam dokuz üyeden oluşur. Danışma Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır.
