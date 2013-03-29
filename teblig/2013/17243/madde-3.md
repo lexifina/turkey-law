@@ -1,0 +1,5 @@
+Yetkilendirilmiş yükümlü logosu
+MADDE 3 – (1) Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliği uyarınca adlarına yetkilendirilmiş yükümlü sertifikası düzenlenen kişiler, bu sertifikanın geçerliliği süresi boyunca Gümrük ve Ticaret Bakanlığının kurumsal internet sayfasında duyurulan örneğe uygun yetkilendirilmiş yükümlü logosunu ticari ve diğer faaliyetlerinde kullanabilirler.
+(2) Yetkilendirilmiş yükümlü logosu, logonun şekli, renkli basımlarda rengi gibi unsurları değiştirilmek suretiyle kullanılamaz.
+(3) Adlarına düzenlenmiş geçerli bir yetkilendirilmiş yükümlü sertifikası olmayan kişilerce, yetkilendirilmiş yükümlü logosunun veya bu logoyu açıkça anımsatan logoların ticari faaliyetlerinde kullanılması veya Gümrük ve Ticaret Bakanlığından izin alınmaksızın başka amaçlarla kullanılması halinde, haklarında 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 56 ncı maddesi uyarınca işlem yapılır.
+Yetkilendirilmiş yükümlü sertifikası başvurularında ibraz edilecek belgelerin aslı veya kâğıt ortamındaki örnekleri yerine elektronik ortamda oluşturulmuş örneklerinin kabulü

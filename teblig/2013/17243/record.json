@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.17243",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK İŞLEMLERİNİN KOLAYLAŞTIRILMASINA İLİŞKİN GÜMRÜK GENEL TEBLİĞİ (SIRA NO: 1)",
+  "number": "17243",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2013/17243",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17243&MevzuatTertip=5",
+  "source_sha256": "1a59fede8cc79b1de114a419b50887db99afc342487bb2ecabe9b8779c04cc77",
+  "source_bytes": 19314,
+  "published": "2013-03-29",
+  "gazette": "28602",
+  "in_force": "2013-03-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.03.2013); own commencement article: \"Bu Tebliğ 10/1/2013 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 10/1/2013 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1000,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

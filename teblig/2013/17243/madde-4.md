@@ -1,0 +1,1 @@
+MADDE 4 – (1) Gümrük İşlemlerinin Kolaylaştırılması Yönetmeliğinin 10 uncu maddesi uyarınca ibrazı istenilen belgelerin, düzenleyen kuruluşun veri tabanı üzerinden internet ortamında kontrol edilebilmesi şartıyla, elektronik ortamda oluşturulmuş örnekleri asıl nüsha veya kâğıt ortamındaki örneği yerine kabul edilebilir.
