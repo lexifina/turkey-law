@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[18-12/47]-291",
+  "source_id": 20948,
+  "date": "2013-03-29",
+  "title": "Seramik çamurundan çömlek, çini, heykel ve ahşap boyama çalışmaları nedeniyle G.V.K.nın 18 inci maddesindeki istisnadan yararlanıp yararlanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20948",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "d4ecf0409cfa906e80a94cb7632e79d64a799ada5f66909ed6b80ae2423f5e99",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
