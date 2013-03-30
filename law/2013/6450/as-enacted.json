@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6450",
+  "year": 2013,
+  "title": "Stratejik Deniz Taşımacılığı Taahhütlerine İliş-kin Çok Uluslu Uygulama Düzenlemesine Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-30",
+  "gazette_issue": "28603",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130330-17.htm",
+  "source_sha256": "0e3b57e0cdfc0f518a9d0c924bcdda889417d7dfc06d4ca7b71a9c1971d7b4ce",
+  "text_sha256": "3a566e5590281250debc78f4100bfd2622a1cc8d3e6f4afbbd0b05fe18dccf70",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/30/28603-17",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130330-17.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
