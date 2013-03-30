@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6452",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Somali Cumhuriyeti Hükümeti Arasında Teknik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-30",
+  "gazette_issue": "28603",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130330-19.htm",
+  "source_sha256": "0911073fbd0996399684c5c5fbe2c109891cd718608a6e79b5e7b43c228cfd7f",
+  "text_sha256": "621c88764c000f4fd5b6a1cc998c200729f772e68bd7e10c7c8614a00cccc60e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/30/28603-19",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130330-19.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
