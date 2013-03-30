@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6449",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Amerika Birleşik Devletleri Hükümeti Arasında Bilimsel ve Teknolojik İşbirliği Anlaşması ile Anlaşmaya İlişkin Mektupların ve Anlaşmada Değişiklik Yapılmasına Dair Notaların Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-03-30",
+  "gazette_issue": "28603",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130330-16.htm",
+  "source_sha256": "303dc105e3992f50aa87a4107bd2c6904006d2b95aff486dfa481ab4131e6e93",
+  "text_sha256": "3ec761b1ab1e700cb11ef6d8b447dd906dbf23290cfd8a2207cc3ecbacd8759c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/03/30/28603-16",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/03/20130330-16.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
