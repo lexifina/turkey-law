@@ -1,0 +1,12 @@
+Lisanssız yürütülebilecek faaliyetler
+MADDE 14 – (1) Lisans alma ve şirket kurma yükümlülüğünden muaf faaliyetler şunlardır:
+a) İmdat grupları ve iletim ya da dağıtım sistemiyle bağlantı tesis etmeyen üretim tesisi
+b) Kurulu gücü azami bir megavatlık yenilenebilir enerji kaynaklarına dayalı üretim tesisi
+c) Belediyelerin katı atık tesisleri ile arıtma tesisi çamurlarının bertarafında kullanılmak üzere kurulan elektrik üretim tesisi
+ç) Mikrokojenerasyon tesisleri ile Bakanlıkça belirlenecek verimlilik değerini sağlayan kojenerasyon tesislerinden Kurulca belirlenecek olan kategoride olanları
+d) Ürettiği enerjinin tamamını iletim veya dağıtım sistemine vermeden kullanan, üretimi ve tüketimi aynı ölçüm noktasında olan, yenilenebilir enerji kaynaklarına dayalı üretim tesisi
+11996
+(2) Bakanlar Kurulu, rekabetin gelişmesi, iletim ve dağıtım sistemlerinin teknik yeterliliği ve arz güvenliğinin temini ilkeleri çerçevesinde, lisanssız faaliyet yapabilecek yenilenebilir enerji kaynaklarına dayalı üretim tesislerinin kurulu güç üst sınırını kaynak bazında beş katına kadar artırmaya yetkilidir.
+(3) Lisans alma yükümlülüğünden muaf olan yenilenebilir enerji kaynaklarından elektrik enerjisi üreten kişilerin ihtiyacının üzerinde ürettiği elektrik enerjisinin sisteme verilmesi hâlinde elektrik enerjisi son kaynak tedarik şirketince, 10/5/2005 tarihli ve 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanunda kaynak türü bazında belirlenen fiyatlardan alınır.
+(4) Bu kişilerin sisteme bağlanmasına ilişkin teknik usul ve esaslar ile satışa, başvuru yapılmasına ve denetim yapılmasına ilişkin usul ve esaslar Kurum tarafından çıkarılan yönetmelikle düzenlenir.
+(5) Sermayesinin yarısından fazlası belediyeye ait olan tüzel kişilerce, belediyeler tarafından işletilen su isale hatları ile atık su isale hatları üzerinde teknik imkânın olması ve DSİ tarafından uygun bulunması hâlinde enerji üretim tesisi kurulabilir. Su isale hattı üzerinde birden fazla belediyenin tahsis hakkı bulunması durumunda, hidroelektrik enerji tesisi ilgili belediyeler arasında yapılacak protokole göre kurulur ve işletilir. Bu fıkra kapsamındaki tesisler için DSİ ile imzalanması gereken su kullanım hakkı anlaşmalarına ilişkin düzenlemeler ve değişiklikler, Elektrik Piyasasında Üretim Faaliyetinde Bulunmak Üzere Su Kullanım Hakkı Anlaşması İmzalanmasına İlişkin Usul ve Esaslar Hakkında Yönetmelikte üç ay içerisinde yapılır.

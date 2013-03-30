@@ -1,0 +1,8 @@
+TETAŞ’ın hak ve yükümlülükleri
+MADDE 27 – (1) TETAŞ, mevcut sözleşmeler kapsamında imzalanmış olan enerji alış ve satış anlaşmalarını yürütür. Mevcut imtiyaz ve uygulama sözleşmeleri kapsamında enerji alış ve satış anlaşmaları imzalayabilir, hükümetler arası anlaşmalar kapsamında elektrik enerjisi ithalat veya ihracat anlaşmaları imzalayabilir.
+(2) TETAŞ, bu Kanun ve ilgili mevzuat kapsamında elektrik enerjisi ve kapasitesi alım ve satımına ilişkin ikili anlaşmalar yapar ve yürütür, organize toptan elektrik piyasalarında faaliyette bulunabilir.
+(3) TETAŞ, görevli tedarik şirketlerine tarifesi düzenlemeye tabi olan tüketiciler için toptan satış tarifesinden elektrik enerjisi satar.
+(4) TETAŞ’ın tarifesi düzenlemeye tabi olmayan tüketiciler için görevli tedarik şirketlerine elektrik enerjisi satışına ilişkin fiyat, hüküm ve şartlar taraflar arasında serbestçe belirlenir.
+(5) Kurul tarafından son kaynak tedarikçisi olarak yetkilendirilen tedarikçiler, son kaynak tedarikçisi kapsamındaki müşteriler için temin ettiği elektrik enerjisinin Kurul tarafından her yıl belirlenecek oranı kadarını, TETAŞ’tan temin etmekle yükümlüdür.
+(6) Dağıtım şirketleri, genel aydınlatma ile teknik ve teknik olmayan kayıplarından dolayı enerji ihtiyaçlarını TETAŞ’tan temin ederler.
+(7) Bakanlık ve Kurum, TETAŞ’ın alım yükümlülüklerini tam olarak karşılayabilmesi ve bu yükümlülüklerden kaynaklanan herhangi bir mali yükün ortaya çıkmamasını teminen, enerji piyasasında faaliyet gösteren diğer kamu iktisadi teşebbüslerinin mali yapılarını olumsuz etkilemeyecek şekilde, Kalkınma Bakanlığının ve Hazine Müsteşarlığının da görüşlerini almak suretiyle her türlü önlemi almaya yetkili ve yükümlüdür.

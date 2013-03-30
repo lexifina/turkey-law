@@ -1,0 +1,4 @@
+Üretim tesislerinin çevre mevzuatıyla uyumlu hâle getirilmesi
+GEÇİCİ MADDE 8 – (1) EÜAŞ veya bağlı ortaklık, iştirak, işletme ve işletme birimleri ile varlıklarına ve 4046 sayılı Kanun kapsamında oluşturulacak kamu üretim şirketlerine, bunların özelleştirilmeleri hâlinde de geçerli olmak üzere, çevre mevzuatına uyumuna yönelik yatırımların gerçekleştirilmesi ve çevre mevzuatı açısından gerekli izinlerin tamamlanması amacıyla 31/12/2018 tarihine kadar süre tanınır. Bu sürenin üç yıla kadar uzatılmasına Bakanlar Kurulu yetkilidir. Bu süre zarfında ve önceki dönemlere ilişkin olarak bu gerekçeyle, EÜAŞ veya bağlı ortaklık, iştirak, işletme ve işletme birimleri ile varlıklarında ve 4046 sayılı Kanun kapsamında
+12015
+oluşturulacak kamu üretim şirketlerinde, bunların özelleştirilmeleri hâlinde de geçerli olmak üzere, elektrik üretim faaliyeti durdurulamaz, idari para cezası uygulanmaz.
