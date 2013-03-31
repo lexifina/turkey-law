@@ -1,0 +1,29 @@
+{
+  "number": "month-03",
+  "year": 2013,
+  "month": 3,
+  "title": "2013 Meclis Kararları (mart_2013_meclis.pdf)",
+  "decision_date": null,
+  "index_date": "2013-03-31",
+  "date_precision": "month",
+  "period": "Mart 2013",
+  "source": "https://www.hacilar.bel.tr/mecliskarar/2013-meclis-kararlari/11/",
+  "official_page": "https://www.hacilar.bel.tr/mecliskarar/2013-meclis-kararlari/11/",
+  "official_document": "http://www.hacilar.bel.tr/dosyalar/meclis_kararlari/2013/mart_2013_meclis.pdf",
+  "source_sha256": "64e7e10cf2b15ad5f349153dfef9029f639123e98dd0bee410ff6c3638eeaefb",
+  "issuer": "Hacılar Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2013-03-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mart 2013); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2013 Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "date_read_from": "official file name"
+}
