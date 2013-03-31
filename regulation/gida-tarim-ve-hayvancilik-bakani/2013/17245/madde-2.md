@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, yarış atları hariç çiftlik hayvanlarının yetiştiriciliği ve ıslahı konusunda ulusal ve bölgesel politikaların belirlenmesi, kamu ve özel kuruluşlardan gelecek başvuruların ve önerilerin değerlendirilmesi, ilgili alt komitelerin oluşturulması ve çalışma yöntemlerinin belirlenmesi, alt komitece hazırlanacak önerilerin karara bağlanması, kabul edilen hayvan ıslah çalışmalarının Bakanlığa sunulması ile ilgili yapılacak çalışma ve işlemleri kapsar.

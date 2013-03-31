@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Hayvan Islahı Komitesinin Kuruluşu, Görevleri, Çalışma Usul ve Esasları
+Kuruluşu
+MADDE 5 – (1) Genel Müdürlükten Genel Müdür, ilgili Genel Müdür Yardımcısı ve Daire Başkanı ile Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü, Tarım İşletmeleri Genel Müdürlüğü, Gıda ve Kontrol Genel Müdürlüğü ve TÜBİTAK’tan konu ile ilgili birer üye, Bakanlıkça belirlenecek hayvan ıslahı konusunda çalışmış, veteriner ve ziraat fakültelerinden ikişer bilim insanı, hayvan ıslahı konusunda yetiştirici iki üst birlikten birer üye olmak üzere toplam on üç üyeden oluşur ve Bakan onayı ile göreve başlar. Gerektiği hallerde komiteyi oluşturan kuruluşların kompozisyonu ve temsilci sayıları komitenin teklifi ve Bakan onayı ile değiştirilebilir.
+(2) Hayvan ıslah komitesi ve hayvan ıslah alt komitesi iki yıl süre için seçilir. Görev süresi sona erenler tekrar seçilebilir. Genel Müdürlükten katılan üyeler hariç iki dönem üst üste görev yapanlar bir dönem ara vermedikçe tekrar seçilemezler.
+(3) Hayvan ıslah komitesi ve alt komite üyelerinden görev süresi dolmadan herhangi bir nedenle ayrılanların yerine, ayrılan üyenin bağlı olduğu kurumdan en geç otuz gün içinde kalan süreyi tamamlamak üzere yeni üye belirlenir.
