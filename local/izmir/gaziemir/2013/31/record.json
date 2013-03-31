@@ -1,0 +1,29 @@
+{
+  "number": "31",
+  "number_as_published": "31",
+  "year": 2013,
+  "month": 3,
+  "title": "31.KARAR MART 13 (düğün salonu tarifesi)5",
+  "decision_date": null,
+  "index_date": "2013-03-31",
+  "date_precision": "month",
+  "period": "Mart 2013",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=60",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=60",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/2d4787289430720f889a323af61143902d4787289430720f889a323af6114390.doc",
+  "source_sha256": "8d1291d698d97c6756c015f96dfb44105f4fb6895611859df48584838e792071",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2013-03-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Mart 2013); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "29.03.2013",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
