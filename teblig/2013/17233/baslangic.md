@@ -1,0 +1,3 @@
+GÜMRÜK GENEL TEBLİĞİ
+(FİKRİ VE SINAİ HAKLAR)
+(SERİ NO: 1)

@@ -1,0 +1,4 @@
+Fikri ve sınai hakların ihlali ile ilgili olarak gümrük idaresinin harekete geçmesine ilişkin yapılacak başvuru
+MADDE 4 – (1) Fikri ve sınai hakların korunmasına ilişkin başvuru, Gümrük Yönetmeliğinin 103 üncü maddesinde belirtilen hükümlere uygun şekilde ve Yönetmeliğin 13 nolu ekinde yer alan başvuru formundaki bilgiler çerçevesinde elektronik olarak Bakanlığın kurumsal internet sayfasında yer alan Fikri ve Sınai Mülkiyet Hakları Programı kullanılarak yapılır.
+(2) Söz konusu başvurunun yapılmasına ilişkin rehber Bakanlığın kurumsal internet sayfasında ilan edilir.
+(3) Başvuru formunun 4 nolu bölümünde yapılan beyana uygun olarak başvuru sahibinin durumunu kanıtlayan bir belge ile 10 nolu bölümünde yer alan bilgilere uygun olarak hakkın Türkiye’de tescil edildiğini gösteren belge başvuruya eklenir.
