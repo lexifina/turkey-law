@@ -1,0 +1,23 @@
+{
+  "number": "meeting-04-02",
+  "number_as_published": "meeting-04-02",
+  "year": 2013,
+  "title": "Karar No 2013-04-2 Karar Tarihi 02.04.2013",
+  "decision_date": "2013-04-02",
+  "source": "https://www.incesu.bel.tr/meclis-kararlari?sayfa=11",
+  "official_document": "https://www.incesu.bel.tr/uploads/meclis/karar/2013/2013-nisan-ayi-oturum-2-bilesim-karar-ozeti.docx?v=1770199028",
+  "source_sha256": "fb14d6a4f4bfc42922480bc361f929d916ca49b47ce063ae3e282e0899ad285f",
+  "issuer": "İncesu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2013-04-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.04.2013; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Karar No 2013-04-2 Karar Tarihi 02.04.2013",
+  "record_scope": "one official file of council decisions (meeting)"
+}
