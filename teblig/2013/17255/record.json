@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.17255",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ BUĞDAY UNU TEBLİĞİ (TEBLİĞ NO: 2013/9)",
+  "number": "17255",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2013/17255",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17255&MevzuatTertip=5",
+  "source_sha256": "f3f93f3429957ecbb3c54bb55e4708af645858944f0eecc721579a64738d2b96",
+  "source_bytes": 22993,
+  "published": "2013-04-02",
+  "gazette": "28606",
+  "in_force": "2013-04-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.04.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 983,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.17255%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

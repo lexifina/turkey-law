@@ -1,0 +1,3 @@
+Ambalajlama
+MADDE 10 – (1) Bu Tebliğ kapsamında yer alan ürünlerin ambalajında kullanılan malzeme, 29/12/2011 tarihli ve 28157 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Gıda ile Temas Eden Madde ve Malzemeler Yönetmeliğine uygun madde ve malzemelerden oluşur. Ambalaj malzemesinin polipiropilen olması durumunda polipiropilen ambalajın dokuma sıklığı cm’de 5 adet ve ağırlığı en az 80 gr/m2 olur.
+(2) Bu Tebliğ kapsamında dökme olarak satışa arz edilen ürünlerin taşımasında ve depolamasında kullanılan un tankeri ve silolarının buğday unu ile temas eden yüzeyleri, Türk Gıda Kodeksi Gıda ile Temas Eden Madde ve Malzemeler Yönetmeliğine uygun, yeterli temizlik ve dezenfeksiyona izin veren madde ve malzemeden yapılır.
