@@ -1,0 +1,31 @@
+Dosyada mevcut belgelerin okunup incelenmesinden ve İETT Genel Müdürlüğü adına hukuk müşaviri Av. Süleyman BAYER ile Sayıştay Başsavcılığının sözlü açıklamaları dinlendikten sonra gereği görüşüldü:
+
+1575 sayılı ilamın mükerrer 19’uncu maddesinde İ.E.T.T. Genel Müdürlüğü ile yüklenici “Advanced Public Transport Systems By” arasında sözleşmesi 30.11.2006 tarihinde imzalanan 63.278.650 EURO bedelli “50 Adet Lastik Tekerlekli Tramvay Alımı” birim fiyat mal alımı işinde araçların zamanında teslim edilmemesi sonucu oluşan gecikme zammının yükleniciden tahsil edilmediği gerekçesiyle toplam 2.381.934,95 EURO’ya tazmin hükmolunmuştur.
+
+Dilekçiler dilekçelerinde, yüklenici APTS firmasının, teslimat programına uygun hareket etmesi için kurum tarafından 20/02/2009 tarih ve M.34.İBB.5.02.36.01./1948 sayı yazı ile uyarıldığını, İdari Şartnamenin 46. maddesinde "Gecikme halinde alınacak cezalar: yüklenici sözleşme ve termin programına uygun olarak malı süresinde teslim etmediği/ işi bitirmediği takdirde gecikilen her takvim günü için sözleşme bedelinin %0,01 (on binde bir) oranında gecikme cezası uygulanır" hükmü yer aldığını,  Yüklenici, ihale dokumanı eki teslimat programına göre Ağustos 2008 tarihinde teslimatı tamamlaması gerekirken, araçların tamamının teslimini 17 Temmuz 2009 tarihinde tamamlandığını, Şartname eki teslimat programında, teslimatın partiler halinde yapılması öngörüldüğünden oluşan gecikme cezasının hesaplanmasının, son aracın teslim tarihi olan 17 Temmuz 2009 tarihinden sonra yapıldığını, 9/10/2009 tarihinde ile gecikme cezasının ödenmesi için talepte bulunulduğunu, hesaplanan tutarın 19/10/2009 tarih ve 19282 nolu Muhasebe işlem fişi ile 120-gelirlerden Alacaklar hesabına borç, 600- Gelirler hesabına alacak kaydı yapıldığını, Bu durumun yükleniciye 24/11/2009 tarih M.34.İBB.5.02.30.00.090.09/3580-9431 sayılı yazı ile bildirildiğini, Yüklenici APTS firmasının bildirilen gecikme cezasına itiraz ettiğini, Yüklenicinin teslim süresi hükümleri dâhil sözleşmeye aykırılık nedeniyle oluşan diğer idare zararlarının tazmini amacıyla İstanbul 1. Asliye Ticaret Mahkemesinin 2010/613 esas sayılı dosyasında (Yeni İstanbul 16.Asliye Hukuk Mahkemesi 2011/249E ) alacağın tahsili için dava açtıklarını, Derdest olan davanın, bilirkişi aşamasında olduğunu, Sonuca göre gerekli işlemin yapılacağını, Ayrıca sözleşmeye aykırılık nedeniyle oluşan idare zararının tazmini için hakkında yasal yollara başvurulan yüklenicinin teminatının da idareye irat kaydedildiğini, geç teslim nedeni ile oluşan gecikme cezasının, yükleniciye yapılan ödemeden kesilmesinin, kredili yurt dışı alım olması sebebi ile mümkün olmadığını, Oluşan gecikme bedelinin yükleniciden tahsili için gerekli tüm girişimler yapıldığından tazmin hükmünün kaldırılmasını talep etmektedirler.
+
+Sayıştay Başsavcılığı “Her ne kadar Asliye Ticaret Mahkemesine açılan bir dava söz konusu ise de lehe verilmiş ve kesinleşmiş bir karar söz konusu olmadığı gibi hiçbir tahsilat da yapılmamıştır. Bu durum karşısında Daire Kararının onanmasına karar verilmesi mütalaa olunur.” Şeklinde görüş belirtmiştir.
+
+İdare ile Yüklenici arasında imzalanan Birim Fiyat Mal Alımı Tip Sözleşmesinin Malın/İşin Teslim Alma Şekli ve Şartları ile Teslim Programı başlıklı 11’inci maddesinde,
+
+“11.1.İşin Yapılma / Malın Teslim Edilme Yeri Teslim Yeri/Yerleri: Teslimat İncoterms 2000’e göre CIF İstanbul olarak yapılacaktır. Ancak İETT İşletmeleri Genel Müdürlüğü’nün göstereceği adrese anahtar teslimi olarak teslim edilecektir.
+
+11.2.İşe Başlama Tarihi: İşe başlama tarihi, İdaremizce açılacak gayrikabilirücu, teyidli bir akreditifin açılma tarihidir.
+
+……
+
+11.4.Teslimat Programı: Teslimat, İdaremizce kabul edilen ve firma teklifinde sunulan bu sözleşme eki teslimat programına göre olacaktır.
+
+11.5.Teslimat Programında Değişiklik Yüklenici, İdarece onaylanmış teslim programına aynen uymak zorundadır. Ancak İdarenin uygun görüşü ile teslim programında değişiklik yapılabilir. İdarece onaylanan bir süre uzatımı bulunduğu takdirde, yüklenici bu hususu kendisine tebliğ tarihinden başlamak üzere 10 gün içinde yeni duruma göre bir teslimat programı düzenlemek zorundadır.” Denilmektedir.
+
+Yine Sözleşmenin Gecikme Cezası başlıklı 17 nci maddesinde; “17.1.Gecikme halinde alınacak Cezalar: Yüklenici sözleşme ve temrin programına uygun olarak malı süresinde teslim etmediği/işi bitirmediği takdirde işin bitiminden itibaren gecikilen her takvim günü için sözleşme bedelinin % 0.01 (onbindebir) oranında gecikme cezası uygulanır.
+
+17.2.Gecikme cezası Yükleniciye ayrıca protesto çekmeye gerek kalmaksızın ödemelerden kesilir. Bu cezanın ödemelerden karşılanmaması halinde Yükleniciden ayrıca tahsil edilir.”denilmektedir.
+
+Yukarıdaki sözleşme hükümlerine göre yüklenici firma teslimat programına göre araçların tamamını 2008 Ağustos ayının sonuna kadar idare teslim etmesi gerekmekte iken araçların tamamının teslimatı 17 Temmuz 2009 tarihinde gerçekleştiği anlaşılmaktadır. Dolayısıyla 31 Ağustos 2008 ile 17 Temmuz 2009 tarihleri arasında 319 günlük bir gecikme sözkonusudur ve gecikilen her gün için sözleşme bedelinin % 0.01 (onbindebir) oranında gecikme cezası uygulanması gerekmektedir. Ancak, gecikmenin bir kısmının 2008 yılında, bir kısmının da 2009 yılında gerçekleştiği görülmektedir.
+
+Diğer taraftan KDV.’nin konusu, Ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesindeki teslim ve hizmetler olup, Herhangi bir teslim veya hizmetin karşılığı olarak ortaya çıkmayan tazminat ve benzeri ödemeler prensip olarak KDV'nin konusuna girmemektedir. Bu kapsamda, işin sözleşme şartlarına uygun yapılmaması, işin verilen süre içerisinde tamamlanmaması, sözleşmenin feshedilmesi gibi nedenlerle tazminat, cayma bedeli vb. adlarla yapılan cezai şart mahiyetindeki ödemeler herhangi bir teslim veya hizmetin karşılığı olmadığından KDV'nin konusuna girmemektedir.
+
+2008 yılı hesabı için gecikme cezasının hesabında 2008 yılında gecikilen günlerin hesaplamaya dahil edilmesi ve gecikme cezasına KDV eklenip eklenmeyeceği hususlarında yeniden değerlendirme yapılmak üzere 1575 sayılı ilamın mükerrer 19’uncu maddesiyle verilen hükmün BOZULARAK, dairesine TEVDİİNE,
+
+Karar verildiği 02.04.2013 tarihli ve 36890 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
