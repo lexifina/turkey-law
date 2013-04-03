@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4347",
+  "decision_date": "2013-04-03",
+  "title": "Boru Hatları ile Petrol Taşıma Anonim Şirketi (BOTAŞ) İletim Şebekesi İşleyiş Düzenlemelerine İlişkin Esaslar (ŞiD)\" kapsamında, 2011-2012-2013 yıllannda uygulanmak üzere alınmış olan 28/12/2010 tarih ve 2970 sayılı Kurul Kararının değiştirilmesine ilişkin",
+  "resmi_gazete_date": "2013-04-13",
+  "resmi_gazete_number": "28617",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eL6mQg2KTJs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eL6mQg2KTJs="
+  ],
+  "source_sha256": "61b19d2075c0350fb9cddaa97314e60fd12e79008b5a4561e3b0194345096fa6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-04-03",
+  "law_text_complete": false
+}
