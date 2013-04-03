@@ -3,4 +3,4 @@ Geçici Madde 18 – (Ek: 16/7/2008-5787/18 md.)
 –––––––––––––
 (1) Bu fıkranın “… bütçenin gelir ve gider hesapları ile ilişkilendirilmeksizin …” bölümü, Anayasa Mahkemesi’nin 30/12/2010 tarihli ve E.: 2008/84, K.: 2010/121 sayılı Kararı ile iptal edilmiştir.
 (2) Bu maddenin birinci fıkrasının “… bütçenin gelir ve gider hesapları ile ilişkilendirilmeksizin …” bölümü, Anayasa Mahkemesi’nin 30/12/2010 tarihli ve E.: 2008/84, K.: 2010/121 sayılı Kararı ile iptal edilmiştir.
-8294-3
+8294-4
