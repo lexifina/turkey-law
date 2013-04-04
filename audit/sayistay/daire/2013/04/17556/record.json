@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10233",
+  "decision_date": "2013-04-04",
+  "source_id": 17556,
+  "chamber": "1",
+  "ilam_number": "64",
+  "item_number": 13,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17556/",
+  "source_sha256": "ffee2935245c69422acdb2c5e44c527b53cde7c0cd2b4ce9ee664eec3e637b5a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
