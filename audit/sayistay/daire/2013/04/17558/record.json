@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10233",
+  "decision_date": "2013-04-04",
+  "source_id": 17558,
+  "chamber": "1",
+  "ilam_number": "64",
+  "item_number": 15,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17558/",
+  "source_sha256": "4be33cc5df246cff390e62ea003f00c8ff19d8b6cdf8818db1a95358d4da5e6d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
