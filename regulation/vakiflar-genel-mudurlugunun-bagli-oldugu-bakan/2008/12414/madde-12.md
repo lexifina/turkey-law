@@ -1,0 +1,5 @@
+İhale komisyonunun kurulması ve çalışma esasları
+MADDE 12 – (1) İhale komisyonu Bölge Müdürü tarafından biri başkan olmak üzere en az beş asil ve beş yedek üyeden oluşturulur. Komisyonda en az iki kişinin ihaleye konu işin ehli veya uzmanı, bir kişinin mali işlerden sorumlu olan veya bu işleri yapan Bölge Müdürlüğü personeli olması zorunludur.
+(2) İhale komisyonunun Bölge Müdürlüğü personelinden oluşturulması gerekmekte olup ihaleyi yapan Bölge Müdürlüğünde yeterli sayı veya nitelikte personel bulunmaması halinde, diğer bölge müdürlükleri veya kamu kurum ve kuruluşlarından komisyona üye alınabilir.
+(3) İhale komisyonu eksiksiz olarak toplanır ve kararlar çoğunlukla alınır. Komisyon üyeleri çekimser kalamazlar, muhalif kalan üye karşı oy gerekçesini kararın altına yazarak imzalamak zorundadır. Oylamada eşitlik oluşması halinde komisyon başkanının tercih ettiği yönde karar verilir. Komisyon başkan ve üyeleri oy ve kararlarından sorumludurlar.
+(4) İhale komisyonunun teşekkülüne onay verenler komisyonda başkan ya da üye sıfatıyla yer alamazlar.

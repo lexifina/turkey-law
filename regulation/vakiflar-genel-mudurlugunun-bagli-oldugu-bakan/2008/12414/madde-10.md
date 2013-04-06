@@ -1,0 +1,2 @@
+Restorasyon veya onarım bedelinin tespiti
+MADDE 10 – (1) Restorasyon veya onarım bedeli, işin özelliğine göre metraja dayalı keşiflerin Vakıflar Genel Müdürlüğü ile diğer ilgili kamu kurum ve kuruluşlarınca her yıl belirlenen birim fiyatları veya Bayındırlık ve İskan Bakanlığının Mimarlık ve Mühendislik Hizmet Bedellerinin Hesabında Kullanılacak Yapı Yaklaşık Birim Maliyetleri esas alınarak belirlenebilir. Bölge Müdürlüğü imkanları ile belirlenememesi halinde hizmet alımı ile de tespit edilebilir.

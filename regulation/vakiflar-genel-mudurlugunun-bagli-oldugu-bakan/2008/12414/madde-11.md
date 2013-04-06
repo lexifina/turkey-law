@@ -1,0 +1,3 @@
+İhale onay belgesi
+MADDE 11 – (1) İhalesi yapılacak her iş için bir onay belgesi hazırlanır. Bölge Müdürü tarafından onaylanan bu belgede; ihale konusu olan işin nevi, niteliği, restorasyon veya onarım bedeli ve asgari kira bedeli, ihalelerde uygulanacak usul, yapılacaksa ilanın şekli, geçici teminat miktarı ile belli istekliler arasında kapalı teklif veya pazarlık yöntemleri ile ihale edilecek işlerde ihaleye katılacak isteklilerin kimler olduğu belirtilir.
+(2) Onay belgesinde ayrıca, şartname ve eklerinin nerede görüleceği ve nasıl temin edileceği ile bir bedel karşılığında verilip verilemeyeceği, bedel karşılığı verilecekse bedelin ne olacağı da gösterilir.

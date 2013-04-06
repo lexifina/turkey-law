@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.12414",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VAKIF KÜLTÜR VARLIKLARININ RESTORASYON VEYA ONARIM KARŞILIĞI KİRAYA VERİLMESİ İŞLEMLERİNİN USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "12414",
+  "issuer": "Vakıflar Genel Müdürlüğünün bağlı olduğu Bakan",
+  "issuer_slug": "vakiflar-genel-mudurlugunun-bagli-oldugu-bakan",
+  "path": "regulation/vakiflar-genel-mudurlugunun-bagli-oldugu-bakan/2008/12414",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12414&MevzuatTertip=5",
+  "source_sha256": "1e99162748833b9dba5a83fe1fb32ea10ecc1731c1f9ec92dc9e6eb90e213736",
+  "source_bytes": 138896,
+  "published": "2008-09-10",
+  "gazette": "26993",
+  "in_force": "2013-04-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/4/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-04-06",
+      "RG-6/4/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-04-06",
+      "6/4/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-03-30",
+      "RG-30/3/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-03-30",
+      "30/3/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayınlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4260,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

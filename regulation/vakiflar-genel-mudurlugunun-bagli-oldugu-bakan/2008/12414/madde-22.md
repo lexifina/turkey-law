@@ -1,0 +1,2 @@
+Teklif mektupları
+MADDE 22 – (1) Bölge Müdürlüğünce hazırlanacak ve şartname ekinde yer alacak teklif mektuplarında, isteklinin adı, soyadı, imzası, açık adresi ile şartname ve eklerinin tamamen okunup kabul edildiğinin belirtilmesi, teklif edilen kira bedelinin rakam ve yazı ile açık olarak yazılması zorunludur. Üzerinde kazıntı, silinti veya düzeltme bulunması nedeniyle Bölge Müdürlüğünce anlaşılamayan veya tereddüde düşülen teklif mektupları reddedilerek hiç yapılmamış sayılır.

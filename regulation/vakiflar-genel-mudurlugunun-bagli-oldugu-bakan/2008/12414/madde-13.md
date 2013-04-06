@@ -1,0 +1,4 @@
+İhale işlem dosyasının düzenlenmesi
+MADDE 13 – (1) İhale yapılacak işler için bir işlem dosyası düzenlenir. Bu dosyada onay belgesi, restorasyon veya onarım bedeline ilişkin hesap cetveli, şartname ve ekleri, varsa projeler, ilan metinleri, istekliler tarafından sunulan başvurular ile isteklilere yapılan bildirimlere ilişkin tebligat ve işin niteliğine göre gerekli görülen diğer belgeler bulunur.
+(2) Gerekli incelemeyi yapmalarını sağlamak amacıyla ihale işlem dosyasının birer örneği, ilan veya daveti izleyen üç gün içerisinde Bölge Müdürlüğü tarafından ihale komisyonu üyelerine verilir.
+(3) Şartnamelerde tekniğe uygun olmayan veya gerçekleşmesi mümkün bulunmayan kayıt ve şartların olduğu anlaşıldığı takdirde komisyon bunları bir tutanakla tespit ederek düzelttirilmesi amacıyla ihaleyi erteler. Bu iş için ilan yapılmış ise ilanı geçersiz sayılmadan ve yeniden aynı şekilde ilan olunmadan ihale yapılamaz.
