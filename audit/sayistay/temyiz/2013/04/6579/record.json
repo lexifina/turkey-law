@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "36943",
+  "decision_date": "2013-04-09",
+  "source_id": 6579,
+  "chamber": "4",
+  "file_number": "37095",
+  "account_year": "2008",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/6579/",
+  "source_sha256": "011ea7463717c4069987ea81b90c780f8644e23587307cbef6925094187ac17a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
