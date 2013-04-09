@@ -1,0 +1,3 @@
+Kira Tahsilatı Yapılmaması.
+
+…Büyükşehir Belediyesi tarafından şehrin estetiğini düzeltmek amacıyla 2010 yılında 26 ve 2011 yılında ise 75 adet modern tip taksi durağı yapılmasına ve yapılan bu taksi duraklarının 252 Binalar Hesabına kaydedilmiş olmasına rağmen, herhangi bir kira tahsilatı yapılmaması nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda …TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı … tarih ve … seri nolu tahsilat makbuzları ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
