@@ -1,0 +1,3 @@
+Gecikme Faizi Alınmaması.
+
+… Tic. A.Ş.’ye “Belediyelerin Arsa, Konut ve İşyeri Üretimi, Tahsisi, Kiralaması ve Satışına Dair Genel Yönetmelik” hükümleri uyarınca ihale edilen … TL bedelli “… parsel nolu arsanın satışı” işinde arsa bedelinin geç tahsil edilmesine rağmen gecikme faizinin alınmaması nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda … TL tutarında kamu zararına neden olunduğu görülmüş ise de; bahse konu bu kamu zararının … TL’si … tarih ve ….numaralı tahsilat makbuzu ile, geriye kalan … TL’si ise … tarih ve … numaralı dekont ile ahizi … Tic. A.Ş.’den tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
