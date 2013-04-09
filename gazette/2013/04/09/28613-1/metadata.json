@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-04-09",
+  "issue": "28613",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2013/4541 Kocaeli İli, Darıca İlçesi, Cami Mahallesinde Bulunan Bazı Taşınmazların Darıca Belediyesi Tarafından Acele Kamulaştırılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130409-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130409.htm",
+  "index_sha256": "946d0c9b3f823bca2d290079616624b7296edfc3f36b8adc2bca29bdb8366b94",
+  "index_header": "9 Nisan 2013 ... 28613 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130409.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
