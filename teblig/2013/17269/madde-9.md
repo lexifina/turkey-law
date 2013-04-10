@@ -1,0 +1,3 @@
+Geçici ihracatta aktarma işlemleri
+MADDE 9 – (1) Bakanlık yurt dışı teşkilatının bulunduğu/yetki sahibi olduğu ülkelere geçici olarak ihraç edilen makine, teçhizat ve ekipmanın yurda geri getirilmeksizin aynı ya da farklı bir ülkede üstlenilen başka bir projede kullanılması amacıyla aktarma başvurusu yapılması öncesinde, aktarma yapılacak projenin Elektronik Başvuru Sistemi üzerinde doldurulan İş Alındı Belgesinin Bakanlık yurt dışı teşkilatınca elektronik ortamda onaylanması gerekir. Başvurular bir önceki izin süresinden bağımsız olarak Genel Müdürlük tarafından değerlendirilir.
+(2) Bakanlık yurt dışı teşkilatının bulunduğu/yetki sahibi olduğu yerlerden yapılacak aktarma başvuruları Elektronik Başvuru Sistemi uygulaması üzerinden gerçekleştirilir.

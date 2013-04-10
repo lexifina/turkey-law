@@ -1,0 +1,2 @@
+Geçici ihracatta ek süre talepleri
+MADDE 14 – (1) Bakanlık yurt dışı teşkilatının bulunmadığı/yetki sahibi olmadığı ülkelerde iş yapan firmaların üstlendikleri işlerde kullanmak üzere geçici olarak ihraç ettikleri makine, teçhizat ve ekipmanın yurt dışında kalış süresi başkonsolosluklarca/büyükelçilik konsolosluk şubelerince onaylanan İş Uzatma Belgesi ile firmaya verilen geçici ihraç izin süresinin bitiminden onbeş gün önce başvuruda bulunulması kaydıyla Genel Müdürlük tarafından uzatılabilir.

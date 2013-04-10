@@ -1,0 +1,2 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin yürürlüğe girmesinden önce başlayan geçici ihracat, süre uzatımı, aktarma, satış ve kesin ithalat işlemleri ile bu Tebliğin yürürlüğe girmesinden önce alınmış bulunan İş Alındı Belgelerine dayalı işlemler hakkında Yurt Dışı Müteahhitlik ve Teknik Müşavirlik Hizmetleri Kapsamında Yapılacak İhracat ve İthalata İlişkin Tebliğ (Anlaşmalar: 2008/1) hükümleri uygulanır.

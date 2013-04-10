@@ -1,0 +1,3 @@
+Geçici ihracatta ek süre talepleri
+MADDE 8 – (1) Yurt dışında iş yapan firmaların, üstlendikleri işlerde kullanmak üzere geçici olarak ihraç ettikleri makine, teçhizat ve ekipmanın yurt dışında kalış süresi Genel Müdürlükçe belirlenir. Bakanlık yurt dışı teşkilatının bulunduğu/yetki sahibi olduğu ülkelerde iş yapan firmaların üstlendikleri işlerde kullanmak üzere geçici olarak ihraç ettikleri makine, teçhizat ve ekipmanın yurt dışında kalış süresi, firmaya verilen geçici ihraç izin süresinin bitiminden önce başvurulması kaydıyla Genel Müdürlük tarafından uzatılabilir.
+(2) Geçici ihracatta ek süre talebine yönelik başvurular; Elektronik Başvuru Sistemi uygulaması üzerinden gerçekleştirilir.

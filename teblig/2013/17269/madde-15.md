@@ -1,0 +1,2 @@
+Geçici ihracatta aktarma işlemleri
+MADDE 15 – (1) Yurt dışına geçici olarak ihraç edilen makine, teçhizat ve ekipmanın yurda geri getirilmeksizin, Bakanlık yurt dışı teşkilatının bulunmadığı/yetki sahibi olmadığı bir ülkede üstlenilen başka bir projede kullanım amacıyla aktarma başvuruları, aktarma yapılacak projeye ait, başkonsolosluklarca/büyükelçilik konsolosluk şubelerince onaylı İş Alındı Belgesi ile doğrudan Genel Müdürlüğe yapılır.

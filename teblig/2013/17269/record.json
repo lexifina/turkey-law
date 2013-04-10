@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.17269",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YURT DIŞI MÜTEAHHİTLİK VE TEKNİK MÜŞAVİRLİK HİZMETLERİ KAPSAMINDA YAPILACAK İHRACAT VE İTHALATA İLİŞKİN TEBLİĞ (SERBEST BÖLGELER: 2013/1)",
+  "number": "17269",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2013/17269",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17269&MevzuatTertip=5",
+  "source_sha256": "88ece1dc1e2bbc7b37957ca512ad84fb8600ba8a0c197b4f3c3f2e830b106927",
+  "source_bytes": 39404,
+  "published": "2013-04-10",
+  "gazette": "28614",
+  "in_force": "2013-04-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.04.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2138,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.17269%20ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
