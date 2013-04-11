@@ -62,4 +62,5 @@ b) Ülkenin mali çıkarlarını tehlikeye düşüren,
 c) Ülkenin güvenlik ve emniyetine, kamu güvenliği ve kamu sağlığına, çevreye veya tüketicilere yönelik tehdit oluşturan,
 bir olayın ortaya çıkma ihtimalini;
 25. (Ek: 18/6/2009-5911/1 md.) “Risk yönetimi” deyimi, riskin sistematik olarak tanımlanması ve riskin en aza indirilmesi için gerekli olan tüm önlemlerin uygulanması amacıyla ulusal ve uluslararası kaynak ve stratejilere dayanılarak veri ve bilgi toplanmasını, risk analizi ve değerlendirilmesini, alınacak önlemlerin belirlenmesini ve uygulanmasını, bu sürecin işleyiş ve sonuçlarının düzenli olarak izlenmesi ve gözden geçirilmesini;
+26. (Ek: 28/3/2013-6455/2 md.) “Gümrüklenmiş değer” deyimi, Uluslararası Kıymet Sözleşmesine göre belirlenecek; ithal eşyası için eşyanın CIF kıymeti ile gümrük vergileri toplamını, ihraç eşyası için FOB kıymeti ile gümrük vergileri toplamını;
 İfade eder.

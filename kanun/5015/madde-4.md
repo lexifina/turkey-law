@@ -14,4 +14,6 @@ h) Esas faaliyetlerine ilişkin tip sözleşme örneklerini ve bunlarda yapılac
 ı) Piyasa faaliyetlerinde, Kurulun belirleyeceği teknik düzenlemelere uygun akaryakıt sağlamak,
 j) İletim ve depolamada kapasite kısıtları dışında kendilerinden yapılan talepleri ayrım gözetmeksizin karşılamak,
 k) Eşit durumdaki alıcılara (kategorilere), eşit hak ve yükümlülük tanımak, farklı şartlar sürmemek,
+l) (Ek: 28/3/2013-6455/37 md.) Kaçak akaryakıt veya sahte ulusal marker elde etmeye, satmaya ya da herhangi bir piyasa faaliyetine konu etmeye yarayacak şekilde lisansa esas teşkil eden belgelerde belirlenenlere aykırı sabit ya da seyyar tank, düzenek veya ekipmanı bulundurmamak,
 İle yükümlüdür.
+8646

@@ -4,6 +4,6 @@ a) Bakanlık: Sanayi ve Ticaret Bakanlığını,
 b) Ortak: Kooperatifler açısından üretici ortaklarını, birlikler açısından bağlı kooperatifleri,
 c) Kooperatif: Tarım satış kooperatiflerini,
 d) Birlik: Tarım satış kooperatifleri birliklerini,
-e) Örnek anasözleşme: Bu Kanuna göre Bakanlıkça hazırlanan ve Bakanlar
-Kurulunca kabul edilen kooperatif ve birlik örnek anasözleşmelerini,
+e) (Mülga: 28/3/2013-6455/30 md.)
 İfade eder.
+7810

@@ -1,8 +1,9 @@
 Ulusal marker
-Madde 18- Rafinericiler ve dağıtıcılar yurt içinde pazarlayacakları akaryakıta, rafineri çıkışında veya gümrük girişinde kurumun belirleyeceği şart ve özellikte marker ekleyeceklerdir.
-Rafinerici ve dağıtıcılar, her yıl Şubat ayı içinde o yıla ait pazarlama projeksiyonlarını Kuruma bildirecek ve bu projeksiyona göre Kurumca temin edilecek ulusal marker yine Kurumca belirlenecek usul ve esaslara göre rafinerici ve dağıtıcılara akaryakıta eklenmek üzere teslim edilecektir.
+Madde 18- (Değişik birinci fıkra: 28/3/2013-6455/43 md.) Yurt içinde pazarlanacak akaryakıta veya akaryakıtla harmanlanan ürünlere rafineri çıkışında veya serbest dolaşıma girişinde rafinericilerce ve dağıtıcılarca Kurumun belirleyeceği şart ve özellikte ulusal marker eklenir. Biyoyakıt ilk üretim merkezleri ile tasfiye edilecek akaryakıt için ulusal marker ekleme noktaları Kurum tarafından belirlenir. Ulusal marker ekleme işlemleri Kurumca yetki verilen bağımsız gözetim firmalarının nezaretinde Kurumun belirleyeceği usul ve esaslara göre yapılır. Ulusal marker ekleme işlemlerinde meydana gelecek usulsüzlüklerden lisans sahibi ile bağımsız gözetim firmaları müştereken sorumludur.
+(Değişik ikinci fıkra: 28/3/2013-6455/43 md.) Ulusal marker eklemekle yükümlü lisans sahipleri, her yıl kasım ayı içinde takip eden yıla ait pazarlama projeksiyonlarını Kuruma bildirir ve bu projeksiyona göre Kurumca temin edilecek ulusal marker, Kurumca belirlenecek usul ve esaslara göre akaryakıta eklenmek üzere ilgili lisans sahiplerine teslim edilir.
 Kurum, ulusal marker ve idarî ve teknolojik yöntemler ile bir denetim sistemini kurar. Valilikler, görevli elemanların başvurusu halinde denetim amaçlı alınacak numunelerin kullanıcı ve bayilerden alınmasını ve emniyetini sağlamakla yükümlüdür.
-Numunelerde yapılacak testlerde ulusal markerin gerektiği şart ve seviyede bulunmadığı ve alınan numunelerin laboratuar analizi ile teknik düzenlenmelere uymadığı tespit edildiğinde, 19 uncu madde hükümleri uygulanır.
+(Değişik dördüncü fıkra: 28/3/2013-6455/43 md.) Numunelerde yapılacak testlerde ulusal markerin gerektiği şart ve seviyede bulunmadığı laboratuvar analizi ile tespit edildiğinde, 19 uncu madde hükümleri uygulanır.
+8654
 İKİNCİ KISIM
 Çeşitli Hükümler
 BİRİNCİ BÖLÜM

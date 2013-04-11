@@ -9,7 +9,7 @@ f) Denetlenecek şirketin defterlerinin tutulmasında veya finansal tabloların�
 g) (a) ilâ (f) bentlerinde yer alan şartları taşıdığı için denetçi olamayan bir denetçinin nezdinde çalışıyorsa,
 h) Son beş yıl içinde denetçiliğe ilişkin meslekî faaliyetinden kaynaklanan gelirinin tamamının yüzde otuzundan fazlasını denetlenecek şirkete veya ona yüzde yirmiden fazla pay ile iştirak etmiş bulunan şirketlere verilen denetleme ve danışmanlık faaliyetinden elde etmişse ve bunu cari yılda da elde etmesi bekleniyorsa,
 denetçi olamaz.
-(2) (Değişik: 26/6/2012-6335/19 md.) On yıl içinde aynı şirket için toplam yedi yıl denetçi olarak seçilen denetçi üç yıl geçmedikçe denetçi olarak yeniden seçilemez. Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu bu süreleri kısaltmaya yetkilidir.
+(2) (Değişik: 26/6/2012-6335/19 md.) On yıl içinde aynı şirket için toplam yedi yıl denetçi olarak seçilen denetçi üç yıl geçmedikçe denetçi olarak yeniden seçilemez. (Değişik ikinci cümle: 28/3/2013-6455/81 md.) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu bu fıkranın uygulanmasına ilişkin usul ve esasları belirlemeye ve bu fıkrada belirtilen süreleri kısaltmaya yetkilidir.
 (3) Denetçi, denetleme yaptığı şirkete, vergi danışmanlığı ve vergi denetimi dışında, danışmanlık veya hizmet veremez, bunu bir yavru şirketi aracılığıyla yapamaz.
 11066
 (4) (Mülga: 26/6/2012-6335/19 md.)

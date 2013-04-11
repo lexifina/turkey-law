@@ -11,7 +11,7 @@ g) Okur-yazar olmak,
 Şartlarını haiz olanlar aday olabilir.
 Yerli ve yabancı tüzel kişilerin tescilli ana sözleşmelerinde temsil ve bağlayıcı işlemler yapma yetkisi verilen ve yukarıdaki özellikleri taşıyan gerçek kişi temsilcileri, bu Kanun hükümlerine göre oda, borsa ve Birlik organlarına seçilebilirler.
 8807
-Seçilme yeterliliğini kaybedenlerin oda, borsa ve Birlikteki görevleri sona erer.
+(Değişik dördüncü fıkra: 28/3/2013-6455/48 md.) Seçilme yeterliliği bulunmadığı sonradan anlaşılanlar ile seçilme yeterliliğini kaybedenlerin oda, borsa ve Birlik organlarındaki görevleri sona erer.
 Organların seçimlerine katılma niteliklerine ilişkin diğer hususlar Birlikçe hazırlanacak yönetmelikle düzenlenir.
-(Değişik altıncı fıkra: 30/7/2008 – 5795/3 md.) Oda ve borsa üyelerinin seçme ve seçilme haklarını kullanabilmeleri için şirketin; sahibi, ortağı, yönetim kurulu üyesi, genel müdürü, murahhas azası seviyesinde üst düzey yöneticisi olmaları, şirketi temsil ile bağlayıcı işlem yapmaya yetkili olmaları ve bu durumun seçimden en az altı ay öncesini kapsaması şarttır.
-Üye şirketin münfesih olması, işyeri ve merkez kaydını başka bir odanın çalışma alanına taşıması halinde, oda üyeliği ile birlikte seçilmiş olduğu oda, borsa ve Birlik organlarındaki görevi sona erer.
+(Değişik altıncı fıkra: 28/3/2013-6455/48 md.) Oda ve borsalarda seçilme hakkının kullanılabilmesi için; ticaret şirketlerinde gerçek kişi temsilcinin şirketin ortağı ve/veya yöneticisi, gerçek kişiler ve ticaret şirketleri dışındaki tüzel kişilere ait ticari işletmelerde ise işletmenin sahibi veya temsilcisi olması ve şirketi ya da işletmeyi temsil ile bağlayıcı işlem yapmaya yetkili bulunması, bu durumun seçimden en az altı ay öncesini kapsaması şarttır. Bu fıkra kapsamında belirtilen şartlar şubeleri temsile yetkili kılınanlar için de aranır.
+(Değişik yedinci fıkra: 28/3/2013-6455/48 md.) Üye şirketin münfesih olması, şirketin veya işletmenin işyerini veya merkez kaydını başka bir oda ya da borsanın çalışma alanına taşıması halinde, üyelik ile birlikte seçilmiş olduğu oda, borsa ve Birlik organlarındaki görevi kendiliğinden sona erer.
