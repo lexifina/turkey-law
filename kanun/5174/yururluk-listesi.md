@@ -11,3 +11,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 6362 | 53 | 30/12/2012
 Anayasa Mahkemesi’nin 10/1/2013 tarihli ve E.: 2012/128, K.: 2013/1 sayılı (Yürürlüğü Durdurma) Kararı | 16, 18, 38, 40, 63, 65, Geçici Madde 10 | 17/1/2013
 Anayasa Mahkemesi’nin 10/1/2013 tarihli ve E.: 2012/128, K.: 2013/7 sayılı İptal Kararı | 16, 18, 38, 40, 63, 65, Geçici Madde 10 | 23/3/2013
+6455 | 83, 100, Geçici Madde 17 | 11/4/2013

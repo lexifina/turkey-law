@@ -10,12 +10,12 @@ a) Bakanlar Kurulunca kabul edilen Türk Gümrük Tarife Cetvelini,
 b) Tamamen veya kısmen Türk Gümrük Tarife Cetveline dayanan veya bu cetvele alt açılımlar ekleyen ve eşya ticaretine ilişkin tarife önlemlerinin uygulanması için tespit edilen diğer cetvelleri,
 c) Türk Gümrük Tarifesinin kapsadığı eşyaya uygulanacak;
 - Gümrük vergi oranlarını,
--Tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde alınan ithalat vergilerini, (2)
+- Tarım politikası veya tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde alınan ithalat vergilerini, (2)
 d) Türkiye'nin bazı ülkeler veya ülke grupları ile yaptığı tercihli bir tarife uygulaması gerektiren anlaşmalarda yer alan tercihli tarife uygulamalarını,
 e) Türkiye tarafından tek taraflı olarak bazı ülkeler, ülke grupları veya toprak parçaları için tanınan tercihli tarife uygulamalarını,
 –––––––––––
-(1) 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci maddesiyle; bu bentte yer alan “fıkrasında” ibaresi “bendinde” şeklinde değiştirilmiş ve metne işlenmiştir.
-(2) 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci maddesiyle; bu maddenin birinci fıkrasında yer alan “doğduğu” ibaresi “başladığı”, üçüncü fıkrasının (c) bendinde yer alan “işlenmiş tarım ürünleriyle ilgili özel düzenlemeler çerçevesinde alınan ithalat vergilerini” ibaresi “tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde alınan ithalat vergilerini” şeklinde değiştirilmiş ve metne işlenmiştir.
+(1) 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci maddesiyle; bu bentte yer alan “fıkrasında” ibaresi “bendinde”şeklinde değiştirilmiş ve metne işlenmiştir.
+(2) 18/6/2009 tarihli ve 5911 sayılı Kanunun 67 nci maddesiyle; bu maddenin birinci fıkrasında yer alan “doğduğu” ibaresi “başladığı”, üçüncü fıkrasının (c) bendinde yer alan “işlenmiş tarım ürünleriyle ilgili özel düzenlemeler çerçevesinde alınan ithalat vergilerini” ibaresi “tarım ürünlerinin işlenmesi sonucu elde edilen bazı ürünlere uygulanan özel düzenlemeler çerçevesinde alınan ithalat vergilerini”şeklinde değiştirilmiş ve metne işlenmiştir.
 7686-1
 f) İthalat vergilerinde, bazı eşyaya şartlı olarak uygulanacak muafiyet veya indirim uygulamalarını,
 g) Yukarıdakilerin dışında kalan diğer tarife uygulamalarını,

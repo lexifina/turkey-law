@@ -21,3 +21,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 Anayasa Mah.’nin E.: 2010/118, K.: 2011/170 sayılı Kararı | İşlenemeyen Hüküm (5838 sayılı Kanunun Geçici 3 üncü Maddesi) | 19/5/2012
 6322 | 11, 12/2 ve (IV) sayılı cetvel 12/3 | 15/6/2012 1/1/2013
 6408 | Geçici Madde 5 | 1/1/2013 tarihinden geçerli olmak üzere 31/1/2013
+6455 | 7, 13 | 11/4/2013
