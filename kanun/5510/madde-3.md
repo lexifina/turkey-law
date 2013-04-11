@@ -33,7 +33,7 @@ c) Geçiminin genel sağlık sigortalısı tarafından sağlandığı Kurumca be
 24) Aile hekimi: Sağlık Bakanlığı tarafından aile hekimi olarak yetkilendirilen ve Kurum ile sözleşme yapmış hekimleri,
 25) Sağlık hizmeti sunucusu: Sağlık hizmetini sunan ve/veya üreten; gerçek kişiler ile kamu ve özel hukuk tüzel kişilerini ve bunların tüzel kişiliği olmayan şubelerini,
 26) Katılım payı: Sağlık hizmetlerinden yararlanabilmek için, genel sağlık sigortalısı veya bakmakla yükümlü olduğu kişiler tarafından ödenecek tutarı,
-27) Sığınmacı ve Vatansız: İçişleri Bakanlığı tarafından sığınmacı veya vatansız olarak kabul edilen kişileri,
+27) (Değişik: 4/4/2013-6458/123 md.) Uluslararası koruma başvurusu veya statüsü sahibi ve vatansız kişi: İçişleri Bakanlığı tarafından başvuru sahibi, mülteci, ikincil koruma veya şartlı mülteci statüsü sahibi veya vatansız olarak tanınan kişileri,
 28) Peşin sermaye değeri: Kurumca, bu Kanunun ilgili maddelerinde belirtilen giderlerin yaş, kesilme ihtimali ve Kurumca belirlenecek iskonto oranı dikkate alınarak hesaplanan tutarı,
 29) (Değişik: 17/4/2008-5754/1 md.) Güncelleme katsayısı: Her yılın Aralık ayına göre Türkiye İstatistik Kurumu tarafından açıklanan en son temel yıllı tüketici fiyatları genel indeksindeki değişim oranının % 100’ü ile sabit fiyatlarla gayri safi yurtiçi hasıla gelişme hızının % 30’unun toplamına (1) tam sayısının ilâve edilmesi sonucunda bulunan değeri,
 30) (Ek: 17/4/2008-5754/1 md.) Vazife malûllüğü: Bu Kanunun 47 nci maddesinde tarif edilen vazife ve/veya harp malûllüğü hallerini,
