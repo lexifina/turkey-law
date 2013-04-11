@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-04-11",
+  "issue": "28615",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Türk Gıda Kodeksi Distile Alkollü İçkiler Analiz Metotları Tebliği (No: 2013/11)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130411-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130411.htm",
+  "index_sha256": "3538e3236c0c72dbe019a4752abbf2bf1b70bbb7e12ff2c684d27489a7a4fb4c",
+  "index_header": "11 Nisan 2013 ... 28615 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130411.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
