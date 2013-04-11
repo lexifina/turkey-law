@@ -1,0 +1,36 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2013/12",
+  "date": "2013-04-11",
+  "title": "SPK Haftalık Bülteni 2013/12",
+  "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_12.pdf",
+  "source_sha256": "14318b99f8a38c3548f6f9a4e8f557b7f5422b210167a029a9b6a5de447d2cc8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "C. YENİ FAALİYET İZİNLERİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "C. YENİ FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_12.pdf"
+    },
+    {
+      "heading": "E. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_12.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
