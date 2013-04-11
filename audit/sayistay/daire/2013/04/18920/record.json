@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "14",
+  "decision_date": "2013-04-11",
+  "source_id": 18920,
+  "chamber": "5",
+  "ilam_number": "54",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18920/",
+  "source_sha256": "e546f4968fbf609e9807f49a7cc7730b1c45e031b1ee33395ff264fc41871b46",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
