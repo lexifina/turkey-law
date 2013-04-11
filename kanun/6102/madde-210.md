@@ -5,5 +5,5 @@ MADDE 210- (Değişik: 26/6/2012-6335/13 md.)
 (3) Kamu düzenine veya işletme konusuna aykırı işlemlerde veya bu yönde hazırlıklarda ya da muvazaalı iş ve faaliyetlerde bulunduğu belirlenen ticaret şirketleri hakkında, özel kanunlardaki hükümler saklı kalmak kaydıyla, Gümrük ve Ticaret Bakanlığınca, bu tür işlem, hazırlık veya faaliyetlerin öğrenilmesinden itibaren bir yıl içinde fesih davası açılabilir.
 –––––––––––––––––––––
 (1) 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “işlem denetçisi,” ibaresi madde metninden çıkarılmıştır.
-(2) Bu madde başlığı “H) Sanayi ve Ticaret Bakanlığının düzenleme ve denetleme yetkisi” iken, 26/6/2012 tarihli ve 6335 sayılı Kanunun 13 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(2) Bu madde başlığı “H) Sanayi ve Ticaret Bakanlığının düzenleme ve denetleme yetkisi” iken, 26/6/2012 tarihli ve 6335 sayılı Kanunun 13 üncü maddesiyle metne işlendiği şekilde değiştirilmişitir.
 11028

@@ -1,4 +1,4 @@
-Madde 28 – İthal eşyasının fiilen ödenen veya ödenecek fiyatından ulanıdilebilmeleri koşuluyla aşağıdaki giderler gümrük kıymetine dahil edilmez:
+Madde 28 – İthal eşyasının fiilen ödenen veya ödenecek fiyatından ayırdedilebilmeleri koşuluyla aşağıdaki giderler gümrük kıymetine dahil edilmez:
 a) Eşyanın, Türkiye Cumhuriyeti Gümrük Bölgesi ile Türkiye’nin anlaşmalarla dahil olduğu gümrük birliği gümrük bölgelerine giriş yerine varışından sonra yapılan nakliye ve sigorta giderleri,
 b) Sınai tesis, makina veya teçhizat gibi, ithal eşyası için ithalattan sonra yapılan inşa, kurma, montaj, bakım veya teknik yardıma ilişkin giderler, (2)
 c) İthal eşyasının satışıyla ilgili olarak bir finansman anlaşması uyarınca alıcı tarafından üstlenilen faiz giderleri;

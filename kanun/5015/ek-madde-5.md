@@ -1,5 +1,2 @@
 Kaçak petrol ile ilgili ceza hükümleri
-Ek Madde 5- (Ek: 25/1/2007-5576/3 md.)
-Kaçak petrolü satışa arz eden, satan, bulunduran, bu özelliğini bilerek ticarî amaçla satın alan, taşıyan veya saklayan kişi, iki yıldan beş yıla kadar hapis cezası ve yirmibin güne kadar adlî para cezası ile cezalandırılır. Kaçak petrolün ve kaçakçılıkta kullanılan suç araç ve gereçlerinin müsaderesine de hükmolunur.
-Ulusal markeri yetkisiz olarak üreten, satışa arzeden, satan, yetkisiz kişilerden satın alan, kabul eden, bu özelliğini bilerek nakleden veya bulunduran kişi, iki yıldan beş yıla kadar hapis ve yirmibin güne kadar adlî para cezası ile cezalandırılır. Ulusal markerin kimyasal özelliklerini taşımasa bile, bu madde yerine kullanılmak amacıyla üretilen kimyasal terkipler hakkında da bu fıkra hükmü uygulanır.
-Kanunen daha ağır cezayı gerektirmeyen hallerde; Kurum tarafından, ek 3 üncü maddenin birinci fıkrasına aykırı hareket edenlere, tasfiye edilen kaçak petrolün vergiler dahil satış bedelinin üç katı tutarında ayrıca idarî para cezası verilir.
+Ek Madde 5- (Ek: 25/1/2007-5576/3 md.; Mülga: 28/3/2013-6455/47 md.)
