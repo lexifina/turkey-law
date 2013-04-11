@@ -1,3 +1,0 @@
-Deniz taşıtları
-MADDE 7 – (1) Hukuken geçerli bir mazereti olmadığı halde, izinsiz olarak gümrük bölgesine girerek sahile veya bir başka gemiye yanaşan geminin kaptanı, gemide yasak eşya ya da yükleme veya taşıma belgelerinde yer almayan eşya bulunması hallerinde, bu Kanundaki kaçakçılık suçuna ilişkin hükümlere göre cezalandırılır.
-(2) Yabancı ülkelerden geldiği halde geçerli neden olmaksızın, belgelerinin gösterdiği rota dışında Türkiye karasularında rastlanan gayrisafî ikiyüz tonilato hacminden aşağı taşıtların yüküne elkonulur. Yükü bulunmadığı halde, yükü olmadığını veya başka bir limana çıkarıldığını veya avarya olduğunu kanıtlayamayan gemi kaptan veya acentesine, tonilato başına yüz Türk Lirası idarî para cezası verilir.
