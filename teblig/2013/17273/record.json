@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.17273",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ZEYTİN LİSANSLI DEPO TEBLİĞİ",
+  "number": "17273",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2013/17273",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17273&MevzuatTertip=5",
+  "source_sha256": "cc9d005443dfa69286bcbe161700245d2d214ab990db0ca00f4255e16c41df8f",
+  "source_bytes": 27725,
+  "published": "2013-04-12",
+  "gazette": "28616",
+  "in_force": "2013-04-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.04.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1523,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,3 @@
+Zeytinin depolanması ve blok ürün senedi
+MADDE 9 – (1) Mevzuatına uygun olarak tartım işlemi ile analiz ve sınıflandırması yapılmış zeytin lisanslı depoya kabul edilir. Zeytin, tartım ve analizi yapılana kadar, depolanmış zeytinlerden ayrı olarak bunlar için ayrılmış farklı bölümlere, yirmi dört saat içinde analiz ve sınıflandırması yapılmak kaydıyla konulabilir.
+(2) Depolanan zeytinin her bir 1.000 kg’ı için ayrı bir ürün senedi düzenlenir. Mudinin talebi ve lisanslı depo işletmesinin kabulü halinde, 1.000 kg’ı aşan parti halindeki zeytinlerin toplam miktarı için blok halinde tek ürün senedi düzenlenebilir. Bu durumda, blok ürün senedi üzerine parti zeytinin toplam ağırlığı yazılır.

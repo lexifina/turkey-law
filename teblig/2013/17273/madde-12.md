@@ -1,0 +1,6 @@
+Kalite ve kalibraj kaybı ile prim ve indirim tarifesi
+MADDE 12 – (1) Karıştırılarak depolanan zeytinin, lisanslı depo işletmesince her hasat dönemi öncesinde Bakanlığın onayı alınıp ilan edilen cetveldeki kabul edilebilir kalite ve kalibraj kaybı değerleri içerisinde geri verilmesi esastır. Ortaya çıkabilecek kabul edilemez kalite ve kalibraj farklılıkları ise prim ve indirim tarifesine göre tazmin edilir.
+(2) Zeytinin mudiye tesliminde kabul edilemez kalite ve kalibraj farklılıkları çıkmış ve bunlar prim ve indirim tarifesindeki oranları aşmamış ise, prim ve indirim tarifesindeki kabul edilebilir sınırlar içindeki değerlere göre;
+a) Mudinin lisanslı depodan teslim aldığı zeytin, teslim ettiğinden kaliteli ve/veya üst kalibrede çıkar ise, mudi tarafından zeytinin niteliğine göre teslim tarihinde borsada oluşan ortalama fiyat baz alınarak kalite ve/veya kalibraj farklılığından doğan fiyat farkı indirim tarifesi olarak lisanslı depo işletmesine,
+b) Mudinin lisanslı depoya teslim ettiği zeytin, teslim aldığından kaliteli ve/veya üst kalibrede çıkar ise, lisanslı depo işletmesi tarafından zeytinin niteliğine göre teslim tarihinde borsada oluşan ortalama fiyat baz alınarak kalite ve/veya kalibraj farklılığından doğan fiyat farkı prim olarak mudiye,
+ödenir.

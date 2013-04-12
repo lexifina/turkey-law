@@ -1,0 +1,4 @@
+Zeytinin depolara yerleştirilmesi, ayrı depolanması ve teslimi
+MADDE 11 – (1) Aynı yıl ürünü zeytin, tip/çeşit ve sınıf/kalibresine göre tahsis ve tasnif edilmiş, numaralanmış lisanslı depo ünitelerinde tip/çeşit ve sınıf/kalibresi aynı olan zeytinler ile karıştırılarak depolanır.
+(2) Zeytin mudinin talebi, lisanslı depo işletmesinin kabulü ve zeytinin tank kapasitesinin en az % 60’ına tekabül etmesi halinde, diğer zeytinlerle karıştırılmadan orijinal hali korunarak ayrı olarak depolanabilir. Bu durumda zeytin ayrı ünitelere konulur ve diğer zeytinlerle karıştırılmadan açıkça ve fark edilebilir şekilde işaretlenir. Ayrı depolanan zeytinlerin depodaki yeri kayıtlarda açık şekilde gösterilir.
+(3) Diğer zeytinlerle karıştırılmadan aynen depolanan zeytinler, aynı orijinal haliyle teslim edilir.
