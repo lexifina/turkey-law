@@ -1,0 +1,4 @@
+Zeytinyağının depolara yerleştirilmesi, ayrı depolanması ve teslimi
+MADDE 11 – (1) Aynı yıl ürünü zeytinyağı; tür ve sınıfına göre tahsis ve tasnif edilmiş, numaralanmış lisanslı depo ünitelerinde tür ve sınıfı aynı olan zeytinyağları ile karıştırılarak depolanır.
+(2) Zeytinyağı; mudinin talebi, lisanslı depo işletmesinin kabulü ve zeytinyağının tank kapasitesinin en az % 60’ına tekabül etmesi halinde, diğer zeytinyağları ile karıştırılmadan orijinal hali korunarak ayrı olarak depolanabilir. Bu durumda zeytinyağı, ayrı ünitelere konulur ve diğer zeytinyağlarıyla karıştırılmadan açıkça ve fark edilebilir şekilde işaretlenir. Ayrı depolanan zeytinyağlarının depodaki yeri kayıtlarda açık şekilde gösterilir.
+(3) Diğer zeytinyağları ile karıştırılmadan aynen depolanan zeytinyağları, aynı orijinal haliyle teslim edilir.

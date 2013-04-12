@@ -1,0 +1,3 @@
+Zeytinyağını depolamaya hazır hale getirme
+MADDE 8 – (1) Lisanslı depo işletmesi, depolanmaya veya standartlara uygun olmayan ya da depolandığında lisanslı depodaki diğer zeytinyağlarını olumsuz etkileyebilecek zeytinyağını, mudinin talebi üzerine ve ücreti karşılığında, depolanmaya ve standartlara uygun hale getirmek amacıyla niteliğine göre ihtiyaç duyulan posa alma, filtreleme, rafine etme ve benzeri işlemlere tabi tutabilir.
+(2) Depolanmaya ve standartlara uygun hale getirilen zeytinyağı depolanabilir. Depolama şartları uygun olmayan, sağlığı olumsuz etkileyecek düzeyde bulunan, standart dışı olan ve mevzuatta öngörülen diğer hususlara uygun olmayan zeytinyağları, lisanslı depolara alınmaz.

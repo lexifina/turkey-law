@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.17272",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ZEYTİNYAĞI LİSANSLI DEPO TEBLİĞİ",
+  "number": "17272",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2013/17272",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17272&MevzuatTertip=5",
+  "source_sha256": "50311b9f9f9dbf3a39862241a9c83d3b20c42fd133b233bba26160fffad07615",
+  "source_bytes": 28207,
+  "published": "2013-04-12",
+  "gazette": "28616",
+  "in_force": "2013-04-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.04.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1507,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
