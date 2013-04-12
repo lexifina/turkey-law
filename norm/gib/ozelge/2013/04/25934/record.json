@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[229-2012/VUK-1- . . .]--568",
+  "source_id": 25934,
+  "date": "2013-04-12",
+  "title": "İthal edilen yaş sebze ve meyvelerin yurt içindeki firmalara toptan satışında rüsum oranı ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25934",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "ce5cc65548526bf2b70a892def213e6fa8e12f04dcfc9757f79c9caeebed98ae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
