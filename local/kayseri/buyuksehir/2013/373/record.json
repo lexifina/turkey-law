@@ -1,0 +1,23 @@
+{
+  "number": "373",
+  "number_as_published": "373",
+  "year": 2013,
+  "title": "Melikgazi Belediye Meclisi’nin, 01.04.2013 tarih, 91, 92, 96, 97, 98, 99, 100, 103 ve 104 sayılı kararlarının incelenmesi talebi.",
+  "decision_date": "2013-04-12",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/12-nisan-2013-tarihli-meclis-karar-ozeti",
+  "official_document": null,
+  "source_sha256": "6c50b3a434929f54756eeadc01dbff725bfdd18a330956db455ffda7d8cf44c4",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2013-04-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.04.2013; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "12 Nisan 2013 Tarihli Meclis Karar Özeti",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=14"
+}
