@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.17286",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2013/5)",
+  "number": "17286",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2013/17286",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17286&MevzuatTertip=5",
+  "source_sha256": "1676d493f34f6e8191ab988b3cfe4dce88e4856357c0b4f3d3a26a0e2ef84ed1",
+  "source_bytes": 59037,
+  "published": "2013-04-13",
+  "gazette": "28617",
+  "in_force": "2013-04-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.04.2013); own commencement article: \"Bu Tebliğ yayımı tarihini takip eden otuzuncu gün yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihini takip eden otuzuncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 809,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
