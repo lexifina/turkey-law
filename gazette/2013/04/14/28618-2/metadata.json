@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-04-14",
+  "issue": "28618",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Ağrı İbrahim Çeçen Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130414-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130414.htm",
+  "index_sha256": "8ed9d93ffb7bc3fec894adc0118460c9c89ea65f5c0df7a6a158d35a60d278f1",
+  "index_header": "14 Nisan 2013 ... 28618 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130414.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
