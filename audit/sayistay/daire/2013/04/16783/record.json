@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10234",
+  "decision_date": "2013-04-16",
+  "source_id": 16783,
+  "chamber": "1",
+  "ilam_number": "79",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16783/",
+  "source_sha256": "d322f6e5bb478aae3b7ec4d935d07088bc8f3dbf2c7016cb15cb773ad042020e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
