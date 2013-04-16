@@ -1,0 +1,14 @@
+Taahhütname
+MADDE 12 – (1) Soruların gizlilik ve güvenliğini sağlamak üzere, soru hazırlama ve ön/nihai bilimsel denetim aşamalarında görevlendirilen soru yazarları bilimsel denetmenler, dil denetmenleri ve ilgili Daire Başkanlıklarında görev yapan kadrolu, sözleşmeli geçici görevli personele taahhütname imzalatılır.
+(2) Bu taahhütnamede görevlendirilenlerin;
+a) 6114 sayılı Kanun’u ve ilgili idari düzenlemeleri, bu düzenlemelerin soru yazarına ve/veya bilimsel denetmene yüklediği tüm yükümlülükleri anlayıp kabul ettiğini,
+b) ÖSYM’deki çalışmaların içeriğini kapsayan benzer çalışmaların sürdürüldüğü dershane, etüt merkezi, sınavlara yönelik test hazırlama kitabı çıkaran basımevi ve benzeri bir kurumda hiçbir görevinin olmadığını ve ÖSYM ile ilişiğini kestiği tarihten itibaren bir yıl içinde hiçbir görev almayacağını,
+c) Hazırladığı ve/veya denetlediği sorularla ilgili olarak kısmen de olsa üçüncü kişilere hiçbir şekilde bilgi vermeyeceğini, soruların niteliğine dair bir açıklamada bulunmayacağını,
+ç) Sınavların güvenliği ve güvenirliği hususunda zafiyet oluşturacak beyan ya da fiillerde bulunmayacağını; soruları özel işleri de dâhil olmak üzere başka hiçbir yerde kullanmayacağını, konu ile ilgili olsun olmasın başka özel ve tüzel kurum, kuruluş, kişi ve temsilci yetkilisine elden, postayla, elektronik olarak veya hiçbir şekilde vermeyeceğini,
+d) 6114 sayılı Kanunun 10 uncu maddesi kapsamında kamu görevlisi olduğunu, bu madde kapsamındaki hukuki ve cezai mesuliyetinin bulunduğunu,
+e) Hazırladığı ve/veya denetlediği soruların tamamında, 5/12/1951 tarihli ve 5846 sayılı Fikir ve Sanat Eserleri Kanunundan kaynaklanan tüm haklarını; hususiyetini bozmamak kaydıyla soruları değiştirme ve devir hakkı da dâhil olmak üzere ücreti karşılığında ÖSYM’ye devrettiğini,
+f) ÖSYM’nin teşkilat yapısı ve görevleri gereği; soruları belli bir süre sınırlamasına bağlı kalmaksızın uygun gördüğü zaman, yer ve şekilde kullanabileceğini, bedelli veya bedelsiz kullandırabileceğini veya soru havuzuna dâhil edebileceğini, Başkanlığın kullanılmayan soruların yazarına bilgi vermeksizin soruları imha edebileceğini ve hiçbir hak iddia etmeyeceğini,
+g) ÖSYM’nin hazırladığı herhangi bir sınava birinci derece kan ve kayın hısımlarının girmesi hâlinde bunu ilgili birime en geç ilgili sınavın başvuru süresinin bitimine kadar bildireceğini,
+ğ) Taahhüdüne aykırı davranışı hâlinde doğabilecek her türlü hukuki ve cezai yaptırımı kabul ettiğini
+belirleyen esaslar yer alır. ÖSYM gerekli gördüğünde bu esasları hukuki, idari, teknolojik ve bilimsel gelişmelere bağlı olarak değiştirebilir.
+(3) Soru hazırlama ve denetleme faaliyetinin ÖSYM’de veya Başkanlıkça belirlenen binalarda yapılması durumunda soru yazarları ve denetmenler ÖSYM tarafından belirlenen binalara giriş ve çıkış koşullarına uymak zorundadır.

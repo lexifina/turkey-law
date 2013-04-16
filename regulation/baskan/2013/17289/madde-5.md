@@ -1,0 +1,10 @@
+Soruların hazırlanması
+MADDE 5 – (1) Soruların hazırlanmasında aşağıdaki usul ve esaslar uygulanır:
+a) Soruların hazırlanmasında gizlilik esastır. Başkanlık gizliliğin sağlanması için gerekli tedbirleri alır ve ilgili tüm kurum ve kuruluşlarla iş birliği yapar.
+b) Soruların yazılması da dâhil olmak üzere, soru hazırlama sürecinin herhangi bir aşamasında görev alanlar, ilgili mevzuat çerçevesinde ÖSYM tarafından belirlenen gizlilik ve güvenlik kurallarına uymakla yükümlüdür.
+c) Soruların yazılması, düzenlenmesi, bilimsel denetimlerden geçirilmesi, sınav sorularının basılması aşaması da dâhil olmak üzere tüm aşamalarda görev yapanların kimlikleri gizli tutulur. Görevlilerin kimlikleri, ilgili mevzuatta yer alan istisnalar hariç olmak üzere hiçbir şart ve koşulda açıklanamaz.
+ç) Soru yazarları, ÖSYM için yazdıkları soruları başka hiçbir yerde kullanamaz, paylaşamaz, başka bir kurum ve/veya kuruluşa satamaz ve/veya ücretsiz devredemez. ÖSYM’deki soru yazarlığından ve/veya bilimsel denetleme görevinden ayrıldıktan sonra dahi aynı esaslar geçerlidir. Soru yazarlarına ve bilimsel denetmenlere bu hususlara riayet etmelerini teminen taahhütname imzalatılır.
+d) Soru yazarları tarafından soruların hazırlanmasında, soruların kullanılacağı sınavın niteliği, kapsamı, seviyesi, aday kitlesi ve varsa kurum ve kuruluşlarla imzalanan ilgili sınav protokolleri göz önünde bulundurulur.
+e) Soruların grafik tasarımı ve çizimleri soru hazırlama faaliyetinin ayrılmaz bir parçasıdır.
+f) Soru yazarları tarafından hazırlanan her soruya, soru yazarının T.C. kimlik numarası ile sorunun, alanı, yazara göre zorluk derecesi, seviyesi, konusu, alt konusu ve benzeri özellikleri kapsayan etiketleme işlemi yapılır.
+g) Kamu/özel kurum ve kuruluşlarının talebi üzerine imzalanan protokol ile yapılan sınavlarda, mevzuatında açık hüküm yoksa ilgili kurumun görev alanı dikkate alınarak sorulacak soruların sayısı, niteliği, konuları, alt bölümleri ve diğer hususları belirlemek üzere Başkanlıkça komisyonlar oluşturulabilir.
