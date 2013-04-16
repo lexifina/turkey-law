@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10234",
+  "decision_date": "2013-04-16",
+  "source_id": 7216,
+  "chamber": "1",
+  "ilam_number": "79",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7216/",
+  "source_sha256": "214bb95789f56ca5f26974946407cc3d91eb8f1fac33fe8d876c933dff21ce5b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
