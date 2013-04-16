@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10237",
+  "decision_date": "2013-04-16",
+  "source_id": 17066,
+  "chamber": "1",
+  "ilam_number": "89",
+  "item_number": 20,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17066/",
+  "source_sha256": "294aa4b7c2935adc50680ab87be4800cc43a5dd3eb404a22da6fa0cdfea41a34",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
