@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10236",
+  "decision_date": "2013-04-16",
+  "source_id": 16900,
+  "chamber": "1",
+  "ilam_number": "115",
+  "item_number": 7,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16900/",
+  "source_sha256": "88234add3040773af6f6017ad0a7dd952f0ae64e5405f042f92796bf261c53e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
