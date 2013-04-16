@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10237",
+  "decision_date": "2013-04-16",
+  "source_id": 7246,
+  "chamber": "1",
+  "ilam_number": "89",
+  "item_number": 1,
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7246/",
+  "source_sha256": "4a362722d8f89b5757f9026b2ce91a42a3a6d59fdf10a8041c7237021e45b631",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
