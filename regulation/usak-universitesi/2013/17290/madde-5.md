@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amacı; İslam ilimleri, kültür ve medeniyeti alanlarında dinî, bilimsel, ekonomik, siyasal ve kültürel araştırmalar yapmak, ulusal ve uluslararası düzeyde ilmî toplantılar düzenlemek, düzenlenmiş bu gibi programlara temsilciler göndermek, araştırmacıları desteklemek, yurt içi ve yurt dışındaki akademik kurumlarla işbirliği içinde araştırma, eğitim ve yayın projeleri hazırlamak ve yürütmek, İslâm Dini ve Tarihi, Türk Tarihi, Kültürü, Sanatı ve Medeniyetinin doğru ve bilimsel bir tarzda öğrenilmesine katkıda bulunmak, telif, tercüme ve edisyon kritik tarzında eserler üretmek ve bunları yayımlamak, İslam eğitimi, kültürü ve sosyal alanlarında etkinlikler düzenlemek, bu yolla başta Uşak İli ve havzası olmak üzere Ülkemizin entelektüel, sosyal ve kültürel açıdan gelişimine katkı sağlamaktır.
