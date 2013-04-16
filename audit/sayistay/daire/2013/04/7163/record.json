@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10236",
+  "decision_date": "2013-04-16",
+  "source_id": 7163,
+  "chamber": "1",
+  "ilam_number": "115",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7163/",
+  "source_sha256": "6ce526d24e756cd5f189559d240bfa6ae0dd6a54462794d0dac4cd53dad65812",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
