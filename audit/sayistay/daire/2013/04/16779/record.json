@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10234",
+  "decision_date": "2013-04-16",
+  "source_id": 16779,
+  "chamber": "1",
+  "ilam_number": "79",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16779/",
+  "source_sha256": "4dca93877d254fb8457df2108b676f51e6b3f388d6b13c41bdfbcc2b17a0c78d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
