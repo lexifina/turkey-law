@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-ÖTV 12. MADDE-577",
+  "source_id": 33764,
+  "date": "2013-04-16",
+  "title": "Akümülatörün ÖTV ye tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33764",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "ea4323454583b4d651222da15995786e2696d235cea0cf0d944d0460bf639a80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
