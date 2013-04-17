@@ -1,0 +1,27 @@
+Yürütme
+MADDE 6 – (1) Bu Tebliğ hükümlerini Bayındırlık ve İskân Bakanı yürütür.
+EK-1
+(Değişik:RG-17/4/2013-28621)
+Yapı Malzemeleri Yönetmeliği (89/106/EEC) Kapsamında Uygulanacak Teknik Şartnamelerin Yayımlanması Hakkında Tebliğ (Tebliğ No: MHG/2012-09) çerçevesinde Tebar Test Belgelendirme Araştırma ve Geliştirme Tic. A.Ş.’nin Görevlendirme Kapsamı
+Komisyon Karar No. | Ürün(ler)/Kullanım Amacı | Uygunluk Teyit Sistemi | Şartnameler (1) | Görevler
+98/436/EC | Çatı örtüleri, çatı ışıklıkları, çatı pencereleri ve tamamlayıcı malzemeler · Çatı kaplama malzemeleri, arduvazları, taşları ve kiremitleri (“Yangına tepki” düzenlemelerine tabi olan kullanımlarda) (2) | Sistem 3 | TS EN 14964 TS EN 544:2011 | Test Laboratuvarı
+98/436/EC | Çatı örtüleri, çatı ışıklıkları, çatı pencereleri ve tamamlayıcı malzemeler · Düz(yassı) ve profil levhalar (“Yangına tepki” düzenlemelerine tabi olan kullanımlarda) (2) | Sistem 3 | TS EN 534+A1 | Test Laboratuvarı
+98/436/EC | Çatı örtüleri, çatı ışıklıkları, çatı pencereleri ve tamamlayıcı malzemeler · Çatı kaplama malzemeleri, arduvazları, taşları ve kiremitleri (Dış yangın performansı düzenlemelerine tabi olan kullanımlarda) | Sistem 3 | TS EN 544:2011 | Test Laboratuvarı
+99/90/EC | Membranlar · Su buharı kontrol tabakaları (Yapılarda) | Sistem 3 | TS EN 13859-1:2010 TS EN 13859-2:2010 TS EN 13970 TS EN 13970/A1 TS EN 13984 TS EN 13984/A1 | Test Laboratuvarı
+99/90/EC | Membranlar · Geçirimsizlik tabakaları (Yapılarda) | Sistem 3 | TS EN 14909:2012 TS EN 14967 | Test Laboratuvarı
+99/90/EC | Membranlar · Çatı altı tabakaları (Yapılarda) | Sistem 3 | TS EN 13859-1:2010 | Test Laboratuvarı
+99/90/EC | Membranlar · Su buharı kontrol tabakaları (“Yangına tepki” düzenlemelerine tabi kullanımlar için) (2) | Sistem 3 | TS EN 13859-1:2010 TS EN 13859-2:2010 TS EN 13970 TS EN 13970/A1 TS EN 13984 TS EN 13984/A1 | Test Laboratuvarı
+99/90/EC | Membranlar · Çatı şilteleri (“Yangına tepki” düzenlemelerine tabi kullanımlar için) (2) | Sistem 3 | TS EN 13707+A2 TS EN 13956 TS EN 13956/AC | Test Laboratuvarı
+99/90/EC | Membranlar · Çatı altı tabakaları (“Yangına tepki” düzenlemelerine tabi kullanımlar için) (2) | Sistem 3 | TS EN 13859-1:2010 | Test Laboratuvarı
+99/90/EC | Membranlar · Nem geçirimsiz şilteler (“Yangına tepki” düzenlemelerine tabi kullanımlar için) (2) | Sistem 3 | TS EN 13967:2012 TS EN 13969 TS EN 13969/A1 | Test Laboratuvarı
+99/90/EC | Membranlar · Geçirimsizlik tabakaları (“Yangına tepki” düzenlemelerine tabi kullanımlar için) (2) | Sistem 3 | TS EN 14909:2012 TS EN 14967 | Test Laboratuvarı
+99/90/EC | Membranlar · Çatı şilteleri (“Dış yangın performansı” düzenlemelerine tabi kullanımlar için) | Sistem 3 | TS EN 13707+A2 TS EN 13956 TS EN 13956/AC | Test Laboratuvarı
+99/91/EC | Isı yalıtım malzemeleri (fabrika yapımı malzemeler ve kullanım yerinde şekillendirilmesi amaçlanan ürünler) (Herhangi bir uygulamada)(3) | Sistem 3 | TS EN 13162 TS EN 13163 TS EN 13164 TS EN 13165 TS EN 13167 TS EN 13169 TS EN 13170 TS EN 13171 TS EN 14303 TS EN 14304 TS EN 14305 TS EN 14306 TS EN 14307 TS EN 14308 TS EN 14309 TS EN 14313 | Test Laboratuvarı
+99/91/EC | Isı yalıtım malzemeleri (fabrika yapımı malzemeler ve kullanım yerinde şekillendirilmesi amaçlanan ürünler) (“Yangına tepki” düzenlemelerine tabi kullanımlar için) (4) | Sistem 3 | TS EN 13162 TS EN 13163 TS EN 13164 TS EN 13165 TS EN 13166 TS EN 13167 TS EN 13168 TS EN 13169 TS EN 13170 TS EN 13171 TS EN 14305 TS EN 14306 TS EN 14307 TS EN 14308 TS EN 14309 TS EN 14313 TS EN 14314 | Test Laboratuvarı
+99/470/EC | Karolar için yapıştırıcılar (özellikle hidrolik bağlayıcılar, çimentolu bağlayıcılar, serpinti polimerleri, reaksiyon reçineleri) (Yapılarda ve diğer altyapı işlerinde iç ve dış kullanım için) | Sistem 3 | TS EN 12004 | Test Laboratuvarı
+99/470/EC | Karolar için yapıştırıcılar (“Yangına tepki” düzenlemelerine tabi kullanımlar için) (2) | Sistem 3 | TS EN 12004 | Test Laboratuvarı
+_____________________
+(1) Standardın nihai versiyonu dikkate alınarak belgelendirme faaliyeti gerçekleştirilir. Ancak standardın güncel versiyonu mevcut uygunluk değerlendirmesinde bir değişiklik meydana getiriyorsa kuruluş söz konusu değişiklikleri ilgili standardın uygulama prosedüründe belirtir ve gerekli revizyonu yaparak Bakanlığa bildirir ve yapılacak ilk gözetim denetiminde TÜRKAK’a sunar. Onaylanmış Kuruluşun görevlendirme kapsamında bulunan Standartlarda meydana gelen değişiklikler TSE’nin web sitesinden takip edilir.
+(2) “Yangına tepki düzenlemelerine tabi kullanımlarda” E yangın sınıfı beyan edilen ürünler haricindeki yangına tepki sınıfına tabi ürünlere Onaylı Laboratuvar faaliyeti çerçevesinde hizmet verilmez.
+(3) 12/11/2008 tarihli ve 27052 sayılı Resmî Gazete’de yayımlanan Ozon Tabakasını İncelten Maddelerin Azaltılmasına İlişkin Yönetmeliğin ek-7’sinde yer alan Grup-I ve Grup-II’de listelenen kloroflorokarbonlar, Grup-IV’te listelenen karbontetkaklorür ve Grup-V’te listelenen 1,1,1 trikloretan kullanılarak imal edilmiş ürünlere Onaylı Laboratuvar faaliyeti çerçevesinde hizmet verilmez.
+(4) Ozon Tabakasını İncelten Maddelerin Azaltılmasına İlişkin Yönetmeliğin ek-7’sinde yer alan Grup-I ve Grup-II’de listelenen kloroflorokarbonlar, Grup-IV’te listelenen karbontetkaklorür ve Grup-V’te listelenen 1,1,1 trikloretan kullanılarak imal edilmiş ürünlere ve “Yangına tepki düzenlemelerine tabi kullanımlarda” E yangın sınıfı beyan edilen ürünler haricindeki yangına tepki sınıfına tabi ürünlere Onaylı Laboratuvar faaliyeti çerçevesinde hizmet verilmez.
