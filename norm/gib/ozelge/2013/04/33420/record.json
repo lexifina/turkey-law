@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-ÖTV-1-60",
+  "source_id": 33420,
+  "date": "2013-04-17",
+  "title": "Uzun süre stokta beklemesi sonucu özelliğini kaybeden motorinle harmanlanmak üzere sıfır ÖTV'li olarak alınan oto biodizelin ikincil yakıt olarak tesliminde ÖTV ve KDV uygulamaları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33420",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "07982d6696588f349656cd05cc9b9edf17131fcaff721d556ef09ebc02990a44",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
