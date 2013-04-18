@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37538499-135[15-2012/6]-1",
+  "source_id": 34119,
+  "date": "2013-04-18",
+  "title": "Kayıt ve tescil edilmeksizin iade edilen araç için ödenen ÖTV'nin alıcıya iade edildiğine dair tutanağın ibraz edilememesi halinde ÖTV düzeltmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34119",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "620284b016c7bb73b1b45365b1154aa2ac83b91df0141b70ba41a33e62c3c261",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
