@@ -1,0 +1,6 @@
+Sorguların tebliği
+MADDE 45 – (1) Sorgular, savunmaları alınmak üzere sorgularda adı, soyadı ve unvanı belirtilen her bir sorumluya Tebligat Kanunu hükümlerine uygun olarak tebliğ edilir. Tebliğ tarihinden itibaren otuz gün içinde cevap vermeyen sorumluların savunmaları dikkate alınmaz.
+(2) Sorguların tebliğinin elektronik ortamda yapılması esastır. Elektronik ortamda tebliğ yapılamaması halinde tebligat yazılı olarak yapılır. Elektronik ortamda sorguların tebliği ve savunmaların alınmasına ilişkin düzenlemeler Başkanlıkça belirlenir.
+(3) Elektronik ortamda tebliğ yapılamayan her sorumlu için Sorgu Üst Yazısı doldurulur, Başkan adına grup başkanı tarafından imzalanıp resmi mühür ile mühürlendikten sonra sorgu kağıtlarına iliştirilerek ilgili birime verilir. İlgili birim tarafından bu sorgular, Sorgu Üst Yazısındaki bilgilere göre doldurulan Sorgu Tebliğ Zarfına konulduktan sonra, sorumlularına tebliğ edilir.
+(4) Ankara dışında yapılan denetimler sonucu düzenlenen sorgular elden tebliğ edilebilir. Bu durumda üçüncü fıkradaki işlemler ekip başkanı tarafından yerine getirilir.
+(5) Sorguların tamamı, kurum üst yöneticisine ve muhasebe birimine yazılı olarak bilgi amaçlı gönderilir veya verilir.

@@ -1,0 +1,2 @@
+Kamu iktisadi teşebbüsleri diğer raporları
+MADDE 34 – (1) Raporlama dönemi beklenildiğinde telafisi güç sonuçlar doğacağı düşünülen hususlarda Başkanlık Onayı ile denetim ve inceleme yapılabilir. Bu denetim ve inceleme sonucunda hazırlanan rapora Rapor Değerlendirme Kurulu tarafından Başkanlıkça belirlenen süre içinde ivedilikle son şekli verilir. Başkanlık bu raporlarda yer alan hususların teftişi veya soruşturulması için söz konusu raporları ilgili kurumlara ve denetlenen kamu idaresine gönderir.

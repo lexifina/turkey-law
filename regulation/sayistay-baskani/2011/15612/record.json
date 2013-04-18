@@ -1,0 +1,41 @@
+{
+  "source_id": "7.5.15612",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAYIŞTAY DENETİM YÖNETMELİĞİ",
+  "number": "15612",
+  "issuer": "Sayıştay Başkanı",
+  "issuer_slug": "sayistay-baskani",
+  "path": "regulation/sayistay-baskani/2011/15612",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15612&MevzuatTertip=5",
+  "source_sha256": "b909af800f7ae5e62d5d9363b92b278cec69c43d73656ac3a36b15a1cdc36b24",
+  "source_bytes": 163353,
+  "published": "2011-12-17",
+  "gazette": "28145",
+  "in_force": "2013-04-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/4/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-04-18",
+      "RG-18/4/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8447,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15612%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

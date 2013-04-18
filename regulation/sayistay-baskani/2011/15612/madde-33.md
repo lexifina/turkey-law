@@ -1,0 +1,5 @@
+Kamu iktisadi teşebbüsleri genel raporu
+MADDE 33 – (1) Kamu iktisadi teşebbüslerinin yıllık faaliyet sonuçları, Türkiye ekonomisi içindeki yeri ile genel ve ortak sorunlarının birlikte ele alındığı Kamu İktisadi Teşebbüsleri Genel Raporu düzenlenir. Bu raporda yer alması gereken diğer hususlar ile raporun şekil ve muhtevası rehberlerde belirlenir.
+(2) Yıllık denetim programlarında Kamu İktisadi Teşebbüsleri Genel Raporunun hazırlanması görevi Başkanlık tarafından bir denetim veya denetim destek grubuna verilir. İhtiyaç görülmesi halinde ise, yeterli sayıda meslek mensubu, raporu hazırlamak üzere ayrıca görevlendirilir.
+(3) Yıllık raporlardan genel rapora alınacak bilgiler, yıllık raporun ilgili bölümlerini hazırlayan denetçilerce veri sistemine girilir. Sisteme veri girişleri tamamlanmayan yıllık raporlar görüşülmez.
+(4) Kamu İktisadi Teşebbüsleri Genel Raporuna, Rapor Değerlendirme Kurulunca ilgili oldukları yılı izleyen yılın sonuna kadar son şekli verilir, onbeş gün içinde Başkanlık internet sitesinde yayımlanır.

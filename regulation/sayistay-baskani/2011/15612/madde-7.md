@@ -1,0 +1,8 @@
+Sayıştay denetim ve incelemesinin genel esasları
+MADDE 7 – (1) Denetim; kamu idarelerinin hesap, mali işlem ve faaliyetleri ile iç kontrol sistemlerinin incelenmesi ve kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak kullanılmasının değerlendirilmesidir.
+(2) Sayıştay; kamu idarelerinin mali faaliyet, karar ve işlemlerini hesap verme sorumluluğu çerçevesinde denetler. Hesap verme sorumluluğu, her türlü kamu kaynağının elde edilmesi ve kullanılmasında görevli ve yetkili olanların, kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak elde edilmesinden, kullanılmasından, muhasebeleştirilmesinden, raporlanmasından ve kötüye kullanılmaması için gerekli önlemlerin alınmasından sorumlu olmasını ifade eder.
+(3) Sayıştay denetimi, düzenlilik denetimi ve performans denetimini kapsar. Sayıştay incelemesi, Sayıştayın kesin hükme bağlama ve denetim dışında kalan diğer çalışmalarıdır.
+(4) Sayıştay, hesap verme sorumluluğu çerçevesinde gerçekleştirdiği denetim ve incelemeler sonucunda, hesap verme sorumluluğunun yerine getirilip getirilmediğini Türkiye Büyük Millet Meclisine sunulacak Sayıştay raporlarında belirtir. Kamu zararına sebep olunan durumlar ise bu zararın tazminine ilişkin hükme bağlama işlemi ile sonuçlandırılır.
+(5) Denetim genel kabul görmüş uluslararası denetim standartlarına uygun olarak yürütülür. Ancak, Uluslararası Denetim Standartları ile iç mevzuat arasında bir farklılık söz konusu olduğunda iç mevzuat esas alınır.
+(6) Denetimler, güncel denetim metodolojilerinin uygulanmasına gerekli özen gösterilerek gerçekleştirilir.
+(7) Kalite güvencesinin sağlanması için, denetimin her aşaması denetim standartlarına, stratejik planlara, denetim programlarına ve mesleki etik kurallarına uygunluğu açısından sürekli gözden geçirilir.
