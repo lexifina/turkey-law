@@ -1,0 +1,7 @@
+Teminatın Gelir Kaydedilmemesi.
+
+Denetçi sorgusunda yer alan; …. Büyükşehir Belediyesi tarafından işletilen balık halinde bulunan …. no’lu parselde tahsis hakkı sahibi olan ortaklığın, …. Büyükşehir belediyesi Su Ürünleri Hali Yönetmeliğine aykırı olarak tahsis hakkını devrettiği ancak bu ortaklığa ait teminatın belediye tarafından irat kaydedilmemesi sonucu …. TL kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamında yer alan bilgi ve belgelerin incelenmesi sonucunda;
+
+…. Büyükşehir Belediyesi Su Ürünleri Hali Yönetmeliğinin 18’inci maddesi uyarınca balık hallerinde kendilerine yer tahsis edilenlerden nakit, banka mektubu veya devlet tahvili olarak on iki aylık tahsis ücretinden yukarı olmamak üzere her yıl Belediye Meclisi kararıyla belirlenen miktarda teminat alınacak olup tahsisin başkasına devredilmesi durumunda teminat irat kaydedilecektir.
+
+Bahse konu olayda ise; .… Büyükşehir Belediyesi 2011 mali yılı bütçesinde yer alan gelir tarifelerinde Balık Hali için tahsis teminat ücretinin …. TL olarak belirlendiği ve söz konusu balık halinde bulunan …. no’lu parselde tahsis hakkı sahibi olan ortaklığın, tahsis hakkını devrettiği halde bu ortaklığa ait teminatın belediye tarafından irat kaydedilmemesi sonucu …. TL kamu zararına neden olunduğu anlaşılmış ise de, söz konusu teminatın .… tarihli ve .…yevmiye nolu muhasebe işlem fişi ile tahsil edildiği anlaşıldığından, ilişilecek husus kalmadığına oy birliğiyle karar verildi.
