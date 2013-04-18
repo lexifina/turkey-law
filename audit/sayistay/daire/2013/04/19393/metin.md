@@ -1,0 +1,11 @@
+Yol Harcamalarına Katılım Payı.
+
+Denetçi sorgusunda yer alan; …. Büyükşehir Belediyesince 2464 Sayılı Belediye Gelirleri Kanunu uyarınca ilgililerden tahsil edilmesi gereken yol harcamalarına katılım paylarının 2011 ve daha önceki yıllara ilişkin olarak tahakkuk ve tahsilatının yapılmaması sonucu Belediyenin gelir kaybına uğratılarak kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+2464 Sayılı Belediye Gelirleri Kanunu’nun, 06.12.2012 tarih ve 28489 sayılı Resmi Gazete’de yayımlanan 6360 sayılı “On Dört İlde Büyükşehir Belediyesi ve Yirmi Yedi İlçe Kurulması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun” un 28’inci maddesi ile değişik 86’ıncı maddesinde; “Belediyelerce veya belediyelere bağlı müesseselerce aşağıdaki şekillerde inşa, tamir ve genişletilmeye tabi tutulan yolların iki tarafında bulunan veya başka bir yola çıkışı olmaması dolayısıyla bu yoldan yararlanan gayrimenkullerin sahiplerinden meclis kararı ile Yol Harcamalarına Katılma Payı alınabilir.” denilmektedir.
+
+Buna göre, 6360 sayılı Kanun ile 2464 sayılı Belediye Gelirleri Kanunu’nun 86’ıncı maddesinde yapılan değişiklikle, belediyelerce veya belediyelere bağlı müesseselerce 2464 sayılı Kanun’un ilgili maddelerinde gösterilen şekillerde inşa, tamir ve genişletilmeye tabi tutulan yolların iki tarafında bulunan veya başka bir yola çıkışı olmaması dolayısıyla bu yoldan yararlanan gayrimenkullerin sahiplerinden Yol Harcamalarına Katılma Payı alınıp alınmaması hususu ilgili belediye meclisinin takdirine bırakılmıştır.
+
+Bahse konu olayda da, .… Büyükşehir Belediye Meclisince alınan .… tarih ve .…sayılı Kararla anılan Karar tarihine kadar Büyükşehir Belediyesince tahakkuk ve tahsili yapılmamış yol harcamalarına katılım paylarının alınmamasına karar verildiği görülmüştür.
+
+Bu itibarla, Denetçi sorgusuyla tespit edilen; .…Büyükşehir Belediyesince 2464 Sayılı Belediye Gelirleri Kanunu uyarınca ilgililerden tahsil edilecek yol harcamalarına katılım paylarının 2011 ve daha önceki yıllara ilişkin olarak tahakkuk ve tahsilatının yapılmaması hususunda, anılan Meclis Kararı doğrultusunda ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
