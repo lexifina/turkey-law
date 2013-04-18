@@ -1,0 +1,5 @@
+Gelir Kaydedilen Tutarların Mali Tablolarda Hatalı Yer Alması
+
+Denetçi sorgusunda yer alan; …. Büyükşehir Belediyesi Mezbaha Şube Müdürlüğü’nce 2011 mali yılı bütçesinde yer alan gelir tarifeleri esas alınarak yapılan mezbaha işlemleri sonucu elde edilen tutar ile Gelir Şube Müdürlüğü tarafından mali tablolara bu işlemlere ilişkin kaydedilen tutarın farklı olduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+…. Büyükşehir Belediyesi Mezbaha Şube Müdürlüğünce 2011 yılında kesilen büyük ve küçükbaş hayvanlardan elde edilen toplam gelir tutarına ilişkin anılan Müdürlüğün kayıtları ile Gelir Şube Müdürlüğü kayıtlarının birbirini tutmamasının, Mezbaha Şube Müdürlüğünce tutulan kayıtların hatalı olması ve söz konusu birimler arası eşgüdüm eksikliğinden kaynaklandığı ve bahse konu durumda Denetçisince herhangi bir kamu zararı tespiti de yapılmadığı anlaşıldığından söz konusu işlemlerle ilgili ilişilecek bir husus bulunmadığına oy birliğiyle karar verildi.
