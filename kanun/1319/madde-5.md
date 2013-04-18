@@ -1,14 +1,13 @@
 Geçici muaflıklar:
 Madde 5 – (Değişik : 17/7/1972 - 1610/2 md.)
-a) Mesken olarak kullanılan bina veya apartman dairelerinin, 2.500 Yeni Türk Lirasından az olmamak üzere vergi değerinin 1/4 ü, inşalarının sona erdiği yılı takibeden bütçe yılından itibaren 5 yıl süre ile geçici muafiyetten faydalandırılır. (2)(3)
+a) Mesken olarak kullanılan bina veya apartman dairelerinin, 2.500 Yeni Türk Lirasından az olmamak üzere vergi değerinin 1/4 ü, inşalarının sona erdiği yılı takibeden bütçe yılından itibaren 5 yıl süre ile geçici muafiyetten faydalandırılır. (1)(2)
 Bu binaların, bina apartman ise dairelerin, mesken olarak kullanılması şartiyle, satınalma veya sair suretle iktisap olunması halinde de yukardaki muaflık hükmü kalan süre için uygulanır.
 Mevcut binalara ilave yapılması halinde, 33 üncü maddenin (1) sayılı bendine göre beyan edilen değerden bu kısma isabet eden değer için, yukarda yazılı muafiyet aynı şart ve süre ile uygulanır.
 Binanın, bina apartman ise dairenin, kısmen veya tamamen mesken olarak kullanılmaması halinde bu binaya veya daireye tanınmış bulunan muafiyet bu halin vukubulduğu yılı takibeden bütçe yılından itibaren düşer.
 b) Turizm Endüstrisini Teşvik Kanunu hükümleri dairesinde turizm müessesesi belgesi almış olan Gelir veya Kurumlar Vergisi mükelleflerinin adı geçen kanunda yazılı maksatlara tahsis ettikleri ve işletmelerine dahil binaları, inşalarının sona erdiği veya mevcut binaların bu maksada tahsisi halinde turizm müessesesi belgesinin alındığı yılı takibeden bütçe yılından itibaren 5 yıl süre ile geçici muafiyetten faydalandırılır.
 ——————————
-(1) 22/7/1998 tarih ve 4369 sayılıKanunun 81 inci maddesi ile "götürü" ibaresi "basit" olarak değiştirilmiş ise de, bu değişikliğin 1/1/1999 tarihinde yürürlüğe gireceğini anılan kanunun 86 ncı maddesi ile hüküm altına alınmıştır.
-(2) Muafiyetle ilgili olarak 24/2/1984 tarih ve 2982 sayılı kanunun 6 ve 9 uncu maddelerine bakınız.
-(3) 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu maddede yer alan “50.000 liradan” ibaresi, 2.500 Yeni Türk Lirasından” olarak değiştirilmiş ve metne işlenmiştir.
+(1) Muafiyetle ilgili olarak 24/2/1984 tarih ve 2982 sayılı kanunun 6 ve 9 uncu maddelerine bakınız.
+(2) 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu maddede yer alan “50.000 liradan” ibaresi, 2.500 Yeni Türk Lirasından” olarak değiştirilmiş ve metne işlenmiştir.
 4690
 c) Deprem, su basması, yangın gibi tabii afetler sebebiyle binaları yanan, yıkılan veya kullanılmaz hale gelen veya yangın, su baskını, yer kayması, kaya düşmesi, çığ ve benzeri (Deprem hariç) afetlerle zarar görmesi muhtemel yerlerdeki binaların vergi mükellefleri tarafından afetin vukubulduğu veya afete maruz bulunduğunun yetkili kuruluşça tebliği tarihinden itibaren en geç 5 yıl içinde afetin vukubulduğu yerde veya kamu kuruluşlarınca gösterilen yerlerde inşa edilen binalar inşalarının sona erdiği yılı, kamu kuruluşlarınca ilgili kanunlarına göre inşa olunup hak sahiplerine teslim edilen binalar devredildikleri yılı takibeden bütçe yılından itibaren 10 yıl süre ile geçici muafiyettenfaydalandırılır. (Bu halde, bu maddenin (a) fıkrası hükmü uygulanmaz.)
 Şu kadar ki, kamu kuruluşlarınca afet bölgesi olduğu nedeniyle inşaat yasağı konulan yerlerde yapılan binalar için bu muafiyet uygulanmaz.

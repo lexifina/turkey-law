@@ -3,4 +3,4 @@ Geçici Madde 5- (Ek: 3/7/2003-4916/9 md.)
 –––––––––––––––––
 (1) 24/7/2008 tarihli ve 5793 sayılı Kanunun 27 nci maddesiyle bu maddede yer alan "rayiç değerleri" ibaresi "2/7/1964 tarihli ve 492 sayılı Harçlar Kanununun 63 üncü maddesinin birinci fıkrasına göre hesaplanacak değerlerinin yüzde 20 fazlası" şeklinde değiştirilmiş ve metne işlenmiştir.
 (2) Bu maddede yer alan “Bakanlık ile Maliye Bakanlığı arasında müştereken belirlenir.”ibaresi, “Bakanlık ile Maliye Bakanlığı arasında düzenlenecek protokolle belirlenir; bu belirlemede, trampaya konu taşınmazların rayiç değerleri esas alınır ve trampa kapsamındaki taşınmazlara ilişkin olarak açılmış olan men-i müdahale ve kâl davaları ile icra takipleri protokolün düzenlenmesi ile trampa işlemleri sonuçlanıncaya kadar durur.”olarak 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle değiştirilmiş ve metne işlenmiştir.
-8040-4
+8040-6

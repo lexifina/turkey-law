@@ -5,4 +5,4 @@ b) Belediyelere devredilen taşınmazların üzerlerindeki yapı sahipleri veya 
 c) Belediyelere devredilen ve belediyelerce de yapı sahipleri ile bunların kanunî veya akdi haleflerine doğrudan satılan taşınmazlar için ilgili belediyelerin devre ilişkin taleplerinin defterdarlık veya malmüdürlüğüne intikal tarihinden itibaren tahakkuk ettirilen ecrimisil alacakları hangi aşamada olursa olsun terkin edilir, tahsil edilmiş olan ecrimisil bedelleri ise satış bedeline mahsup edilir.
 ––––––––––––––––––––––
 (1) 24/7/2008 tarihli ve 5793 sayılı Kanunun 48 inci maddesiyle bu maddenin 1/1/2009 tarihinde yürürlüğe girececeği hüküm altına alınmıştır.
-8040-7
+8040-9

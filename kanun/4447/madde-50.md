@@ -1,9 +1,10 @@
-İşsizlik ödeneğinin; miktarı, ödeme süreleri ve zamanı ile sigorta primleri (3)
+İşsizlik ödeneğinin; miktarı, ödeme süreleri ve zamanı ile sigorta primleri (4)
 Madde 50 – (Değişik birinci fıkra: 15/5/2008-5763/15 md.) Günlük işsizlik ödeneği, sigortalının son dört aylık prime esas kazançları dikkate alınarak hesaplanan günlük ortalama brüt kazancının yüzde kırkıdır. Bu şekilde hesaplanan işsizlik ödeneği miktarı, 4857 sayılı İş Kanununun 39 uncu maddesine göre onaltı yaşından büyük işçiler için uygulanan aylık asgari ücretin brüt tutarının yüzde seksenini geçemez.
 ––––––––
 (1) Bu maddenin yürürlüğe gireceği tarih için 63 üncü maddenin (c) fıkrasına bakınız.
 (2) Bu madde başlığı "İşsizlik sigortası primleri ile sağlık sigortası primlerine ilişkin hükümler" iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 90 ıncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
-(3) Bu madde başlığı "İşsizlik ödeneğinin; miktarı, ödeme süreleri ve zamanı ile sağlık primleri ve geçici işgöremezlik durumu” iken, 15/5/2008 tarihli ve 5763 sayılı Kanunun 15 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(3) 3/4/2013 tarihli ve 6456 sayılı Kanunun 32 nci maddesiyle, bu fıkrada yer alan “Hazine Müsteşarlığından” ibaresi “Çalışma ve Sosyal Güvenlik Bakanlığından”, “Hazine Müsteşarlığı” ibaresi “Çalışma ve Sosyal Güvenlik Bakanlığı” şeklinde değiştirilmiştir.
+(4) Bu madde başlığı "İşsizlik ödeneğinin; miktarı, ödeme süreleri ve zamanı ile sağlık primleri ve geçici işgöremezlik durumu” iken, 15/5/2008 tarihli ve 5763 sayılı Kanunun 15 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 7648
 Hizmet akdinin sona ermesinden önceki son 120 gün prim ödeyerek sürekli çalışmış olanlardan, son üç yıl içinde;
 a) 600 gün sigortalı olarak çalışıp işsizlik sigortası primi ödemiş olan sigortalı işsizlere 180 gün,

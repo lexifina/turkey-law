@@ -10,6 +10,7 @@ Genel Müdür |  | Genel Müdür Yardımcısı | 1- Vakıf Hizmetleri Daire Baş
  |  |  | 5- Sağlık Hizmetleri Daire Başkanlığı |  | 
  |  |  | 6- Kültür ve Tescil Daire Başkanlığı |  | 
  |  |  | 7- Dış İlişkiler Daire Başkanlığı |  | 
+10262
 (II) SAYILI CETVEL
 VAKIFLAR GENEL MÜDÜRLÜĞÜ
 (TAŞRA TEŞKİLATI)

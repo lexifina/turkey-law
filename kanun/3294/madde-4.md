@@ -3,6 +3,7 @@ Madde 4 – Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonunun gelirleri;
 a) Kanun ve kararnamelerle kurulu bulunan ve kurulacak olan fonlardan Bakanlar Kurulu kararıyla % 10'a kadar aktarılacak miktardan,
 ——————————
 (1) Bu aradaki "2022 sayılı Kanuna göre aylık alan kişiler dahil" ibaresi 16/6/1989 tarih ve 3582 sayılı Kanunun 2 nci maddesi ile metinden çıkartılmıştır.
+(2) 3/4/2013 tarihli ve 6456 sayılı Kanunun 25 inci maddesiyle, bu fıkrada yer alan “Her türlü afetten” ibaresi “Her türlü acil durum ve afetten” şeklinde değiştirilmiştir.
 6892
 b) Bütçeye konulacak ödeneklerden,
 c) (Mülga: 23/7/1995 - 4122/15-c md.)

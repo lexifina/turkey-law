@@ -3,7 +3,7 @@ Madde 30 – (Değişik : 17/7/1972 - 1610/20 md.)
 Emlak Vergisi birinci taksidi Mart, Nisan ve Mayıs aylarında, ikinci taksidi Kasım ayı içinde olmak üzere iki eşit taksitte ödenir.
 –––––––––––––––
 (1) Bu maddenin birinci fıkrasının (b) bendindeki vergi miktarlarının 2012 yılı için uygulanması ile ilgili olarak; 26/12/2011 tarihli ve 28154 sayılı Resmi Gazete’de yayımlanan Maliye-Çevre ve Şehircilik Bakanlıklarının (Seri No: 58) Tebliğine bakınız.
-(2) 22/12/2011 tarihli ve 2012/2628 sayılı Bakanlar Kurulu Kararı Eki Karar ile; bu fıkrada yer alan artış oranı, yeniden değerleme oranı 2012 yılı için (%10,26) olarak tespit edilmiştir.
+(2) 22/12/2012 tarihli ve 2012/2628 sayılı Bakanlar Kurulu Kararı Eki Karar ile; bu fıkrada yer alan artış oranı, yeniden değerleme oranı 2012 yılı için (%10,26) olarak tespit edilmiştir.
 4698
 (İkinci fıkra Mülga : 4/12/1985 - 3239/141 md.)
 Maliye Bakanlığı ödeme aylarını, bölgelerin özelliklerine göre değiştirebilir.
