@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6456",
+  "year": 2013,
+  "title": "Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-04-18",
+  "gazette_issue": "28622",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130418-1.htm",
+  "source_sha256": "3c8d88aa05002c44c728beee213ed81504ec0b50bec1f059439aa5b8448db1c0",
+  "text_sha256": "b257357ab1e20f492a47a0e5463a93b887f9194a8236c191b6a25f1e19e16dff",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/04/18/28622-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130418-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
