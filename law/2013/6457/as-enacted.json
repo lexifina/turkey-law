@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6457",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Ukrayna Bakanlar Kurulu Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-04-18",
+  "gazette_issue": "28622",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130418-2.htm",
+  "source_sha256": "2f65074c83a1b57b262cb4d59d0f65cd49f41defca5fe7a39dcd1283d988bafb",
+  "text_sha256": "22a46af3c4f0775cbd4851281c03c7d8a0f5c6262c1d754f67fda5ceeed62ef2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/04/18/28622-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130418-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
