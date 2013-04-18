@@ -7,4 +7,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 Anayasa Mahkemesi’nin 17/6/2010 tarihli ve E.: 2008/22, K.: 2010/82 sayılı Kararı | 68 | 11/7/2011
 KHK/651 | 35, 52, 68, Geçici Madde 11 | 27/8/2011
 KHK/666 | 67, 72, III Sayılı Cetvel | 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
-10264
+6456 | 28 | 27/2/2008 tarihinden itibaren geçerli olmak üzere 18/4/2013 tarihinde

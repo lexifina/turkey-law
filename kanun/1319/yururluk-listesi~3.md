@@ -10,6 +10,7 @@ Değiştiren Kanunun Numarası | 1319 sayılı Kanunun değişen veya iptal edil
 5538 | Geçici Madde 22 | 12/7/2006
 5904 | 4, 14, 16, 29 | 3/7/2009
 5953 | 14 | 9/3/2010
+6456 | 4, 14 | 29/6/2012 tarihinden geçerli olmak üzere 18/4/2013
 4708-1
 1319 Sayılı Kanunun Çeşitli Maddelerindeki Oran ve Miktarlarda
 KARARNAMELER İLE YAPILAN
@@ -29,4 +30,4 @@ Tarihi Numarası Tarihi Numarası İlgili Madde
 2/3/1995 95/6616 31/3/1995 22244 Mükerrer 8
 8/1/1996 96/7774 31/1/1996 22540 Mükerrer 8
 27/12/1996 96/9019 29/1/1997 22892 Mükerrer 8
-6/3/1998 98/10752 19/3/1998 23291
+6/3/1998 98/10752 19/3/1998 23291 Mükerrer 8

@@ -1,5 +1,6 @@
 4706 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
-MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
+MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN
+HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
 GÖSTERİR LİSTE
 Değiştiren Kanunun/KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4706 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 Anayasa Mah.’nin E.: 2001/382, K.: 2002/21 sayılı Kararı | 3 | 4/10/2002
@@ -16,3 +17,6 @@ Anayasa Mah.’nin E.: 2009/13, K.: 2011/4 (Yürürlüğü Durdurma) | 7 | 5/2/2
 Anayasa Mah.’nin E.: 2009/13, K.: 2011/23 | 7 | 2/4/2011
 KHK/666 | 7 | 2/11/2011
 6353 | Ek Madde 3, Geçici Madde 7, 14 ve 15 | 12/7/2012
+8042
+Değiştiren Kanunun/KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4706 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+6456 | 2, Ek Madde 2 | 18/4/2013

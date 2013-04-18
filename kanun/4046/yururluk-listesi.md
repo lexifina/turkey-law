@@ -21,3 +21,4 @@ KHK/666 | 6 6 | 31/12/2011 tarihinden geçerli olmak üzere 2/11/2011 14/1/2012 
 Değiştiren Kanunun/ KHK’nin Numarası | 4046 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6300 | Ek Madde 5 | 10/5/2012
 6338 | 2,10, Geçici Madde 23, 24 | 1/1/2013
+6456 | Geçici Madde 25 | 18/4/2013

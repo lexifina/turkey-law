@@ -2,7 +2,7 @@
 1-24/7/2008 tarihli ve 5793 sayılı Kanunun geçici maddeleri:
 GEÇİCİ MADDE 1 – Devlet Su İşleri Genel Müdürlüğünce (DSİ) tahakkuk ettirilen sulama ve kurutma tesisleri işletme ve bakım ücretlerinden vadesi 1/1/2004 tarihinden önce olup bu maddenin yürürlüğe girdiği tarihe kadar tahsil edilememiş olanlar ile bunlara ilişkin fer’ilerin tahsilinden vazgeçilir ve bu alacaklar ilgili muhasebe birimleri tarafından terkin edilir. Bu alacaklardan, maddenin yürürlüğe girdiği tarihe kadar yapılmış olan tahsilât red ve iade edilmez. Bu maddenin uygulamasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.
 GEÇİCİ MADDE 2 – Genel bütçe kapsamındaki kamu idareleri ve hazine yardımı alan özel bütçeli idarelerin 2007 ve 2008 yıllarına ilişkin sosyal yardım zammı borçları ile Kamu İktisadi Teşebbüsleri ödeneklerinden ödeme yapılan Kamu İktisadi Teşebbüslerinin aynı döneme ilişkin, Maliye Bakanlığınca uygun bulunan sosyal yardım zammı borçlarını Çalışma ve Sosyal Güvenlik Bakanlığı bütçesinin 18.01.00.23-10.9.9.26-1-05.2 tertibinde yer alan ödenekten mahsup etmeye Çalışma ve Sosyal Güvenlik Bakanı yetkilidir.
-8690-3
+8690-5
 (I) SAYILI CETVEL(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)
 (Değişik: 22/12/2005-5436/12 md.)
 GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
@@ -48,7 +48,7 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 40) Hazine Müsteşarlığı
 (…)(8)
 42) Kamu Düzeni ve Güvenliği Müsteşarlığı
-8690-4
+8690-6
 43) Başbakanlık Yüksek Denetleme Kurulu
 44) Devlet Personel Başkanlığı
 45) Türkiye İstatistik Kurumu
@@ -61,6 +61,7 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 52) Basın-Yayın ve Enformasyon Genel Müdürlüğü
 53) Türkiye Halk Sağlığı Kurumu (10)
 54) Türkiye Kamu Hastaneleri Kurumu(10)
+55) (Ek:4/4/2013-6458/123) Göç İdaresi Genel Müdürlüğü
 ____________________
 (1) 1/7/2006 tarihli ve 5538 sayılı Kanunun 19 uncu maddesiyle bu cetvelde yer alan “45)Orman Genel Müdürlüğü” ibaresi çıkarılmış ve sıra numaraları yeniden teselsül ettirilmiştir.
 (2) 16/5/2006 tarihli ve 5502 sayılı Kanunun 42 nci maddesiyle; bu cetvelde bulunan “Sosyal Güvenlik Kurumu Başkanlığı” ibaresi çıkarılmıştır.
@@ -73,7 +74,7 @@ ____________________
 (9) 10/10/2011 tarihli ve 657 sayılı KHK’nın 16 ncı maddesiyle bu cetvelde geçen “Devlet Meteoroloji İşleri” ibaresi “Meteoroloji” şeklinde değiştirilmiştir.
 (10) 11/10/2011 tarihli ve 663 sayılı KHK’nın 58 inci maddesiyle bu Cetvele “53) Türkiye Halk Sağlığı Kurumu” ve “54) Türkiye Kamu Hastaneleri Kurumu” sıraları eklenmiştir.
 (11) 11/10/2011 tarihli ve 662 sayılı KHK’nın 58 inci maddesiyle bu Cetveldeki “48) Devlet Su İşleri Genel Müdürlüğü” ve “51) Petrol İşleri Genel Müdürlüğü” sıraları yürürlükten kaldırılmıştır.
-8690-5
+8690-7
 (II) SAYILI CETVEL (1)
 (Değişik: 22/12/2005-5436/12 md.)
 ÖZEL BÜTÇELİ İDARELER
@@ -110,7 +111,7 @@ A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLER
 30) Gaziantep Üniversitesi
 ––––––––––––––––––
 (1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu cetvelde yer alan “2 – Öğrenci Seçme ve Yerleştirme Merkezi” ibaresi yerine “2 – Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı” ibaresi eklenmiş ve metne işlenmiştir.
-8690-6
+8690-8
 31) Abant İzzet Baysal Üniversitesi
 32) Adnan Menderes Üniversitesi
 33) Afyon Kocatepe Üniversitesi
@@ -151,7 +152,7 @@ A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLER
 68) (Ek: 1/3/2006-5467/5 md.) Adıyaman Üniversitesi
 69) (Ek: 1/3/2006-5467/5 md.) Ordu Üniversitesi
 70) (Ek: 1/3/2006-5467/5 md.) Amasya Üniversitesi
-8690-7
+8690-9
 71) (Ek: 17/5/2007-5662/9 md.) Karamanoğlu Mehmetbey Üniversitesi
 72) (Ek: 17/5/2007-5662/9 md.) Ağrı Dağı Üniversitesi (1)
 73) (Ek: 17/5/2007-5662/9 md.) Sinop Üniversitesi
@@ -190,7 +191,7 @@ A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLER
 106) (Ek: 22/1/2013-6410/5 md.) Ankara Sosyal Bilimler Üniversitesi
 –––––––––––––––––
 (1) 19/6/2008 tarihli ve 5773 sayılı Kanunun 2 nci maddesiyle 28/3/1983 tarihli ve 2809 sayılı Kanuna eklenen Geçici 38 inci maddesinde; 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununda Ağrı Dağı Üniversitesine yapılmış olan atıfların Ağrı İbrahim Çeçen Üniversitesine yapılmış sayılacağı hüküm altına alınmıştır.
-8690-8
+8690-10
 B) ÖZEL BÜTÇELİ DİĞER İDARELER(1)(2)(3)(4)(5)
 1) Savunma Sanayi Müsteşarlığı
 2) Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
@@ -225,7 +226,7 @@ _____________________
 (4) 6/3/2011 tarihli ve 643 sayılı KHK’nin 13 üncü maddesiyle, bu bölümün 13 üncü sırası metne işlendiği şekilde değiştirilmiş, aynı bölüme” 39) Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı”,” 40) Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı “ sıraları eklenmiştir.
 (5) 8/8/2011 tarihli ve 649 sayılı KHK’nin 60 ncı maddesiyle, bu cetvelde yer alan “24) Millî Prodüktivite Merkezi” sırası yürürlükten kaldırılmıştır.
 (6) 11/10/2011 tarihli ve 662 sayılı KHK’nın 58 inci maddesiyle bu Cetveldeki “19) Elektrik İşleri Etüd İdaresi Genel Müdürlüğü” sırası yürürlükten kaldırılmıştır.
-8690-9
+8690-11
 27) Türkiye Atom Enerjisi Kurumu
 28) Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı
 (…) (1)
@@ -238,7 +239,7 @@ _____________________
 36) (Ek: 21/9/2006-5544/31 md.) Meslekî Yeterlilik Kurumu(3)
 37) (Ek: 24/3/2010-5978/30 md.) Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
 38) (Ek: 28/12/2010-6093/14 md.) Türkiye Yazma Eserler Başkanlığı
-39) (Ek: 6/3/2011-KHK-643/13 md.)Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı
+39) (Ek: 6/3/2011-KHK-643/13 md.) Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı
 40) (Ek: 6/3/2011-KHK-643/13 md.) Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı
 41) (Ek: 8/8/2011-KHK-649/60 md.)Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı
 42) (Ek: 11/10/2011-KHK-662/58 md.) Devlet Su İşleri Genel Müdürlüğü
@@ -267,6 +268,6 @@ _______________________
 (2) Bu sırada yer alan “Kamu Denetçiliği Kurumu”, 28/9/2006 tarihli ve 5548 sayılı Kanunun Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayılı Kararı ile tümüyle iptal edilmesinden dolayı yürürlükten kaldırılmış;14/6/2012 tarihli ve 6328 sayılı Kanunun 35 inci maddesi ile yeniden düzenlenmiştir.
 (3) 28/9/2006 tarihli ve 5548 sayılı Kanunun 36 ncı maddesiyle bu bölüme “29) Kamu Denetçiliği Kurumu” ibaresinin eklenmesinden dolayı, bu kurumlara ait sıra numaraları yeniden teselsül ettirilmiştir.
 (4) 25/6/2009 tarihli ve 5917 sayılı Kanunun 47 nci maddesiyle; bu Cetvelde yer alan “Telekomünikasyon Kurumu” ibaresi “Bilgi Teknolojileri ve İletişim Kurumu”, “Tütün, Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumu” ibaresi “Tütün ve Alkol Piyasası Düzenleme Kurumu” olarak değiştirilmiş ve metne işlenmiştir.
-(5) 24/10/2011 tarihli ve 656 sayılı KHK’nin 20 nci maddesiyle, bu bölümün 30 uncu sırasnda yer alan “Türk İşbirliği ve Kalkınma İdaresi Başkanlığı” ibaresi “Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı”olarak değiştirilmiş ve metne işlenmiştir.
-(6) 26/9/2011 tarihli ve 660 sayılı KHK’nin 32 nci maddesiyle, bu cetvele “9) KamuGözetimi, MuhasebeveDenetimStandartlarıKurumu” sırası eklenmiştir.
-8690-10
+(5) 24/10/2011 tarihli ve 656 sayılı KHK’nin 20 nci maddesiyle, bu bölümün 30 uncu sırasnda yer alan “Türk İşbirliği ve Kalkınma İdaresi Başkanlığı” ibaresi “Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı” olarak değiştirilmiş ve metne işlenmiştir.
+(6) 26/9/2011 tarihli ve 660 sayılı KHK’nin 32 nci maddesiyle, bu cetvele “9) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu” sırası eklenmiştir.
+8690-12

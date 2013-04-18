@@ -1,6 +1,7 @@
 2820 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
 YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
 Değiştiren Kanunun/ Numarası | 2820 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+Değiştiren Kanunun/ Numarası | 2820 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 2839 | – | 13/6/1983
 3032 | – | 9/7/1984
 3270 | – | 15/4/1986
@@ -21,3 +22,5 @@ Değiştiren Kanunun/ Numarası | 2820 sayılı Kanunun değişen veya iptal edi
 4778 | – | 11/1/2003
 5341 | Geçici Madde 16 | 7/5/2005
 6111 | 66, 74 | 25/2/2011
+Anayasa Mahkemesinin 12/1/2012 tarihli ve E.:2011/62 ve K.: 2012/2 sayılı kararı | 117 | 1/5/2013
+6456 | Geçici Madde 19 | 18/4/2013

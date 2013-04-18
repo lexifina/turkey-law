@@ -11,7 +11,7 @@ Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesinin Kararının Num
 5431 | II Sayılı Cetvel | 18/11/2005
 5436 | 65 inci maddenin son fıkranın ilk cümlesi, 67/i, Geçici Madde 4 deki ibare değişikliği, Geçici Madde 5, Geçici Madde 11 in ikinci fıkrası, (I), (II), (III) ve (IV) sayılı Cetvel | 24/12/2005
 2, 3, 10, 11, 13, 14, 17, 18, 20, 21, 23, 27, 28, 30, 31, 33, 34, 35, 37, 41, 42, 44, 47, 49 uncu maddenin beşinci ve altıncı fıkraları dışındaki fıkraları, 50, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 67, 69, 71, 74, 75, 76, 78, Ek Madde 1, Geçici Madde 6, 7 , Geçici Madde 11 in dördüncü fıkrası 49 uncu maddenin beşinci ve altıncı fıkraları | 1/1/2006 1/1/2007
-8690-11
+8690-13
 5467 | II Sayılı Cetvel | 17/3/2006
 5502 | (I) ve (IV) sayılı Cetvel | 20/5/2006
 5538 | (I) ve (II) Sayılı Cetvel Ek Madde 2 ve Geçici Madde 15 | 1/1/2006 tarihinden geçerli olmak üzere 12/7/2006 12/7/2006
@@ -26,7 +26,7 @@ Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayıl�
 5917 | 6, (III) Sayılı Cetvel (II) Sayılı Cetvel | 10/7/2009 1/1/2010
 5952 | (I) Sayılı Cetvel | 4/3/2010
 5978 | (II) Sayılı Cetvel | 6/4/2010
-8690-12
+8690-14
 5979 | (II) Sayılı Cetvel | 10/4/2010
 6001 | (I) ve (II) Sayılı Cetvel | 13/7/2010
 6005 | (II) Sayılı Cetvel | 21/7/2010
@@ -42,7 +42,7 @@ KHK/648 | (II) Sayılı Cetvel | 17/8/2011
 KHK/649 | (II) Sayılı Cetvel | 17/8/2011
 KHK/655 | (I) Sayılı Cetvel | 1/11/2011
 KHK/656 | (II) Sayılı Cetvel | 2/11/2011
-8690-13
+8690-15
 KHK/657 | (I) Sayılı Cetvel | 2/11/2011
 KHK/662 | (I) ve (II) Sayılı Cetvel | 2/11/2011
 KHK/658 | (II) Sayılı Cetvel | 2/11/2011
@@ -56,3 +56,5 @@ KHK/663 | (I) ve (II) Sayılı Cetvel | 2/11/2011
 6332 | (II) Sayılı Cetvel | 29/6/2012
 6338 | 15, 20, 25, 31, 51, 79 | 1/1/2013
 6410 | (II) Sayılı Cetvel | 31/1/2013
+6458 | (I) Sayılı Cetvel | 11/4/2013
+6456 | Geçici Madde 21 | 18/4/2013

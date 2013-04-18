@@ -13,12 +13,13 @@ Geçici Madde 4 – 31/12/2011 tarihine kadar, 19/12/2010 tarihinden önce 24/11
 7436-6
 EK : 1 SAYILI LİSTE
 ÖZELLEŞTİRME İDARESİ BAŞKANLIĞI MERKEZ TEŞKİLATI (1)
-Başkan Başkan Yardımcısı Ana Hizmet Birimleri Danışma Birimleri Yardımcı Birimler
+Başkan Başkan Yard.ımcısı Ana Hizmet Birimleri Danışma Birimleri Yardımcı Birimler
 -Başkan -Başkan Yardımcısı Sermaye Piyasaları Dai.Bşk. -Hukuk Müşavirliği -Personel ve Eğitim
 -Başkan Yardımcısı -Finansman ve Fon Yönetimi -Araşt.Plan ve Koor. Dai.Bşk.
 -Başkan Yardımcısı Dai.Bşk. Daire Başkanlığı -İdari ve Mali İşler
 -Başkan Yardımcısı -Danışmanlık Hiz.Dai.Bşk. -Basın ve Halkla İliş. Dai.Bşk.
--Başkan Yardımcısı -İhale Hizmetleri Dai.Bşk. Daire Başkanlığı -(Mülga:29/5/2009–5902/25 md.) (2)
+-Başkan Yardımcısı -İhale Hizmetleri Dai.Bşk. Daire Başkanlığı -(Mülga:29/5/2009–
+5902/25 md.) (2)
 -Proje Değerlendirme ve -Başkanlık Müşavirliği
 Hazırlık Dai.Bşk.
 -İstihdam ve Sosyal Planlama

@@ -12,5 +12,5 @@ genel idare hizmetleri sınıfına dahil kadrolarda sınav tarihi itibarıyla to
 Sınav komisyonunun oluşturulması, sınava katılabilecekler, sınav konuları, sınav ve yerleştirme ile söz konusu kadrolara atama ve atananların eğitimine ilişkin esas ve usûller Maliye Bakanlığınca belirlenir.
 5436 sayılı Kanunun geçici 2 nci maddesi ve bu madde gereğince malî hizmetler uzmanı kadrolarına atandıktan sonra en az üç yıl süreyle atandıkları idarelerde söz konusu kadrolarda görev yapanlar, kendilerinin isteği ve idarelerinin muvafakati ile başka bir kamu idaresinin aynı unvanlı kadrolarına atanabilirler.
 Bu maddenin uygulanmasına ilişkin olarak ortaya çıkabilecek tereddütleri gidermeye Maliye Bakanlığı yetkilidir.
-Geçici Madde 1 8–(Ek: 24/7/2008-5793/39 md.)
+Geçici Madde 1 8– (Ek: 24/7/2008-5793/39 md.)
 31/12/2012 tarihine kadar genel yönetim kapsamındaki kamu idarelerinin mali tabloları, muhasebe ve raporlama standartları ile muhasebe tekniğine uygunluk açısından Maliye Bakanlığınca denetlenebilir.

@@ -1,2 +1,2 @@
-Geçici Madde 19 –(Ek: 24/7/2008-5793/39 md.; Değişik: 6/4/2011-6225/16 md.)
+Geçici Madde 19 – (Ek: 24/7/2008-5793/39 md.; Değişik: 6/4/2011-6225/16 md.)
 2008-2015 yılları arasında, orman yangınları ile havadan mücadele hizmetlerinde kullanılmak maksadıyla Çevre ve Orman Bakanlığı tarafından gerçek ve tüzel kişilerden her nevi hava aracı kiralanmasında, sağlık hizmetlerinde kullanılmak maksadıyla Sağlık Bakanlığı tarafından gerçek ve tüzel kişilerden her nevi hava ve deniz aracı kiralanmasında, ülkemizde aşı ve biyolojik ürün üretimini sağlayacak ileri teknoloji transferine yönelik aşı ve biyolojik ürün temininde ve ileri teknoloji ürünü yüksek maliyetli tıbbi cihaz temininde bu Kanunun 28 inci maddesinde yer alan üç yıllık süre yedi yıla kadar uygulanır.
