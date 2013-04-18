@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "21",
+  "decision_date": "2013-04-18",
+  "source_id": 19438,
+  "chamber": "6",
+  "ilam_number": "128",
+  "item_number": 77,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19438/",
+  "source_sha256": "04739dc1f2ee78a675a5e5a7713f977d081d002ebdecb104d5d156bd41e847e3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
