@@ -1,0 +1,5 @@
+Taşınır İşlem Fişinin Düzenlenmemesi.
+
+Denetçi sorgusunda yer alan; …. Büyükşehir Belediyesi tarafından bazı kamu idarelerine bedelsiz devredilen taşınırlar için, mevzuat hükümlerine ve yapılan protokollere göre alınması gereken Taşınır İşlem Fişlerinin devir alan kamu idaresinden alınmadığı iddiasına ilişkin olarak, dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+…. Büyükşehir Belediyesi tarafından …. Belediye Başkanlığı’na ve …. Enstitüsüne bedelsiz devredilen taşınırlar için, 28/12/2006 tarihli ve 2006/11545 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Taşınır Mal Yönetmeliği’nin 24 ve 31’inci maddelerine aykırı olarak, devralan idareler tarafından düzenlenmesi gereken taşınır işlem fişlerinin düzenlenmediği anlaşılmakla beraber, sorumlularca yapılan savunmalarda söz konusu taşınırların devralan kamu idarelerince kayıtlara alındığına ilişkin belgelerin ibraz edildiği görüldüğünden, bahse konu taşınırların devrine ilişkin ….. TL için ilişilecek bir husus bulunmadığına oy birliğiyle karar verildi.
