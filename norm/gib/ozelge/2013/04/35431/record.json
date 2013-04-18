@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "30094508-140[2-2012/1.22]-14",
+  "source_id": 35431,
+  "date": "2013-04-18",
+  "title": "Temyiz talebinin reddi kararı üzerine ne şekilde karar ve ilam harcı ödeneceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35431",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "e8bcf701e651c4121a7df8371dcf111b6ad17b345c619236c901431915c65298",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
