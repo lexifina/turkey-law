@@ -11,7 +11,7 @@ h) Tacir veya şirket yöneticisi olan ya da şirket adına hareket eden kişile
 i) Serbest meslek sahibi kişiler tarafından, mesleklerinden dolayı kendilerine duyulan güvenin kötüye kullanılması suretiyle,
 j) Banka veya diğer kredi kurumlarınca tahsis edilmemesi gereken bir kredinin açılmasını sağlamak maksadıyla,
 k) Sigorta bedelini almak maksadıyla,
-İşlenmesi halinde, iki yıldan yedi yıla kadar hapis ve beşbin güne kadar adlî para cezasına hükmolunur. (Ek cümle: 29/6/2005 – 5377/19 md.) Ancak, (e), (f) ve (j) bentlerinde sayılan hâllerde hapis cezasının alt sınırı üç yıldan, adlî para cezasının miktarı suçtan elde edilen menfaatin iki katından az olamaz.
+İşlenmesi halinde, iki yıldan yedi yıla kadar hapis ve beşbin güne kadar adlî para cezasına hükmolunur. (Ek cümle: 29/6/2005 – 5377/19 md.; Değişik: 3/4/2013-6456/40 md.) Ancak, (e), (f), (j) ve (k) bentlerinde sayılan hâllerde hapis cezasının alt sınırı üç yıldan, adli para cezasının miktarı suçtan elde edilen menfaatin iki katından az olamaz.
 __________________
 (1) Bu fıkrada geçen "Başkasına ait olup da," ibaresinden sonra gelmek üzere, 29/6/2005 tarihli ve 5377 sayılı Kanunun 18 inci maddesiyle "muhafaza etmek veya" ibaresi eklenmiş ve metne işlenmiştir.
 9006

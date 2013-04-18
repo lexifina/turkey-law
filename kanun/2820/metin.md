@@ -129,7 +129,7 @@ DÖRDÜNCÜ BÖLÜM
 İl teşkilatı:
 Madde 19 – Siyasi partilerin il teşkilatı; il kongresi, il başkanı, il yönetim kurulu ve il disiplin kurulundan oluşur.
 5709
-İl kongresi, sayısı altıyüzden fazla olmamak üzere, parti tüzüğüne göre ilçe kongrelerince seçilen delegelerden oluşur. O ilin partili milletvekilleri ile yönetim ve disiplin kurulları başkan ve üyeleri, il kongresinin tabii üyeleridir. Geçici yönetim kurulu başkan ve üyeleri de kongreye katılma hakkına sahiptirler. Ancak geçici il yönetim kurulu başkanı ve üyelerinden delege sıfatı ol- mayanların kongrede oy kullanma hakları yoktur.
+İl kongresi, sayısı altıyüzden fazla olmamak üzere, parti tüzüğüne göre ilçe kongrelerince seçilen delegelerden oluşur. O ilin partili milletvekilleri ile yönetim ve disiplin kurulları başkan ve üyeleri, il kongresinin tabii üyeleridir. Geçici yönetim kurulu başkan ve üyeleri de kongreye katılma hakkına sahiptirler. Ancak geçici il yönetim kurulu başkanı ve üyelerinden delege sıfatı olmayanların kongrede oy kullanma hakları yoktur.
 (Değişik: 23/5/1987 - 3377/11 md.) İl kongresi, büyük kongrenin yapılmasına engel olmayacak şekilde parti tüzüğünde gösterilen süreler içinde toplanır.
 (Değişik: 21/5/1987 - 3370/6 md.) İl yönetim kurulu, parti tüzüğünün göstereceği sayıda üyeden oluşur. Bu sayı 7'den az olamaz.
 İl başkanı ile il yönetim kurulu il kongresince seçilir. İl başkanı ile yönetim kurulunun, seçim şekli ve merkez karar ve yönetim kurulunca hangi hallerde ve nasıl işten el çektirileceği ve geçici yönetim kurulunun nasıl oluşturulacağı parti tüzüğünde gösterilir. El çektirme kararı, 101 inci maddenin (d - 1) bendinde gösterilen haller dışında, yetkili kurulların üye tamsayısının üçte iki çoğunluğu ve gizli oyla alınır. İşten el çektirme kararının il yönetim kuruluna bildirilmesinden itibaren kırkbeş gün içinde il kongresi toplanarak yeni il yönetim kurulunu seçer. Bu süre içerisinde il kongresi için yeni delegeler seçilmiş değilse, kongre eski delegelerle toplanır.
@@ -153,7 +153,7 @@ Siyasi partilerin, illerin merkez ilçelerinde teşkilat kurmaları hususunda il
 Seçimlerin yapılması:
 Madde 21 – Siyasi partilerin genel merkez, il ve ilçe organları seçimleri ile il kongresi ve büyük kongre delegelerinin seçimleri, yargı gözetimi altında gizli oy ve açık tasnif esasına göre aşağıdaki şekilde yapılır.
 Seçim yapılacak büyük kongreyle il ve ilçe kongrelerinin toplantılarından en az onbeş gün önce, kongreye katılacak parti üyelerini belirleyen listeler, büyük kongreyle il kongreleri için Yüksek Seçim kurulunun önceden belirleyeceği seçim kurulu başkanına, ilçe kongreleri için o yer ilçe seçim kurulu başkanına ilçede birden fazla ilçe seçim kurulunun bulunması halinde birinci ilçe seçim kurulu başkanına iki nüsha olarak verilir. Ayrıca toplantının gündemi, yeri, günü, saati ile çoğunluk sağlanamadığı takdirde yapılacak ikinci toplantıya ilişkin hususlar da bildirilir.
-Seçim kurulu başkanı, gerektiğinde ilgili kayıt ve belgeleri de getirtip incelemek suretiyle varsa noksanları tamamlattırdıktan sonra seçime katılacakları belirleyen liste ile yukarıdaki fıkrada belirtilen diğer hususları onaylar. Onaylanan liste ile toplantıya ilişkin diğer hususlar kongrenin toplantı tarihinden yedi gün önce siyasi partinin ilgili teşkilatının bulunduğu binada asıl- mak suretiyle ilan edilir. İlan süresi üç gündür.
+Seçim kurulu başkanı, gerektiğinde ilgili kayıt ve belgeleri de getirtip incelemek suretiyle varsa noksanları tamamlattırdıktan sonra seçime katılacakları belirleyen liste ile yukarıdaki fıkrada belirtilen diğer hususları onaylar. Onaylanan liste ile toplantıya ilişkin diğer hususlar kongrenin toplantı tarihinden yedi gün önce siyasi partinin ilgili teşkilatının bulunduğu binada asılmak suretiyle ilan edilir. İlan süresi üç gündür.
 İlan süresi içinde, listeye yapılacak itirazlar hakim tarafından incelenir ve en geç iki gün içinde kesin olarak karara bağlanır. Bu suretle kesinleşen listeler ile toplantıya ilişkin diğer hususlar, hakim tarafından onaylanarak siyasi partinin ilgili teşkilatına gönderilir.
 5711
 (Değişik: 28/3/1986 - 3270/7 md.) Kongrelerde yapılacak seçimler ilgili seçim kurulunun gözetimi ve denetiminde yapılır. Bu seçimlerin usul ve şekilleri ile seçimlerde kullanılacak oy pusulası ve listelerin tanzim tarzı siyasi partilerin tüzük ve kongre yönetmelikleri ile düzenlenir.
@@ -171,7 +171,7 @@ Grup kurma:
 Madde 22 – En az yirmi milletvekiline sahip siyasi partiler, Türkiye Büyük Millet Meclisinde grup kurabilirler.
 Bir siyasi partinin grup kurduğu, o partinin genel başkanlığı tarafından Türkiye Büyük Millet Meclisi Başkanlığına yazıyla bildirilir.
 Grup iç yönetmeliği:
-Madde 23 – Grup içyönetmeliği, grubun kurulduğunun bildirildiği tarihten itibaren onbeş gün içinde, grubu oluşturan milletvekilleri tarafından hazırlanır. Bu
+Madde 23 – Grup iç yönetmeliği, grubun kurulduğunun bildirildiği tarihten itibaren onbeş gün içinde, grubu oluşturan milletvekilleri tarafından hazırlanır. Bu
 5712
 içyönetmeliğin, milletvekillerinin salt çoğunluğu tarafından kabul edilmesi zorunludur. Bu şekilde hazırlanan içyönetmelik, Türkiye Büyük Millet Meclisi Başkanlığına gönderilir.
 Grup içyönetmeliğine, parti tüzük ve programına aykırı hükümler konulamaz.
@@ -411,7 +411,7 @@ Parti bütçeleri ve kesinhesabı:
 Madde 73 – Siyasi partilerin, bağlı ilçeleri de kapsamak üzere iller teşkilatı ayrı ayrı gelir tahminlerini ve gider miktarlarını gösteren bir yıllık bütçe hazırlarlar ve ilgili takvim yılından önceki Ekim ayı sonuna kadar genel merkeze gönderirler. Bu bütçeler ile aynı süre içinde hazırlanacak genel merkez bütçesi en geç ilgili takvim yılından önceki Aralık ayı sonuna kadar parti merkez karar ve yönetim kurulunca incelenir ve karara bağlanır.
 Siyasi partilerin hesapları bilanço esasına göre düzenlenir.
 Parti merkezi ve bağlı ilçeleri de kapsamak üzere iller teşkilatı her bütçe yılını izleyen Nisan ayı sonuna kadar, bir evvelki yıla ait uygulama sonuçlarını gösteren kesinhesaplarını hazırlarlar. İller teşkilatından gönderilenler ve parti merkezine ait olan kesinhesaplar, merkez karar ve yönetim kurulunca incelenerek karara bağlanır ve birleştirilir.
-Siyasi partilerin bütçeleri, bilançoları, gelir ve gider cetvelleri ile kesinhesaplarının nasıl düzenleneceği partilerin içyönetmeliklerinde gösterilir.
+Siyasi partilerin bütçeleri, bilançoları, gelir ve gider cetvelleri ile kesinhesaplarının nasıl düzenleneceği partilerin iç yönetmeliklerinde gösterilir.
 DÖRDÜNCÜ BÖLÜM
 Anayasa Mahkemesince Yapılacak Mali Denetim
 Kesinhesabın gönderilmesi:
@@ -448,7 +448,6 @@ Amaçlar ve Faaliyetlerle İlgili Yasaklar
 Demokratik Devlet düzeninin korunması ile ilgili yasaklar:
 Madde 78 – Siyasi partiler:
 a) Türkiye Devletinin Cumhuriyet olan şeklini; Anayasanın başlangıç kısmında ve 2 nci maddesinde belirtilen esaslarını; Anayasanın 3 üncü maddesinde
-5724-2
 5725
 açıklanan Türk Devletinin ülkesi ve milletiyle bölünmez bütünlüğüne, diline, bayrağına, milli marşına ve başkentine dair hükümlerini; egemenliğin kayıtsız şartsız Türk Milletine ait olduğu ve bunun ancak, Anayasanın koyduğu esaslara göre yetkili organları eliyle kullanılabileceği esasını; Türk Milletine ait olan egemenliğin kullanılmasının belli bir kişiye, zümreye veya sınıfa bırakılamayacağı veya hiçbir kimse veya organın, kaynağını Anayasadan almayan bir Devlet yetkisi kullanamayacağı hükmünü; seçimler ve halkoylamalarının serbest, eşit, gizli, genel oy, açık sayım ve döküm esaslarına göre, yargı yönetim ve denetimi altında yapılması esasını değiştirmek;
 Türk Devletinin ve Cumhuriyetin varlığını tehlikeye düşürmek, temel hak ve hürriyetleri yok etmek, dil, ırk, renk, din ve mezhep ayrımı yaratmak veya sair herhangi bir yoldan bu kavram ve görüşlere dayanan bir devlet düzeni kurmak;
@@ -580,14 +579,14 @@ Bir siyasi partinin Anayasanın 68 inci maddesinin dördüncü fıkrası hükmü
 (Ek:26/3/2002-4748/4 md.) Bir siyasî parti, bu nitelikteki fiiller o partinin üyelerince yoğun bir şekilde işlendiği ve bu durum o partinin büyük kongre veya genel başkan veya merkez karar veya yönetim organları veya Türkiye Büyük Millet Meclisindeki grup genel kurulu veya grup yönetim kurulunca zımnen veya açıkça benimsendiği yahut bu fiiller doğrudan doğruya anılan parti organlarınca kararlılık içinde işlendiği takdirde, söz konusu fiillerin odağı haline gelmiş sayılır.
 Diğer sebeplerle başvuru
 Madde 104 - (Değişik birinci fıkra:12/8/1999-4445/19 md.) Bir siyasi partinin bu Kanunun 101 inci maddesi dışında kalan emredici hükümleriyle diğer kanunların siyasi partilerle ilgili emredici hükümlerine aykırılık halinde bulunması sebebiyle o parti aleyhine Anayasa Mahkemesine, Cumhuriyet Başsavcılığınca re`sen yazı ile başvurulur.
-(Değişik: 2/1/2003-4778/12 md.) Anayasa Mahkemesi, söz konusu hükümlere aykırılık görürse bu aykırılığın giderilmesi için ilgili siyasî parti hakkında ihtar kararı verir. (İptal ikinci cümle: Ana.Mah.`nin 11/6/2009 tarihli ve E.: 2008/5, K.:2009/81 sayılı Kararı ile.)
+(Değişik: 2/1/2003-4778/12 md.) Anayasa Mahkemesi, söz konusu hükümlere aykırılık görürse bu aykırılığın giderilmesi için ilgili siyasî parti hakkında ihtar kararı verir. (İptal ikinci cümle: Ana.Mah.`nin 11/6/2009 tarihli ve E.: 2008/5, K.:2009/81 sayılı kararı ile.)
 __________________
 (1) Bu fıkrada geçen "Cumhuriyet Başsavcılığı" ibaresi, 26/3/2002 tarih ve 4748 sayılı Kanunun 4 üncü maddesiyle "Yargıtay Cumhuriyet Başsavcılığı" olarak değiştirilmiş ve metne işlenmiştir.
 (2) Bu arada geçen, “kapatılması ya da” ibareleri, 2/1/2003 tarihli ve 4778 sayılı Kanunla metinden çıkarılmıştır.
 5732
 Seçimlere katılmama nedeniyle dava açılması:
-Madde 105 – (İptal: Ana. Mah.nin 1/4/2003 tarihli ve E.:2003/21, K.:2003/13 sayılı Kararı ile.)
-İdari mercilerin, savcıların vemahkemelerin görevi:
+Madde 105 – (İptal: Ana. Mah.nin 1/4/2003 tarihli ve E.:2003/21, K.:2003/13 sayılı Kararı ile)
+İdari mercilerin, savcıların ve mahkemelerin görevi:
 Madde 106 – Bu Kanunun 101, 103 ve 104 üncü maddelerinde belirtilen fiil ve haller hakkında bilgi edinen idari merciler, bu bilgileri mahalli Cumhuriyet savcılığına derhal ve yazılı olarak intikal ettirirler. Mahkemeler de, bu gibi fiil ve halleri öğrendikleri zaman durumu derhal mahalli Cumhuriyet savcılığına yazı ile duyururlar. Cumhuriyet savcılıkları, bu bilgileri hemen Adalet Bakanlığına ve belgeleriyle birlikte Cumhuriyet Başsavcılığına yazı ile bildirirler.
 Kapatılan partinin malları:
 Madde 107 – Anayasa Mahkemesi kararıyla kapatılan siyasi partinin bütün malları Hazineye geçer.
@@ -657,14 +656,14 @@ ______________
 5735
 Devletçe yardım:
 Ek Madde 1 – (27/6/1984 - 3032/2 md. ile gelen Ek Madde hükmü olup teselsül için numaralandırılmıştır.)
-Yüksek Seçim Kurulunca son milletvekili genel seçimlerine katılma hakkı tanınan ve 2839 sayılı Milletvekili Seçimi Kanununun 33 üncü maddesindeki genel barajı aşmış bulunan siyasi partilere her yıl Hazineden ödenmek üzere o yılki genel bütçe gelirleri "(B) Cetveli" toplaamının beşbinde ikisi oranında ödenek mali yıl için konur. (1)
+Yüksek Seçim Kurulunca son milletvekili genel seçimlerine katılma hakkı tanınan ve 2839 sayılı Milletvekili Seçimi Kanununun 33 üncü maddesindeki genel barajı aşmış bulunan siyasi partilere her yıl Hazineden ödenmek üzere o yılki genel bütçe gelirleri "(B) Cetveli" toplamının beşbinde ikisi oranında ödenek mali yıl için konur. (1)
 (Değişik birinci cümle: 12/8/1999 - 4445/21 md.) Bu ödenek, yukarıdaki fıkra gereğince Devlet yardımı yapılacak siyasi partiler arasında, bu partilerin genel seçim sonrasında Yüksek Seçim Kurulunca ilan edilen toplam geçerli oy sayıları ile orantılı olarak bölüştürülmek suretiyle her yıl ödenir. Bu ödemelerin o yılki genel bütçe kanununun yürürlüğe girmesini takiben on gün içinde tamamlanması zorunludur.
 (Mülga üçüncü fıkra: 12/8/1999 - 4445/21 md.)
 Bu yardım sadece parti ihtiyaçları veya parti çalışmalarında kullanılır.
 (Ek fıkralar: 7/8/1988 - 3470/1 md.)
 Milletvekili genel seçimlerinde toplam geçerli oyların % 7'sinden fazlasını alan siyasi partilere de Devlet yardımı yapılır. Bu yardım en az Devlet yardımı alan siyasi partinin ikinci fıkra gereğince almış olduğu yardım ve genel seçimlerde aldığı toplam geçerli oy esas alınarak kazandıkları oyla orantılı olarak yapılır. Ancak bu yardım üçyüzelli milyon liradan az olamaz. Bunun için her yıl Maliye ve Gümrük Bakanlığı bütçesine yeterli ödenek konulur.
 Yukarıdaki fıkralarda öngörülen yardım miktarları; bu yardımdan faydalanabilecek siyasi partilere, milletvekili genel seçiminin yapılacağı yıl üç katı, mahalli idareler genel seçim yılı için iki katı olarak ödenir. Her iki seçim aynı yıl içerisinde yapıldığında bu ödemenin miktarı üç katı geçemez. Bu fıkra gereğince yapılacak katlı ödemeler, Yüksek Seçim Kurulunun seçim takvimine dair kararının ilanını izleyen 10 gün içinde yapılır.
-(Ek fıkra: 12/8/1999 - 4445/21 md.) Bu Kanunun 76 ncı maddesi hükmü dairesinde gelirleri Hazineye irat kaydedilen ve taşınmaz malları Hazine adına tapuya tescil edilen siyasi partilere, bu madde gereğince yapılacak Devlet yardımından, Hazineye irat kaydedilengelirin Hazine adına tapuya tescil edilen taşınmazların toplam değerinin iki katı indirilir.
+(Ek fıkra: 12/8/1999 - 4445/21 md.) Bu Kanunun 76 ncı maddesi hükmü dairesinde gelirleri Hazineye irat kaydedilen ve taşınmaz malları Hazine adına tapuya tescil edilen siyasi partilere, bu madde gereğince yapılacak Devlet yardımından, Hazineye irat kaydedilen gelirin Hazine adına tapuya tescil edilen taşınmazların toplam değerinin iki katı indirilir.
 Ek Madde 2 - (21/5/1987 - 3370/10 md. ile gelen Ek 1 inci Madde hükmü olup numarası teselsül ettirilmiştir.)
 İlçe belediye başkanı ile ilçeye bağlı diğer belediyelerin başkanları, üyesi olduğu partinin ilçe kongresinin; büyükşehir belediye başkanları dışındaki il belediye başkanları ile merkez ilçe çevresindeki diğer belediyelerin başkanları merkez ilçe kongresinin; büyükşehir belediye başkanları il kongresinin tabii üyesidirler.
 Ek Madde 3 - (21/5/1987 - 3370/10 md. ile gelen Ek 2 nci Madde hükmü olup numarası teselsül ettirilmiştir.)
@@ -685,7 +684,7 @@ Geçici Madde 3 – Bu Kanunun geçici 1 inci maddesi uyarınca kendilerine öze
 Resmi Gazetede yayım tarihinden itibaren onbeş gün içinde ilgililerin İçişleri Bakanlığına itiraz hakları vardır. İçişleri Bakanlığı yapılan itirazları onbeş gün içinde inceleyerek karara bağlar.
 Özel yasaklamaya tabi olduğu sonradan anlaşılanlar hakkında da yukarıdaki hükümler uygulanır.
 Geçici Madde 4 – Bu Kanunun yürürlüğe girmesini müteakip yapılacak ilk milletvekili genel seçimlerinin sonucunun Yüksek Seçim Kurulu tarafından ilanına kadar, Milli Güvenlik Konseyi;
-Siyasi parti kurmak üzereİçişleri Bakanlığına verilen kuruluş bildirisinde adı yazılı bulunan parti kurucuları üzerinde incelemede bulunmak yetkisine sahiptir. Bu inceleme sonucunda bu görevler için uygun görülmeyenler hakkında; Milli Güvenlik Konseyi, temelli kapatılan siyasi partilerin her kademedeki yöneticileri ile üyelerine parti faaliyetlerine katılma kısıtlılığı getiren Anayasanın 69 uncu maddesi hükümlerine dayalı olarak, üye tamsayısı ile karar alır. Bu suretle hakkında olumsuz karar alınan kurucu yerine, diğer kurucular tarafından yenileri önerilebilir.
+Siyasi parti kurmak üzere İçişleri Bakanlığına verilen kuruluş bildirisinde adı yazılı bulunan parti kurucuları üzerinde incelemede bulunmak yetkisine sahiptir. Bu inceleme sonucunda bu görevler için uygun görülmeyenler hakkında; Milli Güvenlik Konseyi, temelli kapatılan siyasi partilerin her kademedeki yöneticileri ile üyelerine parti faaliyetlerine katılma kısıtlılığı getiren Anayasanın 69 uncu maddesi hükümlerine dayalı olarak, üye tamsayısı ile karar alır. Bu suretle hakkında olumsuz karar alınan kurucu yerine, diğer kurucular tarafından yenileri önerilebilir.
 Bu inceleme işlemi, kuruluş bildirisinin İçişleri Bakanlığına verilmesi ile birlikte partinin tüzelkişilik kazanması hakkını önlemez ve geciktirmez.
 İçişleri Bakanlığı, kendisine verilen kuruluş bildirisi ve eklerinin (Program ve tüzük hariç) birer örneğini yirmidört saat içinde Milli Güvenlik Konseyi Başkanlığına ulaştırır.
 Milli Güvenlik Konseyi inceleme sonucunu ilgili partiye iletmek üzere İçişleri Bakanlığına ve aynı zamanda Cumhuriyet Başsavcılığına yirmi gün içinde bildirir.
@@ -735,14 +734,15 @@ Geçici Madde 17 – (Ek: 25/12/1993 - 3945/2 md.)
 Siyasi partiler tüzüklerinde gerekli değişiklikleri yapıncaya kadar merkez karar organları istifaya ilişkin usul ve esasları tespite yetkilidir.
 Geçici Madde 18 – (Ek: 12/8/1999 - 4445/24 md.)
 Siyasi partilerin merkez karar ve yönetim kurulları, bu Kanunun yürürlüğe girmesinden itibaren altı ay içerisinde gerekli görülen tüzük değişikliğini yapmaya yetkilidir. Bu değişiklikler izleyen ilk büyük kongrenin onayına sunulur.
+Geçici Madde 19 – (Ek: 3/4/2013-6456/54 md.)
+13/2/2011 tarihli ve 6111 sayılı Bazı Alacakların Yeniden Yapılandırılması ile Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve Diğer Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunla Siyasi Partiler Kanununun 74 üncü maddesinde yapılan değişiklik hükümleri, anılan değişikliklerin yürürlüğe girdiği tarih itibarıyla Anayasa Mahkemesi tarafından sonuçlandırılmamış denetimler hakkında da uygulanır.
 ONUNCU KISIM
-Yürürlük veYürütme
+Yürürlük ve Yürütme
 Yürürlük:
 Madde 123 – Bu Kanun yayımı tarihinde yürürlüğe girer.
 Yürütme:
 Madde 124 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-5738-2
-5739-5741
+5739
 22/4/1983 TARİHLİ VE 2820 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER:
 1 – 31/3/1988 tarih ve 3420 sayılı Kanunun geçici maddeleri:
 Geçici Madde 1 – Cumhuriyet Başsavcılığının, Siyasi Partiler Kanununun 10 uncu maddesine bu Kanunla eklenen fıkra gereğince 1988 yılı içinde yapacağı harcamalarını karşılayacak miktarı, Adalet Bakanlığı 1988 yılı bütçesi seçim giderleri ödeneğinden, bu Bakanlığın talebi üzerine Yargıtay Başkanlığı bütçesine aktarmaya ve bu konuda gerekli işlemleri yapmaya Maliye ve Gümrük Bakanı yetkilidir.

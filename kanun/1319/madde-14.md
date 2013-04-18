@@ -1,13 +1,14 @@
 İKİNCİ BÖLÜM
 Muaflık ve İstisnalar
 Daimi muaflıklar: (2)
-Madde 14 – (Değişik birinci fıkra : 16/10/1981 - 2536/2 md.) Aşağıda yazılı arazi kiraya verilmemek (24.11.1994 tarihli ve 4046 sayılı Kanun kapsamında yapılan işletme hakkı devirleri hariç) şartıyla Arazi Vergisinden daimi olarak muaftır. ((a),(b),(f) ve (ı) fıkralarındaki arazi için kiraya verilmeme şartı aranmaz.)(3) (4)
+Madde 14 – (Değişik birinci fıkra : 16/10/1981 - 2536/2 md.) Aşağıda yazılı arazi kiraya verilmemek (24.11.1994 tarihli ve 4046 sayılı Kanun kapsamında yapılan işletme hakkı devirleri hariç) şartıyla Arazi Vergisinden daimi olarak muaftır. ((a), (b), (f), (ı) ve (j) fıkralarındaki arazi için kiraya verilmeme şartı aranmaz.)(3)(4)(5)
 __________
 (1) Bu fıkrada yer alan “müşterek mülkiyet” ve “iştirak halinde mülkiyette” ibareleri 7/3/2002 tarihli ve 4746 sayılı Kanunla sırasıyla “paylı mülkiyet” ve “elbirliği mülkiyette” olarak değiştirilmiş ve metne işlenmiştir.
 (2) 16/6/2009 tarihli ve 5904 sayılı Kanunun 39 uncu maddesiyle; bu maddede yer alan “Katma” ibaresi “Özel” şeklinde değiştirilmiş ve metne işlenmiştir.
 (3) Bu fıkrada yer alan; "(a),(b) ve (f)” ibaresi, 12/12/2003 tarihli ve 5020 sayılı Kanunun 9 uncu maddesi ile "(a),(b),(f) ve (ı)” şeklinde değiştirilmiş ve metne işlenmiştir.
-(4) Bu fıkrada yer alan”kiraya verilmemek şartıyla”ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle “ kiraya verilmemek (24.11.1994 tarihli ve 4046 sayılı Kanun kapsamında yapılan işletme hakkı devirleri hariç) şartıyla" olarak değiştirilmiş ve metne işlenmiştir.
-4693
+(4) Bu fıkrada yer alan ”kiraya verilmemek şartıyla” ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle “ kiraya verilmemek (24.11.1994 tarihli ve 4046 sayılı Kanun kapsamında yapılan işletme hakkı devirleri hariç) şartıyla" olarak değiştirilmiş ve metne işlenmiştir.
+(5) 3/4/2013 tarihli ve 6456 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “(a), (b), (f) ve (ı)” ibaresi “(a), (b), (f), (ı) ve (j)” şeklinde değiştirilmiştir.
+4692-2
 a) Özel bütçeli idarelere, il özel idarelerine, belediyelere ve köy tüzel kişiliğine, kanunla kurulan üniversitelere ve Devlete ait arazi; (1)
 b) İl özel idareleri, belediyeler ve köyler ile bunların teşkil ettikleri birlikler veya bunlara bağlı müesseseler tarafından işletilen:
 aa) Su, elektrik, havagazı, mezbaha ve soğuk hava işletmelerine ait arazi;
@@ -20,3 +21,8 @@ g) (Ek : 4/12/1985 - 3239/104 md.) Belediye ve mücavir alan sınırları dış�
 h) (Ek : 23/6/2000 - 4586/14 md.) Petrolün boru hatları ile transit geçişi ile ilgili projeler kapsamında; kamulaştırma ile görevlendirilen kamu kurum veya kuruluşunun maliki veya irtifak hakkı sahibi olduğu ve ilgili proje yatırımcıları lehine irtifak hakkı tesis edilmiş gayrimenkuller.
 ı) (Ek: 12/12/2003-5020/9 md.) 4389 sayılı Bankalar Kanunu hükümlerine göre temettü hariç ortaklık hakları ile yönetim ve denetimleri veya hisseleri kısmen veya tamamen Tasarruf Mevduatı Sigorta Fonuna intikal eden bankalara, tasfiyeleri Tasarruf Mevduatı Sigorta Fonu eliyle yürütülen müflis bankaların iflâs idarelerine ait arazi ve arsalar.
 i) (Ek: 25/2/2010-5953/2 md.) Toplu Konut İdaresi Başkanlığına ait arazi ve arsalar.
+j) (Ek: 3/4/2013-6456/23 md.) 4749 sayılı Kanunun 7/A maddesi kapsamında kira sertifikası ihracı işlemine konu olan arazi ve arsalar.
+——————————
+(1) 16/6/2009 tarihli ve 5904 sayılı Kanunun 39 uncu maddesiyle; bu bentte yer alan “Katma” ibaresi “Özel” şeklinde değiştirilmiş ve metne işlenmiştir.
+(2) 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesi ile "götürü" ibaresi "basit" şeklinde değiştirilmiş ise de,bu değişikliğin 1/1/1999 tarihinde yürürlüğe gireceği anılan Kanunun 86 nccı maddesi ile hüküm altına alınmıştır.
+4693

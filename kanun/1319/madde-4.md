@@ -1,11 +1,12 @@
 İKİNCİ BÖLÜM
 Muaflık ve İstisnalar
 Daimi muaflıklar:
-Madde 4 – (Değişik birinci fıkra : 16/10/1981 - 2536/1 md.) Aşağıda yazılı binalar, kiraya verilmemek (24.11.1994 tarihli ve 4046 sayılı Kanun kapsamında yapılan işletme hakkı devirleri hariç) şartıyla Bina Vergisinden daimi olarak muaftır.((a), (b), (s) ve (y) fıkraları için kiraya verilmeme şartı aranmaz.) (2) (3)
-________________
-1) Bu fıkrada yer alan “müşterek mülkiyet” ve “iştirak halinde mülkiyette” ibareleri 3/4/2002 tarihli ve 4751 sayılı Kanunla sırasıyla “paylı mülkiyet” ve “elbirliği mülkiyette” olarak değiştirilmiş ve metne işlenmiştir.
-2) Bu fıkrada yer alan; "(a),(b) ve (s)" ibaresi, 12/12/2003 tarihli ve 5020 sayılı Kanunun 8 inci maddesi ile "(a),(b), (s) ve (y)” şeklinde değiştirilmiş ve metne işlenmiştir.
-3) Bu fıkrada yer alan”kiraya verilmemek şartıyla”ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle “ kiraya verilmemek (24.11.1994 tarihli ve 4046 sayılı Kanun kapsamında yapılan işletme hakkı devirleri hariç) şartıyla" olarak değiştirilmiş ve metne işlenmiştir.
+Madde 4 – (Değişik birinci fıkra : 16/10/1981 - 2536/1 md.) Aşağıda yazılı binalar, kiraya verilmemek (24.11.1994 tarihli ve 4046 sayılı Kanun kapsamında yapılan işletme hakkı devirleri hariç) şartıyla Bina Vergisinden daimi olarak muaftır. ( (a), (b), (s), (y) ve (z) fıkraları için kiraya verilmeme şartı aranmaz.) (2) (3)(4)
+__________________
+(1) Bu fıkrada yer alan “müşterek mülkiyet” ve “iştirak halinde mülkiyette” ibareleri 3/4/2002 tarihli ve 4751 sayılı Kanunla sırasıyla “paylı mülkiyet” ve “elbirliği mülkiyette” olarak değiştirilmiş ve metne işlenmiştir.
+(2) Bu fıkrada yer alan; "(a),(b) ve (s)" ibaresi, 12/12/2003 tarihli ve 5020 sayılı Kanunun 8 inci maddesi ile "(a),(b), (s) ve (y)” şeklinde değiştirilmiş ve metne işlenmiştir.
+(3) Bu fıkrada yer alan” kiraya verilmemek şartıyla ”ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle “ kiraya verilmemek (24.11.1994 tarihli ve 4046 sayılı Kanun kapsamında yapılan işletme hakkı devirleri hariç) şartıyla" olarak değiştirilmiş ve metne işlenmiştir.
+(4) 3/4/2013 tarihli ve 6456 sayılı Kanunun 22 nci maddesiyle, bu fıkrada yer alan “(a), (b), (s) ve (y)” ibaresi “(a), (b), (s), (y) ve (z)” şeklinde değiştirilmiştir.
 4688
 a) (Değişik : 17/7/1972 - 1610/1 md.) Özel bütçeli idarelere (Mazbut vakıflar dahil), il özel idarelerine, belediyelere, köy tüzel kişiliğine, kanunla kurulan üniversitelere ve Devlete ait binalar; (1)
 b) (Değişik : 17/7/1972 - 1610/1 md.) İl özel idareleri, belediyeler ve köyler ile bunların teşkil ettikleri birlikler veya bunlara bağlı müesseselere ait;
@@ -23,7 +24,7 @@ j) (Değişik : 4/12/1985 - 3239/100 md.) Umuma tahsis edildiği Maliye ve Gümr
 k) Her nevi su bentları, baraj, sulama ve kurutma tesisleri;
 ––––––––––
 (1) 16/6/2009 tarihli ve 5904 sayılı Kanunun 39 uncu maddesiyle; bu bentte yer alan “Katma” ibaresi “Özel” şeklinde değiştirilmiş ve metne işlenmiştir.
-4689
+4688-1
 l) Yabancı devletlere ait olup elçilik ve konsolosluk olarak kullanılan binalar ile elçilerin ikametine mahsus binalar ve bunların müştemilatı (Karşılıklı olmak şartiyle) ve merkezi Türkiye'de bulunan milletlerarası kuruluşlara, milletlerarası kuruluşların Türkiye'deki temsilciliklerine ait binalar;
 m) (Değişik : 8/12/1980 - 2350/1 md.) Bakanlar Kurulunca vergi muafiyeti tanınan vakıflara ait binalar (Vakıf senedindeki cihete tahsis edilmek şartiyle);
 n) Enerji nakil hatları ve direkleri.
@@ -35,3 +36,7 @@ t) (Ek : 21/1/1982 - 2587/1 md.) Tersane binaları (müstakil büro ve müstakil
 u) (Ek : 4/12/1985 - 3239/100 md.) Belediye ve mücavir alan sınırları dışında bulunan binalar (Gelir Vergisinden muaf esnaf ile basit usulde Gelir Vergisine tabi mükellefler tarafından bizzat işyeri olarak kullanılan binalar hariç olmak üzere, ticari, sınai ve turistik faaliyetlerde kullanılan binalar ile muayyen zamanlarda dinlenme amacıyla kullanılan binalar için bu muafiyet uygulanmaz.) (1)
 v) (Ek: 30/7/2003-4962/14 md.) Doğalgaz, ham petrol ve bunların ürünlerinin nakli ve dağıtımı amacıyla kullanılan boru hatları ile bunların ayrılmaz parçası olan istasyonlar (Pompa, kompresör, basınç düşürme ve ölçüm, hat vana grupları, haberleşme, pik, katodik koruma gibi),
 y) (Ek: 12/12/2003-5020/8 md.) ) 18.6.1999 tarihli ve 4389 sayılı Bankalar Kanunu hükümlerine göre temettü hariç ortaklık hakları ile yönetim ve denetimleri veya hisseleri kısmen veya tamamen Tasarruf Mevduatı Sigorta Fonuna intikal eden bankalara, tasfiyeleri Tasarruf Mevduatı Sigorta Fonu eliyle yürütülen müflis bankaların iflâs idarelerine ait binalar.
+z) (Ek: 3/4/2013-6456/22 md.) 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanunun 7/A maddesi kapsamında kira sertifikası ihracı işlemine konu olan binalar.
+——————————
+(1) 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesi ile "götürü" ibaresi "basit" olarak değiştirilmiş ise de, bu değişikliğin 1/1/1999 tarihinde yürürlüğe gireceğini anılan kanunun 86 ncı maddesi ile hüküm altına alınmıştır.
+4689

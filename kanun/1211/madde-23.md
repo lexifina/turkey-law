@@ -1,10 +1,7 @@
 BÖLÜM – III
 Denetleme Kurulu
 Kuruluş, süre ve nitelik:
-Madde 23 – Denetleme Kurulu üyeleri aşağıdaki şekilde seçilir:
-1. (A) sınıfı hissedarınca bir üye,
-2. (B) ve (C) sınıfı hissedarlarınca iki üye,
-3. (D) sınıfı hissedarlarınca bir üye.
-Sınıflara ait her hisse, bir oy sahibidir.
+Madde 23 – (Değişik:3/4/2013-6456/19 md.)
+Denetleme Kurulu, Genel Kurulca seçilecek dört üyeden oluşur. Bir denetleme kurulu üyesinin üyelikten ayrılması hâlinde, denetleme kurulunun diğer üyeleri, genel kurulun ilk toplantısına kadar görev yapmak üzere yerine seçilme şartlarını taşıyan birisini seçerler.
 Denetleme Kurulu üyelerinin görev süreleri iki yıldır.
 Denetleme Kurulu üyeliğine seçileceklerin yüksek öğrenim yapmış, bankacılık ve muhasebe alanında bilgi ve tecrübe sahibi olmaları şarttır.
