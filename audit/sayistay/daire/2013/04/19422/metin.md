@@ -1,0 +1,5 @@
+Faiz Ödenmesi.
+
+Denetçi sorgusunda yer alan; …. Büyükşehir Belediyesince gerçekleştirilen Asfalt Kaplama, Bakım Onarım ve Tadilat Yapılması ve Taşıt Alımları işleri için ….Bankasından alınan kredilerden doğan ve sözleşme gereği kredi limiti dışında olup defaten ödenmesi gereken “Denetim Danışmanlık Hizmet Giderleri” için ayrıca faiz ödenmesi suretiyle toplam …. TL kamu zararına sebebiyet verildiği iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+.…Büyükşehir Belediyesince …. Bankasından alınan kredilerden doğan ve sözleşme gereği kredi limiti dışında olup defaten ödenmesi gereken Denetim Danışmanlık Hizmet Giderlerinin, bunlara ilişkin İller Bankasınca gerçekleştirilen tahakkukların …. Büyükşehir Belediyesine zamanında bildirmemesi nedeniyle, vadesinde ödenemediği ve bunlarla ilgili ayrıca faiz ödenmek suretiyle toplam …. TL kamu zararına neden olunduğu anlaşılmakla beraber, söz konusu tutarın …. tarih ve …. no.lu muhasebe işlem fişi ile tahsil edildiği görüldüğünden bu tutar için ilişilecek husus kalmadığına oy birliğiyle karar verildi.
