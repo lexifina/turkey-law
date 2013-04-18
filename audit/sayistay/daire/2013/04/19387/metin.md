@@ -1,0 +1,7 @@
+Çevre Temizlik Vergisine İlişkin 2006 Yılında Tahakkuk Etmiş Alacakların 2011 Yılı Sonu İtibariyle Tahsil Edilmeyerek Zaman Aşımına Uğratılması.
+
+Denetçi sorgusunda yer alan, …Büyükşehir Belediyesi’ne ait gelirlerden takipli alacakların izlendiği 121 Gelirlerden Takipli Alacaklar Hesabında yer alan Çevre Temizlik Vergisine ilişkin 2006 yılında tahakkuk etmiş alacakların 2011 yılı sonu itibariyle tahsil edilmeyerek zaman aşımına uğratılması sonucunda .… TL kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+6183 sayılı Amme Alacakları Tahsil Usulü Hakkında Kanunu’nun “Tahsil zamanaşımı” başlıklı 102’inci maddesinde, vadesinin rastladığı takvim yılını takip eden takvim yılı başından itibaren 5 yıl içinde tahsil edilmeyen amme alacaklarının zamanaşımına uğrayacağı, zamanaşımından sonra mükellefin rızaen yapacağı ödemelerin ise kabul olunacağı belirtilmiştir.
+
+Anılan hükme göre, her ne kadar bahse konu olayda .… Büyükşehir Belediyesi’nce .… Genel Müdürlüğü adına 2006 yılında tahakkuk ettirilen …. TL tutarındaki çevre temizlik vergisinin 2011 yılı sonuna kadar tahsil edilmeyerek zamanaşımına uğratıldığı anlaşılmış ise de, söz konusu tutarın …. tarih ve …. yevmiye nolu Muhasebe İşlem Fişiyle mükellef .…Genel Müdürlüğünden mahsuben tahsil edildiği görüldüğünden bahse konu kamu zararı tutarıyla ilgili olarak ilişilecek husus kalmadığına oy birliğiyle karar verildi.
