@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64950229-VUK-29-2-79",
+  "source_id": 25171,
+  "date": "2013-04-19",
+  "title": "Çift vergi kimlik numarası ile düzenlenen faturanın Ba-Bs formlarında bildirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25171",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "1dc715ea50aac870ef7c758730c2e9aab883c7ada68c374fa54954eb064661f5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
