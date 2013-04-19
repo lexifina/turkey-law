@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "88409335-135[7-2013-ÖZELGE-1]--8",
+  "source_id": 34118,
+  "date": "2013-04-19",
+  "title": "Özürlü aracının veraset yoluyla intikalinde feragatname hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34118",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "2ad5efdde3cbaeae1512daf6167fb911d2de10e46a2978a6009d9d1c7b8303d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
