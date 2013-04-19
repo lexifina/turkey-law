@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.30-602",
+  "source_id": 33440,
+  "date": "2013-04-19",
+  "title": "Finansal kiralama yoluyla kiralanan binek oto için ödenen kdv'nin indirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33440",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "c921d886938a9743cb09a9ccf9505f811700c45b32db3d795e42cf43dc5f5eb7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
