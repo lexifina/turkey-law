@@ -1,0 +1,6 @@
+Adlî sicil bilgilerinin silinmesi
+Madde 11 — Adlî sicildeki bilgiler; cezanın veya güvenlik tedbirinin infazının tamamlanması, ceza mahkûmiyetini bütün sonuçlarıyla ortadan kaldıran şikayetten vazgeçme veya etkin pişmanlık, ceza zamanaşımının dolmasına ilişkin bildirme fişinin Genel Müdürlükteki merkezi sisteme girilerek güncellenmesini müteakip Genel Müdürlük tarafından silinerek arşiv kaydına alınır.
+Genel af halinde silme işlemi Genel Müdürlükçe re’sen yapılarak kayıtlar arşive alınır.
+İlgilinin ölümü halinde, kişinin ölümünü tevsik eden resmî belgenin Genel Müdürlüğe ulaşmasını müteakip adlî sicil kaydı tamamen silinir.
+Ceza infaz kurumlarındaki hükümlü ölüm bilgileri ise nüfus kayıt bilgileri ile birlikte en geç üç gün içinde ilgili Cumhuriyet başsavcılıklarınca Genel Müdürlüğe bildirilir.
+Türk vatandaşları hakkında yabancı mahkemelerce verilmiş olup Kanunun 4 üncü maddesinin birinci fıkrasının (f) bendine göre adlî sicile kaydedilen hürriyeti bağlayıcı cezaya mahkûmiyet hükümleri, kesinleştiği tarihten itibaren mahkûmiyet kararında belirtilen sürenin geçmesiyle, Genel Müdürlükçe adlî sicil kayıtlarından çıkartılarak arşiv kaydına alınır. Adlî para cezasına mahkûmiyet hükümleri ile cezanın ertelenmesine ilişkin hükümler, adlî sicil kaydına alınmadan doğrudan arşive kaydedilir.

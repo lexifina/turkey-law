@@ -1,0 +1,4 @@
+Adlî sicil bilgilerinin sınırlı olarak verilebileceği haller
+Madde 14 — Onsekiz yaşından küçüklerle ilgili adlî sicil ve arşiv kayıtları ancak soruşturma ve kovuşturma kapsamında değerlendirilmek üzere mahkeme, hâkim veya savcılıklara talep halinde verilir.
+Haklarında özel kanun hükümleri uygulanmak suretiyle koruma tedbirlerinden yararlanarak kimlikleri değiştirilen bazı suç faillerinin yeni kimlikleri adlî sicil kayıtlarına işlenmek üzere Genel Müdürlüğe gönderilir.
+Koruma tedbirlerinden yararlanarak kimlikleri değiştirilenleri merkezi adlî sicile bildirmekle görevli makamlar, bu kişilerin eski kimlikleri ile yeni kimliklerini ve varsa haklarında kesinleşmiş mahkûmiyet kararlarını birlikte gönderir. Bu kişilere ait adlî sicil bilgileri de ancak soruşturma ve kovuşturma konusu olan işler sebebi ile mahkeme, hâkim, askerî hâkim, Cumhuriyet başsavcılıkları, askerî savcılıklar veya yetkili seçim kurullarınca istendiği takdirde yeni kimlikleri ile bildirilir.

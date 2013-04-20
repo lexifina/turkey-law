@@ -1,0 +1,2 @@
+Merkezî adlî sicil
+Madde 4 — Hakkında Türk mahkemeleri veya yabancı ülke mahkemeleri tarafından kesinleşmiş ve Türk hukukuna göre tanınan mahkûmiyet kararı bulunan Türk vatandaşları ile Türkiye'de suç işlemiş olan yabancılara ait bütün adlî sicil kayıtları, Genel Müdürlükteki merkezî bilgi işlem sisteminde tutulur. Anılan kayıtların güncelleştirilmesi, düzenlenmesi, düzeltilmesi ve on-line sistemle mahallî adlî sicillere ulaştırılması görevi de merkezi adlî sicil tarafından yerine getirilir.

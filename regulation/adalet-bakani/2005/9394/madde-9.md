@@ -1,0 +1,4 @@
+Adlî sicil bilgileri verilebilecek olanlar
+Madde 9 — Adlî sicil bilgileri, kullanılış amacı ve verileceği merci belirtilmek suretiyle; ilgili kişiye veya vekâletnamede açıkça belirtilmek koşuluyla vekiline, kamu kurum ve kuruluşlarına, kamu kurumu niteliğindeki meslek kuruluşlarına verilebilir.
+Taleplerin yazılı olarak yapılması sırasında, adlî sicil bilgisinin niçin istendiğinin belirtilmesi ve nüfus kimlik bilgilerini içeren belgenin dilekçeye eklenmesi; kamu kurum ve kuruluşları ile kamu kurumu niteliğinde meslek kuruluşlarınca da kimlik bilgilerinin tereddüde yer vermeyecek şekilde bildirilmesi zorunludur.
+Yabancı devletler tarafından istenilen adlî sicil bilgileri taraf olduğumuz ikili ve çok taraflı sözleşmeler uyarınca, sözleşme olmayan ülkeler için de karşılıklılık esaslarına göre verilir.
