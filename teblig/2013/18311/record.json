@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.18311",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2013/7)",
+  "number": "18311",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2013/18311",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18311&MevzuatTertip=5",
+  "source_sha256": "3b4967e89622ff494b1e3a772b37158d2576702d7bf066fba778df9c728036c7",
+  "source_bytes": 52570,
+  "published": "2013-04-20",
+  "gazette": "28624",
+  "in_force": "2013-04-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.04.2013); own commencement article: \"Bu Tebliğ yayım tarihini takip eden otuzuncu gün yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayım tarihini takip eden otuzuncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 450,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18311%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
