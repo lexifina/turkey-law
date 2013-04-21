@@ -1,0 +1,3 @@
+Özlük Hakları ve Sicilleri
+Madde 46 — Üniversite yöneticileri, öğretim elemanları, idari personel ve diğer görevlilerin özlük hakları sözleşme hükümleri; bu Yönetmelik hükümleri, sözleşme ve Yönetmelikte yer almayan hususlar için 1475 sayılı İş Kanunu, 2547 sayılı Yüksek Öğretim Kanunu ve ilgili yönetmelik hükümleri, anılan Kanunlarda bulunmayan hususlar için ise genel hükümler uygulanır.
+Üniversitede görev yapan öğretim elemanları, idari personel diğer görevli sicilleri, Yükseköğretim Üst Kuruluşları ile Yükseköğretim Kurumları Sicil Yönetmeliğine göre tutulur. Her türlü atama, yükselme, akademik ünvanların kazanılması ve diğer özlük işlemlerinde bu siciller esas alınır.

@@ -1,0 +1,2 @@
+Amaç
+Madde 2 — Bu Ana Yönetmeliğin amacı, 2547 sayılı Yüksek Öğretim Kanunu ve Vakıf Yükseköğretim Kurumları Yönetmeliği uyarınca Üniversite: akademik ve idari birimlerin oluşturulmasını, işleyişini, akademik ve idari personelin seçilme ve atama usullerini, görev, yetki, sorumluluk ve haklarını, çalışma ve denetimlerini, anılan personelin disiplin ve sicil işlerini, mali konuları ayrıca üniversiteye ilişkin diğer hususları düzenlemektir.
