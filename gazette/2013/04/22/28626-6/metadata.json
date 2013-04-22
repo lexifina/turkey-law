@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-04-22",
+  "issue": "28626",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kastamonu Üniversitesi Mantar Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130422-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130422.htm",
+  "index_sha256": "18f81b42c223b015b1fecc4894d654ba08a96917c1bd28be2cd10a62f376cd34",
+  "index_header": "22 Nisan 2013 ... 28626 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130422.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
