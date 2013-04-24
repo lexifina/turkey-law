@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37039",
+  "decision_date": "2013-04-24",
+  "source_id": 6721,
+  "chamber": "4",
+  "file_number": "35666",
+  "account_year": "2008",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/6721/",
+  "source_sha256": "4c68590da3a03e7f9488e2d604c8468f1f3b1af3ad6ff921d0ce72c7b448bb2f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
