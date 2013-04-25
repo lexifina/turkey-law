@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10240",
+  "decision_date": "2013-04-25",
+  "source_id": 16834,
+  "chamber": "1",
+  "ilam_number": "78",
+  "item_number": 24,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16834/",
+  "source_sha256": "6bb64ab7f1507b0e0987c757eeb6cdd2483227b2c7390bdfab328f35e3f2f4a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
