@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10240",
+  "decision_date": "2013-04-25",
+  "source_id": 16819,
+  "chamber": "1",
+  "ilam_number": "78",
+  "item_number": 11,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16819/",
+  "source_sha256": "c522c302415015066da42afd1a6e8b571c810d72da4749fd4abbe456375a2a0d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
