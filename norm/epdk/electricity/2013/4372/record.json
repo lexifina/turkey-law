@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4372",
+  "decision_date": "2013-04-25",
+  "title": "6446 Sayılı Kanunun yürürlüğe girdiği tarih itibariyle, lisansa kayıtlı olan ve süresi içinde tamamlanmamış tesislerin süresi uzatımlarına ilişkin kurul kararı",
+  "categories": [
+    "Önlisans Süreleri ile Tesis Tamamlanma Tarihinin Belirlenmesinde Referans Alınacak İnşaat Süreleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qdOu8X7ypWo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qdOu8X7ypWo="
+  ],
+  "source_sha256": "454a7b799dc81bbdada617157bda48e1effff10e3de8d2ee500ed3829b143344",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33885,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-04-25",
+  "law_text_complete": false
+}
