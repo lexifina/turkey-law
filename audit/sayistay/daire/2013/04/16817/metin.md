@@ -1,0 +1,3 @@
+Gecikme Cezası
+
+… yüklenimindeki … TL sözleşme bedelli, … işine ait sözleşmenin 9 uncu maddesine göre işin süresi yer tesliminden itibaren 180 gün olup, yer teslimi … de yapılmıştır. Bu durumda işin bitim tarihi … olmaktadır. Yüklenicinin geçici kabulün yapılması için idareye müracaatı üzerine teknik personelin düzenlediği kesin hesap fişinde ise işin bitiş tarihi … olarak belirtilmiştir. Şu halde adı geçen yapım işinde beş günlük bir gecikme ortaya çıkmış olup, buna tekabül eden gecikme cezasının kesilmesi gerekmektedir. Söz konusu gecikme cezası … tarih ve … sayılı ödeme emrine ekli … nolu kesin hak edişte mahsuben tahsil edilmiş olduğundan ilişik kalmamış olup yapılan işlemin yasal düzenlemelere uygun olduğuna oy birliğiyle,
