@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10240",
+  "decision_date": "2013-04-25",
+  "source_id": 16823,
+  "chamber": "1",
+  "ilam_number": "78",
+  "item_number": 14,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16823/",
+  "source_sha256": "50928fea6eb4539d30838c153a1c80f51c84ae2dc319be2fd35e6096e324c6a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
