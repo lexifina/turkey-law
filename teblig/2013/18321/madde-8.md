@@ -1,0 +1,3 @@
+Ücretlerin belirlenmesi
+MADDE 8 – (1) Bu Karar kapsamındaki kuruluşlarda açıktan veya naklen atanan, eğitim düzeyi, görev yeri veya unvanı değişen veya kuruluş içinde aynı unvandakilere göre daha az ücret alan kapsam dışı personelin ücretlerini, personelin unvanı, eğitim düzeyi, iş gerekleri, işyeri ve çalışma şartları dikkate alınarak en düşük ve en yüksek ücretler dahilinde belirlemeye ilgili kuruluş yönetim kurulu yetkilidir.
+(2) 3 üncü maddenin ikinci fıkrasının (b) ve (c) bentleri kapsamındaki personelin ücretlerinin, belirlenen tavanı geçmemek kaydıyla artırılmasına kuruluş yönetim kurulları yetkilidir. Ancak bu şekilde yapılacak artış oranı 3 üncü maddenin birinci fıkrasındaki artış sonrası oluşacak ücretin %13’ünü aşamaz.

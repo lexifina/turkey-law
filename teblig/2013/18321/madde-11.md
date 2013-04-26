@@ -1,0 +1,2 @@
+Yürürlük
+MADDE 11 – (1) Bu Karar, İller Bankası Anonim Şirketi için banka personelinin 6107 sayılı Kanuna göre sözleşme ücreti almaya başlayacağı tarihten, yönetim ve denetim kurulu üyeleri için 6107 sayılı Kanuna göre atamalarının yapıldığı tarihten; Türkiye Kalkınma Bankası Anonim Şirketi personeli için 1/1/2011 tarihinden, diğer maddeleri için ise 1/1/2012 tarihinden geçerli olmak üzere yürürlüğe girer.

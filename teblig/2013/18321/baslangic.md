@@ -1,0 +1,4 @@
+KAMU İKTİSADİ TEŞEBBÜSLERİ, TÜRKİYE KALKINMA BANKASI ANONİM ŞİRKETİ VE İLLER BANKASI ANONİM ŞİRKETİNDE 2011, 2012 VE 2013 YILLARINDA UYGULANACAK ÜCRETLERİN TESPİTİNE İLİŞKİN TEBLİĞ
+(TEBLİĞ NO: 2013/4)
+22/1/1990 tarihli ve 399 sayılı Kanun Hükmünde Kararnamenin geçici 9 ve ek 1 inci maddelerine tabi kuruluşlarla, bu Kanun Hükmünde Kararname kapsamı dışında kalan ve 15/11/2000 tarihli ve 4603 sayılı Kanuna tabi olmayan kamu bankalarında çalışan kapsam dışı ve sözleşmeli personel ile bu kuruluşlar ile kamu iktisadi teşebbüsleri ve bağlı ortaklıkları ve iştiraklerinin yönetim kurulu başkan ve üyeleri, denetim ve tasfiye kurulu üyeleri ile denetçilerine 2011, 2012 ve 2013 yıllarında uygulanacak ücretlerin tespitine ilişkin 31/12/2012 tarihli ve 2012/T-26 sayılı Yüksek Planlama Kurulu Kararı ilişiktedir.
+Tebliğ olunur.
