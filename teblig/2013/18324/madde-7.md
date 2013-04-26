@@ -1,0 +1,3 @@
+Piyasa ekonomisinin uygulandığı üçüncü ülkenin seçimi
+MADDE 7 – (1) Yönetmeliğin 7 nci maddesi hükümleri çerçevesinde, ÇHC için bu aşamada Türkiye’nin serbest piyasa ekonomisi uygulayan emsal ülke olarak seçilmesi düşünülmektedir.
+(2) ÇHC’de soruşturmaya tabi üretici veya üreticilerin, soruşturma konusu maddenin üretiminde ve satışında Yönetmeliğin Ek 1 inci Maddesindeki ölçütler çerçevesinde piyasa ekonomisi koşullarının geçerli olduğunu Tebliğin 9 uncu maddesinde belirtilen süre içinde yeterli deliller ile ispat etmesi halinde bu üretici veya üreticiler için normal değerin tespitinde Yönetmeliğin 5 inci maddesi uygulanır.
