@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "75497510-140[118-2012-249]-17",
+  "source_id": 36077,
+  "date": "2013-04-26",
+  "title": "Kooperatifin 4572 sayılı Tarım Satış Kooperatifleri ve Birlikleri Hakkında Kanunun 6 ncı maddesinin (c) bendi hükmü gereğince Geçiş Yolu Ön İzin Belgesi harcından muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36077",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "a692cd8d669f2566cacb7b1163b8d9cabcf84e33bf41913bda85d06f521215c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
