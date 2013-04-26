@@ -1,0 +1,4 @@
+Merkezi sicilin içeriği ve tutulma tarzı
+MADDE 6 – (1) Vakıflar Genel Müdürlüğünce tutulacak merkezi sicil defterinde her vakıf için bir sayfa açılır. Bu sayfadaki özel sütunlara vakfedenin ve vakfın adı, yönetim şekli, temsil tarzı, vakfın yerleşim yeri, vakfedilen malların ve hakların nelerden ibaret olduğu, taşınmazların yeri, tapu tarih ve numaraları (pafta, ada, parsel, sıra no), vakfın amacı, şartları, yönetim organları ve bunlarda yapılan değişiklikler ile vakıf senedinin tarih ve numarası, tescile dair kararı veren mahkemenin adı ile kararın tarih ve numarası yazılır.
+(2) Tescil kararı ile vakıf senedinin örneği ve varsa diğer belgeler ayrı bir dosyada muhafaza olunur.
+(3) Sicil kayıtları ile vakıf senedi arasında bir aykırılık bulunduğu takdirde, vakıf senedinin aslına itibar edilir.

@@ -1,0 +1,3 @@
+İlan
+MADDE 7 – (1) Merkezi sicile kaydedilen vakıf, Resmî Gazete’de ilan edilir. İlanda, vakfedenin ve vakfın adı, vakfın yerleşim yeri, tescil kararını veren mahkemenin adı ve tescil kararının tarih ve numarası, özet olarak vakfın amacı, vakfedilen mal ve hakların nelerden ibaret olduğu, vakfedilen taşınmazların yeri, tapu tarih ve numaraları (pafta, ada, parsel, sıra no), sona erme halinde tasfiyeden artan mal ve hakların devredilmesine dair senette yazılı hüküm ve yönetim organında yer alan kişiler belirtilir.
+(2) İlan için yapılan harcamalar ilgili vakıftan alınmak üzere Vakıflar Genel Müdürlüğünce ödenir.
