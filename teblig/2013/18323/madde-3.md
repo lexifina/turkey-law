@@ -1,0 +1,2 @@
+Mevcut önlem
+MADDE 3 – (1) Hindistan menşeli bahse konu madde için ilk olarak 27/6/2000 tarihli ve 24092 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (2000/7) ile yürürlüğe konulan CIF bedelin %6,8’i ila %20,3’ü arasında değişen oranlardaki dampinge karşı önlemlerin 27/11/2012 tarihli ve 28480 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2012/22) ile devam etmesine karar verilmiştir.

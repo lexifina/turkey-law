@@ -1,0 +1,2 @@
+Uygulama ve süre
+MADDE 11 – (1) Soruşturmanın tamamlanarak kesin kararın Resmi Gazete’de yayımlanmasına kadar, Gümrük İdarelerince, Wellknown ve Dodhia firmalarından gerçekleştirilecek bahse konu madde ithalatında 27/11/2012 tarihli ve 28480 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2012/22)’in “Karar” matlaplı 34 üncü maddesinde Hindistan menşeli 5402.33 gümrük tarife alt pozisyonu altında yer alan madde için gösterilen CIF bedelin %20,3’ü düzeyindeki meri önlem kadar teminat alınacaktır.

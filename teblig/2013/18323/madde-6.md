@@ -1,0 +1,2 @@
+Soru formları ve bilgilerin toplanması
+MADDE 6 – (1) Soruşturma için gerekli bilgilerin temini amacıyla, söz konusu maddenin bilinen ithalatçıları ile Wellknown ve Dodhia firmalarına ve Hindistan’ın Ankara Büyükelçiliğine soru formları ile soruşturma açılışına ilişkin bildirimler gönderilecektir. Bildirimi alamayan tarafların soru formunu Ekonomi Bakanlığına ait Ticaret Politikası Savunma Araçları internet sayfasındaki (www.tpsa.gov.tr) ilgili bölümden indirmeleri mümkün bulunmaktadır.
