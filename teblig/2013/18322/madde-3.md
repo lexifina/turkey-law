@@ -1,0 +1,2 @@
+Mevcut önlem
+MADDE 3 – (1) 1/5/2008 tarihli ve 26863 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2008/16) kapsamında ÇHC’ye karşı “tekrar doldurulamayan gazlı cep çakmakları” ve “ateşleme sistemi elektrikli olanlar” için 0,05 ABD Doları/adet, “plastikten gaz haznesi (gaz içersin içermesin)” için ise 0,02 ABD Doları/adet tutarlarında dampinge karşı önlemler yürürlüktedir.
