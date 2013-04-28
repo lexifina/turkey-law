@@ -1,0 +1,3 @@
+Şube başkanları ve görevleri
+MADDE 10 – (1) Merkez; tarih, edebiyat, coğrafya, sosyoloji, arkeoloji, sanat tarihi, ilahiyat, müzik ve folklor olmak üzere sekiz şubeden oluşur. Şube başkanları, ilgili alanda görev yapan Üniversite öğretim üyeleri arasından, Müdürün teklifi üzerine Rektör tarafından görevlendirilir. Görev süreleri üç yıldır. Müdür gerekli gördüğü durumlarda Rektörün onayını alarak şube başkanlarını değiştirebilir.
+(2) Şube başkanlarının görevleri: Alanlarıyla ile ilgili çalışmaları koordine etmek, yürütmek, projeler hazırlamak ve sonuçlandırmak, şubeleriyle ilgili diğer her türlü işleri yapmaktır. Şube başkanları Müdüre karşı sorumludur.
