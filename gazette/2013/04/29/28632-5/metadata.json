@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-04-29",
+  "issue": "28632",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Mersin Üniversitesi Bölgesel İzleme Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130429-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130429.htm",
+  "index_sha256": "48949c8299be3875538c9077faf1c6f489380e4fc3d37b64b53c2fedce924bc5",
+  "index_header": "29 Nisan 2013 ... 28632 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130429.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
