@@ -1,0 +1,23 @@
+{
+  "number": "376",
+  "number_as_published": "376",
+  "year": 2013,
+  "title": "Yeniden hazırlanan Kayseri Büyükşehir Belediyesi İmar Yönetmeliğinin incelenmesi talebi.",
+  "decision_date": "2013-04-29",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/29-nisan-2013-tarihli-karar-ozeti",
+  "official_document": null,
+  "source_sha256": "4ab0930dd26281fc8d4a9ba51ceb9bb0fd633939f44a4ba2035996e23bd89f9a",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2013-04-29",
+  "in_force_basis": "Decision date as printed in the official council listing: 29.04.2013; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "29 Nisan 2013 Tarihli Karar Özeti",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=14"
+}
