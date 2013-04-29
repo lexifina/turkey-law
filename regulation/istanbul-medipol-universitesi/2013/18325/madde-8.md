@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; Merkezin en üst yöneticisidir. Üniversitenin öğretim elemanları arasından Rektörün teklifi ve Mütevelli Heyeti’nin onayı ile üç yıl süre ile görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı birinci derecede sorumludur.
+(2) Müdür, öğretim elemanları arasından en çok iki üyeyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Bu yardımcılardan biri Merkezin mali işlerini, diğeri ise bilimsel koordinasyonu yürütür. Müdür, görevi başında olmadığı zaman yardımcılarından biri vekâlet eder.

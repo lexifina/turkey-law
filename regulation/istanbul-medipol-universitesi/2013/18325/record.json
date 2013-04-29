@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-04-29",
+      "29.04.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28632",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-04-29",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Medipol Üniversitesi",
+  "issuer_slug": "istanbul-medipol-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-medipol-universitesi/2013/18325",
+  "published": "2013-04-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18325&MevzuatTertip=5",
+  "source_bytes": 23611,
+  "source_id": "8.5.18325",
+  "source_sha256": "a04a74dd929eb742acdafbb1868103bd9f18385648d46407feb1a6d5d9e87042",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL MEDİPOL ÜNİVERSİTESİ GELENEKSEL VE TAMAMLAYICI TIP UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 333,
+  "word_count": 941
+}
