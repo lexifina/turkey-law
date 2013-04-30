@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-04-30",
+  "issue": "28633",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye-Güney Kore Serbest Ticaret Anlaşması Çerçevesindeki Ticarette Eşyanın Tercihli Menşeinin Tespiti Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130430-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130430.htm",
+  "index_sha256": "d0fcc1af8fb3e76f2eb283ec49d14a006d69d94d0879d1a99628c96264439b88",
+  "index_header": "30 Nisan 2013 ... 28633 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/04/20130430.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
