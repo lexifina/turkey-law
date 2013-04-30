@@ -14,3 +14,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 3
 6352 | 2, 6, 9,10, 13 | 5/7/2012
 6353 | 21, Ek Madde 1, Geçici Madde 11, 12 | 12/7/2012
 6415 | 8 | 16/2/2013
+6459 | 6, 7 | 30/4/2013

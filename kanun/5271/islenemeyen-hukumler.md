@@ -6,9 +6,6 @@ GEÇİCİ MADDE 1- Bu Kanunun yürürlüğe girdiği tarihte Yargıtay ilgili ce
 Bu Kanun yürürlüğe girdiği tarihten önce kesinleşmiş ve infaz edilmekte olan mahkûmiyet kararları hakkında, lehe kanun hükümleri, hükmü veren mahkemece 13/12/2004 tarihli ve 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 98 ilâ 101 inci maddeleri dikkate alınmak ve dosya üzerinden incelenmek suretiyle belirlenir. Ancak, hükmün konusunun herhangi bir inceleme, araştırma, delil tartışması ve takdir hakkının kullanılmasını gerektirmesi halinde inceleme, duruşma açılmak suretiyle yapılabilir.
 Bu Kanunun yürürlüğe girdiği tarihten önce kesin hükümle sonuçlanmış olan davalarda lehe hükmün belirlenmesi ve uygulanması amacıyla, yapılan yargılama bakımından dava zamanaşımı hükümleri uygulanmaz.
 İşbu Kanun yürürlüğe girdiği tarih itibarıyla kesinleşmemiş olmakla beraber hükme bağlanmış olan dosyalarda uzlaşma kapsamının genişlediğinden bahisle bozma kararı verilemez.
-–––––––––––––––––
-(1) Bu maddede yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve 5328 sayılı Kanunun Geçici 1 inci maddesiyle "1 Haziran 2005“ şeklinde değiştirilmiş ve metne işlenmiştir.
-9186
 GEÇİCİ MADDE 2- Bu Kanunun yürürlüğe girdiği tarihte kovuşturma evresinde bulunan dava dosyaları hakkında:
 a) Mahkemenin görevli olmaması hâlinde, dosya üzerinde yapılacak inceleme sonucunda verilecek görevsizlik kararıyla dosya, görevli mahkemeye gönderilir.
 b) Daha önce soruşturma ve kovuşturma evrelerinde yapılmış olan işlem ve kararlar hukukî geçerliliklerini sürdürürler.

@@ -1,7 +1,7 @@
 Dosyaların incelenmesi:
 Madde 20 – 1. Danıştay ile idare ve vergi mahkemeleri, bakmakta oldukları davalara ait her çeşit incelemeleri kendiliklerinden yaparlar. Mahkemeler belirlenen süre içinde lüzum gördükleri evrakın gönderilmesini ve her türlü bilgilerin verilmesini taraflardan ve ilgili diğer yerlerden isteyebilirler. Bu husustaki kararların, ilgililerce, süresi içinde yerine getirilmesi mecburidir. Haklı sebeplerin bulunması halinde bu süre, bir defaya mahsus olmak üzere uzatılabilir.
 ––—————————
-(1) Bu fıkrada yer alan parasal sınır, 8/6/2000 tarihli ve 4577 sayılı Kanunun 6 ncı maddesiyle “bir milyar” liraya yükseltilmiş ve metne işlenmiştir.
+(1)Bu fıkrada yer alan parasal sınır, 8/6/2000 tarihli ve 4577 sayılı Kanunun 6 ncı maddesiyle “bir milyar” liraya yükseltilmiş ve metne işlenmiştir.
 (2) 2/7/2012 tarihli ve 6352 sayılı Kanunun 55 inci maddesi ile bu fıkrada yer alan “birmilyar lirayı” ibareleri “yirmibeşbin Türk Lirasını” şeklinde değiştirilmiştir.
 5473
 2. Taraflardan biri ara kararının icaplarını yerine getirmediği takdirde, bu durumun verilecek karar üzerindeki etkisi mahkemece önceden takdir edilir ve arakararında bu husus ayrıca belirtilir.

@@ -13,3 +13,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 KHK/650 | 331 | 1/1/2012
 6352 | 38/A, 100, 101, 109, 250, 251, 252, 308, 324 | 5/7/2012
 6411 | 202 ve Geçici Madde 1 | 31/1/2013
+6459 | 105, 108, 141, 144, 172, 270, Geçici Madde 2 | 30/4/2013

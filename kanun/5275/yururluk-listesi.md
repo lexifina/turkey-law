@@ -13,3 +13,6 @@ KHK/650 | 85, 94, 116 | 26/8/2011
 6291 | 105, 105/A, Geçici Madde 3 | 11/4/2012
 6301 | 94, 116 | 10/5/2012
 6411 | 16, 17, 19, 54, 58, 83, 94, 95, 116, Geçici Madde 4 51 | 31/1/2013 31/3/2013
+6459 | Geçici Madde 5 | 30/4/2013
+______________________
+(1) Bu bentte yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve 5328 sayılı Kanunun Geçici 1 inci maddesiyle "1 Haziran 2005“ şeklinde değiştirilmiş ve metne işlenmiştir.

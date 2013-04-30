@@ -12,3 +12,4 @@ Değiştiren Kanunun/ KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Num
 5219 | 61, Geçici Madde 3 | 1/1/2005
 KHK/650 | 61 | 1/1/2012
 6352 | 3, 4, 14, 16, 17, 20, 27, 28, 31, 33, 45, Geçici Madde 6 | 5/7/2012
+6459 | 16, Geçici Madde 7 | 30/4/2013
