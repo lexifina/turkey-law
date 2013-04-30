@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK - 65 / 2013- 10 / Kesin Mizan",
+  "source_id": 776,
+  "date": "2013-04-30",
+  "title": "Kurumlar vergisi mükellefleri tarafından 1 Nisan-30 Nisan 2013 tarihleri arasında verilmesi gereken 2012 yılı Kesin Mizan bildirim süresinin uzatılmasına dair açıklama.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/776",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "4389fd082bd674f705bda1cf5131032cf0e5a98710cd9b2b46c1ea0ee81553ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
