@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "6",
+  "decision_date": "2013-04-30",
+  "source_id": 22576,
+  "chamber": "7",
+  "ilam_number": "84",
+  "item_number": 9,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22576/",
+  "source_sha256": "93228ca83225f66882789b201e33970835b47c014ba583f4f31747023d9001bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
