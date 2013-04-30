@@ -1,0 +1,3 @@
+……. Komutanlığına tahsis edilmiş bulunan lojmanların ……. görev süresi sonunda Üniversiteye devredilmemesi.
+
+…….. Üniversitesi Senatosu’nun ../../2000 tarih ve …. sayılı kararına istinaden taraflarca 9 Mart 2000 tarihinde imzalanan Gayrimenkul Tahsis Sözleşmesi ile İl ……… Komutanlığına tahsis edilmiş olan arazi içerisindeki lojmanların Sözleşmenin 4 üncü maddesine istinaden …….. görev süresinin sona erdiği 2009 yılında Üniversiteye devredilmesi gerekmekte ise de, devir işleminin ../../.2011 tarihinde tamamlandığı, söz konusu lojmanlarda oturan personelden alınan kira bedelinin devlet bütçesine aktarıldığı, devirle ilgili gerekli yazışmaların sorumlularca yapıldığı anlaşıldığından konu hakkında ilişilecek bir husus bulunmadığına oybirliğiyle,
