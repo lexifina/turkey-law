@@ -1,0 +1,2 @@
+Sözlü sınavın değerlendirilmesi
+MADDE 21 – (1) Adaylar, sınav kurulu tarafından 20 nci maddenin ikinci fıkrasının (a) bendi için elli puan, (b) ila (e) bentlerinde yazılı özelliklerin her biri için onar puan üzerinden değerlendirilir ve verilen puanlar ayrı ayrı tutanağa geçirilir. Sözlü sınavda başarılı sayılmak için, sınav komisyonu başkan ve üyelerinin 100 tam puan üzerinden verdikleri puanların aritmetik ortalamasının en az 70 olması şarttır.

@@ -1,0 +1,2 @@
+Tezin başarısız bulunması, ilave süre ve tezin yeniden teslimi
+MADDE 36 – (1) Süresi içinde tezlerini sunmayan veya tezleri kabul edilmeyen denetmen yardımcılarına tezlerini sunmaları veya yeni bir tez hazırlamaları için altı ayı aşmamak üzere ilâve süre verilir. Verilen ilave süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyen Denetmen yardımcıları unvanlarını kaybederler ve denetmen yardımcılığı ile ilişkileri kesilerek Kurumda durumlarına uygun memur unvanlı kadrolara atanırlar.

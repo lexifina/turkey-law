@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 44 ve 44/A maddeleri ile 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümlerine dayanılarak hazırlanmıştır.

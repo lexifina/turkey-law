@@ -1,0 +1,7 @@
+Yarışma sınavının değerlendirilmesi
+MADDE 22 – (1) Yarışma sınavı notu, sözlü ve yazılı not toplamının aritmetik ortalamasıdır. Denetmen yardımcılığı yarışma sınavında başarılı sayılmak için; her iki sınavdan da en az 70 alan adaylar başarılı sayılır. Yarışma sınavının yalnızca sözlü yapılması halinde sözlü sınav notu yarışma sınav notudur.
+(2) Yarışma sınav notları sınav komisyonunca liste halinde tespit edilir. En yüksek nota sahip olan adaydan başlamak üzere atama yapılacak kadro sayısı kadar aday belirlenir.
+(3) Yarışma sınavı sonuçları adayların adreslerine yazılı olarak en geç 15 gün içinde postalanır ve aynı zamanda Kurumun internet sayfasında ilan edilir.
+(4) Yarışma sınavı sonuçlarını gösterir listede yer alan adaylardan; en yüksek puandan başlanarak atanacak kadro sayısı kadar asil aday sınavı kazanmış sayılır. Asil aday sayısının yarısı kadar da yedek aday belirlenir.
+(5) Belirlenen süre içerisinde evrakını Kuruma teslim etmeyen kişilerin yerine atanmak üzere yedek listeden tespit edilen kişiler Kurum tarafından ilan edilir. İlan edilen kişiler de belirlenen süre içinde atanmak üzere gerekli evrakı Kuruma teslim etmek zorundadırlar.
+(6) Yarışma sınavı sonuçlarının ilan edildiği tarihi takip eden altı ay içinde, herhangi bir nedenle atanamayan veya görevinden ayrılanların yerine yedek listede yer alan adaylar yarışma sınavı sonucunda yapılan sıralama esas alınarak sıradaki aday denetmen yardımcısı olarak atanır. Yedek listede olan adaylara, daha sonraki sınavlar için müktesep hak ve öncelik teşkil etmez.
