@@ -1,0 +1,3 @@
+……. Meslek Yüksekokulu’nda ikinci öğretim yarıyıl sınavlarının yapıldığı dönemde fazla mesai yaptırılan personele, sınav programında yer alan sınavların başlama ve bitiş saatlerine göre ödenmesi gereken fazla mesai sürelerinin aşılarak çalışma yapılamayan süreler için de fazla çalışma ücreti ödenmesi.
+
+…….. Meslek Yüksekokulu’nda ikinci öğretim yarıyıl sınavlarının yapıldığı dönemde fazla mesai yaptırılan personele, sınav programında yer alan sınavların başlama ve bitiş saatlerine göre yapılması gereken fazla mesai sürelerinin aşılarak çalışma yapılmayan süreler için de fazla çalışma ücreti tahakkuk ettirilip ödendiği tespit edilmişse de, ….. TL kamu …….. ile tahsil edildiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına oybirliğiyle,
