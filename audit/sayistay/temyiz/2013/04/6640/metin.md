@@ -1,0 +1,35 @@
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü;
+
+1204 sayılı ilamın 19. maddesi ile Bolu Yeniçağa İlçe Özel İdare Bütçesinden kaymakama ödenen ek ödenek üzerinden gelir vergisi kesintisinin yapılmaması nedeniyle 632,30 TL’ye tazmin hükmü verilmiştir.
+
+Dilekçi dilekçesinde özetle; 5302 sayılı Kanuna göre yapılan bu ödemelerin 5540 sayılı Kanunun ek 5 inci maddesi kapsamında bir ek ödeme sayılması gerektiği düşünüldüğünden görev yapan Mülki İdare amirlerine yapılan ödemelerden gelir vergisi tevkifatı yapılmadığını,
+
+Ayrıca tazmin kararının, 5302 sayılı İl Özel İdaresi Kanununa 25/6/2009 tarihli ve 5917 sayılı Kanunla eklenen geçici 4 üncü maddeye aykırı olduğunu belirterek tazmin hükmünün kaldırılmasını istemiştir.
+
+Sayıştay Savcılığı “Sorumlunun ileri sürdüğü gerekçelerin Daire Kararında karşılanmış olmasının yanı sıra, Sayıştay Temyiz Kurulunun bu konuda istikrar kazanmış kararları ve Danıştay Vergi Dava Daireleri Genel Kurulunun 03.06.2011 tarihli ve E.2010/290,K 2011/240 sayılı kesin kararı aynı yönde olup, söz konusu ödemelerden gelir vergisi kesintisi yapılması gerektiği hüküm altına alınmıştır.
+
+Bu itibarla temyiz talebinin reddedilmesi, yasa ve yönteme uygun düzenlenmiş Daire Kararının korunmasının uygun olacağı mütalaa olunmaktadır.“ şeklinde görüş bildirmiştir.
+
+5302 sayılı İl Özel İdaresi Kanunu’nun “Görev ve Ek Ödenek” başlıklı 63. maddesinde; Vali Yardımcıları ve Kaymakamların valinin verdiği il özel idaresinin görevlerini yapmakla yükümlü ve bu görevlerin yapılmasından valiye karşı sorumlu olduğu, Vali Yardımcılarına ve Kaymakamlara yaptıkları görevler karşılığında 12000 gösterge rakamının Devlet memurlarına uygulanan aylık katsayısıyla çarpımı sonucu bulunacak miktarda aylık ödenek verileceği, düzenlenmiştir.
+
+Aynı Kanun’un 28. maddesinde ise Encümen başkanına 14000, üyelerine 12000 gösterge rakamının Devlet memurları için belirlenen aylık katsayı ile çarpımı sonucu bulunacak miktarda aylık brüt ödenek verileceği, Encümenin memur üyelerine encümen üyeleri için belirlenen gösterge rakamının yarısının ödeneceği belirtilmiştir.
+
+193 sayılı Gelir Vergisi Kanunu’nun 61. maddesinde ise “Ücret, işverene tabi ve belirli bir işyerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve ayınlar ile sağlanan ve para ile temsil edilebilen menfaatlerdir.
+
+Ücretin ödenek, tazminat, kasa tazminatı (Mali sorumluluk tazminatı), tahsisat, zam, avans, aidat, huzur hakkı, prim, ikramiye, gider karşılığı veya başka adlar altında ödenmiş olması veya bir ortaklık münasebeti niteliğinde olmamak şartı ile kazancın belli bir yüzdesi şeklinde tayin edilmiş bulunması onun mahiyetini değiştirmez……..” denilmektedir.
+
+Anılan Kanun’un 94. maddesinin birinci fıkrasında, maddede bentler halinde sayılan ödemeleri nakden veya hesaben yapanların, istihkak sahiplerinin gelir vergilerine mahsuben tevkifat yapmaya mecbur oldukları belirtilmekte ve bu maddenin 1 numaralı bendinde “Hizmet erbabına ödenen ücretler ile, 61. maddede yazılı olup ücret sayılan ödemelerden (istisnadan faydalanan hariç), 103. ve 104. maddelere göre” vergi tevkifatı yapılacağı hükmü yer almaktadır.
+
+Yukarıdaki hükümlerden anlaşılacağı üzere, 5302 sayılı İl Özel İdaresi Kanunu'nun 28. maddesine göre Valiye, 63 üncü maddesine göre Vali Yardımcıları ve Kaymakamlara yapılan ödemenin, Gelir Vergisi Kanunu'nun 61. maddesinde belirtilen kazançlar kapsamında bir ücret ödemesi olduğu tartışmasızdır. Çünkü; Gelir Vergisi Kanunu'nun "Ücretin Tarifi" başlıklı 61 inci maddesinde, işverene tabi ve belirli bir işyerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve ayınlar ile sağlanan ve para ile temsil edilebilen menfaatler ücret olarak tanımlanmış ve bu şekilde bir iş ilişkisi bulunan personele işveren tarafından yapılan ödemenin adının (ödenek, tazminat, kasa tazminatı tahsisat, zam, avans, aidat, huzur hakkı, prim, ikramiye, gider karşılığı veya başka adlar altında ödenmiş olması) o ödemenin ücret olma mahiyetini değiştirmeyeceği açıkça ifade edilmiştir. Dolayısıyla, 5302 sayılı Kanun kapsamında vali, vali yardımcıları ve kaymakamlara verilen ödenek ve ek ödenek,  193 sayılı Gelir Vergisi Kanunu anlamında bir ücret ödemesi olduğundan yukarıda sayılan personele yapılan ödemelerden gelir vergisi kesintisinin yapılması gerekmektedir.
+
+Ayrıca, 5540 sayılı Kanun'un 1. maddesi ile 9.6.1930 tarihli ve 1700 sayılı Dâhiliye Memurları Kanununa eklenen Ek Ödeme başlıklı Ek 5.maddesinde;
+
+İçişleri Bakanlığı merkez ve taşra teşkilâtında Mülkî İdare Amirliği Hizmetleri Sınıfında bulunan personele, en yüksek Devlet memuru aylığının (ek gösterge dahil) % 200'ünü geçmemek üzere ek ödeme yapılabilir. Ek ödemenin oranı ile esas ve usulleri; personelin görev mahalli, çalışma şartları, unvanı, görevi, aylık derecesi gibi kriterler dikkate alınarak Maliye Bakanlığının uygun görüşü üzerine İçişleri Bakanı tarafından belirlenir. 5302 sayılı İl Özel İdaresi Kanununun 28 ve 63 üncü maddelerine göre ödeme yapılanlar ile diğer mevzuata göre ilave ödemeden yararlananlara emsali unvanlara göre belirlenen oranların altında ek ödeme oranları tespit edilebilir veya hiç belirleme yapılmayabilir. Ek ödemenin hak kazanılmasında ve ödenmesinde 657 sayılı Devlet Memurları Kanununun aylıklara ilişkin hükümleri uygulanır ve bu ödemeden damga vergisi hariç herhangi bir vergi ve kesinti yapılmayacağı, hükme bağlanmıştır.
+
+Söz konusu düzenlemeden anlaşılacağı üzere, vali, vali yardımcıları ve kaymakamlara, iki ayrı yasaya dayanılarak ek ödemede bulunulmaktadır. Bu ödemelerden biri, 5302 sayılı İl Özel İdaresi Kanununun 28 ve 63 üncü maddelerine göre yapılan ek ödeme, diğeri ise 1700 sayılı Kanun’un ek 5 inci maddesine istinaden yapılan ek ödemedir. 5302 sayılı İl Özel İdaresi Kanununun 28 ve 63 üncü maddelerine göre yapılan ödemeler özel idare bütçesinden karşılanırken, 1700 sayılı Kanun’un ek 5 inci maddesine istinaden yapılan ödemeler genel bütçeden karşılanmaktadır. Buna göre, yapılan ödemelerin dayanakları farklı olduğundan ve hukukun genel prensiplerine göre istisnai hükümlerin dar yorumlanması gerektiğinden, 1700 sayılı Kanun’un ek 5 inci maddesinde yer alan istisna hükmü sadece bu madde kapsamında verilen ek ödemeleri kapsamaktadır. Ayrıca, vergi hukukunda kanunilik ilkesi geçerli olduğundan ve kıyas yasağı bulunduğundan, 1700 sayılı Kanun’un ek 5 inci maddesinde yer alan istisna hükmünün, 5302 sayılı İl Özel İdaresi Kanununun 28 ve 63. maddesine göre ödenmekte olan ödeneklere de teşmili yasal olarak mümkün değildir.
+
+Dilekçi 5302 sayılı İl Özel İdaresi Kanunu’na 5917 sayılı Kanun’un 36. maddesi ile eklenen Geçici 4. madde hükmü gereğince tazmin hükmünün kaldırılması gerektiğini belirtmişse de, 5302 sayılı İl Özel İdaresi Kanunu’na 5917 sayılı Kanun’un 36. maddesi ile eklenen Geçici 4. madde hükmü 5302 sayılı Kanun’un 28. ve 63. maddeleri gereği yapılacak ödemelerin aslı ile ilgili olup bu ödemelerden yapılacak kesintileri kapsamamaktadır.
+
+Bu itibarla, dilekçi iddialarının reddedilerek 1204 sayılı ilamın 19. maddesi ile verilen tazmin hükmünün TASDİKİNE,
+
+Karar verildiği 30.04.2013 tarihli ve 37098 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
