@@ -1,0 +1,1 @@
+Madde 6 – Bir mülkün diğer bir mülke karşı irtifak hakkı dava olunduğu takdirde işbu hakkın mütaallik olduğu iddia olunan mülke temin ettiği ziyadei kıymetle diğer mülke iras ettiği noksan kıymetten hangisi çok ise vazife onunla taayyün eder.
