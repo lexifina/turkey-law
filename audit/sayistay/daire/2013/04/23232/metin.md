@@ -1,0 +1,7 @@
+A) 2007 yılında ……. Ltd. Şti’ne 10 yıllığına kiraya verilen yerlerden alınacak yıllık kira bedelinin rayiç değerlerin altında olması sonucu kamu zararına sebebiyet verilmesi.
+
+B) ….. Kampüsü araç giriş-çıkışlarını kontrol hizmetinin işletme hakkını kiralayan …….. Ltd. Şti. ile imzalanan kira sözleşmesinin 7/b maddesi gereği kiracının sözleşme kapsamında yapmayı taahhüt ettiği imalatların bir kısmının yapılmaması.
+
+A) 2007 yılında 2886 sayılı Devlet İhale Kanununun 50 nci maddesine göre pazarlık usulü ile ihale yapılarak …………  Ltd. Şti’ne 10 yıllığına kiraya verilen yerlerden alınacak yıllık kira bedeli ile ilgili olarak; kiralamanın sadece gayrimenkul kiralaması olmaması, … Emlak Müşavirleri Esnaf Odasından alınan rayiç kira bedelinin üniversite ile şirket arasındaki hukuki ilişkiyi açıklama vasfı dışında olması nedenleriyle konu hakkında ilişilecek bir husus bulunmadığına oybirliğiyle,
+
+B) ….. Kampüsü araç giriş-çıkışlarını kontrol hizmetinin işletme hakkını kiralayan …..… Ltd. Şti. ile imzalanan kira sözleşmesinin 7/b maddesi gereği kiracının sözleşme kapsamında yapmayı taahhüt ettiği imalatlar ile ilgili olarak; Yapı İşleri ve Teknik Daire Başkanlığınca …… TL tutarında yatırımın yapılmadığına ilişkin ….. 1. Asliye Mahkemesinde … sayılı dosya ile tespit ve muarazanın men-i davası açıldığı, projeye uygun imalat yapıldığı gerekçesi ile davanın reddedildiği ve bu kararın Yargıtayca onandığı anlaşıldığından konu hakkında ilişik bulunmadığına oybirliğiyle,
