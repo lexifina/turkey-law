@@ -1,5 +1,5 @@
 Cumhuriyet başsavcıvekilinin görevleri
-MADDE 19 -Cumhuriyet başsavcıvekilinin görevleri şunlardır:
+Madde 19- Cumhuriyet başsavcıvekilinin görevleri şunlardır:
 1. Cumhuriyet başsavcısının verdiği görevleri yerine getirmek,
 2. Cumhuriyet savcılarının adlî ve idarî görevlerine ilişkin işlemlerini inceleyip Cumhuriyet başsavcısına bilgi vermek,
 3. Gerektiğinde adlî göreve ilişkin işlemleri yapmak, duruşmalara katılmak ve kanun yollarına başvurmak,

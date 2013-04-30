@@ -1,5 +1,5 @@
 Cumhuriyet savcısının görevleri
-MADDE 20 -Cumhuriyet savcısının görevleri şunlardır:
+Madde 20- Cumhuriyet savcısının görevleri şunlardır:
 1. Adlî göreve ilişkin işlemleri yapmak, duruşmalara katılmak ve kanun yollarına başvurmak,
 2. Cumhuriyet başsavcısı tarafından verilen adlî ve idarî görevleri yerine getirmek,
 3. Gerektiğinde Cumhuriyet başsavcısına vekâlet etmek,

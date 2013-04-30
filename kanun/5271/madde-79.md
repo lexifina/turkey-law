@@ -144,7 +144,7 @@ Madde 104 – (1) Soruşturma ve kovuşturma evrelerinin her aşamasında şüph
 (3) Dosya bölge adliye mahkemesine veya Yargıtaya geldiğinde salıverilme istemi hakkındaki karar, bölge adliye mahkemesi veya Yargıtay ilgili dairesi veya Yargıtay Ceza Genel Kurulunca dosya üzerinde yapılacak incelemeden sonra verilir; bu karar re'sen de verilebilir.
 Usul
 Madde 105 – (Değişik: 25/5/2005 – 5353/13 md.)
-(1) 103 ve 104 üncü maddeler uyarınca yapılan istem üzerine, merciince Cumhuriyet savcısı, şüpheli, sanık veya müdafiin görüşü alındıktan sonra, üç gün içinde istemin kabulüne, reddine veya adlî kontrol uygulanmasına karar verilir. Bu kararlara itiraz edilebilir.
+(1) 103 ve 104 üncü maddeler uyarınca yapılan istem üzerine, merciince Cumhuriyet savcısı, şüpheli, sanık veya müdafiin görüşü alındıktan sonra, üç gün içinde istemin kabulüne, reddine veya adlî kontrol uygulanmasına karar verilir. (Ek cümle: 11/4/2013-6459/15 md.) Duruşma dışında bu karar verilirken Cumhuriyet savcısı, şüpheli, sanık veya müdafiinin görüşü alınmaz. Bu kararlara itiraz edilebilir.
 Salıverilenin yükümlülükleri
 Madde 106 – (1) Salıverilmeden önce şüpheli veya sanık, yetkili yargı merciine veya tutukevinin müdürüne adresini ve varsa telefon numarasını bildirmekle yükümlüdür.
 9128
@@ -154,7 +154,7 @@ Madde 107 – (1) Tutuklamadan ve tutuklamanın uzatılmasına ilişkin her kara
 (2) Ayrıca, soruşturmanın amacını tehlikeye düşürmemek kaydıyla, tutuklunun tutuklamayı bir yakınına veya belirlediği bir kişiye bizzat bildirmesine de izin verilir.
 (3) Şüpheli veya sanık yabancı olduğunda tutuklanma durumu, yazılı olarak karşı çıkmaması halinde, vatandaşı olduğu devletin konsolosluğuna bildirilir.
 Tutukluluğun incelenmesi
-Madde 108 – (1) Soruşturma evresinde şüphelinin tutukevinde bulunduğu süre içinde ve en geç otuzar günlük süreler itibarıyla tutukluluk hâlinin devamının gerekip gerekmeyeceği hususunda, Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi tarafından 100 üncü madde hükümleri göz önünde bulundurularak karar verilir.
+Madde 108 – (1) Soruşturma evresinde şüphelinin tutukevinde bulunduğu süre içinde ve en geç otuzar günlük süreler itibarıyla tutukluluk hâlinin devamının gerekip gerekmeyeceği hususunda, Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi tarafından 100 üncü madde hükümleri göz önünde bulundurularak, şüpheli veya müdafii dinlenilmek suretiyle karar verilir. (1)
 (2) Tutukluluk durumunun incelenmesi, yukarıdaki fıkrada öngörülen süre içinde şüpheli tarafından da istenebilir.
 (3) Hâkim veya mahkeme, tutukevinde bulunan sanığın tutukluluk hâlinin devamının gerekip gerekmeyeceğine her oturumda veya koşullar gerektirdiğinde oturumlar arasında ya da birinci fıkrada öngörülen süre içinde de re'sen karar verir.
 ÜÇÜNCÜ BÖLÜM
@@ -167,6 +167,8 @@ a) Yurt dışına çıkamamak.
 b) Hâkim tarafından belirlenen yerlere, belirtilen süreler içinde düzenli olarak başvurmak.
 c) Hâkimin belirttiği merci veya kişilerin çağrılarına ve gerektiğinde meslekî uğraşlarına ilişkin veya eğitime devam konularındaki kontrol tedbirlerine uymak.
 d) Her türlü taşıtları veya bunlardan bazılarını kullanamamak ve gerektiğinde kaleme, makbuz karşılığında sürücü belgesini teslim etmek.
+––––––––––––––––
+(1) 11/4/2013 tarihli ve 6459 sayılı Kanunun 16 ncı maddesiyle, bu fıkrada yer alan “bulundurularak” ibaresinden sonra gelmek üzere “, şüpheli veya müdafii dinlenilmek suretiyle” ibaresi eklenmiştir.
 9129
 e) Özellikle uyuşturucu, uyarıcı veya uçucu maddeler ile alkol bağımlılığından arınmak amacıyla, hastaneye yatmak dahil, tedavi veya muayene tedbirlerine tâbi olmak ve bunları kabul etmek.
 f) Şüphelinin parasal durumu göz önünde bulundurularak, miktarı ve bir defada veya birden çok taksitlerle ödeme süreleri, Cumhuriyet savcısının isteği üzerine hâkimce belirlenecek bir güvence miktarını yatırmak.
@@ -460,6 +462,7 @@ g) Yakalama veya tutuklama nedenleri ve haklarındaki suçlamalar kendilerine, y
 h) Yakalanmaları veya tutuklanmaları yakınlarına bildirilmeyen,
 i) Hakkındaki arama kararı ölçüsüz bir şekilde gerçekleştirilen,
 j) Eşyasına veya diğer malvarlığı değerlerine, koşulları oluşmadığı halde elkonulan veya korunması için gerekli tedbirler alınmayan ya da eşyası veya diğer malvarlığı değerleri amaç dışı kullanılan veya zamanında geri verilmeyen,
+k) (Ek: 11/4/2013-6459/17 md.) Yakalama veya tutuklama işlemine karşı Kanunda öngörülen başvuru imkânlarından yararlandırılmayan,
 –––––––––––––––––––
 (1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 19 uncu maddesiyle (5) numaralı alt bentten sonra gelmek üzere (6) numaralı alt bent eklenmiş, bu alt bentler buna göre teselsül ettirilmiştir.
 9141
@@ -480,7 +483,7 @@ Madde 143 – (1) Kovuşturmaya yer olmadığına ilişkin kararı sonradan kald
 (3) İftira konusunu oluşturan suç veya yalan tanıklık nedeniyle gözaltına alınma ve tutuklama halinde; Devlet, iftira eden veya yalan tanıklıkta bulunan kişiye de rücu eder.
 Tazminat isteyemeyecek kişiler
 Madde 144 – (1) Kanuna uygun olarak yakalanan veya tutuklanan kişilerden aşağıda belirtilenler tazminat isteyemezler:
-a) Gözaltı ve tutukluluk süresi başka bir hükümlülüğünden indirilenler.
+a) (Mülga: 11/4/2013-6459/18 md.)
 b) Tazminata hak kazanmadığı hâlde, sonradan yürürlüğe giren ve lehte düzenlemeler getiren kanun gereği, durumları tazminat istemeye uygun hâle dönüşenler.
 9142
 c) Genel veya özel af, şikâyetten vazgeçme, uzlaşma gibi nedenlerle hakkında kovuşturmaya yer olmadığına veya davanın düşmesine karar verilen veya kamu davası geçici olarak durdurulan veya kamu davası ertelenen veya düşürülenler.
@@ -677,6 +680,7 @@ Kovuşturmaya Yer Olmadığına Dair Karar, İtiraz ve İddianamenin İadesi
 Kovuşturmaya yer olmadığına dair karar
 Madde 172 – (1) Cumhuriyet savcısı, soruşturma evresi sonunda, kamu davasının açılması için yeterli şüphe oluşturacak delil elde edilememesi veya kovuşturma olanağının bulunmaması hâllerinde kovuşturmaya yer olmadığına karar verir. Bu karar, suçtan zarar gören ile önceden ifadesi alınmış veya sorguya çekilmiş şüpheliye bildirilir. Kararda itiraz hakkı, süresi ve mercii gösterilir.
 (2) Kovuşturmaya yer olmadığına dair karar verildikten sonra yeni delil meydana çıkmadıkça, aynı fiilden dolayı kamu davası açılamaz.
+(3) (Ek: 11/4/2013-6459/19 md.) Kovuşturmaya yer olmadığına dair kararın etkin soruşturma yapılmadan verildiğinin Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararıyla tespit edilmesi üzerine, kararın kesinleşmesinden itibaren üç ay içinde talep edilmesi hâlinde yeniden soruşturma açılır.
 Cumhuriyet savcısının kararına itiraz (1)
 Madde 173 – (1) Suçtan zarar gören, kovuşturmaya yer olmadığına dair kararın kendisine tebliğ edildiği tarihten itibaren onbeş gün içinde, bu kararı veren Cumhuriyet savcısının yargı çevresinde görev yaptığı ağır ceza mahkemesine en yakın ağır ceza mahkemesine itiraz edebilir.
 (2) İtiraz dilekçesinde, kamu davasının açılmasını gerektirebilecek olaylar ve deliller belirtilir.
@@ -687,6 +691,9 @@ Madde 173 – (1) Suçtan zarar gören, kovuşturmaya yer olmadığına dair kar
 İddianamenin iadesi
 Madde 174 – (Değişik: 25/5/2005 - 5353/27 md.)
 (1) Mahkeme tarafından, iddianamenin ve soruşturma evrakının verildiği tarihten itibaren onbeş gün içinde soruşturma evresine ilişkin bütün belgeler incelendikten sonra, eksik veya hatalı noktalar belirtilmek suretiyle;
+––––––––––––––––
+(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 22 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “ağır ceza mahkemesi başkanına” ibaresi “ağır ceza mahkemesine”, üçüncü ve dördüncü fıkralarında yer alan “Başkan” ibareleri “Mahkeme” ve altıncı fıkrasında yer alan “ağır ceza mahkemesi başkanının” ibaresi “ağır ceza mahkemesinin” şeklinde değiştirilmiş ve metne işlenmiştir.
+9150
 a) 170 inci maddeye aykırı olarak düzenlenen,
 b) Suçun sübûtuna etki edeceği mutlak sayılan mevcut bir delil toplanmadan düzenlenen,
 c) Önödemeye veya uzlaşmaya tâbi olduğu soruşturma dosyasından açıkça anlaşılan işlerde önödeme veya uzlaşma usulü uygulanmaksızın düzenlenen,
@@ -695,9 +702,6 @@ c) Önödemeye veya uzlaşmaya tâbi olduğu soruşturma dosyasından açıkça 
 (3) En geç birinci fıkrada belirtilen süre sonunda iade edilmeyen iddianame kabul edilmiş sayılır.
 (4) Cumhuriyet savcısı, iddianamenin iadesi üzerine, kararda gösterilen eksiklikleri tamamladıktan ve hatalı noktaları düzelttikten sonra, kovuşturmaya yer olmadığı kararı verilmesini gerektiren bir durumun bulunmaması halinde, yeniden iddianame düzenleyerek dosyayı mahkemeye gönderir. İlk kararda belirtilmeyen sebeplere dayanılarak yeniden iddianamenin iadesi yoluna gidilemez.
 (5) İade kararına karşı Cumhuriyet savcısı itiraz edebilir.
-––––––––––––––––
-(1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 22 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “ağır ceza mahkemesi başkanına” ibaresi “ağır ceza mahkemesine”, üçüncü ve dördüncü fıkralarında yer alan “Başkan” ibareleri “Mahkeme” ve altıncı fıkrasında yer alan “ağır ceza mahkemesi başkanının” ibaresi “ağır ceza mahkemesinin” şeklinde değiştirilmiş ve metne işlenmiştir.
-9150
 ÜÇÜNCÜ KİTAP
 Kovuşturma Evresi
 BİRİNCİ KISIM
@@ -712,6 +716,7 @@ Madde 176 – (1) İddianame, çağrı kâğıdı ile birlikte sanığa tebliğ 
 (2) Tutuklu olmayan sanığa tebliğ olunacak çağrı kâğıdına mazereti olmaksızın gelmediğinde zorla getirileceği yazılır.
 (3) Tutuklu sanığın çağrılması duruşma gününün tebliği suretiyle yapılır. Sanıktan duruşmada kendisini savunmak için bir istemde bulunup bulunmayacağı ve bulunacaksa neden ibaret olduğunu bildirmesi istenir; müdafii de sanıkla birlikte davet olunur. Bu işlem, tutuklunun bulunduğu ceza infaz kurumunda cezaevi kâtibi veya bu işle görevlendirilen personel yanına getirilerek tutanak tutulmak suretiyle yapılır.
 (4) Yukarıdaki fıkralar gereğince, çağrı kâğıdının tebliğiyle duruşma günü arasında en az bir hafta süre bulunması gerekir.
+9150-1
 Sanığın savunma delillerinin toplanması istemi
 Madde 177 – (1) Sanık, tanık veya bilirkişinin davetini veya savunma delillerinin toplanmasını istediğinde, bunların ilişkin olduğu olayları göstermek suretiyle bu husustaki dilekçesini duruşma gününden en az beş gün önce mahkeme başkanına veya hâkime verir.
 (2) Bu dilekçe üzerine verilecek karar, kendisine derhâl bildirilir.
@@ -1252,6 +1257,7 @@ Madde 269 – (1) İtiraz, kararın yerine getirilmesinin geri bırakılması so
 (2) Ancak, kararına itiraz edilen makam veya kararı inceleyecek merci, geri bırakılmasına karar verebilir.
 İtirazın Cumhuriyet savcısına ve karşı tarafa tebliği ile inceleme ve araştırma yapılması
 Madde 270 – (1) İtirazı inceleyecek merci, yazı ile cevap verebilmesi için itirazı, Cumhuriyet savcısı ve karşı tarafa bildirebilir. Merci, inceleme ve araştırma yapabileceği gibi gerekli gördüğünde bunların yapılmasını da emredebilir.
+(2) (Ek: 11/4/2013-6459/20 md.) 101 ve 105 inci maddeler uyarınca yapılan itiraz üzerine Cumhuriyet savcısından görüş alınması durumunda, bu görüş şüpheli, sanık veya müdafiine bildirilir. Şüpheli, sanık veya müdafii üç gün içinde görüşünü bildirebilir.
 9172
 Karar
 Madde 271 – (1) Kanunda yazılı olan hâller saklı kalmak üzere, itiraz hakkında duruşma yapılmaksızın karar verilir. Ancak, gerekli görüldüğünde Cumhuriyet savcısı ve sonra müdafi veya vekil dinlenir.
@@ -1550,9 +1556,14 @@ ______________
 (2) Bilgi istenen yazıda yukarıdaki fıkra hükmü ile buna aykırı hareket etmenin Türk Ceza Kanununun 257 nci maddesine aykırılık oluşturabileceği yazılır. Bu durumda haklarında kamu davasının açılması, izin veya karar alınmasına bağlı bulunan kişiler hakkında, yasama dokunulmazlığı saklı kalmak üzere, doğrudan soruşturma yapılır.
 Yönetmelik
 Madde 333 – (1) Bu Kanunda öngörülen yönetmelikler, aksine hüküm bulunmadıkça, ilgili bakanlıkların görüşü alınarak Adalet Bakanlığı tarafından çıkarılır.
-Geçici Madde 1 – (24/1/2013-6411/2 md.)
+Geçici Madde 1 – (Ek:24/1/2013-6411/2 md.)
 (1) Bu Kanunun 202 nci maddesinin beşinci fıkrasında öngörülen yönetmelik, Adalet Bakanlığınca bu maddeyi ihdas eden Kanunun yürürlüğe girdiği tarihten itibaren bir ay içinde çıkarılır. Bu yönetmelik uyarınca tercüman listeleri oluşturuluncaya kadar bu Kanunun 202 nci maddesinin dördüncü fıkrasında düzenlenen tercüme hizmetleri sanığın kendisi tarafından getirilen tercüman tarafından yerine getirilir.
+Geçici Madde 2 – (Ek: 11/4/2013-6459/21 md.)
+(1) İnsan Haklarını ve Ana Hürriyetleri Korumaya Dair Sözleşmenin veya eki protokollerin ihlali suretiyle bir ceza hükmünün verildiğini tespit eden Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararlarından, 15.6.2012 tarihi itibarıyla Avrupa Konseyi Bakanlar Komitesi önünde denetlenmekte bulunanlar bakımından bu Kanunun 311 inci maddesinin ikinci fıkrası hükmü uygulanmaz. Bu durumda olanlar, bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde yargılamanın yenilenmesi talebinde bulunabilirler.”
 Yürürlük
 Madde 334 – (1) Bu Kanun, 1 Haziran 2005 tarihinde yürürlüğe girer. (1)
 Yürütme
 Madde 335 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+–––––––––––––––––
+(1) Bu maddede yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve 5328 sayılı Kanunun Geçici 1 inci maddesiyle "1 Haziran 2005“ şeklinde değiştirilmiş ve metne işlenmiştir.
+9186

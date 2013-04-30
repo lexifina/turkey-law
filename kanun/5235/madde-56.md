@@ -1,2 +1,2 @@
 Yürütme
-MADDE 56 -Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Madde 56- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

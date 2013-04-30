@@ -1,1 +1,1 @@
-MADDE 52 –2.7.1964 tarihli ve 492 sayılı Harçlar Kanununa bağlı (1) sayılı tarifenin “(A) Mahkeme Harçları” başlıklı bölümünün “I- Başvurma harcı:” başlıklı bendinin (3) numaralı alt bendinin girişine, “III- Karar ve İlam harcı:” başlıklı bendinin nispi harçla ilgili (e) alt bendindeki “Yukarıdaki nispetler” ibaresinden sonra gelmek üzere ve maktu harçla ilgili (c) alt bendinin girişine “Bölge Adliye Mahkemeleri,” ibaresi eklenmiştir.
+Madde 52- (2.7.1964 tarihli ve 492 sayılı Harçlar Kanunu ile ilgili olup yerine işlenmiştir.)

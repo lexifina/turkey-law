@@ -1,5 +1,5 @@
 Cumhuriyet başsavcısının görevleri
-MADDE 40 -Bölge adliye mahkemesi Cumhuriyet başsavcısının görevleri şunlardır:
+Madde 40- Bölge adliye mahkemesi Cumhuriyet başsavcısının görevleri şunlardır:
 1. Bölge adliye mahkemesi Cumhuriyet başsavcılığını temsil etmek,
 2. Cumhuriyet başsavcılığının verimli, uyumlu ve düzenli bir şekilde çalışmasını sağlamak,
 3. Bölge adliye mahkemesinin genel yönetim işlerini yürütmek,
