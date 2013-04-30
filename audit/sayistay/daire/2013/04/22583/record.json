@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "6",
+  "decision_date": "2013-04-30",
+  "source_id": 22583,
+  "chamber": "7",
+  "ilam_number": "84",
+  "item_number": 16,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22583/",
+  "source_sha256": "d732c810ddf2e2a9531ebe53d9aa84bf550cf7497575518f6af5c6dfaddc6bbe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
