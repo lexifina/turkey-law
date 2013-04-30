@@ -1,0 +1,3 @@
+Sayıştay İlamları Cetveline kaydedilen tutarların tahsil edilmemesi.
+
+Yönetim dönemi hesabına ekli cetvellerin incelenmesi sonucunda, Sayıştay İlamları Cetvelinde yer alan ve …… Üniversitesi Strateji Geliştirme Daire Başkanlığı’nın 2006 yılı hesabının Sayıştay 7. Dairesinde yargılanması sonucu çıkan …. sayılı ilamda tazminine karar verilen toplam ……… TL’nin tahsil edilmemesinin nedenleri sorulmuşsa da, Sayıştay Temyiz Kurulu’nun ….. tarih ve …. tutanak sayılı kararında Sayıştay 7. Dairesince tazminine karar verilen ….. TL’den ….. TL’sinin kaldırılmasına, kalan …… TL’nin tasdikine karar verildiği, ….. TL’nin de ……. ile tahsil edildiği anlaşıldığından konu hakkında yapılacak işlem olmadığına oybirliğiyle,
