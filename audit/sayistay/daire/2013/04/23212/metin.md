@@ -1,0 +1,7 @@
+… Üniversitesi Mühendislik-Mimarlık Fakültesi Dekanlığına vekâlet eden öğretim üyesine yapılan ödemeler.
+
+İstifa nedeniyle boşalan Mühendislik-Mimarlık Fakültesi Dekanlığına vekâlet eden öğretim üyesine bu göreve ilişkin idari görev ödeneği ve ek ders ücreti ödendiği görülmüştür.
+
+2914 sayılı Yükseköğretim Personel Kanunun “İdari Görev Ödeneği” başlıklı 13 üncü maddesinde, almakta oldukları aylık gösterge ve ek gösterge tutarının; dekanlık görevini yürütenlere %30’unun, dekan yardımcıları, enstitü ve yüksekokul müdürleri bölüm başkanlarına %20’sinin, enstitü ve yüksek okul müdür yardımcılarına %15’inin idari görev ödeneği olarak ödeneceği; aynı Kanunun 11 inci maddesine dayanılarak Yükseköğretim Kurulu Başkanlığınca belirlenen “Ders Yükü Tespiti ve Ek Ders Ücreti Ödemelerinde Uyulacak Esaslar”ın “Ders Yükleri ve Ücret Karşılığı Okutabilecekleri Ek Ders Saatleri” başlıklı 1 inci maddesinin (c) bendinde Rektör, dekan, enstitü ve yüksekokul müdürlüğü ile bölüm başkanlığına Yükseköğretim Kanunda belirtilen şekilde usulüne uygun olarak yapılan vekaleten görevlendirmeler haricinde söz konusu görevlerin vekaleten yürütülmesi halinde ders yükü muafiyeti ve indirimi uygulanmayacağı hüküm altına alınmıştır.
+
+Bu itibarla, usulüne göre atanan ve ataması Yükseköğretim Kurulu tarafından da uygun görülen öğretim üyesinin dekanlara ödenen oran üzerinden idari görev ödeneği ve ek ders ücreti almasında mevzuata aykırı bir husus bulunmadığına oybirliğiyle,
