@@ -1,0 +1,3 @@
+..… Üniversitesi mülkiyetinde bulunan …… Dinlenme Tesislerinin işleticisi tarafından ödenmesi gereken elektrik tüketim bedelinin Üniversite bütçesinden ödenmesi.
+
+…… Üniversitesi mülkiyetinde bulunan …… Dinlenme Tesislerinin işleticisi tarafından ödenmesi gereken elektrik tüketim bedelinin Üniversite bütçesinden ödendiği görülmüşse de, kiracının kira borçlarını ödememesi nedeniyle tesislerin mahkeme kararıyla tahliye edildiği, elektrik borçlarının ödenmediğinin sonradan öğrenildiği ve borcun tahsil edilmesi için gerekli hukuki işlemlerin başlatıldığı anlaşıldığından ….. TL hakkında ilişilecek bir husus bulunmadığına oybirliğiyle,
