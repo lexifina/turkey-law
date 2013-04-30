@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35114",
+  "decision_date": "2013-04-30",
+  "source_id": 23230,
+  "chamber": "2",
+  "ilam_number": "98",
+  "item_number": 20,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23230/",
+  "source_sha256": "b6f8c31ab870157fb53c944d51a732db51090c973cf3a542aae9782d91b59bff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
