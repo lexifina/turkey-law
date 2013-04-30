@@ -1,0 +1,12 @@
+Askerî Yargıtay Başsavcılığınca mesleki sicil notunun saptanmasında dikkate alınacak hususlar
+MADDE 15- (1) Şekil ve kapsamı EK-5’de yer alan mesleki sicil belgesi Askerî Yargıtay Başsavcılığınca tanzim edilir.
+(2) Askerî Yargıtay Başsavcısı tarafından askerî savcı ve yardımcıları için aşağıdaki esaslara göre her dosya için bir mesleki sicil notu takdir edilir:
+a) Hazırlık soruşturmasının sevk ve yönetiminde ve delillerin takdiri ve toplanmasında isabet derecesi.
+b) Hazırlık soruşturmasının kanuni ve zorunlu sebepler dışında uzatılıp uzatılmadığı.
+c) İddianamede, suç teşkil eden maddî eylemin açıklanması, suçun tavsifi ve uygulanması istenen kanun maddelerinde, Hazine zararı olan ahvalde, Hazine zararının miktarı ve kapsamını saptamada isabet derecesi.
+ç) Duruşma sırasında vaki iddia ve istemlerinde isabet derecesi.
+d) Kanun yollarına müracaat edilmesini gerektiren sebepler mevcut olduğu halde, kanun yollarına başvurulması halinin bahis konusu olup olmadığı ve kanun yollarına başvurulması hallerinde, bu müracaatta ve gerekçesinde isabet derecesi.
+(3) Mesleki sicil belgesine ait sicil tam notu yüzdür. İkinci fıkrada sıralanan her bir esas için 20 üzerinden not takdir edilir. Notlar tamsayı olarak verilebilir. Verilen notların toplamı o dosya için mesleki sicil notu olur.
+(4) Mesleki sicil notunun takdirinde, davaya konu olan maddi eylem ve uygulanması istenen kanun maddeleri hakkındaki içtihatlarda bir değişiklik husule gelip gelmediği, davaya konu olan fiilin nevi ve mahiyeti, Askerî Yargıtay incelemeleri sonuçları ve düzen ve tertibi dikkate alınır. Leh ve aleyhe kanaat getirilmesine müsait olmayan işler için not verilmez. Hükmün bozulması, onanması ve düzeltilerek onanması, mutlaka lehe ve aleyhe not verilmesi için sebep teşkil etmez.
+(5) Askerî Yargıtay dairelerince bozulan karara mahal mahkemesince uyulmayıp, direnme hallerinde işbu direnme kararlarının Askerî Yargıtay Daireler Kurulunca onanması üzerine evvelce bozma kararı göz önünde bulundurulmak suretiyle tanzim olunan not aynı bekleme süresi içinde tanzim edilmiş ise hükümsüz addedilir ve yeni not verilir.
+(6) Mesleki sicil süresinin başlangıcından sicil tanzim zamanına kadar her dosya için takdir edilen notların ortalaması, askerî savcı ve yardımcıların Askerî Yargıtay Başsavcısı tarafından verilmiş mesleki sicil notu olur. Sicil düzenleme tarihinden sonra, takip eden yılın sicil başlangıç tarihine kadar verilen sicil notları da o yılın mesleki sicil notu hesaplamasına dâhil edilir.

@@ -1,0 +1,2 @@
+Askerî adalet müfettişlerince verilmiş olan mesleki sicil notları
+MADDE 21- (1) Askerî adalet müfettişlerince askerî savcı ve yardımcıları, adlî müşavirler ve yardımcıları ile disiplin subaylığı görevini yapan askerî hâkim subaylar hakkında bir sicil yılı içinde farklı adli birimlerin teftişi sırasında verilen birden fazla mesleki sicil notunun ortalaması kuvvet komutanlıkları personel başkanlıklarınca saptanır. Bu ortalama o sicil dönemi için askerî adalet müfettişlerince verilmiş mesleki sicil notu olur.

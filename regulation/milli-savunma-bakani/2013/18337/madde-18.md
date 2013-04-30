@@ -1,0 +1,2 @@
+Görev yerinin veya statüsünün değişmiş olması
+MADDE 18- (1) Mesleki sicil düzenlenebilecek askerî hâkimler yönünden, ilgilinin karar veya işlemlerinden sonra görev yerinin veya statüsünün değişmiş olması, inceleme yapılan dosyadaki görevine ve statüsüne göre hakkında mesleki sicil notu verilmesine engel değildir. Ayrıca, mesleki sicil notunun verilebilmesi için askerî hâkimin karar veya işleminin o sicil dönemi içinde verilmiş veya yapılmış olması gerekli değildir.

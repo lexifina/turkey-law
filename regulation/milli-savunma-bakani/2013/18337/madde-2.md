@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, askerî hâkimlik, askerî savcılık, adlî müşavirlik, disiplin subaylığı, Askerî Adalet İşleri Başkanlığı, Askerî Adalet Teftiş Kurulu Başkanlığı, Askerî Yargıtay ve Askerî Yüksek İdare Mahkemesi kadrolarında ve askerî yargı ile ilgili idari görevlerde bulunan askerî hâkim subayları ve askerî hâkim adaylarını kapsar.
+(2) General-amiral sicil belgesi ve subay (asteğmen-albay) sicil belgelerinin düzenleme ve gönderilme usulü ile ilgili olarak bu Yönetmelikte hüküm bulunmayan konularda, 26/10/1963 tarihli ve 357 sayılı Askerî Hâkimler Kanunu ve bu Yönetmelik hükümlerine aykırı olmamak şartıyla 27/12/1998 tarihli ve 23566 sayılı Resmî Gazete’de yayımlanan Subay Sicil Yönetmeliği hükümleri uygulanır.

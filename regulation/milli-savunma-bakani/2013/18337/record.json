@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.18337",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ASKERÎ HÂKİM SİCİL YÖNETMELİĞİ",
+  "number": "18337",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2013/18337",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18337&MevzuatTertip=5",
+  "source_sha256": "fa3070faa0cf5572dacd83b41378912f4d051183235254c63fdecd88ff4b2cf2",
+  "source_bytes": 48594,
+  "published": "2013-04-30",
+  "gazette": "28633",
+  "in_force": "2013-04-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.04.2013); own commencement article: \"Bu Yönetmelik 31/8/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 31/8/2012 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3445,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18337%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

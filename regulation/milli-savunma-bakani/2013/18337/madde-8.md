@@ -1,0 +1,3 @@
+Subay sicil belgesinin kimler hakkında düzenleneceği
+MADDE 8- (1) Subay (asteğmen-albay) sicil belgesi; idari sicil üstlerince Askerî Adalet İşleri Başkanlığı, Askerî Adalet Teftiş Kurulu Başkanlığı, askerî yargı ile ilgili idari görev kadroları, adli müşavirlik ve disiplin subaylığı kadroları, Askerî Yargıtay Başkanlığı ve Başsavcılığı kadroları ile Askerî Yüksek İdare Mahkemesi Başkanlığı ve Başsavcılığı kadrolarında görevli askerî hâkimler ile yardımcı askerî savcılar ve askerî savcı yardımcıları hakkında düzenlenir.
+(2) Askerî Yargıtay Başkanı, Başsavcısı, İkinci Başkanı, daire başkanları ve üyeleri ile Askerî Yüksek İdare Mahkemesi Başkanı, Başsavcısı, daire başkanları ve üyeleri hakkında subay sicil belgesi düzenlenmez.
