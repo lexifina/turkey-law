@@ -1,0 +1,3 @@
+2007 yılında …….. . Ltd. Şti’ne 10 yıllığına kiraya verilen yerlerden alınacak yıllık kira bedelinin rayiç değerlerin altında olması sonucu kamu zararına sebebiyet verilmesi.
+
+2007 yılında 2886 sayılı Devlet İhale Kanununun 50 nci maddesine göre pazarlık usulü ile ihale yapılarak ……… Ltd. Şti’ne 10 yıllığına kiraya verilen yerlerden alınacak yıllık kira bedeli ile ilgili olarak, kiralamanın sadece gayrimenkul kiralaması olmaması, …… Emlak Müşavirleri Esnaf Odasından alınan rayiç kira bedelinin üniversite ile şirket arasındaki hukuki ilişkiyi açıklama vasfı dışında olması nedenleriyle konu hakkında ilişilecek bir husus bulunmadığına oybirliğiyle,
