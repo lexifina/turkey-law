@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35113",
+  "decision_date": "2013-04-30",
+  "source_id": 23160,
+  "chamber": "2",
+  "ilam_number": "120",
+  "item_number": 16,
+  "account_year": 2010,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23160/",
+  "source_sha256": "3d3c81aaa283f189986ab1f12ac5f858bba3f024baf7861f6887b972bbc06ac7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
