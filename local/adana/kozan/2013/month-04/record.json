@@ -1,0 +1,28 @@
+{
+  "number": "month-04",
+  "year": 2013,
+  "month": 4,
+  "title": "Nisan 2013 Meclis Kararı",
+  "decision_date": null,
+  "index_date": "2013-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2013",
+  "source": "https://www.kozan.bel.tr/2013-yili-meclis-kararlari.html",
+  "official_page": null,
+  "official_document": "http://www.kozan.bel.tr/upload/2013/04/nisan-ayi-meclis.doc",
+  "source_sha256": "b5e0c0a638ce3a7c39b1ea561c5247695bd70e57cc8015f7c2ef9063298d722b",
+  "issuer": "Kozan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2013-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2013); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Nisan 2013 Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
