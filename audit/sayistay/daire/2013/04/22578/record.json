@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "6",
+  "decision_date": "2013-04-30",
+  "source_id": 22578,
+  "chamber": "7",
+  "ilam_number": "84",
+  "item_number": 11,
+  "account_year": 2011,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22578/",
+  "source_sha256": "ff33ae1789722c9e1e5b8536dd188b66f900929e936fb1e76c5bfc2124ae3240",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
