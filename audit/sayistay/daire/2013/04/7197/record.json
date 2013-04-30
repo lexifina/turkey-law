@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "6",
+  "decision_date": "2013-04-30",
+  "source_id": 7197,
+  "chamber": "7",
+  "ilam_number": "84",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7197/",
+  "source_sha256": "62ceeb1e61165e42408840230d5cf28bfbc5c4a8e8678d4a1bc2c8b4cdaa6911",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
