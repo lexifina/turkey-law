@@ -1,0 +1,3 @@
+Bilimsel Araştırma Projesi kapsamında alınan kimi cihaz ve malzemeler için Katma Değer Vergisi oranının % 8 yerine % 18 uygulanması.
+
+Bilimsel Araştırma Projesi kapsamında alınan kimi cihaz ve malzemeler için 30.12.2007 tarih ve 26742 sayılı Resmi Gazete’de yayımlanan 2007/13033 sayılı Mal ve Hizmetlere Uygulanacak Katma Değer Vergisi Oranlarının Tespitine İlişkin Kararın 1 inci maddesine göre % 8 olarak uygulanması gereken Katma Değer Vergisi oranının % 18 olarak uygulanması sonucu ….. TL kamu zararına sebebiyet verildiği görülmüşse de, bu tutarın ……… ile yılından sonra tahsil edildiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına oybirliğiyle,
