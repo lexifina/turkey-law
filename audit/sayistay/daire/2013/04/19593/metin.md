@@ -1,0 +1,41 @@
+Stadyum giderleri
+
+......... A.Ş.’den “........ hizmet alımı” yapılarak profesyonel spor kulüpleri tarafından karşılanması gereken stadyum giderlerinin, .......Büyükşehir Belediyesi üzerinde bırakılması sonucu, .......-TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+......Büyükşehir Belediyesi bütçesinden karşılanan .........-TL tutarındaki harcamaların kamu zararı niteliğinde olduğu şeklindeki görüşte;
+
+“........ A.Ş.’den “........hizmet” alımı gerçekleştirilmek suretiyle kamu zararına yol açılmıştır.
+
+...........A.Ş. 02.11.2009 tarihli Bakanlar Kurulu Kararı ile kurulmuş olup, sermayesinin %96’sı ........Büyükşehir Belediyesi’ne ait olan belediye iktisadi teşebbüsüdür.
+
+...........’nin mülkiyeti Gençlik ve Spor Genel Müdürlüğü’ne aittir. .........Büyükşehir Belediyesi ile Gençlik ve Spor Genel Müdürlüğü arasında 30.10.2009 tarihinde imzalan sözleşme ile Merkezi’nin mülkiyeti Gençlik ve Spor Genel Müdürlüğü’ne ait olan ............’nin bedelsiz kullanım hakkı 3289 sayılı Kanunun Ek 11. maddesine istinaden 10 yıl süre ile ....... Büyükşehir Belediyesi’ne devredilmiştir.
+
+Söz konusu sözleşmenin 8. maddesinde ise;
+
+“Belediye kiraladığı yerleri (30.000 kişilik stadyum ve müştemilatı ile 7200 kişilik Kongre ve Spor Merkezi ve müştemilatı) sermayesinin en az %90’ı Büyükşehir Belediyesi’ne ait olan belediye iktisadi teşekküllerine devredebilir.” denilmektedir.
+
+...... Büyükşehir Belediyesi ile .........A.Ş. ile arasında akdedilen 24.08.2010’da kira mukavelesi akdedilmiş, söz konusu mukavele ile ........  A.Ş.’ye 9 yıl süre ile kiralanmıştır.
+
+Yine ......Büyükşehir Belediyesi ile .........A.Ş. arasında 31.05.2010’da (1 yıllık) ve 31.05.2011’de (1 yıllık) 4734 sayılı Kamu İhale Kanununun 22/b maddesine istinaden hizmet alım sözleşmesi imzalanmıştır.
+
+Söz konusu “...........hizmet alım” işlerine ait teknik şartnamenin 5. maddesi ile hizmet konuları; tesislerin işletimine yönelik olarak, temizlik, teknik, güvenlik, ulaşım, saha bakım, tribün bakım ve idari hizmetler olarak sayılmıştır. Yine teknik şartnamenin 7. maddesi ile de, tesislerin bakım onarım giderleri, kiralanan araç giderleri, elektrik, su doğalgaz vb. giderlerinin Büyükşehir Belediyesi tarafından karşılanacağı belirtilmiştir. Nihayetinde, .......A.Ş. ile hizmet alım sözleşmeleri imzalanmış ve Kongre Merkezi’nin tüm giderleri .....Büyükşehir Belediyesi üzerinde bırakılmıştır.
+
+Bilindiği üzere, Türkiye’deki stadyumlarım büyük bir kısmının mülkiyeti Gençlik ve Spor Genel Müdürlüğü’ne aittir. Genel Müdürlük, statları spor kulüplerine kiralama, intifa hakkı, hasılat paylaşım esaslı kullanım yöntemleri ile bedel karşılığı kullandırmaktadır. Spor kulüpleri ile stadyumların kullanımına ilişkin yazışmalar yapılmış, cevabi yazılarda stadyumların bütün giderlerinin -Gençlik ve Spor Genel Müdürlüğü’nün sözleşme ile kullanım hakkını tanıdığı- spor kulüpleri tarafından karşılandığı teyit edilmiştir. Ancak; Büyükşehir Belediyesi ile ..........A.Ş. arasında akdedilen hizmet alım sözleşmeleri ile ........’nin işletilmesine yönelik tüm giderler (............ A.Ş vasıtasıyla) Büyükşehir Belediyesi üzerinde kalmış, dolayısıyla stadyumu kullanan profesyonel spor kulüpleri stadyumun işletilmesine yönelik giderlerle karşı karşıya bırakılmamıştır.
+
+5393 sayılı Belediye Kanununun 14/b maddesi ile belediyelerin, amatör spor kulüplerine malzeme verebileceği gerekli desteği sağlayabileceği belirtilmiş, 37. maddesi ile belediye başkanlarının, profesyonel spor kulüplerinin başkanlığını yapamayacakları hüküm altına alınmıştır. İlgili maddeler ile belediyeler ile profesyonel spor kulüpleri arasında bir bağ olmaması amaçlanmış, profesyonel spor kulüpleri giderlerinin belediyeler üzerinde kalmaması hedeflenmiştir.
+
+Ayrıca; 5018 sayılı Kamu Mali Yönetim ve Kontrol Kanununun 8. maddesi ile her türlü kamu kaynağının elde edilmesi ve kullanılmasında görevli ve yetkili olanların, kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak elde edilmesinden, kullanılmasından, muhasebeleştirilmesinden, raporlanmasından ve kötüye kullanılmaması için gerekli önlemlerin alınmasından sorumlu olduğu ve yetkili kılınmış mercilere hesap vermek zorunda oldukları belirtilmiştir. Söz konusu madde ile de, kamu kaynakların etkili, ekonomik ve verimli olarak kullanılması amaçlanmıştır.
+
+Ancak, sorgu konusu olayda, stadyumu kullanan, stadyumun her türlü bilet reklam vs. gelirinden yararlanan profesyonel spor kulüpleri stadyumun işletilmesine yönelik giderlere katılmamaktadır. Yukarıda ayrıntılı açıklandığı üzere, kamu kaynakların etkili, ekonomik ve verimli olarak kullanılması esas olup, bu şekilde stadyum giderlerinin tamamının kamu üzerinde bırakılması, profesyonel spor kulüplerine maddi yardım niteliğinde olup, kamu zararı niteliği açıktır.
+
+Bu itibarla, profesyonel spor kulüpleri tarafından karşılanması gerek stadyum giderlerinin, ....... Büyükşehir Belediyesi üzerinde bırakılması sonucu .......-TL kamu zararına neden olunduğu ve bu kamu zararını sorumlulara müştereken ve müteselsilen tazmin ettirilmesi gerektiği ve ayrıca söz konusu hususun İçişleri Bakanlığına bildirilmesinin uygun olacağı” değerlendirilmesine yer verilmiştir.
+
+Ancak, yapılan savunmalar ışığında konunun yeniden değerlendirilmesi neticesinde, satın alınan hizmet bedeli olarak ödenen ........-TL’nin sosyal amaçlı harcamalar olduğu anlaşılmış olup, yapılan bu harcamaların kamu zararı olduğu görüşüne katılmak mümkün görünmemektedir. Savunmalarda da belirtildiği üzere, ............Merkezi, yapımı ve işletim konsepti itibarı ile sadece profesyonel spor müsabakalarının yapıldığı üniteler olmayıp aynı zamanda sosyal yaşam ve alışveriş merkezi olarak işletilmekte ve birçok ulusal ve uluslar arası organizasyona da ev sahipliği yapmaktadır. Dolayısıyla, söz konusu tesisler sosyal fayda içerik ağırlıklı olarak hizmet vermektedir.
+
+Diğer taraftan, 13.07.2005 tarihinde yürürlüğe giren 5393 sayılı Belediye Kanunu’nun “Belediyenin görev ve sorumlulukları” başlıklı 14.maddesinin (b) fıkrasında; belediyelerin, “mahalli müşterek nitelikte olmak şartıyla”; “…….Gerektiğinde, öğrencilere, amatör spor kulüplerine malzeme verir ve gerekli desteği sağlar, her türlü amatör spor karşılaşmaları düzenler, yurt içi ve yurt dışı müsabakalarda üstün başarı gösteren veya derece alan sporculara belediye meclisi kararıyla ödül verebilir….” denilmek suretiyle Belediyelere amatör spor kulüplerine malzeme vermek ve gerekli desteği sağlamak görev ve sorumluluk olarak tevdii edilmiş bulunmaktadır.
+
+5393 Sayılı Belediye Kanunun yukarıda bahsedilen maddesinde görüldüğü üzere, belediyeler mahalli ve müşterek nitelikte olmak şartıyla gençlik ve spor hizmetlerini yapmak veya yaptırmakla, amatör spor kulüplerine malzeme vermek ve gerekli desteği sağlamak ve yurt içi müsabakalarda üstün başarı gösteren veya derece alan sporculara belediye meclisi kararıyla ödül verebilmekle.” görevli ve sorumlu kılınmıştır. Gerekli desteği sağlamak tabiri aynı zamanda nakdi yardımı da kapsamaktadır. Dolayısıyla, ........Büyükşehir Belediyesi tarafından hizmet satın alınması yoluyla harcanan .........-TL nakdi olarak harcanmış olsaydı dahi kamu zararına neden olunduğu şeklinde değerlendirme yapmak mümkün olmayacaktı. Kaldıki, açıklandığı üzere, yapılan harcamanın ....... ilinin tamamına ve hatta birçok uluslararası organizasyonun yapılmasına harcandığı dikkate alındığında, “mahallî müşterek nitelikte olmak.” şartının da ötesinde,  toplumun tamamını ilgilendiren sosyal amaca yönelik spor harcamaları olduğu görülmektedir. Gerek 5216, gerekse 5393 sayılı Kanunlar ile Belediyeler yüklenen çok sayıda görev ve sorumluluklar olduğu düşünüldüğünde, .........Büyükşehir Belediyesi gibi büyük bir organizasyon tarafından bu ve benzeri harcamaların yapılmasını normal olarak değerlendirilmesi gerekmektedir.
+
+Ayrıca, profesyonel spor kulüplerinin yaptığı müsabakaların ücretlerinin de tahsil edildiği anlaşılmıştır. Dolayısıyla, satın alınan hizmet bedeli olarak ödenen .......-TL’nin sosyal amaçlı harcamalar olması sebebiyle kamu zararı olarak değerlendirilmemesi, yapılan harcamaların mevzuatına uygun olarak yapıldığı şeklinde düşünmenin hakkaniyet açısından daha uygun olduğu anlaşılmaktadır.
+
+Bu itibarla, mevzuatına uygun olduğu anlaşılan .........-TL ile ilgili olarak ilişilecek husus bulunmadığına .. oybirliğiyle karar verildi.
