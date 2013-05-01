@@ -1,0 +1,6 @@
+Doğrudan nakliyat
+MADDE 16 – (1) Anlaşma hükümlerinde sağlanan tercihli muamele sadece bu Yönetmeliğin gerekliliklerini yerine getirmiş, Taraf ülkeler arasında doğrudan nakledilen ürünler için uygulanır. Bununla beraber, tek bir sevkiyat kapsamı ürünler, aktarılması veya geçici depolanması yoluyla, ancak transit geçtiği veya depolandığı ülkede serbest dolaşıma girmemiş olmaları ve boşaltma, tekrar yükleme veya iyi koşullarda muhafaza etmeye yönelik işlemler dışında bir işlemden geçmemiş olmaları koşullarıyla, gerektiğinde başka ülkeler üzerinden nakledilebilir.
+(2) Birinci fıkrada yer alan hükümlerin yerine getirildiğinin, ithalatçı ülkenin gümrük yetkililerine ispatı, aşağıdaki belgelerden birinin, o ülkede geçerli usullere uygun olarak ibrazı yoluyla yapılır:
+a) Menşeli ürünlerin, taraf olmayan ülkelerde aktarılmaları veya depolanmaları ile bağlantılı koşulları ispatlayan bir belge,
+b) İhracatçı ülkede düzenlenmiş transit ülkesi geçişini kapsayan tek bir sevk evrakı,
+c) Transit ülkesinin gümrük yetkililerince düzenlenen, ürünlerin tam bir tanımını veren, boşaltma ve tekrar yükleme tarihlerini ve uygulanabildiği durumlarda kullanılan gemi veya diğer nakil araçlarının adlarını belirten ve transit ülkesi içinde hangi koşullarda kalmış olduğunu belgeleyen bir belge.

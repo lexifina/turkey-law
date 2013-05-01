@@ -1,0 +1,3 @@
+Serbest bölgeler
+MADDE 33 – (1) Taraf ülke yetkili makamları, nakliyeleri esnasında kendi ülkesi içinde bulunan bir serbest bölgeyi kullanan ve bir menşe beyanı kapsamında ticarete konu olan ürünlerin başka ürünlerle değiştirilmemesinin veya hasara uğramasını önleyici normal işlemler dışındaki herhangi bir işleme tabi tutulmamasının temini konusundaki her türlü tedbiri alır.
+(2) Birinci fıkra hükümlerine istisna olarak, Taraf ülkelerden biri menşeli herhangi bir ürün, bir menşe beyanı kapsamında bir serbest bölgeye ithal edildiği ve bir işçilik veya işlemden geçirildiği takdirde, tatbik edilmiş olan işçilik veya işlemin bu Yönetmelik hükümlerine uygun olması koşuluyla, yeni bir menşe beyanı düzenlenebilir.

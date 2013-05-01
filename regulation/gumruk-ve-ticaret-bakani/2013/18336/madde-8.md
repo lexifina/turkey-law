@@ -1,0 +1,10 @@
+Yeterli işçilik veya işlem görmüş ürünler
+MADDE 8 – (1) 5 inci maddenin birinci fıkrasının (b) bendi hükümleri açısından, tamamen elde edilmemiş ürünler, ek-2’de veya ek-2a’da yer alan listede belirtilen şartlar yerine getirildiği takdirde yeterli derecede işçilik veya işlem görmüş olarak kabul edilir. Ek-2'de veya ek-2a’da yer alan listede belirtilen şartlar, Anlaşma kapsamındaki tüm ürünler için, bu ürünlerin imalatında kullanılan menşeli olmayan girdiler üzerinde yapılması gerekli işçilik ve işlemleri gösterir ve sadece bu girdilerle ilişkili olarak geçerlidir. Bu nedenle;
+a) Menşeli olmayan girdilere uygulanan yeterli işçilik ve işlem sonucunda menşeli bir ürün elde edilirse ve bu ürün müteakiben bir başka ürünün imalatında kullanılırsa bu ürünlerin içerdiği menşeli olmayan girdiler dikkate alınmaz.
+b) Menşeli ve menşeli olmayan girdiler işleme tabi tutularak menşeli olmayan bir ürün elde edilirse ve bu ürün müteakiben başka bir ürünün imalatında kullanılırsa bu ürünlerin içerdiği sadece menşeli olmayan girdiler dikkate alınır. Menşeli olmayan girdinin kıymeti, ürünün fabrika çıkış fiyatından, nihai olarak elde edilen menşeli olmayan girdinin üretiminde kullanılan menşeli girdinin (kendi ürettiği menşeli girdi dahil) kıymetinin çıkarılması ile elde edilebilir. Kendi ürettiği menşeli girdinin kıymeti, girdinin üretiminde katlanılan tüm maliyetleri ve normal ticaret seyrinde eklenen kâr miktarına denk olan bir kâr miktarını içerir.
+(2) Birinci fıkrada belirtilen duruma rağmen, listede belirtilen şartlar uyarınca bir ürünün imalatında kullanılmaması gereken menşeli olmayan girdiler ancak;
+a) Toplam kıymetlerinin, ürünün fabrika çıkış fiyatının % 10'unu geçmemesi,
+b) Menşeli olmayan girdilerin azami değeri olarak listede verilmiş olan yüzdelerin, bu bendin uygulanması suretiyle aşılmaması,
+şartı ile kullanılabilir.
+(3) İkinci fıkra hükümleri, Armonize Sistemin 50 ila 63 üncü fasıllarındaki ürünlere uygulanmaz.
+(4) Bu madde hükümleri, üretim sırasında gerçekleştirilen işlem veya işçiliğin 9 uncu madde hükümlerine göre yetersiz sayılmadığı hallerde uygulanır.

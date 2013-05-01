@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte yer alan;
+a) Anlaşma: Türkiye Cumhuriyeti ile Kore Cumhuriyeti arasında mevcut, 2 nci maddede belirtilen Serbest Ticaret Anlaşmasını,
+b) Bakanlık: Gümrük ve Ticaret Bakanlığı’nı,
+c) Eşya: Girdi, ürün veya malları,
+ç) Fabrika çıkış fiyatı: Ürün için Taraf ülkelerden birinde nihai işçilik veya işlemin gerçekleştirilmesini üstlenen imalatçıya fabrika çıkışı itibariyle ödenen veya ödenebilir, kullanılan bütün girdi fiyatlarının dahil edilmiş olduğu, elde edilmiş ürünün ihracında geri ödenen veya ödenebilecek yurtiçi vergilerin tenziliyle bulunan fiyatı,
+d) Fasıllar, pozisyonlar ve alt pozisyonlar: Armonize Sistemi (AS) oluşturan nomanklatürde kullanılan fasılları (iki haneli kodlar), pozisyonları (dört haneli kodlar) ve alt pozisyonları (altı haneli kodlar),
+e) Girdi: Ürün imalatında kullanılan herhangi bir madde, hammadde, parça veya aksam ve benzerlerini,
+f) Gümrük idareleri: Türkiye’de Gümrük ve Ticaret Bakanlığı’nı ve Kore’de "Strateji ve Maliye Bakanlığı" ile "Kore Gümrük Servisi"ni,
+g) Gümrük kıymeti: Gümrük Kıymeti Anlaşması'na göre tespit edilen kıymeti,
+ğ) İmalat: Yetiştirme, balıkçılık, büyütme, avcılık, montaj veya özel işlemler de dahil olmak üzere her türlü işçilik veya işleme tabi tutmayı,
+h) Menşe beyanı: İhracatçı tarafından fatura, teslimat notu veya herhangi bir ticari belge üzerinde belirtilen, ilgili ürünlerin teşhislerini mümkün kılmayı yeterli ayrıntıda tanımlayan metni ek-3’te yer alan, usulüne uygun olarak yapılan beyanı,
+ı) Menşe ispat belgesi: Menşe beyanını,
+i) Menşeli olmayan girdilerin kıymeti: Kullanılan menşeli olmayan girdilerin ithalatı esnasındaki gümrük kıymeti veya bunun bilinmemesi veya tespit edilememesi halinde Taraf ülkelerden birinde girdiler için ödenen tespiti mümkün ilk fiyatı,
+j) Menşeli girdilerin kıymeti: (i) bendindeki tanıma uygun olarak, gerekli değişiklikler yapılarak uygulanan, bu tür girdi kıymetini,
+k) Sevkiyat: Ya bir ihracatçıdan bir alıcıya aynı anda gönderilen ya da ihracatçıdan alıcıya sevkinde tek bir sevk evrakı kapsamında yer alan veya böyle bir evrakın olmaması halinde tek bir fatura kapsamına giren ürünleri,
+l) Sınıflandırılmış: Ürün veya girdilerin belirli bir fasıl, pozisyon ve alt pozisyon altında sınıflandırılmasını,
+m) Taraf ülkeler: Türkiye Cumhuriyeti ve Kore Cumhuriyeti’ni,
+n) Ülkeler: Karasuları da dahil olmak üzere ülkeleri,
+o) Ürün: Bilahare başka bir imalat işleminde girdi olarak kullanılması söz konusu olsa bile imal edilmiş ürünü,
+ifade eder.

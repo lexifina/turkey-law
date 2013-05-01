@@ -1,0 +1,2 @@
+Transit haldeki veya antrepodaki eşya
+MADDE 34 – (1) Anlaşma kapsamında bu Yönetmelik hükümlerine uygun olan ve bu Yönetmeliğin yürürlüğe girdiği tarihte transit halinde olan ya da Taraf ülkelerde antrepolarda veya serbest bölgelerde geçici depolanan eşyaya, ithalatçı ülkenin yetkili makamına söz konusu tarihten itibaren on iki ay içinde, eşyanın 16 ncı madde hükümleri çerçevesinde doğrudan nakledilmiş olduğunu gösteren belgelerle beraber, sonradan düzenlenmiş bir menşe beyanının sunulması kaydıyla, bu Yönetmelik hükümleri tatbik edilebilir.

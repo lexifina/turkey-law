@@ -1,0 +1,2 @@
+Parçalar halinde ithalat
+MADDE 22 – (1) İthalatçının talebi üzerine ve Bakanlıkça belirlenen şartlara binaen, AS’nin 2(a) Genel Kuralı anlamındaki birleştirilmemiş veya monte edilmemiş halde olan ve AS’nin XVI ncı ve XVII nci Bölümlerinde ya da 7308 ve 9406 no’lu pozisyonlarında yer alan ürünlerin, parçalar halinde ithal edilmesi halinde, bu tür ürünler için tek bir menşe beyanı, ilk parçanın ithalatı esnasında gümrük idaresine verilir.

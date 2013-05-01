@@ -1,0 +1,2 @@
+Eşya setleri
+MADDE 12 – (1) AS’nin (3) sayılı Genel Kuralında tanımlanan setler, kendisini meydana getiren tüm ürünler menşeli ürün ise ve hem set hem de ürünler bu Yönetmelikteki diğer tüm uygulanabilir gereklilikleri karşılıyor ise o ülke menşeli olarak addedilir. Ancak bir set menşeli ve menşeli olmayan ürünlerden müteşekkil ise menşeli olmayan ürünlerin kıymetinin setin fabrika çıkış fiyatının %15'ini geçmemesi koşuluyla, set bir bütün olarak menşeli kabul edilir.
