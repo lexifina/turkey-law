@@ -1,0 +1,4 @@
+Kesin teminat
+Madde 43- Taahhüdün sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla, sözleşmenin yapılmasından önce ihale üzerinde kalan istekliden ihale bedeli üzerinden hesaplanmak suretiyle % 6 oranında kesin teminat alınır.
+(Ek fıkra: 20/11/2008-5812/16 md.) Yapım işlerinde, 38 inci maddeye göre gerekli değerlendirmeler yapıldıktan sonra, ihalenin aynı madde uyarınca hesaplanan sınır değerin altında teklif veren isteklilerden biri üzerinde bırakılması halinde, kesin teminat sınır değerin yüzde altısı oranında alınır.
+Ancak, danışmanlık hizmet ihalelerinde ihale dokümanında belirtilmesi kaydıyla, kesin teminat sözleşme yapılmadan önce alınmayabilir. Bu durumda, düzenlenecek her hakedişten % 6 oranında yapılacak kesintiler teminat olarak alıkonulur.

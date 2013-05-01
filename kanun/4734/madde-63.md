@@ -1,0 +1,3 @@
+Yerli istekliler ile ilgili düzenlemeler
+Madde 63- (Değişik: 13/2/2011-6111/178 md.)
+Hizmet alımı ve yapım işi ihalelerinde yerli istekliler lehine, mal alımı ihalelerinde ise Sanayi ve Ticaret Bakanlığı ile diğer ilgili kurum ve kuruluşların görüşleri alınarak Kurum tarafından yerli malı olarak belirlenen malları teklif eden istekliler lehine, % 15 oranına kadar fiyat avantajı sağlanması; yaklaşık maliyeti eşik değerlerin altında kalan ihalelere ise sadece yerli isteklilerin katılması hususlarında ihale dokümanına hüküm konulabilir. Ortak girişimlerin yerli istekli sayılabilmesi için bütün ortaklarının yerli istekli olması gereklidir.
