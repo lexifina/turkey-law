@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 20 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-10-17",
+      "17.10.2011",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2013-05-01",
+      "RG-1/5/2013-28634",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-05-01",
+      "1/5/2013",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-1/5/2013-28634",
+  "first_law": null,
+  "gazette": "28087",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-05-01",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Erciyes Üniversitesi",
+  "issuer_slug": "erciyes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/erciyes-universitesi/2011/15397",
+  "published": "2011-10-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15397&MevzuatTertip=5",
+  "source_bytes": 64369,
+  "source_id": "8.5.15397",
+  "source_sha256": "bf9074487b4b93c03d1753e9e6f0eb3378f7b635c0c7566972b82e5ae981d32f",
+  "text_status": "current-consolidated",
+  "title": "ERCİYES ÜNİVERSİTESİ DİŞ HEKİMLİĞİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 192,
+  "word_count": 1529
+}
