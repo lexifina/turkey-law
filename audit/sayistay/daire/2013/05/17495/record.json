@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10242",
+  "decision_date": "2013-05-02",
+  "source_id": 17495,
+  "chamber": "1",
+  "ilam_number": "81",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17495/",
+  "source_sha256": "6c340621c0320711c8e78249a8a3440063afd955b010a7b72c9cc50a67030f7a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
