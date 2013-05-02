@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10242",
+  "decision_date": "2013-05-02",
+  "source_id": 17506,
+  "chamber": "1",
+  "ilam_number": "81",
+  "item_number": 14,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17506/",
+  "source_sha256": "97658e1962a47c27bc4dcb3e9e7eb9f2f11d30509ed3785f536047c98f9c048e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
