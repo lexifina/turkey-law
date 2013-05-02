@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10242",
+  "decision_date": "2013-05-02",
+  "source_id": 17507,
+  "chamber": "1",
+  "ilam_number": "81",
+  "item_number": 15,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17507/",
+  "source_sha256": "f626a3a1ce69e41c8091c6d32bd507b410e8eee8d43279d23b1135a276981ffa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
