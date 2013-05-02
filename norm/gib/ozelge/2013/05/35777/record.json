@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13649056-140[57-2012/ÖZE-08]-33",
+  "source_id": 35777,
+  "date": "2013-05-02",
+  "title": "Tapu harcının geçit hakkı tesis edilecek gayrimenkulün tamamı üzerinden mi yoksa lehine geçit hakkı tesis edilecek kısım üzerinden mi alınacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35777",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "b5de17a2a40c85d269ddb67787284be51d50a6fcdbfeaeb7f6dc9fb1cf38d7d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
