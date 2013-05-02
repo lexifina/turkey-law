@@ -1,0 +1,13 @@
+{
+  "number": "13-25/333-151",
+  "type": "Rekabet İhlali",
+  "decision_date": "2013-05-02",
+  "publication_date": "2013-07-22",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=0576089f-823d-498e-a34c-d7f34ce0efbc",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=523",
+  "pdf_sha256": "e98c25b749ae04446cf646039627219ea7b531619f7b3814f40d48de13db06b8",
+  "pdf_bytes": "184419",
+  "pages": "9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official title"
+}
