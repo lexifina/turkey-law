@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6462",
+  "year": 2013,
+  "title": "Kanun ve Kanun Hükmünde Kararnamelerde Yer Alan Engelli Bireylere Yönelik İbarelerin Değiştirilmesi Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-05-03",
+  "gazette_issue": "28636",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130503-1.htm",
+  "source_sha256": "e2a242d69bb3ceb6559816b2bf290f570b94461642d2e7743b98eca54bbfa38b",
+  "text_sha256": "b93280efdc2e9d84ed0d2823792191b86f9ecd3da496c15109b782988ef1f97f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/05/03/28636-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130503-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
