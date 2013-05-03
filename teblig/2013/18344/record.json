@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.18344",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2013 YILI ARABULUCULUK ASGARİ ÜCRET TARİFESİ",
+  "number": "18344",
+  "path": "teblig/2013/18344",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18344&MevzuatTertip=5",
+  "source_sha256": "f83dd29055da0d85cd0491a5b14a49f395e9ac63300aa46e047964ae55b21669",
+  "source_bytes": 14944,
+  "published": "2013-05-03",
+  "gazette": "28636",
+  "in_force": "2013-05-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.05.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 601,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18344%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
