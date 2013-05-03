@@ -45,7 +45,7 @@ _____________________
 38) Solvent: Kimya ve sanayi tesislerinde tüketilen ve/veya yeni kimya ve sanayi mamulleri üretiminde kullanılan petrol ürünlerini,
 39) (Değişik: 9/7/2008-5784/27 md.) Taşıma: Ham petrol ve akaryakıtların, kabotaj kapsamında denizyolu ve demiryolu taşıma araçlarıyla yapılan nakil faaliyetlerini,
 40) Taşıyıcı: Taşıma faaliyeti yapan gerçek ve tüzel kişileri,
-41) Tehlikeli eylem: Piyasa faaliyetinin yapılmasında, bunların yapıldığı mahalde veya yakınında bulunan bir kimsenin ölümüne, sakatlanmasına veya sağlığının bozulmasına, çevrenin kirlenmesine sebep olan veya olabilecek nitelikte bulunan bir fiil veya ihmali,
+41) Tehlikeli eylem: Piyasa faaliyetinin yapılmasında, bunların yapıldığı mahalde veya yakınında bulunan bir kimsenin ölümüne, engelli hale gelmesine veya sağlığının bozulmasına, çevrenin kirlenmesine sebep olan veya olabilecek nitelikte bulunan bir fiil veya ihmali,(1)
 42) (Ek: 25/1/2007-5576/1 md.) Teknik düzenleme: Petrolün ve madenî yağın, ilgili idarî hükümler de dahil olmak üzere, standartları, ölçüleri, özellikleri, işleme ve üretim yöntemleri, bunlarla ilgili terminoloji, sembol, ambalajlama, işaretleme, etiketleme ve uygunluk değerlendirmesi işlemleri hususlarından biri veya birkaçını belirten ve uyulması zorunlu olan her türlü düzenlemeyi,
 43) Transit taşıma: Başka bir ülkeden gelen petrolün başka bir ülkeye Türkiye üzerinden kara ve deniz yolu ile taşınmasını,
 44) Ulusal marker: Akaryakıta rafineri çıkışında veya gümrük girişinde eklenecek katkıyı,

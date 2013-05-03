@@ -8,7 +8,7 @@ e) Belediye zabıta ve itfaiye hizmetleri ile diğer görev ve hizmetlerin yür�
 f) Belediyenin kuruluşuna katıldığı şirket, kuruluş ve katıldığı birliklerle ilgili ortaklık payı ve üyelik aidatı giderleri.
 g) Mezarlıkların tesisi, korunması ve bakımına ilişkin giderler.
 h) Faiz, borçlanmaya ilişkin diğer ödemeler ile sigorta giderleri.
-i) Dar gelirli, yoksul, muhtaç ve kimsesizler ile özürlülere yapılacak sosyal hizmet ve yardımlar.
+i) Dar gelirli, yoksul, muhtaç ve kimsesizler ile engellilere yapılacak sosyal hizmet ve yardımlar. (1)
 j) Dava takip ve icra giderleri.
 k) Temsil, tören, ağırlama ve tanıtım giderleri.
 l) Avukatlık, danışmanlık ve denetim hizmetleri karşılığı yapılacak ödemeler.

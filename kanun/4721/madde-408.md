@@ -1,2 +1,2 @@
 IV. İstek üzerine
-Madde 408- Yaşlılığı, sakatlığı, deneyimsizliği veya ağır hastalığı sebebiyle işlerini gerektiği gibi yönetemediğini ispat eden her ergin kısıtlanmasını isteyebilir.
+Madde 408- Yaşlılığı, engelliliği, deneyimsizliği veya ağır hastalığı sebebiyle işlerini gerektiği gibi yönetemediğini ispat eden her ergin kısıtlanmasını isteyebilir.(1)

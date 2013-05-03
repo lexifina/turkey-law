@@ -1,2 +1,2 @@
-Kapsam
-Madde 2- Bu Kanun özürlüleri, ailelerini, özürlülere yönelik hizmet veren kurum ve kuruluşlar ile diğer ilgilileri kapsar.
+Kapsam (1)
+Madde 2- Bu Kanun engellileri, ailelerini, engellilere yönelik hizmet veren kurum ve kuruluşlar ile diğer ilgilileri kapsar.

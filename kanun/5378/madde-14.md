@@ -1,5 +1,0 @@
-İstihdam
-Madde 14- İşe alımda; iş seçiminden, başvuru formları, seçim süreci, teknik değerlendirme, önerilen çalışma süreleri ve şartlarına kadar olan safhaların hiçbirinde özürlülerin aleyhine ayrımcı uygulamalarda bulunulamaz.
-Çalışan özürlülerin aleyhinde sonuç doğuracak şekilde, özrüyle ilgili olarak diğer kişilerden farklı muamelede bulunulamaz.
-Çalışan veya iş başvurusunda bulunan özürlülerin karşılaşabileceği engel ve güçlükleri azaltmaya veya ortadan kaldırmaya yönelik istihdam süreçlerindeki önlemlerin alınması ve işyerinde fiziksel düzenlemelerin bu konuda görev, yetki ve sorumluluğu bulunan kurum ve kuruluşlar ile işyerleri tarafından yapılması zorunludur. Özürlülük durumları sebebiyle işgücü piyasasına kazandırılmaları güç olan özürlülerin istihdamı, öncelikle korumalı işyerleri aracılığıyla sağlanır.
-Korumalı işyerleriyle ilgili usûl ve esaslar Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı ve Özürlüler İdaresi Başkanlığınca müştereken çıkarılacak yönetmelikle düzenlenir.

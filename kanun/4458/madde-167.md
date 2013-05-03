@@ -53,7 +53,9 @@ c) Ticari değeri olmayan çeşitli belge ve eşya,
 a) Savaş kurbanları anıtları ile mezarlıkların yapımı, bakımı ve süslenmesi amacına yönelik eşya,
 b) Tabutlar, cenaze kül kapları ve süsleme niteliği olan cenaze levazımatı,
 12. Diğer eşya;
-a) Malül ve sakatların kullanımına mahsus eşya,
+a) Malül ve engellilerin kullanımına mahsus eşya,(1)
+__________________
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu alt bentte yer alan “sakatların” ibaresi “engellilerin” şeklinde değiştirilmiştir.
 7719
 b) (Değişik : 18/6/2009-5911/37 md.) Tabiî afetler, tehlikeli ve salgın hastalıklar, büyük yangınlar, radyasyon ve hava kirliliği gibi önemli nitelikteki kimyasal ve teknolojik olaylar ile büyük nüfus hareketleri gibi kriz hallerinden zarar görenlere gönderilen eşya,
 c) Türkiye'de düzenlenen uluslararası spor müsabakalarında kullanılmak üzere getirilen eczacılık ürünleri,

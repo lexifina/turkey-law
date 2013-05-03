@@ -4,9 +4,10 @@ a) Türk vatandaşı olmak.
 b) (Mülga: 23/1/2008 – 5728/578 md.)
 c) Askerlikle ilişiği bulunmamak.
 d) (Değişik: 30/7/2008 – 5795/2 md.) Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı beş yıl veya daha fazla süreyle ya da devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, (…) (1) zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık, vergi kaçakçılığı, haksız mal edinme suçlarından hapis cezasına mahkûm olmamak.
-e) Görevini devamlı yapmasına engel olabilecek vücut veya akıl hastalığı veya vücut sakatlığı ile özürlü bulunmamak.
+e) Görevini devamlı yapmasına engel olabilecek hastalığı, zihinsel veya bedensel engeli bulunmamak.(2)
 –––––––––––
 (1) Bu maddenin birinci fıkrasının (d) bendinde yer alan “… milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, … ” bölümü, Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44 sayılı Kararı ile iptal edilmiştir.
+(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu bentte yer alan “vücut veya akıl hastalığı veya vücut sakatlığı ile özürlü bulunmamak” ibaresi “hastalığı, zihinsel veya bedensel engeli bulunmamak” şeklinde değiştirilmiştir.
 8803
 f) Mühendislik, iktisat, işletme, maliye, hukuk ve kamu yönetimi gibi alanlarda en az dört yıllık yüksek öğrenim kurumu mezunu olmak.
 g) Kamuda veya özel sektörde en az beş yıl iş tecrübesine sahip olmak.

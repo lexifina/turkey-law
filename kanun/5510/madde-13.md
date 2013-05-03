@@ -7,7 +7,7 @@ b) (Değişik: 17/4/2008-5754/8 md.) İşveren tarafından yürütülmekte olan 
 c) Bir işverene bağlı olarak çalışan sigortalının, görevli olarak işyeri dışında başka bir yere gönderilmesi nedeniyle asıl işini yapmaksızın geçen zamanlarda,
 d) (Değişik: 17/4/2008-5754/8 md.) Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki emziren kadın sigortalının, iş mevzuatı gereğince çocuğuna süt vermek için ayrılan zamanlarda,
 e) Sigortalıların, işverence sağlanan bir taşıtla işin yapıldığı yere gidiş gelişi sırasında,
-meydana gelen ve sigortalıyı hemen veya sonradan bedenen ya da ruhen özüre uğratan olaydır.
+meydana gelen ve sigortalıyı hemen veya sonradan bedenen ya da ruhen engelli hâle getiren olaydır. (2)
 İş kazasının 4 üncü maddenin birinci fıkrasının;
 a) (a) bendi ile 5 inci madde kapsamında bulunan sigortalılar bakımından bunları çalıştıran işveren tarafından, o yer yetkili kolluk kuvvetlerine derhal ve Kuruma da en geç kazadan sonraki üç işgünü içinde,
 b) (b) bendi kapsamında bulunan sigortalı bakımından kendisi tarafından, bir ayı geçmemek şartıyla rahatsızlığının bildirim yapmaya engel olmadığı günden sonra üç işgünü içinde,
