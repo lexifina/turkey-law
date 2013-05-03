@@ -1,0 +1,12 @@
+Kampanyalı Satışlar
+Madde 7- (Değişik: 6/3/2003-4822/11 md.)
+Kampanyalı satış, gazete, radyo, televizyon ilânı ve benzeri yollarla tüketiciye duyurularak düzenlenen kampanyalara iştirakçi kabul edilmesi ve malın veya hizmetin daha sonra teslim veya ifa edilmesi suretiyle yapılan satımdır.
+Kampanyalı satışlar Bakanlığın izni ile yapılır. Bakanlık hangi tür satışların izne tabi olacağını, ön ödeme, taksit miktarı, teslim süresi, üretici firma garantisi, yatırılacak teminat ile kampanyalı satışlarda uyulması gereken usul ve esasları tespit eder.
+(Değişik üçüncü fıkra: 21/2/2007-5582/23 md.) İlan ve taahhüt edilen mal veya hizmetin teslimatının veya ifasının hiç ya da gereği gibi yapılmaması durumunda, satıcı, sağlayıcı, bayi, acente, imalatçı-üretici, ithalatçı ve 10 uncu maddenin beşinci fıkrasına göre kredi veren müteselsilen sorumludur. İlan ve taahhüt edilen konutun teslimatının hiç, gereği gibi ya da zamanında yapılmaması durumunda, 10/B maddesinin dokuzuncu fıkrasına göre kredi veren konut finansmanı kuruluşu, satıcı, sağlayıcı, bayi, acente, imalatçı-üretici, ithalatçı ile birlikte, kullandırdığı kredi miktarı kadar müteselsilen sorumludur. Konut finansmanı kuruluşları tarafından 10/B maddesinin dokuzuncu fıkrasına göre verilen kredilerin devrolması halinde dahi, kredi veren konut finansmanı kuruluşunun sorumluluğu devam eder. Krediyi devralan kuruluş bu madde kapsamında sorumlu olmaz.
+7490-2
+Tüketici kampanyadan ayrılmaya karar verdikten sonra kampanyayı düzenleyen, mal veya hizmetin tüketiciye teslim tarihini geçmemek şartıyla tüketicinin o ana kadar ödediği tüm bedeli ödemekle yükümlüdür.
+Kampanyayı düzenleyen, kampanyalı satışlarda düzenlenecek yazılı sözleşmede, 6/A maddesinin ikinci fıkrasında belirtilen bilgilere ek olarak "kampanya bitiş tarihi" ve "mal veya hizmetin teslim veya yerine getirilme tarih ve şekli"ne ilişkin bilgileri de içeren sözleşmenin bir nüshasını tüketiciye vermek zorundadır.
+Sözleşmede aksi kararlaştırılmadıkça, ön ödeme tutarı, mal veya hizmetin satış bedelinin yüzde kırkından fazla olamaz.
+Kampanyalı satışlarda malın teslim ya da hizmetin ifa süresi on iki ayı aşamaz. Konut ve tatil amaçlı taşınmaz mallar için bu süre otuz aydır.
+Tüketicinin ödemeye ilişkin tüm edimlerini yerine getirmesi durumunda, malın teslimi ya da hizmetin ifası, ödemenin bitimini takiben en geç bir ay içinde yapılmak zorundadır.
+Kampanyalı taksitle satışlarda 6/A maddesi hükümleri de uygulanır.

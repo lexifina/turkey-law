@@ -1,0 +1,9 @@
+Ayıplı Hizmet
+Madde 4/A- (Ek: 6/3/2003-4822/5 md.)
+Sağlayıcı tarafından bildirilen reklam ve ilânlarında veya standardında veya teknik kuralında tespit edilen nitelik veya niteliği etkileyen niceliğine aykırı olan ya da yararlanma amacı bakımından değerini veya tüketicinin ondan beklediği faydaları azaltan veya ortadan kaldıran maddi, hukuki veya ekonomik eksiklikler içeren hizmetler, ayıplı hizmet olarak kabul edilir.
+Tüketici, hizmetin ifa edildiği tarihten itibaren otuz gün içerisinde bu ayıbı sağlayıcıya bildirmekle yükümlüdür. Tüketici bu durumda, sözleşmeden dönme, hizmetin yeniden görülmesi veya ayıp oranında bedel indirimi haklarına sahiptir. Tüketicinin sözleşmeyi sona erdirmesi, durumun gereği olarak haklı görülemiyorsa, bedelden indirim ile yetinilir. Tüketici, bu seçimlik haklarından biri ile birlikte 4 üncü maddede belirtilen şartlar çerçevesinde tazminat da isteyebilir. Sağlayıcı, tüketicinin seçtiği bu talebi yerine getirmekle yükümlüdür.
+Sağlayıcı, bayi, acente ve 10 uncu maddenin beşinci fıkrasına göre kredi veren, ayıplı hizmetten ve ayıplı hizmetin neden olduğu her türlü zarardan ve tüketicinin bu maddede yer alan seçimlik haklarından dolayı müteselsilen sorumludur. Sunulan hizmetin ayıplı olduğunun bilinmemesi bu sorumluluğu ortadan kaldırmaz.
+Daha uzun bir süre için garanti verilmemiş ise, ayıp daha sonra ortaya çıkmış olsa bile ayıplı hizmetten dolayı yapılacak talepler hizmetin ifasından itibaren iki yıllık zamanaşımına tabidir. Ayıplı hizmetin neden olduğu her türlü zararlardan dolayı yapılacak talepler ise üç yıllık zamanaşımına tabidir. Ancak, sunulan hizmetin ayıbı, tüketiciden sağlayıcının ağır kusuru veya hile ile gizlenmişse zamanaşımı süresinden yararlanılamaz.
+Ayıplı hizmetin neden olduğu zararlardan sorumluluğa ilişkin hükümler dışında, ayıplı olduğu bilinerek edinilen hizmetler hakkında yukarıdaki hükümler uygulanmaz.
+Bu hükümler, hizmet sağlamaya ilişkin her türlü tüketici işleminde de uygulanır.
+7490

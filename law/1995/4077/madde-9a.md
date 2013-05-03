@@ -1,0 +1,8 @@
+Mesafeli Sözleşmeler
+Madde 9/A- (Ek: 6/3/2003-4822/14 md.)
+Mesafeli sözleşmeler; yazılı, görsel, telefon ve elektronik ortamda veya diğer iletişim araçları kullanılarak ve tüketicilerle karşı karşıya gelinmeksizin yapılan ve malın veya hizmetin tüketiciye anında veya sonradan teslimi veya ifası kararlaştırılan sözleşmelerdir.
+Mesafeli satış sözleşmesinin akdinden önce, ayrıntıları Bakanlıkça çıkarılacak tebliğle belirlenecek bilgilerin tüketiciye verilmesi zorunludur. Tüketici, bu bilgileri edindiğini yazılı olarak teyit etmedikçe sözleşme akdedilemez. Elektronik ortamda yapılan sözleşmelerde teyid işlemi, yine elektronik ortamda yapılır.
+Satıcı ve sağlayıcı, tüketicinin siparişi kendisine ulaştığı andan itibaren otuz gün içerisinde edimini yerine getirir. Bu süre, tüketiciye daha önceden yazılı olarak bildirilmek koşuluyla en fazla on gün uzatılabilir.
+Satıcı veya sağlayıcı elektronik ortamda tüketiciye teslim edilen gayri maddî malların veya sunulan hizmetlerin teslimatının ayıpsız olarak yapıldığını ispatla yükümlüdür.
+Cayma hakkı süresince sözleşmeye konu olan mal veya hizmet karşılığında tüketiciden herhangi bir isim altında ödeme yapmasının veya borç altına sokan herhangi bir belge vermesinin istenemeyeceğine ilişkin hükümler dışında kapıdan satışlara ilişkin hükümler mesafeli sözleşmelere de uygulanır.
+Satıcı veya sağlayıcı cayma bildiriminin kendisine ulaştığı tarihten itibaren on gün içinde almış olduğu bedeli, kıymetli evrakı ve tüketiciyi bu hukukî işlemden dolayı borç altına sokan her türlü belgeyi iade etmek ve yirmi gün içerisinde de malı geri almakla yükümlüdür.
