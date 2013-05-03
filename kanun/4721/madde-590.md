@@ -1,5 +1,5 @@
 B. Defter tutma
-Madde 590- Aşağıdaki sebeplerden birinin gerçekleşmesi hâlinde sulh hâkimi terekenin defterinin tutulmasına karar verir:
+Madde 590-Aşağıdaki sebeplerden birinin gerçekleşmesi hâlinde sulh hâkimi terekenin defterinin tutulmasına karar verir:
 1. Mirasçılar arasında vesayet altına alınmış olan veya alınması gereken kimse varsa,
 8140
 2. Mirasçılardan biri uzun süreden beri bulunamıyorsa ve temsilcisi de yoksa,

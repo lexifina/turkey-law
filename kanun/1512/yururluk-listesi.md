@@ -15,3 +15,4 @@ Değiştiren Kanunun Numarası | 1512 sayılı Kanunun değişen veya iptal edil
 5728 | 7, 28, 109, 111, 138, 151, 152, 156, 157, 158, 159, 160, 166 | 8/2/2008
 5754 sayılı Kanunla değişik 5510 | 201 ilâ 203 | 1/10/2008
 6217 | 71/A, 71/B, 71/C | 1/10/2011
+6462 | 73,75 | 3/5/2013

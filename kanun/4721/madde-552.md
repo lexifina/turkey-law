@@ -1,6 +1,6 @@
 B. Görev ve yetkileri
 I. Genel olarak
-Madde 552- Mirasbırakan, tasarrufunda aksini öngörmüş veya sınırlı bir görev vermiş olmadıkça vasiyeti yerine getirme görevlisi, mirasbırakanın son arzularının yerine getirilmesi için gerekli bütün işlemleri yapmakla görevli ve yetkilidir.
+Madde 552-Mirasbırakan, tasarrufunda aksini öngörmüş veya sınırlı bir görev vermiş olmadıkça vasiyeti yerine getirme görevlisi, mirasbırakanın son arzularının yerine getirilmesi için gerekli bütün işlemleri yapmakla görevli ve yetkilidir.
 Vasiyeti yerine getirme görevlisi, özellikle;
 8133
 1. Göreve başladıktan sonra gecikmeksizin terekedeki malların, hakların ve borçların listesini düzenler. Liste düzenlenirken olanak varsa mirasçılar hazır bulundurulur.

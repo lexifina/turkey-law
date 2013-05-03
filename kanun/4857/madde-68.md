@@ -2,6 +2,7 @@ Ara dinlenmesi
 Madde 68 - Günlük çalışma süresinin ortalama bir zamanında o yerin gelenekleri ve işin gereğine göre ayarlanmak suretiyle işçilere;
 a) Dört saat veya daha kısa süreli işlerde onbeş dakika,
 b) Dört saatten fazla ve yedibuçuk saate kadar (yedibuçuk saat dahil) süreli işlerde yarım saat,
+8446
 c) Yedibuçuk saatten fazla süreli işlerde bir saat,
 Ara dinlenmesi verilir.
 Bu dinlenme süreleri en az olup aralıksız verilir.

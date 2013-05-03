@@ -8,7 +8,7 @@ a) 1534 üncü maddenin ikinci fıkrasının (b) ilâ (e) bentlerindeki sermaye 
 b) TMS/TFRS ve yorumlarını uygulamayı tercih edenler.
 (3) Aşağıda sayılanlar birinci fıkranın (b) bendine göre belirlenen standart ve düzenlemeleri uygulamakla yükümlüdür:
 a) İkinci fıkranın (a) bendinde belirtilenlerin dışında kalan ve işletme yönetiminde yer almayan işletme sahipleri, işletmeye borç verenler ve kredi derecelendirme kuruluşları gibi dış kullanıcılar için genel amaçlı finansal tablo düzenleyen işletmeler.
-____________________
+______________________
 (1) Bu fıkrada yer alan faiz oranları ile ilgili olarak 29/12/2012 tarihli ve 28512 sayılı Resmi Gazete’de yayınlanan Türkiye Cumhuriyeti Merkez Bankası Tebliğine bakınız.
 11307
 b) TMS/TFRS’yi uygulamayı tercih eden KOBİ tanımındaki işletmelerden tekrar KOBİ/TFRS uygulamasına dönmek isteyen işletmeler.

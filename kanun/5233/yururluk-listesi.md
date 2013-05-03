@@ -5,3 +5,4 @@ Değiştiren Kanunun Numarası | 5233 sayılı Kanunun değişen veya iptal edil
 5562 | Geçici Madde 3 | 16/12/2006
 5666 | Geçici Madde 4 | 30/5/2007
 6353 | Ek Madde 1, Geçici Madde 5 | 12/7/2012
+6462 | 6, 7, 9, 12 | 3/5/2013

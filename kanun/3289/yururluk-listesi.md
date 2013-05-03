@@ -43,3 +43,4 @@ KHK/638 | Kanunun Adı, 1, 2, 4, 6, 7, 8, Ek Madde 4 ve Ek (1) sayılı Cetvel |
 KHK/649 | 6 ve Geçici Madde 12 | 17/8/2011
 KHK/661 | 2, 8, 9, 10,18, 24, 30, 32, 33, Ek madde 5, Ek Madde 9, Geçici Madde 6 | 2/11/2011
 KHK/666 | Ek Madde 6 | 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
+6462 | 2 | 3/5/2013

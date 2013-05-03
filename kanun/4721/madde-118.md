@@ -4,5 +4,5 @@ EVLENME
 BİRİNCİ AYIRIM
 NİŞANLILIK
 A. Nişanlanma
-Madde 118- Nişanlanma, evlenme vaadiyle olur.
+Madde 118-Nişanlanma, evlenme vaadiyle olur.
 Nişanlanma, yasal temsilcilerinin rızası olmadıkça küçüğü veya kısıtlıyı bağlamaz.

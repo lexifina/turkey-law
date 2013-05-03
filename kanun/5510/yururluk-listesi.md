@@ -25,3 +25,5 @@ KHK/666 | 80, Geçici Madde 4 | 15/1/2012 |
 6322 | Ek Madde 2, Geçici Madde 41 | 15/6/2012
 6353 | 6, 41, 47, 69, 73, Geçici Madde 4, 14,18, 42, 43, 44 | 12/7/2012
 6385 | 40 67 73, Geçici Madde 38, 45, 46, 47, 48 | 2008 yılı Ekim ayı başından geçerli olmak üzere 19/1/2013 1/6/2012 tarihinden geçerli olmak üzere 19/1/2013 19/1/2013
+6458 | 3, 60, 61 | 11/4/2013
+6462 | 13, 14, 15, 19, 25, 28, Geçici Madde 4, 10, 37, 39 | 3/5/2013

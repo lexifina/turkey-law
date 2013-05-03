@@ -8,3 +8,4 @@ Anayasa Mahkemesi’nin 17/6/2010 tarihli ve E.: 2008/22, K.: 2010/82 sayılı K
 KHK/651 | 35, 52, 68, Geçici Madde 11 | 27/8/2011
 KHK/666 | 67, 72, III Sayılı Cetvel | 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
 6456 | 28 | 27/2/2008 tarihinden itibaren geçerli olmak üzere 18/4/2013 tarihinde
+6462 | 43 | 3/5/2015
