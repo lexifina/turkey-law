@@ -1,0 +1,3 @@
+İş güvenliği uzmanı görevlendirme yükümlülüğü
+GEÇİCİ MADDE 4 – (1) Bu Kanunun 8 inci maddesinde belirtilen çok tehlikeli sınıfta yer alan işyerlerinde (A) sınıfı belgeye sahip iş güvenliği uzmanı görevlendirme yükümlülüğü, bu işyerlerinde Kanunun yürürlüğe girdiği tarihten itibaren dört yıl süreyle (B) sınıfı belgeye sahip iş güvenliği uzmanı görevlendirilmesi; tehlikeli sınıfta yer alan işyerlerinde ise (B) sınıfı belgeye sahip iş güvenliği uzmanı görevlendirme yükümlülüğü, bu işyerlerinde Kanunun yürürlüğe girdiği tarihten itibaren üç yıl süreyle (C) sınıfı belgeye sahip iş güvenliği uzmanı görevlendirilmesi kaydıyla yerine getirilmiş sayılır.
+11666

@@ -1,0 +1,22 @@
+İdari para cezaları ve uygulanması
+MADDE 26 – (1) Bu Kanunun;
+a) 4 üncü maddesinin birinci fıkrasının (a) ve (b) bentlerinde belirtilen yükümlülükleri yerine getirmeyen işverene her bir yükümlülük için ayrı ayrı ikibin Türk Lirası,
+b) 6 ncı maddesinin birinci fıkrası gereğince belirlenen nitelikte iş güvenliği uzmanı veya işyeri hekimi görevlendirmeyen işverene görevlendirmediği her bir kişi için beşbin Türk Lirası, aykırılığın devam ettiği her ay için aynı miktar, diğer sağlık personeli görevlendirmeyen işverene ikibinbeşyüz Türk Lirası, aykırılığın devam ettiği her ay için aynı miktar, aynı fıkranın (b), (c) ve (d) bentlerinde belirtilen yükümlülükleri yerine getirmeyen işverene her bir ihlal için ayrı ayrı binbeşyüz Türk Lirası, (ç) bendine aykırı hareket eden işverene yerine getirilmeyen her bir tedbir için ayrı ayrı bin Türk Lirası,
+c) 8 inci maddesinin birinci ve altıncı fıkralarına aykırı hareket eden işverene her bir ihlal için ayrı ayrı binbeşyüz Türk Lirası,
+ç) 10 uncu maddesinin birinci fıkrasına göre risk değerlendirmesi yapmayan veya yaptırmayan işverene üçbin Türk Lirası, aykırılığın devam ettiği her ay için dörtbinbeşyüz Türk Lirası, dördüncü fıkrasında belirtilen yükümlülükleri yerine getirmeyen işverene binbeşyüz Türk Lirası,
+d) 11 ve 12 nci maddeleri hükümlerine aykırı hareket eden işverene, uyulmayan her bir yükümlülük için bin Türk Lirası, aykırılığın devam ettiği her ay için aynı miktar,
+e) 14 üncü maddesinin birinci fıkrasında belirtilen yükümlülükleri yerine getirmeyen işverene her bir yükümlülük için ayrı ayrı binbeşyüz Türk Lirası, ikinci fıkrasında belirtilen yükümlülükleri yerine getirmeyen işverene ikibin Türk Lirası, dördüncü fıkrasında belirtilen yükümlülükleri yerine getirmeyen sağlık hizmeti sunucuları veya yetkilendirilen sağlık hizmeti sunucularına ikibin Türk Lirası,
+f) 15 inci maddesinin birinci ve ikinci fıkralarında belirtilen yükümlülükleri yerine getirmeyen işverene, sağlık gözetimine tabi tutulmayan veya sağlık raporu alınmayan her çalışan için bin Türk Lirası,
+g) 16 ncı maddesinde belirtilen yükümlülükleri yerine getirmeyen işverene, bilgilendirilmeyen her bir çalışan için bin Türk Lirası,
+11661
+ğ) 17 nci maddesinin bir ila yedinci fıkralarında belirtilen yükümlülükleri yerine getirmeyen işverene her bir çalışan için bin Türk Lirası,
+h) 18 inci maddesinde belirtilen yükümlülükleri yerine getirmeyen işverene, her bir aykırılık için ayrı ayrı bin Türk Lirası,
+ı) 20 nci maddesinin birinci ve dördüncü fıkralarında belirtilen yükümlülükleri yerine getirmeyen işverene bin Türk Lirası, üçüncü fıkrasında belirtilen yükümlülükleri yerine getirmeyen işverene binbeşyüz Türk Lirası,
+i) 22 nci maddesinde belirtilen yükümlülükleri yerine getirmeyen işverene her bir aykırılık için ayrı ayrı ikibin Türk Lirası,
+j) 23 üncü maddesinin ikinci fıkrasında belirtilen bildirim yükümlülüklerini yerine getirmeyen yönetimlere beşbin Türk Lirası,
+k) 24 üncü maddesinin ikinci fıkrasında belirtilen iş sağlığı ve güvenliği ile ilgili konularda ölçüm, inceleme ve araştırma yapılmasına, numune alınmasına veya eğitim kurumları ile ortak sağlık ve güvenlik birimlerinin kontrol ve denetiminin yapılmasına engel olan işverene beşbin Türk Lirası,
+1) 25 inci maddesinde belirtilen yükümlülüklere göre işyerinin bir bölümünde veya tamamında verilen durdurma kararına uymayarak durdurulan işi yönetmelikte belirtilen şartları yerine getirmeden devam ettiren işverene fiil başka bir suç oluştursa dahi onbin Türk Lirası, altıncı fıkrasında belirtilen yükümlülükleri yerine getirmeyen işverene ihlale uğrayan her bir çalışan için bin Türk Lirası, aykırılığın devam ettiği her ay için aynı miktar,
+m) 29 uncu maddesinde belirtilen; büyük kaza önleme politika belgesi hazırlamayan işverene ellibin Türk Lirası, güvenlik raporunu hazırlayıp Bakanlığın değerlendirmesine sunmadan işyerini faaliyete geçiren, işletilmesine Bakanlıkça izin verilmeyen işyerini açan veya durdurulan işyerinde faaliyete devam eden işverene seksenbin Türk Lirası,
+n) 30 uncu maddesinde öngörülen yönetmeliklerde belirtilen yükümlülükleri yerine getirmeyen işverene, uyulmayan her hüküm için tespit edildiği tarihten itibaren aylık olarak bin Türk Lirası,
+idari para cezası verilir.
+(2) Bu Kanunda belirtilen idari para cezaları gerekçesi belirtilmek suretiyle Çalışma ve İş Kurumu il müdürünce verilir. Verilen idari para cezaları tebliğinden itibaren otuz gün içinde ödenir. İdari para cezaları tüzel kişiliği bulunmayan kamu kurum ve kuruluşları adına da düzenlenebilir.
