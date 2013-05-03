@@ -56,7 +56,7 @@ Madde 12 – Atamalar 23/4/1981 gün ve 2451 sayılı Kanuna göre yapılır. Bu
 –––––––––––––––––––
 (1) 24/10/2011 tarihli ve 661 sayılı KHK’nın 46 ncı maddesiyle, bu fıkrada yer alan “Milli Eğitim Gençlik ve Spor Bakanı” ibaresi “Gençlik ve Spor Bakanı” şeklinde değiştirilmiş ve metne işlenmiştir.
 (2) 24/10/2011 tarihli ve 661 sayılı KHK’nın 46 ncı maddesiyle bu fıkrada yer alan “Milli Eğitim Gençlik ve Spor Bakanı” ibaresi “Gençlik ve Spor Bakanı” şeklinde değiştirilmiş ve metne işlenmiştir.
-6874-2 6875
+6875
 Bütçe ve mali hükümler (1)
 Madde 13 – (Değişik : 30/5/1991 – 3751/1 md.) (2)
 Genel Müdürlük merkez teşkilatı katma, taşra teşkilatı ise özel bütçelidir. Merkez teşkilatı Sayıştay’ın denetimine tabi olup, merkez ve taşra teşkilatı Devlet İhale ve Muhasebe-i Umumiye kanunlarına tabi değildir.
@@ -244,6 +244,7 @@ c) Yönetim kurulu tarafından hazırlanan faaliyet programını, bütçeyi onay
 ç) Yönetim kuruluna, taşınmaz mal alımı-satımı ile uluslararası federasyonlara karşı mali taahhütlerde bulunmak için yetki vermek.
 d) Yönetim kurulu faaliyet ve mali raporlarının ibra edilip edilmemesini oylamak.
 e) Kanun ile verilen diğer görevleri yapmak.
+(İptal fıkra: Anayasa Mahkemesi’nin 2/7/2009 tarihli ve E.: 2006/118, K.: 2009/107 sayılı Kararı ile.; Değişik beşinci fıkra: 29/3/2011-6215/10 md.)
 Federasyon başkanı adaylarında aşağıdaki şartlar aranır:
 a) T.C. vatandaşı olmak.
 b) En az lise mezunu olmak.
@@ -251,7 +252,6 @@ c) Kesinleşmiş sigorta veya vergi borcu olmamak.
 ç) Tahkim Kurulu, Genel Müdürlük ceza kurulları veya spor federasyonlarının ceza veya disiplin kurullarınca son beş yıl içerisinde bir defada üç ay veya toplam altı ay hak mahrumiyeti cezası almamış olmak.
 6882-3
 d) Anayasal düzene ve bu düzenin işleyişine karşı suçlar ile casusluk, zimmet, irtikâp, rüşvet, hırsızlık, yağma, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas gibi yüz kızartıcı veya şeref ve haysiyeti kırıcı suçtan veya ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık, vergi kaçakçılığı ve haksız mal edinme suçlarından hükümlü bulunmamak.
-(İptal beşinci fıkra: Anayasa Mahkemesi’nin 2/7/2009 tarihli ve E.: 2006/118, K.: 2009/107 sayılı Kararı ile.)
 (Değişik altıncı fıkra: 29/3/2011-6215/10 md.) Federasyonların sportif başarılarını, plan ve projelerini kontrol etmek, faaliyetlerini değerlendirmek, geliştirmek ve izlemek üzere Sportif Değerlendirme ve Geliştirme Kurulu kurulur. Kurul; Bakan tarafından spor alanında bilimsel çalışmalar yapmış veya sporda idareci, teknik adam ve benzeri görevlerde veya kamu kurum ve kuruşları ile özel sektörde üst düzey görevlerde bulunmuş kişiler arasından iki yıl için görevlendirilecek, bir başkan, bir başkan yardımcısı, bir raportör ile dört üyeden oluşur. Toplantıda karar alınabilmesi için en az beş üyenin katılması şarttır. Kararlar salt çoğunlukla alınır. Mazeretsiz olarak üst üste dört toplantıya katılmayan üyelerin üyeliği sona erer. Kurulun sekretarya hizmetleri Genel Müdürlük tarafından yürütülür. Kurulun görevleri şunlardır:
 a) Spor federasyonlarının Bakana verecekleri taahhütnamenin esaslarını belirlemek ve yıl sonu itibarıyla taahhütlerine uyup uymadıklarını değerlendirerek Bakana sunmak.
 b) Federasyonlar tarafından hazırlanan master planını, performans ölçütlerini, amaç ve hedeflerini incelemek, uluslararası federasyonların statü ve talimatlarını gözeterek hizmet kalite standartlarını belirlemek.
@@ -310,7 +310,7 @@ Ek 9 uncu maddenin dokuzuncu fıkrasında öngörülen Genel Müdürlük bütçe
 5018 sayılı Kanun hükümleri
 Geçici Madde 10- (Ek: 1/7/2006-5538/10 md.)
 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun dış denetimle ilgili hükümleri dışındaki hükümleri, Gençlik ve Spor il müdürlükleri hakkında uygulanmaz.
-6882-8 6882-9
+6882-9
 Geçici Madde 11- (Ek: 29/3/2011-6215/12 md.)
 Bu Kanun ile çıkarılması öngörülen düzenlemeler yürürlüğe girinceye kadar mevcut düzenlemelerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 Bu maddenin yürürlüğe girdiği tarihte; 3289 sayılı Kanunun ek 9 uncu maddesine göre özerk olan spor federasyonları bu Kanuna göre kurulmuş bağımsız spor federasyonu olarak kabul edilir. Diğer kanunlarda özerk spor federasyonlarına yapılan atıflar, bağımsız spor federasyonlarına yapılmış sayılır.
@@ -357,7 +357,6 @@ Dairesi Başkanlığı
 (1) 22/12/2005 tarihli ve 5436 sayılı Kanunun 17 nci maddesiyle Araştırma Planlama Koordinasyon Dairesi Başkanlığı kurulması ve bunun görevlerine ilişkin hükümler yürürlükten kaldırılmış olup, yine aynı Kanunun 15 inci maddesiyle; Gençlik ve Spor Genel Müdürlüğünün teşkilat kanununda düzenleme yapılıncaya kadar, 5436 sayılı Kanun ve diğer kanunlar ile verilen görevleri yapmak üzere Strateji Geliştirme Daire Başkanlığı kurulmuştur.
 (2) Bu sırada yer alan “Savunma Uzmanlığı”, 29/5/2009 tarihli ve 5902 sayılı Afet ve Acil Durum Yönetimi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 25 inci maddesinin beşinci fıkrasıyla yürürlükten kaldırılmış olup, mezkur fıkrayla sivil savunma ve seferberlik hizmetlerini planlama ve yürütme görevlerinin, idari ve mali işler, destek hizmetleri veya bu amaçla kurulmuş hizmet birimleri tarafından yürütüleceği hüküm altına alınmıştır.
 (3) 3/6/2011 tarihli ve 638 sayılı KHK’nin 31 inci maddesiyle, bu cetvelde yer alan "Gençlik Hizmetleri Dairesi Başkanlığı" ibaresi "Uluslararası Organizasyonlar Dairesi Başkanlığı" şeklinde değiştirilmiş ve metne işlenmiştir.
-6882-12
 6883
 (2) SAYILI CETVEL
 (Cetvel-2)

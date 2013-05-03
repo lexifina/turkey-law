@@ -4,4 +4,7 @@ Yukarıda öngörülen süreler işçinin sağlık durumuna ve işin özelliğin
 Hamilelik süresince kadın işçiye periyodik kontroller için ücretli izin verilir.
 Hekim raporu ile gerekli görüldüğü takdirde, hamile kadın işçi sağlığına uygun daha hafif işlerde çalıştırılır. Bu halde işçinin ücretinde bir indirim yapılmaz.
 İsteği halinde kadın işçiye, onaltı haftalık sürenin tamamlanmasından veya çoğul gebelik halinde onsekiz haftalık süreden sonra altı aya kadar ücretsiz izin verilir. Bu süre, yıllık ücretli izin hakkının hesabında dikkate alınmaz.
+––––––––––––––––
+(1) 20/6/2012 tarihli ve 6331 sayılı Kanunun 32 nci maddesiyle, bu fıkrada yer alan “hafif işler” ibaresinden sonra gelmek üzere “, onaltı yaşını doldurmuş fakat onsekiz yaşını bitirmemiş genç işçilerin hangi çeşit işlerde çalıştırılabilecekleri” ibaresi eklenmiştir.
+8448
 Kadın işçilere bir yaşından küçük çocuklarını emzirmeleri için günde toplam birbuçuk saat süt izni verilir. Bu sürenin hangi saatler arasında ve kaça bölünerek kulllanılacağını işçi kendisi belirler. Bu süre günlük çalışma süresinden sayılır.

@@ -1,7 +1,6 @@
 Birliğin görevleri
 Madde 56- Birliğin görevleri şunlardır:
 a) Odaları ve borsaları güçlendirecek ve aralarında işbirliği ile uyumlu çalışma, gelişme imkânları sağlayacak karar ve tedbirleri almak ve gerekli teşkilâtı kurmak; sektör meclisi adı altında istişarî nitelikte üst kurullar oluşturmak; oda ve borsaların kanunî amaç ve görevlerini yerine getirmelerini sağlamak üzere, fikrî yardımda bulunmak; gerektiğinde oda ve borsaların çalışma ve işlemlerinin mevzuat esasları içinde yürütülmesini sağlamak amacıyla ilgili oda veya borsanın talebi üzerine gerekli incelemeleri yapmak ve önerilerde bulunmak.
-8794-2
 8795
 b) Oda ve borsa faaliyetlerinin ve sunulan hizmetlerin standardizasyonunu, muhasebe kayıtlarının ortak usullerde tutulmasını ve üyelere ilişkin bilgilerin Birlik merkezinde toplanmasını sağlamaya yönelik olarak gerekli elektronik alt yapıyı kurdurmak ve ticarî sırların korunmasını gözeterek işletimini sağlamak; oda ve borsalardan üyelik kayıtları ile aidatlara ilişkin bilgi ve belge talep etmek, bu taleplerin yerine getirilmesini sağlamak ve gerekli denetimleri yapmak.
 c) Bu Kanunda Birlikçe çıkarılacağı belirtilen yönetmelikleri düzenlemek, oda ve borsaların iç yönergelerini onaylamak.

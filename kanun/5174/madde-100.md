@@ -6,5 +6,4 @@ Odalar, borsalar ve Birliğin ilgili personeli ile organlarında görevli üyele
 Bu madde kapsamında görevden uzaklaştırılanlar; denetim sırasında veya denetimin tamamlanmasından sonra Bakanlık kararıyla veya haklarında kovuşturmaya yer olmadığına karar verildiği ya da mahkûmiyetlerine karar verilmediği takdirde görevlerine dönerler. Görevine iade edilenlerin uzaklaştırma süresi boyunca mahrum kaldığı ödentileri, kanuni faizleri ile birlikte istihdam edilen oda, borsa veya Birlik tarafından ödenir.
 Bakanlık, bu madde kapsamında açılan davaları katılan sıfatıyla takip edebilir.
 Odalar, borsalar, Birlik ve bunların organları ile bağlı ve ilgili kuruluşları, Bakanlıkça yapılan denetim sonucunda verilen talimatlara ve bu Kanunun uygulanmasına ilişkin alınan tedbirlere riayet etmek zorundadır.
-8812-2
 8813

@@ -2,8 +2,7 @@ Muafiyet ve istisnalar
 MADDE 77 – Genel Müdürlüğe ve mazbut vakıflara ait taşınmazlar Devlet malı imtiyazından yararlanır, haczedilemez, rehnedilemezler. Tüm iş ve işlemleri, her türlü vergi, resim, harç ve katılım payından istisnadır.
 Genel Müdürlük tarafından açılacak davalarda teminat aranmaz.
 Genel Müdürlüğün ve mazbut vakıfların tahsil edilemeyen gelirleri, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre Genel Müdürlükçe tahsil edilir.
-–––––––––––––––––––
-(1) Bu Kanunla iptal ve ihdas edilen kadrolar için 27/2/2008 tarihli ve 26800 sayılı Resmi Gazete’ye bakınız.
+(7) Bu Kanunla iptal ve ihdas edilen kadrolar için 27/2/2008 tarihli ve 26800 sayılı Resmi Gazete’ye bakınız.
 10258
 Vakıf kültür varlıklarının onarımları ve restorasyonları ile çevre düzenlemesi ve kamulaştırma işlemleri, 180 sayılı Bayındırlık ve İskan Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname hükümlerine tâbi değildir.
 Vakıf kültür varlıklarının, restorasyon veya onarım karşılığı kiralama işlemleri, 2886 sayılı Devlet İhale Kanunu hükümlerine tâbi değildir.

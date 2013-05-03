@@ -1,4 +1,4 @@
-GörevAlanları ve Yerleşme Yerleri
+Görev Alanları ve Yerleşme Yerleri
 Madde 3 – Sahil Güvenlik Komutanlığının görev alanları, üsleri, yerleşme yerleri Genelkurmay Başkanlığının görüşü alınarak İçişleri Bakanlığınca belirlenir.
 Komutanlığa bağlı askeri personel,gemi,uçak,helikopter ve araçlar özel işaretler taşırlar.
 ________________
@@ -30,7 +30,7 @@ Aykırı eylemleri önlemek, izlemek, suçluları yakalamak, gerekli işlemleri 
 D) Deniz ve Kıyılarda Görülecek Başıboş Mayın, Patlayıcı Madde ve Şüpheli Cisimlerin Yokedilmeleri Hakkında 17/5/1948 tarih ve 5202 sayılı Kanunun uygulanmasında gerekli koruma tedbirlerini alarak ilgililere haber vermek.
 E ) Deniz seyir yardımcılarının ilgili hükümlere göre çalışma durumlarını, yetkili kuruluşlarca konulan deniz engelleri ile batık işaretlerinin sürekliliğini izlemek, kontrol etmek, görülen aksaklık ve noksanlıkları ilgililere bildirmek.
 F) Uluslararası Denizde Arama ve Kurtarma Sözleşmesinin öngördüğü düzeyde arama ve kurtarma görevlerini icra etmek.
-G) Karasularımızagiren mültecileri silah, mühimmat vesair harp vasıtalarından arıtmak ve bu mülteciler ile onların nezdindeki silah, mühimmat vesair harp vasıtalarını ilgililere teslim etmek.
+G) Karasularımıza giren mültecileri silah, mühimmat vesair harp vasıtalarından arıtmak ve bu mülteciler ile onların nezdindeki silah, mühimmat vesair harp vasıtalarını ilgililere teslim etmek.
 H) Görev alanları içinde genel güvenlik kuvvetlerince takibi gerekli suçlarla, karada başlayıp denizde devam eden yukarıda belirtilen suçlar dışındaki suçların izlenmesinde ve suçluların yakalanmasında güvenlik kuvveti olarak diğer güvenlik
 5561
 kuvvetlerine yardımetmek, gerektiğinde bu suçlara elkoymak ve suçluları yakalayıp yetkili makamlara teslim etmek.
@@ -90,7 +90,7 @@ Bütçe kanunları ve diğer kanunlarla Milli Savunma Bakanlığı ile Jandarma 
 Özlük Hakları
 Madde 16 – Sahil Güvenlik Komutanlığında görevli amiral, subay ve astsubaylar ile sivil personel özlük hakları yönünden, kendi özel kanunlarına tabidir.
 Erbaş ve erlerin harçlıkları ile gündelikleri, Deniz Kuvvetleri Komutanlığındaki emsaline verilen miktarlar üzerinden ve aynı hükümlere göre ödenir.
-5562-2 5563
+5563
 Jandarma Genel Komutanlığı ve diğer kuruluşlardaki emsaline yapılan nakdi ve ayni ödemeler aynı şartlar altında ve aynı hükümlere tabi olarak, Sahil Güvenlik Komutanlığı personeline de verilir.
 Sahil Güvenlik Komutanlığında görevli sivil memurlar 22/6/1978 tarih ve 2155 sayılı Kanun hükümlerinden yararlanırlar.
 (Ek fıkra : 13/7/1993 –KHK- 486/19 md.) 657 sayılı Devlet Memurları Kanununda belirtilen en yüksek Devlet Memuru aylığının (ek gösterge dahil);
@@ -105,8 +105,8 @@ Eğitim ve Öğretim, Yargılama
 Sicil Üstleri
 Madde 18 – Sahil Güvenlik Komutanının birinci sicil üstü Genelkurmay Başkanıdır.
 Komutanlığın diğer kadrolarında görevli personelin sicil işlemleri Türk Silahlı Kuvvetlerindeki esaslara göre yürütülür.
-Nakdi Tazminat ve Ödüller
-Madde 19 – Sahil Güvenlik Komutanlığı personelinin güvenlik ve asayişin sağlanması ile kaçakçılığın önlenmesi, izlenmesi ve suçlular hakkında gerekli işlemlerin yapılması görevleri sırasında, bu görevlerinden dolayı ya da görevleri sona ermiş olsa bile yaptıkları hizmet nedeniyle derhal veya bu yüzden maruz kaldıkları yaralanma veya hastalık sonucu ölmeleri veya sakat kalmaları halinde haklarında 3/11/1980 tarih ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun Hükümleri uygulanır.
+Nakdi Tazminat ve Ödüller (3)
+Madde 19 – Sahil Güvenlik Komutanlığı personelinin güvenlik ve asayişin sağlanması ile kaçakçılığın önlenmesi, izlenmesi ve suçlular hakkında gerekli işlemlerin yapılması görevleri sırasında, bu görevlerinden dolayı ya da görevleri sona ermiş olsa bile yaptıkları hizmet nedeniyle derhal veya bu yüzden maruz kaldıkları yaralanma veya hastalık sonucu ölmeleri veya engelli hâle gelmeleri halinde haklarında 3/11/1980 tarih ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun Hükümleri uygulanır.
 Ayrıca bu komutanlık personeli 10/6/1930 tarih ve 1706 sayılı Jandarma Kanununa 11/5/1959 tarih ve 7268 sayılı Kanunla eklenen hükümlerdeki şartların tahakkuku halinde burada belirtilen ödüllere de hak kazanırlar.
 Eğitim ve Öğretim
 Madde 20 – (Değişik: 18/6/2003 – 4902/7 md.)
@@ -118,6 +118,7 @@ b) İşledikleri disiplin suçlarından dolayı haklarında 477 sayılı Disipli
 _______________
 (1) Bu bendlerde yer alan; “%15” ve “%13” oranları, 5/4/2001 tarihli ve 4635 sayılı Kanunla sırayla %52 ve %40 olarak değiştirilmiş ve metne işlenmiştir.
 (2) Bu maddenin uygulaması için,bu Kanunun sonundaki işlenemeyen hükümler bölümünde yeralan,13/7/1993 tarih ve 486 sayılı KHK‘nin Geçici 1 inci maddesine bakınız.
+(3) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakat kalmaları” ibaresi “engelli hâle gelmeleri” şeklinde değiştirilmiştir.
 5564
 c) Askeri suçları ile bunların asker kişiler aleyhine veya askeri mahallerde yahut askerlik hizmet ve görevleri ile ilgili olarak işledikleri suçlarından dolayı haklarında 353 sayılı Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununa göre işlem yapılır.
 d) Askeri mahaller dışında;

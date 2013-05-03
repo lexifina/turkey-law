@@ -8,4 +8,6 @@ Birinci fıkranın (b) bendi uyarınca başkan vekili seçildikten sonra belediy
 Yeni seçilen belediye başkanının görev süresi, yerine seçildiği başkanın görev süresi ile sınırlıdır. Başkan vekili, yeni başkan seçilinceye veya görevden uzaklaştırılmış ya da tutuklanmış olan başkan göreve dönünceye kadar görev yapar.
 Belediye başkanı veya başkan vekili seçilinceye kadar belediye başkanlığı görevi, meclis birinci başkan vekili, bulunmaması durumunda ikinci başkan vekili, onun da bulunmaması durumunda vali tarafından görevlendirilecek bir kamu görevlisi tarafından yürütülür.
 Belediye başkanı veya başkan vekili seçimi en geç onbeş gün içinde tamamlanmadığı takdirde belediye meclisinin feshine ilişkin hükümler uygulanır.
+–––––––––––––––––
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “sakatlık” ibaresi “engellilik” şeklinde değiştirilmiştir.
 9485

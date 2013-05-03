@@ -56,10 +56,10 @@ Harp okulu öğrencileri ile sözleşmeli subay adaylarına pilotluk eğitimine 
 Paraşütçülere ödenecek tazminat:
 Madde 5 – (Değişik: 11/10/2011-KHK-666/6 md.)
 Askeri paraşütçü hizmet kadrolarına atanan paraşütçü ve paraşütçü adayı subay, sözleşmeli subay, astsubay, sözleşmeli astsubay, uzman jandarma ve uzman erbaşlarla, askeri paraşütçü niteliklerini korudukları halde kadro ve hizmet gerekleri nedeniyle Silahlı Kuvvetlerin diğer görevlerine atanan subay, sözleşmeli subay, astsubay, sözleşmeli astsubay, uzman jandarma ve uzman erbaşlardan Kuvvet Komutanı, Jandarma Genel Komutanı veya Sahil Güvenlik Komutanının onayı ile daha sonra tekrar paraşütçülük hizmetlerinde görevlendirilmeleri gerekli görülenlere zorunlu yıllık atlayış miktarının yarısını tamamladıkları sürece, kıstas aylığın %68’i üzerinden bu Kanuna ek cetvelde hizmet yılları (adaylar için 1’inci hizmet yılı) karşılığında gösterilen oranda aylık atlayış tazminatı ödenir.
-Paraşütçülerden, Özel Kuvvetler Komutanlığında veya Kuvvet Komutanlığına bağlı taburlarda bilfiil görev yapanlara, yıllık zorunlu atlayış miktarlarını tamamladıkları sürece ek cetvelde hizmet yılları karşılığında gösterilen aylık tazminat oranları subaylar ve sözleşmeli subaylar için 20, astsubaylar ve sözleşmeli astsubaylar için 15, uzman jandarma ve uzman erbaşlar için 10’ar puan artırılarak ödenir. Görev esnasında sakatlanarak sağlık kurullarından “paraşütle atlayamaz” raporu alan personel de diğer kadro görevlerine ataması yapılıncaya kadar bu fıkra hükmünden istifade etmeye devam eder.
+Paraşütçülerden, Özel Kuvvetler Komutanlığında veya Kuvvet Komutanlığına bağlı taburlarda bilfiil görev yapanlara, yıllık zorunlu atlayış miktarlarını tamamladıkları sürece ek cetvelde hizmet yılları karşılığında gösterilen aylık tazminat oranları subaylar ve sözleşmeli subaylar için 20, astsubaylar ve sözleşmeli astsubaylar için 15, uzman jandarma ve uzman erbaşlar için 10’ar puan artırılarak ödenir. Görev esnasında engelli hâle gelerek sağlık kurullarından “paraşütle atlayamaz” raporu alan personel de diğer kadro görevlerine ataması yapılıncaya kadar bu fıkra hükmünden istifade etmeye devam eder.(1)
 Paraşütçülerden, görevinin ihtisası gereği aynı zamanda dalgıç ve kurbağa adam olarak eğitim ve görev yapan subay, sözleşmeli subay, astsubay, sözleşmeli astsubay, uzman jandarma ve uzman erbaşlara bu Kanunda gösterilen zorunlu yıllık dalış süresinin üçte birini tamamladıkları sürece ek cetvelde hizmet yılları karşılığında gösterilen aylık tazminat oranları 10’ar puan artırılarak ödenir.
 Askeri öğrencilerden (Sözleşmeli subay adayları ve sözleşmeli subaylar dahil) paraşütle atlayış eğitimine katılanlar ile askeri paraşütçü olmak üzere seçilen erbaş ve erlere, okul veya kursta her atlayış başına kıstas aylığın %2’si, temel atlayışlarını tamamlayarak paraşüt eğitimine devam eden askeri öğrenciler ile paraşütçü kadrolarında görevlendirilen erbaş ve erlere görevlendirildikleri müddetçe her atlayış başına kıstas aylığın %4’ü, atlayış tazminatı olarak ödenir. Yılda 40 atlayıştan fazlası tazminat yönünden dikkate alınmaz.
-Denizaltıcı, ADS pilotu, dalgıç ve kurbağa adamlara ödenecek tazminat: (1) (2)
+Denizaltıcı, ADS pilotu, dalgıç ve kurbağa adamlara ödenecek tazminat: (2)(3)
 Madde 6 – (Değişik: 11/10/2011-KHK-666/6 md.)
 Denizaltıcı, ADS pilotu, dalgıç ve kurbağa adam kadrolarına atanan veya denizaltıcı, ADS pilotu, dalgıç ve kurbağa adam olmak üzere seçilerek eğitime başlayan personelden;
 a) ADS pilotu ile ADS pilotu kursiyerlerine kıstas aylığın %82’si,
@@ -69,8 +69,9 @@ c) Denizaltıcı astsubaylar ve sözleşmeli astsubaylar ile denizaltıcı kursi
 d) Hava ile dalış yapan kurbağa adamlara kıstas aylığın %65’i,
 üzerinden bu kanuna ek cetvelde hizmet yılları (adaylar için birinci hizmet yılı) karşılığında gösterilen oranda aylık dalış tazminatı ödenir.
 ––––––––––––––––
-(1) Bu madde başlığı “Denizaltıcı, dalgıç ve kurbağa adamlara ödenecek tazminat:” iken, 1/10/2011 tarihli ve 666 sayılı KHK’nin 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
-(2) 12/1/2012 tarihli ve 6266 sayılı Kanunun 3 üncü maddesiyle, bu maddenin birinci fıkrasının (c) bendine “% 73’ü” ibaresinden sonra gelmek üzere “denizaltıcı uzman erbaşlara kıstas aylığın % 65’i,” ibaresi eklenmiş ve metne işlenmiştir.
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlanarak” ibaresi “engelli hâle gelerek” şeklinde değiştirilmiştir.
+(2) Bu madde başlığı “Denizaltıcı, dalgıç ve kurbağa adamlara ödenecek tazminat:” iken, 1/10/2011 tarihli ve 666 sayılı KHK’nin 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(3) 12/1/2012 tarihli ve 6266 sayılı Kanunun 3 üncü maddesiyle, bu maddenin birinci fıkrasının (c) bendine “% 73’ü” ibaresinden sonra gelmek üzere “denizaltıcı uzman erbaşlara kıstas aylığın % 65’i,” ibaresi eklenmiş ve metne işlenmiştir.
 5492
 Denizaltıcı, ADS pilotu, dalgıç ve kurbağa adam kursu gören sözleşmeli subay adayları ile kurbağa adam kursu gören harp okulu öğrencilerine kurs süresince kıstas aylığın %10’u oranında aylık dalış tazminatı ödenir. Denizaltıcı, dalgıç ve kurbağa adam olmak üzere seçilen erbaş ve erlere kursa katılmalarını takip eden aybaşından itibaren kıstas aylığın %5’i, kursu başarmalarından itibaren denizaltıcı, dalgıç ve kurbağa adam kadrolarında görevlendirildikleri müddetçe kıstas aylığın %10’u oranında aylık dalış tazminatı ödenir.
 Denizaltıcı, ADS pilotu, dalgıç ve kurbağa adam niteliklerini korudukları halde kadro ve hizmet gerekleriyle Silahlı Kuvvetlerin diğer görevlerine atananlardan, kuvvet komutanlarının, Jandarma Genel Komutanının veya Sahil Güvenlik Komutanının onayı ile tekrar denizaltıcı, ADS pilotu, dalgıç ve kurbağa adam hizmetlerinde görevlendirilmeleri gerekli görülen ve sağlık durumları elverişli olan denizaltıcı, ADS pilotu, dalgıç ve kurbağa adamlara yıllık zorunlu dalış saatini tamamladıkları sürece hizmet yıllarına bağlı olarak denizaltıcı, ADS pilotu, dalgıç ve kurbağa adamlara ödenen oranda aylık tazminat ödenir.
@@ -154,28 +155,32 @@ Pilot, silah sistem subayı, seyrüsefer subayı, taktik koordine subayı, uçu�
 –––––––––––––––––––
 (1) Bu madde başlığı “Uçak ve gemi tipi:” iken, 11/10/2011 tarihli ve 666 sayılı KHK’nin 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
 5495
-ÜÇÜNCÜ BÖLÜM
-Şehitlik ve Sakatlık Tazminatı
-Şehitlik ve sakatlık tazminatı:
+ÜÇÜNCÜ BÖLÜM (1)
+Şehitlik ve Engellilik Tazminatı
+Şehitlik ve engellilik tazminatı: (2)
 Madde 13 – (Değişik: 11/10/2011-KHK-666/6 md.)
 a) Pilot, silah sistem subayı, seyrüsefer subayı, taktik koordine subayı, uçuş ekibi personeli, görev ekibi personeli ve bunların adaylarının uçuş hizmet faaliyetlerinden,
 b) Paraşütçü ve paraşütçü adaylarının uçuş faaliyetleri ile paraşüt atlayışlarından,
 c) Denizaltıcı, ADS pilotu, dalgıç ve kurbağa adamlar ile bunların adaylarının denizaltı, ADS pilotu, dalgıç ve kurbağa adam hizmet faaliyetlerinden,
 ç) Hangi meslek ve sınıftan olursa olsun; vazifeli olarak askeri hava vasıtası veya askeri maksatla kullanılan hava vasıtası veya denizaltıda bulunan askeri personel ile bir askeri hizmetin ifası için veya pilot yetiştirilmek üzere Türk Silahlı Kuvvetlerindeki teşkillere seçim veya bu teşkillerdeki fiili eğitimleri maksadıyla bu vasıtalarda bulunanlar, hava vasıtası veya denizaltıda bulundukları esnada veya paraşütle atlayış faaliyetlerinin etkisiyle,
-şehit olan veya sakat kalanlara bu Kanun hükümlerine göre tazminat verilir.
-Tazminat miktarı:
+şehit olan veya engelli hâle gelenlere bu Kanun hükümlerine göre tazminat verilir.
+Tazminat miktarı: (3)
 Madde 14 – a) (Değişik: 11/10/2011-KHK-666/6 md.) Şehit olanların kanuni mirasçılarına kıstas aylığın 100 katı,
-b) (Değişik: 11/10/2011-KHK-666/6 md.) Yaşamak için gerekli hareketleri yapmaktan aciz ve hayatını başkasının yardım ve desteği ile sürdürebilecek şekilde malul olanlara kıstas aylığın 200 katı, diğerlerine ise vazife malulü olanlar hakkında esas alınan 13/7/1953 tarihli ve 1053 sayılı Vazife Malullüklerinin Nevileri ile Dereceleri Hakkındaki Nizamnamede gösterilen sakatlık derecelerine göre (a) bendinde belirtilen tutarın;
+b) (Değişik: 11/10/2011-KHK-666/6 md.) Yaşamak için gerekli hareketleri yapmaktan aciz ve hayatını başkasının yardım ve desteği ile sürdürebilecek şekilde malul olanlara kıstas aylığın 200 katı, diğerlerine ise vazife malulü olanlar hakkında esas alınan 13/7/1953 tarihli ve 1053 sayılı Vazife Malullüklerinin Nevileri ile Dereceleri Hakkındaki Nizamnamede gösterilen engellilik derecelerine göre (a) bendinde belirtilen tutarın;
 1 inci dereceye %75’i,
 2 nci dereceye %65’i,
 3 üncü dereceye %55’i,
 4 üncü dereceye %45’i,
 5 inci dereceye %35’i,
 6 ncı dereceye %25’i,
-c) (Değişik: 28/2/1995 - 4082/3 md.) Yaralanma ve sakatlık durumları (b) bendinde gösterilen derecelerde olmamakla birlikte görevlerinden ayrılmalarına neden olmuş ise, (a) bendinde belirtilen miktarın % 20'si,
+c) (Değişik: 28/2/1995 - 4082/3 md.) Yaralanma ve engellilik durumları (b) bendinde gösterilen derecelerde olmamakla birlikte görevlerinden ayrılmalarına neden olmuş ise, (a) bendinde belirtilen miktarın % 20'si,
 Tutarında maddi ve manevi tazminat ödenir.
 Bu tazminatın tespitine esas tutulacak kıstas aylığı,tazminat verilmesine dair karar tarihindeki kıstas aylığıdır.
 d) (a) bendi esaslarına göre tespit edilen tazminatın kanuni mirasçılara intikalinde; şehidin eş ve füruu veya yalnızca füruu ile içtima eden ve ölüm tarihinde sağ olan ana ve babanın her birine ayrı ayrı olmak üzere % 10 tutarındaki kısmı verildikten sonra kalanı içtima eden diğer mirasçılara ödenir. Diğer hallerde miras hükümleri uygulanır. Ancak ana ve babaya verilen tazminat, çocukların her birine ödenen tazminattan fazla olamaz.
+–––––––––––––––––
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bölüm başlığında yer alan “Sakatlık” ibaresi “Engellilik” şeklinde değiştirilmiştir.
+(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan “sakatlık” ibaresi “engellilik”, birinci fıkrasında yer alan “sakat kalanlara” ibaresi “engelli hâle gelenlere” şeklinde değiştirilmiştir.
+(3) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasının (b) ve (c) bentlerinde yer alan “sakatlık” ibareleri “engellilik” şeklinde değiştirilmiştir.
 5496
 DÖRDÜNCÜ BÖLÜM
 Çeşitli Hükümler
@@ -186,18 +191,19 @@ Madde 16 – (Değişik birinci fıkra: 9/8/1993-KHK-499/31 md.) (Değişik biri
 a) (Değişik: 11/10/2011-KHK-666/6 md.) Kurs esnasında subay, sözleşmeli subay, astsubay, sözleşmeli astsubay, uzman jandarma, uzman erbaşlar kendi statüsünde bulundukları adaylar gibi tazminat alırlar. Subay, sözleşmeli subay, astsubay ve sözleşmeli astsubaylara kurslardan ve okullardan mezuniyeti müteakip Silahlı Kuvvetler içinde veya dışında geçmiş uçuculuk, paraşütçülük, dalıcılık hizmet yılları da dikkate alınarak aylık uçuş, paraşüt, dalış tazminatı ödenir.
 b) Uçucu, denizaltıcı, ADS pilotu, dalgıç ve kurbağa adam erbaş ve erlere okul veya kursda kıstas aylığının % 2'si, kursu bitirip kadrolarda görevlendirildikleri sürece kıstas aylığının % 4,ü aylık uçuş, dalış tazminatı olarak ödenir. Ancak uçuculardan fiilen pilotluk görevini yapanlara kıstas aylığının % 10'u, aylık uçuş tazminatı olarak ödenir. (3)
 c) Paraşütçü erbaş ve erlere birlik veya okullardaki yer eğitim süresince her atlayış başına kıstas aylığının % 1,5'u temel atlayışlarını tamamlayarak kadrolarda görevlendirildikten sonra her atlayış başına kıstas aylığının % 3' ü paraşüt atlayış tazminatı olarak ödenir. Yılda 40 atlayıştan fazlası tazminat yönünden dikkate alınmaz.
-d) Yukarıdaki bentlerde sayılanlara bu Kanun hükümlerine göre şehitlik ve sakatlık tazminatı ödenir.
-Madde 17 – Bu Kanunda belirtilen aylık tazminat aybaşında peşin olarak ödenir ve damga vergisi hariç herhangi bir vergiye tabi değildir. Aylık tazminat ödemelerinde Türk Silahlı Kuvvetleri Personel Kanununun aylıklara ilişkin hükümleri uygulanır.(4)
+d) Yukarıdaki bentlerde sayılanlara bu Kanun hükümlerine göre şehitlik ve engellilik tazminatı ödenir. (4)
+Madde 17 – Bu Kanunda belirtilen aylık tazminat aybaşında peşin olarak ödenir ve damga vergisi hariç herhangi bir vergiye tabi değildir. Aylık tazminat ödemelerinde Türk Silahlı Kuvvetleri Personel Kanununun aylıklara ilişkin hükümleri uygulanır.(5)
 ––––––––––––––
 (1) Bu maddede yer alan "Kuvvet Komutanlıklarınca" ibaresi, 1/3/2007 tarihli ve 5590 sayılı Kanunun 1 inci maddesiyle "kuvvet komutanlıkları, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığınca" şeklinde değiştirilmiş ve metne işlenmiştir.
 (2) 11/10/2011 tarihli ve 666 sayılı KHK’nin 6 ncı maddesiyle, bu maddede yer alan “denizaltıcı,” ibaresinden sonra gelmek üzere “ADS pilotu,” ibaresi eklenmiş ve metne işlenmiştir.
 (3) 11/10/2011 tarihli ve 666 sayılı KHK’nin 6 ncı maddesiyle, bu bentte yer alan “denizaltıcı,” ibaresinden sonra gelmek üzere “ADS pilotu,” ibaresi eklenmiş ve metne işlenmiştir.
-(4) 11/10/2011 tarihli ve 666 sayılı KHK’nin 6 ncı maddesiyle, bu fıkrada yer alan “resmi” ibaresi “vergisi” şeklinde değiştirilmiş ve metne işlenmiştir.
+(4) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “sakatlık” ibaresi “engellilik” şeklinde değiştirilmiştir.
+(5) 11/10/2011 tarihli ve 666 sayılı KHK’nin 6 ncı maddesiyle, bu fıkrada yer alan “resmi” ibaresi “vergisi” şeklinde değiştirilmiş ve metne işlenmiştir.
 5496-1
 Madde 18 – a) Pilot paraşütçülere ayrıca aylık atlayış tazminatı ödenmez.
 b) Paraşütçüler, uçuş tazminatından yararlanamazlar.
 c) Denizaltı, ADS pilotu, dalgıç ve kurbağa adam hizmetlerinden ancak birinden tazminat ödenir. (1)
-Madde 19 – Bu Kanun kapsamına girenlerden 3/11/1980 tarih ve 2330 sayılı Kanun hükümlerine göre görev yaparken bu Kanunun 13 üncü maddesindeki faaliyetlerinden dolayı şehit olanlar veya sakatlananlar 14 üncü maddeye göre şehitlik ve sakatlık tazminatı alırlar, ayrıca 2330 sayılı Kanundan yararlanamazlar.
+Madde 19 – Bu Kanun kapsamına girenlerden 3/11/1980 tarih ve 2330 sayılı Kanun hükümlerine göre görev yaparken bu Kanunun 13 üncü maddesindeki faaliyetlerinden dolayı şehit olanlar veya engelli hâle gelenler 14 üncü maddeye göre şehitlik ve engellilik tazminatı alırlar, ayrıca 2330 sayılı Kanundan yararlanamazlar. (2)
 Değiştirilen hükümler:
 Madde 20 – (926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun ek-17.maddesinin (a) bendinin değiştirilmesine ilişkin olup, ilgili kanundaki yerine işlenmiştir.)
 Madde 21 – (926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun 137. maddesine bağlı Ek-VII sayılı cetvelde değişiklik yapılmasına ilişkin olup, ilgili kanundaki yerine işlenmiştir.)
@@ -210,6 +216,7 @@ Geçici Madde 3 – Uçucu ve paraşütçülerin 1 Eylül 1982 tarihine kadar zo
 Geçici Madde 4 – Bu Kanunun yürürlüğe girdiği tarihte; eğitim, harekat ve lojistik destek hizmetleriyle ilgili faaliyetlerin yürütülmesi ile görevlendirilmiş olan Hava Kuvvetleri Komutanlığı pervaneli pilotlarının aylık uçuş tazminatı, jet pilotu statüsü esaslarına göre ödenir.
 ––––––––––––––––––
 (1) 11/10/2011 tarihli ve 666 sayılı KHK’nin 6 ncı maddesiyle, bu bentte yer alan “Denizaltı,” ibaresinden sonra gelmek üzere “ADS pilotu,” ibaresi eklenmiş ve metne işlenmiştir.
+(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “sakatlananlar” ve “sakatlık” ibareleri sırasıyla “engelli hâle gelenler” ve “engellilik” şeklinde değiştirilmiştir.
 5496-2
 5497
 Geçici Madde 5 – (Mülga: 11/10/2011-KHK-666/6 md.)

@@ -461,7 +461,6 @@ Madde 244 – (Mülga: 18/6/2009-5911/68 md. ; Yeniden Düzenleme: 13/2/2011-611
 6. Bu madde uyarınca üzerinde uzlaşılan cezalar hakkında 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun 17 nci maddesi uyarınca ayrıca peşin ödeme indiriminden yararlanılamaz.
 7. (Ek: 8/8/2011-649-KHK/59 md.) Uzlaşma komisyonlarının başkan ve üyelerine, bu komisyonlardaki çalışmaları dolayısıyla verilecek ücret Gümrük ve Ticaret Bakanlığının teklifi üzerine Bakanlar Kurulu kararıyla belirlenir.
 Madde 245 – (Mülga: 18/6/2009-5911/68 md.)
-7736-4
 7737
 ONÜÇÜNCÜ KISIM
 Yürürlükten Kaldırılan Hükümler, Geçici Maddeler ve Yürürlük

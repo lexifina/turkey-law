@@ -31,7 +31,6 @@ e) Konsolosluk ve ihtisas memurlarının mesleğe alınmaları ile görevde yük
 (8) Dışişleri merkez memurlarına ilişkin esaslar aşağıda gösterilmiştir.
 a) Merkez memurları, 11 inci maddede yurtdışı görevlere ilişkin olarak yer verilen hüküm saklı kalmak üzere, merkez teşkilatında sürekli görev yapan ve genel idare hizmetleri, teknik hizmetler ve sağlık hizmetleri sınıflarına mensup olan memurlardır.
 b) Mütercim kadrosunda görev yapacak memurların merkezi sınava ilave olarak hizmetin gereklerine uygun olarak seçilebilmesi için usul ve esasları yönetmelikle belirlenen yarışma sınavında da başarılı olmaları gerekir.
-10638-2
 10639
 c) Sağlık hizmetleri sınıfına mensup merkez memurları, merkez teşkilatındaki görevlerine ilave olarak, yerel mahrumiyet şartları nedeniyle güvenilir sağlık hizmetlerine erişim imkanının kısıtlı olduğu veya ciddi sağlık riskleri bulunan bölge veya ülkelerdeki temsilciliklerde görevli personelin ve beraberlerindeki aile üyelerinin sağlık kontrolünden geçirilmelerinin, koruyucu sağlık hizmetlerinden yararlandırılmalarının ve ağır şekilde rahatsızlananların Türkiye'ye nakline nezaret edilmesinin gerektirdiği durumlarda geçici olarak yurtdışı teşkilatında görevlendirilebilir.
 (9) Koruma görevlileri, 657 sayılı Kanunun ek 8 inci ve ek 9 uncu maddelerine göre görevlendirildikleri yurtdışı teşkilatına ait bina ve konutların güvenliğinin sağlanması ile diplomatik misyon veya konsolosluk şefinin ve onun talimatı çerçevesinde diğer diplomatik misyon veya konsolosluk mensuplarının şahsi korunmalarından sorumludur.

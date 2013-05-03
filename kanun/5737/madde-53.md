@@ -1,6 +1,6 @@
 Sanat Eserleri ve Yapı İşleri Daire Başkanlığı
 MADDE 53 – Sanat Eserleri ve Yapı İşleri Daire Başkanlığının görevleri şunlardır:
-a) Vakıf kültür varlıklarının tespit ve envanterini yapmak ve belgelerini arşivlemek.
+7) Vakıf kültür varlıklarının tespit ve envanterini yapmak ve belgelerini arşivlemek.
 b) Genel Müdürlüğe ve mazbut vakıflara ait vakıf kültür varlıklarının röleve, restitüsyon, restorasyon ve diğer projeleri ile yıllık ve beş yıllık onarım programlarını hazırlayarak veya hazırlatarak onarım ve restorasyonlarını yapmak veya yaptırmak, talep halinde kontrollük görevi Genel Müdürlükçe yürütülmek kaydıyla düzenlenecek protokol esasları dahilinde kamu kurum ve kuruluşları ile gerçek ve tüzel kişilere yaptırmak.
 c) Vakıf kültür varlıkları birim fiyat analizlerini hazırlamak, Genel Müdürce onaylandıktan sonra yayınlanmasını sağlamak.
 d) Genel Müdürlüğe ve mazbut vakıflara ait vakıf kültür varlıklarının onarım ve restorasyon projeleri ile ilgili gerekli işlemleri yapmak ve hali hazır durumlarını röleve ve fotoğraflarla tespit etmek, gerektiğinde eser ile koruma alanlarının kamulaştırma işlemlerini yürütmek,

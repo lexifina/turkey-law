@@ -7,6 +7,8 @@ a) Rafinaj, işleme, madeni yağ üretimi, depolama, iletim, serbest kullanıcı
 b) Akaryakıt dağıtımı, taşıması ve bayilik faaliyetlerinin yapılması,
 İçin lisans alınması zorunludur. Kurum, geliştireceği ilke ve ölçütler doğrultusunda, iletim ve işleme faaliyetlerinde lisans alma zorunluluğuna muafiyet getirebilir. Lisans vermede taahhüt üzerinden işlem yapılamaz.
 Lisans taleplerine ilişkin değerlendirmeler 3 üncü madde hükümleri ve Kurumca belirlenecek diğer unsurlar çerçevesinde tamamlanarak en geç altmış gün içerisinde karara bağlanır ve ilgiliye tebliğ edilir. Reddedilen taleplerin gerekçesi bildirilir.
+__________________
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu bentte yer alan “sakatlanmasına” ibaresi “engelli hale gelmesine” şeklinde değiştirilmiştir.
 8644
 Bu Kanuna göre; lisansların verilmesi, güncelleştirilmesi, geçici olarak durdurulması veya iptaline ilişkin işlemler Kurumca yapılır. Lisansların verilmesinde pazara giriş açısından teknoloji, kalite, güvenlik, hizmet ve teşebbüsün sürdürülebilirliği dikkate alınır, bayi sayısı, depolama kapasitesi (işletme stok kapasitesi hariç) konularında sayısal büyüklüklerle sınırlama yapılmaz.
 (Ek fıkra: 28/3/2013-6455/36 md.) 5607 sayılı Kanuna aykırı fiillerden dolayı haklarında kesinleşmiş mahkûmiyet kararı olanlara lisans verilmez. Lisans sahibinin tüzel kişi olması durumunda söz konusu tüzel kişilikte suçun işlendiği tarih itibarıyla yüzde ondan fazla paya sahip ortaklar ile görevden ayrılmış olan veya halen görevde bulunan yönetim kurulu başkan ve üyelerine, temsil ve ilzama yetkili olanlara lisans verilmez ve bu kişiler lisans başvurusu yapan tüzel kişiliklerde doğrudan pay sahibi olamaz.

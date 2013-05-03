@@ -1,6 +1,6 @@
 Yürütme
 Madde 105- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-8816 8817
+8817
 (1) SAYILI LİSTE
 Kurumu : Sanayi ve Ticaret Bakanlığı
 Teşkilâtı : Taşra

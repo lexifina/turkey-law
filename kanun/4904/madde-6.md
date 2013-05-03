@@ -5,6 +5,8 @@ a) Genel Müdür,
 b) Bakanlığı temsilen Bakanın teklifi üzerine müşterek kararname ile atanan bir üye,
 c) Hazine Müsteşarlığını temsilen, Hazine Müsteşarlığının bağlı olduğu Bakanın teklifi üzerine müşterek kararname ile atanan bir üye,
 d) En çok üyeye sahip işçi konfederasyonunca belirlenen bir üye,
+__________________
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu bentte yer alan “özür” ibaresi “engel” olarak değiştirilmiştir.
 8480
 e) En çok üyeye sahip işveren konfederasyonunca belirlenen bir üye,
 f) Türkiye Esnaf ve Sanatkârları Konfederasyonunca belirlenen bir üye,

@@ -15,5 +15,4 @@ istemi üzerine, ilgilileri ve seçilmiş denetçiyi dinleyerek, seçilmiş dene
 (7) Denetçinin mahkeme tarafından atanması durumunda, emsal dikkate alınarak, ücreti ile muhtemel giderler için mahkeme veznesine yatırılması gereken ön ödeme mahkemece belirlenir. Bunlara üç iş günü içinde itiraz edilebilir. Mahkeme kararı kesindir.
 (8) Denetçi denetleme sözleşmesini, sadece haklı bir sebep varsa veya kendisine karşı görevden alınma davası açılmışsa feshedebilir. Görüş yazısının içeriğine ilişkin fikir ayrılıkları ile denetlemenin şirketçe sınırlandırılmış olması veya görüş yazısı vermekten kaçınma haklı sebep sayılamaz. Denetçinin sözleşmeyi feshi yazılı ve gerekçeli olmalıdır. Denetçi fesih tarihine kadar elde ettiği sonuçları genel kurula sunmakla yükümlüdür; bu sonuçlar 402 nci maddeye uygun bir rapor hâline getirilerek genel kurula verilir.
 (9) Denetçi altıncı fıkra hükmüne göre fesih ihbarında bulunduğu takdirde, yönetim kurulu hemen, geçici bir denetçi seçer ve fesih ihbarını genel kurulun bilgisine, seçtiği denetçiyi de aynı kurulun onayına sunar.
-11064-2
 11065

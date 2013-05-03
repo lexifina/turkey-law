@@ -1,6 +1,6 @@
 Müfettiş ve Müfettiş Yardımcısı
 MADDE 70 – Müfettiş Yardımcısı olabilmek için:
-a) 657 Sayılı Devlet Memurları Kanununun 48 inci maddesinde sayılan şartlara sahip olmak.
+7) 657 Sayılı Devlet Memurları Kanununun 48 inci maddesinde sayılan şartlara sahip olmak.
 b) Üniversitelerin dört yıllık eğitim veren hukuk, siyasal bilgiler, iktisat, işletme, iktisadî ve idarî bilimler, mimarlık, mühendislik fakülteleri mezunu olmak veya bunlara denkliği Yükseköğretim Kurulu tarafından kabul edilmiş yurt içi ve yurt dışındaki yükseköğretim kurumlarından mezun olmak.
 c) Sağlık durumunun, her türlü iklim ve yolculuk koşullarına elverişli olduğunu sağlık kurulu raporu ile belgelemek.
 d) Merkezî sistemle yapılacak memur seçme sınavında başarılı olmak.

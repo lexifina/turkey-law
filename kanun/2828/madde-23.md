@@ -3,6 +3,7 @@ Madde 23 – Mahkemece korunma kararı alınan korunmaya muhtaç çocuğun bakı
 ——————————
 (1) Bu fıkrada yer alan“ nakdî bağışlar“ ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle,“nakdî ve aynî bağışlar“ olarak 31/7/2004 tarihinden geçerli olmak üzere değiştirilmiş ve metne işlenmiştir.
 (2) İthalde alınan her türlü vergi, resim ve harç muafiyeti hükümleri, 6/5/1986 tarihli ve 3283 sayılı Kanunun 1 inci maddesi ile yürürlükten kaldırılmıştır.
+(3) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.
 5806
 Koruyucu ailelerin seçimine, çocukla ilgili sorumluluklarına, Kurumla olan ilişkilerine, hizmetin işleyişine ve aileye bu hizmeti karşılığı ödenecek ücrete ilişkin esaslar bir yönetmelikle düzenlenir.
 Korunma kararının süresi ve kaldırılması:
@@ -12,14 +13,18 @@ a) 18 yaşını tamamlamış olan korunmaya muhtaç çocuklardan;
 2. Yükseköğrenime devam edenlerin 25 yaşına kadar korunma kararları uzatılabilir.
 b) Öğrenime devam etmeyen 18 yaşını doldurmuş çocukların bir iş veya meslek sahibi edilerek kendi kendilerine yeterli olabilmelerinin sağlanması amacıyla 20 yaşına kadar korunma kararları uzatılabilir.
 Bunlardan korunma kararı kalkmış; ancak tek başına yaşamını sürdüremeyecek durumda bulunan kız çocukları, Kurumca himaye olunur. Bu çocukların emek karşılığı iaşe, ibate ve harçlıkları Kurumca karşılanmak kaydıyla Kurum hizmetlerinde çalışmaları da sağlanabilir.
-c) Bedensel,zihinsel ve ruhsal özürleri nedeniyle sürekli bakıma muhtaç durumda bulunan ve çalışmaktan aciz olan Çocukların korunma kararı uzatılır.
+c) Bedensel,zihinsel ve ruhsal engellilikleri nedeniyle sürekli bakıma muhtaç durumda bulunan ve çalışmaktan aciz olan Çocukların korunma kararı uzatılır. (1)
 Korunma kararı kalkan çocukların Kurumla ilişkilerinin devamı sağlanır. Bu çocuklara gerektiğinde imkanlar ölçüsünde Kurumca yardımcı olunur.
 Korunmaya muhtaç çocukların eğitim ve öğretimlerinin sağlanması veya meslek sahibi yapılmaları:
 Madde 25 – Okul çağındaki korunmaya muhtaç çocukların eğitim ve öğretimleri Milli Eğitim Bakanlığı ile diğer kamu kurumlarına ait okullarda gerçekleştirilir.
 Herhangi bir nedenle okula devam etme imkanı bulamayan çocuklar, kamu ve özel işyerlerinde ücret mukabilinde çalıştırılarak bir meslek sahibi yapılırlar. Bu şekilde çalıştırılan çocukların ücretlerinin yurt idarelerince tespit edilen miktarı kendilerine harçlık olarak verilir. Geri kalan miktar aybaşını takip eden on gün içinde milli bankalarda çocuk namıma açtırılan hesaba yatırılır. Çocuğun ücretinin başlama zamanı ve miktarı, yurt idaresi ile işveren arasında mahalli örf ve rayice göre tespit olunur. Bu konuya ilişkin hususlar bir yönetmelikle belirlenir.
-(Değişik: 30/5/1997 - KHK - 572/10 md.) Özel eğitim gerektiren korunmaya muhtaç çocukların eğitim ve öğretimleri Milli Eğitim Bakanlığına bağlı resmi ve özel eğitim-öğretim kurumlarında sürdürülür. Korunmaya muhtaç özürlü çocukların eğitimleri Milli Eğitim Bakanlığı ile birlikte planlanır.
-Korunmaya, bakıma, yardıma muhtaç sakat, yaşlı ve diğer kişilere ilişkin hususlar:
-Madde 26 – Korunmaya, bakıma, yardıma muhtaç aile, özürlü, yaşlı ve diğer kişilerin tespiti, incelenmesi ve bunların sosyal hizmetlerden yararlandırılmasına ilişkin esaslar bir yönetmelikle düzenlenir.
+(Değişik: 30/5/1997 - KHK - 572/10 md.) Özel eğitim gerektiren korunmaya muhtaç çocukların eğitim ve öğretimleri Milli Eğitim Bakanlığına bağlı resmi ve özel eğitim-öğretim kurumlarında sürdürülür. Korunmaya muhtaç engelli çocukların eğitimleri Milli Eğitim Bakanlığı ile birlikte planlanır. (2)
+Korunmaya, bakıma, yardıma muhtaç engelli, yaşlı ve diğer kişilere ilişkin hususlar: (3)
+Madde 26 – Korunmaya, bakıma, yardıma muhtaç aile, engelli, yaşlı ve diğer kişilerin tespiti, incelenmesi ve bunların sosyal hizmetlerden yararlandırılmasına ilişkin esaslar bir yönetmelikle düzenlenir. (3)
+–––––––––––––––––
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürleri” ibaresi “engellilikleri” şeklinde değiştirilmiştir.
+(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.
+(3) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesinde; bu Kanunun 26 ncı maddesinin başlığında ve birinci fıkrasında yer alan “özürlü” ibaresi “engelli” şeklinde … değiştirilmiştir.” hükmü yer almakla birlikte Meclis tutanakları, kanun gerekçesinin incelenmesiyle, madde başlığında yer alan “sakat” ibaresinin değiştirilmek istendiği tespit edilmiş ve düzenleme bu şekilde yapılmıştır.
 5807
 Cezai sorumluluk:
 Madde 27 – Bu Kanun kapsamına giren sosyal hizmet kuruluşlarında muhafaza ve bakımlarına terkedilen şahıslara karşı herhangi bir suç işleyen kuruluş görevlileri hakkında bu suç nedeniyle genel hükümlere göre verilecek muvakkat hürriyeti bağlayıcı cezalar ile para cezaları üçte bir oranında artırılarak hükmolunur.
@@ -75,16 +80,21 @@ Ek Madde 5 – (Ek : 21/1/2000 –KHK- 594/7 md.)
 Doğal afet bölgelerinde afetzedelere yönelik sosyal hizmet müdahaleleri için gerekli öncü, geçici ve sürekli ekipler, Kurum Genel Müdürünün onayıyla kurulur. Bu ekipler ile diğer Kurum personelinin düzenli bir eğitim programından geçirilmesi için gerekli bütün önlemler alınır. Afet bölgesinde görevlendirilen personelin, hizmetin gerektirdiği ihtiyaçları karşılanır.
 Ek Madde 6 – (Ek : 21/1/2000 –KHK- 594/7 md.)
 Doğal afet bölgelerindeki ilçe sosyal yardımlaşma ve dayanışma vakıflarının mütevelli heyetlerine, ilçe sosyal hizmetler müdürü, mütevelli heyeti üyesi olarak katılır. Bu vakıflarda afet çalışmaları süresince, sosyal hizmet uzmanları istihdam edilebilir.
-Ek Madde 7- (Ek: 1/7/2005-5378/30 md.; Değişik: 1/2/2007- 5579/2 md.)
-Her ne ad altında olursa olsun her türlü gelirleri toplamı esas alınmak suretiyle; kendilerine ait veya bakmakla yükümlü olduğu birey sayısına göre kendilerine düşen ortalama aylık gelir tutarı bir aylık net asgarî ücret tutarının 2/3’ünden daha az olan bakıma muhtaç özürlülere, resmî veya özel bakım merkezlerinde ya da ikametgâhlarında bakım hizmeti verilmesi sağlanır.
-Bakıma muhtaç özürlülere sunulacak bakım hizmetlerinin kapsamına, bakım hizmetinden yararlanabileceklerin başvuru şekline ve bu hizmetleri verecek olan gerçek ve tüzel kişilerin izin, çalışma, denetim, ücretlendirme ile bakım hizmeti karşılığı yapılacak ödemelere ilişkin usûl ve esaslar; Kurumun koordinatörlüğünde, Maliye Bakanlığı, Sağlık Bakanlığı ve Özürlüler İdaresi Başkanlığınca müştereken çıkarılacak yönetmelikle belirlenir.
-Bakıma muhtaç özürlülere sunulacak bakım hizmetinin karşılığı olarak belirlenecek kişi başına aylık bakım ücreti tutarı, iki aylık net asgarî ücretten fazla olamaz.
-Bakıma muhtaç özürlülerden Kurumca ve diğer resmî kurumlarca bakılanlar dışında kalanlara ilişkin bakım ücreti, bu amaçla Kurum bütçesine konulacak ödeneklerden karşılanır.
-Bakıma muhtaç özürlülere, ücretleri Kurum bütçesinden karşılanmak suretiyle sağlanacak bakım hizmetleri 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu hükümlerine tâbi olmaksızın temin edilir.
-(Ek fıkra: 4/7/2012-6353/12 md.) Bakıma muhtaç özürlü ve özürlüye evde ikametgâhında bakım hizmeti veren kişi; özürlü bireye düşen gelirin birinci fıkrada belirtilen gelir ölçütünü aşması halinde, en geç üç ay içinde söz konusu gelir değişikliğini il müdürlüğüne bildirmek zorundadır. Gelir değişikliğinin bu tarihten sonra bildirilmesi ya da il müdürlüğünce bu durumun resen tespit edilmesi halinde bakım hizmeti verilmesi dolayısıyla yapılan ödemeler durdurulur ve söz konusu değişikliğin meydana geldiği tarihten itibaren, yasal faizi ile birlikte, bakım hizmetini veren kişiden genel hükümlere göre takip ve tahsil edilir.
-Ek Madde 8- (Ek: 1/7/2005-5378/30 md.)
-İşitme ve konuşma özürlülerine gerek görüldüğü hâllerde tercümanlık yapmak üzere illerde işaret dili bilen personel görevlendirilir. Personelin işaret lisanı öğrenmeleri için gerekli kursların düzenlenmesi sağlanır. Bu personelin görev ve yetkileri, çalışma koşulları ile ilgili usûl ve esaslar Özürlüler İdaresi Başkanlığı ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğünün müştereken hazırlayacakları yönetmelikle belirlenir.
-5810 5811
+Ek Madde 7- (Ek: 1/7/2005-5378/30 md.; Değişik: 1/2/2007- 5579/2 md.) (1)
+Her ne ad altında olursa olsun her türlü gelirleri toplamı esas alınmak suretiyle; kendilerine ait veya bakmakla yükümlü olduğu birey sayısına göre kendilerine düşen ortalama aylık gelir tutarı bir aylık net asgarî ücret tutarının 2/3’ünden daha az olan bakıma muhtaç engellilere, resmî veya özel bakım merkezlerinde ya da ikametgâhlarında bakım hizmeti verilmesi sağlanır.
+Bakıma muhtaç engellilere sunulacak bakım hizmetlerinin kapsamına, bakım hizmetinden yararlanabileceklerin başvuru şekline ve bu hizmetleri verecek olan gerçek ve tüzel kişilerin izin, çalışma, denetim, ücretlendirme ile bakım hizmeti karşılığı yapılacak ödemelere ilişkin usûl ve esaslar; Aile ve Sosyal Politikalar Bakanlığının koordinatörlüğünde, Maliye Bakanlığı ve Sağlık Bakanlığınca müştereken çıkarılacak yönetmelikle belirlenir.
+Bakıma muhtaç engellilere sunulacak bakım hizmetinin karşılığı olarak belirlenecek kişi başına aylık bakım ücreti tutarı, iki aylık net asgarî ücretten fazla olamaz.
+Bakıma muhtaç engellilerden Kurumca ve diğer resmî kurumlarca bakılanlar dışında kalanlara ilişkin bakım ücreti, bu amaçla Kurum bütçesine konulacak ödeneklerden karşılanır.
+Bakıma muhtaç engellilere, ücretleri Kurum bütçesinden karşılanmak suretiyle sağlanacak bakım hizmetleri 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu hükümlerine tâbi olmaksızın temin edilir.
+(Ek fıkra: 4/7/2012-6353/12 md.) Bakıma muhtaç engelli ve engelliye evde ikametgâhında bakım hizmeti veren kişi; engelli bireye düşen gelirin birinci fıkrada belirtilen gelir ölçütünü aşması halinde, en geç üç ay içinde söz konusu gelir değişikliğini il müdürlüğüne bildirmek zorundadır. Gelir değişikliğinin bu tarihten sonra bildirilmesi ya da il müdürlüğünce bu durumun resen tespit edilmesi halinde bakım hizmeti verilmesi dolayısıyla yapılan ödemeler durdurulur ve söz konusu değişikliğin meydana geldiği tarihten itibaren, yasal faizi ile birlikte, bakım hizmetini veren kişiden genel hükümlere göre takip ve tahsil edilir.
+–––––––––––––––––
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “özürlülere” ibaresi “engellilere”, ikinci fıkrasında yer alan “özürlülere” ve “Kurumun koordinatörlüğünde, Maliye Bakanlığı, Sağlık Bakanlığı ve Özürlüler İdaresi Başkanlığınca” ibareleri sırasıyla “engellilere” ve “Aile ve Sosyal Politikalar Bakanlığının koordinatörlüğünde, Maliye Bakanlığı ve Sağlık Bakanlığınca”, üçüncü fıkrasında yer alan “özürlülere” ibaresi “engellilere”, dördüncü fıkrasında yer alan “özürlülerden” ibaresi “engellilerden”, beşinci fıkrasında yer alan “özürlülere” ibaresi “engellilere”, altıncı fıkrasında yer alan “özürlü” ve “özürlüye” ibareleri sırasıyla “engelli” ve “engelliye” şeklinde değiştirilmiştir.
+5810
+Ek Madde 8- (Ek: 1/7/2005-5378/30 md.) (1)
+İşitme ve konuşma engellilerine gerek görüldüğü hâllerde tercümanlık yapmak üzere illerde işaret dili bilen personel görevlendirilir. Personelin işaret lisanı öğrenmeleri için gerekli kursların düzenlenmesi sağlanır. Bu personelin görev ve yetkileri, çalışma koşulları ile ilgili usûl ve esaslar Aile ve Sosyal Politikalar Bakanlığınca hazırlanacak yönetmelikle belirlenir.
+–––––––––––––––––
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “özürlülerine” ve “Özürlüler İdaresi Başkanlığı ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğünün müştereken hazırlayacakları” ibareleri sırasıyla “engellilere” ve “Aile ve Sosyal Politikalar Bakanlığınca hazırlanacak” şeklinde değiştirilmiştir.
+5811
 YEDİNCİ BÖLÜM
 Geçici Hükümler
 Geçici Madde 1 – Bu Kanunun yayımı tarihinde Sağlık ve Sosyal Yardım Bakanlığı Sosyal Hizmetler Genel Müdürlüğünce işletilen veya yatırım programlarında yer alıp halen inşaatları, sürdürülen kreş ve gündüz bakımevleri, huzurevleri, rehabilitasyon merkezleri; Devlet yatırım programları çerçevesinde yaptırılmış bulunan ya da Kanun yürürlüğe girdiği tarihte inşa edilmekte olan çocuk bakım ve yetiştirme yurtları; İl Korunmaya Muhtaç Çocukları Koruma Birlikleri ve bunlara bağlı çocuk bakım ve yetiştirme yurtları ile her türlü kuruluşları; varlığı sona erdirilen Türkiye Çocuk Esirgeme Kurumunun Genel Merkezi, il merkezi,bağımsız şube, şube, bağımsız kol ve kollarına ait tüm büro, kuruluş ve işletmeleri; bunların döner sermayeleri; tüm taşınır taşınmaz malları, alacak ve borçları ile Kuruma devrolunur.
@@ -118,8 +128,8 @@ Mahkeme kararının kesinleşmesinden başlayarak otuz gün içinde mahkemece te
 Kurum tarafından yapılan tebligat üzerine Kurumca tespit edilen kira bedeline uygun olarak kira sözleşmesi yapılmış olması yukarıdaki fıkralarda belirtilen itiraz hakkının kullanılmasına engel teşkil etmez. Bu takdirde mahkeme kararının kesinleşmesi ile tesbit edilen kira mukavele tarihinden geçerli olur.
 Bu davalar diğer davalara nazaran öncelikle görülür.
 Geçici Madde 8 – (Ek : 21/1/2000 - KHK - 594/8 md.) Ek (1) sayılı listede yer alan kadro iptal edilerek 190 sayılı Kanun Hükmünde Kararnameye bağlı (I) sayılı cetvelin Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğüne ait bölümünden çıkarılmış ve ekli (2) ve (3) sayılı listede yer alan kadrolar ihdas edilerek adı geçen Genel Müdürlüğü ait bölüme eklenmiştir.
-Geçici Madde 9 – (Ek : 4/7/2012-6353/13 md.)
-Bu maddenin yürürlüğe girdiği tarihten önce bu Kanunun ek 7 nci maddesine istinaden kendilerine özürlüye ikametgâhında bakım hizmeti vermesi dolayısıyla ödeme yapılmış kişilere anılan maddenin birinci fıkrasında belirtilen gelir ölçütünün aşılması nedeniyle yersiz olarak ödenen tutarlar birinci fıkrada belirtilen gelir ölçütünün geçildiği oranda yasal faizi ile birlikte takip ve tahsil edilir. Söz konusu gelir ölçütünün bir kat veya daha fazla aşılması halinde yapılan yersiz ödemenin tamamı yasal faizi ile birlikte tahsil edilir. Bu maddenin yürürlüğe girdiği tarihten önce bu kapsamda tahsil edilmiş olan tutarlar bakımından ilgili kişiler lehine hiçbir şekilde alacak hakkı doğmaz.
+Geçici Madde 9 – (Ek : 4/7/2012-6353/13 md.) (1)
+Bu maddenin yürürlüğe girdiği tarihten önce bu Kanunun ek 7 nci maddesine istinaden kendilerine engelliye ikametgâhında bakım hizmeti vermesi dolayısıyla ödeme yapılmış kişilere anılan maddenin birinci fıkrasında belirtilen gelir ölçütünün aşılması nedeniyle yersiz olarak ödenen tutarlar birinci fıkrada belirtilen gelir ölçütünün geçildiği oranda yasal faizi ile birlikte takip ve tahsil edilir. Söz konusu gelir ölçütünün bir kat veya daha fazla aşılması halinde yapılan yersiz ödemenin tamamı yasal faizi ile birlikte tahsil edilir. Bu maddenin yürürlüğe girdiği tarihten önce bu kapsamda tahsil edilmiş olan tutarlar bakımından ilgili kişiler lehine hiçbir şekilde alacak hakkı doğmaz.
 SEKİZİNCİ BÖLÜM
 Yürürlük ve Yürütme
 Yürürlük:
@@ -132,4 +142,6 @@ Madde 40 – Bu Kanunu Bakanlar Kurulu yürütür.
 1 – 14/3/1991 tarih ve 3703 sayılı Kanunun Geçici Maddeleri
 Geçici Madde 2 – Bu Kanun ile çıkarılması öngörülen yönetmelikler yürürlüğe girinceye kadar mevcut yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 Geçici Madde 3 – Bu Kanunda öngörülen protokoller yürürlüğe girinceye kadar mevcut protokollerin uygulanmasına devam olunur.
+–––––––––––––––––
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “özürlüye” ibaresi “engelliye” şeklinde değiştirilmiştir.
 5812-2/5814

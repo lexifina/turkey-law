@@ -99,3 +99,4 @@ b) Bizzat kullanılmak maksadıyla imal ve ithal edilen cihazlardan, test sonucu
 a. Güvenlik Sertifikası | 25.00 TL
 b. Güvenlik sertifikasına yönelik talep halinde yapılan ölçüm (ölçüm başına) | 500.00 TL
 c. Ölçüm yetki belgesi (iki yıl süreli) | 1,500.00 TL
+10416-1

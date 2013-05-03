@@ -4,10 +4,6 @@ a) Belde sakinlerinin mahallî müşterek nitelikteki ihtiyaçlarını karşıla
 b) Kanunların belediyeye verdiği yetki çerçevesinde yönetmelik çıkarmak, belediye yasakları koymak ve uygulamak, kanunlarda belirtilen cezaları vermek.
 c) Gerçek ve tüzel kişilerin faaliyetleri ile ilgili olarak kanunlarda belirtilen izin veya ruhsatı vermek.
 d) Özel kanunları gereğince belediyeye ait vergi, resim, harç, katkı ve katılma paylarının tarh, tahakkuk ve tahsilini yapmak; vergi, resim ve harç dışındaki özel hukuk hükümlerine göre tahsili gereken doğal gaz, su, atık su ve hizmet karşılığı alacakların tahsilini yapmak veya yaptırmak.
-–––––––––––––––––––––
-(1) Bu maddenin birinci fıkrasının (b) bendinde yer alan "Okul öncesi eğitim kurumları açabilir;..." ifadesi Anayasa Mahkemesi’nin 24/1/2007 tarihli ve E. 2005/95, K. 2007/5 sayılı Kararı ile iptal edilmiştir.
-(2)12/11/2012 tarihli ve 6360 sayılı Kanunun 17 nci maddesiyle bu bendin birinci cümlesinde yer alan “sağlıkla ilgili her türlü tesisi açabilir ve işletebilir;” ibaresinden sonra gelmek üzere “mabetlerin yapımı, bakımı, onarımını yapabilir;” ibaresi eklenmiştir.
-9474
 e) Müktesep haklar saklı kalmak üzere; içme, kullanma ve endüstri suyu sağlamak; atık su ve yağmur suyunun uzaklaştırılmasını sağlamak; bunlar için gerekli tesisleri kurmak, kurdurmak, işletmek ve işlettirmek; kaynak sularını işletmek veya işlettirmek.
 f) Toplu taşıma yapmak; bu amaçla otobüs, deniz ve su ulaşım araçları, tünel, raylı sistem dâhil her türlü toplu taşıma sistemlerini kurmak, kurdurmak, işletmek ve işlettirmek.
 g) Katı atıkların toplanması, taşınması, ayrıştırılması, geri kazanımı, ortadan kaldırılması ve depolanması ile ilgili bütün hizmetleri yapmak ve yaptırmak.
@@ -17,6 +13,7 @@ j) Toptancı ve perakendeci hâlleri, otobüs terminali, fuar alanı, mezbaha, i
 k) Vergi, resim ve harçlar dışında kalan dava konusu uyuşmazlıkların anlaşmayla tasfiyesine karar vermek.
 l) Gayrisıhhî müesseseler ile umuma açık istirahat ve eğlence yerlerini ruhsatlandırmak ve denetlemek.
 m) Beldede ekonomi ve ticaretin geliştirilmesi ve kayıt altına alınması amacıyla izinsiz satış yapan seyyar satıcıları faaliyetten men etmek, izinsiz satış yapan seyyar satıcıların faaliyetten men edilmesi sonucu, cezası ödenmeyerek iki gün içinde geri alınmayan gıda maddelerini gıda bankalarına, cezası ödenmeyerek otuz gün içinde geri alınmayan gıda dışı malları yoksullara vermek.
+9474-1
 n) Reklam panoları ve tanıtıcı tabelalar konusunda standartlar getirmek.
 o) Gayrisıhhî işyerlerini, eğlence yerlerini, halk sağlığına ve çevreye etkisi olan diğer işyerlerini kentin belirli yerlerinde toplamak; hafriyat toprağı ve moloz döküm alanlarını; sıvılaştırılmış petrol gazı (LPG) depolama sahalarını; inşaat malzemeleri, odun, kömür ve hurda depolama alanları ve satış yerlerini belirlemek; bu alan ve yerler ile taşımalarda çevre kirliliği oluşmaması için gereken tedbirleri almak.
 p) Kara, deniz, su ve demiryolu üzerinde işletilen her türlü servis ve toplu taşıma araçları ile taksi sayılarını, bilet ücret ve tarifelerini, zaman ve güzergâhlarını belirlemek; durak yerleri ile karayolu, yol, cadde, sokak, meydan ve benzeri yerler üzerinde araç park yerlerini tespit etmek ve işletmek, işlettirmek veya kiraya vermek; kanunların belediyelere verdiği trafik düzenlemesinin gerektirdiği bütün işleri yürütmek.

@@ -1,5 +1,7 @@
 MADDE 20- (1) Yurtdışı teşkilatı, Cumhuriyet Bayramı ve dini bayramların birinci günü ile Bakanlıkça belirlenen istisnalar dışında, mahalli tatil günlerinde tatil edilir.
 (2) Bakan, Müsteşar ve her kademedeki Bakanlık yöneticileri, sınırlarını açıkça belirtmek şartıyla yetkilerinden bir kısmını alt kademelere devredebilir. Yetki devri, yetkisini devreden amirin sorumluluğunu ortadan kaldırmaz.
+__________________
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “sakatlık” ibaresi “engellilik” olarak değiştirilmiştir.
 10647
 (3) Meslek memurları ile konsolosluk ve ihtisas memurlarının sicillerinin verilmesinde, mesleğin özelliklerine göre, genel hükümlere ilave düzenlemeler yönetmelikle yapılabilir.
 (4) Bakanlık, kendi yapacağı yarışma sınavları ile alacağı memurlar başta olmak üzere, yurtiçi ve yurtdışı teşkilatında istihdam edeceği personel ve eşleri için güvenlik soruşturması yaptırabilir. Güvenlikle bağlantılı gerekçelerle, Bakanlık memurları evlenmeden önce Bakanlığın iznini almakla yükümlüdür. İzin almadan evlenen memurlar istifa etmiş sayılır.

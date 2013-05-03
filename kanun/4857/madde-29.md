@@ -11,3 +11,4 @@ Fesih bildirimleri, işverenin toplu işçi çıkarma isteğini bölge müdürl�
 İşyerinin bütünüyle kapatılarak kesin ve devamlı suretle faaliyete son verilmesi halinde, işveren sadece durumu en az otuz gün önceden ilgili bölge müdürlüğüne ve Türkiye İş Kurumuna bildirmek ve işyerinde ilan etmekle yükümlüdür. İşveren toplu işçi çıkarmanın kesinleşmesinden itibaren altı ay içinde aynı nitelikteki iş için yeniden işçi almak istediği takdirde nitelikleri uygun olanları tercihen işe çağırır.
 Mevsim ve kampanya işlerinde çalışan işçilerin işten çıkarılmaları hakkında, işten çıkarma bu işlerin niteliğine bağlı olarak yapılıyorsa, toplu işçi çıkarmaya ilişkin hükümler uygulanmaz.
 İşveren toplu işçi çıkarılmasına ilişkin hükümleri 18, 19, 20 ve 21 inci madde hükümlerinin uygulanmasını engellemek amacıyla kullanamaz; aksi halde işçi bu maddelere göre dava açabilir.
+8434-1

@@ -5,4 +5,4 @@ Yayımlandığı R.Gazete : Tarih : 27/5/1983 Sayı : 18059
 Yayımlandığı Düstur : Tertip : 5 Cilt : 22 Sayfa : 355
 BİRİNCİ BÖLÜM
 Amaç, Kapsam, Tanımlar ve Genel Esaslar
-Amaç:
+Amaç: (3)
