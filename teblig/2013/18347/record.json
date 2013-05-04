@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.18347",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU İKTİSADİ TEŞEBBÜSLERİ VE BAĞLI ORTAKLIKLARININ KADRO VE POZİSYON İPTAL VE İHDAS İŞLEMLERİNE İLİŞKİN TEBLİĞ (2013/3)",
+  "number": "18347",
+  "issuer": "Devlet Personel Başkanlığının bağlı bulunduğu Bakan",
+  "path": "teblig/2013/18347",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18347&MevzuatTertip=5",
+  "source_sha256": "2852f2b76686bd9f6a03488adc42540d6069c9288e553976733811a74286aa07",
+  "source_bytes": 16299,
+  "published": "2013-05-04",
+  "gazette": "28637",
+  "in_force": "2013-05-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.05.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 674,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18347%20ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

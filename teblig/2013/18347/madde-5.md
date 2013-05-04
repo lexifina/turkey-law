@@ -1,0 +1,5 @@
+Başvuru şekli ve gerekli belgeler
+MADDE 5 – (1) Kuruluşların başvurularında; kadro ve pozisyon iptal ve ihdasını gerektiren sebepler, bilgi ve belgeler yer alır. Taleplerde, ekli Ek-I, Ek-II ve Ek-III formlar kullanılır ve ekli formların iptal sütununda yer alan kadro ve pozisyonların boş olduğu belirtilir.
+(2) Kuruluşların kadro ve pozisyon ihdasında, yeterli sayıda bulunması halinde boş kadro ve pozisyonları iptal olarak karşılık gösterilir.
+(3) Yeni bir kuruluş, müessese, tesis, işletme, genel müdür yardımcılığı, daire başkanlığı, bölge müdürlüğü, müdürlük, şeflik gibi aynı ve daha üst düzeyde birim kurulması, kaldırılması veya mevcut kuruluş ve birimlerde değişiklik yapılması sebebiyle mevcut kadro ve pozisyonlarda değişiklik yapılması veya bunlar için yeni kadro ve pozisyon iptal ve ihdas edilmesine ilişkin başvurulara, bu işlemlere ilişkin ilgisine göre Bakanlar Kurulu kararı, Yüksek Planlama Kurulu kararı, Yönetim Kurulu kararı ve ilgili kuruluşların görüşlerinin birer örneği eklenir.
+(4) Bu maddede belirtilen bilgi ve belgeler ile Ek-I, Ek-II ve Ek-III formlar ve ayrıntılı gerekçesi olmayan veya eksik olan başvurular değerlendirilmez.
