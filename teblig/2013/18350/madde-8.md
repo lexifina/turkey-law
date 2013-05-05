@@ -1,0 +1,3 @@
+Soru formları ve bilgilerin toplanması
+MADDE 8 – (1) Soruşturma için gerekli bilgilerin temini amacıyla, söz konusu maddenin yerli üreticilerine, soruşturma açılış safhasında ilgili ürünün tespit edilebilen Türkiye’deki ithalatçılarına ve yabancı üretici/ihracatçılarına soruşturmanın açılışına ilişkin bildirim gönderilecektir. Bildirimi alamayan tarafların soru formunu Ekonomi Bakanlığına ait Ticaret Politikası Savunma Araçları internet sayfasındaki (www.tpsa.gov.tr) ilgili bölümden indirmeleri mümkün bulunmaktadır.
+(2) Ayrıca, ilgili ülkelerdeki üretici ve ihracatçıların bilgilendirilmesini kolaylaştırmak ve çabuklaştırmak amacıyla ÇHC’nin Ankara’daki Büyükelçiliğine bildirim yapılacaktır.
