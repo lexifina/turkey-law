@@ -1,0 +1,2 @@
+Başvuru
+MADDE 2 – (1) Yerli üreticiler tarafından, 1 inci maddede belirtilen korunma önleminin süresinin uzatılması talebiyle İthalat Genel Müdürlüğüne (Genel Müdürlük) başvuruda bulunulmuştur. Söz konusu başvurunun gizli olmayan özetine Bakanlığın internet sitesi (http://www.ekonomi.gov.tr) “Ticaret Politikası Savunma Araçları” sayfasında yer alan “Korunma Önlemleri/Yürüyen Soruşturmalar” bağlantısından ulaşılabilmektedir.

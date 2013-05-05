@@ -1,0 +1,7 @@
+Korunma Önlemleri Dairesi
+İnönü Bulvarı No: 36, 06510 Emek/ANKARA
+Tel: (+90 312) 204 7703 Faks: (+90 312) 212 87 65
+E-Ağ: http://www.ekonomi.gov.tr
+E-Posta: korunma@ekonomi.gov.tr
+İlgili taraflar
+MADDE 6 – (1) Ekte yer alan “İlgili Taraf Başvuru Formu”nu doldurarak bu Tebliğin yayımı tarihinden itibaren yirmi (20) gün içinde Genel Müdürlüğe gönderenler soruşturma kapsamında ilgili taraf olarak kabul edilirler.

@@ -1,0 +1,2 @@
+Korunma önlemi
+MADDE 1 – (1) 3/6/2005 tarihli ve 25834 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin Tebliğ (Tebliğ No: 2005/5) gereğince 7009.91 gümrük tarife alt pozisyonlu çerçevesiz cam aynaların İran İslam Cumhuriyeti menşeli olanlarının ithalatında 4 (dört) yıl süre ile korunma önlemi olarak miktar kısıtlaması uygulanmaya başlanmıştır. 13/2/2010 tarihli ve 27492 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin Tebliğ (Tebliğ No: 2010/6) ile önlem dört yıl daha uygulanmak üzere uzatılmıştır.
