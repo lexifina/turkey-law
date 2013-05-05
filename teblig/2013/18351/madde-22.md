@@ -1,0 +1,3 @@
+Esas soruşturmada tespit edilen damping marjları
+MADDE 22 – (1) Soruşturma konusu üründeki mevcut dampinge karşı önlemlerin hukuki ve idari altyapısını teşkil eden damping soruşturması çerçevesinde ilgili taraflardan elde edilen bilgi ve belgeler temelinde tespit edilen damping marjları incelenmiştir. Esas soruşturmada tespit edilen damping marjları, önlemin uygulanmadığı ortamda ihracatçı firmaların davranışlarını ve yapmaları muhtemel olan dampingi göstermesi açısından önem taşımaktadır.
+(2) Buna göre, 2002 yılında yürütülen esas soruşturmada sentetik veya suni devamsız liflerden mensucat için damping marjları ÇHC menşeli olanlarına yönelik olarak CIF ihraç fiyatının %87’si olarak hesaplanmıştır.

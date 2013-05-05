@@ -1,0 +1,2 @@
+Türkiye pazarının önemi
+MADDE 21 – (1) Önlem konusu ürüne yönelik olarak Türkiye’nin iç pazar büyüklüğünün ve büyüme potansiyelinin önlem konusu ülke için cazip bir seviyede olduğu ve Türkiye’nin ilgili üründeki tüketim endeksinin 2009-2011 yılları arasında önemli ölçüde arttığı değerlendirilmektedir. Tüketim endeksinin artmasının başlıca nedenlerinden biri, hazır giyim sektörünün önümüzdeki yıllar boyunca büyüme yaşayacağı beklentisidir.

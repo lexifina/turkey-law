@@ -1,0 +1,3 @@
+Maddenin soruşturma konusu ülkeden ithalatı
+MADDE 12 – (1) Soruşturmaya konu maddenin ÇHC’den ithalatı incelendiğinde 2009-2011 yıllarında sırasıyla 9.439 Ton, 15.494 Ton ve 11.580 Ton olarak gerçekleştiği görülmüştür.
+(2) Mevcut önleme rağmen ÇHC’den ithal edilen mensucatın birim fiyatları 2009, 2010 ve 2011 yıllarında sırasıyla 4,95Kg/ABD Doları, 4,75 Kg/ABD Doları ve 4,29 Kg/ABD Doları olarak gerçekleşmiştir. Buna göre 2009-2011 döneminde birim fiyatın yaklaşık % 26 oranında gerilemiş olması, birim fiyatların ürünün kompozisyonu konusundaki değerlendirmede önem arz ettiği düşüncesini ortaya çıkarmaktadır.

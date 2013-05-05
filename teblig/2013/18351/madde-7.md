@@ -1,0 +1,6 @@
+İKİNCİ KISIM
+Soruşturma Konusu Ürün ve Benzer Ürün
+Soruşturma konusu ürün ve benzer ürün
+MADDE 7 – (1) Soruşturma konusu madde, 55.13, 55.14, 55.15 ve 55.16 gümrük tarife pozisyonlarında (GTP) yer alan “sentetik veya suni devamsız liflerden dokunmuş mensucat”tır.
+(2) Yerli üretim dalı (YÜD) tarafından üretilen sentetik veya suni devamsız liflerden dokunmuş mensucat ile soruşturma konusu ülke menşeli sentetik veya suni devamsız liflerden dokunmuş mensucatın benzer ürün olduğu tespiti mevcut önlemin yürürlüğe girmesini sağlayan (esas soruşturma) yapılmıştır. Bu soruşturma ise gerek yerli üretim dalı tarafından üretilen ürünler gerekse soruşturmaya konu ülke menşeli ürün arasında fiziksel özellikleri, işlevsel özellikleri, kullanım alanları, dağıtım kanalları, kullanıcıların algılaması ve birbirini ikame edebilmeleri açısından iki ürünün benzer ürün olma durumunu ortadan kaldıracak bir değişiklik olduğuna dair herhangi bir görüş alınmamıştır.
+(3) Soruşturma konusu eşya ile ilgili açıklamalar genel içerikli olup uygulamaya esas olan GTP karşılığı eşya tanımıdır. Bununla beraber, soruşturma konusu eşyanın Türk Gümrük Tarife Cetveli’nde yer alan tarife pozisyonunda ve/veya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına halel getirmez.
