@@ -1,0 +1,4 @@
+Ön yeterlik ve isteklilerin belirlenmesi
+Madde 42 – (1) Danışmanlık hizmet alım kapsamında yapılacak ihalelerde ilan yapılması zorunlu değildir. Ancak idare işin özelliğinden veya teknolojik özelliklerinden dolayı 11 inci maddede belirlenen süre ve esaslar dahilinde ön yeterlik ilanı verebilir.
+(2) Ön yeterlik ilânında adayların genel uygunluklarını, malî kapasitelerini ve teknik yeteneklerini değerlendirmek üzere belirlenen ön yeterlik kriterlerine ilişkin bilgiler yer alır. Ayrıca bu ilânda, kısa listeye alınmak ve teklif vermek üzere davet edilecek adayların sayısı veya sayı aralığı belirtilir.
+(3) Ön yeterlik ilânı sonucunda başvuru sunan adayların, ön yeterlik dokümanı ve ilânında belirtilen ön yeterlik kriterlerine göre değerlendirilmesi sonucunda, yeterlikleri tespit edilenler arasından en az üç en fazla on adayın yer alacağı kısa liste oluşturulur.

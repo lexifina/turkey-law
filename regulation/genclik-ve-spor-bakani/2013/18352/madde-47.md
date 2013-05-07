@@ -1,0 +1,2 @@
+Bilgi ve belgeleri açıklama yasağı
+MADDE 47 – (1) Bu Yönetmeliğin uygulanmasında görevliler, ihale süreci ile ilgili bütün işlemleri, isteklilerin iş ve işlemleri ile tekliflerin teknik ve mali yönlerine ilişkin olarak gizli kalması gereken bilgi ve belgelerle, işin yaklaşık maliyetini ifşa edemezler, kendilerinin veya üçüncü şahısların yararına kullanamazlar. Aksine hareket edenler hakkında ilgisine göre yasal mevzuatta belirtilen müeyyideler uygulanır.

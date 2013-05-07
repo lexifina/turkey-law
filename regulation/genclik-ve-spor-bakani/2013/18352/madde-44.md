@@ -1,0 +1,5 @@
+Tekliflerin hazırlanması ve verilmesi
+Madde 44 – (1) İhale konusu danışmanlık hizmeti için teklif edilen bedelin yer aldığı teklif mektubu ile istenmiş ise geçici teminat isteklinin malî teklifini oluşturur. Bu teklif, üzerine malî teklif olduğu yazılmak suretiyle bir zarfa konulur. Teklif mektuplarının 25 inci maddede belirtilen şartlara uygun olması zorunludur.
+(2) Teknik değerlendirme için istenilen diğer bütün belgeler isteklinin teknik teklifini oluşturur. Bu teklif, üzerine teknik teklif olduğu yazılmak suretiyle ayrı bir zarfa konulur.
+(3) Her iki zarfın üzerine de isteklinin adı, soyadı veya ticaret unvanı, tebligata esas açık adresi ve teklifin hangi işe ait olduğu yazılır. Zarfların yapıştırılan yerleri istekli tarafından imzalanır ve mühürlenir.
+(4) Malî ve teknik teklife ait zarflar birlikte ayrı bir zarf veya paket içerisine konularak, üzerine isteklinin adı, soyadı veya ticaret unvanı, tebligata esas açık adresi, teklifin hangi işe ait olduğu ve ihaleyi yapan idarenin açık adresi yazılmak suretiyle sunulur.
