@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37118",
+  "decision_date": "2013-05-07",
+  "source_id": 6990,
+  "chamber": "2",
+  "file_number": "36742",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/6990/",
+  "source_sha256": "f5a7c06b11a1df738306b7804b2685db5b23c40e4d54185faf797ef2bae01570",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
