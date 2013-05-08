@@ -1,0 +1,79 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "145",
+  "decision_number": "16/535",
+  "date": "2013-05-08",
+  "title": "Kurulumuzun 08.05.2013 Tarih ve 16/535 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/145",
+  "source_sha256": "f087bfbceae01dce0d1b371170d63d39be2f59507c15f15a2e9dc0ec8541d657",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 145,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1) Kurulumuzun 08.05.2013 tarih ve 16/535 sayılı Kararı;",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2013-05-08",
+    "source_clauses": [
+      "1) Kurulumuzun 08.05.2013 tarih ve 16/535 sayılı Kararı;",
+      "31.12.2013 tarihine kadar",
+      "31.12.2013 tarihine kadar"
+    ],
+    "deferred_start": "none accepted; later dates are explicit end/deadline clauses",
+    "source_deadline_dates": [
+      "2013-12-31"
+    ]
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "da5f5dfd-6b0e-4f02-9ff2-19000c98925e",
+    "contentSource": "IlkeKarari",
+    "contentID": 145,
+    "tur": "Kurul Kararı",
+    "title": "Kurulumuzun 08.05.2013 Tarih ve 16/535 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2013-05-08T00:00:00",
+    "kurulKararTarih": "08.05.2013",
+    "kurulToplantiNo": "16/535",
+    "bultenYili": 2013,
+    "bultenNo": 15,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "130:Yatırım Hizmetleri ve Faaliyetleri İle Yan Hizmetlere İlişkin Esaslar Hakkında Tebliğ",
+    "baglantiliTebligler": [
+      {
+        "key": 130,
+        "value": "Yatırım Hizmetleri ve Faaliyetleri İle Yan Hizmetlere İlişkin Esaslar Hakkında Tebliğ"
+      }
+    ],
+    "ilgiliKonularStr": "2:Yatırım Hizmetleri ve Faaliyetleri;52:Kaldıraçlı Alım Satım İşlemleri",
+    "ilgiliKonular": [
+      {
+        "key": 2,
+        "value": "Yatırım Hizmetleri ve Faaliyetleri"
+      },
+      {
+        "key": 52,
+        "value": "Kaldıraçlı Alım Satım İşlemleri"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/145",
+    "linkTarget": "_blank"
+  }
+}
