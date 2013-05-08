@@ -1,0 +1,4 @@
+EXPO Konseyinin yapısı, görev ve yetkileri
+MADDE 8 – (1) EXPO Konseyi, Kanunun 5 inci maddesinde belirtilen kuruluşların temsilcilerinden oluşur ve başkanı Antalya Valisidir.
+(2) EXPO Konseyi; EXPO 2016 Antalya’nın başarılı bir şekilde gerçekleştirilmesi amacıyla gerekli gördüğü tavsiye kararlarını alır, hazırlık çalışmaları kapsamında yıllık program, bütçe, yurt içi ve yurt dışı tanıtım faaliyetleri ile gerekli görülen diğer konularda görüşlerini ve tavsiyelerini bildirir, Yönetim Kurulu ile Genel Sekreterliğin çalışmalarını izler.
+(3) Kuruluşlar, Konsey üyesi olmak üzere görevlendireceği temsilcilerini Ajansa bildirir. EXPO Konseyi temsilcilerinin üyelikleri, kendilerinin isteği üzerine ya da kurumlarının talebi ile kurum adına temsilci değişikliğinin talep edilmemesi halinde faaliyetler sona erene kadar devam eder.
