@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4398",
+  "decision_date": "2013-05-09",
+  "title": "Güvence Bedelleri ile Uygulamaya İlişkin Usul ve Esaslar'ın 2 nci maddesine ilave üç fıkra eklenmesine ilişkin Kurul Kararı.",
+  "resmi_gazete_date": "2013-05-20",
+  "resmi_gazete_number": "28652",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YKCWcAzGnjw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YKCWcAzGnjw="
+  ],
+  "source_sha256": "3fd68d0088427c93bf79ff8653ecc5231a36354a7d689a3dccdda595ef8c65d7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-05-09",
+  "law_text_complete": false
+}
