@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4400",
+  "decision_date": "2013-05-09",
+  "title": "Dağıtım Lisansı Sahibi Tüzel Kişiler ve Görevli Perakende Satış Şirketlerinin Tarife Uygulamalarına İlişkin Usul ve Esaslar'ın (Usul ve Esaslar) 26 ncı maddesinin birinci ve ikinci fıkralarının değiştirilmesine ilişkin Kurul Kararı",
+  "resmi_gazete_date": "2013-05-20",
+  "resmi_gazete_number": "28652",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OApDZOuoi4s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OApDZOuoi4s="
+  ],
+  "source_sha256": "883dea5c1b622c10a3d2cd6767b394936df5b605bd040d1db22f66a57e3542e9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-05-09",
+  "law_text_complete": false
+}
