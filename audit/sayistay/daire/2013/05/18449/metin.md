@@ -1,0 +1,3 @@
+Mükerrer İmalat Yapılması.
+
+	…. Ltd. Şti. taahhüdünde bulunan … TL anahtar teslim götürü fiyat bedelli “…Sosyal Tesis Tadilatı İşi”ne ait mahal listesine göre saten alçı üzerine iki kat boya imalatı yapılan yerlere mükerrer olarak duvar kağıdı yapılması ve duvar kağıdı yapılan yerlerin minha edilmemesi nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL tutarında kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizi … Ltd. Şti.’den … tarih ve … nolu muhasebe işlem fişi ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
