@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10243",
+  "decision_date": "2013-05-09",
+  "source_id": 16921,
+  "chamber": "1",
+  "ilam_number": "143",
+  "item_number": 23,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16921/",
+  "source_sha256": "38187e7c3ec59d794f8fe0cfd35b6ea277d0b17ba4fc2f87f5bc2c53c9fd796c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
