@@ -1,0 +1,9 @@
+Serbest Avukatlara Vekalet Ücreti Ödenmesi.
+
+	… Genel Müdürlüğünün kadrolu avukatları marifetiyle yapılması gereken işlerin vekalet ücreti ödenerek serbest avukatlara yaptırılması nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda,
+
+	4734 sayılı Kamu İhale Kanunu’nun “Danışmanlık Hizmetleri” başlıklı 48’inci maddesinde;
+
+	“(Değişik birinci fıkra: 30/7/2003-4964/30 md.) ÇED raporu hazırlanması, plân, yazılım geliştirme, tasarım, teknik şartname hazırlanması, denetim gibi teknik, malî, hukukî veya benzeri alanlarda niteliği itibarıyla kapsamlı ve karmaşık olduğu, özel uzmanlık ve deneyim gerektirdiği idarece tespit edilen hizmetler, danışmanlık hizmet sunucularından alınabilir. Danışmanlık hizmet ihaleleri bu Kanun hükümlerine göre yapılır. Ancak, aday ve istekli seçimi ile değerlendirilmesinde bu bölümde belirtilen özel hükümler uygulanır. Danışmanlık hizmetleri, bu bölümde yer alan hükümlere uygun olarak sadece belli istekliler arasında ihale usulü ile ihale edilir.” denilmektedir.
+
+	Avukatlık hizmet sözleşmesinden kaynaklanan söz konusu ödeme, özel eğitim, ihtisas ve izin gerektiren avukatlık hizmetinin, sadece bu nitelikleri taşıyanlarca yerine getirilmesi gereken nitelikli bir hizmet olması nedeniyle bu niteliklere haiz yeterli kamu görevlisi olmaması nedeni ile zorunlu hukuki hizmetlerin çözümü ile kamu hizmetlerinin sürekliliği ve aksamadan yürütülmesini temin amacıyla İçişleri Bakanlığı’ndan izin alınarak hizmet alımı olarak gerçekleştirilmiştir. Bunların yanı sıra sözleşme hükümlerine göre alınan hizmetin karşılığı olan ücretin ödenmesi de zorunlu olduğundan …. Genel Müdürlüğünün kadrolu avukatları marifetiyle yapılması gereken işlerin vekalet ücreti ödenerek serbest avukatlara yaptırılması konusunda ilişilecek bir husus bulunmadığına oy birliğiyle karar verildi.
