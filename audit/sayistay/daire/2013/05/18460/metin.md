@@ -1,0 +1,3 @@
+Geçici Teminatın Gelir Kaydedilmemesi.
+
+	… Genel Müdürlüğü mülkiyetinde bulunan …. Mahallesinde yer alan … ada …parsel nolu arsa satışına ilişkin olarak, yüklenicinin arsa bedelini Şartnamede belirlenen süre içerisinde yatırmamasına rağmen idare tarafından geçici teminatın irat kaydedilmemesi nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı ahizi …’ndan … tarih ve … nolu muhasebe işlem fişi ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
