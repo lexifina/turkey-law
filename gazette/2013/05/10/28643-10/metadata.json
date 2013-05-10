@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-05-10",
+  "issue": "28643",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 3/5/2013 Tarihli ve 2013/81 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130510-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130510.htm",
+  "index_sha256": "f1cd2e662210379d8af175c0871800ad6293eccc1794bb948a71faee21735c3d",
+  "index_header": "10 Mayıs 2013 ... 28643 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130510.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
