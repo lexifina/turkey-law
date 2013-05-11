@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-05-11",
+  "issue": "28644",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "KOSGEB Organlarının Çalışma Usul ve Esasları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130511-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130511.htm",
+  "index_sha256": "d18af62d9a163f362d102a84bf3348b809a22ee09f71de3619280e888d6daabb",
+  "index_header": "11 Mayıs 2013 ... 28644 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130511.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
