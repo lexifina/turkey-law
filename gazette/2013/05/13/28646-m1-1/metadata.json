@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-05-13",
+  "issue": "28646",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "5939 Sayılı Konut Edindirme Yardımı Hak Sahiplerine Ödeme Yapılmasına Dair Kanunda Değişiklik Yapılmasına İlişkin Kanun ve Konut Edindirme Yardımı Hak Sahiplerine Ödeme Yapılmasına Dair Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik ile 5664 Sayılı Konut Edindirme Yardımı Hak Sahiplerine Ödeme Yapılmasına Dair Kanuna 662 Sayılı Kanun Hükmünde Kararnamenin 73 üncü Maddesi İle Eklenen Hükme Göre Tespit Edilen Hak Sahipleri Listesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130513M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130513M1.htm",
+  "index_sha256": "1c770649aeb75102bf2825908c6b1b1e4e3a172046ca3db8a435de2fe9b6b70f",
+  "index_header": "13 Mayıs 2013 ... 28646 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
