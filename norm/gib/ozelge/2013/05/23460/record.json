@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[63-12/7]-439",
+  "source_id": 23460,
+  "date": "2013-05-13",
+  "title": "Şahıs sigorta poliçelerine ilişkin indirim konusu yapılan pirimler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23460",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "d5c15fba4be2fe2da2df72c682067587e8d4aa47c0371a1b485fc1eed1407259",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
