@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[34-12/6]-441",
+  "source_id": 28786,
+  "date": "2013-05-13",
+  "title": "Kurumlar vergisi beyannamesinde iadesi gereken kurumlar vergisi alacağının şirketin harç, idari para cezası ve SSK prim borçlarına mahsubu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28786",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "28436c94a6e56827051885d382103f8f532bec6d50edd27e794f10a81024ec82",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
