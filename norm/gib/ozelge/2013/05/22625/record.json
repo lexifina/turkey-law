@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125[6-2013]-69",
+  "source_id": 22625,
+  "date": "2013-05-14",
+  "title": "Program destekleme ibareli faturalarda yer alan tutarların kurum kazancının tespitinde gider olarak dikkate alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22625",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "b0dd8a1a002c198eb33a8df697d6b0378645a43c7078a6408bc0f81901fb07cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
