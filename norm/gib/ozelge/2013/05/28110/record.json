@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125[6-2013]-67",
+  "source_id": 28110,
+  "date": "2013-05-14",
+  "title": "Yatırım harcamalarının yatırımın ertelenmesi nedeniyle kurum kazancından indirim konusu yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/28110",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "8ff1ee000d22b2997122d4a89852d4e0ef478108345b61e8e6cc342ad1d1e28e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
