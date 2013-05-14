@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "30094508-155[1-2013/1.2]-18",
+  "source_id": 34733,
+  "date": "2013-05-14",
+  "title": "Teknoloji Geliştirme Bölgesi yönetici şirketinin damga vergisi muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34733",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "32f10870878f3a6474ac53b2e7c45563baffcde272ee4c80e8be0df5d00d0775",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
