@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13334133-KVK-02-3",
+  "source_id": 22579,
+  "date": "2013-05-15",
+  "title": "Personelin servis hizmetleri sırasında yapmış olduğu harcamalar ile pazarlama personelinin müşteri ziyaretleri için aldıkları hediyelik eşyalara ilişkin belgelerin tevsik edici belge olarak kullanılıp kullanılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22579",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "750f31f03f0f3fddb4ee52fb3ea0817979cc1f819671c7125f328d3854707b5c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
