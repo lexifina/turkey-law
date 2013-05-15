@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[42-12/23]-448",
+  "source_id": 22831,
+  "date": "2013-05-15",
+  "title": "Yıllara sari inşaat işi kapsamında alınan makine ve teçhizat tesliminde KDV tevkifatı yapılıp yapılmayacağı ve yapılacak işin süresinin 1 yıldan fazla olması nedeniyle bu teslimlerle ilgili vergi kesintisine tabi tutulup tutulmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22831",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "4e7a684eddf9aafb083f57aece052beda04036f9efd8a41e59ac193b101788d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
