@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "23",
+  "decision_date": "2013-05-16",
+  "source_id": 7390,
+  "chamber": "6",
+  "ilam_number": "116",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7390/",
+  "source_sha256": "8ab2704e556ef03fc57c61492a5eaa50f1f81c8e881d4c6c775a4e1949afb61c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
