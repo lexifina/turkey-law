@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "25",
+  "decision_date": "2013-05-16",
+  "source_id": 14227,
+  "chamber": "4",
+  "ilam_number": "109",
+  "item_number": 61,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14227/",
+  "source_sha256": "09cf8d944469892a80dee05ccb8c7d342fb56029067d54a79e3ee7622424f94f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
