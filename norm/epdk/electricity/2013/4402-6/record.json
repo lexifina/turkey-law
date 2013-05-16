@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4402-6",
+  "decision_date": "2013-05-16",
+  "title": "Kayıp Katsayıları Hesaplama Metodolojisine ilişkin Usul ve Esaslarda değişiklik",
+  "resmi_gazete_date": "2013-05-28",
+  "resmi_gazete_number": "28660",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VtHyVUqBzcM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VtHyVUqBzcM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/jhJm3YLoxk="
+  ],
+  "source_sha256": "aee5aac0caf0ee545ad80e30c49297ea2884fd9e3fd26588c7aa0ea4e0241aee",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-05-16",
+  "law_text_complete": false
+}
