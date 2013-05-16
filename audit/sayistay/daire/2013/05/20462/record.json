@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "23",
+  "decision_date": "2013-05-16",
+  "source_id": 20462,
+  "chamber": "6",
+  "ilam_number": "116",
+  "item_number": 41,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20462/",
+  "source_sha256": "de4b5f789b61d62a2cdc1a81e5b84dd5d49724c411966b4cf2cb218f317259bc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

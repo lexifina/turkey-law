@@ -1,0 +1,7 @@
+Ceza kesintisi
+
+… San. Tic. Ltd. Şti. yükleniminde bulunan “… Mahallesi … Yapım İşi” sözleşmesinin “Teknik personel, makine, teçhizat ve ekipman bulundurulması” başlıklı 23’üncü maddesinde yüklenicinin 1 adet şantiye şefini iş yerinde devamlı olarak bulunduracağı, bulundurmadığı taktirde günlük … TL ceza kesintisi yapılacağı düzenlemesi bulunmasına rağmen, şantiye şefinin çalıştırılmamasına rağmen cezanın kesilmediği, bunun sonucunda da kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi ve duruşmada hazır bulunan sorumlular tarafından yapılan sözlü açıklamaların dinlenilmesi sonucunda,
+
+İşe ait sözleşmenin 23’üncü maddesinde yüklenicinin 1 adet şantiye şefini iş yerinde devamlı olarak bulunduracağı, bulundurmadığı taktirde günlük … TL ceza kesintisi yapılacağı düzenlemesi bulunmaktadır. İşin 180 günde bitirileceği hüküm altına alınmışsa da 125 günde bitirildiği geçici kabul tutanağından anlaşılmaktadır.  Yüklenici iş yerinde şantiye şefini bulundurmadığından sözleşmede belirtilen cezanın 125 gün üzerinden kesilmesi gerekecektir. Yapılan savunmalardan şantiye şefinin iş yerinde bulunmadığı günler için 125 gün üzerinden cezanın kesildiği anlaşılmıştır.
+
+Bu itibarla kamu zararı olduğu iddia edilen … TL’den … TL’sinin … tarih ve … no.lu makbuzla tahsil edildiğinden ilişilecek husus kalmadığına, … TL içinse ceza kesintisi yapılmasına gerek olmadığından ilişilecek husus bulunmadığına oy birliğiyle, karar verildi.
