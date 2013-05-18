@@ -1,0 +1,3 @@
+Tez Değerlendirme ve Yeterlik Sınav Kuruluna ilişkin geçiş hükmü
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlük tarihini müteakip yapılacak ilk yeterlik sınavına yönelik Tez Değerlendirme ve Yeterlik Sınav Kurulu, daire başkanı ve daha üst seviyedeki Kurum yöneticileri arasından belirlenen bir başkan ve dört üyeden oluşur. Ayrıca, üç yedek üye belirlenir.
+(2) Bu Yönetmeliğin yürürlük tarihini müteakip yapılacak giriş sınavı/sınavlarına yönelik karar tarihi itibarıyla Kurumda yönetim hizmetleri uzmanı bulunmaması halinde giriş sınavı komisyonu, daire başkanı ve daha üst seviyedeki Kurum yöneticileri arasından belirlenen bir başkan ve dört üyeden oluşur. Ayrıca, üç yedek üye belirlenir.

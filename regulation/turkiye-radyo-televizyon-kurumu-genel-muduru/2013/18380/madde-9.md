@@ -1,0 +1,4 @@
+Başvuruların incelenmesi ve adayların sınava kabulü
+MADDE 9 – (1) İnsan Kaynakları Dairesi Başkanlığı, süresinde yapılan başvuruları inceleyerek adaylarda aranan şartların mevcut olup olmadığını tespit eder ve giriş sınavına katılabileceklerin isimlerini KPSS puanları ile birlikte Kurum ilan panosu ile resmi internet adresinde ilan eder.
+(2) Yazılı sınava girme hakkı kazanan adaylara fotoğraflı sınav giriş belgesi verilir. Sınav giriş belgesinde kimlik bilgileri, sınav yeri ve tarihi yer alır. Sınav giriş belgesi olmayan adaylar sınava katılamazlar.
+(3) Giriş sınavına katılmaya hak kazananlardan gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılır ve atamaları yapılmaz. Bunların atamaları yapılmış olsa dahi iptal edilir. Bunlar hiçbir hak talep edemez ve haklarında Cumhuriyet Başsavcılığına suç duyurusunda bulunulur.

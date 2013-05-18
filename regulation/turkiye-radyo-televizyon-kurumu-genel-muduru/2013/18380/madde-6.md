@@ -1,0 +1,2 @@
+Giriş sınavı duyurusu
+MADDE 6 – (1) Giriş sınavına katılma şartları, sınavın yapılış şekli, değerlendirme yöntemi, atama yapılacak kadro sayısı, KPSS puan türleri ve asgari puanlar, sınava çağrılacak aday sayısı, son başvuru tarihi, başvuru yeri, başvuru şekli ve başvuruda istenecek belge ve beyanlar, gerek görülmesi halinde öğrenim dalları ve kontenjanları ile diğer hususlar son başvuru tarihinden en az onbeş gün önce Resmî Gazete’de, Türkiye genelinde yayımlanan tirajı en yüksek ilk beş gazetenin en az birinde ve Kurumun internet adresinde yayımlanmak suretiyle duyurulur.
