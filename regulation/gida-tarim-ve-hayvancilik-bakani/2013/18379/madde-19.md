@@ -1,0 +1,3 @@
+Aylık ücret ve mali haklar
+MADDE 19 – (1) Ajansta istihdam edilecek Genel Sekretere, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin birinci fıkrasının (B) bendine göre istihdam edilenlerin sözleşme tavanının beş katını, diğer personele aynı sözleşme tavanının iki katını geçmemek üzere aylık ücret ödenir. Sözleşmeli personelin aylık ücreti dışındaki ödenek, her türlü zam ve tazminatları ile fazla mesai, diğer mali hak ve yardımları ile ilgili 4857 sayılı İş Kanunu hükümleri uygulanır.
+(2) Birinci fıkra hükümlerine aykırı olmamak koşuluyla belirli süreli iş sözleşmesiyle istihdam edilecek sözleşmeli personele ödenecek aylık ücret Yönetim Kurulunun onayıyla Genel Sekreterlik tarafından belirlenir.

@@ -1,0 +1,4 @@
+Yarışma sınavının yapılışı
+MADDE 12 – (1) Sınav ilanında belirtilen şartları taşıyan ve gerekli belgeleri zamanında Genel Sekreterliğe teslim etmiş olan kişiler yarışma sınavına alınırlar.
+(2) Yarışma sınavı, Genel Sekreterin başkanlığında, Genel Sekreter tarafından görevlendirilen iki personel olmak üzere toplam üç kişilik Sınav Kurulu tarafından yapılır.
+(3) Sınav Kurulu üyeleri, adayın çalıştığı alandaki uzmanlık düzeyi, mesleki tecrübe ve bilgi birikimi, yabancı dil bilgisi ve bilinen yabancı dili kullanabilme düzeyi, adayın kavrayış, ifade ve temsil kabiliyeti, muhakeme gücü, görevlendirilecek pozisyona yatkınlık, davranış ve tepkilerinin işe uygunluğu gibi niteliklere sahip olup olmadığını da göz önüne alarak her adaya ayrı ayrı not verir. Sınav Kurulu bu hususları tespit etmek üzere uygun gördüğü bilgi ve belgeleri adaylardan ister.

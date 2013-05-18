@@ -1,0 +1,13 @@
+BEŞİNCİ BÖLÜM
+Personelin Yükümlülükleri ve Cezai Sorumluluk
+Personelin yükümlülükleri
+MADDE 20 – (1) Ajans personelinin yükümlülükleri aşağıda belirtilmiştir.
+a) Personel, Anayasaya ve kanunlara sadakatle bağlı kalmak ve uygulamak zorundadır.
+b) Personel, herhangi bir siyasi parti, kişi veya zümrenin yararını veya zararını hedef tutan bir davranışta bulunamaz; görevlerini yerine getirirken dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep gibi ayırım yapamaz; hiçbir şekilde siyasi ve ideolojik amaçlı beyanda ve eylemde bulunamaz ve bu eylemlere katılamaz. Anayasaya ve kanunlara aykırı olan, ülkenin bağımsızlığını ve bütünlüğünü bozan, Türkiye Cumhuriyetinin güvenliğini tehlikeye düşüren herhangi bir faaliyette bulunamaz.
+c) Personel, amiri olduğu birimlerde kanun, tüzük, yönetmelik ve görev tanımlarında belirlenen görevleri zamanında ve eksiksiz olarak yapmaktan ve yaptırmaktan, maiyetindeki personeli yetiştirmekten, hal ve hareketlerini takip ve kontrol etmekten görevli ve sorumludur. Amir, personeline eşitlik içinde davranır. Amir yetkisini kanun, tüzük, yönetmelik ve görev tanımlarında belirtilen esaslar içinde kullanır.
+ç) Personel, görevi ile ilgili mevzuatı bilmek ve değişiklikleri izlemekle sorumlu, Ajans tarafından uygun görülen bilgilendirme ve yeniliklere yönelik kurs, seminer ve konferans gibi çalışmalara katılmakla yükümlüdür.
+d) Personel, kanun, tüzük, yönetmelik ve görev tanımlarında belirlenen esaslara uymakla yükümlü ve görevlerinin dikkat ve itina ile tam ve zamanında yürütülmesinden amirlerine karşı sorumludur.
+e) Personel, kendisine teslim edilen Ajans malını korumak ve her zaman hizmete hazır halde bulundurmak için gerekli tedbirleri almak, göreviyle ilgili belge, araç ve gereçleri yetki verilen yerler dışına çıkarmamak ve özel işlerinde kullanmamak zorundadır. Görevi gereği kendisine teslim edilen belge, araç ve gereçleri görevi sona erdiği zaman geri vermek zorunda olup, bu zorunluluk personelin mirasçılarına da şamildir. Personelin kasıt, kusur, ihmal veya tedbirsizliği sonucu Ajans zarara uğratılmışsa, bu zararın ilgili personel tarafından rayiç bedeli üzerinden ödenmesi esastır.
+f) Genel Sekreter dışındaki personel, görevleri hakkında basına, haber ajanslarına veya radyo ve televizyon kurumlarına doğrudan bilgi veya demeç veremez. Bu konuda gerekli bilgi ancak Yönetim Kurulunun veya Genel Sekreterin yetkili kılacağı görevliler tarafından verilebilir.
+g) Personel, göreviyle ilgili gizli bilgileri görevinden ayrılmış bile olsa, yazılı izin almadan açıklayamaz.
+ğ) Personelin kasıt, kusur, ihmal veya tedbirsizliğinden dolayı, kişilerin uğradıkları zararlar neticesinde Ajans aleyhine açılan davalar sonucunda oluşan zararlarda, Ajansın ilgili personele rücu hakkı saklıdır.
