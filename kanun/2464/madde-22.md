@@ -371,20 +371,10 @@ Belediyelerin gruplara ayrılması:
 Madde 95 – Belediyeler, nüfusları ile ekonomik ve sosyal gelişme durumlarına göre Maliye Bakanlığı ile Devlet Planlama Teşkilatının görüşü alınarak İçişleri Bakanlığınca beş gruba ayrılır ve Resmi Gazete'de ilan olunur.
 Bu şekilde ayrılacak belediye grupları bu kanunun yayımı tarihinden itibaran her üç yılda bir yukarıdaki usule göre gözden geçirilerek yenilenir.
 Vergi ve harç tarifelerinin tespiti:
-Madde 96 – A) Bakanlar Kurulu, bu Kanunda en az ve en çok miktarları gösterilen aşağıda yazılı vergi ve harçların tarifelerini belediye grupları itibariyle tayin ve tespit eder: (1)
-1. (Mülga: 7/11/1984 - 3074/8 md.)
-2. Kaynak Suları Harcı,
-3. Hayvan Kesimi Muayene ve Denetleme Harcı,
-4. Ölçü ve Tartı Aletleri Muayene Harcı,
-5. Kayıt ve Suret Harcı,
-6. İmar Mevzuatı Gereğince Alınacak Harçlar, (Ticaret ve konut bölgeleri için ayrı ayrı).
-7. Muayene, Ruhsat ve Rapor Harcı,
-8. Sağlık Belgesi Harcı,
-9. (Ek: 21/1/1982 - 2589/2 md.) Bina İnşaat Harcı.
-B) Yukarda sayılanlar dışındaki vergi ve harçların maktu tarifeleri; bu Kanunda belirtilen en alt ve en üst sınırları aşmamak şartıyla mahallin çeşitli semtleri arasındaki sosyal ve ekonomik farklılıklar gözönünde tutularak belediye meclislerince tespit olunur.(2)
+Madde 96 – A) (Değişik: 24/5/2013-6487/16 md.) Bakanlar Kurulu, bu Kanunda en az ve en çok miktarları gösterilen vergi ve harçların tarifelerini belediye grupları itibarıyla tayin ve tespit eder.
+B) (İptal: Anayasa Mahkemesi’nin 29/12/2011 tarihli ve E.: 2010/62 K.: 2011/175 sayılı Kararı ile.) (1)
 ——————————
-(1) Bakanlar Kurulunun bu konudaki 83/7539 sayılı Kararı için 31/12/1983 tarih ve 18268 sayılı, 88/12514 sayılı Kararı için de, 10/3/1988 tarih ve 19750 sayılı Resmi Gazetelere bakınız.
-(2) Anayasa Mahkemesinin 29/12/2011 tarihli ve E.: 2010/62 K.: 2011/175 sayılı Kararı ile bu fıkra iptal edilmiş olup iptal hükmünün, kararın Resmî Gazete’de yayımlandığı 19/5/2012 tarihinden başlayarak bir yıl sonra yürürlüğe girmesi hüküm altına alınmıştır.
+(1) Sözkonusu İptal Kararı Resmî Gazete’de yayımlandığı 19/5/2012 tarihinden başlayarak bir yıl sonra yürürlüğe girmiştir.
 5272
 C) (Ek: 4/12/1985 - 3239/124 md.) Bakanlar Kurulu bu Kanunda yer alan maktu vergi ve harçların en az ve ençok miktarlarını belirleyen hadleri birlikte veya ayrı ayrı yahut her vergi ve harçla ilgili tarifelerde yer alan en az ve en çok hadleri birlikte veya ayrı ayrı on katına kadar artırmaya ve Kanunda yazılı hadlerden az ve bu hadlerin on katından çok olmamak üzere yeni hadler tespit etmeye ve 21 inci maddede yazılı Eğlence Vergisi nispetlerini birlikte veya ayrı ayrı bir katına kadar artırmaya veya sıfıra kadar indirmeye yetkilidir.
 Ücrete tabi işler:
