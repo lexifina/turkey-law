@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-140[59-2012/35]-474",
+  "source_id": 36161,
+  "date": "2013-05-20",
+  "title": "Büyükşehir belediyesi adına kayıtlı taşınmazın İSKİ Genel Müdürlüğü Kuruluş ve Görevleri Hakkında 2560 sayılı Kanun hükümleri çerçevesinde kurulan ve İlin su ihtiyacını karşılamak amacıyla faaliyet gösteren genel müdürlük adına tapuda yapılacak tescil işl",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36161",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "06f84db13e172e402da88795207fbe5afb60835de9911a95a7688c10461e0b07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
