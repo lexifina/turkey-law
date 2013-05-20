@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125[30-2013]-72",
+  "source_id": 23413,
+  "date": "2013-05-20",
+  "title": "Rusya'da mukim grup firması tarafından Türkiye'de görevlendirilen personele ödenen ücretlerin vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/23413",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "a37f7074e0e7e9d406a76649561ff895cf1236d93f7205a3198e7df2abba6973",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
