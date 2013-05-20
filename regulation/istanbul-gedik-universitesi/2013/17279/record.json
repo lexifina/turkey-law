@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-04-15",
+      "15.04.2013",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2013-05-20",
+      "RG-20/5/2013-28652",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-05-20",
+      "20/5/2013",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-20/5/2013-28652",
+  "first_law": null,
+  "gazette": "28619",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-05-20",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Gedik Üniversitesi",
+  "issuer_slug": "istanbul-gedik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gedik-universitesi/2013/17279",
+  "published": "2013-04-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=17279&MevzuatTertip=5",
+  "source_bytes": 48698,
+  "source_id": "8.5.17279",
+  "source_sha256": "bd416f877ad14a8bf75d8c971c53bbba173d718bee604368c04364b3b7c999c6",
+  "text_status": "current-consolidated",
+  "title": "GEDİK ÜNİVERSİTESİ AVRUPA BİRLİĞİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 369,
+  "word_count": 1307
+}
