@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[6-2012/383]-741",
+  "source_id": 22623,
+  "date": "2013-05-21",
+  "title": "Uzun dönemli kredilere ilişkin faiz giderlerinin hangi dönemde giderleştirileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22623",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "87871d7bebe99106d74ff1f4d1ada204a023389e6bd0e6167c38c8418997cffa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
