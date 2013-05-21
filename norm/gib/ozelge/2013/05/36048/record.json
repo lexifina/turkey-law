@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-140[108-2012/137]-752",
+  "source_id": 36048,
+  "date": "2013-05-21",
+  "title": "Serbest muhasebeci ruhsatına sahip iken serbest muhasebeci mali müşavirlik ruhsatı almaya hak kazanılması durumunda serbest muhasebeci mali müşavirlik ruhsatından ne şekilde harç aranılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36048",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "148ac64348cbc3256b1b844e7be885aaf25c33bbca450e649297af9e6904ca6b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
