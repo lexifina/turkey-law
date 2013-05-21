@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-140[57-2013/28]-754",
+  "source_id": 35772,
+  "date": "2013-05-21",
+  "title": "Siyasi partilerin gayrimenkul edinimlerine ilişkin olarak tapuda yapacakları işlemler sırasında tapu harcından muaf olup olmadıkları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35772",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "e85bf8141cb80b2267473db418950f3ab24787a268b44c3d0cae8f3a0eeddbef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
