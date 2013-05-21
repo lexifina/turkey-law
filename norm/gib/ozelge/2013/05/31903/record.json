@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "60938891-125-7",
+  "source_id": 31903,
+  "date": "2013-05-21",
+  "title": "Kooperatifinizin ana sözleşmesine ilave olarak yem satış işi yapacağınızı belirterek kurumlar ve KDV 'si ne tabi olup olmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/31903",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "db0b091d8e62be78111740e0b16964bb652c58e85c459c94f7021b903d5e5ed7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
