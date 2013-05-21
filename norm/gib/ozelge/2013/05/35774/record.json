@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37009108-140[[57,Md.-2012]]-47",
+  "source_id": 35774,
+  "date": "2013-05-21",
+  "title": "Yasal mirasçılar adına tapuda iştirak (elbirliği) halinde intikali yapılan gayrimenkulün satılması durumunda mirasçılarının tapu harcını elbirliği beyanı üzerinden mi yoksa mirasçıların hissesi çözülmüş olarak ayrı ayrı mı alınacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35774",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "c3ecdd31c1dc7327b3ed086fe59f45a98bfe88a66761206265462b5306a45368",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
