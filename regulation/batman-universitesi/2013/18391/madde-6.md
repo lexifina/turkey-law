@@ -1,0 +1,20 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez amaçları doğrultusunda aşağıdaki alanlarda faaliyetlerde bulunur:
+a) Araştırma ve incelemeler yapmak,
+b) Bilimsel ve teknolojik araştırma-geliştirme çalışmaları yapmak,
+c) Bilim ve teknoloji alanında hazırlanacak projelere bilimsel destek vermek,
+ç) Araştırma yapacak kişi ve kurumlara bilgi, eğitim, teknik ekipman ve alt yapı desteği sağlamak, araştırma ortamlarını oluşturmak,
+d) BTÜ bilimsel araştırma projeleri komisyonu tarafından kabul edilip desteklenen projelerin Merkezde çalışılmasına imkân ve destek sağlamak,
+e) Diğer araştırma ve eğitim kurumlarında kurulup işletilmesi güç olan araç, gereç ve araştırma alt yapısını kurarak; Türkiye’deki araştırmacılara, BTÜ birimlerine ve diğer kurumlara açık olarak işletmek,
+f) Araştırmalar için gerekli görülen özel alet ve teçhizatı Merkez içinde geliştirmek; ihtiyaç duyulanları gerek kendisi, gerekse diğer araştırma kuruluşları için üretmek,
+g) İleri teknolojik ürünler ortaya çıkarmak,
+ğ) Özel, hassas alet ve teçhizatın bakım, onarım, ayar, analiz ve test hizmetlerini imkânları ölçüsünde yerine getirmek,
+h) Sertifikasyon hizmeti vermek,
+ı) Temel bilimler, uygulamalı bilimler ve mühendislik konularında danışmanlık ve araştırma hizmetleri sunmak,
+i) Araştırmaların uluslararası etik standartlara uygun yürütülmesini sağlamak,
+j) Diğer kurumlarda görevli kişilerin araştırmalarına deney imkânı sağlamak,
+k) Bilimsel araştırma yapan yurt içindeki ve yurt dışındaki kurum ve kuruluşlarla işbirliği yapmak, iletişim ağı oluşturmak,
+l) Merkezin amaçları doğrultusunda gerçekleştireceği bilimsel çalışmalar ile sonuçlarının takip edilmesi, ulusal ve uluslararası kuruluşlarca ortaya konan bilimsel gelişme ve yayınların izlenebilmesi amacıyla arşiv oluşturmak,
+m) Araştırma ve uygulama sonucu üretilen bilgileri ulusal ve uluslararası bilimsel toplantı ve yayınlarla ilgililere ve kamuoyuna duyurmak,
+n) Ulusal ve uluslararası nitelikte kongre, çalıştay, seminer, kurs ve benzeri etkinlikler düzenlemek,
+o) Merkezin amacıyla ilgili diğer faaliyetlerde bulunmak.
