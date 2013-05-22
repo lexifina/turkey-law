@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-145[2012-6]-495",
+  "source_id": 38177,
+  "date": "2013-05-22",
+  "title": "1997/10-2003/11 dönemleri arasında Sosyal Güvenlik Kurumuna verilen bildirgelerden eğitime katkı payı aranılıp aranılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38177",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b4cbf062118dfe37d0e41a0477208403f05b5e2367df17990b45c1a3ffbfd2ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
