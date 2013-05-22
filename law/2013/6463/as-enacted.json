@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6463",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti ile Bosna-Hersek Cumhuriyeti Arasında Kültür Alanında İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-05-22",
+  "gazette_issue": "28654",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130522-1.htm",
+  "source_sha256": "5016042ee7bc1849ccc2511171a0a87491d918b86375f7686e073f8a0395e7ae",
+  "text_sha256": "2e893fd972bf0b2a4601483806b2089e8597f4a09ec1e78e2c1dcbf5d7e0e3a5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/05/22/28654-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130522-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
