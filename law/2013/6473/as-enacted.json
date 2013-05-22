@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6473",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Birleşik Tanzanya Cumhuriyeti Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunması Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-05-22",
+  "gazette_issue": "28654",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130522-11.htm",
+  "source_sha256": "dd71edf664f0d5b188d45a6ad0efdf53ea4857c3f448cc2455e7330efe61f9be",
+  "text_sha256": "ae2e1e613585b8188c84f35d8899b5839e2de070f9337e357075d7c4e483c327",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/05/22/28654-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130522-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
