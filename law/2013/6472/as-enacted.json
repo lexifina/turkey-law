@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6472",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti ile Gürcistan Arasındaki Serbest Ticaret Anlaşmasının I Sayılı Protokolünün II Sayılı Ekinin Değiştirilmesi Hak-kındaki 1/2010 Sayılı Ortak Komite Kararının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-05-22",
+  "gazette_issue": "28654",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130522-10.htm",
+  "source_sha256": "c780a6b5c2283d74c19e8c0ebb66eedcae91d2f206ac93e7bad6d53f28566388",
+  "text_sha256": "4f84f699dc348d9b52c0235fd02da1c796e59bc93849f34af93d5e6048dca16d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/05/22/28654-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130522-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
