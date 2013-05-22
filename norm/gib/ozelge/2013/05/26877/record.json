@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-160[10-2013/5-1.4.1722]-755",
+  "source_id": 26877,
+  "date": "2013-05-22",
+  "title": "Voli mahallinin veraset ve intikal vergisi matrahı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/26877",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "d9f147c2bcc35414daec5b240c660ce0047e0b3488492a0f38507babfa776102",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
