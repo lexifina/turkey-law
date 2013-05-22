@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6466",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kosova Cumhuriyeti Hükümeti Arasında Tarım Alanında İşbirliği Konulu Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-05-22",
+  "gazette_issue": "28654",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130522-4.htm",
+  "source_sha256": "5ad8f814fa94e7941471abf089c4d06917efc58c0f8929031a4d6237623b7915",
+  "text_sha256": "a1d81ee6b4796d04d37cca57e2296e55036ce2bc8b149ab26639ae271392070b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/05/22/28654-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130522-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
