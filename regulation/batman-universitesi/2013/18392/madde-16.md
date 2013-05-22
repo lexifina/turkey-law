@@ -1,0 +1,2 @@
+Çalışma grupları ve görevleri
+MADDE 16 – (1) Merkez bünyesinde gerçekleştirilecek çeşitli faaliyetlerin verimliliğini artırmak amacı ile sürekli veya geçici çalışma grupları oluşturulur. Çalışma grubu başkanları ve üyeleri, Müdürce önerilen adaylar arasından Yönetim Kurulunca belirlenir ve görevlendirilir. Sürekli çalışma grubu üyeleri üç yıl, diğer üyeler verilen görevlerin gerektirdiği süreler için görevlendirilir. Çalışma gruplarının faaliyetleri Müdürce izlenir ve denetlenir. Süresi dolan çalışma grubu üyeleri yeniden görevlendirilebilir.
