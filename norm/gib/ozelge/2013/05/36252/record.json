@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-160[1-2013/5-1.2.858]-759",
+  "source_id": 36252,
+  "date": "2013-05-22",
+  "title": "Veraset ve intikal vergisi beyannamesinde mirasın nasıl beyan edileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36252",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "7dcf7ec4d6e468b6c0785a611657d706c405332d76cb89f20c2f559541171450",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
