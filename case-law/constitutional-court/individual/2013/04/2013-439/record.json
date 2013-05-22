@@ -1,0 +1,20 @@
+{
+  "applicant": "İ.Ç.",
+  "application_date": "2013-01-07",
+  "application_number": "2013/439",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2013-04-16",
+  "id": "fe4cebed-494d-e4b9-31d6-73d68194e678",
+  "in_force": "2013-05-22",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2013-05-22",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmZlNGNlYmVkLTQ5NGQtZTRiOS0zMWQ2LTczZDY4MTk0ZTY3OA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "e0ea7a8da1c34f69c5db5804a28d83b219ecd100ba2cdc5a7b5ae9d8aa294c12",
+  "version_label": "as-enacted"
+}
