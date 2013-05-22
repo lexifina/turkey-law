@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6474",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti ile Tunus Cumhuriyeti Arasında Serbest Ticaret Alanı Tesis Eden Ortaklık Anlaşmasının Ekinde Değişiklik Yapılması Hakkındaki 1/2012 Sayılı Türkiye-Tunus Ortaklık Konseyi Kararının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-05-22",
+  "gazette_issue": "28654",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130522-12.htm",
+  "source_sha256": "7b73751dad3c297771bf5c205336ec97655b81de6a8540fe00448e6048d92158",
+  "text_sha256": "67f1d017321e4619b5528ef72713be30646fe52603fa4fbefc2c45efb503f473",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/05/22/28654-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130522-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
