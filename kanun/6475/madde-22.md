@@ -1,0 +1,6 @@
+Faaliyet konuları ve nitelikleri
+MADDE 22 – (1) PTT; yurt içinde ve yurt dışında her türlü taşımacılık hizmetlerini de içerecek şekilde posta, koli, kargo ve lojistik hizmetleri, pul basımı ve satımı, denetlemeye ilişkin hükümleri saklı kalmak kaydıyla, 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununa tabi olmaksızın, anılan Kanun kapsamında belirtilen faaliyet konuları ile ilgili olarak bankalarla yapacağı sözleşmeler doğrultusunda bankalara destek hizmeti, parasal posta hizmeti, ödeme hizmeti sunma, adres bilgi kayıt sistemi ve elektronik sertifika hizmet sağlayıcılığı, elektronik ortam dâhil her türlü tebligat ve telgraf hizmetine ilişkin faaliyetler ile esas sözleşmesinde belirlenen diğer faaliyetleri yürütür.
+(2) PTT, 2/4/1987 tarihli ve 3346 sayılı Kamu İktisadi Teşebbüsleri ile Fonların Türkiye Büyük Millet Meclisince Denetlenmesinin Düzenlenmesi Hakkında Kanun hükümlerine tabidir.
+(3) PTT’nin teşkilatı, sermaye miktarı, hisseleri, hesapları ve kârın dağıtımına ilişkin esaslar esas sözleşmesinde gösterilir.
+(4) PTT’nin yurt içinde ve yurt dışında şirket kurma veya kurulu bulunan şirketlere ortak olmasına ilişkin usul ve esaslar Bakanlar Kurulu tarafından belirlenir.
+(5) PTT, uluslararası birlik ve kuruluşların çalışmalarında, işletmeci olarak posta sektörünü temsil etmeye ve protokol yapmaya yetkilidir.

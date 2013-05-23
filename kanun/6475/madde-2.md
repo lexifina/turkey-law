@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Kanun; posta gönderilerinin kabulü, toplanması, işlenmesi, sevki, dağıtımı ve teslimine ilişkin işlem ve hizmetlerin sunulması, yetkilendirme, tarife ilkeleri ve hizmet şartlarının tespit edilmesi, sektörde düzenleme ve denetimin gerçekleştirilmesi, bunlara ilişkin yaptırımların belirlenmesi ile Posta ve Telgraf Teşkilatı Anonim Şirketinin kuruluşu, yapılanması, faaliyet konuları ve hizmetlerinin yürütülmesine ilişkin usul ve esasları kapsar.
