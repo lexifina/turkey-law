@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4419",
+  "decision_date": "2013-05-23",
+  "title": "Diğer tedarikçilerden enerji satın alan serbest tüketicilerin görevli perakende satış şirketlerine dönmesi halinde uygulanacak perakende satış fiyatlarına ilişkin 4190 Sayılı Kurul Kararı’nın yürürlükten kaldırılmasına ilişkin",
+  "resmi_gazete_date": "2013-05-23",
+  "resmi_gazete_number": "28660",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JYP8x6y3QbI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JYP8x6y3QbI="
+  ],
+  "source_sha256": "2d77e41d4c5e81d1373d4156b3ff42028f3fbfff7bdac4fc4774433c72d061ca",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-05-23",
+  "law_text_complete": false
+}
