@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4414",
+  "decision_date": "2013-05-23",
+  "title": "İnegöl Gaz Dağıtım San. ve Tic. A.Ş.’nin (İNGAZ) 2012-2016 yılları arası perakende satış tarifelerine yönelik aşağıdaki Karar alınmıştır",
+  "resmi_gazete_date": "2013-05-31",
+  "resmi_gazete_number": "28663",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=v0bXvDlwCTQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=v0bXvDlwCTQ="
+  ],
+  "source_sha256": "7e0b1bc9dbd2cb3ecafd3995bc0f60745725726e0ff0b6fbf052059ceebe4f51",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-05-23",
+  "law_text_complete": false
+}
