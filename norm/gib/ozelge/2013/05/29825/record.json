@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[01-2012/68]-499",
+  "source_id": 29825,
+  "date": "2013-05-23",
+  "title": "Azerbaycan'da alınan iş bünyesinde yapılan çelik boru döşemesi, baş kaynağı, izolasyon ve montaj işlerinden ve Irak'ta proje kapsamında yapılan içme suyu boru döşemesi, montaj ve kaynak ile çelik boru bağlantı işlerinden elde edilecek kazançların kurumlar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29825",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "269d4d3f7474357e90ab28d51e18860413394ddd92dc8e9a0783128150f078f5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
