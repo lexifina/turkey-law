@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-05-25",
+  "issue": "28657",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İyi Tarım Uygulamaları Destekleme Ödemesi Yapılmasına Dair Tebliğ (No: 2013/22)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130525-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130525.htm",
+  "index_sha256": "b49580eb6a1efbd89179514d77643200d71aa71c59533eafa4ab8dbc68d7297c",
+  "index_header": "25 Mayıs 2013 ... 28657 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130525.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
