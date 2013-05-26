@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.18400",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MESLEKİ SORUMLULUK SİGORTASI GENEL ŞARTLARI",
+  "number": "18400",
+  "path": "teblig/2013/18400",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18400&MevzuatTertip=5",
+  "source_sha256": "e488215a2c2e4f2de9c6e17a46f380195c6e38e744b79478c84f8fc066bad509",
+  "source_bytes": 349807,
+  "published": "2013-05-26",
+  "gazette": "28658",
+  "in_force": "2013-05-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.05.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3371,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
