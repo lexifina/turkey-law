@@ -1,0 +1,4 @@
+Sağlık hizmetleri
+MADDE 15 – (1) Merkeze gelen hastaların yatış ve çıkış işlemleri, Pamukkale Üniversitesi Sağlık Araştırma ve Uygulama Merkezi (Hastane) tarafından yapılır.
+(2) Hastaların tedavilerine ilişkin hususlar Senato tarafından belirlenir.
+(3) Merkezde; 16/2/2004 tarihli ve 25375 sayılı Resmî Gazete’de yayımlanan Madde Bağımlılığı Tedavi Merkezleri Yönetmeliği gereğince bulundurulması gerekli olan hasta odaları ve klinikler, hemşire istasyonu, detoksifikasyon ünitesi, poliklinik muayene odaları, numune alma odası ve ayrıca eczane, laboratuarlar, sterilizasyon ünitesi, mutfak, çamaşırhane, tıbbi atık ve çöp toplama bölümü ve morg Pamukkale Üniversitesi Tıp Fakültesi tarafından sağlanır. Bağımlılık yapan maddelerin tespitine ilişkin testler, Pamukkale Üniversitesi Sağlık Araştırma ve Uygulama Merkezindeki Merkez laboratuarı tarafından acil olarak yapılır.

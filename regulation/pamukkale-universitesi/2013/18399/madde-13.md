@@ -1,0 +1,2 @@
+Danışma kurulunun görevleri
+MADDE 13 – (1) Danışma Kurulu; Müdürün çağrısı üzerine yılda en az bir kez toplanır, Merkezle ilgili faaliyetleri değerlendirir, Merkezin amaçları doğrultusunda çeşitli proje önerilerinde bulunur, bu projelerin gerçekleştirilmesine yönelik fikirler oluşturur, ilgili kişi ve kuruluşlarla ilişkilerin geliştirilmesine yardımcı olur, faaliyet alanı ile ilgili alt komisyonlar oluşturabilir ve bu komisyonlarda görev alacak üyeleri önerebilir. Danışma Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
