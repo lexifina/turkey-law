@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37264",
+  "decision_date": "2013-05-28",
+  "source_id": 6446,
+  "chamber": "6",
+  "file_number": "35130",
+  "account_year": "2008",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/6446/",
+  "source_sha256": "96fe141576418d20dd074f972ed3a59966aab541f896324b906dbe3c834f268b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
