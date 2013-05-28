@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37245",
+  "decision_date": "2013-05-28",
+  "source_id": 6427,
+  "chamber": "2",
+  "file_number": "33535",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/6427/",
+  "source_sha256": "bb6cf13885608bcca4461c7245f85f190ee911e9c5eb94b6644cc510f289cd68",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
