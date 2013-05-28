@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-05-28",
+  "issue": "28660",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gayrimenkul Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130528-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130528.htm",
+  "index_sha256": "8c33f024f94f12e332113d7084d11e1df7be7334df740f5c374bb18194e31ee7",
+  "index_header": "28 Mayıs 2013 ... 28660 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130528.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
