@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6476",
+  "year": 2013,
+  "title": "RACVIAC-Güvenlik İşbirliği Merkezi Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-05-29",
+  "gazette_issue": "28661",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130529-1.htm",
+  "source_sha256": "cd7147af48b88be19772d9de3b4dbcf38fe28e62da406982f3ecd651766e0dc2",
+  "text_sha256": "5b66ae16c8d38f223546b6f4d401b49be47b710e8f98b543c2d53427b41feeb7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/05/29/28661-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130529-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
