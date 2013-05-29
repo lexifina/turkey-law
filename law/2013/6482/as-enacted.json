@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6482",
+  "year": 2013,
+  "title": "İslam Kalkınma Bankası Kuruluş Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-05-29",
+  "gazette_issue": "28661",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130529-7.htm",
+  "source_sha256": "3d41d62e1a398e7c035bcf1f9bdf922a4b76992d07dffb378910259c4c4064ab",
+  "text_sha256": "0d52bf47816b63fe88351c665fe1ddc9ee6c08e250f6ba1369afeff20fd3232e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/05/29/28661-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130529-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
