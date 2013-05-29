@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2013/DK-ETD/298",
+  "date": "2013-05-29",
+  "title": "Genişbant Erişim Kampanyası",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2013-05-29",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=134",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/0b178ca2-7d2f-4b35-b85b-087dcc9610f3.pdf",
+  "source_sha256": "5cd8165d529cd93339c1b185880b3a7df00b01707afffc3a0d3b85e803290cb8",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2013-05-29",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 29.05.2013; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
