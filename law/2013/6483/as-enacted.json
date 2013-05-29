@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6483",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti ile İslam Kalkınma Bankası Grubu Arasında Türkiye'de İslam Kalkınma Bankası Grubu Ülke Ofisi Kurulmasına İlişkin Anlaşma ile Anlaşmada Değişiklik Yapılmasına Dair Notaların Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-05-29",
+  "gazette_issue": "28661",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130529-8.htm",
+  "source_sha256": "d1dfb5e40ab1c0e93ffdc7a90fb8df84dbfe429dce8a9bcc4c1d965f538e87fa",
+  "text_sha256": "332fb272f31e554c05da6cc41f6dd38d5e9b4ce29b15ffa58736674938334140",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/05/29/28661-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130529-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
