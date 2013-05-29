@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-135[ÖZG-2012-16]-46",
+  "source_id": 29422,
+  "date": "2013-05-29",
+  "title": "İPA Çerçeve Anlaşması kapsamında tedarikçiye yapılacak teslimlerde KDV ve ÖTV istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29422",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "0c17d04c9aec7771268c67d5317449681860531ded3145dafd18ef38c086cc81",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
