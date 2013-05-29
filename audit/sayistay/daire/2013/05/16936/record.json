@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10246",
+  "decision_date": "2013-05-29",
+  "source_id": 16936,
+  "chamber": "1",
+  "ilam_number": "101",
+  "item_number": 21,
+  "account_year": 2011,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16936/",
+  "source_sha256": "8a1b83e36324b8d024e621116251acfcd109705167d89b0c7ff4bac8a0a35fd9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
