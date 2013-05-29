@@ -1,0 +1,9 @@
+YÜKSEKÖĞRETİM KURUMLARINDA İKİLİ ÖĞRETİM
+YAPILMASI, 2547 SAYILI YÜKSEKÖĞRETİM
+KANUNUNUN BAZI MADDELERİNİN DEĞİŞTİRİLMESİ
+VE BU KANUNA BİR EK MADDE EKLENMESİ
+HAKKINDA KANUN
+Kanun Numarası : 3843
+Kabul Tarihi : 19/11/1992
+Yayımlandığı R.Gazete : Tarih : 27/11/1992 Sayı : 21418
+Yayımlandığı Düstur : Tertip : 5 Cilt : 32
