@@ -1,0 +1,3 @@
+Geçici teminat
+MADDE 24 – (1) İhaleye katılacaklardan, ihale öncesinde şartnamesinde belirtilen ve ihale bedelinin %3’ünden az olmamak üzere, ihale bedeli belli olmayan işlerde ise Ajansın takdir edeceği maktu bir miktarda ya da teklif edilecek bedelin %3’ünden az olmamak üzere geçici teminat alınır.
+(2) Geçici teminatın banka teminat mektubu şeklinde verilmesi durumunda işin süresi ile bağlı olarak şartnamesinde belirtilen süre ile sınırlı süreli teminat mektubu alınabilir. İhale üzerinde kalan teklif sahibinin geçici teminatı, kesin teminat alındıktan ve sözleşme imzalandıktan sonra, ikinci sıradaki teklif sahibinin teminatı sözleşme imzalanana kadar, diğerlerininki ise ihale sonuçlandıktan sonra iade edilir.

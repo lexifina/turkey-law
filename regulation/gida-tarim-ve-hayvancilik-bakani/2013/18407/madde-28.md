@@ -1,0 +1,5 @@
+Kesin teminat
+MADDE 28 – (1) Üzerinde ihale kalan istekliden ihale bedelinin en az %6’sı oranında kesin teminat alınır. İhalelerde kesin teminatın banka teminat mektubu olarak verilmesi durumunda usulüne uygun düzenlenmiş süresiz teminat mektupları kabul edilir.
+(2) Güzel sanatlar ve benzeri fikrî emeğe dayalı işlerde kesin teminatın peşin alınması yerine hak edişten kesilmesi yoluna gidilebilir.
+(3) İşin sözleşme ve eklerine uygun olarak tamamlanıp kesin kabulü yapıldıktan ve yüklenicinin Ajansa borcu bulunmadığı tespit edildikten sonra Sosyal Güvenlik Kurumundan alınacak ilişiksizlik belgesi getirilmesi durumunda kesin teminat iade edilir. Ancak yatırım ve imalatla ilgili olmayıp, doğrudan doğruya hazır yedek parçaların ve diğer benzeri malzemenin alımına ilişkin ihaleler ile ekonomik ömrünü doldurmuş araç, gereç, hurda, demirbaş ve benzeri malzemenin satış ihalelerinde Sosyal Güvenlik Kurumundan ilişiksizlik belgesi istenmesine gerek yoktur.
+(4) Verilen kesin teminat, Ajansın uygun görmesi halinde teminat olarak kabul edilen diğer değerlerle değiştirilebilir.

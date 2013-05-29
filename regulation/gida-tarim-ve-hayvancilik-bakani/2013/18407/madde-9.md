@@ -1,0 +1,5 @@
+Şartnameler
+MADDE 9 – (1) İhale konusu mal veya hizmet alım-satımı ile yapım işlerinin her türlü özelliğini belirten idari ve teknik şartnamelerin Ajans tarafından hazırlanması esastır. Ancak mal veya hizmet alımları ile yapım işlerinin özelliği nedeniyle ihale yetkilisi tarafından gerekli görülmesi ve onaylanması halinde teknik ve idari şartnameler bu Yönetmelik hükümlerine göre hizmet satın almak suretiyle hazırlattırılabilir.
+(2) İhale konusu mal veya hizmet alımları ile yapım işlerinin teknik kriterlerine ve ayrıntılarına ihale dokümanının bir parçası olan teknik şartnamelerde yer verilir. Belirlenecek teknik kriterler ve ayrıntıların, verimliliği ve fonksiyonelliği sağlamaya yönelik olması ve bütün istekliler için fırsat eşitliği sağlaması gerekir.
+(3) Teknik şartnamelerde, varsa ulusal ve/veya uluslararası teknik standartlara uygunluğu sağlamaya yönelik düzenlemeler de yapılır. Bu şartnamelerde teknik özelliklere ve tanımlamalara yer verilir.
+(4) Ulusal ve/veya uluslararası teknik standartların bulunmaması veya teknik özelliklerin belirlenmesinin mümkün olmaması hallerinde “veya dengi” ifadesine yer verilmek şartıyla marka veya model belirtilebilir.
