@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10246",
+  "decision_date": "2013-05-29",
+  "source_id": 16928,
+  "chamber": "1",
+  "ilam_number": "101",
+  "item_number": 13,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16928/",
+  "source_sha256": "aa28609f8f46e0dd9e536e8f91c2f050782f8bec6e7ec03b8d399dc28d5bf516",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
