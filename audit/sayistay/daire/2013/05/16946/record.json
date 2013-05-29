@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10246",
+  "decision_date": "2013-05-29",
+  "source_id": 16946,
+  "chamber": "1",
+  "ilam_number": "101",
+  "item_number": 32,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16946/",
+  "source_sha256": "171d3b23bee437ab7149f39b992c90ea4eaebc41325af425cfa87d6a349c2b4e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
