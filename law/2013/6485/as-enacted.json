@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6485",
+  "year": 2013,
+  "title": "187 Sayılı İş Sağlığı ve Güvenliğini Geliştirme Çerçeve Sözleşmesine Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-05-29",
+  "gazette_issue": "28661",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130529-10.htm",
+  "source_sha256": "4ba2b79427561528990b4b10ac22ad116d95cb254775a5239049dee89d0195f4",
+  "text_sha256": "e9ed09e84fddfe22aa05b93cb9473893003add228179da13ddd356cdb54519c3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/05/29/28661-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130529-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
