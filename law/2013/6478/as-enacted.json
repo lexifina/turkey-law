@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6478",
+  "year": 2013,
+  "title": "1974 Denizde Can Emniyeti Uluslararası Sözleşmesine İlişkin 1988 Protokolüne Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-05-29",
+  "gazette_issue": "28661",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130529-3.htm",
+  "source_sha256": "602c021ab7ca0490235782cd9e3d1904dbcd9f139959d41ca81a5f9ab413966d",
+  "text_sha256": "f86785147a25caff4756b2976f24454234295047405847a55c132c0f532f5e38",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/05/29/28661-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/05/20130529-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
